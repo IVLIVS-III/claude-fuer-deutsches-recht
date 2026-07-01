@@ -104,14 +104,17 @@ Diese Regel gilt **ausnahmslos und für alle Zeiten** für jedes Dokument, das e
 ## Git- und PR-Verhalten
 
 - Pull Requests in diesem Repo werden **nicht als Draft** erstellt, sondern direkt als „ready" und nach Push **sofort auf `main` gemerged** — es sei denn, der Nutzer fordert ausdrücklich einen Draft oder eine Review-Pause.
-- Merges erfolgen per Merge-Commit (kein Squash, kein Rebase), damit die Entwicklungs-History pro Branch erhalten bleibt.
+- Im Repository ist nur **Squash-Merge** aktiv. Bei PRs wird deshalb `merge_method: squash` verwendet; andere Merge-Arten sind nicht zulässig.
+- Signierte Einzelcommits bleiben in der PR-Historie nachvollziehbar; der Squash-Commit übernimmt den geprüften Inhalt. Bestehende History und Tags bleiben unangetastet.
 - Force-Push auf `main` oder gemeinsame Branches ist verboten.
-- **Codex-Review verbindlich anstoßen — nicht blockierend.** Der Workflow je PR ist exakt:
+- Vor jedem Push wird `git fetch origin` ausgeführt.
+- Prüfkommentare oder externe Reviews sind hilfreich, blockieren den Merge aber nur, wenn Branch-Schutz, Nutzeranweisung oder ein konkreter Fehler das verlangen.
+- Der Workflow je PR ist exakt:
   1. PR erzeugen (`mcp__github__create_pull_request`). Standard ist `draft: false`. **`draft: true` nur dann**, wenn der Nutzer ausdrücklich einen Draft gefordert hat. Eine reine Review-Pause-Anweisung des Nutzers ändert den Draft-Status **nicht** — der PR bleibt `ready`.
-  2. Direkt im Anschluss einen Kommentar mit dem Inhalt `@codex review` posten (`mcp__github__add_issue_comment`). Dieser Schritt erfolgt sofort bei jedem `ready`-PR (also auch bei Review-Pause-PRs). Bei einem echten Draft-PR wird der Kommentar erst gepostet, sobald der PR auf `ready` gesetzt wird.
-  3. **Sofort** mergen (`mcp__github__merge_pull_request`, `merge_method: merge`) — **nicht** auf Codex' Antwort warten. **Ausnahme:** Bei einem vom Nutzer ausdrücklich gewünschten Draft **oder** einer Review-Pause wird hier nicht gemerged, sondern auf die Freigabe des Nutzers gewartet.
+  2. Wenn ein Prüfkommentar gewünscht ist, wird er direkt nach dem PR erstellt. Bei einem echten Draft-PR erfolgt das erst nach Umstellung auf `ready`.
+  3. **Sofort** per Squash mergen (`mcp__github__merge_pull_request`, `merge_method: squash`) — außer bei ausdrücklich gewünschtem Draft, Review-Pause, rotem Pflichtcheck oder Nutzerfreigabe-Vorbehalt.
 
-  Codex läuft im Hintergrund weiter und kommentiert später. Etwaige Findings werden — falls überhaupt nötig — in einem Folge-PR adressiert. Ziel ist eine durchgehende Audit-Spur ohne dass der Workflow blockiert wird. Diese Regel gilt für jeden PR unabhängig vom erzeugenden Werkzeug (Claude, Perplexity, Codex oder andere); die Draft- und Review-Pause-Ausnahmen aus dem ersten Punkt dieses Abschnitts bleiben unberührt.
+  Etwaige spätere Findings werden in einem Folge-PR adressiert. Ziel ist eine durchgehende Audit-Spur, ohne den Release-Fluss unnötig zu blockieren.
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
 

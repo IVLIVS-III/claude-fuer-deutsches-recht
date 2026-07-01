@@ -10,13 +10,16 @@ Beiträge sind willkommen – insbesondere zu neuen Rechtsgebieten, aktuelleren 
 - [ ] Skill-Frontmatter vollständig und validatorfest (`name`, `description`, optional `allowed-tools`).
 - [ ] Skills sind kanzleitauglich (reproduzierbar, mit Quellenpflicht, mit Fristlogik wo relevant).
 - [ ] Keine Mandantendaten / personenbezogene Daten im Beispiel.
-- [ ] `python scripts/validate.py` läuft fehlerfrei.
+- [ ] `node scripts/validate-plugin-structure.mjs` läuft fehlerfrei.
+- [ ] `python3 scripts/validate-yaml-frontmatter.py` läuft fehlerfrei.
+- [ ] `node scripts/validate-marketplace-import.mjs` läuft fehlerfrei.
+- [ ] `python3 scripts/audit-skill-activation.py` meldet keine schwachen Auswahlbeschreibungen.
 
 ## Skill-Struktur
 
 ```
-<plugin>/skills/<skill-name>/SKILL.md
-<plugin>/skills/<skill-name>/references/  (optional)
+plugin-slug/skills/skill-slug/SKILL.md
+plugin-slug/skills/skill-slug/references/  (optional)
 ```
 
 `SKILL.md`-Frontmatter:

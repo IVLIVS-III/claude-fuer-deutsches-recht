@@ -1,3 +1,12 @@
+# v407.0.0 — Wartungsregeln und Release-Checks synchronisiert
+
+- Repository-Leitfaden auf die aktive Squash-Merge-Regel angepasst; andere Merge-Pfade sind nicht mehr als Arbeitsweg dokumentiert.
+- Mitwirkenden-Checkliste auf die tatsächlich verwendeten Validatoren und das Skill-Auswahl-Audit nachgezogen.
+- Werkzeughinweise neutraler gefasst, damit künftige Bearbeitung nicht an veralteten Modell- oder Toolnamen hängt.
+- Repo-weiter Versions-Bump auf v407.0.0.
+
+---
+
 # v406.0.0 — Skill-Auswahl und Einstiegssignale geschärft
 
 - Repo-weiter Sweep der Skill-Beschreibungen: Auswahlsignale nennen jetzt konkreter Anlass, Rechtsbereich, Arbeitsschritt und verwertbares Arbeitsprodukt.

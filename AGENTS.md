@@ -1,6 +1,6 @@
 # AGENTS.md – Repository-Regeln für alle Agenten
 
-Dieses Repository enthält Plugins für deutsche Kanzleien. Diese Datei gilt für **jedes** Werkzeug, das hier arbeitet – Codex, Perplexity, Cloud, Claude und jedes weitere Modell. Der vollständige Leitfaden steht in [`CLAUDE.md`](./CLAUDE.md); halte dich an beide.
+Dieses Repository enthält Plugins für deutsche Kanzleien. Diese Datei gilt für **jedes** Werkzeug, das hier arbeitet. Der vollständige Leitfaden steht im zentralen Repository-Leitfaden im Wurzelverzeichnis; halte dich an beide.
 
 ## Gliederung und Nummerierung (verbindlich für alle Vorlagen und Verträge)
 
