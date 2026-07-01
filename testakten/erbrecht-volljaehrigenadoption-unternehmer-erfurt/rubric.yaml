@@ -1,0 +1,9 @@
+name: erbrecht-volljaehrigenadoption-unternehmer-erfurt
+description: Unternehmernachlass mit Volljährigenadoption, Alleinerbeneinsetzung, Pflichtteil leiblicher Kinder, GmbH-Bewertung und Erbscheinstaktik.
+checks:
+  - Rechtskräftige Volljährigenadoption nicht vorschnell ignorieren.
+  - Erbschein, Pflichtteil und Unternehmensbewertung trennen.
+  - Pflichtteilsquote mit und ohne Adoptionswirkung als Streitvariante darstellen.
+  - Auskunfts- und Wertermittlungsansprüche priorisieren.
+  - Testierfähigkeit nur bei konkreten Tatsachen problematisieren.
+

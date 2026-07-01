@@ -1,0 +1,9 @@
+name: rentenrecht-riester-zulagenrueckforderung-augsburg
+description: Riester-Zulagenrückforderung mit Mindesteigenbeitrag, Anbieterhinweis, Kinderzulage, Kindergeldwechsel und Einspruch gegen die Zentrale Zulagenstelle.
+checks:
+  - Mindesteigenbeitrag je Jahr aus Vorjahreseinkommen und Zulagen berechnen.
+  - Kinderzulage nicht pauschal verlieren lassen, sondern Kindergeldzuordnung prüfen.
+  - Anbieterhinweis von der behördlichen Zulagenfestsetzung trennen.
+  - Einspruchsfrist aus Zugang des Bescheids sichern.
+  - Jahresmatrix als Grundlage für Beratung und Nachzahlung verwenden.
+

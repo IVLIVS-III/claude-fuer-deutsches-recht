@@ -1,0 +1,9 @@
+name: erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg
+description: Pflichtteils- und Pflichtteilsergänzungsakte mit Hofübertragung, Vorbehaltsrechten, Baugrundstücken, Depotlücke, Pflegebehauptung und Auskunftsstufe.
+checks:
+  - Pflichtteil und Pflichtteilsergänzung getrennt berechnen.
+  - Vorbehaltsrechte und Gegenleistungen nicht pauschal behandeln.
+  - Auskunft, Wertermittlung und Zahlungsstufe unterscheiden.
+  - Zehnjahresbetrachtung und wirtschaftlichen Vollzug prüfen.
+  - Zahlung an Moritz als mögliche Anrechnung gesondert würdigen.
+

@@ -1,0 +1,9 @@
+name: sozialrecht-enzymsubstitution-seltene-erkrankung-jena
+description: Krankenversicherungsakte zur Enzymsubstitution bei seltener Erkrankung mit Off-Label-Nähe, Minderjähriger, drohenden irreversiblen Schäden und Eilrechtsschutz.
+checks:
+  - Off-Label-Nähe präzise von zugelassener Standardversorgung trennen.
+  - Befristeten Therapieversuch mit Verlaufsparametern herausarbeiten.
+  - Minderjährigenschutz, Schule und Teilhabe konkret belegen.
+  - MD-Aktenlage gegen fachklinische Stellungnahme abwägen.
+  - Eilbedürftigkeit nicht abstrakt, sondern an drohendem Funktionsverlust darstellen.
+

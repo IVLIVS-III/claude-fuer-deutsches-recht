@@ -1,0 +1,9 @@
+name: rentenrecht-witwenrente-einkommensanrechnung-luebeck
+description: Witwenrente mit Sterbevierteljahr, großer Witwenrente, Einkommensanrechnung, Betriebsrente, privater Sofortrente, KVdR-Abzügen und dänischer Kontenlücke.
+checks:
+  - Sterbevierteljahr von der Zeit ab August 2026 trennen.
+  - Große Witwenrente und Einkommensanrechnung nach Einkommensarten aufarbeiten.
+  - Bescheidbetrag nicht übernehmen, sondern Zwischenschritte nachfordern.
+  - Private Sofortrente nicht ohne Prüfung wie Arbeitsentgelt behandeln.
+  - Kontenklärung der dänischen Beschäftigungszeiten als eigenen Antrag erkennen.
+

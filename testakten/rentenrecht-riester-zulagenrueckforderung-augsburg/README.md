@@ -1,0 +1,39 @@
+# Rentenrecht: Riester-Zulagenrückforderung in Augsburg
+
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## Akte komplett herunterladen
+
+Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+
+| Was | Format | Quelle |
+| --- | --- | --- |
+| Gesamt-PDF (alles in einer Datei, 15 KB) | PDF | [`gesamt-pdf/rentenrecht-riester-zulagenrueckforderung-augsburg_gesamt.pdf`](gesamt-pdf/rentenrecht-riester-zulagenrueckforderung-augsburg_gesamt.pdf) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-riester-zulagenrueckforderung-augsburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-riester-zulagenrueckforderung-augsburg.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-riester-zulagenrueckforderung-augsburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-riester-zulagenrueckforderung-augsburg-einzelpdfs.zip) |
+
+Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
+Arbeitsakte zum Plugin `rentenpruefer`.
+
+## Kurzbild
+
+Nadja Erhart, 42, Altenpflegerin in Augsburg, erhält von der Zentralen Zulagenstelle eine Rückforderung mehrerer Riester-Zulagen. Der Anbieter meldete für 2023 und 2024 zu niedrige Eigenbeiträge; zugleich wurden Kinderzulagen für die 2011 und 2016 geborenen Kinder falsch verteilt, weil der geschiedene Vater für ein Jahr die Kindergeldberechtigung wechselte. Die Mandantin hat Dauerzulagenantrag, Anbieterpost, Gehaltsnachweise und Familienkassenbescheide, aber keine saubere Jahresberechnung.
+
+## Aktenstücke
+
+| Datei | Inhalt |
+| --- | --- |
+| `01_erstgespraech_riester.md` | Beratungsziel, Fristen, Familiensituation |
+| `02_zfa_rueckforderung.md` | Rückforderungsbescheid mit Jahresbeträgen |
+| `03_eigenbeitraege_und_zulagen.md` | Vertragsdaten, Einzahlungen, Kinderzulage |
+| `04_familienkasse_kindergeld.md` | Kindergeldwechsel und Zuordnung der Kinder |
+| `05_einspruch_entwurf.md` | Begründeter Rechtsbehelf mit Nachweisen |
+| `06_riester_jahresmatrix.csv` | Jahre, Einkommen, Sollbeitrag, Zulage, Differenz |
+| `07_anbieterhaftung_beratungsvermerk.md` | Anbieterhinweis, Schadenlinie und Nachforderung |
+
+## Bearbeitungsziel
+
+Die Akte soll eine Beratung zur Riester-Förderung erzwingen: Mindesteigenbeitrag, Grundzulage, Kinderzulage, Zulagenberechtigung, Anbieterfehler, Bescheidfrist und Nachzahlungsmöglichkeit müssen auseinandergehalten werden. Die Unterlagen sind bewusst nicht vorsortiert nach Ergebnis, sondern nach ihrem realistischen Eingang in einer Beratungsstelle.

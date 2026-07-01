@@ -3,7 +3,7 @@
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
-Plugin Fachanwalt für Erbrecht. BGB Erbrecht §§ 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaftsteuer EU-ErbVO. Schnittstellen Plugin steuerrecht-anwalt-und-berater kanzlei-allgemein.
+Plugin Fachanwalt für Erbrecht. BGB Erbrecht Paragrafen 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaftsteuer EU-ErbVO. Schnittstellen Plugin steuerrecht-anwalt-und-berater kanzlei-allgemein.
 
 Dieses Plugin gehört zum Marketplace mit 232 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
@@ -16,7 +16,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`fachanwalt-erbrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-erbrecht.zip) |
 | Großer Prompt (Werkstatt) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/fachanwalt-erbrecht/fachanwalt-erbrecht-werkstatt.md" download><code>fachanwalt-erbrecht-werkstatt.md</code></a> |
 | Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/fachanwalt-erbrecht/fachanwalt-erbrecht-schnellstart.md" download><code>fachanwalt-erbrecht-schnellstart.md</code></a> |
-| Testakte(n) als ZIP | ZIP | Erbstreit Edelmann — Multisig, Pflichtteil, Patchworkfamilie: [Gesamt-PDF](../testakten/erbstreit-krypto-multisig-edelmann-stuttgart/gesamt-pdf/erbstreit-krypto-multisig-edelmann-stuttgart_gesamt.pdf), [`testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip), [`testakte-erbstreit-krypto-multisig-edelmann-stuttgart-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbstreit-krypto-multisig-edelmann-stuttgart-einzelpdfs.zip) |
+| Testakte(n) als ZIP | ZIP | Erbrecht: Patchwork-Erbfolge und Stiefgroßvater in Karlsruhe: [Gesamt-PDF](../testakten/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe/gesamt-pdf/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf), [`testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe.zip), [`testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe-einzelpdfs.zip); Erbrecht: Pflichtteilsergänzung nach Hofübertragung in Lüneburg: [Gesamt-PDF](../testakten/erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg/gesamt-pdf/erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg_gesamt.pdf), [`testakte-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg.zip), [`testakte-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg-einzelpdfs.zip); Erbrecht: Volljährigenadoption und Unternehmernachlass in Erfurt: [Gesamt-PDF](../testakten/erbrecht-volljaehrigenadoption-unternehmer-erfurt/gesamt-pdf/erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf), [`testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt.zip), [`testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt-einzelpdfs.zip); Erbstreit Edelmann — Multisig, Pflichtteil, Patchworkfamilie: [Gesamt-PDF](../testakten/erbstreit-krypto-multisig-edelmann-stuttgart/gesamt-pdf/erbstreit-krypto-multisig-edelmann-stuttgart_gesamt.pdf), [`testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip), [`testakte-erbstreit-krypto-multisig-edelmann-stuttgart-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbstreit-krypto-multisig-edelmann-stuttgart-einzelpdfs.zip) |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
@@ -35,7 +35,7 @@ Konvention: [`Install from .zip`](../references/anwalts-dashboard-konvention.md)
 | Quellenhygiene: [`references/quellenhygiene.md`](../references/quellenhygiene.md).
 
 
-Plugin Fachanwalt für Erbrecht. Orientierung BGB Erbrecht §§ 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaft- und Schenkungsteuer ErbStG EU-ErbVO. Schnittstellen steuerrecht-anwalt-und-berater und gesellschaftsrecht.
+Plugin Fachanwalt für Erbrecht. Orientierung BGB Erbrecht Paragrafen 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaft- und Schenkungsteuer ErbStG EU-ErbVO. Schnittstellen steuerrecht-anwalt-und-berater und gesellschaftsrecht.
 
 ## Installation in der Plugin-Umgebung
 
@@ -49,7 +49,7 @@ Plugin Fachanwalt für Erbrecht. Orientierung BGB Erbrecht §§ 1922 ff. Pflicht
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-erbrecht-orientierung` | Orientierung im Erbrecht — FAO Voraussetzungen Normen typische Mandate Fristen Quellenprüfung. BGB Erbrecht §§ 1922 ff. (Erbfolge gesetzliche und gewillkürte Erbfolge Testament Erbvertrag Pflichtteil Vermächtnis)… |
+| `fachanwalt-erbrecht-orientierung` | Orientierung im Erbrecht — FAO Voraussetzungen Normen typische Mandate Fristen Quellenprüfung. BGB Erbrecht Paragrafen 1922 ff. (Erbfolge gesetzliche und gewillkürte Erbfolge Testament Erbvertrag Pflichtteil Vermächtnis)… |
 
 ## Lizenz
 

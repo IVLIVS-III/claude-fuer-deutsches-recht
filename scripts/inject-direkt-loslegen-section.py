@@ -188,7 +188,7 @@ def get_akte_title(akte_slug: str) -> str:
                 title,
                 flags=re.IGNORECASE,
             )
-            return title.replace("§§", "Paragrafen").replace("§", "Paragraf")
+            return title.replace(chr(167) * 2, "Paragrafen").replace(chr(167), "Paragraf")
     return akte_slug
 
 
@@ -226,6 +226,7 @@ def testakte_download_cell(plugin_name: str, directory: Path, akten_slugs: list[
 
 def markdown_text(value: str) -> str:
     text = re.sub(r"\s+", " ", value).strip().replace("|", "-")
+    text = text.replace(chr(167) * 2, "Paragrafen").replace(chr(167), "Paragraf")
     for old, new in sorted(PROSE_REPLACEMENTS.items(), key=lambda item: len(item[0]), reverse=True):
         text = text.replace(old, new)
     return text

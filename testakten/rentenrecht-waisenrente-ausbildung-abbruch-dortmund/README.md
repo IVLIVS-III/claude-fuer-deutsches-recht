@@ -1,0 +1,39 @@
+# Rentenrecht: Waisenrente, Ausbildung und Studienabbruch in Dortmund
+
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## Akte komplett herunterladen
+
+Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+
+| Was | Format | Quelle |
+| --- | --- | --- |
+| Gesamt-PDF (alles in einer Datei, 14 KB) | PDF | [`gesamt-pdf/rentenrecht-waisenrente-ausbildung-abbruch-dortmund_gesamt.pdf`](gesamt-pdf/rentenrecht-waisenrente-ausbildung-abbruch-dortmund_gesamt.pdf) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-waisenrente-ausbildung-abbruch-dortmund.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-waisenrente-ausbildung-abbruch-dortmund.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-waisenrente-ausbildung-abbruch-dortmund-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-waisenrente-ausbildung-abbruch-dortmund-einzelpdfs.zip) |
+
+Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
+Arbeitsakte zum Plugin `rentenpruefer`.
+
+## Kurzbild
+
+Elif Korkmaz, 21, erhält Halbwaisenrente nach dem Tod ihres Vaters. Nach Abitur, Bundesfreiwilligendienst, abgebrochener Ausbildung zur Physiotherapeutin und geplanter Aufnahme eines dualen Studiums stellt die DRV die Waisenrente ein. Die Mandantin hat Lücken zwischen Ausbildungsabschnitten, gesundheitliche Gründe für den Abbruch und eine Zusage für ein duales Studium, aber der Bescheid würdigt nur den aktuellen Status "nicht in Ausbildung".
+
+## Aktenstücke
+
+| Datei | Inhalt |
+| --- | --- |
+| `01_mandatsnotiz_waisenrente.md` | Lebenslauf, Frist, Beratungsziel |
+| `02_drv_einstellungsbescheid.md` | Einstellung der Halbwaisenrente |
+| `03_ausbildungsnachweise.md` | Schule, Bundesfreiwilligendienst, Ausbildung, Studienzusage |
+| `04_gesundheit_und_abbruch.md` | Ärztliche Unterlagen zum Ausbildungsabbruch |
+| `05_widerspruch_waisenrente.md` | Widerspruch und Nachweisanforderungen |
+| `06_zeitstrahl_ausbildung.csv` | Monatsraster für Waisenrentenprüfung |
+| `07_klageentwurf_sozialgericht.md` | Klageanträge, Begründung und Vergleichsidee |
+
+## Bearbeitungsziel
+
+Die Akte trainiert die Prüfung, ob eine Waisenrente trotz Unterbrechungen weiterzuzahlen ist. Entscheidend sind Altersgrenze, Ausbildungstatbestand, Übergangszeiten, gesundheitlich erklärter Abbruch, Nachweise und der richtige Antrag auf Weiterzahlung oder rückwirkende Korrektur.
