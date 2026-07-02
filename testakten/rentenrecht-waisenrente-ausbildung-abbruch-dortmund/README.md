@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 14 KB) | PDF | [`gesamt-pdf/rentenrecht-waisenrente-ausbildung-abbruch-dortmund_gesamt.pdf`](gesamt-pdf/rentenrecht-waisenrente-ausbildung-abbruch-dortmund_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 20 KB) | PDF | [`gesamt-pdf/rentenrecht-waisenrente-ausbildung-abbruch-dortmund_gesamt.pdf`](gesamt-pdf/rentenrecht-waisenrente-ausbildung-abbruch-dortmund_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-waisenrente-ausbildung-abbruch-dortmund.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-waisenrente-ausbildung-abbruch-dortmund.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-waisenrente-ausbildung-abbruch-dortmund-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-waisenrente-ausbildung-abbruch-dortmund-einzelpdfs.zip) |
 
@@ -33,6 +33,9 @@ Elif Korkmaz, 21, erhält Halbwaisenrente nach dem Tod ihres Vaters. Nach Abitur
 | `05_widerspruch_waisenrente.md` | Widerspruch und Nachweisanforderungen |
 | `06_zeitstrahl_ausbildung.csv` | Monatsraster für Waisenrentenprüfung |
 | `07_klageentwurf_sozialgericht.md` | Klageanträge, Begründung und Vergleichsidee |
+| `08_bildungstraeger_bescheinigung_und_fehlzeiten.md` | Bescheinigung des Bildungsträgers mit Fehlzeiten und Leistungsstand |
+| `09_email_drv_nachforderung.eml` | Nachforderung der Rentenversicherung zur Ausbildungslücke |
+| `10_jobcenter_uebergang_und_konto.txt` | Übergangsleistungen, Kontoauszug und finanzielle Lage |
 
 ## Bearbeitungsziel
 

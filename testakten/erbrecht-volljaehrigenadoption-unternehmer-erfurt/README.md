@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 13 KB) | PDF | [`gesamt-pdf/erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf`](gesamt-pdf/erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 19 KB) | PDF | [`gesamt-pdf/erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf`](gesamt-pdf/erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt-einzelpdfs.zip) |
 
@@ -33,6 +33,9 @@ Der Erfurter Unternehmer Ralf Sander adoptierte 2024 seinen langjährigen Prokur
 | `05_erbschein_streit.md` | Erbscheinanträge und Gegenposition |
 | `06_quoten_und_vermoegen.csv` | Vermögen, Quotenvarianten, Bewertungsrisiko |
 | `07_vergleichsvorschlag_pflichtteil.md` | Vergleich zu Auskunft, Abschlag und Unternehmensfortführung |
+| `08_familiengericht_adoptionsakte_auszug.md` | Auszug aus der Adoptionsakte mit Anhörung und Beziehungsdarstellung |
+| `09_email_steuerberater_gesellschaft.eml` | Steuerberatermail zu GmbH-Anteilen, Ausschüttungen und Nachfolgedruck |
+| `10_bank_und_beteiligungsuebersicht.txt` | Bank- und Beteiligungsübersicht mit Bewertungs- und Liquiditätsfragen |
 
 ## Bearbeitungsziel
 

@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 14 KB) | PDF | [`gesamt-pdf/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf`](gesamt-pdf/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 20 KB) | PDF | [`gesamt-pdf/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf`](gesamt-pdf/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe-einzelpdfs.zip) |
 
@@ -33,6 +33,9 @@ Vier Jugendfreunde aus Karlsruhe heirateten, trennten sich und verbanden ihre Fa
 | `05_erbscheinantrag_fiona.md` | Antrag und Gegenargumente |
 | `06_stammbaum_matrix.csv` | Personen, Verwandtschaft, erbrechtliche Rolle |
 | `07_pruefvermerk_erbreihenfolge.md` | Chronologische Lösung der beiden Erbfälle |
+| `08_standesamt_registerauszuege.md` | Standesamtsauszüge zu Ehen, Scheidungen, Abstammung und Namenswechseln |
+| `09_email_nachlassgericht_rueckfrage.eml` | Nachlassgerichtliche Rückfrage zu Personenstand und Antragsfassung |
+| `10_familienchat_auszug.txt` | Familiennachrichten mit tatsächlichen Hinweisen zu Beziehungen und Nachlassbesitz |
 
 ## Bearbeitungsziel
 

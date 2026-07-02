@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 13 KB) | PDF | [`gesamt-pdf/erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg_gesamt.pdf`](gesamt-pdf/erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 20 KB) | PDF | [`gesamt-pdf/erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg_gesamt.pdf`](gesamt-pdf/erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg-einzelpdfs.zip) |
 
@@ -33,6 +33,9 @@ Nach dem Tod von Helmut Rieken streitet sein enterbter Sohn Moritz gegen seine S
 | `05_auskunftsschreiben_an_erbin.md` | Auskunfts- und Wertermittlungsverlangen |
 | `06_berechnungspfad_pflichtteil.csv` | Nachlass, Ergänzungswerte, Abschmelzung, Quote |
 | `07_stufenklage_entwurf.md` | Auskunfts-, Wertermittlungs- und Zahlungsstufen |
+| `08_bank_depot_und_schenkungsverkehr.md` | Depotbewegungen, Überweisungen und unklare Abhebungen vor dem Tod |
+| `09_email_notariat_grundbuchauszug.eml` | Notariatsmail zu Hofübertragung, Wohnrecht und Grundbuchstand |
+| `10_ortstermin_hofinventar.txt` | Ortstermin mit Inventar, Tierbestand, Maschinen und Nutzungswerten |
 
 ## Bearbeitungsziel
 

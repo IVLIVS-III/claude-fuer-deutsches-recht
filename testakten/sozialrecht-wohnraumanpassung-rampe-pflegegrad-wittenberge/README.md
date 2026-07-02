@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 16 KB) | PDF | [`gesamt-pdf/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge_gesamt.pdf`](gesamt-pdf/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 22 KB) | PDF | [`gesamt-pdf/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge_gesamt.pdf`](gesamt-pdf/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge-einzelpdfs.zip) |
 
@@ -34,6 +34,9 @@ Irmgard Pahl, 84, Pflegegrad 3, lebt in einem kleinen Reihenhaus in Wittenberge.
 | `06_wohnumfeld_fotos_beschreibung.md` | Eingang, Gehweg, Schwelle, Winterrisiko |
 | `07_kosten_traeger_matrix.csv` | Kostenteilung, Zuschuss, Eigenanteil |
 | `08_eilrechtsschutz_und_ortstermin.md` | Ortstermin, Beweisfragen und Vergleich |
+| `09_bauamt_ortstermin_und_skizzenmass.md` | Ortstermin, Baugrenzen, Rampenmaße und Denkmalschutzhinweis |
+| `10_email_nachbarin_zugang.eml` | Nachbarin schildert Zugang, Stürze und Winterdienstproblem |
+| `11_pflegetagebuch_sturzliste.txt` | Pflegetagebuch mit Sturzliste und Alltagswegen |
 
 ## Bearbeitungsziel
 

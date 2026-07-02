@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 15 KB) | PDF | [`gesamt-pdf/rentenrecht-riester-zulagenrueckforderung-augsburg_gesamt.pdf`](gesamt-pdf/rentenrecht-riester-zulagenrueckforderung-augsburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 23 KB) | PDF | [`gesamt-pdf/rentenrecht-riester-zulagenrueckforderung-augsburg_gesamt.pdf`](gesamt-pdf/rentenrecht-riester-zulagenrueckforderung-augsburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-riester-zulagenrueckforderung-augsburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-riester-zulagenrueckforderung-augsburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-riester-zulagenrueckforderung-augsburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-riester-zulagenrueckforderung-augsburg-einzelpdfs.zip) |
 
@@ -33,6 +33,9 @@ Nadja Erhart, 42, Altenpflegerin in Augsburg, erhält von der Zentralen Zulagens
 | `05_einspruch_entwurf.md` | Begründeter Rechtsbehelf mit Nachweisen |
 | `06_riester_jahresmatrix.csv` | Jahre, Einkommen, Sollbeitrag, Zulage, Differenz |
 | `07_anbieterhaftung_beratungsvermerk.md` | Anbieterhinweis, Schadenlinie und Nachforderung |
+| `08_anbieter_jahresbescheinigung_und_kontoauszug.md` | Anbieterbescheinigung, Zulagenkonto und Vertragsbuchungen |
+| `09_email_zfa_nachweisfrist.eml` | Fristsetzung der Zulagenstelle mit konkreten Nachweiswünschen |
+| `10_telefonnotiz_arbeitgeber_minijob.txt` | Telefonnotiz zu Minijob, Elternzeit und rentenrechtlicher Zuordnung |
 
 ## Bearbeitungsziel
 

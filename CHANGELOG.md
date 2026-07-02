@@ -1,3 +1,13 @@
+# v412.0.0 — Renten-, Sozial- und Erbrechtsakten realistischer ausgearbeitet
+
+- Neun bestehende Arbeitsakten zu Rentenrecht, Sozialrecht und Erbrecht deutlich vertieft: jede Akte enthält jetzt zusätzliche Unterlagen aus Behörden-, Klinik-, Bank-, Notariats-, Arbeitgeber-, Schul-, Pflege- oder Familienkommunikation.
+- Rentenrecht nachgeschärft: Witwenrente mit Arbeitgeberbescheinigung, Betriebsrentenmail und Konto-/Fragenliste; Riester-Rückforderung mit Anbieterzulagenkonto, Nachweisfrist und Minijob-Telefonnotiz; Waisenrente mit Bildungsträgerbescheinigung, DRV-Nachforderung und Übergangsleistungsnotiz.
+- Sozialrecht nachgeschärft: Orphan-Drug-Eilfall mit Apotheken-Kostenvoranschlag, Kliniktermin und Schmerzprotokoll; Enzymsubstitution mit Spezialambulanz-Kostenplan, Schulteilhabe und Pflegealltag; Wohnraumanpassung mit Bauamtsskizze, Nachbarmail und Sturzliste.
+- Erbrecht nachgeschärft: Pflichtteilsergänzung mit Bank-/Depotbewegungen, Notariatsmail und Hofinventar; Patchwork-Erbfolge mit Personenstandsunterlagen, Nachlassgerichts-Rückfrage und Familienchat; Volljährigenadoption mit Adoptionsakte, Steuerberatermail und Beteiligungsübersicht.
+- Alle neun Gesamt-PDFs neu gebaut; Einzel-PDF-ZIPs und Originaldaten-ZIPs geprüft. Repo-weiter Versions-Bump auf v412.0.0.
+
+---
+
 # v411.0.0 — Relationsmacher als Zergliederungs-Maschine, Profil-Wurzelfix, Strafrecht und International geschärft
 
 - Urteilsbauer Relationsmacher trug komplett falsche Baurecht-Prompts (Werkstattfluss, Normen, Leitentscheidungen): Ursache war ein Substring-Fehltreffer des Themenprofil-Zuordners auf „bau" in urteilsBAUer. Werkstatt und Schnellstart vollständig neu als Zergliederungs-Maschine für Richter und Rechtspfleger: Blitz-Zergliederung in fünf Rastern (Beteiligte, Zeitleiste, Anträge, Streitstofftabelle nach Paragraf 138 Abs. 3 und 4 ZPO, Normzuordnung) als Pflicht-Erstprodukt, danach Relationsstationen mit Votum bis zum Urteil nach Paragraf 313 ZPO beziehungsweise Rechtspfleger-Beschluss (Paragraf 104, Paragrafen 829, 835 ZPO; Erinnerung Paragraf 11 RPflG).

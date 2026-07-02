@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 17 KB) | PDF | [`gesamt-pdf/sozialrecht-orphan-drug-krebsmedikament-muenster_gesamt.pdf`](gesamt-pdf/sozialrecht-orphan-drug-krebsmedikament-muenster_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 24 KB) | PDF | [`gesamt-pdf/sozialrecht-orphan-drug-krebsmedikament-muenster_gesamt.pdf`](gesamt-pdf/sozialrecht-orphan-drug-krebsmedikament-muenster_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialrecht-orphan-drug-krebsmedikament-muenster.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-orphan-drug-krebsmedikament-muenster.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialrecht-orphan-drug-krebsmedikament-muenster-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-orphan-drug-krebsmedikament-muenster-einzelpdfs.zip) |
 
@@ -22,7 +22,7 @@ Arbeitsakte zu den Plugins `fachanwalt-sozialrecht`, `krankenkassenrecht-kranken
 
 Gregor Lütke, 46, hat ein metastasiertes alveoläres Weichteilsarkom. Die behandelnde Universitätsklinik Münster beantragt eine hochpreisige Antikörpertherapie mit dem Orphan Drug Lunazimerab. Die Kasse lehnt die Kostenübernahme ab: Jahrestherapiekosten etwa 1.500.000 EUR bei drei geplanten Dosen zu je 500.000 EUR, keine abschließende G-BA-Bewertung, nur Phase-II-Daten, Wirtschaftlichkeitsbedenken. Tumorboard und Behandler sehen eine realistische Verlängerung des progressionsfreien Überlebens um etwa zwei Jahre.
 
-Die Akte enthält Antrag, Tumorboardprotokoll, ärztliche Stellungnahme, Nutzen- und Kostenblatt, MD-Stellungnahme, Ablehnungsbescheid, Widerspruch, Eilantragsentwurf und eine gerichtliche Beweisfrage.
+Die Akte enthält Antrag, Tumorboardprotokoll, ärztliche Stellungnahme, Nutzen- und Kostenblatt, MD-Stellungnahme, Ablehnungsbescheid, Widerspruch, Eilantragsentwurf, gerichtliche Beweisfragen, Apotheken-Kostenvoranschlag, Klinik-E-Mail und häusliches Schmerzprotokoll.
 
 ## Aktenstücke
 
@@ -36,6 +36,9 @@ Die Akte enthält Antrag, Tumorboardprotokoll, ärztliche Stellungnahme, Nutzen-
 | `06_widerspruch_und_eilantrag.md` | Widerspruch und gerichtlicher Eilantrag |
 | `07_therapie_kostenmatrix.csv` | Dosen, Kosten, Zeitplan, klinischer Nutzen |
 | `08_gerichtliche_beweisfragen.md` | Beweisfragen, Hinweis und Vergleichsfenster |
+| `09_apotheke_kostenvoranschlag_herstellung.md` | Kostenvoranschlag der Krankenhausapotheke mit Herstellungs- und Lieferdetails |
+| `10_email_klinik_soforttermin.eml` | E-Mail der Klinik zu Therapiefenster, Einbestellung und Abbruchrisiko |
+| `11_pflegebericht_schmerzprotokoll.txt` | Häuslicher Pflege- und Schmerzverlauf als Eilbedürftigkeitsmaterial |
 
 ## Bearbeitungsziel
 
