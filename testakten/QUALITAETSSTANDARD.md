@@ -6,8 +6,8 @@ Testakten sind keine Examensfälle mit sauberer Lösungsskizze. Sie sind Arbeits
 
 Jede Testakte enthält künftig zwei parallele Zugänge:
 
-1. **Disparate Arbeitsakte:** Einzeldateien in realistischen Formaten, zum Beispiel Markdown-Notizen, EML-Dateien, DOCX-Schreiben, Excel/CSV-Tabellen, PDFs, JPEG-Screenshots, Chat-Exporte oder Scan-PDFs.
-2. **Gesamt-PDF:** ein konsolidiertes, lesbares PDF unter `gesamt-pdf/<aktenordner>_gesamt.pdf`, damit man die Akte am Stück lesen, ausdrucken und in Vorführungen schnell öffnen kann.
+1. Disparate Arbeitsakte: Einzeldateien in realistischen Formaten, zum Beispiel Markdown-Notizen, EML-Dateien, DOCX-Schreiben, Excel/CSV-Tabellen, PDFs, JPEG-Screenshots, Chat-Exporte oder Scan-PDFs.
+2. Gesamt-PDF: ein konsolidiertes, lesbares PDF unter `gesamt-pdf/<aktenordner>_gesamt.pdf`, damit man die Akte am Stück lesen, ausdrucken und in Vorführungen schnell öffnen kann.
 
 Das Gesamt-PDF ersetzt die Einzeldokumente nicht. Es ist die Lesefassung neben dem Aktenchaos.
 
@@ -26,8 +26,9 @@ Das Gesamt-PDF ersetzt die Einzeldokumente nicht. Es ist die Lesefassung neben d
 - Gesamt-PDF ohne offensichtlichen Textüberlauf, mit lesbarem Cover und Dateiabschnitten.
 - Umlaute und ß in menschlichem Text verwenden.
 - Einzeldateien sinnvoll benennen, aber nicht steril.
-- Download-Hinweise gehören in README-Dateien, nicht in die Aktenstücke selbst.
+- Download-Hinweise gehören in README-Dateien, nicht in die Aktenstücke selbst; README und zentrale Übersicht müssen Gesamt-PDF, Akten-ZIP und Einzel-PDF-ZIP aufführen.
 - Der CI-Check `scripts/validate-testakten-gesamt-pdf.py` muss grün sein.
+- Der CI-Check `scripts/validate-testakten-readme-downloads.py` muss grün sein.
 
 ## Nach größeren Änderungen
 
@@ -35,6 +36,7 @@ Das Gesamt-PDF ersetzt die Einzeldokumente nicht. Es ist die Lesefassung neben d
 python3 scripts/build-testakte-gesamt-pdf.py <aktenordner>
 python3 scripts/inject-gesamt-pdf-section.py
 python3 scripts/validate-testakten-gesamt-pdf.py
+python3 scripts/validate-testakten-readme-downloads.py
 ```
 
-In der lokalen Codex-Desktop-Umgebung kann dafür der gebündelte Python verwendet werden, wenn die normale Python-Umgebung keine PDF-Bibliotheken enthält.
+In der lokalen Desktop-Umgebung kann dafür der gebündelte Python verwendet werden, wenn die normale Python-Umgebung keine PDF-Bibliotheken enthält.

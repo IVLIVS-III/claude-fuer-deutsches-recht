@@ -1,3 +1,12 @@
+# v414.0.0 — Testakten-Downloads im Release abgesichert
+
+- Neuer Validator `scripts/validate-testakten-readme-downloads.py`: zentrale Arbeitsakten müssen in der lokalen Akten-README und in `testakten/README.md` Gesamt-PDF, Akten-ZIP und Einzel-PDF-ZIP vollständig aufführen.
+- Release-Workflow um den Downloadhinweis-Check erweitert; zusätzlich läuft der YAML-Frontmatter-Validator jetzt im Release-Gate mit installierten Python-Abhängigkeiten.
+- Qualitätsstandard der Testakten präzisiert und die Nacharbeiten-Befehle um den neuen README-Downloadcheck ergänzt.
+- Repo-weiter Versions-Bump auf v414.0.0.
+
+---
+
 # v413.0.0 — Neue Testakte Insolvenzanfechtung Kiezflitzer (Berlin)
 
 - Neue zentrale Arbeitsakte insolvenzanfechtung-kiezflitzer-gesellschafterdarlehen-berlin: Insolvenzanfechtung aus Verwaltersicht gegen den Gesellschafter-Berater eines Berliner Lastenrad-Startups. Drei angreifbare Zahlungen mit unterschiedlicher Normlage — Rückzahlung des Gesellschafterdarlehens über 150.000 EUR in der Jahresfrist vor dem Eröffnungsantrag (Paragraf 135 Abs. 1 Nr. 2 InsO), bezahltes Beraterhonorar über 20.230 EUR für nachweislich geleistete Arbeit zwei Monate vor Antrag (Paragrafen 130, 133, 142 InsO mit offener Kenntnisfrage) und ein vertraglich nicht vorgesehener Vorschuss über 15.000 EUR im letzten Monat (Paragraf 131 Abs. 1 Nr. 1 InsO).

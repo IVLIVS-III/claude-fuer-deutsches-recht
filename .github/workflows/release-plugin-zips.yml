@@ -31,8 +31,17 @@ jobs:
       - name: Validator
         run: node scripts/validate-plugin-structure.mjs
 
+      - name: Python-Abhängigkeiten installieren
+        run: python3 -m pip install -r requirements.txt
+
+      - name: YAML-Frontmatter validieren
+        run: python3 scripts/validate-yaml-frontmatter.py
+
       - name: Gesamt-PDFs der Testakten validieren
         run: python3 scripts/validate-testakten-gesamt-pdf.py
+
+      - name: Downloadhinweise der Testakten validieren
+        run: python3 scripts/validate-testakten-readme-downloads.py
 
       - name: Werkstatt- und Schnellstart-Prompts erzeugen
         run: |
