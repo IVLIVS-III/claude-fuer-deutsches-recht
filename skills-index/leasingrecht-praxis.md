@@ -1,6 +1,6 @@
 # leasingrecht-praxis
 
-**117 Skills** · Stand `v415.0.0`
+**117 Skills** · Stand `v416.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/leasingrecht-praxis/README.md)

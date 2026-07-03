@@ -1,3 +1,12 @@
+# v416.0.0 — Rentenberaterliche Spezialakten erweitert
+
+- Neun neue zentrale Arbeitsakten ergänzt: Fremdrenten-/Spätaussiedlerakte Bielefeld, zwei Statusfeststellungsverfahren zu Familienbetrieb und GmbH-Geschäftsführer, Arbeitsunfall Trier, Berufskrankheit Asbest Bremen, drei Schwerbehindertenverfahren und ein Off-Label-Use-Eilverfahren Mainz.
+- Jede neue Akte enthält konkrete Mandatsnotizen, Behörden- oder Klinikunterlagen, Fristen, Tabellen, E-Mail-Auszüge, Widerspruchs- beziehungsweise Eilrechtsschutzentwürfe sowie eine rentenberaterliche Folge- und Abgrenzungsprüfung.
+- Gesamt-PDFs für alle neun Akten gebaut; zentrale Testaktenübersicht und Plugin-README-Downloadblöcke für Rentenprüfung, Sozialrecht, Statusprüfung, Krankenkassenrecht und Gesellschaftsrecht nachgezogen.
+- Repo-weiter Versions-Bump auf v416.0.0.
+
+---
+
 # v415.0.0 — Rentenberater- und Sozialrechtsakten erweitert
 
 - Sechs neue zentrale Arbeitsakten für Rentenberatung und Sozialrecht ergänzt: Statusfeststellung Plattformkuriere Essen, Betriebsrentenberatung Pflegedienst Halle, Querschnitt Status/Betriebsrente/Rentenanspruch Dortmund, Erwerbsminderung Kassel, Schwerbehindertenaltersrente Hamburg und Schwerbehindertenverfahren Münster.
