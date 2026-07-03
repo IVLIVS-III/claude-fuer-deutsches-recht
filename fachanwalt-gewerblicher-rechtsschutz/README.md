@@ -3,7 +3,7 @@
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
-Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezüge. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfügung Verletzungsklage Lizenzanaloger Schadensersatz.
+Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO Paragraf 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezüge. Markenanmeldung DPMA EUIPO. UWG-Abmahnung Paragrafen 8 ff. UWG. Designverletzung. Einstweilige Verfügung Verletzungsklage Lizenzanaloger Schadensersatz.
 
 Dieses Plugin gehört zum Marketplace mit 232 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 

@@ -1,6 +1,6 @@
 # berichtspflichten-erlediger
 
-**57 Skills** · Stand `v414.0.0`
+**57 Skills** · Stand `v415.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/berichtspflichten-erlediger/README.md)

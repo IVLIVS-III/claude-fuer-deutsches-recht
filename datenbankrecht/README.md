@@ -3,7 +3,7 @@
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
-Großes Plugin zum deutschen und europäischen Datenbankrecht: UrhG §§ 87a ff., Datenbankrichtlinie, Investitionsschutz, automatisiertes Auslesen, API, Training digitaler Systeme, Vertrags- und Plattformkonflikte.
+Großes Plugin zum deutschen und europäischen Datenbankrecht: UrhG Paragrafen 87a ff., Datenbankrichtlinie, Investitionsschutz, automatisiertes Auslesen, API, Training digitaler Systeme, Vertrags- und Plattformkonflikte.
 
 Dieses Plugin gehört zum Marketplace mit 232 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 

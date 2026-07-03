@@ -1,3 +1,12 @@
+# v415.0.0 — Rentenberater- und Sozialrechtsakten erweitert
+
+- Sechs neue zentrale Arbeitsakten für Rentenberatung und Sozialrecht ergänzt: Statusfeststellung Plattformkuriere Essen, Betriebsrentenberatung Pflegedienst Halle, Querschnitt Status/Betriebsrente/Rentenanspruch Dortmund, Erwerbsminderung Kassel, Schwerbehindertenaltersrente Hamburg und Schwerbehindertenverfahren Münster.
+- Jede neue Akte enthält ausformulierte Mandatsnotizen, Behörden- und Arztunterlagen, Bescheide, Widerspruchs- und Klageraster, Tabellen, E-Mail-Auszüge, Fristen- und Risikomaterial sowie ein neu gebautes Gesamt-PDF.
+- Zentrale Testaktenübersicht und Plugin-README-Downloadblöcke nachgezogen; die neuen Akten sind bei `rentenpruefer`, `fachanwalt-sozialrecht`, `sozialversicherungsstatus-pruefer`, `bav-strategie-konzern` und angrenzenden Plugins auffindbar.
+- Repo-weiter Versions-Bump auf v415.0.0.
+
+---
+
 # v414.0.0 — Testakten-Downloads im Release abgesichert
 
 - Neuer Validator `scripts/validate-testakten-readme-downloads.py`: zentrale Arbeitsakten müssen in der lokalen Akten-README und in `testakten/README.md` Gesamt-PDF, Akten-ZIP und Einzel-PDF-ZIP vollständig aufführen.

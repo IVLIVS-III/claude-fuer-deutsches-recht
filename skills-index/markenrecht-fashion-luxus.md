@@ -1,6 +1,6 @@
 # markenrecht-fashion-luxus
 
-**82 Skills** · Stand `v414.0.0`
+**82 Skills** · Stand `v415.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/markenrecht-fashion-luxus/README.md)

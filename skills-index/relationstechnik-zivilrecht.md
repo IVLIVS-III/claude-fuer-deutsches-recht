@@ -1,6 +1,6 @@
 # relationstechnik-zivilrecht
 
-**22 Skills** · Stand `v414.0.0`
+**22 Skills** · Stand `v415.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/relationstechnik-zivilrecht/README.md)
