@@ -1,0 +1,9 @@
+name: strafrecht-revision-beweisantrag-lg-duisburg
+description: Revisionsakte nach Verurteilung vor dem Landgericht Duisburg mit Protokollrüge, Beweisantrag, Aufklärungsrüge, Fristen und Urteilsanalyse.
+checks:
+  - Verfahrensrolle, Fristen und nächstes Arbeitsprodukt vor der materiellen Prüfung klären.
+  - Belastende und entlastende Tatsachen nicht vermischen, sondern je Beweismittel ausweisen.
+  - Sicherstellungskette, Belehrung und digitale Originaldaten gesondert prüfen.
+  - Normanker nur als Arbeitshilfe verwenden und Subsumtion am konkreten Sachverhalt durchführen.
+  - Nebenfolgen wie Einziehung, Fahrerlaubnis, Kontaktverbot, Haft oder Berufsfolgen ausdrücklich mitdenken.
+  - Revisionsbegründung mit vollständiger Verfahrensrüge finalisieren, Protokollberichtigung beobachten und Sachrüge als Auffangnetz knapp, aber tragfähig formulieren.

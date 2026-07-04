@@ -1,3 +1,11 @@
+# v422.0.0 — Neue Strafrechtsakten für Verteidigung, Staatsanwaltschaft, Gericht und Revision
+
+- Zwölf neue zentrale Strafrechtsakten ergänzt: Jugendstrafsache Schulhofraub Hamburg, häusliche Gewalt Dresden, Betäubungsmittel-Kurierfahrt Köln, Phishing Leipzig, Arbeitsunfähigkeits-Urkundenfall Bremen, Alleinrennen Berlin, Aussage-gegen-Aussage Mainz, Untreue Vereinskasse Kassel, Korruptionsverdacht Vergabestelle München, Brandstiftung Magdeburg, Revision Beweisantrag Duisburg und digitales Stalking Hannover.
+- Jede neue Akte folgt dem nativen Aktenformat: DOCX-Arbeitsstücke, XLSX-Beweismittelmatrix, CSV-Fristenstand, EML-Akteneinsichtsanfrage, PDF-Originalanlage, rubric.yaml und neu gerendertes Gesamt-PDF.
+- Zentrale Testakten-Übersicht auf 277 zentrale und 295 gesamte Akten angehoben; alle neuen Akten sind mit Gesamt-PDF, Akten-ZIP und Einzel-PDF-ZIP verlinkt.
+- Strafprozessuale Kernpunkte vertieft: Akteneinsicht, Sicherung digitaler Originaldaten, Haftprüfung, Schutzanträge, Fahrerlaubnismaßnahme, Einziehung, Beweisantrag, Revision, Jugendgerichtshilfe und Aussageanalyse.
+- Repo-weiter Versions-Bump auf v422.0.0; Release- und Marketplace-Struktur bleiben unverändert installierbar.
+
 # v421.0.0 — Presseberichterstattung und neue Zivilakten
 
 - Neues Plugin `juristische-presseberichterstattung` mit 20 Skills für Gerichtsbericht, Entscheidungsmeldung, Verdachtsbericht, Headline, Bildprüfung, Faktenmatrix, Korrekturreserve und Redaktionsschluss.
