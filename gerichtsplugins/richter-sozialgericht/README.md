@@ -1,35 +1,11 @@
 # Sozialgericht
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`richter-sozialgericht`) | [`richter-sozialgericht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-sozialgericht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Hilfsmittelstreit Elektrorollstuhl Heinz Körner gegen Weser-Ems Gesundheitskasse** (`sozialrecht-elektrorollstuhl-koerner-oldenburg`) | [Gesamt-PDF lesen](../../testakten/sozialrecht-elektrorollstuhl-koerner-oldenburg/gesamt-pdf/sozialrecht-elektrorollstuhl-koerner-oldenburg_gesamt.pdf) | [`testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg.zip) |
-| **Sozialrecht: Enzymsubstitution bei seltener Erkrankung in Jena** (`sozialrecht-enzymsubstitution-seltene-erkrankung-jena`) | [Gesamt-PDF lesen](../../testakten/sozialrecht-enzymsubstitution-seltene-erkrankung-jena/gesamt-pdf/sozialrecht-enzymsubstitution-seltene-erkrankung-jena_gesamt.pdf) | [`testakte-sozialrecht-enzymsubstitution-seltene-erkrankung-jena.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-enzymsubstitution-seltene-erkrankung-jena.zip) |
-| **Sozialrecht: Orphan-Drug-Krebsmedikament in Münster** (`sozialrecht-orphan-drug-krebsmedikament-muenster`) | [Gesamt-PDF lesen](../../testakten/sozialrecht-orphan-drug-krebsmedikament-muenster/gesamt-pdf/sozialrecht-orphan-drug-krebsmedikament-muenster_gesamt.pdf) | [`testakte-sozialrecht-orphan-drug-krebsmedikament-muenster.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-orphan-drug-krebsmedikament-muenster.zip) |
-| **Sozialrecht: Wohnraumanpassung und Rampe in Wittenberge** (`sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge`) | [Gesamt-PDF lesen](../../testakten/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge/gesamt-pdf/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge_gesamt.pdf) | [`testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
 Sozialgericht: Klagearten Anfechtungs- und Leistungsklage einstweiliger Rechtsschutz Paragraf 86b SGG Amtsermittlung sozialrechtliche Prüfungsschemata Krankenversicherung Rente Unfall Bürgergeld Schwerbehinderung Urteilsentwurf mit Tenorvorschlag
 
-Dieses Plugin gehört zum Marketplace mit 232 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
+Dieses Plugin gehört zum Marketplace mit 233 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
 Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für einen tragfähigen Arbeitsmodus die Werkstatt. Beide Prompts sollen mit einem konkreten Arbeitsprodukt beginnen, nur eng nachfragen und nicht in einer Materialinventur hängen bleiben.
 
@@ -42,7 +18,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-sozialgericht/richter-sozialgericht-schnellstart.md" download><code>richter-sozialgericht-schnellstart.md</code></a> |
 | Testakte(n) als ZIP | ZIP | Hilfsmittelstreit Elektrorollstuhl Heinz Körner gegen Weser-Ems Gesundheitskasse: [Gesamt-PDF](../../testakten/sozialrecht-elektrorollstuhl-koerner-oldenburg/gesamt-pdf/sozialrecht-elektrorollstuhl-koerner-oldenburg_gesamt.pdf), [`testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg.zip), [`testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg-einzelpdfs.zip); Sozialrecht: Enzymsubstitution bei seltener Erkrankung in Jena: [Gesamt-PDF](../../testakten/sozialrecht-enzymsubstitution-seltene-erkrankung-jena/gesamt-pdf/sozialrecht-enzymsubstitution-seltene-erkrankung-jena_gesamt.pdf), [`testakte-sozialrecht-enzymsubstitution-seltene-erkrankung-jena.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-enzymsubstitution-seltene-erkrankung-jena.zip), [`testakte-sozialrecht-enzymsubstitution-seltene-erkrankung-jena-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-enzymsubstitution-seltene-erkrankung-jena-einzelpdfs.zip); Sozialrecht: Orphan-Drug-Krebsmedikament in Münster: [Gesamt-PDF](../../testakten/sozialrecht-orphan-drug-krebsmedikament-muenster/gesamt-pdf/sozialrecht-orphan-drug-krebsmedikament-muenster_gesamt.pdf), [`testakte-sozialrecht-orphan-drug-krebsmedikament-muenster.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-orphan-drug-krebsmedikament-muenster.zip), [`testakte-sozialrecht-orphan-drug-krebsmedikament-muenster-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-orphan-drug-krebsmedikament-muenster-einzelpdfs.zip); Sozialrecht: Wohnraumanpassung und Rampe in Wittenberge: [Gesamt-PDF](../../testakten/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge/gesamt-pdf/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge_gesamt.pdf), [`testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge.zip), [`testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge-einzelpdfs.zip); Pluginlokale Akte: [Gesamt-PDF](testakte/gesamt-pdf/testakte_gesamt.pdf), [`richter-sozialgericht-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-sozialgericht-testakte.zip), [`richter-sozialgericht-testakte-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-sozialgericht-testakte-einzelpdfs.zip) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 233 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du einen Sozialleistungsbescheid angreifen und den Anspruch durchsetzen.

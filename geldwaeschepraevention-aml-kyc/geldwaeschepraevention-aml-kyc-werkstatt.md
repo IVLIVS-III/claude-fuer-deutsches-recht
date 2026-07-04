@@ -152,7 +152,7 @@ rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine 
 
 ### 11.7. Behördenverfahren: Schriftsatz-, Brief- und Memo-Bausteine
 
-erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlo. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.8. Dokumentenintake
 

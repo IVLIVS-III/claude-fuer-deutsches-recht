@@ -144,15 +144,15 @@ prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine
 
 ### 11.3. Abschlussprovision des Abschlussvertreters nach Paragrafen 87 und 87a HGB
 
-prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritte. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.4. Rechtsstellung des Abschlussvertreters nach Paragrafen 84 und 54 HGB
 
-ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prü. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.5. AGB-Kontrolle im Handelsvertretervertrag nach Paragrafen 305 ff. BGB und Paragraf 92c HGB
 
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.6. Alleinvertreter
 
@@ -160,11 +160,11 @@ prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine
 
 ### 11.7. Alleinvertreter und Bezirksprovision nach Paragraf 87 Abs. 2 HGB
 
-ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpun. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.8. Kündigung wegen Alters oder Krankheit des Handelsvertreters nach Paragraf 89 Abs. 3 HGB
 
-ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arb. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.9. Compliance und Antikorruption im Handelsvertretervertrieb
 
@@ -188,4 +188,4 @@ prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine
 
 ### 11.14. Berechnung des Ausgleichsanspruchs nach Paragraf 89b HGB
 
-rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

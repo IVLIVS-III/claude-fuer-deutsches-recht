@@ -128,11 +128,11 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ### 11.1. Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg
 
-prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.2. Anschluss-Routing
 
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schrit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.3. bAV: CTA Treuhand
 
@@ -140,11 +140,11 @@ ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; lief
 
 ### 11.4. bAV: Fuenftelregelung Auszahlung
 
-ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nac. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits-. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.5. bAV: Grenzueberschreitende Mobilitaet
 
-ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- un. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits-. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.6. bAV: Konzern-Design
 
@@ -152,7 +152,7 @@ ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; lief
 
 ### 11.7. bAV: Pensionsfonds-Rueckdeckung
 
-ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.8. Benefits: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -168,7 +168,7 @@ prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine
 
 ### 11.11. Pension Buyout im M&A-Deal — Asset vs. Share Deal
 
-ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunk. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.12. Buyouts Quellenkarte
 
@@ -180,4 +180,4 @@ entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert ein
 
 ### 11.14. CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation
 
-erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

@@ -172,7 +172,7 @@ erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert
 
 ### 11.10. Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach Paragraf 80 Abs
 
-erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.11. Eilrechtsschutz nach Paragraf 80 Abs
 

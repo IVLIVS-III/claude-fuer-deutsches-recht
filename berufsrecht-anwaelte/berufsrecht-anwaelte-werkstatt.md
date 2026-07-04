@@ -128,7 +128,7 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ### 11.1. europäischer Technikregulierungsrahmen-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz
 
-erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, B. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.2. Aktenführung
 

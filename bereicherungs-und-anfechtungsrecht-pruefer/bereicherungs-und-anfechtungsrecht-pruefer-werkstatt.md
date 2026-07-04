@@ -148,15 +148,15 @@ erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert
 
 ### 11.4. Fristen und Anfechtungszeitraum — AnfG
 
-prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Anfg Anfechtungs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Anfg. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.5. Einreden und Verteidigung des Anfechtungsgegners — AnfG
 
-erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anla. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.6. AnfG-Grundtatbestand und Anfechtungsberechtigte
 
-prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Anfg Gr. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Anfg. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.7. Mittelbare Benachteiligung und Kongruenz — AnfG
 
@@ -168,11 +168,11 @@ prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine
 
 ### 11.9. Unentgeltliche Leistung — Paragraf 4 AnfG
 
-prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Anfg Unentgel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Anfg. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.10. Vorsatzanfechtung — Paragraf 3 Abs. 1 AnfG
 
-ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.11. Anspruchsziel und Rückabwicklungsarchitektur
 
@@ -184,7 +184,7 @@ prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine
 
 ### 11.13. Arbeitsrechtliche Überzahlung
 
-prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Arbeitsrechtliche Ueberza. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Arbeitsrechtliche. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.14. Ausschluss nach Paragraf 814 BGB — Kenntnis der Nichtschuld
 

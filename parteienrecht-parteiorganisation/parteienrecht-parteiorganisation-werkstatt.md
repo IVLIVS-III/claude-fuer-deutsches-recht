@@ -136,7 +136,7 @@ prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine
 
 ### 11.3. Bundeswahlleiter-Kommunikation
 
-prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Aufsicht Bundeswahlleiter Bef. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Aufsicht Bundeswahlleiter. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.4. Befangenheit und Sitzungsleitung
 
@@ -144,15 +144,15 @@ prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine
 
 ### 11.5. Beitragsordnung Partei
 
-prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Beitragsordnung; Arbeitsfeld: Parteie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Beitragsordnung; Arbeitsfeld. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.6. Beschlussvorlagen Partei
 
-prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Beschlussvorlagen Partei; Arbeitsfe. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Beschlussvorlagen Partei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.7. Bewerberzustimmung
 
-prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bewerberzustimmung; Arbeitsfeld: Parteien. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bewerberzustimmung; Arbeitsfeld. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.8. Daten und Parteiwechsel
 
@@ -160,23 +160,23 @@ prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine
 
 ### 11.9. Europawahl
 
-prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Europawahl Partei; Arbeitsfeld: Parteienrecht und. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Europawahl Partei; Arbeitsfeld: Parteienrecht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.10. Schnittstelle Fraktion/Partei
 
-prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fraktionsschnittstelle; Arbeit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fraktionsschnittstelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.11. Fristkalender Partei
 
-prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fristkalender Partei; Arbeitsfeld: Part. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fristkalender Partei; Arbeitsfeld. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.12. Gebietsgliederung
 
-prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gebietsgliederung; Arbeitsfeld: Parteienre. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gebietsgliederung; Arbeitsfeld. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.13. Geheime Abstimmung
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Geheime Abstimmung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Geheime. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.14. Geschäftsordnung Parteitag
 

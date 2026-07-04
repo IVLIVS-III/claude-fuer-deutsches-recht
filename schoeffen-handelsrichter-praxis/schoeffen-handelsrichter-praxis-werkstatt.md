@@ -129,15 +129,15 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ### 11.1. Finale Entscheidung als Volltext (Beratungs-Votum mit Tenor-Vorschlag)
 
-ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständi. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.2. Befangenheit Selbstanzeige: Orientierung
 
-ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schrit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.3. Befangenheit Selbstanzeige: Sitzungspraxis
 
-ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schr. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.4. Befangenheit und Selbstanzeige
 
@@ -161,15 +161,15 @@ ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; lief
 
 ### 11.9. Handelsrichter Bilanzstreit: Orientierung
 
-ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schri. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.10. Verständigung im Strafverfahren: Orientierung
 
-ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem S. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.11. Verständigung im Strafverfahren: Sitzungspraxis
 
-ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.12. Dokumentenintake und Aktenlog
 
@@ -177,8 +177,8 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumenten
 
 ### 11.13. Ehrenamtlicher Richter Asyl: Sitzungspraxis
 
-ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.14. Ehrenamtlicher Richter Asyl: Orientierung
 
-ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schri. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

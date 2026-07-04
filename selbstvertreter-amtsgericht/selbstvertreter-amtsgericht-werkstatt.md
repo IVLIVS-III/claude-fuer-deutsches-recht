@@ -156,7 +156,7 @@ prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine
 
 ### 11.6. Wann ist das Amtsgericht immer zuständig (egal wie hoch der Streitwert)?
 
-ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Ri. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.7. Mahnen Sie zuerst — bevor Sie klagen
 

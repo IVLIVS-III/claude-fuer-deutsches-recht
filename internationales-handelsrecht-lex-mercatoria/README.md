@@ -1,33 +1,11 @@
 # Internationales Handelsrecht und Lex Mercatoria
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`internationales-handelsrecht-lex-mercatoria`) | [`internationales-handelsrecht-lex-mercatoria.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/internationales-handelsrecht-lex-mercatoria.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **China-Wirtschaftsakte Morgenstern** (`festlandchina-wirtschaftsverkehr-fabrik-import-investition`) | [Gesamt-PDF lesen](../testakten/festlandchina-wirtschaftsverkehr-fabrik-import-investition/gesamt-pdf/festlandchina-wirtschaftsverkehr-fabrik-import-investition_gesamt.pdf) | [`testakte-festlandchina-wirtschaftsverkehr-fabrik-import-investition.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-festlandchina-wirtschaftsverkehr-fabrik-import-investition.zip) |
-| **Internationaler Handelsfall Nordhafen** (`internationales-handelsrecht-cisg-incoterms-schiedsfall`) | [Gesamt-PDF lesen](../testakten/internationales-handelsrecht-cisg-incoterms-schiedsfall/gesamt-pdf/internationales-handelsrecht-cisg-incoterms-schiedsfall_gesamt.pdf) | [`testakte-internationales-handelsrecht-cisg-incoterms-schiedsfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-internationales-handelsrecht-cisg-incoterms-schiedsfall.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
 Mega-Plugin für internationales Handelsrecht, CISG, Incoterms, UNIDROIT Principles, Lex Mercatoria, Schiedsverfahren, Trade Finance und Lieferkettenverträge.
 
-Dieses Plugin gehört zum Marketplace mit 232 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
+Dieses Plugin gehört zum Marketplace mit 233 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
 Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für einen tragfähigen Arbeitsmodus die Werkstatt. Beide Prompts sollen mit einem konkreten Arbeitsprodukt beginnen, nur eng nachfragen und nicht in einer Materialinventur hängen bleiben.
 
@@ -40,7 +18,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/internationales-handelsrecht-lex-mercatoria/internationales-handelsrecht-lex-mercatoria-schnellstart.md" download><code>internationales-handelsrecht-lex-mercatoria-schnellstart.md</code></a> |
 | Testakte(n) als ZIP | ZIP | China-Wirtschaftsakte Morgenstern: [Gesamt-PDF](../testakten/festlandchina-wirtschaftsverkehr-fabrik-import-investition/gesamt-pdf/festlandchina-wirtschaftsverkehr-fabrik-import-investition_gesamt.pdf), [`testakte-festlandchina-wirtschaftsverkehr-fabrik-import-investition.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-festlandchina-wirtschaftsverkehr-fabrik-import-investition.zip), [`testakte-festlandchina-wirtschaftsverkehr-fabrik-import-investition-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-festlandchina-wirtschaftsverkehr-fabrik-import-investition-einzelpdfs.zip); Internationaler Handelsfall Nordhafen: [Gesamt-PDF](../testakten/internationales-handelsrecht-cisg-incoterms-schiedsfall/gesamt-pdf/internationales-handelsrecht-cisg-incoterms-schiedsfall_gesamt.pdf), [`testakte-internationales-handelsrecht-cisg-incoterms-schiedsfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-internationales-handelsrecht-cisg-incoterms-schiedsfall.zip), [`testakte-internationales-handelsrecht-cisg-incoterms-schiedsfall-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-internationales-handelsrecht-cisg-incoterms-schiedsfall-einzelpdfs.zip) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 233 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du einen grenzüberschreitenden Fall sortieren: anwendbares Recht, Zuständigkeit und Durchsetzung klären und ein verwertbares Arbeitsprodukt bauen.

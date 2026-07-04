@@ -136,7 +136,7 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumenten
 
 ### 11.3. Anti-Dilution Protection
 
-ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits-. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.4. Articles of Association und Satzung
 
@@ -176,7 +176,7 @@ ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; lief
 
 ### 11.13. Deutsches Recht, englische Vertragssprache
 
-ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.14. Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel
 

@@ -137,15 +137,15 @@ zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert e
 
 ### 11.2. EU-Grundlagen und Ratsverfahren (AA)
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Aa EU Bmi Verwaltungsve. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Aa EU Bmi. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.3. Konsularrecht und Passrecht (AA)
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Aa Konsular Bmas Arbeitsrec. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Aa Konsular Bmas. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.4. Sanktionsumsetzung und internationale Abkommen (AA)
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Aa Sankt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Aa. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.5. Voelkerrecht und Vertragsgesetzgebung (AA)
 
@@ -153,7 +153,7 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittste
 
 ### 11.6. Änderungs: Formular, Portal und Einreichungslogik
 
-prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Aenderungs Formular Portal E. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Aenderungs Formular Portal. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.7. Anschluss-Routing
 
@@ -185,4 +185,4 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittste
 
 ### 11.14. Teilhaberecht (SGB IX) (BMAS)
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmas Teilhabe Bmbfsfj Familien. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmas Teilhabe Bmbfsfj. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

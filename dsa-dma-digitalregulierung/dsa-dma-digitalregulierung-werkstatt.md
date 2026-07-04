@@ -156,7 +156,7 @@ klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; lie
 
 ### 11.8. Schnittstellen — DSA, DMA, Datenschutz-Grundverordnung, P2B-VO und Paragraf 19a GWB
 
-prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortsch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.9. DMA: Anti-Steering App-Store
 

@@ -23,7 +23,6 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n√
 4. Krankenversicherung: Hilfsmittel, Arzneimittel, Orphan Drug, Off-Label-Lage, Krankenhaus- oder Vertragsarztpfad pruefen.
 5. Pflege und Teilhabe: Pflegegrad, Modulbewertung, Wohnumfeld, Barrierefreiheit und Kostentraegerabgrenzung klaeren.
 6. Eilrechtsschutz: Anordnungsanspruch, Anordnungsgrund, Folgenabwaegung und Existenzsicherung darstellen.
-7. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Befundanforderung oder Vergleichsvorschlag ausformulieren.
 
 ## 4. Anker
 
@@ -32,10 +31,6 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n√
 - SGB X Paragraf 24: Anhoerung vor belastendem Verwaltungsakt.
 - SGG Paragraf 87: Klagefrist.
 - SGG Paragraf 103: Amtsermittlung im sozialgerichtlichen Verfahren.
-- SGB V Paragraf 27: Krankenbehandlung muss medizinisch notwendig und wirtschaftlich sein.
-- SGB V Paragraf 31 und Paragraf 35a: Arzneimittelversorgung und Nutzenbewertung bei neuen Wirkstoffen.
-- SGB V Paragraf 33: Hilfsmittelversorgung nach funktionellem Behinderungsausgleich.
-- SGB XI Paragraf 40 Absatz 4: wohnumfeldverbessernde Ma√ünahmen der Pflegekasse.
 - BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09: existenzsichernde Leistungen muessen transparent und realitaetsgerecht bemessen sein.
 - BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhaeltnismaessigkeitskontrolle.
 - BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98: lebensbedrohliche oder regelmaessig toedliche Erkrankungen koennen Leistungsansprueche der Krankenversicherung verfassungsrechtlich verdichten.

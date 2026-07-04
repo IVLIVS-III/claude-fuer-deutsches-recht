@@ -132,11 +132,11 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ### 11.1. Agio und Kapitalerhöhungsstruktur
 
-erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstich. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.2. Automationen und Monitoring
 
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Automation Monitoring; Arbeitsfeld: Corporate-Kanzle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Automation Monitoring; Arbeitsfeld. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.3. GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik
 
@@ -148,7 +148,7 @@ ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; lief
 
 ### 11.5. Board Paper und Business Judgment
 
-prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Board Paper Business; Arbeitsfeld: Corporate-. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Board Paper Business; Arbeitsfeld. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.6. Board Paper: Rechtsprechungsradar GmbH-Governance
 
@@ -172,7 +172,7 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittste
 
 ### 11.11. Datenqualität und Qualitätskontrolle im M&A-Mandat
 
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datenqualitaet Xai; Arb. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datenqualitaet Xai. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.12. Datenraum-Aufbau
 

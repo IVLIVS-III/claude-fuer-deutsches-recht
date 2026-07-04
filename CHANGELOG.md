@@ -1,3 +1,10 @@
+# v421.0.0 — Presseberichterstattung und neue Zivilakten
+
+- Neues Plugin `juristische-presseberichterstattung` mit 20 Skills für Gerichtsbericht, Entscheidungsmeldung, Verdachtsbericht, Headline, Bildprüfung, Faktenmatrix, Korrekturreserve und Redaktionsschluss.
+- Zehn neue zentrale Arbeitsakten für Familienrecht, Erbrecht, Kaufrecht mit digitalem Beiwerk und juristische Presseberichterstattung ergänzt.
+- Vorhandene Akten zu Unterhalt/Zugewinn, Pflichtteilsergänzung und Smart-Kühlschrank mit Nachtragsunterlagen erweitert.
+- Marketplace, Plugin-Versionen, Downloadübersichten, Prompt-Dateien und Aktenindex auf v421.0.0 vorbereitet.
+
 # v420.0.0 — Zwölf neue Insolvenzanfechtungs-Testakten: die Hauptvarianten der §§ 129 bis 135, 142 InsO systematisch abgedeckt
 
 - Zwölf neue, vollständig ausgearbeitete Testakten zur Insolvenzanfechtung nach der Format-Grundregel (DOCX-Aktenstücke mit Briefkopf in Times New Roman 11 pt, CSV-Finanzdaten, echte EML-Dateien, WhatsApp-Verläufe, Gesamt-PDF, rubric.yaml mit je sechs Prüfpunkten): § 129 Gläubigerbenachteiligung bei wertausschöpfend belastetem Grundstück (Mönchengladbach), § 130 kongruente Deckung in zwei Varianten (Lieferant mit Mahnlauf Bielefeld; Krankenkasse nach Fremdantrag Lübeck), § 131 inkongruente Deckung in zwei Varianten (Zwangsvollstreckung/Druckzahlung Fürth; Warenlager an Erfüllungs statt Kassel), § 133 Vorsatzanfechtung mit Vierjahreszeitraum und 30 Finanzamts-Raten (Augsburg), § 134 Schenkung in zwei Varianten (Familien-Zuwendungen Oldenburg; aufsteigende Konzernsicherheit Stuttgart), § 135 Gesellschafterdarlehen über Cash-Pool (Regensburg), Kontokorrent-Anfechtung in zwei Varianten (geduldete Überziehung Dortmund; Linienherabsetzung Mainz) und Bargeschäft § 142 (Vorkasse-Lieferant Chemnitz).

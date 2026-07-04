@@ -172,7 +172,7 @@ klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; lie
 
 ### 11.10. Einstieg, Schnelltriage und Fallrouting
 
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mi. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.11. Erstgespraech Mandatsannahme
 

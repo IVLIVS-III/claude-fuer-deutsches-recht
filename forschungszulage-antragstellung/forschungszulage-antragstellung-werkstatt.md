@@ -156,7 +156,7 @@ erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert
 
 ### 11.6. Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
-erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.7. FZ: Auftragsforschung gestalten
 
@@ -180,7 +180,7 @@ erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert
 
 ### 11.12. FZ: Bescheidung und Rechtsmittel
 
-erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Besch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.13. FZ: Betriebspruefungs-Strategie
 

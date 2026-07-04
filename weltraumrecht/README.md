@@ -1,32 +1,11 @@
-# Weltraumrecht
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`weltraumrecht`) | [`weltraumrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/weltraumrecht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Akte Nordlicht-Orbit: Satellitenschwarm, Küstenstartplatz und Absturzrisiko** (`weltraumrecht-satellitenschwarm-startplatz-kueste`) | [Gesamt-PDF lesen](../testakten/weltraumrecht-satellitenschwarm-startplatz-kueste/gesamt-pdf/weltraumrecht-satellitenschwarm-startplatz-kueste_gesamt.pdf) | [`testakte-weltraumrecht-satellitenschwarm-startplatz-kueste.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-weltraumrecht-satellitenschwarm-startplatz-kueste.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
 Großes Plugin für deutsches, europäisches und internationales Weltraumrecht: Raumfahrtverträge, Satelliten, Haftung, Weltraumbahnhof, Raketen, Raumstationen, Frequenzen, Exportkontrolle und Space Property.
 
-Dieses Plugin gehört zum Marketplace mit 232 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
+Dieses Plugin gehört zum Marketplace mit 233 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
 Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für einen tragfähigen Arbeitsmodus die Werkstatt. Beide Prompts sollen mit einem konkreten Arbeitsprodukt beginnen, nur eng nachfragen und nicht in einer Materialinventur hängen bleiben.
 
@@ -39,29 +18,8 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/weltraumrecht/weltraumrecht-schnellstart.md" download><code>weltraumrecht-schnellstart.md</code></a> |
 | Testakte(n) als ZIP | ZIP | Akte Nordlicht-Orbit: Satellitenschwarm, Küstenstartplatz und Absturzrisiko: [Gesamt-PDF](../testakten/weltraumrecht-satellitenschwarm-startplatz-kueste/gesamt-pdf/weltraumrecht-satellitenschwarm-startplatz-kueste_gesamt.pdf), [`testakte-weltraumrecht-satellitenschwarm-startplatz-kueste.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-weltraumrecht-satellitenschwarm-startplatz-kueste.zip), [`testakte-weltraumrecht-satellitenschwarm-startplatz-kueste-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-weltraumrecht-satellitenschwarm-startplatz-kueste-einzelpdfs.zip) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 233 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
-
-Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
-Das Plugin behandelt Raumfahrt nicht als Science-Fiction, sondern als haftungs-, genehmigungs-, sicherheits-, versicherungs-, frequenz- und völkerrechtlich hochverdichtete Praxis.
-
-## Arbeitsweise
-
-1. Ziel, Rolle, Risiko und Unterlagen klären.
-2. Normen, Behördenpraxis, Fristen, Beweislast und Outputformat trennen.
-3. Die passenden Spezialskills auswählen und nur belegbare Rechtsbehauptungen verwenden.
-4. Am Ende entsteht eine klare Handlungsvorlage, ein Memo, eine Checkliste, ein Entwurf oder ein Red-Team.
-
-## Quellen- und Qualitätsdisziplin
-
-Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle ausgeben. Normtexte immer live prüfen, wenn das Ergebnis rechtlich tragend ist.
-
-## Kernanker
-
-- UN-Weltraumverträge, Haftungsübereinkommen, Registrierungsübereinkommen, Mondvertrag
-- EU-Space-Programme, IRIS2, Weltraumlage, Frequenzen und Cybersecurity
-- Deutsches Genehmigungs-, Exportkontroll-, Versicherungs- und Haftungsregime
-- Satellitenschwärme, Weltraummüll, Startplätze, Raumstationen, Nutzungsrechte
 
 <!-- BEGIN SKILLS-LOGIC (auto-generated) -->
 
@@ -81,6 +39,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | 8. Spezialmodule und Schnittstellen | `amateurfunk-satellit-und-frequenznutzung`, `anti-satellite-test-ban-und-orbital-debris-pledge`, `artemis-accords-und-verhaeltnis-zu-un-vertraegen`, `ballonmission-stratosphaere-genehmigung`, `beschlagnahme-oder-pfaendung-von-satellitenrechten`, `buergeranfrage-satellit-stoert-grundstueck-oder-empfan`, `change-control-engineering-und-rechtsfolgen`, `commercial-leo-destinations-iss-nachfolge`, `cyberangriff-auf-satellit-nis2-bsi-kritis-und-notfallp`, `drohnen-und-high-altitude-platform-abgrenzung`, `finanzaufsicht-tokenisierung-ip-an`, `finanzierung-satellitenprojekt`, `force-majeure-im-raumfahrtprojekt`, `frequenzzuteilung-itu-erdbeobachtung`, `incident-response-launch-readiness-post`, `insolvenz-eines-satellitenbetreibers-nutzlast-frequenz`, `internationale-streitbeilegung`, `ip-an-weltraumerfindungen-an-bord`, ... plus 74 weitere |
 
 <!-- END SKILLS-LOGIC (auto-generated) -->
+
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

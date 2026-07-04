@@ -1,6 +1,6 @@
 # wandeldarlehen-lebenszyklus
 
-**53 Skills** · Stand `v420.0.0`
+**53 Skills** · Stand `v421.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/wandeldarlehen-lebenszyklus/README.md)

@@ -128,9 +128,9 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. europäischer Technikregulierungsrahmen-Rollen: Kanzlei als Betreiberin, Anbieterin oder API-Orchestrator.
+### 11.1. europäischer Technikregulierungsrahmen-Rollen: Kanzlei als Betreiberin, Anbieterin.
 
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast-. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.2. Anbietern Belehrung Sonderfall Edge
 
@@ -146,7 +146,7 @@ klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; lie
 
 ### 11.5. Art. 50 europäischer Technikregulierungsrahmen: Schriftsatz, Marketing, Legal Update und Chatbot
 
-erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbar. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.6. AVV-Grenzprüfung Datenschutz
 

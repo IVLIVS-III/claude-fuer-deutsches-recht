@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 38 KB) | PDF | [`gesamt-pdf/erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg_gesamt.pdf`](gesamt-pdf/erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 40 KB) | PDF | [`gesamt-pdf/erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg_gesamt.pdf`](gesamt-pdf/erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg-einzelpdfs.zip) |
 

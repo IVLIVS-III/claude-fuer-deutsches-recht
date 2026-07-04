@@ -156,7 +156,7 @@ zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert e
 
 ### 11.6. Agb Anwaltsvertrag Und Allg Mandatsbedingungen
 
-prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Anwaltsvertrag Allg Mandatsbe. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Anwaltsvertrag Allg. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.7. Agb Arbeitnehmerueberlassung Aueg
 
@@ -168,7 +168,7 @@ ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; lief
 
 ### 11.9. AGB Begriff Vorformuliert 305
 
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Agb Begriff Vorformuliert 305; Arbeitsf. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Agb Begriff Vorformuliert 305. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.10. Agb Bei Digitalen Produkten 327F Update
 
@@ -184,7 +184,7 @@ prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine
 
 ### 11.13. Agb Bei Plattformnutzung App Stores
 
-prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Bei Plattformnutzung App Stores; Arbeits. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Bei Plattformnutzung App Stores. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.14. Agb Bei Vereinen Und Verbaenden
 

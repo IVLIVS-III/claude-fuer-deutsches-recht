@@ -181,4 +181,4 @@ erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert
 
 ### 11.14. Mandantenunterlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
-erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogi. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

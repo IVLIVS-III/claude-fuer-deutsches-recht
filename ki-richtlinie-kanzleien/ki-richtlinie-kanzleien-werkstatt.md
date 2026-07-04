@@ -152,7 +152,7 @@ zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert e
 
 ### 11.5. Automatisierte Entscheidungen Art. 22 Datenschutz-Grundverordnung
 
-ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunk. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.6. Berufsrecht-Bausteine
 

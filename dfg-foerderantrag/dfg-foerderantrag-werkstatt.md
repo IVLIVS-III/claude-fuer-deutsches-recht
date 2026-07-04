@@ -156,7 +156,7 @@ erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert
 
 ### 11.8. DFG: Eigene Vorarbeiten
 
-erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Dfg Eigene Vorarbeiten Darste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Dfg Eigene Vorarbeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.9. Erstantragsteller-Sondercheck
 
@@ -164,7 +164,7 @@ erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert
 
 ### 11.10. DFG: Erstprüfung, Rollenklärung und Mandatsziel
 
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dfg Erstpruefung Und M. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dfg Erstpruefung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.11. Finanzplan und Module
 
@@ -172,7 +172,7 @@ ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; lief
 
 ### 11.12. DFG-Förderstrategie: schnell, schlank oder groß?
 
-ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Dfg Foerderstrate. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Dfg. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 11.13. DFG: Grossgeraete und Cluster
 

@@ -1,34 +1,11 @@
 # BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`bav-strategie-konzern`) | [`bav-strategie-konzern.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bav-strategie-konzern.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Betriebliche Altersversorgung – MEISSNER RHEINWERK AG** (`bav-strategie-konzern-meissner-rheinwerk-ag`) | [Gesamt-PDF lesen](../testakten/bav-strategie-konzern-meissner-rheinwerk-ag/gesamt-pdf/bav-strategie-konzern-meissner-rheinwerk-ag_gesamt.pdf) | [`testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip) |
-| **Rentenberaterakte Betriebsrentenberatung Pflegedienst Halle** (`rentenberater-bav-firmenberatung-pflegedienst-halle`) | [Gesamt-PDF lesen](../testakten/rentenberater-bav-firmenberatung-pflegedienst-halle/gesamt-pdf/rentenberater-bav-firmenberatung-pflegedienst-halle_gesamt.pdf) | [`testakte-rentenberater-bav-firmenberatung-pflegedienst-halle.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenberater-bav-firmenberatung-pflegedienst-halle.zip) |
-| **Rentenberaterakte Querschnitt Status, Betriebsrente und Rentenanspruch Dortmund** (`rentenberater-status-bav-rentenanspruch-querschnitt-dortmund`) | [Gesamt-PDF lesen](../testakten/rentenberater-status-bav-rentenanspruch-querschnitt-dortmund/gesamt-pdf/rentenberater-status-bav-rentenanspruch-querschnitt-dortmund_gesamt.pdf) | [`testakte-rentenberater-status-bav-rentenanspruch-querschnitt-dortmund.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenberater-status-bav-rentenanspruch-querschnitt-dortmund.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
 Strategische Beratung zur betrieblichen Altersversorgung in Konzernen: Pensionsmodelle alle fünf Durchführungswege CTA Pension Buyouts Drei-Stufen-Theorie Versorgungssystem-Harmonisierung internationale Benefits Restrukturierung DB-zu-DC im Düsseldorfer Boutique-Stil.
 
-Dieses Plugin gehört zum Marketplace mit 232 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
+Dieses Plugin gehört zum Marketplace mit 233 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
 Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für einen tragfähigen Arbeitsmodus die Werkstatt. Beide Prompts sollen mit einem konkreten Arbeitsprodukt beginnen, nur eng nachfragen und nicht in einer Materialinventur hängen bleiben.
 
@@ -41,7 +18,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/bav-strategie-konzern/bav-strategie-konzern-schnellstart.md" download><code>bav-strategie-konzern-schnellstart.md</code></a> |
 | Testakte(n) als ZIP | ZIP | Betriebliche Altersversorgung – MEISSNER RHEINWERK AG: [Gesamt-PDF](../testakten/bav-strategie-konzern-meissner-rheinwerk-ag/gesamt-pdf/bav-strategie-konzern-meissner-rheinwerk-ag_gesamt.pdf), [`testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip), [`testakte-bav-strategie-konzern-meissner-rheinwerk-ag-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bav-strategie-konzern-meissner-rheinwerk-ag-einzelpdfs.zip); Rentenberaterakte Betriebsrentenberatung Pflegedienst Halle: [Gesamt-PDF](../testakten/rentenberater-bav-firmenberatung-pflegedienst-halle/gesamt-pdf/rentenberater-bav-firmenberatung-pflegedienst-halle_gesamt.pdf), [`testakte-rentenberater-bav-firmenberatung-pflegedienst-halle.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenberater-bav-firmenberatung-pflegedienst-halle.zip), [`testakte-rentenberater-bav-firmenberatung-pflegedienst-halle-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenberater-bav-firmenberatung-pflegedienst-halle-einzelpdfs.zip); Rentenberaterakte Querschnitt Status, Betriebsrente und Rentenanspruch Dortmund: [Gesamt-PDF](../testakten/rentenberater-status-bav-rentenanspruch-querschnitt-dortmund/gesamt-pdf/rentenberater-status-bav-rentenanspruch-querschnitt-dortmund_gesamt.pdf), [`testakte-rentenberater-status-bav-rentenanspruch-querschnitt-dortmund.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenberater-status-bav-rentenanspruch-querschnitt-dortmund.zip), [`testakte-rentenberater-status-bav-rentenanspruch-querschnitt-dortmund-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenberater-status-bav-rentenanspruch-querschnitt-dortmund-einzelpdfs.zip) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 233 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.

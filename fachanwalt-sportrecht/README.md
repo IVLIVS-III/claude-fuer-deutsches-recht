@@ -1,32 +1,11 @@
-# Fachanwalt Sportrecht
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`fachanwalt-sportrecht`) | [`fachanwalt-sportrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-sportrecht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Doping-Verfahren Selin Uvalkanat — Meldonium-Befund, CAS Lausanne, Arbeitsrecht** (`doping-uvalkanat-handballerin-cas-lausanne`) | [Gesamt-PDF lesen](../testakten/doping-uvalkanat-handballerin-cas-lausanne/gesamt-pdf/doping-uvalkanat-handballerin-cas-lausanne_gesamt.pdf) | [`testakte-doping-uvalkanat-handballerin-cas-lausanne.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-doping-uvalkanat-handballerin-cas-lausanne.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
 Plugin Fachanwalt für Sportrecht. Verbandsrecht (DFB FIFA UEFA IOC DOSB) CAS Schiedsverfahren Spielerverträge Doping WADA-Code NADA Sponsoring Persönlichkeitsrechte Veranstalterhaftung. Schnittstelle Plugin gesellschaftsrecht.
 
-Dieses Plugin gehört zum Marketplace mit 232 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
+Dieses Plugin gehört zum Marketplace mit 233 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
 Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für einen tragfähigen Arbeitsmodus die Werkstatt. Beide Prompts sollen mit einem konkreten Arbeitsprodukt beginnen, nur eng nachfragen und nicht in einer Materialinventur hängen bleiben.
 
@@ -39,30 +18,8 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/fachanwalt-sportrecht/fachanwalt-sportrecht-schnellstart.md" download><code>fachanwalt-sportrecht-schnellstart.md</code></a> |
 | Testakte(n) als ZIP | ZIP | Doping-Verfahren Selin Uvalkanat — Meldonium-Befund, CAS Lausanne, Arbeitsrecht: [Gesamt-PDF](../testakten/doping-uvalkanat-handballerin-cas-lausanne/gesamt-pdf/doping-uvalkanat-handballerin-cas-lausanne_gesamt.pdf), [`testakte-doping-uvalkanat-handballerin-cas-lausanne.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-doping-uvalkanat-handballerin-cas-lausanne.zip), [`testakte-doping-uvalkanat-handballerin-cas-lausanne-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-doping-uvalkanat-handballerin-cas-lausanne-einzelpdfs.zip) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 233 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
-
-Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
-Plugin Fachanwalt für Sportrecht. Orientierung Verbandsrecht der Sportverbände DFB FIFA UEFA IOC DOSB CAS Schiedsverfahren Spielerverträge Doping WADA-Code NADA Sponsoring Persönlichkeitsrechte Sportler Veranstalterhaftung.
-
-## Installation in der Plugin-Umgebung
-
-1. ZIP herunterladen (Link oben).
-2. Plugin-Menü öffnen, `Install from .zip` wählen und die Datei auswählen.
-3. Fertig. Skills sind sofort verfügbar.
-
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
-
-## Enthaltene Skills
-
-| Skill | Zweck |
-| --- | --- |
-| `fachanwalt-sportrecht-orientierung` | Orientierung im Sportrecht — FAO Voraussetzungen Normen typische Mandate Fristen Quellenprüfung. Verbandsrecht der Sportverbände DFB FIFA UEFA IOC DOSB Vereinsrecht BGB §§ 21 ff. Schiedsgerichtsbarkeit CAS Court o… |
-
-## Lizenz
-
-Apache-2.0 OR MIT — Auswahl beim Empfänger.
-
 
 <!-- BEGIN SKILLS-LOGIC (auto-generated) -->
 
@@ -82,6 +39,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | 8. Spezialmodule und Schnittstellen | `athletenwerbung-paragraf-3-uwg`, `cas-berufung-vorbereiten`, `doping-cas-berufung`, `doping-strafrecht-paragraf-4-anti-dopg`, `e-sport-anerkennung`, `esports-vereinsrecht-dosb-anerkennung`, `eu-sportrecht-art-101-aeuv-eugh-c-333-21`, `fachanwalt-sportrecht-doping-cas-berufung`, `fachanwalt-sportrecht-esports-vereinsrecht-dosb-anerkennung`, `fachanwalt-sportrecht-stadion-hausverbot`, `fachanwalt-sportrecht-vereinsstrafrecht`, `nada-mehrparteien-konflikt-und-interessen`, `schnittstelle-mandantenentscheidung`, `sponsoring-internationaler-bezug-und-schnittstellen`, `sport-anti-doping`, `sportr-anti-doping-praxis`, `sportr-arbeitsrecht-im-sport-leitfaden`, `sportr-einfuehrung-rechtsfelder`, ... plus 11 weitere |
 
 <!-- END SKILLS-LOGIC (auto-generated) -->
+
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

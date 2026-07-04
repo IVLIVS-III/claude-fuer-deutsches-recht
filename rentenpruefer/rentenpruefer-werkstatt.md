@@ -40,7 +40,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-### 3.5. Private und betriebliche Ebene: Riester, Basisrente, Direktversicherung, VBL, Unterstützungskasse und Kapitalwahlrechte in die Nettobetrachtung einbauen.
+### 3.5. Private und betriebliche Ebene: Riester, Basisrente, Direktversicherung, VBL, Unterstützungskasse und Kapitalwahlrechte.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 

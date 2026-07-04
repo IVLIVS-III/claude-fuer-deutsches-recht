@@ -232,7 +232,7 @@ def markdown_text(value: str) -> str:
     return text
 
 
-def block(plugin: dict, directory: Path, akten_slugs: list[str]) -> str:
+def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_count: int) -> str:
     plugin_name = plugin["name"]
     stem = prompt_stem(plugin_name)
     werkstatt_file = f"{stem}-werkstatt.md"
@@ -247,7 +247,7 @@ def block(plugin: dict, directory: Path, akten_slugs: list[str]) -> str:
 
 {description}
 
-Dieses Plugin gehört zum Marketplace mit 232 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
+Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
 Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für einen tragfähigen Arbeitsmodus die Werkstatt. Beide Prompts sollen mit einem konkreten Arbeitsprodukt beginnen, nur eng nachfragen und nicht in einer Materialinventur hängen bleiben.
 
@@ -260,7 +260,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Kleiner Prompt (Schnellstart) | Markdown | <a href="{schnellstart_url}" download><code>{schnellstart_file}</code></a> |
 | Testakte(n) als ZIP | ZIP | {testakte_cell} |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 {END}"""
 
 
@@ -286,7 +286,7 @@ def insert_position(text: str) -> int:
     return pos
 
 
-def inject(plugin: dict, akten_slugs: list[str]) -> str:
+def inject(plugin: dict, akten_slugs: list[str], marketplace_count: int) -> str:
     name = plugin["name"]
     directory = plugin_dir(plugin)
     readme = directory / "README.md"
@@ -298,7 +298,7 @@ def inject(plugin: dict, akten_slugs: list[str]) -> str:
     new_text = (
         stripped[:pos].rstrip()
         + "\n\n"
-        + block(plugin, directory, akten_slugs)
+        + block(plugin, directory, akten_slugs, marketplace_count)
         + "\n\n"
         + stripped[pos:].lstrip()
     )
@@ -310,10 +310,11 @@ def inject(plugin: dict, akten_slugs: list[str]) -> str:
 
 def main() -> int:
     plugins = json.loads(MARKETPLACE.read_text(encoding="utf-8"))["plugins"]
+    marketplace_count = len(plugins)
     mapping = discover_testakten_mapping(plugins)
     counts = {"INSERTED": 0, "UPDATED": 0, "UNCHANGED": 0, "SKIPPED": 0}
     for plugin in plugins:
-        status = inject(plugin, mapping.get(plugin["name"], []))
+        status = inject(plugin, mapping.get(plugin["name"], []), marketplace_count)
         counts[status] += 1
         if status in {"INSERTED", "UPDATED"}:
             print(f"{status:8s} {plugin['name']}")
