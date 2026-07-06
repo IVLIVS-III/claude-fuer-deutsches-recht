@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v425.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v426.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstürzt oder die Seite endlos neu lädt.
 
@@ -59,6 +59,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [email-umformulierer-berufsrecht](./email-umformulierer-berufsrecht.md) (82 Skills)
 - [energierecht](./energierecht.md) (95 Skills)
 - [erbbaurecht-praxis](./erbbaurecht-praxis.md) (50 Skills)
+- [europaeisches-prozessrecht](./europaeisches-prozessrecht.md) (20 Skills)
 - [europarecht-kompass](./europarecht-kompass.md) (57 Skills)
 - [fachanwalt-agrarrecht](./fachanwalt-agrarrecht.md) (78 Skills)
 - [fachanwalt-arbeitsrecht](./fachanwalt-arbeitsrecht.md) (120 Skills)
@@ -144,7 +145,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [lobbyregister-bundestag](./lobbyregister-bundestag.md) (52 Skills)
 - [luftrecht-flughafenrecht](./luftrecht-flughafenrecht.md) (239 Skills)
 - [mandantenanfragen-assistent](./mandantenanfragen-assistent.md) (58 Skills)
-- [markenrecht-fashion-luxus](./markenrecht-fashion-luxus.md) (82 Skills)
+- [markenrecht-fashion-luxus](./markenrecht-fashion-luxus.md) (87 Skills)
 - [meinungspruefer](./meinungspruefer.md) (53 Skills)
 - [memorandums-ersteller](./memorandums-ersteller.md) (58 Skills)
 - [methodenlehre-buergerliches-recht](./methodenlehre-buergerliches-recht.md) (158 Skills)

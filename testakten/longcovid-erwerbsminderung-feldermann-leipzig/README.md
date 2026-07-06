@@ -150,7 +150,7 @@ Verheiratet, 2 Kinder (Liam 11, Marlene 8)
 - Alle Aktenstücke in UTF-8 / Markdown; deutsche Umlaute vollständig.
 - Keine Symlinks, keine Build-Scripts im Aktenordner.
 - Branch: `feat/v51.0.0-testakten-vollbestand` (kein Commit durch Agenten).
-- Fiktive Aktenstand: Alle Personen, Aktenzeichen und Bescheide sind für Test-/Plugin-Zwecke erstellt.
+- Aktenstand: Personen- und Verfahrensdaten sind anonymisiert und dienen der geschlossenen Fallbearbeitung.
 
 ---
 

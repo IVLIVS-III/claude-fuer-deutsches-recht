@@ -7,7 +7,7 @@ description: "Wenn es um EUIPO-Widerspruchsverfahren in markenrecht-fashion-luxu
 
 ## Arbeitsbereich
 
-EUIPO-Widerspruchsverfahren nach Art. 8 UMV führen: aeltere Marke kollidiert mit juengerer Unionsmarken-Anmeldung. Normen: Art. 8 Abs. 1 lit. b UMV (Verwechslungsgefahr), Art. 8 Abs. 5 UMV (Bekanntheitsschutz), Art. 46 UMV (Beschwerdekammer BoA). Prüfraster: Widerspruchsfristen (3 Monate ab Veröffentlichung), Gebühren, Benutzungsnachweis Art. 47 UMV, Verwechslungsgefahr-Kriterien EUIPO-Praxis. Output Widerspruchsschrift EUIPO, Benutzungsnachweis-Zusammenstellung. Abgrenzung: DPMA-Widerspruch siehe dpma-widerspruch-und-löschung; TTAB siehe ttab-opposition-und-cancellation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EUIPO-Widerspruchsverfahren nach Art. 8 UMV führen: aeltere Marke kollidiert mit juengerer Unionsmarken-Anmeldung. Normen: Art. 8 Abs. 1 lit. b UMV (Verwechslungsgefahr), Art. 8 Abs. 5 UMV (Bekanntheitsschutz), Art. 46 UMV (Widerspruch) und Art. 66 bis 71 UMV (Beschwerdekammern). Prüfraster: Widerspruchsfristen (3 Monate ab Veröffentlichung), Gebühren, Benutzungsnachweis Art. 47 UMV, Verwechslungsgefahr-Kriterien EUIPO-Praxis. Output Widerspruchsschrift EUIPO, Benutzungsnachweis-Zusammenstellung. Abgrenzung: DPMA-Widerspruch siehe dpma-widerspruch-und-löschung; TTAB siehe ttab-opposition-und-cancellation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -148,3 +148,14 @@ Bevor der Widerspruch eingelegt wird, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+
+## EUIPO-Widerspruch 2026: Arbeitslinie
+
+1. Veröffentlichungsdatum und Dreimonatsfrist nach Art. 46 UMV sichern.
+2. Ältere Rechte substantiieren: Registerstand, Inhaber, Waren und Dienstleistungen, Priorität, Vertretung.
+3. Bei Marken über fünf Jahren Benutzungseinrede antizipieren und Art. 47 UMV mit Belegmapping vorbereiten.
+4. Waren- und Dienstleistungsnähe nicht behaupten, sondern paarweise tabellieren.
+5. Zeichenvergleich in Bild, Klang und Bedeutung trennen; Gesamteindruck und Kennzeichnungskraft erst danach verdichten.
+6. Cooling-off nur nutzen, wenn Warenbeschränkung, Aufbrauch, Gebiet und Nichtangriffszusage sauber dokumentiert sind.
+7. Beschwerdeweg über Beschwerdekammer, Gericht der Europäischen Union und Gerichtshof nur mit Prüfungsumfang und Fristplan empfehlen.

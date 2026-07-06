@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 30 KB) | PDF | [`gesamt-pdf/rentenrecht-fruehrente-kontenluecken-werft-kiel_gesamt.pdf`](gesamt-pdf/rentenrecht-fruehrente-kontenluecken-werft-kiel_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 34 KB) | PDF | [`gesamt-pdf/rentenrecht-fruehrente-kontenluecken-werft-kiel_gesamt.pdf`](gesamt-pdf/rentenrecht-fruehrente-kontenluecken-werft-kiel_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-fruehrente-kontenluecken-werft-kiel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-fruehrente-kontenluecken-werft-kiel.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-fruehrente-kontenluecken-werft-kiel-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-fruehrente-kontenluecken-werft-kiel-einzelpdfs.zip) |
 
