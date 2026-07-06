@@ -1,0 +1,31 @@
+name: "Baurecht Grosser Baufall Talbruecke Tunnel A44"
+plugin: "hoai-leistungsphasen-praxis"
+
+checks:
+  - id: readme-vorhanden
+    check_type: file_exists
+    description: "README.md vorhanden"
+    path: "README.md"
+
+  - id: gesamt-pdf-vorhanden
+    check_type: file_exists
+    description: "Gesamt-PDF gebaut"
+    path: "gesamt-pdf/baurecht-grosser-baufall-talbruecke-tunnel-a44_gesamt.pdf"
+
+  - id: lph-vergabekette-vollstaendig
+    check_type: human_review
+    description: "Akte muss LPH 1 bis 9, Vergabeverfahren, Rüge, Nachprüfung, Zuschlag, Bauvertrag, Bauüberwachung, Behinderung, Nachtrag, Kosten und Objektbetreuung abdecken."
+
+  - id: lv-und-bewerbung-vorhanden
+    check_type: file_exists
+    description: "Leeres Leistungsverzeichnis vorhanden"
+    path: "07_leistungsverzeichnis_leer_bruecke_tunnel.xlsx"
+
+  - id: bauueberwachung-lph8-vorhanden
+    check_type: file_exists
+    description: "Bauüberwachungsbericht LPH 8 vorhanden"
+    path: "23_bauueberwachungsbericht_lph8_kw_18.docx"
+
+  - id: nachtrag-und-behinderung-vorhanden
+    check_type: human_review
+    description: "Behinderungsanzeigen und Nachtragsprüfung müssen Ursache, Anordnung, Preis und Termin getrennt behandeln."

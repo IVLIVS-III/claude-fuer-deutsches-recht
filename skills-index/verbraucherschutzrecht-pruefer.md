@@ -1,6 +1,6 @@
 # verbraucherschutzrecht-pruefer
 
-**147 Skills** · Stand `v426.0.0`
+**147 Skills** · Stand `v426.1.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verbraucherschutzrecht-pruefer/README.md)

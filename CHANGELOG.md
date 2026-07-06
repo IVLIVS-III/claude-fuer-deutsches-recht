@@ -1,3 +1,9 @@
+# v426.1.0 — Großer Baufall Brücke/Tunnel
+
+- Zentrale Bau- und Vergabeakte `baurecht-grosser-baufall-talbruecke-tunnel-a44` ergänzt: LPH 1 bis 9, VOB/A-EU-Verfahren, Teilnahmewettbewerb, leeres Leistungsverzeichnis, Bewerbung, Angebot, Zuschlag, Rüge, Nachprüfungsverfahren, Bauvertrag, LPH-8-Bauüberwachung, Behinderungen, Nachträge, Gutachten, Kostenfortschreibung, Abnahme und Objektbetreuung.
+- Aktenpaket mit DOCX, XLSX, EML, CSV, JPG, PDF und Gesamt-PDF aufgebaut; zentrale Aktenübersicht und Downloadzuordnung aktualisiert.
+- Repo-Version auf v426.1.0 angehoben; Marketplace- und Plugin-Manifeste synchronisiert.
+
 # v426.0.0 — Europäisches Prozessrecht, EUIPO-Widerspruch und Sozial-/Renten-/Insolvenz-Akten
 
 - Neues Plugin `europaeisches-prozessrecht` mit 20 Skills für Verfahren vor Gerichtshof und Gericht der Europäischen Union: Vorabentscheidung, Nichtigkeitsklage, Untätigkeitsklage, Vertragsverletzung, Amtshaftung, einstweiliger Rechtsschutz, e-Curia, Fristen, Verfahrenssprache, Intervention, Rechtsmittel und Schriftsatzbau.
