@@ -1,3 +1,12 @@
+# v429.3.0 — Aktenoptik für Sozial-, Renten-, Arbeits-, Gesellschafts- und Insolvenzrecht
+
+- Testakten in den genannten Rechtsgebieten auf echtere Aktenwirkung nachgezogen: Briefköpfe, Kanzlei- und Behördenvermerke, Tabellenlogik und Abschriften geglättet; sichtbare Format-Hinweise, Platzhalter, abgebrochene Auszüge und Testcharakter-Reste aus den betroffenen Aktenstücken entfernt.
+- Arbeitsrechtsakten Weber und Vogt auf vollständigere Vertrags- und Betriebsratsunterlagen umgestellt; die Weber-Akte arbeitet jetzt mit einer angreifbaren, aber vollständigen Betriebsratsanhörung statt mit einem bloßen Fehlseiten-Hinweis.
+- Status-, Renten-, Sozial- und Insolvenzakten mit besseren Entscheidungs- und Belegkernen versehen, unter anderem Statusmatrix Familienbetrieb, FRG-Übersetzungsanlage, Riester-Anbieterunterlagen, Orphan-Drug-Nutzenblatt, Elektrorollstuhl-Wohnumfeld und Asset-Deal-Insolvenzvermerke.
+- 21 Gesamt-PDFs neu gebaut, README-Downloadblöcke mit neuen Dateigrößen aktualisiert und ZIP-Builds für Originalakten sowie Einzel-PDFs geprüft. Alle Validatoren grün.
+
+---
+
 # v429.2.0 — Release-Readiness und Übersichten synchronisiert
 
 - Root-README, Skill-Index, Asset-Index und Testakten-README auf den aktuellen Marketplace-Stand synchronisiert: 234 Plugins, 26179 Skills, 301 zentrale Testakten und 319 Testakten insgesamt.

@@ -1,36 +1,109 @@
+TechLogix GmbH
+Tempelhofer Damm 18
+12099 Berlin
+
+Personalakte Marcus Weber
+Abschrift des Arbeitsvertrages vom 15. Februar 2018
+Aufgenommen in die Prozessakte Weber ./. TechLogix GmbH am 07. Mai 2026
+
 ARBEITSVERTRAG
-TechLogix GmbH (Arbeitgeberin) ./. Marcus Weber (Arbeitnehmer)
-Abgeschlossen am 15. Februar 2018, in Kraft ab 01. März 2018
 
-[... Präambel und §§ 1–3 nicht beigefügt ...]
+zwischen
 
-§ 4 Tätigkeit
-Der Arbeitnehmer wird als Senior IT-Administrator eingestellt.
-Einsatzort: Berlin. Versetzungsvorbehalt bundesweit.
+TechLogix GmbH, Tempelhofer Damm 18, 12099 Berlin,
+vertreten durch die Geschäftsführerin Anja Kreutzfeldt,
+nachfolgend Arbeitgeberin,
 
-§ 5 Arbeitszeit
-Vollzeit, 40 Stunden/Woche. Gleitzeit 07:00–19:00 Uhr, Kernzeit 09:00–15:00 Uhr.
+und
 
-§ 6 Vergütung
-Monatliches Bruttogehalt EUR 3.800,00 (in Worten: dreitausendachthundert Euro).
-[Handschriftl. Notiz Kanzlei: laut Gehaltsabrechnung Apr 2026: EUR 4.850,00 —
-mehrere Gehaltserhöhungen seit 2018, kein schriftlicher Nachtrag vorliegend!]
+Herrn Marcus Weber, Berliner Straße 42, 10243 Berlin,
+geboren am 12. September 1981,
+nachfolgend Arbeitnehmer.
 
-§ 7 Urlaub
-28 Arbeitstage pro Kalenderjahr.
+Paragraf 1 Beginn und Dauer
+Das Arbeitsverhältnis beginnt am 01. März 2018 und wird auf unbestimmte Zeit
+geschlossen. Eine Probezeit ist nicht mehr vereinbart, weil Herr Weber zuvor
+bereits seit dem 01. Januar 2018 auf Grundlage eines Projektvertrages für die
+Arbeitgeberin tätig war.
 
-§ 8 Kündigungsfristen
-Es gelten die gesetzlichen Kündigungsfristen nach § 622 BGB.
-[Handschriftl. Notiz Kanzlei: bei 8+ J. BZ = 4 Monate z. Monatsende → 31.08.2026 ✓]
+Paragraf 2 Tätigkeit
+Der Arbeitnehmer wird als Senior IT-Administrator eingestellt. Zu seinen
+Aufgaben gehören insbesondere Serverbetrieb, Benutzer- und Rechteverwaltung,
+Störungsanalyse, Datensicherung, Dokumentation der IT-Infrastruktur und
+Unterstützung der Fachabteilungen bei Systemumstellungen. Die Arbeitgeberin
+kann dem Arbeitnehmer andere gleichwertige Aufgaben übertragen, wenn dies
+aus betrieblichen Gründen erforderlich ist.
 
-§ 9 Befristung
-Das Arbeitsverhältnis ist unbefristet.
+Paragraf 3 Arbeitsort
+Regelmäßiger Arbeitsort ist Berlin. Einsätze an anderen Standorten sind nur
+zulässig, wenn sie dem Arbeitnehmer rechtzeitig angekündigt werden und unter
+Berücksichtigung seiner familiären Situation zumutbar sind.
 
-§ 10 Schriftformklausel
-Änderungen dieses Vertrages bedürfen der Schriftform.
-[Notiz: doppelte Schriftformklausel? Prüfen ob wirksam nach BAG 20.05.2008 - 9 AZR 382/07]
+Paragraf 4 Arbeitszeit
+Die regelmäßige Arbeitszeit beträgt 40 Stunden wöchentlich. Es gilt Gleitzeit
+mit einem Rahmen von 07:00 Uhr bis 19:00 Uhr und einer Kernzeit von 09:00 Uhr
+bis 15:00 Uhr. Rufbereitschaften bedürfen einer gesonderten Anordnung und
+werden nach der jeweils gültigen betrieblichen Regelung vergütet.
 
-[... §§ 11–15 nicht beigefügt ...]
+Paragraf 5 Vergütung
+Das monatliche Bruttogehalt beträgt bei Vertragsschluss 3.800,00 Euro. Die
+Vergütung wird jeweils zum letzten Bankarbeitstag eines Monats gezahlt.
+Nach den in der Personalakte liegenden Gehaltsmitteilungen betrug das
+Bruttomonatsgehalt im April 2026 4.850,00 Euro. Schriftliche Nachträge zu den
+einzelnen Erhöhungen liegen der Kanzlei bislang nicht vor.
 
-Unterschriften: Berlin, 15.02.2018
-Anja Kreutzfeldt (für TechLogix GmbH)    Marcus Weber
+Paragraf 6 Urlaub
+Der Arbeitnehmer erhält 28 Arbeitstage Erholungsurlaub pro Kalenderjahr. Lage
+und Dauer des Urlaubs sind mit der Arbeitgeberin abzustimmen; berechtigte
+familiäre Belange sind zu berücksichtigen.
+
+Paragraf 7 Krankheit und Anzeigeobliegenheiten
+Arbeitsunfähigkeit ist der Arbeitgeberin unverzüglich mitzuteilen. Eine
+ärztliche Bescheinigung ist spätestens am dritten Kalendertag vorzulegen,
+sofern die Arbeitgeberin sie nicht früher verlangt.
+
+Paragraf 8 Kündigungsfristen
+Für die Kündigung gelten die gesetzlichen Kündigungsfristen. Nach der
+Beschäftigungsdauer von mehr als acht Jahren ist für die Arbeitgeberin eine
+Frist von vier Monaten zum Monatsende zu prüfen. Eine abweichende kürzere
+vertragliche Frist enthält die Abschrift nicht.
+
+Paragraf 9 Nebentätigkeit
+Nebentätigkeiten sind anzuzeigen, wenn sie die Arbeitsleistung beeinträchtigen
+oder Interessen der Arbeitgeberin berühren können. Die Zustimmung darf nur aus
+sachlichem Grund verweigert werden.
+
+Paragraf 10 Vertraulichkeit und IT-Sicherheit
+Der Arbeitnehmer verpflichtet sich, Geschäfts- und Betriebsgeheimnisse sowie
+Zugangsdaten vertraulich zu behandeln. Diese Pflicht besteht nach Ende des
+Arbeitsverhältnisses fort.
+
+Paragraf 11 Arbeitsmittel
+Laptop, Mobiltelefon, Tokens und Zugangskarten bleiben Eigentum der
+Arbeitgeberin. Bei Freistellung oder Beendigung des Arbeitsverhältnisses sind
+die Gegenstände nach Aufforderung herauszugeben.
+
+Paragraf 12 Ausschlussfristen
+Ansprüche aus dem Arbeitsverhältnis sind innerhalb von drei Monaten nach
+Fälligkeit in Textform geltend zu machen. Die Klausel erfasst nach ihrem
+Wortlaut keine Ansprüche wegen vorsätzlicher Pflichtverletzung.
+
+Paragraf 13 Schriftform
+Änderungen und Ergänzungen dieses Vertrages sollen schriftlich dokumentiert
+werden. Mündliche Individualabreden bleiben wirksam.
+
+Paragraf 14 Schlussbestimmungen
+Sollten einzelne Bestimmungen unwirksam sein, bleibt die Wirksamkeit des
+Vertrages im Übrigen unberührt. Es gilt deutsches Recht.
+
+Berlin, den 15. Februar 2018
+
+Für die TechLogix GmbH: Anja Kreutzfeldt
+Arbeitnehmer: Marcus Weber
+
+Kanzleivermerk vom 07. Mai 2026:
+Die Abschrift beruht auf der von Herrn Weber vorgelegten Kopie. Auffällig ist,
+dass die Kündigungsfrist nicht gesondert geregelt ist und daher die gesetzliche
+Verlängerung zu prüfen ist. Für die Klagebegründung ist außerdem relevant, dass
+die Tätigkeit als Senior IT-Administrator breit beschrieben und nicht auf ein
+einzelnes Projekt beschränkt ist.

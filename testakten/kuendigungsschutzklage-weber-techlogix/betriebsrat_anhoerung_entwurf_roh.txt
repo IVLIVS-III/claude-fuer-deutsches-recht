@@ -1,34 +1,54 @@
 TechLogix GmbH
-Tempelhofer Damm 18, 12099 Berlin
+Tempelhofer Damm 18
+12099 Berlin
 
 An den Betriebsrat
-z.H. Herrn Torsten Hähnel (Vorsitz)
+z. Hd. Herrn Torsten Hähnel, Vorsitzender
+TechLogix GmbH
+Tempelhofer Damm 18
+12099 Berlin
 
-[DATUM FEHLT — handschriftl. Notiz: "war das der 24. oder 25. April?"]
+Berlin, 25. April 2026
+Eingangsstempel Betriebsrat: 28. April 2026, 16:42 Uhr
 
-Anhörung gemäß § 102 BetrVG
+Anhörung nach Paragraf 102 BetrVG
+beabsichtigte ordentliche betriebsbedingte Kündigung Marcus Weber
 
 Sehr geehrter Herr Hähnel,
 
-wir beabsichtigen, das Arbeitsverhältnis mit Herrn Marcus Weber, Senior IT-Administrator,
-ordentlich zu kündigen.
+wir beabsichtigen, das Arbeitsverhältnis mit Herrn Marcus Weber, Senior
+IT-Administrator, ordentlich zu kündigen. Herr Weber ist seit dem 01. März
+2018 bei der TechLogix GmbH beschäftigt und erhält derzeit ein monatliches
+Bruttogehalt von 4.850,00 Euro.
 
-Kündigungsgrund: betriebsbedingt. Im Rahmen einer Neuausrichtung wird der gesamte
-IT-Betrieb ausgelagert. Die Stelle von Herrn Weber entfällt dadurch dauerhaft.
+Kündigungsgrund ist die Auslagerung des internen IT-Betriebs an DataFlow
+Solutions GmbH. Nach dem Beschluss der Geschäftsführung sollen Serverbetrieb,
+Benutzerverwaltung, First-Level-Störungsannahme und Backup-Monitoring künftig
+extern erbracht werden. Die Stelle von Herrn Weber entfällt nach unserer
+Planung dauerhaft.
 
-[LÜCKE IM DOKUMENT — der folgende Absatz fehlt im eingescannten Original,
- Seite 2 offensichtlich nicht mitgescannt]
+Als vergleichbare Beschäftigte wurden Herr Nils Grunewald und Frau Petra
+Sonnleitner betrachtet. Herr Grunewald soll wegen seiner Aufgaben in der
+Netzwerksicherheit nicht in die Vergleichsgruppe fallen. Frau Sonnleitner soll
+wegen ihrer Tätigkeit im Lizenzmanagement und ihrer Schwerbehinderung nicht
+gekündigt werden. Eine gesonderte Punktetabelle wurde dem Betriebsrat nicht
+übermittelt.
+
+Nach vorläufiger Prüfung bestehen keine freien Arbeitsplätze, auf denen Herr
+Weber zu unveränderten oder geänderten Bedingungen weiterbeschäftigt werden
+kann. Eine Weiterqualifizierung für den Bereich Kundenintegration wird derzeit
+nicht angeboten.
 
 Wir bitten um Stellungnahme innerhalb der gesetzlichen Frist.
 
 Mit freundlichen Grüßen
 TechLogix GmbH
-A. Kreutzfeldt
+Anja Kreutzfeldt
+Geschäftsführerin
 
----
-[Handschriftl. Notiz Kanzlei Weber:
- - Datum fehlt komplett — Frist § 102 Abs. 2 BetrVG unklar
- - Seite 2 fehlt — Sozialauswahl-Angaben? Vergleichsgruppe benannt?
- - Hähnel sagt: "zu spät bekommen" — aber wann genau?
- - KEIN Widerspruch durch BR eingelegt
- - Formfehler-Rüge vorbereiten!]
+Kanzleivermerk Weber vom 07. Mai 2026:
+Die Anhörung ist vollständig als Abschrift vorhanden, bleibt aber angreifbar:
+Eingang erst am 28. April 2026, 16:42 Uhr, Kündigungsschreiben vom selben Tag,
+Zugang beim Arbeitnehmer am 30. April 2026. Die Sozialauswahl bleibt pauschal;
+Punktetabelle, Altersdaten, Unterhaltspflichten und konkrete Vergleichsdaten
+fehlen.

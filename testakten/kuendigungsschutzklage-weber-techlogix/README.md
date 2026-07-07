@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 73 KB) | PDF | [`gesamt-pdf/kuendigungsschutzklage-weber-techlogix_gesamt.pdf`](gesamt-pdf/kuendigungsschutzklage-weber-techlogix_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 77 KB) | PDF | [`gesamt-pdf/kuendigungsschutzklage-weber-techlogix_gesamt.pdf`](gesamt-pdf/kuendigungsschutzklage-weber-techlogix_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-kuendigungsschutzklage-weber-techlogix.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-kuendigungsschutzklage-weber-techlogix-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix-einzelpdfs.zip) |
 
@@ -79,8 +79,8 @@ Datenauswertungs-Kern: Die Sozialauswahl-Punktematrix (`sozialauswahl_punktematr
 | `arbeitsvertrag_weber_2018_auszug.txt` | Rohabschrift-Auszug des Arbeitsvertrags |
 | `kuendigungsschreiben_techlogix_30-04-2026.docx` | Kündigungsschreiben TechLogix GmbH vom 28.04.2026 mit Kanzlei-Anmerkungen |
 | `kuendigungsschreiben_techlogix_30-04-2026.txt` | Rohabschrift des Kündigungsschreibens |
-| `betriebsrat_anhoerung_entwurf_roh.docx` | BR-Anhörungsschreiben (unvollständig, Formfehler dokumentiert) |
-| `betriebsrat_anhoerung_entwurf_roh.txt` | Rohabschrift des BR-Anhörungsschreibens |
+| `betriebsrat_anhoerung_entwurf_roh.docx` | BR-Anhörungsschreiben mit spätem Eingangsstempel und dünner Sozialauswahlbegründung |
+| `betriebsrat_anhoerung_entwurf_roh.txt` | Vollständige Abschrift des BR-Anhörungsschreibens mit Kanzleivermerk |
 | `mandantennotiz_erstgespraech_06-05-2026.docx` | Ausführliche Mandantennotiz, Erstgespräch 06.05.2026 |
 | `mandantennotiz_erstgespraech_06-05-2026.txt` | Rohabschrift der Mandantennotiz |
 | `notiz_weber_gespraech_maerz_2026.docx` | Handnotiz des Mandanten zum Gespräch vom 25.03.2026 |
@@ -98,7 +98,7 @@ Datenauswertungs-Kern: Die Sozialauswahl-Punktematrix (`sozialauswahl_punktematr
 | `whatsapp_weber_grunewald.txt` | WhatsApp-Export Weber/Grunewald vom 30.04.2026: Grunewald wurde Weiterbeschäftigung zugesagt (Diskrepanz-Beleg zur Sozialauswahl) |
 | `gespraechsvermerk_haehnel_br_anhoerung.md` | Gesprächsvermerk RA Steinhauer zum Telefonat mit BR-Vorsitzendem Hähnel: verspätete und unvollständige § 102-Anhörung |
 | `eml/2026-04-28_kreutzfeldt_an_weber_kuendigung_begleitschreiben.eml` | Begleitschreiben der Geschäftsführerin zur Kündigung; DataFlow-Auslagerung noch in finaler Abstimmung |
-| `eml/2026-04-28_haehnel_an_kreutzfeldt_br_anhoerung_verspaetet.eml` | BR-Vorsitzender rügt verspätete, undatierte und unvollständige Anhörung (Seite 2 zur Sozialauswahl fehlt) |
+| `eml/2026-04-28_haehnel_an_kreutzfeldt_br_anhoerung_verspaetet.eml` | BR-Vorsitzender rügt verspätete und inhaltlich unzureichende Anhörung zur Sozialauswahl |
 | `eml/2026-05-13_steinhauer_an_weber_gueteterminladung.eml` | RA Steinhauer leitet Ladung zum Gütetermin 04.06.2026 weiter |
 
 ---
@@ -114,7 +114,7 @@ Diese Akte zeigt den vollständigen Ablauf eines Kündigungsschutzverfahrens —
 
 **Materiell-rechtlich**
 - Betriebsbedingte Kündigung: Anforderungen an die unternehmerische Entscheidung (BAG-Rechtsprechung zu Outsourcing, hier: Vertrag noch nicht unterschrieben)
-- Betriebsratsanhörung § 102 BetrVG: Fehlerfolge bei fehlendem Datum, unvollständigem Schreiben (fehlende Seite 2), streitigem Zugangszeitpunkt
+- Betriebsratsanhörung § 102 BetrVG: Fehlerfolge bei spätem Zugang, unzureichender Sozialauswahlbegründung und streitigem Fristbeginn
 - Sozialauswahl § 1 Abs. 3 KSchG: Punkteschema, Vergleichsgruppe, Bedeutung von GdB 30 (kein Sonderkündigungsschutz nach § 168 SGB IX, aber Auswahlpunkt strittig)
 - Weiterbeschäftigungsanspruch nach dem Großen Senat BAG, GS 1/84
 
@@ -128,7 +128,7 @@ Diese Akte zeigt den vollständigen Ablauf eines Kündigungsschutzverfahrens —
 ## Rechtliche Knackpunkte
 
 1. **Frist § 4 KSchG** — Ablauf 20.05.2026 → Soforthandlungsbedarf
-2. **BR-Anhörung § 102 BetrVG** — Datum fehlt, Seite 2 fehlt, Zugangszeitpunkt strittig → möglicher Formfehler
+2. **BR-Anhörung § 102 BetrVG** — Zugang erst 28.04.2026, Sozialauswahl nur behauptet, Vergleichsdaten fehlen → möglicher Formfehler
 3. **Sozialauswahl § 1 Abs. 3 KSchG** — Grunewald (2 J. BZ, ledig, keine Kinder) hätte zuerst entlassen werden müssen
 4. **Unternehmerische Entscheidung** — Outsourcing-Vertrag mit DataFlow Solutions bei Kündigungsausspruch noch nicht unterzeichnet
 5. **Annahmeverzug** — bei unberechtigter Kündigung droht AG Lohnnachzahlungspflicht ab Zugang Klage
@@ -143,7 +143,7 @@ Diese Akte zeigt den vollständigen Ablauf eines Kündigungsschutzverfahrens —
 | `kueschk-triage-laie-oder-anwalt` | Einstieg (Anwalt-Modus) |
 | `kueschk-frist-und-zugang-pruefen` | Fristberechnung, Zugangsbeweis Koslowski |
 | `kueschk-anwendbarkeit-kschg-pruefen` | § 23 KSchG: 19,5 berechnete Köpfe |
-| `kueschk-formfehler-pruefen` | BR-Anhörung: Datum fehlt, Seite 2 fehlt |
+| `kueschk-formfehler-pruefen` | BR-Anhörung: später Zugang, dünne Sozialauswahl, Fristbeginn |
 | `kueschk-kuendigungsgrund-personen-verhalten-betrieb` | Betriebsbedingt, DataFlow-Auftrag nicht unterschrieben |
 | `kueschk-sonderkuendigungsschutz-checkliste` | GdB 30 Sonnleitner, Weber selbst kein Schutz |
 | `kueschk-klageschrift-anwalt-baustein` | Klageschrift ArbG Berlin |

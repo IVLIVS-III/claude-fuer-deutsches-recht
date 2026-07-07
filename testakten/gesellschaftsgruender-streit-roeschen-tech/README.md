@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 75 KB) | PDF | [`gesamt-pdf/gesellschaftsgruender-streit-roeschen-tech_gesamt.pdf`](gesamt-pdf/gesellschaftsgruender-streit-roeschen-tech_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 76 KB) | PDF | [`gesamt-pdf/gesellschaftsgruender-streit-roeschen-tech_gesamt.pdf`](gesamt-pdf/gesellschaftsgruender-streit-roeschen-tech_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-gesellschaftsgruender-streit-roeschen-tech.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-streit-roeschen-tech.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-gesellschaftsgruender-streit-roeschen-tech-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-streit-roeschen-tech-einzelpdfs.zip) |
 

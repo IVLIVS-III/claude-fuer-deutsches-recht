@@ -1,6 +1,6 @@
 # bundeswehrrecht-wehrrecht
 
-**106 Skills** · Stand `v429.2.0`
+**106 Skills** · Stand `v429.3.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bundeswehrrecht-wehrrecht/README.md)

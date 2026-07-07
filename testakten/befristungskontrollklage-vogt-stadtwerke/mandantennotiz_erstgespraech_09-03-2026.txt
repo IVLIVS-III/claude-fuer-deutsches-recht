@@ -1,7 +1,7 @@
 KANZLEINOTIZ – ERSTGESPRÄCH
 Datum: 09. März 2026, 14:30 Uhr
 Mandantin: Lena Vogt (anwesend)
-Bearbeiter: [Kürzel unleserlich, vermutl. SR oder TS]
+Bearbeiterin: Rechtsanwältin Hanna Dressel
 Dauer: ca. 55 Min.
 
 ---
@@ -27,15 +27,18 @@ Vogt schildert Vertragsschluss:
 - Vogt hat keine Original-Ausfertigung mit Originalunterschrift des AG.
   Sie hat nur den Scan des von ihr unterschriebenen Dokuments und die Emails.
 
-Auf Frage ob sie den Ferienaushilfen-Vertrag von 2021 noch hat:
-- "Ach das, ja, irgendwo hab ich das noch. War nur 3 Monate Pakete schleppen
-  im Sommer, ganz woanders, ich hab damit nicht gerechnet dass das relevant ist."
-- Scan liegt bei (Auszug, Seite 2 fehlt).
+Auf Frage, ob sie den Ferienaushilfen-Vertrag von 2021 noch hat:
+- "Ach das, ja, irgendwo habe ich das noch. Das waren nur drei Monate Pakete
+  sortieren im Sommer, ganz woanders. Ich habe nicht damit gerechnet, dass das
+  relevant ist."
+- Die Mandantin übergibt einen Scan. Die Kanzlei fordert vorsorglich die
+  vollständige Personalaktenkopie an und gleicht den Scan anschließend mit der
+  Arbeitgeberfassung ab.
 
-§ 17 TzBfG-Frist:
+Paragraf 17 TzBfG-Frist:
 - Befristungsende: 28.02.2026
 - Heutiges Datum: 09.03.2026
-- Fristablauf: rechnerisch 21.03.2026, wegen Samstag nach § 193 BGB 23.03.2026
+- Fristablauf: rechnerisch 21.03.2026, wegen Samstag nach Paragraf 193 BGB 23.03.2026
 - FRIST LÄUFT NOCH, aber kaum noch Zeit → Klage muss diese Woche raus!
 
 Wunsch der Mandantin:
@@ -49,16 +52,16 @@ Reagierte überrascht aber interessiert. "Das hätte ich nicht gedacht."
 
 Vorläufige Bewertung (Bearbeiter):
 
-1. Schriftformverstoß § 14 Abs. 4 TzBfG:
+1. Schriftformverstoß Paragraf 14 Abs. 4 TzBfG:
    Sehr wahrscheinlich gegeben. Voraussetzung: Befristungsabrede muss
-   schriftlich vereinbart sein (§ 126 BGB). Email + Scan = elektronische
-   Übermittlung, erfüllt § 126 BGB nicht. Folge: § 16 TzBfG → Vertrag
+   schriftlich vereinbart sein (Paragraf 126 BGB). E-Mail und Scan sind eine
+   elektronische Übermittlung und erfüllen Paragraf 126 BGB nicht. Folge: Paragraf 16 TzBfG, Vertrag
    gilt als auf unbestimmte Zeit geschlossen. AG hat dann faktisch
    ohne Kündigung "entlassen" → starke Position.
 
 2. Vorbeschäftigung 2021:
    Abstand 2 J. 5 M., anderer Bereich, anderer Ort. Nach BVerfG 2018
-   und BAG-Rspr. kein zwingender Missbrauch. Kein eigenständiges
+   und der Rechtsprechung des Bundesarbeitsgerichts kein zwingender Missbrauch. Kein eigenständiges
    Hauptargument, aber als zusätzliches Argument möglich.
 
 3. Nächste Schritte:

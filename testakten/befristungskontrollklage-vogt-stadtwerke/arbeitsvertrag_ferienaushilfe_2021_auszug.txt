@@ -1,57 +1,70 @@
-[ A U S Z U G ]
 Stadtwerke Neukölln GmbH
 Britzer Damm 221
 12347 Berlin
 
+Personalaktenabschrift
+Ferienaushilfevertrag Lena Vogt 2021
+Erstellt für die Prozessakte Vogt ./. Stadtwerke Neukölln GmbH
 
 ARBEITSVERTRAG
-(Geringfügige Beschäftigung / Ferienaushilfe)
+Geringfügige Beschäftigung als Ferienaushilfe
 
+zwischen
 
-zwischen der Stadtwerke Neukölln GmbH – nachfolgend Arbeitgeber –
+Stadtwerke Neukölln GmbH, Britzer Damm 221, 12347 Berlin,
+vertreten durch die Personalabteilung,
+nachfolgend Arbeitgeber,
+
 und
 
-Frau Lena Vogt, Erkstraße 48, 12043 Berlin, geb. 12.09.1993
-– nachfolgend Arbeitnehmerin –
+Frau Lena Vogt, Erkstraße 48, 12043 Berlin, geboren am 12. September 1993,
+nachfolgend Arbeitnehmerin.
 
+Paragraf 1 Beginn und Dauer
+Das Arbeitsverhältnis beginnt am 01. Juli 2021 und endet ohne Kündigung mit
+Ablauf des 30. September 2021. Die Tätigkeit ist als vorübergehende
+Ferienaushilfe im Sinne eines kurzfristigen Aushilfsbedarfs vereinbart.
 
-§ 1 Beginn und Dauer
+Paragraf 2 Tätigkeit
+Die Arbeitnehmerin wird als Aushilfskraft im Bereich Lager und Posteingang
+eingesetzt. Der Einsatz betrifft den Betriebshof Rudower Straße 14, 12043
+Berlin. Zu den Aufgaben gehören Sortierung eingehender Pakete, Verteilung von
+Hauspost, einfache Scan- und Ablagearbeiten sowie Unterstützung bei der
+Inventur des Materiallagers.
 
-Das Arbeitsverhältnis beginnt am 01. Juli 2021 und endet am 30. September 2021.
-Es handelt sich um eine Ferienaushilfstätigkeit ohne Sachgrund gemäß
-§ 14 Abs. 2 TzBfG.
+Paragraf 3 Arbeitszeit
+Die Arbeitszeit beträgt nach Dienstplan bis zu 20 Stunden wöchentlich. Die
+konkreten Einsatztage werden durch die Teamleitung Lager mindestens eine Woche
+im Voraus mitgeteilt. Ein Anspruch auf eine bestimmte Anzahl von Stunden wird
+nicht begründet.
 
+Paragraf 4 Vergütung
+Die Arbeitnehmerin erhält 11,20 Euro brutto je tatsächlich geleisteter Stunde.
+Die Abrechnung erfolgt monatlich nach Vorlage und Freigabe der Stundenzettel.
 
-§ 2 Tätigkeit
+Paragraf 5 Weisungen und Arbeitsmittel
+Die Arbeitnehmerin unterliegt während der Einsätze den fachlichen Weisungen
+der Teamleitung Lager. Arbeitskleidung, Zugangskarte und Scanner werden durch
+den Arbeitgeber gestellt und sind zum Ende der Beschäftigung zurückzugeben.
 
-Die Arbeitnehmerin wird als Aushilfskraft im Bereich Lager / Posteingang
-eingesetzt. Einsatzort: Betriebshof Rudower Straße 14, 12043 Berlin.
+Paragraf 6 Vertraulichkeit
+Betriebsinterne Informationen, Kundendaten und interne Vorgangsnummern sind
+vertraulich zu behandeln. Diese Pflicht gilt auch nach Ende der Beschäftigung.
 
-[Auszug endet hier – weitere Seiten nicht in der Akte vorhanden]
+Paragraf 7 Schlussbestimmungen
+Nebenabreden bestehen nicht. Änderungen bedürfen der schriftlichen
+Dokumentation. Im Übrigen gelten die gesetzlichen Vorschriften.
 
----
+Berlin, den 25. Juni 2021
 
-[Handschriftliche Notiz auf dem Auszug, vermutlich Vogt:]
-"Hatte ich ganz vergessen dass ich da mal war – nur Pakete sortiert
-im Sommer, völlig anderer Bereich, anderer Ort, ganz andere Leute"
+Für die Stadtwerke Neukölln GmbH: Birgit Schönfeld
+Arbeitnehmerin: Lena Vogt
 
----
-
-[KANZLEIVERMERK, hs.:]
-Original nicht auffindbar – Vogt hat nur diesen Scan (2 Seiten, Seite 2 fehlt).
-Arbeitgeber müsste auf Anfrage vollständiges Dokument herausgeben.
-
-Kernfrage Vorbeschäftigung:
-- Tätigkeit: Lager/Posteingang (≠ Kundenservice/Vertragsmanagement)
-- Ort: anderer Standort (Betriebshof Rudower Str. ≠ Britzer Damm)
-- Abstand zwischen Ende 30.09.2021 und Beginn 01.03.2024 = 2 Jahre 5 Monate
-  → knapp über 2 Jahre, aber keine "missbräuchliche Umgehung" erkennbar
-- BVerfG 2018 (1 BvL 7/14): § 14 Abs. 2 S. 2 TzBfG (Vorbeschäftigungsverbot)
-  ist nicht verfassungswidrig, ABER: "institutioneller Rechtsmissbrauch"
-  kann nur bei sehr kurzen Abständen und identischer Tätigkeit angenommen werden
-  → hier: 2 J. 5 M., anderer Bereich, andere Stelle → eher kein Missbrauch
-  → Vorbeschäftigung schadet hier wsl. nicht, da keine enge zeitliche + inhaltliche
-    Verknüpfung erkennbar
-
-PRIMÄRARGUMENT bleibt: Schriftformverstoß § 14 Abs. 4 TzBfG
-(Vertrag nur per Email + Scan-Rücksendung, kein körperliches Originaldokument)
+Kanzleivermerk vom 10. März 2026:
+Die Personalaktenabschrift wurde aus dem Scan der Mandantin und der später von
+der Arbeitgeberseite übersandten Kopie abgeglichen. Der Vertrag betrifft eine
+kurze Aushilfstätigkeit im Lager und Posteingang am Betriebshof Rudower Straße.
+Er unterscheidet sich deutlich von der späteren Vollzeitstelle im
+Kundenservice und Vertragsmanagement am Britzer Damm. Für die Klage bleibt die
+Schriftformfrage des Vertrages 2024 das tragende Argument; die Vorbeschäftigung
+ist als Nebenpunkt gesondert zu behandeln.

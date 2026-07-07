@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 80 KB) | PDF | [`gesamt-pdf/befristungskontrollklage-vogt-stadtwerke_gesamt.pdf`](gesamt-pdf/befristungskontrollklage-vogt-stadtwerke_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 81 KB) | PDF | [`gesamt-pdf/befristungskontrollklage-vogt-stadtwerke_gesamt.pdf`](gesamt-pdf/befristungskontrollklage-vogt-stadtwerke_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-befristungskontrollklage-vogt-stadtwerke.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-befristungskontrollklage-vogt-stadtwerke.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-befristungskontrollklage-vogt-stadtwerke-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-befristungskontrollklage-vogt-stadtwerke-einzelpdfs.zip) |
 
@@ -96,7 +96,7 @@ zeitgleiche Neuausschreibung derselben Aufgaben als unbefristete Regelstelle bes
 | Teamleiter Kundenservice AG | Ralf Steinke (Vorgesetzter Vogts) |
 | Kaufmännischer Leiter AG | Dr. Michael Ahrends |
 | Betriebsratsvorsitz | Fatima Öztürk (7 Mitglieder) |
-| Kanzlei | [Kanzleiname], [Anwältin: Rechtsanwältin Hanna Dressel] |
+| Kanzlei | Kanzlei Dressel & Partner, Rechtsanwältin Hanna Dressel |
 | Beginn AV | 01.03.2024 |
 | Ende AV (befristet) | 28.02.2026 |
 | Vertragsart | Befristet ohne Sachgrund, § 14 Abs. 2 TzBfG |
@@ -119,7 +119,7 @@ zeitgleiche Neuausschreibung derselben Aufgaben als unbefristete Regelstelle bes
 | `vollmacht_vogt.txt` | Vollmacht Lena Vogt (Rohabschrift) |
 | `arbeitsvertrag_vogt_2024_per_email.txt` | Arbeitsvertrag 2024 (Abschrift des per E-Mail übersandten PDF) |
 | `arbeitsvertrag_vogt_2024_befristung.docx` | Arbeitsvertrag 2024 als vollständiges DOCX mit allen Klauseln |
-| `arbeitsvertrag_ferienaushilfe_2021_auszug.txt` | Auszug Ferienaushilfe-Vertrag 2021 (nur Seite 1, Seite 2 fehlt) |
+| `arbeitsvertrag_ferienaushilfe_2021_auszug.txt` | Personalaktenabschrift Ferienaushilfe-Vertrag 2021 mit Kanzleivermerk zur Vorbeschäftigung |
 | `email_uebermittlung_vertrag_feb_2024.txt` | E-Mail-Verlauf: Übermittlung und Rücksendung des AV (Feb. 2024) |
 | `email_schoenfeld_kein_folgevertrag_jan_2026.txt` | E-Mail-Verlauf: Mitteilung kein Anschlussvertrag (Jan. 2026) |
 | `vertragskette_beschaeftigungsverlauf.csv` | Datenauswertungs-Kern: Vertragskette mit Dauer, Rechtsgrundlage, interner Begründung und tatsächlichem Aufgabentyp (24 Monate, null Verlängerungen, Abstand 2 Jahre 5 Monate) |
