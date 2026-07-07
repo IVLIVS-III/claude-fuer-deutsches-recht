@@ -1,3 +1,11 @@
+# v429.2.0 — Release-Readiness und Übersichten synchronisiert
+
+- Root-README, Skill-Index, Asset-Index und Testakten-README auf den aktuellen Marketplace-Stand synchronisiert: 234 Plugins, 26179 Skills, 301 zentrale Testakten und 319 Testakten insgesamt.
+- Neue Prüfung `scripts/validate-root-readme-overview.py` ergänzt. Sie vergleicht die zentralen Übersichtsangaben mit Marketplace, Skill-Dateien und Aktenbestand, damit veraltete Zähler oder Versionsstände künftig vor dem Release auffallen.
+- Release-Workflow um diese Prüfung erweitert; Marketplace-Manifest, Plugin-Manifeste, SKILLS.md, skills-index und ASSET_INDEX.md auf v429.2.0 aktualisiert.
+
+---
+
 # v429.1.0 — Kohärenz- und Faktentreue-Feinschliff der Statusfeststellungs-Akten
 
 - Abschließender Kohärenz- und Sanity-Durchgang über die in v429.0.0 überarbeiteten Statusfeststellungs-Akten: Die neuen Volltext-Urkunden wurden gegen die übrigen Aktenstücke gegengeprüft (Beteiligungsquoten, Mehrheitsschwellen, Abstimmungsergebnisse, Namen, Daten) — alle Werte stimmen überein (etwa das Beiratsvotum „68 Prozent dafür, 32 Prozent dagegen" als Summe der Anteile FrankenHealth 51 plus Seidl 17 gegen Vogt 32; die 75-Prozent-Schwelle für den Verkauf der Patentfamilie NLM-4 deckt sich mit Ziffer 6.2.3 des Gesellschaftsvertrags).
