@@ -1,3 +1,11 @@
+# v429.10.0 — Release-Nachlauf mit erweiterten Insolvenz-Testakten
+
+- Die nach v429.9.0 hinzugekommenen Insolvenz-Testakten-Erweiterungen sind in den Release-Stand aufgenommen: zusätzliche Schriftsätze, Urteile, Sachverständigengutachten, E-Mails, CSV-, XLSX-, PDF- und Bildanlagen sowie neu gerenderte Gesamt-PDFs werden nun zusammen mit den Formatvorlagen-Verbesserungen ausgeliefert.
+- Marketplace, Plugin-Manifeste, Root-README, Testakten-Übersicht, Asset-Index, SKILLS.md, Skills-Detailseiten und Prompt-Coverage wurden auf v429.10.0 synchronisiert.
+- Der Release-Stand bündelt damit die geschärften Vorlagen und die nachgezogenen Aktenpakete auf dem aktuellen `main`.
+
+---
+
 # v429.9.0 — Formatvorlagen geschärft und ausgabefest gemacht
 
 - Die zentrale Sammlung `testakten/formatvorlagen-paradebeispiele` wurde über alle 23 Markdown- und ODT-Vorlagen hinweg geglättet: echte Umlaute in deutscher Prosa, Normverweise im Repo-Stil `Paragraf`, einheitliche `Ausfüllfelder` und ein klarer Warnhinweis statt alter Vorlagensprache.

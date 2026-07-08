@@ -1,6 +1,6 @@
 # verfassungsrecht
 
-**67 Skills** · Stand `v429.9.0`
+**67 Skills** · Stand `v429.10.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verfassungsrecht/README.md)
