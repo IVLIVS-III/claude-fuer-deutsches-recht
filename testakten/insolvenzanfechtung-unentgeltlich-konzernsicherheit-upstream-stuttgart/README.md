@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 59 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 192 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart-einzelpdfs.zip) |
 
@@ -55,10 +55,33 @@ insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart/
 ├── 13_replik_verwalterin_2026-06-30.docx                Replik: Vermögenstrennung, wertloser Rückgriff im Sicherungsfall, Kenntnis irrelevant
 ├── 14_liquiditaetsstatus_tochter_stichtage.csv          Liquiditätsstatus der Tochter je Monatsstichtag; Unterdeckung über 10 % ab Ende April 2025
 ├── 15_finanzkennzahlen_mutter_2019_2023.csv             Kennzahlenreihe der Holding 2019 bis Q1 2023 als Beleg der Krise im Bestellungszeitpunkt
+├── 16_klageschrift_bank_lg_stuttgart.docx                 Klageschrift LG Stuttgart, Az. 34 O 88/26 KfH: Feststellung der Unwirksamkeit, hilfsweise Zahlung
+├── 17_klageerwiderung_bank_2026-09-01.docx                Klageerwiderung: mittelbare Konzernvorteile, bestrittene Kenntnis der Wertlosigkeit
+├── 18_replik_verwalterin_2026-09-22.docx                  Replik: Verschuldensunabhängigkeit des Paragraf 134 InsO, Einordnung des Rating-Memos
+├── 19_duplik_bank_2026-10-13.docx                         Duplik: Beweisangebote Zeuge Sattelmaier und Sachverständigengutachten zur Werthaltigkeit
+├── 20_beweisbeschluss_lg_stuttgart_2026-10-27.docx        Beweisbeschluss: Zeugenvernehmung und Gutachten Prof. Dr. Wachsmuth zur Regressquote
+├── 21_sachverstaendigengutachten_wachsmuth_regressquote.docx Gutachten: Rueckgriffsanspruch zum Stichtag nur mit 4 bis 7 Prozent werthaltig
+├── 22_zeugenvernehmungsprotokoll_sattelmaier.docx         Vernehmungsprotokoll: interne Kenntnis der Sanierungslage, nicht an die Bank weitergegeben
+├── 23_vergleichsverhandlungsprotokoll_2026-02-02.docx     Vergleichsbereitschaft nach der Beweisaufnahme, Angebot 480.000 gegen Forderung 620.000 EUR
+├── 24_vergleichsvereinbarung_bank_2027-02-16.docx          Vergleich über 545.000 EUR in drei Raten, Kostenquote 45:55
+├── 25_schlussvermerk_verwalterin_abschluss.docx            Schlussvermerk: Vergleich vollständig bezahlt, Ansprüche gegen Konsortin nicht weiterverfolgt
+├── csv/
+│   ├── fristenliste_verjaehrung_paragraf_146_inso.csv      Verjährungsprüfung Paragraf 146 InsO für beide Sicherheiten
+│   └── ratenzahlungen_vergleich_bank.csv                   Ratenzahlungsplan und Zahlungseingänge des Vergleichsbetrags
+├── xlsx/
+│   └── massekostenkalkulation_vergleich_bank.xlsx          Kalkulation: Vergleichsbetrag, Kosten, Nettoerlös für die Masse
+├── jpg/
+│   └── betriebsgrundstueck_feuerbach_grundschuld_vermerk.jpg Foto-Vermerk zum belasteten Betriebsgrundstück
+├── pdfs/
+│   ├── 24_vergleichsvereinbarung_bank_2027-02-16.pdf       Gerenderte PDF-Fassung der Vergleichsvereinbarung
+│   └── 25_schlussvermerk_verwalterin_abschluss.pdf         Gerenderte PDF-Fassung des Schlussvermerks
 ├── eml/
 │   ├── 2023-04-20_bank_an_cfo_holding_drittsicherheiten.eml  Bank verlangt "harte Substanz von außen" und lehnt Avalvergütung ab
 │   ├── 2023-05-08_cfo_holding_an_gf_tochter.eml         Druck der Holding auf den Tochter-GF; Gegenleistungsvereinbarung wird vertagt
-│   └── 2025-05-12_gf_tochter_liquiditaet_intern.eml     Interne Mail zur verzögerten Lohnzahlung und Kreditorenpriorisierung im Mai 2025
+│   ├── 2025-05-12_gf_tochter_liquiditaet_intern.eml     Interne Mail zur verzögerten Lohnzahlung und Kreditorenpriorisierung im Mai 2025
+│   ├── 2026-10-30_terminsladung_beweisaufnahme.eml      Terminsladung zum Beweistermin
+│   ├── 2027-02-16_vergleichsannahme_bank.eml            Vergleichsannahme der Beklagten
+│   └── 2027-05-14_zahlungseingang_letzte_rate.eml       Bestätigung des vollständigen Zahlungseingangs
 ├── README.md                                            Diese Übersicht
 └── rubric.yaml                                          Prüfpunkte für die Bearbeitung der Akte
 ```
