@@ -1,0 +1,14 @@
+**From:** c.hennings@voracis-ventures.de  
+**To:** m.reuter@vorberg-steinhausen.de  
+**Date:** Mon, 13 Jul 2026 08:55:00 +0200  
+**Subject:** Mangelanzeige Compliance-Engine - dringend
+
+---
+
+Sehr geehrter Herr Dr. Vorberg, sehr geehrter Herr Reuter,
+
+unsere Entwicklungsabteilung hat festgestellt, dass die uebernommene Compliance-Engine eine ungeklaerte Lizenzabhaengigkeit enthaelt, die im Data Room nicht offengelegt wurde. Wir behalten uns Gewaehrleistungsansprueche nach Ziffer 9 des APA ausdruecklich vor.
+
+Mit freundlichen Gruessen
+Dr. Carlotta Hennings
+Geschaeftsfuehrerin Voracis Ventures GmbH

@@ -84,17 +84,31 @@ Diese Akte ist eine Arbeitsakte für die Plugins `fachanwalt-insolvenz-sanierung
 | 09 | `09_asset-purchase-agreement-text.docx` | Asset-Purchase-Agreement (Volltext, ausgefüllt) |
 | 10 | `10_closing-memorandum.docx` | Closing-Memorandum 01.07.2026 |
 | 11 | `11_post-closing-anzeigen.docx` | Post-Closing: Marken-Umschreibung, DSGVO-Information, BAG-Meldung |
+| 12 | `12_kaufpreiszahlungen_treuhandkonto.csv` | Kaufpreisraten-Zahlungsplan über Notaranderkonto |
+| 13 | `13_massekostenkalkulation_nach_closing.xlsx` | Massekostenkalkulation nach Closing |
+| 14 | `14_uebernahmebestaetigung_arbeitnehmer_613a.docx` | Übernahmebestätigung für übergehende Arbeitnehmer § 613a BGB |
+| 15 | `15_widerspruch_arbeitnehmerin_betriebsuebergang.eml` | Widerspruch Frau Kettlitz gegen Betriebsübergang § 613a VI BGB |
+| 16 | `16_kuendigung_verbleibender_arbeitnehmer_betriebsbedingt.docx` | Betriebsbedingte Kündigung für nicht übernommene Arbeitnehmer |
+| 17 | `17_dpma_markenuebertragung_bestaetigung.docx` | DPMA-Bestätigung Markenübertragung |
+| 18 | `18_datenuebernahmevereinbarung_dsgvo.docx` | Datenübernahmevereinbarung DSGVO zwischen IV und Voracis |
+| 19 | `19_gewaehrleistungsanspruch_kaeuferin_mangel_software.eml` | Mangelanzeige Käuferin: GPL-Lizenzkonflikt Compliance-Engine |
+| 20 | `20_stellungnahme_iv_gewaehrleistung.docx` | Stellungnahme IV zur Gewährleistung/Retention |
+| 21 | `21_it-gutachten_lizenzkonflikt_gpl.docx` | IT-Sachverständigengutachten Lizenzkonflikt (GPLv3) |
+| 22 | `22_einigung_retention_freigabe_reduziert.docx` | Einigung: reduzierte Retention-Freigabe |
+| 23 | `23_verteilungsverzeichnis_auszug.csv` | Verteilungsverzeichnis (Auszug) |
+| 24 | `24_schlussbericht_insolvenzverwalter.docx` | Schlussbericht des Insolvenzverwalters |
+| 25 | `25_aufhebungsbeschluss_ag_charlottenburg.docx` | Aufhebungsbeschluss AG Charlottenburg nach § 200 InsO |
 
 ## Anlagen
 
 | Verzeichnis | Inhalt |
 |---|---|
 | `docx/` | Asset-Purchase-Agreement ChainCortex ↔ Voracis (Times New Roman, ausgefüllt); § 613a V BGB-Unterrichtungs-Mustertext (Times New Roman); Beschlussvorlage Gläubigerausschuss § 160 InsO (Times New Roman) |
-| `pdfs/` | Asset-Purchase-Agreement (Times Roman); Eröffnungsbeschluss AG Charlottenburg; DSGVO-Informationsschreiben Privatkunden; § 613a V-Unterrichtungsschreiben |
-| `xlsx/` | Kundendaten-B2B (12 juristische Personen), Kundendaten-B2C (8 natürliche Personen, davon 1 Widerspruch); Asset-Inventur; AN-Liste mit Übernahmestatus |
-| `csv/` | Liquiditätsplan 12 Monate; Bieter-Vergleich (4 Bieter, ausgewählter Voracis fett) |
-| `jpg/` | Transaktionsstruktur (Organigramm), Asset-Verwertungsmatrix (Verwalter-Tafel), Closing-Workshop-Whiteboard, Eingangsbestätigung beA + AG-Stempel |
-| `eml/` | DSGVO-Information an Privatkunden (Entwurf); § 613a-Unterrichtung an AN; Gläubigerausschuss-Einberufung 17.06.2026; LOI-Übersendung an Voracis |
+| `pdfs/` | Asset-Purchase-Agreement (Times Roman); Eröffnungsbeschluss AG Charlottenburg; DSGVO-Informationsschreiben Privatkunden; § 613a V-Unterrichtungsschreiben; Schlussbericht Insolvenzverwalter (Auszug) |
+| `xlsx/` | Kundendaten-B2B (12 juristische Personen), Kundendaten-B2C (8 natürliche Personen, davon 1 Widerspruch); Asset-Inventur; AN-Liste mit Übernahmestatus; Massekostenkalkulation nach Closing |
+| `csv/` | Liquiditätsplan 12 Monate; Bieter-Vergleich (4 Bieter, ausgewählter Voracis fett); Kaufpreisraten-Zahlungsplan |
+| `jpg/` | Transaktionsstruktur (Organigramm), Asset-Verwertungsmatrix (Verwalter-Tafel), Closing-Workshop-Whiteboard, Eingangsbestätigung beA + AG-Stempel, Closing-Unterzeichnung im Notariat |
+| `eml/` | DSGVO-Information an Privatkunden (Entwurf); § 613a-Unterrichtung an AN; Gläubigerausschuss-Einberufung 17.06.2026; LOI-Übersendung an Voracis; Treuhandkonto-Zahlungsbestätigung; Widerspruch Frau Kettlitz; IT-Gutachter-Rückfrage GPL; Mangelanzeige Käuferin; IV-Antwort Gewährleistung |
 
 ## Relevante Normen (Stand 06/2026)
 
