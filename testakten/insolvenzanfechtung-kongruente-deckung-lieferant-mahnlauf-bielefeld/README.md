@@ -51,8 +51,26 @@ insolvenzanfechtung-kongruente-deckung-lieferant-mahnlauf-bielefeld/
 ├── 11_opos_liste_2025-11-30.csv                            Offene-Posten-Liste der Schuldnerin zum 30.11.2025 mit Altersstruktur der Rückstände
 ├── 12_kontoauszug_hebefix_kundenkonto.csv                  Bankumsätze der Mandantin zum Kundenkonto: Rückgaben, Zahlungseingänge, vorfristige Zahlungen
 ├── 13_erwiderung_ra_broscheit_2026-06-17.docx              Erwiderung der Verteidigung: kein zwingender Schluss auf Zahlungsunfähigkeit, Widersprüche im Verwaltervortrag
+├── 14_klageschrift_verwalterin_lg_bielefeld.docx           Klageschrift der Verwalterin zum LG Bielefeld, Az. 12 O 47/26
+├── 15_klageerwiderung_ra_broscheit.docx                    Klageerwiderung der Beklagtenvertretung
+├── 16_duplik_verwalterin.docx                              Duplik der Klägerin mit Beweisantritt Zeuge Kaczmarek
+├── 17_triplik_ra_broscheit.docx                            Triplik der Beklagten mit Antrag auf Sachverständigengutachten
+├── 18_beweisbeschluss_lg_bielefeld.docx                    Beweisbeschluss: Zeugenvernehmung und Sachverständigengutachten
+├── 19_zeugenvernehmungsprotokoll_kaczmarek.docx            Protokoll der Vernehmung des Zeugen Ralf Kaczmarek
+├── 20_sachverstaendigengutachten_wruck_zahlungsunfaehigkeit.docx  Gutachten: Zahlungsunfähigkeit bereits zum 30.09.2025
+├── 21_stellungnahme_beklagte_zum_gutachten.docx            Stellungnahme der Beklagten mit Vergleichsanregung
+├── 22_vergleichsvorschlag_massekostenverzicht.docx         Vergleichsvorschlag der Klägerin (EUR 55.000 bei Teilverzicht)
+├── 23_vergleichsannahme_beklagte.docx                      Annahme des Vergleichsvorschlags durch die Beklagte
+├── 24_gerichtlicher_feststellungsbeschluss_vergleich.docx  Feststellungsbeschluss § 278 VI ZPO
+├── 25_kostenfestsetzungsantrag_beklagte.docx               Kostenfestsetzungsantrag der Beklagten
+├── xlsx/
+│   └── liquiditaetsluecke_berechnung_sv_wruck.xlsx          Monatliche Liquiditätslücken-Berechnung des Sachverständigen
+├── jpg/
+│   └── produktionshalle_moebelwerk_baender_still.jpg        Foto der Produktionshalle beim Kundenbesuch 05.12.2025
 └── eml/
     ├── 2025-10-29_branchengeruecht.eml                     Außendienstbericht über Branchengerüchte (Vorkasse bei anderen Lieferanten, geschobene Löhne)
     ├── 2025-11-26_baender_still.eml                        E-Mail des Schuldner-Geschäftsführers: Zahlung nur bei fortgesetzter Belieferung
-    └── 2025-11-28_grossauftrag_intern.eml                  Interne Abwägung des Vertriebsleiters vor der Geschäftsführungsrunde
+    ├── 2025-11-28_grossauftrag_intern.eml                  Interne Abwägung des Vertriebsleiters vor der Geschäftsführungsrunde
+    ├── 2026-07-14_uebersendung_klageerwiderung.eml         Übersendung der Klageerwiderung an die Verwalterin
+    └── 2026-12-05_vergleich_bestaetigung.eml               Bestätigung des Feststellungsbeschlusses und Zahlungsaufforderung
 ```
