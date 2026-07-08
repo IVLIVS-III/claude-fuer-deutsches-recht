@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 58 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-vorsatzanfechtung-finanzamt-ratenzahlung-augsburg_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-vorsatzanfechtung-finanzamt-ratenzahlung-augsburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 185 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-vorsatzanfechtung-finanzamt-ratenzahlung-augsburg_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-vorsatzanfechtung-finanzamt-ratenzahlung-augsburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzanfechtung-vorsatzanfechtung-finanzamt-ratenzahlung-augsburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-vorsatzanfechtung-finanzamt-ratenzahlung-augsburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzanfechtung-vorsatzanfechtung-finanzamt-ratenzahlung-augsburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-vorsatzanfechtung-finanzamt-ratenzahlung-augsburg-einzelpdfs.zip) |
 
@@ -52,10 +52,33 @@ insolvenzanfechtung-vorsatzanfechtung-finanzamt-ratenzahlung-augsburg/
 ├── 13_anfechtungsschreiben_verwalter_2026-06-08.docx      — Anfechtung aller 30 Raten und der Sicherungsabtretung (§§ 129, 133, 143 InsO)
 ├── 14_erwiderung_finanzamt_2026-06-25.docx                — Erwiderung: Kongruenz, § 133 Abs. 3 Satz 1 und Satz 2 InsO, kein Vorsatz
 ├── 15_replik_verwalter_2026-07-02.docx                    — Replik: Vollstreckungshistorie schlägt Ratenbitten-Privileg; Klageandrohung
+├── 16_klageschrift_freistaat_bayern_lg_augsburg.docx      — Klageschrift LG Augsburg, Az. 5 O 611/26: Zahlungsantrag über 388.000 EUR
+├── 17_klageerwiderung_finanzamt_2026-09-10.docx           — Klageerwiderung: Kongruenz, Vermutungswirkung Paragraf 133 Abs. 3 Satz 2 InsO
+├── 18_replik_verwalter_2026-10-01.docx                    — Replik: Abgrenzung zur Vermutungswirkung, Zeugenbeweisangebot Ruckdeschel
+├── 19_duplik_finanzamt_2026-10-20.docx                    — Duplik: Zustimmung zur Zeugenvernehmung, Antrag auf Sachverständigengutachten
+├── 20_beweisbeschluss_lg_augsburg_2026-11-05.docx         — Beweisbeschluss: Zeugenvernehmung Ruckdeschel, Gutachten Osswald zur Zahlungsunfähigkeit
+├── 21_sachverstaendigengutachten_osswald_zahlungsunfaehigkeit.docx — Gutachten: Zahlungsunfähigkeit spätestens August/September 2022
+├── 22_zeugenvernehmungsprotokoll_ruckdeschel.docx         — Vernehmungsprotokoll: interner Vollstreckungsvermerk bestätigt Zweifel an Zahlungsfähigkeit
+├── 23_urteil_lg_augsburg_2027-03-10.docx                  — Urteil: Verurteilung zu 338.000 EUR, Klageabweisung für die ersten vier Raten
+├── 24_kostenfestsetzungsbeschluss_2027-04-14.docx         — Kostenfestsetzungsbeschluss über 18.940,20 EUR
+├── 25_schlussvermerk_verwalter_vollstreckung.docx         — Schlussvermerk: Urteil rechtskräftig, Zahlungseingang vollständig
+├── csv/
+│   ├── fristenliste_verjaehrung_paragraf_146_inso.csv      — Verjährungsprüfung Paragraf 146 InsO für beide Anfechtungskomplexe
+│   └── urteilssumme_zahlungseingang.csv                    — Aufstellung Urteilssumme und Kostenerstattung
+├── xlsx/
+│   └── massekostenkalkulation_urteil_finanzamt.xlsx        — Kalkulation: Urteilssumme, Kosten, Nettoerlös für die Masse
+├── jpg/
+│   └── fuhrpark_lechtal_spedition_uebersicht.jpg           — Foto-Vermerk zum Fuhrpark der Schuldnerin
+├── pdfs/
+│   ├── 23_urteil_lg_augsburg_2027-03-10.pdf                — Gerenderte PDF-Fassung des Urteils
+│   └── 25_schlussvermerk_verwalter_vollstreckung.pdf       — Gerenderte PDF-Fassung des Schlussvermerks
 ├── eml/
 │   ├── 2023-03-03_gf_an_steuerberater_zahlungspriorisierung.eml — „Wir zahlen nur noch, wer am lautesten droht"
 │   ├── 2023-03-06_steuerberater_antwort_warnung.eml       — Warnung des Steuerberaters: Zahlungsunfähigkeit, § 15a InsO, Haftung
-│   └── 2024-09-05_finanzamt_sicherheitsverlangen.eml      — Finanzamt: Aufschub nur gegen Sicherungsabtretung, Hinweis auf Mahnstufen
+│   ├── 2024-09-05_finanzamt_sicherheitsverlangen.eml      — Finanzamt: Aufschub nur gegen Sicherungsabtretung, Hinweis auf Mahnstufen
+│   ├── 2026-11-02_terminsladung_beweisaufnahme.eml         — Terminsladung zum Beweistermin
+│   ├── 2027-03-10_urteilszustellung.eml                    — Zustellung des Urteils
+│   └── 2027-04-28_zahlungseingang_urteilssumme.eml         — Bestätigung des vollständigen Zahlungseingangs
 ├── whatsapp/
 │   └── chatverlauf_kaindl_buchhaltung_2024.txt            — Chat zur Zahlungspriorisierung nach Vollstreckungsdruck
 ├── rubric.yaml                                            — Sechs Prüfpunkte zur Bewertung einer Bearbeitung
