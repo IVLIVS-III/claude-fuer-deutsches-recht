@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 60 KB) | PDF | [`gesamt-pdf/sozialrecht-elektrorollstuhl-koerner-oldenburg_gesamt.pdf`](gesamt-pdf/sozialrecht-elektrorollstuhl-koerner-oldenburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 523 KB) | PDF | [`gesamt-pdf/sozialrecht-elektrorollstuhl-koerner-oldenburg_gesamt.pdf`](gesamt-pdf/sozialrecht-elektrorollstuhl-koerner-oldenburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg-einzelpdfs.zip) |
 
@@ -20,57 +20,90 @@ Arbeitsakte zum Plugin `fachanwalt-sozialrecht`.
 
 ## Kurzbild
 
-Heinz Körner, 78 Jahre alt, lebt allein im ersten Obergeschoss eines Altbaus in Oldenburg. Nach Spinalkanalstenose, diabetischer Polyneuropathie, Hüft-TEP links und mehreren Stürzen kann er die Wohnung nur noch mit erheblicher Hilfe verlassen. Hausarzt, Facharzt und ein privates Reha-Gutachten halten einen kompakten Elektrorollstuhl mit Innen- und Nahbereichstauglichkeit für notwendig. Der Medizinische Dienst hält dagegen eine Unterarmgehstütze, einen vorhandenen Rollator und einen Standard-Faltrollstuhl für ausreichend.
+Heinz Körner, 78 Jahre alt, lebt allein im ersten Obergeschoss eines Altbaus in Oldenburg. Nach Spinalkanalstenose, diabetischer Polyneuropathie, Hüft-TEP links und mehreren Stürzen kann er die Wohnung nur noch mit erheblicher Hilfe verlassen. Hausarzt, Facharzt, Ergotherapie, Physiotherapie und ein privates Reha-Gutachten halten einen kompakten Elektrorollstuhl mit Innen- und Nahbereichstauglichkeit für notwendig. Der Medizinische Dienst hält dagegen eine Unterarmgehstütze, einen vorhandenen Rollator und einen Standard-Faltrollstuhl für ausreichend.
 
-Die Krankenkasse lehnt den Antrag ab, weist auch den einfachen Widerspruch des Versicherten zurück und stützt sich auf Wirtschaftlichkeit, angeblich fehlende Gehunfähigkeit und fehlende Ausschöpfung einfacherer Hilfsmittel. Die Akte enthält die Klägerperspektive, die Verteidigung der Krankenkasse und gerichtliche Entscheidungsweichen.
+Die Krankenkasse lehnt den Antrag ab, weist auch den einfachen Widerspruch des Versicherten zurück und stützt sich auf Wirtschaftlichkeit, angeblich fehlende Gehunfähigkeit und fehlende Ausschöpfung einfacherer Hilfsmittel. Der Rechtsstreit läuft mittlerweile beim Sozialgericht Oldenburg, das ein eigenes Sachverständigengutachten eingeholt hat. Die Akte enthält die Klägerperspektive, die Verteidigung der Krankenkasse und die gerichtliche Beweisaufnahme, ohne das Ergebnis vorwegzunehmen.
 
 ## Aktenstand
 
-Aktenstand ist der 29.06.2026. Der Widerspruchsbescheid vom 24.06.2026 wurde am 26.06.2026 zugestellt. Die Klagefrist läuft bis Montag, den 27.07.2026. Eine Klageschrift ist nur als separater Entwurf enthalten; sie ist noch nicht eingereicht.
+Aktenstand ist der 25.09.2026. Der Widerspruchsbescheid vom 24.06.2026 wurde am 26.06.2026 zugestellt, die Klage ist am 03.07.2026 fristgerecht beim Sozialgericht Oldenburg eingegangen (Aktenzeichen S 12 KR 188/26). Nach Klageerwiderung der Kasse vom 22.07.2026 hat das Gericht am 05.08.2026 Beweis durch Sachverständigengutachten erhoben. Das Gutachten liegt seit dem 16.09.2026 vor, die mündliche Verhandlung ist auf den 22.10.2026 terminiert.
 
 ## Aktenstruktur
 
 ```
 sozialrecht-elektrorollstuhl-koerner-oldenburg/
-├── README.md                                    <- diese Übersicht
-├── rubric.yaml                                  <- Prüfkriterien für die Bearbeitung
-├── 01_mandatsnotiz_und_fristsache.docx            <- Erstgespräch, Fristen, Beteiligte, Anspruchsziel
-├── 02_ueberweisung_und_hilfsmittelverordnung.docx <- Hausärztliche Überweisung, Verordnung, medizinischer Kern
-├── 03_facharztbericht_mobilitaet.docx             <- Orthopädisch-neurologischer Befund, Gangbild, Sturzrisiko
-├── 04_eigenschilderung_alltag_und_wege.docx       <- Eigene Schilderung des Versicherten zu Wohnung, Wegen, Teilhabe
-├── 05_wohnungsumfeld_barrierefreiheit.docx        <- Altbau, Treppenhaus, Gehweg, Aufzugslage, Umbaugrenzen
-├── 06_kostenvoranschlag_sanitaetshaus.docx        <- Technische Versorgung, Zubehör, Kosten, Alternativen
-├── 07_md_stellungnahme_ablehnungsempfehlung.docx  <- Medizinischer Dienst, Aktenlage, ablehnende Bewertung
-├── 08_bescheid_krankenkasse_ablehnung.docx        <- Ausgangsbescheid mit Rechtsbehelfsbelehrung
-├── 09_privates_reha_gutachten.docx                <- Persönliche Untersuchung, Wohnumfeld, Hilfsmitteltest
-├── 10_widerspruch_versicherter_ohne_anwalt.docx   <- Einfacher, unscharfer Widerspruch des Versicherten
-├── 11_widerspruchsbescheid_krankenkasse.docx      <- Zurückweisung, Rechtsbehelfsbelehrung, Klagefrist
-├── 12_klageschrift_entwurf_separat.docx           <- Nicht eingereichter Klageentwurf für das Sozialgericht
-├── 13_klageerwiderung_krankenkasse_entwurf.docx   <- Verteidigung der Krankenkasse im Klageverfahren
-├── 14_gerichtlicher_hinweis_und_beweisfragen.docx <- Gerichtliche Hinweise, Beweisfragen, Vergleichsfenster
-├── 15_urteilsentwurf_zwei_varianten.docx          <- Stattgabe- und Abweisungsvariante mit Entscheidungsweichen
-├── 16_fristsachen_anlagen_und_pruefmatrix.docx    <- Anlagenverzeichnis, Fristenblatt, Arbeitsmatrix
+├── README.md                                            <- diese Übersicht
+├── rubric.yaml                                          <- Prüfkriterien für die Bearbeitung
+├── 01_mandatsnotiz_und_fristsache.docx                    <- Erstgespräch, Fristen, Beteiligte, Anspruchsziel
+├── 02_ueberweisung_und_hilfsmittelverordnung.docx         <- Hausärztliche Überweisung, Verordnung, medizinischer Kern
+├── 03_facharztbericht_mobilitaet.docx                     <- Orthopädisch-neurologischer Befund, Gangbild, Sturzrisiko
+├── 04_eigenschilderung_alltag_und_wege.docx               <- Eigene Schilderung des Versicherten zu Wohnung, Wegen, Teilhabe
+├── 05_wohnungsumfeld_barrierefreiheit.docx                <- Altbau, Treppenhaus, Gehweg, Aufzugslage, Umbaugrenzen
+├── 06_kostenvoranschlag_sanitaetshaus.docx                <- Technische Versorgung, Zubehör, Kosten, Alternativen
+├── 07_md_stellungnahme_ablehnungsempfehlung.docx          <- Medizinischer Dienst, Aktenlage, ablehnende Bewertung
+├── 08_bescheid_krankenkasse_ablehnung.docx                <- Ausgangsbescheid mit Rechtsbehelfsbelehrung
+├── 09_privates_reha_gutachten.docx                        <- Persönliche Untersuchung, Wohnumfeld, Hilfsmitteltest
+├── 10_widerspruch_versicherter_ohne_anwalt.docx           <- Einfacher, unscharfer Widerspruch des Versicherten
+├── 11_widerspruchsbescheid_krankenkasse.docx              <- Zurückweisung, Rechtsbehelfsbelehrung, Klagefrist
+├── 12_klageschrift_entwurf_separat.docx                   <- Früher, nicht eingereichter Klageentwurf (Arbeitsstand)
+├── 13_klageerwiderung_krankenkasse_entwurf.docx           <- Früher Verteidigungsentwurf der Krankenkasse (Arbeitsstand)
+├── 14_gerichtlicher_hinweis_und_beweisfragen.docx         <- Gerichtliche Hinweise, offene Beweisfragen
+├── 15_terminsverfuegung_und_hinweise.docx                 <- Terminsladung, gerichtliche Hinweise vor der Verhandlung
+├── 16_fristenblatt_und_anlagenverzeichnis.docx            <- Fristenblatt und Anlagenverzeichnis Klägerseite
+├── 17_aerztliche_verordnung_vollstaendig.docx             <- Verordnung mit ICD-10-Diagnosen und Begründung
+├── 18_facharztbericht_neurologie_detailliert.docx         <- Ausführlicher neurologischer Befundbericht
+├── 19_ergotherapeutischer_bericht.docx                    <- Ergotherapeutische Einschätzung Alltagsfunktion
+├── 20_physiotherapeutischer_bericht.docx                  <- Physiotherapeutische Einschätzung Gehfähigkeit
+├── 21_wohnungsrundgang_protokoll_mit_skizze.docx          <- Barrierefreiheit-Check mit Raumbeschreibung
+├── 22_kostenvoranschlag_mit_alternativen_vollstaendig.docx <- Hauptangebot und zwei Alternativangebote im Vergleich
+├── 23_vergleichsangebot_kasse_standardmodell.docx         <- Gegenangebot der Kasse, Standardmodell
+├── 24_zweitgutachten_antrag.docx                          <- Antrag auf unabhängiges Zweitgutachten im Widerspruch
+├── 25_widerspruchsbescheid_komplett_ausformuliert.docx    <- Vollständig ausformulierter Widerspruchsbescheid
+├── 26_klageschrift_komplett.docx                          <- Eingereichte, vollständige Klageschrift
+├── 27_klageerwiderung_kasse_komplett.docx                 <- Vollständige Klageerwiderung der Krankenkasse
+├── 28_beweisbeschluss_sozialgericht.docx                  <- Gerichtlicher Beweisbeschluss mit Beweisfragen
+├── 29_gerichtliches_sachverstaendigengutachten.docx       <- Gerichtliches Gutachten mit Untersuchungsbefund
+├── 30_bsg_rechtsprechungsanalyse.docx                     <- Einschlägige BSG-Rechtsprechung zum Basisausgleich
+├── 91_fristsachen_belege_offene_punkte_2026-07-06.csv     <- Offene Prüfpunkte zu Fristen und Belegen
 ├── csv/
-│   ├── fristen_koerner.csv                      <- Fristen und Verfahrensstatus als Tabelle
-│   └── hilfsmittelvergleich.csv                 <- Funktionaler Vergleich der Hilfsmitteloptionen
+│   ├── fristen_koerner.csv                              <- Fristen und Verfahrensstatus als Tabelle
+│   ├── hilfsmittelvergleich.csv                         <- Funktionaler Vergleich der Hilfsmitteloptionen
+│   └── sturzprotokoll_koerner.csv                       <- Chronik der Sturzereignisse mit Ort und Folgen
+├── xlsx/
+│   └── verfahrenskalender_und_kostenvergleich.xlsx      <- Verfahrenskalender und Kostenvergleich als Tabellenblätter
+├── pdfs/
+│   └── technisches_datenblatt_elektrorollstuhl.pdf      <- Technisches Datenblatt des Sanitätshauses als Anlage
+├── jpg/
+│   ├── treppenhaus_altbau_eingang.jpg                   <- Bildbeschreibung Treppenhaus, Wohnumfeldbegehung
+│   ├── wohnzimmer_bewegungsflaeche.jpg                  <- Bildbeschreibung Bewegungsflächen Wohnzimmer
+│   ├── hinterausgang_rampe.jpg                          <- Bildbeschreibung Rollstuhlrampe Hinterausgang
+│   └── gehweg_peterstrasse.jpg                          <- Bildbeschreibung Gehweg im Nahbereich
 ├── emails/
-│   └── 2026-06-27_tochter_an_kanzlei.eml        <- Tochter übersendet Unterlagen und schildert den Alltag
-└── gesamt-pdf/                                  <- konsolidierte Lesefassung als PDF
+│   ├── 2026-06-27_tochter_an_kanzlei.eml                <- Tochter übersendet Unterlagen und schildert den Alltag
+│   └── 2026-07-18_sachbearbeiterin_kanzlei_rueckfrage.eml <- Interne Rückfrage zu Klagefrist und Zeugin
+├── eml/
+│   ├── 2026-07-06_sachstand_nachforderung.eml           <- Sachstandsanfrage im Verfahren
+│   └── 2026-09-18_gutachterin_uebersendung.eml          <- Übersendung des Gutachtens an das Gericht
+└── gesamt-pdf/                                          <- konsolidierte Lesefassung als PDF
 ```
 
 ## Bearbeitungsziel
 
 Die Akte ist so angelegt, dass mit ihr drei Rollen sofort arbeiten können:
 
-1. Klägervertreter: Klage und Eilantrag auf Versorgung mit geeignetem Elektrorollstuhl vorbereiten.
-2. Krankenkasse: Ablehnung verteidigen, Vergleichsrisiko erkennen und MD-Ergänzung anfordern.
-3. Sozialgericht: Amtsermittlung, Beweisfragen und Urteil anhand der Hilfsmittelrechtsprechung strukturieren.
+1. Klägervertreter: Klage im laufenden Verfahren begleiten, Beweisaufnahme auswerten und die mündliche Verhandlung vorbereiten.
+2. Krankenkasse: Ablehnung verteidigen, das gerichtliche Gutachten auswerten und Vergleichsspielräume prüfen.
+3. Sozialgericht: Amtsermittlung, Beweisfragen und Entscheidungsfindung anhand der Hilfsmittelrechtsprechung strukturieren.
 
 ## Rechtliche Kernfragen
 
 1. Ist die Versorgung nach Paragraf 33 SGB V erforderlich, weil ein Gehstock, Rollator oder manueller Rollstuhl den Behinderungsausgleich praktisch nicht leisten?
 2. Reicht der Nahbereich der Wohnung und des täglichen Lebens aus, oder verlangt der Antrag eine darüber hinausgehende Mobilität?
 3. Trägt die Krankenkasse das Wirtschaftlichkeitsargument, wenn das günstigere Hilfsmittel funktionell nicht nutzbar ist?
-4. Welche Bedeutung haben MD-Aktenlage, behandelnde Ärzte und privates Reha-Gutachten im sozialgerichtlichen Amtsermittlungsverfahren?
-5. Ist wegen Sturzgefahr, Alleinleben und Fristlauf einstweiliger Rechtsschutz nach Paragraf 86b SGG sinnvoll?
+4. Welche Bedeutung haben MD-Aktenlage, behandelnde Ärzte, Reha-Gutachten und gerichtliches Sachverständigengutachten im sozialgerichtlichen Amtsermittlungsverfahren?
+5. Wie sind die Feststellungen des gerichtlichen Gutachtens zur Gehstrecke, zur Belastbarkeit beim manuellen Rollstuhlantrieb und zur Fahrsicherheit rechtlich zu würdigen?
+6. Ist wegen Sturzgefahr, Alleinleben und Fristlauf einstweiliger Rechtsschutz nach Paragraf 86b SGG sinnvoll?
 
+## Hinweis zur Bearbeitung
+
+Die Akte enthält bewusst keine fertige Antwortmatrix und keinen vorgefertigten Urteilsentwurf. Die Bewertung von Gehfähigkeit, Eignung der Alternativen und Erfolgsaussichten ist anhand der medizinischen Befunde, des gerichtlichen Gutachtens und der zitierten BSG-Rechtsprechung selbst zu entwickeln.
