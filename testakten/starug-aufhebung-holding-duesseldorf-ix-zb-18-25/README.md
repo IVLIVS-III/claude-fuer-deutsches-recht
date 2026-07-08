@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 151 KB) | PDF | [`gesamt-pdf/starug-aufhebung-holding-duesseldorf-ix-zb-18-25_gesamt.pdf`](gesamt-pdf/starug-aufhebung-holding-duesseldorf-ix-zb-18-25_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 285 KB) | PDF | [`gesamt-pdf/starug-aufhebung-holding-duesseldorf-ix-zb-18-25_gesamt.pdf`](gesamt-pdf/starug-aufhebung-holding-duesseldorf-ix-zb-18-25_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-starug-aufhebung-holding-duesseldorf-ix-zb-18-25.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-starug-aufhebung-holding-duesseldorf-ix-zb-18-25.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-starug-aufhebung-holding-duesseldorf-ix-zb-18-25-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-starug-aufhebung-holding-duesseldorf-ix-zb-18-25-einzelpdfs.zip) |
 
@@ -54,4 +54,20 @@ Die Akte eignet sich für die Arbeit an Paragrafen 31 bis 33 StaRUG: Ermessen de
 13_senatshinweis_und_stellungnahme.docx      Hinweis vom 09.09.2025 und Stellungnahme vom 30.09.2025
 14_bgh_beschluss_2026-04-23_ix_zb_18-25.pdf  Amtliches Beschluss-PDF des BGH
 15_liquiditaetsuebersicht.csv                Faellige Verbindlichkeiten und verfuegbare Mittel
+16_kostenfestsetzungsbeschluss_bgh_2026-05-19.docx  Kostenfestsetzung BGH zugunsten Rheinboden
+17_eigenantrag_insolvenz_silberweiher_2026-05-28.docx  Eigenantrag der Holding nach BGH-Entscheidung
+18_eroeffnungsbeschluss_2026-08-03.docx      Eroeffnung des Insolvenzverfahrens (512 IN 88/26)
+19_forderungsanmeldung_rheinboden_2026-08-25.docx  Forderungsanmeldung der Rheinboden Kreditbank AG
+20_forderungspruefungsprotokoll_2026-10-20.docx  Protokoll des Pruefungs- und Berichtstermins
+21_gutachten_masseunzulaenglichkeit_2026-09-01.docx  Gutachten zu Insolvenzfaehigkeit und Massekosten
+22_schlussbericht_verwalter_2027-02-10.docx  Schlussbericht des Insolvenzverwalters
+23_schlussverteilungsverzeichnis_2027-03-15.docx  Verteilung auf festgestellte Forderungen
+24_aufhebungsbeschluss_insolvenzverfahren_2027-04-30.docx  Aufhebung nach Schlussverteilung
+25_schlussvermerk_kanzlei_2027-05-12.docx    Abschliessender Vermerk der Verfahrensbevollmaechtigten
+
+csv/                                          Forderungstabelle und Verfahrenschronologie
+xlsx/                                         Masseverzeichnis und Schlussrechnung
+jpg/                                           Fotodokumentation Geschaeftssitz
+pdfs/                                          PDF-Renderings ausgewaehlter Aktenstuecke
+eml/                                           E-Mail-Korrespondenz Verwalter, Glaeubiger, Kanzlei
 ```
