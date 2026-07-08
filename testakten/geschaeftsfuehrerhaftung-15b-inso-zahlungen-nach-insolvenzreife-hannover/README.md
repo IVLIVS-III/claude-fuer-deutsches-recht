@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 47 KB) | PDF | [`gesamt-pdf/geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover_gesamt.pdf`](gesamt-pdf/geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 67 KB) | PDF | [`gesamt-pdf/geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover_gesamt.pdf`](gesamt-pdf/geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover-einzelpdfs.zip) |
 
@@ -54,10 +54,25 @@ geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover/
 ├── 12_erwiderung_gf_verteidiger_2026-06-24.docx           — Verteidigung: Stundungen, Zahlungsstockung, Privilegierung, Abs. 8, D&O
 ├── 13_replik_verwalterin_2026-07-03.docx                  — Replik: Fristablauf 13.10.2025, Abs. 8 nur ohne Antragspflichtverletzung, Abs. 5, Klageandrohung
 ├── 14_gespraechsnotiz_bank_2026-01-05.docx                — Notiz des Geschäftsführers über die endgültige Absage der Linienausweitung
+├── 15_duplik_verteidiger.docx                             — Duplik: Fortführungsbemühen, erstmals behauptete Marketingleistungen der Ohlendorf Beteiligungs-UG, keine außergerichtliche Einigung angesichts laufender Deckungsprüfung
+├── 16_klageschrift_verwalterin_lg_hannover.docx           — Klageschrift zum LG Hannover, 21. Zivilkammer, Az. 21 O 156/26, Zahlungsantrag über 1.080.100,00 EUR nebst Zinsen
+├── 17_klageerwiderung_verteidiger_lg_hannover.docx        — Klageerwiderung: Bestreiten des Zeitpunkts der Zahlungsunfähigkeit, angekündigte aber nicht vorgelegte Nachweise zu den Marketingleistungen
+├── 18_streitverkuendung_do_versicherer.docx               — Streitverkündung des Verteidigers gegenüber der Hannoverschen Kaution und Industrie Versicherung AG (Police FL-DO-2023-448291)
+├── 19_beitrittserklaerung_do_versicherer.docx             — Beitritt des D&O-Versicherers auf Beklagtenseite ohne Deckungszusage; Deckungsprüfung bleibt gesondert vorbehalten
+├── 20_beweisbeschluss_lg_hannover.docx                    — Beweisbeschluss: Zeugenvernehmung Petersilie zu Leistungsnachweisen, ergänzendes Sachverständigengutachten zum Zeitpunkt der Zahlungsunfähigkeit (Dr. Ossenberg-Engels)
+├── 21_sachverstaendigengutachten_ossenberg_zahlungsunfaehigkeit.docx — Gerichtsgutachten bestätigt Zahlungsunfähigkeit spätestens 22.09.2025 anhand BWA und Liquiditätsstatus
+├── 22_zeugenvernehmungsprotokoll_petersilie.docx          — Vernehmungsprotokoll vom 15.12.2026: keine Leistungsnachweise für die Zahlungen an die Ohlendorf Beteiligungs-UG aufgefunden
+├── 23_teilanerkenntnis_verteidiger.docx                   — Teilanerkenntnis über 48.000,00 EUR (Beraterhonorar), Vergleichsanregung für den Restbetrag von 1.032.100,00 EUR
+├── 24_teilanerkenntnisurteil_und_vergleich.docx           — Teilanerkenntnisurteil und Vergleich nach § 278 Abs. 6 ZPO: zusätzlich 420.000,00 EUR, Kostenquote 40:60
+├── 25_deckungsanfrage_do_versicherer_abschluss.docx       — Deckungsentscheidung: anteilige Deckung, Ausschluss wissentlicher Pflichtverletzung für den anerkannten Betrag
 ├── eml/
 │   ├── 2025-09-30_gf_an_steuerberaterin_antwort.eml       — Geschäftsführer weist Warnung zurück: „Weihnachtsgeschäft", Antrag erst nach Bankgespräch
 │   ├── 2025-10-06_gastroquell_lieferstopp_androhung.eml   — Dritte Mahnstufe, Umstellung auf Vorkasse, widerlegt die Stundungsbehauptung
-│   └── 2025-11-17_gastroquell_letzte_warnung.eml          — Lieferstopp-Androhung und Mahnbescheidsankündigung
+│   ├── 2025-11-17_gastroquell_letzte_warnung.eml          — Lieferstopp-Androhung und Mahnbescheidsankündigung
+│   ├── 2026-12-16_teilanerkenntnis_ankuendigung.eml       — Ankündigung von Teilanerkenntnis und Vergleichsangebot durch den Verteidiger
+│   └── 2027-02-10_zahlungseingang_bestaetigung_hannover.eml — Bestätigung des vollständigen Zahlungseingangs (57.000,00 EUR) auf dem Massekonto
+├── xlsx/
+│   └── aufteilung_zahlungen_privilegiert_nicht_privilegiert.xlsx — Kategorienweise Aufteilung der 1.238.400,00 EUR in privilegierte und nicht privilegierte Zahlungen
 ├── whatsapp/
 │   └── chatverlauf_ohlendorf_petersilie_2025-2026.txt     — Chat zur Zahlungspriorisierung („Das ist mein Gehalt") und zum verschobenen Anwaltstermin
 ├── rubric.yaml                                            — Sechs Prüfpunkte zur Bewertung einer Bearbeitung
