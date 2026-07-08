@@ -11,7 +11,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 572 KB) | PDF | [`gesamt-pdf/ki-training-tdm-fotografin-windgassen-hamburg_gesamt.pdf`](gesamt-pdf/ki-training-tdm-fotografin-windgassen-hamburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 576 KB) | PDF | [`gesamt-pdf/ki-training-tdm-fotografin-windgassen-hamburg_gesamt.pdf`](gesamt-pdf/ki-training-tdm-fotografin-windgassen-hamburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-training-tdm-fotografin-windgassen-hamburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-training-tdm-fotografin-windgassen-hamburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-training-tdm-fotografin-windgassen-hamburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-training-tdm-fotografin-windgassen-hamburg-einzelpdfs.zip) |
 
@@ -148,19 +148,23 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | `lizenzhistorie_windgassen_18400_bilder.xlsx` | Lizenzhistorie 18.400 Bilder nach Verwertungskategorie; Jahresumsatz 2021–2025; Opt-out-Status |
 | `schadensberechnung_ki_training_lizenzanalogie.xlsx` | Schadensberechnung § 97 Abs. 2 UrhG; Tarifvergleich; Streitwert; Kosten-Risiko-Matrix |
 
-### eml/ (4 E-Mails)
+### eml/ (6 E-Mails)
 | Datei | Inhalt |
 |---|---|
 | `mare_bildband_angebot_2026-01-12.eml` | Mare GmbH: Bildband-Angebot 1.200 EUR |
 | `quetschenpaua_kollegen_abmahnung_eingang_2026-01-09.eml` | Quetschenpaua & Kollegen: Abmahnungs-E-Mail (06.01.2026) |
 | `dpma_schiedsstelle_terminsladung_2026-01-20.eml` | DPMA-Schiedsstelle: Ladung zum Termin 17.03.2026 |
 | `windgassen_an_kreidler_bremer_sohn_felix_2026-01-23.eml` | Mandantin an RA: Mitteilung nach Felix-Gespräch |
+| `waldorf_frommer_abmahnung_eingang_2026-01-09.eml` | Waldorf Frommer: Abmahnungs-E-Mail |
+| `imagineart_us_counsel_antwort_2026-01-28.eml` | ImagineArt Inc. Legal Department: Antwort auf vorgerichtliche Aufforderung |
 
-### pdfs/ (2 PDFs, redacted)
+### pdfs/ (4 PDFs, teils redacted)
 | Datei | Inhalt |
 |---|---|
 | `quetschenpaua_kollegen_abmahnung_redacted.pdf` | Quetschenpaua & Kollegen-Abmahnung (Rechteinhaber, IP, Hashes geschwärzt) |
 | `serverlog_robots_txt_auszug_redacted.pdf` | Serverlog-Auszug IT-Forensik Barkhoff + robots.txt/ai.txt (Besucher-IPs geschwärzt) |
+| `waldorf_frommer_abmahnung_redacted.pdf` | Waldorf Frommer-Abmahnung (Rechteinhaber, Hashes geschwärzt) |
+| `vg_bildkunst_tarifuebersicht_ki_training_redacted.pdf` | VG Bild-Kunst Tarifübersicht KI-Training, Auszug (Mitgliedsdaten geschwärzt) |
 
 ### jpg/ (3 Bilder)
 | Datei | Inhalt |
@@ -186,10 +190,10 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 | Kategorie | Anzahl |
 |---|---|
-| Nummerierte Markdown-Aktenstücke | 22 |
+| Nummerierte DOCX-Aktenstücke | 22 |
 | DOCX-Anhänge | 3 |
 | XLSX-Anhänge | 2 |
-| EML-Anhänge | 4 |
-| PDF-Anhänge (redacted) | 2 |
+| EML-Anhänge | 6 |
+| PDF-Anhänge (teils redacted) | 4 |
 | JPG-Anhänge | 3 |
-| **Anhänge gesamt** | **14** |
+| **Anhänge gesamt** | **18** |
