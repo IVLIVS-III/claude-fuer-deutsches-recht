@@ -53,7 +53,22 @@ insolvenzanfechtung-kongruente-deckung-krankenkasse-nach-antrag-luebeck/
 ├── 12_recherchevermerk_bekanntmachungsportal_2026-06-04.docx Vermerk: keine Veröffentlichung vor dem 10.03.2026, Zustellung der Anhörungsverfügung am 13.02.2026
 ├── 13_anfechtungsschreiben_verwalter_2026-06-08.docx       Anfechtung nach § 130 Abs. 1 Satz 1 Nr. 2 InsO mit Wissenszurechnungs-Argumentation
 ├── 14_erwiderung_bkk_2026-06-24.docx                       Erwiderung der Kasse: keine positive Kenntnis, entwerteter Hinweis, Verlauf des Beitragskontos
+├── 15_replik_verwalter.docx                                Replik: Kenntniszurechnung durch Vollstreckungsankuendigung und Telefonvermerk
+├── 16_duplik_bkk.docx                                      Duplik der Kasse: Vollstreckungsankuendigung als Routinevorgang
+├── 17_klageschrift_verwalter_lg_luebeck.docx               Klageschrift zum LG Luebeck, Az. 4 O 91/26
+├── 18_klageerwiderung_bkk_lg_luebeck.docx                  Klageerwiderung der Kasse
+├── 19_beweisbeschluss_lg_luebeck.docx                      Beweisbeschluss: Zeugenvernehmung Kroeger und Wohlert
+├── 20_zeugenvernehmungsprotokoll_kroeger_wohlert.docx      Vernehmung der Zeugen Kroeger und Wohlert
+├── 21_stellungnahme_verwalter_nach_beweisaufnahme.docx     Stellungnahme: Kenntniszurechnung nach Beweisaufnahme bestaetigt
+├── 22_vergleichsvorschlag_bkk.docx                         Vergleichsvorschlag der Kasse (EUR 22.000)
+├── 23_vergleichsannahme_verwalter.docx                     Annahme des Vergleichsvorschlags durch den Verwalter
+├── 24_feststellungsbeschluss_vergleich_luebeck.docx        Feststellungsbeschluss § 278 VI ZPO
+├── 25_schlussvermerk_verwalter_luebeck.docx                Aktenvermerk: Abschluss des Anfechtungsverfahrens
+├── xlsx/
+│   └── beitragszahlungen_anfechtungszeitraum.xlsx          Tabellarische Beitragszahlungen im Anfechtungszeitraum
 └── eml/
     ├── 2026-02-18_kroeger_weiterleitung_vermerk.eml        Weiterleitung des Telefonvermerks an die Teamleiterin Beitragseinzug mit Anfechtungswarnung
-    └── 2026-02-20_albayrak_zahlungsankuendigung.eml        Zahlungsankündigung des Geschäftsführers an das Funktionspostfach der Kasse
+    ├── 2026-02-20_albayrak_zahlungsankuendigung.eml        Zahlungsankündigung des Geschäftsführers an das Funktionspostfach der Kasse
+    ├── 2026-11-25_vergleichsvorschlag_bkk.eml              Übersendung des Vergleichsvorschlags der Kasse
+    └── 2027-01-15_zahlungsbestaetigung_luebeck.eml         Bestätigung Zahlungseingang Vergleichsbetrag
 ```
