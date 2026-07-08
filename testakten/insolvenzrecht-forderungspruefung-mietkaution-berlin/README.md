@@ -20,9 +20,38 @@ In der Insolvenz einer Co-Working-Gesellschaft streiten Vermieter, Bank und Unte
 
 ## Akteninhalt
 
-1. Ausgangslage, Bescheide, Schreiben oder Registerauszüge.
-2. Medizinische, wirtschaftliche oder markenrechtliche Belege mit Fristenkern.
-3. Kommunikation, Tabellen und Arbeitsfassungen für Widerspruch, Klage, Vergleich oder Prüfungstermin.
+| Aktenstück | Inhalt |
+| --- | --- |
+| `01_forderungsanmeldung_vermieter_2026-06-18.docx` | Forderungsanmeldung der Vermieterin |
+| `02_mietvertrag_kautionsklausel_auszug_2022.docx` | Mietvertrag, Kautionsklausel-Auszug |
+| `03_bankverrechnung_kontokorrent_2026-05-31.docx` | Bankverrechnung Kontokorrent |
+| `04_unterkunde_deposit_rueckforderung_2026-06-25.docx` | Deposit-Rückforderung Unterkunde |
+| `05_pruefungstermin_vorbereitung_2026-07-06.docx` | Vorbereitung Prüfungstermin |
+| `06_rueckgabeprotokoll_flaeche_2026-06-11.docx` | Rückgabeprotokoll (Kurzfassung) |
+| `07_auszug_insolvenztabelle_2026-07-06.pdf` | Auszug Insolvenztabelle |
+| `08_mietvertrag_vollversion.docx` | Gewerbemietvertrag, Vollversion |
+| `09_nachtraege_mietvertrag_untervermietung_umbau.docx` | Nachträge: Untervermietung, Umbau, Kautionserhöhung |
+| `10_kautionsverpfaendungsvertrag_bankinstitut.docx` | Kautionsverpfändungsvertrag mit Bankinstitut |
+| `11_rueckgabeprotokoll_ausfuehrlich_fotoanhaenge.docx` | Rückgabeprotokoll ausführlich mit Fotoanhängen |
+| `12_reparaturkosten_angebot_handwerker.docx` | Reparaturkosten-Angebot Elektrotechnik |
+| `13_kostenvoranschlag_malerbetrieb_bodenverleger.docx` | Kostenvoranschläge Maler und Bodenverleger |
+| `14_sachverstaendigengutachten_wertminderung.docx` | Sachverständigengutachten Wertminderung |
+| `15_betriebskostenabrechnung_2024_nachzahlung.docx` | Betriebskostenabrechnung 2024 mit Nachzahlung |
+| `16_kautionsauskehr_antrag_bankverrechnung.docx` | Antrag Kautionsauskehr mit Bankverrechnung |
+| `17_anfechtungspruefung_iv_130_zeitraum.docx` | Anfechtungsprüfung § 130 InsO Zeitraum |
+| `18_pruefungsschreiben_iv_vermieter_widerspruch_178.docx` | Prüfungsschreiben mit Widerspruch § 178 InsO |
+| `19_widerspruchsklage_entwurf_179_inso.docx` | Widerspruchsklage-Entwurf § 179 InsO |
+| `20_tabellenauszug_vollstaendig.csv` | Vollständiger Tabellenauszug |
+| `21_berechnung_insolvenzquote_massekalkulation.docx` | Massekalkulation und Quotenberechnung |
+| `22_aktenvermerk_aufrechnung_94ff_inso.docx` | Aktenvermerk Aufrechnung §§ 94 ff. InsO |
+| `23_schriftverkehr_verwalter_vermieterin.docx` | Schriftwechsel Verwalterin - Vermieterin |
+| `24_musterrueckgabeprotokoll_vergleichsobjekt.docx` | Musterrückgabeprotokoll Vergleichsobjekt |
+| `emails/`, `eml/` | Korrespondenz Verwalterin, Vermieterin, Unterkunden, Sachverständiger |
+| `csv/` | Kontobewegungen, Deposit-Übersicht Unterkunden |
+| `xlsx/` | Forderungsprüfung-Kalkulation |
+| `pdfs/` | Original-PDF-Beleg Kostenvoranschlag Elektrotechnik |
+| `jpg/` | Foto Rückgabeprotokoll |
+| `gesamt-pdf/` | Gesamt-PDF der kompletten Akte |
 
 ## Geeignete Plugins
 

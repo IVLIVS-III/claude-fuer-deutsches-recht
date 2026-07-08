@@ -1,0 +1,7 @@
+Datum;Buchungstext;Betrag_EUR;Saldo_EUR
+2026-03-31;Miete WVB Grundbesitz;-21600.00;18400.00
+2026-04-15;Einzahlung Unterkunden;32400.00;50800.00
+2026-04-30;Miete WVB Grundbesitz;-21600.00;29200.00
+2026-05-15;Einzahlung Unterkunden;28900.00;58100.00
+2026-05-31;Kontokorrentverrechnung Berliner Sparkasse;-8900.00;49200.00
+2026-06-02;Insolvenzantragstellung;0.00;49200.00
