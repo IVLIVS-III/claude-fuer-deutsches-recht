@@ -110,7 +110,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 |---|---|---|
 | 01 | `01_aktenvorblatt_windgassen.docx` | Aktenvorblatt, Fristen, Parteien |
 | 02 | `02_mandantengespraech_erstaufnahme.docx` | Erstgespräch-Protokoll, Sachverhalt |
-| 03 | `03_tdm_opt_out_prüfung_§44b_urhg.md` | Rechtsgutachten § 44b UrhG, Opt-out-Analyse |
+| 03 | `03_tdm_opt_out_pruefung_paragraf_44b_urhg.docx` | Rechtsgutachten Paragraf 44b UrhG, Opt-out-Analyse |
 | 04 | `04_laion_serverlog_analyse.docx` | IT-Forensik Barkhoff: CCBot-Abruflauf-Nachweis |
 | 05 | `05_filesharing_abmahnung_quetschenpaua_kollegen.docx` | Abmahnungsanalyse + Verteidigungsstrategie |
 | 06 | `06_lizenzvertrag_mare_analyse.docx` | Lizenzvertrag 2019, Auslegungsstreit Buyout |
