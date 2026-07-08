@@ -1,0 +1,8 @@
+Datum;Buchungstext;Betrag_EUR;Saldo_EUR
+2026-06-15;Gutschrift Kunde MedTech Nord;184300.00;540000.00
+2026-06-18;Lastschrift PlastForm Suhl;-22400.00;517600.00
+2026-06-22;Gehaltszahlung Juni;-280000.00;237600.00
+2026-06-30;Gutschrift Kunde Klinikverbund Sued;96500.00;334100.00
+2026-07-05;Ueberweisung Sensotec Optik Vorkasse;-45000.00;289100.00
+2026-07-15;Gutschrift Kunde MedTech Nord;102400.00;391500.00
+2026-07-22;Gehaltszahlung Juli (teilweise);-260000.00;131500.00
