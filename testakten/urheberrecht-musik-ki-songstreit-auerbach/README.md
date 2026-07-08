@@ -1,5 +1,7 @@
-# Akte Auerbach Soundworks / Nordlicht in Beton
+# Urheberrecht Musik Ki Songstreit Auerbach
 
+**Plugin:** `fachanwalt-urheber-medienrecht`
+**Aktenordner:** `testakten/urheberrecht-musik-ki-songstreit-auerbach/`
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -16,15 +18,87 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
+---
 
-Auerbach Soundworks GmbH aus Berlin-Kreuzberg entwickelt Werbemusik, KI-gestützte Demo-Tracks und Audio-Plugins. Nach einem Kampagnenpitch für eine europaweite Getränkemarke behaupten mehrere Beteiligte Rechte an Songtext, Hookline, Master, Prompt-Workflow und einem kleinen Synthesizer-Plugin. Parallel verlangt ein konkurrierendes Label die Entfernung eines Streaming-Previews wegen angeblichen Samplings; der KI-Anbieter verweist auf TDM und einen unklaren Rechtevorbehalt.
+## Szenario-Überblick
 
-Die Akte enthält E-Mails, Chatverläufe, Notizen, Versionstabellen, ein Split-Sheet, ein Prompt- und Outputlog, Lizenzentwürfe, ein Abmahnschreiben, Musikfragmente als Notation, technische Hashes und Abrechnungsdaten. Sie ist bewusst fragmentarisch: manche Daten passen zusammen, manche nicht, und genau daraus entsteht der rechtliche Druck.
+**Mandantin:** Auerbach Soundworks GmbH, Skalitzer Straße, 10997 Berlin-Kreuzberg. Geschäftsführerin: Dr. Maralda Auerbach.
+**Geschäftsfeld:** Werbemusik, KI-gestützte Demo-Tracks, Audio-Plugins.
+**Projekt:** „Nordlicht in Beton“, 30-Sekunden-Werbespot für eine europaweite Getränkemarke, Streaming-Preview seit 16.05.2026 online (ca. 42.800 Abrufe binnen 48 Stunden).
+**Vertretung:** Rennfeld & Torkelmann Musikrecht, Berlin-Kreuzberg (Az. AS-2026-0037).
 
-## Downloads
+Nach dem Kampagnenpitch behaupten binnen weniger Tage vier verschiedene Beteiligte Rechte an Songtext, Hookline, Master, Prompt-Workflow und einem internen Synthesizer-Plugin. Parallel verlangt ein konkurrierendes Label die Entfernung des Streaming-Previews wegen angeblichen Samplings, während der KI-Anbieter auf TDM und einen unklaren Rechtevorbehalt verweist. Die Akte ist bewusst fragmentarisch: manche Beweismittel stützen sich gegenseitig, andere widersprechen sich, und der Werbekunde verlangt eine Entscheidung binnen weniger Tage.
 
-- [Gesamt-PDF](./gesamt-pdf/urheberrecht-musik-ki-songstreit-auerbach_gesamt.pdf)
-- [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-urheberrecht-musik-ki-songstreit-auerbach.zip)
+---
+
+## Konflikt-Komplexe
+
+| # | Komplex | Gegenseite / Beteiligte | Kern-Frage | Status |
+|---|---|---|---|---|
+| 1 | Sampling-Vorwurf Tonaufnahme „Fenster aus Eis“ | Nachtbogen Records GmbH (RAe Kranhold & Werlitz) | Audioübernahme oder eigenständige Preset-Erzeugung durch Kieselglas? | Takedown-Frist abgelaufen, Sachverständigengutachten läuft |
+| 2 | Textzeilen-Streit Refrain | Fredwina Zornau (Texterin) | Umfang KI-Bearbeitung der Zornau-Zeilen, Namensnennung | Verhandlung offen |
+| 3 | Hookline-Übernahme aus Demo | Henning Valtin (Producer) | Miturheberschaft, Vergütung, Preset-/Demo-Übernahme | Verhandlung offen, gestützt durch Sachverständigengutachten |
+| 4 | KI-Output-Schutzfähigkeit und Rechtevorbehalt | Neuronest Audio GmbH | Trainingsdaten-Herkunft, § 44b UrhG-Opt-out, AGB-Exklusivlizenz | Fragenkatalog versandt, Antwort ausstehend |
+| 5 | Plattform-Takedown Streaming-Preview | Streamdeck Europe | ECMR-Fingerprint-Treffer 41 % gegen Nachtbogen-Referenz | Ticket SD-8841-226, unter Prüfung |
+| 6 | Cue-Sheet und GEMA-Werkanmeldung | GEMA, Musikverlag Silberfarn Edition KG | Anteilsverteilung unter Vorbehalt bei ungeklärter Rechtekette | Meldung mit Vorbehalt eingereicht |
+| 7 | Open-Source-/Lizenzfragen Synthesizer-Plugin Kieselglas | intern / ggf. Drittbibliotheken | Lizenzkonformität des internen Audio-Plugins | Prüfung läuft |
+
+---
+
+## Beteiligte Parteien
+
+| Partei | Rolle |
+|---|---|
+| Auerbach Soundworks GmbH, Berlin-Kreuzberg | Mandantin |
+| Dr. Maralda Auerbach | Geschäftsführerin der Mandantin |
+| Rennfeld & Torkelmann Musikrecht, Berlin-Kreuzberg | Mandatierte Kanzlei |
+| Nachtbogen Records GmbH, Leipzig | Gegnerisches Label (Sampling-Vorwurf) |
+| RAe Kranhold & Werlitz | Gegenanwälte Nachtbogen Records |
+| Fredwina Zornau | Texterin, Streit um Refrain-Zeilen |
+| Henning Valtin | Producer, Streit um Hookline-Herkunft |
+| Neuronest Audio GmbH | KI-Anbieter (Composer-Modell 4.3) |
+| Musikverlag Silberfarn Edition KG | Verlag, GEMA-Administration |
+| Streamdeck Europe | Streaming-Plattform, Content-ID/ECMR-Betreiberin |
+| Dipl.-Toningenieurin Renata Oskolkov | Sachverständige für forensische Audioanalyse |
+| GEMA | Verwertungsgesellschaft |
+
+---
+
+## Getestete Skills und Aktenstücke
+
+| # | Skill / Themenfeld | Aktenstück(e) |
+|---|---|---|
+| 1 | Sampling-Abmahnung und Verteidigung | 06, 07, 16, 17, technik/ecmr-systemhinweis-streamdeck.txt |
+| 2 | Miturheberschaft und Textrechte | 02, 03, 09, 13 |
+| 3 | KI-Output, TDM und § 44b UrhG-Opt-out | 04, 11, technik/promptlog-excerpt.json, technik/rights-reservation-metadata.txt |
+| 4 | Plattform-Takedown und Content-ID | 07, 17, tabellen/ecmr-fingerprint-treffer.csv |
+| 5 | Cue-Sheet und Verwertungsgesellschaften | 12, 18 |
+| 6 | Sachverständigenbeweis Musikvergleich | 10, 16, mail/2026-06-02-sachverstaendige-vorlaeufiges-ergebnis.eml |
+| 7 | Software-/Open-Source-Lizenzfragen | 08, 14 |
+| 8 | Vergleichs- und Prozessstrategie | 09, 13, 15 |
+
+---
+
+## Schlüssel-Rechtsfragen
+
+1. **Beweislast bei kurzem Referenzausschnitt:** Reicht ein 18-Sekunden-Fragment als Beleg für eine Tonträgerübernahme aus, oder muss Nachtbogen Records die vollständige Masteraufnahme vorlegen, bevor eine Unterlassungserklärung verlangt werden kann?
+2. **Abgrenzung Preset-Erzeugung versus Sample-Import:** Wann ist eine synthetisch erzeugte Klangtextur (Kieselglas-Preset) rechtlich von einer Audioübernahme aus einer fremden Tonaufnahme zu unterscheiden, und wer trägt hierfür die Darlegungslast?
+3. **KI-Trainingsdaten und maschinenlesbarer Rechtevorbehalt (§ 44b UrhG, Art. 4 DSM-RL):** Erkennt Neuronest Audio die robots.txt- und Meta-Vorbehalte der Auerbach-Website, und was folgt daraus für die Schutzfähigkeit und Verwertbarkeit des KI-Outputs?
+4. **Aussagekraft automatisierter Content-ID-/ECMR-Treffer:** Welchen Beweiswert hat ein plattformseitiger Fingerprint-Treffer von 41 Prozent gegenüber einem gerichtlich noch nicht gesicherten Referenzausschnitt?
+5. **Miturheberschaft bei KI-gestützter Komposition:** Begründet der Beitrag von Henning Valtin (Demo vom 03.02.2026) eine Miturheberschaft an der finalen Hookline, wenn Teile davon über einen KI-Workflow weiterverarbeitet wurden?
+6. **GEMA-Meldung unter Vorbehalt:** Welche Risiken entstehen durch eine vorläufige Werkanmeldung mit Änderungslog, wenn die Rechtekette bei Text, Komposition und Master zum Meldezeitpunkt noch nicht abschließend geklärt ist?
+
+---
+
+## Widersprüche und Ambiguitäten in der Akte
+
+- Nachtbogen Records stützt den Sampling-Vorwurf auf einen nur 18 Sekunden langen Referenzausschnitt; eine vollständige Masteraufnahme wurde bislang nicht vorgelegt.
+- Der ECMR-Fingerprint-Bericht der Plattform (41 Prozent Übereinstimmung) und das vorläufige Sachverständigengutachten kommen zu einer ähnlichen Größenordnung, aber keiner der beiden schließt eine zufällige Parallelentwicklung aus oder belegt eine Übernahme abschließend.
+- Henning Valtins Demo wurde erst am 14.05.2026 weitergeleitet, obwohl sie auf den 03.02.2026 datiert ist — die Versionskette ist lückenhaft dokumentiert.
+- Neuronest Audio verweist auf eine AGB-Exklusivlizenz zugunsten von Auerbach, behauptet aber zugleich, der Output sei mangels menschlicher Schöpfungshöhe gar nicht schutzfähig; beide Positionen stehen in Spannung zueinander.
+- Die GEMA-Werkanmeldung wurde bereits mit Vorbehalt eingereicht, obwohl weder das Sachverständigen-Endgutachten noch der Silberfarn-Verlagsvertrag vorliegen.
+
+---
 
 ## Enthaltene Unterlagen
 
@@ -41,14 +115,17 @@ Die Akte enthält E-Mails, Chatverläufe, Notizen, Versionstabellen, ein Split-S
 | `09-vergleichsnotiz-releasefenster.docx` | Vergleichsnotiz zum geplanten Release |
 | `10-sachverstaendigenbriefing-musikvergleich.docx` | Briefing für den technischen Musikvergleich |
 | `11-fragenkatalog-ki-anbieter-neuronest.docx` | Fragen an KI-Anbieter zu Output, TDM und Trainingsdaten |
-| `12-cue-sheet-und-gema-vorbereitung.docx` | Cue-Sheet, Splits und Verwertungsgesellschaften-Vorbereitung |
+| `12-cue-sheet-und-gema-vorbereitung.docx` | Cue-Sheet, Splits, Verwertungsgesellschaften-Vorbereitung, Anbindung an Aktenstück 18 |
 | `13-lizenz-und-vergleichsbausteine.docx` | Vergleichs- und Release-Duldungsbausteine |
 | `14-open-source-und-plugin-lizenznotiz.docx` | Open-Source- und Softwarelizenzfragen zum Synthesizer-Plugin |
 | `15-prozess-und-eilstrategie.docx` | Prozess-, Plattform- und Eilstrategie |
-| `mail/` | EML-Mailwechsel mit Label, Verlag, Plattform und KI-Anbieter |
+| `16-sachverstaendigengutachten-musikvergleich-vorlaeufig.docx` | Vorläufiges Ergebnis des forensischen Musikvergleichs |
+| `17-ecmr-fingerprint-bericht-streamdeck.docx` | Automatisierter Content-ID-/ECMR-Bericht der Plattform |
+| `18-gema-werkanmeldung-entwurf-mit-vorbehalt.docx` | Formale GEMA-Werkanmeldung mit Vorbehalt und Änderungslog |
+| `mail/` | EML-Mailwechsel mit Label, Verlag, Plattform, KI-Anbieter und Sachverständiger |
 | `chat/` | Chat-Export aus der Produktion |
-| `tabellen/` | Split-Sheet, Versionen, Hashes, Streaming-Rohdaten |
-| `technik/` | ABC-Notation, Promptlog, Metadaten und Rechtevorbehalt |
+| `tabellen/` | Split-Sheet, Versionen, Hashes, Streaming-Rohdaten, ECMR-Fingerprint-Treffer |
+| `technik/` | ABC-Notation, Promptlog, Metadaten, Rechtevorbehalt, ECMR-Systemhinweis |
 | `bilder/` | Screenshotartige Arbeitsbilder |
 | `vertrag/` | Vertragsentwurf und Rechteklauseln |
 | `gesamt-pdf/` | Zusammengeführte PDF-Fassung |
