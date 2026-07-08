@@ -80,6 +80,36 @@ Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das
 | I — Insolvenz | Handelsregisterauszug, Gesellschafterliste, Eigenantrag Weber, Antrag Richter auf Rücknahme, Beschlüsse, Gutachten Dr. Bergmann, Abweisungsbeschluss § 26, HR-Mitteilung |
 | II — Ermittlung / Straf | Mitteilung Insolvenzgericht → StA, Einleitungsverfügung, Anhörungsbogen, Vernehmungsprotokolle (Dr. Bergmann, StB Hartmann), StA-Vermerke (Buchführung, Kontobewegungen, Rechtliche Würdigung), BZR-Auszug, Schreiben RA Steinbach (2x), StA-Vermerke, Teileinstellung, Strafbefehlsantrag, Strafbefehl, Zustellungsurkunden + Einspruch |
 
+## Aktenstücke (Ausbau ab Nr. 10)
+
+| Datei | Inhalt |
+| --- | --- |
+| `10_Handelsregisterauszug_GF_Historie.docx` | Chronologischer HR-Auszug mit GF-Historie |
+| `11_Jahresabschluss_2022_2023.docx` | Jahresabschlüsse 2022/2023 (2023 rekonstruiert) |
+| `12_BWA_Q4-2023_Q1-2024.csv` | BWA vierstes Quartal 2023 und erstes Quartal 2024 |
+| `13_Liquiditaetsstatus_Deckungsluecke_rueckblickend.xlsx` | Rückblickender Liquiditätsstatus mit Deckungslücke |
+| `14_Kontoauszuege_Geschaeftskonto_letzte_4_Monate.csv` | Kontoauszüge Geschäftskonto (Auszug) |
+| `15_Mahnbescheide_drei_Glaeubiger.docx` | Mahnbescheide dreier Gläubiger |
+| `16_Kuendigung_Warenkreditversicherer.eml` | Kündigung Warenkreditversicherung |
+| `17_Steuerberater_Warnbrief_drohende_Zahlungsunfaehigkeit.docx` | Warnschreiben Steuerberatung |
+| `18_Protokoll_Gesellschafterversammlung_03-2024.docx` | Protokoll außerordentliche Gesellschafterversammlung |
+| `19_Email_GF_an_Steuerberater.eml` | E-Mail GF Weber an Steuerberater |
+| `20_Email_GF_an_Bank.eml` | E-Mail GF Richter an Bank |
+| `21_Email_Bank_an_GF_Kreditkuendigung.eml` | Kreditkündigung der Bank |
+| `22_Zeugenvernehmung_Buchhalterin.docx` | Zeugenvernehmung Buchhalterin Sorger |
+| `23_Zeugenvernehmung_Steuerberater.docx` | Zeugenvernehmung Steuerberater Klingmann |
+| `24_Vernehmung_GF_Weber.docx` | Vernehmung (zunächst Beschuldigter) Florian Weber |
+| `25_Gutachten_Fachanwalt_Zahlungsunfaehigkeit.docx` | Privatgutachten Zahlungsunfähigkeit Prof. Dr. Rahn |
+| `26_Verteidigungsschrift_Steinbach.docx` | Verteidigungsschrift RA Prof. Dr. Steinbach |
+| `27_Beweisantrag_Verteidigung.docx` | Beweisantrag der Verteidigung |
+| `28_Hauptverhandlungsprotokoll.docx` | Protokoll der Hauptverhandlung |
+| `29_Urteil_Amtsgericht_Frankfurt.docx` | Urteil des Amtsgerichts Frankfurt am Main |
+| `emails/`, `eml/` | E-Mail-Verkehr Geschäftsführer, Steuerberater, Bank, Vermieter |
+| `csv/` | Gläubigerliste, Umsatzentwicklung 2022-2024 |
+| `xlsx/` | Deckungslücken-Monatsverlauf |
+| `jpg/` | Fotodokumentation Büro Goethestraße |
+| `pdfs/` | Gescannte Urteilsausfertigung |
+
 ## Passendes Plugin
 
 `insolvenzverwaltung` (Phase Abweisung mangels Masse) + `strafbefehl-verteidiger` (Einspruch gegen Strafbefehl § 283b StGB)
