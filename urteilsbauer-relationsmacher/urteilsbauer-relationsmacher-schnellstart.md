@@ -14,14 +14,25 @@ Zerlege die Akte vor jeder Prosa in fünf Raster; Lücken als [Lücke: …] mark
 4. Streitstofftabelle: Behauptung, wer behauptet, Einlassung des Gegners (zugestanden, bestritten, Nichtwissen Paragraf 138 Abs. 4 ZPO, unbestritten Abs. 3), Beweisangebote, erheblich ja/nein.
 5. Normzuordnung: je Streitpunkt Anspruchsgrundlage oder Einwendung mit Tatbestandsmerkmal; doppelrelevante Tatsachen kennzeichnen.
 
-## 2. Eröffnung
+## 2. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | Paragrafen 313, 313a, 313b ZPO; Paragrafen 38, 39 FamFG; Paragrafen; Paragraf 241 Abs. 2 BGB; Paragraf 242 BGB |
+| Rechtsprechung | BGH VI ZR 373/18 (behauptet NJW 2020, 466); BGH VI ZR 395/16 (behauptet NJW 2018, 386) |
+| Tatbestand | Dieser Skill erzeugt die finale Entscheidung des Spruchkörpers nicht als bloßen Vorschlag oder Votum, sondern |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 3. Eröffnung
 
 1. Entscheidungsart: Urteil, Versäumnis- oder Anerkenntnislage, FamFG-Beschluss oder Rechtspfleger-Geschäft (Kostenfestsetzung Paragraf 104 ZPO, Pfaendungs- und Überweisungsbeschluss Paragrafen 829, 835 ZPO)?
 2. Verfahrensstand: entscheidungsreif, Beweisaufnahme offen oder Hinweis nach Paragraf 139 ZPO noetig?
 3. Richter-Input: Liegt die Beweiswürdigung des Gerichts vor? Ohne sie wird keine Würdigung erfunden, sondern abgefragt.
 4. Gewünschtes Produkt: Zergliederungs-Paket, Relation mit Voten, Tenorvorschlag oder Volltext-Entwurf (auf Wunsch DOCX)?
 
-## 3. Kurzweg
+## 4. Kurzweg
 
 1. Zergliederung ausgeben (Raster 1 bis 5). Votum: Verfahrenslage und die drei entscheidungstraechtigsten Streitpunkte.
 2. Klaegerstation: Schlüssigkeit je Anspruchsgrundlage, Wahrunterstellung. Votum: schlüssig oder fehlendes Merkmal.
@@ -30,7 +41,7 @@ Zerlege die Akte vor jeder Prosa in fünf Raster; Lücken als [Lücke: …] mark
 5. Tenor: Hauptsache, Zinsen, Kosten Paragrafen 91 bis 93 ZPO, vorläufige Vollstreckbarkeit Paragrafen 708 bis 711 ZPO, Beschwer; nicht über die Anträge hinaus (Paragraf 308 ZPO). Votum: Tenorvorschlag.
 6. Text: Tatbestand streng getrennt (unstreitig, streitiges Klaeger- und Beklagtenvorbringen, Anträge woertlich, Prozessgeschichte), dann Gründe je Streitpunkt, Rechtsmittelbelehrung (beim Rechtspfleger: Erinnerung Paragraf 11 RPflG). Votum: ausformulierter Entwurf mit offenen Wertungspunkten.
 
-## 4. Anker
+## 5. Anker
 
 - ZPO Paragrafen 138, 253, 139: Erklärungslast, Klageinhalt, Hinweispflicht.
 - ZPO Paragrafen 286, 287, 288, 291: Beweiswürdigung, Beweismass, Gestaendnis, Offenkundigkeit.
@@ -38,10 +49,10 @@ Zerlege die Akte vor jeder Prosa in fünf Raster; Lücken als [Lücke: …] mark
 - ZPO Paragrafen 104, 829, 835; RPflG (übertragene Geschäfte, Paragraf 11 Erinnerung); FamFG Paragraf 38.
 - Rechtsprechung nur fallbezogen und nach Live-Verifikation an amtlicher oder frei zugaenglicher Quelle; nicht verifizierte Aktenzeichen weglassen.
 
-## 5. Antwortform
+## 6. Antwortform
 
 Erst die Raster, dann die Voten, dann der Text. Ganze Sätze im Entwurf; Tabellen nur für Zergliederung, Fristen und Beträge. Jeder offene Punkt ist als [Lücke: …] oder [Wertung durch das Gericht: …] markiert.
 
-## 6. Stop
+## 7. Stop
 
 Stoppe bei erkennbar unvollständiger Akte (dann Zergliederung mit Lückenliste), bei fehlendem Richter-Input zur Beweiswürdigung, bei Befangenheits-, Verweisungs- oder Aussetzungsfragen und — als Rechtspfleger — bei rechtlichen Zweifeln oder Richtervorbehalt (Vorlage empfehlen). Für die Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

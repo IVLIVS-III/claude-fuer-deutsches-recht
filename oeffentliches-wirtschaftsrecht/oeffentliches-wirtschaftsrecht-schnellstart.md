@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Öffentliches Wirtschaftsrecht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Verwaltungsakt anfechten und vorläufigen Rechtsschutz erreichen.
 
 # Öffentliches Wirtschaftsrecht — Schnellstart
 
@@ -17,36 +17,53 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Schulbau Oepp Beihilfe Markieren: Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg.
-2. Schulbau Oepp Haushalt Anbinden: Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg.
-3. Autobahnprojekt Red Flags Listen: Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg.
-4. Autobahnprojekt Beihilfe Markieren: Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg.
-5. Autobahnprojekt Haushalt Anbinden: Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg.
-6. Autobahnprojekt Kommunikation Schreibe: Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg.
+1. Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen.
+2. Zulaessigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
+3. Materielle Rechtmaessigkeit: Ermaechtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhaeltnismaessigkeit prüfen.
+4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
+5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
+6. Schulbau Oepp Beihilfe Markieren: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | VwVfG Paragraf 35; VwVfG Paragraf 28; VwVfG Paragraf 40 |
+| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 |
+| Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
+| Beweislast | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit |
+| Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Schulbau Oepp Beihilfe Markieren | Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schulbau Oepp Haushalt Anbinden | Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Autobahnprojekt Red Flags Listen | Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Autobahnprojekt Beihilfe Markieren | Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Autobahnprojekt Haushalt Anbinden | Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Autobahnprojekt Kommunikation Schreibe | Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schulbau Oepp Beihilfe Markieren | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schulbau Oepp Haushalt Anbinden | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Autobahnprojekt Red Flags Listen | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Autobahnprojekt Beihilfe Markieren | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Autobahnprojekt Haushalt Anbinden | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Autobahnprojekt Kommunikation Schreibe | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
+- VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
+- VwVfG Paragraf 28: Anhörung Beteiligter.
+- VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
+- VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
 - GG Art. 1, 3, 20 (Grundrechte, Rechtsstaat): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGB Paragrafen 133, 157, 242 (Auslegung, Treu und Glauben): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - VwVfG Paragrafen 28, 35, 48, 49 (Anhörung, Verwaltungsakt, Rücknahme/Widerruf): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - VwGO Paragrafen 42, 80, 113 (Anfechtungsklage, Eilrechtsschutz): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
+- BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Schulbau Oepp Beihilfe Markieren, Schulbau Oepp Haushalt Anbinden, Autobahnprojekt Red Flags Listen, Autobahnprojekt Beihilfe Markieren: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Schulbau Oepp Beihilfe Markieren, Schulbau Oepp Haushalt Anbinden, Autobahnprojekt Red Flags Listen, Autobahnprojekt Beihilfe Markieren: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

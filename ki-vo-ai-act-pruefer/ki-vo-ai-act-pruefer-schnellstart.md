@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Anwaltliche System-Nutzung und Quellencheck: Tragende Normen verifizieren: Regulierungsrahmen (EU 2024/1689) Art. 3, 5 (Verbote), 6 (Hochrisiko), 8-15.
 6. Art. 4 Regulierungsrahmen — System-Kompetenz als Compliance-Programm: Art. 4 Regulierungsrahmen: Anbieter und Betreiber müssen System-Kompetenz sicherstellen. - Art. 3 Nr. 1, 3, 4, 63.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | Dynamic Pricing. - Wettbewerberpreis-Monitoring. - Repricing-Bots; Art. 101 AEUV und GWB Paragraf 1 für abgestimmtes Verhalten; GWB Paragrafen 19, 20 und Art. 102 AEUV prüfen, wenn |
+| Rechtsprechung | EuGH C-634/21 (automatisierte Entscheidung Art. 22; EuGH C-203/22 (Profiling, Auskunftsrechte) |
+| Tatbestand | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Anwaltliche System-Nutzung und Quellencheck | Tragende Normen verifizieren: Regulierungsrahmen (EU 2024/1689) Art. 3, 5 (Verbote), 6 (Hochrisiko), 8-15. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Art. 4 Regulierungsrahmen — System-Kompetenz als Compliance-Programm | Art. 4 Regulierungsrahmen: Anbieter und Betreiber müssen System-Kompetenz sicherstellen. - Art. 3 Nr. 1, 3, 4, 63. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - Dynamic Pricing. - Wettbewerberpreis-Monitoring. - Repricing-Bots auf Marktplätzen. - gemeinsame Softwareanbieter für mehrere Wettbewerber. - System-gestützte Rabatt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 101 AEUV und GWB Paragraf 1 für abgestimmtes Verhalten, Kartelle, Hub-and-Spoke und Informationsaustausch: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -44,10 +55,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - EuGH C-203/22 (Profiling, Auskunftsrechte)
 - BVerfG 1 BvR 2017/21 (automatisierte Datenverarbeitung Polizei)
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abgrenzung: Konventionelle Software versus System-System, Regulierungsrahmen-OWi und interne Untersuchung, Algorithmische Kollusion und Pricing-Systeme, Anbieter-Werden — Art. 25 Regulierungsrahmen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abgrenzung: Konventionelle Software versus System-System, Regulierungsrahmen-OWi und interne Untersuchung, Algorithmische Kollusion und Pricing-Systeme, Anbieter-Werden — Art. 25 Regulierungsrahmen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

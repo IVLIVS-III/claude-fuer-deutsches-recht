@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag.
 6. Acht: Zahlen, Schwellenwerte und Berechnung: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | GG Artikel 1 Absatz 1; GG Artikel 2 Absatz 1; GG Artikel 3 Absatz 1 |
+| Rechtsprechung | BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51; BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56 |
+| Tatbestand | rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen |
+| Beweislast | Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit |
+| Rechtsfolge | Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Bundesverfassungsgericht Quellenkarte | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | BVerfG-Eilantrag nach Paragraf 32 BVerfGG | Dieser Skill führt durch den Eilantrag zum Bundesverfassungsgericht, wenn der Mandant nicht auf die Hauptsache. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - GG Artikel 1 Absatz 1: Menschenwuerdebindung aller Staatsgewalt.
 - GG Artikel 2 Absatz 1: allgemeine Handlungsfreiheit.
@@ -51,10 +62,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BVerfG, Urteil vom 11.06.1958, 1 BvR 596/56 (Apothekenurteil) — Drei-Stufen-Theorie der Berufsfreiheit
 - BVerfG, Beschluss vom 23.09.2025, 1 BvR 2284/23 (Triage II) — Schutzpflicht und Art. 3 Abs. 3 Satz 2 GG
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Acht: Zahlen, Schwellenwerte und Berechnung, Anschluss-Routing, Art. 12 GG: Berufsfreiheit und Regulierungsdichte, Art. 5 GG: Meinung, Presse und Mehrdeutigkeit: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Acht: Zahlen, Schwellenwerte und Berechnung, Anschluss-Routing, Art. 12 GG: Berufsfreiheit und Regulierungsdichte, Art. 5 GG: Meinung, Presse und Mehrdeutigkeit: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

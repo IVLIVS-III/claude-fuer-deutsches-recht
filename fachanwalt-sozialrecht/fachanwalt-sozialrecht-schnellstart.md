@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Pflege und Teilhabe: Pflegegrad, Modulbewertung, Wohnumfeld, Barrierefreiheit und Kostenträgerabgrenzung klären.
 6. Eilrechtsschutz: Anordnungsanspruch, Anordnungsgrund, Folgenabwägung und Existenzsicherung darstellen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | SGB I Paragraf 39; SGB X Paragraf 20; SGB X Paragraf 24 |
+| Rechtsprechung | BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09; BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16 |
+| Tatbestand | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen |
+| Beweislast | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege |
+| Rechtsfolge | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Arbeitsunfall Paragraf 8 sgb vii | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | 60-Sekunden-Sofortprüfung der Frist eines sozialrechtlichen Bescheids | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - SGB I Paragraf 39: Sozialleistungen als Anspruch bei Vorliegen der gesetzlichen Voraussetzungen.
 - SGB X Paragraf 20: Amtsermittlung im Sozialverwaltungsverfahren.
@@ -51,10 +62,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - JC verhängt 30 Prozent Kürzung wegen Terminversäumnis. - Paragraf 31 SGB - Paragraf 7 SGB II - Paragraf 31 SGB II - Paragraf 43 SGB VI - Paragraf 14 SGB IX - Paragraf 109 SGG - BVerfG 05.11.2019 1 BvL
 - BVerfG 05.11.2019 1 BvL 7/16 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Mandant oder Anwalt benötigt Einsicht in die Verwaltungsakte oder Gerichtsakte in einem laufenden., Anwalt hat Sozialrechts-Verwaltungs- oder Gerichtsakte erhalten und muss diese systematisch für Widerspruch., Anwalt muss Anlagenkonvolut zu Widerspruch Klage oder Schriftsatz in korrekter.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Mandant oder Anwalt benötigt Einsicht in die Verwaltungsakte oder Gerichtsakte in einem laufenden., Anwalt hat Sozialrechts-Verwaltungs- oder Gerichtsakte erhalten und muss diese systematisch für Widerspruch., Anwalt muss Anlagenkonvolut zu Widerspruch Klage oder Schriftsatz in korrekter.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

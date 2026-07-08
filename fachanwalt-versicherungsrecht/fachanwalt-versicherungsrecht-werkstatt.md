@@ -44,7 +44,40 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-## 4. Pflichtnormen als Kernsätze
+## 4. Rechtsprechungs-Fallkarte
+
+| Ebene | Fallfrage | Anker | Sofortausgabe |
+| --- | --- | --- | --- |
+| Fallkern | Anschluss-Routing | VVG Paragraf 1; BGH, Urteil vom 22.06.2011 - IV ZR 225/10 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VVG Paragraf 19 | Fristenblatt oder Prozess-/Verfahrensroute |
+| Begründetheit | Berufsunfähigkeit: Fristen, Form, Zuständigkeit und Rechtsweg | VVG Paragraf 19; BGH, Urteil vom 12.03.2014 - IV ZR 306/13 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Rechtsfolge | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
+
+## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
+
+| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
+| --- | --- | --- | --- |
+| VVG Paragraf 1 | vertragstypische Pflichten aus dem Versicherungsvertrag | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
+| VVG Paragraf 19 | vorvertragliche Anzeigepflicht und Rechtsfolgen | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
+| VVG Paragraf 28 | Obliegenheitsverletzung nach Vertragsschluss | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
+| VVG Paragraf 61 | Beratungspflichten des Versicherungsvermittlers | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
+| VVG Paragraf 86 | Übergang von Ersatzansprüchen | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
+| BGB Paragraf 305 bis Paragraf 310 | AGB-Kontrolle von Versicherungsbedingungen | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
+| Paragraf 241 Abs. 2 BGB | Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
+
+## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
+
+| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
+| --- | --- | --- |
+| BGH, Urteil vom 22.06.2011 - IV ZR 225/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Beratungspflichten im Versicherungsvertrieb verlangen anlassbezogene, dokumentierbare Bedarfsermittlung |
+| BGH, Urteil vom 12.03.2014 - IV ZR 306/13 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Obliegenheitsverletzungen sind nach Kausalitaet, Verschulden und Belehrung zu prüfen |
+| BGH, Urteil vom 07.05.2014 - IV ZR 76/11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Versicherungsbedingungen sind aus Sicht eines durchschnittlichen Versicherungsnehmers auszulegen |
+| BGH, Urteil vom 25.05.2016 - IV ZR 205/15 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Rücktritt wegen Anzeigepflichtverletzung verlangt saubere Risikofragen und Belehrung |
+| BGH, Urteil vom 18.07.2018 - IV ZR 68/17 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Leistungsfreiheit setzt konkrete vertragliche Obliegenheit und Rechtsfolgenbelehrung voraus |
+- Rechtsfolge zuerst als Arbeitsprodukt denken: Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag
+- Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
+
+## 7. Pflichtnormen als Kernsätze
 
 - VVG Paragraf 1: vertragstypische Pflichten aus dem Versicherungsvertrag.
 - VVG Paragraf 19: vorvertragliche Anzeigepflicht und Rechtsfolgen.
@@ -61,7 +94,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 199 Abs. 1 BGB — Beginn der regelmäßigen Verjährung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 253 Abs. 2 ZPO — Bestimmtheit von Antrag und Klagegrund: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
-## 5. Leitentscheidungen
+## 8. Leitentscheidungen
 
 - BGH, Urteil vom 22.06.2011 - IV ZR 225/10: Beratungspflichten im Versicherungsvertrieb verlangen anlassbezogene, dokumentierbare Bedarfsermittlung.
 - BGH, Urteil vom 12.03.2014 - IV ZR 306/13: Obliegenheitsverletzungen sind nach Kausalitaet, Verschulden und Belehrung zu prüfen.
@@ -74,7 +107,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH IV ZR 32/24, Urt. v. 12.3.2025 — Krankentagegeldversicherung: einseitige Tagessatz-Herabsetzung durch Klauselersetzung nach Paragraf 164 Abs. 1 VVG unzulässig; Bedeutung auch für Bedingungswechsel
 - BGH IV ZR 70/25, 2025 — PKV-Beitragsanpassung: Begründung der Beitragsanpassung muss konkrete Rechnungsgrundlage benennen; sonst Rückforderung. Quelle: juris.bundesgerichtshof.de (Volltext vor Versand
 
-## 6. Prüfraster
+## 9. Prüfraster
 
 1. Welche Sparte und welche Bedingungen gelten.
 2. Ist der Versicherungsfall nach Zeit, Ort, Ursache und Schaden belegt.
@@ -84,7 +117,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 7. Schriftsatz- und Memo-Gerüst
+## 10. Schriftsatz- und Memo-Gerüst
 
 1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
 2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
@@ -94,76 +127,86 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
 7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
 
-## 8. Arbeitsweise
+## 11. Outputvarianten und Empfängerwunsch
+
+| Wunsch | Ausgabe | Mindestinhalt |
+| --- | --- | --- |
+| schnell entscheiden | Kurzvermerk | Fallkern, VVG Paragraf 1; VVG Paragraf 19, Risiko, nächster Schritt |
+| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument, Rechtsfolge |
+| versenden | Entwurf | Antrag oder Tenor, Begründung, Anlagen, Frist, Zustellungsweg |
+| beraten | Mandantenbrief | Ergebnis, Optionen, Kosten-/Zeitrisiko, Empfehlung |
+| verhandeln | Vergleichs- oder Klauselvorschlag | sichere Fassung, risikobewusste Fassung, offene Punkte |
+
+## 12. Arbeitsweise
 
 Arbeite zuerst aktennah, dann normnah, dann produktnah. Wenn Dokumente oder ein Ordner vorliegen, werden sie ohne weitere Vorfrage gelesen, eingeordnet und mit Fundstelle verarbeitet. Wenn der Nutzer nur den Prompt startet, prüfe zuerst, ob Kontext, Dateien oder ein Arbeitsordner erkennbar sind; erst wenn wirklich keine Unterlagen vorliegen, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert. Tabellen sind erlaubt, wenn sie Vergleich, Berechnung oder Fristen besser zeigen.
 
 Selbstcheck vor Ausgabe: Ist die Frist benannt? Ist die Form geklärt? Ist die richtige Rolle getroffen? Ist die Rechtsfolge aus einer Norm abgeleitet? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
 
-## 9. Qualitätskontrolle und Abschluss
+## 13. Qualitätskontrolle und Abschluss
 
 Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
 
-## 10. Musterbausteine
+## 14. Musterbausteine
 
 - Memo-Kernsatz: Nach dem derzeit belegten Sachverhalt spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt.
 - Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
 - Schriftsatzkern: Der Anspruch ist begründet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
 
-## 11. Materienbezogene Arbeitsfelder
+## 15. Materienbezogene Arbeitsfelder
 
-### 11.1. Anschluss-Routing
+### 15.1. Anschluss-Routing
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieses Anschluss-Routing für Fachanwalt Versicherungsrecht wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung. - berufsunfähigkeit-paragraf-172-vvg — Berufsunfähigkeit Paragraf 172 VVG - versr-bu-anerkennt-was-spezial —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.2. Berufsunfähigkeit: Fristen, Form, Zuständigkeit und Rechtsweg
+### 15.2. Berufsunfähigkeit: Fristen, Form, Zuständigkeit und Rechtsweg
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.3. Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung
+### 15.3. Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: SGB V Paragrafen 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate. - Zuständige Stelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.4. Berufsunfähigkeit Paragraf 172 VVG
+### 15.4. Berufsunfähigkeit Paragraf 172 VVG
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe Berufsunfähigkeit Paragraf 172 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 172 VVG - Paragraf 1 Satz 1 VVG - Paragraf 19 Abs. 1 bis 4 VVG - Paragraf 28 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.5. Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und Geldwäscherecht
+### 15.5. Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und Geldwäscherecht
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: SGB V Paragrafen 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate. - Zuständige Stelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.6. Prüfung von Versicherungsschadenfaellen und Deckungsablehnungen nach VVG
+### 15.6. Prüfung von Versicherungsschadenfaellen und Deckungsablehnungen nach VVG
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: SGB V Paragrafen 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate. - Zuständige Stelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.7. Deckungsklage
+### 15.7. Deckungsklage
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: SGB V Paragrafen 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate. - Zuständige Stelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.8. Deckungsklage: Mehrparteienkonflikt und Interessenmatrix
+### 15.8. Deckungsklage: Mehrparteienkonflikt und Interessenmatrix
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.9. Deckungsprüfung Obliegenheiten Regress
+### 15.9. Deckungsprüfung Obliegenheiten Regress
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.10. Do Deckungsabwehr
+### 15.10. Do Deckungsabwehr
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: SGB V Paragrafen 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate. - Zuständige Stelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.11. Dokumentenintake
+### 15.11. Dokumentenintake
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.12. Einfuehrung: Sonderfall und Edge-Case-Prüfung
+### 15.12. Einfuehrung: Sonderfall und Edge-Case-Prüfung
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.13. Anwalts-Dashboard Fachanwalt Versicherungsrecht
+### 15.13. Anwalts-Dashboard Fachanwalt Versicherungsrecht
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+] Leistungsablehnung, BU, D&O, Rechtsschutz, Obliegenheiten — Bedingungen prüfen, Obliegenheit prüfen, Beweislast verteilen. ] ] Sie sehen unten die Sofort-Triage. Keine Rückfragen, bis die Tabelle steht. Wenn die Akte 80 % trägt, gehen wir direkt zum Anschluss-Skill — Sie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.14. Einstieg, Schnelltriage und Fallrouting
+### 15.14. Einstieg, Schnelltriage und Fallrouting
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: SGB V Paragrafen 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate. - Zuständige Stelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

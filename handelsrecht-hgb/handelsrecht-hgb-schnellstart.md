@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Handelsrecht Hgb ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
 
 # Handelsrecht Hgb — Schnellstart
 
@@ -17,36 +17,53 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Anfänger-Erklärung HGB: Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c.
-2. Firma Paragrafen 17 ff. HGB: Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c.
-3. Firmenfortführung Paragrafen 21-25 HGB: Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c.
-4. Formkaufmann Paragraf 6 HGB: Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c.
-5. Frachtvertrag Paragrafen 407 ff. HGB: Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c.
-6. GmbH & Co. KG HGB: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
+1. Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen.
+2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen.
+3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
+4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
+5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+6. Anfänger-Erklärung HGB: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | BGB Paragraf 705; HGB Paragraf 105; GmbHG Paragraf 13 |
+| Rechtsprechung | BGH, Urteil vom 29.01.2001 - II ZR 331/00; BGH, Urteil vom 04.07.2005 - II ZR 354/03 |
+| Tatbestand | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen |
+| Beweislast | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment |
+| Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anfänger-Erklärung HGB | Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Firma Paragrafen 17 ff. HGB | Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Firmenfortführung Paragrafen 21-25 HGB | Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Formkaufmann Paragraf 6 HGB | Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Frachtvertrag Paragrafen 407 ff. HGB | Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anfänger-Erklärung HGB | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Firma Paragrafen 17 ff. HGB | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Firmenfortführung Paragrafen 21-25 HGB | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Formkaufmann Paragraf 6 HGB | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Frachtvertrag Paragrafen 407 ff. HGB | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | GmbH & Co. KG HGB | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
+- BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
+- HGB Paragraf 105: offene Handelsgesellschaft.
+- GmbHG Paragraf 13: Rechtsnatur der GmbH.
+- GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
 - GG Art. 1, 3, 20 (Grundrechte, Rechtsstaat): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGB Paragrafen 133, 157, 242 (Auslegung, Treu und Glauben): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - VwVfG Paragrafen 28, 35, 48, 49 (Anhörung, Verwaltungsakt, Rücknahme/Widerruf): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - VwGO Paragrafen 42, 80, 113 (Anfechtungsklage, Eilrechtsschutz): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
+- BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Anfänger-Erklärung HGB, Firma Paragrafen 17 ff. HGB, Firmenfortführung Paragrafen 21-25 HGB, Formkaufmann Paragraf 6 HGB: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Anfänger-Erklärung HGB, Firma Paragrafen 17 ff. HGB, Firmenfortführung Paragrafen 21-25 HGB, Formkaufmann Paragraf 6 HGB: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. /tabellenreview-3d:abrufen-trail-protokoll: 1. Für welches Mandat / Projekt wird der abrufen-Trail geführt? (M&A-DD / Immobilien / Vendor) 2. Wer.
 6. /tabellenreview-3d:belegkette-rückverfolgung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | Paragraf 611a Abs. 1 BGB; Paragraf 611a Abs. 1 BGB; Paragraf 241 Abs. 2 BGB |
+| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Tatbestand | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | /tabellenreview-3d:abrufen-trail-protokoll | 1. Für welches Mandat / Projekt wird der abrufen-Trail geführt? (M&A-DD / Immobilien / Vendor) 2. Wer. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | /tabellenreview-3d:belegkette-rückverfolgung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - Paragraf 611a Abs. 1 BGB — Arbeitsvertrag und Weisungsbindung. - Paragraf 241 Abs. 2 BGB — Rücksichtnahmepflichten. - Paragraf 626 Abs. 1 BGB — fristlose Kündigung. - Paragraf 1 Abs. 2: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 611a Abs. 1 BGB — Arbeitsvertrag und Weisungsbindung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -46,10 +57,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 7 KSchG — Fiktionswirkung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder /tabellenreview-3d:risikoampel-aggregation, Anschluss-Routing, /tabellenreview-3d:arbeitsblatt-perspektiven-definieren, Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder /tabellenreview-3d:risikoampel-aggregation, Anschluss-Routing, /tabellenreview-3d:arbeitsblatt-perspektiven-definieren, Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

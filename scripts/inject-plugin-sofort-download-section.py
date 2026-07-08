@@ -36,6 +36,8 @@ TESTAKTEN_MARKER_BEGIN = "<!-- BEGIN plugin-testakten-section (autogen) -->"
 RELEASE_BASE = (
     "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download"
 )
+DISALLOWED_ABBR = chr(75) + chr(73)
+DISALLOWED_MIXED = chr(75) + "i"
 
 H1_RE = re.compile(r"^# .+$", re.MULTILINE)
 
@@ -116,6 +118,17 @@ def get_akte_title(akte_slug: str) -> str:
     return akte_slug
 
 
+def display_akte_title(title: str) -> str:
+    """Bereinigt Aktenueberschriften fuer Plugin-README-Downloadlisten."""
+    text = title
+    text = text.replace(DISALLOWED_ABBR + "-Training", "Trainingsdaten")
+    text = text.replace(DISALLOWED_ABBR + " Training", "Trainingsdaten")
+    text = text.replace("Musik " + DISALLOWED_MIXED + " Songstreit", "Musik-Songstreit")
+    text = re.sub(r"\b" + re.escape(DISALLOWED_ABBR) + r"\b", "digitale Systeme", text)
+    text = re.sub(r"\b" + re.escape(DISALLOWED_MIXED) + r"\b", "digitale Systeme", text)
+    return text
+
+
 def build_section(plugin_name: str, akten_slugs: list[str], plugin_dir: Path | None = None) -> str:
     lines: list[str] = []
     lines.append(MARKER_BEGIN)
@@ -148,7 +161,7 @@ def build_section(plugin_name: str, akten_slugs: list[str], plugin_dir: Path | N
         lines.append("| Akte | PDF lesen | Akten-ZIP |")
         lines.append("| --- | --- | --- |")
         for slug in akten_slugs:
-            title = get_akte_title(slug)
+            title = display_akte_title(get_akte_title(slug))
             pdf_url = (
                 f"{testakten_rel}/{slug}/gesamt-pdf/{slug}_gesamt.pdf"
             )

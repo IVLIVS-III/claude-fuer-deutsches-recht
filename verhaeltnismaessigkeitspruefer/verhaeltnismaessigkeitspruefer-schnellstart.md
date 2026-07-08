@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. AGG-Systematik und Verhältnismäßigkeit als Rechtfertigung: Das AGG ist die einfachrechtliche Brückennorm zwischen dem verfassungsrechtlichen Diskriminierungsverbot des Art.
 6. Angemessenheit Abwägung: Auf der vierten Stufe wird abgewogen: Steht der Eingriff in einem ausgewogenen Verhältnis zum Zweckgewinn? BVerfGE.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | Art. 3 Abs. 2 und Abs. 3 GG sind lex specialis. Greift ein besonderer; Art. 3 Abs. 1 GG verbietet nicht jede Ungleichbehandlung, sondern; Art. 3 Abs. 3 GG übersehen |
+| Rechtsprechung | BVerfGE 125, 175 (Hartz-IV-Urteil, Existenzminimum); Begründet in BVerfGE 27, 1 (Mikrozensus-Urteil) und vertieft |
+| Tatbestand | ] Der Staat darf das Existenzminimum nicht unterschreiten – auch nicht aus haushalts- oder fiskalpolitischen |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | AGG-Systematik und Verhältnismäßigkeit als Rechtfertigung | Das AGG ist die einfachrechtliche Brückennorm zwischen dem verfassungsrechtlichen Diskriminierungsverbot des Art. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Angemessenheit Abwägung | Auf der vierten Stufe wird abgewogen: Steht der Eingriff in einem ausgewogenen Verhältnis zum Zweckgewinn? BVerfGE. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - Art. 3 Abs. 2 und Abs. 3 GG sind lex specialis. Greift ein besonderer Gleichheitssatz wird die Prüfung dort geführt. Art. 3 Abs. 1 GG wirkt nur subsidiaer wenn: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 3 Abs. 1 GG verbietet nicht jede Ungleichbehandlung, sondern die ungerechtfertigte. Die Rechtfertigung folgt einer eigenen Dogmatik, die der allgemeinen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -45,14 +56,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - GG Art. 19 Abs. 2 und Abs. 4: Wesensgehalt und Rechtsschutz: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - GG Art. 20 Abs. 3: Gesetzesbindung und Verhältnismäßigkeit als rechtsstaatlicher Maßstab: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfGE 125, 175 (Hartz-IV-Urteil, Existenzminimum)
-- Begründet in BVerfGE 27, 1 (Mikrozensus-Urteil) und vertieft in BVerfGE 30, 1 (Abhoer-Urteil)
-- Aktuelle Anwendung: BVerfGE 115, 118 (Luftsicherheitsgesetz-Urteil) – Abschuss eines mit Unbeteiligten besetzten Flugzeugs verletzt die Wuerde der Passagiere
-- BVerfGE 27, 1 (Mikrozensus-Urteil)
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Absolute Grenze: Menschenwürdiges Existenzminimum, Absolute Grenze: Menschenwuerde Art 1 I GG, Absolute Grenze: Wesensgehalt Art 19 II GG, Abwägungsgesetz und Gewichtsformel — Alexys Werkzeug für Stufe 4: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Absolute Grenze: Menschenwürdiges Existenzminimum, Absolute Grenze: Menschenwuerde Art 1 I GG, Absolute Grenze: Wesensgehalt Art 19 II GG, Abwägungsgesetz und Gewichtsformel — Alexys Werkzeug für Stufe 4: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Robotik Recht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen IT- oder Softwarevertrag prüfen und Leistungspflichten sowie Haftung sauber fassen.
 
 # Robotik Recht — Schnellstart
 
@@ -17,37 +17,53 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Accuracy, Robustness, Cybersecurity bei algorithmische Systeme im Roboter: Entscheidende Weiche: Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität.
-2. Agile Entwicklung und Compliance-Gates in der Robotik: Entscheidende Weiche: Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität.
-3. Anschluss-Routing: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares.
-4. Anwaltliche Quellenhygiene Robotik: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix.
-5. Arbeitsschutz und BetrSichV in der Robotik: Tragende Normen verifizieren: EU Regulierungsrahmen (VO 2024/1689) Art. 6, 8-15, 16, 26, 50, 73, 99.
-6. Arbeitswelt Cobot Check: Tragende Normen verifizieren: EU Regulierungsrahmen (VO 2024/1689) Art. 6, 8-15, 16, 26, 50, 73, 99.
+1. Leistungsmodell: Kauf, Miete, Werk, Dienst, SaaS, Cloud oder Mischvertrag einordnen.
+2. Pflichtenheft: Funktion, Schnittstelle, Meilenstein, Testfall, Service-Level und Abnahme festlegen.
+3. Störung: Mangel, Verzug, Change Request, Mitwirkungsdefizit und Eskalationsmechanik trennen.
+4. Rechte und Daten: Nutzungsrechte, Open Source, Datenschutzschnittstelle, Zugriff und Loeschung prüfen.
+5. Arbeitsprodukt: IT-Vertragsklausel, Mängelrüge, Abnahmeprotokoll, Exit-Plan oder Projektmemo erstellen.
+6. Accuracy, Robustness, Cybersecurity bei algorithmische Systeme im Roboter: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | BGB Paragraf 327; BGB Paragraf 327e; BGB Paragraf 433 |
+| Rechtsprechung | EuGH, Urteil vom 03.07.2012 - C-128/11; BGH, Urteil vom 15.11.2006 - XII ZR 120/04 |
+| Tatbestand | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen |
+| Beweislast | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung |
+| Rechtsfolge | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Accuracy, Robustness, Cybersecurity bei algorithmische Systeme im Roboter | Entscheidende Weiche: Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Agile Entwicklung und Compliance-Gates in der Robotik | Entscheidende Weiche: Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwaltliche Quellenhygiene Robotik | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsschutz und BetrSichV in der Robotik | Tragende Normen verifizieren: EU Regulierungsrahmen (VO 2024/1689) Art. 6, 8-15, 16, 26, 50, 73, 99. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitswelt Cobot Check | Tragende Normen verifizieren: EU Regulierungsrahmen (VO 2024/1689) Art. 6, 8-15, 16, 26, 50, 73, 99. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Accuracy, Robustness, Cybersecurity bei algorithmische Systeme im Roboter | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Agile Entwicklung und Compliance-Gates in der Robotik | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwaltliche Quellenhygiene Robotik | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsschutz und BetrSichV in der Robotik | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitswelt Cobot Check | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
+- BGB Paragraf 327: Verbraucherverträge über digitale Produkte.
+- BGB Paragraf 327e: Vertragsmaessigkeit digitaler Produkte.
+- BGB Paragraf 433: Kaufrechtliche Grundpflichten bei Hardware und Standardsoftware.
+- BGB Paragraf 631: Werkvertragliche Pflichten bei Projektleistungen.
 - Paragraf 43a Abs. 3 BRAO Sachlichkeitsgebot, kein unwahrer Vortrag: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 138 ZPO Wahrheitspflicht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 263, 269 StGB als äußerste Grenze: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 43a Abs. 3 BRAO; Paragraf 138 ZPO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BetrVG Paragraf 87 Abs. 1 Nr. 6 technische Überwachung, Nr. 7 Arbeits- und Gesundheitsschutz: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschoepfung bei Softwaredownloads.
+- BGH, Urteil vom 15.11.2006 - XII ZR 120/04: Application-Service-Providing kann mietvertragliche Elemente tragen.
 - ] EuGH, Urteil vom 7. Dezember 2023, Rs. C-634/21 – SCHUFA Holding, ECLI:EU:C:2023:957, Rn. 73
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Accuracy, Robustness, Cybersecurity bei algorithmische Systeme im Roboter, Agile Entwicklung und Compliance-Gates in der Robotik, Anschluss-Routing, Anwaltliche Quellenhygiene Robotik: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Accuracy, Robustness, Cybersecurity bei algorithmische Systeme im Roboter, Agile Entwicklung und Compliance-Gates in der Robotik, Anschluss-Routing, Anwaltliche Quellenhygiene Robotik: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

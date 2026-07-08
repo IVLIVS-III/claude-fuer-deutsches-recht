@@ -14,34 +14,6 @@ Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unter
 
 Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
 
-### 1.2. Ausgabeformate für schnelle Lieferung
-
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Frist oder Eilsache | Fristenblatt mit nächstem Handlungstag | Fristbeginn, Fristende, Zuständigkeit und Zustellungsweg trennen |
-| Schriftsatz oder Antrag | Antragssatz plus drei tragende Begründungsabsätze | Jede Tatsache bekommt Beleg oder Lückenmarke |
-| Mandantenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko und Kostenfolge getrennt ausweisen |
-| Interner Vermerk | Kurzlage, Rechtsanker, Entscheidungsvorschlag | offene Tatsachen nicht als Rechtsunsicherheit tarnen |
-| Vertrag oder Klausel | Entwurfsfassung mit Kommentarrand | sichere Fassung, ausgewogene Fassung und Risikofassung unterscheiden |
-| Gericht oder Behörde | Verfügung, Beschluss- oder Bescheidentwurf | Tenor, Gründe, Nebenentscheidungen und Zustellung mitdenken |
-
-### 1.3. Rückfragenbremse
-
-1. Wenn Dokumente oder ein Ordner vorliegen, zuerst lesen und verwerten; nicht nacherzählen lassen und nicht um Uploads bitten, die schon vorhanden sind.
-2. Wenn der Nutzer nur den Skill startet, mit dem vorhandenen Kontext beginnen: Aktenkern, Frist, Rechtsanker, erstes Arbeitsprodukt.
-3. Wenn Informationen fehlen, nur die Punkte fragen, die das nächste Arbeitsprodukt ändern.
-4. Wenn mehrere Wege möglich sind, die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Wenn eine Frist, Zuständigkeit oder Form unklar ist, zuerst diesen Engpass sichern.
-6. Wenn der Nutzer nur ein Ergebnis braucht, keine Lehrbuchprüfung ausgeben; die Begründung bleibt knapp und belastbar.
-
-### 1.4. Mini-Gerüste
-
-- Sofortvermerk: Nach derzeitigem Stand spricht mehr für [Ergebnis], weil [Norm] an [Tatbestandsmerkmal] anknüpft und [Beleg] diesen Punkt trägt. Offen bleibt [Lücke]. Nächster Schritt: [Handlung].
-- Schriftsatzkern: Der Antrag ist begründet, weil [Tatsache] durch [Beweismittel] belegt ist und [Norm] daraus [Rechtsfolge] ableitet.
-- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg/Norm/Beweislast]. Prozessrisiko: [niedrig/mittel/hoch].
-- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
-- Entscheidungsvorschlag: Option A ist schneller, Option B ist belastbarer. Ich empfehle [Option], weil [entscheidender Grund].
-
 ## 2. Stop-Kriterien
 
 - Frist oder Form kann nicht sicher bestimmt werden.
@@ -72,7 +44,38 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-## 4. Pflichtnormen als Kernsätze
+## 4. Rechtsprechungs-Fallkarte
+
+| Ebene | Fallfrage | Anker | Sofortausgabe |
+| --- | --- | --- | --- |
+| Fallkern | Abo-Falle und Kündigung | Paragraf 13 BGB; BGH, Urteil vom 27.04.2021, XI ZR 26/20 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Paragraf 13 BGB | Fristenblatt oder Prozess-/Verfahrensroute |
+| Begründetheit | Abo-Kündigung Fitness und Streaming | Paragraf 13 BGB; BGH, Urteil vom 19.11.2024, XI ZR 139/23 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
+
+## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
+
+| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
+| --- | --- | --- | --- |
+| Paragraf 13 BGB | Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 13 BGB | Verbraucherbegriff | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 14 BGB | Unternehmerbegriff | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 312c BGB | Fernabsatzvertrag | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 312d BGB | Informationspflichten | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 355 Abs. 1 BGB | Widerrufsrecht | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 357 BGB | Rechtsfolgen des Widerrufs | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+
+## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
+
+| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
+| --- | --- | --- |
+| BGH, Urteil vom 27.04.2021, XI ZR 26/20 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Zustimmungsfiktionsklauseln im Verbraucherverkehr können nach Paragraf 307 BGB unwirksam sein |
+| BGH, Urteil vom 19.11.2024, XI ZR 139/23 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Widerspruchslose Kontonutzung allein beseitigt den Rückforderungsanspruch nicht; Dreijahreslösung aus Energieverträgen |
+| BGH, Urteil vom 03.06.2025, XI ZR 45/24 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Musterfeststellungsklage zur Rückzahlung von Kontoführungsentgelten; Verjährung, Anspruchsgruppen und konkludente |
+- Rechtsfolge zuerst als Arbeitsprodukt denken: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt
+- Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
+
+## 7. Pflichtnormen als Kernsätze
 
 - Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 13 BGB — Verbraucherbegriff: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -83,13 +86,13 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 357 BGB — Rechtsfolgen des Widerrufs: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 434 BGB — Sachmangel: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
-## 5. Leitentscheidungen
+## 8. Leitentscheidungen
 
 - BGH, Urteil vom 27.04.2021, XI ZR 26/20: Zustimmungsfiktionsklauseln im Verbraucherverkehr können nach Paragraf 307 BGB unwirksam sein
 - BGH, Urteil vom 19.11.2024, XI ZR 139/23: Widerspruchslose Kontonutzung allein beseitigt den Rückforderungsanspruch nicht; Dreijahreslösung aus Energieverträgen nicht übertragen
 - BGH, Urteil vom 03.06.2025, XI ZR 45/24: Musterfeststellungsklage zur Rückzahlung von Kontoführungsentgelten; Verjährung, Anspruchsgruppen und konkludente Zustimmung genau trennen
 
-## 6. Prüfraster
+## 9. Prüfraster
 
 1. Wer will was von wem woraus.
 2. Welche Frist, Form oder Zuständigkeit kann das Ergebnis kippen.
@@ -99,7 +102,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 7. Schriftsatz- und Memo-Gerüst
+## 10. Schriftsatz- und Memo-Gerüst
 
 1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
 2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
@@ -109,76 +112,86 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
 7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
 
-## 8. Arbeitsweise
+## 11. Outputvarianten und Empfängerwunsch
+
+| Wunsch | Ausgabe | Mindestinhalt |
+| --- | --- | --- |
+| schnell entscheiden | Kurzvermerk | Fallkern, Paragraf 13 BGB; Paragraf 13 BGB, Risiko, nächster Schritt |
+| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument, Rechtsfolge |
+| versenden | Entwurf | Antrag oder Tenor, Begründung, Anlagen, Frist, Zustellungsweg |
+| beraten | Mandantenbrief | Ergebnis, Optionen, Kosten-/Zeitrisiko, Empfehlung |
+| verhandeln | Vergleichs- oder Klauselvorschlag | sichere Fassung, risikobewusste Fassung, offene Punkte |
+
+## 12. Arbeitsweise
 
 Arbeite zuerst aktennah, dann normnah, dann produktnah. Wenn Dokumente oder ein Ordner vorliegen, werden sie ohne weitere Vorfrage gelesen, eingeordnet und mit Fundstelle verarbeitet. Wenn der Nutzer nur den Prompt startet, prüfe zuerst, ob Kontext, Dateien oder ein Arbeitsordner erkennbar sind; erst wenn wirklich keine Unterlagen vorliegen, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert. Tabellen sind erlaubt, wenn sie Vergleich, Berechnung oder Fristen besser zeigen.
 
 Selbstcheck vor Ausgabe: Ist die Frist benannt? Ist die Form geklärt? Ist die richtige Rolle getroffen? Ist die Rechtsfolge aus einer Norm abgeleitet? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
 
-## 9. Qualitätskontrolle und Abschluss
+## 13. Qualitätskontrolle und Abschluss
 
 Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
 
-## 10. Musterbausteine
+## 14. Musterbausteine
 
 - Memo-Kernsatz: Nach dem derzeit belegten Sachverhalt spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt.
 - Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
 - Schriftsatzkern: Der Anspruch ist begründet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
 
-## 11. Materienbezogene Arbeitsfelder
+## 15. Materienbezogene Arbeitsfelder
 
-### 11.1. Abo-Falle und Kündigung
+### 15.1. Abo-Falle und Kündigung
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.2. Abo-Kündigung Fitness und Streaming
+### 15.2. Abo-Kündigung Fitness und Streaming
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.3. Arztrechnung GOÄ für Laien
+### 15.3. Arztrechnung GOÄ für Laien
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.4. Bankentgelte und Zustimmungsfiktion
+### 15.4. Bankentgelte und Zustimmungsfiktion
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.5. Baubehörde und Nachbarbrief
+### 15.5. Baubehörde und Nachbarbrief
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.6. Behördenformular verstehen
+### 15.6. Behördenformular verstehen
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.7. Bescheid oder Brief verstehen
+### 15.7. Bescheid oder Brief verstehen
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.8. Datenschutz Auskunft und Löschung
+### 15.8. Datenschutz Auskunft und Löschung
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.9. Dokumentenintake und Aktenlog
+### 15.9. Dokumentenintake und Aktenlog
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.10. E-Commerce Kauf und Widerruf
+### 15.10. E-Commerce Kauf und Widerruf
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.11. Entscheidungsvorlage
+### 15.11. Entscheidungsvorlage
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.12. Fahrradreparatur und kleine Dienstleistungen
+### 15.12. Fahrradreparatur und kleine Dienstleistungen
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.13. Fahrradreparatur und Nachbesserung
+### 15.13. Fahrradreparatur und Nachbesserung
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.14. Fake-Shop und Chargeback
+### 15.14. Fake-Shop und Chargeback
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

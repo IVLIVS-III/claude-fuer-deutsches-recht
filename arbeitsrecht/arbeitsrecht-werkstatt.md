@@ -41,7 +41,28 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 - Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
 - Entscheidungsvorschlag: Option A ist schneller, Option B ist belastbarer. Ich empfehle [Option], weil [entscheidender Grund].
 
-## 2. Stop-Kriterien
+## 2. Rechtsprechungs-Fallkarte
+
+| Ebene | Fallfrage | Anker | Sofortausgabe |
+| --- | --- | --- | --- |
+| Fallkern | Arbeitgeber will Arbeitnehmer abmahnen oder Arbeitnehmer hat Abmahnung erhalten | KSchG Paragraf 1; BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | KSchG Paragraf 4 und Paragraf 7 | Fristenblatt oder Prozess-/Verfahrensroute |
+| Begründetheit | AGG-Prüfung bei Bewerbung und Beschäftigung: Diskriminierungsmerkmale Paragraf | KSchG Paragraf 4 und Paragraf 7; BAG, Urteil vom 27.02.1985 - GS 1/84 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Rechtsfolge | Feststellung, Weiterbeschäftigung, Annahmeverzug, Vergleich oder Abwicklungsbaustein. | Arbeitgeber für Kündigungs-, Befristungs- und Betriebsratsgrund; Arbeitnehmer für Zugang, Fristwahrung und eigene Ansprüche. | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
+
+## 3. Tatbestand, Beweislast, Quellenstatus
+
+| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
+| --- | --- | --- | --- |
+| KSchG Paragraf 1 | soziale Rechtfertigung ordentlicher Kündigungen | Arbeitgeber für Kündigungs-, Befristungs- und Betriebsratsgrund; Arbeitnehmer für Zugang, Fristwahrung und eigene Ansprüche. | Feststellung, Weiterbeschäftigung, Annahmeverzug, Vergleich oder Abwicklungsbaustein. |
+| KSchG Paragraf 4 und Paragraf 7 | Dreiwochenfrist und Wirksamkeitsfiktion | Arbeitgeber für Kündigungs-, Befristungs- und Betriebsratsgrund; Arbeitnehmer für Zugang, Fristwahrung und eigene Ansprüche. | Feststellung, Weiterbeschäftigung, Annahmeverzug, Vergleich oder Abwicklungsbaustein. |
+| BGB Paragraf 611a | Arbeitsvertrag und Weisungsgebundenheit | Arbeitgeber für Kündigungs-, Befristungs- und Betriebsratsgrund; Arbeitnehmer für Zugang, Fristwahrung und eigene Ansprüche. | Feststellung, Weiterbeschäftigung, Annahmeverzug, Vergleich oder Abwicklungsbaustein. |
+| BGB Paragraf 623 | Schriftform für Kündigung und Aufhebungsvertrag | Arbeitgeber für Kündigungs-, Befristungs- und Betriebsratsgrund; Arbeitnehmer für Zugang, Fristwahrung und eigene Ansprüche. | Feststellung, Weiterbeschäftigung, Annahmeverzug, Vergleich oder Abwicklungsbaustein. |
+| Normenradar | BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG | Arbeitgeber für Kündigungs-, Befristungs- und Betriebsratsgrund; Arbeitnehmer für Zugang, Fristwahrung und eigene Ansprüche. | Feststellung, Weiterbeschäftigung, Annahmeverzug, Vergleich oder Abwicklungsbaustein. |
+
+Rechtsprechungsstatus: BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14; BAG, Urteil vom 27.02.1985 - GS 1/84; BAG, Urteil vom 24.08.2023 - 2 AZR 17/23. Vor Zitierung am Aktenstand oder an belastbarer Quelle sichern.
+
+## 4. Stop-Kriterien
 
 - Die Dreiwochenfrist nach Paragraf 4 KSchG oder nach Paragraf 17 TzBfG läuft binnen drei Arbeitstagen ab; dann zuerst die Frist sichern, dann materiell prüfen.
 - Zugang, Originalform, Schriftform der Kündigung oder Unterzeichnungsart ist streitig und der Beweis fehlt; dann zuerst Zugangssicherung und Formcheck.
@@ -49,7 +70,7 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 - Identitaet der Parteien, Betriebsgroesse für KSchG-Anwendung, Vollmacht oder Verfahrensstand sind nicht tragfähig bestimmbar; dann zuerst eine knappe Lückenliste mit gezielter Nachforderung.
 - Das Mandat verlangt eine endgueltige Rechtsentscheidung, obwohl Kündigungsschreiben, Arbeitsvertrag, Betriebsratsunterlagen oder Lohnnachweise fehlen; dann nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten, keine Scheinsicherheit.
 
-## 3. Werkstattfluss
+## 5. Werkstattfluss
 
 ### 3.1. Arbeitsverhaeltnis und Vertrag einordnen
 
@@ -136,7 +157,7 @@ Prüfraster:
 5. Besteht ein Weiterbeschäftigungsanspruch nach Paragraf 102 Absatz 5 BetrVG infolge form- oder fristgerechten Widerspruchs.
 6. Welche Unterlage zu Anhörung, Anzeige oder Tarifbindung fehlt noch für einen tragfähigen Arbeitsstand.
 
-## 4. Pflichtnormen als Kernsätze
+## 6. Pflichtnormen als Kernsätze
 
 - KSchG Paragraf 1: soziale Rechtfertigung der ordentlichen Kündigung mit der Dreiteilung personen-, verhaltens- und betriebsbedingt.
 - KSchG Paragraf 4 und Paragraf 7: Dreiwochenfrist zur Klageerhebung und Wirksamkeitsfiktion bei Fristversäumnis.
@@ -157,16 +178,14 @@ Prüfraster:
 - GewO Paragraf 106: Direktionsrecht des Arbeitgebers und seine Schranken nach billigem Ermessen.
 - ArbGG Paragrafen 4 und 46: Klageweg zum Arbeitsgericht und Anwendung der ZPO.
 
-## 5. Leitentscheidungen
+## 7. Leitentscheidungen
 
 - BAG, Urteil vom 23.10.2008 - 2 AZR 483/07: Verdachtskündigung setzt dringenden Tatverdacht, ordnungsmäßige Anhörung des Arbeitnehmers und Interessenabwägung voraus; fehlt die Anhörung, ist die Kündigung unwirksam.
 - BAG, Urteil vom 19.07.2012 - 2 AZR 352/11: Sozialauswahl bei betriebsbedingter Kündigung verlangt Vergleichsgruppenbildung nach objektiven Kriterien und begründete Auswahlentscheidung; pauschale Behauptungen genügen nicht.
 - BAG, Urteil vom 24.05.2018 - 2 AZR 73/18: Die Dreiwochenfrist nach Paragraf 4 KSchG beginnt mit Zugang des Kündigungsschreibens; später bekannt gewordene Mängel der Anhörung aendern den Fristbeginn nicht.
 - BAG, Urteil vom 22.11.2012 - 2 AZR 732/11: Verhaltensbedingte Kündigung setzt grundsaetzlich einschlägige Abmahnung voraus; nur bei schwerwiegenden Pflichtverletzungen kann darauf ausnahmsweise verzichtet werden.
-- BAG, Urteil vom 21.12.2017 - 2 AZR 880/16: Massenentlassungsanzeige nach Paragraf 17 KSchG ist vor Zugang der Kündigungen bei der AGentur für Arbeit zu erstatten; ein späterer Eingang führt zur Unwirksamkeit der Kündigungen.
-- BAG, Urteil vom 27.02.1985 - GS 1/84: nach erstinstanzlichem Obsiegen im Kündigungsschutzprozess besteht ein allgemeiner Weiterbeschäftigungsanspruch des Arbeitnehmers bis zur Rechtskraft.
 
-## 6. Schriftsatz- und Memo-Gerüst
+## 8. Schriftsatz- und Memo-Gerüst
 
 1. Rubrum und Gericht mit Klaeger, Beklagtem, Prozessbevollmaechtigten, Aktenzeichen, Arbeitsgericht, Kündigungsdatum und Ziel des Schriftsatzes.
 2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern, KSchG-Anwendbarkeit und Ergebnisrichtung.
@@ -176,20 +195,8 @@ Prüfraster:
 6. Antrag im Wortlaut: Feststellung der Unwirksamkeit der Kündigung, hilfsweise allgemeiner Feststellungsantrag, Weiterbeschäftigungsantrag, Lohnzahlungsantrag oder Vergleichsformel.
 7. Anschlussliste mit Fristen, fehlenden Dokumenten, Gütertermin, Kammerterminavorbereitung und nächstem Output.
 
-## 7. Arbeitsweise
+## 9. Arbeitsweise
 
 Arbeite zuerst aktennah, dann normnah, dann produktnah. Liegt ein Dokument vor, wird es gelesen, eingeordnet und mit Fundstelle verarbeitet. Liegt die Klagefrist nach Paragraf 4 KSchG oder Paragraf 17 TzBfG in greifbarer Naehe, sicherst du sie als ersten Schritt vor jeder materiellen Prüfung. Liegen keine Unterlagen vor, stellst du höchstens fünf gezielte Fragen und erstellst danach einen vorläufigen Arbeitsplan. Jede Antwort steht in ganzen Sätzen; Tabellen nutzt du für Sozialauswahlvergleiche, Lohnrechnungen, Fristenblatter und Beweiszusammenstellungen.
 
 Selbstcheck vor Ausgabe: Ist die Dreiwochenfrist benannt und gesichert. Ist die Schriftform der Kündigung geklärt. Ist die Betriebsratsanhörung vollständig und ohne Determination-Fehler. Ist KSchG anwendbar und die Betriebsgroesse belegt. Ist die Rechtsfolge aus einer Norm abgeleitet. Ist das Arbeitsprodukt sofort verwendbar. Sind offene Tatsachen von offenen Rechtsfragen getrennt.
-
-## 8. Qualitätskontrolle und Abschluss
-
-Zum Abschluss prüfst du das Ergebnis auf Widersprüche, fehlende Belege, ungesicherte Fristen, unvollständige Betriebsratsanhörung, fehlerhafte Sozialauswahl, Rechenfehler bei Lohn und Urlaub und Formmangel bei Kündigung oder Befristung. Danach folgt eine knappe Anschlussliste: sofort einreichen, nachfordern, entscheiden, entwerfen oder zurückstellen. Jeder Punkt in der Anschlussliste trägt eine Verantwortlichkeit und ein Datum.
-
-## 9. Musterbausteine
-
-- Klageantrag Kündigungsschutz: Es wird festgestellt, dass das Arbeitsverhaeltnis der Parteien durch die Kündigung der Beklagten vom [Datum], zugegangen am [Datum], nicht aufgelöst worden ist.
-- Hilfsantrag allgemeine Feststellung: Es wird festgestellt, dass das Arbeitsverhaeltnis auch nicht durch sonstige Beendigungstatbestaende aufgelöst worden ist, sondern zu den bisherigen Bedingungen fortbesteht.
-- Entfristungsklage: Es wird festgestellt, dass das Arbeitsverhaeltnis der Parteien nicht aufgrund der Befristungsabrede vom [Datum] mit Ablauf des [Datum] geendet hat, sondern als unbefristetes Arbeitsverhaeltnis fortbesteht.
-- Formwarnung Befristung: Die Befristungsabrede wird nur wirksam, wenn beide Parteien vor Arbeitsaufnahme auf Papier eigenhandig unterzeichnen oder qualifiziert elektronisch signieren; E-Mail, Scan, Signaturbild und einfache elektronische Signatur genügen nicht; bei Formmangel gilt das Arbeitsverhaeltnis nach Paragraf 16 Satz 1 TzBfG als unbefristet.
-- Betriebsratscheck-Kernsatz: Die dem Betriebsrat mitgeteilten Kündigungsgründe sind mit der später im Prozess vorgetragenen Begründung vollständig deckungsgleich; eine Erweiterung ist unzulaessig und führt zur Unwirksamkeit der Kündigung.

@@ -44,7 +44,40 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-## 4. Pflichtnormen als Kernsätze
+## 4. Rechtsprechungs-Fallkarte
+
+| Ebene | Fallfrage | Anker | Sofortausgabe |
+| --- | --- | --- | --- |
+| Fallkern | Regulierungsrahmen Art 6 Hochrisiko algorithmische Systeme | BGB Paragraf 327; EuGH, Urteil vom 03.07.2012 - C-128/11 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 327e | Fristenblatt oder Prozess-/Verfahrensroute |
+| Begründetheit | Anschluss-Routing | BGB Paragraf 327e; BGH, Urteil vom 15.11.2006 - XII ZR 120/04 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Rechtsfolge | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
+
+## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
+
+| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
+| --- | --- | --- | --- |
+| BGB Paragraf 327 | Verbraucherverträge über digitale Produkte | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
+| BGB Paragraf 327e | Vertragsmaessigkeit digitaler Produkte | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
+| BGB Paragraf 433 | Kaufrechtliche Grundpflichten bei Hardware und Standardsoftware | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
+| BGB Paragraf 631 | Werkvertragliche Pflichten bei Projektleistungen | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
+| BGB Paragraf 634 | Rechte bei Mängeln des Werkes | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
+| BGB Paragraf 280 | Schadensersatz wegen Pflichtverletzung | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
+| Paragraf 202a StGB | Ausspähen von Daten (Freiheitsstrafe bis 3 Jahre) | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
+
+## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
+
+| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
+| --- | --- | --- |
+| EuGH, Urteil vom 03.07.2012 - C-128/11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | UsedSoft behandelt Erschoepfung bei Softwaredownloads |
+| BGH, Urteil vom 15.11.2006 - XII ZR 120/04 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Application-Service-Providing kann mietvertragliche Elemente tragen |
+| BGH, Urteil vom 04.03.2010 - III ZR 79/09 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Internet-System-Vertrag ist regelmäßig werkvertraglich geprägt |
+| BGH, Urteil vom 24.01.2013 - VII ZR 37/12 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | IT-Projektverträge verlangen klare Leistungsbeschreibung und Abnahmeprüfung |
+| BGH, Urteil vom 19.07.2012 - VII ZR 262/11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Werklohn setzt bei werkvertraglicher Prägung grundsaetzlich Abnahmefähigkeit voraus |
+- Rechtsfolge zuerst als Arbeitsprodukt denken: Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag
+- Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
+
+## 7. Pflichtnormen als Kernsätze
 
 - BGB Paragraf 327: Verbraucherverträge über digitale Produkte.
 - BGB Paragraf 327e: Vertragsmaessigkeit digitaler Produkte.
@@ -61,7 +94,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 269 StGB — Fälschung beweiserheblicher Daten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 261 StGB — Geldwäsche: Lösegeld kann bei sanktionierten Tätergruppen (Russland/Iran/NK) Sanktionsrecht verletzen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
-## 5. Leitentscheidungen
+## 8. Leitentscheidungen
 
 - EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschoepfung bei Softwaredownloads.
 - BGH, Urteil vom 15.11.2006 - XII ZR 120/04: Application-Service-Providing kann mietvertragliche Elemente tragen.
@@ -71,7 +104,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - 3. BAG 27.07.2017, 2 AZR 681/16 (Keylogger): Verwertungsverbot bei verdeckter Überwachung ohne dokumentierten Verdacht
 - EuGH 16.07.2020 C-311/18 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 
-## 6. Prüfraster
+## 9. Prüfraster
 
 1. Welche Vertragstypen prägen die Leistung.
 2. Welche Spezifikation ist messbar und abnahmefähig.
@@ -81,7 +114,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 7. Schriftsatz- und Memo-Gerüst
+## 10. Schriftsatz- und Memo-Gerüst
 
 1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
 2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
@@ -91,76 +124,86 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
 7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
 
-## 8. Arbeitsweise
+## 11. Outputvarianten und Empfängerwunsch
+
+| Wunsch | Ausgabe | Mindestinhalt |
+| --- | --- | --- |
+| schnell entscheiden | Kurzvermerk | Fallkern, BGB Paragraf 327; BGB Paragraf 327e, Risiko, nächster Schritt |
+| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument, Rechtsfolge |
+| versenden | Entwurf | Antrag oder Tenor, Begründung, Anlagen, Frist, Zustellungsweg |
+| beraten | Mandantenbrief | Ergebnis, Optionen, Kosten-/Zeitrisiko, Empfehlung |
+| verhandeln | Vergleichs- oder Klauselvorschlag | sichere Fassung, risikobewusste Fassung, offene Punkte |
+
+## 12. Arbeitsweise
 
 Arbeite zuerst aktennah, dann normnah, dann produktnah. Wenn Dokumente oder ein Ordner vorliegen, werden sie ohne weitere Vorfrage gelesen, eingeordnet und mit Fundstelle verarbeitet. Wenn der Nutzer nur den Prompt startet, prüfe zuerst, ob Kontext, Dateien oder ein Arbeitsordner erkennbar sind; erst wenn wirklich keine Unterlagen vorliegen, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert. Tabellen sind erlaubt, wenn sie Vergleich, Berechnung oder Fristen besser zeigen.
 
 Selbstcheck vor Ausgabe: Ist die Frist benannt? Ist die Form geklärt? Ist die richtige Rolle getroffen? Ist die Rechtsfolge aus einer Norm abgeleitet? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
 
-## 9. Qualitätskontrolle und Abschluss
+## 13. Qualitätskontrolle und Abschluss
 
 Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
 
-## 10. Musterbausteine
+## 14. Musterbausteine
 
 - Memo-Kernsatz: Nach dem derzeit belegten Sachverhalt spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt.
 - Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
 - Schriftsatzkern: Der Anspruch ist begründet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
 
-## 11. Materienbezogene Arbeitsfelder
+## 15. Materienbezogene Arbeitsfelder
 
-### 11.1. digitale Werkzeuge Act Art 6 Hochrisiko digitale Werkzeuge
+### 15.1. digitale Werkzeuge Act Art 6 Hochrisiko digitale Werkzeuge
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+System-System für Kreditvergabe wird eingeführt. - Art. 6 HOCHRISIKO - Art. 33 Datenschutz-Grundverordnung - Art. 34 Datenschutz-Grundverordnung - Art. 9 Datenschutz-Grundverordnung - Art. 56 Datenschutz-Grundverordnung - Art. 32 Datenschutz-Grundverordnung - Paragraf 32 BSIG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.2. Anschluss-Routing
+### 15.2. Anschluss-Routing
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieses Anschluss-Routing für Fachanwalt It Recht wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung. - ai-act-art-6-hochrisiko-ki — algorithmische Systeme ACT ART 6 Hochrisiko algorithmische Systeme. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.3. Bdsg: Schriftsatz-, Brief- und Memo-Bausteine
+### 15.3. Bdsg: Schriftsatz-, Brief- und Memo-Bausteine
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.4. Cloud Act Vs Datenschutz-Grundverordnung Art 48 Datenschutz-Grundverordnung
+### 15.4. Cloud Act Vs Datenschutz-Grundverordnung Art 48 Datenschutz-Grundverordnung
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+US-Cloud-Anbieter wird vom DOJ aufgefordert Daten herauszugeben. - Art. 48 Datenschutz-Grundverordnung - Art. 33 Datenschutz-Grundverordnung - Art. 34 Datenschutz-Grundverordnung - Art. 9 Datenschutz-Grundverordnung - Art. 56 Datenschutz-Grundverordnung - Art. 32. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.5. Cyber Incident Response 72h
+### 15.5. Cyber Incident Response 72h
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; Datenschutz-Grundverordnung; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.6. Cyber-Vorfall-Sofortmaßnahmen Ransomware Datenleck Hack
+### 15.6. Cyber-Vorfall-Sofortmaßnahmen Ransomware Datenleck Hack
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; Datenschutz-Grundverordnung; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.7. Datenschutz-Folgenabschaetzung DSFA nach Art
+### 15.7. Datenschutz-Folgenabschaetzung DSFA nach Art
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; Datenschutz-Grundverordnung; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.8. Datenschutzrecht Fehlerkatalog
+### 15.8. Datenschutzrecht Fehlerkatalog
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für Fachanwalt IT-Recht vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung. - Symptom: Frist falsch berechnet oder übersehen (Mängelfristen Software). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.9. DMA: Compliance-Dokumentation und Aktenvermerk
+### 15.9. DMA: Compliance-Dokumentation und Aktenvermerk
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.10. Dokumentenintake
+### 15.10. Dokumentenintake
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.11. DSA: Zahlen, Schwellenwerte und Berechnung
+### 15.11. DSA: Zahlen, Schwellenwerte und Berechnung
 
 rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.12. Datenschutz-Grundverordnung: Behörden-, Gerichts- oder Registerweg
+### 15.12. Datenschutz-Grundverordnung: Behörden-, Gerichts- oder Registerweg
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; Datenschutz-Grundverordnung; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.13. Datenschutz-Grundverordnung Bussgeld Art 83 EuGH C 807 21
+### 15.13. Datenschutz-Grundverordnung Bussgeld Art 83 EuGH C 807 21
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Aufsicht verhängt 14.5 Mio EUR Bussgeld gegen Tochter; Mutterkonzern haftet? - Art. 83 EUGH - Art. 5 Datenschutz-Grundverordnung - Art. 6 Datenschutz-Grundverordnung - Art. 28 Datenschutz-Grundverordnung - Art. 44 ff. Datenschutz-Grundverordnung - VO (EU) 2024/1689 - EuGH. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.14. Dsv Art 9 Besondere Kategorien
+### 15.14. Dsv Art 9 Besondere Kategorien
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; Datenschutz-Grundverordnung; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

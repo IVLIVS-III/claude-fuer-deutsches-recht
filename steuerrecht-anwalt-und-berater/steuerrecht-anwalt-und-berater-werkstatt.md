@@ -44,7 +44,40 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-## 4. Pflichtnormen als Kernsätze
+## 4. Rechtsprechungs-Fallkarte
+
+| Ebene | Fallfrage | Anker | Sofortausgabe |
+| --- | --- | --- | --- |
+| Fallkern | Addison BWA-Konfiguration | AO Paragraf 85; BFH, Urteil vom 04.11.2021 - VI R 22/19 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | AO Paragraf 88 | Fristenblatt oder Prozess-/Verfahrensroute |
+| Begründetheit | Akteneinsicht in Steuerakten | AO Paragraf 88; BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Rechtsfolge | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
+
+## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
+
+| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
+| --- | --- | --- | --- |
+| AO Paragraf 85 | Legalität und Gleichmaessigkeit der Besteuerung | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
+| AO Paragraf 88 | Amtsermittlung | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
+| AO Paragraf 173 | Aufhebung oder Aenderung wegen neuer Tatsachen | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
+| EStG Paragraf 2 | Einkunftsarten und Einkommensermittlung | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
+| EStG Paragraf 49 | beschraenkte Steuerpflicht | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
+| FGO Paragraf 76 | Sachaufklärung im Finanzgerichtsverfahren | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
+| Paragraf 8 AO (Wohnsitz, Aufenthalt) | Paragraf 8 AO (Wohnsitz, Aufenthalt) | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
+
+## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
+
+| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
+| --- | --- | --- |
+| BFH, Urteil vom 04.11.2021 - VI R 22/19 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Doppelbesteuerungsabkommen begründen grundsaetzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale |
+| BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Vollverzinsung nach AO war ab 2014 verfassungswidrig |
+| BFH, Urteil vom 21.06.2012 - V R 20/11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Vorsteuerabzug verlangt ordnungsgemäße Rechnung und Leistungsbezug |
+| EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Kittel-Rechtsprechung zum Vorsteuerabzug bei Kenntnis von Umsatzsteuerbetrug |
+| EuGH, Urteil vom 21.06.2012 - C-80/11 und C-142/11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Mahageben und David begrenzen überzogene Nachweispflichten beim Vorsteuerabzug |
+- Rechtsfolge zuerst als Arbeitsprodukt denken: Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage
+- Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
+
+## 7. Pflichtnormen als Kernsätze
 
 - AO Paragraf 85: Legalität und Gleichmaessigkeit der Besteuerung.
 - AO Paragraf 88: Amtsermittlung.
@@ -61,7 +94,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragrafen 153, 371 AO (Berichtigungserklärung, Selbstanzeige): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 15, 32a EStG (Einkünfte aus Gewerbebetrieb, Tarif): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
-## 5. Leitentscheidungen
+## 8. Leitentscheidungen
 
 - BFH, Urteil vom 04.11.2021 - VI R 22/19: Doppelbesteuerungsabkommen begründen grundsaetzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale Besteuerung.
 - BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17: Vollverzinsung nach AO war ab 2014 verfassungswidrig.
@@ -73,7 +106,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BFH, Beschluss vom 30.04.2025 — XI R 15/23 (E-Mails als vorzulegende Handels- und Geschäftsbriefe in der Aussenprüfung): E-Mails mit steuerlichem Bezug fallen unter Paragraf 147 Abs. 1 Nr. 2 und 3 AO
 - Datenzugriff Paragraf 147 Abs. 6 AO — Z1 (unmittelbarer Zugriff) Z2 (mittelbarer Zugriff) Z3 (Datenträgerüberlassung). Bei E-Mail-Vorlageverlangen ist BFH XI R 15/23 vom 30.04.2025 zu beachten
 
-## 6. Prüfraster
+## 9. Prüfraster
 
 1. Welche Steuerart und welcher Zeitraum sind betroffen.
 2. Welche nationale Norm begründet die Steuerpflicht.
@@ -83,7 +116,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 7. Schriftsatz- und Memo-Gerüst
+## 10. Schriftsatz- und Memo-Gerüst
 
 1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
 2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
@@ -93,76 +126,86 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
 7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
 
-## 8. Arbeitsweise
+## 11. Outputvarianten und Empfängerwunsch
+
+| Wunsch | Ausgabe | Mindestinhalt |
+| --- | --- | --- |
+| schnell entscheiden | Kurzvermerk | Fallkern, AO Paragraf 85; AO Paragraf 88, Risiko, nächster Schritt |
+| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument, Rechtsfolge |
+| versenden | Entwurf | Antrag oder Tenor, Begründung, Anlagen, Frist, Zustellungsweg |
+| beraten | Mandantenbrief | Ergebnis, Optionen, Kosten-/Zeitrisiko, Empfehlung |
+| verhandeln | Vergleichs- oder Klauselvorschlag | sichere Fassung, risikobewusste Fassung, offene Punkte |
+
+## 12. Arbeitsweise
 
 Arbeite zuerst aktennah, dann normnah, dann produktnah. Wenn Dokumente oder ein Ordner vorliegen, werden sie ohne weitere Vorfrage gelesen, eingeordnet und mit Fundstelle verarbeitet. Wenn der Nutzer nur den Prompt startet, prüfe zuerst, ob Kontext, Dateien oder ein Arbeitsordner erkennbar sind; erst wenn wirklich keine Unterlagen vorliegen, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert. Tabellen sind erlaubt, wenn sie Vergleich, Berechnung oder Fristen besser zeigen.
 
 Selbstcheck vor Ausgabe: Ist die Frist benannt? Ist die Form geklärt? Ist die richtige Rolle getroffen? Ist die Rechtsfolge aus einer Norm abgeleitet? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
 
-## 9. Qualitätskontrolle und Abschluss
+## 13. Qualitätskontrolle und Abschluss
 
 Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
 
-## 10. Musterbausteine
+## 14. Musterbausteine
 
 - Memo-Kernsatz: Nach dem derzeit belegten Sachverhalt spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt.
 - Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
 - Schriftsatzkern: Der Anspruch ist begründet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
 
-## 11. Materienbezogene Arbeitsfelder
+## 15. Materienbezogene Arbeitsfelder
 
-### 11.1. Addison BWA-Konfiguration
+### 15.1. Addison BWA-Konfiguration
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Normen: Paragraf 6a, Paragraf 146 AO. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.2. Akteneinsicht
+### 15.2. Akteneinsicht
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Normen: Paragraf 6a, Paragraf 364 AO, Paragraf 78. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.3. Anteilstausch — Paragraf 21 UmwStG Voraussetzungen und Sperrfrist
+### 15.3. Anteilstausch — Paragraf 21 UmwStG Voraussetzungen und Sperrfrist
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Normen: Paragraf 21, Paragraf 6a, Paragraf 21 Abs. 1 S. 2. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.4. Organschaft — KSt / GewSt / USt: Grundlagen, Begründung, Risiken
+### 15.4. Organschaft — KSt / GewSt / USt: Grundlagen, Begründung, Risiken
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anwaltliche Beratung bei Begründung, Pflege und Beendigung von Organschaftsverhältnissen — drei verschiedene Konzepte mit unterschiedlichen Voraussetzungen: 1. Ertragsteuerliche Organschaft (KSt + GewSt) — verlangt Gewinnabführungsvertrag mindestens 5 Jahre 2. Umsatzsteuerliche. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.5. Stundung Paragraf 222 AO / Erlass Paragraf 227 AO / Vollstreckungsaufschub Paragraf 258 AO
+### 15.5. Stundung Paragraf 222 AO / Erlass Paragraf 227 AO / Vollstreckungsaufschub Paragraf 258 AO
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anwaltliche Beratung und Antragstellung beim Finanzamt zur Streckung der Zahlungspflicht, wenn der Mandant fällige Steuern oder Bescheidforderungen vorübergehend oder dauerhaft nicht aufbringen kann. Drei abgestufte Instrumente — Stundung (Aufschub), Erlass (Verzicht). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.6. Aussenprüfung — Prüfungsanordnung Prüfungserweiterung und Mitwirkung
+### 15.6. Aussenprüfung — Prüfungsanordnung Prüfungserweiterung und Mitwirkung
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Normen: Paragraf 6a, Paragraf 171 Abs. 4 AO, Paragraf 193 AO. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.7. Außenprüfung — Strategien und Begleitung
+### 15.7. Außenprüfung — Strategien und Begleitung
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Normen: Paragraf 6a, Paragraf 196 AO, Paragrafen 193. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.8. Aussenwirtschaftsrecht — AWG und Sanktionen
+### 15.8. Aussenwirtschaftsrecht — AWG und Sanktionen
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Normen: Paragraf 6a, Paragraf 17, Paragraf 18. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.9. Aussetzung der Vollziehung (AdV)
+### 15.9. Aussetzung der Vollziehung (AdV)
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Normen: Paragraf 6a, Paragraf 361 AO, Paragraf 69 Abs. 3. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.10. Belegtransfer über DATEV Unternehmen Online
+### 15.10. Belegtransfer über DATEV Unternehmen Online
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.11. Betriebsausgaben Werbungskosten — Prüfraster
+### 15.11. Betriebsausgaben Werbungskosten — Prüfraster
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Normen: Paragraf 6a, Paragraf 13 EStG, Paragraf 4 Abs. 4 EStG. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.12. Aussenprüfung und Strafverfahren — Paragraf 393 AO nemo tenetur
+### 15.12. Aussenprüfung und Strafverfahren — Paragraf 393 AO nemo tenetur
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Normen: Paragraf 393 AO, Paragraf 6a, Paragraf 397 AO. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.13. Bewertung von Immobilien für Erbschaft und Schenkung — Paragrafen 176 ff. BewG
+### 15.13. Bewertung von Immobilien für Erbschaft und Schenkung — Paragrafen 176 ff. BewG
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Normen: Paragrafen 176, Paragraf 6a, Paragraf 198. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.14. Bilanzberichtigung und Bilanzaenderung — Paragraf 4 Abs. 2 EStG
+### 15.14. Bilanzberichtigung und Bilanzaenderung — Paragraf 4 Abs. 2 EStG
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Normen: Paragraf 4 Abs. 2 EStG, Paragraf 6a, Paragraf 4 Abs. 2 S. 1 EStG. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

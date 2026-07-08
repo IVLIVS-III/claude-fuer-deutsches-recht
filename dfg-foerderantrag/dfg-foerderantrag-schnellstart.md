@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Chronologie und Belegmatrix: Dieser Arbeitsgang macht Chronologie und Belegmatrix im Bereich dfg-förderantrag sofort bearbeitbar: erst Akte.
 6. DFG-Antrag bis 200.000 Euro: Anträge bis 200.000 Euro Gesamtsumme können verfahrenspraktisch schlanker laufen — die DFG-FAQ zur Begutachtung.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | Art. 5 Abs. 3 Satz 1 GG; Art. 91b Abs. 1 GG; Paragraf 48 Abs. 1 VwVfG |
+| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Tatbestand | Arbeitsfokus: Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung. Prüfe diese Anker am Sachverhalt; ergänze |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Chronologie und Belegmatrix | Dieser Arbeitsgang macht Chronologie und Belegmatrix im Bereich dfg-förderantrag sofort bearbeitbar: erst Akte. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | DFG-Antrag bis 200.000 Euro | Anträge bis 200.000 Euro Gesamtsumme können verfahrenspraktisch schlanker laufen — die DFG-FAQ zur Begutachtung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 91b Abs. 1 GG — Forschungsförderung im Bund-Länder-System: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -46,10 +57,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 28 Abs. 1 VwVfG — Anhörungslogik als Mindeststandard bei belastenden Förderentscheidungen, soweit Verwaltungsverfahrensrecht anwendbar ist: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung, Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien, Anschluss-Routing, Anträge: Zahlen, Schwellenwerte und Berechnung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung, Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien, Anschluss-Routing, Anträge: Zahlen, Schwellenwerte und Berechnung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

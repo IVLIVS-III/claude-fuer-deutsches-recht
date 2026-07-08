@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Leasingrecht Praxis ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
 
 # Leasingrecht Praxis — Schnellstart
 
@@ -17,42 +17,55 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. AGB-Kontrolle im Leasingvertrag: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste.
-2. Asset Tracking und Eigentumskennzeichnung im Leasing: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
-3. Leasing von Netzwerkequipment: Router, Switches, Access Points: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
-4. Leasingbilanzierung: HGB, Paragraf 39 AO und IFRS 16: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
-5. CNC-Maschinen-Leasing: Abnahme, Mängel und Wartung: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
-6. Datenschutz und Telematik im Fahrzeugleasing: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
+1. Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen.
+2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen.
+3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
+4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
+5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+6. AGB-Kontrolle im Leasingvertrag: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | BGB Paragraf 705; HGB Paragraf 105; GmbHG Paragraf 13 |
+| Rechtsprechung | BGH, Urteil vom 29.01.2001 - II ZR 331/00; BGH, Urteil vom 04.07.2005 - II ZR 354/03 |
+| Tatbestand | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen |
+| Beweislast | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment |
+| Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| AGB-Kontrolle im Leasingvertrag | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Asset Tracking und Eigentumskennzeichnung im Leasing | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Leasing von Netzwerkequipment: Router, Switches, Access Points | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Leasingbilanzierung: HGB, Paragraf 39 AO und IFRS 16 | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| CNC-Maschinen-Leasing: Abnahme, Mängel und Wartung | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Datenschutz und Telematik im Fahrzeugleasing | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AGB-Kontrolle im Leasingvertrag | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Asset Tracking und Eigentumskennzeichnung im Leasing | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Leasing von Netzwerkequipment: Router, Switches, Access Points | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Leasingbilanzierung: HGB, Paragraf 39 AO und IFRS 16 | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| CNC-Maschinen-Leasing: Abnahme, Mängel und Wartung | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Datenschutz und Telematik im Fahrzeugleasing | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
+- BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
+- HGB Paragraf 105: offene Handelsgesellschaft.
+- GmbHG Paragraf 13: Rechtsnatur der GmbH.
+- GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
 - Paragraf 305 BGB: Einbeziehungsvoraussetzungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 305c BGB: Überraschende und mehrdeutige Klauseln: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 307 BGB: Generalklausel (unangemessene Benachteiligung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 308 BGB: Klauselverbote mit Wertungsmöglichkeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 309 BGB: Klauselverbote ohne Wertungsmöglichkeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 310 BGB: Bereichsausnahmen (B2B, B2C): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 506–509 BGB: Verbraucherleasing-Pflichtangaben: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
+- BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
 - Bewertung: BGH – wirksam bei Finanzierungsleasing (BGH VIII ZR 71/93), da LN wirtschaftlicher Eigentümer ist. Bei Operating-Lease und gegenüber Verbrauchern problematisch (Paragraf 309 Nr. 12 BGB)
 - Bewertung: Grundsätzlich wirksam, wenn die Abtretung tatsächlich erfolgt und LN klagebefugt wird. Unwirksam, wenn Abtretung ins Leere geht (Lieferant insolvent, Frist abgelaufen) und LN dann schutzlos
 - Bewertung: Zulässig als Schadensersatz (BGH, Urteil vom 14.03.2007 - VIII ZR 68/06), aber LN muss sich ersparte Aufwendungen und Verwertungserlös anrechnen lassen dürfen. Klauseln, die Anrechnung
-- Bewertung: Restwertgarantien können wirksam sein, müssen aber klar und transparent formuliert sein (Paragraf 307 Abs. 1 Satz 2 BGB). Als frei prüfbare Anker zur Verbraucherleasing-Restwertgarantie kommen
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder AGB-Kontrolle im Leasingvertrag, Asset Tracking und Eigentumskennzeichnung im Leasing, Leasing von Netzwerkequipment: Router, Switches, Access Points, Leasingbilanzierung: HGB, Paragraf 39 AO und IFRS 16: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder AGB-Kontrolle im Leasingvertrag, Asset Tracking und Eigentumskennzeichnung im Leasing, Leasing von Netzwerkequipment: Router, Switches, Access Points, Leasingbilanzierung: HGB, Paragraf 39 AO und IFRS 16: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

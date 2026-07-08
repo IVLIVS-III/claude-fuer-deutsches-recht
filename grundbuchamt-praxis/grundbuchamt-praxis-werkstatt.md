@@ -14,34 +14,6 @@ Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unter
 
 Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
 
-### 1.2. Ausgabeformate für schnelle Lieferung
-
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Frist oder Eilsache | Fristenblatt mit nächstem Handlungstag | Fristbeginn, Fristende, Zuständigkeit und Zustellungsweg trennen |
-| Schriftsatz oder Antrag | Antragssatz plus drei tragende Begründungsabsätze | Jede Tatsache bekommt Beleg oder Lückenmarke |
-| Mandantenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko und Kostenfolge getrennt ausweisen |
-| Interner Vermerk | Kurzlage, Rechtsanker, Entscheidungsvorschlag | offene Tatsachen nicht als Rechtsunsicherheit tarnen |
-| Vertrag oder Klausel | Entwurfsfassung mit Kommentarrand | sichere Fassung, ausgewogene Fassung und Risikofassung unterscheiden |
-| Gericht oder Behörde | Verfügung, Beschluss- oder Bescheidentwurf | Tenor, Gründe, Nebenentscheidungen und Zustellung mitdenken |
-
-### 1.3. Rückfragenbremse
-
-1. Wenn Dokumente oder ein Ordner vorliegen, zuerst lesen und verwerten; nicht nacherzählen lassen und nicht um Uploads bitten, die schon vorhanden sind.
-2. Wenn der Nutzer nur den Skill startet, mit dem vorhandenen Kontext beginnen: Aktenkern, Frist, Rechtsanker, erstes Arbeitsprodukt.
-3. Wenn Informationen fehlen, nur die Punkte fragen, die das nächste Arbeitsprodukt ändern.
-4. Wenn mehrere Wege möglich sind, die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Wenn eine Frist, Zuständigkeit oder Form unklar ist, zuerst diesen Engpass sichern.
-6. Wenn der Nutzer nur ein Ergebnis braucht, keine Lehrbuchprüfung ausgeben; die Begründung bleibt knapp und belastbar.
-
-### 1.4. Mini-Gerüste
-
-- Sofortvermerk: Nach derzeitigem Stand spricht mehr für [Ergebnis], weil [Norm] an [Tatbestandsmerkmal] anknüpft und [Beleg] diesen Punkt trägt. Offen bleibt [Lücke]. Nächster Schritt: [Handlung].
-- Schriftsatzkern: Der Antrag ist begründet, weil [Tatsache] durch [Beweismittel] belegt ist und [Norm] daraus [Rechtsfolge] ableitet.
-- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg/Norm/Beweislast]. Prozessrisiko: [niedrig/mittel/hoch].
-- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
-- Entscheidungsvorschlag: Option A ist schneller, Option B ist belastbarer. Ich empfehle [Option], weil [entscheidender Grund].
-
 ## 2. Stop-Kriterien
 
 - Frist oder Form kann nicht sicher bestimmt werden.
@@ -72,7 +44,36 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-## 4. Pflichtnormen als Kernsätze
+## 4. Rechtsprechungs-Fallkarte
+
+| Ebene | Fallfrage | Anker | Sofortausgabe |
+| --- | --- | --- | --- |
+| Fallkern | Abteilung I Eigentum | Paragraf 873 Abs. 1 BGB; BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Paragraf 873 Abs. 1 BGB | Fristenblatt oder Prozess-/Verfahrensroute |
+| Begründetheit | Abteilung II nicht übersehen | Paragraf 873 Abs. 1 BGB; BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
+
+## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
+
+| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
+| --- | --- | --- | --- |
+| Paragraf 873 Abs. 1 BGB | dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 873 Abs. 1 BGB | dingliche Einigung und Eintragung | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 925 Abs. 1 BGB | Auflassung | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 1113 Abs. 1 BGB | Hypothek | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 1191 Abs. 1 BGB | Grundschuld | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| GG Art. 1, 3, 20 (Grundrechte, Rechtsstaat) | GG Art. 1, 3, 20 (Grundrechte, Rechtsstaat) | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| BGB Paragrafen 133, 157, 242 (Auslegung, Treu und Glauben) | BGB Paragrafen 133, 157, 242 (Auslegung, Treu und Glauben) | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+
+## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
+
+| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
+| --- | --- | --- |
+| BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+- Rechtsfolge zuerst als Arbeitsprodukt denken: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt
+- Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
+
+## 7. Pflichtnormen als Kernsätze
 
 - Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -83,11 +84,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGB Paragrafen 133, 157, 242 (Auslegung, Treu und Glauben): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - VwVfG Paragrafen 28, 35, 48, 49 (Anhörung, Verwaltungsakt, Rücknahme/Widerruf): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
-## 5. Leitentscheidungen
+## 8. Leitentscheidungen
 
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
-## 6. Prüfraster
+## 9. Prüfraster
 
 1. Wer will was von wem woraus.
 2. Welche Frist, Form oder Zuständigkeit kann das Ergebnis kippen.
@@ -97,7 +98,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 7. Schriftsatz- und Memo-Gerüst
+## 10. Schriftsatz- und Memo-Gerüst
 
 1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
 2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
@@ -107,76 +108,86 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
 7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
 
-## 8. Arbeitsweise
+## 11. Outputvarianten und Empfängerwunsch
+
+| Wunsch | Ausgabe | Mindestinhalt |
+| --- | --- | --- |
+| schnell entscheiden | Kurzvermerk | Fallkern, Paragraf 873 Abs. 1 BGB; Paragraf 873 Abs. 1 BGB, Risiko, nächster Schritt |
+| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument, Rechtsfolge |
+| versenden | Entwurf | Antrag oder Tenor, Begründung, Anlagen, Frist, Zustellungsweg |
+| beraten | Mandantenbrief | Ergebnis, Optionen, Kosten-/Zeitrisiko, Empfehlung |
+| verhandeln | Vergleichs- oder Klauselvorschlag | sichere Fassung, risikobewusste Fassung, offene Punkte |
+
+## 12. Arbeitsweise
 
 Arbeite zuerst aktennah, dann normnah, dann produktnah. Wenn Dokumente oder ein Ordner vorliegen, werden sie ohne weitere Vorfrage gelesen, eingeordnet und mit Fundstelle verarbeitet. Wenn der Nutzer nur den Prompt startet, prüfe zuerst, ob Kontext, Dateien oder ein Arbeitsordner erkennbar sind; erst wenn wirklich keine Unterlagen vorliegen, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert. Tabellen sind erlaubt, wenn sie Vergleich, Berechnung oder Fristen besser zeigen.
 
 Selbstcheck vor Ausgabe: Ist die Frist benannt? Ist die Form geklärt? Ist die richtige Rolle getroffen? Ist die Rechtsfolge aus einer Norm abgeleitet? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
 
-## 9. Qualitätskontrolle und Abschluss
+## 13. Qualitätskontrolle und Abschluss
 
 Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
 
-## 10. Musterbausteine
+## 14. Musterbausteine
 
 - Memo-Kernsatz: Nach dem derzeit belegten Sachverhalt spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt.
 - Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
 - Schriftsatzkern: Der Anspruch ist begründet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
 
-## 11. Materienbezogene Arbeitsfelder
+## 15. Materienbezogene Arbeitsfelder
 
-### 11.1. Abteilung I Eigentum
+### 15.1. Abteilung I Eigentum
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.2. Abteilung II nicht übersehen
+### 15.2. Abteilung II nicht übersehen
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.3. Abteilung III Belastungen
+### 15.3. Abteilung III Belastungen
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.4. Vollzugsfehler und Haftung
+### 15.4. Vollzugsfehler und Haftung
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.5. Aufgebotsverfahren planen
+### 15.5. Aufgebotsverfahren planen
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.6. Auflassung und Umschreibung
+### 15.6. Auflassung und Umschreibung
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.7. Auflassungsvormerkung
+### 15.7. Auflassungsvormerkung
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.8. Auslandsurkunden beim Grundbuchamt
+### 15.8. Auslandsurkunden beim Grundbuchamt
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.9. Baulast neben Grundbuch
+### 15.9. Baulast neben Grundbuch
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.10. Grundbuchbeschwerde
+### 15.10. Grundbuchbeschwerde
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.11. Bestandsverzeichnis verstehen
+### 15.11. Bestandsverzeichnis verstehen
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.12. Briefrecht übertragen oder löschen
+### 15.12. Briefrecht übertragen oder löschen
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.13. Wegerecht prüfen
+### 15.13. Wegerecht prüfen
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.14. Elektronischer Grundbuchverkehr
+### 15.14. Elektronischer Grundbuchverkehr
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

@@ -44,7 +44,40 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-## 4. Pflichtnormen als Kernsätze
+## 4. Rechtsprechungs-Fallkarte
+
+| Ebene | Fallfrage | Anker | Sofortausgabe |
+| --- | --- | --- | --- |
+| Fallkern | Bilanzierungsunregelmäßigkeiten und Accounting-Forensik | Paragraf 321 HGB; BAG, Urt. v. 23.10.2008 – 2 AZR 483/07 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Paragraf 331 HGB, Paragraf 400 AktG | Fristenblatt oder Prozess-/Verfahrensroute |
+| Begründetheit | Kaltstart Internal Investigation | Paragraf 331 HGB, Paragraf 400 AktG; Außerordentliche Kündigung bei Verdacht auf schwerwiegende | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
+
+## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
+
+| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
+| --- | --- | --- | --- |
+| Paragraf 321 HGB | Abschlussprüfer hat Unregelmäßigkeiten im Prüfungsbericht zu beschreiben | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 331 HGB, Paragraf 400 AktG | Freiheitsstrafe bis 3 Jahre oder Geldstrafe für Vorstand/Aufsichtsrat | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 93 Abs. 2 AktG | Schadensersatz der Gesellschaft gegen Vorstandsmitglieder | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 242 BGB | allgemeine Treuepflicht aus dem Arbeitsverhältnis | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 666 BGB | Auskunftspflicht für Tätigkeiten, die der Mitarbeiter für den Arbeitgeber ausgeführt hat | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 611a BGB i. V. m. Arbeitsvertrag | Pflicht zur Unterstützung bei betriebsinternen Untersuchungen, soweit dies zumutbar ist | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 383 ZPO | Zeugnisverweigerung wegen Angehörigeneigenschaft (gesetze-im-internet.de) – für interne Interviews nur | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+
+## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
+
+| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
+| --- | --- | --- |
+| BAG, Urt. v. 23.10.2008 – 2 AZR 483/07 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Kündigung wegen Aussageverweigerung kann unverhältnismäßig sein, wenn berechtigte Selbstbelastungsgefahr besteht |
+| Außerordentliche Kündigung bei Verdacht auf schwerwiegende Straftaten, auch ohne vollständige | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Außerordentliche Kündigung bei Verdacht auf schwerwiegende Straftaten, auch ohne vollständige Sachverhaltsaufklärung |
+| BGH II ZR 234/09 (Siemens/Neubürger) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Vorstandsmitglied hat persönliche Aufklärungspflicht (openjur.de) |
+| Pflicht zur Einleitung einer Untersuchung bei konkretem Verdacht (BGH II ZR 234/09, openjur.de) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Pflicht zur Einleitung einer Untersuchung bei konkretem Verdacht (BGH II ZR 234/09, openjur.de) |
+| Ist externe anwaltliche Unabhängigkeit gewährleistet (Attorney-Client Privilege / Anwaltsgeheimnis, ggf | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ist externe anwaltliche Unabhängigkeit gewährleistet (Attorney-Client Privilege / Anwaltsgeheimnis, ggf. nach EuGH Akzo |
+- Rechtsfolge zuerst als Arbeitsprodukt denken: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt
+- Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
+
+## 7. Pflichtnormen als Kernsätze
 
 - Paragraf 321 HGB: Abschlussprüfer hat Unregelmäßigkeiten im Prüfungsbericht zu beschreiben: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 331 HGB, Paragraf 400 AktG: Freiheitsstrafe bis 3 Jahre oder Geldstrafe für Vorstand/Aufsichtsrat: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -55,7 +88,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 383 ZPO: Zeugnisverweigerung wegen Angehörigeneigenschaft (gesetze-im-internet.de) – für interne Interviews nur mittelbar relevant: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 53 StPO: Zeugnisverweigerungsrecht von Berufsgeheimnisträgern (Anwalt, Arzt, Steuerberater) – relevant, wenn Dritte hinzugezogen werden (gesetze-im-internet.de): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
-## 5. Leitentscheidungen
+## 8. Leitentscheidungen
 
 - BAG, Urt. v. 23.10.2008 – 2 AZR 483/07: Kündigung wegen Aussageverweigerung kann unverhältnismäßig sein, wenn berechtigte Selbstbelastungsgefahr besteht
 - Außerordentliche Kündigung bei Verdacht auf schwerwiegende Straftaten, auch ohne vollständige Sachverhaltsaufklärung (BAG-Rechtsprechung zur Verdachtskündigung, z. B. BAG, Urt. v. 21.11.2013 – 2 AZR
@@ -63,7 +96,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Pflicht zur Einleitung einer Untersuchung bei konkretem Verdacht (BGH II ZR 234/09, openjur.de)
 - Ist externe anwaltliche Unabhängigkeit gewährleistet (Attorney-Client Privilege / Anwaltsgeheimnis, ggf. nach EuGH Akzo Nobel, C-550/07 P, curia.europa.eu)?
 
-## 6. Prüfraster
+## 9. Prüfraster
 
 1. Wer will was von wem woraus.
 2. Welche Frist, Form oder Zuständigkeit kann das Ergebnis kippen.
@@ -73,7 +106,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 7. Schriftsatz- und Memo-Gerüst
+## 10. Schriftsatz- und Memo-Gerüst
 
 1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
 2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
@@ -83,76 +116,86 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
 7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
 
-## 8. Arbeitsweise
+## 11. Outputvarianten und Empfängerwunsch
+
+| Wunsch | Ausgabe | Mindestinhalt |
+| --- | --- | --- |
+| schnell entscheiden | Kurzvermerk | Fallkern, Paragraf 321 HGB; Paragraf 331 HGB, Paragraf 400 AktG, Risiko, nächster Schritt |
+| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument, Rechtsfolge |
+| versenden | Entwurf | Antrag oder Tenor, Begründung, Anlagen, Frist, Zustellungsweg |
+| beraten | Mandantenbrief | Ergebnis, Optionen, Kosten-/Zeitrisiko, Empfehlung |
+| verhandeln | Vergleichs- oder Klauselvorschlag | sichere Fassung, risikobewusste Fassung, offene Punkte |
+
+## 12. Arbeitsweise
 
 Arbeite zuerst aktennah, dann normnah, dann produktnah. Wenn Dokumente oder ein Ordner vorliegen, werden sie ohne weitere Vorfrage gelesen, eingeordnet und mit Fundstelle verarbeitet. Wenn der Nutzer nur den Prompt startet, prüfe zuerst, ob Kontext, Dateien oder ein Arbeitsordner erkennbar sind; erst wenn wirklich keine Unterlagen vorliegen, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert. Tabellen sind erlaubt, wenn sie Vergleich, Berechnung oder Fristen besser zeigen.
 
 Selbstcheck vor Ausgabe: Ist die Frist benannt? Ist die Form geklärt? Ist die richtige Rolle getroffen? Ist die Rechtsfolge aus einer Norm abgeleitet? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
 
-## 9. Qualitätskontrolle und Abschluss
+## 13. Qualitätskontrolle und Abschluss
 
 Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
 
-## 10. Musterbausteine
+## 14. Musterbausteine
 
 - Memo-Kernsatz: Nach dem derzeit belegten Sachverhalt spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt.
 - Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
 - Schriftsatzkern: Der Anspruch ist begründet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
 
-## 11. Materienbezogene Arbeitsfelder
+## 15. Materienbezogene Arbeitsfelder
 
-### 11.1. Bilanzierungsunregelmäßigkeiten und Accounting-Forensik
+### 15.1. Bilanzierungsunregelmäßigkeiten und Accounting-Forensik
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.2. Kaltstart Internal Investigation
+### 15.2. Kaltstart Internal Investigation
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Skill führt nicht schematisch durch Kaltstart Internal Investigation, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt. - Anlass, Mandant, Auftraggeber und mögliche. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.3. Arbeitsrechtliche Mitwirkungspflichten
+### 15.3. Arbeitsrechtliche Mitwirkungspflichten
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.4. abrufen Committee
+### 15.4. abrufen Committee
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.5. Untersuchungsauftrag und Scope
+### 15.5. Untersuchungsauftrag und Scope
 
 entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Auftrag Scope; Arbeitsfeld. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.6. BaFin-Prüfungsfeststellungen und Bankregulatorik
+### 15.6. BaFin-Prüfungsfeststellungen und Bankregulatorik
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.7. Behördenstrategie und Self-Reporting
+### 15.7. Behördenstrategie und Self-Reporting
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.8. Betriebsrat und Mitbestimmung
+### 15.8. Betriebsrat und Mitbestimmung
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.9. Board Special Committee und Sonderuntersuchungsausschuss
+### 15.9. Board Special Committee und Sonderuntersuchungsausschuss
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.10. Bestechungs-Red-Flags und Korruptionsermittlung
+### 15.10. Bestechungs-Red-Flags und Korruptionsermittlung
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.11. Kartell-Dawn-Raid und Leniency
+### 15.11. Kartell-Dawn-Raid und Leniency
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.12. Chat-Review
+### 15.12. Chat-Review
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.13. Interessenkonflikte – Untersuchung und Prävention
+### 15.13. Interessenkonflikte – Untersuchung und Prävention
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.14. Kostenerstattung und Schadensersatz gegen Mitarbeiter
+### 15.14. Kostenerstattung und Schadensersatz gegen Mitarbeiter
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Augenscheinsbeweis: Wenn das Gericht selbst sehen muss: Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren.
 6. Wann ist das Amtsgericht immer zuständig (egal wie hoch der Streitwert)?: Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | Paragraf 433 BGB; Paragraf 631 BGB; Paragraf 535 BGB |
+| Rechtsprechung | Wenn Sie ein AG-Urteil für falsch halten, können Sie Berufung; Paragraf 511 II Nr. 2 ZPO i.V.m. Paragraf 511 IV ZPO |
+| Tatbestand | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Augenscheinsbeweis: Wenn das Gericht selbst sehen muss | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Wann ist das Amtsgericht immer zuständig (egal wie hoch der Streitwert)? | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - Paragraf 433 BGB — Kaufvertrag: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 631 BGB — Werkvertrag: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -49,10 +60,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Wichtig: Die Zulassung erfolgt durch das AG selbst im Urteil. Eine eigene "Zulassungs-Beschwerde" zum LG sieht die ZPO nicht vor. Wenn das AG die Berufung nicht zugelassen hat, ist die Berufung bei einer
 - LG-Urteil kann mit Revision zum BGH angefochten werden — aber nur, wenn vom LG zugelassen (Paragraf 543 ZPO). Sehr selten
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Anfänger-Amtsgericht, Anlagen formatieren — K1, K2 oben rechts, Schrift 12pt, Welche Norm trägt Ihren Anspruch?, Brauche ich vor dem Amtsgericht einen Anwalt?: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Anfänger-Amtsgericht, Anlagen formatieren — K1, K2 oben rechts, Schrift 12pt, Welche Norm trägt Ihren Anspruch?, Brauche ich vor dem Amtsgericht einen Anwalt?: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

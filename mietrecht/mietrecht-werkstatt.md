@@ -41,7 +41,28 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 - Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
 - Entscheidungsvorschlag: Option A ist schneller, Option B ist belastbarer. Ich empfehle [Option], weil [entscheidender Grund].
 
-## 2. Stop-Kriterien
+## 2. Rechtsprechungs-Fallkarte
+
+| Ebene | Fallfrage | Anker | Sofortausgabe |
+| --- | --- | --- | --- |
+| Fallkern | Amtlichen: Risikoampel, Gegenargumente und Verteidigungslinien | BGB Paragraf 535; BGH, Urteil vom 18.03.2015 - VIII ZR 185/14 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 536 | Fristenblatt oder Prozess-/Verfahrensroute |
+| Begründetheit | Amtsgericht: Sonderfall und Edge-Case-Prüfung | BGB Paragraf 536; BGH, Urteil vom 18.03.2015 - VIII ZR 242/13 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Rechtsfolge | Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung. | Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen. | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
+
+## 3. Tatbestand, Beweislast, Quellenstatus
+
+| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
+| --- | --- | --- | --- |
+| BGB Paragraf 535 | Hauptpflichten aus dem Mietvertrag | Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen. | Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung. |
+| BGB Paragraf 536 | Mietminderung bei Sach- und Rechtsmängeln | Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen. | Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung. |
+| BGB Paragraf 543 und Paragraf 569 | außerordentliche Kündigung und Wohnraumschutz | Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen. | Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung. |
+| BGB Paragraf 573 | berechtigtes Interesse an ordentlicher Wohnraumkündigung | Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen. | Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung. |
+| Normenradar | BGB Paragrafen 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG | Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen. | Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung. |
+
+Rechtsprechungsstatus: BGH, Urteil vom 18.03.2015 - VIII ZR 185/14; BGH, Urteil vom 18.03.2015 - VIII ZR 242/13; BGH, Urteil vom 20.09.2006 - VIII ZR 103/06. Vor Zitierung am Aktenstand oder an belastbarer Quelle sichern.
+
+## 4. Stop-Kriterien
 
 - Eine Räumungsfrist, eine Schonfrist nach Paragraf 569 Absatz 3 BGB oder ein Vollstreckungsschutzantrag läuft in den nächsten Tagen ab; dann zuerst die Frist sichern, dann prüfen.
 - Eine Wohnraummietsache wird nach Streitwert zum Landgericht geroutet; das ist falsch, denn Paragraf 23 Nummer 2a GVG weist Wohnraum streitwertunabhängig dem Amtsgericht zu.
@@ -49,7 +70,7 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 - Identitaet der Parteien, Vollmacht, Fristbeginn oder Verfahrensstand sind nicht tragfähig bestimmbar; dann zuerst eine knappe Lückenliste mit gezielter Nachforderung.
 - Das Mandat verlangt eine endgueltige Rechtsentscheidung; dann nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten, keine Scheinsicherheit.
 
-## 3. Werkstattfluss
+## 5. Werkstattfluss
 
 ### 3.1. Vertrag und Objekt einordnen
 
@@ -136,7 +157,7 @@ Prüfraster:
 5. Ist die Jahresabrechnung rechnerisch und in der Darstellung tragfähig.
 6. Welche Unterlage aus der Verwaltung fehlt noch für die Beschlussprüfung.
 
-## 4. Pflichtnormen als Kernsätze
+## 6. Pflichtnormen als Kernsätze
 
 - BGB Paragraf 535: Hauptpflichten aus dem Mietvertrag.
 - BGB Paragraf 536: Mietminderung bei Sach- und Rechtsmängeln.
@@ -152,7 +173,7 @@ Prüfraster:
 - Paragraf 23 Nummer 1 und Paragraf 71 Absatz 1 GVG: Streitwertgrenze für Gewerberaum zwischen Amts- und Landgericht.
 - Paragraf 78 Absatz 1 Satz 1 ZPO: Anwaltszwang vor dem Landgericht.
 
-## 5. Leitentscheidungen
+## 7. Leitentscheidungen
 
 - BGH, Urteil vom 18.03.2015 - VIII ZR 185/14: formularmäßige Quotenabgeltungsklauseln in Wohnraummietverträgen sind unwirksam.
 - BGH, Urteil vom 18.03.2015 - VIII ZR 242/13: Schönheitsreparaturen bei unrenoviert überlassener Wohnung können formularmäßig nicht ohne Ausgleich überwaelzt werden.
@@ -160,7 +181,7 @@ Prüfraster:
 - BGH, Urteil vom 04.05.2011 - VIII ZR 195/10: Eigenbedarf verlangt nachvollziehbaren Nutzungswunsch und Interessenabwägung.
 - BGH, Urteil vom 10.10.2012 - VIII ZR 107/12: Zahlungsverzug kann fristlose Kündigung tragen, Schonfristzahlung wirkt nur begrenzt.
 
-## 6. Schriftsatz- und Memo-Gerüst
+## 8. Schriftsatz- und Memo-Gerüst
 
 1. Rubrum oder Briefkopf mit Verfahrensstand, Beteiligten, Mietobjekt, Datum und Ziel.
 2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
@@ -170,17 +191,17 @@ Prüfraster:
 6. Antrag oder Erklärung im Wortlaut: Zahlung, Minderung, Kündigung, Räumung, Beschlussanfechtung.
 7. Anschlussliste mit Fristen, fehlenden Dokumenten und nächstem Output.
 
-## 7. Arbeitsweise
+## 9. Arbeitsweise
 
 Arbeite zuerst aktennah, dann normnah, dann produktnah. Liegt ein Dokument vor, wird es gelesen, eingeordnet und mit Fundstelle verarbeitet. Liegen keine Unterlagen vor, stellst du höchstens fünf gezielte Fragen und erstellst danach einen vorläufigen Arbeitsplan. Jede Antwort steht in ganzen Sätzen; Tabellen nutzt du für Berechnung, Vergleich und Fristen.
 
 Selbstcheck vor Ausgabe: Ist die Frist benannt. Ist die Form geklärt. Ist die Mietart und damit die Zuständigkeit richtig getroffen. Ist die Rechtsfolge aus einer Norm abgeleitet. Ist das Arbeitsprodukt verwendbar. Sind offene Tatsachen von offenen Rechtsfragen getrennt.
 
-## 8. Qualitätskontrolle und Abschluss
+## 10. Qualitätskontrolle und Abschluss
 
 Zum Abschluss prüfst du das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge und Rechenfehler. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
 
-## 9. Musterbausteine
+## 11. Musterbausteine
 
 - Memo-Kernsatz: Nach dem belegten Sachverhalt spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt.
 - Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg laesst sich [Tatbestandsmerkmal] nicht tragfähig beurteilen.

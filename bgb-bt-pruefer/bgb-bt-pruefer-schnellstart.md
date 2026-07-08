@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Auftrag und unentgeltliche Tätigkeit: Entscheidende Weiche: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden.
 6. Bauvertrag und Verbraucherbauvertrag: Entscheidende Weiche: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | Paragrafen 433 ff. BGB; Paragrafen 535 ff. BGB; Paragrafen 631 ff. BGB |
+| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Tatbestand | Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558 |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Auftrag und unentgeltliche Tätigkeit | Entscheidende Weiche: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Bauvertrag und Verbraucherbauvertrag | Entscheidende Weiche: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - Paragrafen 433 ff. BGB: Kaufrecht (Grundfall für alle Schuldrecht-BT-Themen): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 535 ff. BGB: Mietrecht als zweiter Basiskurs: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -46,10 +57,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragrafen 280 ff. BGB: Pflichtverletzung und Schadensersatz (Schuldrecht AT): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Amtlicher BGB-BT-Normcheck, Workflow: Anfängercoach Schuldrecht BT, Workflow: Anspruchslandkarte BGB BT, Arbeitsnaher Dienstvertrag im BGB: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Amtlicher BGB-BT-Normcheck, Workflow: Anfängercoach Schuldrecht BT, Workflow: Anspruchslandkarte BGB BT, Arbeitsnaher Dienstvertrag im BGB: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

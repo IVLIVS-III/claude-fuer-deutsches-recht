@@ -14,34 +14,6 @@ Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unter
 
 Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
 
-### 1.2. Ausgabeformate für schnelle Lieferung
-
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Frist oder Eilsache | Fristenblatt mit nächstem Handlungstag | Fristbeginn, Fristende, Zuständigkeit und Zustellungsweg trennen |
-| Schriftsatz oder Antrag | Antragssatz plus drei tragende Begründungsabsätze | Jede Tatsache bekommt Beleg oder Lückenmarke |
-| Mandantenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko und Kostenfolge getrennt ausweisen |
-| Interner Vermerk | Kurzlage, Rechtsanker, Entscheidungsvorschlag | offene Tatsachen nicht als Rechtsunsicherheit tarnen |
-| Vertrag oder Klausel | Entwurfsfassung mit Kommentarrand | sichere Fassung, ausgewogene Fassung und Risikofassung unterscheiden |
-| Gericht oder Behörde | Verfügung, Beschluss- oder Bescheidentwurf | Tenor, Gründe, Nebenentscheidungen und Zustellung mitdenken |
-
-### 1.3. Rückfragenbremse
-
-1. Wenn Dokumente oder ein Ordner vorliegen, zuerst lesen und verwerten; nicht nacherzählen lassen und nicht um Uploads bitten, die schon vorhanden sind.
-2. Wenn der Nutzer nur den Skill startet, mit dem vorhandenen Kontext beginnen: Aktenkern, Frist, Rechtsanker, erstes Arbeitsprodukt.
-3. Wenn Informationen fehlen, nur die Punkte fragen, die das nächste Arbeitsprodukt ändern.
-4. Wenn mehrere Wege möglich sind, die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Wenn eine Frist, Zuständigkeit oder Form unklar ist, zuerst diesen Engpass sichern.
-6. Wenn der Nutzer nur ein Ergebnis braucht, keine Lehrbuchprüfung ausgeben; die Begründung bleibt knapp und belastbar.
-
-### 1.4. Mini-Gerüste
-
-- Sofortvermerk: Nach derzeitigem Stand spricht mehr für [Ergebnis], weil [Norm] an [Tatbestandsmerkmal] anknüpft und [Beleg] diesen Punkt trägt. Offen bleibt [Lücke]. Nächster Schritt: [Handlung].
-- Schriftsatzkern: Der Antrag ist begründet, weil [Tatsache] durch [Beweismittel] belegt ist und [Norm] daraus [Rechtsfolge] ableitet.
-- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg/Norm/Beweislast]. Prozessrisiko: [niedrig/mittel/hoch].
-- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
-- Entscheidungsvorschlag: Option A ist schneller, Option B ist belastbarer. Ich empfehle [Option], weil [entscheidender Grund].
-
 ## 2. Stop-Kriterien
 
 - Frist oder Form kann nicht sicher bestimmt werden.
@@ -72,7 +44,40 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-## 4. Pflichtnormen als Kernsätze
+## 4. Rechtsprechungs-Fallkarte
+
+| Ebene | Fallfrage | Anker | Sofortausgabe |
+| --- | --- | --- | --- |
+| Fallkern | Abgetretene Forderung und Zession | Paragraf 404 BGB Einwendungserhalt; BGH XI ZR 116/15 (Leistungskondiktion bei verdeckter Provision) | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Paragraf 812 BGB (Herausgabeanspruch ungerechtfertigte Bereicherung) | Fristenblatt oder Prozess-/Verfahrensroute |
+| Begründetheit | Anfechtung nach Paragraf 142 BGB und Rückabwicklung | Paragraf 812 BGB (Herausgabeanspruch ungerechtfertigte Bereicherung); BGH VIII ZR 91/04 (Saldotheorie) | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
+
+## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
+
+| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
+| --- | --- | --- | --- |
+| Paragraf 404 BGB Einwendungserhalt | Zessionar muss alle Einwendungen aus dem Schuldverhältnis gegen sich gelten lassen, die der Schuldner | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 812 BGB (Herausgabeanspruch ungerechtfertigte Bereicherung) | Paragraf 812 BGB (Herausgabeanspruch ungerechtfertigte Bereicherung) | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 813 BGB (Leistung trotz Einrede) | Paragraf 813 BGB (Leistung trotz Einrede) | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 814 BGB (Kenntnis der Nichtschuld) | Paragraf 814 BGB (Kenntnis der Nichtschuld) | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 815 BGB (Nichteintritt des Erfolges) | Paragraf 815 BGB (Nichteintritt des Erfolges) | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 817 BGB (Verstoß gegen Verbotsgesetz) | Paragraf 817 BGB (Verstoß gegen Verbotsgesetz) | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 818 BGB (Umfang des Bereicherungsanspruchs) | Paragraf 818 BGB (Umfang des Bereicherungsanspruchs) | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+
+## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
+
+| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
+| --- | --- | --- |
+| BGH XI ZR 116/15 (Leistungskondiktion bei verdeckter Provision) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH XI ZR 116/15 (Leistungskondiktion bei verdeckter Provision) |
+| BGH VIII ZR 91/04 (Saldotheorie) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH VIII ZR 91/04 (Saldotheorie) |
+| BGH V ZR 215/11 (Nichteintritt des Erfolges) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH V ZR 215/11 (Nichteintritt des Erfolges) |
+| BGH IX ZR 196/14 (Insolvenzanfechtung) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH IX ZR 196/14 (Insolvenzanfechtung) |
+| BGH XI ZR 233/16 (Kontoeröffnungs-Anfechtung) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH XI ZR 233/16 (Kontoeröffnungs-Anfechtung) |
+- Rechtsfolge zuerst als Arbeitsprodukt denken: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt
+- Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
+
+## 7. Pflichtnormen als Kernsätze
 
 - Paragraf 404 BGB Einwendungserhalt: Zessionar muss alle Einwendungen aus dem Schuldverhältnis gegen sich gelten lassen, die der Schuldner gegen den Zedenten hatte (z. B. Mangelhaftung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 812 BGB (Herausgabeanspruch ungerechtfertigte Bereicherung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -83,7 +88,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 818 BGB (Umfang des Bereicherungsanspruchs): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 819 BGB (verschärfte Haftung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
-## 5. Leitentscheidungen
+## 8. Leitentscheidungen
 
 - BGH XI ZR 116/15 (Leistungskondiktion bei verdeckter Provision)
 - BGH VIII ZR 91/04 (Saldotheorie)
@@ -91,7 +96,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH IX ZR 196/14 (Insolvenzanfechtung)
 - BGH XI ZR 233/16 (Kontoeröffnungs-Anfechtung)
 
-## 6. Prüfraster
+## 9. Prüfraster
 
 1. Wer will was von wem woraus.
 2. Welche Frist, Form oder Zuständigkeit kann das Ergebnis kippen.
@@ -101,7 +106,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 7. Schriftsatz- und Memo-Gerüst
+## 10. Schriftsatz- und Memo-Gerüst
 
 1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
 2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
@@ -111,76 +116,86 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
 7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
 
-## 8. Arbeitsweise
+## 11. Outputvarianten und Empfängerwunsch
+
+| Wunsch | Ausgabe | Mindestinhalt |
+| --- | --- | --- |
+| schnell entscheiden | Kurzvermerk | Fallkern, Paragraf 404 BGB Einwendungserhalt; Paragraf 812 BGB (Herausgabeanspruch ungerechtfertigte Bereicherung), Risiko, nächster Schritt |
+| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument, Rechtsfolge |
+| versenden | Entwurf | Antrag oder Tenor, Begründung, Anlagen, Frist, Zustellungsweg |
+| beraten | Mandantenbrief | Ergebnis, Optionen, Kosten-/Zeitrisiko, Empfehlung |
+| verhandeln | Vergleichs- oder Klauselvorschlag | sichere Fassung, risikobewusste Fassung, offene Punkte |
+
+## 12. Arbeitsweise
 
 Arbeite zuerst aktennah, dann normnah, dann produktnah. Wenn Dokumente oder ein Ordner vorliegen, werden sie ohne weitere Vorfrage gelesen, eingeordnet und mit Fundstelle verarbeitet. Wenn der Nutzer nur den Prompt startet, prüfe zuerst, ob Kontext, Dateien oder ein Arbeitsordner erkennbar sind; erst wenn wirklich keine Unterlagen vorliegen, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert. Tabellen sind erlaubt, wenn sie Vergleich, Berechnung oder Fristen besser zeigen.
 
 Selbstcheck vor Ausgabe: Ist die Frist benannt? Ist die Form geklärt? Ist die richtige Rolle getroffen? Ist die Rechtsfolge aus einer Norm abgeleitet? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
 
-## 9. Qualitätskontrolle und Abschluss
+## 13. Qualitätskontrolle und Abschluss
 
 Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
 
-## 10. Musterbausteine
+## 14. Musterbausteine
 
 - Memo-Kernsatz: Nach dem derzeit belegten Sachverhalt spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt.
 - Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
 - Schriftsatzkern: Der Anspruch ist begründet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
 
-## 11. Materienbezogene Arbeitsfelder
+## 15. Materienbezogene Arbeitsfelder
 
-### 11.1. Abgetretene Forderung und Zession
+### 15.1. Abgetretene Forderung und Zession
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anwendungsfall: abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Welche. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.2. Anfechtung nach Paragraf 142 BGB und Rückabwicklung
+### 15.2. Anfechtung nach Paragraf 142 BGB und Rückabwicklung
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anwendungsfall: eine wirksame Anfechtung den Rechtsgrund rückwirkend beseitigt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Welches Spezialregime. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.3. Anfechtungsklage AnfG — Prozessuales
+### 15.3. Anfechtungsklage AnfG — Prozessuales
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Liegt ein vollstreckbarer Titel gegen den Schuldner vor (Paragraf 2 AnfG)? 2. Ist die Verjährungsfrist nach Paragrafen 195 199 BGB (3 Jahre) noch nicht abgelaufen? 3. Ist der Streitwert für AG (bis EUR 5.000) oder LG (über EUR 5.000)? 4. Wird Duldung (Regelfall). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.4. Fristen und Anfechtungszeitraum — AnfG
+### 15.4. Fristen und Anfechtungszeitraum — AnfG
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anfechtungsfristen im außerinsolvenzlichen Anfechtungsrecht bestimmen: zehn Jahre Vorsatzanfechtung, vier Jahre unentgeltliche Leistung. Normen: Paragrafen 3 4 AnfG, Paragrafen 195 199 BGB. Prüfraster: Fristbeginn, Fristberechnung, Verjährungsverhältnis, Hemmungstatbestände. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.5. Einreden und Verteidigung des Anfechtungsgegners — AnfG
+### 15.5. Einreden und Verteidigung des Anfechtungsgegners — AnfG
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Auf welchen Anfechtungstatbestand stützt der klagende Gläubiger seinen Anspruch (Paragraf 3 oder Paragraf 4 AnfG)? 2. Liegt echte Unentgeltlichkeit vor oder wurde eine Gegenleistung erbracht? 3. Hatte der Anfechtungsgegner tatsächlich Kenntnis vom Benachteiligungsvorsatz des. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.6. AnfG-Grundtatbestand und Anfechtungsberechtigte
+### 15.6. AnfG-Grundtatbestand und Anfechtungsberechtigte
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Das Anfechtungsgesetz (AnfG) ermöglicht Gläubigern außerhalb des Insolvenzverfahrens, Vermögensverschiebungen des Schuldners rückgängig zu machen, die ihre Befriedigung vereiteln oder erschweren. Zentraler Unterschied zur Insolvenzanfechtung (Paragrafen 129 ff. InsO): hier. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.7. Mittelbare Benachteiligung und Kongruenz — AnfG
+### 15.7. Mittelbare Benachteiligung und Kongruenz — AnfG
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Handelt es sich um unmittelbare oder mittelbare Benachteiligung? 2. Entsprach die Leistung dem vertraglich Geschuldeten (kongruent) oder nicht (inkongruent)? 3. Ist ein Bargeschäft (gleichwertiger Austausch) denkbar, das Benachteiligung entfallen lässt? 4. Kausalzusammenhang. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.8. Rechtsfolge: Rückgewähr — Paragraf 11 AnfG
+### 15.8. Rechtsfolge: Rückgewähr — Paragraf 11 AnfG
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Ist der Gegenstand noch beim Anfechtungsgegner vorhanden? (Duldungsklage möglich) 2. Wurde der Gegenstand weiterveräußert oder verbraucht? (Wertersatz nach Paragraf 11 Abs. 2 AnfG) 3. War der Anfechtungsgegner bösgläubig? (verschärfte Haftung für Nutzungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.9. Unentgeltliche Leistung — Paragraf 4 AnfG
+### 15.9. Unentgeltliche Leistung — Paragraf 4 AnfG
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Erhielt der Schuldner eine gleichwertige Gegenleistung? (Verneinung → unentgeltlich) 2. Liegt eine gemischte Schenkung vor? (dann nur teilweise Anfechtung) 3. Wann erfolgte die Leistung — innerhalb der Vier-Jahres-Frist? 4. Handelt es sich um eine Erfüllung einer sittlichen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.10. Vorsatzanfechtung — Paragraf 3 Abs. 1 AnfG
+### 15.10. Vorsatzanfechtung — Paragraf 3 Abs. 1 AnfG
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Hatte der Schuldner Benachteiligungsvorsatz (zumindest dolus eventualis)? 2. Kannte der Anfechtungsgegner den Benachteiligungsvorsatz zum Zeitpunkt der Handlung? 3. Ist der Anfechtungsgegner eine nahestehende Person i.S.d. Paragraf 138 InsO (analog)? (Vermutungsregel!) 4. Lag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.11. Anspruchsziel und Rückabwicklungsarchitektur
+### 15.11. Anspruchsziel und Rückabwicklungsarchitektur
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anwendungsfall: das praktische Rückabwicklungsziel in eine belastbare Anspruchsarchitektur übersetzt werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.12. Anweisungsfall: Deckungs- und Valutaverhältnis
+### 15.12. Anweisungsfall: Deckungs- und Valutaverhältnis
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anwendungsfall: ein Zahlungs- oder Leistungsdreieck mit Deckungs- und Valutaverhältnis vorliegt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Welche. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.13. Arbeitsrechtliche Überzahlung
+### 15.13. Arbeitsrechtliche Überzahlung
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anwendungsfall: arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Welches. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.14. Ausschluss nach Paragraf 814 BGB — Kenntnis der Nichtschuld
+### 15.14. Ausschluss nach Paragraf 814 BGB — Kenntnis der Nichtschuld
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Hat der Leistende im Zeitpunkt der Leistung alle tatsächlichen Umstände gekannt, die zur Nichtschuld führen? 2. Lag nur ein Rechtsirrtum vor (Tatsachen bekannt, rechtliche Wertung fehlt)? 3. Beruhte die Leistung auf bloßem Zweifel oder Verdacht (kein Paragraf 814-Ausschluss)?. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

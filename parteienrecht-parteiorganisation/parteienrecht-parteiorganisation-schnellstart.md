@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Parteienrecht Parteiorganisation ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
 
 # Parteienrecht Parteiorganisation — Schnellstart
 
@@ -17,35 +17,52 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abgeordnetengesetz Bund: Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat.
-2. Abgeordnetengesetze Länder: Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat.
-3. Bundeswahlleiter-Kommunikation: Tragende Normen verifizieren: GG Art. 21, PartG Paragrafen 1, 2, 5, 6, 7, 8, 9, 10, 14, 18, 23, 23a, 24, 25, 26.
-4. Befangenheit und Sitzungsleitung: Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat.
-5. Beitragsordnung Partei: Tragende Normen verifizieren: GG Art. 21, PartG Paragrafen 1, 2, 5, 6, 7, 8, 9, 10, 14, 18, 23, 23a, 24, 25, 26.
-6. Beschlussvorlagen Partei: Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat.
+1. Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen.
+2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen.
+3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
+4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
+5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+6. Abgeordnetengesetz Bund: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | BGB Paragraf 705; HGB Paragraf 105; GmbHG Paragraf 13 |
+| Rechtsprechung | BGH, Urteil vom 29.01.2001 - II ZR 331/00; BGH, Urteil vom 04.07.2005 - II ZR 354/03 |
+| Tatbestand | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen |
+| Beweislast | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment |
+| Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abgeordnetengesetz Bund | Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abgeordnetengesetze Länder | Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bundeswahlleiter-Kommunikation | Tragende Normen verifizieren: GG Art. 21, PartG Paragrafen 1, 2, 5, 6, 7, 8, 9, 10, 14, 18, 23, 23a, 24, 25, 26. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Befangenheit und Sitzungsleitung | Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beitragsordnung Partei | Tragende Normen verifizieren: GG Art. 21, PartG Paragrafen 1, 2, 5, 6, 7, 8, 9, 10, 14, 18, 23, 23a, 24, 25, 26. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beschlussvorlagen Partei | Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abgeordnetengesetz Bund | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abgeordnetengesetze Länder | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bundeswahlleiter-Kommunikation | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Befangenheit und Sitzungsleitung | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beitragsordnung Partei | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beschlussvorlagen Partei | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
+- BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
+- HGB Paragraf 105: offene Handelsgesellschaft.
+- GmbHG Paragraf 13: Rechtsnatur der GmbH.
+- GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
 - Art. 38 I 2 GG (freies Mandat, Indemnität, Stimmgleichheit), Art. 46-48 GG (Indemnität, Immunität, Behinderungsverbot): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 137 I GG ermöglicht Inkompatibilitätsregelungen (Beamte, Soldaten): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 108e StGB Abgeordnetenbestechung: subjektiver Tatbestand erfordert "Auftrag" (Stimme/Handeln) als Gegenleistung; bloß Wahlkampfspende reicht nicht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 21 GG (Parteien): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
+- BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abgeordnetengesetz Bund, Abgeordnetengesetze Länder, Bundeswahlleiter-Kommunikation, Befangenheit und Sitzungsleitung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abgeordnetengesetz Bund, Abgeordnetengesetze Länder, Bundeswahlleiter-Kommunikation, Befangenheit und Sitzungsleitung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

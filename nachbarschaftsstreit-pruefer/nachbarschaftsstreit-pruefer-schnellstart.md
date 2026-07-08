@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Aufforderung: Mandantenkommunikation und Entscheidungsvorlage: Tragende Normen verifizieren: BGB Paragrafen 903, 906, 1004, 910, 912, 917, 921, 922, NachbG.
 6. Aufforderungsschreiben an den Nachbarn: Tragende Normen verifizieren: BGB Paragrafen 903, 906, 1004, 910, 912, 917, 921, 922, NachbG.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | Paragraf 1004 BGB ist kein Freifahrtschein; Paragraf 907 BGB; Paragraf 908 BGB |
+| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Tatbestand | Tragende Normen verifizieren: BGB Paragrafen 903, 906, 1004, 910, 912, 917, 921, 922, NachbG |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Aufforderung: Mandantenkommunikation und Entscheidungsvorlage | Tragende Normen verifizieren: BGB Paragrafen 903, 906, 1004, 910, 912, 917, 921, 922, NachbG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Aufforderungsschreiben an den Nachbarn | Tragende Normen verifizieren: BGB Paragrafen 903, 906, 1004, 910, 912, 917, 921, 922, NachbG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - Paragraf 1004 BGB ist kein Freifahrtschein: Duldungspflichten aus Paragraf 906, Paragraf 912, Landesrecht, Dienstbarkeit oder Vertrag prüfen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 907 BGB: Gefahr drohende Anlage auf Nachbargrundstück: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -43,10 +54,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 823 BGB und Verkehrssicherungspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Aeste: Risikoampel, Gegenargumente und Verteidigungslinien, Akten- und Grundstücksaufnahme, Nachbarschaftsstreit-Prüfer — Allgemein, Anspruchslandkarte BGB-Nachbarrecht: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Aeste: Risikoampel, Gegenargumente und Verteidigungslinien, Akten- und Grundstücksaufnahme, Nachbarschaftsstreit-Prüfer — Allgemein, Anspruchslandkarte BGB-Nachbarrecht: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

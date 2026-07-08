@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Binnenschiff – Arrest vorbereiten: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
 6. Binnenschiff – Closing planen: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | 3. LG am Liegeplatz (ZPO Paragraf 919) als zuständiges Gericht; ZPO Paragrafen 916-945 Arrest; ZPO Paragraf 929 Vollziehungsfrist; Besteht Risiko des ZPO Paragraf 945-Schadensersatzes |
+| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Tatbestand | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Binnenschiff – Arrest vorbereiten | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Binnenschiff – Closing planen | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - 3. LG am Liegeplatz (ZPO Paragraf 919) als zuständiges Gericht bestimmen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - ZPO Paragrafen 916-945 Arrest; ZPO Paragraf 929 Vollziehungsfrist; SchRegO Paragraf 67; ISAC 1952 Art. 1: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -46,10 +57,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGH zur Haftung aus ungerechtfertigtem Arrest nach ZPO Paragraf 945: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Offshore-Schiff – Arrest vorbereiten, Auslandsflagge und Local Counsel – Flaggenstaat-Compliance, Bergung und Wrack – Bergungslohn und Beseitigungspflicht, Bermuda-Struktur prüfen – Holding-Struktur und Haftungsrisiken: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Offshore-Schiff – Arrest vorbereiten, Auslandsflagge und Local Counsel – Flaggenstaat-Compliance, Bergung und Wrack – Bergungslohn und Beseitigungspflicht, Bermuda-Struktur prüfen – Holding-Struktur und Haftungsrisiken: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

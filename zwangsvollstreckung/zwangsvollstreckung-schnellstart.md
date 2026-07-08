@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Arbeit: Schriftsatz-, Brief- und Memo-Bausteine: Tragende Normen verifizieren: Paragrafen 704 ff. ZPO; Paragraf 802l Kontensuche, Vermögensauskunft, Räumung.
 6. Bank: Behörden-, Gerichts- oder Registerweg: Tragende Normen verifizieren: Paragrafen 704 ff. ZPO; Paragraf 802l Kontensuche, Vermögensauskunft, Räumung.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | Symptom; Paragraf 765a ZPO – Vollstreckungsschutz, Härtefall; Paragraf 766 ZPO – Erinnerung gegen Art und Weise der Vollstreckung |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
+| Tatbestand | Dieser Fehlerkatalog prüft Arbeitsergebnisse für Zwangsvollstreckung vor Abgabe, Versand oder Mandantenfreigabe |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Arbeit: Schriftsatz-, Brief- und Memo-Bausteine | Tragende Normen verifizieren: Paragrafen 704 ff. ZPO; Paragraf 802l Kontensuche, Vermögensauskunft, Räumung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Bank: Behörden-, Gerichts- oder Registerweg | Tragende Normen verifizieren: Paragrafen 704 ff. ZPO; Paragraf 802l Kontensuche, Vermögensauskunft, Räumung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - Symptom: Normzitat ohne Fassungsprüfung (ZPO Paragrafen 704-945 (Vollstreckung)): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 765a ZPO – Vollstreckungsschutz, Härtefall: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -45,10 +56,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 769 ZPO – einstweilige Einstellung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 771 ZPO – Drittwiderspruchsklage: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder 765a Fehlerkatalog, 802L: Verhandlung, Vergleich und Eskalation, Schuldnerabwehr in der Zwangsvollstreckung, Anschluss-Routing: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder 765a Fehlerkatalog, 802L: Verhandlung, Vergleich und Eskalation, Schuldnerabwehr in der Zwangsvollstreckung, Anschluss-Routing: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

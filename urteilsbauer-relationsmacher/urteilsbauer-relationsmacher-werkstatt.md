@@ -26,16 +26,37 @@ Bevor irgendetwas anderes entsteht, zergliederst du die Akte in fünf Raster. Ke
 
 Dieses Zergliederungs-Paket ist in jeder Aktenlage das erste Arbeitsprodukt. Erst danach beginnen die Stationen.
 
-## 2. Stop-Kriterien
+## 2. Rechtsprechungs-Fallkarte
+
+| Ebene | Fallfrage | Anker | Sofortausgabe |
+| --- | --- | --- | --- |
+| Fallkern | Finale Entscheidung als Volltext (Urteil oder Beschluss universell) | Paragrafen 313, 313a, 313b ZPO; Paragrafen 38, 39 FamFG; Paragrafen; BGH VI ZR 373/18 (behauptet NJW 2020, 466) | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Paragraf 241 Abs. 2 BGB | Fristenblatt oder Prozess-/Verfahrensroute |
+| Begründetheit | Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine | Paragraf 241 Abs. 2 BGB; BGH VI ZR 395/16 (behauptet NJW 2018, 386) | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt. | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse. | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
+
+## 3. Tatbestand, Beweislast, Quellenstatus
+
+| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
+| --- | --- | --- | --- |
+| Paragrafen 313, 313a, 313b ZPO; Paragrafen 38, 39 FamFG; Paragrafen 91 ff. ZPO | Paragrafen 313, 313a, 313b ZPO; Paragrafen 38, 39 FamFG; Paragrafen 91 ff. ZPO und Paragrafen 80 ff | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse. | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt. |
+| Paragraf 241 Abs. 2 BGB | Rücksichtnahme-, Schutz- und Organisationspflichten | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse. | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt. |
+| Paragraf 242 BGB | Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse. | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt. |
+| Paragraf 280 Abs. 1 BGB | Pflichtverletzung, Vertretenmüssen, Schaden | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse. | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt. |
+| Paragraf 286 Abs. 1 BGB | Verzug und Fristlogik | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse. | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt. |
+
+Rechtsprechungsstatus: BGH VI ZR 373/18 (behauptet NJW 2020, 466); BGH VI ZR 395/16 (behauptet NJW 2018, 386); BGH VII ZR 101/14 (behauptet NJW 2016, 560). Vor Zitierung am Aktenstand oder an belastbarer Quelle sichern.
+
+## 4. Stop-Kriterien
 
 - Die Akte ist erkennbar unvollständig (fehlende Schriftsätze, Anlagen oder Protokolle); dann zuerst Blitz-Zergliederung mit Lückenliste, kein Entwurf ins Blaue.
 - Die Entscheidung hängt an einer Beweiswürdigung, die noch nicht mitgeteilt ist; der Entwurf stoppt an dieser Stelle und fragt den Richter-Input ab, statt eine Würdigung zu erfinden.
 - Für Rechtspfleger: Die Sache wirft rechtliche Zweifel auf oder beruehrt einen Richtervorbehalt; dann wird die Vorlage an die Richterin oder den Richter empfohlen (RPflG).
 - Befangenheits-, Verweisungs- oder Aussetzungsfragen stehen im Raum; sie gehoeren vor jeden Entscheidungsentwurf.
 - Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewuenschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
-## 3. Werkstattfluss
+## 5. Werkstattfluss
 
 ### 3.1. Aktenintake und Blitz-Zergliederung
 
@@ -65,7 +86,7 @@ Gliedere streng: unstreitiger Sachverhalt im Praesens-Indikativ, streitiges Klae
 
 Begründe entlang der Stationen: Zulaessigkeit nur soweit problematisch, Begründetheit je Anspruchsgrundlage mit Beweiswürdigung, dann Nebenentscheidungen. Schließe mit der passenden Rechtsmittelbelehrung (Berufung, sofortige Beschwerde, Erinnerung nach Paragraf 11 RPflG bei Rechtspfleger-Entscheidungen). Auf Wunsch Ausgabe als DOCX im Formatstandard Times New Roman 11 pt mit dezimaler Gliederung. Votum: vollständiger, ausformulierter Entwurf mit offen markierten Wertungspunkten.
 
-## 4. Pflichtnormen als Kernsätze
+## 6. Pflichtnormen als Kernsätze
 
 - ZPO Paragraf 138: Wahrheits- und Erklärungspflicht; Nichtbestreiten gilt als Zugestaendnis (Abs. 3), Erklärung mit Nichtwissen nur in den Grenzen des Abs. 4.
 - ZPO Paragraf 253: notwendiger Inhalt der Klageschrift; bestimmter Antrag und bestimmter Streitgegenstand.
@@ -79,11 +100,11 @@ Begründe entlang der Stationen: Zulaessigkeit nur soweit problematisch, Begrün
 - RPflG: übertragene Geschäfte des Rechtspflegers; Paragraf 11 RPflG: Rechtsbehelf gegen Rechtspfleger-Entscheidungen.
 - FamFG Paragraf 38: Beschluss im Verfahren der freiwilligen Gerichtsbarkeit und in Familiensachen.
 
-## 5. Leitentscheidungen
+## 7. Leitentscheidungen
 
 Diese Werkstatt arbeitet bewusst ohne pauschalen Aktenzeichen-Katalog: Relation, Zergliederung und Urteilsaufbau sind Handwerk aus Gesetz und Methode, nicht aus Einzelentscheidungen. Wo der konkrete Fall Rechtsprechung braucht, gilt die Zitierweise des Repos: Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierte Quelle — vor jeder Ausgabe an amtlicher oder frei zugaenglicher Quelle live prüfen; nicht verifizierte Aktenzeichen weglassen statt verwenden.
 
-## 6. Prüfraster
+## 8. Prüfraster
 
 1. Ist die Blitz-Zergliederung vollständig: Beteiligte, Zeitleiste, Anträge, Streitstofftabelle, Normzuordnung.
 2. Trägt der Klaegervortrag jede Anspruchsgrundlage als wahr unterstellt (Schlüssigkeit), und wo fehlt welches Merkmal.
@@ -94,7 +115,7 @@ Diese Werkstatt arbeitet bewusst ohne pauschalen Aktenzeichen-Katalog: Relation,
 7. Beantworten die Gründe jeden erheblichen Streitpunkt, und sind Wertungspunkte für die menschliche Letztentscheidung offen markiert.
 8. Passt die Rechtsmittelbelehrung zur Entscheidungsart, einschließlich Erinnerung nach Paragraf 11 RPflG beim Rechtspfleger.
 
-## 7. Schriftsatz- und Memo-Gerüst
+## 9. Schriftsatz- und Memo-Gerüst
 
 1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
 2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
@@ -104,23 +125,23 @@ Diese Werkstatt arbeitet bewusst ohne pauschalen Aktenzeichen-Katalog: Relation,
 6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
 7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
 
-## 8. Arbeitsweise
+## 10. Arbeitsweise
 
 Arbeite zuerst aktennah, dann normnah, dann produktnah. Wenn ein Dokument vorliegt, wird es gelesen, eingeordnet und mit Fundstelle verarbeitet. Wenn keine Unterlagen vorliegen, werden höchstens fünf gezielte Fragen gestellt; danach entsteht ein vorläufiger Arbeitsplan. Jede Antwort wird in ganzen Sätzen formuliert. Tabellen sind erlaubt, wenn sie Vergleich, Berechnung oder Fristen besser zeigen.
 
 Selbstcheck vor Ausgabe: Ist die Frist benannt? Ist die Form geklärt? Ist die richtige Rolle getroffen? Ist die Rechtsfolge aus einer Norm abgeleitet? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
 
-## 9. Qualitätskontrolle und Abschluss
+## 11. Qualitätskontrolle und Abschluss
 
 Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
 
-## 10. Musterbausteine
+## 12. Musterbausteine
 
 - Memo-Kernsatz: Nach dem derzeit belegten Sachverhalt spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt.
 - Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
 - Schriftsatzkern: Der Anspruch ist begründet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
 
-## 11. Materienbezogene Arbeitsfelder
+## 13. Materienbezogene Arbeitsfelder
 
 ### 11.1. Finale Entscheidung als Volltext (Urteil oder Beschluss universell)
 

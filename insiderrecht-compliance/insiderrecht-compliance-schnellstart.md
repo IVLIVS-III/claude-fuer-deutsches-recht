@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Insiderrecht Compliance ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
 
 # Insiderrecht Compliance — Schnellstart
 
@@ -17,36 +17,52 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Ad-hoc-Publizität nach Art. 17 MAR: Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war.
-2. Aktienrückkaufprogramme – MAR Safe Harbour und Compliance: Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war.
-3. Kaltstart Insiderrecht: Dieser Skill führt nicht schematisch durch Kaltstart Insiderrecht, sondern zwingt zu einer prüfbaren Arbeitsspur.
-4. Analysten-Calls und Investorenkommunikation – Selective Disclosure: Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war.
-5. Anleiheemission – Insiderrechtliche Anforderungen: Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war.
-6. Archivierung – MAR-konforme Aufbewahrung: Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war.
+1. Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen.
+2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen.
+3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
+4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
+5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+6. Ad-hoc-Publizität nach Art. 17 MAR: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | BGB Paragraf 705; HGB Paragraf 105; GmbHG Paragraf 13 |
+| Rechtsprechung | BGH, Urteil vom 29.01.2001 - II ZR 331/00; BGH, Urteil vom 04.07.2005 - II ZR 354/03 |
+| Tatbestand | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen |
+| Beweislast | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment |
+| Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Ad-hoc-Publizität nach Art. 17 MAR | Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktienrückkaufprogramme – MAR Safe Harbour und Compliance | Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kaltstart Insiderrecht | Dieser Skill führt nicht schematisch durch Kaltstart Insiderrecht, sondern zwingt zu einer prüfbaren Arbeitsspur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Analysten-Calls und Investorenkommunikation – Selective Disclosure | Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anleiheemission – Insiderrechtliche Anforderungen | Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Archivierung – MAR-konforme Aufbewahrung | Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ad-hoc-Publizität nach Art. 17 MAR | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktienrückkaufprogramme – MAR Safe Harbour und Compliance | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kaltstart Insiderrecht | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Analysten-Calls und Investorenkommunikation – Selective Disclosure | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anleiheemission – Insiderrechtliche Anforderungen | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Archivierung – MAR-konforme Aufbewahrung | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
+- BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
+- HGB Paragraf 105: offene Handelsgesellschaft.
+- GmbHG Paragraf 13: Rechtsnatur der GmbH.
+- GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
 - Paragrafen 71–71e AktG: https://www.gesetze-im-internet.de/aktg/__71.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 71 ff. AktG: https://www.gesetze-im-internet.de/aktg/__71.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 257 HGB (Aufbewahrungsfristen): https://www.gesetze-im-internet.de/hgb/__257.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 147 AO (Aufbewahrungspflichten): https://www.gesetze-im-internet.de/ao1977/147.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 111, 142 AktG (Sonderprüfung): https://www.gesetze-im-internet.de/aktg/__111.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
+- BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Ad-hoc-Publizität nach Art. 17 MAR, Aktienrückkaufprogramme – MAR Safe Harbour und Compliance, Kaltstart Insiderrecht, Analysten-Calls und Investorenkommunikation – Selective Disclosure: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Ad-hoc-Publizität nach Art. 17 MAR, Aktienrückkaufprogramme – MAR Safe Harbour und Compliance, Kaltstart Insiderrecht, Analysten-Calls und Investorenkommunikation – Selective Disclosure: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

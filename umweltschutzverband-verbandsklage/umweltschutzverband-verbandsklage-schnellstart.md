@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Umweltschutzverband Verbandsklage ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Verwaltungsakt anfechten und vorläufigen Rechtsschutz erreichen.
 
 # Umweltschutzverband Verbandsklage — Schnellstart
 
@@ -17,39 +17,53 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Aarhus Argumentationslinie: Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage.
-2. Aktenauswertung Behördenordner: Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage.
-3. Anerkennung und Klagebefugnis Prüfen: Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage.
-4. Uig Anfrage für Umweltakte: Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage.
-5. Artenschutz Fachbeitrag Lesen: Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage.
-6. Batteriespeicher Akteneinsicht Erzwing: Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage.
+1. Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen.
+2. Zulaessigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
+3. Materielle Rechtmaessigkeit: Ermaechtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhaeltnismaessigkeit prüfen.
+4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
+5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
+6. Aarhus Argumentationslinie: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | VwVfG Paragraf 35; VwVfG Paragraf 28; VwVfG Paragraf 40 |
+| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 |
+| Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
+| Beweislast | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit |
+| Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aarhus Argumentationslinie | Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenauswertung Behördenordner | Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anerkennung und Klagebefugnis Prüfen | Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Uig Anfrage für Umweltakte | Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Artenschutz Fachbeitrag Lesen | Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Batteriespeicher Akteneinsicht Erzwing | Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aarhus Argumentationslinie | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenauswertung Behördenordner | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anerkennung und Klagebefugnis Prüfen | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Uig Anfrage für Umweltakte | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Artenschutz Fachbeitrag Lesen | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Batteriespeicher Akteneinsicht Erzwing | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
+- VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
+- VwVfG Paragraf 28: Anhörung Beteiligter.
+- VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
+- VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
 - Paragraf 1922 Abs. 1 BGB — Gesamtrechtsnachfolge: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1937 BGB — Testament: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1942 BGB — Anfall und Ausschlagung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1953 BGB — Wirkung der Ausschlagung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1967 BGB — Erbenhaftung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 2032 BGB — Erbengemeinschaft: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 2042 BGB — Auseinandersetzung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
+- BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Aarhus Argumentationslinie, Aktenauswertung Behördenordner, Anerkennung und Klagebefugnis Prüfen, Uig Anfrage für Umweltakte: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Aarhus Argumentationslinie, Aktenauswertung Behördenordner, Anerkennung und Klagebefugnis Prüfen, Uig Anfrage für Umweltakte: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

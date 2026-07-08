@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Betaeubungsmittelrecht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Tatvorwurf entlang von Beweiswürdigung und Strafzumessung durchdringen und einen verwertbaren Schriftsatz bauen.
 
 # Betaeubungsmittelrecht — Schnellstart
 
@@ -17,33 +17,50 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Amphetamin Akteneinsicht Vorbereiten: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
-2. Amphetamin Compliance Bauen: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
-3. Amphetamin Einlassung Planen: Tragende Normen verifizieren: BtMG; KCanG; MedCanG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur.
-4. Amphetamin Erlaubnis Prüfen: Tragende Normen verifizieren: BtMG; KCanG; MedCanG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur.
-5. Amphetamin Mandantenbrief Schreiben: Tragende Normen verifizieren: BtMG; KCanG; MedCanG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur.
-6. Amphetamin Menge Einordnen: Tragende Normen verifizieren: BtMG; KCanG; MedCanG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur.
+1. Blitz-Zergliederung: jeden Tatkomplex als Zeile erfassen mit Vorwurf, Norm, Beweismitteln, Einlassung und laufenden Fristen; Verfahrensstand und Beschuldigtenstatus benennen.
+2. Beweise und Einlassung: Zeugen, Urkunden, Sachverständige, digitale Spuren und Schweigerechte trennen; Belastbarkeit und Verwertbarkeit je Beweismittel bewerten.
+3. Tatbestand: objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung prüfen; je Merkmal die tragende Tatsache benennen.
+4. Prozessuales: Zuständigkeit, Verwertungsverbote, Fristen, Pflichtverteidigung und Anträge vorbereiten; den nächsten fristwahrenden Schritt zuerst.
+5. Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative.
+6. Amphetamin Akteneinsicht Vorbereiten: Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | StPO Paragraf 152 Absatz 2; StPO Paragraf 160; StPO Paragraf 170 |
+| Rechtsprechung | BGH, Urteil vom 30.07.1999 - 1 StR 618/98; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 |
+| Tatbestand | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen |
+| Beweislast | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff |
+| Rechtsfolge | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Amphetamin Akteneinsicht Vorbereiten | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Amphetamin Compliance Bauen | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Amphetamin Einlassung Planen | Tragende Normen verifizieren: BtMG; KCanG; MedCanG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Amphetamin Erlaubnis Prüfen | Tragende Normen verifizieren: BtMG; KCanG; MedCanG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Amphetamin Mandantenbrief Schreiben | Tragende Normen verifizieren: BtMG; KCanG; MedCanG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Amphetamin Menge Einordnen | Tragende Normen verifizieren: BtMG; KCanG; MedCanG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amphetamin Akteneinsicht Vorbereiten | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amphetamin Compliance Bauen | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amphetamin Einlassung Planen | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amphetamin Erlaubnis Prüfen | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amphetamin Mandantenbrief Schreiben | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amphetamin Menge Einordnen | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
+- StPO Paragraf 152 Absatz 2: Legalitätsprinzip und Anfangsverdacht.
+- StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
+- StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
+- StPO Paragraf 261: freie richterliche Beweiswürdigung.
 - Paragraf 94 StPO — Sicherstellung/Beschlagnahme: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Aussage-gegen-Aussage verlangt besonders sorgfältige Gesamtwürdigung.
+- BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Konstanz, Entstehung und Belastungsmotive sind bei Aussageanalyse zu würdigen.
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Amphetamin Akteneinsicht Vorbereiten, Amphetamin Compliance Bauen, Amphetamin Einlassung Planen, Amphetamin Erlaubnis Prüfen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Amphetamin Akteneinsicht Vorbereiten, Amphetamin Compliance Bauen, Amphetamin Einlassung Planen, Amphetamin Erlaubnis Prüfen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

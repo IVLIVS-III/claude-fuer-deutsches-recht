@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Arbeitsprodukt: Klage, Erwiderung, Vergleichsvorschlag, HR-Memo oder Vertragskorrektur in ausformulierten Sätzen erstellen.
 6. Ampelsystem-Tabellenausgabe: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | KSchG Paragraf 1; KSchG Paragraf 4 und Paragraf 7; BGB Paragraf 611a |
+| Rechtsprechung | BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14; BAG, Urteil vom 27.02.1985 - GS 1/84 |
+| Tatbestand | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen |
+| Beweislast | Arbeitgeber für Kündigungs-, Befristungs- und Betriebsratsgrund; Arbeitnehmer für Zugang, Fristwahrung und eigene Ansprüche |
+| Rechtsfolge | Feststellung, Weiterbeschäftigung, Annahmeverzug, Vergleich oder Abwicklungsbaustein |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Gruen: Behörden-, Gerichts- oder Registerweg | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - KSchG Paragraf 1: soziale Rechtfertigung ordentlicher Kündigungen.
 - KSchG Paragraf 4 und Paragraf 7: Dreiwochenfrist und Wirksamkeitsfiktion.
@@ -50,10 +61,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BAG 5.7.2018 – 9 AZR 244/17 Anspruch entstehung
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Klageantrag: Es wird festgestellt, dass das Arbeitsverhaeltnis der Parteien durch die Kündigung vom [Datum] nicht aufgelöst worden ist; Befristungsantrag: Es wird festgestellt, dass das Arbeitsverhaeltnis nicht aufgrund der Befristung vom [Datum] mit Ablauf des [Datum] geendet hat.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Klageantrag: Es wird festgestellt, dass das Arbeitsverhaeltnis der Parteien durch die Kündigung vom [Datum] nicht aufgelöst worden ist; Befristungsantrag: Es wird festgestellt, dass das Arbeitsverhaeltnis nicht aufgrund der Befristung vom [Datum] mit Ablauf des [Datum] geendet hat.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

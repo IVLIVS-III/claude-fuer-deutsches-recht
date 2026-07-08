@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Gewerblicher Rechtsschutz ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du eine Rechtsverletzung an Werk, Marke oder Inhalt abmahnen oder abwehren.
 
 # Gewerblicher Rechtsschutz — Schnellstart
 
@@ -17,38 +17,52 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Spezial: Abmahnung – Compliance-Dokumentation und Aktenführung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
-2. Urheberrechtliche Abmahnung – Paragraf 97a UrhG: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
-3. Spezial: Anmeldung – Behörden, Gerichte und Registerwege: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
-4. Gewerblicher Rechtsschutz: Plugin anpassen: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
-5. Anschluss-Routing: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan.
-6. Spezial: Compliance – Mandantenkommunikation und Entscheidungsvorlage: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Mandantennachricht oder Entscheidungsvorlage.
+1. Schutzgegenstand: Werkart, Schoepfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
+2. Rechtekette: Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen.
+3. Nutzung: Vervielfaeltigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
+4. Schranken: Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden.
+5. Arbeitsprodukt: Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren.
+6. Spezial: Abmahnung – Compliance-Dokumentation und Aktenführung: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | UrhG Paragraf 2; UrhG Paragraf 15; UrhG Paragraf 31 |
+| Rechtsprechung | EuGH, Urteil vom 16.07.2009 - C-5/08; EuGH, Urteil vom 13.02.2014 - C-466/12 |
+| Tatbestand | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten |
+| Beweislast | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung |
+| Rechtsfolge | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Spezial: Abmahnung – Compliance-Dokumentation und Aktenführung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Spezial: Abmahnung – Compliance-Dokumentation und Aktenführung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Urheberrechtliche Abmahnung – Paragraf 97a UrhG | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Spezial: Anmeldung – Behörden, Gerichte und Registerwege | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Gewerblicher Rechtsschutz: Plugin anpassen | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Spezial: Compliance – Mandantenkommunikation und Entscheidungsvorlage | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Mandantennachricht oder Entscheidungsvorlage. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Spezial: Anmeldung – Behörden, Gerichte und Registerwege | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Gewerblicher Rechtsschutz: Plugin anpassen | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Spezial: Compliance – Mandantenkommunikation und Entscheidungsvorlage | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
+- UrhG Paragraf 2: geschuetzte Werke.
+- UrhG Paragraf 15: Verwertungsrechte.
+- UrhG Paragraf 31: Einraeumung von Nutzungsrechten.
+- UrhG Paragraf 51: Zitatrecht.
 - Paragraf 97a UrhG – dejure.org: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BRAO Paragraf 50 (Aktenführung): gesetze-im-internet.de/brao: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 97 UrhG – Unterlassungs- und Schadensersatzanspruch bei Urheberrechts: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 97a Abs. 1 UrhG – Abmahnung als notwendige Voraussetzung für: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 97a Abs. 2 UrhG – Mindestinhalt: Abgemahnter, Rechteinhaber,: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 97a Abs. 3 UrhG – Kostendeckelung bei privater Erstnutzung auf 100 €: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 97a Abs. 4 UrhG – Kosten einer unberechtigten Abmahnung trägt der: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schoepfung als unionsrechtlichen Werkanker.
+- EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Spezial: Abmahnung – Compliance-Dokumentation und Aktenführung, Urheberrechtliche Abmahnung – Paragraf 97a UrhG, Spezial: Anmeldung – Behörden, Gerichte und Registerwege, Gewerblicher Rechtsschutz: Plugin anpassen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Spezial: Abmahnung – Compliance-Dokumentation und Aktenführung, Urheberrechtliche Abmahnung – Paragraf 97a UrhG, Spezial: Anmeldung – Behörden, Gerichte und Registerwege, Gewerblicher Rechtsschutz: Plugin anpassen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

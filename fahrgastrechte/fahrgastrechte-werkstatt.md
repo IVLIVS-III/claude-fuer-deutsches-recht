@@ -14,34 +14,6 @@ Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unter
 
 Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
 
-### 1.2. Ausgabeformate für schnelle Lieferung
-
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Frist oder Eilsache | Fristenblatt mit nächstem Handlungstag | Fristbeginn, Fristende, Zuständigkeit und Zustellungsweg trennen |
-| Schriftsatz oder Antrag | Antragssatz plus drei tragende Begründungsabsätze | Jede Tatsache bekommt Beleg oder Lückenmarke |
-| Mandantenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko und Kostenfolge getrennt ausweisen |
-| Interner Vermerk | Kurzlage, Rechtsanker, Entscheidungsvorschlag | offene Tatsachen nicht als Rechtsunsicherheit tarnen |
-| Vertrag oder Klausel | Entwurfsfassung mit Kommentarrand | sichere Fassung, ausgewogene Fassung und Risikofassung unterscheiden |
-| Gericht oder Behörde | Verfügung, Beschluss- oder Bescheidentwurf | Tenor, Gründe, Nebenentscheidungen und Zustellung mitdenken |
-
-### 1.3. Rückfragenbremse
-
-1. Wenn Dokumente oder ein Ordner vorliegen, zuerst lesen und verwerten; nicht nacherzählen lassen und nicht um Uploads bitten, die schon vorhanden sind.
-2. Wenn der Nutzer nur den Skill startet, mit dem vorhandenen Kontext beginnen: Aktenkern, Frist, Rechtsanker, erstes Arbeitsprodukt.
-3. Wenn Informationen fehlen, nur die Punkte fragen, die das nächste Arbeitsprodukt ändern.
-4. Wenn mehrere Wege möglich sind, die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Wenn eine Frist, Zuständigkeit oder Form unklar ist, zuerst diesen Engpass sichern.
-6. Wenn der Nutzer nur ein Ergebnis braucht, keine Lehrbuchprüfung ausgeben; die Begründung bleibt knapp und belastbar.
-
-### 1.4. Mini-Gerüste
-
-- Sofortvermerk: Nach derzeitigem Stand spricht mehr für [Ergebnis], weil [Norm] an [Tatbestandsmerkmal] anknüpft und [Beleg] diesen Punkt trägt. Offen bleibt [Lücke]. Nächster Schritt: [Handlung].
-- Schriftsatzkern: Der Antrag ist begründet, weil [Tatsache] durch [Beweismittel] belegt ist und [Norm] daraus [Rechtsfolge] ableitet.
-- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg/Norm/Beweislast]. Prozessrisiko: [niedrig/mittel/hoch].
-- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
-- Entscheidungsvorschlag: Option A ist schneller, Option B ist belastbarer. Ich empfehle [Option], weil [entscheidender Grund].
-
 ## 2. Stop-Kriterien
 
 - Frist oder Form kann nicht sicher bestimmt werden.
@@ -72,18 +44,44 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-## 4. Pflichtnormen als Kernsätze
+## 4. Rechtsprechungs-Fallkarte
+
+| Ebene | Fallfrage | Anker | Sofortausgabe |
+| --- | --- | --- | --- |
+| Fallkern | Fahrgastrechte — Anlagen bauen | Paragraf 195 BGB; BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Paragraf 29 ZPO + Art. 7 Nr. 1 lit. b VO (EU) 1215/2012 (Brüssel-Ia) | Fristenblatt oder Prozess-/Verfahrensroute |
+| Begründetheit | Katalog der DB-Ablehnungsgründe und Gegenargumente | Paragraf 29 ZPO + Art. 7 Nr. 1 lit. b VO (EU) 1215/2012 (Brüssel-Ia); Paragraf 23 Nr. 1 GVG (i.d.F. seit 01.01.2026) | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
+
+## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
+
+| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
+| --- | --- | --- | --- |
+| Paragraf 195 BGB | drei Jahre. Paragraf 199 Abs. 1 BGB: Beginn am Schluss des Kalenderjahres, in dem der Anspruch entstand | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 29 ZPO + Art. 7 Nr. 1 lit. b VO (EU) 1215/2012 (Brüssel-Ia) | örtliche Zuständigkeit | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 195, Paragraf 199 Abs. 1 BGB | Verjährung drei Jahre | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+
+## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
+
+| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
+| --- | --- | --- |
+| BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Paragraf 23 Nr. 1 GVG (i.d.F. seit 01.01.2026) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | sachliche Zuständigkeit AG bis 10.000 EUR |
+- Rechtsfolge zuerst als Arbeitsprodukt denken: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt
+- Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
+
+## 7. Pflichtnormen als Kernsätze
 
 - Paragraf 195 BGB: drei Jahre. Paragraf 199 Abs. 1 BGB: Beginn am Schluss des Kalenderjahres, in dem der Anspruch entstand und der Verbraucher Kenntnis hatte: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 29 ZPO + Art. 7 Nr. 1 lit. b VO (EU) 1215/2012 (Brüssel-Ia) — örtliche Zuständigkeit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 195, Paragraf 199 Abs. 1 BGB — Verjährung drei Jahre: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
-## 5. Leitentscheidungen
+## 8. Leitentscheidungen
 
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - Paragraf 23 Nr. 1 GVG (i.d.F. seit 01.01.2026) — sachliche Zuständigkeit AG bis 10.000 EUR
 
-## 6. Prüfraster
+## 9. Prüfraster
 
 1. Wer will was von wem woraus.
 2. Welche Frist, Form oder Zuständigkeit kann das Ergebnis kippen.
@@ -93,7 +91,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 7. Schriftsatz- und Memo-Gerüst
+## 10. Schriftsatz- und Memo-Gerüst
 
 1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
 2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
@@ -103,72 +101,82 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
 7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
 
-## 8. Arbeitsweise
+## 11. Outputvarianten und Empfängerwunsch
+
+| Wunsch | Ausgabe | Mindestinhalt |
+| --- | --- | --- |
+| schnell entscheiden | Kurzvermerk | Fallkern, Paragraf 195 BGB; Paragraf 29 ZPO + Art. 7 Nr. 1 lit. b VO (EU) 1215/2012 (Brüssel-Ia), Risiko, nächster Schritt |
+| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument, Rechtsfolge |
+| versenden | Entwurf | Antrag oder Tenor, Begründung, Anlagen, Frist, Zustellungsweg |
+| beraten | Mandantenbrief | Ergebnis, Optionen, Kosten-/Zeitrisiko, Empfehlung |
+| verhandeln | Vergleichs- oder Klauselvorschlag | sichere Fassung, risikobewusste Fassung, offene Punkte |
+
+## 12. Arbeitsweise
 
 Arbeite zuerst aktennah, dann normnah, dann produktnah. Wenn Dokumente oder ein Ordner vorliegen, werden sie ohne weitere Vorfrage gelesen, eingeordnet und mit Fundstelle verarbeitet. Wenn der Nutzer nur den Prompt startet, prüfe zuerst, ob Kontext, Dateien oder ein Arbeitsordner erkennbar sind; erst wenn wirklich keine Unterlagen vorliegen, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert. Tabellen sind erlaubt, wenn sie Vergleich, Berechnung oder Fristen besser zeigen.
 
 Selbstcheck vor Ausgabe: Ist die Frist benannt? Ist die Form geklärt? Ist die richtige Rolle getroffen? Ist die Rechtsfolge aus einer Norm abgeleitet? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
 
-## 9. Qualitätskontrolle und Abschluss
+## 13. Qualitätskontrolle und Abschluss
 
 Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
 
-## 10. Musterbausteine
+## 14. Musterbausteine
 
 - Memo-Kernsatz: Nach dem derzeit belegten Sachverhalt spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt.
 - Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
 - Schriftsatzkern: Der Anspruch ist begründet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
 
-## 11. Materienbezogene Arbeitsfelder
+## 15. Materienbezogene Arbeitsfelder
 
-### 11.1. Fahrgastrechte — Anlagen bauen
+### 15.1. Fahrgastrechte — Anlagen bauen
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+`yaml schriftsatz: [pfad zum Schriftsatz, z.B. widerspruch-2026-05-15.md] rohbelegeverzeichnis: [fall]/belege/ ausgabeverzeichnis: [fall]/anlagen/ bundle: true # erzeugt zusätzlich SchriftsatzmitAnlagen.pdf schriftgradstempel: 12 schriftstempel: Arial-Bold # Arial 12 FETT oben. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.2. Katalog der DB-Ablehnungsgründe und Gegenargumente
+### 15.2. Katalog der DB-Ablehnungsgründe und Gegenargumente
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Generell: Beweislast für außergewöhnliche Umstände und die Ergreifung zumutbarer Maßnahmen liegt beim Eisenbahnverkehrsunternehmen (Art. 19 Abs. 10 VO 2021/782 — Wortlaut "nachweisen kann"). Pauschale Behauptungen ohne Belege reichen nicht. Beweislast für Ankunftszeit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.3. Eigenbeförderung und Betreuung (Art. 18. 20 VO; Paragraf 11 EVO)
+### 15.3. Eigenbeförderung und Betreuung (Art. 18. 20 VO; Paragraf 11 EVO)
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tatbestand: Wenn dem Fahrgast die verfügbaren Optionen für Weiterreise mit geänderter Streckenführung nicht binnen 100 Minuten nach planmäßiger Abfahrtszeit des verspäteten oder ausgefallenen Verkehrsdienstes oder des verpassten Anschlusses mitgeteilt werden, ist der Fahrgast. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.4. Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn
+### 15.4. Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+VO (EU) 2021/782 vom 29. April 2021 — Neufassung, in Kraft seit 7. Juni 2023, ersetzt VO (EG) 1371/2007. ABl. L 172 vom 17.5.2021, S. 1. eur-lex.europa.eu (CELEX 32021R0782). - EVO 2023 — Eisenbahnverkehrs-Verordnung vom 4. August 2023 (BGBl. 2023 I Nr. 208). Ergänzt die EU-VO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.5. Entschädigung berechnen
+### 15.5. Entschädigung berechnen
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Art. 19 VO (EU) 2021/782 — Entschädigung in zwei Stufen: Mindestauszahlung: 4 EUR pro Fahrkarte (Art. 19 Abs. 8). EVU darf Beträge darunter ablehnen. Bezugsgröße: Tatsächlich entrichteter Fahrpreis. Bei Hin- und Rückfahrt-Beförderungsvertrag: halber Fahrpreis als Bezug (Art. 19. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.6. Forderungsschreiben — Erste Stufe
+### 15.6. Forderungsschreiben — Erste Stufe
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+DB Dialog GmbH — Servicecenter Fahrgastrechte, 60647 Frankfurt am Main (Postanschrift; korrekter Postweg auch bei Online-Antrag, wenn schriftliche Spur gewünscht). - Alternativ: Online-Formular auf bahn.de/fahrgastrechte oder über die DB Navigator-App. Empfehlung: parallel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.7. Kaltstart Triage
+### 15.7. Kaltstart Triage
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.8. Klage zum Amtsgericht (Fahrgastrechte)
+### 15.8. Klage zum Amtsgericht (Fahrgastrechte)
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Eine Klage ist ein Rechtsschriftsatz mit Konsequenzen (Gerichtskosten, Streitwert-Risiko, Auslagen). Vor Einreichung Beweislage prüfen — auf konkrete Vorhalt-Antworten der DB reagieren können. Bei komplexen Fällen oder höherem Streitwert anwaltliche Hilfe einholen; ggf. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.9. Schlichtungsstelle Reise & Verkehr e.V. anrufen
+### 15.9. Schlichtungsstelle Reise & Verkehr e.V. anrufen
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Vorgerichtliche Geltendmachung beim EVU. Der Anspruch muss zunächst bei der DB / dem EVU geltend gemacht und mindestens vier Wochen lang ohne befriedigende Antwort geblieben oder abgelehnt worden sein. 2. Keine anhängige Klage: Die Schlichtung scheidet aus, wenn der Anspruch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.10. Ticket- und Reisedaten erfassen
+### 15.10. Ticket- und Reisedaten erfassen
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.11. Verspätung, Zugausfall oder Anschlussverlust einordnen
+### 15.11. Verspätung, Zugausfall oder Anschlussverlust einordnen
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Fernverkehr (ICE, IC, EC, FlixTrain, ÖBB) → Art. 19 VO ungeschmälert (60/120 Min). - SPNV (RE, RB, S-Bahn im SPNV-Sinn) → Art. 19 VO ungeschmälert PLUS Paragraf 11 EVO Zusatzrechte (20-Min-Schwelle für Alternativzug; 120-EUR-Limit Ersatzbeförderung bei Nachtfahrt). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.12. Vollmacht für Mitreisende
+### 15.12. Vollmacht für Mitreisende
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+``` Vollmacht Ich, [Vor- und Nachname Vollmachtgeber:in], geboren am [Geburtsdatum], wohnhaft [Adresse], bevollmächtige hiermit [Vor- und Nachname Vollmachtnehmer:in], geboren am [Geburtsdatum], wohnhaft [Adresse], mich in allen Angelegenheiten betreffend meinen Anspruch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.13. Fahrgastrechte-Widerspruch — Skill
+### 15.13. Fahrgastrechte-Widerspruch — Skill
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Der Nutzer lädt typischerweise drei Dokumente hoch: 1. Ablehnungsschreiben der DB — der Brief, in dem die DB den Antrag ablehnt (PDF oder Foto). 2. Ursprünglicher Antrag — das vom Nutzer ausgefüllte Fahrgastrechte-Formular bzw. die Bestätigung (PDF, Screenshot oder Foto). 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

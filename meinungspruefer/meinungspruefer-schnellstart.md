@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Beleglage bei Tatsachenbehauptungen: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix.
 6. Beleidigung: Risikoampel, Gegenargumente und Verteidigungslinien: Tragende Normen verifizieren: StGB Paragrafen 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO Paragrafen 100a, 102.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | Art. 5 GG schützt auch scharfe, polemische und verletzende Meinungen; Art. 11 GRCh ersetzt Art. 5 GG nicht, sondern wirkt; Art. 10 EMRK schützt Freiheit der Meinungsäußerung; Einschränkungen |
+| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung); EuGH, Urteil vom 16.12.2008 - C-73/07, Satakunnan Markkinapörssi |
+| Tatbestand | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Beleglage bei Tatsachenbehauptungen | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Beleidigung: Risikoampel, Gegenargumente und Verteidigungslinien | Tragende Normen verifizieren: StGB Paragrafen 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO Paragrafen 100a, 102. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - Art. 5 GG schützt auch scharfe, polemische und verletzende Meinungen. Das bedeutet nicht, dass Ehrschutz verdrängt wird. Es bedeutet: Im Normalfall muss konkret abgewogen werden: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 11 GRCh ersetzt Art. 5 GG nicht, sondern wirkt im Anwendungsbereich des Unionsrechts: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -45,10 +56,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - EuGH, Urteil vom 14.02.2019 - C-345/17, Buivids: Auch Einzelpersonen können journalistische Zwecke verfolgen; Veröffentlichung von Polizeivideo braucht Abwägung mit Datenschutz
 - EuGH, Urteil vom 24.09.2019 - C-507/17, Google/CNIL: De-Referenzierung muss räumlich und grundrechtlich austariert werden; kein Automatismus weltweiter Löschung
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Reaktion auf Abmahnung oder Strafanzeige, Art. 5 GG - Abwägung, Aeusserungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage, Betrieb, Kantine und Arbeitgeber: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Reaktion auf Abmahnung oder Strafanzeige, Art. 5 GG - Abwägung, Aeusserungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage, Betrieb, Kantine und Arbeitgeber: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

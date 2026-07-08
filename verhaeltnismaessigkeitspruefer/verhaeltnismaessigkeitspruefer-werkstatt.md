@@ -14,34 +14,6 @@ Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unter
 
 Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
 
-### 1.2. Ausgabeformate für schnelle Lieferung
-
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Frist oder Eilsache | Fristenblatt mit nächstem Handlungstag | Fristbeginn, Fristende, Zuständigkeit und Zustellungsweg trennen |
-| Schriftsatz oder Antrag | Antragssatz plus drei tragende Begründungsabsätze | Jede Tatsache bekommt Beleg oder Lückenmarke |
-| Mandantenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko und Kostenfolge getrennt ausweisen |
-| Interner Vermerk | Kurzlage, Rechtsanker, Entscheidungsvorschlag | offene Tatsachen nicht als Rechtsunsicherheit tarnen |
-| Vertrag oder Klausel | Entwurfsfassung mit Kommentarrand | sichere Fassung, ausgewogene Fassung und Risikofassung unterscheiden |
-| Gericht oder Behörde | Verfügung, Beschluss- oder Bescheidentwurf | Tenor, Gründe, Nebenentscheidungen und Zustellung mitdenken |
-
-### 1.3. Rückfragenbremse
-
-1. Wenn Dokumente oder ein Ordner vorliegen, zuerst lesen und verwerten; nicht nacherzählen lassen und nicht um Uploads bitten, die schon vorhanden sind.
-2. Wenn der Nutzer nur den Skill startet, mit dem vorhandenen Kontext beginnen: Aktenkern, Frist, Rechtsanker, erstes Arbeitsprodukt.
-3. Wenn Informationen fehlen, nur die Punkte fragen, die das nächste Arbeitsprodukt ändern.
-4. Wenn mehrere Wege möglich sind, die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Wenn eine Frist, Zuständigkeit oder Form unklar ist, zuerst diesen Engpass sichern.
-6. Wenn der Nutzer nur ein Ergebnis braucht, keine Lehrbuchprüfung ausgeben; die Begründung bleibt knapp und belastbar.
-
-### 1.4. Mini-Gerüste
-
-- Sofortvermerk: Nach derzeitigem Stand spricht mehr für [Ergebnis], weil [Norm] an [Tatbestandsmerkmal] anknüpft und [Beleg] diesen Punkt trägt. Offen bleibt [Lücke]. Nächster Schritt: [Handlung].
-- Schriftsatzkern: Der Antrag ist begründet, weil [Tatsache] durch [Beweismittel] belegt ist und [Norm] daraus [Rechtsfolge] ableitet.
-- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg/Norm/Beweislast]. Prozessrisiko: [niedrig/mittel/hoch].
-- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
-- Entscheidungsvorschlag: Option A ist schneller, Option B ist belastbarer. Ich empfehle [Option], weil [entscheidender Grund].
-
 ## 2. Stop-Kriterien
 
 - Frist oder Form kann nicht sicher bestimmt werden.
@@ -72,7 +44,40 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-## 4. Pflichtnormen als Kernsätze
+## 4. Rechtsprechungs-Fallkarte
+
+| Ebene | Fallfrage | Anker | Sofortausgabe |
+| --- | --- | --- | --- |
+| Fallkern | Absolute Grenze: Menschenwürdiges Existenzminimum | Art. 3 Abs. 2 und Abs. 3 GG sind lex specialis. Greift ein besonderer; BVerfGE 125, 175 (Hartz-IV-Urteil, Existenzminimum) | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Art. 3 Abs. 1 GG verbietet nicht jede Ungleichbehandlung, sondern | Fristenblatt oder Prozess-/Verfahrensroute |
+| Begründetheit | Absolute Grenze: Menschenwuerde Art 1 I GG | Art. 3 Abs. 1 GG verbietet nicht jede Ungleichbehandlung, sondern; Begründet in BVerfGE 27, 1 (Mikrozensus-Urteil) und vertieft | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
+
+## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
+
+| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
+| --- | --- | --- | --- |
+| Art. 3 Abs. 2 und Abs. 3 GG sind lex specialis. Greift ein besonderer | Art. 3 Abs. 2 und Abs. 3 GG sind lex specialis. Greift ein besonderer Gleichheitssatz wird die Prüfung | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Art. 3 Abs. 1 GG verbietet nicht jede Ungleichbehandlung, sondern | Art. 3 Abs. 1 GG verbietet nicht jede Ungleichbehandlung, sondern die ungerechtfertigte | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Art. 3 Abs. 3 GG übersehen | wenn das Differenzierungsmerkmal in Abs. 3 aufgeführt ist, gelten strengere Massstaebe; eigene Prüfung | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Das Schema ist ein Darstellungswerkzeug, kein Ersatz für die Wertung. Es muss | Das Schema ist ein Darstellungswerkzeug, kein Ersatz für die Wertung. Es muss die vier Stufen | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| GG Art. 1 Abs. 1, Art. 2 Abs. 1, Art. 5, Art. 8, Art. 12, Art. 14 | GG Art. 1 Abs. 1, Art. 2 Abs. 1, Art. 5, Art. 8, Art. 12, Art. 14 je nach Grundrecht | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| GG Art. 19 Abs. 2 und Abs. 4 | Wesensgehalt und Rechtsschutz | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| GG Art. 20 Abs. 3 | Gesetzesbindung und Verhältnismäßigkeit als rechtsstaatlicher Maßstab | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+
+## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
+
+| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
+| --- | --- | --- |
+| BVerfGE 125, 175 (Hartz-IV-Urteil, Existenzminimum) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BVerfGE 125, 175 (Hartz-IV-Urteil, Existenzminimum) |
+| Begründet in BVerfGE 27, 1 (Mikrozensus-Urteil) und vertieft in BVerfGE 30, 1 (Abhoer-Urteil) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Begründet in BVerfGE 27, 1 (Mikrozensus-Urteil) und vertieft in BVerfGE 30, 1 (Abhoer-Urteil) |
+| Aktuelle Anwendung | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BVerfGE 115, 118 (Luftsicherheitsgesetz-Urteil) – Abschuss eines mit Unbeteiligten besetzten Flugzeugs verletzt |
+| BVerfGE 27, 1 (Mikrozensus-Urteil) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BVerfGE 27, 1 (Mikrozensus-Urteil) |
+| BVerfGE 30, 1 (Abhoer-Urteil, Objektformel) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BVerfGE 30, 1 (Abhoer-Urteil, Objektformel) |
+- Rechtsfolge zuerst als Arbeitsprodukt denken: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt
+- Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
+
+## 7. Pflichtnormen als Kernsätze
 
 - Art. 3 Abs. 2 und Abs. 3 GG sind lex specialis. Greift ein besonderer Gleichheitssatz wird die Prüfung dort geführt. Art. 3 Abs. 1 GG wirkt nur subsidiaer wenn: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 3 Abs. 1 GG verbietet nicht jede Ungleichbehandlung, sondern die ungerechtfertigte. Die Rechtfertigung folgt einer eigenen Dogmatik, die der allgemeinen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -83,7 +88,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - GG Art. 20 Abs. 3: Gesetzesbindung und Verhältnismäßigkeit als rechtsstaatlicher Maßstab: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - GRCh Art. 52 Abs. 1 bei Unionsrechtsbezug: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
-## 5. Leitentscheidungen
+## 8. Leitentscheidungen
 
 - BVerfGE 125, 175 (Hartz-IV-Urteil, Existenzminimum)
 - Begründet in BVerfGE 27, 1 (Mikrozensus-Urteil) und vertieft in BVerfGE 30, 1 (Abhoer-Urteil)
@@ -91,7 +96,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BVerfGE 27, 1 (Mikrozensus-Urteil)
 - BVerfGE 30, 1 (Abhoer-Urteil, Objektformel)
 
-## 6. Prüfraster
+## 9. Prüfraster
 
 1. Wer will was von wem woraus.
 2. Welche Frist, Form oder Zuständigkeit kann das Ergebnis kippen.
@@ -101,7 +106,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 7. Schriftsatz- und Memo-Gerüst
+## 10. Schriftsatz- und Memo-Gerüst
 
 1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
 2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
@@ -111,76 +116,86 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
 7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
 
-## 8. Arbeitsweise
+## 11. Outputvarianten und Empfängerwunsch
+
+| Wunsch | Ausgabe | Mindestinhalt |
+| --- | --- | --- |
+| schnell entscheiden | Kurzvermerk | Fallkern, Art. 3 Abs. 2 und Abs. 3 GG sind lex specialis. Greift ein besonderer; Art. 3 Abs. 1 GG verbietet nicht jede, Risiko, nächster Schritt |
+| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument, Rechtsfolge |
+| versenden | Entwurf | Antrag oder Tenor, Begründung, Anlagen, Frist, Zustellungsweg |
+| beraten | Mandantenbrief | Ergebnis, Optionen, Kosten-/Zeitrisiko, Empfehlung |
+| verhandeln | Vergleichs- oder Klauselvorschlag | sichere Fassung, risikobewusste Fassung, offene Punkte |
+
+## 12. Arbeitsweise
 
 Arbeite zuerst aktennah, dann normnah, dann produktnah. Wenn Dokumente oder ein Ordner vorliegen, werden sie ohne weitere Vorfrage gelesen, eingeordnet und mit Fundstelle verarbeitet. Wenn der Nutzer nur den Prompt startet, prüfe zuerst, ob Kontext, Dateien oder ein Arbeitsordner erkennbar sind; erst wenn wirklich keine Unterlagen vorliegen, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert. Tabellen sind erlaubt, wenn sie Vergleich, Berechnung oder Fristen besser zeigen.
 
 Selbstcheck vor Ausgabe: Ist die Frist benannt? Ist die Form geklärt? Ist die richtige Rolle getroffen? Ist die Rechtsfolge aus einer Norm abgeleitet? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
 
-## 9. Qualitätskontrolle und Abschluss
+## 13. Qualitätskontrolle und Abschluss
 
 Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
 
-## 10. Musterbausteine
+## 14. Musterbausteine
 
 - Memo-Kernsatz: Nach dem derzeit belegten Sachverhalt spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt.
 - Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
 - Schriftsatzkern: Der Anspruch ist begründet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
 
-## 11. Materienbezogene Arbeitsfelder
+## 15. Materienbezogene Arbeitsfelder
 
-### 11.1. Absolute Grenze: Menschenwürdiges Existenzminimum
+### 15.1. Absolute Grenze: Menschenwürdiges Existenzminimum
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+] Der Staat darf das Existenzminimum nicht unterschreiten – auch nicht aus haushalts- oder fiskalpolitischen Gründen. Diese Grenze hat das BVerfG aus Art 1 I GG in Verbindung mit dem Sozialstaatsprinzip Art 20 I GG entwickelt. - Art 1 I GG: Menschenwuerde als objektiver Wert. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.2. Absolute Grenze: Menschenwuerde Art 1 I GG
+### 15.2. Absolute Grenze: Menschenwuerde Art 1 I GG
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+] Die Menschenwuerde ist die einzige Norm im Grundgesetz, die jeder Abwägung entzogen ist. Wo sie verletzt ist, endet die Verhältnismäßigkeitsprüfung – ohne Stufe 4. - Art 1 I 1 GG: "Die Wuerde des Menschen ist unantastbar." - Art 79 III GG: Änderungsfest (Ewigkeitsklausel). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.3. Absolute Grenze: Wesensgehalt Art 19 II GG
+### 15.3. Absolute Grenze: Wesensgehalt Art 19 II GG
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+] "In keinem Falle darf ein Grundrecht in seinem Wesensgehalt angetastet werden." (Art 19 II GG) Wesensgehalt ist das, was nach umfassender Verhältnismäßigkeitsprüfung uebrig bleibt. In dieser Lesart hat Art 19 II GG keinen eigenstaendigen Bedeutungsgewinn neben. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.4. Abwägungsgesetz und Gewichtsformel — Alexys Werkzeug für Stufe 4
+### 15.4. Abwägungsgesetz und Gewichtsformel — Alexys Werkzeug für Stufe 4
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Stufe 4 (Angemessenheit) wirkt oft wie Bauchgefühl. Alexys Gewichtsformel formalisiert die Wertungen, ohne sie zu ersetzen. Wer die Formel beherrscht, kann eine Abwägung strukturiert begründen — in Klausur, Schriftsatz oder Gutachten. ] Je groesser der Grad der Nichterfuellung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.5. AGG-Systematik und Verhältnismäßigkeit als Rechtfertigung
+### 15.5. AGG-Systematik und Verhältnismäßigkeit als Rechtfertigung
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Das AGG ist die einfachrechtliche Brückennorm zwischen dem verfassungsrechtlichen Diskriminierungsverbot des Art. 3 Abs. 3 GG und den Unionsrichtlinien zur Gleichbehandlung. Verhältnismäßigkeit taucht im AGG nicht als selbständiger Prüfungsschritt auf sondern als integrierter. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.6. Angemessenheit Abwägung
+### 15.6. Angemessenheit Abwägung
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Auf der vierten Stufe wird abgewogen: Steht der Eingriff in einem ausgewogenen Verhältnis zum Zweckgewinn? BVerfGE 65, 1 (Volkszaehlung) (Volkszaehlung): "Im Spannungsverhaeltnis zwischen Individuum und Gemeinschaft im Sinne der Gemeinschaftsbezogenheit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.7. Apotheken Urteil BVerfGE 7 377
+### 15.7. Apotheken Urteil BVerfGE 7 377
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Bayerisches Apothekenrecht knüpfte Apotheken-Neukonzessionen an Beduerfnisnachweis (objektive Voraussetzung). Kläger wollte ohne Beduerfnisnachweis Apotheke eröffnen. Senat 1 BVerfG, Beschluss 11.06.1958, BVerfGE 7, 377 (Apotheken-Urteil). Verstoß gegen Art 12 I GG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.8. Besondere Gleichheitssätze — Art. 3 Abs. 2 und Abs. 3 GG
+### 15.8. Besondere Gleichheitssätze — Art. 3 Abs. 2 und Abs. 3 GG
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Art. 3 Abs. 2 und Abs. 3 GG verschaerfen den allgemeinen Gleichheitssatz für bestimmte Merkmale. Anders als bei Art. 3 Abs. 1 GG ist hier die Anknüpfung an das verbotene Merkmal grundsätzlich verboten und nur ausnahmsweise zu rechtfertigen. Dieser Skill ordnet die Prüfung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.9. Allgemeiner Gleichheitssatz — Art. 3 Abs. 1 GG als Differenzierungsprüfung
+### 15.9. Allgemeiner Gleichheitssatz — Art. 3 Abs. 1 GG als Differenzierungsprüfung
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Art. 3 Abs. 1 GG verbietet nicht jede Ungleichbehandlung, sondern die ungerechtfertigte. Die Rechtfertigung folgt einer eigenen Dogmatik, die der allgemeinen Verhältnismäßigkeitsprüfung folgt, aber eine vorgelagerte Vergleichsstufe und einen gleitenden Prüfungsmassstab kennt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.10. ASCII-Prüfungsschema Verhältnismäßigkeit
+### 15.10. ASCII-Prüfungsschema Verhältnismäßigkeit
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Das Schema ist ein Darstellungswerkzeug, kein Ersatz für die Wertung. Es muss die vier Stufen der Verhältnismäßigkeit, die Schranken-Schranken und bei kollidierendem Verfassungsrecht die praktische Konkordanz sichtbar machen. - GG Art. 1 Abs. 1, Art. 2 Abs. 1, Art. 5, Art. 8. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.11. Audiovisuelle Leitentscheidungen Sammlung
+### 15.11. Audiovisuelle Leitentscheidungen Sammlung
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Offizielle BVerfG-Seite — Entscheidung, Pressemitteilung, Terminhinweis, Verkuendungsvideo nur mit stabiler URL. 2. OEffentlich-rechtliche Mediatheken — nur wenn der Beitrag dauerhaft auffindbar ist oder archiviert werden darf. 3. Phoenix/Parlamentsfernsehen/Hochschulkanal —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.12. Belgien Redelijkheid und Evenredigheid
+### 15.12. Belgien Redelijkheid und Evenredigheid
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Die Belgische Grondwet von 1831 (revidiert 1994) schuetzt klassische Freiheitsrechte in Titel II (Art 8 bis 32 GW). Wesentlich: - Art 10 und 11 GW: allgemeiner Gleichheitssatz und Diskriminierungsverbot; von der Cour constitutionnelle als Einfallstor. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.13. Bestimmtheit und Normklarheit
+### 15.13. Bestimmtheit und Normklarheit
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+] Eingriffsgesetze müssen so klar sein, dass Bürger ihr Verhalten an ihnen ausrichten und Gerichte sie rechtssicher anwenden können. Diese Anforderung ist Vorfrage jeder Verhältnismäßigkeitsprüfung. - Wurzeln in Art 20 III GG (Rechtsstaatsprinzip), Art 19 IV GG (effektiver. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.14. Bundesnotbremse BVerfGE 159 223
+### 15.14. Bundesnotbremse BVerfGE 159 223
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Vierte Änderung des Infektionsschutzgesetzes vom 22.04.2021 sah naechtliche Ausgangsbeschraenkungen, Kontaktbeschraenkungen, Schulschließungen vor, wenn Sieben-Tage-Inzidenz bestimmte Werte überschritt. Mehr als 7000 Verfassungsbeschwerden. Senat 1 BVerfG, Beschluss 19.11.2021. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

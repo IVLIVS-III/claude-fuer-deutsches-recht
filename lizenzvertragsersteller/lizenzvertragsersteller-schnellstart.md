@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Insolvenz-Fortbestand der Lizenz ($ 103 InsO): Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen.
 6. IP-Identifikation und Bestandsaufnahme: Ohne saubere IP-Identifikation kein guter Lizenzvertrag. Dieser Skill liefert die IP-Inventur für die Anlage A.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | UrhG Paragrafen 31, 32, 32a (Urheberrechtslizenzen, angemessene; PatG Paragrafen 9, 15 (Lizenz); Paragraf 24 (Zwangslizenz); MarkenG Paragrafen 30 (Lizenz), 27 (Übertragung) |
+| Rechtsprechung | → Nach Schrems II (EuGH C-311/18) |
+| Tatbestand | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Insolvenz-Fortbestand der Lizenz ($ 103 InsO) | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | IP-Identifikation und Bestandsaufnahme | Ohne saubere IP-Identifikation kein guter Lizenzvertrag. Dieser Skill liefert die IP-Inventur für die Anlage A. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - UrhG Paragrafen 31, 32, 32a (Urheberrechtslizenzen, angemessene Vergütung); Paragraf 69a ff. (Software); Paragraf 137l UrhG (unbekannte Nutzungsarten): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - PatG Paragrafen 9, 15 (Lizenz); Paragraf 24 (Zwangslizenz): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -46,10 +57,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Art. 101 Abs. 3 AEUV - Freistellungsmöglichkeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - → Nach Schrems II (EuGH C-311/18): Transfer Impact Assessment (TIA) bei jedem Drittlandstransfer Pflicht
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Datenschutz — Datenschutz-Grundverordnung im Lizenzvertrag, Anwalts-Dashboard Lizenzvertragsersteller, Escrow / Quellcode-Verwahrer-Vereinbarung, Exportkontrolle — Dual-Use und Lizenz: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Datenschutz — Datenschutz-Grundverordnung im Lizenzvertrag, Anwalts-Dashboard Lizenzvertragsersteller, Escrow / Quellcode-Verwahrer-Vereinbarung, Exportkontrolle — Dual-Use und Lizenz: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

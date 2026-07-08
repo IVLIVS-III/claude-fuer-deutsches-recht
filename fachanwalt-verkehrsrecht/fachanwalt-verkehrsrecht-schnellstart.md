@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Blitzer Messung Paragraf 3 StVO: Prüfe Blitzer Messung Paragraf 3 StVO von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache.
 6. Bussgeld Einspruch Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer.: Tragende Normen verifizieren: StGB Paragrafen 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO Paragrafen 100a, 102.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | Paragraf 115 Abs. 1 VVG; Paragraf 249 Abs. 1 und 2 BGB; Paragraf 253 Abs. 2 BGB |
+| Rechtsprechung | sofern vom Gerät gespeichert; vgl. BVerfG, Beschl. v. 12.11.2020,; 2 BvR 1616/18; BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20 |
+| Tatbestand | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Blitzer Messung Paragraf 3 StVO | Prüfe Blitzer Messung Paragraf 3 StVO von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Bussgeld Einspruch Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer. | Tragende Normen verifizieren: StGB Paragrafen 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO Paragrafen 100a, 102. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - Paragraf 115 Abs. 1 VVG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 249 Abs. 1 und 2 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -46,10 +57,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - sofern vom Gerät gespeichert; vgl. BVerfG, Beschl. v. 12.11.2020,
 - 2 BvR 1616/18; BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20 — kein
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder 315C: Internationaler Bezug und Schnittstellen, Anschluss-Routing, Autonom: Abschlussprodukt und Übergabe, Bezuege: Behörden-, Gerichts- oder Registerweg: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder 315C: Internationaler Bezug und Schnittstellen, Anschluss-Routing, Autonom: Abschlussprodukt und Übergabe, Bezuege: Behörden-, Gerichts- oder Registerweg: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

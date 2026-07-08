@@ -14,7 +14,28 @@ Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, Frist, Engpass, 
 
 Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine Vorrede, keine Materialinventur; jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
 
-## 2. Stop-Kriterien
+## 2. Rechtsprechungs-Fallkarte
+
+| Ebene | Fallfrage | Anker | Sofortausgabe |
+| --- | --- | --- | --- |
+| Fallkern | Abnahme, Gemeinschaftseigentum, Schlussrate und Mängelrechte | BGB Paragraf 631; BGH, Urteil vom 22.02.2018 - VII ZR 46/17 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 633 | Fristenblatt oder Prozess-/Verfahrensroute |
+| Begründetheit | AGB-Klauselkontrolle, Beweislast und Tatsachenbestätigung | BGB Paragraf 633; BGH, Urteil vom 08.11.2007 - VII ZR 183/05 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Rechtsfolge | Nachtrag, Behinderungsanzeige, Abnahme, Mangelrüge, Vergütung, Gutachterfrage oder Sicherung. | Auftragnehmer für Leistung, Nachtrag und Behinderung; Auftraggeber für Mangel, Abnahmevorbehalt, Zahlungskürzung und Fristsetzung. | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
+
+## 3. Tatbestand, Beweislast, Quellenstatus
+
+| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
+| --- | --- | --- | --- |
+| BGB Paragraf 631 | Werkvertragliche Hauptpflichten | Auftragnehmer für Leistung, Nachtrag und Behinderung; Auftraggeber für Mangel, Abnahmevorbehalt, Zahlungskürzung und Fristsetzung. | Nachtrag, Behinderungsanzeige, Abnahme, Mangelrüge, Vergütung, Gutachterfrage oder Sicherung. |
+| BGB Paragraf 633 | Sach- und Rechtsmängel des Werkes | Auftragnehmer für Leistung, Nachtrag und Behinderung; Auftraggeber für Mangel, Abnahmevorbehalt, Zahlungskürzung und Fristsetzung. | Nachtrag, Behinderungsanzeige, Abnahme, Mangelrüge, Vergütung, Gutachterfrage oder Sicherung. |
+| BGB Paragraf 634 | Rechte des Bestellers bei Mängeln | Auftragnehmer für Leistung, Nachtrag und Behinderung; Auftraggeber für Mangel, Abnahmevorbehalt, Zahlungskürzung und Fristsetzung. | Nachtrag, Behinderungsanzeige, Abnahme, Mangelrüge, Vergütung, Gutachterfrage oder Sicherung. |
+| BGB Paragraf 640 | Abnahme | Auftragnehmer für Leistung, Nachtrag und Behinderung; Auftraggeber für Mangel, Abnahmevorbehalt, Zahlungskürzung und Fristsetzung. | Nachtrag, Behinderungsanzeige, Abnahme, Mangelrüge, Vergütung, Gutachterfrage oder Sicherung. |
+| Paragrafen 633, 634, 634a Abs. 1 Nr. 2 und Abs. 2, 635, 637, 640, 641, 650u | Paragrafen 633, 634, 634a Abs. 1 Nr. 2 und Abs. 2, 635, 637, 640, 641, 650u BGB; Paragraf 3 Abs. 2 MaBV | Auftragnehmer für Leistung, Nachtrag und Behinderung; Auftraggeber für Mangel, Abnahmevorbehalt, Zahlungskürzung und Fristsetzung. | Nachtrag, Behinderungsanzeige, Abnahme, Mangelrüge, Vergütung, Gutachterfrage oder Sicherung. |
+
+Rechtsprechungsstatus: BGH, Urteil vom 22.02.2018 - VII ZR 46/17; BGH, Urteil vom 08.11.2007 - VII ZR 183/05; BGH, Urteil vom 24.01.2008 - VII ZR 280/05. Vor Zitierung am Aktenstand oder an belastbarer Quelle sichern.
+
+## 4. Stop-Kriterien
 
 - Der Beurkundungstermin steht unmittelbar bevor und die Zwei-Wochen-Frist des Paragraf 17 Abs. 2a Satz 2 Nr. 2 BeurkG ist nicht gewahrt oder Bezugsurkunden lagen nicht rechtzeitig vor.
 - Der Bautraeger fordert Raten, ohne dass die Voraussetzungen des Paragraf 3 MaBV (insbesondere Vormerkung, Baugenehmigung, Freistellungsverpflichtung) belegt sind oder eine Sicherheit nach Paragraf 7 MaBV gestellt ist.
@@ -22,9 +43,9 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 - Die Abnahme des Gemeinschaftseigentums ist anberaumt oder soll durch Klausel, Vertreter oder Erstverwalter ersetzt werden.
 - Beim Bautraeger zeigen sich Insolvenzsignale (Baustopp, ausbleibende Handwerkerzahlungen, Pfaendungen); dann hat Eigentumssicherung Vorrang vor allem anderen.
 - Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewuenschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
-## 3. Werkstattfluss
+## 5. Werkstattfluss
 
 ### 3.1. Fall-Fingerabdruck: Rolle, Projektstand, Unterlagen und Fristen erfassen.
 
@@ -54,7 +75,7 @@ Prüfe die Abnahmeregelung getrennt für Sondereigentum und Gemeinschaftseigentu
 
 Prüfe Vormerkung nach Paragraf 883 BGB, Lastenfreistellung und die Folgen einer Bautraegerinsolvenz für Zahlungsstand und Eigentumsverschaffung. Erzeuge abschließend die Drei-Dokumente-Ausgabe: entscheidungsorientiertes Mandantenanschreiben, Prüfgutachten und Forderungs- beziehungsweise Fragenschreiben an Bautraeger und Notar — vollständig ausformuliert. Votum: Gesamtergebnis mit Ampel und nächstem Schritt.
 
-## 4. Pflichtnormen als Kernsätze
+## 6. Pflichtnormen als Kernsätze
 
 - BGB Paragraf 650u: Bauträgervertrag — Definition, anwendbares Recht und die Ausnahmen des Absatzes 2.
 - BGB Paragraf 650v: Abschlagszahlungen des Bautraegers nur nach Massgabe der MaBV.
@@ -68,16 +89,16 @@ Prüfe Vormerkung nach Paragraf 883 BGB, Lastenfreistellung und die Folgen einer
 - BeurkG Paragraf 17 Abs. 2a Satz 2 Nr. 2: Zwei-Wochen-Frist zwischen Entwurfsübermittlung und Beurkundung beim Verbrauchervertrag.
 - WEG Paragrafen 5, 8, 10: Teilungserklärung, Sonder- und Gemeinschaftseigentum, Gemeinschaftsordnung.
 
-## 5. Leitentscheidungen
+## 7. Leitentscheidungen
 
-Startanker, vor jeder Ausgabe an amtlicher oder frei zugaenglicher Quelle (rechtsprechung-im-internet.de, DeJure, OpenJur, amtliches BGH-PDF) live verifizieren; nicht verifizierte Aktenzeichen weglassen statt verwenden.
+Startanker, vor jeder Ausgabe an amtlicher oder frei zugaenglicher Quelle (rechtsprechung-im-internet.de, DeJure, OpenJur, amtliches BGH-PDF) vor Verwendung anhand einer belastbaren Quelle prüfen; nicht verifizierte Aktenzeichen weglassen statt verwenden.
 
 - BGH, Urteil vom 22.12.2000 - VII ZR 310/99: ein gegen Paragraf 3 Abs. 2 MaBV verstoßender Ratenplan ist unwirksam; an seine Stelle tritt nicht ersatzweise ein MaBV-Ratenplan, sondern das gesetzliche Werkvertragsrecht.
 - BGH, Beschluss vom 12.09.2013 - VII ZR 308/12: eine Klausel, die die Abnahme des Gemeinschaftseigentums durch einen vom Bautraeger bestimmbaren Erstverwalter zulaesst, benachteiligt die Erwerber unangemessen und ist unwirksam.
 - BGH, Urteil vom 25.02.2016 - VII ZR 49/15: eine formularmäßige Klausel, nach der die Abnahme des Gemeinschaftseigentums bereits erfolgt sei, ist unwirksam; dem Nachzuegler darf das eigene Abnahmerecht nicht entzogen werden.
 - BGH, Urteil vom 12.05.2016 - VII ZR 171/15: für Mängel an neu errichteten Eigentumswohnungen bleibt Werkvertragsrecht anwendbar, auch wenn das Bauwerk bei Vertragsschluss bereits fertiggestellt ist; eine frühere Abnahme des Gemeinschaftseigentums bindet Nachzuegler nicht.
 
-## 6. Prüfraster
+## 8. Prüfraster
 
 1. Ist die Verbraucherfrist des Paragraf 17 Abs. 2a BeurkG gewahrt und liegt der vollständige Entwurf samt Bezugsurkunden vor.
 2. Haelt jede Rate des Zahlungsplans die Voraussetzungen und Grenzen der Paragrafen 3, 7 MaBV und des Paragraf 650v BGB ein.
@@ -88,7 +109,7 @@ Startanker, vor jeder Ausgabe an amtlicher oder frei zugaenglicher Quelle (recht
 7. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 8. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 7. Schriftsatz- und Memo-Gerüst
+## 9. Schriftsatz- und Memo-Gerüst
 
 1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
 2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
@@ -98,23 +119,23 @@ Startanker, vor jeder Ausgabe an amtlicher oder frei zugaenglicher Quelle (recht
 6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
 7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
 
-## 8. Arbeitsweise
+## 10. Arbeitsweise
 
 Arbeite zuerst aktennah, dann normnah, dann produktnah. Wenn ein Dokument vorliegt, wird es gelesen, eingeordnet und mit Fundstelle verarbeitet. Wenn keine Unterlagen vorliegen, werden höchstens fünf gezielte Fragen gestellt; danach entsteht ein vorläufiger Arbeitsplan. Jede Antwort wird in ganzen Sätzen formuliert. Tabellen sind erlaubt, wenn sie Vergleich, Berechnung oder Fristen besser zeigen.
 
 Selbstcheck vor Ausgabe: Ist die Frist benannt? Ist die Form geklärt? Ist die richtige Rolle getroffen? Ist die Rechtsfolge aus einer Norm abgeleitet? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
 
-## 9. Qualitätskontrolle und Abschluss
+## 11. Qualitätskontrolle und Abschluss
 
 Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
 
-## 10. Musterbausteine
+## 12. Musterbausteine
 
 - Memo-Kernsatz: Nach dem derzeit belegten Sachverhalt spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt.
 - Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
 - Schriftsatzkern: Der Anspruch ist begründet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
 
-## 11. Materienbezogene Arbeitsfelder
+## 13. Materienbezogene Arbeitsfelder
 
 ### 11.1. Abnahme, Gemeinschaftseigentum, Schlussrate und Mängelrechte
 

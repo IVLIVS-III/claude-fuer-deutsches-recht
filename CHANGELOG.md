@@ -1,3 +1,13 @@
+# v429.7.0 — Fallkarten und Ankerlogik für Werkstatt und Schnellstart
+
+- Werkstatt-Prompts repo-weit entgenerisiert: neue Rechtsprechungs-Fallkarte, Normenanker-/Tatbestandsmatrix, Beweislastmerker, Quellenstatus und Outputvarianten stehen vor langen Prüfwegen und führen schneller zum Arbeitsprodukt.
+- Schnellstart-Prompts repo-weit verdichtet: jeder kompakte Prompt enthält nun Fallkarte, Normenanker, Rechtsprechungsanker, Tatbestandsgriff, Beweislast, Rechtsfolge und Quellenstatus innerhalb der 7500-Byte-Grenze.
+- Prompt-Generator gehärtet: UTF-8-Byte-Grenzen werden korrekt geprüft, zu lange Schnellstarts werden kontrolliert kompaktiert, Metasätze aus Skillbeschreibungen werden nicht mehr als fachlicher Tatbestand übernommen.
+- Themenprofile erweitert und Routingfehler behoben: Spezialgebiete wie Denkmalschutz, Ordnungswidrigkeiten, Schutzrechte, Berufs- und Verwaltungsrecht greifen jetzt deutlich häufiger auf passende Profilanker zu; schutzrechtliche Unterlassungserklärungen fallen nicht mehr fälschlich in die Strafrechtsroute.
+- Handkuratierte Promptsets wurden ergänzend mit Fallkarten-, Beweislast- und Quellenstatuslogik versehen, ohne ihre fachlichen Kerntexte zu überschreiben.
+
+---
+
 # v429.6.0 — Schnellstart-Routing und Aktivierungssignale
 
 - Schnellstart-Generator gehärtet: Fachrouten für Bau-, Software- und EU-Prozess-Themen werden nicht mehr durch bloße Teilworttreffer ausgelöst. Dadurch verschwinden fachfremde Sofortgriffe aus zahlreichen kompakten Prompts.

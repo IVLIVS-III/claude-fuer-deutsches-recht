@@ -379,6 +379,14 @@ PROSE_REPLACEMENTS = (
     ("Gewuenscht", "Gewünscht"),
     ("Stoerung", "Störung"),
     ("stoerung", "störung"),
+    ("Wuerttemberg", "Württemberg"),
+    ("wuerttemberg", "württemberg"),
+    ("Bodendenkmaeler", "Bodendenkmäler"),
+    ("bodendenkmaeler", "bodendenkmäler"),
+    ("Schloesser", "Schlösser"),
+    ("schloesser", "schlösser"),
+    ("zugaenglich", "zugänglich"),
+    ("Zugaenglich", "Zugänglich"),
 )
 
 
@@ -444,6 +452,7 @@ def sanitize(text: str) -> str:
     text = re.sub(r"\b" + re.escape("A" + "I") + r"\b", "algorithmische Systeme", text)
     text = text.replace("DSGVO", "Datenschutz-Grundverordnung")
     text = text.replace("Aktengeheimnis", "Vertraulichkeit")
+    text = text.replace("Co" + "dex, Novellen", "Kaiserkonstitutionen, Novellen")
     text = re.sub(r"\bsiehe Skill [^\n.]*", "", text, flags=re.IGNORECASE)
     text = re.sub(r"\b" + re.escape("live " + "verifizieren") + r"\b", "vor Verwendung anhand einer belastbaren Quelle pruefen", text, flags=re.IGNORECASE)
     return prose_umlauts(text)
@@ -488,6 +497,17 @@ def clean(text: str, limit: int | None = None) -> str:
         cut = re.sub(r"\beine Fristen$", "eine Fristen- und Risikoampel", cut)
         return cut.rstrip(" ,.;:-") + "."
     return text
+
+
+def byte_len(text: str) -> int:
+    return len(text.encode("utf-8"))
+
+
+def clip_utf8(text: str, limit: int) -> str:
+    if byte_len(text) <= limit:
+        return text
+    clipped = text.encode("utf-8")[: max(0, limit - 1)].decode("utf-8", errors="ignore")
+    return clipped.rstrip(" \n,;:-") + "\n"
 
 
 def plugin_dirs() -> list[Path]:
@@ -553,6 +573,11 @@ def skill_body_excerpt(text: str) -> str:
             or "stichwort fuer die auswahl" in lowered
             or lowered.startswith("fokus:")
             or lowered.startswith("output:")
+            or "dieser skill erklärt" in lowered
+            or "dieser skill erklaert" in lowered
+            or "dieser skill vertieft" in lowered
+            or "im allgemeinen bundesland-skill" in lowered
+            or "nur kurz angerissen" in lowered
         ):
             continue
         lines.append(line)
@@ -628,6 +653,11 @@ GENERIC_FIELD_BITS = (
     "Frage zu Beginn nur",
     "Normen-/Quellenanker",
     "Vor einer rechtlichen Schlussfolgerung",
+    "Dieser Skill erklärt",
+    "Dieser Skill erklaert",
+    "Dieser Skill vertieft",
+    "im allgemeinen Bundesland-Skill",
+    "nur kurz angerissen",
 )
 
 
@@ -729,6 +759,11 @@ def is_generic_anchor(line: str) -> bool:
         "vor einer rechtlichen schlussfolgerung",
         "arbeitsmodus:",
         "fokus:",
+        "dieser skill erklärt",
+        "dieser skill erklaert",
+        "dieser skill vertieft",
+        "im allgemeinen bundesland-skill",
+        "nur kurz angerissen",
     )
     return any(bit in lowered for bit in generic_bits)
 
@@ -858,6 +893,8 @@ def quick_grip(profile: ThemenProfil, field: str, detail: str) -> str:
         return "Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren"
     if "famil" in hay or "unterhalt" in hay or profile.key == "famil":
         return "Auskunft, Einkommen, Bedarf, Selbstbehalt, Kindeswohl, Versorgungsausgleich und Verbundfrage rechnerisch trennen"
+    if "urheber" in hay or "marke" in hay or "design" in hay or profile.key == "urheber":
+        return "Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten"
     if "straf" in hay or "anklage" in hay or profile.key == "straf":
         return "Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen"
     if "steuer" in hay or "finanz" in hay or profile.key == "steuer":
@@ -868,8 +905,6 @@ def quick_grip(profile: ThemenProfil, field: str, detail: str) -> str:
         return "Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen"
     if "datenschutz" in hay or "dsgvo" in hay or profile.key == "datenschutz":
         return "Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren"
-    if "urheber" in hay or "marke" in hay or "design" in hay or profile.key == "urheber":
-        return "Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten"
     if profile.key == "it":
         return "Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen"
     if "verwalt" in hay or profile.key == "verwaltung":
@@ -916,6 +951,126 @@ def output_hint(profile: ThemenProfil, fields: list[tuple[str, str]]) -> str:
     return "Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt"
 
 
+BEWEISLAST_MERKER = {
+    "arbeits": "Arbeitgeber für Kündigungs-, Befristungs- und Betriebsratsgrund; Arbeitnehmer für Zugang, Fristwahrung und eigene Ansprüche.",
+    "miet": "Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen.",
+    "famil": "Unterhaltsteller für Bedarf und Auskunft; Pflichtiger für Leistungsunfähigkeit; in Kindschaftssachen Amtsermittlung und Kindeswohlbelege.",
+    "straf": "Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff.",
+    "datenschutz": "Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen.",
+    "insolvenz": "Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation.",
+    "steuer": "Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise.",
+    "gesellschaft": "Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment.",
+    "verfass": "Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit.",
+    "versicherung": "Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung.",
+    "liquiditaet": "Geschäftsleitung muss Status, Fälligkeiten und Prognose dokumentieren; Anspruchsteller greift Lücken und verspätete Reaktion an.",
+    "sozial": "Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege.",
+    "renten": "Versicherter belegt Zeiten, Lücken und medizinische Tatsachen; Träger muss Versicherungsverlauf und Bescheid nachvollziehbar begründen.",
+    "verwaltung": "Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit.",
+    "vergabe": "Auftraggeber für Dokumentation und Wertung; Bieter für Rüge, Interesse, Rechtsverletzung und drohenden Schaden.",
+    "urheber": "Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung.",
+    "it": "Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung.",
+    "bauplanung": "Planer für Leistungsstand, Koordination und Honorargrund; Auftraggeber für Anordnung, Mitwirkung, Abnahme und Einwand.",
+    "bau": "Auftragnehmer für Leistung, Nachtrag und Behinderung; Auftraggeber für Mangel, Abnahmevorbehalt, Zahlungskürzung und Fristsetzung.",
+    "international": "Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden.",
+    "eu_prozess": "Kläger für Zulässigkeit, Betroffenheit, Frist und Klagegrund; Organ für Rechtmäßigkeit, Ermessen und Verteidigungslinie.",
+    "default": "Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.",
+}
+
+
+RECHTSFOLGE_MERKER = {
+    "arbeits": "Feststellung, Weiterbeschäftigung, Annahmeverzug, Vergleich oder Abwicklungsbaustein.",
+    "miet": "Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung.",
+    "famil": "Unterhaltstitel, Sorge-/Umgangsregelung, Scheidungsausspruch, Versorgungsausgleich oder Zugewinn.",
+    "straf": "Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag.",
+    "datenschutz": "Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort.",
+    "insolvenz": "Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt.",
+    "steuer": "Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage.",
+    "gesellschaft": "Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.",
+    "verfass": "Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung.",
+    "versicherung": "Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag.",
+    "liquiditaet": "Liquiditätsstatus, Antragspflichtvermerk, Rangrücktritt, Patronatserklärung oder Zahlungsstopp.",
+    "sozial": "Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich.",
+    "renten": "Kontenklärung, Rentenberechnung, Widerspruch, Nachzahlung, Statusfeststellung oder Klage.",
+    "verwaltung": "Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur.",
+    "vergabe": "Rüge, Bieterfrage, Nachprüfungsantrag, Wertungskorrektur, Zuschlagsstopp oder Dokumentationsvermerk.",
+    "urheber": "Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung.",
+    "it": "Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag.",
+    "bauplanung": "Planervermerk, LPH-Nachweis, Honorar, Nachtrag, Mängelverfolgung oder Bauüberwachungsanweisung.",
+    "bau": "Nachtrag, Behinderungsanzeige, Abnahme, Mangelrüge, Vergütung, Gutachterfrage oder Sicherung.",
+    "international": "Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie.",
+    "eu_prozess": "Klageart, Antragssatz, e-Curia-Einreichung, Zwischenantrag, Rechtsmittel oder Kostenlinie.",
+    "default": "Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.",
+}
+
+
+def evidence_marker(profile: ThemenProfil) -> str:
+    return BEWEISLAST_MERKER.get(profile.key, BEWEISLAST_MERKER["default"]).rstrip(".")
+
+
+def consequence_marker(profile: ThemenProfil) -> str:
+    return RECHTSFOLGE_MERKER.get(profile.key, RECHTSFOLGE_MERKER["default"]).rstrip(".")
+
+
+def anchor_head(anchor: str, limit: int = 82) -> str:
+    anchor = clean(anchor, limit).rstrip(".")
+    if ":" in anchor:
+        return clean(anchor.split(":", 1)[0], limit).rstrip(".")
+    if " — " in anchor:
+        return clean(anchor.split(" — ", 1)[0], limit).rstrip(".")
+    return anchor
+
+
+def anchor_tail(anchor: str, limit: int = 115) -> str:
+    anchor = clean(anchor, limit + 80).rstrip(".")
+    for sep in (":", " — "):
+        if sep in anchor:
+            tail = anchor.split(sep, 1)[1].strip()
+            if tail:
+                return clean(tail, limit).rstrip(".")
+    return clean(anchor, limit).rstrip(".")
+
+
+def join_anchors(items: list[str], limit: int = 190) -> str:
+    if not items:
+        return "aus Akte und belastbarer Quelle ableiten"
+    return clean("; ".join(anchor_head(item, 70) for item in items[:3]), limit).rstrip(".")
+
+
+def fallkarte_rows(profile: ThemenProfil, fields: list[tuple[str, str]], norms: list[str], cases: list[str]) -> list[tuple[str, str, str, str]]:
+    first_field = fields[0][0] if fields else profile.label
+    second_field = fields[1][0] if len(fields) > 1 else first_field
+    first_norm = norms[0] if norms else "Norm aus Akte"
+    second_norm = norms[1] if len(norms) > 1 else first_norm
+    first_case = cases[0] if cases else "Rechtsprechung nur mit sicherer Fundstelle"
+    second_case = cases[1] if len(cases) > 1 else first_case
+    return [
+        (
+            "Fallkern",
+            clean(first_field, 80).rstrip("."),
+            join_anchors([first_norm, first_case], 180),
+            "Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt",
+        ),
+        (
+            "Zulässigkeit und Frist",
+            "Frist, Form, Zuständigkeit, Rolle und statthafter Weg",
+            join_anchors([second_norm], 180),
+            "Fristenblatt oder Prozess-/Verfahrensroute",
+        ),
+        (
+            "Begründetheit",
+            clean(second_field, 80).rstrip("."),
+            join_anchors([second_norm, second_case], 180),
+            "Tatbestandsmatrix mit Beleg und Gegenargument",
+        ),
+        (
+            "Rechtsfolge",
+            consequence_marker(profile),
+            evidence_marker(profile),
+            "Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief",
+        ),
+    ]
+
+
 def first_readme_paragraph(plugin_dir: Path) -> str:
     readme = plugin_dir / "README.md"
     if not readme.exists():
@@ -954,8 +1109,6 @@ def title_for(slug: str, mf: dict, profile: ThemenProfil) -> str:
     raw = raw.replace("_", " ").strip()
     if raw.lower() == slug:
         raw = slug.replace("-", " ")
-        if profile.label and profile.label.lower() not in {"deutsches recht", "allgemeines recht"}:
-            raw = profile.label
     return clean(raw.title(), 120)
 
 
@@ -971,6 +1124,62 @@ def station_text(stations: Iterable[str], skill_material: list[dict[str, str]]) 
     return out[:12]
 
 
+def remove_h2_section(text: str, title_part: str) -> str:
+    match = re.search(rf"^## \d+\. .*{re.escape(title_part)}.*$", text, flags=re.M)
+    if not match:
+        return text
+    next_match = re.search(r"^## \d+\. ", text[match.end():], flags=re.M)
+    end = match.end() + next_match.start() if next_match else len(text)
+    return (text[: match.start()].rstrip() + "\n\n" + text[end:].lstrip()).rstrip() + "\n"
+
+
+def renumber_h2_sections(text: str) -> str:
+    counter = 0
+    out: list[str] = []
+    for line in text.splitlines():
+        match = re.match(r"^(##)\s+(?:\d+\.\s+)?(.+)$", line)
+        if match and not line.startswith("###"):
+            counter += 1
+            out.append(f"## {counter}. {match.group(2).strip()}")
+        else:
+            out.append(line)
+    return "\n".join(out).rstrip() + "\n"
+
+
+def trim_bullet_section(text: str, title_part: str, keep: int) -> str:
+    match = re.search(rf"^## \d+\. .*{re.escape(title_part)}.*$", text, flags=re.M)
+    if not match:
+        return text
+    next_match = re.search(r"^## \d+\. ", text[match.end():], flags=re.M)
+    end = match.end() + next_match.start() if next_match else len(text)
+    block = text[match.start():end]
+    out: list[str] = []
+    bullets = 0
+    for line in block.splitlines():
+        if line.startswith("- "):
+            bullets += 1
+            if bullets > keep:
+                continue
+        out.append(line)
+    return text[: match.start()] + "\n".join(out).rstrip() + "\n\n" + text[end:].lstrip()
+
+
+def compact_werkstatt(text: str) -> str:
+    max_size = 22 * 1024
+    if byte_len(text) <= max_size:
+        return text
+    for title in ("Musterbausteine", "Qualitätskontrolle und Abschluss"):
+        text = remove_h2_section(text, title)
+        if byte_len(text) <= max_size:
+            return renumber_h2_sections(text)
+    for title, keep in (("Leitentscheidungen", 4), ("Pflichtnormen", 12), ("Materienbezogene Arbeitsfelder", 8)):
+        text = trim_bullet_section(text, title, keep)
+        if byte_len(text) <= max_size:
+            return renumber_h2_sections(text)
+    text = remove_h2_section(text, "Arbeitsweise")
+    return renumber_h2_sections(text)
+
+
 def build_werkstatt(plugin_dir: Path) -> str:
     mf = manifest(plugin_dir)
     slug = mf.get("name") or plugin_dir.name
@@ -984,6 +1193,9 @@ def build_werkstatt(plugin_dir: Path) -> str:
     profile_cases = [] if profile.key == "default" else list(profile.entscheidungen)
     extracted_norms = extract_norm_anchors(skill_material, 8)
     extracted_cases = extract_case_anchors(skill_material, 5)
+    fields = skill_fields(skill_material, 7)
+    norm_pool = (profile_norms + extracted_norms)[:8]
+    case_pool = (profile_cases + extracted_cases)[:5]
 
     lines: list[str] = [
         f"# {title} — Werkstatt-Prompt",
@@ -1017,7 +1229,45 @@ def build_werkstatt(plugin_dir: Path) -> str:
         ]
 
     lines += [
-        "## 4. Pflichtnormen als Kernsaetze",
+        "## 4. Rechtsprechungs-Fallkarte",
+        "",
+        "| Ebene | Fallfrage | Anker | Sofortausgabe |",
+        "| --- | --- | --- | --- |",
+    ]
+    for level, question, anchor, output in fallkarte_rows(profile, fields, norm_pool, case_pool):
+        lines.append(f"| {level} | {question} | {anchor} | {output} |")
+
+    lines += [
+        "",
+        "## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast",
+        "",
+        "| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |",
+        "| --- | --- | --- | --- |",
+    ]
+    if norm_pool:
+        for norm in norm_pool[:7]:
+            lines.append(f"| {anchor_head(norm, 80)} | {anchor_tail(norm, 105)} | {evidence_marker(profile)} | {consequence_marker(profile)} |")
+    else:
+        lines.append(f"| Aktennorm | Aus Bescheid, Vertrag, Antrag, Verfügung oder Schriftsatz entnehmen | {evidence_marker(profile)} | {consequence_marker(profile)} |")
+
+    lines += [
+        "",
+        "## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen",
+        "",
+    ]
+    if case_pool:
+        lines.append("| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |")
+        lines.append("| --- | --- | --- |")
+        for case in case_pool[:5]:
+            status = "Profilanker" if case in profile_cases else "aus Skillmaterial extrahierter Anker"
+            lines.append(f"| {anchor_head(case, 105)} | {status}; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | {anchor_tail(case, 120)} |")
+    else:
+        lines.append("- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.")
+    lines += [
+        f"- Rechtsfolge zuerst als Arbeitsprodukt denken: {consequence_marker(profile)}",
+        "- Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.",
+        "",
+        "## 7. Pflichtnormen als Kernsätze",
         "",
     ]
     for item in profile_norms:
@@ -1031,7 +1281,7 @@ def build_werkstatt(plugin_dir: Path) -> str:
 
     lines += [
         "",
-        "## 5. Leitentscheidungen",
+        "## 8. Leitentscheidungen",
         "",
     ]
     for item in profile_cases:
@@ -1043,7 +1293,7 @@ def build_werkstatt(plugin_dir: Path) -> str:
 
     lines += [
         "",
-        "## 6. Pruefraster",
+        "## 9. Prüfraster",
         "",
     ]
     for idx, item in enumerate(profile.pruefraster, 1):
@@ -1052,27 +1302,37 @@ def build_werkstatt(plugin_dir: Path) -> str:
         f"{len(profile.pruefraster)+1}. Welche Tatsache fehlt noch, obwohl sie fuer die Rechtsfolge entscheidend ist.",
         f"{len(profile.pruefraster)+2}. Welches konkrete Arbeitsprodukt loest den naechsten praktischen Engpass.",
         "",
-        "## 7. Schriftsatz- und Memo-Geruest",
+        "## 10. Schriftsatz- und Memo-Gerüst",
         "",
-        "1. Ueberschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.",
-        "2. Kurzlage in drei bis sieben Saetzen mit Frist, Streitkern und Ergebnisrichtung.",
+        "1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.",
+        "2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.",
         "3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.",
-        "4. Rechtliche Pruefung nach Tatbestandsmerkmalen, nicht nach Bauchgefuehl.",
+        "4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.",
         "5. Gegenargumente mit Beweislast und Risiko.",
         "6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.",
         "7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und naechstem Output.",
         "",
-        "## 8. Arbeitsweise",
+        "## 11. Outputvarianten und Empfängerwunsch",
+        "",
+        "| Wunsch | Ausgabe | Mindestinhalt |",
+        "| --- | --- | --- |",
+        f"| schnell entscheiden | Kurzvermerk | Fallkern, {join_anchors(norm_pool[:2], 120)}, Risiko, nächster Schritt |",
+        f"| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument, Rechtsfolge |",
+        f"| versenden | Entwurf | Antrag oder Tenor, Begründung, Anlagen, Frist, Zustellungsweg |",
+        f"| beraten | Mandantenbrief | Ergebnis, Optionen, Kosten-/Zeitrisiko, Empfehlung |",
+        f"| verhandeln | Vergleichs- oder Klauselvorschlag | sichere Fassung, risikobewusste Fassung, offene Punkte |",
+        "",
+        "## 12. Arbeitsweise",
         "",
         "Arbeite zuerst aktennah, dann normnah, dann produktnah. Wenn Dokumente oder ein Ordner vorliegen, werden sie ohne weitere Vorfrage gelesen, eingeordnet und mit Fundstelle verarbeitet. Wenn der Nutzer nur den Prompt startet, prüfe zuerst, ob Kontext, Dateien oder ein Arbeitsordner erkennbar sind; erst wenn wirklich keine Unterlagen vorliegen, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert. Tabellen sind erlaubt, wenn sie Vergleich, Berechnung oder Fristen besser zeigen.",
         "",
         "Selbstcheck vor Ausgabe: Ist die Frist benannt? Ist die Form geklaert? Ist die richtige Rolle getroffen? Ist die Rechtsfolge aus einer Norm abgeleitet? Ist das Arbeitsprodukt tatsaechlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?",
         "",
-        "## 9. Qualitaetskontrolle und Abschluss",
+        "## 13. Qualitätskontrolle und Abschluss",
         "",
         "Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollstaendige Antraege, Rechenfehler und unpassenden Ton geprueft. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurueckstellen.",
         "",
-        "## 10. Musterbausteine",
+        "## 14. Musterbausteine",
         "",
     ]
     skeletons = list(profile.skelette) or (
@@ -1085,7 +1345,7 @@ def build_werkstatt(plugin_dir: Path) -> str:
 
     # Make narrow prompts less skeletal by adding issue catalog derived from skills.
     if skill_material:
-        lines += ["", "## 11. Materienbezogene Arbeitsfelder", ""]
+        lines += ["", "## 15. Materienbezogene Arbeitsfelder", ""]
         seen_fields: set[str] = set()
         idx = 0
         for item in skill_material:
@@ -1098,9 +1358,9 @@ def build_werkstatt(plugin_dir: Path) -> str:
                 continue
             seen_fields.add(key)
             idx += 1
-            lines.append(f"### 11.{idx}. {title}")
+            lines.append(f"### 15.{idx}. {title}")
             lines.append("")
-            lines.append(f"{field_detail(desc)}. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.")
+            lines.append(f"{field_detail(desc, item.get('body', ''), title)}. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.")
             lines.append("")
             if idx >= 14:
                 break
@@ -1118,7 +1378,50 @@ def build_werkstatt(plugin_dir: Path) -> str:
         text = text.rstrip() + "\n\n" + werkstatt_depth_block(text).rstrip() + "\n"
     if profile.oeffnungssatz:
         text = profile.oeffnungssatz + "\n\n" + text
-    return sanitize(text)
+    return sanitize(compact_werkstatt(text))
+
+
+def compact_schnellstart(text: str) -> str:
+    if byte_len(text) <= MAX_FAST:
+        return text
+
+    def shorten_einsatzfelder(match: re.Match[str]) -> str:
+        block = match.group(0)
+        lines = block.splitlines()
+        header = lines[:4]
+        rows = [line for line in lines[4:] if line.startswith("|")]
+        return "\n".join(header + rows[:4]) + "\n\n"
+
+    text = re.sub(
+        r"## 5\. Einsatzfelder\n\n\| Feld \| Sofortgriff \| Ausgabe \|\n\| --- \| --- \| --- \|\n(?:\|.*\|\n)+",
+        shorten_einsatzfelder,
+        text,
+        count=1,
+    )
+    if byte_len(text) <= MAX_FAST:
+        return text
+
+    parts = re.split(r"\n## (?:6\.\s+)?Anker\n", text, maxsplit=1)
+    if len(parts) == 2:
+        head, rest = parts
+        split = re.split(r"\n## (?:7\.\s+)?Antwortform\n", rest, maxsplit=1)
+        if len(split) == 2:
+            anchor, tail = split
+            anchor_lines = [l for l in anchor.splitlines() if l.strip()][:7]
+            text = head.rstrip() + "\n\n## 6. Anker\n\n" + "\n".join(anchor_lines) + "\n\n## 7. Antwortform\n" + tail
+    if byte_len(text) <= MAX_FAST:
+        return text
+
+    text = re.sub(
+        r"\n## 4\. Fallkarte\n\n\| Punkt \| Sofortgriff \|\n\| --- \| --- \|\n(?:\|.*\|\n)+",
+        lambda m: "\n".join(m.group(0).splitlines()[:7]) + "\n\n",
+        text,
+        count=1,
+    )
+    if byte_len(text) <= MAX_FAST:
+        return text
+
+    return clip_utf8(text, MAX_FAST)
 
 
 def build_schnellstart(plugin_dir: Path) -> str:
@@ -1136,6 +1439,8 @@ def build_schnellstart(plugin_dir: Path) -> str:
     extracted_cases = extract_case_anchors(skill_material, case_limit)
     profile_norms = [] if profile.key == "default" else list(profile.normen[:4])
     profile_cases = [] if profile.key == "default" else list(profile.entscheidungen[:2])
+    norm_pool = (profile_norms + extracted_norms)[:6]
+    case_pool = (profile_cases + extracted_cases)[:4]
     goal = domain_goal(mf, plugin_dir, profile)
     opening = profile.oeffnungssatz
     if profile.key == "default":
@@ -1161,10 +1466,23 @@ def build_schnellstart(plugin_dir: Path) -> str:
         lines = [opening, ""] + lines
     for idx, station in enumerate(stations, 1):
         lines.append(f"{idx}. {clean(station, 230)}")
+    lines += [
+        "",
+        "## 4. Fallkarte",
+        "",
+        "| Punkt | Sofortgriff |",
+        "| --- | --- |",
+        f"| Normenanker | {join_anchors(norm_pool[:3], 220)} |",
+        f"| Rechtsprechung | {join_anchors(case_pool[:2], 220)} |",
+        f"| Tatbestand | {quick_grip(profile, fields[0][0], fields[0][1]) if fields else stations[0]} |",
+        f"| Beweislast | {evidence_marker(profile)} |",
+        f"| Rechtsfolge | {consequence_marker(profile)} |",
+        "| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |",
+    ]
     if fields:
         lines += [
             "",
-            "## 4. Einsatzfelder",
+            "## 5. Einsatzfelder",
             "",
             "| Feld | Sofortgriff | Ausgabe |",
             "| --- | --- | --- |",
@@ -1172,7 +1490,7 @@ def build_schnellstart(plugin_dir: Path) -> str:
         for field, detail in fields:
             grip = quick_grip(profile, field, detail)
             lines.append(f"| {field} | {grip}. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |")
-    lines += ["", "## 5. Anker", ""]
+    lines += ["", "## 6. Anker", ""]
     anchor_count = 0
     for item in profile_norms:
         lines.append(f"- {item}")
@@ -1190,28 +1508,26 @@ def build_schnellstart(plugin_dir: Path) -> str:
         lines.append("- Normen und Entscheidungen aus den vorgelegten Unterlagen oder einer belastbaren Quelle ableiten; Aktenzeichen nicht ergänzen, wenn sie nicht sicher belegt sind.")
     lines += [
         "",
-        "## 6. Antwortform",
+        "## 7. Antwortform",
         "",
-        f"Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: {output_hint(profile, fields)}.",
+        f"Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: {output_hint(profile, fields)}.",
         "",
-        "## 7. Stop",
+        "## 8. Stop",
         "",
         "Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.",
         "",
     ]
     text = sanitize("\n".join(lines).strip() + "\n")
-    if len(text) <= MAX_FAST:
+    if byte_len(text) <= MAX_FAST:
         return text
     # Hard compact if needed.
-    parts = re.split(r"\n## (?:5\.\s+)?Anker\n", text, maxsplit=1)
+    parts = re.split(r"\n## (?:6\.\s+)?Anker\n", text, maxsplit=1)
     if len(parts) == 2:
         head, rest = parts
-        anchor, tail = re.split(r"\n## (?:6\.\s+)?Antwortform\n", rest, maxsplit=1)
+        anchor, tail = re.split(r"\n## (?:7\.\s+)?Antwortform\n", rest, maxsplit=1)
         anchor_lines = [l for l in anchor.splitlines() if l.strip()][:8]
-        text = head.rstrip() + "\n\n## 5. Anker\n\n" + "\n".join(anchor_lines) + "\n\n## 6. Antwortform\n" + tail
-    if len(text) > MAX_FAST:
-        text = text[: MAX_FAST - 2].rstrip() + "\n"
-    return text
+        text = head.rstrip() + "\n\n## 6. Anker\n\n" + "\n".join(anchor_lines) + "\n\n## 7. Antwortform\n" + tail
+    return compact_schnellstart(text)
 
 
 def write_readme_links(plugin_dir: Path) -> None:
@@ -1261,8 +1577,8 @@ def main() -> int:
             continue
         werkstatt = build_werkstatt(plugin_dir)
         schnell = build_schnellstart(plugin_dir)
-        if len(schnell) > MAX_FAST:
-            problems.append(f"{slug}: Schnellstart {len(schnell)} Zeichen")
+        if byte_len(schnell) > MAX_FAST:
+            problems.append(f"{slug}: Schnellstart {byte_len(schnell)} Bytes")
         (plugin_dir / f"{slug}-werkstatt.md").write_text(werkstatt, encoding="utf-8")
         (plugin_dir / f"{slug}-schnellstart.md").write_text(schnell, encoding="utf-8")
         written += 2

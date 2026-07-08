@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Amtstraeger Ressourcen: Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —.
 6. Angriff Auf Wahlleitung Vermeiden: Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | Art. 21 Abs. 1 GG; Art. 21 Abs. 1 GG; Art. 38 Abs. 1 GG |
+| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Tatbestand | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,17 +46,17 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Amtstraeger Ressourcen | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Angriff Auf Wahlleitung Vermeiden | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze. - Paragraf 1 Abs. 1 BWahlG — Wahlrechtsgrundlagen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder 72 Stunden Sprint, Ad Library Transparenz, Agenturvertrag Compliance, Aktenplan und Beweisarchiv: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder 72 Stunden Sprint, Ad Library Transparenz, Agenturvertrag Compliance, Aktenplan und Beweisarchiv: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

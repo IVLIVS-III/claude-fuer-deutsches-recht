@@ -52,7 +52,40 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-## 4. Pflichtnormen als Kernsätze
+## 4. Rechtsprechungs-Fallkarte
+
+| Ebene | Fallfrage | Anker | Sofortausgabe |
+| --- | --- | --- | --- |
+| Fallkern | Mandant oder Anwalt benötigt Einsicht in die Verwaltungsakte oder Gerichtsakte | SGB I Paragraf 39; BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | SGB X Paragraf 20 | Fristenblatt oder Prozess-/Verfahrensroute |
+| Begründetheit | Anwalt hat Sozialrechts-Verwaltungs- oder Gerichtsakte erhalten und muss diese | SGB X Paragraf 20; BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Rechtsfolge | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
+
+## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
+
+| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
+| --- | --- | --- | --- |
+| SGB I Paragraf 39 | Sozialleistungen als Anspruch bei Vorliegen der gesetzlichen Voraussetzungen | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich |
+| SGB X Paragraf 20 | Amtsermittlung im Sozialverwaltungsverfahren | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich |
+| SGB X Paragraf 24 | Anhörung vor belastendem Verwaltungsakt | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich |
+| SGG Paragraf 87 | Klagefrist | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich |
+| SGG Paragraf 103 | Amtsermittlung im sozialgerichtlichen Verfahren | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich |
+| SGG Paragraf 86b | einstweiliger Rechtsschutz | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich |
+| SGB V Paragraf 27 | Krankenbehandlung muss medizinisch notwendig und wirtschaftlich sein | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich |
+
+## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
+
+| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
+| --- | --- | --- |
+| BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | existenzsichernde Leistungen müssen transparent und realitätsgerecht bemessen sein |
+| BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Sanktionen im Grundsicherungsrecht unterliegen strenger Verhaeltnismaessigkeitskontrolle |
+| BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | lebensbedrohliche oder regelmäßig toedliche Erkrankungen können Leistungsansprüche der Krankenversicherung |
+| BSG, Urteil vom 16.12.2008 - B 4 AS 48/07 R | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Unterkunftskosten sind am konkreten Bedarf und an einem schluessigen Konzept zu messen |
+| BSG, Urteil vom 02.09.2009 - B 6 KA 34/08 R | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | sozialrechtliche Sachverhaltsaufklärung verlangt verwertbare medizinische und tatsächliche Grundlagen |
+- Rechtsfolge zuerst als Arbeitsprodukt denken: Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich
+- Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
+
+## 7. Pflichtnormen als Kernsätze
 
 - SGB I Paragraf 39: Sozialleistungen als Anspruch bei Vorliegen der gesetzlichen Voraussetzungen.
 - SGB X Paragraf 20: Amtsermittlung im Sozialverwaltungsverfahren.
@@ -73,7 +106,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 165 SGB III: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 86b Abs. 2 Satz 4 SGG iVm Paragraf 920 Abs. 2 ZPO — eidesstattliche Versicherung Urkunden glaubhafte Belege. Verweis auf Skill anlagen-erstellen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
-## 5. Leitentscheidungen
+## 8. Leitentscheidungen
 
 - BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09: existenzsichernde Leistungen müssen transparent und realitätsgerecht bemessen sein.
 - BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhaeltnismaessigkeitskontrolle.
@@ -84,7 +117,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - JC verhängt 30 Prozent Kürzung wegen Terminversäumnis. - Paragraf 31 SGB - Paragraf 7 SGB II - Paragraf 31 SGB II - Paragraf 43 SGB VI - Paragraf 14 SGB IX - Paragraf 109 SGG - BVerfG 05.11.2019 1 BvL
 - BVerfG 05.11.2019 1 BvL 7/16 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 
-## 6. Prüfraster
+## 9. Prüfraster
 
 1. Welcher Bescheid wird mit welchem Ziel angegriffen.
 2. Welche Frist läuft und ist Vorverfahren erforderlich.
@@ -95,7 +128,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 7. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 8. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 7. Schriftsatz- und Memo-Gerüst
+## 10. Schriftsatz- und Memo-Gerüst
 
 1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
 2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
@@ -105,76 +138,86 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
 7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
 
-## 8. Arbeitsweise
+## 11. Outputvarianten und Empfängerwunsch
+
+| Wunsch | Ausgabe | Mindestinhalt |
+| --- | --- | --- |
+| schnell entscheiden | Kurzvermerk | Fallkern, SGB I Paragraf 39; SGB X Paragraf 20, Risiko, nächster Schritt |
+| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument, Rechtsfolge |
+| versenden | Entwurf | Antrag oder Tenor, Begründung, Anlagen, Frist, Zustellungsweg |
+| beraten | Mandantenbrief | Ergebnis, Optionen, Kosten-/Zeitrisiko, Empfehlung |
+| verhandeln | Vergleichs- oder Klauselvorschlag | sichere Fassung, risikobewusste Fassung, offene Punkte |
+
+## 12. Arbeitsweise
 
 Arbeite zuerst aktennah, dann normnah, dann produktnah. Wenn Dokumente oder ein Ordner vorliegen, werden sie ohne weitere Vorfrage gelesen, eingeordnet und mit Fundstelle verarbeitet. Wenn der Nutzer nur den Prompt startet, prüfe zuerst, ob Kontext, Dateien oder ein Arbeitsordner erkennbar sind; erst wenn wirklich keine Unterlagen vorliegen, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert. Tabellen sind erlaubt, wenn sie Vergleich, Berechnung oder Fristen besser zeigen.
 
 Selbstcheck vor Ausgabe: Ist die Frist benannt? Ist die Form geklärt? Ist die richtige Rolle getroffen? Ist die Rechtsfolge aus einer Norm abgeleitet? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
 
-## 9. Qualitätskontrolle und Abschluss
+## 13. Qualitätskontrolle und Abschluss
 
 Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
 
-## 10. Musterbausteine
+## 14. Musterbausteine
 
 - Memo-Kernsatz: Nach dem derzeit belegten Sachverhalt spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt.
 - Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
 - Schriftsatzkern: Der Anspruch ist begründet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
 
-## 11. Materienbezogene Arbeitsfelder
+## 15. Materienbezogene Arbeitsfelder
 
-### 11.1. Akteneinsicht Anfordern
+### 15.1. Akteneinsicht Anfordern
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.2. Akteneinsicht Auswerten
+### 15.2. Akteneinsicht Auswerten
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: SGG Paragrafen 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; Paragraf 84 SGG Klage; Paragraf 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.3. Anlagen Erstellen
+### 15.3. Anlagen Erstellen
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: SGG Paragrafen 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; Paragraf 84 SGG Klage; Paragraf 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.4. Arbeitslosengeld Paragraf 150 sgb iii
+### 15.4. Arbeitslosengeld Paragraf 150 sgb iii
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe Arbeitslosengeld Paragraf 150 sgb iii von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 150 SGB III - Paragraf 44 SGB V - Paragraf 43 SGB VI - Paragraf 65 SGB VI. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.5. Arbeitsunfall Paragraf 8 sgb vii
+### 15.5. Arbeitsunfall Paragraf 8 sgb vii
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe Arbeitsunfall Paragraf 8 sgb vii von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 8 SGB VII - Paragraf 44 SGB V - Paragraf 43 SGB VI - Paragraf 65 SGB VI - Paragraf. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.6. 60-Sekunden-Sofortprüfung der Frist eines sozialrechtlichen Bescheids
+### 15.6. 60-Sekunden-Sofortprüfung der Frist eines sozialrechtlichen Bescheids
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: SGG Paragrafen 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; Paragraf 84 SGG Klage; Paragraf 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.7. Bescheidanalyse
+### 15.7. Bescheidanalyse
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: SGG Paragrafen 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; Paragraf 84 SGG Klage; Paragraf 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.8. Bürgergeld Sanktion Paragraf 31 SGB Ii BVerfG 1 Bvl 7 16
+### 15.8. Bürgergeld Sanktion Paragraf 31 SGB Ii BVerfG 1 Bvl 7 16
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+JC verhängt 30 Prozent Kürzung wegen Terminversäumnis. - Paragraf 31 SGB - Paragraf 7 SGB II - Paragraf 31 SGB II - Paragraf 43 SGB VI - Paragraf 14 SGB IX - Paragraf 109 SGG - BVerfG 05.11.2019 1 BvL 7/16 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.9. Eilantrag Sozialrecht
+### 15.9. Eilantrag Sozialrecht
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: SGG Paragrafen 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; Paragraf 84 SGG Klage; Paragraf 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.10. Eingliederungshilfe Paragraf 99 sgb ix
+### 15.10. Eingliederungshilfe Paragraf 99 sgb ix
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe Eingliederungshilfe Paragraf 99 sgb ix von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 99 SGB IX - Paragraf 44 SGB V - Paragraf 43 SGB VI - Paragraf 65 SGB VI. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.11. Eingliederungshilfe Schule
+### 15.11. Eingliederungshilfe Schule
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: SGG Paragrafen 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; Paragraf 84 SGG Klage; Paragraf 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.12. Einstieg
+### 15.12. Einstieg
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: SGG Paragrafen 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; Paragraf 84 SGG Klage; Paragraf 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.13. Erstgespraech Mandatsannahme
+### 15.13. Erstgespraech Mandatsannahme
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: SGG Paragrafen 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; Paragraf 84 SGG Klage; Paragraf 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.14. Erwerbsminderungsrente
+### 15.14. Erwerbsminderungsrente
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: SGG Paragrafen 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; Paragraf 84 SGG Klage; Paragraf 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

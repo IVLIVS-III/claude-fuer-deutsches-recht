@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Betreuer als Erbe und Beschenkter: Immer dann, wenn die Frage steht, ob ein Berufsbetreuer im Sinne des Paragraf 19 Abs. 2 BtOG durch den Betreuten.
 6. Berufliche und ehrenamtliche Betreuung; Weg zur Registrierung: Wenn der Nutzer wissen will, wer überhaupt Betreuer werden darf, wie sich beruflicher und ehrenamtlicher Betreuer.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | Paragraf 1814 BGB; Paragrafen 1816 ff. BGB; Paragraf 1821 BGB |
+| Rechtsprechung | BGH, Urteil vom 02.07.2025 - IV ZR 93/24; Die Entscheidung des OLG Nürnberg ist Ausdruck der sauberen Trennung |
+| Tatbestand | Tragende Normen verifizieren: BtOG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Betreuer als Erbe und Beschenkter | Immer dann, wenn die Frage steht, ob ein Berufsbetreuer im Sinne des Paragraf 19 Abs. 2 BtOG durch den Betreuten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Berufliche und ehrenamtliche Betreuung; Weg zur Registrierung | Wenn der Nutzer wissen will, wer überhaupt Betreuer werden darf, wie sich beruflicher und ehrenamtlicher Betreuer. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - Paragraf 1814 BGB — Voraussetzungen der Betreuung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 1816 ff. BGB — Auswahl und Eignung des Betreuers: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -48,10 +59,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Die Entscheidung des OLG Nürnberg ist Ausdruck der sauberen Trennung zwischen Berufsrecht (sanktioniert den Betreuer) und materiellem Erbrecht (sanktioniert den Vorgang nicht, weil der Erblasser frei
 - BGH, Beschluss vom 24.09.2025 - XII ZB 513/24: Bei der Bestellung eines Verhinderungsbetreuers gelten die Auswahlkriterien des Paragraf 1816 BGB. Der Wunsch der/des Betroffenen, durch eine nahe Angehörige
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Betreuungsrecht — Allgemein, Anschluss-Routing, Aufgabenkreise festlegen, Bericht: Mandantenkommunikation und Entscheidungsvorlage: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Betreuungsrecht — Allgemein, Anschluss-Routing, Aufgabenkreise festlegen, Bericht: Mandantenkommunikation und Entscheidungsvorlage: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

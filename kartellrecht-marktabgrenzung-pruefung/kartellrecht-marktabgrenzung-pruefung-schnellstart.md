@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Kartellrecht Marktabgrenzung Prüfung ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
 
 # Kartellrecht Marktabgrenzung Prüfung — Schnellstart
 
@@ -17,41 +17,55 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Paragraf 1 GWB Kartellverbot nationale Prüfung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
-2. Paragraf 19a GWB überragende marktübergreifende Bedeutung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
-3. Relative Marktmacht und Economic Dependence: Tragende Normen verifizieren: GWB Paragrafen 18, 19, 20, 35, 36, 39, AEUV Art. 101, 102, FKVO (VO 139/2004).
-4. Aeuv: Behörden-, Gerichts- oder Registerweg: Tragende Normen verifizieren: GWB Paragrafen 18, 19, 20, 35, 36, 39, AEUV Art. 101, 102, FKVO (VO 139/2004).
-5. Algorithmic Collusion und algorithmische Systeme Pricing: Tragende Normen verifizieren: GWB Paragrafen 18, 19, 20, 35, 36, 39, AEUV Art. 101, 102, FKVO (VO 139/2004).
-6. Alleinvertrieb Kundengruppen Gebietsschutz: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
+1. Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen.
+2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen.
+3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
+4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
+5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+6. Paragraf 1 GWB Kartellverbot nationale Prüfung: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | BGB Paragraf 705; HGB Paragraf 105; GmbHG Paragraf 13 |
+| Rechtsprechung | BGH, Urteil vom 29.01.2001 - II ZR 331/00; BGH, Urteil vom 04.07.2005 - II ZR 354/03 |
+| Tatbestand | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen |
+| Beweislast | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment |
+| Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Paragraf 1 GWB Kartellverbot nationale Prüfung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Paragraf 19a GWB überragende marktübergreifende Bedeutung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Relative Marktmacht und Economic Dependence | Tragende Normen verifizieren: GWB Paragrafen 18, 19, 20, 35, 36, 39, AEUV Art. 101, 102, FKVO (VO 139/2004). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aeuv: Behörden-, Gerichts- oder Registerweg | Tragende Normen verifizieren: GWB Paragrafen 18, 19, 20, 35, 36, 39, AEUV Art. 101, 102, FKVO (VO 139/2004). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Algorithmic Collusion und algorithmische Systeme Pricing | Tragende Normen verifizieren: GWB Paragrafen 18, 19, 20, 35, 36, 39, AEUV Art. 101, 102, FKVO (VO 139/2004). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Alleinvertrieb Kundengruppen Gebietsschutz | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Paragraf 1 GWB Kartellverbot nationale Prüfung | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Paragraf 19a GWB überragende marktübergreifende Bedeutung | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Relative Marktmacht und Economic Dependence | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aeuv: Behörden-, Gerichts- oder Registerweg | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Algorithmic Collusion und algorithmische Systeme Pricing | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Alleinvertrieb Kundengruppen Gebietsschutz | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
+- BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
+- HGB Paragraf 105: offene Handelsgesellschaft.
+- GmbHG Paragraf 13: Rechtsnatur der GmbH.
+- GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
 - Paragraf 1 GWB Kartellverbot nationale Prüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB Paragrafen 1: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 101 AEUV (Kartellverbot): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 102 AEUV (Marktbeherrschung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1 GWB (Kartellverbot national): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 18-21 GWB (Marktbeherrschung, Behinderungsverbot): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 19 GWB (Missbrauchsverbot): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 19a GWB (Plattformregulierung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
+- BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
 - EuGH C-413/14 P (Intel, Treuerabatte)
 - EuGH C-67/13 P (Cartes Bancaires, bezweckte Beschränkung)
 - Bezweckte Beschraenkungen Art. 101 Abs. 1 AEUV nicht vorschnell annehmen; EuGH C-67/13 P Cartes Bancaires-Linie prüfen
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Paragraf 1 GWB Kartellverbot nationale Prüfung, Paragraf 19a GWB überragende marktübergreifende Bedeutung, Relative Marktmacht und Economic Dependence, Aeuv: Behörden-, Gerichts- oder Registerweg: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Paragraf 1 GWB Kartellverbot nationale Prüfung, Paragraf 19a GWB überragende marktübergreifende Bedeutung, Relative Marktmacht und Economic Dependence, Aeuv: Behörden-, Gerichts- oder Registerweg: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

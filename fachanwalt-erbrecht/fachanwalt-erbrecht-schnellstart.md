@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Chronologie: Beweislast, Darlegungslast und Substantiierung im Erbrecht: fachlich vertieftes Modul mit Normenradar.: Tragende Normen verifizieren: AO Paragrafen 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG.
 6. Digitaler Nachlass Facebook BGH Iii Zr 183 17: Eltern verlangen Zugriff auf Facebook-Konto der verstorbenen Tochter; Plattform verweigert. - Paragraf 1922 BGB.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | Normenradar; Paragrafen 2303 ff. BGB; Paragrafen 2353 ff. BGB |
+| Rechtsprechung | Verifizierte Anker; Eltern verlangen Zugriff auf Facebook-Konto der verstorbenen Tochter |
+| Tatbestand | Dieses Anschluss-Routing für Fachanwalt Erbrecht wählt nach dem ersten Ergebnis die passende Vertiefung |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Chronologie: Beweislast, Darlegungslast und Substantiierung im Erbrecht: fachlich vertieftes Modul mit Normenradar. | Tragende Normen verifizieren: AO Paragrafen 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Digitaler Nachlass Facebook BGH Iii Zr 183 17 | Eltern verlangen Zugriff auf Facebook-Konto der verstorbenen Tochter; Plattform verweigert. - Paragraf 1922 BGB. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - Normenradar: BGB Paragrafen 1922 ff., 1937, 1942 ff., 1953, 1967, 2032 ff., 2042, 2050 ff., 2078, 2084, 2203 ff., 2303 ff., 2314, 2325, 2333; FamFG Paragrafen 343 ff.; EuErbVO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 2303 ff. BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -48,10 +59,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Eltern verlangen Zugriff auf Facebook-Konto der verstorbenen Tochter; Plattform verweigert. - Paragraf 1922 BGB - Paragraf 1937 BGB - Paragrafen 2303 ff. BGB - Paragrafen 2353 ff. BGB - Art. 21 EuErbVO
 - BGH 12.07.2018 III ZR 183/17 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Anschluss-Routing, Belegmatrix: Sonderfall und Edge-Case-Prüfung im Erbrecht: fachlich vertieftes Modul mit Normenradar., Berater: Mehrparteienkonflikt und Interessenmatrix im Erbrecht: fachlich vertieftes Modul mit Normenradar., BGB: Fristen, Form, Zuständigkeit und Rechtsweg im Erbrecht.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Anschluss-Routing, Belegmatrix: Sonderfall und Edge-Case-Prüfung im Erbrecht: fachlich vertieftes Modul mit Normenradar., Berater: Mehrparteienkonflikt und Interessenmatrix im Erbrecht: fachlich vertieftes Modul mit Normenradar., BGB: Fristen, Form, Zuständigkeit und Rechtsweg im Erbrecht.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Einreden und Verteidigung des Anfechtungsgegners — AnfG: 1. Auf welchen Anfechtungstatbestand stützt der klagende Gläubiger seinen Anspruch (Paragraf 3 oder Paragraf 4.
 6. AnfG-Grundtatbestand und Anfechtungsberechtigte: Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | Paragraf 404 BGB Einwendungserhalt; Paragraf 812 BGB (Herausgabeanspruch ungerechtfertigte Bereicherung); Paragraf 813 BGB (Leistung trotz Einrede) |
+| Rechtsprechung | BGH XI ZR 116/15 (Leistungskondiktion bei verdeckter Provision); BGH VIII ZR 91/04 (Saldotheorie) |
+| Tatbestand | Anwendungsfall: abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Der Skill zwingt |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Einreden und Verteidigung des Anfechtungsgegners — AnfG | 1. Auf welchen Anfechtungstatbestand stützt der klagende Gläubiger seinen Anspruch (Paragraf 3 oder Paragraf 4. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | AnfG-Grundtatbestand und Anfechtungsberechtigte | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - Paragraf 404 BGB Einwendungserhalt: Zessionar muss alle Einwendungen aus dem Schuldverhältnis gegen sich gelten lassen, die der Schuldner gegen den Zedenten hatte (z. B. Mangelhaftung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 812 BGB (Herausgabeanspruch ungerechtfertigte Bereicherung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -49,10 +60,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGH V ZR 215/11 (Nichteintritt des Erfolges)
 - BGH IX ZR 196/14 (Insolvenzanfechtung)
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abgetretene Forderung und Zession, Anfechtung nach Paragraf 142 BGB und Rückabwicklung, Anfechtungsklage AnfG — Prozessuales, Fristen und Anfechtungszeitraum — AnfG: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abgetretene Forderung und Zession, Anfechtung nach Paragraf 142 BGB und Rückabwicklung, Anfechtungsklage AnfG — Prozessuales, Fristen und Anfechtungszeitraum — AnfG: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

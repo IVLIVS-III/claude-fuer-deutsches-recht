@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Markenrecht Fashion Luxus ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du eine Rechtsverletzung an Werk, Marke oder Inhalt abmahnen oder abwehren.
 
 # Markenrecht Fashion Luxus — Schnellstart
 
@@ -17,38 +17,52 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Markenrechtliche Abmahnung und Unterlassungserklärung: Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen.
-2. Absolute Schutzhindernisse: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
-3. AGB im Händlervertrag für Luxus-Selektivvertrieb: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste.
-4. Alicante: Schriftsatz-, Brief- und Memo-Bausteine: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
-5. Anmeldestrategie & Markenportfolio für Luxus-Modehäuser: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
-6. Anti-System-Marken und Authentizitätskennzeichen: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
+1. Schutzgegenstand: Werkart, Schoepfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
+2. Rechtekette: Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen.
+3. Nutzung: Vervielfaeltigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
+4. Schranken: Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden.
+5. Arbeitsprodukt: Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren.
+6. Markenrechtliche Abmahnung und Unterlassungserklärung: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | UrhG Paragraf 2; UrhG Paragraf 15; UrhG Paragraf 31 |
+| Rechtsprechung | EuGH, Urteil vom 16.07.2009 - C-5/08; EuGH, Urteil vom 13.02.2014 - C-466/12 |
+| Tatbestand | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten |
+| Beweislast | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung |
+| Rechtsfolge | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Markenrechtliche Abmahnung und Unterlassungserklärung | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Markenrechtliche Abmahnung und Unterlassungserklärung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Absolute Schutzhindernisse | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AGB im Händlervertrag für Luxus-Selektivvertrieb | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AGB im Händlervertrag für Luxus-Selektivvertrieb | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Alicante: Schriftsatz-, Brief- und Memo-Bausteine | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anmeldestrategie & Markenportfolio für Luxus-Modehäuser | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anti-System-Marken und Authentizitätskennzeichen | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
+- UrhG Paragraf 2: geschuetzte Werke.
+- UrhG Paragraf 15: Verwertungsrechte.
+- UrhG Paragraf 31: Einraeumung von Nutzungsrechten.
+- UrhG Paragraf 51: Zitatrecht.
 - Paragraf 14 V MarkenG: Unterlassungsanspruch bei Markenverletzung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 14 VI MarkenG: Schadensersatz bei schuldhafter Verletzung (dreifache Berechnungsmethode: entgangener Gewinn, Verletzergewinn, Lizenzanalogie): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 19 MarkenG: Auskunftsanspruch als Vorstufe zum Schadensersatz: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 97a UrhG (analog): Abmahnungserfordernis als Obliegenheit vor Klage (auch im Markenrecht üblicher Usus): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 107 MarkenG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 305-310 BGB: AGB-Recht — Paragraf 305c (überraschende Klauseln), Paragraf 307 (Generalklausel Unangemessenheit), Paragrafen 308/309 (Klauselkataloge — im B2B nicht direkt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 310 I BGB: B2B-Einschränkung — Paragrafen 308/309 gelten nicht gegenüber Unternehmern; aber Paragraf 307 gilt (mit gelockertem Maßstab): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schoepfung als unionsrechtlichen Werkanker.
+- EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Markenrechtliche Abmahnung und Unterlassungserklärung, Absolute Schutzhindernisse, AGB im Händlervertrag für Luxus-Selektivvertrieb, Alicante: Schriftsatz-, Brief- und Memo-Bausteine: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Markenrechtliche Abmahnung und Unterlassungserklärung, Absolute Schutzhindernisse, AGB im Händlervertrag für Luxus-Selektivvertrieb, Alicante: Schriftsatz-, Brief- und Memo-Bausteine: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

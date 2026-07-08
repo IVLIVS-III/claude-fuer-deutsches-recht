@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Grundbuchstreit im Erbbaurecht: Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt.
 6. Erbbaugrundbuch lesen: Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | Paragraf 873 Abs. 1 BGB |
+| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Tatbestand | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,15 +46,15 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Grundbuchstreit im Erbbaurecht | Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Erbbaugrundbuch lesen | Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - Paragraf 873 Abs. 1 BGB — dinglicher Vollzug: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Laufzeitende und Exitplan, Altlasten und Rückbau, Change of Control beim Erbbauberechtigten, Entschädigung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Laufzeitende und Exitplan, Altlasten und Rückbau, Change of Control beim Erbbauberechtigten, Entschädigung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

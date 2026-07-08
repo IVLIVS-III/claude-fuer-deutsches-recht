@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Handelsvertreterrecht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
 
 # Handelsvertreterrecht — Schnellstart
 
@@ -17,38 +17,52 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB: Tragende Normen verifizieren: HGB Paragrafen 84-92c, EuGH zu Ausgleichsanspruch, BGB Paragrafen 305 ff.; einschlägige Paragrafen.
-2. Abrechnung und Buchauszug: Vollständigkeit, Perioden, Kunden, Aufträge, Stornos, Rabatte, Buchauszug, Einsicht und Klage. Dieser Skill.
-3. Abschlussprovision des Abschlussvertreters nach Paragrafen 87 und 87a HGB: Tragende Normen verifizieren: HGB Paragrafen 84-92c, EuGH zu Ausgleichsanspruch, BGB Paragrafen 305 ff.; einschlägige Paragrafen.
-4. Rechtsstellung des Abschlussvertreters nach Paragrafen 84 und 54 HGB: Tragende Normen verifizieren: HGB Paragrafen 84-92c, EuGH zu Ausgleichsanspruch, BGB Paragrafen 305 ff.; einschlägige Paragrafen.
-5. AGB-Kontrolle im Handelsvertretervertrag nach Paragrafen 305 ff. BGB und Paragraf 92c HGB: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung.
-6. Alleinvertreter: Gebietsschutz, Kundenschutz, Mindestumsatz, Direktvertrieb, Sanktionen und Kartellrecht. Dieser Skill arbeitet.
+1. Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen.
+2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen.
+3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
+4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
+5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+6. Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | BGB Paragraf 705; HGB Paragraf 105; GmbHG Paragraf 13 |
+| Rechtsprechung | BGH, Urteil vom 29.01.2001 - II ZR 331/00; BGH, Urteil vom 04.07.2005 - II ZR 354/03 |
+| Tatbestand | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen |
+| Beweislast | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment |
+| Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB | Tragende Normen verifizieren: HGB Paragrafen 84-92c, EuGH zu Ausgleichsanspruch, BGB Paragrafen 305 ff.; einschlägige Paragrafen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abrechnung und Buchauszug | Vollständigkeit, Perioden, Kunden, Aufträge, Stornos, Rabatte, Buchauszug, Einsicht und Klage. Dieser Skill. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschlussprovision des Abschlussvertreters nach Paragrafen 87 und 87a HGB | Tragende Normen verifizieren: HGB Paragrafen 84-92c, EuGH zu Ausgleichsanspruch, BGB Paragrafen 305 ff.; einschlägige Paragrafen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsstellung des Abschlussvertreters nach Paragrafen 84 und 54 HGB | Tragende Normen verifizieren: HGB Paragrafen 84-92c, EuGH zu Ausgleichsanspruch, BGB Paragrafen 305 ff.; einschlägige Paragrafen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AGB-Kontrolle im Handelsvertretervertrag nach Paragrafen 305 ff. BGB und Paragraf 92c HGB | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Alleinvertreter | Gebietsschutz, Kundenschutz, Mindestumsatz, Direktvertrieb, Sanktionen und Kartellrecht. Dieser Skill arbeitet. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abrechnung und Buchauszug | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschlussprovision des Abschlussvertreters nach Paragrafen 87 und 87a HGB | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtsstellung des Abschlussvertreters nach Paragrafen 84 und 54 HGB | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AGB-Kontrolle im Handelsvertretervertrag nach Paragrafen 305 ff. BGB und Paragraf 92c HGB | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Alleinvertreter | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
+- BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
+- HGB Paragraf 105: offene Handelsgesellschaft.
+- GmbHG Paragraf 13: Rechtsnatur der GmbH.
+- GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
 - Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB Paragrafen 84–92c ab: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 87c HGB — Provisionsabrechnung und Buchauszugsanspruch des Handelsvertreters: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 87 HGB — Provisionsanspruch und provisionspflichtige Geschäfte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 87a HGB — Entstehung und Fälligkeit des Provisionsanspruchs: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 254 ZPO — Stufenklage (Auskunft und Leistung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 195 BGB — Regelmäßige Verjährungsfrist drei Jahre: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 87c HGB auf gesetze-im-internet.de: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
+- BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB, Abrechnung und Buchauszug, Abschlussprovision des Abschlussvertreters nach Paragrafen 87 und 87a HGB, Rechtsstellung des Abschlussvertreters nach Paragrafen 84 und 54 HGB: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB, Abrechnung und Buchauszug, Abschlussprovision des Abschlussvertreters nach Paragrafen 87 und 87a HGB, Rechtsstellung des Abschlussvertreters nach Paragrafen 84 und 54 HGB: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

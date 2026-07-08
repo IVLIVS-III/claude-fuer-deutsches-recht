@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Entschädigung berechnen: Art. 19 VO (EU) 2021/782 — Entschädigung in zwei Stufen: Mindestauszahlung: 4 EUR pro Fahrkarte (Art. 19 Abs. 8).
 6. Forderungsschreiben — Erste Stufe: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | Paragraf 195 BGB; Paragraf 29 ZPO + Art. 7 Nr. 1 lit. b VO (EU) 1215/2012 (Brüssel-Ia); Paragraf 195, Paragraf 199 Abs. 1 BGB |
+| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung); Paragraf 23 Nr. 1 GVG (i.d.F. seit 01.01.2026) |
+| Tatbestand | `yaml schriftsatz: [pfad zum Schriftsatz, z.B. widerspruch-2026-05-15.md] rohbelegeverzeichnis: [fall]/belege/ |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Entschädigung berechnen | Art. 19 VO (EU) 2021/782 — Entschädigung in zwei Stufen: Mindestauszahlung: 4 EUR pro Fahrkarte (Art. 19 Abs. 8). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Forderungsschreiben — Erste Stufe | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - Paragraf 195 BGB: drei Jahre. Paragraf 199 Abs. 1 BGB: Beginn am Schluss des Kalenderjahres, in dem der Anspruch entstand und der Verbraucher Kenntnis hatte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 29 ZPO + Art. 7 Nr. 1 lit. b VO (EU) 1215/2012 (Brüssel-Ia) — örtliche Zuständigkeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -43,10 +54,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - Paragraf 23 Nr. 1 GVG (i.d.F. seit 01.01.2026) — sachliche Zuständigkeit AG bis 10.000 EUR
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Fahrgastrechte — Anlagen bauen, Katalog der DB-Ablehnungsgründe und Gegenargumente, Eigenbeförderung und Betreuung (Art. 18, 20 VO; Paragraf 11 EVO), Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Fahrgastrechte — Anlagen bauen, Katalog der DB-Ablehnungsgründe und Gegenargumente, Eigenbeförderung und Betreuung (Art. 18, 20 VO; Paragraf 11 EVO), Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

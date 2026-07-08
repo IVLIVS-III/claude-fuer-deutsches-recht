@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Examensprognose / JPA-Statistik: Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW.
 6. Examensvorbereitungs-Fragen: Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | Paragrafen 133, 157 BGB; Paragraf 280 Abs. 1 BGB — Schadensersatz; Paragrafen 32, 34 StGB — Notwehr/Notstand |
+| Rechtsprechung | BGH nennen; h.M. ohne Beleg |
+| Tatbestand | Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Examensprognose / JPA-Statistik | Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Examensvorbereitungs-Fragen | Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - Paragrafen 133, 157 BGB — Auslegung als AG-Dauerthema: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 280 Abs. 1 BGB — Schadensersatz: Standard-AG-Anspruch: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -48,10 +59,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - h.M. ohne Beleg: "nach h.M." allein ist kein Argument. Kommentarstelle oder BGH-Urteil nennen
 - Juristenausbildungsgesetz NRW (JAG NRW) i.d.F. vom 11.03.2003 (zuletzt geändert)
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder AG/Seminar-Vorbereitung (Cold-Call-Prep), Jurastudium — Allgemein, Dokumentenintake, Einstieg und Routing: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder AG/Seminar-Vorbereitung (Cold-Call-Prep), Jurastudium — Allgemein, Dokumentenintake, Einstieg und Routing: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Änderungsvorbehalt 308: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste.
 6. Agb Anwaltsvertrag und Allg Mandatsbedingungen: Klauselproblem (Agb Anwaltsvertrag Und Allg Mandatsbedingungen): AGB im Anwaltsvertrag und Allgemeine.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | 1. Normenstand sichern; Paragraf 305 BGB (Einbeziehung von AGB); Paragraf 305c BGB (überraschende und mehrdeutige Klauseln) |
+| Rechtsprechung | BGH I ZR 186/17 zur Reichweite der Verbandsklagebefugnis; BGH I ZR 7/16 (Planet49) zu Cookie-Einwilligung und transparenter |
+| Tatbestand | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Änderungsvorbehalt 308 | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Agb Anwaltsvertrag und Allg Mandatsbedingungen | Klauselproblem (Agb Anwaltsvertrag Und Allg Mandatsbedingungen): AGB im Anwaltsvertrag und Allgemeine. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - 1. Normenstand sichern: Vor tragenden Aussagen BGB Paragrafen 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 305 BGB (Einbeziehung von AGB): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -49,10 +60,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung)
 - BGH I ZR 7/16 (Planet49: Cookie-Einwilligung, Transparenz und UWG/Datenschutz-Schnittstelle)
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abmahnung Reagieren, Abnahme Testing, Abtretung, Adversarial Test AGB: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abmahnung Reagieren, Abnahme Testing, Abtretung, Adversarial Test AGB: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

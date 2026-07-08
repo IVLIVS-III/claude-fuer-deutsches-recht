@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Berufsrecht Wirtschaftsprüfer ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Verwaltungsakt anfechten und vorläufigen Rechtsschutz erreichen.
 
 # Berufsrecht Wirtschaftsprüfer — Schnellstart
 
@@ -17,41 +17,55 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Aktenführung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
-2. Wirtschaftsprüfer: apas verfahren antwortstrategie - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden.: Normenanker: WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren.
-3. Wirtschaftsprüfer: apas verfahren antwortstrategie - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie.
-4. Wirtschaftsprüfer: apas verfahren antwortstrategie - Organisationspflichten, Prävention, Team-Anweisung.: Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BRAO Paragrafen 113 ff., BNotO Paragrafen.
-5. Wirtschaftsprüfer: apas verfahren antwortstrategie - Rechtsprechungscheck, stärkste Gegenansicht.: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste.
-6. Wirtschaftsprüfer: mangelhafte arbeitspapiere - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen: Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BRAO Paragrafen 113 ff., BNotO Paragrafen.
+1. Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen.
+2. Zulaessigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
+3. Materielle Rechtmaessigkeit: Ermaechtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhaeltnismaessigkeit prüfen.
+4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
+5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
+6. Aktenführung: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | VwVfG Paragraf 35; VwVfG Paragraf 28; VwVfG Paragraf 40 |
+| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 |
+| Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
+| Beweislast | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit |
+| Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aktenführung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Wirtschaftsprüfer: apas verfahren antwortstrategie - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden. | Normenanker: WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Wirtschaftsprüfer: apas verfahren antwortstrategie - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Wirtschaftsprüfer: apas verfahren antwortstrategie - Organisationspflichten, Prävention, Team-Anweisung. | Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BRAO Paragrafen 113 ff., BNotO Paragrafen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Wirtschaftsprüfer: apas verfahren antwortstrategie - Rechtsprechungscheck, stärkste Gegenansicht. | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Wirtschaftsprüfer: mangelhafte arbeitspapiere - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen | Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BRAO Paragrafen 113 ff., BNotO Paragrafen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenführung | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Wirtschaftsprüfer: apas verfahren antwortstrategie - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden. | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Wirtschaftsprüfer: apas verfahren antwortstrategie - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Wirtschaftsprüfer: apas verfahren antwortstrategie - Organisationspflichten, Prävention, Team-Anweisung. | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Wirtschaftsprüfer: apas verfahren antwortstrategie - Rechtsprechungscheck, stärkste Gegenansicht. | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Wirtschaftsprüfer: mangelhafte arbeitspapiere - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
+- VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
+- VwVfG Paragraf 28: Anhörung Beteiligter.
+- VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
+- VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
 - Paragrafen 316, 319, 319a HGB (Pflichtprüfung, Inkompatibilitäten): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 322, 323 HGB (Bestätigungsvermerk, Verantwortlichkeit): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 195 BGB — regelmäßige Verjährung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
+- BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
 - BGH, Urteil vom 12.03.2020 - VII ZR 236/19 (Abschlussprüferhaftung: Paragraf 332 HGB/Paragraf 826 BGB, bewusst unrichtiges Testat)
 - BGH II ZR 217/03 (Bestätigungsvermerk und Vertrauensschutz)
 - EuGH C-606/19 (Unabhängigkeit Abschlussprüfer)
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Aktenführung, Wirtschaftsprüfer: apas verfahren antwortstrategie - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden., Wirtschaftsprüfer: apas verfahren antwortstrategie - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan, Wirtschaftsprüfer: apas verfahren antwortstrategie.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Aktenführung, Wirtschaftsprüfer: apas verfahren antwortstrategie - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden., Wirtschaftsprüfer: apas verfahren antwortstrategie - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan, Wirtschaftsprüfer: apas verfahren antwortstrategie.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

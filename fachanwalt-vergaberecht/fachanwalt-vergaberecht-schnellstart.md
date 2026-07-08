@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Arbeitsprodukt: Rügeschreiben, Nachprüfungsantrag, Auftraggebervermerk oder Wertungsmemo erstellen.
 6. Angebot, Formfehler, Preisblatt und Ausschlussrisiken prüfen: Signatur, Datei, Frist, Nebenangebote, Preisangaben.: Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | GWB Paragraf 97; GWB Paragraf 134; GWB Paragraf 160 |
+| Rechtsprechung | EuGH, Urteil vom 11.01.2005 - C-26/03; EuGH, Urteil vom 13.10.2005 - C-458/03 |
+| Tatbestand | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen |
+| Beweislast | Auftraggeber für Dokumentation und Wertung; Bieter für Rüge, Interesse, Rechtsverletzung und drohenden Schaden |
+| Rechtsfolge | Rüge, Bieterfrage, Nachprüfungsantrag, Wertungskorrektur, Zuschlagsstopp oder Dokumentationsvermerk |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Ausschluss Bieter Paragraf 124 GWB | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Bieterfragen, Antworten und Klarstellungen managen: Fristen, Gleichbehandlung, Transparenz, Änderung. | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - GWB Paragraf 97: Grundsätze des Vergaberechts.
 - GWB Paragraf 134: Informations- und Wartepflicht vor Zuschlag.
@@ -51,10 +62,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - EuGH 19.12.2018, C-216/17 (Coopservice): Ausschreibungspflicht Rahmenvereinbarungen; Volumenbegrenzungen zwingend. Quelle: curia.europa.eu
 - EuGH 28.10.2020, C-521/18 (Pegaso): Vergabe ohne wettbewerbliches Verfahren — De-facto-Vergabe ist nichtig nach Art. 2d RL 89/665 / Paragraf 135 GWB, wenn EU-weite Bekanntmachung pflichtwidrig
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Angebot, Formfehler, Preisblatt und Ausschlussrisiken prüfen: Signatur, Datei, Frist, Nebenangebote, Preisangaben., Architektenrecht: Compliance-Dokumentation und Aktenvermerk, Aufklärung, Nachforderung und Angebotsaufklärung steuern: fehlende Unterlagen, unklare Preise, ungewoehnlich.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Angebot, Formfehler, Preisblatt und Ausschlussrisiken prüfen: Signatur, Datei, Frist, Nebenangebote, Preisangaben., Architektenrecht: Compliance-Dokumentation und Aktenvermerk, Aufklärung, Nachforderung und Angebotsaufklärung steuern: fehlende Unterlagen, unklare Preise, ungewoehnlich.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

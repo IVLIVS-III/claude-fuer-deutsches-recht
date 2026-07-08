@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Hochschulrecht Länder ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Verwaltungsakt anfechten und vorläufigen Rechtsschutz erreichen.
 
 # Hochschulrecht Länder — Schnellstart
 
@@ -17,39 +17,53 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Akkreditierung: Programm und System: Arbeitsfokus: Akkreditierung: Programm und System. Prüfe diese Anker am Sachverhalt; ergänze nur Normen.
-2. Akkreditierung und Qualität: Arbeitsfokus: Akkreditierung Und Qualität. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben.
-3. Alumni, Stiftung und Spenden-Compliance: Arbeitsfokus: Alumni, Stiftung und Spenden-Compliance. Prüfe diese Anker am Sachverhalt; ergänze nur Normen.
-4. Anerkennung ECTS und Ausland: Arbeitsfokus: Anerkennung ECTS Und Ausland. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben.
-5. Ausgründung und Transferstelle: Arbeitsfokus: Ausgründung und Transferstelle. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben.
-6. BAföG und Hochschulstatus: Arbeitsfokus: BAföG Und Hochschulstatus. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben.
+1. Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen.
+2. Zulaessigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
+3. Materielle Rechtmaessigkeit: Ermaechtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhaeltnismaessigkeit prüfen.
+4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
+5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
+6. Akkreditierung: Programm und System: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | VwVfG Paragraf 35; VwVfG Paragraf 28; VwVfG Paragraf 40 |
+| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 |
+| Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
+| Beweislast | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit |
+| Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Akkreditierung: Programm und System | Arbeitsfokus: Akkreditierung: Programm und System. Prüfe diese Anker am Sachverhalt; ergänze nur Normen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Akkreditierung und Qualität | Arbeitsfokus: Akkreditierung Und Qualität. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Alumni, Stiftung und Spenden-Compliance | Arbeitsfokus: Alumni, Stiftung und Spenden-Compliance. Prüfe diese Anker am Sachverhalt; ergänze nur Normen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anerkennung ECTS und Ausland | Arbeitsfokus: Anerkennung ECTS Und Ausland. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ausgründung und Transferstelle | Arbeitsfokus: Ausgründung und Transferstelle. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| BAföG und Hochschulstatus | Arbeitsfokus: BAföG Und Hochschulstatus. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Akkreditierung: Programm und System | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Akkreditierung und Qualität | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Alumni, Stiftung und Spenden-Compliance | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anerkennung ECTS und Ausland | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ausgründung und Transferstelle | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| BAföG und Hochschulstatus | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
+- VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
+- VwVfG Paragraf 28: Anhörung Beteiligter.
+- VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
+- VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
 - Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 12 Abs. 1 GG — Ausbildungs- und Berufszugang: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 3 Abs. 1 GG — Gleichbehandlung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 70 Abs. 1 VwGO — Widerspruch: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 123 Abs. 1 VwGO — Eilrechtsschutz: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungszugang: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 3 Abs. 1 GG — Gleichbehandlung im Zugang/Status: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
+- BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Akkreditierung: Programm und System, Akkreditierung und Qualität, Alumni, Stiftung und Spenden-Compliance, Anerkennung ECTS und Ausland: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Akkreditierung: Programm und System, Akkreditierung und Qualität, Alumni, Stiftung und Spenden-Compliance, Anerkennung ECTS und Ausland: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

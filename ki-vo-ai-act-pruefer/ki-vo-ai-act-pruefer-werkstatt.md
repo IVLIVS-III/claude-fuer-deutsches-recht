@@ -14,34 +14,6 @@ Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unter
 
 Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
 
-### 1.2. Ausgabeformate für schnelle Lieferung
-
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Frist oder Eilsache | Fristenblatt mit nächstem Handlungstag | Fristbeginn, Fristende, Zuständigkeit und Zustellungsweg trennen |
-| Schriftsatz oder Antrag | Antragssatz plus drei tragende Begründungsabsätze | Jede Tatsache bekommt Beleg oder Lückenmarke |
-| Mandantenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko und Kostenfolge getrennt ausweisen |
-| Interner Vermerk | Kurzlage, Rechtsanker, Entscheidungsvorschlag | offene Tatsachen nicht als Rechtsunsicherheit tarnen |
-| Vertrag oder Klausel | Entwurfsfassung mit Kommentarrand | sichere Fassung, ausgewogene Fassung und Risikofassung unterscheiden |
-| Gericht oder Behörde | Verfügung, Beschluss- oder Bescheidentwurf | Tenor, Gründe, Nebenentscheidungen und Zustellung mitdenken |
-
-### 1.3. Rückfragenbremse
-
-1. Wenn Dokumente oder ein Ordner vorliegen, zuerst lesen und verwerten; nicht nacherzählen lassen und nicht um Uploads bitten, die schon vorhanden sind.
-2. Wenn der Nutzer nur den Skill startet, mit dem vorhandenen Kontext beginnen: Aktenkern, Frist, Rechtsanker, erstes Arbeitsprodukt.
-3. Wenn Informationen fehlen, nur die Punkte fragen, die das nächste Arbeitsprodukt ändern.
-4. Wenn mehrere Wege möglich sind, die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Wenn eine Frist, Zuständigkeit oder Form unklar ist, zuerst diesen Engpass sichern.
-6. Wenn der Nutzer nur ein Ergebnis braucht, keine Lehrbuchprüfung ausgeben; die Begründung bleibt knapp und belastbar.
-
-### 1.4. Mini-Gerüste
-
-- Sofortvermerk: Nach derzeitigem Stand spricht mehr für [Ergebnis], weil [Norm] an [Tatbestandsmerkmal] anknüpft und [Beleg] diesen Punkt trägt. Offen bleibt [Lücke]. Nächster Schritt: [Handlung].
-- Schriftsatzkern: Der Antrag ist begründet, weil [Tatsache] durch [Beweismittel] belegt ist und [Norm] daraus [Rechtsfolge] ableitet.
-- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg/Norm/Beweislast]. Prozessrisiko: [niedrig/mittel/hoch].
-- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
-- Entscheidungsvorschlag: Option A ist schneller, Option B ist belastbarer. Ich empfehle [Option], weil [entscheidender Grund].
-
 ## 2. Stop-Kriterien
 
 - Frist oder Form kann nicht sicher bestimmt werden.
@@ -72,19 +44,46 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-## 4. Pflichtnormen als Kernsätze
+## 4. Rechtsprechungs-Fallkarte
+
+| Ebene | Fallfrage | Anker | Sofortausgabe |
+| --- | --- | --- | --- |
+| Fallkern | Abgrenzung: Konventionelle Software versus System-System | Dynamic Pricing. - Wettbewerberpreis-Monitoring. - Repricing-Bots; EuGH C-634/21 (automatisierte Entscheidung Art. 22 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Art. 101 AEUV und GWB Paragraf 1 für abgestimmtes Verhalten | Fristenblatt oder Prozess-/Verfahrensroute |
+| Begründetheit | Regulierungsrahmen-OWi und interne Untersuchung | Art. 101 AEUV und GWB Paragraf 1 für abgestimmtes Verhalten; EuGH C-203/22 (Profiling, Auskunftsrechte) | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
+
+## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
+
+| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
+| --- | --- | --- | --- |
+| Dynamic Pricing. - Wettbewerberpreis-Monitoring. - Repricing-Bots | Dynamic Pricing. - Wettbewerberpreis-Monitoring. - Repricing-Bots auf Marktplätzen. - gemeinsame | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Art. 101 AEUV und GWB Paragraf 1 für abgestimmtes Verhalten, Kartelle | Art. 101 AEUV und GWB Paragraf 1 für abgestimmtes Verhalten, Kartelle, Hub-and-Spoke | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| GWB Paragrafen 19, 20 und Art. 102 AEUV prüfen, wenn marktbeherrschende | GWB Paragrafen 19, 20 und Art. 102 AEUV prüfen, wenn marktbeherrschende Plattformen, Datenzugang | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+
+## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
+
+| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
+| --- | --- | --- |
+| EuGH C-634/21 (automatisierte Entscheidung Art. 22 Datenschutz-Grundverordnung) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | EuGH C-634/21 (automatisierte Entscheidung Art. 22 Datenschutz-Grundverordnung) |
+| EuGH C-203/22 (Profiling, Auskunftsrechte) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | EuGH C-203/22 (Profiling, Auskunftsrechte) |
+| BVerfG 1 BvR 2017/21 (automatisierte Datenverarbeitung Polizei) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BVerfG 1 BvR 2017/21 (automatisierte Datenverarbeitung Polizei) |
+- Rechtsfolge zuerst als Arbeitsprodukt denken: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt
+- Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
+
+## 7. Pflichtnormen als Kernsätze
 
 - Dynamic Pricing. - Wettbewerberpreis-Monitoring. - Repricing-Bots auf Marktplätzen. - gemeinsame Softwareanbieter für mehrere Wettbewerber. - System-gestützte Rabatt: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 101 AEUV und GWB Paragraf 1 für abgestimmtes Verhalten, Kartelle, Hub-and-Spoke und Informationsaustausch: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - GWB Paragrafen 19, 20 und Art. 102 AEUV prüfen, wenn marktbeherrschende Plattformen, Datenzugang, Selbstbevorzugung oder Behinderung betroffen sind: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
-## 5. Leitentscheidungen
+## 8. Leitentscheidungen
 
 - EuGH C-634/21 (automatisierte Entscheidung Art. 22 Datenschutz-Grundverordnung)
 - EuGH C-203/22 (Profiling, Auskunftsrechte)
 - BVerfG 1 BvR 2017/21 (automatisierte Datenverarbeitung Polizei)
 
-## 6. Prüfraster
+## 9. Prüfraster
 
 1. Wer will was von wem woraus.
 2. Welche Frist, Form oder Zuständigkeit kann das Ergebnis kippen.
@@ -94,7 +93,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 7. Schriftsatz- und Memo-Gerüst
+## 10. Schriftsatz- und Memo-Gerüst
 
 1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
 2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
@@ -104,76 +103,86 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
 7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
 
-## 8. Arbeitsweise
+## 11. Outputvarianten und Empfängerwunsch
+
+| Wunsch | Ausgabe | Mindestinhalt |
+| --- | --- | --- |
+| schnell entscheiden | Kurzvermerk | Fallkern, Dynamic Pricing. - Wettbewerberpreis-Monitoring. - Repricing-Bots; Art. 101 AEUV und GWB Paragraf 1 für abgestimmtes, Risiko, nächster Schritt |
+| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument, Rechtsfolge |
+| versenden | Entwurf | Antrag oder Tenor, Begründung, Anlagen, Frist, Zustellungsweg |
+| beraten | Mandantenbrief | Ergebnis, Optionen, Kosten-/Zeitrisiko, Empfehlung |
+| verhandeln | Vergleichs- oder Klauselvorschlag | sichere Fassung, risikobewusste Fassung, offene Punkte |
+
+## 12. Arbeitsweise
 
 Arbeite zuerst aktennah, dann normnah, dann produktnah. Wenn Dokumente oder ein Ordner vorliegen, werden sie ohne weitere Vorfrage gelesen, eingeordnet und mit Fundstelle verarbeitet. Wenn der Nutzer nur den Prompt startet, prüfe zuerst, ob Kontext, Dateien oder ein Arbeitsordner erkennbar sind; erst wenn wirklich keine Unterlagen vorliegen, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert. Tabellen sind erlaubt, wenn sie Vergleich, Berechnung oder Fristen besser zeigen.
 
 Selbstcheck vor Ausgabe: Ist die Frist benannt? Ist die Form geklärt? Ist die richtige Rolle getroffen? Ist die Rechtsfolge aus einer Norm abgeleitet? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
 
-## 9. Qualitätskontrolle und Abschluss
+## 13. Qualitätskontrolle und Abschluss
 
 Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
 
-## 10. Musterbausteine
+## 14. Musterbausteine
 
 - Memo-Kernsatz: Nach dem derzeit belegten Sachverhalt spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt.
 - Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
 - Schriftsatzkern: Der Anspruch ist begründet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
 
-## 11. Materienbezogene Arbeitsfelder
+## 15. Materienbezogene Arbeitsfelder
 
-### 11.1. Abgrenzung: Konventionelle Software versus digitale Werkzeuge-System
+### 15.1. Abgrenzung: Konventionelle Software versus digitale Werkzeuge-System
 
 zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix Stichwort für die Auswahl. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.2. europäischer Technikregulierungsrahmen-OWi und interne Untersuchung
+### 15.2. europäischer Technikregulierungsrahmen-OWi und interne Untersuchung
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.3. Algorithmische Kollusion und Pricing-digitale Werkzeuge
+### 15.3. Algorithmische Kollusion und Pricing-digitale Werkzeuge
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dynamic Pricing. - Wettbewerberpreis-Monitoring. - Repricing-Bots auf Marktplätzen. - gemeinsame Softwareanbieter für mehrere Wettbewerber. - System-gestützte Rabatt- oder Ausschreibungsstrategie. - Art. 101 AEUV und GWB Paragraf 1 für abgestimmtes Verhalten, Kartelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.4. Anbieter-Werden — Art. 25 europäischer Technikregulierungsrahmen
+### 15.4. Anbieter-Werden — Art. 25 europäischer Technikregulierungsrahmen
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Wer ein Hochrisiko-System-System oder GPAI-Modell unter seinem eigenen Namen oder seiner eigenen Marke in Verkehr bringt, wird Anbieter — unabhängig davon, ob er das System selbst entwickelt hat. Prüffragen: - Bringen Sie ein fremdes System-System unter Ihrem eigenen Namen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.5. Anwaltliche digitale Werkzeuge-Nutzung und Quellencheck
+### 15.5. Anwaltliche digitale Werkzeuge-Nutzung und Quellencheck
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tragende Normen verifizieren: Regulierungsrahmen (EU 2024/1689) Art. 3, 5 (Verbote), 6 (Hochrisiko), 8-15 (Anforderungen), 16, 26 (Pflichten Anbieter/Betreiber), 50 (Transparenz), 51-55 (GPAI), 73, 99 (Sanktionen) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.6. Art. 4 europäischer Technikregulierungsrahmen — digitale Werkzeuge-Kompetenz als Compliance-Programm
+### 15.6. Art. 4 europäischer Technikregulierungsrahmen — digitale Werkzeuge-Kompetenz als Compliance-Programm
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Art. 4 Regulierungsrahmen: Anbieter und Betreiber müssen System-Kompetenz sicherstellen. - Art. 3 Nr. 1, 3, 4, 63 Regulierungsrahmen: System-System, Anbieter, Betreiber, GPAI. - Art. 6, Art. 26, Art. 27, Art. 50 Regulierungsrahmen: Folgepflichten je nach Einsatz. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.7. europäischer Technikregulierungsrahmen und Datenschutz-Grundverordnung Art. 22
+### 15.7. europäischer Technikregulierungsrahmen und Datenschutz-Grundverordnung Art. 22
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Ein System-System kann nach Regulierungsrahmen nicht Hochrisiko sein und trotzdem datenschutzrechtlich hochproblematisch. Umgekehrt ersetzt Regulierungsrahmen-Compliance keine Datenschutz-Grundverordnung-Prüfung. 1. Werden personenbezogene Daten verarbeitet? 2. Gibt es. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.8. Begrenztes Risiko — Transparenzpflichten nach Art. 50 europäischer Technikregulierungsrahmen
+### 15.8. Begrenztes Risiko — Transparenzpflichten nach Art. 50 europäischer Technikregulierungsrahmen
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anwendungsbereich: Anbieter von System-Systemen, die direkt mit natürlichen Personen interagieren (Chatbots, virtuelle Assistenten). Pflicht: Sicherstellen, dass natürliche Personen darüber informiert werden, dass sie mit einem System-System interagieren — es sei denn, dies ist. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.9. Output: Betreiber-Checkliste und Grundrechte-Folgenabschätzung
+### 15.9. Output: Betreiber-Checkliste und Grundrechte-Folgenabschätzung
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.10. Betreiber-Pflichten (Deployer) — Art. 26 und 27 europäischer Technikregulierungsrahmen
+### 15.10. Betreiber-Pflichten (Deployer) — Art. 26 und 27 europäischer Technikregulierungsrahmen
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Unternehmen oder Behörde setzt ein Hochrisiko-System-System, GPAI-System oder allgemeinen Chatbot ein und fragt nach Betreiberpflichten. Art. 26 Regulierungsrahmen: bestimmungsgemäße Verwendung, menschliche Aufsicht, Eingabedaten, Protokolle, Vorfallmeldungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.11. Bevollmächtigter und Produkthersteller — Art. 22 und 25 europäischer Technikregulierungsrahmen
+### 15.11. Bevollmächtigter und Produkthersteller — Art. 22 und 25 europäischer Technikregulierungsrahmen
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anbieter von Hochrisiko-System-Systemen, die nicht in der EU niedergelassen sind, müssen vor dem Inverkehrbringen oder der Inbetriebnahme in der EU schriftlich einen Bevollmächtigten in der EU benennen. Prüffragen: - Ist der Anbieter des Systems in der EU oder einem Drittland. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.12. Bildung und Prüfungsrecht nach Anhang III
+### 15.12. Bildung und Prüfungsrecht nach Anhang III
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüft System-Systeme in: - Hochschulzulassung und Studienplatzvergabe. - Prüfungsaufsicht, Proctoring, Täuschungs- und Plagiatserkennung. - Bewertung von Prüfungen, Essays, Portfolios oder mündlichen Leistungen. - Lernstandsdiagnostik, Kurszuweisung, Förderbedarfsprognose. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.13. Biometrie, Emotionserkennung und Polizeigrenzen
+### 15.13. Biometrie, Emotionserkennung und Polizeigrenzen
 
-dieses Feld: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe bei biometrischen Systemen nicht nur „erlaubt/verboten“, sondern Zweck, Ort, Echtzeit/Nachhinein, Datenquelle, Betroffenengruppe, Strafverfolgungsbezug, menschliche Kontrolle und Rechtsgrundlage. - VO (EU) 2024/1689 Art. 5: verbotene System-Praktiken, insbesondere. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 11.14. Verhaltenskodizes, harmonisierte Normen und ISO-Standards
+### 15.14. Verhaltenskodizes, harmonisierte Normen und ISO-Standards
 
 zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

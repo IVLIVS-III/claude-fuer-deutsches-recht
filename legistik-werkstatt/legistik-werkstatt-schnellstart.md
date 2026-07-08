@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Voelkerrecht und Vertragsgesetzgebung (AA): ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
 6. Änderungs: Formular, Portal und Einreichungslogik: Arbeitsfokus: Änderungs: Formular, Portal und Einreichungslogik. Prüfe diese Anker am Sachverhalt; ergänze nur.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | Art. 20 Abs. 3 GG; Art. 76 Abs. 1 GG; Art. 77 Abs. 1 GG |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
+| Tatbestand | ] Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Ausfuhrkontrolle |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Voelkerrecht und Vertragsgesetzgebung (AA) | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Änderungs: Formular, Portal und Einreichungslogik | Arbeitsfokus: Änderungs: Formular, Portal und Einreichungslogik. Prüfe diese Anker am Sachverhalt; ergänze nur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - Art. 20 Abs. 3 GG — Gesetzesbindung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 76 Abs. 1 GG — Gesetzesinitiative: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -45,10 +56,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 42 Abs. 1 GGO — Gesetzgebungsvorhaben: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 43 Abs. 1 GGO — Ressortabstimmung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Ausfuhrkontrolle und Aussenwirtschaftsdimension (AA), EU-Grundlagen und Ratsverfahren (AA), Konsularrecht und Passrecht (AA), Sanktionsumsetzung und internationale Abkommen (AA): Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Ausfuhrkontrolle und Aussenwirtschaftsdimension (AA), EU-Grundlagen und Ratsverfahren (AA), Konsularrecht und Passrecht (AA), Sanktionsumsetzung und internationale Abkommen (AA): Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

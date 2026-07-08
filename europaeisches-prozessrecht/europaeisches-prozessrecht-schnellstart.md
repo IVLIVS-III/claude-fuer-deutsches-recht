@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Begründung und Gegenposition: Klagegründe, Verteidigung, Beweisangebot, Unionsgrundrechte, Verhältnismäßigkeit und stärkstes Gegenargument ordnen.
 6. Unionsamtshaftung: Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | EUV Artikel 19; AEUV Artikel 256; AEUV Artikel 263 und Artikel 265 |
+| Rechtsprechung | EuGH, Urteil vom 15.07.1963 - 25/62; EuGH, Urteil vom 06.10.1982 - 283/81 |
+| Tatbestand | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern |
+| Beweislast | Kläger für Zulässigkeit, Betroffenheit, Frist und Klagegrund; Organ für Rechtmäßigkeit, Ermessen und Verteidigungslinie |
+| Rechtsfolge | Klageart, Antragssatz, e-Curia-Einreichung, Zwischenantrag, Rechtsmittel oder Kostenlinie |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Vorabentscheidung nach Art. 267 AEUV | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | EUIPO vor Beschwerdekammer, EuG und EuGH | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - EUV Artikel 19: Rechtsschutzsystem der Union und Aufgabe des Gerichtshofs.
 - AEUV Artikel 256: Zuständigkeit des Gerichts und Rechtsmittel zum Gerichtshof.
@@ -44,10 +55,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - EuGH, Urteil vom 15.07.1963 - 25/62: Plaumann-Linie zur individuellen Betroffenheit Privater.
 - EuGH, Urteil vom 06.10.1982 - 283/81: CILFIT zu acte clair, acte éclairé und Vorlagepflicht.
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Fristenblatt: Verfahrensart, Gericht, auslösender Akt, Zustellung, Fristende, e-Curia-Reserve und verantwortlicher Einreicher werden als Tabelle ausgegeben; Klagekern: Der Antrag richtet sich gegen [Akt/Unterlassen], ist nach [Norm] statthaft und stützt sich vorrangig auf [Klagegrund] mit [Beleg].
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Fristenblatt: Verfahrensart, Gericht, auslösender Akt, Zustellung, Fristende, e-Curia-Reserve und verantwortlicher Einreicher werden als Tabelle ausgegeben; Klagekern: Der Antrag richtet sich gegen [Akt/Unterlassen], ist nach [Norm] statthaft und stützt sich vorrangig auf [Klagegrund] mit [Beleg].
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

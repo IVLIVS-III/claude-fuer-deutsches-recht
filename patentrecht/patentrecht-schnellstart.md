@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Patentrecht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du eine Rechtsverletzung an Werk, Marke oder Inhalt abmahnen oder abwehren.
 
 # Patentrecht — Schnellstart
 
@@ -17,40 +17,54 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Patentabmahnung verteidigen: Tragende Normen verifizieren: PatG Paragrafen 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ.
-2. Anspruchsentwurf: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste.
-3. Beschreibung und Zeichnungen prüfen: Tragende Normen verifizieren: PatG Paragrafen 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ.
-4. Dokumentenintake: Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren.
-5. Einspruch und Nichtigkeit: Tragende Normen verifizieren: PatG Paragrafen 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ.
-6. Einstieg und Routing: Dieser Einstieg routet Patentrecht vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem.
+1. Schutzgegenstand: Werkart, Schoepfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
+2. Rechtekette: Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen.
+3. Nutzung: Vervielfaeltigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
+4. Schranken: Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden.
+5. Arbeitsprodukt: Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren.
+6. Patentabmahnung verteidigen: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | UrhG Paragraf 2; UrhG Paragraf 15; UrhG Paragraf 31 |
+| Rechtsprechung | EuGH, Urteil vom 16.07.2009 - C-5/08; EuGH, Urteil vom 13.02.2014 - C-466/12 |
+| Tatbestand | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten |
+| Beweislast | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung |
+| Rechtsfolge | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Patentabmahnung verteidigen | Tragende Normen verifizieren: PatG Paragrafen 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruchsentwurf: Dokumentenmatrix, Lückenliste und Nachforderung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beschreibung und Zeichnungen prüfen | Tragende Normen verifizieren: PatG Paragrafen 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dokumentenintake | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einspruch und Nichtigkeit | Tragende Normen verifizieren: PatG Paragrafen 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einstieg und Routing | Dieser Einstieg routet Patentrecht vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Patentabmahnung verteidigen | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anspruchsentwurf: Dokumentenmatrix, Lückenliste und Nachforderung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beschreibung und Zeichnungen prüfen | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Dokumentenintake | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Einspruch und Nichtigkeit | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Einstieg und Routing | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
+- UrhG Paragraf 2: geschuetzte Werke.
+- UrhG Paragraf 15: Verwertungsrechte.
+- UrhG Paragraf 31: Einraeumung von Nutzungsrechten.
+- UrhG Paragraf 51: Zitatrecht.
 - Paragraf 9 PatG: Allein- und Mitbenutzungsrecht; Verletzungstatbestand: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 14 PatG / Art. 69 EPÜ + Protokoll: Schutzbereich richtet sich nach den Patentansprüchen; Beschreibung und Zeichnungen sind heranzuziehen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 139 PatG: Unterlassungs- und Schadensersatzanspruch (Schadensersatz dreistufig: konkret, Lizenzanalogie, Gewinnabschöpfung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 140a PatG: Vernichtung; Paragraf 140b PatG: Auskunftsanspruch: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 12 PatG: Vorbenutzungsrecht -- inländische ernsthafte Benutzung vor Prioritätstag schützt vor Verletzung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 34 Abs. 4 PatG / Art. 83 EPÜ: Erfindung muss so deutlich und vollständig offenbart sein, dass ein Fachmann sie ausführen kann. Bei mangelnder Offenbarung Zurückweisung /: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 38 PatG / Art. 123 (2) EPÜ Erweiterungsverbot: Spätere Änderungen dürfen Offenbarung nicht über ursprüngliche Anmeldung hinaus erweitern. Achtung: Klassiker im Einspruch: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schoepfung als unionsrechtlichen Werkanker.
+- EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
 - FRAND-Pflichten bei SEP: EuGH Huawei/ZTE, C-170/13, Urt. v. 16.07.2015
 - Wortsinn vor Äquivalenz: Erst exakte Merkmalsverwirklichung prüfen; dann Äquivalenz nach BGH "Schneidmesser I/II" (X ZR 168/00) — gleiche Wirkung, naheliegende Auffindbarkeit, Gleichwertigkeit
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Patentabmahnung verteidigen, Anspruchsentwurf: Dokumentenmatrix, Lückenliste und Nachforderung, Beschreibung und Zeichnungen prüfen, Dokumentenintake: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Patentabmahnung verteidigen, Anspruchsentwurf: Dokumentenmatrix, Lückenliste und Nachforderung, Beschreibung und Zeichnungen prüfen, Dokumentenintake: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

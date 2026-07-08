@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. WEG-Beschluss und Verwaltung: Beschluss, Einladungsfehler, Beschlusskompetenz, ordnungsmäßige Verwaltung und Klagefrist prüfen.
 6. Abrechnungsfrist und Nachforderung aus Betriebskosten: Paragraf 556 Abs: Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | BGB Paragraf 535; BGB Paragraf 536; BGB Paragraf 543 und Paragraf 569 |
+| Rechtsprechung | BGH, Urteil vom 18.03.2015 - VIII ZR 185/14; BGH, Urteil vom 18.03.2015 - VIII ZR 242/13 |
+| Tatbestand | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren |
+| Beweislast | Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen |
+| Rechtsfolge | Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Balkon, Terrasse, Garten: Fachmodul im Miet- und Wohnungseigentumsrecht | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Barrierefreiheit Mietwohnung: Fachmodul im Miet- und Wohnungseigentumsrecht | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - BGB Paragraf 535: Hauptpflichten aus dem Mietvertrag.
 - BGB Paragraf 536: Mietminderung bei Sach- und Rechtsmängeln.
@@ -51,10 +62,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 556 Abs. 3 BGB aktuell prüfen. BGH, Urteil vom 12.11.2014 - VIII ZR 112/14 als Zugangswarnung nur mit frei prüfbarer Quelle verwenden. Keine Blindfundstellen
 - Zahlungsbelege mitverlangen, wenn der Zahlungsfluss für die Abrechnung relevant ist. BGH, Urteil vom 09.12.2020 - VIII ZR 118/19
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abrechnungsfrist und Nachforderung aus Betriebskosten: Paragraf 556 Abs, Satellitenschüssel/Antennen: Fachmodul im Miet- und Wohnungseigentumsrecht, Aufrechnung/Zurückbehaltung: Fachmodul im Miet- und Wohnungseigentumsrecht, Aufzugskosten: Fachmodul im Miet- und Wohnungseigentumsrecht.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abrechnungsfrist und Nachforderung aus Betriebskosten: Paragraf 556 Abs, Satellitenschüssel/Antennen: Fachmodul im Miet- und Wohnungseigentumsrecht, Aufrechnung/Zurückbehaltung: Fachmodul im Miet- und Wohnungseigentumsrecht, Aufzugskosten: Fachmodul im Miet- und Wohnungseigentumsrecht.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

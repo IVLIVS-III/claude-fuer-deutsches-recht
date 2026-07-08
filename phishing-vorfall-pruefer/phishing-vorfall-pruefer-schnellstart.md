@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Phishing Vorfall Prüfer ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen IT- oder Softwarevertrag prüfen und Leistungspflichten sowie Haftung sauber fassen.
 
 # Phishing Vorfall Prüfer — Schnellstart
 
@@ -17,38 +17,52 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. 675U: Verhandlung, Vergleich und Eskalation: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie.
-2. 675v Quellenkarte: Diese Quellenkarte sichert im Bereich Phishing Vorfall Prüfer tragende Normen, Rechtsprechung, Behördenpraxis.
-3. 675W: Zahlen, Schwellenwerte und Berechnung: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen.
-4. Anschluss-Routing: Dieses Anschluss-Routing für Phishing Vorfall Prüfer wählt nach dem ersten Ergebnis die passende Vertiefung.
-5. Phishing + Arbeitnehmerhaftung: Tragende Normen verifizieren: Paragraf 675u; Paragraf 675v — Fundstellen über gesetze-im-internet.de, dejure.org.
-6. BaFin-Beschwerde gegen Bank: Tragende Normen verifizieren: Paragraf 675u; Paragraf 675v — Fundstellen über gesetze-im-internet.de, dejure.org.
+1. Leistungsmodell: Kauf, Miete, Werk, Dienst, SaaS, Cloud oder Mischvertrag einordnen.
+2. Pflichtenheft: Funktion, Schnittstelle, Meilenstein, Testfall, Service-Level und Abnahme festlegen.
+3. Störung: Mangel, Verzug, Change Request, Mitwirkungsdefizit und Eskalationsmechanik trennen.
+4. Rechte und Daten: Nutzungsrechte, Open Source, Datenschutzschnittstelle, Zugriff und Loeschung prüfen.
+5. Arbeitsprodukt: IT-Vertragsklausel, Mängelrüge, Abnahmeprotokoll, Exit-Plan oder Projektmemo erstellen.
+6. 675U: Verhandlung, Vergleich und Eskalation: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | BGB Paragraf 327; BGB Paragraf 327e; BGB Paragraf 433 |
+| Rechtsprechung | EuGH, Urteil vom 03.07.2012 - C-128/11; BGH, Urteil vom 15.11.2006 - XII ZR 120/04 |
+| Tatbestand | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen |
+| Beweislast | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung |
+| Rechtsfolge | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| 675U: Verhandlung, Vergleich und Eskalation | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 675v Quellenkarte | Diese Quellenkarte sichert im Bereich Phishing Vorfall Prüfer tragende Normen, Rechtsprechung, Behördenpraxis. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 675W: Zahlen, Schwellenwerte und Berechnung | rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Dieses Anschluss-Routing für Phishing Vorfall Prüfer wählt nach dem ersten Ergebnis die passende Vertiefung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Phishing + Arbeitnehmerhaftung | Tragende Normen verifizieren: Paragraf 675u; Paragraf 675v — Fundstellen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| BaFin-Beschwerde gegen Bank | Tragende Normen verifizieren: Paragraf 675u; Paragraf 675v — Fundstellen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 675U: Verhandlung, Vergleich und Eskalation | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 675v Quellenkarte | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 675W: Zahlen, Schwellenwerte und Berechnung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Phishing + Arbeitnehmerhaftung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| BaFin-Beschwerde gegen Bank | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
+- BGB Paragraf 327: Verbraucherverträge über digitale Produkte.
+- BGB Paragraf 327e: Vertragsmaessigkeit digitaler Produkte.
+- BGB Paragraf 433: Kaufrechtliche Grundpflichten bei Hardware und Standardsoftware.
+- BGB Paragraf 631: Werkvertragliche Pflichten bei Projektleistungen.
 - Normen-/Quellenanker: BGB Paragrafen 675u, 675v, 675w, 280; ZAG/PSD2, künftig PSD3/PSR beobachten; Datenschutz-Grundverordnung Art. 33, 34; StGB Paragrafen 263, 263a, 202a, 269: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 675u BGB: Erstattungsanspruch — unverzüglich, spätestens am nächsten Geschäftstag nach Anzeige: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 675w BGB Beweislast: Bank muss Authentifizierung, ordnungsgemäße Aufzeichnung, korrekte Buchung beweisen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 676b Abs. 2 BGB: Anzeigefrist 13 Monate nach Belastung (Ausschlussfrist): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 675w S. 1 BGB: Wurde die Authentifizierung mittels eines Zahlungsinstruments aufgezeichnet, muss der Zahlungsdienstleister bei Streit über die Authentizität nachweisen, dass: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 675w S. 3 BGB: Die Nutzung des Zahlungsinstruments reicht nicht als Anscheinsbeweis dafür, dass der Zahler die Zahlung autorisiert oder grob fahrlässig gehandelt hat: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 675l BGB Spiegelpflicht: Bank muss Sicherheitsmerkmale für unverzügliche Sperre verfügbar halten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschoepfung bei Softwaredownloads.
+- BGH, Urteil vom 15.11.2006 - XII ZR 120/04: Application-Service-Providing kann mietvertragliche Elemente tragen.
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder 675U: Verhandlung, Vergleich und Eskalation, 675v Quellenkarte, 675W: Zahlen, Schwellenwerte und Berechnung, Anschluss-Routing: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder 675U: Verhandlung, Vergleich und Eskalation, 675v Quellenkarte, 675W: Zahlen, Schwellenwerte und Berechnung, Anschluss-Routing: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

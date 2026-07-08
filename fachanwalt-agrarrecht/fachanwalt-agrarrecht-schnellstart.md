@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Typische Mandantenfragen Agrarrecht und Routing: Pacht, Hofübergabe, Förderung, Genehmigungsverfahren.: Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah prüfen.
 6. Spezialfall Pächterbetrieb: Verhältnis Verpächter-Pächter, Höhepunkt 12 Jahre Landpachtvertrag, Vorkaufsrecht des.: Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | Paragrafen 585 ff. BGB; Paragraf 1922 Abs. 1 BGB; Paragraf 1922 Abs. 1 BGB |
+| Rechtsprechung | BGH 22.05.2002 IV ZR 256/01; OLG Hamm 12.03.2021 10 W 47/20 |
+| Tatbestand | Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah prüfen |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Typische Mandantenfragen Agrarrecht und Routing: Pacht, Hofübergabe, Förderung, Genehmigungsverfahren. | Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Spezialfall Pächterbetrieb: Verhältnis Verpächter-Pächter, Höhepunkt 12 Jahre Landpachtvertrag, Vorkaufsrecht des. | Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - Paragrafen 585 ff. BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1922 Abs. 1 BGB — Gesamtrechtsnachfolge. - Paragraf 1937 BGB — Testament. - Paragraf 1942 BGB — Anfall und Ausschlagung. - Paragraf 1953 BGB — Wirkung der Ausschlagung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -45,14 +56,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 1953 BGB — Wirkung der Ausschlagung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1967 BGB — Erbenhaftung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH 22.05.2002 IV ZR 256/01 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- OLG Hamm 12.03.2021 10 W 47/20 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- BGH 09.05.2014 BLw 3/13 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- BGH 13.05.2016 BLw 2/16 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Cross-Compliance und GLOEZ-Praxis: Verpflichtungen, Kontrollen, Folgen Kürzung Direktzahlungen, Widerspruch., Agrarrecht: Rechtsquellen, GAP-Strategieplan Deutschland und EU-Förderung einführend: Direktzahlungen Einkommensgrundstützung., Spezialfall Jagdpachtstreit: Bundesjagdgesetz BJagdG.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Cross-Compliance und GLOEZ-Praxis: Verpflichtungen, Kontrollen, Folgen Kürzung Direktzahlungen, Widerspruch., Agrarrecht: Rechtsquellen, GAP-Strategieplan Deutschland und EU-Förderung einführend: Direktzahlungen Einkommensgrundstützung., Spezialfall Jagdpachtstreit: Bundesjagdgesetz BJagdG.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

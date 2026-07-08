@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Berufsgerichtliche Verfahren Freie Berufe ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Verwaltungsakt anfechten und vorläufigen Rechtsschutz erreichen.
 
 # Berufsgerichtliche Verfahren Freie Berufe — Schnellstart
 
@@ -17,32 +17,49 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Aktenherausgabe und Zurückbehaltungsrecht: Präventions- und Organisationspaket: Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO.
-2. Aktenherausgabe und Zurückbehaltungsrecht: Verteidigungs- und Kammerantwort: Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO.
-3. Anwaltsgericht nach BRAO Überblick: Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO.
-4. beA nicht in Betrieb: Präventions- und Organisationspaket: Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO.
-5. beA nicht in Betrieb: Verteidigungs- und Kammerantwort: Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO.
-6. beA und elektronische Kommunikation: Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO.
+1. Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen.
+2. Zulaessigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
+3. Materielle Rechtmaessigkeit: Ermaechtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhaeltnismaessigkeit prüfen.
+4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
+5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
+6. Aktenherausgabe und Zurückbehaltungsrecht: Präventions- und Organisationspaket: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | VwVfG Paragraf 35; VwVfG Paragraf 28; VwVfG Paragraf 40 |
+| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 |
+| Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
+| Beweislast | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit |
+| Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aktenherausgabe und Zurückbehaltungsrecht: Präventions- und Organisationspaket | Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenherausgabe und Zurückbehaltungsrecht: Verteidigungs- und Kammerantwort | Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwaltsgericht nach BRAO Überblick | Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| beA nicht in Betrieb: Präventions- und Organisationspaket | Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| beA nicht in Betrieb: Verteidigungs- und Kammerantwort | Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| beA und elektronische Kommunikation | Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenherausgabe und Zurückbehaltungsrecht: Präventions- und Organisationspaket | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenherausgabe und Zurückbehaltungsrecht: Verteidigungs- und Kammerantwort | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwaltsgericht nach BRAO Überblick | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| beA nicht in Betrieb: Präventions- und Organisationspaket | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| beA nicht in Betrieb: Verteidigungs- und Kammerantwort | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| beA und elektronische Kommunikation | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
+- VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
+- VwVfG Paragraf 28: Anhörung Beteiligter.
+- VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
+- VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
+- BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
+- BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Aktenherausgabe und Zurückbehaltungsrecht: Präventions- und Organisationspaket, Aktenherausgabe und Zurückbehaltungsrecht: Verteidigungs- und Kammerantwort, Anwaltsgericht nach BRAO Überblick, beA nicht in Betrieb: Präventions- und Organisationspaket: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Aktenherausgabe und Zurückbehaltungsrecht: Präventions- und Organisationspaket, Aktenherausgabe und Zurückbehaltungsrecht: Verteidigungs- und Kammerantwort, Anwaltsgericht nach BRAO Überblick, beA nicht in Betrieb: Präventions- und Organisationspaket: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

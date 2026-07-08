@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Anlagen aus IT-Systemen: Arbeitsfokus: Anlagen aus IT-Systemen. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output.
 6. Anlagen aus Mandantenmaterial: Arbeitsfokus: Anlagen aus Mandantenmaterial. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | Paragraf 130 Nr. 6 ZPO; Paragraf 130a Abs. 1 ZPO; Paragraf 131 Abs. 1 ZPO |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
+| Tatbestand | Dieser Fehlerkatalog prüft Arbeitsergebnisse für Anlagen zu Schriftsätzen vor Abgabe, Versand |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Anlagen aus IT-Systemen | Arbeitsfokus: Anlagen aus IT-Systemen. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anlagen aus Mandantenmaterial | Arbeitsfokus: Anlagen aus Mandantenmaterial. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - Paragraf 130 Nr. 6 ZPO — Schriftsatzanforderungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 130a Abs. 1 ZPO — elektronisches Dokument: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -45,10 +56,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 253 Abs. 2 ZPO — Klageinhalt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 299 Abs. 1 ZPO — Akteneinsicht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Anlage Fehlerkatalog, Anlage: Red-Team und Qualitätskontrolle, Übergabe an Assistenz und Legal Tech, Datenraum und SharePoint als Anlagenquelle: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Anlage Fehlerkatalog, Anlage: Red-Team und Qualitätskontrolle, Übergabe an Assistenz und Legal Tech, Datenraum und SharePoint als Anlagenquelle: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Berufsrecht Patentanwälte ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Verwaltungsakt anfechten und vorläufigen Rechtsschutz erreichen.
 
 # Berufsrecht Patentanwälte — Schnellstart
 
@@ -17,41 +17,55 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Aktenführung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
-2. Patentanwälte: aktenherausgabe patentakten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie.
-3. Patentanwälte: aktenherausgabe patentakten - Organisationspflichten, Prävention, Team-Anweisung.: Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BRAO Paragrafen 113 ff., BNotO Paragrafen.
-4. Patentanwälte: aktenherausgabe patentakten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste.
-5. Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden.: Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BRAO Paragrafen 113 ff., BNotO Paragrafen.
-6. Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kammerantwort mit Verfahrensstrategie, Tonlage.: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie.
+1. Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen.
+2. Zulaessigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
+3. Materielle Rechtmaessigkeit: Ermaechtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhaeltnismaessigkeit prüfen.
+4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
+5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
+6. Aktenführung: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | VwVfG Paragraf 35; VwVfG Paragraf 28; VwVfG Paragraf 40 |
+| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 |
+| Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
+| Beweislast | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit |
+| Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aktenführung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Patentanwälte: aktenherausgabe patentakten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Patentanwälte: aktenherausgabe patentakten - Organisationspflichten, Prävention, Team-Anweisung. | Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BRAO Paragrafen 113 ff., BNotO Paragrafen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Patentanwälte: aktenherausgabe patentakten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden. | Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BRAO Paragrafen 113 ff., BNotO Paragrafen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kammerantwort mit Verfahrensstrategie, Tonlage. | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenführung | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Patentanwälte: aktenherausgabe patentakten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Patentanwälte: aktenherausgabe patentakten - Organisationspflichten, Prävention, Team-Anweisung. | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Patentanwälte: aktenherausgabe patentakten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden. | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kammerantwort mit Verfahrensstrategie, Tonlage. | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
+- VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
+- VwVfG Paragraf 28: Anhörung Beteiligter.
+- VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
+- VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
 - Paragrafen 1, 3 PAO (Berufsaufgaben, Stellung im Rechtspflegesystem): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 4 PAO (Befähigung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 26 PAO (Werbung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 39, 39a PAO (Berufspflichten, Verschwiegenheit): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 45 PAO (Berufshaftpflicht): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 96 PAO (Berufsgericht): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 1, 134, 140 PatG (Patentanwaltliche Vertretung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
+- BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
 - BVerfG 1 BvR 2616/17 (Werberecht Patentanwälte)
 - BGH X ZR 117/11 (Patentanwalt-Haftung)
 - Werbung Paragraf 26 PAO nach BVerfG 1 BvR 2616/17 weit, aber sachlich
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Aktenführung, Patentanwälte: aktenherausgabe patentakten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan, Patentanwälte: aktenherausgabe patentakten - Organisationspflichten, Prävention, Team-Anweisung., Patentanwälte: aktenherausgabe patentakten - Rechtsprechungscheck, stärkste.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Aktenführung, Patentanwälte: aktenherausgabe patentakten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan, Patentanwälte: aktenherausgabe patentakten - Organisationspflichten, Prävention, Team-Anweisung., Patentanwälte: aktenherausgabe patentakten - Rechtsprechungscheck, stärkste.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

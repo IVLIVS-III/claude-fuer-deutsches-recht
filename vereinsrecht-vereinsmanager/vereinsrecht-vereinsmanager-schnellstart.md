@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Vereinsrecht Vereinsmanager ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
 
 # Vereinsrecht Vereinsmanager — Schnellstart
 
@@ -17,40 +17,54 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Beschlussmängel: Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59.
-2. Auflösung und Liquidation: Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59.
-3. Beschlussvorlagen: Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59.
-4. Datenschutz Mitgliederliste: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
-5. Delegierte und Abteilungen: Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59.
-6. Ehrenamtspauschale und Übungsleiter: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
+1. Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen.
+2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen.
+3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
+4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
+5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+6. Beschlussmängel: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | BGB Paragraf 705; HGB Paragraf 105; GmbHG Paragraf 13 |
+| Rechtsprechung | BGH, Urteil vom 29.01.2001 - II ZR 331/00; BGH, Urteil vom 04.07.2005 - II ZR 354/03 |
+| Tatbestand | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen |
+| Beweislast | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment |
+| Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Beschlussmängel | Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auflösung und Liquidation | Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beschlussvorlagen | Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Datenschutz Mitgliederliste | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Delegierte und Abteilungen | Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ehrenamtspauschale und Übungsleiter | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beschlussmängel | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auflösung und Liquidation | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beschlussvorlagen | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Datenschutz Mitgliederliste | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Delegierte und Abteilungen | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ehrenamtspauschale und Übungsleiter | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
+- BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
+- HGB Paragraf 105: offene Handelsgesellschaft.
+- GmbHG Paragraf 13: Rechtsnatur der GmbH.
+- GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
 - BGB Paragrafen 21-79, insbesondere Paragraf 32 BGB für Versammlung/Beschluss: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - AO Paragrafen 51-68 bei Gemeinnützigkeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 21 ff. BGB (eingetragener Verein, idealistischer Zweck): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 56 BGB: mindestens sieben Mitglieder zur Eintragung; im laufenden Verein dürfen bis auf drei Mitglieder fallen (sonst Auflösung Paragraf 73 BGB): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 57 BGB: Mindestinhalt der Satzung (Name, Sitz, Zweck, Eintragungsabsicht): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 59 BGB: Anmeldung beim Vereinsregister: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 54 BGB analog (nicht eingetragener Verein): Verein ist rechtsfähig nach Mitglieder-Beschluss, aber keine Vorzüge des e.V: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
+- BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
 - Cloud-Dienste: Datenschutz-Grundverordnung Art. 28 Auftragsverarbeitungsvertrag mit dem Anbieter; bei US-Anbietern Standardvertragsklauseln (SCC) und Transfer Impact Assessment nach EuGH "Schrems II"
 - Politische Tätigkeit: gemeinnützige Vereine müssen politisch zurückhaltend agieren; klare Linie zur Lobbyarbeit ziehen (BFH-Linie zu Attac, BFH X R 7/16, Urteil v. 10.01.2019)
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Beschlussmängel, Auflösung und Liquidation, Beschlussvorlagen, Datenschutz Mitgliederliste: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Beschlussmängel, Auflösung und Liquidation, Beschlussvorlagen, Datenschutz Mitgliederliste: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

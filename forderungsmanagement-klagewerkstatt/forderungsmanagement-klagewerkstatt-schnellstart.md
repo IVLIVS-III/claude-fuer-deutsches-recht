@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Chronologie und Belegmatrix: Jeder Schriftsatz steht und faellt mit der Belegkette. Diese Matrix verbindet Ereignisse mit Beweisen. - K eins K.
 6. Dokumente Intake: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | RVG Paragraf 1 gesetze-im-internet.de/rvg/1.html; RVG Paragraf 3a Vergueetungsvereinbarung; RVG Paragraf 4a Erfolgshonorar gesetze-im-internet.de/rvg/4a.html |
+| Rechtsprechung | BGH II ZR 256/02 Trihotel und II ZR 3/04 Bremer Vulkan; BGH abgelehnt als eigenen Haftungstatbestand (BGH II ZR 256/02). Nur |
+| Tatbestand | Dieser Skill ist der erste Griff, wenn eine Forderungsakte bereits als Ordner, ZIP, PDF-Buendel, E-Mail-Stapel |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Chronologie und Belegmatrix | Jeder Schriftsatz steht und faellt mit der Belegkette. Diese Matrix verbindet Ereignisse mit Beweisen. - K eins K. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Dokumente Intake | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - RVG Paragraf 1 gesetze-im-internet.de/rvg/__1.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - RVG Paragraf 3a Vergueetungsvereinbarung gesetze-im-internet.de/rvg/__3a.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -47,10 +58,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGH II ZR 256/02 Trihotel und II ZR 3/04 Bremer Vulkan:
 - BGH abgelehnt als eigenen Haftungstatbestand (BGH II ZR 256/02). Nur über Paragraf 826 BGB / existenzvernichtenden Eingriff
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Aktenordner-Erstlektüre, Anschluss-Routing, Anspruchsschriftsatz Bausteine, Belegte Compliance Aktenvermerk: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Aktenordner-Erstlektüre, Anschluss-Routing, Anspruchsschriftsatz Bausteine, Belegte Compliance Aktenvermerk: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

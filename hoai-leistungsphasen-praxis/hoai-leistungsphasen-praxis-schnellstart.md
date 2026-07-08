@@ -24,7 +24,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 5. Anrechenbare Kosten, DIN 276 und Kostengruppen: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen.
 6. HOAI Querschnitt: Koordiniert rollen ohne verantwortungsvermischung: Tragende Normen verifizieren: HOAI Paragrafen 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke).
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | BGB Paragrafen 650p bis 650t bei Architekten-/Ingenieurverträgen; Paragraf 1 HOAI (Anwendungsbereich); Paragrafen 3, 8 HOAI (Leistungsbild, Leistungsphasen 1-9) |
+| Rechtsprechung | BGH VII ZR 46/06 (Mindestsatz-Unterschreitung); BGH VII ZR 63/14 (Abschlagszahlung Architekt) |
+| Tatbestand | Tragende Normen verifizieren: HOAI Paragrafen 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke) |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
@@ -35,7 +46,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Anrechenbare Kosten, DIN 276 und Kostengruppen | rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | HOAI Querschnitt: Koordiniert rollen ohne verantwortungsvermischung | Tragende Normen verifizieren: HOAI Paragrafen 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
 - BGB Paragrafen 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1 HOAI (Anwendungsbereich): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -49,10 +60,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGH VII ZR 58/11 (Akquise vs. Vertragsschluss)
 - EuGH C-377/17 (HOAI-Preisrecht europarechtswidrig)
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder HOAI Querschnitt: Plant technische vorabnahme, HOAI Querschnitt: Erstellt abschlussbericht, HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh-/bgh-risiken, HOAI Querschnitt: Leitet zu freianlagen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder HOAI Querschnitt: Plant technische vorabnahme, HOAI Querschnitt: Erstellt abschlussbericht, HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh-/bgh-risiken, HOAI Querschnitt: Leitet zu freianlagen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

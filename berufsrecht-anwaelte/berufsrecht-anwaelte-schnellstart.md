@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Berufsrecht Anwälte ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Verwaltungsakt anfechten und vorläufigen Rechtsschutz erreichen.
 
 # Berufsrecht Anwälte — Schnellstart
 
@@ -17,38 +17,52 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Regulierungsrahmen-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz: Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO — Fundstellen über gesetze-im-internet.de.
-2. Aktenführung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
-3. Anwälte: aktenherausgabe und zurückbehaltung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie.
-4. Anwälte: aktenherausgabe und zurückbehaltung - Organisationspflichten, Prävention, Team-Anweisung.: Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO — Fundstellen über gesetze-im-internet.de.
-5. Anwälte: aktenherausgabe und zurückbehaltung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste.
-6. Anwälte: aktenherausgabe und zurückbehaltung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen: Normenanker: BRAO, BORA, FAO, RVG, RDG, GwG, beA-Pflichten, anwaltliche Verschwiegenheit und anwaltsgerichtliches.
+1. Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen.
+2. Zulaessigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
+3. Materielle Rechtmaessigkeit: Ermaechtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhaeltnismaessigkeit prüfen.
+4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
+5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
+6. Regulierungsrahmen-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | VwVfG Paragraf 35; VwVfG Paragraf 28; VwVfG Paragraf 40 |
+| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 |
+| Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
+| Beweislast | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit |
+| Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Regulierungsrahmen-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz | Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO — Fundstellen über gesetze-im-internet.de. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenführung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwälte: aktenherausgabe und zurückbehaltung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwälte: aktenherausgabe und zurückbehaltung - Organisationspflichten, Prävention, Team-Anweisung. | Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO — Fundstellen über gesetze-im-internet.de. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwälte: aktenherausgabe und zurückbehaltung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwälte: aktenherausgabe und zurückbehaltung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen | Normenanker: BRAO, BORA, FAO, RVG, RDG, GwG, beA-Pflichten, anwaltliche Verschwiegenheit und anwaltsgerichtliches. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Regulierungsrahmen-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenführung | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwälte: aktenherausgabe und zurückbehaltung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwälte: aktenherausgabe und zurückbehaltung - Organisationspflichten, Prävention, Team-Anweisung. | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwälte: aktenherausgabe und zurückbehaltung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwälte: aktenherausgabe und zurückbehaltung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
+- VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
+- VwVfG Paragraf 28: Anhörung Beteiligter.
+- VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
+- VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
 - Paragraf 43 BRAO (allgemeine Berufspflicht): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 43a BRAO (Grundpflichten – Sachlichkeit, Verschwiegenheit, Interessenkollision): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 113 ff. BRAO (anwaltsgerichtliches Verfahren): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 675 BGB i.V.m. Paragraf 667 BGB (Herausgabepflicht): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 73 BRAO (Aufgaben der Kammer): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 76 BRAO (Vorstand): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 113 ff. BRAO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
+- BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Regulierungsrahmen-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz, Aktenführung, Anwälte: aktenherausgabe und zurückbehaltung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan, Anwälte: aktenherausgabe und zurückbehaltung - Organisationspflichten, Prävention.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Regulierungsrahmen-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz, Aktenführung, Anwälte: aktenherausgabe und zurückbehaltung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan, Anwälte: aktenherausgabe und zurückbehaltung - Organisationspflichten, Prävention.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

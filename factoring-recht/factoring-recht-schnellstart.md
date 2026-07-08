@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Factoring Recht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
 
 # Factoring Recht — Schnellstart
 
@@ -17,39 +17,53 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
-2. Abtretungsverbot Paragraf 354a HGB Handelsgeschäft: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
-3. AGB Kontrolle Factoringklauseln B2B: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
-4. abrufenrechte Stichproben Forderungsprüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken.
-5. Aufsichtsrechtliche Schnellampel KWG ZAG: Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen.
-6. Auslandsfactoring Import Export Two-Factor-System: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
+1. Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen.
+2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen.
+3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
+4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
+5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+6. Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
 
-## 4. Einsatzfelder
+## 4. Fallkarte
+
+| Punkt | Sofortgriff |
+| --- | --- |
+| Normenanker | BGB Paragraf 705; HGB Paragraf 105; GmbHG Paragraf 13 |
+| Rechtsprechung | BGH, Urteil vom 29.01.2001 - II ZR 331/00; BGH, Urteil vom 04.07.2005 - II ZR 354/03 |
+| Tatbestand | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen |
+| Beweislast | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment |
+| Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
+## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abtretungsverbot Paragraf 354a HGB Handelsgeschäft | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AGB Kontrolle Factoringklauseln B2B | prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| abrufenrechte Stichproben Forderungsprüfung | prüft die einschlägigen Voraussetzungen, Dokumente, Risiken. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abtretungsverbot Paragraf 354a HGB Handelsgeschäft | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AGB Kontrolle Factoringklauseln B2B | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| abrufenrechte Stichproben Forderungsprüfung | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Aufsichtsrechtliche Schnellampel KWG ZAG | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auslandsfactoring Import Export Two-Factor-System | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auslandsfactoring Import Export Two-Factor-System | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
-## 5. Anker
+## 6. Anker
 
+- BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
+- HGB Paragraf 105: offene Handelsgesellschaft.
+- GmbHG Paragraf 13: Rechtsnatur der GmbH.
+- GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
 - Paragraf 398 BGB: Tatbestand der Abtretung. Einigung, kein Verfügungsverbot, Bestimmbarkeit. Übergang im Zeitpunkt der Einigung, bei künftigen Forderungen bei deren Entstehung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 399 BGB: Abtretungsverbot kraft Vertrags oder kraft Natur der Leistung. Erfasst auch AGB-Klauseln im Lieferantenvertrag des Debitors: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 354a HGB: Trotz Paragraf 399 BGB ist die Abtretung wirksam, wenn die Forderung aus einem beiderseitigen Handelsgeschäft stammt oder gegen eine juristische Person: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 354a Abs. 2 HGB: Ausnahme für Darlehensforderungen von Kreditinstituten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 404, 406, 407, 409 BGB: Schuldnerschutz – Einwendungen, Aufrechnung, Leistung an Altgläubiger, Anzeige durch Altgläubiger: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGB Paragrafen 398 bis 412, insbesondere Paragraf 399 (Abtretungsverbot) und Paragraf 404 (Einwendungen): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- HGB Paragraf 354a in der Fassung des Risikobegrenzungsgesetzes (Abs. 2 zu Darlehensforderungen): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
+- BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
-## 6. Antwortform
+## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote, Abtretungsverbot Paragraf 354a HGB Handelsgeschäft, AGB Kontrolle Factoringklauseln B2B, abrufenrechte Stichproben Forderungsprüfung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote, Abtretungsverbot Paragraf 354a HGB Handelsgeschäft, AGB Kontrolle Factoringklauseln B2B, abrufenrechte Stichproben Forderungsprüfung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
-## 7. Stop
+## 8. Stop
 
 Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
