@@ -51,10 +51,26 @@ insolvenzanfechtung-kontokorrent-verrechnungen-geduldete-ueberziehung-dortmund/
 ├── 11_anfechtungsschreiben_verwalter_2026-06-12.docx      — Anfechtung der Verrechnungen mit Saldodifferenzrechnung (§§ 129, 130, 131, 143 InsO)
 ├── 12_erwiderung_bankanwaelte_2026-06-25.docx             — Zurückweisung: eigene Saldorechnung, Bargeschäft, Linienerweiterung, Globalzession
 ├── 13_replik_verwalter_2026-07-03.docx                    — Replik mit Anfechtungserweiterung auf 88.420 EUR und letzter Fristsetzung
+├── 14_duplik_verwalter_saldodifferenz.docx                — Duplik: Aufteilung inkongruenter/kongruenter Teil der Rückführung
+├── 15_triplik_bank_globalzession.docx                     — Triplik der Bank: Globalzessions- und Kenntniseinwand
+├── 16_beweisbeschluss_lg_dortmund.docx                    — Beweisbeschluss: Zeugenvernehmung und Sachverständigengutachten Globalzession
+├── 17_zeugenvernehmungsprotokoll_sanders.docx             — Vernehmung der Zeugin Dr. Beate Sanders (Marktfolge Kredit)
+├── 18_sachverstaendigengutachten_lohmeyer_globalzession.docx — Gutachten: Wirksamkeit Globalzession und Gläubigerbenachteiligung EUR 83.600
+├── 19_stellungnahme_bank_zum_gutachten.docx               — Stellungnahme der Bank mit Vergleichsanregung
+├── 20_vergleichsvorschlag_verwalter.docx                  — Vergleichsvorschlag des Verwalters (EUR 52.000 bei Teilverzicht)
+├── 21_vergleichsannahme_bank.docx                         — Annahme des Vergleichsvorschlags durch die Bank
+├── 22_feststellungsbeschluss_vergleich.docx               — Feststellungsbeschluss § 278 VI ZPO
+├── 23_zahlungseingang_massekonto_bestaetigung.docx        — Aktenvermerk: Zahlungseingang Vergleichsbetrag auf Massekonto
+├── 24_verteilungsverzeichnis_auszug.docx                  — Verteilungsverzeichnis-Auszug mit realisiertem Anfechtungserlös
+├── 25_kostenfestsetzungsbeschluss.docx                    — Kostenfestsetzungsbeschluss 40:60-Quote
+├── xlsx/
+│   └── aufteilung_kongruent_inkongruent_berechnung.xlsx   — Tabellarische Aufteilung der Saldorückführung
 ├── eml/
 │   ├── 2026-02-09_bank_eingaenge_stehen_lassen.eml        — Betreuer-E-Mail: Duldung nur wochenweise, Rückgabe AOK- und Lieferantenzahlung
 │   ├── 2026-02-10_gf_bitte_um_freigabe_loehne.eml         — Geschäftsführer bittet um Freigabe von Löhnen und AOK-Rate
-│   └── 2026-03-05_bank_intern_sicherheiten_exit.eml       — Interne Bank-E-Mail: Sicherheitenverstärkung, Exit-Pfad, Kündigungsvorbereitung
+│   ├── 2026-03-05_bank_intern_sicherheiten_exit.eml       — Interne Bank-E-Mail: Sicherheitenverstärkung, Exit-Pfad, Kündigungsvorbereitung
+│   ├── 2026-12-22_vergleichsvorschlag_uebersendung.eml    — Übersendung des Vergleichsvorschlags an die Bankanwälte
+│   └── 2027-02-04_zahlungseingang_bestaetigung.eml        — Bestätigung Zahlungseingang Vergleichsbetrag
 ├── rubric.yaml                                            — Sechs Prüfpunkte zur Bewertung einer Bearbeitung
 └── README.md                                              — Diese Übersicht
 ```
