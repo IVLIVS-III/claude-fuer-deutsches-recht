@@ -1,3 +1,12 @@
+# v429.8.0 — Drei Sozialrecht-Testakten deutlich ausgebaut
+
+- Testakte `statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen` von 9 auf 33 Aktenstücke ausgebaut: vollständiger Gesellschaftsvertrag, historische Satzungsänderungen mit Notarurkunden, Handelsregisterauszug, DRV-Verfahren von Anhörung über Widerspruch bis Vergleich, Betriebsprüfungsbericht, Beitragsberechnungen und Multi-Format-Belege (E-Mails, CSV, XLSX, PDF, Chat-Screenshot).
+- Testakte `unfallversicherung-arbeitsunfall-lagerleiter-sturz-trier` von 9 auf 32 Aktenstücke ausgebaut: ausführliche Unfallschilderung, komplette medizinische Verlaufsdokumentation von Rettungsdienst bis Reha, vollständiger Verfahrensgang von BG-Anhörung über Klage bis Sachverständigengutachten mit MdE- und Rentenberechnung, Multi-Format-Belege ergänzt.
+- Testakte `sozialrecht-elektrorollstuhl-koerner-oldenburg` von 16 auf 30 Aktenstücke vertieft: vollständige medizinische und funktionelle Berichte, ausformulierter Widerspruchsbescheid, eingereichte Klageschrift und Klageerwiderung, gerichtlicher Beweisbeschluss und Sachverständigengutachten sowie eine BSG-Rechtsprechungsübersicht; der frühere Urteilsentwurf mit vorweggenommenem Ergebnis und die Klägerin-Kasse-Antwortmatrix wurden durch neutrale Verfahrensunterlagen ersetzt.
+- Für alle drei Akten wurden Gesamt-PDF neu gerendert und Akten-ZIP sowie Einzel-PDF-ZIP lokal geprüft.
+
+---
+
 # v429.7.0 — Fallkarten und Ankerlogik für Werkstatt und Schnellstart
 
 - Werkstatt-Prompts repo-weit entgenerisiert: neue Rechtsprechungs-Fallkarte, Normenanker-/Tatbestandsmatrix, Beweislastmerker, Quellenstatus und Outputvarianten stehen vor langen Prüfwegen und führen schneller zum Arbeitsprodukt.
