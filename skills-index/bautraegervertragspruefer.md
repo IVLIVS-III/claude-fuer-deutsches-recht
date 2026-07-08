@@ -1,6 +1,6 @@
 # bautraegervertragspruefer
 
-**30 Skills** · Stand `v429.10.0`
+**30 Skills** · Stand `v429.11.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bautraegervertragspruefer/README.md)

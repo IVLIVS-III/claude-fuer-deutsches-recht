@@ -1,3 +1,11 @@
+# v429.11.0 — Finaler Vorlagen- und Akten-Release-Nachlauf
+
+- Die geschärften Formatvorlagen aus v429.9.0 und der nachgezogene Insolvenzrecht-Aktenausbau aus v429.10.0 werden zusammen auf dem aktuellen Main-Stand veröffentlicht.
+- Marketplace, Plugin-Manifeste, Skill-Übersichten, Asset-Index und Testakten-Übersichten wurden auf v429.11.0 synchronisiert.
+- Release-Assets wurden vollständig gegen den erwarteten Dateisatz geprüft: Plugin-ZIPs, Prompt-Sammelpakete, zentrale Testakten-ZIPs, Einzel-PDF-ZIPs und Komplettpaket sind als Downloadpakete vorgesehen.
+
+---
+
 # v429.10.0 — Insolvenzrecht-Testakten mit vollem Aktenumfang ausgebaut
 
 - Sechs zu dünne Insolvenzrecht-Testakten wurden auf ≥25 nummerierte Aktenstücke plus vollständige Multi-Format-Unterordner gehoben: `insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena` (7 → 30), `insolvenzrecht-forderungspruefung-mietkaution-berlin` (7 → 26), `insolvenzverwaltung-nordlicht-handels-kiel` (5 → 27), `leasingrecht-maschinenfleet-restwert-insolvenz` (9 → 29), `luftrecht-airline-insolvenz-flugzeugpfand-flughafen` (11 → 29), `lumen-studios-insolvenz-strafverfahren` (9 → 30).

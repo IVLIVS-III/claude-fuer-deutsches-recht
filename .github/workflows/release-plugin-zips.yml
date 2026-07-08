@@ -329,7 +329,7 @@ jobs:
             local asset_name
             asset_name="$(basename "$asset")"
             local attempt
-            for attempt in 1 2 3 4; do
+            for attempt in 1 2 3 4 5 6 7 8; do
               # "gh release upload --clobber" kann bei sehr vielen Assets
               # gelegentlich erfolgreich zurueckkehren, ohne das entfernte
               # Asset tatsaechlich sichtbar zu ersetzen. Bei bestehenden
@@ -344,7 +344,7 @@ jobs:
                 return 0
               fi
               echo "Upload fehlgeschlagen (Versuch $attempt): $asset_name"
-              sleep $((attempt * 20))
+              sleep $((attempt * 600))
             done
             echo "Upload endgueltig fehlgeschlagen: $asset_name" >&2
             return 1
@@ -356,9 +356,9 @@ jobs:
             upload_asset "$asset"
             count=$((count + 1))
             if [ $((count % 20)) -eq 0 ]; then
-              sleep 20
+              sleep 60
             else
-              sleep 2
+              sleep 4
             fi
           done < <(find dist -maxdepth 1 -type f \( -name '*.zip' -o -name 'marketplace.json' -o -name 'checksums-sha256.txt' \) | sort)
 
@@ -369,6 +369,7 @@ jobs:
         run: python3 scripts/validate-release-assets.py dist "${{ steps.tagref.outputs.tag }}" --repo "${{ github.repository }}" --timeout-seconds 900 --poll-seconds 10
 
       - name: Artefakte hochladen (immer)
+        if: always()
         uses: actions/upload-artifact@v7
         with:
           name: plugin-zips

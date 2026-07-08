@@ -1,6 +1,6 @@
 # verkehrsowi-verteidiger
 
-**60 Skills** · Stand `v429.10.0`
+**60 Skills** · Stand `v429.11.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verkehrsowi-verteidiger/README.md)
