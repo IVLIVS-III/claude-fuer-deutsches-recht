@@ -1,0 +1,19 @@
+Streamdeck Europe - ECMR-Modul Version 6.2
+Export: 19.05.2026
+
+Systemhinweis (automatisiert erzeugt):
+Ein Fingerprint-Treffer stellt keine rechtliche Feststellung einer
+Urheberrechtsverletzung dar, sondern zeigt eine technische Aehnlichkeit
+zu hinterlegten Referenzdateien im Rights-Manager-Katalog an. Ein Treffer
+loest automatisch eine 72-Stunden-Pruefungsfrist fuer den betroffenen
+Upload aus.
+
+Bekannte Systemgrenze:
+Referenzfragmente unter 30 Sekunden Laenge fuehren nach Angaben des
+Plattform-Supports erfahrungsgemaess zu einer geringeren Treffergenauigkeit.
+Das von Nachtbogen Records hinterlegte Fragment (Fenster aus Eis) umfasst
+lediglich 18 Sekunden.
+
+Manuelle Nachpruefung:
+Bislang keine Bestaetigung durch einen menschlichen Reviewer. Status im
+System: "unter Pruefung".

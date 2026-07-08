@@ -22,7 +22,21 @@ checks:
     glob: "*.md"
     min: 1
 
-  - id: r04-fachspezifischer-check-zu-ergaenzen
+  - id: r04-sachverstaendigengutachten-vorhanden
+    check_type: file_exists
+    description: "Vorlaeufiges Sachverstaendigengutachten Musikvergleich als eigenes Aktenstueck vorhanden"
+    path: "16-sachverstaendigengutachten-musikvergleich-vorlaeufig.docx"
+
+  - id: r05-ecmr-fingerprint-bericht-vorhanden
+    check_type: file_exists
+    description: "ECMR-Fingerprint-Bericht der Streaming-Plattform vorhanden"
+    path: "17-ecmr-fingerprint-bericht-streamdeck.docx"
+
+  - id: r06-keine-rechtliche-bewertung-durch-sachverstaendige
     check_type: human_review
-    description: "Fachspezifischer Pass/Fail-Check fuer dieses Mandat fehlt - manuell ergaenzen"
-    note: "Beispiel: Vor jeder Schriftsatz-Ausgabe muss BAG-Az. live verifiziert werden"
+    description: "Pruefen, dass jede Antwort zum Sachverstaendigengutachten die technische von der rechtlichen Bewertung sauber trennt und keine Aussage zur Urheberrechtsverletzung der Sachverstaendigen zuschreibt"
+    note: "Das Gutachten (Aktenstueck 16) liefert nur Vergleichstatsachen, keine Rechtsbewertung"
+
+  - id: r07-gema-meldung-mit-vorbehalt-erkannt
+    check_type: human_review
+    description: "Pruefen, dass Antworten zur GEMA-Meldung (Aktenstueck 18) den Vorbehalts- und Aenderungslog-Charakter korrekt wiedergeben und keine endgueltige Rechtezuordnung suggerieren"
