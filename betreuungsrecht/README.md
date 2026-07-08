@@ -44,7 +44,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Skills für **ehrenamtliche Familienbetreuerinnen und Familienbetreuer**, berufliche
 Betreuerinnen und Betreuer, Vereinsbetreuer, Betreuungsbehörden und anwaltliche
 Begleitung nach dem Betreuungsorganisationsgesetz (BtOG) und den §§ 1814 ff. BGB.
@@ -130,7 +130,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -155,8 +155,8 @@ Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschre
 | `betreuung-demenz-erbe-werden-erwachsene` | Wenn es um Betreuung bei Demenz in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Betreuung Demenz Erbe Werden Erwachsen... |
 | `betreuung-erbe-werden` | Wenn es um Betreuer als Erbe in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `betreuung-fuer-erwachsene-kinder` | Wenn es um Betreuung erwachsener Kinder in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `betreuung-grenzueberschreitend` | Wenn es um Grenzueberschreitende Betreuung in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `betreuung-grenzueberschreitend-betreuungsantrag` | Wenn es um Grenzueberschreitende Betreuung in Betreuungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `betreuung-grenzueberschreitend` | Wenn es um Grenzüberschreitende Betreuung in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `betreuung-grenzueberschreitend-betreuungsantrag` | Wenn es um Grenzüberschreitende Betreuung in Betreuungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `betreuung-im-strafverfahren` | Wenn es um Betreuung im Strafverfahren in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Betreuung Im Strafverfahren; Ar... |
 | `betreuung-interessen` | Wenn es um Betreuung: Mehrparteienkonflikt und Interessenmatrix in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Betreu... |
 | `betreuung-mehrparteien-konflikt-und-interessen` | Wenn es um Betreuung: Mehrparteienkonflikt und Interessenmatrix in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Betreu... |
@@ -172,7 +172,7 @@ Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschre
 | `btog-schriftsatz-brief-memo-bausteine` | Wenn es um Btog: Schriftsatz-, Brief- und Memo-Bausteine in Betreuungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `btog-schriftsatz-brief-und-memo-bausteine` | Wenn es um Btog: Schriftsatz-, Brief- und Memo-Bausteine in Betreuungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `btr-aufgabenkreise-formulierung` | Wenn es um Btr: Aufgabenkreise in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `btr-betreuer-gegen-vorsorgevollmacht` | Wenn es um Btr: Bevollmaechtigter gegen Betreuer in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `btr-betreuer-gegen-vorsorgevollmacht` | Wenn es um Btr: Bevollmächtigter gegen Betreuer in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `btr-erstantrag-und-eilantrag` | Wenn es um Btr: Erst- und Eilantrag in Betreuungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Btr Ers... |
 | `btr-erstantrag-zwangsmedikation-genehmigung` | Wenn es um Btr: Erst- und Eilantrag in Betreuungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Btr Ers... |
 | `btr-zwangsmedikation-genehmigung-spezial` | Wenn es um Btr: Zwangsmedikation in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
@@ -235,15 +235,15 @@ Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschre
 | `redteam-qualitygate` | Wenn es um Red-Team Qualitygate in Betreuungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schutzplan-betreute-person-risikoampel` | Wenn es um Schutzplan und Risikoampel in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-betreuungsrecht-livequellen-und-rechtsprechungscheck` | Wenn es um Betreuungsrecht: Livequellen- und Rechtsprechungscheck in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `spezial-vermoegensverzeichnis-fristen-form-und-zustaendigkeit` | Wenn es um Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-vermoegensverzeichnis-fristen-form-und-zustaendigkeit` | Wenn es um Vermögensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ueberforderung-verhinderung-und-abgabe` | Wenn es um Überforderung, Verhinderung und Abgabe in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `unterlagen-luecken` | Wenn es um Unterlagen und Lücken in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `verdachtsvertraege-behoerden-gericht-und-registerweg` | Wenn es um Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: V... |
-| `verdachtsvertraege-pruefung` | Wenn es um Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: V... |
+| `verdachtsvertraege-behoerden-gericht-und-registerweg` | Wenn es um Verdachtsverträge: Behörden-, Gerichts- oder Registerweg in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: V... |
+| `verdachtsvertraege-pruefung` | Wenn es um Verdachtsverträge: Behörden-, Gerichts- oder Registerweg in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: V... |
 | `vermoegensverzeichnis-kontodaten` | Wenn es um Vermögensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstich... |
 | `vermoegensverzeichnis-pruefung` | Wenn es um Vermögensverzeichnis und Rechnungslegung (Paragrafen 1835. 1839. 1865 BGB) in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vermoegensverzeichnis-start` | Wenn es um Vermögensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstich... |
-| `vorsorgevollmacht-pruefen` | Wenn es um Vorsorgevollmacht prüfen in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vorsorgevollmacht Pruefen; Arbeits... |
+| `vorsorgevollmacht-pruefen` | Wenn es um Vorsorgevollmacht prüfen in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vorsorgevollmacht Prüfen; Arbeits... |
 | `vorsorgevollmacht-wunschermittlung` | Wenn es um Vorsorgevollmacht prüfen in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vorsorgevollmacht Wunschermittlung... |
 | `workflow-anschluss-skills-router` | Wenn es um Anschluss-Skills Router in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `workflow-kaltstart-und-routing` | Wenn es um Kaltstart und Routing in Betreuungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

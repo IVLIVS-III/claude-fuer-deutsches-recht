@@ -1,4 +1,4 @@
-Wenn du das hier oeffnest, willst du eine Kuendigung rechtssicher angreifen oder aussprechen und die Klagefrist sichern.
+Wenn du das hier öffnest, willst du eine Kündigung rechtssicher angreifen oder aussprechen und die Klagefrist sichern.
 
 # Arbeitsrecht — Schnellstart
 

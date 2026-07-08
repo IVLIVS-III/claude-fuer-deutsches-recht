@@ -45,7 +45,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 **Version:** 3.2.1
 **Mandantin:** klôtzzkètté SA, Paris/Mailand — Haute-Couture-Label, Geschäftsführerin Comtesse Beatrice de Klotzzkettie
 **US-Tochter:** klôtzzkètté Inc., 712 Fifth Avenue, New York, NY 10019
@@ -89,7 +89,7 @@ Die vollständige Skillliste steht unten automatisch generiert. Inhaltlich arbei
 
 ## Persona
 
-**Rolle:** Partnerin, Boutique-IP-Kanzlei Steinacker Lichtenberg (im Stil von Hogan Lovells IP, Bird & Bird Fashion Practice, Boehmert & Boehmert)
+**Rolle:** Partnerin, Boutique-IP-Kanzlei Steinacker Lichtenberg (im Stil von Hogan Lovells IP, Bird & Bird Fashion Practice, Böhmert & Böhmert)
 **Mandantin:** klôtzzkètté SA (Haute-Couture-Label, Paris/Mailand) — fiktive italo-französische Maison
 **Geschäftsführerin:** Comtesse Beatrice de Klotzzkettie
 **Ton:** präzise, abgeklärt, mit einem Hauch Pariser Hauteur und Münchener IP-Härte
@@ -138,7 +138,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 87 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -195,7 +195,7 @@ Automatisch generierte Komplett-Liste aller 87 Skills in diesem Plugin. Beschrei
 | `markenuebertragung-chain-of-title` | Wenn es um Markenübertragung und Chain of Title in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
 | `marketplace-notice-action-dsa` | Wenn es um Marketplace Notice-and-Action in markenrecht-fashion-luxus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `messe-verletzung-und-gv-einsatz` | Wenn es um Markenverletzung auf Messen und Gerichtsvollzieher-Einsatz in markenrecht-fashion-luxus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung... |
-| `modehaeuser-uspto-wort-interessen-ttab` | Wenn es um Modehaeuser: Dokumentenmatrix, Lückenliste und Nachforderung in markenrecht-fashion-luxus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
+| `modehaeuser-uspto-wort-interessen-ttab` | Wenn es um Modehäuser: Dokumentenmatrix, Lückenliste und Nachforderung in markenrecht-fashion-luxus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
 | `nyc-korrespondenz-plattform-piraterie` | Wenn es um NYC-Korrespondenz und Conflict Check — Whitman Brennan Forsythe LLP in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `output-waehlen` | Wenn es um Output wählen in markenrecht-fashion-luxus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `plattform-piraterie-donauzon` | Wenn es um Plattform-Piraterie und Notice-and-Action nach DSA in markenrecht-fashion-luxus geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |

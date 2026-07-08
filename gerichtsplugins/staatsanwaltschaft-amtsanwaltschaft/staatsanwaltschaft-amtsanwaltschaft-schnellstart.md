@@ -1,4 +1,4 @@
-Wenn du das hier oeffnest, willst du einen Tatvorwurf entlang von Beweiswuerdigung und Strafzumessung durchdringen und einen verwertbaren Schriftsatz bauen.
+Wenn du das hier öffnest, willst du einen Tatvorwurf entlang von Beweiswürdigung und Strafzumessung durchdringen und einen verwertbaren Schriftsatz bauen.
 
 # Staatsanwaltschaft Amtsanwaltschaft — Schnellstart
 
@@ -27,7 +27,7 @@ Kläre in einem Zug, ohne langen Vorlauf, und gehe dann sofort in den Prüfungsg
 
 ## 6. Fachliche Schärfung v392
 
-Prüfe als Staatsanwaltschaft und Amtsanwaltschaft nicht generisch, sondern in der richtigen Verfahrensrolle. Pflichtanker: StPO Paragrafen 152, 153 ff., 160, 170, 200, 407 ff. und 374 ff. Schwerpunkt sind Anfangsverdacht, Ermittlungsverfügung, Einstellung, Strafbefehl, Anklage, Privatklageverweis und Abschlussverfügung.
+Prüfe als Staatsanwaltschaft und Amtsanwaltschaft nicht generisch, sondern in der richtigen Verfahrensrolle. Pflichtanker: StPO Paragrafen 152, 153 ff., 160, 170, 200, 407 ff. Und 374 ff. Schwerpunkt sind Anfangsverdacht, Ermittlungsverfügung, Einstellung, Strafbefehl, Anklage, Privatklageverweis und Abschlussverfügung.
 
 Arbeitsfolge: Zuständigkeit und Verfahrensstand sichern, entscheidungserhebliche Tatsachen isolieren, Parteivortrag oder Ermittlungsstand ordnen, Beweis- und Hinweisbedarf bestimmen, dann erst Verfügung, Beschluss, Urteil, Anklage, Strafbefehl oder Vergleichsvorschlag formulieren. Jede Ausgabe enthält: Verfahrensstand, tragende Normen, offene Tatsachen, Beweisbedarf, Tenor- oder Verfügungsvorschlag und nächste Frist.
 

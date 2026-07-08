@@ -16,7 +16,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Diese Akte ist eine Arbeitsakte für das Plugin `corporate-kanzlei`. Sie bildet einen komplexen grenzueberschreitenden **Asset Deal** im MedTech-Sektor ab und deckt alle wesentlichen Mandate-Phasen von der Mandatsannahme bis zum Post-Closing ab.
+Diese Akte ist eine Arbeitsakte für das Plugin `corporate-kanzlei`. Sie bildet einen komplexen grenzüberschreitenden **Asset Deal** im MedTech-Sektor ab und deckt alle wesentlichen Mandate-Phasen von der Mandatsannahme bis zum Post-Closing ab.
 
 ## Sachverhalt
 

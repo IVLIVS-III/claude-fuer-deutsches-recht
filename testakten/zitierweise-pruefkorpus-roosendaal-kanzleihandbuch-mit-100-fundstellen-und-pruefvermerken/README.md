@@ -1,4 +1,4 @@
-# Akte: Zitierweise-Pruefkorpus — Kanzlei Roosendaal Birkenhainer Partners mbB — Kanzleihandbuch v4 mit 100 Fundstellen und Pruefvermerken
+# Akte: Zitierweise-Prüfkorpus — Kanzlei Roosendaal Birkenhainer Partners mbB — Kanzleihandbuch v4 mit 100 Fundstellen und Prüfvermerken
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -15,25 +15,25 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Arbeitsakte.** Alle Personen, Aktenzeichen und internen Bezeichnungen sind anonymisiert. Die Akte gehoert fachlich zum Plugin `zitierweise-deutsches-recht`.
+**Arbeitsakte.** Alle Personen, Aktenzeichen und internen Bezeichnungen sind anonymisiert. Die Akte gehört fachlich zum Plugin `zitierweise-deutsches-recht`.
 
 ---
 
 ## Kurzbild
 
-- Mandantin: Kanzlei Roosendaal Birkenhainer Partners mbB (Standorte Berlin, Muenchen, Hamburg; 280 Berufstraeger). Interne Beauftragung zur Erstellung und Pflege des Kanzleihandbuchs Zitierweise (Hauszitierregeln, Pruefkorpus).
+- Mandantin: Kanzlei Roosendaal Birkenhainer Partners mbB (Standorte Berlin, München, Hamburg; 280 Berufsträger). Interne Beauftragung zur Erstellung und Pflege des Kanzleihandbuchs Zitierweise (Hauszitierregeln, Prüfkorpus).
 - Verantwortlich: Dr. Sophia Pohlmann-Wittfeldt (Wissenschaftliche Mitarbeiterin, Lehrbeauftragte HU Berlin), Dr. Henrik Roosendaal (Senior Partner, Federführung), Moritz Lattermann (Knowledge Manager).
-- Gegenstand: Erstellung eines Pruefkorpus mit 100 Fundstellen aus Rechtsprechung, Literatur und Drittquellen mit vollständigen Pruefvermerken gem. Plugin-Standard v4.0 (BeckRS-Sperre, Halluzinations-Prüfvermerk, URL-Archivierungspflicht).
+- Gegenstand: Erstellung eines Prüfkorpus mit 100 Fundstellen aus Rechtsprechung, Literatur und Drittquellen mit vollständigen Prüfvermerken gem. Plugin-Standard v4.0 (BeckRS-Sperre, Halluzinations-Prüfvermerk, URL-Archivierungspflicht).
 - Zentrales Regelwerk: Hauszitierregeln v4.0 — amtliche Quellen zuerst, Mehrfach-Fundstellen nach Rangfolge (BGHZ vor NJW vor BeckRS), BeckRS nur mit aktivem Lizenzzugang (sonst Sperre), freie Quellen (dejure.org, openjur.de) stets mit URL.
-- Grueneberg-Umstellung: Ab Erscheinungsjahr 2022 ist der Kommentar unter dem Kurztitel Gruenenberg zu zitieren, nicht mehr Palandt. Altzitate in Bestandsschriftsätzen sind kenntlich zu machen.
+- Grüneberg-Umstellung: Ab Erscheinungsjahr 2022 ist der Kommentar unter dem Kurztitel Grünenberg zu zitieren, nicht mehr Palandt. Altzitate in Bestandsschriftsätzen sind kenntlich zu machen.
 - Konfliktstrang 1 BeckRS-Sperre: Fundstellen nur in BeckRS ohne amtliche oder freie Alternative — Plugin sperrt Ausgabe, Prüfvermerk erforderlich.
-- Konfliktstrang 2 Palandt/Gruenenberg: Altzitate 2021 und früher bleiben Palandt; ab 2022 ist Gruenenberg zwingend — Verwechslung führt zu Autorenschafts-Fehler.
+- Konfliktstrang 2 Palandt/Grünenberg: Altzitate 2021 und früher bleiben Palandt; ab 2022 ist Grünenberg zwingend — Verwechslung führt zu Autorenschafts-Fehler.
 - Konfliktstrang 3 BVerfGE-Zitierung: Band-Seite vs. amtliche Randnummer vs. Online-Quelle bundesverfassungsgericht.de — Rangfolge und Zulässigkeit klären.
 - Konfliktstrang 4 Literatur-Modellwissen-Sperre: Aufsätze ohne verifizierbaren Direktzugriff (Tannenmoor JZ 2024) — Plugin gibt Sperre aus statt Halluzination.
 - Konfliktstrang 5 Rechtsprechungs-Mindeststandard: Gericht, Datum, Aktenzeichen, ggf. amtliche Quelle — fehlende Angaben führen zu Prüfvermerk.
 - Konfliktstrang 6 Internet-URL-Pflicht: Bei freier Zugänglichkeit (dejure.org, openjur.de) ist URL-Angabe Pflicht; Weglassen gilt als Zitierfehler.
 - Konfliktstrang 7 Rangfolge Mehrfach-Fundstellen: Amtliche Sammlung (BGHZ, BVerfGE) geht vor NJW, NJW vor BeckRS — Umkehrung ist Fehler.
-- Konfliktstrang 8 Migration Bestandsschriftsätze: Altbestand mit Palandt-Zitaten, abweichenden URL-Standards und fehlenden Pruefvermerken wird systematisch auf v4.0 migriert.
+- Konfliktstrang 8 Migration Bestandsschriftsätze: Altbestand mit Palandt-Zitaten, abweichenden URL-Standards und fehlenden Prüfvermerken wird systematisch auf v4.0 migriert.
 
 ---
 
@@ -45,7 +45,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | BVerfG-Rechtsprechungszitate | 02 | Band-Seite, Randnummer, Online-Quelle bundesverfassungsgericht.de |
 | BGH-Rechtsprechungszitate | 03 | BGHZ, NJW, dejure.org-URL, Mindeststandard |
 | BFH, BVerwG, BSG, BAG | 04 | Besondere Senate, amtliche Sammlungen, openjur.de |
-| Literatur Kommentare Gruenenberg | 05 | Palandt-Gruenenberg-Umstellung 2021/2022, Randnummer |
+| Literatur Kommentare Grünenberg | 05 | Palandt-Grünenberg-Umstellung 2021/2022, Randnummer |
 | Literatur Handbücher | 06 | Mehrautoren-Werke, Herausgeber, Bandangabe |
 | Literatur Aufsätze Sperre | 07 | Modellwissen-Sperre, JZ 2024, Halluzinations-Prüfvermerk |
 | BeckRS-Sperre-Fälle | 08 | Sperre bei fehlendem Lizenzzugang, Prüfvermerk, Alternativen |
@@ -56,11 +56,11 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | Internet-URL-Pflicht und Archiv | 13 | Pflichtangabe URL, Archivierungsdatum, Wayback Machine |
 | Fussnoten-Format | 14 | Langzitat, Kurzzitat, Wiederholungszitat (a.a.O.) |
 | Buchformate Monographie Festschrift | 15 | Autor, Titel, Auflage, Jahr, Seite |
-| Altzitate Palandt | 16 | Paragraphengeruest, Migration, Kenntlichmachung |
+| Altzitate Palandt | 16 | Paragraphengerüst, Migration, Kenntlichmachung |
 | EU-Recht und EuGH | 17 | ECLI, EUR-Lex-URL, amtliche Sammlung |
 | Migration Bestandsschriftsätze | 18 | v4.0-Umstellungsschritte, Status-Matrix |
 | Glossar Abkürzungen | 19 | Standardabkürzungen juristischer Quellen |
-| Qualitätsmessung Pruefkorpus | 20 | Fehlerquoten, Kategorien, Statistik |
+| Qualitätsmessung Prüfkorpus | 20 | Fehlerquoten, Kategorien, Statistik |
 | Schulung Mitarbeiter | 21 | Schulungskonzept, Fallbeispiele, Tests |
 | Checkliste Veröffentlichung | 22 | Abschlussprüfung Handbuch v4.0 |
 
@@ -71,10 +71,10 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | Nr. | Datei | Inhalt |
 |---|---|---|
 | 01 | [`01-hauszitierregeln-handbuch.docx`](01-hauszitierregeln-handbuch.docx) | Hauszitierregeln v4.0 — Grundregeln, Hierarchie, Sonderfälle |
-| 02 | [`02-rechtsprechung-bverfg-zitate-pruefkorpus.docx`](02-rechtsprechung-bverfg-zitate-pruefkorpus.docx) | BVerfG-Zitate Pruefkorpus: Band-Seite, Randnummer, Online-Quelle |
-| 03 | [`03-rechtsprechung-bgh-zitate-pruefkorpus.docx`](03-rechtsprechung-bgh-zitate-pruefkorpus.docx) | BGH-Zitate Pruefkorpus: BGHZ, NJW, dejure.org-URL |
-| 04 | [`04-rechtsprechung-bfh-bverwg-bsg-bag.docx`](04-rechtsprechung-bfh-bverwg-bsg-bag.docx) | BFH, BVerwG, BSG, BAG — Pruefkorpus besonderer Senate |
-| 05 | [`05-literatur-kommentare-gruenenberg-umstellung.docx`](05-literatur-kommentare-gruenenberg-umstellung.docx) | Kommentar-Zitate: Gruenenberg-Umstellung, Randnummern |
+| 02 | [`02-rechtsprechung-bverfg-zitate-pruefkorpus.docx`](02-rechtsprechung-bverfg-zitate-pruefkorpus.docx) | BVerfG-Zitate Prüfkorpus: Band-Seite, Randnummer, Online-Quelle |
+| 03 | [`03-rechtsprechung-bgh-zitate-pruefkorpus.docx`](03-rechtsprechung-bgh-zitate-pruefkorpus.docx) | BGH-Zitate Prüfkorpus: BGHZ, NJW, dejure.org-URL |
+| 04 | [`04-rechtsprechung-bfh-bverwg-bsg-bag.docx`](04-rechtsprechung-bfh-bverwg-bsg-bag.docx) | BFH, BVerwG, BSG, BAG — Prüfkorpus besonderer Senate |
+| 05 | [`05-literatur-kommentare-gruenenberg-umstellung.docx`](05-literatur-kommentare-gruenenberg-umstellung.docx) | Kommentar-Zitate: Grünenberg-Umstellung, Randnummern |
 | 06 | [`06-literatur-handbuecher-pruefvermerke.docx`](06-literatur-handbuecher-pruefvermerke.docx) | Handbuch-Zitate: Herausgeber, Mehrautoren, Bandangabe |
 | 07 | [`07-literatur-aufsaetze-modellwissen-sperre.docx`](07-literatur-aufsaetze-modellwissen-sperre.docx) | Aufsatz-Zitate: Modellwissen-Sperre, Prüfvermerk |
 | 08 | [`08-beckrs-sperre-faelle.docx`](08-beckrs-sperre-faelle.docx) | BeckRS-Sperre-Fälle: Lizenzzugang, Prüfvermerk, Alternativen |
@@ -85,7 +85,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | 13 | [`13-internet-url-pflicht-und-archiv.docx`](13-internet-url-pflicht-und-archiv.docx) | URL-Pflicht, Archivierungsdatum, Wayback Machine |
 | 14 | [`14-fussnoten-format-langzitate-kurzzitate.docx`](14-fussnoten-format-langzitate-kurzzitate.docx) | Fussnoten-Format: Langzitat, Kurzzitat, a.a.O. |
 | 15 | [`15-buchformate-monographie-festschrift.docx`](15-buchformate-monographie-festschrift.docx) | Buchformate: Monographie, Festschrift, Sammelband |
-| 16 | [`16-altzitate-palandt-paragraphengeruest.docx`](16-altzitate-palandt-paragraphengeruest.docx) | Altzitate Palandt: Paragraphengeruest, Migration, Kenntlichmachung |
+| 16 | [`16-altzitate-palandt-paragraphengeruest.docx`](16-altzitate-palandt-paragraphengeruest.docx) | Altzitate Palandt: Paragraphengerüst, Migration, Kenntlichmachung |
 | 17 | [`17-eu-recht-und-acj-zitierung.docx`](17-eu-recht-und-acj-zitierung.docx) | EU-Recht: ECLI, EUR-Lex, EuGH-Zitierung |
 | 18 | [`18-migration-bestandsschriftsaetze.docx`](18-migration-bestandsschriftsaetze.docx) | Migration Bestandsschriftsätze auf v4.0 |
 | 19 | [`19-glossar-abkuerzungen.docx`](19-glossar-abkuerzungen.docx) | Glossar juristischer Abkürzungen |
@@ -102,14 +102,14 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | Datei | Inhalt |
 |---|---|
 | [`docx/kanzleihandbuch-zitierweise-v4-final.docx`](docx/kanzleihandbuch-zitierweise-v4-final.docx) | Kanzleihandbuch Zitierweise v4.0 (Druckfassung) |
-| [`docx/pruefkorpus-100-fundstellen-tabelle.docx`](docx/pruefkorpus-100-fundstellen-tabelle.docx) | Pruefkorpus 100 Fundstellen als Tabelle (Langversion) |
+| [`docx/pruefkorpus-100-fundstellen-tabelle.docx`](docx/pruefkorpus-100-fundstellen-tabelle.docx) | Prüfkorpus 100 Fundstellen als Tabelle (Langversion) |
 | [`docx/schulungsfolien-v4-zusammenfassung.docx`](docx/schulungsfolien-v4-zusammenfassung.docx) | Schulungsfolien-Zusammenfassung v4.0 |
 
 ### XLSX
 
 | Datei | Inhalt |
 |---|---|
-| [`xlsx/pruefkorpus-100-fundstellen.xlsx`](xlsx/pruefkorpus-100-fundstellen.xlsx) | Pruefkorpus 100 Fundstellen: Fundstelle, Kategorie, Prüfvermerk, Status |
+| [`xlsx/pruefkorpus-100-fundstellen.xlsx`](xlsx/pruefkorpus-100-fundstellen.xlsx) | Prüfkorpus 100 Fundstellen: Fundstelle, Kategorie, Prüfvermerk, Status |
 | [`xlsx/migration-bestandsschriftsaetze-status.xlsx`](xlsx/migration-bestandsschriftsaetze-status.xlsx) | Migrationsstatus Bestandsschriftsätze: Dokument, Fehlertyp, Status |
 
 ### E-Mails (.eml)
@@ -117,7 +117,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | Datei | Inhalt |
 |---|---|
 | [`emails/2025-03-10_lattermann_an_partnerrunde_handbuch-update.eml`](emails/2025-03-10_lattermann_an_partnerrunde_handbuch-update.eml) | Knowledge Manager Lattermann an Partnerrunde: Handbuch v4.0 Update |
-| [`emails/2025-04-02_roosendaal_an_pohlmann-wittfeldt_pruefauftrag.eml`](emails/2025-04-02_roosendaal_an_pohlmann-wittfeldt_pruefauftrag.eml) | Roosendaal an Pohlmann-Wittfeldt: Prüfauftrag Pruefkorpus |
+| [`emails/2025-04-02_roosendaal_an_pohlmann-wittfeldt_pruefauftrag.eml`](emails/2025-04-02_roosendaal_an_pohlmann-wittfeldt_pruefauftrag.eml) | Roosendaal an Pohlmann-Wittfeldt: Prüfauftrag Prüfkorpus |
 | [`emails/2025-05-15_mitarbeitende_an_lattermann_beck-anfrage.eml`](emails/2025-05-15_mitarbeitende_an_lattermann_beck-anfrage.eml) | Mitarbeiter an Knowledge: Beck-Online-Lizenzanfrage |
 | [`emails/2025-06-20_hu-berlin_an_pohlmann-wittfeldt_korrespondenz.eml`](emails/2025-06-20_hu-berlin_an_pohlmann-wittfeldt_korrespondenz.eml) | HU Berlin an Pohlmann-Wittfeldt: Lehrauftrag Zitierweise |
 
@@ -134,7 +134,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 |---|---|
 | [`jpg/handbuch-druckansicht-titel.jpg`](jpg/handbuch-druckansicht-titel.jpg) | Druckansicht Kanzleihandbuch Titelseite (Referenzfoto) |
 | [`jpg/schulungsraum-kanzlei.jpg`](jpg/schulungsraum-kanzlei.jpg) | Schulungsraum Kanzlei Berlin (Referenzfoto) |
-| [`jpg/pruefkorpus-ablage-bibliothek.jpg`](jpg/pruefkorpus-ablage-bibliothek.jpg) | Pruefkorpus-Ablage Bibliothek Kanzlei (Referenzfoto) |
+| [`jpg/pruefkorpus-ablage-bibliothek.jpg`](jpg/pruefkorpus-ablage-bibliothek.jpg) | Prüfkorpus-Ablage Bibliothek Kanzlei (Referenzfoto) |
 
 ---
 
@@ -146,12 +146,12 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | Arbeitsstrang | Status |
 |---|---|
 | Hauszitierregeln v4.0 | Entwurf abgeschlossen, interne Abstimmung läuft |
-| Pruefkorpus 100 Fundstellen | 100 Fundstellen erfasst, Prüfvermerke gesetzt |
-| Gruenenberg-Umstellung | Regel formuliert; Bestandsmigration läuft |
+| Prüfkorpus 100 Fundstellen | 100 Fundstellen erfasst, Prüfvermerke gesetzt |
+| Grünenberg-Umstellung | Regel formuliert; Bestandsmigration läuft |
 | BeckRS-Sperre | Sperr-Regel in v4.0 aufgenommen; Beck-Lizenzprüfung läuft |
 | Literatur-Modellwissen-Sperre | Prüfvermerk-Vorlage fertig; Plugin-Test ausstehend |
-| Migration Bestandsschriftsätze | 147 von 312 Schriftsaetzen migriert (47 %) |
-| Schulung Mitarbeiter | Praesenztermin 18.11.2025 geplant |
+| Migration Bestandsschriftsätze | 147 von 312 Schriftsätzen migriert (47 %) |
+| Schulung Mitarbeiter | Präsenztermin 18.11.2025 geplant |
 | Veröffentlichung Handbuch v4.0 | Freigabe durch Dr. Roosendaal angestrebt: Dezember 2025 |
 
 Bearbeiterin: **Dr. Sophia Pohlmann-Wittfeldt**, Kanzlei Roosendaal Birkenhainer Partners mbB, Berlin

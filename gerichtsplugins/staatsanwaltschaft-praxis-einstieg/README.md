@@ -32,7 +32,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
-Praxisplugin für neue Staatsanwaelte: Aktenstart, Anfangsverdacht, Ermittlungsauftrag, Eingriffe, Anklage, Strafbefehl, Einstellung, Sitzungsdienst, Rechtsmittel und OWiG.
+Praxisplugin für neue Staatsanwälte: Aktenstart, Anfangsverdacht, Ermittlungsauftrag, Eingriffe, Anklage, Strafbefehl, Einstellung, Sitzungsdienst, Rechtsmittel und OWiG.
 
 Dieses Plugin gehört zum Marketplace mit 234 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
@@ -139,7 +139,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 145 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -212,22 +212,22 @@ Automatisch generierte Komplett-Liste aller 145 Skills in diesem Plugin. Beschre
 | `opferrechte-nebenklage-adhaesion` | Wenn es um Opferrechte, Nebenklage und Adhäsion in Staatsanwaltschaft Praxis-Einstieg geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenl... |
 | `owi-abwesenheit-betroffener-73-74` | Wenn es um Owi Abwesenheit Betroffener 73 74 in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und... |
 | `owi-beschlussverfahren-72-und-widerspruch` | Wenn es um Owi Beschlussverfahren 72 Und Widerspruch in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `owi-beweisaufnahme-77-und-beweisantraege` | Wenn es um Owi Beweisaufnahme 77 Und Beweisantraege in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `owi-beweisaufnahme-77-und-beweisantraege` | Wenn es um Owi Beweisaufnahme 77 Und Beweisanträge in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `owi-bussgeldbescheid-inhalt-und-fehler` | Wenn es um Owi Bussgeldbescheid Inhalt Und Fehler in Staatsanwaltschaft Praxis-Einstieg geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `owi-bussgeldbescheid-umwelt` | Wenn es um Owi Bussgeldbescheid Umwelt in Staatsanwaltschaft Praxis-Einstieg geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `owi-datenschutz-bussgeld-lg-zustaendigkeit` | Wenn es um Owi Datenschutz Bussgeld Lg Zuständigkeit in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nä... |
 | `owi-einspruch-und-zwischenverfahren-69` | Wenn es um Owi Einspruch Und Zwischenverfahren 69 in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `owi-hauptverhandlung-sitzungsdienst-staatsanwaelte` | Wenn es um Owi Hauptverhandlung Sitzungsdienst Staatsanwaelte in Staatsanwaltschaft Praxis-Einstieg geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `owi-hauptverhandlung-sitzungsdienst-staatsanwaelte` | Wenn es um Owi Hauptverhandlung Sitzungsdienst Staatsanwälte in Staatsanwaltschaft Praxis-Einstieg geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `owi-kaltstart-bussgeldverfahren-sta-rolle` | Wenn es um Owi Kaltstart Bussgeldverfahren Sta Rolle in Staatsanwaltschaft Praxis-Einstieg geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `owi-ki-deepfake-mehrfachverfahren-verbindung` | Wenn es um digitale Werkzeuge- und Deepfake-Beweise im Strafverfahren in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmat... |
 | `owi-kommunikation-mit-verwaltungsbehoerde` | Wenn es um Kommunikation mit Verwaltungsbehörde und Gericht: sachkundig, knapp und rollenrein in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzb... |
 | `owi-kosten-vollstreckung-opportunitaet` | Wenn es um Kosten, Rücknahme, Rechtskraft und Vollstreckung im Bußgeldverfahren sauber abschließen in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt... |
 | `owi-kosten-vollstreckung-und-ruecknahme` | Wenn es um Kosten, Rücknahme, Rechtskraft und Vollstreckung im Bußgeldverfahren sauber abschließen in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt... |
 | `owi-opferrechte-nebenklage-abwesenheit` | Wenn es um Opferrechte, Nebenklage und Adhäsion in Staatsanwaltschaft Praxis-Einstieg geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenl... |
-| `owi-opportunitaet-einstellung-47` | Wenn es um Owi Opportunitaet Einstellung 47 in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und n... |
+| `owi-opportunitaet-einstellung-47` | Wenn es um Owi Opportunität Einstellung 47 in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und n... |
 | `owi-rechtsbeschwerde-79-80` | Wenn es um Rechtsbeschwerde im OWi-Verfahren: Zulässigkeit, Zulassung, Frist und StA-Entscheidung in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risi... |
-| `owi-uebergang-revision-staatsanwaelte` | Wenn es um Owi Uebergang Revision Staatsanwaelte in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `owi-uebergang-strafverfahren-81-82` | Wenn es um Owi Uebergang Strafverfahren 81 82 in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und... |
+| `owi-uebergang-revision-staatsanwaelte` | Wenn es um Owi Übergang Revision Staatsanwälte in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `owi-uebergang-strafverfahren-81-82` | Wenn es um Owi Übergang Strafverfahren 81 82 in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und... |
 | `owi-umwelt-arbeitsschutz-produkt-bussgeld` | Wenn es um Owi Umwelt Arbeitsschutz Produkt Bussgeld in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sc... |
 | `owi-verbandsgeldbusse-30-130` | Wenn es um Owi Verbandsgeldbusse 30 130 in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächs... |
 | `owi-verjaehrung-verfolgungsverjaehrung` | Wenn es um Verjährung im OWi-Verfahren: Verfolgungsverjährung, Unterbrechung und Aktenkalender in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsproduk... |

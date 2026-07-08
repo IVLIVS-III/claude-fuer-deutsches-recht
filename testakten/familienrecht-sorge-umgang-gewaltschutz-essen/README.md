@@ -37,16 +37,16 @@ Eilsache nach Trennung der Eheleute Derya und Cem Aydin in Essen. Es gibt einen 
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | 01 mandatsnotiz erstgespraech.docx |
+| `01_mandatsnotiz_erstgespraech.docx` | 01 mandatsnotiz erstgespräch.docx |
 | `02_chronologie_arbeitsstand.docx` | 02 chronologie arbeitsstand.docx |
 | `03_sachverhalt_aus_mandantensicht.docx` | 03 sachverhalt aus mandantensicht.docx |
 | `04_gegenseite_standpunkt.docx` | 04 gegenseite standpunkt.docx |
 | `05_schulsozialarbeit_notiz.docx` | 05 schulsozialarbeit notiz.docx |
 | `06_polizei_einsatzvermerk_auszug.docx` | 06 polizei einsatzvermerk auszug.docx |
-| `09_entwurf_naechstes_schreiben.docx` | 09 entwurf naechstes schreiben.docx |
+| `09_entwurf_naechstes_schreiben.docx` | 09 entwurf nächstes schreiben.docx |
 | `csv/fristen_eilsache.csv` | csv/fristen eilsache.csv |
 | `emails/2026-07-03_schule_abholfrage.eml` | emails/2026 07 03 schule abholfrage.eml |
-| `pdfs/fotoblatt_tuer_und_flur.pdf` | pdfs/fotoblatt tuer und flur.pdf |
+| `pdfs/fotoblatt_tuer_und_flur.pdf` | pdfs/fotoblatt tür und flur.pdf |
 | `xlsx/umgangskalender_und_risiken.xlsx` | xlsx/umgangskalender und risiken.xlsx |
 
 ## Arbeitsnotiz

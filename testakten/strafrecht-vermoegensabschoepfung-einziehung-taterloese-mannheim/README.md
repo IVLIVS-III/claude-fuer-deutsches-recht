@@ -1,4 +1,4 @@
-# Testakte: Vermögensabschöpfung nach §§ 73 ff. StGB — Abrechnungsbetrug eines Pflegedienstes (Mannheim)
+# Testakte: Vermögensabschöpffung nach §§ 73 ff. StGB — Abrechnungsbetrug eines Pflegedienstes (Mannheim)
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->

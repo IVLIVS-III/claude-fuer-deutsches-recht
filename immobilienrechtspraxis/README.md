@@ -43,7 +43,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Werkzeuge für immobilienrechtliche Rechtsabteilungen — musterbasierte Vertragserstellung mit Klauselschutz; Vertragsprüfung gegen Playbook; Grundbuchanalyse; Sachverhaltsermittlung; Mieteranfragen mit BGH-Verankerung; Case Management; projektbasierte Arbeitsweise mit AVV-Prüfung.
 
 ## Installation in der Plugin-Umgebung
@@ -96,7 +96,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 62 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -114,13 +114,13 @@ Automatisch generierte Komplett-Liste aller 62 Skills in diesem Plugin. Beschrei
 | `grundbuchanalyse` | Wenn es um Grundbuchanalyse in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `grundbuchanalyse-zahlen-schwellen-und-berechnung` | Wenn es um Grundbuchanalyse: Zahlen, Schwellenwerte und Berechnung in Immobilienrechtspraxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
 | `immo-aufteilungsplan-weg` | Wenn es um Aufteilungsplan WEG in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `immo-bauliche-veraenderung-energieausweis` | Wenn es um Bauliche Veraenderung WEG in Immobilienrechtspraxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `immo-bauliche-veraenderung-energieausweis` | Wenn es um Bauliche Veränderung WEG in Immobilienrechtspraxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `immo-bauvertrag-vob-kaufvertrag-grundstueck` | Wenn es um Bauvertrag VOB-B / BGB in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `immo-energieausweis` | Wenn es um Energieausweis (GEG) in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `immo-gewerbliche-mieter-konkurs` | Wenn es um Gewerbemieter in Insolvenz in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `immo-grundschuld-bestellung-makler-honorar` | Wenn es um Grundschuldbestellung in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `immo-immobilienrechtliche-live-beweislast` | Wenn es um Immo: Abschlussprodukt und Übergabe in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `immo-kaufvertrag-grundstueck` | Wenn es um Grundstueckskaufvertrag in Immobilienrechtspraxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `immo-kaufvertrag-grundstueck` | Wenn es um Grundstückskaufvertrag in Immobilienrechtspraxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `immo-makler-honorar` | Wenn es um Maklervertrag in Immobilienrechtspraxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `immo-mietkaufvertrag` | Wenn es um Mietkaufvertrag in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `immo-share-deal-grunderwerbsteuer` | Wenn es um Share-Deal GrEStG in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -131,7 +131,7 @@ Automatisch generierte Komplett-Liste aller 62 Skills in diesem Plugin. Beschrei
 | `immor-bauvertrag-vob-erbbaurecht-vertrag` | Wenn es um ImmoR: Bauvertrag VOB BGB in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `immor-bodenrichtwert-betriebskostenabrechnung` | Wenn es um ImmoR: Bodenrichtwert-Bewertung in Immobilienrechtspraxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `immor-erbbaurecht-vertrag-spezial` | Wenn es um ImmoR: Erbbaurecht-Vertrag in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `immor-grundstueckskaufvertrag-bauleiter` | Wenn es um ImmoR: Grundstueckskaufvertrag in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `immor-grundstueckskaufvertrag-bauleiter` | Wenn es um ImmoR: Grundstückskaufvertrag in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `klauselschutz-vertragserstellung` | Wenn es um Klauselschutz: Behörden-, Gerichts- oder Registerweg in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `live-beweislast-und-darlegungslast` | Wenn es um Live: Beweislast, Darlegungslast und Substantiierung in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `management-mieteranfragen-interessen` | Wenn es um Management: Formular, Portal und Einreichungslogik in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -149,14 +149,14 @@ Automatisch generierte Komplett-Liste aller 62 Skills in diesem Plugin. Beschrei
 | `sachverhaltsermittlung` | Wenn es um Sachverhaltsermittlung in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `sachverhaltsermittlung-verifikation` | Wenn es um Sachverhaltsermittlung: Compliance-Dokumentation und Aktenvermerk in Immobilienrechtspraxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und... |
 | `spezial-playbook-livequellen-und-rechtsprechungscheck` | Wenn es um Playbook: Livequellen- und Rechtsprechungscheck in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `spezial-pruefung-red-team-und-qualitaetskontrolle` | Wenn es um Pruefung: Red-Team und Qualitätskontrolle in Immobilienrechtspraxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-pruefung-red-team-und-qualitaetskontrolle` | Wenn es um Prüfung: Red-Team und Qualitätskontrolle in Immobilienrechtspraxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `start-chronologie-fristen` | Wenn es um Immobilienrechtspraxis — Allgemein in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `unterlagen-luecken` | Wenn es um Unterlagen und Lücken in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `verifikation-sonderfall-und-edge-case` | Wenn es um Verifikation: Sonderfall und Edge-Case-Prüfung in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vertragserstellung-musterbasiert` | Wenn es um Vertragserstellung musterbasiert in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vertragserstellung-risikoampel-und-gegenargumente` | Wenn es um Vertragserstellung: Risikoampel, Gegenargumente und Verteidigungslinien in Immobilienrechtspraxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschr... |
 | `vertragspruefung-playbook` | Wenn es um Vertragsprüfung gegen Playbook in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `vertragspruefung-schriftsatz-brief-und-memo-bausteine` | Wenn es um Vertragspruefung: Schriftsatz-, Brief- und Memo-Bausteine in Immobilienrechtspraxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und... |
+| `vertragspruefung-schriftsatz-brief-und-memo-bausteine` | Wenn es um Vertragsprüfung: Schriftsatz-, Brief- und Memo-Bausteine in Immobilienrechtspraxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und... |
 | `weg-abrechnung-mieterschnittstelle-datenpaket` | Wenn es um Weg Abrechnung Mieterschnittstelle Datenpaket in Immobilienrechtspraxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `werkzeuge-erstpruefung-und-mandatsziel` | Wenn es um Werkzeuge: Erstprüfung, Rollenklärung und Mandatsziel in Immobilienrechtspraxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `workflow-chronologie-und-belegmatrix` | Wenn es um Chronologie und Belegmatrix in Immobilienrechtspraxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |

@@ -38,8 +38,8 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
-Dieses Plugin hilft Menschen, die mit deutschem Recht zu tun haben, aber Deutsch nicht als Herkunftssprache sprechen. Es erklaert Bescheide, Fristen, Formulare, Verträge, Schriftsaetze und Gerichtssprache respektvoll und klar.
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
+Dieses Plugin hilft Menschen, die mit deutschem Recht zu tun haben, aber Deutsch nicht als Herkunftssprache sprechen. Es erklärt Bescheide, Fristen, Formulare, Verträge, Schriftsätze und Gerichtssprache respektvoll und klar.
 
 Es ist kein einfacher Sprachkurs. Es ist ein juristischer Verstehens- und Formulierungsassistent: Was bedeutet dieser Satz? Was muss ich tun? Was darf ich nicht aus Versehen zugeben? Wie schreibe ich das in gutem, formalem Deutsch, ohne meinen Inhalt zu verlieren?
 
@@ -54,11 +54,11 @@ Es ist kein einfacher Sprachkurs. Es ist ein juristischer Verstehens- und Formul
 ## Typische Starts
 
 - Ich verstehe diesen Bescheid nicht.
-- Ich will der Behoerde antworten.
+- Ich will der Behörde antworten.
 - Ich habe Angst, etwas Falsches zuzugeben.
 - Ich muss eine Frist berechnen.
 - Ich will meinem Anwalt eine gute E-Mail schreiben.
-- Ich brauche eine einfache Erklaerung eines juristischen Wortes.
+- Ich brauche eine einfache Erklärung eines juristischen Wortes.
 
 ## Quellenregel
 
@@ -85,7 +85,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -93,16 +93,16 @@ Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschrei
 | --- | --- |
 | `absenden-qualitaetsgate-keine` | Wenn es um Prüfung Vor Absenden in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `aktenzeichen-und-betreff` | Wenn es um Aktenzeichen Und Betreff in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `amtssprache-entschluesseln-anhoerung` | Wenn es um Amtssprache Entschluesseln in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `amtssprache-entschluesseln-anhoerung` | Wenn es um Amtssprache Entschlüsseln in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `anhoerung-verstehen` | Wenn es um Anhörung Verstehen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `anlagenliste-verstehen-antrag-stellungnahme` | Wenn es um Anlagenliste Verstehen in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `antrag-stellungnahme-erklaerung` | Wenn es um Antrag Stellungnahme Erklaerung in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `antrag-stellungnahme-erklaerung` | Wenn es um Antrag Stellungnahme Erklärung in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `anwaltstermin-vorbereiten-arbeitsrecht` | Wenn es um Anwaltstermin Vorbereiten in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `arbeitsrecht-warnwoerter` | Wenn es um Arbeitsrecht Warnwoerter in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `auslaenderrecht-warnwoerter` | Wenn es um Auslaenderrecht Warnwoerter in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `auslaenderrecht-warnwoerter-barrierefreie` | Wenn es um Ausländerrecht Warnwoerter in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `barrierefreie-erklaerung` | Wenn es um Barrierefreie Erklaerung in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `behoerdenpflichten-mitwirkung` | Wenn es um Behoerdenpflichten Mitwirkung in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `arbeitsrecht-warnwoerter` | Wenn es um Arbeitsrecht Warnwörter in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `auslaenderrecht-warnwoerter` | Wenn es um Ausländerrecht Warnwörter in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `auslaenderrecht-warnwoerter-barrierefreie` | Wenn es um Ausländerrecht Warnwörter in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `barrierefreie-erklaerung` | Wenn es um Barrierefreie Erklärung in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `behoerdenpflichten-mitwirkung` | Wenn es um Behördenpflichten Mitwirkung in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `behoerdenpflichten-mitwirkung-bescheid` | Wenn es um Behördenpflichten Mitwirkung in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `bescheid-in-einfacher-sprache` | Wenn es um Bescheid In Einfacher Sprache in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `chronologie-erstellen` | Wenn es um Chronologie Erstellen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
@@ -112,39 +112,39 @@ Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschrei
 | `email-an-anwalt` | Wenn es um Email An Anwalt in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `email-an-behoerde-verstehen-und-schreiben` | Wenn es um E-Mail An Behörde Verstehen Und Schreiben in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `email-an-familienrecht-warnwoerter` | Wenn es um Email An Behörde in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `familienrecht-warnwoerter` | Wenn es um Familienrecht Warnwoerter in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `familienrecht-warnwoerter` | Wenn es um Familienrecht Warnwörter in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `formales-einfach-ausfuellen-hilfe` | Wenn es um Formales Deutsch Zu Einfach in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `formular-ausfuellen-hilfe` | Wenn es um Formular Ausfuellen Hilfe in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `formular-ausfuellen-hilfe` | Wenn es um Formular Ausfüllen Hilfe in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `frist-datum-notfallmodus` | Wenn es um Frist Und Datum Verstehen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `geldbetraege-berechnungen-gerichtstermin` | Wenn es um Geldbetraege Berechnungen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `geldbetraege-berechnungen-gerichtstermin` | Wenn es um Geldbeträge Berechnungen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `gerichtstermin-verstehen` | Wenn es um Gerichtstermin Verstehen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `grammatik-korrektur-begriffe-uebersetzen` | Wenn es um Grammatik Korrektur Ohne Inhaltsverlust in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `juristische-begriffe-uebersetzen` | Wenn es um Juristische Begriffe Uebersetzen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `juristische-begriffe-uebersetzen` | Wenn es um Juristische Begriffe Übersetzen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `kaltstart-triage` | Wenn es um Allgemein in Juristische Sprache Deutsch als Zweitsprache geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `keine-falschen-klage-einfach` | Wenn es um Keine Falschen Zugestaendnisse in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `keine-falschen-klage-einfach` | Wenn es um Keine Falschen Zugeständnisse in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `klage-einfach-formulieren` | Wenn es um Klage Einfach Formulieren in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `lernmodus-juristendeutsch-mehrsprachige` | Wenn es um Lernmodus Juristendeutsch in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `mehrsprachige-glossarhilfe` | Wenn es um Mehrsprachige Glossarhilfe in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `mietrecht-warnwoerter-muss-kann` | Wenn es um Mietrecht Warnwoerter in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `mietrecht-warnwoerter-muss-kann` | Wenn es um Mietrecht Warnwörter in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `muss-kann-soll-darf` | Wenn es um Muss Kann Soll Darf in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `nachweis-beleg-erstellen` | Wenn es um Beweis Nachweis Beleg in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `negativer-bescheid-passiv-nominalstil` | Wenn es um Negativer Bescheid Emotional in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `notfallmodus-frist-heute` | Wenn es um Notfallmodus Frist Heute in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `passiv-und-nominalstil-verstehen` | Wenn es um Passiv Und Nominalstil Verstehen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `pruefung-vor-absenden` | Wenn es um Pruefung Vor Absenden in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `qualitaetsgate-keine-herablassung` | Wenn es um Qualitaetsgate Keine Herablassung in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `pruefung-vor-absenden` | Wenn es um Prüfung Vor Absenden in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `qualitaetsgate-keine-herablassung` | Wenn es um Qualitätsgate Keine Herablassung in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `rechtsbehelfsbelehrung-verstehen-respektvolle` | Wenn es um Rechtsbehelfsbelehrung Verstehen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `respektvolle-rueckfragen` | Wenn es um Respektvolle Rueckfragen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `respektvolle-rueckfragen` | Wenn es um Respektvolle Rückfragen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `satzbau-juristendeutsch-sozialrecht` | Wenn es um Satzbau Juristendeutsch in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `sozialrecht-warnwoerter` | Wenn es um Sozialrecht Warnwoerter in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `sozialrecht-warnwoerter` | Wenn es um Sozialrecht Warnwörter in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `sprachprofil-speichern-strafrechtliche` | Wenn es um Sprachprofil Speichern Ohne Stigma in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `strafrechtliche-warnwoerter` | Wenn es um Strafrechtliche Warnwoerter in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `strafrechtliche-warnwoerter` | Wenn es um Strafrechtliche Warnwörter in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `telefonat-behoerde-unterschrift-vollmacht` | Wenn es um Telefonat Mit Behörde Vorbereiten in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `telefonat-mit-behoerde-vorbereiten` | Wenn es um Telefonat Mit Behoerde Vorbereiten in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `telefonat-mit-behoerde-vorbereiten` | Wenn es um Telefonat Mit Behörde Vorbereiten in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `unterschrift-vollmacht` | Wenn es um Unterschrift Vollmacht in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vertrag-einfach-aktenzeichen-betreff` | Wenn es um Vertrag Einfach Verstehen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `widerspruch-einfach-zivilprozess-warnwoerter` | Wenn es um Widerspruch Einfach Formulieren in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `zivilprozess-warnwoerter` | Wenn es um Zivilprozess Warnwoerter in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `zivilprozess-warnwoerter` | Wenn es um Zivilprozess Warnwörter in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `zustellung-brief-postfach` | Wenn es um Hilft bei Zustellung Brief Postfach für Menschen mit Deutsch als Zweitsprache in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen-... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

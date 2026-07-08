@@ -1,4 +1,4 @@
-# Testakte: Insolvenzanfechtung — Inkongruente Deckung durch Zwangsvollstreckung (Fürth)
+# Testakte: Insolvenzanfechtung — Inkongrünte Deckung durch Zwangsvollstreckung (Fürth)
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
@@ -18,7 +18,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 Arbeitsakte des Insolvenzverwalters über das Vermögen der Frankenletter Druck- und Medien GmbH (Druckerei, Fürth), Amtsgericht Fürth, IN 145/26. Die Karow Verpackungswerk GmbH hat aus einem Vollstreckungsbescheid im letzten Monat vor dem Eigenantrag vom 12.03.2026 insgesamt 41.750 EUR erhalten: eine Barzahlung an der Warenrampe (9.750 EUR), den Erlös einer Kassenpfändung (12.000 EUR) und eine Überweisung von 20.000 EUR, die die Schuldnerin nach Ankündigung weiterer Vollstreckungsmaßnahmen ausdrücklich „zur Abwendung der Vollstreckung" geleistet hat.
 
-Der Verwalter verlangt Rückgewähr; die Gläubigerin verteidigt sich vor allem damit, sie habe von der Krise nichts gewusst, und hält die dritte Zahlung für eine freiwillige, kongruente Erfüllung. Der Eigenantrag datiert den Eintritt der Zahlungsunfähigkeit auf Anfang März 2026; die gesicherte BWA-Reihe und der Bankspiegel der Schuldnerin erzählen eine deutlich ältere Geschichte. Die Akte nimmt die rechtliche Würdigung nicht vorweg; die vorgerichtliche Korrespondenz beider Seiten liegt vollständig bei.
+Der Verwalter verlangt Rückgewähr; die Gläubigerin verteidigt sich vor allem damit, sie habe von der Krise nichts gewusst, und hält die dritte Zahlung für eine freiwillige, kongrünte Erfüllung. Der Eigenantrag datiert den Eintritt der Zahlungsunfähigkeit auf Anfang März 2026; die gesicherte BWA-Reihe und der Bankspiegel der Schuldnerin erzählen eine deutlich ältere Geschichte. Die Akte nimmt die rechtliche Würdigung nicht vorweg; die vorgerichtliche Korrespondenz beider Seiten liegt vollständig bei.
 
 ## Beteiligte
 

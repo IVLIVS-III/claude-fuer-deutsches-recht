@@ -31,7 +31,7 @@ Arbeitsakte zum Plugin `fachanwalt-transport-speditionsrecht`.
 - Bussgeldverfahren: BALM-Bussgeld 25.000 EUR gegen Schwarmstedt wegen unerlaubter Sub-Sub-Vergabe an Cojocaru Flota SRL (Galati, Rumänien, ohne gültige EU-Lizenz) und Lenkzeitverstoß; Einspruch AG Hannover OWi 31a OWi 4188 Js 7711/26.
 - Frachtdiebstahl: iPad Pro Sendung (1.411.200 EUR) in Rumänien gestohlen (Pre-Loaded Truck Theft); Deckungsstreit Allianz Marine & Cargo.
 - Embargo: Sammeltransport Dezember 2025; Generalika-Antibiotika teilweise an sanktionierten syrischen Empfänger (VO (EU) 36/2012) weitergeleitet; Ermittlungsverfahren StA Hannover 9300 UJs 21188/26.
-- Überlader-Regress: Auflieger auf BAB A7 4.200 kg überladen durch Verlader Boeschke Kühl & Frische GmbH (Hamburg); Regressforderung 34.600 EUR; § 22 StVO, § 414 HGB.
+- Überlader-Regress: Auflieger auf BAB A7 4.200 kg überladen durch Verlader Böschke Kühl & Frische GmbH (Hamburg); Regressforderung 34.600 EUR; § 22 StVO, § 414 HGB.
 - Digital-Compliance: eCMR-Lücken, FrachtPersV-Streit, KI-Routenoptimierungstool TruckMind (KI-VO), fehlender Sanktionslisten-Screeningprozess.
 - Anwältin: RAin Dr. Antonia Hammerschmidt, Hammerschmidt, Sommerfeldt & Partner Rechtsanwälte, Hamburg.
 
@@ -55,7 +55,7 @@ Arbeitsakte zum Plugin `fachanwalt-transport-speditionsrecht`.
 | AWG — Außenwirtschaftsrecht | 09 | § 17, § 18 AWG, VO (EU) 36/2012 Syrien-Sanktionen |
 | KI-VO (EU) 2024/1689 | 11 | Hochrisiko-KI, Transparenzpflichten Art. 50, AVV-Pflicht |
 | eCMR-Protokoll, FrachtPersV | 11 | Elektronischer Frachtbrief, FrachtPersV-Aufzeichnungspflichten |
-| Sachverstaendigenbeweis § 286, § 402 ZPO | 15, 21 | Parteigutachter vs. gerichtlicher SV, Beweislasten |
+| Sachverständigenbeweis § 286, § 402 ZPO | 15, 21 | Parteigutachter vs. gerichtlicher SV, Beweislasten |
 | Vergleichsstrategie und ADR | 20 | Vergleichskorridore, Mediation DSLV, § 153a StPO |
 | Beweismittelverzeichnis | 21 | Urkundenliste, Zeugenliste, Beweiserhebungsmaßnahmen |
 | Regressstrategie international | 06 | EuGVVO, Vollstreckung Rumänien, Sicherungsmaßnahmen |
@@ -75,7 +75,7 @@ Arbeitsakte zum Plugin `fachanwalt-transport-speditionsrecht`.
 | 07 | [`07_balm_bussgeldverfahren_guekG.docx`](07_balm_bussgeldverfahren_guekG.docx) | BALM-Bussgeldbescheid; GüKG § 1, § 7a; VO (EG) 561/2006; Einspruchsbegründung OWi |
 | 08 | [`08_frachtdiebstahl_ipad_allianz_marine.docx`](08_frachtdiebstahl_ipad_allianz_marine.docx) | iPad-Diebstahl Sibiu; Pre-Loaded Truck Theft; Allianz-Deckungsablehnung; CMR-Haftung |
 | 09 | [`09_embargovertoss_syrien_zollfahndung.docx`](09_embargovertoss_syrien_zollfahndung.docx) | Embargo VO (EU) 36/2012; §§ 17, 18 AWG; StA Hannover; Compliance-Bewertung |
-| 10 | [`10_ueberlader_boeschke_regressklage.docx`](10_ueberlader_boeschke_regressklage.docx) | Überladung BAB A7; § 22 StVO; § 414 HGB; DEKRA-Gutachten; Boeschke-Regress |
+| 10 | [`10_ueberlader_boeschke_regressklage.docx`](10_ueberlader_boeschke_regressklage.docx) | Überladung BAB A7; § 22 StVO; § 414 HGB; DEKRA-Gutachten; Böschke-Regress |
 | 11 | [`11_digital_compliance_ecmr_ki_vo.docx`](11_digital_compliance_ecmr_ki_vo.docx) | eCMR, FrachtPersV, TruckMind KI-VO, DSGVO-AVV, Sanktionslisten-Screening |
 | 12 | [`12_gdp_adr_zertifizierung_pharmatransport.docx`](12_gdp_adr_zertifizierung_pharmatransport.docx) | GDP-Leitlinien EU 2013/C 68/01; ADR-Zertifizierung; Subunternehmer-Qualifizierung |
 | 13 | [`13_klageerwiderung_lg_hannover_strategie.docx`](13_klageerwiderung_lg_hannover_strategie.docx) | Klageerwiderung LG Hannover; Klageanträge; Verteidigungsargumente; Kostenrisiko |
@@ -112,7 +112,7 @@ Arbeitsakte zum Plugin `fachanwalt-transport-speditionsrecht`.
 
 | Datei | Inhalt |
 |---|---|
-| [`eml/2026-01-20_schwarmstedt_an_petrescu_schadensmeldung.eml`](eml/2026-01-20_schwarmstedt_an_petrescu_schadensmeldung.eml) | Schwarmstedt an Petrescu Transport Bukarest: Schadensmeldung und Regressankuendigung |
+| [`eml/2026-01-20_schwarmstedt_an_petrescu_schadensmeldung.eml`](eml/2026-01-20_schwarmstedt_an_petrescu_schadensmeldung.eml) | Schwarmstedt an Petrescu Transport Bukarest: Schadensmeldung und Regressankündigung |
 | [`eml/2026-02-12_helvetia_deckungsablehnung.eml`](eml/2026-02-12_helvetia_deckungsablehnung.eml) | Helvetia Wollbrink an Schwarmstedt: Deckungsablehnung 72h-Frist (Az. SL-2026-00198) |
 | [`eml/2026-03-10_balm_koeln_bussgeld.eml`](eml/2026-03-10_balm_koeln_bussgeld.eml) | BALM Köln LOI Schimanowski an Schwarmstedt: Bussgeld Anhörung nach Einspruch |
 | [`eml/2026-01-22_medivita_schadensforderung.eml`](eml/2026-01-22_medivita_schadensforderung.eml) | MediVita Quasdorf an Funkbruch: Formelle Schadensanmeldung 8.208.000 EUR |
@@ -146,6 +146,6 @@ Arbeitsakte zum Plugin `fachanwalt-transport-speditionsrecht`.
 | BALM-Bussgeldsache | AG Hannover OWi 31a OWi 4188 Js 7711/26 | Einspruch eingelegt; Termin ausstehend |
 | Embargo-Ermittlung | StA Hannover 9300 UJs 21188/26 | Vorermittlung; Akteneinsicht ausstehend |
 | Allianz Marine (iPad-Diebstahl) | — | Außergerichtlich; Widerspruch in Vorbereitung |
-| Boeschke-Regress (Überladung) | — | Außergerichtlich; Klage vorbereitet |
+| Böschke-Regress (Überladung) | — | Außergerichtlich; Klage vorbereitet |
 
 **Bearbeiterin:** RAin Dr. Antonia Hammerschmidt, Fachanwältin Transport- und Speditionsrecht, Hammerschmidt, Sommerfeldt & Partner Rechtsanwälte, Neuer Wall 30, 20354 Hamburg

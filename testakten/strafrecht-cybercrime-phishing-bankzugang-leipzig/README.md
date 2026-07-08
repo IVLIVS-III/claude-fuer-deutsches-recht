@@ -22,7 +22,7 @@ Die 72-jährige Bankkundin Irmgard Seidel erhielt eine SMS mit Link auf eine nac
 
 Peukert behauptet, er habe sein Konto nur für einen angeblichen Kryptohandel zur Verfügung gestellt und selbst keine Phishingseite betrieben. Sein Handy enthält Chatnachrichten mit einer Person namens Riko, die eine Provision von 700 Euro versprach. Die IP-Adresse der Phishingseite führt zu einem ausländischen Server; bei Peukert wurden keine Administrationsdaten gefunden.
 
-Die Akte zwingt zur Trennung zwischen Haupttat, Kontoleihe, Vorsatz und Vermögensabschöpfung. Der Verteidigungsansatz liegt bei fehlender Kenntnis der Phishingstruktur, begrenzter Tatherrschaft und der Frage, ob die Bank- und Providerdaten lückenlos gesichert wurden.
+Die Akte zwingt zur Trennung zwischen Haupttat, Kontoleihe, Vorsatz und Vermögensabschöpffung. Der Verteidigungsansatz liegt bei fehlender Kenntnis der Phishingstruktur, begrenzter Tatherrschaft und der Frage, ob die Bank- und Providerdaten lückenlos gesichert wurden.
 
 Der Datenauswertungs-Kern liegt im zusammengeführten Transaktions- und Login-Log. Aus ihm sind die Schadenssumme, die Bargeldabhebungen und die Weiterleitungskette über die Finanzagenten rekonstruierbar, sobald die in unterschiedlichen Zeitzonen geführten Bank- und Serverprotokolle aufeinander abgeglichen werden. Gegen die Einlassung, das Konto sei nur für einen Kryptohandel verliehen worden, steht dabei der Befund, dass der Löwenanteil des Geldes mit der körperlichen Girocard und der PIN des Kontoinhabers an drei Automaten im eigenen Wohnviertel Leipzig-Grünau abgehoben wurde. Diese Diskrepanz und die Höhe der abgeschöpften Summe müssen rechnerisch belegt werden.
 

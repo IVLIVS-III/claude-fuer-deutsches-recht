@@ -29,7 +29,7 @@ Akte für das Plugin `lobbyregister-bundestag`. Die Akte behandelt eine Bürgeri
 
 ## Sachverhalt
 
-Die Bürgerinitiative Waldmoor 2030 wendet sich gegen eine Bundesfernstrassen-Trasse durch ein Moorgebiet. Anfangs gibt es nur eine Petition und lokale Schreiben. Später organisiert die Initiative eine bundesweite Kampagne, spricht regelmaessig mit Bundestagsabgeordneten und dem Bundesverkehrsministerium, lässt ein Gutachten erstellen und sammelt Spenden.
+Die Bürgerinitiative Waldmoor 2030 wendet sich gegen eine Bundesfernstraßen-Trasse durch ein Moorgebiet. Anfangs gibt es nur eine Petition und lokale Schreiben. Später organisiert die Initiative eine bundesweite Kampagne, spricht regelmäßig mit Bundestagsabgeordneten und dem Bundesverkehrsministerium, lässt ein Gutachten erstellen und sammelt Spenden.
 
 ## Dateien
 
@@ -44,7 +44,7 @@ Die Bürgerinitiative Waldmoor 2030 wendet sich gegen eine Bundesfernstrassen-Tr
 | [06_spendenliste.csv](06_spendenliste.csv) | Spenden und Finanzierungsquellen |
 | [07_freiwillige_registrierung_vermerk.docx](07_freiwillige_registrierung_vermerk.docx) | Strategie freiwillige Registrierung |
 | [08_kodex_leitfaden_ehrenamt.docx](08_kodex_leitfaden_ehrenamt.docx) | Kontaktleitfaden für Ehrenamtliche |
-| [09_finalcheck.docx](09_finalcheck.docx) | Qualitaetsgate |
+| [09_finalcheck.docx](09_finalcheck.docx) | Qualitätsgate |
 | [10_whatsapp_export_kernteam.txt](10_whatsapp_export_kernteam.txt) | WhatsApp-Export mit echten Widersprüchen im Kernteam |
 | [11_email_mdb_buero_nachfrage.eml](11_email_mdb_buero_nachfrage.eml) | Rückfrage eines MdB-Büros zu Registerstatus und Finanzierung |
 | [12_gutachten_rechnung_planungsbuero.csv](12_gutachten_rechnung_planungsbuero.csv) | Rechnungsdaten für Gutachten und Kartenanhang |
@@ -61,8 +61,8 @@ Die Bürgerinitiative Waldmoor 2030 wendet sich gegen eine Bundesfernstrassen-Tr
 | [23_registerexport_diff_freiwillig.docx](23_registerexport_diff_freiwillig.docx) | Geplanter Registerexport-Diff für freiwillige Registrierung |
 | [24_mandantennotiz_erstberatung.docx](24_mandantennotiz_erstberatung.docx) | Mandantennotiz der Erstberatung mit Hinweisen, Honorarvereinbarung und Aufgabenverteilung |
 | [25_spendenkonflikt_protokoll_personenliste.docx](25_spendenkonflikt_protokoll_personenliste.docx) | Detailliertes Spendenkonflikt-Protokoll mit Personenliste, Zeitlauf und Plenum-vs-Kernteam-Frage |
-| [26_vorstandssitzung_mitschrift_24_05_2026.docx](26_vorstandssitzung_mitschrift_24_05_2026.docx) | Mitschrift der Sondersitzung Kernteam vom 24.05.2026 mit Beschluesssen |
-| [27_schriftverkehr_bundestagsverwaltung.docx](27_schriftverkehr_bundestagsverwaltung.docx) | Anwaeltliche Anfrage an die Lobbyregisterstelle und Antwortschreiben |
+| [26_vorstandssitzung_mitschrift_24_05_2026.docx](26_vorstandssitzung_mitschrift_24_05_2026.docx) | Mitschrift der Sondersitzung Kernteam vom 24.05.2026 mit Beschlüsssen |
+| [27_schriftverkehr_bundestagsverwaltung.docx](27_schriftverkehr_bundestagsverwaltung.docx) | Anwältliche Anfrage an die Lobbyregisterstelle und Antwortschreiben |
 | [28_pressetext_eigenes_statement.docx](28_pressetext_eigenes_statement.docx) | Pressetext der Initiative zur Eintragung und Finanzierung |
 
 ## Prüffokus

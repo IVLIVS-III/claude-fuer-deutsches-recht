@@ -37,17 +37,17 @@ Pflichtteilsstreit nach dem Tod von Helga Martensen. Vorwegübertragung eines Ha
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | 01 mandatsnotiz erstgespraech.docx |
+| `01_mandatsnotiz_erstgespraech.docx` | 01 mandatsnotiz erstgespräch.docx |
 | `02_chronologie_arbeitsstand.docx` | 02 chronologie arbeitsstand.docx |
 | `03_sachverhalt_aus_mandantensicht.docx` | 03 sachverhalt aus mandantensicht.docx |
 | `04_gegenseite_standpunkt.docx` | 04 gegenseite standpunkt.docx |
-| `05_uebertragungsvertrag_auszug.docx` | 05 uebertragungsvertrag auszug.docx |
+| `05_uebertragungsvertrag_auszug.docx` | 05 übertragungsvertrag auszug.docx |
 | `06_pflege_und_investitionen.docx` | 06 pflege und investitionen.docx |
-| `09_entwurf_naechstes_schreiben.docx` | 09 entwurf naechstes schreiben.docx |
+| `09_entwurf_naechstes_schreiben.docx` | 09 entwurf nächstes schreiben.docx |
 | `csv/beleganforderung.csv` | csv/beleganforderung.csv |
 | `emails/2026-06-28_anja_fragt_nach_depot.eml` | emails/2026 06 28 anja fragt nach depot.eml |
 | `pdfs/gutachterkurzbrief_keitum.pdf` | pdfs/gutachterkurzbrief keitum.pdf |
-| `xlsx/pflichtteilsergaenzung_wertband.xlsx` | xlsx/pflichtteilsergaenzung wertband.xlsx |
+| `xlsx/pflichtteilsergaenzung_wertband.xlsx` | xlsx/pflichtteilsergänzung wertband.xlsx |
 
 ## Arbeitsnotiz
 

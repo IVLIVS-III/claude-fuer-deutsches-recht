@@ -29,32 +29,32 @@ Ausbildungs- und Kanzleiakte zu BGB AT. Die Akte bündelt Vertragsschluss, Onlin
 
 ## Einsatz
 
-- Plugin: bgb-at-pruefer
+- Plugin: bgb-at-prüfer
 - Startskill: allgemein
 - Gute Folgeskills: vertragsschluss-antrag-annahme, zugang-paragraph-130, taschengeld-paragraph-110, vollmacht-erteilung-umfang-erlöschen, anfechtung-routing, missbrauch-vertretungsmacht, elektronische-form-bea-qes-formfiktion, fristen-berechnung-paragraphen-186-193
 
 ## Dokumente
 
-- 00_aktenuebersicht.md
-- 01_mandatsnotiz_erstgespraech.docx
+- 00_aktenübersicht.md
+- 01_mandatsnotiz_erstgespräch.docx
 - 02_emailkette_online_auktion.eml
 - 03_chat_export_werkstattgruppe.docx
 - 04_vollmacht_werkstattbedarf.docx
-- 05_notiz_minderjaehriger_giselher.docx
+- 05_notiz_minderjähriger_giselher.docx
 - 06_anfechtung_preis_und_eigenschaft.docx
 - 07_form_sittenwidrigkeit_bedingung.docx
 - 08_fristenkalender.csv
 - 09_anspruchsmatrix_roh.docx
-- 10_erwartete_pruefpfade.docx
+- 10_erwartete_prüfpfade.docx
 - 11_bea_qes_formfiktion_schriftsatz.docx
-- 12_anfechtungserklaerung_entwurf.docx
-- 13_rechnung_wendelbert_eisenhut_pressezubehoer.docx
+- 12_anfechtungserklärung_entwurf.docx
+- 13_rechnung_wendelbert_eisenhut_pressezubehör.docx
 - 14_notizzettel_werkstattmeister.docx
 - 15_eltern_mail_konflikt.docx
 - 16_mahnschreiben_lieferant.docx
-- 17_kandidatenloesung_balduin_3punkte.docx
-- 18_kandidatenloesung_kunigunde_5punkte.docx
-- 19_kandidatenloesung_hildegund_7punkte.docx
-- 20_kandidatenloesung_walram_9punkte.docx
+- 17_kandidatenlösung_balduin_3punkte.docx
+- 18_kandidatenlösung_kunigunde_5punkte.docx
+- 19_kandidatenlösung_hildegund_7punkte.docx
+- 20_kandidatenlösung_walram_9punkte.docx
 - 21_korrekturmatrix_fehlerdiagnose.docx
-- 22_probanden_feedback_rueckgabe.docx
+- 22_probanden_feedback_rückgabe.docx

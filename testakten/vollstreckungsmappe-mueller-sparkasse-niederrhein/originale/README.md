@@ -1,4 +1,4 @@
-# Originale - Vollstreckungsmappe Mueller
+# Originale - Vollstreckungsmappe Müller
 
 Dieses Verzeichnis hält Platz für Scans der nachfolgenden Urkunden; in dieser Aktenfassung liegen die Hinweise als strukturierte Notizen vor:
 

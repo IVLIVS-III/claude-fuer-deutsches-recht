@@ -37,13 +37,13 @@ Scheidungsfolgenakte der Eheleute Krammer in Passau mit Ferienwohnung, Depot, Pr
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | 01 mandatsnotiz erstgespraech.docx |
+| `01_mandatsnotiz_erstgespraech.docx` | 01 mandatsnotiz erstgespräch.docx |
 | `02_chronologie_arbeitsstand.docx` | 02 chronologie arbeitsstand.docx |
 | `03_sachverhalt_aus_mandantensicht.docx` | 03 sachverhalt aus mandantensicht.docx |
 | `04_gegenseite_standpunkt.docx` | 04 gegenseite standpunkt.docx |
 | `05_notarvertrag_ferienwohnung_auszug.docx` | 05 notarvertrag ferienwohnung auszug.docx |
 | `06_wallet_notiz_steuerberater.docx` | 06 wallet notiz steuerberater.docx |
-| `09_entwurf_naechstes_schreiben.docx` | 09 entwurf naechstes schreiben.docx |
+| `09_entwurf_naechstes_schreiben.docx` | 09 entwurf nächstes schreiben.docx |
 | `csv/kontoabgaenge_dezember_2025.csv` | csv/kontoabgaenge dezember 2025.csv |
 | `emails/2026-06-14_milena_wallet_screenshots.eml` | emails/2026 06 14 milena wallet screenshots.eml |
 | `pdfs/maklerkurzbewertung_ferienwohnung.pdf` | pdfs/maklerkurzbewertung ferienwohnung.pdf |

@@ -22,9 +22,9 @@ Arbeitsakte für das Plugin `datenschutzrecht`.
 
 **VermieterCheck Solutions GmbH**
 Ruhrallee 188, 45136 Essen
-Geschaeftsfuehrer: Karl-Heinz Schimmelpfennig-Drosthager
+Geschäftsführer: Karl-Heinz Schimmelpfennig-Drosthager
 Mitarbeiter: 38
-Geschaeftsmodell: SaaS-Plattform für Vermieter-Bonitaetsabfragen (12.400+ angeschlossene Privatvermieter)
+Geschäftsmodell: SaaS-Plattform für Vermieter-Bonitätsabfragen (12.400+ angeschlossene Privatvermieter)
 
 ## Vertretung
 
@@ -44,7 +44,7 @@ Federführend: RA Dr. Cornelius Specht (Datenschutzrecht)
 
 1. **Massenscanning / KI-Profiling** — ProspectScore Pro ohne wirksame Einwilligung (Art. 6 Abs. 1 DSGVO), Art. 22 DSGVO; LDI NRW-Verfahren Art. 58 DSGVO; Bussgelddroher bis 20 Mio. EUR
 2. **Sammelklage VDuG** — 8.200 Betroffene, immaterieller Schadensersatz Art. 82 DSGVO je 1.500 EUR (Gesamt 12,3 Mio. EUR), LG Essen 18 Mass 4/26
-3. **HinSchG-Meldung** — Drittlandsuebermittlung an Sundara Tech Pvt. Ltd. (Bengaluru) ohne Standarddatenschutzklauseln Art. 44 ff. DSGVO
+3. **HinSchG-Meldung** — Drittlandsübermittlung an Sundara Tech Pvt. Ltd. (Bengaluru) ohne Standarddatenschutzklauseln Art. 44 ff. DSGVO
 4. **DSFA-Versäumnis** — Kein DSFA-Verfahren nach Art. 35 DSGVO für Hochrisiko-KI-Profiling
 5. **Auskunftsersuchen Art. 15 DSGVO** — Dr. Susanna Tannenbruck, Wibke Drostermann, Felix Kaltenbach (NDR Panorama)
 6. **Datenpanne Art. 33 DSGVO** — SQL-Injection CVE-2026-0188, 142.300 betroffene Datensätze, versäumte 72h-Meldung
@@ -54,12 +54,12 @@ Federführend: RA Dr. Cornelius Specht (Datenschutzrecht)
 
 | Nr. | Datei | Inhalt |
 |-----|-------|--------|
-| 01 | `01_mandatsuebernahme-vollmacht.docx` | Mandatsuebernahme und Vollmacht |
+| 01 | `01_mandatsuebernahme-vollmacht.docx` | Mandatsübernahme und Vollmacht |
 | 02 | `02_sachverhaltserfassung-erstberatung.docx` | Sachverhaltserfassung Erstberatung |
 | 03 | `03_dsgvo-pruefschema-art6-verarbeitungsgrundlagen.docx` | Prüfschema Art. 6 DSGVO Verarbeitungsgrundlagen |
 | 04 | `04_art22-automatisierte-einzelentscheidung-prospectscor.docx` | Art. 22 DSGVO Automatisierte Einzelentscheidung |
 | 05 | `05_dsfa-pruefung-art35-hochrisiko-ki.docx` | DSFA Art. 35 DSGVO Hochrisiko-KI |
-| 06 | `06_drittlandsuebermittlung-art44-sundara-tech.docx` | Drittlandsuebermittlung Art. 44 ff. DSGVO |
+| 06 | `06_drittlandsuebermittlung-art44-sundara-tech.docx` | Drittlandsübermittlung Art. 44 ff. DSGVO |
 | 07 | `07_datenpanne-art33-sql-injection-cve-2026-0188.docx` | Datenpanne Art. 33/34 DSGVO |
 | 08 | `08_ldi-nrw-aufsichtsverfahren-art58-strategie.docx` | LDI NRW Aufsichtsverfahren Art. 58 |
 | 09 | `09_bussgeldbemessung-art83-dsgvo.docx` | Bussgeldbemessung Art. 83 DSGVO |
@@ -70,7 +70,7 @@ Federführend: RA Dr. Cornelius Specht (Datenschutzrecht)
 | 14 | `14_hinschg-meldung-whistleblower-strategie.docx` | HinSchG-Meldung Whistleblower |
 | 15 | `15_strafrechtliche-verteidigung-par42-bdsg.docx` | Strafverteidigung § 42 BDSG |
 | 16 | `16_auftragsverarbeitung-avv-sundara-tech.docx` | Auftragsverarbeitung AVV Sundara Tech |
-| 17 | `17_technisch-organisatorische-massnahmen-tom.docx` | Technisch-organisatorische Massnahmen |
+| 17 | `17_technisch-organisatorische-massnahmen-tom.docx` | Technisch-organisatorische Maßnahmen |
 | 18 | `18_betroffenenrechte-widerspruch-loeschung.docx` | Betroffenenrechte Widerspruch / Löschung |
 | 19 | `19_iso27001-tisax-compliance-gap-analyse.docx` | ISO 27001 / TISAX Gap-Analyse |
 | 20 | `20_prozessstrategie-gesamtkoordination.docx` | Prozessstrategie Gesamtkoordination |

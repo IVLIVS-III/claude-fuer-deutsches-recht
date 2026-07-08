@@ -37,13 +37,13 @@ Nachlass des Maschinenbauunternehmers Heinrich Baumann mit GmbH-Anteilen, Testam
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | 01 mandatsnotiz erstgespraech.docx |
+| `01_mandatsnotiz_erstgespraech.docx` | 01 mandatsnotiz erstgespräch.docx |
 | `02_chronologie_arbeitsstand.docx` | 02 chronologie arbeitsstand.docx |
 | `03_sachverhalt_aus_mandantensicht.docx` | 03 sachverhalt aus mandantensicht.docx |
 | `04_gegenseite_standpunkt.docx` | 04 gegenseite standpunkt.docx |
 | `05_testament_unternehmernachfolge.docx` | 05 testament unternehmernachfolge.docx |
 | `06_bank_covenant_mail.docx` | 06 bank covenant mail.docx |
-| `09_entwurf_naechstes_schreiben.docx` | 09 entwurf naechstes schreiben.docx |
+| `09_entwurf_naechstes_schreiben.docx` | 09 entwurf nächstes schreiben.docx |
 | `csv/gesellschaftsrechtliche_to_dos.csv` | csv/gesellschaftsrechtliche to dos.csv |
 | `emails/2026-06-30_mara_bankdruck.eml` | emails/2026 06 30 mara bankdruck.eml |
 | `pdfs/satzung_nachfolgeklausel_auszug.pdf` | pdfs/satzung nachfolgeklausel auszug.pdf |

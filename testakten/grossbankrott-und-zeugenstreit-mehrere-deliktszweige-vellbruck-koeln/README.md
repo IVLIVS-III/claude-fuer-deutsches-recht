@@ -1,4 +1,4 @@
-# Akte: Grossbankrott und Zeugenstreit — Mehrere Deliktszweige, Pellbach Logistik & Spedition GmbH, LG Koeln
+# Akte: Grossbankrott und Zeugenstreit — Mehrere Deliktszweige, Pellbach Logistik & Spedition GmbH, LG Köln
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
@@ -20,8 +20,8 @@ Arbeitsakte zum Plugin `fachanwalt-strafrecht`.
 
 Diese Akte demonstriert eine komplexe Wirtschaftsstrafsache aus **Verteidiger-Perspektive** mit besonderem Schwerpunkt auf:
 
-- **Bankrott (§ 283 I Nr. 1, 5, 8 StGB)**, Insolvenzverschleppung (§ 15a InsO), Untreue (§ 266 StGB), Vorenthalten Arbeitgeberanteile (§ 266a StGB), Steuerhinterziehung (§ 370 AO), Subventionsbetrug (§ 264 StGB), Verdacht der Geldwaesche (§ 261 StGB).
-- **Aussagepsychologische Begutachtung** der Hauptbelastungszeugin (Hypothesen-gegen-Hypothesen-Methode; Realkennzeichen nach Steller/Koehnken; Konstanzanalyse).
+- **Bankrott (§ 283 I Nr. 1, 5, 8 StGB)**, Insolvenzverschleppung (§ 15a InsO), Untreue (§ 266 StGB), Vorenthalten Arbeitgeberanteile (§ 266a StGB), Steuerhinterziehung (§ 370 AO), Subventionsbetrug (§ 264 StGB), Verdacht der Geldwäsche (§ 261 StGB).
+- **Aussagepsychologische Begutachtung** der Hauptbelastungszeugin (Hypothesen-gegen-Hypothesen-Methode; Realkennzeichen nach Steller/Köhnken; Konstanzanalyse).
 - **Kriminologische Rückfallprognose** (Verteidigerargument für milde Strafe und Aussetzung).
 - **Untersuchungshaft** und Haftprüfung (§§ 117, 121 StPO).
 - **Pflichtverteidiger-Beiordnung** (§§ 140, 141 StPO).
@@ -31,15 +31,15 @@ Diese Akte demonstriert eine komplexe Wirtschaftsstrafsache aus **Verteidiger-Pe
 
 ## Kurzbild
 
-- **Beschuldigter / Mandant:** Dr. Carlsten Pellbach-Eisenacher, geb. 18.10.1971 in Koeln, deutscher Staatsangehöriger, Geschäftsführer der **Pellbach Logistik & Spedition GmbH** mit Sitz Koeln, Standorten Bottrop, Stuttgart und Wroclaw (Polen).
-- **Anschrift Mandant:** Sankt-Vither Strasse 41, 50937 Koeln. Aktuell JVA Koeln-Ossendorf, Rochusstrasse 350.
+- **Beschuldigter / Mandant:** Dr. Carlsten Pellbach-Eisenacher, geb. 18.10.1971 in Köln, deutscher Staatsangehöriger, Geschäftsführer der **Pellbach Logistik & Spedition GmbH** mit Sitz Köln, Standorten Bottrop, Stuttgart und Wroclaw (Polen).
+- **Anschrift Mandant:** Sankt-Vither Strasse 41, 50937 Köln. Aktuell JVA Köln-Ossendorf, Rochusstrasse 350.
 - **Aktenzeichen:**
-  - LG Koeln Wirtschaftsstrafkammer: **117 KLs 14/26**
-  - StA Koeln (Schwerpunktstaatsanwaltschaft für Wirtschaftsstrafsachen): **122 Js 884/25**
-  - Haftbefehl AG Koeln: **502 Gs 4881/26**
-- **Verteidigerin:** Dr. Lia Vellbruck-Eisinger, Fachanwältin für Strafrecht, Kanzlei Vellbruck Strafverteidigung Koeln, Hahnenstrasse 22, 50667 Koeln.
-- **Staatsanwaltschaft:** Schwerpunktstaatsanwaltschaft für Wirtschaftsstrafsachen Koeln, OSchA Schamoni-Wieselburg.
-- **U-Haft:** seit 12.05.2026, JVA Koeln-Ossendorf. Haftgründe: Verdunkelungsgefahr (Auslandstochter Wroclaw) und Fluchtgefahr.
+  - LG Köln Wirtschaftsstrafkammer: **117 KLs 14/26**
+  - StA Köln (Schwerpunktstaatsanwaltschaft für Wirtschaftsstrafsachen): **122 Js 884/25**
+  - Haftbefehl AG Köln: **502 Gs 4881/26**
+- **Verteidigerin:** Dr. Lia Vellbruck-Eisinger, Fachanwältin für Strafrecht, Kanzlei Vellbruck Strafverteidigung Köln, Hahnenstrasse 22, 50667 Köln.
+- **Staatsanwaltschaft:** Schwerpunktstaatsanwaltschaft für Wirtschaftsstrafsachen Köln, OSchA Schamoni-Wieselburg.
+- **U-Haft:** seit 12.05.2026, JVA Köln-Ossendorf. Haftgründe: Verdunkelungsgefahr (Auslandstochter Wroclaw) und Fluchtgefahr.
 - **Vorwürfe (Anklageschrift-Entwurf der StA, Stand 27.05.2026):**
 
 | § | Delikt | Tatzeitraum / Volumen |
@@ -50,15 +50,15 @@ Diese Akte demonstriert eine komplexe Wirtschaftsstrafsache aus **Verteidiger-Pe
 | § 266a StGB | Vorenthalten Arbeitgeberanteile (Löhne / SV-Beiträge) | 11/2024 bis 02/2025, ca. 187.000 EUR |
 | § 370 AO | Steuerhinterziehung (USt-Voranmeldungen) | VAZ 09/2024 bis 02/2025, ca. 246.000 EUR |
 | § 264 StGB | Subventionsbetrug (KfW-Coronahilfe Q4 2022) | Antrag 11/2022, ca. 320.000 EUR |
-| § 261 StGB | Geldwaesche (Verdacht, Auslandszahlungen Wroclaw) | 2023 bis 2025, Volumen prozessgegenstaendlich offen |
+| § 261 StGB | Geldwäsche (Verdacht, Auslandszahlungen Wroclaw) | 2023 bis 2025, Volumen prozessgegenständlich offen |
 
 - **Schadensvolumen gesamt (StA):** ca. **1.165.000 EUR** sicher beziffert + 320.000 EUR Subventionsbetrug. Geldwäschevolumen offen.
-- **Hauptbelastungszeugin:** Mira Quasthoff, geb. 19.03.1989, ehemalige Buchhalterin der Pellbach Logistik & Spedition GmbH, Anschrift Koeln-Ehrenfeld. Belastend ausgesagt zu Bankrott, Untreue, Subventionsbetrug.
+- **Hauptbelastungszeugin:** Mira Quasthoff, geb. 19.03.1989, ehemalige Buchhalterin der Pellbach Logistik & Spedition GmbH, Anschrift Köln-Ehrenfeld. Belastend ausgesagt zu Bankrott, Untreue, Subventionsbetrug.
 - **Brisante Punkte:**
   - Zwei Vernehmungen Quasthoff mit divergierenden Daten/Sequenzen.
   - Vorgeschichte: Pellbach hat Quasthoff im November 2024 wegen Verdachts auf Spesenmanipulation gemahnt (mind. arbeitsrechtliche Konsequenzen angedroht). Daraus ergibt sich Motivvermutung für Falschbelastung.
   - Realkennzeichendichte der Aussagen unklar; in V2 weitgehend chronologisch ohne Detail-Originalität.
-  - Verteidigung beantragt aussagepsychologisches Sachverstaendigengutachten (§ 244 III StPO).
+  - Verteidigung beantragt aussagepsychologisches Sachverständigengutachten (§ 244 III StPO).
 
 ---
 
@@ -66,7 +66,7 @@ Diese Akte demonstriert eine komplexe Wirtschaftsstrafsache aus **Verteidiger-Pe
 
 Diese Akte zeigt **vier Konfliktfronten** im Strafverfahren:
 
-1. **Aussagepsychologische Front** — Glaubhaftigkeit der Belastungsaussage Quasthoff vs. Falschbelastungsmotiv. Methodisch: Hypothesen-gegen-Hypothesen, Konstanzanalyse, Realkennzeichen (Steller/Koehnken), Genese der Aussage. Vgl. BGH staend. Rspr. zur aussagepsychologischen Begutachtung (1 StR 618/98, BGHSt 45, 164; Verifikation in amtlicher Quelle vor Zitat).
+1. **Aussagepsychologische Front** — Glaubhaftigkeit der Belastungsaussage Quasthoff vs. Falschbelastungsmotiv. Methodisch: Hypothesen-gegen-Hypothesen, Konstanzanalyse, Realkennzeichen (Steller/Köhnken), Genese der Aussage. Vgl. BGH ständ. Rspr. zur aussagepsychologischen Begutachtung (1 StR 618/98, BGHSt 45, 164; Verifikation in amtlicher Quelle vor Zitat).
 2. **Wirtschaftsstrafrechtliche Front** — Bankrott, § 15a InsO, Untreue. Schwierige Abgrenzung zwischen objektiver Insolvenzreife und subjektiver Kenntnis. Faktische Geschäftsführer-Problematik (§ 14 StGB) bei Mit-Gesellschafterin Frau Pellbach-Eisenacher.
 3. **Steuerstrafrechtliche Front** — Steuerhinterziehung VAZ-USt, Subventionsbetrug KfW. Verteidigung: Beraterverschulden (Steuerberater Engelmeier) und Schutzschriften-Strategie wegen § 371 AO.
 4. **Untersuchungshaft / Haftprüfung** — drei Wochen U-Haft, Haftprüfung und Haftbeschwerde laufen. Pflichtverteidiger-Beiordnung wegen Schwere der Tat und Untersuchungshaft (§ 140 I Nr. 4, Nr. 5 StPO).
@@ -78,19 +78,19 @@ Diese Akte zeigt **vier Konfliktfronten** im Strafverfahren:
 | Nr. | Datei | Inhalt |
 |---|---|---|
 | 00 | [`00_aktenuebersicht.md`](00_aktenuebersicht.md) | Lese-Reihenfolge, Fristen-Kalender, Verfahrensstand |
-| 01 | [`01_mandatsnotiz_erstgespraech.docx`](01_mandatsnotiz_erstgespraech.docx) | Erstgespräch 13.05.2026 JVA Koeln-Ossendorf — Mandantenangaben, Strategie |
-| 02 | [`02_haftbefehl_ag_koeln_12_05_2026.docx`](02_haftbefehl_ag_koeln_12_05_2026.docx) | Haftbefehl AG Koeln (502 Gs 4881/26) vom 12.05.2026 |
+| 01 | [`01_mandatsnotiz_erstgespraech.docx`](01_mandatsnotiz_erstgespraech.docx) | Erstgespräch 13.05.2026 JVA Köln-Ossendorf — Mandantenangaben, Strategie |
+| 02 | [`02_haftbefehl_ag_koeln_12_05_2026.docx`](02_haftbefehl_ag_koeln_12_05_2026.docx) | Haftbefehl AG Köln (502 Gs 4881/26) vom 12.05.2026 |
 | 03 | [`03_durchsuchungsbeschluss_und_protokoll.docx`](03_durchsuchungsbeschluss_und_protokoll.docx) | Durchsuchungsbeschluss vom 12.05.2026 + Durchsuchungsprotokoll Pellbach-Privat / Geschäftsräume |
-| 04 | [`04_anklageschrift_entwurf.docx`](04_anklageschrift_entwurf.docx) | Anklageschrift-Entwurf StA Koeln (Stand 27.05.2026, noch nicht eröffnet, Vor-Eröffnung) |
+| 04 | [`04_anklageschrift_entwurf.docx`](04_anklageschrift_entwurf.docx) | Anklageschrift-Entwurf StA Köln (Stand 27.05.2026, noch nicht eröffnet, Vor-Eröffnung) |
 | 05 | [`05_verteidiger_aktenuebersicht.docx`](05_verteidiger_aktenuebersicht.docx) | Verteidiger-interne Aktenübersicht, Bänder I bis IX |
-| 06 | [`06_aktenauszug_zeugenvernehmung_quasthoff_01.docx`](06_aktenauszug_zeugenvernehmung_quasthoff_01.docx) | Aktenauszug 1. Vernehmung Mira Quasthoff, KPI Koeln, 18.03.2026 |
-| 07 | [`07_aktenauszug_zeugenvernehmung_quasthoff_02.docx`](07_aktenauszug_zeugenvernehmung_quasthoff_02.docx) | Aktenauszug 2. Vernehmung Mira Quasthoff, StA Koeln, 14.04.2026 (mit Inkonsistenzen) |
+| 06 | [`06_aktenauszug_zeugenvernehmung_quasthoff_01.docx`](06_aktenauszug_zeugenvernehmung_quasthoff_01.docx) | Aktenauszug 1. Vernehmung Mira Quasthoff, KPI Köln, 18.03.2026 |
+| 07 | [`07_aktenauszug_zeugenvernehmung_quasthoff_02.docx`](07_aktenauszug_zeugenvernehmung_quasthoff_02.docx) | Aktenauszug 2. Vernehmung Mira Quasthoff, StA Köln, 14.04.2026 (mit Inkonsistenzen) |
 | 08 | [`08_aussagepsychologische_analyse_quasthoff_entwurf.docx`](08_aussagepsychologische_analyse_quasthoff_entwurf.docx) | Aussagepsychologische Vor-Analyse Quasthoff (intern Verteidigung) |
 | 09 | [`09_haftpruefungsantrag_und_haftbeschwerde.docx`](09_haftpruefungsantrag_und_haftbeschwerde.docx) | Haftprüfungsantrag § 117 StPO + Haftbeschwerde § 304 StPO |
 | 10 | [`10_schutzschrift_entwurf.docx`](10_schutzschrift_entwurf.docx) | Schutzschrift-Entwurf vor Eröffnungsbeschluss (intern) |
-| 11 | [`11_buchhaltung_jahresabschluss_2024.docx`](11_buchhaltung_jahresabschluss_2024.docx) | Auszug Jahresabschluss 2024 (Bilanz, GuV-Kerngroessen, Sanierungs-LFR) |
-| 12 | [`12_betriebspruefung_finanzamt_koeln_notiz.docx`](12_betriebspruefung_finanzamt_koeln_notiz.docx) | Notiz Betriebspruefung Finanzamt Koeln Mitte, Prüfungsergebnis 02/2026 |
-| 13 | [`13_insolvenzantrag_und_eroeffnungsbeschluss.docx`](13_insolvenzantrag_und_eroeffnungsbeschluss.docx) | Insolvenzantrag 09.03.2025 (Eigenantrag) + Eröffnungsbeschluss AG Koeln 17.04.2025 |
+| 11 | [`11_buchhaltung_jahresabschluss_2024.docx`](11_buchhaltung_jahresabschluss_2024.docx) | Auszug Jahresabschluss 2024 (Bilanz, GuV-Kerngrößen, Sanierungs-LFR) |
+| 12 | [`12_betriebspruefung_finanzamt_koeln_notiz.docx`](12_betriebspruefung_finanzamt_koeln_notiz.docx) | Notiz Betriebsprüfung Finanzamt Köln Mitte, Prüfungsergebnis 02/2026 |
+| 13 | [`13_insolvenzantrag_und_eroeffnungsbeschluss.docx`](13_insolvenzantrag_und_eroeffnungsbeschluss.docx) | Insolvenzantrag 09.03.2025 (Eigenantrag) + Eröffnungsbeschluss AG Köln 17.04.2025 |
 | 14 | [`14_kfw_coronahilfe_antrag_und_bescheid.docx`](14_kfw_coronahilfe_antrag_und_bescheid.docx) | KfW-Coronahilfeantrag 11/2022 + Bescheid 12/2022 (Subventionsbetrug-Komplex) |
 | 15 | [`15_email_konvolut_buchhalterin_quasthoff.docx`](15_email_konvolut_buchhalterin_quasthoff.docx) | E-Mail-Konvolut Pellbach <-> Quasthoff, 10/2024 bis 02/2025 — Spesen-Komplex |
 | 16 | [`16_chat_export_pellbach_und_gattin.docx`](16_chat_export_pellbach_und_gattin.docx) | Chat-Export (Signal) Pellbach <-> Ehefrau Frieda, 12/2024 bis 03/2025 |
@@ -101,7 +101,7 @@ Diese Akte zeigt **vier Konfliktfronten** im Strafverfahren:
 | 21 | [`21_verstaendigungsversuch-257c-stpo-protokoll.docx`](21_verstaendigungsversuch-257c-stpo-protokoll.docx) | Protokoll Verständigungsversuch § 257c StPO |
 | 22 | [`22_hilfsbeweisantrag_aussagepsy_gutachten.docx`](22_hilfsbeweisantrag_aussagepsy_gutachten.docx) | Hilfsbeweisantrag § 244 III StPO — aussagepsychologisches SV-Gutachten Quasthoff |
 | 23 | [`23_einlassung_entwurf_pellbach.docx`](23_einlassung_entwurf_pellbach.docx) | Einlassungs-Entwurf Pellbach (intern) |
-| 24 | [`24_strafzumessungserwaegungen_46_stgb.docx`](24_strafzumessungserwaegungen_46_stgb.docx) | Strafzumessungserwaegungen § 46 StGB |
+| 24 | [`24_strafzumessungserwaegungen_46_stgb.docx`](24_strafzumessungserwaegungen_46_stgb.docx) | Strafzumessungserwägungen § 46 StGB |
 | 25 | [`25_plaedoyer_entwurf_freispruch_einzelpunkte.docx`](25_plaedoyer_entwurf_freispruch_einzelpunkte.docx) | Plädoyer-Entwurf — Freispruchsantrag für Einzelpunkte |
 | 26 | [`26_pressestrategie_mandantenmitteilung.docx`](26_pressestrategie_mandantenmitteilung.docx) | Pressestrategie / Mandantenmitteilung |
 
@@ -117,7 +117,7 @@ Diese Akte zeigt **vier Konfliktfronten** im Strafverfahren:
 | [`eml/02_quasthoff_an_pellbach_widerspruch_2024_11_07.eml`](eml/02_quasthoff_an_pellbach_widerspruch_2024_11_07.eml) | Quasthoff an Pellbach, Widerspruch gegen Personalakte-Vermerk, 07.11.2024 |
 | [`eml/03_steuerberater_engelmeier_warnung_2024_12_18.eml`](eml/03_steuerberater_engelmeier_warnung_2024_12_18.eml) | Engelmeier an Pellbach, Warnung Insolvenzantragspflicht, 18.12.2024 |
 | [`eml/04_pellbach_an_kfw_klarstellung_2022_11_24.eml`](eml/04_pellbach_an_kfw_klarstellung_2022_11_24.eml) | Pellbach an KfW, Klarstellung Q3-Umsatzzahlen, 24.11.2022 |
-| [`eml/05_vellbruck_an_sta_akteneinsicht_2026_05_14.eml`](eml/05_vellbruck_an_sta_akteneinsicht_2026_05_14.eml) | Vellbruck an StA Koeln, Akteneinsichtsantrag § 147 StPO, 14.05.2026 |
+| [`eml/05_vellbruck_an_sta_akteneinsicht_2026_05_14.eml`](eml/05_vellbruck_an_sta_akteneinsicht_2026_05_14.eml) | Vellbruck an StA Köln, Akteneinsichtsantrag § 147 StPO, 14.05.2026 |
 
 ### Tabellen (tabellen/)
 
@@ -143,7 +143,7 @@ Diese Akte demonstriert besonders folgende Skills aus dem Plugin `fachanwalt-str
 | Skill | Aktenstücke | Demonstration |
 |---|---|---|
 | `strafrecht-spezial-bankrott-283-stgb` | 04, 05, 10, 11, 13, 23 | Tatbestandsalternativen Nr. 1 (Beiseiteschaffen), Nr. 5 (Buchführung), Nr. 8 (grob wirtschaftswidriges Verhalten); Krise als objektive Bedingung. |
-| `strafrecht-spezial-besonders-schwerer-bankrott-283a-stgb` | 04, 10, 24 | Pruefung der besonderen Schwere (vermoegensbezogen) — nur Hilfserwägung. |
+| `strafrecht-spezial-besonders-schwerer-bankrott-283a-stgb` | 04, 10, 24 | Prüfung der besonderen Schwere (vermögensbezogen) — nur Hilfserwägung. |
 | `strafrecht-spezial-insolvenzverschleppung-15a-inso` | 04, 11, 13, 23 | 3-Wochen-Frist, Antragspflicht, subjektive Kenntnis Insolvenzreife; faktischer Geschäftsführer (§ 14 StGB). |
 | `strafrecht-spezial-untreue-266-stgb-grundtatbestand` | 04, 05, 10, 16, 23 | Treubruchstatbestand, Vermögensbetreuungspflicht GF gegenüber GmbH; Privatentnahmen in der Krise. |
 | `strafrecht-spezial-untreue-schaden-und-bezifferbarkeit` | 04, 11, 23 | Schaden i.S.d. § 266 StGB, Liquiditätsschaden vs. Substanzschaden, Bezifferungspflicht. |
@@ -151,16 +151,16 @@ Diese Akte demonstriert besonders folgende Skills aus dem Plugin `fachanwalt-str
 | `strafrecht-spezial-steuerstrafrecht-370-ao-steuerhinterziehung` | 04, 12, 23 | USt-Voranmeldungen, Hinterziehungsbetrag, Beraterverschulden. |
 | `strafrecht-spezial-subventionsbetrug-264-stgb` | 04, 14, 23 | Subventionserheblichkeit Coronahilfe; Selbstanzeigeproblematik. |
 | `strafrecht-spezial-geldwaesche-261-stgb-neu-2021` | 04, 18, 23 | Vortat-Frage (alle 7 Vorwürfe geeignet?); Tatbestandsausschluss "Selbstgeldwäsche" geklärt. |
-| `strafrecht-spezial-faktische-geschaeftsfuehrer` | 04, 11, 16, 23 | Pruefung faktische GF-Stellung Frau Pellbach-Eisenacher (Mit-Gesellschafterin). |
+| `strafrecht-spezial-faktische-geschaeftsfuehrer` | 04, 11, 16, 23 | Prüfung faktische GF-Stellung Frau Pellbach-Eisenacher (Mit-Gesellschafterin). |
 | `strafrecht-spezial-glaeubigerbeguenstigung-283c-stgb` | 11, 13 | Negativabgrenzung gegen § 283c StGB (Gläubigerbegünstigung). |
 | `strafrecht-spezial-konkursrechtliche-anfechtungsbezuege` | 13 | Bezug zu insolvenzanfechtungsrechtlicher Parallelität. |
-| `strafrecht-spezial-bankrott-strafzumessung-und-vermoegensabschoepfung` | 24 | Strafzumessung Bankrott + Vermögensabschöpfung (§§ 73 ff. StGB). |
+| `strafrecht-spezial-bankrott-strafzumessung-und-vermoegensabschoepfung` | 24 | Strafzumessung Bankrott + Vermögensabschöpffung (§§ 73 ff. StGB). |
 | `strafrecht-spezial-aussagepsychologie-bgh-grundsaetze` | 08, 22 | BGH-Linie zur aussagepsychologischen Begutachtung. |
-| `strafrecht-spezial-aussagepsychologie-realkennzeichen` | 08, 22 | Realkennzeichen Steller/Koehnken. |
+| `strafrecht-spezial-aussagepsychologie-realkennzeichen` | 08, 22 | Realkennzeichen Steller/Köhnken. |
 | `strafrecht-spezial-aussagepsychologie-konstanzanalyse` | 08, 22 | Konstanzanalyse V1 vs. V2 Quasthoff. |
 | `strafrecht-spezial-aussagepsychologie-glaubhaftigkeit-vs-glaubwuerdigkeit` | 08, 22 | Trennung Aussage <-> Person. |
 | `strafrecht-spezial-aussagepsychologie-mehrfach-vernommene-zeugen` | 08 | Mehrfachvernehmung mit Inkonsistenz-Risiko. |
-| `strafrecht-spezial-aussagepsychologie-gutachten-anforderungen` | 22 | Methodische Anforderungen Sachverstaendigengutachten. |
+| `strafrecht-spezial-aussagepsychologie-gutachten-anforderungen` | 22 | Methodische Anforderungen Sachverständigengutachten. |
 | `strafrecht-spezial-aussagepsychologie-vernehmungsfehler-falschgestaendnis` | 06, 07, 08 | Vernehmungsfehler in V2 (Suggestion durch Vorhalt). |
 | `strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik` | 08, 22 | Antizipation StA-Erwiderung. |
 | `strafrecht-spezial-kriminologie-rueckfallprognose` | 19, 24 | Rückfallprognose Verteidigersicht. |
@@ -181,15 +181,15 @@ Diese Akte demonstriert besonders folgende Skills aus dem Plugin `fachanwalt-str
 
 | Verfahrensstrang | Status |
 |---|---|
-| Untersuchungshaft | Seit 12.05.2026, JVA Koeln-Ossendorf; 3 Wochen vergangen, Haftprüfung beantragt |
+| Untersuchungshaft | Seit 12.05.2026, JVA Köln-Ossendorf; 3 Wochen vergangen, Haftprüfung beantragt |
 | Akteneinsicht | Antrag § 147 StPO gestellt 14.05.2026; vollständige Akteneinsicht in 9 Bänder + Asservatenverzeichnis erwartet |
 | Anklageschrift | Entwurf der StA Stand 27.05.2026; noch nicht zugestellt (Anhörung § 33 StPO läuft) |
 | Pflichtverteidiger-Beiordnung | Antrag §§ 140 I Nr. 4, 5, 141 StPO gestellt 13.05.2026 |
-| Haftprüfung / Haftbeschwerde | Antrag eingereicht 22.05.2026, Termin LG Koeln 04.06.2026 |
+| Haftprüfung / Haftbeschwerde | Antrag eingereicht 22.05.2026, Termin LG Köln 04.06.2026 |
 | Verständigung § 257c StPO | Vorgespräch mit OSchA Schamoni-Wieselburg am 26.05.2026 (kein Konsens) |
 | Aussagepsychologisches Gutachten | Hilfsbeweisantrag in Vorbereitung (Einreichung mit Anklage-Eröffnung) |
 | Insolvenzverfahren | Eröffnet 17.04.2025 (parallel zivilrechtlich), Insolvenzverwalter RA Wagner-Hieronymi |
-| Steuerstrafverfahren (parallel) | Verbunden mit Hauptverfahren gem. § 386 AO; Selbstanzeige-Pruefung negativ |
+| Steuerstrafverfahren (parallel) | Verbunden mit Hauptverfahren gem. § 386 AO; Selbstanzeige-Prüfung negativ |
 
 ---
 

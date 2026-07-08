@@ -1,6 +1,6 @@
-# arbeitszeugnispruefer-skill — Eval-Harness Drop-In-Bundle
+# arbeitszeugnisprüfer-skill — Eval-Harness Drop-In-Bundle
 
-Komplettes Pull-Request-Geruest zum manuellen Einspielen in das externe Repo
+Komplettes Pull-Request-Gerüst zum manuellen Einspielen in das externe Repo
 [`Klotzkette/arbeitszeugnispruefer-skill`](https://github.com/Klotzkette/arbeitszeugnispruefer-skill).
 
 ## Was im Bundle ist
@@ -75,7 +75,7 @@ export ANTHROPIC_API_KEY=sk-ant-...
 python3 scripts/llm-judge-eval.py testakten/zeugnis-note-1/output.md eval-criteria/quellenhygiene.md
 ```
 
-## Optional: PR-Beschreibung fuer das externe Repo
+## Optional: PR-Beschreibung für das externe Repo
 
 ```markdown
 ## Summary
@@ -110,7 +110,7 @@ ist auf das deutsche Recht und den Arbeitszeugnis-Pruefer zugeschnitten.
 
 ## Hinweise
 
-- Die Scripts sind portabel und brauchen keine Aenderung — die Konstante `TESTAKTEN = REPO / "testakten"` passt zur Repo-Struktur des arbeitszeugnispruefer-skill-Repos.
+- Die Scripts sind portabel und brauchen keine Änderung — die Konstante `TESTAKTEN = REPO / "testakten"` passt zur Repo-Struktur des arbeitszeugnisprüfer-skill-Repos.
 - Die Rubrics verwenden `output.md` als erwarteten Skill-Output-Pfad. Falls der Skill seinen Output anders nennt, in `rubric.yaml` den `path:`-Wert anpassen.
 - Beim ersten Lauf ohne `output.md` werden die Checks scheitern, die auf `output.md` zugreifen — das ist erwartet und zeigt nur, dass der Skill noch nicht ausgefuehrt wurde.
 

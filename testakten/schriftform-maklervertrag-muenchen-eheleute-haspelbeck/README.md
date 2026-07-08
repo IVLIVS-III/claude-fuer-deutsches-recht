@@ -192,7 +192,7 @@ Der Skill soll anhand des Aktenmaterials einen klageweise einsetzbaren Schriftsa
 | Rolle | Person / Stelle | Kontakt / Aktenzeichen |
 |---|---|---|
 | Kläger (Mandanten) | Korbinian Haspelbeck-Türkenfeld (geb. 14.07.1968) und Walburga Haspelbeck-Türkenfeld geb. Zöttl (geb. 02.03.1971), Mauerkircherstraße 47, 81679 München-Bogenhausen | Tel. 089/98 44 27 11 · korbinian.haspelbeck@t-online.de |
-| Beklagte | Immobilien-Vermittlung Marlene Bechtholdsmeier-Schongau e.K., Schwere-Reiter-Straße 18, 80637 München | m.bechtholdsmeier@immovetop-muenchen.de |
+| Beklagte | Immobilien-Vermittlung Marlene Bechtholdsmeier-Schongau e.K., Schwere-Reiter-Straße 18, 80637 München | m.bechtholdsmeier@immovetop-münchen.de |
 | Klägeranwalt | Dr. Knut Hagelbrand-Wittlsbach, Hagelbrand & Trotzenburg Rechtsanwälte, Promenadeplatz 9, 80333 München | Az. intern: HT-2023-0892 · EUR 380/Std. |
 | Beklagtenanwältin | Dr. Adelheid Korkenzieher-Mariastein, Korkenzieher Maibach Partner mbB, Karlsplatz 4, 80335 München | Az. intern: KM-2023-0447/AdKM |
 | Notar | Dr. Ulfried Vorstetter, Maximilianstraße 22, 80539 München | UR-Nr. 1488/2023 |

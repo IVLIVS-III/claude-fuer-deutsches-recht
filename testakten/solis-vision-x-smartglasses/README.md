@@ -48,11 +48,11 @@ Die Beklagte wendet ein, ihre AGB sehen Schweizer Recht und Gerichtsstand Züric
 | Prüfschwerpunkt | Wo es vorkommt |
 |---|---|
 | **Internationale Zuständigkeit** | EuGVVO/Brussel Ia, Artikel 17 ff. Verbrauchergerichtsstand (hier nicht, Klägerin ist Verein); Artikel 7 Nummer 1 b EuGVVO Erfüllungsort Lieferort Hamburg |
-| **Anwendbares Recht** | Rom-I Artikel 4 Absatz 1 a Verkaeufersitz CH → Schweizer Recht; aber Artikel 6 CISG; **CISG anwendbar**, weil beide Staaten Vertragsstaaten und kein wirksamer Ausschluss |
+| **Anwendbares Recht** | Rom-I Artikel 4 Absatz 1 a Verkäufersitz CH → Schweizer Recht; aber Artikel 6 CISG; **CISG anwendbar**, weil beide Staaten Vertragsstaaten und kein wirksamer Ausschluss |
 | **AGB-Kollision** | Knock-out-Doktrin (BGH herrschende Meinung); Schweizer AGB enthalten Schweizer Recht, deutsche AGB der Klägerin enthalten deutsches Recht → beide Rechtswahlklauseln fallen weg, Artikel 6 CISG nicht erfüllt → CISG gilt direkt |
 | **Incoterms FOB Galway** | Gefahrübergang **vor** EU-Eintritt (Artikel 67 Absatz 1 CISG); aber: Sachmangel bestand bereits bei Gefahrübergang (Software-Defekt im Werk verbaut), Artikel 36 CISG |
-| **Sachmangel und DSGVO** | Artikel 35 CISG: Vertragsmaessigkeit. Rechtsfrage: Macht ein **EU-rechtlich verbotenes Verhalten der Software** die Ware mangelhaft? Argumentation über Artikel 35 Absatz 2 b CISG (Eignung für einen besonderen Zweck) und Artikel 35 Absatz 2 a CISG (übliche Verwendung) |
-| **DSGVO als Eingriffsnorm** | Artikel 9 Rom-I Eingriffsnormen; Erwaegungsgrund 81 Rom-I; **DSGVO findet trotz Schweizer Rechtswahl Anwendung** (Marktortprinzip Artikel 3 Absatz 2 DSGVO) |
+| **Sachmangel und DSGVO** | Artikel 35 CISG: Vertragsmäßigkeit. Rechtsfrage: Macht ein **EU-rechtlich verbotenes Verhalten der Software** die Ware mangelhaft? Argumentation über Artikel 35 Absatz 2 b CISG (Eignung für einen besonderen Zweck) und Artikel 35 Absatz 2 a CISG (übliche Verwendung) |
+| **DSGVO als Eingriffsnorm** | Artikel 9 Rom-I Eingriffsnormen; Erwägungsgrund 81 Rom-I; **DSGVO findet trotz Schweizer Rechtswahl Anwendung** (Marktortprinzip Artikel 3 Absatz 2 DSGVO) |
 | **AG-Zuständigkeit** | Streitwert 1577 EUR; Paragraf 23 Nummer 1 GVG (bis 5000 EUR); AG Hamburg |
 | **Berufung** | Wert der Beschwer prüfen; bei 1577 EUR unterhalb 600 EUR ist Berufung nicht ohne Zulassung statthaft → Berufung muss zugelassen werden, Paragraf 511 Absatz 4 ZPO; ABER: hier Wert über 600 EUR → Berufung statthaft |
 

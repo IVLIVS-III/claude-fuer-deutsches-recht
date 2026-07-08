@@ -16,7 +16,7 @@ in den SKILL.md-Dateien des Repos.
 
 ## Welle 2 — Methodik
 
-22 parallele Subagenten haben je ~147 unique Aktenzeichen geprueft. Pro AZ:
+22 parallele Subagenten haben je ~147 unique Aktenzeichen geprüft. Pro AZ:
 
 1. `pplx search web "<court> <az>"` gegen dejure.org / openJur / bundesgerichtshof.de / curia.europa.eu
 2. Vergleich des im Skill behaupteten Themas mit der echten Entscheidung
@@ -24,37 +24,37 @@ in den SKILL.md-Dateien des Repos.
    - **OK**: AZ existiert und Kontext passt
    - **WRONG_TOPIC**: AZ existiert, aber Kontext beschreibt anderen Sachverhalt
    - **NOT_FOUND**: AZ findet sich nicht
-   - **UNVERIFIABLE**: Quellenlage zu duenn
+   - **UNVERIFIABLE**: Quellenlage zu dünn
 
 ## Ergebnis Welle 2
 
-- **3228** unique Aktenzeichen geprueft
+- **3228** unique Aktenzeichen geprüft
 - **1062** OK (32,9 %)
-- **893** UNVERIFIABLE (27,7 %) — meist OLG/LG/FG ohne oeffentlichen Volltext
+- **893** UNVERIFIABLE (27,7 %) — meist OLG/LG/FG ohne öffentlichen Volltext
 - **621** WRONG_TOPIC (19,2 %)
 - **355** NOT_FOUND (11,0 %)
-- **976 Problemfaelle** (30,2 %) sind in `audit_problems_2026-05-27.json`
+- **976 Problemfälle** (30,2 %) sind in `audit_problems_2026-05-27.json`
   detailliert aufgelistet
 
-## Hinweis zur Datenqualitaet
+## Hinweis zur Datenqualität
 
 Der hohe WRONG_TOPIC-Anteil zeigt: das Aktenzeichen existiert, aber
-die im Skill behauptete Aussage trifft nicht auf das tatsaechliche Urteil zu.
+die im Skill behauptete Aussage trifft nicht auf das tatsächliche Urteil zu.
 Typische Muster sind falsche Senate (z.B. IX ZR statt VIII ZR), falsche
-Jahrgaenge oder völlig andere Themen unter identischem AZ.
+Jahrgänge oder völlig andere Themen unter identischem AZ.
 
-Diese Faelle müssen in einer Folge-Welle (Welle 3 — Reparatur) systematisch
+Diese Fälle müssen in einer Folge-Welle (Welle 3 — Reparatur) systematisch
 bereinigt werden: betroffene Skill-Stellen entweder ersatzlos streichen
 oder durch verifizierte AZ ersetzen.
 
-Die UNVERIFIABLE-Faelle sind nicht zwangslaeufig fehlerhaft; sie konnten
-nur ohne juris-/Beck-Zugang nicht abschliessend gegengeprueft werden.
+Die UNVERIFIABLE-Fälle sind nicht zwangsläufig fehlerhaft; sie konnten
+nur ohne juris-/Beck-Zugang nicht abschliessend gegengeprüft werden.
 
 ## Folgeschritte
 
-1. Welle 3 — Reparatur: 976 Problemfaelle systematisch fixen – erledigt in v24.1.0 (Strip über `strip_az.py`)
-2. Optional: 893 UNVERIFIABLE mit juris/Beck-Zugang nachpruefen
-3. CI-Hook etablieren, der neue AZ-Aufnahmen gegen dejure-API gegenprueft
+1. Welle 3 — Reparatur: 976 Problemfälle systematisch fixen – erledigt in v24.1.0 (Strip über `strip_az.py`)
+2. Optional: 893 UNVERIFIABLE mit juris/Beck-Zugang nachprüfen
+3. CI-Hook etablieren, der neue AZ-Aufnahmen gegen dejure-API gegenprüft
 
 ## Welle 3 — AZ-Strip (29.05.2026)
 
@@ -62,12 +62,12 @@ Alle 969 als WRONG_TOPIC oder NOT_FOUND klassifizierten Aktenzeichen wurden
 aus den betroffenen SKILL.md entfernt. Strategie:
 
 - Pro Audit-Eintrag wurde die AZ-Zeichenkette in der jeweils betroffenen
-  SKILL.md gesucht und die enthaltende Markdown-Zeile/Bulletpoint geloescht.
-- YAML-Frontmatter wurde nicht angetastet (Schutz gegen Header-Beschaedigung).
+  SKILL.md gesucht und die enthaltende Markdown-Zeile/Bulletpoint gelöscht.
+- YAML-Frontmatter wurde nicht angetastet (Schutz gegen Header-Beschädigung).
 - Konsekutive Leerzeilen wurden kollabiert.
-- Ergebnis: 175 Dateien geaendert, 392 Zeilen entfernt.
+- Ergebnis: 175 Dateien geändert, 392 Zeilen entfernt.
 - Validatoren (`validate-plugin-structure`, `validate-yaml-frontmatter`,
-  `welle5_komma_check`) anschliessend gruen.
+  `welle5_komma_check`) anschliessend grün.
 
 ## Welle 4 — References-Audit (29.05.2026)
 
@@ -82,15 +82,15 @@ Prüfung der Markdown-Verweise auf `references/`-Dateien:
   `references/pruef-warteschlange.yaml`, faktisch heisst die Datei aber
   `review-queue.yaml` (in dieser Welle gefixt).
 
-Vollstaendige Liste in `references_audit_2026-05-29.json`.
+Vollständige Liste in `references_audit_2026-05-29.json`.
 
 ## Welle 5 — References-Einzelfix (29.05.2026)
 
 Die 16 verbleibenden toten Verweise einzeln durchgegangen:
 
-- **14 falsch-positiv:** Aufloesungspfad war anders (z. B. `mietspiegel-quellen.md`
+- **14 falsch-positiv:** Auflösungspfad war anders (z. B. `mietspiegel-quellen.md`
   liegt unter `mietrecht/references/`, mein Audit-Script konnte ihn von
-  `TESTBERICHT.md` aus nicht aufloesen), ASCII-Tree-Beispiele in README-Dateien,
+  `TESTBERICHT.md` aus nicht auflösen), ASCII-Tree-Beispiele in README-Dateien,
   Pfade in generierten Skills (klagewerkstatt-<kanzlei>), `../../`-Pfade.
 - **1 echter Bug gefixt:** `produktrecht/skills/produktrecht-kaltstart-interview`
   verwies auf `references/launch-pruefung-framework-de.md`; korrigiert auf
@@ -103,15 +103,15 @@ Die 16 verbleibenden toten Verweise einzeln durchgegangen:
 
 Die 893 in Welle 2 als UNVERIFIABLE klassifizierten Aktenzeichen wurden
 online gegen dejure.org, BGH-Datenbank, BAG-Datenbank, BFH-Datenbank,
-Curia, openJur, NRWE und Landesjustizportale geprueft. Methodik:
+Curia, openJur, NRWE und Landesjustizportale geprüft. Methodik:
 20 parallele Subagenten haben je ~45 AZ in einer Schnellrunde gesichtet.
 
 Konsolidiertes Ergebnis (in `welle2_unverifiable_audit_2026-05-29.json`):
 
 - 148 AZ klar verifiziert (vorher UNVERIFIABLE, jetzt rehabilitiert)
 - 621 AZ in Schnellrunde nicht auffindbar
-- 30 AZ widerspruechlich klassifiziert (in-batch)
-- 94 AZ von Subagenten uebersprungen
+- 30 AZ widersprüchlich klassifiziert (in-batch)
+- 94 AZ von Subagenten übersprungen
 
 **Strip-Strategie konservativ:** Nur AZ entfernen, die
 (a) in der Schnellrunde nicht auffindbar waren und
@@ -119,8 +119,8 @@ Konsolidiertes Ergebnis (in `welle2_unverifiable_audit_2026-05-29.json`):
 `nicht in Datenbanken auffindbar`) tragen und
 (c) keine positiven Marker (`AZ existiert`, `Datum plausibel`) zeigen.
 
-Dieses Filter ergab 7 sichere Loeschkandidaten. Alle 7 waren jedoch
+Dieses Filter ergab 7 sichere Löschkandidaten. Alle 7 waren jedoch
 bereits durch Welle 3 (v24.1.0) aus den Skills verschwunden –
 Welle 6 hat netto null weitere Zeilen entfernt, liefert aber eine
-konsolidierte Klassifikation aller 893 ursprueglichen UNVERIFIABLE-AZ
-für kuenftige Reparaturwellen.
+konsolidierte Klassifikation aller 893 ursprüglichen UNVERIFIABLE-AZ
+für künftige Reparaturwellen.

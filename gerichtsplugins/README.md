@@ -1,6 +1,6 @@
 # gerichtsplugins — Legal-AI-Plugins für Gerichte
 
-> **Experimentelle Plugin-Sammlung für den moeglichen Einsatz von KI an deutschen Gerichten.**
+> **Experimentelle Plugin-Sammlung für den möglichen Einsatz von KI an deutschen Gerichten.**
 > Capability-Experiment. Keine Produktivempfehlung.
 
 ## Was ist das hier?
@@ -21,12 +21,12 @@ Die richterliche Funktion ist eine besonders sensible Anwendung von KI. Deshalb 
 | `richter-landgericht-strafkammer` | Vorsitzender oder Berichterstatter einer großen oder kleinen Strafkammer (Paragraf 74 GVG, Paragraf 76 GVG); Schwurgericht Paragraf 74 Abs. 2 GVG | [README](./richter-landgericht-strafkammer/README.md) |
 | `richter-verwaltungsgericht` | Verwaltungsrichter als Einzelrichter oder Kammer (Paragrafen 4-6 VwGO) | [README](./richter-verwaltungsgericht/README.md) |
 | `richter-finanzgericht` | Finanzrichter als Einzelrichter oder Senat (Paragraf 5 FGO) | [README](./richter-finanzgericht/README.md) |
-| `richter-sozialgericht` | Sozialrichter als Einzelrichter oder Kammer (Paragrafen 12, 31 SGG); mit ehrenamtlichen Richtern in muendlicher Verhandlung | [README](./richter-sozialgericht/README.md) |
+| `richter-sozialgericht` | Sozialrichter als Einzelrichter oder Kammer (Paragrafen 12, 31 SGG); mit ehrenamtlichen Richtern in mündlicher Verhandlung | [README](./richter-sozialgericht/README.md) |
 | `richter-arbeitsgericht` | Arbeitsrichter als Vorsitzender einer Kammer (mit zwei ehrenamtlichen Richtern aus Arbeitgeber- und Arbeitnehmerkreis) Paragraf 16 ArbGG | [README](./richter-arbeitsgericht/README.md) |
 | `richter-familiengericht` | Familienrichter am Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG) für Ehe-, Kindschafts-, Unterhalts-, Versorgungsausgleichs-, Gewaltschutz- und sonstige Familiensachen nach FamFG | [README](./richter-familiengericht/README.md) |
 | `richter-bverfg-verfassungsbeschwerden` | Wissenschaftlicher Mitarbeiter oder Berichterstatter in einer Kammer beider Senate des Bundesverfassungsgerichts (Paragrafen 93a-93d BVerfGG) | [README](./richter-bverfg-verfassungsbeschwerden/README.md) |
-| `staatsanwaltschaft-amtsanwaltschaft` | Staatsanwalt oder Amtsanwalt (Paragrafen 141 ff. GVG, Paragrafen 152 ff. StPO) mit 28 Skills zu Anklage, Ermittlung, Durchsuchung, Vernehmung, Adhaesion, Opferschutz, Wiederaufnahme und EuHb | [README](./staatsanwaltschaft-amtsanwaltschaft/README.md) |
-| `staatsanwaltschaft-praxis-einstieg` | Praxiseinstieg fuer Staatsanwaelte und Amtsanwaelte: Aktenfuehrung, Verfuegungslehre, taegliche Arbeitsablaeufe | [README](./staatsanwaltschaft-praxis-einstieg/README.md) |
+| `staatsanwaltschaft-amtsanwaltschaft` | Staatsanwalt oder Amtsanwalt (Paragrafen 141 ff. GVG, Paragrafen 152 ff. StPO) mit 28 Skills zu Anklage, Ermittlung, Durchsuchung, Vernehmung, Adhäsion, Opferschutz, Wiederaufnahme und EuHb | [README](./staatsanwaltschaft-amtsanwaltschaft/README.md) |
+| `staatsanwaltschaft-praxis-einstieg` | Praxiseinstieg für Staatsanwälte und Amtsanwälte: Aktenführung, Verfügungslehre, tägliche Arbeitsabläufe | [README](./staatsanwaltschaft-praxis-einstieg/README.md) |
 | `relationstechnik-zivilrecht` | Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will | [README](./relationstechnik-zivilrecht/README.md) |
 
 ## Wichtiger Hinweis vor Verwendung
@@ -35,24 +35,24 @@ Die richterliche Funktion ist eine besonders sensible Anwendung von KI. Deshalb 
 
 ### Rechtliche Einordnung der KI-Verordnung (KI-VO, VO (EU) 2024/1689)
 
-- **Art. 6 Abs. 2 i.V.m. Anhang III Nr. 8 lit. a KI-VO**: KI-Systeme, die von einer Justizbehoerde oder in deren Auftrag bei der **Recherche und Auslegung von Sachverhalten und Rechtsvorschriften** sowie bei der **Anwendung des Rechts auf konkrete Sachverhalte** verwendet werden, sind grundsaetzlich **Hochrisiko-KI**.
+- **Art. 6 Abs. 2 i.V.m. Anhang III Nr. 8 lit. a KI-VO**: KI-Systeme, die von einer Justizbehörde oder in deren Auftrag bei der **Recherche und Auslegung von Sachverhalten und Rechtsvorschriften** sowie bei der **Anwendung des Rechts auf konkrete Sachverhalte** verwendet werden, sind grundsätzlich **Hochrisiko-KI**.
 - **Aber Art. 6 Abs. 3 KI-VO**: Ein KI-System gilt **nicht** als Hochrisiko-KI, wenn es nur eine **vorbereitende Aufgabe** wahrnimmt (z.B. Vorbereitung von Dokumenten, reine Recherche ohne Subsumtion).
 - **Notifizierungspflicht**: Auch im Ausnahmefall des Art. 6 Abs. 3 ist der Anbieter bzw. Betreiber verpflichtet, das KI-System bei der zuständigen Aufsicht zu **registrieren** (Art. 49 Abs. 2 KI-VO).
-- Die Einordnung ist im Einzelfall zu prüfen. Sobald das System konkrete Entscheidungsvorschlaege produziert, die Subsumtion vornimmt oder die richterliche Würdigung ersetzt, wird die Schwelle zur Hochrisiko-KI überschritten.
+- Die Einordnung ist im Einzelfall zu prüfen. Sobald das System konkrete Entscheidungsvorschläge produziert, die Subsumtion vornimmt oder die richterliche Würdigung ersetzt, wird die Schwelle zur Hochrisiko-KI überschritten.
 
 ### Art. 22 DSGVO — Verbot ausschliesslich automatisierter Entscheidung
 
-Die richterliche Letztentscheidung muss zwingend bei einem Menschen liegen. **Keine Maschine entscheidet als Richter.** Diese Skills sind ausschliesslich **Unterstuetzung** der richterlichen Arbeit, niemals deren Ersatz. Der Richter prüft, gewichtet, entscheidet — die KI bereitet vor und macht Vorschlaege.
+Die richterliche Letztentscheidung muss zwingend bei einem Menschen liegen. **Keine Maschine entscheidet als Richter.** Diese Skills sind ausschliesslich **Unterstützung** der richterlichen Arbeit, niemals deren Ersatz. Der Richter prüft, gewichtet, entscheidet — die KI bereitet vor und macht Vorschläge.
 
 ### Aktengeheimnis und Datenschutz
 
 - **Paragraf 353b StGB** (Verletzung von Dienstgeheimnissen) und **Paragraf 43 DRiG** (Amtsverschwiegenheit der Richter) sind strikt zu wahren.
-- Akteninhalte duerfen nicht ungeprüfte an externe KI-Anbieter übermittelt werden. Vor jeder Verwendung ist zu prüfen, ob die genutzte KI-Umgebung den Datenschutz und das Aktengeheimnis gewaehrleistet.
-- **Schatten-KI ist ausdrücklich abgelehnt.** Dieses Plugin soll keine Hilfe sein, KI an behoerdlichen Datenschutz- und IT-Richtlinien vorbei einzusetzen.
+- Akteninhalte dürfen nicht ungeprüfte an externe KI-Anbieter übermittelt werden. Vor jeder Verwendung ist zu prüfen, ob die genutzte KI-Umgebung den Datenschutz und das Aktengeheimnis gewährleistet.
+- **Schatten-KI ist ausdrücklich abgelehnt.** Dieses Plugin soll keine Hilfe sein, KI an behördlichen Datenschutz- und IT-Richtlinien vorbei einzusetzen.
 
 ### Revisionssicherheit
 
-- Saemtliche Arbeitsergebnisse müssen revisionssicher dokumentiert werden: Wer hat wann welche KI-Ausgabe genutzt, welche Änderungen wurden danach durch den Richter vorgenommen, welche Akten- und Promptbestandteile lagen zugrunde?
+- Sämtliche Arbeitsergebnisse müssen revisionssicher dokumentiert werden: Wer hat wann welche KI-Ausgabe genutzt, welche Änderungen wurden danach durch den Richter vorgenommen, welche Akten- und Promptbestandteile lagen zugrunde?
 - Die KI-Ausgabe muss als KI-Ausgabe erkennbar bleiben (Markierung, Versionierung); die richterliche Bearbeitung dokumentiert werden.
 - Aufbewahrungsfristen nach Aktenordnung der Gerichte und ggf. KI-VO-Logging-Pflichten beachten.
 
@@ -62,7 +62,7 @@ Viele Gerichte werden externe Cloud-Systeme auf absehbare Zeit nicht produktiv e
 
 ### Verwendung auf eigene Gefahr
 
-Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt sich um ein Capability-Experiment. Die Frage, ob und wie der hier abgebildete Workflow rechtssicher betrieben werden kann, ist im Einzelfall zu prüfen — und kann auch zu dem Ergebnis fuehren, dass es nicht geht. Wir wollen das wissen, indem wir es bauen und ausprobieren.
+Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt sich um ein Capability-Experiment. Die Frage, ob und wie der hier abgebildete Workflow rechtssicher betrieben werden kann, ist im Einzelfall zu prüfen — und kann auch zu dem Ergebnis führen, dass es nicht geht. Wir wollen das wissen, indem wir es bauen und ausprobieren.
 
 ## Aufbau jedes Plugins
 
@@ -75,7 +75,7 @@ Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt s
 
 ## Warum dieser Ordner separat steht
 
-Die richterliche Funktion ist eine besonders sensible Anwendung von KI. Aktengeheimnis, richterliche Unabhaengigkeit, Art. 22 DSGVO und KI-VO setzen einen strengen Rahmen. Wir bilden hier die Werkzeuge ab, **damit wir wissen, was geht**. Die Frage, ob und wie das im Echtbetrieb rechtssicher genutzt werden kann, ist in jedem Gericht und in jedem Verfahren neu zu prüfen.
+Die richterliche Funktion ist eine besonders sensible Anwendung von KI. Aktengeheimnis, richterliche Unabhängigkeit, Art. 22 DSGVO und KI-VO setzen einen strengen Rahmen. Wir bilden hier die Werkzeuge ab, **damit wir wissen, was geht**. Die Frage, ob und wie das im Echtbetrieb rechtssicher genutzt werden kann, ist in jedem Gericht und in jedem Verfahren neu zu prüfen.
 
 ## Lizenz
 

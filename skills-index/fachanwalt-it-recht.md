@@ -1,6 +1,6 @@
 # fachanwalt-it-recht
 
-**137 Skills** · Stand `v429.3.0`
+**137 Skills** · Stand `v429.4.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-it-recht/README.md)

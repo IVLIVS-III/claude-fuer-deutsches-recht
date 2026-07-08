@@ -19,7 +19,7 @@ Diese Akte ist eine Arbeitsakte für die Plugins `fachanwalt-insolvenz-sanierung
 
 ## Sachverhalt
 
-**Insolvenzschuldnerin:** ChainCortex AI GmbH, Linienstraße 219a, 10119 Berlin (Berlin-Mitte). AG Charlottenburg HRB 234567 B. Gegründet 2019. Geschäftsfeld: KI-gestützte Blockchain-Analyse-Lösungen für AML- und MiCAR-Compliance (RegTech). Ehemaliger Geschäftsführer: Jasper Knoebel-Brandeis. 12 Mitarbeiter zum Eröffnungsstichtag, Jahresumsatz 2024 ca. 1.4 Mio. EUR, Jahresumsatz 2025 nur noch ca. 620 TEUR (Venture-Capital-Klima eingebrochen, Pivot misslungen).
+**Insolvenzschuldnerin:** ChainCortex AI GmbH, Linienstraße 219a, 10119 Berlin (Berlin-Mitte). AG Charlottenburg HRB 234567 B. Gegründet 2019. Geschäftsfeld: KI-gestützte Blockchain-Analyse-Lösungen für AML- und MiCAR-Compliance (RegTech). Ehemaliger Geschäftsführer: Jasper Knöbel-Brandeis. 12 Mitarbeiter zum Eröffnungsstichtag, Jahresumsatz 2024 ca. 1.4 Mio. EUR, Jahresumsatz 2025 nur noch ca. 620 TEUR (Venture-Capital-Klima eingebrochen, Pivot misslungen).
 
 **Insolvenzantrag:** 15.01.2026 durch den Geschäftsführer wegen Zahlungsunfähigkeit (§ 17 InsO) und drohender Überschuldung (§ 19 InsO).
 **Eröffnungsbeschluss:** 01.04.2026.
@@ -40,7 +40,7 @@ Diese Akte ist eine Arbeitsakte für die Plugins `fachanwalt-insolvenz-sanierung
 | Sachbearbeiter Kanzlei IV | RA Mathis Reuter | Vorberg + Steinhausen RA mbB, Berlin |
 | Insolvenzgericht | Richter am AG Hartwig Bandel | AG Charlottenburg, Abt. 36w |
 | Gläubigerausschuss-Vorsitz | Dr. Wiebke Lostmann (Vertretung Hauptbank) | Berliner Mittelstandsbank AG |
-| Vormaliger Geschäftsführer | Jasper Knoebel-Brandeis | ChainCortex AI GmbH (i.L.) |
+| Vormaliger Geschäftsführer | Jasper Knöbel-Brandeis | ChainCortex AI GmbH (i.L.) |
 | Käufer-Geschäftsführerin | Dr. Carlotta Hennings | Voracis Ventures GmbH (Newco) |
 | Käufer-Anwälte | RA Tobitz Strehlemann | Strehlemann Karawane PartmbB, München |
 | Notar (Begleitung Anteilskauf Newco) | Dr. Roderich Sägeberg | Notariat Sägeberg, Berlin |

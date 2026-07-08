@@ -47,10 +47,10 @@ Die Anbieterin hat das System als Hochrisiko-KI nach Art. 6 Abs. 2 i.V.m. Anhang
 | `09_eu_konformitaetserklaerung_anhang_v_entwurf.docx` | EU-Konformitätserklärung als Entwurf |
 | `10_lueckenliste_massnahmenplan.docx` | Maßnahmenplan bis Pilotfreigabe |
 | `11_eu_konformitaetserklaerung_unterzeichnungsentwurf.docx` | Präzisierter Unterzeichnungsentwurf der EU-Konformitätserklärung mit Begleitnotiz |
-| `12_datenschutzfolgenabschaetzung.docx` | Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO |
-| `13_bias_audit_bericht.docx` | Bias-Auditbericht der FairnessLab GmbH mit Massnahmen |
+| `12_datenschutzfolgenabschaetzung.docx` | Datenschutz-Folgenabschätzung nach Art. 35 DSGVO |
+| `13_bias_audit_bericht.docx` | Bias-Auditbericht der FairnessLab GmbH mit Maßnahmen |
 | `14_konfigurations_logfile_auszug.docx` | Konfigurations- und Logfile-Auszug für Pilotzeitraum |
-| `15_bewerber_beschwerde.docx` | Bewerber-Beschwerde COMP-2026-0411 mit Pruefung |
+| `15_bewerber_beschwerde.docx` | Bewerber-Beschwerde COMP-2026-0411 mit Prüfung |
 
 ## Vorführziele
 

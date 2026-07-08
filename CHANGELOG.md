@@ -1,3 +1,12 @@
+# v429.4.0 — Schnellstart-Prompts, Schnittstellenhinweise und Aktenkontrolle
+
+- Schnellstart- und Werkstatt-Prompts repo-weit stärker auf den jeweiligen Plugin-Kern zugeschnitten: Skill-Überschriften werden als Arbeitsfelder genutzt, konkrete Norm- und Rechtsprechungsanker werden aus den vorhandenen Skills übernommen, generische Auffangformeln wurden deutlich zurückgedrängt.
+- Prompt-Generator nachgeschärft: keine pauschale Auffangreferenz auf Treu und Glauben mehr, keine Frontmatter-Zeilen als Anker, robustere Überschriftenauswertung und bessere deutsche Prosa in den kompakten Einstiegen.
+- Root-README um einen direkten Cowork-/Gateway-Einstieg ergänzt und den Abschnitt zur eigenen Schnittstelle präzisiert: erst Einzelplugin und Demo-Akte testen, Provider-Logs prüfen, dann Marketplace oder Sammelpakete nutzen.
+- Testakten-READMEs auf verräterische Stummel- und Platzhaltersprache geprüft; einzelne Vorlagen- und Bildhinweise in realistischere Aktenbegriffe überführt. Gesamt-PDF-, Akten-ZIP- und Einzel-PDF-ZIP-Verweise bleiben vollständig validiert.
+
+---
+
 # v429.3.0 — Aktenoptik für Sozial-, Renten-, Arbeits-, Gesellschafts- und Insolvenzrecht
 
 - Testakten in den genannten Rechtsgebieten auf echtere Aktenwirkung nachgezogen: Briefköpfe, Kanzlei- und Behördenvermerke, Tabellenlogik und Abschriften geglättet; sichtbare Format-Hinweise, Platzhalter, abgebrochene Auszüge und Testcharakter-Reste aus den betroffenen Aktenstücken entfernt.

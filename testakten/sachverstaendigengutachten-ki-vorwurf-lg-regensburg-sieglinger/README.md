@@ -40,7 +40,7 @@ Die Akte ist absichtlich **fragmentarisch** aufgebaut. Manche Dokumente sind nur
 
 ## Sachverhalt — Kurz
 
-- Kläger: Landwirt mit Hofladen, hat Photovoltaikanlage auf Stallgebaeude errichten lassen
+- Kläger: Landwirt mit Hofladen, hat Photovoltaikanlage auf Stallgebäude errichten lassen
 - Beklagte: ausführendes Unternehmen
 - Streit: Minderleistung, Wechselrichter-Störungen, Wassereintritt durch Modulhaltermangel
 - Gerichtsbestellter Sachverständiger hat Gutachten eingereicht
@@ -50,12 +50,12 @@ Die Akte ist absichtlich **fragmentarisch** aufgebaut. Manche Dokumente sind nur
 ## Vorgang in Stichworten
 
 1. Klage erhoben am 04.06.2024
-2. Klageerwiderung mit Verjaehrungseinrede
+2. Klageerwiderung mit Verjährungseinrede
 3. Beweisbeschluss vom 15.01.2025 — Sachverständiger Pfaffenberger bestellt
 4. Gutachten Pfaffenberger eingereicht am 28.10.2025 (64 Seiten)
 5. Anwaltsteam bemerkt Auffälligkeiten:
    - mehrfach gleichförmige Satzanfänge
-   - nicht ersetzter Platzhalter
+   - unbearbeitete Textmarke im Gutachten
    - vermutliche Norm-Halluzination
    - pauschale Schätzungen
    - Stilbrueche
@@ -71,7 +71,7 @@ Die Akte ist absichtlich **fragmentarisch** aufgebaut. Manche Dokumente sind nur
 
 ## Aktenverzeichnis
 
-- 00_aktenuebersicht.md — Aktenübersicht und Verfahrenslage
+- 00_aktenübersicht.md — Aktenübersicht und Verfahrenslage
 - 01_klage_schriftsatz.docx — Klageschrift
 - 02_klageerwiderung_burgwald.docx — Klageerwiderung (FRAGMENT) mit Anlagenverzeichnis B 1 bis B 7
 - 03_beweisbeschluss_15_01_2025.docx — Beweisbeschluss
@@ -79,24 +79,24 @@ Die Akte ist absichtlich **fragmentarisch** aufgebaut. Manche Dokumente sind nur
 - 05_indizien_ki_einsatz.csv — Tabelle der Auffälligkeiten
 - 06_mandantenbesprechung_18_11_2025.docx — Aktenvermerk Besprechung
 - 07_strategieskizze_anwalt.docx — Interne Strategie
-- 08_schriftsatzentwurf_anhoerungsantrag.docx — Schriftsatzentwurf
+- 08_schriftsatzentwurf_anhörungsantrag.docx — Schriftsatzentwurf
 - 09_vergleich_andere_gutachten_pfaffenberger.json — Vergleichsrecherche (FRAGMENT, mit vier Vergleichsverfahren)
 - 10_protokoll_internes_quality_review.docx — Senior-Review
 - 11_kostenkalkulation_privatgutachten.csv — Kostenkalkulation Wallner II
-- 12_email_sachverstaendiger_an_kammer.eml — E-Mail-Auszug mit Folge-Anmerkung Kanzlei
+- 12_email_sachverständiger_an_kammer.eml — E-Mail-Auszug mit Folge-Anmerkung Kanzlei
 - 13_anlagenverzeichnis.docx — Anlagenverzeichnis (FRAGMENT) erweitert um Kläger-Anlagen K 10 bis K 13 und Verfahrensakte G 1 bis G 7
-- 14_gerichtsverfuegung_anhoerung_und_aktenherausgabe.docx — Verfügung der Kammer vom 09.12.2025
+- 14_gerichtsverfuegung_anhörung_und_aktenherausgabe.docx — Verfügung der Kammer vom 09.12.2025
 - 15_stellungnahme_sv_pfaffenberger_aktenherausgabe.docx — Schriftliche Stellungnahme des SV mit eingeräumtem KI-Einsatz
 - 16_befangenheitsantrag_entwurf.docx — Entwurf Befangenheitsantrag nach Anhörung 22.01.2026
 - 17_gegen_gutachten_wallner_notiz.docx — Inhaltliche Skizze des Wallner-II-Privatgutachtens
-- 18_mandanten_email_sieglinger_nach_anhoerung.docx — Mandanten-E-Mail mit Folgekosten- und Strategiefragen
+- 18_mandanten_email_sieglinger_nach_anhörung.docx — Mandanten-E-Mail mit Folgekosten- und Strategiefragen
 
 ## Disclaimer
 
 
 ## Empfohlener Workflow
 
-1. Aktenübersicht lesen (00_aktenuebersicht.md)
+1. Aktenübersicht lesen (00_aktenübersicht.md)
 2. Beweisbeschluss und Klageschrift kurz scannen
 3. Auszug Gutachten und Indizien-CSV prüfen
 4. Mit dem entsprechenden Skill arbeiten (siehe oben)

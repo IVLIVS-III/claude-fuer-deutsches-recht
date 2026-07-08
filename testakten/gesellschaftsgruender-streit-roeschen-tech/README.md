@@ -1,4 +1,4 @@
-# Roeschen Tech GmbH — Gründung, Series A, B-Shares und Streit-Eskalation
+# Röschen Tech GmbH — Gründung, Series A, B-Shares und Streit-Eskalation
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
@@ -20,7 +20,7 @@ Plugin: `gesellschaftsgruender`, ergänzend `gesellschaftsrecht`, `fachanwalt-ha
 
 ## Szenario
 
-Roeschen Tech GmbH wurde mit drei Gründerinnen und Gründern aufgebaut. Nach einer Series-A-Finanzierung mit Stahlauge Ventures AG stehen B-Shares, Liquidation Preference, Vetorechte, Founder Vesting und ein Beirat im Raum. Im Juni 2026 soll eine zweite Kapitalerhöhung zur Aufnahme der Pi Mu Holding GmbH beschlossen werden. Christine Linnenbach hält den Bezugsrechtsausschluss und die Verwässerung für missbräuchlich.
+Röschen Tech GmbH wurde mit drei Gründerinnen und Gründern aufgebaut. Nach einer Series-A-Finanzierung mit Stahlauge Ventures AG stehen B-Shares, Liquidation Preference, Vetorechte, Founder Vesting und ein Beirat im Raum. Im Juni 2026 soll eine zweite Kapitalerhöhung zur Aufnahme der Pi Mu Holding GmbH beschlossen werden. Christine Linnenbach hält den Bezugsrechtsausschluss und die Verwässerung für missbräuchlich.
 
 Die Akte ist nicht glatt: Die Satzung ist fortgeschrieben, das SHA enthält englische Deal-Begriffe, der Cap Table driftet in einzelnen Arbeitsständen, es gibt Notar- und Banknachfragen, eine Registerlogik, Gründerchats, ein Beiratsprotokoll, E-Mails und eine Prozesseskalation.
 

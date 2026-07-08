@@ -38,15 +38,15 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
-Baukastensystem für IP-Lizenzvertraege nach deutschem und internationalem Recht. Pro Rolle, IP-Typ und Klauselbaustein ein Skill — die Skills greifen ineinander, vom Mandats-Intake bis zum unterschriftsreifen Vertrag in DE, EN oder bilingual.
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
+Baukastensystem für IP-Lizenzverträge nach deutschem und internationalem Recht. Pro Rolle, IP-Typ und Klauselbaustein ein Skill — die Skills greifen ineinander, vom Mandats-Intake bis zum unterschriftsreifen Vertrag in DE, EN oder bilingual.
 
 ## Was deckt das Plugin ab?
 
 ### IP-Typen
 - **Urheberrecht und Software** (UrhG; $$ 31, 32, 32a, 69a-g)
-- **Patente** (PatG; TT-GVO-Konformitaet)
-- **Marken** (MarkenG $ 30; DPMA/EUIPO; Qualitaetskontrolle)
+- **Patente** (PatG; TT-GVO-Konformität)
+- **Marken** (MarkenG $ 30; DPMA/EUIPO; Qualitätskontrolle)
 - **Geschmacksmuster / Design** (DesignG; EU-VO 6/2002)
 - **Gebrauchsmuster** (GebrMG; Schnellschuss-Strategie neben Patent)
 - **Geschäftsgeheimnisse / Know-how** (GeschGehG; Reverse-Engineering-Verbot)
@@ -61,18 +61,18 @@ Baukastensystem für IP-Lizenzvertraege nach deutschem und internationalem Recht
 ### Vertragsbausteine
 - Lizenzgegenstand mit Anlage A (IP-Liste, Reg.-Nr., Belastungen)
 - Lizenzumfang (Territorium, Zeit, Anwendungsfeld)
-- Exklusivitaet (sole, exclusive, non-exclusive, Most-Favoured-Customer)
+- Exklusivität (sole, exclusive, non-exclusive, Most-Favoured-Customer)
 - Vergütung (Pauschale, Running Royalty, Tiered, Mindestlizenz, Milestones)
 - Reporting, Audit, Strafzinsen
 - Sub-Lizenzen
 - Verbesserungen / Grant-Back
 - Haftung / Gewährleistung / Indemnification
 - Rechtswahl + Gerichtsstand + Schiedsklausel (DE/EN/Schiedsinstitute)
-- Vertragsdauer + Kuendigung + Folgen
+- Vertragsdauer + Kündigung + Folgen
 - Vertraulichkeit + NDA-Interimsphase
 - Source-Code-Escrow
 - Insolvenzfestigkeit ($ 103 InsO)
-- Sicherungslizenz / Pfandrecht an Immaterialguetern
+- Sicherungslizenz / Pfandrecht an Immaterialgütern
 
 ### Compliance-Schichten
 - Kartellrecht (TT-GVO EU 316/2014)
@@ -143,7 +143,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 32 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -156,8 +156,8 @@ Automatisch generierte Komplett-Liste aller 32 Skills in diesem Plugin. Beschrei
 | `insolvenz-fortbestand-paragraf-103-inso-lizenz` | Wenn es um Insolvenz-Fortbestand der Lizenz ($ 103 InsO) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und... |
 | `ip-identifikation-und-bestandsaufnahme` | Wenn es um IP-Identifikation und Bestandsaufnahme in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
 | `kartellrecht-tt-gvo-eu-316-2014` | Wenn es um Kartellrecht — TT-GVO (EU) 316/2014 in Lizenzvertragsersteller geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
-| `klausel-exklusivitaet-sole-non-exclusive` | Wenn es um Klausel Exklusivitaet — sole, exclusive, non-exclusive in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Ri... |
-| `klausel-haftung-gewaehrleistung-indemnification` | Wenn es um Klausel Haftung, Gewaehrleistung, Indemnification in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken... |
+| `klausel-exklusivitaet-sole-non-exclusive` | Wenn es um Klausel Exklusivität — sole, exclusive, non-exclusive in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Ri... |
+| `klausel-haftung-gewaehrleistung-indemnification` | Wenn es um Klausel Haftung, Gewährleistung, Indemnification in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken... |
 | `klausel-lizenzgegenstand-und-anlage-ip-liste` | Wenn es um Klausel Lizenzgegenstand + Anlage A in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
 | `klausel-lizenzumfang-territorium-zeit-feld` | Wenn es um Klausel Lizenzumfang — Territorium, Zeit, Feld in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `klausel-mindestlizenzen-meldungen-audit` | Wenn es um Klausel Mindestlizenzen, Meldungen, Audit in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und näc... |
@@ -165,7 +165,7 @@ Automatisch generierte Komplett-Liste aller 32 Skills in diesem Plugin. Beschrei
 | `klausel-unterlizenzen-sublicensing` | Wenn es um Klausel Unterlizenzen (Sub-Licensing) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächste... |
 | `klausel-verbesserungen-grant-back` | Wenn es um Klausel Verbesserungen (Grant-Back) in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `klausel-verguetung-pauschale-royalty-tiered` | Wenn es um Klausel Vergütung — Pauschale, Royalty, Tiered in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfra... |
-| `klausel-vertragsdauer-kuendigung-rueckwirkung` | Wenn es um Klausel Vertragsdauer und Kuendigung in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `klausel-vertragsdauer-kuendigung-rueckwirkung` | Wenn es um Klausel Vertragsdauer und Kündigung in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `klausel-vertraulichkeit-und-nda-interimsphase` | Wenn es um Klausel Vertraulichkeit + NDA-Interimsphase in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `lizenz-gebrauchsmuster-gebrmg` | Wenn es um Lizenz Gebrauchsmuster (GebrMG) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `lizenz-geschaeftsgeheimnis-knowhow-geschgehg` | Wenn es um Lizenz Geschäftsgeheimnis / Know-how (GeschGehG) in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -173,12 +173,12 @@ Automatisch generierte Komplett-Liste aller 32 Skills in diesem Plugin. Beschrei
 | `lizenz-marke-markeng` | Wenn es um Lizenz Marke (MarkenG) in Lizenzvertragsersteller geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
 | `lizenz-patent-patg` | Wenn es um Lizenz Patent (PatG) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `lizenz-urheberrecht-und-software-urhg` | Wenn es um Lizenz Urheberrecht / Software ($$ 31 ff. UrhG) in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `mandat-intake-und-konfliktpruefung` | Wenn es um Mandatsannahme und Konfliktpruefung in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `mandat-intake-und-konfliktpruefung` | Wenn es um Mandatsannahme und Konfliktprüfung in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `output-vertrag-deutsch-fertigentwurf` | Wenn es um Output: Lizenzvertrag in deutscher Sprache in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `output-vertrag-englisch-fertigentwurf` | Wenn es um Output: Licence Agreement in English in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `output-zweisprachig-bilingual-deutsch-englisch` | Wenn es um Output: Zweisprachiger Lizenzvertrag DE/EN in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `parteienrolle-klaeren-lizenzgeber-nehmer-sicherheiten-verwahrer` | Wenn es um Parteienrollen klären in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `sicherungslizenz-pfandrecht-an-immaterialguetern` | Wenn es um Sicherungslizenz und Pfandrecht an Immaterialguetern in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `sicherungslizenz-pfandrecht-an-immaterialguetern` | Wenn es um Sicherungslizenz und Pfandrecht an Immaterialgütern in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `steuern-quellensteuer-und-dba-lizenz` | Wenn es um Steuern und Quellensteuer — Lizenz in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `transaktionsstruktur-visualisieren-ascii` | Wenn es um Transaktionsstruktur visualisieren — ASCII in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 

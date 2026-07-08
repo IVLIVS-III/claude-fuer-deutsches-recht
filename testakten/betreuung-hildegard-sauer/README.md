@@ -135,7 +135,7 @@ strukturiertes Vermögensverzeichnis im Format des § 1835 BGB mit:
 
 **Empfohlene Frage:**
 > "Erstelle eine Zusammenfassung des Vermögens für den Jahresbericht aus
-> der Excel-Datei 05_Vermoegensverzeichnis_Stand_30-04-2026.xlsx."
+> der Excel-Datei 05_Vermögensverzeichnis_Stand_30-04-2026.xlsx."
 
 ---
 

@@ -1,4 +1,4 @@
-# Kirchenrechtliche Arbeitsakte: Sancta Caecilia, Kirchenaustritt, Sakramente und Ordinariatskommunikation
+# Kirchenrechtliche Arbeitsakte: Sancta Cäcilia, Kirchenaustritt, Sakramente und Ordinariatskommunikation
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->

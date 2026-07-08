@@ -1,4 +1,4 @@
-# Akte: Anfechtung / Irrtum — Restaurant-Kette Pohlmann-Ofenkaess, Erbenstraße Leipzig
+# Akte: Anfechtung / Irrtum — Restaurant-Kette Pohlmann-Ofenkäss, Erbenstraße Leipzig
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -21,7 +21,7 @@ Arbeitsakte zum Plugin `bgb-at-pruefer`.
 
 ## Kurzbild
 
-- Mandantin: Brigitte Pohlmann-Ofenkaess (52), Inhaberin der Restaurant-Kette „Pohlmanns Suppentopf" (GmbH & Co. KG), drei Filialen in Leipzig.
+- Mandantin: Brigitte Pohlmann-Ofenkäss (52), Inhaberin der Restaurant-Kette „Pohlmanns Suppentopf" (GmbH & Co. KG), drei Filialen in Leipzig.
 - Verfahrensanlass: Im Renovierungsstress unterzeichnet Pohlmann am 03.02.2026 einen Pachtvertrag für ein Ladenlokal in der Erbenstraße 88, Leipzig-Connewitz — mit 9.800 EUR/Monat statt der verhandelten 4.900 EUR. Erklärungsirrtum § 119 Abs. 1 BGB.
 - Tilidin-Einnahme vor Unterzeichnung (Schmerzmittel nach Bandscheibenvorfall): Mögliche vorübergehende Geschäftsunfähigkeit § 105 Abs. 2 BGB — subsidiär geprüft.
 - Vermieter Friedhelm Ratschke rügt Verspätung der Anfechtung (§ 121 BGB): Kenntniserlangung 10.02.2026 bis Anfechtungszugang 20.03.2026 = 38 Tage.

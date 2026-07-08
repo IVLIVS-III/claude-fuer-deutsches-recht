@@ -1,4 +1,4 @@
-# Akte: Zwangsvollstreckung Mietrückstand und Raeumung — Eppendorfer Altbau Grewenig — Vollstreckungsmappe Zweite Runde
+# Akte: Zwangsvollstreckung Mietrückstand und Räumung — Eppendorfer Altbau Grewenig — Vollstreckungsmappe Zweite Runde
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -15,19 +15,19 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Arbeitsakte.** Alle Personen, Anschriften, Aktenzeichen und Unternehmen sind anonymisiert. Die Akte gehoert fachlich zum Plugin `zwangsvollstreckung`.
+**Arbeitsakte.** Alle Personen, Anschriften, Aktenzeichen und Unternehmen sind anonymisiert. Die Akte gehört fachlich zum Plugin `zwangsvollstreckung`.
 
 ---
 
 ## Kurzbild
 
-- Glaeubigerin: Grewenig Immobilien Verwaltung GmbH (Hausverwaltung Eppendorfer Weg 188 Hamburg-Eimsbuettel), GF Anneliese Grewenig-Birkenhainer. Mandatserteilung 03.01.2026.
+- Gläubigerin: Grewenig Immobilien Verwaltung GmbH (Hausverwaltung Eppendorfer Weg 188 Hamburg-Eimsbüttel), GF Anneliese Grewenig-Birkenhainer. Mandatserteilung 03.01.2026.
 - Schuldner: Eheleute Heinrich Pohlmann-Tannenberg (selbstständiger Trockenbauer, in finanzieller Schieflage) und Carmen Pohlmann-Tannenberg geb. Sieverding (angestellte Lehrerin Stadtteilschule Hamburg, TV-L).
-- Mietobjekt: Eppendorfer Weg 188, 1. OG links, 20251 Hamburg-Eimsbuettel; Mietbeginn 01.09.2013; Kaltmiete 1.240 EUR/Monat.
-- Vollstreckungstitel: AG Hamburg-Altona 188 C 4711/25 vom 12.11.2025 (Raeumungs- und Zahlungstitel 14.880 EUR Mietrückstand). Rechtskraft: 15.03.2026 (Berufung LG Hamburg 308 S 14/26 zurückgewiesen).
+- Mietobjekt: Eppendorfer Weg 188, 1. OG links, 20251 Hamburg-Eimsbüttel; Mietbeginn 01.09.2013; Kaltmiete 1.240 EUR/Monat.
+- Vollstreckungstitel: AG Hamburg-Altona 188 C 4711/25 vom 12.11.2025 (Räumungs- und Zahlungstitel 14.880 EUR Mietrückstand). Rechtskraft: 15.03.2026 (Berufung LG Hamburg 308 S 14/26 zurückgewiesen).
 - Klausel § 724 ZPO erteilt 18.11.2025; Zustellung § 750 ZPO bewirkt 22.11.2025.
-- Kanzlei: Schwingenstein Roosendaal Partner mbB Hamburg, RA Dr. Roosendaal-Eichmueller, AZ MR-2026-ZV-0188.
-- GV: Frau OAR Lattermann, Bezirk Hamburg-Eimsbuettel, GV-AZ 2026-188-DR/04711.
+- Kanzlei: Schwingenstein Roosendaal Partner mbB Hamburg, RA Dr. Roosendaal-Eichmüller, AZ MR-2026-ZV-0188.
+- GV: Frau OAR Lattermann, Bezirk Hamburg-Eimsbüttel, GV-AZ 2026-188-DR/04711.
 
 ---
 
@@ -35,8 +35,8 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 | Strang | Kern | Relevante Normen |
 |---|---|---|
-| 1 | Berliner Raeumung § 885 ZPO vs. vollständige Raeumung — Kostenoptimierung | § 885 Abs. 1-4 ZPO |
-| 2 | PfUEB gegen Stadt Hamburg/Personalstelle (Carmen) inkl. Pfaendungsfreigrenzen-Tabelle 2026 | § 829 ZPO, § 850c ZPO |
+| 1 | Berliner Räumung § 885 ZPO vs. vollständige Räumung — Kostenoptimierung | § 885 Abs. 1-4 ZPO |
+| 2 | PfÜB gegen Stadt Hamburg/Personalstelle (Carmen) inkl. Pfändungsfreigrenzen-Tabelle 2026 | § 829 ZPO, § 850c ZPO |
 | 3 | Kontopfändung § 802l ZPO Hausbank Sparda Hamburg | § 802l ZPO, § 829 ZPO, § 840 ZPO |
 | 4 | Vermögensauskunft § 802c ZPO Termin GV — Heinrich und Carmen | § 802a-f ZPO, § 882b ZPO |
 | 5 | Schuldnerschutzantrag § 765a ZPO — Erkrankung Tochter Hilde (7 J.) | § 765a ZPO |
@@ -50,19 +50,19 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 | Skill | Aktenstück | Demonstration |
 |---|---|---|
-| Titel-Pruefung § 704 ff. ZPO | 02 | Vollstreckungsklausel, Zustellung, Rechtskraft, Gesamtschuldnerschaft |
+| Titel-Prüfung § 704 ff. ZPO | 02 | Vollstreckungsklausel, Zustellung, Rechtskraft, Gesamtschuldnerschaft |
 | Klausel § 724 ZPO | 03 | Einfache vs. qualifizierte Klausel, Voraussetzungen-Checkliste |
-| Räumungsvollstreckung § 885 ZPO | 04, 12, 15 | Berliner Raeumung vs. Vollräumung, GV-Auftrag |
-| Lohnpfändung § 829 ZPO | 05 | PfUEB gegen Drittschuldner Stadt Hamburg, Wartefrist § 829 Abs. 3 ZPO |
-| Pfaendungsfreigrenzen § 850c ZPO | 08 | Tabelle 2026, Unterhaltsberechtigte, Berechnung pfändbarer Betrag |
-| Kontopfändung § 802l ZPO | 06 | Kontenauskunft BZSt, P-Konto-Verzahnung, Drittschuldnererklaerung |
+| Räumungsvollstreckung § 885 ZPO | 04, 12, 15 | Berliner Räumung vs. Vollräumung, GV-Auftrag |
+| Lohnpfändung § 829 ZPO | 05 | PfÜB gegen Drittschuldner Stadt Hamburg, Wartefrist § 829 Abs. 3 ZPO |
+| Pfändungsfreigrenzen § 850c ZPO | 08 | Tabelle 2026, Unterhaltsberechtigte, Berechnung pfändbarer Betrag |
+| Kontopfändung § 802l ZPO | 06 | Kontenauskunft BZSt, P-Konto-Verzahnung, Drittschuldnererklärung |
 | Vermögensauskunft § 802c ZPO | 07 | GV-Termin, Schuldnerverzeichnis, § 802g ZPO Haftbefehl |
 | P-Konto-Schutz § 850k ZPO | 11 | P-Konto-Bescheinigung, Freibetrag-Erhöhung, Abgrenzung Lohnpfändung |
-| Schuldnerschutz § 765a ZPO | 09 | Sittenwidrigkeitspruefung, BGH-Linie, VG-Beschluss Gegenargument |
+| Schuldnerschutz § 765a ZPO | 09 | Sittenwidrigkeitsprüfung, BGH-Linie, VG-Beschluss Gegenargument |
 | Insolvenzschutzschild | 10 | § 112 InsO, § 89 InsO, § 131 InsO Anfechtungsrisiko |
-| Mobiliarpfaendung § 808 ZPO | 15, 16 | Inventarliste, § 811 ZPO Unpfaendbarkeit, § 811a ZPO Austausch |
+| Mobiliarpfändung § 808 ZPO | 15, 16 | Inventarliste, § 811 ZPO Unpfändbarkeit, § 811a ZPO Austausch |
 | Erinnerung § 766 ZPO | 17 | Schuldnerrechtsbehelf, formelle Einwände, Stellungnahme |
-| ZVG-Abgrenzung | 14 | Eigentuemerpruefung, kein ZVG gegen Mieter |
+| ZVG-Abgrenzung | 14 | Eigentümerprüfung, kein ZVG gegen Mieter |
 | Nutzungsentschädigung § 546a BGB | 13 | Nach Mietvertragsende, gesonderter Anspruch |
 | Vergleich und Strategie | 19, 22 | Go/No-Go-Analyse, Gegenangebot, Vollstreckungsalternative |
 | Sozialamts-/JA-Koordination | 21 | VG Hamburg 8 K 188/26, JA-Stellungnahme, § 765a-Abschwachung |
@@ -76,9 +76,9 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | 01 | [`01-mandantenbriefing-grewenig.docx`](01-mandantenbriefing-grewenig.docx) | Mandatserteilung, Sachverhalt, Vollstreckungsstand, Prioritäten |
 | 02 | [`02-titel-pruefung-188-c-4711-25.docx`](02-titel-pruefung-188-c-4711-25.docx) | Prüfungsschema § 704 ff. ZPO, Parteien, Klausel, Zustellung |
 | 03 | [`03-klausel-und-zustellung-checkliste.docx`](03-klausel-und-zustellung-checkliste.docx) | Checkliste § 724 und § 750 ZPO, Ausführungsprotokoll |
-| 04 | [`04-raeumungsantrag-gv-lattermann.docx`](04-raeumungsantrag-gv-lattermann.docx) | Vollstreckungsauftrag Raeumung § 885 ZPO an GV Lattermann |
-| 05 | [`05-pfaendungs-und-ueberweisungsbeschluss-stadt-hamburg.docx`](05-pfaendungs-und-ueberweisungsbeschluss-stadt-hamburg.docx) | PfUEB Lohnpfändung Carmen, Drittschuldner FHH, Berechnung |
-| 06 | [`06-kontopfaendung-sparda-802l-zpo.docx`](06-kontopfaendung-sparda-802l-zpo.docx) | Kontenauskunft § 802l ZPO, Antrag PfUEB Sparda Hamburg |
+| 04 | [`04-raeumungsantrag-gv-lattermann.docx`](04-raeumungsantrag-gv-lattermann.docx) | Vollstreckungsauftrag Räumung § 885 ZPO an GV Lattermann |
+| 05 | [`05-pfaendungs-und-ueberweisungsbeschluss-stadt-hamburg.docx`](05-pfaendungs-und-ueberweisungsbeschluss-stadt-hamburg.docx) | PfÜB Lohnpfändung Carmen, Drittschuldner FHH, Berechnung |
+| 06 | [`06-kontopfaendung-sparda-802l-zpo.docx`](06-kontopfaendung-sparda-802l-zpo.docx) | Kontenauskunft § 802l ZPO, Antrag PfÜB Sparda Hamburg |
 | 07 | [`07-vermoegensauskunft-termin-gv.docx`](07-vermoegensauskunft-termin-gv.docx) | § 802c ZPO, GV-Termin 04.02.2026, Schuldnerverzeichnis |
 | 08 | [`08-pfaendungsfreigrenzen-tabelle-2026.docx`](08-pfaendungsfreigrenzen-tabelle-2026.docx) | Tabelle § 850c ZPO 2026, Berechnungsbeispiele Carmen und Heinrich |
 | 09 | [`09-schuldnerschutzantrag-765a-zpo.docx`](09-schuldnerschutzantrag-765a-zpo.docx) | Antrag Schuldner wegen Erkrankung Hilde, BGH-Linie, Stellungnahme |
@@ -86,7 +86,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | 11 | [`11-p-konto-bescheinigung-pruefung.docx`](11-p-konto-bescheinigung-pruefung.docx) | P-Konto-Bescheinigung Carmen, § 850k ZPO, Abgrenzung Lohnpfändung |
 | 12 | [`12-berliner-raeumung-vs-vollraeumung.docx`](12-berliner-raeumung-vs-vollraeumung.docx) | Kostenvergleich, Entscheidung Mandantin, Rückfallplanung |
 | 13 | [`13-folge-mietverhaeltnis-und-ankuendigung-bgb.docx`](13-folge-mietverhaeltnis-und-ankuendigung-bgb.docx) | Nutzungsentschädigung § 546a BGB, Kündigungswirksamkeit, Kaution |
-| 14 | [`14-zvg-pruefung-eigentumsverhaeltnisse.docx`](14-zvg-pruefung-eigentumsverhaeltnisse.docx) | ZVG-Ausschluss (Mieter kein Eigentümer), Mobiliarpfaendung als Alternative |
+| 14 | [`14-zvg-pruefung-eigentumsverhaeltnisse.docx`](14-zvg-pruefung-eigentumsverhaeltnisse.docx) | ZVG-Ausschluss (Mieter kein Eigentümer), Mobiliarpfändung als Alternative |
 | 15 | [`15-protokoll-gv-pfaendungsversuch.docx`](15-protokoll-gv-pfaendungsversuch.docx) | GV-Protokoll 29.01.2026, Inventarliste, § 765a-Verzögerung |
 | 16 | [`16-mobiliarpfaendung-katalog.docx`](16-mobiliarpfaendung-katalog.docx) | Einzelprüfung § 811 ZPO, pfändbare Gegenstände, VW Crafter § 811a ZPO |
 | 17 | [`17-erinnerung-766-zpo-pruefung.docx`](17-erinnerung-766-zpo-pruefung.docx) | Schuldnerrechtsbehelf § 766 ZPO, drei Einwände geprüft, Stellungnahme |
@@ -94,7 +94,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | 19 | [`19-vergleichsoption-mit-mietern.docx`](19-vergleichsoption-mit-mietern.docx) | Angebot Schuldnerseite, Gegenangebot Kanzlei, Entscheidungsmatrix |
 | 20 | [`20-rechnung-an-mandantin.docx`](20-rechnung-an-mandantin.docx) | Honorarrechnung Nr. 2026-0188-01, RVG VV 3309, Kostenerstattung § 788 ZPO |
 | 21 | [`21-kommunikation-jugendamt-sozialamt.docx`](21-kommunikation-jugendamt-sozialamt.docx) | JA-Stellungnahme, VG Hamburg 8 K 188/26, Sozialhilfe-Kollision |
-| 22 | [`22-mandantenmemo-go-no-go-raeumung.docx`](22-mandantenmemo-go-no-go-raeumung.docx) | Go/No-Go-Analyse Raeumung März 2026, Blockierungskriterien, Ausblick |
+| 22 | [`22-mandantenmemo-go-no-go-raeumung.docx`](22-mandantenmemo-go-no-go-raeumung.docx) | Go/No-Go-Analyse Räumung März 2026, Blockierungskriterien, Ausblick |
 | 23 | [`23-kostenfestsetzungsantrag-entwurf.docx`](23-kostenfestsetzungsantrag-entwurf.docx) | KFB-Entwurf § 103 ff. ZPO, Kostenpositionen Vorprozess, Verfahren |
 | 24 | [`24-mahnbescheid-online-vb-pruefung.docx`](24-mahnbescheid-online-vb-pruefung.docx) | MahnB/VB-Online für Nutzungsentschädigung § 546a BGB, Titelschaffung |
 
@@ -106,15 +106,15 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 | Datei | Inhalt |
 |---|---|
-| [`docx/pfaendungs-und-ueberweisungsbeschluss-stadt-hamburg.docx`](docx/pfaendungs-und-ueberweisungsbeschluss-stadt-hamburg.docx) | Beschlussentwurf PfUEB Lohnpfändung Carmen gegen Drittschuldner FHH |
+| [`docx/pfaendungs-und-ueberweisungsbeschluss-stadt-hamburg.docx`](docx/pfaendungs-und-ueberweisungsbeschluss-stadt-hamburg.docx) | Beschlussentwurf PfÜB Lohnpfändung Carmen gegen Drittschuldner FHH |
 | [`docx/vollstreckungserinnerung-766-zpo.docx`](docx/vollstreckungserinnerung-766-zpo.docx) | Stellungnahme Gläubigerin zur § 766 ZPO-Erinnerung der Schuldner |
-| [`docx/raeumungs-antrag-gv-lattermann.docx`](docx/raeumungs-antrag-gv-lattermann.docx) | Formaler Vollstreckungsauftrag Raeumung § 885 ZPO an GV Lattermann |
+| [`docx/raeumungs-antrag-gv-lattermann.docx`](docx/raeumungs-antrag-gv-lattermann.docx) | Formaler Vollstreckungsauftrag Räumung § 885 ZPO an GV Lattermann |
 
 ### XLSX
 
 | Datei | Inhalt |
 |---|---|
-| [`xlsx/pfaendungsfreigrenzen-2026-berechnung.xlsx`](xlsx/pfaendungsfreigrenzen-2026-berechnung.xlsx) | Pfaendungsfreigrenzen-Tabelle 2026, Berechnung Carmen, Tilgungsplan 18 Monate |
+| [`xlsx/pfaendungsfreigrenzen-2026-berechnung.xlsx`](xlsx/pfaendungsfreigrenzen-2026-berechnung.xlsx) | Pfändungsfreigrenzen-Tabelle 2026, Berechnung Carmen, Tilgungsplan 18 Monate |
 | [`xlsx/kostenuebersicht-gv-vollstreckungs.xlsx`](xlsx/kostenuebersicht-gv-vollstreckungs.xlsx) | Vollstreckungskosten § 788 ZPO, Forderungsberechnung, Erloesprognose |
 
 ### E-Mails (.eml)
@@ -122,9 +122,9 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | Datei | Inhalt |
 |---|---|
 | [`emails/2026-01-03_hausverwaltung-an-kanzlei-mandatserteilung.eml`](emails/2026-01-03_hausverwaltung-an-kanzlei-mandatserteilung.eml) | Grewenig GmbH erteilt Mandat, Vollmacht, Unterlagen, Zielbeschreibung |
-| [`emails/2026-01-07_kanzlei-an-gv-lattermann-auftrag.eml`](emails/2026-01-07_kanzlei-an-gv-lattermann-auftrag.eml) | Kanzlei beauftragt GV mit Raeumung, Vermögensauskunft, § 802l ZPO |
+| [`emails/2026-01-07_kanzlei-an-gv-lattermann-auftrag.eml`](emails/2026-01-07_kanzlei-an-gv-lattermann-auftrag.eml) | Kanzlei beauftragt GV mit Räumung, Vermögensauskunft, § 802l ZPO |
 | [`emails/2026-01-29_gv-lattermann-an-kanzlei-pfaendungsversuch-bericht.eml`](emails/2026-01-29_gv-lattermann-an-kanzlei-pfaendungsversuch-bericht.eml) | GV berichtet über Pfändungsversuch 29.01.2026, Inventarliste, § 765a-Verzögerung |
-| [`emails/2026-02-03_sparda-hamburg-an-kanzlei-drittschuldnererklaerung.eml`](emails/2026-02-03_sparda-hamburg-an-kanzlei-drittschuldnererklaerung.eml) | Sparda Hamburg: Drittschuldnererklaerung § 840 ZPO, P-Konto-Status, Freibetrag |
+| [`emails/2026-02-03_sparda-hamburg-an-kanzlei-drittschuldnererklaerung.eml`](emails/2026-02-03_sparda-hamburg-an-kanzlei-drittschuldnererklaerung.eml) | Sparda Hamburg: Drittschuldnererklärung § 840 ZPO, P-Konto-Status, Freibetrag |
 
 ### PDFs
 
@@ -137,9 +137,9 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 | Datei | Inhalt |
 |---|---|
-| [`jpg/eppendorfer-weg-188-hauseingang.jpg`](jpg/eppendorfer-weg-188-hauseingang.jpg) | Hauseingang Eppendorfer Weg 188 (Referenzfoto, Hamburg-Eimsbuettel) |
+| [`jpg/eppendorfer-weg-188-hauseingang.jpg`](jpg/eppendorfer-weg-188-hauseingang.jpg) | Hauseingang Eppendorfer Weg 188 (Referenzfoto, Hamburg-Eimsbüttel) |
 | [`jpg/wohnung-1og-links-mobiliar-zustand.jpg`](jpg/wohnung-1og-links-mobiliar-zustand.jpg) | Wohnungszustand 1. OG links — Mobiliarzustand Pfändungsversuch 29.01.2026 |
-| [`jpg/gerichtsvollzieher-amt-eimsbuettel-eingang.jpg`](jpg/gerichtsvollzieher-amt-eimsbuettel-eingang.jpg) | GV-Amt Bezirk Hamburg-Eimsbuettel, Sieveking-Allee 10 (Referenzfoto) |
+| [`jpg/gerichtsvollzieher-amt-eimsbuettel-eingang.jpg`](jpg/gerichtsvollzieher-amt-eimsbuettel-eingang.jpg) | GV-Amt Bezirk Hamburg-Eimsbüttel, Sieveking-Allee 10 (Referenzfoto) |
 
 ---
 
@@ -152,14 +152,14 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 |---|---|
 | Räumungstitel | Rechtskräftig seit 15.03.2026 |
 | § 765a ZPO Schuldnerschutzantrag | AG-Entscheidung ausstehend (ca. 14.02.2026) |
-| PfUEB Lohnpfändung Carmen (Stadt Hamburg) | Beantragt; Drittschuldnererklaerung ausstehend |
+| PfÜB Lohnpfändung Carmen (Stadt Hamburg) | Beantragt; Drittschuldnererklärung ausstehend |
 | Kontopfändung Sparda Hamburg | Zugestellt; P-Konto-Schutz greift (kein pfaeaendbares Guthaben zum Stichtag) |
 | Vermögensauskunft | Termin 04.02.2026 (Ergebnis ausstehend) |
-| Mobiliarpfaendung | Protokolliert 29.01.2026; Versteigerung ca. 01.03.2026 |
+| Mobiliarpfändung | Protokolliert 29.01.2026; Versteigerung ca. 01.03.2026 |
 | § 766 Erinnerung Schuldner | Stellungnahme Kanzlei bis 09.02.2026 |
 | Insolvenzantrag Heinrich | Noch nicht gestellt (Stand 14.02.2026) |
 | Vergleich | Gegenangebot Kanzlei abgegeben; Schuldnerantwort ausstehend |
 | Räumungstermin | Nach § 765a-Entscheidung, geplant März 2026 |
 
-Bearbeiterin: **RA Dr. Klaus Roosendaal-Eichmueller**, Schwingenstein Roosendaal Partner mbB, Hamburg
-GV: **OAR Anke Lattermann**, Bezirk Hamburg-Eimsbuettel
+Bearbeiterin: **RA Dr. Klaus Roosendaal-Eichmüller**, Schwingenstein Roosendaal Partner mbB, Hamburg
+GV: **OAR Anke Lattermann**, Bezirk Hamburg-Eimsbüttel

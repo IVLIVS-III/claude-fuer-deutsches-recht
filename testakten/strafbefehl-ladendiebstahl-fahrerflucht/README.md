@@ -149,4 +149,4 @@ Diese Arbeitsakte bildet das vollständige Workflow eines **Strafbefehlsverfahre
 
 ---
 
-*Repository: claude-fuer-deutsches-recht · Akte: strafbefehl-ladendiebstahl-fahrerflucht*
+*Repository: claude-für-deutsches-recht · Akte: strafbefehl-ladendiebstahl-fahrerflucht*

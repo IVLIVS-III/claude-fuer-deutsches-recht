@@ -80,8 +80,8 @@ Der Sanierungsertrag aus Forderungsverzicht (22 Mio EUR) übersteigt deutlich di
 Hauptproblematik:
 
 1. **Debt-Equity-Swap (DES) 8 Mio EUR.** Banken-Konsortium übernimmt 35 % der Anteile gegen Verzicht auf Forderungen. Steuerlich: Werthaltige Forderung wird in Einlage umgewandelt; Sanierungsertrag entsteht nur, soweit Forderung nicht werthaltig war. Bewertung der Werthaltigkeit ist Streitpunkt.
-2. **§ 8c KStG-Risiko.** Anteilsübertragung 35 % an Banken-Konsortium überschreitet die 25 %-Schwelle des § 8c Abs. 1 Satz 1 KStG. Anteiliger Verlustvortrag (6 Mio EUR KSt) geht teilweise unter. § 8d KStG-Antrag (fortfuehrungsgebundener Verlustvortrag) als Schutzmassnahme.
-3. **§ 8c Abs. 1a KStG (Sanierungsklausel) revitalisiert?** EU-Beihilfeproblematik; Pruefung im Plan-Dokument.
+2. **§ 8c KStG-Risiko.** Anteilsübertragung 35 % an Banken-Konsortium überschreitet die 25 %-Schwelle des § 8c Abs. 1 Satz 1 KStG. Anteiliger Verlustvortrag (6 Mio EUR KSt) geht teilweise unter. § 8d KStG-Antrag (fortführungsgebundener Verlustvortrag) als Schutzmassnahme.
+3. **§ 8c Abs. 1a KStG (Sanierungsklausel) revitalisiert?** EU-Beihilfeproblematik; Prüfung im Plan-Dokument.
 
 ## Aktenstruktur
 
@@ -119,7 +119,7 @@ sanierungsgewinn-starug-plan-windenergie-pellbach-2026/
 - § 7b GewStG i.V.m. § 36 Abs. 2c GewStG — gewerbesteuerliche Parallelregelung: https://dejure.org/gesetze/GewStG/7b.html
 - § 8c KStG — schädlicher Beteiligungserwerb: https://dejure.org/gesetze/KStG/8c.html
 - § 8c Abs. 1a KStG — Sanierungsklausel
-- § 8d KStG — fortfuehrungsgebundener Verlustvortrag: https://dejure.org/gesetze/KStG/8d.html
+- § 8d KStG — fortführungsgebundener Verlustvortrag: https://dejure.org/gesetze/KStG/8d.html
 - § 11 KStG — Liquidationsbesteuerung
 - §§ 4 ff. StaRUG — Restrukturierungsplan: https://dejure.org/gesetze/StaRUG
 - § 31 StaRUG — Anzeige des Restrukturierungsvorhabens
@@ -131,14 +131,14 @@ sanierungsgewinn-starug-plan-windenergie-pellbach-2026/
 - **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — § 5 Abs. 2a EStG bei Rangrücktritt mit Tilgungsvorbehalt aus zukünftigen Gewinnen
 - **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Voraussetzungen der Passivierung; wirtschaftliche Belastung
 - **BFH, Urt. v. 26.02.2003 — II R 19/01** — Verbindlichkeiten bleiben über Liquidation hinaus
-- **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** — Os. 7: Wegfall mit Erlöschen mangels Steuersubjekt; vorgehend zu BFH I R 34/12
+- **FG Köln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** — Os. 7: Wegfall mit Erlöschen mangels Steuersubjekt; vorgehend zu BFH I R 34/12
 - **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — Streitstand nicht evident rechtsfehlerhaft
-- **FG Koeln, Urt. v. 04.11.2025 — 12 K 1413/25** — Antragsfristen § 3a Abs. 4 EStG
+- **FG Köln, Urt. v. 04.11.2025 — 12 K 1413/25** — Antragsfristen § 3a Abs. 4 EStG
 - **FG Düsseldorf, Urt. v. 18.09.2018 — 6 K 454/15 K, DStRE 2019** — Mindestbesteuerung Definitiveffekt; Rev. anh. BFH I R 36/18 (ausgesetzt BVerfG 2 BvL 19/14)
 
 ### Verwaltungsauffassung
 
-- **OFD Frankfurt a. M., Rundverfügung v. 26.07.2021 — S 2743 A-12-St 523, Originalquelle oder frei pruefbare Quelle vor Ausgabe pruefen**
+- **OFD Frankfurt a. M., Rundverfügung v. 26.07.2021 — S 2743 A-12-St 523, Originalquelle oder frei prüfbare Quelle vor Ausgabe prüfen**
 - **OFD Frankfurt a. M., Rundverfügung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**
-- **OFD Frankfurt v. 27.12.2018, Originalquelle oder frei pruefbare Quelle vor Ausgabe pruefen** — Einsprüche Mindestbesteuerung ruhend
+- **OFD Frankfurt v. 27.12.2018, Originalquelle oder frei prüfbare Quelle vor Ausgabe prüfen** — Einsprüche Mindestbesteuerung ruhend
 - **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014, akt. 22.09.2017, DB 2017, 2580**

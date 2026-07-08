@@ -1,4 +1,4 @@
-# Testakte – Initiative Lausitzer Lebensraum e.V. ./. Polizeipraesidium Cottbus (Polizeiverfuegung Anti-Kohle-Versammlung Forst Lausitz)
+# Testakte – Initiative Lausitzer Lebensraum e.V. ./. Polizeipräsidium Cottbus (Polizeiverfügung Anti-Kohle-Versammlung Forst Lausitz)
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
@@ -16,11 +16,11 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Zugehoerige Plugins:** [`verhaeltnismaessigkeitspruefer`](../../verhaeltnismaessigkeitspruefer/), [`fachanwalt-verwaltungsrecht`](../../fachanwalt-verwaltungsrecht/), [`versammlungsrecht`](../../versammlungsrecht/)
+**Zugehörige Plugins:** [`verhaeltnismaessigkeitspruefer`](../../verhaeltnismaessigkeitspruefer/), [`fachanwalt-verwaltungsrecht`](../../fachanwalt-verwaltungsrecht/), [`versammlungsrecht`](../../versammlungsrecht/)
 
 ## Szenario in einer Zeile
 
-Die Initiative Lausitzer Lebensraum e.V. meldet fuer den 17. Juni 2026 in Forst (Lausitz) eine Versammlung gegen die geplante Laufzeitverlaengerung des Tagebaus Jaenschwalde-Nord an. Kernstueck ist eine performative Erdaushebung mit dem Titel "Vier Stufen der Trauer um den Lausitzer Wald". Das Polizeipraesidium Cottbus erlaesst eine Polizeiverfuegung mit drei einschneidenden Auflagen: Erdaushebung untersagt, Lautstaerke auf 65 dB(A) begrenzt, Aufstellort 250 m verlegt. Eilantrag nach § 80 Abs. 5 VwGO an das VG Cottbus 3 L 188/26 (Vors. RiVG Dr. Susanne Marquardt-Heuser). Stattgabe am 11.06.2026 wegen Art. 8 GG.
+Die Initiative Lausitzer Lebensraum e.V. meldet für den 17. Juni 2026 in Forst (Lausitz) eine Versammlung gegen die geplante Laufzeitverlängerung des Tagebaus Jänschwalde-Nord an. Kernstück ist eine performative Erdaushebung mit dem Titel "Vier Stufen der Trauer um den Lausitzer Wald". Das Polizeipräsidium Cottbus erlaesst eine Polizeiverfügung mit drei einschneidenden Auflagen: Erdaushebung untersagt, Lautstärke auf 65 dB(A) begrenzt, Aufstellort 250 m verlegt. Eilantrag nach § 80 Abs. 5 VwGO an das VG Cottbus 3 L 188/26 (Vors. RiVG Dr. Susanne Marquardt-Heuser). Stattgabe am 11.06.2026 wegen Art. 8 GG.
 
 ## Mandantin und Beteiligte
 
@@ -28,30 +28,30 @@ Die Initiative Lausitzer Lebensraum e.V. meldet fuer den 17. Juni 2026 in Forst 
 - **1. Vorsitzender:** Dr. Werner-Karl Pohlmann-Brandenburg
 - **Bearbeitung:** RAin Dr. Friederike Hesselmann-Sauerbruch, Pohlmann und Pohlmann (Berlin)
 - **Aktenzeichen Kanzlei:** PoPo-2026-VR-0617
-- **Gegnerin:** Polizeipraesidium Cottbus / Ordnungsamt Stadt Forst
+- **Gegnerin:** Polizeipräsidium Cottbus / Ordnungsamt Stadt Forst
 - **Gericht:** VG Cottbus, Az. 3 L 188/26, Vors. RiVG Dr. Susanne Marquardt-Heuser
-- **Performance-Kuenstler:** Helmut Wischnewski (Konzept Erdaushebung)
+- **Performance-Künstler:** Helmut Wischnewski (Konzept Erdaushebung)
 - **Schallgutachter:** Dipl.-Ing. Burgkrieger, TÜV Nord
 
 ## Was diese Akte demonstriert
 
-- Vierstufige Verhaeltnismaessigkeitspruefung (legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit) im Versammlungsrecht
-- Art. 8 Abs. 1 GG als Pruefungsmaszstab im Eilrechtsschutz
+- Vierstufige Verhältnismäßigkeitsprüfung (legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit) im Versammlungsrecht
+- Art. 8 Abs. 1 GG als Prüfungsmaszstab im Eilrechtsschutz
 - Auflagen-Dogmatik nach § 15 Abs. 1 VersFG bzw. § 15 VersG Brandenburg
 - Eilantrag nach § 80 Abs. 5 VwGO und VG-Beschluss
 - Padlet-Auswertung der "Vier Stufen der Trauer" als didaktisches Aufarbeitungswerkzeug
 - Schalltechnisches Gutachten als Beweismittel im Eilverfahren
-- Performance-Konzept als verfassungsrechtlich geschuetzte Versammlungsform
+- Performance-Konzept als verfassungsrechtlich geschützte Versammlungsform
 
-## Aktenstuecke
+## Aktenstücke
 
-01. Mandatsnotiz Erstgespraech Pohlmann-Brandenburg
-02. Beteiligte und Verfahrensuebersicht
+01. Mandatsnotiz Erstgespräch Pohlmann-Brandenburg
+02. Beteiligte und Verfahrensübersicht
 03. Versammlungsanmeldung 27.05.2026
 04. Eingangsbestaetigung Ordnungsamt 28.05.2026
-05. Anhoerung Polizei 30.05.2026
+05. Anhörung Polizei 30.05.2026
 06. Stellungnahme Veranstalter 31.05.2026
-07. Polizeiverfuegung 02.06.2026
+07. Polizeiverfügung 02.06.2026
 08. Vermerk Vorstandsbesprechung 03.06.
 09. Performance-Konzept Erdaushebung Wischnewski
 10. Schalltechnisches Gutachten Burgkrieger
@@ -66,18 +66,18 @@ Die Initiative Lausitzer Lebensraum e.V. meldet fuer den 17. Juni 2026 in Forst 
 19. Abschlussvermerk Kanzlei Pohlmann 15.06.
 20. Padlet-Auswertung "Vier Stufen der Trauer"
 21. Anwaltsvollmacht Initiative Lausitzer Lebensraum ./. Pohlmann und Pohlmann
-22. Widerspruch gegen Polizeiverfuegung (Auflagen 1, 2, 4, 5, 6, 8)
+22. Widerspruch gegen Polizeiverfügung (Auflagen 1, 2, 4, 5, 6, 8)
 23. Kostenfestsetzungsantrag VG Cottbus 3 L 188/26 (3.687,12 EUR, Quote 5/6)
 24. Vorbereitung Fortsetzungsfeststellungsklage (Wiederholungsgefahr + Rehabilitation)
 25. Pressespiegel Lausitzer Rundschau, Maerkische Allgemeine, Tagesspiegel, RBB
-26. Verhaeltnismaessigkeitspruefung Klausurspur (vier Stufen pro Auflage)
+26. Verhältnismäßigkeitsprüfung Klausurspur (vier Stufen pro Auflage)
 
 ## Normen und Rechtsprechung
 
 - Art. 8 Abs. 1 GG (Versammlungsfreiheit)
-- § 15 VersG Brandenburg (Auflagen, Beschraenkungen)
+- § 15 VersG Brandenburg (Auflagen, Beschränkungen)
 - § 80 Abs. 5 VwGO (aufschiebende Wirkung im Eilrechtsschutz)
 - BVerfGE 69, 315 (Brokdorf-Beschluss)
 - BVerfGE 87, 399 (versammlungsrechtliche Auflagen)
-- BVerfG 1 BvR 233/81 (Versammlungsfreiheit, Verhaeltnismaessigkeit)
+- BVerfG 1 BvR 233/81 (Versammlungsfreiheit, Verhältnismäßigkeit)
 - VG Cottbus 3 L 188/26 (Stattgabe Eilantrag)

@@ -37,13 +37,13 @@ Nach dem Tod des Fotografen Armin Lohse streiten Ehefrau, Tochter aus erster Ehe
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | 01 mandatsnotiz erstgespraech.docx |
+| `01_mandatsnotiz_erstgespraech.docx` | 01 mandatsnotiz erstgespräch.docx |
 | `02_chronologie_arbeitsstand.docx` | 02 chronologie arbeitsstand.docx |
 | `03_sachverhalt_aus_mandantensicht.docx` | 03 sachverhalt aus mandantensicht.docx |
 | `04_gegenseite_standpunkt.docx` | 04 gegenseite standpunkt.docx |
 | `05_testament_und_notizzettel.docx` | 05 testament und notizzettel.docx |
 | `06_bildagentur_rolle_rechte.docx` | 06 bildagentur rolle rechte.docx |
-| `09_entwurf_naechstes_schreiben.docx` | 09 entwurf naechstes schreiben.docx |
+| `09_entwurf_naechstes_schreiben.docx` | 09 entwurf nächstes schreiben.docx |
 | `csv/fristen_und_sicherung.csv` | csv/fristen und sicherung.csv |
 | `emails/2026-06-22_agentur_erbnachweis.eml` | emails/2026 06 22 agentur erbnachweis.eml |
 | `pdfs/passwortsafe_fundnotiz.pdf` | pdfs/passwortsafe fundnotiz.pdf |

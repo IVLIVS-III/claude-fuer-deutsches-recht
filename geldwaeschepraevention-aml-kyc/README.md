@@ -43,7 +43,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Großes, freistehendes Plugin für Geldwäscheprävention, AML/CFT, KYC, GwG-Risikomanagement, wirtschaftlich Berechtigte, PEP, Sanktionsscreening, Verdachtsmeldungen, Transparenzregister, interne Sicherungsmaßnahmen, Schulung, Audit, Behördenverfahren, Bußgeld und Reputationskrisen.
 
 Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugins, keine externen Agenten und keine besondere Kanzlei- oder Compliance-Software. Wenn kein KYC-Tool, Screening-Tool, goAML-Zugang, Transparenzregisterzugang, CRM, ERP oder DMS angeschlossen ist, arbeitet es mit manuellen Uploads oder einem ausdrücklich markierten Simulationsmodus.
@@ -150,14 +150,14 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 57 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `aml-kryptotransaktionen-mica-spezial` | Wenn es um AML: Krypto Travel Rule in Geldwäscheprävention, AML und KYC geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
-| `aml-kyc-start-chronologie-fristen` | Wenn es um Geldwaeschepraeventition AML/KYC — Allgemein in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
+| `aml-kyc-start-chronologie-fristen` | Wenn es um Geldwäschepräventition AML/KYC — Allgemein in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `aml-trade-based-money-laundering-spezial` | Wenn es um AML: Trade-Based in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `aml-verdachtsmeldung-fiu-leitfaden` | Wenn es um AML: FIU-Verdachtsmeldung in Geldwäscheprävention, AML und KYC geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
 | `anschluss-routing` | Wenn es um Anschluss-Routing in Geldwäscheprävention, AML und KYC geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
@@ -185,9 +185,9 @@ Automatisch generierte Komplett-Liste aller 57 Skills in diesem Plugin. Beschrei
 | `geldwaesche-transparenzregister` | Wenn es um Transparenzregister und Unstimmigkeitsmeldung in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `geldwaesche-ubo-wirtschaftlich-berechtigte` | Wenn es um Wirtschaftlich Berechtigte und UBO in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `geldwaesche-verdachtsmeldung-verpflichteten` | Wenn es um Verdachtsmeldung an FIU/goAML in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `geldwaesche-verhandlung-vergleich-und-eskalation` | Wenn es um Geldwaesche: Verhandlung, Vergleich und Eskalation in Geldwäscheprävention, AML und KYC geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| `geldwaesche-verhandlung-vergleich-und-eskalation` | Wenn es um Geldwäsche: Verhandlung, Vergleich und Eskalation in Geldwäscheprävention, AML und KYC geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `geldwaesche-verpflichteten-check` | Wenn es um Verpflichtetenstatus nach GwG in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `geldwaeschepraevention-erstpruefung-und-mandatsziel` | Wenn es um Geldwaeschepraevention: Erstprüfung, Rollenklärung und Mandatsziel in Geldwäscheprävention, AML und KYC geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit... |
+| `geldwaeschepraevention-erstpruefung-und-mandatsziel` | Wenn es um Geldwäscheprävention: Erstprüfung, Rollenklärung und Mandatsziel in Geldwäscheprävention, AML und KYC geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit... |
 | `goaml-gwg-spezial-kommandocenter` | Wenn es um Goaml: Risikoampel, Gegenargumente und Verteidigungslinien in Geldwäscheprävention, AML und KYC geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschrit... |
 | `gwg-tatbestand-beweis-und-belege` | Wenn es um GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage in Geldwäscheprävention, AML und KYC geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `kommandocenter-compliance-dokumentation-und-akte` | Wenn es um Kommandocenter: Compliance-Dokumentation und Aktenvermerk in Geldwäscheprävention, AML und KYC geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken... |
@@ -202,7 +202,7 @@ Automatisch generierte Komplett-Liste aller 57 Skills in diesem Plugin. Beschrei
 | `schulung-quellenkarte` | Wenn es um Schulung Quellenkarte in Geldwäscheprävention, AML und KYC geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `simulation-mandantenkommunikation-entscheidungsvorlage` | Wenn es um Simulation: Mandantenkommunikation und Entscheidungsvorlage in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `sonderfall-edge-geldwaesche` | Wenn es um Chronologie: Sonderfall und Edge-Case-Prüfung in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
-| `spezial-behoerdenverfahren-schriftsatz-brief-und-memo-bausteine` | Wenn es um Behoerdenverfahren: Schriftsatz-, Brief- und Memo-Bausteine in Geldwäscheprävention, AML und KYC geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, B... |
+| `spezial-behoerdenverfahren-schriftsatz-brief-und-memo-bausteine` | Wenn es um Behördenverfahren: Schriftsatz-, Brief- und Memo-Bausteine in Geldwäscheprävention, AML und KYC geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, B... |
 | `spezial-schulung-livequellen-und-rechtsprechungscheck` | Wenn es um Schulung: Livequellen- und Rechtsprechungscheck in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `testlauf-beweislast-transaktionsmonitoring` | Wenn es um Testlauf: Beweislast, Darlegungslast und Substantiierung in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `transaktionsmonitoring-international-schnittstellen` | Wenn es um Transaktionsmonitoring: Internationaler Bezug und Schnittstellen in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschri... |

@@ -5,13 +5,13 @@ erkennen (anderes Rechtsregime; auf Verlangen Verhalten + Leistung).
 
 ## Zeugnis-Volltext (qualifiziert nach $ 16 II BBiG)
 
-> **Handwerksbetrieb Mueller GmbH**
+> **Handwerksbetrieb Müller GmbH**
 >
 > **Ausbildungszeugnis**
 >
 > Herr Max Mustermann, geboren am 1. Mai 2003, hat vom 1. August 2021 bis zum 31. Juli 2024 in unserem Betrieb den Ausbildungsberuf Tischler erlernt.
 >
-> Herr Mustermann hat die Ausbildungsinhalte stets schnell und sicher aufgenommen. Er zeigte grosses Interesse an seinem Ausbildungsberuf und zeichnete sich durch hervorragende Berufsschulleistungen aus. Sein Verhalten gegenueber Vorgesetzten, Kollegen und Kunden war stets einwandfrei.
+> Herr Mustermann hat die Ausbildungsinhalte stets schnell und sicher aufgenommen. Er zeigte großes Interesse an seinem Ausbildungsberuf und zeichnete sich durch hervorragende Berufsschulleistungen aus. Sein Verhalten gegenüber Vorgesetzten, Kollegen und Kunden war stets einwandfrei.
 
 ## Erwartete Befunde
 

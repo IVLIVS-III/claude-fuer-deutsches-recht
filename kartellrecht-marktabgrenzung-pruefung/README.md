@@ -43,7 +43,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Globales Kartellrechts- und Competition-Law-Plugin mit Marktabgrenzung als harter Kernachse: GWB, Art. 101 und Art. 102 AEUV, EU-Fusionskontrolle, Bundeskartellamt, DG Competition, FTC/DOJ, Dawn Raids, Leniency, Private Enforcement, sektorale Deep Dives und vorsichtige Jurisdiktionschecks weltweit.
 
 ## Installation in der Plugin-Umgebung
@@ -103,7 +103,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 309 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -112,7 +112,7 @@ Automatisch generierte Komplett-Liste aller 309 Skills in diesem Plugin. Beschre
 | `1-gwb-kartellverbot-nationale-pruefung` | Wenn es um Paragraf 1 GWB Kartellverbot nationale Prüfung in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachw... |
 | `19a-gwb-relative-abuse-economic` | Wenn es um Paragraf 19a GWB überragende marktübergreifende Bedeutung in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits... |
 | `abuse-of-economic-dependence` | Wenn es um Relative Marktmacht und Economic Dependence in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `aeuv-behoerden-gericht-und-registerweg` | Wenn es um Aeuv: Behörden-, Gerichts- oder Registerweg in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `aeuv-behoerden-gericht-und-registerweg` | Wenn es um AEUV: Behörden-, Gerichts- oder Registerweg in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `algorithmic-collusion-ai-pricing` | Wenn es um Algorithmic Collusion und digitale Werkzeuge Pricing in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `alleinvertrieb-kundengruppen-alternative` | Wenn es um Alleinvertrieb Kundengruppen Gebietsschutz in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisf... |
 | `alternative-marktdefinition-eng` | Wenn es um Alternative Marktdefinition — Enger in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -361,7 +361,7 @@ Automatisch generierte Komplett-Liste aller 309 Skills in diesem Plugin. Beschre
 | `pruefinstanz-franchise-vertrag` | Wenn es um Prüfinstanz: Fristen, Form, Zuständigkeit und Rechtsweg in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `public-procurement-bid-rigging` | Wenn es um Bid Rigging und Vergabe in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `quellen-livecheck` | Wenn es um Rechtsquellen-Livecheck in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `raeumlicher-compliance-dokumentation-und-akte` | Wenn es um Raeumlicher: Compliance-Dokumentation und Aktenvermerk in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- u... |
+| `raeumlicher-compliance-dokumentation-und-akte` | Wenn es um Räumlicher: Compliance-Dokumentation und Aktenvermerk in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- u... |
 | `raeumlicher-markt-abgrenzung` | Wenn es um Räumlicher Markt — Abgrenzung in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `rechtsabteilung-gun-informationsaustausch` | Wenn es um Rechtsabteilung: Gun-Jumping im Signing-to-Closing-Fenster in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `rechtsabteilung-informationsaustausch-im-branchenverband` | Wenn es um Rechtsabteilung: Informationsaustausch im Branchenverband in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
@@ -395,7 +395,7 @@ Automatisch generierte Komplett-Liste aller 309 Skills in diesem Plugin. Beschre
 | `siec-test-eu-merger-control` | Wenn es um SIEC-Test EU Fusionskontrolle in Kartellrecht — Marktabgrenzungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `siec-test-horizontale-fusion` | Wenn es um SIEC-Test horizontale Fusion in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `spezial-nachfrage-livequellen-und-rechtsprechungscheck` | Wenn es um Nachfrage: Livequellen- und Rechtsprechungscheck in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `spezial-pruefinstanz-fristen-form-und-zustaendigkeit` | Wenn es um Pruefinstanz: Fristen, Form, Zuständigkeit und Rechtsweg in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-pruefinstanz-fristen-form-und-zustaendigkeit` | Wenn es um Prüfinstanz: Fristen, Form, Zuständigkeit und Rechtsweg in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `sportkartellrecht-verbandsregeln` | Wenn es um Sportkartellrecht Verbandsregeln in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `spuerbarkeit-zwischenstaatlichkeit-ssnip-test` | Wenn es um Spürbarkeit und Zwischenstaatlichkeit in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `ssnip-schriftsatz-brief-und-memo-bausteine` | Wenn es um Ssnip: Schriftsatz-, Brief- und Memo-Bausteine in Kartellrecht — Marktabgrenzungsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründun... |

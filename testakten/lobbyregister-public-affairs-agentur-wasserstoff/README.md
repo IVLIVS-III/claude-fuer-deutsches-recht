@@ -45,9 +45,9 @@ Die Spreebogen Regulatory GmbH betreut zwei Mandanten zum geplanten Wasserstoffb
 | [07_stellungnahme_konsortium.docx](07_stellungnahme_konsortium.docx) | Zweite Stellungnahme |
 | [08_quartalsupload_log.docx](08_quartalsupload_log.docx) | Upload- und Fristenlog |
 | [09_finanzdaten_agentur.csv](09_finanzdaten_agentur.csv) | Finanzaufwendungen und Mandatsumsatz |
-| [10_kodex_kontaktleitfaden.docx](10_kodex_kontaktleitfaden.docx) | Offenlegungssaetze und No-Gos |
+| [10_kodex_kontaktleitfaden.docx](10_kodex_kontaktleitfaden.docx) | Offenlegungssätze und No-Gos |
 | [11_rfs_rueckfrage_auftraggeber.docx](11_rfs_rueckfrage_auftraggeber.docx) | Rückfrage zu Hauptauftraggeber/Unterauftrag |
-| [12_finalcheck.docx](12_finalcheck.docx) | Qualitaetsgate |
+| [12_finalcheck.docx](12_finalcheck.docx) | Qualitätsgate |
 | [13_emailauftrag_korrektur_mandant.eml](13_emailauftrag_korrektur_mandant.eml) | Mandanten-E-Mail zur zu breiten Auftraggeberformulierung |
 | [14_interner_slack_export.txt](14_interner_slack_export.txt) | Interner Chat-Export mit Zuordnungschaos |
 | [15_event_einladung_fassung_1_falsch.docx](15_event_einladung_fassung_1_falsch.docx) | Falsch versandte Einladung mit Branchenbehauptung |

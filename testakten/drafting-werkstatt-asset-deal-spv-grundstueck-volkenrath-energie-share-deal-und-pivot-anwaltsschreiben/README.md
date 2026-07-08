@@ -22,11 +22,11 @@ Arbeitsakte zum Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers`.
 
 ## Kurzbild
 
-- Mandantin: **Volkenrath Energie SE**, Berlin (CEO Dr. Claudia Volkenrath-Eichmueller, General Counsel Dr. Franziska Schwingenstein-Pohlmann)
+- Mandantin: **Volkenrath Energie SE**, Berlin (CEO Dr. Claudia Volkenrath-Eichmüller, General Counsel Dr. Franziska Schwingenstein-Pohlmann)
 - Gegenstand: Verkauf der 100%-Tochter **Volkenrath Solar Eppendorf GmbH** (SPV) inkl. Grundstücksrechte 18 ha Eppendorf (Solarpark) an Käufer Steinheim Capital Partners GmbH & Co. KG
 - Käufer: **Steinheim Capital Partners GmbH & Co. KG**, vertreten durch Investmentmanager Dr. Lars Lattermann-Tannenmoor
-- Beratende Kanzlei (Verkaeuferseite): **Roosendaal Birkenhainer Partners mbB**, Berlin; federführend: RA Dr. Henrik Roosendaal, AZ **MR-2026-DR-0717**; Senior Associate: Dr. (iur.) Mira Pohlmann
-- Gegenseite (Käufer-Kanzlei): **Schäfer Schoeneberg Stoll mbB**, Frankfurt
+- Beratende Kanzlei (Verkäuferseite): **Roosendaal Birkenhainer Partners mbB**, Berlin; federführend: RA Dr. Henrik Roosendaal, AZ **MR-2026-DR-0717**; Senior Associate: Dr. (iur.) Mira Pohlmann
+- Gegenseite (Käufer-Kanzlei): **Schäfer Schöneberg Stoll mbB**, Frankfurt
 - Notar: Dr. Konrad Birkenhainer, Berlin — UR-Nr. **188/26**
 - Transaktionswert: ca. 38 Mio. EUR (Enterprise Value); Closing geplant Q4 2026
 - Stichtag dieser Akte: Oktober 2026
@@ -47,7 +47,7 @@ Volkenrath Energie SE beabsichtigt den Verkauf ihrer Tochtergesellschaft Volkenr
 | 2 | Earn-Out 2027 — EBITDA-Definition und Messgröße | BGB § 315, 317 |
 | 3 | MAC-Klausel — Energiekrise als Material Adverse Change | BGB § 242, 313 |
 | 4 | Indemnification Caps und Baskets — Haftungsstruktur | BGB § 276, 433, 453 |
-| 5 | AGB-Pruefung Engineering-Servicevertrag (Anlage zum SPA) | BGB § 305 ff. |
+| 5 | AGB-Prüfung Engineering-Servicevertrag (Anlage zum SPA) | BGB § 305 ff. |
 | 6 | Asset-Deal-Pivot wegen Grunderwerbsteuer | GrEStG § 1 Abs. 3 |
 | 7 | Anmeldung BKartA nach Fusionskontrolle | GWB § 39 ff. |
 | 8 | Redline-Workflow via Word Track Changes mit Gegenseite | intern / Workflow |
@@ -76,7 +76,7 @@ Volkenrath Energie SE beabsichtigt den Verkauf ihrer Tochtergesellschaft Volkenr
 | Indemnification-Struktur | 08 | De minimis Basket, Deductible, Cap, Survival |
 | Asset-Deal-Pivot / GrESt | 09 | GrEStG § 1 Abs. 3, Steuergestaltung, Notartermin |
 | Anwaltsschreiben BKartA | 10 | GWB § 39 ff., Anmeldeformular, Vorabstimmung |
-| AGB-Pruefung § 305 ff. BGB | 11 | Klauselkontrolle Engineering-Servicevertrag |
+| AGB-Prüfung § 305 ff. BGB | 11 | Klauselkontrolle Engineering-Servicevertrag |
 | Word-Finish-Checkliste | 12 | Formatierung, Querverweise, Defined Terms |
 | Kanzleistil-Kalibrierung | 13 | Grossskanzlei vs. Boutique, Tonalität, Formeln |
 | Redline-Workflow | 14 | Track Changes, Accept/Reject, Kommentare Gegenseite |
@@ -105,7 +105,7 @@ Volkenrath Energie SE beabsichtigt den Verkauf ihrer Tochtergesellschaft Volkenr
 | 08 | [`08-indemnification-cap-basket.docx`](08-indemnification-cap-basket.docx) | Indemnification: Cap, Basket, De minimis, Survival |
 | 09 | [`09-asset-deal-pivot-grest.docx`](09-asset-deal-pivot-grest.docx) | Asset-Deal-Pivot wegen GrEStG § 1 Abs. 3 |
 | 10 | [`10-anwaltsschreiben-bka-anmeldung.docx`](10-anwaltsschreiben-bka-anmeldung.docx) | Anwaltsschreiben an BKartA, GWB § 39 ff. |
-| 11 | [`11-agb-pruefung-engineering-vertrag.docx`](11-agb-pruefung-engineering-vertrag.docx) | AGB-Pruefung Engineering-Servicevertrag, § 305 ff. BGB |
+| 11 | [`11-agb-pruefung-engineering-vertrag.docx`](11-agb-pruefung-engineering-vertrag.docx) | AGB-Prüfung Engineering-Servicevertrag, § 305 ff. BGB |
 | 12 | [`12-word-finish-checkliste.docx`](12-word-finish-checkliste.docx) | Word-Finish: Formatierung, Querverweise, Defined Terms |
 | 13 | [`13-kanzleistil-grosskanzlei-vs-boutique.docx`](13-kanzleistil-grosskanzlei-vs-boutique.docx) | Kanzleistil-Kalibrierung Grosskanzlei vs. Boutique |
 | 14 | [`14-redline-workflow-track-changes.docx`](14-redline-workflow-track-changes.docx) | Redline-Workflow: Word Track Changes, Kommentare |
@@ -145,7 +145,7 @@ Volkenrath Energie SE beabsichtigt den Verkauf ihrer Tochtergesellschaft Volkenr
 |---|---|
 | [`emails/2026-03-15_volkenrath-gc-an-kanzlei-mandatserteilung.eml`](emails/2026-03-15_volkenrath-gc-an-kanzlei-mandatserteilung.eml) | GC Volkenrath SE erteilt Mandat an Roosendaal Birkenhainer |
 | [`emails/2026-04-02_kanzlei-intern-drafting-arbeitsverteilung.eml`](emails/2026-04-02_kanzlei-intern-drafting-arbeitsverteilung.eml) | Kanzlei intern: Drafting-Arbeitsverteilung Dr. Roosendaal / Pohlmann |
-| [`emails/2026-07-14_gegenseite-schaefer-schoeneberg-markup.eml`](emails/2026-07-14_gegenseite-schaefer-schoeneberg-markup.eml) | Schäfer Schoeneberg Stoll an Kanzlei: Markup SPA v2 |
+| [`emails/2026-07-14_gegenseite-schaefer-schoeneberg-markup.eml`](emails/2026-07-14_gegenseite-schaefer-schoeneberg-markup.eml) | Schäfer Schöneberg Stoll an Kanzlei: Markup SPA v2 |
 | [`emails/2026-08-05_kanzlei-an-bkarta-vorabstimmung.eml`](emails/2026-08-05_kanzlei-an-bkarta-vorabstimmung.eml) | Kanzlei an BKartA: Vorabstimmung Fusionskontrolle GWB § 39 |
 
 ### PDFs
@@ -181,7 +181,7 @@ Volkenrath Energie SE beabsichtigt den Verkauf ihrer Tochtergesellschaft Volkenr
 | BKartA Vorabstimmung | Eingereicht 05.08.2026; BKartA-AZ B 8-188/26 |
 | GrESt-Voranfrage FA Berlin-Mitte | Eingereicht 12.09.2026; VB-GrESt-2026-0412 |
 | Notartermin Beurkundung | Geplant Dezember 2026; UR-Nr. 188/26 reserviert |
-| AGB Engineering-Servicevertrag | Pruefung abgeschlossen; 3 RED-Klauseln zur Verhandlung |
+| AGB Engineering-Servicevertrag | Prüfung abgeschlossen; 3 RED-Klauseln zur Verhandlung |
 | Closing | Angestrebt Q4 2026 / Januar 2027 |
 
 Bearbeiterin: **RA Dr. Henrik Roosendaal**, Roosendaal Birkenhainer Partners mbB, Berlin (AZ MR-2026-DR-0717)

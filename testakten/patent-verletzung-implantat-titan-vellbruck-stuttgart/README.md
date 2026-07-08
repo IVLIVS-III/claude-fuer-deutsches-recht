@@ -1,4 +1,4 @@
-# Akte: Patentstreit Vellbruck Medizintechnik ./. TitanOrtho / Bochstaedt — Hüftimplantat Titan EP 3 218 922 B1
+# Akte: Patentstreit Vellbruck Medizintechnik ./. TitanOrtho / Bochstädt — Hüftimplantat Titan EP 3 218 922 B1
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
@@ -25,9 +25,9 @@ Arbeitsakte zum Plugin `gewerblicher-rechtsschutz`.
 - **Mandantin:** Vellbruck Medizintechnik GmbH, Stuttgart-Vaihingen (320 Mitarbeiter, ca. 87 Mio. EUR Umsatz 2024), Herstellerin von zementfreien Hüft- und Kniendoprothesen aus Titan.
 - **Patentgegenstand:** EP 3 218 922 B1 ("Schaftimplantat für Hüftendoprothese mit biomimetisch strukturierter poröser Titanoberfläche und lateraler Fin-Geometrie"), erteilt 22.03.2018; validiert in elf europäischen Staaten.
 - **Beklagte zu 1:** TitanOrtho Sp. z o.o., Wroclaw (Polen) — Herstellerin des verletzenden Produkts "TitanFlex Pro".
-- **Beklagte zu 2:** Bochstaedt MedSupply OHG, Aalen — Importeur und Inverkehrbringer "TitanFlex Pro" in Deutschland seit Q4 2024.
+- **Beklagte zu 2:** Bochstädt MedSupply OHG, Aalen — Importeur und Inverkehrbringer "TitanFlex Pro" in Deutschland seit Q4 2024.
 - **Verfahrensbevollmächtigte:** RA Dr. Marie-Henriette Birkenhainer (FA gewerblicher Rechtsschutz, EPA-Zulassung Nr. EPA-D-12885), Kanzlei Birkenhainer & Consulting, München. UPC-Koordination: RA Dr. Gerd Rademakers, Rademakers IP, Düsseldorf. BPatG: PatAnw. Dr. Rolf Gruhl, Gruhl & Teichmann, München.
-- **Hauptverfahren:** UPC Lokale Kammer Düsseldorf, Az. ACT_0188/2026 (Verletzungsklage); BPatG München, 4 Ni 18/26 (Nichtigkeitsklage durch Bochstaedt).
+- **Hauptverfahren:** UPC Lokale Kammer Düsseldorf, Az. ACT_0188/2026 (Verletzungsklage); BPatG München, 4 Ni 18/26 (Nichtigkeitsklage durch Bochstädt).
 - **Sachverständiger:** Dr. habil. Peter Morbach, em. Professor für Werkstoffkunde und Titanverarbeitung, TU Dortmund — Erstgutachten 30.03.2026: alle 5 Merkmale Anspruch 1 wortsinngemäß verletzt.
 
 ---
@@ -92,7 +92,7 @@ Zusätzlicher FRAND-Konflikt mit US-Schwesterfirma Vellbruck MedTech Inc. wegen 
 | 02 | [`02_beteiligte_und_verfahren.docx`](02_beteiligte_und_verfahren.docx) | Verfahrensübersicht, Detaildarstellung Beklagte, Kanzleiteam, Fristen |
 | 03 | [`03_patent_ep_3218922_anspruchsanalyse_aequivalenz.docx`](03_patent_ep_3218922_anspruchsanalyse_aequivalenz.docx) | Hauptanspruch 1, Verletzungsanalyse (alle 5 Merkmale), Äquivalenz, Stand der Technik |
 | 04 | [`04_upc_klage_act_0188_2026_duesseldorf.docx`](04_upc_klage_act_0188_2026_duesseldorf.docx) | UPC-Klageschrift, Anträge, Streitwert 4,5 Mio. EUR, Verfahrensablauf |
-| 05 | [`05_bpatg_nichtigkeitsklage_4ni18_26.docx`](05_bpatg_nichtigkeitsklage_4ni18_26.docx) | BPatG-Nichtigkeitsklage Bochstaedt, Widerlegung NK1/NK2, Hilfsanträge |
+| 05 | [`05_bpatg_nichtigkeitsklage_4ni18_26.docx`](05_bpatg_nichtigkeitsklage_4ni18_26.docx) | BPatG-Nichtigkeitsklage Bochstädt, Widerlegung NK1/NK2, Hilfsanträge |
 | 06 | [`06_markenrecht_titanflex_uwg.docx`](06_markenrecht_titanflex_uwg.docx) | Marke TITANFLEX vs. TitanFlex Pro, Verwechslungsgefahr, UWG-Ansprüche, Abmahnung |
 | 07 | [`07_geschg_drostmann_konstruktionsdaten.docx`](07_geschg_drostmann_konstruktionsdaten.docx) | GeschG-Verletzung, IT-Forensik, Drostmann-Sachverhalt, § 23 GeschG |
 | 08 | [`08_design_de882026.docx`](08_design_de882026.docx) | Eingetragenes Design DE 88-2026, Schutzvoraussetzungen, Verletzung, ergänzender Schutz |
@@ -128,7 +128,7 @@ Zusätzlicher FRAND-Konflikt mit US-Schwesterfirma Vellbruck MedTech Inc. wegen 
 | Datei | Inhalt |
 |-------|--------|
 | [`xlsx/patentmatrix_anspruch_verletzung_aequivalenz.xlsx`](xlsx/patentmatrix_anspruch_verletzung_aequivalenz.xlsx) | Verletzungsmatrix für alle 5 Merkmale des Anspruchs 1; Unteransprüche-Tab; Messwerte µ-CT |
-| [`xlsx/schadensberechnung_lizenzanalogie_p139.xlsx`](xlsx/schadensberechnung_lizenzanalogie_p139.xlsx) | Quartalsumsätze Bochstaedt Q4 2024–Q1 2026; Lizenzanalogie 5,5 % Patent; 1,0 % Marke; entgangener Gewinn |
+| [`xlsx/schadensberechnung_lizenzanalogie_p139.xlsx`](xlsx/schadensberechnung_lizenzanalogie_p139.xlsx) | Quartalsumsätze Bochstädt Q4 2024–Q1 2026; Lizenzanalogie 5,5 % Patent; 1,0 % Marke; entgangener Gewinn |
 
 ---
 

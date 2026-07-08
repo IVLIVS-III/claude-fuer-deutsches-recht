@@ -105,9 +105,9 @@ eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt/
 | Levi Albrecht | Mieter, Vikar Erzbistum Köln (bis 31.07.2028) | – |
 | Femke van Drosten | Mieterin, Medizinstudentin 8. Sem. | – |
 | Mathilda Sonnenfeld | Mieterin, Medizinstudentin 8. Sem., Famulatur | – |
-| Vanessa Hauck-Brüggemann | Vermieter-Anwältin | kanzlei@hauck-brueggemann-mietrecht.de |
-| Wolfgang Lemke | Mieterverein Köln, Sachbearbeiter | lemke@mieterverein-koeln.de |
-| Dipl.-Ing. Hubert Wallesch | SV Schimmelgutachten | wallesch-sv@konstrukt-koeln.de |
+| Vanessa Hauck-Brüggemann | Vermieter-Anwältin | kanzlei@hauck-brüggemann-mietrecht.de |
+| Wolfgang Lemke | Mieterverein Köln, Sachbearbeiter | lemke@mieterverein-köln.de |
+| Dipl.-Ing. Hubert Wallesch | SV Schimmelgutachten | wallesch-sv@konstrukt-köln.de |
 | Jürgen Rheineck | WEG-Verwalter | Immobilienverwaltung Rheineck GmbH |
 
 ---

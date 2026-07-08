@@ -38,7 +38,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin übersetzt große rechtstheoretische, rechtsphilosophische und rechtsmethodologische Denkfiguren in praktische juristische Arbeitsroutinen. Es ist kein Literaturkommentar und keine Namenssammlung. Es fragt: Was macht eine juristische Begründung tragfähig, redlich, demokratisch rückgebunden und praktisch brauchbar?
 
 Das Plugin hilft bei Grundsatzgutachten, Methodenstreit, Rechtsfortbildung, Präjudizienarbeit, Abwägung, Gesetzesbindung, Rechtsrealismus, Systemkritik, Machtkritik und rechtspolitischer Selbstkontrolle. Es eignet sich für Kanzleivermerke, wissenschaftsnahe Memos, strategische Schriftsätze, Gesetzgebungsvorbereitung und Red-Team-Prüfungen.
@@ -51,7 +51,7 @@ Hinzu kommt eine stärker privatrechtliche Theorieachse am Beispiel von Besitz, 
 
 Neu ergänzt ist außerdem eine hayekianisch informierte, aber kritisch kontrollierte Wissensachse: dezentrale Information, stilles Erfahrungswissen, gewachsene Praxis, Regeln als kognitive Entlastung und spontane Ordnung werden als wichtige Erkenntnisquellen behandelt. Zugleich prüft das Plugin, ob Gewohnheit nur schlechte Praxis, Kartelllogik, Umweltlasten, Diskriminierung, Trägheit oder demokratiefeindliche Gesetzgebungsskepsis stabilisiert.
 
-Neu vertieft ist die Legalitäts- und Rechtsstaatsachse: Recht wird nicht schon dadurch gut, dass es formal als Recht auftritt. Entscheidend ist, ob Normen öffentlich, allgemein, zukunftsgerichtet, verständlich, widerspruchsfrei, erfüllbar, stabil und mit der Anwendungspraxis kongruent sind. Diese Achse hilft besonders bei Machtkritik, Verwaltungsrealismus, Rückwirkung, Ausnahmebehauptungen und der Frage, ob Menschen als verantwortliche Rechtsadressaten ernst genommen werden.
+Neu vertieft ist die Legalitäts- und Rechtsstaatsachse: Recht wird nicht schon dadurch gut, dass es formal als Recht auftritt. Entscheidend ist, ob Normen öffentlich, allgemein, zukunftsgerichtet, verständlich, widerspruchsfrei, erfüllbar, stabil und mit der Anwendungspraxis kongrünt sind. Diese Achse hilft besonders bei Machtkritik, Verwaltungsrealismus, Rückwirkung, Ausnahmebehauptungen und der Frage, ob Menschen als verantwortliche Rechtsadressaten ernst genommen werden.
 
 ## Kaltstart
 
@@ -90,7 +90,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -100,7 +100,7 @@ Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschrei
 | `adressatenwuerde-und-rechtssteuerung` | Wenn es um Adressatenwürde und Rechtssteuerung in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `besitz-law-and-economics-transaktionskosten` | Wenn es um Besitz und Law & Economics: Transaktionskosten in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `besitz-rechtsrealismus-praktische` | Wenn es um Besitz, Rechtsrealismus und praktische Bedürfnisse in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristench... |
-| `besitz-rechtsrealismus-und-praktische-beduerfnisse` | Wenn es um Besitz Rechtsrealismus Und Praktische Beduerfnisse in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `besitz-rechtsrealismus-und-praktische-beduerfnisse` | Wenn es um Besitz Rechtsrealismus Und Praktische Bedürfnisse in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `besitzdogmatik-historische-schule` | Wenn es um Besitzdogmatik, historische Schule und Systemdenken in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpu... |
 | `besitzdogmatik-historische-schule-und-systemdenken` | Wenn es um Besitzdogmatik Historische Schule Und Systemdenken in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `daseinsvorsorge-verwaltungsrealismus` | Wenn es um Daseinsvorsorge und Verwaltungsrealismus in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risi... |
@@ -122,7 +122,7 @@ Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschrei
 | `kelsen-demokratie-verfahren-minderheitenschutz` | Wenn es um Kelsen Demokratie Verfahren Minderheitenschutz in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `kelsen-normativismus-und-reine-rechtslehre` | Wenn es um Kelsen: Normativismus und reine Rechtslehre in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargume... |
 | `kelsen-stufenbau-gueltigkeit` | Wenn es um Kelsen: Stufenbau, Geltung, Kompetenz und Methodendisziplin in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `kelsen-stufenbau-gueltigkeit-und-methodendisziplin` | Wenn es um Kelsen Stufenbau Gueltigkeit Und Methodendisziplin in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gege... |
+| `kelsen-stufenbau-gueltigkeit-und-methodendisziplin` | Wenn es um Kelsen Stufenbau Gültigkeit Und Methodendisziplin in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gege... |
 | `kelsen-stufenbau-kompetenz-und-grundnorm` | Wenn es um Stufenbau, Kompetenz und Normkette in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `krisenverfassung-und-permanenter-notstand` | Wenn es um Krisenverfassung und permanenter Notstand in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `kritisches-red-team-ideologie` | Wenn es um Kritisches Red-Team in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -148,7 +148,7 @@ Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschrei
 | `rule-by-law-vs-rechtsstaat` | Wenn es um Rule by Law vs. Rechtsstaat in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `spontane-ordnung-gewohnheit-custom-red-team` | Wenn es um Spontane Ordnung, Gewohnheit und Custom: Red-Team in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
 | `sprache-begriffe-fiktionen` | Wenn es um Sprache, Begriffe und Fiktionen in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `staat-als-ordnungsmacht-anti-autoritaerer-check` | Wenn es um Staat Als Ordnungsmacht Anti Autoritaerer Check in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `staat-als-ordnungsmacht-anti-autoritaerer-check` | Wenn es um Staat Als Ordnungsmacht Anti Autoritärer Check in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `staat-ordnungsmacht-anti-autoritaerer-check` | Wenn es um Staat als Ordnungsmacht: anti-autoritärer Check in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkte... |
 | `systemdenken-kohaerenz-widerspruch` | Wenn es um Systemdenken und Kohärenz in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `technokratie-industriegesellschaft` | Wenn es um Technokratie, Industriegesellschaft und Grundrechte in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristenc... |

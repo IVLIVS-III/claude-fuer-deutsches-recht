@@ -24,7 +24,7 @@ Arbeitsakte zum Plugin `fachanwalt-internationales-wirtschaftsrecht`.
 - **Mandantin:** Werkmann Anlagentechnik AG, Mannheim — Marktführer für pharmazeutische Präzisions-Mahlanlagen und Mikrofluidik-Reaktoren, 480 Mitarbeiter, Umsatz ca. 187 Mio. EUR (2025)
 - **Geschäftsführung:** Dr. Hannes Werkmann-Lottermann (Vorsitzender), Dipl.-Ing. Petra Sollinger-Baum (Technik), Florian Reusch (Finanzen)
 - **Tochtergesellschaften:** Werkmann Pharma Inc. (Boston, MA, 100 %); Werkmann Middle East FZCO (Dubai, 51 %)
-- **Kanzlei:** Salzgitter, Boekenkamp & Trautmannsdorf Rechtsanwaltsgesellschaft mbH, Frankfurt — federführend RAin Dr. Carola Boekenkamp (LL.M. London)
+- **Kanzlei:** Salzgitter, Bökenkamp & Trautmannsdorf Rechtsanwaltsgesellschaft mbH, Frankfurt — federführend RAin Dr. Carola Bökenkamp (LL.M. London)
 - **Stichtag dieser Akte:** Oktober 2026
 
 **Kernsachverhalt:** Werkmann hat drei Einheiten des Mikrofluidik-Reaktors MFR-3400X über die Schweizer Spengler Engineering AG an den iranischen Razi Vaccine Institute in Karaj geliefert. Das BAFA leitete ein OWi-Verfahren nach § 18 AWG / Art. 4 Dual-Use-VO (EU) 2021/821 ein. Parallel laufen: OFAC-Ermittlung / SDN-Listungsrisiko für Werkmann Pharma Inc. (Boston), Korruptionsverdacht gegen Auslandsvertreter Al-Quwairy Trading LLC (Riad/Saudi-Arabien) mit FCPA-Bezug, BMWK-Investitionsprüfung zur geplanten 28 %-Beteiligung der chinesischen TianYuan Industrial Group, ICC-Schiedsverfahren in Paris gegen den indischen Lieferpartner BioMechanix Pvt. Ltd. (4,8 Mio. EUR ausstehend) sowie CBAM-Fehlmeldungen zu Aluminium-Bauteilen aus der Türkei mit russischem Rohmaterial-Ursprung.
@@ -154,6 +154,6 @@ Arbeitsakte zum Plugin `fachanwalt-internationales-wirtschaftsrecht`.
 | CBAM-Korrektur | Abgeschlossen ✓ — Sanktion 22.000 EUR gezahlt |
 | Al-Quwairy Kündigung | Durchgeführt ✓ — Gegenwehr-Klage Riad erwartet |
 
-Bearbeiterin: **RAin Dr. Carola Boekenkamp (LL.M. London)**, Salzgitter, Boekenkamp & Trautmannsdorf Rechtsanwaltsgesellschaft mbH, Frankfurt am Main
+Bearbeiterin: **RAin Dr. Carola Bökenkamp (LL.M. London)**, Salzgitter, Bökenkamp & Trautmannsdorf Rechtsanwaltsgesellschaft mbH, Frankfurt am Main
 Bearbeiterinnen: RAin Tamara Goller-Neuss (Strafrecht/Compliance); RAin Katharina Schreiner (Schiedsverfahren); Ass. Rüdiger Pfaff (Exportkontrolle); Ass. Klaus Wiethölter (Investitionsprüfung)
 Externe Koordination: Brösel Holzapfel & Partner LLP, Washington D.C.

@@ -51,19 +51,19 @@ Muss, darf oder soll die Bank im Lobbyregister einmal oder zweimal erscheinen?
 | [05_organigramm_legal_entity.docx](05_organigramm_legal_entity.docx) | Rechtsträger- und Niederlassungsstruktur |
 | [06_kontaktlog_bundestag_bmf.csv](06_kontaktlog_bundestag_bmf.csv) | Kontaktlog mit Bundestag/BMF-Kontakten |
 | [07_regelungsvorhaben_digital_euro.docx](07_regelungsvorhaben_digital_euro.docx) | Regelungsvorhaben und Interessenbeschreibung |
-| [08_lobbyregister_entwurf_dublin.json](08_lobbyregister_entwurf_dublin.json) | Primaerentwurf Registereintrag Dublin |
+| [08_lobbyregister_entwurf_dublin.json](08_lobbyregister_entwurf_dublin.json) | Primärentwurf Registereintrag Dublin |
 | [09_lobbyregister_entwurf_frankfurt_zweigniederlassung.json](09_lobbyregister_entwurf_frankfurt_zweigniederlassung.json) | Streitiger Zweitentwurf Frankfurt |
 | [10_streitvermerk_doppelregistrierung.docx](10_streitvermerk_doppelregistrierung.docx) | Variantenvermerk mit Risiken |
-| [11_rfs_anfrage_entwurf.docx](11_rfs_anfrage_entwurf.docx) | Anfrage an die registerfuehrende Stelle |
+| [11_rfs_anfrage_entwurf.docx](11_rfs_anfrage_entwurf.docx) | Anfrage an die registerführende Stelle |
 | [12_finanzaufwendungen_deutschland.csv](12_finanzaufwendungen_deutschland.csv) | Kostenaufteilung Dublin/Frankfurt/Berlin |
 | [13_vorstandsbeschluss_public_policy.docx](13_vorstandsbeschluss_public_policy.docx) | Board-Minutes und Freigabeproblem |
-| [14_finalcheck_arbeitsblatt.docx](14_finalcheck_arbeitsblatt.docx) | Qualitaetsgate für den Wizard |
+| [14_finalcheck_arbeitsblatt.docx](14_finalcheck_arbeitsblatt.docx) | Qualitätsgate für den Wizard |
 | [15_emailthread_dublin_frankfurt_chaos.eml](15_emailthread_dublin_frankfurt_chaos.eml) | E-Mail-Thread Dublin/Frankfurt mit widersprüchlicher interner Haltung |
 | [16_portal_screenshot_abschrift_dublin.docx](16_portal_screenshot_abschrift_dublin.docx) | Abschrift des Dublin-Portalentwurfs |
 | [17_portal_screenshot_abschrift_frankfurt_abgebrochen.docx](17_portal_screenshot_abschrift_frankfurt_abgebrochen.docx) | Abgebrochener Zweitentwurf für Frankfurt |
 | [18_telefonnotiz_rfs_vorfrage.docx](18_telefonnotiz_rfs_vorfrage.docx) | Telefonnotiz zur unverbindlichen RfS-Vorfrage |
 | [19_meeting_notes_bmf_terminvorbereitung.docx](19_meeting_notes_bmf_terminvorbereitung.docx) | BMF-Terminvorbereitung mit Offenlegungsproblem |
-| [20_offenlegungssaetze_varianten.docx](20_offenlegungssaetze_varianten.docx) | Gute und schlechte Offenlegungssaetze |
+| [20_offenlegungssaetze_varianten.docx](20_offenlegungssaetze_varianten.docx) | Gute und schlechte Offenlegungssätze |
 | [21_interne_risikoampel.xlsx.docx](21_interne_risikoampel.xlsx.docx) | MD-Vorschau einer Risikoampel |
 | [21_interne_risikoampel.csv](21_interne_risikoampel.csv) | Rohdaten Risikoampel als CSV |
 | [22_kalendereinladung_bundestag.ics](22_kalendereinladung_bundestag.ics) | Kalendereinladung für Bundestagstermin |
@@ -75,6 +75,6 @@ Muss, darf oder soll die Bank im Lobbyregister einmal oder zweimal erscheinen?
 
 ## Prüffokus
 
-Die Akte zwingt das Plugin, `personen-organisationstyp`, `konzern-netzwerk-plattform`, `erstregistrierung-ausfuellen`, `registereintrag-finalcheck`, `registerfuehrende-stelle-kontakt`, `suche-open-data-monitor` und `fristen-und-quartalsmonitor` zusammenzuspielen. Entscheidend ist nicht eine voreilige Antwort, sondern eine saubere Registerpraxis: Primaerentwurf, Streitvermerk, RfS-Anfrage, API-Dublettencheck und keine Doppelung ohne Klärung.
+Die Akte zwingt das Plugin, `personen-organisationstyp`, `konzern-netzwerk-plattform`, `erstregistrierung-ausfuellen`, `registereintrag-finalcheck`, `registerfuehrende-stelle-kontakt`, `suche-open-data-monitor` und `fristen-und-quartalsmonitor` zusammenzuspielen. Entscheidend ist nicht eine voreilige Antwort, sondern eine saubere Registerpraxis: Primärentwurf, Streitvermerk, RfS-Anfrage, API-Dublettencheck und keine Doppelung ohne Klärung.
 
 ## Disclaimer

@@ -37,13 +37,13 @@ Trennung von Rieke und Malte Henning in Kiel mit zwei Kindern, praktiziertem Wec
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | 01 mandatsnotiz erstgespraech.docx |
+| `01_mandatsnotiz_erstgespraech.docx` | 01 mandatsnotiz erstgespräch.docx |
 | `02_chronologie_arbeitsstand.docx` | 02 chronologie arbeitsstand.docx |
 | `03_sachverhalt_aus_mandantensicht.docx` | 03 sachverhalt aus mandantensicht.docx |
 | `04_gegenseite_standpunkt.docx` | 04 gegenseite standpunkt.docx |
-| `05_jugendamt_gespraechsvermerk.docx` | 05 jugendamt gespraechsvermerk.docx |
+| `05_jugendamt_gespraechsvermerk.docx` | 05 jugendamt gesprächsvermerk.docx |
 | `06_einkommen_und_mehrbedarf.docx` | 06 einkommen und mehrbedarf.docx |
-| `09_entwurf_naechstes_schreiben.docx` | 09 entwurf naechstes schreiben.docx |
+| `09_entwurf_naechstes_schreiben.docx` | 09 entwurf nächstes schreiben.docx |
 | `csv/fristen_und_zahlungen.csv` | csv/fristen und zahlungen.csv |
 | `emails/2026-07-02_rieke_an_kanzlei.eml` | emails/2026 07 02 rieke an kanzlei.eml |
 | `pdfs/schulbescheinigung_und_kostenblatt.pdf` | pdfs/schulbescheinigung und kostenblatt.pdf |

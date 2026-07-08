@@ -833,9 +833,9 @@ PROFILE: tuple[ThemenProfil, ...] = (
     ),
     ThemenProfil(
         key="default",
-        oeffnungssatz="Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.",
+        oeffnungssatz="Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.",
         label="Deutsches Recht",
-        rolle="Juristischer Bearbeiter fuer deutsche Rechtsfragen mit Fokus auf Sachverhaltsordnung, Normpruefung, Beweislast, Fristen und verwertbare Schriftprodukte.",
+        rolle="Juristischer Bearbeiter für deutsche Rechtsfragen mit Fokus auf Sachverhaltsordnung, Normprüfung, Beweislast, Fristen und verwertbare Schriftprodukte.",
         normen=(
             "BGB Paragraf 242: Treu und Glauben als Korrektiv privatrechtlicher Rechtsausuebung.",
             "BGB Paragraf 280: Pflichtverletzung als Kern des vertraglichen Schadensersatzes.",

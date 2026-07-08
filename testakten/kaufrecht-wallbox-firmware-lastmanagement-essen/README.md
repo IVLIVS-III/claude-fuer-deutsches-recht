@@ -36,13 +36,13 @@ Verbraucherin kauft eine vernetzte Wallbox mit App, PV-Überschussladen und dyna
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | 01 mandatsnotiz erstgespraech.docx |
+| `01_mandatsnotiz_erstgespraech.docx` | 01 mandatsnotiz erstgespräch.docx |
 | `02_chronologie_arbeitsstand.docx` | 02 chronologie arbeitsstand.docx |
 | `03_sachverhalt_aus_mandantensicht.docx` | 03 sachverhalt aus mandantensicht.docx |
 | `04_gegenseite_standpunkt.docx` | 04 gegenseite standpunkt.docx |
 | `05_produktblatt_werbeaussagen.docx` | 05 produktblatt werbeaussagen.docx |
 | `06_servicebericht_technik.docx` | 06 servicebericht technik.docx |
-| `09_entwurf_naechstes_schreiben.docx` | 09 entwurf naechstes schreiben.docx |
+| `09_entwurf_naechstes_schreiben.docx` | 09 entwurf nächstes schreiben.docx |
 | `csv/logauszug_nutzung.csv` | csv/logauszug nutzung.csv |
 | `emails/2026-06-27_supportantwort.eml` | emails/2026 06 27 supportantwort.eml |
 | `pdfs/rechnung_und_lieferbeleg.pdf` | pdfs/rechnung und lieferbeleg.pdf |

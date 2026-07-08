@@ -27,7 +27,7 @@ Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das
 
 ## Übersicht
 
-Diese Akte enthält einen **generischen Muster-Entwurf einer KI-Nutzungsrichtlinie** für die Anwaltskanzlei "Mustermann & Musterfrau Rechtsanwälte PartG mbB". Das Dokument dient als ausfüllbare Vorlage für das Plugin `ki-richtlinie-kanzleien`.
+Diese Akte enthält einen ausgearbeiteten Richtlinienentwurf für die Anwaltskanzlei "Mustermann & Musterfrau Rechtsanwälte PartG mbB". Das Dokument ist als anpassbare Kanzleiunterlage für das Plugin `ki-richtlinie-kanzleien` angelegt.
 
 ## Zweck
 
@@ -37,9 +37,9 @@ Der Entwurf zeigt, wie das Plugin `ki-richtlinie-kanzleien` mit seinen 26 Skills
 
 **Dieses Dokument ist ein Entwurf und kein fertiges Rechtsdokument.** Vor dem Einsatz in einer echten Kanzlei sind zwingend folgende Anpassungen vorzunehmen:
 
-1. **Name der Kanzlei**: Alle Platzhalter `[Name der Kanzlei]` durch den tatsächlichen Kanzleinamen ersetzen.
-2. **Verantwortliche Personen**: Platzhalter wie `[Name Geschäftsführung]`, `[Name Datenschutzbeauftragter]`, `[Name Berufsrechtsbeauftragter]` durch die tatsächlichen Namen ersetzen.
-3. **Stand-Datum**: Platzhalter `[Monat/Jahr]` durch das tatsächliche Datum der Verabschiedung ersetzen.
+1. **Name der Kanzlei**: Die Ausfüllstelle `[Name der Kanzlei]` durch den tatsächlichen Kanzleinamen ersetzen.
+2. **Verantwortliche Personen**: Ausfüllstellen wie `[Name Geschäftsführung]`, `[Name Datenschutzbeauftragter]`, `[Name Berufsrechtsbeauftragter]` durch die tatsächlichen Namen ersetzen.
+3. **Stand-Datum**: Die Ausfüllstelle `[Monat/Jahr]` durch das tatsächliche Datum der Verabschiedung ersetzen.
 4. **KI-Dienstleister**: Die konkret eingesetzten KI-Dienste benennen und die entsprechenden AVV- und § 43e-BRAO-Verträge abschließen.
 5. **Kanzlei-spezifische Regelungen**: Rechtsgebiete, Mandantenstruktur und interne Prozesse auf die tatsächliche Kanzlei-Situation anpassen.
 6. **Rechtsberatung einholen**: Der Entwurf ersetzt keine individuelle Rechtsberatung. Für die finale Verabschiedung wird empfohlen, einen auf Berufsrecht und Datenschutzrecht spezialisierten Anwalt hinzuzuziehen.

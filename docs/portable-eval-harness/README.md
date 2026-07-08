@@ -1,4 +1,4 @@
-# Portable Eval-Harness — Drop-In fuer beliebige Legal-AI-Repos
+# Portable Eval-Harness — Drop-In für beliebige Legal-AI-Repos
 
 Bringe den Klotzkette/Harvey-LAB-Style-Bewertungsrahmen in dein eigenes Repo.
 
@@ -53,7 +53,7 @@ Die Scripts erwarten:
     ...
 ```
 
-Wenn dein Repo eine andere Struktur hat, aendere oben in `run-eval.py` die Konstante:
+Wenn dein Repo eine andere Struktur hat, ändere oben in `run-eval.py` die Konstante:
 
 ```python
 REPO = Path(__file__).resolve().parents[1]
@@ -142,7 +142,7 @@ python3 scripts/run-eval.py --report
 
 ## Check-Typen
 
-| `check_type` | Was es prueft |
+| `check_type` | Was es prüft |
 |---|---|
 | `file_exists` | Datei existiert |
 | `text_contains` | Substring kommt in Datei vor |
@@ -163,19 +163,19 @@ python3 scripts/compare-eval-runs.py runs/opus-4-7.json runs/opus-4-8.json
 
 ## LLM-Judge
 
-Fuer subjektive Pass/Fail-Kriterien, die keine reine Substring/Regex-Pruefung erlauben:
+Für subjektive Pass/Fail-Kriterien, die keine reine Substring/Regex-Prüfung erlauben:
 
 ```bash
 export ANTHROPIC_API_KEY=sk-ant-...
 python3 scripts/llm-judge-eval.py path/to/skill-output.md path/to/criterion.md --out judge-result.json
 ```
 
-Ohne API-Key: Dry-Run mit ausgegebenem Prompt — du kannst diesen manuell an ein Modell uebergeben.
+Ohne API-Key: Dry-Run mit ausgegebenem Prompt — du kannst diesen manuell an ein Modell übergeben.
 
 ## Lizenz
 
 Apache-2.0 OR MIT — die Eval-Harness-Scripts sind frei nutzbar in beliebigen Folge-Repos.
 
-## Verhaeltnis zu Harvey LAB
+## Verhältnis zu Harvey LAB
 
-Harvey LAB (https://github.com/harveyai/harvey-labs) ist das Vorbild: Task-Datenraum + Execution Harness + Rubrics + LLM-Judge. Diese portable Implementierung folgt demselben Paradigma, ist aber auf das deutsche Rechtssegment zugeschnitten und unabhaengig vom Klotzkette-Skill-Bestand nutzbar.
+Harvey LAB (https://github.com/harveyai/harvey-labs) ist das Vorbild: Task-Datenraum + Execution Harness + Rubrics + LLM-Judge. Diese portable Implementierung folgt demselben Paradigma, ist aber auf das deutsche Rechtssegment zugeschnitten und unabhängig vom Klotzkette-Skill-Bestand nutzbar.

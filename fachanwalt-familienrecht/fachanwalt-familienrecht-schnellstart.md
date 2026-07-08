@@ -1,4 +1,4 @@
-Wenn du das hier oeffnest, willst du Versorgungsausgleich, Zugewinn und Unterhalt sauber durchrechnen und beantragen.
+Wenn du das hier öffnest, willst du Versorgungsausgleich, Zugewinn und Unterhalt sauber durchrechnen und beantragen.
 
 # Fachanwalt Familienrecht — Schnellstart
 

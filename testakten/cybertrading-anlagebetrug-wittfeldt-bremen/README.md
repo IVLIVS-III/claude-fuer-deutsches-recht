@@ -47,7 +47,7 @@ Diese Testakte demonstriert den vollständigen Mandatszyklus eines komplexen Ban
 
 **Betrugsszenario:** Frau Wittfeldt überwies im Zeitraum September 2024 – März 2025 sieben Mal Beträge an vermeintliche Krypto-Trading-Plattform CryptoFutureMax.io, gesteuert von „Account-Manager Robert Volkmann" (Alias). Gesamtschaden: **387.420 EUR**.
 
-**Kanzlei:** Pflüger Schoeneberg Bankrecht GbR, Am Markt 14, 28195 Bremen
+**Kanzlei:** Pflüger Schöneberg Bankrecht GbR, Am Markt 14, 28195 Bremen
 **Mandatsbearbeiter:** Rechtsanwalt Dr. Severin Pflüger, Fachanwalt für Bank- und Kapitalmarktrecht
 
 ---

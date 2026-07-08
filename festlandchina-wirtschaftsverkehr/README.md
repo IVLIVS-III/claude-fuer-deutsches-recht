@@ -84,7 +84,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 198 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -119,11 +119,11 @@ Automatisch generierte Komplett-Liste aller 198 Skills in diesem Plugin. Beschre
 | `china-strategie-bundesregierung-umsetzen` | Wenn es um China-Strategie der Bundesregierung: Unternehmensumsetzung in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `china-toy-and-consumer-ip-strategy-before` | Wenn es um Spielzeug und Konsumgüter China: CE/REACH/Produktsicherheit in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `chinesische-investoren-in-deutschland` | Wenn es um Chinesische Investoren in Deutschland: Compliance und Verfahren in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `chn-001-kaltstart-china-geschaeft-sortieren` | Wenn es um Kaltstart China Geschaeft Sortieren in China-Wirtschaftsverkehr geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `chn-001-kaltstart-china-geschaeft-sortieren` | Wenn es um Kaltstart China Geschäft Sortieren in China-Wirtschaftsverkehr geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `chn-002-de-risking-nicht-decoupling` | Wenn es um De Risking Nicht Decoupling in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `chn-003-china-strategie-bundesregierung-umsetzen` | Wenn es um China Strategie Bundesregierung Umsetzen in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `chn-004-eu-china-trade-risk-dashboard` | Wenn es um EU China Trade Risk Dashboard in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `chn-005-handelsbilanz-und-abhaengigkeiten` | Wenn es um Handelsbilanz Und Abhaengigkeiten in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `chn-005-handelsbilanz-und-abhaengigkeiten` | Wenn es um Handelsbilanz Und Abhängigkeiten in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `chn-006-lieferantenmapping-tier-1-bis-tier-n` | Wenn es um Lieferantenmapping Tier 1 Bis Tier N in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `chn-007-single-source-risk` | Wenn es um Single Source Risk in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `chn-008-dual-sourcing-und-china-plus-one` | Wenn es um Dual Sourcing Und China Plus One in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -131,12 +131,12 @@ Automatisch generierte Komplett-Liste aller 198 Skills in diesem Plugin. Beschre
 | `chn-010-importeur-eu-compliance` | Wenn es um Importeur EU Compliance in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `chn-011-exporteur-deutschland-nach-china` | Wenn es um Exporteur Deutschland Nach China in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `chn-012-investor-entry-options` | Wenn es um Investor Entry Options in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `chn-013-wfoe-joint-venture-repraesentanz` | Wenn es um WFOE Joint Venture Repraesentanz in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `chn-013-wfoe-joint-venture-repraesentanz` | Wenn es um WFOE Joint Venture Repräsentanz in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `chn-014-m-and-a-in-china` | Wenn es um M And A In China in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `chn-015-fdi-screening-deutschland-eu` | Wenn es um FDI Screening Deutschland EU in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `chn-016-chinesische-investoren-in-deutschland` | Wenn es um Chinesische Investoren In Deutschland in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `chn-017-critical-infrastructure-risk` | Wenn es um Critical Infrastructure Risk in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `chn-018-awg-awv-investitionspruefung` | Wenn es um AWG AWV Investitionspruefung in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `chn-018-awg-awv-investitionspruefung` | Wenn es um AWG AWV Investitionsprüfung in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `chn-019-dual-use-bafa-check` | Wenn es um Dual Use BAFA Check in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `chn-020-us-ear-china-touchpoints` | Wenn es um US EAR China Touchpoints in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `chn-021-china-export-control-law-touchpoints` | Wenn es um China Export Control Law Touchpoints in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

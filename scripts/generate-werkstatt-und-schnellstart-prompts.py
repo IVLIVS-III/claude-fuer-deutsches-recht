@@ -114,6 +114,286 @@ BAD_WORDS = (
 )
 
 
+PROSE_REPLACEMENTS = (
+    ("oeffnest", "öffnest"),
+    ("Oeffnest", "Öffnest"),
+    ("Eroeffn", "Eröffn"),
+    ("eroeffn", "eröffn"),
+    ("fuer", "für"),
+    ("Fuer", "Für"),
+    ("benoetigt", "benötigt"),
+    ("Benoetigt", "Benötigt"),
+    ("hoechst", "höchst"),
+    ("Hoechst", "Höchst"),
+    ("fuenf", "fünf"),
+    ("Fuenf", "Fünf"),
+    ("vorlaeufig", "vorläufig"),
+    ("Vorlaeufig", "Vorläufig"),
+    ("ueber", "über"),
+    ("Ueber", "Über"),
+    ("Ueberschrift", "Überschrift"),
+    ("ueberschrift", "überschrift"),
+    ("Pruef", "Prüf"),
+    ("pruef", "prüf"),
+    ("Rueck", "Rück"),
+    ("rueck", "rück"),
+    ("Lueck", "Lück"),
+    ("lueck", "lück"),
+    ("Klaer", "Klär"),
+    ("klaer", "klär"),
+    ("laeuft", "läuft"),
+    ("Laeuft", "Läuft"),
+    ("einschlaeg", "einschläg"),
+    ("Einschlaeg", "Einschläg"),
+    ("zustaendig", "zuständig"),
+    ("Zustaendig", "Zuständig"),
+    ("beduerftig", "bedürftig"),
+    ("Beduerftig", "Bedürftig"),
+    ("vollstaendig", "vollständig"),
+    ("Vollstaendig", "Vollständig"),
+    ("tatsaechlich", "tatsächlich"),
+    ("Tatsaechlich", "Tatsächlich"),
+    ("naechst", "nächst"),
+    ("Naechst", "Nächst"),
+    ("haeng", "häng"),
+    ("Haeng", "Häng"),
+    ("Widerspruech", "Widersprüch"),
+    ("widerspruech", "widersprüch"),
+    ("zurueck", "zurück"),
+    ("Zurueck", "Zurück"),
+    ("loest", "löst"),
+    ("Loest", "Löst"),
+    ("Geruest", "Gerüst"),
+    ("geruest", "gerüst"),
+    ("Bauchgefuehl", "Bauchgefühl"),
+    ("bauchgefuehl", "bauchgefühl"),
+    ("knuepf", "knüpf"),
+    ("Knuepf", "Knüpf"),
+    ("traegt", "trägt"),
+    ("Traegt", "Trägt"),
+    ("fuehrt", "führt"),
+    ("Fuehrt", "Führt"),
+    ("Saetze", "Sätze"),
+    ("Saetzen", "Sätzen"),
+    ("saetze", "sätze"),
+    ("saetzen", "sätzen"),
+    ("Maengel", "Mängel"),
+    ("maengel", "mängel"),
+    ("Kuendig", "Kündig"),
+    ("kuendig", "kündig"),
+    ("Beschaeftig", "Beschäftig"),
+    ("beschaeftig", "beschäftig"),
+    ("Faellig", "Fällig"),
+    ("faellig", "fällig"),
+    ("Moeglich", "Möglich"),
+    ("moeglich", "möglich"),
+    ("Vermoeg", "Vermög"),
+    ("vermoeg", "vermög"),
+    ("Einkuenft", "Einkünft"),
+    ("einkuenft", "einkünft"),
+    ("Gruend", "Gründ"),
+    ("gruend", "gründ"),
+    ("Ausser", "Außer"),
+    ("ausser", "außer"),
+    ("oeffentlich", "öffentlich"),
+    ("Oeffentlich", "Öffentlich"),
+    ("ordnungsmaessig", "ordnungsmäßig"),
+    ("Ordnungsgemaess", "Ordnungsgemäß"),
+    ("gemaess", "gemäß"),
+    ("Gemaess", "Gemäß"),
+    ("Ruege", "Rüge"),
+    ("ruege", "rüge"),
+    ("uebersicht", "übersicht"),
+    ("Uebersicht", "Übersicht"),
+    ("Ueberschrift", "Überschrift"),
+    ("ueberschrift", "überschrift"),
+    ("zurueck", "zurück"),
+    ("Zurueck", "Zurück"),
+    ("Wirtschaftspruefer", "Wirtschaftsprüfer"),
+    ("Bestaetig", "Bestätig"),
+    ("bestaetig", "bestätig"),
+    ("Einschraenk", "Einschränk"),
+    ("einschraenk", "einschränk"),
+    ("sorgfaeltig", "sorgfältig"),
+    ("Sorgfaeltig", "Sorgfältig"),
+    ("Qualitaet", "Qualität"),
+    ("qualitaet", "qualität"),
+    ("Frueh", "Früh"),
+    ("frueh", "früh"),
+    ("unfaeh", "unfäh"),
+    ("Unfaeh", "Unfäh"),
+    ("faeh", "fäh"),
+    ("Faeh", "Fäh"),
+    ("Geschaeft", "Geschäft"),
+    ("geschaeft", "geschäft"),
+    ("vorlaeufig", "vorläufig"),
+    ("Vorlaeufig", "Vorläufig"),
+    ("Massnahme", "Maßnahme"),
+    ("Massnahmen", "Maßnahmen"),
+    ("massnahme", "maßnahme"),
+    ("massnahmen", "maßnahmen"),
+    ("regelmaessig", "regelmäßig"),
+    ("Regelmaessig", "Regelmäßig"),
+    ("Liquiditaet", "Liquidität"),
+    ("liquiditaet", "liquidität"),
+    ("Glaeubiger", "Gläubiger"),
+    ("glaeubiger", "gläubiger"),
+    ("waehl", "wähl"),
+    ("Waehl", "Wähl"),
+    ("genueg", "genüg"),
+    ("Genueg", "Genüg"),
+    ("schliess", "schließ"),
+    ("Schliess", "Schließ"),
+    ("Verstoss", "Verstoß"),
+    ("verstoss", "verstoß"),
+    ("muessen", "müssen"),
+    ("Muessen", "Müssen"),
+    ("Rechtsanwaelte", "Rechtsanwälte"),
+    ("Anwaelte", "Anwälte"),
+    ("Aerzte", "Ärzte"),
+    ("Buerger", "Bürger"),
+    ("Laender", "Länder"),
+    ("laender", "länder"),
+    ("Anspruech", "Ansprüch"),
+    ("anspruech", "ansprüch"),
+    ("Verjaehr", "Verjähr"),
+    ("verjaehr", "verjähr"),
+    ("Miethoehe", "Miethöhe"),
+    ("Rueckstaende", "Rückstände"),
+    ("rueckstaende", "rückstände"),
+    ("ordnungsmaessig", "ordnungsmäßig"),
+    ("streitwertunabhaengig", "streitwertunabhängig"),
+    ("formularmaessig", "formularmäßig"),
+    ("Mietvertraeg", "Mietverträg"),
+    ("mietvertraeg", "mietverträg"),
+    ("Schoenheit", "Schönheit"),
+    ("schoenheit", "schönheit"),
+    ("koennen", "können"),
+    ("Koennen", "Können"),
+    ("ueberwaelz", "überwälz"),
+    ("Ueberwaelz", "Überwälz"),
+    ("Bautraegervertrag", "Bauträgervertrag"),
+    ("Bautraegervertraeg", "Bauträgerverträg"),
+    ("bautraegervertrag", "bauträgervertrag"),
+    ("dreissig", "dreißig"),
+    ("Dreissig", "Dreißig"),
+    ("fuenf", "fünf"),
+    ("Fuenf", "Fünf"),
+    ("Fuenftel", "Fünftel"),
+    ("fuenftel", "fünftel"),
+    ("Duesseldorf", "Düsseldorf"),
+    ("duesseldorf", "düsseldorf"),
+    ("Foerder", "Förder"),
+    ("foerder", "förder"),
+    ("HoeO", "HöfeO"),
+    ("Hoeo", "HöfeO"),
+    ("Paechter", "Pächter"),
+    ("paechter", "pächter"),
+    ("hinterlaesst", "hinterlässt"),
+    ("Hinterlaesst", "Hinterlässt"),
+    ("Behoerde", "Behörde"),
+    ("behoerde", "behörde"),
+    ("Anhoer", "Anhör"),
+    ("anhoer", "anhör"),
+    ("traegt", "trägt"),
+    ("Traegt", "Trägt"),
+    ("praeg", "präg"),
+    ("Praeg", "Präg"),
+    ("Roemisch", "Römisch"),
+    ("roemisch", "römisch"),
+    ("Zwoelf", "Zwölf"),
+    ("zwoelf", "zwölf"),
+    ("Europaeisch", "Europäisch"),
+    ("europaeisch", "europäisch"),
+    ("hoeflich", "höflich"),
+    ("Hoeflich", "Höflich"),
+    ("Vertraeg", "Verträg"),
+    ("vertraeg", "verträg"),
+    ("praevent", "prävent"),
+    ("Praevent", "Prävent"),
+    ("Rechtsausuebung", "Rechtsausübung"),
+    ("rechtsausuebung", "rechtsausübung"),
+    ("Ausfuehrung", "Ausführung"),
+    ("ausfuehrung", "ausführung"),
+    ("waehrend", "während"),
+    ("Waehrend", "Während"),
+    ("Verfueg", "Verfüg"),
+    ("verfueg", "verfüg"),
+    ("Persoenlich", "Persönlich"),
+    ("persoenlich", "persönlich"),
+    ("ueble", "üble"),
+    ("Ueble", "Üble"),
+    ("Abwaeg", "Abwäg"),
+    ("abwaeg", "abwäg"),
+    ("Unterstuetz", "Unterstütz"),
+    ("unterstuetz", "unterstütz"),
+    ("Aerzte", "Ärzte"),
+    ("aerzte", "ärzte"),
+    ("Anwaelte", "Anwälte"),
+    ("anwaelte", "anwälte"),
+    ("langjaehrig", "langjährig"),
+    ("Langjaehrig", "Langjährig"),
+    ("Bewaehr", "Bewähr"),
+    ("bewaehr", "bewähr"),
+    ("Sachverstaendig", "Sachverständig"),
+    ("sachverstaendig", "sachverständig"),
+    ("Antraeg", "Anträg"),
+    ("antraeg", "anträg"),
+    ("Legalitaet", "Legalität"),
+    ("legalitaet", "legalität"),
+    ("Umstaend", "Umständ"),
+    ("umstaend", "umständ"),
+    ("oeffnet", "öffnet"),
+    ("Oeffnet", "Öffnet"),
+    ("wuerdig", "würdig"),
+    ("Wuerdig", "Würdig"),
+    ("Verstaendig", "Verständig"),
+    ("verstaendig", "verständig"),
+    ("Leistungstraeg", "Leistungsträg"),
+    ("leistungstraeg", "leistungsträg"),
+    ("Kostentraeg", "Kostenträg"),
+    ("kostentraeg", "kostenträg"),
+    ("realitaet", "realität"),
+    ("Realitaet", "Realität"),
+    ("Verhältnismaessig", "Verhältnismäßig"),
+    ("verhältnismaessig", "verhältnismäßig"),
+    ("Kuerz", "Kürz"),
+    ("kuerz", "kürz"),
+    ("versaeumnis", "versäumnis"),
+    ("Versaeumnis", "Versäumnis"),
+    ("Mobilitaet", "Mobilität"),
+    ("mobilitaet", "mobilität"),
+)
+
+
+TERM_REPLACEMENTS = {
+    "Agg": "AGG",
+    "Apas": "APAS",
+    "Bgh": "BGH",
+    "Bag": "BAG",
+    "Bverfg": "BVerfG",
+    "Bverwg": "BVerwG",
+    "Bsg": "BSG",
+    "Bfh": "BFH",
+    "Eugh": "EuGH",
+    "Starug": "StaRUG",
+    "Bav": "bAV",
+    "Gmbh": "GmbH",
+    "Ag": "AG",
+    "Kg": "KG",
+    "Eu": "EU",
+    "Dsgvo": "Datenschutz-Grundverordnung",
+}
+
+
+def prose_umlauts(text: str) -> str:
+    for old, new in PROSE_REPLACEMENTS:
+        text = text.replace(old, new)
+    for old, new in TERM_REPLACEMENTS.items():
+        text = re.sub(rf"\b{re.escape(old)}\b", new, text)
+    return text
+
+
 def sanitize(text: str) -> str:
     paragraph = chr(167)
     text = text.replace(paragraph * 2, "Paragrafen")
@@ -127,7 +407,7 @@ def sanitize(text: str) -> str:
     text = text.replace("Aktengeheimnis", "Vertraulichkeit")
     text = re.sub(r"\bsiehe Skill [^\n.]*", "", text, flags=re.IGNORECASE)
     text = re.sub(r"\b" + re.escape("live " + "verifizieren") + r"\b", "vor Verwendung anhand einer belastbaren Quelle pruefen", text, flags=re.IGNORECASE)
-    return text
+    return prose_umlauts(text)
 
 
 def clean(text: str, limit: int | None = None) -> str:
@@ -159,8 +439,14 @@ def clean(text: str, limit: int | None = None) -> str:
         words = cut.split(" ")
         while len(words) > 1 and words[-1].lower().strip(" ,.;:") in dangling:
             words.pop()
-        cut = " ".join(words)
-        return cut.rstrip(" ,.;:") + "."
+        cut = " ".join(words).rstrip(" ,.;:-")
+        for _ in range(3):
+            shortened = re.sub(r"\s+\b(?:und|oder|mit|ohne|für|fuer|von|zu|im|in|als|bei|nach|nächstem|naechstem)\b$", "", cut, flags=re.IGNORECASE).rstrip(" ,.;:-")
+            if shortened == cut:
+                break
+            cut = shortened
+        cut = re.sub(r"\beine Fristen$", "eine Fristen- und Risikoampel", cut)
+        return cut.rstrip(" ,.;:-") + "."
     return text
 
 
@@ -236,30 +522,45 @@ def collect_skill_material(plugin_dir: Path) -> list[dict[str, str]]:
                 with skill_file.open("r", encoding="utf-8", errors="ignore") as handle:
                     for line_no, line in enumerate(handle, 1):
                         chunk_lines.append(line)
-                        if line_no >= 90:
+                        if line_no >= 180:
                             break
                 text = "".join(chunk_lines)
                 desc = frontmatter_description(text) or desc
                 body = skill_body_excerpt(text)
+                heading = ""
+                for raw_heading in text.splitlines():
+                    if raw_heading.startswith("# "):
+                        heading = clean(raw_heading[2:].strip(), 140)
+                        break
             except OSError:
+                text = ""
                 body = ""
-        items.append({"slug": slug, "desc": desc, "body": body})
+                heading = ""
+        else:
+            heading = ""
+        items.append({"slug": slug, "desc": desc, "body": body, "raw": text if skill_file.exists() else "", "heading": heading})
         if len(items) >= 30:
             break
     return items
 
 
-def field_title(desc: str, slug: str) -> str:
+def field_title(desc: str, slug: str, heading: str = "") -> str:
     desc = clean(desc, 240)
-    match = re.match(r"Wenn es um (.+?) in [^:;.]{3,90} geht:", desc)
-    if match:
+    if heading and len(heading) >= 6:
+        title = heading
+    elif match := re.match(r"Wenn es um (.+?) in [^:;.]{3,90} geht:", desc):
         title = match.group(1)
     else:
-        title = re.split(r"[:.;]", desc, maxsplit=1)[0]
+        safe = desc.replace("Art. ", "Art ").replace("Abs. ", "Abs ")
+        title = re.split(r"[:;.] ", safe, maxsplit=1)[0]
+        title = title.replace("Art ", "Art. ").replace("Abs ", "Abs. ")
     title = title.strip(" -;:.")
     if not title or len(title) < 8:
         title = slug.replace("-", " ").title()
-    return clean(title, 105)
+    title = clean(title, 115)
+    for particle in ("Und", "Oder", "Mit", "Nach", "Von", "Zu", "Im", "In", "Bei", "Für"):
+        title = re.sub(rf"(?<!^)\b{particle}\b", particle.lower(), title)
+    return title
 
 
 def field_detail(desc: str) -> str:
@@ -267,6 +568,7 @@ def field_detail(desc: str) -> str:
     desc = re.sub(r"^Wenn es um .+? geht:\s*", "", desc)
     desc = re.sub(r"\s*Stichwort für die Auswahl:.*$", "", desc)
     desc = desc.strip(" .;:")
+    desc = desc.rstrip(" -")
     if not desc:
         return "Tatsachenkern, Norm, Frist, Beweis und Gegenargument zu einem Ergebnisbaustein bündeln"
     return desc
@@ -274,6 +576,192 @@ def field_detail(desc: str) -> str:
 
 def manifest(plugin_dir: Path) -> dict:
     return json.loads((plugin_dir / ".claude-plugin" / "plugin.json").read_text(encoding="utf-8"))
+
+
+COURT_MARKERS = (
+    "BGH", "BAG", "BVerfG", "BVerwG", "BSG", "BFH", "EuGH", "BPatG",
+    "OLG", "LG ", "AG ", "BVerfGE", "BAGE", "NJW", "NZA", "ZIP",
+)
+
+LAW_MARKERS = (
+    "BGB", "ZPO", "StPO", "StGB", "GG", "InsO", "StaRUG", "VwGO", "FGO",
+    "SGG", "ArbGG", "FamFG", "HGB", "GmbHG", "AktG", "UmwG", "MarkenG",
+    "UrhG", "DesignG", "PatG", "VVG", "VwVfG", "SGB", "AO", "EStG",
+    "UStG", "KStG", "KSchG", "TzBfG", "BetrVG", "BetrAVG", "BDSG",
+    "AEUV", "EUV", "EMRK", "GRCh", "DSGVO", "VOB/B", "HOAI", "BRAO",
+    "BNotO", "RVG", "RDG", "GWB", "VgV", "UVgO", "ZVG", "GVG",
+)
+
+
+def relevant_lines(skill_material: list[dict[str, str]], limit: int = 450) -> list[str]:
+    lines: list[str] = []
+    for item in skill_material:
+        raw = "\n".join([item.get("desc", ""), item.get("body", ""), item.get("raw", "")])
+        for raw_line in raw.splitlines():
+            line = raw_line.strip(" -\t")
+            if not line or line.startswith("|") or line.startswith("#") or line.startswith("<!--"):
+                continue
+            if re.match(r"^(?:name|description|allowed-tools)\s*:", line):
+                continue
+            line = clean(line, 260)
+            if len(line) < 20:
+                continue
+            lines.append(line)
+            if len(lines) >= limit:
+                return lines
+    return lines
+
+
+def is_generic_anchor(line: str) -> bool:
+    lowered = line.lower()
+    generic_bits = (
+        "nur fallbezogen",
+        "nicht verifizierte",
+        "vor verwendung",
+        "belastbaren quelle",
+        "nicht erfinden",
+        "rechtsprechung nur",
+        "wenn es um",
+        "tragende normen verifizieren",
+        "fristen und eilrisiken",
+        "rot (",
+        "gelb (",
+        "gruen (",
+        "grün (",
+        "rolle, ziel",
+        "live",
+        "dieser skill",
+        "skill zum",
+        "skill für",
+        "skill fuer",
+        "auswahlstichwort",
+        "stichwort für die auswahl",
+        "stichwort fuer die auswahl",
+        "vor einer rechtlichen schlussfolgerung",
+        "arbeitsmodus:",
+        "fokus:",
+    )
+    return any(bit in lowered for bit in generic_bits)
+
+
+def extract_norm_anchors(skill_material: list[dict[str, str]], max_items: int = 7) -> list[str]:
+    anchors: list[str] = []
+    seen: set[str] = set()
+    for line in relevant_lines(skill_material):
+        if is_generic_anchor(line):
+            continue
+        has_norm = re.search(r"\b(?:Paragraf(?:en)?|Artikel|Art\.)\s+\d", line)
+        if not has_norm:
+            continue
+        if not any(marker in line for marker in LAW_MARKERS):
+            continue
+        if any(marker in line for marker in COURT_MARKERS) and re.search(r"\b(?:Urteil|Beschluss|Entscheidung)\b", line):
+            continue
+        candidate = clean(line, 185).rstrip(".")
+        if not candidate:
+            continue
+        key = re.sub(r"\W+", "", candidate.lower())
+        if key in seen:
+            continue
+        seen.add(key)
+        anchors.append(candidate)
+        if len(anchors) >= max_items:
+            break
+    return anchors
+
+
+def extract_case_anchors(skill_material: list[dict[str, str]], max_items: int = 4) -> list[str]:
+    anchors: list[str] = []
+    seen: set[str] = set()
+    for line in relevant_lines(skill_material):
+        if is_generic_anchor(line):
+            continue
+        if not any(marker in line for marker in COURT_MARKERS):
+            continue
+        if re.match(r"^[a-z0-9-]+\s+[—-]\s+", line):
+            continue
+        has_decision_signal = (
+            re.search(r"\b(?:Urteil|Beschluss|Entscheidung)\b", line)
+            or re.search(r"\b\d{2}\.\d{2}\.\d{4}\b", line)
+            or re.search(r"\b(?:[IVX]+ ZR|IX ZR|XII ZB|C-\d+|BvR|AZR|StR|CN|C )", line)
+        )
+        if not has_decision_signal:
+            continue
+        candidate = clean(line, 205).rstrip(".")
+        if not candidate:
+            continue
+        key = re.sub(r"\W+", "", candidate.lower())
+        if key in seen:
+            continue
+        seen.add(key)
+        anchors.append(candidate)
+        if len(anchors) >= max_items:
+            break
+    return anchors
+
+
+def skill_fields(skill_material: list[dict[str, str]], max_items: int = 6) -> list[tuple[str, str]]:
+    fields: list[tuple[str, str]] = []
+    seen: set[str] = set()
+    for item in skill_material:
+        desc = item.get("desc") or item.get("body") or item.get("slug", "")
+        title = field_title(desc, item.get("slug", ""), item.get("heading", ""))
+        detail = field_detail(desc)
+        key = re.sub(r"\W+", "", title.lower())
+        if not key or key in seen:
+            continue
+        seen.add(key)
+        fields.append((title, clean(detail, 150)))
+        if len(fields) >= max_items:
+            break
+    return fields
+
+
+def detail_question(detail: str) -> str:
+    detail = clean(detail, 115).rstrip(". -")
+    for _ in range(3):
+        shortened = re.sub(r"\s+\b(?:und|oder|mit|ohne|für|fuer|von|zu|im|in|als|bei|nach|nächstem|naechstem)\b$", "", detail, flags=re.IGNORECASE).rstrip(". -")
+        if shortened == detail:
+            break
+        detail = shortened
+    repairs = {
+        "Kollisions": "Kollisionsprüfung",
+        "Verhandlungs": "Verhandlungslinie",
+        "Fehler": "Fehlerliste",
+        "Fristen": "Fristen- und Risikoampel",
+    }
+    for suffix, replacement in repairs.items():
+        if detail.endswith(suffix):
+            detail = detail[: -len(suffix)].rstrip(" -") + " " + replacement
+            break
+    return detail.rstrip(". -")
+
+
+def quick_stations(profile: ThemenProfil, skill_material: list[dict[str, str]]) -> list[str]:
+    if profile.key != "default" or not skill_material:
+        return station_text(profile.stationen, skill_material)[:6]
+    out: list[str] = []
+    for field, detail in skill_fields(skill_material, 6):
+        out.append(f"{field}: {detail_question(detail)}; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.")
+    if len(out) < 4:
+        out.extend(profile.stationen)
+    return out[:6]
+
+
+def domain_goal(mf: dict, plugin_dir: Path, profile: ThemenProfil) -> str:
+    intro = clean(mf.get("description", "") or first_readme_paragraph(plugin_dir) or profile.rolle, 360)
+    if not intro:
+        intro = profile.rolle
+    return intro.rstrip(".")
+
+
+def output_hint(profile: ThemenProfil, fields: list[tuple[str, str]]) -> str:
+    if profile.skelette:
+        return clean("; ".join(profile.skelette[:2]), 330).rstrip(".")
+    if fields:
+        names = ", ".join(name for name, _detail in fields[:4])
+        return clean(f"Ausgabe entlang der Kernfelder {names}: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt", 330).rstrip(".")
+    return "Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt"
 
 
 def first_readme_paragraph(plugin_dir: Path) -> str:
@@ -313,7 +801,9 @@ def title_for(slug: str, mf: dict, profile: ThemenProfil) -> str:
     raw = mf.get("display_name") or mf.get("title") or slug.replace("-", " ")
     raw = raw.replace("_", " ").strip()
     if raw.lower() == slug:
-        raw = profile.label
+        raw = slug.replace("-", " ")
+        if profile.label and profile.label.lower() not in {"deutsches recht", "allgemeines recht"}:
+            raw = profile.label
     return clean(raw.title(), 120)
 
 
@@ -338,6 +828,10 @@ def build_werkstatt(plugin_dir: Path) -> str:
     title = title_for(slug, mf, profile)
     stations = list(profile.stationen)
     intro = clean(mf.get("description", "") or first_readme_paragraph(plugin_dir) or profile.rolle, 900)
+    profile_norms = [] if profile.key == "default" else list(profile.normen)
+    profile_cases = [] if profile.key == "default" else list(profile.entscheidungen)
+    extracted_norms = extract_norm_anchors(skill_material, 8)
+    extracted_cases = extract_case_anchors(skill_material, 5)
 
     lines: list[str] = [
         f"# {title} — Werkstatt-Prompt",
@@ -374,39 +868,26 @@ def build_werkstatt(plugin_dir: Path) -> str:
         "## 4. Pflichtnormen als Kernsaetze",
         "",
     ]
-    for item in profile.normen:
+    for item in profile_norms:
         lines.append(f"- {item}")
 
     # Add norms extracted from selected skills without making skill references.
-    extracted_norms: list[str] = []
-    norm_pattern = (
-        r"Paragraf(?:en)?\s+"
-        r"\d+[a-z]?"
-        r"(?:\s+(?:Absatz|Abs\.)\s+\d+[a-z]?)?"
-        r"(?:\s+Satz\s+\d+[a-z]?)?"
-        r"(?:\s+Nr\.?\s+\d+[a-z]?)?"
-        r"(?:\s+(?:bis|und)\s+\d+[a-z]?)?"
-        r"\s+(?:BGB|ZPO|StPO|GG|InsO|VwGO|FGO|SGG|ArbGG|FamFG|HGB|GmbHG|AktG|TzBfG|KSchG|BetrVG|AO|EStG|UStG|SGB|GVG)"
-    )
-    for item in skill_material:
-        for m in re.finditer(norm_pattern, item["desc"] + " " + item["body"]):
-            norm = clean(m.group(0), 160)
-            if any(marker in norm for marker in ("Dieser Skill", "Wenn es um", "Auswahlstichwort")):
-                continue
-            if norm and norm not in extracted_norms:
-                extracted_norms.append(norm)
-        if len(extracted_norms) >= 8:
-            break
     for norm in extracted_norms[:8]:
-        lines.append(f"- {norm}: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.")
+        lines.append(f"- {norm}: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.")
+    if not profile_norms and not extracted_norms:
+        lines.append("- Tragende Normen aus Akte, Bescheid, Vertrag oder gerichtlicher Verfügung ableiten; keine Norm als sicher darstellen, wenn sie nicht belegt ist.")
 
     lines += [
         "",
         "## 5. Leitentscheidungen",
         "",
     ]
-    for item in profile.entscheidungen:
+    for item in profile_cases:
         lines.append(f"- {item}")
+    for item in extracted_cases:
+        lines.append(f"- {item}")
+    if not profile_cases and not extracted_cases:
+        lines.append("- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.")
 
     lines += [
         "",
@@ -495,39 +976,73 @@ def build_schnellstart(plugin_dir: Path) -> str:
     context = " ".join([mf.get("description", ""), first_readme_paragraph(plugin_dir)] + [s["desc"] for s in skill_material[:20]])
     profile = profile_for(slug, context)
     title = title_for(slug, mf, profile)
-    stations = list(profile.stationen)[:6]
+    fields = skill_fields(skill_material)
+    stations = quick_stations(profile, skill_material)
+    norm_limit = 7 if profile.key == "default" else 4
+    case_limit = 4 if profile.key == "default" else 3
+    extracted_norms = extract_norm_anchors(skill_material, norm_limit)
+    extracted_cases = extract_case_anchors(skill_material, case_limit)
+    profile_norms = [] if profile.key == "default" else list(profile.normen[:4])
+    profile_cases = [] if profile.key == "default" else list(profile.entscheidungen[:2])
+    goal = domain_goal(mf, plugin_dir, profile)
+    opening = profile.oeffnungssatz
+    if profile.key == "default":
+        opening = f"Wenn du das hier öffnest, willst du im Bereich {title} zügig von Unterlagen zu einem verwertbaren Arbeitsprodukt kommen."
+
     lines: list[str] = [
         f"# {title} — Schnellstart",
         "",
-        f"Rolle: {profile.rolle} Arbeite sofort am konkreten Fall, liefere ganze Saetze und ein verwendbares Ergebnis.",
+        f"Ziel: {goal}. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.",
         "",
     ] + SCHNELLSTART_TEMPO_BLOCK + [
-        "## 2. Triage",
+        "## 2. Direktstart",
         "",
-        "1. Wer will welches konkrete Ergebnis von wem.",
-        "2. Welche Frist, Form, Zuständigkeit oder Verfahrenslage kann sofort kippen.",
-        "3. Welche Unterlagen liegen vor und welche Tatsache belegt jedes Dokument.",
-        "4. Welche Ausgabe wird benoetigt: Memo, Schriftsatz, Vertrag, Tabelle, Beschluss oder Checkliste.",
+        "1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.",
+        "2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.",
+        "3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.",
+        "4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.",
         "",
-        "## 3. Kurzweg",
+        "## 3. Kernroute",
         "",
     ]
-    if profile.oeffnungssatz:
-        lines = [profile.oeffnungssatz, ""] + lines
+    if opening:
+        lines = [opening, ""] + lines
     for idx, station in enumerate(stations, 1):
-        lines.append(f"{idx}. {clean(station, 180)}")
-    lines += ["", "## 4. Anker", ""]
-    for item in profile.normen[:5]:
+        lines.append(f"{idx}. {clean(station, 230)}")
+    if fields:
+        lines += [
+            "",
+            "## 4. Einsatzfelder",
+            "",
+            "| Feld | Sofortfrage | Ausgabe |",
+            "| --- | --- | --- |",
+        ]
+        for field, detail in fields:
+            question = detail_question(detail)
+            lines.append(f"| {field} | {question}? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |")
+    lines += ["", "## 5. Anker", ""]
+    anchor_count = 0
+    for item in profile_norms:
         lines.append(f"- {item}")
-    for item in profile.entscheidungen[:3]:
+        anchor_count += 1
+    for item in extracted_norms:
+        lines.append(f"- {item}: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.")
+        anchor_count += 1
+    for item in profile_cases:
         lines.append(f"- {item}")
+        anchor_count += 1
+    for item in extracted_cases:
+        lines.append(f"- {item}")
+        anchor_count += 1
+    if anchor_count == 0:
+        lines.append("- Normen und Entscheidungen aus den vorgelegten Unterlagen oder einer belastbaren Quelle ableiten; Aktenzeichen nicht ergänzen, wenn sie nicht sicher belegt sind.")
     lines += [
         "",
-        "## 5. Antwortform",
+        "## 6. Antwortform",
         "",
-        "Lagebild: drei bis sieben Saetze. Pruefung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, naechstes Dokument. Quellen: nur tragende Normen und Entscheidungen.",
+        f"Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: {output_hint(profile, fields)}.",
         "",
-        "## 6. Stop",
+        "## 7. Stop",
         "",
         "Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.",
         "",
@@ -536,12 +1051,12 @@ def build_schnellstart(plugin_dir: Path) -> str:
     if len(text) <= MAX_FAST:
         return text
     # Hard compact if needed.
-    parts = re.split(r"\n## (?:4\.\s+)?Anker\n", text, maxsplit=1)
+    parts = re.split(r"\n## (?:5\.\s+)?Anker\n", text, maxsplit=1)
     if len(parts) == 2:
         head, rest = parts
-        anchor, tail = re.split(r"\n## (?:5\.\s+)?Antwortform\n", rest, maxsplit=1)
-        anchor_lines = [l for l in anchor.splitlines() if l.strip()][:5]
-        text = head.rstrip() + "\n\n## 4. Anker\n\n" + "\n".join(anchor_lines) + "\n\n## 5. Antwortform\n" + tail
+        anchor, tail = re.split(r"\n## (?:6\.\s+)?Antwortform\n", rest, maxsplit=1)
+        anchor_lines = [l for l in anchor.splitlines() if l.strip()][:8]
+        text = head.rstrip() + "\n\n## 5. Anker\n\n" + "\n".join(anchor_lines) + "\n\n## 6. Antwortform\n" + tail
     if len(text) > MAX_FAST:
         text = text[: MAX_FAST - 2].rstrip() + "\n"
     return text

@@ -42,7 +42,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin prüft und gestaltet Handelsvertreter- und Vertriebsverhältnisse vom Statuscheck bis zum Ausgleichsanspruch: rechtlich präzise, zahlenfest, beweisnah und mit Blick auf Kartellrecht, Datenschutz, Steuer und internationale Vertriebsmodelle.
 
 ## Wofür dieses Plugin da ist
@@ -94,7 +94,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 128 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -161,7 +161,7 @@ Automatisch generierte Komplett-Liste aller 128 Skills in diesem Plugin. Beschre
 | `key-account-kommissionaer-abgrenzung` | Wenn es um Key-Account-Konflikte im Handelsvertretervertrag — Gebietsschutz und Provision in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Ris... |
 | `key-account-konflikt` | Wenn es um Key Account Konflikt in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `kommissionaer-abgrenzung` | Wenn es um Abgrenzung Handelsvertreter vom Kommissionär nach Paragrafen 383 ff. HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzba... |
-| `kuendigungsfristen-89` | Wenn es um Kuendigungsfristen 89 in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `kuendigungsfristen-89` | Wenn es um Kündigungsfristen 89 in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `kuendigungsschreiben` | Wenn es um Kündigungsschreiben im Handelsvertretervertrag — Form, Fristen und Inhalt in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoam... |
 | `kundendaten-dsgvo` | Wenn es um Kundendaten und DSGVO im Handelsvertretervertrag nach Paragraf 88 HGB und DSGVO in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Ri... |
 | `kundenliste-herausgabe` | Wenn es um Kundenliste Herausgabe in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -187,7 +187,7 @@ Automatisch generierte Komplett-Liste aller 128 Skills in diesem Plugin. Beschre
 | `principal-direktgeschaeft` | Wenn es um Direktgeschäfte des Unternehmers im Handelsvertretergebiet nach Paragraf 87 HGB in Handelsvertreterrecht und Vertriebsverträge geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- u... |
 | `provisionsanspruch-paragraf87` | Wenn es um Provisionsanspruch nach Paragraf 87 HGB — Entstehung, Fälligkeit und Durchsetzung in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und... |
 | `provisionsklage` | Wenn es um Provisionsklage nach Paragrafen 87 ff. HGB — Klageschrift, Beweise und Strategie in Handelsvertreterrecht und Vertriebsverträge geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwe... |
-| `provisionskuerzung` | Wenn es um Provisionskuerzung in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `provisionskuerzung` | Wenn es um Provisionskürzung in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `provisionskuerzung-rechtsabteilung` | Wenn es um Unberechtigte Provisionskürzungen — Stornoreserven und Rückforderungen nach Paragraf 87a HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fr... |
 | `rechtsabteilung-ausgleichsanspruch-89b-mit-datenbeweis` | Wenn es um Rechtsabteilung: Ausgleichsanspruch Paragraf 89b mit Datenbeweis in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Subs... |
 | `rechtsabteilung-einstandszahlung-und-agb-kontrolle` | Wenn es um Rechtsabteilung: Einstandszahlung und AGB-Kontrolle in Handelsvertreterrecht und Vertriebsverträge geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und... |
@@ -200,7 +200,7 @@ Automatisch generierte Komplett-Liste aller 128 Skills in diesem Plugin. Beschre
 | `retouren-reklamationen` | Wenn es um Retouren und Reklamationen — Auswirkungen auf die Provision nach Paragraf 87a HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und... |
 | `scheinselbststaendigkeit` | Wenn es um Scheinselbständigkeit des Handelsvertreters: Paragraf 7 SGB IV und Paragraf 84 HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und... |
 | `schiedsgericht` | Wenn es um Schiedsklausel im Handelsvertretervertrag nach Paragrafen 1029 ff. ZPO und Paragraf 92c HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefer... |
-| `selbstaendig-vs-angestellt` | Wenn es um Selbstaendig Vs Angestellt in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `selbstaendig-vs-angestellt` | Wenn es um Selbständig Vs Angestellt in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `selbstaendig-vs-side-letter` | Wenn es um Selbständiger Handelsvertreter vs. Angestellter Reisender nach Paragraf 84 HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt... |
 | `side-letter` | Wenn es um Side Letter und Nebenabreden im Handelsvertretervertrag — Wirksamkeit und Risiken in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und... |
 | `sozialversicherung-status` | Wenn es um Sozialversicherungsstatus des Handelsvertreters nach Paragraf 7 SGB IV und Paragraf 84 HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fris... |
@@ -224,7 +224,7 @@ Automatisch generierte Komplett-Liste aller 128 Skills in diesem Plugin. Beschre
 | `vertriebsumstellung` | Wenn es um Vertriebsumstellung durch den Unternehmer — Ausgleich und Kündigung nach Paragraf 89b HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Frist... |
 | `verwirkung` | Wenn es um Verwirkung von Handelsvertreter-Ansprüchen nach Paragraf 242 BGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit S... |
 | `vorstandsvorlage` | Wenn es um Vorstandsvorlage zu Handelsvertreter-Themen nach HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt m... |
-| `waehrung-inflation` | Wenn es um Waehrung Inflation in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `waehrung-inflation` | Wenn es um Währung Inflation in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `waehrung-inflation-wettbewerbsabrede-90a` | Wenn es um Währungsrisiken und Inflation im Handelsvertretervertrag nach HGB und Paragraf 313 BGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen-... |
 | `wettbewerbsabrede-90a` | Wenn es um Nachvertragliches Wettbewerbsverbot nach Paragraf 90a HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortsc... |
 | `zielvereinbarungen` | Wenn es um Zielvereinbarungen im Handelsvertretervertrag — Bonus und Provision nach Paragraf 87 HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Friste... |

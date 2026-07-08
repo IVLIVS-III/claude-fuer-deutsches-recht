@@ -1,4 +1,4 @@
-# Akte: Markenstreit 3D-Marke Rosenbluete — Leichtenstein Gartenkultur vs. FlowerWorld AG u. a.
+# Akte: Markenstreit 3D-Marke Rosenblüte — Leichtenstein Gartenkultur vs. FlowerWorld AG u. a.
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
@@ -23,7 +23,7 @@ Arbeitsakte zum Plugin `fachanwalt-gewerblicher-rechtsschutz`.
 ## Kurzbild
 
 - **Mandantin:** Leichtenstein Gartenkultur Manufaktur GmbH, Eberbach am Neckar; Geschäftsführerin Reinhilde Leichtenstein-Bauernfeind; 28 Mitarbeiter.
-- **Schutzrechte:** EU-3D-Marke EUIPO Nr. 018 977 412 (gusseiserne Rosenbluete als Stand- und Gartendekoration); eingetragenes EU-Geschmacksmuster Community Design 008 412 661-0001; nationale Marke DPMA 30 2026 011 442.
+- **Schutzrechte:** EU-3D-Marke EUIPO Nr. 018 977 412 (gusseiserne Rosenblüte als Stand- und Gartendekoration); eingetragenes EU-Geschmacksmuster Community Design 008 412 661-0001; nationale Marke DPMA 30 2026 011 442.
 - **Hauptkonflikt 1 — FlowerWorld AG (Hamburg):** Discounter-Kette vertreibt seit März 2026 eine optisch verwechselbare Aluminium-Variante; Markenverletzungsklage LG Mannheim 7 O 88/26 (Kammer für Handelssachen), einstweilige Verfügung erlassen, Berufung FlowerWorld anhängig.
 - **Hauptkonflikt 2 — EUIPO-Nichtigkeitsantrag Bouqart Italia S.r.l.:** Löschungsantrag wegen mangelnder Unterscheidungskraft (Art. 7 Abs. 1 lit. b UMV); Beschwerdeverfahren EUIPO Boards of Appeal, Az. R 1322/26-2.
 - **Hauptkonflikt 3 — Designrechtsstreit:** Bouqart bestreitet Neuheit des Geschmacksmusters unter Verweis auf Vintage-Katalog 1962 (angeblicher Stand der Technik).
@@ -101,6 +101,6 @@ Arbeitsakte zum Plugin `fachanwalt-gewerblicher-rechtsschutz`.
 | EML | [`eml/cease_and_desist_influencer_rosengarten24.eml`](eml/cease_and_desist_influencer_rosengarten24.eml) | Cease-and-Desist an RosenGarten24.de |
 | PDF | [`pdfs/euipo_registerauszug_3d_marke_018977412.pdf`](pdfs/euipo_registerauszug_3d_marke_018977412.pdf) | EUIPO-Registerauszug 3D-Marke |
 | PDF | [`pdfs/vintage_katalog_1962_auszug_stand_der_technik.pdf`](pdfs/vintage_katalog_1962_auszug_stand_der_technik.pdf) | Vintage-Katalog-Auszug 1962 (angeblicher Stand der Technik) |
-| JPG | [`jpg/original_rosenbluete_leichtenstein.jpg`](jpg/original_rosenbluete_leichtenstein.jpg) | Original-Rosenbluete Leichtenstein Manufaktur |
+| JPG | [`jpg/original_rosenbluete_leichtenstein.jpg`](jpg/original_rosenbluete_leichtenstein.jpg) | Original-Rosenblüte Leichtenstein Manufaktur |
 | JPG | [`jpg/flowerworld_aluminium_variante.jpg`](jpg/flowerworld_aluminium_variante.jpg) | FlowerWorld-Aluminium-Variante (Verletzungsgegenstand) |
 | JPG | [`jpg/designzeichnung_geschmacksmuster.jpg`](jpg/designzeichnung_geschmacksmuster.jpg) | Designzeichnung EU-Geschmacksmuster 008 412 661-0001 |

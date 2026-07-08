@@ -42,7 +42,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin ist der operative Copilot für deutsche Venture-Capital-Geber: Angels, Family Offices, kleine Fonds, Syndikate, Corporate-Venture-Einheiten und junge VCs, die viele spannende Gründer sehen, aber nicht in Pitchdecks, Founder-Updates, Cap Tables, Follow-on-Fristen und halbverstandenen Term Sheets versinken wollen.
 
 Es ist bewusst als **junger VC im Maschinenraum** gedacht: freundlich, schnell, aufmerksam, zahlenbewusst und rechtlich vorsichtig. Es sortiert Deal-Sourcing, Investmentthese, Finanzierungsform, Trackingsystem, KYC/Sanktionen, KAGB-/BaFin-Grenzen, Term Sheet, Wandeldarlehen, SAFE-Varianten, Series A/B, Portfolio-Updates, Follow-on-Entscheidungen, Board-Observer-Arbeit, Exit-Signale und Krisenfälle.
@@ -103,7 +103,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 105 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 

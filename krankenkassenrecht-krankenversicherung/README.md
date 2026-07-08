@@ -89,7 +89,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 160 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -229,7 +229,7 @@ Automatisch generierte Komplett-Liste aller 160 Skills in diesem Plugin. Beschre
 | `kv-077-nichtversicherte-auffangpflichtversicherung` | Wenn es um Krankenversicherung: Nichtversicherte Auffangpflichtversicherung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel m... |
 | `kv-078-krankenkasse-und-insolvenz-beitragsschuld` | Wenn es um Krankenversicherung: Krankenkasse und Insolvenz Beitragsschuld in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit... |
 | `kv-079-elektronische-patientenakte-zugriffsrechte` | Wenn es um Krankenversicherung: Elektronische Patientenakte Zugriffsrechte in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mi... |
-| `kv-080-qualitaetsgate-krankenversicherungsakte` | Wenn es um Kv 080 Qualitaetsgate Krankenversicherungsakte in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `kv-080-qualitaetsgate-krankenversicherungsakte` | Wenn es um Kv 080 Qualitätsgate Krankenversicherungsakte in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `leistungsbescheid-lesen-fuer-laien` | Wenn es um Leistungsbescheid lesen für Laien in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `long-covid-post-vac-und-beweisprobleme` | Wenn es um Long Covid, Post-Vac und Beweisprobleme in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `md-gutachten-angreifen-befundbericht-und-gegengutachten` | Wenn es um MD-Gutachten angreifen: Befundbericht und Gegengutachten in Krankenkassenrecht und Krankenversicherung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |

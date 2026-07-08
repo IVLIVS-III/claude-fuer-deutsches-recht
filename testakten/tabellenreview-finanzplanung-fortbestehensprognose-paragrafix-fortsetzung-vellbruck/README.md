@@ -97,7 +97,7 @@ Arbeitsakte zum Plugin `tabellenreview-3d`.
 
 | Datei | Inhalt |
 |---|---|
-| [`xlsx/findings-register-tabellenreview.xlsx`](xlsx/findings-register-tabellenreview.xlsx) | Findings-Register: 10 Findings mit Schwere, Auswirkung EUR, Massnahme, Status |
+| [`xlsx/findings-register-tabellenreview.xlsx`](xlsx/findings-register-tabellenreview.xlsx) | Findings-Register: 10 Findings mit Schwere, Auswirkung EUR, Maßnahme, Status |
 | [`xlsx/version-changelog-modell.xlsx`](xlsx/version-changelog-modell.xlsx) | Versionshistorie v18–v23 mit Bearbeiter, Begründung, Reviewstatus |
 
 ### E-Mails (.eml)

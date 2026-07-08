@@ -1,6 +1,6 @@
 # umweltschutzverband-verbandsklage
 
-**112 Skills** · Stand `v429.3.0`
+**112 Skills** · Stand `v429.4.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/umweltschutzverband-verbandsklage/README.md)

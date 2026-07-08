@@ -1,4 +1,4 @@
-# Akte Vertragsausfueller - BSAG Kiosk Huckelriede
+# Akte Vertragsausfüller - BSAG Kiosk Huckelriede
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
@@ -27,9 +27,9 @@ Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das
 
 ## Sachverhalt
 
-Die Bremer Straßenbahn AG (BSAG) vermietet ein Kioskobjekt im Haltestellenbereich Huckelriede an die Scherflein GmbH, die dort einen Imbiss-Kiosk mit Zeitungsverkauf, Heissgetraenkeausschank und Lottoannahmestelle betreiben möchte. Es liegen zwei Word-Dokumente vor: eine generische BSAG-Mietvertragsvorlage mit Platzhaltern (zum Beispiel `<<MIETER>>`, `<<KALTMIETE>>`) und ein konkretes Term Sheet mit den vereinbarten Eckdaten zum Fall.
+Die Bremer Straßenbahn AG (BSAG) vermietet ein Kioskobjekt im Haltestellenbereich Huckelriede an die Scherflein GmbH, die dort einen Imbiss-Kiosk mit Zeitungsverkauf, Heissgetraenkeausschank und Lottoannahmestelle betreiben möchte. Es liegen zwei Word-Dokumente vor: eine standardisierte BSAG-Mietvertragsvorlage mit Ausfüllfeldern (zum Beispiel `<<MIETER>>`, `<<KALTMIETE>>`) und ein konkretes Term Sheet mit den vereinbarten Eckdaten zum Fall.
 
-Aufgabe des Vertragsausfuellers ist es, die Vorlage aufzunehmen, ein Feldinventar zu erzeugen, die Werte aus dem Term Sheet sauber zu mappen und einen Clean-Entwurf zu erzeugen. Wegen Abweichungen zwischen Vorlage (zweimal zwei Jahre Verlängerung, kein Konkurrenzschutz) und Term Sheet (zweimal drei Jahre Verlängerung, Konkurrenzschutz 150 m, Sortimentsbindung Imbiss/Zeitungen) sind Rückfragen an die BSAG zwingend, bevor der Vertrag final wird. Die Akte ist bewusst so geschnitten, dass der Workflow von Feldinventar über Mapping, Rückfragen, Clean-Entwurf bis hin zu Track Changes durchgespielt werden kann.
+Aufgabe des Vertragsausfüllers ist es, die Vorlage aufzunehmen, ein Feldinventar zu erzeugen, die Werte aus dem Term Sheet sauber zu mappen und einen Clean-Entwurf zu erzeugen. Wegen Abweichungen zwischen Vorlage (zweimal zwei Jahre Verlängerung, kein Konkurrenzschutz) und Term Sheet (zweimal drei Jahre Verlängerung, Konkurrenzschutz 150 m, Sortimentsbindung Imbiss/Zeitungen) sind Rückfragen an die BSAG zwingend, bevor der Vertrag final wird. Die Akte ist bewusst so geschnitten, dass der Workflow von Feldinventar über Mapping, Rückfragen, Clean-Entwurf bis hin zu Track Changes durchgespielt werden kann.
 
 Sensible Sonderpunkte: Konkurrenzschutz, Fettabscheider, Abfallentsorgung, Rückbaupflicht, Umsatzsteueroption, Verlängerungsoptionen. Track-Changes-Fassungen werden nur auf ausdrücklichen Wunsch erzeugt.
 
@@ -54,9 +54,9 @@ Sensible Sonderpunkte: Konkurrenzschutz, Fettabscheider, Abfallentsorgung, Rück
 
 | Datei | Beschreibung |
 |---|---|
-| [BSAG-Mietvertrag-Vorlage.docx](BSAG-Mietvertrag-Vorlage.docx) / [.docx](BSAG-Mietvertrag-Vorlage.docx) | Generische Vermietungsvorlage der BSAG mit Platzhaltern für alle Mieterdaten, Preise und Sonderbedingungen |
+| [BSAG-Mietvertrag-Vorlage.docx](BSAG-Mietvertrag-Vorlage.docx) / [.docx](BSAG-Mietvertrag-Vorlage.docx) | Standardisierte Vermietungsvorlage der BSAG mit Ausfüllfeldern für alle Mieterdaten, Preise und Sonderbedingungen |
 | [BSAG-TermSheet-Kiosk-Huckelriede.docx](BSAG-TermSheet-Kiosk-Huckelriede.docx) / [.docx](BSAG-TermSheet-Kiosk-Huckelriede.docx) | Konkretes Term Sheet zum Mietfall Scherflein GmbH mit allen ausgehandelten Zahlen und Sonderpunkten |
-| [01_feldinventar_bsag.csv](01_feldinventar_bsag.csv) | Aus der Vorlage extrahiertes Feldinventar (Platzhalter, Typ, Bemerkung) |
+| [01_feldinventar_bsag.csv](01_feldinventar_bsag.csv) | Aus der Vorlage extrahiertes Feldinventar (Ausfüllfeld, Typ, Bemerkung) |
 | [02_mapping_notiz.docx](02_mapping_notiz.docx) | Mapping zwischen Vorlage-Feldern und Term-Sheet-Werten inklusive Konfliktstellen |
 | [03_rueckfragen_bsag.docx](03_rueckfragen_bsag.docx) | Offene Rückfragen an die BSAG vor Erstellung des Clean-Entwurfs |
 | [04_clean_entwurf_checkliste.docx](04_clean_entwurf_checkliste.docx) | Prüfliste vor Versand des Clean-Entwurfs an Mieter und Vermieter |

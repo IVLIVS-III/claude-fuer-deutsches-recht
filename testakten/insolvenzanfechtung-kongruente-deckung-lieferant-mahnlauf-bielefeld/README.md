@@ -1,4 +1,4 @@
-# Testakte: Insolvenzanfechtung Teutoburger Möbelwerk — kongruente Deckung, Mahnlauf und Kenntnisfrage (Bielefeld)
+# Testakte: Insolvenzanfechtung Teutoburger Möbelwerk — kongrünte Deckung, Mahnlauf und Kenntnisfrage (Bielefeld)
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
@@ -16,7 +16,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Arbeitsakte der Kanzlei Broscheit & Weyland (Velbert), die die HebeFix Beschlagtechnik GmbH gegen eine Insolvenzanfechtung verteidigt. Die Teutoburger Möbelwerk GmbH (Bielefeld, Amtsgericht Bielefeld, 43 IN 12/26) zahlte in den letzten drei Monaten vor ihrem Eigenantrag vom 12.01.2026 drei fällige Rechnungen ihres Beschlaglieferanten über zusammen 87.400 EUR. Die Deckungen sind kongruent; die Insolvenzverwalterin stützt die Anfechtung auf § 130 Abs. 1 Satz 1 Nr. 1 InsO und damit allein auf die Kenntnis der Zahlungsunfähigkeit.
+Arbeitsakte der Kanzlei Broscheit & Weyland (Velbert), die die HebeFix Beschlagtechnik GmbH gegen eine Insolvenzanfechtung verteidigt. Die Teutoburger Möbelwerk GmbH (Bielefeld, Amtsgericht Bielefeld, 43 IN 12/26) zahlte in den letzten drei Monaten vor ihrem Eigenantrag vom 12.01.2026 drei fällige Rechnungen ihres Beschlaglieferanten über zusammen 87.400 EUR. Die Deckungen sind kongrünt; die Insolvenzverwalterin stützt die Anfechtung auf § 130 Abs. 1 Satz 1 Nr. 1 InsO und damit allein auf die Kenntnis der Zahlungsunfähigkeit.
 
 Die Indizien ziehen in beide Richtungen: dreistufiger Mahnlauf, zwei Lastschriftrückgaben, die E-Mail des Schuldner-Geschäftsführers („wir können derzeit nur zahlen, wenn Sie liefern, sonst stehen die Bänder still"), eine Ratenzahlungsbitte mit Offenbarungscharakter und ein interner Bonitätsvermerk („Bonität rot, nur noch gegen Vorkasse?") — aber auch zwei vor Fälligkeit bezahlte Zwischenrechnungen und ein Pressebericht über den größten Auftrag der Firmengeschichte. Ein Insolvenzreife-Gutachten enthält die Akte bewusst nicht; die Zahlungsunfähigkeit muss aus der BWA-Reihe und der OPOS-Liste rekonstruiert werden, deren Befund von der Datierung im Verwalterschreiben erheblich abweicht. Die Akte nimmt die rechtliche Würdigung nicht vorweg.
 

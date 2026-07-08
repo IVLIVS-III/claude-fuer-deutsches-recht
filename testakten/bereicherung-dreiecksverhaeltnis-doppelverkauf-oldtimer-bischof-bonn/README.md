@@ -1,4 +1,4 @@
-# Akte: Bereicherungs-Dreiecksverhaeltnis / Doppelverkauf Oldtimer Bischof-Hellberg / Bonn
+# Akte: Bereicherungs-Dreiecksverhältnis / Doppelverkauf Oldtimer Bischof-Hellberg / Bonn
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
@@ -19,19 +19,19 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 **Plugin:** `bereicherungs-und-anfechtungsrecht-pruefer`
 **Aktenordner:** `bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn`
 **Erstellt:** März 2026
-**Umfang:** 22 Aktenstuecke, 3 Schriftsaetze, 2 Tabellen, 4 E-Mails, 2 PDFs, 3 Grafiken
+**Umfang:** 22 Aktenstücke, 3 Schriftsätze, 2 Tabellen, 4 E-Mails, 2 PDFs, 3 Grafiken
 
 ---
 
 ## Sachverhalt (Kurzfassung)
 
 Dr. Reinhart Bischof-Hellberg (68), pensionierter Anästhesist am Universitätsklinikum Bonn
-und Sammler historischer Sportwagen, veraeussert seinen Mercedes-Benz 300 SL Gullwing
+und Sammler historischer Sportwagen, veräußert seinen Mercedes-Benz 300 SL Gullwing
 (Bj. 1955, Schätzwert 1.800.000 EUR) an zwei Käufer: Theresia Bagheri-Aichholz (Wien)
 und Heinz-Albrecht Trappenfels (Hamburg). Beide leisten Anzahlungen (600.000 EUR bzw. 850.000 EUR).
 Lieferung erfolgt nur an Trappenfels; das Fahrzeug verbrennt zwei Tage später.
 
-Zusätzlich besteht ein Dreiecksverhaeltnis mit der Werkstatt Schmiedeknecht-Restaurations-KG
+Zusätzlich besteht ein Dreiecksverhältnis mit der Werkstatt Schmiedeknecht-Restaurations-KG
 (78.000 EUR angewiesene Zahlung, Anweisung nach Paragraf 119 BGB angefochten),
 eine Insolvenz-Anfechtungslage (AG Hamburg 67 IN 88/26, Insolvenzverwalterin
 RAin Dr. Sigrid Drosselberg) sowie eine AnfG-Anfechtung der Übertragung
@@ -107,7 +107,7 @@ bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn/
 |---|---|
 | Leistungskondiktion (Paragraf 812 Abs. 1 S. 1 1. Alt.) | 02, 03, 11 |
 | Eingriffskondiktion (Paragraf 812 Abs. 1 S. 1 2. Alt.) | 14 |
-| Dreiecksverhaeltnis / Anweisungsfälle | 04, 17 |
+| Dreiecksverhältnis / Anweisungsfälle | 04, 17 |
 | Saldotheorie vs. Zweikondiktionentheorie | 09 |
 | Paragraf 817 S. 2 BGB | 11 |
 | Paragraf 818 Abs. 2 BGB (Wertersatz) | 10 |
@@ -119,8 +119,8 @@ bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn/
 | Thema | Aktenstücke |
 |---|---|
 | Paragraf 129 InsO (Grundtatbestand) | 05, 06 |
-| Paragraf 130 InsO (Kongruente Deckung) | 05 |
-| Paragraf 131 InsO (Inkongruente Deckung) | 05 |
+| Paragraf 130 InsO (Kongrünte Deckung) | 05 |
+| Paragraf 131 InsO (Inkongrünte Deckung) | 05 |
 | Paragraf 133 InsO (Vorsatzanfechtung) | 06, 13 |
 | Paragrafen 143, 144 InsO (Rechtsfolgen) | 07 |
 | Paragraf 146 InsO (Verjährung) | 07, 12 |

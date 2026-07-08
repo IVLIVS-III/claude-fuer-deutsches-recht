@@ -42,7 +42,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du Eroeffnungsgrund und Fortbestehensprognose belastbar bestimmen und den naechsten Verfahrensschritt wählen.
+Wenn du das hier öffnest, willst du Eröffnungsgrund und Fortbestehensprognose belastbar bestimmen und den nächsten Verfahrensschritt wählen.
 Freistehendes Cowork-Plugin für die Prüfung von Insolvenzforderungen vom Eingang bis zur Tabellenfeststellung. Es ist ein vollständiger Arbeitsraum für Verwalterbüro, Sachwaltung, Forderungsmanagement und Prozessnachlauf: Anmeldung erfassen, Mängel erkennen, Belege nachfordern, Grund, Betrag und Rang prüfen, Entscheidung dokumentieren, Tabelle befüllen, Prüfungstermin vorbereiten, Bestreiten oder Feststellung ausgeben und streitige Forderungen bis zur Verteilung nachhalten.
 
 ## Wofür das Plugin gedacht ist
@@ -73,18 +73,18 @@ Das Plugin arbeitet verzeihend, aber nicht schlampig. Es akzeptiert unsaubere Gl
 | ifap-kommandocenter | Startet den gesamten Prüfpfad und entscheidet, welcher Arbeitsmodus passt. |
 | ifap-intake-kanalcheck | Erfasst Post, E-Mail, Portal, Stapel, Nachzügler und Metadaten. |
 | ifap-aktenanlage-batchregister | Baut Register, Prüfnummern, Gläubigerstamm und Eingangsbuch auf. |
-| ifap-formalpruefung-174 | Prüft die formalen Mindestangaben nach § 174 InsO. |
+| ifap-formalprüfung-174 | Prüft die formalen Mindestangaben nach § 174 InsO. |
 | ifap-beleg-und-urkundencheck | Bildet die Belegkette und erkennt fehlende Urkunden. |
 | ifap-grund-betrag-zinsen | Prüft Anspruchsgrund, Betrag, Teilzahlungen und Zinslauf. |
 | ifap-rang-nachrang-absonderung | Trennt Insolvenzforderung, Nachrang, Sicherheiten und Ausfall. |
 | ifap-masseverbindlichkeit-abgrenzen | Erkennt falsch angemeldete Masseforderungen und Abgrenzungsfälle. |
-| ifap-vbuh-pruefung | Prüft vbuH, Unterhalt und Steuerstraftat mit Tatsachenbasis. |
+| ifap-vbuh-prüfung | Prüft vbuH, Unterhalt und Steuerstraftat mit Tatsachenbasis. |
 | ifap-dubletten-serienforderungen | Erkennt Mehrfachanmeldungen, Serienrechnungen und Vertreterwechsel. |
 | ifap-nachforderung-maengelschreiben | Erstellt präzise Beleg- und Substanznachforderungen. |
 | ifap-prüfentscheidung | Erstellt Feststellungs-, Teilbestreitens- und Bestreitensvermerke. |
 | ifap-tabellenimport-175 | Baut einen gerichtsfesten Tabellenimport nach § 175 InsO. |
-| ifap-pruefungstermin-176 | Bereitet Prüfungstermin oder schriftliches Verfahren vor. |
-| ifap-nachtraegliche-anmeldung-177 | Steuert verspätete und geänderte Anmeldungen. |
+| ifap-prüfungstermin-176 | Bereitet Prüfungstermin oder schriftliches Verfahren vor. |
+| ifap-nachträgliche-anmeldung-177 | Steuert verspätete und geänderte Anmeldungen. |
 | ifap-tabellenauszug-178 | Erzeugt Tabellenauszug- und Feststellungswirkungs-Ausgaben. |
 | ifap-streitige-forderung-179-180 | Führt den Feststellungsklage- und Rechtsstreit-Nachlauf. |
 | ifap-schuldnerwiderspruch-184 | Behandelt Schuldnerwiderspruch und Monatsfrist bei titulierten Forderungen. |
@@ -116,7 +116,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -137,14 +137,14 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `formalpruefung-174` | Wenn es um Formalprüfung nach Paragraf 174 InsO in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `grund-betrag-zinsen` | Wenn es um Grund, Betrag und Zinsen in Insolvenzforderungsanmeldungsprüfung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
 | `grund-risikoampel-und-gegenargumente` | Wenn es um Grund: Risikoampel, Gegenargumente und Verteidigungslinien in Insolvenzforderungsanmeldungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortsch... |
-| `iap-anmeldepruefung-bauleiter-aussonderung` | Wenn es um IAP: Anmeldepruefung Bauleiter in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `iap-anmeldepruefung-bauleiter-aussonderung` | Wenn es um IAP: Anmeldeprüfung Bauleiter in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `iap-aussonderung-absonderung-spezial` | Wenn es um IAP: Aussonderung Absonderung in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `iap-konzernforderungen-anfechtung-spezial` | Wenn es um IAP: Konzernforderungen Anfechtung in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `iap-rangordnung-ifap-aktenanlage-beleg` | Wenn es um IAP: Rangordnung-Checkliste in Insolvenzforderungsanmeldungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
-| `inso-forderungsanmeldung-start-chronologie-fristen` | Wenn es um Insolvenzforderungsanmeldungspruefung — Allgemein in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
+| `inso-forderungsanmeldung-start-chronologie-fristen` | Wenn es um Insolvenzforderungsanmeldungsprüfung — Allgemein in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `inso-fristen-form-und-zustaendigkeit` | Wenn es um InsO: Fristen, Form, Zuständigkeit und Rechtsweg in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `insolvenzforderungsanmeldungspruefung` | Wenn es um Ifap: Mandantenkommunikation und Entscheidungsvorlage in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `insolvenzforderungsanmeldungspruefung-erstpruefung` | Wenn es um Insolvenzforderungsanmeldungspruefung: Erstprüfung, Rollenklärung und Mandatsziel in Insolvenzforderungsanmeldungsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- u... |
+| `insolvenzforderungsanmeldungspruefung-erstpruefung` | Wenn es um Insolvenzforderungsanmeldungsprüfung: Erstprüfung, Rollenklärung und Mandatsziel in Insolvenzforderungsanmeldungsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- u... |
 | `intake-kanalcheck-masseverbindlichkeit` | Wenn es um Intake und Kanalcheck in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `intake-tatbestand-beweis-und-belege` | Wenn es um Intake: Tatbestandsmerkmale, Beweisfragen und Beleglage in Insolvenzforderungsanmeldungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `kanalcheck-beweislast-masseverbindlichkeit` | Wenn es um Kanalcheck: Beweislast, Darlegungslast und Substantiierung in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -164,7 +164,7 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `rang-tabellenauszug-tabellenimport` | Wenn es um Rang: Schriftsatz-, Brief- und Memo-Bausteine in Insolvenzforderungsanmeldungsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung u... |
 | `schuldnerwiderspruch-184` | Wenn es um Schuldnerwiderspruch nach Paragraf 184 InsO in Insolvenzforderungsanmeldungsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-nachforderungen-livequellen-und-rechtsprechungscheck` | Wenn es um Nachforderungen: Livequellen- und Rechtsprechungscheck in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `spezial-pruefungstermin-compliance-dokumentation-und-akte` | Wenn es um Pruefungstermin: Compliance-Dokumentation und Aktenvermerk in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-pruefungstermin-compliance-dokumentation-und-akte` | Wenn es um Prüfungstermin: Compliance-Dokumentation und Aktenvermerk in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-vbuh-verhandlung-vergleich-und-eskalation` | Wenn es um Vbuh: Verhandlung, Vergleich und Eskalation in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-verteilung-red-team-und-qualitaetskontrolle` | Wenn es um Verteilung: Red-Team und Qualitätskontrolle in Insolvenzforderungsanmeldungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `streitige-forderung-179-180` | Wenn es um Streitige Forderung und Feststellungsklage in Insolvenzforderungsanmeldungsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und... |

@@ -37,13 +37,13 @@ Redaktionsakte zu einem geplanten Bericht über ein Wirtschaftsstrafverfahren ge
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | 01 mandatsnotiz erstgespraech.docx |
+| `01_mandatsnotiz_erstgespraech.docx` | 01 mandatsnotiz erstgespräch.docx |
 | `02_chronologie_arbeitsstand.docx` | 02 chronologie arbeitsstand.docx |
 | `03_sachverhalt_aus_mandantensicht.docx` | 03 sachverhalt aus mandantensicht.docx |
 | `04_gegenseite_standpunkt.docx` | 04 gegenseite standpunkt.docx |
 | `05_stellungnahmen_synopse.docx` | 05 stellungnahmen synopse.docx |
-| `06_bildredaktion_pruefblatt.docx` | 06 bildredaktion pruefblatt.docx |
-| `09_entwurf_naechstes_schreiben.docx` | 09 entwurf naechstes schreiben.docx |
+| `06_bildredaktion_pruefblatt.docx` | 06 bildredaktion prüfblatt.docx |
+| `09_entwurf_naechstes_schreiben.docx` | 09 entwurf nächstes schreiben.docx |
 | `csv/headline_varianten.csv` | csv/headline varianten.csv |
 | `emails/2026-06-26_verteidiger_hinweis.eml` | emails/2026 06 26 verteidiger hinweis.eml |
 | `pdfs/pressemitteilung_auszug.pdf` | pdfs/pressemitteilung auszug.pdf |

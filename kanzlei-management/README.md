@@ -42,7 +42,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Ein Mega-Plugin für die Leitung einer deutschen mittelständischen Kanzlei aus Sicht des Managing Partners, der Geschäftsführung, eines Management Committees oder einer starken COO-/CFO-Rolle.
 
 Es geht um das ganze schöne, anstrengende Betriebsleben: Partnerkreis, Praxisgruppen, Cashflow, Pricing, Associate-Retention, WIP, UBT, FTE, Utilization, offene Posten, Business Development, Legal Tech, Fristen- und Qualitätsrisiken, Egos, Kultur und die Frage, wie man eine Kanzlei führt, ohne sie in ein Controlling-Museum oder einen Stuhlkreis zu verwandeln.
@@ -101,7 +101,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
