@@ -53,10 +53,25 @@ insolvenzanfechtung-bargeschaeft-vorkasse-rohstofflieferant-chemnitz/
 ├── 12_replik_verwalterin_2026-07-02.docx                  — Replik mit Unlauterkeits-Argumentation und Fristsetzung zum 24.07.2026
 ├── 13_opos_liste_granova_stand_2025-11-05.csv             — Offene Altforderungen des Lieferanten mit Mahnstufen und Rücklastschrift
 ├── 14_interner_vermerk_granova_kreditentscheidung_2025-11-03.docx — Interner Lieferanten-Vermerk: Limit null, Stillhalten, Belieferung im Eigeninteresse
+├── 15_klageschrift_verwalterin_lg_chemnitz.docx           — Klageschrift der Verwalterin zum LG Chemnitz, Az. 5 O 233/26
+├── 16_klageerwiderung_granova.docx                        — Klageerwiderung der Beklagten
+├── 17_duplik_verwalterin.docx                             — Duplik: Kenntnis durch Restrukturierungsberater, Fristenverstoss Bargeschäft
+├── 18_triplik_granova.docx                                — Triplik mit Antrag auf Sachverständigengutachten
+├── 19_beweisbeschluss_lg_chemnitz.docx                    — Beweisbeschluss: Zeugenvernehmung und Sachverständigengutachten
+├── 20_zeugenvernehmungsprotokoll_feldkamp.docx            — Vernehmung des Zeugen Dr. Roman Feldkamp
+├── 21_sachverstaendigengutachten_ottersbach_zuordnung.docx — Gutachten: drei Zahlungen ausserhalb Bargeschäfts-Zeitfenster (EUR 61.200)
+├── 22_stellungnahme_granova_zum_gutachten.docx            — Stellungnahme mit Vergleichsanregung
+├── 23_vergleichsvorschlag_und_annahme.docx                — Vergleichsvorschlag (EUR 45.000) und Annahme
+├── 24_feststellungsbeschluss_vergleich_chemnitz.docx      — Feststellungsbeschluss § 278 VI ZPO
+├── 25_schlussvermerk_verwalterin.docx                     — Aktenvermerk: Abschluss des Anfechtungsverfahrens
+├── xlsx/
+│   └── zeitliche_zuordnung_zahlungen_lieferungen.xlsx      — Tabellarische Zuordnung Zahlungen/Lieferungen (SV-Gutachten)
 ├── eml/
 │   ├── 2025-11-06_wandelt_bitte_zahlungsziel.eml          — Geschäftsführerin bittet um 14-Tage-Ziel und kündigt Ratenvorschlag an
 │   ├── 2026-02-02_sarrasin_krisenaufschlag.eml            — Vertriebsleiter führt den Risikozuschlag von 4 Prozent ein
-│   └── 2026-02-03_wandelt_antwort_krisenaufschlag.eml     — Geschäftsführerin protestiert und akzeptiert; Hinweise auf Bankgespräche
+│   ├── 2026-02-03_wandelt_antwort_krisenaufschlag.eml     — Geschäftsführerin protestiert und akzeptiert; Hinweise auf Bankgespräche
+│   ├── 2026-12-10_vergleichsannahme_granova.eml           — Annahme des Vergleichsvorschlags durch Granova
+│   └── 2027-01-20_zahlungsbestaetigung.eml                — Bestätigung Zahlungseingang Vergleichsbetrag
 ├── rubric.yaml                                            — Sechs Prüfpunkte zur Bewertung einer Bearbeitung
 └── README.md                                              — Diese Übersicht
 ```
