@@ -1,28 +1,5 @@
 # Datenschutz-Sanktionsverfahren und Verteidigung
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`datenschutz-sanktionsverfahren-verteidigung`) | [`datenschutz-sanktionsverfahren-verteidigung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenschutz-sanktionsverfahren-verteidigung.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Auskunft nach Artikel 15 DSGVO bei verstreuten Datenbeständen (Karlsruhe)** (`datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe`) | [Gesamt-PDF lesen](../testakten/datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe/gesamt-pdf/datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe_gesamt.pdf) | [`testakte-datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe.zip) |
-| **Beschäftigten-Videoüberwachung und Kündigung (Gelsenkirchen)** (`datenschutz-beschaeftigte-videoueberwachung-kuendigung-gelsenkirchen`) | [Gesamt-PDF lesen](../testakten/datenschutz-beschaeftigte-videoueberwachung-kuendigung-gelsenkirchen/gesamt-pdf/datenschutz-beschaeftigte-videoueberwachung-kuendigung-gelsenkirchen_gesamt.pdf) | [`testakte-datenschutz-beschaeftigte-videoueberwachung-kuendigung-gelsenkirchen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-beschaeftigte-videoueberwachung-kuendigung-gelsenkirchen.zip) |
-| **Datenpanne und 72-Stunden-Meldung nach Ransomware (Osnabrück)** (`datenschutz-datenpanne-72-stunden-meldung-ransomware-osnabrueck`) | [Gesamt-PDF lesen](../testakten/datenschutz-datenpanne-72-stunden-meldung-ransomware-osnabrueck/gesamt-pdf/datenschutz-datenpanne-72-stunden-meldung-ransomware-osnabrueck_gesamt.pdf) | [`testakte-datenschutz-datenpanne-72-stunden-meldung-ransomware-osnabrueck.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-datenpanne-72-stunden-meldung-ransomware-osnabrueck.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -181,7 +158,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `fristverlaengerung-behoerde-ohne-nachteile` | Wenn es um Fristverlängerung gegenüber Aufsicht in Datenschutz-Sanktionsverfahren und Verteidigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `fruehstellungnahme-vor-bussgeldbescheid` | Wenn es um Frühstellungnahme vor Bußgeldbescheid in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `gerichtstermin-sprechzettel` | Wenn es um Gerichtstermin-Sprechzettel in Datenschutz-Sanktionsverfahren und Verteidigung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `gewinnabschoepfung-und-finanzieller-vorteil` | Wenn es um Finanzieller Vorteil und Gewinnabschöpffung in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prü... |
+| `gewinnabschoepfung-und-finanzieller-vorteil` | Wenn es um Finanzieller Vorteil und Gewinnabschöpfung in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prü... |
 | `grch-verfahrensgrundrechte` | Wenn es um GRCh-Verfahrensgrundrechte in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `hauptverhandlung-71-owig` | Wenn es um Hauptverhandlung Paragraf 71 OWiG in Datenschutz-Sanktionsverfahren und Verteidigung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `internationale-datenpanne-und-multi-notification` | Wenn es um Internationale Datenpanne und Multi-Notification in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationsli... |

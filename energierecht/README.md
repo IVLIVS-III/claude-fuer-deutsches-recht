@@ -1,28 +1,5 @@
 # Energierecht
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`energierecht`) | [`energierecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/energierecht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Märkische Reserve Süd — Batteriespeicher Brandenburg/Berlin** (`batteriespeicher-brandenburg-berlin-resilienz`) | [Gesamt-PDF lesen](../testakten/batteriespeicher-brandenburg-berlin-resilienz/gesamt-pdf/batteriespeicher-brandenburg-berlin-resilienz_gesamt.pdf) | [`testakte-batteriespeicher-brandenburg-berlin-resilienz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-batteriespeicher-brandenburg-berlin-resilienz.zip) |
-| **Akte Energierecht: Stadtwerke Klotzkette AG – Quartier Hafenbogen** (`energierecht-stadtwerke-quartier`) | [Gesamt-PDF lesen](../testakten/energierecht-stadtwerke-quartier/gesamt-pdf/energierecht-stadtwerke-quartier_gesamt.pdf) | [`testakte-energierecht-stadtwerke-quartier.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-energierecht-stadtwerke-quartier.zip) |
-| **Projekt Isarlicht — Kernfusion und Transrapid am Starnberger See** (`kernfusion-transrapid-starnberger-see`) | [Gesamt-PDF lesen](../testakten/kernfusion-transrapid-starnberger-see/gesamt-pdf/kernfusion-transrapid-starnberger-see_gesamt.pdf) | [`testakte-kernfusion-transrapid-starnberger-see.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kernfusion-transrapid-starnberger-see.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -157,8 +134,8 @@ Automatisch generierte Komplett-Liste aller 95 Skills in diesem Plugin. Beschrei
 | `bess-wasser-awsv-und-boden` | Wenn es um Wasser, AwSV, Boden und Havarie in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `dokumente-intake` | Wenn es um Dokumentenintake in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `eeg-kwkg-erzeugung` | Wenn es um EEG, KWKG und Erzeugung erneuerbarer Energien in Energierecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
-| `einfuehrung-energieprojekt-intake` | Wenn es um Einführung: Mandantenkommunikation und Entscheidungsvorlage in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `einfuehrung-system` | Wenn es um Energierecht: System einführend in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `einfuehrung-energieprojekt-intake` | Wenn es um Einfuehrung: Mandantenkommunikation und Entscheidungsvorlage in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `einfuehrung-system` | Wenn es um Energierecht: System einfuehrend in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `einstieg-routing` | Wenn es um Einstieg und Routing in Energierecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `emobility-wasserstoff` | Wenn es um E-Mobilität und Wasserstoff in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `energieprojekt-intake-und-regulierungsweiche` | Wenn es um Energieprojekt-Intake mit Regulierungs-, Netz- und Förderweiche in Energierecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
@@ -187,8 +164,8 @@ Automatisch generierte Komplett-Liste aller 95 Skills in diesem Plugin. Beschrei
 | `netzanschluss-praesumtion-spezial` | Wenn es um Energie: Netzanschluss-Verweigerung in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `netze-risikoampel-und-gegenargumente` | Wenn es um Netze: Risikoampel, Gegenargumente und Verteidigungslinien in Energierecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `netzentgelte-rechtsfragen-redispatch-spezial-typ-anfrage` | Wenn es um Netzentgelte: Rechtsfragen in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `ppa-cppa-vertragsspezialitaeten` | Wenn es um PPA und CPPA: Spezialitäten in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `praesumtion-red-team-und-qualitaetskontrolle` | Wenn es um Präsumtion: Red-Team und Qualitätskontrolle in Energierecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `ppa-cppa-vertragsspezialitaeten` | Wenn es um PPA und CPPA: Spezialitaeten in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `praesumtion-red-team-und-qualitaetskontrolle` | Wenn es um Praesumtion: Red-Team und Qualitätskontrolle in Energierecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `projektfinanzierung` | Wenn es um Projektfinanzierung Energie in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `projektfinanzierung-stadtwerke-system` | Wenn es um Projektfinanzierung: Compliance-Dokumentation und Aktenvermerk in Energierecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sch... |
 | `quellen-livecheck` | Wenn es um Rechtsquellen-Livecheck in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
@@ -209,7 +186,7 @@ Automatisch generierte Komplett-Liste aller 95 Skills in diesem Plugin. Beschrei
 | `versorger-fristen-form-und-zustaendigkeit` | Wenn es um Versorger: Fristen, Form, Zuständigkeit und Rechtsweg in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vertrieb-behoerden-gericht-und-registerweg` | Wenn es um Vertrieb: Behörden-, Gerichts- oder Registerweg in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vertrieb-marktrollen-waerme` | Wenn es um Vertrieb und Marktrollen in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `waerme-dokumentenmatrix-und-lueckenliste` | Wenn es um Wärme: Dokumentenmatrix, Lückenliste und Nachforderung in Energierecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
+| `waerme-dokumentenmatrix-und-lueckenliste` | Wenn es um Waerme: Dokumentenmatrix, Lückenliste und Nachforderung in Energierecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
 | `waerme-quartier` | Wenn es um Wärme, Quartier und Fernwärme in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `wettbewerb` | Wenn es um Wettbewerb und Beihilfen im Energierecht in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `workflow-anschluss-skills-router` | Wenn es um Anschluss-Skills Router in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

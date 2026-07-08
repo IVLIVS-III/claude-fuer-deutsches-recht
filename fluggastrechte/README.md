@@ -1,26 +1,5 @@
 # Fluggastrechte
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`fluggastrechte`) | [`fluggastrechte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fluggastrechte.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Fluggastrechte – Familie Bräutigam-Zaytuna** (`fluggastrechte-familie-braeutigam`) | [Gesamt-PDF lesen](../testakten/fluggastrechte-familie-braeutigam/gesamt-pdf/fluggastrechte-familie-braeutigam_gesamt.pdf) | [`testakte-fluggastrechte-familie-braeutigam.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fluggastrechte-familie-braeutigam.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -105,7 +84,7 @@ Automatisch generierte Komplett-Liste aller 87 Skills in diesem Plugin. Beschrei
 | Skill | Beschreibung |
 | --- | --- |
 | `abtretung-an-fluggastportal-spezial` | Wenn es um Abtretung an Fluggastportale in Fluggastrechte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
-| `airline-bonitaet-und-vollstreckung` | Wenn es um Airline-Bonität und Vollstreckung in Fluggastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `airline-bonitaet-und-vollstreckung` | Wenn es um Airline-Bonitaet und Vollstreckung in Fluggastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `airline-standardausreden-annullierung` | Wenn es um Airline-Standardausreden — Katalog und Gegenargumente in Fluggastrechte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: A... |
 | `airline-standardausreden-pruefen` | Wenn es um Airline-Standardausreden — Katalog und Gegenargumente in Fluggastrechte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: A... |
 | `anlagen-bauen` | Wenn es um Fluggastrechte — Anlagen bauen in Fluggastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
@@ -119,15 +98,15 @@ Automatisch generierte Komplett-Liste aller 87 Skills in diesem Plugin. Beschrei
 | `ausgleich-internationaler-bezug-und-schnittstellen` | Wenn es um Ausgleich: Internationaler Bezug und Schnittstellen in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ausgleic... |
 | `ausnahmen-aussergewoehnliche-umstaende` | Wenn es um Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004) in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort:... |
 | `ausnahmen-aussergewoehnliche-umstaende-02` | Wenn es um Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004) in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort:... |
-| `aussergewoehnliche-distanz-interessen` | Wenn es um Außergewöhnliche: Zahlen, Schwellenwerte und Berechnung in Fluggastrechte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
-| `aussergewoehnliche-umstaende` | Wenn es um Außergewöhnliche: Zahlen, Schwellenwerte und Berechnung in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `aussergewoehnliche-umstaende-strikt` | Wenn es um Außergewöhnliche Umstände in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `aussergewoehnliche-distanz-interessen` | Wenn es um Aussergewoehnliche: Zahlen, Schwellenwerte und Berechnung in Fluggastrechte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
+| `aussergewoehnliche-umstaende` | Wenn es um Aussergewoehnliche: Zahlen, Schwellenwerte und Berechnung in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `aussergewoehnliche-umstaende-strikt` | Wenn es um Aussergewoehnliche Umstaende in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `chronologie-und-belegmatrix` | Wenn es um Chronologie und Belegmatrix in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `distanz-interessen` | Wenn es um Distanz: Mehrparteienkonflikt und Interessenmatrix in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Distanz I... |
 | `distanz-mehrparteien-konflikt-und-interessen` | Wenn es um Distanz: Mehrparteienkonflikt und Interessenmatrix in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Distanz M... |
 | `distanz-und-ausgleich-berechnen` | Wenn es um Distanz und Ausgleichszahlung berechnen in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `dokumente-intake` | Wenn es um Dokumentenintake in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `einfuehrung-vo-261` | Wenn es um Fluggastrechte VO 261: Einführung in Fluggastrechte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `einfuehrung-vo-261` | Wenn es um Fluggastrechte VO 261: Einfuehrung in Fluggastrechte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `einstieg-routing` | Wenn es um Einstieg und Routing in Fluggastrechte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `erfassen-behoerden-gericht-und-registerweg` | Wenn es um Erfassen: Behörden-, Gerichts- oder Registerweg in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Erfassen Beh... |
 | `erfassen-behoerden-gerichts-registerweg` | Wenn es um Erfassen: Behörden-, Gerichts- oder Registerweg in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Erfassen Beh... |
@@ -172,17 +151,17 @@ Automatisch generierte Komplett-Liste aller 87 Skills in diesem Plugin. Beschrei
 | `redteam-qualitygate` | Wenn es um Red-Team Qualitygate in Fluggastrechte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Redteam Qualitygate; Arbeitsfeld:... |
 | `selber-tatbestandsmerkmale-beweisfragen-beleglage` | Wenn es um Selber: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `selber-tickets-umstaende` | Wenn es um Selber: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fluggastrechte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `spezial-pruefen-livequellen-und-rechtsprechungscheck` | Wenn es um Prüfen: Livequellen- und Rechtsprechungscheck in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-pruefen-livequellen-und-rechtsprechungscheck` | Wenn es um Pruefen: Livequellen- und Rechtsprechungscheck in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ticket-und-fluginformationen-erfassen` | Wenn es um Ticket- und Fluginformationen erfassen in Fluggastrechte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `tickets-risikoampel-gegenargumente` | Wenn es um Tickets: Risikoampel, Gegenargumente und Verteidigungslinien in Fluggastrechte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstich... |
 | `tickets-risikoampel-und-gegenargumente` | Wenn es um Tickets: Risikoampel, Gegenargumente und Verteidigungslinien in Fluggastrechte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstich... |
-| `umstaende-compliance-dokumentation-aktenvermerk` | Wenn es um Umstände: Compliance-Dokumentation und Aktenvermerk in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `umstaende-compliance-dokumentation-und-akte` | Wenn es um Umstände: Compliance-Dokumentation und Aktenvermerk in Fluggastrechte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `umstaende-compliance-dokumentation-aktenvermerk` | Wenn es um Umstaende: Compliance-Dokumentation und Aktenvermerk in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `umstaende-compliance-dokumentation-und-akte` | Wenn es um Umstaende: Compliance-Dokumentation und Aktenvermerk in Fluggastrechte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `unterlagen-luecken` | Wenn es um Unterlagen und Lücken in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `verifikation-fristennotiz-abtretung-an` | Wenn es um Verifikation: Fristennotiz und nächster Schritt in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Verifikation... |
 | `verifikation-fristennotiz-naechster-schritt` | Wenn es um Verifikation: Fristennotiz und nächster Schritt in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Verifikation... |
-| `verspaetung-ticket-fluginformationen` | Wenn es um Verspätung: Verhandlung, Vergleich und Eskalation in Fluggastrechte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
-| `verspaetung-verhandlung-vergleich-eskalation` | Wenn es um Verspätung: Verhandlung, Vergleich und Eskalation in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `verspaetung-ticket-fluginformationen` | Wenn es um Verspaetung: Verhandlung, Vergleich und Eskalation in Fluggastrechte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| `verspaetung-verhandlung-vergleich-eskalation` | Wenn es um Verspaetung: Verhandlung, Vergleich und Eskalation in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vollmacht-familienmitglieder` | Wenn es um Vollmacht für Familienmitglieder und Mitreisende in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vorverlegung-flug-rechtsprechung` | Wenn es um Vorverlegung als Annullierung in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `workflow-anschluss-skills-router` | Wenn es um Anschluss-Skills Router in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

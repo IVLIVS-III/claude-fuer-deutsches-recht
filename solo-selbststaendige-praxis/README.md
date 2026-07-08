@@ -1,26 +1,5 @@
 # Solo-Selbstständige Praxis
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`solo-selbststaendige-praxis`) | [`solo-selbststaendige-praxis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/solo-selbststaendige-praxis.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Luise Falkenberg - Solo-Selbstständigkeit Designstudio Falkensee 2026** (`solo-selbststaendige-designstudio-luise-falkensee-2026`) | [Gesamt-PDF lesen](../testakten/solo-selbststaendige-designstudio-luise-falkensee-2026/gesamt-pdf/solo-selbststaendige-designstudio-luise-falkensee-2026_gesamt.pdf) | [`testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -113,9 +92,9 @@ Automatisch generierte Komplett-Liste aller 201 Skills in diesem Plugin. Beschre
 | `angebot-in-auftrag-verwandeln` | Wenn es um Verträge und AGB: Macht aus whatsapp in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `anlagevermoegen-abschreibung` | Wenn es um Steuern und Buchhaltung: Ordnet laptop in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `anwalt-freier-mitarbeiter` | Wenn es um Scheinselbstständigkeit und Status: Ordnet freie mitarbeit in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `arbeitnehmeraehnliche-selbstaendige` | Wenn es um Arbeitnehmerähnliche Selbständige in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `arbeitnehmeraehnliche-selbstaendige` | Wenn es um Arbeitnehmeraehnliche Selbstaendige in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `archiv-und-aufbewahrung` | Wenn es um Dokumente und Kommunikation: Plant aufbewahrung in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `aufbewahrung-loeschung` | Wenn es um Aufbewahrung Löschung in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `aufbewahrung-loeschung` | Wenn es um Aufbewahrung Loeschung in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `auftrag-kuendigen-in-krise` | Wenn es um Krise Schulden und Neustart: Prüft faire beendigung ohne folgeschaden in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `auslandreise-auftrag-cloud-ordner-digital` | Wenn es um Internationales und Auslandskunden: Prüft reisekosten in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `avv-mit-tools` | Wenn es um Datenschutz IT und Website: Prüft auftragsverarbeitung mit cloud in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

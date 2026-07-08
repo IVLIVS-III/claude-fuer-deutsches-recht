@@ -22,3 +22,7 @@ Nutze diesen Skill, wenn aus Akte, Antrag, Anklage, Bescheid, Klage, Einspruch o
 ## Pflichtanker
 
 FamFG Paragraf 26, 38, 49, 68, 151 ff. sowie BGB Paragrafen 1565, 1601, 1684, 1697a und Gewaltschutzgesetz. Schwerpunkt sind Amtsermittlung, Kindeswohl, Anhörung, Jugendamt, Verfahrensbeistand, einstweilige Anordnung und vollstreckbarer Beschluss.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstation, Antragsgegnerstation, Kindeswohl- oder Unterhaltsachse, Belegen, Anhörungen und Beschlussformel. Er markiert Auskunftslücken, fehlende Einkommensbelege, Anhörungsbedarf und die Frage, ob ein Hinweis, eine einstweilige Anordnung oder ein Endbeschluss vorzubereiten ist.

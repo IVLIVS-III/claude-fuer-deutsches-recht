@@ -1,49 +1,49 @@
-Wenn du das hier öffnest, willst du im Bereich Forderungsmanagement Klagewerkstatt zügig von Unterlagen zu einem verwertbaren Arbeitsprodukt kommen.
+Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Forderungsmanagement Klagewerkstatt ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
 
 # Forderungsmanagement Klagewerkstatt — Schnellstart
 
-Ziel: Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlauf, Inkasso-Zahlungsklage und Anspruchs-Gatekeeper: Nur klare, fällige und belegte Forderungen werden zur Klage freigegeben. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlauf, Inkasso-Zahlungsklage und Anspruchs-Gatekeeper: Nur klare, fällige und belegte Forderungen werden zur Klage freigegeben. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
-1. Aktenordner-Erstlektüre: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-2. Anschluss-Routing: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen verwertbaren Entwurf; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-3. Anspruchsschriftsatz Bausteine: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-4. Belegte Compliance Aktenvermerk: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-5. Chronologie und Belegmatrix: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-6. Dokumente Intake: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
+1. Aktenordner-Erstlektüre: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+2. Anschluss-Routing: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+3. Anspruchsschriftsatz Bausteine: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
+4. Belegte Compliance Aktenvermerk: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+5. Chronologie und Belegmatrix: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+6. Dokumente Intake: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aktenordner-Erstlektüre | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen verwertbaren Entwurf? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruchsschriftsatz Bausteine | erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Belegte Compliance Aktenvermerk | erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Chronologie und Belegmatrix | erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dokumente Intake | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenordner-Erstlektüre | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anspruchsschriftsatz Bausteine | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Belegte Compliance Aktenvermerk | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Chronologie und Belegmatrix | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Dokumente Intake | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
-- 2. Fälligkeit: Paragraf 271 BGB, besondere Vertragsfrist, Rechnungsvoraussetzung, Abnahme bei Werkvertrag Paragraf 641 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 3. Erfuellung: Zahlungen, Aufrechnung, Gutschrift, Storno, Paragraf 362 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 4. Verzug: Mahnung Paragraf 286 Abs. 1 BGB, kalendermassige Bestimmung Paragraf 286 Abs. 2 BGB, 30-Tage-Regel Paragraf 286 Abs. 3 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 5. Zinsen und Kosten: Paragraf 288 BGB, Paragraf 280 BGB, Paragraf 286 BGB, vorgerichtliche Kosten nur bei tragfähigem Verzug: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 6. Verjährung: Paragrafen 195, 199 BGB, Hemmung Paragraf 204 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 7. Verfahrensspur: Mahnung, Mahnbescheid Paragrafen 688 ff. ZPO, Zahlungsklage Paragraf 253 ZPO, Vollstreckungsbescheid Paragrafen 699, 700 ZPO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 8. Zuständigkeit: Paragrafen 12 ff. und 29 ZPO, Paragraf 23 Nummer 1 GVG, Paragraf 23 Nummer 2a GVG, Paragraf 71 Absatz 1 GVG und weitere Sonderzuständigkeiten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- RVG Paragraf 1 gesetze-im-internet.de/rvg/__1.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- RVG Paragraf 3a Vergueetungsvereinbarung gesetze-im-internet.de/rvg/__3a.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- RVG Paragraf 4a Erfolgshonorar gesetze-im-internet.de/rvg/__4a.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- RVG Paragraf 8 Fälligkeit gesetze-im-internet.de/rvg/__8.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- RVG Paragraf 9 Vorschuss gesetze-im-internet.de/rvg/__9.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BRAO Paragraf 49b gesetze-im-internet.de/brao/__49b.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragraf 630a Behandlungsvertrag gesetze-im-internet.de/bgb/__630a.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH II ZR 256/02 Trihotel und II ZR 3/04 Bremer Vulkan:
 - BGH abgelehnt als eigenen Haftungstatbestand (BGH II ZR 256/02). Nur über Paragraf 826 BGB / existenzvernichtenden Eingriff
 

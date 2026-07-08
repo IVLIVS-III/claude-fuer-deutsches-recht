@@ -1,28 +1,5 @@
 # Lobbyregister Bundestag
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`lobbyregister-bundestag`) | [`lobbyregister-bundestag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/lobbyregister-bundestag.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Akte Lobbyregister: Bürgerinitiative Waldmoor 2030** (`lobbyregister-buergerinitiative-waldmoor`) | [Gesamt-PDF lesen](../testakten/lobbyregister-buergerinitiative-waldmoor/gesamt-pdf/lobbyregister-buergerinitiative-waldmoor_gesamt.pdf) | [`testakte-lobbyregister-buergerinitiative-waldmoor.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-buergerinitiative-waldmoor.zip) |
-| **Akte Lobbyregister: Emerald Liffey Bank plc / Zweigniederlassung Frankfurt** (`lobbyregister-dublin-bank-frankfurt-branch`) | [Gesamt-PDF lesen](../testakten/lobbyregister-dublin-bank-frankfurt-branch/gesamt-pdf/lobbyregister-dublin-bank-frankfurt-branch_gesamt.pdf) | [`testakte-lobbyregister-dublin-bank-frankfurt-branch.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-dublin-bank-frankfurt-branch.zip) |
-| **Akte Lobbyregister: Spreebogen Regulatory GmbH / Wasserstoffpaket** (`lobbyregister-public-affairs-agentur-wasserstoff`) | [Gesamt-PDF lesen](../testakten/lobbyregister-public-affairs-agentur-wasserstoff/gesamt-pdf/lobbyregister-public-affairs-agentur-wasserstoff_gesamt.pdf) | [`testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -205,30 +182,30 @@ Automatisch generierte Komplett-Liste aller 52 Skills in diesem Plugin. Beschrei
 | --- | --- |
 | `account-rollen-regelungsvorhaben-erfassen` | Wenn es um Portal-Account und Rollen in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `adressatenkreis-bundestag-bundesregierung` | Wenn es um Adressatenkreis Bundestag und Bundesregierung in Lobbyregister Bundestag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und... |
-| `aktualisierung-unverzueglich-adressatenkreis` | Wenn es um Unverzügliche Aktualisierung in Lobbyregister Bundestag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `aktualisierung-unverzueglich-adressatenkreis` | Wenn es um Unverzuegliche Aktualisierung in Lobbyregister Bundestag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `anonymisierung-schutzantrag-auftraggeber` | Wenn es um Anonymisierung und Schutzantrag in Lobbyregister Bundestag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `auftraggeber-ermitteln` | Wenn es um Auftraggeber ermitteln in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ausnahmen-bundesregierung-bundestag` | Wenn es um Ausnahmen Bundesregierung in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ausnahmen-bundestag` | Wenn es um Ausnahmen Bundestag in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `benachrichtigungskonto-monitor` | Wenn es um Benachrichtigungskonto Monitor in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `bestaetigungsdokument-freigabe` | Wenn es um Bestätigungsdokument und Freigabe in Lobbyregister Bundestag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `bestaetigungsdokument-freigabe` | Wenn es um Bestaetigungsdokument und Freigabe in Lobbyregister Bundestag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `betraute-personen-datenschutz` | Wenn es um Betraute Personen in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `bussgeld-pruefverfahren-quartalsmonitor` | Wenn es um Bussgeld und Prüfverfahren in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `bussgeld-pruefverfahren-quartalsmonitor` | Wenn es um Bussgeld und Pruefverfahren in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `datenschutz-nichtoeffentliche-angaben` | Wenn es um Datenschutz und nicht öffentliche Angaben in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `dokumentationsakte-revisionsspur-drehtuer` | Wenn es um Dokumentationsakte und Revisionsspur in Lobbyregister Bundestag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
-| `drehtuer-angaben` | Wenn es um Drehtür-Angaben in Lobbyregister Bundestag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `drehtuer-angaben` | Wenn es um Drehtuer-Angaben in Lobbyregister Bundestag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `end-to-erstkontakt-offenlegung` | Wenn es um End-to-End Registrierungswizard in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `erstkontakt-offenlegung` | Wenn es um Erstkontakt Offenlegung in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `erstregistrierung-ausfuellen` | Wenn es um Erstregistrierung ausfüllen in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `erstregistrierung-ausfuellen` | Wenn es um Erstregistrierung ausfuellen in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `finanzaufwendungen-berechnen` | Wenn es um Finanzaufwendungen berechnen in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `freiwillige-registrierung-fremdmandat` | Wenn es um Freiwillige Registrierung in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `fremdmandat-agenturfall` | Wenn es um Fremdmandat und Agenturfall in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `fristen-und-quartalsmonitor` | Wenn es um Fristen- und Quartalsmonitor in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `fruehere-interessenvertretung` | Wenn es um Exit und frühere Interessenvertretung in Lobbyregister Bundestag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächst... |
-| `geschaeftsjahresaktualisierung` | Wenn es um Geschäftsjahresaktualisierung in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `hauptstadtrepraesentanz` | Wenn es um Hauptstadtrepräsentanz in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `fruehere-interessenvertretung` | Wenn es um Exit und fruehere Interessenvertretung in Lobbyregister Bundestag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächst... |
+| `geschaeftsjahresaktualisierung` | Wenn es um Geschaeftsjahresaktualisierung in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `hauptstadtrepraesentanz` | Wenn es um Hauptstadtrepraesentanz in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `hausausweis-anhoerung-interessen` | Wenn es um Hausausweis und Anhörung in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `hausausweis-und-anhoerung` | Wenn es um Hausausweis und Anhörung in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `hausausweis-und-anhoerung` | Wenn es um Hausausweis und Anhoerung in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `intake-mandat-lobbyregister` | Wenn es um Mandats- und Projekt-Intake in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `interessen-und-vorhabenbereiche` | Wenn es um Interessen- und Vorhabenbereiche in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `interessenvertretung-begriff-interne` | Wenn es um Begriff der Interessenvertretung in Lobbyregister Bundestag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sch... |
@@ -240,19 +217,19 @@ Automatisch generierte Komplett-Liste aller 52 Skills in diesem Plugin. Beschrei
 | `lobbyregister-kommandocenter` | Wenn es um Lobbyregister-Kommandocenter in Lobbyregister Bundestag geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
 | `mitgliedschaften-mitgliederzahl-nicht` | Wenn es um Mitgliedschaften und Mitgliederzahl in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `nicht-aktualisiert-risiko` | Wenn es um Nicht-aktualisiert Risiko in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `oeffentliche-zuwendungen-personen` | Wenn es um Öffentliche Zuwendungen in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `oeffentliche-zuwendungen-personen` | Wenn es um Oeffentliche Zuwendungen in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `personen-organisationstyp` | Wenn es um Personen- und Organisationstyp in Lobbyregister Bundestag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `regelungsvorhaben-erfassen` | Wenn es um Regelungsvorhaben erfassen in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `registereintrag-finalcheck-registerfuehrende` | Wenn es um Registereintrag Finalcheck in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `registerfuehrende-stelle-kontakt` | Wenn es um Registerführende Stelle Kontakt in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `registerfuehrende-stelle-kontakt` | Wenn es um Registerfuehrende Stelle Kontakt in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `registrierungspflicht-schenkungen-sponsoring` | Wenn es um Registrierungspflicht und Schwellen in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schenkungen-sponsoring` | Wenn es um Schenkungen und Sponsoring in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `stellungnahmen-gutachten-suche-open` | Wenn es um Stellungnahmen und Gutachten Upload in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `suche-open-data-monitor` | Wenn es um Suche und Open-Data-Monitor in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `taetigkeitsbeschreibung-unterauftragnehmer` | Wenn es um Tätigkeitsbeschreibung in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `taetigkeitsbeschreibung-unterauftragnehmer` | Wenn es um Taetigkeitsbeschreibung in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `unterauftragnehmer-erfassen` | Wenn es um Unterauftragnehmer erfassen in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `verhaltenskodex-integritaet-verstoesse-melden` | Wenn es um Verhaltenskodex und Integrität in Lobbyregister Bundestag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
-| `verstoesse-melden` | Wenn es um Verstöße melden in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `verhaltenskodex-integritaet-verstoesse-melden` | Wenn es um Verhaltenskodex und Integritaet in Lobbyregister Bundestag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
+| `verstoesse-melden` | Wenn es um Verstoesse melden in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vertretungsberechtigte-personen-visitenkarte` | Wenn es um Vertretungsberechtigte Personen in Lobbyregister Bundestag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
 | `visitenkarte-und-nachweise` | Wenn es um Visitenkarte und Nachweise in Lobbyregister Bundestag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
 

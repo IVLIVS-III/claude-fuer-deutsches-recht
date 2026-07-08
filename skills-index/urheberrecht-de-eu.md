@@ -1,6 +1,6 @@
 # urheberrecht-de-eu
 
-**64 Skills** · Stand `v429.4.0`
+**64 Skills** · Stand `v429.5.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/urheberrecht-de-eu/README.md)

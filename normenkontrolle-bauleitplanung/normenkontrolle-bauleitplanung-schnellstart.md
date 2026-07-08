@@ -2,18 +2,18 @@ Wenn du das hier öffnest, willst du einen Bebauungsplan oder staedtebaulichen V
 
 # Normenkontrolle Bauleitplanung — Schnellstart
 
-Ziel: Freistehendes Plugin für die Prüfung und Anfechtung von Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften nach Paragraf 47 VwGO vor BayVGH und OVG. Mandatsperspektive Antragstellervertretung. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Freistehendes Plugin für die Prüfung und Anfechtung von Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften nach Paragraf 47 VwGO vor BayVGH und OVG. Mandatsperspektive Antragstellervertretung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
@@ -26,14 +26,14 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abwägung: Formular, Portal und Einreichungslogik | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abwägungsgebot Paragraf 1 Abs. 7 BauGB | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Allgemeine Satzungsnormenkontrolle nach Paragraf 47 VwGO: kommunale Satzungen, Landesrechtsverordnungen. | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage | erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anpassungsgebot — Flächennutzungsplan | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Gegenprüfung mit Fehlerliste? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abwägung: Formular, Portal und Einreichungslogik | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abwägungsgebot Paragraf 1 Abs. 7 BauGB | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Allgemeine Satzungsnormenkontrolle nach Paragraf 47 VwGO: kommunale Satzungen, Landesrechtsverordnungen. | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anpassungsgebot — Flächennutzungsplan | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
@@ -41,10 +41,10 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 - BauGB Paragraf 1 Absatz 7: Abwägungsgebot für Plan, Festsetzung und Vertragsfolgen.
 - BauGB Paragraf 2 Absatz 3: Ermittlung und Bewertung des Abwägungsmaterials.
 - BauGB Paragraf 9: textliche und zeichnerische Festsetzungen des Bebauungsplans.
-- Antragsfrist Normenkontrolle (Paragraf 47 Abs. 2 S. 1 VwGO): Ein Jahr nach Bekanntmachung des Plans. Antragsbefugnis: Geltendmachung einer Verletzung in eigenen Rechten oder absehbarer: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Eilantrag Paragraf 47 Abs. 6 VwGO: Außervollzugsetzung des Bebauungsplans bei schweren Nachteilen oder aus anderen wichtigen Gründen; hoher Begründungsaufwand für Eilbedürftigkeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Bebauungsplan, Begründung mit Umweltbericht, Abwägungsmaterial, Beteiligungsstellungnahmen, Satzungsbeschluss: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - VwGO Paragraf 47 Abs. 1 Nr. 2; jeweiliges Landesausführungsgesetz; Kommunalrecht. Vor jeder Ausgabe muss das jeweilige Landesrecht geprüft werden, weil Paragraf 47 Abs. 1 Nr. 2 VwGO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerwG, Urteil vom 25.11.2005 - 4 C 15.04: Kostenübernahme in städtebaulichen Verträgen braucht zurechenbaren städtebaulichen Bezug und darf nicht nicht delegierbare Gemeindeaufgaben verlagern.
 - BVerwG, Urteil vom 29.01.2009 - 4 C 15.07: Folgekostenverträge können bei mehreren Plangebieten tragfähig sein, wenn ein transparentes Gesamtkonzept die Kausalität belegt.
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)

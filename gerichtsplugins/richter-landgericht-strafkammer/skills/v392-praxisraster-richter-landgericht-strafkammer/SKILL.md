@@ -22,3 +22,7 @@ Nutze diesen Skill, wenn aus Akte, Antrag, Anklage, Bescheid, Klage, Einspruch o
 ## Pflichtanker
 
 StPO Paragraf 199, 203, 207, 244, 257c, 261 und 267. Schwerpunkt sind Eröffnungsbeschluss, Besetzung, Verständigung, Beweisaufnahme, umfangreiche Beweiswürdigung, Strafzumessung und revisionsfeste Gründe.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill sortiert den strafrichterlichen Streitstoff nach Anklagevorwurf, Einlassung, Beweismittel, rechtlicher Würdigung und Rechtsfolgenfrage. Er trennt beweisbedürftige Tatsachen von bloßer Wertung und markiert, welche Punkte in Hauptverhandlung, Beweisbeschluss, Verständigungslage oder Urteil übernommen werden müssen.

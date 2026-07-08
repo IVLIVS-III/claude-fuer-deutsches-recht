@@ -1,29 +1,5 @@
 # BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`bav-strategie-konzern`) | [`bav-strategie-konzern.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bav-strategie-konzern.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Betriebliche Altersversorgung – MEISSNER RHEINWERK AG** (`bav-strategie-konzern-meissner-rheinwerk-ag`) | [Gesamt-PDF lesen](../testakten/bav-strategie-konzern-meissner-rheinwerk-ag/gesamt-pdf/bav-strategie-konzern-meissner-rheinwerk-ag_gesamt.pdf) | [`testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip) |
-| **Rentenberaterakte Betriebsrentenberatung Pflegedienst Halle** (`rentenberater-bav-firmenberatung-pflegedienst-halle`) | [Gesamt-PDF lesen](../testakten/rentenberater-bav-firmenberatung-pflegedienst-halle/gesamt-pdf/rentenberater-bav-firmenberatung-pflegedienst-halle_gesamt.pdf) | [`testakte-rentenberater-bav-firmenberatung-pflegedienst-halle.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenberater-bav-firmenberatung-pflegedienst-halle.zip) |
-| **Rentenberaterakte Querschnitt Status, Betriebsrente und Rentenanspruch Dortmund** (`rentenberater-status-bav-rentenanspruch-querschnitt-dortmund`) | [Gesamt-PDF lesen](../testakten/rentenberater-status-bav-rentenanspruch-querschnitt-dortmund/gesamt-pdf/rentenberater-status-bav-rentenanspruch-querschnitt-dortmund_gesamt.pdf) | [`testakte-rentenberater-status-bav-rentenanspruch-querschnitt-dortmund.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenberater-status-bav-rentenanspruch-querschnitt-dortmund.zip) |
-| **Betriebsrente Wiesbaden: Pensionskassenkürzung, Arbeitgeberhaftung und Anpassungsprüfung** (`rentenrecht-betriebsrente-pensionskasse-kuerzung-wiesbaden`) | [Gesamt-PDF lesen](../testakten/rentenrecht-betriebsrente-pensionskasse-kuerzung-wiesbaden/gesamt-pdf/rentenrecht-betriebsrente-pensionskasse-kuerzung-wiesbaden_gesamt.pdf) | [`testakte-rentenrecht-betriebsrente-pensionskasse-kuerzung-wiesbaden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-betriebsrente-pensionskasse-kuerzung-wiesbaden.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -147,10 +123,10 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `altersversorgung-boutique-fristennotiz-psv` | Wenn es um Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoa... |
 | `anschluss-routing` | Wenn es um Anschluss-Routing in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risik... |
 | `bav-cta-treuhand-spezial` | Wenn es um bAV: CTA Treuhand in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits-... |
-| `bav-erstattung-fuenftelregelung` | Wenn es um bAV: Fünftelregelung Auszahlung in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Z... |
-| `bav-grenzueberschreitend-mobil-spezial` | Wenn es um bAV: Grenzüberschreitende Mobilität in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollision... |
+| `bav-erstattung-fuenftelregelung` | Wenn es um bAV: Fuenftelregelung Auszahlung in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Z... |
+| `bav-grenzueberschreitend-mobil-spezial` | Wenn es um bAV: Grenzueberschreitende Mobilitaet in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollision... |
 | `bav-konzern-design-workflow` | Wenn es um bAV: Konzern-Design in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits... |
-| `bav-pensionsfond-rueckdeckung-spezial` | Wenn es um bAV: Pensionsfonds-Rückdeckung in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüf... |
+| `bav-pensionsfond-rueckdeckung-spezial` | Wenn es um bAV: Pensionsfonds-Rueckdeckung in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüf... |
 | `benefits-mandantenkommunikation-entscheidungsvorlage` | Wenn es um Benefits: Mandantenkommunikation und Entscheidungsvorlage in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampe... |
 | `betrieblichen-drei-duesseldorfer-sonderfall` | Wenn es um Betrieblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiie... |
 | `boutique-fristennotiz-und-naechster-schritt` | Wenn es um Boutique: Fristennotiz und nächster Schritt in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortsc... |
@@ -162,13 +138,13 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `dokumente-intake` | Wenn es um Dokumentenintake in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `drei-stufen-expatriate-pensionsplanung` | Wenn es um Drei-Stufen-Theorie — Eingriffsanalyse betrieblicher Versorgungsrechte in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- u... |
 | `drei-zahlen-schwellen-und-berechnung` | Wenn es um Drei: Zahlen, Schwellenwerte und Berechnung in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, An... |
-| `duesseldorfer-sonderfall-und-edge-case` | Wenn es um Düsseldorfer: Sonderfall und Edge-Case-Prüfung in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofo... |
-| `durchfuehrungswege-fuenf-harmonisierung` | Wenn es um Durchführungswege: Schriftsatz-, Brief- und Memo-Bausteine in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren... |
-| `einfuehrung-durchfuehrungswege-erstattung` | Wenn es um bAV: Durchführungswege in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten,... |
+| `duesseldorfer-sonderfall-und-edge-case` | Wenn es um Duesseldorfer: Sonderfall und Edge-Case-Prüfung in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofo... |
+| `durchfuehrungswege-fuenf-harmonisierung` | Wenn es um Durchfuehrungswege: Schriftsatz-, Brief- und Memo-Bausteine in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren... |
+| `einfuehrung-durchfuehrungswege-erstattung` | Wenn es um bAV: Durchfuehrungswege in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten,... |
 | `einstieg-routing` | Wenn es um Einstieg und Routing in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `expatriate-pensionsplanung-und-totalization` | Wenn es um Expatriate-Pensionsplanung und Totalization in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortsc... |
 | `fristen-risikoampel-mandantenkommunikation` | Wenn es um Fristen- und Risikoampel in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `fuenf-behoerden-gericht-und-registerweg` | Wenn es um Fünf: Behörden-, Gerichts- oder Registerweg in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Soforts... |
+| `fuenf-behoerden-gericht-und-registerweg` | Wenn es um Fuenf: Behörden-, Gerichts- oder Registerweg in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Soforts... |
 | `governance-und-anpassungsmechanismen` | Wenn es um Governance und Anpassungsmechanismen — Pension Committee Charter und Paragraf 16 BetrAVG in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefe... |
 | `harmonisierung-formular-portal-und-einreichung` | Wenn es um Harmonisierung: Formular, Portal und Einreichungslogik in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel m... |
 | `harmonisierung-migration-historisch` | Wenn es um Harmonisierung und Migration — Rechtssichere Vereinheitlichung von Versorgungssystemen in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert... |

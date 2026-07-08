@@ -2,18 +2,18 @@ Wenn du das hier öffnest, willst du eine belastbare Liquiditätsplanung aufstel
 
 # Liquiditätsplanung — Schnellstart
 
-Ziel: Liquiditätsplanung nach deutschem Recht: 3-Wochen-Vorschau, 13/26/52-Wochen-Forecast, Excel-Export, Quote/Lücken-Ampel, Dokumentationspaket und Schnittstellen zu Fortbestehensprognose und Insolvenzrecht. Rechtsprechung nur nach Live-Verifikation. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Liquiditätsplanung nach deutschem Recht: 3-Wochen-Vorschau, 13/26/52-Wochen-Forecast, Excel-Export, Quote/Lücken-Ampel, Dokumentationspaket und Schnittstellen zu Fortbestehensprognose und Insolvenzrecht. Rechtsprechung nur nach Live-Verifikation. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
@@ -22,18 +22,18 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 3. Stressszenarien: Zahlungsverzug von Kunden, Covenant-Bruch, Lieferantenstopp, Lohnlauf und Steuern separat simulieren.
 4. Insolvenznaehe: Zahlungsstockung, Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung getrennt dokumentieren.
 5. Anschlussentscheidung: Finanzierungsanfrage, Stundung, Gesellschafterbeitrag, Sanierungspfad oder Insolvenzantragsprüfung formulieren.
-6. Wenn es um Ampel: Zahlen, Schwellenwerte und Berechnung in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten.
+6. Ampel: Zahlen, Schwellenwerte und Berechnung: Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Ampel: Zahlen, Schwellenwerte und Berechnung | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ausgabengruppen: Fristennotiz und nächster Schritt | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Liqui: Ausgabengruppen | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Liqui: drohende ZU | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Liqui: eingetretene ZU | erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ampel: Zahlen, Schwellenwerte und Berechnung | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ausgabengruppen: Fristennotiz und nächster Schritt | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Liqui: Ausgabengruppen | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Liqui: drohende ZU | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Liqui: eingetretene ZU | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
@@ -42,9 +42,9 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 - InsO Paragraf 19: Überschuldung bei juristischen Personen.
 - StaRUG Paragraf 1: Krisenfrüherkennung und Krisenmanagement.
 - Normen-/Quellenanker: InsO Paragrafen 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Cash-Outflows: Lohn/Gehalt mit Auszahlungstag, Lohnsteuer/SV-Abgaben (Paragraf 266a StGB nicht stunden), USt-Vorauszahlung, Miete, Tilgung/Zinsen, Lieferanten nach Fälligkeit, sonstige: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- GELB: Liquiditätsdeckung 100–110 Prozent oder Worst-Case unter 100 Prozent — Frühwarnpflicht Paragraf 1 StaRUG, Maßnahmenplan: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Liquiditätslücke ≥ 10 Prozent über 3 Wochen → Paragraf 17 InsO Zahlungsunfähigkeit, Antragsfrist Paragraf 15a InsO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Ordne alle Liquiditätsdaten so, dass ein Dritter den Krisenverlauf nachvollziehen kann. Starte mit Stichtagen, Bankauszügen, OP-Listen, Mahnungen, Stundungen, Darlehenslinien: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- InsO Paragrafen 17, 18, 19, 15a: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- HGB Paragrafen 238, 242, 252 zur Buchführungs-/Abschlusslogik: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zahlungsunfähigkeit wird regelmäßig anhand einer erheblichen Liquiditätslücke beurteilt.
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiter müssen Krisenentscheidungen und Zahlungsverbote nachvollziehbar dokumentieren.
 - Anschlussweichen identifizieren: drohende Frist (Paragraf 15a InsO 3 Wochen (ZU) / 6 Wochen (Überschuldung), IDW S 11 12-Monats-Prognose, Drei-Wochen-Liquiditätsstockungs-Test (BGH II ZR 296/05))

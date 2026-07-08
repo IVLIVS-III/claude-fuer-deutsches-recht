@@ -1,26 +1,5 @@
 # Arbeitszeugnisprüfer
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`arbeitszeugnispruefer`) | [`arbeitszeugnispruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/arbeitszeugnispruefer.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akte
-
-| Akte | Download |
-| --- | --- |
-| Pluginlokale Testakte | [`arbeitszeugnispruefer-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/arbeitszeugnispruefer-testakte.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -117,35 +96,35 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `aeussere-form-und-briefkopf` | Wenn es um Äußere Form und Briefkopf prüfen in Arbeitszeugnisprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `ampel-einschaetzung-pro-satz` | Wenn es um Ampel-Einschätzung pro Satz in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
-| `aufforderungsschreiben-berichtigung` | Wenn es um Aufforderungsschreiben Berichtigung in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
-| `auslassungen-erkennen` | Wenn es um Auslassungen erkennen in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
-| `beendigungsgrund-pruefen` | Wenn es um Beendigungsgrund prüfen in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
-| `beweislast-bag-9-azr-584-13` | Wenn es um Beweislast nach BAG 9 AZR 584.13 in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `doppelboeden-und-verneinungen` | Wenn es um Doppelböden und Verneinungen erkennen in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfra... |
-| `einfuehrung-pruefauftrag` | Wenn es um Einführung in den Prüfauftrag in Arbeitszeugnisprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
-| `frequenzadverbien-pruefen` | Wenn es um Frequenzadverbien prüfen in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
-| `fuehrungskraft-verhalten-pruefen` | Wenn es um Führungskraft-Verhalten prüfen in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
-| `geheimcodes-katalog` | Wenn es um Geheimcodes-Katalog in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
-| `intake-und-stammdaten-pruefen` | Wenn es um Intake und Stammdaten prüfen in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
-| `klagestrategie-und-vollstreckung` | Wenn es um Klagestrategie und Vollstreckung in Arbeitszeugnisprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `mandantenbericht-erstellen` | Wenn es um Mandantenbericht erstellen in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `note-1-formeln-erkennen` | Wenn es um Note-1-Formeln erkennen in Arbeitszeugnisprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
-| `note-2-formeln-erkennen` | Wenn es um Note-2-Formeln erkennen in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
-| `note-3-formeln-erkennen` | Wenn es um Note-3-Formeln erkennen in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `note-4-formeln-erkennen` | Wenn es um Note-4-Formeln erkennen in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
-| `note-5-formeln-erkennen` | Wenn es um Note-5-Formeln erkennen in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
-| `notenstufen-bag-9-azr-386-10` | Wenn es um Notenstufen nach BAG 9 AZR 386.10 in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schr... |
-| `personenreihenfolge-pruefen` | Wenn es um Personenreihenfolge prüfen in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
-| `rollen-und-modus-wahl` | Wenn es um Rollen- und Moduswahl vor der Zeugnisprüfung in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nach... |
-| `schaufenster-und-drift-erkennen` | Wenn es um Schaufenster- und Drift-Erkennung in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
-| `schlussformel-notenwirkung-bewerten` | Wenn es um Schlussformel-Notenwirkung bewerten in Arbeitszeugnisprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `schlussformel-pruefen` | Wenn es um Schlussformel prüfen in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
-| `steigerungsadverbien-pruefen` | Wenn es um Steigerungsadverbien prüfen in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
-| `taetigkeitsabschnitt-wertigkeit-pruefen` | Wenn es um Tätigkeitsabschnitt und Wertigkeit prüfen in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachwe... |
-| `verhaltensabschnitt-pruefen` | Wenn es um Verhaltensabschnitt prüfen in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
-| `zeugnisklarheit-objektiver-empfaengerhorizont` | Wenn es um Zeugnisklarheit nach dem objektiven Empfängerhorizont (BAG 9 AZR 352.04; 9 AZR 386.10) in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte... |
-| `zusammenfassungsformel-erkennen` | Wenn es um Zusammenfassungsformel erkennen und decodieren in Arbeitszeugnisprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nac... |
+| `aeussere-form-und-briefkopf` | Wenn es um Aeussere Form und Briefkopf pruefen in Arbeitszeugnispruefer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `ampel-einschaetzung-pro-satz` | Wenn es um Ampel-Einschaetzung pro Satz in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `aufforderungsschreiben-berichtigung` | Wenn es um Aufforderungsschreiben Berichtigung in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `auslassungen-erkennen` | Wenn es um Auslassungen erkennen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `beendigungsgrund-pruefen` | Wenn es um Beendigungsgrund pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `beweislast-bag-9-azr-584-13` | Wenn es um Beweislast nach BAG 9 AZR 584.13 in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `doppelboeden-und-verneinungen` | Wenn es um Doppelboeden und Verneinungen erkennen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfra... |
+| `einfuehrung-pruefauftrag` | Wenn es um Einfuehrung in den Pruefauftrag in Arbeitszeugnispruefer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `frequenzadverbien-pruefen` | Wenn es um Frequenzadverbien pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
+| `fuehrungskraft-verhalten-pruefen` | Wenn es um Fuehrungskraft-Verhalten pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `geheimcodes-katalog` | Wenn es um Geheimcodes-Katalog in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `intake-und-stammdaten-pruefen` | Wenn es um Intake und Stammdaten pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `klagestrategie-und-vollstreckung` | Wenn es um Klagestrategie und Vollstreckung in Arbeitszeugnispruefer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `mandantenbericht-erstellen` | Wenn es um Mandantenbericht erstellen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `note-1-formeln-erkennen` | Wenn es um Note-1-Formeln erkennen in Arbeitszeugnispruefer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `note-2-formeln-erkennen` | Wenn es um Note-2-Formeln erkennen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `note-3-formeln-erkennen` | Wenn es um Note-3-Formeln erkennen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `note-4-formeln-erkennen` | Wenn es um Note-4-Formeln erkennen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `note-5-formeln-erkennen` | Wenn es um Note-5-Formeln erkennen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `notenstufen-bag-9-azr-386-10` | Wenn es um Notenstufen nach BAG 9 AZR 386.10 in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schr... |
+| `personenreihenfolge-pruefen` | Wenn es um Personenreihenfolge pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `rollen-und-modus-wahl` | Wenn es um Rollen- und Moduswahl vor der Zeugnispruefung in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nach... |
+| `schaufenster-und-drift-erkennen` | Wenn es um Schaufenster- und Drift-Erkennung in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `schlussformel-notenwirkung-bewerten` | Wenn es um Schlussformel-Notenwirkung bewerten in Arbeitszeugnispruefer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `schlussformel-pruefen` | Wenn es um Schlussformel pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `steigerungsadverbien-pruefen` | Wenn es um Steigerungsadverbien pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `taetigkeitsabschnitt-wertigkeit-pruefen` | Wenn es um Taetigkeitsabschnitt und Wertigkeit pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachwe... |
+| `verhaltensabschnitt-pruefen` | Wenn es um Verhaltensabschnitt pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `zeugnisklarheit-objektiver-empfaengerhorizont` | Wenn es um Zeugnisklarheit nach dem objektiven Empfaengerhorizont (BAG 9 AZR 352.04; 9 AZR 386.10) in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte... |
+| `zusammenfassungsformel-erkennen` | Wenn es um Zusammenfassungsformel erkennen und decodieren in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nac... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

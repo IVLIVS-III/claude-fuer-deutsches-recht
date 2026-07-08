@@ -1,28 +1,5 @@
 # Liquiditätsplanung — Power-Plugin
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`liquiditaetsplanung`) | [`liquiditaetsplanung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/liquiditaetsplanung.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Edelholz Manufaktur Berlin GmbH — Liquiditäts- und Steuerakte** (`edelholz-manufaktur-berlin-liquiditaet`) | [Gesamt-PDF lesen](../testakten/edelholz-manufaktur-berlin-liquiditaet/gesamt-pdf/edelholz-manufaktur-berlin-liquiditaet_gesamt.pdf) | [`testakte-edelholz-manufaktur-berlin-liquiditaet.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-edelholz-manufaktur-berlin-liquiditaet.zip) |
-| **Forschungszulage Riedblick Sensorik GmbH** (`forschungszulage-sensorik-startup-taunus`) | [Gesamt-PDF lesen](../testakten/forschungszulage-sensorik-startup-taunus/gesamt-pdf/forschungszulage-sensorik-startup-taunus_gesamt.pdf) | [`testakte-forschungszulage-sensorik-startup-taunus.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-forschungszulage-sensorik-startup-taunus.zip) |
-| **Fortbestehensprognose Paragrafix GmbH** (`fortbestehensprognose-paragrafix-gmbh`) | [Gesamt-PDF lesen](../testakten/fortbestehensprognose-paragrafix-gmbh/gesamt-pdf/fortbestehensprognose-paragrafix-gmbh_gesamt.pdf) | [`testakte-fortbestehensprognose-paragrafix-gmbh.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -153,7 +130,7 @@ Automatisch generierte Komplett-Liste aller 73 Skills in diesem Plugin. Beschrei
 | `deutschem-tatbestandsmerkmale-beweisfragen` | Wenn es um Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `dokumentationspaket-bank` | Wenn es um Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `dokumente-intake` | Wenn es um Dokumentenintake in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `drohender-zahlungsunfaehigkeit` | Wenn es um Liqui Drohender Zahlungsunfähigkeit in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `drohender-zahlungsunfaehigkeit` | Wenn es um Liqui Drohender Zahlungsunfaehigkeit in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `eingangsdaten-checkliste` | Wenn es um Liqui: Eingangsdaten-Checkliste in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `eingangsdaten-idw-s6-liqp` | Wenn es um Liqui Eingangsdaten IDW S6 Liqp in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `einstieg-routing` | Wenn es um Einstieg und Routing in Liquiditätsplanung — Power geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -161,11 +138,11 @@ Automatisch generierte Komplett-Liste aller 73 Skills in diesem Plugin. Beschrei
 | `export` | Wenn es um Export: Schriftsatz-, Brief- und Memo-Bausteine in Liquiditätsplanung — Power geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `export-forecast-fortbestehensprognose` | Wenn es um Export Forecast Fortbestehensprognose in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `forecast-risikoampel-gegenargumente` | Wenn es um Forecast: Risikoampel, Gegenargumente und Verteidigungslinien in Liquiditätsplanung — Power geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `forecast-wochenplanung` | Wenn es um Liquiditätsplanung: Erstprüfung, Rollenklärung und Mandatsziel in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `forecast-wochenplanung` | Wenn es um Liquiditaetsplanung: Erstprüfung, Rollenklärung und Mandatsziel in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `fortbestehensprognose-international` | Wenn es um Fortbestehensprognose: Internationaler Bezug und Schnittstellen in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `fristen-und-risikoampel` | Wenn es um Fristen- und Risikoampel Liquiditätsplanung in Liquiditätsplanung — Power geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `fuer-bankgespraech` | Wenn es um Liqui für Bankgespräch in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `grundbegriffe-cashflow` | Wenn es um Liquiditätsplanung: Grundbegriffe in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `fuer-bankgespraech` | Wenn es um Liqui für Bankgespraech in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `grundbegriffe-cashflow` | Wenn es um Liquiditaetsplanung: Grundbegriffe in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `grundbegriffe-cashflow-kreditlinien` | Wenn es um Liqui Grundbegriffe Cashflow Kreditlinien in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `idw-s6-integrierte-sanierungsplanung` | Wenn es um Integrierte Sanierungsplanung in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `insolvenzrecht-formular-portal` | Wenn es um Insolvenzrecht: Formular, Portal und Einreichungslogik in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -176,17 +153,17 @@ Automatisch generierte Komplett-Liste aller 73 Skills in diesem Plugin. Beschrei
 | `leasing-lp-restrukturierungsplan-starug` | Wenn es um Liqui Leasing LP Restrukturierungsplan Starug in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `liqp-bankenreporting-leitfaden` | Wenn es um LiqP: Bankenreporting in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `liqp-liquiditaetspool-cash-pooling-spezial` | Wenn es um LiqP: Cash-Pooling Spezial in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `liqp-liquiditaetspool-cash-rollende-13wochen` | Wenn es um Liqp Liquiditätspool Cash Rollende 13wochen in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `liqp-liquiditaetspool-cash-rollende-13wochen` | Wenn es um Liqp Liquiditaetspool Cash Rollende 13wochen in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `liqp-rollende-13wochen-bauleiter` | Wenn es um LiqP: 13-Wochen-Plan Bauleiter in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `liqp-warenkredit-skonto-szenarien-spezial` | Wenn es um LiqP: Warenkredit Skonto in Liquiditätsplanung — Power geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
-| `liqui-fuer-bankgespraech` | Wenn es um Liqui für Bankgespräch in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `liqui-fuer-bankgespraech` | Wenn es um Liqui fuer Bankgespraech in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `liquiditaetsstatus-quellenbelege` | Wenn es um Liquiditätsstatus nur aus belastbaren Quellenbelegen in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfra... |
-| `liquiditaetsstatus-quellenbelege-live-quote` | Wenn es um Liquiditätsstatus Quellenbelege Live Quote in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `liquiditaetsstatus-quellenbelege-live-quote` | Wenn es um Liquiditaetsstatus Quellenbelege Live Quote in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `liquiditaetsvorschau-3-6-12-monate` | Wenn es um Rollierende Liquiditätsvorschau 3/6/12 Monate mit Fortführungsprognose (Paragrafen 17. 19 InsO) in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt... |
 | `liquiditaetsvorschau-3wochen` | Wenn es um Drei-Wochen-Liquiditätsvorschau (Paragraf 17 InsO, wochenaktuell) in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken... |
 | `liquiditaetsvorschau-insolvenzrechtlich` | Wenn es um Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfp... |
 | `live-mandantenkommunikation` | Wenn es um Live: Mandantenkommunikation und Entscheidungsvorlage in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `luecken-quellenkarte` | Wenn es um Lücken Quellenkarte in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| `luecken-quellenkarte` | Wenn es um Luecken Quellenkarte in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `mahnstufen-debitoren` | Wenn es um Liqui: Debitorenseite in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `mandantenkommunikation` | Wenn es um Mandantenkommunikation Liquiditätsplanung in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `mandantenkommunikation-redteam-qualitygate` | Wenn es um Liquiditätskommunikation Red-Team und Quality-Gate in Liquiditätsplanung — Power geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
@@ -197,12 +174,12 @@ Automatisch generierte Komplett-Liste aller 73 Skills in diesem Plugin. Beschrei
 | `rechtsprechung-fehlerkatalog` | Wenn es um Rechtsprechung Fehlerkatalog in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `redteam-qualitygate` | Wenn es um Red-Team Qualitygate in Liquiditätsplanung — Power geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `restrukturierungsplan-starug` | Wenn es um Liqui im StaRUG-Plan in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `saisonalitaet-erkennen` | Wenn es um Liqui: Saisonalität in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `saisonalitaet-erkennen` | Wenn es um Liqui: Saisonalitaet in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `schnittstellen-mehrparteienkonflikt` | Wenn es um Schnittstellen: Mehrparteienkonflikt und Interessenmatrix in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `sondereffekt-grossauftrag` | Wenn es um Sondereffekt Grossauftrag in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `sondereffekt-grossauftrag-stundungs` | Wenn es um Liqui Sondereffekt Grossauftrag Stundungs in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `sonderfall-edge-case` | Wenn es um Liqui: Sonderfall und Edge-Case-Prüfung in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `spezial-luecken-livequellen-und-rechtsprechungscheck` | Wenn es um Lücken: Livequellen- und Rechtsprechungscheck in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-luecken-livequellen-und-rechtsprechungscheck` | Wenn es um Luecken: Livequellen- und Rechtsprechungscheck in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-rechtsprechung-red-team-und-qualitaetskontrolle` | Wenn es um Rechtsprechung: Red-Team und Qualitätskontrolle in Liquiditätsplanung — Power geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `start-chronologie-fristen` | Wenn es um Start, Chronologie und Fristen Liquiditätsvorschau in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `stundungs-strategie` | Wenn es um Stundungs-Strategie in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |

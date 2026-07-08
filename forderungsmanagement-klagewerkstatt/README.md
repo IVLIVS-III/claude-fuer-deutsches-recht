@@ -1,26 +1,5 @@
 # Forderungsmanagement — Klagewerkstatt
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`forderungsmanagement-klagewerkstatt`) | [`forderungsmanagement-klagewerkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forderungsmanagement-klagewerkstatt.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Akte Inkasso-Zahlungsklage ModeFuchs** (`inkasso-zahlungsklage-modefuchs`) | [Gesamt-PDF lesen](../testakten/inkasso-zahlungsklage-modefuchs/gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf) | [`testakte-inkasso-zahlungsklage-modefuchs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-zahlungsklage-modefuchs.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -174,15 +153,15 @@ Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschrei
 | `belegte-compliance-aktenvermerk` | Wenn es um Belegte Compliance Aktenvermerk in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `chronologie-belegmatrix` | Wenn es um Chronologie und Belegmatrix in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `dokumente-intake` | Wenn es um Dokumente Intake in Forderungsmanagement — Klagewerkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
-| `erstpruefung-rollen-mandatsziel` | Wenn es um Erstprüfung Rollen und Mandatsziel in Forderungsmanagement — Klagewerkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
-| `faellige-zahlen-schwellen` | Wenn es um Fällige Zahlen und Schwellen in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `erstpruefung-rollen-mandatsziel` | Wenn es um Erstpruefung Rollen und Mandatsziel in Forderungsmanagement — Klagewerkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| `faellige-zahlen-schwellen` | Wenn es um Faellige Zahlen und Schwellen in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `fehlerkatalog` | Wenn es um Fehlerkatalog Forderungsmanagement in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagen... |
 | `fmkw-mahnverfahren-bauleiter` | Wenn es um FMKW: Mahnverfahren Bauleiter in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `fmkw-saumselig-streitig-erfahrung-spezial` | Wenn es um FMKW: Saumselig Streitig in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `fmkw-titulierung-streckung-leitfaden` | Wenn es um FMKW: Titulierung Streckung in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `fmkw-verbraucherklage-cookies-rdg-spezial` | Wenn es um FMKW: Verbraucherinkasso RDG in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `forderung-anwaltshonorar-rvg` | Wenn es um Anwaltshonorar nach RVG in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `forderung-arzthonorar-goae` | Wenn es um Arzthonorar nach GOÄ und GOZ in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `forderung-arzthonorar-goae` | Wenn es um Arzthonorar nach GOAE und GOZ in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `forderung-aus-werkvertrag-bgb-bau` | Wenn es um Werk-/Bauwerklohn-Forderung in Forderungsmanagement — Klagewerkstatt geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `forderung-gegen-gesellschafter-13-gmbhg` | Wenn es um Forderung gegen Gesellschafter in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `forderung-gegen-gmbh-gesellschafter` | Wenn es um Forderung gegen GmbH-Gesellschafter in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlage... |
@@ -190,10 +169,10 @@ Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschrei
 | `forderung-gegen-verbraucher` | Wenn es um Forderung gegen Verbraucher in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `forderung-im-ausland-vollstrecken` | Wenn es um Forderung im Ausland vollstrecken in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenl... |
 | `forderung-internationaler-bezug` | Wenn es um Forderung mit internationalem Bezug in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `forderung-mietruckstand-zahlungsklage` | Wenn es um Mietrückstands-Klage in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `forderung-mietrueckstand-zahlungsklage` | Wenn es um Mietrückstand – Zahlungsklage Wohnraum in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und An... |
+| `forderung-mietruckstand-zahlungsklage` | Wenn es um Mietrueckstands-Klage in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `forderung-mietrueckstand-zahlungsklage` | Wenn es um Mietrueckstand – Zahlungsklage Wohnraum in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und An... |
 | `forderung-werkvertrag-bau` | Wenn es um Werklohnforderung – BGB und Bau in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `forderung-zwangsvollstreckung-ueberblick` | Wenn es um Zwangsvollstreckung Überblick in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `forderung-zwangsvollstreckung-ueberblick` | Wenn es um Zwangsvollstreckung Ueberblick in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `forderungen-interessen-matrix` | Wenn es um Forderungen-Interessen-Matrix in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `forderungsaufnahme` | Wenn es um Forderungsaufnahme in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `forderungsmanagement-aufnahme` | Wenn es um Forderung aufnehmen in Forderungsmanagement — Klagewerkstatt geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
@@ -214,13 +193,13 @@ Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschrei
 | `mahnverfahren-beweislast-darlegungslast` | Wenn es um Beweislast und Darlegungslast in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `mahnvorlauf-dokumentenmatrix` | Wenn es um Mahnvorlauf Dokumentenmatrix in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `mandantenkommunikation` | Wenn es um Mandantenkommunikation in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage. |
-| `output-waehlen` | Wenn es um Output wählen in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `output-waehlen` | Wenn es um Output waehlen in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `quellenkarte` | Wenn es um Quellenkarte in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `redteam-qualitygate` | Wenn es um Redteam Qualitygate in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `saumselig-sonderfall-edge-case` | Wenn es um Saumselige Sonderfälle in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `saumselig-sonderfall-edge-case` | Wenn es um Saumselige Sonderfaelle in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `spezial-anspruchs-schriftsatz-brief-und-memo-bausteine` | Wenn es um Anspruchs: Schriftsatz-, Brief- und Memo-Bausteine in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begrün... |
 | `spezial-belegte-compliance-dokumentation-und-akte` | Wenn es um Belegte: Compliance-Dokumentation und Aktenvermerk in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begrün... |
-| `spezial-faellige-zahlen-schwellen-und-berechnung` | Wenn es um Fällige: Zahlen, Schwellenwerte und Berechnung in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründun... |
+| `spezial-faellige-zahlen-schwellen-und-berechnung` | Wenn es um Faellige: Zahlen, Schwellenwerte und Berechnung in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründun... |
 | `spezial-fmkw-mandantenkommunikation-entscheidungsvorlage` | Wenn es um Fmkw: Mandantenkommunikation und Entscheidungsvorlage in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvo... |
 | `spezial-forderungen-mehrparteien-konflikt-und-interessen` | Wenn es um Forderungen: Mehrparteienkonflikt und Interessenmatrix in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Be... |
 | `spezial-forderungsmanagement-tatbestand-beweis-und-belege` | Wenn es um Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf m... |
@@ -236,7 +215,7 @@ Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschrei
 | `spezial-saumselig-sonderfall-und-edge-case` | Wenn es um Saumselig: Sonderfall und Edge-Case-Prüfung in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung un... |
 | `spezial-werden-internationaler-bezug-und-schnittstellen` | Wenn es um Werden: Internationaler Bezug und Schnittstellen in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründu... |
 | `spezial-zahlungsklage-behoerden-gericht-und-registerweg` | Wenn es um Zahlungsklage: Behörden-, Gerichts- oder Registerweg in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begr... |
-| `spezial-zustaendigkeitspruefung-fristen-form-und-zustaendigkeit` | Wenn es um Zuständigkeitsprüfung: Fristen, Form, Zuständigkeit und Rechtsweg in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel... |
+| `spezial-zustaendigkeitspruefung-fristen-form-und-zustaendigkeit` | Wenn es um Zustaendigkeitspruefung: Fristen, Form, Zuständigkeit und Rechtsweg in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel... |
 | `tatbestand-beweis-belege` | Wenn es um Tatbestand Beweis Belege in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `titulierung-streckung-leitfaden` | Wenn es um Titulierung und Streckung in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `urkundenprozess-pruefen` | Wenn es um Urkundenprozess in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
@@ -250,7 +229,7 @@ Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschrei
 | `zahlungsklage-behoerden-register` | Wenn es um Zahlungsklage gegen Behörden und juristische Personen öffentlichen Rechts in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwu... |
 | `zahlungsklage-erstellen` | Wenn es um Zahlungsklage erstellen in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `zinsberechnung-288-bgb` | Wenn es um Zinsberechnung Paragraf 288 BGB in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `zustaendigkeitspruefung-mahngericht` | Wenn es um Zuständigkeitsprüfung in Forderungsmanagement — Klagewerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `zustaendigkeitspruefung-mahngericht` | Wenn es um Zuständigkeitspruefung in Forderungsmanagement — Klagewerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `zwangsvollstreckung-ueberblick` | Wenn es um Zwangsvollstreckung Überblick in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

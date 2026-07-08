@@ -1,26 +1,5 @@
 # Insolvenzforderungsanmeldungsprüfung
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`insolvenzforderungsanmeldungspruefung`) | [`insolvenzforderungsanmeldungspruefung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzforderungsanmeldungspruefung.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Insolvenzforderungsanmeldungsprüfung Phoenix Solar Montage GmbH** (`insolvenzforderungsanmeldungspruefung-phoenix-solar`) | [Gesamt-PDF lesen](../testakten/insolvenzforderungsanmeldungspruefung-phoenix-solar/gesamt-pdf/insolvenzforderungsanmeldungspruefung-phoenix-solar_gesamt.pdf) | [`testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -137,14 +116,14 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `formalpruefung-174` | Wenn es um Formalprüfung nach Paragraf 174 InsO in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `grund-betrag-zinsen` | Wenn es um Grund, Betrag und Zinsen in Insolvenzforderungsanmeldungsprüfung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
 | `grund-risikoampel-und-gegenargumente` | Wenn es um Grund: Risikoampel, Gegenargumente und Verteidigungslinien in Insolvenzforderungsanmeldungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortsch... |
-| `iap-anmeldepruefung-bauleiter-aussonderung` | Wenn es um IAP: Anmeldeprüfung Bauleiter in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `iap-anmeldepruefung-bauleiter-aussonderung` | Wenn es um IAP: Anmeldepruefung Bauleiter in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `iap-aussonderung-absonderung-spezial` | Wenn es um IAP: Aussonderung Absonderung in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `iap-konzernforderungen-anfechtung-spezial` | Wenn es um IAP: Konzernforderungen Anfechtung in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `iap-rangordnung-ifap-aktenanlage-beleg` | Wenn es um IAP: Rangordnung-Checkliste in Insolvenzforderungsanmeldungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
-| `inso-forderungsanmeldung-start-chronologie-fristen` | Wenn es um Insolvenzforderungsanmeldungsprüfung — Allgemein in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
+| `inso-forderungsanmeldung-start-chronologie-fristen` | Wenn es um Insolvenzforderungsanmeldungspruefung — Allgemein in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `inso-fristen-form-und-zustaendigkeit` | Wenn es um InsO: Fristen, Form, Zuständigkeit und Rechtsweg in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `insolvenzforderungsanmeldungspruefung` | Wenn es um Ifap: Mandantenkommunikation und Entscheidungsvorlage in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `insolvenzforderungsanmeldungspruefung-erstpruefung` | Wenn es um Insolvenzforderungsanmeldungsprüfung: Erstprüfung, Rollenklärung und Mandatsziel in Insolvenzforderungsanmeldungsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- u... |
+| `insolvenzforderungsanmeldungspruefung-erstpruefung` | Wenn es um Insolvenzforderungsanmeldungspruefung: Erstprüfung, Rollenklärung und Mandatsziel in Insolvenzforderungsanmeldungsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- u... |
 | `intake-kanalcheck-masseverbindlichkeit` | Wenn es um Intake und Kanalcheck in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `intake-tatbestand-beweis-und-belege` | Wenn es um Intake: Tatbestandsmerkmale, Beweisfragen und Beleglage in Insolvenzforderungsanmeldungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `kanalcheck-beweislast-masseverbindlichkeit` | Wenn es um Kanalcheck: Beweislast, Darlegungslast und Substantiierung in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -164,7 +143,7 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `rang-tabellenauszug-tabellenimport` | Wenn es um Rang: Schriftsatz-, Brief- und Memo-Bausteine in Insolvenzforderungsanmeldungsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung u... |
 | `schuldnerwiderspruch-184` | Wenn es um Schuldnerwiderspruch nach Paragraf 184 InsO in Insolvenzforderungsanmeldungsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-nachforderungen-livequellen-und-rechtsprechungscheck` | Wenn es um Nachforderungen: Livequellen- und Rechtsprechungscheck in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `spezial-pruefungstermin-compliance-dokumentation-und-akte` | Wenn es um Prüfungstermin: Compliance-Dokumentation und Aktenvermerk in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-pruefungstermin-compliance-dokumentation-und-akte` | Wenn es um Pruefungstermin: Compliance-Dokumentation und Aktenvermerk in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-vbuh-verhandlung-vergleich-und-eskalation` | Wenn es um Vbuh: Verhandlung, Vergleich und Eskalation in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-verteilung-red-team-und-qualitaetskontrolle` | Wenn es um Verteilung: Red-Team und Qualitätskontrolle in Insolvenzforderungsanmeldungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `streitige-forderung-179-180` | Wenn es um Streitige Forderung und Feststellungsklage in Insolvenzforderungsanmeldungsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und... |

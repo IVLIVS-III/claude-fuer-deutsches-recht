@@ -1,49 +1,49 @@
-Wenn du das hier öffnest, willst du im Bereich Word Legal Ai Plugin And Skill For German Lawyers zügig von Unterlagen zu einem verwertbaren Arbeitsprodukt kommen.
+Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Word Legal Ai Plugin And Skill For German Lawyers ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
 
 # Word Legal Ai Plugin And Skill For German Lawyers — Schnellstart
 
-Ziel: Word Legal AI for German Lawyers: Kaltstart, Kanzleistil, makrofreies Word-Finish, Verträge, Schriftsätze, Memos, Redlines, Klauselbibliothek, Defensive Drafting, Term Sheet, DE-EN Bilingual, US/UK Legal Writing und englische Verträge nach deutschem Recht. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Word Legal Tech for German Lawyers: Kaltstart, Kanzleistil, makrofreies Word-Finish, Verträge, Schriftsätze, Memos, Redlines, Klauselbibliothek, Defensive Drafting, Term Sheet, DE-EN Bilingual, US/UK Legal Writing und englische Verträge nach deutschem Recht. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
-1. AGB-konforme Klauseln nach Paragrafen 305-310 BGB: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-2. Anspruchsgrundlage und Rechtsfolgen-Klauseln: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-3. Anwaltsschreiben außergerichtlich: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-4. Argumentationsarchitektur Schreiben: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-5. B2B vs. B2C Klauselstrategie: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungslinie; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-6. Fristen- und Risikoampel: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
+1. AGB-konforme Klauseln nach Paragrafen 305-310 BGB: AGB-konforme Klauseln nach Paragrafen 305-310 BGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+2. Anspruchsgrundlage und Rechtsfolgen-Klauseln: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
+3. Anwaltsschreiben außergerichtlich: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
+4. Argumentationsarchitektur Schreiben: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
+5. B2B vs. B2C Klauselstrategie: B2B vs. B2C Klauselstrategie: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+6. Fristen- und Risikoampel: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| AGB-konforme Klauseln nach Paragrafen 305-310 BGB | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruchsgrundlage und Rechtsfolgen-Klauseln | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwaltsschreiben außergerichtlich | erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Argumentationsarchitektur Schreiben | erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| B2B vs. B2C Klauselstrategie | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungslinie? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fristen- und Risikoampel | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AGB-konforme Klauseln nach Paragrafen 305-310 BGB | AGB-konforme Klauseln nach Paragrafen 305-310 BGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anspruchsgrundlage und Rechtsfolgen-Klauseln | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwaltsschreiben außergerichtlich | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Argumentationsarchitektur Schreiben | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| B2B vs. B2C Klauselstrategie | B2B vs. B2C Klauselstrategie: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen- und Risikoampel | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
-- Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach Paragrafen 305-310 BGB. Klärt den AGB-Begriff (vorformuliert, mehrfach verwendet, gestellt), Einbeziehung im Verbraucher: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Vertragspartner (Verbraucher nach Paragraf 13 BGB, Unternehmer nach Paragraf 14 BGB, Kaufmann nach Paragrafen 1 ff. HGB): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- AGB-Definition Paragraf 305 I BGB: Vorformuliert (für eine Vielzahl von Verträgen), gestellt (vom Verwender), Vereinbarung (Einbeziehung erforderlich). Auch einmalige Verwendung kann: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Einbeziehung im Verbrauchergeschäft (Paragraf 305 II BGB): Ausdrücklicher Hinweis bei Vertragsschluss und zumutbare Möglichkeit der Kenntnisnahme; bei elektronischen AGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Einbeziehung im Unternehmergeschäft (Paragraf 310 I BGB): Erleichterte Einbeziehung; AGB werden Vertragsbestandteil bei rechtsgeschäftlicher Einbeziehung im Sinne der allgemeinen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 305c BGB: Überraschende Klauseln (Überrumpelungsschutz) werden nicht Vertragsbestandteil; mehrdeutige Klauseln gehen zulasten des Verwenders: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 306 BGB: Rechtsfolge der Unwirksamkeit. Nur die Klausel fällt weg, der Vertrag bleibt im Übrigen wirksam. Keine geltungserhaltende Reduktion (h. M.): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 306a BGB: Umgehungsverbot: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 307 BGB: Generalklausel. Unangemessene Benachteiligung entgegen Treu und Glauben; vermutet bei unklarer und unverständlicher Klausel (Transparenzgebot, Paragraf 307 I 2 BGB): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 308 BGB: Klauselverbote mit Wertungsmöglichkeit (Annahme- und Leistungsfristen, fingierte Erklärungen, Zugang fingiert, Rücktritt usw.). Im B2B grundsätzlich nicht direkt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 309 BGB: Klauselverbote ohne Wertungsmöglichkeit (Preiserhöhungen kurzfristig, Aufrechnungs- und Zurückbehaltungsausschluss, Haftung für grobe Fahrlässigkeit, Vertragsstrafe: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 310 BGB: Ausnahmen vom Anwendungsbereich: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 6. Antwortform

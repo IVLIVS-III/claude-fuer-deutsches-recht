@@ -43,3 +43,7 @@ Nutze diesen Skill, wenn ein Insolvenz- oder Restrukturierungsverfahren schnell,
 ## Entscheidungsanker
 
 Jeder Beschluss benennt Eröffnungsgrund, Tatsachenbasis, Verhältnismäßigkeit, Anhörungslage, Rechtsmittel und konkrete Wirkungen.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt Antrag, Gläubigerstellung, Forderung, Eröffnungsgrund, Sicherungsbedarf, Schuldnereinwand und Beschlussfolge. Er macht sichtbar, ob eine Aufklärungsverfügung, Sicherungsmaßnahme, Gutachterbestellung, Eröffnung oder Abweisung vorzubereiten ist.

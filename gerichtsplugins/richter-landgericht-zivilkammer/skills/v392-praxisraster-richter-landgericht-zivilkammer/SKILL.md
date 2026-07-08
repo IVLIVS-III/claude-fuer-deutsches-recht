@@ -22,3 +22,7 @@ Nutze diesen Skill, wenn aus Akte, Antrag, Anklage, Bescheid, Klage, Einspruch o
 ## Pflichtanker
 
 GVG Paragraf 71, ZPO Paragraf 253, 138, 139, 278, 286 und 313. Schwerpunkt sind Kammerzuständigkeit, Anwaltsprozess, komplexe Relation, Beweisaufnahme, Kammertermin, Vergleich und Tenor mit Nebenentscheidungen.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, unstreitigem Sachverhalt, streitiger Tatsache, Beweisangebot, Rechtsfrage und Anschlussverfügung. Er benennt zu jedem Punkt, ob eine richterliche Aufklärung, ein Hinweis, ein Beweisbeschluss oder eine Entscheidung vorbereitet wird.

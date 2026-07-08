@@ -2,38 +2,38 @@ Wenn du das hier öffnest, willst du einen Deckungsanspruch prüfen und gegen di
 
 # Krankenkassenrecht Krankenversicherung — Schnellstart
 
-Ziel: Plugin für GKV, PKV, Beihilfe-Schnittstellen und Krankenversicherungsrecht: Leistungen, Beiträge, Krankengeld, Hilfsmittel, Widerspruch, MD, Versicherungsvertrag und Kostenerstattung. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Plugin für GKV, PKV, Beihilfe-Schnittstellen und Krankenversicherungsrecht: Leistungen, Beiträge, Krankengeld, Hilfsmittel, Widerspruch, MD, Versicherungsvertrag und Kostenerstattung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
 1. Vertrag und Sparte: Versicherungsart, Versicherungsnehmer, versicherte Person, Risiko, Laufzeit und Bedingungen erfassen.
-2. Versicherungsfall: Eintritt, Anzeige, Schadenhöhe, Kausalitaet, Ausschluss und Beweislast ordnen.
+2. Versicherungsfall: Eintritt, Anzeige, Schadenhoehe, Kausalitaet, Ausschluss und Beweislast ordnen.
 3. Obliegenheiten: vorvertragliche Anzeige, Gefahrerhoehung, Schadenanzeige, Mitwirkung und Rechtsfolgenbelehrung prüfen.
 4. Deckung und Regulierung: Leistungsentscheidung, Quote, Regress, Verjährung und Prozessrisiko ausarbeiten.
 5. Arbeitsprodukt: Deckungsmemo, Anspruchsschreiben, Ablehnungsschreiben, Vergleichsvorschlag oder Klageentwurf formulieren.
-6. Wenn es um Abrechnung GOÄ/GOZ und Erstattung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten.
+6. Abrechnung GOÄ/GOZ und Erstattung: Abrechnung GOÄ/GOZ und Erstattung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abrechnung GOÄ/GOZ und Erstattung | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arzneimittel: Off-Label-Use und Lifestyle-Abgrenzung | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Asylbewerberleistungsgesetz und Gesundheitsversorgung | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auslandsbehandlung: EU, S2-Formular und Notfall | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beamtenanfänger: Pauschale Beihilfe, Ländercheck | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beitragsbemessung: Kapitalauszahlung und Betriebsrente | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abrechnung GOÄ/GOZ und Erstattung | Abrechnung GOÄ/GOZ und Erstattung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arzneimittel: Off-Label-Use und Lifestyle-Abgrenzung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Asylbewerberleistungsgesetz und Gesundheitsversorgung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auslandsbehandlung: EU, S2-Formular und Notfall | Auslandsbehandlung: EU, S2-Formular und Notfall: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beamtenanfänger: Pauschale Beihilfe, Ländercheck | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beitragsbemessung: Kapitalauszahlung und Betriebsrente | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

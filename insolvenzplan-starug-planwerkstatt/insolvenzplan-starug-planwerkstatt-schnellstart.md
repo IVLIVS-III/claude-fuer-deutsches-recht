@@ -2,18 +2,18 @@ Wenn du das hier öffnest, willst du Eröffnungsgrund und Fortbestehensprognose 
 
 # Insolvenzplan StaRUG Planwerkstatt — Schnellstart
 
-Ziel: Freistehendes Plugin für Insolvenzplan und StaRUG-Restrukturierungsplan: Intake, Sanierungskonzept, Vergleichsrechnung, Gruppen, Klassen, darstellender und gestaltender Teil, Anlagen, Abstimmung, Cram-down, Minderheitenschutz, Gericht und Planvollzug. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Freistehendes Plugin für Insolvenzplan und StaRUG-Restrukturierungsplan: Intake, Sanierungskonzept, Vergleichsrechnung, Gruppen, Klassen, darstellender und gestaltender Teil, Anlagen, Abstimmung, Cram-down, Minderheitenschutz, Gericht und Planvollzug. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
@@ -22,18 +22,18 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 3. Antrag und Sicherung: Insolvenzantrag, vorläufige Maßnahmen, Masseerhalt und Kommunikation vorbereiten.
 4. Forderung und Tabelle: Anmeldung, Bestreiten, Feststellung, Sicherheiten und Aussonderung aufbereiten.
 5. Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen.
-6. Wenn es um Abstimmung: Internationaler Bezug und Schnittstellen in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel.
+6. Abstimmung: Internationaler Bezug und Schnittstellen: Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abstimmung: Internationaler Bezug und Schnittstellen | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abstimmung und Mehrheiten | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anlagen: Mehrparteienkonflikt und Interessenmatrix | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anlagenpaket | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Übertragungsklauseln im Insolvenzplan — aufschiebend vs. auflösend bedingt, mit/ohne Gläubigerzustimmung | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abstimmung: Internationaler Bezug und Schnittstellen | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abstimmung und Mehrheiten | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anlagen: Mehrparteienkonflikt und Interessenmatrix | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anlagenpaket | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Übertragungsklauseln im Insolvenzplan — aufschiebend vs. auflösend bedingt, mit/ohne Gläubigerzustimmung | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
@@ -43,8 +43,8 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 - InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
 - Normenradar: InsO Paragrafen 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 7-39 StaRUG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 75 %-Mehrheit je Gruppe nach Paragraf 25 StaRUG; in der InsO 50 % Kopf- und 50 % Summenmehrheit je Gruppe nach Paragraf 244 InsO. Konkrete LG/OLG-Entscheidungen zur Abstimmungspraxis: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 217 InsO (Plan-Option) → Paragraf 218 InsO (Plan-Vorlage) → Paragrafen 220-221 InsO (darstellender und gestaltender Teil) → Paragraf 222 InsO (Gruppen) → Paragrafen 235-244: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 229 InsO Pflichtanlagen: Vermögensübersicht, Ergebnis- und Finanzplan für Planlaufzeit (idR 3–5 Jahre), Vergleichsrechnung Plan vs. Liquidation: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zahlungsunfähigkeit ist regelmäßig bei Liquiditätslücke von zehn Prozent anzunehmen.
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.
 - Verifizierte Anker: BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen Paragraf 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: Paragraf 343 InsO Anerkennung

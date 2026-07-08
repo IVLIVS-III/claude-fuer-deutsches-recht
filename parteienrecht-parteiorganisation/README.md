@@ -1,22 +1,5 @@
 # Parteienrecht und Parteiorganisation
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`parteienrecht-parteiorganisation`) | [`parteienrecht-parteiorganisation.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/parteienrecht-parteiorganisation.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -119,7 +102,7 @@ Automatisch generierte Komplett-Liste aller 110 Skills in diesem Plugin. Beschre
 | `landesrecht-router` | Wenn es um Landesrecht-Router Parteien in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `landesverband-ohne-untergliederung` | Wenn es um Landesverband ohne Untergliederung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `landtagswahl-livecheck` | Wenn es um Landtagswahl Live-Check in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `mandatstraegerbeitraege` | Wenn es um Mandatsträgerbeiträge in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Mandatsträgerbe... |
+| `mandatstraegerbeitraege` | Wenn es um Mandatsträgerbeiträge in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Mandatstraegerbe... |
 | `mehrsprachige-parteiformalien` | Wenn es um Mehrsprachige Parteiformalien in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `minderheitenrechte-partei` | Wenn es um Minderheitenrechte in Parteienrecht und Parteiorganisation geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlsti... |
 | `minderheitenrechte-partei-mitgliederdaten` | Wenn es um Minderheitenrechte in Parteienrecht und Parteiorganisation geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlsti... |
@@ -157,7 +140,7 @@ Automatisch generierte Komplett-Liste aller 110 Skills in diesem Plugin. Beschre
 | `parteigericht-effektiver-parteigruendung` | Wenn es um Parteigericht: Effektiver Rechtsschutz in Parteienrecht und Parteiorganisation geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risik... |
 | `parteigericht-effektiver-rechtsschutz` | Wenn es um Parteigericht: Effektiver Rechtsschutz in Parteienrecht und Parteiorganisation geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risik... |
 | `parteigericht-redteam` | Wenn es um Parteigericht Red-Team in Parteienrecht und Parteiorganisation geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `parteigruendung` | Wenn es um Parteigründung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Parteigründung; Arbeit... |
+| `parteigruendung` | Wenn es um Parteigründung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Parteigruendung; Arbeit... |
 | `parteikommunikation-mitglieder` | Wenn es um Mitgliederkommunikation in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `parteiprogramm-formal` | Wenn es um Parteiprogramm formal in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Parteiprogramm F... |
 | `parteiprogramm-formal-parteitag-planung` | Wenn es um Parteiprogramm formal in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Parteiprogramm F... |

@@ -57,3 +57,7 @@ Dieser Skill prüft, ob ein Verfahren strafbefehlsgeeignet ist, und formuliert e
 - Kein Strafbefehlsantrag ohne hinreichenden Tatverdacht.
 - Keine bloße Polizeizusammenfassung als Tatvorwurf.
 - Keine Nebenfolge ohne gesetzliche Grundlage.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trägt zur staatsanwaltschaftlichen Streitstoff-Sortierung bei, indem Sachverhalts-Eckdaten, Beweismittel, rechtliche Würdigung und Anschlussverfügung getrennt werden. Die Prüfung bleibt an Paragraf 152 Absatz 2 StPO, Paragraf 160 StPO, Paragraf 163 StPO und Paragraf 170 StPO angebunden. Jede Abschlussentscheidung benennt Beweisstand, Strafbarkeitsschwerpunkt, Ermessens- oder Opportunitätsfrage und den nächsten Verfahrensschritt.

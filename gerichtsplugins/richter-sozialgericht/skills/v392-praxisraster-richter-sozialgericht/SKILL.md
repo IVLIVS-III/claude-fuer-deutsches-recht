@@ -22,3 +22,7 @@ Nutze diesen Skill, wenn aus Akte, Antrag, Anklage, Bescheid, Klage, Einspruch o
 ## Pflichtanker
 
 SGG Paragrafen 51, 54, 86b, 103, 106, 128 und 131 sowie SGB I und SGB X. Schwerpunkt sind Bescheidprüfung, Widerspruch, einstweiliger Rechtsschutz, Amtsermittlung, sozialrechtliche Bedarfslagen und verständlicher Tenor.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den sozialgerichtlichen Streitstoff nach Bescheid, Widerspruchsbescheid, Verwaltungsakte, Klagebegründung, medizinischer oder beitragsrechtlicher Tatsache und Amtsermittlung. Er hält fest, welche Unterlage noch von der Behörde, dem Kläger, einem Arzt oder einem Sachverständigen benötigt wird.

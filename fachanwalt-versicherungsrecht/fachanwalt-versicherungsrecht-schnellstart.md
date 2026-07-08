@@ -2,38 +2,38 @@ Wenn du das hier öffnest, willst du einen Deckungsanspruch prüfen und gegen di
 
 # Fachanwalt Versicherungsrecht — Schnellstart
 
-Ziel: Plugin Fachanwalt für Versicherungsrecht. VVG VAG Berufsunfähigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstelle Plugin kanzlei-allgemein. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Plugin Fachanwalt für Versicherungsrecht. VVG VAG Berufsunfähigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstelle Plugin kanzlei-allgemein. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
 1. Vertrag und Sparte: Versicherungsart, Versicherungsnehmer, versicherte Person, Risiko, Laufzeit und Bedingungen erfassen.
-2. Versicherungsfall: Eintritt, Anzeige, Schadenhöhe, Kausalitaet, Ausschluss und Beweislast ordnen.
+2. Versicherungsfall: Eintritt, Anzeige, Schadenhoehe, Kausalitaet, Ausschluss und Beweislast ordnen.
 3. Obliegenheiten: vorvertragliche Anzeige, Gefahrerhoehung, Schadenanzeige, Mitwirkung und Rechtsfolgenbelehrung prüfen.
 4. Deckung und Regulierung: Leistungsentscheidung, Quote, Regress, Verjährung und Prozessrisiko ausarbeiten.
 5. Arbeitsprodukt: Deckungsmemo, Anspruchsschreiben, Ablehnungsschreiben, Vergleichsvorschlag oder Klageentwurf formulieren.
-6. Wenn es um Anschluss-Routing in Fachanwalt Versicherungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten.
+6. Anschluss-Routing: Anschluss-Routing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Berufsunfähigkeit: Fristen, Form, Zuständigkeit und Rechtsweg | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung | erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Berufsunfähigkeit Paragraf 172 VVG | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und Geldwäscherecht | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Prüfung von Versicherungsschadenfaellen und Deckungsablehnungen nach VVG | erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Anschluss-Routing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Berufsunfähigkeit: Fristen, Form, Zuständigkeit und Rechtsweg | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Berufsunfähigkeit Paragraf 172 VVG | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und Geldwäscherecht | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Prüfung von Versicherungsschadenfaellen und Deckungsablehnungen nach VVG | Prüfung von Versicherungsschadenfaellen und Deckungsablehnungen nach VVG: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
@@ -41,10 +41,10 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 - VVG Paragraf 19: vorvertragliche Anzeigepflicht und Rechtsfolgen.
 - VVG Paragraf 28: Obliegenheitsverletzung nach Vertragsschluss.
 - VVG Paragraf 61: Beratungspflichten des Versicherungsvermittlers.
-- Dieses Anschluss-Routing für Fachanwalt Versicherungsrecht wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- berufsunfähigkeit-paragraf-172-vvg — Berufsunfähigkeit Paragraf 172 VVG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- gebaeudeversicherung-paragraf-86-vvg — Gebaeudeversicherung Paragraf 86 VVG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- haftpflicht-paragraf-100-vvg — Haftpflicht Paragraf 100 VVG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 22.06.2011 - IV ZR 225/10: Beratungspflichten im Versicherungsvertrieb verlangen anlassbezogene, dokumentierbare Bedarfsermittlung.
 - BGH, Urteil vom 12.03.2014 - IV ZR 306/13: Obliegenheitsverletzungen sind nach Kausalitaet, Verschulden und Belehrung zu prüfen.
 - Wichtige Linie (Stand Mai 2026): Bedingungen, die Versicherungsschutz auf Bürotätigkeit mit ] 90 % Schreibtischanteil begrenzen, sind intransparent und benachteiligend (BGH IV. ZS, st. Rspr. — konkrete

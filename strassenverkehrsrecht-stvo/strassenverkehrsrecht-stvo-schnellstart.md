@@ -1,39 +1,39 @@
-Wenn du das hier öffnest, willst du im Bereich Strassenverkehrsrecht Stvo zügig von Unterlagen zu einem verwertbaren Arbeitsprodukt kommen.
+Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Strassenverkehrsrecht Stvo ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
 
 # Strassenverkehrsrecht Stvo — Schnellstart
 
-Ziel: StVO-/Straßenverkehrsrecht-Plugin für Verkehrsregeln, Zeichen, Anordnungen, Ausnahmegenehmigungen, Fahrerlaubnis, Bußgeld-Schnittstellen und Behördenpraxis. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: StVO-/Straßenverkehrsrecht-Plugin für Verkehrsregeln, Zeichen, Anordnungen, Ausnahmegenehmigungen, Fahrerlaubnis, Bußgeld-Schnittstellen und Behördenpraxis. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
-1. Ausnahmegenehmigung Beantragen: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-2. Baustellenverkehrsrecht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-3. Bewohnerparken Anordnung Angreifen: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-4. Bewohnerparken Antrag Schreiben: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-5. Bewohnerparken Behörde Anschreiben: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-6. Bewohnerparken Beweis Sichern: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
+1. Ausnahmegenehmigung Beantragen: Ausnahmegenehmigung Beantragen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+2. Baustellenverkehrsrecht: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
+3. Bewohnerparken Anordnung Angreifen: Bewohnerparken Anordnung Angreifen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+4. Bewohnerparken Antrag Schreiben: Bewohnerparken Antrag Schreiben: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+5. Bewohnerparken Behörde Anschreiben: Bewohnerparken Behörde Anschreiben: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+6. Bewohnerparken Beweis Sichern: Bewohnerparken Beweis Sichern: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Ausnahmegenehmigung Beantragen | erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Baustellenverkehrsrecht | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bewohnerparken Anordnung Angreifen | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bewohnerparken Antrag Schreiben | erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bewohnerparken Behörde Anschreiben | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bewohnerparken Beweis Sichern | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ausnahmegenehmigung Beantragen | Ausnahmegenehmigung Beantragen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Baustellenverkehrsrecht | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bewohnerparken Anordnung Angreifen | Bewohnerparken Anordnung Angreifen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bewohnerparken Antrag Schreiben | Bewohnerparken Antrag Schreiben: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bewohnerparken Behörde Anschreiben | Bewohnerparken Behörde Anschreiben: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bewohnerparken Beweis Sichern | Bewohnerparken Beweis Sichern: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

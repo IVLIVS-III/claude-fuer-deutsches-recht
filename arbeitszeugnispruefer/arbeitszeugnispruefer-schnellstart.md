@@ -2,18 +2,18 @@ Wenn du das hier öffnest, willst du eine Kündigung rechtssicher angreifen oder
 
 # Arbeitsrecht — Schnellstart
 
-Ziel: Prüft bestehende deutsche Arbeitszeugnisse Schritt für Schritt: Notenstufen, Zufriedenheits- und Verhaltensformeln, Geheimcodes, Auslassungen, Steigerungsadverbien, Schlussformel. Liefert Ampel-Einschaetzung pro Satz, Gesamtnote, Aufforderungsschreiben oder Klagestrategie zur Berichtigung. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Prüft bestehende deutsche Arbeitszeugnisse Schritt für Schritt: Notenstufen, Zufriedenheits- und Verhaltensformeln, Geheimcodes, Auslassungen, Steigerungsadverbien, Schlussformel. Liefert Ampel-Einschaetzung pro Satz, Gesamtnote, Aufforderungsschreiben oder Klagestrategie zur Berichtigung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
@@ -22,18 +22,18 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 3. Form und Zugang: Originalform, elektronische Form, Zugangsnachweis, Botenbeweis und Personalaktenbelege prüfen.
 4. Materielle Prüfung: Kündigungsgrund, Befristungsgrund, Annahmeverzug, Urlaub, Zeugnis und Vergleichsfenster trennen.
 5. Arbeitsprodukt: Klage, Erwiderung, Vergleichsvorschlag, HR-Memo oder Vertragskorrektur in ausformulierten Sätzen erstellen.
-6. Wenn es um Aeussere Form und Briefkopf prüfen in Arbeitszeugnisprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik.
+6. Aeussere Form und Briefkopf prüfen: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aeussere Form und Briefkopf prüfen | erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ampel-Einschaetzung pro Satz | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufforderungsschreiben Berichtigung | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auslassungen erkennen | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beendigungsgrund prüfen | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweislast nach BAG 9 AZR 584.13 | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aeussere Form und Briefkopf prüfen | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ampel-Einschaetzung pro Satz | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aufforderungsschreiben Berichtigung | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auslassungen erkennen | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beendigungsgrund prüfen | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweislast nach BAG 9 AZR 584.13 | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
@@ -41,13 +41,11 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 - KSchG Paragraf 4 und Paragraf 7: Dreiwochenfrist und Wirksamkeitsfiktion.
 - BGB Paragraf 611a: Arbeitsvertrag und Weisungsgebundenheit.
 - BGB Paragraf 623: Schriftform für Kündigung und Aufhebungsvertrag.
-- Stilregel Kosten: Vorgerichtliche Anwaltskosten im arbeitsgerichtlichen Kontext nicht standardmäßig als Verzugsschaden geltend machen. Der Ausschluss nach Paragraf 12a ArbGG erfasst: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Kostenrisiko: Paragraf 12a ArbGG schließt im erstinstanzlichen arbeitsgerichtlichen Verfahren die Erstattung eigener Anwaltskosten aus, und die Gegenseite kann ihre Kosten ebenfalls: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14: Vorbeschäftigungsverbot des TzBfG bleibt verfassungskonform, verlangt aber verfassungskonforme Begrenzung in atypischen Faellen.
 - BAG, Urteil vom 27.02.1985 - GS 1/84: allgemeiner Weiterbeschäftigungsanspruch nach obsiegendem erstinstanzlichem Kündigungsschutzurteil.
 - Unterschrift: Schließt das Zeugnis mit Name und Funktion einer Person in Maschinenschrift, muss genau diese Person eigenhaendig unterschreiben (BAG 21.9.1999 - 9 AZR 893.98). Eine Unterschrift durch eine
 - Unsicherheitsvermerke: Wenn ein Satz nicht im Katalog steht und keine BAG-Entscheidung unmittelbar greift, wird die Notentendenz als Annahme gekennzeichnet (zum Beispiel: „Tendenz Note 3, Ableitung
-- Stilregel Kosten: Vorgerichtliche Anwaltskosten im arbeitsgerichtlichen Kontext nicht standardmäßig als Verzugsschaden geltend machen. Der Ausschluss nach Paragraf 12a ArbGG erfasst nach BAG 28.11.2019
+- Stilregel Kosten: Vorgerichtliche Anwaltskosten im arbeitsgerichtlichen Kontext nicht standardmaessig als Verzugsschaden geltend machen. Der Ausschluss nach Paragraf 12a ArbGG erfasst nach BAG 28.11.2019
 
 ## 6. Antwortform
 

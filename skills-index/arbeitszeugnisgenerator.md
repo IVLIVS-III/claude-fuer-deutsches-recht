@@ -1,6 +1,6 @@
 # arbeitszeugnisgenerator
 
-**40 Skills** · Stand `v429.4.0`
+**40 Skills** · Stand `v429.5.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnisgenerator/README.md)

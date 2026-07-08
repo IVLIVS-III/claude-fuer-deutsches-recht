@@ -1,30 +1,5 @@
 # BGB BT Prüfer
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`bgb-bt-pruefer`) | [`bgb-bt-pruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bgb-bt-pruefer.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **BGB BT — Holzofen, Lieferkette, Bürgschaft, GoA und Brandschaden** (`bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt`) | [Gesamt-PDF lesen](../testakten/bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt/gesamt-pdf/bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt_gesamt.pdf) | [`testakte-bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt.zip) |
-| **BGB BT — Smart-Kühlschrank, digitale Elemente und Reparaturblockade** (`bgb-bt-smart-kuehlschrank-digital-repair-koeln`) | [Gesamt-PDF lesen](../testakten/bgb-bt-smart-kuehlschrank-digital-repair-koeln/gesamt-pdf/bgb-bt-smart-kuehlschrank-digital-repair-koeln_gesamt.pdf) | [`testakte-bgb-bt-smart-kuehlschrank-digital-repair-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-smart-kuehlschrank-digital-repair-koeln.zip) |
-| **Kaufrecht — Pflegebett, Sensorik und Cloud-Abo in Nürnberg** (`kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg`) | [Gesamt-PDF lesen](../testakten/kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg/gesamt-pdf/kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg_gesamt.pdf) | [`testakte-kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg.zip) |
-| **Kaufrecht — Smartwatch, Gesundheitsabo und Updatefehler in Hannover** (`kaufrecht-smartwatch-gesundheitsabo-update-hannover`) | [Gesamt-PDF lesen](../testakten/kaufrecht-smartwatch-gesundheitsabo-update-hannover/gesamt-pdf/kaufrecht-smartwatch-gesundheitsabo-update-hannover_gesamt.pdf) | [`testakte-kaufrecht-smartwatch-gesundheitsabo-update-hannover.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kaufrecht-smartwatch-gesundheitsabo-update-hannover.zip) |
-| **Kaufrecht — Wallbox, Firmware und Lastmanagement in Essen** (`kaufrecht-wallbox-firmware-lastmanagement-essen`) | [Gesamt-PDF lesen](../testakten/kaufrecht-wallbox-firmware-lastmanagement-essen/gesamt-pdf/kaufrecht-wallbox-firmware-lastmanagement-essen_gesamt.pdf) | [`testakte-kaufrecht-wallbox-firmware-lastmanagement-essen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kaufrecht-wallbox-firmware-lastmanagement-essen.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -124,9 +99,9 @@ Automatisch generierte Komplett-Liste aller 108 Skills in diesem Plugin. Beschre
 | `bt-fristen-erklaerungen-zugang` | Wenn es um BT-Fristen, Erklärungen und Zugang in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `bt-vertragsentwurf-modellvertrag` | Wenn es um BT-Vertragsentwurf und Modellvertrag in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `buergschaft-einreden-und-akzessorietaet` | Wenn es um Bürgschaft: Einreden und Akzessorietät in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `buergschaft-form-und-verbraucherbuerge` | Wenn es um Bürgschaft: Form und Verbraucherbürge in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bürgschaft Form Und Ve... |
+| `buergschaft-form-und-verbraucherbuerge` | Wenn es um Bürgschaft: Form und Verbraucherbürge in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Buergschaft Form Und Ve... |
 | `buergschaft-grundschema-paragraph-765` | Wenn es um Bürgschaft Grundschema Paragraf 765 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `buergschaft-verbraucherbuerge-grundschema` | Wenn es um Bürgschaft: Form und Verbraucherbürge in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bürgschaft Verbraucher... |
+| `buergschaft-verbraucherbuerge-grundschema` | Wenn es um Bürgschaft: Form und Verbraucherbürge in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Buergschaft Verbraucher... |
 | `darlehen-und-finanzierung` | Wenn es um Darlehen und Finanzierung in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `delikt-organisationspflicht` | Wenn es um Delikt: Organisationspflicht in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Delikt Organisationspflicht; Arb... |
 | `delikt-organisationspflicht-psychische` | Wenn es um Delikt: Organisationspflicht in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Delikt Organisationspflicht Psyc... |
@@ -148,8 +123,8 @@ Automatisch generierte Komplett-Liste aller 108 Skills in diesem Plugin. Beschre
 | `dokumente-intake` | Wenn es um Dokumentenintake in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `gesamtschuld-und-regress-bgb-bt` | Wenn es um Gesamtschuld und Regress BGB BT in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `geschaeftsbesorgung-auftrag-mandat` | Wenn es um Geschäftsbesorgung, Auftrag und Mandat in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `geschaeftsbesorgung-und-zahlungsdienste` | Wenn es um Geschäftsbesorgung und Zahlungsdienste in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Geschäftsbesorgung Un... |
-| `geschaeftsbesorgung-zahlungsdienste-goa` | Wenn es um Geschäftsbesorgung und Zahlungsdienste in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Geschäftsbesorgung Za... |
+| `geschaeftsbesorgung-und-zahlungsdienste` | Wenn es um Geschäftsbesorgung und Zahlungsdienste in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Geschaeftsbesorgung Un... |
+| `geschaeftsbesorgung-zahlungsdienste-goa` | Wenn es um Geschäftsbesorgung und Zahlungsdienste in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Geschaeftsbesorgung Za... |
 | `goa-entgegenstehender-wille-paragraphen-678` | Wenn es um GoA: Entgegenstehender Wille Paragrafen 678 und 679 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `goa-entgegenstehender-wille-paragraphen-678-679` | Wenn es um GoA: Entgegenstehender Wille Paragrafen 678 und 679 BGB in BGB BT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und... |
 | `goa-grundschema-paragraph-677` | Wenn es um GoA Grundschema Paragraf 677 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -183,13 +158,13 @@ Automatisch generierte Komplett-Liste aller 108 Skills in diesem Plugin. Beschre
 | `mietvertrag-grundschema-paragraph-535` | Wenn es um Mietvertrag Grundschema Paragraf 535 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `pacht-leihe-schnittstelle-at` | Wenn es um Pacht, Leihe und Verwahrung BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pacht Leihe Schnittstelle At;... |
 | `pacht-leihe-und-verwahrung` | Wenn es um Pacht, Leihe und Verwahrung BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pacht Leihe Und Verwahrung; A... |
-| `paragraph-verjaehrung-werk-dienst` | Wenn es um Vergleich Paragraf 779 BGB in BGB BT Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Paragraph Verjährung Werk... |
+| `paragraph-verjaehrung-werk-dienst` | Wenn es um Vergleich Paragraf 779 BGB in BGB BT Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Paragraph Verjaehrung Werk... |
 | `produzentenhaftung-und-verkehrssicherung` | Wenn es um Produzentenhaftung und Verkehrssicherung in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Produzentenhaftung U... |
 | `produzentenhaftung-verkehrssicherung` | Wenn es um Produzentenhaftung und Verkehrssicherung in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Produzentenhaftung V... |
 | `red-team-gegenseite` | Wenn es um Workflow: Red Team Gegenseite in BGB BT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `reisevertrag-pauschalreise` | Wenn es um Reisevertrag und Pauschalreise Paragrafen 651a ff. BGB in BGB BT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und... |
-| `ruecktritt-kuendigung` | Wenn es um Workflow: Fristen, Rücktritt und Kündigung in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rücktritt Kündig... |
-| `ruecktritt-kuendigung-verhandlungsplan` | Wenn es um Workflow: Fristen, Rücktritt und Kündigung in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rücktritt Kündig... |
+| `ruecktritt-kuendigung` | Wenn es um Workflow: Fristen, Rücktritt und Kündigung in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ruecktritt Kuendig... |
+| `ruecktritt-kuendigung-verhandlungsplan` | Wenn es um Workflow: Fristen, Rücktritt und Kündigung in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ruecktritt Kuendig... |
 | `schadensrecht-paragraphen-249-253` | Wenn es um Schadensrecht Paragrafen 249-253 BGB in BGB BT Prüfer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
 | `schnittstelle-bgb-at-methodenlehre-agb` | Wenn es um Schnittstelle BGB-AT, Methodenlehre und AGB Paragrafen 305-310 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schuldversprechen-schuldanerkenntnis` | Wenn es um Schuldversprechen und Schuldanerkenntnis Paragrafen 780 und 781 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

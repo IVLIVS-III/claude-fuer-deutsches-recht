@@ -1,49 +1,49 @@
-Wenn du das hier öffnest, willst du im Bereich Schriftform Und Textform Bgb zügig von Unterlagen zu einem verwertbaren Arbeitsprodukt kommen.
+Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Schriftform Und Textform Bgb ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
 
 # Schriftform Und Textform Bgb — Schnellstart
 
-Ziel: Formerfordernisse im deutschen Zivilrecht: Schriftform, Textform, qES, Zugang, beA/ERV und Prozessordnungen. Mit Checklisten, Dokumentation und Rechtsprechung nur nach Live-Verifikation. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Formerfordernisse im deutschen Zivilrecht: Schriftform, Textform, qES, Zugang, beA/ERV und Prozessordnungen. Mit Checklisten, Dokumentation und Rechtsprechung nur nach Live-Verifikation. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
-1. Amtlicher Formkern BGB/ZPO: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-2. Anschluss-Routing: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-3. Anspruchsformulierungen bei Formverstoß: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-4. Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko.
-5. Red-Team Qualitygate: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-6. Befristungsabrede — qES-Rechtsprechung Stand 2026: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
+1. Amtlicher Formkern BGB/ZPO: Amtlicher Formkern BGB/ZPO: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+2. Anschluss-Routing: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+3. Anspruchsformulierungen bei Formverstoß: Anspruchsformulierungen bei Formverstoß: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+4. Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
+5. Red-Team Qualitygate: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+6. Befristungsabrede — qES-Rechtsprechung Stand 2026: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Amtlicher Formkern BGB/ZPO | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruchsformulierungen bei Formverstoß | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB | erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Red-Team Qualitygate | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Befristungsabrede — qES-Rechtsprechung Stand 2026 | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amtlicher Formkern BGB/ZPO | Amtlicher Formkern BGB/ZPO: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anspruchsformulierungen bei Formverstoß | Anspruchsformulierungen bei Formverstoß: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Red-Team Qualitygate | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Befristungsabrede — qES-Rechtsprechung Stand 2026 | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
-- 2. Formerfordernis bestimmen: Paragraf 126, Paragraf 126a, Paragraf 126b, Paragraf 127, Paragraf 128 oder Paragraf 129 BGB; Spezialnorm prüfen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 3. Zugang prüfen: Paragraf 130 BGB oder Zustellungsregime der ZPO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 4. Prozesspfad prüfen: Paragrafen 130a, 130d, 130e, 173, 189 ZPO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 5. Beweiswert prüfen: Paragraf 371a ZPO, Versandjournal, eEB, Zustellungsurkunde, Botenprotokoll, Validierungsbericht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 125 BGB — Nichtigkeit wegen Formmangels: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 812 Abs. 1 S. 1 BGB — Bereicherungsanspruch: ohne Rechtsgrund erlangt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 818 BGB — Umfang des Bereicherungsanspruchs: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 280 Abs. 1 BGB i.V.m. Paragrafen 311 Abs. 2, 241 Abs. 2 BGB — Schadensersatz aus c.i.c: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 16 TzBfG — Entfristung bei formwidrigem Befristungsvertrag: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 985 BGB — Herausgabeanspruch: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 125 S. 1 BGB nichtig: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21: Eingescannte Unterschrift genügt nicht; die formgerechte Erklärung muss dem Arbeitnehmer vor Arbeitsaufnahme vorliegen
 - LAG Berlin-Brandenburg, Urt. v. 16.03.2022 – Az. 23 Sa 1133/21 — gescannte Unterschrift unter Befristungsabrede wahrt Paragraf 14 Abs. 4 TzBfG nicht. Quelle

@@ -2,18 +2,18 @@ Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rech
 
 # Gesellschaftsrecht — Schnellstart
 
-Ziel: Gründungsassistent für deutsche Gesellschaften: Rechtsformwahl, Satzung, Notar, Handelsregister, Bank/KYC, Steuerstart, IP, Erlaubnisse, erste Verträge, Budget und Streitprävention. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Gründungsassistent für deutsche Gesellschaften: Rechtsformwahl, Satzung, Notar, Handelsregister, Bank/KYC, Steuerstart, IP, Erlaubnisse, erste Verträge, Budget und Streitprävention. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
@@ -22,18 +22,18 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
 4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
 5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
-6. Wenn es um Kleine AG in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten.
+6. Kleine AG: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Kleine AG | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfänger-Kaltstart Gesellschaftsgründung | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auflösung und Liquidation Start | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auslandsgesellschafter und KYC | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bank, KYC, UBO und Transparenzregister | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bankkonto und KYC-Paket | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kleine AG | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anfänger-Kaltstart Gesellschaftsgründung | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auflösung und Liquidation Start | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auslandsgesellschafter und KYC | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bank, KYC, UBO und Transparenzregister | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bankkonto und KYC-Paket | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

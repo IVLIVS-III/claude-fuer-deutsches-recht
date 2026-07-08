@@ -1,29 +1,5 @@
 # Richter Amtsgericht Strafsachen
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`richter-amtsgericht-straf`) | [`richter-amtsgericht-straf.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-straf.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Betäubungsmittel-Kurierfahrt auf der A3 bei Köln** (`strafrecht-btm-kokain-kurierfahrt-a3-koeln`) | [Gesamt-PDF lesen](../../testakten/strafrecht-btm-kokain-kurierfahrt-a3-koeln/gesamt-pdf/strafrecht-btm-kokain-kurierfahrt-a3-koeln_gesamt.pdf) | [`testakte-strafrecht-btm-kokain-kurierfahrt-a3-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-btm-kokain-kurierfahrt-a3-koeln.zip) |
-| **Häusliche Gewalt und gefährliche Körperverletzung Dresden** (`strafrecht-haeusliche-gewalt-koerperverletzung-dresden`) | [Gesamt-PDF lesen](../../testakten/strafrecht-haeusliche-gewalt-koerperverletzung-dresden/gesamt-pdf/strafrecht-haeusliche-gewalt-koerperverletzung-dresden_gesamt.pdf) | [`testakte-strafrecht-haeusliche-gewalt-koerperverletzung-dresden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-haeusliche-gewalt-koerperverletzung-dresden.zip) |
-| **Jugendstrafsache Schulhofraub Hamburg-Wilhelmsburg** (`strafrecht-jugendlicher-raub-schulhof-hamburg`) | [Gesamt-PDF lesen](../../testakten/strafrecht-jugendlicher-raub-schulhof-hamburg/gesamt-pdf/strafrecht-jugendlicher-raub-schulhof-hamburg_gesamt.pdf) | [`testakte-strafrecht-jugendlicher-raub-schulhof-hamburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-jugendlicher-raub-schulhof-hamburg.zip) |
-| **Alleinrennen, Unfallflucht und Dashcam Berlin** (`strafrecht-verkehrsunfall-alleinrennen-berlin`) | [Gesamt-PDF lesen](../../testakten/strafrecht-verkehrsunfall-alleinrennen-berlin/gesamt-pdf/strafrecht-verkehrsunfall-alleinrennen-berlin_gesamt.pdf) | [`testakte-strafrecht-verkehrsunfall-alleinrennen-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-verkehrsunfall-alleinrennen-berlin.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -149,7 +125,7 @@ Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Beschrei
 | `01-akte-erstdurchsicht-strafsache` | Wenn es um 01 Akte Erstdurchsicht Strafsache in Richter Amtsgericht Strafsachen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `02-zustaendigkeit-und-eroeffnungsbeschluss` | Wenn es um 02 Zuständigkeit und Eröffnungsbeschluss in Richter Amtsgericht Strafsachen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächst... |
 | `03-hauptverhandlung-vorbereiten` | Wenn es um 03 Hauptverhandlung Vorbereiten in Richter Amtsgericht Strafsachen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `04-beweisaufnahme-und-beweisantraege` | Wenn es um 04 Beweisaufnahme und Beweisanträge in Richter Amtsgericht Strafsachen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `04-beweisaufnahme-und-beweisantraege` | Wenn es um 04 Beweisaufnahme und Beweisantraege in Richter Amtsgericht Strafsachen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `05-beweiswuerdigung-strafrecht` | Wenn es um 05 Beweiswürdigung Strafrecht in Richter Amtsgericht Strafsachen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `06-strafzumessung-paragraf-46-stgb` | Wenn es um 06 Strafzumessung Paragraf 46 Stgb in Richter Amtsgericht Strafsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nä... |
 | `07-tenor-und-rechtsmittelbelehrung-straf` | Wenn es um 07 Tenor und Rechtsmittelbelehrung Straf in Richter Amtsgericht Strafsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken... |

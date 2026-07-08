@@ -1,39 +1,39 @@
-Wenn du das hier öffnest, willst du im Bereich Hoai Leistungsphasen Praxis zügig von Unterlagen zu einem verwertbaren Arbeitsprodukt kommen.
+Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Hoai Leistungsphasen Praxis ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
 
 # Hoai Leistungsphasen Praxis — Schnellstart
 
-Ziel: Großplugin für HOAI-Leistungsphasen 1 bis 9: Grundlagenermittlung, Vorplanung, Entwurf, Genehmigung, Ausführungsplanung, Vergabe, Bauüberwachung, Objektbetreuung, Honorar, Vertrag, Haftung, Nachträge und Bauprojektsteuerung. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Großplugin für HOAI-Leistungsphasen 1 bis 9: Grundlagenermittlung, Vorplanung, Entwurf, Genehmigung, Ausführungsplanung, Vergabe, Bauüberwachung, Objektbetreuung, Honorar, Vertrag, Haftung, Nachträge und Bauprojektsteuerung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
-1. HOAI Querschnitt: Plant technische vorabnahme: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-2. HOAI Querschnitt: Erstellt abschlussbericht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-3. HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh-/bgh-risiken: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte; Ergebnis mit Beleg, Risiko.
-4. HOAI Querschnitt: Leitet zu freianlagen: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-5. Anrechenbare Kosten, DIN 276 und Kostengruppen: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-6. HOAI Querschnitt: Koordiniert rollen ohne verantwortungsvermischung: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte; Ergebnis mit Beleg, Risiko und nächstem Schritt.
+1. HOAI Querschnitt: Plant technische vorabnahme: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
+2. HOAI Querschnitt: Erstellt abschlussbericht: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
+3. HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh-/bgh-risiken: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
+4. HOAI Querschnitt: Leitet zu freianlagen: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
+5. Anrechenbare Kosten, DIN 276 und Kostengruppen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+6. HOAI Querschnitt: Koordiniert rollen ohne verantwortungsvermischung: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| HOAI Querschnitt: Plant technische vorabnahme | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| HOAI Querschnitt: Erstellt abschlussbericht | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh-/bgh-risiken | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| HOAI Querschnitt: Leitet zu freianlagen | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anrechenbare Kosten, DIN 276 und Kostengruppen | rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| HOAI Querschnitt: Koordiniert rollen ohne verantwortungsvermischung | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| HOAI Querschnitt: Plant technische vorabnahme | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| HOAI Querschnitt: Erstellt abschlussbericht | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh-/bgh-risiken | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| HOAI Querschnitt: Leitet zu freianlagen | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anrechenbare Kosten, DIN 276 und Kostengruppen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| HOAI Querschnitt: Koordiniert rollen ohne verantwortungsvermischung | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
@@ -47,7 +47,7 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 - BGH VII ZR 46/06 (Mindestsatz-Unterschreitung)
 - BGH VII ZR 63/14 (Abschlagszahlung Architekt)
 - BGH VII ZR 58/11 (Akquise vs. Vertragsschluss)
-- EUGH C-377/17 (HOAI-Preisrecht europarechtswidrig)
+- EuGH C-377/17 (HOAI-Preisrecht europarechtswidrig)
 
 ## 6. Antwortform
 

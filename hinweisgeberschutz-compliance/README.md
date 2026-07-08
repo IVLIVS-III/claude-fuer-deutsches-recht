@@ -1,27 +1,5 @@
 # Hinweisgeberschutz, Meldestellen und NDA-Konflikte
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`hinweisgeberschutz-compliance`) | [`hinweisgeberschutz-compliance.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hinweisgeberschutz-compliance.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Akte Waldkrone HealthTech GmbH - NDA, Meldekanal und Lieferantenhinweis** (`hinweisgeberschutz-nda-meldekanal-waldkrone`) | [Gesamt-PDF lesen](../testakten/hinweisgeberschutz-nda-meldekanal-waldkrone/gesamt-pdf/hinweisgeberschutz-nda-meldekanal-waldkrone_gesamt.pdf) | [`testakte-hinweisgeberschutz-nda-meldekanal-waldkrone.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-hinweisgeberschutz-nda-meldekanal-waldkrone.zip) |
-| **Vertriebsbonus und staatsanwaltschaftlicher Honeypot** (`internal-investigation-vertriebsbonus-staatsanwaltschaft-honeypot`) | [Gesamt-PDF lesen](../testakten/internal-investigation-vertriebsbonus-staatsanwaltschaft-honeypot/gesamt-pdf/internal-investigation-vertriebsbonus-staatsanwaltschaft-honeypot_gesamt.pdf) | [`testakte-internal-investigation-vertriebsbonus-staatsanwaltschaft-honeypot.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-internal-investigation-vertriebsbonus-staatsanwaltschaft-honeypot.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -109,7 +87,7 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `arbeitsschutz` | Wenn es um Arbeitsschutz in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `arbeitsvertrag-klauseln-settlement` | Wenn es um Arbeitsvertrag Klauseln in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `audit-nachweis` | Wenn es um Audit Nachweis in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `aufsichtsbehoerdenkommunikation-internal` | Wenn es um Aufsichtsbehördenkommunikation in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `aufsichtsbehoerdenkommunikation-internal` | Wenn es um Aufsichtsbehoerdenkommunikation in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `aufsichtsrat-reporting` | Wenn es um Aufsichtsrat Reporting in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `barrierefreiheit-meldekanal` | Wenn es um Barrierefreiheit Meldekanal in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `beschaeftigtenzahl-konzern` | Wenn es um Beschäftigtenzahl Konzern in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -118,7 +96,7 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `betriebsrat-mitbestimmung-beweislastumkehr` | Wenn es um Betriebsrat Mitbestimmung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `beweislastumkehr` | Wenn es um Beweislastumkehr in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `bewerber-ehemalige` | Wenn es um Bewerber Ehemalige in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `boesglaeubige-meldung` | Wenn es um Bösgläubige Meldung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `boesglaeubige-meldung` | Wenn es um Boesglaeubige Meldung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `bonus-versetzung-case-management-cloud` | Wenn es um Bonus Versetzung Bewertung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `bussgeld-risiko-exportkontrolle-sanktionen` | Wenn es um Bussgeld Risiko in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `case-management-tool` | Wenn es um Case Management Tool in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -138,10 +116,10 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `faq-fuer-mitarbeiter` | Wenn es um FAQ Für Mitarbeiter in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `folgeaktionen` | Wenn es um Folgeaktionen in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `fristenkalender` | Wenn es um Fristenkalender in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `geldwaesche-meldung-geschaeftsgeheimnis` | Wenn es um Geldwäsche Meldung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `geldwaesche-meldung-geschaeftsgeheimnis` | Wenn es um Geldwaesche Meldung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `gerichtliche-rechtsprechung-eingangsfrist` | Wenn es um Gerichtliche Rechtsprechung Livecheck in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `geschaeftsgeheimnis-geschgehg` | Wenn es um Geschäftsgeheimnis Geschgehg in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `geschuetzte-verstoesse-paragraf2` | Wenn es um Geschützte Verstöße Paragraf2 in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `geschuetzte-verstoesse-paragraf2` | Wenn es um Geschuetzte Verstoesse Paragraf2 in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `hinweis-von-externer-person` | Wenn es um Hinweis Von Externer Person in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `hinweisgeber-betriebsrat-personenkreis` | Wenn es um Hinweisgeber Im Betriebsrat in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `hinweisgeber-personenkreis` | Wenn es um Hinweisgeber Personenkreis in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -154,7 +132,7 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `kommunikation-an-betroffene` | Wenn es um Kommunikation An Betroffene in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `konflikt-nda-due-diligence` | Wenn es um Konflikt NDA Due Diligence in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `konzernmeldestelle-kuendigung-laender` | Wenn es um Konzernmeldestelle in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `kuendigung-nach-meldung` | Wenn es um Kündigung Nach Meldung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `kuendigung-nach-meldung` | Wenn es um Kuendigung Nach Meldung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `laender-meldestellen` | Wenn es um Länder Meldestellen in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `legal-hold` | Wenn es um Legal Hold in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `lieferkette-lksg-massnahmenplan-meldekanal` | Wenn es um Lieferkette LkSG CSDDD in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -177,15 +155,15 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `redteam-qualitygate` | Wenn es um Redteam Qualitygate in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `repressalienverbot` | Wenn es um Repressalienverbot in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `risikomatrix-rueckmeldung-monate-schulung` | Wenn es um Risikomatrix in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `rueckmeldung-3-monate` | Wenn es um Rückmeldung 3 Monate in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `rueckmeldung-3-monate` | Wenn es um Rueckmeldung 3 Monate in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schadensersatz` | Wenn es um Schadensersatz in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `schulung-fuehrungskraefte` | Wenn es um Schulung Führungskräfte in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `schulung-fuehrungskraefte` | Wenn es um Schulung Fuehrungskraefte in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schutzvoraussetzungen` | Wenn es um Schutzvoraussetzungen in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schwerbehinderung-agg-shared-resources-speak` | Wenn es um Schwerbehinderung Agg in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `settlement-und-aufhebungsvertrag` | Wenn es um Settlement Und Aufhebungsvertrag in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `shared-resources` | Wenn es um Shared Resources in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `speak-up-kultur` | Wenn es um Speak Up Kultur in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `sprachliche-zugaenglichkeit` | Wenn es um Sprachliche Zugänglichkeit in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `sprachliche-zugaenglichkeit` | Wenn es um Sprachliche Zugaenglichkeit in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `steuerrecht-grenzen` | Wenn es um Steuerrecht Grenzen in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `tisax-iso-triage-strafrecht-uk-whistleblowing` | Wenn es um Tisax Iso Hinweisgeber in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `triage-strafrecht` | Wenn es um Triage Strafrecht in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -197,8 +175,8 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `us-sox-doddfrank-abgrenzung` | Wenn es um Us Sox Doddfrank Abgrenzung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vergleichsklausel` | Wenn es um Vergleichsklausel in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `verschwiegenheitsklauseln-redline` | Wenn es um Verschwiegenheitsklauseln Redline in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `vertraulichkeit-identitaet` | Wenn es um Vertraulichkeit Identität in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `vertraulichkeit-vs-anhoerung` | Wenn es um Vertraulichkeit Vs Anhörung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `vertraulichkeit-identitaet` | Wenn es um Vertraulichkeit Identitaet in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `vertraulichkeit-vs-anhoerung` | Wenn es um Vertraulichkeit Vs Anhoerung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vertraulichkeit-vs-zugriffskonzept` | Wenn es um Vertraulichkeit Vs Anhörung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vorstandshaftung` | Wenn es um Vorstandshaftung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `zugriffskonzept` | Wenn es um Zugriffskonzept in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

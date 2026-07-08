@@ -2,38 +2,38 @@ Wenn du das hier öffnest, willst du eine fristlose Kündigung wegen Zahlungsver
 
 # Fachanwalt Miet Wohnungseigentumsrecht — Schnellstart
 
-Ziel: Großer Fachanwalt-Kompass Miet- und Wohnungseigentumsrecht mit über 200 Skills für Wohnraum, Gewerberaum, Betriebskosten, WEG, Hausverwaltung, Beschlüsse, GEG, Beweise, Fristen und Workflows. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Großer Fachanwalt-Kompass Miet- und Wohnungseigentumsrecht mit über 200 Skills für Wohnraum, Gewerberaum, Betriebskosten, WEG, Hausverwaltung, Beschlüsse, GEG, Beweise, Fristen und Workflows. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
 1. Vertrag und Objekt: Wohnraum, Gewerberaum oder WEG-Bezug, Parteien, Mietbeginn, Miethöhe und Klauseln erfassen.
 2. Zahlung und Abrechnung: Rückstaende, Betriebskosten, Vorauszahlungen, Kaution und Verjährung rechnerisch prüfen.
 3. Mangel und Nutzung: Anzeige, Beweis, Minderungsquote, Zurückbehaltung und Instandsetzung trennen.
-4. Kündigung und Räumung: Kündigungsgrund, Fristen, Schutzvorschriften, Amtsgerichtszuständigkeit und Vollstreckung abbilden.
+4. Kündigung und Raeumung: Kündigungsgrund, Fristen, Schutzvorschriften, Amtsgerichtszuständigkeit und Vollstreckung abbilden.
 5. WEG-Beschluss und Verwaltung: Beschluss, Einladungsfehler, Beschlusskompetenz, ordnungsmäßige Verwaltung und Klagefrist prüfen.
-6. Wenn es um Abrechnungsfrist und Nachforderung aus Betriebskosten: Paragraf 556 Abs in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel.
+6. Abrechnungsfrist und Nachforderung aus Betriebskosten: Paragraf 556 Abs: Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abrechnungsfrist und Nachforderung aus Betriebskosten: Paragraf 556 Abs | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Satellitenschüssel/Antennen: Fachmodul im Miet- und Wohnungseigentumsrecht | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufrechnung/Zurückbehaltung: Fachmodul im Miet- und Wohnungseigentumsrecht | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufzugskosten: Fachmodul im Miet- und Wohnungseigentumsrecht | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Balkon, Terrasse, Garten: Fachmodul im Miet- und Wohnungseigentumsrecht | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Barrierefreiheit Mietwohnung: Fachmodul im Miet- und Wohnungseigentumsrecht | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abrechnungsfrist und Nachforderung aus Betriebskosten: Paragraf 556 Abs | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Satellitenschüssel/Antennen: Fachmodul im Miet- und Wohnungseigentumsrecht | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aufrechnung/Zurückbehaltung: Fachmodul im Miet- und Wohnungseigentumsrecht | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aufzugskosten: Fachmodul im Miet- und Wohnungseigentumsrecht | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Balkon, Terrasse, Garten: Fachmodul im Miet- und Wohnungseigentumsrecht | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Barrierefreiheit Mietwohnung: Fachmodul im Miet- und Wohnungseigentumsrecht | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
@@ -42,9 +42,9 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 - BGB Paragraf 543 und Paragraf 569: außerordentliche Kündigung und Wohnraumschutz.
 - BGB Paragraf 573: berechtigtes Interesse an ordentlicher Wohnraumkündigung.
 - Normenradar: BGB Paragrafen 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG Paragrafen 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 7. Gewerberaum: Vertragslage prüfen; Paragraf 556 Abs. 3 BGB gilt unmittelbar für Wohnraum, kann aber vertraglich übernommen oder abweichend geregelt sein: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Vor Vollstreckungsauftrag prüfen, aus welchem Titel geräumt wird. Bei Wohnraummiete muss die erste Instanz wegen Paragraf 23 Nummer 2a GVG beim Amtsgericht gelegen haben, unabhängig: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Zuständigkeit: Amtsgericht am Belegenheitsort nach Paragraf 43 Nummer 1 WEG und der wohnungseigentumsrechtlichen Sonderzuweisung im GVG; die Sache wird nicht über die allgemeine: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 535 Abs. 1 und 2 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 536 Abs. 1 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 543 Abs. 1 und 2 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 18.03.2015 - VIII ZR 185/14: formularmäßige Quotenabgeltungsklauseln in Wohnraummietverträgen sind unwirksam.
 - BGH, Urteil vom 18.03.2015 - VIII ZR 242/13: Schönheitsreparaturen bei unrenoviert überlassener Wohnung können formularmäßig nicht ohne Ausgleich überwaelzt werden.
 - Verifizierte Anker: BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025

@@ -22,3 +22,7 @@ Nutze diesen Skill, wenn aus Akte, Antrag, Anklage, Bescheid, Klage, Einspruch o
 ## Pflichtanker
 
 VwGO Paragrafen 40, 42, 68, 80, 80a, 86, 113 und 123. Schwerpunkt sind Statthaftigkeit, Vorverfahren, Klagebefugnis, Sofortvollzug, Amtsermittlung, Ermessenskontrolle und Tenor.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill sortiert den verwaltungsgerichtlichen Streitstoff nach Verwaltungsakt, Vorverfahren, Klagegrund, Behördenakte, Ermessen, Amtsermittlung und Tenorfolge. Er benennt, ob ein Hinweis, eine Aktenanforderung, ein Eilbeschluss oder ein Urteil vorbereitet werden muss.

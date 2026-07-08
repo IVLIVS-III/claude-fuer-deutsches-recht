@@ -2,7 +2,7 @@
 
 Automatisch generierte Gesamtübersicht aller **26179 Skills** in **234 Plugins**.
 
-Stand: `v429.4.0`.
+Stand: `v429.5.0`.
 
 ## Alle Skills auf einmal herunterladen
 
@@ -20,7 +20,7 @@ Wer nur **ein bestimmtes Plugin** will: weiter unten in der Plugin-Tabelle pro P
 
 Diese Skills sind am Ende **nichts weiter als große, sehr sorgfältig formulierte System-Prompts in Markdown**. Sie wurden für ein Plugin-System geschrieben, **funktionieren aber in jedem anderen Chat-System genauso**.
 
-So benutzt man einen Skill ausserhalb eines Plugin-Setups:
+So benutzt man einen Skill außerhalb eines Plugin-Setups:
 
 1. Unten in der Plugin-Tabelle auf das gewünschte Plugin klicken — die Detailseite mit allen Skills öffnet sich.
 2. Auf der Detailseite oben auf **Werkstatt** oder **Schnellstart** klicken — die `.md`-Datei wird direkt heruntergeladen.

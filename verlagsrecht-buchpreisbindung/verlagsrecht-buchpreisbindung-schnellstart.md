@@ -1,49 +1,49 @@
-Wenn du das hier öffnest, willst du im Bereich Verlagsrecht Buchpreisbindung zügig von Unterlagen zu einem verwertbaren Arbeitsprodukt kommen.
+Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Verlagsrecht Buchpreisbindung ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
 
 # Verlagsrecht Buchpreisbindung — Schnellstart
 
-Ziel: Plugin für Verlagsrecht, Verlagsgesetz, Autoren- und Herausgeberverträge, Buchpreisbindung, Titelschutz, Vertrieb, E-Book, Hörbuch und verlagsnahe Compliance. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Plugin für Verlagsrecht, Verlagsgesetz, Autoren- und Herausgeberverträge, Buchpreisbindung, Titelschutz, Vertrieb, E-Book, Hörbuch und verlagsnahe Compliance. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
-1. Verl-041 · Abmahnung Buchpreisbindung: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-2. Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-3. Verl-003 · Autor, Herausgeber, Mitwirkende: Rechtekette im Sammelwerk: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt.
-4. Verl-026 · Autorenkündigung, Bestseller und Nachvergütung: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-5. Verl-033 · Bibliothekslizenz, E-Lending und Zugriff: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-6. Verl-018 · Bildrechte, Karten, Tabellen und Drittmaterial: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
+1. Verl-041 · Abmahnung Buchpreisbindung: Verl-041 · Abmahnung Buchpreisbindung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+2. Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle: Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein.
+3. Verl-003 · Autor, Herausgeber, Mitwirkende: Rechtekette im Sammelwerk: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+4. Verl-026 · Autorenkündigung, Bestseller und Nachvergütung: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
+5. Verl-033 · Bibliothekslizenz, E-Lending und Zugriff: Verl-033 · Bibliothekslizenz, E-Lending und Zugriff: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+6. Verl-018 · Bildrechte, Karten, Tabellen und Drittmaterial: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Verl-041 · Abmahnung Buchpreisbindung | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verl-003 · Autor, Herausgeber, Mitwirkende: Rechtekette im Sammelwerk | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verl-026 · Autorenkündigung, Bestseller und Nachvergütung | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verl-033 · Bibliothekslizenz, E-Lending und Zugriff | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verl-018 · Bildrechte, Karten, Tabellen und Drittmaterial | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verl-041 · Abmahnung Buchpreisbindung | Verl-041 · Abmahnung Buchpreisbindung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle | Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verl-003 · Autor, Herausgeber, Mitwirkende: Rechtekette im Sammelwerk | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verl-026 · Autorenkündigung, Bestseller und Nachvergütung | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verl-033 · Bibliothekslizenz, E-Lending und Zugriff | Verl-033 · Bibliothekslizenz, E-Lending und Zugriff: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verl-018 · Bildrechte, Karten, Tabellen und Drittmaterial | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
-- Nach Verfügungserlass: Widerspruch innerhalb von 2 Wochen (Paragraf 924 ZPO): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - ZPO Paragrafen 935 ff.: https://dejure.org/gesetze/ZPO/935.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Vergütungsanspruch nach Paragraf 32 UrhG; gemeinsame Vergütungsregeln anwendbar: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Übersetzung ist ein selbständiges Schutzwerk (Paragraf 3 UrhG): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Eigener Vergütungsanspruch; ggf. eigener Auskunftsanspruch nach Paragraf 32d UrhG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Bildwerke (Paragraf 2 Abs. 1 Nr. 5 UrhG) sind eigenständig geschützt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Welche Nutzungsarten sind erfasst (Paragraf 31 Abs. 1 UrhG)?: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- UrhG Paragrafen 4, 8, 9: https://dejure.org/gesetze/UrhG/8.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- UrhG Paragraf 32d: https://dejure.org/gesetze/UrhG/32d.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- UrhG Paragraf 32a: https://dejure.org/gesetze/UrhG/32a.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- UrhG Paragraf 41: https://dejure.org/gesetze/UrhG/41.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- UrhG Paragrafen 27, 52b: https://dejure.org/gesetze/UrhG/52b.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- UrhG Paragraf 79b (seit 2014): Öffentliche Einrichtungen dürfen verwaiste Werke unter bestimmten Voraussetzungen (sorgfältige Suche, Registrierung beim EUIPO) nutzen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH „Buchpreisbindung Abmahnung" I ZR 173/09: https://www.bgh.de
 - BGH, Urt. v. 20.01.1994 – I ZR 322/91 (Miturheber Sammelwerk): https://www.bgh.de
 - BGH (I ZR 174/18 „Klauseltausch"): Missverhältnis wird angenommen, wenn tatsächliche Erträge mehr als doppelt so hoch sind wie die vereinbarte Vergütung vermuten ließ

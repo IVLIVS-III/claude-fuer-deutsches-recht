@@ -61,3 +61,7 @@ Aktenzeichen und Daten sind Sucheinstiege und vor Übernahme in ein Arbeitsprodu
 - Keine endgültige Zahl ohne Quellenangabe zur Tabelle.
 - Keine Mangelfallentscheidung ohne Rechenweg.
 - Keine dynamische Tenorierung ohne klare Alters- und Prozentangabe.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstation, Antragsgegnerstation, Kindeswohl- oder Unterhaltsachse, Belegen, Anhörungen und Beschlussformel. Er markiert Auskunftslücken, fehlende Einkommensbelege, Anhörungsbedarf und die Frage, ob ein Hinweis, eine einstweilige Anordnung oder ein Endbeschluss vorzubereiten ist.

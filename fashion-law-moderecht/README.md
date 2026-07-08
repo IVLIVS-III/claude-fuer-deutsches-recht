@@ -1,26 +1,5 @@
 # fashion-law-moderecht
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`fashion-law-moderecht`) | [`fashion-law-moderecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fashion-law-moderecht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Nachtfalter Studio: Capsule Collection, Lieferkette, Influencer und Plattformkopien** (`fashion-law-moderecht-nachtfalter-kollektion-2026`) | [Gesamt-PDF lesen](../testakten/fashion-law-moderecht-nachtfalter-kollektion-2026/gesamt-pdf/fashion-law-moderecht-nachtfalter-kollektion-2026_gesamt.pdf) | [`testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -128,7 +107,7 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `mandantenmemo-strategie-manufacturing` | Wenn es um Mandantenmemo Fashion Strategie in fashion-law-moderecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `manufacturing-agreement` | Wenn es um Manufacturing Agreement in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `metaverse-nft-model-release` | Wenn es um Metaverse Nft Digital Fashion in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `model-release-persoenlichkeitsrechte` | Wenn es um Model Release Persönlichkeitsrechte in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `model-release-persoenlichkeitsrechte` | Wenn es um Model Release Persoenlichkeitsrechte in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `plattformsales-dsa-pricing-sales` | Wenn es um Plattformsales Dsa Marketplace in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `pricing-sales-rabatte` | Wenn es um Pricing Sales Rabatte in fashion-law-moderecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `produkthaftung-defective-garment` | Wenn es um Produkt Haftung Defective Garment in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schr... |

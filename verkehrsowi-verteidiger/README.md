@@ -1,27 +1,5 @@
 # VerkehrsOWi-Verteidiger
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`verkehrsowi-verteidiger`) | [`verkehrsowi-verteidiger.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verkehrsowi-verteidiger.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Norderhof-Tannenmoor — Abstandsverstoß Section Control BAB 7 Bispingen, Bußgeld und Fahrverbot** (`verkehrsowi-abstand-section-control-bab-7-bispingen-bussgeld-und-fahrverbot-norderhof`) | [Gesamt-PDF lesen](../testakten/verkehrsowi-abstand-section-control-bab-7-bispingen-bussgeld-und-fahrverbot-norderhof/gesamt-pdf/verkehrsowi-abstand-section-control-bab-7-bispingen-bussgeld-und-fahrverbot-norderhof_gesamt.pdf) | [`testakte-verkehrsowi-abstand-section-control-bab-7-bispingen-bussgeld-und-fahrverbot-norderhof.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehrsowi-abstand-section-control-bab-7-bispingen-bussgeld-und-fahrverbot-norderhof.zip) |
-| **VerkehrsOWi – Qualifizierter Rotlichtverstoß, Tempoüberschreitung und Fahrverbot** (`verkehrsowi-rotlicht-tempo`) | [Gesamt-PDF lesen](../testakten/verkehrsowi-rotlicht-tempo/gesamt-pdf/verkehrsowi-rotlicht-tempo_gesamt.pdf) | [`testakte-verkehrsowi-rotlicht-tempo.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehrsowi-rotlicht-tempo.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -164,7 +142,7 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `rotlicht-schriftsatz-brief-und-memo-bausteine` | Wenn es um Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine in VerkehrsOWi-Verteidiger geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlage... |
 | `simulation-training-verjaehrung-zustellung` | Wenn es um Simulationstraining OWi-Mandate in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-abstand-livequellen-und-rechtsprechungscheck` | Wenn es um Abstand: Livequellen- und Rechtsprechungscheck in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `spezial-anhoerung-fristen-form-und-zustaendigkeit` | Wenn es um Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-anhoerung-fristen-form-und-zustaendigkeit` | Wenn es um Anhoerung: Fristen, Form, Zuständigkeit und Rechtsweg in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-zeugenstrategie-red-team-und-qualitaetskontrolle` | Wenn es um Zeugenstrategie: Red-Team und Qualitätskontrolle in VerkehrsOWi-Verteidiger geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `start-chronologie-fristen` | Wenn es um VerkehrsOWi-Verteidiger — Allgemein in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `unterlagen-luecken` | Wenn es um Unterlagen und Lücken in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -175,7 +153,7 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `verkehrsowi-erstpruefung-und-mandatsziel` | Wenn es um Verkehrsowi: Erstprüfung, Rollenklärung und Mandatsziel in VerkehrsOWi-Verteidiger geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `verkehrsowi-fahreridentifizierung` | Wenn es um Fahreridentifizierung im OWi-Verfahren in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `verkehrsowi-fristen-einspruch` | Wenn es um Einspruchsfrist und Einspruch — Paragraf 67 OWiG in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `verkehrsowi-haertefall-fahrverbot` | Wenn es um Härtefall-Argumentation beim Fahrverbot — Paragraf 25 StVG in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `verkehrsowi-haertefall-fahrverbot` | Wenn es um Haertefall-Argumentation beim Fahrverbot — Paragraf 25 StVG in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `verkehrsowi-hauptverhandlung-amtsgericht` | Wenn es um Hauptverhandlung OWi am Amtsgericht in VerkehrsOWi-Verteidiger geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `verkehrsowi-kommandocenter` | Wenn es um VerkehrsOWi-Verteidiger — Kommandocenter in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `verkehrsowi-messverfahren-geschwindigkeit` | Wenn es um Geschwindigkeitsmessung OWi-Verfahren in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -184,11 +162,11 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `verkehrsowi-rechtsbeschwerde` | Wenn es um Rechtsbeschwerde im OWi-Verfahren — Paragraf 79 OWiG in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `verkehrsowi-rechtsprechungsrecherche` | Wenn es um Rechtsprechungsrecherche OWi-Verkehrsrecht in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `verkehrsowi-rotlicht-abstand-handy` | Wenn es um Rotlicht, Abstand und Handy — Paragrafen 23. 37. 4 StVO in VerkehrsOWi-Verteidiger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, R... |
-| `verkehrsowi-verjaehrung-zustellung` | Wenn es um Verfolgungsverjährung und Zustellungsmängel — Paragraf 31 OWiG in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `verkehrsowi-verjaehrung-zustellung` | Wenn es um Verfolgungsverjaehrung und Zustellungsmaengel — Paragraf 31 OWiG in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `verkehrsowi-zeugen-polizei-strategie` | Wenn es um Polizeibeamten als Zeugen im OWi-Verfahren in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `verteidiger-beweislast-verkehrsowi` | Wenn es um Verteidiger: Beweislast, Darlegungslast und Substantiierung in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vowi-akteneinsicht-rohmessdaten-leitfaden` | Wenn es um Vowi Akteneinsicht Rohmessdaten Leitfaden in VerkehrsOWi-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `vowi-bussgeldbescheid-pruefung-bauleiter` | Wenn es um VOWi: Bussgeldbescheid-Prüfung in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `vowi-bussgeldbescheid-pruefung-bauleiter` | Wenn es um VOWi: Bussgeldbescheid-Pruefung in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vowi-bussgeldbescheid-verkehrsowi-quality` | Wenn es um VOWi: Bussgeldbescheid-Prüfung in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vowi-handyverstoss-akteneinsicht-alkohol` | Wenn es um VOWi: Handyverstoss in VerkehrsOWi-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `vowi-tempomessverfahren-bussgeldbescheid` | Wenn es um VOWi: Tempomessverfahren in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

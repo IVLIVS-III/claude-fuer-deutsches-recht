@@ -1,27 +1,5 @@
 # Plugin für die studentische Rechtsberatungsstelle
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`rechtsberatungsstelle`) | [`rechtsberatungsstelle.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/rechtsberatungsstelle.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Rechtsberatungsstelle Köln-Kalk — Monatsmix August 2026, Dr. Pellbach-Tannenfels** (`rechtsberatungsstelle-koeln-quartier-kalk-q3-2026-monatsmix-pellbach`) | [Gesamt-PDF lesen](../testakten/rechtsberatungsstelle-koeln-quartier-kalk-q3-2026-monatsmix-pellbach/gesamt-pdf/rechtsberatungsstelle-koeln-quartier-kalk-q3-2026-monatsmix-pellbach_gesamt.pdf) | [`testakte-rechtsberatungsstelle-koeln-quartier-kalk-q3-2026-monatsmix-pellbach.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rechtsberatungsstelle-koeln-quartier-kalk-q3-2026-monatsmix-pellbach.zip) |
-| **Akte Reimers: Verbraucherinsolvenz, ehemaliger Geschäftsführer und Schuldenbereinigungsplan** (`verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung`) | [Gesamt-PDF lesen](../testakten/verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung/gesamt-pdf/verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung_gesamt.pdf) | [`testakte-verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -233,7 +211,7 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `mandantenbrief-memo-rbs-beratungshilfe` | Wenn es um /mandantenbrief in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage. |
 | `mandantenfreundliche-quellenkarte-check` | Wenn es um Mandantenfreundliche Quellenkarte Check in Plugin für die studentische Rechtsberatungsstelle geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zu... |
 | `mandantenintake-mandatsuebergabe` | Wenn es um Mandantenintake: Risikoampel, Gegenargumente und Verteidigungslinien in Plugin für die studentische Rechtsberatungsstelle geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Ri... |
-| `mandatsuebergabe-international-schnittstellen` | Wenn es um Mandatsübergabe: Internationaler Bezug und Schnittstellen in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit S... |
+| `mandatsuebergabe-international-schnittstellen` | Wenn es um Mandatsuebergabe: Internationaler Bezug und Schnittstellen in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit S... |
 | `memo` | Wenn es um Internes Rechtsgutachten: Gutachten-Gerüst in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Be... |
 | `output-waehlen` | Wenn es um Output wählen in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `pro-bono-mandatsuebergabe` | Wenn es um Pro-Bono-Mandatsübergabe mit Fristen und Zuständigkeiten in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sof... |
@@ -257,8 +235,8 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `semesterende-verhandlung-vergleich-und-eskalation` | Wenn es um Semesterende: Verhandlung, Vergleich und Eskalation in Plugin für die studentische Rechtsberatungsstelle geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslin... |
 | `sonderfall-edge-case` | Wenn es um Kaltstart: Sonderfall und Edge-Case-Prüfung in Plugin für die studentische Rechtsberatungsstelle geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofort... |
 | `spezial-mandantenfreundliche-livequellen-check` | Wenn es um Mandantenfreundliche: Livequellen- und Rechtsprechungscheck in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit... |
-| `spezial-pruefwarteschlange-red-team-und-qualitaetskontrolle` | Wenn es um Prüfwarteschlange: Red-Team und Qualitätskontrolle in Plugin für die studentische Rechtsberatungsstelle geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sof... |
-| `spezial-uebergabe-schriftsatz-brief-und-memo-bausteine` | Wenn es um Übergabe: Schriftsatz-, Brief- und Memo-Bausteine in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Antr... |
+| `spezial-pruefwarteschlange-red-team-und-qualitaetskontrolle` | Wenn es um Pruefwarteschlange: Red-Team und Qualitätskontrolle in Plugin für die studentische Rechtsberatungsstelle geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sof... |
+| `spezial-uebergabe-schriftsatz-brief-und-memo-bausteine` | Wenn es um Uebergabe: Schriftsatz-, Brief- und Memo-Bausteine in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Antr... |
 | `status` | Wenn es um Fallstatus: Zielgruppengerechte Fallzusammenfassung in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Ant... |
 | `unterlagen-luecken` | Wenn es um Unterlagen und Lücken in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `workflow-anschluss-skills-router` | Wenn es um Anschluss-Skills Router in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

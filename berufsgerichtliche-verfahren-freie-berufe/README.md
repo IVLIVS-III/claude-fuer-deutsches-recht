@@ -1,22 +1,5 @@
 # Berufsgerichtliche Verfahren Freie Berufe
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`berufsgerichtliche-verfahren-freie-berufe`) | [`berufsgerichtliche-verfahren-freie-berufe.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsgerichtliche-verfahren-freie-berufe.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -185,7 +168,7 @@ Automatisch generierte Komplett-Liste aller 99 Skills in diesem Plugin. Beschrei
 | `verschwiegenheit-cloud-dienstleister-verteidigung` | Wenn es um Verschwiegenheit und Cloud-Dienstleister: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisi... |
 | `werbung-robe-kanzleimarketing-praevention` | Wenn es um Werbung, Robe und Kanzleimarketing: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions... |
 | `werbung-robe-wirtschaftspruefer` | Wenn es um Werbung, Robe und Kanzleimarketing: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-,... |
-| `wirtschaftspruefer-berufsaufsicht-wpo` | Wenn es um Wirtschaftsprüfer Berufsaufsicht Wpo in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `wirtschaftspruefer-berufsaufsicht-wpo` | Wenn es um Wirtschaftspruefer Berufsaufsicht Wpo in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `wirtschaftspruefer-qualitaetskontrolle-praevention` | Wenn es um Wirtschaftsprüfer Qualitätskontrolle: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risik... |
 | `wirtschaftspruefer-qualitaetskontrolle-verteidigung` | Wenn es um Wirtschaftsprüfer Qualitätskontrolle: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoam... |
 | `wirtschaftspruefer-testat-widerruf` | Wenn es um Wirtschaftsprüfer Testat Widerruf: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Z... |

@@ -1,28 +1,5 @@
 # Fachanwalt Verkehrsrecht
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`fachanwalt-verkehrsrecht`) | [`fachanwalt-verkehrsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-verkehrsrecht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Alleinrennen, Unfallflucht und Dashcam Berlin** (`strafrecht-verkehrsunfall-alleinrennen-berlin`) | [Gesamt-PDF lesen](../testakten/strafrecht-verkehrsunfall-alleinrennen-berlin/gesamt-pdf/strafrecht-verkehrsunfall-alleinrennen-berlin_gesamt.pdf) | [`testakte-strafrecht-verkehrsunfall-alleinrennen-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-verkehrsunfall-alleinrennen-berlin.zip) |
-| **StVO-Akte Schulstraße/Lieferzone** (`strassenverkehrsrecht-stvo-schulstrasse-lieferzone`) | [Gesamt-PDF lesen](../testakten/strassenverkehrsrecht-stvo-schulstrasse-lieferzone/gesamt-pdf/strassenverkehrsrecht-stvo-schulstrasse-lieferzone_gesamt.pdf) | [`testakte-strassenverkehrsrecht-stvo-schulstrasse-lieferzone.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strassenverkehrsrecht-stvo-schulstrasse-lieferzone.zip) |
-| **Verkehrsunfall Tannenbruck — A45 Quotenstreit, OWi, Fahrerlaubnis-Entzug, MPU** (`verkehrsunfall-quotenstreit-tannenbruck-a45`) | [Gesamt-PDF lesen](../testakten/verkehrsunfall-quotenstreit-tannenbruck-a45/gesamt-pdf/verkehrsunfall-quotenstreit-tannenbruck-a45_gesamt.pdf) | [`testakte-verkehrsunfall-quotenstreit-tannenbruck-a45.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehrsunfall-quotenstreit-tannenbruck-a45.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -109,9 +86,9 @@ Automatisch generierte Komplett-Liste aller 77 Skills in diesem Plugin. Beschrei
 | `315c-internationaler-bezug-und-schnittstellen` | Wenn es um 315C: Internationaler Bezug und Schnittstellen in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `anschluss-routing` | Wenn es um Anschluss-Routing in Fachanwalt Verkehrsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `autonom-abschlussprodukt-und-uebergabe` | Wenn es um Autonom: Abschlussprodukt und Übergabe in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `bezuege-behoerden-gericht-und-registerweg` | Wenn es um Bezüge: Behörden-, Gerichts- oder Registerweg in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `bezuege-behoerden-gericht-und-registerweg` | Wenn es um Bezuege: Behörden-, Gerichts- oder Registerweg in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `blitzer-messung-paragraf-3-stvo` | Wenn es um Blitzer Messung Paragraf 3 StVO in Fachanwalt Verkehrsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `bussgeld-einspruch-pruefen` | Wenn es um Bussgeld Einspruch Prüfen in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `bussgeld-einspruch-pruefen` | Wenn es um Bussgeld Einspruch Pruefen in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `bussgeld-zahlen-schwellen-und-berechnung` | Wenn es um Bussgeld: Zahlen, Schwellenwerte und Berechnung in Fachanwalt Verkehrsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
 | `bussgeldbescheid-pruefen` | Wenn es um Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft ob Einspruch sinnvoll ist in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit S... |
 | `dieselskandal-paragraf-826-bgb` | Wenn es um Dieselskandal Paragraf 826 BGB in Fachanwalt Verkehrsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -119,7 +96,7 @@ Automatisch generierte Komplett-Liste aller 77 Skills in diesem Plugin. Beschrei
 | `einstieg-in-den-skill-verbund-verkehrsrecht` | Wenn es um Einstieg in den Skill-Verbund Verkehrsrecht in Fachanwalt Verkehrsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `einstieg-routing` | Wenn es um Anwalts-Dashboard Fachanwalt Verkehrsrecht in Fachanwalt Verkehrsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `einstieg-schnelltriage-fallrouting` | Wenn es um Einstieg, Schnelltriage und Fallrouting in Fachanwalt Verkehrsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `erstgespraech-mandatsannahme` | Wenn es um Erstgespräch Mandatsannahme in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `erstgespraech-mandatsannahme` | Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `erstpruefung-und-mandatsziel` | Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Verkehrsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `fachanwalt-verkehr-autonom-1d-stvg` | Wenn es um Autonomes Fahren PKW — Paragraf 1d StVG Haftungskonzept in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `fachanwalt-verkehrsrecht-bussgeldbescheid-pruefen` | Wenn es um Bußgeldbescheid prüfen in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -174,8 +151,8 @@ Automatisch generierte Komplett-Liste aller 77 Skills in diesem Plugin. Beschrei
 | `verkehrsunfall-schriftsatz-brief-und-memo-bausteine` | Wenn es um Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Verkehrsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und... |
 | `versicherer-quotenverhandlung-vergleich` | Wenn es um Versicherer hat Regulierung angeboten und Anwalt verhandelt Quotenerhöhung oder Vergleich in Fachanwalt Verkehrsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder E... |
 | `vkr-blitzer-messverfahren-spezial` | Wenn es um Vkr Blitzer Messverfahren Spezial in Fachanwalt Verkehrsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `vkr-bussgeldverfahren-grundzuege` | Wenn es um Vkr Bussgeldverfahren Grundzüge in Fachanwalt Verkehrsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
-| `vkr-einfuehrung-rechtsfelder` | Wenn es um Vkr Einführung Rechtsfelder in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `vkr-bussgeldverfahren-grundzuege` | Wenn es um Vkr Bussgeldverfahren Grundzuege in Fachanwalt Verkehrsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| `vkr-einfuehrung-rechtsfelder` | Wenn es um Vkr Einfuehrung Rechtsfelder in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vkr-totalschaden-fiktiv-spezial` | Wenn es um Vkr Totalschaden Fiktiv Spezial in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `workflow-chronologie-und-belegmatrix` | Wenn es um Chronologie und Belegmatrix in Fachanwalt Verkehrsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `workflow-fristen-und-risikoampel` | Wenn es um Fristen- und Risikoampel in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

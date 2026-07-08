@@ -1,27 +1,5 @@
 # DSA, DMA und Digitalregulierung der EU
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`dsa-dma-digitalregulierung`) | [`dsa-dma-digitalregulierung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/dsa-dma-digitalregulierung.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Aktenübersicht — Baustube Meißnerlein GmbH ./. Glitzerwald Inc. u. a.** (`dsa-dma-bayrische-baustube-meissner`) | [Gesamt-PDF lesen](../testakten/dsa-dma-bayrische-baustube-meissner/gesamt-pdf/dsa-dma-bayrische-baustube-meissner_gesamt.pdf) | [`testakte-dsa-dma-bayrische-baustube-meissner.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-bayrische-baustube-meissner.zip) |
-| **DSA/DMA — VLOP-Designation und Mahnverfahren Körnerstrom Social GmbH (Halmweise.de)** (`dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom`) | [Gesamt-PDF lesen](../testakten/dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom/gesamt-pdf/dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom_gesamt.pdf) | [`testakte-dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -117,8 +95,8 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `dma-business-user-gatekeeper` | Wenn es um DMA: Business-User-Zugang in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `dma-fristen-form-und-zustaendigkeit` | Wenn es um DMA: Fristen, Form, Zuständigkeit und Rechtsweg in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `dma-gatekeeper-schwellen-und-kernplattformdienste` | Wenn es um DMA — Gatekeeper-Schwellen und Kernplattformdienste in DSA, DMA und Digitalregulierung der EU geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und... |
-| `dma-interoperabilitaet-messenger-art-7` | Wenn es um DMA: Messenger-Interoperabilität in DSA, DMA und Digitalregulierung der EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagen... |
-| `dma-pflichten-dsa-art-forschungsdatenzugang` | Wenn es um DMA: Pflichtenübersicht in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `dma-interoperabilitaet-messenger-art-7` | Wenn es um DMA: Messenger-Interoperabilitaet in DSA, DMA und Digitalregulierung der EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagen... |
+| `dma-pflichten-dsa-art-forschungsdatenzugang` | Wenn es um DMA: Pflichtenuebersicht in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `dokumente-intake` | Wenn es um Dokumentenintake in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `dora-risikoampel-und-gegenargumente` | Wenn es um Dora: Risikoampel, Gegenargumente und Verteidigungslinien in DSA, DMA und Digitalregulierung der EU geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortsc... |
 | `dsa-art-34-systemische-risikobewertung` | Wenn es um DSA — Systemische Risikobewertung nach Art. 34 in DSA, DMA und Digitalregulierung der EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunk... |

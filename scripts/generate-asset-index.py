@@ -2,7 +2,7 @@
 """Generiert ASSET_INDEX.md aus marketplace.json.
 
 Der Index ist bewusst rein datengetrieben: Plugin-Reihenfolge, Beschreibung,
-Version und Source-Pfad kommen aus dem Marketplace. Dadurch koennen sich
+Version und Source-Pfad kommen aus dem Marketplace. Dadurch können sich
 Downloadspalten nicht durch Markdown-Tabellen-Umbauten verschieben.
 """
 
@@ -36,22 +36,22 @@ def main() -> int:
     lines: list[str] = [
         "# Release-Asset-Index",
         "",
-        f"Stand: {version}, automatisch aktualisierte Asset-Uebersicht",
+        f"Stand: {version}, automatisch aktualisierte Asset-Übersicht",
         "",
         "## Sammel-Assets",
         "| Asset | Verwendung |",
         "| --- | --- |",
-        f"| [`marketplace.json`]({RELEASE}/marketplace.json) | Marketplace-Manifest fuer alle Plugins. |",
+        f"| [`marketplace.json`]({RELEASE}/marketplace.json) | Marketplace-Manifest für alle Plugins. |",
         f"| [`alle-plugins-megazip.zip`]({RELEASE}/alle-plugins-megazip.zip) | Alle installierbaren Plugin-ZIPs plus `marketplace.json`. |",
-        f"| [`alle-skills-markdown.zip`]({RELEASE}/alle-skills-markdown.zip) | Alle Skills als Markdown-Bundles, zusaetzlich pro Plugin einzeln im Komplettpaket. |",
+        f"| [`alle-skills-markdown.zip`]({RELEASE}/alle-skills-markdown.zip) | Alle Skills als Markdown-Bundles, zusätzlich pro Plugin einzeln im Komplettpaket. |",
         f"| [`alle-testakten.zip`]({RELEASE}/alle-testakten.zip) | Alle Testaktenordner in Originalstruktur mit Gesamt-PDFs. |",
         f"| [`alle-testakten-einzelpdfs.zip`]({RELEASE}/alle-testakten-einzelpdfs.zip) | Alle Testakten mit jeder Unterlage als separater PDF. |",
-        f"| [`alles-komplettpaket.zip`]({RELEASE}/alles-komplettpaket.zip) | Plugins, Skills, Testakten, Marketplace und Uebersichten. Werkstatt- und Schnellstart-Prompts sind als Markdown-Dateien in den Plugin-Ordnern enthalten. |",
-        f"| [`checksums-sha256.txt`]({RELEASE}/checksums-sha256.txt) | SHA-256-Pruefsummen fuer Release-Assets. |",
+        f"| [`alles-komplettpaket.zip`]({RELEASE}/alles-komplettpaket.zip) | Plugins, Skills, Testakten, Marketplace und Übersichten. Werkstatt- und Schnellstart-Prompts sind als Markdown-Dateien in den Plugin-Ordnern enthalten. |",
+        f"| [`checksums-sha256.txt`]({RELEASE}/checksums-sha256.txt) | SHA-256-Prüfsummen für Release-Assets. |",
         "",
         f"## Plugin-Assets ({len(plugins)} Stueck)",
         "",
-        "Werkstatt- und Schnellstart-Prompts sind Markdown-Direkt-Downloads ueber `raw.githubusercontent.com`. Es gibt dafuer keine eigenen ZIP-Assets im Release.",
+        "Werkstatt- und Schnellstart-Prompts sind Markdown-Direkt-Downloads über `raw.githubusercontent.com`. Es gibt dafür keine eigenen ZIP-Assets im Release.",
         "",
         "| Plugin | Beschreibung | Werkstatt (Markdown) | Schnellstart (Markdown) | Plugin-ZIP | Browser-Dateien |",
         "| --- | --- | --- | --- | --- | --- |",

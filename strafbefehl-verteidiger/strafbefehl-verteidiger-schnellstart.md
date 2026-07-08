@@ -2,18 +2,18 @@ Wenn du das hier öffnest, willst du einen Tatvorwurf entlang von Beweiswürdigu
 
 # Strafbefehl Verteidiger — Schnellstart
 
-Ziel: Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
@@ -22,18 +22,18 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 3. Tatbestand: objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung prüfen; je Merkmal die tragende Tatsache benennen.
 4. Prozessuales: Zuständigkeit, Verwertungsverbote, Fristen, Pflichtverteidigung und Anträge vorbereiten; den nächsten fristwahrenden Schritt zuerst.
 5. Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative.
-6. Wenn es um Aktenanlage Fehlerkatalog in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten.
+6. Aktenanlage Fehlerkatalog: Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aktenanlage Fehlerkatalog | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Akteneinsicht: Behörden-, Gerichts- oder Registerweg | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Deal: Beweislast, Darlegungslast und Substantiierung | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dokumentenintake | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einspruch: Risikoampel, Gegenargumente und Verteidigungslinien | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenanlage Fehlerkatalog | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Akteneinsicht: Behörden-, Gerichts- oder Registerweg | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Deal: Beweislast, Darlegungslast und Substantiierung | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Dokumentenintake | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Einspruch: Risikoampel, Gegenargumente und Verteidigungslinien | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
@@ -41,10 +41,10 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 - StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
 - StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
-- Symptom: Frist falsch berechnet oder übersehen (Paragraf 410 StPO Einspruch 2 Wochen): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Symptom: Normzitat ohne Fassungsprüfung (Paragrafen 407 ff. StPO): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Heilung: Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (Paragraf 43a Abs. 2 BRAO, Paragraf 203 StGB): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 1 StGB — Keine Strafe ohne Gesetz. - Paragraf 15 StGB — Vorsatz/Fahrlaessigkeit. - Paragraf 16 Abs. 1 StGB — Tatbestandsirrtum. - Paragraf 17 StGB — Verbotsirrtum. - Paragraf: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1 StGB — Keine Strafe ohne Gesetz: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 15 StGB — Vorsatz/Fahrlaessigkeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 16 Abs. 1 StGB — Tatbestandsirrtum: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Aussage-gegen-Aussage verlangt besonders sorgfältige Gesamtwürdigung.
 - BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Konstanz, Entstehung und Belastungsmotive sind bei Aussageanalyse zu würdigen.
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)

@@ -1,49 +1,49 @@
-Wenn du das hier öffnest, willst du im Bereich Handelsvertreterrecht zügig von Unterlagen zu einem verwertbaren Arbeitsprodukt kommen.
+Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Handelsvertreterrecht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
 
 # Handelsvertreterrecht — Schnellstart
 
-Ziel: Handelsvertreterrecht nach HGB: Status, Provision, Buchauszug, Kündigung, Ausgleich Paragraf 89b, Wettbewerbsverbot Paragraf 90a und Vertriebsmodelle. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Handelsvertreterrecht nach HGB: Status, Provision, Buchauszug, Kündigung, Ausgleich Paragraf 89b, Wettbewerbsverbot Paragraf 90a und Vertriebsmodelle. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
-1. Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-2. Abrechnung und Buchauszug: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-3. Abschlussprovision des Abschlussvertreters nach Paragrafen 87 und 87a HGB: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt.
-4. Rechtsstellung des Abschlussvertreters nach Paragrafen 84 und 54 HGB: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares; Ergebnis mit Beleg, Risiko und nächstem Schritt.
-5. AGB-Kontrolle im Handelsvertretervertrag nach Paragrafen 305 ff. BGB und Paragraf 92c HGB: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung; Ergebnis mit Beleg, Risiko.
-6. Alleinvertreter: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
+1. Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB: Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein.
+2. Abrechnung und Buchauszug: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+3. Abschlussprovision des Abschlussvertreters nach Paragrafen 87 und 87a HGB: Abschlussprovision des Abschlussvertreters nach Paragrafen 87 und 87a HGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes.
+4. Rechtsstellung des Abschlussvertreters nach Paragrafen 84 und 54 HGB: Rechtsstellung des Abschlussvertreters nach Paragrafen 84 und 54 HGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument.
+5. AGB-Kontrolle im Handelsvertretervertrag nach Paragrafen 305 ff. BGB und Paragraf 92c HGB: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+6. Alleinvertreter: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB | erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abrechnung und Buchauszug | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschlussprovision des Abschlussvertreters nach Paragrafen 87 und 87a HGB | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsstellung des Abschlussvertreters nach Paragrafen 84 und 54 HGB | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AGB-Kontrolle im Handelsvertretervertrag nach Paragrafen 305 ff. BGB und Paragraf 92c HGB | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Alleinvertreter | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB | Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abrechnung und Buchauszug | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschlussprovision des Abschlussvertreters nach Paragrafen 87 und 87a HGB | Abschlussprovision des Abschlussvertreters nach Paragrafen 87 und 87a HGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtsstellung des Abschlussvertreters nach Paragrafen 84 und 54 HGB | Rechtsstellung des Abschlussvertreters nach Paragrafen 84 und 54 HGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AGB-Kontrolle im Handelsvertretervertrag nach Paragrafen 305 ff. BGB und Paragraf 92c HGB | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Alleinvertreter | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
-- Unterstützt bei rechtlichen Fragen rund um Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB Paragrafen 84–92c ab: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Handelsvertreter X stellt fest, dass Unternehmer Y seit 18 Monaten keine vollständige Provisionsabrechnung übermittelt; X verlangt Buchauszug über alle vermittelten und abgeschlossenen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 2. Schriftliches Buchauszugsverlangen nach Paragraf 87c Abs. 2 HGB formulieren und per Einschreiben übersenden: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 5. Bei Verweigerung: Klage auf Erteilung des Buchauszugs (Stufenklage nach Paragraf 254 ZPO) vorbereiten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 6. Verjährungsfristen nach Paragraf 195 BGB (3 Jahre) und Beginn nach Paragraf 199 BGB prüfen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 87c HGB — Provisionsabrechnung und Buchauszugsanspruch des Handelsvertreters: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 87 HGB — Provisionsanspruch und provisionspflichtige Geschäfte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 87a HGB — Entstehung und Fälligkeit des Provisionsanspruchs: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 254 ZPO — Stufenklage (Auskunft und Leistung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 195 BGB — Regelmäßige Verjährungsfrist drei Jahre: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 87c HGB auf gesetze-im-internet.de: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 6. Antwortform
 

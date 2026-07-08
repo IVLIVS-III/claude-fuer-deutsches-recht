@@ -1,27 +1,5 @@
 # WEG- und Hausverwaltung
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`weg-hausverwaltung`) | [`weg-hausverwaltung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/weg-hausverwaltung.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Bauträgervertrag Birkenpfuhl — Verbraucherprüfung Quendel / Übelacker-Strohmeyer** (`bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung`) | [Gesamt-PDF lesen](../testakten/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung/gesamt-pdf/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung_gesamt.pdf) | [`testakte-bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung.zip) |
-| **WEG Hohenzollernhof — Hausverwaltung unter Druck** (`weg-hausverwaltung-hohenzollernhof`) | [Gesamt-PDF lesen](../testakten/weg-hausverwaltung-hohenzollernhof/gesamt-pdf/weg-hausverwaltung-hohenzollernhof_gesamt.pdf) | [`testakte-weg-hausverwaltung-hohenzollernhof.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-weg-hausverwaltung-hohenzollernhof.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -146,7 +124,7 @@ Automatisch generierte Komplett-Liste aller 93 Skills in diesem Plugin. Beschrei
 | `bauliche-veraenderungen-20-weg` | Wenn es um Bauliche Veränderungen nach Paragraf 20 WEG in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `bautraegeralteanlage-abnahme-maengel-gdwe` | Wenn es um Bauträger-Altanlage: Abnahme, Mängel und GdWE in WEG- und Hausverwaltung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `beirat-controlling-verwalter` | Wenn es um Beirat: Controlling und Verwalterbegleitung in WEG- und Hausverwaltung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
-| `beschluesse-dokumentenmatrix-und-lueckenliste` | Wenn es um Beschlüsse Dokumentenmatrix Und Lückenliste in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
+| `beschluesse-dokumentenmatrix-und-lueckenliste` | Wenn es um Beschluesse Dokumentenmatrix Und Lückenliste in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
 | `beschlussanfechtung-risiko` | Wenn es um Beschlussanfechtung Risiko in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `beschlusssammlung-protokoll` | Wenn es um Beschlusssammlung und Protokoll in WEG- und Hausverwaltung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `beschlusssammlung-schriftsatz-brief-und-memo-bausteine` | Wenn es um Beschlusssammlung Schriftsatz Brief Und Memo Bausteine in WEG- und Hausverwaltung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und A... |
@@ -165,7 +143,7 @@ Automatisch generierte Komplett-Liste aller 93 Skills in diesem Plugin. Beschrei
 | `dokumente-intake` | Wenn es um Dokumentenintake in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `e-mobilitaet-steckersolar-kellerstrom` | Wenn es um E-Mobilität, Steckersolar und Kellerstrom in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `eigentuemerkommunikation-beschwerde` | Wenn es um Eigentümerkommunikation und Beschwerden in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `eigentuemerversammlung-risikoampel-und-gegenargumente` | Wenn es um Eigentümerversammlung Risikoampel Und Gegenargumente in WEG- und Hausverwaltung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `eigentuemerversammlung-risikoampel-und-gegenargumente` | Wenn es um Eigentuemerversammlung Risikoampel Und Gegenargumente in WEG- und Hausverwaltung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `eigentuemerversammlung-vorbereiten` | Wenn es um Eigentümerversammlung Vorbereiten in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
 | `einladung-tagesordnung-fristen` | Wenn es um Einladung, Tagesordnung und Fristen in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `einstieg-routing` | Wenn es um Einstieg und Routing in WEG- und Hausverwaltung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -185,23 +163,23 @@ Automatisch generierte Komplett-Liste aller 93 Skills in diesem Plugin. Beschrei
 | `jahresabrechnung-quellenkarte` | Wenn es um Jahresabrechnung Quellenkarte in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `kaltstart-triage` | Wenn es um WEG- und Hausverwaltung — Allgemein in WEG- und Hausverwaltung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `kfw-foerderung-pflegekasse-bafa-barriere` | Wenn es um KfW, Pflegekasse und BAFA: Förderung für Barrierefreiheits-Maßnahmen koordinieren in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit... |
-| `kfw-foerderung-pflegekasse-bafa-barriere-koordination` | Wenn es um Kfw Förderung Pflegekasse Bafa Barriere Koordination in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `kfw-foerderung-pflegekasse-bafa-barriere-koordination` | Wenn es um Kfw Foerderung Pflegekasse Bafa Barriere Koordination in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `mandat-belege-fristen` | Wenn es um Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `mandat-objekt-triage` | Wenn es um Mandat- und Objekt-Triage in WEG- und Hausverwaltung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `marketing-akquise-neue-weg-mandate` | Wenn es um Marketing: Akquise neuer WEG-Verwaltungsmandate in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und... |
 | `marketing-newsletter-eigentuemerkommunikation` | Wenn es um Marketing: Newsletter und Eigentümerkommunikation in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `marketing-website-impressum-tmg-bewertungen` | Wenn es um Marketing: Website-Impressum, DDG und Bewertungsmanagement in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten... |
 | `marketing-website-impressum-tmg-und-bewertungen` | Wenn es um Marketing Website Impressum Tmg Und Bewertungen in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `operatives-erstpruefung-und-mandatsziel` | Wenn es um Operatives Erstprüfung Und Mandatsziel in WEG- und Hausverwaltung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `operatives-erstpruefung-und-mandatsziel` | Wenn es um Operatives Erstpruefung Und Mandatsziel in WEG- und Hausverwaltung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `output-waehlen` | Wenn es um Output wählen in WEG- und Hausverwaltung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `protokoll-behoerden-gericht-und-registerweg` | Wenn es um Protokoll Behörden Gericht Und Registerweg in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `protokoll-behoerden-gericht-und-registerweg` | Wenn es um Protokoll Behoerden Gericht Und Registerweg in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `protokollwerkstatt-top-marathon` | Wenn es um Protokollwerkstatt für TOP-Marathons in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `quellen-livecheck` | Wenn es um Rechtsquellen-Livecheck in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `rampe-handlauf-tuerverbreiterung` | Wenn es um Rampe, Handlauf, Türverbreiterung im Gemeinschaftsbereich in WEG- und Hausverwaltung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollf... |
-| `rampe-handlauf-tuerverbreiterung-gemeinschaftsbereich` | Wenn es um Rampe Handlauf Türverbreiterung Gemeinschaftsbereich in WEG- und Hausverwaltung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
+| `rampe-handlauf-tuerverbreiterung-gemeinschaftsbereich` | Wenn es um Rampe Handlauf Tuerverbreiterung Gemeinschaftsbereich in WEG- und Hausverwaltung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
 | `rechtsstand-mai-2026-faktenbank` | Wenn es um Rechtsstand Mai 2026 — Faktenbank WEG/Hausverwaltung in WEG- und Hausverwaltung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `sonderumlage-compliance-dokumentation-und-akte` | Wenn es um Sonderumlage Compliance Dokumentation Und Akte in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `spezial-beschluesse-dokumentenmatrix-und-lueckenliste` | Wenn es um Beschlüsse: Dokumentenmatrix, Lückenliste und Nachforderung in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-beschluesse-dokumentenmatrix-und-lueckenliste` | Wenn es um Beschluesse: Dokumentenmatrix, Lückenliste und Nachforderung in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-jahresabrechnung-livequellen-und-rechtsprechungscheck` | Wenn es um Jahresabrechnung: Livequellen- und Rechtsprechungscheck in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `steckersolar-wallbox-barrierefreiheit` | Wenn es um Steckersolar, Wallbox, Barrierefreiheit und Co. in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken u... |
 | `stoerung-hausordnung-mieter-eigentuemer` | Wenn es um Störung, Hausordnung, Mieter und Eigentümer in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -211,7 +189,7 @@ Automatisch generierte Komplett-Liste aller 93 Skills in diesem Plugin. Beschrei
 | `weg-bauliche-formular-portal-einreichungslogik` | Wenn es um Bauliche: Formular, Portal und Einreichungslogik in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `weg-beschluesse-dokumentenmatrix-lueckenliste-nachforderung` | Wenn es um Beschlüsse: Dokumentenmatrix, Lückenliste und Nachforderung in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
 | `weg-beschlusssammlung-formfehler` | Wenn es um Beschlusssammlung: Schriftsatz-, Brief- und Memo-Bausteine in WEG- und Hausverwaltung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung u... |
-| `weg-eigentuemerversammlung-einladung-beschluss` | Wenn es um Eigentümerversammlung: Risikoampel, Gegenargumente und Verteidigungslinien in WEG- und Hausverwaltung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofor... |
+| `weg-eigentuemerversammlung-einladung-beschluss` | Wenn es um Eigentuemerversammlung: Risikoampel, Gegenargumente und Verteidigungslinien in WEG- und Hausverwaltung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofor... |
 | `weg-handwerker-internationaler-bezug-schnittstellen` | Wenn es um Handwerker: Internationaler Bezug und Schnittstellen in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `weg-hausgeld-zahlen-schwellenwerte-berechnung` | Wenn es um Hausgeld: Zahlen, Schwellenwerte und Berechnung in WEG- und Hausverwaltung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
 | `weg-operatives-erstpruefung-rollenklaerung-mandatsziel` | Wenn es um Operatives: Erstprüfung, Rollenklärung und Mandatsziel in WEG- und Hausverwaltung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -220,8 +198,8 @@ Automatisch generierte Komplett-Liste aller 93 Skills in diesem Plugin. Beschrei
 | `weg-tatbestand-beweis-und-belege` | Wenn es um Weg Tatbestand Beweis Und Belege in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `weg-tatbestandsmerkmale-beweisfragen-beleglage` | Wenn es um WEG: Tatbestandsmerkmale, Beweisfragen und Beleglage in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `weg-wirtschaftsplan-hausgeld` | Wenn es um Wirtschaftsplan: Verhandlung, Vergleich und Eskalation in WEG- und Hausverwaltung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
-| `wegh-bauliche-veraenderung-beschluss-spezial` | Wenn es um WEGh: Bauliche Veränderung WEG in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `wegh-eigentuemerversammlung-bauleiter` | Wenn es um WEGh: Eigentümerversammlung in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `wegh-bauliche-veraenderung-beschluss-spezial` | Wenn es um WEGh: Bauliche Veraenderung WEG in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `wegh-eigentuemerversammlung-bauleiter` | Wenn es um WEGh: Eigentuemerversammlung in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `wegh-verwalterhaftung-spezial` | Wenn es um WEGh: Verwalterhaftung in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `wegh-wirtschaftsplan-jahresabrechnung` | Wenn es um WEG: Wirtschaftsplan und Jahresabrechnung in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und näc... |
 | `wegh-wirtschaftsplan-jahresabrechnung-leitfaden` | Wenn es um Wegh Wirtschaftsplan Jahresabrechnung Leitfaden in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

@@ -1,52 +1,52 @@
-Wenn du das hier öffnest, willst du im Bereich Kartellrecht Marktabgrenzung Prüfung zügig von Unterlagen zu einem verwertbaren Arbeitsprodukt kommen.
+Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Kartellrecht Marktabgrenzung Prüfung ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
 
 # Kartellrecht Marktabgrenzung Prüfung — Schnellstart
 
-Ziel: Globales Kartellrecht/Competition Law: GWB, Art 101/102 AEUV, Fusionskontrolle, BKartA, DG Competition, FTC/DOJ, ICN-Jurisdiktionen, Dawn Raids, Marktabgrenzung, Missbrauch, Private Enforcement. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Globales Kartellrecht/Competition Law: GWB, Art 101/102 AEUV, Fusionskontrolle, BKartA, DG Competition, FTC/DOJ, ICN-Jurisdiktionen, Dawn Raids, Marktabgrenzung, Missbrauch, Private Enforcement. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
-1. Paragraf 1 GWB Kartellverbot nationale Prüfung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-2. Paragraf 19a GWB überragende marktübergreifende Bedeutung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-3. Relative Marktmacht und Economic Dependence: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-4. Aeuv: Behörden-, Gerichts- oder Registerweg: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-5. Algorithmic Collusion und AI Pricing: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-6. Alleinvertrieb Kundengruppen Gebietsschutz: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
+1. Paragraf 1 GWB Kartellverbot nationale Prüfung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+2. Paragraf 19a GWB überragende marktübergreifende Bedeutung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+3. Relative Marktmacht und Economic Dependence: Relative Marktmacht und Economic Dependence: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+4. Aeuv: Behörden-, Gerichts- oder Registerweg: Aeuv: Behörden-, Gerichts- oder Registerweg: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+5. Algorithmic Collusion und algorithmische Systeme Pricing: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+6. Alleinvertrieb Kundengruppen Gebietsschutz: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Paragraf 1 GWB Kartellverbot nationale Prüfung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Paragraf 19a GWB überragende marktübergreifende Bedeutung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Relative Marktmacht und Economic Dependence | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aeuv: Behörden-, Gerichts- oder Registerweg | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Algorithmic Collusion und AI Pricing | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Alleinvertrieb Kundengruppen Gebietsschutz | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Paragraf 1 GWB Kartellverbot nationale Prüfung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Paragraf 19a GWB überragende marktübergreifende Bedeutung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Relative Marktmacht und Economic Dependence | Relative Marktmacht und Economic Dependence: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aeuv: Behörden-, Gerichts- oder Registerweg | Aeuv: Behörden-, Gerichts- oder Registerweg: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Algorithmic Collusion und algorithmische Systeme Pricing | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Alleinvertrieb Kundengruppen Gebietsschutz | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
 - Paragraf 1 GWB Kartellverbot nationale Prüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB Paragrafen 1: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Normen-/Quellenanker: Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 101 AEUV (Kartellverbot): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 102 AEUV (Marktbeherrschung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1 GWB (Kartellverbot national): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 18-21 GWB (Marktbeherrschung, Behinderungsverbot): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 19 GWB (Missbrauchsverbot): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EUGH C-413/14 P (Intel, Treuerabatte)
-- EUGH C-67/13 P (Cartes Bancaires, bezweckte Beschränkung)
-- Bezweckte Beschraenkungen Art. 101 Abs. 1 AEUV nicht vorschnell annehmen; EUGH C-67/13 P Cartes Bancaires-Linie prüfen
+- Paragraf 19a GWB (Plattformregulierung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH C-413/14 P (Intel, Treuerabatte)
+- EuGH C-67/13 P (Cartes Bancaires, bezweckte Beschränkung)
+- Bezweckte Beschraenkungen Art. 101 Abs. 1 AEUV nicht vorschnell annehmen; EuGH C-67/13 P Cartes Bancaires-Linie prüfen
 
 ## 6. Antwortform
 

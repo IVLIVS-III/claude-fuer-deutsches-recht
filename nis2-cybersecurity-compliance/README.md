@@ -1,26 +1,5 @@
 # NIS-2, Cybersecurity und IT-Sicherheits-Compliance
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`nis2-cybersecurity-compliance`) | [`nis2-cybersecurity-compliance.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/nis2-cybersecurity-compliance.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Akte Lahnwerke Maschinenbau AG - Slack, AirTags und IT-Sicherheitslage** (`nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit`) | [Gesamt-PDF lesen](../testakten/nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit/gesamt-pdf/nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit_gesamt.pdf) | [`testakte-nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -103,7 +82,7 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `admin-offboarding` | Wenn es um Admin Offboarding in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `airtags-lkw-tracking` | Wenn es um Airtags Lkw Tracking in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `api-security-arbeitnehmerueberwachung-it` | Wenn es um API Security in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `arbeitnehmerueberwachung-it` | Wenn es um Arbeitnehmerüberwachung It in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `arbeitnehmerueberwachung-it` | Wenn es um Arbeitnehmerueberwachung It in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `asset-inventory-cmdb` | Wenn es um Asset Inventory Cmdb in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `audit-nachweisordner` | Wenn es um Audit Nachweisordner in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `aufsichtsverfahren-bsi-bussgeld-remediation` | Wenn es um Aufsichtsverfahren BSI in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -120,16 +99,16 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `byod-policy` | Wenn es um BYOD Policy in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `chatgpt-copilot-policy` | Wenn es um Chatgpt Copilot Policy in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `cis-controls-mapping` | Wenn es um CIS Controls Mapping in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `cloud-saas-company-mobile-cra-produkte` | Wenn es um Cloud Saas Einführung Slack in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `cloud-saas-company-mobile-cra-produkte` | Wenn es um Cloud Saas Einfuehrung Slack in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `company-mobile-mdm` | Wenn es um Company Mobile MDM in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `cra-produkte-digitale-elemente` | Wenn es um CRA Produkte Digitale Elemente in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `cyberversicherung` | Wenn es um Cyberversicherung in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `data-sovereignty-datenklassifikation` | Wenn es um Data Sovereignty Cloud Region in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `datenklassifikation` | Wenn es um Datenklassifikation in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `datenschutzfolgenabschaetzung-security` | Wenn es um Datenschutzfolgenabschätzung Security in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `datenschutzfolgenabschaetzung-security` | Wenn es um Datenschutzfolgenabschaetzung Security in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `deepfake-ceo-fraud` | Wenn es um Deepfake Ceo Fraud in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `devops-ci-digitale-souveraenitaet-dora-art16` | Wenn es um Devops Ci Cd Secrets in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `digitale-souveraenitaet-provider-lockin` | Wenn es um Digitale Souveränität Provider Lockin in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `digitale-souveraenitaet-provider-lockin` | Wenn es um Digitale Souveraenitaet Provider Lockin in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `dora-art16-finanzunternehmen-simplified-framework` | Wenn es um DORA Artikel 16 für Finanzunternehmen in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfp... |
 | `dora-finanzsektor-abgrenzung` | Wenn es um DORA Finanzsektor Abgrenzung in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `dsgvo-art32-schnittstelle` | Wenn es um DSGVO Art32 Schnittstelle in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -141,7 +120,7 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `geheimnisschutz-geschg` | Wenn es um Geheimnisschutz Geschg in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `identity-access-management` | Wenn es um Identity Access Management in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `incident-meldekaskade-iot-geraete-iso27001` | Wenn es um Incident Meldekaskade 24 72 Abschluss in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `iot-geraete` | Wenn es um IoT Geräte in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `iot-geraete` | Wenn es um IoT Geraete in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `iso27001-mapping` | Wenn es um ISO 27001 Mapping in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `java-code-signing-zertifikate` | Wenn es um Java Code Signing Zertifikate in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `joiner-mover-ki-incident-tools-shadow` | Wenn es um Joiner Mover Leaver in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -150,7 +129,7 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `ki-tools-shadow-it` | Wenn es um digitale Werkzeuge Tools Shadow It in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `klassifizierte-informationen` | Wenn es um Klassifizierte Informationen in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `kommunikation-presse-kunden` | Wenn es um Kommunikation Presse Kunden in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `krisenuebung-kritis-bsig-leitungserklaerung` | Wenn es um Krisenübung in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `krisenuebung-kritis-bsig-leitungserklaerung` | Wenn es um Krisenuebung in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `kritis-bsig-schnittstelle` | Wenn es um Kritis Bsig Schnittstelle in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `leitungserklaerung-cyber-attestation` | Wenn es um Leitungserklärung Cyber Attestation in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpun... |
 | `lieferanten-questionnaire` | Wenn es um Lieferanten Questionnaire in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -159,7 +138,7 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `logging-siem-soc` | Wenn es um Logging SIEM SOC in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `management-haftung-board-duties` | Wenn es um Management Haftung Board Duties in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `mandantenakten-kanzlei` | Wenn es um Mandantenakten Kanzlei in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `massnahmenplan-100-tage` | Wenn es um Maßnahmenplan 100 Tage in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `massnahmenplan-100-tage` | Wenn es um Massnahmenplan 100 Tage in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `massnahmenplan-tage-maturity-assessment` | Wenn es um Maßnahmenplan 100 Tage in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `maturity-assessment` | Wenn es um Maturity Assessment in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `messenger-collaboration-tool-check` | Wenn es um Messenger Collaboration Tool Check in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -190,13 +169,13 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `security-kpis-board-report` | Wenn es um Security Kpis Board Report in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `security-procurement-training-management` | Wenn es um Security Procurement Tender in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Ri... |
 | `security-training-management` | Wenn es um Security Training Management in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `sektor-und-groessencheck` | Wenn es um Sektor Und Größencheck in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `sektor-und-groessencheck` | Wenn es um Sektor Und Groessencheck in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `software-sbom` | Wenn es um Software SBOM in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `tabletop-exercise` | Wenn es um Tabletop Exercise in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `third-party-remote-maintenance` | Wenn es um Third Party Remote Maintenance in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `tls-pki-zertifikatsmanagement` | Wenn es um TLS PKI Zertifikatsmanagement in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `usb-wechseldatentraeger` | Wenn es um USB Wechseldatenträger in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `verschluesselung-key-vorfall-krisenstab-vpn` | Wenn es um Verschlüsselung Key Management in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `usb-wechseldatentraeger` | Wenn es um USB Wechseldatentraeger in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `verschluesselung-key-vorfall-krisenstab-vpn` | Wenn es um Verschluesselung Key Management in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vorfall-krisenstab` | Wenn es um Vorfall Krisenstab in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vorstand-ciso-kaltstart` | Wenn es um Vorstand Ciso Kaltstart in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vpn-ausland-reisen` | Wenn es um VPN Ausland Reisen in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

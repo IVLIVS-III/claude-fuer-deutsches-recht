@@ -100,3 +100,7 @@ Bevor der Volltext freigegeben wird, durchlaeuft der Skill eine Eigenkontrolle:
 6. Sind alle Lückenpunkte explizit markiert?
 
 Erst nach bestandener Eigenkontrolle wird der Volltext als final ausgegeben.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill sortiert den verwaltungsgerichtlichen Streitstoff nach Verwaltungsakt, Vorverfahren, Klagegrund, Behördenakte, Ermessen, Amtsermittlung und Tenorfolge. Er benennt, ob ein Hinweis, eine Aktenanforderung, ein Eilbeschluss oder ein Urteil vorbereitet werden muss.

@@ -1,26 +1,5 @@
 # Römisch-katholisches Kirchenrecht CIC und Katechismus
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`roemisch-katholisches-kirchenrecht`) | [`roemisch-katholisches-kirchenrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisch-katholisches-kirchenrecht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Kirchenrechtliche Arbeitsakte: Sancta Cäcilia, Kirchenaustritt, Sakramente und Ordinariatskommunikation** (`kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente`) | [Gesamt-PDF lesen](../testakten/kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente/gesamt-pdf/kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente_gesamt.pdf) | [`testakte-kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -120,7 +99,7 @@ Automatisch generierte Komplett-Liste aller 1877 Skills in diesem Plugin. Beschr
 | `arabische-pastoralantworten` | Wenn es um Arabische Pastoralantworten in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `archive-register-auslegung-canones` | Wenn es um Archive, Register und Datenschutz in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswa... |
 | `archive-register-und-datenschutz` | Wenn es um Archive, Register und Datenschutz in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswa... |
-| `auslegung-von-canones-und-aequitas-canonica` | Wenn es um Auslegung von Canones und äquitas canonica in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschrit... |
+| `auslegung-von-canones-und-aequitas-canonica` | Wenn es um Auslegung von Canones und aequitas canonica in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschrit... |
 | `beichtgeheimnis-und-seelsorgegeheimnis` | Wenn es um Beichtgeheimnis und Seelsorgegeheimnis in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `beistand-im-kirchlichen-strafverfahren` | Wenn es um Beistand im kirchlichen Strafverfahren in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwor... |
 | `beistand-kirchlichen-urkunden-zeitrechnung` | Wenn es um Beistand im kirchlichen Strafverfahren in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwor... |

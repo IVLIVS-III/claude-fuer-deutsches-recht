@@ -1,28 +1,5 @@
 # Strafkammer am Landgericht
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`richter-landgericht-strafkammer`) | [`richter-landgericht-strafkammer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-landgericht-strafkammer.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Brandstiftung Lagerhalle Magdeburg-Rothensee** (`strafrecht-brandstiftung-lagerhalle-magdeburg`) | [Gesamt-PDF lesen](../../testakten/strafrecht-brandstiftung-lagerhalle-magdeburg/gesamt-pdf/strafrecht-brandstiftung-lagerhalle-magdeburg_gesamt.pdf) | [`testakte-strafrecht-brandstiftung-lagerhalle-magdeburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-brandstiftung-lagerhalle-magdeburg.zip) |
-| **Revision nach abgelehntem Beweisantrag Duisburg** (`strafrecht-revision-beweisantrag-lg-duisburg`) | [Gesamt-PDF lesen](../../testakten/strafrecht-revision-beweisantrag-lg-duisburg/gesamt-pdf/strafrecht-revision-beweisantrag-lg-duisburg_gesamt.pdf) | [`testakte-strafrecht-revision-beweisantrag-lg-duisburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-revision-beweisantrag-lg-duisburg.zip) |
-| **Aussage-gegen-Aussage-Verfahren Mainz** (`strafrecht-sexualdelikt-aussage-gegen-aussage-mainz`) | [Gesamt-PDF lesen](../../testakten/strafrecht-sexualdelikt-aussage-gegen-aussage-mainz/gesamt-pdf/strafrecht-sexualdelikt-aussage-gegen-aussage-mainz_gesamt.pdf) | [`testakte-strafrecht-sexualdelikt-aussage-gegen-aussage-mainz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-sexualdelikt-aussage-gegen-aussage-mainz.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -148,7 +125,7 @@ Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Beschrei
 | --- | --- |
 | `01-eroeffnungsverfahren-strafkammer` | Wenn es um 01 Eröffnungsverfahren Strafkammer in Strafkammer am Landgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `02-hauptverhandlung-grosse-strafkammer` | Wenn es um 02 Hauptverhandlung Große Strafkammer in Strafkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
-| `03-beweisantraege-und-ablehnung` | Wenn es um 03 Beweisanträge und Ablehnung in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `03-beweisantraege-und-ablehnung` | Wenn es um 03 Beweisantraege und Ablehnung in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `04-beweiswuerdigung-strafkammer` | Wenn es um 04 Beweiswürdigung Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `05-strafzumessung-grosse-strafkammer` | Wenn es um 05 Strafzumessung Große Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächst... |
 | `06-massnahmen-paragraf-61-stgb` | Wenn es um 06 Maßnahmen Paragraf 61 Stgb in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sch... |

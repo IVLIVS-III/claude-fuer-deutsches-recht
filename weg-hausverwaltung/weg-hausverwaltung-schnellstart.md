@@ -2,38 +2,38 @@ Wenn du das hier öffnest, willst du eine fristlose Kündigung wegen Zahlungsver
 
 # Weg Hausverwaltung — Schnellstart
 
-Ziel: Operatives WEG- und Hausverwaltungs-Plugin für Beschlüsse, Eigentümerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Hausgeld, Sonderumlage, Betriebskosten, Handwerker, bauliche Veraenderungen, Steckersolar, Wallbox, Verwalter, Beirat und Anwalt-Eskalation. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Operatives WEG- und Hausverwaltungs-Plugin für Beschluesse, Eigentuemerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Hausgeld, Sonderumlage, Betriebskosten, Handwerker, bauliche Veraenderungen, Steckersolar, Wallbox, Verwalter, Beirat und Anwalt-Eskalation. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
 1. Vertrag und Objekt: Wohnraum, Gewerberaum oder WEG-Bezug, Parteien, Mietbeginn, Miethöhe und Klauseln erfassen.
 2. Zahlung und Abrechnung: Rückstaende, Betriebskosten, Vorauszahlungen, Kaution und Verjährung rechnerisch prüfen.
 3. Mangel und Nutzung: Anzeige, Beweis, Minderungsquote, Zurückbehaltung und Instandsetzung trennen.
-4. Kündigung und Räumung: Kündigungsgrund, Fristen, Schutzvorschriften, Amtsgerichtszuständigkeit und Vollstreckung abbilden.
+4. Kündigung und Raeumung: Kündigungsgrund, Fristen, Schutzvorschriften, Amtsgerichtszuständigkeit und Vollstreckung abbilden.
 5. WEG-Beschluss und Verwaltung: Beschluss, Einladungsfehler, Beschlusskompetenz, ordnungsmäßige Verwaltung und Klagefrist prüfen.
-6. Wenn es um Abrechnung, Ist/Plan und Mieterschnittstelle in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken.
+6. Abrechnung, Ist/Plan und Mieterschnittstelle: Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abrechnung, Ist/Plan und Mieterschnittstelle | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bad-Umbau: Bodengleiche Dusche im Sondereigentum und Gemeinschaftseigentum | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bodengleiche Dusche, Haltegriffe und unterfahrbares Waschbecken im Sondereigentum (Stand 06/2026). | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Barrierefreie Einladungen, Protokolle und Abrechnungen | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bauliche: Formular, Portal und Einreichungslogik im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul. | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bauliche Veränderung: Aufzug und Treppenlift nach Paragraf 20 Abs. 2 Nr. 2 WEG | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abrechnung, Ist/Plan und Mieterschnittstelle | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bad-Umbau: Bodengleiche Dusche im Sondereigentum und Gemeinschaftseigentum | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bodengleiche Dusche, Haltegriffe und unterfahrbares Waschbecken im Sondereigentum (Stand 06/2026). | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Barrierefreie Einladungen, Protokolle und Abrechnungen | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bauliche: Formular, Portal und Einreichungslogik im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul. | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bauliche Veränderung: Aufzug und Treppenlift nach Paragraf 20 Abs. 2 Nr. 2 WEG | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
@@ -41,10 +41,9 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 - BGB Paragraf 536: Mietminderung bei Sach- und Rechtsmängeln.
 - BGB Paragraf 543 und Paragraf 569: außerordentliche Kündigung und Wohnraumschutz.
 - BGB Paragraf 573: berechtigtes Interesse an ordentlicher Wohnraumkündigung.
-- Normen-/Quellenanker: WEG Paragrafen 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, Datenschutz-Grundverordnung und landesrechtliche Bau-/Sicherheitsfragen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 556 BGB: mietrechtliche Abrechnung, Frist und Einwendungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- vermietender Eigentümer erhält WEG-Abrechnung so spät, dass Paragraf 556 Abs. 3 BGB im Mietverhältnis brennt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Wohngebäudeversicherung: Umbau der Abdichtungsebene kann als Gefahrerhöhung gelten — Versicherer vorab informieren (Paragraf 23 VVG). Bauleistungsversicherung für die Umbauzeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Normenradar: BGB Paragrafen 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG Paragrafen 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 242, 305, 307, 633 ff., 634a, 640 BGB; Paragraf 9a WEG; Paragrafen 203, 204 BGB; Paragrafen 485 ff. ZPO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 18.03.2015 - VIII ZR 185/14: formularmäßige Quotenabgeltungsklauseln in Wohnraummietverträgen sind unwirksam.
 - BGH, Urteil vom 18.03.2015 - VIII ZR 242/13: Schönheitsreparaturen bei unrenoviert überlassener Wohnung können formularmäßig nicht ohne Ausgleich überwaelzt werden.
 - BGH, Urteil vom 19.07.2024 - V ZR 102/23: Beschlüsse zu Jahresabrechnung/Wirtschaftsplan sind nach neuem Recht auf Vorschüsse, Nachschüsse und Vorschussanpassungen auszulegen

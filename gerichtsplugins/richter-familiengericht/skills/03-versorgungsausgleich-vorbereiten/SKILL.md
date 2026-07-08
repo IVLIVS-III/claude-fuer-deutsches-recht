@@ -60,3 +60,7 @@ Dieser Skill führt den Familienrichter von der Scheidungsakte zum beschlussreif
 - Kein Sammeltenor über mehrere Anrechte.
 - Keine Entscheidung ohne aktuelle Versorgungsträgerauskunft.
 - Keine Härtekorrektur ohne konkreten Tatsachenkern.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstation, Antragsgegnerstation, Kindeswohl- oder Unterhaltsachse, Belegen, Anhörungen und Beschlussformel. Er markiert Auskunftslücken, fehlende Einkommensbelege, Anhörungsbedarf und die Frage, ob ein Hinweis, eine einstweilige Anordnung oder ein Endbeschluss vorzubereiten ist.

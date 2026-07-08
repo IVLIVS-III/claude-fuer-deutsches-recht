@@ -1,39 +1,39 @@
-Wenn du das hier öffnest, willst du im Bereich Juristische Presseberichterstattung zügig von Unterlagen zu einem verwertbaren Arbeitsprodukt kommen.
+Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Juristische Presseberichterstattung ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
 
 # Juristische Presseberichterstattung — Schnellstart
 
-Ziel: Plugin für juristische Presseberichterstattung: Gerichtsbericht, Entscheidungsnews, Verdachtsbericht, Pressemitteilung, Headline, Bildprüfung, Quellenmatrix und Redaktionsschluss-Qualitygate. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Plugin für juristische Presseberichterstattung: Gerichtsbericht, Entscheidungsnews, Verdachtsbericht, Pressemitteilung, Headline, Bildprüfung, Quellenmatrix und Redaktionsschluss-Qualitygate. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
-1. Anonymisierung und Identifizierbarkeit: entwirft Anonymisierung, Kürzung und Kontextreduktion, ohne den Bericht unverständlich zu machen; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-2. Bildunterschrift und Foto KUG: prüft Fotoauswahl, Bildunterschrift, Einwilligung, Zeitgeschichte, Beiwerk und Schutz unbeteiligter Personen; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-3. Entscheidung Meldung und Urteilsbericht: macht aus Urteil, Beschluss oder Pressemitteilung eine Meldung mit Tenor, Gründen, Folgen und Rechtsmittelstatus; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-4. Faktencheck Quellenmatrix: baut eine Quellenmatrix für jede Tatsachenbehauptung, priorisiert Lücken und markiert Formulierungsrisiken; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-5. Diskrete Berichterstattung Familienrecht und Erbrecht: hilft bei diskreter Berichterstattung über Familien-, Erb- und Betreuungsfälle mit besonderem Schutz privater; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-6. FAQ und Explainer Rechtsfrage: erklärt juristische Streitfragen als FAQ oder Hintergrundstück mit klarer Sprache und ohne Scheinsicherheit; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
+1. Anonymisierung und Identifizierbarkeit: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+2. Bildunterschrift und Foto KUG: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+3. Entscheidung Meldung und Urteilsbericht: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+4. Faktencheck Quellenmatrix: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
+5. Diskrete Berichterstattung Familienrecht und Erbrecht: Auskunft, Einkommen, Bedarf, Selbstbehalt, Kindeswohl, Versorgungsausgleich und Verbundfrage rechnerisch trennen.
+6. FAQ und Explainer Rechtsfrage: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anonymisierung und Identifizierbarkeit | entwirft Anonymisierung, Kürzung und Kontextreduktion, ohne den Bericht unverständlich zu machen? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bildunterschrift und Foto KUG | prüft Fotoauswahl, Bildunterschrift, Einwilligung, Zeitgeschichte, Beiwerk und Schutz unbeteiligter Personen? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Entscheidung Meldung und Urteilsbericht | macht aus Urteil, Beschluss oder Pressemitteilung eine Meldung mit Tenor, Gründen, Folgen und Rechtsmittelstatus? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Faktencheck Quellenmatrix | baut eine Quellenmatrix für jede Tatsachenbehauptung, priorisiert Lücken und markiert Formulierungsrisiken? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Diskrete Berichterstattung Familienrecht und Erbrecht | hilft bei diskreter Berichterstattung über Familien-, Erb- und Betreuungsfälle mit besonderem Schutz privater? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| FAQ und Explainer Rechtsfrage | erklärt juristische Streitfragen als FAQ oder Hintergrundstück mit klarer Sprache und ohne Scheinsicherheit? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anonymisierung und Identifizierbarkeit | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bildunterschrift und Foto KUG | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Entscheidung Meldung und Urteilsbericht | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Faktencheck Quellenmatrix | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Diskrete Berichterstattung Familienrecht und Erbrecht | Auskunft, Einkommen, Bedarf, Selbstbehalt, Kindeswohl, Versorgungsausgleich und Verbundfrage rechnerisch trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| FAQ und Explainer Rechtsfrage | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

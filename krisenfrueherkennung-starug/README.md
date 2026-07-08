@@ -1,27 +1,5 @@
 # Krisenfrüherkennung und StaRUG-Management
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`krisenfrueherkennung-starug`) | [`krisenfrueherkennung-starug.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krisenfrueherkennung-starug.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Krisenfrüherkennung & StaRUG – Vier Varianten** (`krisenfrueherkennung-starug-vier-varianten`) | [Gesamt-PDF lesen](../testakten/krisenfrueherkennung-starug-vier-varianten/gesamt-pdf/krisenfrueherkennung-starug-vier-varianten_gesamt.pdf) | [`testakte-krisenfrueherkennung-starug-vier-varianten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krisenfrueherkennung-starug-vier-varianten.zip) |
-| **StaRUG-Aufhebung der Restrukturierungssache — Holding Düsseldorf (BGH IX ZB 18/25)** (`starug-aufhebung-holding-duesseldorf-ix-zb-18-25`) | [Gesamt-PDF lesen](../testakten/starug-aufhebung-holding-duesseldorf-ix-zb-18-25/gesamt-pdf/starug-aufhebung-holding-duesseldorf-ix-zb-18-25_gesamt.pdf) | [`testakte-starug-aufhebung-holding-duesseldorf-ix-zb-18-25.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-starug-aufhebung-holding-duesseldorf-ix-zb-18-25.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -183,7 +161,7 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `einstieg-routing` | Wenn es um Einstieg und Routing in Krisenfrüherkennung und StaRUG-Management geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `fortbestehensprognose-zweistufig` | Wenn es um Fortbestehensprognose — Zweistufiges Modell nach IDW S 11 in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschr... |
 | `fruehwarnsystem-architektur-zwei-jahres-horizont` | Wenn es um Frühwarnsystem-Architektur mit Zwei-Jahres-Horizont in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `fruehwarnsystem-behoerden-gericht-und-registerweg` | Wenn es um Frühwarnsystem: Behörden-, Gerichts- oder Registerweg in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `fruehwarnsystem-behoerden-gericht-und-registerweg` | Wenn es um Fruehwarnsystem: Behörden-, Gerichts- oder Registerweg in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `geschaeftsfuehrerhaftung-quellenkarte-check` | Wenn es um Geschäftsführerhaftung Quellenkarte Check in Krisenfrüherkennung und StaRUG-Management geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenar... |
 | `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` | Wenn es um Geschäftsführerhaftung — Paragraf 43 GmbHG und Paragraf 93 AktG in der Krise in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoa... |
 | `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` | Wenn es um Insolvenzantragspflicht — Paragraf 15a InsO und die Drei-Wochen-Frist in Krisenfrüherkennung und StaRUG-Management geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risiko... |
@@ -191,13 +169,13 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `integrierte-planung-kennzahlenset-ampelsystem` | Wenn es um Integrierte Planung — GuV, Bilanz und Cashflow in Krisenfrüherkennung und StaRUG-Management geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Ko... |
 | `kennzahlenset-mandantenentscheidung` | Wenn es um Kennzahlenset: Mandantenkommunikation und Entscheidungsvorlage in Krisenfrüherkennung und StaRUG-Management geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Mandantennachricht oder Entscheid... |
 | `kennzahlenset-und-ampelsystem-starug-konform` | Wenn es um Kennzahlenset und Ampelsystem — StaRUG-konform in Krisenfrüherkennung und StaRUG-Management geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Ko... |
-| `kfe-fruherkennungssystem-bauleiter` | Wenn es um KFE: Früherkennungssystem in Krisenfrüherkennung und StaRUG-Management geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| `kfe-fruherkennungssystem-bauleiter` | Wenn es um KFE: Frueherkennungssystem in Krisenfrüherkennung und StaRUG-Management geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `kfe-krisenstab-cross-class` | Wenn es um KFE: Krisenstab Maßnahmen in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `kfe-krisenstab-massnahmen-leitfaden` | Wenn es um KFE: Krisenstab Maßnahmen in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `kfe-krisenstab-massnahmen-leitfaden` | Wenn es um KFE: Krisenstab Massnahmen in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `kfe-restrukturierungsbeauftragter` | Wenn es um KFE: Restrukturierungsbeauftragter in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `kfe-stabilisierungsanordnung-spezial` | Wenn es um KFE: Stabilisierungsanordnung in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `konform-sonderfall-und-edge-case` | Wenn es um Konform: Sonderfall und Edge-Case-Prüfung in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `krisenfrueherkennung-krisenmanagement-monats` | Wenn es um Krisenfrüherkennung: Erstprüfung, Rollenklärung und Mandatsziel in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sof... |
+| `krisenfrueherkennung-krisenmanagement-monats` | Wenn es um Krisenfrueherkennung: Erstprüfung, Rollenklärung und Mandatsziel in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sof... |
 | `krisenmanagement-tatbestand-beweis-und-belege` | Wenn es um Krisenmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage in Krisenfrüherkennung und StaRUG-Management geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `krisenstadien-fristennotiz-starug-gf-haftung` | Wenn es um Krisenstadien: Fristennotiz und nächster Schritt in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet` | Wenn es um Krisenstadien-Diagnostik — IDW S 6 Stadienlehre in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -216,10 +194,10 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `restrukturierungsplan-architektur-rollierende` | Wenn es um Restrukturierungsplan — Architektur nach Paragrafen 7 ff. StaRUG in Krisenfrüherkennung und StaRUG-Management geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeit... |
 | `restrukturierungsplan-formular-portal-und-einreichung` | Wenn es um Restrukturierungsplan: Formular, Portal und Einreichungslogik in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofort... |
 | `rollierende-liquiditaetsplanung-24-monate-template` | Wenn es um Rollierende Liquiditätsplanung — 24-Monate-Template in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `spezial-geschaeftsfuehrerhaftung-livequellen-check` | Wenn es um Geschäftsführerhaftung: Livequellen- und Rechtsprechungscheck in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofo... |
+| `spezial-geschaeftsfuehrerhaftung-livequellen-check` | Wenn es um Geschaeftsfuehrerhaftung: Livequellen- und Rechtsprechungscheck in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofo... |
 | `stabilisierungsanordnung-und-vollstreckungssperre` | Wenn es um Stabilisierungsanordnung Und Vollstreckungssperre in Krisenfrüherkennung und StaRUG-Management geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Beg... |
 | `stakeholder-warnpflicht-zahlungsunfaehigkeit` | Wenn es um Stakeholder: Abschlussprodukt und Übergabe in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `start-chronologie-fristen` | Wenn es um Krisenfrüherkennung und StaRUG-Management — Allgemein in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruc... |
+| `start-chronologie-fristen` | Wenn es um Krisenfrueherkennung und StaRUG-Management — Allgemein in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruc... |
 | `starug-fristen-form-und-zustaendigkeit` | Wenn es um StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `starug-stabilisierungsanordnung-vollstreckungsstopp` | Wenn es um Stabilisierungsanordnung: Red-Team und Qualitätskontrolle in Krisenfrüherkennung und StaRUG-Management geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofor... |
 | `unterlagen-luecken` | Wenn es um Unterlagen und Lücken in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -229,6 +207,6 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `workflow-kaltstart-und-routing` | Wenn es um Kaltstart und Routing in Krisenfrüherkennung und StaRUG-Management geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `workflow-redteam-qualitygate` | Wenn es um Red-Team Qualitygate in Krisenfrüherkennung und StaRUG-Management geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `workflow-unterlagen-lueckenliste` | Wenn es um Unterlagen- und Lückenliste in Krisenfrüherkennung und StaRUG-Management geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
-| `zahlungsunfaehigkeit-compliance-dokumentation-und-akte` | Wenn es um Zahlungsunfähigkeit: Compliance-Dokumentation und Aktenvermerk in Krisenfrüherkennung und StaRUG-Management geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpun... |
+| `zahlungsunfaehigkeit-compliance-dokumentation-und-akte` | Wenn es um Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk in Krisenfrüherkennung und StaRUG-Management geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpun... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

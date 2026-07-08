@@ -1,27 +1,5 @@
 # Zwangsvollstreckung
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`zwangsvollstreckung`) | [`zwangsvollstreckung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/zwangsvollstreckung.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Vollstreckungsmappe Sparkasse Niederrhein gegen Müller** (`vollstreckungsmappe-mueller-sparkasse-niederrhein`) | [Gesamt-PDF lesen](../testakten/vollstreckungsmappe-mueller-sparkasse-niederrhein/gesamt-pdf/vollstreckungsmappe-mueller-sparkasse-niederrhein_gesamt.pdf) | [`testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein.zip) |
-| **Zwangsvollstreckung Mietrückstand und Räumung — Eppendorfer Altbau Grewenig — Vollstreckungsmappe Zweite Runde** (`zwangsvollstreckung-mietruekstand-und-raeumung-eppendorfer-altbau-grewenig-vollstreckungsmappe-zweite-runde`) | [Gesamt-PDF lesen](../testakten/zwangsvollstreckung-mietruekstand-und-raeumung-eppendorfer-altbau-grewenig-vollstreckungsmappe-zweite-runde/gesamt-pdf/zwangsvollstreckung-mietruekstand-und-raeumung-eppendorfer-altbau-grewenig-vollstreckungsmappe-zweite-runde_gesamt.pdf) | [`testakte-zwangsvollstreckung-mietruekstand-und-raeumung-eppendorfer-altbau-grewenig-vollstreckungsmappe-zweite-runde.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsvollstreckung-mietruekstand-und-raeumung-eppendorfer-altbau-grewenig-vollstreckungsmappe-zweite-runde.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -148,7 +126,7 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `einstieg-routing` | Wenn es um Einstieg und Routing in Zwangsvollstreckung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `elektronische-zustellung-eu` | Wenn es um Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `eu-kontenpfaendung-655-2014` | Wenn es um Europäische Kontenpfändung (EuKtPVO, VO (EU) 655/2014) in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlag... |
-| `haertefall-mandantenkommunikation-entscheidungsvorlage` | Wenn es um Härtefall: Mandantenkommunikation und Entscheidungsvorlage in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `haertefall-mandantenkommunikation-entscheidungsvorlage` | Wenn es um Haertefall: Mandantenkommunikation und Entscheidungsvorlage in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `inso-internationaler-bezug-und-schnittstellen` | Wenn es um InsO: Internationaler Bezug und Schnittstellen in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `kommandocenter` | Wenn es um Zwangsvollstreckung – Kommandocenter in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `kontenpfaendung-notar-interessen-online` | Wenn es um Kontopfändung: Pfändungs- und Überweisungsbeschluss gegen Banken in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung... |
@@ -167,14 +145,14 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `pfueb-802l-arbeit` | Wenn es um PfÜB Mieter, Finanzamt, sonstige Drittschuldner in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `pfueb-arbeitsentgelt` | Wenn es um PfÜB Arbeitsentgelt in Zwangsvollstreckung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
 | `pfueb-bank` | Wenn es um PfÜB Bankkonto in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `pfueb-raeumung-schuldnerschutz-beweislast` | Wenn es um PfÜB: Risikoampel, Gegenargumente und Verteidigungslinien in Zwangsvollstreckung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `pfueb-raeumung-schuldnerschutz-beweislast` | Wenn es um Pfueb: Risikoampel, Gegenargumente und Verteidigungslinien in Zwangsvollstreckung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `quellen-livecheck` | Wenn es um Rechtsquellen-Livecheck in Zwangsvollstreckung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
-| `raeumung-compliance-dokumentation-und-akte` | Wenn es um Räumung: Compliance-Dokumentation und Aktenvermerk in Zwangsvollstreckung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `raeumung-compliance-dokumentation-und-akte` | Wenn es um Raeumung: Compliance-Dokumentation und Aktenvermerk in Zwangsvollstreckung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `raeumung-tabellenauszug-inso` | Wenn es um Räumung Paragraf 885 ZPO / Berliner Räumung Paragraf 885a ZPO in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schuldnerschutz-beweislast-und-darlegungslast` | Wenn es um Schuldnerschutz: Beweislast, Darlegungslast und Substantiierung in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-765a-red-team-und-qualitaetskontrolle` | Wenn es um 765A: Red-Team und Qualitätskontrolle in Zwangsvollstreckung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-kontensuche-livequellen-und-rechtsprechungscheck` | Wenn es um Kontensuche: Livequellen- und Rechtsprechungscheck in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `spezial-vermoegensauskunft-zahlen-schwellen-und-berechnung` | Wenn es um Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-vermoegensauskunft-zahlen-schwellen-und-berechnung` | Wenn es um Vermoegensauskunft: Zahlen, Schwellenwerte und Berechnung in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `start-chronologie-fristen` | Wenn es um Zwangsvollstreckung — Allgemein in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `tabellenauszug-201-inso` | Wenn es um Vollstreckung aus Tabellenauszug Paragraf 201 InsO in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `titel-klausel-zustellung` | Wenn es um Drei-Säulen-Prüfung: Titel, Klausel, Zustellung in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -196,6 +174,6 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `zwv-pfaendung-konto-vollstreckungsschutz` | Wenn es um ZwV: Konto Arbeitseinkommen in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `zwv-vollstreckungsschutz-billigkeit-spezial` | Wenn es um ZwV: Vollstreckungsschutz Billigkeit in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `zwv-vollstreckungstitel-bauleiter` | Wenn es um ZwV: Vollstreckungstitel Bauleiter in Zwangsvollstreckung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
-| `zwv-zwangsversteigerung-grundstueck-spezial` | Wenn es um Zwv Zwangsversteigerung Grundstück Spezial in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `zwv-zwangsversteigerung-grundstueck-spezial` | Wenn es um Zwv Zwangsversteigerung Grundstueck Spezial in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

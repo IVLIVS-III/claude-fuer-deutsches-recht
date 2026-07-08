@@ -1,31 +1,5 @@
 # Krankenkassenrecht und Krankenversicherung
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`krankenkassenrecht-krankenversicherung`) | [`krankenkassenrecht-krankenversicherung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenkassenrecht-krankenversicherung.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Kaufrecht — Pflegebett, Sensorik und Cloud-Abo in Nürnberg** (`kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg`) | [Gesamt-PDF lesen](../testakten/kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg/gesamt-pdf/kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg_gesamt.pdf) | [`testakte-kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg.zip) |
-| **Akte Lichtenberg: Hilfsmittel, Krankengeld, PKV-Tarifwechsel und Beihilfechaos** (`krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel`) | [Gesamt-PDF lesen](../testakten/krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel/gesamt-pdf/krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel_gesamt.pdf) | [`testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip) |
-| **Krankenkassenrechtsakte Off-Label-Use seltene Erkrankung Mainz** (`krankenkassenrecht-off-label-use-seltene-erkrankung-mainz`) | [Gesamt-PDF lesen](../testakten/krankenkassenrecht-off-label-use-seltene-erkrankung-mainz/gesamt-pdf/krankenkassenrecht-off-label-use-seltene-erkrankung-mainz_gesamt.pdf) | [`testakte-krankenkassenrecht-off-label-use-seltene-erkrankung-mainz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krankenkassenrecht-off-label-use-seltene-erkrankung-mainz.zip) |
-| **Hilfsmittelstreit Elektrorollstuhl Heinz Körner gegen Weser-Ems Gesundheitskasse** (`sozialrecht-elektrorollstuhl-koerner-oldenburg`) | [Gesamt-PDF lesen](../testakten/sozialrecht-elektrorollstuhl-koerner-oldenburg/gesamt-pdf/sozialrecht-elektrorollstuhl-koerner-oldenburg_gesamt.pdf) | [`testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg.zip) |
-| **Sozialrecht: Enzymsubstitution bei seltener Erkrankung in Jena** (`sozialrecht-enzymsubstitution-seltene-erkrankung-jena`) | [Gesamt-PDF lesen](../testakten/sozialrecht-enzymsubstitution-seltene-erkrankung-jena/gesamt-pdf/sozialrecht-enzymsubstitution-seltene-erkrankung-jena_gesamt.pdf) | [`testakte-sozialrecht-enzymsubstitution-seltene-erkrankung-jena.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-enzymsubstitution-seltene-erkrankung-jena.zip) |
-| **Sozialrecht: Orphan-Drug-Krebsmedikament in Münster** (`sozialrecht-orphan-drug-krebsmedikament-muenster`) | [Gesamt-PDF lesen](../testakten/sozialrecht-orphan-drug-krebsmedikament-muenster/gesamt-pdf/sozialrecht-orphan-drug-krebsmedikament-muenster_gesamt.pdf) | [`testakte-sozialrecht-orphan-drug-krebsmedikament-muenster.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-orphan-drug-krebsmedikament-muenster.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -229,7 +203,7 @@ Automatisch generierte Komplett-Liste aller 160 Skills in diesem Plugin. Beschre
 | `kv-077-nichtversicherte-auffangpflichtversicherung` | Wenn es um Krankenversicherung: Nichtversicherte Auffangpflichtversicherung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel m... |
 | `kv-078-krankenkasse-und-insolvenz-beitragsschuld` | Wenn es um Krankenversicherung: Krankenkasse und Insolvenz Beitragsschuld in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit... |
 | `kv-079-elektronische-patientenakte-zugriffsrechte` | Wenn es um Krankenversicherung: Elektronische Patientenakte Zugriffsrechte in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mi... |
-| `kv-080-qualitaetsgate-krankenversicherungsakte` | Wenn es um Kv 080 Qualitätsgate Krankenversicherungsakte in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `kv-080-qualitaetsgate-krankenversicherungsakte` | Wenn es um Kv 080 Qualitaetsgate Krankenversicherungsakte in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `leistungsbescheid-lesen-fuer-laien` | Wenn es um Leistungsbescheid lesen für Laien in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `long-covid-post-vac-und-beweisprobleme` | Wenn es um Long Covid, Post-Vac und Beweisprobleme in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `md-gutachten-angreifen-befundbericht-und-gegengutachten` | Wenn es um MD-Gutachten angreifen: Befundbericht und Gegengutachten in Krankenkassenrecht und Krankenversicherung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |

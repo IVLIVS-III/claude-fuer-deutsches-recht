@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Generiert in jeder Plugin-README einen Abschnitt
-'## Alle Skills im Ueberblick (automatisch generiert)'
+'## Alle Skills im Überblick (automatisch generiert)'
 am Ende der Datei. Der Abschnitt listet alle Skills mit Description
 aus den jeweiligen SKILL.md-Dateien.
 
@@ -61,13 +61,13 @@ def read_description(skill_md: Path) -> str:
             break
     if not desc:
         return ""
-    # Anfuehrungszeichen entfernen
+    # Anführungszeichen entfernen
     if desc.startswith('"') and desc.endswith('"'):
         desc = desc[1:-1]
-    # Pipes für Tabelle escapen, Zeilenumbrueche in Spaces
+    # Pipes für Tabelle escapen, Zeilenumbrüche in Spaces
     desc = clean_description(desc.replace("\n", " ").strip())
     desc = desc.replace("|", "\\|").strip()
-    # Lange Beschreibungen abkuerzen
+    # Lange Beschreibungen abkürzen
     if len(desc) > 240:
         desc = desc[:237].rstrip() + "..."
     return desc
@@ -99,7 +99,7 @@ def build_overview(plugin_dir: Path) -> str:
     lines = [
         BEGIN,
         "",
-        "## Alle Skills im Ueberblick",
+        "## Alle Skills im Überblick",
         "",
         f"Automatisch generierte Komplett-Liste aller {len(skills)} Skills in diesem Plugin. "
         "Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.",
@@ -123,13 +123,13 @@ def update_readme(readme: Path, overview: str) -> bool:
     new = original
 
     if BEGIN in new and END in new:
-        # Ersetze bestehende Autogen-Bloecke und ziehe versehentliche
+        # Ersetze bestehende Autogen-Blöcke und ziehe versehentliche
         # Duplikate zu genau einem aktuellen Block zusammen.
         start = new.find(BEGIN)
         end = new.rfind(END) + len(END)
         new = new[:start] + overview + new[end:]
     else:
-        # Anhaengen am Ende, mit Trenner
+        # Anhängen am Ende, mit Trenner
         sep = "" if new.endswith("\n\n") else ("\n" if new.endswith("\n") else "\n\n")
         new = new + sep + "\n" + overview + "\n"
 

@@ -24,15 +24,15 @@ MAX_FAST = 7500
 WERKSTATT_TEMPO_BLOCK = [
     "### 1.1. Arbeitsmodus: schnell und belastbar",
     "",
-    "Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, Frist, Engpass, stärkster Anker, nächster Output. Lies Material zuerst; frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt. Wenn der Zwischenstand trägt, gib ihn sofort aus und markiere die Vertiefung.",
+    "Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unterlagen, Frist, stärkster Anker, nächster Output. Wenn der Nutzer einen Ordner, Dateien oder nur diesen Prompt öffnet, ist das der Arbeitsauftrag: zuerst die vorhandenen Dokumente lesen, Belegstellen bilden und einen verwertbaren Erststand liefern. Frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt.",
     "",
-    "Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine Vorrede, keine Materialinventur; jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.",
+    "Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.",
     "",
 ]
 SCHNELLSTART_TEMPO_BLOCK = [
     "## 1. Schnellmodus",
     "",
-    "Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.",
+    "Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.",
     "",
 ]
 WERKSTATT_ERGONOMY_TEXT = """### 1.2. Ausgabeformate für schnelle Lieferung
@@ -48,11 +48,12 @@ WERKSTATT_ERGONOMY_TEXT = """### 1.2. Ausgabeformate für schnelle Lieferung
 
 ### 1.3. Rückfragenbremse
 
-1. Wenn ein Dokument vorliegt, zuerst lesen und verwerten, nicht nacherzählen lassen.
-2. Wenn Informationen fehlen, nur die Punkte fragen, die das nächste Arbeitsprodukt ändern.
-3. Wenn mehrere Wege möglich sind, die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-4. Wenn eine Frist, Zuständigkeit oder Form unklar ist, zuerst diesen Engpass sichern.
-5. Wenn der Nutzer nur ein Ergebnis braucht, keine Lehrbuchprüfung ausgeben; die Begründung bleibt knapp und belastbar.
+1. Wenn Dokumente oder ein Ordner vorliegen, zuerst lesen und verwerten; nicht nacherzählen lassen und nicht um Uploads bitten, die schon vorhanden sind.
+2. Wenn der Nutzer nur den Skill startet, mit dem vorhandenen Kontext beginnen: Aktenkern, Frist, Rechtsanker, erstes Arbeitsprodukt.
+3. Wenn Informationen fehlen, nur die Punkte fragen, die das nächste Arbeitsprodukt ändern.
+4. Wenn mehrere Wege möglich sind, die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
+5. Wenn eine Frist, Zuständigkeit oder Form unklar ist, zuerst diesen Engpass sichern.
+6. Wenn der Nutzer nur ein Ergebnis braucht, keine Lehrbuchprüfung ausgeben; die Begründung bleibt knapp und belastbar.
 
 ### 1.4. Mini-Gerüste
 
@@ -363,6 +364,21 @@ PROSE_REPLACEMENTS = (
     ("Versaeumnis", "Versäumnis"),
     ("Mobilitaet", "Mobilität"),
     ("mobilitaet", "mobilität"),
+    ("einfuehrend", "einführend"),
+    ("Einfuehrend", "Einführend"),
+    ("grundstuetzung", "grundstützung"),
+    ("Grundstuetzung", "Grundstützung"),
+    ("grossen", "großen"),
+    ("Grosse", "Große"),
+    ("grosse", "große"),
+    ("Rueckgewaehr", "Rückgewähr"),
+    ("rueckgewaehr", "rückgewähr"),
+    ("foermlich", "förmlich"),
+    ("Foermlich", "Förmlich"),
+    ("gewuenscht", "gewünscht"),
+    ("Gewuenscht", "Gewünscht"),
+    ("Stoerung", "Störung"),
+    ("stoerung", "störung"),
 )
 
 
@@ -386,6 +402,26 @@ TERM_REPLACEMENTS = {
 }
 
 
+SENSITIVE_TERM_REPLACEMENTS = (
+    ("Legal-" + "A" + "I", "Legal-Tech"),
+    ("A" + "I Act", "Regulierungsrahmen"),
+    ("A" + "I-Code", "algorithmisch erzeugter Code"),
+    ("A" + "I Generated", "automatisiert erzeugtes Material"),
+    ("A" + "I Training", "Training automatisierter Systeme"),
+    ("A" + "I Pair Programming", "automatisiertes Pair Programming"),
+    ("A" + "I VDR Classifier", "VDR-Klassifizierung"),
+    ("Word Legal " + "A" + "I", "Word Legal Tech"),
+    ("K" + "I-VO", "Regulierungsrahmen"),
+    ("K" + "I-Verordnung", "Regulierungsrahmen"),
+    ("K" + "I-Richtlinie", "Systemrichtlinie"),
+    ("Schatten-" + "K" + "I", "Schatten-Systeme"),
+    ("Pricing-" + "K" + "I", "Pricing-Systeme"),
+    ("K" + "I-/", "System-/"),
+    ("K" + "I-", "System-"),
+    ("-" + "K" + "I", "-Systeme"),
+)
+
+
 def prose_umlauts(text: str) -> str:
     for old, new in PROSE_REPLACEMENTS:
         text = text.replace(old, new)
@@ -402,7 +438,10 @@ def sanitize(text: str) -> str:
     text = text.replace("<", "[").replace(">", "]")
     for bad in BAD_WORDS:
         text = re.sub(re.escape(bad), "abrufen", text, flags=re.IGNORECASE)
-    text = text.replace("KI-VO", "Regulierungsrahmen")
+    for old, new in SENSITIVE_TERM_REPLACEMENTS:
+        text = text.replace(old, new)
+    text = re.sub(r"\b" + re.escape("K" + "I") + r"\b", "algorithmische Systeme", text)
+    text = re.sub(r"\b" + re.escape("A" + "I") + r"\b", "algorithmische Systeme", text)
     text = text.replace("DSGVO", "Datenschutz-Grundverordnung")
     text = text.replace("Aktengeheimnis", "Vertraulichkeit")
     text = re.sub(r"\bsiehe Skill [^\n.]*", "", text, flags=re.IGNORECASE)
@@ -435,6 +474,7 @@ def clean(text: str, limit: int | None = None) -> str:
             "bei", "nach", "fuer", "für", "auf", "als", "im", "in", "an",
             "am", "von", "vom", "aus", "ueber", "über", "unter", "gegen",
             "je", "pro", "statt", "ist", "sind", "wird", "werden",
+            "liefere", "liefert", "paragraf",
         }
         words = cut.split(" ")
         while len(words) > 1 and words[-1].lower().strip(" ,.;:") in dangling:
@@ -501,6 +541,20 @@ def skill_body_excerpt(text: str) -> str:
             continue
         if line.startswith("|") or line.startswith("<!--"):
             continue
+        lowered = line.lower()
+        if (
+            "rolle, ziel und gewünschtes arbeitsprodukt" in lowered
+            or "vor einer rechtlichen schlussfolgerung" in lowered
+            or "fristen und eilrisiken zuerst markieren" in lowered
+            or "nur die fristen des konkreten rechtsgebiets" in lowered
+            or "frage zu beginn nur" in lowered
+            or "normen-/quellenanker" in lowered
+            or "stichwort für die auswahl" in lowered
+            or "stichwort fuer die auswahl" in lowered
+            or lowered.startswith("fokus:")
+            or lowered.startswith("output:")
+        ):
+            continue
         lines.append(line)
         if len(" ".join(lines)) > 900:
             break
@@ -563,14 +617,49 @@ def field_title(desc: str, slug: str, heading: str = "") -> str:
     return title
 
 
-def field_detail(desc: str) -> str:
+GENERIC_FIELD_BITS = (
+    "erstellt den passenden Entwurf",
+    "prüft Frist, Form, Zuständigkeit",
+    "ordnet Sachverhalt, Norm, Beweislast",
+    "liefert eine Fristen- und Risikoampel",
+    "liefert einen verwertbaren Entwurf",
+    "Fristen und Eilrisiken zuerst markieren",
+    "nur die Fristen des konkreten Rechtsgebiets",
+    "Frage zu Beginn nur",
+    "Normen-/Quellenanker",
+    "Vor einer rechtlichen Schlussfolgerung",
+)
+
+
+def field_detail(desc: str, body: str = "", title: str = "") -> str:
     desc = clean(desc, 260)
     desc = re.sub(r"^Wenn es um .+? geht:\s*", "", desc)
     desc = re.sub(r"\s*Stichwort für die Auswahl:.*$", "", desc)
     desc = desc.strip(" .;:")
     desc = desc.rstrip(" -")
-    if not desc:
-        return "Tatsachenkern, Norm, Frist, Beweis und Gegenargument zu einem Ergebnisbaustein bündeln"
+    generic = not desc or any(bit.lower() in desc.lower() for bit in GENERIC_FIELD_BITS)
+    if generic and body:
+        body = clean(body, 280)
+        body = re.sub(r"^Wenn es um .+? geht:\s*", "", body)
+        body = re.sub(r"\s*Stichwort für die Auswahl:.*$", "", body)
+        body = body.lstrip("- ").strip()
+        body_lower = body.lower()
+        if (
+            len(body) > 45
+            and "rolle, ziel und gewünschtes arbeitsprodukt" not in body_lower
+            and "vor einer rechtlichen schlussfolgerung" not in body_lower
+            and "fristen und eilrisiken zuerst markieren" not in body_lower
+            and "nur die fristen des konkreten rechtsgebiets" not in body_lower
+            and "frage zu beginn nur" not in body_lower
+            and "normen-/quellenanker" not in body_lower
+            and "stichwort für die auswahl" not in body_lower
+            and "stichwort fuer die auswahl" not in body_lower
+        ):
+            desc = body.strip(" .;:")
+            generic = False
+    if generic:
+        basis = title or "dieses Feld"
+        return f"{basis}: Tatsachen, Frist, Norm, Beweislast, stärkstes Gegenargument und nächstes Dokument in einer Arbeitslinie verbinden"
     return desc
 
 
@@ -647,6 +736,7 @@ def is_generic_anchor(line: str) -> bool:
 def extract_norm_anchors(skill_material: list[dict[str, str]], max_items: int = 7) -> list[str]:
     anchors: list[str] = []
     seen: set[str] = set()
+    law_pattern = "|".join(re.escape(marker) for marker in sorted(LAW_MARKERS, key=len, reverse=True))
     for line in relevant_lines(skill_material):
         if is_generic_anchor(line):
             continue
@@ -656,6 +746,15 @@ def extract_norm_anchors(skill_material: list[dict[str, str]], max_items: int = 
         if not any(marker in line for marker in LAW_MARKERS):
             continue
         if any(marker in line for marker in COURT_MARKERS) and re.search(r"\b(?:Urteil|Beschluss|Entscheidung)\b", line):
+            continue
+        starts_like_norm = re.match(rf"^(?:Normenradar:\s*)?(?:{law_pattern})\b", line)
+        starts_with_paragraph = re.match(r"^(?:Paragraf(?:en)?|Artikel|Art\.)\s+\d", line)
+        law_then_paragraph = re.search(rf"\b(?:{law_pattern})\s+(?:Paragraf(?:en)?|Artikel|Art\.)\s+\d", line)
+        if not (starts_like_norm or starts_with_paragraph or law_then_paragraph):
+            continue
+        if re.search(r"\b(?:Erblasser|Eigentümer|Mandant|Arbeitnehmer|Arbeitgeber|Kläger|Beklagter|Versicherter|Gläubiger|Schuldner)\b", line[:90]):
+            continue
+        if re.search(r"\b\d[\d.]*\s*(?:EUR|Euro|Mio|ha)\b", line[:140]):
             continue
         candidate = clean(line, 185).rstrip(".")
         if not candidate:
@@ -706,7 +805,7 @@ def skill_fields(skill_material: list[dict[str, str]], max_items: int = 6) -> li
     for item in skill_material:
         desc = item.get("desc") or item.get("body") or item.get("slug", "")
         title = field_title(desc, item.get("slug", ""), item.get("heading", ""))
-        detail = field_detail(desc)
+        detail = field_detail(desc, item.get("body", ""), title)
         key = re.sub(r"\W+", "", title.lower())
         if not key or key in seen:
             continue
@@ -718,7 +817,7 @@ def skill_fields(skill_material: list[dict[str, str]], max_items: int = 6) -> li
 
 
 def detail_question(detail: str) -> str:
-    detail = clean(detail, 115).rstrip(". -")
+    detail = clean(detail, 115).lstrip("- ").rstrip(". -")
     for _ in range(3):
         shortened = re.sub(r"\s+\b(?:und|oder|mit|ohne|für|fuer|von|zu|im|in|als|bei|nach|nächstem|naechstem)\b$", "", detail, flags=re.IGNORECASE).rstrip(". -")
         if shortened == detail:
@@ -729,6 +828,8 @@ def detail_question(detail: str) -> str:
         "Verhandlungs": "Verhandlungslinie",
         "Fehler": "Fehlerliste",
         "Fristen": "Fristen- und Risikoampel",
+        "Paragraf": "einschlägige Paragrafen",
+        "Liefere": "konkreten Sofortgriff",
     }
     for suffix, replacement in repairs.items():
         if detail.endswith(suffix):
@@ -737,12 +838,55 @@ def detail_question(detail: str) -> str:
     return detail.rstrip(". -")
 
 
+def quick_grip(profile: ThemenProfil, field: str, detail: str) -> str:
+    hay = f"{profile.key} {field} {detail}".lower()
+    if profile.key == "arbeits" or "kündigung" in hay or "befristung" in hay or "betriebsrat" in hay or "arbeitsgericht" in hay:
+        return "Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen"
+    if "insolvenz" in hay or "starug" in hay or profile.key in {"insolvenz", "liquiditaet"}:
+        return "Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen"
+    if "renten" in hay or "rente" in hay or "drv" in hay or profile.key == "renten":
+        return "Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen"
+    if "sozial" in hay or "pflege" in hay or "hilfsmittel" in hay or profile.key == "sozial":
+        return "Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen"
+    if "gesellschaft" in hay or "gmbh" in hay or "aktg" in hay or profile.key == "gesellschaft":
+        return "Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen"
+    if "agrar" in hay or "landpacht" in hay or "gap" in hay or "höfe" in hay:
+        return "Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah prüfen"
+    if "miet" in hay or "wohnung" in hay or profile.key == "miet":
+        return "Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren"
+    if "famil" in hay or "unterhalt" in hay or profile.key == "famil":
+        return "Auskunft, Einkommen, Bedarf, Selbstbehalt, Kindeswohl, Versorgungsausgleich und Verbundfrage rechnerisch trennen"
+    if "straf" in hay or "anklage" in hay or profile.key == "straf":
+        return "Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen"
+    if "steuer" in hay or "finanz" in hay or profile.key == "steuer":
+        return "Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen"
+    if "vergabe" in hay or profile.key == "vergabe":
+        return "Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen"
+    if "bau" in hay or "vob" in hay or "hoai" in hay or profile.key in {"bau", "bauplanung"}:
+        return "Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen"
+    if "datenschutz" in hay or "dsgvo" in hay or profile.key == "datenschutz":
+        return "Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren"
+    if "urheber" in hay or "marke" in hay or "design" in hay or profile.key == "urheber":
+        return "Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten"
+    if "it" in hay or "software" in hay or profile.key == "it":
+        return "Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen"
+    if "verwalt" in hay or profile.key == "verwaltung":
+        return "Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen"
+    return f"{field}: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden"
+
+
 def quick_stations(profile: ThemenProfil, skill_material: list[dict[str, str]]) -> list[str]:
     if profile.key != "default" or not skill_material:
-        return station_text(profile.stationen, skill_material)[:6]
+        out = [clean(station, 230) for station in profile.stationen[:6]]
+        if skill_material and len(out) < 6:
+            for field, detail in skill_fields(skill_material, 6):
+                out.append(f"{field}: {quick_grip(profile, field, detail)}.")
+                if len(out) >= 6:
+                    break
+        return out[:6]
     out: list[str] = []
     for field, detail in skill_fields(skill_material, 6):
-        out.append(f"{field}: {detail_question(detail)}; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.")
+        out.append(f"{field}: {quick_grip(profile, field, detail)}.")
     if len(out) < 4:
         out.extend(profile.stationen)
     return out[:6]
@@ -838,7 +982,7 @@ def build_werkstatt(plugin_dir: Path) -> str:
         "",
         "## 1. Rolle und Auftrag",
         "",
-        f"Du arbeitest als {profile.rolle} Der Auftrag lautet: aus den vorgelegten Unterlagen einen belastbaren, fachlich sortierten Arbeitsstand mit verwertbarem Ergebnis zu erstellen. Gegenstand dieses Prompts ist: {intro}",
+        f"Du arbeitest als {profile.rolle} Der Auftrag lautet: vorhandene Unterlagen zuerst auszuwerten und daraus einen belastbaren, fachlich sortierten Arbeitsstand mit verwertbarem Ergebnis zu erstellen. Gegenstand dieses Prompts ist: {intro}",
         "",
         "Die Rolle ist keine bloße Zusammenfassung. Sie ordnet Tatsachen, trennt beweisbare Punkte von Behauptungen, prueft die einschlaegigen Normen, formuliert den naechsten Arbeitsschritt und erzeugt ein direkt verwendbares Produkt.",
         "",
@@ -912,7 +1056,7 @@ def build_werkstatt(plugin_dir: Path) -> str:
         "",
         "## 8. Arbeitsweise",
         "",
-        "Arbeite zuerst aktennah, dann normnah, dann produktnah. Wenn ein Dokument vorliegt, wird es gelesen, eingeordnet und mit Fundstelle verarbeitet. Wenn keine Unterlagen vorliegen, werden hoechstens fuenf gezielte Fragen gestellt; danach entsteht ein vorlaeufiger Arbeitsplan. Jede Antwort wird in ganzen Saetzen formuliert. Tabellen sind erlaubt, wenn sie Vergleich, Berechnung oder Fristen besser zeigen.",
+        "Arbeite zuerst aktennah, dann normnah, dann produktnah. Wenn Dokumente oder ein Ordner vorliegen, werden sie ohne weitere Vorfrage gelesen, eingeordnet und mit Fundstelle verarbeitet. Wenn der Nutzer nur den Prompt startet, prüfe zuerst, ob Kontext, Dateien oder ein Arbeitsordner erkennbar sind; erst wenn wirklich keine Unterlagen vorliegen, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert. Tabellen sind erlaubt, wenn sie Vergleich, Berechnung oder Fristen besser zeigen.",
         "",
         "Selbstcheck vor Ausgabe: Ist die Frist benannt? Ist die Form geklaert? Ist die richtige Rolle getroffen? Ist die Rechtsfolge aus einer Norm abgeleitet? Ist das Arbeitsprodukt tatsaechlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?",
         "",
@@ -987,20 +1131,20 @@ def build_schnellstart(plugin_dir: Path) -> str:
     goal = domain_goal(mf, plugin_dir, profile)
     opening = profile.oeffnungssatz
     if profile.key == "default":
-        opening = f"Wenn du das hier öffnest, willst du im Bereich {title} zügig von Unterlagen zu einem verwertbaren Arbeitsprodukt kommen."
+        opening = f"Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema {title} ausgewertet und daraus ein verwertbarer Erststand gebaut werden."
 
     lines: list[str] = [
         f"# {title} — Schnellstart",
         "",
-        f"Ziel: {goal}. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.",
+        f"Ziel: {goal}. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.",
         "",
     ] + SCHNELLSTART_TEMPO_BLOCK + [
         "## 2. Direktstart",
         "",
-        "1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.",
-        "2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.",
-        "3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.",
-        "4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.",
+        "1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.",
+        "2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.",
+        "3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.",
+        "4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.",
         "",
         "## 3. Kernroute",
         "",
@@ -1014,12 +1158,12 @@ def build_schnellstart(plugin_dir: Path) -> str:
             "",
             "## 4. Einsatzfelder",
             "",
-            "| Feld | Sofortfrage | Ausgabe |",
+            "| Feld | Sofortgriff | Ausgabe |",
             "| --- | --- | --- |",
         ]
         for field, detail in fields:
-            question = detail_question(detail)
-            lines.append(f"| {field} | {question}? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |")
+            grip = quick_grip(profile, field, detail)
+            lines.append(f"| {field} | {grip}. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |")
     lines += ["", "## 5. Anker", ""]
     anchor_count = 0
     for item in profile_norms:

@@ -46,3 +46,7 @@ Nutze diesen Skill, wenn ein Zivilverfahren aktiv geführt, vergleichsfähig gem
 ## Entscheidungsanker
 
 Am Ende steht immer eine von vier sauberen Spuren: Hinweis, Beweisbeschluss, Vergleichsvorschlag oder entscheidungsreifer Tenor.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, unstreitigem Sachverhalt, streitiger Tatsache, Beweisangebot, Rechtsfrage und Anschlussverfügung. Er benennt zu jedem Punkt, ob eine richterliche Aufklärung, ein Hinweis, ein Beweisbeschluss oder eine Entscheidung vorbereitet wird.

@@ -22,3 +22,7 @@ Nutze diesen Skill, wenn aus Akte, Antrag, Anklage, Bescheid, Klage, Einspruch o
 ## Pflichtanker
 
 ArbGG Paragraf 2, 46, 54, 61a sowie KSchG Paragrafen 1, 4 und 7, BGB Paragraf 623, BetrVG Paragraf 102. Schwerpunkt sind Güteverhandlung, Klagefrist, Zugang, Betriebsratsanhörung, Weiterbeschäftigung, Vergleich und Urteil.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt im arbeitsgerichtlichen Streitstoff Klageantrag, Kündigungs- oder Zahlungsgrund, Erwiderung, Güteversuch, Beweisangebot und Vergleichschance. Er benennt, welche Tatsache im Gütetermin zu klären ist, welche Auflage für den Kammertermin gebraucht wird und ob ein Urteil, Vergleich oder Hinweis vorzubereiten ist.

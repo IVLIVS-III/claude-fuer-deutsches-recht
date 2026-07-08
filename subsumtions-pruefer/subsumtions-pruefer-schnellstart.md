@@ -1,49 +1,49 @@
-Wenn du das hier öffnest, willst du im Bereich Subsumtions Prüfer zügig von Unterlagen zu einem verwertbaren Arbeitsprodukt kommen.
+Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Subsumtions Prüfer ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
 
 # Subsumtions Prüfer — Schnellstart
 
-Ziel: Interaktiver Subsumtions-Workflow für deutsches Recht und EUroparecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
-1. Anwenden Quellenkarte: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-2. Beweisbedarf und Belege erfassen: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-3. Darlegungs- und Beweislast verteilen: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-4. Dokumentenintake: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-5. Einreden: Compliance-Dokumentation und Aktenvermerk: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-6. Einschlägige Normen vorschlagen — Deutsches Recht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
+1. Anwenden Quellenkarte: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+2. Beweisbedarf und Belege erfassen: Beweisbedarf und Belege erfassen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+3. Darlegungs- und Beweislast verteilen: Darlegungs- und Beweislast verteilen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+4. Dokumentenintake: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+5. Einreden: Compliance-Dokumentation und Aktenvermerk: Einreden: Compliance-Dokumentation und Aktenvermerk: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+6. Einschlägige Normen vorschlagen — Deutsches Recht: Einschlägige Normen vorschlagen — Deutsches Recht: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anwenden Quellenkarte | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweisbedarf und Belege erfassen | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Darlegungs- und Beweislast verteilen | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dokumentenintake | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einreden: Compliance-Dokumentation und Aktenvermerk | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einschlägige Normen vorschlagen — Deutsches Recht | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwenden Quellenkarte | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweisbedarf und Belege erfassen | Beweisbedarf und Belege erfassen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Darlegungs- und Beweislast verteilen | Darlegungs- und Beweislast verteilen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Dokumentenintake | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Einreden: Compliance-Dokumentation und Aktenvermerk | Einreden: Compliance-Dokumentation und Aktenvermerk: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Einschlägige Normen vorschlagen — Deutsches Recht | Einschlägige Normen vorschlagen — Deutsches Recht: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
-- 3. Ist die Tatsache streitig — oder unstreitig/offenkundig (Paragraf 291 ZPO)?: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 4. Liegt bereits ein Beweisbeschluss (Paragraf 359 ZPO) vor?: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 5. Besteht Gefahr im Verzug? → Antrag auf Sicherung des Beweises Paragrafen 485-494a ZPO prüfen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 355-484 ZPO — Beweisaufnahme allgemein: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 286 ZPO — Freie Beweiswürdigung; volle richterliche Überzeugung erforderlich: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 287 ZPO — Schadensschätzung bei Ausschluss anderer Beweismittel: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 415 ff. ZPO — Urkundsbeweis (öffentliche und private Urkunden): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 373 ff. ZPO — Zeugenbeweis: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 402 ff. ZPO — Sachverständigenbeweis: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 371 ff. ZPO — Augenschein und elektronische Dokumente: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH VI ZR 290/18 (abrufen): Aktenzeichen existiert auf dejure.org nicht. Gesamte Zeile aus "Aktuelle Rechtsprechung" entfernt
 
 ## 6. Antwortform

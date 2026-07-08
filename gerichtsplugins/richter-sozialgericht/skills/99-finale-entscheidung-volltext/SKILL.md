@@ -99,3 +99,7 @@ Bevor der Volltext freigegeben wird, durchlaeuft der Skill eine Eigenkontrolle:
 6. Sind alle Lückenpunkte explizit markiert?
 
 Erst nach bestandener Eigenkontrolle wird der Volltext als final ausgegeben.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den sozialgerichtlichen Streitstoff nach Bescheid, Widerspruchsbescheid, Verwaltungsakte, Klagebegründung, medizinischer oder beitragsrechtlicher Tatsache und Amtsermittlung. Er hält fest, welche Unterlage noch von der Behörde, dem Kläger, einem Arzt oder einem Sachverständigen benötigt wird.

@@ -1,26 +1,5 @@
 # Phishing-Vorfall-Prüfer
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`phishing-vorfall-pruefer`) | [`phishing-vorfall-pruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/phishing-vorfall-pruefer.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Akte Phishing-Vorfall Mayer ./. Sparkasse Berlin** (`phishing-vorfall-mayer-sparkasse-berlin`) | [Gesamt-PDF lesen](../testakten/phishing-vorfall-mayer-sparkasse-berlin/gesamt-pdf/phishing-vorfall-mayer-sparkasse-berlin_gesamt.pdf) | [`testakte-phishing-vorfall-mayer-sparkasse-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-phishing-vorfall-mayer-sparkasse-berlin.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -114,8 +93,8 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `call-interessen-faelle-freistehender` | Wenn es um Call: Mehrparteienkonflikt und Interessenmatrix in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `dokumente-intake` | Wenn es um Dokumentenintake in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `einstieg-routing` | Wenn es um Einstieg und Routing in Phishing-Vorfall-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `faelle-abschlussprodukt-und-uebergabe` | Wenn es um Fälle: Abschlussprodukt und Übergabe in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `fahrlaessigkeit-fehlerkatalog` | Wenn es um Fahrlässigkeit Fehlerkatalog in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `faelle-abschlussprodukt-und-uebergabe` | Wenn es um Faelle: Abschlussprodukt und Übergabe in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `fahrlaessigkeit-fehlerkatalog` | Wenn es um Fahrlaessigkeit Fehlerkatalog in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `freistehender-erstpruefung-und-mandatsziel` | Wenn es um Freistehender: Erstprüfung, Rollenklärung und Mandatsziel in Phishing-Vorfall-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `grobe-online-phishing` | Wenn es um Grobe: Formular, Portal und Einreichungslogik in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `klage-fristennotiz-vorfall-phish-banking` | Wenn es um Klage: Fristennotiz und nächster Schritt in Phishing-Vorfall-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -127,20 +106,20 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `phish-meldepflichten-leitfaden` | Wenn es um Phish: Meldepflichten in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `phishing-arten-erkennen` | Wenn es um Phishing-Arten erkennen in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `phishing-bank-strategie` | Wenn es um Anschreiben an die Bank in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `phishing-banking-app-malware` | Wenn es um Banking-App-Malware-Fälle in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `phishing-banking-app-malware` | Wenn es um Banking-App-Malware-Faelle in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `phishing-bgb-675u-haftung` | Wenn es um Paragraf 675u BGB Prüfraster in Phishing-Vorfall-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `phishing-bgb-675v-grobfahrlaessig` | Wenn es um Paragraf 675v Grobfahrlässigkeitsprüfung in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `phishing-bgb-675v-grobfahrlaessig` | Wenn es um Paragraf 675v Grobfahrlaessigkeitspruefung in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `phishing-erstkontakt-mandant` | Wenn es um Phishing: Erstkontakt Mandant in Phishing-Vorfall-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `phishing-faelle-rentner-kryptowaehrung` | Wenn es um Phishing-Fälle älterer Mandanten in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `phishing-kryptowaehrung-recovery` | Wenn es um Phishing mit Kryptowährung in Phishing-Vorfall-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `phishing-faelle-rentner-kryptowaehrung` | Wenn es um Phishing-Faelle aelterer Mandanten in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `phishing-kryptowaehrung-recovery` | Wenn es um Phishing mit Kryptowaehrung in Phishing-Vorfall-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `phishing-mit-geschaeftskonto` | Wenn es um Phishing gegen Geschäftskonto in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `phishing-praeventionscheckliste-strafanzeige` | Wenn es um Phishing-Prävention in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `phishing-praeventionscheckliste-strafanzeige` | Wenn es um Phishing-Praevention in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `phishing-strafanzeige-vorbereiten` | Wenn es um Strafanzeige Paragraf 263a StGB in Phishing-Vorfall-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `phishing-supply-chain-bec` | Wenn es um BEC/Rechnungs-Phishing in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `phishing-tan` | Wenn es um Mandantenkommunikation in Phishing-Vorfall-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage. |
 | `phishing-tan-verfahren-vergleich` | Wenn es um TAN-Verfahren und Haftung in Phishing-Vorfall-Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `phishing-tatbestand-beweis-und-belege` | Wenn es um Phishing: Tatbestandsmerkmale, Beweisfragen und Beleglage in Phishing-Vorfall-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `phishing-versicherer-cyber` | Wenn es um Cyberversicherung prüfen in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `phishing-versicherer-cyber` | Wenn es um Cyberversicherung pruefen in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `phishing-zivilklage-bank` | Wenn es um Zivilklage gegen Bank in Phishing-Vorfall-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `pruefen` | Wenn es um Phishing-Vorfall Prüfen in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `pushtan-compliance-dokumentation-und-akte` | Wenn es um Pushtan: Compliance-Dokumentation und Aktenvermerk in Phishing-Vorfall-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schr... |
@@ -148,8 +127,8 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `quellen-livecheck` | Wenn es um Rechtsquellen-Livecheck in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schlichtung-sonderfall-und-edge-case` | Wenn es um Schlichtung: Sonderfall und Edge-Case-Prüfung in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-675v-livequellen-und-rechtsprechungscheck` | Wenn es um 675V: Livequellen- und Rechtsprechungscheck in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `spezial-fahrlaessigkeit-red-team-und-qualitaetskontrolle` | Wenn es um Fahrlässigkeit: Red-Team und Qualitätskontrolle in Phishing-Vorfall-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `spezial-pruefer-dokumentenmatrix-und-lueckenliste` | Wenn es um Prüfer: Dokumentenmatrix, Lückenliste und Nachforderung in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-fahrlaessigkeit-red-team-und-qualitaetskontrolle` | Wenn es um Fahrlaessigkeit: Red-Team und Qualitätskontrolle in Phishing-Vorfall-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-pruefer-dokumentenmatrix-und-lueckenliste` | Wenn es um Pruefer: Dokumentenmatrix, Lückenliste und Nachforderung in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spoofing-internationaler-bezug-und-schnittstellen` | Wenn es um Spoofing: Internationaler Bezug und Schnittstellen in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `start-chronologie-fristen` | Wenn es um Phishing Vorfall Prüfer — Allgemein in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `unterlagen-luecken` | Wenn es um Unterlagen und Lücken in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

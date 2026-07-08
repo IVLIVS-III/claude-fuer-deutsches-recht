@@ -1,26 +1,5 @@
 # hausarbeitenmacher — Didaktisches Plugin für juristische Hausarbeiten und Seminararbeiten
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`hausarbeitenmacher`) | [`hausarbeitenmacher.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hausarbeitenmacher.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Hausarbeit BGB Übung Fortgeschrittene — Pohlmann / Leipzig / SS 26** (`hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung`) | [Gesamt-PDF lesen](../testakten/hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung/gesamt-pdf/hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung_gesamt.pdf) | [`testakte-hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -287,7 +266,7 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `adressaten-formular-portal-und-einreichung` | Wenn es um Adressaten: Formular, Portal und Einreichungslogik in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit So... |
 | `anschluss-routing` | Wenn es um Anschluss-Routing in hausarbeitenmacher — Didaktisches Plugin für juristische geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `aufgabenstellung-erfassen-fachgebiet` | Wenn es um Aufgabenstellung erfassen in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `ausfluegen-didaktisches-durch` | Wenn es um Ausflügen: Compliance-Dokumentation und Aktenvermerk in hausarbeitenmacher — Didaktisches Plugin für juristische geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Pr... |
+| `ausfluegen-didaktisches-durch` | Wenn es um Ausfluegen: Compliance-Dokumentation und Aktenvermerk in hausarbeitenmacher — Didaktisches Plugin für juristische geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Pr... |
 | `bearbeitungsplan-erstellen` | Wenn es um Bearbeitungs-Plan erstellen in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `behutsame-frech-haeufige-fehler` | Wenn es um Behutsame, frech-wertschätzende Rückfragen — Stil-Anleitung in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoamp... |
 | `didaktisches-erstpruefung-und-mandatsziel` | Wenn es um Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel in hausarbeitenmacher — Didaktisches Plugin für juristische geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Ri... |
@@ -298,13 +277,13 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `europarecht-interessen-fertigen-sonderfall` | Wenn es um Europarecht: Mehrparteienkonflikt und Interessenmatrix in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mi... |
 | `fachgebiet-routing-zivil-oeffentlich-straf` | Wenn es um Fachgebiet-Routing: Zivilrecht — Öffentliches Recht — Strafrecht in hausarbeitenmacher — Didaktisches Plugin für juristische geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen... |
 | `fertigen-sonderfall-und-edge-case` | Wenn es um Fertigen: Sonderfall und Edge-Case-Prüfung in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschr... |
-| `fuehrt-risikoampel-und-gegenargumente` | Wenn es um Führt: Risikoampel, Gegenargumente und Verteidigungslinien in hausarbeitenmacher — Didaktisches Plugin für juristische geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risi... |
+| `fuehrt-risikoampel-und-gegenargumente` | Wenn es um Fuehrt: Risikoampel, Gegenargumente und Verteidigungslinien in hausarbeitenmacher — Didaktisches Plugin für juristische geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risi... |
 | `gliederung-mit-tiefenstruktur` | Wenn es um Gliederung mit Tiefen-Struktur in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `gutachtenstil-vs-haus-fussnotenstil` | Wenn es um Gutachtenstil und Urteilsstil in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `haeufige-fehler-vermeiden` | Wenn es um Häufige Fehler vermeiden — Top-20 in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `haus-fussnotenstil-spezial` | Wenn es um Haus: Fussnotenstil in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `haus-literaturrecherche-leitfaden` | Wenn es um Haus: Literaturrecherche in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `haus-plagiatscheck-themaeingrenzung` | Wenn es um Haus: Plagiatscheck Eigenständigkeit in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `haus-plagiatscheck-themaeingrenzung` | Wenn es um Haus: Plagiatscheck Eigenstaendigkeit in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `haus-themaeingrenzung-bauleiter` | Wenn es um Haus: Themaeingrenzung in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `hausarbeit-quellenrecherche-rspr-literatur` | Wenn es um Fristen- und Risikoampel in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `hausarbeit-start` | Wenn es um Hausarbeitenmacher — Allgemein in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -314,7 +293,7 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `liefert-beweislast-und-darlegungslast` | Wenn es um Liefert: Beweislast, Darlegungslast und Substantiierung in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel m... |
 | `meinungsstreit-darstellen` | Wenn es um Meinungsstreit darstellen in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `methodenlehre-auslegung-oeffentliches` | Wenn es um Methodenlehre und Auslegung in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `oeffentliches-quellenkarte` | Wenn es um Öffentliches Quellenkarte in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `oeffentliches-quellenkarte` | Wenn es um Oeffentliches Quellenkarte in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `oeffentliches-recht-statthaft-zulaessig-begruendet` | Wenn es um Öffentliches Recht — Statthaftigkeit, Zulässigkeit, Begründetheit in hausarbeitenmacher — Didaktisches Plugin für juristische geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen-... |
 | `output-waehlen` | Wenn es um Output wählen in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `professor-erkennen-und-strategie` | Wenn es um Professor erkennen und Strategie wählen in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -328,7 +307,7 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `seminararbeiten-dokumentenmatrix-und-lueckenliste` | Wenn es um Seminararbeiten: Dokumentenmatrix, Lückenliste und Nachforderung in hausarbeitenmacher — Didaktisches Plugin für juristische geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachf... |
 | `sokratisch-behoerden-gericht-und-registerweg` | Wenn es um Sokratisch: Behörden-, Gerichts- oder Registerweg in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sof... |
 | `spezial-durch-schriftsatz-brief-und-memo-bausteine` | Wenn es um Durch: Schriftsatz-, Brief- und Memo-Bausteine in hausarbeitenmacher — Didaktisches Plugin für juristische geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit A... |
-| `spezial-oeffentliches-livequellen-und-rechtsprechungscheck` | Wenn es um Öffentliches: Livequellen- und Rechtsprechungscheck in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit... |
+| `spezial-oeffentliches-livequellen-und-rechtsprechungscheck` | Wenn es um Oeffentliches: Livequellen- und Rechtsprechungscheck in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit... |
 | `spezial-strategie-red-team-und-qualitaetskontrolle` | Wenn es um Strategie: Red-Team und Qualitätskontrolle in hausarbeitenmacher — Didaktisches Plugin für juristische geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofor... |
 | `strafrecht-tatbestand-rechtswidrigkeit-schuld` | Wenn es um Strafrecht — Drei-Stufen-Aufbau: Tatbestand, Rechtswidrigkeit, Schuld in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und... |
 | `strafrecht-zivilrecht-rechtswidrigkeit` | Wenn es um Strafrecht: Zahlen, Schwellenwerte und Berechnung in hausarbeitenmacher — Didaktisches Plugin für juristische geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwelle... |

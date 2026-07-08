@@ -1,26 +1,5 @@
 # Vereinsrecht und Vereinsmanager
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`vereinsrecht-vereinsmanager`) | [`vereinsrecht-vereinsmanager.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/vereinsrecht-vereinsmanager.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Vereinskasse, Sponsoring und Untreue Kassel** (`strafrecht-untreue-vereinskasse-kassel`) | [Gesamt-PDF lesen](../testakten/strafrecht-untreue-vereinskasse-kassel/gesamt-pdf/strafrecht-untreue-vereinskasse-kassel_gesamt.pdf) | [`testakte-strafrecht-untreue-vereinskasse-kassel.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-untreue-vereinskasse-kassel.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -145,7 +124,7 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `vorstandswahl-vorstandswechsel-register` | Wenn es um Vorstandswahl in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
 | `vorstandswechsel-register` | Wenn es um Vorstandswechsel Register in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `wirtschaftlicher-verein` | Wenn es um Wirtschaftlicher Verein in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
-| `zweckaenderung` | Wenn es um Zweckänderung in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
+| `zweckaenderung` | Wenn es um Zweckaenderung in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
 | `zweckbetrieb` | Wenn es um Zweckbetrieb in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

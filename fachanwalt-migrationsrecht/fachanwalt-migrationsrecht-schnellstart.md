@@ -1,50 +1,50 @@
-Wenn du das hier öffnest, willst du im Bereich Fachanwalt Migrationsrecht zügig von Unterlagen zu einem verwertbaren Arbeitsprodukt kommen.
+Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Fachanwalt Migrationsrecht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
 
 # Fachanwalt Migrationsrecht — Schnellstart
 
-Ziel: Großer Fachanwalt-Kompass Migrationsrecht mit über 200 Skills für Aufenthalt, Blaue Karte EU, Fachkräfte, Asyl, Dublin/GEAS, Einbürgerung, Staaten-/Gebietschecks und spanische/einfache Erklärung. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Großer Fachanwalt-Kompass Migrationsrecht mit über 200 Skills für Aufenthalt, Blaue Karte EU, Fachkräfte, Asyl, Dublin/GEAS, Einbürgerung, Staaten-/Gebietschecks und spanische/einfache Erklärung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
-1. Abschiebehaft Paragraf 62 AufenthG: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-2. Abschiebung abwehren — Duldung Paragraf 60a AufenthG Abschiebungsverbote Paragraf 60 Abs: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko.
-3. Abschiebungshaft: Fachmodul im Migrationsrecht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-4. Abschiebungsverbot Paragraf 60 Abs: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-5. Akteneinsicht Migration: Fachmodul im Migrationsrecht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-6. Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
+1. Abschiebehaft Paragraf 62 AufenthG: Abschiebehaft Paragraf 62 AufenthG: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+2. Abschiebung abwehren — Duldung Paragraf 60a AufenthG Abschiebungsverbote Paragraf 60 Abs: Abschiebung abwehren — Duldung Paragraf 60a AufenthG Abschiebungsverbote Paragraf 60 Abs: Tatsachen, Frist, Zuständigkeit, Norm.
+3. Abschiebungshaft: Fachmodul im Migrationsrecht: Abschiebungshaft: Fachmodul im Migrationsrecht: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+4. Abschiebungsverbot Paragraf 60 Abs: Abschiebungsverbot Paragraf 60 Abs: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+5. Akteneinsicht Migration: Fachmodul im Migrationsrecht: Akteneinsicht Migration: Fachmodul im Migrationsrecht: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein.
+6. Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht: Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abschiebehaft Paragraf 62 AufenthG | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschiebung abwehren — Duldung Paragraf 60a AufenthG Abschiebungsverbote Paragraf 60 Abs | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschiebungshaft: Fachmodul im Migrationsrecht | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschiebungsverbot Paragraf 60 Abs | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Akteneinsicht Migration: Fachmodul im Migrationsrecht | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschiebehaft Paragraf 62 AufenthG | Abschiebehaft Paragraf 62 AufenthG: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschiebung abwehren — Duldung Paragraf 60a AufenthG Abschiebungsverbote Paragraf 60 Abs | Abschiebung abwehren — Duldung Paragraf 60a AufenthG Abschiebungsverbote Paragraf 60 Abs: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschiebungshaft: Fachmodul im Migrationsrecht | Abschiebungshaft: Fachmodul im Migrationsrecht: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschiebungsverbot Paragraf 60 Abs | Abschiebungsverbot Paragraf 60 Abs: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Akteneinsicht Migration: Fachmodul im Migrationsrecht | Akteneinsicht Migration: Fachmodul im Migrationsrecht: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht | Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
-- Abschiebungsverbote Paragraf 60 Abs. 5 AufenthG (EMRK) und Paragraf 60 Abs. 7 AufenthG (erhebliche konkrete Gefahr für Leib und Leben): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Inlandsbezogene Vollstreckungshindernisse — Familieneinheit Art. 6 GG, Privat- und Familienleben Art. 8 EMRK: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Eilrechtsschutz: Paragraf 80 Abs. 5 VwGO bei vollziehbarem Verwaltungsakt; Paragraf 123 VwGO bei Anspruch auf Duldung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Asylfolgeantrag Paragraf 71 AsylG bei neuen Beweismitteln/Wiederaufgreifensgründen Paragraf 51 VwVfG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Antragsteller trägt Glaubhaftmachung Paragraf 123 Abs. 3 VwGO i.V.m. Paragraf 920 Abs. 2 ZPO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - VwGO-Klage gegen ausländerbehördliche Bescheide: ein Monat Paragraf 74 VwGO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 1. Statthaftigkeit Paragraf 80 Abs. 5 VwGO oder Paragraf 123 VwGO?: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Dublin-III: EUGH, Urt. v. 05.03.2026 — C-458/24 (Daraa) — Zuständigkeit geht nach Ablauf 6-Monatsfrist (Art. 29 Abs. 2 Dublin-III-VO) auf ersuchenden Mitgliedstaat über, wenn Überstellung an den primär
+- Paragraf 60 Abs. 5 AufenthG — Abschiebungsverbot Art. 3 EMRK; Paragraf 60 Abs. 7 — konkrete Leibes- und Lebensgefahr: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 123 VwGO — Einstweilige Anordnung bei Anspruch auf Duldung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 80 Abs. 5 VwGO — Antrag auf Wiederherstellung / Anordnung der aufschiebenden Wirkung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 71 AsylG — Asylfolgeantrag bei neuen Wiederaufgreifensgründen (Paragraf 51 VwVfG): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 6 GG / Art. 8 EMRK — Familienschutz als inlandsbezogenes Vollstreckungshindernis: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 920 Abs. 2 ZPO iVm Paragraf 123 Abs. 3 VwGO durch beigefuegte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Dublin-III: EuGH, Urt. v. 05.03.2026 — C-458/24 (Daraa) — Zuständigkeit geht nach Ablauf 6-Monatsfrist (Art. 29 Abs. 2 Dublin-III-VO) auf ersuchenden Mitgliedstaat über, wenn Überstellung an den primär
 - Verifizierte Rechtsprechungsanker: BVerwG, Urteil vom 13.12.2023 - 1 C 34.22 und BVerwG, Urteil vom 18.12.2025 - 1 C 27.24 zur Identitätsklärung/Stufenmodell im Einbürgerungsrecht; BVerwG, Urteil
 
 ## 6. Antwortform

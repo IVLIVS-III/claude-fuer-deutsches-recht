@@ -1,27 +1,5 @@
 # Jurastudium-Plugin
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`jurastudium`) | [`jurastudium.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/jurastudium.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Examensbegleitung Roosendaal-Tinnefeld — 1. Staatsexamen Bonn, Frühjahr 2027** (`jurastudium-leitfaden-1-staatsexamen-roosendaal-bonn-vorbereitung-2027`) | [Gesamt-PDF lesen](../testakten/jurastudium-leitfaden-1-staatsexamen-roosendaal-bonn-vorbereitung-2027/gesamt-pdf/jurastudium-leitfaden-1-staatsexamen-roosendaal-bonn-vorbereitung-2027_gesamt.pdf) | [`testakte-jurastudium-leitfaden-1-staatsexamen-roosendaal-bonn-vorbereitung-2027.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-jurastudium-leitfaden-1-staatsexamen-roosendaal-bonn-vorbereitung-2027.zip) |
-| **Akte Jana Mondsee - Drittversuch, KI-Vorwurf und Masterarbeit** (`pruefungsrecht-drittversuch-ki-taeuschung-masterarbeit-mondsee`) | [Gesamt-PDF lesen](../testakten/pruefungsrecht-drittversuch-ki-taeuschung-masterarbeit-mondsee/gesamt-pdf/pruefungsrecht-drittversuch-ki-taeuschung-masterarbeit-mondsee_gesamt.pdf) | [`testakte-pruefungsrecht-drittversuch-ki-taeuschung-masterarbeit-mondsee.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-pruefungsrecht-drittversuch-ki-taeuschung-masterarbeit-mondsee.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -228,29 +206,29 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `lernstrategien-loesungsschemata-methodenlehre` | Wenn es um Lernstrategien für Jura in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `livecheck-sonderfall-und-edge-case` | Wenn es um Livecheck: Sonderfall und Edge-Case-Prüfung in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `loesungsschemata` | Wenn es um Lösungsschemata in Jurastudium geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `loesungsschemata-mehrparteien-konflikt-und-interessen` | Wenn es um Lösungsschemata: Mehrparteienkonflikt und Interessenmatrix in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `loesungsschemata-mehrparteien-konflikt-und-interessen` | Wenn es um Loesungsschemata: Mehrparteienkonflikt und Interessenmatrix in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `methodenlehre-grundlagen` | Wenn es um Methodenlehre — Grundlagen in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `methodenlehre-oeffentliches-strafrecht` | Wenn es um Methodenlehre — Öffentliches Recht in Jurastudium geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `methodenlehre-rechtsgeschichte-referendariat` | Wenn es um Methodenlehre: Behörden-, Gerichts- oder Registerweg in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `methodenlehre-strafrecht` | Wenn es um Methodenlehre — Strafrecht in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `methodenlehre-zivilrecht` | Wenn es um Methodenlehre — Zivilrecht in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `oeffentliches-quellenkarte` | Wenn es um Öffentliches Quellenkarte in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `oeffentliches-quellenkarte` | Wenn es um Oeffentliches Quellenkarte in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `output-waehlen` | Wenn es um Output wählen in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `pruefungsgespraech-ag-rechtsgeschichte` | Wenn es um Prüfungsgespräch nach AG-Tradition in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `pruefungsgespraech-fristen-form-und-zustaendigkeit` | Wenn es um Prüfungsgespräch: Fristen, Form, Zuständigkeit und Rechtsweg in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `pruefungsgespraech-fristen-form-und-zustaendigkeit` | Wenn es um Prüfungsgespraech: Fristen, Form, Zuständigkeit und Rechtsweg in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `pruefungsgespraech-muendlich` | Wenn es um Fristen- und Risikoampel in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `quellen-livecheck` | Wenn es um Rechtsquellen-Livecheck in Jurastudium geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `rechtsgeschichte` | Wenn es um Rechtsgeschichte für Juristen in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `rechtsgeschichte-zahlen-schwellen-und-berechnung` | Wenn es um Rechtsgeschichte: Zahlen, Schwellenwerte und Berechnung in Jurastudium geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
 | `rechtsquellen-beweislast-darlegungslast` | Wenn es um Rechtsquellen: Beweislast, Darlegungslast und Substantiierung in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `referendariat-tatbestand-beweis-und-belege` | Wenn es um Referendariat: Tatbestandsmerkmale, Beweisfragen und Beleglage in Jurastudium geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `spezial-oeffentliches-livequellen-und-rechtsprechungscheck` | Wenn es um Öffentliches: Livequellen- und Rechtsprechungscheck in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `spezial-pruefungsgespraech-fristen-form-und-zustaendigkeit` | Wenn es um Prüfungsgespräch: Fristen, Form, Zuständigkeit und Rechtsweg in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-oeffentliches-livequellen-und-rechtsprechungscheck` | Wenn es um Oeffentliches: Livequellen- und Rechtsprechungscheck in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-pruefungsgespraech-fristen-form-und-zustaendigkeit` | Wenn es um Pruefungsgespraech: Fristen, Form, Zuständigkeit und Rechtsweg in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `strafrecht-studium-subsumtionslehre` | Wenn es um Strafrecht: Verhandlung, Vergleich und Eskalation in Jurastudium geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `studium-erstpruefung-und-mandatsziel` | Wenn es um Studium: Erstprüfung, Rollenklärung und Mandatsziel in Jurastudium geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `subsumtionslehre` | Wenn es um Subsumtionslehre in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `subsumtionslehre-risikoampel-und-gegenargumente` | Wenn es um Subsumtionslehre: Risikoampel, Gegenargumente und Verteidigungslinien in Jurastudium geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `tatbestaende-lernen` | Wenn es um Tatbestände Lernen in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `tatbestaende-lernen` | Wenn es um Tatbestaende Lernen in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `tradition-zivilrecht-subsumtionslehre` | Wenn es um Tradition: Dokumentenmatrix, Lückenliste und Nachforderung in Jurastudium geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
 | `unterlagen-luecken` | Wenn es um Unterlagen und Lücken in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `workflow-anschluss-skills-router` | Wenn es um Anschluss-Skills Router in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

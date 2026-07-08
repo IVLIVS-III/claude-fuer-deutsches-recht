@@ -1,26 +1,5 @@
 # Arbeitszeugnis-Analyse (Ampelsystem)
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`arbeitszeugnis-analyse`) | [`arbeitszeugnis-analyse.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/arbeitszeugnis-analyse.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Arbeitszeugnis-Analyse — aus dem blühenden Leben** (`arbeitszeugnis-analyse-bluehendes-leben`) | [Gesamt-PDF lesen](../testakten/arbeitszeugnis-analyse-bluehendes-leben/gesamt-pdf/arbeitszeugnis-analyse-bluehendes-leben_gesamt.pdf) | [`testakte-arbeitszeugnis-analyse-bluehendes-leben.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitszeugnis-analyse-bluehendes-leben.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -174,7 +153,7 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `arbeitszeugnis-codeworte-compliance-dokumentation-aktenvermerk` | Wenn es um Codeworte: Compliance-Dokumentation und Aktenvermerk in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `arbeitszeugnis-deutscher-tatbestandsmerkmale-beweisfragen` | Wenn es um Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `arbeitszeugnis-geheimcodes-schriftsatz-brief-memo-bausteine` | Wenn es um Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine in Arbeitszeugnis-Analyse geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `arbeitszeugnis-gruen-behoerden-gerichts-registerweg` | Wenn es um Grün: Behörden-, Gerichts- oder Registerweg in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `arbeitszeugnis-gruen-behoerden-gerichts-registerweg` | Wenn es um Gruen: Behörden-, Gerichts- oder Registerweg in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `arbeitszeugnis-negative-zahlen-schwellenwerte-berechnung` | Wenn es um Negative: Zahlen, Schwellenwerte und Berechnung in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `arbeitszeugnis-orange-risikoampel-gegenargumente` | Wenn es um Orange: Risikoampel, Gegenargumente und Verteidigungslinien in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `arbeitszeugnis-schaufenster-verhandlung-vergleich-eskalation` | Wenn es um Schaufenster: Verhandlung, Vergleich und Eskalation in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

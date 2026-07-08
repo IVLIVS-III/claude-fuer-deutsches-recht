@@ -1,29 +1,5 @@
 # BGB AT Prüfer
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`bgb-at-pruefer`) | [`bgb-at-pruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bgb-at-pruefer.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Anfechtung / Irrtum — Restaurant-Kette Pohlmann-Ofenkäss, Erbenstraße Leipzig** (`anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig`) | [Gesamt-PDF lesen](../testakten/anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig/gesamt-pdf/anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig_gesamt.pdf) | [`testakte-anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig.zip) |
-| **Akte BGB AT: Altfränkische Werkstatt** (`bgb-at-altfraenkische-werkstatt`) | [Gesamt-PDF lesen](../testakten/bgb-at-altfraenkische-werkstatt/gesamt-pdf/bgb-at-altfraenkische-werkstatt_gesamt.pdf) | [`testakte-bgb-at-altfraenkische-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-at-altfraenkische-werkstatt.zip) |
-| **BGB BT — Holzofen, Lieferkette, Bürgschaft, GoA und Brandschaden** (`bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt`) | [Gesamt-PDF lesen](../testakten/bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt/gesamt-pdf/bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt_gesamt.pdf) | [`testakte-bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt.zip) |
-| **BGB BT — Smart-Kühlschrank, digitale Elemente und Reparaturblockade** (`bgb-bt-smart-kuehlschrank-digital-repair-koeln`) | [Gesamt-PDF lesen](../testakten/bgb-bt-smart-kuehlschrank-digital-repair-koeln/gesamt-pdf/bgb-bt-smart-kuehlschrank-digital-repair-koeln_gesamt.pdf) | [`testakte-bgb-bt-smart-kuehlschrank-digital-repair-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-smart-kuehlschrank-digital-repair-koeln.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -138,7 +114,7 @@ Automatisch generierte Komplett-Liste aller 95 Skills in diesem Plugin. Beschrei
 | `bedingung-befristung-paragraphen-158-163` | Wenn es um Bedingung und Befristung — Paragrafen 158 bis 163 BGB in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `bgb-at-anfechtung-vor-auslegung` | Wenn es um Anfechtung erst nach Auslegung in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `bgb-at-erklaerungskette-tableau` | Wenn es um BGB-AT-Erklärungskette als Tableau in BGB AT Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `bgb-at-fallaufnahme-und-pruefprogramm` | Wenn es um Bgb At Fallaufnahme Und Prüfprogramm in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `bgb-at-fallaufnahme-und-pruefprogramm` | Wenn es um Bgb At Fallaufnahme Und Pruefprogramm in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `bgb-at-form-und-prozessform` | Wenn es um Materielle Form und Prozessform trennen in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `bgb-at-minderjaehrige-fehlsubsumtion` | Wenn es um Minderjährigenrecht: Fehlsubsumtion erkennen in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `bgb-at-output-gutachten-memo-schriftsatz` | Wenn es um Bgb At Output Gutachten Memo Schriftsatz in BGB AT Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -161,7 +137,7 @@ Automatisch generierte Komplett-Liste aller 95 Skills in diesem Plugin. Beschrei
 | `erklaerungsbewusstsein-und-potentielles-bewusstsein` | Wenn es um Erklärungsbewusstsein und Potentielles Bewusstsein — Willenserklärung in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlst... |
 | `erklaerungskette-tableau` | Wenn es um Erklärungsketten-Tableau — Willenserklärungen und Vertretungsketten in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten,... |
 | `erwerbsgeschaeft-dienst-arbeit` | Wenn es um Ermächtigung zu Erwerbsgeschäften — Paragrafen 112 und 113 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risi... |
-| `erwerbsgeschaeft-dienst-arbeit-paragraphen-112-113` | Wenn es um Erwerbsgeschäft Dienst Arbeit Paragraphen 112 113 in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und näch... |
+| `erwerbsgeschaeft-dienst-arbeit-paragraphen-112-113` | Wenn es um Erwerbsgeschaeft Dienst Arbeit Paragraphen 112 113 in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und näch... |
 | `erwerbsgeschaeft-dienst-formnichtigkeit` | Wenn es um Ermächtigung zu Erwerbsgeschäften — Paragrafen 112 und 113 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risi... |
 | `fallaufnahme-pruefprogramm-prozessform` | Wenn es um Fallaufnahme und Prüfprogramm — BGB Allgemeiner Teil in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nä... |
 | `fallaufnahme-und-pruefprogramm` | Wenn es um Fallaufnahme und Prüfprogramm — BGB Allgemeiner Teil in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nä... |
@@ -189,12 +165,12 @@ Automatisch generierte Komplett-Liste aller 95 Skills in diesem Plugin. Beschrei
 | `paragraphen-cic-vorvertragliche-ergaenzende` | Wenn es um Fristenberechnung — Paragrafen 186 bis 193 BGB in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Paragraphen Ci... |
 | `personen-rechtsfaehigkeit-handlungsfaehigkeit` | Wenn es um Rechtsfähigkeit und Handlungsfähigkeit — Paragrafen 1 bis 14 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Ri... |
 | `personen-rechtsfaehigkeit-privatautonomie` | Wenn es um Rechtsfähigkeit und Handlungsfähigkeit — Paragrafen 1 bis 14 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Ri... |
-| `personen-rechtsfaehigkeit-und-handlungsfaehigkeit` | Wenn es um Personen Rechtsfähigkeit Und Handlungsfähigkeit in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächs... |
+| `personen-rechtsfaehigkeit-und-handlungsfaehigkeit` | Wenn es um Personen Rechtsfaehigkeit Und Handlungsfaehigkeit in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächs... |
 | `privatautonomie-trennungs-abstraktionsprinzip` | Wenn es um Privatautonomie, Trennungs- und Abstraktionsprinzip in BGB AT Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `rechtlich-vorteilhaft-paragraph-107` | Wenn es um Lediglich rechtlich vorteilhaft — Paragraf 107 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und näch... |
 | `rechtsschein-redteam` | Wenn es um Rechtsschein Red-Team — Vollmacht und Duldungs-Anscheinsvollmacht in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
-| `schweigen-erklaerungswert-stellvertretung` | Wenn es um Schweigen und Erklärungswert in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Schweigen Erklärungswert Stellve... |
-| `schweigen-und-erklaerungswert` | Wenn es um Schweigen und Erklärungswert in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Schweigen Und Erklärungswert; Ar... |
+| `schweigen-erklaerungswert-stellvertretung` | Wenn es um Schweigen und Erklärungswert in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Schweigen Erklaerungswert Stellve... |
+| `schweigen-und-erklaerungswert` | Wenn es um Schweigen und Erklärungswert in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Schweigen Und Erklaerungswert; Ar... |
 | `stellvertretung-routing-paragraphen-164-181` | Wenn es um Stellvertretung — Routing Paragrafen 164 bis 181 BGB in BGB AT Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `taeuschung-drohung-paragraph-123` | Wenn es um Täuschung und Drohung — Paragraf 123 BGB in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `taschengeld-paragraph-110` | Wenn es um Taschengeldparagraph — Paragraf 110 BGB in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Taschengeld Paragraph... |

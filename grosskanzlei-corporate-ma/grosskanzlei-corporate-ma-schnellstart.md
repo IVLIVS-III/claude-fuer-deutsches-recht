@@ -2,18 +2,18 @@ Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rech
 
 # Grosskanzlei Corporate Ma — Schnellstart
 
-Ziel: Corporate/M&A-Plugin für Kanzlei- und Inhouse-Praxis: Deal-Intake, Datenraum, Legal DD, SPA/APA, Kaufpreis, W&I, Regulatory, Signing, Closing, Integration, Board Papers und Spezial-Workflows. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Corporate/M&A-Plugin für Kanzlei- und Inhouse-Praxis: Deal-Intake, Datenraum, Legal DD, SPA/APA, Kaufpreis, W&I, Regulatory, Signing, Closing, Integration, Board Papers und Spezial-Workflows. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
@@ -22,18 +22,18 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
 4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
 5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
-6. Wenn es um digitale Werkzeuge VDR Classifier in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen.
+6. VDR-Klassifizierung: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| AI VDR Classifier | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ancillary Documents TSA SLA | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ancillary Documents, TSA und SLA Skill: baut Nebenvertragslandschaft für M&A, einschließlich Transitional. | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfänger-Modus / First-Year-Associate | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antitrust Gun Jumping Clean Team | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antitrust, Gun-Jumping und Clean-Team Spezialist: prüft Wettbewerberkontakte, Informationsaustausch. | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| VDR-Klassifizierung | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ancillary Documents TSA SLA | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ancillary Documents, TSA und SLA Skill: baut Nebenvertragslandschaft für M&A, einschließlich Transitional. | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anfänger-Modus / First-Year-Associate | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Antitrust Gun Jumping Clean Team | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Antitrust, Gun-Jumping und Clean-Team Spezialist: prüft Wettbewerberkontakte, Informationsaustausch. | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
@@ -41,10 +41,10 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 - HGB Paragraf 105: offene Handelsgesellschaft.
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- Normenradar: Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt. - Rechtsprechungsanker: BGH: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Normenradar: Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 705 ff. BGB (GbR): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 105 ff. HGB (OHG): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 161 ff. HGB (KG): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 13, 15 GmbHG (Anteilsübertragung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
 - BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
 - Normenradar: Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt. - Rechtsprechungsanker: BGH, 21.04.1997 - II ZR 175/95
@@ -53,7 +53,7 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 
 ## 6. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder AI VDR Classifier, Ancillary Documents TSA SLA, Ancillary Documents, TSA und SLA Skill: baut Nebenvertragslandschaft für M&A, einschließlich Transitional., Anfänger-Modus / First-Year-Associate: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder VDR-Klassifizierung, Ancillary Documents TSA SLA, Ancillary Documents, TSA und SLA Skill: baut Nebenvertragslandschaft für M&A, einschließlich Transitional., Anfänger-Modus / First-Year-Associate: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 7. Stop
 

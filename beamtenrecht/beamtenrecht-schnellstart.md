@@ -1,49 +1,48 @@
-Wenn du das hier öffnest, willst du im Bereich Beamtenrecht zügig von Unterlagen zu einem verwertbaren Arbeitsprodukt kommen.
+Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Beamtenrecht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
 
 # Beamtenrecht — Schnellstart
 
-Ziel: Beamtenrecht für Bund, Länder und Richterdienst: Status, Laufbahn, Besoldung, Versorgung, Konkurrentenstreit, Disziplinarrecht, Dienstunfähigkeit, Richterlaufbahn, Landesrecht und verständliche Mandatsführung. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Beamtenrecht für Bund, Länder und Richterdienst: Status, Laufbahn, Besoldung, Versorgung, Konkurrentenstreit, Disziplinarrecht, Dienstunfähigkeit, Richterlaufbahn, Landesrecht und verständliche Mandatsführung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
-1. AGG Gleichstellung und Frauenvertretung: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-2. AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-3. Aktenstruktur und Dokumentenintake: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-4. Altersteilzeit Paragraf 93 BBG — Blockmodell und Teilzeitmodell: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-5. Amtsangemessene Alimentation: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-6. Amtsangemessene Alimentation — Prüfschema BVerfG: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
+1. AGG Gleichstellung und Frauenvertretung: AGG Gleichstellung und Frauenvertretung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+2. AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren: AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument.
+3. Aktenstruktur und Dokumentenintake: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+4. Altersteilzeit Paragraf 93 BBG — Blockmodell und Teilzeitmodell: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+5. Amtsangemessene Alimentation: Amtsangemessene Alimentation: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+6. Amtsangemessene Alimentation — Prüfschema BVerfG: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| AGG Gleichstellung und Frauenvertretung | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenstruktur und Dokumentenintake | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Altersteilzeit Paragraf 93 BBG — Blockmodell und Teilzeitmodell | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Amtsangemessene Alimentation | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Amtsangemessene Alimentation — Prüfschema BVerfG | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AGG Gleichstellung und Frauenvertretung | AGG Gleichstellung und Frauenvertretung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren | AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenstruktur und Dokumentenintake | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Altersteilzeit Paragraf 93 BBG — Blockmodell und Teilzeitmodell | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amtsangemessene Alimentation | Amtsangemessene Alimentation: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amtsangemessene Alimentation — Prüfschema BVerfG | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
 - Art. 33 GG (hergebrachte Grundsätze des Berufsbeamtentums): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - VwGO Paragrafen 42, 75, 113 (Verpflichtungsklage, Untätigkeit): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Konkurrentenstreitverfahren BVerwG 2 C 4.18: Bewerbungsverfahrensanspruch Art. 33 Abs. 2 GG sichern, vor Ernennung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 24 AGG erstreckt das AGG auf Beamtinnen und Beamte mit Modifikationen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- AGG findet auch auf Bewerbungsverfahren Anwendung (Paragraf 6 Abs. 1 Satz 2 AGG): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- AGG-Ansprüche stehen neben dem Anspruch aus Art. 33 Abs. 2 GG. Sie schließen einander nicht aus: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 22 AGG: Indizienbeweis genügt; der Dienstherr muss bei Indizien beweisen, dass kein Verstoß vorlag: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 33 Abs. 2 GG: Bestenauslese nach Eignung, Befähigung und fachlicher Leistung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 74 Abs. 1 Nr. 27 GG und Art. 70 GG: Statusrechtliche Bundeskompetenz, Laufbahn/Besoldung/Versorgung der Länder grundsätzlich Landesrecht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG 2 BvR 1738/12 (Beamtenstreikverbot)
 - BVerwG 2 C 32.10 (amtsangemessene Alimentation)
 - BVerwG 2 C 33.20 (Disziplinarmaßnahme Verhältnismäßigkeit)

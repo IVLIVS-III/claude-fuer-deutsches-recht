@@ -1,32 +1,5 @@
 # Big-Law-Großkanzlei-Corporate/M&A-Plugin
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`grosskanzlei-corporate-ma`) | [`grosskanzlei-corporate-ma.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grosskanzlei-corporate-ma.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Akte Kometenfalter Systems GmbH — Series A Project Comet Moth** (`gesellschaftsrecht-legal-english-frankfurt-startup`) | [Gesamt-PDF lesen](../testakten/gesellschaftsrecht-legal-english-frankfurt-startup/gesamt-pdf/gesellschaftsrecht-legal-english-frankfurt-startup_gesamt.pdf) | [`testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip) |
-| **Akte Großkanzlei Corporate/M&A Datenraum** (`grosskanzlei-corporate-ma-datenraum`) | [Gesamt-PDF lesen](../testakten/grosskanzlei-corporate-ma-datenraum/gesamt-pdf/grosskanzlei-corporate-ma-datenraum_gesamt.pdf) | [`testakte-grosskanzlei-corporate-ma-datenraum.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grosskanzlei-corporate-ma-datenraum.zip) |
-| **Projekt Nachtfalter — Private Equity Buyout, Schuldschein und NPL-Portfolio** (`private-equity-buyout-schuldschein-npl-heidelberg`) | [Gesamt-PDF lesen](../testakten/private-equity-buyout-schuldschein-npl-heidelberg/gesamt-pdf/private-equity-buyout-schuldschein-npl-heidelberg_gesamt.pdf) | [`testakte-private-equity-buyout-schuldschein-npl-heidelberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-private-equity-buyout-schuldschein-npl-heidelberg.zip) |
-| **Akte LG Regensburg — Sieglinger gegen Burgwald Energietechnik GmbH** (`sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger`) | [Gesamt-PDF lesen](../testakten/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger/gesamt-pdf/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger_gesamt.pdf) | [`testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip) |
-| **Sanierungsgewinn im Insolvenzplan — Grossbach Druckguss & Präzision GmbH & Co. KG Erfurt (2026)** (`sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026`) | [Gesamt-PDF lesen](../testakten/sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026/gesamt-pdf/sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026_gesamt.pdf) | [`testakte-sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026.zip) |
-| **Sanierungsgewinn bei solventer GmbH-Liquidation — Strassburger Handelshof GmbH (Berlin-Charlottenburg)** (`sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026`) | [Gesamt-PDF lesen](../testakten/sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026/gesamt-pdf/sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026_gesamt.pdf) | [`testakte-sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026.zip) |
-| **Sanierungsgewinn im StaRUG-Plan — Pellbach Windenergie GmbH Brandenburg (2026)** (`sanierungsgewinn-starug-plan-windenergie-pellbach-2026`) | [Gesamt-PDF lesen](../testakten/sanierungsgewinn-starug-plan-windenergie-pellbach-2026/gesamt-pdf/sanierungsgewinn-starug-plan-windenergie-pellbach-2026_gesamt.pdf) | [`testakte-sanierungsgewinn-starug-plan-windenergie-pellbach-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-starug-plan-windenergie-pellbach-2026.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -205,7 +178,7 @@ Automatisch generierte Komplett-Liste aller 281 Skills in diesem Plugin. Beschre
 | `beirat-bank-und-sanierung` | Wenn es um Beirat Bank Und Sanierung in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `beirat-beratungsfunktion` | Wenn es um Beirat Beratungsfunktion in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `beirat-beschlussfassung` | Wenn es um Beirat Beschlussfassung in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `beirat-beschlussmaengel` | Wenn es um Beirat Beschlussmängel in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `beirat-beschlussmaengel` | Wenn es um Beirat Beschlussmaengel in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `beirat-bestellung-und-abberufung` | Wenn es um Beirat Bestellung Und Abberufung in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `beirat-budget-und-businessplan` | Wenn es um Beirat Budget Und Businessplan in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `beirat-compliance-und-internal-investigation` | Wenn es um Beirat Compliance Und Internal Investigation in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und näc... |
@@ -222,7 +195,7 @@ Automatisch generierte Komplett-Liste aller 281 Skills in diesem Plugin. Beschre
 | `beirat-haftung` | Wenn es um Beirat Haftung in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `beirat-immobilien-und-investitionen` | Wenn es um Beirat Immobilien Und Investitionen in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sch... |
 | `beirat-informationsrechte` | Wenn es um Beirat Informationsrechte in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `beirat-insolvenznaehe` | Wenn es um Beirat Insolvenznähe in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `beirat-insolvenznaehe` | Wenn es um Beirat Insolvenznaehe in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `beirat-interessenkonflikte` | Wenn es um Beirat Interessenkonflikte in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `beirat-kaltstart-und-zielbild` | Wenn es um Beirat Kaltstart Und Zielbild in Großkanzlei Corporate/M&A geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `beirat-katalog-wesentlicher-geschaefte` | Wenn es um Beirat Katalog Wesentlicher Geschäfte in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem S... |
@@ -262,7 +235,7 @@ Automatisch generierte Komplett-Liste aller 281 Skills in diesem Plugin. Beschre
 | `data-protection` | Wenn es um Data Protection Transfer DD in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `data-protection-transfer-dd` | Wenn es um Data Protection Transfer Dd in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `datenqualitaet-xai` | Wenn es um Datenqualität und XAI-Qualitätskontrolle in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `datenqualitaet-xai-qualitaetskontrolle` | Wenn es um Datenqualität Xai Qualitätskontrolle in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `datenqualitaet-xai-qualitaetskontrolle` | Wenn es um Datenqualitaet Xai Qualitaetskontrolle in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `datenraum-aufbau` | Wenn es um Datenraum-Aufbau in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `datenraum-gap-clean` | Wenn es um Datenraum-Gap-Analyse und Clean Room in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `datenraum-gap-clean-room` | Wenn es um Datenraum Gap Clean Room in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |

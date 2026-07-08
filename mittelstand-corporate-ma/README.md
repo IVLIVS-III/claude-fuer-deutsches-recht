@@ -1,26 +1,5 @@
 # Mittelständische Kanzlei – Corporate/M&A-Plugin
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`mittelstand-corporate-ma`) | [`mittelstand-corporate-ma.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/mittelstand-corporate-ma.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Share Deal Pellbach Werkzeugbau GmbH & Co. KG — Familiennachfolge mit PE-Beteiligung, Earn-Out, MAC** (`share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge`) | [Gesamt-PDF lesen](../testakten/share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge/gesamt-pdf/share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge_gesamt.pdf) | [`testakte-share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -180,7 +159,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `beirat-bank-und-sanierung` | Wenn es um Beirat Bank Und Sanierung in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `beirat-beratungsfunktion` | Wenn es um Beirat Beratungsfunktion in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `beirat-beschlussfassung` | Wenn es um Beirat Beschlussfassung in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `beirat-beschlussmaengel-bestellung-abberufung` | Wenn es um Beirat Beschlussmängel in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `beirat-beschlussmaengel-bestellung-abberufung` | Wenn es um Beirat Beschlussmaengel in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `beirat-bestellung-und-abberufung` | Wenn es um Beirat Bestellung Und Abberufung in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem... |
 | `beirat-budget-und-businessplan` | Wenn es um Beirat Budget Und Businessplan in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sc... |
 | `beirat-compliance-und-internal-investigation` | Wenn es um Beirat Compliance Und Internal Investigation in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken u... |
@@ -196,7 +175,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `beirat-haftung` | Wenn es um Beirat Haftung in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `beirat-immobilien-investitionen` | Wenn es um Beirat Immobilien Und Investitionen in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächst... |
 | `beirat-informationsrechte` | Wenn es um Beirat Informationsrechte in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `beirat-insolvenznaehe` | Wenn es um Beirat Insolvenznähe in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `beirat-insolvenznaehe` | Wenn es um Beirat Insolvenznaehe in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `beirat-interessenkonflikte` | Wenn es um Beirat Interessenkonflikte in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `beirat-kaltstart-und-zielbild` | Wenn es um Beirat Kaltstart Und Zielbild in Mittelstands-Corporate/M&A geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `beirat-katalog-wesentlicher-kontrollfunktion` | Wenn es um Beirat: Katalog Wesentlicher Geschäfte Und Kontrollfunktion in Mittelstands-Corporate/M&A geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kont... |

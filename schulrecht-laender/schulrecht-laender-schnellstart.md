@@ -1,43 +1,42 @@
-Wenn du das hier öffnest, willst du im Bereich Schulrecht Länder zügig von Unterlagen zu einem verwertbaren Arbeitsprodukt kommen.
+Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Schulrecht Länder ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
 
 # Schulrecht Länder — Schnellstart
 
-Ziel: Schulrecht der Länder: Schulpflicht, Aufnahme, Inklusion, Noten, Versetzung, Ordnungsmaßnahmen, Datenschutz, Elternrechte und Eilrechtsschutz. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Schulrecht der Länder: Schulpflicht, Aufnahme, Inklusion, Noten, Versetzung, Ordnungsmaßnahmen, Datenschutz, Elternrechte und Eilrechtsschutz. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
-1. Abitur und Abschlussprüfungen: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-2. Abiturzulassung und Fehlkurse: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-3. Akteneinsicht Schulakte: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-4. Attest und Prüfungsunfähigkeit Schule: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-5. Aufsichtspflicht und Unfall: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-6. Auslandsschule und Rückkehr: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
+1. Abitur und Abschlussprüfungen: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
+2. Abiturzulassung und Fehlkurse: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
+3. Akteneinsicht Schulakte: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+4. Attest und Prüfungsunfähigkeit Schule: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
+5. Aufsichtspflicht und Unfall: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
+6. Auslandsschule und Rückkehr: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abitur und Abschlussprüfungen | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abiturzulassung und Fehlkurse | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Akteneinsicht Schulakte | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Attest und Prüfungsunfähigkeit Schule | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufsichtspflicht und Unfall | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auslandsschule und Rückkehr | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abitur und Abschlussprüfungen | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abiturzulassung und Fehlkurse | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Akteneinsicht Schulakte | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Attest und Prüfungsunfähigkeit Schule | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aufsichtspflicht und Unfall | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auslandsschule und Rückkehr | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
-- Primäre Anker: Landesschulrecht; Datenschutz-Grundverordnung Art. 15; VwVfG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 6. Antwortform

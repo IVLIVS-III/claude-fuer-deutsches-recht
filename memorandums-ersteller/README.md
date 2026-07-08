@@ -1,26 +1,5 @@
 # Memorandums-Ersteller
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`memorandums-ersteller`) | [`memorandums-ersteller.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/memorandums-ersteller.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Grenzüberschreitender Asset-Deal Volkenrath Energie SE / Pipeline Northsea Ltd.** (`memorandum-grenzueberschreitender-asset-deal-volkenrath-energie`) | [Gesamt-PDF lesen](../testakten/memorandum-grenzueberschreitender-asset-deal-volkenrath-energie/gesamt-pdf/memorandum-grenzueberschreitender-asset-deal-volkenrath-energie_gesamt.pdf) | [`testakte-memorandum-grenzueberschreitender-asset-deal-volkenrath-energie.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-memorandum-grenzueberschreitender-asset-deal-volkenrath-energie.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -93,7 +72,7 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | --- | --- |
 | `anschluss-routing` | Wenn es um Anschluss-Routing in Memorandums-Ersteller geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `antworten-interessen-ausfuehrungen-fragen` | Wenn es um Antworten: Mehrparteienkonflikt und Interessenmatrix in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlag... |
-| `ausfuehrungen-formular-portal-und-einreichung` | Wenn es um Ausführungen: Formular, Portal und Einreichungslogik in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anla... |
+| `ausfuehrungen-formular-portal-und-einreichung` | Wenn es um Ausfuehrungen: Formular, Portal und Einreichungslogik in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anla... |
 | `dokumente-intake` | Wenn es um Dokumentenintake in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `due-diligence-ergebnis-handlungsempfehlung` | Wenn es um Due-Diligence-Rechtsmemo in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `einstieg-routing` | Wenn es um Einstieg und Routing in Memorandums-Ersteller geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -101,11 +80,11 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `gliederung-mandantenunterlagen-memorandum` | Wenn es um Gliederung: Schriftsatz-, Brief- und Memo-Bausteine in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlage... |
 | `haftungsrisiko-rechtsanwalt-board-pack` | Wenn es um Haftungsrisiko-Memo in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `juristisches-questions-fristennotiz` | Wenn es um Juristisches: Fristen, Form, Zuständigkeit und Rechtsweg in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `laenge-formate-mandantenfreundliche-fassung` | Wenn es um Memo: Länge und Formate in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `laenge-formate-mandantenfreundliche-fassung` | Wenn es um Memo: Laenge und Formate in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `mandantenanfrage-schnell` | Wenn es um Schnell-Memo Mandantenanfrage in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `mandantenkommunikation-redteam` | Wenn es um Mandantenkommunikation in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage. |
 | `mandantenunterlagen-tatbestand-beweis-und-belege` | Wenn es um Mandantenunterlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begr... |
-| `memo-board-pack-besondere-anlaesse-spezial` | Wenn es um Memo: Board-Pack Anlässe in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `memo-board-pack-besondere-anlaesse-spezial` | Wenn es um Memo: Board-Pack Anlaesse in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `memo-compliance-vorfall-intern` | Wenn es um Compliance-Vorfall-Memo in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `memo-ergebnis-handlungsempfehlung` | Wenn es um Memo: Ergebnis + Handlungsempfehlung in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `memo-fristen-sofortmassnahmen` | Wenn es um Memo: Fristen und Sofortmassnahmen in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -117,7 +96,7 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `memo-rechtsfragen-formulieren` | Wenn es um Memo: Rechtsfragen formulieren in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `memo-research-tracking-leitfaden` | Wenn es um Memo: Research-Tracking in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `memo-vier-teile-aufbau` | Wenn es um Memo: Vier-Teile-Aufbau in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `memo-zu-grenzueberschreitenden-faellen` | Wenn es um Grenzüberschreitender-Fall-Memo in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `memo-zu-grenzueberschreitenden-faellen` | Wenn es um Grenzueberschreitender-Fall-Memo in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `memo-zur-rechtsmittelentscheidung` | Wenn es um Rechtsmittel-Memo in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `memo-zur-vertragsentscheidung` | Wenn es um Vertragsentscheidungs-Memo in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `memorandum-dokumentenmatrix-und-lueckenliste` | Wenn es um Memorandum: Dokumentenmatrix, Lückenliste und Nachforderung in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung un... |

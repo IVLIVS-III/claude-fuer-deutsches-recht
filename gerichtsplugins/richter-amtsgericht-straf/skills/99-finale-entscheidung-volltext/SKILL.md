@@ -99,3 +99,7 @@ Bevor der Volltext freigegeben wird, durchlaeuft der Skill eine Eigenkontrolle:
 6. Sind alle Lückenpunkte explizit markiert?
 
 Erst nach bestandener Eigenkontrolle wird der Volltext als final ausgegeben.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill sortiert den strafrichterlichen Streitstoff nach Anklagevorwurf, Einlassung, Beweismittel, rechtlicher Würdigung und Rechtsfolgenfrage. Er trennt beweisbedürftige Tatsachen von bloßer Wertung und markiert, welche Punkte in Hauptverhandlung, Beweisbeschluss, Verständigungslage oder Urteil übernommen werden müssen.

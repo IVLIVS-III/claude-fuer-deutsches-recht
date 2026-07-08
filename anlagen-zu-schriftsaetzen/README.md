@@ -1,30 +1,9 @@
 # Anlagen zu Schriftsätzen
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`anlagen-zu-schriftsaetzen`) | [`anlagen-zu-schriftsaetzen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/anlagen-zu-schriftsaetzen.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Werkmann ./. K+B — Werklohnklage Lackieranlage Eschweiler — Anlagenkonvolut-Verfahren** (`anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler`) | [Gesamt-PDF lesen](../testakten/anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler/gesamt-pdf/anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler_gesamt.pdf) | [`testakte-anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
-Anlagenmanagement für gerichtliche Schriftsätze: sortiert chaotische Mandantenordner, E-Mails, Scans, Tabellen und Vorversionen zu beA-tauglichen K/B/AST/AG-Anlagen mit Verzeichnis, Konvolutdeckblättern, Stempel-/Dateinamenregeln, Hashlog, Lückenliste und Qualitygate.
+Anlagenmanagement für gerichtliche Schriftsätze: sortiert chaotische Mandantenordner, E-Mails, Scans, Tabellen und Vorversionen zu beA-tauglichen K/B/AST/AG-Anlagen mit Verzeichnis, Konvolutdeckblaettern, Stempel-/Dateinamenregeln, Hashlog, Lückenliste und Qualitygate.
 
 Dieses Plugin gehört zum Marketplace mit 234 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
@@ -170,14 +149,14 @@ Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschre
 | `anlagen-redaktion-dsgvo-geschgehg` | Wenn es um Redaktion, DSGVO und Geschäftsgeheimnisse in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `anlagen-schriftsaetze-k1-sortierung` | Wenn es um Dokumentenmatrix und Lückenliste in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahls... |
 | `anlagen-schriftsaetze-start-belegmatrix-fristen` | Wenn es um Anlagen zu Schriftsätzen — Allgemein in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
-| `anlagen-schwaerzen-anonymisieren` | Wenn es um Anlagen schwärzen/anonymisieren in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sc... |
+| `anlagen-schwaerzen-anonymisieren` | Wenn es um Anlagen schwaerzen/anonymisieren in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sc... |
 | `anlagen-stempel-und-deckblattlogik` | Wenn es um Stempel- und Deckblattlogik in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `anlagen-stempelbild-entscheidungsvorlage` | Wenn es um Stempelbild und Entscheidungsvorlage in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `anlagen-tatbestand-beweis-und-belege` | Wenn es um Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `anlagen-uebergabe-an-assistenz-und-legal-tech` | Wenn es um Übergabe an Assistenz und Legal Tech in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfr... |
 | `anlagen-uebersetzungspflicht` | Wenn es um Fremdsprachige Anlagen in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `anlagen-vorlagepflicht-141-zpo` | Wenn es um Urkundenvorlage Paragrafen 142. 421 ZPO in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `anlagen-zu-schriftsaetzen` | Wenn es um Anlagen zu Schriftsätzen bauen in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `anlagen-zu-schriftsaetzen` | Wenn es um Anlagen zu Schriftsaetzen bauen in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `anlagen-zur-substantiierung-pflicht` | Wenn es um Anlagen vs. Substantiierungspflicht in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `anlagenband-strukturieren` | Wenn es um Anlagenband strukturieren in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwor... |
 | `anlagenband-strukturieren-anlagenbezug` | Wenn es um Anlagenband strukturieren in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwor... |
@@ -234,8 +213,8 @@ Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschre
 | `original-abschrift-kopie-elektronische` | Wenn es um Original, Abschrift, Kopie und elektronische Fassung in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem S... |
 | `original-abschrift-kopie-und-elektronische-fassung` | Wenn es um Original, Abschrift, Kopie und elektronische Fassung in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem S... |
 | `output-waehlen` | Wenn es um Output wählen in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `pruefmodus-fristennotiz-datenraum-sharepoint` | Wenn es um Prüfmodus, Fristennotiz und nächster Schritt in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Prüf... |
-| `pruefmodus-fristennotiz-naechster-schritt` | Wenn es um Prüfmodus, Fristennotiz und nächster Schritt in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Prüf... |
+| `pruefmodus-fristennotiz-datenraum-sharepoint` | Wenn es um Prüfmodus, Fristennotiz und nächster Schritt in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pruef... |
+| `pruefmodus-fristennotiz-naechster-schritt` | Wenn es um Prüfmodus, Fristennotiz und nächster Schritt in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pruef... |
 | `quellen-livecheck` | Wenn es um Rechtsquellen-Livecheck in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `redteam-qualitygate` | Wenn es um Red-Team Qualitygate in Anlagen zu Schriftsätzen geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schiedsverfahren-anlagenband-und-datentraeger` | Wenn es um Schiedsverfahren: Anlagenband und Datenträger in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken un... |

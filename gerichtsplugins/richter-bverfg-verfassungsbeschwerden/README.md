@@ -1,26 +1,5 @@
 # BVerfG Vorprüfung Verfassungsbeschwerden
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`richter-bverfg-verfassungsbeschwerden`) | [`richter-bverfg-verfassungsbeschwerden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-bverfg-verfassungsbeschwerden.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akte
-
-| Akte | Download |
-| --- | --- |
-| Pluginlokale Testakte | [`richter-bverfg-verfassungsbeschwerden-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-bverfg-verfassungsbeschwerden-testakte.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -146,8 +125,8 @@ Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Beschrei
 | --- | --- |
 | `01-annahme-pruefung-paragraf-93a` | Wenn es um 01 Annahme Prüfung Paragraf 93A in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `02-substantiierungs-pruefung-paragraf-92` | Wenn es um 02 Substantiierungs Prüfung Paragraf 92 in BVerfG Vorprüfung Verfassungsbeschwerden geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `03-rechtswegerschoepfung-paragraf-90-abs-2` | Wenn es um 03 Rechtswegerschöpfung Paragraf 90 Abs 2 in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `04-subsidiaritaet-und-frist` | Wenn es um 04 Subsidiarität und Frist in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `03-rechtswegerschoepfung-paragraf-90-abs-2` | Wenn es um 03 Rechtswegerschoepfung Paragraf 90 Abs 2 in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `04-subsidiaritaet-und-frist` | Wenn es um 04 Subsidiaritaet und Frist in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `05-grundrechtsdogmatik-pruefen` | Wenn es um 05 Grundrechtsdogmatik Prüfen in BVerfG Vorprüfung Verfassungsbeschwerden geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken un... |
 | `06-fachgerichtliche-entscheidung-pruefen` | Wenn es um 06 Fachgerichtliche Entscheidung Prüfen in BVerfG Vorprüfung Verfassungsbeschwerden geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten,... |
 | `07-kammer-und-senat-zustaendigkeit` | Wenn es um 07 Kammer und Senat Zuständigkeit in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

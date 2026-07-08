@@ -1,26 +1,5 @@
 # Straßenverkehrsrecht StVO
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`strassenverkehrsrecht-stvo`) | [`strassenverkehrsrecht-stvo.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strassenverkehrsrecht-stvo.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **StVO-Akte Schulstraße/Lieferzone** (`strassenverkehrsrecht-stvo-schulstrasse-lieferzone`) | [Gesamt-PDF lesen](../testakten/strassenverkehrsrecht-stvo-schulstrasse-lieferzone/gesamt-pdf/strassenverkehrsrecht-stvo-schulstrasse-lieferzone_gesamt.pdf) | [`testakte-strassenverkehrsrecht-stvo-schulstrasse-lieferzone.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strassenverkehrsrecht-stvo-schulstrasse-lieferzone.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -109,7 +88,7 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `bewohnerparken-eilrechtsschutz-behoerde` | Wenn es um Bewohnerparken Eilrechtsschutz Planen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `bewohnerparken-karte-bauen` | Wenn es um Bewohnerparken Karte Bauen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `bewohnerparken-regel-pruefen` | Wenn es um Bewohnerparken Regel Prüfen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `bewohnerparken-risiko-erklaeren` | Wenn es um Bewohnerparken Risiko Erklären in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `bewohnerparken-risiko-erklaeren` | Wenn es um Bewohnerparken Risiko Erklaeren in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `bewohnerparken-zeichen-anordnung` | Wenn es um Bewohnerparken Zeichen Auslegen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `blaulicht-und-sonderrechte` | Wenn es um Blaulicht Und Sonderrechte in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `bussgeldschnittstelle-owig` | Wenn es um Bussgeldschnittstelle Owig in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -121,9 +100,9 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `busspur-eilrechtsschutz-planen` | Wenn es um Busspur Eilrechtsschutz Planen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `busspur-karte-bauen` | Wenn es um Busspur Karte Bauen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `busspur-regel-pruefen` | Wenn es um Busspur Regel Prüfen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `busspur-risiko-erklaeren` | Wenn es um Busspur Risiko Erklären in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `busspur-risiko-erklaeren` | Wenn es um Busspur Risiko Erklaeren in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `busspur-zeichen-auslegen` | Wenn es um Busspur Zeichen Auslegen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `e-scooter-und-mikromobilitaet` | Wenn es um E Scooter Und Mikromobilität in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `e-scooter-und-mikromobilitaet` | Wenn es um E Scooter Und Mikromobilitaet in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `eilrechtsschutz-verkehrszeichen` | Wenn es um Eilrechtsschutz Verkehrszeichen in Straßenverkehrsrecht StVO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `fahrerlaubnis-schnittstelle` | Wenn es um Fahrerlaubnis Schnittstelle in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `fahrradstrasse-anordnung-angreifen` | Wenn es um Fahrradstrasse Anordnung Angreifen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -134,7 +113,7 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `fahrradstrasse-eilrechtsschutz-planen` | Wenn es um Fahrradstrasse Eilrechtsschutz Planen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `fahrradstrasse-karte-risiko-erklaeren` | Wenn es um Fahrradstrasse Karte Bauen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `fahrradstrasse-regel-pruefen` | Wenn es um Fahrradstrasse Regel Prüfen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `fahrradstrasse-risiko-erklaeren` | Wenn es um Fahrradstrasse Risiko Erklären in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `fahrradstrasse-risiko-erklaeren` | Wenn es um Fahrradstrasse Risiko Erklaeren in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `fahrradstrasse-zeichen-auslegen` | Wenn es um Fahrradstrasse Zeichen Auslegen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `fahrtenbuchauflage` | Wenn es um Fahrtenbuchauflage in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `gefahrenstelle-melden-schulweg` | Wenn es um Gefahrenstelle Melden in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -146,11 +125,11 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `haltverbot-eilrechtsschutz-behoerde` | Wenn es um Haltverbot Eilrechtsschutz Planen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `haltverbot-karte-bauen` | Wenn es um Haltverbot Karte Bauen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `haltverbot-regel-pruefen` | Wenn es um Haltverbot Regel Prüfen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `haltverbot-risiko-erklaeren` | Wenn es um Haltverbot Risiko Erklären in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `haltverbot-risiko-erklaeren` | Wenn es um Haltverbot Risiko Erklaeren in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `haltverbot-zeichen-anordnung-angreifen` | Wenn es um Haltverbot Zeichen Auslegen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `kaltstart-stvo-fall` | Wenn es um Kaltstart Stvo Fall in Straßenverkehrsrecht StVO geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `kaltstart-triage` | Wenn es um Straßenverkehrsrecht StVO - Allgemeiner Einstieg in Straßenverkehrsrecht StVO geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `kommunikation-mit-strassenverkehrsbeho` | Wenn es um Kommunikation Mit Straßenverkehrsbeho in Straßenverkehrsrecht StVO geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `kommunikation-mit-strassenverkehrsbeho` | Wenn es um Kommunikation Mit Strassenverkehrsbeho in Straßenverkehrsrecht StVO geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `ladezone-anordnung-angreifen` | Wenn es um Ladezone Anordnung Angreifen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ladezone-antrag-sichern-eilrechtsschutz` | Wenn es um Ladezone Antrag Schreiben in Straßenverkehrsrecht StVO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `ladezone-behoerde-anschreiben` | Wenn es um Ladezone Behörde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -159,7 +138,7 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `ladezone-eilrechtsschutz-planen` | Wenn es um Ladezone Eilrechtsschutz Planen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ladezone-karte-risiko-erklaeren` | Wenn es um Ladezone Karte Bauen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ladezone-regel-pruefen` | Wenn es um Ladezone Regel Prüfen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `ladezone-risiko-erklaeren` | Wenn es um Ladezone Risiko Erklären in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `ladezone-risiko-erklaeren` | Wenn es um Ladezone Risiko Erklaeren in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ladezone-zeichen-auslegen` | Wenn es um Ladezone Zeichen Auslegen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `lieferzone-anordnung-angreifen` | Wenn es um Lieferzone Anordnung Angreifen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `lieferzone-antrag-schreiben` | Wenn es um Lieferzone Antrag Schreiben in Straßenverkehrsrecht StVO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
@@ -168,7 +147,7 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `lieferzone-eilrechtsschutz-planen` | Wenn es um Lieferzone Eilrechtsschutz Planen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `lieferzone-karte-bauen` | Wenn es um Lieferzone Karte Bauen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `lieferzone-regel-zeichen-auslegen` | Wenn es um Lieferzone Regel Prüfen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `lieferzone-risiko-ladezone-regel-zeichen` | Wenn es um Lieferzone Risiko Erklären in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `lieferzone-risiko-ladezone-regel-zeichen` | Wenn es um Lieferzone Risiko Erklaeren in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `lieferzone-sichern-eilrechtsschutz-planen` | Wenn es um Lieferzone Beweis Sichern in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `lieferzone-zeichen-auslegen` | Wenn es um Lieferzone Zeichen Auslegen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `mpu-und-fahreignung` | Wenn es um Mpu Und Fahreignung in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -185,23 +164,23 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `schulstrasse-zeichen-auslegen` | Wenn es um Schulstrasse Zeichen Auslegen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schulweg-und-verkehrsberuhigung` | Wenn es um Schulweg Und Verkehrsberuhigung in Straßenverkehrsrecht StVO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schwertransport-erlaubnis` | Wenn es um Schwertransport Und Erlaubnis in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `stv-003-verkehrsrechtliche-anordnung-pruefen` | Wenn es um Verkehrsrechtliche Anordnung Prüfen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `stv-021-haltverbot-regel-pruefen` | Wenn es um Haltverbot Regel Prüfen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `stv-028-haltverbot-behoerde-anschreiben` | Wenn es um Haltverbot Behörde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `stv-031-tempo-30-regel-pruefen` | Wenn es um Tempo 30 Regel Prüfen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `stv-038-tempo-30-behoerde-anschreiben` | Wenn es um Tempo 30 Behörde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `stv-041-fahrradstrasse-regel-pruefen` | Wenn es um Fahrradstrasse Regel Prüfen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `stv-048-fahrradstrasse-behoerde-anschreiben` | Wenn es um Fahrradstrasse Behörde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `stv-051-busspur-regel-pruefen` | Wenn es um Busspur Regel Prüfen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `stv-058-busspur-behoerde-anschreiben` | Wenn es um Busspur Behörde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `stv-061-bewohnerparken-regel-pruefen` | Wenn es um Bewohnerparken Regel Prüfen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `stv-068-bewohnerparken-behoerde-anschreiben` | Wenn es um Bewohnerparken Behörde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `stv-071-lieferzone-regel-pruefen` | Wenn es um Lieferzone Regel Prüfen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `stv-078-lieferzone-behoerde-anschreiben` | Wenn es um Lieferzone Behörde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `stv-081-ladezone-regel-pruefen` | Wenn es um Ladezone Regel Prüfen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `stv-088-ladezone-behoerde-anschreiben` | Wenn es um Ladezone Behörde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `stv-091-schulstrasse-regel-pruefen` | Wenn es um Schulstrasse Regel Prüfen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `stv-098-schulstrasse-behoerde-anschreiben` | Wenn es um Schulstrasse Behörde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `stv-003-verkehrsrechtliche-anordnung-pruefen` | Wenn es um Verkehrsrechtliche Anordnung Pruefen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `stv-021-haltverbot-regel-pruefen` | Wenn es um Haltverbot Regel Pruefen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `stv-028-haltverbot-behoerde-anschreiben` | Wenn es um Haltverbot Behoerde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `stv-031-tempo-30-regel-pruefen` | Wenn es um Tempo 30 Regel Pruefen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `stv-038-tempo-30-behoerde-anschreiben` | Wenn es um Tempo 30 Behoerde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `stv-041-fahrradstrasse-regel-pruefen` | Wenn es um Fahrradstrasse Regel Pruefen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `stv-048-fahrradstrasse-behoerde-anschreiben` | Wenn es um Fahrradstrasse Behoerde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `stv-051-busspur-regel-pruefen` | Wenn es um Busspur Regel Pruefen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `stv-058-busspur-behoerde-anschreiben` | Wenn es um Busspur Behoerde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `stv-061-bewohnerparken-regel-pruefen` | Wenn es um Bewohnerparken Regel Pruefen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `stv-068-bewohnerparken-behoerde-anschreiben` | Wenn es um Bewohnerparken Behoerde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `stv-071-lieferzone-regel-pruefen` | Wenn es um Lieferzone Regel Pruefen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `stv-078-lieferzone-behoerde-anschreiben` | Wenn es um Lieferzone Behoerde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `stv-081-ladezone-regel-pruefen` | Wenn es um Ladezone Regel Pruefen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `stv-088-ladezone-behoerde-anschreiben` | Wenn es um Ladezone Behoerde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `stv-091-schulstrasse-regel-pruefen` | Wenn es um Schulstrasse Regel Pruefen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `stv-098-schulstrasse-behoerde-anschreiben` | Wenn es um Schulstrasse Behoerde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `tempo-30-anordnung-angreifen` | Wenn es um Tempo 30 Anordnung Angreifen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `tempo-30-antrag-schreiben` | Wenn es um Tempo 30 Antrag Schreiben in Straßenverkehrsrecht StVO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `tempo-30-behoerde-anschreiben` | Wenn es um Tempo 30 Behörde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -210,7 +189,7 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `tempo-30-karte-bauen` | Wenn es um Tempo 30 Karte Bauen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `tempo-30-zeichen-auslegen` | Wenn es um Tempo 30 Zeichen Auslegen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `tempo-regel-zeichen-auslegen-anordnung` | Wenn es um Tempo 30 Regel Prüfen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `tempo-risiko-fahrradstrasse-regel` | Wenn es um Tempo 30 Risiko Erklären in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `tempo-risiko-fahrradstrasse-regel` | Wenn es um Tempo 30 Risiko Erklaeren in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `tempo-sichern-eilrechtsschutz-planen` | Wenn es um Tempo 30 Beweis Sichern in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `tempozone-und-beschilderung` | Wenn es um Tempozone Und Beschilderung in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `verkehrsrechtliche-anordnung-pruefen` | Wenn es um Verkehrsrechtliche Anordnung Prüfen in Straßenverkehrsrecht StVO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

@@ -1,27 +1,5 @@
 # bereicherungs-und-anfechtungsrecht-prüfer
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`bereicherungs-und-anfechtungsrecht-pruefer`) | [`bereicherungs-und-anfechtungsrecht-pruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bereicherungs-und-anfechtungsrecht-pruefer.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Bereicherungs-Dreiecksverhältnis / Doppelverkauf Oldtimer Bischof-Hellberg / Bonn** (`bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn`) | [Gesamt-PDF lesen](../testakten/bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn/gesamt-pdf/bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn_gesamt.pdf) | [`testakte-bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn.zip) |
-| **BGB BT — Holzofen, Lieferkette, Bürgschaft, GoA und Brandschaden** (`bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt`) | [Gesamt-PDF lesen](../testakten/bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt/gesamt-pdf/bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt_gesamt.pdf) | [`testakte-bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -289,7 +267,7 @@ Automatisch generierte Komplett-Liste aller 138 Skills in diesem Plugin. Beschre
 | `anfg-fristen-und-anfechtungszeitraum` | Wenn es um Fristen und Anfechtungszeitraum — AnfG in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstich... |
 | `anfg-grundtatbestand-anfechtungsberechtigte` | Wenn es um AnfG-Grundtatbestand und Anfechtungsberechtigte in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Aus... |
 | `anfg-grundtatbestand-und-anfechtungsberechtigte` | Wenn es um AnfG-Grundtatbestand und Anfechtungsberechtigte in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Aus... |
-| `anfg-mittelbare-benachteiligung-und-kongruenz` | Wenn es um Mittelbare Benachteiligung und Kongrünz — AnfG in bereicherungs-und-anfechtungsrecht-prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `anfg-mittelbare-benachteiligung-und-kongruenz` | Wenn es um Mittelbare Benachteiligung und Kongruenz — AnfG in bereicherungs-und-anfechtungsrecht-prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `anfg-rechtsfolge-rueckgewaehr-11` | Wenn es um Rechtsfolge: Rückgewähr — Paragraf 11 AnfG in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `anfg-unentgeltliche-leistung-4` | Wenn es um Unentgeltliche Leistung — Paragraf 4 AnfG in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlst... |
 | `anfg-unentgeltliche-vorsatzanfechtung` | Wenn es um Unentgeltliche Leistung — Paragraf 4 AnfG in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlst... |
@@ -334,10 +312,10 @@ Automatisch generierte Komplett-Liste aller 138 Skills in diesem Plugin. Beschre
 | `inso-gesellschafterdarlehen-grundtatbestand` | Wenn es um Gesellschafterdarlehen — Paragraf 135 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahls... |
 | `inso-grundtatbestand-129` | Wenn es um Grundtatbestand Insolvenzanfechtung — Paragraf 129 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschrit... |
 | `inso-grundtatbestand-129-glaeubigerbenachteiligung` | Wenn es um Grundtatbestand Insolvenzanfechtung — Paragraf 129 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschrit... |
-| `inso-inkongruente-deckung-131` | Wenn es um Inkongrünte Deckung — Paragraf 131 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `inso-inkongruente-deckung-131` | Wenn es um Inkongruente Deckung — Paragraf 131 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `inso-ki-anfechtungsansprueche-schuldnerakten` | Wenn es um digitale Werkzeuge-Screening Schuldnerakten — mögliche Anfechtungsansprüche in bereicherungs-und-anfechtungsrecht-prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollis... |
-| `inso-kongruente-deckung-130` | Wenn es um Kongrünte Deckung — Paragraf 130 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und... |
-| `inso-kongruente-deckung-rechtsfolge` | Wenn es um Kongrünte Deckung — Paragraf 130 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und... |
+| `inso-kongruente-deckung-130` | Wenn es um Kongruente Deckung — Paragraf 130 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und... |
+| `inso-kongruente-deckung-rechtsfolge` | Wenn es um Kongruente Deckung — Paragraf 130 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und... |
 | `inso-rechtsfolge-rueckgewaehr-143-bis-147` | Wenn es um Rechtsfolge Insolvenzanfechtung — Paragrafen 143 bis 147 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen,... |
 | `inso-unentgeltliche-leistung-134` | Wenn es um Unentgeltliche Leistung — Paragraf 134 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `inso-unmittelbar-nachteilige-rechtshandlungen` | Wenn es um Unmittelbar nachteilige Rechtshandlungen — Paragraf 132 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Soforts... |

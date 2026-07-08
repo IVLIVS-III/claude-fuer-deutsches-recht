@@ -54,3 +54,7 @@ Der Tenor muss Rechtsschutzart, Verwaltungsakt oder Leistungsbegehren, Kosten un
 | Schätzung | Schätzungsbefugnis, Methode, Plausibilität und Sicherheitszuschlag | Schätzung darf nicht Strafcharakter bekommen |
 | Einspruchsentscheidung | Beschwer, Klagefrist, Änderungsnorm, Verböserung | Streitgegenstand nicht überdehnen |
 | Beweislast | objektive Feststellungslast und Mitwirkungspflichten | Auslandssachverhalt und Beweisnähe gesondert |
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirkung, Schätzung, Beweisangebot und Entscheidungsreife. Er macht sichtbar, welche Tatsache aus Buchführung, Prüfungsbericht, Steuerakte oder Parteivortrag stammt und welche Aufklärungsanordnung nach FGO-Logik erforderlich bleibt.

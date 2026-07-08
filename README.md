@@ -44,7 +44,7 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | **Skills (SKILL.md)** | 26179 — [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 301 zentral / 319 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v429.4.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v429.5.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -708,7 +708,7 @@ Das Skript kopiert die Root-Referenzen ggf. in die Plugin-Spiegel und meldet, wa
 
 ## Lizenz
 
-Doppellizenziert unter **Apache License, Version 2.0** ODER **MIT License**, nach Wahl des Nutzers (`SPDX-License-Identifier: Apache-2.0 OR MIT`) – siehe [](./LICENSE), [](./LICENSE-APACHE), [](./LICENSE-MIT) und [](./NOTICE).
+Doppellizenziert unter **Apache License, Version 2.0** ODER **MIT License**, nach Wahl des Nutzers (`SPDX-License-Identifier: Apache-2.0 OR MIT`) – siehe [Lizenzhinweis](./LICENSE), [Apache-2.0-Lizenz](./LICENSE-APACHE), [MIT-Lizenz](./LICENSE-MIT) und [Notice](./NOTICE).
 
 Die ursprüngliche Vorlage `claude-for-legal` von Anthropic steht unter der MIT-Lizenz; diese Adaption erweitert, ersetzt und ergänzt die ursprünglichen Inhalte und wird unter dem oben genannten Doppellizenz-Modell veröffentlicht.
 

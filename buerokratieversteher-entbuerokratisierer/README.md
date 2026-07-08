@@ -1,22 +1,5 @@
 # Bürokratieversteher und Entbürokratisierer
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`buerokratieversteher-entbuerokratisierer`) | [`buerokratieversteher-entbuerokratisierer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/buerokratieversteher-entbuerokratisierer.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -88,7 +71,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `aufsichtsbeschwerde-dienstaufsicht` | Wenn es um Aufsichts- und Dienstaufsichtsbeschwerde in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `auslaenderbehoerde` | Wenn es um Ausländerbehörde in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `automatisierter-bescheid` | Wenn es um Automatisierter Bescheid in Bürokratieversteher und Entbürokratisierer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `bafoeg` | Wenn es um Bafög in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `bafoeg` | Wenn es um Bafoeg in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `bauantrag-bauordnungsamt-anordnung-behoerde` | Wenn es um Bauantrag in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `bauordnungsamt-anordnung` | Wenn es um Bauordnungsamt-Anordnung in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `behoerde-oder-gericht-erkennen` | Wenn es um Behörde oder Gericht erkennen in Bürokratieversteher und Entbürokratisierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken... |
@@ -182,6 +165,6 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `wohngeld` | Wenn es um Wohngeld in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `wohnung-und-obdachlosigkeit` | Wenn es um Wohnung und Obdachlosigkeit in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `zahlung-stundung-raten` | Wenn es um Zahlung, Stundung, Raten in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `zwangsgeld-und-zwangsvollstreckung-behoerde` | Wenn es um Zwangsgeld Und Zwangsvollstreckung Behörde in Bürokratieversteher und Entbürokratisierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpun... |
+| `zwangsgeld-und-zwangsvollstreckung-behoerde` | Wenn es um Zwangsgeld Und Zwangsvollstreckung Behoerde in Bürokratieversteher und Entbürokratisierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpun... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

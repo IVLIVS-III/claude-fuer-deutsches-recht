@@ -1,26 +1,5 @@
 # mandantenanfragen-assistent
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`mandantenanfragen-assistent`) | [`mandantenanfragen-assistent.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/mandantenanfragen-assistent.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Mandantenanfragen Q2/2026 — Kanzlei Roosendaal & Tannenfels, Köln** (`mandantenanfragen-kanzlei-roosendaal-koeln-erstkontakt-q2-2026`) | [Gesamt-PDF lesen](../testakten/mandantenanfragen-kanzlei-roosendaal-koeln-erstkontakt-q2-2026/gesamt-pdf/mandantenanfragen-kanzlei-roosendaal-koeln-erstkontakt-q2-2026_gesamt.pdf) | [`testakte-mandantenanfragen-kanzlei-roosendaal-koeln-erstkontakt-q2-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-mandantenanfragen-kanzlei-roosendaal-koeln-erstkontakt-q2-2026.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -199,16 +178,16 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `einwilligungshinweis-fristennotiz-und-naechster-schritt` | Wenn es um Einwilligungshinweis: Fristennotiz und nächster Schritt in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `erstantwort-foermlich-mail` | Wenn es um Erstantwort: Tatbestandsmerkmale, Beweisfragen und Beleglage in mandantenanfragen-assistent geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `erstantwort-generator` | Wenn es um Erstantwort-Generator in mandantenanfragen-assistent geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `foermlich-behoerden-gericht-und-registerweg` | Wenn es um Förmlich: Behörden-, Gerichts- oder Registerweg in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `foermlich-behoerden-gericht-und-registerweg` | Wenn es um Foermlich: Behörden-, Gerichts- oder Registerweg in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `folgekorrespondenz-vorbereiten-konfliktcheck` | Wenn es um Folgekorrespondenz-Vorbereiten in mandantenanfragen-assistent geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `konfliktcheck-vorab` | Wenn es um Konfliktcheck-Vorab in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `ma-aufnahmegespraech-leitfaden` | Wenn es um Aufnahmegesprächs-Leitfaden in mandantenanfragen-assistent geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sch... |
+| `ma-aufnahmegespraech-leitfaden` | Wenn es um Aufnahmegespraechs-Leitfaden in mandantenanfragen-assistent geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sch... |
 | `ma-einfuehrung-erstkontakt` | Wenn es um Erstkontakt: Typen in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ma-erstvermerk-mandantenakte` | Wenn es um Erstvermerk Mandantenakte in mandantenanfragen-assistent geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `ma-konfliktcheck-konzern` | Wenn es um Konfliktcheck im Konzern in mandantenanfragen-assistent geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `ma-mandant-manda-erstgespraechsleitfaden` | Wenn es um Mandant mit Betreuung in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `mail-dokumentenmatrix-und-lueckenliste` | Wenn es um Mail: Dokumentenmatrix, Lückenliste und Nachforderung in mandantenanfragen-assistent geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
-| `manda-erstgespraechsleitfaden-checkliste` | Wenn es um Manda: Erstgesprächsleitfaden in mandantenanfragen-assistent geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
+| `manda-erstgespraechsleitfaden-checkliste` | Wenn es um Manda: Erstgespraechsleitfaden in mandantenanfragen-assistent geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
 | `manda-erstkontakt-triagebogen-bauleiter` | Wenn es um Manda: Triagebogen Erstkontakt in mandantenanfragen-assistent geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `manda-mandatsablehnung-rechtsschutz` | Wenn es um Manda: Mandatsablehnung COI in mandantenanfragen-assistent geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schr... |
 | `manda-rechtsschutz-eintrittsanfrage-spezial` | Wenn es um Manda: RS-Eintrittsanfrage in mandantenanfragen-assistent geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
@@ -231,7 +210,7 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `terminvergabe-mehrparteien-konflikt-und-interessen` | Wenn es um Terminvergabe: Mehrparteienkonflikt und Interessenmatrix in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `transkription-beweislast-und-darlegungslast` | Wenn es um Transkription: Beweislast, Darlegungslast und Substantiierung in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `transkriptionsdienst-erklaerung` | Wenn es um Transkriptionsdienst-Erklärung in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `uebernimmt-telefon-konfiguration` | Wenn es um Übernimmt: Schriftsatz-, Brief- und Memo-Bausteine in mandantenanfragen-assistent geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und... |
+| `uebernimmt-telefon-konfiguration` | Wenn es um Uebernimmt: Schriftsatz-, Brief- und Memo-Bausteine in mandantenanfragen-assistent geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und... |
 | `unterlagen-luecken` | Wenn es um Unterlagen und Lücken in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vertraulichkeit-erinnerung` | Wenn es um Sekretariat muss wissen ab wann die Anwaltsschwiegepflicht gilt in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `workflow-chronologie-und-belegmatrix` | Wenn es um Chronologie und Belegmatrix in mandantenanfragen-assistent geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |

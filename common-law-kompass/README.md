@@ -1,26 +1,5 @@
 # Common-Law-Kompass für deutsche Wirtschaftsjuristen
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`common-law-kompass`) | [`common-law-kompass.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/common-law-kompass.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Akte Common-Law-Kompass: Crossborder Supply & License Agreement** (`common-law-kompass-crossborder-contract`) | [Gesamt-PDF lesen](../testakten/common-law-kompass-crossborder-contract/gesamt-pdf/common-law-kompass-crossborder-contract_gesamt.pdf) | [`testakte-common-law-kompass-crossborder-contract.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-common-law-kompass-crossborder-contract.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -138,7 +117,7 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `bilingual-contract-review` | Wenn es um Bilingual Contract Review in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `bilinguale-client-commercial-sonderfall` | Wenn es um Bilinguale: Compliance-Dokumentation und Aktenvermerk in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpun... |
 | `cl-discovery-doc-production-spezial` | Wenn es um Common Law: Discovery-Spezial in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten,... |
-| `cl-mandantenuebersicht-cl-prozesskostenrisiko` | Wenn es um Common Law: Mandantenübersicht EN in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| `cl-mandantenuebersicht-cl-prozesskostenrisiko` | Wenn es um Common Law: Mandantenuebersicht EN in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `cl-prozesskostenrisiko-each-party-bears-own` | Wenn es um Common Law: Each-party-bears-own in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `cl-spezial-precedent-vs-statute` | Wenn es um Common Law: Precedent gegen Statute in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpu... |
 | `cl-vertragsklauseln-vertragsbegriffe-cl` | Wenn es um Common Law: Vertragsklauseln in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten,... |

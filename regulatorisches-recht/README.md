@@ -1,26 +1,5 @@
 # Regulatorisches Recht – Plugin für deutsches Aufsichtsrecht
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`regulatorisches-recht`) | [`regulatorisches-recht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/regulatorisches-recht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **BaFin-Sonderprüfung Thalvenia Bank AG — Kryptoverwahrung, AML-Pflichtverletzungen, MiCAR-Lizenzkrise** (`bafin-verfahren-kryptoverwahrung-thalvenia-bank-aufsichtsverletzung-stuttgart`) | [Gesamt-PDF lesen](../testakten/bafin-verfahren-kryptoverwahrung-thalvenia-bank-aufsichtsverletzung-stuttgart/gesamt-pdf/bafin-verfahren-kryptoverwahrung-thalvenia-bank-aufsichtsverletzung-stuttgart_gesamt.pdf) | [`testakte-bafin-verfahren-kryptoverwahrung-thalvenia-bank-aufsichtsverletzung-stuttgart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bafin-verfahren-kryptoverwahrung-thalvenia-bank-aufsichtsverletzung-stuttgart.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -189,7 +168,7 @@ Automatisch generierte Komplett-Liste aller 61 Skills in diesem Plugin. Beschrei
 | `regr-finanzdienstleistungsregulierung-bauleiter` | Wenn es um RegR: FDL-Regulierung Bauleiter in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `regr-mica-kryptoassets-spezial` | Wenn es um RegR: MiCA Kryptoassets in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `regr-mifid2-regrecht-einfuehrung-internal` | Wenn es um RegR: MiFID II MAR in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `regrecht-einfuehrung-sektoren` | Wenn es um Regrecht: Sektoren-Einführung in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `regrecht-einfuehrung-sektoren` | Wenn es um Regrecht: Sektoren-Einfuehrung in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `regrecht-internal-policies-design` | Wenn es um Regrecht: Internal Policies in Regulatorisches Recht – Plugin für deutsches geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken... |
 | `regulator-zahlen-schwellen-und-berechnung` | Wenn es um Regulator: Zahlen, Schwellenwerte und Berechnung in Regulatorisches Recht – Plugin für deutsches geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen u... |
 | `regulatorik-mandatssteckbrief-behoerden-fristen` | Wenn es um Regulatorisches Mandat: Behörden, Fristen und Rollen in Regulatorisches Recht – Plugin für deutsches geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofo... |
@@ -198,9 +177,9 @@ Automatisch generierte Komplett-Liste aller 61 Skills in diesem Plugin. Beschrei
 | `richtlinien-anhoerung-red-aufsichtsrecht` | Wenn es um Richtlinien-Diff in Regulatorisches Recht – Plugin für deutsches geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `richtlinien-neufassung` | Wenn es um Richtlinien-Neufassung in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `sonderfall-edge-case` | Wenn es um Kaltstart: Sonderfall und Edge-Case-Prüfung in Regulatorisches Recht – Plugin für deutsches geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschri... |
-| `spezial-anhoerung-red-team-und-qualitaetskontrolle` | Wenn es um Anhörung: Red-Team und Qualitätskontrolle in Regulatorisches Recht – Plugin für deutsches geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-anhoerung-red-team-und-qualitaetskontrolle` | Wenn es um Anhoerung: Red-Team und Qualitätskontrolle in Regulatorisches Recht – Plugin für deutsches geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-feeds-compliance-dokumentation-und-akte` | Wenn es um Feeds: Compliance-Dokumentation und Aktenvermerk in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `spezial-massnahme-mandantenkommunikation-entscheidungsvorlage` | Wenn es um Maßnahme: Mandantenkommunikation und Entscheidungsvorlage in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofort... |
+| `spezial-massnahme-mandantenkommunikation-entscheidungsvorlage` | Wenn es um Massnahme: Mandantenkommunikation und Entscheidungsvorlage in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofort... |
 | `spezial-rdg-livequellen-und-rechtsprechungscheck` | Wenn es um RDG: Livequellen- und Rechtsprechungscheck in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `stellungnahmen` | Wenn es um Konsultationsbeiträge in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `stellungnahmen-beweislast-und-darlegungslast` | Wenn es um Stellungnahmen: Beweislast, Darlegungslast und Substantiierung in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit So... |

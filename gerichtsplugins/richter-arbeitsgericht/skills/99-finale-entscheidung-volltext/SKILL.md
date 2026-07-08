@@ -101,3 +101,7 @@ Bevor der Volltext freigegeben wird, durchlaeuft der Skill eine Eigenkontrolle:
 6. Sind alle Lückenpunkte explizit markiert?
 
 Erst nach bestandener Eigenkontrolle wird der Volltext als final ausgegeben.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt im arbeitsgerichtlichen Streitstoff Klageantrag, Kündigungs- oder Zahlungsgrund, Erwiderung, Güteversuch, Beweisangebot und Vergleichschance. Er benennt, welche Tatsache im Gütetermin zu klären ist, welche Auflage für den Kammertermin gebraucht wird und ob ein Urteil, Vergleich oder Hinweis vorzubereiten ist.

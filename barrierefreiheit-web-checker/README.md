@@ -1,26 +1,5 @@
 # Barrierefreiheit Web Checker
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`barrierefreiheit-web-checker`) | [`barrierefreiheit-web-checker.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/barrierefreiheit-web-checker.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **BFSG-Verstoß Tannenkamp Mode-Versand GmbH — Online-Shop Barrierefreiheit Osnabrück** (`bfsg-online-shop-tannenkamp-mode-versand-osnabrueck`) | [Gesamt-PDF lesen](../testakten/bfsg-online-shop-tannenkamp-mode-versand-osnabrueck/gesamt-pdf/bfsg-online-shop-tannenkamp-mode-versand-osnabrueck_gesamt.pdf) | [`testakte-bfsg-online-shop-tannenkamp-mode-versand-osnabrueck.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bfsg-online-shop-tannenkamp-mode-versand-osnabrueck.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -128,7 +107,7 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `einstieg-routing` | Wenn es um Einstieg und Routing in Barrierefreiheit Web Checker geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `en301549-wcag-pruefplan` | Wenn es um EN 301 549 und WCAG-Prüfplan in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `erklaerung-feedback-durchsetzung` | Wenn es um Erklärung, Feedback, Durchsetzung in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `erklaerung-interessen-formulare-pdfs` | Wenn es um Erklärung: Mehrparteienkonflikt und Interessenmatrix in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `erklaerung-interessen-formulare-pdfs` | Wenn es um Erklaerung: Mehrparteienkonflikt und Interessenmatrix in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `formulare-checkout-kontrast-farbe-native-apps` | Wenn es um Formulare, Checkout, E-Commerce in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `formulare-zahlen-schwellen-und-berechnung` | Wenn es um Formulare: Zahlen, Schwellenwerte und Berechnung in Barrierefreiheit Web Checker geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
 | `kontrast-farbe-motion-responsive` | Wenn es um Kontrast, Farbe, Motion, Responsive in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und näch... |
@@ -150,12 +129,12 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `screenreader-semantik-aria` | Wenn es um Screenreader, Semantik, ARIA in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sc... |
 | `sonderfall-edge-roadmap-rolle` | Wenn es um Prüfung: Sonderfall und Edge-Case-Prüfung in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-barrierefreiheit-red-team-und-qualitaetskontrolle` | Wenn es um Barrierefreiheit: Red-Team und Qualitätskontrolle in Barrierefreiheit Web Checker geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `spezial-pruefung-sonderfall-und-edge-case` | Wenn es um Prüfung: Sonderfall und Edge-Case-Prüfung in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-pruefung-sonderfall-und-edge-case` | Wenn es um Pruefung: Sonderfall und Edge-Case-Prüfung in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-screenreader-livequellen-und-rechtsprechungscheck` | Wenn es um Screenreader: Livequellen- und Rechtsprechungscheck in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `start-chronologie-fristen` | Wenn es um Barrierefreiheit Web Checker — Allgemein in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `tastatur-fokus-ueberwachungsstelle` | Wenn es um Tastatur, Fokus, Navigation in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sch... |
 | `tastatur-verhandlung-vergleich-und-eskalation` | Wenn es um Tastatur: Verhandlung, Vergleich und Eskalation in Barrierefreiheit Web Checker geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
-| `ueberwachungsstelle-und-rechtsfolgen` | Wenn es um Überwachung und Rechtsfolgen in Barrierefreiheit Web Checker geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `ueberwachungsstelle-und-rechtsfolgen` | Wenn es um Ueberwachung und Rechtsfolgen in Barrierefreiheit Web Checker geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `unterlagen-luecken` | Wenn es um Unterlagen und Lücken in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `usability-test-mit-betroffenen` | Wenn es um Usability-Test mit Betroffenen in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `wcag-risikoampel-und-gegenargumente` | Wenn es um Wcag: Risikoampel, Gegenargumente und Verteidigungslinien in Barrierefreiheit Web Checker geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

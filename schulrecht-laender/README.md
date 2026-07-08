@@ -1,28 +1,5 @@
 # Schulrecht der Bundesländer
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`schulrecht-laender`) | [`schulrecht-laender.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schulrecht-laender.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Schulleitung Gymnasium am Maschsee-Nord Hannover - Konkurrentenstreit** (`beamtenrecht-schulleitung-hannover-konkurrentenstreit`) | [Gesamt-PDF lesen](../testakten/beamtenrecht-schulleitung-hannover-konkurrentenstreit/gesamt-pdf/beamtenrecht-schulleitung-hannover-konkurrentenstreit_gesamt.pdf) | [`testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip) |
-| **Akte Lindenhof-Gymnasium - Inklusion, Ordnungsmaßnahme und Schulwechsel** (`schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof`) | [Gesamt-PDF lesen](../testakten/schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof/gesamt-pdf/schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof_gesamt.pdf) | [`testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip) |
-| **Teilhabeassistenz Berufsschule Regensburg: Autismus, Schulweg und Kommunikationshilfen** (`sozialrecht-teilhabeassistenz-autismus-berufsschule-regensburg`) | [Gesamt-PDF lesen](../testakten/sozialrecht-teilhabeassistenz-autismus-berufsschule-regensburg/gesamt-pdf/sozialrecht-teilhabeassistenz-autismus-berufsschule-regensburg_gesamt.pdf) | [`testakte-sozialrecht-teilhabeassistenz-autismus-berufsschule-regensburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-teilhabeassistenz-autismus-berufsschule-regensburg.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -103,10 +80,10 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 
 | Skill | Beschreibung |
 | --- | --- |
-| `abitur-und-abschlusspruefungen` | Wenn es um Abitur Und Abschlussprüfungen in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `abitur-und-abschlusspruefungen` | Wenn es um Abitur Und Abschlusspruefungen in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `abiturzulassung-und-fehlkurse` | Wenn es um Abiturzulassung und Fehlkurse in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `akteneinsicht-schulakte-attest` | Wenn es um Akteneinsicht Schulakte in Schulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
-| `attest-und-pruefungsunfaehigkeit-schule` | Wenn es um Attest Und Prüfungsunfähigkeit Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `attest-und-pruefungsunfaehigkeit-schule` | Wenn es um Attest Und Prüfungsunfaehigkeit Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `aufsichtspflicht-und-unfall` | Wenn es um Aufsichtspflicht Und Unfall in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `auslandsschule-rueckkehr` | Wenn es um Auslandsschule und Rückkehr in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `autismus-sensorik-barrierefreiheit-schule` | Wenn es um Autismus, Sensorik und Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -118,7 +95,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `cloud-plattform-schule-m365` | Wenn es um Cloud-Plattform Schule und M365 in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `cybermobbing-schule` | Wenn es um Cybermobbing Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `datenschutz-schule` | Wenn es um Datenschutz Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `einschulung-zurueckstellung-elternabend` | Wenn es um Einschulung Zurückstellung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `einschulung-zurueckstellung-elternabend` | Wenn es um Einschulung Zurueckstellung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `elternabend-protokoll-und-beschluss` | Wenn es um Elternabend, Protokoll und Beschluss in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `elternbeitrag-ogts-ganztag` | Wenn es um Elternbeitrag OGS/Ganztag in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `elternrechte-und-sorgerecht` | Wenn es um Elternrechte Und Sorgerecht in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -126,11 +103,11 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `foerderausschuss-und-foerderort` | Wenn es um Förderausschuss und Förderort in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `foto-video-einwilligung-schule` | Wenn es um Foto, Video und Einwilligung Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `gewaltschutz-und-schulischer-schutzplan` | Wenn es um Gewaltschutz und schulischer Schutzplan in Schulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `gymnasialempfehlung-uebergang-handyverbot` | Wenn es um Gymnasialempfehlung Und Übergang in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `handyverbot-und-digitalgeraete` | Wenn es um Handyverbot Und Digitalgeräte in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `gymnasialempfehlung-uebergang-handyverbot` | Wenn es um Gymnasialempfehlung Und Uebergang in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `handyverbot-und-digitalgeraete` | Wenn es um Handyverbot Und Digitalgeraete in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `hausaufgaben-und-betreuungspflichten` | Wenn es um Hausaufgaben und Betreuungspflichten in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `inklusion-sgb-schnittstelle` | Wenn es um Inklusion Sgb Schnittstelle in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `inklusion-sonderpaedagogischer-transport` | Wenn es um Inklusion Sonderpädagogischer Förderbedarf in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `inklusion-sonderpaedagogischer-transport` | Wenn es um Inklusion Sonderpaedagogischer Foerderbedarf in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `inklusion-transport-und-assistenz` | Wenn es um Inklusion, Transport und Assistenz in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `integrationshelfer-kostenstreit` | Wenn es um Integrationshelfer und Kostenstreit in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `jugendamt-meldung-schule` | Wenn es um Jugendamt-Meldung durch Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -154,8 +131,8 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `pruefungsaufsicht-formfehler` | Wenn es um Prüfungsaufsicht und Formfehler Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `redteam-schulrecht-qualitygate` | Wenn es um Redteam Schulrecht Qualitygate in Schulrecht der Bundesländer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `religionsunterricht-ethik-befreiung` | Wenn es um Religionsunterricht Ethik Befreiung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `schuelerbefoerderung` | Wenn es um Schülerbeförderung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `schuelervertretung-und-demonstration` | Wenn es um Schülervertretung Und Demonstration in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `schuelerbefoerderung` | Wenn es um Schuelerbefoerderung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `schuelervertretung-und-demonstration` | Wenn es um Schuelervertretung Und Demonstration in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schuelerzeitung-pressefreiheit-schulaufnahme` | Wenn es um Schülerzeitung und Pressefreiheit in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schulaufnahme-und-schulbezirk` | Wenn es um Schulaufnahme Und Schulbezirk in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schulaufsicht-akteneinsicht-eltern` | Wenn es um Schulaufsicht und Akteneinsicht der Eltern in Schulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
@@ -164,7 +141,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `schulbusaufsicht-und-befoerderungssicherheit` | Wenn es um Schulbusaufsicht und Beförderungssicherheit in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schulessen-und-ganztag` | Wenn es um Schulessen Und Ganztag in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schulgeld-ersatzschule` | Wenn es um Schulgeld Ersatzschule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `schulgesetz-baden-wuerttemberg-bayern-berlin` | Wenn es um Schulgesetz Baden Württemberg in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `schulgesetz-baden-wuerttemberg-bayern-berlin` | Wenn es um Schulgesetz Baden Wuerttemberg in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schulgesetz-bayern` | Wenn es um Schulgesetz Bayern in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schulgesetz-berlin` | Wenn es um Schulgesetz Berlin in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schulgesetz-brandenburg` | Wenn es um Schulgesetz Brandenburg in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -179,14 +156,14 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `schulgesetz-sachsen-anhalt` | Wenn es um Schulgesetz Sachsen Anhalt in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schulgesetz-sachsen-anhalt-schleswig-holstein` | Wenn es um Schulgesetz Sachsen in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schulgesetz-schleswig-holstein` | Wenn es um Schulgesetz Schleswig Holstein in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `schulgesetz-thueringen` | Wenn es um Schulgesetz Thüringen in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `schulgesetz-thueringen` | Wenn es um Schulgesetz Thueringen in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schulhund-allergie-schulische-ordnungsakte` | Wenn es um Schulhund, Allergie und Sicherheit in Schulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `schulische-ordnungsakte-beweisarchiv` | Wenn es um Schulische Ordnungsakte und Beweisarchiv in Schulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `schulkonferenz-und-mitwirkung` | Wenn es um Schulkonferenz Und Mitwirkung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `schulpflicht-und-schulversaeumnis` | Wenn es um Schulpflicht Und Schulversäumnis in Schulrecht der Bundesländer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| `schulpflicht-und-schulversaeumnis` | Wenn es um Schulpflicht Und Schulversaeumnis in Schulrecht der Bundesländer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `schulrecht-hausunterricht-schulsozialarbeit` | Wenn es um Hausunterricht, Ruhen der Schulpflicht und Schulverweigerung in Schulrecht der Bundesländer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `schulsozialarbeit-jugendamt` | Wenn es um Schulsozialarbeit Jugendamt in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `schultraeger-gebaeude-und-ausstattung` | Wenn es um Schulträger Gebäude Und Ausstattung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `schultraeger-gebaeude-und-ausstattung` | Wenn es um Schultraeger Gebaeude Und Ausstattung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schulvertrag-privatschule-bussgeld` | Wenn es um Schulvertrag Privatschule Kündigung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schulverweis-und-umschulung` | Wenn es um Schulverweis Und Umschulung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `schulwechsel-schulweg-unfall` | Wenn es um Schulwechsel in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -195,9 +172,9 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `sexualerziehung-und-elterninformation` | Wenn es um Sexualerziehung Und Elterninformation in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `sportbefreiung-gesundheit-sprachfoerderung` | Wenn es um Sportbefreiung Und Gesundheit in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `sprachfoerderung-willkommensklasse` | Wenn es um Sprachförderung und Willkommensklasse in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `taeuschung-schulpruefung` | Wenn es um Täuschung Schulprüfung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `taeuschung-schulpruefung` | Wenn es um Taeuschung Schulpruefung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `unterrichtsausschluss` | Wenn es um Unterrichtsausschluss in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `versetzung-nachpruefung-verwaltungsakt` | Wenn es um Versetzung Und Nachprüfung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `versetzung-nachpruefung-verwaltungsakt` | Wenn es um Versetzung Und Nachpruefung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `verwaltungsakt-oder-realakt-schule` | Wenn es um Verwaltungsakt Oder Realakt Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `waffen-drogen-schule` | Wenn es um Waffen, Drogen und Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `widerspruch-und-eilrechtsschutz-schule` | Wenn es um Widerspruch Und Eilrechtsschutz Schule in Schulrecht der Bundesländer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |

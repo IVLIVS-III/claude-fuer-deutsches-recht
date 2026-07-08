@@ -1,28 +1,5 @@
 # Word Legal AI Plugin and Skill for German Lawyers
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`word-legal-ai-plugin-and-skill-for-german-lawyers`) | [`word-legal-ai-plugin-and-skill-for-german-lawyers.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/word-legal-ai-plugin-and-skill-for-german-lawyers.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Drafting-Werkstatt — Asset-Deal / SPV / Grundstück Volkenrath Energie SE (Share-Deal und Pivot)** (`drafting-werkstatt-asset-deal-spv-grundstueck-volkenrath-energie-share-deal-und-pivot-anwaltsschreiben`) | [Gesamt-PDF lesen](../testakten/drafting-werkstatt-asset-deal-spv-grundstueck-volkenrath-energie-share-deal-und-pivot-anwaltsschreiben/gesamt-pdf/drafting-werkstatt-asset-deal-spv-grundstueck-volkenrath-energie-share-deal-und-pivot-anwaltsschreiben_gesamt.pdf) | [`testakte-drafting-werkstatt-asset-deal-spv-grundstueck-volkenrath-energie-share-deal-und-pivot-anwaltsschreiben.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-drafting-werkstatt-asset-deal-spv-grundstueck-volkenrath-energie-share-deal-und-pivot-anwaltsschreiben.zip) |
-| **Falkenried & Partner mbB — Managementakte Q2/2026** (`kanzlei-management-falkenried-partnerkreis-q2-2026`) | [Gesamt-PDF lesen](../testakten/kanzlei-management-falkenried-partnerkreis-q2-2026/gesamt-pdf/kanzlei-management-falkenried-partnerkreis-q2-2026_gesamt.pdf) | [`testakte-kanzlei-management-falkenried-partnerkreis-q2-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzlei-management-falkenried-partnerkreis-q2-2026.zip) |
-| **Akte Auerbach Soundworks / Nordlicht in Beton** (`urheberrecht-musik-ki-songstreit-auerbach`) | [Gesamt-PDF lesen](../testakten/urheberrecht-musik-ki-songstreit-auerbach/gesamt-pdf/urheberrecht-musik-ki-songstreit-auerbach_gesamt.pdf) | [`testakte-urheberrecht-musik-ki-songstreit-auerbach.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-urheberrecht-musik-ki-songstreit-auerbach.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -212,7 +189,7 @@ Automatisch generierte Komplett-Liste aller 52 Skills in diesem Plugin. Beschrei
 | `argumentationsarchitektur-schreiben` | Wenn es um Argumentationsarchitektur Schreiben in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `b2b-vs-b2c-klausel-strategie` | Wenn es um B2B vs. B2C Klauselstrategie in Word-Workflows für deutsche Juristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `bedingungen-aufschiebend` | Wenn es um Fristen- und Risikoampel in Word-Workflows für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `bedingungen-aufschiebend-aufloesend-fristen` | Wenn es um Bedingungen aufschiebend, auflösend, Fristen in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `bedingungen-aufschiebend-aufloesend-fristen` | Wenn es um Bedingungen aufschiebend, aufloesend, Fristen in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `bilingual-drafting-cowork-cloud` | Wenn es um Bilinguales Drafting Deutsch-Englisch in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `bilinguales-writing-englische-vertraege` | Wenn es um Bilinguales Legal Writing für deutsche Anwälte in Word-Workflows für deutsche Juristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachwei... |
 | `boilerplate-klauseln-definitionen` | Wenn es um Boilerplate-Klauseln: Katalog mit Mustertexten in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. |
@@ -221,7 +198,7 @@ Automatisch generierte Komplett-Liste aller 52 Skills in diesem Plugin. Beschrei
 | `definitionen-klauseln-stringent` | Wenn es um Definitionen-Klauseln stringent in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `deutscher-kanzleistil-kalibrieren` | Wenn es um Deutscher Kanzleistil Kalibrieren in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `dokumentarchitektur-vertrag-englischer` | Wenn es um Dokumentarchitektur: Vertrag und Schriftsatz in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `drafting-prinzipien-finaler-writing` | Wenn es um Drafting-Prinzipien: Klarheit, Bestimmtheit, Präzision in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `drafting-prinzipien-finaler-writing` | Wenn es um Drafting-Prinzipien: Klarheit, Bestimmtheit, Praezision in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `englische-vertraege-deutsches-recht` | Wenn es um Englische Verträge nach deutschem Recht stil- und risikofest formulieren in Word-Workflows für deutsche Juristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Z... |
 | `englischer-vertrag-deutsches-recht` | Wenn es um Englischer Vertrag nach Deutschem Recht in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `entwurfscheck-aktenabgleich-red-team` | Wenn es um Entwurfscheck, Aktenabgleich und Red Team in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

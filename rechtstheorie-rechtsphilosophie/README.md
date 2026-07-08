@@ -1,22 +1,5 @@
 # Rechtstheorie und Rechtsphilosophie
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`rechtstheorie-rechtsphilosophie`) | [`rechtstheorie-rechtsphilosophie.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/rechtstheorie-rechtsphilosophie.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -100,7 +83,7 @@ Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschrei
 | `adressatenwuerde-und-rechtssteuerung` | Wenn es um Adressatenwürde und Rechtssteuerung in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `besitz-law-and-economics-transaktionskosten` | Wenn es um Besitz und Law & Economics: Transaktionskosten in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `besitz-rechtsrealismus-praktische` | Wenn es um Besitz, Rechtsrealismus und praktische Bedürfnisse in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristench... |
-| `besitz-rechtsrealismus-und-praktische-beduerfnisse` | Wenn es um Besitz Rechtsrealismus Und Praktische Bedürfnisse in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `besitz-rechtsrealismus-und-praktische-beduerfnisse` | Wenn es um Besitz Rechtsrealismus Und Praktische Beduerfnisse in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `besitzdogmatik-historische-schule` | Wenn es um Besitzdogmatik, historische Schule und Systemdenken in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpu... |
 | `besitzdogmatik-historische-schule-und-systemdenken` | Wenn es um Besitzdogmatik Historische Schule Und Systemdenken in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `daseinsvorsorge-verwaltungsrealismus` | Wenn es um Daseinsvorsorge und Verwaltungsrealismus in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risi... |
@@ -122,7 +105,7 @@ Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschrei
 | `kelsen-demokratie-verfahren-minderheitenschutz` | Wenn es um Kelsen Demokratie Verfahren Minderheitenschutz in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `kelsen-normativismus-und-reine-rechtslehre` | Wenn es um Kelsen: Normativismus und reine Rechtslehre in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargume... |
 | `kelsen-stufenbau-gueltigkeit` | Wenn es um Kelsen: Stufenbau, Geltung, Kompetenz und Methodendisziplin in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `kelsen-stufenbau-gueltigkeit-und-methodendisziplin` | Wenn es um Kelsen Stufenbau Gültigkeit Und Methodendisziplin in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gege... |
+| `kelsen-stufenbau-gueltigkeit-und-methodendisziplin` | Wenn es um Kelsen Stufenbau Gueltigkeit Und Methodendisziplin in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gege... |
 | `kelsen-stufenbau-kompetenz-und-grundnorm` | Wenn es um Stufenbau, Kompetenz und Normkette in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `krisenverfassung-und-permanenter-notstand` | Wenn es um Krisenverfassung und permanenter Notstand in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `kritisches-red-team-ideologie` | Wenn es um Kritisches Red-Team in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -148,7 +131,7 @@ Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschrei
 | `rule-by-law-vs-rechtsstaat` | Wenn es um Rule by Law vs. Rechtsstaat in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `spontane-ordnung-gewohnheit-custom-red-team` | Wenn es um Spontane Ordnung, Gewohnheit und Custom: Red-Team in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
 | `sprache-begriffe-fiktionen` | Wenn es um Sprache, Begriffe und Fiktionen in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `staat-als-ordnungsmacht-anti-autoritaerer-check` | Wenn es um Staat Als Ordnungsmacht Anti Autoritärer Check in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `staat-als-ordnungsmacht-anti-autoritaerer-check` | Wenn es um Staat Als Ordnungsmacht Anti Autoritaerer Check in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `staat-ordnungsmacht-anti-autoritaerer-check` | Wenn es um Staat als Ordnungsmacht: anti-autoritärer Check in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkte... |
 | `systemdenken-kohaerenz-widerspruch` | Wenn es um Systemdenken und Kohärenz in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `technokratie-industriegesellschaft` | Wenn es um Technokratie, Industriegesellschaft und Grundrechte in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristenc... |

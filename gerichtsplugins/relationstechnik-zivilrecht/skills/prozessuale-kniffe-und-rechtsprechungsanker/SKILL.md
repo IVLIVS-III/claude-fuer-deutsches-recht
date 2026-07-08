@@ -58,3 +58,7 @@ Non liquet wird nicht versteckt: Wenn eine erhebliche Tatsache nach Beweisaufnah
 ## Mini-Formel
 
 Schlüssig ist nur, was bei unterstellter Wahrheit den Anspruch trägt. Erheblich ist nur, was bei unterstellter Wahrheit den Anspruch zu Fall bringt oder hemmt. Beweisbedürftig bleibt nur, was entscheidungserheblich, streitig und beweiszugänglich ist.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ist in die Vier-Stationen-Relation einzuhängen: Klägerstation, Beklagtenstation, Beweisstation und Entscheidungsstation bleiben getrennt. Er benennt zu jedem Streitpunkt die tragende Tatsache, den Vortrag der Gegenseite, das Beweisangebot, die Beweislast und die Rechtsfolge. Fehlt eine Station, wird nicht frei ergänzt, sondern als Lücke mit Anschlussverfügung ausgewiesen.

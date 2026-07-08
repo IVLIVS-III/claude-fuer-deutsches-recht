@@ -1,39 +1,39 @@
-Wenn du das hier öffnest, willst du im Bereich Berufsrecht Patentanwälte zügig von Unterlagen zu einem verwertbaren Arbeitsprodukt kommen.
+Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Berufsrecht Patentanwälte ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
 
 # Berufsrecht Patentanwälte — Schnellstart
 
-Ziel: Plugin für Patentanwaltsrecht: PAO, Patentanwaltskammer, Vertretungsbefugnis, Schutzrechtsmandate, Verschwiegenheit, Interessenkollision, Werbung, Berufsausübungsgesellschaft und berufsgerichtliche Risiken. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Plugin für Patentanwaltsrecht: PAO, Patentanwaltskammer, Vertretungsbefugnis, Schutzrechtsmandate, Verschwiegenheit, Interessenkollision, Werbung, Berufsausübungsgesellschaft und berufsgerichtliche Risiken. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
-1. Aktenführung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-2. Patentanwälte: aktenherausgabe patentakten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie; Ergebnis.
-3. Patentanwälte: aktenherausgabe patentakten - Organisationspflichten, Prävention, Team-Anweisung.: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg.
-4. Patentanwälte: aktenherausgabe patentakten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste.
-5. Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden.: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel.
-6. Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kammerantwort mit Verfahrensstrategie, Tonlage.: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie; Ergebnis.
+1. Aktenführung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+2. Patentanwälte: aktenherausgabe patentakten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+3. Patentanwälte: aktenherausgabe patentakten - Organisationspflichten, Prävention, Team-Anweisung.: Patentanwälte: aktenherausgabe patentakten - Organisationspflichten, Prävention, Team-Anweisung.: Tatsachen, Frist, Zuständigkeit.
+4. Patentanwälte: aktenherausgabe patentakten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+5. Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden.: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+6. Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kammerantwort mit Verfahrensstrategie, Tonlage.: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aktenführung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Patentanwälte: aktenherausgabe patentakten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Patentanwälte: aktenherausgabe patentakten - Organisationspflichten, Prävention, Team-Anweisung. | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Patentanwälte: aktenherausgabe patentakten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden. | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kammerantwort mit Verfahrensstrategie, Tonlage. | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenführung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Patentanwälte: aktenherausgabe patentakten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Patentanwälte: aktenherausgabe patentakten - Organisationspflichten, Prävention, Team-Anweisung. | Patentanwälte: aktenherausgabe patentakten - Organisationspflichten, Prävention, Team-Anweisung.: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Patentanwälte: aktenherausgabe patentakten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden. | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kammerantwort mit Verfahrensstrategie, Tonlage. | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

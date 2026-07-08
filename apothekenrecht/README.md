@@ -1,22 +1,5 @@
 # Apothekenrecht
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`apothekenrecht`) | [`apothekenrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/apothekenrecht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -165,6 +148,6 @@ Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschrei
 | `versandhandel-e-versandhandelserlaubnis-eu` | Wenn es um Versandhandel und E-Rezept Intake in Apothekenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `versandhandelserlaubnis-eu-versandapotheke` | Wenn es um Versandhandelserlaubnis EU Versandapotheke in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `versorgung-pflegeheim-schnittstelle` | Wenn es um Versorgung Pflegeheim Schnittstelle in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `widerruf-ruecknahme-ruhen-apothekenerlaubnis` | Wenn es um Widerruf Rücknahme Ruhen Apothekenerlaubnis in Apothekenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `widerruf-ruecknahme-ruhen-apothekenerlaubnis` | Wenn es um Widerruf Ruecknahme Ruhen Apothekenerlaubnis in Apothekenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

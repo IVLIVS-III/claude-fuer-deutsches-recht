@@ -100,3 +100,7 @@ Bevor der Volltext freigegeben wird, durchlaeuft der Skill eine Eigenkontrolle:
 6. Sind alle Lückenpunkte explizit markiert?
 
 Erst nach bestandener Eigenkontrolle wird der Volltext als final ausgegeben.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirkung, Schätzung, Beweisangebot und Entscheidungsreife. Er macht sichtbar, welche Tatsache aus Buchführung, Prüfungsbericht, Steuerakte oder Parteivortrag stammt und welche Aufklärungsanordnung nach FGO-Logik erforderlich bleibt.

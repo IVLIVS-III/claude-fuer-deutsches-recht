@@ -1,27 +1,5 @@
 # Strafbefehl-Verteidiger
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`strafbefehl-verteidiger`) | [`strafbefehl-verteidiger.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strafbefehl-verteidiger.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **LUMEN Studios GmbH — Insolvenz- und Wirtschaftsstrafverfahren** (`lumen-studios-insolvenz-strafverfahren`) | [Gesamt-PDF lesen](../testakten/lumen-studios-insolvenz-strafverfahren/gesamt-pdf/lumen-studios-insolvenz-strafverfahren_gesamt.pdf) | [`testakte-lumen-studios-insolvenz-strafverfahren.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lumen-studios-insolvenz-strafverfahren.zip) |
-| **Strafbefehl – Ladendiebstahl und Fahrerflucht** (`strafbefehl-ladendiebstahl-fahrerflucht`) | [Gesamt-PDF lesen](../testakten/strafbefehl-ladendiebstahl-fahrerflucht/gesamt-pdf/strafbefehl-ladendiebstahl-fahrerflucht_gesamt.pdf) | [`testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -161,15 +139,15 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `stbv-fahrerlaubnis-bei-strafbefehl-spezial` | Wenn es um StBV: Fahrerlaubnis Strafbefehl in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `stbv-strafbefehl-abwesenheit-vertretung` | Wenn es um StBV: Strafbefehl-Prüfung in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `stbv-strafbefehl-auslaendischer-mandant-spezial` | Wenn es um StBV: Strafbefehl Ausländer in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `stbv-strafbefehl-pruefung-bauleiter` | Wenn es um StBV: Strafbefehl-Prüfung in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `stbv-strafbefehl-pruefung-bauleiter` | Wenn es um StBV: Strafbefehl-Pruefung in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `strafbefehl-abwesenheit-vertretung` | Wenn es um Abwesenheit in der Hauptverhandlung — Paragraf 411 Abs. 2 StPO in Strafbefehl-Verteidiger geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `strafbefehl-aktenanlage` | Wenn es um Aktenanlage im Strafbefehlsverfahren in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `strafbefehl-akteneinsicht-147` | Wenn es um Akteneinsicht im Strafbefehlsverfahren — Paragraf 147 StPO in Strafbefehl-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächs... |
-| `strafbefehl-deal-verstaendigung` | Wenn es um Verständigung im Strafbefehlsverfahren — Paragraf 257c StPO in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `strafbefehl-deal-verstaendigung` | Wenn es um Verstaendigung im Strafbefehlsverfahren — Paragraf 257c StPO in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `strafbefehl-dokumentenmatrix-und-lueckenliste` | Wenn es um Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung in Strafbefehl-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
 | `strafbefehl-einlassung-deal-verstaendigung` | Wenn es um Beweis und Einlassung im Strafbefehlsverfahren in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `strafbefehl-einspruch-aktenanlage` | Wenn es um Gegen: Fristen, Form, Zuständigkeit und Rechtsweg in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `strafbefehl-einspruch-beschraenkung` | Wenn es um Beschränkter Einspruch gegen den Strafbefehl — Paragraf 410 Abs. 2 StPO in Strafbefehl-Verteidiger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt m... |
+| `strafbefehl-einspruch-beschraenkung` | Wenn es um Beschraenkter Einspruch gegen den Strafbefehl — Paragraf 410 Abs. 2 StPO in Strafbefehl-Verteidiger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt m... |
 | `strafbefehl-fristen-einspruch` | Wenn es um Frist und Einspruch nach Paragraf 410 StPO in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `strafbefehl-hauptverhandlung-vorbereitung` | Wenn es um Hauptverhandlung nach Einspruch — Paragraf 411 StPO in Strafbefehl-Verteidiger geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `strafbefehl-inhalt-409-pruefung` | Wenn es um Strafbefehlsinhalt prüfen — Paragraf 409 StPO in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -178,13 +156,13 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `strafbefehl-quality-gate` | Wenn es um Quality Gate — Strafbefehl-Mandat in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `strafbefehl-quality-gate-akteneinsicht` | Wenn es um Strafbefehl-Verteidiger — Kommandocenter in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `strafbefehl-rechtsprechungsrecherche` | Wenn es um Rechtsprechungsrecherche im Strafbefehlsverfahren in Strafbefehl-Verteidiger geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
-| `strafbefehl-tagessaetze-geldstrafe` | Wenn es um Tagessätze und Geldstrafe — Paragrafen 40 bis 43 StGB in Strafbefehl-Verteidiger geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und A... |
-| `strafbefehl-wiedereinsetzung` | Wenn es um Wiedereinsetzung nach versäumter Einspruchsfrist — Paragraf 44 StPO in Strafbefehl-Verteidiger geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortsch... |
-| `strafbefehl-zulaessigkeit-407` | Wenn es um Zulässigkeit des Strafbefehls — Paragraf 407 StPO in Strafbefehl-Verteidiger geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `strafbefehl-tagessaetze-geldstrafe` | Wenn es um Tagessaetze und Geldstrafe — Paragrafen 40 bis 43 StGB in Strafbefehl-Verteidiger geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und A... |
+| `strafbefehl-wiedereinsetzung` | Wenn es um Wiedereinsetzung nach versaeumter Einspruchsfrist — Paragraf 44 StPO in Strafbefehl-Verteidiger geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortsch... |
+| `strafbefehl-zulaessigkeit-407` | Wenn es um Zulaessigkeit des Strafbefehls — Paragraf 407 StPO in Strafbefehl-Verteidiger geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `strafbefehls-erstpruefung-und-mandatsziel` | Wenn es um Strafbefehls: Erstprüfung, Rollenklärung und Mandatsziel in Strafbefehl-Verteidiger geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `tagessaetze-verstaendigung-sonderfall` | Wenn es um Tagessätze: Schriftsatz-, Brief- und Memo-Bausteine in Strafbefehl-Verteidiger geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anl... |
+| `tagessaetze-verstaendigung-sonderfall` | Wenn es um Tagessaetze: Schriftsatz-, Brief- und Memo-Bausteine in Strafbefehl-Verteidiger geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anl... |
 | `unterlagen-luecken` | Wenn es um Unterlagen und Lücken in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `verstaendigung-sonderfall-und-edge-case` | Wenn es um Verständigung: Sonderfall und Edge-Case-Prüfung in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `verstaendigung-sonderfall-und-edge-case` | Wenn es um Verstaendigung: Sonderfall und Edge-Case-Prüfung in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `verteidiger-formular-portal-und-einreichung` | Wenn es um Verteidiger: Formular, Portal und Einreichungslogik in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `verteidigung-wiedereinsetzung-zeugenstrategie` | Wenn es um Verteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage in Strafbefehl-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `wiedereinsetzung-zahlen-schwellen-und-berechnung` | Wenn es um Wiedereinsetzung: Zahlen, Schwellenwerte und Berechnung in Strafbefehl-Verteidiger geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfra... |

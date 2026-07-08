@@ -45,3 +45,7 @@ Nutze diesen Skill, wenn die Hauptverhandlung aktiv, fair und revisionsfest gef�
 ## Urteilsanker
 
 Feststellungen, Beweiswürdigung und rechtliche Würdigung werden getrennt geschrieben. Jede entscheidende Tatsache braucht ein eingeführtes Beweismittel oder eine tragfähige Würdigungslinie.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill sortiert den strafrichterlichen Streitstoff nach Anklagevorwurf, Einlassung, Beweismittel, rechtlicher Würdigung und Rechtsfolgenfrage. Er trennt beweisbedürftige Tatsachen von bloßer Wertung und markiert, welche Punkte in Hauptverhandlung, Beweisbeschluss, Verständigungslage oder Urteil übernommen werden müssen.

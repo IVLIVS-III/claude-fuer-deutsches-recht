@@ -1,49 +1,43 @@
-Wenn du das hier öffnest, willst du im Bereich EUropäisches Prozessrecht zügig von Unterlagen zu einem verwertbaren Arbeitsprodukt kommen.
+Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Europäisches Prozessrecht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
 
-# EUropäisches Prozessrecht — Schnellstart
+# Europäisches Prozessrecht — Schnellstart
 
-Ziel: EUropäisches Prozessrecht vor EUGH und EUG: Klagearten, Vorlage, e-Curia, Fristen, Rechtsschutz, Rechtsmittel, Intervention, Beweis, Kosten und Strategie. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Europäisches Prozessrecht vor EuGH und EuG: Klagearten, Vorlage, e-Curia, Fristen, Rechtsschutz, Rechtsmittel, Intervention, Beweis, Kosten und Strategie. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
-1. Unionsamtshaftung: Prüft Schadensersatzklagen wegen außervertraglicher Haftung der Union nach Art. 268 und 340 AEUV; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-2. e-Curia Einreichung und Zustellung: Führt durch e-Curia-Einreichung, Anlagen, Zustellung, Dateibenennung, Vertreterrolle, Fristenkontrolle; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-3. Einstweiliger Rechtsschutz: Baut Anträge auf Aussetzung und einstweilige Anordnung nach Art. 278 und 279 AEUV mit Dringlichkeit, fumus boni; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-4. Nichtigkeitsklage nach Art. 263 AEUV: Prüft Nichtigkeitsklagen vor dem Gericht der EUropäischen Union gegen EU-Rechtsakte: Klagebefugnis, Frist; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-5. Vorabentscheidung nach Art. 267 AEUV: Entwickelt Vorlagefragen, Vorlagebeschluss, Parteivortrag und nationale Verfahrensstrategie nach Art. 267 AEUV; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-6. EUIPO vor Beschwerdekammer, EUG und EUGH: Routet Marken- und Designverfahren vom EUIPO über Beschwerdekammer, Gericht der EUropäischen Union und Gerichtshof; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
+1. Unionsamtshaftung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+2. e-Curia Einreichung und Zustellung: e-Curia Einreichung und Zustellung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+3. Einstweiliger Rechtsschutz: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
+4. Nichtigkeitsklage nach Art. 263 AEUV: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+5. Vorabentscheidung nach Art. 267 AEUV: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+6. EUIPO vor Beschwerdekammer, EuG und EuGH: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Unionsamtshaftung | Prüft Schadensersatzklagen wegen außervertraglicher Haftung der Union nach Art. 268 und 340 AEUV? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| e-Curia Einreichung und Zustellung | Führt durch e-Curia-Einreichung, Anlagen, Zustellung, Dateibenennung, Vertreterrolle, Fristenkontrolle? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einstweiliger Rechtsschutz | Baut Anträge auf Aussetzung und einstweilige Anordnung nach Art. 278 und 279 AEUV mit Dringlichkeit, fumus boni? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Nichtigkeitsklage nach Art. 263 AEUV | Prüft Nichtigkeitsklagen vor dem Gericht der EUropäischen Union gegen EU-Rechtsakte: Klagebefugnis, Frist? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vorabentscheidung nach Art. 267 AEUV | Entwickelt Vorlagefragen, Vorlagebeschluss, Parteivortrag und nationale Verfahrensstrategie nach Art. 267 AEUV? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| EUIPO vor Beschwerdekammer, EUG und EUGH | Routet Marken- und Designverfahren vom EUIPO über Beschwerdekammer, Gericht der EUropäischen Union und Gerichtshof? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Unionsamtshaftung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| e-Curia Einreichung und Zustellung | e-Curia Einreichung und Zustellung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Einstweiliger Rechtsschutz | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Nichtigkeitsklage nach Art. 263 AEUV | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vorabentscheidung nach Art. 267 AEUV | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| EUIPO vor Beschwerdekammer, EuG und EuGH | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
-- Prüft Schadensersatzklagen wegen außervertraglicher Haftung der Union nach Art. 268 und 340 AEUV mit qualifiziertem Rechtsverstoß, Schaden, Kausalität und Bezifferung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 1. Art. 19 EUV als institutioneller Rechtsschutzrahmen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 2. Art. 256, 258 bis 260, 263, 265, 267, 268, 278, 279 und 340 AEUV je nach Verfahrensart: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Baut Anträge auf Aussetzung und einstweilige Anordnung nach Art. 278 und 279 AEUV mit Dringlichkeit, fumus boni iuris, Interessenabwägung und Belegpflicht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Entwickelt Vorlagefragen, Vorlagebeschluss, Parteivortrag und nationale Verfahrensstrategie nach Art. 267 AEUV, inklusive Entscheidungserheblichkeit, acte clair, acte éclairé: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Prüft individuelle und unmittelbare Betroffenheit Privater nach Art. 263 AEUV, einschließlich Plaumann-Linie, regulatorischer Akt, Durchführungsmaßnahmen und Belegstrategie: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Ordnet Vertragsverletzungsverfahren nach Art. 258 bis 260 AEUV: Kommissionsbeschwerde, Vorverfahren, mit Gründen versehene Stellungnahme, Klage, Zwangsgeld und strategische: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Normen und Entscheidungen aus den vorgelegten Unterlagen oder einer belastbaren Quelle ableiten; Aktenzeichen nicht ergänzen, wenn sie nicht sicher belegt sind.
 
 ## 6. Antwortform
 

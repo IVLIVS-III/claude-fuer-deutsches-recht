@@ -1,28 +1,5 @@
 # Insolvenzplan- und StaRUG-Planwerkstatt
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`insolvenzplan-starug-planwerkstatt`) | [`insolvenzplan-starug-planwerkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzplan-starug-planwerkstatt.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Metallbau Hansa GmbH – Insolvenzplan und StaRUG-Restrukturierung** (`insolvenzplan-starug-planwerkstatt-metallbau-hansa`) | [Gesamt-PDF lesen](../testakten/insolvenzplan-starug-planwerkstatt-metallbau-hansa/gesamt-pdf/insolvenzplan-starug-planwerkstatt-metallbau-hansa_gesamt.pdf) | [`testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip) |
-| **MedTech Jena: Eigenverwaltung, Schutzschirm und Liquiditätsstatus** (`insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena`) | [Gesamt-PDF lesen](../testakten/insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena/gesamt-pdf/insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena_gesamt.pdf) | [`testakte-insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena.zip) |
-| **StaRUG-Aufhebung der Restrukturierungssache — Holding Düsseldorf (BGH IX ZB 18/25)** (`starug-aufhebung-holding-duesseldorf-ix-zb-18-25`) | [Gesamt-PDF lesen](../testakten/starug-aufhebung-holding-duesseldorf-ix-zb-18-25/gesamt-pdf/starug-aufhebung-holding-duesseldorf-ix-zb-18-25_gesamt.pdf) | [`testakte-starug-aufhebung-holding-duesseldorf-ix-zb-18-25.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-starug-aufhebung-holding-duesseldorf-ix-zb-18-25.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -133,7 +110,7 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `anlagen-mehrparteien-konflikt-und-interessen` | Wenn es um Anlagen: Mehrparteienkonflikt und Interessenmatrix in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `anlagenpaket` | Wenn es um Anlagenpaket in Insolvenzplan- und StaRUG-Planwerkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
 | `anschluss-routing` | Wenn es um Anschluss-Routing in Insolvenzplan- und StaRUG-Planwerkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sc... |
-| `asset-deals-im-plan-grundstuecke-marken-kundendaten` | Wenn es um Asset Deals Im Plan Grundstücke Marken Kundendaten in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `asset-deals-im-plan-grundstuecke-marken-kundendaten` | Wenn es um Asset Deals Im Plan Grundstuecke Marken Kundendaten in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `cram-formular-portal-und-einreichung` | Wenn es um Cram: Formular, Portal und Einreichungslogik in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `cramdown-obstruktion-datenraum-register` | Wenn es um Cram-down und Obstruktion in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `darstellender-quellenkarte` | Wenn es um Darstellender Quellenkarte in Insolvenzplan- und StaRUG-Planwerkstatt geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
@@ -180,7 +157,7 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `teil-compliance-dokumentation-und-akte` | Wenn es um Teil: Compliance-Dokumentation und Aktenvermerk in Insolvenzplan- und StaRUG-Planwerkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und... |
 | `unterlagen-luecken` | Wenn es um Unterlagen und Lücken in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `verfahrenswahl-restrukturierungsplan` | Wenn es um Verfahrenswahl und Routenentscheidung in Insolvenzplan- und StaRUG-Planwerkstatt geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
-| `vergleichsrechnung-behoerden-gericht-und-registerweg` | Wenn es um Vergleichsrechnung Behörden Gericht Und Registerweg in Insolvenzplan- und StaRUG-Planwerkstatt geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und N... |
+| `vergleichsrechnung-behoerden-gericht-und-registerweg` | Wenn es um Vergleichsrechnung Behoerden Gericht Und Registerweg in Insolvenzplan- und StaRUG-Planwerkstatt geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und N... |
 | `vergleichsrechnung-ipsplan-cram` | Wenn es um Vergleichsrechnung in Insolvenzplan- und StaRUG-Planwerkstatt geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `workflow-chronologie-und-belegmatrix` | Wenn es um Chronologie und Belegmatrix in Insolvenzplan- und StaRUG-Planwerkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `workflow-fristen-und-risikoampel` | Wenn es um Fristen- und Risikoampel in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Generiert die globale SKILLS.md (Skill-Gesamtuebersicht) aus dem Repo.
+"""Generiert die globale SKILLS.md (Skill-Gesamtübersicht) aus dem Repo.
 
 Wird bei jeder Release-Vorbereitung gelaufen. Garantiert, dass jeder neue
 Skill, der irgendwo unter <plugin>/skills/<skill>/SKILL.md angelegt wird,
 automatisch in der SKILLS.md auftaucht — mit:
 
 - Direkt-Download des SKILL.md als rohe Markdown-Datei (im Browser per
-  Rechtsklick "Ziel speichern unter" oder "?raw=1" laedt sofort herunter).
+  Rechtsklick "Ziel speichern unter" oder "?raw=1" lädt sofort herunter).
 - Pro Plugin: ZIP-Download-Link auf das Release-Asset
   https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<plugin>.zip
 - Oben prominenter Hinweis: Skills sind reine Markdown-Prompts und
@@ -134,7 +134,7 @@ Wer nur **ein bestimmtes Plugin** will: weiter unten in der Plugin-Tabelle pro P
 
 Diese Skills sind am Ende **nichts weiter als große, sehr sorgfältig formulierte System-Prompts in Markdown**. Sie wurden für ein Plugin-System geschrieben, **funktionieren aber in jedem anderen Chat-System genauso**.
 
-So benutzt man einen Skill ausserhalb eines Plugin-Setups:
+So benutzt man einen Skill außerhalb eines Plugin-Setups:
 
 1. Unten in der Plugin-Tabelle auf das gewünschte Plugin klicken — die Detailseite mit allen Skills öffnet sich.
 2. Auf der Detailseite oben auf **Werkstatt** oder **Schnellstart** klicken — die `.md`-Datei wird direkt heruntergeladen.

@@ -1,26 +1,5 @@
 # Franchiserecht Praxis
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`franchiserecht-praxis`) | [`franchiserecht-praxis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/franchiserecht-praxis.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Akte Knusperkrone: Franchise-Expansion, Gebietsschutz und Systemhandbuch-Streit** (`franchiserecht-systemgastronomie-expansion-streit`) | [Gesamt-PDF lesen](../testakten/franchiserecht-systemgastronomie-expansion-streit/gesamt-pdf/franchiserecht-systemgastronomie-expansion-streit_gesamt.pdf) | [`testakte-franchiserecht-systemgastronomie-expansion-streit.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-franchiserecht-systemgastronomie-expansion-streit.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -158,14 +137,14 @@ Automatisch generierte Komplett-Liste aller 122 Skills in diesem Plugin. Beschre
 | `fran-050-franchisenehmer-exit-plan` | Wenn es um Franchiserecht: Franchisenehmer Exit-Plan in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `fran-051-qualitaetsgate-franchiseakte` | Wenn es um Franchiserecht: Qualitätsgate Franchiseakte in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `franchise-internationaler-kontext` | Wenn es um Franchise Internationaler Kontext in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `franchise-kuendigung-und-nachvertragliche-wettbewerb` | Wenn es um Franchise Kündigung Und Nachvertragliche Wettbewerb in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `franchise-kuendigung-und-nachvertragliche-wettbewerb` | Wenn es um Franchise Kuendigung Und Nachvertragliche Wettbewerb in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `franchise-m-a-due-diligence` | Wenn es um Franchiserecht: Franchise-M-und-A-Due-Diligence in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und... |
 | `franchise-m-a-und-system-due-diligence` | Wenn es um Franchise: Franchise-M&A und System-Due-Diligence in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `franchise-marken-ip-mindestumsatz` | Wenn es um Franchise Marken Ip Lizenzierung in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `franchise-mindestumsatz-territorialschutz` | Wenn es um Franchise Mindestumsatz Territorialschutz in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `franchise-verguetungsmodelle-initial-laufend` | Wenn es um Franchise Vergütungsmodelle Initial Laufend in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `franchise-verguetungsmodelle-initial-laufend` | Wenn es um Franchise Verguetungsmodelle Initial Laufend in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `franchise-vertragsstruktur-vorvertragliche` | Wenn es um Franchise Vertragsstruktur Master Unit in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `franchise-vorvertragliche-aufklaerung-bgh` | Wenn es um Franchise Vorvertragliche Aufklärung Bgh in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `franchise-vorvertragliche-aufklaerung-bgh` | Wenn es um Franchise Vorvertragliche Aufklaerung Bgh in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `franchise-warenbezugsbindung-vbe` | Wenn es um Franchise: Warenbezugsbindung und VBE-Verordnung in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `franchisegeber-franchisenehmer` | Wenn es um Franchiserecht: Kaltstart – Systemakte anlegen in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
 | `franchisegeber-handbuch-compliance-dashboard` | Wenn es um Franchiserecht: Franchisegeber-Handbuch und Compliance-Dashboard in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpun... |

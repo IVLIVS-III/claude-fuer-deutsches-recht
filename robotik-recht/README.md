@@ -1,26 +1,5 @@
 # robotik-recht
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`robotik-recht`) | [`robotik-recht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/robotik-recht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Akte Vellbruck Robotics GmbH — Roboterflotte AtlasCare / LumaMove / Werkbank C7** (`robotikrecht-roboterflotte-vellbruck-muenchen`) | [Gesamt-PDF lesen](../testakten/robotikrecht-roboterflotte-vellbruck-muenchen/gesamt-pdf/robotikrecht-roboterflotte-vellbruck-muenchen_gesamt.pdf) | [`testakte-robotikrecht-roboterflotte-vellbruck-muenchen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-robotikrecht-roboterflotte-vellbruck-muenchen.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -177,11 +156,11 @@ Automatisch generierte Komplett-Liste aller 212 Skills in diesem Plugin. Beschre
 | `dronen-und-robotik-schnittstelle` | Wenn es um Drohnen und Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `dsfa-fuer-robotik` | Wenn es um DSFA für Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `dual-use-eu-umsetzung` | Wenn es um Dual-Use und militärische Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dual Use EU Umsetzung; Arbe... |
-| `dual-use-und-militaerische-robotik` | Wenn es um Dual-Use und militärische Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dual Use Und Militärische... |
+| `dual-use-und-militaerische-robotik` | Wenn es um Dual-Use und militärische Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dual Use Und Militaerische... |
 | `einstieg-routing` | Wenn es um Einstieg und Routing in robotik-recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `eu-de-umsetzung-und-rechtsstand-livecheck` | Wenn es um EU-DE Rechtsstand Livecheck in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
-| `eu-konformitaetserklaerung-einbauerklaerung` | Wenn es um EU-Konformitäts- und Einbauerklärung in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: EU Konformitätserkläru... |
-| `eu-konformitaetserklaerung-foss-open` | Wenn es um EU-Konformitäts- und Einbauerklärung in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: EU Konformitätserkläru... |
+| `eu-konformitaetserklaerung-einbauerklaerung` | Wenn es um EU-Konformitäts- und Einbauerklärung in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: EU Konformitaetserklaeru... |
+| `eu-konformitaetserklaerung-foss-open` | Wenn es um EU-Konformitäts- und Einbauerklärung in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: EU Konformitaetserklaeru... |
 | `export` | Wenn es um Internationaler Export in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `first-year-associate-robotik` | Wenn es um First-Year-Associate-Modus in robotik-recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `foss-und-open-source-komponenten` | Wenn es um FOSS-Komponenten in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -207,8 +186,8 @@ Automatisch generierte Komplett-Liste aller 212 Skills in diesem Plugin. Beschre
 | `ki-vo-verbotene-praktiken-robotik` | Wenn es um Verbotene Praktiken Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `klinische-bewertung-robotik` | Wenn es um Klinische Bewertung Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `kollaborierende-roboter-cobot-safety` | Wenn es um Cobot Safety in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `kommunal-behoerdenrobotik` | Wenn es um Kommunal- und Behördenrobotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kommunal Behördenrobotik; Arbe... |
-| `kommunal-und-behoerdenrobotik` | Wenn es um Kommunal- und Behördenrobotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kommunal Und Behördenrobotik;... |
+| `kommunal-behoerdenrobotik` | Wenn es um Kommunal- und Behördenrobotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kommunal Behoerdenrobotik; Arbe... |
+| `kommunal-und-behoerdenrobotik` | Wenn es um Kommunal- und Behördenrobotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kommunal Und Behoerdenrobotik;... |
 | `konformitaetsbescheinigung-robotik-ki` | Wenn es um Konformitätsbescheinigung Robotik-digitale Werkzeuge in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `konformitaetsbewertung-modulwahl` | Wenn es um Konformitätsbewertung Modulwahl in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `lager-und-intralogistikflotte` | Wenn es um Lager- und Intralogistikflotte in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -219,9 +198,9 @@ Automatisch generierte Komplett-Liste aller 212 Skills in diesem Plugin. Beschre
 | `lieferantenqualifizierung-sensor-cloud` | Wenn es um Lieferantenqualifizierung Sensor Cloud in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Lieferantenqualifizier... |
 | `lieferantenregress-und-indemnity` | Wenn es um Lieferantenregress und Indemnity in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `litigation-vorbereitung` | Wenn es um Litigation-Vorbereitung in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Litigation Vorbereitung; Arbeitsfeld: robotik-recht. |
-| `logging-traceability-marktueberwachung` | Wenn es um Logging und Traceability in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Logging Traceability Marktüberwachu... |
+| `logging-traceability-marktueberwachung` | Wenn es um Logging und Traceability in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Logging Traceability Marktueberwachu... |
 | `logging-und-traceability-robotik` | Wenn es um Logging und Traceability in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Logging Und Traceability Robotik; Ar... |
-| `marktueberwachung-dialog` | Wenn es um Marktüberwachung Dialog in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Auswahlstichwort: Marktüberwachung Dialog; Arbeitsfeld: robotik-recht. |
+| `marktueberwachung-dialog` | Wenn es um Marktüberwachung Dialog in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Auswahlstichwort: Marktueberwachung Dialog; Arbeitsfeld: robotik-recht. |
 | `marktueberwachung-unterlagenvorlage` | Wenn es um Marktüberwachung Unterlagenvorlage in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
 | `maschine-oder-unvollstaendige` | Wenn es um Maschine oder unvollständige Maschine in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `maschine-oder-unvollstaendige-maschine` | Wenn es um Maschine oder unvollständige Maschine in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
@@ -269,11 +248,11 @@ Automatisch generierte Komplett-Liste aller 212 Skills in diesem Plugin. Beschre
 | `robotik-produktsicherheitsrechtliche-werbung-quasihersteller` | Wenn es um Produktsicherheitsrechtliche Werbung in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Robotik Produktsicherhei... |
 | `robotik-qualitaetsmanagement-robotikhersteller-accuracy` | Wenn es um QM Robotikhersteller in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
 | `robotik-sachverstaendigenbriefing-technikrecht` | Wenn es um Sachverständigenbriefing in robotik-recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Robotik S... |
-| `robotik-uebergangsrecht-eu-produktsicherheit` | Wenn es um Fristen und Übergangsrecht in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Robotik Übergangsrecht EU Produkt... |
+| `robotik-uebergangsrecht-eu-produktsicherheit` | Wenn es um Fristen und Übergangsrecht in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Robotik Uebergangsrecht EU Produkt... |
 | `rollen-hersteller-anbieter-integrator` | Wenn es um Rollen Hersteller Anbieter Integrator in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `rueckruf-field-action` | Wenn es um Rückruf und Field Action in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstich... |
-| `rueckrufpflicht-safety-gate` | Wenn es um Rückrufpflicht und Safety Gate in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rückrufpflicht Safety Gate; A... |
-| `rueckrufpflicht-und-safety-gate` | Wenn es um Rückrufpflicht und Safety Gate in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rückrufpflicht Und Safety Gat... |
+| `rueckrufpflicht-safety-gate` | Wenn es um Rückrufpflicht und Safety Gate in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rueckrufpflicht Safety Gate; A... |
+| `rueckrufpflicht-und-safety-gate` | Wenn es um Rückrufpflicht und Safety Gate in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rueckrufpflicht Und Safety Gat... |
 | `safety-gate-und-oeffentliche-warnung` | Wenn es um Safety Gate und öffentliche Warnung in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `sbom-cyber-serviceroboter-haushalt` | Wenn es um SBOM und Cyber-Dokumentation in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `sbom-und-cyber-dokumentation` | Wenn es um SBOM und Cyber-Dokumentation in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
@@ -318,14 +297,14 @@ Automatisch generierte Komplett-Liste aller 212 Skills in diesem Plugin. Beschre
 | `workflow-board-und-c-level-briefing` | Wenn es um Board- und C-Level-Briefing in robotik-recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Workfl... |
 | `workflow-ce-akte-und-technische-dokumentation` | Wenn es um CE-Akte und technische Dokumentation in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Workfl... |
 | `workflow-first-year-associate-robotik` | Wenn es um First-Year-Associate-Modus in robotik-recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
-| `workflow-fristen-und-uebergangsrecht` | Wenn es um Fristen und Übergangsrecht in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Workflow Fristen Und Übergangsrec... |
+| `workflow-fristen-und-uebergangsrecht` | Wenn es um Fristen und Übergangsrecht in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Workflow Fristen Und Uebergangsrec... |
 | `workflow-haftungsampel` | Wenn es um Haftungsampel in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Workflow Haftungsampel; Arbeitsfeld: robotik-re... |
 | `workflow-ingenieur-rueckfragenliste` | Wenn es um Ingenieur-Rückfragenliste in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `workflow-internationaler-export` | Wenn es um Internationaler Export in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `workflow-kaltstart-und-routing` | Wenn es um Kaltstart und Routing in robotik-recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `workflow-laienmodus-robotikrecht` | Wenn es um Laienmodus Robotikrecht in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort:... |
 | `workflow-litigation-vorbereitung` | Wenn es um Litigation-Vorbereitung in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Workflow Litigation Vorbereitung; Arbeitsfeld: robot... |
-| `workflow-marktueberwachung-dialog` | Wenn es um Marktüberwachung Dialog in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Auswahlstichwort: Workflow Marktüberwachung Dialog; Arbeitsfeld: ro... |
+| `workflow-marktueberwachung-dialog` | Wenn es um Marktüberwachung Dialog in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Auswahlstichwort: Workflow Marktueberwachung Dialog; Arbeitsfeld: ro... |
 | `workflow-mdr-und-gesundheitsrobotik` | Wenn es um MDR und Gesundheitsrobotik in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `workflow-normen-und-standardrecherche` | Wenn es um Normen- und Standardrecherche in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. Auswahlstichwort: Workflow Nor... |
 | `workflow-post-market-monitoring` | Wenn es um Post-Market-Monitoring in robotik-recht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Auswahlstichwort: Workflow Post Market... |

@@ -2,18 +2,18 @@ Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rech
 
 # Corporate Kanzlei — Schnellstart
 
-Ziel: Corporate-Kanzlei-Plugin: Deal-Kommandocenter, Datenraum, Due Diligence, SPA/APA, Umwandlung, StaRUG, Insolvenzplan, W&I, Signing/Closing, PMI. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Corporate-Kanzlei-Plugin: Deal-Kommandocenter, Datenraum, Due Diligence, SPA/APA, Umwandlung, StaRUG, Insolvenzplan, W&I, Signing/Closing, PMI. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
@@ -22,18 +22,18 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
 4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
 5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
-6. Wenn es um AGio und Kapitalerhöhungsstruktur in der Corporate-Praxis in Corporate-Kanzlei geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung.
+6. Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| AGio und Kapitalerhöhungsstruktur in der Corporate-Praxis | erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Automationen und Monitoring | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Corporate Billing Narratives | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Board Paper und Business Judgment | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Board Paper: Rechtsprechungsradar GmbH-Governance | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Automationen und Monitoring | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Corporate Billing Narratives | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Board Paper und Business Judgment | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Board Paper: Rechtsprechungsradar GmbH-Governance | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
@@ -41,10 +41,10 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 - HGB Paragraf 105: offene Handelsgesellschaft.
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- 7. Steuerliche Strukturierung: Soll das AGio in das steuerliche Einlagekonto Paragraf 27 KStG fließen für spätere steuerneutrale Rückgewähr?: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Steuerberater (UmwStG-Konformität Paragraf 27 KStG-Erfassung Buchwertfortführung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Handelsregister (Anmeldung neue Anteilsstruktur Gesellschafterliste Paragraf 40 GmbHG): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Hohes Stammkapital = dauerhafte Kapitalbindung Paragraf 30 GmbHG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Normenradar: GmbHG Paragrafen 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragrafen 76, 93, 111, 119, 130, 243 ff.; HGB Paragrafen 105 ff., 161 ff: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BRAO Paragraf 43a, BORA Paragraf 3 und BRAO Paragraf 49b für Verschwiegenheit, Konflikt und Honorar: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 611a, 675 und 280 für Beratungs- und Haftungsrahmen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 41 GWB — Vollzugsverbot; Monitoring der Freigabe-Fristen zwingend: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
 - BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
 - BGH Urt. v. 15.10.2007 — II ZR 216/06 GmbHR 2008, 147 (Sachagio bei Gründung Paragraf 3 Abs. 2 GmbHG zwingend)
@@ -53,7 +53,7 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 
 ## 6. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder AGio und Kapitalerhöhungsstruktur in der Corporate-Praxis, Automationen und Monitoring, GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik, Corporate Billing Narratives: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis, Automationen und Monitoring, GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik, Corporate Billing Narratives: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 7. Stop
 

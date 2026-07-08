@@ -49,7 +49,7 @@ Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `anfaenger-verhandlung-vergleich-und-eskalation` | Wenn es um Anfänger: Verhandlung, Vergleich und Eskalation in Didaktisches Gesellschaftsrecht — English Business Terms geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalation... |
+| `anfaenger-verhandlung-vergleich-und-eskalation` | Wenn es um Anfaenger: Verhandlung, Vergleich und Eskalation in Didaktisches Gesellschaftsrecht — English Business Terms geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalation... |
 | `anschauungsmaterial-multiformat-auswertung` | Wenn es um Anschauungsmaterial Multi-Format-Auswertung in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
 | `anti-dilution-articles-association` | Wenn es um Anti-Dilution Protection in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigk... |
 | `articles-association-satzung` | Wenn es um Articles of Association und Satzung in Didaktisches Gesellschaftsrecht — English Business Terms geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und N... |

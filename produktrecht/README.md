@@ -1,31 +1,5 @@
 # Produkthaftung und Produktrecht (Plugin `produktrecht`)
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`produktrecht`) | [`produktrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/produktrecht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **BGB BT — Smart-Kühlschrank, digitale Elemente und Reparaturblockade** (`bgb-bt-smart-kuehlschrank-digital-repair-koeln`) | [Gesamt-PDF lesen](../testakten/bgb-bt-smart-kuehlschrank-digital-repair-koeln/gesamt-pdf/bgb-bt-smart-kuehlschrank-digital-repair-koeln_gesamt.pdf) | [`testakte-bgb-bt-smart-kuehlschrank-digital-repair-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-smart-kuehlschrank-digital-repair-koeln.zip) |
-| **Kaufrecht — Pflegebett, Sensorik und Cloud-Abo in Nürnberg** (`kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg`) | [Gesamt-PDF lesen](../testakten/kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg/gesamt-pdf/kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg_gesamt.pdf) | [`testakte-kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg.zip) |
-| **Kaufrecht — Smartwatch, Gesundheitsabo und Updatefehler in Hannover** (`kaufrecht-smartwatch-gesundheitsabo-update-hannover`) | [Gesamt-PDF lesen](../testakten/kaufrecht-smartwatch-gesundheitsabo-update-hannover/gesamt-pdf/kaufrecht-smartwatch-gesundheitsabo-update-hannover_gesamt.pdf) | [`testakte-kaufrecht-smartwatch-gesundheitsabo-update-hannover.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kaufrecht-smartwatch-gesundheitsabo-update-hannover.zip) |
-| **Kaufrecht — Wallbox, Firmware und Lastmanagement in Essen** (`kaufrecht-wallbox-firmware-lastmanagement-essen`) | [Gesamt-PDF lesen](../testakten/kaufrecht-wallbox-firmware-lastmanagement-essen/gesamt-pdf/kaufrecht-wallbox-firmware-lastmanagement-essen_gesamt.pdf) | [`testakte-kaufrecht-wallbox-firmware-lastmanagement-essen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kaufrecht-wallbox-firmware-lastmanagement-essen.zip) |
-| **Projekt Isarlicht — Kernfusion und Transrapid am Starnberger See** (`kernfusion-transrapid-starnberger-see`) | [Gesamt-PDF lesen](../testakten/kernfusion-transrapid-starnberger-see/gesamt-pdf/kernfusion-transrapid-starnberger-see_gesamt.pdf) | [`testakte-kernfusion-transrapid-starnberger-see.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kernfusion-transrapid-starnberger-see.zip) |
-| **Produkthaftung Frischwind Mobility GmbH — Akku-Brände E-Bike Wind-X7, Produktrückruf, Strafverfahren** (`produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt`) | [Gesamt-PDF lesen](../testakten/produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt/gesamt-pdf/produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt_gesamt.pdf) | [`testakte-produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -228,7 +202,7 @@ Automatisch generierte Komplett-Liste aller 69 Skills in diesem Plugin. Beschrei
 | `livecheck-formular-portal-und-einreichung` | Wenn es um Livecheck: Formular, Portal und Einreichungslogik in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `machinery-compliance-dokumentation-und-akte` | Wenn es um Machinery: Compliance-Dokumentation und Aktenvermerk in Produkthaftung und Produktrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und näc... |
 | `mandat-arbeitsbereich` | Wenn es um Produktmandat-Workspace in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `marktueberwachung-kommunikation` | Wenn es um Marktüberwachung-Kommunikation in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `marktueberwachung-kommunikation` | Wenn es um Marktueberwachung-Kommunikation in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `nachhaltigkeitsklage-werbeaussagen` | Wenn es um Greenwashing-Verteidigung in Produkthaftung und Produktrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `output-waehlen` | Wenn es um Output wählen in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `pangv-prodr-produktbeobachtung` | Wenn es um Pangv: Risikoampel, Gegenargumente und Verteidigungslinien in Produkthaftung und Produktrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -236,9 +210,9 @@ Automatisch generierte Komplett-Liste aller 69 Skills in diesem Plugin. Beschrei
 | `prodr-gpsr-cra-fitness-spezial` | Wenn es um ProdR: GPSR CRA in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `prodr-machinery-produktrueckruf` | Wenn es um ProdR: Machinery Regulation in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `prodr-produkthaftung-bauleiter` | Wenn es um ProdR: Produkthaftung Bauleiter in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweis... |
-| `prodr-produktrueckruf-leitfaden` | Wenn es um ProdR: Produktrückruf in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `prodr-produktrueckruf-leitfaden` | Wenn es um ProdR: Produktrueckruf in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `prodr-zahlen-schwellen-und-berechnung` | Wenn es um Prodr: Zahlen, Schwellenwerte und Berechnung in Produkthaftung und Produktrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
-| `produktbeobachtung-feldueberwachung` | Wenn es um Produktbeobachtung Feldüberwachung in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `produktbeobachtung-feldueberwachung` | Wenn es um Produktbeobachtung Feldueberwachung in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `produktbeobachtung-software-produktrecht` | Wenn es um Produktbeobachtung: Software, OTA und Sicherheitsupdates in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zus... |
 | `produktbeobachtung-verhandlung-vergleich-und-eskalation` | Wenn es um Produktbeobachtung: Verhandlung, Vergleich und Eskalation in Produkthaftung und Produktrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optio... |
 | `produkthaftung-digital-software-pld-2024-2853` | Wenn es um Produkthaftung für Software und digitale Komponenten in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
@@ -264,7 +238,7 @@ Automatisch generierte Komplett-Liste aller 69 Skills in diesem Plugin. Beschrei
 | `reparaturpflicht-hersteller-nach-gewaehrleistung` | Wenn es um Hersteller-Reparaturpflicht nach Gewährleistung in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `review-prodr-produkthaftung-digital` | Wenn es um Review: Fristen, Form, Zuständigkeit und Rechtsweg in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `right-to-rueckruf-strategie` | Wenn es um Right to Repair im Produktrecht in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
-| `rueckruf-strategie-konzern` | Wenn es um Rückruf-Strategie Konzern in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `rueckruf-strategie-konzern` | Wenn es um Rueckruf-Strategie Konzern in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `software-quellenkarte` | Wenn es um Software Quellenkarte in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `spezial-software-livequellen-und-rechtsprechungscheck` | Wenn es um Software: Livequellen- und Rechtsprechungscheck in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `unterlagen-luecken` | Wenn es um Unterlagen und Lücken in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

@@ -98,3 +98,7 @@ Bevor der Volltext freigegeben wird, durchlaeuft der Skill eine Eigenkontrolle:
 6. Sind alle Lückenpunkte explizit markiert?
 
 Erst nach bestandener Eigenkontrolle wird der Volltext als final ausgegeben.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität, Grundrechtsrüge, Annahmegrund und Entscheidungsvorschlag. Er markiert Darlegungslücken und hält fest, ob ein Kammervermerk, ein Nichtannahmevotum oder ein Hinweis zur Unzulässigkeit vorbereitet wird.

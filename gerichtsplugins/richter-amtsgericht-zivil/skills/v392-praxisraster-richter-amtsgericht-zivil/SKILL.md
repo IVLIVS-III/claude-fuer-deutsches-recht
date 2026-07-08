@@ -22,3 +22,7 @@ Nutze diesen Skill, wenn aus Akte, Antrag, Anklage, Bescheid, Klage, Einspruch o
 ## Pflichtanker
 
 ZPO Paragraf 23 Nummer 1 GVG, Paragraf 253 ZPO, Paragraf 138 ZPO, Paragraf 139 ZPO, Paragraf 286 ZPO. Schwerpunkt sind Zuständigkeit, Streitwert, Güte, kleine Relation, Beweisbeschluss, Vergleich, Versäumnisurteil und kurzer Urteilsentwurf.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, unstreitigem Sachverhalt, streitiger Tatsache, Beweisangebot, Rechtsfrage und Anschlussverfügung. Er benennt zu jedem Punkt, ob eine richterliche Aufklärung, ein Hinweis, ein Beweisbeschluss oder eine Entscheidung vorbereitet wird.

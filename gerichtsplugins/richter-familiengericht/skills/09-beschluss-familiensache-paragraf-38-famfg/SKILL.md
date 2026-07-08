@@ -58,3 +58,7 @@ Dieser Skill formt den entscheidungsreifen Aktenstand in einen familiengerichtli
 - Kein Beschluss ohne nummerierten Tenor.
 - Keine pauschale Kindeswohlformel ohne Tatsachenbezug.
 - Keine Sammelbegründung für mehrere unterschiedliche Aussprüche.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstation, Antragsgegnerstation, Kindeswohl- oder Unterhaltsachse, Belegen, Anhörungen und Beschlussformel. Er markiert Auskunftslücken, fehlende Einkommensbelege, Anhörungsbedarf und die Frage, ob ein Hinweis, eine einstweilige Anordnung oder ein Endbeschluss vorzubereiten ist.

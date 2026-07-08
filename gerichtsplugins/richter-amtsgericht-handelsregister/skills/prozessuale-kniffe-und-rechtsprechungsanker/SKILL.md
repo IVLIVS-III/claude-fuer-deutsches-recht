@@ -42,3 +42,7 @@ Nutze diesen Skill, wenn das Registergericht nicht nur verwaltet, sondern sauber
 ## Entscheidungsanker
 
 Jede Verfügung sagt: welches Hindernis, welche Norm, welches Dokument, wie behebbar, welche Frist und welche Folge bei Nichtbehebung.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den registergerichtlichen Streitstoff nach Anmeldung, Urkunde, Vertretungsnachweis, Registerstand, Eintragungshindernis und Zwischenverfügung. Er trennt behebbare Formmängel von materiellen Hindernissen und benennt die nächste Registerverfügung.

@@ -1,27 +1,5 @@
 # Subsumtions-Prüfer
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`subsumtions-pruefer`) | [`subsumtions-pruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/subsumtions-pruefer.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Revision nach abgelehntem Beweisantrag Duisburg** (`strafrecht-revision-beweisantrag-lg-duisburg`) | [Gesamt-PDF lesen](../testakten/strafrecht-revision-beweisantrag-lg-duisburg/gesamt-pdf/strafrecht-revision-beweisantrag-lg-duisburg_gesamt.pdf) | [`testakte-strafrecht-revision-beweisantrag-lg-duisburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-revision-beweisantrag-lg-duisburg.zip) |
-| **Subsumtionskontrolle / Klausurkorrektur — Übung für Fortgeschrittene BGB, Uni Bielefeld, Lehrstuhl Pohlmann-Wittfeldt, SS 2026** (`subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann`) | [Gesamt-PDF lesen](../testakten/subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann/gesamt-pdf/subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann_gesamt.pdf) | [`testakte-subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -254,7 +232,7 @@ Automatisch generierte Komplett-Liste aller 62 Skills in diesem Plugin. Beschrei
 | `selbst-vorgelegte-subsumtion-zerlegen` | Wenn es um Selbst vorgelegte Subsumtion zerlegen in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-anwenden-livequellen-und-rechtsprechungscheck` | Wenn es um Anwenden: Livequellen- und Rechtsprechungscheck in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-interaktiver-erstpruefung-und-mandatsziel` | Wenn es um Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `spezial-pruefen-mehrparteien-konflikt-und-interessen` | Wenn es um Prüfen: Mehrparteienkonflikt und Interessenmatrix in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-pruefen-mehrparteien-konflikt-und-interessen` | Wenn es um Pruefen: Mehrparteienkonflikt und Interessenmatrix in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-schritt-schriftsatz-brief-und-memo-bausteine` | Wenn es um Schritt: Schriftsatz-, Brief- und Memo-Bausteine in Subsumtions-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `spezial-subsumtions-tatbestand-beweis-und-belege` | Wenn es um Subsumtions: Tatbestandsmerkmale, Beweisfragen und Beleglage in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-vier-behoerden-gericht-und-registerweg` | Wenn es um Vier: Behörden-, Gerichts- oder Registerweg in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

@@ -99,3 +99,7 @@ Bevor der Volltext freigegeben wird, durchlaeuft der Skill eine Eigenkontrolle:
 6. Sind alle Lückenpunkte explizit markiert?
 
 Erst nach bestandener Eigenkontrolle wird der Volltext als final ausgegeben.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt Antrag, Gläubigerstellung, Forderung, Eröffnungsgrund, Sicherungsbedarf, Schuldnereinwand und Beschlussfolge. Er macht sichtbar, ob eine Aufklärungsverfügung, Sicherungsmaßnahme, Gutachterbestellung, Eröffnung oder Abweisung vorzubereiten ist.

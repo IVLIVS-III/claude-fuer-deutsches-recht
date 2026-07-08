@@ -2,18 +2,18 @@ Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rech
 
 # Gesellschaftsrecht Legal English — Schnellstart
 
-Ziel: Didaktisches Gesellschaftsrecht — English Business Terms: Corporate Legal English für Big-Law-Anfaenger. Dealroom: Cap Table vs Gesellschafterliste; Term Sheet; SHA; Vesting; Drag/Tag; Liquidation Preference; Anti-Dilution; SPA; DD; Notar/HR; Multi-Format-Auswertung; Frankfurt-Startup-Akte. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Didaktisches Gesellschaftsrecht — English Business Terms: Corporate Legal English für Big-Law-Anfaenger. Dealroom: Cap Table vs Gesellschafterliste; Term Sheet; SHA; Vesting; Drag/Tag; Liquidation Preference; Anti-Dilution; SPA; DD; Notar/HR; Multi-Format-Auswertung; Frankfurt-Startup-Akte. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
@@ -22,18 +22,18 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
 4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
 5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
-6. Wenn es um Anfaenger: Verhandlung, Vergleich und Eskalation in Didaktisches Gesellschaftsrecht — English Business Terms geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs.
+6. Anfaenger: Verhandlung, Vergleich und Eskalation: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anfaenger: Verhandlung, Vergleich und Eskalation | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschauungsmaterial Multi-Format-Auswertung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anti-Dilution Protection | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Articles of Association und Satzung | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Begriffskompass Intake | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| BGB AT und Schuldrecht AT im M&A-Mandat | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anfaenger: Verhandlung, Vergleich und Eskalation | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschauungsmaterial Multi-Format-Auswertung | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anti-Dilution Protection | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Articles of Association und Satzung | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Begriffskompass Intake | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| BGB AT und Schuldrecht AT im M&A-Mandat | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
@@ -42,9 +42,9 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
 - Normenradar: GmbHG Paragrafen 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragrafen 76, 93, 111, 119, 130, 243 ff.; HGB Paragrafen 105 ff., 161 ff: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 1. Form, Paragraf 125 BGB, Paragraf 311b BGB, Paragraf 15 Abs. 3 und Abs. 4 GmbHG: Reicht Schriftform oder Textform, oder ist notarielle Beurkundung erforderlich? Ein SPA: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 2. Stellvertretung, Paragrafen 164 ff. BGB: Wer unterzeichnet im Namen wessen? Vollmacht im Original? Bei ausländischen Beteiligten Legalisation oder Apostille? Insichgeschäft: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 3. Bedingung, Paragrafen 158 ff. BGB: CPs im SPA sind aufschiebende Bedingungen. Paragraf 162 BGB (treuwidrige Bedingungsvereitelung oder Herbeifuehrung) wirkt zwingend und kann nicht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 125 BGB, Paragraf 138 BGB, Paragraf 158 BGB, Paragraf 162 BGB, Paragraf 164 BGB, Paragraf 181 BGB, Paragraf 242 BGB, Paragraf 305 BGB, Paragraf 307 BGB, Paragraf 311b BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 15 Abs. 3 und Abs. 4 GmbHG (Beurkundung Geschäftsanteilskauf, Einheitstheorie): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 21 ff., 705 ff.; HGB; GmbHG; AktG; UmwG; FamFG/Registerrecht; PartG/Vereinsrecht je nach Organisation: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
 - BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
 - Verifizierte Anker: BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste

@@ -2,18 +2,18 @@ Wenn du das hier öffnest, willst du einen Tatvorwurf entlang von Beweiswürdigu
 
 # Verkehrsowi Verteidiger — Schnellstart
 
-Ziel: Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
@@ -22,18 +22,18 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 3. Tatbestand: objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung prüfen; je Merkmal die tragende Tatsache benennen.
 4. Prozessuales: Zuständigkeit, Verwertungsverbote, Fristen, Pflichtverteidigung und Anträge vorbereiten; den nächsten fristwahrenden Schritt zuerst.
 5. Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative.
-6. Wenn es um Abstand Quellenkarte in VerkehrsOWi-Verteidiger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten.
+6. Abstand Quellenkarte: Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abstand Quellenkarte | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Akteneinsicht: Internationaler Bezug und Schnittstellen | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Alkohol: Compliance-Dokumentation und Aktenvermerk | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Alkohol und Drogen — Paragraf 24a StVG | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abstand Quellenkarte | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Akteneinsicht: Internationaler Bezug und Schnittstellen | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Alkohol: Compliance-Dokumentation und Aktenvermerk | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Alkohol und Drogen — Paragraf 24a StVG | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
@@ -41,10 +41,10 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 - StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
 - StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
-- Rechtsgrundlage Akteneinsicht im OWi-Verfahren: Paragraf 49 OWiG i.V.m. Paragraf 147 StPO; Anspruch des Verteidigers / Betroffenen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG-Linie zur Akteneinsicht und fair-trial-Garantie (Art. 6 EMRK i.V.m. Art. 20 III GG): umfassender Anspruch auf alle die Verteidigung betreffenden Unterlagen, insbesondere: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 49 OWiG i.V.m. Paragraf 147 StPO umfassend: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Praxis-Tipp: Akteneinsicht sofort schriftlich beantragen; bei Verweigerung Antrag auf gerichtliche Entscheidung; bei Hauptverhandlung Beweisantrag Paragraf 244 StPO i.V.m. Paragraf 71: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 24a Abs. 1a StVG — THC-Grenzwert 3.5 ng/ml im Blutserum (in Kraft seit 22.8.2024, BGBl. I 2024 Nr. 274): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 316 StGB — Trunkenheitsfahrt: BAK ab 1.1 Promille (absolute Fahruntauglichkeit) oder ab 0.3 Promille mit Ausfallerscheinungen (relative Fahruntauglichkeit): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 315c StGB — Gefährdung des Strassenverkehrs unter Alkohol: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Aussage-gegen-Aussage verlangt besonders sorgfältige Gesamtwürdigung.
 - BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Konstanz, Entstehung und Belastungsmotive sind bei Aussageanalyse zu würdigen.
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)

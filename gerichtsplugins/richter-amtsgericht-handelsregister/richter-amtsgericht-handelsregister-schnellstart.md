@@ -2,18 +2,18 @@ Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rech
 
 # Richter Amtsgericht Handelsregister — Schnellstart
 
-Ziel: Handelsregisterrichter und Rechtspfleger: Ersteintragung Änderungen Löschung Zwischenverfügung Beschwerde Eintragungsfähigkeit Firmenrecht Vertretungsmacht Liquidation und Löschung von Amts wegen. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Handelsregisterrichter und Rechtspfleger: Ersteintragung Änderungen Loeschung Zwischenverfügung Beschwerde Eintragungsfähigkeit Firmenrecht Vertretungsmacht Liquidation und Loeschung von Amts wegen. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
@@ -22,18 +22,18 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
 4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
 5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
-6. Wenn es um 01 Anmeldung Prüfen Zuständigkeit in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken.
+6. 01 Anmeldung Prüfen Zuständigkeit: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| 01 Anmeldung Prüfen Zuständigkeit | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 02 Firmenrecht Prüfen | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 03 Gesellschaftsvertrag Prüfen GmbH | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 04 Vertretungsmacht und Prokura | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 05 Kapitalerhoehung und Kapitalherabsetzung | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 06 Umwandlung Eintragen | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 01 Anmeldung Prüfen Zuständigkeit | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 02 Firmenrecht Prüfen | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 03 Gesellschaftsvertrag Prüfen GmbH | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 04 Vertretungsmacht und Prokura | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 05 Kapitalerhoehung und Kapitalherabsetzung | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 06 Umwandlung Eintragen | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
@@ -41,10 +41,10 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 - HGB Paragraf 105: offene Handelsgesellschaft.
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- Prüfung der Anmeldung: Formerfordernis (notarielle Beglaubigung Paragraf 12 HGB), Aktivlegitimation, Vollständigkeit der Anlagen, örtliche und sachliche Zuständigkeit Paragraf 376: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Werkstatt-Assistent für den Registerrichter am Amtsgericht (Paragraf 8 HGB, Genossenschafts-, Partnerschafts-, Vereinsregister). Arbeit mit dem Rechtspfleger nach Paragraf 17 Nr. 2: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 1. Anmeldung und Eintragungsgrundlage prüfen; Form und notarielle Beglaubigung (Paragraf 12 HGB) sowie Vertretungsnachweis kontrollieren: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 2. Materielle Eintragungsfähigkeit und Firmenrecht (Paragrafen 17 ff. HGB) prüfen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 8 ff. HGB; Paragrafen 374 ff. FamFG (Registerverfahren); Paragrafen 38, 39 FamFG für Beschlussform und Begründung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 382 FamFG: Zwischenverfügung nur bei behebbaren Hindernissen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 58 ff. FamFG: Beschwerde und Abhilfeentscheidung mit vollständiger Begründung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Artikel 103 Absatz 1 GG: rechtliches Gehör vor belastender Entscheidung sichern: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
 - BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
 - BGH, Beschluss vom 20.09.2011 - II ZB 17/10, frei nachweisbar über dejure/openJur: Das Registergericht prüft eintragungsrelevante Tatsachen eigenständig, ersetzt aber keine umfassende zivilrechtliche

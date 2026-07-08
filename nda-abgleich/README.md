@@ -1,31 +1,9 @@
 # NDA-Abgleich
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`nda-abgleich`) | [`nda-abgleich.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/nda-abgleich.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Akte Waldkrone HealthTech GmbH - NDA, Meldekanal und Lieferantenhinweis** (`hinweisgeberschutz-nda-meldekanal-waldkrone`) | [Gesamt-PDF lesen](../testakten/hinweisgeberschutz-nda-meldekanal-waldkrone/gesamt-pdf/hinweisgeberschutz-nda-meldekanal-waldkrone_gesamt.pdf) | [`testakte-hinweisgeberschutz-nda-meldekanal-waldkrone.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-hinweisgeberschutz-nda-meldekanal-waldkrone.zip) |
-| **NDA-Vertragsabgleich Windsysteme Norderhof AG / Eickmann Wirtschaftspartner Pte. Ltd. — Joint Venture, GeschGehG, Exportkontrolle** (`nda-vertragsabgleich-jointventure-windsysteme-eickmann-wirtschaft`) | [Gesamt-PDF lesen](../testakten/nda-vertragsabgleich-jointventure-windsysteme-eickmann-wirtschaft/gesamt-pdf/nda-vertragsabgleich-jointventure-windsysteme-eickmann-wirtschaft_gesamt.pdf) | [`testakte-nda-vertragsabgleich-jointventure-windsysteme-eickmann-wirtschaft.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nda-vertragsabgleich-jointventure-windsysteme-eickmann-wirtschaft.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
-Gleicht NDA-Entwurf der Gegenseite gegen eigenen Standard ab und setzt Haltelinien chirurgisch im Word-Änderungsmodus durch. Ampelmatrix ROT/GELB/GRÜN. Ausgabe .docx mit echten Tracked Changes. Keine Absatzlöschungen, keine Klausel-Neufassungen.
+Gleicht NDA-Entwurf der Gegenseite gegen eigenen Standard ab und setzt Haltelinien chirurgisch im Word-Änderungsmodus durch. Ampelmatrix ROT/GELB/GRUEN. Ausgabe .docx mit echten Tracked Changes. Keine Absatzlöschungen, keine Klausel-Neufassungen.
 
 Dieses Plugin gehört zum Marketplace mit 234 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
@@ -127,15 +105,15 @@ Automatisch generierte Komplett-Liste aller 91 Skills in diesem Plugin. Beschrei
 | `gegenseite-tracked-fristennotiz-nda` | Wenn es um Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gegense... |
 | `gelb-formular-portal-einreichungslogik` | Wenn es um Gelb: Formular, Portal und Einreichungslogik in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gelb Formular Por... |
 | `gelb-formular-portal-und-einreichung` | Wenn es um Gelb: Formular, Portal und Einreichungslogik in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gelb Formular Por... |
-| `geschaeftsgeheimnis-geschgehg` | Wenn es um NDA + GeschGehG-Maßnahmen in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Geschäftsgeheimnis Geschgehg; Arbei... |
+| `geschaeftsgeheimnis-geschgehg` | Wenn es um NDA + GeschGehG-Maßnahmen in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Geschaeftsgeheimnis Geschgehg; Arbei... |
 | `gleicht-erstpruefung-rollenklaerung-mandatsziel` | Wenn es um Gleicht: Erstprüfung, Rollenklärung und Mandatsziel in NDA-Abgleich geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort:... |
 | `gleicht-erstpruefung-und-mandatsziel` | Wenn es um Gleicht: Erstprüfung, Rollenklärung und Mandatsziel in NDA-Abgleich geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort:... |
-| `gruen-fehlerkatalog` | Wenn es um Grün Fehlerkatalog in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `gruen-fehlerkatalog` | Wenn es um Gruen Fehlerkatalog in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `haltelinien-setzt-standard` | Wenn es um Haltelinien: Verhandlung, Vergleich und Eskalation in NDA-Abgleich geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `haltelinien-verhandlung-vergleich-eskalation` | Wenn es um Haltelinien: Verhandlung, Vergleich und Eskalation in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `it-saas-laufzeit-survival-m-a` | Wenn es um NDA mit IT-/SaaS-Vendor in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: It Saas Laufzeit Survival M A; Arbeits... |
 | `kaltstart-triage` | Wenn es um Kaltstart Triage in NDA-Abgleich geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `m-a-aenderungsmodus-ampelmatrix` | Wenn es um NDA für M&A-Data-Room in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: M A Änderungsmodus Ampelmatrix; Arbeits... |
+| `m-a-aenderungsmodus-ampelmatrix` | Wenn es um NDA für M&A-Data-Room in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: M A Aenderungsmodus Ampelmatrix; Arbeits... |
 | `mandantenkommunikation` | Wenn es um Mandantenkommunikation in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `mandantenkommunikation-redteam-qualitygate` | Wenn es um Mandantenkommunikation in NDA-Abgleich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
 | `mitarbeiter-need-non-solicit-permitted` | Wenn es um NDA: Mitarbeiter/Need-to-Know in NDA-Abgleich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Mitarbeiter Need Non Solicit Perm... |
@@ -150,13 +128,13 @@ Automatisch generierte Komplett-Liste aller 91 Skills in diesem Plugin. Beschrei
 | `nda-it-saas-vendor` | Wenn es um NDA mit IT-/SaaS-Vendor in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Nda It Saas Vendor; Arbeitsfeld: NDA-A... |
 | `nda-laufzeit-und-survival` | Wenn es um NDA: Laufzeit/Survival in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `nda-m-und-a-clean-team-spezial` | Wenn es um NDA: M-and-A Clean-Team in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `nda-mit-geschaeftsgeheimnis-geschgehg` | Wenn es um NDA + GeschGehG-Maßnahmen in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Nda Mit Geschäftsgeheimnis Geschgeh... |
+| `nda-mit-geschaeftsgeheimnis-geschgehg` | Wenn es um NDA + GeschGehG-Maßnahmen in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Nda Mit Geschaeftsgeheimnis Geschgeh... |
 | `nda-mit-kartellsensitiven-daten` | Wenn es um Kartellsensitive Daten in NDA in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `nda-mit-personenbezogenen-daten` | Wenn es um Personenbezogene Daten + NDA in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `nda-mitarbeiter-need-to-know` | Wenn es um NDA: Mitarbeiter/Need-to-Know in NDA-Abgleich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Nda Mitarbeiter Need To Know; Arb... |
 | `nda-non-solicit-kartellrechtlich` | Wenn es um Non-Solicit kartellrechtlich in NDA-Abgleich geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `nda-permitted-disclosure` | Wenn es um NDA: Permitted Disclosure in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `nda-rueckgabe-vernichtung` | Wenn es um NDA: Rückgabe/Vernichtung in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Nda Rückgabe Vernichtung; Arbeitsf... |
+| `nda-rueckgabe-vernichtung` | Wenn es um NDA: Rueckgabe/Vernichtung in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Nda Rueckgabe Vernichtung; Arbeitsf... |
 | `nda-standardklauseln-bauleiter` | Wenn es um NDA: Standardklauseln Bauleiter in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Nda Standardklauseln Bauleiter... |
 | `nda-typen-vergleich` | Wenn es um NDA-Typen Vergleich in NDA-Abgleich geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `nda-vergleichsmatrix-leitfaden` | Wenn es um NDA: Vergleichsmatrix in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -166,15 +144,15 @@ Automatisch generierte Komplett-Liste aller 91 Skills in diesem Plugin. Beschrei
 | `quellen-livecheck` | Wenn es um Rechtsquellen-Livecheck in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `r-d-nda-grundstruktur-international` | Wenn es um NDA bei F&E-Kooperation in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: R D Nda Grundstruktur International; A... |
 | `redteam-qualitygate` | Wenn es um Red-Team Qualitygate in NDA-Abgleich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Redteam Qualitygate; Arbeitsfeld: ND... |
-| `rueckgabe-vernichtung-nda-typen` | Wenn es um NDA: Rückgabe/Vernichtung in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rückgabe Vernichtung Nda Typen; Ar... |
+| `rueckgabe-vernichtung-nda-typen` | Wenn es um NDA: Rueckgabe/Vernichtung in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rueckgabe Vernichtung Nda Typen; Ar... |
 | `setzt-schriftsatz-brief-memo-bausteine` | Wenn es um Setzt: Schriftsatz-, Brief- und Memo-Bausteine in NDA-Abgleich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `setzt-schriftsatz-brief-und-memo-bausteine` | Wenn es um Setzt: Schriftsatz-, Brief- und Memo-Bausteine in NDA-Abgleich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `spezial-aenderungsmodus-compliance-dokumentation-und-akte` | Wenn es um Änderungsmodus: Compliance-Dokumentation und Aktenvermerk in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-aenderungsmodus-compliance-dokumentation-und-akte` | Wenn es um Aenderungsmodus: Compliance-Dokumentation und Aktenvermerk in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-chirurgisch-livequellen-und-rechtsprechungscheck` | Wenn es um Chirurgisch: Livequellen- und Rechtsprechungscheck in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-durch-mehrparteien-konflikt-und-interessen` | Wenn es um Durch: Mehrparteienkonflikt und Interessenmatrix in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `spezial-gruen-red-team-und-qualitaetskontrolle` | Wenn es um Grün: Red-Team und Qualitätskontrolle in NDA-Abgleich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-gruen-red-team-und-qualitaetskontrolle` | Wenn es um Gruen: Red-Team und Qualitätskontrolle in NDA-Abgleich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `standard` | Wenn es um Standard: Behörden-, Gerichts- oder Registerweg in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Standard; Arbe... |
-| `standard-behoerden-gericht-und-registerweg` | Wenn es um Standard: Behörden-, Gerichts- oder Registerweg in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Standard Behö... |
+| `standard-behoerden-gericht-und-registerweg` | Wenn es um Standard: Behörden-, Gerichts- oder Registerweg in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Standard Behoe... |
 | `standardklauseln-bauleiter-nda-vertragsstrafe` | Wenn es um NDA: Standardklauseln Bauleiter in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Standardklauseln Bauleiter Nda... |
 | `start-chronologie-fristen` | Wenn es um NDA Abgleich — Allgemein in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `tracked-fristennotiz-naechster-schritt` | Wenn es um Tracked: Fristennotiz und nächster Schritt in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tracked Fristennoti... |

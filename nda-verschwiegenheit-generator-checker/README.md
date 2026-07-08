@@ -1,22 +1,5 @@
 # NDA-Generator und Verschwiegenheitsvereinbarungs-Checker
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`nda-verschwiegenheit-generator-checker`) | [`nda-verschwiegenheit-generator-checker.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/nda-verschwiegenheit-generator-checker.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -98,7 +81,7 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `ausnahmen-vertraulichkeit-bank-finanzierungs` | Wenn es um Ausnahmen Von Vertraulichkeit in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpun... |
 | `bank-und-finanzierungs-nda` | Wenn es um Bank Und Finanzierungs NDA in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkte... |
 | `berufsgeheimnisse-203-stgb` | Wenn es um Berufsgeheimnisse 203 Stgb in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkte... |
-| `betriebsrat-und-personalgespraech` | Wenn es um Betriebsrat Und Personalgespräch in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prü... |
+| `betriebsrat-und-personalgespraech` | Wenn es um Betriebsrat Und Personalgespraech in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prü... |
 | `beweisprotokoll-verletzung-china-nda-clause` | Wenn es um Beweisprotokoll Verletzung in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `catch-all-klausel-arbeitsvertrag` | Wenn es um Catch All Klausel Arbeitsvertrag in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüf... |
 | `china-nda-nnn` | Wenn es um China NDA Nnn in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken un... |
@@ -139,11 +122,11 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `laufzeit-nachwirkungsfrist-oeffentliche-hand` | Wenn es um Laufzeit Und Nachwirkungsfrist in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `liquidated-damages-us-uk-vergleich` | Wenn es um Liquidated Damages US Uk Vergleich in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Opt... |
 | `ma-teaser-und-cim-nda` | Wenn es um M&A Teaser Und Cim NDA in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, R... |
-| `mandantenbrief-einfach-abschlussbericht` | Wenn es um Mandantenbrief Einfach Erklärt in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begrün... |
+| `mandantenbrief-einfach-abschlussbericht` | Wenn es um Mandantenbrief Einfach Erklaert in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begrün... |
 | `nda-abschlussbericht-playbook` | Wenn es um NDA Abschlussbericht Playbook in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpun... |
 | `nda-fuer-ai-und-modelltraining` | Wenn es um NDA Für Ai Und Modelltraining in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpun... |
 | `nda-fuer-datenraum-clean-team` | Wenn es um NDA Für Datenraum Clean Team in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunk... |
-| `nda-fuer-hr-und-abwerbeverbot` | Wenn es um NDA Für Hr Und Abwerbeverbot in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpun... |
+| `nda-fuer-hr-und-abwerbeverbot` | Wenn es um NDA Fuer Hr Und Abwerbeverbot in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpun... |
 | `nda-fuer-investor-pitch` | Wenn es um NDA Für Investor Pitch in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, R... |
 | `nda-fuer-manufacturing-und-supply-chain` | Wenn es um NDA Für Manufacturing Und Supply Chain in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mi... |
 | `nda-fuer-vorstand-und-aufsichtsrat` | Wenn es um NDA Für Vorstand Und Aufsichtsrat in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prü... |
@@ -154,10 +137,10 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `nda-und-escrow` | Wenn es um NDA Und Escrow in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken u... |
 | `nda-und-freedom-to-operate` | Wenn es um NDA Und Freedom To Operate in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkte... |
 | `nda-und-public-disclosure` | Wenn es um NDA Und Public Disclosure in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten... |
-| `need-to-know-empfaengerkreis` | Wenn es um Need To Know Empfängerkreis in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunk... |
+| `need-to-know-empfaengerkreis` | Wenn es um Need To Know Empfaengerkreis in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunk... |
 | `no-representation-no-warranty` | Wenn es um No Representation No Warranty in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpun... |
-| `oeffentliche-hand-und-vergabeverfahren` | Wenn es um Öffentliche Hand Und Vergabeverfahren in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mi... |
-| `oesterreich-geheimhaltung-offenlegung-pitch` | Wenn es um Österreich Geheimhaltung in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten... |
+| `oeffentliche-hand-und-vergabeverfahren` | Wenn es um Oeffentliche Hand Und Vergabeverfahren in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mi... |
+| `oesterreich-geheimhaltung-offenlegung-pitch` | Wenn es um Oesterreich Geheimhaltung in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten... |
 | `offenlegung-in-pitch-und-datenraum` | Wenn es um Offenlegung In Pitch Und Datenraum in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Pr... |
 | `open-source-und-secret-contamination` | Wenn es um Open Source Und Secret Contamination in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit... |
 | `patent-erfinder-und-prior-art` | Wenn es um Patent Erfinder Und Prior Art in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpun... |
@@ -167,9 +150,9 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `prozessschutz-16-20-geschgehg` | Wenn es um Prozessschutz 16 20 Geschgehg in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpun... |
 | `prozessvergleich-und-mediation` | Wenn es um Prozessvergleich Und Mediation in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `reverse-engineering-empfaenger-offenleger` | Wenn es um Reverse Engineering Und Gesetzliche Ausnahmen in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitspro... |
-| `risikoampel-fuer-empfaenger` | Wenn es um Risikoampel Für Empfänger in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `risikoampel-fuer-empfaenger` | Wenn es um Risikoampel Für Empfaenger in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `risikoampel-fuer-offenleger` | Wenn es um Risikoampel Für Offenleger in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `rueckgabe-loeschung-und-zertifikat` | Wenn es um Rückgabe Löschung Und Zertifikat in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Pr... |
+| `rueckgabe-loeschung-und-zertifikat` | Wenn es um Rueckgabe Loeschung Und Zertifikat in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Pr... |
 | `sanktions-und-exportkontrollinformationen` | Wenn es um Sanktions Und Exportkontrollinformationen in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt... |
 | `schadensersatz-beweislast-abmahnung-cease` | Wenn es um Schadensersatz Und Beweislast in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `schweiz-geheimhaltung-signatur-vollmacht` | Wenn es um Schweiz Geheimhaltung in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Ri... |
@@ -187,7 +170,7 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `vertragsstrafe-hamburger-haftungsbegrenzung` | Wenn es um Vertragsstrafe Hamburger Brauch in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfp... |
 | `vertrauliche-information-definition` | Wenn es um Vertrauliche Information Definition in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit P... |
 | `vorabinformation-protective-zulaessige` | Wenn es um Vorabinformation Und Protective Order in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit... |
-| `zulaessige-offenlegung-gesetz-behoerde-gericht` | Wenn es um Zulässige Offenlegung Gesetz Behörde Gericht in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitspro... |
+| `zulaessige-offenlegung-gesetz-behoerde-gericht` | Wenn es um Zulaessige Offenlegung Gesetz Behörde Gericht in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitspro... |
 | `zweckbindung-und-permitted-purpose` | Wenn es um Zweckbindung Und Permitted Purpose in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Pr... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

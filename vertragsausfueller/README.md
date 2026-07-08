@@ -1,26 +1,5 @@
 # Vertragsausfüller
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`vertragsausfueller`) | [`vertragsausfueller.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/vertragsausfueller.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Akte Vertragsausfüller - BSAG Kiosk Huckelriede** (`vertragsausfueller-bsag-kiosk-huckelriede`) | [Gesamt-PDF lesen](../testakten/vertragsausfueller-bsag-kiosk-huckelriede/gesamt-pdf/vertragsausfueller-bsag-kiosk-huckelriede_gesamt.pdf) | [`testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -127,10 +106,10 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `altvertraege-dokumentenmatrix-und-lueckenliste` | Wenn es um Altverträge: Dokumentenmatrix, Lückenliste und Nachforderung in Vertragsausfüller geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
+| `altvertraege-dokumentenmatrix-und-lueckenliste` | Wenn es um Altvertraege: Dokumentenmatrix, Lückenliste und Nachforderung in Vertragsausfüller geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
 | `altvertrag-nachziehen` | Wenn es um Altvertrag nachziehen in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `anschluss-routing` | Wenn es um Anschluss-Routing in Vertragsausfüller geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `ausdruecklicher-fristennotiz-und-naechster-schritt` | Wenn es um Ausdrücklicher: Fristennotiz und nächster Schritt in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `ausdruecklicher-fristennotiz-und-naechster-schritt` | Wenn es um Ausdruecklicher: Fristennotiz und nächster Schritt in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `batch-modus-docx-stripper-einfuehrung` | Wenn es um VAF: Batch-Modus Konzern in Vertragsausfüller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `bsag-mietvertrag-klauselentscheidung` | Wenn es um BSAG-Mietvertrag in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `changes-beweislast-docx-erkennen` | Wenn es um Changes: Beweislast, Darlegungslast und Substantiierung in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -138,7 +117,7 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `docx-stripper` | Wenn es um DOCX-Stripper in Vertragsausfüller geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `docx-tatbestand-beweis-und-belege` | Wenn es um Docx: Tatbestandsmerkmale, Beweisfragen und Beleglage in Vertragsausfüller geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `dokumente-intake` | Wenn es um Dokumentenintake in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `einfuehrung-prozess` | Wenn es um VAF: Prozess einführend in Vertragsausfüller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `einfuehrung-prozess` | Wenn es um VAF: Prozess einfuehrend in Vertragsausfüller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `einstieg-routing` | Wenn es um Einstieg und Routing in Vertragsausfüller geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `erkennen-schriftsatz-brief-und-memo-bausteine` | Wenn es um Erkennen: Schriftsatz-, Brief- und Memo-Bausteine in Vertragsausfüller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `erzeugen-red-fassungen-sonderfall-felder` | Wenn es um Erzeugen: Red-Team und Qualitätskontrolle in Vertragsausfüller geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -147,7 +126,7 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `feldinventar-fragebogen-input` | Wenn es um Feldinventar in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `fragebogen-input-leitfaden` | Wenn es um VAF: Fragebogen-Input in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `fremdsprachige-vertraege-bilingual` | Wenn es um Bilinguale Verträge in Vertragsausfüller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `fuehren-interessen-mappen-nachfrage` | Wenn es um Führen: Mehrparteienkonflikt und Interessenmatrix in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `fuehren-interessen-mappen-nachfrage` | Wenn es um Fuehren: Mehrparteienkonflikt und Interessenmatrix in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `klauselentscheidung` | Wenn es um Klauselentscheidungen in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `kommandocenter-mehrsprachige-vertraege` | Wenn es um Kommandocenter in Vertragsausfüller geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `konzern-rahmenvertrag-anpassen` | Wenn es um Rahmenvertrag-Anpassung in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -159,15 +138,15 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `output-waehlen` | Wenn es um Output wählen in Vertragsausfüller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `platzhalterlogik-bauleiter` | Wenn es um VAF: Platzhalterlogik Bauleiter in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `plausibilitaetscheck-termsheet` | Wenn es um Plausibilitätscheck in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `quality-gate-redline-qa` | Wenn es um Quality Gate — Vertragsausfüller in Vertragsausfüller geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `quality-gate-redline-qa` | Wenn es um Quality Gate — Vertragsausfueller in Vertragsausfüller geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `quellen-livecheck` | Wenn es um Rechtsquellen-Livecheck in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `redline-qa` | Wenn es um Redline-QA in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `rueckfragen-compliance-dokumentation-und-akte` | Wenn es um Rückfragen: Compliance-Dokumentation und Aktenvermerk in Vertragsausfüller geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `rueckfragen-compliance-dokumentation-und-akte` | Wenn es um Rueckfragen: Compliance-Dokumentation und Aktenvermerk in Vertragsausfüller geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `rueckfrageninterview` | Wenn es um Rückfrageninterview in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `sheets-quellenkarte` | Wenn es um Sheets Quellenkarte in Vertragsausfüller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `spezial-sheets-livequellen-und-rechtsprechungscheck` | Wenn es um Sheets: Livequellen- und Rechtsprechungscheck in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `spezial-vertraege-formular-portal-und-einreichung` | Wenn es um Verträge: Formular, Portal und Einreichungslogik in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `start-chronologie-fristen` | Wenn es um Vertragsausfüller — Allgemein in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
+| `spezial-vertraege-formular-portal-und-einreichung` | Wenn es um Vertraege: Formular, Portal und Einreichungslogik in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `start-chronologie-fristen` | Wenn es um Vertragsausfueller — Allgemein in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `strippen-risikoampel-und-gegenargumente` | Wenn es um Strippen: Risikoampel, Gegenargumente und Verteidigungslinien in Vertragsausfüller geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `template-erkennung-format-track-changes` | Wenn es um Template-Erkennung in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `template-format-und-source` | Wenn es um VAF: Template-Format und Quelle in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -176,11 +155,11 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `track-changes-nur-nach-frage` | Wenn es um Track Changes nur nach Frage in Vertragsausfüller geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `track-mandantenkommunikation-entscheidungsvorlage` | Wenn es um Track: Mandantenkommunikation und Entscheidungsvorlage in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `unterlagen-luecken` | Wenn es um Unterlagen und Lücken in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `vaf-fremdsprachige-vertraege-bilingual` | Wenn es um Bilinguale Verträge in Vertragsausfüller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `vaf-mehrsprachige-vertraege-spezial` | Wenn es um VAF: Mehrsprachige Verträge in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `vaf-versionierung-aenderungsverfolgung-spezial` | Wenn es um Vaf Versionierung Änderungsverfolgung Spezial in Vertragsausfüller geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `vaf-fremdsprachige-vertraege-bilingual` | Wenn es um Bilinguale Vertraege in Vertragsausfüller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `vaf-mehrsprachige-vertraege-spezial` | Wenn es um VAF: Mehrsprachige Vertraege in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `vaf-versionierung-aenderungsverfolgung-spezial` | Wenn es um Vaf Versionierung Aenderungsverfolgung Spezial in Vertragsausfüller geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `vertraege-formular-portal-und-einreichung` | Wenn es um Verträge: Formular, Portal und Einreichungslogik in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `vertragsausfueller-erstpruefung-und-mandatsziel` | Wenn es um Vertragsausfüller: Erstprüfung, Rollenklärung und Mandatsziel in Vertragsausfüller geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `vertragsausfueller-erstpruefung-und-mandatsziel` | Wenn es um Vertragsausfueller: Erstprüfung, Rollenklärung und Mandatsziel in Vertragsausfüller geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vorlagen-vertragsausfueller-vaf-altvertrag` | Wenn es um Vorlagen: Fristen, Form, Zuständigkeit und Rechtsweg in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `workflow-chronologie-und-belegmatrix` | Wenn es um Chronologie und Belegmatrix in Vertragsausfüller geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `workflow-fristen-und-risikoampel` | Wenn es um Fristen- und Risikoampel in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

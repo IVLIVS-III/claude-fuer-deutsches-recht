@@ -97,3 +97,7 @@ Bevor der Volltext freigegeben wird, durchlaeuft der Skill eine Eigenkontrolle:
 6. Sind alle Lückenpunkte explizit markiert?
 
 Erst nach bestandener Eigenkontrolle wird der Volltext als final ausgegeben.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den registergerichtlichen Streitstoff nach Anmeldung, Urkunde, Vertretungsnachweis, Registerstand, Eintragungshindernis und Zwischenverfügung. Er trennt behebbare Formmängel von materiellen Hindernissen und benennt die nächste Registerverfügung.

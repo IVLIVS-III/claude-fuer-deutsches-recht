@@ -1,26 +1,5 @@
 # Staatsanwaltschaft und Amtsanwaltschaft
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`staatsanwaltschaft-amtsanwaltschaft`) | [`staatsanwaltschaft-amtsanwaltschaft.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-amtsanwaltschaft.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akte
-
-| Akte | Download |
-| --- | --- |
-| Pluginlokale Testakte | [`staatsanwaltschaft-amtsanwaltschaft-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-amtsanwaltschaft-testakte.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -175,26 +154,26 @@ Automatisch generierte Komplett-Liste aller 31 Skills in diesem Plugin. Beschrei
 | `03-ermittlungsfuehrung-und-ermittlungsanweisung` | Wenn es um Ermittlungsführung und Ermittlungsanweisung in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `04-durchsuchung-und-beschlagnahme-antrag` | Wenn es um 04 Durchsuchung und Beschlagnahme Antrag in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und... |
 | `05-haftbefehlsantrag-und-untersuchungshaft` | Wenn es um 05 Haftbefehlsantrag und Untersuchungshaft in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung u... |
-| `06-vorlaeufige-festnahme-und-eilkompetenz` | Wenn es um 06 Vorläufige Festnahme und Eilkompetenz in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `06-vorlaeufige-festnahme-und-eilkompetenz` | Wenn es um 06 Vorlaeufige Festnahme und Eilkompetenz in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `07-telekommunikationsueberwachung-und-verdeckte-massnahmen` | Wenn es um 07 Telekommunikationsüberwachung und Verdeckte Maßnahmen in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen... |
 | `08-beschuldigtenvernehmung-und-belehrung` | Wenn es um 08 Beschuldigtenvernehmung und Belehrung in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten,... |
-| `09-sachverstaendige-und-koerperliche-untersuchung` | Wenn es um 09 Sachverständige und Körperliche Untersuchung in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüf... |
+| `09-sachverstaendige-und-koerperliche-untersuchung` | Wenn es um 09 Sachverstaendige und Koerperliche Untersuchung in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüf... |
 | `10-einstellung-mangels-tatverdacht-paragraf-170` | Wenn es um 10 Einstellung Mangels Tatverdacht Paragraf 170 in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `11-einstellung-aus-opportunitaet-paragraf-153-und-153a` | Wenn es um 11 Einstellung Aus Opportunität Paragraf 153 und 153a in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit... |
+| `11-einstellung-aus-opportunitaet-paragraf-153-und-153a` | Wenn es um 11 Einstellung Aus Opportunitaet Paragraf 153 und 153a in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit... |
 | `12-teileinstellung-paragraf-154-und-154a` | Wenn es um 12 Teileinstellung Paragraf 154 und 154a in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten,... |
 | `13-strafbefehlsantrag-paragraf-407` | Wenn es um Strafbefehlsantrag nach Paragraf 407 StPO in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung un... |
 | `14-anklageschrift-paragraf-200` | Wenn es um Anklageschrift nach Paragraf 200 StPO in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und An... |
 | `15-antrag-beschleunigtes-verfahren-paragraf-417` | Wenn es um 15 Antrag Beschleunigtes Verfahren Paragraf 417 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründ... |
 | `16-sicherungsverfahren-und-massregeln` | Wenn es um 16 Sicherungsverfahren und Maßregeln in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anl... |
-| `17-einziehung-und-vermoegensabschoepfung` | Wenn es um 17 Einziehung und Vermögensabschöpfung in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten,... |
+| `17-einziehung-und-vermoegensabschoepfung` | Wenn es um 17 Einziehung und Vermoegensabschoepfung in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten,... |
 | `18-jugendsache-und-diversion-paragraf-45-jgg` | Wenn es um 18 Jugendsache und Diversion Paragraf 45 JGG in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung... |
 | `19-sitzungsdienst-und-fragerecht-hauptverhandlung` | Wenn es um 19 Sitzungsdienst und Fragerecht Hauptverhandlung in Staatsanwaltschaft und Amtsanwaltschaft geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `20-plaedoyer-und-schlussvortrag-paragraf-258` | Wenn es um 20 Plädoyer und Schlussvortrag Paragraf 258 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung... |
+| `20-plaedoyer-und-schlussvortrag-paragraf-258` | Wenn es um 20 Plaedoyer und Schlussvortrag Paragraf 258 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung... |
 | `21-rechtsmittel-der-staatsanwaltschaft` | Wenn es um 21 Rechtsmittel Der Staatsanwaltschaft in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `22-strafvollstreckung-paragraf-451` | Wenn es um 22 Strafvollstreckung Paragraf 451 in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `23-klageerzwingung-und-beschwerdebescheid-paragraf-172` | Wenn es um 23 Klageerzwingung und Beschwerdebescheid Paragraf 172 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen,... |
-| `24-abschlussverfuegung-und-entscheidungsvorschlag` | Wenn es um 24 Abschlussverfügung und Entscheidungsvorschlag in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begrü... |
-| `25-adhaesionsverfahren-paragraf-403` | Wenn es um 25 Adhäsionsverfahren Paragraf 403 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anla... |
+| `24-abschlussverfuegung-und-entscheidungsvorschlag` | Wenn es um 24 Abschlussverfuegung und Entscheidungsvorschlag in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begrü... |
+| `25-adhaesionsverfahren-paragraf-403` | Wenn es um 25 Adhaesionsverfahren Paragraf 403 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anla... |
 | `26-opferschutz-nebenklage-und-verletztenrechte` | Wenn es um 26 Opferschutz Nebenklage und Verletztenrechte in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründu... |
 | `27-wiederaufnahme-zuungunsten-paragraf-362` | Wenn es um 27 Wiederaufnahme Zuungunsten Paragraf 362 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung u... |
 | `28-internationale-rechtshilfe-und-eu-haftbefehl` | Wenn es um 28 Internationale Rechtshilfe und EU Haftbefehl in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

@@ -1,26 +1,5 @@
 # Finanzgericht
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`richter-finanzgericht`) | [`richter-finanzgericht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-finanzgericht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akte
-
-| Akte | Download |
-| --- | --- |
-| Pluginlokale Testakte | [`richter-finanzgericht-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-finanzgericht-testakte.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -148,7 +127,7 @@ Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Beschrei
 | `05-est-pruefungsschema` | Wenn es um 05 ESt Prüfungsschema in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `06-ust-pruefungsschema` | Wenn es um 06 USt Prüfungsschema in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `07-koerperschaft-und-gewerbesteuer` | Wenn es um 07 Körperschaft und Gewerbesteuer in Finanzgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `08-schaetzung-und-betriebspruefung` | Wenn es um 08 Schätzung und Betriebsprüfung in Finanzgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `08-schaetzung-und-betriebspruefung` | Wenn es um 08 Schaetzung und Betriebsprüfung in Finanzgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `09-urteil-finanzgericht-und-revision` | Wenn es um 09 Urteil Finanzgericht und Revision in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `10-entscheidungsvorschlag-finanzgericht` | Wenn es um 10 Entscheidungsvorschlag Finanzgericht in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `99-finale-entscheidung-volltext` | Wenn es um Finale Entscheidung als Volltext (Urteil Finanzgericht) in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Na... |

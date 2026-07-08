@@ -40,7 +40,7 @@ def main() -> int:
     lines = [
         "# Werkstatt- und Schnellstart-Coverage",
         "",
-        "Diese Tabelle zeigt, ob jedes Plugin eine ausführliche Werkstatt-Datei und eine kompakte Schnellstart-Datei besitzt. Werkstatt und Schnellstart werden ausschliesslich als Markdown-Direkt-Download angeboten (raw.githubusercontent.com), nicht mehr als ZIP.",
+        "Diese Tabelle zeigt, ob jedes Plugin eine ausführliche Werkstatt-Datei und eine kompakte Schnellstart-Datei besitzt. Werkstatt und Schnellstart werden ausschließlich als Markdown-Direkt-Download angeboten (raw.githubusercontent.com), nicht mehr als ZIP.",
         "",
         "| Plugin | Werkstatt-Datei | Werkstatt-Quelle | Werkstatt-Direct-Download | Schnellstart-Datei | Schnellstart-Quelle | Schnellstart-Direct-Download |",
         "| --- | --- | --- | --- | --- | --- | --- |",

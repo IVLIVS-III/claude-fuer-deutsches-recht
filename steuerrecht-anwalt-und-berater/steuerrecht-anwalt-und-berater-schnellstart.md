@@ -2,18 +2,18 @@ Wenn du das hier öffnest, willst du einen Steuerbescheid prüfen und Einspruch 
 
 # Steuerrecht Anwalt Und Berater — Schnellstart
 
-Ziel: Steuerrecht für Anwalt (anw- FAO Paragraf 9) und Steuerberater (stb-): Einspruch Klage FG Aussenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing Closing, BWA SuSa Lohnbuchhaltung Jahresabschluss. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Steuerrecht für Anwalt (anw- FAO Paragraf 9) und Steuerberater (stb-): Einspruch Klage FG Aussenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing Closing, BWA SuSa Lohnbuchhaltung Jahresabschluss. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
@@ -22,32 +22,32 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 3. Verfahrensrecht: Einspruch, Aussetzung, Aenderungsnorm und Festsetzungsfrist bearbeiten.
 4. Belege, Buchfuehrung, Rechnung, DBA und unionsrechtliche Sperren trennen.
 5. Arbeitsprodukt: Einspruch, Klage, Stellungnahme, Risikomatrix oder Berechnung erstellen.
-6. Wenn es um Addison BWA-Konfiguration in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten.
+6. Addison BWA-Konfiguration: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Addison BWA-Konfiguration | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Akteneinsicht in Steuerakten | erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anteilstausch — Paragraf 21 UmwStG Voraussetzungen und Sperrfrist | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Organschaft — KSt / GewSt / USt: Grundlagen, Begründung, Risiken | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Stundung Paragraf 222 AO / Erlass Paragraf 227 AO / Vollstreckungsaufschub Paragraf 258 AO | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aussenprüfung — Prüfungsanordnung Prüfungserweiterung und Mitwirkung | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Addison BWA-Konfiguration | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Akteneinsicht in Steuerakten | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anteilstausch — Paragraf 21 UmwStG Voraussetzungen und Sperrfrist | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Organschaft — KSt / GewSt / USt: Grundlagen, Begründung, Risiken | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Stundung Paragraf 222 AO / Erlass Paragraf 227 AO / Vollstreckungsaufschub Paragraf 258 AO | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aussenprüfung — Prüfungsanordnung Prüfungserweiterung und Mitwirkung | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
-- AO Paragraf 85: Legalität und Gleichmäßigkeit der Besteuerung.
+- AO Paragraf 85: Legalität und Gleichmaessigkeit der Besteuerung.
 - AO Paragraf 88: Amtsermittlung.
 - AO Paragraf 173: Aufhebung oder Aenderung wegen neuer Tatsachen.
 - EStG Paragraf 2: Einkunftsarten und Einkommensermittlung.
-- Normen: Paragraf 6a, Paragraf 146 AO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Update-Pflicht aus Paragraf 146 AO (Programm muss aktuelle Tabellen abbilden): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 8 AO (Wohnsitz, Aufenthalt): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 33, 34 AO (Steuerpflichtiger, gesetzliche Vertreter): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 42 AO (Gestaltungsmissbrauch): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 169-171 AO (Festsetzungsverjährung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BFH, Urteil vom 04.11.2021 - VI R 22/19: Doppelbesteuerungsabkommen begründen grundsaetzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale Besteuerung.
 - BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17: Vollverzinsung nach AO war ab 2014 verfassungswidrig.
-- EUGH C-280/10 (Vorsteuerabzug bei wirtschaftlicher Tätigkeit)
+- EuGH C-280/10 (Vorsteuerabzug bei wirtschaftlicher Tätigkeit)
 - Stand: 05/2026. Paragraf 234 AO Stundungszinssatz aktuell unverändert 0.5 %/Monat (gesonderter Zinssatz, BVerfG-Urteil zu Paragraf 233a AO greift nicht direkt). AEAO Stand 2024 berücksichtigt. Bei Reform
 - BFH, Beschluss vom 30.04.2025 — XI R 15/23 (E-Mails als vorzulegende Handels- und Geschäftsbriefe in der Aussenprüfung): E-Mails mit steuerlichem Bezug fallen unter Paragraf 147 Abs. 1 Nr. 2 und 3 AO
 

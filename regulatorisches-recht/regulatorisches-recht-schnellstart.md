@@ -1,52 +1,52 @@
-Wenn du das hier öffnest, willst du im Bereich Regulatorisches Recht zügig von Unterlagen zu einem verwertbaren Arbeitsprodukt kommen.
+Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Regulatorisches Recht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
 
 # Regulatorisches Recht — Schnellstart
 
-Ziel: Aufsichtsrecht – KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds, Wochendigest. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Aufsichtsrecht – KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds, Wochendigest. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
-1. Anhörung: Red-Team und Qualitätskontrolle: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-2. Regulatorisches Recht — Allgemein: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-3. Regulatorischer Feed-Watcher: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-4. Aufsichtskommunikation Grundregeln: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-5. Aufsichtsrecht: Erstprüfung, Rollenklärung und Mandatsziel: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-6. Aufsichtssanktion: Revision: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
+1. Anhörung: Red-Team und Qualitätskontrolle: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+2. Regulatorisches Recht — Allgemein: Regulatorisches Recht — Allgemein: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+3. Regulatorischer Feed-Watcher: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+4. Aufsichtskommunikation Grundregeln: Aufsichtskommunikation Grundregeln: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+5. Aufsichtsrecht: Erstprüfung, Rollenklärung und Mandatsziel: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+6. Aufsichtssanktion: Revision: Aufsichtssanktion: Revision: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anhörung: Red-Team und Qualitätskontrolle | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Regulatorisches Recht — Allgemein | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Regulatorischer Feed-Watcher | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufsichtskommunikation Grundregeln | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufsichtsrecht: Erstprüfung, Rollenklärung und Mandatsziel | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufsichtssanktion: Revision | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anhörung: Red-Team und Qualitätskontrolle | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Regulatorisches Recht — Allgemein | Regulatorisches Recht — Allgemein: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Regulatorischer Feed-Watcher | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aufsichtskommunikation Grundregeln | Aufsichtskommunikation Grundregeln: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aufsichtsrecht: Erstprüfung, Rollenklärung und Mandatsziel | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aufsichtssanktion: Revision | Aufsichtssanktion: Revision: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
+- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 195 BGB — regelmäßige Verjährung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 199 Abs. 1 BGB — Beginn der regelmäßigen Verjährung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 253 Abs. 2 ZPO — Bestimmtheit von Antrag und Klagegrund: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EUGH, Urt. v. 13.02.2025 — C-383/23 (ILVA) — Datenschutz-Grundverordnung-Bußgelder können auf gesamten Konzernumsatz bezogen werden; "Unternehmen" im wettbewerbsrechtlichen Sinne — relevant für Monitoring
-- EUGH, Urt. v. 02.12.2025 — C-492/23 (Russmedia) — Datenschutz-Grundverordnung geht DSA vor; kein Provider-Privileg bei Datenschutz-Grundverordnung-Verstößen — relevant für Plattform-Compliance-Monitoring
-- EUGH, Urt. v. 19.03.2026 — C-526/24 (Brillen Rottler) — Erstmaliger Datenschutz-Grundverordnung-Auskunftsantrag kann rechtsmissbräuchlich sein
+- EuGH, Urt. v. 13.02.2025 — C-383/23 (ILVA) — Datenschutz-Grundverordnung-Bußgelder können auf gesamten Konzernumsatz bezogen werden; "Unternehmen" im wettbewerbsrechtlichen Sinne — relevant für Monitoring
+- EuGH, Urt. v. 02.12.2025 — C-492/23 (Russmedia) — Datenschutz-Grundverordnung geht DSA vor; kein Provider-Privileg bei Datenschutz-Grundverordnung-Verstößen — relevant für Plattform-Compliance-Monitoring
+- EuGH, Urt. v. 19.03.2026 — C-526/24 (Brillen Rottler) — Erstmaliger Datenschutz-Grundverordnung-Auskunftsantrag kann rechtsmissbräuchlich sein
 
 ## 6. Antwortform
 

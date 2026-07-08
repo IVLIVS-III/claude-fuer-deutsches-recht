@@ -1,26 +1,5 @@
 # Forschungszulage-Antragstellung
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`forschungszulage-antragstellung`) | [`forschungszulage-antragstellung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forschungszulage-antragstellung.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Forschungszulage Riedblick Sensorik GmbH** (`forschungszulage-sensorik-startup-taunus`) | [Gesamt-PDF lesen](../testakten/forschungszulage-sensorik-startup-taunus/gesamt-pdf/forschungszulage-sensorik-startup-taunus_gesamt.pdf) | [`testakte-forschungszulage-sensorik-startup-taunus.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-forschungszulage-sensorik-startup-taunus.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -130,7 +109,7 @@ Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschrei
 | `bemessungsgrundlage-interessen-bsfz` | Wenn es um Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen,... |
 | `bescheidung-rechtsmittel` | Wenn es um FZ: Bescheidung und Rechtsmittel in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. A... |
 | `bescheidung-rechtsmittel-bsfz` | Wenn es um FZ: Bescheidung und Rechtsmittel in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. A... |
-| `betriebspruefung-strategie` | Wenn es um FZ: Betriebsprüfungs-Strategie in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `betriebspruefung-strategie` | Wenn es um FZ: Betriebspruefungs-Strategie in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `bsfz-behoerden-gericht-und-registerweg` | Wenn es um Bsfz: Behörden-, Gerichts- oder Registerweg in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anla... |
 | `bsfz-behoerden-gerichts` | Wenn es um Bsfz: Behörden-, Gerichts- oder Registerweg in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `bsfz-bescheinigung-projektbeschreibung` | Wenn es um BSFZ-Bescheinigung und Projektbeschreibung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlag... |
@@ -145,8 +124,8 @@ Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschrei
 | `finanzamt-festsetzung-auszahlung` | Wenn es um Finanzamt: Festsetzung und Auszahlung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `finanzamt-quellenkarte` | Wenn es um Finanzamt Quellenkarte in Forschungszulage-Antragstellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `foerdercheck-kaltstart` | Wenn es um Fördercheck Kaltstart in Forschungszulage-Antragstellung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `foerdercheck-risikoampel` | Wenn es um Fördercheck: Risikoampel, Gegenargumente und Verteidigungslinien in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofo... |
-| `foerdercheck-risikoampel-und-gegenargumente` | Wenn es um Fördercheck: Risikoampel, Gegenargumente und Verteidigungslinien in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofo... |
+| `foerdercheck-risikoampel` | Wenn es um Foerdercheck: Risikoampel, Gegenargumente und Verteidigungslinien in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofo... |
+| `foerdercheck-risikoampel-und-gegenargumente` | Wenn es um Foerdercheck: Risikoampel, Gegenargumente und Verteidigungslinien in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofo... |
 | `forsch-bsfz-pruefung-spezial` | Wenn es um Forsch: BSFZ-Prüfung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `forsch-konzernverbund-forschung-spezial` | Wenn es um Forsch: Konzernverbund Forschung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `forsch-projektbeschreibung-bauleiter` | Wenn es um Forsch: Projektbeschreibung Bauleiter in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
@@ -156,8 +135,8 @@ Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschrei
 | `forschungszulage-mandantenentscheidung-antragspfad` | Wenn es um Dokumentation: Mandantenkommunikation und Entscheidungsvorlage in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Soforts... |
 | `forschungszulage-projektbeschreibung-bescheinigung` | Wenn es um Forschungszulage: Erstprüfung, Rollenklärung und Mandatsziel in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortsch... |
 | `fristen-und-risikoampel` | Wenn es um Fristen- und Risikoampel in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
-| `fue-abgrenzung-definition` | Wenn es um FZ: FuE-Abgrenzung Grenzfälle in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Aus... |
-| `fue-abgrenzung-grenzfaelle` | Wenn es um FZ: FuE-Abgrenzung Grenzfälle in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Aus... |
+| `fue-abgrenzung-definition` | Wenn es um FZ: FuE-Abgrenzung Grenzfaelle in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Aus... |
+| `fue-abgrenzung-grenzfaelle` | Wenn es um FZ: FuE-Abgrenzung Grenzfaelle in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Aus... |
 | `fue-definition-frascati-abgrenzung` | Wenn es um FuE-Definition und Abgrenzung nach Frascati in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anla... |
 | `fzulg-fristen-form` | Wenn es um FZulG: Fristen, Form, Zuständigkeit und Rechtsweg in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Aus... |
 | `fzulg-fristen-form-und-zustaendigkeit` | Wenn es um FZulG: Fristen, Form, Zuständigkeit und Rechtsweg in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Aus... |
@@ -168,8 +147,8 @@ Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschrei
 | `insolvenzlage-red-team-und-qualitaetskontrolle` | Wenn es um Insolvenzlage: Red-Team und Qualitätskontrolle in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `kaltstart-triage` | Wenn es um Forschungszulage — Allgemein in Forschungszulage-Antragstellung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `konzern-und-organschaft-spezial` | Wenn es um FZ: Konzern und Organschaft in Forschungszulage-Antragstellung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
-| `koordinierung-zwei` | Wenn es um FZ: Förderkoordinierung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `koordinierung-zwei-foerderwege` | Wenn es um FZ: Förderkoordinierung in Forschungszulage-Antragstellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `koordinierung-zwei` | Wenn es um FZ: Foerderkoordinierung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `koordinierung-zwei-foerderwege` | Wenn es um FZ: Foerderkoordinierung in Forschungszulage-Antragstellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `kumulierung-beihilfen-agvo` | Wenn es um Kumulierung und Beihilfen (AGVO) in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `mandantenentscheidung-einspruch-sonderfall` | Wenn es um Dokumentation: Mandantenkommunikation und Entscheidungsvorlage in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidung... |
 | `mandantenkommunikation` | Wenn es um Mandantenkommunikation in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |

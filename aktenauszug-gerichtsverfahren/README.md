@@ -1,22 +1,5 @@
 # aktenauszug-gerichtsverfahren
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`aktenauszug-gerichtsverfahren`) | [`aktenauszug-gerichtsverfahren.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aktenauszug-gerichtsverfahren.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -168,12 +151,12 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `einstieg-routing` | Wenn es um Einstieg und Routing in aktenauszug-gerichtsverfahren geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `erstellen-fristennotiz-gerichtsverfahren` | Wenn es um Erstellen: Fristennotiz und nächster Schritt in aktenauszug-gerichtsverfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `fristen-und-terminkalender` | Wenn es um Fristen und Terminkalender in aktenauszug-gerichtsverfahren geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `gegenueberstellung-parteivortraege` | Wenn es um Gegenüberstellung: Zahlen, Schwellenwerte und Berechnung in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
+| `gegenueberstellung-parteivortraege` | Wenn es um Gegenueberstellung: Zahlen, Schwellenwerte und Berechnung in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
 | `gerichtsverfahren-fristen-form-und-zustaendigkeit` | Wenn es um Gerichtsverfahren: Fristen, Form, Zuständigkeit und Rechtsweg in aktenauszug-gerichtsverfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `mandantenkommunikation-redteam-qualitygate-akzg` | Wenn es um Mandantenkommunikation in aktenauszug-gerichtsverfahren geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
 | `neutralitaetspruefung` | Wenn es um Neutralitätsprüfung in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `output-waehlen` | Wenn es um Output wählen in aktenauszug-gerichtsverfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
-| `parteivortraege-compliance-dokumentation-und-akte` | Wenn es um Parteivorträge: Compliance-Dokumentation und Aktenvermerk in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und... |
+| `parteivortraege-compliance-dokumentation-und-akte` | Wenn es um Parteivortraege: Compliance-Dokumentation und Aktenvermerk in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und... |
 | `parteivortrag-gegenueberstellung` | Wenn es um Parteivortrag — Gegenüberstellung in aktenauszug-gerichtsverfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `quellen-livecheck` | Wenn es um Rechtsquellen-Livecheck in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `rechtsargumente-gegenueberstellung` | Wenn es um Rechtsargumente — Gegenüberstellung in aktenauszug-gerichtsverfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

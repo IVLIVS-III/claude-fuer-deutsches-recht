@@ -2,38 +2,38 @@ Wenn du das hier öffnest, willst du einen Verwaltungsakt anfechten und vorläuf
 
 # Fachanwalt Verwaltungsrecht — Schnellstart
 
-Ziel: Plugin Fachanwalt für Verwaltungsrecht. VwGO VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz Paragraf 80 Abs 5 VwGO einstweilige Anordnung Normenkontrolle Polizei- und Ordnungsrecht. Schnittstelle Plugin kanzlei-allgemein. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Plugin Fachanwalt für Verwaltungsrecht. VwGO VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz Paragraf 80 Abs 5 VwGO einstweilige Anordnung Normenkontrolle Polizei- und Ordnungsrecht. Schnittstelle Plugin kanzlei-allgemein. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
 1. Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen.
 2. Zulaessigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
-3. Materielle Rechtmäßigkeit: Ermaechtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhaeltnismäßigkeit prüfen.
+3. Materielle Rechtmaessigkeit: Ermaechtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhaeltnismaessigkeit prüfen.
 4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
 5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
-6. Wenn es um Amtshaftung Paragraf 839 BGB art 34 GG in Fachanwalt Verwaltungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten.
+6. Amtshaftung Paragraf 839 BGB art 34 GG: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Amtshaftung Paragraf 839 BGB art 34 GG | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfechtungsklage nach Paragraf 42 Abs | erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anhörung Paragraf 28 VwVfG | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anordnung Quellenkarte | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amtshaftung Paragraf 839 BGB art 34 GG | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anfechtungsklage nach Paragraf 42 Abs | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anhörung Paragraf 28 VwVfG | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anordnung Quellenkarte | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
@@ -41,10 +41,10 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 - VwVfG Paragraf 28: Anhörung Beteiligter.
 - VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
 - VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
-- Prüfe Amtshaftung Paragraf 839 BGB art 34 GG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 839 BGB ART 34 GG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 35 Satz 1 VwVfG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 80 Abs. 5 VwGO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 113 Abs. 1 und 5 VwGO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
 - BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
 - BVerwG 6 C 1.25, Urteil vom 02.12.2025 — Überwachungsmaßnahmen bei terroristischen Straftaten und die vom BVerfG aufgestellten Anforderungen an die Eingriffsschwellen für Maßnahmen der Gefahrenabwehr —

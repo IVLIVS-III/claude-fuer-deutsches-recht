@@ -1,28 +1,5 @@
 # ZVG-Zwangsverwaltung - Verwalter-Cockpit
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`zwangsverwaltung-zvg`) | [`zwangsverwaltung-zvg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/zwangsverwaltung-zvg.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Zwangsverwaltung Büro- und Geschäftshaus "Friedrichshöfe"** (`zwangsverwaltung-friedrichshoefe-berlin`) | [Gesamt-PDF lesen](../testakten/zwangsverwaltung-friedrichshoefe-berlin/gesamt-pdf/zwangsverwaltung-friedrichshoefe-berlin_gesamt.pdf) | [`testakte-zwangsverwaltung-friedrichshoefe-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-friedrichshoefe-berlin.zip) |
-| **Zwangsverwaltung ZVG – Mietshaus Parkstraße 18, Leipzig** (`zwangsverwaltung-zvg-mietshaus-parkstrasse`) | [Gesamt-PDF lesen](../testakten/zwangsverwaltung-zvg-mietshaus-parkstrasse/gesamt-pdf/zwangsverwaltung-zvg-mietshaus-parkstrasse_gesamt.pdf) | [`testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip) |
-| **ZVG-Versteigerung Eppendorf-Altbau** (`zwangsverwaltung-zvg-versteigerung-eppendorf-altbau`) | [Gesamt-PDF lesen](../testakten/zwangsverwaltung-zvg-versteigerung-eppendorf-altbau/gesamt-pdf/zwangsverwaltung-zvg-versteigerung-eppendorf-altbau_gesamt.pdf) | [`testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -195,7 +172,7 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `mieteinzug-rueckstaende` | Wenn es um Mieteinzug und Rückstände in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `mieten-risikoampel-und-gegenargumente` | Wenn es um Mieten: Risikoampel, Gegenargumente und Verteidigungslinien in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofo... |
 | `oeffentliche-lasten` | Wenn es um Öffentliche Lasten und grundstücksbezogene Abgaben in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und... |
-| `oeffentliche-mandantenkommunikation-entscheidungsvorlage` | Wenn es um Öffentliche: Mandantenkommunikation und Entscheidungsvorlage in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Soforts... |
+| `oeffentliche-mandantenkommunikation-entscheidungsvorlage` | Wenn es um Oeffentliche: Mandantenkommunikation und Entscheidungsvorlage in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Soforts... |
 | `output-waehlen` | Wenn es um Output wählen in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `portal-quellenkarte` | Wenn es um Portal Quellenkarte in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
 | `quality-gate` | Wenn es um Quality Gate für Zwangsverwaltung in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -226,7 +203,7 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `zwangsverwaltung-erstpruefung-und-mandatsziel` | Wenn es um Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mi... |
 | `zwvw-anordnung-zwangsverwaltung` | Wenn es um ZwVw: Anordnung Bauleiter in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `zwvw-kostenrechnung-verwalter-spezial` | Wenn es um ZwVw: Kostenrechnung Verwalter in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `zwvw-mietverhaeltnis-bestand-leitfaden` | Wenn es um ZwVw: Mietverhältnis Bestand in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `zwvw-mietverhaeltnis-bestand-leitfaden` | Wenn es um ZwVw: Mietverhaeltnis Bestand in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `zwvw-versteigerung-vs-verwaltung-spezial` | Wenn es um Zwvw Versteigerung Vs Verwaltung Spezial in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

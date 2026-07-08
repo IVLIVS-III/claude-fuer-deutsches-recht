@@ -1,26 +1,5 @@
 # gebrauchsmusterrecht
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`gebrauchsmusterrecht`) | [`gebrauchsmusterrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gebrauchsmusterrecht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Schnellverschluss S-14: Sensorhalter, Gebrauchsmusterabzweigung und Messeoffenbarung** (`gebrauchsmusterrecht-schnellverschluss-sensorhalter`) | [Gesamt-PDF lesen](../testakten/gebrauchsmusterrecht-schnellverschluss-sensorhalter/gesamt-pdf/gebrauchsmusterrecht-schnellverschluss-sensorhalter_gesamt.pdf) | [`testakte-gebrauchsmusterrecht-schnellverschluss-sensorhalter.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gebrauchsmusterrecht-schnellverschluss-sensorhalter.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -114,7 +93,7 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `cross-license-verletzung-anspruchsmerkmale` | Wenn es um Vergleich Und Cross License in gebrauchsmusterrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `doppelschutz-patent-dpma-anmeldung` | Wenn es um Doppelschutz Patent Gebrauchsmuster in gebrauchsmusterrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `dpma-anmeldung-formalien` | Wenn es um Dpma Anmeldung Formalien in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `einstweilige-verfuegung-fto-schutzbereich` | Wenn es um Einstweilige Verfügung Gebrauchsmuster in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem... |
+| `einstweilige-verfuegung-fto-schutzbereich` | Wenn es um Einstweilige Verfuegung Gebrauchsmuster in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem... |
 | `fto-und-schutzbereich` | Wenn es um Fto Und Schutzbereich in gebrauchsmusterrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
 | `gebrauchsmuster-kaltstart-interview` | Wenn es um Gebrauchsmuster Kaltstart Interview in gebrauchsmusterrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
 | `geheimhaltung-vor-anmeldung` | Wenn es um Geheimhaltung Vor Anmeldung in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
@@ -122,31 +101,31 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `insolvenz-und-verwertung` | Wenn es um Insolvenz Und Verwertung in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `japan-utility-klageantraege-verletzung` | Wenn es um Japan Utility Model Vergleich in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `kaltstart-triage` | Wenn es um Allgemein in gebrauchsmusterrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
-| `klageantraege-verletzung` | Wenn es um Klageanträge Verletzung in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `klageantraege-verletzung` | Wenn es um Klageantraege Verletzung in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `lizenzvertrag-gebrauchsmuster` | Wenn es um Lizenzvertrag Gebrauchsmuster in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `local-counsel-loeschung-erwiderung` | Wenn es um Local Counsel Briefing Ausland in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `loeschung-erwiderung-inhaber` | Wenn es um Löschung Erwiderung Inhaber in gebrauchsmusterrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
-| `loeschungsantrag-dpma-mandantenmemo` | Wenn es um Löschungsantrag Dpma in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `loeschung-erwiderung-inhaber` | Wenn es um Loeschung Erwiderung Inhaber in gebrauchsmusterrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| `loeschungsantrag-dpma-mandantenmemo` | Wenn es um Loeschungsantrag Dpma in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `mandantenmemo-gebrauchsmusterstrategie` | Wenn es um Mandantenmemo Gebrauchsmusterstrategie in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `messeveroeffentlichung-prototyp-muendliche` | Wenn es um Messeveröffentlichung Und Prototyp in gebrauchsmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `muendliche-verhandlung-dpma` | Wenn es um Mündliche Verhandlung Dpma in gebrauchsmusterrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `messeveroeffentlichung-prototyp-muendliche` | Wenn es um Messeveroeffentlichung Und Prototyp in gebrauchsmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `muendliche-verhandlung-dpma` | Wenn es um Muendliche Verhandlung Dpma in gebrauchsmusterrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `neuheit-erfinderischer-patent-gebrauchsmuster` | Wenn es um Neuheit Und Erfinderischer Schritt in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `neuheitsschonfrist-eigene-offenbarung` | Wenn es um Neuheitsschonfrist Eigene Offenbarung in gebrauchsmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `patent-oder-gebrauchsmuster-route` | Wenn es um Patent Oder Gebrauchsmuster Route in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
-| `prioritaet-anmeldetag-produktlaunch-neuheit` | Wenn es um Priorität Und Anmeldetag in gebrauchsmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `prioritaet-anmeldetag-produktlaunch-neuheit` | Wenn es um Prioritaet Und Anmeldetag in gebrauchsmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `produktlaunch-und-neuheit` | Wenn es um Produktlaunch Und Neuheit in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `qualitygate-gebrmg` | Wenn es um Qualitygate Gebrmg in gebrauchsmusterrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `recherche-nach-schutzgegenstand-ausschluesse` | Wenn es um Recherche Nach Paragraph 7 Gebrmg in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `registerstand-aufrechterhaltung-lizenzvertrag` | Wenn es um Registerstand Fristen Aufrechterhaltung in gebrauchsmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `schutzgegenstand-und-ausschluesse` | Wenn es um Schutzgegenstand Und Ausschlüsse in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| `schutzgegenstand-und-ausschluesse` | Wenn es um Schutzgegenstand Und Ausschluesse in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `stand-technik-startup-schnellschutz` | Wenn es um Stand Der Technik Belegpaket in gebrauchsmusterrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `startup-schnellschutz` | Wenn es um Startup Schnellschutz in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `technische-laborbuch-teilloeschung` | Wenn es um Technische Dokumentation Laborbuch in gebrauchsmusterrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `teilloeschung-und-hilfsantraege` | Wenn es um Teillöschung Und Hilfsanträge in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `uebertragung-sicherheit-us-provisional` | Wenn es um Übertragung Und Sicherheit in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
+| `teilloeschung-und-hilfsantraege` | Wenn es um Teilloeschung Und Hilfsantraege in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `uebertragung-sicherheit-us-provisional` | Wenn es um Uebertragung Und Sicherheit in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
 | `us-provisional-vs-gebrauchsmuster` | Wenn es um Us Provisional Vs Gebrauchsmuster in gebrauchsmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `verletzung-anspruchsmerkmale` | Wenn es um Verletzung Anspruchsmerkmale in gebrauchsmusterrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `vernichtung-rueckruf-vorbenutzungsrecht` | Wenn es um Vernichtung Rückruf Und Entfernung in gebrauchsmusterrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| `vernichtung-rueckruf-vorbenutzungsrecht` | Wenn es um Vernichtung Rueckruf Und Entfernung in gebrauchsmusterrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `vorbenutzungsrecht` | Wenn es um Vorbenutzungsrecht in gebrauchsmusterrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
 | `zoll-und-plattformdurchsetzung` | Wenn es um Zoll Und Plattformdurchsetzung in gebrauchsmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 

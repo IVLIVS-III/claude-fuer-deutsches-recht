@@ -132,3 +132,7 @@ Eine Datenschutz- und Aktengeheimniswarnung gilt durchgehend: Echte personenbezo
 9.1. Eine neue Dezernentin übernimmt am ersten Tag dreißig Akten. Der Skill erstellt zuerst eine Vorrangliste mit Haftsachen, Verjährungssachen und Fristsachen, liefert für die erste Haftsache einen Kontrollvermerk zur Frist nach Paragraf 121 StPO und schlägt für eine abschlussreife Bagatellakte den Entscheidungsbaum nach Ziffer 4 mit einer begründeten Empfehlung zu Paragraf 153a StPO vor.
 
 9.2. Ein Berufseinsteiger hat am dritten Tag Bereitschaftsdienst und wird zu einer Festnahme gerufen. Der Skill führt durch die Prüfung der Haftgründe nach Paragraf 112 StPO, die Vorführungsfrist nach Paragraf 128 StPO und die Verhältnismäßigkeit, benennt die Stop-Kriterien für eine Vorlage und liefert ein Gerüst für den Antrag auf Erlass eines Haftbefehls; vertieft wird über den Spezial-Skill `haftbefehl-und-u-haft-antrag`.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trägt zur staatsanwaltschaftlichen Streitstoff-Sortierung bei, indem Sachverhalts-Eckdaten, Beweismittel, rechtliche Würdigung und Anschlussverfügung getrennt werden. Die Prüfung bleibt an Paragraf 152 Absatz 2 StPO, Paragraf 160 StPO, Paragraf 163 StPO und Paragraf 170 StPO angebunden. Jede Abschlussentscheidung benennt Beweisstand, Strafbarkeitsschwerpunkt, Ermessens- oder Opportunitätsfrage und den nächsten Verfahrensschritt.

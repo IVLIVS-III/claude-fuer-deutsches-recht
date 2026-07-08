@@ -1,34 +1,9 @@
 # gesellschaftsgründer — Gründungsassistent für deutsche Gesellschaften
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`gesellschaftsgruender`) | [`gesellschaftsgruender.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gesellschaftsgruender.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Akte Knusperkrone: Franchise-Expansion, Gebietsschutz und Systemhandbuch-Streit** (`franchiserecht-systemgastronomie-expansion-streit`) | [Gesamt-PDF lesen](../testakten/franchiserecht-systemgastronomie-expansion-streit/gesamt-pdf/franchiserecht-systemgastronomie-expansion-streit_gesamt.pdf) | [`testakte-franchiserecht-systemgastronomie-expansion-streit.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-franchiserecht-systemgastronomie-expansion-streit.zip) |
-| **NeuroChain Labs — Gründung eines KI/Krypto-Startups in Berlin, Musterprotokoll vs. individuelle Satzung** (`gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll`) | [Gesamt-PDF lesen](../testakten/gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll/gesamt-pdf/gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll_gesamt.pdf) | [`testakte-gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll.zip) |
-| **Röschen Tech GmbH — Gründung, Series A, B-Shares und Streit-Eskalation** (`gesellschaftsgruender-streit-roeschen-tech`) | [Gesamt-PDF lesen](../testakten/gesellschaftsgruender-streit-roeschen-tech/gesamt-pdf/gesellschaftsgruender-streit-roeschen-tech_gesamt.pdf) | [`testakte-gesellschaftsgruender-streit-roeschen-tech.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-streit-roeschen-tech.zip) |
-| **Handelsrecht HGB — Elbwerft Solar: eGbR, OHG-Statuswechsel, KG und Handelskauf** (`handelsrecht-hgb-kommanditgesellschaft-egbr-statuswechsel-altona`) | [Gesamt-PDF lesen](../testakten/handelsrecht-hgb-kommanditgesellschaft-egbr-statuswechsel-altona/gesamt-pdf/handelsrecht-hgb-kommanditgesellschaft-egbr-statuswechsel-altona_gesamt.pdf) | [`testakte-handelsrecht-hgb-kommanditgesellschaft-egbr-statuswechsel-altona.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-handelsrecht-hgb-kommanditgesellschaft-egbr-statuswechsel-altona.zip) |
-| **Nebelstern Ventures - Berliner VC-Pipeline, Wandeldarlehen und Follow-on-Chaos** (`venture-capital-geber-nebelstern-portfolio-berlin`) | [Gesamt-PDF lesen](../testakten/venture-capital-geber-nebelstern-portfolio-berlin/gesamt-pdf/venture-capital-geber-nebelstern-portfolio-berlin_gesamt.pdf) | [`testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
-Gründungsassistent für deutsche Gesellschaften: Rechtsformwahl, Satzung, Notar, Handelsregister, Bank/KYC, Steuerstart, IP, Erlaubnisse, erste Verträge, Budget und Streitprävention.
+Gruendungsassistent für deutsche Gesellschaften: Rechtsformwahl, Satzung, Notar, Handelsregister, Bank/KYC, Steuerstart, IP, Erlaubnisse, erste Vertraege, Budget und Streitpraevention.
 
 Dieses Plugin gehört zum Marketplace mit 234 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
@@ -197,7 +172,7 @@ Automatisch generierte Komplett-Liste aller 114 Skills in diesem Plugin. Beschre
 | `gruender-ip-einbringung-und-lizenzkette` | Wenn es um Gründer-IP, Einbringung und Lizenzkette in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `gruenderrollen-konfliktcheck` | Wenn es um Gründerrollen und Konfliktcheck in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `gruenderstreit-praevention-mediation` | Wenn es um Gründerstreit, Prävention und Mediation in gesellschaftsgründer — Gründungsassistent für deutsche geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risik... |
-| `gruendungsassistent-erstpruefung-und-mandatsziel` | Wenn es um Gründungsassistent: Erstprüfung, Rollenklärung und Mandatsziel in gesellschaftsgründer — Gründungsassistent für deutsche geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- u... |
+| `gruendungsassistent-erstpruefung-und-mandatsziel` | Wenn es um Gruendungsassistent: Erstprüfung, Rollenklärung und Mandatsziel in gesellschaftsgründer — Gründungsassistent für deutsche geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- u... |
 | `gruendungskosten-und-budgetplan` | Wenn es um Gründungskosten und Budgetplan in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `gv-einladung-tagesordnung` | Wenn es um Einladung zur Gesellschafterversammlung in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `gv-protokoll-und-versammlungsleiter` | Wenn es um Protokoll der Gesellschafterversammlung in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -241,8 +216,8 @@ Automatisch generierte Komplett-Liste aller 114 Skills in diesem Plugin. Beschre
 | `sha-satzung-stimmverpflichtung` | Wenn es um Stimmverpflichtung SHA gegenüber Satzung in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `share-classes-a-b-c` | Wenn es um Anteilsklassen A / B / C / Common in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `sitz-geschaeftsanschrift-briefkastenrisiko` | Wenn es um Sitz, Geschäftsanschrift und Briefkastenrisiko in gesellschaftsgründer — Gründungsassistent für deutsche geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Ant... |
-| `spezial-geschaeftsfuehrervertrag-livequellen-check` | Wenn es um Geschäftsführervertrag: Livequellen- und Rechtsprechungscheck in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoa... |
-| `spezial-ueber-schriftsatz-brief-und-memo-bausteine` | Wenn es um Über: Schriftsatz-, Brief- und Memo-Bausteine in gesellschaftsgründer — Gründungsassistent für deutsche geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Ant... |
+| `spezial-geschaeftsfuehrervertrag-livequellen-check` | Wenn es um Geschaeftsfuehrervertrag: Livequellen- und Rechtsprechungscheck in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoa... |
+| `spezial-ueber-schriftsatz-brief-und-memo-bausteine` | Wenn es um Ueber: Schriftsatz-, Brief- und Memo-Bausteine in gesellschaftsgründer — Gründungsassistent für deutsche geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Ant... |
 | `stammkapital-einzahlung` | Wenn es um Stammkapital-Einzahlung in gesellschaftsgründer — Gründungsassistent für deutsche geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `stammkapitalverlust-paragraf-49-gmbhg` | Wenn es um Pflichtversammlung bei Stammkapital-Verlust (Paragraf 49 Abs. 3 GmbHG) in gesellschaftsgründer — Gründungsassistent für deutsche geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein dire... |
 | `steuerliche-erfassung` | Wenn es um Steuerliche Erfassung ELSTER in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

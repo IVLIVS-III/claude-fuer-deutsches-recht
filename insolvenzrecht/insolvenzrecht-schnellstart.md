@@ -2,18 +2,18 @@ Wenn du das hier öffnest, willst du Eröffnungsgrund und Fortbestehensprognose 
 
 # Insolvenz- Und Sanierungsrecht — Schnellstart
 
-Ziel: Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Gläubigerantrag. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Gläubigerantrag. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
@@ -22,18 +22,18 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 3. Antrag und Sicherung: Insolvenzantrag, vorläufige Maßnahmen, Masseerhalt und Kommunikation vorbereiten.
 4. Forderung und Tabelle: Anmeldung, Bestreiten, Feststellung, Sicherheiten und Aussonderung aufbereiten.
 5. Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen.
-6. Wenn es um Insolvenzanfechtungsrechte prüfen in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik.
+6. Insolvenzanfechtungsrechte prüfen: Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Insolvenzanfechtungsrechte prüfen | erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Insolvenzrecht — Allgemein | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung | erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Paragraf 15a InsO — Antragspflicht, Insolvenzverschleppung und Paragraf 15b InsO Zahlungsverbot | erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ausländischer Insolvenzverwalter — Register und Grundbuch | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ausländischer Insolvenzverwalter: inzidente Anerkennung, Register, Grundbuch und GmbH-Anteile | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Insolvenzanfechtungsrechte prüfen | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Insolvenzrecht — Allgemein | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Paragraf 15a InsO — Antragspflicht, Insolvenzverschleppung und Paragraf 15b InsO Zahlungsverbot | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ausländischer Insolvenzverwalter — Register und Grundbuch | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ausländischer Insolvenzverwalter: inzidente Anerkennung, Register, Grundbuch und GmbH-Anteile | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
@@ -41,10 +41,10 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 - InsO Paragraf 18: drohende Zahlungsunfähigkeit.
 - InsO Paragraf 19: Überschuldung.
 - InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
-- Insolvenzverwalter klagt auf Rückgewaehr einer Zahlung vor Insolvenz oder Gläubiger muss Insolvenzanfechtung abwehren. Prüfraster Paragrafen 129 ff. InsO kongruente Deckung Paragraf: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Normenradar: InsO Paragrafen 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Vermutung Paragraf 133 Abs. 1 Satz 2 InsO — Vorsatzkenntnis vermutet wenn Anfechtungs-Gegner Zahlungsunfähigkeit drohende Zahlungsunfähigkeit und Gläubigerbenachteiligung kannte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Vier Jahre für Deckungs-Konstellationen (Paragraf 133 Abs. 2 InsO) — kongruent: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 17 InsO — Zahlungsunfähigkeit als Eröffnungsgrund: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 18 InsO — Drohende Zahlungsunfähigkeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 19 InsO — Überschuldung; zweistufige Prüfung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zahlungsunfähigkeit ist regelmäßig bei Liquiditätslücke von zehn Prozent anzunehmen.
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.
 - Verifizierte Anker: BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen Paragraf 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: Paragraf 343 InsO Anerkennung

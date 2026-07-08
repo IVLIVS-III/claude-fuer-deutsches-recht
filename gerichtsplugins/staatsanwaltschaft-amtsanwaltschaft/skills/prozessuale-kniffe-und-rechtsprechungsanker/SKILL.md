@@ -46,3 +46,7 @@ Nutze diesen Skill, wenn der Dezernent nicht nur formal richtig, sondern sichtba
 ## Textbaustein
 
 Nach dem derzeitigen Aktenstand ist der nächste verfahrensleitende Schritt [Maßnahme]. Maßgeblich sind [Tatsache], [Beweismittel] und [Rechtsfrage]. Die Maßnahme ist verhältnismäßig, weil [Begründung]. Milderes Mittel: [geprüft]. Wiedervorlage: [Datum] mit Ziel [Abschlussentscheidung].
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trägt zur staatsanwaltschaftlichen Streitstoff-Sortierung bei, indem Sachverhalts-Eckdaten, Beweismittel, rechtliche Würdigung und Anschlussverfügung getrennt werden. Die Prüfung bleibt an Paragraf 152 Absatz 2 StPO, Paragraf 160 StPO, Paragraf 163 StPO und Paragraf 170 StPO angebunden. Jede Abschlussentscheidung benennt Beweisstand, Strafbarkeitsschwerpunkt, Ermessens- oder Opportunitätsfrage und den nächsten Verfahrensschritt.

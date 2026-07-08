@@ -53,3 +53,7 @@ Jeder Tenor muss konkret genug sein, dass Beteiligte und Vollstreckungsorgan wis
 | Verfahrensbeistand | Bestellung, Aufgabenbereich und Beteiligung prüfen | klarer Beteiligten- und Anhörungsvermerk |
 | Jugendamt | Bericht, Terminbeteiligung und Schutzauftrag einordnen | konkrete Aufklärungsliste |
 | Vergleich | Kindeswohlkontrolle vor Protokollierung | vollstreckbare und kindgerechte Regelung |
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstation, Antragsgegnerstation, Kindeswohl- oder Unterhaltsachse, Belegen, Anhörungen und Beschlussformel. Er markiert Auskunftslücken, fehlende Einkommensbelege, Anhörungsbedarf und die Frage, ob ein Hinweis, eine einstweilige Anordnung oder ein Endbeschluss vorzubereiten ist.

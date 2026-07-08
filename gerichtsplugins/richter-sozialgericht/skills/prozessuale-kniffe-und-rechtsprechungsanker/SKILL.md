@@ -54,3 +54,7 @@ Der Tenor muss Rechtsschutzart, Verwaltungsakt oder Leistungsbegehren, Kosten un
 | Erwerbsminderung | Versicherungsrecht, Leistungsfall, medizinisches Leistungsvermögen | Gutachtenfrage auf Funktion, Zeitumfang und Arbeitsmarkt beziehen |
 | Krankenversicherung | Anspruchsgrundlage, Genehmigungsfiktion, Wirtschaftlichkeit, Systemversagen | Eilbedarf und Hauptsachechancen trennen |
 | Schwerbehinderung | Funktionsbeeinträchtigung, Einzel-GdB, Gesamt-GdB | keine Addition einzelner Werte |
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den sozialgerichtlichen Streitstoff nach Bescheid, Widerspruchsbescheid, Verwaltungsakte, Klagebegründung, medizinischer oder beitragsrechtlicher Tatsache und Amtsermittlung. Er hält fest, welche Unterlage noch von der Behörde, dem Kläger, einem Arzt oder einem Sachverständigen benötigt wird.

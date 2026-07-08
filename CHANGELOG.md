@@ -1,3 +1,13 @@
+# v429.5.0 — Direktstart, Kurzprompts und Aktenoptik
+
+- Werkstatt- und Schnellstart-Prompts starten repo-weit stärker aus vorhandenem Material: Wenn ein Ordner, Dateien oder Aktenstücke vorliegen, wird zuerst gelesen, geordnet und ein Arbeitsprodukt geliefert; Kaltstartfragen bleiben auf echte Lücken beschränkt.
+- Schnellstart-Prompts weiter entgenerisiert: Einsatzfelder greifen nun fachgebietsspezifisch zu, etwa Rentenverlauf, Sozialleistungsbescheid, Liquiditätsstatus, Satzungs- und Beschlussprüfung, Kündigungsfristen, Vergabe- oder Baustationslogik statt austauschbarer Workflow-Sätze.
+- Prompt-Generator nachgeschärft: bessere Normanker-Filter, weniger Frontmatter- und Beispieltext-Rauschen, stabilere Direkteinstiege, echte Umlaute in neu generierten Übersichten und kürzere, belastbarere Kurzprompt-Bausteine unter 7500 Bytes.
+- Testakten in Sozialrecht, Rentenrecht, Arbeitsrecht, Gesellschaftsrecht und Insolvenz-/Sanierungsrecht optisch geglättet: professionellere Kopf- und Fußzeilen, sauberere Word-Formatierung und reparierte abgeschnittene Aktenköpfe. Mehrere DOCX-Stichproben wurden gerendert und visuell geprüft.
+- SKILLS.md, skills-index, Asset-Index, Prompt-Coverage und Plugin-README-Skillübersichten neu generiert; ein leerer Lizenzlink im Root-README wurde als Sanity-Fund repariert.
+
+---
+
 # v429.4.0 — Schnellstart-Prompts, Schnittstellenhinweise und Aktenkontrolle
 
 - Schnellstart- und Werkstatt-Prompts repo-weit stärker auf den jeweiligen Plugin-Kern zugeschnitten: Skill-Überschriften werden als Arbeitsfelder genutzt, konkrete Norm- und Rechtsprechungsanker werden aus den vorhandenen Skills übernommen, generische Auffangformeln wurden deutlich zurückgedrängt.

@@ -53,3 +53,7 @@ Arbeitsgerichtliche Tenöre müssen kalendermäßig, betragsmäßig oder handlun
 | Kündigungsschutz | Zugang, Drei-Wochen-Frist, Betriebsrat, Kündigungsgrund trennen | Weiterbeschäftigung und Annahmeverzug gesondert |
 | Zahlungsantrag | Brutto/Netto, Fälligkeit, Verzug, Ausschlussfrist | vollstreckbarer Betrag oder Berechnungsweg |
 | Zeugnis | Note, Tätigkeitsbeschreibung, Verhalten, Schlussformel | bestimmter Text oder klare Berichtigungspflicht |
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt im arbeitsgerichtlichen Streitstoff Klageantrag, Kündigungs- oder Zahlungsgrund, Erwiderung, Güteversuch, Beweisangebot und Vergleichschance. Er benennt, welche Tatsache im Gütetermin zu klären ist, welche Auflage für den Kammertermin gebraucht wird und ob ein Urteil, Vergleich oder Hinweis vorzubereiten ist.

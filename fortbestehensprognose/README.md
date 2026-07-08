@@ -1,26 +1,5 @@
 # Fortbestehensprognose
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`fortbestehensprognose`) | [`fortbestehensprognose.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fortbestehensprognose.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Fortbestehensprognose Paragrafix GmbH** (`fortbestehensprognose-paragrafix-gmbh`) | [Gesamt-PDF lesen](../testakten/fortbestehensprognose-paragrafix-gmbh/gesamt-pdf/fortbestehensprognose-paragrafix-gmbh_gesamt.pdf) | [`testakte-fortbestehensprognose-paragrafix-gmbh.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -124,13 +103,13 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `fbp-bankenkommunikation-waiver-integrierte` | Wenn es um FBP: Bankenkommunikation Waiver in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `fbp-integrierte-planung-bauleiter` | Wenn es um FBP: Integrierte Planung Bauleiter in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `fbp-stresstest-szenarien-leitfaden` | Wenn es um FBP: Stresstest-Szenarien in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `fbp-zahlungsunfaehigkeit` | Wenn es um FBP: Zahlungsunfähigkeit Überschuldung in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `fbp-zahlungsunfaehigkeit` | Wenn es um FBP: Zahlungsunfaehigkeit Ueberschuldung in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `forderungsverzicht-besserungsschein` | Wenn es um Forderungsverzicht mit Besserungsschein in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `forderungsverzicht-mandantenentscheidung` | Wenn es um Forderungsverzicht: Mandantenkommunikation und Entscheidungsvorlage in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `fortbestehensdokumentation-insolvenzrecht` | Wenn es um Fortbestehensdokumentation mit insolvenzrechtlicher Tragfähigkeit in Fortbestehensprognose geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nac... |
 | `fortbestehensprognose-erstpruefung-und-mandatsziel` | Wenn es um Fortbestehensprognose: Erstprüfung, Rollenklärung und Mandatsziel in Fortbestehensprognose geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschrit... |
 | `fp-cash-flow-modell-spezial` | Wenn es um FP: Cash-Flow-Modell in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `fp-dokumentation-gerichtsfaehigkeit` | Wenn es um FP: Dokumentation-Gerichtsfähigkeit in Fortbestehensprognose geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `fp-dokumentation-gerichtsfaehigkeit` | Wenn es um FP: Dokumentation-Gerichtsfaehigkeit in Fortbestehensprognose geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `fp-einfuehrung-pflicht-und-zweck` | Wenn es um FP: Pflicht und Zweck in Fortbestehensprognose geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `fp-zeitraum-und-szenarien-praxis` | Wenn es um FP: Zeitraum und Szenarien in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `geschaeftsfuehrer-fristen-form-und-zustaendigkeit` | Wenn es um Geschäftsführer: Fristen, Form, Zuständigkeit und Rechtsweg in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -138,13 +117,13 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `inso-tatbestand-beweis-und-belege` | Wenn es um InsO: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fortbestehensprognose geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `kaltstart-interview` | Wenn es um /fortbestehensprognose:fortbestehensprognose-kaltstart-interview in Fortbestehensprognose geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `liquiditaet-12-monate` | Wenn es um Zwölf-Monats-Liquidität in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `liquiditaet-patronatserklaerung-interessen` | Wenn es um Liquidität: Zahlen, Schwellenwerte und Berechnung in Fortbestehensprognose geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
+| `liquiditaet-patronatserklaerung-interessen` | Wenn es um Liquiditaet: Zahlen, Schwellenwerte und Berechnung in Fortbestehensprognose geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
 | `mandantenkommunikation-redteam` | Wenn es um Mandantenkommunikation in Fortbestehensprognose geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage. |
 | `monats-quellenkarte` | Wenn es um Monats Quellenkarte in Fortbestehensprognose geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `negativer-fristennotiz-ausloesendes-ereignis` | Wenn es um Negativer: Fristennotiz und nächster Schritt in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `output-waehlen` | Wenn es um Output wählen in Fortbestehensprognose geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `patronatserklaerung-extern-hart-erzeugen` | Wenn es um Harte Patronatserklärung prüfen und erzeugen in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `patronatserklaerung-mehrparteien-konflikt-und-interessen` | Wenn es um Patronatserklärung: Mehrparteienkonflikt und Interessenmatrix in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `patronatserklaerung-mehrparteien-konflikt-und-interessen` | Wenn es um Patronatserklaerung: Mehrparteienkonflikt und Interessenmatrix in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `plausibilisierung-schriftsatz-brief-und-memo-bausteine` | Wenn es um Plausibilisierung: Schriftsatz-, Brief- und Memo-Bausteine in Fortbestehensprognose geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und... |
 | `prognose-stichtag-stundungsanfrage-glaeubiger` | Wenn es um Prognose-Dokumentation Stichtag in Fortbestehensprognose geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `quellen-livecheck` | Wenn es um Rechtsquellen-Livecheck in Fortbestehensprognose geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
@@ -152,21 +131,21 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `sanierungsbausteine-compliance-dokumentation-und-akte` | Wenn es um Sanierungsbausteine: Compliance-Dokumentation und Aktenvermerk in Fortbestehensprognose geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und näc... |
 | `sanierungsbausteine-vorschlagen-annahmen` | Wenn es um Sanierungsbausteine vorschlagen in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `selbstdokumentation-dokumentenmatrix-und-lueckenliste` | Wenn es um Selbstdokumentation: Dokumentenmatrix, Lückenliste und Nachforderung in Fortbestehensprognose geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
-| `spezial-geschaeftsfuehrer-fristen-form-und-zustaendigkeit` | Wenn es um Geschäftsführer: Fristen, Form, Zuständigkeit und Rechtsweg in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-geschaeftsfuehrer-fristen-form-und-zustaendigkeit` | Wenn es um Geschaeftsfuehrer: Fristen, Form, Zuständigkeit und Rechtsweg in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-monats-livequellen-und-rechtsprechungscheck` | Wenn es um Monats: Livequellen- und Rechtsprechungscheck in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `spezial-rangruecktritt-formular-portal-und-einreichung` | Wenn es um Rangrücktritt: Formular, Portal und Einreichungslogik in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-rangruecktritt-formular-portal-und-einreichung` | Wenn es um Rangruecktritt: Formular, Portal und Einreichungslogik in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `start-chronologie-fristen` | Wenn es um Fortbestehensprognose — Allgemein in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `starug-beweislast-stundung-red-zwoelf` | Wenn es um StaRUG: Beweislast, Darlegungslast und Substantiierung in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `stundung-red-team-und-qualitaetskontrolle` | Wenn es um Stundung: Red-Team und Qualitätskontrolle in Fortbestehensprognose geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `stundungsanfrage-glaeubiger` | Wenn es um Stundungsanfrage Gläubiger in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `unterlagen-luecken` | Wenn es um Unterlagen und Lücken in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `wenn-prognose-negativ-naechste-schritte` | Wenn es um Wenn Prognose Negativ Nächste Schritte in Fortbestehensprognose geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| `wenn-prognose-negativ-naechste-schritte` | Wenn es um Wenn Prognose Negativ Naechste Schritte in Fortbestehensprognose geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `workflow-chronologie-und-belegmatrix` | Wenn es um Chronologie und Belegmatrix in Fortbestehensprognose geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `workflow-fristen-und-risikoampel` | Wenn es um Fristen- und Risikoampel in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `workflow-kaltstart-und-routing` | Wenn es um Kaltstart und Routing in Fortbestehensprognose geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `workflow-redteam-qualitygate` | Wenn es um Red-Team Qualitygate in Fortbestehensprognose geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `workflow-unterlagen-lueckenliste` | Wenn es um Unterlagen- und Lückenliste in Fortbestehensprognose geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
 | `zusammenfuehren` | Wenn es um Fortbestehensprognose zusammenführen in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `zwoelf-verhandlung-vergleich-und-eskalation` | Wenn es um Zwölf: Verhandlung, Vergleich und Eskalation in Fortbestehensprognose geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| `zwoelf-verhandlung-vergleich-und-eskalation` | Wenn es um Zwoelf: Verhandlung, Vergleich und Eskalation in Fortbestehensprognose geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

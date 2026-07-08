@@ -2,18 +2,18 @@ Wenn du das hier öffnest, willst du einen grenzüberschreitenden Fall sortieren
 
 # Common Law Kompass — Schnellstart
 
-Ziel: Freistehendes Common-Law-Plugin für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Freistehendes Common-Law-Plugin für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
@@ -22,18 +22,18 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 3. Anwendbares Recht: Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen.
 4. Materielle Prüfung nach dem berufenen Recht: bei auslaendischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden.
 5. Durchsetzung: Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt.
-6. Wenn es um Anschluss-Routing in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten.
+6. Anschluss-Routing: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Begriffs- und Übersetzungswerkstatt | erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bilingual Contract Review | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bilinguale: Compliance-Dokumentation und Aktenvermerk | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Common Law: Discovery-Spezial | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Common Law: Mandantenübersicht EN | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Begriffs- und Übersetzungswerkstatt | Begriffs- und Übersetzungswerkstatt: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bilingual Contract Review | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bilinguale: Compliance-Dokumentation und Aktenvermerk | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Common Law: Discovery-Spezial | Common Law: Discovery-Spezial: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Common Law: Mandantenübersicht EN | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
@@ -41,10 +41,6 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 - Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhaeltnisse; Artikel 9: Eingriffsnormen.
 - Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhaeltnisse.
 - CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
-- German "Allgemeine Geschäftsbedingungen" (AGB) provisions (Paragrafen 305-310 BGB) do not apply under English law — "terms and conditions" not subject to AGB-Kontrolle: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- German Treu und Glauben (Paragraf 242 BGB) has no equivalent under English law — good faith obligation not implied in commercial contracts (Walford v Miles [1992] 2 AC 128 HL): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Trust-Strukturen im US/UK-Recht haben kein direktes Äquivalent in DE; Paragraf 1922 BGB Erbfolge greift anders: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 6. Punitive damages in den USA pro Kläger relevant; nicht vollstreckbar im deutschen ordre public (Paragraf 328 I Nr. 4 ZPO): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Rechtsprechung nur fallbezogen und nach Live-Verifikation an amtlicher oder frei zugaenglicher Quelle zitieren; nicht verifizierte Aktenzeichen weglassen statt verwenden.
 
 ## 6. Antwortform

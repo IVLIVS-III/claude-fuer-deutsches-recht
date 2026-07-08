@@ -1,22 +1,5 @@
 # Schöffen und Handelsrichter Praxis
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`schoeffen-handelsrichter-praxis`) | [`schoeffen-handelsrichter-praxis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schoeffen-handelsrichter-praxis.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -170,7 +153,7 @@ Automatisch generierte Komplett-Liste aller 81 Skills in diesem Plugin. Beschrei
 | `sitzungs-terminvorbereitung-strafzumessung` | Wenn es um Sitzungs- und Terminvorbereitung in Schöffen und Handelsrichter Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `strafzumessung-fuer-schoeffen` | Wenn es um Strafzumessung für Schöffen in Schöffen und Handelsrichter Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `strafzumessung-schoeffe-orientierung` | Wenn es um Strafzumessung für Schöffen: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risi... |
-| `strafzumessung-schoeffe-sitzung` | Wenn es um Strafzumessung Schöffe Sitzung in Schöffen und Handelsrichter Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `strafzumessung-schoeffe-sitzung` | Wenn es um Strafzumessung Schoeffe Sitzung in Schöffen und Handelsrichter Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vertriebsstreit-orientierung-sitzung` | Wenn es um Handelsrichter Vertriebsstreit: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargume... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

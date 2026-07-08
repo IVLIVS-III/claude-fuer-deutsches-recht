@@ -1,29 +1,5 @@
 # markenrecht-fashion-luxus
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`markenrecht-fashion-luxus`) | [`markenrecht-fashion-luxus.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/markenrecht-fashion-luxus.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Lichtbogen-Stuhl L-27: Designschutz, Vorveröffentlichung und Copycat-Marktstart** (`designrecht-geschmacksmuster-lichtbogen-stuhl-copycat`) | [Gesamt-PDF lesen](../testakten/designrecht-geschmacksmuster-lichtbogen-stuhl-copycat/gesamt-pdf/designrecht-geschmacksmuster-lichtbogen-stuhl-copycat_gesamt.pdf) | [`testakte-designrecht-geschmacksmuster-lichtbogen-stuhl-copycat.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-designrecht-geschmacksmuster-lichtbogen-stuhl-copycat.zip) |
-| **Nachtfalter Studio: Capsule Collection, Lieferkette, Influencer und Plattformkopien** (`fashion-law-moderecht-nachtfalter-kollektion-2026`) | [Gesamt-PDF lesen](../testakten/fashion-law-moderecht-nachtfalter-kollektion-2026/gesamt-pdf/fashion-law-moderecht-nachtfalter-kollektion-2026_gesamt.pdf) | [`testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip) |
-| **EUIPO-Widerspruch Alicante: Sneakerkapsel, Benutzungsnachweis und Cooling-off** (`markenrecht-euipo-widerspruch-sneakerkapsel-alicante`) | [Gesamt-PDF lesen](../testakten/markenrecht-euipo-widerspruch-sneakerkapsel-alicante/gesamt-pdf/markenrecht-euipo-widerspruch-sneakerkapsel-alicante_gesamt.pdf) | [`testakte-markenrecht-euipo-widerspruch-sneakerkapsel-alicante.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenrecht-euipo-widerspruch-sneakerkapsel-alicante.zip) |
-| **Markenrecht – klôtzzkètté S.A. ./. Brezelmann Discount KG & Donauzon Marketplace GmbH** (`markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon`) | [Gesamt-PDF lesen](../testakten/markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon/gesamt-pdf/markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon_gesamt.pdf) | [`testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -195,7 +171,7 @@ Automatisch generierte Komplett-Liste aller 87 Skills in diesem Plugin. Beschrei
 | `markenuebertragung-chain-of-title` | Wenn es um Markenübertragung und Chain of Title in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
 | `marketplace-notice-action-dsa` | Wenn es um Marketplace Notice-and-Action in markenrecht-fashion-luxus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `messe-verletzung-und-gv-einsatz` | Wenn es um Markenverletzung auf Messen und Gerichtsvollzieher-Einsatz in markenrecht-fashion-luxus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung... |
-| `modehaeuser-uspto-wort-interessen-ttab` | Wenn es um Modehäuser: Dokumentenmatrix, Lückenliste und Nachforderung in markenrecht-fashion-luxus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
+| `modehaeuser-uspto-wort-interessen-ttab` | Wenn es um Modehaeuser: Dokumentenmatrix, Lückenliste und Nachforderung in markenrecht-fashion-luxus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
 | `nyc-korrespondenz-plattform-piraterie` | Wenn es um NYC-Korrespondenz und Conflict Check — Whitman Brennan Forsythe LLP in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `output-waehlen` | Wenn es um Output wählen in markenrecht-fashion-luxus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `plattform-piraterie-donauzon` | Wenn es um Plattform-Piraterie und Notice-and-Action nach DSA in markenrecht-fashion-luxus geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |

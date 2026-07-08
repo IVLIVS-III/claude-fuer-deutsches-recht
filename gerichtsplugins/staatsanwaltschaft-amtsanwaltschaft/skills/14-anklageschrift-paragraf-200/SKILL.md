@@ -58,3 +58,7 @@ Dieser Skill formt den hinreichenden Tatverdacht in eine Anklageschrift. Er tren
 - Keine Anklage ohne hinreichenden Tatverdacht.
 - Keine unbestimmten Tatzeiträume ohne Konkretisierung.
 - Keine Beweisliste ohne Bezug zum Tatbestandsmerkmal.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trägt zur staatsanwaltschaftlichen Streitstoff-Sortierung bei, indem Sachverhalts-Eckdaten, Beweismittel, rechtliche Würdigung und Anschlussverfügung getrennt werden. Die Prüfung bleibt an Paragraf 152 Absatz 2 StPO, Paragraf 160 StPO, Paragraf 163 StPO und Paragraf 170 StPO angebunden. Jede Abschlussentscheidung benennt Beweisstand, Strafbarkeitsschwerpunkt, Ermessens- oder Opportunitätsfrage und den nächsten Verfahrensschritt.

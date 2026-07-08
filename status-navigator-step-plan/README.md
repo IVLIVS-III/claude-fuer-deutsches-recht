@@ -1,26 +1,5 @@
 # Plugin: status-navigator-step-plan
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`status-navigator-step-plan`) | [`status-navigator-step-plan.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/status-navigator-step-plan.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **LausitzStorage 200 GmbH i.G. (Batteriegroßspeicher Jänschwalde/Peitz)** (`status-navigator-batteriespeicher-jaenschwalde-peitz`) | [Gesamt-PDF lesen](../testakten/status-navigator-batteriespeicher-jaenschwalde-peitz/gesamt-pdf/status-navigator-batteriespeicher-jaenschwalde-peitz_gesamt.pdf) | [`testakte-status-navigator-batteriespeicher-jaenschwalde-peitz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-status-navigator-batteriespeicher-jaenschwalde-peitz.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -188,9 +167,9 @@ Automatisch generierte Komplett-Liste aller 35 Skills in diesem Plugin. Beschrei
 | `copy-paste-fehler-erkennung` | Wenn es um Copy-Paste-Fehler erkennen in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `diskrepanzen-aufdecken` | Wenn es um Diskrepanzen aufdecken in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `dokumenten-inventur-grob` | Wenn es um Dokumenten-Inventur grob in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
-| `dokumententyp-beschluesse` | Wenn es um Dokumententyp Gesellschafterbeschlüsse in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schr... |
+| `dokumententyp-beschluesse` | Wenn es um Dokumententyp Gesellschafterbeschluesse in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schr... |
 | `dokumententyp-cap-tables` | Wenn es um Dokumententyp Cap Tables in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `dokumententyp-erklaerungen` | Wenn es um Dokumententyp einseitige Erklärungen in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `dokumententyp-erklaerungen` | Wenn es um Dokumententyp einseitige Erklaerungen in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `dokumententyp-korrespondenz` | Wenn es um Dokumententyp Korrespondenz in Plugin: status-navigator-step-plan geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `dokumententyp-vertraege` | Wenn es um Dokumententyp Verträge erkennen in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `erweiterung-hyperlinks` | Wenn es um Erweiterung Hyperlinks zur Ablage in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
@@ -203,10 +182,10 @@ Automatisch generierte Komplett-Liste aller 35 Skills in diesem Plugin. Beschrei
 | `excel-reiter-4-workflow` | Wenn es um Reiter 4 Workflow Step-Plan in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `excel-reiter-beteiligte-optional` | Wenn es um Optionaler Reiter Beteiligte in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `excel-reiter-fristen-optional` | Wenn es um Optionaler Reiter Fristen in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `luecken-notifizieren` | Wenn es um Lücken in Tabellen notifizieren in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `luecken-notifizieren` | Wenn es um Luecken in Tabellen notifizieren in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `padlet-als-werkzeug` | Wenn es um Padlet als Status-Navigator-Werkzeug in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `padlet-spalte-1-ueberblick` | Wenn es um Padlet Reiter 1 Überblick aufbauen in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `padlet-spalte-2-vorhanden` | Wenn es um Padlet Reiter 2 Verfügbar aufbauen in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `padlet-spalte-2-vorhanden` | Wenn es um Padlet Reiter 2 Verfuegbar aufbauen in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `padlet-spalte-3-fehlend` | Wenn es um Padlet Reiter 3 Fehlend aufbauen in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `padlet-spalte-4-workflow` | Wenn es um Padlet Reiter 4 Workflow aufbauen in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `status-navigator-einstieg` | Wenn es um Einstieg: Was haben wir und was muss geschehen in Plugin: status-navigator-step-plan geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -214,10 +193,10 @@ Automatisch generierte Komplett-Liste aller 35 Skills in diesem Plugin. Beschrei
 | `szenario-due-diligence` | Wenn es um Szenario Due Diligence in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `szenario-faelligstellung-vollstreckung` | Wenn es um Szenario gescheiterte Finanzierung in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `szenario-finanzierungsstruktur-bereinigen` | Wenn es um Szenario Finanzierungsstruktur bereinigen in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `szenario-mandatsuebernahme` | Wenn es um Szenario Mandatsübernahme in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `unterschriftspruefung` | Wenn es um Unterschriftsprüfung in Plugin: status-navigator-step-plan geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `szenario-mandatsuebernahme` | Wenn es um Szenario Mandatsuebernahme in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `unterschriftspruefung` | Wenn es um Unterschriftspruefung in Plugin: status-navigator-step-plan geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `verexcelung-prinzip` | Wenn es um Verexcelung Prinzip in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `ziel-praezisieren` | Wenn es um Ziel präzisieren in Plugin: status-navigator-step-plan geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `ziel-praezisieren` | Wenn es um Ziel praezisieren in Plugin: status-navigator-step-plan geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `zugang-zustellung-pruefung` | Wenn es um Zugang und Zustellung prüfen in Plugin: status-navigator-step-plan geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

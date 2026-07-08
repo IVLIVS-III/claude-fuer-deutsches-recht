@@ -22,3 +22,7 @@ Nutze diesen Skill, wenn aus Akte, Antrag, Anklage, Bescheid, Klage, Einspruch o
 ## Pflichtanker
 
 FGO Paragrafen 33, 40, 44, 69, 76, 96, 100 und 115 sowie AO-Grundlagen. Schwerpunkt sind Einspruch, Klagebefugnis, Aussetzung der Vollziehung, Amtsermittlung, Schätzung, Beweislast und Revisionszulassung.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirkung, Schätzung, Beweisangebot und Entscheidungsreife. Er macht sichtbar, welche Tatsache aus Buchführung, Prüfungsbericht, Steuerakte oder Parteivortrag stammt und welche Aufklärungsanordnung nach FGO-Logik erforderlich bleibt.

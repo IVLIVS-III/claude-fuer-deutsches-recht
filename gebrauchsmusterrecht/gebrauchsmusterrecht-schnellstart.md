@@ -1,49 +1,45 @@
-Wenn du das hier öffnest, willst du im Bereich Gebrauchsmusterrecht zügig von Unterlagen zu einem verwertbaren Arbeitsprodukt kommen.
+Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Gebrauchsmusterrecht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
 
 # Gebrauchsmusterrecht — Schnellstart
 
-Ziel: Eigenständiges Plugin für deutsches Gebrauchsmusterrecht: GebrMG, DPMA-Anmeldung, Recherche nach Paragraf 7 GebrMG, Abzweigung, Neuheitsschonfrist, Verletzung, Löschung, BPatG-Beschwerde, Lizenz, FTO und Schnellschutz für technische Produkte. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Eigenständiges Plugin für deutsches Gebrauchsmusterrecht: GebrMG, DPMA-Anmeldung, Recherche nach Paragraf 7 GebrMG, Abzweigung, Neuheitsschonfrist, Verletzung, Löschung, BPatG-Beschwerde, Lizenz, FTO und Schnellschutz für technische Produkte. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
-1. Abmahnung Gebrauchsmuster Verteidigung: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-2. Abzweigung Aus Patentanmeldung: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-3. Anspruchsfassung Gebrauchsmuster: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-4. Arbeitnehmererfindung und Inhaberschaft: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-5. Auskunft Schadensersatz und Rechnungslegung: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
-6. Auslandsroute Kein EU Gebrauchsmuster: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf; Ergebnis mit Beleg, Risiko und nächstem Schritt liefern.
+1. Abmahnung Gebrauchsmuster Verteidigung: Abmahnung Gebrauchsmuster Verteidigung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+2. Abzweigung Aus Patentanmeldung: Abzweigung Aus Patentanmeldung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+3. Anspruchsfassung Gebrauchsmuster: Anspruchsfassung Gebrauchsmuster: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+4. Arbeitnehmererfindung und Inhaberschaft: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+5. Auskunft Schadensersatz und Rechnungslegung: Auskunft Schadensersatz und Rechnungslegung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+6. Auslandsroute Kein EU Gebrauchsmuster: Auslandsroute Kein EU Gebrauchsmuster: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abmahnung Gebrauchsmuster Verteidigung | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abzweigung Aus Patentanmeldung | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruchsfassung Gebrauchsmuster | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitnehmererfindung und Inhaberschaft | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auskunft Schadensersatz und Rechnungslegung | ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auslandsroute Kein EU Gebrauchsmuster | erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abmahnung Gebrauchsmuster Verteidigung | Abmahnung Gebrauchsmuster Verteidigung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abzweigung Aus Patentanmeldung | Abzweigung Aus Patentanmeldung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anspruchsfassung Gebrauchsmuster | Anspruchsfassung Gebrauchsmuster: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitnehmererfindung und Inhaberschaft | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auskunft Schadensersatz und Rechnungslegung | Auskunft Schadensersatz und Rechnungslegung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auslandsroute Kein EU Gebrauchsmuster | Auslandsroute Kein EU Gebrauchsmuster: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
 - Paragraf 24a-c GebrMG: Auskunfts-, Schadensersatz- und Vernichtungsansprüche analog Paragrafen 139-140d PatG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- 4. Schutzbereich prüfen: Anspruchsmerkmale gegen verletzte Ausführung prüfen — Paragraf 12a GebrMG i.V.m. Paragraf 14 PatG (Auslegung der Schutzansprüche): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Für den Schutzbereich Paragraf 12a GebrMG i.V.m. Paragraf 14 PatG entlang Anspruchswortlaut, Beschreibung, Zeichnungen und Fachmannverständnis prüfen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Auch während laufender Patentprüfung als paralleles Schutzrecht möglich (Doppelschutz Paragraf 25 PatG): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 12a GebrMG i.V.m. Paragraf 14 PatG: Schutzbereich durch Schutzansprüche bestimmt; Beschreibung und Zeichnungen zur Auslegung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 25 PatG: Doppelschutz Patent-Gebrauchsmuster grundsätzlich zulässig: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Verfügungsgrund (Eilbedürftigkeit, Paragraf 935 ZPO): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Beschluss vom 20.06.2006 - X ZB 27/05 (Demonstrationsschrank)
 - BGH X ZR 95/05 "Schneidmesser" — Äquivalenz auch im Gebrauchsmusterrecht
 - Patent-Disclaimer-Entscheidungen nicht als Standardanker für Gebrauchsmuster-Auslegung verwenden; für den erfinderischen Schritt im Gebrauchsmusterrecht vorrangig BGH, Beschluss vom 20.06.2006 - X ZB

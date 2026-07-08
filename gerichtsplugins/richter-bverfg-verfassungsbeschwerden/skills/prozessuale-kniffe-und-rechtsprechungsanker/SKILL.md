@@ -43,3 +43,7 @@ Nutze diesen Skill, wenn eine Verfassungsbeschwerde, einstweilige Anordnung oder
 ## Entscheidungsanker
 
 Verfassungsrechtliche Prüfung benennt immer Schutzbereich, Eingriff, Rechtfertigung, fachgerichtlichen Prüfungsmaßstab und spezifische Verfassungsverletzung.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität, Grundrechtsrüge, Annahmegrund und Entscheidungsvorschlag. Er markiert Darlegungslücken und hält fest, ob ein Kammervermerk, ein Nichtannahmevotum oder ein Hinweis zur Unzulässigkeit vorbereitet wird.

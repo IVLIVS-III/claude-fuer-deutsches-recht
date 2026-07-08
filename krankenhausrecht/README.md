@@ -1,22 +1,5 @@
 # Krankenhausrecht
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`krankenhausrecht`) | [`krankenhausrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenhausrecht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -119,7 +102,7 @@ Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschrei
 | `hybrid-drg-insolvenz-intensivmedizin-beatmung` | Wenn es um Hybrid-DRG Paragraf 115f SGB V in Krankenhausrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `insolvenz-eines-krankenhauses-versorgungssicherung` | Wenn es um Insolvenz eines Krankenhauses Versorgungssicherung in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `intensivmedizin-beatmung-verlegung` | Wenn es um Intensivmedizin Beatmung Verlegung in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `investitionsfoerderung-einzelfoerderung` | Wenn es um Investitionsförderung Einzelförderung Pauschalförderung in Krankenhausrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anla... |
+| `investitionsfoerderung-einzelfoerderung` | Wenn es um Investitionsfoerderung Einzelfoerderung Pauschalfoerderung in Krankenhausrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anla... |
 | `kaltstart-krankenhausrecht` | Wenn es um Kaltstart Krankenhausrecht in Krankenhausrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `kaltstart-triage` | Wenn es um Krankenhausrecht — Allgemein in Krankenhausrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `khentgg-budgetverhandlung-drg-pepp-abgrenzung` | Wenn es um KHEntgG Budgetverhandlung DRG PEPP Abgrenzung in Krankenhausrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
@@ -139,15 +122,15 @@ Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschrei
 | `landesaufsicht-krankenhausaufsicht` | Wenn es um Landesaufsicht Krankenhausaufsicht Beanstandung in Krankenhausrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `landeskrankenhausplan-aufnahme-herausnahme-aenderung` | Wenn es um Landeskrankenhausplan Aufnahme Herausnahme Änderung in Krankenhausrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `landesrecht-und-bundesrecht-trennen` | Wenn es um Landesrecht und Bundesrecht trennen in Krankenhausrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `leistungsgruppen-qualitaetskriterien` | Wenn es um Leistungsgruppen und Qualitätskriterien Reformlogik in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
+| `leistungsgruppen-qualitaetskriterien` | Wenn es um Leistungsgruppen und Qualitaetskriterien Reformlogik in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
 | `livequellen-g-ba-bmg-land-pruefen` | Wenn es um Livequellen G-BA BMG Land prüfen in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung` | Wenn es um MD-Prüfung Krankenhausabrechnung Prüfverfahrensvereinbarung in Krankenhausrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anl... |
 | `medizinprodukterecht-betreiberpflichten-mdr-mpbetreibv` | Wenn es um Medizinprodukterecht Betreiberpflichten MDR MPBetreibV in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `mindestmengen-g-ba-qualitaetssicherung` | Wenn es um Mindestmengen G-BA Qualitätssicherung in Krankenhausrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
-| `notfallstufen-sicherstellungszuschlaege` | Wenn es um Notfallstufen und Sicherstellungszuschläge in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem... |
+| `mindestmengen-g-ba-qualitaetssicherung` | Wenn es um Mindestmengen G-BA Qualitaetssicherung in Krankenhausrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
+| `notfallstufen-sicherstellungszuschlaege` | Wenn es um Notfallstufen und Sicherstellungszuschlaege in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem... |
 | `output-vorstandsvorlage-behoerdenbrief-klage` | Wenn es um Output Vorstandsvorlage Behördenbrief Klage in Krankenhausrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `patientenbeschwerde-und-risikomanagement` | Wenn es um Patientenbeschwerde und Risikomanagement in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `patientenrechte-behandlungsvertrag-aufklaerung` | Wenn es um Patientenrechte Behandlungsvertrag Aufklärung in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `patientenrechte-behandlungsvertrag-aufklaerung` | Wenn es um Patientenrechte Behandlungsvertrag Aufklaerung in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `personaluntergrenzen-pflege-ppugv` | Wenn es um Personaluntergrenzen Pflege PpUGV in Krankenhausrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
 | `pflegebudget-vereinbarung` | Wenn es um Pflegebudget Vereinbarung Nachweis Risiken in Krankenhausrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
 | `planfeststellungsbescheid-rechtsbehelf-und-eilrechtsschutz` | Wenn es um Planfeststellungsbescheid Rechtsbehelf und Eilrechtsschutz in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sch... |
@@ -158,15 +141,15 @@ Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschrei
 | `qualitaetsbericht-veroeffentlichungspflichten` | Wenn es um Qualitätsbericht Veröffentlichungspflichten in Krankenhausrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `rettungsdienst-schnittstelle` | Wenn es um Rettungsdienst Schnittstelle Aufnahme Pflicht in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `schiedsstellenverfahren-krankenhausentgelt` | Wenn es um Schiedsstellenverfahren Krankenhausentgelt in Krankenhausrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `sektorenuebergreifende-versorgung-level-ii-klinik` | Wenn es um Sektorenübergreifende Versorgung Level Ii Klinik in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nä... |
+| `sektorenuebergreifende-versorgung-level-ii-klinik` | Wenn es um Sektorenuebergreifende Versorgung Level Ii Klinik in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nä... |
 | `strahlenschutz-radiologie-nuklearmedizin` | Wenn es um Strahlenschutz Radiologie Nuklearmedizin in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `strukturpruefung-ops-telemedizin-krankenhaus` | Wenn es um Strukturprüfung OPS und MD in Krankenhausrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `telemedizin-im-krankenhaus-und-fernbehandlung` | Wenn es um Telemedizin im Krankenhaus und Fernbehandlung in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `transplantationsrecht-koordination` | Wenn es um Transplantationsrecht Koordination in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `triage-notaufnahme-ueberlastung-dokumentation` | Wenn es um Triage Notaufnahme Überlastung Dokumentation in Krankenhausrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächst... |
+| `triage-notaufnahme-ueberlastung-dokumentation` | Wenn es um Triage Notaufnahme Ueberlastung Dokumentation in Krankenhausrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächst... |
 | `triage-notaufnahme-vergaberecht-krankenhaus` | Wenn es um Triage Notaufnahme Überlastung Dokumentation in Krankenhausrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächste... |
 | `vergaberecht-krankenhaus-einkauf-bau-it` | Wenn es um Vergaberecht Krankenhaus Einkauf Bau IT in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `vorhalteverguetung-leistungsgruppen-krankenhausreform` | Wenn es um Vorhaltevergütung Leistungsgruppen Krankenhausreform in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken un... |
+| `vorhalteverguetung-leistungsgruppen-krankenhausreform` | Wenn es um Vorhalteverguetung Leistungsgruppen Krankenhausreform in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken un... |
 | `wahlleistungsvereinbarung-chefarzt-zentren` | Wenn es um Wahlleistungsvereinbarung Chefarzt Leistungskette in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `zentren-zuschlaege-besondere-aufgaben` | Wenn es um Zentren Zuschläge besondere Aufgaben in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `zuweiserverguetung-antikorruption-299a-299b-stgb` | Wenn es um Zuweiservergütung Antikorruption Paragrafen 299a 299b StGB in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sch... |

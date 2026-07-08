@@ -1,26 +1,5 @@
 # Kanzlei-Builder-Hub
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`kanzlei-builder-hub`) | [`kanzlei-builder-hub.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-builder-hub.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Kanzleigründung Eckermann Friedrich Sandhof Rechtsanwaltsgesellschaft mbH — Aachen** (`kanzleigruendung-rechtsanwaltsgesellschaft-eckermann-friedrich-aachen`) | [Gesamt-PDF lesen](../testakten/kanzleigruendung-rechtsanwaltsgesellschaft-eckermann-friedrich-aachen/gesamt-pdf/kanzleigruendung-rechtsanwaltsgesellschaft-eckermann-friedrich-aachen_gesamt.pdf) | [`testakte-kanzleigruendung-rechtsanwaltsgesellschaft-eckermann-friedrich-aachen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzleigruendung-rechtsanwaltsgesellschaft-eckermann-friedrich-aachen.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -197,7 +176,7 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `anpassen` | Wenn es um /anpassen — Kanzleiprofil und Einstellungen anpassen in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `anschluss-router` | Wenn es um Kanzlei-Builder-Hub — Allgemein in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `automatischer-aktualisierer` | Wenn es um /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `builder-uebersicht-fuer-einsteiger` | Wenn es um Builder: Übersicht Einsteiger in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `builder-uebersicht-fuer-einsteiger` | Wenn es um Builder: Uebersicht Einsteiger in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `builder-zahlen-schwellen-und-berechnung` | Wenn es um Builder: Zahlen, Schwellenwerte und Berechnung in Kanzlei-Builder-Hub geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
 | `community-leistungsmatrix-fristennotiz` | Wenn es um Community: Fristen, Form, Zuständigkeit und Rechtsweg in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `daten-red-team-und-qualitaetskontrolle` | Wenn es um Daten: Red-Team und Qualitätskontrolle in Kanzlei-Builder-Hub geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -231,7 +210,7 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `playbook-aus-eigenen-daten` | Wenn es um Skill: Playbook aus eigenen Daten in Kanzlei-Builder-Hub geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `playbook-qualitaetspruefung-beweislast-review` | Wenn es um Playbook: Internationaler Bezug und Schnittstellen in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `qa-kanzleiweit-templating-praxis-verwalter` | Wenn es um Skill-QA kanzleiweit in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `qualitaetspruefung-beweislast-und-darlegungslast` | Wenn es um Qualitätsprüfung: Beweislast, Darlegungslast und Substantiierung in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `qualitaetspruefung-beweislast-und-darlegungslast` | Wenn es um Qualitaetspruefung: Beweislast, Darlegungslast und Substantiierung in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `qualitaetspruefung-builder-daten-red-team-korrektur` | Wenn es um Skills-QA in Kanzlei-Builder-Hub geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `quellen-livecheck` | Wenn es um Rechtsquellen-Livecheck in Kanzlei-Builder-Hub geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `rechtsquellen` | Wenn es um Rechtsquellen: Compliance-Dokumentation und Aktenvermerk in Kanzlei-Builder-Hub geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |

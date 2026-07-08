@@ -1,27 +1,5 @@
 # Schriftform und Textform im BGB
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`schriftform-und-textform-bgb`) | [`schriftform-und-textform-bgb.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schriftform-und-textform-bgb.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Schriftform-Maklervertrag – Eheleute Haspelbeck-Türkenfeld** (`schriftform-maklervertrag-muenchen-eheleute-haspelbeck`) | [Gesamt-PDF lesen](../testakten/schriftform-maklervertrag-muenchen-eheleute-haspelbeck/gesamt-pdf/schriftform-maklervertrag-muenchen-eheleute-haspelbeck_gesamt.pdf) | [`testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip) |
-| **Schriftform der Wohnraumkündigung — Pferdedrescher-Riesenstein ./. Eberhart-Wolframshausen** (`schriftform-mietkuendigung-bielefeld-online-pferdedrescher`) | [Gesamt-PDF lesen](../testakten/schriftform-mietkuendigung-bielefeld-online-pferdedrescher/gesamt-pdf/schriftform-mietkuendigung-bielefeld-online-pferdedrescher_gesamt.pdf) | [`testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -166,7 +144,7 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `einstieg-routing` | Wenn es um Einstieg und Routing in Schriftform und Textform im BGB geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `elektronische-paragraph-formerfordernisse` | Wenn es um Elektronische Form Paragraf 126a BGB — Qualifizierte elektronische Signatur in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit So... |
 | `empfangsbeduerftiger-international` | Wenn es um Dokumentation: Verhandlung, Vergleich und Eskalation in Schriftform und Textform im BGB geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
-| `empfangsbeduerftiger-international-schnittstellen` | Wenn es um Empfangsbedürftiger: Internationaler Bezug und Schnittstellen in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `empfangsbeduerftiger-international-schnittstellen` | Wenn es um Empfangsbeduerftiger: Internationaler Bezug und Schnittstellen in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `form-checker-fuer-vertrag-oder-willenserklaerung` | Wenn es um Form-Checker — Vertrag oder Willenserklärung in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `formerfordernisse-erstpruefung-und-mandatsziel` | Wenn es um Formerfordernisse: Erstprüfung, Rollenklärung und Mandatsziel in Schriftform und Textform im BGB geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofort... |
 | `formerfordernisse-im-bgb-ueberblick` | Wenn es um Formerfordernisse im BGB — Überblick in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -201,7 +179,7 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `unterlagen-luecken` | Wenn es um Unterlagen und Lücken in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `verifikation-compliance-dokumentation-und-akte` | Wenn es um Verifikation: Compliance-Dokumentation und Aktenvermerk in Schriftform und Textform im BGB geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und... |
 | `verteidigungsstrategie-bei-formangriff` | Wenn es um Verteidigungsstrategie bei Formangriff in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `willenserklaerung-zivilrecht-zugang` | Wenn es um Willenserklärung: Formular, Portal und Einreichungslogik in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `willenserklaerung-zivilrecht-zugang` | Wenn es um Willenserklaerung: Formular, Portal und Einreichungslogik in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `wohnraummiete-kuendigung-paragraph-568-bgb` | Wenn es um Wohnraummiete-Kündigung — Paragraf 568 BGB und Formfragen in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `workflow-chronologie-und-belegmatrix` | Wenn es um Chronologie und Belegmatrix in Schriftform und Textform im BGB geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `workflow-fristen-und-risikoampel` | Wenn es um Fristen- und Risikoampel in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -209,7 +187,7 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `workflow-unterlagen-lueckenliste` | Wenn es um Unterlagen- und Lückenliste in Schriftform und Textform im BGB geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
 | `zivilrecht-tatbestand-beweis-und-belege` | Wenn es um Zivilrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Schriftform und Textform im BGB geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `zugang-empfangsbeduerftiger-formgerechter` | Wenn es um Zugang empfangsbedürftiger Willenserklärungen Paragraf 130 BGB in Schriftform und Textform im BGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Soforts... |
-| `zugang-formgerechter-erklaerung-bgh-viii-zr-159-23` | Wenn es um Zugang Formgerechter Erklärung Bgh Viii Zr 159 23 in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `zugang-formgerechter-erklaerung-bgh-viii-zr-159-23` | Wenn es um Zugang Formgerechter Erklaerung Bgh Viii Zr 159 23 in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `zugang-risikoampel-und-gegenargumente` | Wenn es um Zugang: Risikoampel, Gegenargumente und Verteidigungslinien in Schriftform und Textform im BGB geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

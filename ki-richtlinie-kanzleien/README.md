@@ -1,26 +1,5 @@
 # KI-Richtlinie für Kanzleien und Rechtsabteilungen
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`ki-richtlinie-kanzleien`) | [`ki-richtlinie-kanzleien.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ki-richtlinie-kanzleien.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **KI-Richtlinie Musterkanzlei** (`ki-richtlinie-musterkanzlei`) | [Gesamt-PDF lesen](../testakten/ki-richtlinie-musterkanzlei/gesamt-pdf/ki-richtlinie-musterkanzlei_gesamt.pdf) | [`testakte-ki-richtlinie-musterkanzlei.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-richtlinie-musterkanzlei.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -150,7 +129,7 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | --- | --- |
 | `anonymisierung-pseudonymisierung` | Wenn es um Anonymisierung und Pseudonymisierung in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `anschluss-routing` | Wenn es um Anschluss-Routing in Kanzleirichtlinien für digitale Werkzeuge geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `anwaelten-berufsrechtskonforme-beruht` | Wenn es um Anwälten: Behörden-, Gerichts- oder Registerweg in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. |
+| `anwaelten-berufsrechtskonforme-beruht` | Wenn es um Anwaelten: Behörden-, Gerichts- oder Registerweg in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `auftragsverarbeitungsvertrag-pruefen` | Wenn es um Auftragsverarbeitungsvertrag prüfen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `automatisierte-entscheidungen-art-22-dsgvo` | Wenn es um Automatisierte Entscheidungen Art. 22 DSGVO in Kanzleirichtlinien für digitale Werkzeuge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunk... |
 | `berufsrecht-bausteine` | Wenn es um Berufsrecht-Bausteine in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |

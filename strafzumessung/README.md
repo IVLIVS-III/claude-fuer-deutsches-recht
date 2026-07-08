@@ -1,26 +1,5 @@
 # Strafzumessung
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`strafzumessung`) | [`strafzumessung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strafzumessung.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Strafzumessung Bankert — Untreue, LG Frankfurt / BGH Revision** (`strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung`) | [Gesamt-PDF lesen](../testakten/strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung/gesamt-pdf/strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung_gesamt.pdf) | [`testakte-strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -159,28 +138,28 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `153a-stpo-iii-bewaehrung-stgb` | Wenn es um Einstellung gegen Auflage — Paragraf 153a StPO in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `anschluss-routing` | Wenn es um Anschluss-Routing in Strafzumessung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | `besonders-formular-portal-und-einreichung` | Wenn es um Besonders: Formular, Portal und Einreichungslogik in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `bewaehrung-56-stgb-positive-sozialprognose` | Wenn es um Strafaussetzung zur Bewährung — Paragraf 56 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `bewaehrung-56-stgb-positive-sozialprognose` | Wenn es um Strafaussetzung zur Bewaehrung — Paragraf 56 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `bewaehrung-auflagen-bewaehrungswiderruf-56f` | Wenn es um Auflagen und Weisungen — Paragrafen 56b, 56c StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `bewaehrung-interessen-deutschem` | Wenn es um Bewährung: Mehrparteienkonflikt und Interessenmatrix in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `bewaehrungswiderruf-56f-stgb` | Wenn es um Bewährungswiderruf — Paragraf 56f StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `bewaehrung-interessen-deutschem` | Wenn es um Bewaehrung: Mehrparteienkonflikt und Interessenmatrix in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `bewaehrungswiderruf-56f-stgb` | Wenn es um Bewaehrungswiderruf — Paragraf 56f StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `deutschem-tatbestand-beweis-und-belege` | Wenn es um Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage in Strafzumessung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `dokumente-intake` | Wenn es um Dokumentenintake in Strafzumessung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `einstieg-routing` | Wenn es um Einstieg und Routing in Strafzumessung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `freiheitsstrafe-compliance-dokumentation-und-akte` | Wenn es um Freiheitsstrafe: Compliance-Dokumentation und Aktenvermerk in Strafzumessung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `freiheitsstrafe-ohne-bewaehrung-vollstreckung` | Wenn es um Freiheitsstrafe ohne Bewährung — Vollstreckung in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `freiheitsstrafe-ohne-bewaehrung-vollstreckung` | Wenn es um Freiheitsstrafe ohne Bewaehrung — Vollstreckung in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `freiheitsstrafe-strafmass-geldstrafe` | Wenn es um Freiheitsstrafe — Strafmass prüfen in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `freiheitsstrafe-strafmass-pruefen` | Wenn es um Freiheitsstrafe — Strafmass prüfen in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `freiheitsstrafe-strafmass-pruefen` | Wenn es um Freiheitsstrafe — Strafmass pruefen in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `geldstrafe-grossen-rechtsmittel` | Wenn es um Geldstrafe: Zahlen, Schwellenwerte und Berechnung in Strafzumessung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
 | `geldstrafe-tagessatzanzahl-bestimmen` | Wenn es um Tagessatzanzahl der Geldstrafe — Paragraf 40 Abs. 1 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `geldstrafe-vs-freiheitsstrafe-47-stgb` | Wenn es um Geldstrafe vs. Freiheitsstrafe — Paragraf 47 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `gesamtstrafenbildung-stgb-gestaendnis` | Wenn es um Gesamtstrafenbildung — Paragrafen 53 und 54 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `gestaendnis-und-strafmilderung` | Wenn es um Geständnis und Strafmilderung in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `gestaendnis-und-strafmilderung` | Wenn es um Gestaendnis und Strafmilderung in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `grossen-risikoampel-und-gegenargumente` | Wenn es um Großen: Risikoampel, Gegenargumente und Verteidigungslinien in Strafzumessung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `haerteausgleich-bei-nachtraeglicher-gesamtstrafenbildung` | Wenn es um Härteausgleich bei nachträglicher Gesamtstrafenbildung in Strafzumessung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und... |
-| `iii-stpo-begruendungsanforderungen-strafurteil` | Wenn es um Begründung der Strafzumessung im Urteil — Paragraf 267 Abs. 3 StPO in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `haerteausgleich-bei-nachtraeglicher-gesamtstrafenbildung` | Wenn es um Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung in Strafzumessung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und... |
+| `iii-stpo-begruendungsanforderungen-strafurteil` | Wenn es um Begruendung der Strafzumessung im Urteil — Paragraf 267 Abs. 3 StPO in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `jgg-jugendstrafe-minder-schwerer` | Wenn es um Strafzumessung im Jugendstrafrecht in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `minder-schwerer-fall-und-besonders-schwerer-fall` | Wenn es um Minder schwerer Fall und besonders schwerer Fall in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `nachtraegliche-gesamtstrafenbildung-55-stgb` | Wenn es um Nachträgliche Gesamtstrafenbildung — Paragraf 55 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `nachtraegliche-gesamtstrafenbildung-55-stgb` | Wenn es um Nachtraegliche Gesamtstrafenbildung — Paragraf 55 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `orientierung-triage-paragraph-stgb-besonders` | Wenn es um Strafzumessung — Orientierung und Triage in Strafzumessung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `output-waehlen` | Wenn es um Output wählen in Strafzumessung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `paragraph-46-stgb-grundsatz-strafzumessung` | Wenn es um Paragraf 46 StGB — Grundsatz der Strafzumessung in Strafzumessung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
@@ -190,7 +169,7 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `regelbeispiele-stgb-strafbefehl` | Wenn es um Regelbeispiele: Internationaler Bezug und Schnittstellen in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `regelbeispiele-strafrahmenwahl` | Wenn es um Chronologie und Belegmatrix in Strafzumessung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `schwerer-fehlerkatalog` | Wenn es um Schwerer Fehlerkatalog in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `spezial-grossen-risikoampel-und-gegenargumente` | Wenn es um Großen: Risikoampel, Gegenargumente und Verteidigungslinien in Strafzumessung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-grossen-risikoampel-und-gegenargumente` | Wenn es um Grossen: Risikoampel, Gegenargumente und Verteidigungslinien in Strafzumessung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-schwerer-red-team-und-qualitaetskontrolle` | Wenn es um Schwerer: Red-Team und Qualitätskontrolle in Strafzumessung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-tagessatz-livequellen-und-rechtsprechungscheck` | Wenn es um Tagessatz: Livequellen- und Rechtsprechungscheck in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `stgb-schriftsatz-brief-und-memo-bausteine` | Wenn es um Stgb: Schriftsatz-, Brief- und Memo-Bausteine in Strafzumessung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
@@ -200,19 +179,19 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `strafmilderung-49-stgb-zwingend-fakultativ` | Wenn es um Strafmilderung — Paragraf 49 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `strafrahmen-und-strafzumessungsstufen` | Wenn es um Strafrahmen und Strafzumessungsstufen in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `strafrecht-verfahrensstadium-strafbefehl` | Wenn es um Strafrecht: Fristen, Form, Zuständigkeit und Rechtsweg in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `strafz-aufklaerungshilfe-kronzeuge` | Wenn es um StrafZ: Aufklärungshilfe in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `strafz-aufklaerungshilfe-kronzeuge` | Wenn es um StrafZ: Aufklaerungshilfe in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `strafz-sicherungsverwahrung-spezial` | Wenn es um StrafZ: Sicherungsverwahrung in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `strafz-strafrahmenmilderung-leitfaden` | Wenn es um StrafZ: Strafrahmenmilderung in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `strafz-strafzumessungstatsachen` | Wenn es um StrafZ: Tatsachen Bauleiter in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `strafzumessung-erstpruefung-und-mandatsziel` | Wenn es um Strafzumessung: Erstprüfung, Rollenklärung und Mandatsziel in Strafzumessung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `strafzumessungs-tatsachen-46-ii-stgb` | Wenn es um Strafzumessungstatsachen — Paragraf 46 Abs. 2 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `strafzumessungstatsachen-vergleich-eskalation` | Wenn es um Strafzumessungstatsachen: Verhandlung, Vergleich und Eskalation in Strafzumessung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
-| `taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung` | Wenn es um Täter-Opfer-Ausgleich und Schadenswiedergutmachung — Paragraf 46a StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung` | Wenn es um Taeter-Opfer-Ausgleich und Schadenswiedergutmachung — Paragraf 46a StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `tagessatz-quellenkarte` | Wenn es um Tagessatz Quellenkarte in Strafzumessung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
-| `tagessatzhoehe-40-ii-stgb-nettotagesverdienst` | Wenn es um Tagessatzhöhe — Paragraf 40 Abs. 2 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `tagessatzhoehe-40-ii-stgb-nettotagesverdienst` | Wenn es um Tagessatzhoehe — Paragraf 40 Abs. 2 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `unterlagen-luecken` | Wenn es um Unterlagen und Lücken in Strafzumessung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `verfahrensstadium-strafbefehl-bis-kammer` | Wenn es um Strafzumessung vom Strafbefehl bis zur großen Strafkammer in Strafzumessung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
-| `verstaendigung-257c-stpo-strafzumessung` | Wenn es um Verständigung im Strafverfahren Paragraf 257c StPO und Strafzumessung in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `verstaendigung-257c-stpo-strafzumessung` | Wenn es um Verstaendigung im Strafverfahren Paragraf 257c StPO und Strafzumessung in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `workflow-fristen-und-risikoampel` | Wenn es um Fristen- und Risikoampel in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `workflow-kaltstart-und-routing` | Wenn es um Kaltstart und Routing in Strafzumessung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `workflow-unterlagen-lueckenliste` | Wenn es um Unterlagen- und Lückenliste in Strafzumessung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |

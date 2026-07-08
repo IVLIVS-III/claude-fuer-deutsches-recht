@@ -1,26 +1,5 @@
 # Mietrecht
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`mietrecht`) | [`mietrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/mietrecht.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Mietstreit Tannenkamp / Strassburger Immobilien GmbH — Altbau Leipzig-Plagwitz, Modernisierung und Mietminderung** (`mietstreit-altbau-rosenbluete-leipzig-modernisierung-und-minderung-tannenkamp`) | [Gesamt-PDF lesen](../testakten/mietstreit-altbau-rosenbluete-leipzig-modernisierung-und-minderung-tannenkamp/gesamt-pdf/mietstreit-altbau-rosenbluete-leipzig-modernisierung-und-minderung-tannenkamp_gesamt.pdf) | [`testakte-mietstreit-altbau-rosenbluete-leipzig-modernisierung-und-minderung-tannenkamp.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-mietstreit-altbau-rosenbluete-leipzig-modernisierung-und-minderung-tannenkamp.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -136,14 +115,14 @@ Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschrei
 | `mandantenkommunikation-redteam-qualitygate-vermieter` | Wenn es um Mandantenkommunikation in Mietrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
 | `mandat-triage-mietrecht` | Wenn es um Mandat-Triage Mietrecht in Mietrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `miet-gewerbemiete-vertragsklauseln-spezial` | Wenn es um Miet: Gewerbemiete-Klauseln in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `miet-kuendigungsschutz-mietminderung` | Wenn es um Miet: Kündigungsschutz in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `miet-kuendigungsschutz-mietminderung` | Wenn es um Miet: Kuendigungsschutz in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `miet-mietminderung-mangel-spezial` | Wenn es um Miet: Mietminderung Mangel in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `miet-mietvertrag-bauleiter` | Wenn es um Miet: Mietvertrag Bauleiter in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `mieter-mieteranfragen-mandantenentscheidung` | Wenn es um Mieter: Tatbestandsmerkmale, Beweisfragen und Beleglage in Mietrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `mieteranfragen-beantworten` | Wenn es um Mieteranfragen beantworten (Vermieter / Hausverwaltung) in Mietrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `mieteranfragen-mandantenentscheidung` | Wenn es um Mieteranfragen: Mandantenkommunikation und Entscheidungsvorlage in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `mieterhoehung-widersprechen` | Wenn es um Mieterhöhung prüfen und widersprechen in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `mieterhoehungs-compliance-dokumentation-und-akte` | Wenn es um Mieterhöhungs: Compliance-Dokumentation und Aktenvermerk in Mietrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| `mieterhoehungs-compliance-dokumentation-und-akte` | Wenn es um Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk in Mietrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `mieterhoehungsverlangen-erstellen` | Wenn es um Mieterhöhungsverlangen erstellen (Vermieter / Hausverwaltung) in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `mietkaution-rueckforderung` | Wenn es um Mietkaution-Rückforderung in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `mietpreisueberhoehung-wistrg` | Wenn es um Mietpreisüberhöhung, WiStrG 1954 und Mietwucher in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -154,7 +133,7 @@ Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschrei
 | `mietspiegel-quellen` | Wenn es um Mietspiegel-Quellen (amtlich) in Mietrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `mr-betriebskostenabrechnung-mr` | Wenn es um Mietrecht: Betriebskosten-Fehler in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `mr-einfuehrung-klageentwurf-beweislast` | Wenn es um Mietrecht: Vertragstypen in Mietrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `mr-kuendigungsschutz-praxis` | Wenn es um Mietrecht: Kündigungsschutz in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `mr-kuendigungsschutz-praxis` | Wenn es um Mietrecht: Kuendigungsschutz in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `mr-modernisierung-und-rolling-rent-spezial` | Wenn es um Mietrecht: Modernisierung-Rolling-Rent in Mietrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | `nebenkostenabrechnung-erstellen` | Wenn es um Nebenkostenabrechnung erstellen (Vermieter / Hausverwaltung) in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `nebenkostenabrechnung-erstellen-faktenbank` | Wenn es um Betriebskostenabrechnung erstellen in Mietrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -167,11 +146,11 @@ Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschrei
 | `rechtsstand-mai-2026-faktenbank` | Wenn es um Rechtsstand Mai 2026 — Faktenbank Mietrecht und WEG in Mietrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | `spezial-ausschliesslich-dokumentenmatrix-und-lueckenliste` | Wenn es um Ausschliesslich: Dokumentenmatrix, Lückenliste und Nachforderung in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-erstellung-red-team-und-qualitaetskontrolle` | Wenn es um Erstellung: Red-Team und Qualitätskontrolle in Mietrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `spezial-nebenkostenpruefung-formular-portal-und-einreichung` | Wenn es um Nebenkostenprüfung: Formular, Portal und Einreichungslogik in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-nebenkostenpruefung-formular-portal-und-einreichung` | Wenn es um Nebenkostenpruefung: Formular, Portal und Einreichungslogik in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `spezial-quellen-schriftsatz-brief-und-memo-bausteine` | Wenn es um Quellen: Schriftsatz-, Brief- und Memo-Bausteine in Mietrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `spezial-universitaetsstaedte-livequellen-check` | Wenn es um Universitätsstädte: Livequellen- und Rechtsprechungscheck in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-universitaetsstaedte-livequellen-check` | Wenn es um Universitaetsstaedte: Livequellen- und Rechtsprechungscheck in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `start-chronologie-fristen` | Wenn es um Mietrecht — Allgemein in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
-| `universitaetsstaedte-quellenkarte-check` | Wenn es um Universitätsstädte Quellenkarte Check in Mietrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| `universitaetsstaedte-quellenkarte-check` | Wenn es um Universitaetsstaedte Quellenkarte Check in Mietrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `unterlagen-luecken` | Wenn es um Unterlagen und Lücken in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vermieter-fristen-form-und-zustaendigkeit` | Wenn es um Vermieter: Fristen, Form, Zuständigkeit und Rechtsweg in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `weg-beschluss-anfechten` | Wenn es um WEG-Beschluss anfechten in Mietrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |

@@ -1,26 +1,5 @@
 # berufsrecht-ki-vertragsprüfung
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`berufsrecht-ki-vertragspruefung`) | [`berufsrecht-ki-vertragspruefung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-ki-vertragspruefung.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Berufsrecht / KI-Vertragsprüfung — Rügeverfahren RAK Köln und Haftungsklage Habernau** (`berufsrecht-ki-rugekomitee-anwaltskammer-koeln-mandant-richtl-dr-rotbruch`) | [Gesamt-PDF lesen](../testakten/berufsrecht-ki-rugekomitee-anwaltskammer-koeln-mandant-richtl-dr-rotbruch/gesamt-pdf/berufsrecht-ki-rugekomitee-anwaltskammer-koeln-mandant-richtl-dr-rotbruch_gesamt.pdf) | [`testakte-berufsrecht-ki-rugekomitee-anwaltskammer-koeln-mandant-richtl-dr-rotbruch.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-berufsrecht-ki-rugekomitee-anwaltskammer-koeln-mandant-richtl-dr-rotbruch.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -147,8 +126,8 @@ Automatisch generierte Komplett-Liste aller 94 Skills in diesem Plugin. Beschrei
 | `anbietern-schriftsatz-brief-memo-bausteine` | Wenn es um Anbietern: Schriftsatz-, Brief- und Memo-Bausteine in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `anschluss-routing` | Wenn es um Anschluss-Routing in anwaltlichem Berufsrecht und Vertragsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisf... |
 | `art-50-ki-vo-schriftsatz-marketing-chatbot` | Wenn es um Art. 50 europäischer Technikregulierungsrahmen: Schriftsatz, Marketing, Legal Update und Chatbot in anwaltlichem Berufsrecht und Vertragsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; li... |
-| `avv-grenzpruefung-brki-anbieter-eu` | Wenn es um AVV-Grenzprüfung Datenschutz in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix Stichwort für die Auswahl: Avv Grenzprüfung... |
-| `avv-grenzpruefung-datenschutz` | Wenn es um AVV-Grenzprüfung Datenschutz in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix Stichwort für die Auswahl: Avv Grenzprüfung... |
+| `avv-grenzpruefung-brki-anbieter-eu` | Wenn es um AVV-Grenzprüfung Datenschutz in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix Stichwort für die Auswahl: Avv Grenzpruefung... |
+| `avv-grenzpruefung-datenschutz` | Wenn es um AVV-Grenzprüfung Datenschutz in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix Stichwort für die Auswahl: Avv Grenzpruefung... |
 | `belehrung-abschlussprodukt-uebergabe` | Wenn es um Belehrung: Abschlussprodukt und Übergabe in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `belehrung-abschlussprodukt-und-uebergabe` | Wenn es um Belehrung: Abschlussprodukt und Übergabe in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `berufsrecht-sonderfall-edge-case` | Wenn es um Berufsrecht: Sonderfall und Edge-Case-Prüfung in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -156,7 +135,7 @@ Automatisch generierte Komplett-Liste aller 94 Skills in diesem Plugin. Beschrei
 | `berufsrechtliche-bnoto-interessen-brao` | Wenn es um Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `bnoto-interessen` | Wenn es um Bnoto: Mehrparteienkonflikt und Interessenmatrix in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `bnoto-mehrparteien-konflikt-und-interessen` | Wenn es um Bnoto: Mehrparteienkonflikt und Interessenmatrix in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `br-ki-vertragspruefung-brki-rollout-chronologie` | Wenn es um Berufsrecht digitale Werkzeuge-Vertragsprüfung — Allgemein in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
+| `br-ki-vertragspruefung-brki-rollout-chronologie` | Wenn es um Berufsrecht digitale Werkzeuge-Vertragspruefung — Allgemein in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `brao-zahlen-schwellen-und-berechnung` | Wenn es um Brao: Zahlen, Schwellenwerte und Berechnung in diesem Spezialbereich geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
 | `brao-zahlen-schwellenwerte-berechnung` | Wenn es um Brao: Zahlen, Schwellenwerte und Berechnung in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `brki-anbieter-due-diligence` | Wenn es um BRKI: Anbieter-Due-Diligence in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- un... |
@@ -176,7 +155,7 @@ Automatisch generierte Komplett-Liste aller 94 Skills in diesem Plugin. Beschrei
 | `forensische-prompt-gutachten-erstellen` | Wenn es um Prompt-Injection: Prüfung in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `forensische-pruefung-prompt-injection` | Wenn es um Prompt-Injection: Prüfung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `fristen-und-risikoampel` | Wenn es um Fristen- und Risikoampel in anwaltlichem Berufsrecht und Vertragsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
-| `fristennotiz-naechster-vorpruefung` | Wenn es um Vertragsprüfung: Fristennotiz und nächster Schritt in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten Stichwort für die Au... |
+| `fristennotiz-naechster-vorpruefung` | Wenn es um Vertragspruefung: Fristennotiz und nächster Schritt in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten Stichwort für die Au... |
 | `gutachten-erstellen` | Wenn es um Vorprüfungs-Gutachten erstellen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `gutachten-fehlerkatalog` | Wenn es um Gutachten Fehlerkatalog in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `gutachten-red-legal-patentanwaelte` | Wenn es um Gutachten: Red-Team und Qualitätskontrolle in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -189,10 +168,10 @@ Automatisch generierte Komplett-Liste aller 94 Skills in diesem Plugin. Beschrei
 | `klauseln-beweislast-darlegungslast` | Wenn es um Klauseln: Beweislast, Darlegungslast und Substantiierung in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `klauseln-beweislast-verschwiegenheitsklausel` | Wenn es um Klauseln: Beweislast, Darlegungslast und Substantiierung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `klauseln-providervertrag` | Wenn es um Klauselvorschläge — Bausteine in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix Stichwort für die Auswahl: Klauseln Provide... |
-| `klauselvorschlaege` | Wenn es um Klauselvorschläge — Bausteine in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix Stichwort für die Auswahl: Klauselvorschläge. |
+| `klauselvorschlaege` | Wenn es um Klauselvorschläge — Bausteine in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix Stichwort für die Auswahl: Klauselvorschlaege. |
 | `legal-behoerden-gericht-und-registerweg` | Wenn es um Legal: Behörden-, Gerichts- oder Registerweg in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `legal-behoerden-gerichts-registerweg` | Wenn es um Legal: Behörden-, Gerichts- oder Registerweg in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `mandanten-aufklaerungspflicht-ki` | Wenn es um Mandanten-Aufklärung digitale Werkzeuge in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zustän... |
+| `mandanten-aufklaerungspflicht-ki` | Wenn es um Mandanten-Aufklaerung digitale Werkzeuge in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zustän... |
 | `mandantenkommunikation` | Wenn es um Mandantenkommunikation in anwaltlichem Berufsrecht und Vertragsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. |
 | `notare-quellenkarte` | Wenn es um Notare Quellenkarte in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `output-waehlen` | Wenn es um Output wählen in anwaltlichem Berufsrecht und Vertragsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -207,12 +186,12 @@ Automatisch generierte Komplett-Liste aller 94 Skills in diesem Plugin. Beschrei
 | `rechtspolitische-unsicherheit-rueckfragebrief` | Wenn es um Rechtsunsicherheit zu Paragraf 43e BRAO dokumentieren in anwaltlichem Berufsrecht und Vertragsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträg... |
 | `redteam-qualitygate` | Wenn es um Red-Team Qualitygate in anwaltlichem Berufsrecht und Vertragsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `rueckfragebrief-an-anbieter` | Wenn es um Rückfragebrief an Anbieter in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `rueckfragebrief-mandantenentscheidung` | Wenn es um Rückfragebrief: Mandantenkommunikation und Entscheidungsvorlage in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage. |
+| `rueckfragebrief-mandantenentscheidung` | Wenn es um Rueckfragebrief: Mandantenkommunikation und Entscheidungsvorlage in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage. |
 | `schatten-ki-governance-und-sanktionslogik` | Wenn es um Schatten-digitale Werkzeuge-Governance und Sanktionslogik in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `schwarmpruefung-mehrere-tools` | Wenn es um Mehrere digitale Werkzeuge-Tools prüfen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `spezial-notare-livequellen-und-rechtsprechungscheck` | Wenn es um Notare: Livequellen- und Rechtsprechungscheck in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `spezial-patentanwaelte-verhandlung-vergleich-und-eskalation` | Wenn es um Patentanwälte: Verhandlung, Vergleich und Eskalation in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `spezial-vertraegen-dokumentenmatrix-und-lueckenliste` | Wenn es um Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-patentanwaelte-verhandlung-vergleich-und-eskalation` | Wenn es um Patentanwaelte: Verhandlung, Vergleich und Eskalation in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `spezial-vertraegen-dokumentenmatrix-und-lueckenliste` | Wenn es um Vertraegen: Dokumentenmatrix, Lückenliste und Nachforderung in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `stberg-compliance-dokumentation-aktenvermerk` | Wenn es um Stberg: Compliance-Dokumentation und Aktenvermerk in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `stberg-compliance-dokumentation-und-akte` | Wenn es um Stberg: Compliance-Dokumentation und Aktenvermerk in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | `stellungnahme-formular-portal-einreichungslogik` | Wenn es um Stellungnahme: Formular, Portal und Einreichungslogik in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -231,9 +210,9 @@ Automatisch generierte Komplett-Liste aller 94 Skills in diesem Plugin. Beschrei
 | `verschwiegenheitsklausel-pruefen` | Wenn es um Verschwiegenheitsklausel prüfen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. |
 | `vertraegen-dokumentenmatrix-lueckenliste` | Wenn es um Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `vertraegen-strafprozessuale-regelung` | Wenn es um Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
-| `vertragspruefung-fristennotiz-naechster` | Wenn es um Vertragsprüfung: Fristennotiz und nächster Schritt in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten Stichwort für die Au... |
-| `vorpruefung-fristen-form-und-zustaendigkeit` | Wenn es um Vorprüfung: Fristen, Form, Zuständigkeit und Rechtsweg in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten Stichwort für di... |
-| `vorpruefung-fristen-form-zustaendigkeit-rechtsweg` | Wenn es um Vorprüfung: Fristen, Form, Zuständigkeit und Rechtsweg in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten Stichwort für di... |
+| `vertragspruefung-fristennotiz-naechster` | Wenn es um Vertragspruefung: Fristennotiz und nächster Schritt in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten Stichwort für die Au... |
+| `vorpruefung-fristen-form-und-zustaendigkeit` | Wenn es um Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten Stichwort für di... |
+| `vorpruefung-fristen-form-zustaendigkeit-rechtsweg` | Wenn es um Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten Stichwort für di... |
 | `workflow-kaltstart-und-routing` | Wenn es um Kaltstart und Routing in anwaltlichem Berufsrecht und Vertragsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `workflow-unterlagen-lueckenliste` | Wenn es um Unterlagen- und Lückenliste in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
 

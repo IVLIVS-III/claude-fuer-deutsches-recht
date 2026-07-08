@@ -1,6 +1,6 @@
 # nis2-cybersecurity-compliance
 
-**102 Skills** · Stand `v429.4.0`
+**102 Skills** · Stand `v429.5.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/nis2-cybersecurity-compliance/README.md)

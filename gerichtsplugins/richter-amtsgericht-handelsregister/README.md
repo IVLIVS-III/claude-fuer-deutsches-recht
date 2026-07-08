@@ -1,26 +1,5 @@
 # Handelsregisterrichter am Amtsgericht
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`richter-amtsgericht-handelsregister`) | [`richter-amtsgericht-handelsregister.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-handelsregister.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akte
-
-| Akte | Download |
-| --- | --- |
-| Pluginlokale Testakte | [`richter-amtsgericht-handelsregister-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-handelsregister-testakte.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -148,7 +127,7 @@ Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Beschrei
 | `02-firmenrecht-pruefen` | Wenn es um 02 Firmenrecht Prüfen in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `03-gesellschaftsvertrag-pruefen-gmbh` | Wenn es um 03 Gesellschaftsvertrag Prüfen Gmbh in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken... |
 | `04-vertretungsmacht-und-prokura` | Wenn es um 04 Vertretungsmacht und Prokura in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und... |
-| `05-kapitalerhoehung-und-kapitalherabsetzung` | Wenn es um 05 Kapitalerhöhung und Kapitalherabsetzung in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten,... |
+| `05-kapitalerhoehung-und-kapitalherabsetzung` | Wenn es um 05 Kapitalerhoehung und Kapitalherabsetzung in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten,... |
 | `06-umwandlung-eintragen` | Wenn es um 06 Umwandlung Eintragen in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `07-zwischenverfuegung-und-beschwerde` | Wenn es um 07 Zwischenverfügung und Beschwerde in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `08-loeschung-von-amts-wegen` | Wenn es um 08 Löschung Von Amts Wegen in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachwei... |

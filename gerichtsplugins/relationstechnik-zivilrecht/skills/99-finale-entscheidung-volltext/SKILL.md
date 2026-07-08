@@ -101,3 +101,7 @@ Bevor der Volltext freigegeben wird, durchlaeuft der Skill eine Eigenkontrolle:
 6. Sind alle Lückenpunkte explizit markiert?
 
 Erst nach bestandener Eigenkontrolle wird der Volltext als final ausgegeben.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ist in die Vier-Stationen-Relation einzuhängen: Klägerstation, Beklagtenstation, Beweisstation und Entscheidungsstation bleiben getrennt. Er benennt zu jedem Streitpunkt die tragende Tatsache, den Vortrag der Gegenseite, das Beweisangebot, die Beweislast und die Rechtsfolge. Fehlt eine Station, wird nicht frei ergänzt, sondern als Lücke mit Anschlussverfügung ausgewiesen.

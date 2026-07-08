@@ -53,3 +53,7 @@ Der Tenor muss Rechtsschutzart, Verwaltungsakt oder Leistungsbegehren, Kosten un
 | Paragraf 123 VwGO | Anordnungsanspruch, Anordnungsgrund, Vorwegnahme der Hauptsache | konkrete Regelungsanordnung mit Dauer |
 | Drittanfechtung | Beiladung, Vollzugsinteresse, Nachbar- oder Konkurrentenschutz | Reichweite gegen Behörde und Begünstigten |
 | Ermessensentscheidung | Ausfall, Fehlgebrauch, Überschreitung, Reduktion auf Null | Neubescheidung oder Verpflichtung sauber trennen |
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill sortiert den verwaltungsgerichtlichen Streitstoff nach Verwaltungsakt, Vorverfahren, Klagegrund, Behördenakte, Ermessen, Amtsermittlung und Tenorfolge. Er benennt, ob ein Hinweis, eine Aktenanforderung, ein Eilbeschluss oder ein Urteil vorbereitet werden muss.

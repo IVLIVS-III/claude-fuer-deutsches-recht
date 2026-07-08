@@ -1,27 +1,5 @@
 # Internationales Handelsrecht und Lex Mercatoria
 
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`internationales-handelsrecht-lex-mercatoria`) | [`internationales-handelsrecht-lex-mercatoria.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/internationales-handelsrecht-lex-mercatoria.zip) |
-| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **China-Wirtschaftsakte Morgenstern** (`festlandchina-wirtschaftsverkehr-fabrik-import-investition`) | [Gesamt-PDF lesen](../testakten/festlandchina-wirtschaftsverkehr-fabrik-import-investition/gesamt-pdf/festlandchina-wirtschaftsverkehr-fabrik-import-investition_gesamt.pdf) | [`testakte-festlandchina-wirtschaftsverkehr-fabrik-import-investition.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-festlandchina-wirtschaftsverkehr-fabrik-import-investition.zip) |
-| **Internationaler Handelsfall Nordhafen** (`internationales-handelsrecht-cisg-incoterms-schiedsfall`) | [Gesamt-PDF lesen](../testakten/internationales-handelsrecht-cisg-incoterms-schiedsfall/gesamt-pdf/internationales-handelsrecht-cisg-incoterms-schiedsfall_gesamt.pdf) | [`testakte-internationales-handelsrecht-cisg-incoterms-schiedsfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-internationales-handelsrecht-cisg-incoterms-schiedsfall.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
@@ -139,7 +117,7 @@ Automatisch generierte Komplett-Liste aller 192 Skills in diesem Plugin. Beschre
 | `ihl-003-cisg-ausschluss-und-rechtswahl` | Wenn es um CISG Ausschluss Und Rechtswahl in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ihl-004-cisg-vertragsschluss` | Wenn es um CISG Vertragsschluss in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ihl-005-cisg-wesentliche-vertragsverletzung` | Wenn es um CISG Wesentliche Vertragsverletzung in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `ihl-006-cisg-nacherfuellung-und-remedies` | Wenn es um CISG Nacherfüllung Und Remedies in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `ihl-006-cisg-nacherfuellung-und-remedies` | Wenn es um CISG Nacherfuellung Und Remedies in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ihl-007-cisg-schadensersatz-und-mitigation` | Wenn es um CISG Schadensersatz Und Mitigation in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ihl-008-cisg-fristen-und-notices` | Wenn es um CISG Fristen Und Notices in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ihl-009-cisg-ware-dokumente-digitalisierung` | Wenn es um CISG Ware Dokumente Digitalisierung in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachwei... |
@@ -161,11 +139,11 @@ Automatisch generierte Komplett-Liste aller 192 Skills in diesem Plugin. Beschre
 | `ihl-025-spediteur-und-logistikvertrag` | Wenn es um Spediteur Und Logistikvertrag in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ihl-027-lager-und-zolllager` | Wenn es um Lager Und Zolllager in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ihl-028-transportversicherung` | Wenn es um Transportversicherung in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `ihl-029-warentransit-und-gefahruebergang` | Wenn es um Warentransit Und Gefahrübergang in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `ihl-029-warentransit-und-gefahruebergang` | Wenn es um Warentransit Und Gefahruebergang in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ihl-030-zolltarif-und-ursprung` | Wenn es um Zolltarif Und Ursprung in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `ihl-031-praeferenzursprung-und-lieferantenerklaerung` | Wenn es um Präferenzursprung Und Lieferantenerklärung in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `ihl-031-praeferenzursprung-und-lieferantenerklaerung` | Wenn es um Praeferenzursprung Und Lieferantenerklaerung in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ihl-032-exportkontrolle-dual-use` | Wenn es um Exportkontrolle Dual Use in Internationales Handelsrecht und Lex Mercatoria geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `ihl-034-anti-dumping-und-ausgleichszoelle` | Wenn es um Anti Dumping Und Ausgleichszölle in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `ihl-034-anti-dumping-und-ausgleichszoelle` | Wenn es um Anti Dumping Und Ausgleichszoelle in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ihl-035-produktsicherheit-import-eu` | Wenn es um Produktsicherheit Import EU in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ihl-036-zahlungsbedingungen-open-account` | Wenn es um Zahlungsbedingungen Open Account in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ihl-037-akkreditiv-ucp-600` | Wenn es um Akkreditiv Ucp 600 in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -173,8 +151,8 @@ Automatisch generierte Komplett-Liste aller 192 Skills in diesem Plugin. Beschre
 | `ihl-039-bankgarantie-urgd` | Wenn es um Bankgarantie Urgd in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ihl-040-dokumenteninkasso` | Wenn es um Dokumenteninkasso in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | `ihl-041-retention-of-title-international` | Wenn es um Retention Of Title International in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `ihl-042-eigentuemsuebergang-und-sicherheiten` | Wenn es um Eigentümsübergang Und Sicherheiten in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `ihl-043-qualitaetskontrolle-pre-shipment` | Wenn es um Qualitätskontrolle Pre Shipment in Internationales Handelsrecht und Lex Mercatoria geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `ihl-042-eigentuemsuebergang-und-sicherheiten` | Wenn es um Eigentuemsuebergang Und Sicherheiten in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `ihl-043-qualitaetskontrolle-pre-shipment` | Wenn es um Qualitaetskontrolle Pre Shipment in Internationales Handelsrecht und Lex Mercatoria geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ihl-044-inspection-certificate` | Wenn es um Inspection Certificate in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ihl-045-late-delivery-liquidated-damages` | Wenn es um Late Delivery Liquidated Damages in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ihl-046-penalty-vs-liquidated-damages` | Wenn es um Penalty Vs Liquidated Damages in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
@@ -223,8 +201,8 @@ Automatisch generierte Komplett-Liste aller 192 Skills in diesem Plugin. Beschre
 | `ihl-094-vertiefung-01-streitstand-ohne-blindzitat` | Wenn es um Vertiefung 01 Streitstand Ohne Blindzitat in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ihl-095-vertiefung-01-red-team-gegenposition` | Wenn es um Vertiefung 01 Red Team Gegenposition in Internationales Handelsrecht und Lex Mercatoria geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ihl-096-vertiefung-01-praxisfall-auswertung` | Wenn es um Vertiefung 01 Praxisfall Auswertung in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `ihl-097-vertiefung-01-dashboard-und-naechster-schritt` | Wenn es um Vertiefung 01 Dashboard Und Nächster Schritt in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `ihl-098-vertiefung-01-laienerklaerung` | Wenn es um Vertiefung 01 Laienerklärung in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `ihl-097-vertiefung-01-dashboard-und-naechster-schritt` | Wenn es um Vertiefung 01 Dashboard Und Naechster Schritt in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| `ihl-098-vertiefung-01-laienerklaerung` | Wenn es um Vertiefung 01 Laienerklaerung in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `ihl-099-vertiefung-01-board-memo` | Wenn es um Vertiefung 01 Board Memo in Internationales Handelsrecht und Lex Mercatoria geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagen... |
 | `incoterms-2020-klauselauswahl-und-systematik` | Wenn es um Incoterms 2020: Klauselauswahl und Systematik in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | `insolvency-of-foreign-retention-and-setoff` | Wenn es um Insolvenz des ausländischen Käufers in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

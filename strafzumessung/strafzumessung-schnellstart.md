@@ -2,18 +2,18 @@ Wenn du das hier öffnest, willst du einen Tatvorwurf entlang von Beweiswürdigu
 
 # Strafrecht Und Strafverfahren — Schnellstart
 
-Ziel: Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur großen Strafkammer. Paragraf 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewährung Paragraf 56 Paragraf 49 Regelbeispiele besonders schwerer Fall Verständigung Paragraf 257c StPO TOA Paragraf 46a Gesamtstrafe Paragraf 55 JGG. Arbeite sofort am konkreten Fall, liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur großen Strafkammer. Paragraf 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewährung Paragraf 56 Paragraf 49 Regelbeispiele besonders schwerer Fall Verständigung Paragraf 257c StPO TOA Paragraf 46a Gesamtstrafe Paragraf 55 JGG. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
-Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
 
 ## 2. Direktstart
 
-1. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-2. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-3. Unterlagen in Beleglinie bringen: Datum, Absender, Kerntatsache, offene Lücke, Gegenargument.
-4. Sofortprodukt liefern: Kurzvermerk, Prüfmatrix, Entwurf, Fragenliste, Berechnung oder Entscheidungsvorschlag.
+1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
+2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
+3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
+4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
 
 ## 3. Kernroute
 
@@ -22,18 +22,18 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 3. Tatbestand: objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung prüfen; je Merkmal die tragende Tatsache benennen.
 4. Prozessuales: Zuständigkeit, Verwertungsverbote, Fristen, Pflichtverteidigung und Anträge vorbereiten; den nächsten fristwahrenden Schritt zuerst.
 5. Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative.
-6. Wenn es um Einstellung gegen Auflage — Paragraf 153a StPO in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten.
+6. Einstellung gegen Auflage — Paragraf 153a StPO: Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen.
 
 ## 4. Einsatzfelder
 
-| Feld | Sofortfrage | Ausgabe |
+| Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Einstellung gegen Auflage — Paragraf 153a StPO | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen verwertbaren Entwurf? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Besonders: Formular, Portal und Einreichungslogik | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Strafaussetzung zur Bewährung — Paragraf 56 StGB | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auflagen und Weisungen — Paragrafen 56b, 56c StGB | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bewährung: Mehrparteienkonflikt und Interessenmatrix | prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel? | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Einstellung gegen Auflage — Paragraf 153a StPO | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Besonders: Formular, Portal und Einreichungslogik | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Strafaussetzung zur Bewährung — Paragraf 56 StGB | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auflagen und Weisungen — Paragrafen 56b, 56c StGB | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bewährung: Mehrparteienkonflikt und Interessenmatrix | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
@@ -42,9 +42,9 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 - StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
 - Paragraf 153a StPO erlaubt die Einstellung des Verfahrens gegen Auflagen oder Weisungen, wenn das öffentliche Interesse an der Strafverfolgung beseitigt werden kann und die Schwere: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Sie prüfen, ob die Schwere der Schuld den Weg über Paragraf 153a StPO öffnet oder versperrt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 153a Abs. 1 StPO — Vorläufige Einstellung mit Auflagen durch die Staatsanwaltschaft (mit Zustimmung des Gerichts, ab dem Zwischenverfahren bereits Gerichts-Zustimmung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 153a Abs. 2 StPO — Einstellung durch das Gericht in jedem Stadium: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 153a Abs. 3 StPO — Auflagenkatalog:: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Aussage-gegen-Aussage verlangt besonders sorgfältige Gesamtwürdigung.
 - BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Konstanz, Entstehung und Belastungsmotive sind bei Aussageanalyse zu würdigen.
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
