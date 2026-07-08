@@ -1,8 +1,8 @@
-> *Achtung: Dies ist eine experimentelle Arbeitsvorlage. Keine Haftung, keine Gewähr. Nur zum Ausprobieren der Workflows; keine Rechtsberatung. Vor jeder Verwendung im Mandat anwaltlich prüfen.*
+> *Achtung: Diese Arbeitsvorlage ist eine Prüf- und Formulierungshilfe. Keine Haftung, keine Gewähr, keine Rechtsberatung. Vor Verwendung im Mandat Sachverhalt, Fristen, Zuständigkeit, Normstand, Rechtsprechung und Anlagen eigenständig prüfen.*
 
-# AGB-Pruefraster nach $$ 305-310 BGB (B2B / B2C)
+# AGB-Prüfraster nach Paragrafen 305-310 BGB (B2B / B2C)
 
-*Diese Vorlage liefert ein strukturiertes Pruefraster fuer Allgemeine Geschaeftsbedingungen — fuer juristische Sichtkontrolle und Erstdraft. Felder in [Klammern] vor Verwendung ausfuellen.*
+*Diese Vorlage liefert ein strukturiertes Prüfraster für Allgemeine Geschäftsbedingungen — für juristische Sichtkontrolle und Erstdraft. Felder in [Klammern] vor Verwendung ausfüllen.*
 
 ## Mandant / Sachverhalt
 
@@ -14,75 +14,82 @@ Adressat der AGB: [B2B / B2C / Mischklientel]
 
 Anwendungsbereich: [Branche, Region]
 
-## 1. Einbeziehung ($ 305 II BGB)
+## 1. Einbeziehung (Paragraf 305 II BGB)
 
-- [ ] Ausdruecklicher Hinweis bei Vertragsschluss erkennbar
+- [ ] Ausdrücklicher Hinweis bei Vertragsschluss erkennbar
 
-- [ ] Zumutbare Kenntnisnahme moeglich (lesbar, abrufbar)
+- [ ] Zumutbare Kenntnisnahme möglich (lesbar, abrufbar)
 
-- [ ] Einverstaendnis konkludent moeglich
+- [ ] Einverständnis konkludent möglich
 
-- [ ] B2B: Hinweispflichten reduziert ($ 310 I BGB)
+- [ ] B2B: Hinweispflichten reduziert (Paragraf 310 I BGB)
 
 - [ ] Online-AGB: Click-Wrap dokumentiert; Speicherbarkeit gegeben
 
-## 2. Vorrang Individualabrede ($ 305b BGB)
+## 2. Vorrang Individualabrede (Paragraf 305b BGB)
 
-- [ ] Konkurrierende Individualabreden geprueft
+- [ ] Konkurrierende Individualabreden geprüft
 
 - [ ] Bei Widerspruch: Individualabrede setzt sich durch
 
 ## 3. Inhaltskontrolle Stufe 1 — Verbotskataloge
 
-- [ ] $ 309 BGB (Klauselverbote ohne Wertung) ueberprueft — gilt bei B2C-AGB direkt; bei B2B Indizwirkung
+- [ ] Paragraf 309 BGB (Klauselverbote ohne Wertung) überprüft — gilt bei B2C-AGB direkt; bei B2B Indizwirkung
 
-- [ ] $ 308 BGB (Klauselverbote mit Wertungsmoeglichkeit)
+- [ ] Paragraf 308 BGB (Klauselverbote mit Wertungsmöglichkeit)
 
-## 4. Inhaltskontrolle Stufe 2 — Generalklausel $ 307 BGB
+## 4. Inhaltskontrolle Stufe 2 — Generalklausel Paragraf 307 BGB
 
-- [ ] Unangemessene Benachteiligung gegen Treu und Glauben? ($ 307 I S. 1 BGB)
+- [ ] Unangemessene Benachteiligung gegen Treu und Glauben? (Paragraf 307 I S. 1 BGB)
 
-- [ ] Transparenzgebot: $ 307 I S. 2 BGB — Klausel klar und verstaendlich?
+- [ ] Transparenzgebot: Paragraf 307 I S. 2 BGB — Klausel klar und verständlich?
 
-- [ ] Abweichung vom wesentlichen Grundgedanken einer gesetzlichen Regelung? ($ 307 II Nr. 1 BGB)
+- [ ] Abweichung vom wesentlichen Grundgedanken einer gesetzlichen Regelung? (Paragraf 307 II Nr. 1 BGB)
 
-- [ ] Beschraenkung wesentlicher Rechte/Pflichten? ($ 307 II Nr. 2 BGB — Kardinalpflichten)
+- [ ] Beschränkung wesentlicher Rechte/Pflichten? (Paragraf 307 II Nr. 2 BGB — Kardinalpflichten)
 
 ## 5. Risikoampel (Standard-Klausel-Typen)
 
-Haftungsbeschraenkung: [ROT bei vollstaendigem Ausschluss / GRUEN bei Kardinalpflicht-Haftung erhalten]
+Haftungsbeschränkung: [ROT bei vollständigem Ausschluss / GRÜN bei Kardinalpflicht-Haftung erhalten]
 
-Verguetungsanpassung: [ROT bei einseitig + ohne Anlass / GRUEN bei Index gebunden]
+Vergütungsanpassung: [ROT bei einseitig + ohne Anlass / GRÜN bei Index gebunden]
 
-Aufrechnungsverbot B2C: [ROT generell / GRUEN bei unstreitig / rechtskraeftig]
+Aufrechnungsverbot B2C: [ROT generell / GRÜN bei unstreitig / rechtskräftig]
 
-Vertragsstrafe B2C: [ROT generell unzulaessig / B2B Indizwirkung von $ 309 Nr. 6 BGB]
+Vertragsstrafe B2C: [ROT generell unzulässig / B2B Indizwirkung von Paragraf 309 Nr. 6 BGB]
 
 Schriftformklausel: [Vorsicht: doppelte Schriftform meist unwirksam, BGH-Linie]
 
-Aenderungsvorbehalt: [ROT bei einseitig ohne Triftgrund / GRUEN bei zumutbaren Anpassungsgruenden]
+Änderungsvorbehalt: [ROT bei einseitig ohne Triftgrund / GRÜN bei zumutbaren Anpassungsgründen]
 
 ## 6. Rechtsfolge bei Unwirksamkeit
 
-$ 306 BGB: nicht-Einbeziehung; Vertrag im Uebrigen wirksam; Rueckfall auf gesetzliche Regelung. Keine geltungserhaltende Reduktion (BGH st. Rspr.).
+Paragraf 306 BGB: nicht-Einbeziehung; Vertrag im Übrigen wirksam; Rückfall auf gesetzliche Regelung. Keine geltungserhaltende Reduktion (BGH st. Rspr.).
 
 ## 7. UKlaG-Risiko
 
-Bei B2C-AGB: Verbandsklage-Risiko durch Verbraucherzentralen ($$ 1 ff. UKlaG); ggf. Unterlassungspflicht + Vertragsstrafenvereinbarung mit Verband.
+Bei B2C-AGB: Verbandsklage-Risiko durch Verbraucherzentralen (Paragrafen 1 ff. UKlaG); ggf. Unterlassungspflicht + Vertragsstrafenvereinbarung mit Verband.
 
 ## Ergebnis und Empfehlung
 
-Gesamteinschaetzung: [GRUEN / ORANGE / ROT]
+Gesamteinschätzung: [GRÜN / ORANGE / ROT]
 
-Konkrete Aenderungsempfehlungen: [Liste]
+Konkrete Änderungsempfehlungen: [Liste]
 
 Reststreit-Punkte: [Liste]
 
 Risiko UKlaG: [hoch/mittel/niedrig]
 
+## Verwendungskontrolle
+
+- Klauseltyp, Einbeziehungsweg, Verbraucher- oder Unternehmerbezug und Überraschungsrisiko getrennt prüfen.
+- Jede rote Klausel mit konkreter Ersatzfassung und kurzer Begründung nach Paragraf 307, 308 oder 309 BGB versehen.
+- Transparenz, Kardinalpflichten, Laufzeit, Preisanpassung und Haftung nicht in einer Sammelwertung vermischen.
+- Branchenspezifische Sonderregeln und zwingendes Recht vor Freigabe gegenprüfen.
+
 ---
 
-**Felder im Template** (vor Verwendung ausfuellen):
+## Ausfüllfelder
 
 - `[Mandant + Funktion]`
 - `[Vertragstyp]`

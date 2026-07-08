@@ -4,42 +4,48 @@
 Ausgabe: testakten/formatvorlagen-paradebeispiele/<plugin>/<filename>.{md,odt}
 
 Regeln:
-- Times New Roman 11pt, A4, ordentliche Raender (2,5 cm umlaufend)
-- Disclaimer kursiv oben: experimentelle Vorlage, keine Haftung
+- Times New Roman 11pt, A4, ordentliche Ränder (2,5 cm umlaufend)
+- kurzer Warnhinweis oben: Arbeitsvorlage, keine Haftung
 - Felder mit [Bracketed-Variables]
-- Bei bilingualen Templates: Massgeb-Klausel deutsche Fassung
-- Inhaltlich rechtssicher, nicht halluziniert (Norm-Zitate verifizierbar)
+- Bei bilingualen Vorlagen: Maßgeb-Klausel deutsche Fassung
+- Normen, Fristen, Zuständigkeit, Anlagen und Rechtsprechungsstand vor Verwendung prüfen
 """
 from __future__ import annotations
 from pathlib import Path
-from odf.opendocument import OpenDocumentText
-from odf.style import (Style, TextProperties, ParagraphProperties, PageLayout,
-                       PageLayoutProperties, MasterPage, FontFace, TableProperties,
-                       TableColumnProperties, TableRowProperties, TableCellProperties)
-from odf.text import P, H, Span, List, ListItem, ListStyle, ListLevelStyleBullet
-from odf.table import Table, TableColumn, TableRow, TableCell
-from odf.dc import Title
+import shutil
+import subprocess
+
+try:
+    from odf.opendocument import OpenDocumentText
+    from odf.style import Style, TextProperties, ParagraphProperties, PageLayout, PageLayoutProperties, MasterPage, FontFace
+    from odf.text import P, H
+    ODFPY_OK = True
+except ImportError:
+    ODFPY_OK = False
 
 REPO = Path(__file__).resolve().parent.parent
 OUT = REPO / 'testakten' / 'formatvorlagen-paradebeispiele'
 
-DISCLAIMER_DE = ('Achtung: Dies ist eine experimentelle Arbeitsvorlage. Keine Haftung, '
-                 'keine Gewähr. Nur zum Ausprobieren der Workflows; keine Rechtsberatung. '
-                 'Vor jeder Verwendung im Mandat anwaltlich prüfen.')
-DISCLAIMER_EN = ('Caution: This is an experimental working template. No liability, '
+WARNUNG_DE = ('Achtung: Diese Arbeitsvorlage ist eine Prüf- und Formulierungshilfe. '
+                 'Keine Haftung, keine Gewähr, keine Rechtsberatung. Vor Verwendung im '
+                 'Mandat Sachverhalt, Fristen, Zuständigkeit, Normstand, Rechtsprechung '
+                 'und Anlagen eigenständig prüfen.')
+WARNUNG_EN = ('Caution: This is an experimental working template. No liability, '
                  'no warranty. For workflow exploration only; not legal advice. '
                  'Must be reviewed by a lawyer before any use in a mandate.')
 
 
 def make_doc():
     """Erstellt ein ODT-Doc mit Times-Roman-11pt-Standardstil."""
+    if not ODFPY_OK:
+        raise RuntimeError("odfpy fehlt")
     doc = OpenDocumentText()
     # Schrift registrieren
     doc.fontfacedecls.addElement(
         FontFace(name='Times New Roman', fontfamily='Times New Roman',
                  fontfamilygeneric='roman', fontpitch='variable'))
 
-    # Seitenformat A4 mit 2,5 cm Raendern
+    # Seitenformat A4 mit 2,5 cm Rändern
     pl = PageLayout(name='Standard')
     pl.addElement(PageLayoutProperties(
         pagewidth='21cm', pageheight='29.7cm',
@@ -56,8 +62,8 @@ def make_doc():
     default.addElement(ParagraphProperties(textalign='justify', marginbottom='0.2cm'))
     doc.styles.addElement(default)
 
-    # Kursivstil fuer Disclaimer
-    italic = Style(name='Disclaimer', family='paragraph', parentstylename='Default')
+    # Kursivstil für Warnhinweis
+    italic = Style(name='Warnhinweis', family='paragraph', parentstylename='Default')
     italic.addElement(TextProperties(fontname='Times New Roman', fontsize='10pt',
                                      fontstyle='italic', color='#444444'))
     italic.addElement(ParagraphProperties(textalign='justify', marginbottom='0.4cm'))
@@ -101,12 +107,14 @@ def add_heading(doc, text, level=1):
 
 
 def write_template(plugin: str, filename: str, title: str, lang: str,
-                   sections: list[tuple[str, str, list[str]]], fields: list[str]):
-    """Schreibt .md und .odt fuer ein Template.
+                   sections: list[tuple[str, str, list[str]]], fields: list[str],
+                   usage_checks: list[str] | None = None):
+    """Schreibt .md und .odt für eine Vorlage.
 
     sections: liste von (kind, content, paragraphs) wo:
         kind = 'h1' | 'h2' | 'h3' | 'center_bold' | 'center' | 'p'
-    fields: Liste der Bracket-Variablen im Template (zur Doku)
+    fields: Liste der Bracket-Variablen in der Vorlage
+    usage_checks: kurze fachliche Kontrollpunkte vor Versand oder Verwendung
     """
     target_dir = OUT / plugin
     target_dir.mkdir(parents=True, exist_ok=True)
@@ -115,10 +123,10 @@ def write_template(plugin: str, filename: str, title: str, lang: str,
 
     # --- Markdown ---
     md_lines = []
-    md_lines.append(f'> *{DISCLAIMER_DE}*')
+    md_lines.append(f'> *{WARNUNG_DE}*')
     if lang in ('en', 'bilingual'):
         md_lines.append(f'>')
-        md_lines.append(f'> *{DISCLAIMER_EN}*')
+        md_lines.append(f'> *{WARNUNG_EN}*')
     md_lines.append('')
     md_lines.append(f'# {title}')
     md_lines.append('')
@@ -142,10 +150,16 @@ def write_template(plugin: str, filename: str, title: str, lang: str,
             for para in paras:
                 md_lines.append(para)
                 md_lines.append('')
+    if usage_checks:
+        md_lines.append('## Verwendungskontrolle')
+        md_lines.append('')
+        for item in usage_checks:
+            md_lines.append(f'- {item}')
+        md_lines.append('')
     if fields:
         md_lines.append('---')
         md_lines.append('')
-        md_lines.append('**Felder im Template** (vor Verwendung ausfuellen):')
+        md_lines.append('## Ausfüllfelder')
         md_lines.append('')
         for f in fields:
             md_lines.append(f'- `{f}`')
@@ -153,10 +167,17 @@ def write_template(plugin: str, filename: str, title: str, lang: str,
     md_path.write_text('\n'.join(md_lines), encoding='utf-8')
 
     # --- ODT ---
+    if not ODFPY_OK:
+        pandoc = shutil.which("pandoc")
+        if not pandoc:
+            raise RuntimeError("Weder odfpy noch pandoc verfügbar; ODT kann nicht erzeugt werden")
+        subprocess.run([pandoc, str(md_path), "-o", str(odt_path)], check=True)
+        return md_path, odt_path
+
     doc = make_doc()
-    add_para(doc, DISCLAIMER_DE, 'Disclaimer')
+    add_para(doc, WARNUNG_DE, 'Warnhinweis')
     if lang in ('en', 'bilingual'):
-        add_para(doc, DISCLAIMER_EN, 'Disclaimer')
+        add_para(doc, WARNUNG_EN, 'Warnhinweis')
     add_para(doc, '', 'Default')
     add_heading(doc, title, level=1)
     for kind, content, paras in sections:
@@ -173,9 +194,13 @@ def write_template(plugin: str, filename: str, title: str, lang: str,
         elif kind == 'p':
             for para in paras:
                 add_para(doc, para, 'Default')
+    if usage_checks:
+        add_heading(doc, 'Verwendungskontrolle', level=2)
+        for item in usage_checks:
+            add_para(doc, f'• {item}', 'Default')
     if fields:
         add_para(doc, '', 'Default')
-        add_heading(doc, 'Felder im Template', level=3)
+        add_heading(doc, 'Ausfüllfelder', level=2)
         for f in fields:
             add_para(doc, f'• {f}', 'Default')
     doc.save(str(odt_path))

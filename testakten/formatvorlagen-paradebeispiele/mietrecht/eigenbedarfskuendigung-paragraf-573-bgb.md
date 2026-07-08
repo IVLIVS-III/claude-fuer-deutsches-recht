@@ -1,73 +1,72 @@
-> *Achtung: Dies ist eine experimentelle Arbeitsvorlage. Keine Haftung, keine Gewähr. Nur zum Ausprobieren der Workflows; keine Rechtsberatung. Vor jeder Verwendung im Mandat anwaltlich prüfen.*
+> *Achtung: Diese Arbeitsvorlage ist eine Prüf- und Formulierungshilfe. Keine Haftung, keine Gewähr, keine Rechtsberatung. Vor Verwendung im Mandat Sachverhalt, Fristen, Zuständigkeit, Normstand, Rechtsprechung und Anlagen eigenständig prüfen.*
 
-# Eigenbedarfskuendigung Wohnraum ($ 573 II Nr. 2 BGB)
+# Eigenbedarfskündigung Wohnraum (Paragraf 573 II Nr. 2 BGB)
 
 [Vermieter Name + Anschrift]
 
 [Mieter Name + Anschrift]
 
-
-
-Mietverhaeltnis Wohnung [Adresse]
+Mietverhältnis Wohnung [Adresse]
 
 Mietvertrag vom [Datum]
 
-**Ordentliche Kuendigung wegen Eigenbedarfs**
+**Ordentliche Kündigung wegen Eigenbedarfs**
 
 Sehr geehrte Frau / sehr geehrter Herr [Mietername],
 
-hiermit kuendige(n) ich/wir das oben genannte Mietverhaeltnis nach $$ 573, 573c BGB ordentlich zum [Beendigungsdatum].
+hiermit kündige(n) ich/wir das oben genannte Mietverhältnis nach Paragrafen 573, 573c BGB ordentlich zum [Beendigungsdatum].
 
-## 1. Kuendigungsgrund — Eigenbedarf
+## 1. Kündigungsgrund — Eigenbedarf
 
-Ich/Wir benoetige(n) die Mietsache fuer [konkreten Begueneditigten Person: Vermieter selbst / Kind / Eltern / Pflegekraft / sonstige Familienangehoerige] aus folgenden Gruenden:
+Ich/Wir benötige(n) die Mietsache für [konkreten Begünstigten Person: Vermieter selbst / Kind / Eltern / Pflegekraft / sonstige Familienangehörige] aus folgenden Gründen:
 
-[Konkrete Lebenssituation: z. B. Heimkehr des Sohnes aus dem Auslandsstudium / Pflegebeduerftigkeit der Mutter, die in der Naehe wohnen soll / Arbeitsplatzwechsel der Tochter / Beendigung Trennungssituation].
+[Konkrete Lebenssituation: z. B. Heimkehr des Sohnes aus dem Auslandsstudium / Pflegebedürftigkeit der Mutter, die in der Nähe wohnen soll / Arbeitsplatzwechsel der Tochter / Beendigung Trennungssituation].
 
-*Hinweis: Eigenbedarf muss "vernuenftige, nachvollziehbare Gruende" haben (BGH VIII ZR 21/19, live verifizieren); zur Substantiierung ist konkrete Schilderung der Lebensumstaende noetig.*
+*Hinweis: Eigenbedarf muss "vernünftige, nachvollziehbare Gründe" haben (BGH VIII ZR 21/19, live verifizieren); zur Substantiierung ist konkrete Schilderung der Lebensumstände nötig.*
 
-## 2. Kuendigungsfrist $ 573c I BGB
+## 2. Kündigungsfrist Paragraf 573c I BGB
 
-Bei Wohndauer Mieter ueber 8 Jahre: 9 Monate; ueber 5 Jahre: 6 Monate; bis 5 Jahre: 3 Monate. Hier: Wohndauer seit [Einzugsdatum]; Frist [Monate].
+Bei Wohndauer Mieter über 8 Jahre: 9 Monate; über 5 Jahre: 6 Monate; bis 5 Jahre: 3 Monate. Hier: Wohndauer seit [Einzugsdatum]; Frist [Monate].
 
-## 3. Hinweis auf Widerspruchsrecht $ 574 BGB
+## 3. Hinweis auf Widerspruchsrecht Paragraf 574 BGB
 
-Sie haben das Recht, der Kuendigung bis spaetestens zwei Monate vor Beendigung des Mietverhaeltnisses zu widersprechen, wenn die Beendigung fuer Sie, Ihre Familie oder einen anderen Angehoerigen Ihres Haushalts eine Haerte bedeuten wuerde, die auch unter Wuerdigung der berechtigten Interessen des Vermieters nicht zu rechtfertigen ist (Sozialklausel).
+Sie haben das Recht, der Kündigung bis spätestens zwei Monate vor Beendigung des Mietverhältnisses zu widersprechen, wenn die Beendigung für Sie, Ihre Familie oder einen anderen Angehörigen Ihres Haushalts eine Härte bedeuten würde, die auch unter Würdigung der berechtigten Interessen des Vermieters nicht zu rechtfertigen ist (Sozialklausel).
 
 ## 4. Anbietpflicht
 
 Eine vergleichbare Alternativwohnung im Hause / nebengelegen ist [nicht vorhanden / vorhanden — wird parallel angeboten].
 
-
-
-Mit freundlichen Gruessen
-
-
+Mit freundlichen Grüßen
 
 [Vermieter]
 
-
-
 Anlagen: ggf. Vollmacht
 
-## Wichtiger Hinweis fuer den Vermieter (im Mandat)
+## Wichtiger Hinweis für den Vermieter (im Mandat)
 
-(1) Eigenbedarf muss IM Kuendigungsschreiben substantiiert begruendet werden — nachschieben spaeter ist problematisch.
+(1) Eigenbedarf muss IM Kündigungsschreiben substantiiert begründet werden — nachschieben später ist problematisch.
 
-(2) Bei vorgetaeuschtem Eigenbedarf: Schadensersatzrisiko nach $ 280 I BGB, BGH VIII ZR 232/15 (Umzugskosten, Maklerkosten, hoehere Folge-Miete). Daher Eigenbedarf NUR ankuendigen, wenn er tatsaechlich besteht.
+(2) Bei vorgetäuschtem Eigenbedarf: Schadensersatzrisiko nach Paragraf 280 I BGB, BGH VIII ZR 232/15 (Umzugskosten, Maklerkosten, höhere Folge-Miete). Daher Eigenbedarf NUR ankündigen, wenn er tatsächlich besteht.
 
-(3) Bei Eigenbedarf einer GbR-Gesellschaft: BGH VIII ZR 271/06 (Gesellschafter-Eigenbedarf moeglich, wenn GbR Vermieter ist).
+(3) Bei Eigenbedarf einer GbR-Gesellschaft: BGH VIII ZR 271/06 (Gesellschafter-Eigenbedarf möglich, wenn GbR Vermieter ist).
 
-(4) Sozialklausel $ 574 BGB: bei langjaehrigen Mietern / hohem Alter / Krankheit / Verwurzelung am Ort meist Abwaegung; Vermieter braucht plausible Alternativ-Argumentation.
+(4) Sozialklausel Paragraf 574 BGB: bei langjährigen Mietern / hohem Alter / Krankheit / Verwurzelung am Ort meist Abwägung; Vermieter braucht plausible Alternativ-Argumentation.
+
+## Verwendungskontrolle
+
+- Bedarfsperson, Nutzungswunsch, Wohnungseignung und Alternativwohnungen konkret und belegbar darstellen.
+- Kündigungsfrist, Zugang, Vollmacht und Vermietermehrheit formell prüfen.
+- Härtewiderspruch, Ersatzwohnraum, lange Mietdauer und besondere Schutzlagen vorab antizipieren.
+- Keine überzogenen Motive formulieren; der tatsächliche Nutzungswunsch muss später beweisbar bleiben.
 
 ---
 
-**Felder im Template** (vor Verwendung ausfuellen):
+## Ausfüllfelder
 
 - `[Vermieter Name + Anschrift]`
 - `[Mieter Name + Anschrift]`
 - `[Wohnungsadresse]`
 - `[Mietvertrag-Datum]`
 - `[Beendigungsdatum]`
-- `[Beguenstigte Person + Gruende]`
+- `[Begünstigte Person + Gründe]`
 - `[Einzugsdatum]`

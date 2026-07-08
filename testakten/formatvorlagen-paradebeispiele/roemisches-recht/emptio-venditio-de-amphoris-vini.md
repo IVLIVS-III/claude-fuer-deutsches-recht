@@ -1,22 +1,18 @@
-> *Achtung: Dies ist eine experimentelle Arbeitsvorlage. Keine Haftung, keine Gewähr. Nur zum Ausprobieren der Workflows; keine Rechtsberatung. Vor jeder Verwendung im Mandat anwaltlich prüfen.*
+> *Achtung: Diese Arbeitsvorlage ist eine Prüf- und Formulierungshilfe. Keine Haftung, keine Gewähr, keine Rechtsberatung. Vor Verwendung im Mandat Sachverhalt, Fristen, Zuständigkeit, Normstand, Rechtsprechung und Anlagen eigenständig prüfen.*
 >
 > *Caution: This is an experimental working template. No liability, no warranty. For workflow exploration only; not legal advice. Must be reviewed by a lawyer before any use in a mandate.*
 
 # EMPTIO ET VENDITIO — De amphoris vini Graeci e Piraeo per Neapolim Ostiamque transportandis
 
-*Anmerkung: Dies ist eine experimentelle, anachronistisch-spielerische Arbeitsvorlage im Stil eines klassisch-roemischen Kaufvertrags. Sie kombiniert die emptio venditio des klassischen ius civile (Gaius Inst. 3.139 ff.; D. 18,1 ff.) mit modernen Klauseln (Transport, periculum, dolus) zur Anschauung. Keine historische Authentizitaet, keine Haftung. Cicero hat keinen Kaufvertrag dieser Art mit Klauseln so verfasst — der Stil ist eine Hommage.*
+*Anmerkung: Dies ist eine experimentelle, anachronistisch-spielerische Arbeitsvorlage im Stil eines klassisch-römischen Kaufvertrags. Sie kombiniert die emptio venditio des klassischen ius civile (Gaius Inst. 3.139 ff.; D. 18,1 ff.) mit modernen Klauseln (Transport, periculum, dolus) zur Anschauung. Keine historische Authentizität, keine Haftung. Cicero hat keinen Kaufvertrag dieser Art mit Klauseln so verfasst — der Stil ist eine Hommage.*
 
-*Note: This is an experimental, intentionally anachronistic AI template in the style of a Classical Roman sale contract. Combines the emptio venditio of the ius civile with modern clauses (transport, risk allocation, dolus) for illustration. Not historically authentic.*
-
-
+*Note: This is an experimental, intentionally anachronistic working template in the style of a Classical Roman sale contract. Combines the emptio venditio of the ius civile with modern clauses (transport, risk allocation, dolus) for illustration. Not historically authentic.*
 
 **INSTRUMENTUM EMPTIONIS ET VENDITIONIS**
 
-A. D. [Kalenderdatum nach roem. Kalender]
+A. D. [Kalenderdatum nach röm. Kalender]
 
 [Konsul-Jahr, z. B. M. Tullio Cicerone consule]
-
-
 
 ## Inter contrahentes
 
@@ -28,7 +24,7 @@ A. D. [Kalenderdatum nach roem. Kalender]
 
 Venditor emptori, idque emptor a venditore emit, **amphoras [Numero, z. B. ducentas] vini Graeci** generis [Sorte, z. B. Chii], cuiusque amphorae mensura sit unum metretam Atticam (= circa XXXIX libras), totalibus libris [Gesamtmenge] vini. Vinum est ex vinea provinciae [Achaia / Macedonia] anno superiore lectum et in dolio Pii [Datum] conditum.
 
-*[Wenn Probe noetig: Klausel "vino degustando" einfuegen.]*
+*[Wenn Probe nötig: Klausel "vino degustando" einfügen.]*
 
 ## Caput II — De pretio
 
@@ -54,9 +50,9 @@ Iter: **Piraeo → Neapolim (Puteoli) → Ostiam** (mare Tyrrhenum); deinde **Os
 
 ## Caput V — De fideiussione vehiculi
 
-Venditor fideiussionem maritimam (assecuratio maritima) habet apud foenerator [Name] pretio HS [Pretium] pro casu naufragii vel piraticae. *Hinweis: Eine eigentliche "Versicherung" im modernen Sinne kennt das klassische roem. Recht nicht; existierte aber das foenus nauticum (Seedarlehen) mit Risikouebernahme durch den Glaeubiger — D. 22,2,1 ff. Anachronistische Mischung.*
+Venditor fideiussionem maritimam (assecuratio maritima) habet apud foenerator [Name] pretio HS [Pretium] pro casu naufragii vel piraticae. *Hinweis: Eine eigentliche "Versicherung" im modernen Sinne kennt das klassische röm. Recht nicht; existierte aber das foenus nauticum (Seedarlehen) mit Risikoübernahme durch den Gläubiger — D. 22,2,1 ff. Anachronistische Mischung.*
 
-## Caput VI — De edilicia stipulatione (Sachmaengelhaftung)
+## Caput VI — De edilicia stipulatione (Sachmängelhaftung)
 
 (1) Venditor solemniter stipulatur, vinum esse [Eigenschaften: "non corruptum, non acidum, optimi saporis"], et amphoras esse integras et signatas signo officinae.
 
@@ -90,15 +86,20 @@ Acta sunt haec [Ort, z. B. Romae, in foro] coram testibus septem civibus Romanis
 
 Signum venditoris [signo]   Signum emptoris [signo]
 
+## Hinweis für den modernen Anwender
 
+Das klassische ius civile kannte: Konsensvertrag emptio venditio (Gaius Inst. 3.139, D. 18); Eviktionshaftung; aedilizische Edikte für Sklaven- und Tierhandel (mit actio redhibitoria, quanti minoris); periculum-Doktrin (Risiko ab perfecter Kaufeinigung mit dem Emptor, D. 18,6,1pr. — schon im klassischen Recht streitig). Eine ausdrückliche Schriftform war nicht erforderlich (consensus reicht), aber Beweisurkunden üblich. Versicherung im modernen Sinn existierte nicht — Risikoumverteilung erfolgte über **foenus nauticum** (Seedarlehen, D. 22,2). Die Vorlage mischt klassische Bausteine mit modernen Vertragsklauseln — für Lehrzwecke gedacht.
 
-## Hinweis fuer den modernen Anwender
+## Verwendungskontrolle
 
-Das klassische ius civile kannte: Konsensvertrag emptio venditio (Gaius Inst. 3.139, D. 18); Eviktionshaftung; aedilizische Edikte fuer Sklaven- und Tierhandel (mit actio redhibitoria, quanti minoris); periculum-Doktrin (Risiko ab perfecter Kaufeinigung mit dem Emptor, D. 18,6,1pr. — schon im klassischen Recht streitig). Eine ausdrueckliche Schriftform war nicht erforderlich (consensus reicht), aber Beweisurkunden ueblich. Versicherung im modernen Sinn existierte nicht — Risikoumverteilung erfolgte ueber **foenus nauticum** (Seedarlehen, D. 22,2). Die Vorlage mischt klassische Bausteine mit modernen Vertragsklauseln — fuer Lehrzwecke gedacht.
+- Antike Lehrfassung und heutige Vertragsnutzung strikt trennen.
+- Ware, Preis, Übergabe, Gefahr, Mängelrechte und Forum als didaktische Stationen markieren.
+- Digestenstellen nur als Lernanker verwenden und vor Zitierung im Original prüfen.
+- Moderne Versicherung, Transport- und Haftungsklauseln als bewusst anachronistische Ergänzung kennzeichnen.
 
 ---
 
-**Felder im Template** (vor Verwendung ausfuellen):
+## Ausfüllfelder
 
 - `[Nomen venditoris + Tribus]`
 - `[Nomen emptoris + Beruf]`
@@ -107,4 +108,4 @@ Das klassische ius civile kannte: Konsensvertrag emptio venditio (Gaius Inst. 3.
 - `[Gesamtpretium HS]`
 - `[Schiffsname]`
 - `[Bankier-Name]`
-- `[Konkrete Datumsangaben nach roem. Kalender]`
+- `[Konkrete Datumsangaben nach röm. Kalender]`

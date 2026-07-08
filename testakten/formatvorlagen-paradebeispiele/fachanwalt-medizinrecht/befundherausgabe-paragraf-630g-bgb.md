@@ -1,12 +1,10 @@
-> *Achtung: Dies ist eine experimentelle Arbeitsvorlage. Keine Haftung, keine Gewähr. Nur zum Ausprobieren der Workflows; keine Rechtsberatung. Vor jeder Verwendung im Mandat anwaltlich prüfen.*
+> *Achtung: Diese Arbeitsvorlage ist eine Prüf- und Formulierungshilfe. Keine Haftung, keine Gewähr, keine Rechtsberatung. Vor Verwendung im Mandat Sachverhalt, Fristen, Zuständigkeit, Normstand, Rechtsprechung und Anlagen eigenständig prüfen.*
 
-# Aufforderung zur Herausgabe der Behandlungsdokumentation ($ 630g BGB)
+# Aufforderung zur Herausgabe der Behandlungsdokumentation (Paragraf 630g BGB)
 
 An die [Klinik / Praxis] [Name]
 
 [Anschrift]
-
-
 
 Patientensache: [Patientenname], geboren [Datum]
 
@@ -18,15 +16,15 @@ Aktenzeichen Klinik: [Pat.-Nr.]
 
 Sehr geehrte Damen und Herren,
 
-namens und in Vollmacht des oben genannten Patienten (Vollmacht als Anlage V1) bitte ich Sie um Einsichtnahme in die vollstaendige Patientenakte sowie um Aushaendigung von Kopien aller Behandlungsunterlagen gem. $ 630g Abs. 1 und 2 BGB.
+namens und in Vollmacht des oben genannten Patienten (Vollmacht als Anlage V1) bitte ich Sie um Einsichtnahme in die vollständige Patientenakte sowie um Aushändigung von Kopien aller Behandlungsunterlagen gem. Paragraf 630g Abs. 1 und 2 BGB.
 
 Der Anspruch umfasst:
 
-- vollstaendige Behandlungsdokumentation ($ 630f BGB)
+- vollständige Behandlungsdokumentation (Paragraf 630f BGB)
 
-- alle bildgebenden Befunde (Roentgen, CT, MRT, Sonographie)
+- alle bildgebenden Befunde (Röntgen, CT, MRT, Sonographie)
 
-- Laborbefunde, EKGs, OP-Berichte, Anaesthesieprotokolle, Pflegedokumentation
+- Laborbefunde, EKGs, OP-Berichte, Anästhesieprotokolle, Pflegedokumentation
 
 - Korrespondenz mit weiteren Behandlern
 
@@ -34,29 +32,34 @@ Der Anspruch umfasst:
 
 ## Form und Frist
 
-Wir bitten um Aushaendigung in elektronischer Form (PDF, DICOM-Bilder) per beA an die unten genannte Adresse. Hilfsweise per Post.
+Wir bitten um Aushändigung in elektronischer Form (PDF, DICOM-Bilder) per beA an die unten genannte Adresse. Hilfsweise per Post.
 
-Frist: 14 Tage ab Zugang dieses Schreibens. Bei Fristablauf werden wir die Herausgabe gerichtlich nach $ 630g BGB durchsetzen und die hierdurch entstehenden Kosten geltend machen.
+Frist: 14 Tage ab Zugang dieses Schreibens. Bei Fristablauf werden wir die Herausgabe gerichtlich nach Paragraf 630g BGB durchsetzen und die hierdurch entstehenden Kosten geltend machen.
 
 ## Kostentragung
 
-Die durch die Anfertigung von Kopien entstehenden Kosten werden vom Patienten getragen ($ 630g Abs. 2 Satz 2 BGB). Bitte teilen Sie die voraussichtlichen Kosten vorab mit.
+Die durch die Anfertigung von Kopien entstehenden Kosten werden vom Patienten getragen (Paragraf 630g Abs. 2 Satz 2 BGB). Bitte teilen Sie die voraussichtlichen Kosten vorab mit.
 
 ## Rechtlicher Hintergrund
 
-Das Einsichtsrecht ist umfassend und kann nur in seltenen Ausnahmefaellen ($ 630g Abs. 1 Satz 1 BGB: erhebliche therapeutische Gruende / Rechte Dritter) verweigert werden; Einschraenkungen sind zu begruenden. Verweigerungsentscheidungen sind anfechtbar.
+Das Einsichtsrecht ist umfassend und kann nur in seltenen Ausnahmefällen (Paragraf 630g Abs. 1 Satz 1 BGB: erhebliche therapeutische Gründe / Rechte Dritter) verweigert werden; Einschränkungen sind zu begründen. Verweigerungsentscheidungen sind anfechtbar.
 
-Mit freundlichen Gruessen
-
-
+Mit freundlichen Grüßen
 
 _______________________________
 
-[Rechtsanwalt/Rechtsanwaeltin]
+[Rechtsanwalt/Rechtsanwältin]
+
+## Verwendungskontrolle
+
+- Patientenstellung, Bevollmächtigung, Identität und Umfang der gewünschten Unterlagen vor Versand festlegen.
+- Befunddaten, Bildgebung, OP-Berichte, Pflegekurve, Aufklärung und Abrechnung ausdrücklich einzeln anfordern.
+- Frist, elektronisches Format, Kostenerstattung und Herausgabe an Behandler oder Kanzlei klar formulieren.
+- Bei Ablehnung sofort Datenschutz- und Patientenrechtepfad sowie einstweilige Sicherung prüfen.
 
 ---
 
-**Felder im Template** (vor Verwendung ausfuellen):
+## Ausfüllfelder
 
 - `[Klinik/Praxis Name + Anschrift]`
 - `[Patientenname + Geburtsdatum]`

@@ -1,10 +1,8 @@
-> *Achtung: Dies ist eine experimentelle Arbeitsvorlage. Keine Haftung, keine Gewähr. Nur zum Ausprobieren der Workflows; keine Rechtsberatung. Vor jeder Verwendung im Mandat anwaltlich prüfen.*
+> *Achtung: Diese Arbeitsvorlage ist eine Prüf- und Formulierungshilfe. Keine Haftung, keine Gewähr, keine Rechtsberatung. Vor Verwendung im Mandat Sachverhalt, Fristen, Zuständigkeit, Normstand, Rechtsprechung und Anlagen eigenständig prüfen.*
 
-# Kauf-Contract ueber ein Grundstuecks-Pertinenz nach den Vorschriften des Allgemeinen Landrechts fuer die Preussischen Staaten (PrALR 1794)
+# Kauf-Contract über ein Grundstücks-Pertinenz nach den Vorschriften des Allgemeinen Landrechts für die Preußischen Staaten (PrALR 1794)
 
-*Anmerkung: Diese experimentelle, bewusst anachronistisch-stilistische Arbeitsvorlage bildet einen Grundstuecks-Kauf-Contract im Rechts- und Sprachstil des Allgemeinen Landrechts fuer die Preussischen Staaten von 1794 (PrALR; I. Theil, 11. Titel, $$ 1 ff.) nach. Sie ist ein Lehr- und Unterhaltungsformat. Keine historische Authentizitaet, keine Haftung; gegenwaertiges deutsches Recht ist anwendbar und richtet sich nach BGB $$ 311b, 925; GBO; Notarrecht; KSTG. Cicero hat im Berliner Provinzialarchiv keine Akten hinterlassen.*
-
-
+*Anmerkung: Diese experimentelle, bewusst anachronistisch-stilistische Arbeitsvorlage bildet einen Grundstücks-Kauf-Contract im Rechts- und Sprachstil des Allgemeinen Landrechts für die Preußischen Staaten von 1794 (PrALR; I. Theil, 11. Titel, Paragrafen 1 ff.) nach. Sie ist ein Lehr- und Unterhaltungsformat. Keine historische Authentizität, keine Haftung; gegenwärtiges deutsches Recht ist anwendbar und richtet sich nach BGB Paragrafen 311b, 925; GBO; Notarrecht; KSTG. Cicero hat im Berliner Provinzialarchiv keine Akten hinterlassen.*
 
 **KAUF-CONTRACT**
 
@@ -12,107 +10,102 @@ in fundo regio [Name des Gutes]
 
 Berlin, den [Datum] des Jahres Eintausend Siebenhundert und [Jahresziffer]
 
-
-
 ## Vorbemerckung
 
-Es ist heute, an dem zur Ueberschrifft genannten Tage, zwischen denen unterschriebenen Contrahenten, naemlich:
+Es ist heute, an dem zur Überschrifft genannten Tage, zwischen denen unterschriebenen Contrahenten, nämlich:
 
-**Dem Herrn Veraeusserer**, dem Wohlgeborenen, Hoch- und Wohlachtbaren [Vorname und Nachname], Koeniglich Preussischem [Titel/Beruf], wohnhaftig zu [Ort], als Eigenthuemer und alleinigem Besitzer der nachher genannten Grundstuecks-Pertinenz, sowie
+**Dem Herrn Veräußerer**, dem Wohlgeborenen, Hoch- und Wohlachtbaren [Vorname und Nachname], Königlich Preußischem [Titel/Beruf], wohnhaftig zu [Ort], als Eigentümer und alleinigem Besitzer der nachher genannten Grundstücks-Pertinenz, sowie
 
-**Dem Herrn Erwerber**, dem Hochwohlgeborenen, Hoch- und Wohlachtbaren [Vorname und Nachname], [Stand/Beruf], wohnhaftig zu [Ort], als kuenfftigem Eigenthuemer,
+**Dem Herrn Erwerber**, dem Hochwohlgeborenen, Hoch- und Wohlachtbaren [Vorname und Nachname], [Stand/Beruf], wohnhaftig zu [Ort], als künfftigem Eigentümer,
 
-vor zwei zuverlaessigen, der Schreib- und Lesekunst maechtigen Zeugen und in Gegenwart unsres Koeniglichen Justiz-Commissarii, des Herrn [Name], nachstehender Kauf-Contract verabredet und beschlossen worden, wie folgt:
+vor zwei zuverlässigen, der Schreib- und Lesekunst mächtigen Zeugen und in Gegenwart unsres Königlichen Justiz-Commissarii, des Herrn [Name], nachstehender Kauf-Contract verabredet und beschlossen worden, wie folgt:
 
-## $ 1. Vom Kauf-Gegenstande
+## Paragraf 1. Vom Kauf-Gegenstande
 
-Der Herr Veraeusserer verkauffet und uebertraget hiermit dem Herrn Erwerber, welcher beydes zugleich annimmt, das ihm gehoerige zu [Belegenheit, Kreis, Provinz] gelegene Grundstueck, naemlich:
+Der Herr Veräußerer verkauffet und übertraget hiermit dem Herrn Erwerber, welcher beydes zugleich annimmt, das ihm gehörige zu [Belegenheit, Kreis, Provinz] gelegene Grundstück, nämlich:
 
-(a) der **Acker und das Wieserland** im Maasse von [Anzahl] Morgen [Berlinischen / Magdeburgischen] und [Anzahl] Quadrat-Ruthen,
+(a) der **Acker und das Wieserland** im Maße von [Anzahl] Morgen [Berlinischen / Magdeburgischen] und [Anzahl] Quadrat-Ruthen,
 
-(b) das daselbst aufgefuehrte **Wohnhaus**, beste­hend in einem Hauptgebaeude von zwo Geschoss-Etagen, Stallung, Scheune und sonstigen pertinenzialischen Gebaeuden,
+(b) das daselbst aufgeführte **Wohnhaus**, beste­hend in einem Hauptgebäude von zwo Geschoss-Etagen, Stallung, Scheune und sonstigen pertinenzialischen Gebäuden,
 
-(c) **saemmtliche Realfolgen und Gerechtsamen**, so an diesem Grundstuecke kraft des Allgemeinen Landrechts (I. Theil, 9. Titel, $$ 1 ff.) hangen, einschlieslich der Wasser-, Holz- und Triftrechte, soweit selbige nicht durch besondere Servituten zu Gunsten Dritter beschwehrt sind.
+(c) **sämtliche Realfolgen und Gerechtsamen**, so an diesem Grundstücke kraft des Allgemeinen Landrechts (I. Theil, 9. Titel, Paragrafen 1 ff.) hangen, einschließlich der Wasser-, Holz- und Triftrechte, soweit selbige nicht durch besondere Servituten zu Gunsten Dritter beschwehrt sind.
 
-Das alles hiernach so wie es liegt und steht, mit allem darauf befindlichen Mobiliar nach der angehangenen Specification (Anlage A).
+Das alles hiernach so wie es liegt und steht, mit allem darauf befindlichen Mobiliar nach der angehängten Specification (Anlage A).
 
-## $ 2. Vom Kauf-Pretium und der Berichtigung desselben
+## Paragraf 2. Vom Kauf-Pretium und der Berichtigung desselben
 
-(1) Der Kauf-Pretium ist auf **[Betrag] Thaler Couranter Berliner Muenze**, in Worten "Eintausend [...] Thaler" festgesetzet.
+(1) Der Kauf-Pretium ist auf **[Betrag] Thaler Couranter Berliner Münze**, in Worten "Eintausend [...] Thaler" festgesetzet.
 
 (2) Hievon werden:
 
-(a) [Anzahl] Thaler durch Annahme der auf dem Grundstuecke ruhenden, zur hypothecarischen Sicherheit eingetragenen Schulden (siehe Hypotheken-Buch des Konigl. Stadt­gerichts zu [Ort], fol. [Folio]) abgegolten,
+(a) [Anzahl] Thaler durch Annahme der auf dem Grundstücke ruhenden, zur hypothecarischen Sicherheit eingetragenen Schulden (siehe Hypotheken-Buch des Konigl. Stadt­gerichts zu [Ort], fol. [Folio]) abgegolten,
 
-(b) [Anzahl] Thaler binnen [Frist] Tagen nach Schluss dieses Contracts in Praesentia von zwo Zeugen contant in die Haende des Veraeusserers ausgezahlet, oder durch Trat­ten auf das Konigl. Banco-Officium honoriret.
+(b) [Anzahl] Thaler binnen [Frist] Tagen nach Schluss dieses Contracts in Praesentia von zwo Zeugen contant in die Hände des Veräußerers ausgezahlet, oder durch Trat­ten auf das Konigl. Banco-Officium honoriret.
 
-(3) Die Verzinsung des noch nicht bezahlten Kauf-Pretii erfolget zu **fuenff Procent vom Hundert jaehrlich**, nach dem Zinsfusse, so nach PrALR I. Theil, 11. Titel, $ 250 das gewoehnliche Mass ist.
+(3) Die Verzinsung des noch nicht bezahlten Kauf-Pretii erfolget zu **fünff Procent vom Hundert jährlich**, nach dem Zinsfusse, so nach PrALR I. Theil, 11. Titel, Paragraf 250 das gewöhnliche Maß ist.
 
-## $ 3. Von der Auflassung
+## Paragraf 3. Von der Auflassung
 
-Die Auflassung der Sache (cessio rei) erfolget vor dem zustaendigen **Konigl. Stadt- und Landgerichts-Inspector zu [Ort]** an einem von beiden Theilen alsobald nach Berichtigung des Kauf-Pretii anzu­be­ramenden Termine. Vor diesem Termine bleibt das Eigenthum bei dem Veraeusserer; nach demselben tritt das volle Eigenthumsrecht — sammt allen Frueh- und Spaetfruechten — an den Erwerber ueber, gemaess I. Theil, 9. Titel, $$ 1 ff. PrALR.
+Die Auflassung der Sache (cessio rei) erfolget vor dem zuständigen **Konigl. Stadt- und Landgerichts-Inspector zu [Ort]** an einem von beiden Theilen alsobald nach Berichtigung des Kauf-Pretii anzu­be­ramenden Termine. Vor diesem Termine bleibt das Eigenthum bei dem Veräußerer; nach demselben tritt das volle Eigenthumsrecht — sammt allen Früh- und Spätfrüchten — an den Erwerber über, gemäß I. Theil, 9. Titel, Paragrafen 1 ff. PrALR.
 
-## $ 4. Von der Gewaehrleistung (Eviction und Vitia)
+## Paragraf 4. Von der Gewährleistung (Eviction und Vitia)
 
-(1) Der Veraeusserer leistet **doppelten Schadenersatz** im Falle einer Eviction, soferne der Erwerber durch Urteil eines Konigl. Gerichts in der Sache abtraet (cf. I. Theil, 11. Titel, $$ 135 ff.).
+(1) Der Veräußerer leistet **doppelten Schadenersatz** im Falle einer Eviction, soferne der Erwerber durch Urteil eines Konigl. Gerichts in der Sache abträgt (cf. I. Theil, 11. Titel, Paragrafen 135 ff.).
 
-(2) Hinsichtlich der heimlichen Maengel (vitia occulta) wird stipulieret, dass der Veraeusserer derselben nicht wissentlich verschwiegen habe; bezueglich offener Maengel (vitia conspicua) ist der Erwerber durch Besichtigung gehalten und kann nicht­hin­wider klagen.
+(2) Hinsichtlich der heimlichen Mängel (vitia occulta) wird stipulieret, dass der Veräußerer derselben nicht wissentlich verschwiegen habe; bezüglich offener Mängel (vitia conspicua) ist der Erwerber durch Besichtigung gehalten und kann nicht­hin­wider klagen.
 
-## $ 5. Vom Brand- und Hagel-Schaden
+## Paragraf 5. Vom Brand- und Hagel-Schaden
 
-Die Gefahr (periculum) gehet auf den Erwerber ueber mit Vollziehung der Auflassung. Bis dahin haftet der Veraeusserer fuer alle Schadensfaelle, ausgenommen vis maior (Krieg, Feuersbrunst durch fremdes Verschulden).
+Die Gefahr (periculum) gehet auf den Erwerber über mit Vollziehung der Auflassung. Bis dahin haftet der Veräußerer für alle Schadensfälle, ausgenommen vis maior (Krieg, Feuersbrunst durch fremdes Verschulden).
 
-## $ 6. Von den Stempeln, Sportien und Steuern
+## Paragraf 6. Von den Stempeln, Sportien und Steuern
 
-(1) Die Stempel- und Sportel-Gebuehren des Kauf-Contracts traegt der **Erwerber**.
+(1) Die Stempel- und Sportel-Gebühren des Kauf-Contracts trägt der **Erwerber**.
 
-(2) Die rueckstaendigen Grund-, Gebaeude- und Klassen-Steuern bis zum Tag der Auflassung gehen zu Lasten des Veraeusserers; die hernach faelligen zu Lasten des Erwerbers.
+(2) Die rückständigen Grund-, Gebäude- und Klassensteuern bis zum Tag der Auflassung gehen zu Lasten des Veräußerers; die hernach fälligen zu Lasten des Erwerbers.
 
-## $ 7. Streitschlichtung und Gerichtsstand
+## Paragraf 7. Streitschlichtung und Gerichtsstand
 
 (1) Im Streitfalle erkennt das **Konigl. Justiz-Collegium [Provinz]**, in Subsidio das Konigl. Kammergericht zu Berlin.
 
-(2) Vor Anrufung des Gerichts soll versucht werden, durch ein Bonum officium des Justiz-Commissarii eine guetliche Beylegung herbeyzufuehren.
+(2) Vor Anrufung des Gerichts soll versucht werden, durch ein Bonum officium des Justiz-Commissarii eine gütliche Beylegung herbeyzuführen.
 
-## $ 8. Schluss-Vorbemerckung
+## Paragraf 8. Schluss-Vorbemerckung
 
-Beide Theile bekennen ihren consensus im Sinne des I. Theil, 4. Titel, $$ 79 ff. PrALR, und versichern, dass keine geheime Beweggruende, kein dolus, kein Irrthumb sich hier eingeschlichen habe, so dieses Geschaeft entkraefften koennte.
+Beide Theile bekennen ihren consensus im Sinne des I. Theil, 4. Titel, Paragrafen 79 ff. PrALR, und versichern, dass keine geheime Beweggründe, kein dolus, kein Irrthumb sich hier eingeschlichen habe, so dieses Geschäft entkräften könnte.
 
-Zum Beweise dessen haben beide Contrahenten dieses Instrument eigenhaendig unterschrieben und mit ihrem Petschaft besiegelt.
-
-
+Zum Beweise dessen haben beide Contrahenten dieses Instrument eigenhändig unterschrieben und mit ihrem Petschaft besiegelt.
 
 [Ort], am [Datum] anno [Jahr].
 
-
-
-Der Veraeusserer:  ____________________   [L.S.]
+Der Veräußerer:  ____________________   [L.S.]
 
 Der Erwerber:      ____________________   [L.S.]
-
-
 
 Zeuge I:           ____________________
 
 Zeuge II:          ____________________
 
-
-
 Vor mir, dem Konigl. Justiz-Commissario:
-
-
 
 [Name], Justizrath
 
-## Hinweis fuer den modernen Anwender
+## Hinweis für den modernen Anwender
 
-Heute geltendes Recht (Stand 2026): $$ 311b, 873, 925 BGB; $ 873 BGB (Einigung und Eintragung); $ 925 BGB (Auflassung vor Notar); GBO (Grundbuchordnung). Notarpflicht statt Justiz-Commissarius. Diese Vorlage ist eine sprachliche Hommage; fuer reale Geschaefte ist heute eine notarielle Beurkundung und Eintragung im Grundbuch erforderlich.
+Heute geltendes Recht (Stand 2026): Paragrafen 311b, 873, 925 BGB; Paragraf 873 BGB (Einigung und Eintragung); Paragraf 925 BGB (Auflassung vor Notar); GBO (Grundbuchordnung). Notarpflicht statt Justiz-Commissarius. Diese Vorlage ist eine sprachliche Hommage; für reale Geschäfte ist heute eine notarielle Beurkundung und Eintragung im Grundbuch erforderlich.
+
+## Verwendungskontrolle
+
+- Historische Stilfassung von geltendem Recht trennen; für heutige Verwendung zwingend BGB, GBO und BeurkG voranstellen.
+- Grundstück, Pertinenzen, Belastungen, Übergabe und Kaufpreis nicht in altertümlicher Sprache unklar lassen.
+- Zeugen-, Notar- und Registerangaben vollständig ausfüllen oder als reine Stilübung kennzeichnen.
+- Alle heutigen Pflichtbelehrungen separat ergänzen, bevor die Fassung praktisch verwendet wird.
 
 ---
 
-**Felder im Template** (vor Verwendung ausfuellen):
+## Ausfüllfelder
 
-- `[Name Veraeusserer + Titel + Wohnort]`
+- `[Name Veräußerer + Titel + Wohnort]`
 - `[Name Erwerber + Stand + Wohnort]`
 - `[Belegenheit + Kreis + Provinz]`
 - `[Anzahl Morgen + Ruthen]`

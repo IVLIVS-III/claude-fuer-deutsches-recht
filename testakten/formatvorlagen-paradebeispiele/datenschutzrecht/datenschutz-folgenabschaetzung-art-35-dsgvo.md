@@ -1,14 +1,14 @@
-> *Achtung: Dies ist eine experimentelle Arbeitsvorlage. Keine Haftung, keine Gewähr. Nur zum Ausprobieren der Workflows; keine Rechtsberatung. Vor jeder Verwendung im Mandat anwaltlich prüfen.*
+> *Achtung: Diese Arbeitsvorlage ist eine Prüf- und Formulierungshilfe. Keine Haftung, keine Gewähr, keine Rechtsberatung. Vor Verwendung im Mandat Sachverhalt, Fristen, Zuständigkeit, Normstand, Rechtsprechung und Anlagen eigenständig prüfen.*
 
-# Datenschutz-Folgenabschaetzung (Art. 35 DSGVO)
+# Datenschutz-Folgenabschätzung (Art. 35 DSGVO)
 
-*Diese Vorlage strukturiert eine DSFA nach Art. 35 DSGVO. Pflicht bei wahrscheinlich hohem Risiko fuer Rechte und Freiheiten betroffener Personen (siehe Aufsichtsbehoerden-Liste).*
+*Diese Vorlage strukturiert eine DSFA nach Art. 35 DSGVO. Pflicht bei wahrscheinlich hohem Risiko für Rechte und Freiheiten betroffener Personen (siehe Aufsichtsbehörden-Liste).*
 
 ## 1. Beschreibung der Verarbeitung
 
 Verantwortlicher: [Name + Anschrift + DSB]
 
-Verarbeitungstaetigkeit: [Name]
+Verarbeitungstätigkeit: [Name]
 
 Zweck: [konkret]
 
@@ -16,29 +16,29 @@ Rechtsgrundlage: [Art. 6 I lit. a / b / c / e / f DSGVO; Art. 9 II lit. ? bei be
 
 Datenkategorien: [Bestand, Nutzungsdaten, Bewegungsprofile, Gesundheitsdaten, biometrische Daten, KI-Modelldaten...]
 
-Betroffene: [Mitarbeiter, Kunden, Patienten, Minderjaehrige, vulnerable Personen]
+Betroffene: [Mitarbeiter, Kunden, Patienten, Minderjährige, vulnerable Personen]
 
-Empfaenger: [Innerhalb EWR, Drittland, Auftragsverarbeiter]
+Empfänger: [Innerhalb EWR, Drittland, Auftragsverarbeiter]
 
-Speicherdauer: [konkret + Loeschkonzept]
+Speicherdauer: [konkret + Löschkonzept]
 
-Internationale Uebermittlung: [SCC, Angemessenheitsbeschluss, BCR]
+Internationale Übermittlung: [SCC, Angemessenheitsbeschluss, BCR]
 
-## 2. Erforderlichkeit und Verhaeltnismaessigkeit
+## 2. Erforderlichkeit und Verhältnismäßigkeit
 
-- Ist die Verarbeitung fuer den Zweck erforderlich?
+- Ist die Verarbeitung für den Zweck erforderlich?
 
 - Gibt es mildere Mittel (Pseudonymisierung, Aggregation, Minimierung)?
 
-- Sind die Daten dem Zweck angemessen, erheblich und auf das notwendige Mass beschraenkt? (Art. 5 I c)
+- Sind die Daten dem Zweck angemessen, erheblich und auf das notwendige Maß beschränkt? (Art. 5 I c)
 
 ## 3. Risikoanalyse
 
-Risiken fuer Betroffene (Beispiele):
+Risiken für Betroffene (Beispiele):
 
-- Diskriminierung, Identitaetsdiebstahl, Rufschaedigung
+- Diskriminierung, Identitätsdiebstahl, Rufschädigung
 
-- Verlust der Kontrolle ueber personenbezogene Daten
+- Verlust der Kontrolle über personenbezogene Daten
 
 - Profilbildung, automatisierte Entscheidung (Art. 22)
 
@@ -46,36 +46,43 @@ Risiken fuer Betroffene (Beispiele):
 
 Skala: Eintrittswahrscheinlichkeit [niedrig/mittel/hoch] x Schadensschwere [niedrig/mittel/hoch] = Risikoampel.
 
-## 4. Geplante Massnahmen (Art. 32 DSGVO)
+## 4. Geplante Maßnahmen (Art. 32 DSGVO)
 
-Technisch: [Verschluesselung, Pseudonymisierung, Zugriffskontrolle, Logging, Loeschroutinen]
+Technisch: [Verschlüsselung, Pseudonymisierung, Zugriffskontrolle, Logging, Löschroutinen]
 
 Organisatorisch: [Schulung, AVV-Pflicht-Check, Rollenkonzept, Notfallplan]
 
-Verfahrensgarantien: [Betroffenenrechte: Auskunft, Berichtigung, Loeschung, Widerspruch — Implementierung]
+Verfahrensgarantien: [Betroffenenrechte: Auskunft, Berichtigung, Löschung, Widerspruch — Implementierung]
 
 ## 5. Konsultation
 
-- Datenschutzbeauftragter eingebunden ($ 38 BDSG / Art. 35 II DSGVO)
+- Datenschutzbeauftragter eingebunden (Paragraf 38 BDSG / Art. 35 II DSGVO)
 
-- Betroffene oder Vertreter angehoert (Art. 35 IX)
+- Betroffene oder Vertreter angehört (Art. 35 IX)
 
-- Bei verbleibendem hohen Restrisiko trotz Massnahmen: Konsultation Aufsichtsbehoerde (Art. 36)
+- Bei verbleibendem hohen Restrisiko trotz Maßnahmen: Konsultation Aufsichtsbehörde (Art. 36)
 
 ## 6. Restrisiko-Bewertung und Ergebnis
 
-Restrisiko nach Massnahmen: [niedrig/mittel/hoch]
+Restrisiko nach Maßnahmen: [niedrig/mittel/hoch]
 
-Entscheidung: [Verarbeitung zulaessig / Konsultation Aufsichtsbehoerde / Verarbeitung nicht moeglich]
+Entscheidung: [Verarbeitung zulässig / Konsultation Aufsichtsbehörde / Verarbeitung nicht möglich]
 
-Folgepflicht: regelmaessige Ueberpruefung; Reevaluation bei Aenderungen.
+Folgepflicht: regelmäßige Überprüfung; Reevaluation bei Änderungen.
+
+## Verwendungskontrolle
+
+- Verarbeitungsvorgang, Zweck, Rechtsgrundlage, Datenkategorien, Betroffene und Empfänger vollständig erfassen.
+- Erforderlichkeit, Verhältnismäßigkeit, Schutzbedarf und Restrisiko nicht vermischen.
+- TOMs, Löschfristen, Rollenverteilung, Drittlandbezug und Auftragsverarbeitung gesondert dokumentieren.
+- Bei hohem Restrisiko Konsultationsbedarf der Aufsichtsbehörde ausdrücklich entscheiden.
 
 ---
 
-**Felder im Template** (vor Verwendung ausfuellen):
+## Ausfüllfelder
 
 - `[Verantwortlicher + DSB]`
-- `[Verarbeitungstaetigkeit]`
+- `[Verarbeitungstätigkeit]`
 - `[Rechtsgrundlage]`
 - `[Datenkategorien]`
-- `[Empfaenger]`
+- `[Empfänger]`

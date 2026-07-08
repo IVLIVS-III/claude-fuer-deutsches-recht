@@ -1,3 +1,13 @@
+# v429.9.0 — Formatvorlagen geschärft und ausgabefest gemacht
+
+- Die zentrale Sammlung `testakten/formatvorlagen-paradebeispiele` wurde über alle 23 Markdown- und ODT-Vorlagen hinweg geglättet: echte Umlaute in deutscher Prosa, Normverweise im Repo-Stil `Paragraf`, einheitliche `Ausfüllfelder` und ein klarer Warnhinweis statt alter Vorlagensprache.
+- Jede Vorlage erhielt eine fachbezogene Verwendungskontrolle, etwa zu Fristen, Zuständigkeit, Anlagenlogik, Beweis- und Verfahrensrisiken, damit sie nicht nur als Formular, sondern als praxistaugliches Arbeitsstück funktioniert.
+- Das Gesamt-PDF der Vorlagensammlung wurde neu gebaut; die README beschreibt nun zutreffend, dass dieses PDF zur schnellen Sichtkontrolle vorhanden ist.
+- `scripts/generate-formatvorlagen.py` ist robuster: wiederkehrende Bausteine enthalten die neue Vorlagenlogik, und die ODT-Erzeugung fällt bei fehlendem `odfpy` auf Pandoc zurück.
+- Repo-weiter Versions-Bump auf v429.9.0; Marketplace, Plugin-Manifeste und Release-Übersichten wurden synchronisiert.
+
+---
+
 # v429.8.0 — Drei Sozialrecht-Testakten deutlich ausgebaut
 
 - Testakte `statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen` von 9 auf 33 Aktenstücke ausgebaut: vollständiger Gesellschaftsvertrag, historische Satzungsänderungen mit Notarurkunden, Handelsregisterauszug, DRV-Verfahren von Anhörung über Widerspruch bis Vergleich, Betriebsprüfungsbericht, Beitragsberechnungen und Multi-Format-Belege (E-Mails, CSV, XLSX, PDF, Chat-Screenshot).

@@ -1,137 +1,126 @@
-> *Achtung: Dies ist eine experimentelle Arbeitsvorlage. Keine Haftung, keine Gewähr. Nur zum Ausprobieren der Workflows; keine Rechtsberatung. Vor jeder Verwendung im Mandat anwaltlich prüfen.*
+> *Achtung: Diese Arbeitsvorlage ist eine Prüf- und Formulierungshilfe. Keine Haftung, keine Gewähr, keine Rechtsberatung. Vor Verwendung im Mandat Sachverhalt, Fristen, Zuständigkeit, Normstand, Rechtsprechung und Anlagen eigenständig prüfen.*
 
-# Klageschrift Kuendigungsschutzklage ($ 4 KSchG)
+# Klageschrift Kündigungsschutzklage (Paragraf 4 KSchG)
 
 An das Arbeitsgericht [Ort]
 
-[Strasse, Hausnummer]
+[Straße, Hausnummer]
 
 [PLZ Ort]
 
-
-
 **Klage**
-
-
 
 des [Vorname Nachname], geboren am [Geburtsdatum], wohnhaft [Anschrift]
 
-- Klaeger -
+- Kläger -
 
-vertreten durch [Rechtsanwalt/Rechtsanwaeltin], [Kanzlei], [Anschrift]
-
-
+vertreten durch [Rechtsanwalt/Rechtsanwältin], [Kanzlei], [Anschrift]
 
 gegen
 
-
-
-die [Firma der Beklagten] GmbH/AG, vertreten durch die Geschaeftsfuehrung/den Vorstand [Name], [Anschrift]
+die [Firma der Beklagten] GmbH/AG, vertreten durch die Geschäftsführung/den Vorstand [Name], [Anschrift]
 
 - Beklagte -
 
+**wegen Kündigungsschutzklage**
 
+Streitwert: vorläufig festgesetzt auf [Bruttomonatsgehalt x 3] EUR (Paragraf 42 II GKG: ein Vierteljahresverdienst).
 
-**wegen Kuendigungsschutzklage**
+## Anträge
 
+Namens und in Vollmacht der Klägerseite stelle ich folgende Anträge:
 
+1. Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom [Datum der Kündigungserklärung], zugegangen am [Zugangsdatum], nicht aufgelöst worden ist.
 
-Streitwert: vorlaeufig festgesetzt auf [Bruttomonatsgehalt x 3] EUR ($ 42 II GKG: ein Vierteljahresverdienst).
+2. Hilfsweise: Festzustellen, dass das Arbeitsverhältnis auch durch andere Beendigungstatbestände nicht aufgelöst worden ist und über den [vom Arbeitgeber genannten Beendigungstermin] hinaus zu unveränderten Bedingungen fortbesteht.
 
-## Antraege
-
-Namens und in Vollmacht der Klaegerseite stelle ich folgende Antraege:
-
-
-
-1. Es wird festgestellt, dass das Arbeitsverhaeltnis der Parteien durch die Kuendigung der Beklagten vom [Datum der Kuendigungserklaerung], zugegangen am [Zugangsdatum], nicht aufgeloest worden ist.
-
-2. Hilfsweise: Festzustellen, dass das Arbeitsverhaeltnis auch durch andere Beendigungstatbestaende nicht aufgeloest worden ist und ueber den [vom Arbeitgeber genannten Beendigungstermin] hinaus zu unveraenderten Bedingungen fortbesteht.
-
-3. Die Beklagte wird verurteilt, die Klaegerseite ueber den Ablauf der Kuendigungsfrist hinaus zu den bisherigen Arbeitsbedingungen als [Position] weiter zu beschaeftigen (allgemeiner Weiterbeschaeftigungsanspruch nach BAG GS, st. Rspr., live verifizieren auf bundesarbeitsgericht.de).
+3. Die Beklagte wird verurteilt, die Klägerseite über den Ablauf der Kündigungsfrist hinaus zu den bisherigen Arbeitsbedingungen als [Position] weiter zu beschäftigen (allgemeiner Weiterbeschäftigungsanspruch nach BAG GS, st. Rspr., live verifizieren auf bundesarbeitsgericht.de).
 
 ## Sachverhalt
 
-Die Klaegerseite ist seit [Eintrittsdatum] bei der Beklagten als [Position] zu einem Bruttomonatsentgelt von [Betrag] EUR beschaeftigt. Die regelmaessige Arbeitszeit betraegt [Stunden/Woche].
+Die Klägerseite ist seit [Eintrittsdatum] bei der Beklagten als [Position] zu einem Bruttomonatsentgelt von [Betrag] EUR beschäftigt. Die regelmäßige Arbeitszeit beträgt [Stunden/Woche].
 
-Mit Schreiben vom [Datum der Kuendigung], zugegangen am [Zugangsdatum] - [Zustellungsart: per Bote / Einschreiben / persoenliche Uebergabe] - hat die Beklagte das Arbeitsverhaeltnis [ordentlich / ausserordentlich; mit/ohne soziale Auslauffrist] zum [Beendigungsdatum] gekuendigt. Die Kuendigung ist als Anlage K 1 beigefuegt.
+Mit Schreiben vom [Datum der Kündigung], zugegangen am [Zugangsdatum] - [Zustellungsart: per Bote / Einschreiben / persönliche Übergabe] - hat die Beklagte das Arbeitsverhältnis [ordentlich / außerordentlich; mit/ohne soziale Auslauffrist] zum [Beendigungsdatum] gekündigt. Die Kündigung ist als Anlage K 1 beigefügt.
 
-[Wenn besonderer Kuendigungsgrund von Arbeitgeber genannt: hier kurz beschreiben und bestreiten. Wenn keine Begruendung vorgetragen: hierauf hinweisen.]
+[Wenn besonderer Kündigungsgrund von Arbeitgeber genannt: hier kurz beschreiben und bestreiten. Wenn keine Begründung vorgetragen: hierauf hinweisen.]
 
-Die Beklagte beschaeftigt regelmaessig mehr als 10 Arbeitnehmer (Vollzeitaequivalente; $ 23 KSchG); das Kuendigungsschutzgesetz findet Anwendung. Das Arbeitsverhaeltnis besteht laenger als sechs Monate ($ 1 Abs. 1 KSchG).
+Die Beklagte beschäftigt regelmäßig mehr als 10 Arbeitnehmer (Vollzeitäquivalente; Paragraf 23 KSchG); das Kündigungsschutzgesetz findet Anwendung. Das Arbeitsverhältnis besteht länger als sechs Monate (Paragraf 1 Abs. 1 KSchG).
 
-[Wenn Sonderkuendigungsschutz greift - Schwangerschaft, Mutterschutz, Schwerbehinderung, Betriebsrat, Wahlvorstand -: hier ausfuehren und entsprechende Belege als Anlagen K2 ff. einfuehren.]
+[Wenn Sonderkündigungsschutz greift - Schwangerschaft, Mutterschutz, Schwerbehinderung, Betriebsrat, Wahlvorstand -: hier ausführen und entsprechende Belege als Anlagen K2 ff. einführen.]
 
-## Rechtliche Wuerdigung
+## Rechtliche Würdigung
 
-### 1. Klagefrist $ 4 Satz 1 KSchG
+### 1. Klagefrist Paragraf 4 Satz 1 KSchG
 
-Die Klage ist binnen drei Wochen ab Zugang der schriftlichen Kuendigung beim Arbeitsgericht zu erheben. Die Kuendigung ist am [Zugangsdatum] zugegangen; die Drei-Wochen-Frist endet am [Ablauf 3 Wochen]. Die Klageerhebung erfolgt rechtzeitig.
+Die Klage ist binnen drei Wochen ab Zugang der schriftlichen Kündigung beim Arbeitsgericht zu erheben. Die Kündigung ist am [Zugangsdatum] zugegangen; die Drei-Wochen-Frist endet am [Ablauf 3 Wochen]. Die Klageerhebung erfolgt rechtzeitig.
 
-### 2. Unwirksamkeit der Kuendigung
+### 2. Unwirksamkeit der Kündigung
 
-Die Kuendigung ist aus folgenden Gruenden unwirksam:
+Die Kündigung ist aus folgenden Gründen unwirksam:
 
-a) **Soziale Rechtfertigung $ 1 KSchG**: Die Beklagte hat keinen anerkannten Kuendigungsgrund vorgetragen. [Wenn betriebsbedingt: Sozialauswahl bestritten. Wenn personenbedingt: Negativprognose bestritten. Wenn verhaltensbedingt: Pflichtverletzung bestritten oder fehlende Abmahnung geruegt.]
+a) **Soziale Rechtfertigung Paragraf 1 KSchG**: Die Beklagte hat keinen anerkannten Kündigungsgrund vorgetragen. [Wenn betriebsbedingt: Sozialauswahl bestritten. Wenn personenbedingt: Negativprognose bestritten. Wenn verhaltensbedingt: Pflichtverletzung bestritten oder fehlende Abmahnung gerügt.]
 
-b) **Anhoerung des Betriebsrats** ($ 102 BetrVG): [Wenn BR existiert: ordnungsgemaesse Anhoerung bestritten / Vorliegen der Stellungnahme geruegt.]
+b) **Anhörung des Betriebsrats** (Paragraf 102 BetrVG): [Wenn BR existiert: ordnungsgemäße Anhörung bestritten / Vorliegen der Stellungnahme gerügt.]
 
-c) **Form $ 623 BGB**: [Wenn elektronisch zugegangen oder Unterschrift fraglich: hier ruegen.]
+c) **Form Paragraf 623 BGB**: [Wenn elektronisch zugegangen oder Unterschrift fraglich: hier rügen.]
 
-d) **Massenentlassung $ 17 KSchG**: [Wenn Schwellenwerte beruehrt: Anzeigemangel ruegen.]
+d) **Massenentlassung Paragraf 17 KSchG**: [Wenn Schwellenwerte berührt: Anzeigemangel rügen.]
 
 ## Beweismittel
 
 Zum Beweis der Sachverhaltsangaben dienen:
 
-- Anlage K 1: Kuendigungsschreiben der Beklagten vom [Datum]
+- Anlage K 1: Kündigungsschreiben der Beklagten vom [Datum]
 
 - Anlage K 2: Arbeitsvertrag vom [Datum]
 
-- Anlage K 3: [weitere relevante Unterlagen, z. B. Lohnabrechnungen, Schriftverkehr, BR-Anhoerung]
+- Anlage K 3: [weitere relevante Unterlagen, z. B. Lohnabrechnungen, Schriftverkehr, BR-Anhörung]
 
 - Zeugnis [Name, Adresse] zum Beweis von [Beweisthema]
 
-- Parteivernehmung der Klaegerseite ($ 448 ZPO)
+- Parteivernehmung der Klägerseite (Paragraf 448 ZPO)
 
-## Verguetungsanspruch / Annahmeverzug
+## Vergütungsanspruch / Annahmeverzug
 
-Die Klaegerseite haelt sich zur Erfuellung ihrer Arbeitsleistung weiter bereit und befindet sich in Annahmeverzug ($ 615 BGB iVm $ 11 KSchG). Verguetungsansprueche fuer den Zeitraum nach Ablauf der Kuendigungsfrist werden gesondert geltend gemacht; eine Bezifferung erfolgt im Verlauf des Verfahrens.
+Die Klägerseite hält sich zur Erfüllung ihrer Arbeitsleistung weiter bereit und befindet sich in Annahmeverzug (Paragraf 615 BGB iVm Paragraf 11 KSchG). Vergütungsansprüche für den Zeitraum nach Ablauf der Kündigungsfrist werden gesondert geltend gemacht; eine Bezifferung erfolgt im Verlauf des Verfahrens.
 
 ## Schluss
 
-Es wird beantragt, einen Guetetermin baldmoeglichst zu bestimmen ($ 54 ArbGG).
-
-
+Es wird beantragt, einen Gütetermin baldmöglichst zu bestimmen (Paragraf 54 ArbGG).
 
 [Ort], den [Datum]
 
-
-
-[Unterschrift Rechtsanwalt/Rechtsanwaeltin]
+[Unterschrift Rechtsanwalt/Rechtsanwältin]
 
 [Name in Druckbuchstaben, Berufsbezeichnung]
 
+## Verwendungskontrolle
+
+- Zugang der Kündigung und Dreiwochenfrist taggenau berechnen; nachträgliche Zulassung nur als Rettungspfad markieren.
+- KSchG-Anwendbarkeit, Sonderkündigungsschutz, Betriebsratsanhörung und Schriftform jeweils eigenständig prüfen.
+- Weiterbeschäftigungsantrag, Annahmeverzug und Vergleichsziel mit Mandantenauftrag abstimmen.
+- Anlagen K 1 ff. in derselben Reihenfolge führen wie Tatsachenvortrag und Beweisangebote.
+
 ---
 
-**Felder im Template** (vor Verwendung ausfuellen):
+## Ausfüllfelder
 
-- `[Vorname Nachname Klaeger]`
+- `[Vorname Nachname Kläger]`
 - `[Geburtsdatum]`
-- `[Anschrift Klaeger]`
-- `[Rechtsanwalt/Rechtsanwaeltin]`
+- `[Anschrift Kläger]`
+- `[Rechtsanwalt/Rechtsanwältin]`
 - `[Kanzlei]`
 - `[Firma der Beklagten]`
 - `[Anschrift Beklagte]`
-- `[Geschaeftsfuehrung/Vorstand]`
+- `[Geschäftsführung/Vorstand]`
 - `[Eintrittsdatum]`
 - `[Position]`
 - `[Bruttomonatsentgelt]`
 - `[Stunden/Woche]`
-- `[Datum der Kuendigung]`
+- `[Datum der Kündigung]`
 - `[Zugangsdatum]`
 - `[Zustellungsart]`
-- `[Ordentlich/Ausserordentlich]`
+- `[Ordentlich/Außerordentlich]`
 - `[Beendigungsdatum]`
 - `[Ablauf 3 Wochen]`
 - `[Ort des Arbeitsgerichts]`

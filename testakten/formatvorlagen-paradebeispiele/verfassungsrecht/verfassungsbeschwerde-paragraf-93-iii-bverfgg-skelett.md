@@ -1,6 +1,6 @@
-> *Achtung: Dies ist eine experimentelle Arbeitsvorlage. Keine Haftung, keine Gewähr. Nur zum Ausprobieren der Workflows; keine Rechtsberatung. Vor jeder Verwendung im Mandat anwaltlich prüfen.*
+> *Achtung: Diese Arbeitsvorlage ist eine Prüf- und Formulierungshilfe. Keine Haftung, keine Gewähr, keine Rechtsberatung. Vor Verwendung im Mandat Sachverhalt, Fristen, Zuständigkeit, Normstand, Rechtsprechung und Anlagen eigenständig prüfen.*
 
-# Verfassungsbeschwerde-Skelett ($ 90 i.V.m. $ 93 III BVerfGG)
+# Verfassungsbeschwerde-Skelett (Paragraf 90 i.V.m. Paragraf 93 III BVerfGG)
 
 An das Bundesverfassungsgericht
 
@@ -8,53 +8,47 @@ Postfach 1771, 76131 Karlsruhe
 
 **Verfassungsbeschwerde**
 
-
-
 des/der
 
-[Beschwerdefuehrer Name, geboren (Datum), Anschrift]
+[Beschwerdeführer Name, geboren (Datum), Anschrift]
 
 vertreten durch [Anwalt]
 
-
-
 wegen Verletzung der Grundrechte aus Art. [Art.-Nr.] GG ggf. iVm Art. 19 IV GG
-
-
 
 gegen [letzte Entscheidung — Datum, Az., Gericht — und alle vorhergehenden]
 
-## I. Antraege
+## I. Anträge
 
-1. Das Urteil/den Beschluss [Az.] wird aufgehoben; die Sache wird zur erneuten Entscheidung an das [Gericht] zurueckverwiesen.
+1. Das Urteil/den Beschluss [Az.] wird aufgehoben; die Sache wird zur erneuten Entscheidung an das [Gericht] zurückverwiesen.
 
-2. Es wird festgestellt, dass [Norm/Akt der oeffentlichen Gewalt] den Beschwerdefuehrer in seinen Grundrechten aus Art. [Nr.] GG verletzt.
+2. Es wird festgestellt, dass [Norm/Akt der öffentlichen Gewalt] den Beschwerdeführer in seinen Grundrechten aus Art. [Nr.] GG verletzt.
 
-3. Hilfsantraege ggf.
+3. Hilfsanträge ggf.
 
-4. Auslagenerstattung nach $ 34a BVerfGG.
+4. Auslagenerstattung nach Paragraf 34a BVerfGG.
 
-## II. Zulaessigkeit
+## II. Zulässigkeit
 
-1. Beschwerdefaehigkeit: [Persoenliche Grundrechtstraegerschaft, ggf. inlaendische jur. Person]
+1. Beschwerdefähigkeit: [Persönliche Grundrechtsträgerschaft, ggf. inländische jur. Person]
 
-2. Beschwerdegegenstand: [konkreter Akt der oeffentl. Gewalt]
+2. Beschwerdegegenstand: [konkreter Akt der öffentl.. Gewalt]
 
-3. Beschwerdebefugnis: [eigene, gegenwaertige, unmittelbare Betroffenheit; substantiierte Moeglichkeit der Grundrechtsverletzung]
+3. Beschwerdebefugnis: [eigene, gegenwärtige, unmittelbare Betroffenheit; substantiierte Möglichkeit der Grundrechtsverletzung]
 
-4. Rechtswegerschoepfung $ 90 II 1 BVerfGG: [Instanzenzug erschoepft] / Subsidiaritaet
+4. Rechtswegerschöpfung Paragraf 90 II 1 BVerfGG: [Instanzenzug erschöpft] / Subsidiarität
 
-5. Frist $ 93 I BVerfGG: 1 Monat ab Zustellung der letzten Entscheidung
+5. Frist Paragraf 93 I BVerfGG: 1 Monat ab Zustellung der letzten Entscheidung
 
-6. Form $ 23 BVerfGG: Schriftform, Begruendung, Unterschrift
+6. Form Paragraf 23 BVerfGG: Schriftform, Begründung, Unterschrift
 
-## III. Begruendetheit — Aufbau Stufenpruefung
+## III. Begründetheit — Aufbau Stufenprüfung
 
-1. **Schutzbereich** des einschlaegigen Grundrechts (persoenlich + sachlich)
+1. **Schutzbereich** des einschlägigen Grundrechts (persönlich + sachlich)
 
 2. **Eingriff** (klassisch + modern)
 
-3. **Rechtfertigung** — Schranke + Schranken-Schranken (Verhaeltnismaessigkeit):
+3. **Rechtfertigung** — Schranke + Schranken-Schranken (Verhältnismäßigkeit):
 
    a) legitimer Zweck
 
@@ -62,9 +56,9 @@ gegen [letzte Entscheidung — Datum, Az., Gericht — und alle vorhergehenden]
 
    c) Erforderlichkeit
 
-   d) Angemessenheit (Abwaegung mit triadischer Skala nach Alexy — siehe Skill abwaegungsgesetz-und-gewichtsformel-alexy im Verhaeltnismaessigkeitspruefer-Plugin)
+   d) Angemessenheit (Abwägung mit triadischer Skala nach Alexy — siehe Skill abwaegungsgesetz-und-gewichtsformel-alexy im Verhältnismäßigkeitsprüfer-Plugin)
 
-Verweis auf einschlaegige BVerfG-Linien (Apotheken BVerfGE 7, 377 / Volkszaehlung 65, 1 / Klimaschutz 157, 30 / Bundesnotbremse 159, 223 — live verifizieren).
+Verweis auf einschlägige BVerfG-Linien (Apotheken BVerfGE 7, 377 / Volkszählung 65, 1 / Klimaschutz 157, 30 / Bundesnotbremse 159, 223 — live verifizieren).
 
 ## IV. Anlagen
 
@@ -72,13 +66,11 @@ VB1: letzte Entscheidung
 
 VB2: vorhergehende Entscheidungen
 
-VB3: Schriftsaetze des Beschwerdefuehrers im Verfahren
+VB3: Schriftsätze des Beschwerdeführers im Verfahren
 
 VB4: Vollmacht
 
-VB5: einschlaegige Norm-Texte
-
-
+VB5: einschlägige Norm-Texte
 
 [Ort], [Datum]
 
@@ -86,12 +78,19 @@ _______________________________
 
 [Anwalt]
 
+## Verwendungskontrolle
+
+- Beschwerdegegenstand, Beschwerdeführer, Frist, Rechtswegerschöpfung und Subsidiarität vor jeder Grundrechtsprüfung sichern.
+- Grundrechtsverletzung anhand Schutzbereich, Eingriff und verfassungsrechtlicher Rechtfertigung aufbauen.
+- Annahmevoraussetzungen, besondere Bedeutung und schwerer Nachteil ausdrücklich adressieren.
+- Anlagen nach Entscheidungsinstanzen, Zustellnachweisen und fachgerichtlichem Vortrag ordnen.
+
 ---
 
-**Felder im Template** (vor Verwendung ausfuellen):
+## Ausfüllfelder
 
-- `[Beschwerdefuehrer]`
-- `[einschlaegiges Grundrecht Art.]`
+- `[Beschwerdeführer]`
+- `[einschlägiges Grundrecht Art.]`
 - `[letztinstanzliche Entscheidung]`
 - `[Az.]`
 - `[Rechtsweg]`

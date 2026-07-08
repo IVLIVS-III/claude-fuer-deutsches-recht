@@ -1,44 +1,42 @@
-> *Achtung: Dies ist eine experimentelle Arbeitsvorlage. Keine Haftung, keine Gewähr. Nur zum Ausprobieren der Workflows; keine Rechtsberatung. Vor jeder Verwendung im Mandat anwaltlich prüfen.*
+> *Achtung: Diese Arbeitsvorlage ist eine Prüf- und Formulierungshilfe. Keine Haftung, keine Gewähr, keine Rechtsberatung. Vor Verwendung im Mandat Sachverhalt, Fristen, Zuständigkeit, Normstand, Rechtsprechung und Anlagen eigenständig prüfen.*
 
-# Glaeubigerantrag ($ 14 InsO)
+# Gläubigerantrag (Paragraf 14 InsO)
 
 An das Amtsgericht [Ort] — Insolvenzgericht —
 
 [Anschrift]
 
-**Antrag auf Eroeffnung des Insolvenzverfahrens**
+**Antrag auf Eröffnung des Insolvenzverfahrens**
 
-des Glaeubigers
+des Gläubigers
 
-[Glaeubiger Name/Firma], [Anschrift], vertreten durch [Anwalt/Anwaeltin]
+[Gläubiger Name/Firma], [Anschrift], vertreten durch [Anwalt/Anwältin]
 
+über das Vermögen
 
-
-ueber das Vermoegen
-
-der [Schuldner Firma], [HR-Eintragung], gesetzl. Vertretung [Name], Geschaeftsanschrift [Anschrift]
+der [Schuldner Firma], [HR-Eintragung], gesetzl. Vertretung [Name], Geschäftsanschrift [Anschrift]
 
 — Schuldner —
 
 ## 1. Antrag
 
-Es wird beantragt, das Insolvenzverfahren ueber das Vermoegen der Schuldnerin zu eroeffnen ($ 14 InsO).
+Es wird beantragt, das Insolvenzverfahren über das Vermögen der Schuldnerin zu eröffnen (Paragraf 14 InsO).
 
-## 2. Forderung des Glaeubigers
+## 2. Forderung des Gläubigers
 
-Der Glaeubiger hat gegen die Schuldnerin eine faellige und vollstreckbare Forderung in Hoehe von [Betrag] EUR. Sie ergibt sich aus [Rechtsgrund, z. B. Werklohnforderung, Mietruckstand, Darlehensrueckzahlung].
+Der Gläubiger hat gegen die Schuldnerin eine fällige und vollstreckbare Forderung in Höhe von [Betrag] EUR. Sie ergibt sich aus [Rechtsgrund, z. B. Werklohnforderung, Mietruckstand, Darlehensrückzahlung].
 
-Belege: vollstreckbarer Titel (Anlage A1: [z. B. Versaeumnisurteil LG (Ort) (Az.) vom (Datum)]) und Mahnungen Anlage A2, A3.
+Belege: vollstreckbarer Titel (Anlage A1: [z. B. Versäumnisurteil LG (Ort) (Az.) vom (Datum)]) und Mahnungen Anlage A2, A3.
 
-## 3. Eroeffnungsgrund
+## 3. Eröffnungsgrund
 
-[Option A — Zahlungsunfaehigkeit $ 17 InsO:] Die Schuldnerin ist zahlungsunfaehig. Trotz Mahnung und Vollstreckungsversuch ist die titulierte Forderung nicht beglichen. Vollstreckungsversuch durch Gerichtsvollzieher [Name] am [Datum] erfolglos (Anlage A4 — Pfaendungsprotokoll). Damit ist die Zahlungsunfaehigkeit indiziert ($ 17 Abs. 2 Satz 2 InsO).
+[Option A — Zahlungsunfähigkeit Paragraf 17 InsO:] Die Schuldnerin ist zahlungsunfähig. Trotz Mahnung und Vollstreckungsversuch ist die titulierte Forderung nicht beglichen. Vollstreckungsversuch durch Gerichtsvollzieher [Name] am [Datum] erfolglos (Anlage A4 — Pfändungsprotokoll). Damit ist die Zahlungsunfähigkeit indiziert (Paragraf 17 Abs. 2 Satz 2 InsO).
 
-[Option B — Drohende Zahlungsunfaehigkeit / Ueberschuldung:] Aus folgenden Tatsachen ergibt sich Ueberschuldung gem. $ 19 InsO: [Liquiditaetsplan, Bilanzbild, Verbindlichkeiten-Saldenliste].
+[Option B — Drohende Zahlungsunfähigkeit / Überschuldung:] Aus folgenden Tatsachen ergibt sich Überschuldung gem. Paragraf 19 InsO: [Liquiditätsplan, Bilanzbild, Verbindlichkeiten-Saldenliste].
 
-## 4. Rechtsschutzbeduerfnis
+## 4. Rechtsschutzbedürfnis
 
-Das rechtliche Interesse des Glaeubigers an der Verfahrenseroeffnung besteht darin, dass die Forderung im Falle eines Wettbewerbs einer geordneten anteiligen Befriedigung zugefuehrt wird ($$ 174 ff. InsO).
+Das rechtliche Interesse des Gläubigers an der Verfahrenseröffnung besteht darin, dass die Forderung im Falle eines Wettbewerbs einer geordneten anteiligen Befriedigung zugeführt wird (Paragrafen 174 ff. InsO).
 
 ## 5. Anlagen
 
@@ -54,18 +52,23 @@ Das rechtliche Interesse des Glaeubigers an der Verfahrenseroeffnung besteht dar
 
 [Ort], [Datum]
 
-
-
 _______________________________
 
-[Rechtsanwalt/Rechtsanwaeltin]
+[Rechtsanwalt/Rechtsanwältin]
+
+## Verwendungskontrolle
+
+- Forderung, Fälligkeit, Glaubhaftmachung, Titelstand und Vollstreckungsversuche streng voneinander trennen.
+- Insolvenzgrund nicht behaupten, sondern mit Zahlungseinstellung, erfolgloser Vollstreckung oder weiteren Indizien belegen.
+- Missbrauchsrisiko, Kostenvorschuss und Rücknahmestrategie vor Einreichung mit dem Gläubiger klären.
+- Anlagen so ordnen, dass Forderung und Insolvenzindiz jeweils ohne Suche nachvollziehbar sind.
 
 ---
 
-**Felder im Template** (vor Verwendung ausfuellen):
+## Ausfüllfelder
 
-- `[Glaeubiger Name/Firma + Anschrift]`
+- `[Gläubiger Name/Firma + Anschrift]`
 - `[Schuldner + HR + Anschrift]`
 - `[Forderungsbetrag]`
 - `[Rechtsgrund + Titel-Daten]`
-- `[Eroeffnungsgrund]`
+- `[Eröffnungsgrund]`

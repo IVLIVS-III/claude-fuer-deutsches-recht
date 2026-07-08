@@ -1,108 +1,99 @@
-> *Achtung: Dies ist eine experimentelle Arbeitsvorlage. Keine Haftung, keine Gewähr. Nur zum Ausprobieren der Workflows; keine Rechtsberatung. Vor jeder Verwendung im Mandat anwaltlich prüfen.*
+> *Achtung: Diese Arbeitsvorlage ist eine Prüf- und Formulierungshilfe. Keine Haftung, keine Gewähr, keine Rechtsberatung. Vor Verwendung im Mandat Sachverhalt, Fristen, Zuständigkeit, Normstand, Rechtsprechung und Anlagen eigenständig prüfen.*
 
-# Aufhebungsvertrag (Arbeitsverhaeltnis)
-
-
+# Aufhebungsvertrag (Arbeitsverhältnis)
 
 **Aufhebungsvertrag**
 
-
-
 zwischen
-
-
 
 [Firma der Arbeitgeberin] GmbH/AG, [Anschrift], vertreten durch [gesetzl. Vertreter]
 
 - nachfolgend "Arbeitgeber" -
 
-
-
 und
-
-
 
 [Vorname Nachname Arbeitnehmer], geboren [Geburtsdatum], [Anschrift]
 
 - nachfolgend "Arbeitnehmer" -
 
+## Präambel
 
+Die Parteien sind sich darüber einig, dass das Arbeitsverhältnis im beiderseitigen Einvernehmen beendet wird, um eine streitige Auseinandersetzung zu vermeiden. Die Initiative zur Beendigung geht von [Arbeitgeber/Arbeitnehmer] aus.
 
-## Praeambel
+## Paragraf 1 Beendigung des Arbeitsverhältnisses
 
-Die Parteien sind sich darueber einig, dass das Arbeitsverhaeltnis im beiderseitigen Einvernehmen beendet wird, um eine streitige Auseinandersetzung zu vermeiden. Die Initiative zur Beendigung geht von [Arbeitgeber/Arbeitnehmer] aus.
+(1) Das zwischen den Parteien bestehende Arbeitsverhältnis vom [Eintrittsdatum] endet aus betriebsbedingten Gründen im gegenseitigen Einvernehmen mit Ablauf des [Beendigungsdatum].
 
-## $ 1 Beendigung des Arbeitsverhaeltnisses
+(2) [Wenn unwiderrufliche Freistellung gewünscht:] Der Arbeitnehmer wird ab [Freistellungsdatum] unter Fortzahlung der vereinbarten Vergütung und unter Anrechnung von Resturlaub und Zeitguthaben unwiderruflich von der Arbeitsleistung freigestellt. Etwaige Zwischenverdienste werden gemäß Paragraf 615 Satz 2 BGB angerechnet/nicht angerechnet [Streichung markieren].
 
-(1) Das zwischen den Parteien bestehende Arbeitsverhaeltnis vom [Eintrittsdatum] endet aus betriebsbedingten Gruenden im gegenseitigen Einvernehmen mit Ablauf des [Beendigungsdatum].
+<<Hinweis: Pauschale formularmäßige Freistellungsklauseln sind nach Rechtsprechungslinie des BAG (zuletzt 25.03.2026 - 5 AZR 108/25, live verifizieren) AGB-rechtlich kritisch. Im Einzelvertrag mit konkretem Anlass dagegen unproblematisch.>>
 
-(2) [Wenn unwiderrufliche Freistellung gewuenscht:] Der Arbeitnehmer wird ab [Freistellungsdatum] unter Fortzahlung der vereinbarten Verguetung und unter Anrechnung von Resturlaub und Zeitguthaben unwiderruflich von der Arbeitsleistung freigestellt. Etwaige Zwischenverdienste werden gemaess $ 615 Satz 2 BGB angerechnet/nicht angerechnet [Streichung markieren].
+## Paragraf 2 Abfindung
 
-<<Hinweis: Pauschale formularmaessige Freistellungsklauseln sind nach Rechtsprechungslinie des BAG (zuletzt 25.03.2026 - 5 AZR 108/25, live verifizieren) AGB-rechtlich kritisch. Im Einzelvertrag mit konkretem Anlass dagegen unproblematisch.>>
+(1) Der Arbeitgeber zahlt dem Arbeitnehmer als Ausgleich für den Verlust des Arbeitsplatzes eine einmalige Abfindung in Höhe von [Betrag] EUR brutto entsprechend Paragraf 24 Nr. 1 EStG (Paragraf 34 EStG Fünftelregelung).
 
-## $ 2 Abfindung
+(2) Die Abfindung ist fällig mit Beendigung des Arbeitsverhältnisses und wird auf das dem Arbeitgeber bekannte Gehaltskonto des Arbeitnehmers überwiesen.
 
-(1) Der Arbeitgeber zahlt dem Arbeitnehmer als Ausgleich fuer den Verlust des Arbeitsplatzes eine einmalige Abfindung in Hoehe von [Betrag] EUR brutto entsprechend $ 24 Nr. 1 EStG ($ 34 EStG Fuenftelregelung).
+(3) <<Hinweis: Steuerbegünstigung nach Paragraf 34 EStG nur, wenn Auszahlung zusammengeballt in einem Veranlagungszeitraum erfolgt. Bei Splitting in zwei Jahre fällt Privileg weg.>>
 
-(2) Die Abfindung ist faellig mit Beendigung des Arbeitsverhaeltnisses und wird auf das dem Arbeitgeber bekannte Gehaltskonto des Arbeitnehmers ueberwiesen.
+## Paragraf 3 Resturlaub und Zeitguthaben
 
-(3) <<Hinweis: Steuerbegunstigung nach $ 34 EStG nur, wenn Auszahlung zusammengeballt in einem Veranlagungszeitraum erfolgt. Bei Splitting in zwei Jahre faellt Privileg weg.>>
+(1) Der Arbeitnehmer hat zum Beendigungsdatum noch [Anzahl] Tage Resturlaub. Dieser wird [in natura während der Freistellung gewährt / mit Beendigung in Geld abgegolten in Höhe von [Betrag] EUR].
 
-## $ 3 Resturlaub und Zeitguthaben
+(2) Hinsichtlich des gesetzlichen Mindesturlaubs gilt: Im bestehenden Arbeitsverhältnis kann auf den gesetzlichen Mindesturlaub nicht wirksam verzichtet werden (BAG-Linie 03.06.2025 - 9 AZR 104/24, live verifizieren); vertraglicher Mehrurlaub und Urlaubsabgeltung nach Beendigung sind disponibel.
 
-(1) Der Arbeitnehmer hat zum Beendigungsdatum noch [Anzahl] Tage Resturlaub. Dieser wird [in natura waehrend der Freistellung gewaehrt / mit Beendigung in Geld abgegolten in Hoehe von [Betrag] EUR].
+## Paragraf 4 Vergütung, Variable, Boni
 
-(2) Hinsichtlich des gesetzlichen Mindesturlaubs gilt: Im bestehenden Arbeitsverhaeltnis kann auf den gesetzlichen Mindesturlaub nicht wirksam verzichtet werden (BAG-Linie 03.06.2025 - 9 AZR 104/24, live verifizieren); vertraglicher Mehrurlaub und Urlaubsabgeltung nach Beendigung sind disponibel.
+(1) Bis zum Beendigungsdatum erhält der Arbeitnehmer die vertraglich vereinbarte Vergütung ungekürzt.
 
-## $ 4 Verguetung, Variable, Boni
+(2) Variable Vergütungsbestandteile, Tantiemen und Boni werden anteilig (pro rata temporis) abgerechnet. Bemessungszeitraum: [Jan-Dez/Geschäftsjahr]; Stichtag: [Beendigungsdatum].
 
-(1) Bis zum Beendigungsdatum erhaelt der Arbeitnehmer die vertraglich vereinbarte Verguetung ungekuerzt.
+## Paragraf 5 Sperrzeit Arbeitslosengeld
 
-(2) Variable Verguetungsbestandteile, Tantiemen und Boni werden anteilig (pro rata temporis) abgerechnet. Bemessungszeitraum: [Jan-Dez/Geschaeftsjahr]; Stichtag: [Beendigungsdatum].
+Der Arbeitnehmer wurde vom Arbeitgeber/dem unterzeichnenden Rechtsanwalt darauf hingewiesen, dass der Aufhebungsvertrag eine Sperrzeit beim Arbeitslosengeld nach Paragraf 159 SGB III auslösen kann, soweit die Voraussetzungen vorliegen. Die Parteien empfehlen rechtzeitige Vorsprache bei der Agentur für Arbeit.
 
-## $ 5 Sperrzeit Arbeitslosengeld
+## Paragraf 6 Wettbewerbsverbot, Geheimhaltung, Datenrückgabe
 
-Der Arbeitnehmer wurde vom Arbeitgeber/dem unterzeichnenden Rechtsanwalt darauf hingewiesen, dass der Aufhebungsvertrag eine Sperrzeit beim Arbeitslosengeld nach $ 159 SGB III ausloesen kann, soweit die Voraussetzungen vorliegen. Die Parteien empfehlen rechtzeitige Vorsprache bei der Agentur fuer Arbeit.
+(1) Ein nachvertragliches Wettbewerbsverbot ist [vereinbart und folgt aus dem Arbeitsvertrag vom (Datum) / wird mit Beendigung des Arbeitsverhältnisses einvernehmlich aufgehoben].
 
-## $ 6 Wettbewerbsverbot, Geheimhaltung, Datenrueckgabe
+(2) Die Verschwiegenheitspflichten aus dem Arbeitsvertrag und dem GeschGehG bleiben über das Vertragsende hinaus bestehen.
 
-(1) Ein nachvertragliches Wettbewerbsverbot ist [vereinbart und folgt aus dem Arbeitsvertrag vom (Datum) / wird mit Beendigung des Arbeitsverhaeltnisses einvernehmlich aufgehoben].
+(3) Der Arbeitnehmer gibt sämtliche Arbeitsmittel, Firmenfahrzeug, Laptop, Schlüssel, Datenträger und Unterlagen mit dem Beendigungsdatum zurück.
 
-(2) Die Verschwiegenheitspflichten aus dem Arbeitsvertrag und dem GeschGehG bleiben ueber das Vertragsende hinaus bestehen.
+## Paragraf 7 Zeugnis
 
-(3) Der Arbeitnehmer gibt saemtliche Arbeitsmittel, Firmenfahrzeug, Laptop, Schluessel, Datentraeger und Unterlagen mit dem Beendigungsdatum zurueck.
+Der Arbeitgeber erteilt dem Arbeitnehmer ein qualifiziertes Arbeitszeugnis (Paragraf 109 GewO). Inhalt und Wortlaut werden in einer Anlage zu diesem Vertrag oder bis spätestens [Datum] separat abgestimmt. Bei Streitigkeiten zum Wortlaut gilt die BAG-Linie zur Beweislast (live verifizieren auf bundesarbeitsgericht.de).
 
-## $ 7 Zeugnis
+## Paragraf 8 Erledigungsklausel
 
-Der Arbeitgeber erteilt dem Arbeitnehmer ein qualifiziertes Arbeitszeugnis ($ 109 GewO). Inhalt und Wortlaut werden in einer Anlage zu diesem Vertrag oder bis spaetestens [Datum] separat abgestimmt. Bei Streitigkeiten zum Wortlaut gilt die BAG-Linie zur Beweislast (live verifizieren auf bundesarbeitsgericht.de).
+(1) Mit Erfüllung dieses Vertrages sind sämtliche wechselseitigen Ansprüche der Parteien aus dem Arbeitsverhältnis - gleich aus welchem Rechtsgrund, ob bekannt oder unbekannt - abschliessend erledigt.
 
-## $ 8 Erledigungsklausel
+(2) Hiervon ausgenommen sind: a) Anspruch auf das qualifizierte Arbeitszeugnis (Paragraf 7), b) Anspruch auf Auskunft und Auszahlung des nicht abgelösten gesetzlichen Mindesturlaubs (BAG 03.06.2025 - 9 AZR 104/24), c) Ansprüche aus der betrieblichen Altersversorgung, d) unverjährte Ansprüche aus vorsätzlichen Pflichtverletzungen.
 
-(1) Mit Erfuellung dieses Vertrages sind saemtliche wechselseitigen Ansprueche der Parteien aus dem Arbeitsverhaeltnis - gleich aus welchem Rechtsgrund, ob bekannt oder unbekannt - abschliessend erledigt.
+## Paragraf 9 Schlussbestimmungen
 
-(2) Hiervon ausgenommen sind: a) Anspruch auf das qualifizierte Arbeitszeugnis ($ 7), b) Anspruch auf Auskunft und Auszahlung des nicht abgeloesten gesetzlichen Mindesturlaubs (BAG 03.06.2025 - 9 AZR 104/24), c) Ansprueche aus der betrieblichen Altersversorgung, d) unverjaehrte Ansprueche aus vorsaetzlichen Pflichtverletzungen.
+(1) Änderungen und Ergänzungen bedurfen der Schriftform; das gilt auch für die Änderung dieser Schriftformklausel.
 
-## $ 9 Schlussbestimmungen
+(2) Sollten einzelne Bestimmungen unwirksam sein, bleibt der Vertrag im Übrigen wirksam. Die unwirksame Bestimmung ist durch eine wirksame zu ersetzen, die dem wirtschaftlichen Zweck möglichst nahe kommt.
 
-(1) Aenderungen und Ergaenzungen bedurfen der Schriftform; das gilt auch fuer die Aenderung dieser Schriftformklausel.
-
-(2) Sollten einzelne Bestimmungen unwirksam sein, bleibt der Vertrag im Uebrigen wirksam. Die unwirksame Bestimmung ist durch eine wirksame zu ersetzen, die dem wirtschaftlichen Zweck moeglichst nahe kommt.
-
-(3) Gerichtsstand fuer Streitigkeiten aus diesem Vertrag ist [Sitz Arbeitgeber], soweit gesetzlich zulaessig.
-
-
+(3) Gerichtsstand für Streitigkeiten aus diesem Vertrag ist [Sitz Arbeitgeber], soweit gesetzlich zulässig.
 
 [Ort], den [Datum]
-
-
 
 _______________________________     _______________________________
 
 Arbeitgeber                                                  Arbeitnehmer
 
+## Verwendungskontrolle
+
+- Sperrzeit-, Ruhens-, Steuer- und Sozialversicherungsfolgen vor Unterzeichnung gesondert beraten und dokumentieren.
+- Beendigungsdatum, Abfindungsformel, variable Vergütung, Urlaub, Freistellung und Rückgabegegenstände rechnerisch abgleichen.
+- Zeugnis, Turboklausel, Verschwiegenheit, Ausgleichsklausel und Wettbewerbsfragen bewusst wählen.
+- Bedenkzeit, Vertretungsmacht und Drucksituation festhalten, damit kein späterer Anfechtungsangriff offen bleibt.
+
 ---
 
-**Felder im Template** (vor Verwendung ausfuellen):
+## Ausfüllfelder
 
 - `[Firma der Arbeitgeberin]`
 - `[Anschrift Arbeitgeber]`

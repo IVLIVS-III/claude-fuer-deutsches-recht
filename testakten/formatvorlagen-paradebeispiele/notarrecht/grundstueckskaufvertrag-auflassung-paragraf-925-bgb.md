@@ -1,89 +1,92 @@
-> *Achtung: Dies ist eine experimentelle Arbeitsvorlage. Keine Haftung, keine Gewähr. Nur zum Ausprobieren der Workflows; keine Rechtsberatung. Vor jeder Verwendung im Mandat anwaltlich prüfen.*
+> *Achtung: Diese Arbeitsvorlage ist eine Prüf- und Formulierungshilfe. Keine Haftung, keine Gewähr, keine Rechtsberatung. Vor Verwendung im Mandat Sachverhalt, Fristen, Zuständigkeit, Normstand, Rechtsprechung und Anlagen eigenständig prüfen.*
 
-# Grundstueckskaufvertrag mit Auflassung ($ 925 BGB)
-
-
+# Grundstückskaufvertrag mit Auflassung (Paragraf 925 BGB)
 
 **NOTARIELLE URKUNDE**
 
-Grundstueckskaufvertrag mit Auflassung
+Grundstückskaufvertrag mit Auflassung
 
 UR-Nr. [Nr.] / [Jahr]
 
 Heute, am [Datum], erschienen vor mir, dem unterzeichneten Notar [Name] mit Amtssitz in [Ort],
 
-1. Herr/Frau [Verkaeufer Vorname Nachname], geboren am [Datum], wohnhaft [Anschrift] — nachfolgend "Verkaeufer" —
+1. Herr/Frau [Verkäufer Vorname Nachname], geboren am [Datum], wohnhaft [Anschrift] — nachfolgend "Verkäufer" —
 
-2. Herr/Frau [Kaeufer Vorname Nachname], geboren am [Datum], wohnhaft [Anschrift] — nachfolgend "Kaeufer" —
+2. Herr/Frau [Käufer Vorname Nachname], geboren am [Datum], wohnhaft [Anschrift] — nachfolgend "Käufer" —
 
-Die Erschienenen sind ueber ihre Identitaet, die rechtlichen Folgen sowie die Belehrung nach $ 17 BeurkG aufgeklaert.
+Die Erschienenen sind über ihre Identität, die rechtlichen Folgen sowie die Belehrung nach Paragraf 17 BeurkG aufgeklärt.
 
-## $ 1 Vertragsgegenstand
+## Paragraf 1 Vertragsgegenstand
 
-Vertragsgegenstand ist das im Grundbuch von [Grundbuchamt], Bd. [Bd.], Bl. [Bl.], eingetragene Grundstueck:
+Vertragsgegenstand ist das im Grundbuch von [Grundbuchamt], Bd. [Bd.], Bl. [Bl.], eingetragene Grundstück:
 
-Flur [Nr.], Flurstueck [Nr.], Wirtschaftsart [Bebauung], Groesse [m2], Lage [Adresse].
+Flur [Nr.], Flurstück [Nr.], Wirtschaftsart [Bebauung], Größe [m2], Lage [Adresse].
 
-## $ 2 Kaufpreis und Zahlungsmodalitaeten
+## Paragraf 2 Kaufpreis und Zahlungsmodalitäten
 
-(1) Der Kaufpreis betraegt [Betrag] EUR (in Worten: [...]). Er wird faellig nach Vorliegen folgender Voraussetzungen ($ 873 II BGB):
+(1) Der Kaufpreis beträgt [Betrag] EUR (in Worten: [...]). Er wird fällig nach Vorliegen folgender Voraussetzungen (Paragraf 873 II BGB):
 
-- Eintragung Auflassungsvormerkung zugunsten Kaeufer ($ 883 BGB)
+- Eintragung Auflassungsvormerkung zugunsten Käufer (Paragraf 883 BGB)
 
-- Loeschungsbewilligung bestehender Belastungen oder Nachweis Uebernahme
+- Löschungsbewilligung bestehender Belastungen oder Nachweis Übernahme
 
-- Vorkaufsrechts-Verzichtserklaerung Gemeinde ($ 28 BauGB)
+- Vorkaufsrechts-Verzichtserklärung Gemeinde (Paragraf 28 BauGB)
 
 - Negativattest oder GrESt-Bescheid
 
-(2) Zahlung auf Notar-Anderkonto / direkt: [Variante]. Verzugszinsen 9 % ueber Basiszins ($ 288 II BGB).
+(2) Zahlung auf Notar-Anderkonto / direkt: [Variante]. Verzugszinsen 9 % über Basiszins (Paragraf 288 II BGB).
 
-## $ 3 Lastenfreiheit und Uebernahme
+## Paragraf 3 Lastenfreiheit und Übernahme
 
-(1) Der Verkaeufer steht dafuer ein, dass das Vertragsobjekt im Zeitpunkt der Umschreibung frei von im Grundbuch nicht ersichtlichen Belastungen ist.
+(1) Der Verkäufer steht dafür ein, dass das Vertragsobjekt im Zeitpunkt der Umschreibung frei von im Grundbuch nicht ersichtlichen Belastungen ist.
 
-(2) Im Grundbuch eingetragene Belastungen [Abt. II / III] werden [zur Loeschung gebracht / vom Kaeufer uebernommen mit Anrechnung auf den Kaufpreis].
+(2) Im Grundbuch eingetragene Belastungen [Abt. II / III] werden [zur Löschung gebracht / vom Käufer übernommen mit Anrechnung auf den Kaufpreis].
 
-## $ 4 Gewaehrleistung
+## Paragraf 4 Gewährleistung
 
-(1) Die Vertragsparteien sind sich einig, dass die Gewaehrleistung fuer Sachmaengel ausgeschlossen wird ($ 444 BGB Vorsatz/Garantie ausgenommen).
+(1) Die Vertragsparteien sind sich einig, dass die Gewährleistung für Sachmängel ausgeschlossen wird (Paragraf 444 BGB Vorsatz/Garantie ausgenommen).
 
-(2) Der Verkaeufer versichert, ihm seien keine versteckten Maengel — insbesondere Altlasten, Bodenkontaminationen, Hausschwamm — bekannt.
+(2) Der Verkäufer versichert, ihm seien keine versteckten Mängel — insbesondere Altlasten, Bodenkontaminationen, Hausschwamm — bekannt.
 
-(3) Bei vorsaetzlichem Verschweigen wesentlicher Maengel ($ 444 BGB) bleibt die Haftung unberuehrt.
+(3) Bei vorsätzlichem Verschweigen wesentlicher Mängel (Paragraf 444 BGB) bleibt die Haftung unberührt.
 
-## $ 5 Nutzen-, Lasten- und Gefahrenuebergang
+## Paragraf 5 Nutzen-, Lasten- und Gefahrenübergang
 
-Mit vollstaendiger Kaufpreiszahlung gehen Besitz, Nutzungen, Lasten und Gefahr ($ 446 BGB) auf den Kaeufer ueber. Der Verkaeufer raeumt das Grundstueck bis zum [Datum] vollstaendig.
+Mit vollständiger Kaufpreiszahlung gehen Besitz, Nutzungen, Lasten und Gefahr (Paragraf 446 BGB) auf den Käufer über. Der Verkäufer räumt das Grundstück bis zum [Datum] vollständig.
 
-## $ 6 Auflassung
+## Paragraf 6 Auflassung
 
-Die Vertragsparteien sind sich einig, dass das Eigentum an dem Vertragsobjekt vom Verkaeufer auf den Kaeufer uebergeht. Sie bewilligen und beantragen die Eintragung dieser Eigentumsaenderung im Grundbuch ($ 925 BGB).
+Die Vertragsparteien sind sich einig, dass das Eigentum an dem Vertragsobjekt vom Verkäufer auf den Käufer übergeht. Sie bewilligen und beantragen die Eintragung dieser Eigentumsänderung im Grundbuch (Paragraf 925 BGB).
 
-## $ 7 Vollmacht, Vollzugsklausel, Kostenverteilung
+## Paragraf 7 Vollmacht, Vollzugsklausel, Kostenverteilung
 
-(1) Der Notar wird beauftragt und bevollmaechtigt, saemtliche Vollzugshandlungen vorzunehmen.
+(1) Der Notar wird beauftragt und bevollmächtigt, sämtliche Vollzugshandlungen vorzunehmen.
 
-(2) Kosten: Notarkosten, Grundbuchgebuehren, Grunderwerbsteuer traegt der Kaeufer (Standard). Loeschungsgebuehren bestehender Belastungen traegt der Verkaeufer.
+(2) Kosten: Notarkosten, Grundbuchgebühren, Grunderwerbsteuer trägt der Käufer (Standard). Löschungsgebühren bestehender Belastungen trägt der Verkäufer.
 
-(3) Die Beurkundungsurkunde wurde den Erschienenen vorgelesen, von ihnen genehmigt und eigenhaendig unterzeichnet.
-
-
+(3) Die Beurkundungsurkunde wurde den Erschienenen vorgelesen, von ihnen genehmigt und eigenhändig unterzeichnet.
 
 [Ort], [Datum]
 
 _______________   _______________   _______________
 
-Verkaeufer            Kaeufer               Notar
+Verkäufer            Käufer               Notar
+
+## Verwendungskontrolle
+
+- Grundbuch, Beteiligtenidentität, Vertretungsmacht, Belastungen und Vorkaufsrechte vor Beurkundung prüfen.
+- Fälligkeitsvoraussetzungen, Vormerkung, Lastenfreistellung, Grunderwerbsteuer und Kaufpreisfluss synchronisieren.
+- Altlasten, Mängel, Besitzübergang, Räumung und Versicherungswechsel konkret regeln.
+- Vollzugsvollmachten, Kosten, Genehmigungen und Belehrungen nach BeurkG vollständig dokumentieren.
 
 ---
 
-**Felder im Template** (vor Verwendung ausfuellen):
+## Ausfüllfelder
 
 - `[Notar Name]`
 - `[Notar Sitz]`
-- `[Verkaeufer/Kaeufer Daten]`
+- `[Verkäufer/Käufer Daten]`
 - `[Grundbuchdaten]`
 - `[Kaufpreis]`
 - `[Belastungs-Variante]`
-- `[Raeumungs-Datum]`
+- `[Räumungs-Datum]`

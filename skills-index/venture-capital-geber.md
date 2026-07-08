@@ -1,6 +1,6 @@
 # venture-capital-geber
 
-**105 Skills** · Stand `v429.7.0`
+**105 Skills** · Stand `v429.9.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/venture-capital-geber/README.md)

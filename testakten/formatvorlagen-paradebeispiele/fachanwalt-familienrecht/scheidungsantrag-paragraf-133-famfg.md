@@ -1,24 +1,18 @@
-> *Achtung: Dies ist eine experimentelle Arbeitsvorlage. Keine Haftung, keine Gewähr. Nur zum Ausprobieren der Workflows; keine Rechtsberatung. Vor jeder Verwendung im Mandat anwaltlich prüfen.*
+> *Achtung: Diese Arbeitsvorlage ist eine Prüf- und Formulierungshilfe. Keine Haftung, keine Gewähr, keine Rechtsberatung. Vor Verwendung im Mandat Sachverhalt, Fristen, Zuständigkeit, Normstand, Rechtsprechung und Anlagen eigenständig prüfen.*
 
-# Scheidungsantrag ($ 133 FamFG, $$ 1564 ff. BGB)
+# Scheidungsantrag (Paragraf 133 FamFG, Paragrafen 1564 ff. BGB)
 
 An das Amtsgericht — Familiengericht — [Ort]
 
 [Anschrift]
 
-
-
 **Scheidungsantrag**
-
-
 
 der [Vorname Nachname], geboren am [Datum], wohnhaft [Anschrift]
 
 — Antragstellerin —
 
-vertreten durch [Anwalt/Anwaeltin], [Kanzlei]
-
-
+vertreten durch [Anwalt/Anwältin], [Kanzlei]
 
 gegen
 
@@ -26,11 +20,11 @@ gegen
 
 — Antragsgegner —
 
-## Antraege
+## Anträge
 
-1. Die am [Eheschliessungsdatum] vor dem Standesamt [Ort], Reg.-Nr. [Nr.], geschlossene Ehe wird geschieden ($ 1564 BGB).
+1. Die am [Eheschließungsdatum] vor dem Standesamt [Ort], Reg.-Nr. [Nr.], geschlossene Ehe wird geschieden (Paragraf 1564 BGB).
 
-2. Im Verbund wird der Versorgungsausgleich durchgefuehrt ($ 137 II 2 FamFG i. V. m. VersAusglG).
+2. Im Verbund wird der Versorgungsausgleich durchgeführt (Paragraf 137 II 2 FamFG i. V. m. VersAusglG).
 
 3. [Optional: weitere Verbundsachen — Unterhalt, Zugewinn, elterliche Sorge, Hausrat]
 
@@ -38,11 +32,11 @@ gegen
 
 ## Sachverhalt
 
-Die Parteien sind seit dem [Eheschliessungsdatum] verheiratet. Kinder aus der Ehe: [Anzahl, Namen, Geburtsdaten — wenn keine: "Aus der Ehe sind keine gemeinsamen Kinder hervorgegangen."].
+Die Parteien sind seit dem [Eheschließungsdatum] verheiratet. Kinder aus der Ehe: [Anzahl, Namen, Geburtsdaten — wenn keine: "Aus der Ehe sind keine gemeinsamen Kinder hervorgegangen."].
 
-Die Parteien leben seit dem [Trennungsdatum] dauernd getrennt; das Trennungsjahr ist abgelaufen ($ 1567 BGB). Eine Wiederherstellung der ehelichen Lebensgemeinschaft ist nicht zu erwarten; die Ehe ist gescheitert ($ 1565 I BGB).
+Die Parteien leben seit dem [Trennungsdatum] dauernd getrennt; das Trennungsjahr ist abgelaufen (Paragraf 1567 BGB). Eine Wiederherstellung der ehelichen Lebensgemeinschaft ist nicht zu erwarten; die Ehe ist gescheitert (Paragraf 1565 I BGB).
 
-Die Antragstellerin und der Antragsgegner sind sich [einig / nicht einig] hinsichtlich der Scheidung. [Wenn einvernehmlich: Antragsgegner stimmt nach $ 1566 I BGB zu.]
+Die Antragstellerin und der Antragsgegner sind sich [einig / nicht einig] hinsichtlich der Scheidung. [Wenn einvernehmlich: Antragsgegner stimmt nach Paragraf 1566 I BGB zu.]
 
 ## Belege
 
@@ -50,7 +44,7 @@ Die Antragstellerin und der Antragsgegner sind sich [einig / nicht einig] hinsic
 
 - Anlage A2: Geburtsurkunden der Kinder (sofern vorhanden)
 
-- Anlage A3: Erklaerung Antragsgegner zur Scheidung (sofern liegt vor)
+- Anlage A3: Erklärung Antragsgegner zur Scheidung (sofern liegt vor)
 
 - Anlage A4: Auskunfts-Fragebogen Versorgungsausgleich (V10)
 
@@ -58,15 +52,22 @@ Die Antragstellerin und der Antragsgegner sind sich [einig / nicht einig] hinsic
 
 _______________________________
 
-[Rechtsanwalt/Rechtsanwaeltin]
+[Rechtsanwalt/Rechtsanwältin]
+
+## Verwendungskontrolle
+
+- Trennungsdatum, gewöhnlichen Aufenthalt, internationale Bezüge und Anwaltszwang vor Einreichung prüfen.
+- Versorgungsausgleich, Unterhalt, Zugewinn, Sorge und Umgang nur aufnehmen, wenn Verbund oder Auftrag das trägt.
+- Personenstandsurkunden, Heiratsurkunde und Geburtsurkunden der Kinder als Anlagen sauber bezeichnen.
+- Verfahrenskostenhilfe, Eilbedarf und Zustelladresse gesondert entscheiden.
 
 ---
 
-**Felder im Template** (vor Verwendung ausfuellen):
+## Ausfüllfelder
 
 - `[Antragstellerin Name, Geburtsdatum, Anschrift]`
 - `[Antragsgegner Name, Geburtsdatum, Anschrift]`
-- `[Eheschliessungsdatum]`
+- `[Eheschließungsdatum]`
 - `[Standesamt + Reg.-Nr.]`
 - `[Trennungsdatum]`
 - `[Kinder Namen + Geburtsdaten]`
