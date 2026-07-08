@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 53 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-gesellschafterdarlehen-cash-pool-regensburg_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-gesellschafterdarlehen-cash-pool-regensburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 182 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-gesellschafterdarlehen-cash-pool-regensburg_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-gesellschafterdarlehen-cash-pool-regensburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzanfechtung-gesellschafterdarlehen-cash-pool-regensburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-gesellschafterdarlehen-cash-pool-regensburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzanfechtung-gesellschafterdarlehen-cash-pool-regensburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-gesellschafterdarlehen-cash-pool-regensburg-einzelpdfs.zip) |
 
@@ -54,10 +54,26 @@ insolvenzanfechtung-gesellschafterdarlehen-cash-pool-regensburg/
 ├── 14_eroeffnungsbeschluss_ag_regensburg_2026-05-12.docx — Eröffnungsbeschluss AG Regensburg, 3 IN 152/26
 ├── 15_anfechtungsschreiben_verwalter_2026-06-08.docx — Anfechtung nach § 135 Abs. 1 Nr. 1 und Nr. 2 InsO mit Saldenberechnung (brutto/saldiert)
 ├── 16_antwortschreiben_konzern_2026-06-26.docx      — Konzernverteidigung: kein Darlehen, keine Bruttobetrachtung, alte Nachbesicherungsklausel
+├── 17_klageschrift_lg_regensburg_2026-09-02.docx     — Klageschrift auf Zahlung und Herausgabe des Maschinenparks
+├── 18_klageerwiderung_avr_2026-10-14.docx            — Klageerwiderung: reine Verrechnungsbeziehung, Nettobetrachtung, Nachbesicherungsklausel
+├── 19_replik_verwalter_2026-11-05.docx               — Replik: dingliche Sicherung erst 2025, Saldenabbau massgeblich
+├── 20_duplik_avr_2026-11-26.docx                     — Duplik mit Beweisantritt Sachverstaendigengutachten
+├── 21_beweisbeschluss_lg_regensburg_2026-12-15.docx  — Beweisbeschluss zu Krisenzeitpunkt und Maschinenparkbewertung
+├── 22_sachverstaendigengutachten_ruckdeschel_2027-03-10.docx — Gutachten: Krise bereits ab Maerz 2025, Uebersicherung bestaetigt
+├── 23_urteil_lg_regensburg_2027-06-22.docx           — Urteil: Verurteilung zu Zahlung und Herausgabe
+├── 24_kostenfestsetzungsbeschluss_2027-08-05.docx    — Kostenfestsetzung zugunsten des Verwalters
+├── 25_schlussvermerk_verwalter_2027-09-20.docx       — Abschliessender Vermerk nach Rechtskraft und Erfuellung
+├── csv/                                               — Zahlungseingang der Masse
+├── xlsx/                                              — Streitwert- und Kostenberechnung
+├── jpg/                                               — Fotodokumentation Werkshalle
+├── pdfs/                                              — PDF-Renderings ausgewaehlter Aktenstuecke
 ├── eml/
 │   ├── 2025-06-10_wenng_nachbesicherung_maschinenpark.eml — CFO fordert Sicherheit; Linie und Lohnläufe daran geknüpft
 │   ├── 2025-09-24_kastl_rueckzahlung_faellig.eml    — Kastl mahnt Rückzahlung an und schildert seine Beobachterrolle
-│   └── 2026-06-18_stb_kastl_stellungnahme_39_abs5.eml — Steuerberater beruft sich auf das Kleinbeteiligtenprivileg
+│   ├── 2026-06-18_stb_kastl_stellungnahme_39_abs5.eml — Steuerberater beruft sich auf das Kleinbeteiligtenprivileg
+│   ├── 2026-12-20_ladung_sv_ruckdeschel.eml         — Gerichtliche Bestellung des Sachverstaendigen
+│   ├── 2027-06-23_urteilszustellung_stadlbauer.eml  — Zustellung des Urteils an den Verwalter
+│   └── 2027-09-15_avr_uebergabe_maschinenpark.eml   — Bestaetigung von Zahlung und Uebergabe
 ├── README.md
 └── rubric.yaml
 ```
