@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 67 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 191 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz-einzelpdfs.zip) |
 
@@ -55,10 +55,26 @@ insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz/
 ├── 14_anfechtungsschreiben_verwalterin_2026-05-12.docx    — Anfechtung nach §§ 130, 131, 143 InsO mit vollständiger Berechnung und Zahlungsaufforderung
 ├── 15_erwiderung_sparkasse_2026-06-05.docx                — Erwiderung der Sparkassen-Anwälte: Kongruenz, Saisonalität, Bargeschäfts- und Rangeinwand
 ├── 16_replik_verwalterin_2026-06-26.docx                  — Replik der Verwalterin mit letzter Fristsetzung zum 17.07.2026
+├── 17_klageschrift_lg_mainz_2026-08-04.docx               — Klageschrift auf Rückgewähr von 360.000 EUR nach §§ 130, 131, 143 InsO
+├── 18_klageerwiderung_sparkasse_2026-09-15.docx           — Klageerwiderung: Kongruenz, Saisonalität, Bargeschäftseinwand
+├── 19_replik_verwalterin_2026-10-06.docx                  — Replik zur Klageerwiderung
+├── 20_duplik_sparkasse_2026-10-27.docx                    — Duplik mit Beweisantritt Zeugin Vietinghoff
+├── 21_beweisbeschluss_lg_mainz_2026-11-10.docx            — Beweisbeschluss: Zeugenvernehmung und Sachverständigengutachten
+├── 22_sachverstaendigengutachten_wachtel_2027-01-20.docx  — Gutachten zum Eintritt der Zahlungsunfähigkeit (bereits April 2025)
+├── 23_zeugenvernehmungsprotokoll_vietinghoff_2027-02-09.docx — Aussage der Sparkassen-Sachbearbeiterin zur Kenntnis
+├── 24_urteil_lg_mainz_2027-05-18.docx                     — Urteil: Verurteilung zur Rückgewähr von 360.000 EUR nebst Zinsen
+├── 25_schlussvermerk_verwalterin_2027-07-02.docx          — Abschließender Vermerk nach Rechtskraft und Zahlungseingang
+├── csv/                                                    — Fristenliste Berufung/Verjährung
+├── xlsx/                                                   — Zinsberechnung Urteilssumme
+├── jpg/                                                    — Fotodokumentation Weinlager
+├── pdfs/                                                   — PDF-Renderings ausgewählter Aktenstücke
 ├── eml/
 │   ├── 2025-12-09_sparkasse_rueckfuehrungsplan.eml        — Betreuer-E-Mail: Eingänge zur Saldenreduzierung, Rückgabe des Rheinglas-Auftrags
 │   ├── 2026-01-15_gf_protest_linienkuerzung.eml           — Geschäftsführer schildert Kündigungsdrohung und drohende Lohn-/SV-Lücke
-│   └── 2026-02-12_sparkasse_rueckgabe_restloehne.eml      — Sparkasse verweigert Restlohnzahlung, verlangt weitere Eingangsleitung
+│   ├── 2026-02-12_sparkasse_rueckgabe_restloehne.eml      — Sparkasse verweigert Restlohnzahlung, verlangt weitere Eingangsleitung
+│   ├── 2026-11-15_ladung_zeugin_vietinghoff.eml           — Ladung der Zeugin zum Beweistermin
+│   ├── 2027-05-19_urteilszustellung_bernstorf.eml         — Zustellung des Urteils an die Verwalterin
+│   └── 2027-06-28_zahlungsbestaetigung_sparkasse.eml      — Zahlungsbestätigung der Sparkasse nach Rechtskraft
 ├── rubric.yaml                                            — Sechs Prüfpunkte zur Bewertung einer Bearbeitung
 └── README.md                                              — Diese Übersicht
 ```
