@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 57 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-schenkung-familie-oldenburg_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-schenkung-familie-oldenburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 184 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-schenkung-familie-oldenburg_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-schenkung-familie-oldenburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzanfechtung-schenkung-familie-oldenburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-schenkung-familie-oldenburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzanfechtung-schenkung-familie-oldenburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-schenkung-familie-oldenburg-einzelpdfs.zip) |
 
@@ -55,10 +55,26 @@ insolvenzanfechtung-schenkung-familie-oldenburg/
 ├── 14_anfechtungsschreiben_uwe_tietjen_2026-06-10.docx     Anfechtung der Drittzahlung an die Dachdeckerei gegenüber dem Schwager
 ├── 15_antwort_ra_bruns_2026-06-29.docx                  Sammelerwiderung des Familienanwalts mit Gegenleistungs-, Frist- und Kenntnis-Einwänden
 ├── 16_eidesstattliche_versicherung_karin_hollmann_2026-06-26.docx  Eidesstattliche Versicherung der Ehefrau zur "Mitarbeit" und Unkenntnis
+├── 17_klageschrift_lg_oldenburg_2026-08-18.docx       Klageschrift gegen alle drei Anfechtungsgegner mit gestuften Anträgen
+├── 18_klageerwiderung_bruns_2026-09-29.docx           Klageerwiderung: Gegenleistung, Gelegenheitsgeschenk, fehlende Kenntnis, Passivlegitimation
+├── 19_replik_verwalter_2026-10-20.docx                Replik: Kenntnis unerheblich, keine Gegenleistung, richtiger Anfechtungsgegner
+├── 20_duplik_bruns_2026-11-10.docx                    Duplik mit Beweisantritt Zeuge Wienken
+├── 21_beweisbeschluss_lg_oldenburg_2026-12-01.docx    Beweisbeschluss zu Mitarbeitsumfang und Gerüsthilfe
+├── 22_zeugenvernehmungsprotokoll_wienken_2027-02-16.docx  Aussage des Steuerberaters: keine regelmäßige Mitarbeit belegt
+├── 23_urteil_lg_oldenburg_2027-05-11.docx             Urteil: differenzierte Entscheidung je Beklagtem und Zuwendung
+├── 24_kostenfestsetzungsbeschluss_2027-07-02.docx     Kostenverteilung nach Obsiegen und Unterliegen
+├── 25_schlussvermerk_verwalter_2027-09-08.docx        Abschließender Vermerk nach Rechtskraft und vollständiger Zahlung
+├── csv/                                                Zahlungseingänge der Masse
+├── xlsx/                                               Kostenverteilung nach Beklagten
+├── jpg/                                                Fotodokumentation Firmensitz
+├── pdfs/                                               PDF-Renderings ausgewählter Aktenstücke
 ├── eml/
 │   ├── 2024-09-12_hollmann_steuerberater_pkw.eml        GF an Steuerberater zur Umschreibung des X3 und zur "engen" Lage
 │   ├── 2025-04-14_steuerberater_warnung_liquiditaet.eml Steuerberater-Warnung zur Deckungslücke und zu Krisenpflichten (April 2025)
-│   └── 2025-06-16_tietjen_dachrechnung.eml              Schwager bittet um Bezahlung der Dachrechnung "über die Firma"
+│   ├── 2025-06-16_tietjen_dachrechnung.eml              Schwager bittet um Bezahlung der Dachrechnung "über die Firma"
+│   ├── 2026-12-05_ladung_zeuge_wienken.eml              Ladung des Zeugen zum Beweistermin
+│   ├── 2027-05-12_urteilszustellung_feddersen.eml       Zustellung des Urteils an den Verwalter
+│   └── 2027-08-31_zahlungsbestaetigung_bruns.eml        Bestätigung der vollständigen Zahlung durch alle drei Beklagten
 ├── whatsapp/
 │   └── familienchat_auszug.txt                          Familien-WhatsApp mit Aussagen zu Auto, Geschenk, Dach und Krisenwahrnehmung
 ├── README.md                                            Diese Übersicht
