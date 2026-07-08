@@ -36,7 +36,7 @@ Diese Akte gehört zum Plugin `verbraucherinsolvenz-schuldenbereinigung`.
 | `07-p-konto-notfallplan.docx` | P-Konto, Miete, Strom und Vollstreckungsschutz |
 | `08-gutachten-verbraucher-oder-regelinsolvenz.docx` | Abgrenzung ehemaliger Geschäftsführer |
 | `09-antrag-checkliste.docx` | Antrag, Stundung, Restschuldbefreiung |
-| `10-red-team-versagungsrisiken.docx` | § 290/§ 302/Obliegenheiten und kritische Punkte |
+| `10-schreiben-glaeubiger-sparkasse-stellungnahme.docx` | Stellungnahme der Sparkasse Vorpommern zum außergerichtlichen Schuldenbereinigungsplan |
 | `11-langgutachten-schuldenbereinigungsplan-und-antrag.docx` | Entscheidungsvermerk zur Verfahrensart, Planquote, § 302-Risiken, P-Konto, Antrag und Red-Team |
 | `12-glaeubigeranschreiben-volltext.docx` | Volltext eines Gläubigeranschreibens mit Beleganforderung, Planhinweisen und Zustelllogik |
 | `13-gerichtsantrag-erlaeuterung-fuer-laien.docx` | Verständliche Erläuterung des gerichtlichen Antrags und der Anlagen für Herrn Reimers |

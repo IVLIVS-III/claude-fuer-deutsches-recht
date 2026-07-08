@@ -87,7 +87,7 @@ Am 12. Mai 2026 beauftragte die Geschäftsführerin Anna Reimers die Kanzlei Wes
 | [16_stakeholder_q_and_a.docx](16_stakeholder_q_and_a.docx) | Q&A-Vorbereitung für Gläubigerversammlung: NordBank, LeasingWerk, Stahlhandel, FA, Betriebsrat, Gericht |
 | [17_gerichtliche_route.docx](17_gerichtliche_route.docx) | Verfahrenswahl-Analyse: StaRUG vs. Eigenverwaltung vs. Regelinsolvenz; Empfehlung + Verfahrensschritte |
 | [18_planvollzug_kalender.csv](18_planvollzug_kalender.csv) | Vollständiger Planvollzugs-Kalender Mai 2026 – August 2030 mit 42 Meilensteinen, Verantwortlichen, Status |
-| [19_redteam_einwaende.docx](19_redteam_einwaende.docx) | Red-Team-Review: 8 kritische Einwände mit Bewertung und Gegenargumenten; Ampelübersicht |
+| [19_stimmrechtsliste_glaeubigergruppen.docx](19_stimmrechtsliste_glaeubigergruppen.docx) | Stimmrechtsliste aller Gläubigergruppen zum Erörterungs- und Abstimmungstermin |
 | [20_zieloutput_checkliste.docx](20_zieloutput_checkliste.docx) | Vollständigkeitsprüfung vor Planeinreichung: Pflichtanlagen, prozessuale Voraussetzungen, Kommunikation |
 | [darstellender_teil_insolvenzplan.docx](darstellender_teil_insolvenzplan.docx) | DOCX: Vollständiger darstellender Teil des Insolvenzplans (ausformuliert, Calibri 11, mit Rubrum und Anlagen) |
 | [gestaltender_teil_insolvenzplan.docx](gestaltender_teil_insolvenzplan.docx) | DOCX: Vollständiger gestaltender Teil des Insolvenzplans (alle Paragrafen, bestimmt und vollziehbar) |

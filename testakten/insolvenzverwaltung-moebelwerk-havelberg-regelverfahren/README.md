@@ -81,7 +81,7 @@ Das Insolvenzverfahren wurde am **12.06.2026** förmlich eröffnet. Der Prüfung
 | [07_kassensturz_betriebsfortfuehrung.docx](07_kassensturz_betriebsfortfuehrung.docx) | Kassensturz 07.05.2026; drei Fortführungsszenarien; Entscheidung und Budget |
 | [08_forderungsanmeldungen_sammelakte.docx](08_forderungsanmeldungen_sammelakte.docx) | Alle 12 angemeldeten Forderungen im Detail; Prüfungsergebnisse; Anfechtungshinweise |
 | [09_tabellenpruefung_stichprobe.csv](09_tabellenpruefung_stichprobe.csv) | Tabellenprüfung aller Gläubiger: festgestellt, bestritten, Belege, Prüferin, Datum |
-| [10_anfechtungsmatrix_lieferant_bank.docx](10_anfechtungsmatrix_lieferant_bank.docx) | Vier Anfechtungsfälle (§§ 130, 131, 133, 135 InsO) mit Detailanalyse und Zeitplan |
+| [10_zahlungsverkehr_lieferant_bank_zeitraum.csv](10_zahlungsverkehr_lieferant_bank_zeitraum.csv) | Zahlungsverkehr Lieferant und Bank im kritischen Zeitraum vor Antragstellung (reine Kontobewegungen) |
 | [11_15b_zahlungsanalyse.csv](11_15b_zahlungsanalyse.csv) | Alle 12 Zahlungen ab Insolvenzreife (22.03.2026); Ausnahmen nach § 15b Abs. 2 InsO; Bewertung IV |
 | [12_masseverzeichnis_verwertung.docx](12_masseverzeichnis_verwertung.docx) | Freie Masse, Absonderungsgut (§§ 50/51), D&O, Anfechtungen; Verwertungsplan; Masseprognose |
 | [13_masseunzulaenglichkeit_entwurf.docx](13_masseunzulaenglichkeit_entwurf.docx) | Szenario § 208 InsO; Massestand 30.06.2026; Liquiditätslücke; Entscheidung Nicht-Anzeige |

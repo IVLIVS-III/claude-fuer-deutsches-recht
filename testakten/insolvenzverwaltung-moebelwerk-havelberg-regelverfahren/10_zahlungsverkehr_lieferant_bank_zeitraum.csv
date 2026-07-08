@@ -1,0 +1,11 @@
+Datum;Zahler;Empfaenger;Betrag_EUR;Verwendungszweck;Zahlweg;Kontobezug
+2026-03-20;Moebelwerk Havelberg GmbH;Furnier Nord GmbH;18000.00;Rate 2 Ratenplan 15.03.2026;Ueberweisung;Havelbank eG 41 998 231
+2026-03-22;Furnier Nord GmbH;Moebelwerk Havelberg GmbH;18000.00;Ruecklastschrift NSF;Lastschriftruecklauf;Havelbank eG 41 998 231
+2026-03-24;Furnier Nord GmbH;Moebelwerk Havelberg GmbH;0.00;Mahnung Zahlungsrueckstand;Postmahnung;-
+2026-04-01;Moebelwerk Havelberg GmbH;Furnier Nord GmbH;18000.00;Rate 2 Ratenplan (Zweitausfuehrung);Ueberweisung;Havelbank eG 41 998 231
+2026-04-02;Moebelwerk Havelberg GmbH;Havelbank eG;35000.00;Sondertilgung Kontokorrentkredit;Ueberweisung;Havelbank eG 41 998 231
+2026-04-11;Moebelwerk Havelberg GmbH;Tim Brauer;12500.00;Teilrueckzahlung Gesellschafterdarlehen;Ueberweisung;Havelbank eG 41 998 231
+2026-04-28;Havelbank eG;Moebelwerk Havelberg GmbH;0.00;Bestaetigung Sondertilgung nach Gespraech 01.04.2026;Schreiben;-
+2026-04-29;Moebelwerk Havelberg GmbH;Brauer Holding UG;9500.00;Managementfee (ohne Vertragsunterlage);Ueberweisung;Havelbank eG 41 998 231
+2026-05-04;-;-;0.00;Insolvenzantragstellung;Amtsgericht Stendal;7 IN 41/26
+2026-06-12;-;-;0.00;Insolvenzeroeffnung;Amtsgericht Stendal;7 IN 41/26
