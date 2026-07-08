@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Aktenführung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Notare: amtsenthebung vermögensverfall - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Notare: amtsenthebung vermögensverfall - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle: Notare: amtsenthebung vermögensverfall - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle.
-4. Notare: amtsenthebung vermögensverfall - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Notare: anderkonto und verwahrung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Notare: anderkonto und verwahrung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle: Notare: anderkonto und verwahrung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle: Tatsachen.
+1. Aktenführung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
+2. Notare: amtsenthebung vermögensverfall - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie.
+3. Notare: amtsenthebung vermögensverfall - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle: Paragraf 14 Abs. 1 BNotO — notarielle Amtspflichten. - Paragraf 17 Abs. 1 BeurkG — Belehrung und Erforschung.
+4. Notare: amtsenthebung vermögensverfall - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste.
+5. Notare: anderkonto und verwahrung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie.
+6. Notare: anderkonto und verwahrung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle: Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BeurkG — Fundstellen.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aktenführung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Notare: amtsenthebung vermögensverfall - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Notare: amtsenthebung vermögensverfall - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle | Notare: amtsenthebung vermögensverfall - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Notare: amtsenthebung vermögensverfall - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Notare: anderkonto und verwahrung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Notare: anderkonto und verwahrung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle | Notare: anderkonto und verwahrung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenführung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Notare: amtsenthebung vermögensverfall - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Notare: amtsenthebung vermögensverfall - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle | Paragraf 14 Abs. 1 BNotO — notarielle Amtspflichten. - Paragraf 17 Abs. 1 BeurkG — Belehrung und Erforschung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Notare: amtsenthebung vermögensverfall - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Notare: anderkonto und verwahrung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Notare: anderkonto und verwahrung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle | Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BeurkG — Fundstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

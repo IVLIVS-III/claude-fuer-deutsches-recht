@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. 72 Stunden Sprint: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Ad Library Transparenz: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Agenturvertrag Compliance: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Aktenplan und Beweisarchiv: Aktenplan und Beweisarchiv: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-5. Amtstraeger Ressourcen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Angriff Auf Wahlleitung Vermeiden: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. 72 Stunden Sprint: Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —.
+2. Ad Library Transparenz: Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —.
+3. Agenturvertrag Compliance: Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —.
+4. Aktenplan und Beweisarchiv: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix.
+5. Amtstraeger Ressourcen: Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —.
+6. Angriff Auf Wahlleitung Vermeiden: Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| 72 Stunden Sprint | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ad Library Transparenz | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Agenturvertrag Compliance | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenplan und Beweisarchiv | Aktenplan und Beweisarchiv: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Amtstraeger Ressourcen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Angriff Auf Wahlleitung Vermeiden | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 72 Stunden Sprint | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ad Library Transparenz | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Agenturvertrag Compliance | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenplan und Beweisarchiv | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amtstraeger Ressourcen | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Angriff Auf Wahlleitung Vermeiden | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

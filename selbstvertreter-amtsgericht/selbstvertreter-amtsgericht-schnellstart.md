@@ -17,10 +17,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Anfänger-Amtsgericht: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Anlagen formatieren — K1, K2 oben rechts, Schrift 12pt: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Welche Norm trägt Ihren Anspruch?: Welche Norm trägt Ihren Anspruch?: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-4. Brauche ich vor dem Amtsgericht einen Anwalt?: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Anfänger-Amtsgericht: Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren.
+2. Anlagen formatieren — K1, K2 oben rechts, Schrift 12pt: Wenn Sie Beweisstuecke (Anlagen) einreichen, sollten diese einheitlich beschriftet sein, damit der Richter.
+3. Welche Norm trägt Ihren Anspruch?: Jede Klage braucht eine Anspruchsgrundlage — eine Norm im BGB oder Spezialgesetz, die Ihren Anspruch rechtfertigt.
+4. Brauche ich vor dem Amtsgericht einen Anwalt?: Vor dem Amtsgericht können Sie sich grundsätzlich selbst vertreten. Das nennt sich "Postulationsfähigkeit" — Sie.
 5. Augenscheinsbeweis: Wenn das Gericht selbst sehen muss: Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren.
 6. Wann ist das Amtsgericht immer zuständig (egal wie hoch der Streitwert)?: Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren.
 
@@ -28,10 +28,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anfänger-Amtsgericht | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anlagen formatieren — K1, K2 oben rechts, Schrift 12pt | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Welche Norm trägt Ihren Anspruch? | Welche Norm trägt Ihren Anspruch?: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Brauche ich vor dem Amtsgericht einen Anwalt? | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anfänger-Amtsgericht | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anlagen formatieren — K1, K2 oben rechts, Schrift 12pt | Wenn Sie Beweisstuecke (Anlagen) einreichen, sollten diese einheitlich beschriftet sein, damit der Richter. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Welche Norm trägt Ihren Anspruch? | Jede Klage braucht eine Anspruchsgrundlage — eine Norm im BGB oder Spezialgesetz, die Ihren Anspruch rechtfertigt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Brauche ich vor dem Amtsgericht einen Anwalt? | Vor dem Amtsgericht können Sie sich grundsätzlich selbst vertreten. Das nennt sich "Postulationsfähigkeit" — Sie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Augenscheinsbeweis: Wenn das Gericht selbst sehen muss | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Wann ist das Amtsgericht immer zuständig (egal wie hoch der Streitwert)? | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 

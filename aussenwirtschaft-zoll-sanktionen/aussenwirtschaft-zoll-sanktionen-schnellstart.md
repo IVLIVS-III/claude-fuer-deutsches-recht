@@ -22,18 +22,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Anwendbares Recht: Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen.
 4. Materielle Prüfung nach dem berufenen Recht: bei auslaendischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden.
 5. Durchsetzung: Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt.
-6. Allgemeine Genehmigungen: Finder und Nutzungsbedingungen für Exportkontrolle: Allgemeine Genehmigungen: Finder und Nutzungsbedingungen für Exportkontrolle: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument.
+6. Allgemeine Genehmigungen: Finder und Nutzungsbedingungen für Exportkontrolle: Tragende Normen verifizieren: AWG, AWV, EU-Dual-Use-VO 2021/821, EU-Sanktionsverordnungen, ZollkodexUnion.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Allgemeine Genehmigungen: Finder und Nutzungsbedingungen für Exportkontrolle | Allgemeine Genehmigungen: Finder und Nutzungsbedingungen für Exportkontrolle: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Asset Freeze: Sofortmaßnahmen beim Einfrieren sanktionierten Vermögens | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abfallverbringung: Grenzüberschreitende Entsorgung und Notifizierungsverfahren | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AEO-Bewilligung: Monitoring laufender Bedingungen und Meldepflichten | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktive Veredelung: Bewilligung, Mengenüberwachung und Abschlussabrechnung | Aktive Veredelung: Bewilligung, Mengenüberwachung und Abschlussabrechnung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Allgemeingenehmigung AGG Finder | Allgemeingenehmigung AGG Finder: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Allgemeine Genehmigungen: Finder und Nutzungsbedingungen für Exportkontrolle | Tragende Normen verifizieren: AWG, AWV, EU-Dual-Use-VO 2021/821, EU-Sanktionsverordnungen, ZollkodexUnion. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Asset Freeze: Sofortmaßnahmen beim Einfrieren sanktionierten Vermögens | Sofortmaßnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis: Einfrieren von Geldern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abfallverbringung: Grenzüberschreitende Entsorgung und Notifizierungsverfahren | Tragende Normen verifizieren: AWG, AWV, EU-Dual-Use-VO 2021/821, EU-Sanktionsverordnungen, ZollkodexUnion. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AEO-Bewilligung: Monitoring laufender Bedingungen und Meldepflichten | Tragende Normen verifizieren: AWG, AWV, EU-Dual-Use-VO 2021/821, EU-Sanktionsverordnungen, ZollkodexUnion. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktive Veredelung: Bewilligung, Mengenüberwachung und Abschlussabrechnung | Tragende Normen verifizieren: AWG, AWV, EU-Dual-Use-VO 2021/821, EU-Sanktionsverordnungen, ZollkodexUnion. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Allgemeingenehmigung AGG Finder | Dieser Skill behandelt Allgemeingenehmigung AGG Finder als operativen Workflow für Unternehmen, Kanzleien. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

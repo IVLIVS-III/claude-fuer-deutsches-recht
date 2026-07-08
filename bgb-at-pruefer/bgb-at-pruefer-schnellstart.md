@@ -18,22 +18,22 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 ## 3. Kernroute
 
 1. Abgabe der Willenserklärung — Tatbestand und Zeitpunkt: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
-2. AGB-Einbeziehung und Inhaltskontrolle — Paragrafen 305 bis 310 BGB: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Agb Einbeziehung Schnittstelle Paragraphen 305 310: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Amtlicher BGB/ZPO-Normcheck: Amtlicher BGB/ZPO-Normcheck: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-5. Anfechtung — Routing und Gesamtprüfung Paragrafen 119 bis 124 BGB: Anfechtung — Routing und Gesamtprüfung Paragrafen 119 bis 124 BGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument.
-6. Auslegung vor Anfechtung — Prüfungsreihenfolge und Begründung: Auslegung vor Anfechtung — Prüfungsreihenfolge und Begründung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument.
+2. AGB-Einbeziehung und Inhaltskontrolle — Paragrafen 305 bis 310 BGB: Prüft AGB-Einbeziehung nach Paragrafen 305 bis 310 BGB: ausdrücklicher und konkludenter Hinweis, zumutbare.
+3. Agb Einbeziehung Schnittstelle Paragraphen 305 310: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste.
+4. Amtlicher BGB/ZPO-Normcheck: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
+5. Anfechtung — Routing und Gesamtprüfung Paragrafen 119 bis 124 BGB: Mandant hat Vertrag geschlossen und bemerkt nachträglich einen Irrtum über eine wesentliche Eigenschaft.
+6. Auslegung vor Anfechtung — Prüfungsreihenfolge und Begründung: Student hat in einer Probeklausur die Anfechtung vor der Auslegung geprüft und Punkte verloren — wie.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Abgabe der Willenserklärung — Tatbestand und Zeitpunkt | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AGB-Einbeziehung und Inhaltskontrolle — Paragrafen 305 bis 310 BGB | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Agb Einbeziehung Schnittstelle Paragraphen 305 310 | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Amtlicher BGB/ZPO-Normcheck | Amtlicher BGB/ZPO-Normcheck: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfechtung — Routing und Gesamtprüfung Paragrafen 119 bis 124 BGB | Anfechtung — Routing und Gesamtprüfung Paragrafen 119 bis 124 BGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auslegung vor Anfechtung — Prüfungsreihenfolge und Begründung | Auslegung vor Anfechtung — Prüfungsreihenfolge und Begründung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AGB-Einbeziehung und Inhaltskontrolle — Paragrafen 305 bis 310 BGB | Prüft AGB-Einbeziehung nach Paragrafen 305 bis 310 BGB: ausdrücklicher und konkludenter Hinweis, zumutbare. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Agb Einbeziehung Schnittstelle Paragraphen 305 310 | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amtlicher BGB/ZPO-Normcheck | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anfechtung — Routing und Gesamtprüfung Paragrafen 119 bis 124 BGB | Mandant hat Vertrag geschlossen und bemerkt nachträglich einen Irrtum über eine wesentliche Eigenschaft. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auslegung vor Anfechtung — Prüfungsreihenfolge und Begründung | Student hat in einer Probeklausur die Anfechtung vor der Auslegung geprüft und Punkte verloren — wie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Anschluss-Routing: Anschluss-Routing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-4. Anträge: Zahlen, Schwellenwerte und Berechnung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Chronologie und Belegmatrix: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. DFG-Antrag bis 200.000 Euro: DFG-Antrag bis 200.000 Euro: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung: Arbeitsfokus: Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung. Prüfe diese Anker am Sachverhalt; ergänze.
+2. Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien: Arbeitsfokus: Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien. Prüfe diese Anker am Sachverhalt.
+3. Anschluss-Routing: Dieses Anschluss-Routing für Dfg Förderantrag wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation.
+4. Anträge: Zahlen, Schwellenwerte und Berechnung: Arbeitsfokus: Anträge: Zahlen, Schwellenwerte und Berechnung. Prüfe diese Anker am Sachverhalt; ergänze nur.
+5. Chronologie und Belegmatrix: Dieser Arbeitsgang macht Chronologie und Belegmatrix im Bereich dfg-förderantrag sofort bearbeitbar: erst Akte.
+6. DFG-Antrag bis 200.000 Euro: Anträge bis 200.000 Euro Gesamtsumme können verfahrenspraktisch schlanker laufen — die DFG-FAQ zur Begutachtung.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Anschluss-Routing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anträge: Zahlen, Schwellenwerte und Berechnung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Chronologie und Belegmatrix | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| DFG-Antrag bis 200.000 Euro | DFG-Antrag bis 200.000 Euro: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung | Arbeitsfokus: Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung. Prüfe diese Anker am Sachverhalt; ergänze. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien | Arbeitsfokus: Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien. Prüfe diese Anker am Sachverhalt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Dieses Anschluss-Routing für Dfg Förderantrag wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anträge: Zahlen, Schwellenwerte und Berechnung | Arbeitsfokus: Anträge: Zahlen, Schwellenwerte und Berechnung. Prüfe diese Anker am Sachverhalt; ergänze nur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Chronologie und Belegmatrix | Dieser Arbeitsgang macht Chronologie und Belegmatrix im Bereich dfg-förderantrag sofort bearbeitbar: erst Akte. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| DFG-Antrag bis 200.000 Euro | Anträge bis 200.000 Euro Gesamtsumme können verfahrenspraktisch schlanker laufen — die DFG-FAQ zur Begutachtung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

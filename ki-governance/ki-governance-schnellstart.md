@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Anbieter: Mehrparteienkonflikt und Interessenmatrix: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. /anpassen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. System-Governance — Allgemein: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. System-Anwendungsfall-Triage: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Case: Tatbestandsmerkmale, Beweisfragen und Beleglage: Case: Tatbestandsmerkmale, Beweisfragen und Beleglage: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein.
-6. Dokumentenintake: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Anbieter: Mehrparteienkonflikt und Interessenmatrix: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast.
+2. /anpassen: Tragende Normen verifizieren: EU Regulierungsrahmen 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST.
+3. System-Governance — Allgemein: Tragende Normen verifizieren: EU Regulierungsrahmen 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST.
+4. System-Anwendungsfall-Triage: Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren.
+5. Case: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix.
+6. Dokumentenintake: Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anbieter: Mehrparteienkonflikt und Interessenmatrix | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| /anpassen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| System-Governance — Allgemein | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| System-Anwendungsfall-Triage | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Case: Tatbestandsmerkmale, Beweisfragen und Beleglage | Case: Tatbestandsmerkmale, Beweisfragen und Beleglage: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dokumentenintake | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anbieter: Mehrparteienkonflikt und Interessenmatrix | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| /anpassen | Tragende Normen verifizieren: EU Regulierungsrahmen 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| System-Governance — Allgemein | Tragende Normen verifizieren: EU Regulierungsrahmen 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| System-Anwendungsfall-Triage | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Case: Tatbestandsmerkmale, Beweisfragen und Beleglage | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Dokumentenintake | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

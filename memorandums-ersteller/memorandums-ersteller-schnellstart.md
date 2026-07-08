@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Anschluss-Routing: Anschluss-Routing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. Antworten: Mehrparteienkonflikt und Interessenmatrix: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Ausführungen: Formular, Portal und Einreichungslogik: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Dokumentenintake: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Due-Diligence-Rechtsmemo: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Einstieg und Routing: Einstieg und Routing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. Anschluss-Routing: Dieses Anschluss-Routing für Memorandums Ersteller wählt nach dem ersten Ergebnis die passende Vertiefung.
+2. Antworten: Mehrparteienkonflikt und Interessenmatrix: Tragende Normen verifizieren: BRAO Paragrafen 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA Paragrafen 2, 5, 11.
+3. Ausführungen: Formular, Portal und Einreichungslogik: Tragende Normen verifizieren: BRAO Paragrafen 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA Paragrafen 2, 5, 11.
+4. Dokumentenintake: Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren.
+5. Due-Diligence-Rechtsmemo: Tragende Normen verifizieren: BRAO Paragrafen 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA Paragrafen 2, 5, 11.
+6. Einstieg und Routing: Dieser Einstieg routet Memorandums Ersteller vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anschluss-Routing | Anschluss-Routing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antworten: Mehrparteienkonflikt und Interessenmatrix | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ausführungen: Formular, Portal und Einreichungslogik | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dokumentenintake | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Due-Diligence-Rechtsmemo | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einstieg und Routing | Einstieg und Routing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Dieses Anschluss-Routing für Memorandums Ersteller wählt nach dem ersten Ergebnis die passende Vertiefung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Antworten: Mehrparteienkonflikt und Interessenmatrix | Tragende Normen verifizieren: BRAO Paragrafen 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA Paragrafen 2, 5, 11. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ausführungen: Formular, Portal und Einreichungslogik | Tragende Normen verifizieren: BRAO Paragrafen 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA Paragrafen 2, 5, 11. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Dokumentenintake | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Due-Diligence-Rechtsmemo | Tragende Normen verifizieren: BRAO Paragrafen 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA Paragrafen 2, 5, 11. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Einstieg und Routing | Dieser Einstieg routet Memorandums Ersteller vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

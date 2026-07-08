@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. AGG Gleichstellung und Frauenvertretung: AGG Gleichstellung und Frauenvertretung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren: AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument.
-3. Aktenstruktur und Dokumentenintake: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Altersteilzeit Paragraf 93 BBG — Blockmodell und Teilzeitmodell: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Amtsangemessene Alimentation: Amtsangemessene Alimentation: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-6. Amtsangemessene Alimentation — Prüfschema BVerfG: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. AGG Gleichstellung und Frauenvertretung: Tragende Normen verifizieren: BeamtStG Paragrafen 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG.
+2. AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren: Skill zum Verhältnis von AGG-Diskriminierungsschutz und beamtenrechtlichem Bewerbungsverfahrensanspruch.
+3. Aktenstruktur und Dokumentenintake: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
+4. Altersteilzeit Paragraf 93 BBG — Blockmodell und Teilzeitmodell: Skill zur Altersteilzeit der Beamten nach Paragraf 93 BBG bzw. Paragraf 9 BeamtStG i.V.m. den Landesregelungen.
+5. Amtsangemessene Alimentation: Tragende Normen verifizieren: BeamtStG Paragrafen 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG.
+6. Amtsangemessene Alimentation — Prüfschema BVerfG: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| AGG Gleichstellung und Frauenvertretung | AGG Gleichstellung und Frauenvertretung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren | AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenstruktur und Dokumentenintake | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Altersteilzeit Paragraf 93 BBG — Blockmodell und Teilzeitmodell | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Amtsangemessene Alimentation | Amtsangemessene Alimentation: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Amtsangemessene Alimentation — Prüfschema BVerfG | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AGG Gleichstellung und Frauenvertretung | Tragende Normen verifizieren: BeamtStG Paragrafen 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren | Skill zum Verhältnis von AGG-Diskriminierungsschutz und beamtenrechtlichem Bewerbungsverfahrensanspruch. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenstruktur und Dokumentenintake | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Altersteilzeit Paragraf 93 BBG — Blockmodell und Teilzeitmodell | Skill zur Altersteilzeit der Beamten nach Paragraf 93 BBG bzw. Paragraf 9 BeamtStG i.V.m. den Landesregelungen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amtsangemessene Alimentation | Tragende Normen verifizieren: BeamtStG Paragrafen 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amtsangemessene Alimentation — Prüfschema BVerfG | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

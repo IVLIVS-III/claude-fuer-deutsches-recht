@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Änderungsmodus: Compliance-Dokumentation und Aktenvermerk: Änderungsmodus: Compliance-Dokumentation und Aktenvermerk: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein.
-2. Ampelmatrix: Internationaler Bezug und Schnittstellen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Anschluss-Routing: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. NDA-Abgleich: eigenen Standard destillieren und chirurgisch durchsetzen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Ausgabe: Mandantenkommunikation und Entscheidungsvorlage: Ausgabe: Mandantenkommunikation und Entscheidungsvorlage: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein.
-6. Changes: Abschlussprodukt und Übergabe: Changes: Abschlussprodukt und Übergabe: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. Änderungsmodus: Compliance-Dokumentation und Aktenvermerk: Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu.
+2. Ampelmatrix: Internationaler Bezug und Schnittstellen: Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu.
+3. Anschluss-Routing: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares.
+4. NDA-Abgleich: eigenen Standard destillieren und chirurgisch durchsetzen: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie.
+5. Ausgabe: Mandantenkommunikation und Entscheidungsvorlage: Tragende Normen verifizieren: GeschGehG Paragrafen 2 Nr. 1, 3, 4, 5, 6, 7, 8, 9, 10, 17, BGB Paragrafen 145 ff.
+6. Changes: Abschlussprodukt und Übergabe: Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Änderungsmodus: Compliance-Dokumentation und Aktenvermerk | Änderungsmodus: Compliance-Dokumentation und Aktenvermerk: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ampelmatrix: Internationaler Bezug und Schnittstellen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| NDA-Abgleich: eigenen Standard destillieren und chirurgisch durchsetzen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ausgabe: Mandantenkommunikation und Entscheidungsvorlage | Ausgabe: Mandantenkommunikation und Entscheidungsvorlage: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Changes: Abschlussprodukt und Übergabe | Changes: Abschlussprodukt und Übergabe: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Änderungsmodus: Compliance-Dokumentation und Aktenvermerk | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ampelmatrix: Internationaler Bezug und Schnittstellen | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| NDA-Abgleich: eigenen Standard destillieren und chirurgisch durchsetzen | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ausgabe: Mandantenkommunikation und Entscheidungsvorlage | Tragende Normen verifizieren: GeschGehG Paragrafen 2 Nr. 1, 3, 4, 5, 6, 7, 8, 9, 10, 17, BGB Paragrafen 145 ff. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Changes: Abschlussprodukt und Übergabe | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

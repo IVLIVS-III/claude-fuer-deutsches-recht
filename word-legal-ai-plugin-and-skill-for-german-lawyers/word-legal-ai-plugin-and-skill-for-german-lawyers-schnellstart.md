@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. AGB-konforme Klauseln nach Paragrafen 305-310 BGB: AGB-konforme Klauseln nach Paragrafen 305-310 BGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. AGB-konforme Klauseln nach Paragrafen 305-310 BGB: Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach Paragrafen 305-310 BGB. Klärt den AGB-Begriff.
 2. Anspruchsgrundlage und Rechtsfolgen-Klauseln: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
 3. Anwaltsschreiben außergerichtlich: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
 4. Argumentationsarchitektur Schreiben: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
-5. B2B vs. B2C Klauselstrategie: B2B vs. B2C Klauselstrategie: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-6. Fristen- und Risikoampel: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+5. B2B vs. B2C Klauselstrategie: Strategisches Drafting in zwei Vertragswelten. B2C unter strengem Verbraucherschutz (Paragrafen 13 und 14 BGB.
+6. Fristen- und Risikoampel: Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich word-legal-ai-plugin-and-skill-for-german-lawyers.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| AGB-konforme Klauseln nach Paragrafen 305-310 BGB | AGB-konforme Klauseln nach Paragrafen 305-310 BGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AGB-konforme Klauseln nach Paragrafen 305-310 BGB | Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach Paragrafen 305-310 BGB. Klärt den AGB-Begriff. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anspruchsgrundlage und Rechtsfolgen-Klauseln | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anwaltsschreiben außergerichtlich | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Argumentationsarchitektur Schreiben | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| B2B vs. B2C Klauselstrategie | B2B vs. B2C Klauselstrategie: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fristen- und Risikoampel | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| B2B vs. B2C Klauselstrategie | Strategisches Drafting in zwei Vertragswelten. B2C unter strengem Verbraucherschutz (Paragrafen 13 und 14 BGB. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen- und Risikoampel | Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich word-legal-ai-plugin-and-skill-for-german-lawyers. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

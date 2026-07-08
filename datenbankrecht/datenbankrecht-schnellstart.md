@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abmahnung prüfen im Datenbankrecht — Checkliste und Reaktionsoptionen: Abmahnung prüfen im Datenbankrecht — Checkliste und Reaktionsoptionen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument.
-2. Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung: Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument.
+1. Abmahnung prüfen im Datenbankrecht — Checkliste und Reaktionsoptionen: Prüfung einer erhaltenen Datenbankrechts-Abmahnung: Berechtigungs-Check des Abmahnenden (Paragraf 87a Abs. 2.
+2. Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung: Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur.
 3. Datenbankrecht für Agrar- und Sensordaten — Präzisionslandwirtschaft und IoT: Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah prüfen.
-4. API-Nutzung, Rate-Limits und Vertragsbruch im Datenbankrecht: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. B2B-Kundendaten und CRM-Export durch Mitarbeiter — Datenbankrecht und Arbeitsrecht: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+4. API-Nutzung, Rate-Limits und Vertragsbruch im Datenbankrecht: Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur.
+5. Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen.
+6. B2B-Kundendaten und CRM-Export durch Mitarbeiter — Datenbankrecht und Arbeitsrecht: Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abmahnung prüfen im Datenbankrecht — Checkliste und Reaktionsoptionen | Abmahnung prüfen im Datenbankrecht — Checkliste und Reaktionsoptionen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung | Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abmahnung prüfen im Datenbankrecht — Checkliste und Reaktionsoptionen | Prüfung einer erhaltenen Datenbankrechts-Abmahnung: Berechtigungs-Check des Abmahnenden (Paragraf 87a Abs. 2. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung | Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Datenbankrecht für Agrar- und Sensordaten — Präzisionslandwirtschaft und IoT | Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| API-Nutzung, Rate-Limits und Vertragsbruch im Datenbankrecht | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| B2B-Kundendaten und CRM-Export durch Mitarbeiter — Datenbankrecht und Arbeitsrecht | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| API-Nutzung, Rate-Limits und Vertragsbruch im Datenbankrecht | Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht | rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| B2B-Kundendaten und CRM-Export durch Mitarbeiter — Datenbankrecht und Arbeitsrecht | Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Anlage Fehlerkatalog: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Anlage: Red-Team und Qualitätskontrolle: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Übergabe an Assistenz und Legal Tech: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Datenraum und SharePoint als Anlagenquelle: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Anlagen aus IT-Systemen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Anlagen aus Mandantenmaterial: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Anlage Fehlerkatalog: Dieser Fehlerkatalog prüft Arbeitsergebnisse für Anlagen zu Schriftsätzen vor Abgabe, Versand.
+2. Anlage: Red-Team und Qualitätskontrolle: Arbeitsfokus: Anlage: Red-Team und Qualitätskontrolle. Prüfe diese Anker am Sachverhalt; ergänze nur Normen.
+3. Übergabe an Assistenz und Legal Tech: Arbeitsfokus: Übergabe an Assistenz und Legal Tech. Prüfe diese Anker am Sachverhalt; ergänze nur Normen.
+4. Datenraum und SharePoint als Anlagenquelle: Arbeitsfokus: Datenraum und SharePoint als Anlagenquelle. Prüfe diese Anker am Sachverhalt; ergänze nur Normen.
+5. Anlagen aus IT-Systemen: Arbeitsfokus: Anlagen aus IT-Systemen. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output.
+6. Anlagen aus Mandantenmaterial: Arbeitsfokus: Anlagen aus Mandantenmaterial. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anlage Fehlerkatalog | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anlage: Red-Team und Qualitätskontrolle | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Übergabe an Assistenz und Legal Tech | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Datenraum und SharePoint als Anlagenquelle | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anlagen aus IT-Systemen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anlagen aus Mandantenmaterial | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anlage Fehlerkatalog | Dieser Fehlerkatalog prüft Arbeitsergebnisse für Anlagen zu Schriftsätzen vor Abgabe, Versand. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anlage: Red-Team und Qualitätskontrolle | Arbeitsfokus: Anlage: Red-Team und Qualitätskontrolle. Prüfe diese Anker am Sachverhalt; ergänze nur Normen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Übergabe an Assistenz und Legal Tech | Arbeitsfokus: Übergabe an Assistenz und Legal Tech. Prüfe diese Anker am Sachverhalt; ergänze nur Normen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Datenraum und SharePoint als Anlagenquelle | Arbeitsfokus: Datenraum und SharePoint als Anlagenquelle. Prüfe diese Anker am Sachverhalt; ergänze nur Normen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anlagen aus IT-Systemen | Arbeitsfokus: Anlagen aus IT-Systemen. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anlagen aus Mandantenmaterial | Arbeitsfokus: Anlagen aus Mandantenmaterial. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

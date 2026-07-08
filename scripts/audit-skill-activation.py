@@ -89,6 +89,9 @@ def main() -> int:
         print(f"\n## {key}")
         for path, desc in examples[key]:
             print(f"- {path}: {desc}")
+    if counters:
+        return 1
+    print("\nOK: Skill-Beschreibungen haben ausreichende Auswahlsignale.")
     return 0
 
 

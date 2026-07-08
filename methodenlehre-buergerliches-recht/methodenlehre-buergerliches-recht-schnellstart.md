@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Bürgerliches Abschlussprodukt und Übergabe: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Abwägung: Materialauswahl und Abwägungsgrundlagen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Abwägungszuständigkeit: Welche Institution darf abwägen?: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Analogie und teleologische Reduktion (Rechtsfortbildung): Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Bürgerliches Abschlussprodukt und Übergabe: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
+2. Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen: Normen: Paragraf 626 BGB, Paragraf 903 BGB, Paragraf 906 BGB. - Entscheidungs-/Quellenanker: Tragende.
+3. Abwägung: Materialauswahl und Abwägungsgrundlagen: Normen: Paragraf 307 BGB, Paragraf 253 BGB, Paragraf 133 BGB. - Entscheidungs-/Quellenanker: Tragende.
+4. Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage: Normen: Paragraf 830 BGB, Paragraf 138 BGB, Paragraf 363 BGB. - Entscheidungs-/Quellenanker: Tragende.
+5. Abwägungszuständigkeit: Welche Institution darf abwägen?: Normen: Art. 20 Abs. 3 GG, Art. 97 GG, Paragraf 1. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur.
+6. Analogie und teleologische Reduktion (Rechtsfortbildung): ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Bürgerliches Abschlussprodukt und Übergabe | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abwägung: Materialauswahl und Abwägungsgrundlagen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abwägungszuständigkeit: Welche Institution darf abwägen? | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Analogie und teleologische Reduktion (Rechtsfortbildung) | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bürgerliches Abschlussprodukt und Übergabe | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen | Normen: Paragraf 626 BGB, Paragraf 903 BGB, Paragraf 906 BGB. - Entscheidungs-/Quellenanker: Tragende. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abwägung: Materialauswahl und Abwägungsgrundlagen | Normen: Paragraf 307 BGB, Paragraf 253 BGB, Paragraf 133 BGB. - Entscheidungs-/Quellenanker: Tragende. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage | Normen: Paragraf 830 BGB, Paragraf 138 BGB, Paragraf 363 BGB. - Entscheidungs-/Quellenanker: Tragende. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abwägungszuständigkeit: Welche Institution darf abwägen? | Normen: Art. 20 Abs. 3 GG, Art. 97 GG, Paragraf 1. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Analogie und teleologische Reduktion (Rechtsfortbildung) | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

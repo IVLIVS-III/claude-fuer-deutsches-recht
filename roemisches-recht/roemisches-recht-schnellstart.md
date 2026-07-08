@@ -17,10 +17,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Römisches Recht: Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Rom Frühformen Zwölftafelrecht Sakrale Spruchform und: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Rom Zwölftafelgesetz Textzeugen Rekonstruktion und Vors: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Römisches Recht: Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel: Tafel I (Ladung) — si in ius vocat, ito — Selbsthilfe-geprägter Prozessbeginn - Tafel III (Schuldvollstreckung) —.
+2. Rom Frühformen Zwölftafelrecht Sakrale Spruchform und: Tafel I (Ladung) — si in ius vocat, ito — Selbsthilfe-geprägter Prozessbeginn - Tafel III (Schuldvollstreckung) —.
+3. Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht: Tafel I (Ladung) — si in ius vocat, ito — Selbsthilfe-geprägter Prozessbeginn - Tafel III (Schuldvollstreckung) —.
+4. Rom Zwölftafelgesetz Textzeugen Rekonstruktion und Vors: Tafel I (Ladung) — si in ius vocat, ito — Selbsthilfe-geprägter Prozessbeginn - Tafel III (Schuldvollstreckung) —.
 5. Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft: Auskunft, Einkommen, Bedarf, Selbstbehalt, Kindeswohl, Versorgungsausgleich und Verbundfrage rechnerisch trennen.
 6. Rom Zwölftafelrecht Familiengewalt Erbrecht und Nachbar: Auskunft, Einkommen, Bedarf, Selbstbehalt, Kindeswohl, Versorgungsausgleich und Verbundfrage rechnerisch trennen.
 
@@ -28,10 +28,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Römisches Recht: Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rom Frühformen Zwölftafelrecht Sakrale Spruchform und | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rom Zwölftafelgesetz Textzeugen Rekonstruktion und Vors | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Römisches Recht: Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel | Tafel I (Ladung) — si in ius vocat, ito — Selbsthilfe-geprägter Prozessbeginn - Tafel III (Schuldvollstreckung) —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rom Frühformen Zwölftafelrecht Sakrale Spruchform und | Tafel I (Ladung) — si in ius vocat, ito — Selbsthilfe-geprägter Prozessbeginn - Tafel III (Schuldvollstreckung) —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht | Tafel I (Ladung) — si in ius vocat, ito — Selbsthilfe-geprägter Prozessbeginn - Tafel III (Schuldvollstreckung) —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rom Zwölftafelgesetz Textzeugen Rekonstruktion und Vors | Tafel I (Ladung) — si in ius vocat, ito — Selbsthilfe-geprägter Prozessbeginn - Tafel III (Schuldvollstreckung) —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft | Auskunft, Einkommen, Bedarf, Selbstbehalt, Kindeswohl, Versorgungsausgleich und Verbundfrage rechnerisch trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Rom Zwölftafelrecht Familiengewalt Erbrecht und Nachbar | Auskunft, Einkommen, Bedarf, Selbstbehalt, Kindeswohl, Versorgungsausgleich und Verbundfrage rechnerisch trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 

@@ -17,22 +17,22 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abschlussmemo historische Tragfähigkeit: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Aktenanalyse: Historische Fallakte: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Abschlussmemo historische Tragfähigkeit: Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur.
+2. Aktenanalyse: Historische Fallakte: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
 3. Arbeitsgerichtsbarkeit Geschichte: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
-4. Arbeitsrecht: von der Gewerbeordnung bis zum BetrVG: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Archivfund in heutige Argumentation: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+4. Arbeitsrecht: von der Gewerbeordnung bis zum BetrVG: Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur.
+5. Archivfund in heutige Argumentation: Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur.
 6. BGB 1900 und die soziale Frage: Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abschlussmemo historische Tragfähigkeit | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenanalyse: Historische Fallakte | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschlussmemo historische Tragfähigkeit | Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenanalyse: Historische Fallakte | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsgerichtsbarkeit Geschichte | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsrecht: von der Gewerbeordnung bis zum BetrVG | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Archivfund in heutige Argumentation | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsrecht: von der Gewerbeordnung bis zum BetrVG | Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Archivfund in heutige Argumentation | Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | BGB 1900 und die soziale Frage | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker

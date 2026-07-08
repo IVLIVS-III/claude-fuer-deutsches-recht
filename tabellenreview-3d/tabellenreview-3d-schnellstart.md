@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. /tabellenreview-3d:risikoampel-aggregation: /tabellenreview-3d:risikoampel-aggregation: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. Anschluss-Routing: Anschluss-Routing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. /tabellenreview-3d:risikoampel-aggregation: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
+2. Anschluss-Routing: Dieses Anschluss-Routing für Tabellenreview 3d wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation.
 3. /tabellenreview-3d:arbeitsblatt-perspektiven-definieren: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
-4. Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-5. /tabellenreview-3d:abrufen-trail-protokoll: /tabellenreview-3d:abrufen-trail-protokoll: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-6. /tabellenreview-3d:belegkette-rückverfolgung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+4. Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine: Paragraf 611a Abs. 1 BGB — Arbeitsvertrag und Weisungsbindung. - Paragraf 241 Abs. 2 BGB —.
+5. /tabellenreview-3d:abrufen-trail-protokoll: 1. Für welches Mandat / Projekt wird der abrufen-Trail geführt? (M&A-DD / Immobilien / Vendor) 2. Wer.
+6. /tabellenreview-3d:belegkette-rückverfolgung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| /tabellenreview-3d:risikoampel-aggregation | /tabellenreview-3d:risikoampel-aggregation: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Anschluss-Routing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| /tabellenreview-3d:risikoampel-aggregation | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Dieses Anschluss-Routing für Tabellenreview 3d wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | /tabellenreview-3d:arbeitsblatt-perspektiven-definieren | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| /tabellenreview-3d:abrufen-trail-protokoll | /tabellenreview-3d:abrufen-trail-protokoll: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| /tabellenreview-3d:belegkette-rückverfolgung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine | Paragraf 611a Abs. 1 BGB — Arbeitsvertrag und Weisungsbindung. - Paragraf 241 Abs. 2 BGB —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| /tabellenreview-3d:abrufen-trail-protokoll | 1. Für welches Mandat / Projekt wird der abrufen-Trail geführt? (M&A-DD / Immobilien / Vendor) 2. Wer. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| /tabellenreview-3d:belegkette-rückverfolgung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abschlussmitteilung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Anonyme Meldung: Anonyme Meldung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-3. Antwortschreiben Hinweisgeber: Antwortschreiben Hinweisgeber: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-4. Anwaltliche Meldestelle: Anwaltliche Meldestelle: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. Abschlussmitteilung: Tragende Normen verifizieren: HinSchG Paragrafen 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU.
+2. Anonyme Meldung: Tragende Normen verifizieren: HinSchG Paragrafen 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU.
+3. Antwortschreiben Hinweisgeber: Tragende Normen verifizieren: HinSchG Paragrafen 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU.
+4. Anwaltliche Meldestelle: Tragende Normen verifizieren: HinSchG Paragrafen 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU.
 5. Arbeitsgericht Klage: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
-6. Arbeitsschutz: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+6. Arbeitsschutz: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abschlussmitteilung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anonyme Meldung | Anonyme Meldung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antwortschreiben Hinweisgeber | Antwortschreiben Hinweisgeber: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwaltliche Meldestelle | Anwaltliche Meldestelle: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschlussmitteilung | Tragende Normen verifizieren: HinSchG Paragrafen 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anonyme Meldung | Tragende Normen verifizieren: HinSchG Paragrafen 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Antwortschreiben Hinweisgeber | Tragende Normen verifizieren: HinSchG Paragrafen 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwaltliche Meldestelle | Tragende Normen verifizieren: HinSchG Paragrafen 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsgericht Klage | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsschutz | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsschutz | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

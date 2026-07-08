@@ -17,22 +17,22 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Anschluss-Routing: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. bAV: CTA Treuhand: bAV: CTA Treuhand: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-4. bAV: Fünftelregelung Auszahlung: bAV: Fünftelregelung Auszahlung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-5. bAV: Grenzüberschreitende Mobilität: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg: Tragende Normen verifizieren: BetrAVG Paragrafen 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG Paragrafen 3 Nr.
+2. Anschluss-Routing: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares.
+3. bAV: CTA Treuhand: Tragende Normen verifizieren: BetrAVG Paragrafen 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG Paragrafen 3 Nr.
+4. bAV: Fünftelregelung Auszahlung: Tragende Normen verifizieren: BetrAVG Paragrafen 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG Paragrafen 3 Nr.
+5. bAV: Grenzüberschreitende Mobilität: Tragende Normen verifizieren: BetrAVG Paragrafen 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG Paragrafen 3 Nr.
 6. bAV: Konzern-Design: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| bAV: CTA Treuhand | bAV: CTA Treuhand: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| bAV: Fünftelregelung Auszahlung | bAV: Fünftelregelung Auszahlung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| bAV: Grenzüberschreitende Mobilität | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg | Tragende Normen verifizieren: BetrAVG Paragrafen 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG Paragrafen 3 Nr. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| bAV: CTA Treuhand | Tragende Normen verifizieren: BetrAVG Paragrafen 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG Paragrafen 3 Nr. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| bAV: Fünftelregelung Auszahlung | Tragende Normen verifizieren: BetrAVG Paragrafen 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG Paragrafen 3 Nr. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| bAV: Grenzüberschreitende Mobilität | Tragende Normen verifizieren: BetrAVG Paragrafen 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG Paragrafen 3 Nr. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | bAV: Konzern-Design | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker

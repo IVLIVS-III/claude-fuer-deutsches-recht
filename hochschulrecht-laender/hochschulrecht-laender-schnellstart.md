@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Akkreditierung: Programm und System: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Akkreditierung und Qualität: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Alumni, Stiftung und Spenden-Compliance: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Anerkennung ECTS und Ausland: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Ausgründung und Transferstelle: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. BAföG und Hochschulstatus: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Akkreditierung: Programm und System: Arbeitsfokus: Akkreditierung: Programm und System. Prüfe diese Anker am Sachverhalt; ergänze nur Normen.
+2. Akkreditierung und Qualität: Arbeitsfokus: Akkreditierung Und Qualität. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben.
+3. Alumni, Stiftung und Spenden-Compliance: Arbeitsfokus: Alumni, Stiftung und Spenden-Compliance. Prüfe diese Anker am Sachverhalt; ergänze nur Normen.
+4. Anerkennung ECTS und Ausland: Arbeitsfokus: Anerkennung ECTS Und Ausland. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben.
+5. Ausgründung und Transferstelle: Arbeitsfokus: Ausgründung und Transferstelle. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben.
+6. BAföG und Hochschulstatus: Arbeitsfokus: BAföG Und Hochschulstatus. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Akkreditierung: Programm und System | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Akkreditierung und Qualität | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Alumni, Stiftung und Spenden-Compliance | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anerkennung ECTS und Ausland | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ausgründung und Transferstelle | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| BAföG und Hochschulstatus | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Akkreditierung: Programm und System | Arbeitsfokus: Akkreditierung: Programm und System. Prüfe diese Anker am Sachverhalt; ergänze nur Normen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Akkreditierung und Qualität | Arbeitsfokus: Akkreditierung Und Qualität. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Alumni, Stiftung und Spenden-Compliance | Arbeitsfokus: Alumni, Stiftung und Spenden-Compliance. Prüfe diese Anker am Sachverhalt; ergänze nur Normen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anerkennung ECTS und Ausland | Arbeitsfokus: Anerkennung ECTS Und Ausland. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ausgründung und Transferstelle | Arbeitsfokus: Ausgründung und Transferstelle. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| BAföG und Hochschulstatus | Arbeitsfokus: BAföG Und Hochschulstatus. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

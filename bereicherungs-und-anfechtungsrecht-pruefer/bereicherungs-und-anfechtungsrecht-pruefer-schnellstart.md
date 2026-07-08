@@ -17,22 +17,22 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abgetretene Forderung und Zession: Abgetretene Forderung und Zession: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. Anfechtung nach Paragraf 142 BGB und Rückabwicklung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Anfechtungsklage AnfG — Prozessuales: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Abgetretene Forderung und Zession: Anwendungsfall: abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Der Skill zwingt.
+2. Anfechtung nach Paragraf 142 BGB und Rückabwicklung: Anwendungsfall: eine wirksame Anfechtung den Rechtsgrund rückwirkend beseitigt. Der Skill zwingt.
+3. Anfechtungsklage AnfG — Prozessuales: 1. Liegt ein vollstreckbarer Titel gegen den Schuldner vor (Paragraf 2 AnfG)? 2. Ist die Verjährungsfrist.
 4. Fristen und Anfechtungszeitraum — AnfG: Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen.
-5. Einreden und Verteidigung des Anfechtungsgegners — AnfG: Einreden und Verteidigung des Anfechtungsgegners — AnfG: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein.
+5. Einreden und Verteidigung des Anfechtungsgegners — AnfG: 1. Auf welchen Anfechtungstatbestand stützt der klagende Gläubiger seinen Anspruch (Paragraf 3 oder Paragraf 4.
 6. AnfG-Grundtatbestand und Anfechtungsberechtigte: Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abgetretene Forderung und Zession | Abgetretene Forderung und Zession: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfechtung nach Paragraf 142 BGB und Rückabwicklung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfechtungsklage AnfG — Prozessuales | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abgetretene Forderung und Zession | Anwendungsfall: abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Der Skill zwingt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anfechtung nach Paragraf 142 BGB und Rückabwicklung | Anwendungsfall: eine wirksame Anfechtung den Rechtsgrund rückwirkend beseitigt. Der Skill zwingt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anfechtungsklage AnfG — Prozessuales | 1. Liegt ein vollstreckbarer Titel gegen den Schuldner vor (Paragraf 2 AnfG)? 2. Ist die Verjährungsfrist. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Fristen und Anfechtungszeitraum — AnfG | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einreden und Verteidigung des Anfechtungsgegners — AnfG | Einreden und Verteidigung des Anfechtungsgegners — AnfG: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Einreden und Verteidigung des Anfechtungsgegners — AnfG | 1. Auf welchen Anfechtungstatbestand stützt der klagende Gläubiger seinen Anspruch (Paragraf 3 oder Paragraf 4. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | AnfG-Grundtatbestand und Anfechtungsberechtigte | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker

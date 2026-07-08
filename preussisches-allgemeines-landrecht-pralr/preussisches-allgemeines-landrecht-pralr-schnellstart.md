@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. PrALR: Normnavigator jede PrALR-Norm als Karte erschließen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Pralr Normnavigator Jede Pralr Norm Als Karte Erschließ: Pralr Normnavigator Jede Pralr Norm Als Karte Erschließ: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein.
-3. Pralr Textzeugenvergleich 1794 1804 Ausgabe und Ocr: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. PrALR: Normnavigator jede PrALR-Norm als Karte erschließen: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie.
+2. Pralr Normnavigator Jede Pralr Norm Als Karte Erschließ: Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu.
+3. Pralr Textzeugenvergleich 1794 1804 Ausgabe und Ocr: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie.
 4. PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze: Auskunft, Einkommen, Bedarf, Selbstbehalt, Kindeswohl, Versorgungsausgleich und Verbundfrage rechnerisch trennen.
 5. PrALR: Erster Teil Titel 1 Personen und Stand: Auskunft, Einkommen, Bedarf, Selbstbehalt, Kindeswohl, Versorgungsausgleich und Verbundfrage rechnerisch trennen.
-6. PrALR: Erster Teil Titel 2 Sachen und Rechte: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+6. PrALR: Erster Teil Titel 2 Sachen und Rechte: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| PrALR: Normnavigator jede PrALR-Norm als Karte erschließen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pralr Normnavigator Jede Pralr Norm Als Karte Erschließ | Pralr Normnavigator Jede Pralr Norm Als Karte Erschließ: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pralr Textzeugenvergleich 1794 1804 Ausgabe und Ocr | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| PrALR: Normnavigator jede PrALR-Norm als Karte erschließen | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Pralr Normnavigator Jede Pralr Norm Als Karte Erschließ | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Pralr Textzeugenvergleich 1794 1804 Ausgabe und Ocr | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze | Auskunft, Einkommen, Bedarf, Selbstbehalt, Kindeswohl, Versorgungsausgleich und Verbundfrage rechnerisch trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | PrALR: Erster Teil Titel 1 Personen und Stand | Auskunft, Einkommen, Bedarf, Selbstbehalt, Kindeswohl, Versorgungsausgleich und Verbundfrage rechnerisch trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| PrALR: Erster Teil Titel 2 Sachen und Rechte | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| PrALR: Erster Teil Titel 2 Sachen und Rechte | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

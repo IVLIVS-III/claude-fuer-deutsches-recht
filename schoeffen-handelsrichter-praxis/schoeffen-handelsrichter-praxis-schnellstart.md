@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Finale Entscheidung als Volltext (Beratungs-Votum mit Tenor-Vorschlag): Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Befangenheit Selbstanzeige: Orientierung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Befangenheit Selbstanzeige: Sitzungspraxis: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Befangenheit und Selbstanzeige: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Beratung und Abstimmung: Beratung und Abstimmung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-6. Beratung und Abstimmung: Orientierung: Beratung und Abstimmung: Orientierung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. Finale Entscheidung als Volltext (Beratungs-Votum mit Tenor-Vorschlag): Dieser Skill erzeugt die finale Entscheidung des Spruchkörpers nicht als bloßen Vorschlag oder Votum, sondern.
+2. Befangenheit Selbstanzeige: Orientierung: Tragende Normen verifizieren: GVG Paragrafen 28-77, 116, StPO Paragrafen 30 ff., LRiStAG — Fundstellen.
+3. Befangenheit Selbstanzeige: Sitzungspraxis: Tragende Normen verifizieren: GVG Paragrafen 28-77, 116, StPO Paragrafen 30 ff., LRiStAG — Fundstellen.
+4. Befangenheit und Selbstanzeige: Tragende Normen verifizieren: GVG Paragrafen 28-77, 116, StPO Paragrafen 30 ff., LRiStAG — Fundstellen.
+5. Beratung und Abstimmung: Tragende Normen verifizieren: GVG Paragrafen 28-77, 116, StPO Paragrafen 30 ff., LRiStAG — Fundstellen.
+6. Beratung und Abstimmung: Orientierung: Tragende Normen verifizieren: GVG Paragrafen 28-77, 116, StPO Paragrafen 30 ff., LRiStAG — Fundstellen.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Finale Entscheidung als Volltext (Beratungs-Votum mit Tenor-Vorschlag) | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Befangenheit Selbstanzeige: Orientierung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Befangenheit Selbstanzeige: Sitzungspraxis | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Befangenheit und Selbstanzeige | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beratung und Abstimmung | Beratung und Abstimmung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beratung und Abstimmung: Orientierung | Beratung und Abstimmung: Orientierung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Finale Entscheidung als Volltext (Beratungs-Votum mit Tenor-Vorschlag) | Dieser Skill erzeugt die finale Entscheidung des Spruchkörpers nicht als bloßen Vorschlag oder Votum, sondern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Befangenheit Selbstanzeige: Orientierung | Tragende Normen verifizieren: GVG Paragrafen 28-77, 116, StPO Paragrafen 30 ff., LRiStAG — Fundstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Befangenheit Selbstanzeige: Sitzungspraxis | Tragende Normen verifizieren: GVG Paragrafen 28-77, 116, StPO Paragrafen 30 ff., LRiStAG — Fundstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Befangenheit und Selbstanzeige | Tragende Normen verifizieren: GVG Paragrafen 28-77, 116, StPO Paragrafen 30 ff., LRiStAG — Fundstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beratung und Abstimmung | Tragende Normen verifizieren: GVG Paragrafen 28-77, 116, StPO Paragrafen 30 ff., LRiStAG — Fundstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beratung und Abstimmung: Orientierung | Tragende Normen verifizieren: GVG Paragrafen 28-77, 116, StPO Paragrafen 30 ff., LRiStAG — Fundstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abgrenzung: Konventionelle Software versus System-System: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Regulierungsrahmen-OWi und interne Untersuchung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Algorithmische Kollusion und Pricing-Systeme: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Abgrenzung: Konventionelle Software versus System-System: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast.
+2. Regulierungsrahmen-OWi und interne Untersuchung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
+3. Algorithmische Kollusion und Pricing-Systeme: Dynamic Pricing. - Wettbewerberpreis-Monitoring. - Repricing-Bots auf Marktplätzen. - gemeinsame Softwareanbieter.
 4. Anbieter-Werden — Art. 25 Regulierungsrahmen: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
-5. Anwaltliche System-Nutzung und Quellencheck: Anwaltliche System-Nutzung und Quellencheck: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-6. Art. 4 Regulierungsrahmen — System-Kompetenz als Compliance-Programm: Art. 4 Regulierungsrahmen — System-Kompetenz als Compliance-Programm: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument.
+5. Anwaltliche System-Nutzung und Quellencheck: Tragende Normen verifizieren: Regulierungsrahmen (EU 2024/1689) Art. 3, 5 (Verbote), 6 (Hochrisiko), 8-15.
+6. Art. 4 Regulierungsrahmen — System-Kompetenz als Compliance-Programm: Art. 4 Regulierungsrahmen: Anbieter und Betreiber müssen System-Kompetenz sicherstellen. - Art. 3 Nr. 1, 3, 4, 63.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abgrenzung: Konventionelle Software versus System-System | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Regulierungsrahmen-OWi und interne Untersuchung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Algorithmische Kollusion und Pricing-Systeme | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abgrenzung: Konventionelle Software versus System-System | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Regulierungsrahmen-OWi und interne Untersuchung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Algorithmische Kollusion und Pricing-Systeme | Dynamic Pricing. - Wettbewerberpreis-Monitoring. - Repricing-Bots auf Marktplätzen. - gemeinsame Softwareanbieter. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anbieter-Werden — Art. 25 Regulierungsrahmen | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwaltliche System-Nutzung und Quellencheck | Anwaltliche System-Nutzung und Quellencheck: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Art. 4 Regulierungsrahmen — System-Kompetenz als Compliance-Programm | Art. 4 Regulierungsrahmen — System-Kompetenz als Compliance-Programm: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwaltliche System-Nutzung und Quellencheck | Tragende Normen verifizieren: Regulierungsrahmen (EU 2024/1689) Art. 3, 5 (Verbote), 6 (Hochrisiko), 8-15. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Art. 4 Regulierungsrahmen — System-Kompetenz als Compliance-Programm | Art. 4 Regulierungsrahmen: Anbieter und Betreiber müssen System-Kompetenz sicherstellen. - Art. 3 Nr. 1, 3, 4, 63. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Verl-041 · Abmahnung Buchpreisbindung: Verl-041 · Abmahnung Buchpreisbindung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle: Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein.
-3. Verl-003 · Autor, Herausgeber, Mitwirkende: Rechtekette im Sammelwerk: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Verl-041 · Abmahnung Buchpreisbindung: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
+2. Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
+3. Verl-003 · Autor, Herausgeber, Mitwirkende: Rechtekette im Sammelwerk: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
 4. Verl-026 · Autorenkündigung, Bestseller und Nachvergütung: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
-5. Verl-033 · Bibliothekslizenz, E-Lending und Zugriff: Verl-033 · Bibliothekslizenz, E-Lending und Zugriff: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-6. Verl-018 · Bildrechte, Karten, Tabellen und Drittmaterial: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+5. Verl-033 · Bibliothekslizenz, E-Lending und Zugriff: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
+6. Verl-018 · Bildrechte, Karten, Tabellen und Drittmaterial: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Verl-041 · Abmahnung Buchpreisbindung | Verl-041 · Abmahnung Buchpreisbindung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle | Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verl-003 · Autor, Herausgeber, Mitwirkende: Rechtekette im Sammelwerk | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verl-041 · Abmahnung Buchpreisbindung | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verl-003 · Autor, Herausgeber, Mitwirkende: Rechtekette im Sammelwerk | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Verl-026 · Autorenkündigung, Bestseller und Nachvergütung | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verl-033 · Bibliothekslizenz, E-Lending und Zugriff | Verl-033 · Bibliothekslizenz, E-Lending und Zugriff: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verl-018 · Bildrechte, Karten, Tabellen und Drittmaterial | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verl-033 · Bibliothekslizenz, E-Lending und Zugriff | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verl-018 · Bildrechte, Karten, Tabellen und Drittmaterial | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

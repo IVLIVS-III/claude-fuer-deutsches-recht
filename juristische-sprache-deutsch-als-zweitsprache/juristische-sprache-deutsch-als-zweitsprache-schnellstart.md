@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Prüfung Vor Absenden: Prüfung Vor Absenden: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. Aktenzeichen und Betreff: Aktenzeichen und Betreff: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-3. Amtssprache Entschluesseln: Amtssprache Entschluesseln: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-4. Anhörung Verstehen: Anhörung Verstehen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-5. Anlagenliste Verstehen: Anlagenliste Verstehen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-6. Antrag Stellungnahme Erklärung: Antrag Stellungnahme Erklärung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. Prüfung Vor Absenden: Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher).
+2. Aktenzeichen und Betreff: Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher).
+3. Amtssprache Entschluesseln: Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher).
+4. Anhörung Verstehen: Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher).
+5. Anlagenliste Verstehen: Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher).
+6. Antrag Stellungnahme Erklärung: Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher).
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Prüfung Vor Absenden | Prüfung Vor Absenden: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenzeichen und Betreff | Aktenzeichen und Betreff: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Amtssprache Entschluesseln | Amtssprache Entschluesseln: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anhörung Verstehen | Anhörung Verstehen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anlagenliste Verstehen | Anlagenliste Verstehen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antrag Stellungnahme Erklärung | Antrag Stellungnahme Erklärung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Prüfung Vor Absenden | Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenzeichen und Betreff | Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amtssprache Entschluesseln | Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anhörung Verstehen | Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anlagenliste Verstehen | Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Antrag Stellungnahme Erklärung | Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

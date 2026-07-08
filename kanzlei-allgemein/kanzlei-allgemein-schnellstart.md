@@ -18,22 +18,22 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 ## 3. Kernroute
 
 1. Abwesenheiten, Urlaub, Krankheit: Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen.
-2. Akte, Konfliktcheck und Mandatsanlage: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+2. Akte, Konfliktcheck und Mandatsanlage: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
 3. Aktenbestandspflege: Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen.
-4. Aktenzeichen und Verknüpfungen: Aktenzeichen und Verknüpfungen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-5. beA-Nachrichtenjournal und EB-Workflow: beA-Nachrichtenjournal und EB-Workflow: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-6. beA-Versand prüfen: beA-Versand prüfen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+4. Aktenzeichen und Verknüpfungen: Erkennung Normalisierung und Verknüpfung von Aktenzeichen in der Kanzlei. Anwendungsfall beA-Nachricht oder Brief.
+5. beA-Nachrichtenjournal und EB-Workflow: Dokumentation von beA-Verbindungen Nachrichten Versand und Empfangsbekenntnissen. Anwendungsfall beA-Eingang.
+6. beA-Versand prüfen: Prüft den beA-Versand nach Pflichten des Paragraf 130a ZPO Paragraf 32d StPO Paragraf 65d SGG Paragraf 55a VwGO.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Abwesenheiten, Urlaub, Krankheit | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Akte, Konfliktcheck und Mandatsanlage | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Akte, Konfliktcheck und Mandatsanlage | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Aktenbestandspflege | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenzeichen und Verknüpfungen | Aktenzeichen und Verknüpfungen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| beA-Nachrichtenjournal und EB-Workflow | beA-Nachrichtenjournal und EB-Workflow: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| beA-Versand prüfen | beA-Versand prüfen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenzeichen und Verknüpfungen | Erkennung Normalisierung und Verknüpfung von Aktenzeichen in der Kanzlei. Anwendungsfall beA-Nachricht oder Brief. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| beA-Nachrichtenjournal und EB-Workflow | Dokumentation von beA-Verbindungen Nachrichten Versand und Empfangsbekenntnissen. Anwendungsfall beA-Eingang. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| beA-Versand prüfen | Prüft den beA-Versand nach Pflichten des Paragraf 130a ZPO Paragraf 32d StPO Paragraf 65d SGG Paragraf 55a VwGO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

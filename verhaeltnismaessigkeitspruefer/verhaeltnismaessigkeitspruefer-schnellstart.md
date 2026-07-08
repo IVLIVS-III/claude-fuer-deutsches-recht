@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Absolute Grenze: Menschenwürdiges Existenzminimum: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Absolute Grenze: Menschenwuerde Art 1 I GG: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Absolute Grenze: Wesensgehalt Art 19 II GG: Absolute Grenze: Wesensgehalt Art 19 II GG: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-4. Abwägungsgesetz und Gewichtsformel — Alexys Werkzeug für Stufe 4: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-5. AGG-Systematik und Verhältnismäßigkeit als Rechtfertigung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Angemessenheit Abwägung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Absolute Grenze: Menschenwürdiges Existenzminimum: ] Der Staat darf das Existenzminimum nicht unterschreiten – auch nicht aus haushalts- oder fiskalpolitischen.
+2. Absolute Grenze: Menschenwuerde Art 1 I GG: ] Die Menschenwuerde ist die einzige Norm im Grundgesetz, die jeder Abwägung entzogen ist. Wo sie verletzt.
+3. Absolute Grenze: Wesensgehalt Art 19 II GG: ] "In keinem Falle darf ein Grundrecht in seinem Wesensgehalt angetastet werden." (Art 19 II GG) Wesensgehalt ist.
+4. Abwägungsgesetz und Gewichtsformel — Alexys Werkzeug für Stufe 4: Stufe 4 (Angemessenheit) wirkt oft wie Bauchgefühl. Alexys Gewichtsformel formalisiert die Wertungen, ohne sie.
+5. AGG-Systematik und Verhältnismäßigkeit als Rechtfertigung: Das AGG ist die einfachrechtliche Brückennorm zwischen dem verfassungsrechtlichen Diskriminierungsverbot des Art.
+6. Angemessenheit Abwägung: Auf der vierten Stufe wird abgewogen: Steht der Eingriff in einem ausgewogenen Verhältnis zum Zweckgewinn? BVerfGE.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Absolute Grenze: Menschenwürdiges Existenzminimum | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Absolute Grenze: Menschenwuerde Art 1 I GG | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Absolute Grenze: Wesensgehalt Art 19 II GG | Absolute Grenze: Wesensgehalt Art 19 II GG: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abwägungsgesetz und Gewichtsformel — Alexys Werkzeug für Stufe 4 | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AGG-Systematik und Verhältnismäßigkeit als Rechtfertigung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Angemessenheit Abwägung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Absolute Grenze: Menschenwürdiges Existenzminimum | ] Der Staat darf das Existenzminimum nicht unterschreiten – auch nicht aus haushalts- oder fiskalpolitischen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Absolute Grenze: Menschenwuerde Art 1 I GG | ] Die Menschenwuerde ist die einzige Norm im Grundgesetz, die jeder Abwägung entzogen ist. Wo sie verletzt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Absolute Grenze: Wesensgehalt Art 19 II GG | ] "In keinem Falle darf ein Grundrecht in seinem Wesensgehalt angetastet werden." (Art 19 II GG) Wesensgehalt ist. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abwägungsgesetz und Gewichtsformel — Alexys Werkzeug für Stufe 4 | Stufe 4 (Angemessenheit) wirkt oft wie Bauchgefühl. Alexys Gewichtsformel formalisiert die Wertungen, ohne sie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AGG-Systematik und Verhältnismäßigkeit als Rechtfertigung | Das AGG ist die einfachrechtliche Brückennorm zwischen dem verfassungsrechtlichen Diskriminierungsverbot des Art. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Angemessenheit Abwägung | Auf der vierten Stufe wird abgewogen: Steht der Eingriff in einem ausgewogenen Verhältnis zum Zweckgewinn? BVerfGE. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

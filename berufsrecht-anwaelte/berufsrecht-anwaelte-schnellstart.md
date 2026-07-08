@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Regulierungsrahmen-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Aktenführung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Anwälte: aktenherausgabe und zurückbehaltung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Anwälte: aktenherausgabe und zurückbehaltung - Organisationspflichten, Prävention, Team-Anweisung.: Anwälte: aktenherausgabe und zurückbehaltung - Organisationspflichten, Prävention, Team-Anweisung.: Tatsachen, Frist.
-5. Anwälte: aktenherausgabe und zurückbehaltung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Anwälte: aktenherausgabe und zurückbehaltung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Regulierungsrahmen-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz: Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO — Fundstellen über gesetze-im-internet.de.
+2. Aktenführung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
+3. Anwälte: aktenherausgabe und zurückbehaltung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie.
+4. Anwälte: aktenherausgabe und zurückbehaltung - Organisationspflichten, Prävention, Team-Anweisung.: Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO — Fundstellen über gesetze-im-internet.de.
+5. Anwälte: aktenherausgabe und zurückbehaltung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste.
+6. Anwälte: aktenherausgabe und zurückbehaltung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen: Normenanker: BRAO, BORA, FAO, RVG, RDG, GwG, beA-Pflichten, anwaltliche Verschwiegenheit und anwaltsgerichtliches.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Regulierungsrahmen-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenführung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwälte: aktenherausgabe und zurückbehaltung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwälte: aktenherausgabe und zurückbehaltung - Organisationspflichten, Prävention, Team-Anweisung. | Anwälte: aktenherausgabe und zurückbehaltung - Organisationspflichten, Prävention, Team-Anweisung.: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwälte: aktenherausgabe und zurückbehaltung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwälte: aktenherausgabe und zurückbehaltung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Regulierungsrahmen-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz | Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO — Fundstellen über gesetze-im-internet.de. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenführung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwälte: aktenherausgabe und zurückbehaltung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwälte: aktenherausgabe und zurückbehaltung - Organisationspflichten, Prävention, Team-Anweisung. | Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO — Fundstellen über gesetze-im-internet.de. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwälte: aktenherausgabe und zurückbehaltung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwälte: aktenherausgabe und zurückbehaltung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen | Normenanker: BRAO, BORA, FAO, RVG, RDG, GwG, beA-Pflichten, anwaltliche Verschwiegenheit und anwaltsgerichtliches. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

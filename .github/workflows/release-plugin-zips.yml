@@ -37,6 +37,9 @@ jobs:
       - name: YAML-Frontmatter validieren
         run: python3 scripts/validate-yaml-frontmatter.py
 
+      - name: Skill-Aktivierungssignale prüfen
+        run: python3 scripts/audit-skill-activation.py
+
       - name: Gesamt-PDFs der Testakten validieren
         run: python3 scripts/validate-testakten-gesamt-pdf.py
 

@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Schulbau Oepp Beihilfe Markieren: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-2. Schulbau Oepp Haushalt Anbinden: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-3. Autobahnprojekt Red Flags Listen: Autobahnprojekt Red Flags Listen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-4. Autobahnprojekt Beihilfe Markieren: Autobahnprojekt Beihilfe Markieren: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-5. Autobahnprojekt Haushalt Anbinden: Autobahnprojekt Haushalt Anbinden: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-6. Autobahnprojekt Kommunikation Schreibe: Autobahnprojekt Kommunikation Schreibe: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. Schulbau Oepp Beihilfe Markieren: Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg.
+2. Schulbau Oepp Haushalt Anbinden: Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg.
+3. Autobahnprojekt Red Flags Listen: Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg.
+4. Autobahnprojekt Beihilfe Markieren: Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg.
+5. Autobahnprojekt Haushalt Anbinden: Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg.
+6. Autobahnprojekt Kommunikation Schreibe: Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Schulbau Oepp Beihilfe Markieren | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schulbau Oepp Haushalt Anbinden | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Autobahnprojekt Red Flags Listen | Autobahnprojekt Red Flags Listen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Autobahnprojekt Beihilfe Markieren | Autobahnprojekt Beihilfe Markieren: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Autobahnprojekt Haushalt Anbinden | Autobahnprojekt Haushalt Anbinden: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Autobahnprojekt Kommunikation Schreibe | Autobahnprojekt Kommunikation Schreibe: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schulbau Oepp Beihilfe Markieren | Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schulbau Oepp Haushalt Anbinden | Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Autobahnprojekt Red Flags Listen | Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Autobahnprojekt Beihilfe Markieren | Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Autobahnprojekt Haushalt Anbinden | Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Autobahnprojekt Kommunikation Schreibe | Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

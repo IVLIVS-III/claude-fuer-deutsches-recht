@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Paragraf 1 GWB Kartellverbot nationale Prüfung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Paragraf 19a GWB überragende marktübergreifende Bedeutung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Relative Marktmacht und Economic Dependence: Relative Marktmacht und Economic Dependence: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-4. Aeuv: Behörden-, Gerichts- oder Registerweg: Aeuv: Behörden-, Gerichts- oder Registerweg: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-5. Algorithmic Collusion und algorithmische Systeme Pricing: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Alleinvertrieb Kundengruppen Gebietsschutz: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Paragraf 1 GWB Kartellverbot nationale Prüfung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
+2. Paragraf 19a GWB überragende marktübergreifende Bedeutung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
+3. Relative Marktmacht und Economic Dependence: Tragende Normen verifizieren: GWB Paragrafen 18, 19, 20, 35, 36, 39, AEUV Art. 101, 102, FKVO (VO 139/2004).
+4. Aeuv: Behörden-, Gerichts- oder Registerweg: Tragende Normen verifizieren: GWB Paragrafen 18, 19, 20, 35, 36, 39, AEUV Art. 101, 102, FKVO (VO 139/2004).
+5. Algorithmic Collusion und algorithmische Systeme Pricing: Tragende Normen verifizieren: GWB Paragrafen 18, 19, 20, 35, 36, 39, AEUV Art. 101, 102, FKVO (VO 139/2004).
+6. Alleinvertrieb Kundengruppen Gebietsschutz: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Paragraf 1 GWB Kartellverbot nationale Prüfung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Paragraf 19a GWB überragende marktübergreifende Bedeutung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Relative Marktmacht und Economic Dependence | Relative Marktmacht und Economic Dependence: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aeuv: Behörden-, Gerichts- oder Registerweg | Aeuv: Behörden-, Gerichts- oder Registerweg: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Algorithmic Collusion und algorithmische Systeme Pricing | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Alleinvertrieb Kundengruppen Gebietsschutz | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Paragraf 1 GWB Kartellverbot nationale Prüfung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Paragraf 19a GWB überragende marktübergreifende Bedeutung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Relative Marktmacht und Economic Dependence | Tragende Normen verifizieren: GWB Paragrafen 18, 19, 20, 35, 36, 39, AEUV Art. 101, 102, FKVO (VO 139/2004). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aeuv: Behörden-, Gerichts- oder Registerweg | Tragende Normen verifizieren: GWB Paragrafen 18, 19, 20, 35, 36, 39, AEUV Art. 101, 102, FKVO (VO 139/2004). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Algorithmic Collusion und algorithmische Systeme Pricing | Tragende Normen verifizieren: GWB Paragrafen 18, 19, 20, 35, 36, 39, AEUV Art. 101, 102, FKVO (VO 139/2004). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Alleinvertrieb Kundengruppen Gebietsschutz | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

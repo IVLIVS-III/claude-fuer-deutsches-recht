@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Abtretungsverbot Paragraf 354a HGB Handelsgeschäft: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. AGB Kontrolle Factoringklauseln B2B: AGB Kontrolle Factoringklauseln B2B: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-4. abrufenrechte Stichproben Forderungsprüfung: abrufenrechte Stichproben Forderungsprüfung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
+2. Abtretungsverbot Paragraf 354a HGB Handelsgeschäft: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
+3. AGB Kontrolle Factoringklauseln B2B: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
+4. abrufenrechte Stichproben Forderungsprüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken.
 5. Aufsichtsrechtliche Schnellampel KWG ZAG: Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen.
-6. Auslandsfactoring Import Export Two-Factor-System: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+6. Auslandsfactoring Import Export Two-Factor-System: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abtretungsverbot Paragraf 354a HGB Handelsgeschäft | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AGB Kontrolle Factoringklauseln B2B | AGB Kontrolle Factoringklauseln B2B: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| abrufenrechte Stichproben Forderungsprüfung | abrufenrechte Stichproben Forderungsprüfung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abtretungsverbot Paragraf 354a HGB Handelsgeschäft | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AGB Kontrolle Factoringklauseln B2B | prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| abrufenrechte Stichproben Forderungsprüfung | prüft die einschlägigen Voraussetzungen, Dokumente, Risiken. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Aufsichtsrechtliche Schnellampel KWG ZAG | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auslandsfactoring Import Export Two-Factor-System | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auslandsfactoring Import Export Two-Factor-System | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

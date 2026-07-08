@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Klar, fest, ohne Theater: Klar, fest, ohne Theater: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. Anzeige, nicht Erlaubnis: Anzeige, nicht Erlaubnis: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-3. Auflagen brauchen mehr als Bauchgefühl: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-4. Risiko realistisch, nicht panisch: Risiko realistisch, nicht panisch: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-5. Bannmeile ist Zusatzregime: Bannmeile ist Zusatzregime: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-6. Art. 8 auch praktisch zugänglich machen: Art. 8 auch praktisch zugänglich machen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. Klar, fest, ohne Theater: Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO.
+2. Anzeige, nicht Erlaubnis: Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO.
+3. Auflagen brauchen mehr als Bauchgefühl: Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO.
+4. Risiko realistisch, nicht panisch: Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO.
+5. Bannmeile ist Zusatzregime: Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO.
+6. Art. 8 auch praktisch zugänglich machen: Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Klar, fest, ohne Theater | Klar, fest, ohne Theater: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anzeige, nicht Erlaubnis | Anzeige, nicht Erlaubnis: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auflagen brauchen mehr als Bauchgefühl | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Risiko realistisch, nicht panisch | Risiko realistisch, nicht panisch: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bannmeile ist Zusatzregime | Bannmeile ist Zusatzregime: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Art. 8 auch praktisch zugänglich machen | Art. 8 auch praktisch zugänglich machen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klar, fest, ohne Theater | Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anzeige, nicht Erlaubnis | Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auflagen brauchen mehr als Bauchgefühl | Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Risiko realistisch, nicht panisch | Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bannmeile ist Zusatzregime | Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Art. 8 auch praktisch zugänglich machen | Tragende Normen verifizieren: VersG Bund / Länder, GG Art. 8, BVerfGE 69, 315 (Brokdorf), BVerfGE 122, 342, VwGO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

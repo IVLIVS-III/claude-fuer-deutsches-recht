@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Laufzeitende und Exitplan: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Altlasten und Rückbau: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-3. Change of Control beim Erbbauberechtigten: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-4. Entschädigung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Grundbuchstreit im Erbbaurecht: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-6. Erbbaugrundbuch lesen: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
+1. Laufzeitende und Exitplan: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie.
+2. Altlasten und Rückbau: Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt.
+3. Change of Control beim Erbbauberechtigten: Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt.
+4. Entschädigung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste.
+5. Grundbuchstreit im Erbbaurecht: Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt.
+6. Erbbaugrundbuch lesen: Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Laufzeitende und Exitplan | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Altlasten und Rückbau | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Change of Control beim Erbbauberechtigten | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Entschädigung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Grundbuchstreit im Erbbaurecht | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Erbbaugrundbuch lesen | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Laufzeitende und Exitplan | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Altlasten und Rückbau | Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Change of Control beim Erbbauberechtigten | Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Entschädigung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Grundbuchstreit im Erbbaurecht | Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Erbbaugrundbuch lesen | Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

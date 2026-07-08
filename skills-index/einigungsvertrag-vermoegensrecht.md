@@ -1,6 +1,6 @@
 # einigungsvertrag-vermoegensrecht
 
-**123 Skills** · Stand `v429.5.0`
+**123 Skills** · Stand `v429.6.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/einigungsvertrag-vermoegensrecht/README.md)

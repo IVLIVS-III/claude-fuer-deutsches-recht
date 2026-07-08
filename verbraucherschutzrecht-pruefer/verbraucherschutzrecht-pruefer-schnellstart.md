@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Online Shop Beschwerde Schreiben: Online Shop Beschwerde Schreiben: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. Digitale Inhalte Widerruf Formulieren: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Digitale Inhalte Schlichtung Wählen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Abo Falle Agb Redlinen: Abo Falle Agb Redlinen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-5. Abo Falle Anspruch Prüfen: Abo Falle Anspruch Prüfen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-6. Abo Falle Behördenmeldung Prüfen: Abo Falle Behördenmeldung Prüfen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. Online Shop Beschwerde Schreiben: Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG.
+2. Digitale Inhalte Widerruf Formulieren: Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG.
+3. Digitale Inhalte Schlichtung Wählen: Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG.
+4. Abo Falle Agb Redlinen: Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG.
+5. Abo Falle Anspruch Prüfen: Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG.
+6. Abo Falle Behördenmeldung Prüfen: Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Online Shop Beschwerde Schreiben | Online Shop Beschwerde Schreiben: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Digitale Inhalte Widerruf Formulieren | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Digitale Inhalte Schlichtung Wählen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abo Falle Agb Redlinen | Abo Falle Agb Redlinen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abo Falle Anspruch Prüfen | Abo Falle Anspruch Prüfen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abo Falle Behördenmeldung Prüfen | Abo Falle Behördenmeldung Prüfen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Online Shop Beschwerde Schreiben | Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Digitale Inhalte Widerruf Formulieren | Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Digitale Inhalte Schlichtung Wählen | Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abo Falle Agb Redlinen | Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abo Falle Anspruch Prüfen | Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abo Falle Behördenmeldung Prüfen | Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

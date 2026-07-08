@@ -17,22 +17,22 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Aktenzugang, Geschäftsgeheimnisse, Schwärzung bei der Bundesnetzagentur: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Anhörung, Auskunftsbeschluss, Fristenplan: Anhörung, Auskunftsbeschluss, Fristenplan: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-3. Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband: Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes.
-4. Algorithmen und Empfehlungssysteme nach dem Digital Services Act: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Außergerichtliche Streitbeilegungsstelle nach Art. 21 DSA: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Aktenzugang, Geschäftsgeheimnisse, Schwärzung bei der Bundesnetzagentur: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
+2. Anhörung, Auskunftsbeschluss, Fristenplan: Tragende Normen verifizieren: BNetzAG, EnWG Paragrafen 21 ff. (Anreizregulierung), TKG Paragrafen 9 ff.
+3. Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband: Tragende Normen verifizieren: BNetzAG, EnWG Paragrafen 21 ff. (Anreizregulierung), TKG Paragrafen 9 ff.
+4. Algorithmen und Empfehlungssysteme nach dem Digital Services Act: Tragende Normen verifizieren: BNetzAG, EnWG Paragrafen 21 ff. (Anreizregulierung), TKG Paragrafen 9 ff.
+5. Außergerichtliche Streitbeilegungsstelle nach Art. 21 DSA: Tragende Normen verifizieren: BNetzAG, EnWG Paragrafen 21 ff. (Anreizregulierung), TKG Paragrafen 9 ff.
 6. Dark Patterns: DSA-, UWG- und Datenschutz-Grundverordnung-Schnittstelle: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aktenzugang, Geschäftsgeheimnisse, Schwärzung bei der Bundesnetzagentur | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anhörung, Auskunftsbeschluss, Fristenplan | Anhörung, Auskunftsbeschluss, Fristenplan: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband | Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Algorithmen und Empfehlungssysteme nach dem Digital Services Act | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Außergerichtliche Streitbeilegungsstelle nach Art. 21 DSA | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenzugang, Geschäftsgeheimnisse, Schwärzung bei der Bundesnetzagentur | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anhörung, Auskunftsbeschluss, Fristenplan | Tragende Normen verifizieren: BNetzAG, EnWG Paragrafen 21 ff. (Anreizregulierung), TKG Paragrafen 9 ff. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband | Tragende Normen verifizieren: BNetzAG, EnWG Paragrafen 21 ff. (Anreizregulierung), TKG Paragrafen 9 ff. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Algorithmen und Empfehlungssysteme nach dem Digital Services Act | Tragende Normen verifizieren: BNetzAG, EnWG Paragrafen 21 ff. (Anreizregulierung), TKG Paragrafen 9 ff. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Außergerichtliche Streitbeilegungsstelle nach Art. 21 DSA | Tragende Normen verifizieren: BNetzAG, EnWG Paragrafen 21 ff. (Anreizregulierung), TKG Paragrafen 9 ff. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Dark Patterns: DSA-, UWG- und Datenschutz-Grundverordnung-Schnittstelle | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker

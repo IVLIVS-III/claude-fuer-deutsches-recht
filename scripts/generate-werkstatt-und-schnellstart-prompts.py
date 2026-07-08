@@ -840,6 +840,8 @@ def detail_question(detail: str) -> str:
 
 def quick_grip(profile: ThemenProfil, field: str, detail: str) -> str:
     hay = f"{profile.key} {field} {detail}".lower()
+    if profile.key == "eu_prozess":
+        return "Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern"
     if profile.key == "arbeits" or "kündigung" in hay or "befristung" in hay or "betriebsrat" in hay or "arbeitsgericht" in hay:
         return "Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen"
     if "insolvenz" in hay or "starug" in hay or profile.key in {"insolvenz", "liquiditaet"}:
@@ -862,17 +864,23 @@ def quick_grip(profile: ThemenProfil, field: str, detail: str) -> str:
         return "Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen"
     if "vergabe" in hay or profile.key == "vergabe":
         return "Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen"
-    if "bau" in hay or "vob" in hay or "hoai" in hay or profile.key in {"bau", "bauplanung"}:
+    if profile.key in {"bau", "bauplanung"}:
         return "Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen"
     if "datenschutz" in hay or "dsgvo" in hay or profile.key == "datenschutz":
         return "Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren"
     if "urheber" in hay or "marke" in hay or "design" in hay or profile.key == "urheber":
         return "Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten"
-    if "it" in hay or "software" in hay or profile.key == "it":
+    if profile.key == "it":
         return "Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen"
     if "verwalt" in hay or profile.key == "verwaltung":
         return "Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen"
-    return f"{field}: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden"
+    candidate = detail_question(detail)
+    field_prefix = field.rstrip(" .:-").lower()
+    if field_prefix and candidate.lower().startswith(field_prefix + ":"):
+        candidate = candidate.split(":", 1)[1].strip()
+    if candidate and len(candidate) >= 45 and "tatsachen, frist, zuständigkeit" not in candidate.lower():
+        return candidate
+    return "Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden"
 
 
 def quick_stations(profile: ThemenProfil, skill_material: list[dict[str, str]]) -> list[str]:
@@ -901,7 +909,7 @@ def domain_goal(mf: dict, plugin_dir: Path, profile: ThemenProfil) -> str:
 
 def output_hint(profile: ThemenProfil, fields: list[tuple[str, str]]) -> str:
     if profile.skelette:
-        return clean("; ".join(profile.skelette[:2]), 330).rstrip(".")
+        return clean("; ".join(item.rstrip(" .") for item in profile.skelette[:2]), 330).rstrip(".")
     if fields:
         names = ", ".join(name for name, _detail in fields[:4])
         return clean(f"Ausgabe entlang der Kernfelder {names}: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt", 330).rstrip(".")

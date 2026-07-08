@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Betreuungsrecht — Allgemein: Betreuungsrecht — Allgemein: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. Anschluss-Routing: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Aufgabenkreise festlegen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Bericht: Mandantenkommunikation und Entscheidungsvorlage: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Betreuer als Erbe und Beschenkter: Betreuer als Erbe und Beschenkter: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-6. Berufliche und ehrenamtliche Betreuung; Weg zur Registrierung: Berufliche und ehrenamtliche Betreuung; Weg zur Registrierung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument.
+1. Betreuungsrecht — Allgemein: Tragende Normen verifizieren: BtOG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur.
+2. Anschluss-Routing: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte.
+3. Aufgabenkreise festlegen: Arbeitsfokus: Aufgabenkreise festlegen. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben.
+4. Bericht: Mandantenkommunikation und Entscheidungsvorlage: Arbeitsfokus: Bericht: Mandantenkommunikation und Entscheidungsvorlage. Prüfe diese Anker am Sachverhalt; ergänze.
+5. Betreuer als Erbe und Beschenkter: Immer dann, wenn die Frage steht, ob ein Berufsbetreuer im Sinne des Paragraf 19 Abs. 2 BtOG durch den Betreuten.
+6. Berufliche und ehrenamtliche Betreuung; Weg zur Registrierung: Wenn der Nutzer wissen will, wer überhaupt Betreuer werden darf, wie sich beruflicher und ehrenamtlicher Betreuer.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Betreuungsrecht — Allgemein | Betreuungsrecht — Allgemein: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufgabenkreise festlegen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bericht: Mandantenkommunikation und Entscheidungsvorlage | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Betreuer als Erbe und Beschenkter | Betreuer als Erbe und Beschenkter: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Berufliche und ehrenamtliche Betreuung; Weg zur Registrierung | Berufliche und ehrenamtliche Betreuung; Weg zur Registrierung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Betreuungsrecht — Allgemein | Tragende Normen verifizieren: BtOG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aufgabenkreise festlegen | Arbeitsfokus: Aufgabenkreise festlegen. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bericht: Mandantenkommunikation und Entscheidungsvorlage | Arbeitsfokus: Bericht: Mandantenkommunikation und Entscheidungsvorlage. Prüfe diese Anker am Sachverhalt; ergänze. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Betreuer als Erbe und Beschenkter | Immer dann, wenn die Frage steht, ob ein Berufsbetreuer im Sinne des Paragraf 19 Abs. 2 BtOG durch den Betreuten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Berufliche und ehrenamtliche Betreuung; Weg zur Registrierung | Wenn der Nutzer wissen will, wer überhaupt Betreuer werden darf, wie sich beruflicher und ehrenamtlicher Betreuer. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

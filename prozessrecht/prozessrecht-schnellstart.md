@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Amtlicher ZPO-Verfahrenscheck: Amtlicher ZPO-Verfahrenscheck: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. Anschluss-Routing: Anschluss-Routing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-3. Anspruchstabelle im Zivilprozess: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-4. Anspruchstabelle: Anspruchstabelle: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-5. Anspruchstabelle: Compliance-Dokumentation und Aktenvermerk: Anspruchstabelle: Compliance-Dokumentation und Aktenvermerk: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument.
-6. Vertraulichkeitsschutz-Erstprüfung (Vorlagepflicht und Verschwiegenheit): Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Amtlicher ZPO-Verfahrenscheck: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
+2. Anschluss-Routing: Dieses Anschluss-Routing für Prozessrecht wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation.
+3. Anspruchstabelle im Zivilprozess: Dieser Skill baut aus einer Akte eine Anspruchstabelle, die Klage, Klageerwiderung, Replik.
+4. Anspruchstabelle: Systematische Prüfung und Visualisierung aller Tatbestandsmerkmale eines zivilrechtlichen Anspruchs.
+5. Anspruchstabelle: Compliance-Dokumentation und Aktenvermerk: Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu.
+6. Vertraulichkeitsschutz-Erstprüfung (Vorlagepflicht und Verschwiegenheit): Anwaltsgeheimnis und Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen prüfen. Normen: Paragraf 43a.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Amtlicher ZPO-Verfahrenscheck | Amtlicher ZPO-Verfahrenscheck: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Anschluss-Routing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruchstabelle im Zivilprozess | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruchstabelle | Anspruchstabelle: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruchstabelle: Compliance-Dokumentation und Aktenvermerk | Anspruchstabelle: Compliance-Dokumentation und Aktenvermerk: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vertraulichkeitsschutz-Erstprüfung (Vorlagepflicht und Verschwiegenheit) | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amtlicher ZPO-Verfahrenscheck | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Dieses Anschluss-Routing für Prozessrecht wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anspruchstabelle im Zivilprozess | Dieser Skill baut aus einer Akte eine Anspruchstabelle, die Klage, Klageerwiderung, Replik. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anspruchstabelle | Systematische Prüfung und Visualisierung aller Tatbestandsmerkmale eines zivilrechtlichen Anspruchs. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anspruchstabelle: Compliance-Dokumentation und Aktenvermerk | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertraulichkeitsschutz-Erstprüfung (Vorlagepflicht und Verschwiegenheit) | Anwaltsgeheimnis und Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen prüfen. Normen: Paragraf 43a. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

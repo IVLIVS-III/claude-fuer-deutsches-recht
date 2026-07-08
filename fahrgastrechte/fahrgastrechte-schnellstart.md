@@ -17,22 +17,22 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Fahrgastrechte — Anlagen bauen: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-2. Katalog der DB-Ablehnungsgründe und Gegenargumente: Katalog der DB-Ablehnungsgründe und Gegenargumente: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-3. Eigenbeförderung und Betreuung (Art. 18, 20 VO; Paragraf 11 EVO): Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Entschädigung berechnen: Entschädigung berechnen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. Fahrgastrechte — Anlagen bauen: `yaml schriftsatz: [pfad zum Schriftsatz, z.B. widerspruch-2026-05-15.md] rohbelegeverzeichnis: [fall]/belege/.
+2. Katalog der DB-Ablehnungsgründe und Gegenargumente: Generell: Beweislast für außergewöhnliche Umstände und die Ergreifung zumutbarer Maßnahmen liegt beim.
+3. Eigenbeförderung und Betreuung (Art. 18, 20 VO; Paragraf 11 EVO): Tatbestand: Wenn dem Fahrgast die verfügbaren Optionen für Weiterreise mit geänderter Streckenführung nicht binnen.
+4. Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn: VO (EU) 2021/782 vom 29. April 2021 — Neufassung, in Kraft seit 7. Juni 2023, ersetzt VO (EG) 1371/2007. ABl. L.
+5. Entschädigung berechnen: Art. 19 VO (EU) 2021/782 — Entschädigung in zwei Stufen: Mindestauszahlung: 4 EUR pro Fahrkarte (Art. 19 Abs. 8).
 6. Forderungsschreiben — Erste Stufe: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Fahrgastrechte — Anlagen bauen | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Katalog der DB-Ablehnungsgründe und Gegenargumente | Katalog der DB-Ablehnungsgründe und Gegenargumente: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Eigenbeförderung und Betreuung (Art. 18, 20 VO; Paragraf 11 EVO) | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Entschädigung berechnen | Entschädigung berechnen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fahrgastrechte — Anlagen bauen | `yaml schriftsatz: [pfad zum Schriftsatz, z.B. widerspruch-2026-05-15.md] rohbelegeverzeichnis: [fall]/belege/. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Katalog der DB-Ablehnungsgründe und Gegenargumente | Generell: Beweislast für außergewöhnliche Umstände und die Ergreifung zumutbarer Maßnahmen liegt beim. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Eigenbeförderung und Betreuung (Art. 18, 20 VO; Paragraf 11 EVO) | Tatbestand: Wenn dem Fahrgast die verfügbaren Optionen für Weiterreise mit geänderter Streckenführung nicht binnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn | VO (EU) 2021/782 vom 29. April 2021 — Neufassung, in Kraft seit 7. Juni 2023, ersetzt VO (EG) 1371/2007. ABl. L. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Entschädigung berechnen | Art. 19 VO (EU) 2021/782 — Entschädigung in zwei Stufen: Mindestauszahlung: 4 EUR pro Fahrkarte (Art. 19 Abs. 8). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Forderungsschreiben — Erste Stufe | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker

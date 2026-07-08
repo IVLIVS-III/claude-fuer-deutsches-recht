@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Aeste: Risikoampel, Gegenargumente und Verteidigungslinien: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-2. Akten- und Grundstücksaufnahme: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Nachbarschaftsstreit-Prüfer — Allgemein: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-4. Anspruchslandkarte BGB-Nachbarrecht: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-5. Aufforderung: Mandantenkommunikation und Entscheidungsvorlage: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-6. Aufforderungsschreiben an den Nachbarn: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
+1. Aeste: Risikoampel, Gegenargumente und Verteidigungslinien: Tragende Normen verifizieren: BGB Paragrafen 903, 906, 1004, 910, 912, 917, 921, 922, NachbG.
+2. Akten- und Grundstücksaufnahme: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix.
+3. Nachbarschaftsstreit-Prüfer — Allgemein: Tragende Normen verifizieren: BGB Paragrafen 903, 906, 1004, 910, 912, 917, 921, 922, NachbG.
+4. Anspruchslandkarte BGB-Nachbarrecht: Tragende Normen verifizieren: BGB Paragrafen 903, 906, 1004, 910, 912, 917, 921, 922, NachbG.
+5. Aufforderung: Mandantenkommunikation und Entscheidungsvorlage: Tragende Normen verifizieren: BGB Paragrafen 903, 906, 1004, 910, 912, 917, 921, 922, NachbG.
+6. Aufforderungsschreiben an den Nachbarn: Tragende Normen verifizieren: BGB Paragrafen 903, 906, 1004, 910, 912, 917, 921, 922, NachbG.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aeste: Risikoampel, Gegenargumente und Verteidigungslinien | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Akten- und Grundstücksaufnahme | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Nachbarschaftsstreit-Prüfer — Allgemein | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruchslandkarte BGB-Nachbarrecht | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufforderung: Mandantenkommunikation und Entscheidungsvorlage | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufforderungsschreiben an den Nachbarn | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aeste: Risikoampel, Gegenargumente und Verteidigungslinien | Tragende Normen verifizieren: BGB Paragrafen 903, 906, 1004, 910, 912, 917, 921, 922, NachbG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Akten- und Grundstücksaufnahme | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Nachbarschaftsstreit-Prüfer — Allgemein | Tragende Normen verifizieren: BGB Paragrafen 903, 906, 1004, 910, 912, 917, 921, 922, NachbG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anspruchslandkarte BGB-Nachbarrecht | Tragende Normen verifizieren: BGB Paragrafen 903, 906, 1004, 910, 912, 917, 921, 922, NachbG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aufforderung: Mandantenkommunikation und Entscheidungsvorlage | Tragende Normen verifizieren: BGB Paragrafen 903, 906, 1004, 910, 912, 917, 921, 922, NachbG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aufforderungsschreiben an den Nachbarn | Tragende Normen verifizieren: BGB Paragrafen 903, 906, 1004, 910, 912, 917, 921, 922, NachbG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abgrenzung: Compliance-Dokumentation und Aktenvermerk: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Ablehnung, Nachbesserung, Einspruch: Ablehnung, Nachbesserung, Einspruch: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-3. Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Anschluss-Routing: Anschluss-Routing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-5. Antrag: Zahlen, Schwellenwerte und Berechnung: Antrag: Zahlen, Schwellenwerte und Berechnung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-6. Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Abgrenzung: Compliance-Dokumentation und Aktenvermerk: Arbeitsfokus: Abgrenzung: Compliance-Dokumentation und Aktenvermerk. Prüfe diese Anker am Sachverhalt; ergänze nur.
+2. Ablehnung, Nachbesserung, Einspruch: Ablehnungen und Nachforderungen kommen vor — die häufigsten Gründe sind nicht "verlorene Fälle", sondern reparable.
+3. Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung: Arbeitsfokus: Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung. Prüfe diese Anker am Sachverhalt.
+4. Anschluss-Routing: Dieses Anschluss-Routing für Forschungszulage Antragstellung wählt nach dem ersten Ergebnis die passende.
+5. Antrag: Zahlen, Schwellenwerte und Berechnung: Tragende Normen verifizieren: FZulG Paragrafen 1-12, BsGav Forschungszulagen-Verordnung, EStG, KStG, GewStG.
+6. Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage: Arbeitsfokus: Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage. Prüfe diese Anker am Sachverhalt.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abgrenzung: Compliance-Dokumentation und Aktenvermerk | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ablehnung, Nachbesserung, Einspruch | Ablehnung, Nachbesserung, Einspruch: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Anschluss-Routing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antrag: Zahlen, Schwellenwerte und Berechnung | Antrag: Zahlen, Schwellenwerte und Berechnung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abgrenzung: Compliance-Dokumentation und Aktenvermerk | Arbeitsfokus: Abgrenzung: Compliance-Dokumentation und Aktenvermerk. Prüfe diese Anker am Sachverhalt; ergänze nur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ablehnung, Nachbesserung, Einspruch | Ablehnungen und Nachforderungen kommen vor — die häufigsten Gründe sind nicht "verlorene Fälle", sondern reparable. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung | Arbeitsfokus: Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung. Prüfe diese Anker am Sachverhalt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Dieses Anschluss-Routing für Forschungszulage Antragstellung wählt nach dem ersten Ergebnis die passende. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Antrag: Zahlen, Schwellenwerte und Berechnung | Tragende Normen verifizieren: FZulG Paragrafen 1-12, BsGav Forschungszulagen-Verordnung, EStG, KStG, GewStG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage | Arbeitsfokus: Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage. Prüfe diese Anker am Sachverhalt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

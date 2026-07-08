@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abmahnung Gebrauchsmuster Verteidigung: Abmahnung Gebrauchsmuster Verteidigung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. Abzweigung Aus Patentanmeldung: Abzweigung Aus Patentanmeldung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-3. Anspruchsfassung Gebrauchsmuster: Anspruchsfassung Gebrauchsmuster: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-4. Arbeitnehmererfindung und Inhaberschaft: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Auskunft Schadensersatz und Rechnungslegung: Auskunft Schadensersatz und Rechnungslegung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-6. Auslandsroute Kein EU Gebrauchsmuster: Auslandsroute Kein EU Gebrauchsmuster: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. Abmahnung Gebrauchsmuster Verteidigung: Tragende Normen verifizieren: GebrMG Paragrafen 1, 3, 5, 11, 13, 14, 15, 24, PatG Paragrafen 14, 21, 24, 139.
+2. Abzweigung Aus Patentanmeldung: Tragende Normen verifizieren: GebrMG Paragrafen 1, 3, 5, 11, 13, 14, 15, 24, PatG Paragrafen 14, 21, 24, 139.
+3. Anspruchsfassung Gebrauchsmuster: Tragende Normen verifizieren: GebrMG Paragrafen 1, 3, 5, 11, 13, 14, 15, 24, PatG Paragrafen 14, 21, 24, 139.
+4. Arbeitnehmererfindung und Inhaberschaft: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix.
+5. Auskunft Schadensersatz und Rechnungslegung: Tragende Normen verifizieren: GebrMG Paragrafen 1, 3, 5, 11, 13, 14, 15, 24, PatG Paragrafen 14, 21, 24, 139.
+6. Auslandsroute Kein EU Gebrauchsmuster: Tragende Normen verifizieren: GebrMG Paragrafen 1, 3, 5, 11, 13, 14, 15, 24, PatG Paragrafen 14, 21, 24, 139.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abmahnung Gebrauchsmuster Verteidigung | Abmahnung Gebrauchsmuster Verteidigung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abzweigung Aus Patentanmeldung | Abzweigung Aus Patentanmeldung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruchsfassung Gebrauchsmuster | Anspruchsfassung Gebrauchsmuster: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitnehmererfindung und Inhaberschaft | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auskunft Schadensersatz und Rechnungslegung | Auskunft Schadensersatz und Rechnungslegung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auslandsroute Kein EU Gebrauchsmuster | Auslandsroute Kein EU Gebrauchsmuster: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abmahnung Gebrauchsmuster Verteidigung | Tragende Normen verifizieren: GebrMG Paragrafen 1, 3, 5, 11, 13, 14, 15, 24, PatG Paragrafen 14, 21, 24, 139. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abzweigung Aus Patentanmeldung | Tragende Normen verifizieren: GebrMG Paragrafen 1, 3, 5, 11, 13, 14, 15, 24, PatG Paragrafen 14, 21, 24, 139. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anspruchsfassung Gebrauchsmuster | Tragende Normen verifizieren: GebrMG Paragrafen 1, 3, 5, 11, 13, 14, 15, 24, PatG Paragrafen 14, 21, 24, 139. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitnehmererfindung und Inhaberschaft | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auskunft Schadensersatz und Rechnungslegung | Tragende Normen verifizieren: GebrMG Paragrafen 1, 3, 5, 11, 13, 14, 15, 24, PatG Paragrafen 14, 21, 24, 139. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auslandsroute Kein EU Gebrauchsmuster | Tragende Normen verifizieren: GebrMG Paragrafen 1, 3, 5, 11, 13, 14, 15, 24, PatG Paragrafen 14, 21, 24, 139. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

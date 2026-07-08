@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Accuracy, Robustness, Cybersecurity bei algorithmische Systeme im Roboter: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Agile Entwicklung und Compliance-Gates in der Robotik: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Anschluss-Routing: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Anwaltliche Quellenhygiene Robotik: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Arbeitsschutz und BetrSichV in der Robotik: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Arbeitswelt Cobot Check: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Accuracy, Robustness, Cybersecurity bei algorithmische Systeme im Roboter: Entscheidende Weiche: Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität.
+2. Agile Entwicklung und Compliance-Gates in der Robotik: Entscheidende Weiche: Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität.
+3. Anschluss-Routing: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares.
+4. Anwaltliche Quellenhygiene Robotik: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix.
+5. Arbeitsschutz und BetrSichV in der Robotik: Tragende Normen verifizieren: EU Regulierungsrahmen (VO 2024/1689) Art. 6, 8-15, 16, 26, 50, 73, 99.
+6. Arbeitswelt Cobot Check: Tragende Normen verifizieren: EU Regulierungsrahmen (VO 2024/1689) Art. 6, 8-15, 16, 26, 50, 73, 99.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Accuracy, Robustness, Cybersecurity bei algorithmische Systeme im Roboter | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Agile Entwicklung und Compliance-Gates in der Robotik | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwaltliche Quellenhygiene Robotik | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsschutz und BetrSichV in der Robotik | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitswelt Cobot Check | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Accuracy, Robustness, Cybersecurity bei algorithmische Systeme im Roboter | Entscheidende Weiche: Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Agile Entwicklung und Compliance-Gates in der Robotik | Entscheidende Weiche: Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwaltliche Quellenhygiene Robotik | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsschutz und BetrSichV in der Robotik | Tragende Normen verifizieren: EU Regulierungsrahmen (VO 2024/1689) Art. 6, 8-15, 16, 26, 50, 73, 99. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitswelt Cobot Check | Tragende Normen verifizieren: EU Regulierungsrahmen (VO 2024/1689) Art. 6, 8-15, 16, 26, 50, 73, 99. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

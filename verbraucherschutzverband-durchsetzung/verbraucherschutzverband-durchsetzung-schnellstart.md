@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Plattform Sperre Anspruchsgruppen Bild: Plattform Sperre Anspruchsgruppen Bild: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. Plattform Sperre Umsetzung Überwachen: Plattform Sperre Umsetzung Überwachen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-3. Abo Modell Anspruchsgruppen Bilden: Abo Modell Anspruchsgruppen Bilden: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-4. Abo Modell Beweisplan Erstellen: Abo Modell Beweisplan Erstellen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-5. Abo Modell Risiko Rot Markieren: Abo Modell Risiko Rot Markieren: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-6. Abo Modell Klageschrift Strukturieren: Abo Modell Klageschrift Strukturieren: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. Plattform Sperre Anspruchsgruppen Bild: Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur.
+2. Plattform Sperre Umsetzung Überwachen: Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur.
+3. Abo Modell Anspruchsgruppen Bilden: Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur.
+4. Abo Modell Beweisplan Erstellen: Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur.
+5. Abo Modell Risiko Rot Markieren: Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur.
+6. Abo Modell Klageschrift Strukturieren: Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Plattform Sperre Anspruchsgruppen Bild | Plattform Sperre Anspruchsgruppen Bild: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Plattform Sperre Umsetzung Überwachen | Plattform Sperre Umsetzung Überwachen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abo Modell Anspruchsgruppen Bilden | Abo Modell Anspruchsgruppen Bilden: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abo Modell Beweisplan Erstellen | Abo Modell Beweisplan Erstellen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abo Modell Risiko Rot Markieren | Abo Modell Risiko Rot Markieren: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abo Modell Klageschrift Strukturieren | Abo Modell Klageschrift Strukturieren: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Plattform Sperre Anspruchsgruppen Bild | Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Plattform Sperre Umsetzung Überwachen | Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abo Modell Anspruchsgruppen Bilden | Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abo Modell Beweisplan Erstellen | Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abo Modell Risiko Rot Markieren | Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abo Modell Klageschrift Strukturieren | Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

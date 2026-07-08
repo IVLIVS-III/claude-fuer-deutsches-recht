@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Ad-hoc-Publizität nach Art. 17 MAR: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Aktienrückkaufprogramme – MAR Safe Harbour und Compliance: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Kaltstart Insiderrecht: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Analysten-Calls und Investorenkommunikation – Selective Disclosure: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Anleiheemission – Insiderrechtliche Anforderungen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Archivierung – MAR-konforme Aufbewahrung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Ad-hoc-Publizität nach Art. 17 MAR: Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war.
+2. Aktienrückkaufprogramme – MAR Safe Harbour und Compliance: Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war.
+3. Kaltstart Insiderrecht: Dieser Skill führt nicht schematisch durch Kaltstart Insiderrecht, sondern zwingt zu einer prüfbaren Arbeitsspur.
+4. Analysten-Calls und Investorenkommunikation – Selective Disclosure: Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war.
+5. Anleiheemission – Insiderrechtliche Anforderungen: Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war.
+6. Archivierung – MAR-konforme Aufbewahrung: Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Ad-hoc-Publizität nach Art. 17 MAR | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktienrückkaufprogramme – MAR Safe Harbour und Compliance | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kaltstart Insiderrecht | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Analysten-Calls und Investorenkommunikation – Selective Disclosure | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anleiheemission – Insiderrechtliche Anforderungen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Archivierung – MAR-konforme Aufbewahrung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ad-hoc-Publizität nach Art. 17 MAR | Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktienrückkaufprogramme – MAR Safe Harbour und Compliance | Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kaltstart Insiderrecht | Dieser Skill führt nicht schematisch durch Kaltstart Insiderrecht, sondern zwingt zu einer prüfbaren Arbeitsspur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Analysten-Calls und Investorenkommunikation – Selective Disclosure | Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anleiheemission – Insiderrechtliche Anforderungen | Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Archivierung – MAR-konforme Aufbewahrung | Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

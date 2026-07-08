@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Anschluss-Routing: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Athletenvertrag: Fristennotiz und nächster Schritt: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Athletenwerbung Paragraf 3 uwg: Athletenwerbung Paragraf 3 uwg: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-4. Sportler oder Verein will Entscheidung eines Sportverbands vor dem Court of Arbitration for Sport Lausanne.: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Sportler Verein oder Verband wird in Schiedsverfahren vor CAS DIS oder Verbands-Schiedsgericht involviert: Sportler Verein oder Verband wird in Schiedsverfahren vor CAS DIS oder Verbands-Schiedsgericht involviert: Tatsachen.
-6. Code: Compliance-Dokumentation und Aktenvermerk: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Anschluss-Routing: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan.
+2. Athletenvertrag: Fristennotiz und nächster Schritt: Tragende Normen verifizieren: FAO Paragraf 14n (Sportrecht), AntiDopG, NADC, WADC, BGB Paragrafen 25 ff. (Verein).
+3. Athletenwerbung Paragraf 3 uwg: Prüfe Athletenwerbung Paragraf 3 uwg von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache.
+4. Sportler oder Verein will Entscheidung eines Sportverbands vor dem Court of Arbitration for Sport Lausanne.: Tragende Normen verifizieren: FAO Paragraf 14n (Sportrecht), AntiDopG, NADC, WADC, BGB Paragrafen 25 ff. (Verein).
+5. Sportler Verein oder Verband wird in Schiedsverfahren vor CAS DIS oder Verbands-Schiedsgericht involviert: Tragende Normen verifizieren: FAO Paragraf 14n (Sportrecht), AntiDopG, NADC, WADC, BGB Paragrafen 25 ff. (Verein).
+6. Code: Compliance-Dokumentation und Aktenvermerk: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anschluss-Routing | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Athletenvertrag: Fristennotiz und nächster Schritt | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Athletenwerbung Paragraf 3 uwg | Athletenwerbung Paragraf 3 uwg: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Sportler oder Verein will Entscheidung eines Sportverbands vor dem Court of Arbitration for Sport Lausanne. | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Sportler Verein oder Verband wird in Schiedsverfahren vor CAS DIS oder Verbands-Schiedsgericht involviert | Sportler Verein oder Verband wird in Schiedsverfahren vor CAS DIS oder Verbands-Schiedsgericht involviert: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Code: Compliance-Dokumentation und Aktenvermerk | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Athletenvertrag: Fristennotiz und nächster Schritt | Tragende Normen verifizieren: FAO Paragraf 14n (Sportrecht), AntiDopG, NADC, WADC, BGB Paragrafen 25 ff. (Verein). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Athletenwerbung Paragraf 3 uwg | Prüfe Athletenwerbung Paragraf 3 uwg von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Sportler oder Verein will Entscheidung eines Sportverbands vor dem Court of Arbitration for Sport Lausanne. | Tragende Normen verifizieren: FAO Paragraf 14n (Sportrecht), AntiDopG, NADC, WADC, BGB Paragrafen 25 ff. (Verein). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Sportler Verein oder Verband wird in Schiedsverfahren vor CAS DIS oder Verbands-Schiedsgericht involviert | Tragende Normen verifizieren: FAO Paragraf 14n (Sportrecht), AntiDopG, NADC, WADC, BGB Paragrafen 25 ff. (Verein). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Code: Compliance-Dokumentation und Aktenvermerk | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

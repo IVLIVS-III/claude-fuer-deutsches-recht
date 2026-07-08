@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abschiebehaft Paragraf 62 AufenthG: Abschiebehaft Paragraf 62 AufenthG: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. Abschiebung abwehren — Duldung Paragraf 60a AufenthG Abschiebungsverbote Paragraf 60 Abs: Abschiebung abwehren — Duldung Paragraf 60a AufenthG Abschiebungsverbote Paragraf 60 Abs: Tatsachen, Frist, Zuständigkeit, Norm.
-3. Abschiebungshaft: Fachmodul im Migrationsrecht: Abschiebungshaft: Fachmodul im Migrationsrecht: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-4. Abschiebungsverbot Paragraf 60 Abs: Abschiebungsverbot Paragraf 60 Abs: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-5. Akteneinsicht Migration: Fachmodul im Migrationsrecht: Akteneinsicht Migration: Fachmodul im Migrationsrecht: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein.
-6. Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht: Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein.
+1. Abschiebehaft Paragraf 62 AufenthG: Prüfe Abschiebehaft Paragraf 62 AufenthG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm.
+2. Abschiebung abwehren — Duldung Paragraf 60a AufenthG Abschiebungsverbote Paragraf 60 Abs: Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58.
+3. Abschiebungshaft: Fachmodul im Migrationsrecht: Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58.
+4. Abschiebungsverbot Paragraf 60 Abs: Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58.
+5. Akteneinsicht Migration: Fachmodul im Migrationsrecht: Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58.
+6. Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht: Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abschiebehaft Paragraf 62 AufenthG | Abschiebehaft Paragraf 62 AufenthG: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschiebung abwehren — Duldung Paragraf 60a AufenthG Abschiebungsverbote Paragraf 60 Abs | Abschiebung abwehren — Duldung Paragraf 60a AufenthG Abschiebungsverbote Paragraf 60 Abs: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschiebungshaft: Fachmodul im Migrationsrecht | Abschiebungshaft: Fachmodul im Migrationsrecht: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschiebungsverbot Paragraf 60 Abs | Abschiebungsverbot Paragraf 60 Abs: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Akteneinsicht Migration: Fachmodul im Migrationsrecht | Akteneinsicht Migration: Fachmodul im Migrationsrecht: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht | Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschiebehaft Paragraf 62 AufenthG | Prüfe Abschiebehaft Paragraf 62 AufenthG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschiebung abwehren — Duldung Paragraf 60a AufenthG Abschiebungsverbote Paragraf 60 Abs | Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschiebungshaft: Fachmodul im Migrationsrecht | Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschiebungsverbot Paragraf 60 Abs | Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Akteneinsicht Migration: Fachmodul im Migrationsrecht | Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht | Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

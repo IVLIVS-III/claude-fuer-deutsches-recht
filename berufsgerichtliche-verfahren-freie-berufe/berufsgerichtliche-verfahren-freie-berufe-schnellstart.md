@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Aktenherausgabe und Zurückbehaltungsrecht: Präventions- und Organisationspaket: Aktenherausgabe und Zurückbehaltungsrecht: Präventions- und Organisationspaket: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument.
-2. Aktenherausgabe und Zurückbehaltungsrecht: Verteidigungs- und Kammerantwort: Aktenherausgabe und Zurückbehaltungsrecht: Verteidigungs- und Kammerantwort: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument.
-3. Anwaltsgericht nach BRAO Überblick: Anwaltsgericht nach BRAO Überblick: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-4. beA nicht in Betrieb: Präventions- und Organisationspaket: beA nicht in Betrieb: Präventions- und Organisationspaket: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein.
-5. beA nicht in Betrieb: Verteidigungs- und Kammerantwort: beA nicht in Betrieb: Verteidigungs- und Kammerantwort: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein.
-6. beA und elektronische Kommunikation: beA und elektronische Kommunikation: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. Aktenherausgabe und Zurückbehaltungsrecht: Präventions- und Organisationspaket: Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO.
+2. Aktenherausgabe und Zurückbehaltungsrecht: Verteidigungs- und Kammerantwort: Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO.
+3. Anwaltsgericht nach BRAO Überblick: Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO.
+4. beA nicht in Betrieb: Präventions- und Organisationspaket: Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO.
+5. beA nicht in Betrieb: Verteidigungs- und Kammerantwort: Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO.
+6. beA und elektronische Kommunikation: Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aktenherausgabe und Zurückbehaltungsrecht: Präventions- und Organisationspaket | Aktenherausgabe und Zurückbehaltungsrecht: Präventions- und Organisationspaket: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenherausgabe und Zurückbehaltungsrecht: Verteidigungs- und Kammerantwort | Aktenherausgabe und Zurückbehaltungsrecht: Verteidigungs- und Kammerantwort: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwaltsgericht nach BRAO Überblick | Anwaltsgericht nach BRAO Überblick: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| beA nicht in Betrieb: Präventions- und Organisationspaket | beA nicht in Betrieb: Präventions- und Organisationspaket: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| beA nicht in Betrieb: Verteidigungs- und Kammerantwort | beA nicht in Betrieb: Verteidigungs- und Kammerantwort: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| beA und elektronische Kommunikation | beA und elektronische Kommunikation: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenherausgabe und Zurückbehaltungsrecht: Präventions- und Organisationspaket | Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenherausgabe und Zurückbehaltungsrecht: Verteidigungs- und Kammerantwort | Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwaltsgericht nach BRAO Überblick | Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| beA nicht in Betrieb: Präventions- und Organisationspaket | Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| beA nicht in Betrieb: Verteidigungs- und Kammerantwort | Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| beA und elektronische Kommunikation | Tragende Normen verifizieren: BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

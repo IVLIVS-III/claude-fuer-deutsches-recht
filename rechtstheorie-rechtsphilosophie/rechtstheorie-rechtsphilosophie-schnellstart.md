@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abwägung und Rationalität: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Abwägung und Rationalität: Normen: die einschlägigen Normen dieses Sachgebiets. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur.
 2. Adressatenwürde und Rechtssteuerung: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
-3. Besitz und Law & Economics: Transaktionskosten: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Besitz, Rechtsrealismus und praktische Bedürfnisse: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Prüft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast.: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Besitzdogmatik, historische Schule und Systemdenken: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+3. Besitz und Law & Economics: Transaktionskosten: Normen: die einschlägigen Normen dieses Sachgebiets. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur.
+4. Besitz, Rechtsrealismus und praktische Bedürfnisse: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste.
+5. Prüft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast.: Art. 1 Abs. 1 GG — normative Grenze jeder Rechtsanwendung. - Art. 20 Abs. 3 GG — Gesetzesbindung.
+6. Besitzdogmatik, historische Schule und Systemdenken: Normen: die einschlägigen Normen dieses Sachgebiets. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abwägung und Rationalität | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abwägung und Rationalität | Normen: die einschlägigen Normen dieses Sachgebiets. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Adressatenwürde und Rechtssteuerung | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Besitz und Law & Economics: Transaktionskosten | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Besitz, Rechtsrealismus und praktische Bedürfnisse | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Prüft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast. | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Besitzdogmatik, historische Schule und Systemdenken | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Besitz und Law & Economics: Transaktionskosten | Normen: die einschlägigen Normen dieses Sachgebiets. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Besitz, Rechtsrealismus und praktische Bedürfnisse | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Prüft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast. | Art. 1 Abs. 1 GG — normative Grenze jeder Rechtsanwendung. - Art. 20 Abs. 3 GG — Gesetzesbindung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Besitzdogmatik, historische Schule und Systemdenken | Normen: die einschlägigen Normen dieses Sachgebiets. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

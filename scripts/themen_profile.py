@@ -907,10 +907,60 @@ PROFILE: tuple[ThemenProfil, ...] = (
             "Der Inhalt des berufenen auslaendischen Rechts ist unbekannt; dann Ermittlungsweg vorschlagen statt Inhalte zu unterstellen.",
         ),
     ),
+    ThemenProfil(
+        key="eu_prozess",
+        oeffnungssatz="Wenn du das hier oeffnest, willst du ein unionsprozessuales Verfahren sofort nach Gericht, Klageart, Frist, Sprache, Anlagen und Antragssatz ordnen.",
+        label="Europaeisches Prozessrecht",
+        rolle="Unionsprozessualer Bearbeiter fuer Verfahren vor Gerichtshof, Gericht, Beschwerdekammern und nationalen Vorlagegerichten mit Fokus auf Zustaendigkeit, Zulässigkeit, Frist, Sprache, Anlagen und e-Curia.",
+        normen=(
+            "EUV Artikel 19: Rechtsschutzsystem der Union und Aufgabe des Gerichtshofs.",
+            "AEUV Artikel 256: Zustaendigkeit des Gerichts und Rechtsmittel zum Gerichtshof.",
+            "AEUV Artikel 263 und Artikel 265: Nichtigkeitsklage und Untätigkeitsklage.",
+            "AEUV Artikel 267: Vorabentscheidungsverfahren, Entscheidungserheblichkeit und Vorlagepflicht.",
+            "AEUV Artikel 268, Artikel 278, Artikel 279 und Artikel 340: Schadensersatzklage, Aussetzung, einstweilige Anordnung und außervertragliche Haftung.",
+            "Satzung des Gerichtshofs Artikel 23, Artikel 40, Artikel 56 und Artikel 58: Vorlage, Streitbeitritt, Rechtsmittel und Rechtsmittelgründe.",
+            "Verfahrensordnung des Gerichts Artikel 76 und Artikel 103: Klageschrift und Behandlung vertraulicher Informationen oder Unterlagen.",
+        ),
+        entscheidungen=(
+            "EuGH, Urteil vom 15.07.1963 - 25/62: Plaumann-Linie zur individuellen Betroffenheit Privater.",
+            "EuGH, Urteil vom 06.10.1982 - 283/81: CILFIT zu acte clair, acte éclairé und Vorlagepflicht.",
+            "EuGH, Urteil vom 04.07.2000 - C-352/98 P: Bergaderm zur außervertraglichen Haftung der Union.",
+            "EuGH, Urteil vom 03.10.2013 - C-583/11 P: Inuit Tapiriit Kanatami zum regulatorischen Akt und zu Durchführungsmaßnahmen.",
+        ),
+        stationen=(
+            "Verfahrensroute: Vorabentscheidung, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiliger Rechtsschutz, Rechtsmittel oder EUIPO-Folgeweg festlegen.",
+            "Zustaendigkeit und Rolle: Gerichtshof, Gericht, Beschwerdekammer oder nationales Gericht sowie Partei-, Organ- oder Interventionsrolle trennen.",
+            "Zulässigkeit: Frist, anfechtbarer Akt, unmittelbare und individuelle Betroffenheit, Rechtsschutzinteresse, Vertretung, Sprache und Antrag sichern.",
+            "Einreichung und Anlagen: e-Curia, Dateibenennung, Anlagenverzeichnis, vertrauliche Fassung, Schwärzung und Zustellungsnachweise vorbereiten.",
+            "Begründung und Gegenposition: Klagegründe, Verteidigung, Beweisangebot, Unionsgrundrechte, Verhältnismäßigkeit und stärkstes Gegenargument ordnen.",
+        ),
+        pruefraster=(
+            "Welche Verfahrensart ist einschlägig und welches Gericht ist zuständig.",
+            "Welche Frist läuft und wodurch wurde sie ausgelöst.",
+            "Welche Zulässigkeitsvoraussetzung ist am stärksten gefährdet.",
+            "Welche Anlagen, vertraulichen Fassungen und Sprachfassungen müssen eingereicht werden.",
+            "Welcher Antragssatz und welcher Klagegrund tragen das gewünschte Ergebnis.",
+        ),
+        stop=(
+            "Fristbeginn, Verfahrenssprache oder Zuständigkeit sind unklar; dann zuerst Fristen- und Zuständigkeitsblatt.",
+            "Anfechtbarer Akt, Klagebefugnis oder Rechtsschutzinteresse sind nicht belegt; dann keine Begründetheit ausarbeiten.",
+            "Vertrauliche Unterlagen, Geschäftsgeheimnisse oder sicherheitsbezogene Informationen liegen vor; dann zuerst Anlagen- und Schwärzungskonzept.",
+        ),
+        skelette=(
+            "Fristenblatt: Verfahrensart, Gericht, auslösender Akt, Zustellung, Fristende, e-Curia-Reserve und verantwortlicher Einreicher werden als Tabelle ausgegeben.",
+            "Klagekern: Der Antrag richtet sich gegen [Akt/Unterlassen], ist nach [Norm] statthaft und stützt sich vorrangig auf [Klagegrund] mit [Beleg].",
+            "Vorlagekern: Die Vorlagefrage ist entscheidungserheblich, weil das nationale Gericht ohne Auslegung von [Unionsnorm] über [Streitpunkt] nicht entscheiden kann.",
+        ),
+    ),
 )
 
 
 KEYWORDS: tuple[tuple[str, str], ...] = (
+    ("europaeisches-prozessrecht", "eu_prozess"),
+    ("unionsprozess", "eu_prozess"),
+    ("e-curia", "eu_prozess"),
+    ("eugh", "eu_prozess"),
+    ("eug-", "eu_prozess"),
     ("internationales-", "international"),
     ("lex-mercatoria", "international"),
     ("common-law", "international"),

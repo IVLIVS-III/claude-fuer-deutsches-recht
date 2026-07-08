@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Aarhus Argumentationslinie: Aarhus Argumentationslinie: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. Aktenauswertung Behördenordner: Aktenauswertung Behördenordner: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-3. Anerkennung und Klagebefugnis Prüfen: Anerkennung und Klagebefugnis Prüfen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-4. Uig Anfrage für Umweltakte: Uig Anfrage für Umweltakte: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-5. Artenschutz Fachbeitrag Lesen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Batteriespeicher Akteneinsicht Erzwing: Batteriespeicher Akteneinsicht Erzwing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. Aarhus Argumentationslinie: Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage.
+2. Aktenauswertung Behördenordner: Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage.
+3. Anerkennung und Klagebefugnis Prüfen: Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage.
+4. Uig Anfrage für Umweltakte: Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage.
+5. Artenschutz Fachbeitrag Lesen: Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage.
+6. Batteriespeicher Akteneinsicht Erzwing: Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aarhus Argumentationslinie | Aarhus Argumentationslinie: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenauswertung Behördenordner | Aktenauswertung Behördenordner: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anerkennung und Klagebefugnis Prüfen | Anerkennung und Klagebefugnis Prüfen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Uig Anfrage für Umweltakte | Uig Anfrage für Umweltakte: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Artenschutz Fachbeitrag Lesen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Batteriespeicher Akteneinsicht Erzwing | Batteriespeicher Akteneinsicht Erzwing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aarhus Argumentationslinie | Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenauswertung Behördenordner | Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anerkennung und Klagebefugnis Prüfen | Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Uig Anfrage für Umweltakte | Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Artenschutz Fachbeitrag Lesen | Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Batteriespeicher Akteneinsicht Erzwing | Tragende Normen verifizieren: UmwRG; BImSchG; Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

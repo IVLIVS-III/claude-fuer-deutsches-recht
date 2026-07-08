@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Amtlicher BGB-BT-Normcheck: Amtlicher BGB-BT-Normcheck: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. Workflow: Anfängercoach Schuldrecht BT: Workflow: Anfängercoach Schuldrecht BT: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-3. Workflow: Anspruchslandkarte BGB BT: Workflow: Anspruchslandkarte BGB BT: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-4. Arbeitsnaher Dienstvertrag im BGB: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Auftrag und unentgeltliche Tätigkeit: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Bauvertrag und Verbraucherbauvertrag: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
+1. Amtlicher BGB-BT-Normcheck: Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558.
+2. Workflow: Anfängercoach Schuldrecht BT: Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558.
+3. Workflow: Anspruchslandkarte BGB BT: Paragrafen 280 ff. BGB: Pflichtverletzung und Schadensersatz (Schuldrecht AT) - Paragrafen 433 ff. BGB.
+4. Arbeitsnaher Dienstvertrag im BGB: Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558.
+5. Auftrag und unentgeltliche Tätigkeit: Entscheidende Weiche: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden.
+6. Bauvertrag und Verbraucherbauvertrag: Entscheidende Weiche: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Amtlicher BGB-BT-Normcheck | Amtlicher BGB-BT-Normcheck: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Workflow: Anfängercoach Schuldrecht BT | Workflow: Anfängercoach Schuldrecht BT: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Workflow: Anspruchslandkarte BGB BT | Workflow: Anspruchslandkarte BGB BT: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsnaher Dienstvertrag im BGB | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auftrag und unentgeltliche Tätigkeit | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bauvertrag und Verbraucherbauvertrag | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amtlicher BGB-BT-Normcheck | Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Workflow: Anfängercoach Schuldrecht BT | Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Workflow: Anspruchslandkarte BGB BT | Paragrafen 280 ff. BGB: Pflichtverletzung und Schadensersatz (Schuldrecht AT) - Paragrafen 433 ff. BGB. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsnaher Dienstvertrag im BGB | Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auftrag und unentgeltliche Tätigkeit | Entscheidende Weiche: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bauvertrag und Verbraucherbauvertrag | Entscheidende Weiche: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

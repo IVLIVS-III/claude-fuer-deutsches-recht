@@ -22,18 +22,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Anwendbares Recht: Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen.
 4. Materielle Prüfung nach dem berufenen Recht: bei auslaendischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden.
 5. Durchsetzung: Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt.
-6. Absolute Priority Rule: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+6. Absolute Priority Rule: Paragraf 1 Abs. 1 KWG — Bankgeschäfte. - Paragraf 32 Abs. 1 KWG — Erlaubnispflicht. - Paragraf 25a Abs. 1 KWG —.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Absolute Priority Rule | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Adequate Protection | Adequate Protection: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Administrative Expenses Paragraf 503 | Administrative Expenses Paragraf 503: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Adversary Proceedings | Adversary Proceedings: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Asbestos Channeling Injunctions Paragraf 524(g) | Asbestos Channeling Injunctions Paragraf 524(g): Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Automatic Stay Paragraf 362 | Automatic Stay Paragraf 362: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Absolute Priority Rule | Paragraf 1 Abs. 1 KWG — Bankgeschäfte. - Paragraf 32 Abs. 1 KWG — Erlaubnispflicht. - Paragraf 25a Abs. 1 KWG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Adequate Protection | Paragraf 1 Abs. 1 KWG — Bankgeschäfte. - Paragraf 32 Abs. 1 KWG — Erlaubnispflicht. - Paragraf 25a Abs. 1 KWG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Administrative Expenses Paragraf 503 | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Adversary Proceedings | Paragraf 1 Abs. 1 KWG — Bankgeschäfte. - Paragraf 32 Abs. 1 KWG — Erlaubnispflicht. - Paragraf 25a Abs. 1 KWG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Asbestos Channeling Injunctions Paragraf 524(g) | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Automatic Stay Paragraf 362 | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

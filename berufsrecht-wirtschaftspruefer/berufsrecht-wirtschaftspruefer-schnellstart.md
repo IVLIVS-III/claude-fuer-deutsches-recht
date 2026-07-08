@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Aktenführung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Wirtschaftsprüfer: apas verfahren antwortstrategie - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden.: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Wirtschaftsprüfer: apas verfahren antwortstrategie - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Wirtschaftsprüfer: apas verfahren antwortstrategie - Organisationspflichten, Prävention, Team-Anweisung.: Wirtschaftsprüfer: apas verfahren antwortstrategie - Organisationspflichten, Prävention, Team-Anweisung.: Tatsachen, Frist.
-5. Wirtschaftsprüfer: apas verfahren antwortstrategie - Rechtsprechungscheck, stärkste Gegenansicht.: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Wirtschaftsprüfer: mangelhafte arbeitspapiere - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Aktenführung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
+2. Wirtschaftsprüfer: apas verfahren antwortstrategie - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden.: Normenanker: WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren.
+3. Wirtschaftsprüfer: apas verfahren antwortstrategie - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie.
+4. Wirtschaftsprüfer: apas verfahren antwortstrategie - Organisationspflichten, Prävention, Team-Anweisung.: Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BRAO Paragrafen 113 ff., BNotO Paragrafen.
+5. Wirtschaftsprüfer: apas verfahren antwortstrategie - Rechtsprechungscheck, stärkste Gegenansicht.: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste.
+6. Wirtschaftsprüfer: mangelhafte arbeitspapiere - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen: Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BRAO Paragrafen 113 ff., BNotO Paragrafen.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aktenführung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Wirtschaftsprüfer: apas verfahren antwortstrategie - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden. | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Wirtschaftsprüfer: apas verfahren antwortstrategie - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Wirtschaftsprüfer: apas verfahren antwortstrategie - Organisationspflichten, Prävention, Team-Anweisung. | Wirtschaftsprüfer: apas verfahren antwortstrategie - Organisationspflichten, Prävention, Team-Anweisung.: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Wirtschaftsprüfer: apas verfahren antwortstrategie - Rechtsprechungscheck, stärkste Gegenansicht. | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Wirtschaftsprüfer: mangelhafte arbeitspapiere - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenführung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Wirtschaftsprüfer: apas verfahren antwortstrategie - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden. | Normenanker: WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Wirtschaftsprüfer: apas verfahren antwortstrategie - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Wirtschaftsprüfer: apas verfahren antwortstrategie - Organisationspflichten, Prävention, Team-Anweisung. | Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BRAO Paragrafen 113 ff., BNotO Paragrafen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Wirtschaftsprüfer: apas verfahren antwortstrategie - Rechtsprechungscheck, stärkste Gegenansicht. | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Wirtschaftsprüfer: mangelhafte arbeitspapiere - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen | Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BRAO Paragrafen 113 ff., BNotO Paragrafen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

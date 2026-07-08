@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Art. 14 GG — Eigentum und Denkmalschutz: Art. 14 GG — Eigentum und Denkmalschutz: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Sachgesamtheiten und Gesamtanlagen in Baden-Wuerttemberg: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Bauordnungsrechtliche Schnittstelle: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-5. Bodendenkmaeler und Grabungsgenehmigung in Bayern: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Schloesser, Gutsanlagen und Restitution in Brandenburg: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Art. 14 GG — Eigentum und Denkmalschutz: Der Skill erklärt, warum die Eintragung und die Erlaubnispflichten verfassungsrechtlich Inhalts.
+2. Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz: Der Föderalismus erklärt, warum es sechzehn Landesgesetze gibt und warum es kein Bundesdenkmalschutzgesetz gibt.
+3. Sachgesamtheiten und Gesamtanlagen in Baden-Wuerttemberg: Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bundesland-Skill nur kurz angerissen.
+4. Bauordnungsrechtliche Schnittstelle: 1. Konzentrationswirkung der Baugenehmigung: In den meisten Bundesländern entscheidet die Bauaufsichtsbehörde.
+5. Bodendenkmaeler und Grabungsgenehmigung in Bayern: Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bundesland-Skill nur kurz angerissen.
+6. Schloesser, Gutsanlagen und Restitution in Brandenburg: Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bundesland-Skill nur kurz angerissen.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Art. 14 GG — Eigentum und Denkmalschutz | Art. 14 GG — Eigentum und Denkmalschutz: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Sachgesamtheiten und Gesamtanlagen in Baden-Wuerttemberg | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bauordnungsrechtliche Schnittstelle | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bodendenkmaeler und Grabungsgenehmigung in Bayern | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schloesser, Gutsanlagen und Restitution in Brandenburg | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Art. 14 GG — Eigentum und Denkmalschutz | Der Skill erklärt, warum die Eintragung und die Erlaubnispflichten verfassungsrechtlich Inhalts. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz | Der Föderalismus erklärt, warum es sechzehn Landesgesetze gibt und warum es kein Bundesdenkmalschutzgesetz gibt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Sachgesamtheiten und Gesamtanlagen in Baden-Wuerttemberg | Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bundesland-Skill nur kurz angerissen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bauordnungsrechtliche Schnittstelle | 1. Konzentrationswirkung der Baugenehmigung: In den meisten Bundesländern entscheidet die Bauaufsichtsbehörde. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bodendenkmaeler und Grabungsgenehmigung in Bayern | Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bundesland-Skill nur kurz angerissen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schloesser, Gutsanlagen und Restitution in Brandenburg | Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bundesland-Skill nur kurz angerissen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

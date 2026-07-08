@@ -17,22 +17,22 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Anfänger-Erklärung HGB: Anfänger-Erklärung HGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. Firma Paragrafen 17 ff. HGB: Firma Paragrafen 17 ff. HGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-3. Firmenfortführung Paragrafen 21-25 HGB: Firmenfortführung Paragrafen 21-25 HGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-4. Formkaufmann Paragraf 6 HGB: Formkaufmann Paragraf 6 HGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-5. Frachtvertrag Paragrafen 407 ff. HGB: Frachtvertrag Paragrafen 407 ff. HGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. Anfänger-Erklärung HGB: Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c.
+2. Firma Paragrafen 17 ff. HGB: Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c.
+3. Firmenfortführung Paragrafen 21-25 HGB: Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c.
+4. Formkaufmann Paragraf 6 HGB: Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c.
+5. Frachtvertrag Paragrafen 407 ff. HGB: Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c.
 6. GmbH & Co. KG HGB: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anfänger-Erklärung HGB | Anfänger-Erklärung HGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Firma Paragrafen 17 ff. HGB | Firma Paragrafen 17 ff. HGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Firmenfortführung Paragrafen 21-25 HGB | Firmenfortführung Paragrafen 21-25 HGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Formkaufmann Paragraf 6 HGB | Formkaufmann Paragraf 6 HGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Frachtvertrag Paragrafen 407 ff. HGB | Frachtvertrag Paragrafen 407 ff. HGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anfänger-Erklärung HGB | Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Firma Paragrafen 17 ff. HGB | Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Firmenfortführung Paragrafen 21-25 HGB | Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Formkaufmann Paragraf 6 HGB | Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Frachtvertrag Paragrafen 407 ff. HGB | Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | GmbH & Co. KG HGB | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker

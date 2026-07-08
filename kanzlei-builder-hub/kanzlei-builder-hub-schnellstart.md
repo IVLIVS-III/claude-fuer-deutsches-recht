@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. /anpassen — Kanzleiprofil und Einstellungen anpassen: /anpassen — Kanzleiprofil und Einstellungen anpassen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. Kanzlei-Builder-Hub — Allgemein: Kanzlei-Builder-Hub — Allgemein: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-3. /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Builder: Übersicht Einsteiger: Builder: Übersicht Einsteiger: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-5. Builder: Zahlen, Schwellenwerte und Berechnung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Community: Fristen, Form, Zuständigkeit und Rechtsweg: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. /anpassen — Kanzleiprofil und Einstellungen anpassen: Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG.
+2. Kanzlei-Builder-Hub — Allgemein: Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG.
+3. /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review: Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG.
+4. Builder: Übersicht Einsteiger: Einführender Überblick für Einsteiger: Was kann der Kanzlei-Builder-Hub? Skills installieren, deaktivieren.
+5. Builder: Zahlen, Schwellenwerte und Berechnung: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen.
+6. Community: Fristen, Form, Zuständigkeit und Rechtsweg: Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| /anpassen — Kanzleiprofil und Einstellungen anpassen | /anpassen — Kanzleiprofil und Einstellungen anpassen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kanzlei-Builder-Hub — Allgemein | Kanzlei-Builder-Hub — Allgemein: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Builder: Übersicht Einsteiger | Builder: Übersicht Einsteiger: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Builder: Zahlen, Schwellenwerte und Berechnung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Community: Fristen, Form, Zuständigkeit und Rechtsweg | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| /anpassen — Kanzleiprofil und Einstellungen anpassen | Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kanzlei-Builder-Hub — Allgemein | Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review | Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Builder: Übersicht Einsteiger | Einführender Überblick für Einsteiger: Was kann der Kanzlei-Builder-Hub? Skills installieren, deaktivieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Builder: Zahlen, Schwellenwerte und Berechnung | rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Community: Fristen, Form, Zuständigkeit und Rechtsweg | Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

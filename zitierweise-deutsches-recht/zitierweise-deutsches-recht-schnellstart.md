@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-2. Anschluss-Routing: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Aufsatz: Mehrparteienkonflikt und Interessenmatrix: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Beckrs: Zahlen, Schwellenwerte und Berechnung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Blindzitate: Internationaler Bezug und Schnittstellen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Chronologie und Belegmatrix: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine: Arbeitsfokus: Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine. Prüfe diese Anker am Sachverhalt; ergänze nur.
+2. Anschluss-Routing: Dieses Anschluss-Routing für Zitierweise Deutsches Recht wählt nach dem ersten Ergebnis die passende Vertiefung.
+3. Aufsatz: Mehrparteienkonflikt und Interessenmatrix: Arbeitsfokus: Aufsatz: Mehrparteienkonflikt und Interessenmatrix. Prüfe diese Anker am Sachverhalt; ergänze nur.
+4. Beckrs: Zahlen, Schwellenwerte und Berechnung: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen.
+5. Blindzitate: Internationaler Bezug und Schnittstellen: Arbeitsfokus: Blindzitate: Internationaler Bezug und Schnittstellen. Prüfe diese Anker am Sachverhalt; ergänze nur.
+6. Chronologie und Belegmatrix: Dieser Arbeitsgang macht Chronologie und Belegmatrix im Bereich zitierweise-deutsches-recht sofort bearbeitbar.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufsatz: Mehrparteienkonflikt und Interessenmatrix | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beckrs: Zahlen, Schwellenwerte und Berechnung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Blindzitate: Internationaler Bezug und Schnittstellen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Chronologie und Belegmatrix | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine | Arbeitsfokus: Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine. Prüfe diese Anker am Sachverhalt; ergänze nur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Dieses Anschluss-Routing für Zitierweise Deutsches Recht wählt nach dem ersten Ergebnis die passende Vertiefung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aufsatz: Mehrparteienkonflikt und Interessenmatrix | Arbeitsfokus: Aufsatz: Mehrparteienkonflikt und Interessenmatrix. Prüfe diese Anker am Sachverhalt; ergänze nur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beckrs: Zahlen, Schwellenwerte und Berechnung | rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Blindzitate: Internationaler Bezug und Schnittstellen | Arbeitsfokus: Blindzitate: Internationaler Bezug und Schnittstellen. Prüfe diese Anker am Sachverhalt; ergänze nur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Chronologie und Belegmatrix | Dieser Arbeitsgang macht Chronologie und Belegmatrix im Bereich zitierweise-deutsches-recht sofort bearbeitbar. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

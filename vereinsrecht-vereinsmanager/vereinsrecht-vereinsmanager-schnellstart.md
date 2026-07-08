@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Beschlussmängel: Beschlussmängel: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. Auflösung und Liquidation: Auflösung und Liquidation: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-3. Beschlussvorlagen: Beschlussvorlagen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. Beschlussmängel: Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59.
+2. Auflösung und Liquidation: Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59.
+3. Beschlussvorlagen: Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59.
 4. Datenschutz Mitgliederliste: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
-5. Delegierte und Abteilungen: Delegierte und Abteilungen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-6. Ehrenamtspauschale und Übungsleiter: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+5. Delegierte und Abteilungen: Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59.
+6. Ehrenamtspauschale und Übungsleiter: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Beschlussmängel | Beschlussmängel: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auflösung und Liquidation | Auflösung und Liquidation: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beschlussvorlagen | Beschlussvorlagen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beschlussmängel | Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auflösung und Liquidation | Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beschlussvorlagen | Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Datenschutz Mitgliederliste | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Delegierte und Abteilungen | Delegierte und Abteilungen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ehrenamtspauschale und Übungsleiter | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Delegierte und Abteilungen | Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ehrenamtspauschale und Übungsleiter | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

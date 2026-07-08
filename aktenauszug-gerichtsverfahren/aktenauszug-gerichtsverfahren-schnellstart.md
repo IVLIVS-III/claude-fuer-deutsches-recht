@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Akten: Mandantenkommunikation und Entscheidungsvorlage: Akten: Mandantenkommunikation und Entscheidungsvorlage: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein.
-2. Aktenauszug Erstellen — Hauptworkflow: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Aktenauszug — Strukturprüfung: Aktenauszug — Strukturprüfung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-4. Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage: Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument.
-5. Verfahrensidentifikation: Verfahrensidentifikation: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-6. AkzG: Aktenauszug Bauleiter: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
+1. Akten: Mandantenkommunikation und Entscheidungsvorlage: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Mandantennachricht oder Entscheidungsvorlage.
+2. Aktenauszug Erstellen — Hauptworkflow: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix.
+3. Aktenauszug — Strukturprüfung: Tragende Normen verifizieren: ZPO Paragrafen 299, 299a, StPO Paragrafen 147, 385, 406e, VwGO Paragraf 100, SGG.
+4. Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix.
+5. Verfahrensidentifikation: Tragende Normen verifizieren: ZPO Paragrafen 299, 299a, StPO Paragrafen 147, 385, 406e, VwGO Paragraf 100, SGG.
+6. AkzG: Aktenauszug Bauleiter: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Akten: Mandantenkommunikation und Entscheidungsvorlage | Akten: Mandantenkommunikation und Entscheidungsvorlage: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenauszug Erstellen — Hauptworkflow | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenauszug — Strukturprüfung | Aktenauszug — Strukturprüfung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage | Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahrensidentifikation | Verfahrensidentifikation: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AkzG: Aktenauszug Bauleiter | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Akten: Mandantenkommunikation und Entscheidungsvorlage | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Mandantennachricht oder Entscheidungsvorlage. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenauszug Erstellen — Hauptworkflow | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenauszug — Strukturprüfung | Tragende Normen verifizieren: ZPO Paragrafen 299, 299a, StPO Paragrafen 147, 385, 406e, VwGO Paragraf 100, SGG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verfahrensidentifikation | Tragende Normen verifizieren: ZPO Paragrafen 299, 299a, StPO Paragrafen 147, 385, 406e, VwGO Paragraf 100, SGG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AkzG: Aktenauszug Bauleiter | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Europäisches Prozessrecht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du ein unionsprozessuales Verfahren sofort nach Gericht, Klageart, Frist, Sprache, Anlagen und Antragssatz ordnen.
 
 # Europäisches Prozessrecht — Schnellstart
 
@@ -17,31 +17,36 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Unionsamtshaftung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. e-Curia Einreichung und Zustellung: e-Curia Einreichung und Zustellung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-3. Einstweiliger Rechtsschutz: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-4. Nichtigkeitsklage nach Art. 263 AEUV: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Vorabentscheidung nach Art. 267 AEUV: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. EUIPO vor Beschwerdekammer, EuG und EuGH: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
+1. Verfahrensroute: Vorabentscheidung, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiliger Rechtsschutz, Rechtsmittel oder EUIPO-Folgeweg festlegen.
+2. Zuständigkeit und Rolle: Gerichtshof, Gericht, Beschwerdekammer oder nationales Gericht sowie Partei-, Organ- oder Interventionsrolle trennen.
+3. Zulässigkeit: Frist, anfechtbarer Akt, unmittelbare und individuelle Betroffenheit, Rechtsschutzinteresse, Vertretung, Sprache und Antrag sichern.
+4. Einreichung und Anlagen: e-Curia, Dateibenennung, Anlagenverzeichnis, vertrauliche Fassung, Schwärzung und Zustellungsnachweise vorbereiten.
+5. Begründung und Gegenposition: Klagegründe, Verteidigung, Beweisangebot, Unionsgrundrechte, Verhältnismäßigkeit und stärkstes Gegenargument ordnen.
+6. Unionsamtshaftung: Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Unionsamtshaftung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| e-Curia Einreichung und Zustellung | e-Curia Einreichung und Zustellung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einstweiliger Rechtsschutz | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Nichtigkeitsklage nach Art. 263 AEUV | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vorabentscheidung nach Art. 267 AEUV | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| EUIPO vor Beschwerdekammer, EuG und EuGH | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Unionsamtshaftung | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| e-Curia Einreichung und Zustellung | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Einstweiliger Rechtsschutz | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Nichtigkeitsklage nach Art. 263 AEUV | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vorabentscheidung nach Art. 267 AEUV | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| EUIPO vor Beschwerdekammer, EuG und EuGH | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
-- Normen und Entscheidungen aus den vorgelegten Unterlagen oder einer belastbaren Quelle ableiten; Aktenzeichen nicht ergänzen, wenn sie nicht sicher belegt sind.
+- EUV Artikel 19: Rechtsschutzsystem der Union und Aufgabe des Gerichtshofs.
+- AEUV Artikel 256: Zuständigkeit des Gerichts und Rechtsmittel zum Gerichtshof.
+- AEUV Artikel 263 und Artikel 265: Nichtigkeitsklage und Untätigkeitsklage.
+- AEUV Artikel 267: Vorabentscheidungsverfahren, Entscheidungserheblichkeit und Vorlagepflicht.
+- EuGH, Urteil vom 15.07.1963 - 25/62: Plaumann-Linie zur individuellen Betroffenheit Privater.
+- EuGH, Urteil vom 06.10.1982 - 283/81: CILFIT zu acte clair, acte éclairé und Vorlagepflicht.
 
 ## 6. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Unionsamtshaftung, e-Curia Einreichung und Zustellung, Einstweiliger Rechtsschutz, Nichtigkeitsklage nach Art. 263 AEUV: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Fristenblatt: Verfahrensart, Gericht, auslösender Akt, Zustellung, Fristende, e-Curia-Reserve und verantwortlicher Einreicher werden als Tabelle ausgegeben; Klagekern: Der Antrag richtet sich gegen [Akt/Unterlassen], ist nach [Norm] statthaft und stützt sich vorrangig auf [Klagegrund] mit [Beleg].
 
 ## 7. Stop
 

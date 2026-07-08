@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Ausfuhrkontrolle und Aussenwirtschaftsdimension (AA): Ausfuhrkontrolle und Aussenwirtschaftsdimension (AA): Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. EU-Grundlagen und Ratsverfahren (AA): Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Konsularrecht und Passrecht (AA): Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Sanktionsumsetzung und internationale Abkommen (AA): Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Voelkerrecht und Vertragsgesetzgebung (AA): Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Änderungs: Formular, Portal und Einreichungslogik: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Ausfuhrkontrolle und Aussenwirtschaftsdimension (AA): ] Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Ausfuhrkontrolle.
+2. EU-Grundlagen und Ratsverfahren (AA): ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
+3. Konsularrecht und Passrecht (AA): ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
+4. Sanktionsumsetzung und internationale Abkommen (AA): ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
+5. Voelkerrecht und Vertragsgesetzgebung (AA): ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
+6. Änderungs: Formular, Portal und Einreichungslogik: Arbeitsfokus: Änderungs: Formular, Portal und Einreichungslogik. Prüfe diese Anker am Sachverhalt; ergänze nur.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Ausfuhrkontrolle und Aussenwirtschaftsdimension (AA) | Ausfuhrkontrolle und Aussenwirtschaftsdimension (AA): Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| EU-Grundlagen und Ratsverfahren (AA) | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Konsularrecht und Passrecht (AA) | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Sanktionsumsetzung und internationale Abkommen (AA) | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Voelkerrecht und Vertragsgesetzgebung (AA) | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Änderungs: Formular, Portal und Einreichungslogik | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ausfuhrkontrolle und Aussenwirtschaftsdimension (AA) | ] Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Ausfuhrkontrolle. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| EU-Grundlagen und Ratsverfahren (AA) | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Konsularrecht und Passrecht (AA) | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Sanktionsumsetzung und internationale Abkommen (AA) | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Voelkerrecht und Vertragsgesetzgebung (AA) | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Änderungs: Formular, Portal und Einreichungslogik | Arbeitsfokus: Änderungs: Formular, Portal und Einreichungslogik. Prüfe diese Anker am Sachverhalt; ergänze nur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

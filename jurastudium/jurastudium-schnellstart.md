@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. AG/Seminar-Vorbereitung (Cold-Call-Prep): Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Jurastudium — Allgemein: Jurastudium — Allgemein: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-3. Dokumentenintake: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Einstieg und Routing: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Examensprognose / JPA-Statistik: Examensprognose / JPA-Statistik: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-6. Examensvorbereitungs-Fragen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. AG/Seminar-Vorbereitung (Cold-Call-Prep): Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW.
+2. Jurastudium — Allgemein: Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW.
+3. Dokumentenintake: Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren.
+4. Einstieg und Routing: Dieser Einstieg routet Jurastudium vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem.
+5. Examensprognose / JPA-Statistik: Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW.
+6. Examensvorbereitungs-Fragen: Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| AG/Seminar-Vorbereitung (Cold-Call-Prep) | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Jurastudium — Allgemein | Jurastudium — Allgemein: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dokumentenintake | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einstieg und Routing | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Examensprognose / JPA-Statistik | Examensprognose / JPA-Statistik: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Examensvorbereitungs-Fragen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AG/Seminar-Vorbereitung (Cold-Call-Prep) | Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Jurastudium — Allgemein | Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Dokumentenintake | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Einstieg und Routing | Dieser Einstieg routet Jurastudium vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Examensprognose / JPA-Statistik | Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Examensvorbereitungs-Fragen | Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

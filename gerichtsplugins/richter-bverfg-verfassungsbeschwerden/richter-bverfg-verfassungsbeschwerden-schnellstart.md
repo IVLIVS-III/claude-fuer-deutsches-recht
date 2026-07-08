@@ -22,18 +22,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen.
 4. Verhaeltnismaessigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten.
 5. Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag.
-6. 01 Annahme Prüfung Paragraf 93A: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+6. 01 Annahme Prüfung Paragraf 93A: Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| 01 Annahme Prüfung Paragraf 93A | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 02 Substantiierungs Prüfung Paragraf 92 | 02 Substantiierungs Prüfung Paragraf 92: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 03 Rechtswegerschoepfung Paragraf 90 Abs 2 | 03 Rechtswegerschoepfung Paragraf 90 Abs 2: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 04 Subsidiaritaet und Frist | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 05 Grundrechtsdogmatik Prüfen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 06 Fachgerichtliche Entscheidung Prüfen | 06 Fachgerichtliche Entscheidung Prüfen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 01 Annahme Prüfung Paragraf 93A | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 02 Substantiierungs Prüfung Paragraf 92 | Substantiierungspflicht Paragraf 92 BVerfGG: konkrete Bezeichnung des verletzten Rechts, Sachverhaltsdarstellung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 03 Rechtswegerschoepfung Paragraf 90 Abs 2 | Rechtswegerschoepfung Paragraf 90 Abs. 2 BVerfGG: vollständige Erschoepfung des fachgerichtlichen Instanzenzugs. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 04 Subsidiaritaet und Frist | Materielle Subsidiaritaet (zumutbare anderweitige Abhilfe, prozessuale Obliegenheiten), Beschwerdefrist. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 05 Grundrechtsdogmatik Prüfen | Prüfungsschema Freiheitsgrundrechte: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung (Schranken. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 06 Fachgerichtliche Entscheidung Prüfen | Prüfungsmaßstab gegenüber Fachgerichten: spezifisches Verfassungsrecht, Verletzung verfassungsrechtlicher. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

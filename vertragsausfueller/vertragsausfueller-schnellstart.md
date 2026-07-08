@@ -17,22 +17,22 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Altverträge: Dokumentenmatrix, Lückenliste und Nachforderung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Altvertrag nachziehen: Altvertrag nachziehen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-3. Anschluss-Routing: Anschluss-Routing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-4. Ausdrücklicher: Fristennotiz und nächster Schritt: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. VAF: Batch-Modus Konzern: VAF: Batch-Modus Konzern: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. Altverträge: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste.
+2. Altvertrag nachziehen: Tragende Normen verifizieren: BGB Paragrafen 133, 157, 305-310 (AGB-Kontrolle), 311b, 311c, 433, 488, 535, 631.
+3. Anschluss-Routing: Dieses Anschluss-Routing für Vertragsausfueller wählt nach dem ersten Ergebnis die passende Vertiefung.
+4. Ausdrücklicher: Fristennotiz und nächster Schritt: Tragende Normen verifizieren: BGB Paragrafen 133, 157, 305-310 (AGB-Kontrolle), 311b, 311c, 433, 488, 535, 631.
+5. VAF: Batch-Modus Konzern: Tragende Normen verifizieren: BGB Paragrafen 133, 157, 305-310 (AGB-Kontrolle), 311b, 311c, 433, 488, 535, 631.
 6. BSAG-Mietvertrag: Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Altverträge: Dokumentenmatrix, Lückenliste und Nachforderung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Altvertrag nachziehen | Altvertrag nachziehen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Anschluss-Routing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ausdrücklicher: Fristennotiz und nächster Schritt | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| VAF: Batch-Modus Konzern | VAF: Batch-Modus Konzern: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Altverträge: Dokumentenmatrix, Lückenliste und Nachforderung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Altvertrag nachziehen | Tragende Normen verifizieren: BGB Paragrafen 133, 157, 305-310 (AGB-Kontrolle), 311b, 311c, 433, 488, 535, 631. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Dieses Anschluss-Routing für Vertragsausfueller wählt nach dem ersten Ergebnis die passende Vertiefung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ausdrücklicher: Fristennotiz und nächster Schritt | Tragende Normen verifizieren: BGB Paragrafen 133, 157, 305-310 (AGB-Kontrolle), 311b, 311c, 433, 488, 535, 631. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| VAF: Batch-Modus Konzern | Tragende Normen verifizieren: BGB Paragrafen 133, 157, 305-310 (AGB-Kontrolle), 311b, 311c, 433, 488, 535, 631. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | BSAG-Mietvertrag | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker

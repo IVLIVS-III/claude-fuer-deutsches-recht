@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Angebotsschreiben Offer Letter: Angebotsschreiben Offer Letter: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. Angebotsschreiben Offer Letter: Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4.
 2. Anwalt und Steuerberater Briefing: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
-3. Arbeitnehmerüberlassung AÜG Risk: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Arbeitserlaubnis Blue Card Nicht EU: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Arbeitsschutz Psychische Gefährdungsbeurteilung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Abmahnung Entwurf und Risiko: Abmahnung Entwurf und Risiko: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+3. Arbeitnehmerüberlassung AÜG Risk: Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4.
+4. Arbeitserlaubnis Blue Card Nicht EU: Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4.
+5. Arbeitsschutz Psychische Gefährdungsbeurteilung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
+6. Abmahnung Entwurf und Risiko: Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Angebotsschreiben Offer Letter | Angebotsschreiben Offer Letter: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Angebotsschreiben Offer Letter | Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anwalt und Steuerberater Briefing | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitnehmerüberlassung AÜG Risk | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitserlaubnis Blue Card Nicht EU | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsschutz Psychische Gefährdungsbeurteilung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abmahnung Entwurf und Risiko | Abmahnung Entwurf und Risiko: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitnehmerüberlassung AÜG Risk | Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitserlaubnis Blue Card Nicht EU | Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsschutz Psychische Gefährdungsbeurteilung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abmahnung Entwurf und Risiko | Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

@@ -18,22 +18,22 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 ## 3. Kernroute
 
 1. Annahmen: Behörden-, Gerichts- oder Registerweg: Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren.
-2. Annahmen plausibilisieren: Annahmen plausibilisieren: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-3. Annahmen sammeln (Fortführung): Annahmen sammeln (Fortführung): Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-4. Anschluss-Routing: Anschluss-Routing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-5. Auslösendes Ereignis erfassen: Auslösendes Ereignis erfassen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-6. Bilanzieller Status aufnehmen: Bilanzieller Status aufnehmen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+2. Annahmen plausibilisieren: Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800.
+3. Annahmen sammeln (Fortführung): Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800.
+4. Anschluss-Routing: Dieses Anschluss-Routing für Fortbestehensprognose wählt nach dem ersten Ergebnis die passende Vertiefung.
+5. Auslösendes Ereignis erfassen: Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800.
+6. Bilanzieller Status aufnehmen: Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Annahmen: Behörden-, Gerichts- oder Registerweg | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Annahmen plausibilisieren | Annahmen plausibilisieren: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Annahmen sammeln (Fortführung) | Annahmen sammeln (Fortführung): Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Anschluss-Routing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auslösendes Ereignis erfassen | Auslösendes Ereignis erfassen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bilanzieller Status aufnehmen | Bilanzieller Status aufnehmen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Annahmen plausibilisieren | Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Annahmen sammeln (Fortführung) | Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Dieses Anschluss-Routing für Fortbestehensprognose wählt nach dem ersten Ergebnis die passende Vertiefung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auslösendes Ereignis erfassen | Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bilanzieller Status aufnehmen | Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

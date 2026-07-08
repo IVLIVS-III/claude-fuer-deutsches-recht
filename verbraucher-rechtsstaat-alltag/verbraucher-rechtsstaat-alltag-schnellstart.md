@@ -19,10 +19,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 1. Abo-Falle und Kündigung: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
 2. Abo-Kündigung Fitness und Streaming: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
-3. Arztrechnung GOÄ für Laien: Arztrechnung GOÄ für Laien: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-4. Bankentgelte und Zustimmungsfiktion: Bankentgelte und Zustimmungsfiktion: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-5. Baubehörde und Nachbarbrief: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-6. Behördenformular verstehen: Behördenformular verstehen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+3. Arztrechnung GOÄ für Laien: Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB —.
+4. Bankentgelte und Zustimmungsfiktion: Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB —.
+5. Baubehörde und Nachbarbrief: Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB —.
+6. Behördenformular verstehen: Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB —.
 
 ## 4. Einsatzfelder
 
@@ -30,10 +30,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- | --- |
 | Abo-Falle und Kündigung | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Abo-Kündigung Fitness und Streaming | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arztrechnung GOÄ für Laien | Arztrechnung GOÄ für Laien: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bankentgelte und Zustimmungsfiktion | Bankentgelte und Zustimmungsfiktion: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Baubehörde und Nachbarbrief | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Behördenformular verstehen | Behördenformular verstehen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arztrechnung GOÄ für Laien | Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bankentgelte und Zustimmungsfiktion | Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Baubehörde und Nachbarbrief | Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Behördenformular verstehen | Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

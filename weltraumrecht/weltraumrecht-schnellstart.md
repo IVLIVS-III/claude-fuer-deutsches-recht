@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Weltraumrecht: Absturz in Deutschland: Bergung, Eigentum, Beweis und Staatshaftung: Weltraumrecht: Absturz in Deutschland: Bergung, Eigentum, Beweis und Staatshaftung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast.
-2. Weltraumrecht: Amateurfunk-Satellit und Frequenznutzung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Anti-Satellite-Test-Ban und Orbital-Debris-Pledge: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Weltraumrecht: Arbeitsrecht: Missionskontrolle, Schichtbetrieb, Sicherheit: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Weltraumrecht: Artemis Accords und Verhältnis zu UN-Verträgen: Weltraumrecht: Artemis Accords und Verhältnis zu UN-Verträgen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument.
-6. Weltraumrecht: Astronautenausbildung: Vertrag, Haftung, Versicherung, Fürsorge: Weltraumrecht: Astronautenausbildung: Vertrag, Haftung, Versicherung, Fürsorge: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument.
+1. Weltraumrecht: Absturz in Deutschland: Bergung, Eigentum, Beweis und Staatshaftung: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
+2. Weltraumrecht: Amateurfunk-Satellit und Frequenznutzung: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
+3. Anti-Satellite-Test-Ban und Orbital-Debris-Pledge: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
+4. Weltraumrecht: Arbeitsrecht: Missionskontrolle, Schichtbetrieb, Sicherheit: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
+5. Weltraumrecht: Artemis Accords und Verhältnis zu UN-Verträgen: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
+6. Weltraumrecht: Astronautenausbildung: Vertrag, Haftung, Versicherung, Fürsorge: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Weltraumrecht: Absturz in Deutschland: Bergung, Eigentum, Beweis und Staatshaftung | Weltraumrecht: Absturz in Deutschland: Bergung, Eigentum, Beweis und Staatshaftung: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Weltraumrecht: Amateurfunk-Satellit und Frequenznutzung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anti-Satellite-Test-Ban und Orbital-Debris-Pledge | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Weltraumrecht: Arbeitsrecht: Missionskontrolle, Schichtbetrieb, Sicherheit | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Weltraumrecht: Artemis Accords und Verhältnis zu UN-Verträgen | Weltraumrecht: Artemis Accords und Verhältnis zu UN-Verträgen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Weltraumrecht: Astronautenausbildung: Vertrag, Haftung, Versicherung, Fürsorge | Weltraumrecht: Astronautenausbildung: Vertrag, Haftung, Versicherung, Fürsorge: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Weltraumrecht: Absturz in Deutschland: Bergung, Eigentum, Beweis und Staatshaftung | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Weltraumrecht: Amateurfunk-Satellit und Frequenznutzung | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anti-Satellite-Test-Ban und Orbital-Debris-Pledge | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Weltraumrecht: Arbeitsrecht: Missionskontrolle, Schichtbetrieb, Sicherheit | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Weltraumrecht: Artemis Accords und Verhältnis zu UN-Verträgen | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Weltraumrecht: Astronautenausbildung: Vertrag, Haftung, Versicherung, Fürsorge | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

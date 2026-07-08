@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Normenkontrollrat-NKR — Einstieg und Routing: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. NKR-Alternativen-Prüfung — Verzicht, Soft-Law, Vollzug: NKR-Alternativen-Prüfung — Verzicht, Soft-Law, Vollzug: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein.
-3. NKR-Aufgabe und Kompetenz nach NKRG: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. NKR-Buerokratieabbau-Katalog — konkrete Vorschlaege: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-5. NKR-Buerokratiekosten vs. Erfuellungsaufwand: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. NKR-Digitaltauglichkeit / Digital-Anschlussfähigkeit: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Normenkontrollrat-NKR — Einstieg und Routing: Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren.
+2. NKR-Alternativen-Prüfung — Verzicht, Soft-Law, Vollzug: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
+3. NKR-Aufgabe und Kompetenz nach NKRG: Skill, der den rechtlichen und institutionellen Rahmen des NKR aufrollt. Wird gebraucht, wenn intern.
+4. NKR-Buerokratieabbau-Katalog — konkrete Vorschlaege: Buerokratieabbau ist kein abstrakter Wunsch, sondern eine konkrete Liste wiederkehrender Muster. Dieser Skill.
+5. NKR-Buerokratiekosten vs. Erfuellungsaufwand: Bis 2011 prüftes der NKR nur Buerokratiekosten (eng: Informationspflichten). Mit Erweiterung der Aufgaben prüft er.
+6. NKR-Digitaltauglichkeit / Digital-Anschlussfähigkeit: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Normenkontrollrat-NKR — Einstieg und Routing | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| NKR-Alternativen-Prüfung — Verzicht, Soft-Law, Vollzug | NKR-Alternativen-Prüfung — Verzicht, Soft-Law, Vollzug: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| NKR-Aufgabe und Kompetenz nach NKRG | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| NKR-Buerokratieabbau-Katalog — konkrete Vorschlaege | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| NKR-Buerokratiekosten vs. Erfuellungsaufwand | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| NKR-Digitaltauglichkeit / Digital-Anschlussfähigkeit | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Normenkontrollrat-NKR — Einstieg und Routing | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| NKR-Alternativen-Prüfung — Verzicht, Soft-Law, Vollzug | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| NKR-Aufgabe und Kompetenz nach NKRG | Skill, der den rechtlichen und institutionellen Rahmen des NKR aufrollt. Wird gebraucht, wenn intern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| NKR-Buerokratieabbau-Katalog — konkrete Vorschlaege | Buerokratieabbau ist kein abstrakter Wunsch, sondern eine konkrete Liste wiederkehrender Muster. Dieser Skill. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| NKR-Buerokratiekosten vs. Erfuellungsaufwand | Bis 2011 prüftes der NKR nur Buerokratiekosten (eng: Informationspflichten). Mit Erweiterung der Aufgaben prüft er. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| NKR-Digitaltauglichkeit / Digital-Anschlussfähigkeit | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Bürgergeld Krankenversicherung Dashbo: Bürgergeld Krankenversicherung Dashbo: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. Globaler Minderausgabe Dashboard Bauen: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-3. Bho 65 Beteiligung Unternehmen Praktis: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Verpflichtungsermaechtigung Prüfen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Deckungsfähigkeit Prüfen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Erlaeuterung Rechtlich Bewerten: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Bürgergeld Krankenversicherung Dashbo: Tragende Normen verifizieren: BHO, LHO, KomHV-Doppik, GG Art. 109-115, VwVfG, BRH-Bemerkungen, EU-Haushaltsordnung.
+2. Globaler Minderausgabe Dashboard Bauen: Tragende Normen verifizieren: BHO, LHO, KomHV-Doppik, GG Art. 109-115, VwVfG, BRH-Bemerkungen, EU-Haushaltsordnung.
+3. Bho 65 Beteiligung Unternehmen Praktis: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
+4. Verpflichtungsermaechtigung Prüfen: Verpflichtungsermaechtigung Prüfen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang.
+5. Deckungsfähigkeit Prüfen: Deckungsfähigkeit Prüfen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich.
+6. Erlaeuterung Rechtlich Bewerten: Erlaeuterung Rechtlich Bewerten wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Bürgergeld Krankenversicherung Dashbo | Bürgergeld Krankenversicherung Dashbo: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Globaler Minderausgabe Dashboard Bauen | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bho 65 Beteiligung Unternehmen Praktis | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verpflichtungsermaechtigung Prüfen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Deckungsfähigkeit Prüfen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Erlaeuterung Rechtlich Bewerten | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bürgergeld Krankenversicherung Dashbo | Tragende Normen verifizieren: BHO, LHO, KomHV-Doppik, GG Art. 109-115, VwVfG, BRH-Bemerkungen, EU-Haushaltsordnung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Globaler Minderausgabe Dashboard Bauen | Tragende Normen verifizieren: BHO, LHO, KomHV-Doppik, GG Art. 109-115, VwVfG, BRH-Bemerkungen, EU-Haushaltsordnung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bho 65 Beteiligung Unternehmen Praktis | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verpflichtungsermaechtigung Prüfen | Verpflichtungsermaechtigung Prüfen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Deckungsfähigkeit Prüfen | Deckungsfähigkeit Prüfen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Erlaeuterung Rechtlich Bewerten | Erlaeuterung Rechtlich Bewerten wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

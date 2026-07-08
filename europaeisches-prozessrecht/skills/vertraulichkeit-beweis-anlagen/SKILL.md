@@ -1,44 +1,45 @@
 ---
 name: vertraulichkeit-beweis-anlagen
-description: "Sortiert vertrauliche Fassungen, Anlagen, Geschäftsgeheimnisse, Beweisangebote, Aktenauszüge und Schwärzungen für EuGH- und EuG-Verfahren."
+description: "Steuert vertrauliche Fassungen, Anlagenverzeichnis, Geschäftsgeheimnisse, Beweisangebote, Aktenauszüge und Schwärzungen in Verfahren vor Gerichtshof, Gericht und Beschwerdekammern. Aktivieren bei e-Curia-Einreichung, Art.-103-Vertraulichkeit, Interventionsakten, EUIPO-Folgewegen, Sicherheitsinformationen, Anlagenlücken oder Streit über Akteneinsicht."
 ---
 # Vertraulichkeit, Beweis und Anlagen
 
 ## 1. Sofortstart
 
-Beginne mit einem Arbeitsprodukt, nicht mit einer Materialinventur. Lege in fünf Sätzen fest: Parteirolle, Verfahrensart, Gericht, Frist und stärkster prozessualer Engpass. Wenn die Zuständigkeit zwischen Gerichtshof und Gericht offen ist, stelle zuerst die Zuständigkeitsfrage, dann erst die materielle Linie.
+Beginne mit einer Anlagen- und Vertraulichkeitsmatrix, nicht mit einer allgemeinen Prozessübersicht. Lege zuerst fest: Gericht oder Beschwerdekammer, Verfahrensart, Einreichungsfrist, Parteirolle, Sprache, e-Curia-Status und ob eine vertrauliche Fassung, nicht vertrauliche Fassung oder Schwärzung benötigt wird.
 
 ## 2. Prüfraster
 
-1. Verfahrensart bestimmen: Vorabentscheidung, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiliger Rechtsschutz, Rechtsmittel oder Sonderweg EUIPO.
-2. Zuständigkeit und Spruchkörperlogik prüfen: Gerichtshof, Gericht, Beschwerdekammer oder nationales Gericht.
-3. Zulässigkeit sichern: Frist, anfechtbarer Akt, Klagebefugnis, Vertretung, Verfahrenssprache, Form und Anlagen.
-4. Begründetheit nur mit tragenden Klagegründen ausarbeiten: Zuständigkeit, wesentliche Formverletzung, Vertragsverletzung, Ermessensfehler, Verhältnismäßigkeit, Gleichbehandlung, Grundrechte.
-5. Gegenargumente der Union oder der Gegenpartei vorwegnehmen und mit Beleg, Norm und Risiko beantworten.
-6. Ausgabe als Fristenblatt, Schriftsatzgerüst, Vorlagefrage, Eilantrag, Rechtsmittelvermerk oder Mandantenmemo liefern.
+1. Verfahren und Aktenlage trennen: Vorabentscheidung, direkte Klage, Rechtsmittel, einstweiliger Rechtsschutz, Intervention oder EUIPO-Folgeweg.
+2. Jede Anlage klassifizieren: öffentlich einreichbar, vertraulich gegenüber der Öffentlichkeit, vertraulich gegenüber Streithelfern, vertraulich gegenüber einer Hauptpartei oder sicherheitsbezogen.
+3. Für jede Schwärzung den Schutzgrund notieren: Geschäftsgeheimnis, personenbezogenes Datum, Ermittlungs- oder Sicherheitsbezug, internes Entscheidungsdokument oder nicht entscheidungserheblicher Randinhalt.
+4. Zu jeder geschwärzten Passage eine nicht vertrauliche Ersatzfassung formulieren, damit der kontradiktorische Kern gewahrt bleibt.
+5. Beweisangebote und Aktenauszüge nur so weit in den Schriftsatz ziehen, wie sie für Zulässigkeit, Klagegrund, Dringlichkeit oder Schaden wirklich tragen.
+6. Anlagenverzeichnis, Dateinamen, Seitenverweise und e-Curia-Uploadfolge so aufbauen, dass Gericht, Kanzlei und Gegenseite dieselbe Fundstelle finden.
 
 ## 3. Normanker
 
-1. Art. 19 EUV als institutioneller Rechtsschutzrahmen.
-2. Art. 256, 258 bis 260, 263, 265, 267, 268, 278, 279 und 340 AEUV je nach Verfahrensart.
-3. Satzung des Gerichtshofs, insbesondere Art. 23, 40, 56 und 58.
-4. Verfahrensordnungen des Gerichtshofs und des Gerichts sowie Praktische Durchführungsbestimmungen.
-5. e-Curia-Regeln zu Einreichung, Zustellung und elektronischer Fristenkontrolle.
+1. Verfahrensordnung des Gerichts Artikel 76: Klageschrift, Bezeichnung der Parteien, Streitgegenstand, Klagegründe, Anträge und Anlagenlogik.
+2. Verfahrensordnung des Gerichts Artikel 103: Behandlung vertraulicher Informationen oder Unterlagen im Rahmen von Beweisaufnahme und kontradiktorischem Verfahren.
+3. Satzung des Gerichtshofs Artikel 23: Vorlageverfahren, Beteiligte und schriftliche Erklärungen.
+4. Satzung des Gerichtshofs Artikel 40: Streitbeitritt und Schutz sensibler Akteninhalte gegenüber Streithelfern.
+5. Praktische Durchführungsbestimmungen und e-Curia-Regeln: elektronische Einreichung, Zustellung, Anlagenbezeichnung und Empfangskontrolle.
 
 ## 4. Ausgabeformat
 
 | Abschnitt | Inhalt | Qualitätsgriff |
 | --- | --- | --- |
-| Kurzlage | Verfahrensart, Gericht, Frist, Rolle | keine materielle Prüfung ohne Zulässigkeit |
-| Zulässigkeit | Akt, Klagebefugnis, Form, Sprache | negative Punkte offen markieren |
-| Begründung | drei stärkste Klage- oder Verteidigungslinien | jede Linie mit Norm und Beleg |
-| Risiko | stärkstes Gegenargument und Beweisproblem | prozessuale Folgen nennen |
-| Nächster Schritt | Einreichung, Nachfrage, Entwurf oder Vergleich | konkretes Datum und Zuständigkeit |
+| Anlagenmatrix | Anlage, Fundstelle, Zweck, Vertraulichkeitsstufe | jede Schwärzung bekommt Schutzgrund |
+| Nicht vertrauliche Fassung | Ersatztext, Zusammenfassung, Seitenverweis | Verteidigungsrechte nicht leerlaufen lassen |
+| Beweislinie | Tatsache, Beleg, Klagegrund, Gegenargument | nur entscheidungserhebliche Anlagen verwenden |
+| e-Curia-Check | Dateiname, Format, Reihenfolge, Empfang | Upload und Zustellung getrennt prüfen |
+| Nächster Schritt | Antrag, Nachforderung, Schwärzung oder Einreichung | konkretes Datum und Verantwortlicher |
 
 ## 5. Schlusskontrolle
 
-1. Frist und Verfahrenssprache stehen oben.
-2. Gerichtshof und Gericht sind nicht vermischt.
-3. e-Curia, Anlagen und Zustellung sind praktisch vorbereitet.
-4. Kein Klagegrund bleibt ohne Normanker.
-5. Der Output ist unmittelbar weiterverwendbar.
+1. Frist, Gericht, Verfahrenssprache und Uploadweg stehen oben.
+2. Vertrauliche und nicht vertrauliche Fassung sind eindeutig getrennt.
+3. Jede Schwärzung ist begründet und auf das Nötige begrenzt.
+4. Jede Anlage hat Aktenzeichen, Datum, Seitenverweis und Beweiszweck.
+5. Streithelfer-, Öffentlichkeits- und Gegenparteizugriff sind getrennt geprüft.
+6. Der Output ist als Anlagenverzeichnis, Antrag oder Kanzlei-Checkliste sofort weiterverwendbar.

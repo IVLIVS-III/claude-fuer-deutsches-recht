@@ -22,18 +22,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Anwendbares Recht: Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen.
 4. Materielle Prüfung nach dem berufenen Recht: bei auslaendischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden.
 5. Durchsetzung: Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt.
-6. Advertising und Promotional Campaigns: Advertising und Promotional Campaigns: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+6. Advertising und Promotional Campaigns: Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Advertising und Promotional Campaigns | Advertising und Promotional Campaigns: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| algorithmische Systeme Contract Disclosure und Warranties | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| automatisiert erzeugtes Material Material Disclosure | automatisiert erzeugtes Material Material Disclosure: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| algorithmische Systeme Output und Copyrightability | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Training automatisierter Systeme und Fair Use Risk | Training automatisierter Systeme und Fair Use Risk: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anti-Circumvention Paragraf 1201 | Anti-Circumvention Paragraf 1201: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Advertising und Promotional Campaigns | Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| algorithmische Systeme Contract Disclosure und Warranties | Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| automatisiert erzeugtes Material Material Disclosure | Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| algorithmische Systeme Output und Copyrightability | Entscheidende Weiche: Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Training automatisierter Systeme und Fair Use Risk | Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anti-Circumvention Paragraf 1201 | Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Appeal and Revision: Appeal and Revision: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. Arbitration Clause Conflict: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Bea Erv English Pleadings: Bea Erv English Pleadings: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-4. BGH in English: BGH in English: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-5. Bilingual Board Briefing: Bilingual Board Briefing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-6. Bundle and Filing: Bundle and Filing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. Appeal and Revision: Tragende Normen verifizieren: GVG Paragrafen 119, 119b (Commercial Court), ZPO Paragrafen 184a, 614, 1025-1066.
+2. Arbitration Clause Conflict: Tragende Normen verifizieren: GVG Paragrafen 119, 119b (Commercial Court), ZPO Paragrafen 184a, 614, 1025-1066.
+3. Bea Erv English Pleadings: Tragende Normen verifizieren: GVG Paragrafen 119, 119b (Commercial Court), ZPO Paragrafen 184a, 614, 1025-1066.
+4. BGH in English: Tragende Normen verifizieren: GVG Paragrafen 119, 119b (Commercial Court), ZPO Paragrafen 184a, 614, 1025-1066.
+5. Bilingual Board Briefing: Tragende Normen verifizieren: GVG Paragrafen 119, 119b (Commercial Court), ZPO Paragrafen 184a, 614, 1025-1066.
+6. Bundle and Filing: Tragende Normen verifizieren: GVG Paragrafen 119, 119b (Commercial Court), ZPO Paragrafen 184a, 614, 1025-1066.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Appeal and Revision | Appeal and Revision: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbitration Clause Conflict | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bea Erv English Pleadings | Bea Erv English Pleadings: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| BGH in English | BGH in English: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bilingual Board Briefing | Bilingual Board Briefing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bundle and Filing | Bundle and Filing: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Appeal and Revision | Tragende Normen verifizieren: GVG Paragrafen 119, 119b (Commercial Court), ZPO Paragrafen 184a, 614, 1025-1066. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbitration Clause Conflict | Tragende Normen verifizieren: GVG Paragrafen 119, 119b (Commercial Court), ZPO Paragrafen 184a, 614, 1025-1066. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bea Erv English Pleadings | Tragende Normen verifizieren: GVG Paragrafen 119, 119b (Commercial Court), ZPO Paragrafen 184a, 614, 1025-1066. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| BGH in English | Tragende Normen verifizieren: GVG Paragrafen 119, 119b (Commercial Court), ZPO Paragrafen 184a, 614, 1025-1066. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bilingual Board Briefing | Tragende Normen verifizieren: GVG Paragrafen 119, 119b (Commercial Court), ZPO Paragrafen 184a, 614, 1025-1066. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bundle and Filing | Tragende Normen verifizieren: GVG Paragrafen 119, 119b (Commercial Court), ZPO Paragrafen 184a, 614, 1025-1066. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

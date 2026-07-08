@@ -1,3 +1,13 @@
+# v429.6.0 — Schnellstart-Routing und Aktivierungssignale
+
+- Schnellstart-Generator gehärtet: Fachrouten für Bau-, Software- und EU-Prozess-Themen werden nicht mehr durch bloße Teilworttreffer ausgelöst. Dadurch verschwinden fachfremde Sofortgriffe aus zahlreichen kompakten Prompts.
+- Europäisches Prozessrecht erhält ein eigenes Themenprofil mit unionsprozessualer Route, Fristen-, Zuständigkeits-, Sprach-, e-Curia-, Anlagen- und Antragssatzlogik sowie tragenden Norm- und Rechtsprechungsankern.
+- Skill `vertraulichkeit-beweis-anlagen` im europäischen Prozessrecht geschärft: vertrauliche Fassungen, Schwärzungen, Anlagenverzeichnis, Beweislinie, e-Curia-Upload und Streithelferzugriff werden jetzt als verwertbare Matrix geführt.
+- Der vorhandene Aktivierungs-Audit ist jetzt ein echter Release-Prüfschritt. Zu kurze, leere, doppelte oder untaugliche Skill-Beschreibungen stoppen künftig den Release statt nur Hinweise auszugeben.
+- Schnellstart-Fallbacks glätten doppelte Feldnamen und nutzen brauchbare Skill-Beschreibungen als konkrete Sofortgriffe; zusätzlich wurden generierte Übersichten und Prompt-Assets auf den neuen Stand synchronisiert.
+
+---
+
 # v429.5.0 — Direktstart, Kurzprompts und Aktenoptik
 
 - Werkstatt- und Schnellstart-Prompts starten repo-weit stärker aus vorhandenem Material: Wenn ein Ordner, Dateien oder Aktenstücke vorliegen, wird zuerst gelesen, geordnet und ein Arbeitsprodukt geliefert; Kaltstartfragen bleiben auf echte Lücken beschränkt.

@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Aktenaufnahme in Pfarrei, Ordinariat und Offizialat: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Allgemeiner Einstieg: CIC, Katechismus und pastorale Lage: Allgemeiner Einstieg: CIC, Katechismus und pastorale Lage: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein.
-3. Arabische Pastoralantworten: Arabische Pastoralantworten: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. Aktenaufnahme in Pfarrei, Ordinariat und Offizialat: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal.
+2. Allgemeiner Einstieg: CIC, Katechismus und pastorale Lage: CIC can. 7 — Inkrafttreten kirchlicher Gesetze. - CIC can. 11 — Adressaten rein kirchlicher Gesetze. - CIC can. 96.
+3. Arabische Pastoralantworten: CIC can. 7 — Inkrafttreten kirchlicher Gesetze. - CIC can. 11 — Adressaten rein kirchlicher Gesetze. - CIC can. 96.
 4. Archive, Register und Datenschutz: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
-5. Auslegung von Canones und aequitas canonica: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Beichtgeheimnis und Seelsorgegeheimnis: Beichtgeheimnis und Seelsorgegeheimnis: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+5. Auslegung von Canones und aequitas canonica: CIC can. 7 — Inkrafttreten kirchlicher Gesetze. - CIC can. 11 — Adressaten rein kirchlicher Gesetze. - CIC can. 96.
+6. Beichtgeheimnis und Seelsorgegeheimnis: CIC can. 7 — Inkrafttreten kirchlicher Gesetze. - CIC can. 11 — Adressaten rein kirchlicher Gesetze. - CIC can. 96.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aktenaufnahme in Pfarrei, Ordinariat und Offizialat | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Allgemeiner Einstieg: CIC, Katechismus und pastorale Lage | Allgemeiner Einstieg: CIC, Katechismus und pastorale Lage: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arabische Pastoralantworten | Arabische Pastoralantworten: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenaufnahme in Pfarrei, Ordinariat und Offizialat | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Allgemeiner Einstieg: CIC, Katechismus und pastorale Lage | CIC can. 7 — Inkrafttreten kirchlicher Gesetze. - CIC can. 11 — Adressaten rein kirchlicher Gesetze. - CIC can. 96. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arabische Pastoralantworten | CIC can. 7 — Inkrafttreten kirchlicher Gesetze. - CIC can. 11 — Adressaten rein kirchlicher Gesetze. - CIC can. 96. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Archive, Register und Datenschutz | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auslegung von Canones und aequitas canonica | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beichtgeheimnis und Seelsorgegeheimnis | Beichtgeheimnis und Seelsorgegeheimnis: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auslegung von Canones und aequitas canonica | CIC can. 7 — Inkrafttreten kirchlicher Gesetze. - CIC can. 11 — Adressaten rein kirchlicher Gesetze. - CIC can. 96. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beichtgeheimnis und Seelsorgegeheimnis | CIC can. 7 — Inkrafttreten kirchlicher Gesetze. - CIC can. 11 — Adressaten rein kirchlicher Gesetze. - CIC can. 96. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

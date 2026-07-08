@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB: Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein.
-2. Abrechnung und Buchauszug: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Abschlussprovision des Abschlussvertreters nach Paragrafen 87 und 87a HGB: Abschlussprovision des Abschlussvertreters nach Paragrafen 87 und 87a HGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes.
-4. Rechtsstellung des Abschlussvertreters nach Paragrafen 84 und 54 HGB: Rechtsstellung des Abschlussvertreters nach Paragrafen 84 und 54 HGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument.
-5. AGB-Kontrolle im Handelsvertretervertrag nach Paragrafen 305 ff. BGB und Paragraf 92c HGB: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Alleinvertreter: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB: Tragende Normen verifizieren: HGB Paragrafen 84-92c, EuGH zu Ausgleichsanspruch, BGB Paragrafen 305 ff.; einschlägige Paragrafen.
+2. Abrechnung und Buchauszug: Vollständigkeit, Perioden, Kunden, Aufträge, Stornos, Rabatte, Buchauszug, Einsicht und Klage. Dieser Skill.
+3. Abschlussprovision des Abschlussvertreters nach Paragrafen 87 und 87a HGB: Tragende Normen verifizieren: HGB Paragrafen 84-92c, EuGH zu Ausgleichsanspruch, BGB Paragrafen 305 ff.; einschlägige Paragrafen.
+4. Rechtsstellung des Abschlussvertreters nach Paragrafen 84 und 54 HGB: Tragende Normen verifizieren: HGB Paragrafen 84-92c, EuGH zu Ausgleichsanspruch, BGB Paragrafen 305 ff.; einschlägige Paragrafen.
+5. AGB-Kontrolle im Handelsvertretervertrag nach Paragrafen 305 ff. BGB und Paragraf 92c HGB: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung.
+6. Alleinvertreter: Gebietsschutz, Kundenschutz, Mindestumsatz, Direktvertrieb, Sanktionen und Kartellrecht. Dieser Skill arbeitet.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB | Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abrechnung und Buchauszug | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschlussprovision des Abschlussvertreters nach Paragrafen 87 und 87a HGB | Abschlussprovision des Abschlussvertreters nach Paragrafen 87 und 87a HGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsstellung des Abschlussvertreters nach Paragrafen 84 und 54 HGB | Rechtsstellung des Abschlussvertreters nach Paragrafen 84 und 54 HGB: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AGB-Kontrolle im Handelsvertretervertrag nach Paragrafen 305 ff. BGB und Paragraf 92c HGB | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Alleinvertreter | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB | Tragende Normen verifizieren: HGB Paragrafen 84-92c, EuGH zu Ausgleichsanspruch, BGB Paragrafen 305 ff.; einschlägige Paragrafen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abrechnung und Buchauszug | Vollständigkeit, Perioden, Kunden, Aufträge, Stornos, Rabatte, Buchauszug, Einsicht und Klage. Dieser Skill. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschlussprovision des Abschlussvertreters nach Paragrafen 87 und 87a HGB | Tragende Normen verifizieren: HGB Paragrafen 84-92c, EuGH zu Ausgleichsanspruch, BGB Paragrafen 305 ff.; einschlägige Paragrafen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtsstellung des Abschlussvertreters nach Paragrafen 84 und 54 HGB | Tragende Normen verifizieren: HGB Paragrafen 84-92c, EuGH zu Ausgleichsanspruch, BGB Paragrafen 305 ff.; einschlägige Paragrafen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AGB-Kontrolle im Handelsvertretervertrag nach Paragrafen 305 ff. BGB und Paragraf 92c HGB | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Alleinvertreter | Gebietsschutz, Kundenschutz, Mindestumsatz, Direktvertrieb, Sanktionen und Kartellrecht. Dieser Skill arbeitet. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

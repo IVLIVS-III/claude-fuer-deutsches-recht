@@ -53,7 +53,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 6. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Normenkontrollbaustein: Die Festsetzung [Bezeichnung] ist unwirksam, weil BauGB Paragraf 9 keine tragfähige Rechtsgrundlage für [Regelungsinhalt] eröffnet und der Fehler beachtlich bleibt.; Vertragsbaustein: Die Kostenübernahme ist nur tragfähig, wenn [Maßnahme] als Voraussetzung oder Folge des Vorhabens [Projekt].
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Normenkontrollbaustein: Die Festsetzung [Bezeichnung] ist unwirksam, weil BauGB Paragraf 9 keine tragfähige Rechtsgrundlage für [Regelungsinhalt] eröffnet und der Fehler beachtlich bleibt; Vertragsbaustein: Die Kostenübernahme ist nur tragfähig, wenn [Maßnahme] als Voraussetzung oder Folge des Vorhabens [Projekt].
 
 ## 7. Stop
 

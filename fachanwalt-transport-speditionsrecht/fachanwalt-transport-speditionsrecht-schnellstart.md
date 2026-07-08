@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Adsp: Internationaler Bezug und Schnittstellen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Anschluss-Routing: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. CMR-Haftung des Frachtführers im internationalen Strassengueterverkehr prüfen: CMR-Haftung des Frachtführers im internationalen Strassengueterverkehr prüfen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument.
-4. CMR Haftung art 17 CMR: CMR Haftung art 17 CMR: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-5. Cotif: Schriftsatz-, Brief- und Memo-Bausteine: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-6. Dokumentenintake: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Adsp: Internationaler Bezug und Schnittstellen: Tragende Normen verifizieren: Paragrafen 407 ff. Frachtvertrag — Fundstellen über gesetze-im-internet.de.
+2. Anschluss-Routing: Dieses Anschluss-Routing für Fachanwalt Transport Speditionsrecht wählt nach dem ersten Ergebnis die passende.
+3. CMR-Haftung des Frachtführers im internationalen Strassengueterverkehr prüfen: Tragende Normen verifizieren: Paragrafen 407 ff. Frachtvertrag — Fundstellen über gesetze-im-internet.de.
+4. CMR Haftung art 17 CMR: Prüfe CMR Haftung art 17 CMR von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg.
+5. Cotif: Schriftsatz-, Brief- und Memo-Bausteine: Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu.
+6. Dokumentenintake: Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Adsp: Internationaler Bezug und Schnittstellen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| CMR-Haftung des Frachtführers im internationalen Strassengueterverkehr prüfen | CMR-Haftung des Frachtführers im internationalen Strassengueterverkehr prüfen: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| CMR Haftung art 17 CMR | CMR Haftung art 17 CMR: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Cotif: Schriftsatz-, Brief- und Memo-Bausteine | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dokumentenintake | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Adsp: Internationaler Bezug und Schnittstellen | Tragende Normen verifizieren: Paragrafen 407 ff. Frachtvertrag — Fundstellen über gesetze-im-internet.de. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Dieses Anschluss-Routing für Fachanwalt Transport Speditionsrecht wählt nach dem ersten Ergebnis die passende. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| CMR-Haftung des Frachtführers im internationalen Strassengueterverkehr prüfen | Tragende Normen verifizieren: Paragrafen 407 ff. Frachtvertrag — Fundstellen über gesetze-im-internet.de. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| CMR Haftung art 17 CMR | Prüfe CMR Haftung art 17 CMR von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Cotif: Schriftsatz-, Brief- und Memo-Bausteine | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Dokumentenintake | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

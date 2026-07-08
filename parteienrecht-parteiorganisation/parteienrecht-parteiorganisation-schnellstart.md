@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abgeordnetengesetz Bund: Abgeordnetengesetz Bund: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-2. Abgeordnetengesetze Länder: Abgeordnetengesetze Länder: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-3. Bundeswahlleiter-Kommunikation: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Befangenheit und Sitzungsleitung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-5. Beitragsordnung Partei: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Beschlussvorlagen Partei: Beschlussvorlagen Partei: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
+1. Abgeordnetengesetz Bund: Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat.
+2. Abgeordnetengesetze Länder: Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat.
+3. Bundeswahlleiter-Kommunikation: Tragende Normen verifizieren: GG Art. 21, PartG Paragrafen 1, 2, 5, 6, 7, 8, 9, 10, 14, 18, 23, 23a, 24, 25, 26.
+4. Befangenheit und Sitzungsleitung: Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat.
+5. Beitragsordnung Partei: Tragende Normen verifizieren: GG Art. 21, PartG Paragrafen 1, 2, 5, 6, 7, 8, 9, 10, 14, 18, 23, 23a, 24, 25, 26.
+6. Beschlussvorlagen Partei: Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abgeordnetengesetz Bund | Abgeordnetengesetz Bund: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abgeordnetengesetze Länder | Abgeordnetengesetze Länder: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bundeswahlleiter-Kommunikation | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Befangenheit und Sitzungsleitung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beitragsordnung Partei | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beschlussvorlagen Partei | Beschlussvorlagen Partei: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abgeordnetengesetz Bund | Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abgeordnetengesetze Länder | Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bundeswahlleiter-Kommunikation | Tragende Normen verifizieren: GG Art. 21, PartG Paragrafen 1, 2, 5, 6, 7, 8, 9, 10, 14, 18, 23, 23a, 24, 25, 26. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Befangenheit und Sitzungsleitung | Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beitragsordnung Partei | Tragende Normen verifizieren: GG Art. 21, PartG Paragrafen 1, 2, 5, 6, 7, 8, 9, 10, 14, 18, 23, 23a, 24, 25, 26. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beschlussvorlagen Partei | Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

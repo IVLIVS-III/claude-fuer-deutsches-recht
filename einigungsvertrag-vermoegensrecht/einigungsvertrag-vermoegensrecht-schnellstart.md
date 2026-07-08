@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Volkseigener Betrieb Berechtigte Ermit: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-2. Alte Ddr Unterlagen Auswerten: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Art 21 und Art 22 Vermögen Trennen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-4. Ausschlussfristen und Bestandskraft: Ausschlussfristen und Bestandskraft: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden.
-5. Behörde und Archiv Finden: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-6. Bodenreform Grundbuch Lesen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Volkseigener Betrieb Berechtigte Ermit: Tragende Normen verifizieren: VermG Paragrafen 1, 3, 4, 6, 30, 30a, InVorG, EALG, AusglLeistG, EntschG.
+2. Alte Ddr Unterlagen Auswerten: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste.
+3. Art 21 und Art 22 Vermögen Trennen: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
+4. Ausschlussfristen und Bestandskraft: Tragende Normen verifizieren: VermG Paragrafen 1, 3, 4, 6, 30, 30a, InVorG, EALG, AusglLeistG, EntschG.
+5. Behörde und Archiv Finden: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
+6. Bodenreform Grundbuch Lesen: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Volkseigener Betrieb Berechtigte Ermit | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Alte Ddr Unterlagen Auswerten | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Art 21 und Art 22 Vermögen Trennen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ausschlussfristen und Bestandskraft | Ausschlussfristen und Bestandskraft: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Behörde und Archiv Finden | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bodenreform Grundbuch Lesen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Volkseigener Betrieb Berechtigte Ermit | Tragende Normen verifizieren: VermG Paragrafen 1, 3, 4, 6, 30, 30a, InVorG, EALG, AusglLeistG, EntschG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Alte Ddr Unterlagen Auswerten | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Art 21 und Art 22 Vermögen Trennen | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ausschlussfristen und Bestandskraft | Tragende Normen verifizieren: VermG Paragrafen 1, 3, 4, 6, 30, 30a, InVorG, EALG, AusglLeistG, EntschG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Behörde und Archiv Finden | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bodenreform Grundbuch Lesen | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 

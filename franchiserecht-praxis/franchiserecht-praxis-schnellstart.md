@@ -17,23 +17,23 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Franchiserecht: Abwicklung, Rückbau und Warenbestand nach Vertragsende: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-2. Franchiserecht: Arbeitsrecht und Scheinselbstständigkeit im Franchise: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
-3. Franchise: Ausgleichsanspruch nach Vertragsende und Kundendaten: Franchise: Ausgleichsanspruch nach Vertragsende und Kundendaten: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument.
-4. Franchiserecht: Bau- und Ladenbau-Pflichten: Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen.
-5. Franchiserecht: Bewertungen, Google, Plattformen und Rufschutz: Franchiserecht: Bewertungen, Google, Plattformen und Rufschutz: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument.
-6. Franchiserecht: Bezugsbindung, Lieferanten und Kartellrecht: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Franchiserecht: Abwicklung, Rückbau und Warenbestand nach Vertragsende: Tragende Normen verifizieren: GWB Paragrafen 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB.
+2. Franchiserecht: Arbeitsrecht und Scheinselbstständigkeit im Franchise: Tragende Normen verifizieren: GWB Paragrafen 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB.
+3. Franchise: Ausgleichsanspruch nach Vertragsende und Kundendaten: Tragende Normen verifizieren: GWB Paragrafen 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB.
+4. Franchiserecht: Bau- und Ladenbau-Pflichten: Tragende Normen verifizieren: GWB Paragrafen 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB.
+5. Franchiserecht: Bewertungen, Google, Plattformen und Rufschutz: Tragende Normen verifizieren: GWB Paragrafen 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB.
+6. Franchiserecht: Bezugsbindung, Lieferanten und Kartellrecht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen.
 
 ## 4. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Franchiserecht: Abwicklung, Rückbau und Warenbestand nach Vertragsende | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Franchiserecht: Arbeitsrecht und Scheinselbstständigkeit im Franchise | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Franchise: Ausgleichsanspruch nach Vertragsende und Kundendaten | Franchise: Ausgleichsanspruch nach Vertragsende und Kundendaten: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Franchiserecht: Bau- und Ladenbau-Pflichten | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Franchiserecht: Bewertungen, Google, Plattformen und Rufschutz | Franchiserecht: Bewertungen, Google, Plattformen und Rufschutz: Tatsachen, Frist, Zuständigkeit, Norm, Beweislast, Gegenargument und nächstes Dokument zu einem Sofortbaustein verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Franchiserecht: Bezugsbindung, Lieferanten und Kartellrecht | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Franchiserecht: Abwicklung, Rückbau und Warenbestand nach Vertragsende | Tragende Normen verifizieren: GWB Paragrafen 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Franchiserecht: Arbeitsrecht und Scheinselbstständigkeit im Franchise | Tragende Normen verifizieren: GWB Paragrafen 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Franchise: Ausgleichsanspruch nach Vertragsende und Kundendaten | Tragende Normen verifizieren: GWB Paragrafen 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Franchiserecht: Bau- und Ladenbau-Pflichten | Tragende Normen verifizieren: GWB Paragrafen 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Franchiserecht: Bewertungen, Google, Plattformen und Rufschutz | Tragende Normen verifizieren: GWB Paragrafen 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Franchiserecht: Bezugsbindung, Lieferanten und Kartellrecht | rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 5. Anker
 
