@@ -96,6 +96,43 @@ Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das
 
 Die Akte enthält 14 turnusmäßige Berichte gem. § 156 InsO, vollständige Forderungstabellen, Anfechtungskorrespondenz, Kontoauszüge Treuhandkonto, Gläubigerkorrespondenz und Schlussverteilung.
 
+## Aktenstücke
+
+| Aktenstück | Inhalt |
+| --- | --- |
+| `01_Eroeffnungsbeschluss_01-06-2013.docx` | Eröffnungsbeschluss |
+| `02_Erster_Bericht_29-11-2013.docx` | Erster Bericht |
+| `03_Vergleich_KielerVolksbank_05-05-2014.docx` | Vergleich Kieler Volksbank |
+| `04_Haftungsklage_Berger_18-09-2014.docx` | Haftungsklage Berger |
+| `05_Schlussbericht_15-03-2024.docx` | Schlussbericht |
+| `06_insolvenzantrag_schuldnerin_mit_anlagen.docx` | Eigenantrag der Schuldnerin mit Anlagen |
+| `07_glaeubigerantrag_krankenkasse.docx` | Gläubigerantrag DAK-Gesundheit |
+| `08_vorlaeufiger_iv_bericht_sicherungsmassnahmen.docx` | Vorläufiger IV-Bericht, Sicherungsmaßnahmen |
+| `09_sicherungsanordnung_21_inso.docx` | Sicherungsanordnung § 21 InsO |
+| `10_betriebseinstellungs_anordnung.docx` | Betriebseinstellungs-Anordnung |
+| `11_gutachten_iv_zur_verfahrenseroeffnung.docx` | Gutachten IV zur Verfahrenseröffnung |
+| `12_anfechtungsklageschrift_bank_kontokorrent.docx` | Anfechtungsklage gegen Bank (Kontokorrent) |
+| `13_klageerwiderung_volksbank.docx` | Klageerwiderung Volksbank |
+| `14_beweisbeschluss_lg_kiel.docx` | Beweisbeschluss LG Kiel |
+| `15_zeugenaussagen_bankberater.docx` | Zeugenaussage Bankberater |
+| `16_vergleichsverhandlungsprotokoll_volksbank.docx` | Vergleichsverhandlung mit Volksbank |
+| `17_haftungsklage_gf_berger_15b_inso_43_gmbhg.docx` | Haftungsklage gegen GF Berger |
+| `18_anwaltsschreiben_gf_verteidiger.docx` | Anwaltsschreiben GF-Verteidiger |
+| `19_bilanzanalyse_wp_zahlungsunfaehigkeit.docx` | Bilanzanalyse WP zur Zahlungsunfähigkeit |
+| `20_liquiditaetsstatus_rueckblickend_6_monate.csv` | Liquiditätsstatus rückblickend 6 Monate |
+| `21_verzichtserklaerung_sozialversicherungstraeger.docx` | Verzichtserklärung Sozialversicherungsträger |
+| `22_massekostenkalkulation.docx` | Massekostenkalkulation |
+| `23_verguetungsantrag_verwalter_63_inso.docx` | Vergütungsantrag Verwalter § 63 InsO |
+| `24_schlussbericht.docx` | Schlussbericht (Langfassung) |
+| `25_schlussverzeichnis.docx` | Schlussverzeichnis |
+| `26_aufhebungsbeschluss.docx` | Aufhebungsbeschluss |
+| `emails/`, `eml/` | Korrespondenz Verwalter, Bank, WP, Finanzamt |
+| `csv/` | Forderungstabelle, Treuhandkonto-Bewegungen |
+| `xlsx/` | Masseentwicklung 2013-2024 |
+| `pdfs/` | Original-PDF-Beleg Vergleichsvereinbarung |
+| `jpg/` | Foto Inventur Zentrallager |
+| `gesamt-pdf/` | Gesamt-PDF der kompletten Akte |
+
 ## Passendes Plugin
 
 `insolvenzverwaltung` — vollständiger Workflow von Eröffnung bis Schlussverteilung.
