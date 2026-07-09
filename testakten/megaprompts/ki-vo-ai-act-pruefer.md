@@ -353,7 +353,7 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 
 ## Worauf besonders achten
 
-- KI-VO hat gestaffelte Uebergangsfristen: Verbotene Praktiken ab 02.02.2025, GPAI ab 02.08.2025, Hochrisiko-Systeme ab 02.08.2026 — Pflichten abfragen, die zum Stichtag gelten.
+- KI-VO hat gestaffelte Uebergangsfristen: Verbotene Praktiken ab 02.02.2025, GPAI ab 02.08.2025, Hochrisiko-Systeme nach Digital-Omnibus-Zeitstrahl spätestens ab 02.12.2027 — Pflichten abfragen, die zum Stichtag gelten.
 - Hochrisiko-Einstufung hat zwei Wege: Sicherheitsbauteil (Art. 6 Abs. 1) und Anhang-III-Bereiche (Art. 6 Abs. 2) — beide getrennt prüfen.
 - Anbieter-Werden-Risiko: Betreiber, die ein System wesentlich veraendern, werden automatisch Anbieter mit vollen Anbieter-Pflichten.
 - GPAI und KI-System-Schnittstelle: Ein GPAI-Modell kann in einem Hochrisiko-System eingebettet sein — dann kumulieren Pflichten.
@@ -369,7 +369,7 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 
 ## Quellen und Aktualitaet
 
-- Stand: 05/2026
+- Stand: 07/2026
 - EU KI-VO (EU 2024/1689) in der zum Stand-Datum geltenden Fassung
 - Uebergangsfristen gemäß Art. 113 KI-VO
 - GPAI Code of Practice der EU-KI-Buero (erste Fassung 2025)
@@ -399,7 +399,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: KI-VO Art. 5 Verbote ab 02.02.2025, Art. 51-55 GPAI ab 02.08.2025, Hochrisiko Anhang III ab 02.08.2026, Hochrisiko Anhang I ab 02.08.2027, schwerwiegender Vorfall 15 Tage / 2 Tage (Tod).
+- Fristen und Eilrisiken zuerst markieren: KI-VO Art. 5 Verbote ab 02.02.2025, Art. 51-55 GPAI ab 02.08.2025, Art. 50 Transparenz ab 02.08.2026, Hochrisiko Anhang III nach Digital-Omnibus-Zeitstrahl spätestens ab 02.12.2027, Anhang I spätestens ab 02.08.2028; vor Außenverwendung amtlichen Stand prüfen.
 - Tragende Normen verifizieren: KI-VO (EU 2024/1689) Art. 3, 5 (Verbote), 6 (Hochrisiko), 8-15 (Anforderungen), 16, 26 (Pflichten Anbieter/Betreiber), 50 (Transparenz), 51-55 (GPAI), 73, 99 (Sanktionen) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter, Betreiber, Importeur, Händler, Marktüberwachungsbehörde (BNetzA/BMDV), benannte Stelle, EU-AI-Office, AI Board.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung Art. 47, technische Dokumentation Anhang IV, Risikomanagement-System Art. 9, Datengovernance Art. 10, FRIA (Fundamental Rights Impact Assessment) Art. 27, EU-Datenbank-Registrierung Art. 49 — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -621,7 +621,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
 3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
 4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
+5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
 
 ## Output-Template — Prüfergebnis
 **Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
@@ -726,7 +726,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
 3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
 4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
+5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
 
 ## Output-Template — Prüfergebnis
 **Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
@@ -881,7 +881,7 @@ Risikoklasse: [Hochrisiko / begrenzt / GPAI / unklar]
 
 ## Quellen- und Aktualitätshinweis
 
-Stand: 05/2026. Maßgeblich sind Art. 40, 41, 56 und 95 KI-VO sowie die jeweils aktuell im Amtsblatt der EU referenzierten harmonisierten Normen. Vor jeder finalen Aussage ist der Normenstand zu aktualisieren. Keine Rechtsberatung.
+Stand: 07/2026. Maßgeblich sind Art. 40, 41, 56 und 95 KI-VO sowie die jeweils aktuell im Amtsblatt der EU referenzierten harmonisierten Normen. Vor jeder finalen Aussage ist der Normenstand zu aktualisieren. Keine Rechtsberatung.
 
 ---
 
@@ -1036,7 +1036,7 @@ Das Enddokument muss enthalten:
 
 ## Quellen- und Aktualitätshinweis
 
-Stand: 05/2026. Maßgeblich sind Art. 2, 3, 5, 6, 25, 26, 27, 40, 50, 51 bis 56 und Anhang III KI-VO. Keine Rechtsberatung.
+Stand: 07/2026. Maßgeblich sind Art. 2, 3, 5, 6, 25, 26, 27, 40, 50, 51 bis 56 und Anhang III KI-VO. Keine Rechtsberatung.
 
 ---
 
@@ -1130,7 +1130,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
 3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
 4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
+5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
 
 ## Output-Template — Prüfergebnis
 **Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich

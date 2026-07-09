@@ -84,7 +84,7 @@ description: "Wenn es um Verbotene Praktiken — Art. 5 europäischer Technikreg
 - Keine Heilungs- oder Anpassungsmöglichkeit: verbotene Praktiken sind komplett einzustellen.
 - Strafbarkeit nach nationalem Recht nicht ausgeschlossen.
 
-## Faktische Updates (Stand 05/2026)
+## Faktische Updates (Stand 07/2026)
 
 - **02.02.2025 — Anwendung Art. 5 KI-VO:** Die acht verbotenen Praktiken sind seit dem 02.02.2025 verbindlich. Quelle: VO (EU) 2024/1689, Art. 113 lit. a — eur-lex.europa.eu/eli/reg/2024/1689/oj.
 - **Kommissions-Leitlinien zu Art. 5:** Die EU-Kommission hat Anfang 2025 Leitlinien zu Art. 5 KI-VO veroeffentlicht, die die Tatbestandsmerkmale für Anwender konkretisieren (u.a. Begriff "subliminale Technik", "Vulnerabilitaetsausnutzung", Abgrenzung zu zulaessigem Profiling). Stand und aktuelle Fassung live prüfen über digital-strategy.ec.europa.eu/en/policies/ai-act.

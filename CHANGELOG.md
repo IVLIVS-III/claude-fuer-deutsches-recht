@@ -1,3 +1,13 @@
+# v429.12.0 — Rechtsprechungsanker und Fristenstand korrigiert
+
+- Der Technikregulierungsprüfer verwendet den Familienrechtsanker `1 BvR 2017/21` nicht mehr in falschem Zusammenhang. Dieser Anker ist nun korrekt im Familienrecht bei der Vaterschaftsanfechtung verortet; die Polizeidatenanalyse verweist auf `1 BvR 1547/19` und `1 BvR 2634/20`.
+- Die Stichtagslogik zu VO (EU) 2024/1689 wurde an den aktuellen Digital-Omnibus-Zeitstrahl angepasst: Art. 50 bleibt ab 02.08.2026, Hochrisiko Anhang III wird gesondert mit 02.12.2027 und Anhang I mit 02.08.2028 geführt.
+- Werkstatt- und Schnellstart-Prompt des Technikregulierungsprüfers nutzen nun ein eigenes Profil mit kuratierten EuGH-/BVerfG-Ankern, Rollen-, Risiko-, Stichtags- und Nachweisaktenlogik; zufällig eingestreute Spezialanker werden dort unterdrückt.
+- Zwei Datenschutz-Skills mit Bezug zu VO (EU) 2024/1689 wurden auf dieselbe Fristenlinie und Behördenbezeichnung nachgezogen.
+- Marketplace, Plugin-Manifeste, Skill-Übersichten, Asset-Index und Testakten-Übersichten wurden auf v429.12.0 synchronisiert.
+
+---
+
 # v429.11.0 — Finaler Vorlagen- und Akten-Release-Nachlauf
 
 - Die geschärften Formatvorlagen aus v429.9.0 und der nachgezogene Insolvenzrecht-Aktenausbau aus v429.10.0 werden zusammen auf dem aktuellen Main-Stand veröffentlicht.

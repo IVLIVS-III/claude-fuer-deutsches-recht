@@ -1,6 +1,6 @@
 # fachanwalt-arbeitsrecht
 
-**120 Skills** · Stand `v429.11.0`
+**120 Skills** · Stand `v429.12.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-arbeitsrecht/README.md)

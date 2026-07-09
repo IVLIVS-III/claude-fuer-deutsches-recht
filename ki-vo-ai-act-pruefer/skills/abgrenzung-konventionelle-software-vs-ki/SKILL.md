@@ -110,7 +110,7 @@ System / Komponente: [NAME]
 
 ## Quellen- und Aktualitätshinweis
 
-Stand: 05/2026. Maßgeblich sind Art. 3 Nr. 1 KI-VO, Erwägungsgrund 12 und die Kommissionsleitlinien zur Definition des KI-Systems. Keine Rechtsberatung.
+Stand: 07/2026. Maßgeblich sind Art. 3 Nr. 1 KI-VO, Erwägungsgrund 12 und die Kommissionsleitlinien zur Definition des KI-Systems. Keine Rechtsberatung.
 
 ## Normen und Rechtsprechung
 
@@ -131,7 +131,7 @@ Stand: 05/2026. Maßgeblich sind Art. 3 Nr. 1 KI-VO, Erwägungsgrund 12 und die 
 
 - EuGH C-634/21 (automatisierte Entscheidung Art. 22 DSGVO)
 - EuGH C-203/22 (Profiling, Auskunftsrechte)
-- BVerfG 1 BvR 2017/21 (automatisierte Datenverarbeitung Polizei)
+- BVerfG, Urteil vom 16.02.2023 - 1 BvR 1547/19, 1 BvR 2634/20: automatisierte Polizeidatenanalyse verlangt normenklare Eingriffsschwellen, Zweckbindung und Verhältnismäßigkeit
 - OLG Köln 6 U 32/24 (Deepfake-Werbung)
 - OLG Stuttgart 2 U 63/22 (Mängel KI-System B2B)
 

@@ -294,7 +294,7 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 
 ## Worauf besonders achten
 
-- KI-VO hat gestaffelte Uebergangsfristen: Verbotene Praktiken ab 02.02.2025, GPAI ab 02.08.2025, Hochrisiko-Systeme ab 02.08.2026 — Pflichten abfragen, die zum Stichtag gelten.
+- KI-VO hat gestaffelte Uebergangsfristen: Verbotene Praktiken ab 02.02.2025, GPAI ab 02.08.2025, Hochrisiko-Systeme nach Digital-Omnibus-Zeitstrahl spätestens ab 02.12.2027 — Pflichten abfragen, die zum Stichtag gelten.
 - Hochrisiko-Einstufung hat zwei Wege: Sicherheitsbauteil (Art. 6 Abs. 1) und Anhang-III-Bereiche (Art. 6 Abs. 2) — beide getrennt prüfen.
 - Anbieter-Werden-Risiko: Betreiber, die ein System wesentlich veraendern, werden automatisch Anbieter mit vollen Anbieter-Pflichten.
 - GPAI und KI-System-Schnittstelle: Ein GPAI-Modell kann in einem Hochrisiko-System eingebettet sein — dann kumulieren Pflichten.
@@ -310,7 +310,7 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 
 ## Quellen und Aktualitaet
 
-- Stand: 05/2026
+- Stand: 07/2026
 - EU KI-VO (EU 2024/1689) in der zum Stand-Datum geltenden Fassung
 - Uebergangsfristen gemäß Art. 113 KI-VO
 - GPAI Code of Practice der EU-KI-Buero (erste Fassung 2025)

@@ -31,11 +31,11 @@ Behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen, die das Verz
 
 ### KI-Verordnung (VO (EU) 2024/1689)
 
-- Gilt seit 02.08.2024 stufenweise. Verbote ab 02.02.2025, GPAI-Pflichten ab 02.08.2025, Hochrisiko-Systeme ab 02.08.2026 (Annex III).
+- Gilt seit 02.08.2024 stufenweise. Verbote greifen seit 02.02.2025, GPAI-Pflichten seit 02.08.2025, Transparenzpflichten nach Art. 50 ab 02.08.2026. Für Hochrisiko-Systeme ist der Digital-Omnibus-Zeitstrahl gesondert zu sichern: Anhang III spätestens ab 02.12.2027, Anhang I spätestens ab 02.08.2028.
 - HR-KI (Bewerberauswahl, Leistungsbewertung) ist nach Annex III Nr. 4 hochrisikobehaftet.
 - Anbieter und Betreiber müssen Dokumentationspflichten (Art. 11, Art. 26 KI-VO) erfuellen – das ergaenzt das DSGVO-RoPA.
 
-### EDSA-Leitlinien und EU-AI-Office
+### EDSA-Leitlinien und EU-KI-Büro
 
 - EDPB Opinion 28/2024 on certain data protection aspects related to the processing of personal data in the context of AI models (verabschiedet 17.12.2024) – referenzieren, nicht aus Modellwissen zitieren.
 

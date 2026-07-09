@@ -279,10 +279,10 @@ Verbote (Auswahl):
 
 ## Faktische Updates (Stand 05/2026)
 
-- **Stufenweise Anwendung KI-VO (Art. 113):** 02.02.2025 — Verbote Art. 5 und Art. 4 KI-Kompetenz; 02.08.2025 — GPAI-Pflichten Art. 51-55, Sanktionsregime Art. 99; 02.08.2026 — Hochrisiko Anhang III, Art. 50 Transparenzpflichten; 02.08.2027 — Hochrisiko Anhang I. Quelle: VO (EU) 2024/1689, eur-lex.europa.eu/eli/reg/2024/1689/oj.
+- **Stufenweise Anwendung KI-VO (Art. 113 und Digital-Omnibus-Zeitstrahl):** 02.02.2025 — Verbote Art. 5 und Art. 4 KI-Kompetenz; 02.08.2025 — GPAI-Pflichten Art. 51-55, Sanktionsregime Art. 99; 02.08.2026 — Transparenzpflichten Art. 50 und nicht verschobene Pflichten; Hochrisiko Anhang III spätestens 02.12.2027, Hochrisiko Anhang I spätestens 02.08.2028. Quelle: VO (EU) 2024/1689 und aktueller Kommissionsstand.
 - **EDSA-Schnittstelle KI-VO / DSGVO:** EDSA-Stellungnahme 28/2024 (Modelle, die mit personenbezogenen Daten trainiert wurden) — verbindliche Auslegungshilfe zur DSGVO-Grundlage bei KI-Training und -Deployment. Quelle: edpb.europa.eu.
 - **GPAI Code of Practice:** seit 2025 verfuegbar; Anbieter, die zeichnen, geniessen Vermutung der Compliance (Art. 56 KI-VO). Live-Status der Saeulen (Transparenz, Urheberrecht, Safety/Security) über digital-strategy.ec.europa.eu prüfen.
-- **EU AI Office:** seit Anfang 2025 voll operativ; zuständig für GPAI, Koordination mit nationalen Behörden, Code of Practice.
+- **EU-KI-Büro:** seit Anfang 2025 voll operativ; zuständig für GPAI, Koordination mit nationalen Behörden, Code of Practice.
 - **Nationale Aufsicht Deutschland:** Bundesnetzagentur (BNetzA) als koordinierende KI-Aufsichtsbehoerde; sektorale Zuständigkeiten (BfDI, BaFin, BAuA, Bundeskartellamt) bleiben bestehen. Konkretisierende Gesetzgebung (KI-Marktueberwachungsgesetz / KI-VO-Durchfuehrungsgesetz) live über bundestag.de prüfen.
 - **Schnittstelle Art. 22 DSGVO / KI-VO:** Bei automatisierten Einzelentscheidungen mit erheblicher Wirkung (Scoring, Personalauswahl, Kredit) parallele Prüfung Art. 22 DSGVO + Art. 26 KI-VO + ggf. FRIA Art. 27 KI-VO erforderlich.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über curia.europa.eu verifizieren.
@@ -292,7 +292,7 @@ Verbote (Auswahl):
 1. Ist das System ein KI-System im Sinne von Art. 3 Nr. 1 KI-VO?
 2. Welche Risikoklasse liegt vor? (Verboten Art. 5 / Hochrisiko Art. 6 iVm Anhang III / Begrenzt Art. 50 / Minimal)
 3. Wer ist der Mandant: Anbieter / Betreiber / Importeur / Händler?
-4. Geltungsbereich: Übergangsfrist beachten (Verbotene Praktiken ab 02.02.2025; Hochrisiko ab 02.08.2026)?
+4. Geltungsbereich: Übergangsfrist beachten (verbotene Praktiken ab 02.02.2025; Art. 50 ab 02.08.2026; Hochrisiko Anhang III und Anhang I nach aktuellem Digital-Omnibus-Zeitstrahl)?
 
 ## Output-Template — KI-VO-Compliance-Check
 

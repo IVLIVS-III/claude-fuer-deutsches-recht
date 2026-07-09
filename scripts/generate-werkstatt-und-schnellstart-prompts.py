@@ -877,6 +877,20 @@ def quick_grip(profile: ThemenProfil, field: str, detail: str) -> str:
     hay = f"{profile.key} {field} {detail}".lower()
     if profile.key == "eu_prozess":
         return "Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern"
+    if profile.key == "technikregulierung":
+        if "kollusion" in hay or "pricing" in hay:
+            return "Pricing-Zweck, Wettbewerberdaten, Hub-Dienstleister, menschliche Kontrolle, Kartellrechtsrisiko und Technikregulierung trennen"
+        if "art. 4" in hay or "kompetenz" in hay or "schulung" in hay:
+            return "Adressatenkreis, Rollen, Risikoklasse, Schulungsinhalt, Nachweis, Wiederholung und Verantwortlichkeit dokumentieren"
+        if "anbieter" in hay or "provider" in hay or "art. 25" in hay:
+            return "Eigenname, Eigenmarke, wesentliche Änderung, Zweckänderung, Produktintegration und Pflichtenwechsel nach Art. 25 trennen"
+        if "betreiber" in hay or "deployer" in hay or "art. 26" in hay:
+            return "bestimmungsgemäße Nutzung, menschliche Aufsicht, Eingabedaten, Logging, FRIA und Vorfallmeldung als Betreiberpflichten ordnen"
+        if "owi" in hay or "untersuchung" in hay:
+            return "Vorwurf, Behörde, Frist, Logs, Interviews, Datenschutz, Legal-Privilege-Risiko und Verteidigungslinie sichern"
+        if "abgrenzung" in hay or "konventionelle" in hay:
+            return "Inferenz, Autonomie, Output, Zweckbestimmung, Systemgrenze und Folgeprüfung nach Art. 3 Nr. 1 festlegen"
+        return "Zweckbestimmung, Rolle, Risikoklasse, Stichtag, Nachweisakte, Rechtsfolge und Behördenrisiko in einer Entscheidungszeile verbinden"
     if profile.key == "arbeits" or "kündigung" in hay or "befristung" in hay or "betriebsrat" in hay or "arbeitsgericht" in hay:
         return "Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen"
     if "insolvenz" in hay or "starug" in hay or profile.key in {"insolvenz", "liquiditaet"}:
@@ -1193,6 +1207,9 @@ def build_werkstatt(plugin_dir: Path) -> str:
     profile_cases = [] if profile.key == "default" else list(profile.entscheidungen)
     extracted_norms = extract_norm_anchors(skill_material, 8)
     extracted_cases = extract_case_anchors(skill_material, 5)
+    if profile.key == "technikregulierung":
+        extracted_norms = []
+        extracted_cases = []
     fields = skill_fields(skill_material, 7)
     norm_pool = (profile_norms + extracted_norms)[:8]
     case_pool = (profile_cases + extracted_cases)[:5]
@@ -1437,6 +1454,9 @@ def build_schnellstart(plugin_dir: Path) -> str:
     case_limit = 4 if profile.key == "default" else 3
     extracted_norms = extract_norm_anchors(skill_material, norm_limit)
     extracted_cases = extract_case_anchors(skill_material, case_limit)
+    if profile.key == "technikregulierung":
+        extracted_norms = []
+        extracted_cases = []
     profile_norms = [] if profile.key == "default" else list(profile.normen[:4])
     profile_cases = [] if profile.key == "default" else list(profile.entscheidungen[:2])
     norm_pool = (profile_norms + extracted_norms)[:6]

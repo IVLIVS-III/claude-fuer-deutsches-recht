@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Ki Vo Ai Act Prüfer ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du ein reguliertes algorithmisches System schnell einordnen: Rolle, Risikoklasse, Stichtag, Nachweisakte und Behördenrisiko.
 
 # Ki Vo Ai Act Prüfer — Schnellstart
 
@@ -17,20 +17,20 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abgrenzung: Konventionelle Software versus System-System: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast.
-2. Regulierungsrahmen-OWi und interne Untersuchung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
-3. Algorithmische Kollusion und Pricing-Systeme: Dynamic Pricing. - Wettbewerberpreis-Monitoring. - Repricing-Bots auf Marktplätzen. - gemeinsame Softwareanbieter.
-4. Anbieter-Werden — Art. 25 Regulierungsrahmen: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
-5. Anwaltliche System-Nutzung und Quellencheck: Tragende Normen verifizieren: Regulierungsrahmen (EU 2024/1689) Art. 3, 5 (Verbote), 6 (Hochrisiko), 8-15.
-6. Art. 4 Regulierungsrahmen — System-Kompetenz als Compliance-Programm: Art. 4 Regulierungsrahmen: Anbieter und Betreiber müssen System-Kompetenz sicherstellen. - Art. 3 Nr. 1, 3, 4, 63.
+1. Rolle und Lieferkette: Anbieter, Betreiber, Importeur, Händler, Bevollmächtigter, Produktintegration und Zweckbestimmung trennen.
+2. Risikoklasse: Art. 5, Art. 6 Abs. 1, Art. 6 Abs. 2, Art. 50, GPAI und Ausschlüsse in einer Entscheidungszeile ordnen.
+3. Stichtag: Verbote, GPAI, Art. 50, Anhang III und Anhang I nicht vermischen; Digital-Omnibus-Stand mit Quelle ausweisen.
+4. Nachweisakte: Risikomanagement, Daten, technische Dokumentation, Logging, menschliche Aufsicht, Testing und EU-Datenbank als Beleglinie führen.
+5. Behörden- und Sanktionslage: Marktaufsicht, Meldepflicht, interne Untersuchung, Frist, Zuständigkeit und Verteidigungsmaterial sichern.
+6. Arbeitsprodukt: Einordnungsmemo, Roadmap, Vorstandsvorlage, Behördenantwort, Q&A, Vertragsmatrix oder Freigabevermerk erstellen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Dynamic Pricing. - Wettbewerberpreis-Monitoring. - Repricing-Bots; Art. 101 AEUV und GWB Paragraf 1 für abgestimmtes Verhalten; GWB Paragrafen 19, 20 und Art. 102 AEUV prüfen, wenn |
-| Rechtsprechung | EuGH C-634/21 (automatisierte Entscheidung Art. 22; EuGH C-203/22 (Profiling, Auskunftsrechte) |
-| Tatbestand | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast |
+| Normenanker | VO (EU) 2024/1689 Art. 2 und Art. 3; VO (EU) 2024/1689 Art. 5; VO (EU) 2024/1689 Art. 6 mit Anhang I und III |
+| Rechtsprechung | EuGH, Urteil vom 07.12.2023 - C-634/21; EuGH, Urteil vom 27.02.2025 - C-203/22 |
+| Tatbestand | Inferenz, Autonomie, Output, Zweckbestimmung, Systemgrenze und Folgeprüfung nach Art. 3 Nr. 1 festlegen |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,25 +39,25 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abgrenzung: Konventionelle Software versus System-System | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Regulierungsrahmen-OWi und interne Untersuchung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Algorithmische Kollusion und Pricing-Systeme | Dynamic Pricing. - Wettbewerberpreis-Monitoring. - Repricing-Bots auf Marktplätzen. - gemeinsame Softwareanbieter. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anbieter-Werden — Art. 25 Regulierungsrahmen | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwaltliche System-Nutzung und Quellencheck | Tragende Normen verifizieren: Regulierungsrahmen (EU 2024/1689) Art. 3, 5 (Verbote), 6 (Hochrisiko), 8-15. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Art. 4 Regulierungsrahmen — System-Kompetenz als Compliance-Programm | Art. 4 Regulierungsrahmen: Anbieter und Betreiber müssen System-Kompetenz sicherstellen. - Art. 3 Nr. 1, 3, 4, 63. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abgrenzung: Konventionelle Software versus System-System | Inferenz, Autonomie, Output, Zweckbestimmung, Systemgrenze und Folgeprüfung nach Art. 3 Nr. 1 festlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Regulierungsrahmen-OWi und interne Untersuchung | Vorwurf, Behörde, Frist, Logs, Interviews, Datenschutz, Legal-Privilege-Risiko und Verteidigungslinie sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Algorithmische Kollusion und Pricing-Systeme | Pricing-Zweck, Wettbewerberdaten, Hub-Dienstleister, menschliche Kontrolle, Kartellrechtsrisiko und Technikregulierung trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anbieter-Werden — Art. 25 Regulierungsrahmen | Eigenname, Eigenmarke, wesentliche Änderung, Zweckänderung, Produktintegration und Pflichtenwechsel nach Art. 25 trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwaltliche System-Nutzung und Quellencheck | Zweckbestimmung, Rolle, Risikoklasse, Stichtag, Nachweisakte, Rechtsfolge und Behördenrisiko in einer Entscheidungszeile verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Art. 4 Regulierungsrahmen — System-Kompetenz als Compliance-Programm | Adressatenkreis, Rollen, Risikoklasse, Schulungsinhalt, Nachweis, Wiederholung und Verantwortlichkeit dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- Dynamic Pricing. - Wettbewerberpreis-Monitoring. - Repricing-Bots auf Marktplätzen. - gemeinsame Softwareanbieter für mehrere Wettbewerber. - System-gestützte Rabatt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 101 AEUV und GWB Paragraf 1 für abgestimmtes Verhalten, Kartelle, Hub-and-Spoke und Informationsaustausch: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- GWB Paragrafen 19, 20 und Art. 102 AEUV prüfen, wenn marktbeherrschende Plattformen, Datenzugang, Selbstbevorzugung oder Behinderung betroffen sind: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH C-634/21 (automatisierte Entscheidung Art. 22 Datenschutz-Grundverordnung)
-- EuGH C-203/22 (Profiling, Auskunftsrechte)
-- BVerfG 1 BvR 2017/21 (automatisierte Datenverarbeitung Polizei)
+- VO (EU) 2024/1689 Art. 2 und Art. 3: Anwendungsbereich, Rollen und zentrale Begriffe.
+- VO (EU) 2024/1689 Art. 5: verbotene Praktiken seit 02.02.2025.
+- VO (EU) 2024/1689 Art. 6 mit Anhang I und III: Hochrisiko-Klassifikation und Pfadtrennung.
+- VO (EU) 2024/1689 Art. 9 bis Art. 15: Risikomanagement, Datenqualität, Dokumentation, Logging, Transparenz, Aufsicht, Genauigkeit und Cybersicherheit.
+- EuGH, Urteil vom 07.12.2023 - C-634/21: Scoring kann automatisierte Entscheidung nach Art. 22 Datenschutz-Grundverordnung sein, wenn der Score für die Entscheidung eines Dritten maßgeblich ist.
+- EuGH, Urteil vom 27.02.2025 - C-203/22: Betroffene brauchen aussagekräftige Informationen zur Logik automatisierter Entscheidungen; Geschäftsgeheimnisse schließen Transparenz nicht pauschal aus.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abgrenzung: Konventionelle Software versus System-System, Regulierungsrahmen-OWi und interne Untersuchung, Algorithmische Kollusion und Pricing-Systeme, Anbieter-Werden — Art. 25 Regulierungsrahmen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Einordnungsmemo: Das System ist nach derzeitigem Stand [Rolle/Risikoklasse], weil [Zweckbestimmung] unter [Norm] fällt; Stichtag und Quellenstatus: [Datum/Quelle]; Roadmap: Bis [Datum] sind [Dokumentation], [Kontrolle] und [Freigabe] nachzuziehen; offen bleibt [Beleglücke].
 
 ## 8. Stop
 

@@ -296,7 +296,7 @@ Pflicht für **öffentliche Stellen** und einige private Betreiber (z.B. Banken 
 | CE und EU-DB | 1-2 Wochen | 1 Woche |
 | Marktbeobachtung-Setup | 4-8 Wochen | 2-4 Wochen |
 
-**Hinweis:** Übergangsfristen beachten — Hochrisiko Anhang III: ab 2.8.2026 anwendbar; Hochrisiko Anhang I (Sicherheitsbauteile): ab 2.8.2027 anwendbar. → `zeitlicher-geltungsbereich-uebergangsfristen`.
+**Hinweis:** Übergangsfristen beachten — Hochrisiko Anhang III: nach Digital-Omnibus-Zeitstrahl spätestens ab 02.12.2027 anwendbar; Hochrisiko Anhang I (Sicherheitsbauteile): spätestens ab 02.08.2028 anwendbar. → `zeitlicher-geltungsbereich-uebergangsfristen`.
 
 ---
 
@@ -353,7 +353,7 @@ Pflicht für **öffentliche Stellen** und einige private Betreiber (z.B. Banken 
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
 3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
 4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
+5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
 
 ## Output-Template — Prüfergebnis
 **Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich

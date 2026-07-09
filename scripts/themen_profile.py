@@ -832,6 +832,55 @@ PROFILE: tuple[ThemenProfil, ...] = (
         ),
     ),
     ThemenProfil(
+        key="technikregulierung",
+        oeffnungssatz="Wenn du das hier öffnest, willst du ein reguliertes algorithmisches System schnell einordnen: Rolle, Risikoklasse, Stichtag, Nachweisakte und Behördenrisiko.",
+        label="Europäische Technikregulierung",
+        rolle="Bearbeiter für europäische Technikregulierung nach VO (EU) 2024/1689 mit Fokus auf Rollen, Risikoklassen, Stichtage, Dokumentationspflichten, Betreiberpflichten, Marktaufsicht und Quellenhygiene.",
+        normen=(
+            "VO (EU) 2024/1689 Art. 2 und Art. 3: Anwendungsbereich, Rollen und zentrale Begriffe.",
+            "VO (EU) 2024/1689 Art. 5: verbotene Praktiken seit 02.02.2025.",
+            "VO (EU) 2024/1689 Art. 6 mit Anhang I und III: Hochrisiko-Klassifikation und Pfadtrennung.",
+            "VO (EU) 2024/1689 Art. 9 bis Art. 15: Risikomanagement, Datenqualität, Dokumentation, Logging, Transparenz, Aufsicht, Genauigkeit und Cybersicherheit.",
+            "VO (EU) 2024/1689 Art. 26 und Art. 27: Betreiberpflichten und Grundrechte-Folgenabschätzung.",
+            "VO (EU) 2024/1689 Art. 50: Transparenzpflichten ab 02.08.2026.",
+            "VO (EU) 2024/1689 Art. 51 bis Art. 56: GPAI-Pflichten, systemisches Risiko und Code of Practice.",
+            "VO (EU) 2024/1689 Art. 99 und Art. 113: Sanktionen und Stufenplan; Digital-Omnibus-Zeitstrahl gesondert prüfen.",
+        ),
+        entscheidungen=(
+            "EuGH, Urteil vom 07.12.2023 - C-634/21: Scoring kann automatisierte Entscheidung nach Art. 22 DSGVO sein, wenn der Score für die Entscheidung eines Dritten maßgeblich ist.",
+            "EuGH, Urteil vom 27.02.2025 - C-203/22: Betroffene brauchen aussagekräftige Informationen zur Logik automatisierter Entscheidungen; Geschäftsgeheimnisse schließen Transparenz nicht pauschal aus.",
+            "BVerfG, Urteil vom 16.02.2023 - 1 BvR 1547/19, 1 BvR 2634/20: automatisierte Polizeidatenanalyse braucht normenklare Eingriffsschwellen, Zweckbindung und Verhältnismäßigkeit.",
+            "BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a.: informationelle Selbstbestimmung als verfassungsrechtlicher Ausgangspunkt datengetriebener Systeme.",
+        ),
+        stationen=(
+            "Rolle und Lieferkette: Anbieter, Betreiber, Importeur, Händler, Bevollmächtigter, Produktintegration und Zweckbestimmung trennen.",
+            "Risikoklasse: Art. 5, Art. 6 Abs. 1, Art. 6 Abs. 2, Art. 50, GPAI und Ausschlüsse in einer Entscheidungszeile ordnen.",
+            "Stichtag: Verbote, GPAI, Art. 50, Anhang III und Anhang I nicht vermischen; Digital-Omnibus-Stand mit Quelle ausweisen.",
+            "Nachweisakte: Risikomanagement, Daten, technische Dokumentation, Logging, menschliche Aufsicht, Testing und EU-Datenbank als Beleglinie führen.",
+            "Behörden- und Sanktionslage: Marktaufsicht, Meldepflicht, interne Untersuchung, Frist, Zuständigkeit und Verteidigungsmaterial sichern.",
+            "Arbeitsprodukt: Einordnungsmemo, Roadmap, Vorstandsvorlage, Behördenantwort, Q&A, Vertragsmatrix oder Freigabevermerk erstellen.",
+        ),
+        pruefraster=(
+            "Welche konkrete Funktion und Zweckbestimmung hat das System.",
+            "Welche Rolle hat der Mandant und wer schuldet welche Pflicht.",
+            "Welche Risikoklasse ist nach Art. 5, Art. 6, Art. 50 oder Kapitel V einschlägig.",
+            "Welcher Stichtag gilt nach aktuellem Normstand und welcher Quellenstatus belegt ihn.",
+            "Welche Dokumentation fehlt, obwohl sie für Konformität, Betrieb oder Verteidigung entscheidend ist.",
+            "Welche Ausgabe löst den nächsten praktischen Engpass: Freigabe, Stopp, Nachforderung, Behördenschreiben oder Roadmap.",
+        ),
+        stop=(
+            "Art.-5-Verbot, Marktaufsichtsfrist oder schwerwiegender Vorfall steht im Raum.",
+            "Hochrisiko-Klassifikation wird ohne Zweckbestimmung, Rolle oder Anhangspfad behauptet.",
+            "Stichtage werden aus altem Stand übernommen, ohne Digital-Omnibus- und Kommissionsstand zu prüfen.",
+            "Entscheidung oder Rechtsprechung ist nicht mit Gericht, Datum, Aktenzeichen und belastbarer Quelle belegt.",
+        ),
+        skelette=(
+            "Einordnungsmemo: Das System ist nach derzeitigem Stand [Rolle/Risikoklasse], weil [Zweckbestimmung] unter [Norm] fällt; Stichtag und Quellenstatus: [Datum/Quelle].",
+            "Roadmap: Bis [Datum] sind [Dokumentation], [Kontrolle] und [Freigabe] nachzuziehen; offen bleibt [Beleglücke].",
+            "Behördenantwort: Die Tatsachenbasis ergibt sich aus [Dokument]; die rechtliche Einordnung stützt sich auf [Norm]; streitig oder offen ist [Punkt].",
+        ),
+    ),
+    ThemenProfil(
         key="default",
         oeffnungssatz="Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.",
         label="Deutsches Recht",
@@ -990,6 +1039,7 @@ KEYWORDS: tuple[tuple[str, str], ...] = (
     ("staatsanwaltschaft", "straf"),
     ("datenschutz", "datenschutz"),
     ("dsgvo", "datenschutz"),
+    ("technikregulier", "technikregulierung"),
     ("insolvenz", "insolvenz"),
     ("sanierung", "insolvenz"),
     ("starug", "insolvenz"),
@@ -1105,4 +1155,7 @@ def profile_for(slug: str, text: str = "") -> ThemenProfil:
     for needle, key in KEYWORDS:
         if needle in slug_hay:
             return PROFILE_BY_KEY[key]
+    text_hay = text.lower()
+    if "technikregulier" in text_hay:
+        return PROFILE_BY_KEY["technikregulierung"]
     return PROFILE_BY_KEY["default"]

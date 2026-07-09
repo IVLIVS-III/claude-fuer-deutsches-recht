@@ -39,44 +39,51 @@ Ebenfalls ab 2. August 2025:
 - Art. 78 KI-VO (Vertraulichkeit)
 - Art. 99 und 100 KI-VO (Sanktionen)
 
-### 2. August 2026 — Allgemeine Anwendung und Hochrisiko-KI nach Anhang III
+### 2. August 2026 — Allgemeine Anwendung, Transparenz und nicht verschobene Pflichten
 
-Ab dem 2. August 2026 gilt die KI-VO grundsätzlich. Damit werden insbesondere die Hochrisiko-Pflichten für Systeme nach Art. 6 Abs. 2 i.V.m. Anhang III praktisch scharf, soweit keine Sonderregel oder Bestandssystemregel greift.
+Ab dem 2. August 2026 gilt die KI-VO grundsätzlich, soweit keine Spezial- oder Übergangsregel eingreift. Sicher im Blick bleiben insbesondere Art. 50 KI-VO (Transparenzpflichten), Art. 71 KI-VO (EU-Datenbank-Kontext), Marktüberwachungs-, Governance- und Betreiber-Schnittstellen sowie die laufende Vorbereitung der Hochrisiko-Compliance.
 
-**Praxisrelevanz:** Anbieter von Hochrisiko-KI-Systemen müssen bis dahin:
-- Risikomanagementsystem (Art. 9 KI-VO) implementiert haben
-- Technische Dokumentation nach Anhang IV erstellt haben
-- Konformitätsbewertung durchgeführt haben (Art. 43 bis 49 KI-VO)
-- CE-Kennzeichnung angebracht haben
-- In der EU-Datenbank registriert sein (Art. 71 KI-VO)
+**Praxisrelevanz:** Nicht blind "alles Hochrisiko ab 02.08.2026" ausgeben. Seit der Digital-Omnibus-Einigung ist der Hochrisiko-Zeitstrahl gesondert zu prüfen: Anhang-III-Systeme spätestens 02.12.2027, Anhang-I-Systeme spätestens 02.08.2028, sofern der endgültige Normtext oder ein Kommissionsbeschluss keinen früheren Zeitpunkt auslöst.
 
-### 2. August 2027 — Art. 6 Abs. 1 und Produkt-Sicherheitskomponenten
+### 2. Dezember 2027 — Hochrisiko-Systeme nach Anhang III
 
-Art. 6 Abs. 1 und die korrespondierenden Pflichten gelten nach Art. 113 KI-VO ab dem 2. August 2027. Das betrifft den Pfad über KI als Sicherheitsbauteil oder selbst reguliertes Produkt im Zusammenspiel mit Anhang I.
+Nach dem Digital-Omnibus-Zeitstrahl sollen die Regeln für Hochrisiko-Systeme in Anhang-III-Bereichen spätestens ab dem 2. Dezember 2027 gelten. Dazu zählen etwa biometrische Systeme, kritische Infrastruktur, Bildung, Beschäftigung, Migration, Asyl, Grenzkontrolle, Strafverfolgung und Zugang zu wesentlichen privaten oder öffentlichen Leistungen.
+
+**Praxisrelevanz:** Anbieter und Betreiber dürfen die Vorbereitung nicht verschieben. Der Arbeitsstand muss schon vorher zeigen:
+- Hochrisiko-Klassifikation nach Art. 6 Abs. 2 und Anhang III;
+- Risikomanagement, Datenqualität, technische Dokumentation, Logging, Transparenz, menschliche Aufsicht, Genauigkeit, Robustheit und Cybersicherheit;
+- Konformitätsbewertung, EU-Datenbank, Betreiberpflichten und Grundrechte-Folgenabschätzung;
+- Quellenstatus: aktueller konsolidierter Normtext, Kommissionsseite, Leitlinien, harmonisierte Normen.
+
+### 2. August 2028 — Art. 6 Abs. 1 und Produkt-Sicherheitskomponenten
+
+Für Hochrisiko-Systeme nach Anhang I, also KI als Sicherheitsbauteil oder selbst reguliertes Produkt im Zusammenspiel mit unionsrechtlicher Produktharmonisierung, ist nach dem Digital-Omnibus-Zeitstrahl der späteste Anwendungszeitpunkt der 2. August 2028. Frühere Anwendung bleibt zu prüfen, wenn der endgültige Normtext, ein Kommissionsbeschluss oder die sektorale Produktregulierung eine frühere Pflicht auslöst.
 
 ## Relevanz für bestehende Systeme
 
 Systeme, die vor dem jeweiligen Anwendungsdatum bereits in Verkehr gebracht wurden, können von Bestandsschutz profitieren — aber nur bis zu wesentlichen Änderungen. Eine wesentliche Änderung löst erneute Konformitätsbewertungspflichten aus.
 
-## Aktueller Handlungsbedarf (Stand: 06/2026)
+## Aktueller Handlungsbedarf (Stand: 07/2026)
 
 - **Verbote Art. 5:** Seit 02.02.2025 vollständig verbindlich; bei Bestandssystemen sofortige Abschaltungs- oder Umgestaltungspflicht.
 - **GPAI-Pflichten Art. 51-55:** Seit 02.08.2025 vollständig verbindlich; technische Dokumentation (Anhang XI), Informationen für nachgelagerte Anbieter, Urheberrechts-Compliance-Strategie und Trainingsdaten-Zusammenfassung im Kommissions-Format Pflicht.
-- **Hochrisiko Anhang III:** Ab 02.08.2026 im Grundsatz verbindlich. **Jetzt zeitkritisch** — Konformitaetsbewertung, technische Dokumentation und EU-Datenbank-Registrierung müssen vorbereitet sein; bei Bestands- und Public-Sector-Faellen Art. 111 KI-VO gesondert prüfen.
-- **Hochrisiko Anhang I / Art. 6 Abs. 1 (KI als Sicherheitskomponente oder reguliertes Produkt):** Art. 6 Abs. 1 und die korrespondierenden Pflichten gelten nach Art. 113 ab 02.08.2027.
-- **Bestandssysteme und öffentliche Hand:** Art. 111 KI-VO enthaelt Sonderregeln, insbesondere für vor dem 02.08.2026 platzierte oder in Betrieb genommene Hochrisiko-Systeme und Hochrisiko-Systeme für öffentliche Stellen. Diese Regeln nie uebersehen.
-- **GPAI mit systemischem Risiko (>= 10^25 FLOPs Trainings-Compute, Art. 51 KI-VO):** Modellbewertungen, adversarial testing, Risikominderung und Cybersicherheits-Mass­nahmen seit 02.08.2025 Pflicht. Quelle: VO 2024/1689 Art. 55; Konkretisierung durch GPAI Code of Practice.
+- **Art. 50 Transparenzpflichten:** Ab 02.08.2026 verbindlich; Kennzeichnung, Nutzerinformation und Deepfake-/synthetische-Inhalte-Routen müssen produktiv stehen.
+- **Hochrisiko Anhang III:** Nach Digital-Omnibus-Zeitstrahl spätestens ab 02.12.2027. Vorbereitung bleibt zeitkritisch, weil Leitlinien, harmonisierte Normen, technische Dokumentation, FRIA, EU-Datenbank und Betreiberprozesse vorher belastbar sein müssen.
+- **Hochrisiko Anhang I / Art. 6 Abs. 1 (KI als Sicherheitskomponente oder reguliertes Produkt):** Spätestens 02.08.2028; sektorale Produktsicherheits- und Konformitätsregeln können früher oder zusätzlich greifen.
+- **Bestandssysteme und öffentliche Hand:** Art. 111 KI-VO und die Omnibus-Fassung gesondert prüfen. Nicht aus alten Stichtagen ableiten, sondern festhalten: Inverkehrbringen, Inbetriebnahme, wesentliche Änderung, öffentlicher Einsatz und Vertragsänderung.
+- **GPAI mit systemischem Risiko:** Art. 51 und Art. 55 KI-VO seit 02.08.2025 prüfen; Modellbewertungen, adversarial testing, Risikominderung und Cybersicherheitsmaßnahmen nicht mit den verschobenen Hochrisiko-Regeln verwechseln.
 
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
 
-## Faktische Updates (Stand 06/2026)
+## Faktische Updates (Stand 07/2026)
 
 - **02.08.2025 — GPAI-Pflichten in Kraft:** Anbieter von General-Purpose-KI-Modellen (Art. 51 ff. KI-VO) müssen seit dem 02.08.2025 technische Dokumentation nach Anhang XI sowie eine Zusammenfassung der Trainingsdaten in dem von der Kommission bereitgestellten Template veröffentlichen (Art. 53 Abs. 1 lit. d KI-VO). Quelle: VO (EU) 2024/1689, eur-lex.europa.eu/eli/reg/2024/1689/oj.
-- **GPAI Code of Practice:** Die Kommission und das EU-AI-Office foerdern einen Code of Practice für GPAI-Modellanbieter; bei freiwilligem Anschluss sollen Anbieter als pflichtkonform vermutet werden (Art. 56 KI-VO). Quelle live prüfen über digital-strategy.ec.europa.eu sowie das EU AI Office.
-- **02.08.2026 — allgemeiner Anwendungsbeginn / Hochrisiko Anhang III:** Anbieter- und Betreiberpflichten für Hochrisiko-Systeme nach Anhang III werden im Grundsatz relevant: Risikomanagement (Art. 9), Datenqualitaet (Art. 10), technische Dokumentation (Art. 11 i.V.m. Anhang IV), Logging (Art. 12), Transparenz (Art. 13), menschliche Aufsicht (Art. 14), Genauigkeit/Robustheit/Cybersicherheit (Art. 15), Konformitaetsbewertung (Art. 43-49), CE-Kennzeichnung (Art. 48), EU-Datenbank-Registrierung (Art. 71). Achtung: Konkretisierung durch Durchfuehrungsrechtsakte und harmonisierte Normen laufend; vor Ausgabe Stand prüfen.
-- **02.08.2027 — Art. 6 Abs. 1 / Anhang I-Pfad:** Art. 6 Abs. 1 und korrespondierende Pflichten gelten erst ab diesem Datum. Nicht mit dem Anhang-III-Pfad vermischen.
+- **GPAI Code of Practice:** Kommissionsseite, EU-KI-Büro und Art. 56 KI-VO vor Außenverwendung prüfen. Bei freiwilligem Anschluss sauber dokumentieren, welche Fassung, welches Datum und welche Pflichten abgedeckt sind.
+- **02.08.2026 — allgemeiner Anwendungsbeginn / Art. 50:** Transparenzpflichten, Governance- und Marktüberwachungsschnittstellen werden relevant. Hochrisiko-Pflichten nicht pauschal auf diesen Tag ziehen; Omnibus-Zeitstrahl gesondert ausweisen.
+- **02.12.2027 — Anhang-III-Pfad:** spätester Anwendungszeitpunkt für Hochrisiko-Systeme in Anhang-III-Bereichen nach Digital-Omnibus-Zeitstrahl. Frühere Anwendung nur mit belastbarer Quelle annehmen.
+- **02.08.2028 — Art. 6 Abs. 1 / Anhang-I-Pfad:** spätester Anwendungszeitpunkt für KI als Sicherheitsbauteil oder reguliertes Produkt nach Anhang I. Nicht mit dem Anhang-III-Pfad vermischen.
 - **Sanktionen Art. 99 KI-VO:** ab 02.08.2025 vollumfaenglich anwendbar — bis 35 Mio. EUR / 7 % weltweiter Jahresumsatz bei Verstoss gegen Art. 5; bis 15 Mio. EUR / 3 % bei Hochrisiko- oder GPAI-Pflichtverletzungen; bis 7.5 Mio. EUR / 1 % bei Falschangaben gegenueber Behörden.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle (curia.europa.eu) verifizieren.
 
@@ -86,7 +93,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 ## Zentrale Normen (Paragrafenkette)
 - Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
 - Art. 5 KI-VO — verbotene Praktiken (absolut ab 02.02.2025)
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
+- Art. 6 i.V.m. Anhang I und III KI-VO — Hochrisiko-Klassifikation; Anwendungszeitpunkt gesondert sichern
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 51-55 KI-VO — GPAI-Modelle (ab 02.08.2025)
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
@@ -97,7 +104,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
 3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
 4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
+5. Welcher Stichtag gilt nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl: Art. 50 02.08.2026, Anhang III spätestens 02.12.2027 oder Anhang I spätestens 02.08.2028?
 
 ## Output-Template — Prüfergebnis
 **Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich

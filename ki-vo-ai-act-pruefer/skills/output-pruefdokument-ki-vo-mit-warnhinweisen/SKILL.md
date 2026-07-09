@@ -135,4 +135,4 @@ Empfohlene nächste Schritte:
 
 ## Quellen- und Aktualitätshinweis
 
-Stand: 05/2026. Quellenstand und Leitlinienlage sind vor Außenverwendung zu aktualisieren. Keine Rechtsberatung.
+Stand: 07/2026. Quellenstand und Leitlinienlage sind vor Außenverwendung zu aktualisieren. Keine Rechtsberatung.
