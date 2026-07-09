@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Schriftform Und Textform Bgb ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen zivilrechtlichen Anspruch, Vertrag, AGB-Klausel oder Verbraucherfall sofort nach Anspruchsgrundlage, Einwendung, Beweislast und Arbeitsprodukt ordnen.
 
 # Schriftform Und Textform Bgb — Schnellstart
 
@@ -17,52 +17,52 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Amtlicher Formkern BGB/ZPO: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix.
-2. Anschluss-Routing: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares.
-3. Anspruchsformulierungen bei Formverstoß: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
-4. Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
-5. Red-Team Qualitygate: Dieser Arbeitsgang macht Red-Team Qualitygate im Bereich schriftform-und-textform-bgb sofort bearbeitbar: erst.
-6. Befristungsabrede — qES-Rechtsprechung Stand 2026: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
+1. Anspruchsziel: Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen.
+2. Anspruchsgrundlage: Vertragstyp, Zustandekommen, Form, Vertretung, Einbeziehung und AGB-Kontrolle in der richtigen Reihenfolge prüfen.
+3. Leistungsstörung: Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden.
+4. Einwendungen: Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten.
+5. Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen.
+6. Amtlicher Formkern BGB/ZPO: Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 125 BGB; Paragraf 812 Abs. 1 S. 1 BGB; Paragraf 818 BGB |
+| Normenanker | BGB Paragraf 104 bis Paragraf 185; BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGB Paragraf 305 bis Paragraf 310 |
 | Rechtsprechung | ArbG Berlin, Urt. v. 28.09.2021 - 36 Ca 15296/20; LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21 |
-| Tatbestand | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten |
+| Beweislast | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung |
+| Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Amtlicher Formkern BGB/ZPO | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruchsformulierungen bei Formverstoß | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Red-Team Qualitygate | Dieser Arbeitsgang macht Red-Team Qualitygate im Bereich schriftform-und-textform-bgb sofort bearbeitbar: erst. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Befristungsabrede — qES-Rechtsprechung Stand 2026 | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amtlicher Formkern BGB/ZPO | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anspruchsformulierungen bei Formverstoß | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Red-Team Qualitygate | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Befristungsabrede — qES-Rechtsprechung Stand 2026 | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- BGB Paragraf 104 bis Paragraf 185: Geschäftsfähigkeit, Willenserklärung, Zugang, Anfechtung, Stellvertretung und Zustimmung.
+- BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
+- BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
+- BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
 - Paragraf 125 BGB — Nichtigkeit wegen Formmangels: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 812 Abs. 1 S. 1 BGB — Bereicherungsanspruch: ohne Rechtsgrund erlangt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 818 BGB — Umfang des Bereicherungsanspruchs: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 280 Abs. 1 BGB i.V.m. Paragrafen 311 Abs. 2, 241 Abs. 2 BGB — Schadensersatz aus c.i.c: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 16 TzBfG — Entfristung bei formwidrigem Befristungsvertrag: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 985 BGB — Herausgabeanspruch: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 125 S. 1 BGB nichtig: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - ArbG Berlin, Urt. v. 28.09.2021 - 36 Ca 15296/20: Elektronische Signatur ohne qualifiziertes Zertifikat genügt Paragraf 14 Abs. 4 TzBfG nicht; Paragraf 16 TzBfG ordnet die Unbefristetheit an
 - LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21: Eingescannte Unterschrift genügt nicht; die formgerechte Erklärung muss dem Arbeitnehmer vor Arbeitsaufnahme vorliegen
 - ArbG Gera, Urt. v. 07.03.2024 - 2 Ca 936/23: Echte qES beider Parteien kann Paragraf 14 Abs. 4 TzBfG wahren; maßgeblich ist das qualifizierte Zertifikat, nicht der bloße Einsatz eines Signaturtools
-- LAG Berlin-Brandenburg, Urt. v. 16.03.2022 – Az. 23 Sa 1133/21 — gescannte Unterschrift unter Befristungsabrede wahrt Paragraf 14 Abs. 4 TzBfG nicht. Quelle
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Amtlicher Formkern BGB/ZPO, Anschluss-Routing, Anspruchsformulierungen bei Formverstoß, Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Anspruchsmatrix: Anspruchsgrundlage, Tatbestandsmerkmal, Tatsache, Beleg, Gegenargument, Beweislast und Rechtsfolge als Tabelle ausgeben; Klauselprüfung: Einbeziehung, Transparenz, Leitbildabweichung, unangemessene Benachteiligung und Ersatzfolge getrennt bewerten.
 
 ## 8. Stop
 

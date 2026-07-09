@@ -20,9 +20,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 1. Anschluss-Routing: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares.
 2. Bauträgerkauf: Eigentumspfad und Freistellung: Nutze diesen Skill, wenn ein Immobilienerwerber vom Bauträger zahlt oder zahlen soll, bevor Eigentum lastenfrei.
 3. Betriebskostenabrechnung erstellen: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
-4. Betriebskostenabrechnung prüfen: Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558.
+4. Betriebskostenabrechnung prüfen: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 5. Case: Internationaler Bezug und Schnittstellen: Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung.
-6. Case Management Immobilienrecht: Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558.
+6. Case Management Immobilienrecht: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 
 ## 4. Fallkarte
 
@@ -42,9 +42,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Bauträgerkauf: Eigentumspfad und Freistellung | Nutze diesen Skill, wenn ein Immobilienerwerber vom Bauträger zahlt oder zahlen soll, bevor Eigentum lastenfrei. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Betriebskostenabrechnung erstellen | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Betriebskostenabrechnung prüfen | Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Betriebskostenabrechnung prüfen | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Case: Internationaler Bezug und Schnittstellen | Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Case Management Immobilienrecht | Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Case Management Immobilienrecht | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

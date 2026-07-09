@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Prozessrecht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du aus einer Akte sofort eine prozessfähige Route bauen: Zuständigkeit, Frist, Antrag, Tatsachenvortrag, Beweis und nächste Verfügung.
 
 # Prozessrecht — Schnellstart
 
@@ -17,50 +17,51 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Amtlicher ZPO-Verfahrenscheck: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
-2. Anschluss-Routing: Dieses Anschluss-Routing für Prozessrecht wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation.
-3. Anspruchstabelle im Zivilprozess: Dieser Skill baut aus einer Akte eine Anspruchstabelle, die Klage, Klageerwiderung, Replik.
-4. Anspruchstabelle: Systematische Prüfung und Visualisierung aller Tatbestandsmerkmale eines zivilrechtlichen Anspruchs.
-5. Anspruchstabelle: Compliance-Dokumentation und Aktenvermerk: Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu.
-6. Vertraulichkeitsschutz-Erstprüfung (Vorlagepflicht und Verschwiegenheit): Anwaltsgeheimnis und Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen prüfen. Normen: Paragraf 43a.
+1. Prozessroute: Gericht, Rechtsweg, Zuständigkeit, Streitwert, Frist, Einreichungsweg und Verfahrensstand sichern.
+2. Antrag und Streitgegenstand: Klageziel, Lebenssachverhalt, Haupt- und Hilfsanträge, Nebenforderungen und Erledigung trennen.
+3. Relation: Klägerstation auf Schlüssigkeit, Beklagtenstation auf Erheblichkeit, Replik auf Durchschlag und Beweisstation auf Beweislast prüfen.
+4. Beweis: Beweisthema, Beweismittel, Substantiierung, Beweislast, Beweiswürdigung und Beweisbeschluss aus der Akte entwickeln.
+5. Arbeitsprodukt: Klageschrift, Klageerwiderung, Hinweisverfügung, Beschluss, Urteil, Tenor, Anlagenverzeichnis oder Fristenblatt erstellen.
+6. Amtlicher ZPO-Verfahrenscheck: Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 253 ZPO für Klageantrag und bestimmten Streitgegenstand; Paragrafen 138, 282, 296 ZPO für Vortrag, Wahrheitspflicht; Paragrafen 286, 287 ZPO für Beweiswürdigung und Schadensschaetzung |
+| Normenanker | ZPO Paragraf 253; ZPO Paragraf 130, Paragraf 130a und Paragraf 130d; ZPO Paragraf 138 |
 | Rechtsprechung | BGH, Beschluss vom 25.02.2025 - VI ZB 19/24; BGH, Beschluss vom 02.12.2025 - VIII ZB 17/25 |
-| Tatbestand | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen |
+| Beweislast | Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss |
+| Rechtsfolge | Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Amtlicher ZPO-Verfahrenscheck | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Dieses Anschluss-Routing für Prozessrecht wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruchstabelle im Zivilprozess | Dieser Skill baut aus einer Akte eine Anspruchstabelle, die Klage, Klageerwiderung, Replik. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruchstabelle | Systematische Prüfung und Visualisierung aller Tatbestandsmerkmale eines zivilrechtlichen Anspruchs. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruchstabelle: Compliance-Dokumentation und Aktenvermerk | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vertraulichkeitsschutz-Erstprüfung (Vorlagepflicht und Verschwiegenheit) | Anwaltsgeheimnis und Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen prüfen. Normen: Paragraf 43a. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amtlicher ZPO-Verfahrenscheck | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anspruchstabelle im Zivilprozess | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anspruchstabelle | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anspruchstabelle: Compliance-Dokumentation und Aktenvermerk | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertraulichkeitsschutz-Erstprüfung (Vorlagepflicht und Verschwiegenheit) | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- ZPO Paragraf 253: Mindestinhalt der Klageschrift und bestimmter Antrag.
+- ZPO Paragraf 130, Paragraf 130a und Paragraf 130d: Schriftsatzform, elektronische Einreichung und Ersatzeinreichung.
+- ZPO Paragraf 138: Wahrheitspflicht, Erklärungslast und Bestreiten.
+- ZPO Paragraf 139: gerichtliche Hinweispflicht und Prozessleitung.
 - Paragraf 253 ZPO für Klageantrag und bestimmten Streitgegenstand: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 138, 282, 296 ZPO für Vortrag, Wahrheitspflicht und Praeklusion: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 286, 287 ZPO für Beweiswürdigung und Schadensschaetzung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 91 ff. ZPO für Kostenrisiko: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 195, 199, 204 BGB für Verjährung und Hemmung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Beschluss vom 25.02.2025 - VI ZB 19/24: Eine Ersatzeinreichung nach Paragraf 130d Satz 2 ZPO trägt nur, wenn die vorübergehende technische Unmöglichkeit aus sich heraus verständlich, geschlossen
 - BGH, Beschluss vom 02.12.2025 - VIII ZB 17/25: Bei behauptetem Internet-/Routerproblem muss die Glaubhaftmachung erkennen lassen, dass der Ausfall wirklich technischer Natur war und nicht auf Bedienungs
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Amtlicher ZPO-Verfahrenscheck, Anschluss-Routing, Anspruchstabelle im Zivilprozess, Anspruchstabelle: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Relationszeile: Anspruch, Klägertatsache, Bestreiten, Einwendung, Replik, Beweislast, Beweismittel und Entscheidung als Tabelle; Hinweisverfügung: Das Gericht weist darauf hin, dass [Punkt] bisher nicht schlüssig/erheblich/beweisbelegt ist; Frist bis [Datum].
 
 ## 8. Stop
 

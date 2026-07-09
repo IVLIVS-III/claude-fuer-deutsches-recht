@@ -21,7 +21,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 2. Ablehnung, Nachbesserung, Einspruch: Ablehnungen und Nachforderungen kommen vor — die häufigsten Gründe sind nicht "verlorene Fälle", sondern reparable.
 3. Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung: Arbeitsfokus: Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung. Prüfe diese Anker am Sachverhalt.
 4. Anschluss-Routing: Dieses Anschluss-Routing für Forschungszulage Antragstellung wählt nach dem ersten Ergebnis die passende.
-5. Antrag: Zahlen, Schwellenwerte und Berechnung: Tragende Normen verifizieren: FZulG Paragrafen 1-12, BsGav Forschungszulagen-Verordnung, EStG, KStG, GewStG.
+5. Antrag: Zahlen, Schwellenwerte und Berechnung: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
 6. Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage: Arbeitsfokus: Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage. Prüfe diese Anker am Sachverhalt.
 
 ## 4. Fallkarte
@@ -43,7 +43,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Ablehnung, Nachbesserung, Einspruch | Ablehnungen und Nachforderungen kommen vor — die häufigsten Gründe sind nicht "verlorene Fälle", sondern reparable. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung | Arbeitsfokus: Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung. Prüfe diese Anker am Sachverhalt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anschluss-Routing | Dieses Anschluss-Routing für Forschungszulage Antragstellung wählt nach dem ersten Ergebnis die passende. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antrag: Zahlen, Schwellenwerte und Berechnung | Tragende Normen verifizieren: FZulG Paragrafen 1-12, BsGav Forschungszulagen-Verordnung, EStG, KStG, GewStG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Antrag: Zahlen, Schwellenwerte und Berechnung | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage | Arbeitsfokus: Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage. Prüfe diese Anker am Sachverhalt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker

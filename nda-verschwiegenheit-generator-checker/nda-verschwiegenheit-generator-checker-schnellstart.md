@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Nda Verschwiegenheit Generator Checker ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen zivilrechtlichen Anspruch, Vertrag, AGB-Klausel oder Verbraucherfall sofort nach Anspruchsgrundlage, Einwendung, Beweislast und Arbeitsprodukt ordnen.
 
 # Nda Verschwiegenheit Generator Checker — Schnellstart
 
@@ -17,42 +17,46 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abmahnung und Cease Desist: Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13.
-2. Abschluss Check Vor Unterschrift: Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13.
-3. Abschlussprodukt Redline Memo: Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13.
-4. Agb Kontrolle B2B und B2C: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste.
-5. Angemessene Geheimhaltungsmaßnahmen: Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13.
-6. Anwaltliche Mandatsgeheimnisse: Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13.
+1. Anspruchsziel: Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen.
+2. Anspruchsgrundlage: Vertragstyp, Zustandekommen, Form, Vertretung, Einbeziehung und AGB-Kontrolle in der richtigen Reihenfolge prüfen.
+3. Leistungsstörung: Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden.
+4. Einwendungen: Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten.
+5. Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen.
+6. Abmahnung und Cease Desist: Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Arbeite primär mit |
+| Normenanker | BGB Paragraf 104 bis Paragraf 185; BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGB Paragraf 305 bis Paragraf 310 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13 |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten |
+| Beweislast | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung |
+| Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abmahnung und Cease Desist | Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschluss Check Vor Unterschrift | Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschlussprodukt Redline Memo | Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Agb Kontrolle B2B und B2C | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Angemessene Geheimhaltungsmaßnahmen | Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwaltliche Mandatsgeheimnisse | Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abmahnung und Cease Desist | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschluss Check Vor Unterschrift | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschlussprodukt Redline Memo | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Agb Kontrolle B2B und B2C | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Angemessene Geheimhaltungsmaßnahmen | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwaltliche Mandatsgeheimnisse | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- BGB Paragraf 104 bis Paragraf 185: Geschäftsfähigkeit, Willenserklärung, Zugang, Anfechtung, Stellvertretung und Zustimmung.
+- BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
+- BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
+- BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
 - Arbeite primär mit: GeschGehG Paragrafen 2-5, 6-8, 10-13, 16-20, 23; HinSchG Paragrafen 35-39; BGB Paragrafen 133, 157, 305-310, 339-343, 307; HGB Paragraf 90; StGB Paragraf 203: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abmahnung und Cease Desist, Abschluss Check Vor Unterschrift, Abschlussprodukt Redline Memo, Agb Kontrolle B2B und B2C: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Anspruchsmatrix: Anspruchsgrundlage, Tatbestandsmerkmal, Tatsache, Beleg, Gegenargument, Beweislast und Rechtsfolge als Tabelle ausgeben; Klauselprüfung: Einbeziehung, Transparenz, Leitbildabweichung, unangemessene Benachteiligung und Ersatzfolge getrennt bewerten.
 
 ## 8. Stop
 

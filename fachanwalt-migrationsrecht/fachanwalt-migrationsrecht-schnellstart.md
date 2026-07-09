@@ -18,11 +18,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 ## 3. Kernroute
 
 1. Abschiebehaft Paragraf 62 AufenthG: Prüfe Abschiebehaft Paragraf 62 AufenthG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm.
-2. Abschiebung abwehren — Duldung Paragraf 60a AufenthG Abschiebungsverbote Paragraf 60 Abs: Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58.
-3. Abschiebungshaft: Fachmodul im Migrationsrecht: Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58.
-4. Abschiebungsverbot Paragraf 60 Abs: Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58.
-5. Akteneinsicht Migration: Fachmodul im Migrationsrecht: Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58.
-6. Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht: Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58.
+2. Abschiebung abwehren — Duldung Paragraf 60a AufenthG Abschiebungsverbote Paragraf 60 Abs: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
+3. Abschiebungshaft: Fachmodul im Migrationsrecht: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
+4. Abschiebungsverbot Paragraf 60 Abs: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
+5. Akteneinsicht Migration: Fachmodul im Migrationsrecht: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
+6. Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 
 ## 4. Fallkarte
 
@@ -40,11 +40,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Abschiebehaft Paragraf 62 AufenthG | Prüfe Abschiebehaft Paragraf 62 AufenthG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschiebung abwehren — Duldung Paragraf 60a AufenthG Abschiebungsverbote Paragraf 60 Abs | Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschiebungshaft: Fachmodul im Migrationsrecht | Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschiebungsverbot Paragraf 60 Abs | Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Akteneinsicht Migration: Fachmodul im Migrationsrecht | Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht | Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschiebung abwehren — Duldung Paragraf 60a AufenthG Abschiebungsverbote Paragraf 60 Abs | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschiebungshaft: Fachmodul im Migrationsrecht | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschiebungsverbot Paragraf 60 Abs | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Akteneinsicht Migration: Fachmodul im Migrationsrecht | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

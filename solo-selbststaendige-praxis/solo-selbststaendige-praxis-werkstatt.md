@@ -142,56 +142,56 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Abmahnung Erhalten
 
-Tragende Normen verifizieren: SGB IV Paragraf 7 (Scheinselbstständigkeit), SGB VI Paragraf 2 Nr. 9 (Rentenversicherungspflicht), UStG Paragrafen 1, 19, EStG Paragrafen 15, 18, GewO Paragraf 14, BGB Paragrafen 611, 631, 305 ff., HGB Paragrafen 1, 2, BBG (Beitragsbemessung) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Grenzen Compliance und Selbstschutz: Macht den finalen selbstcheck vor vertrag
 
-Tragende Normen verifizieren: SGB IV Paragraf 7 (Scheinselbstständigkeit), SGB VI Paragraf 2 Nr. 9 (Rentenversicherungspflicht), UStG Paragrafen 1, 19, EStG Paragrafen 15, 18, GewO Paragraf 14, BGB Paragrafen 611, 631, 305 ff., HGB Paragrafen 1, 2, BBG (Beitragsbemessung) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Verträge und AGB: Erstellt schlanke agb ohne unwirksame überdehnung
 
-Tragende Normen verifizieren: SGB IV Paragraf 7 (Scheinselbstständigkeit), SGB VI Paragraf 2 Nr. 9 (Rentenversicherungspflicht), UStG Paragrafen 1, 19, EStG Paragrafen 15, 18, GewO Paragraf 14, BGB Paragrafen 611, 631, 305 ff., HGB Paragrafen 1, 2, BBG (Beitragsbemessung) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Wachstum Zusammenarbeit und Rechtsform: Prüft leadagentur
 
-Tragende Normen verifizieren: SGB IV Paragraf 7 (Scheinselbstständigkeit), SGB VI Paragraf 2 Nr. 9 (Rentenversicherungspflicht), UStG Paragrafen 1, 19, EStG Paragrafen 15, 18, GewO Paragraf 14, BGB Paragrafen 611, 631, 305 ff., HGB Paragrafen 1, 2, BBG (Beitragsbemessung) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Altersvorsorge Mindestplan Angebot Auftrag
 
-Tragende Normen verifizieren: SGB IV Paragraf 7 (Scheinselbstständigkeit), SGB VI Paragraf 2 Nr. 9 (Rentenversicherungspflicht), UStG Paragrafen 1, 19, EStG Paragrafen 15, 18, GewO Paragraf 14, BGB Paragrafen 611, 631, 305 ff., HGB Paragrafen 1, 2, BBG (Beitragsbemessung) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Kaltstart und Orientierung: Erklärt begriffe wie freiberuf
 
-Tragende Normen verifizieren: SGB IV Paragraf 7 (Scheinselbstständigkeit), SGB VI Paragraf 2 Nr. 9 (Rentenversicherungspflicht), UStG Paragrafen 1, 19, EStG Paragrafen 15, 18, GewO Paragraf 14, BGB Paragrafen 611, 631, 305 ff., HGB Paragrafen 1, 2, BBG (Beitragsbemessung) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Verträge und AGB: Macht aus whatsapp
 
-Tragende Normen verifizieren: SGB IV Paragraf 7 (Scheinselbstständigkeit), SGB VI Paragraf 2 Nr. 9 (Rentenversicherungspflicht), UStG Paragrafen 1, 19, EStG Paragrafen 15, 18, GewO Paragraf 14, BGB Paragrafen 611, 631, 305 ff., HGB Paragrafen 1, 2, BBG (Beitragsbemessung) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Steuern und Buchhaltung: Ordnet laptop
 
-Tragende Normen verifizieren: SGB IV Paragraf 7 (Scheinselbstständigkeit), SGB VI Paragraf 2 Nr. 9 (Rentenversicherungspflicht), UStG Paragrafen 1, 19, EStG Paragrafen 15, 18, GewO Paragraf 14, BGB Paragrafen 611, 631, 305 ff., HGB Paragrafen 1, 2, BBG (Beitragsbemessung) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Scheinselbstständigkeit und Status: Ordnet freie mitarbeit
 
-Tragende Normen verifizieren: SGB IV Paragraf 7 (Scheinselbstständigkeit), SGB VI Paragraf 2 Nr. 9 (Rentenversicherungspflicht), UStG Paragrafen 1, 19, EStG Paragrafen 15, 18, GewO Paragraf 14, BGB Paragrafen 611, 631, 305 ff., HGB Paragrafen 1, 2, BBG (Beitragsbemessung) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Arbeitnehmeraehnliche Selbstaendige
 
-Tragende Normen verifizieren: SGB IV Paragraf 7 (Scheinselbstständigkeit), SGB VI Paragraf 2 Nr. 9 (Rentenversicherungspflicht), UStG Paragrafen 1, 19, EStG Paragrafen 15, 18, GewO Paragraf 14, BGB Paragrafen 611, 631, 305 ff., HGB Paragrafen 1, 2, BBG (Beitragsbemessung) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Dokumente und Kommunikation: Plant aufbewahrung
 
-Tragende Normen verifizieren: SGB IV Paragraf 7 (Scheinselbstständigkeit), SGB VI Paragraf 2 Nr. 9 (Rentenversicherungspflicht), UStG Paragrafen 1, 19, EStG Paragrafen 15, 18, GewO Paragraf 14, BGB Paragrafen 611, 631, 305 ff., HGB Paragrafen 1, 2, BBG (Beitragsbemessung) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Aufbewahrung Loeschung
 
-Tragende Normen verifizieren: SGB IV Paragraf 7 (Scheinselbstständigkeit), SGB VI Paragraf 2 Nr. 9 (Rentenversicherungspflicht), UStG Paragrafen 1, 19, EStG Paragrafen 15, 18, GewO Paragraf 14, BGB Paragrafen 611, 631, 305 ff., HGB Paragrafen 1, 2, BBG (Beitragsbemessung) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Krise Schulden und Neustart: Prüft faire beendigung ohne folgeschaden
 
-Tragende Normen verifizieren: SGB IV Paragraf 7 (Scheinselbstständigkeit), SGB VI Paragraf 2 Nr. 9 (Rentenversicherungspflicht), UStG Paragrafen 1, 19, EStG Paragrafen 15, 18, GewO Paragraf 14, BGB Paragrafen 611, 631, 305 ff., HGB Paragrafen 1, 2, BBG (Beitragsbemessung) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Internationales und Auslandskunden: Prüft reisekosten
 
-Tragende Normen verifizieren: SGB IV Paragraf 7 (Scheinselbstständigkeit), SGB VI Paragraf 2 Nr. 9 (Rentenversicherungspflicht), UStG Paragrafen 1, 19, EStG Paragrafen 15, 18, GewO Paragraf 14, BGB Paragrafen 611, 631, 305 ff., HGB Paragrafen 1, 2, BBG (Beitragsbemessung) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

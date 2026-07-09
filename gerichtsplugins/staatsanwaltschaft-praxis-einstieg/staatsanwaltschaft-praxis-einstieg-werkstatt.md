@@ -173,7 +173,7 @@ Entscheidende Weiche: Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnah
 
 ### 15.7. Arbeitsstrafrecht: Paragraf 266a StGB, MiLoG und Scheinselbständigkeit
 
-Tragende Normen verifizieren: OWiG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate. - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Aufsichtsbeschwerde, Dienstweg und sachliche Antwort
 
@@ -193,7 +193,7 @@ Entscheidende Weiche: Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnah
 
 ### 15.12. Berufung der Staatsanwaltschaft einlegen und begrenzen
 
-Tragende Normen verifizieren: OWiG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate. - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Beschleunigtes Verfahren nach Paragraf 418 StPO
 

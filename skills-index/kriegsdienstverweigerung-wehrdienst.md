@@ -1,6 +1,6 @@
 # kriegsdienstverweigerung-wehrdienst
 
-**136 Skills** · Stand `v429.13.0`
+**136 Skills** · Stand `v429.14.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kriegsdienstverweigerung-wehrdienst/README.md)

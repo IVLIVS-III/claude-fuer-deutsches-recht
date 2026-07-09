@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Fachanwalt Verkehrsrecht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du Unfall, Bußgeld, Fahrerlaubnis, Reisendenrechte oder Regulierung schnell nach Haftung, Beweis und Frist sortieren.
 
 # Fachanwalt Verkehrsrecht — Schnellstart
 
@@ -17,47 +17,49 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. 315C: Internationaler Bezug und Schnittstellen: Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren.
-2. Anschluss-Routing: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares.
-3. Autonom: Abschlussprodukt und Übergabe: Tragende Normen verifizieren: StGB Paragrafen 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO Paragrafen 100a, 102.
-4. Bezuege: Behörden-, Gerichts- oder Registerweg: Tragende Normen verifizieren: StGB Paragrafen 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO Paragrafen 100a, 102.
-5. Blitzer Messung Paragraf 3 StVO: Prüfe Blitzer Messung Paragraf 3 StVO von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache.
-6. Bussgeld Einspruch Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer.: Tragende Normen verifizieren: StGB Paragrafen 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO Paragrafen 100a, 102.
+1. Ereignis und Frist: Unfall, Messung, Bescheid, Flug, Bahnreise, Ablehnung und Zugang kalendarisch sichern.
+2. Haftung und Anspruch: Beteiligte, Halter, Fahrer, Versicherer, Beförderer, Ursache, Quote und Anspruchsziel trennen.
+3. Schaden und Beleg: Reparatur, Mietwagen, Nutzungsausfall, Gutachten, Haushaltsführung, Personenschaden oder Ausgleichsbetrag nachrechnen.
+4. Verteidigung: Messakte, Bedienungsanleitung, Rohdaten, Zeugen, Anscheinsbeweis, außergewöhnlicher Umstand oder Mitverschulden prüfen.
+5. Arbeitsprodukt: Regulierungsschreiben, Einspruch, Klage, Anspruchstabelle, Vergleich oder Mandantenbrief erstellen.
+6. 315C: Internationaler Bezug und Schnittstellen: Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 115 Abs. 1 VVG; Paragraf 249 Abs. 1 und 2 BGB; Paragraf 253 Abs. 2 BGB |
+| Normenanker | StVG Paragraf 7, Paragraf 17 und Paragraf 18; BGB Paragraf 249, Paragraf 251 und Paragraf 253; PflVG Paragraf 115 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren |
+| Beweislast | Geschädigter oder Reisender für Ereignis, Schaden, Verspätung und Belege; Gegner für Mitverschulden, Ausschluss und außergewöhnliche Umstände |
+| Rechtsfolge | Regulierungsschreiben, Anspruchstabelle, Einspruch, Klage, Vergleich, Fristenblatt oder Mandantenbrief |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| 315C: Internationaler Bezug und Schnittstellen | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Autonom: Abschlussprodukt und Übergabe | Tragende Normen verifizieren: StGB Paragrafen 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO Paragrafen 100a, 102. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bezuege: Behörden-, Gerichts- oder Registerweg | Tragende Normen verifizieren: StGB Paragrafen 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO Paragrafen 100a, 102. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Blitzer Messung Paragraf 3 StVO | Prüfe Blitzer Messung Paragraf 3 StVO von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bussgeld Einspruch Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer. | Tragende Normen verifizieren: StGB Paragrafen 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO Paragrafen 100a, 102. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 315C: Internationaler Bezug und Schnittstellen | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Autonom: Abschlussprodukt und Übergabe | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bezuege: Behörden-, Gerichts- oder Registerweg | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Blitzer Messung Paragraf 3 StVO | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bussgeld Einspruch Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer. | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- StVG Paragraf 7, Paragraf 17 und Paragraf 18: Halter- und Fahrerhaftung sowie Haftungsverteilung.
+- BGB Paragraf 249, Paragraf 251 und Paragraf 253: Naturalrestitution, Geldersatz und Schmerzensgeld.
+- PflVG Paragraf 115: Direktanspruch gegen den Haftpflichtversicherer.
+- OWiG Paragraf 66 und Paragraf 67: Bußgeldbescheid und Einspruch.
 - Paragraf 115 Abs. 1 VVG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 249 Abs. 1 und 2 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 253 Abs. 2 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 69 StGB — Entziehung Fahrerlaubnis; Wiedererteilungssperre Paragraf 69a: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 316 StGB — Trunkenheit im Verkehr: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 115 VVG — Direktanspruch gegen KH-Versicherer: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder 315C: Internationaler Bezug und Schnittstellen, Anschluss-Routing, Autonom: Abschlussprodukt und Übergabe, Bezuege: Behörden-, Gerichts- oder Registerweg: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Regulierungstabelle: Position, Betrag, Beleg, Rechtsgrund, Einwand, Risiko und Zahlungsziel; Bußgeld-Einspruch: Bescheid, Zustellung, Messverfahren, Akteneinsicht, konkreter Angriff und Frist.
 
 ## 8. Stop
 

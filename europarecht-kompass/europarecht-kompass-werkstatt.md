@@ -136,11 +136,11 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Anrufung: Red-Team und Qualitätskontrolle
 
-Tragende Normen verifizieren: EUV, AEUV (insb. Art. 4, 5, 18, 20, 21, 34, 49, 56, 101, 102, 107, 108, 263, 267, 288, 340), GRCh, EU-VO (Beispiele 2016/679 Datenschutz-Grundverordnung, 2024/1689 Regulierungsrahmen, 139/2004 FKVO), EU-Richtlinien, EuGH-Rechtsprechung —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Europarecht-Kompass — Allgemein
 
-Tragende Normen verifizieren: EUV, AEUV (insb. Art. 4, 5, 18, 20, 21, 34, 49, 56, 101, 102, 107, 108, 263, 267, 288, 340), GRCh, EU-VO (Beispiele 2016/679 Datenschutz-Grundverordnung, 2024/1689 Regulierungsrahmen, 139/2004 FKVO), EU-Richtlinien, EuGH-Rechtsprechung —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Beihilfen: Compliance-Dokumentation und Aktenvermerk
 
@@ -152,7 +152,7 @@ Diese Quellenkarte sichert im Bereich Europarecht Kompass tragende Normen, Recht
 
 ### 15.5. Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg
 
-Tragende Normen verifizieren: EUV, AEUV (insb. Art. 4, 5, 18, 20, 21, 34, 49, 56, 101, 102, 107, 108, 263, 267, 288, 340), GRCh, EU-VO (Beispiele 2016/679 Datenschutz-Grundverordnung, 2024/1689 Regulierungsrahmen, 139/2004 FKVO), EU-Richtlinien, EuGH-Rechtsprechung —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Dokumentenintake
 
@@ -160,7 +160,7 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 
 ### 15.7. Drafting: Internationaler Bezug und Schnittstellen
 
-Tragende Normen verifizieren: EUV, AEUV (insb. Art. 4, 5, 18, 20, 21, 34, 49, 56, 101, 102, 107, 108, 263, 267, 288, 340), GRCh, EU-VO (Beispiele 2016/679 Datenschutz-Grundverordnung, 2024/1689 Regulierungsrahmen, 139/2004 FKVO), EU-Richtlinien, EuGH-Rechtsprechung —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Einstieg und Routing
 
@@ -168,7 +168,7 @@ Dieser Einstieg routet Europarecht Kompass vom ersten Sachverhalt zu Rollen, Fri
 
 ### 15.9. Europarecht: Vorlageverfahren Art. 267
 
-Tragende Normen verifizieren: EUV, AEUV (insb. Art. 4, 5, 18, 20, 21, 34, 49, 56, 101, 102, 107, 108, 263, 267, 288, 340), GRCh, EU-VO (Beispiele 2016/679 Datenschutz-Grundverordnung, 2024/1689 Regulierungsrahmen, 139/2004 FKVO), EU-Richtlinien, EuGH-Rechtsprechung —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. EU-Rechtsquellen, Charta und Vorlageweiche
 
@@ -176,16 +176,16 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittste
 
 ### 15.11. EU: Petitionsausschuss
 
-Tragende Normen verifizieren: EUV, AEUV (insb. Art. 4, 5, 18, 20, 21, 34, 49, 56, 101, 102, 107, 108, 263, 267, 288, 340), GRCh, EU-VO (Beispiele 2016/679 Datenschutz-Grundverordnung, 2024/1689 Regulierungsrahmen, 139/2004 FKVO), EU-Richtlinien, EuGH-Rechtsprechung —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. EU: Vertragsverletzung Art. 258
 
-Tragende Normen verifizieren: EUV, AEUV (insb. Art. 4, 5, 18, 20, 21, 34, 49, 56, 101, 102, 107, 108, 263, 267, 288, 340), GRCh, EU-VO (Beispiele 2016/679 Datenschutz-Grundverordnung, 2024/1689 Regulierungsrahmen, 139/2004 FKVO), EU-Richtlinien, EuGH-Rechtsprechung —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. EU: Zuständigkeiten
 
-Tragende Normen verifizieren: EUV, AEUV (insb. Art. 4, 5, 18, 20, 21, 34, 49, 56, 101, 102, 107, 108, 263, 267, 288, 340), GRCh, EU-VO (Beispiele 2016/679 Datenschutz-Grundverordnung, 2024/1689 Regulierungsrahmen, 139/2004 FKVO), EU-Richtlinien, EuGH-Rechtsprechung —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. EU: State-Aid-Notifikation
 
-Tragende Normen verifizieren: EUV, AEUV (insb. Art. 4, 5, 18, 20, 21, 34, 49, 56, 101, 102, 107, 108, 263, 267, 288, 340), GRCh, EU-VO (Beispiele 2016/679 Datenschutz-Grundverordnung, 2024/1689 Regulierungsrahmen, 139/2004 FKVO), EU-Richtlinien, EuGH-Rechtsprechung —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

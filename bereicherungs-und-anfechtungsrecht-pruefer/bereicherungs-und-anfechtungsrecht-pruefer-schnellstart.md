@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Bereicherungs Und Anfechtungsrecht Prüfer ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen zivilrechtlichen Anspruch, Vertrag, AGB-Klausel oder Verbraucherfall sofort nach Anspruchsgrundlage, Einwendung, Beweislast und Arbeitsprodukt ordnen.
 
 # Bereicherungs Und Anfechtungsrecht Prüfer — Schnellstart
 
@@ -17,52 +17,52 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abgetretene Forderung und Zession: Anwendungsfall: abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Der Skill zwingt.
-2. Anfechtung nach Paragraf 142 BGB und Rückabwicklung: Anwendungsfall: eine wirksame Anfechtung den Rechtsgrund rückwirkend beseitigt. Der Skill zwingt.
-3. Anfechtungsklage AnfG — Prozessuales: 1. Liegt ein vollstreckbarer Titel gegen den Schuldner vor (Paragraf 2 AnfG)? 2. Ist die Verjährungsfrist.
-4. Fristen und Anfechtungszeitraum — AnfG: Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen.
-5. Einreden und Verteidigung des Anfechtungsgegners — AnfG: 1. Auf welchen Anfechtungstatbestand stützt der klagende Gläubiger seinen Anspruch (Paragraf 3 oder Paragraf 4.
-6. AnfG-Grundtatbestand und Anfechtungsberechtigte: Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen.
+1. Anspruchsziel: Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen.
+2. Anspruchsgrundlage: Vertragstyp, Zustandekommen, Form, Vertretung, Einbeziehung und AGB-Kontrolle in der richtigen Reihenfolge prüfen.
+3. Leistungsstörung: Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden.
+4. Einwendungen: Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten.
+5. Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen.
+6. Abgetretene Forderung und Zession: Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 404 BGB Einwendungserhalt; Paragraf 812 BGB (Herausgabeanspruch ungerechtfertigte Bereicherung); Paragraf 813 BGB (Leistung trotz Einrede) |
+| Normenanker | BGB Paragraf 104 bis Paragraf 185; BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGB Paragraf 305 bis Paragraf 310 |
 | Rechtsprechung | BGH XI ZR 116/15 (Leistungskondiktion bei verdeckter Provision); BGH VIII ZR 91/04 (Saldotheorie) |
-| Tatbestand | Anwendungsfall: abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Der Skill zwingt |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten |
+| Beweislast | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung |
+| Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abgetretene Forderung und Zession | Anwendungsfall: abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Der Skill zwingt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfechtung nach Paragraf 142 BGB und Rückabwicklung | Anwendungsfall: eine wirksame Anfechtung den Rechtsgrund rückwirkend beseitigt. Der Skill zwingt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfechtungsklage AnfG — Prozessuales | 1. Liegt ein vollstreckbarer Titel gegen den Schuldner vor (Paragraf 2 AnfG)? 2. Ist die Verjährungsfrist. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fristen und Anfechtungszeitraum — AnfG | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einreden und Verteidigung des Anfechtungsgegners — AnfG | 1. Auf welchen Anfechtungstatbestand stützt der klagende Gläubiger seinen Anspruch (Paragraf 3 oder Paragraf 4. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AnfG-Grundtatbestand und Anfechtungsberechtigte | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abgetretene Forderung und Zession | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anfechtung nach Paragraf 142 BGB und Rückabwicklung | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anfechtungsklage AnfG — Prozessuales | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen und Anfechtungszeitraum — AnfG | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Einreden und Verteidigung des Anfechtungsgegners — AnfG | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AnfG-Grundtatbestand und Anfechtungsberechtigte | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- BGB Paragraf 104 bis Paragraf 185: Geschäftsfähigkeit, Willenserklärung, Zugang, Anfechtung, Stellvertretung und Zustimmung.
+- BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
+- BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
+- BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
 - Paragraf 404 BGB Einwendungserhalt: Zessionar muss alle Einwendungen aus dem Schuldverhältnis gegen sich gelten lassen, die der Schuldner gegen den Zedenten hatte (z. B. Mangelhaftung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 812 BGB (Herausgabeanspruch ungerechtfertigte Bereicherung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 813 BGB (Leistung trotz Einrede): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 814 BGB (Kenntnis der Nichtschuld): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 815 BGB (Nichteintritt des Erfolges): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 817 BGB (Verstoß gegen Verbotsgesetz): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 818 BGB (Umfang des Bereicherungsanspruchs): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH XI ZR 116/15 (Leistungskondiktion bei verdeckter Provision)
 - BGH VIII ZR 91/04 (Saldotheorie)
 - BGH V ZR 215/11 (Nichteintritt des Erfolges)
-- BGH IX ZR 196/14 (Insolvenzanfechtung)
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abgetretene Forderung und Zession, Anfechtung nach Paragraf 142 BGB und Rückabwicklung, Anfechtungsklage AnfG — Prozessuales, Fristen und Anfechtungszeitraum — AnfG: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Anspruchsmatrix: Anspruchsgrundlage, Tatbestandsmerkmal, Tatsache, Beleg, Gegenargument, Beweislast und Rechtsfolge als Tabelle ausgeben; Klauselprüfung: Einbeziehung, Transparenz, Leitbildabweichung, unangemessene Benachteiligung und Ersatzfolge getrennt bewerten.
 
 ## 8. Stop
 

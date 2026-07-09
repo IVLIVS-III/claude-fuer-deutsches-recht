@@ -1,3 +1,13 @@
+# v429.14.0 — Promptprofile und Release-Hygiene geschärft
+
+- Werkstatt- und Schnellstart-Prompts erhalten zusätzliche Themenprofile für Bürgerliches Recht und Vertragsrecht, Zivilprozess und Relation, Erbrecht, Medizin- und Gesundheitsrecht, Verkehrs- und Reisendenrecht sowie Zwangsvollstreckung.
+- Der Prompt-Generator filtert reine Quellen- und Verifikationshinweise aus den Arbeitsfeldern, Fallkarten und Kurzauszügen heraus, damit die kleinen Prompts schneller in Anspruch, Tatbestand, Beweislast, Gegenargument und Arbeitsprodukt kommen.
+- Schnellstart-Prompts für die neu profilierten Rechtsgebiete starten mit fachbezogenen Kernrouten, Normenankern, Beweislastmerkern und Rechtsfolgen statt mit allgemeinen Such- oder Quellenhinweisen.
+- Ein neuer Prompt-Hygiene-Audit prüft generierte Werkstatt- und Schnellstart-Prompts im Release-Lauf auf zurückgerutschtes Quellenrauschen.
+- Der Release-Workflow zeigt beim Asset-Upload fortlaufenden Fortschritt und nutzt eine kürzere, kontrollierte Drosselung; Marketplace, Plugin-Manifeste, Skill-Übersichten und Asset-Index wurden auf v429.14.0 synchronisiert.
+
+---
+
 # v429.13.0 — Rechtsprechungsanker und Promptprofile bereinigt
 
 - Die Rechtsprechungsprofile für Werkstatt- und Schnellstart-Prompts wurden nachgeschärft: Arbeitszeugnis, Bank- und Kapitalmarktrecht, Datenbankrecht, Lobbyregister, Geldwäscheprävention, Cybersicherheit, Kartellrecht, Produktrecht, Sozialversicherungsstatus und Forderungsmanagement erhalten nun eigene Normen-, Beweislast-, Rechtsfolgen- und Rechtsprechungsanker statt zufälliger Nachbarprofile.

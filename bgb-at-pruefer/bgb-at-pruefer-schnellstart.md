@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Bgb At Prüfer ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen zivilrechtlichen Anspruch, Vertrag, AGB-Klausel oder Verbraucherfall sofort nach Anspruchsgrundlage, Einwendung, Beweislast und Arbeitsprodukt ordnen.
 
 # Bgb At Prüfer — Schnellstart
 
@@ -17,48 +17,49 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abgabe der Willenserklärung — Tatbestand und Zeitpunkt: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
-2. AGB-Einbeziehung und Inhaltskontrolle — Paragrafen 305 bis 310 BGB: Prüft AGB-Einbeziehung nach Paragrafen 305 bis 310 BGB: ausdrücklicher und konkludenter Hinweis, zumutbare.
-3. Agb Einbeziehung Schnittstelle Paragraphen 305 310: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste.
-4. Amtlicher BGB/ZPO-Normcheck: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
-5. Anfechtung — Routing und Gesamtprüfung Paragrafen 119 bis 124 BGB: Mandant hat Vertrag geschlossen und bemerkt nachträglich einen Irrtum über eine wesentliche Eigenschaft.
-6. Auslegung vor Anfechtung — Prüfungsreihenfolge und Begründung: Student hat in einer Probeklausur die Anfechtung vor der Auslegung geprüft und Punkte verloren — wie.
+1. Anspruchsziel: Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen.
+2. Anspruchsgrundlage: Vertragstyp, Zustandekommen, Form, Vertretung, Einbeziehung und AGB-Kontrolle in der richtigen Reihenfolge prüfen.
+3. Leistungsstörung: Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden.
+4. Einwendungen: Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten.
+5. Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen.
+6. Abgabe der Willenserklärung — Tatbestand und Zeitpunkt: Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 130 BGB; Paragrafen 116 ff. BGB; Paragraf 120 BGB |
+| Normenanker | BGB Paragraf 104 bis Paragraf 185; BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGB Paragraf 305 bis Paragraf 310 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten |
+| Beweislast | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung |
+| Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abgabe der Willenserklärung — Tatbestand und Zeitpunkt | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AGB-Einbeziehung und Inhaltskontrolle — Paragrafen 305 bis 310 BGB | Prüft AGB-Einbeziehung nach Paragrafen 305 bis 310 BGB: ausdrücklicher und konkludenter Hinweis, zumutbare. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Agb Einbeziehung Schnittstelle Paragraphen 305 310 | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Amtlicher BGB/ZPO-Normcheck | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfechtung — Routing und Gesamtprüfung Paragrafen 119 bis 124 BGB | Mandant hat Vertrag geschlossen und bemerkt nachträglich einen Irrtum über eine wesentliche Eigenschaft. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auslegung vor Anfechtung — Prüfungsreihenfolge und Begründung | Student hat in einer Probeklausur die Anfechtung vor der Auslegung geprüft und Punkte verloren — wie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abgabe der Willenserklärung — Tatbestand und Zeitpunkt | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AGB-Einbeziehung und Inhaltskontrolle — Paragrafen 305 bis 310 BGB | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Agb Einbeziehung Schnittstelle Paragraphen 305 310 | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amtlicher BGB/ZPO-Normcheck | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anfechtung — Routing und Gesamtprüfung Paragrafen 119 bis 124 BGB | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auslegung vor Anfechtung — Prüfungsreihenfolge und Begründung | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- BGB Paragraf 104 bis Paragraf 185: Geschäftsfähigkeit, Willenserklärung, Zugang, Anfechtung, Stellvertretung und Zustimmung.
+- BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
+- BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
+- BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
 - Paragraf 130 BGB: Zugang unter Abwesenden; Wirksamkeit der Willenserklärung ab Zugang: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 116 ff. BGB: Allgemeine Vorschriften zur Willenserklärung und ihren Mängeln: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 120 BGB: Haftung bei Übermittlungsfehlern durch Boten oder Übermittlungseinrichtung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 164 BGB: Handeln im fremden Namen; abzugrenzen vom Boten ohne eigene Willenserklärung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB: Treu und Glauben — Empfänger kann sich nicht auf Nichtzugang berufen, wenn er ihn vereitelt hat: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 291 bis 302 StGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 305 Abs. 1 BGB: Definiton der AGB als einseitig gestellte Vertragsbedingungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abgabe der Willenserklärung — Tatbestand und Zeitpunkt, AGB-Einbeziehung und Inhaltskontrolle — Paragrafen 305 bis 310 BGB, Agb Einbeziehung Schnittstelle Paragraphen 305 310, Amtlicher BGB/ZPO-Normcheck: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Anspruchsmatrix: Anspruchsgrundlage, Tatbestandsmerkmal, Tatsache, Beleg, Gegenargument, Beweislast und Rechtsfolge als Tabelle ausgeben; Klauselprüfung: Einbeziehung, Transparenz, Leitbildabweichung, unangemessene Benachteiligung und Ersatzfolge getrennt bewerten.
 
 ## 8. Stop
 

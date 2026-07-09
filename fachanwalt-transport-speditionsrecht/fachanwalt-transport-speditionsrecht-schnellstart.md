@@ -17,9 +17,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Adsp: Internationaler Bezug und Schnittstellen: Tragende Normen verifizieren: Paragrafen 407 ff. Frachtvertrag — Fundstellen über gesetze-im-internet.de.
+1. Adsp: Internationaler Bezug und Schnittstellen: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 2. Anschluss-Routing: Dieses Anschluss-Routing für Fachanwalt Transport Speditionsrecht wählt nach dem ersten Ergebnis die passende.
-3. CMR-Haftung des Frachtführers im internationalen Strassengueterverkehr prüfen: Tragende Normen verifizieren: Paragrafen 407 ff. Frachtvertrag — Fundstellen über gesetze-im-internet.de.
+3. CMR-Haftung des Frachtführers im internationalen Strassengueterverkehr prüfen: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 4. CMR Haftung art 17 CMR: Prüfe CMR Haftung art 17 CMR von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg.
 5. Cotif: Schriftsatz-, Brief- und Memo-Bausteine: Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu.
 6. Dokumentenintake: Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren.
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | Paragraf 1 ProdHaftG; Paragraf 3 ProdHaftG; Paragraf 425 Abs. 1 HGB |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Tragende Normen verifizieren: Paragrafen 407 ff. Frachtvertrag — Fundstellen über gesetze-im-internet.de |
+| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,9 +39,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Adsp: Internationaler Bezug und Schnittstellen | Tragende Normen verifizieren: Paragrafen 407 ff. Frachtvertrag — Fundstellen über gesetze-im-internet.de. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Adsp: Internationaler Bezug und Schnittstellen | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anschluss-Routing | Dieses Anschluss-Routing für Fachanwalt Transport Speditionsrecht wählt nach dem ersten Ergebnis die passende. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| CMR-Haftung des Frachtführers im internationalen Strassengueterverkehr prüfen | Tragende Normen verifizieren: Paragrafen 407 ff. Frachtvertrag — Fundstellen über gesetze-im-internet.de. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| CMR-Haftung des Frachtführers im internationalen Strassengueterverkehr prüfen | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | CMR Haftung art 17 CMR | Prüfe CMR Haftung art 17 CMR von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Cotif: Schriftsatz-, Brief- und Memo-Bausteine | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Dokumentenintake | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |

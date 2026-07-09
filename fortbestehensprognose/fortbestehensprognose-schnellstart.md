@@ -58,6 +58,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 543 Abs. 1 BGB — außerordentliche Kündigung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zahlungsunfähigkeit ist regelmäßig bei Liquiditätslücke von zehn Prozent anzunehmen.
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.
+- BGH, Urteil vom 13.07.2021 - II ZR 84/20: weiche Patronatserklärung verhindert rechnerische Überschuldung nicht und trägt eine Fortbestehensprognose in der Krise nur ausnahmsweise bei belastbarer
 
 ## 7. Antwortform
 

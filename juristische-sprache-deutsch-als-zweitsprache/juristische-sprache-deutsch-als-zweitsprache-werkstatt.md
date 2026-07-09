@@ -123,35 +123,35 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Prüfung Vor Absenden
 
-Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher), StPO Paragrafen 185, 187 (Dolmetscher und Übersetzung), JVEG Paragrafen 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Aktenzeichen und Betreff
 
-Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher), StPO Paragrafen 185, 187 (Dolmetscher und Übersetzung), JVEG Paragrafen 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Amtssprache Entschluesseln
 
-Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher), StPO Paragrafen 185, 187 (Dolmetscher und Übersetzung), JVEG Paragrafen 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Anhörung Verstehen
 
-Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher), StPO Paragrafen 185, 187 (Dolmetscher und Übersetzung), JVEG Paragrafen 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Anlagenliste Verstehen
 
-Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher), StPO Paragrafen 185, 187 (Dolmetscher und Übersetzung), JVEG Paragrafen 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Antrag Stellungnahme Erklärung
 
-Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher), StPO Paragrafen 185, 187 (Dolmetscher und Übersetzung), JVEG Paragrafen 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Anwaltstermin Vorbereiten
 
-Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher), StPO Paragrafen 185, 187 (Dolmetscher und Übersetzung), JVEG Paragrafen 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Arbeitsrecht Warnwoerter
 
-Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher), StPO Paragrafen 185, 187 (Dolmetscher und Übersetzung), JVEG Paragrafen 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Ausländerrecht Warnwoerter
 
@@ -159,7 +159,7 @@ Dieser Skill markiert Warnwoerter im Ausländerrecht (Aufenthaltsrecht, Asyl). F
 
 ### 15.10. Barrierefreie Erklärung
 
-Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher), StPO Paragrafen 185, 187 (Dolmetscher und Übersetzung), JVEG Paragrafen 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Behördenpflichten Mitwirkung
 
@@ -167,12 +167,12 @@ Dieser Skill unterstützt bei Behördenpflichten Mitwirkung, wenn deutsche Allta
 
 ### 15.12. Bescheid in Einfacher Sprache
 
-Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher), StPO Paragrafen 185, 187 (Dolmetscher und Übersetzung), JVEG Paragrafen 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Chronologie Erstellen
 
-Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher), StPO Paragrafen 185, 187 (Dolmetscher und Übersetzung), JVEG Paragrafen 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Datenschutz und Akteneinsicht
 
-Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher), StPO Paragrafen 185, 187 (Dolmetscher und Übersetzung), JVEG Paragrafen 9, 11 (Dolmetschervergütung), DGT-Glossare, EuGRZ Art. 6 Abs. 3 lit. e EMRK — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

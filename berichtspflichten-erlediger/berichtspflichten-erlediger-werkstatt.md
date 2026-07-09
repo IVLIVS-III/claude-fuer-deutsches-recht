@@ -135,15 +135,15 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Abfallnachweis und Entsorgung
 
-Tragende Normen verifizieren: HGB Paragrafen 264, 289, 290, 315, AktG Paragrafen 90, 91, 161 (Erklärung zur Unternehmensführung), DCGK, GwG Paragraf 6 Risikoanalyse / Paragraf 9 jährlich, LkSG Paragrafen 3, 10, NIS2 Art. 23, CSRD-Umsetzung, Datenschutz-Grundverordnung Art. 30. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Portale, APIs und Rollen sicher verwalten
 
-Tragende Normen verifizieren: HGB Paragrafen 264, 289, 290, 315, AktG Paragrafen 90, 91, 161 (Erklärung zur Unternehmensführung), DCGK, GwG Paragraf 6 Risikoanalyse / Paragraf 9 jährlich, LkSG Paragrafen 3, 10, NIS2 Art. 23, CSRD-Umsetzung, Datenschutz-Grundverordnung Art. 30. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Arbeitsschutz-Unterweisungen nachweisen
 
-Tragende Normen verifizieren: HGB Paragrafen 264, 289, 290, 315, AktG Paragrafen 90, 91, 161 (Erklärung zur Unternehmensführung), DCGK, GwG Paragraf 6 Risikoanalyse / Paragraf 9 jährlich, LkSG Paragrafen 3, 10, NIS2 Art. 23, CSRD-Umsetzung, Datenschutz-Grundverordnung Art. 30. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Arbeitsunfallanzeige DGUV
 
@@ -155,7 +155,7 @@ rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine 
 
 ### 15.6. Auslandstöchter und deutsche Berichtspflichten
 
-Tragende Normen verifizieren: HGB Paragrafen 264, 289, 290, 315, AktG Paragrafen 90, 91, 161 (Erklärung zur Unternehmensführung), DCGK, GwG Paragraf 6 Risikoanalyse / Paragraf 9 jährlich, LkSG Paragrafen 3, 10, NIS2 Art. 23, CSRD-Umsetzung, Datenschutz-Grundverordnung Art. 30. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Außenhandel und Intrastat
 
@@ -163,7 +163,7 @@ rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine 
 
 ### 15.8. Batterierecht und Mengenmeldung
 
-Tragende Normen verifizieren: HGB Paragrafen 264, 289, 290, 315, AktG Paragrafen 90, 91, 161 (Erklärung zur Unternehmensführung), DCGK, GwG Paragraf 6 Risikoanalyse / Paragraf 9 jährlich, LkSG Paragrafen 3, 10, NIS2 Art. 23, CSRD-Umsetzung, Datenschutz-Grundverordnung Art. 30. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Baugenehmigung und Baustatistik
 
@@ -175,16 +175,16 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutz
 
 ### 15.11. BEHG Brennstoffemissionsbericht
 
-Tragende Normen verifizieren: HGB Paragrafen 264, 289, 290, 315, AktG Paragrafen 90, 91, 161 (Erklärung zur Unternehmensführung), DCGK, GwG Paragraf 6 Risikoanalyse / Paragraf 9 jährlich, LkSG Paragrafen 3, 10, NIS2 Art. 23, CSRD-Umsetzung, Datenschutz-Grundverordnung Art. 30. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Behördenkommunikation und Fristverlängerung
 
-Tragende Normen verifizieren: HGB Paragrafen 264, 289, 290, 315, AktG Paragrafen 90, 91, 161 (Erklärung zur Unternehmensführung), DCGK, GwG Paragraf 6 Risikoanalyse / Paragraf 9 jährlich, LkSG Paragrafen 3, 10, NIS2 Art. 23, CSRD-Umsetzung, Datenschutz-Grundverordnung Art. 30. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Register und Fristenboard für Berichtspflichten
 
-Tragende Normen verifizieren: HGB Paragrafen 264, 289, 290, 315, AktG Paragrafen 90, 91, 161 (Erklärung zur Unternehmensführung), DCGK, GwG Paragraf 6 Risikoanalyse / Paragraf 9 jährlich, LkSG Paragrafen 3, 10, NIS2 Art. 23, CSRD-Umsetzung, Datenschutz-Grundverordnung Art. 30. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Bundesbank AWV Z4/Z5 Meldungen
 
-Tragende Normen verifizieren: HGB Paragrafen 264, 289, 290, 315, AktG Paragrafen 90, 91, 161 (Erklärung zur Unternehmensführung), DCGK, GwG Paragraf 6 Risikoanalyse / Paragraf 9 jährlich, LkSG Paragrafen 3, 10, NIS2 Art. 23, CSRD-Umsetzung, Datenschutz-Grundverordnung Art. 30. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

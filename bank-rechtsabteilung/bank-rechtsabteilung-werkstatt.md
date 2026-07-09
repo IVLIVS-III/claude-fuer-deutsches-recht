@@ -146,27 +146,27 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. AGB-Klauselkontrolle Bank
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Rechnungsreview Kanzlei
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Anzahlungs-, Gewährleistungs- und Erfüllungsgarantien
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. AnzV/KWG-Anzeigenkalender BaFin und Bundesbank
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. APP-Fraud Bank
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Aufsichtsrat und Ausschüsse
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Avalrahmenlinie und Kautionsaval
 
@@ -174,11 +174,11 @@ Avalrahmen und Kautionsaval in der Bankpraxis prüfen: Kreditgeschäft, Avalprov
 
 ### 15.8. BaFin-Anhörung und Aufsichtsschreiben
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Prüfung vor Ort managen
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Bankaufsichtsrecht KWG/MaRisk-Triage
 
@@ -190,11 +190,11 @@ klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; lie
 
 ### 15.12. Auskunftsersuchen
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. White-Label-Banking
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Kaltstart-Routing
 

@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Vertragsausfueller ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen zivilrechtlichen Anspruch, Vertrag, AGB-Klausel oder Verbraucherfall sofort nach Anspruchsgrundlage, Einwendung, Beweislast und Arbeitsprodukt ordnen.
 
 # Vertragsausfueller — Schnellstart
 
@@ -17,48 +17,49 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Altverträge: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste.
-2. Altvertrag nachziehen: Tragende Normen verifizieren: BGB Paragrafen 133, 157, 305-310 (AGB-Kontrolle), 311b, 311c, 433, 488, 535, 631.
-3. Anschluss-Routing: Dieses Anschluss-Routing für Vertragsausfueller wählt nach dem ersten Ergebnis die passende Vertiefung.
-4. Ausdrücklicher: Fristennotiz und nächster Schritt: Tragende Normen verifizieren: BGB Paragrafen 133, 157, 305-310 (AGB-Kontrolle), 311b, 311c, 433, 488, 535, 631.
-5. VAF: Batch-Modus Konzern: Tragende Normen verifizieren: BGB Paragrafen 133, 157, 305-310 (AGB-Kontrolle), 311b, 311c, 433, 488, 535, 631.
-6. BSAG-Mietvertrag: Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren.
+1. Anspruchsziel: Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen.
+2. Anspruchsgrundlage: Vertragstyp, Zustandekommen, Form, Vertretung, Einbeziehung und AGB-Kontrolle in der richtigen Reihenfolge prüfen.
+3. Leistungsstörung: Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden.
+4. Einwendungen: Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten.
+5. Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen.
+6. Altverträge: Dokumentenmatrix, Lückenliste und Nachforderung: Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 305, 305c BGB; Paragraf 307 ff. BGB; Paragraf 550 BGB |
+| Normenanker | BGB Paragraf 104 bis Paragraf 185; BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGB Paragraf 305 bis Paragraf 310 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten |
+| Beweislast | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung |
+| Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Altverträge: Dokumentenmatrix, Lückenliste und Nachforderung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Altvertrag nachziehen | Tragende Normen verifizieren: BGB Paragrafen 133, 157, 305-310 (AGB-Kontrolle), 311b, 311c, 433, 488, 535, 631. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Dieses Anschluss-Routing für Vertragsausfueller wählt nach dem ersten Ergebnis die passende Vertiefung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ausdrücklicher: Fristennotiz und nächster Schritt | Tragende Normen verifizieren: BGB Paragrafen 133, 157, 305-310 (AGB-Kontrolle), 311b, 311c, 433, 488, 535, 631. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| VAF: Batch-Modus Konzern | Tragende Normen verifizieren: BGB Paragrafen 133, 157, 305-310 (AGB-Kontrolle), 311b, 311c, 433, 488, 535, 631. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| BSAG-Mietvertrag | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Altverträge: Dokumentenmatrix, Lückenliste und Nachforderung | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Altvertrag nachziehen | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ausdrücklicher: Fristennotiz und nächster Schritt | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| VAF: Batch-Modus Konzern | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| BSAG-Mietvertrag | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- BGB Paragraf 104 bis Paragraf 185: Geschäftsfähigkeit, Willenserklärung, Zugang, Anfechtung, Stellvertretung und Zustimmung.
+- BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
+- BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
+- BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
 - Paragraf 305, 305c BGB — Einbeziehung und Auslegung von AGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 307 ff. BGB — AGB-Inhaltskontrolle (Generalklausel, Verbotslisten): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 550 BGB — Schriftformgebot bei langfristigen Mietverträgen (mehr als 1 Jahr): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 195 BGB — Verjährung (regelmäßig 3 Jahre): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 313 BGB — Störung der Geschäftsgrundlage (bei wesentlich veränderten Umständen): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 535, 536 BGB — Miete und Mängelgewährleistung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 550 BGB — Schriftformerfordernis bei Mietdauer ] 1 Jahr: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Altverträge: Dokumentenmatrix, Lückenliste und Nachforderung, Altvertrag nachziehen, Anschluss-Routing, Ausdrücklicher: Fristennotiz und nächster Schritt: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Anspruchsmatrix: Anspruchsgrundlage, Tatbestandsmerkmal, Tatsache, Beleg, Gegenargument, Beweislast und Rechtsfolge als Tabelle ausgeben; Klauselprüfung: Einbeziehung, Transparenz, Leitbildabweichung, unangemessene Benachteiligung und Ersatzfolge getrennt bewerten.
 
 ## 8. Stop
 

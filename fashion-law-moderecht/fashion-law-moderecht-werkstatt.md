@@ -148,15 +148,15 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Brand Enforcement Abmahnung
 
-Tragende Normen verifizieren: MarkenG Paragrafen 4, 14, 15, 24, DesignG Paragrafen 1 ff., UrhG Paragrafen 2 Abs. 1 Nr. 4, 69, UWG Paragrafen 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Brand und Markenportfolio
 
-Tragende Normen verifizieren: MarkenG Paragrafen 4, 14, 15, 24, DesignG Paragrafen 1 ff., UrhG Paragrafen 2 Abs. 1 Nr. 4, 69, UWG Paragrafen 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Confidentiality Design Leak
 
-Tragende Normen verifizieren: MarkenG Paragrafen 4, 14, 15, 24, DesignG Paragrafen 1 ff., UrhG Paragrafen 2 Abs. 1 Nr. 4, 69, UWG Paragrafen 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Counterfeit Investigation
 
@@ -164,40 +164,40 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlun
 
 ### 15.5. Crm Loyalty Datenschutz
 
-Tragende Normen verifizieren: MarkenG Paragrafen 4, 14, 15, 24, DesignG Paragrafen 1 ff., UrhG Paragrafen 2 Abs. 1 Nr. 4, 69, UWG Paragrafen 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Designrecht und Muster
 
-Tragende Normen verifizieren: MarkenG Paragrafen 4, 14, 15, 24, DesignG Paragrafen 1 ff., UrhG Paragrafen 2 Abs. 1 Nr. 4, 69, UWG Paragrafen 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. E Commerce Widerruf Fashion
 
-Tragende Normen verifizieren: MarkenG Paragrafen 4, 14, 15, 24, DesignG Paragrafen 1 ff., UrhG Paragrafen 2 Abs. 1 Nr. 4, 69, UWG Paragrafen 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Employment Creatives Fashion
 
-Tragende Normen verifizieren: MarkenG Paragrafen 4, 14, 15, 24, DesignG Paragrafen 1 ff., UrhG Paragrafen 2 Abs. 1 Nr. 4, 69, UWG Paragrafen 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Espr Digitaler Produktpass
 
-Tragende Normen verifizieren: MarkenG Paragrafen 4, 14, 15, 24, DesignG Paragrafen 1 ff., UrhG Paragrafen 2 Abs. 1 Nr. 4, 69, UWG Paragrafen 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Fashion Week Event
 
-Tragende Normen verifizieren: MarkenG Paragrafen 4, 14, 15, 24, DesignG Paragrafen 1 ff., UrhG Paragrafen 2 Abs. 1 Nr. 4, 69, UWG Paragrafen 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Forced Labour und Importstop
 
-Tragende Normen verifizieren: MarkenG Paragrafen 4, 14, 15, 24, DesignG Paragrafen 1 ff., UrhG Paragrafen 2 Abs. 1 Nr. 4, 69, UWG Paragrafen 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Foto Video Campaign Rights
 
-Tragende Normen verifizieren: MarkenG Paragrafen 4, 14, 15, 24, DesignG Paragrafen 1 ff., UrhG Paragrafen 2 Abs. 1 Nr. 4, 69, UWG Paragrafen 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Franchise Shop in Shop
 
-Tragende Normen verifizieren: MarkenG Paragrafen 4, 14, 15, 24, DesignG Paragrafen 1 ff., UrhG Paragrafen 2 Abs. 1 Nr. 4, 69, UWG Paragrafen 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Freelancer Designer Ip
 
-Tragende Normen verifizieren: MarkenG Paragrafen 4, 14, 15, 24, DesignG Paragrafen 1 ff., UrhG Paragrafen 2 Abs. 1 Nr. 4, 69, UWG Paragrafen 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

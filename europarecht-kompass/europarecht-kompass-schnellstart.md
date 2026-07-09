@@ -17,11 +17,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Anrufung: Red-Team und Qualitätskontrolle: Tragende Normen verifizieren: EUV, AEUV (insb. Art. 4, 5, 18, 20, 21, 34, 49, 56, 101, 102, 107, 108, 263, 267.
-2. Europarecht-Kompass — Allgemein: Tragende Normen verifizieren: EUV, AEUV (insb. Art. 4, 5, 18, 20, 21, 34, 49, 56, 101, 102, 107, 108, 263, 267.
+1. Anrufung: Red-Team und Qualitätskontrolle: Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG.
+2. Europarecht-Kompass — Allgemein: Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG.
 3. Beihilfen: Compliance-Dokumentation und Aktenvermerk: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
 4. Charta Quellenkarte: Diese Quellenkarte sichert im Bereich Europarecht Kompass tragende Normen, Rechtsprechung, Behördenpraxis.
-5. Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg: Tragende Normen verifizieren: EUV, AEUV (insb. Art. 4, 5, 18, 20, 21, 34, 49, 56, 101, 102, 107, 108, 263, 267.
+5. Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg: Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG.
 6. Dokumentenintake: Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren.
 
 ## 4. Fallkarte
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | Art. 267 AEUV; Art. 258 und 260 AEUV; Art. 263 und 265 AEUV |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Tragende Normen verifizieren: EUV, AEUV (insb. Art. 4, 5, 18, 20, 21, 34, 49, 56, 101, 102, 107, 108, 263, 267 |
+| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,11 +39,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anrufung: Red-Team und Qualitätskontrolle | Tragende Normen verifizieren: EUV, AEUV (insb. Art. 4, 5, 18, 20, 21, 34, 49, 56, 101, 102, 107, 108, 263, 267. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Europarecht-Kompass — Allgemein | Tragende Normen verifizieren: EUV, AEUV (insb. Art. 4, 5, 18, 20, 21, 34, 49, 56, 101, 102, 107, 108, 263, 267. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anrufung: Red-Team und Qualitätskontrolle | Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Europarecht-Kompass — Allgemein | Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Beihilfen: Compliance-Dokumentation und Aktenvermerk | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Charta Quellenkarte | Diese Quellenkarte sichert im Bereich Europarecht Kompass tragende Normen, Rechtsprechung, Behördenpraxis. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg | Tragende Normen verifizieren: EUV, AEUV (insb. Art. 4, 5, 18, 20, 21, 34, 49, 56, 101, 102, 107, 108, 263, 267. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg | Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Dokumentenintake | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker

@@ -20,8 +20,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 1. PrALR: Normnavigator jede PrALR-Norm als Karte erschließen: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie.
 2. Pralr Normnavigator Jede Pralr Norm Als Karte Erschließ: Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu.
 3. Pralr Textzeugenvergleich 1794 1804 Ausgabe und Ocr: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie.
-4. PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze: Auskunft, Einkommen, Bedarf, Selbstbehalt, Kindeswohl, Versorgungsausgleich und Verbundfrage rechnerisch trennen.
-5. PrALR: Erster Teil Titel 1 Personen und Stand: Auskunft, Einkommen, Bedarf, Selbstbehalt, Kindeswohl, Versorgungsausgleich und Verbundfrage rechnerisch trennen.
+4. PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze: Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren.
+5. PrALR: Erster Teil Titel 1 Personen und Stand: Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren.
 6. PrALR: Erster Teil Titel 2 Sachen und Rechte: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie.
 
 ## 4. Fallkarte
@@ -42,8 +42,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | PrALR: Normnavigator jede PrALR-Norm als Karte erschließen | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Pralr Normnavigator Jede Pralr Norm Als Karte Erschließ | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Pralr Textzeugenvergleich 1794 1804 Ausgabe und Ocr | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze | Auskunft, Einkommen, Bedarf, Selbstbehalt, Kindeswohl, Versorgungsausgleich und Verbundfrage rechnerisch trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| PrALR: Erster Teil Titel 1 Personen und Stand | Auskunft, Einkommen, Bedarf, Selbstbehalt, Kindeswohl, Versorgungsausgleich und Verbundfrage rechnerisch trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze | Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| PrALR: Erster Teil Titel 1 Personen und Stand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | PrALR: Erster Teil Titel 2 Sachen und Rechte | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker

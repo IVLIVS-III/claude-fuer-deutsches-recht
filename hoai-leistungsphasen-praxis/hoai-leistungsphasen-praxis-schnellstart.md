@@ -17,12 +17,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. HOAI Querschnitt: Plant technische vorabnahme: Tragende Normen verifizieren: HOAI Paragrafen 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke).
-2. HOAI Querschnitt: Erstellt abschlussbericht: Tragende Normen verifizieren: HOAI Paragrafen 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke).
-3. HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh-/bgh-risiken: Tragende Normen verifizieren: HOAI Paragrafen 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke).
-4. HOAI Querschnitt: Leitet zu freianlagen: Tragende Normen verifizieren: HOAI Paragrafen 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke).
+1. HOAI Querschnitt: Plant technische vorabnahme: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
+2. HOAI Querschnitt: Erstellt abschlussbericht: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
+3. HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh-/bgh-risiken: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
+4. HOAI Querschnitt: Leitet zu freianlagen: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 5. Anrechenbare Kosten, DIN 276 und Kostengruppen: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen.
-6. HOAI Querschnitt: Koordiniert rollen ohne verantwortungsvermischung: Tragende Normen verifizieren: HOAI Paragrafen 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke).
+6. HOAI Querschnitt: Koordiniert rollen ohne verantwortungsvermischung: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 
 ## 4. Fallkarte
 
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | BGB Paragrafen 650p bis 650t bei Architekten-/Ingenieurverträgen; Paragraf 1 HOAI (Anwendungsbereich); Paragrafen 3, 8 HOAI (Leistungsbild, Leistungsphasen 1-9) |
 | Rechtsprechung | BGH VII ZR 46/06 (Mindestsatz-Unterschreitung); BGH VII ZR 63/14 (Abschlagszahlung Architekt) |
-| Tatbestand | Tragende Normen verifizieren: HOAI Paragrafen 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke) |
+| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| HOAI Querschnitt: Plant technische vorabnahme | Tragende Normen verifizieren: HOAI Paragrafen 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| HOAI Querschnitt: Erstellt abschlussbericht | Tragende Normen verifizieren: HOAI Paragrafen 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh-/bgh-risiken | Tragende Normen verifizieren: HOAI Paragrafen 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| HOAI Querschnitt: Leitet zu freianlagen | Tragende Normen verifizieren: HOAI Paragrafen 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| HOAI Querschnitt: Plant technische vorabnahme | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| HOAI Querschnitt: Erstellt abschlussbericht | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh-/bgh-risiken | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| HOAI Querschnitt: Leitet zu freianlagen | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anrechenbare Kosten, DIN 276 und Kostengruppen | rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| HOAI Querschnitt: Koordiniert rollen ohne verantwortungsvermischung | Tragende Normen verifizieren: HOAI Paragrafen 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| HOAI Querschnitt: Koordiniert rollen ohne verantwortungsvermischung | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

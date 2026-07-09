@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Fachanwalt Erbrecht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du Erbfolge, Testament, Pflichtteil, Pflichtteilsergänzung oder Erbschein aus einer Familien- und Vermögensakte belastbar berechnen.
 
 # Fachanwalt Erbrecht — Schnellstart
 
@@ -17,49 +17,50 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Anschluss-Routing: Dieses Anschluss-Routing für Fachanwalt Erbrecht wählt nach dem ersten Ergebnis die passende Vertiefung.
-2. Belegmatrix: Sonderfall und Edge-Case-Prüfung im Erbrecht: fachlich vertieftes Modul mit Normenradar.: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix.
-3. Berater: Mehrparteienkonflikt und Interessenmatrix im Erbrecht: fachlich vertieftes Modul mit Normenradar.: Tragende Normen verifizieren: AO Paragrafen 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG.
-4. BGB: Fristen, Form, Zuständigkeit und Rechtsweg im Erbrecht: fachlich vertieftes Modul mit Normenradar.: Tragende Normen verifizieren: AO Paragrafen 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG.
-5. Chronologie: Beweislast, Darlegungslast und Substantiierung im Erbrecht: fachlich vertieftes Modul mit Normenradar.: Tragende Normen verifizieren: AO Paragrafen 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG.
-6. Digitaler Nachlass Facebook BGH Iii Zr 183 17: Eltern verlangen Zugriff auf Facebook-Konto der verstorbenen Tochter; Plattform verweigert. - Paragraf 1922 BGB.
+1. Familien- und Zeitachse: Todesfälle, Ehen, Scheidungen, Adoptionen, Abstammung, Güterstand und Vorversterben sauber zeichnen.
+2. Verfügungen: Testament, Erbvertrag, Widerruf, Bindungswirkung, Auslegung, Vermächtnisse und Auflagen trennen.
+3. Quote und Nachlass: Aktivvermögen, Schulden, Zugewinnschnittstelle, Ausgleichung, Anrechnung und Erbquoten berechnen.
+4. Pflichtteil: Berechtigte, Quote, fiktiver Nachlass, Schenkungen, Abschmelzung, Auskunft und Wertermittlung prüfen.
+5. Arbeitsprodukt: Erbquotentabelle, Pflichtteilsrechnung, Auskunftsschreiben, Erbscheinsantrag, Klage oder Vergleichsvorschlag erstellen.
+6. Anschluss-Routing: Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Normenradar; Paragrafen 2303 ff. BGB; Paragrafen 2353 ff. BGB |
+| Normenanker | BGB Paragraf 1922 bis Paragraf 1936; BGB Paragraf 2064 bis Paragraf 2086; BGB Paragraf 2147 ff |
 | Rechtsprechung | BGH 12.07.2018 III ZR 183/17 |
-| Tatbestand | Dieses Anschluss-Routing für Fachanwalt Erbrecht wählt nach dem ersten Ergebnis die passende Vertiefung |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen |
+| Beweislast | Anspruchsteller für Verwandtschaft, Verfügung, Nachlasswert und Schenkung; Gegner für Erfüllung, Anrechnung, Ausgleichung und Ausschluss |
+| Rechtsfolge | Erbquotentabelle, Pflichtteilsrechnung, Auskunft, Erbscheinsantrag, Klage oder Auseinandersetzungsvergleich |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anschluss-Routing | Dieses Anschluss-Routing für Fachanwalt Erbrecht wählt nach dem ersten Ergebnis die passende Vertiefung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Belegmatrix: Sonderfall und Edge-Case-Prüfung im Erbrecht: fachlich vertieftes Modul mit Normenradar. | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Berater: Mehrparteienkonflikt und Interessenmatrix im Erbrecht: fachlich vertieftes Modul mit Normenradar. | Tragende Normen verifizieren: AO Paragrafen 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| BGB: Fristen, Form, Zuständigkeit und Rechtsweg im Erbrecht: fachlich vertieftes Modul mit Normenradar. | Tragende Normen verifizieren: AO Paragrafen 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Chronologie: Beweislast, Darlegungslast und Substantiierung im Erbrecht: fachlich vertieftes Modul mit Normenradar. | Tragende Normen verifizieren: AO Paragrafen 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Digitaler Nachlass Facebook BGH Iii Zr 183 17 | Eltern verlangen Zugriff auf Facebook-Konto der verstorbenen Tochter; Plattform verweigert. - Paragraf 1922 BGB. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Belegmatrix: Sonderfall und Edge-Case-Prüfung im Erbrecht: fachlich vertieftes Modul mit Normenradar. | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Berater: Mehrparteienkonflikt und Interessenmatrix im Erbrecht: fachlich vertieftes Modul mit Normenradar. | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| BGB: Fristen, Form, Zuständigkeit und Rechtsweg im Erbrecht: fachlich vertieftes Modul mit Normenradar. | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Chronologie: Beweislast, Darlegungslast und Substantiierung im Erbrecht: fachlich vertieftes Modul mit Normenradar. | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Digitaler Nachlass Facebook BGH Iii Zr 183 17 | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- BGB Paragraf 1922 bis Paragraf 1936: Gesamtrechtsnachfolge und gesetzliche Erbfolge.
+- BGB Paragraf 2064 bis Paragraf 2086: Testament, Auslegung, Erbeinsetzung, Vermächtnis und Auflage.
+- BGB Paragraf 2147 ff.: Vermächtnis und Beschwerter.
+- BGB Paragraf 2303 bis Paragraf 2338: Pflichtteil, Auskunft, Bewertung, Ergänzung und Entziehung.
 - Normenradar: BGB Paragrafen 1922 ff., 1937, 1942 ff., 1953, 1967, 2032 ff., 2042, 2050 ff., 2078, 2084, 2203 ff., 2303 ff., 2314, 2325, 2333; FamFG Paragrafen 343 ff.; EuErbVO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 2303 ff. BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 2353 ff. BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1922 Abs. 1 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1942 Abs. 1 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1953 Abs. 1 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1967 Abs. 1 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH 12.07.2018 III ZR 183/17 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Anschluss-Routing, Belegmatrix: Sonderfall und Edge-Case-Prüfung im Erbrecht: fachlich vertieftes Modul mit Normenradar., Berater: Mehrparteienkonflikt und Interessenmatrix im Erbrecht: fachlich vertieftes Modul mit Normenradar., BGB: Fristen, Form, Zuständigkeit und Rechtsweg im Erbrecht.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Erbquotentabelle: Person, Verwandtschaft, gesetzliche Quote, Verfügung, Ausschlussgrund, Endquote und Beleg; Pflichtteilsergänzung: Schenkung, Datum, Wert, Gegenleistung, Abschmelzung, fiktiver Nachlass und Anspruchsbetrag.
 
 ## 8. Stop
 

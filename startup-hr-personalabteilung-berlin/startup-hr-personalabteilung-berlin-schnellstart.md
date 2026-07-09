@@ -17,12 +17,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Angebotsschreiben Offer Letter: Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4.
+1. Angebotsschreiben Offer Letter: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 2. Anwalt und Steuerberater Briefing: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
-3. Arbeitnehmerüberlassung AÜG Risk: Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4.
-4. Arbeitserlaubnis Blue Card Nicht EU: Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4.
+3. Arbeitnehmerüberlassung AÜG Risk: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
+4. Arbeitserlaubnis Blue Card Nicht EU: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 5. Arbeitsschutz Psychische Gefährdungsbeurteilung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
-6. Abmahnung Entwurf und Risiko: Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4.
+6. Abmahnung Entwurf und Risiko: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 
 ## 4. Fallkarte
 
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | Arbeite primär mit |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4 |
+| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Angebotsschreiben Offer Letter | Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Angebotsschreiben Offer Letter | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anwalt und Steuerberater Briefing | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitnehmerüberlassung AÜG Risk | Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitserlaubnis Blue Card Nicht EU | Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitnehmerüberlassung AÜG Risk | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitserlaubnis Blue Card Nicht EU | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsschutz Psychische Gefährdungsbeurteilung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abmahnung Entwurf und Risiko | Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abmahnung Entwurf und Risiko | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

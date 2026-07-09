@@ -18,11 +18,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 ## 3. Kernroute
 
 1. Finale Entscheidung als Volltext (Beratungs-Votum mit Tenor-Vorschlag): Dieser Skill erzeugt die finale Entscheidung des Spruchkörpers nicht als bloßen Vorschlag oder Votum, sondern.
-2. Befangenheit Selbstanzeige: Orientierung: Tragende Normen verifizieren: GVG Paragrafen 28-77, 116, StPO Paragrafen 30 ff., LRiStAG — Fundstellen.
-3. Befangenheit Selbstanzeige: Sitzungspraxis: Tragende Normen verifizieren: GVG Paragrafen 28-77, 116, StPO Paragrafen 30 ff., LRiStAG — Fundstellen.
-4. Befangenheit und Selbstanzeige: Tragende Normen verifizieren: GVG Paragrafen 28-77, 116, StPO Paragrafen 30 ff., LRiStAG — Fundstellen.
-5. Beratung und Abstimmung: Tragende Normen verifizieren: GVG Paragrafen 28-77, 116, StPO Paragrafen 30 ff., LRiStAG — Fundstellen.
-6. Beratung und Abstimmung: Orientierung: Tragende Normen verifizieren: GVG Paragrafen 28-77, 116, StPO Paragrafen 30 ff., LRiStAG — Fundstellen.
+2. Befangenheit Selbstanzeige: Orientierung: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
+3. Befangenheit Selbstanzeige: Sitzungspraxis: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
+4. Befangenheit und Selbstanzeige: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
+5. Beratung und Abstimmung: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
+6. Beratung und Abstimmung: Orientierung: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 
 ## 4. Fallkarte
 
@@ -40,11 +40,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Finale Entscheidung als Volltext (Beratungs-Votum mit Tenor-Vorschlag) | Dieser Skill erzeugt die finale Entscheidung des Spruchkörpers nicht als bloßen Vorschlag oder Votum, sondern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Befangenheit Selbstanzeige: Orientierung | Tragende Normen verifizieren: GVG Paragrafen 28-77, 116, StPO Paragrafen 30 ff., LRiStAG — Fundstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Befangenheit Selbstanzeige: Sitzungspraxis | Tragende Normen verifizieren: GVG Paragrafen 28-77, 116, StPO Paragrafen 30 ff., LRiStAG — Fundstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Befangenheit und Selbstanzeige | Tragende Normen verifizieren: GVG Paragrafen 28-77, 116, StPO Paragrafen 30 ff., LRiStAG — Fundstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beratung und Abstimmung | Tragende Normen verifizieren: GVG Paragrafen 28-77, 116, StPO Paragrafen 30 ff., LRiStAG — Fundstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beratung und Abstimmung: Orientierung | Tragende Normen verifizieren: GVG Paragrafen 28-77, 116, StPO Paragrafen 30 ff., LRiStAG — Fundstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Befangenheit Selbstanzeige: Orientierung | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Befangenheit Selbstanzeige: Sitzungspraxis | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Befangenheit und Selbstanzeige | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beratung und Abstimmung | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beratung und Abstimmung: Orientierung | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

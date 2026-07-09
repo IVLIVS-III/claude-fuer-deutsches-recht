@@ -143,11 +143,11 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Abitur und Abschlussprüfungen
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; Schulgesetze der Länder, GG Art. 6, 7, BVerfGE 47, 46 (Eltern-/Schülerrechte), VwGO, KJHG/SGB VIII — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Abiturzulassung und Fehlkurse
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; Schulgesetze der Länder, GG Art. 6, 7, BVerfGE 47, 46 (Eltern-/Schülerrechte), VwGO, KJHG/SGB VIII — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Akteneinsicht Schulakte
 
@@ -155,27 +155,27 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumenten
 
 ### 15.4. Attest und Prüfungsunfähigkeit Schule
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; Schulgesetze der Länder, GG Art. 6, 7, BVerfGE 47, 46 (Eltern-/Schülerrechte), VwGO, KJHG/SGB VIII — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Aufsichtspflicht und Unfall
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; Schulgesetze der Länder, GG Art. 6, 7, BVerfGE 47, 46 (Eltern-/Schülerrechte), VwGO, KJHG/SGB VIII — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Auslandsschule und Rückkehr
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; Schulgesetze der Länder, GG Art. 6, 7, BVerfGE 47, 46 (Eltern-/Schülerrechte), VwGO, KJHG/SGB VIII — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Autismus, Sensorik und Schule
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; Schulgesetze der Länder, GG Art. 6, 7, BVerfGE 47, 46 (Eltern-/Schülerrechte), VwGO, KJHG/SGB VIII — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Barrierefreiheit Schule
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; Schulgesetze der Länder, GG Art. 6, 7, BVerfGE 47, 46 (Eltern-/Schülerrechte), VwGO, KJHG/SGB VIII — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Befreiung von Schulveranstaltung
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; Schulgesetze der Länder, GG Art. 6, 7, BVerfGE 47, 46 (Eltern-/Schülerrechte), VwGO, KJHG/SGB VIII — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Beschwerde gegen Lehrkraft
 
@@ -183,16 +183,16 @@ entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert ein
 
 ### 15.11. Betriebspraktikum Schule
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; Schulgesetze der Länder, GG Art. 6, 7, BVerfGE 47, 46 (Eltern-/Schülerrechte), VwGO, KJHG/SGB VIII — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Bußgeld wegen Schulpflicht
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; Schulgesetze der Länder, GG Art. 6, 7, BVerfGE 47, 46 (Eltern-/Schülerrechte), VwGO, KJHG/SGB VIII — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Cloud-Plattform Schule und M365
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; Schulgesetze der Länder, GG Art. 6, 7, BVerfGE 47, 46 (Eltern-/Schülerrechte), VwGO, KJHG/SGB VIII — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Cybermobbing Schule
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; Schulgesetze der Länder, GG Art. 6, 7, BVerfGE 47, 46 (Eltern-/Schülerrechte), VwGO, KJHG/SGB VIII — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

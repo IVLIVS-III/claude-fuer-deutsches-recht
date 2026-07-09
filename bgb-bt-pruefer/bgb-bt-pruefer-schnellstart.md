@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Bgb Bt Prüfer ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen zivilrechtlichen Anspruch, Vertrag, AGB-Klausel oder Verbraucherfall sofort nach Anspruchsgrundlage, Einwendung, Beweislast und Arbeitsprodukt ordnen.
 
 # Bgb Bt Prüfer — Schnellstart
 
@@ -17,48 +17,49 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Amtlicher BGB-BT-Normcheck: Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558.
-2. Workflow: Anfängercoach Schuldrecht BT: Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558.
-3. Workflow: Anspruchslandkarte BGB BT: Paragrafen 280 ff. BGB: Pflichtverletzung und Schadensersatz (Schuldrecht AT) - Paragrafen 433 ff. BGB.
-4. Arbeitsnaher Dienstvertrag im BGB: Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558.
-5. Auftrag und unentgeltliche Tätigkeit: Entscheidende Weiche: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden.
-6. Bauvertrag und Verbraucherbauvertrag: Entscheidende Weiche: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden.
+1. Anspruchsziel: Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen.
+2. Anspruchsgrundlage: Vertragstyp, Zustandekommen, Form, Vertretung, Einbeziehung und AGB-Kontrolle in der richtigen Reihenfolge prüfen.
+3. Leistungsstörung: Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden.
+4. Einwendungen: Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten.
+5. Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen.
+6. Amtlicher BGB-BT-Normcheck: Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 3 ProdHaftG; Paragraf 4 ProdHaftG; Paragraf 8 ProdHaftG |
+| Normenanker | BGB Paragraf 104 bis Paragraf 185; BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGB Paragraf 305 bis Paragraf 310 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558 |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten |
+| Beweislast | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung |
+| Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Amtlicher BGB-BT-Normcheck | Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Workflow: Anfängercoach Schuldrecht BT | Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Workflow: Anspruchslandkarte BGB BT | Paragrafen 280 ff. BGB: Pflichtverletzung und Schadensersatz (Schuldrecht AT) - Paragrafen 433 ff. BGB. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsnaher Dienstvertrag im BGB | Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auftrag und unentgeltliche Tätigkeit | Entscheidende Weiche: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bauvertrag und Verbraucherbauvertrag | Entscheidende Weiche: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amtlicher BGB-BT-Normcheck | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Workflow: Anfängercoach Schuldrecht BT | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Workflow: Anspruchslandkarte BGB BT | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsnaher Dienstvertrag im BGB | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auftrag und unentgeltliche Tätigkeit | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bauvertrag und Verbraucherbauvertrag | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- BGB Paragraf 104 bis Paragraf 185: Geschäftsfähigkeit, Willenserklärung, Zugang, Anfechtung, Stellvertretung und Zustimmung.
+- BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
+- BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
+- BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
 - Paragraf 3 ProdHaftG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 4 ProdHaftG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 8 ProdHaftG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 2 ProdHaftG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1 ProdHaftG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 10 ProdHaftG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 9 ProdHaftG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Amtlicher BGB-BT-Normcheck, Workflow: Anfängercoach Schuldrecht BT, Workflow: Anspruchslandkarte BGB BT, Arbeitsnaher Dienstvertrag im BGB: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Anspruchsmatrix: Anspruchsgrundlage, Tatbestandsmerkmal, Tatsache, Beleg, Gegenargument, Beweislast und Rechtsfolge als Tabelle ausgeben; Klauselprüfung: Einbeziehung, Transparenz, Leitbildabweichung, unangemessene Benachteiligung und Ersatzfolge getrennt bewerten.
 
 ## 8. Stop
 

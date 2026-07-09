@@ -169,15 +169,15 @@ US-Cloud-Anbieter wird vom DOJ aufgefordert Daten herauszugeben. - Art. 48 Daten
 
 ### 15.5. Cyber Incident Response 72h
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; Datenschutz-Grundverordnung; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Cyber-Vorfall-Sofortmaßnahmen Ransomware Datenleck Hack
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; Datenschutz-Grundverordnung; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Datenschutz-Folgenabschaetzung DSFA nach Art
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; Datenschutz-Grundverordnung; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Datenschutzrecht Fehlerkatalog
 
@@ -197,7 +197,7 @@ rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine 
 
 ### 15.12. Datenschutz-Grundverordnung: Behörden-, Gerichts- oder Registerweg
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; Datenschutz-Grundverordnung; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Datenschutz-Grundverordnung Bussgeld Art 83 EuGH C 807 21
 
@@ -205,4 +205,4 @@ Aufsicht verhängt 14.5 Mio EUR Bussgeld gegen Tochter; Mutterkonzern haftet? - 
 
 ### 15.14. Dsv Art 9 Besondere Kategorien
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; Datenschutz-Grundverordnung; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

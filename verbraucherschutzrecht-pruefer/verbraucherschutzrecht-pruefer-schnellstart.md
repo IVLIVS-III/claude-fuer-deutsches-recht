@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Verbraucherschutzrecht Prüfer ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen zivilrechtlichen Anspruch, Vertrag, AGB-Klausel oder Verbraucherfall sofort nach Anspruchsgrundlage, Einwendung, Beweislast und Arbeitsprodukt ordnen.
 
 # Verbraucherschutzrecht Prüfer — Schnellstart
 
@@ -17,48 +17,49 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Online Shop Beschwerde Schreiben: Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG.
-2. Digitale Inhalte Widerruf Formulieren: Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG.
-3. Digitale Inhalte Schlichtung Wählen: Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG.
-4. Abo Falle Agb Redlinen: Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG.
-5. Abo Falle Anspruch Prüfen: Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG.
-6. Abo Falle Behördenmeldung Prüfen: Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG.
+1. Anspruchsziel: Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen.
+2. Anspruchsgrundlage: Vertragstyp, Zustandekommen, Form, Vertretung, Einbeziehung und AGB-Kontrolle in der richtigen Reihenfolge prüfen.
+3. Leistungsstörung: Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden.
+4. Einwendungen: Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten.
+5. Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen.
+6. Online Shop Beschwerde Schreiben: Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 13 BGB; Paragraf 14 BGB; Paragraf 312c BGB |
+| Normenanker | BGB Paragraf 104 bis Paragraf 185; BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGB Paragraf 305 bis Paragraf 310 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten |
+| Beweislast | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung |
+| Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Online Shop Beschwerde Schreiben | Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Digitale Inhalte Widerruf Formulieren | Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Digitale Inhalte Schlichtung Wählen | Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abo Falle Agb Redlinen | Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abo Falle Anspruch Prüfen | Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abo Falle Behördenmeldung Prüfen | Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Online Shop Beschwerde Schreiben | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Digitale Inhalte Widerruf Formulieren | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Digitale Inhalte Schlichtung Wählen | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abo Falle Agb Redlinen | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abo Falle Anspruch Prüfen | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abo Falle Behördenmeldung Prüfen | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- BGB Paragraf 104 bis Paragraf 185: Geschäftsfähigkeit, Willenserklärung, Zugang, Anfechtung, Stellvertretung und Zustimmung.
+- BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
+- BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
+- BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
 - Paragraf 13 BGB — Verbraucherbegriff: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 14 BGB — Unternehmerbegriff: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 312c BGB — Fernabsatzvertrag: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 312d BGB — Informationspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 355 Abs. 1 BGB — Widerrufsrecht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 357 BGB — Rechtsfolgen des Widerrufs: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 434 BGB — Sachmangel: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Online Shop Beschwerde Schreiben, Digitale Inhalte Widerruf Formulieren, Digitale Inhalte Schlichtung Wählen, Abo Falle Agb Redlinen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Anspruchsmatrix: Anspruchsgrundlage, Tatbestandsmerkmal, Tatsache, Beleg, Gegenargument, Beweislast und Rechtsfolge als Tabelle ausgeben; Klauselprüfung: Einbeziehung, Transparenz, Leitbildabweichung, unangemessene Benachteiligung und Ersatzfolge getrennt bewerten.
 
 ## 8. Stop
 

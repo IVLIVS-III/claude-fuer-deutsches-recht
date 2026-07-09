@@ -17,7 +17,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. /tabellenreview-3d:risikoampel-aggregation: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
+1. /tabellenreview-3d:risikoampel-aggregation: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 2. Anschluss-Routing: Dieses Anschluss-Routing für Tabellenreview 3d wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation.
 3. /tabellenreview-3d:arbeitsblatt-perspektiven-definieren: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
 4. Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine: Paragraf 611a Abs. 1 BGB — Arbeitsvertrag und Weisungsbindung. - Paragraf 241 Abs. 2 BGB —.
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | Paragraf 611a Abs. 1 BGB; Paragraf 611a Abs. 1 BGB; Paragraf 241 Abs. 2 BGB |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org |
+| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,7 +39,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| /tabellenreview-3d:risikoampel-aggregation | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| /tabellenreview-3d:risikoampel-aggregation | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anschluss-Routing | Dieses Anschluss-Routing für Tabellenreview 3d wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | /tabellenreview-3d:arbeitsblatt-perspektiven-definieren | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine | Paragraf 611a Abs. 1 BGB — Arbeitsvertrag und Weisungsbindung. - Paragraf 241 Abs. 2 BGB —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |

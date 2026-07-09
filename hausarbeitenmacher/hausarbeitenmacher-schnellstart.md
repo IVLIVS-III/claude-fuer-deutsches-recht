@@ -19,10 +19,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 1. Adressaten: Formular, Portal und Einreichungslogik: Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu.
 2. Anschluss-Routing: Dieses Anschluss-Routing für Hausarbeitenmacher wählt nach dem ersten Ergebnis die passende Vertiefung.
-3. Aufgabenstellung erfassen: Tragende Normen verifizieren: JAG/JAPO Land (Pflicht-Hausarbeit), HRG, Studien-/Prüfungsordnung, GG Art. 5 Abs. 3.
+3. Aufgabenstellung erfassen: Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Korrektor (Lehrstuhl/Justizprüfungsamt).
 4. Ausfluegen: Compliance-Dokumentation und Aktenvermerk: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
-5. Bearbeitungs-Plan erstellen: Tragende Normen verifizieren: JAG/JAPO Land (Pflicht-Hausarbeit), HRG, Studien-/Prüfungsordnung, GG Art. 5 Abs. 3.
-6. Behutsame, frech-wertschätzende Rückfragen — Stil-Anleitung: Tragende Normen verifizieren: JAG/JAPO Land (Pflicht-Hausarbeit), HRG, Studien-/Prüfungsordnung, GG Art. 5 Abs. 3.
+5. Bearbeitungs-Plan erstellen: Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Korrektor (Lehrstuhl/Justizprüfungsamt).
+6. Behutsame, frech-wertschätzende Rückfragen — Stil-Anleitung: Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Korrektor (Lehrstuhl/Justizprüfungsamt).
 
 ## 4. Fallkarte
 
@@ -41,10 +41,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- | --- |
 | Adressaten: Formular, Portal und Einreichungslogik | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anschluss-Routing | Dieses Anschluss-Routing für Hausarbeitenmacher wählt nach dem ersten Ergebnis die passende Vertiefung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufgabenstellung erfassen | Tragende Normen verifizieren: JAG/JAPO Land (Pflicht-Hausarbeit), HRG, Studien-/Prüfungsordnung, GG Art. 5 Abs. 3. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aufgabenstellung erfassen | Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Korrektor (Lehrstuhl/Justizprüfungsamt). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Ausfluegen: Compliance-Dokumentation und Aktenvermerk | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bearbeitungs-Plan erstellen | Tragende Normen verifizieren: JAG/JAPO Land (Pflicht-Hausarbeit), HRG, Studien-/Prüfungsordnung, GG Art. 5 Abs. 3. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Behutsame, frech-wertschätzende Rückfragen — Stil-Anleitung | Tragende Normen verifizieren: JAG/JAPO Land (Pflicht-Hausarbeit), HRG, Studien-/Prüfungsordnung, GG Art. 5 Abs. 3. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bearbeitungs-Plan erstellen | Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Korrektor (Lehrstuhl/Justizprüfungsamt). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Behutsame, frech-wertschätzende Rückfragen — Stil-Anleitung | Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Korrektor (Lehrstuhl/Justizprüfungsamt). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

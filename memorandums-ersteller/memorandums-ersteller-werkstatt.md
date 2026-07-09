@@ -127,11 +127,11 @@ Dieses Anschluss-Routing für Memorandums Ersteller wählt nach dem ersten Ergeb
 
 ### 15.2. Antworten: Mehrparteienkonflikt und Interessenmatrix
 
-Tragende Normen verifizieren: BRAO Paragrafen 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA Paragrafen 2, 5, 11, BGB Paragrafen 280, 675 (Anwaltshaftung), HOAI-/RVG-Aspekte, ZPO Paragraf 138 (Wahrheitspflicht) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Ausführungen: Formular, Portal und Einreichungslogik
 
-Tragende Normen verifizieren: BRAO Paragrafen 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA Paragrafen 2, 5, 11, BGB Paragrafen 280, 675 (Anwaltshaftung), HOAI-/RVG-Aspekte, ZPO Paragraf 138 (Wahrheitspflicht) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Dokumentenintake
 
@@ -139,7 +139,7 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 
 ### 15.5. Due-Diligence-Rechtsmemo
 
-Tragende Normen verifizieren: BRAO Paragrafen 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA Paragrafen 2, 5, 11, BGB Paragrafen 280, 675 (Anwaltshaftung), HOAI-/RVG-Aspekte, ZPO Paragraf 138 (Wahrheitspflicht) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Einstieg und Routing
 
@@ -147,27 +147,27 @@ Dieser Einstieg routet Memorandums Ersteller vom ersten Sachverhalt zu Rollen, F
 
 ### 15.7. Fragen: Compliance-Dokumentation und Aktenvermerk
 
-Tragende Normen verifizieren: BRAO Paragrafen 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA Paragrafen 2, 5, 11, BGB Paragrafen 280, 675 (Anwaltshaftung), HOAI-/RVG-Aspekte, ZPO Paragraf 138 (Wahrheitspflicht) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Gliederung: Schriftsatz-, Brief- und Memo-Bausteine
 
-Tragende Normen verifizieren: BRAO Paragrafen 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA Paragrafen 2, 5, 11, BGB Paragrafen 280, 675 (Anwaltshaftung), HOAI-/RVG-Aspekte, ZPO Paragraf 138 (Wahrheitspflicht) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Haftungsrisiko-Memo
 
-Tragende Normen verifizieren: BRAO Paragrafen 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA Paragrafen 2, 5, 11, BGB Paragrafen 280, 675 (Anwaltshaftung), HOAI-/RVG-Aspekte, ZPO Paragraf 138 (Wahrheitspflicht) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Juristisches: Fristen, Form, Zuständigkeit und Rechtsweg
 
-Tragende Normen verifizieren: BRAO Paragrafen 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA Paragrafen 2, 5, 11, BGB Paragrafen 280, 675 (Anwaltshaftung), HOAI-/RVG-Aspekte, ZPO Paragraf 138 (Wahrheitspflicht) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Memo: Laenge und Formate
 
-Tragende Normen verifizieren: BRAO Paragrafen 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA Paragrafen 2, 5, 11, BGB Paragrafen 280, 675 (Anwaltshaftung), HOAI-/RVG-Aspekte, ZPO Paragraf 138 (Wahrheitspflicht) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Schnell-Memo Mandantenanfrage
 
-Tragende Normen verifizieren: BRAO Paragrafen 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA Paragrafen 2, 5, 11, BGB Paragrafen 280, 675 (Anwaltshaftung), HOAI-/RVG-Aspekte, ZPO Paragraf 138 (Wahrheitspflicht) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Mandantenkommunikation
 
@@ -175,4 +175,4 @@ Dieser Arbeitsgang macht Mandantenkommunikation im Bereich memorandums-ersteller
 
 ### 15.14. Mandantenunterlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
-Tragende Normen verifizieren: BRAO Paragrafen 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA Paragrafen 2, 5, 11, BGB Paragrafen 280, 675 (Anwaltshaftung), HOAI-/RVG-Aspekte, ZPO Paragraf 138 (Wahrheitspflicht) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

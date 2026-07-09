@@ -17,12 +17,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. /anpassen — Kanzleiprofil und Einstellungen anpassen: Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG.
-2. Kanzlei-Builder-Hub — Allgemein: Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG.
-3. /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review: Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG.
+1. /anpassen — Kanzleiprofil und Einstellungen anpassen: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
+2. Kanzlei-Builder-Hub — Allgemein: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
+3. /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
 4. Builder: Übersicht Einsteiger: Einführender Überblick für Einsteiger: Was kann der Kanzlei-Builder-Hub? Skills installieren, deaktivieren.
 5. Builder: Zahlen, Schwellenwerte und Berechnung: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen.
-6. Community: Fristen, Form, Zuständigkeit und Rechtsweg: Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG.
+6. Community: Fristen, Form, Zuständigkeit und Rechtsweg: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
 
 ## 4. Fallkarte
 
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | Paragraf 43a BRAO; Paragraf 43e BRAO — Dienstleister-Regelung; Paragraf 43a Abs. 2 BRAO |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG |
+| Tatbestand | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| /anpassen — Kanzleiprofil und Einstellungen anpassen | Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kanzlei-Builder-Hub — Allgemein | Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review | Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| /anpassen — Kanzleiprofil und Einstellungen anpassen | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kanzlei-Builder-Hub — Allgemein | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Builder: Übersicht Einsteiger | Einführender Überblick für Einsteiger: Was kann der Kanzlei-Builder-Hub? Skills installieren, deaktivieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Builder: Zahlen, Schwellenwerte und Berechnung | rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Community: Fristen, Form, Zuständigkeit und Rechtsweg | Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Community: Fristen, Form, Zuständigkeit und Rechtsweg | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

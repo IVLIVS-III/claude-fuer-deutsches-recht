@@ -17,10 +17,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Volkseigener Betrieb Berechtigte Ermit: Tragende Normen verifizieren: VermG Paragrafen 1, 3, 4, 6, 30, 30a, InVorG, EALG, AusglLeistG, EntschG.
+1. Volkseigener Betrieb Berechtigte Ermit: Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale.
 2. Alte Ddr Unterlagen Auswerten: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste.
 3. Art 21 und Art 22 Vermögen Trennen: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
-4. Ausschlussfristen und Bestandskraft: Tragende Normen verifizieren: VermG Paragrafen 1, 3, 4, 6, 30, 30a, InVorG, EALG, AusglLeistG, EntschG.
+4. Ausschlussfristen und Bestandskraft: Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale.
 5. Behörde und Archiv Finden: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
 6. Bodenreform Grundbuch Lesen: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal.
 
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | aus Akte und belastbarer Quelle ableiten |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Tragende Normen verifizieren: VermG Paragrafen 1, 3, 4, 6, 30, 30a, InVorG, EALG, AusglLeistG, EntschG |
+| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,10 +39,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Volkseigener Betrieb Berechtigte Ermit | Tragende Normen verifizieren: VermG Paragrafen 1, 3, 4, 6, 30, 30a, InVorG, EALG, AusglLeistG, EntschG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Volkseigener Betrieb Berechtigte Ermit | Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Alte Ddr Unterlagen Auswerten | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Art 21 und Art 22 Vermögen Trennen | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ausschlussfristen und Bestandskraft | Tragende Normen verifizieren: VermG Paragrafen 1, 3, 4, 6, 30, 30a, InVorG, EALG, AusglLeistG, EntschG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ausschlussfristen und Bestandskraft | Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Behörde und Archiv Finden | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Bodenreform Grundbuch Lesen | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 

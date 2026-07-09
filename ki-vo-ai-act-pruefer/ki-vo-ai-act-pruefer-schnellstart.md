@@ -43,7 +43,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Regulierungsrahmen-OWi und interne Untersuchung | Vorwurf, Behörde, Frist, Logs, Interviews, Datenschutz, Legal-Privilege-Risiko und Verteidigungslinie sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Algorithmische Kollusion und Pricing-Systeme | Pricing-Zweck, Wettbewerberdaten, Hub-Dienstleister, menschliche Kontrolle, Kartellrechtsrisiko und Technikregulierung trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anbieter-Werden — Art. 25 Regulierungsrahmen | Eigenname, Eigenmarke, wesentliche Änderung, Zweckänderung, Produktintegration und Pflichtenwechsel nach Art. 25 trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwaltliche System-Nutzung und Quellencheck | Zweckbestimmung, Rolle, Risikoklasse, Stichtag, Nachweisakte, Rechtsfolge und Behördenrisiko in einer Entscheidungszeile verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwaltliche System-Nutzung und Quellencheck | Eigenname, Eigenmarke, wesentliche Änderung, Zweckänderung, Produktintegration und Pflichtenwechsel nach Art. 25 trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Art. 4 Regulierungsrahmen — System-Kompetenz als Compliance-Programm | Adressatenkreis, Rollen, Risikoklasse, Schulungsinhalt, Nachweis, Wiederholung und Verantwortlichkeit dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker

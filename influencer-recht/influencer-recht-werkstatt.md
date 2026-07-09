@@ -153,43 +153,43 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Influencer-Recht: Abmahnung wegen fehlender Werbekennzeichnung
 
-Tragende Normen verifizieren: UWG Paragrafen 3, 5, 5a, 8, 13, MStV Paragraf 22, DDG/TMG-Impressumspflichten, PAngV, HWG, MarkenG Paragrafen 14, 15, UrhG Paragrafen 15 ff., 19a, KUG Paragrafen 22, 23, Datenschutz-Grundverordnung Art. 5, 6, 9, 12-22, EStG/UStG/AO nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Influencer-Recht: Affiliate-Link, Rabattcode und Provision
 
-Tragende Normen verifizieren: UWG Paragrafen 3, 5, 5a, 8, 13, MStV Paragraf 22, DDG/TMG-Impressumspflichten, PAngV, HWG, MarkenG Paragrafen 14, 15, UrhG Paragrafen 15 ff., 19a, KUG Paragrafen 22, 23, Datenschutz-Grundverordnung Art. 5, 6, 9, 12-22, EStG/UStG/AO nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Influencer-Recht: Agenturvertrag – Exklusivität, Provision und Kündigung
 
-Tragende Normen verifizieren: UWG Paragrafen 3, 5, 5a, 8, 13, MStV Paragraf 22, DDG/TMG-Impressumspflichten, PAngV, HWG, MarkenG Paragrafen 14, 15, UrhG Paragrafen 15 ff., 19a, KUG Paragrafen 22, 23, Datenschutz-Grundverordnung Art. 5, 6, 9, 12-22, EStG/UStG/AO nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Influencer-Recht: Alkohol, Tabak und Cannabis – Werberestriktionen
 
-Tragende Normen verifizieren: UWG Paragrafen 3, 5, 5a, 8, 13, MStV Paragraf 22, DDG/TMG-Impressumspflichten, PAngV, HWG, MarkenG Paragrafen 14, 15, UrhG Paragrafen 15 ff., 19a, KUG Paragrafen 22, 23, Datenschutz-Grundverordnung Art. 5, 6, 9, 12-22, EStG/UStG/AO nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Influencer-Recht: Arbeitsrecht – Social-Media-Manager
 
-Tragende Normen verifizieren: UWG Paragrafen 3, 5, 5a, 8, 13, MStV Paragraf 22, DDG/TMG-Impressumspflichten, PAngV, HWG, MarkenG Paragrafen 14, 15, UrhG Paragrafen 15 ff., 19a, KUG Paragrafen 22, 23, Datenschutz-Grundverordnung Art. 5, 6, 9, 12-22, EStG/UStG/AO nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Influencer-Recht: Beauty-Filter und Irreführung
 
-Tragende Normen verifizieren: UWG Paragrafen 3, 5, 5a, 8, 13, MStV Paragraf 22, DDG/TMG-Impressumspflichten, PAngV, HWG, MarkenG Paragrafen 14, 15, UrhG Paragrafen 15 ff., 19a, KUG Paragrafen 22, 23, Datenschutz-Grundverordnung Art. 5, 6, 9, 12-22, EStG/UStG/AO nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Influencer-Recht: Betriebsfeier, Content und Datenschutz
 
-Tragende Normen verifizieren: UWG Paragrafen 3, 5, 5a, 8, 13, MStV Paragraf 22, DDG/TMG-Impressumspflichten, PAngV, HWG, MarkenG Paragrafen 14, 15, UrhG Paragrafen 15 ff., 19a, KUG Paragrafen 22, 23, Datenschutz-Grundverordnung Art. 5, 6, 9, 12-22, EStG/UStG/AO nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Influencer-Recht: Bewertungen, Rezensionen und Fake Reviews
 
-Tragende Normen verifizieren: UWG Paragrafen 3, 5, 5a, 8, 13, MStV Paragraf 22, DDG/TMG-Impressumspflichten, PAngV, HWG, MarkenG Paragrafen 14, 15, UrhG Paragrafen 15 ff., 19a, KUG Paragrafen 22, 23, Datenschutz-Grundverordnung Art. 5, 6, 9, 12-22, EStG/UStG/AO nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Influencer-Recht: Bildrechte – KUG, Beiwerk und Öffentlichkeit
 
-Tragende Normen verifizieren: UWG Paragrafen 3, 5, 5a, 8, 13, MStV Paragraf 22, DDG/TMG-Impressumspflichten, PAngV, HWG, MarkenG Paragrafen 14, 15, UrhG Paragrafen 15 ff., 19a, KUG Paragrafen 22, 23, Datenschutz-Grundverordnung Art. 5, 6, 9, 12-22, EStG/UStG/AO nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Influencer-Recht: Brand Deal – Leistungsbeschreibung, Abnahme und Nutzungsrechte
 
-Tragende Normen verifizieren: UWG Paragrafen 3, 5, 5a, 8, 13, MStV Paragraf 22, DDG/TMG-Impressumspflichten, PAngV, HWG, MarkenG Paragrafen 14, 15, UrhG Paragrafen 15 ff., 19a, KUG Paragrafen 22, 23, Datenschutz-Grundverordnung Art. 5, 6, 9, 12-22, EStG/UStG/AO nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Influencer-Recht: Buchhaltung, DATEV und Creator-Kontenplan
 
@@ -197,12 +197,12 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittste
 
 ### 15.12. Influencer-Recht: Content-Lizenz, Nutzungsdauer, Media Buyout und Whitelisting
 
-Tragende Normen verifizieren: UWG Paragrafen 3, 5, 5a, 8, 13, MStV Paragraf 22, DDG/TMG-Impressumspflichten, PAngV, HWG, MarkenG Paragrafen 14, 15, UrhG Paragrafen 15 ff., 19a, KUG Paragrafen 22, 23, Datenschutz-Grundverordnung Art. 5, 6, 9, 12-22, EStG/UStG/AO nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Influencer-Recht: Creator-Exit und Agenturwechsel
 
-Tragende Normen verifizieren: UWG Paragrafen 3, 5, 5a, 8, 13, MStV Paragraf 22, DDG/TMG-Impressumspflichten, PAngV, HWG, MarkenG Paragrafen 14, 15, UrhG Paragrafen 15 ff., 19a, KUG Paragrafen 22, 23, Datenschutz-Grundverordnung Art. 5, 6, 9, 12-22, EStG/UStG/AO nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Influencer-Recht: Creator-Fonds und Plattformauszahlung
 
-Tragende Normen verifizieren: UWG Paragrafen 3, 5, 5a, 8, 13, MStV Paragraf 22, DDG/TMG-Impressumspflichten, PAngV, HWG, MarkenG Paragrafen 14, 15, UrhG Paragrafen 15 ff., 19a, KUG Paragrafen 22, 23, Datenschutz-Grundverordnung Art. 5, 6, 9, 12-22, EStG/UStG/AO nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

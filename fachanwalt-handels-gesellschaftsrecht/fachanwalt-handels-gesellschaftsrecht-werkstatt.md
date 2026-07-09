@@ -153,11 +153,11 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Vorstandsvertrag AG vorbereiten: Paragrafen 84 ff
 
-Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); HGB Paragrafen 84-92c, EuGH zu Ausgleichsanspruch, BGB Paragrafen 305 ff.; Paragraf 14i. HGB. AktG. GmbHG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Aktg Behörden Gericht und Registerweg
 
-Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); HGB Paragrafen 84-92c, EuGH zu Ausgleichsanspruch, BGB Paragrafen 305 ff.; Paragraf 14i. HGB. AktG. GmbHG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Aktionaersklage Anfechtung Paragraf 243 AktG
 
@@ -173,7 +173,7 @@ klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; lie
 
 ### 15.6. Beschlussanfechtung Mehrparteien Konflikt und Interessen
 
-Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); HGB Paragrafen 84-92c, EuGH zu Ausgleichsanspruch, BGB Paragrafen 305 ff.; Paragraf 14i. HGB. AktG. GmbHG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Dokumentenintake
 
@@ -181,7 +181,7 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 
 ### 15.8. Einstieg in den Skill-Verbund Handels- und Gesellschaftsrecht
 
-Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); HGB Paragrafen 84-92c, EuGH zu Ausgleichsanspruch, BGB Paragrafen 305 ff.; Paragraf 14i. HGB. AktG. GmbHG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Anwalts-Dashboard Fachanwalt Handels- und Gesellschaftsrecht
 
@@ -189,15 +189,15 @@ Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 
 
 ### 15.10. Einstieg, Schnelltriage und Fallrouting
 
-Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); HGB Paragrafen 84-92c, EuGH zu Ausgleichsanspruch, BGB Paragrafen 305 ff.; Paragraf 14i. HGB. AktG. GmbHG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Erstgespraech Mandatsannahme
 
-Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); HGB Paragrafen 84-92c, EuGH zu Ausgleichsanspruch, BGB Paragrafen 305 ff.; Paragraf 14i. HGB. AktG. GmbHG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Erstprüfung und Mandatsziel
 
-Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); HGB Paragrafen 84-92c, EuGH zu Ausgleichsanspruch, BGB Paragrafen 305 ff.; Paragraf 14i. HGB. AktG. GmbHG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Fachanwalt Handels Gesellschaftsrecht Geschäftsfuehrerhaftung
 

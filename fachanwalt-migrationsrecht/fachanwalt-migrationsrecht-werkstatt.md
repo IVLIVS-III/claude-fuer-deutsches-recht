@@ -140,23 +140,23 @@ Prüfe Abschiebehaft Paragraf 62 AufenthG von der ersten Aktenordnung bis zur be
 
 ### 15.2. Abschiebung abwehren — Duldung Paragraf 60a AufenthG Abschiebungsverbote Paragraf 60 Abs
 
-Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58, 60, 60a-60d, 81, 84, 95; AsylG Paragrafen 13, 24-30, 34-38, 71, 74, 77; FreizügG/EU Paragrafen 2-5; StAG Paragrafen 4, 5, 8-10, 12a, 25, 30; AsylbLG Paragrafen 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Abschiebungshaft: Fachmodul im Migrationsrecht
 
-Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58, 60, 60a-60d, 81, 84, 95; AsylG Paragrafen 13, 24-30, 34-38, 71, 74, 77; FreizügG/EU Paragrafen 2-5; StAG Paragrafen 4, 5, 8-10, 12a, 25, 30; AsylbLG Paragrafen 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Abschiebungsverbot Paragraf 60 Abs
 
-Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58, 60, 60a-60d, 81, 84, 95; AsylG Paragrafen 13, 24-30, 34-38, 71, 74, 77; FreizügG/EU Paragrafen 2-5; StAG Paragrafen 4, 5, 8-10, 12a, 25, 30; AsylbLG Paragrafen 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Akteneinsicht Migration: Fachmodul im Migrationsrecht
 
-Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58, 60, 60a-60d, 81, 84, 95; AsylG Paragrafen 13, 24-30, 34-38, 71, 74, 77; FreizügG/EU Paragrafen 2-5; StAG Paragrafen 4, 5, 8-10, 12a, 25, 30; AsylbLG Paragrafen 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht
 
-Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58, 60, 60a-60d, 81, 84, 95; AsylG Paragrafen 13, 24-30, 34-38, 71, 74, 77; FreizügG/EU Paragrafen 2-5; StAG Paragrafen 4, 5, 8-10, 12a, 25, 30; AsylbLG Paragrafen 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Anschluss-Routing
 
@@ -164,19 +164,19 @@ Dieses Anschluss-Routing für Fachanwalt Migrationsrecht wählt nach dem ersten 
 
 ### 15.8. Arbeitgeberwechsel: Fachmodul im Migrationsrecht
 
-Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58, 60, 60a-60d, 81, 84, 95; AsylG Paragrafen 13, 24-30, 34-38, 71, 74, 77; FreizügG/EU Paragrafen 2-5; StAG Paragrafen 4, 5, 8-10, 12a, 25, 30; AsylbLG Paragrafen 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Asylanhörung/Glaubhaftigkeit: Fachmodul im Migrationsrecht
 
-Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58, 60, 60a-60d, 81, 84, 95; AsylG Paragrafen 13, 24-30, 34-38, 71, 74, 77; FreizügG/EU Paragrafen 2-5; StAG Paragrafen 4, 5, 8-10, 12a, 25, 30; AsylbLG Paragrafen 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Asyl Anhörung Vorbereiten
 
-Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58, 60, 60a-60d, 81, 84, 95; AsylG Paragrafen 13, 24-30, 34-38, 71, 74, 77; FreizügG/EU Paragrafen 2-5; StAG Paragrafen 4, 5, 8-10, 12a, 25, 30; AsylbLG Paragrafen 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Asyl Folgeantrag 71
 
-Tragende Normen verifizieren: AufenthG Paragrafen 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58, 60, 60a-60d, 81, 84, 95; AsylG Paragrafen 13, 24-30, 34-38, 71, 74, 77; FreizügG/EU Paragrafen 2-5; StAG Paragrafen 4, 5, 8-10, 12a, 25, 30; AsylbLG Paragrafen 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Asylantrag Folgeverfahren Paragraf 71 AsylG
 

@@ -59,7 +59,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGH, Urteil vom 18.03.2015 - VIII ZR 242/13: Schönheitsreparaturen bei unrenoviert überlassener Wohnung können formularmäßig nicht ohne Ausgleich überwaelzt werden.
 - BGH, Urteil vom 19.07.2024 - V ZR 102/23: Beschlüsse zu Jahresabrechnung/Wirtschaftsplan sind nach neuem Recht auf Vorschüsse, Nachschüsse und Vorschussanpassungen auszulegen
 - BGH, Urteil vom 20.09.2024 - V ZR 195/23: Fehler der Jahresabrechnung sind für die Ungültigkeit relevant, wenn sie die Abrechnungsspitze/Zahlungspflicht betreffen
-- BGH, Urteil vom 26.10.2012, V ZR 57/12: Die Abdichtungsebene des Bades gehört zum Gemeinschaftseigentum, auch wenn sie innerhalb der Wohnung liegt; ihr Eingriff für eine bodengleiche Dusche bedarf daher
 
 ## 7. Antwortform
 

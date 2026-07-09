@@ -17,12 +17,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Prüfung Vor Absenden: Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher).
-2. Aktenzeichen und Betreff: Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher).
-3. Amtssprache Entschluesseln: Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher).
-4. Anhörung Verstehen: Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher).
-5. Anlagenliste Verstehen: Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher).
-6. Antrag Stellungnahme Erklärung: Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher).
+1. Prüfung Vor Absenden: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher.
+2. Aktenzeichen und Betreff: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher.
+3. Amtssprache Entschluesseln: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher.
+4. Anhörung Verstehen: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher.
+5. Anlagenliste Verstehen: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher.
+6. Antrag Stellungnahme Erklärung: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher.
 
 ## 4. Fallkarte
 
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | aus Akte und belastbarer Quelle ableiten |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher) |
+| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Prüfung Vor Absenden | Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenzeichen und Betreff | Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Amtssprache Entschluesseln | Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anhörung Verstehen | Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anlagenliste Verstehen | Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antrag Stellungnahme Erklärung | Tragende Normen verifizieren: GVG Paragraf 184 (Gerichtssprache Deutsch), ZPO Paragraf 142 Abs. 3 (Dolmetscher). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Prüfung Vor Absenden | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenzeichen und Betreff | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Amtssprache Entschluesseln | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anhörung Verstehen | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anlagenliste Verstehen | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Antrag Stellungnahme Erklärung | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

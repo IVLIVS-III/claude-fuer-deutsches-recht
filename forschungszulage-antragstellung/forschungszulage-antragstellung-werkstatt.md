@@ -152,7 +152,7 @@ Dieses Anschluss-Routing für Forschungszulage Antragstellung wählt nach dem er
 
 ### 15.5. Antrag: Zahlen, Schwellenwerte und Berechnung
 
-Tragende Normen verifizieren: FZulG Paragrafen 1-12, BsGav Forschungszulagen-Verordnung, EStG, KStG, GewStG (Anrechnung), EU-AGVO (VO 651/2014), Frascati-Handbuch, BSFZ-Richtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anspruchsberechtigtes Unternehmen, Bescheinigungsstelle Forschungszulage (BSFZ), Finanzamt (Festsetzung/Verrechnung), Wirtschaftsprüfer/Steuerberater. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage
 

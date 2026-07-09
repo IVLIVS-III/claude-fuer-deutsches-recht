@@ -167,7 +167,7 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlun
 
 ### 15.4. APAS Verfahren Antwortstrategie Organisation
 
-Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO Paragrafen 67 ff., AnwGH, BGH (Anwaltssenat) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. APAS Verfahren Fraud Red Team Korrektur
 
@@ -175,7 +175,7 @@ zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert e
 
 ### 15.6. Arbeitspapiere Netzwerk Qualitätskontrolle
 
-Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO Paragrafen 67 ff., AnwGH, BGH (Anwaltssenat) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Aufbewahrung Prüfungsakte
 
@@ -191,7 +191,7 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlun
 
 ### 15.10. Aufbewahrung Prüfungsakte Organisationspflicht
 
-Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO Paragrafen 67 ff., AnwGH, BGH (Anwaltssenat) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Auslandsmandat Ethics
 
@@ -207,4 +207,4 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlun
 
 ### 15.14. Auslandsmandat und Ethics Code Organisations
 
-Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BRAO Paragrafen 113 ff., BNotO Paragrafen 95 ff., StBerG Paragrafen 89 ff., WPO Paragrafen 67 ff., AnwGH, BGH (Anwaltssenat) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

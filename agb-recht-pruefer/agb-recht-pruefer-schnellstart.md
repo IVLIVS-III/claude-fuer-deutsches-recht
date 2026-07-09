@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Agb Recht Prüfer ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen zivilrechtlichen Anspruch, Vertrag, AGB-Klausel oder Verbraucherfall sofort nach Anspruchsgrundlage, Einwendung, Beweislast und Arbeitsprodukt ordnen.
 
 # Agb Recht Prüfer — Schnellstart
 
@@ -17,51 +17,52 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abmahnung Reagieren: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste.
-2. Abnahme Testing: Klauselproblem (Abnahme Testing): prüft, redlined und entwirft die Klausel mit Risikoampel.
-3. Abtretung: Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13.
-4. Adversarial Test AGB: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste.
-5. Änderungsvorbehalt 308: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste.
-6. Agb Anwaltsvertrag und Allg Mandatsbedingungen: Klauselproblem (Agb Anwaltsvertrag Und Allg Mandatsbedingungen): AGB im Anwaltsvertrag und Allgemeine.
+1. Anspruchsziel: Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen.
+2. Anspruchsgrundlage: Vertragstyp, Zustandekommen, Form, Vertretung, Einbeziehung und AGB-Kontrolle in der richtigen Reihenfolge prüfen.
+3. Leistungsstörung: Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden.
+4. Einwendungen: Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten.
+5. Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen.
+6. Abmahnung Reagieren: Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | 1. Normenstand sichern; Paragraf 305 BGB (Einbeziehung von AGB); Paragraf 305c BGB (überraschende und mehrdeutige Klauseln) |
+| Normenanker | BGB Paragraf 104 bis Paragraf 185; BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGB Paragraf 305 bis Paragraf 310 |
 | Rechtsprechung | BGH I ZR 186/17 zur Reichweite der Verbandsklagebefugnis; BGH I ZR 7/16 (Planet49) zu Cookie-Einwilligung und transparenter |
-| Tatbestand | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten |
+| Beweislast | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung |
+| Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abmahnung Reagieren | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abnahme Testing | Klauselproblem (Abnahme Testing): prüft, redlined und entwirft die Klausel mit Risikoampel. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abtretung | Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Adversarial Test AGB | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Änderungsvorbehalt 308 | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Agb Anwaltsvertrag und Allg Mandatsbedingungen | Klauselproblem (Agb Anwaltsvertrag Und Allg Mandatsbedingungen): AGB im Anwaltsvertrag und Allgemeine. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abmahnung Reagieren | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abnahme Testing | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abtretung | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Adversarial Test AGB | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Änderungsvorbehalt 308 | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Agb Anwaltsvertrag und Allg Mandatsbedingungen | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- BGB Paragraf 104 bis Paragraf 185: Geschäftsfähigkeit, Willenserklärung, Zugang, Anfechtung, Stellvertretung und Zustimmung.
+- BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
+- BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
+- BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
 - 1. Normenstand sichern: Vor tragenden Aussagen BGB Paragrafen 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 305 BGB (Einbeziehung von AGB): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 305c BGB (überraschende und mehrdeutige Klauseln): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 306 BGB (Rechtsfolgen bei Nichteinbeziehung und Unwirksamkeit): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 307 BGB (Inhaltskontrolle, Transparenzgebot): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 308 BGB (Klauselverbote mit Wertungsmöglichkeit): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 309 BGB (Klauselverbote ohne Wertungsmöglichkeit): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH I ZR 186/17 zur Reichweite der Verbandsklagebefugnis bei Datenschutz-/UWG-Verstößen
 - BGH I ZR 7/16 (Planet49) zu Cookie-Einwilligung und transparenter Nutzerentscheidung
 - BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung)
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abmahnung Reagieren, Abnahme Testing, Abtretung, Adversarial Test AGB: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Anspruchsmatrix: Anspruchsgrundlage, Tatbestandsmerkmal, Tatsache, Beleg, Gegenargument, Beweislast und Rechtsfolge als Tabelle ausgeben; Klauselprüfung: Einbeziehung, Transparenz, Leitbildabweichung, unangemessene Benachteiligung und Ersatzfolge getrennt bewerten.
 
 ## 8. Stop
 

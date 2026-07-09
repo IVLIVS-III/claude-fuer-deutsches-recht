@@ -169,11 +169,11 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutz
 
 ### 15.2. Akteneinsicht Auswerten
 
-Tragende Normen verifizieren: SGG Paragrafen 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; Paragraf 84 SGG Klage; Paragraf 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Anlagen Erstellen
 
-Tragende Normen verifizieren: SGG Paragrafen 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; Paragraf 84 SGG Klage; Paragraf 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Arbeitslosengeld Paragraf 150 sgb iii
 
@@ -185,11 +185,11 @@ Prüfe Arbeitsunfall Paragraf 8 sgb vii von der ersten Aktenordnung bis zur bela
 
 ### 15.6. 60-Sekunden-Sofortprüfung der Frist eines sozialrechtlichen Bescheids
 
-Tragende Normen verifizieren: SGG Paragrafen 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; Paragraf 84 SGG Klage; Paragraf 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Bescheidanalyse
 
-Tragende Normen verifizieren: SGG Paragrafen 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; Paragraf 84 SGG Klage; Paragraf 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Bürgergeld Sanktion Paragraf 31 SGB Ii BVerfG 1 Bvl 7 16
 
@@ -197,7 +197,7 @@ JC verhängt 30 Prozent Kürzung wegen Terminversäumnis. - Paragraf 31 SGB - Pa
 
 ### 15.9. Eilantrag Sozialrecht
 
-Tragende Normen verifizieren: SGG Paragrafen 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; Paragraf 84 SGG Klage; Paragraf 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Eingliederungshilfe Paragraf 99 sgb ix
 
@@ -205,16 +205,16 @@ Prüfe Eingliederungshilfe Paragraf 99 sgb ix von der ersten Aktenordnung bis zu
 
 ### 15.11. Eingliederungshilfe Schule
 
-Tragende Normen verifizieren: SGG Paragrafen 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; Paragraf 84 SGG Klage; Paragraf 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Einstieg
 
-Tragende Normen verifizieren: SGG Paragrafen 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; Paragraf 84 SGG Klage; Paragraf 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Erstgespraech Mandatsannahme
 
-Tragende Normen verifizieren: SGG Paragrafen 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; Paragraf 84 SGG Klage; Paragraf 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Erwerbsminderungsrente
 
-Tragende Normen verifizieren: SGG Paragrafen 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; Paragraf 84 SGG Klage; Paragraf 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

@@ -17,7 +17,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Cross-Compliance und GLOEZ-Praxis: Verpflichtungen, Kontrollen, Folgen Kürzung Direktzahlungen, Widerspruch.: Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah prüfen.
+1. Cross-Compliance und GLOEZ-Praxis: Verpflichtungen, Kontrollen, Folgen Kürzung Direktzahlungen, Widerspruch.: Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft.
 2. Agrarrecht: Rechtsquellen: Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah prüfen.
 3. GAP-Strategieplan Deutschland und EU-Förderung einführend: Direktzahlungen Einkommensgrundstützung.: Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah prüfen.
 4. Spezialfall Jagdpachtstreit: Bundesjagdgesetz BJagdG, Landesjagdgesetze, Kündigungsgründe, Wildschaden.: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | Paragrafen 585 ff. BGB; Paragraf 1922 Abs. 1 BGB; Paragraf 1922 Abs. 1 BGB |
 | Rechtsprechung | BGH 22.05.2002 IV ZR 256/01; OLG Hamm 12.03.2021 10 W 47/20 |
-| Tatbestand | Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah prüfen |
+| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,7 +39,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Cross-Compliance und GLOEZ-Praxis: Verpflichtungen, Kontrollen, Folgen Kürzung Direktzahlungen, Widerspruch. | Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Cross-Compliance und GLOEZ-Praxis: Verpflichtungen, Kontrollen, Folgen Kürzung Direktzahlungen, Widerspruch. | Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Agrarrecht: Rechtsquellen | Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | GAP-Strategieplan Deutschland und EU-Förderung einführend: Direktzahlungen Einkommensgrundstützung. | Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Spezialfall Jagdpachtstreit: Bundesjagdgesetz BJagdG, Landesjagdgesetze, Kündigungsgründe, Wildschaden. | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |

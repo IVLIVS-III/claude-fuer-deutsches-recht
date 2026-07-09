@@ -166,7 +166,7 @@ Wer ein Hochrisiko-System-System oder GPAI-Modell unter seinem eigenen Namen ode
 
 ### 15.5. Anwaltliche digitale Werkzeuge-Nutzung und Quellencheck
 
-Tragende Normen verifizieren: Regulierungsrahmen (EU 2024/1689) Art. 3, 5 (Verbote), 6 (Hochrisiko), 8-15 (Anforderungen), 16, 26 (Pflichten Anbieter/Betreiber), 50 (Transparenz), 51-55 (GPAI), 73, 99 (Sanktionen) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter, Betreiber, Importeur, Händler, Marktüberwachungsbehörde (BNetzA/BMDV), benannte Stelle, EU-algorithmische Systeme-Office, algorithmische Systeme Board. - Dokumente und Beweismittel sammeln und auf Lücken. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Art. 4 europäischer Technikregulierungsrahmen — digitale Werkzeuge-Kompetenz als Compliance-Programm
 

@@ -17,8 +17,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Bürgergeld Krankenversicherung Dashbo: Tragende Normen verifizieren: BHO, LHO, KomHV-Doppik, GG Art. 109-115, VwVfG, BRH-Bemerkungen, EU-Haushaltsordnung.
-2. Globaler Minderausgabe Dashboard Bauen: Tragende Normen verifizieren: BHO, LHO, KomHV-Doppik, GG Art. 109-115, VwVfG, BRH-Bemerkungen, EU-Haushaltsordnung.
+1. Bürgergeld Krankenversicherung Dashbo: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
+2. Globaler Minderausgabe Dashboard Bauen: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 3. Bho 65 Beteiligung Unternehmen Praktis: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
 4. Verpflichtungsermaechtigung Prüfen: Verpflichtungsermaechtigung Prüfen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang.
 5. Deckungsfähigkeit Prüfen: Deckungsfähigkeit Prüfen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich.
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | Art. 109 Abs. 3 GG; Art. 110 Abs. 1 GG; Art. 112 GG |
 | Rechtsprechung | BVerfG 2 BvF 1/22 (Schuldenbremse, Klimafonds-Urteil); BVerwG 8 C 8.14 (Zuwendungsrecht, Vertrauensschutz) |
-| Tatbestand | Tragende Normen verifizieren: BHO, LHO, KomHV-Doppik, GG Art. 109-115, VwVfG, BRH-Bemerkungen, EU-Haushaltsordnung |
+| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,8 +39,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Bürgergeld Krankenversicherung Dashbo | Tragende Normen verifizieren: BHO, LHO, KomHV-Doppik, GG Art. 109-115, VwVfG, BRH-Bemerkungen, EU-Haushaltsordnung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Globaler Minderausgabe Dashboard Bauen | Tragende Normen verifizieren: BHO, LHO, KomHV-Doppik, GG Art. 109-115, VwVfG, BRH-Bemerkungen, EU-Haushaltsordnung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bürgergeld Krankenversicherung Dashbo | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Globaler Minderausgabe Dashboard Bauen | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Bho 65 Beteiligung Unternehmen Praktis | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Verpflichtungsermaechtigung Prüfen | Verpflichtungsermaechtigung Prüfen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Deckungsfähigkeit Prüfen | Deckungsfähigkeit Prüfen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |

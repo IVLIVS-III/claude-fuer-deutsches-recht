@@ -123,7 +123,7 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Volkseigener Betrieb Berechtigte Ermit
 
-Tragende Normen verifizieren: VermG Paragrafen 1, 3, 4, 6, 30, 30a, InVorG, EALG, AusglLeistG, EntschG, SachenRBerG, Einigungsvertrag Anlage I/II, BGB Paragrafen 985, 894 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter. - Dokumente und Beweismittel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Alte Ddr Unterlagen Auswerten
 
@@ -135,7 +135,7 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutz
 
 ### 15.4. Ausschlussfristen und Bestandskraft
 
-Tragende Normen verifizieren: VermG Paragrafen 1, 3, 4, 6, 30, 30a, InVorG, EALG, AusglLeistG, EntschG, SachenRBerG, Einigungsvertrag Anlage I/II, BGB Paragrafen 985, 894 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter. - Dokumente und Beweismittel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Behörde und Archiv Finden
 
@@ -151,28 +151,28 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutz
 
 ### 15.8. Bodenreformland Anspruchspfad Prüfen
 
-Tragende Normen verifizieren: VermG Paragrafen 1, 3, 4, 6, 30, 30a, InVorG, EALG, AusglLeistG, EntschG, SachenRBerG, Einigungsvertrag Anlage I/II, BGB Paragrafen 985, 894 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter. - Dokumente und Beweismittel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Bodenreformland Behördenbrief Schreib
 
-Tragende Normen verifizieren: VermG Paragrafen 1, 3, 4, 6, 30, 30a, InVorG, EALG, AusglLeistG, EntschG, SachenRBerG, Einigungsvertrag Anlage I/II, BGB Paragrafen 985, 894 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter. - Dokumente und Beweismittel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Bodenreformland Berechtigte Ermitteln
 
-Tragende Normen verifizieren: VermG Paragrafen 1, 3, 4, 6, 30, 30a, InVorG, EALG, AusglLeistG, EntschG, SachenRBerG, Einigungsvertrag Anlage I/II, BGB Paragrafen 985, 894 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter. - Dokumente und Beweismittel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Bodenreformland Chronologie Bauen
 
-Tragende Normen verifizieren: VermG Paragrafen 1, 3, 4, 6, 30, 30a, InVorG, EALG, AusglLeistG, EntschG, SachenRBerG, Einigungsvertrag Anlage I/II, BGB Paragrafen 985, 894 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter. - Dokumente und Beweismittel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Bodenreformland Fristproblem Markieren
 
-Tragende Normen verifizieren: VermG Paragrafen 1, 3, 4, 6, 30, 30a, InVorG, EALG, AusglLeistG, EntschG, SachenRBerG, Einigungsvertrag Anlage I/II, BGB Paragrafen 985, 894 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter. - Dokumente und Beweismittel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Bodenreformland Grundbuch Auswerten
 
-Tragende Normen verifizieren: VermG Paragrafen 1, 3, 4, 6, 30, 30a, InVorG, EALG, AusglLeistG, EntschG, SachenRBerG, Einigungsvertrag Anlage I/II, BGB Paragrafen 985, 894 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter. - Dokumente und Beweismittel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Bodenreformland Klage Skizzieren
 
-Tragende Normen verifizieren: VermG Paragrafen 1, 3, 4, 6, 30, 30a, InVorG, EALG, AusglLeistG, EntschG, SachenRBerG, Einigungsvertrag Anlage I/II, BGB Paragrafen 985, 894 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter. - Dokumente und Beweismittel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

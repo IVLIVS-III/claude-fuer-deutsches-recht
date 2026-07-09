@@ -18,10 +18,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 ## 3. Kernroute
 
 1. Anschluss-Routing: Dieses Anschluss-Routing für Memorandums Ersteller wählt nach dem ersten Ergebnis die passende Vertiefung.
-2. Antworten: Mehrparteienkonflikt und Interessenmatrix: Tragende Normen verifizieren: BRAO Paragrafen 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA Paragrafen 2, 5, 11.
-3. Ausführungen: Formular, Portal und Einreichungslogik: Tragende Normen verifizieren: BRAO Paragrafen 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA Paragrafen 2, 5, 11.
+2. Antworten: Mehrparteienkonflikt und Interessenmatrix: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern.
+3. Ausführungen: Formular, Portal und Einreichungslogik: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern.
 4. Dokumentenintake: Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren.
-5. Due-Diligence-Rechtsmemo: Tragende Normen verifizieren: BRAO Paragrafen 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA Paragrafen 2, 5, 11.
+5. Due-Diligence-Rechtsmemo: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern.
 6. Einstieg und Routing: Dieser Einstieg routet Memorandums Ersteller vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle.
 
 ## 4. Fallkarte
@@ -40,10 +40,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Anschluss-Routing | Dieses Anschluss-Routing für Memorandums Ersteller wählt nach dem ersten Ergebnis die passende Vertiefung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antworten: Mehrparteienkonflikt und Interessenmatrix | Tragende Normen verifizieren: BRAO Paragrafen 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA Paragrafen 2, 5, 11. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ausführungen: Formular, Portal und Einreichungslogik | Tragende Normen verifizieren: BRAO Paragrafen 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA Paragrafen 2, 5, 11. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Antworten: Mehrparteienkonflikt und Interessenmatrix | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ausführungen: Formular, Portal und Einreichungslogik | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Dokumentenintake | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Due-Diligence-Rechtsmemo | Tragende Normen verifizieren: BRAO Paragrafen 43a, 43b, 49b (Verschwiegenheit/Haftung), BORA Paragrafen 2, 5, 11. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Due-Diligence-Rechtsmemo | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Einstieg und Routing | Dieser Einstieg routet Memorandums Ersteller vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker

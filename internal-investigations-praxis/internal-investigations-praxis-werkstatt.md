@@ -138,7 +138,7 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Bilanzierungsunregelmäßigkeiten und Accounting-Forensik
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Kaltstart Internal Investigation
 
@@ -146,11 +146,11 @@ Dieser Skill führt nicht schematisch durch Kaltstart Internal Investigation, so
 
 ### 15.3. Arbeitsrechtliche Mitwirkungspflichten
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. abrufen Committee
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Untersuchungsauftrag und Scope
 
@@ -158,36 +158,36 @@ entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert ein
 
 ### 15.6. BaFin-Prüfungsfeststellungen und Bankregulatorik
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Behördenstrategie und Self-Reporting
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Betriebsrat und Mitbestimmung
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Board Special Committee und Sonderuntersuchungsausschuss
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Bestechungs-Red-Flags und Korruptionsermittlung
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Kartell-Dawn-Raid und Leniency
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Chat-Review
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Interessenkonflikte – Untersuchung und Prävention
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Kostenerstattung und Schadensersatz gegen Mitarbeiter
 
-Tragende Normen verifizieren: Datenschutz-Grundverordnung Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG Paragrafen 22-25, 26, 30; StPO Paragrafen 53, 97, 102, 110, 136, 137, 152, 153a, BGB Paragrafen 280, 626, BRAO Paragraf 43a, GwG, AntiDopG, HinSchG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

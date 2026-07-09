@@ -151,47 +151,47 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Aktienrecht Gleichbehandlung 53a
 
-Tragende Normen verifizieren: StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270; GmbHG Paragrafen 13, 43, AktG Paragrafen 76, 93, 116, BGB Paragrafen 705 ff., HGB Paragrafen 109 ff., BGH II ZR 240/13 (Lux-Treuepflicht) — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Aktionaerstreuepflicht
 
-Tragende Normen verifizieren: StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270; GmbHG Paragrafen 13, 43, AktG Paragrafen 76, 93, 116, BGB Paragrafen 705 ff., HGB Paragrafen 109 ff., BGH II ZR 240/13 (Lux-Treuepflicht) — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Anfechtung und Rechtsmissbrauch
 
-Tragende Normen verifizieren: StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270; GmbHG Paragrafen 13, 43, AktG Paragrafen 76, 93, 116, BGB Paragrafen 705 ff., HGB Paragrafen 109 ff., BGH II ZR 240/13 (Lux-Treuepflicht) — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Anspruchsziele
 
-Tragende Normen verifizieren: StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270; GmbHG Paragrafen 13, 43, AktG Paragrafen 76, 93, 116, BGB Paragrafen 705 ff., HGB Paragrafen 109 ff., BGH II ZR 240/13 (Lux-Treuepflicht) — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Treuepflicht Aufsichtsrat Schnittstelle
 
-Tragende Normen verifizieren: StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270; GmbHG Paragrafen 13, 43, AktG Paragrafen 76, 93, 116, BGB Paragrafen 705 ff., HGB Paragrafen 109 ff., BGH II ZR 240/13 (Lux-Treuepflicht) — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Auskunft und Rechnungslegung
 
-Tragende Normen verifizieren: StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270; GmbHG Paragrafen 13, 43, AktG Paragrafen 76, 93, 116, BGB Paragrafen 705 ff., HGB Paragrafen 109 ff., BGH II ZR 240/13 (Lux-Treuepflicht) — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Ausschlussklage
 
-Tragende Normen verifizieren: StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270; GmbHG Paragrafen 13, 43, AktG Paragrafen 76, 93, 116, BGB Paragrafen 705 ff., HGB Paragrafen 109 ff., BGH II ZR 240/13 (Lux-Treuepflicht) — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Austritt Kündigung
 
-Tragende Normen verifizieren: StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270; GmbHG Paragrafen 13, 43, AktG Paragrafen 76, 93, 116, BGB Paragrafen 705 ff., HGB Paragrafen 109 ff., BGH II ZR 240/13 (Lux-Treuepflicht) — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Bank und Finanziererrolle
 
-Tragende Normen verifizieren: StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270; GmbHG Paragrafen 13, 43, AktG Paragrafen 76, 93, 116, BGB Paragrafen 705 ff., HGB Paragrafen 109 ff., BGH II ZR 240/13 (Lux-Treuepflicht) — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Beschlussanfechtung
 
-Tragende Normen verifizieren: StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270; GmbHG Paragrafen 13, 43, AktG Paragrafen 76, 93, 116, BGB Paragrafen 705 ff., HGB Paragrafen 109 ff., BGH II ZR 240/13 (Lux-Treuepflicht) — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Beweismatrix
 
-Tragende Normen verifizieren: StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270; GmbHG Paragrafen 13, 43, AktG Paragrafen 76, 93, 116, BGB Paragrafen 705 ff., HGB Paragrafen 109 ff., BGH II ZR 240/13 (Lux-Treuepflicht) — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Beweis und Dokumentation
 
@@ -199,8 +199,8 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast
 
 ### 15.13. Bezugsrecht und Verwaesserung
 
-Tragende Normen verifizieren: StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270; GmbHG Paragrafen 13, 43, AktG Paragrafen 76, 93, 116, BGB Paragrafen 705 ff., HGB Paragrafen 109 ff., BGH II ZR 240/13 (Lux-Treuepflicht) — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Bezugsrechtsausschluss
 
-Tragende Normen verifizieren: StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270; GmbHG Paragrafen 13, 43, AktG Paragrafen 76, 93, 116, BGB Paragrafen 705 ff., HGB Paragrafen 109 ff., BGH II ZR 240/13 (Lux-Treuepflicht) — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

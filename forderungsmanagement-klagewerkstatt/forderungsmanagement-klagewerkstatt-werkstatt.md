@@ -171,7 +171,7 @@ Zentrale Sammelstelle für Betraege Schwellen Zinsen und Gebühren in Forderungs
 
 ### 15.9. Fehlerkatalog Forderungsmanagement
 
-Eine Sammlung der haeufigsten Fehler aus der Praxis. - ZPO 130d 167 689 690 850c - BGB 197 286 - InsO 89 - ZPO 850c - BGB 197 - InsO 89. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Eine Sammlung der haeufigsten Fehler aus der Praxis. - ZPO 130d 167 689 690 850c - BGB 197 286 - InsO 89. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. FMKW: Mahnverfahren Bauleiter
 

@@ -140,15 +140,15 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Advertising und Promotional Campaigns
 
-Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO (electronic Copyright Office), Berner Übereinkunft Art. 5, WIPO Copyright Treaty, deutsches UrhG (für US-Werke nach IPR) — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC), Registrierungsagent, Distributor, US-Anwalt. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Form TX/PA/VA/SR-Anmeldung, Deposit Copy, eCO-Registrierung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. digitale Werkzeuge Contract Disclosure und Warranties
 
-Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO (electronic Copyright Office), Berner Übereinkunft Art. 5, WIPO Copyright Treaty, deutsches UrhG (für US-Werke nach IPR) — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC), Registrierungsagent, Distributor, US-Anwalt. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Form TX/PA/VA/SR-Anmeldung, Deposit Copy, eCO-Registrierung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. digitale Werkzeuge Generated Material Disclosure
 
-Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO (electronic Copyright Office), Berner Übereinkunft Art. 5, WIPO Copyright Treaty, deutsches UrhG (für US-Werke nach IPR) — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC), Registrierungsagent, Distributor, US-Anwalt. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Form TX/PA/VA/SR-Anmeldung, Deposit Copy, eCO-Registrierung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. digitale Werkzeuge Output und Copyrightability
 
@@ -156,15 +156,15 @@ Entscheidende Weiche: Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, 
 
 ### 15.5. digitale Werkzeuge Training und Fair Use Risk
 
-Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO (electronic Copyright Office), Berner Übereinkunft Art. 5, WIPO Copyright Treaty, deutsches UrhG (für US-Werke nach IPR) — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC), Registrierungsagent, Distributor, US-Anwalt. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Form TX/PA/VA/SR-Anmeldung, Deposit Copy, eCO-Registrierung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Anti-Circumvention Paragraf 1201
 
-Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO (electronic Copyright Office), Berner Übereinkunft Art. 5, WIPO Copyright Treaty, deutsches UrhG (für US-Werke nach IPR) — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC), Registrierungsagent, Distributor, US-Anwalt. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Form TX/PA/VA/SR-Anmeldung, Deposit Copy, eCO-Registrierung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Architectural Works Paragraf 120
 
-Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO (electronic Copyright Office), Berner Übereinkunft Art. 5, WIPO Copyright Treaty, deutsches UrhG (für US-Werke nach IPR) — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC), Registrierungsagent, Distributor, US-Anwalt. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Form TX/PA/VA/SR-Anmeldung, Deposit Copy, eCO-Registrierung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Attorney’s Fees Paragraf 505
 
@@ -172,24 +172,24 @@ entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert ein
 
 ### 15.9. Autorenschaft, Work Made For Hire und Rechtekette
 
-Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO (electronic Copyright Office), Berner Übereinkunft Art. 5, WIPO Copyright Treaty, deutsches UrhG (für US-Werke nach IPR) — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC), Registrierungsagent, Distributor, US-Anwalt. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Form TX/PA/VA/SR-Anmeldung, Deposit Copy, eCO-Registrierung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Backlist Rights Gap abrufen
 
-Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO (electronic Copyright Office), Berner Übereinkunft Art. 5, WIPO Copyright Treaty, deutsches UrhG (für US-Werke nach IPR) — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC), Registrierungsagent, Distributor, US-Anwalt. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Form TX/PA/VA/SR-Anmeldung, Deposit Copy, eCO-Registrierung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Best Edition und Kopienzahl
 
-Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO (electronic Copyright Office), Berner Übereinkunft Art. 5, WIPO Copyright Treaty, deutsches UrhG (für US-Werke nach IPR) — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC), Registrierungsagent, Distributor, US-Anwalt. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Form TX/PA/VA/SR-Anmeldung, Deposit Copy, eCO-Registrierung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Characters und Fictional Universe
 
-Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO (electronic Copyright Office), Berner Übereinkunft Art. 5, WIPO Copyright Treaty, deutsches UrhG (für US-Werke nach IPR) — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC), Registrierungsagent, Distributor, US-Anwalt. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Form TX/PA/VA/SR-Anmeldung, Deposit Copy, eCO-Registrierung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Collective Work, Beiträge und Periodika
 
-Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO (electronic Copyright Office), Berner Übereinkunft Art. 5, WIPO Copyright Treaty, deutsches UrhG (für US-Werke nach IPR) — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC), Registrierungsagent, Distributor, US-Anwalt. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Form TX/PA/VA/SR-Anmeldung, Deposit Copy, eCO-Registrierung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Compilations und Derivative Works
 
-Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO (electronic Copyright Office), Berner Übereinkunft Art. 5, WIPO Copyright Treaty, deutsches UrhG (für US-Werke nach IPR) — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC), Registrierungsagent, Distributor, US-Anwalt. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Form TX/PA/VA/SR-Anmeldung, Deposit Copy, eCO-Registrierung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

@@ -152,11 +152,11 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Verkehrs- und Infrastrukturrecht — Allgemein
 
-Tragende Normen verifizieren: FStrG, BWaStrG, AEG, BImSchG, UVPG, ROG, BauGB Paragrafen 38, 246, VwVfG Paragrafen 72-78 (Planfeststellung), VwGO Paragrafen 47 ff., BNatSchG Paragrafen 14, 15, 34, 44, WHG Paragrafen 8, 67, EU-FFH-RL, UmwRG — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger (Bund, Land, DB Netz, Autobahn GmbH), Planfeststellungsbehörde, Anhörungsbehörde, anerkannte Umweltvereinigungen (BUND, NABU), VG, OVG, BVerwG (1. Senat). - Dokumente und Beweismittel sammeln. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Verkehrs- und Infrastrukturrecht — Kommandocenter
 
-Tragende Normen verifizieren: FStrG, BWaStrG, AEG, BImSchG, UVPG, ROG, BauGB Paragrafen 38, 246, VwVfG Paragrafen 72-78 (Planfeststellung), VwGO Paragrafen 47 ff., BNatSchG Paragrafen 14, 15, 34, 44, WHG Paragrafen 8, 67, EU-FFH-RL, UmwRG — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger (Bund, Land, DB Netz, Autobahn GmbH), Planfeststellungsbehörde, Anhörungsbehörde, anerkannte Umweltvereinigungen (BUND, NABU), VG, OVG, BVerwG (1. Senat). - Dokumente und Beweismittel sammeln. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Autonomous: Compliance-Dokumentation und Aktenvermerk
 
@@ -164,11 +164,11 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutz
 
 ### 15.4. Autonomes Fahren: Strassenrecht
 
-Tragende Normen verifizieren: FStrG, BWaStrG, AEG, BImSchG, UVPG, ROG, BauGB Paragrafen 38, 246, VwVfG Paragrafen 72-78 (Planfeststellung), VwGO Paragrafen 47 ff., BNatSchG Paragrafen 14, 15, 34, 44, WHG Paragrafen 8, 67, EU-FFH-RL, UmwRG — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger (Bund, Land, DB Netz, Autobahn GmbH), Planfeststellungsbehörde, Anhörungsbehörde, anerkannte Umweltvereinigungen (BUND, NABU), VG, OVG, BVerwG (1. Senat). - Dokumente und Beweismittel sammeln. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Bürgerentscheid Strassenbahn
 
-Tragende Normen verifizieren: FStrG, BWaStrG, AEG, BImSchG, UVPG, ROG, BauGB Paragrafen 38, 246, VwVfG Paragrafen 72-78 (Planfeststellung), VwGO Paragrafen 47 ff., BNatSchG Paragrafen 14, 15, 34, 44, WHG Paragrafen 8, 67, EU-FFH-RL, UmwRG — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger (Bund, Land, DB Netz, Autobahn GmbH), Planfeststellungsbehörde, Anhörungsbehörde, anerkannte Umweltvereinigungen (BUND, NABU), VG, OVG, BVerwG (1. Senat). - Dokumente und Beweismittel sammeln. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Dokumentenintake
 
@@ -176,7 +176,7 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 
 ### 15.7. Driving: Mehrparteienkonflikt und Interessenmatrix
 
-Tragende Normen verifizieren: FStrG, BWaStrG, AEG, BImSchG, UVPG, ROG, BauGB Paragrafen 38, 246, VwVfG Paragrafen 72-78 (Planfeststellung), VwGO Paragrafen 47 ff., BNatSchG Paragrafen 14, 15, 34, 44, WHG Paragrafen 8, 67, EU-FFH-RL, UmwRG — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger (Bund, Land, DB Netz, Autobahn GmbH), Planfeststellungsbehörde, Anhörungsbehörde, anerkannte Umweltvereinigungen (BUND, NABU), VG, OVG, BVerwG (1. Senat). - Dokumente und Beweismittel sammeln. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Einstieg und Routing
 
@@ -192,7 +192,7 @@ rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine 
 
 ### 15.11. Infrastruktur-Förderung
 
-Tragende Normen verifizieren: FStrG, BWaStrG, AEG, BImSchG, UVPG, ROG, BauGB Paragrafen 38, 246, VwVfG Paragrafen 72-78 (Planfeststellung), VwGO Paragrafen 47 ff., BNatSchG Paragrafen 14, 15, 34, 44, WHG Paragrafen 8, 67, EU-FFH-RL, UmwRG — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger (Bund, Land, DB Netz, Autobahn GmbH), Planfeststellungsbehörde, Anhörungsbehörde, anerkannte Umweltvereinigungen (BUND, NABU), VG, OVG, BVerwG (1. Senat). - Dokumente und Beweismittel sammeln. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Infrastrukturrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -204,4 +204,4 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 
 ### 15.14. Ladeinfrastruktur Elektromobilität
 
-Tragende Normen verifizieren: FStrG, BWaStrG, AEG, BImSchG, UVPG, ROG, BauGB Paragrafen 38, 246, VwVfG Paragrafen 72-78 (Planfeststellung), VwGO Paragrafen 47 ff., BNatSchG Paragrafen 14, 15, 34, 44, WHG Paragrafen 8, 67, EU-FFH-RL, UmwRG — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger (Bund, Land, DB Netz, Autobahn GmbH), Planfeststellungsbehörde, Anhörungsbehörde, anerkannte Umweltvereinigungen (BUND, NABU), VG, OVG, BVerwG (1. Senat). - Dokumente und Beweismittel sammeln. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

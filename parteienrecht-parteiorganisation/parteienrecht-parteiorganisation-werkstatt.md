@@ -156,7 +156,7 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 
 ### 15.3. Bundeswahlleiter-Kommunikation
 
-Tragende Normen verifizieren: GG Art. 21, PartG Paragrafen 1, 2, 5, 6, 7, 8, 9, 10, 14, 18, 23, 23a, 24, 25, 26, 31a-d, EuPartV (VO 1141/2014), BWahlG, EuWG, AbgG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Parteivorstand, Bundestagsverwaltung (Parteienfinanzierung), Bundeswahlleiter, EU-Behörde für europäische politische Parteien, Schiedsgericht der Partei, Mitglied, BVerfG (Parteiverbot Art. 21 GG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Befangenheit und Sitzungsleitung
 
@@ -164,7 +164,7 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 
 ### 15.5. Beitragsordnung Partei
 
-Tragende Normen verifizieren: GG Art. 21, PartG Paragrafen 1, 2, 5, 6, 7, 8, 9, 10, 14, 18, 23, 23a, 24, 25, 26, 31a-d, EuPartV (VO 1141/2014), BWahlG, EuWG, AbgG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Parteivorstand, Bundestagsverwaltung (Parteienfinanzierung), Bundeswahlleiter, EU-Behörde für europäische politische Parteien, Schiedsgericht der Partei, Mitglied, BVerfG (Parteiverbot Art. 21 GG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Beschlussvorlagen Partei
 
@@ -172,7 +172,7 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 
 ### 15.7. Bewerberzustimmung
 
-Tragende Normen verifizieren: GG Art. 21, PartG Paragrafen 1, 2, 5, 6, 7, 8, 9, 10, 14, 18, 23, 23a, 24, 25, 26, 31a-d, EuPartV (VO 1141/2014), BWahlG, EuWG, AbgG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Parteivorstand, Bundestagsverwaltung (Parteienfinanzierung), Bundeswahlleiter, EU-Behörde für europäische politische Parteien, Schiedsgericht der Partei, Mitglied, BVerfG (Parteiverbot Art. 21 GG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Daten und Parteiwechsel
 
@@ -184,7 +184,7 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 
 ### 15.10. Schnittstelle Fraktion/Partei
 
-Tragende Normen verifizieren: GG Art. 21, PartG Paragrafen 1, 2, 5, 6, 7, 8, 9, 10, 14, 18, 23, 23a, 24, 25, 26, 31a-d, EuPartV (VO 1141/2014), BWahlG, EuWG, AbgG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Parteivorstand, Bundestagsverwaltung (Parteienfinanzierung), Bundeswahlleiter, EU-Behörde für europäische politische Parteien, Schiedsgericht der Partei, Mitglied, BVerfG (Parteiverbot Art. 21 GG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Fristkalender Partei
 
@@ -192,7 +192,7 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 
 ### 15.12. Gebietsgliederung
 
-Tragende Normen verifizieren: GG Art. 21, PartG Paragrafen 1, 2, 5, 6, 7, 8, 9, 10, 14, 18, 23, 23a, 24, 25, 26, 31a-d, EuPartV (VO 1141/2014), BWahlG, EuWG, AbgG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Parteivorstand, Bundestagsverwaltung (Parteienfinanzierung), Bundeswahlleiter, EU-Behörde für europäische politische Parteien, Schiedsgericht der Partei, Mitglied, BVerfG (Parteiverbot Art. 21 GG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Geheime Abstimmung
 

@@ -145,23 +145,23 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Abschlussmitteilung
 
-Tragende Normen verifizieren: HinSchG Paragrafen 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU Whistleblower-RL 2019/1937, BetrVG Paragraf 84, BDSG Paragraf 26, Datenschutz-Grundverordnung Art. 6 Abs. 1 lit. c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Anonyme Meldung
 
-Tragende Normen verifizieren: HinSchG Paragrafen 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU Whistleblower-RL 2019/1937, BetrVG Paragraf 84, BDSG Paragraf 26, Datenschutz-Grundverordnung Art. 6 Abs. 1 lit. c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Antwortschreiben Hinweisgeber
 
-Tragende Normen verifizieren: HinSchG Paragrafen 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU Whistleblower-RL 2019/1937, BetrVG Paragraf 84, BDSG Paragraf 26, Datenschutz-Grundverordnung Art. 6 Abs. 1 lit. c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Anwaltliche Meldestelle
 
-Tragende Normen verifizieren: HinSchG Paragrafen 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU Whistleblower-RL 2019/1937, BetrVG Paragraf 84, BDSG Paragraf 26, Datenschutz-Grundverordnung Art. 6 Abs. 1 lit. c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Arbeitsgericht Klage
 
-Tragende Normen verifizieren: HinSchG Paragrafen 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU Whistleblower-RL 2019/1937, BetrVG Paragraf 84, BDSG Paragraf 26, Datenschutz-Grundverordnung Art. 6 Abs. 1 lit. c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Arbeitsschutz
 
@@ -169,32 +169,32 @@ entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert ein
 
 ### 15.7. Arbeitsvertrag Klauseln
 
-Tragende Normen verifizieren: HinSchG Paragrafen 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU Whistleblower-RL 2019/1937, BetrVG Paragraf 84, BDSG Paragraf 26, Datenschutz-Grundverordnung Art. 6 Abs. 1 lit. c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. abrufen Nachweis
 
-Tragende Normen verifizieren: HinSchG Paragrafen 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU Whistleblower-RL 2019/1937, BetrVG Paragraf 84, BDSG Paragraf 26, Datenschutz-Grundverordnung Art. 6 Abs. 1 lit. c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Aufsichtsbehördenkommunikation
 
-Tragende Normen verifizieren: HinSchG Paragrafen 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU Whistleblower-RL 2019/1937, BetrVG Paragraf 84, BDSG Paragraf 26, Datenschutz-Grundverordnung Art. 6 Abs. 1 lit. c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Aufsichtsrat Reporting
 
-Tragende Normen verifizieren: HinSchG Paragrafen 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU Whistleblower-RL 2019/1937, BetrVG Paragraf 84, BDSG Paragraf 26, Datenschutz-Grundverordnung Art. 6 Abs. 1 lit. c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Barrierefreiheit Meldekanal
 
-Tragende Normen verifizieren: HinSchG Paragrafen 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU Whistleblower-RL 2019/1937, BetrVG Paragraf 84, BDSG Paragraf 26, Datenschutz-Grundverordnung Art. 6 Abs. 1 lit. c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Beschäftigtenzahl Konzern
 
-Tragende Normen verifizieren: HinSchG Paragrafen 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU Whistleblower-RL 2019/1937, BetrVG Paragraf 84, BDSG Paragraf 26, Datenschutz-Grundverordnung Art. 6 Abs. 1 lit. c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Beschuldigtenrechte
 
-Tragende Normen verifizieren: HinSchG Paragrafen 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU Whistleblower-RL 2019/1937, BetrVG Paragraf 84, BDSG Paragraf 26, Datenschutz-Grundverordnung Art. 6 Abs. 1 lit. c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Beschwerde Management
 
-Tragende Normen verifizieren: HinSchG Paragrafen 1, 2, 3, 6, 7, 12, 13, 14, 17, 18, 36, 37, 39, EU Whistleblower-RL 2019/1937, BetrVG Paragraf 84, BDSG Paragraf 26, Datenschutz-Grundverordnung Art. 6 Abs. 1 lit. c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

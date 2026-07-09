@@ -164,15 +164,15 @@ Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerpro
 
 ### 15.4. digitale Werkzeuge Pair Programming im Arbeitsverhältnis
 
-Tragende Normen verifizieren: UrhG Paragrafen 69a-g, BGB Paragrafen 433, 535, 535a, 651, EU-RL 2009/24, AGB-Recht, Datenschutz-Grundverordnung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. API- und SDK-Lizenz
 
-Tragende Normen verifizieren: UrhG Paragrafen 69a-g, BGB Paragrafen 433, 535, 535a, 651, EU-RL 2009/24, AGB-Recht, Datenschutz-Grundverordnung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Arbeitnehmer-Software Paragraf 69b UrhG
 
-Tragende Normen verifizieren: UrhG Paragrafen 69a-g, BGB Paragrafen 433, 535, 535a, 651, EU-RL 2009/24, AGB-Recht, Datenschutz-Grundverordnung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. abrufen-Klauseln
 

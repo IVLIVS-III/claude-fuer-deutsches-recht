@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Aktenauszug Gerichtsverfahren ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du aus einer Akte sofort eine prozessfähige Route bauen: Zuständigkeit, Frist, Antrag, Tatsachenvortrag, Beweis und nächste Verfügung.
 
 # Aktenauszug Gerichtsverfahren — Schnellstart
 
@@ -17,48 +17,49 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Akten: Mandantenkommunikation und Entscheidungsvorlage: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Mandantennachricht oder Entscheidungsvorlage.
-2. Aktenauszug Erstellen — Hauptworkflow: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix.
-3. Aktenauszug — Strukturprüfung: Tragende Normen verifizieren: ZPO Paragrafen 299, 299a, StPO Paragrafen 147, 385, 406e, VwGO Paragraf 100, SGG.
-4. Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix.
-5. Verfahrensidentifikation: Tragende Normen verifizieren: ZPO Paragrafen 299, 299a, StPO Paragrafen 147, 385, 406e, VwGO Paragraf 100, SGG.
-6. AkzG: Aktenauszug Bauleiter: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix.
+1. Prozessroute: Gericht, Rechtsweg, Zuständigkeit, Streitwert, Frist, Einreichungsweg und Verfahrensstand sichern.
+2. Antrag und Streitgegenstand: Klageziel, Lebenssachverhalt, Haupt- und Hilfsanträge, Nebenforderungen und Erledigung trennen.
+3. Relation: Klägerstation auf Schlüssigkeit, Beklagtenstation auf Erheblichkeit, Replik auf Durchschlag und Beweisstation auf Beweislast prüfen.
+4. Beweis: Beweisthema, Beweismittel, Substantiierung, Beweislast, Beweiswürdigung und Beweisbeschluss aus der Akte entwickeln.
+5. Arbeitsprodukt: Klageschrift, Klageerwiderung, Hinweisverfügung, Beschluss, Urteil, Tenor, Anlagenverzeichnis oder Fristenblatt erstellen.
+6. Akten: Mandantenkommunikation und Entscheidungsvorlage: Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragrafen 128-134 ZPO; Paragrafen 253-261 ZPO; Paragrafen 355-455 ZPO |
+| Normenanker | ZPO Paragraf 253; ZPO Paragraf 130, Paragraf 130a und Paragraf 130d; ZPO Paragraf 138 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Mandantennachricht oder Entscheidungsvorlage |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen |
+| Beweislast | Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss |
+| Rechtsfolge | Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Akten: Mandantenkommunikation und Entscheidungsvorlage | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Mandantennachricht oder Entscheidungsvorlage. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenauszug Erstellen — Hauptworkflow | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenauszug — Strukturprüfung | Tragende Normen verifizieren: ZPO Paragrafen 299, 299a, StPO Paragrafen 147, 385, 406e, VwGO Paragraf 100, SGG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahrensidentifikation | Tragende Normen verifizieren: ZPO Paragrafen 299, 299a, StPO Paragrafen 147, 385, 406e, VwGO Paragraf 100, SGG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AkzG: Aktenauszug Bauleiter | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Akten: Mandantenkommunikation und Entscheidungsvorlage | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenauszug Erstellen — Hauptworkflow | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenauszug — Strukturprüfung | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verfahrensidentifikation | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AkzG: Aktenauszug Bauleiter | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- ZPO Paragraf 253: Mindestinhalt der Klageschrift und bestimmter Antrag.
+- ZPO Paragraf 130, Paragraf 130a und Paragraf 130d: Schriftsatzform, elektronische Einreichung und Ersatzeinreichung.
+- ZPO Paragraf 138: Wahrheitspflicht, Erklärungslast und Bestreiten.
+- ZPO Paragraf 139: gerichtliche Hinweispflicht und Prozessleitung.
 - Paragrafen 128-134 ZPO — Schriftliches und mündliches Verfahren, Schriftsätze: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 253-261 ZPO — Klageerhebung und Verfahrenseinleitung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 355-455 ZPO — Beweisaufnahme (Sachverständige, Zeugen, Augenschein, Urkunden): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 495a, 522, 540 ZPO — Vereinfachtes Verfahren, Berufungsverwerfung, Berufungsurteil: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 704-945 ZPO — Zwangsvollstreckung (Abschnitt relevant für Vollstreckungstitel in Akte): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 91a ZPO — Kosten bei Erledigterklärung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 139 ZPO — Materielle Prozessleitung, richterliche Hinweispflicht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Akten: Mandantenkommunikation und Entscheidungsvorlage, Aktenauszug Erstellen — Hauptworkflow, Aktenauszug — Strukturprüfung, Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Relationszeile: Anspruch, Klägertatsache, Bestreiten, Einwendung, Replik, Beweislast, Beweismittel und Entscheidung als Tabelle; Hinweisverfügung: Das Gericht weist darauf hin, dass [Punkt] bisher nicht schlüssig/erheblich/beweisbelegt ist; Frist bis [Datum].
 
 ## 8. Stop
 

@@ -41,10 +41,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- | --- |
 | Absolute Priority Rule | Paragraf 1 Abs. 1 KWG — Bankgeschäfte. - Paragraf 32 Abs. 1 KWG — Erlaubnispflicht. - Paragraf 25a Abs. 1 KWG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Adequate Protection | Paragraf 1 Abs. 1 KWG — Bankgeschäfte. - Paragraf 32 Abs. 1 KWG — Erlaubnispflicht. - Paragraf 25a Abs. 1 KWG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Administrative Expenses Paragraf 503 | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Administrative Expenses Paragraf 503 | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Adversary Proceedings | Paragraf 1 Abs. 1 KWG — Bankgeschäfte. - Paragraf 32 Abs. 1 KWG — Erlaubnispflicht. - Paragraf 25a Abs. 1 KWG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Asbestos Channeling Injunctions Paragraf 524(g) | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Automatic Stay Paragraf 362 | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Asbestos Channeling Injunctions Paragraf 524(g) | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Automatic Stay Paragraf 362 | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

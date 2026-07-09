@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Verbraucher Rechtsstaat Alltag ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen zivilrechtlichen Anspruch, Vertrag, AGB-Klausel oder Verbraucherfall sofort nach Anspruchsgrundlage, Einwendung, Beweislast und Arbeitsprodukt ordnen.
 
 # Verbraucher Rechtsstaat Alltag — Schnellstart
 
@@ -17,51 +17,52 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abo-Falle und Kündigung: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
-2. Abo-Kündigung Fitness und Streaming: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
-3. Arztrechnung GOÄ für Laien: Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB —.
-4. Bankentgelte und Zustimmungsfiktion: Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB —.
-5. Baubehörde und Nachbarbrief: Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB —.
-6. Behördenformular verstehen: Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB —.
+1. Anspruchsziel: Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen.
+2. Anspruchsgrundlage: Vertragstyp, Zustandekommen, Form, Vertretung, Einbeziehung und AGB-Kontrolle in der richtigen Reihenfolge prüfen.
+3. Leistungsstörung: Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden.
+4. Einwendungen: Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten.
+5. Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen.
+6. Abo-Falle und Kündigung: Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 13 BGB; Paragraf 13 BGB; Paragraf 14 BGB |
+| Normenanker | BGB Paragraf 104 bis Paragraf 185; BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGB Paragraf 305 bis Paragraf 310 |
 | Rechtsprechung | BGH, Urteil vom 27.04.2021, XI ZR 26/20; BGH, Urteil vom 19.11.2024, XI ZR 139/23 |
-| Tatbestand | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten |
+| Beweislast | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung |
+| Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abo-Falle und Kündigung | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abo-Kündigung Fitness und Streaming | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arztrechnung GOÄ für Laien | Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bankentgelte und Zustimmungsfiktion | Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Baubehörde und Nachbarbrief | Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Behördenformular verstehen | Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abo-Falle und Kündigung | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abo-Kündigung Fitness und Streaming | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arztrechnung GOÄ für Laien | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bankentgelte und Zustimmungsfiktion | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Baubehörde und Nachbarbrief | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Behördenformular verstehen | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- BGB Paragraf 104 bis Paragraf 185: Geschäftsfähigkeit, Willenserklärung, Zugang, Anfechtung, Stellvertretung und Zustimmung.
+- BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
+- BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
+- BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
 - Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 13 BGB — Verbraucherbegriff: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 14 BGB — Unternehmerbegriff: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 312c BGB — Fernabsatzvertrag: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 312d BGB — Informationspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 355 Abs. 1 BGB — Widerrufsrecht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 357 BGB — Rechtsfolgen des Widerrufs: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 27.04.2021, XI ZR 26/20: Zustimmungsfiktionsklauseln im Verbraucherverkehr können nach Paragraf 307 BGB unwirksam sein
 - BGH, Urteil vom 19.11.2024, XI ZR 139/23: Widerspruchslose Kontonutzung allein beseitigt den Rückforderungsanspruch nicht; Dreijahreslösung aus Energieverträgen nicht übertragen
 - BGH, Urteil vom 03.06.2025, XI ZR 45/24: Musterfeststellungsklage zur Rückzahlung von Kontoführungsentgelten; Verjährung, Anspruchsgruppen und konkludente Zustimmung genau trennen
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abo-Falle und Kündigung, Abo-Kündigung Fitness und Streaming, Arztrechnung GOÄ für Laien, Bankentgelte und Zustimmungsfiktion: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Anspruchsmatrix: Anspruchsgrundlage, Tatbestandsmerkmal, Tatsache, Beleg, Gegenargument, Beweislast und Rechtsfolge als Tabelle ausgeben; Klauselprüfung: Einbeziehung, Transparenz, Leitbildabweichung, unangemessene Benachteiligung und Ersatzfolge getrennt bewerten.
 
 ## 8. Stop
 

@@ -136,7 +136,7 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Anfrage-Eingang-Parser
 
-Tragende Normen verifizieren: BRAO Paragrafen 43a, 44, 49b, BORA Paragrafen 2, 11, BGB Paragrafen 145 ff., 280, 627, 675, GwG Paragrafen 10, 11, RVG Paragrafen 1, 4, 34 (Erstberatung), Datenschutz-Grundverordnung Art. 6, 13 — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anfragender (Interessent), Anwalt, Sekretariat, Compliance-Beauftragter, Mandantenbetreuer. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Erstkontaktformular, Konfliktscreening, Mandatsvertrag, Vollmacht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Anrede: Verhandlung, Vergleich und Eskalation
 
@@ -144,7 +144,7 @@ entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert ein
 
 ### 15.3. Anrede-Übernehmen
 
-Tragende Normen verifizieren: BRAO Paragrafen 43a, 44, 49b, BORA Paragrafen 2, 11, BGB Paragrafen 145 ff., 280, 627, 675, GwG Paragrafen 10, 11, RVG Paragrafen 1, 4, 34 (Erstberatung), Datenschutz-Grundverordnung Art. 6, 13 — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anfragender (Interessent), Anwalt, Sekretariat, Compliance-Beauftragter, Mandantenbetreuer. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Erstkontaktformular, Konfliktscreening, Mandatsvertrag, Vollmacht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Anschluss-Routing
 
@@ -160,11 +160,11 @@ Dieser Fehlerkatalog prüft Arbeitsergebnisse für Mandantenanfragen-Assistent v
 
 ### 15.7. Bittet: Internationaler Bezug und Schnittstellen
 
-Tragende Normen verifizieren: BRAO Paragrafen 43a, 44, 49b, BORA Paragrafen 2, 11, BGB Paragrafen 145 ff., 280, 627, 675, GwG Paragrafen 10, 11, RVG Paragrafen 1, 4, 34 (Erstberatung), Datenschutz-Grundverordnung Art. 6, 13 — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anfragender (Interessent), Anwalt, Sekretariat, Compliance-Beauftragter, Mandantenbetreuer. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Erstkontaktformular, Konfliktscreening, Mandatsvertrag, Vollmacht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Dankt: Risikoampel, Gegenargumente und Verteidigungslinien
 
-Tragende Normen verifizieren: BRAO Paragrafen 43a, 44, 49b, BORA Paragrafen 2, 11, BGB Paragrafen 145 ff., 280, 627, 675, GwG Paragrafen 10, 11, RVG Paragrafen 1, 4, 34 (Erstberatung), Datenschutz-Grundverordnung Art. 6, 13 — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anfragender (Interessent), Anwalt, Sekretariat, Compliance-Beauftragter, Mandantenbetreuer. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Erstkontaktformular, Konfliktscreening, Mandatsvertrag, Vollmacht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Dokumentenintake
 
@@ -172,11 +172,11 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 
 ### 15.10. Dringlichkeitsmarker
 
-Tragende Normen verifizieren: BRAO Paragrafen 43a, 44, 49b, BORA Paragrafen 2, 11, BGB Paragrafen 145 ff., 280, 627, 675, GwG Paragrafen 10, 11, RVG Paragrafen 1, 4, 34 (Erstberatung), Datenschutz-Grundverordnung Art. 6, 13 — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anfragender (Interessent), Anwalt, Sekretariat, Compliance-Beauftragter, Mandantenbetreuer. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Erstkontaktformular, Konfliktscreening, Mandatsvertrag, Vollmacht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Datenschutz-Grundverordnung: Sonderfall und Edge-Case-Prüfung
 
-Tragende Normen verifizieren: BRAO Paragrafen 43a, 44, 49b, BORA Paragrafen 2, 11, BGB Paragrafen 145 ff., 280, 627, 675, GwG Paragrafen 10, 11, RVG Paragrafen 1, 4, 34 (Erstberatung), Datenschutz-Grundverordnung Art. 6, 13 — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anfragender (Interessent), Anwalt, Sekretariat, Compliance-Beauftragter, Mandantenbetreuer. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Erstkontaktformular, Konfliktscreening, Mandatsvertrag, Vollmacht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. E-Mail-Erstantwort, Terminrouting und Mandatsannahmehinweis
 

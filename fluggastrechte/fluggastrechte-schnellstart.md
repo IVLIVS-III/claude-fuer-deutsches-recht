@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Fluggastrechte ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du Unfall, Bußgeld, Fahrerlaubnis, Reisendenrechte oder Regulierung schnell nach Haftung, Beweis und Frist sortieren.
 
 # Fluggastrechte — Schnellstart
 
@@ -17,52 +17,52 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abtretung an Fluggastportale: 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewünschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2.
-2. Airline-Bonitaet und Vollstreckung: 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewünschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2.
-3. Airline-Standardausreden — Katalog und Gegenargumente: Tragende Normen verifizieren: EU-Fluggastrechte-VO 261/2004 Art. 5, 6, 7, 8, 9, EU-VO 2027/97 (Montrealer.
-4. Fluggastrechte — Anlagen bauen: Schriftsatz (PDF oder DOCX) — das vom vorhergehenden Skill erzeugte Forderungsschreiben, die Mahnung.
-5. Annullierung Verspätung oder Nichtbeförderung einordnen: Der geplante Flug findet nicht statt — die Airline streicht ihn. Indikatoren: - Mitteilung der Airline "Flug.
-6. Annullierung: Schriftsatz-, Brief- und Memo-Bausteine: Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu.
+1. Ereignis und Frist: Unfall, Messung, Bescheid, Flug, Bahnreise, Ablehnung und Zugang kalendarisch sichern.
+2. Haftung und Anspruch: Beteiligte, Halter, Fahrer, Versicherer, Beförderer, Ursache, Quote und Anspruchsziel trennen.
+3. Schaden und Beleg: Reparatur, Mietwagen, Nutzungsausfall, Gutachten, Haushaltsführung, Personenschaden oder Ausgleichsbetrag nachrechnen.
+4. Verteidigung: Messakte, Bedienungsanleitung, Rohdaten, Zeugen, Anscheinsbeweis, außergewöhnlicher Umstand oder Mitverschulden prüfen.
+5. Arbeitsprodukt: Regulierungsschreiben, Einspruch, Klage, Anspruchstabelle, Vergleich oder Mandantenbrief erstellen.
+6. Abtretung an Fluggastportale: Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 241 Abs. 2 BGB; Paragraf 241 Abs. 2 BGB; Paragraf 242 BGB |
+| Normenanker | StVG Paragraf 7, Paragraf 17 und Paragraf 18; BGB Paragraf 249, Paragraf 251 und Paragraf 253; PflVG Paragraf 115 |
 | Rechtsprechung | EuGH C-402/07 (Sturgeon); EuGH, Urt. v. 13.10.2011, C-83/10 (Sousa Rodríguez) |
-| Tatbestand | 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewünschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2 |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren |
+| Beweislast | Geschädigter oder Reisender für Ereignis, Schaden, Verspätung und Belege; Gegner für Mitverschulden, Ausschluss und außergewöhnliche Umstände |
+| Rechtsfolge | Regulierungsschreiben, Anspruchstabelle, Einspruch, Klage, Vergleich, Fristenblatt oder Mandantenbrief |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abtretung an Fluggastportale | 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewünschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Airline-Bonitaet und Vollstreckung | 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewünschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Airline-Standardausreden — Katalog und Gegenargumente | Tragende Normen verifizieren: EU-Fluggastrechte-VO 261/2004 Art. 5, 6, 7, 8, 9, EU-VO 2027/97 (Montrealer. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fluggastrechte — Anlagen bauen | Schriftsatz (PDF oder DOCX) — das vom vorhergehenden Skill erzeugte Forderungsschreiben, die Mahnung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Annullierung Verspätung oder Nichtbeförderung einordnen | Der geplante Flug findet nicht statt — die Airline streicht ihn. Indikatoren: - Mitteilung der Airline "Flug. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Annullierung: Schriftsatz-, Brief- und Memo-Bausteine | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abtretung an Fluggastportale | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Airline-Bonitaet und Vollstreckung | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Airline-Standardausreden — Katalog und Gegenargumente | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fluggastrechte — Anlagen bauen | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Annullierung Verspätung oder Nichtbeförderung einordnen | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Annullierung: Schriftsatz-, Brief- und Memo-Bausteine | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- StVG Paragraf 7, Paragraf 17 und Paragraf 18: Halter- und Fahrerhaftung sowie Haftungsverteilung.
+- BGB Paragraf 249, Paragraf 251 und Paragraf 253: Naturalrestitution, Geldersatz und Schmerzensgeld.
+- PflVG Paragraf 115: Direktanspruch gegen den Haftpflichtversicherer.
+- OWiG Paragraf 66 und Paragraf 67: Bußgeldbescheid und Einspruch.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 195 BGB — regelmäßige Verjährung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 199 Abs. 1 BGB — Beginn der regelmäßigen Verjährung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH C-402/07 (Sturgeon)
 - EuGH, Urt. v. 13.10.2011, C-83/10 (Sousa Rodríguez) — eine Umkehr nach Start ohne Erreichen des Zielflughafens ist Annullierung (curia.europa.eu)
 - EuGH, Urt. v. 9.1.2025, C-394/23 — Vorverlegung um mehr als eine Stunde ist Annullierung (curia.europa.eu)
-- EuGH, Urt. v. 31.5.2018, C-537/17 (Wegener / Royal Air Maroc) und EuGH, Urt. v. 11.7.2019, C-502/18 (CS Flug) — bei einheitlicher Buchung von Anschlussflügen kommt es für den Ausgleichsanspruch
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abtretung an Fluggastportale, Airline-Bonitaet und Vollstreckung, Airline-Standardausreden — Katalog und Gegenargumente, Fluggastrechte — Anlagen bauen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Regulierungstabelle: Position, Betrag, Beleg, Rechtsgrund, Einwand, Risiko und Zahlungsziel; Bußgeld-Einspruch: Bescheid, Zustellung, Messverfahren, Akteneinsicht, konkreter Angriff und Frist.
 
 ## 8. Stop
 

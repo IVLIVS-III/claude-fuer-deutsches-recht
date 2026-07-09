@@ -164,7 +164,7 @@ Insolvenzverwalter ficht Zahlung 4 Jahre vor Eröffnung an. - Paragraf 133 InsO 
 
 ### 15.3. Anfechtungsklage Verwalter
 
-Tragende Normen verifizieren: InsO Paragrafen 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG Paragrafen 1, 29, 31; StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270; AO Paragrafen 38, 42, 90, 93, 153. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Anschluss-Routing
 
@@ -172,15 +172,15 @@ Dieses Anschluss-Routing für Fachanwalt Insolvenz Sanierungsrecht wählt nach d
 
 ### 15.5. Antragspflicht Schriftsatz Brief und Memo Bausteine
 
-Tragende Normen verifizieren: InsO Paragrafen 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG Paragrafen 1, 29, 31; StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270; AO Paragrafen 38, 42, 90, 93, 153. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Berater Red Team und Qualitätskontrolle
 
-Tragende Normen verifizieren: InsO Paragrafen 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG Paragrafen 1, 29, 31; StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270; AO Paragrafen 38, 42, 90, 93, 153. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Chronologie Abschlussprodukt und Übergabe
 
-Tragende Normen verifizieren: InsO Paragrafen 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG Paragrafen 1, 29, 31; StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270; AO Paragrafen 38, 42, 90, 93, 153. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Dokumentenintake
 
@@ -196,16 +196,16 @@ Prüfe Eigenverwaltung Schutzschirm Paragraf 270b InsO von der ersten Aktenordnu
 
 ### 15.11. Einstieg, Schnelltriage und Fallrouting
 
-Tragende Normen verifizieren: InsO Paragrafen 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG Paragrafen 1, 29, 31; StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270; AO Paragrafen 38, 42, 90, 93, 153. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Eröffnung Behörden Gericht und Registerweg
 
-Tragende Normen verifizieren: InsO Paragrafen 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG Paragrafen 1, 29, 31; StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270; AO Paragrafen 38, 42, 90, 93, 153. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Erstgespraech Mandatsannahme
 
-Tragende Normen verifizieren: InsO Paragrafen 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG Paragrafen 1, 29, 31; StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270; AO Paragrafen 38, 42, 90, 93, 153. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Erstprüfung und Mandatsziel
 
-Tragende Normen verifizieren: InsO Paragrafen 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG Paragrafen 1, 29, 31; StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270; AO Paragrafen 38, 42, 90, 93, 153. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

@@ -148,15 +148,15 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlun
 
 ### 15.4. Abstimmung Produktion / Satz / Druck
 
-Tragende Normen verifizieren: UrhG Paragrafen 1, 7, 11, 31, 32, 34, 38, 41, 43, 50, 51, 51a, 53, 87a-h, VerlG, BGB Paragrafen 433, 631, JuSchG, PresseG der Länder, ImpressumsR, Datenschutz-Grundverordnung Art. 85 (Medienprivileg) — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort, Lizenzpartner, Vertrieb, Datenschutzbeauftragter, ggf. Bundeszentrale für Kinder- und Jugendmedienschutz. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Inhouse-Legal-Check vor Veröffentlichung
 
-Tragende Normen verifizieren: UrhG Paragrafen 1, 7, 11, 31, 32, 34, 38, 41, 43, 50, 51, 51a, 53, 87a-h, VerlG, BGB Paragrafen 433, 631, JuSchG, PresseG der Länder, ImpressumsR, Datenschutz-Grundverordnung Art. 85 (Medienprivileg) — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort, Lizenzpartner, Vertrieb, Datenschutzbeauftragter, ggf. Bundeszentrale für Kinder- und Jugendmedienschutz. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Abstimmung mit Vertrieb / Marketing
 
-Tragende Normen verifizieren: UrhG Paragrafen 1, 7, 11, 31, 32, 34, 38, 41, 43, 50, 51, 51a, 53, 87a-h, VerlG, BGB Paragrafen 433, 631, JuSchG, PresseG der Länder, ImpressumsR, Datenschutz-Grundverordnung Art. 85 (Medienprivileg) — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort, Lizenzpartner, Vertrieb, Datenschutzbeauftragter, ggf. Bundeszentrale für Kinder- und Jugendmedienschutz. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. digitale Werkzeuge-Einsatz, Transparenz und Datenschutz
 
@@ -164,7 +164,7 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittste
 
 ### 15.8. Audio-Transkript zu Fachbeitrag
 
-Tragende Normen verifizieren: UrhG Paragrafen 1, 7, 11, 31, 32, 34, 38, 41, 43, 50, 51, 51a, 53, 87a-h, VerlG, BGB Paragrafen 433, 631, JuSchG, PresseG der Länder, ImpressumsR, Datenschutz-Grundverordnung Art. 85 (Medienprivileg) — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort, Lizenzpartner, Vertrieb, Datenschutzbeauftragter, ggf. Bundeszentrale für Kinder- und Jugendmedienschutz. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Aussagensicherheits-Prüfung (\"darf das so im Druck?\")
 
@@ -176,15 +176,15 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutz
 
 ### 15.11. Autorenkommunikation
 
-Tragende Normen verifizieren: UrhG Paragrafen 1, 7, 11, 31, 32, 34, 38, 41, 43, 50, 51, 51a, 53, 87a-h, VerlG, BGB Paragrafen 433, 631, JuSchG, PresseG der Länder, ImpressumsR, Datenschutz-Grundverordnung Art. 85 (Medienprivileg) — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort, Lizenzpartner, Vertrieb, Datenschutzbeauftragter, ggf. Bundeszentrale für Kinder- und Jugendmedienschutz. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Barrierefreiheit EPUB/PDF
 
-Tragende Normen verifizieren: UrhG Paragrafen 1, 7, 11, 31, 32, 34, 38, 41, 43, 50, 51, 51a, 53, 87a-h, VerlG, BGB Paragrafen 433, 631, JuSchG, PresseG der Länder, ImpressumsR, Datenschutz-Grundverordnung Art. 85 (Medienprivileg) — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort, Lizenzpartner, Vertrieb, Datenschutzbeauftragter, ggf. Bundeszentrale für Kinder- und Jugendmedienschutz. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Bildrechte, Grafiken und Tabellen
 
-Tragende Normen verifizieren: UrhG Paragrafen 1, 7, 11, 31, 32, 34, 38, 41, 43, 50, 51, 51a, 53, 87a-h, VerlG, BGB Paragrafen 433, 631, JuSchG, PresseG der Länder, ImpressumsR, Datenschutz-Grundverordnung Art. 85 (Medienprivileg) — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort, Lizenzpartner, Vertrieb, Datenschutzbeauftragter, ggf. Bundeszentrale für Kinder- und Jugendmedienschutz. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Bildrechte: Zahlen, Schwellenwerte und Berechnung
 

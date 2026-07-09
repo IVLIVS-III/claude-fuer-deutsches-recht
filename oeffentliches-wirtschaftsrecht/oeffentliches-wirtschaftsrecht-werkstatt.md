@@ -148,56 +148,56 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Schulbau Oepp Beihilfe Markieren
 
-Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg (Kommunalwirtschaftsrecht), GWB Paragrafen 97 ff., AEUV Art. 107, 108 (Beihilferecht), KonzVgV, SektVO, GO NRW Paragraf 107 ff., LHO/BHO Paragrafen 7, 55, KomHV-Doppik — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Schulbau Oepp Haushalt Anbinden
 
-Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg (Kommunalwirtschaftsrecht), GWB Paragrafen 97 ff., AEUV Art. 107, 108 (Beihilferecht), KonzVgV, SektVO, GO NRW Paragraf 107 ff., LHO/BHO Paragrafen 7, 55, KomHV-Doppik — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Autobahnprojekt Red Flags Listen
 
-Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg (Kommunalwirtschaftsrecht), GWB Paragrafen 97 ff., AEUV Art. 107, 108 (Beihilferecht), KonzVgV, SektVO, GO NRW Paragraf 107 ff., LHO/BHO Paragrafen 7, 55, KomHV-Doppik — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Autobahnprojekt Beihilfe Markieren
 
-Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg (Kommunalwirtschaftsrecht), GWB Paragrafen 97 ff., AEUV Art. 107, 108 (Beihilferecht), KonzVgV, SektVO, GO NRW Paragraf 107 ff., LHO/BHO Paragrafen 7, 55, KomHV-Doppik — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Autobahnprojekt Haushalt Anbinden
 
-Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg (Kommunalwirtschaftsrecht), GWB Paragrafen 97 ff., AEUV Art. 107, 108 (Beihilferecht), KonzVgV, SektVO, GO NRW Paragraf 107 ff., LHO/BHO Paragrafen 7, 55, KomHV-Doppik — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Autobahnprojekt Kommunikation Schreibe
 
-Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg (Kommunalwirtschaftsrecht), GWB Paragrafen 97 ff., AEUV Art. 107, 108 (Beihilferecht), KonzVgV, SektVO, GO NRW Paragraf 107 ff., LHO/BHO Paragrafen 7, 55, KomHV-Doppik — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Autobahnprojekt Kontrolle Sichern
 
-Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg (Kommunalwirtschaftsrecht), GWB Paragrafen 97 ff., AEUV Art. 107, 108 (Beihilferecht), KonzVgV, SektVO, GO NRW Paragraf 107 ff., LHO/BHO Paragrafen 7, 55, KomHV-Doppik — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Autobahnprojekt Organisationsform Prue
 
-Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg (Kommunalwirtschaftsrecht), GWB Paragrafen 97 ff., AEUV Art. 107, 108 (Beihilferecht), KonzVgV, SektVO, GO NRW Paragraf 107 ff., LHO/BHO Paragrafen 7, 55, KomHV-Doppik — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Autobahnprojekt Risiko Verteilen
 
-Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg (Kommunalwirtschaftsrecht), GWB Paragrafen 97 ff., AEUV Art. 107, 108 (Beihilferecht), KonzVgV, SektVO, GO NRW Paragraf 107 ff., LHO/BHO Paragrafen 7, 55, KomHV-Doppik — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Autobahnprojekt Vergabeweg Wählen
 
-Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg (Kommunalwirtschaftsrecht), GWB Paragrafen 97 ff., AEUV Art. 107, 108 (Beihilferecht), KonzVgV, SektVO, GO NRW Paragraf 107 ff., LHO/BHO Paragrafen 7, 55, KomHV-Doppik — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Autobahnprojekt Vertrag Scopen
 
-Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg (Kommunalwirtschaftsrecht), GWB Paragrafen 97 ff., AEUV Art. 107, 108 (Beihilferecht), KonzVgV, SektVO, GO NRW Paragraf 107 ff., LHO/BHO Paragrafen 7, 55, KomHV-Doppik — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Autobahnprojekt Wirtschaftlichkeit Rec
 
-Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg (Kommunalwirtschaftsrecht), GWB Paragrafen 97 ff., AEUV Art. 107, 108 (Beihilferecht), KonzVgV, SektVO, GO NRW Paragraf 107 ff., LHO/BHO Paragrafen 7, 55, KomHV-Doppik — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Beihilfe Check EU
 
-Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg (Kommunalwirtschaftsrecht), GWB Paragrafen 97 ff., AEUV Art. 107, 108 (Beihilferecht), KonzVgV, SektVO, GO NRW Paragraf 107 ff., LHO/BHO Paragrafen 7, 55, KomHV-Doppik — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Breitband Beihilfe Markieren
 
-Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg (Kommunalwirtschaftsrecht), GWB Paragrafen 97 ff., AEUV Art. 107, 108 (Beihilferecht), KonzVgV, SektVO, GO NRW Paragraf 107 ff., LHO/BHO Paragrafen 7, 55, KomHV-Doppik — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

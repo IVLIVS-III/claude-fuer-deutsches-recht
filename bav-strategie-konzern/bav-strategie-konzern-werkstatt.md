@@ -158,7 +158,7 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg
 
-Tragende Normen verifizieren: BetrAVG Paragrafen 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG Paragrafen 3 Nr. 63, 4d, 4e, 6a, 19 Abs. 2, KStG Paragraf 5 (Pensionsfonds), VAG (Pensionskassen), HGB Paragraf 246 Abs. 2 S. 2, IDW RS HFA 30 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Anschluss-Routing
 
@@ -166,27 +166,27 @@ klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; lie
 
 ### 15.3. bAV: CTA Treuhand
 
-Tragende Normen verifizieren: BetrAVG Paragrafen 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG Paragrafen 3 Nr. 63, 4d, 4e, 6a, 19 Abs. 2, KStG Paragraf 5 (Pensionsfonds), VAG (Pensionskassen), HGB Paragraf 246 Abs. 2 S. 2, IDW RS HFA 30 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. bAV: Fünftelregelung Auszahlung
 
-Tragende Normen verifizieren: BetrAVG Paragrafen 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG Paragrafen 3 Nr. 63, 4d, 4e, 6a, 19 Abs. 2, KStG Paragraf 5 (Pensionsfonds), VAG (Pensionskassen), HGB Paragraf 246 Abs. 2 S. 2, IDW RS HFA 30 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. bAV: Grenzüberschreitende Mobilität
 
-Tragende Normen verifizieren: BetrAVG Paragrafen 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG Paragrafen 3 Nr. 63, 4d, 4e, 6a, 19 Abs. 2, KStG Paragraf 5 (Pensionsfonds), VAG (Pensionskassen), HGB Paragraf 246 Abs. 2 S. 2, IDW RS HFA 30 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. bAV: Konzern-Design
 
-Tragende Normen verifizieren: BetrAVG Paragrafen 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG Paragrafen 3 Nr. 63, 4d, 4e, 6a, 19 Abs. 2, KStG Paragraf 5 (Pensionsfonds), VAG (Pensionskassen), HGB Paragraf 246 Abs. 2 S. 2, IDW RS HFA 30 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. bAV: Pensionsfonds-Rückdeckung
 
-Tragende Normen verifizieren: BetrAVG Paragrafen 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG Paragrafen 3 Nr. 63, 4d, 4e, 6a, 19 Abs. 2, KStG Paragraf 5 (Pensionsfonds), VAG (Pensionskassen), HGB Paragraf 246 Abs. 2 S. 2, IDW RS HFA 30 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Benefits: Mandantenkommunikation und Entscheidungsvorlage
 
-Tragende Normen verifizieren: BetrAVG Paragrafen 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG Paragrafen 3 Nr. 63, 4d, 4e, 6a, 19 Abs. 2, KStG Paragraf 5 (Pensionsfonds), VAG (Pensionskassen), HGB Paragraf 246 Abs. 2 S. 2, IDW RS HFA 30 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Betrieblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -194,11 +194,11 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast
 
 ### 15.10. Boutique: Fristennotiz und nächster Schritt
 
-Tragende Normen verifizieren: BetrAVG Paragrafen 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG Paragrafen 3 Nr. 63, 4d, 4e, 6a, 19 Abs. 2, KStG Paragraf 5 (Pensionsfonds), VAG (Pensionskassen), HGB Paragraf 246 Abs. 2 S. 2, IDW RS HFA 30 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Pension Buyout im M&A-Deal — Asset vs. Share Deal
 
-Tragende Normen verifizieren: BetrAVG Paragrafen 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG Paragrafen 3 Nr. 63, 4d, 4e, 6a, 19 Abs. 2, KStG Paragraf 5 (Pensionsfonds), VAG (Pensionskassen), HGB Paragraf 246 Abs. 2 S. 2, IDW RS HFA 30 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Buyouts Quellenkarte
 
@@ -210,4 +210,4 @@ entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert ein
 
 ### 15.14. CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation
 
-Tragende Normen verifizieren: BetrAVG Paragrafen 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG Paragrafen 3 Nr. 63, 4d, 4e, 6a, 19 Abs. 2, KStG Paragraf 5 (Pensionsfonds), VAG (Pensionskassen), HGB Paragraf 246 Abs. 2 S. 2, IDW RS HFA 30 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

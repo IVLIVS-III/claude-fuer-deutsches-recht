@@ -182,7 +182,7 @@ Normen: Paragraf 54 Abs. 1 SGG, Paragraf 7, Paragraf 7a. - Entscheidungs-/Quelle
 
 ### 15.5. Anhörung im sozialverwaltungsverfahren nach Paragraf 24 SGB X
 
-Tragende Normen verifizieren: SGG Paragrafen 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate. - Zuständige Stelle bestimmen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Anhörung im Sozialverwaltungsverfahren 24 Sgb X
 

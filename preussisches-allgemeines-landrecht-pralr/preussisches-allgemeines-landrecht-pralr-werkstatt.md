@@ -148,11 +148,11 @@ entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert ein
 
 ### 15.4. PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze
 
-Tragende Normen verifizieren: ALR Einleitung Paragrafen 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. PrALR: Erster Teil Titel 1 Personen und Stand
 
-Tragende Normen verifizieren: ALR Einleitung Paragrafen 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. PrALR: Erster Teil Titel 2 Sachen und Rechte
 
@@ -160,11 +160,11 @@ entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert ein
 
 ### 15.7. PrALR: Erster Teil Titel 3 Eigentum Besitz Nutzung
 
-Tragende Normen verifizieren: ALR Einleitung Paragrafen 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Pralr Erster Teil Titel 4 Willenserklärungen und Vertra
 
-Tragende Normen verifizieren: ALR Einleitung Paragrafen 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge
 
@@ -172,7 +172,7 @@ entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert ein
 
 ### 15.10. Pralr Erster Teil Titel 5 Verträge Allgemein Form und A
 
-Tragende Normen verifizieren: ALR Einleitung Paragrafen 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung
 
@@ -180,7 +180,7 @@ entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert ein
 
 ### 15.12. PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen
 
-Tragende Normen verifizieren: ALR Einleitung Paragrafen 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. PrALR: Erster Teil Titel 7 Gewahrsam Besitz und Eigentumsverfolgung
 
@@ -188,4 +188,4 @@ entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert ein
 
 ### 15.14. Pralr Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac
 
-Tragende Normen verifizieren: ALR Einleitung Paragrafen 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

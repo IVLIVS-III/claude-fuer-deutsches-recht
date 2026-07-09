@@ -136,15 +136,15 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. /anpassen — Kanzleiprofil und Einstellungen anpassen
 
-Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG Paragrafen 1 ff., GwG Paragrafen 2, 10, 11, 43 (Kanzlei als Verpflichteter), Datenschutz-Grundverordnung, beA-Bedingungen, Steuerrecht (EStG, UStG, GewStG) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kanzleigründer, Kammer, BRAK, Versicherer (Berufshaftpflicht), Mandant, Steuerberater, IT-Dienstleister (beA, RA-MICRO/AnNoText). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Kanzleihandbuch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Kanzlei-Builder-Hub — Allgemein
 
-Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG Paragrafen 1 ff., GwG Paragrafen 2, 10, 11, 43 (Kanzlei als Verpflichteter), Datenschutz-Grundverordnung, beA-Bedingungen, Steuerrecht (EStG, UStG, GewStG) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kanzleigründer, Kammer, BRAK, Versicherer (Berufshaftpflicht), Mandant, Steuerberater, IT-Dienstleister (beA, RA-MICRO/AnNoText). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Kanzleihandbuch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review
 
-Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG Paragrafen 1 ff., GwG Paragrafen 2, 10, 11, 43 (Kanzlei als Verpflichteter), Datenschutz-Grundverordnung, beA-Bedingungen, Steuerrecht (EStG, UStG, GewStG) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kanzleigründer, Kammer, BRAK, Versicherer (Berufshaftpflicht), Mandant, Steuerberater, IT-Dienstleister (beA, RA-MICRO/AnNoText). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Kanzleihandbuch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Builder: Übersicht Einsteiger
 
@@ -156,23 +156,23 @@ rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine 
 
 ### 15.6. Community: Fristen, Form, Zuständigkeit und Rechtsweg
 
-Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG Paragrafen 1 ff., GwG Paragrafen 2, 10, 11, 43 (Kanzlei als Verpflichteter), Datenschutz-Grundverordnung, beA-Bedingungen, Steuerrecht (EStG, UStG, GewStG) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kanzleigründer, Kammer, BRAK, Versicherer (Berufshaftpflicht), Mandant, Steuerberater, IT-Dienstleister (beA, RA-MICRO/AnNoText). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Kanzleihandbuch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Daten: Red-Team und Qualitätskontrolle
 
-Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG Paragrafen 1 ff., GwG Paragrafen 2, 10, 11, 43 (Kanzlei als Verpflichteter), Datenschutz-Grundverordnung, beA-Bedingungen, Steuerrecht (EStG, UStG, GewStG) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kanzleigründer, Kammer, BRAK, Versicherer (Berufshaftpflicht), Mandant, Steuerberater, IT-Dienstleister (beA, RA-MICRO/AnNoText). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Kanzleihandbuch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. /deaktivieren — Skill deaktivieren (ohne Dateilöschung)
 
-Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG Paragrafen 1 ff., GwG Paragrafen 2, 10, 11, 43 (Kanzlei als Verpflichteter), Datenschutz-Grundverordnung, beA-Bedingungen, Steuerrecht (EStG, UStG, GewStG) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kanzleigründer, Kammer, BRAK, Versicherer (Berufshaftpflicht), Mandant, Steuerberater, IT-Dienstleister (beA, RA-MICRO/AnNoText). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Kanzleihandbuch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Deinstallation
 
-Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG Paragrafen 1 ff., GwG Paragrafen 2, 10, 11, 43 (Kanzlei als Verpflichteter), Datenschutz-Grundverordnung, beA-Bedingungen, Steuerrecht (EStG, UStG, GewStG) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kanzleigründer, Kammer, BRAK, Versicherer (Berufshaftpflicht), Mandant, Steuerberater, IT-Dienstleister (beA, RA-MICRO/AnNoText). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Kanzleihandbuch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Deployment: Schriftsatz-, Brief- und Memo-Bausteine
 
-Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG Paragrafen 1 ff., GwG Paragrafen 2, 10, 11, 43 (Kanzlei als Verpflichteter), Datenschutz-Grundverordnung, beA-Bedingungen, Steuerrecht (EStG, UStG, GewStG) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kanzleigründer, Kammer, BRAK, Versicherer (Berufshaftpflicht), Mandant, Steuerberater, IT-Dienstleister (beA, RA-MICRO/AnNoText). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Kanzleihandbuch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Dokumentenintake
 
@@ -180,11 +180,11 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 
 ### 15.12. Eigenen: Formular, Portal und Einreichungslogik
 
-Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG Paragrafen 1 ff., GwG Paragrafen 2, 10, 11, 43 (Kanzlei als Verpflichteter), Datenschutz-Grundverordnung, beA-Bedingungen, Steuerrecht (EStG, UStG, GewStG) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kanzleigründer, Kammer, BRAK, Versicherer (Berufshaftpflicht), Mandant, Steuerberater, IT-Dienstleister (beA, RA-MICRO/AnNoText). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Kanzleihandbuch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Einsteiger: Mandantenkommunikation und Entscheidungsvorlage
 
-Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG Paragrafen 1 ff., GwG Paragrafen 2, 10, 11, 43 (Kanzlei als Verpflichteter), Datenschutz-Grundverordnung, beA-Bedingungen, Steuerrecht (EStG, UStG, GewStG) —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Kanzleigründer, Kammer, BRAK, Versicherer (Berufshaftpflicht), Mandant, Steuerberater, IT-Dienstleister (beA, RA-MICRO/AnNoText). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Kanzleihandbuch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Einstieg und Routing
 

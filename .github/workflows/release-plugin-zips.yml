@@ -66,6 +66,7 @@ jobs:
           python3 scripts/inject-direkt-loslegen-section.py
           python3 scripts/generate-skills-overview.py
           python3 scripts/generate-werkstatt-und-schnellstart-coverage.py
+          python3 scripts/audit-generated-prompt-hygiene.py
 
       - name: Skill-Indizes neu erzeugen (SKILLS.md + skills-index, Stand = marketplace-Version)
         run: python3 scripts/generate-skills-md.py
@@ -344,23 +345,26 @@ jobs:
                 return 0
               fi
               echo "Upload fehlgeschlagen (Versuch $attempt): $asset_name"
-              sleep $((attempt * 600))
+              sleep $((attempt * 180))
             done
             echo "Upload endgueltig fehlgeschlagen: $asset_name" >&2
             return 1
           }
 
           count=0
+          asset_list="$(mktemp)"
+          find dist -maxdepth 1 -type f \( -name '*.zip' -o -name 'marketplace.json' -o -name 'checksums-sha256.txt' \) | sort > "$asset_list"
+          total="$(wc -l < "$asset_list" | tr -d ' ')"
           while IFS= read -r asset; do
-            echo "Lade $(basename "$asset") hoch"
-            upload_asset "$asset"
             count=$((count + 1))
-            if [ $((count % 20)) -eq 0 ]; then
-              sleep 60
+            echo "Lade $count/$total: $(basename "$asset")"
+            upload_asset "$asset"
+            if [ $((count % 50)) -eq 0 ]; then
+              sleep 20
             else
-              sleep 4
+              sleep 1
             fi
-          done < <(find dist -maxdepth 1 -type f \( -name '*.zip' -o -name 'marketplace.json' -o -name 'checksums-sha256.txt' \) | sort)
+          done < "$asset_list"
 
       - name: Release-Assets remote verifizieren
         if: steps.tagref.outputs.tag != ''

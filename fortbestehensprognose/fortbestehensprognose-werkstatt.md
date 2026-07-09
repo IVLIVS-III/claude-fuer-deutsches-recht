@@ -101,6 +101,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Vorsatzanfechtung verlangt Gesamtwürdigung der Indizien.
 - BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Sanierungsversuch kann Vorsatzanfechtung beeinflussen, wenn er tragfähig ist.
 - BGH, Urteil vom 28.06.2012 - IX ZR 219/10: Bargeschäftsnaehe kann Anfechtungsrisiken begrenzen.
+- BGH, Urteil vom 13.07.2021 - II ZR 84/20: weiche Patronatserklärung verhindert rechnerische Überschuldung nicht und trägt eine Fortbestehensprognose in der Krise nur ausnahmsweise bei belastbarer
 
 ## 9. Prüfraster
 
@@ -156,11 +157,11 @@ Paragraf 535 Abs. 1 BGB — Hauptpflichten des Mietvertrags. - Paragraf 536 Abs.
 
 ### 15.2. Annahmen plausibilisieren
 
-Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB Paragraf 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG Paragrafen 1, 102 — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Annahmen sammeln (Fortführung)
 
-Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB Paragraf 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG Paragrafen 1, 102 — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Anschluss-Routing
 
@@ -168,15 +169,15 @@ Dieses Anschluss-Routing für Fortbestehensprognose wählt nach dem ersten Ergeb
 
 ### 15.5. Auslösendes Ereignis erfassen
 
-Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB Paragraf 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG Paragrafen 1, 102 — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Bilanzieller Status aufnehmen
 
-Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB Paragraf 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG Paragrafen 1, 102 — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Bilanzstatus: Risikoampel, Gegenargumente und Verteidigungslinien
 
-Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB Paragraf 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG Paragrafen 1, 102 — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Comfortletter: Internationaler Bezug und Schnittstellen
 
@@ -184,7 +185,7 @@ Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten
 
 ### 15.9. Comfortletter (weich)
 
-Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB Paragraf 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG Paragrafen 1, 102 — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Dokumentenintake
 
@@ -200,8 +201,8 @@ entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert ein
 
 ### 15.13. FBP: Bankenkommunikation Waiver
 
-Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB Paragraf 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG Paragrafen 1, 102 — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. FBP: Integrierte Planung Bauleiter
 
-Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB Paragraf 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG Paragrafen 1, 102 — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

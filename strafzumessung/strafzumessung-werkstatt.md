@@ -152,7 +152,7 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Einstellung gegen Auflage — Paragraf 153a StPO
 
-Tragende Normen verifizieren: StGB Paragrafen 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO Paragrafen 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; Paragraf 56; Paragraf 49 Regelbeispiele besonders schwerer Fall. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Anschluss-Routing
 
@@ -160,7 +160,7 @@ Dieses Anschluss-Routing für Strafzumessung wählt nach dem ersten Ergebnis die
 
 ### 15.3. Besonders: Formular, Portal und Einreichungslogik
 
-Tragende Normen verifizieren: StGB Paragrafen 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO Paragrafen 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; Paragraf 56; Paragraf 49 Regelbeispiele besonders schwerer Fall. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Strafaussetzung zur Bewährung — Paragraf 56 StGB
 
@@ -172,11 +172,11 @@ Auflagen Paragraf 56b StGB und Weisungen Paragraf 56c StGB im Bewährungsbeschlu
 
 ### 15.6. Bewährung: Mehrparteienkonflikt und Interessenmatrix
 
-Tragende Normen verifizieren: StGB Paragrafen 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO Paragrafen 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; Paragraf 56; Paragraf 49 Regelbeispiele besonders schwerer Fall. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Bewährungswiderruf — Paragraf 56f StGB
 
-Tragende Normen verifizieren: StGB Paragrafen 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO Paragrafen 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; Paragraf 56; Paragraf 49 Regelbeispiele besonders schwerer Fall. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage
 

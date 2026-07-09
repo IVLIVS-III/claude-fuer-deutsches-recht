@@ -160,7 +160,7 @@ Prüft den beA-Versand nach Pflichten des Paragraf 130a ZPO Paragraf 32d StPO Pa
 
 ### 15.7. Kanzlei-Buchhaltung, Konten und Zahlungsabgleich
 
-Tragende Normen verifizieren: BRAO Paragrafen 43, 43a, 43e, 45, 49b, 53, 59b, 73; BORA Paragrafen 2, 3, 4, 5, 6, 10, 11, 12; RVG Paragrafen 3a, 10; GwG Paragrafen 2, 10, 11, 43; Datenschutz-Grundverordnung Art. 5, 6, 9, 28, 32; BDSG Paragraf 26; ZPO Paragraf 130d; BRAO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Einstieg und Routing
 
@@ -168,23 +168,23 @@ Dieser Einstieg routet Kanzlei Allgemein vom ersten Sachverhalt zu Rollen, Frist
 
 ### 15.9. E-Rechnung, XRechnung, ZUGFeRD und GoBD
 
-Tragende Normen verifizieren: BRAO Paragrafen 43, 43a, 43e, 45, 49b, 53, 59b, 73; BORA Paragrafen 2, 3, 4, 5, 6, 10, 11, 12; RVG Paragrafen 3a, 10; GwG Paragrafen 2, 10, 11, 43; Datenschutz-Grundverordnung Art. 5, 6, 9, 28, 32; BDSG Paragraf 26; ZPO Paragraf 130d; BRAO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Freundlicher Kanzlei-Copilot
 
-Tragende Normen verifizieren: BRAO Paragrafen 43, 43a, 43e, 45, 49b, 53, 59b, 73; BORA Paragrafen 2, 3, 4, 5, 6, 10, 11, 12; RVG Paragrafen 3a, 10; GwG Paragrafen 2, 10, 11, 43; Datenschutz-Grundverordnung Art. 5, 6, 9, 28, 32; BDSG Paragraf 26; ZPO Paragraf 130d; BRAO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Zentrales Fristenbuch der Kanzlei
 
-Tragende Normen verifizieren: BRAO Paragrafen 43, 43a, 43e, 45, 49b, 53, 59b, 73; BORA Paragrafen 2, 3, 4, 5, 6, 10, 11, 12; RVG Paragrafen 3a, 10; GwG Paragrafen 2, 10, 11, 43; Datenschutz-Grundverordnung Art. 5, 6, 9, 28, 32; BDSG Paragraf 26; ZPO Paragraf 130d; BRAO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Geburtstage und Feiertage
 
-Tragende Normen verifizieren: BRAO Paragrafen 43, 43a, 43e, 45, 49b, 53, 59b, 73; BORA Paragrafen 2, 3, 4, 5, 6, 10, 11, 12; RVG Paragrafen 3a, 10; GwG Paragrafen 2, 10, 11, 43; Datenschutz-Grundverordnung Art. 5, 6, 9, 28, 32; BDSG Paragraf 26; ZPO Paragraf 130d; BRAO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Handelsregisterabruf
 
-Tragende Normen verifizieren: BRAO Paragrafen 43, 43a, 43e, 45, 49b, 53, 59b, 73; BORA Paragrafen 2, 3, 4, 5, 6, 10, 11, 12; RVG Paragrafen 3a, 10; GwG Paragrafen 2, 10, 11, 43; Datenschutz-Grundverordnung Art. 5, 6, 9, 28, 32; BDSG Paragraf 26; ZPO Paragraf 130d; BRAO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. HR und Personalverwaltung
 

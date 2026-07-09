@@ -167,11 +167,11 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestand
 
 ### 15.5. Arbeitsschutz und BetrSichV
 
-Tragende Normen verifizieren: EU Regulierungsrahmen (VO 2024/1689) Art. 6, 8-15, 16, 26, 50, 73, 99, Maschinenverordnung 2023/1230, Produkthaftungs-Richtlinie 2024/2853, BGB Paragrafen 823, 831, ProdHaftG, EU NIS2-RL 2022/2555, EU CRA — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Betreiber, Endnutzer, Marktüberwachungsbehörde (BMAS/BNetzA/BMDV), benannte Stelle (Notified Body), System-Aufsicht (BNetzA-Stelle). - Dokumente und Beweismittel sammeln und auf Lücken. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Arbeitswelt Cobot Check
 
-Tragende Normen verifizieren: EU Regulierungsrahmen (VO 2024/1689) Art. 6, 8-15, 16, 26, 50, 73, 99, Maschinenverordnung 2023/1230, Produkthaftungs-Richtlinie 2024/2853, BGB Paragrafen 823, 831, ProdHaftG, EU NIS2-RL 2022/2555, EU CRA — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Betreiber, Endnutzer, Marktüberwachungsbehörde (BMAS/BNetzA/BMDV), benannte Stelle (Notified Body), System-Aufsicht (BNetzA-Stelle). - Dokumente und Beweismittel sammeln und auf Lücken. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Art. 3 digitale Werkzeuge-System Robotik
 
@@ -179,7 +179,7 @@ Entscheidende Weiche: Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsg
 
 ### 15.8. Art. 6 Hochrisiko Robotik
 
-Tragende Normen verifizieren: EU Regulierungsrahmen (VO 2024/1689) Art. 6, 8-15, 16, 26, 50, 73, 99, Maschinenverordnung 2023/1230, Produkthaftungs-Richtlinie 2024/2853, BGB Paragrafen 823, 831, ProdHaftG, EU NIS2-RL 2022/2555, EU CRA — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Betreiber, Endnutzer, Marktüberwachungsbehörde (BMAS/BNetzA/BMDV), benannte Stelle (Notified Body), System-Aufsicht (BNetzA-Stelle). - Dokumente und Beweismittel sammeln und auf Lücken. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Autonome Lieferroboter im öffentlichen Raum
 
@@ -187,7 +187,7 @@ Entscheidende Weiche: Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsg
 
 ### 15.10. Barrierefreiheit und Inklusion bei Robotern
 
-Tragende Normen verifizieren: EU Regulierungsrahmen (VO 2024/1689) Art. 6, 8-15, 16, 26, 50, 73, 99, Maschinenverordnung 2023/1230, Produkthaftungs-Richtlinie 2024/2853, BGB Paragrafen 823, 831, ProdHaftG, EU NIS2-RL 2022/2555, EU CRA — Fundstellen über gesetze-im-internet.de. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Betreiber, Endnutzer, Marktüberwachungsbehörde (BMAS/BNetzA/BMDV), benannte Stelle (Notified Body), System-Aufsicht (BNetzA-Stelle). - Dokumente und Beweismittel sammeln und auf Lücken. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Batterie, Ladeinfrastruktur und Brandschutz bei mobilen Robotern
 

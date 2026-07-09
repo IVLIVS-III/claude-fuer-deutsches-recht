@@ -152,23 +152,23 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Franchiserecht: Abwicklung, Rückbau und Warenbestand nach Vertragsende
 
-Tragende Normen verifizieren: GWB Paragrafen 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB Paragrafen 311 ff., 305 ff., HGB Paragrafen 84 ff., MarkenG, EU-Vertikal-GVO 2022/720, WettbR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Franchiserecht: Arbeitsrecht und Scheinselbstständigkeit im Franchise
 
-Tragende Normen verifizieren: GWB Paragrafen 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB Paragrafen 311 ff., 305 ff., HGB Paragrafen 84 ff., MarkenG, EU-Vertikal-GVO 2022/720, WettbR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Franchise: Ausgleichsanspruch nach Vertragsende und Kundendaten
 
-Tragende Normen verifizieren: GWB Paragrafen 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB Paragrafen 311 ff., 305 ff., HGB Paragrafen 84 ff., MarkenG, EU-Vertikal-GVO 2022/720, WettbR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Franchiserecht: Bau- und Ladenbau-Pflichten
 
-Tragende Normen verifizieren: GWB Paragrafen 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB Paragrafen 311 ff., 305 ff., HGB Paragrafen 84 ff., MarkenG, EU-Vertikal-GVO 2022/720, WettbR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Franchiserecht: Bewertungen, Google, Plattformen und Rufschutz
 
-Tragende Normen verifizieren: GWB Paragrafen 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB Paragrafen 311 ff., 305 ff., HGB Paragrafen 84 ff., MarkenG, EU-Vertikal-GVO 2022/720, WettbR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Franchiserecht: Bezugsbindung, Lieferanten und Kartellrecht
 
@@ -176,7 +176,7 @@ rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine 
 
 ### 15.7. Franchiserecht: Bildungsfranchise, Schulrecht und Werbung
 
-Tragende Normen verifizieren: GWB Paragrafen 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB Paragrafen 311 ff., 305 ff., HGB Paragrafen 84 ff., MarkenG, EU-Vertikal-GVO 2022/720, WettbR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Franchise: CRM-Daten und gemeinsame Verantwortlichkeit
 
@@ -184,7 +184,7 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologi
 
 ### 15.9. Franchiserecht: Datenschutz, CRM, Kundendaten und gemeinsame Verantwortlichkeit
 
-Tragende Normen verifizieren: GWB Paragrafen 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB Paragrafen 311 ff., 305 ff., HGB Paragrafen 84 ff., MarkenG, EU-Vertikal-GVO 2022/720, WettbR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Franchiserecht: Disclosure-Dokument für internationale Investoren
 
@@ -196,12 +196,12 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologi
 
 ### 15.12. Franchiserecht: E-Commerce-Franchise, Retouren und Widerrufsrecht
 
-Tragende Normen verifizieren: GWB Paragrafen 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB Paragrafen 311 ff., 305 ff., HGB Paragrafen 84 ff., MarkenG, EU-Vertikal-GVO 2022/720, WettbR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Franchiserecht: Einstweilige Verfügung – Markennutzung stoppen
 
-Tragende Normen verifizieren: GWB Paragrafen 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB Paragrafen 311 ff., 305 ff., HGB Paragrafen 84 ff., MarkenG, EU-Vertikal-GVO 2022/720, WettbR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Franchiserecht: Eintrittsgebühr, laufende Gebühren und Marketingfee
 
-Tragende Normen verifizieren: GWB Paragrafen 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BGB Paragrafen 311 ff., 305 ff., HGB Paragrafen 84 ff., MarkenG, EU-Vertikal-GVO 2022/720, WettbR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

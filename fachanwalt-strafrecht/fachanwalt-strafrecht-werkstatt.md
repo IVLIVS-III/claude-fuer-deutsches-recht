@@ -101,8 +101,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Beschluss vom 10.01.2017 - 4 StR 247/16: Beweiswürdigung darf keine Lücken und Widersprüche offenlassen.
 - BVerfG, Beschluss vom 19.03.2013 - 2 BvR 2628/10: Verständigung im Strafverfahren verlangt Transparenz und Dokumentation.
 - BGH, Beschluss vom 28.11.2018 - 5 StR 566/18: Strafzumessung muss schuldangemessen begründet werden.
-- BVerfG-Linie zur Akteneinsicht in Haftsachen: bei Untersuchungshaft sind alle haftrelevanten Aktenteile zugänglich zu machen, sonst Verstoß gegen Art. 103 Abs. 1 GG (siehe BVerfG 04.10.2017 — 2 BvR
-- BVerfG 23.09.2025 — 2 BvR 625/25 (ANOM-Verwertbarkeit): Grundrechtliche Maßstäbe an die Verwertung verdeckt erhobener Kommunikationsdaten — Übertragbarkeit auf ChatControl-Szenarien diskussionswürdig
 
 ## 9. Prüfraster
 
@@ -158,7 +156,7 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 
 ### 15.2. Adhaesionsverfahren
 
-Tragende Normen verifizieren: StGB Paragrafen 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO Paragrafen 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung
 
@@ -166,7 +164,7 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast
 
 ### 15.4. Akteneinsicht Paragraf 147 StPO: Verteidigerrecht nach Abs
 
-Tragende Normen verifizieren: StGB Paragrafen 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO Paragrafen 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Strukturierte Auswertung der Strafakte nach Akteneinsicht Paragraf 147 StPO
 
@@ -174,7 +172,7 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologi
 
 ### 15.6. Anklage Reaktion
 
-Tragende Normen verifizieren: StGB Paragrafen 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO Paragrafen 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Anschluss-Routing
 
@@ -182,7 +180,7 @@ Dieses Anschluss-Routing für Fachanwalt Strafrecht wählt nach dem ersten Ergeb
 
 ### 15.8. Chatcontrol Csam Anwaltsgeheimnis 53 StPO
 
-Tragende Normen verifizieren: StGB Paragrafen 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO Paragrafen 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Dokumentenintake
 
@@ -190,7 +188,7 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 
 ### 15.10. Schriftliche Einlassung des Beschuldigten vorbereiten oder Schweigen Paragraf 136 StPO
 
-Tragende Normen verifizieren: StGB Paragrafen 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO Paragrafen 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Anwalts-Dashboard Fachanwalt Strafrecht
 
@@ -198,11 +196,11 @@ Tragende Normen verifizieren: StGB Paragrafen 13, 22, 23, 25, 32, 35, 46, 47, 56
 
 ### 15.12. Einstieg, Schnelltriage und Fallrouting
 
-Tragende Normen verifizieren: StGB Paragrafen 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO Paragrafen 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Ergaenzt: Mandantenkommunikation und Entscheidungsvorlage
 
-Tragende Normen verifizieren: StGB Paragrafen 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO Paragrafen 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation
 

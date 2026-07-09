@@ -20,8 +20,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 1. Chronologie und Belegmatrix: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix.
 2. Abstimmung Lektorat / Redaktion (Format-Klärung): entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie.
 3. Abstimmung mit Autorin (Feedback-Kanal): ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie.
-4. Abstimmung Produktion / Satz / Druck: Tragende Normen verifizieren: UrhG Paragrafen 1, 7, 11, 31, 32, 34, 38, 41, 43, 50, 51, 51a, 53, 87a-h, VerlG, BGB.
-5. Inhouse-Legal-Check vor Veröffentlichung: Tragende Normen verifizieren: UrhG Paragrafen 1, 7, 11, 31, 32, 34, 38, 41, 43, 50, 51, 51a, 53, 87a-h, VerlG, BGB.
+4. Abstimmung Produktion / Satz / Druck: Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort.
+5. Inhouse-Legal-Check vor Veröffentlichung: Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort.
 6. Abstimmung mit Vertrieb / Marketing: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
 
 ## 4. Fallkarte
@@ -42,8 +42,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Chronologie und Belegmatrix | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Abstimmung Lektorat / Redaktion (Format-Klärung) | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Abstimmung mit Autorin (Feedback-Kanal) | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abstimmung Produktion / Satz / Druck | Tragende Normen verifizieren: UrhG Paragrafen 1, 7, 11, 31, 32, 34, 38, 41, 43, 50, 51, 51a, 53, 87a-h, VerlG, BGB. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Inhouse-Legal-Check vor Veröffentlichung | Tragende Normen verifizieren: UrhG Paragrafen 1, 7, 11, 31, 32, 34, 38, 41, 43, 50, 51, 51a, 53, 87a-h, VerlG, BGB. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abstimmung Produktion / Satz / Druck | Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Inhouse-Legal-Check vor Veröffentlichung | Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Abstimmung mit Vertrieb / Marketing | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker

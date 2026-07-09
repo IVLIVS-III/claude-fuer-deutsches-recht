@@ -148,19 +148,19 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Abmahnung Designrecht
 
-Tragende Normen verifizieren: DesignG Paragrafen 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Aufgeschobene Bekanntmachung
 
-Tragende Normen verifizieren: DesignG Paragrafen 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Automotive Design und Ersatzteile
 
-Tragende Normen verifizieren: DesignG Paragrafen 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Bestimmung Informierter Benutzer
 
-Tragende Normen verifizieren: DesignG Paragrafen 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Beweissicherung Designvergleich
 
@@ -168,23 +168,23 @@ entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert ein
 
 ### 15.6. Design Due Diligence Ma
 
-Tragende Normen verifizieren: DesignG Paragrafen 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Design und Patent Gebrauchsmuster Abgrenzung
 
-Tragende Normen verifizieren: DesignG Paragrafen 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Design und Markenrecht Formmarke
 
-Tragende Normen verifizieren: DesignG Paragrafen 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Design und Urheberrecht Angewandte Kunst
 
-Tragende Normen verifizieren: DesignG Paragrafen 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Design und Uwg Nachahmungsschutz
 
-Tragende Normen verifizieren: DesignG Paragrafen 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Designlizenz Vertrag
 
@@ -192,11 +192,11 @@ zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert e
 
 ### 15.12. Designnichtigkeit Dpma
 
-Tragende Normen verifizieren: DesignG Paragrafen 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Designportfolio Startup
 
-Tragende Normen verifizieren: DesignG Paragrafen 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Designrecherche Dpmaregister Euipo Wipo
 

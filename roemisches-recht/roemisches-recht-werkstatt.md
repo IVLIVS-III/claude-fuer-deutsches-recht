@@ -143,11 +143,11 @@ Tafel I (Ladung) — si in ius vocat, ito — Selbsthilfe-geprägter Prozessbegi
 
 ### 15.6. Rom Zwölftafelrecht Familiengewalt Erbrecht und Nachbar
 
-Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Kaiserkonstitutionen, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB Paragrafen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Rom Zwölftafelrecht Delikt Busse Talion und Komposition
 
-Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Kaiserkonstitutionen, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB Paragrafen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Rom Zwölftafelrecht Schuldhaft Nexum und Soziale Ordnun
 

@@ -123,19 +123,19 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Angebotsschreiben Offer Letter
 
-Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4, ArbZG Paragrafen 3-7, BUrlG Paragrafen 1-7, TzBfG Paragrafen 14-15, KSchG Paragrafen 1, 4, 7, MuSchG/BEEG, SGB IX Paragrafen 164, 167, BetrVG Paragrafen 80, 87, 99. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Anwalt und Steuerberater Briefing
 
-Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4, ArbZG Paragrafen 3-7, BUrlG Paragrafen 1-7, TzBfG Paragrafen 14-15, KSchG Paragrafen 1, 4, 7, MuSchG/BEEG, SGB IX Paragrafen 164, 167, BetrVG Paragrafen 80, 87, 99. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Arbeitnehmerüberlassung AÜG Risk
 
-Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4, ArbZG Paragrafen 3-7, BUrlG Paragrafen 1-7, TzBfG Paragrafen 14-15, KSchG Paragrafen 1, 4, 7, MuSchG/BEEG, SGB IX Paragrafen 164, 167, BetrVG Paragrafen 80, 87, 99. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Arbeitserlaubnis Blue Card Nicht EU
 
-Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4, ArbZG Paragrafen 3-7, BUrlG Paragrafen 1-7, TzBfG Paragrafen 14-15, KSchG Paragrafen 1, 4, 7, MuSchG/BEEG, SGB IX Paragrafen 164, 167, BetrVG Paragrafen 80, 87, 99. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Arbeitsschutz Psychische Gefährdungsbeurteilung
 
@@ -143,36 +143,36 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittste
 
 ### 15.6. Abmahnung Entwurf und Risiko
 
-Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4, ArbZG Paragrafen 3-7, BUrlG Paragrafen 1-7, TzBfG Paragrafen 14-15, KSchG Paragrafen 1, 4, 7, MuSchG/BEEG, SGB IX Paragrafen 164, 167, BetrVG Paragrafen 80, 87, 99. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Arbeitsvertrag Befristung TzBfG
 
-Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4, ArbZG Paragrafen 3-7, BUrlG Paragrafen 1-7, TzBfG Paragrafen 14-15, KSchG Paragrafen 1, 4, 7, MuSchG/BEEG, SGB IX Paragrafen 164, 167, BetrVG Paragrafen 80, 87, 99. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Arbeitsvertrag Englisch Deutsch Bilingual
 
-Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4, ArbZG Paragrafen 3-7, BUrlG Paragrafen 1-7, TzBfG Paragrafen 14-15, KSchG Paragrafen 1, 4, 7, MuSchG/BEEG, SGB IX Paragrafen 164, 167, BetrVG Paragrafen 80, 87, 99. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Arbeitsvertrag Founder Nahe Schlüsselrolle
 
-Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4, ArbZG Paragrafen 3-7, BUrlG Paragrafen 1-7, TzBfG Paragrafen 14-15, KSchG Paragrafen 1, 4, 7, MuSchG/BEEG, SGB IX Paragrafen 164, 167, BetrVG Paragrafen 80, 87, 99. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Arbeitsvertrag Remote Hybrid Berlin
 
-Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4, ArbZG Paragrafen 3-7, BUrlG Paragrafen 1-7, TzBfG Paragrafen 14-15, KSchG Paragrafen 1, 4, 7, MuSchG/BEEG, SGB IX Paragrafen 164, 167, BetrVG Paragrafen 80, 87, 99. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Arbeitsvertrag Standard Unbefristet
 
-Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4, ArbZG Paragrafen 3-7, BUrlG Paragrafen 1-7, TzBfG Paragrafen 14-15, KSchG Paragrafen 1, 4, 7, MuSchG/BEEG, SGB IX Paragrafen 164, 167, BetrVG Paragrafen 80, 87, 99. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Arbeitszeit Erfassung ArbZG
 
-Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4, ArbZG Paragrafen 3-7, BUrlG Paragrafen 1-7, TzBfG Paragrafen 14-15, KSchG Paragrafen 1, 4, 7, MuSchG/BEEG, SGB IX Paragrafen 164, 167, BetrVG Paragrafen 80, 87, 99. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Arbeitszeugnis Standard und Code
 
-Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4, ArbZG Paragrafen 3-7, BUrlG Paragrafen 1-7, TzBfG Paragrafen 14-15, KSchG Paragrafen 1, 4, 7, MuSchG/BEEG, SGB IX Paragrafen 164, 167, BetrVG Paragrafen 80, 87, 99. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Aufhebungsvertrag und Sperrzeit
 
-Tragende Normen verifizieren: BGB Paragrafen 611a, 612a, 613a, 626, GewO Paragraf 106, NachwG Paragrafen 2-4, ArbZG Paragrafen 3-7, BUrlG Paragrafen 1-7, TzBfG Paragrafen 14-15, KSchG Paragrafen 1, 4, 7, MuSchG/BEEG, SGB IX Paragrafen 164, 167, BetrVG Paragrafen 80, 87, 99. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

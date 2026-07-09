@@ -98,8 +98,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 10.10.2012 - VIII ZR 107/12: Zahlungsverzug kann fristlose Kündigung tragen, Schonfristzahlung wirkt nur begrenzt.
 - BGH, Urteil vom 19.07.2024 - V ZR 102/23: Beschlüsse zu Jahresabrechnung/Wirtschaftsplan sind nach neuem Recht auf Vorschüsse, Nachschüsse und Vorschussanpassungen auszulegen
 - BGH, Urteil vom 20.09.2024 - V ZR 195/23: Fehler der Jahresabrechnung sind für die Ungültigkeit relevant, wenn sie die Abrechnungsspitze/Zahlungspflicht betreffen
-- BGH, Urteil vom 26.10.2012, V ZR 57/12: Die Abdichtungsebene des Bades gehört zum Gemeinschaftseigentum, auch wenn sie innerhalb der Wohnung liegt; ihr Eingriff für eine bodengleiche Dusche bedarf daher
-- BGH, Urteil vom 09.02.2024, V ZR 244/22: Auch ein außen am Gebäude angebauter Aufzug mit erheblichen Eingriffen in das Gemeinschaftseigentum (Öffnung Fassade, Fundament) ist vom Anspruch gedeckt
 
 ## 9. Prüfraster
 
@@ -159,7 +157,7 @@ Normen: Paragrafen 535, Paragrafen 18, Paragraf 16 Abs. 2. - Entscheidungs-/Quel
 
 ### 15.3. Bad Umbau Bodengleiche Dusche Sondereigentum Gemeinschaft
 
-Tragende Normen verifizieren: WEG Paragrafen 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB Paragrafen 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Barrierefreie Einladungen, Protokolle und Abrechnungen
 
@@ -167,7 +165,7 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutz
 
 ### 15.5. Bauliche Formular Portal und Einreichung
 
-Tragende Normen verifizieren: WEG Paragrafen 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB Paragrafen 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Bauliche Veränderung: Aufzug und Treppenlift nach Paragraf 20 Abs. 2 Nr. 2 WEG
 
@@ -175,7 +173,7 @@ Normen: Paragraf 20 Abs. 2 Nr. 2 WEG, Paragrafen 535, Paragrafen 18. - Entscheid
 
 ### 15.7. Aufzug-Nachrüstung und Treppenlift als privilegierte bauliche Veränderung nach Paragraf 20 Abs
 
-Tragende Normen verifizieren: WEG Paragrafen 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB Paragrafen 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Bauliche Veränderungen nach Paragraf 20 WEG
 
@@ -203,4 +201,4 @@ Normen: Paragrafen 535, Paragrafen 18, Paragraf 16 Abs. 2. - Entscheidungs-/Quel
 
 ### 15.14. Beschlusssammlung Schriftsatz Brief und Memo Bausteine
 
-Tragende Normen verifizieren: WEG Paragrafen 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB Paragrafen 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

@@ -17,12 +17,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. AG/Seminar-Vorbereitung (Cold-Call-Prep): Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW.
-2. Jurastudium — Allgemein: Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW.
+1. AG/Seminar-Vorbereitung (Cold-Call-Prep): Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
+2. Jurastudium — Allgemein: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
 3. Dokumentenintake: Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren.
 4. Einstieg und Routing: Dieser Einstieg routet Jurastudium vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem.
-5. Examensprognose / JPA-Statistik: Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW.
-6. Examensvorbereitungs-Fragen: Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW.
+5. Examensprognose / JPA-Statistik: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
+6. Examensvorbereitungs-Fragen: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
 
 ## 4. Fallkarte
 
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | Paragrafen 133, 157 BGB; Paragraf 280 Abs. 1 BGB — Schadensersatz; Paragrafen 32, 34 StGB — Notwehr/Notstand |
 | Rechtsprechung | BGH nennen |
-| Tatbestand | Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW |
+| Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| AG/Seminar-Vorbereitung (Cold-Call-Prep) | Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Jurastudium — Allgemein | Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AG/Seminar-Vorbereitung (Cold-Call-Prep) | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Jurastudium — Allgemein | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Dokumentenintake | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Einstieg und Routing | Dieser Einstieg routet Jurastudium vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Examensprognose / JPA-Statistik | Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Examensvorbereitungs-Fragen | Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Examensprognose / JPA-Statistik | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Examensvorbereitungs-Fragen | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

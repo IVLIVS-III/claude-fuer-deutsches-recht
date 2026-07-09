@@ -59,8 +59,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zahlungsunfähigkeit ist regelmäßig bei Liquiditätslücke von zehn Prozent anzunehmen.
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.
 - BGH IX ZR 72/20 vom 06.05.2021 — Grundsatzentscheidung Neuausrichtung Vorsatzanfechtung; aus bloßer Zahlungsunfähigkeit allein kein Schluss auf Vorsatz iSd Paragraf 133 Abs. 1 InsO
-- BGH IX ZR 129/22 vom 18.04.2024 — Bestätigung: Verwalter muss konkret darlegen, dass der Schuldner wusste oder billigend in Kauf nahm, andere Gläubiger zu späterer Zeit nicht vollständig zu befriedigen
-- BGH IX ZR 122/23 vom 05.12.2024 — Konkretisierung Unlauterkeit Paragraf 142 Abs. 1 Hs. 2 InsO: erfordert gezielt schädigendes Verhalten oder gezielte Bevorzugung; bloße Verlustsituation genügt nicht
+- BVerfG 1 BvR 418/25 vom 28.02.2025 (3. Kammer, Erster Senat — VARTA) — Eingriffe in Aktionärsrechte durch StaRUG-Plan im Restrukturierungsverfahren verfassungsrechtlich nicht generell ausgeschlossen
+- BGH IX ZR 229/22 vom 23.01.2025 — Objektive Zahlungsunfähigkeit; streitige nicht titulierte Forderungen nach objektiver Rechtslage; vorläufig vollstreckbar titulierte fällige Forderungen
 
 ## 7. Antwortform
 

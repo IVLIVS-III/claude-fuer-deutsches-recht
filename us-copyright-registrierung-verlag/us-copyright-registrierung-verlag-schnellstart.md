@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Anwendbares Recht: Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen.
 4. Materielle Prüfung nach dem berufenen Recht: bei auslaendischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden.
 5. Durchsetzung: Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt.
-6. Advertising und Promotional Campaigns: Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO.
+6. Advertising und Promotional Campaigns: Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC).
 
 ## 4. Fallkarte
 
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | Bruessel-Ia-VO Artikel 4, 7 und 25; Rom-I-VO Artikel 3 und 4; Rom-II-VO Artikel 4 |
 | Rechtsprechung | Rechtsprechung nur fallbezogen und nach Live-Verifikation |
-| Tatbestand | Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO |
+| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC) |
 | Beweislast | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden |
 | Rechtsfolge | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Advertising und Promotional Campaigns | Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| algorithmische Systeme Contract Disclosure und Warranties | Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| automatisiert erzeugtes Material Material Disclosure | Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Advertising und Promotional Campaigns | Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| algorithmische Systeme Contract Disclosure und Warranties | Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| automatisiert erzeugtes Material Material Disclosure | Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | algorithmische Systeme Output und Copyrightability | Entscheidende Weiche: Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Training automatisierter Systeme und Fair Use Risk | Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anti-Circumvention Paragraf 1201 | Tragende Normen verifizieren: 17 U.S.C. Paragrafen 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Training automatisierter Systeme und Fair Use Risk | Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anti-Circumvention Paragraf 1201 | Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

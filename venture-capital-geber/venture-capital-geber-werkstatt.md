@@ -143,19 +143,19 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Angel-Syndikat und Lead Investor
 
-Tragende Normen verifizieren: BGB Paragrafen 311b Abs. 1, 145 ff., GmbHG Paragrafen 5, 15, 16, 17, 53, 55, AktG Paragrafen 182, 186, 192, 202, UmwG, KAGB Paragrafen 1, 2, 281 ff. (geschlossener Spezial-AIF), AStG Paragrafen 6, 50d, EStG Paragrafen 17, 20 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: VC-Fonds (Limited Partner / General Partner), Gründer, Co-Investoren, Notar, Steuerberater, Aufsichtsbehörde BaFin (KAGB), Handelsregister. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Term Sheet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Anti-Dilution und Down Round
 
-Tragende Normen verifizieren: BGB Paragrafen 311b Abs. 1, 145 ff., GmbHG Paragrafen 5, 15, 16, 17, 53, 55, AktG Paragrafen 182, 186, 192, 202, UmwG, KAGB Paragrafen 1, 2, 281 ff. (geschlossener Spezial-AIF), AStG Paragrafen 6, 50d, EStG Paragrafen 17, 20 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: VC-Fonds (Limited Partner / General Partner), Gründer, Co-Investoren, Notar, Steuerberater, Aufsichtsbehörde BaFin (KAGB), Handelsregister. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Term Sheet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Arbeitsrecht und Founder Team
 
-Tragende Normen verifizieren: BGB Paragrafen 311b Abs. 1, 145 ff., GmbHG Paragrafen 5, 15, 16, 17, 53, 55, AktG Paragrafen 182, 186, 192, 202, UmwG, KAGB Paragrafen 1, 2, 281 ff. (geschlossener Spezial-AIF), AStG Paragrafen 6, 50d, EStG Paragrafen 17, 20 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: VC-Fonds (Limited Partner / General Partner), Gründer, Co-Investoren, Notar, Steuerberater, Aufsichtsbehörde BaFin (KAGB), Handelsregister. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Term Sheet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Board Observer und Beirat
 
-Tragende Normen verifizieren: BGB Paragrafen 311b Abs. 1, 145 ff., GmbHG Paragrafen 5, 15, 16, 17, 53, 55, AktG Paragrafen 182, 186, 192, 202, UmwG, KAGB Paragrafen 1, 2, 281 ff. (geschlossener Spezial-AIF), AStG Paragrafen 6, 50d, EStG Paragrafen 17, 20 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: VC-Fonds (Limited Partner / General Partner), Gründer, Co-Investoren, Notar, Steuerberater, Aufsichtsbehörde BaFin (KAGB), Handelsregister. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Term Sheet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Board-Pack-Auswertung
 
@@ -163,36 +163,36 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumenten
 
 ### 15.6. Bridge Round und Inside Round
 
-Tragende Normen verifizieren: BGB Paragrafen 311b Abs. 1, 145 ff., GmbHG Paragrafen 5, 15, 16, 17, 53, 55, AktG Paragrafen 182, 186, 192, 202, UmwG, KAGB Paragrafen 1, 2, 281 ff. (geschlossener Spezial-AIF), AStG Paragrafen 6, 50d, EStG Paragrafen 17, 20 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: VC-Fonds (Limited Partner / General Partner), Gründer, Co-Investoren, Notar, Steuerberater, Aufsichtsbehörde BaFin (KAGB), Handelsregister. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Term Sheet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Cap Table Grundlagen
 
-Tragende Normen verifizieren: BGB Paragrafen 311b Abs. 1, 145 ff., GmbHG Paragrafen 5, 15, 16, 17, 53, 55, AktG Paragrafen 182, 186, 192, 202, UmwG, KAGB Paragrafen 1, 2, 281 ff. (geschlossener Spezial-AIF), AStG Paragrafen 6, 50d, EStG Paragrafen 17, 20 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: VC-Fonds (Limited Partner / General Partner), Gründer, Co-Investoren, Notar, Steuerberater, Aufsichtsbehörde BaFin (KAGB), Handelsregister. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Term Sheet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Interner Capital Call und Budget
 
-Tragende Normen verifizieren: BGB Paragrafen 311b Abs. 1, 145 ff., GmbHG Paragrafen 5, 15, 16, 17, 53, 55, AktG Paragrafen 182, 186, 192, 202, UmwG, KAGB Paragrafen 1, 2, 281 ff. (geschlossener Spezial-AIF), AStG Paragrafen 6, 50d, EStG Paragrafen 17, 20 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: VC-Fonds (Limited Partner / General Partner), Gründer, Co-Investoren, Notar, Steuerberater, Aufsichtsbehörde BaFin (KAGB), Handelsregister. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Term Sheet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Climate, Energy und Deep Tech
 
-Tragende Normen verifizieren: BGB Paragrafen 311b Abs. 1, 145 ff., GmbHG Paragrafen 5, 15, 16, 17, 53, 55, AktG Paragrafen 182, 186, 192, 202, UmwG, KAGB Paragrafen 1, 2, 281 ff. (geschlossener Spezial-AIF), AStG Paragrafen 6, 50d, EStG Paragrafen 17, 20 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: VC-Fonds (Limited Partner / General Partner), Gründer, Co-Investoren, Notar, Steuerberater, Aufsichtsbehörde BaFin (KAGB), Handelsregister. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Term Sheet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Co-Investoren koordinieren
 
-Tragende Normen verifizieren: BGB Paragrafen 311b Abs. 1, 145 ff., GmbHG Paragrafen 5, 15, 16, 17, 53, 55, AktG Paragrafen 182, 186, 192, 202, UmwG, KAGB Paragrafen 1, 2, 281 ff. (geschlossener Spezial-AIF), AStG Paragrafen 6, 50d, EStG Paragrafen 17, 20 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: VC-Fonds (Limited Partner / General Partner), Gründer, Co-Investoren, Notar, Steuerberater, Aufsichtsbehörde BaFin (KAGB), Handelsregister. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Term Sheet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Lawful Competitive Intelligence
 
-Tragende Normen verifizieren: BGB Paragrafen 311b Abs. 1, 145 ff., GmbHG Paragrafen 5, 15, 16, 17, 53, 55, AktG Paragrafen 182, 186, 192, 202, UmwG, KAGB Paragrafen 1, 2, 281 ff. (geschlossener Spezial-AIF), AStG Paragrafen 6, 50d, EStG Paragrafen 17, 20 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: VC-Fonds (Limited Partner / General Partner), Gründer, Co-Investoren, Notar, Steuerberater, Aufsichtsbehörde BaFin (KAGB), Handelsregister. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Term Sheet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Consent Request Workflow
 
-Tragende Normen verifizieren: BGB Paragrafen 311b Abs. 1, 145 ff., GmbHG Paragrafen 5, 15, 16, 17, 53, 55, AktG Paragrafen 182, 186, 192, 202, UmwG, KAGB Paragrafen 1, 2, 281 ff. (geschlossener Spezial-AIF), AStG Paragrafen 6, 50d, EStG Paragrafen 17, 20 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: VC-Fonds (Limited Partner / General Partner), Gründer, Co-Investoren, Notar, Steuerberater, Aufsichtsbehörde BaFin (KAGB), Handelsregister. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Term Sheet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Consumer, E-Commerce und Plattformen
 
-Tragende Normen verifizieren: BGB Paragrafen 311b Abs. 1, 145 ff., GmbHG Paragrafen 5, 15, 16, 17, 53, 55, AktG Paragrafen 182, 186, 192, 202, UmwG, KAGB Paragrafen 1, 2, 281 ff. (geschlossener Spezial-AIF), AStG Paragrafen 6, 50d, EStG Paragrafen 17, 20 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: VC-Fonds (Limited Partner / General Partner), Gründer, Co-Investoren, Notar, Steuerberater, Aufsichtsbehörde BaFin (KAGB), Handelsregister. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Term Sheet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Corporate VC und Konflikte
 
-Tragende Normen verifizieren: BGB Paragrafen 311b Abs. 1, 145 ff., GmbHG Paragrafen 5, 15, 16, 17, 53, 55, AktG Paragrafen 182, 186, 192, 202, UmwG, KAGB Paragrafen 1, 2, 281 ff. (geschlossener Spezial-AIF), AStG Paragrafen 6, 50d, EStG Paragrafen 17, 20 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: VC-Fonds (Limited Partner / General Partner), Gründer, Co-Investoren, Notar, Steuerberater, Aufsichtsbehörde BaFin (KAGB), Handelsregister. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Term Sheet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

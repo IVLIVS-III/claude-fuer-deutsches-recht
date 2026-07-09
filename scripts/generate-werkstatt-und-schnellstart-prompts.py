@@ -552,6 +552,25 @@ def frontmatter_description(text: str) -> str:
     return ""
 
 
+SOURCE_NOISE_BITS = (
+    "tragende normen verifizieren",
+    "fundstellen über",
+    "fundstellen ueber",
+    "gesetze-im-internet.de",
+    "dejure.org",
+    "openjur",
+    "keine modellwissen-zitate",
+    "bgh-/bverfg-/eugh-datenbank",
+    "live prüfen",
+    "live pruefen",
+)
+
+
+def is_source_noise(line: str) -> bool:
+    lowered = line.lower()
+    return any(bit in lowered for bit in SOURCE_NOISE_BITS)
+
+
 def skill_body_excerpt(text: str) -> str:
     body = re.sub(r"^---\s*\n[\s\S]*?\n---\s*", "", text).strip()
     lines = []
@@ -578,6 +597,7 @@ def skill_body_excerpt(text: str) -> str:
             or "dieser skill vertieft" in lowered
             or "im allgemeinen bundesland-skill" in lowered
             or "nur kurz angerissen" in lowered
+            or is_source_noise(line)
         ):
             continue
         lines.append(line)
@@ -658,6 +678,10 @@ GENERIC_FIELD_BITS = (
     "Dieser Skill vertieft",
     "im allgemeinen Bundesland-Skill",
     "nur kurz angerissen",
+    "Tragende Normen verifizieren",
+    "Fundstellen über",
+    "keine Modellwissen-Zitate",
+    "live prüfen",
 )
 
 
@@ -684,6 +708,7 @@ def field_detail(desc: str, body: str = "", title: str = "") -> str:
             and "normen-/quellenanker" not in body_lower
             and "stichwort für die auswahl" not in body_lower
             and "stichwort fuer die auswahl" not in body_lower
+            and not is_source_noise(body)
         ):
             desc = body.strip(" .;:")
             generic = False
@@ -723,6 +748,8 @@ def relevant_lines(skill_material: list[dict[str, str]], limit: int = 450) -> li
             if not line or line.startswith("|") or line.startswith("#") or line.startswith("<!--"):
                 continue
             if re.match(r"^(?:name|description|allowed-tools)\s*:", line):
+                continue
+            if is_source_noise(line):
                 continue
             line = clean(line, 260)
             if len(line) < 20:
@@ -961,6 +988,18 @@ def quick_grip(profile: ThemenProfil, field: str, detail: str) -> str:
         if "abgrenzung" in hay or "konventionelle" in hay:
             return "Inferenz, Autonomie, Output, Zweckbestimmung, Systemgrenze und Folgeprüfung nach Art. 3 Nr. 1 festlegen"
         return "Zweckbestimmung, Rolle, Risikoklasse, Stichtag, Nachweisakte, Rechtsfolge und Behördenrisiko in einer Entscheidungszeile verbinden"
+    if profile.key == "bgb":
+        return "Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten"
+    if profile.key == "zivilprozess":
+        return "Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen"
+    if profile.key == "erbrecht":
+        return "Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen"
+    if profile.key == "medizin":
+        return "Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen"
+    if profile.key == "verkehr":
+        return "Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren"
+    if profile.key == "vollstreckung":
+        return "Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen"
     if profile.key == "arbeits" or "kündigung" in hay or "befristung" in hay or "betriebsrat" in hay or "arbeitsgericht" in hay:
         return "Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen"
     if "insolvenz" in hay or "starug" in hay or profile.key in {"insolvenz", "liquiditaet"}:
@@ -1067,6 +1106,12 @@ BEWEISLAST_MERKER = {
     "bau": "Auftragnehmer für Leistung, Nachtrag und Behinderung; Auftraggeber für Mangel, Abnahmevorbehalt, Zahlungskürzung und Fristsetzung.",
     "international": "Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden.",
     "eu_prozess": "Kläger für Zulässigkeit, Betroffenheit, Frist und Klagegrund; Organ für Rechtmäßigkeit, Ermessen und Verteidigungslinie.",
+    "bgb": "Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung.",
+    "zivilprozess": "Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss.",
+    "erbrecht": "Anspruchsteller für Verwandtschaft, Verfügung, Nachlasswert und Schenkung; Gegner für Erfüllung, Anrechnung, Ausgleichung und Ausschluss.",
+    "medizin": "Patient oder Versicherter für Befund, Schaden und Kausalität; Behandler oder Träger für Aufklärung, Dokumentation, Standard und Entlastung.",
+    "verkehr": "Geschädigter oder Reisender für Ereignis, Schaden, Verspätung und Belege; Gegner für Mitverschulden, Ausschluss und außergewöhnliche Umstände.",
+    "vollstreckung": "Gläubiger für Titel, Klausel, Zustellung und Forderungsstand; Schuldner oder Dritter für Schutz, Erfüllung, Insolvenz und Gegenrechte.",
     "default": "Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.",
 }
 
@@ -1103,6 +1148,12 @@ RECHTSFOLGE_MERKER = {
     "bau": "Nachtrag, Behinderungsanzeige, Abnahme, Mangelrüge, Vergütung, Gutachterfrage oder Sicherung.",
     "international": "Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie.",
     "eu_prozess": "Klageart, Antragssatz, e-Curia-Einreichung, Zwischenantrag, Rechtsmittel oder Kostenlinie.",
+    "bgb": "Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich.",
+    "zivilprozess": "Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis.",
+    "erbrecht": "Erbquotentabelle, Pflichtteilsrechnung, Auskunft, Erbscheinsantrag, Klage oder Auseinandersetzungsvergleich.",
+    "medizin": "Gutachterfragen, Anspruchsschreiben, Widerspruch, Eilantrag, Klage, Abrechnungsprüfung oder Behördenantwort.",
+    "verkehr": "Regulierungsschreiben, Anspruchstabelle, Einspruch, Klage, Vergleich, Fristenblatt oder Mandantenbrief.",
+    "vollstreckung": "Titelcheck, Vollstreckungsauftrag, PfÜB-Entwurf, Forderungsaufstellung, Erinnerung oder Schutzantrag.",
     "default": "Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.",
 }
 

@@ -152,31 +152,31 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Abrechnungsfrist und Nachforderung aus Betriebskosten: Paragraf 556 Abs
 
-Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558, 558a, 558b, 573, 573c; WEG Paragrafen 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB Paragrafen 535 ff., HOAI, BetrKV — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Satellitenschüssel/Antennen: Fachmodul im Miet- und Wohnungseigentumsrecht
 
-Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558, 558a, 558b, 573, 573c; WEG Paragrafen 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB Paragrafen 535 ff., HOAI, BetrKV — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Aufrechnung/Zurückbehaltung: Fachmodul im Miet- und Wohnungseigentumsrecht
 
-Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558, 558a, 558b, 573, 573c; WEG Paragrafen 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB Paragrafen 535 ff., HOAI, BetrKV — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Aufzugskosten: Fachmodul im Miet- und Wohnungseigentumsrecht
 
-Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558, 558a, 558b, 573, 573c; WEG Paragrafen 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB Paragrafen 535 ff., HOAI, BetrKV — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Balkon, Terrasse, Garten: Fachmodul im Miet- und Wohnungseigentumsrecht
 
-Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558, 558a, 558b, 573, 573c; WEG Paragrafen 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB Paragrafen 535 ff., HOAI, BetrKV — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Barrierefreiheit Mietwohnung: Fachmodul im Miet- und Wohnungseigentumsrecht
 
-Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558, 558a, 558b, 573, 573c; WEG Paragrafen 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB Paragrafen 535 ff., HOAI, BetrKV — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Baurecht-Schnittstelle: Fachmodul im Miet- und Wohnungseigentumsrecht
 
-Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558, 558a, 558b, 573, 573c; WEG Paragrafen 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB Paragrafen 535 ff., HOAI, BetrKV — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Belegeinsicht Betriebskosten
 
@@ -184,7 +184,7 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutz
 
 ### 15.9. Berliner Räumung: Fachmodul im Miet- und Wohnungseigentumsrecht
 
-Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558, 558a, 558b, 573, 573c; WEG Paragrafen 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB Paragrafen 535 ff., HOAI, BetrKV — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Beschlussanfechtung Compliance Dokumentation und Akte
 
@@ -192,11 +192,11 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutz
 
 ### 15.11. Beschlussanfechtung Spezial Fristen
 
-Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558, 558a, 558b, 573, 573c; WEG Paragrafen 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB Paragrafen 535 ff., HOAI, BetrKV — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Betriebskosten Formell
 
-Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558, 558a, 558b, 573, 573c; WEG Paragrafen 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB Paragrafen 535 ff., HOAI, BetrKV — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Betriebskosten Materiell
 

@@ -180,7 +180,7 @@ Standardablauf Übersetzung: 1. Dieser Skill ist kein allgemeiner Chat-Modus, so
 
 ### 15.12. Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine
 
-Tragende Normen verifizieren: BGG Paragrafen 11, 12a, BITV 2.0 Paragraf 4, BFSG, UN-Behindertenrechtskonvention Art. 9 (Zugänglichkeit), EU-RL 2016/2102, DIN SPEC 33429 (Leichte Sprache), Hurraki-/Inclusion Europe-Regeln — Fundstellen über gesetze-im-internet.de, dejure.org. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Behörde, Verwaltungsstelle, Übersetzer Leichte Sprache, Prüfgruppe (Selbstvertreter), Sozialverbände (Lebenshilfe, BAGSO), Behindertenbeauftragter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Bescheid. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. ELS-J Familienrecht-Erstgespraech
 

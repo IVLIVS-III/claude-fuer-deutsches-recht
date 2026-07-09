@@ -168,7 +168,7 @@ abrufenrechte Stichproben Forderungsprüfung: prüft die einschlägigen Vorausse
 
 ### 15.5. Aufsichtsrechtliche Schnellampel KWG ZAG
 
-Tragende Normen verifizieren: StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate. - Zuständige Stelle bestimmen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Auslandsfactoring Import Export Two-Factor-System
 
@@ -204,4 +204,4 @@ Debitorenbrief höflich aber rechtssicher: prüft die einschlägigen Voraussetzu
 
 ### 15.14. Debitorenkommunikation und Abtretungsanzeige
 
-Tragende Normen verifizieren: StaRUG Paragrafen 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO Paragraf 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate. - Zuständige Stelle bestimmen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

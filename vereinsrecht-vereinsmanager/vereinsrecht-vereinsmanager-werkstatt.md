@@ -151,23 +151,23 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Beschlussmängel
 
-Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO Paragrafen 51-68, insbesondere Paragrafen 52, 55, 58, 60a, 63, 64, ZPO Paragraf 50, FamFG/Registerrecht und Datenschutz-Grundverordnung nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Auflösung und Liquidation
 
-Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO Paragrafen 51-68, insbesondere Paragrafen 52, 55, 58, 60a, 63, 64, ZPO Paragraf 50, FamFG/Registerrecht und Datenschutz-Grundverordnung nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Beschlussvorlagen
 
-Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO Paragrafen 51-68, insbesondere Paragrafen 52, 55, 58, 60a, 63, 64, ZPO Paragraf 50, FamFG/Registerrecht und Datenschutz-Grundverordnung nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Datenschutz Mitgliederliste
 
-Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO Paragrafen 51-68, insbesondere Paragrafen 52, 55, 58, 60a, 63, 64, ZPO Paragraf 50, FamFG/Registerrecht und Datenschutz-Grundverordnung nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Delegierte und Abteilungen
 
-Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO Paragrafen 51-68, insbesondere Paragrafen 52, 55, 58, 60a, 63, 64, ZPO Paragraf 50, FamFG/Registerrecht und Datenschutz-Grundverordnung nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Ehrenamtspauschale und Übungsleiter
 
@@ -175,32 +175,32 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittste
 
 ### 15.7. Entlastung Vorstand
 
-Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO Paragrafen 51-68, insbesondere Paragrafen 52, 55, 58, 60a, 63, 64, ZPO Paragraf 50, FamFG/Registerrecht und Datenschutz-Grundverordnung nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Fördermittel Verein
 
-Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO Paragrafen 51-68, insbesondere Paragrafen 52, 55, 58, 60a, 63, 64, ZPO Paragraf 50, FamFG/Registerrecht und Datenschutz-Grundverordnung nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Förderverein Schule/Kita
 
-Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO Paragrafen 51-68, insbesondere Paragrafen 52, 55, 58, 60a, 63, 64, ZPO Paragraf 50, FamFG/Registerrecht und Datenschutz-Grundverordnung nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Fusion und Zusammenschluss
 
-Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO Paragrafen 51-68, insbesondere Paragrafen 52, 55, 58, 60a, 63, 64, ZPO Paragraf 50, FamFG/Registerrecht und Datenschutz-Grundverordnung nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Gemeinnützigkeit Antrag
 
-Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO Paragrafen 51-68, insbesondere Paragrafen 52, 55, 58, 60a, 63, 64, ZPO Paragraf 50, FamFG/Registerrecht und Datenschutz-Grundverordnung nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Geschäftsordnung Vorstand
 
-Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO Paragrafen 51-68, insbesondere Paragrafen 52, 55, 58, 60a, 63, 64, ZPO Paragraf 50, FamFG/Registerrecht und Datenschutz-Grundverordnung nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Eingetragener Verein gründen
 
-Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO Paragrafen 51-68, insbesondere Paragrafen 52, 55, 58, 60a, 63, 64, ZPO Paragraf 50, FamFG/Registerrecht und Datenschutz-Grundverordnung nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Nicht eingetragener Verein
 
-Tragende Normen verifizieren: BGB Paragrafen 21-79, insbesondere Paragrafen 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO Paragrafen 51-68, insbesondere Paragrafen 52, 55, 58, 60a, 63, 64, ZPO Paragraf 50, FamFG/Registerrecht und Datenschutz-Grundverordnung nur fallbezogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

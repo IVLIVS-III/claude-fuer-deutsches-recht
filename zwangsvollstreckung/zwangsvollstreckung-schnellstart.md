@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Zwangsvollstreckung ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du aus einem Titel schnell den richtigen Vollstreckungsweg, Antrag, Zustellungsnachweis und Schuldnerschutzpunkt bauen.
 
 # Zwangsvollstreckung — Schnellstart
 
@@ -17,48 +17,49 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. 765a Fehlerkatalog: Dieser Fehlerkatalog prüft Arbeitsergebnisse für Zwangsvollstreckung vor Abgabe, Versand oder Mandantenfreigabe.
-2. 802L: Verhandlung, Vergleich und Eskalation: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie.
-3. Schuldnerabwehr in der Zwangsvollstreckung: Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmäßigen Pfaendungs-Beschluss.
-4. Anschluss-Routing: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares.
-5. Arbeit: Schriftsatz-, Brief- und Memo-Bausteine: Tragende Normen verifizieren: Paragrafen 704 ff. ZPO; Paragraf 802l Kontensuche, Vermögensauskunft, Räumung.
-6. Bank: Behörden-, Gerichts- oder Registerweg: Tragende Normen verifizieren: Paragrafen 704 ff. ZPO; Paragraf 802l Kontensuche, Vermögensauskunft, Räumung.
+1. Titelcheck: vollstreckbarer Inhalt, Klausel, Zustellung, Rechtskraft, Bedingung, Sicherheitsleistung und Forderungsstand prüfen.
+2. Vollstreckungsweg: bewegliche Sache, Forderung, Konto, Arbeitseinkommen, Herausgabe, Räumung, Grundstück oder Auskunft bestimmen.
+3. Antrag: Gerichtsvollzieherauftrag, Pfändungs- und Überweisungsbeschluss, Drittauskunft, Verhaftungsauftrag oder Vollstreckungsschutz passgenau ausfüllen.
+4. Schuldnerschutz und Rang: Pfändungsgrenzen, P-Konto, Vorpfändung, Priorität, Insolvenz, Drittwiderspruch und Erinnerung kontrollieren.
+5. Arbeitsprodukt: Vollstreckungsauftrag, PfÜB-Entwurf, Forderungsaufstellung, Schuldneranschreiben, Erinnerung oder Schutzantrag erstellen.
+6. 765a Fehlerkatalog: Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Symptom; Paragraf 765a ZPO – Vollstreckungsschutz, Härtefall; Paragraf 766 ZPO – Erinnerung gegen Art und Weise der Vollstreckung |
+| Normenanker | ZPO Paragraf 704 bis Paragraf 750; ZPO Paragraf 753 bis Paragraf 802l; ZPO Paragraf 808 ff |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Dieser Fehlerkatalog prüft Arbeitsergebnisse für Zwangsvollstreckung vor Abgabe, Versand oder Mandantenfreigabe |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen |
+| Beweislast | Gläubiger für Titel, Klausel, Zustellung und Forderungsstand; Schuldner oder Dritter für Schutz, Erfüllung, Insolvenz und Gegenrechte |
+| Rechtsfolge | Titelcheck, Vollstreckungsauftrag, PfÜB-Entwurf, Forderungsaufstellung, Erinnerung oder Schutzantrag |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| 765a Fehlerkatalog | Dieser Fehlerkatalog prüft Arbeitsergebnisse für Zwangsvollstreckung vor Abgabe, Versand oder Mandantenfreigabe. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 802L: Verhandlung, Vergleich und Eskalation | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schuldnerabwehr in der Zwangsvollstreckung | Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmäßigen Pfaendungs-Beschluss. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeit: Schriftsatz-, Brief- und Memo-Bausteine | Tragende Normen verifizieren: Paragrafen 704 ff. ZPO; Paragraf 802l Kontensuche, Vermögensauskunft, Räumung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bank: Behörden-, Gerichts- oder Registerweg | Tragende Normen verifizieren: Paragrafen 704 ff. ZPO; Paragraf 802l Kontensuche, Vermögensauskunft, Räumung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 765a Fehlerkatalog | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 802L: Verhandlung, Vergleich und Eskalation | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schuldnerabwehr in der Zwangsvollstreckung | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeit: Schriftsatz-, Brief- und Memo-Bausteine | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bank: Behörden-, Gerichts- oder Registerweg | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- ZPO Paragraf 704 bis Paragraf 750: Titel, Klausel, Zustellung und Vollstreckungsvoraussetzungen.
+- ZPO Paragraf 753 bis Paragraf 802l: Gerichtsvollzieherauftrag, Vermögensauskunft, Haftbefehl und Drittauskünfte.
+- ZPO Paragraf 808 ff.: Pfändung körperlicher Sachen.
+- ZPO Paragraf 829 bis Paragraf 835: Pfändung und Überweisung von Forderungen.
 - Symptom: Normzitat ohne Fassungsprüfung (ZPO Paragrafen 704-945 (Vollstreckung)): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 765a ZPO – Vollstreckungsschutz, Härtefall: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 766 ZPO – Erinnerung gegen Art und Weise der Vollstreckung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 767 ZPO – Vollstreckungsabwehrklage (materielle Einwendungen nach Schluss der mündlichen Verhandlung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 768 ZPO – Klauselgegenklage: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 769 ZPO – einstweilige Einstellung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 771 ZPO – Drittwiderspruchsklage: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder 765a Fehlerkatalog, 802L: Verhandlung, Vergleich und Eskalation, Schuldnerabwehr in der Zwangsvollstreckung, Anschluss-Routing: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Titelcheck: Titelart, Datum, Tenor, Klausel, Zustellung, Betrag, Zinsen, Kosten, Bedingung und Anlage; Vollstreckungsauftrag: Forderung, Vollstreckungsart, bekannte Vermögenswerte, Anlagen, Auskunftsstufen und Zustellungswunsch.
 
 ## 8. Stop
 

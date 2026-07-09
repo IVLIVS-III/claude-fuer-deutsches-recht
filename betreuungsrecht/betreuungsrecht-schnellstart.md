@@ -17,7 +17,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Betreuungsrecht — Allgemein: Tragende Normen verifizieren: BtOG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur.
+1. Betreuungsrecht — Allgemein: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 2. Anschluss-Routing: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte.
 3. Aufgabenkreise festlegen: Arbeitsfokus: Aufgabenkreise festlegen. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben.
 4. Bericht: Mandantenkommunikation und Entscheidungsvorlage: Arbeitsfokus: Bericht: Mandantenkommunikation und Entscheidungsvorlage. Prüfe diese Anker am Sachverhalt; ergänze.
@@ -29,8 +29,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Paragraf 1814 BGB; Paragrafen 1816 ff. BGB; Paragraf 1821 BGB |
-| Rechtsprechung | BGH, Urteil vom 02.07.2025 - IV ZR 93/24; BGH, Beschluss vom 24.09.2025 - XII ZB 513/24 |
-| Tatbestand | Tragende Normen verifizieren: BtOG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur |
+| Rechtsprechung | BGH, Urteil vom 02.07.2025 - IV ZR 93/24 |
+| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,7 +39,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Betreuungsrecht — Allgemein | Tragende Normen verifizieren: BtOG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Betreuungsrecht — Allgemein | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Aufgabenkreise festlegen | Arbeitsfokus: Aufgabenkreise festlegen. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Bericht: Mandantenkommunikation und Entscheidungsvorlage | Arbeitsfokus: Bericht: Mandantenkommunikation und Entscheidungsvorlage. Prüfe diese Anker am Sachverhalt; ergänze. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
@@ -56,7 +56,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragrafen 1848 ff. BGB — Genehmigungspflichtige Rechtsgeschäfte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1814 Abs. 1 BGB — Betreuungsvoraussetzungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 02.07.2025 - IV ZR 93/24: Strukturanaloge Bestätigung der Trennung von Berufsrecht und Erbrecht. Eine Zuwendung von Todes wegen an den behandelnden Arzt ist nicht deshalb unwirksam, weil
-- BGH, Beschluss vom 24.09.2025 - XII ZB 513/24: Bei der Bestellung eines Verhinderungsbetreuers gelten die Auswahlkriterien des Paragraf 1816 BGB. Der Wunsch der/des Betroffenen, durch eine nahe Angehörige
 
 ## 7. Antwortform
 

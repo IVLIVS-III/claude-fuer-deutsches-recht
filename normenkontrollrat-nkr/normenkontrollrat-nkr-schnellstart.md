@@ -18,11 +18,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 ## 3. Kernroute
 
 1. Normenkontrollrat-NKR — Einstieg und Routing: Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren.
-2. NKR-Alternativen-Prüfung — Verzicht, Soft-Law, Vollzug: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
+2. NKR-Alternativen-Prüfung — Verzicht, Soft-Law, Vollzug: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 3. NKR-Aufgabe und Kompetenz nach NKRG: Skill, der den rechtlichen und institutionellen Rahmen des NKR aufrollt. Wird gebraucht, wenn intern.
 4. NKR-Buerokratieabbau-Katalog — konkrete Vorschlaege: Buerokratieabbau ist kein abstrakter Wunsch, sondern eine konkrete Liste wiederkehrender Muster. Dieser Skill.
 5. NKR-Buerokratiekosten vs. Erfuellungsaufwand: Bis 2011 prüftes der NKR nur Buerokratiekosten (eng: Informationspflichten). Mit Erweiterung der Aufgaben prüft er.
-6. NKR-Digitaltauglichkeit / Digital-Anschlussfähigkeit: Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org.
+6. NKR-Digitaltauglichkeit / Digital-Anschlussfähigkeit: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 
 ## 4. Fallkarte
 
@@ -40,11 +40,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Normenkontrollrat-NKR — Einstieg und Routing | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| NKR-Alternativen-Prüfung — Verzicht, Soft-Law, Vollzug | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| NKR-Alternativen-Prüfung — Verzicht, Soft-Law, Vollzug | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | NKR-Aufgabe und Kompetenz nach NKRG | Skill, der den rechtlichen und institutionellen Rahmen des NKR aufrollt. Wird gebraucht, wenn intern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | NKR-Buerokratieabbau-Katalog — konkrete Vorschlaege | Buerokratieabbau ist kein abstrakter Wunsch, sondern eine konkrete Liste wiederkehrender Muster. Dieser Skill. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | NKR-Buerokratiekosten vs. Erfuellungsaufwand | Bis 2011 prüftes der NKR nur Buerokratiekosten (eng: Informationspflichten). Mit Erweiterung der Aufgaben prüft er. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| NKR-Digitaltauglichkeit / Digital-Anschlussfähigkeit | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| NKR-Digitaltauglichkeit / Digital-Anschlussfähigkeit | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

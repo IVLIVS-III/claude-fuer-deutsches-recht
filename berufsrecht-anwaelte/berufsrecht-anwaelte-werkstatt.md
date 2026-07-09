@@ -152,7 +152,7 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. europäischer Technikregulierungsrahmen-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz
 
-Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate. - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Aktenführung
 
@@ -164,7 +164,7 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlun
 
 ### 15.4. Aktenherausgabe und Zurückbehaltung Organisationspflicht
 
-Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate. - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Aktenherausgabe und Zurückbehaltung Rechtsprechungscheck
 
@@ -176,7 +176,7 @@ Normenanker: BRAO, BORA, FAO, RVG, RDG, GwG, beA-Pflichten, anwaltliche Verschwi
 
 ### 15.7. Anwälte Anwaltsgerichtliche Anschuldigung Kaltstart und Fakten
 
-Nutze diesen Skill im Plugin Berufsrecht Anwälte, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klären, dann Normen live prüfen, dann ein Arbeitsprodukt erzeugen. Fokus: anwaltsgerichtliche. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Fokus: anwaltsgerichtliche anschuldigung; kaltstart mit faktenmatrix, risikoampel und fehlenden unterlagen im Berufsrecht der Anwälte 1. Rolle, Ziel und Entscheidungsdruck klären. 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren. 3. Aktenbasis. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Anwälte Geldwaesche Risikoanalyse Kanzlei Rechtsprechungscheck
 
@@ -188,7 +188,7 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlun
 
 ### 15.10. Anwälte Vermögensverfall und Zulassungswiderruf Kaltstart und
 
-Nutze diesen Skill im Plugin Berufsrecht Anwälte, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klären, dann Normen live prüfen, dann ein Arbeitsprodukt erzeugen. Fokus: vermögensverfall. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Fokus: vermögensverfall und zulassungswiderruf; kaltstart mit faktenmatrix, risikoampel und fehlenden unterlagen im Berufsrecht der Anwälte 1. Rolle, Ziel und Entscheidungsdruck klären. 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren. 3. Aktenbasis. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Anwälte Vermögensverfall und Zulassungswiderruf Kammerantwort
 
@@ -196,7 +196,7 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlun
 
 ### 15.12. Anwälte Vermögensverfall und Zulassungswiderruf Organisations
 
-Nutze diesen Skill im Plugin Berufsrecht Anwälte, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klären, dann Normen live prüfen, dann ein Arbeitsprodukt erzeugen. Fokus: vermögensverfall. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Fokus: vermögensverfall und zulassungswiderruf; organisationspflichten, prävention, team-anweisung und fristenkontrolle im Berufsrecht der Anwälte 1. Rolle, Ziel und Entscheidungsdruck klären. 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren. 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Anwälte Vermögensverfall und Zulassungswiderruf Rechtsprechun
 

@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Anwendbares Recht: Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen.
 4. Materielle Prüfung nach dem berufenen Recht: bei auslaendischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden.
 5. Durchsetzung: Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt.
-6. Abschlussmemo Internationales Handelsrecht: Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c.
+6. Abschlussmemo Internationales Handelsrecht: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 
 ## 4. Fallkarte
 
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | Bruessel-Ia-VO Artikel 4, 7 und 25; Rom-I-VO Artikel 3 und 4; Rom-II-VO Artikel 4 |
 | Rechtsprechung | Rechtsprechung nur fallbezogen und nach Live-Verifikation; BGH VIII ZR 304/00 v. 25.11.2002 |
-| Tatbestand | Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c |
+| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht |
 | Beweislast | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden |
 | Rechtsfolge | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abschlussmemo Internationales Handelsrecht | Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschlussmemo Internationales Handelsrecht | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Handelsvertreter, Vertriebsvertrag und Franchise | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Akkreditiv nach UCP 600 | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anti-Korruption: FCPA und UK Bribery Act | Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antidumping und Ausgleichszölle | Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweisrecht in der internationalen Schiedsgerichtsbarkeit | Tragende Normen verifizieren: HGB Paragrafen 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anti-Korruption: FCPA und UK Bribery Act | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Antidumping und Ausgleichszölle | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweisrecht in der internationalen Schiedsgerichtsbarkeit | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

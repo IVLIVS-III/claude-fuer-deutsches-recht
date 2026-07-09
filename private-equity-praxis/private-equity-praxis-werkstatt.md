@@ -152,56 +152,56 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Add-on-Akquisition im Portfolio
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; GmbHG Paragrafen 5, 15, 16, 53, AktG Paragrafen 182, 192, 202, UmwG, KAGB, BGB Paragrafen 311b, 145 ff., EStG Paragraf 17 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Spezial-AIF: professionelle und semiprofessionelle Anleger
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; GmbHG Paragrafen 5, 15, 16, 53, AktG Paragrafen 182, 192, 202, UmwG, KAGB, BGB Paragrafen 311b, 145 ff., EStG Paragraf 17 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Anfänger-Modus: PE-Begriffe ohne Gesichtsverlust
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; GmbHG Paragrafen 5, 15, 16, 53, AktG Paragrafen 182, 192, 202, UmwG, KAGB, BGB Paragrafen 311b, 145 ff., EStG Paragraf 17 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. ABC/Compliance DD
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; GmbHG Paragrafen 5, 15, 16, 53, AktG Paragrafen 182, 192, 202, UmwG, KAGB, BGB Paragrafen 311b, 145 ff., EStG Paragraf 17 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. APA und Carve-out
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; GmbHG Paragrafen 5, 15, 16, 53, AktG Paragrafen 182, 192, 202, UmwG, KAGB, BGB Paragrafen 311b, 145 ff., EStG Paragraf 17 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Arbeitsrecht, Betriebsrat und Managementwechsel
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; GmbHG Paragrafen 5, 15, 16, 53, AktG Paragrafen 182, 192, 202, UmwG, KAGB, BGB Paragrafen 311b, 145 ff., EStG Paragraf 17 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. BidCo-Stack und Holdingstruktur
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; GmbHG Paragrafen 5, 15, 16, 53, AktG Paragrafen 182, 192, 202, UmwG, KAGB, BGB Paragrafen 311b, 145 ff., EStG Paragraf 17 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Broken Deal: Abbruch, Kosten und Haftung
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; GmbHG Paragrafen 5, 15, 16, 53, AktG Paragrafen 182, 192, 202, UmwG, KAGB, BGB Paragrafen 311b, 145 ff., EStG Paragraf 17 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Capital Calls und Defaulting LP
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; GmbHG Paragrafen 5, 15, 16, 53, AktG Paragrafen 182, 192, 202, UmwG, KAGB, BGB Paragrafen 311b, 145 ff., EStG Paragraf 17 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Carry, Waterfall und Clawback
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; GmbHG Paragrafen 5, 15, 16, 53, AktG Paragrafen 182, 192, 202, UmwG, KAGB, BGB Paragrafen 311b, 145 ff., EStG Paragraf 17 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Carve-out Operating Model
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; GmbHG Paragrafen 5, 15, 16, 53, AktG Paragrafen 182, 192, 202, UmwG, KAGB, BGB Paragrafen 311b, 145 ff., EStG Paragraf 17 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Closing, CPs und Funds Flow
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; GmbHG Paragrafen 5, 15, 16, 53, AktG Paragrafen 182, 192, 202, UmwG, KAGB, BGB Paragrafen 311b, 145 ff., EStG Paragraf 17 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Club Deal und Investorenkonsortium
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; GmbHG Paragrafen 5, 15, 16, 53, AktG Paragrafen 182, 192, 202, UmwG, KAGB, BGB Paragrafen 311b, 145 ff., EStG Paragraf 17 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Co-Investment und SPV-Struktur
 
-Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; GmbHG Paragrafen 5, 15, 16, 53, AktG Paragrafen 182, 192, 202, UmwG, KAGB, BGB Paragrafen 311b, 145 ff., EStG Paragraf 17 — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

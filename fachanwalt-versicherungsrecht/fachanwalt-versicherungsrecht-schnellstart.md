@@ -41,10 +41,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- | --- |
 | Anschluss-Routing | Dieses Anschluss-Routing für Fachanwalt Versicherungsrecht wählt nach dem ersten Ergebnis die passende Vertiefung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Berufsunfähigkeit: Fristen, Form, Zuständigkeit und Rechtsweg | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung | Tragende Normen verifizieren: SGB V Paragrafen 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Berufsunfähigkeit Paragraf 172 VVG | Prüfe Berufsunfähigkeit Paragraf 172 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und Geldwäscherecht | Tragende Normen verifizieren: SGB V Paragrafen 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Prüfung von Versicherungsschadenfaellen und Deckungsablehnungen nach VVG | Tragende Normen verifizieren: SGB V Paragrafen 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und Geldwäscherecht | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Prüfung von Versicherungsschadenfaellen und Deckungsablehnungen nach VVG | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

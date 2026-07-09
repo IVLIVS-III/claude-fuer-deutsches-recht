@@ -168,11 +168,11 @@ Alkohol- und Drogen-OWi verteidigen: Mandant hat Bußgeldbescheid wegen 0.5-Prom
 
 ### 15.5. Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage
 
-Tragende Normen verifizieren: StVG Paragrafen 24, 24a, 25, 26, OWiG Paragrafen 17, 26a, 47, 65, 66, 67, 68, 73, 74, 79, 80, BKatV, BußgeldkatalogVO, StVO, FZV, MessgeräteG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg
 
-Tragende Normen verifizieren: StVG Paragrafen 24, 24a, 25, 26, OWiG Paragrafen 17, 26a, 47, 65, 66, 67, 68, 73, 74, 79, 80, BKatV, BußgeldkatalogVO, StVO, FZV, MessgeräteG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Anschluss-Routing
 
@@ -188,7 +188,7 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 
 ### 15.10. Drogen: Mehrparteienkonflikt und Interessenmatrix
 
-Tragende Normen verifizieren: StVG Paragrafen 24, 24a, 25, 26, OWiG Paragrafen 17, 26a, 47, 65, 66, 67, 68, 73, 74, 79, 80, BKatV, BußgeldkatalogVO, StVO, FZV, MessgeräteG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Einspruch: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -200,7 +200,7 @@ Dieser Einstieg routet Verkehrsowi Verteidiger vom ersten Sachverhalt zu Rollen,
 
 ### 15.13. Fahrverbot: Behörden-, Gerichts- oder Registerweg
 
-Tragende Normen verifizieren: StVG Paragrafen 24, 24a, 25, 26, OWiG Paragrafen 17, 26a, 47, 65, 66, 67, 68, 73, 74, 79, 80, BKatV, BußgeldkatalogVO, StVO, FZV, MessgeräteG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Geschwindigkeit: Verhandlung, Vergleich und Eskalation
 

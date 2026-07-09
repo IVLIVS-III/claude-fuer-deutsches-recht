@@ -102,7 +102,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04: Kittel-Rechtsprechung zum Vorsteuerabzug bei Kenntnis von Umsatzsteuerbetrug.
 - EuGH, Urteil vom 21.06.2012 - C-80/11 und C-142/11: Mahageben und David begrenzen überzogene Nachweispflichten beim Vorsteuerabzug.
 - EuGH C-280/10 (Vorsteuerabzug bei wirtschaftlicher Tätigkeit)
-- BFH, Beschluss vom 30.04.2025 — XI R 15/23 (E-Mails als vorzulegende Handels- und Geschäftsbriefe in der Aussenprüfung): E-Mails mit steuerlichem Bezug fallen unter Paragraf 147 Abs. 1 Nr. 2 und 3 AO
 
 ## 9. Prüfraster
 

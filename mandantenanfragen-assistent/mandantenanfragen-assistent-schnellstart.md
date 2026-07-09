@@ -17,9 +17,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Anfrage-Eingang-Parser: Tragende Normen verifizieren: BRAO Paragrafen 43a, 44, 49b, BORA Paragrafen 2, 11, BGB Paragrafen 145 ff., 280.
+1. Anfrage-Eingang-Parser: Zuständige Stelle bestimmen und Adressaten richtig wählen: Anfragender (Interessent), Anwalt, Sekretariat.
 2. Anrede: Verhandlung, Vergleich und Eskalation: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie.
-3. Anrede-Übernehmen: Tragende Normen verifizieren: BRAO Paragrafen 43a, 44, 49b, BORA Paragrafen 2, 11, BGB Paragrafen 145 ff., 280.
+3. Anrede-Übernehmen: Zuständige Stelle bestimmen und Adressaten richtig wählen: Anfragender (Interessent), Anwalt, Sekretariat.
 4. Anschluss-Routing: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares.
 5. Anwaltskanzleien: Erstprüfung, Rollenklärung und Mandatsziel: Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren.
 6. Bietet Fehlerkatalog: Dieser Fehlerkatalog prüft Arbeitsergebnisse für Mandantenanfragen-Assistent vor Abgabe, Versand.
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | Paragraf 43 BRAO — Sorgfaltspflicht; Paragraf 49b Abs. 5 BRAO — Kostenbelehrungspflicht; Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Tragende Normen verifizieren: BRAO Paragrafen 43a, 44, 49b, BORA Paragrafen 2, 11, BGB Paragrafen 145 ff., 280 |
+| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Anfragender (Interessent), Anwalt, Sekretariat |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,9 +39,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anfrage-Eingang-Parser | Tragende Normen verifizieren: BRAO Paragrafen 43a, 44, 49b, BORA Paragrafen 2, 11, BGB Paragrafen 145 ff., 280. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anfrage-Eingang-Parser | Zuständige Stelle bestimmen und Adressaten richtig wählen: Anfragender (Interessent), Anwalt, Sekretariat. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anrede: Verhandlung, Vergleich und Eskalation | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anrede-Übernehmen | Tragende Normen verifizieren: BRAO Paragrafen 43a, 44, 49b, BORA Paragrafen 2, 11, BGB Paragrafen 145 ff., 280. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anrede-Übernehmen | Zuständige Stelle bestimmen und Adressaten richtig wählen: Anfragender (Interessent), Anwalt, Sekretariat. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anwaltskanzleien: Erstprüfung, Rollenklärung und Mandatsziel | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Bietet Fehlerkatalog | Dieser Fehlerkatalog prüft Arbeitsergebnisse für Mandantenanfragen-Assistent vor Abgabe, Versand. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |

@@ -58,8 +58,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 16 Abs. 1 StGB — Tatbestandsirrtum: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Aussage-gegen-Aussage verlangt besonders sorgfältige Gesamtwürdigung.
 - BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Konstanz, Entstehung und Belastungsmotive sind bei Aussageanalyse zu würdigen.
-- BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG): Bei Cannabisvorwurf ist die sanktionsfreie Eigenkonsummenge (Paragraf 3 KCanG) tatbestandlich auszuklammern; greift sie, fehlt es am Tatverdacht und es
-- BGH 15.07.2025 — 2 StR 644/24 (KCanG-Strafzumessung): Die gesetzliche Wertung des KCanG ist als bestimmender Strafzumessungsgrund zu berücksichtigen — relevant für die Bemessung von Geldauflagen
 
 ## 7. Antwortform
 

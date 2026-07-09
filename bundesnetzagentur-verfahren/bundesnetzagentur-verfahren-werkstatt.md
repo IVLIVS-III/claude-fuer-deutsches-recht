@@ -159,52 +159,52 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutz
 
 ### 15.2. Anhörung, Auskunftsbeschluss, Fristenplan
 
-Tragende Normen verifizieren: BNetzAG, EnWG Paragrafen 21 ff. (Anreizregulierung), TKG Paragrafen 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband
 
-Tragende Normen verifizieren: BNetzAG, EnWG Paragrafen 21 ff. (Anreizregulierung), TKG Paragrafen 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Algorithmen und Empfehlungssysteme nach dem Digital Services Act
 
-Tragende Normen verifizieren: BNetzAG, EnWG Paragrafen 21 ff. (Anreizregulierung), TKG Paragrafen 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Außergerichtliche Streitbeilegungsstelle nach Art. 21 DSA
 
-Tragende Normen verifizieren: BNetzAG, EnWG Paragrafen 21 ff. (Anreizregulierung), TKG Paragrafen 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Dark Patterns: DSA-, UWG- und Datenschutz-Grundverordnung-Schnittstelle
 
-Tragende Normen verifizieren: BNetzAG, EnWG Paragrafen 21 ff. (Anreizregulierung), TKG Paragrafen 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Datenzugang für Forschung nach Art. 40 DSA
 
-Tragende Normen verifizieren: BNetzAG, EnWG Paragrafen 21 ff. (Anreizregulierung), TKG Paragrafen 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Digital Services Coordinator nach DDG: Behördenstruktur und Verfahren
 
-Tragende Normen verifizieren: BNetzAG, EnWG Paragrafen 21 ff. (Anreizregulierung), TKG Paragrafen 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. DSA-Beschwerde gegen eine Online-Plattform
 
-Tragende Normen verifizieren: BNetzAG, EnWG Paragrafen 21 ff. (Anreizregulierung), TKG Paragrafen 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Melde- und Abhilfeverfahren (\"Notice and Action\") nach Art. 16 DSA
 
-Tragende Normen verifizieren: BNetzAG, EnWG Paragrafen 21 ff. (Anreizregulierung), TKG Paragrafen 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Nationale Koordinierung der DSA-Behörden
 
-Tragende Normen verifizieren: BNetzAG, EnWG Paragrafen 21 ff. (Anreizregulierung), TKG Paragrafen 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Online-Werbung Transparenz nach Art. 26 und Art. 39 DSA
 
-Tragende Normen verifizieren: BNetzAG, EnWG Paragrafen 21 ff. (Anreizregulierung), TKG Paragrafen 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Trusted Flagger: Anerkennung nach Art. 22 DSA
 
-Tragende Normen verifizieren: BNetzAG, EnWG Paragrafen 21 ff. (Anreizregulierung), TKG Paragrafen 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. VLOP/VLOSE-Koordination zwischen EU-Kommission und BNetzA
 
-Tragende Normen verifizieren: BNetzAG, EnWG Paragrafen 21 ff. (Anreizregulierung), TKG Paragrafen 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

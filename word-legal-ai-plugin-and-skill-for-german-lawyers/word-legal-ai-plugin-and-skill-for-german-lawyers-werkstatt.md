@@ -140,15 +140,15 @@ Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach Paragrafen 305-
 
 ### 15.2. Anspruchsgrundlage und Rechtsfolgen-Klauseln
 
-Tragende Normen verifizieren: BRAO Paragrafen 43a, 49b, Datenschutz-Grundverordnung Art. 6, 28, 32, 35, BORA Paragraf 19a (technische Sorgfalt), beA-Bedingungen, ZPO Paragraf 130a (eVa), Paragraf 130d (aktive Nutzungspflicht), GwG Paragraf 8 Aufbewahrung — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, System-Anbieter (Auftragsverarbeiter), Kammer. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Anwaltsschreiben außergerichtlich
 
-Tragende Normen verifizieren: BRAO Paragrafen 43a, 49b, Datenschutz-Grundverordnung Art. 6, 28, 32, 35, BORA Paragraf 19a (technische Sorgfalt), beA-Bedingungen, ZPO Paragraf 130a (eVa), Paragraf 130d (aktive Nutzungspflicht), GwG Paragraf 8 Aufbewahrung — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, System-Anbieter (Auftragsverarbeiter), Kammer. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Argumentationsarchitektur Schreiben
 
-Tragende Normen verifizieren: BRAO Paragrafen 43a, 49b, Datenschutz-Grundverordnung Art. 6, 28, 32, 35, BORA Paragraf 19a (technische Sorgfalt), beA-Bedingungen, ZPO Paragraf 130a (eVa), Paragraf 130d (aktive Nutzungspflicht), GwG Paragraf 8 Aufbewahrung — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, System-Anbieter (Auftragsverarbeiter), Kammer. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. B2B vs. B2C Klauselstrategie
 
@@ -160,7 +160,7 @@ Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich word-legal-ai-plugi
 
 ### 15.7. Bedingungen aufschiebend, aufloesend, Fristen
 
-Tragende Normen verifizieren: BRAO Paragrafen 43a, 49b, Datenschutz-Grundverordnung Art. 6, 28, 32, 35, BORA Paragraf 19a (technische Sorgfalt), beA-Bedingungen, ZPO Paragraf 130a (eVa), Paragraf 130d (aktive Nutzungspflicht), GwG Paragraf 8 Aufbewahrung — Fundstellen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, System-Anbieter (Auftragsverarbeiter), Kammer. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Bilinguales Drafting Deutsch-Englisch
 

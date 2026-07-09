@@ -155,19 +155,19 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast
 
 ### 15.4. Aktenlektuere: Fristennotiz und nächster Schritt
 
-Tragende Normen verifizieren: StPO Paragrafen 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Aktenvorblatt-Erstellung
 
-Tragende Normen verifizieren: StPO Paragrafen 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Aktenvorblatt: Schriftsatz-, Brief- und Memo-Bausteine
 
-Tragende Normen verifizieren: StPO Paragrafen 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Anklageschrift zerlegen
 
-Tragende Normen verifizieren: StPO Paragrafen 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Anschluss-Routing
 
@@ -175,7 +175,7 @@ Dieses Anschluss-Routing für Aktenaufbereiter Strafrecht wählt nach dem ersten
 
 ### 15.9. Aussageanalyse Aussagepsychologie
 
-Tragende Normen verifizieren: StPO Paragrafen 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Beweismittel-Katalog
 
@@ -191,7 +191,7 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologi
 
 ### 15.13. Beziehungsmatrix Personen/Taten
 
-Tragende Normen verifizieren: StPO Paragrafen 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Chronologie: Compliance-Dokumentation und Aktenvermerk
 
