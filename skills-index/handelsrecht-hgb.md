@@ -1,6 +1,6 @@
 # handelsrecht-hgb
 
-**56 Skills** · Stand `v429.14.0`
+**56 Skills** · Stand `v429.15.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/handelsrecht-hgb/README.md)

@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Methodenlehre Bürgerliches Recht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du aus unsortiertem Material eine belastbare juristische Frage, Subsumtion und sofort nutzbare Textfassung entwickeln.
 
 # Methodenlehre Bürgerliches Recht — Schnellstart
 
@@ -17,51 +17,52 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Bürgerliches Abschlussprodukt und Übergabe: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
-2. Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen: Normen: Paragraf 626 BGB, Paragraf 903 BGB, Paragraf 906 BGB. - Entscheidungs-/Quellenanker: Tragende.
-3. Abwägung: Materialauswahl und Abwägungsgrundlagen: Normen: Paragraf 307 BGB, Paragraf 253 BGB, Paragraf 133 BGB. - Entscheidungs-/Quellenanker: Tragende.
-4. Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage: Normen: Paragraf 830 BGB, Paragraf 138 BGB, Paragraf 363 BGB. - Entscheidungs-/Quellenanker: Tragende.
-5. Abwägungszuständigkeit: Welche Institution darf abwägen?: Normen: Art. 20 Abs. 3 GG, Art. 97 GG, Paragraf 1. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur.
-6. Analogie und teleologische Reduktion (Rechtsfortbildung): ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie.
+1. Auftrag und Adressat: Rechtsfrage, gewünschtes Produkt, Empfänger, Frist und Entscheidungsschwelle in einem Satz festlegen.
+2. Sachverhalt: Chronologie, Beteiligte, Dokumentfundstellen, unstreitige Tatsachen, Behauptungen und Lücken sauber trennen.
+3. Normstruktur: Anspruchsgrundlage oder Prüfungsmaßstab in Tatbestandsmerkmale, Rechtsfolge, Einwendungen und Beweislast zerlegen.
+4. Subsumtion und Gegenprobe: für jedes Merkmal Tatsache, Beleg, Schluss, stärkstes Gegenargument und Gegenbeweis ausweisen.
+5. Arbeitsprodukt: Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief, Entscheidungsbaum oder Zitierkontrolle vollständig ausformulieren.
+6. Bürgerliches Abschlussprodukt und Übergabe: Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 675 BGB; Paragraf 242 BGB; Paragraf 43a Abs. 4 BRAO |
+| Normenanker | GG Artikel 20 Absatz 3; BGB Paragraf 133 und Paragraf 157; ZPO Paragraf 138 |
 | Rechtsprechung | BVerfG 1 BvR 730/04 (verfassungskonforme Auslegung); BVerfG 2 BvR 883/14 (Wortlautgrenze) |
-| Tatbestand | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen |
+| Rechtsfolge | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Bürgerliches Abschlussprodukt und Übergabe | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen | Normen: Paragraf 626 BGB, Paragraf 903 BGB, Paragraf 906 BGB. - Entscheidungs-/Quellenanker: Tragende. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abwägung: Materialauswahl und Abwägungsgrundlagen | Normen: Paragraf 307 BGB, Paragraf 253 BGB, Paragraf 133 BGB. - Entscheidungs-/Quellenanker: Tragende. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage | Normen: Paragraf 830 BGB, Paragraf 138 BGB, Paragraf 363 BGB. - Entscheidungs-/Quellenanker: Tragende. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abwägungszuständigkeit: Welche Institution darf abwägen? | Normen: Art. 20 Abs. 3 GG, Art. 97 GG, Paragraf 1. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Analogie und teleologische Reduktion (Rechtsfortbildung) | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bürgerliches Abschlussprodukt und Übergabe | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abwägung: Materialauswahl und Abwägungsgrundlagen | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abwägungszuständigkeit: Welche Institution darf abwägen? | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Analogie und teleologische Reduktion (Rechtsfortbildung) | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- GG Artikel 20 Absatz 3: Bindung an Gesetz und Recht als Ausgangspunkt juristischer Begründung.
+- BGB Paragraf 133 und Paragraf 157: Auslegung nach wirklichem Willen, Treu und Glauben sowie Verkehrssitte.
+- ZPO Paragraf 138: vollständiger und wahrheitsgemäßer Tatsachenvortrag sowie Erklärungslast.
+- ZPO Paragraf 139: richterliche Erörterungs- und Hinweispflicht als Kontrollmaßstab für lückenhaften Vortrag.
 - Paragraf 675 BGB — Geschäftsbesorgungsvertrag; anwaltliche Pflichten zur ordnungsgemäßen Mandatsführung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 242 BGB — Treu und Glauben; Aufklärungspflicht des Anwalts gegenüber dem Mandanten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 43a Abs. 4 BRAO — Verschwiegenheitspflicht; Grenzen der Mandatsdokumentation: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 50 BRAO — Pflicht zur Aktenführung und Aufbewahrung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 195 BGB — Regelverjährung; relevant für Hinweise auf noch offene Ansprüche nach Mandatsende: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 20 Abs. 3 GG (Gesetzesbindung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 97 GG (richterliche Unabhängigkeit, Gesetzesbindung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG 1 BvR 730/04 (verfassungskonforme Auslegung)
 - BVerfG 2 BvR 883/14 (Wortlautgrenze)
 - BGH V ZR 250/02 (teleologische Reduktion)
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Bürgerliches Abschlussprodukt und Übergabe, Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen, Abwägung: Materialauswahl und Abwägungsgrundlagen, Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Subsumtionszeile: Normmerkmal, Definition, Tatsache, Aktenfund, Schluss, Gegenargument, Beweislast und Zwischenergebnis; Kurzvermerk: Frage, Kurzantwort, tragende Tatsachen, Rechtsanker, Risiko, Empfehlung und nächster Schritt.
 
 ## 8. Stop
 

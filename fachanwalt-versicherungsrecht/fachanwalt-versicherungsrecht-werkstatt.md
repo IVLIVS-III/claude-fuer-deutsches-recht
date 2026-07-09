@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Frist zur Schadenanzeige, Klage oder Deckungsablehnung läuft.
 - Arglist, Rücktritt oder Anfechtung wird behauptet.
 - Bedingungswerk oder Nachtrag fehlt.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -28,7 +28,7 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-### 3.2. Versicherungsfall: Eintritt, Anzeige, Schadenhoehe, Kausalitaet, Ausschluss und Beweislast ordnen.
+### 3.2. Versicherungsfall: Eintritt, Anzeige, Schadenhoehe, Kausalität, Ausschluss und Beweislast ordnen.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
@@ -70,7 +70,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
 | BGH, Urteil vom 22.06.2011 - IV ZR 225/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Beratungspflichten im Versicherungsvertrieb verlangen anlassbezogene, dokumentierbare Bedarfsermittlung |
-| BGH, Urteil vom 12.03.2014 - IV ZR 306/13 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Obliegenheitsverletzungen sind nach Kausalitaet, Verschulden und Belehrung zu prüfen |
+| BGH, Urteil vom 12.03.2014 - IV ZR 306/13 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Obliegenheitsverletzungen sind nach Kausalität, Verschulden und Belehrung zu prüfen |
 | BGH, Urteil vom 07.05.2014 - IV ZR 76/11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Versicherungsbedingungen sind aus Sicht eines durchschnittlichen Versicherungsnehmers auszulegen |
 | BGH, Urteil vom 25.05.2016 - IV ZR 205/15 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Rücktritt wegen Anzeigepflichtverletzung verlangt saubere Risikofragen und Belehrung |
 | BGH, Urteil vom 18.07.2018 - IV ZR 68/17 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Leistungsfreiheit setzt konkrete vertragliche Obliegenheit und Rechtsfolgenbelehrung voraus |
@@ -97,7 +97,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 ## 8. Leitentscheidungen
 
 - BGH, Urteil vom 22.06.2011 - IV ZR 225/10: Beratungspflichten im Versicherungsvertrieb verlangen anlassbezogene, dokumentierbare Bedarfsermittlung.
-- BGH, Urteil vom 12.03.2014 - IV ZR 306/13: Obliegenheitsverletzungen sind nach Kausalitaet, Verschulden und Belehrung zu prüfen.
+- BGH, Urteil vom 12.03.2014 - IV ZR 306/13: Obliegenheitsverletzungen sind nach Kausalität, Verschulden und Belehrung zu prüfen.
 - BGH, Urteil vom 07.05.2014 - IV ZR 76/11: Versicherungsbedingungen sind aus Sicht eines durchschnittlichen Versicherungsnehmers auszulegen.
 - BGH, Urteil vom 25.05.2016 - IV ZR 205/15: Rücktritt wegen Anzeigepflichtverletzung verlangt saubere Risikofragen und Belehrung.
 - BGH, Urteil vom 18.07.2018 - IV ZR 68/17: Leistungsfreiheit setzt konkrete vertragliche Obliegenheit und Rechtsfolgenbelehrung voraus.
@@ -111,9 +111,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 1. Welche Sparte und welche Bedingungen gelten.
 2. Ist der Versicherungsfall nach Zeit, Ort, Ursache und Schaden belegt.
-3. Welche Ausschluesse oder Obliegenheiten werden geltend gemacht.
-4. Welche Belehrung und Kausalitaet sind beweisbar.
-5. Welche Leistung oder Quote ist schluessig.
+3. Welche Ausschlüsse oder Obliegenheiten werden geltend gemacht.
+4. Welche Belehrung und Kausalität sind beweisbar.
+5. Welche Leistung oder Quote ist schlüssig.
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
@@ -175,7 +175,7 @@ Prüfe Berufsunfähigkeit Paragraf 172 VVG von der ersten Aktenordnung bis zur b
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Prüfung von Versicherungsschadenfaellen und Deckungsablehnungen nach VVG
+### 15.6. Prüfung von Versicherungsschadenfällen und Deckungsablehnungen nach VVG
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 

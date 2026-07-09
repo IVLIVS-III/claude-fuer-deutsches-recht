@@ -17,10 +17,10 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 ## 2. Stop-Kriterien
 
 - Insolvenzantragspflicht kann laufen.
-- Masseschmaelernde Zahlung steht bevor.
+- Masseschmälernde Zahlung steht bevor.
 - Haftung der Geschäftsleitung ist nicht geprüft.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -174,7 +174,7 @@ Analysiert die Insolvenzantragspflicht des Geschäftsleiters nach Paragraf 15a I
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Auslaendischer Office Holder Register und Grundbuch
+### 15.6. Ausländischer Office Holder Register und Grundbuch
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
@@ -208,4 +208,4 @@ Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zu
 
 ### 15.14. Forderungsanmeldung im Insolvenzverfahren — Gläubiger-Sicht (Paragrafen 174-177 InsO)
 
-Gläubiger meldet Forderung im Insolvenzverfahren an Paragrafen 174-177 InsO: Fristen Form Anlagen Rang Paragraf 39 InsO Vorsatz Paragraf 174 Abs. 2 InsO nachtraegliche Anmeldung Paragraf 177 InsO Prüfungstermin Paragraf 176 Bestreiten Paragraf 178 Tabelle Paragraf 179 InsO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Gläubiger meldet Forderung im Insolvenzverfahren an Paragrafen 174-177 InsO: Fristen Form Anlagen Rang Paragraf 39 InsO Vorsatz Paragraf 174 Abs. 2 InsO nachträgliche Anmeldung Paragraf 177 InsO Prüfungstermin Paragraf 176 Bestreiten Paragraf 178 Tabelle Paragraf 179 InsO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

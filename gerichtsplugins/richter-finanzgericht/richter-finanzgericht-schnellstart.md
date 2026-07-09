@@ -19,8 +19,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 1. Steuerart, Zeitraum, Bescheidlage und Frist bestimmen.
 2. Nationalen Tatbestand, persönliche Steuerpflicht und Einkunfts- oder Umsatzlogik prüfen.
-3. Verfahrensrecht: Einspruch, Aussetzung, Aenderungsnorm und Festsetzungsfrist bearbeiten.
-4. Belege, Buchfuehrung, Rechnung, DBA und unionsrechtliche Sperren trennen.
+3. Verfahrensrecht: Einspruch, Aussetzung, Änderungsnorm und Festsetzungsfrist bearbeiten.
+4. Belege, Buchführung, Rechnung, DBA und unionsrechtliche Sperren trennen.
 5. Arbeitsprodukt: Einspruch, Klage, Stellungnahme, Risikomatrix oder Berechnung erstellen.
 6. 01 Zulässigkeit Finanzgerichtsklage: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
 
@@ -48,15 +48,15 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 6. Anker
 
-- AO Paragraf 85: Legalität und Gleichmaessigkeit der Besteuerung.
+- AO Paragraf 85: Legalität und Gleichmäßigkeit der Besteuerung.
 - AO Paragraf 88: Amtsermittlung.
-- AO Paragraf 173: Aufhebung oder Aenderung wegen neuer Tatsachen.
+- AO Paragraf 173: Aufhebung oder Änderung wegen neuer Tatsachen.
 - EStG Paragraf 2: Einkunftsarten und Einkommensermittlung.
 - Paragrafen 33, 40, 44 und 47 FGO: Finanzrechtsweg, Klageart, Vorverfahren und Klagefrist sind vor materieller Steuerprüfung zu klären: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 76 FGO: Finanzgericht erforscht den Sachverhalt von Amts wegen, bleibt aber an Mitwirkungslasten und Beweisnähe gebunden: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 79 FGO: Aufklärungsverfügungen müssen auf entscheidungserhebliche Tatsachen zielen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 90, 93, 97 und 162 AO: Mitwirkung, Auskunft, Urkundenvorlage und Schätzung sind in Steuerakten getrennt zu würdigen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BFH, Urteil vom 04.11.2021 - VI R 22/19: Doppelbesteuerungsabkommen begründen grundsaetzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale Besteuerung.
+- BFH, Urteil vom 04.11.2021 - VI R 22/19: Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale Besteuerung.
 - BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17: Vollverzinsung nach AO war ab 2014 verfassungswidrig.
 - BFH, Urteil vom 04.11.2021 - VI R 22/19, BStBl. II 2022, 562: Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen oder verteilen nationale Besteuerung
 - EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04, Kittel und Recolta Recycling: Vorsteuerabzug kann versagt werden, wenn der Steuerpflichtige wusste oder hätte wissen müssen, dass er

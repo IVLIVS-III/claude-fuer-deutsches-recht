@@ -54,7 +54,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
 - Normenradar: InsO Paragrafen 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 174 InsO (Anmeldeform) → Paragraf 175 InsO (Eintragung Tabelle) → Paragraf 176 InsO (Prüfungstermin) → Paragraf 66 InsO (Rechnungslegung und Dokumentation) → Paragraf 60 InsO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 174 InsO (Anmeldung) → Paragraf 175 InsO (Eintragung) → Paragraf 176 InsO (Prüfungstermin) → Paragraf 177 InsO (nachtraegliche Anmeldung) → Paragraf 178 InsO (Tabellenwirkung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 174 InsO (Anmeldung) → Paragraf 175 InsO (Eintragung) → Paragraf 176 InsO (Prüfungstermin) → Paragraf 177 InsO (nachträgliche Anmeldung) → Paragraf 178 InsO (Tabellenwirkung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGB Paragrafen 194 ff., 280 ff., 286, 288, 362 ff.; ZPO Paragrafen 253, 688 ff., 794, 802a ff.; RVG/GKG für Kosten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zahlungsunfähigkeit ist regelmäßig bei Liquiditätslücke von zehn Prozent anzunehmen.
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.

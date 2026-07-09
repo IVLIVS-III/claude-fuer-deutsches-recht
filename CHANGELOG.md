@@ -1,3 +1,15 @@
+# v429.15.0 — Fachrouten, Rechtsprechungsanker und Prompt-Hygiene geschärft
+
+- Werkstatt- und Schnellstart-Prompts erhalten eigene Fachprofile für Immobilien-, Grundbuch- und Notarrecht, Europarecht, juristische Methodik, Betreuungsrecht, HOAI- und Planervertragsrecht, HR-Operations sowie Weltraumrecht. Dadurch sank die Zahl der bewusst allgemeinen Auffangrouten von 55 auf 21 Plugins.
+- Eindeutige Plugins werden vor jeder Teilwortsuche über eine feste Fachroute zugeordnet. Unter anderem starten Grundbuchamt, Notariat, Erbbaurecht, Europarecht-Kompass, Betreuungsrecht, HOAI-Leistungsphasen, Personalabteilung, Migrationsrecht, Verhältnismäßigkeitsprüfung und Internal Investigations nun mit ihrem eigenen Prüf- und Outputkern.
+- Der Arbeitsrechtsanker `BAG, Urteil vom 24.08.2023 - 2 AZR 17/23` ist inhaltlich berichtigt: Die Entscheidung betrifft die berechtigte Vertraulichkeitserwartung bei Äußerungen in einer Chatgruppe. Der Skill zur Betriebsratsanhörung nutzt stattdessen den einschlägigen Anker `BAG, Urteil vom 07.05.2020 - 2 AZR 678/19`.
+- Betreuungsrechtliche Prompts ziehen keine strukturanaloge Erbrechtsentscheidung mehr als Kernanker heran. Sie verwenden nun die verifizierten Linien `XII ZB 80/11`, `1 BvR 413/20` und `XII ZB 235/24` zu Erforderlichkeit, Selbstbestimmung, Betreuerauswahl und konkretem Betreuungsbedarf.
+- HOAI-Prompts trennen Alt- und Neuverträge, Leistungsbild, Leistungsstand, Honorar und Haftung und verorten `C-377/17`, `C-261/20` sowie `VII ZR 174/19` mit ihrem tatsächlichen Aussagegehalt. Weltraumrecht arbeitet mit Startstaat, Registerstaat, Genehmigung, Haftungsregime, Registrierung und Telemetriebeleg statt mit allgemeinem internationalem Vertragsrecht.
+- Der Prompt-Hygiene-Audit leitet seine Soll-Dateien nun ausschließlich aus dem Marketplace ab und prüft exakt 468 Promptdateien statt versehentlich eine Indexdatei mitzuzählen. Ein zusätzlicher Routing-Audit kontrolliert Vollständigkeit, Größen, Dezimalgliederung, kritische Fachzuordnungen und die Zahl allgemeiner Auffangprofile im Release-Lauf.
+- Die Umlautnormalisierung der erzeugten Prompts wurde um häufige juristische Begriffe wie Identität, Ermächtigungsgrundlage, Tatbestände, Schöpfung, Vergütung und Verhältnisse ergänzt; der Hygiene-Audit verhindert ein Zurückrutschen dieser Umschriften.
+
+---
+
 # v429.14.0 — Promptprofile und Release-Hygiene geschärft
 
 - Werkstatt- und Schnellstart-Prompts erhalten zusätzliche Themenprofile für Bürgerliches Recht und Vertragsrecht, Zivilprozess und Relation, Erbrecht, Medizin- und Gesundheitsrecht, Verkehrs- und Reisendenrecht sowie Zwangsvollstreckung.

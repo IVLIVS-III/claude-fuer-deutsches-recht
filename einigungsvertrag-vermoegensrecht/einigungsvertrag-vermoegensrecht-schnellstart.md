@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Einigungsvertrag Vermögensrecht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Verwaltungsakt anfechten und vorläufigen Rechtsschutz erreichen.
 
 # Einigungsvertrag Vermögensrecht — Schnellstart
 
@@ -17,38 +17,43 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Volkseigener Betrieb Berechtigte Ermit: Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale.
-2. Alte Ddr Unterlagen Auswerten: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste.
-3. Art 21 und Art 22 Vermögen Trennen: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
-4. Ausschlussfristen und Bestandskraft: Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale.
-5. Behörde und Archiv Finden: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
-6. Bodenreform Grundbuch Lesen: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal.
+1. Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen.
+2. Zulässigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
+3. Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen.
+4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
+5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
+6. Volkseigener Betrieb Berechtigte Ermit: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | aus Akte und belastbarer Quelle ableiten |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Normenanker | VwVfG Paragraf 35; VwVfG Paragraf 28; VwVfG Paragraf 40 |
+| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 |
+| Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
+| Beweislast | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit |
+| Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Volkseigener Betrieb Berechtigte Ermit | Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Alte Ddr Unterlagen Auswerten | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Art 21 und Art 22 Vermögen Trennen | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ausschlussfristen und Bestandskraft | Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Behörde und Archiv Finden | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bodenreform Grundbuch Lesen | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Volkseigener Betrieb Berechtigte Ermit | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Alte Ddr Unterlagen Auswerten | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Art 21 und Art 22 Vermögen Trennen | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ausschlussfristen und Bestandskraft | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Behörde und Archiv Finden | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bodenreform Grundbuch Lesen | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- Normen und Entscheidungen aus den vorgelegten Unterlagen oder einer belastbaren Quelle ableiten; Aktenzeichen nicht ergänzen, wenn sie nicht sicher belegt sind.
+- VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
+- VwVfG Paragraf 28: Anhörung Beteiligter.
+- VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
+- VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
+- BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
+- BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
 
 ## 7. Antwortform
 

@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Grundbuchamt Praxis ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Grundstücks-, Grundbuch-, Beurkundungs- oder Erbbaurechtsfall sofort nach Rechtslage, Rang, Form, Vollzug und nächstem Antrag ordnen.
 
 # Grundbuchamt Praxis — Schnellstart
 
@@ -17,48 +17,49 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abteilung I Eigentum: Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung.
-2. Abteilung II nicht übersehen: Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung.
-3. Abteilung III Belastungen: Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung.
-4. Vollzugsfehler und Haftung: Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung.
-5. Aufgebotsverfahren planen: Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung.
-6. Auflassung und Umschreibung: Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung.
+1. Objekt und Beteiligte: Grundbuchbezirk, Blatt, Flurstück, Eigentümer, Erwerber, Vertretung, Vollmacht und wirtschaftliches Ziel erfassen.
+2. Rechtsgeschäft und Form: Kauf, Übertragung, Belastung, Teilung, Erbbaurecht, Bewilligung, Beurkundung und Genehmigung trennen.
+3. Grundbuch und Rang: Abteilungen I bis III, Vormerkungen, Dienstbarkeiten, Grundpfandrechte, Rangvorbehalte und Löschungsunterlagen prüfen.
+4. Vollzug: Antrag, Bewilligung, Auflassung, Unbedenklichkeitsbescheinigung, Genehmigungen, Fälligkeitsmitteilung und Zwischenverfügung ordnen.
+5. Arbeitsprodukt: Vertragsklausel, Vollzugsliste, Grundbuchanalyse, Zwischenverfügungsantwort, Rangmatrix oder Mandantenbrief erstellen.
+6. Abteilung I Eigentum: Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 873 Abs. 1 BGB; Paragraf 873 Abs. 1 BGB; Paragraf 925 Abs. 1 BGB |
+| Normenanker | BGB Paragraf 311b; BGB Paragraf 873 und Paragraf 925; BGB Paragraf 883 bis Paragraf 888 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden |
+| Beweislast | Antragsteller für Antrag, Bewilligung, Vertretung und Nachweis; Beteiligte für Rang, Genehmigung, Löschung und entgegenstehende Rechte |
+| Rechtsfolge | Grundbuchanalyse, Vertragsklausel, Vollzugsliste, Bewilligung, Zwischenverfügungsantwort oder Rangmatrix |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abteilung I Eigentum | Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abteilung II nicht übersehen | Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abteilung III Belastungen | Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vollzugsfehler und Haftung | Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufgebotsverfahren planen | Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auflassung und Umschreibung | Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abteilung I Eigentum | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abteilung II nicht übersehen | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abteilung III Belastungen | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vollzugsfehler und Haftung | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aufgebotsverfahren planen | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auflassung und Umschreibung | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- BGB Paragraf 311b: notarielle Form bei Grundstücksverträgen und Heilung durch Auflassung und Eintragung.
+- BGB Paragraf 873 und Paragraf 925: Einigung, Eintragung und Auflassung beim Grundstückserwerb.
+- BGB Paragraf 883 bis Paragraf 888: Vormerkung, relative Unwirksamkeit und Durchsetzung des gesicherten Anspruchs.
+- BGB Paragraf 1018 ff. und Paragraf 1191 ff.: Dienstbarkeit und Grundschuld als dingliche Belastungen.
 - Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 925 Abs. 1 BGB — Auflassung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1113 Abs. 1 BGB — Hypothek: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1191 Abs. 1 BGB — Grundschuld: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- GG Art. 1, 3, 20 (Grundrechte, Rechtsstaat): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGB Paragrafen 133, 157, 242 (Auslegung, Treu und Glauben): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abteilung I Eigentum, Abteilung II nicht übersehen, Abteilung III Belastungen, Vollzugsfehler und Haftung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Grundbuchmatrix: Abteilung, laufende Nummer, Recht, Berechtigter, Rang, Löschungsweg, benötigte Urkunde und Risiko; Vollzugsliste: Schritt, Voraussetzung, Verantwortlicher, Dokument, Frist, Rückmeldung und nächster Antrag.
 
 ## 8. Stop
 

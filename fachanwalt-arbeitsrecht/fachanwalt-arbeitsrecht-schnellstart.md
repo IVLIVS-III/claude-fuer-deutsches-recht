@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du eine Kündigung rechtssicher angreifen oder aussprechen und die Klagefrist sichern.
+Wenn du das hier öffnest, willst du einen arbeitsrechtlichen Vorgang vom Vertragsschluss bis zur Trennung nach Frist, Form, Beteiligungsrechten und sofortigem Arbeitsprodukt ordnen.
 
 # Fachanwalt Arbeitsrecht — Schnellstart
 
@@ -17,52 +17,49 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Mandat und Frist: Kündigung, Befristungsende, Zugang, Betriebsratsdatum und Klageziel kalendarisch sichern.
-2. Status und Betrieb: Arbeitnehmerstellung, Betriebszugehoerigkeit, Wartezeit, Betriebsrat und Tarifbindung klären.
-3. Form und Zugang: Originalform, elektronische Form, Zugangsnachweis, Botenbeweis und Personalaktenbelege prüfen.
-4. Materielle Prüfung: Kündigungsgrund, Befristungsgrund, Annahmeverzug, Urlaub, Zeugnis und Vergleichsfenster trennen.
-5. Arbeitsprodukt: Klage, Erwiderung, Vergleichsvorschlag, HR-Memo oder Vertragskorrektur in ausformulierten Sätzen erstellen.
-6. Abmahnung Loeschung Personalakte BAG 2 Azr 782 11: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
+1. Vorgang und Frist: Einstellung, Vertragsänderung, Vergütung, Fehlzeit, Beschwerde, Abmahnung, Kündigung oder Befristungsende kalendarisch sichern.
+2. Status und Regelwerk: Arbeitnehmerstellung, Vertrag, Nachweis, Tarifbindung, Betriebsvereinbarung, Betriebsrat und Vertretungsmacht klären.
+3. Laufendes Arbeitsverhältnis: Arbeitszeit, Vergütung, Urlaub, Krankheit, Weisung, Gleichbehandlung, Arbeitsschutz und Dokumentation getrennt prüfen.
+4. Konflikt und Trennung: Anhörung, Verdacht, Beweisgewinnung, Abmahnung, Kündigungsgrund, Beteiligungsrechte, Zugang und Klagefrist ordnen.
+5. Arbeitsprodukt: Vertrag, Personalvermerk, Anhörung, Abmahnung, Betriebsratsvorlage, Klage, Erwiderung oder Vergleich ausformulieren.
+6. Abmahnung Löschung Personalakte BAG 2 Azr 782 11: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | KSchG Paragraf 1; KSchG Paragraf 4 und Paragraf 7; BGB Paragraf 611a |
-| Rechtsprechung | BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14; BAG, Urteil vom 27.02.1985 - GS 1/84 |
+| Normenanker | BGB Paragraf 611a; BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106; KSchG Paragraf 1, Paragraf 4 und Paragraf 7 |
+| Rechtsprechung | BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14; BAG Großer Senat, Beschluss vom 27.02.1985 - GS 1/84 |
 | Tatbestand | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen |
-| Beweislast | Arbeitgeber für Kündigungs-, Befristungs- und Betriebsratsgrund; Arbeitnehmer für Zugang, Fristwahrung und eigene Ansprüche |
-| Rechtsfolge | Feststellung, Weiterbeschäftigung, Annahmeverzug, Vergleich oder Abwicklungsbaustein |
+| Beweislast | Arbeitgeber für Vertragsbedingungen, Zeiterfassung, Vergütung, Personalmaßnahme und Beteiligung; Arbeitnehmer für Zugang, eigene Anspruchsvoraussetzungen und Fristwahrung |
+| Rechtsfolge | Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abmahnung Loeschung Personalakte BAG 2 Azr 782 11 | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenzeichen Fehlerkatalog | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abfindungsrechner modular: Faustformel 0 und5 Monatsgehälter pro Beschäftigungsjahr nach BAG-Linie, Anpassung. | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abmahnung Löschung Personalakte BAG 2 Azr 782 11 | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenzeichen Fehlerkatalog | Arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abfindungsrechner modular: Faustformel 0 und5 Monatsgehälter pro Beschäftigungsjahr nach BAG-Linie, Anpassung. | Arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Aufhebungsvertrag in der Praxis: Sperrzeit ALG I Paragraf 159 SGB III, steuerliche Fünftelregelung Paragraf 34. | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Betriebsübergang Paragraf 613a BGB im M&A-Kontext: Asset-Deal vs | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Betriebsübergang Paragraf 613a BGB im M&A-Kontext: Asset-Deal vs | Arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- KSchG Paragraf 1: soziale Rechtfertigung ordentlicher Kündigungen.
-- KSchG Paragraf 4 und Paragraf 7: Dreiwochenfrist und Wirksamkeitsfiktion.
 - BGB Paragraf 611a: Arbeitsvertrag und Weisungsgebundenheit.
-- BGB Paragraf 623: Schriftform für Kündigung und Aufhebungsvertrag.
+- BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106: Rücksichtnahme, Maßregelungsverbot und Weisungsrecht.
+- KSchG Paragraf 1, Paragraf 4 und Paragraf 7: soziale Rechtfertigung, Dreiwochenfrist und Wirksamkeitsfiktion.
+- BGB Paragraf 623 und Paragraf 626: Schriftform, wichtiger Grund und Erklärungsfrist.
 - Symptom: Normzitat ohne Fassungsprüfung (BGB Paragrafen 611a ff., 623): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Normenradar: BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Einschlägig: BetrVG Paragrafen 87 (echtes Mitbestimmungsrecht), 99 (personelle Einzelmaßnahmen), 102 (Anhörung Kündigung), 111 ff. (Betriebsänderung, Interessenausgleich, Sozialplan): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14: Vorbeschäftigungsverbot des TzBfG bleibt verfassungskonform, verlangt aber verfassungskonforme Begrenzung in atypischen Faellen.
-- BAG, Urteil vom 27.02.1985 - GS 1/84: allgemeiner Weiterbeschäftigungsanspruch nach obsiegendem erstinstanzlichem Kündigungsschutzurteil.
-- BAG 19.07.2012 2 AZR 782/11 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- BAG 20.01.2015 9 AZR 860/13 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14: Vorbeschäftigungsverbot des TzBfG bleibt verfassungskonform, verlangt aber verfassungskonforme Begrenzung in atypischen Fällen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Klageantrag: Es wird festgestellt, dass das Arbeitsverhaeltnis der Parteien durch die Kündigung vom [Datum] nicht aufgelöst worden ist; Befristungsantrag: Es wird festgestellt, dass das Arbeitsverhaeltnis nicht aufgrund der Befristung vom [Datum] mit Ablauf des [Datum] geendet hat.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Klageantrag: Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung vom [Datum] nicht aufgelöst worden ist; Befristungsantrag: Es wird festgestellt, dass das Arbeitsverhältnis nicht aufgrund der Befristung vom [Datum] mit Ablauf des [Datum] geendet hat.
 
 ## 8. Stop
 

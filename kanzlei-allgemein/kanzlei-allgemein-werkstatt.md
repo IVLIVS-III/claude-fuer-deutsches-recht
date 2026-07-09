@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Frist oder Form kann nicht sicher bestimmt werden.
 - Tatsachen sind für eine tragende Subsumtion unzureichend.
 - Strafrechtliche, insolvenzrechtliche oder berufsrechtliche Nebenrisiken sind erkennbar.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -80,7 +80,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Dokumentation von beA-Verbindungen Nachrichten Versand und Empfangsbekenntnissen. Anwendungsfall beA-Eingang oder Versand muss nachvollziehbar protokolliert werden mit Screenshot: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 173 Abs. 2 ZPO — Zustellung per beA: Zustelldatum ist der Tag des EB-Klicks: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 31a BRAO — Pflicht zur Einrichtung und Nutzung des beA: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 174 Abs. 4 ZPO — Elektronisches Empfangsbekenntnis: Formerfordernis und Fristausloesung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 174 Abs. 4 ZPO — Elektronisches Empfangsbekenntnis: Formerfordernis und Fristauslösung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -148,7 +148,7 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutz
 
 ### 15.4. Aktenzeichen und Verknüpfungen
 
-Erkennung Normalisierung und Verknüpfung von Aktenzeichen in der Kanzlei. Anwendungsfall beA-Nachricht oder Brief enthaelt Aktenzeichen das einer Akte zugeordnet werden muss. Normen Paragraf 51 BRAO Organisationspflicht Paragraf 253 Abs. 2 Nr. 1 ZPO Paragraf 130a ZPO. Prüfraster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Erkennung Normalisierung und Verknüpfung von Aktenzeichen in der Kanzlei. Anwendungsfall beA-Nachricht oder Brief enthält Aktenzeichen das einer Akte zugeordnet werden muss. Normen Paragraf 51 BRAO Organisationspflicht Paragraf 253 Abs. 2 Nr. 1 ZPO Paragraf 130a ZPO. Prüfraster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. beA-Nachrichtenjournal und EB-Workflow
 

@@ -57,7 +57,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 83 SGB X — Auskunft des Sozialleistungsträgers an Betroffene: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 25 SGB X: bei laufendem Verwaltungsverfahren. Akteneinsicht in die das Verfahren betreffenden Akten am Ort der Aktenführung oder über Abschriften: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09: existenzsichernde Leistungen müssen transparent und realitätsgerecht bemessen sein.
-- BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhaeltnismaessigkeitskontrolle.
+- BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhältnismaessigkeitskontrolle.
 
 ## 7. Antwortform
 

@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Produktivsystem, Datenzugriff oder Sicherheitsvorfall ist akut betroffen.
 - Abnahme oder Kündigung soll ohne belastbare Mängelliste erfolgen.
 - Open-Source- oder Datenschutzrisiko ist ungeklärt.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -36,7 +36,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-### 3.4. Rechte und Daten: Nutzungsrechte, Open Source, Datenschutzschnittstelle, Zugriff und Loeschung prüfen.
+### 3.4. Rechte und Daten: Nutzungsrechte, Open Source, Datenschutzschnittstelle, Zugriff und Löschung prüfen.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
@@ -58,7 +58,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
 | --- | --- | --- | --- |
 | BGB Paragraf 327 | Verbraucherverträge über digitale Produkte | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
-| BGB Paragraf 327e | Vertragsmaessigkeit digitaler Produkte | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
+| BGB Paragraf 327e | Vertragsmäßigkeit digitaler Produkte | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
 | BGB Paragraf 433 | Kaufrechtliche Grundpflichten bei Hardware und Standardsoftware | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
 | BGB Paragraf 631 | Werkvertragliche Pflichten bei Projektleistungen | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
 | BGB Paragraf 634 | Rechte bei Mängeln des Werkes | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
@@ -69,18 +69,18 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| EuGH, Urteil vom 03.07.2012 - C-128/11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | UsedSoft behandelt Erschoepfung bei Softwaredownloads |
+| EuGH, Urteil vom 03.07.2012 - C-128/11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | UsedSoft behandelt Erschöpfung bei Softwaredownloads |
 | BGH, Urteil vom 15.11.2006 - XII ZR 120/04 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Application-Service-Providing kann mietvertragliche Elemente tragen |
 | BGH, Urteil vom 04.03.2010 - III ZR 79/09 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Internet-System-Vertrag ist regelmäßig werkvertraglich geprägt |
 | BGH, Urteil vom 24.01.2013 - VII ZR 37/12 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | IT-Projektverträge verlangen klare Leistungsbeschreibung und Abnahmeprüfung |
-| BGH, Urteil vom 19.07.2012 - VII ZR 262/11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Werklohn setzt bei werkvertraglicher Prägung grundsaetzlich Abnahmefähigkeit voraus |
+| BGH, Urteil vom 19.07.2012 - VII ZR 262/11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Werklohn setzt bei werkvertraglicher Prägung grundsätzlich Abnahmefähigkeit voraus |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
 ## 7. Pflichtnormen als Kernsätze
 
 - BGB Paragraf 327: Verbraucherverträge über digitale Produkte.
-- BGB Paragraf 327e: Vertragsmaessigkeit digitaler Produkte.
+- BGB Paragraf 327e: Vertragsmäßigkeit digitaler Produkte.
 - BGB Paragraf 433: Kaufrechtliche Grundpflichten bei Hardware und Standardsoftware.
 - BGB Paragraf 631: Werkvertragliche Pflichten bei Projektleistungen.
 - BGB Paragraf 634: Rechte bei Mängeln des Werkes.
@@ -91,16 +91,16 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 69c UrhG — ausschließliche Rechte: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 69d UrhG — bestimmungsgemäße Benutzung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 69e UrhG — Dekompilierung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 31 UrhG — Einraeumung von Nutzungsrechten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 31 UrhG — Einräumung von Nutzungsrechten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 32 UrhG — angemessene Vergütung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschoepfung bei Softwaredownloads.
+- EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschöpfung bei Softwaredownloads.
 - BGH, Urteil vom 15.11.2006 - XII ZR 120/04: Application-Service-Providing kann mietvertragliche Elemente tragen.
 - BGH, Urteil vom 04.03.2010 - III ZR 79/09: Internet-System-Vertrag ist regelmäßig werkvertraglich geprägt.
 - BGH, Urteil vom 24.01.2013 - VII ZR 37/12: IT-Projektverträge verlangen klare Leistungsbeschreibung und Abnahmeprüfung.
-- BGH, Urteil vom 19.07.2012 - VII ZR 262/11: Werklohn setzt bei werkvertraglicher Prägung grundsaetzlich Abnahmefähigkeit voraus.
+- BGH, Urteil vom 19.07.2012 - VII ZR 262/11: Werklohn setzt bei werkvertraglicher Prägung grundsätzlich Abnahmefähigkeit voraus.
 
 ## 9. Prüfraster
 
@@ -152,15 +152,15 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Abnahme und Acceptance Tests
 
-Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einraeumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einräumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Agile/Scrum-Vertrag
 
-Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einraeumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einräumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. digitale Werkzeuge Code Generation IP
 
-Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einraeumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einräumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. digitale Werkzeuge Pair Programming im Arbeitsverhältnis
 
@@ -176,11 +176,11 @@ Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zu
 
 ### 15.7. abrufen-Klauseln
 
-Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einraeumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einräumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Beta Pilot PoC Termsheet
 
-Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einraeumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einräumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Beweissicherung Code Repository
 
@@ -188,15 +188,15 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast
 
 ### 15.10. Bonus Equity Devs Non-Compete
 
-Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einraeumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einräumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Change Requests und Scope Creep
 
-Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einraeumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einräumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Global Software Compliance Matrix
 
-Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einraeumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einräumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Computerprogramm-Schutz Paragraf 69a UrhG
 
@@ -204,4 +204,4 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittste
 
 ### 15.14. Contributor License Agreement
 
-Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einraeumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einräumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

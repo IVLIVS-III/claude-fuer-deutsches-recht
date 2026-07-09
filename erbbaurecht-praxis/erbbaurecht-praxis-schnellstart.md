@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Erbbaurecht Praxis ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Grundstücks-, Grundbuch-, Beurkundungs- oder Erbbaurechtsfall sofort nach Rechtslage, Rang, Form, Vollzug und nächstem Antrag ordnen.
 
 # Erbbaurecht Praxis — Schnellstart
 
@@ -17,42 +17,46 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Laufzeitende und Exitplan: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie.
-2. Altlasten und Rückbau: Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt.
-3. Change of Control beim Erbbauberechtigten: Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt.
-4. Entschädigung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste.
-5. Grundbuchstreit im Erbbaurecht: Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt.
-6. Erbbaugrundbuch lesen: Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt.
+1. Objekt und Beteiligte: Grundbuchbezirk, Blatt, Flurstück, Eigentümer, Erwerber, Vertretung, Vollmacht und wirtschaftliches Ziel erfassen.
+2. Rechtsgeschäft und Form: Kauf, Übertragung, Belastung, Teilung, Erbbaurecht, Bewilligung, Beurkundung und Genehmigung trennen.
+3. Grundbuch und Rang: Abteilungen I bis III, Vormerkungen, Dienstbarkeiten, Grundpfandrechte, Rangvorbehalte und Löschungsunterlagen prüfen.
+4. Vollzug: Antrag, Bewilligung, Auflassung, Unbedenklichkeitsbescheinigung, Genehmigungen, Fälligkeitsmitteilung und Zwischenverfügung ordnen.
+5. Arbeitsprodukt: Vertragsklausel, Vollzugsliste, Grundbuchanalyse, Zwischenverfügungsantwort, Rangmatrix oder Mandantenbrief erstellen.
+6. Laufzeitende und Exitplan: Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 873 Abs. 1 BGB |
+| Normenanker | BGB Paragraf 311b; BGB Paragraf 873 und Paragraf 925; BGB Paragraf 883 bis Paragraf 888 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden |
+| Beweislast | Antragsteller für Antrag, Bewilligung, Vertretung und Nachweis; Beteiligte für Rang, Genehmigung, Löschung und entgegenstehende Rechte |
+| Rechtsfolge | Grundbuchanalyse, Vertragsklausel, Vollzugsliste, Bewilligung, Zwischenverfügungsantwort oder Rangmatrix |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Laufzeitende und Exitplan | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Altlasten und Rückbau | Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Change of Control beim Erbbauberechtigten | Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Entschädigung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Grundbuchstreit im Erbbaurecht | Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Erbbaugrundbuch lesen | Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Laufzeitende und Exitplan | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Altlasten und Rückbau | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Change of Control beim Erbbauberechtigten | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Entschädigung | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Grundbuchstreit im Erbbaurecht | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Erbbaugrundbuch lesen | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- BGB Paragraf 311b: notarielle Form bei Grundstücksverträgen und Heilung durch Auflassung und Eintragung.
+- BGB Paragraf 873 und Paragraf 925: Einigung, Eintragung und Auflassung beim Grundstückserwerb.
+- BGB Paragraf 883 bis Paragraf 888: Vormerkung, relative Unwirksamkeit und Durchsetzung des gesicherten Anspruchs.
+- BGB Paragraf 1018 ff. und Paragraf 1191 ff.: Dienstbarkeit und Grundschuld als dingliche Belastungen.
 - Paragraf 873 Abs. 1 BGB — dinglicher Vollzug: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Laufzeitende und Exitplan, Altlasten und Rückbau, Change of Control beim Erbbauberechtigten, Entschädigung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Grundbuchmatrix: Abteilung, laufende Nummer, Recht, Berechtigter, Rang, Löschungsweg, benötigte Urkunde und Risiko; Vollzugsliste: Schritt, Voraussetzung, Verantwortlicher, Dokument, Frist, Rückmeldung und nächster Antrag.
 
 ## 8. Stop
 

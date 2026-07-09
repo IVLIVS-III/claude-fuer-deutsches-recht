@@ -21,7 +21,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 2. Rechtsgrundlage, Zweckbindung und Datenminimierung prüfen.
 3. Informationspflichten, Betroffenenrechte und Fristen strukturieren.
 4. Technische und organisatorische Maßnahmen sowie Auftragsverarbeitung prüfen.
-5. Datenpanne, Aufsichtsverfahren, Schadensersatz und Loeschkonzept bearbeiten.
+5. Datenpanne, Aufsichtsverfahren, Schadensersatz und Löschkonzept bearbeiten.
 6. Akteneinsicht Paragraf 49 OWiG und Paragraf 147 StPO: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
 
 ## 4. Fallkarte
@@ -49,14 +49,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 ## 6. Anker
 
 - Datenschutz-Grundverordnung Artikel 5: Grundsätze der Verarbeitung personenbezogener Daten.
-- Datenschutz-Grundverordnung Artikel 6: Rechtmaessigkeit der Verarbeitung.
+- Datenschutz-Grundverordnung Artikel 6: Rechtmäßigkeit der Verarbeitung.
 - Datenschutz-Grundverordnung Artikel 12 bis Artikel 15: Transparenz, Auskunft und Kommunikation.
 - Datenschutz-Grundverordnung Artikel 28: Auftragsverarbeitung.
 - Art. 47, 48, 50, 52 GRCh: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 20 und Paragraf 41 BDSG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 20/Paragraf 41 BDSG je nach Spur: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 16.07.2020 - C-311/18: Schrems II verlangt tragfähige Prüfung internationaler Datentransfers.
-- EuGH, Urteil vom 04.05.2023 - C-300/21: immaterieller Schadensersatz nach Datenschutz-Grundverordnung verlangt Schaden, Verstoß und Kausalitaet.
+- EuGH, Urteil vom 04.05.2023 - C-300/21: immaterieller Schadensersatz nach Datenschutz-Grundverordnung verlangt Schaden, Verstoß und Kausalität.
 - EuGH C-807/21 als verschuldenslose Unternehmenshaftung lesen. Das ist falsch: keine Identifizierung einer natürlichen Person nötig, aber Vorsatz oder Fahrlässigkeit bleibt nötig
 
 ## 7. Antwortform

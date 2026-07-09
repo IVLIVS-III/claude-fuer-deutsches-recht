@@ -19,8 +19,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 1. Steuerart, Zeitraum, Bescheidlage und Frist bestimmen.
 2. Nationalen Tatbestand, persönliche Steuerpflicht und Einkunfts- oder Umsatzlogik prüfen.
-3. Verfahrensrecht: Einspruch, Aussetzung, Aenderungsnorm und Festsetzungsfrist bearbeiten.
-4. Belege, Buchfuehrung, Rechnung, DBA und unionsrechtliche Sperren trennen.
+3. Verfahrensrecht: Einspruch, Aussetzung, Änderungsnorm und Festsetzungsfrist bearbeiten.
+4. Belege, Buchführung, Rechnung, DBA und unionsrechtliche Sperren trennen.
 5. Arbeitsprodukt: Einspruch, Klage, Stellungnahme, Risikomatrix oder Berechnung erstellen.
 6. Addison BWA-Konfiguration: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
 
@@ -48,15 +48,15 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 6. Anker
 
-- AO Paragraf 85: Legalität und Gleichmaessigkeit der Besteuerung.
+- AO Paragraf 85: Legalität und Gleichmäßigkeit der Besteuerung.
 - AO Paragraf 88: Amtsermittlung.
-- AO Paragraf 173: Aufhebung oder Aenderung wegen neuer Tatsachen.
+- AO Paragraf 173: Aufhebung oder Änderung wegen neuer Tatsachen.
 - EStG Paragraf 2: Einkunftsarten und Einkommensermittlung.
 - Paragraf 8 AO (Wohnsitz, Aufenthalt): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 33, 34 AO (Steuerpflichtiger, gesetzliche Vertreter): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 42 AO (Gestaltungsmissbrauch): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 169-171 AO (Festsetzungsverjährung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BFH, Urteil vom 04.11.2021 - VI R 22/19: Doppelbesteuerungsabkommen begründen grundsaetzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale Besteuerung.
+- BFH, Urteil vom 04.11.2021 - VI R 22/19: Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale Besteuerung.
 - BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17: Vollverzinsung nach AO war ab 2014 verfassungswidrig.
 - EuGH C-280/10 (Vorsteuerabzug bei wirtschaftlicher Tätigkeit)
 

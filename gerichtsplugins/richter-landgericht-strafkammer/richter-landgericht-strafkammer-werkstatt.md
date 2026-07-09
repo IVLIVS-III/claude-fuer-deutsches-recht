@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Haft, Durchsuchung, Beschlagnahme oder Aussageentscheidung steht unmittelbar an.
 - Pflichtverteidigung liegt nahe und ist nicht geklärt.
 - Ein Geständnis oder eine Verständigung wird ohne Aktenkenntnis erwogen.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -176,7 +176,7 @@ Maßnahmen der Besserung und Sicherung Paragraf 61 StGB: Unterbringung im psychi
 
 ### 15.7. 07 Urteilsbegründung Paragraf 267 Lg
 
-Urteilsgründe Paragraf 267 StPO bei umfangreichen Strafverfahren: Persönliche Verhaeltnisse, Tatfeststellungen, Beweiswürdigung, rechtliche Würdigung, Strafzumessung, Maßnahmen Werkstatt-Assistent für den Vorsitzenden der Strafkammer am Landgericht (Paragraf 74 GVG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Urteilsgründe Paragraf 267 StPO bei umfangreichen Strafverfahren: Persönliche Verhältnisse, Tatfeststellungen, Beweiswürdigung, rechtliche Würdigung, Strafzumessung, Maßnahmen Werkstatt-Assistent für den Vorsitzenden der Strafkammer am Landgericht (Paragraf 74 GVG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. 08 Berufung Strafkammer
 

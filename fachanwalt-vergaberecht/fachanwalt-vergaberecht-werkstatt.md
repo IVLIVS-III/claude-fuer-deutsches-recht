@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Zuschlag droht vor Ablauf der Wartefrist.
 - Rügefrist kann praekludieren.
 - Vergabeunterlagen oder Dokumentation fehlen.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -71,7 +71,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- |
 | EuGH, Urteil vom 11.01.2005 - C-26/03 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Stadt Halle begrenzt vergabefreie Inhouse-Vergaben |
 | EuGH, Urteil vom 13.10.2005 - C-458/03 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Parking Brixen konkretisiert Transparenzpflichten bei Konzessionen |
-| EuGH, Urteil vom 19.06.2008 - C-454/06 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Pressetext grenzt wesentliche Vertragsaenderungen nach Zuschlag ab |
+| EuGH, Urteil vom 19.06.2008 - C-454/06 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Pressetext grenzt wesentliche Vertragsänderungen nach Zuschlag ab |
 | EuGH, Urteil vom 10.09.2009 - C-206/08 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eurawasser ordnet Dienstleistungskonzessionen anhand des Betriebsrisikos ein |
 | BGH, Beschluss vom 08.02.2011 - X ZB 4/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Vergabenachprüfung verlangt effektiven Primärrechtsschutz vor Zuschlag |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Rüge, Bieterfrage, Nachprüfungsantrag, Wertungskorrektur, Zuschlagsstopp oder Dokumentationsvermerk
@@ -98,7 +98,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 - EuGH, Urteil vom 11.01.2005 - C-26/03: Stadt Halle begrenzt vergabefreie Inhouse-Vergaben.
 - EuGH, Urteil vom 13.10.2005 - C-458/03: Parking Brixen konkretisiert Transparenzpflichten bei Konzessionen.
-- EuGH, Urteil vom 19.06.2008 - C-454/06: Pressetext grenzt wesentliche Vertragsaenderungen nach Zuschlag ab.
+- EuGH, Urteil vom 19.06.2008 - C-454/06: Pressetext grenzt wesentliche Vertragsänderungen nach Zuschlag ab.
 - EuGH, Urteil vom 10.09.2009 - C-206/08: Eurawasser ordnet Dienstleistungskonzessionen anhand des Betriebsrisikos ein.
 - BGH, Beschluss vom 08.02.2011 - X ZB 4/10: Vergabenachprüfung verlangt effektiven Primärrechtsschutz vor Zuschlag.
 - EuGH 11.06.2009, C-300/07 (Hans & Christophorus Oymanns): Begriff des öffentlichen Auftraggebers nach RL 2004/18; Krankenkassen als Einrichtungen öffentlichen Rechts. Quelle: curia.europa.eu (CELEX

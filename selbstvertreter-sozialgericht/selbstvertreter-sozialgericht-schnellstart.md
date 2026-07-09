@@ -57,7 +57,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragrafen 51-55 SGG (Klagearten): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 73, 73a SGG (Prozessbevollmächtigte, PKH): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09: existenzsichernde Leistungen müssen transparent und realitätsgerecht bemessen sein.
-- BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhaeltnismaessigkeitskontrolle.
+- BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhältnismaessigkeitskontrolle.
 - BVerfG 1 BvR 1106/08 (effektiver Rechtsschutz Sozialgericht)
 
 ## 7. Antwortform

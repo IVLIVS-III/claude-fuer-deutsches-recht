@@ -20,12 +20,12 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Beweissicherung ist vor Nachbesserung noetig.
 - Technische Ursache oder Verantwortlichkeit ist ungeklärt.
 - Bebauungsplan, Durchführungsvertrag oder Folgekostenlast wurde im Projektvertrag nicht transparent übernommen.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
-### 3.1. Vertragssoll: Leistungsbeschreibung, Plaene, Nachtraege, Termine, Verguetung und Sicherheiten erfassen.
+### 3.1. Vertragssoll: Leistungsbeschreibung, Plaene, Nachträge, Termine, Vergütung und Sicherheiten erfassen.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
@@ -82,7 +82,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | BGH, Urteil vom 08.11.2007 - VII ZR 183/05 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Architekt und Unternehmer können bei Baumangel und Überwachungsfehler gesamtschuldnerisch haften |
 | BGH, Urteil vom 24.01.2008 - VII ZR 280/05 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bedenkenhinweis muss rechtzeitig, inhaltlich klar und adressatengerecht erfolgen |
 | BGH, Urteil vom 10.10.2013 - VII ZR 19/12 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Abnahme und Abnahmereife steuern Fälligkeit und Mängelrechte |
-| BGH, Urteil vom 25.06.2015 - VII ZR 220/14 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Nachtraege verlangen nachvollziehbare Grundlage und Abgrenzung vom Vertragssoll |
+| BGH, Urteil vom 25.06.2015 - VII ZR 220/14 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Nachträge verlangen nachvollziehbare Grundlage und Abgrenzung vom Vertragssoll |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Nachtrag, Behinderungsanzeige, Abnahme, Mangelrüge, Vergütung, Gutachterfrage oder Sicherung
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -109,7 +109,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 08.11.2007 - VII ZR 183/05: Architekt und Unternehmer können bei Baumangel und Überwachungsfehler gesamtschuldnerisch haften.
 - BGH, Urteil vom 24.01.2008 - VII ZR 280/05: Bedenkenhinweis muss rechtzeitig, inhaltlich klar und adressatengerecht erfolgen.
 - BGH, Urteil vom 10.10.2013 - VII ZR 19/12: Abnahme und Abnahmereife steuern Fälligkeit und Mängelrechte.
-- BGH, Urteil vom 25.06.2015 - VII ZR 220/14: Nachtraege verlangen nachvollziehbare Grundlage und Abgrenzung vom Vertragssoll.
+- BGH, Urteil vom 25.06.2015 - VII ZR 220/14: Nachträge verlangen nachvollziehbare Grundlage und Abgrenzung vom Vertragssoll.
 - BVerwG, Urteil vom 29.01.2009 - 4 C 15.07: Folgekostenverträge können bei mehreren Plangebieten tragfähig sein, wenn ein transparentes Gesamtkonzept die Kausalität belegt.
 - BVerwG, Urteil vom 25.06.2014 - 4 CN 4.13: Bebauungsplan-Festsetzungen brauchen eine passende Rechtsgrundlage im Festsetzungskatalog.
 - BVerwG, Urteil vom 01.12.2010 - 9 C 8.09: Der Erschließungsvertrag nach BauGB Paragraf 124 ist gegenüber BauGB Paragraf 11 die speziellere Regelung.
@@ -187,9 +187,9 @@ Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zu
 
 klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Architektenhonorar Hoai Mindestsatz EuGH C 377 17
+### 15.6. Architektenhonorar HOAI Mindestsatz EuGH C 377 17
 
-Architekt verlangt nachtraeglich Aufstockung auf HOAI-Mindestsatz; Vertrag unterschritt diesen. - Paragrafen 631 ff. BGB - Paragrafen 650a ff. BGB - Paragraf 640 BGB - Paragraf 634 BGB - HOAI Leistungsphasen 1-9 - EuGH 04.07.2019 C-377/17 — nur verwenden, wenn die Fundstelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Architekt verlangt nachträglich Aufstockung auf HOAI-Mindestsatz; Vertrag unterschritt diesen. - Paragrafen 631 ff. BGB - Paragrafen 650a ff. BGB - Paragraf 640 BGB - Paragraf 634 BGB - HOAI Leistungsphasen 1-9 - EuGH 04.07.2019 C-377/17 — nur verwenden, wenn die Fundstelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -213,7 +213,7 @@ Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zu
 
 ### 15.12. Bau Mangelhaftung Spezial Symptomtheorie
 
-Mangelhaftung Symptomtheorie Bautraeger ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Symptomtheorie BGH zur Mangelrüge, Bautraeger-Haftungsausschluss und Paragraf 307 BGB, Bautraeger-Mängelhaftung 5 Jahre nach Paragraf 634a BGB. Arbeite zuerst die tragende. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Mangelhaftung Symptomtheorie Bauträger ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Symptomtheorie BGH zur Mangelrüge, Bauträger-Haftungsausschluss und Paragraf 307 BGB, Bauträger-Mängelhaftung 5 Jahre nach Paragraf 634a BGB. Arbeite zuerst die tragende. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Bau Nachtrag Workflow
 

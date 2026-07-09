@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Liquiditätslücke kann nicht binnen drei Wochen geschlossen werden.
 - Lohnsteuer, Sozialversicherung oder Lohnlauf stehen ohne Deckung bevor.
 - Geschäftsleitung will Zahlungen priorisieren, ohne Insolvenzreife geprüft zu haben.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -28,7 +28,7 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-### 3.2. Dreizehn-Wochen-Plan: Anfangsliquidität, sichere Zufluesse, unvermeidbare Abfluesse und freie Linien wochenweise darstellen.
+### 3.2. Dreizehn-Wochen-Plan: Anfangsliquidität, sichere Zuflüsse, unvermeidbare Abfluesse und freie Linien wochenweise darstellen.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
@@ -71,7 +71,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- |
 | BGH, Urteil vom 24.05.2005 - IX ZR 123/04 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Zahlungsunfähigkeit wird regelmäßig anhand einer erheblichen Liquiditätslücke beurteilt |
 | BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Geschäftsleiter müssen Krisenentscheidungen und Zahlungsverbote nachvollziehbar dokumentieren |
-| BGH, Urteil vom 26.01.2017 - IX ZR 285/14 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Liquiditätsstatus und Zahlungsstockung sind nicht durch Hoffnung auf spaetere Mittelzufluesse zu ersetzen |
+| BGH, Urteil vom 26.01.2017 - IX ZR 285/14 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Liquiditätsstatus und Zahlungsstockung sind nicht durch Hoffnung auf spaetere Mittelzuflüsse zu ersetzen |
 | BGH, Urteil vom 06.05.2021 - IX ZR 72/20 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Indizien für Zahlungsunfähigkeit und Gläubigerkenntnis sind im Zusammenhang zu würdigen |
 | BGH, Urteil vom 10.02.2022 - IX ZR 148/19 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Tragfähige Sanierungsbemuehungen setzen ein belastbares Konzept und erkennbare Finanzierung voraus |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Liquiditätsstatus, Antragspflichtvermerk, Rangrücktritt, Patronatserklärung oder Zahlungsstopp
@@ -98,14 +98,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zahlungsunfähigkeit wird regelmäßig anhand einer erheblichen Liquiditätslücke beurteilt.
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiter müssen Krisenentscheidungen und Zahlungsverbote nachvollziehbar dokumentieren.
-- BGH, Urteil vom 26.01.2017 - IX ZR 285/14: Liquiditätsstatus und Zahlungsstockung sind nicht durch Hoffnung auf spaetere Mittelzufluesse zu ersetzen.
+- BGH, Urteil vom 26.01.2017 - IX ZR 285/14: Liquiditätsstatus und Zahlungsstockung sind nicht durch Hoffnung auf spaetere Mittelzuflüsse zu ersetzen.
 - BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Indizien für Zahlungsunfähigkeit und Gläubigerkenntnis sind im Zusammenhang zu würdigen.
 - BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Tragfähige Sanierungsbemuehungen setzen ein belastbares Konzept und erkennbare Finanzierung voraus.
 
 ## 9. Prüfraster
 
 1. Welche Zahlungen sind heute, sieben Tage, dreißig Tage und dreizehn Wochen fällig.
-2. Welche Zufluesse sind sicher, bedingt, streitig oder nur geplant.
+2. Welche Zuflüsse sind sicher, bedingt, streitig oder nur geplant.
 3. Welche Zahlungen duerfen aus Haftungsgründen nicht mehr ohne Prüfung geleistet werden.
 4. Welche Krise wird durch welchen Status belegt.
 5. Welche Entscheidung der Geschäftsleitung ist jetzt dokumentationspflichtig.

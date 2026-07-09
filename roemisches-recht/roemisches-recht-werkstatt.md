@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Frist oder Form kann nicht sicher bestimmt werden.
 - Tatsachen sind für eine tragende Subsumtion unzureichend.
 - Strafrechtliche, insolvenzrechtliche oder berufsrechtliche Nebenrisiken sind erkennbar.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -173,6 +173,6 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumenten
 
 Tafel I (Ladung) — si in ius vocat, ito — Selbsthilfe-geprägter Prozessbeginn - Tafel III (Schuldvollstreckung) — tertiis nundinis partis secanto — drastische Personalexekution (umstritten: wörtlich oder symbolisch) - Tafel VIII — Deliktstatbestände: membrum ruptum (Talion). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Rom Samnitische Rechtskultur Bundesgenossen und Militaer
+### 15.14. Rom Samnitische Rechtskultur Bundesgenossen und Militär
 
 Tafel I (Ladung) — si in ius vocat, ito — Selbsthilfe-geprägter Prozessbeginn - Tafel III (Schuldvollstreckung) — tertiis nundinis partis secanto — drastische Personalexekution (umstritten: wörtlich oder symbolisch) - Tafel VIII — Deliktstatbestände: membrum ruptum (Talion). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

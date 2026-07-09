@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Frist oder Form kann nicht sicher bestimmt werden.
 - Tatsachen sind für eine tragende Subsumtion unzureichend.
 - Strafrechtliche, insolvenzrechtliche oder berufsrechtliche Nebenrisiken sind erkennbar.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -61,9 +61,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | Paragraf 43 BRAO | allgemeine Berufspflicht | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Paragraf 43a Abs. 2 BRAO | Verschwiegenheit | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Paragraf 43a Abs. 4 BRAO | Interessenkollision | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
-| Paragraf 49b BRAO | Verguetungsrechtliche Grenzen | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 49b BRAO | Vergütungsrechtliche Grenzen | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Paragraf 50 BRAO | Handakten | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
-| Paragraf 4 RVG | Verguetungsvereinbarung | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 4 RVG | Vergütungsvereinbarung | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -73,13 +73,13 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 7. Pflichtnormen als Kernsätze
 
-- Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO —: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 43 BRAO — allgemeine Berufspflicht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 43a Abs. 4 BRAO — Interessenkollision: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 49b BRAO — Verguetungsrechtliche Grenzen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 49b BRAO — Vergütungsrechtliche Grenzen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 50 BRAO — Handakten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 4 RVG — Verguetungsvereinbarung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 4 RVG — Vergütungsvereinbarung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 10 RVG — Abrechnung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
@@ -136,23 +136,23 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. digitale Werkzeuge und Legal Ops
 
-Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Verguetungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Associate-Kündigungswelle
 
-Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Verguetungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Associates nicht vergraulen
 
-Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Verguetungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Associate-Retention-Radar
 
-Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Verguetungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. beA und ERV Risiko
 
-Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Verguetungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Benchmarking und Marktvergleich
 
@@ -160,23 +160,23 @@ entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert ein
 
 ### 15.7. Bonus- und Gehaltsrunde
 
-Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Verguetungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Branchenfokus
 
-Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Verguetungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. 13-Wochen-Cashflow
 
-Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Verguetungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Mandantensegmentierung
 
-Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Verguetungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Collections und offene Posten
 
-Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Verguetungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Management-Committee-Agenda
 
@@ -188,4 +188,4 @@ rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine 
 
 ### 15.14. Conflict-Check-System
 
-Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Verguetungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

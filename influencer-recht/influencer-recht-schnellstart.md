@@ -17,9 +17,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Schutzgegenstand: Werkart, Schoepfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
+1. Schutzgegenstand: Werkart, Schöpfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
 2. Rechtekette: Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen.
-3. Nutzung: Vervielfaeltigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
+3. Nutzung: Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
 4. Schranken: Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden.
 5. Arbeitsprodukt: Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren.
 6. Influencer-Recht: Abmahnung wegen fehlender Werbekennzeichnung: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
@@ -48,15 +48,15 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 6. Anker
 
-- UrhG Paragraf 2: geschuetzte Werke.
+- UrhG Paragraf 2: geschützte Werke.
 - UrhG Paragraf 15: Verwertungsrechte.
-- UrhG Paragraf 31: Einraeumung von Nutzungsrechten.
+- UrhG Paragraf 31: Einräumung von Nutzungsrechten.
 - UrhG Paragraf 51: Zitatrecht.
 - Paragraf 339 BGB: Vertragsstrafe bei Verstoß gegen Unterlassungserklärung; nicht zu hoch vereinbaren: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 890 ZPO: Ordnungsgeld bis 250 000 € oder Ordnungshaft bei Verstoß gegen gerichtliche Unterlassungsverfügung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 611, 631 BGB: Agenturvertrag kann als Dienst- oder Werkvertrag ausgestaltet sein; Qualifikation bestimmt Gewährleistung und Kündigung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 84 HGB (analog): Handelsvertreter-Grundsätze anwendbar, wenn Agentur dauerhaft Geschäfte vermittelt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schoepfung als unionsrechtlichen Werkanker.
+- EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
 - EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
 - BGH I ZR 90/20, I ZR 125/20, I ZR 126/20 und I ZR 35/21: Maßgebliche Influencer-Urteile zur Kennzeichnungspflicht, Gegenleistung, Tap-Tags und Sachvorteilen
 

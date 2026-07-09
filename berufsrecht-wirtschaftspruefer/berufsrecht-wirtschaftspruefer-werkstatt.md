@@ -18,9 +18,9 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 
 - Sofortvollzug oder Vollstreckung steht unmittelbar bevor.
 - Rechtsbehelfsfrist ist unklar.
-- Ermaechtigungsgrundlage oder Landesrecht fehlt.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Ermächtigungsgrundlage oder Landesrecht fehlt.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -28,11 +28,11 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-### 3.2. Zulaessigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
+### 3.2. Zulässigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-### 3.3. Materielle Rechtmaessigkeit: Ermaechtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhaeltnismaessigkeit prüfen.
+### 3.3. Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
@@ -71,8 +71,8 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- |
 | BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle |
 | BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen |
-| BVerwG, Urteil vom 17.02.1984 - 7 C 8.82 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Nebenbestimmungen sind an ihrer gesetzlichen Grundlage und Verhaeltnismaessigkeit zu messen |
-| BVerwG, Urteil vom 21.11.1986 - 8 C 127.84 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Rücknahme und Widerruf verlangen strikte Trennung der gesetzlichen Tatbestaende |
+| BVerwG, Urteil vom 17.02.1984 - 7 C 8.82 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Nebenbestimmungen sind an ihrer gesetzlichen Grundlage und Verhältnismäßigkeit zu messen |
+| BVerwG, Urteil vom 21.11.1986 - 8 C 127.84 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Rücknahme und Widerruf verlangen strikte Trennung der gesetzlichen Tatbestände |
 | BVerwG, Urteil vom 20.10.1989 - 7 C 87.87 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Verwaltungsvollstreckung setzt wirksamen Grundverwaltungsakt und vollziehbare Pflicht voraus |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
@@ -98,8 +98,8 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 - BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
 - BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
-- BVerwG, Urteil vom 17.02.1984 - 7 C 8.82: Nebenbestimmungen sind an ihrer gesetzlichen Grundlage und Verhaeltnismaessigkeit zu messen.
-- BVerwG, Urteil vom 21.11.1986 - 8 C 127.84: Rücknahme und Widerruf verlangen strikte Trennung der gesetzlichen Tatbestaende.
+- BVerwG, Urteil vom 17.02.1984 - 7 C 8.82: Nebenbestimmungen sind an ihrer gesetzlichen Grundlage und Verhältnismaessigkeit zu messen.
+- BVerwG, Urteil vom 21.11.1986 - 8 C 127.84: Rücknahme und Widerruf verlangen strikte Trennung der gesetzlichen Tatbestände.
 - BVerwG, Urteil vom 20.10.1989 - 7 C 87.87: Verwaltungsvollstreckung setzt wirksamen Grundverwaltungsakt und vollziehbare Pflicht voraus.
 - BGH, Urteil vom 12.03.2020 - VII ZR 236/19 (Abschlussprüferhaftung: Paragraf 332 HGB/Paragraf 826 BGB, bewusst unrichtiges Testat)
 - BGH II ZR 217/03 (Bestätigungsvermerk und Vertrauensschutz)

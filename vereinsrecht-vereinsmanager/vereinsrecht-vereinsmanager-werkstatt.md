@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Notarielle Form oder Registerfrist ist ungeklärt.
 - Organhaftung, Insolvenznaehe oder Interessenkonflikt steht im Raum.
 - Gesellschafterliste, Vollmacht oder Beschlussfassung ist widersprüchlich.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -72,7 +72,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | BGH, Urteil vom 29.01.2001 - II ZR 331/00 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen |
 | BGH, Urteil vom 04.07.2005 - II ZR 354/03 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Trihotel zur Existenzvernichtungshaftung |
 | BGH, Urteil vom 10.05.2016 - II ZR 342/14 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Gesellschafterliste und Legitimationswirkung sind für GmbH-Rechte zentral |
-| BGH, Urteil vom 20.09.2011 - II ZR 234/09 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Beschlussmängel in der GmbH folgen eigenstaendiger gesellschaftsrechtlicher Dogmatik |
+| BGH, Urteil vom 20.09.2011 - II ZR 234/09 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Beschlussmängel in der GmbH folgen eigenständiger gesellschaftsrechtlicher Dogmatik |
 | BGH, Urteil vom 26.01.2009 - II ZR 260/07 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Treuepflichten begrenzen gesellschaftsrechtliche Rechtsausübung |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
@@ -98,7 +98,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
 - BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
 - BGH, Urteil vom 10.05.2016 - II ZR 342/14: Gesellschafterliste und Legitimationswirkung sind für GmbH-Rechte zentral.
-- BGH, Urteil vom 20.09.2011 - II ZR 234/09: Beschlussmängel in der GmbH folgen eigenstaendiger gesellschaftsrechtlicher Dogmatik.
+- BGH, Urteil vom 20.09.2011 - II ZR 234/09: Beschlussmängel in der GmbH folgen eigenständiger gesellschaftsrechtlicher Dogmatik.
 - BGH, Urteil vom 26.01.2009 - II ZR 260/07: Treuepflichten begrenzen gesellschaftsrechtliche Rechtsausübung.
 
 ## 9. Prüfraster

@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Fristbeginn, Verfahrenssprache oder Zuständigkeit sind unklar; dann zuerst Fristen- und Zuständigkeitsblatt.
 - Anfechtbarer Akt, Klagebefugnis oder Rechtsschutzinteresse sind nicht belegt; dann keine Begründetheit ausarbeiten.
 - Vertrauliche Unterlagen, Geschäftsgeheimnisse oder sicherheitsbezogene Informationen liegen vor; dann zuerst Anlagen- und Schwärzungskonzept.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 

@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du eine Grundrechtsrüge zulaessig und schluessig begründen.
+Wenn du das hier öffnest, willst du eine Grundrechtsrüge zulässig und schlüssig begründen.
 
 # Verfassungsrecht — Schnellstart
 
@@ -17,10 +17,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Beschwerdegegenstand, Hoheitsakt, Beschwerdefuehrer und Frist feststellen.
-2. Zulaessigkeit: Rechtswegerschoepfung, Subsidiaritaet, Beschwerdebefugnis und Form prüfen.
+1. Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen.
+2. Zulässigkeit: Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen.
 3. Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen.
-4. Verhaeltnismaessigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten.
+4. Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten.
 5. Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag.
 6. Acht: Zahlen, Schwellenwerte und Berechnung: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen.
 
@@ -48,7 +48,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 6. Anker
 
-- GG Artikel 1 Absatz 1: Menschenwuerdebindung aller Staatsgewalt.
+- GG Artikel 1 Absatz 1: Menschenwürdebindung aller Staatsgewalt.
 - GG Artikel 2 Absatz 1: allgemeine Handlungsfreiheit.
 - GG Artikel 3 Absatz 1: Gleichheitssatz.
 - GG Artikel 12 Absatz 1: Berufsfreiheit.

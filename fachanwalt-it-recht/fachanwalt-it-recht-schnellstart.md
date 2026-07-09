@@ -20,7 +20,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 1. Leistungsmodell: Kauf, Miete, Werk, Dienst, SaaS, Cloud oder Mischvertrag einordnen.
 2. Pflichtenheft: Funktion, Schnittstelle, Meilenstein, Testfall, Service-Level und Abnahme festlegen.
 3. Störung: Mangel, Verzug, Change Request, Mitwirkungsdefizit und Eskalationsmechanik trennen.
-4. Rechte und Daten: Nutzungsrechte, Open Source, Datenschutzschnittstelle, Zugriff und Loeschung prüfen.
+4. Rechte und Daten: Nutzungsrechte, Open Source, Datenschutzschnittstelle, Zugriff und Löschung prüfen.
 5. Arbeitsprodukt: IT-Vertragsklausel, Mängelrüge, Abnahmeprotokoll, Exit-Plan oder Projektmemo erstellen.
 6. Regulierungsrahmen Art 6 Hochrisiko algorithmische Systeme: Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen.
 
@@ -49,14 +49,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 ## 6. Anker
 
 - BGB Paragraf 327: Verbraucherverträge über digitale Produkte.
-- BGB Paragraf 327e: Vertragsmaessigkeit digitaler Produkte.
+- BGB Paragraf 327e: Vertragsmäßigkeit digitaler Produkte.
 - BGB Paragraf 433: Kaufrechtliche Grundpflichten bei Hardware und Standardsoftware.
 - BGB Paragraf 631: Werkvertragliche Pflichten bei Projektleistungen.
 - Paragraf 32 BSIG n. F. — Meldepflichten erheblicher Sicherheitsvorfälle für wichtige und besonders wichtige Einrichtungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 202a StGB — Ausspähen von Daten (Freiheitsstrafe bis 3 Jahre): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 202b StGB — Abfangen von Daten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 202c StGB — Vorbereiten des Ausspähens (Hacker-Tools): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschoepfung bei Softwaredownloads.
+- EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschöpfung bei Softwaredownloads.
 - BGH, Urteil vom 15.11.2006 - XII ZR 120/04: Application-Service-Providing kann mietvertragliche Elemente tragen.
 - EuGH 16.07.2020 C-311/18 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 

@@ -18,8 +18,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 ## 3. Kernroute
 
 1. Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen.
-2. Zulaessigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
-3. Materielle Rechtmaessigkeit: Ermaechtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhaeltnismaessigkeit prüfen.
+2. Zulässigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
+3. Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen.
 4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
 5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
 6. Allgemeine: Sonderfall und Edge-Case-Prüfung: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
@@ -52,7 +52,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - VwVfG Paragraf 28: Anhörung Beteiligter.
 - VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
 - VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
-- Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO —: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 43 BRAO — allgemeine Berufspflicht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 43a Abs. 4 BRAO — Interessenkollision: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.

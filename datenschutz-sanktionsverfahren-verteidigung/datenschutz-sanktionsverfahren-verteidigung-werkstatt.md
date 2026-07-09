@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Meldepflichtige Datenpanne mit laufender Frist.
 - Besondere Kategorien personenbezogener Daten ohne belastbare Rechtsgrundlage.
 - Internationaler Transfer ohne Transfergrundlage.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -40,7 +40,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-### 3.5. Datenpanne, Aufsichtsverfahren, Schadensersatz und Loeschkonzept bearbeiten.
+### 3.5. Datenpanne, Aufsichtsverfahren, Schadensersatz und Löschkonzept bearbeiten.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
@@ -58,7 +58,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
 | --- | --- | --- | --- |
 | Datenschutz-Grundverordnung Artikel 5 | Grundsätze der Verarbeitung personenbezogener Daten | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
-| Datenschutz-Grundverordnung Artikel 6 | Rechtmaessigkeit der Verarbeitung | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
+| Datenschutz-Grundverordnung Artikel 6 | Rechtmäßigkeit der Verarbeitung | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
 | Datenschutz-Grundverordnung Artikel 12 bis Artikel 15 | Transparenz, Auskunft und Kommunikation | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
 | Datenschutz-Grundverordnung Artikel 28 | Auftragsverarbeitung | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
 | Datenschutz-Grundverordnung Artikel 32 | Sicherheit der Verarbeitung | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
@@ -70,7 +70,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
 | EuGH, Urteil vom 16.07.2020 - C-311/18 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Schrems II verlangt tragfähige Prüfung internationaler Datentransfers |
-| EuGH, Urteil vom 04.05.2023 - C-300/21 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | immaterieller Schadensersatz nach Datenschutz-Grundverordnung verlangt Schaden, Verstoß und Kausalitaet |
+| EuGH, Urteil vom 04.05.2023 - C-300/21 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | immaterieller Schadensersatz nach Datenschutz-Grundverordnung verlangt Schaden, Verstoß und Kausalität |
 | EuGH, Urteil vom 05.12.2023 - C-683/21 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Verantwortlichkeit setzt Einfluss auf Zwecke und Mittel der Verarbeitung voraus |
 | EuGH, Urteil vom 07.12.2023 - C-634/21 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | automatisiertes Scoring kann an Artikel 22 Datenschutz-Grundverordnung scheitern |
 | BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | informationelle Selbstbestimmung als verfassungsrechtlicher Leitanker |
@@ -80,7 +80,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 ## 7. Pflichtnormen als Kernsätze
 
 - Datenschutz-Grundverordnung Artikel 5: Grundsätze der Verarbeitung personenbezogener Daten.
-- Datenschutz-Grundverordnung Artikel 6: Rechtmaessigkeit der Verarbeitung.
+- Datenschutz-Grundverordnung Artikel 6: Rechtmäßigkeit der Verarbeitung.
 - Datenschutz-Grundverordnung Artikel 12 bis Artikel 15: Transparenz, Auskunft und Kommunikation.
 - Datenschutz-Grundverordnung Artikel 28: Auftragsverarbeitung.
 - Datenschutz-Grundverordnung Artikel 32: Sicherheit der Verarbeitung.
@@ -92,7 +92,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 ## 8. Leitentscheidungen
 
 - EuGH, Urteil vom 16.07.2020 - C-311/18: Schrems II verlangt tragfähige Prüfung internationaler Datentransfers.
-- EuGH, Urteil vom 04.05.2023 - C-300/21: immaterieller Schadensersatz nach Datenschutz-Grundverordnung verlangt Schaden, Verstoß und Kausalitaet.
+- EuGH, Urteil vom 04.05.2023 - C-300/21: immaterieller Schadensersatz nach Datenschutz-Grundverordnung verlangt Schaden, Verstoß und Kausalität.
 - EuGH, Urteil vom 05.12.2023 - C-683/21: Verantwortlichkeit setzt Einfluss auf Zwecke und Mittel der Verarbeitung voraus.
 - EuGH, Urteil vom 07.12.2023 - C-634/21: automatisiertes Scoring kann an Artikel 22 Datenschutz-Grundverordnung scheitern.
 - BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a.: informationelle Selbstbestimmung als verfassungsrechtlicher Leitanker.

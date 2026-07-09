@@ -18,7 +18,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 ## 3. Kernroute
 
 1. Vertrag und Sparte: Versicherungsart, Versicherungsnehmer, versicherte Person, Risiko, Laufzeit und Bedingungen erfassen.
-2. Versicherungsfall: Eintritt, Anzeige, Schadenhoehe, Kausalitaet, Ausschluss und Beweislast ordnen.
+2. Versicherungsfall: Eintritt, Anzeige, Schadenhoehe, Kausalität, Ausschluss und Beweislast ordnen.
 3. Obliegenheiten: vorvertragliche Anzeige, Gefahrerhoehung, Schadenanzeige, Mitwirkung und Rechtsfolgenbelehrung prüfen.
 4. Deckung und Regulierung: Leistungsentscheidung, Quote, Regress, Verjährung und Prozessrisiko ausarbeiten.
 5. Arbeitsprodukt: Deckungsmemo, Anspruchsschreiben, Ablehnungsschreiben, Vergleichsvorschlag oder Klageentwurf formulieren.
@@ -57,7 +57,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 28 VVG — Obliegenheitsverletzung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 86 VVG — Legalzession: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 22.06.2011 - IV ZR 225/10: Beratungspflichten im Versicherungsvertrieb verlangen anlassbezogene, dokumentierbare Bedarfsermittlung.
-- BGH, Urteil vom 12.03.2014 - IV ZR 306/13: Obliegenheitsverletzungen sind nach Kausalitaet, Verschulden und Belehrung zu prüfen.
+- BGH, Urteil vom 12.03.2014 - IV ZR 306/13: Obliegenheitsverletzungen sind nach Kausalität, Verschulden und Belehrung zu prüfen.
 
 ## 7. Antwortform
 

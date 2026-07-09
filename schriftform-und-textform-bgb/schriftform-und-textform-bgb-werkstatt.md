@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Widerrufs-, Verjährungs-, Rüge- oder Gewährleistungsfrist ist unklar.
 - AGB-Kontrolle wird ohne Einbeziehung und Verwenderrolle begonnen.
 - Mangelrechte werden geprüft, ohne Nacherfüllungsverlangen, Fristsetzung, Abnahme oder Gefahrübergang zu klären.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -181,7 +181,7 @@ Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten
 
 ### 15.8. Bürgschaft, Verbraucherdarlehen und andere strenge Formen
 
-Mandant hat Buergschaft oder Darlehensvertrag unterschrieben und fragt ob er noch gebunden ist wenn die Form nicht korrekt eingehalten wurde. Paragrafen 766 492 484 311b BGB strenge Formerfordernisse. Prüfraster: Buergschaft Paragraf 766 BGB Schriftform (Ausnahme Kaufmann. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Mandant hat Bürgschaft oder Darlehensvertrag unterschrieben und fragt ob er noch gebunden ist wenn die Form nicht korrekt eingehalten wurde. Paragrafen 766 492 484 311b BGB strenge Formerfordernisse. Prüfraster: Bürgschaft Paragraf 766 BGB Schriftform (Ausnahme Kaufmann. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Checklisten: Schriftsatz-, Brief- und Memo-Bausteine
 

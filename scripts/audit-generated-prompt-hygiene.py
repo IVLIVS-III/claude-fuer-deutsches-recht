@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import json
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -21,6 +22,34 @@ NOISE_BITS = (
     "live pruefen",
 )
 
+PROSE_ASCII_BITS = (
+    "Arbeitsverhaeltnis",
+    "Schuldverhaeltnis",
+    "auslaendisch",
+    "Auslaendisch",
+    "Bruessel",
+    "Kausalitaet",
+    "Zulaessig",
+    "zulaessig",
+    "Rechtmaessig",
+    "rechtmaessig",
+    "Uebereinkommen",
+    "Identitaet",
+    "Ermaechtigungsgrundlage",
+    "Tatbestaende",
+    "Einraeumung",
+    "Schoepfung",
+    "endgueltig",
+    "grundsaetzlich",
+    "Menschenwuerde",
+    "Loeschung",
+    "Verguetung",
+    "Aenderung",
+    "geschuetzte",
+    "Strafhoehe",
+    "Faellen",
+)
+
 
 def protected_slugs() -> set[str]:
     if not PROTECTED_LIST.exists():
@@ -35,17 +64,35 @@ def protected_slugs() -> set[str]:
 
 def prompt_files() -> list[Path]:
     files: list[Path] = []
-    for pattern in ("*-werkstatt.md", "*-schnellstart.md"):
-        files.extend(REPO.glob(f"*/{pattern}"))
-        files.extend(REPO.glob(f"gerichtsplugins/*/{pattern}"))
-        files.extend(REPO.glob(f"insolvenzrecht-plugins/*/{pattern}"))
-    return sorted(set(files), key=lambda p: p.as_posix())
+    marketplace = json.loads(
+        (REPO / ".claude-plugin" / "marketplace.json").read_text(encoding="utf-8")
+    )
+    for entry in marketplace.get("plugins", []):
+        source = entry.get("source", "")
+        if not isinstance(source, str) or not source.startswith("./"):
+            continue
+        plugin_dir = REPO / source[2:]
+        manifest_path = plugin_dir / ".claude-plugin" / "plugin.json"
+        if not manifest_path.exists():
+            continue
+        manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+        slug = manifest.get("name") or plugin_dir.name
+        files.extend(
+            (
+                plugin_dir / f"{slug}-werkstatt.md",
+                plugin_dir / f"{slug}-schnellstart.md",
+            )
+        )
+    return sorted(files, key=lambda p: p.as_posix())
 
 
 def main() -> int:
     protected = protected_slugs()
     problems: list[str] = []
     for path in prompt_files():
+        if not path.exists():
+            problems.append(f"{path.relative_to(REPO)}: erwarteter Prompt fehlt")
+            continue
         plugin_slug = path.parent.name
         if plugin_slug in protected:
             continue
@@ -54,6 +101,11 @@ def main() -> int:
             if bit in text:
                 rel = path.relative_to(REPO)
                 problems.append(f"{rel}: Quellenrauschen gefunden: {bit}")
+                break
+        for bit in PROSE_ASCII_BITS:
+            if bit in text:
+                rel = path.relative_to(REPO)
+                problems.append(f"{rel}: unechter Umlaut in Prosa gefunden: {bit}")
                 break
     if problems:
         print("audit-generated-prompt-hygiene: FEHLER")

@@ -18,9 +18,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 ## 3. Kernroute
 
 1. Auslands-Zergliederung: Parteien mit Sitzstaaten, Vertragsklauseln zu Rechtswahl, Gerichtsstand und Schiedsverfahren, Anknüpfungsmomente und Fristen als Raster erfassen.
-2. Forum: internationale Zuständigkeit prüfen (Bruessel-Ia-VO, Gerichtsstandsklausel, Schiedsvereinbarung); Torpedo- und Parallelverfahrensrisiken benennen.
+2. Forum: internationale Zuständigkeit prüfen (Brüssel-Ia-VO, Gerichtsstandsklausel, Schiedsvereinbarung); Torpedo- und Parallelverfahrensrisiken benennen.
 3. Anwendbares Recht: Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen.
-4. Materielle Prüfung nach dem berufenen Recht: bei auslaendischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden.
+4. Materielle Prüfung nach dem berufenen Recht: bei ausländischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden.
 5. Durchsetzung: Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt.
 6. Abschlussmemo Internationales Handelsrecht: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 
@@ -28,8 +28,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Bruessel-Ia-VO Artikel 4, 7 und 25; Rom-I-VO Artikel 3 und 4; Rom-II-VO Artikel 4 |
-| Rechtsprechung | Rechtsprechung nur fallbezogen und nach Live-Verifikation; BGH VIII ZR 304/00 v. 25.11.2002 |
+| Normenanker | Brüssel-Ia-VO Artikel 4, 7 und 25; Rom-I-VO Artikel 3 und 4; Rom-II-VO Artikel 4 |
+| Rechtsprechung | BGH VIII ZR 304/00 v. 25.11.2002 |
 | Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht |
 | Beweislast | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden |
 | Rechtsfolge | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
@@ -48,15 +48,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 6. Anker
 
-- Bruessel-Ia-VO Artikel 4, 7 und 25: allgemeiner und besonderer Gerichtsstand sowie Gerichtsstandsvereinbarung.
-- Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhaeltnisse; Artikel 9: Eingriffsnormen.
-- Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhaeltnisse.
+- Brüssel-Ia-VO Artikel 4, 7 und 25: allgemeiner und besonderer Gerichtsstand sowie Gerichtsstandsvereinbarung.
+- Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhältnisse; Artikel 9: Eingriffsnormen.
+- Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhältnisse.
 - CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
 - HGB Paragraf 84: Handelsvertreter-Definition (selbständig, ständig beauftragt, fremde Geschäfte): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - HGB Paragraf 89b: Ausgleichsanspruch — 1 Jahresprovision als Maximum: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - StGB Paragrafen 331-335a: Deutsches Korruptionsstrafrecht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1042 Abs. 4 ZPO: Deutsches Schiedsrecht — Tribunal bestimmt Verfahren: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Rechtsprechung nur fallbezogen und nach Live-Verifikation an amtlicher oder frei zugänglicher Quelle zitieren; nicht verifizierte Aktenzeichen weglassen statt verwenden.
 - BGH VIII ZR 304/00 v. 25.11.2002: Deutsches Recht ohne expliziten CISG-Ausschluss lässt CISG bestehen
 
 ## 7. Antwortform

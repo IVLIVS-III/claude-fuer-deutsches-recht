@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Widerrufs-, Verjährungs-, Rüge- oder Gewährleistungsfrist ist unklar.
 - AGB-Kontrolle wird ohne Einbeziehung und Verwenderrolle begonnen.
 - Mangelrechte werden geprüft, ohne Nacherfüllungsverlangen, Fristsetzung, Abnahme oder Gefahrübergang zu klären.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -171,7 +171,7 @@ zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert e
 
 ### 15.6. Agb Anwaltsvertrag und Allg Mandatsbedingungen
 
-Klauselproblem (Agb Anwaltsvertrag Und Allg Mandatsbedingungen): AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Skill klärt die AGB-rechtliche Prüfung typischer Mandatsbedingungen Verguetungsklauseln Verzugsregelungen Verschwiegenheit Auflagen RVG-konforme. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klauselproblem (Agb Anwaltsvertrag Und Allg Mandatsbedingungen): AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Skill klärt die AGB-rechtliche Prüfung typischer Mandatsbedingungen Vergütungsklauseln Verzugsregelungen Verschwiegenheit Auflagen RVG-konforme. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Agb Arbeitnehmerüberlassung Aueg
 
@@ -187,7 +187,7 @@ zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert e
 
 ### 15.10. Agb bei Digitalen Produkten 327F Update
 
-Paragrafen 327-327u BGB (in Kraft 01.01.2022). - Digitale-Inhalte-Richtlinie (EU) 2019/770. - Digitale-Inhalte-und-Dienste-Richtlinie (EU) 2019/771 (Waren mit digitalen Elementen). - Verkaeufer/Anbieter muss Updates bereitstellen, "die für den Erhalt der Vertragsmaessigkeit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragrafen 327-327u BGB (in Kraft 01.01.2022). - Digitale-Inhalte-Richtlinie (EU) 2019/770. - Digitale-Inhalte-und-Dienste-Richtlinie (EU) 2019/771 (Waren mit digitalen Elementen). - Verkaeufer/Anbieter muss Updates bereitstellen, "die für den Erhalt der Vertragsmäßigkeit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Agb bei Iso Verträgen International
 
@@ -203,4 +203,4 @@ Klauselproblem (Agb Bei Plattformnutzung App Stores): AGB bei Plattformnutzung A
 
 ### 15.14. Agb bei Vereinen und Verbaenden
 
-Klauselproblem (Agb Bei Vereinen Und Verbaenden): AGB bei Vereinen und Verbaenden. Skill klärt die AGB-rechtliche Prüfung von Vereinsbeitrittsbedingungen Beitragsregelungen Ausschlussklauseln und Vereinsstrafen. Behandelt das Spannungsverhaeltnis zwischen Vereinsautonomie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klauselproblem (Agb Bei Vereinen Und Verbaenden): AGB bei Vereinen und Verbaenden. Skill klärt die AGB-rechtliche Prüfung von Vereinsbeitrittsbedingungen Beitragsregelungen Ausschlussklauseln und Vereinsstrafen. Behandelt das Spannungsverhältnis zwischen Vereinsautonomie (Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

@@ -17,9 +17,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Schutzgegenstand: Werkart, Schoepfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
+1. Schutzgegenstand: Werkart, Schöpfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
 2. Rechtekette: Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen.
-3. Nutzung: Vervielfaeltigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
+3. Nutzung: Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
 4. Schranken: Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden.
 5. Arbeitsprodukt: Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren.
 6. Urheberrechtliche Abmahnung Paragraf 97a UrhG Voraussetzungen Inhalt Aktivlegitimation Anspruchsberechtigung.: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
@@ -48,15 +48,15 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 6. Anker
 
-- UrhG Paragraf 2: geschuetzte Werke.
+- UrhG Paragraf 2: geschützte Werke.
 - UrhG Paragraf 15: Verwertungsrechte.
-- UrhG Paragraf 31: Einraeumung von Nutzungsrechten.
+- UrhG Paragraf 31: Einräumung von Nutzungsrechten.
 - UrhG Paragraf 51: Zitatrecht.
 - Paragraf 97a UrhG — Abmahnpflicht und -kosten im Urheberrecht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 97 Abs. 1, 2 UrhG — Unterlassung und Schadensersatz lizenzanalog: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 823 Abs. 1, 1004 BGB i.V.m. Art. 2 Abs. 1, 1 Abs. 1 GG — Persönlichkeitsrechtsverletzung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 195, 199 BGB — Verjährung 3 Jahre; Paragraf 102 UrhG spezielle Verjährungsregel: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schoepfung als unionsrechtlichen Werkanker.
+- EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
 - EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
 
 ## 7. Antwortform

@@ -20,7 +20,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 1. Leistungsmodell: Kauf, Miete, Werk, Dienst, SaaS, Cloud oder Mischvertrag einordnen.
 2. Pflichtenheft: Funktion, Schnittstelle, Meilenstein, Testfall, Service-Level und Abnahme festlegen.
 3. Störung: Mangel, Verzug, Change Request, Mitwirkungsdefizit und Eskalationsmechanik trennen.
-4. Rechte und Daten: Nutzungsrechte, Open Source, Datenschutzschnittstelle, Zugriff und Loeschung prüfen.
+4. Rechte und Daten: Nutzungsrechte, Open Source, Datenschutzschnittstelle, Zugriff und Löschung prüfen.
 5. Arbeitsprodukt: IT-Vertragsklausel, Mängelrüge, Abnahmeprotokoll, Exit-Plan oder Projektmemo erstellen.
 6. Account: Internationaler Bezug und Schnittstellen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
 
@@ -49,14 +49,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 ## 6. Anker
 
 - BGB Paragraf 327: Verbraucherverträge über digitale Produkte.
-- BGB Paragraf 327e: Vertragsmaessigkeit digitaler Produkte.
+- BGB Paragraf 327e: Vertragsmäßigkeit digitaler Produkte.
 - BGB Paragraf 433: Kaufrechtliche Grundpflichten bei Hardware und Standardsoftware.
 - BGB Paragraf 631: Werkvertragliche Pflichten bei Projektleistungen.
 - Paragrafen 935, 940 ZPO — einstweilige Verfügung auf Wiederherstellung des Zugangs / Reichweitenfreigabe: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 307, 241 Abs. 2 BGB — AGB-Kontrolle und Rücksichtnahmepflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 935, 940 ZPO — Einstweilige Verfügung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 11 GRCh — Meinungsfreiheit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschoepfung bei Softwaredownloads.
+- EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschöpfung bei Softwaredownloads.
 - BGH, Urteil vom 15.11.2006 - XII ZR 120/04: Application-Service-Providing kann mietvertragliche Elemente tragen.
 
 ## 7. Antwortform

@@ -17,10 +17,10 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 ## 2. Stop-Kriterien
 
 - Insolvenzantragspflicht kann laufen.
-- Masseschmaelernde Zahlung steht bevor.
+- Masseschmälernde Zahlung steht bevor.
 - Haftung der Geschäftsleitung ist nicht geprüft.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -87,7 +87,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - StaRUG Paragraf 1: Krisenfrüherkennungspflichten.
 - Normenradar: InsO Paragrafen 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 174 InsO (Anmeldeform) → Paragraf 175 InsO (Eintragung Tabelle) → Paragraf 176 InsO (Prüfungstermin) → Paragraf 66 InsO (Rechnungslegung und Dokumentation) → Paragraf 60 InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 174 InsO (Anmeldung) → Paragraf 175 InsO (Eintragung) → Paragraf 176 InsO (Prüfungstermin) → Paragraf 177 InsO (nachtraegliche Anmeldung) → Paragraf 178 InsO (Tabellenwirkung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 174 InsO (Anmeldung) → Paragraf 175 InsO (Eintragung) → Paragraf 176 InsO (Prüfungstermin) → Paragraf 177 InsO (nachträgliche Anmeldung) → Paragraf 178 InsO (Tabellenwirkung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - BGB Paragrafen 194 ff., 280 ff., 286, 288, 362 ff.; ZPO Paragrafen 253, 688 ff., 794, 802a ff.; RVG/GKG für Kosten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - InsO Paragrafen 38, 87, 174 ff. bei Insolvenzbezug; Hemmung/Neubeginn der Verjährung stets gesondert prüfen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 

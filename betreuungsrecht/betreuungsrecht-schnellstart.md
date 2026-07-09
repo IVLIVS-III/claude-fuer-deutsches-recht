@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Betreuungsrecht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du eine Betreuungssache nach Erforderlichkeit, Aufgabenbereich, Wunsch, Genehmigung, Vermögensschutz und Gerichtsschritt ordnen.
 
 # Betreuungsrecht — Schnellstart
 
@@ -17,49 +17,51 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Betreuungsrecht — Allgemein: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-2. Anschluss-Routing: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte.
-3. Aufgabenkreise festlegen: Arbeitsfokus: Aufgabenkreise festlegen. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben.
-4. Bericht: Mandantenkommunikation und Entscheidungsvorlage: Arbeitsfokus: Bericht: Mandantenkommunikation und Entscheidungsvorlage. Prüfe diese Anker am Sachverhalt; ergänze.
-5. Betreuer als Erbe und Beschenkter: Immer dann, wenn die Frage steht, ob ein Berufsbetreuer im Sinne des Paragraf 19 Abs. 2 BtOG durch den Betreuten.
-6. Berufliche und ehrenamtliche Betreuung; Weg zur Registrierung: Wenn der Nutzer wissen will, wer überhaupt Betreuer werden darf, wie sich beruflicher und ehrenamtlicher Betreuer.
+1. Person und Verfahren: Betroffener, Betreuer, Vollmacht, Verfahrensstand, Anhörung, Gutachten und Eilbedarf erfassen.
+2. Erforderlichkeit und Aufgabenbereich: Unterstützungsbedarf, andere Hilfen, Wunsch, Einwilligungsfähigkeit und konkrete Angelegenheit trennen.
+3. Entscheidung und Genehmigung: Vertretungsmacht, Ausschluss, Gesundheit, Unterbringung, Wohnung, Vermögen und Grundstücksgeschäft prüfen.
+4. Rechnungs- und Berichtswesen: Vermögensverzeichnis, Belege, Kontobewegungen, Jahresbericht, Vergütung und Fristen nachvollziehbar aufbauen.
+5. Arbeitsprodukt: Antrag, Stellungnahme, Genehmigungsvorlage, Jahresbericht, Vermögensübersicht, Schutzplan oder Gerichtsschreiben erstellen.
+6. Betreuungsrecht — Allgemein: Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 1814 BGB; Paragrafen 1816 ff. BGB; Paragraf 1821 BGB |
-| Rechtsprechung | BGH, Urteil vom 02.07.2025 - IV ZR 93/24 |
-| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Normenanker | BGB Paragraf 1814 und Paragraf 1815; BGB Paragraf 1821; BGB Paragraf 1823 und Paragraf 1824 |
+| Rechtsprechung | BGH, Beschluss vom 06.07.2011 - XII ZB 80/11; BVerfG, Beschluss vom 31.03.2021 - 1 BvR 413/20 |
+| Tatbestand | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen |
+| Beweislast | Gericht ermittelt von Amts wegen; Betreuer und Behörde dokumentieren Bedarf, Wunsch, mildere Hilfe, Vertretungsmacht und Genehmigungstatsachen |
+| Rechtsfolge | Aufgabenmatrix, Gerichtsantrag, Genehmigungsvorlage, Vermögensübersicht, Jahresbericht oder Schutzplan |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Betreuungsrecht — Allgemein | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufgabenkreise festlegen | Arbeitsfokus: Aufgabenkreise festlegen. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bericht: Mandantenkommunikation und Entscheidungsvorlage | Arbeitsfokus: Bericht: Mandantenkommunikation und Entscheidungsvorlage. Prüfe diese Anker am Sachverhalt; ergänze. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Betreuer als Erbe und Beschenkter | Immer dann, wenn die Frage steht, ob ein Berufsbetreuer im Sinne des Paragraf 19 Abs. 2 BtOG durch den Betreuten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Berufliche und ehrenamtliche Betreuung; Weg zur Registrierung | Wenn der Nutzer wissen will, wer überhaupt Betreuer werden darf, wie sich beruflicher und ehrenamtlicher Betreuer. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Betreuungsrecht — Allgemein | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aufgabenkreise festlegen | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bericht: Mandantenkommunikation und Entscheidungsvorlage | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Betreuer als Erbe und Beschenkter | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Berufliche und ehrenamtliche Betreuung; Weg zur Registrierung | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- BGB Paragraf 1814 und Paragraf 1815: Voraussetzungen, Erforderlichkeit und konkrete Aufgabenbereiche der Betreuung.
+- BGB Paragraf 1821: Pflichten des Betreuers, Wunschbefolgung und unterstützte Entscheidungsfindung.
+- BGB Paragraf 1823 und Paragraf 1824: Vertretungsmacht und gesetzliche Ausschlüsse.
+- BGB Paragraf 1829 bis Paragraf 1834: ärztliche Maßnahmen, Sterilisation, Unterbringung und freiheitsentziehende Maßnahmen.
 - Paragraf 1814 BGB — Voraussetzungen der Betreuung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 1816 ff. BGB — Auswahl und Eignung des Betreuers: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1821 BGB — Pflichten des Betreuers und Wünsche der betreuten Person: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 1835 ff. BGB — Vermögensverzeichnis und Rechnungslegung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1863 BGB — Anfangsbericht, Jahresbericht und Schlussbericht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 1848 ff. BGB — Genehmigungspflichtige Rechtsgeschäfte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1814 Abs. 1 BGB — Betreuungsvoraussetzungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 02.07.2025 - IV ZR 93/24: Strukturanaloge Bestätigung der Trennung von Berufsrecht und Erbrecht. Eine Zuwendung von Todes wegen an den behandelnden Arzt ist nicht deshalb unwirksam, weil
+- BGH, Beschluss vom 06.07.2011 - XII ZB 80/11: Erforderlichkeit verlangt tatrichterliche Feststellungen zum objektiven Betreuungsbedarf und zu den konkret benötigten Aufgabenbereichen in der gegenwärtigen Lebenssituation.
+- BVerfG, Beschluss vom 31.03.2021 - 1 BvR 413/20: Das Selbstbestimmungsrecht prägt die Betreuerauswahl; auch ein aus Außensicht unvernünftiger Wunsch darf nicht allein deshalb übergangen werden.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Betreuungsrecht — Allgemein, Anschluss-Routing, Aufgabenkreise festlegen, Bericht: Mandantenkommunikation und Entscheidungsvorlage: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Aufgabenmatrix: Angelegenheit, Unterstützungsbedarf, vorhandene Hilfe, Wunsch, Vertretungsbedarf, Genehmigung und nächster Schritt; Gerichtsantrag: Anlass, konkrete Gefahr oder Bedarf, Tatsachenbelege, beantragter Aufgabenbereich, mildere Mittel und Eilbedürftigkeit.
 
 ## 8. Stop
 

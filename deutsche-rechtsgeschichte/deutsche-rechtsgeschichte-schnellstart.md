@@ -17,11 +17,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abschlussmemo historische Tragfähigkeit: Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur.
+1. Abschlussmemo historische Tragfähigkeit: Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwürde als Zäsur.
 2. Aktenanalyse: Historische Fallakte: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
 3. Arbeitsgerichtsbarkeit Geschichte: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
-4. Arbeitsrecht: von der Gewerbeordnung bis zum BetrVG: Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur.
-5. Archivfund in heutige Argumentation: Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur.
+4. Arbeitsrecht: von der Gewerbeordnung bis zum BetrVG: Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwürde als Zäsur.
+5. Archivfund in heutige Argumentation: Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwürde als Zäsur.
 6. BGB 1900 und die soziale Frage: Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen.
 
 ## 4. Fallkarte
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | Art. 20 Abs. 3 GG; Art. 20 Abs. 3 GG; Art. 1 Abs. 1 GG |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur |
+| Tatbestand | Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwürde als Zäsur |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,18 +39,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abschlussmemo historische Tragfähigkeit | Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschlussmemo historische Tragfähigkeit | Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwürde als Zäsur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Aktenanalyse: Historische Fallakte | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsgerichtsbarkeit Geschichte | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsrecht: von der Gewerbeordnung bis zum BetrVG | Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Archivfund in heutige Argumentation | Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsrecht: von der Gewerbeordnung bis zum BetrVG | Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwürde als Zäsur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Archivfund in heutige Argumentation | Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwürde als Zäsur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | BGB 1900 und die soziale Frage | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab. - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwürde als Zäsur- und Kontinuitätsmassstab. - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 1 Abs. 1 GG — Menschenwürde als Zäsur- und Kontinuitätsmassstab: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen Rechts: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 125 GG — Fortgeltung als Bundesrecht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 126 GG — Meinungsverschiedenheiten über Fortgeltung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.

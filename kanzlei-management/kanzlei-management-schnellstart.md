@@ -48,13 +48,13 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 6. Anker
 
-- Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO —: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 43 BRAO — allgemeine Berufspflicht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 43a Abs. 4 BRAO — Interessenkollision: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 49b BRAO — Verguetungsrechtliche Grenzen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 49b BRAO — Vergütungsrechtliche Grenzen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 50 BRAO — Handakten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 4 RVG — Verguetungsvereinbarung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 4 RVG — Vergütungsvereinbarung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

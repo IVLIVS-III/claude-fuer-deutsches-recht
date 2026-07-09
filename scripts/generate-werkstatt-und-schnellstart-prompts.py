@@ -387,6 +387,120 @@ PROSE_REPLACEMENTS = (
     ("schloesser", "schlösser"),
     ("zugaenglich", "zugänglich"),
     ("Zugaenglich", "Zugänglich"),
+    ("Verhaeltnis", "Verhältnis"),
+    ("verhaeltnis", "verhältnis"),
+    ("Zugehoer", "Zugehör"),
+    ("zugehoer", "zugehör"),
+    ("Auslaend", "Ausländ"),
+    ("auslaend", "ausländ"),
+    ("Kausalitaet", "Kausalität"),
+    ("kausalitaet", "kausalität"),
+    ("Subsidiaritaet", "Subsidiarität"),
+    ("subsidiaritaet", "subsidiarität"),
+    ("Rechtmaess", "Rechtmäß"),
+    ("rechtmaess", "rechtmäß"),
+    ("Zulaess", "Zuläss"),
+    ("zulaess", "zuläss"),
+    ("Schluess", "Schlüss"),
+    ("schluess", "schlüss"),
+    ("Nachtraeg", "Nachträg"),
+    ("nachtraeg", "nachträg"),
+    ("Uebereinkommen", "Übereinkommen"),
+    ("uebereinkommen", "übereinkommen"),
+    ("Ueberschuld", "Überschuld"),
+    ("ueberschuld", "überschuld"),
+    ("Zufluesse", "Zuflüsse"),
+    ("zufluesse", "zuflüsse"),
+    ("Erschoepf", "Erschöpf"),
+    ("erschoepf", "erschöpf"),
+    ("Vervielfaeltig", "Vervielfältig"),
+    ("vervielfaeltig", "vervielfältig"),
+    ("Bruessel", "Brüssel"),
+    ("bruessel", "brüssel"),
+    ("Identitaet", "Identität"),
+    ("identitaet", "identität"),
+    ("Ermaechtig", "Ermächtig"),
+    ("ermaechtig", "ermächtig"),
+    ("Tatbestaend", "Tatbeständ"),
+    ("tatbestaend", "tatbeständ"),
+    ("Einraeum", "Einräum"),
+    ("einraeum", "einräum"),
+    ("Schoepf", "Schöpf"),
+    ("schoepf", "schöpf"),
+    ("endguelt", "endgült"),
+    ("Endguelt", "Endgült"),
+    ("grundsaetz", "grundsätz"),
+    ("Grundsaetz", "Grundsätz"),
+    ("Menschenwuerde", "Menschenwürde"),
+    ("menschenwuerde", "menschenwürde"),
+    ("Loesch", "Lösch"),
+    ("loesch", "lösch"),
+    ("Verguet", "Vergüt"),
+    ("verguet", "vergüt"),
+    ("Aender", "Änder"),
+    ("aender", "änder"),
+    ("geschuetz", "geschütz"),
+    ("Geschuetz", "Geschütz"),
+    ("Bautraeger", "Bauträger"),
+    ("bautraeger", "bauträger"),
+    ("Strafhoehe", "Strafhöhe"),
+    ("strafhoehe", "strafhöhe"),
+    ("eigenstaendig", "eigenständig"),
+    ("Eigenstaendig", "Eigenständig"),
+    ("Vertragsmaess", "Vertragsmäß"),
+    ("vertragsmaess", "vertragsmäß"),
+    ("Publizitaet", "Publizität"),
+    ("publizitaet", "publizität"),
+    ("Konformitaet", "Konformität"),
+    ("konformitaet", "konformität"),
+    ("Gleichmaess", "Gleichmäß"),
+    ("gleichmaess", "gleichmäß"),
+    ("Kontinuitaet", "Kontinuität"),
+    ("kontinuitaet", "kontinuität"),
+    ("Verfassungsmaess", "Verfassungsmäß"),
+    ("verfassungsmaess", "verfassungsmäß"),
+    ("Erfuell", "Erfüll"),
+    ("erfuell", "erfüll"),
+    ("Heranfuehr", "Heranführ"),
+    ("heranfuehr", "heranführ"),
+    ("Beschwerdefuehr", "Beschwerdeführ"),
+    ("beschwerdefuehr", "beschwerdeführ"),
+    ("Voelker", "Völker"),
+    ("voelker", "völker"),
+    ("enthaelt", "enthält"),
+    ("Enthaelt", "Enthält"),
+    ("Sanktionshuerde", "Sanktionshürde"),
+    ("sanktionshuerde", "sanktionshürde"),
+    ("Buergschaft", "Bürgschaft"),
+    ("buergschaft", "bürgschaft"),
+    ("Staatsangehoer", "Staatsangehör"),
+    ("staatsangehoer", "staatsangehör"),
+    ("Militaer", "Militär"),
+    ("militaer", "militär"),
+    ("Kuenstlich", "Künstlich"),
+    ("kuenstlich", "künstlich"),
+    ("Bevoelker", "Bevölker"),
+    ("bevoelker", "bevölker"),
+    ("Volkszaehl", "Volkszähl"),
+    ("volkszaehl", "volkszähl"),
+    ("Masseschmaeler", "Masseschmäler"),
+    ("masseschmaeler", "masseschmäler"),
+    ("Toedlich", "Tödlich"),
+    ("toedlich", "tödlich"),
+    ("Oekoland", "Ökoland"),
+    ("oekoland", "ökoland"),
+    ("Loesung", "Lösung"),
+    ("loesung", "lösung"),
+    ("Buchfuehr", "Buchführ"),
+    ("buchfuehr", "buchführ"),
+    ("Bezueg", "Bezüg"),
+    ("bezueg", "bezüg"),
+    ("Anfaeng", "Anfäng"),
+    ("anfaeng", "anfäng"),
+    ("Faell", "Fäll"),
+    ("faell", "fäll"),
+    ("Staerk", "Stärk"),
+    ("staerk", "stärk"),
 )
 
 
@@ -407,6 +521,10 @@ TERM_REPLACEMENTS = {
     "Kg": "KG",
     "Eu": "EU",
     "Dsgvo": "Datenschutz-Grundverordnung",
+    "Hr": "HR",
+    "Hoai": "HOAI",
+    "Euipo": "EUIPO",
+    "Oepp": "ÖPP",
 }
 
 
@@ -1000,7 +1118,29 @@ def quick_grip(profile: ThemenProfil, field: str, detail: str) -> str:
         return "Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren"
     if profile.key == "vollstreckung":
         return "Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen"
-    if profile.key == "arbeits" or "kündigung" in hay or "befristung" in hay or "betriebsrat" in hay or "arbeitsgericht" in hay:
+    if profile.key == "immobilien":
+        return "Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden"
+    if profile.key == "eu_recht":
+        return "Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen"
+    if profile.key == "methodik":
+        return "Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen"
+    if profile.key == "betreuung":
+        return "Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen"
+    if profile.key == "hoai":
+        return "Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen"
+    if profile.key == "weltraum":
+        return "Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden"
+    if profile.key in {"arbeits", "hr"}:
+        if any(bit in hay for bit in ("kündigung", "befristung", "abmahnung", "aufheb", "betriebsrat")):
+            return "Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen"
+        if any(bit in hay for bit in ("agg", "beschwerde", "arbeitsschutz", "gefährd", "hinweis")):
+            return "Meldung, Schutzpflicht, Anhörung, Vertraulichkeit, Beleg, Maßnahme und Benachteiligungsrisiko in einer Fallakte trennen"
+        if any(bit in hay for bit in ("angebot", "offer", "vertrag", "onboarding", "nachweis")):
+            return "Vertragstyp, Tätigkeit, Vergütung, Arbeitsort, Beginn, Befristung, Nachweis und Unterschriftsweg versandfertig ordnen"
+        if any(bit in hay for bit in ("arbeitszeit", "urlaub", "fehlzeit", "krank", "payroll", "vergütung")):
+            return "Zeitraum, Anspruch, Berechnung, Nachweis, Ausschlussfrist, Beteiligungsrecht und Buchungs- oder Antworttext verbinden"
+        return "Arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen"
+    if "kündigung" in hay or "befristung" in hay or "betriebsrat" in hay or "arbeitsgericht" in hay:
         return "Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen"
     if "insolvenz" in hay or "starug" in hay or profile.key in {"insolvenz", "liquiditaet"}:
         return "Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen"
@@ -1075,7 +1215,8 @@ def output_hint(profile: ThemenProfil, fields: list[tuple[str, str]]) -> str:
 
 
 BEWEISLAST_MERKER = {
-    "arbeits": "Arbeitgeber für Kündigungs-, Befristungs- und Betriebsratsgrund; Arbeitnehmer für Zugang, Fristwahrung und eigene Ansprüche.",
+    "arbeits": "Arbeitgeber für Vertragsbedingungen, Zeiterfassung, Vergütung, Personalmaßnahme und Beteiligung; Arbeitnehmer für Zugang, eigene Anspruchsvoraussetzungen und Fristwahrung.",
+    "hr": "Arbeitgeber für Vertragsbedingungen, Zeiterfassung, Vergütung, Personalmaßnahme und Beteiligung; Beschäftigter für Zugang, eigene Anspruchsvoraussetzungen und Fristwahrung.",
     "zeugnis": "Arbeitnehmer für Berichtigungsziel und bessere Gesamtnote; Arbeitgeber für Wahrheit, Tatsachengrundlage, Auslassungen und formale Erfüllung.",
     "miet": "Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen.",
     "famil": "Unterhaltsteller für Bedarf und Auskunft; Pflichtiger für Leistungsunfähigkeit; in Kindschaftssachen Amtsermittlung und Kindeswohlbelege.",
@@ -1112,12 +1253,19 @@ BEWEISLAST_MERKER = {
     "medizin": "Patient oder Versicherter für Befund, Schaden und Kausalität; Behandler oder Träger für Aufklärung, Dokumentation, Standard und Entlastung.",
     "verkehr": "Geschädigter oder Reisender für Ereignis, Schaden, Verspätung und Belege; Gegner für Mitverschulden, Ausschluss und außergewöhnliche Umstände.",
     "vollstreckung": "Gläubiger für Titel, Klausel, Zustellung und Forderungsstand; Schuldner oder Dritter für Schutz, Erfüllung, Insolvenz und Gegenrechte.",
+    "immobilien": "Antragsteller für Antrag, Bewilligung, Vertretung und Nachweis; Beteiligte für Rang, Genehmigung, Löschung und entgegenstehende Rechte.",
+    "eu_recht": "Wer sich auf Unionsrecht beruft, belegt Anwendungsbereich und anspruchstragende Tatsachen; Staat oder Organ trägt Rechtfertigung, Ausnahme und Verhältnismäßigkeit.",
+    "methodik": "Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen.",
+    "betreuung": "Gericht ermittelt von Amts wegen; Betreuer und Behörde dokumentieren Bedarf, Wunsch, mildere Hilfe, Vertretungsmacht und Genehmigungstatsachen.",
+    "hoai": "Planer für beauftragte und erbrachte Leistung sowie Honorarparameter; Auftraggeber für Mangel, Änderungsanordnung, Zahlung und mitwirkungsbedingte Störung.",
+    "weltraum": "Anspruchsteller oder Staat für Gegenstand, Ereignis, Schaden und Kausalität; Betreiber und Startstaaten für Genehmigung, Aufsicht, Registrierung und Entlastung.",
     "default": "Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.",
 }
 
 
 RECHTSFOLGE_MERKER = {
-    "arbeits": "Feststellung, Weiterbeschäftigung, Annahmeverzug, Vergleich oder Abwicklungsbaustein.",
+    "arbeits": "Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung.",
+    "hr": "Arbeitsvertrag, HR-Vorgangsblatt, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung oder Austrittscheck.",
     "zeugnis": "Zeugnisentwurf, Berichtigungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsschritt.",
     "miet": "Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung.",
     "famil": "Unterhaltstitel, Sorge-/Umgangsregelung, Scheidungsausspruch, Versorgungsausgleich oder Zugewinn.",
@@ -1154,6 +1302,12 @@ RECHTSFOLGE_MERKER = {
     "medizin": "Gutachterfragen, Anspruchsschreiben, Widerspruch, Eilantrag, Klage, Abrechnungsprüfung oder Behördenantwort.",
     "verkehr": "Regulierungsschreiben, Anspruchstabelle, Einspruch, Klage, Vergleich, Fristenblatt oder Mandantenbrief.",
     "vollstreckung": "Titelcheck, Vollstreckungsauftrag, PfÜB-Entwurf, Forderungsaufstellung, Erinnerung oder Schutzantrag.",
+    "immobilien": "Grundbuchanalyse, Vertragsklausel, Vollzugsliste, Bewilligung, Zwischenverfügungsantwort oder Rangmatrix.",
+    "eu_recht": "Wirkungsmatrix, Grundfreiheitenprüfung, Vorlagefrage, Umsetzungscheck, Stellungnahme oder Rechtsschutzvermerk.",
+    "methodik": "Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle.",
+    "betreuung": "Aufgabenmatrix, Gerichtsantrag, Genehmigungsvorlage, Vermögensübersicht, Jahresbericht oder Schutzplan.",
+    "hoai": "Leistungsstandsmatrix, Honorarblatt, Nachtragsangebot, Bedenkenhinweis, Mängelvermerk oder Projektbericht.",
+    "weltraum": "Missionsrechtsmatrix, Genehmigungsfahrplan, Registermeldung, Haftungsmemo, Startvertragsklausel oder Frequenzvermerk.",
     "default": "Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.",
 }
 
@@ -1350,6 +1504,7 @@ def build_werkstatt(plugin_dir: Path) -> str:
     extracted_cases = extract_case_anchors(skill_material, 5)
     if profile.key == "technikregulierung":
         extracted_norms = []
+    if profile.key in {"technikregulierung", "betreuung", "hoai"}:
         extracted_cases = []
     extracted_cases = dedupe_cases(profile_cases, extracted_cases)
     fields = skill_fields(skill_material, 7)
@@ -1598,6 +1753,7 @@ def build_schnellstart(plugin_dir: Path) -> str:
     extracted_cases = extract_case_anchors(skill_material, case_limit)
     if profile.key == "technikregulierung":
         extracted_norms = []
+    if profile.key in {"technikregulierung", "betreuung", "hoai"}:
         extracted_cases = []
     profile_norms = [] if profile.key == "default" else list(profile.normen[:4])
     profile_cases = [] if profile.key == "default" else list(profile.entscheidungen[:2])

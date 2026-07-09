@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Dfg Förderantrag ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Verwaltungsakt anfechten und vorläufigen Rechtsschutz erreichen.
 
 # Dfg Förderantrag — Schnellstart
 
@@ -17,48 +17,51 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung: Arbeitsfokus: Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung. Prüfe diese Anker am Sachverhalt; ergänze.
-2. Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien: Arbeitsfokus: Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien. Prüfe diese Anker am Sachverhalt.
-3. Anschluss-Routing: Dieses Anschluss-Routing für Dfg Förderantrag wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation.
-4. Anträge: Zahlen, Schwellenwerte und Berechnung: Arbeitsfokus: Anträge: Zahlen, Schwellenwerte und Berechnung. Prüfe diese Anker am Sachverhalt; ergänze nur.
-5. Chronologie und Belegmatrix: Dieser Arbeitsgang macht Chronologie und Belegmatrix im Bereich dfg-förderantrag sofort bearbeitbar: erst Akte.
-6. DFG-Antrag bis 200.000 Euro: Anträge bis 200.000 Euro Gesamtsumme können verfahrenspraktisch schlanker laufen — die DFG-FAQ zur Begutachtung.
+1. Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen.
+2. Zulässigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
+3. Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen.
+4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
+5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
+6. Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Art. 5 Abs. 3 Satz 1 GG; Art. 91b Abs. 1 GG; Paragraf 48 Abs. 1 VwVfG |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Arbeitsfokus: Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung. Prüfe diese Anker am Sachverhalt; ergänze |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Normenanker | VwVfG Paragraf 35; VwVfG Paragraf 28; VwVfG Paragraf 40 |
+| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 |
+| Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
+| Beweislast | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit |
+| Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung | Arbeitsfokus: Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung. Prüfe diese Anker am Sachverhalt; ergänze. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien | Arbeitsfokus: Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien. Prüfe diese Anker am Sachverhalt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Dieses Anschluss-Routing für Dfg Förderantrag wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anträge: Zahlen, Schwellenwerte und Berechnung | Arbeitsfokus: Anträge: Zahlen, Schwellenwerte und Berechnung. Prüfe diese Anker am Sachverhalt; ergänze nur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Chronologie und Belegmatrix | Dieser Arbeitsgang macht Chronologie und Belegmatrix im Bereich dfg-förderantrag sofort bearbeitbar: erst Akte. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| DFG-Antrag bis 200.000 Euro | Anträge bis 200.000 Euro Gesamtsumme können verfahrenspraktisch schlanker laufen — die DFG-FAQ zur Begutachtung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anfänger: Risikoampel, Gegenargumente und Verteidigungslinien | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anträge: Zahlen, Schwellenwerte und Berechnung | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Chronologie und Belegmatrix | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| DFG-Antrag bis 200.000 Euro | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
+- VwVfG Paragraf 28: Anhörung Beteiligter.
+- VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
+- VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
 - Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 91b Abs. 1 GG — Forschungsförderung im Bund-Länder-System: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 48 Abs. 1 VwVfG — Rücknahme rechtswidriger Bewilligungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 49 Abs. 1 VwVfG — Widerruf rechtmäßiger Bewilligungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 91b Abs. 1 GG — Bund-Länder-Kooperation in der Forschungsförderung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 5 Abs. 3 Satz 1 GG — wissenschaftsadäquate Begutachtung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 28 Abs. 1 VwVfG — Anhörungslogik als Mindeststandard bei belastenden Förderentscheidungen, soweit Verwaltungsverfahrensrecht anwendbar ist: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
+- BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung, Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien, Anschluss-Routing, Anträge: Zahlen, Schwellenwerte und Berechnung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung, Anfänger: Risikoampel, Gegenargumente und Verteidigungslinien, Anschluss-Routing, Anträge: Zahlen, Schwellenwerte und Berechnung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

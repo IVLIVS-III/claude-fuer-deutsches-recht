@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Verdachtsmeldung, Transaktionsstopp oder Tipping-off-Risiko steht im Raum.
 - Wirtschaftlich Berechtigter, Mittelherkunft oder Sanktionstreffer ist unklar.
 - Berufsgeheimnis und Meldepflicht kollidieren.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -87,7 +87,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 2 GwG (Verpflichtete): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 3 GwG (Wirtschaftlich Berechtigte): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 5-8 GwG (Risikoanalyse, Risikomanagement, interne Sicherungsmaßnahmen): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 10-17 GwG (Allgemeine, vereinfachte und verstaerkte Sorgfaltspflichten): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 10-17 GwG (Allgemeine, vereinfachte und verstärkte Sorgfaltspflichten): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 18-20 GwG (Transparenzregister): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 43-47 GwG (Meldepflichten, Verdachtsmeldung an FIU): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 4 GwG — Interne Sicherungsmaßnahmen: Pflicht zur internen Revision: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.

@@ -17,9 +17,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Schutzgegenstand: Werkart, Schoepfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
+1. Schutzgegenstand: Werkart, Schöpfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
 2. Rechtekette: Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen.
-3. Nutzung: Vervielfaeltigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
+3. Nutzung: Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
 4. Schranken: Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden.
 5. Arbeitsprodukt: Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren.
 6. Abmahnung nach Paragraf 97a UrhG beantworten: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
@@ -48,15 +48,15 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 6. Anker
 
-- UrhG Paragraf 2: geschuetzte Werke.
+- UrhG Paragraf 2: geschützte Werke.
 - UrhG Paragraf 15: Verwertungsrechte.
-- UrhG Paragraf 31: Einraeumung von Nutzungsrechten.
+- UrhG Paragraf 31: Einräumung von Nutzungsrechten.
 - UrhG Paragraf 51: Zitatrecht.
 - Paragrafen 97, 97a, 98, 100, 101 UrhG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 935, 940 ZPO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 97a UrhG (Abmahnung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 31 ff. UrhG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schoepfung als unionsrechtlichen Werkanker.
+- EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
 - EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
 - BGH I ZR 121/08 (Sommer unseres Lebens)
 

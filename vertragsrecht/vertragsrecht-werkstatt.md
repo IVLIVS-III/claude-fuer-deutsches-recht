@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Widerrufs-, Verjährungs-, Rüge- oder Gewährleistungsfrist ist unklar.
 - AGB-Kontrolle wird ohne Einbeziehung und Verwenderrolle begonnen.
 - Mangelrechte werden geprüft, ohne Nacherfüllungsverlangen, Fristsetzung, Abnahme oder Gefahrübergang zu klären.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -175,7 +175,7 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 
 ### 15.9. Einstieg und Routing
 
-Dieser Einstieg routet Vertragsrecht vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - abmahnung-uwg — Abmahnung UWG - aenderungs-historie-agb-eskalations-marker — Änderungs Historie AGB Eskalations Marker. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Einstieg routet Vertragsrecht vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - abmahnung-uwg — Abmahnung UWG - änderungs-historie-agb-eskalations-marker — Änderungs Historie AGB Eskalations Marker. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Einzelabrufe: Sonderfall und Edge-Case-Prüfung
 

@@ -36,7 +36,7 @@ Dieser Skill prüft, ob der Arbeitgeber den Betriebsrat vor Ausspruch der Kündi
 
 ## Leitentscheidungen
 
-- BAG, Urteil vom 24.08.2023, 2 AZR 17/23: Kündigungsprüfung verlangt konkrete Tatsachen und Interessenabwägung; pauschale Wertungen tragen nicht.
+- BAG, Urteil vom 07.05.2020, 2 AZR 678/19: Die Kündigungserklärungsfrist des BGB Paragraf 626 Absatz 2 gehört nicht zu den Kündigungsgründen, über die der Arbeitgeber den Betriebsrat nach BetrVG Paragraf 102 Absatz 1 Satz 2 unterrichten muss; der Kündigungssachverhalt und freiwillige Angaben müssen dennoch wahrheitsgemäß mitgeteilt werden.
 - BAG Großer Senat, Beschluss vom 27.02.1985, GS 1/84: Betriebsratswiderspruch kann für Weiterbeschäftigung und Prozesslage erheblich werden.
 
 ## Arbeitsprodukt

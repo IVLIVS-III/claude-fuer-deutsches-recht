@@ -57,7 +57,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 34 SGB V – Ausgeschlossene Arznei-, Heil- und Hilfsmittel (Lifestyle-Ausschluss: Paragraf 34 Abs. 1 Satz 7-8): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 35 SGB V – Festbetragsgruppen (Gemeinsamer Bundesausschuss): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09: existenzsichernde Leistungen müssen transparent und realitätsgerecht bemessen sein.
-- BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhaeltnismaessigkeitskontrolle.
+- BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhältnismaessigkeitskontrolle.
 - BGH III ZR 17/18 (GOÄ-Abrechnung, Steigerungsfaktor), BGH III ZR 62/18
 - BVerfG 1 BvR 2084/05 (GOÄ und PKV-Erstattung)
 

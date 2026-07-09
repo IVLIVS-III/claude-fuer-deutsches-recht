@@ -17,9 +17,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Schutzgegenstand: Werkart, Schoepfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
+1. Schutzgegenstand: Werkart, Schöpfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
 2. Rechtekette: Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen.
-3. Nutzung: Vervielfaeltigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
+3. Nutzung: Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
 4. Schranken: Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden.
 5. Arbeitsprodukt: Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren.
 6. Brand Enforcement Abmahnung: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
@@ -48,15 +48,15 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 6. Anker
 
-- UrhG Paragraf 2: geschuetzte Werke.
+- UrhG Paragraf 2: geschützte Werke.
 - UrhG Paragraf 15: Verwertungsrechte.
-- UrhG Paragraf 31: Einraeumung von Nutzungsrechten.
+- UrhG Paragraf 31: Einräumung von Nutzungsrechten.
 - UrhG Paragraf 51: Zitatrecht.
 - GG Art. 1, 3, 20 (Grundrechte, Rechtsstaat): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGB Paragrafen 133, 157, 242 (Auslegung, Treu und Glauben): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - VwVfG Paragrafen 28, 35, 48, 49 (Anhörung, Verwaltungsakt, Rücknahme/Widerruf): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - VwGO Paragrafen 42, 80, 113 (Anfechtungsklage, Eilrechtsschutz): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schoepfung als unionsrechtlichen Werkanker.
+- EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
 - EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
 
 ## 7. Antwortform

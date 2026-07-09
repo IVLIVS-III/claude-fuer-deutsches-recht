@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Existenzminimum, Krankenbehandlung oder Wohnungssicherung ist akut betroffen.
 - Medizinische Unterlagen fehlen für eine tragende Leistungsbeurteilung.
 - Frist oder Zugang des Bescheids ist unklar.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -78,9 +78,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
 | BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | existenzsichernde Leistungen müssen transparent und realitätsgerecht bemessen sein |
-| BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Sanktionen im Grundsicherungsrecht unterliegen strenger Verhaeltnismaessigkeitskontrolle |
-| BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | lebensbedrohliche oder regelmäßig toedliche Erkrankungen können Leistungsansprüche der Krankenversicherung |
-| BSG, Urteil vom 16.12.2008 - B 4 AS 48/07 R | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Unterkunftskosten sind am konkreten Bedarf und an einem schluessigen Konzept zu messen |
+| BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Sanktionen im Grundsicherungsrecht unterliegen strenger Verhältnismäßigkeitskontrolle |
+| BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | lebensbedrohliche oder regelmäßig tödliche Erkrankungen können Leistungsansprüche der Krankenversicherung |
+| BSG, Urteil vom 16.12.2008 - B 4 AS 48/07 R | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Unterkunftskosten sind am konkreten Bedarf und an einem schlüssigen Konzept zu messen |
 | BSG, Urteil vom 02.09.2009 - B 6 KA 34/08 R | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | sozialrechtliche Sachverhaltsaufklärung verlangt verwertbare medizinische und tatsächliche Grundlagen |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
@@ -109,9 +109,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 ## 8. Leitentscheidungen
 
 - BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09: existenzsichernde Leistungen müssen transparent und realitätsgerecht bemessen sein.
-- BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhaeltnismaessigkeitskontrolle.
-- BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98: lebensbedrohliche oder regelmäßig toedliche Erkrankungen können Leistungsansprüche der Krankenversicherung verfassungsrechtlich verdichten.
-- BSG, Urteil vom 16.12.2008 - B 4 AS 48/07 R: Unterkunftskosten sind am konkreten Bedarf und an einem schluessigen Konzept zu messen.
+- BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhältnismaessigkeitskontrolle.
+- BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98: lebensbedrohliche oder regelmäßig tödliche Erkrankungen können Leistungsansprüche der Krankenversicherung verfassungsrechtlich verdichten.
+- BSG, Urteil vom 16.12.2008 - B 4 AS 48/07 R: Unterkunftskosten sind am konkreten Bedarf und an einem schlüssigen Konzept zu messen.
 - BSG, Urteil vom 02.09.2009 - B 6 KA 34/08 R: sozialrechtliche Sachverhaltsaufklärung verlangt verwertbare medizinische und tatsächliche Grundlagen.
 - BSG, Urteil vom 28.05.2019 - B 1 KR 32/18 R, frei nachweisbar über sozialgerichtsbarkeit.de/dejure: Krankenhausbehandlung und neue Methoden verlangen die Abgrenzung von Standard, Potential
 - BVerfG, Urteil vom 18.07.2012 - 1 BvL 10/10 und 1 BvL 2/11, BVerfGE 132, 134: Das menschenwürdige Existenzminimum darf nicht migrationspolitisch relativiert werden
@@ -176,7 +176,7 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumenten
 
 ### 15.3. 03 Eilrechtsschutz Paragraf 86B
 
-Einstweiliger Rechtsschutz Paragraf 86b SGG: Anordnung der aufschiebenden Wirkung Abs. 1, einstweilige Anordnung Abs. 2 (Anordnungsanspruch und -grund), Existenzsicherung in Eilfaellen Werkstatt-Assistent für den Sozialrichter am Sozialgericht (Kammer mit zwei ehrenamtlichen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Einstweiliger Rechtsschutz Paragraf 86b SGG: Anordnung der aufschiebenden Wirkung Abs. 1, einstweilige Anordnung Abs. 2 (Anordnungsanspruch und -grund), Existenzsicherung in Eilfällen Werkstatt-Assistent für den Sozialrichter am Sozialgericht (Kammer mit zwei ehrenamtlichen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. 04 Krankenversicherung Prüfung
 

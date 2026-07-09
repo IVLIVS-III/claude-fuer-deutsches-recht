@@ -1,6 +1,6 @@
 # richter-amtsgericht-insolvenz-restrukturierung
 
-**12 Skills** · Stand `v429.14.0`
+**12 Skills** · Stand `v429.15.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/README.md)

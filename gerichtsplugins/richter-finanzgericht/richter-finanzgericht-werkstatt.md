@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Einspruchs- oder Klagefrist läuft ab.
 - Steuerstrafrechtlicher Anfangsverdacht steht im Raum.
 - DBA- oder Quellensteuerfrage kann nicht ohne Belege entschieden werden.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -32,11 +32,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-### 3.3. Verfahrensrecht: Einspruch, Aussetzung, Aenderungsnorm und Festsetzungsfrist bearbeiten.
+### 3.3. Verfahrensrecht: Einspruch, Aussetzung, Änderungsnorm und Festsetzungsfrist bearbeiten.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-### 3.4. Belege, Buchfuehrung, Rechnung, DBA und unionsrechtliche Sperren trennen.
+### 3.4. Belege, Buchführung, Rechnung, DBA und unionsrechtliche Sperren trennen.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
@@ -57,9 +57,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
 | --- | --- | --- | --- |
-| AO Paragraf 85 | Legalität und Gleichmaessigkeit der Besteuerung | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
+| AO Paragraf 85 | Legalität und Gleichmäßigkeit der Besteuerung | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
 | AO Paragraf 88 | Amtsermittlung | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
-| AO Paragraf 173 | Aufhebung oder Aenderung wegen neuer Tatsachen | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
+| AO Paragraf 173 | Aufhebung oder Änderung wegen neuer Tatsachen | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
 | EStG Paragraf 2 | Einkunftsarten und Einkommensermittlung | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
 | EStG Paragraf 49 | beschraenkte Steuerpflicht | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
 | FGO Paragraf 76 | Sachaufklärung im Finanzgerichtsverfahren | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
@@ -69,7 +69,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| BFH, Urteil vom 04.11.2021 - VI R 22/19 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Doppelbesteuerungsabkommen begründen grundsaetzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale |
+| BFH, Urteil vom 04.11.2021 - VI R 22/19 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale |
 | BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Vollverzinsung nach AO war ab 2014 verfassungswidrig |
 | BFH, Urteil vom 21.06.2012 - V R 20/11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Vorsteuerabzug verlangt ordnungsgemäße Rechnung und Leistungsbezug |
 | EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Kittel-Rechtsprechung zum Vorsteuerabzug bei Kenntnis von Umsatzsteuerbetrug |
@@ -79,9 +79,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 7. Pflichtnormen als Kernsätze
 
-- AO Paragraf 85: Legalität und Gleichmaessigkeit der Besteuerung.
+- AO Paragraf 85: Legalität und Gleichmäßigkeit der Besteuerung.
 - AO Paragraf 88: Amtsermittlung.
-- AO Paragraf 173: Aufhebung oder Aenderung wegen neuer Tatsachen.
+- AO Paragraf 173: Aufhebung oder Änderung wegen neuer Tatsachen.
 - EStG Paragraf 2: Einkunftsarten und Einkommensermittlung.
 - EStG Paragraf 49: beschraenkte Steuerpflicht.
 - FGO Paragraf 76: Sachaufklärung im Finanzgerichtsverfahren.
@@ -96,7 +96,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 8. Leitentscheidungen
 
-- BFH, Urteil vom 04.11.2021 - VI R 22/19: Doppelbesteuerungsabkommen begründen grundsaetzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale Besteuerung.
+- BFH, Urteil vom 04.11.2021 - VI R 22/19: Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale Besteuerung.
 - BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17: Vollverzinsung nach AO war ab 2014 verfassungswidrig.
 - BFH, Urteil vom 21.06.2012 - V R 20/11: Vorsteuerabzug verlangt ordnungsgemäße Rechnung und Leistungsbezug.
 - EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04: Kittel-Rechtsprechung zum Vorsteuerabzug bei Kenntnis von Umsatzsteuerbetrug.
@@ -162,11 +162,11 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast
 
 ### 15.3. 03 Aussetzung Der Vollziehung
 
-Aussetzung der Vollziehung Paragraf 69 FGO bzw. Paragraf 361 AO: ernstliche Zweifel an der Rechtmaessigkeit, unbillige Haerte, Sicherheitsleistung, Verfahren Werkstatt-Assistent für den Finanzrichter am Finanzgericht (Senat nach Paragraf 5 FGO, Einzelrichter nach Paragraf 6. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Aussetzung der Vollziehung Paragraf 69 FGO bzw. Paragraf 361 AO: ernstliche Zweifel an der Rechtmäßigkeit, unbillige Haerte, Sicherheitsleistung, Verfahren Werkstatt-Assistent für den Finanzrichter am Finanzgericht (Senat nach Paragraf 5 FGO, Einzelrichter nach Paragraf 6 FGO). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. 04 Steuerbescheid Prüfen
 
-Prüfung des angegriffenen Steuerbescheids: formelle Rechtmaessigkeit (Begründung Paragraf 121 AO, Bekanntgabe Paragraf 122), materielle Prüfung der Steuerart Werkstatt-Assistent für den Finanzrichter am Finanzgericht (Senat nach Paragraf 5 FGO, Einzelrichter nach Paragraf 6. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfung des angegriffenen Steuerbescheids: formelle Rechtmäßigkeit (Begründung Paragraf 121 AO, Bekanntgabe Paragraf 122), materielle Prüfung der Steuerart Werkstatt-Assistent für den Finanzrichter am Finanzgericht (Senat nach Paragraf 5 FGO, Einzelrichter nach Paragraf 6 FGO). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. 05 ESt Prüfungsschema
 
@@ -186,7 +186,7 @@ entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert ein
 
 ### 15.9. 09 Urteil Finanzgericht und Revision
 
-Urteil Paragraf 105 FGO: Tatbestand, Entscheidungsgründe, Tenor; Revision Paragraf 115 FGO an BFH (grundsaetzliche Bedeutung, Fortbildung des Rechts, Divergenz), Nichtzulassungsbeschwerde Werkstatt-Assistent für den Finanzrichter am Finanzgericht (Senat nach Paragraf 5 FGO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Urteil Paragraf 105 FGO: Tatbestand, Entscheidungsgründe, Tenor; Revision Paragraf 115 FGO an BFH (grundsätzliche Bedeutung, Fortbildung des Rechts, Divergenz), Nichtzulassungsbeschwerde Werkstatt-Assistent für den Finanzrichter am Finanzgericht (Senat nach Paragraf 5 FGO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. 10 Entscheidungsvorschlag Finanzgericht
 

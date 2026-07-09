@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Notarielle Form oder Registerfrist ist ungeklärt.
 - Organhaftung, Insolvenznaehe oder Interessenkonflikt steht im Raum.
 - Gesellschafterliste, Vollmacht oder Beschlussfassung ist widersprüchlich.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | GmbHG Paragraf 15 | Übertragung von Geschäftsanteilen | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | GmbHG Paragraf 43 | Sorgfalt und Verantwortlichkeit der Geschäftsfuehrer | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | AktG Paragraf 93 | Sorgfaltspflicht und Verantwortlichkeit des Vorstands | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| Paragraf 8 HGB | Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizitaet des | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| Paragraf 8 HGB | Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizität | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -72,7 +72,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | BGH, Urteil vom 29.01.2001 - II ZR 331/00 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen |
 | BGH, Urteil vom 04.07.2005 - II ZR 354/03 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Trihotel zur Existenzvernichtungshaftung |
 | BGH, Urteil vom 10.05.2016 - II ZR 342/14 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Gesellschafterliste und Legitimationswirkung sind für GmbH-Rechte zentral |
-| BGH, Urteil vom 20.09.2011 - II ZR 234/09 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Beschlussmängel in der GmbH folgen eigenstaendiger gesellschaftsrechtlicher Dogmatik |
+| BGH, Urteil vom 20.09.2011 - II ZR 234/09 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Beschlussmängel in der GmbH folgen eigenständiger gesellschaftsrechtlicher Dogmatik |
 | BGH, Urteil vom 26.01.2009 - II ZR 260/07 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Treuepflichten begrenzen gesellschaftsrechtliche Rechtsausübung |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
@@ -85,10 +85,10 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
 - GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsfuehrer.
 - AktG Paragraf 93: Sorgfaltspflicht und Verantwortlichkeit des Vorstands.
-- Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizitaet des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizität des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 8 HGB — Handelsregister: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 12 HGB — Anmeldungen und Einreichungen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 15 HGB — Publizitaet des Handelsregisters: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 15 HGB — Publizität des Handelsregisters: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 29 HGB — Anmeldung des Kaufmanns: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 106 HGB — Eintragung der OHG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 107 HGB — Anmeldepflichten Personengesellschaft: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -99,7 +99,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
 - BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
 - BGH, Urteil vom 10.05.2016 - II ZR 342/14: Gesellschafterliste und Legitimationswirkung sind für GmbH-Rechte zentral.
-- BGH, Urteil vom 20.09.2011 - II ZR 234/09: Beschlussmängel in der GmbH folgen eigenstaendiger gesellschaftsrechtlicher Dogmatik.
+- BGH, Urteil vom 20.09.2011 - II ZR 234/09: Beschlussmängel in der GmbH folgen eigenständiger gesellschaftsrechtlicher Dogmatik.
 - BGH, Urteil vom 26.01.2009 - II ZR 260/07: Treuepflichten begrenzen gesellschaftsrechtliche Rechtsausübung.
 
 ## 9. Prüfraster
@@ -156,27 +156,27 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichu
 
 ### 15.2. Auslandsurkunden registerfest machen
 
-Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizitaet des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizität des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Beanstandung und Zwischenverfügung beantworten
 
-Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizitaet des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizität des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Registerbekanntmachungen überwachen
 
-Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizitaet des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizität des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Chronologischen Auszug auswerten
 
-Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizitaet des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizität des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Registervollzug im Closing
 
-Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizitaet des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizität des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Eilrechtsschutz bei Registerstillstand
 
-Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizitaet des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizität des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Prozessvergleich mit Registerfolge
 
@@ -184,24 +184,24 @@ entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert ein
 
 ### 15.9. Erlaubnispflichten und Register
 
-Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizitaet des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizität des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Beschwerde
 
-Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizitaet des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizität des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Fehlerhafte Eintragung korrigieren
 
-Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizitaet des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizität des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Firma und Firmenbeanstandung
 
-Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizitaet des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizität des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Formwechsel Registercheck
 
-Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizitaet des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizität des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Fristen- und Vollzugslog
 
-Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizitaet des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizität des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns. - Paragraf 106 HGB — Eintragung der OHG. - Paragraf 107 HGB — Anmeldepflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

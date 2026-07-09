@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Verjährung, Ausschlussfrist oder Zuständigkeit ist unklar.
 - Fälligkeit, Zugang oder Abnahme ist nicht belegt.
 - GmbH-Gesellschafterhaftung wird ohne eigenständige Anspruchsgrundlage verfolgt.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -155,7 +155,7 @@ Wenn eine Forderung nicht weiterverfolgt wird braucht es einen sauberen Aktenver
 
 ### 15.5. Chronologie und Belegmatrix
 
-Jeder Schriftsatz steht und faellt mit der Belegkette. Diese Matrix verbindet Ereignisse mit Beweisen. - K eins K zwei Anlagen der Klägerin - B eins B zwei Anlagen der Beklagten - BK Beweisanlagen kombiniert - Im Text immer Bezugnahme z B Anlage K vier - ZPO 138 Wahrheitspflicht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Jeder Schriftsatz steht und fällt mit der Belegkette. Diese Matrix verbindet Ereignisse mit Beweisen. - K eins K zwei Anlagen der Klägerin - B eins B zwei Anlagen der Beklagten - BK Beweisanlagen kombiniert - Im Text immer Bezugnahme z B Anlage K vier - ZPO 138 Wahrheitspflicht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Dokumente Intake
 
@@ -191,4 +191,4 @@ Spezialfall Verbraucherklageinkasso und RDG-Grenzen: Massenforderungen, Sammelkl
 
 ### 15.14. Anwaltshonorar nach RVG
 
-Geltendmachung des Vergueetungsanspruchs des Rechtsanwalts gegen den Mandanten. RVG ist Rahmengesetz, VV-RVG enthaelt die Gebührentatbestaende. Pflicht-Formerfordernisse: 1. Schriftform (auch elektronisch mit qeS, Paragraf 126a BGB). 2. Bezeichnung als "Vergueetungsvereinbarung". Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Geltendmachung des Vergueetungsanspruchs des Rechtsanwalts gegen den Mandanten. RVG ist Rahmengesetz, VV-RVG enthält die Gebührentatbestände. Pflicht-Formerfordernisse: 1. Schriftform (auch elektronisch mit qeS, Paragraf 126a BGB). 2. Bezeichnung als "Vergueetungsvereinbarung". Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

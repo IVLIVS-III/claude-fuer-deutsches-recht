@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Weltraumrecht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du eine Raumfahrtaktivität nach Staatenzurechnung, Genehmigung, Registrierung, Haftung, Frequenz, Vertrag und Störungsrisiko ordnen.
 
 # Weltraumrecht — Schnellstart
 
@@ -17,42 +17,45 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Weltraumrecht: Absturz in Deutschland: Bergung, Eigentum, Beweis und Staatshaftung: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-2. Weltraumrecht: Amateurfunk-Satellit und Frequenznutzung: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-3. Anti-Satellite-Test-Ban und Orbital-Debris-Pledge: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-4. Weltraumrecht: Arbeitsrecht: Missionskontrolle, Schichtbetrieb, Sicherheit: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-5. Weltraumrecht: Artemis Accords und Verhältnis zu UN-Verträgen: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-6. Weltraumrecht: Astronautenausbildung: Vertrag, Haftung, Versicherung, Fürsorge: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
+1. Mission und Rollen: Betreiber, Eigentümer, Hersteller, Startdienstleister, Startstaat, Registerstaat, Nutzlast, Orbit und Bodenstation erfassen.
+2. Genehmigung und Aufsicht: nationale Zuständigkeit, private Tätigkeit, Sicherheitsprüfung, Erdfernerkundung, Frequenz und Exportkontrolle trennen.
+3. Registrierung und Kontrolle: Weltraumgegenstand, Startdaten, Registereintrag, Hoheitsgewalt, Eigentumswechsel und Rückgabeanspruch dokumentieren.
+4. Haftung und Störung: Schadensort, Startstaaten, Gefährdungs- oder Verschuldensmaßstab, Kausalität, Weltraummüll, Kollisionswarnung und Konsultation prüfen.
+5. Arbeitsprodukt: Missionsrechtsmatrix, Genehmigungsfahrplan, Registermeldung, Haftungsmemo, Startvertrag, Frequenzvermerk oder Behördenanfrage erstellen.
+6. Weltraumrecht: Absturz in Deutschland: Bergung, Eigentum, Beweis und Staatshaftung: Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | aus Akte und belastbarer Quelle ableiten |
+| Normenanker | Weltraumvertrag Artikel I und Artikel II; Weltraumvertrag Artikel VI; Weltraumvertrag Artikel VII und Artikel VIII |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden |
+| Beweislast | Anspruchsteller oder Staat für Gegenstand, Ereignis, Schaden und Kausalität; Betreiber und Startstaaten für Genehmigung, Aufsicht, Registrierung und Entlastung |
+| Rechtsfolge | Missionsrechtsmatrix, Genehmigungsfahrplan, Registermeldung, Haftungsmemo, Startvertragsklausel oder Frequenzvermerk |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Weltraumrecht: Absturz in Deutschland: Bergung, Eigentum, Beweis und Staatshaftung | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Weltraumrecht: Amateurfunk-Satellit und Frequenznutzung | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anti-Satellite-Test-Ban und Orbital-Debris-Pledge | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Weltraumrecht: Arbeitsrecht: Missionskontrolle, Schichtbetrieb, Sicherheit | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Weltraumrecht: Artemis Accords und Verhältnis zu UN-Verträgen | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Weltraumrecht: Astronautenausbildung: Vertrag, Haftung, Versicherung, Fürsorge | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Weltraumrecht: Absturz in Deutschland: Bergung, Eigentum, Beweis und Staatshaftung | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Weltraumrecht: Amateurfunk-Satellit und Frequenznutzung | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anti-Satellite-Test-Ban und Orbital-Debris-Pledge | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Weltraumrecht: Arbeitsrecht: Missionskontrolle, Schichtbetrieb, Sicherheit | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Weltraumrecht: Artemis Accords und Verhältnis zu UN-Verträgen | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Weltraumrecht: Astronautenausbildung: Vertrag, Haftung, Versicherung, Fürsorge | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- Normen und Entscheidungen aus den vorgelegten Unterlagen oder einer belastbaren Quelle ableiten; Aktenzeichen nicht ergänzen, wenn sie nicht sicher belegt sind.
+- Weltraumvertrag Artikel I und Artikel II: freie Erforschung und Nutzung sowie Verbot nationaler Aneignung.
+- Weltraumvertrag Artikel VI: internationale Verantwortung für staatliche und private Tätigkeiten sowie Genehmigung und fortlaufende Aufsicht.
+- Weltraumvertrag Artikel VII und Artikel VIII: Haftungsanknüpfung, Registrierung, Hoheitsgewalt, Kontrolle und Eigentum am Weltraumgegenstand.
+- Weltraumvertrag Artikel IX: Rücksichtnahme, Vermeidung schädlicher Kontamination und Konsultation bei potenziell schädlicher Störung.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Weltraumrecht: Absturz in Deutschland: Bergung, Eigentum, Beweis und Staatshaftung, Weltraumrecht: Amateurfunk-Satellit und Frequenznutzung, Anti-Satellite-Test-Ban und Orbital-Debris-Pledge, Weltraumrecht: Arbeitsrecht: Missionskontrolle, Schichtbetrieb, Sicherheit: Kurzvermerk, Prüfmatrix.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Missionsmatrix: Akteur, Staat, Tätigkeit, Weltraumgegenstand, Genehmigung, Register, Frequenz, Vertrag, Haftung und Nachweis; Haftungsblatt: Schadensort, Startstaaten, Gegenstand, Kausalität, Maßstab, Anspruchskanal, Beleg und Einwand.
 
 ## 8. Stop
 

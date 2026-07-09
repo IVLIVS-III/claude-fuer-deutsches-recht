@@ -57,7 +57,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 128 SGG: Entscheidung nach freier Überzeugung verlangt nachvollziehbare Würdigung des Gesamtergebnisses: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 86b SGG: Eilrechtsschutz verlangt Anordnungsanspruch, Anordnungsgrund oder Interessenabwägung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09: existenzsichernde Leistungen müssen transparent und realitätsgerecht bemessen sein.
-- BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhaeltnismaessigkeitskontrolle.
+- BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhältnismaessigkeitskontrolle.
 - BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98, BVerfGE 115, 25: Bei lebensbedrohlicher Erkrankung kann ausnahmsweise ein Anspruch auf neue Behandlungsmethoden bestehen
 - BSG, Urteil vom 28.05.2019 - B 1 KR 32/18 R, frei nachweisbar über sozialgerichtsbarkeit.de/dejure: Krankenhausbehandlung und neue Methoden verlangen die Abgrenzung von Standard, Potential
 

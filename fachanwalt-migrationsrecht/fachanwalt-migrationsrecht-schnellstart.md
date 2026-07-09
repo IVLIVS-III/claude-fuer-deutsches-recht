@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Fachanwalt Migrationsrecht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Verwaltungsakt anfechten und vorläufigen Rechtsschutz erreichen.
 
 # Fachanwalt Migrationsrecht — Schnellstart
 
@@ -17,44 +17,47 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abschiebehaft Paragraf 62 AufenthG: Prüfe Abschiebehaft Paragraf 62 AufenthG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm.
-2. Abschiebung abwehren — Duldung Paragraf 60a AufenthG Abschiebungsverbote Paragraf 60 Abs: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-3. Abschiebungshaft: Fachmodul im Migrationsrecht: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-4. Abschiebungsverbot Paragraf 60 Abs: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-5. Akteneinsicht Migration: Fachmodul im Migrationsrecht: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-6. Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
+1. Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen.
+2. Zulässigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
+3. Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen.
+4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
+5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
+6. Abschiebehaft Paragraf 62 AufenthG: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | VwGO-Klage gegen ausländerbehördliche Bescheide; Paragraf 60 Abs. 5 AufenthG; Paragraf 123 VwGO |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Prüfe Abschiebehaft Paragraf 62 AufenthG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Normenanker | VwVfG Paragraf 35; VwVfG Paragraf 28; VwVfG Paragraf 40 |
+| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 |
+| Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
+| Beweislast | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit |
+| Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abschiebehaft Paragraf 62 AufenthG | Prüfe Abschiebehaft Paragraf 62 AufenthG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschiebung abwehren — Duldung Paragraf 60a AufenthG Abschiebungsverbote Paragraf 60 Abs | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschiebungshaft: Fachmodul im Migrationsrecht | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschiebungsverbot Paragraf 60 Abs | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Akteneinsicht Migration: Fachmodul im Migrationsrecht | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschiebehaft Paragraf 62 AufenthG | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschiebung abwehren — Duldung Paragraf 60a AufenthG Abschiebungsverbote Paragraf 60 Abs | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschiebungshaft: Fachmodul im Migrationsrecht | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abschiebungsverbot Paragraf 60 Abs | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Akteneinsicht Migration: Fachmodul im Migrationsrecht | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
+- VwVfG Paragraf 28: Anhörung Beteiligter.
+- VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
+- VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
 - VwGO-Klage gegen ausländerbehördliche Bescheide: ein Monat Paragraf 74 VwGO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 60 Abs. 5 AufenthG — Abschiebungsverbot Art. 3 EMRK; Paragraf 60 Abs. 7 — konkrete Leibes- und Lebensgefahr: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 123 VwGO — Einstweilige Anordnung bei Anspruch auf Duldung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 80 Abs. 5 VwGO — Antrag auf Wiederherstellung / Anordnung der aufschiebenden Wirkung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 71 AsylG — Asylfolgeantrag bei neuen Wiederaufgreifensgründen (Paragraf 51 VwVfG): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 6 GG / Art. 8 EMRK — Familienschutz als inlandsbezogenes Vollstreckungshindernis: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 920 Abs. 2 ZPO iVm Paragraf 123 Abs. 3 VwGO durch beigefuegte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
+- BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
 
 ## 7. Antwortform
 

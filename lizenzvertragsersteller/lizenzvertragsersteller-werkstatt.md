@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Widerrufs-, Verjährungs-, Rüge- oder Gewährleistungsfrist ist unklar.
 - AGB-Kontrolle wird ohne Einbeziehung und Verwenderrolle begonnen.
 - Mangelrechte werden geprüft, ohne Nacherfüllungsverlangen, Fristsetzung, Abnahme oder Gefahrübergang zu klären.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -150,7 +150,7 @@ klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; lie
 
 ### 15.3. Escrow / Quellcode-Verwahrer-Vereinbarung
 
-Lizenznehmer macht sich von der Software des Lizenzgebers abhängig. Bei Ausfall des Lizenzgebers (Insolvenz, Geschäftsaufgabe) braucht der Lizenznehmer Zugriff auf Source Code, um den Betrieb fortzufuehren. Loesung: Drei-Parteien-Escrow-Vertrag. ` +---------------+. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Lizenznehmer macht sich von der Software des Lizenzgebers abhängig. Bei Ausfall des Lizenzgebers (Insolvenz, Geschäftsaufgabe) braucht der Lizenznehmer Zugriff auf Source Code, um den Betrieb fortzufuehren. Lösung: Drei-Parteien-Escrow-Vertrag. ` +---------------+. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Exportkontrolle — Dual-Use und Lizenz
 
@@ -158,7 +158,7 @@ zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert e
 
 ### 15.5. Insolvenz-Fortbestand der Lizenz ($ 103 InsO)
 
-Wird der Lizenzgeber insolvent, hat der Insolvenzverwalter nach $ 103 InsO das Wahlrecht: - Erfuellung verlangen (Lizenz besteht fort) oder - Erfuellung verweigern (Lizenz endet; Schadensersatzanspruch des Lizenznehmers ist nachrangige Insolvenzforderung). Praxis: Verwalter. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Wird der Lizenzgeber insolvent, hat der Insolvenzverwalter nach $ 103 InsO das Wahlrecht: - Erfüllung verlangen (Lizenz besteht fort) oder - Erfüllung verweigern (Lizenz endet; Schadensersatzanspruch des Lizenznehmers ist nachrangige Insolvenzforderung). Praxis: Verwalter wählen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. IP-Identifikation und Bestandsaufnahme
 
@@ -178,7 +178,7 @@ Lizenzgeber garantiert, dass: 1. Lizenzgegenstand existiert 2. Lizenzgeber allei
 
 ### 15.10. Klausel Lizenzgegenstand + Anlage A
 
-Praezision schlaegt Generalformulierung. Wer den Lizenzgegenstand vage haelt ("alle IP, die der Lizenzgeber besitzt"), riskiert später Streit über Zugehoerigkeit. ` ANLAGE A — LIZENZGEGENSTAND ========================== A.1 Patente A.2 Marken A.3 Software A.4 Know-how ] $ 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Praezision schlaegt Generalformulierung. Wer den Lizenzgegenstand vage haelt ("alle IP, die der Lizenzgeber besitzt"), riskiert später Streit über Zugehörigkeit. ` ANLAGE A — LIZENZGEGENSTAND ========================== A.1 Patente A.2 Marken A.3 Software A.4 Know-how ] $ 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Klausel Lizenzumfang — Territorium, Zeit, Feld
 
@@ -194,4 +194,4 @@ A. Standard Deutsches Recht / DIS-Schiedsgericht: ] "$ 15 Rechtswahl und Streitb
 
 ### 15.14. Klausel Unterlizenzen (Sub-Licensing)
 
-$ 35 UrhG - Einraeumung weiterer Nutzungsrechte; bedarf der Zustimmung des Urhebers (im Zweifel) - $ 30 MarkenG analog - Sublizenz markenrechtlich grundsätzlich zulässig, sofern Lizenz selbst Sublizenzrecht vorsieht - $ 15 PatG analog - Patentlizenz mit Sublizenzrecht zulässig. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+$ 35 UrhG - Einräumung weiterer Nutzungsrechte; bedarf der Zustimmung des Urhebers (im Zweifel) - $ 30 MarkenG analog - Sublizenz markenrechtlich grundsätzlich zulässig, sofern Lizenz selbst Sublizenzrecht vorsieht - $ 15 PatG analog - Patentlizenz mit Sublizenzrecht zulässig. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

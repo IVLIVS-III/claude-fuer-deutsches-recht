@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Haft, Durchsuchung, Beschlagnahme oder Aussageentscheidung steht unmittelbar an.
 - Pflichtverteidigung liegt nahe und ist nicht geklärt.
 - Ein Geständnis oder eine Verständigung wird ohne Aktenkenntnis erwogen.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -200,7 +200,7 @@ Freiheitsstrafe ohne Bewährung. Anrechnung Untersuchungshaft und Auslieferungsh
 
 ### 15.13. Freiheitsstrafe — Strafmass prüfen
 
-Konkrete Zumessung der Freiheitsstrafe nach Paragrafen 38 39 46 StGB. Strafrahmen prüfen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewährung (Paragraf 56 StGB) und Aussetzung des Strafrests (Paragraf 57 StGB). Faustwerte für typische Tatbestaende. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Konkrete Zumessung der Freiheitsstrafe nach Paragrafen 38 39 46 StGB. Strafrahmen prüfen, Strafhöhe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewährung (Paragraf 56 StGB) und Aussetzung des Strafrests (Paragraf 57 StGB). Faustwerte für typische Tatbestände. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Geldstrafe: Zahlen, Schwellenwerte und Berechnung
 

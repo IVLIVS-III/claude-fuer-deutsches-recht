@@ -17,10 +17,10 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 ## 2. Stop-Kriterien
 
 - Ein Sanktions- oder Exportkontrolltreffer steht im Raum; dann zuerst Compliance-Prüfung, kein Vollzugsschritt.
-- Fristen nach auslaendischem Recht oder Zustellungswege sind ungeklärt; dann zuerst Fristsicherung im sichersten Forum.
-- Der Inhalt des berufenen auslaendischen Rechts ist unbekannt; dann Ermittlungsweg vorschlagen statt Inhalte zu unterstellen.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Fristen nach ausländischem Recht oder Zustellungswege sind ungeklärt; dann zuerst Fristsicherung im sichersten Forum.
+- Der Inhalt des berufenen ausländischen Rechts ist unbekannt; dann Ermittlungsweg vorschlagen statt Inhalte zu unterstellen.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -28,7 +28,7 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-### 3.2. Forum: internationale Zuständigkeit prüfen (Bruessel-Ia-VO, Gerichtsstandsklausel, Schiedsvereinbarung); Torpedo.
+### 3.2. Forum: internationale Zuständigkeit prüfen (Brüssel-Ia-VO, Gerichtsstandsklausel, Schiedsvereinbarung); Torpedo.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
@@ -36,7 +36,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-### 3.4. Materielle Prüfung nach dem berufenen Recht: bei auslaendischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte.
+### 3.4. Materielle Prüfung nach dem berufenen Recht: bei ausländischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
@@ -48,54 +48,52 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Allgemeine Genehmigungen: Finder und Nutzungsbedingungen für Exportkontrolle | Bruessel-Ia-VO Artikel 4, 7 und 25; Rechtsprechung nur fallbezogen und nach Live-Verifikation | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Allgemeine Genehmigungen: Finder und Nutzungsbedingungen für Exportkontrolle | Brüssel-Ia-VO Artikel 4, 7 und 25; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Rom-I-VO Artikel 3 und 4 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Asset Freeze: Sofortmaßnahmen beim Einfrieren sanktionierten Vermögens | Rom-I-VO Artikel 3 und 4; Rechtsprechung nur fallbezogen und nach Live-Verifikation | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Asset Freeze: Sofortmaßnahmen beim Einfrieren sanktionierten Vermögens | Rom-I-VO Artikel 3 und 4; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
 
 | Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
 | --- | --- | --- | --- |
-| Bruessel-Ia-VO Artikel 4, 7 und 25 | allgemeiner und besonderer Gerichtsstand sowie Gerichtsstandsvereinbarung | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
-| Rom-I-VO Artikel 3 und 4 | Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhaeltnisse; Artikel 9: Eingriffsnormen | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
-| Rom-II-VO Artikel 4 | Erfolgsortanknüpfung außervertraglicher Schuldverhaeltnisse | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
+| Brüssel-Ia-VO Artikel 4, 7 und 25 | allgemeiner und besonderer Gerichtsstand sowie Gerichtsstandsvereinbarung | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
+| Rom-I-VO Artikel 3 und 4 | Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhältnisse; Artikel 9: Eingriffsnormen | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
+| Rom-II-VO Artikel 4 | Erfolgsortanknüpfung außervertraglicher Schuldverhältnisse | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 | CISG Artikel 1 und 6 | Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74 | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 | New Yorker Übereinkommen Artikel II und V | Schiedsvereinbarung und Anerkennungsversagungsgründe | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
-| ZPO Paragraf 293 | Ermittlung auslaendischen Rechts durch das Gericht | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
-| Paragrafen 10-17 GwG | Kundensorgfaltspflichten, UBO-Ermittlung, Hochrisikofaelle | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
+| ZPO Paragraf 293 | Ermittlung ausländischen Rechts durch das Gericht | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
+| Paragrafen 10-17 GwG | Kundensorgfaltspflichten, UBO-Ermittlung, Hochrisikofälle | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| Rechtsprechung nur fallbezogen und nach Live-Verifikation an amtlicher oder frei zugänglicher Quelle | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Rechtsprechung nur fallbezogen und nach Live-Verifikation an amtlicher oder frei zugänglicher Quelle zitieren; nicht |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
 ## 7. Pflichtnormen als Kernsätze
 
-- Bruessel-Ia-VO Artikel 4, 7 und 25: allgemeiner und besonderer Gerichtsstand sowie Gerichtsstandsvereinbarung.
-- Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhaeltnisse; Artikel 9: Eingriffsnormen.
-- Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhaeltnisse.
+- Brüssel-Ia-VO Artikel 4, 7 und 25: allgemeiner und besonderer Gerichtsstand sowie Gerichtsstandsvereinbarung.
+- Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhältnisse; Artikel 9: Eingriffsnormen.
+- Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhältnisse.
 - CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
 - New Yorker Übereinkommen Artikel II und V: Schiedsvereinbarung und Anerkennungsversagungsgründe.
-- ZPO Paragraf 293: Ermittlung auslaendischen Rechts durch das Gericht.
-- Paragrafen 10-17 GwG: Kundensorgfaltspflichten, UBO-Ermittlung, Hochrisikofaelle: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- ZPO Paragraf 293: Ermittlung ausländischen Rechts durch das Gericht.
+- Paragrafen 10-17 GwG: Kundensorgfaltspflichten, UBO-Ermittlung, Hochrisikofälle: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 43 GwG: Verdachtsmeldepflicht an FIU: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 10-14 GwG — Kundensorgfaltspflichten (KYC), vereinfachte, standard, verstaerkte: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 10-14 GwG — Kundensorgfaltspflichten (KYC), vereinfachte, standard, verstärkte: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- Rechtsprechung nur fallbezogen und nach Live-Verifikation an amtlicher oder frei zugänglicher Quelle zitieren; nicht verifizierte Aktenzeichen weglassen statt verwenden.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
 1. Welche Klausel regelt Forum und Recht, und ist sie wirksam vereinbart.
 2. Welches Gericht oder Schiedsgericht ist zuständig, und wo droht ein Parallelverfahren.
 3. Welches Sachrecht ist berufen, und gilt CISG oder nationales Recht.
-4. Wie wird der Inhalt auslaendischen Rechts belastbar ermittelt.
-5. Wo wird vollstreckt, und welche Anerkennungs-, Zustellungs- oder Sanktionshuerde steht davor.
+4. Wie wird der Inhalt ausländischen Rechts belastbar ermittelt.
+5. Wo wird vollstreckt, und welche Anerkennungs-, Zustellungs- oder Sanktionshürde steht davor.
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
@@ -113,7 +111,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Wunsch | Ausgabe | Mindestinhalt |
 | --- | --- | --- |
-| schnell entscheiden | Kurzvermerk | Fallkern, Bruessel-Ia-VO Artikel 4, 7 und 25; Rom-I-VO Artikel 3 und 4, Risiko, nächster Schritt |
+| schnell entscheiden | Kurzvermerk | Fallkern, Brüssel-Ia-VO Artikel 4, 7 und 25; Rom-I-VO Artikel 3 und 4, Risiko, nächster Schritt |
 | vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument, Rechtsfolge |
 | versenden | Entwurf | Antrag oder Tenor, Begründung, Anlagen, Frist, Zustellungsweg |
 | beraten | Mandantenbrief | Ergebnis, Optionen, Kosten-/Zeitrisiko, Empfehlung |
@@ -143,7 +141,7 @@ Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zu
 
 ### 15.2. Asset Freeze: Sofortmaßnahmen beim Einfrieren sanktionierten Vermögens
 
-Sofortmaßnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis: Einfrieren von Geldern und wirtschaftlichen Ressourcen nach Art. 2 VO (EU) 269/2014 und Art. 4 VO (EU) 833/2014. Checkliste für Banken, Notare und Unternehmen: Identifizierung sanktionierbarer. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Sofortmaßnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhältnis: Einfrieren von Geldern und wirtschaftlichen Ressourcen nach Art. 2 VO (EU) 269/2014 und Art. 4 VO (EU) 833/2014. Checkliste für Banken, Notare und Unternehmen: Identifizierung sanktionierbarer. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Abfallverbringung: Grenzüberschreitende Entsorgung und Notifizierungsverfahren
 
@@ -159,7 +157,7 @@ Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zu
 
 ### 15.6. Allgemeingenehmigung AGG Finder
 
-Dieser Skill behandelt Allgemeingenehmigung AGG Finder als operativen Workflow für Unternehmen, Kanzleien und Rechtsabteilungen. Er ist für Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Skill behandelt Allgemeingenehmigung AGG Finder als operativen Workflow für Unternehmen, Kanzleien und Rechtsabteilungen. Er ist für Fälle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. AML/KYC und Sanktionen: Risikobasierte Kundenprüfung und Sanktionsscreening
 
@@ -183,7 +181,7 @@ rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine 
 
 ### 15.12. Asset Freeze Sofortmaßnahmen
 
-Dieser Skill behandelt Asset Freeze Sofortmaßnahmen als operativen Workflow für Unternehmen, Kanzleien und Rechtsabteilungen. Er ist für Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Skill behandelt Asset Freeze Sofortmaßnahmen als operativen Workflow für Unternehmen, Kanzleien und Rechtsabteilungen. Er ist für Fälle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. ATLAS-Ausfuhranmeldung: Qualitätscheck und Fehlerkorrektur
 

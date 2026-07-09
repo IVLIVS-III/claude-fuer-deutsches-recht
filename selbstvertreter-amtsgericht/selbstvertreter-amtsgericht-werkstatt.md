@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Frist, Zuständigkeit oder elektronischer Einreichungsweg ist unklar.
 - Antrag und Lebenssachverhalt passen nicht zusammen.
 - Beweisfrage wird vor Schlüssigkeit und Erheblichkeit bearbeitet.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -87,7 +87,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 535 BGB — Mietvertrag: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 280 BGB — Schadensersatz wegen Pflichtverletzung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 281 BGB — Schadensersatz statt Leistung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 311a BGB — Schadensersatz bei anfaenglicher Unmöglichkeit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 311a BGB — Schadensersatz bei anfänglicher Unmöglichkeit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 311 II BGB i. V. m. Paragraf 280 BGB — Schadensersatz aus c.i.c: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 677 ff. BGB — Geschäftsführung ohne Auftrag (GoA): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
@@ -153,7 +153,7 @@ Wenn Sie Beweisstuecke (Anlagen) einreichen, sollten diese einheitlich beschrift
 
 ### 15.3. Welche Norm trägt Ihren Anspruch?
 
-Jede Klage braucht eine Anspruchsgrundlage — eine Norm im BGB oder Spezialgesetz, die Ihren Anspruch rechtfertigt. Ohne Anspruchsgrundlage ist die Klage unschluessig (= sie scheitert schon an sich, ohne dass das Gericht in den Sachvortrag einsteigt). Diese Skill führt Sie durch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Jede Klage braucht eine Anspruchsgrundlage — eine Norm im BGB oder Spezialgesetz, die Ihren Anspruch rechtfertigt. Ohne Anspruchsgrundlage ist die Klage unschlüssig (= sie scheitert schon an sich, ohne dass das Gericht in den Sachvortrag einsteigt). Diese Skill führt Sie durch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Brauche ich vor dem Amtsgericht einen Anwalt?
 

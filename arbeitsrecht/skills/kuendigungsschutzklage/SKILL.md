@@ -37,7 +37,7 @@ Dieser Skill macht aus einer Kündigung und einer Personalakte einen klagefähig
 ## Leitentscheidungen
 
 - BAG Großer Senat, Beschluss vom 27.02.1985, GS 1/84: Der allgemeine Weiterbeschäftigungsanspruch kann nach erstinstanzlichem Obsiegen bestehen, wenn keine überwiegenden Arbeitgeberinteressen entgegenstehen.
-- BAG, Urteil vom 24.08.2023, 2 AZR 17/23: Verhaltensbedingte Kündigung verlangt eine tragfähige Interessenabwägung und die Prüfung milderer Mittel.
+- BAG, Urteil vom 24.08.2023, 2 AZR 17/23: Bei beleidigenden Äußerungen in einer Chatgruppe hängt eine berechtigte Vertraulichkeitserwartung von Größe, Zusammensetzung, Beteiligung und Medium ab; der Arbeitnehmer muss die dafür sprechenden Umstände darlegen.
 - BVerfG, Beschluss vom 06.06.2018, 1 BvL 7/14 und 1 BvR 1375/14: Befristungskontrolle und Bestandsschutz sind in das grundrechtlich geschützte Arbeitsverhältnis einzuordnen.
 
 ## Arbeitsprodukt

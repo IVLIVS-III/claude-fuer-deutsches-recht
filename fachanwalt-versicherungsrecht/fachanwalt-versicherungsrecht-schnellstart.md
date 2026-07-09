@@ -18,7 +18,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 ## 3. Kernroute
 
 1. Vertrag und Sparte: Versicherungsart, Versicherungsnehmer, versicherte Person, Risiko, Laufzeit und Bedingungen erfassen.
-2. Versicherungsfall: Eintritt, Anzeige, Schadenhoehe, Kausalitaet, Ausschluss und Beweislast ordnen.
+2. Versicherungsfall: Eintritt, Anzeige, Schadenhoehe, Kausalität, Ausschluss und Beweislast ordnen.
 3. Obliegenheiten: vorvertragliche Anzeige, Gefahrerhoehung, Schadenanzeige, Mitwirkung und Rechtsfolgenbelehrung prüfen.
 4. Deckung und Regulierung: Leistungsentscheidung, Quote, Regress, Verjährung und Prozessrisiko ausarbeiten.
 5. Arbeitsprodukt: Deckungsmemo, Anspruchsschreiben, Ablehnungsschreiben, Vergleichsvorschlag oder Klageentwurf formulieren.
@@ -44,7 +44,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Berufsunfähigkeit Paragraf 172 VVG | Prüfe Berufsunfähigkeit Paragraf 172 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und Geldwäscherecht | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Prüfung von Versicherungsschadenfaellen und Deckungsablehnungen nach VVG | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Prüfung von Versicherungsschadenfällen und Deckungsablehnungen nach VVG | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -57,7 +57,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 22.06.2011 - IV ZR 225/10: Beratungspflichten im Versicherungsvertrieb verlangen anlassbezogene, dokumentierbare Bedarfsermittlung.
-- BGH, Urteil vom 12.03.2014 - IV ZR 306/13: Obliegenheitsverletzungen sind nach Kausalitaet, Verschulden und Belehrung zu prüfen.
+- BGH, Urteil vom 12.03.2014 - IV ZR 306/13: Obliegenheitsverletzungen sind nach Kausalität, Verschulden und Belehrung zu prüfen.
 - BGH IV ZR 153/20, Urt. v. 14.7.2021 — Versicherungsfall BU: Eintritt erst nach Ablauf des sechs-monatigen Prognosezeitraums. Quelle: juris.bundesgerichtshof.de
 - BGH IV ZR 19/18, Urt. v. 26.6.2019 — Vergleichsverweisung; tatsächlich erzieltes Einkommen ist nicht ohne Weiteres auf Vergleichszeitpunkt fortzuschreiben. Quelle: juris.bundesgerichtshof.de
 - BGH IV ZR 32/24, Urt. v. 12.3.2025 — Krankentagegeldversicherung: einseitige Tagessatz-Herabsetzung durch Klauselersetzung nach Paragraf 164 Abs. 1 VVG unzulässig; Bedeutung auch für Bedingungswechsel

@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Internal Investigations Praxis ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Tatvorwurf entlang von Beweiswürdigung und Strafzumessung durchdringen und einen verwertbaren Schriftsatz bauen.
 
 # Internal Investigations Praxis — Schnellstart
 
@@ -17,44 +17,47 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Bilanzierungsunregelmäßigkeiten und Accounting-Forensik: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-2. Kaltstart Internal Investigation: Dieser Skill führt nicht schematisch durch Kaltstart Internal Investigation, sondern zwingt zu einer prüfbaren.
-3. Arbeitsrechtliche Mitwirkungspflichten: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-4. abrufen Committee in Internal Investigations: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-5. Untersuchungsauftrag und Scope: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie.
-6. BaFin-Prüfungsfeststellungen und Bankregulatorik: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
+1. Blitz-Zergliederung: jeden Tatkomplex als Zeile erfassen mit Vorwurf, Norm, Beweismitteln, Einlassung und laufenden Fristen; Verfahrensstand und Beschuldigtenstatus benennen.
+2. Beweise und Einlassung: Zeugen, Urkunden, Sachverständige, digitale Spuren und Schweigerechte trennen; Belastbarkeit und Verwertbarkeit je Beweismittel bewerten.
+3. Tatbestand: objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung prüfen; je Merkmal die tragende Tatsache benennen.
+4. Prozessuales: Zuständigkeit, Verwertungsverbote, Fristen, Pflichtverteidigung und Anträge vorbereiten; den nächsten fristwahrenden Schritt zuerst.
+5. Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative.
+6. Bilanzierungsunregelmäßigkeiten und Accounting-Forensik: Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 321 HGB; Paragraf 331 HGB, Paragraf 400 AktG; Paragraf 93 Abs. 2 AktG |
-| Rechtsprechung | BAG, Urt. v. 23.10.2008 – 2 AZR 483/07 |
-| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Normenanker | StPO Paragraf 152 Absatz 2; StPO Paragraf 160; StPO Paragraf 170 |
+| Rechtsprechung | BGH, Urteil vom 30.07.1999 - 1 StR 618/98; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 |
+| Tatbestand | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen |
+| Beweislast | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff |
+| Rechtsfolge | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Bilanzierungsunregelmäßigkeiten und Accounting-Forensik | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kaltstart Internal Investigation | Dieser Skill führt nicht schematisch durch Kaltstart Internal Investigation, sondern zwingt zu einer prüfbaren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsrechtliche Mitwirkungspflichten | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| abrufen Committee in Internal Investigations | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Untersuchungsauftrag und Scope | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| BaFin-Prüfungsfeststellungen und Bankregulatorik | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bilanzierungsunregelmäßigkeiten und Accounting-Forensik | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kaltstart Internal Investigation | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsrechtliche Mitwirkungspflichten | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| abrufen Committee in Internal Investigations | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Untersuchungsauftrag und Scope | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| BaFin-Prüfungsfeststellungen und Bankregulatorik | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- StPO Paragraf 152 Absatz 2: Legalitätsprinzip und Anfangsverdacht.
+- StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
+- StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
+- StPO Paragraf 261: freie richterliche Beweiswürdigung.
 - Paragraf 321 HGB: Abschlussprüfer hat Unregelmäßigkeiten im Prüfungsbericht zu beschreiben: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 331 HGB, Paragraf 400 AktG: Freiheitsstrafe bis 3 Jahre oder Geldstrafe für Vorstand/Aufsichtsrat: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 93 Abs. 2 AktG: Schadensersatz der Gesellschaft gegen Vorstandsmitglieder: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 242 BGB: allgemeine Treuepflicht aus dem Arbeitsverhältnis: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 666 BGB: Auskunftspflicht für Tätigkeiten, die der Mitarbeiter für den Arbeitgeber ausgeführt hat: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 611a BGB i. V. m. Arbeitsvertrag: Pflicht zur Unterstützung bei betriebsinternen Untersuchungen, soweit dies zumutbar ist: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 107 Abs. 3 S. 4 AktG: Ausschussvorsitzender berichtet dem Aufsichtsrat über die Tätigkeit des Ausschusses: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Aussage-gegen-Aussage verlangt besonders sorgfältige Gesamtwürdigung.
+- BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Konstanz, Entstehung und Belastungsmotive sind bei Aussageanalyse zu würdigen.
 - BAG, Urt. v. 23.10.2008 – 2 AZR 483/07: Kündigung wegen Aussageverweigerung kann unverhältnismäßig sein, wenn berechtigte Selbstbelastungsgefahr besteht
 
 ## 7. Antwortform

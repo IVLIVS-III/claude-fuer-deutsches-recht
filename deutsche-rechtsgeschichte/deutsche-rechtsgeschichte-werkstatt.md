@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Frist oder Form kann nicht sicher bestimmt werden.
 - Tatsachen sind für eine tragende Subsumtion unzureichend.
 - Strafrechtliche, insolvenzrechtliche oder berufsrechtliche Nebenrisiken sind erkennbar.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -57,9 +57,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
 | --- | --- | --- | --- |
-| Art. 20 Abs. 3 GG | rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Art. 20 Abs. 3 GG | rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwürde als Zäsur | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Art. 20 Abs. 3 GG | rechtsstaatlicher Gegenwartsanker | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
-| Art. 1 Abs. 1 GG | Menschenwuerde als Zäsur- und Kontinuitaetsmassstab | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Art. 1 Abs. 1 GG | Menschenwürde als Zäsur- und Kontinuitätsmassstab | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Art. 123 Abs. 1 GG | Fortgeltung vorkonstitutionellen Rechts | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Art. 125 GG | Fortgeltung als Bundesrecht | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Art. 126 GG | Meinungsverschiedenheiten über Fortgeltung | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -73,9 +73,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 7. Pflichtnormen als Kernsätze
 
-- Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab. - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwürde als Zäsur- und Kontinuitätsmassstab. - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 1 Abs. 1 GG — Menschenwürde als Zäsur- und Kontinuitätsmassstab: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen Rechts: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 125 GG — Fortgeltung als Bundesrecht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 126 GG — Meinungsverschiedenheiten über Fortgeltung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -136,7 +136,7 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Abschlussmemo historische Tragfähigkeit
 
-Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab. - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen Rechts. - Art. 125 GG — Fortgeltung als Bundesrecht. - Art. 126 GG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwürde als Zäsur- und Kontinuitätsmassstab. - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen Rechts. - Art. 125 GG — Fortgeltung als Bundesrecht. - Art. 126 GG — Meinungsverschiedenheiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Aktenanalyse: Historische Fallakte
 
@@ -144,15 +144,15 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittste
 
 ### 15.3. Arbeitsgerichtsbarkeit Geschichte
 
-Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab. - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen Rechts. - Art. 125 GG — Fortgeltung als Bundesrecht. - Art. 126 GG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwürde als Zäsur- und Kontinuitätsmassstab. - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen Rechts. - Art. 125 GG — Fortgeltung als Bundesrecht. - Art. 126 GG — Meinungsverschiedenheiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Arbeitsrecht: von der Gewerbeordnung bis zum BetrVG
 
-Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab. - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen Rechts. - Art. 125 GG — Fortgeltung als Bundesrecht. - Art. 126 GG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwürde als Zäsur- und Kontinuitätsmassstab. - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen Rechts. - Art. 125 GG — Fortgeltung als Bundesrecht. - Art. 126 GG — Meinungsverschiedenheiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Archivfund
 
-Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab. - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen Rechts. - Art. 125 GG — Fortgeltung als Bundesrecht. - Art. 126 GG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwürde als Zäsur- und Kontinuitätsmassstab. - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen Rechts. - Art. 125 GG — Fortgeltung als Bundesrecht. - Art. 126 GG — Meinungsverschiedenheiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. BGB 1900 und die soziale Frage
 
@@ -160,15 +160,15 @@ Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Q
 
 ### 15.7. BGB Entstehung und Materialien (1874-1900)
 
-Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab. - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen Rechts. - Art. 125 GG — Fortgeltung als Bundesrecht. - Art. 126 GG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwürde als Zäsur- und Kontinuitätsmassstab. - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen Rechts. - Art. 125 GG — Fortgeltung als Bundesrecht. - Art. 126 GG — Meinungsverschiedenheiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Bodenreform und Vermögensrecht (1945-1990)
 
-Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab. - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen Rechts. - Art. 125 GG — Fortgeltung als Bundesrecht. - Art. 126 GG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwürde als Zäsur- und Kontinuitätsmassstab. - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen Rechts. - Art. 125 GG — Fortgeltung als Bundesrecht. - Art. 126 GG — Meinungsverschiedenheiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. BVerfG und Nachkriegskonsolidierung
 
-Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab. - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen Rechts. - Art. 125 GG — Fortgeltung als Bundesrecht. - Art. 126 GG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwürde als Zäsur- und Kontinuitätsmassstab. - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen Rechts. - Art. 125 GG — Fortgeltung als Bundesrecht. - Art. 126 GG — Meinungsverschiedenheiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Code Civil und rheinisches Recht
 
@@ -180,11 +180,11 @@ Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Q
 
 ### 15.12. DDR-Recht und sozialistische Gesetzlichkeit
 
-Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab. - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen Rechts. - Art. 125 GG — Fortgeltung als Bundesrecht. - Art. 126 GG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwürde als Zäsur- und Kontinuitätsmassstab. - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen Rechts. - Art. 125 GG — Fortgeltung als Bundesrecht. - Art. 126 GG — Meinungsverschiedenheiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. DDR-Recht und juristische Aufarbeitung
 
-Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab. - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen Rechts. - Art. 125 GG — Fortgeltung als Bundesrecht. - Art. 126 GG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwürde als Zäsur- und Kontinuitätsmassstab. - Art. 123 Abs. 1 GG — Fortgeltung vorkonstitutionellen Rechts. - Art. 125 GG — Fortgeltung als Bundesrecht. - Art. 126 GG — Meinungsverschiedenheiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Deliktsrecht und Gefährdungshaftung
 

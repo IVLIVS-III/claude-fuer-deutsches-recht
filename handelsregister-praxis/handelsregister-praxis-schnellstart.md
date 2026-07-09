@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - HGB Paragraf 105: offene Handelsgesellschaft.
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizitaet des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizität des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 8 HGB — Handelsregister: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 12 HGB — Anmeldungen und Einreichungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 15 HGB — Publizitaet des Handelsregisters: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 15 HGB — Publizität des Handelsregisters: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
 - BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
 

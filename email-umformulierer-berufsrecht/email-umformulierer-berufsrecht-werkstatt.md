@@ -18,9 +18,9 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 
 - Sofortvollzug oder Vollstreckung steht unmittelbar bevor.
 - Rechtsbehelfsfrist ist unklar.
-- Ermaechtigungsgrundlage oder Landesrecht fehlt.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Ermächtigungsgrundlage oder Landesrecht fehlt.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -28,11 +28,11 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-### 3.2. Zulaessigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
+### 3.2. Zulässigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-### 3.3. Materielle Rechtmaessigkeit: Ermaechtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhaeltnismaessigkeit prüfen.
+### 3.3. Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
@@ -71,8 +71,8 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- |
 | BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle |
 | BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen |
-| BVerwG, Urteil vom 17.02.1984 - 7 C 8.82 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Nebenbestimmungen sind an ihrer gesetzlichen Grundlage und Verhaeltnismaessigkeit zu messen |
-| BVerwG, Urteil vom 21.11.1986 - 8 C 127.84 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Rücknahme und Widerruf verlangen strikte Trennung der gesetzlichen Tatbestaende |
+| BVerwG, Urteil vom 17.02.1984 - 7 C 8.82 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Nebenbestimmungen sind an ihrer gesetzlichen Grundlage und Verhältnismäßigkeit zu messen |
+| BVerwG, Urteil vom 21.11.1986 - 8 C 127.84 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Rücknahme und Widerruf verlangen strikte Trennung der gesetzlichen Tatbestände |
 | BVerwG, Urteil vom 20.10.1989 - 7 C 87.87 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Verwaltungsvollstreckung setzt wirksamen Grundverwaltungsakt und vollziehbare Pflicht voraus |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
@@ -85,21 +85,21 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
 - VwGO Paragraf 80 Absatz 5: Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte.
 - VwGO Paragraf 123: einstweilige Anordnung.
-- Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO —: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 43 BRAO — allgemeine Berufspflicht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 43a Abs. 4 BRAO — Interessenkollision: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 49b BRAO — Verguetungsrechtliche Grenzen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 49b BRAO — Vergütungsrechtliche Grenzen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 50 BRAO — Handakten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 4 RVG — Verguetungsvereinbarung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 4 RVG — Vergütungsvereinbarung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 10 RVG — Abrechnung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
 - BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
 - BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
-- BVerwG, Urteil vom 17.02.1984 - 7 C 8.82: Nebenbestimmungen sind an ihrer gesetzlichen Grundlage und Verhaeltnismaessigkeit zu messen.
-- BVerwG, Urteil vom 21.11.1986 - 8 C 127.84: Rücknahme und Widerruf verlangen strikte Trennung der gesetzlichen Tatbestaende.
+- BVerwG, Urteil vom 17.02.1984 - 7 C 8.82: Nebenbestimmungen sind an ihrer gesetzlichen Grundlage und Verhältnismaessigkeit zu messen.
+- BVerwG, Urteil vom 21.11.1986 - 8 C 127.84: Rücknahme und Widerruf verlangen strikte Trennung der gesetzlichen Tatbestände.
 - BVerwG, Urteil vom 20.10.1989 - 7 C 87.87: Verwaltungsvollstreckung setzt wirksamen Grundverwaltungsakt und vollziehbare Pflicht voraus.
 
 ## 9. Prüfraster
@@ -152,7 +152,7 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Allgemeine: Sonderfall und Edge-Case-Prüfung
 
-Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Verguetungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Anrede und Grußformeln
 
@@ -164,7 +164,7 @@ klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; lie
 
 ### 15.4. Berufliche: Fristennotiz und nächster Schritt
 
-Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Verguetungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Berufsrechtskonform: Verhandlung, Vergleich und Eskalation
 
@@ -172,7 +172,7 @@ entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert ein
 
 ### 15.6. Bora: Internationaler Bezug und Schnittstellen
 
-Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Verguetungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. BORA-Konformitätsprüfung
 
@@ -180,7 +180,7 @@ Entscheidende Weiche: Bewahre rechtlichen Inhalt, entferne Eskalation, schütze 
 
 ### 15.8. Brao: Mehrparteienkonflikt und Interessenmatrix
 
-Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Verguetungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. BRAO-Konformitätsprüfung
 
@@ -204,4 +204,4 @@ Entscheidende Weiche: Bewahre rechtlichen Inhalt, entferne Eskalation, schütze 
 
 ### 15.14. Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg
 
-Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Verguetungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

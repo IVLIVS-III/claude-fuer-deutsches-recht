@@ -19,12 +19,12 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Einstweilige Verfügung oder Plattform-Takedown läuft.
 - Rechtekette ist unvollständig.
 - Unterlassungserklärung wird ohne Reichweitenprüfung verlangt.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
-### 3.1. Schutzgegenstand: Werkart, Schoepfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
+### 3.1. Schutzgegenstand: Werkart, Schöpfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
@@ -32,7 +32,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-### 3.3. Nutzung: Vervielfaeltigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
+### 3.3. Nutzung: Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
@@ -57,9 +57,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
 | --- | --- | --- | --- |
-| UrhG Paragraf 2 | geschuetzte Werke | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
+| UrhG Paragraf 2 | geschützte Werke | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
 | UrhG Paragraf 15 | Verwertungsrechte | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
-| UrhG Paragraf 31 | Einraeumung von Nutzungsrechten | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
+| UrhG Paragraf 31 | Einräumung von Nutzungsrechten | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
 | UrhG Paragraf 51 | Zitatrecht | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
 | UrhG Paragraf 97 | Unterlassung und Schadensersatz | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
 | KUG Paragraf 22 und Paragraf 23 | Bildnisschutz und Ausnahmen | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
@@ -69,19 +69,19 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| EuGH, Urteil vom 16.07.2009 - C-5/08 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Infopaq verlangt eigene geistige Schoepfung als unionsrechtlichen Werkanker |
+| EuGH, Urteil vom 16.07.2009 - C-5/08 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker |
 | EuGH, Urteil vom 13.02.2014 - C-466/12 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Svensson grenzt Verlinkung und öffentliche Wiedergabe ab |
-| EuGH, Urteil vom 03.07.2012 - C-128/11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | UsedSoft behandelt Erschoepfung bei Softwaredownloads |
-| EuGH, Urteil vom 29.07.2019 - C-476/17 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Pelham konkretisiert Sampling, Vervielfaeltigung und Kunstfreiheit |
+| EuGH, Urteil vom 03.07.2012 - C-128/11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | UsedSoft behandelt Erschöpfung bei Softwaredownloads |
+| EuGH, Urteil vom 29.07.2019 - C-476/17 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Pelham konkretisiert Sampling, Vervielfältigung und Kunstfreiheit |
 | BGH, Urteil vom 12.11.2009 - I ZR 166/07 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | marions-kochbuch behandelt Lichtbildschutz und Online-Nutzung |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
 ## 7. Pflichtnormen als Kernsätze
 
-- UrhG Paragraf 2: geschuetzte Werke.
+- UrhG Paragraf 2: geschützte Werke.
 - UrhG Paragraf 15: Verwertungsrechte.
-- UrhG Paragraf 31: Einraeumung von Nutzungsrechten.
+- UrhG Paragraf 31: Einräumung von Nutzungsrechten.
 - UrhG Paragraf 51: Zitatrecht.
 - UrhG Paragraf 97: Unterlassung und Schadensersatz.
 - KUG Paragraf 22 und Paragraf 23: Bildnisschutz und Ausnahmen.
@@ -96,10 +96,10 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 8. Leitentscheidungen
 
-- EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schoepfung als unionsrechtlichen Werkanker.
+- EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
 - EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
-- EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschoepfung bei Softwaredownloads.
-- EuGH, Urteil vom 29.07.2019 - C-476/17: Pelham konkretisiert Sampling, Vervielfaeltigung und Kunstfreiheit.
+- EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschöpfung bei Softwaredownloads.
+- EuGH, Urteil vom 29.07.2019 - C-476/17: Pelham konkretisiert Sampling, Vervielfältigung und Kunstfreiheit.
 - BGH, Urteil vom 12.11.2009 - I ZR 166/07: marions-kochbuch behandelt Lichtbildschutz und Online-Nutzung.
 - BGH I ZR 121/08 (Sommer unseres Lebens)
 

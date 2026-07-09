@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Wahlkampfrecht Praxis ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du eine Grundrechtsrüge zulässig und schlüssig begründen.
 
 # Wahlkampfrecht Praxis — Schnellstart
 
@@ -17,22 +17,22 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. 72 Stunden Sprint: Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —.
-2. Ad Library Transparenz: Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —.
-3. Agenturvertrag Compliance: Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —.
-4. Aktenplan und Beweisarchiv: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix.
-5. Amtstraeger Ressourcen: Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —.
-6. Angriff Auf Wahlleitung Vermeiden: Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —.
+1. Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen.
+2. Zulässigkeit: Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen.
+3. Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen.
+4. Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten.
+5. Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag.
+6. 72 Stunden Sprint: Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Art. 21 Abs. 1 GG; Art. 21 Abs. 1 GG; Art. 38 Abs. 1 GG |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
+| Normenanker | GG Artikel 1 Absatz 1; GG Artikel 2 Absatz 1; GG Artikel 3 Absatz 1 |
+| Rechtsprechung | BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51; BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56 |
 | Tatbestand | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Beweislast | Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit |
+| Rechtsfolge | Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
@@ -48,9 +48,15 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 6. Anker
 
+- GG Artikel 1 Absatz 1: Menschenwürdebindung aller Staatsgewalt.
+- GG Artikel 2 Absatz 1: allgemeine Handlungsfreiheit.
+- GG Artikel 3 Absatz 1: Gleichheitssatz.
+- GG Artikel 12 Absatz 1: Berufsfreiheit.
 - Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze. - Paragraf 1 Abs. 1 BWahlG — Wahlrechtsgrundlagen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51: Lueth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte.
+- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56: Apothekenurteil strukturiert Eingriffe in die Berufsfreiheit.
 
 ## 7. Antwortform
 

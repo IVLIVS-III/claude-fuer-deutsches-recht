@@ -19,8 +19,8 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 - Beendigungsdatum, Funktion oder Zeugnisart ist unklar.
 - Eine konkrete bessere Schlussnote wird verlangt, aber Leistungsbelege fehlen.
 - Ein gerichtlicher Vergleich oder Titel soll vollstreckt werden, ohne dass die geschuldete Fassung eindeutig bestimmbar ist.
-- Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
-- Wenn das gewünschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+- Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
+- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
 ## 3. Werkstattfluss
 
@@ -183,11 +183,11 @@ Zeugnisse für Fuehrungskraefte unterliegen erhoehten Prüfanforderungen. Neben 
 
 ### 15.11. Geheimcodes-Katalog
 
-Geheimzeichen und Formulierungen, die etwas anderes aussagen als ihr Wortlaut, sind nach Paragraf 109 Absatz 2 Satz 2 GewO unzulaessig. Der Prüfer identifiziert diese Codes, benennt die riskante Lesart und markiert jeden Code als orangen oder roten Befund. Wichtige. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Geheimzeichen und Formulierungen, die etwas anderes aussagen als ihr Wortlaut, sind nach Paragraf 109 Absatz 2 Satz 2 GewO unzulässig. Der Prüfer identifiziert diese Codes, benennt die riskante Lesart und markiert jeden Code als orangen oder roten Befund. Wichtige Einschränkung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Intake und Stammdaten prüfen
 
-Der Prüfer erfasst die Stammdaten unmittelbar aus dem vorliegenden Zeugnis, nicht per Interview. Was fehlt oder unklar ist, wird als gekennzeichnete Annahme geführt. Rückfragen sind nur bei echtem Verstaendnisblocker zulaessig (zum Beispiel unleserlicher Text, zwei verschiedene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Der Prüfer erfasst die Stammdaten unmittelbar aus dem vorliegenden Zeugnis, nicht per Interview. Was fehlt oder unklar ist, wird als gekennzeichnete Annahme geführt. Rückfragen sind nur bei echtem Verstaendnisblocker zulässig (zum Beispiel unleserlicher Text, zwei verschiedene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Klagestrategie und Vollstreckung
 

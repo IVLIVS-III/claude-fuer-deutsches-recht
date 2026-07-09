@@ -67,6 +67,7 @@ jobs:
           python3 scripts/generate-skills-overview.py
           python3 scripts/generate-werkstatt-und-schnellstart-coverage.py
           python3 scripts/audit-generated-prompt-hygiene.py
+          python3 scripts/audit-prompt-profile-routing.py
 
       - name: Skill-Indizes neu erzeugen (SKILLS.md + skills-index, Stand = marketplace-Version)
         run: python3 scripts/generate-skills-md.py

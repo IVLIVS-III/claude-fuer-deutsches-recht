@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Europarecht Kompass ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen unionsrechtlichen Fall nach Anwendungsbereich, Wirkung, Vorrang, Grundfreiheit, Rechtsschutz und nationaler Umsetzung ordnen.
 
 # Europarecht Kompass — Schnellstart
 
@@ -17,48 +17,51 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Anrufung: Red-Team und Qualitätskontrolle: Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG.
-2. Europarecht-Kompass — Allgemein: Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG.
-3. Beihilfen: Compliance-Dokumentation und Aktenvermerk: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
-4. Charta Quellenkarte: Diese Quellenkarte sichert im Bereich Europarecht Kompass tragende Normen, Rechtsprechung, Behördenpraxis.
-5. Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg: Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG.
-6. Dokumentenintake: Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren.
+1. Unionsbezug: Beteiligte, Maßnahme, Mitgliedstaat, Organ, Rechtsakt, Binnenmarktbezug und zeitlicher Anwendungsbereich feststellen.
+2. Normwirkung: Primärrecht, Verordnung, Richtlinie, Beschluss, unmittelbare Wirkung, richtlinienkonforme Auslegung und Anwendungsvorrang trennen.
+3. Materielle Prüfung: Grundfreiheit, Diskriminierung, Beschränkung, Rechtfertigung, Verhältnismäßigkeit, Wettbewerb oder Beihilfe aufbauen.
+4. Rechtsschutz: nationales Verfahren, Vorlagefrage, Kommissionsverfahren, Unionsklage, Frist und vorläufigen Rechtsschutz bestimmen.
+5. Arbeitsprodukt: Europarechtsmemo, Vorlagefragen, Umsetzungscheck, Verhältnismäßigkeitsmatrix, Stellungnahme oder Schriftsatzbaustein erstellen.
+6. Anrufung: Red-Team und Qualitätskontrolle: Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Art. 267 AEUV; Art. 258 und 260 AEUV; Art. 263 und 265 AEUV |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Normenanker | EUV Artikel 4 Absatz 3 und Artikel 5; EUV Artikel 19 und AEUV Artikel 267; AEUV Artikel 18, Artikel 34 bis Artikel 36, Artikel 45, Artikel 49 |
+| Rechtsprechung | EuGH, Urteil vom 05.02.1963 - 26/62; EuGH, Urteil vom 15.07.1964 - 6/64 |
+| Tatbestand | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen |
+| Beweislast | Wer sich auf Unionsrecht beruft, belegt Anwendungsbereich und anspruchstragende Tatsachen; Staat oder Organ trägt Rechtfertigung, Ausnahme und Verhältnismäßigkeit |
+| Rechtsfolge | Wirkungsmatrix, Grundfreiheitenprüfung, Vorlagefrage, Umsetzungscheck, Stellungnahme oder Rechtsschutzvermerk |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anrufung: Red-Team und Qualitätskontrolle | Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Europarecht-Kompass — Allgemein | Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beihilfen: Compliance-Dokumentation und Aktenvermerk | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Charta Quellenkarte | Diese Quellenkarte sichert im Bereich Europarecht Kompass tragende Normen, Rechtsprechung, Behördenpraxis. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg | Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dokumentenintake | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anrufung: Red-Team und Qualitätskontrolle | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Europarecht-Kompass — Allgemein | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beihilfen: Compliance-Dokumentation und Aktenvermerk | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Charta Quellenkarte | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Dokumentenintake | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- EUV Artikel 4 Absatz 3 und Artikel 5: loyale Zusammenarbeit, Einzelermächtigung, Subsidiarität und Verhältnismäßigkeit.
+- EUV Artikel 19 und AEUV Artikel 267: wirksamer Rechtsschutz und Vorabentscheidungsverfahren.
+- AEUV Artikel 18, Artikel 34 bis Artikel 36, Artikel 45, Artikel 49, Artikel 56 und Artikel 63: Diskriminierungsverbot und Grundfreiheiten.
+- AEUV Artikel 101, Artikel 102 und Artikel 107: Kartellverbot, Missbrauchskontrolle und Beihilfenverbot.
 - Art. 267 AEUV — Vorlageverfahren; Vorabentscheidung des EuGH: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 258 und 260 AEUV — Vertragsverletzungsverfahren der Kommission: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 263 und 265 AEUV — Nichtigkeitsklage und Untaetigkeitsklage vor EuGH/EuG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 288 AEUV — Rechtsquellen: Verordnung, Richtlinie, Beschluss, Empfehlung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 289 und 294 AEUV — Ordentliches Gesetzgebungsverfahren und Trilog: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 290 und 291 AEUV — Delegierte Rechtsakte und Durchfuehrungsrechtsakte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 34 und 36 AEUV — Warenverkehrsfreiheit und Rechtfertigungsgründe: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH, Urteil vom 05.02.1963 - 26/62: Van Gend en Loos zur unmittelbaren Wirkung hinreichend klarer und unbedingter unionsrechtlicher Bestimmungen.
+- EuGH, Urteil vom 15.07.1964 - 6/64: Costa gegen ENEL zum Vorrang des Unionsrechts gegenüber entgegenstehendem nationalem Recht.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Anrufung: Red-Team und Qualitätskontrolle, Europarecht-Kompass — Allgemein, Beihilfen: Compliance-Dokumentation und Aktenvermerk, Charta Quellenkarte: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Wirkungsmatrix: Unionsnorm, Rechtsakt, Bestimmtheit, Frist, Adressatenverhältnis, nationale Kollisionsnorm und Rechtsfolge; Grundfreiheitenprüfung: Schutzbereich, Beschränkung, Diskriminierung, Rechtfertigungsgrund, Geeignetheit, Erforderlichkeit und Angemessenheit.
 
 ## 8. Stop
 

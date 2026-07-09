@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Forschungszulage Antragstellung ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Steuerbescheid prüfen und Einspruch oder Klage tragfähig begründen.
 
 # Forschungszulage Antragstellung — Schnellstart
 
@@ -17,44 +17,47 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abgrenzung: Compliance-Dokumentation und Aktenvermerk: Arbeitsfokus: Abgrenzung: Compliance-Dokumentation und Aktenvermerk. Prüfe diese Anker am Sachverhalt; ergänze nur.
-2. Ablehnung, Nachbesserung, Einspruch: Ablehnungen und Nachforderungen kommen vor — die häufigsten Gründe sind nicht "verlorene Fälle", sondern reparable.
-3. Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung: Arbeitsfokus: Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung. Prüfe diese Anker am Sachverhalt.
-4. Anschluss-Routing: Dieses Anschluss-Routing für Forschungszulage Antragstellung wählt nach dem ersten Ergebnis die passende.
-5. Antrag: Zahlen, Schwellenwerte und Berechnung: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
-6. Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage: Arbeitsfokus: Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage. Prüfe diese Anker am Sachverhalt.
+1. Steuerart, Zeitraum, Bescheidlage und Frist bestimmen.
+2. Nationalen Tatbestand, persönliche Steuerpflicht und Einkunfts- oder Umsatzlogik prüfen.
+3. Verfahrensrecht: Einspruch, Aussetzung, Änderungsnorm und Festsetzungsfrist bearbeiten.
+4. Belege, Buchführung, Rechnung, DBA und unionsrechtliche Sperren trennen.
+5. Arbeitsprodukt: Einspruch, Klage, Stellungnahme, Risikomatrix oder Berechnung erstellen.
+6. Abgrenzung: Compliance-Dokumentation und Aktenvermerk: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 90 Abs. 1 AO; AO Paragrafen 347 bis 367 (Einspruchsverfahren) und Paragraf 355 AO; FGO Paragraf 47 (Klagefrist) |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Arbeitsfokus: Abgrenzung: Compliance-Dokumentation und Aktenvermerk. Prüfe diese Anker am Sachverhalt; ergänze nur |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Normenanker | AO Paragraf 85; AO Paragraf 88; AO Paragraf 173 |
+| Rechtsprechung | BFH, Urteil vom 04.11.2021 - VI R 22/19; BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17 |
+| Tatbestand | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen |
+| Beweislast | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise |
+| Rechtsfolge | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abgrenzung: Compliance-Dokumentation und Aktenvermerk | Arbeitsfokus: Abgrenzung: Compliance-Dokumentation und Aktenvermerk. Prüfe diese Anker am Sachverhalt; ergänze nur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ablehnung, Nachbesserung, Einspruch | Ablehnungen und Nachforderungen kommen vor — die häufigsten Gründe sind nicht "verlorene Fälle", sondern reparable. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung | Arbeitsfokus: Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung. Prüfe diese Anker am Sachverhalt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Dieses Anschluss-Routing für Forschungszulage Antragstellung wählt nach dem ersten Ergebnis die passende. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abgrenzung: Compliance-Dokumentation und Aktenvermerk | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ablehnung, Nachbesserung, Einspruch | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Antrag: Zahlen, Schwellenwerte und Berechnung | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage | Arbeitsfokus: Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage. Prüfe diese Anker am Sachverhalt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- AO Paragraf 85: Legalität und Gleichmäßigkeit der Besteuerung.
+- AO Paragraf 88: Amtsermittlung.
+- AO Paragraf 173: Aufhebung oder Änderung wegen neuer Tatsachen.
+- EStG Paragraf 2: Einkunftsarten und Einkommensermittlung.
 - Paragraf 90 Abs. 1 AO — Mitwirkung und Belege: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - AO Paragrafen 347 bis 367 (Einspruchsverfahren) und Paragraf 355 AO (Frist) — vom Antragsteller mit konsolidierter Fassung zu prüfen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - FGO Paragraf 47 (Klagefrist): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 107 Abs. 1 AEUV — Beihilfebegriff: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 46 AO — Abtretung/Verpfändung von Steuererstattungs- und Vergütungsansprüchen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 80 Abs. 1 InsO — Verwaltungs- und Verfügungsbefugnis des Insolvenzverwalters: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 94 InsO — Aufrechnungslage vor Verfahrenseröffnung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BFH, Urteil vom 04.11.2021 - VI R 22/19: Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale Besteuerung.
+- BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17: Vollverzinsung nach AO war ab 2014 verfassungswidrig.
 
 ## 7. Antwortform
 

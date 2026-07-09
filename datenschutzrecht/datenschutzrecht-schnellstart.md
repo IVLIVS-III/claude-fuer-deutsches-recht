@@ -21,7 +21,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 2. Rechtsgrundlage, Zweckbindung und Datenminimierung prüfen.
 3. Informationspflichten, Betroffenenrechte und Fristen strukturieren.
 4. Technische und organisatorische Maßnahmen sowie Auftragsverarbeitung prüfen.
-5. Datenpanne, Aufsichtsverfahren, Schadensersatz und Loeschkonzept bearbeiten.
+5. Datenpanne, Aufsichtsverfahren, Schadensersatz und Löschkonzept bearbeiten.
 6. Customize – Praxisprofil anpassen: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
 
 ## 4. Fallkarte
@@ -49,7 +49,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 ## 6. Anker
 
 - Datenschutz-Grundverordnung Artikel 5: Grundsätze der Verarbeitung personenbezogener Daten.
-- Datenschutz-Grundverordnung Artikel 6: Rechtmaessigkeit der Verarbeitung.
+- Datenschutz-Grundverordnung Artikel 6: Rechtmäßigkeit der Verarbeitung.
 - Datenschutz-Grundverordnung Artikel 12 bis Artikel 15: Transparenz, Auskunft und Kommunikation.
 - Datenschutz-Grundverordnung Artikel 28: Auftragsverarbeitung.
 - Art. 37 Datenschutz-Grundverordnung, Paragraf 38 BDSG (DSB-Benennungspflicht): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -57,7 +57,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BDSG: Paragraf 22 (Gesundheits-/Sozialdaten), Paragraf 26 (Beschäftigtendatenschutz), Paragraf 38: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 42 BDSG Strafvorschriften bei vorsätzlicher unbefugter Offenlegung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 16.07.2020 - C-311/18: Schrems II verlangt tragfähige Prüfung internationaler Datentransfers.
-- EuGH, Urteil vom 04.05.2023 - C-300/21: immaterieller Schadensersatz nach Datenschutz-Grundverordnung verlangt Schaden, Verstoß und Kausalitaet.
+- EuGH, Urteil vom 04.05.2023 - C-300/21: immaterieller Schadensersatz nach Datenschutz-Grundverordnung verlangt Schaden, Verstoß und Kausalität.
 - EuGH C-634/21 (automatisierte Bonitätsbewertung Schufa)
 - EuGH C-26/22 (Datenschutzbehörden-Befugnisse)
 

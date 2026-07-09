@@ -2,7 +2,7 @@ Wenn du das hier öffnest, willst du Unfall, Bußgeld, Fahrerlaubnis, Reisendenr
 
 # Fachanwalt Verkehrsrecht — Schnellstart
 
-Ziel: Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (Paragrafen 315c 316 StGB). Schnittstelle Plugin kanzlei-allgemein. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezüge. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (Paragrafen 315c 316 StGB). Schnittstelle Plugin kanzlei-allgemein. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
@@ -42,7 +42,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | 315C: Internationaler Bezug und Schnittstellen | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anschluss-Routing | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Autonom: Abschlussprodukt und Übergabe | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bezuege: Behörden-, Gerichts- oder Registerweg | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bezüge: Behörden-, Gerichts- oder Registerweg | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Blitzer Messung Paragraf 3 StVO | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Bussgeld Einspruch Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer. | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 

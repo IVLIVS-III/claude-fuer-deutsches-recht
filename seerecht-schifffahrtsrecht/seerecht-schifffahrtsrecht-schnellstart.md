@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Seerecht Schifffahrtsrecht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen grenzüberschreitenden Fall sortieren: anwendbares Recht, Zuständigkeit und Durchsetzung klären und ein verwertbares Arbeitsprodukt bauen.
 
 # Seerecht Schifffahrtsrecht — Schnellstart
 
@@ -17,22 +17,22 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Offshore-Schiff – Arrest vorbereiten: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-2. Auslandsflagge und Local Counsel – Flaggenstaat-Compliance: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-3. Bergung und Wrack – Bergungslohn und Beseitigungspflicht: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-4. Bermuda-Struktur prüfen – Holding-Struktur und Haftungsrisiken: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-5. Binnenschiff – Arrest vorbereiten: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-6. Binnenschiff – Closing planen: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
+1. Auslands-Zergliederung: Parteien mit Sitzstaaten, Vertragsklauseln zu Rechtswahl, Gerichtsstand und Schiedsverfahren, Anknüpfungsmomente und Fristen als Raster erfassen.
+2. Forum: internationale Zuständigkeit prüfen (Brüssel-Ia-VO, Gerichtsstandsklausel, Schiedsvereinbarung); Torpedo- und Parallelverfahrensrisiken benennen.
+3. Anwendbares Recht: Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen.
+4. Materielle Prüfung nach dem berufenen Recht: bei ausländischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden.
+5. Durchsetzung: Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt.
+6. Offshore-Schiff – Arrest vorbereiten: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | 3. LG am Liegeplatz (ZPO Paragraf 919) als zuständiges Gericht; ZPO Paragrafen 916-945 Arrest; ZPO Paragraf 929 Vollziehungsfrist; Besteht Risiko des ZPO Paragraf 945-Schadensersatzes |
+| Normenanker | Brüssel-Ia-VO Artikel 4, 7 und 25; Rom-I-VO Artikel 3 und 4; Rom-II-VO Artikel 4 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Beweislast | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden |
+| Rechtsfolge | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
@@ -48,13 +48,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 6. Anker
 
+- Brüssel-Ia-VO Artikel 4, 7 und 25: allgemeiner und besonderer Gerichtsstand sowie Gerichtsstandsvereinbarung.
+- Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhältnisse; Artikel 9: Eingriffsnormen.
+- Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhältnisse.
+- CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
 - 3. LG am Liegeplatz (ZPO Paragraf 919) als zuständiges Gericht bestimmen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - ZPO Paragrafen 916-945 Arrest; ZPO Paragraf 929 Vollziehungsfrist; SchRegO Paragraf 67; ISAC 1952 Art. 1: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Besteht Risiko des ZPO Paragraf 945-Schadensersatzes bei unberechtigtem Arrest?: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - ZPO Paragraf 945-Schadensersatz bei unberechtigtem Arrest kann erheblich sein: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- [ ] Zuständiges Gericht bestimmt (LG am Liegeplatz; ZPO Paragraf 919): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- [ ] Arrestantrag (ZPO Paragraf 920) vollständig vorbereitet: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH zur Haftung aus ungerechtfertigtem Arrest nach ZPO Paragraf 945: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

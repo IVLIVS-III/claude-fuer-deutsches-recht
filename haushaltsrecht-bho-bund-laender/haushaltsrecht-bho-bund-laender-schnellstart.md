@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Haushaltsrecht Bho Bund Länder ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Verwaltungsakt anfechten und vorläufigen Rechtsschutz erreichen.
 
 # Haushaltsrecht Bho Bund Länder — Schnellstart
 
@@ -17,52 +17,54 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Bürgergeld Krankenversicherung Dashbo: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-2. Globaler Minderausgabe Dashboard Bauen: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-3. Bho 65 Beteiligung Unternehmen Praktis: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
-4. Verpflichtungsermaechtigung Prüfen: Verpflichtungsermaechtigung Prüfen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang.
-5. Deckungsfähigkeit Prüfen: Deckungsfähigkeit Prüfen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich.
-6. Erlaeuterung Rechtlich Bewerten: Erlaeuterung Rechtlich Bewerten wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich.
+1. Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen.
+2. Zulässigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
+3. Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen.
+4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
+5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
+6. Bürgergeld Krankenversicherung Dashbo: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Art. 109 Abs. 3 GG; Art. 110 Abs. 1 GG; Art. 112 GG |
-| Rechtsprechung | BVerfG 2 BvF 1/22 (Schuldenbremse, Klimafonds-Urteil); BVerwG 8 C 8.14 (Zuwendungsrecht, Vertrauensschutz) |
-| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Normenanker | VwVfG Paragraf 35; VwVfG Paragraf 28; VwVfG Paragraf 40 |
+| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 |
+| Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
+| Beweislast | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit |
+| Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Bürgergeld Krankenversicherung Dashbo | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Globaler Minderausgabe Dashboard Bauen | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bho 65 Beteiligung Unternehmen Praktis | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verpflichtungsermaechtigung Prüfen | Verpflichtungsermaechtigung Prüfen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Deckungsfähigkeit Prüfen | Deckungsfähigkeit Prüfen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Erlaeuterung Rechtlich Bewerten | Erlaeuterung Rechtlich Bewerten wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bürgergeld Krankenversicherung Dashbo | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Globaler Minderausgabe Dashboard Bauen | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bho 65 Beteiligung Unternehmen Praktis | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verpflichtungsermächtigung Prüfen | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Deckungsfähigkeit Prüfen | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Erlaeuterung Rechtlich Bewerten | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
+- VwVfG Paragraf 28: Anhörung Beteiligter.
+- VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
+- VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
 - Art. 109 Abs. 3 GG — Haushaltsdisziplin: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 110 Abs. 1 GG — Haushaltsplan: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 112 GG — über-/außerplanmäßige Ausgaben: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 115 Abs. 2 GG — Kreditaufnahme: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 110-115 GG (Haushaltsgrundsätze, Schuldenbremse): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 17, 22 ff. SGB IV (Wirtschaftlichkeit Sozialversicherungsträger): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 112 GG — Notbewilligungsrecht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
+- BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
 - BVerfG 2 BvF 1/22 (Schuldenbremse, Klimafonds-Urteil)
 - BVerwG 8 C 8.14 (Zuwendungsrecht, Vertrauensschutz)
 - BVerfG 2 BvR 2628/10 (Verständigung im Strafverfahren, Hinweis)
-- BVerwG 6 C 3.21 (Zuwendungsbescheid Rückforderung)
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Bürgergeld Krankenversicherung Dashbo, Globaler Minderausgabe Dashboard Bauen, Bho 65 Beteiligung Unternehmen Praktis, Verpflichtungsermaechtigung Prüfen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Bürgergeld Krankenversicherung Dashbo, Globaler Minderausgabe Dashboard Bauen, Bho 65 Beteiligung Unternehmen Praktis, Verpflichtungsermächtigung Prüfen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 
