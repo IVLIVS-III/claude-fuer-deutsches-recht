@@ -97,11 +97,8 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - ArbG Berlin, Urteil vom 28.09.2021 - 36 Ca 15296/20: einfache elektronische Signatur wahrt die Schriftform einer Befristung nicht.
 - LAG Berlin-Brandenburg, Urteil vom 16.03.2022 - 23 Sa 1133/21: Scan der Unterschrift wahrt TzBfG-Schriftform nicht und wird nach Arbeitsaufnahme nicht rückwirkend geheilt.
 - ArbG Gera, Urteil vom 07.03.2024 - 2 Ca 936/23: echte qualifizierte elektronische Signatur kann TzBfG-Schriftform wahren.
-- Arbeitnehmer fordert Loeschung 7 Jahre alter Abmahnung wegen unentschuldigten Fehlens. - Paragraf 102 BetrVG - Paragraf 17 KSchG - Paragraf 4 KSchG - Paragraf 14 TzBfG - Paragraf 1 KSchG - Paragraf 17
 - BAG 19.07.2012 2 AZR 782/11 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 - BAG 20.01.2015 9 AZR 860/13 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- Verifizierte Anker: BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht
-- Massenentlassung Paragraf 17 KSchG: Anzeige korrekt und rechtzeitig? (Vgl. BAG 6 AZR 152/22 und EuGH C-134/24)
 
 ## 9. Prüfraster
 

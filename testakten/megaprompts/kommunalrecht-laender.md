@@ -1,41 +1,42 @@
-# Megaprompt: kommunalrecht-laender
+# Vollprüfung: kommunalrecht-laender
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 176 Skills (gekuerzt fuer Chat-Fenster) des Plugins `kommunalrecht-laender`.
+Dieser Vollprüfung enthaelt top-8 von 176 Skills (gekuerzt fuer Chat-Fenster) des Plugins `kommunalrecht-laender`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Kommunalrecht der Länder: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste…
-2. **kommunalrecht-mecklenburg-niedersachsen** — Kommunalrecht der Länder: Kommunalrecht Mecklenburg-Vorpommern routen. Kommunalrecht Mecklenburg-Vorpommern routen im Fa…
-3. **kommunalrecht-nordrhein-westfalen-rout** — Kommunalrecht der Länder: Kommunalrecht Nordrhein-Westfalen routen. Kommunalrecht Nordrhein-Westfalen routen im Fachgebi…
-4. **kommunalrecht-schleswig-holstein-route** — Kommunalrecht der Länder: Kommunalrecht Schleswig-Holstein routen. Kommunalrecht Schleswig-Holstein routen im Fachgebiet…
-5. **kommunalrecht-baden-wuerttemberg-route** — Kommunalrecht der Länder: Kommunalrecht Baden-Württemberg routen. Kommunalrecht Baden-Württemberg routen im Fachgebiet K…
-6. **kommunalrecht-rheinland-pfalz-routen** — Kommunalrecht der Länder: Kommunalrecht Rheinland-Pfalz routen. Kommunalrecht Rheinland-Pfalz routen im Fachgebiet Kommu…
-7. **kommunalrecht-sachsen-schleswig-holstein** — Kommunalrecht der Länder: Kommunalrecht Sachsen-Anhalt routen. Kommunalrecht Sachsen-Anhalt routen im Fachgebiet Kommuna…
-8. **buergerbegehren-und-buergerentscheid** — Kommunalrecht der Länder: Bürgerbegehren und Bürgerentscheid. Bürgerbegehren und Bürgerentscheid im Fachgebiet Kommunalr…
+1. **kaltstart-triage** — Wenn es um Kommunalrecht der Länder - Allgemeiner Einstieg in Kommunalrecht der Länder geht: klärt Rolle, Ziel, Frist, U…
+2. **kommunalaufsicht-eilantrag-vorbereiten** — Wenn es um Kommunalaufsicht Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus S…
+3. **strassenreinigung-eilantrag-vorbereite** — Wenn es um Strassenreinigung Eilantrag Vorbereite in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus S…
+4. **buergermeister-eilantrag-vorbereiten** — Wenn es um Buergermeister Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sac…
+5. **kommunalabgabe-eilantrag-vorbereiten** — Wenn es um Kommunalabgabe Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sac…
+6. **ortschaftsrat-eilantrag-vorbereiten** — Wenn es um Ortschaftsrat Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sach…
+7. **kita-satzung-eilantrag-vorbereiten** — Wenn es um Kita Satzung Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sachv…
+8. **schultraeger-eilantrag-vorbereiten** — Wenn es um Schultraeger Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sachv…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Kommunalrecht der Länder: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe._
+_Wenn es um Kommunalrecht der Länder - Allgemeiner Einstieg in Kommunalrecht der Länder geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Kommunalrecht der Länder - Allgemeiner Einstieg
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Kommunalrecht Laender** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Normenanker
 
@@ -90,56 +91,11 @@ Primär mit amtlichen Gesetzestexten, Behördenhinweisen, Gerichtsentscheidungen
 
 ---
 
-## Skill: `kommunalrecht-mecklenburg-niedersachsen`
+## Skill: `kommunalaufsicht-eilantrag-vorbereiten`
 
-_Kommunalrecht der Länder: Kommunalrecht Mecklenburg-Vorpommern routen. Kommunalrecht Mecklenburg-Vorpommern routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht._
+_Wenn es um Kommunalaufsicht Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Kommunalrecht Mecklenburg Vorpommern R
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GO der Länder, KomVG, KAG, GG Art. 28, BauGB, VwGO, KomHV-Doppik — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Art. 28 Abs. 2 GG` — kommunale Selbstverwaltung.
-- `§ 35 Satz 1 VwVfG` — Verwaltungsakt als Handlungsform.
-- `§ 40 VwVfG` — Ermessensausübung.
-- `§ 47 Abs. 1 VwGO` — Normenkontrolle gegen Satzungen, soweit landesrechtlich eroeffnet.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 74 Abs. 1 VwGO` — Klagefrist.
-- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
-- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
-- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live prüfen.
-- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht prüfen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- Gemeindeordnungen, Landkreisordnungen, Kommunalverfassungen der Länder
-- Rat/Kreistag, Bürgermeister/Landrat, Ausschüsse, Bürgerbegehren
-- Kommunalaufsicht, Haushalt, Abgaben, Daseinsvorsorge, Satzungen
-- VwGO, § 47 VwGO, Kommunalwahlrecht-Schnittstellen
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
-## Skill: `kommunalrecht-nordrhein-westfalen-rout`
-
-_Kommunalrecht der Länder: Kommunalrecht Nordrhein-Westfalen routen. Kommunalrecht Nordrhein-Westfalen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht._
-
-# Kommunalrecht Nordrhein Westfalen Rout
+# Kommunalaufsicht Eilantrag Vorbereiten
 
 ## Arbeitsweg
 
@@ -180,56 +136,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `kommunalrecht-schleswig-holstein-route`
+## Skill: `strassenreinigung-eilantrag-vorbereite`
 
-_Kommunalrecht der Länder: Kommunalrecht Schleswig-Holstein routen. Kommunalrecht Schleswig-Holstein routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht._
+_Wenn es um Strassenreinigung Eilantrag Vorbereite in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Kommunalrecht Schleswig Holstein Route
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GO der Länder, KomVG, KAG, GG Art. 28, BauGB, VwGO, KomHV-Doppik — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Art. 28 Abs. 2 GG` — kommunale Selbstverwaltung.
-- `§ 35 Satz 1 VwVfG` — Verwaltungsakt als Handlungsform.
-- `§ 40 VwVfG` — Ermessensausübung.
-- `§ 47 Abs. 1 VwGO` — Normenkontrolle gegen Satzungen, soweit landesrechtlich eroeffnet.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 74 Abs. 1 VwGO` — Klagefrist.
-- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
-- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
-- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live prüfen.
-- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht prüfen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- Gemeindeordnungen, Landkreisordnungen, Kommunalverfassungen der Länder
-- Rat/Kreistag, Bürgermeister/Landrat, Ausschüsse, Bürgerbegehren
-- Kommunalaufsicht, Haushalt, Abgaben, Daseinsvorsorge, Satzungen
-- VwGO, § 47 VwGO, Kommunalwahlrecht-Schnittstellen
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
-## Skill: `kommunalrecht-baden-wuerttemberg-route`
-
-_Kommunalrecht der Länder: Kommunalrecht Baden-Württemberg routen. Kommunalrecht Baden-Württemberg routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht._
-
-# Kommunalrecht Baden Wuerttemberg Route
+# Strassenreinigung Eilantrag Vorbereite
 
 ## Arbeitsweg
 
@@ -270,56 +181,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `kommunalrecht-rheinland-pfalz-routen`
+## Skill: `buergermeister-eilantrag-vorbereiten`
 
-_Kommunalrecht der Länder: Kommunalrecht Rheinland-Pfalz routen. Kommunalrecht Rheinland-Pfalz routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht._
+_Wenn es um Buergermeister Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Kommunalrecht Rheinland Pfalz Routen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GO der Länder, KomVG, KAG, GG Art. 28, BauGB, VwGO, KomHV-Doppik — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Art. 28 Abs. 2 GG` — kommunale Selbstverwaltung.
-- `§ 35 Satz 1 VwVfG` — Verwaltungsakt als Handlungsform.
-- `§ 40 VwVfG` — Ermessensausübung.
-- `§ 47 Abs. 1 VwGO` — Normenkontrolle gegen Satzungen, soweit landesrechtlich eroeffnet.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 74 Abs. 1 VwGO` — Klagefrist.
-- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
-- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
-- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live prüfen.
-- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht prüfen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- Gemeindeordnungen, Landkreisordnungen, Kommunalverfassungen der Länder
-- Rat/Kreistag, Bürgermeister/Landrat, Ausschüsse, Bürgerbegehren
-- Kommunalaufsicht, Haushalt, Abgaben, Daseinsvorsorge, Satzungen
-- VwGO, § 47 VwGO, Kommunalwahlrecht-Schnittstellen
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
-## Skill: `kommunalrecht-sachsen-schleswig-holstein`
-
-_Kommunalrecht der Länder: Kommunalrecht Sachsen-Anhalt routen. Kommunalrecht Sachsen-Anhalt routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht._
-
-# Kommunalrecht Sachsen Anhalt Routen
+# Buergermeister Eilantrag Vorbereiten
 
 ## Arbeitsweg
 
@@ -360,11 +226,146 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `buergerbegehren-und-buergerentscheid`
+## Skill: `kommunalabgabe-eilantrag-vorbereiten`
 
-_Kommunalrecht der Länder: Bürgerbegehren und Bürgerentscheid. Bürgerbegehren und Bürgerentscheid im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht._
+_Wenn es um Kommunalabgabe Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Buergerbegehren Und Buergerentscheid
+# Kommunalabgabe Eilantrag Vorbereiten
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: GO der Länder, KomVG, KAG, GG Art. 28, BauGB, VwGO, KomHV-Doppik — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 28 Abs. 2 GG` — kommunale Selbstverwaltung.
+- `§ 35 Satz 1 VwVfG` — Verwaltungsakt als Handlungsform.
+- `§ 40 VwVfG` — Ermessensausübung.
+- `§ 47 Abs. 1 VwGO` — Normenkontrolle gegen Satzungen, soweit landesrechtlich eroeffnet.
+- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
+- `§ 74 Abs. 1 VwGO` — Klagefrist.
+- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
+- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
+- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live prüfen.
+- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht prüfen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+- Gemeindeordnungen, Landkreisordnungen, Kommunalverfassungen der Länder
+- Rat/Kreistag, Bürgermeister/Landrat, Ausschüsse, Bürgerbegehren
+- Kommunalaufsicht, Haushalt, Abgaben, Daseinsvorsorge, Satzungen
+- VwGO, § 47 VwGO, Kommunalwahlrecht-Schnittstellen
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+---
+
+## Skill: `ortschaftsrat-eilantrag-vorbereiten`
+
+_Wenn es um Ortschaftsrat Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Ortschaftsrat Eilantrag Vorbereiten
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: GO der Länder, KomVG, KAG, GG Art. 28, BauGB, VwGO, KomHV-Doppik — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 28 Abs. 2 GG` — kommunale Selbstverwaltung.
+- `§ 35 Satz 1 VwVfG` — Verwaltungsakt als Handlungsform.
+- `§ 40 VwVfG` — Ermessensausübung.
+- `§ 47 Abs. 1 VwGO` — Normenkontrolle gegen Satzungen, soweit landesrechtlich eroeffnet.
+- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
+- `§ 74 Abs. 1 VwGO` — Klagefrist.
+- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
+- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
+- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live prüfen.
+- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht prüfen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+- Gemeindeordnungen, Landkreisordnungen, Kommunalverfassungen der Länder
+- Rat/Kreistag, Bürgermeister/Landrat, Ausschüsse, Bürgerbegehren
+- Kommunalaufsicht, Haushalt, Abgaben, Daseinsvorsorge, Satzungen
+- VwGO, § 47 VwGO, Kommunalwahlrecht-Schnittstellen
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+---
+
+## Skill: `kita-satzung-eilantrag-vorbereiten`
+
+_Wenn es um Kita Satzung Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Kita Satzung Eilantrag Vorbereiten
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: GO der Länder, KomVG, KAG, GG Art. 28, BauGB, VwGO, KomHV-Doppik — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 28 Abs. 2 GG` — kommunale Selbstverwaltung.
+- `§ 35 Satz 1 VwVfG` — Verwaltungsakt als Handlungsform.
+- `§ 40 VwVfG` — Ermessensausübung.
+- `§ 47 Abs. 1 VwGO` — Normenkontrolle gegen Satzungen, soweit landesrechtlich eroeffnet.
+- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
+- `§ 74 Abs. 1 VwGO` — Klagefrist.
+- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
+- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
+- `§ 1 Abs. 1 KAG` — Kommunalabgabenrecht als Landesrecht live prüfen.
+- `§ 2 Abs. 1 KAG` — Satzungserfordernis im Abgabenrecht live nach Landesrecht prüfen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+- Gemeindeordnungen, Landkreisordnungen, Kommunalverfassungen der Länder
+- Rat/Kreistag, Bürgermeister/Landrat, Ausschüsse, Bürgerbegehren
+- Kommunalaufsicht, Haushalt, Abgaben, Daseinsvorsorge, Satzungen
+- VwGO, § 47 VwGO, Kommunalwahlrecht-Schnittstellen
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+---
+
+## Skill: `schultraeger-eilantrag-vorbereiten`
+
+_Wenn es um Schultraeger Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Schultraeger Eilantrag Vorbereiten
 
 ## Arbeitsweg
 
@@ -407,7 +408,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

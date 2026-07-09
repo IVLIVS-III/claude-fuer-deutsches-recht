@@ -100,11 +100,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Beschluss vom 10.01.2017 - 4 StR 247/16: Beweiswürdigung darf keine Lücken und Widersprüche offenlassen.
 - BVerfG, Beschluss vom 19.03.2013 - 2 BvR 2628/10: Verständigung im Strafverfahren verlangt Transparenz und Dokumentation.
 - BGH, Beschluss vom 28.11.2018 - 5 StR 566/18: Strafzumessung muss schuldangemessen begründet werden.
-- Ständige Rechtsprechung des BGH zu Paragraf 207 Abs. 2 StPO: Eine vom Eröffnungsbeschluss abweichende rechtliche Würdigung oder Beschränkung des Verfahrensstoffs ist im Beschluss kenntlich zu machen
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen nach Paragraf 257c StPO brauchen Transparenz, Belehrung, Protokollierung
-- BGH, Urteil vom 30.07.1999 - 1 StR 618/98, BGHSt 45, 164: Aussage-gegen-Aussage-Fälle verlangen eine besonders sorgfältige Gesamtwürdigung von Aussageentstehung, Aussagekonstanz und Belastungsmotiven
 - BGH, Beschluss vom 30.05.2018 - 3 StR 486/17, frei nachweisbar über dejure: Urteilsgründe müssen die für erwiesen erachteten Tatsachen so geordnet darstellen, dass die gesetzlichen Merkmale der Tat
-- Ständige Rechtsprechung des BGH zu Paragraf 267 Abs. 3 StGB: Die bestimmenden Strafzumessungsgründe sind im Urteil so anzugeben, dass das Revisionsgericht die Zumessung nachprüfen kann
 
 ## 9. Prüfraster
 

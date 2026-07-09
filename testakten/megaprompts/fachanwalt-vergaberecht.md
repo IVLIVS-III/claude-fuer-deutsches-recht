@@ -6,28 +6,28 @@ Dieser Vollprüfung enthaelt top-8 von 120 Skills (gekuerzt fuer Chat-Fenster) d
 
 ## Inhaltsverzeichnis
 
-1. **vergaberechtliche-pruefung-anwaltlich-vollpruefung** — Vollprüfung fuer die vollstaendige anwaltliche vergaberechtliche Pruefung einer Auftragsvergabe aus Bieter- oder Auftragg…
-2. **einstieg-routing** — Einstieg, Triage und Routing für Fachanwalt Vergaberecht: ordnet Rolle (Bieter, Öffentlicher Auftraggeber, Vergabekammer…
-3. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Fachanwalt Vergaberecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risik…
-4. **mandat-triage-vergaberecht** — Eingangs-Triage für vergaberechtliche Mandate: Mandantenrolle, Schwellenwert, Verfahrensstand und Frist-Sofort-Check: No…
-5. **fachanwalt-vergaberecht-orientierung** — Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen, EU-Schwellen, Nachprüfungsverfahren, Kernliteratur u…
-6. **orientierung-mandat-fachanwaltschaft** — Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen, EU-Schwellen, Nachprüfungsverfahren, Kernliteratur ü…
-7. **spezial-orientierung-red-team-und-qualitaetskontrolle** — Orientierung: Red-Team und Qualitätskontrolle im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Ris…
-8. **orientierung-fehlerkatalog** — Orientierung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Ab…
+1. **vergaberechtliche-pruefung-anwaltlich-vollpruefung** — Wenn es um Vergaberechtliche Prüfung aus anwaltlicher Sicht: Vollprüfung in Fachanwalt Vergaberecht geht: rechnet Schwel…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Vergaberecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden …
+3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Fachanwalt Vergaberecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näch…
+4. **mandat-triage-vergaberecht** — Wenn es um Mandat Triage Vergaberecht in Fachanwalt Vergaberecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den pass…
+5. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Vergaberecht geht: rechnet Schwellen, Beträge, Varianten u…
+6. **spezial-orientierung-red-team-und-qualitaetskontrolle** — Wenn es um Orientierung: Red-Team und Qualitätskontrolle in Fachanwalt Vergaberecht geht: zerlegt Ergebnis, Frist, Zustä…
+7. **fachanwalt-vergaberecht-orientierung** — Wenn es um Fachanwalt für Vergaberecht — Orientierung in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit,…
+8. **orientierung-fehlerkatalog** — Wenn es um Orientierung Fehlerkatalog in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und S…
 
 ---
 
 ## Skill: `vergaberechtliche-pruefung-anwaltlich-vollpruefung`
 
-_Vollprüfung fuer die vollstaendige anwaltliche vergaberechtliche Pruefung einer Auftragsvergabe aus Bieter- oder Auftraggebersicht: Anwendungsbereich GWB/VgV/SektVO/KonzVgV/VOB-A/UVgO, Schwellenwerte, Verfahrensart, Bekanntmachung TED/eForms/DVAL, Eignungs- und Zuschlagskriterien, Wertungsentscheidung, Aufklaerung und Nachforderung 56 VgV, Ausschlussgruende 123/124 GWB, Vorabinformation 134 GWB, Ruege 160 III GWB Frist 10 Tage, Nachpruefungsverfahren bei der Vergabekammer mit Eilantrag 169 GWB, sofortige Beschwerde 171 GWB, De-Facto-Vergabe 135 GWB Sechs-Monats-Frist, Schadensersatz 181 GWB und 33f GWB, vergaberechtskonforme Vertragsanpassung 132 GWB. Strikter Gutachtenstil mit Subsumtion verifizierter Rechtsprechung BGH BVerfG OLG-Vergabesenate und Vergabekammer-Entscheidungen, keine BeckRS-/Kommentar-/Aufsatz-Blindzitate, ohne Mandatsbegruendung._
+_Wenn es um Vergaberechtliche Prüfung aus anwaltlicher Sicht: Vollprüfung in Fachanwalt Vergaberecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
 
 # Vergaberechtliche Prüfung aus anwaltlicher Sicht: Vollprüfung
 
 ## Einsatzlage
 
-Dieser Vollprüfung fuehrt einen Volljuristen Schritt fuer Schritt durch die **vollstaendige vergaberechtliche Pruefung einer konkreten oeffentlichen Auftragsvergabe** — entweder aus Sicht eines abgewiesenen oder ausgeschlossenen Bieters (Angriffsperspektive: Ruege, Nachpruefung, einstweiliger Rechtsschutz, Schadensersatz) oder aus Sicht des oeffentlichen Auftraggebers (Verteidigungsperspektive: Verfahrensfuehrung, Wertung, Vergabeakte, Stand der Pruefung).
+Dieser Skill führt einen Volljuristen Schritt für Schritt durch die vollständige vergaberechtliche Prüfung einer konkreten öffentlichen Auftragsvergabe, entweder aus Sicht eines abgewiesenen oder ausgeschlossenen Bieters (Angriffsperspektive: Rüge, Nachprüfung, einstweiliger Rechtsschutz, Schadensersatz) oder aus Sicht des öffentlichen Auftraggebers (Verteidigungsperspektive: Verfahrensführung, Wertung, Vergabeakte, Stand der Prüfung).
 
-Output ist ein **anwaltliches Pruefgutachten in Gutachtenstil**, das vollstaendig zitierfaehig ist und an dem sich Schriftsaetze fuer die Vergabekammer, sofortige Beschwerden zum Vergabesenat des OLG und Schadensersatzklagen zum Landgericht direkt orientieren lassen.
+Output ist ein anwaltliches Prüfgutachten im Gutachtenstil, das vollständig zitierfähig ist und an dem sich Schriftsätze für die Vergabekammer, sofortige Beschwerden zum Vergabesenat des OLG und Schadensersatzklagen zum Landgericht direkt orientieren lassen.
 
 ### Strikte Quellenhygiene
 
@@ -38,7 +38,7 @@ Output ist ein **anwaltliches Pruefgutachten in Gutachtenstil**, das vollstaendi
 
 ### Strikter Disclaimer-Hinweis
 
-Dieser Vollprüfung ist **kein Mandatsverhaeltnis**, keine Rechtsberatung im Einzelfall und kein Ersatz fuer die anwaltliche Pruefung der Originalunterlagen. Output ist ein Pruefraster, kein Schriftsatz; jede Verwendung in einem realen Mandat erfordert die Verifikation aller Tatsachen, Fristen, Aktenzeichen und Rechtsprechung durch den verantwortlichen Anwalt.
+Dieser Skill begründet kein Mandatsverhältnis, ist keine Rechtsberatung im Einzelfall und ersetzt nicht die anwaltliche Prüfung der Originalunterlagen. Output ist ein Prüfraster, kein Schriftsatz; jede Verwendung in einem realen Mandat erfordert die Verifikation aller Tatsachen, Fristen, Aktenzeichen und Rechtsprechung durch den verantwortlichen Anwalt.
 
 ---
 
@@ -823,7 +823,7 @@ Verwendung im realen Mandat **nur** durch zugelassenen Rechtsanwalt mit eigener 
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Fachanwalt Vergaberecht: ordnet Rolle (Bieter, Öffentlicher Auftraggeber, Vergabekammer), markiert Frist (§ 160 III GWB Rüge unverzüglich (10 Tage)), wählt Norm (GWB §§ 97 ff., VgV, VOB/A, VOL/A, UVgO) und Zuständigkeit (Vergabekammer Bund/Länder), leitet zum pass..._
+_Wenn es um Einstieg und Routing in Fachanwalt Vergaberecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Einstieg und Routing
 
@@ -870,21 +870,22 @@ Dieser Einstieg routet **Fachanwalt Vergaberecht** vom ersten Sachverhalt zu Rol
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting im Fachanwalt Vergaberecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenst..._
+_Wenn es um Kaltstart Triage in Fachanwalt Vergaberecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Vergaberecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Schnellstart-Workflow
 
@@ -923,7 +924,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 
 ### 1. Intake in 60 Sekunden
 
-Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+Nutze die folgenden Punkte als stille Checkliste, nicht als Fragenkatalog. Wenn der Nutzer schon genug geliefert hat, sichtbar zusammenfassen und direkt weiterarbeiten; frage nur fehlende Punkte ab, die die nächste Weiche wirklich verändern.
 
 | Punkt | Frage | Warum wichtig? |
 |---|---|---|
@@ -1024,24 +1025,25 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 ## Skill: `mandat-triage-vergaberecht`
 
-_Eingangs-Triage für vergaberechtliche Mandate: Mandantenrolle, Schwellenwert, Verfahrensstand und Frist-Sofort-Check: Normen: § 106 GWB (EU..._
+_Wenn es um Mandat Triage Vergaberecht in Fachanwalt Vergaberecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Eingangs-Triage für vergaberechtliche Mandate: Mandantenrolle, Schwellenwert, Verfahrensstand und Frist-Sofort-Check
 
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Mandantenpadlet Vergabe Triage Vergaberecht** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Vergaberecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Arbeitsweg
 
@@ -1180,7 +1182,11 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Quellen
@@ -1233,111 +1239,9 @@ Naechster Schritt: [Ruege / NPA / §181-Klage]
 
 ---
 
-## Skill: `fachanwalt-vergaberecht-orientierung`
-
-_Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen, EU-Schwellen, Nachprüfungsverfahren, Kernliteratur ueberblicken. Normen: GWB §§ 97 ff. (Vergaberecht), VgV, SektVO, KonzVgV, UVgO (Unterschwelle), VOB-A. Prüfraster: Schwellenwertabhaengigkeit, Auftragsarten, Verfahrenstypen (offen, nicht-offen, Verhandlung), Nachprüfungsorgane VK und OLG. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Mandats-Triage siehe mandat-triage-vergaberecht; Bau-Architektenrecht siehe fachanwalt-bau-architektenrecht-Plugin._
-
-# Fachanwalt für Vergaberecht — Orientierung
-
-## FAO-Voraussetzungen
-
-- Lehrgang 120 Stunden + drei Klausuren.
-- 40 Fälle in den letzten drei Jahren, davon mindestens 20 streitige.
-
-## Wichtige Normen
-
-| Bereich | Norm |
-|---|---|
-| Vergaberecht Oberschwellig | GWB §§ 97 ff. (Vergaberecht) §§ 155 ff. (Nachprüfung) |
-| Vergabeverordnung | VgV (Liefer- und Dienstleistungen) |
-| Sektoren | SektVO |
-| Konzessionen | KonzVgV |
-| Bauleistungen oberschwellig | VgV-Baubereich VOB-A Abschnitt 2 |
-| Unterschwellig | UVgO (Unterschwellenvergabeordnung) VOB-A Abschnitt 1 |
-| EU-Schwellenwerte | Delegierte Verordnungen (alle zwei Jahre); ab 01.01.2026 (DelVO (EU) 2025/2150/2151/2152): Liefer-/Dienstleistung Kommunen EUR 216000 Bund EUR 140000 Sektoren EUR 432000 Bau und Konzessionen EUR 5404000; Soziale/besondere Dienstleistungen unverändert EUR 750000 (Bund) bzw. EUR 1000000 (Sektoren) |
-| Verteidigung und Sicherheit | VSVgV |
-| EU-RL | RL 2014/24 (allgemein) RL 2014/25 (Sektoren) RL 2014/23 (Konzessionen) RL 2007/66 Rechtsmittel |
-
-## Typische Mandate
-
-- Vertretung Bieter im Vergabeverfahren
-- Ruege bei der Vergabestelle (§ 160 Abs. 3 GWB)
-- Nachprüfungsantrag bei der Vergabekammer
-- Beschwerde gegen Entscheidung der Vergabekammer beim OLG-Vergabesenat
-- Vertretung Auftraggeber (Vergabestelle) bei Streitigkeiten
-- Korruption und Compliance bei öffentlichen Aufträgen
-- Schadensersatz nach § 181 GWB bei vergaberechtswidriger Vergabe
-
-## Fristen
-
-- **Ruegefrist** § 160 Abs. 3 GWB:
-  - **erkannte Verstöße** unverzueglich nach Kenntnis (in der Praxis bis zu zehn Kalendertage).
-  - **erkennbare Verstöße** vor Ablauf der Angebotsfrist.
-  - **in der Bekanntmachung erkennbare Verstöße** bis zum Ablauf der Angebotsfrist.
-- **Nachprüfungsantrag** § 160 GWB binnen 15 Kalendertagen nach Mitteilung der Vergabestelle dass der Ruege nicht abgeholfen wird.
-- **Beschwerde** § 171 GWB binnen zwei Wochen nach Zustellung der Vergabekammer-Entscheidung.
-- **Stillhaltefrist § 134 GWB** zehn Kalendertage (15 bei nicht-elektronischer Information) zwischen Vorinformation und Zuschlag.
-
-## Hauptforen
-
-- **Vergabekammer** (Bund: BKartA Vergabekammer; Land: Vergabekammer der Bezirksregierung / Landesvergabekammer).
-- **OLG-Vergabesenat** Beschwerdeinstanz.
-- **BGH** (XIII. Zivilsenat seit 01.01.2021) bei Divergenzvorlage § 179 Abs. 2 GWB des OLG-Vergabesenats.
-- **EuGH** bei EU-rechtlichen Vorabentscheidungen.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Berufsverband
-
-- ARGE Vergaberecht DAV.
-- DVNW Deutsches Vergabenetzwerk.
-
-## Schnittstellen
-
-- **fachanwalt-bau-architektenrecht** bei Bauaufträgen.
-- **regulatorisches-recht** bei Beihilferecht.
-- **gesellschaftsrecht** bei Bieterkonsortien.
-- **kanzlei-allgemein** Notfristen Versand.
-
-## Vertiefung: Aktuelle Rechtsprechung und Normen
-
-### Schluessel-Leitsaetze Vergaberecht 2020-2024
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Normen-Ueberblick Vergaberecht
-| Regelwerk | Anwendungsbereich |
-|---|---|
-| GWB §§ 97-131 | Grundsaetze (Oberschwelle) |
-| GWB §§ 155-186 | Nachpruefungsverfahren |
-| VgV | Liefer-/Dienstleistungen (Bund/Laender) |
-| SektVO | Versorgungsunternehmen (Wasser/Energie/OEPNV) |
-| KonzVgV | Konzessionsvergaben |
-| UVgO | Unterschwellige Lieferungen/Dienstleistungen |
-| VOB/A Abschnitt 1 | Unterschwellige Bauleistungen |
-| VOB/A Abschnitt 2 | EU-Bauleistungen |
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-
-## Vergabe-Workbench-Boost v61.2
-
-- Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
-- Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
-- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
-- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
-- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
-- Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
-- Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.
-
----
-
 ## Skill: `orientierung-mandat-fachanwaltschaft`
 
-_Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen, EU-Schwellen, Nachprüfungsverfahren, Kernliteratur überblicken: Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen, EU-Schwellen, Nachprüfungsverfahren, Kernliteratur ueber..._
+_Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Vergaberecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
 
 # Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen, EU-Schwellen, Nachprüfungsverfahren, Kernliteratur überblicken
 
@@ -1448,7 +1352,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Skill: `spezial-orientierung-red-team-und-qualitaetskontrolle`
 
-_Orientierung: Red-Team und Qualitätskontrolle im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung._
+_Wenn es um Orientierung: Red-Team und Qualitätskontrolle in Fachanwalt Vergaberecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Orientierung: Red-Team und Qualitätskontrolle
 
@@ -1489,7 +1393,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Quellenregel
@@ -1511,9 +1419,111 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
+## Skill: `fachanwalt-vergaberecht-orientierung`
+
+_Wenn es um Fachanwalt für Vergaberecht — Orientierung in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Fachanwalt für Vergaberecht — Orientierung
+
+## FAO-Voraussetzungen
+
+- Lehrgang 120 Stunden + drei Klausuren.
+- 40 Fälle in den letzten drei Jahren, davon mindestens 20 streitige.
+
+## Wichtige Normen
+
+| Bereich | Norm |
+|---|---|
+| Vergaberecht Oberschwellig | GWB §§ 97 ff. (Vergaberecht) §§ 155 ff. (Nachprüfung) |
+| Vergabeverordnung | VgV (Liefer- und Dienstleistungen) |
+| Sektoren | SektVO |
+| Konzessionen | KonzVgV |
+| Bauleistungen oberschwellig | VgV-Baubereich VOB-A Abschnitt 2 |
+| Unterschwellig | UVgO (Unterschwellenvergabeordnung) VOB-A Abschnitt 1 |
+| EU-Schwellenwerte | Delegierte Verordnungen (alle zwei Jahre); ab 01.01.2026 (DelVO (EU) 2025/2150/2151/2152): Liefer-/Dienstleistung Kommunen EUR 216000 Bund EUR 140000 Sektoren EUR 432000 Bau und Konzessionen EUR 5404000; Soziale/besondere Dienstleistungen unverändert EUR 750000 (Bund) bzw. EUR 1000000 (Sektoren) |
+| Verteidigung und Sicherheit | VSVgV |
+| EU-RL | RL 2014/24 (allgemein) RL 2014/25 (Sektoren) RL 2014/23 (Konzessionen) RL 2007/66 Rechtsmittel |
+
+## Typische Mandate
+
+- Vertretung Bieter im Vergabeverfahren
+- Ruege bei der Vergabestelle (§ 160 Abs. 3 GWB)
+- Nachprüfungsantrag bei der Vergabekammer
+- Beschwerde gegen Entscheidung der Vergabekammer beim OLG-Vergabesenat
+- Vertretung Auftraggeber (Vergabestelle) bei Streitigkeiten
+- Korruption und Compliance bei öffentlichen Aufträgen
+- Schadensersatz nach § 181 GWB bei vergaberechtswidriger Vergabe
+
+## Fristen
+
+- **Ruegefrist** § 160 Abs. 3 GWB:
+  - **erkannte Verstöße** unverzueglich nach Kenntnis (in der Praxis bis zu zehn Kalendertage).
+  - **erkennbare Verstöße** vor Ablauf der Angebotsfrist.
+  - **in der Bekanntmachung erkennbare Verstöße** bis zum Ablauf der Angebotsfrist.
+- **Nachprüfungsantrag** § 160 GWB binnen 15 Kalendertagen nach Mitteilung der Vergabestelle dass der Ruege nicht abgeholfen wird.
+- **Beschwerde** § 171 GWB binnen zwei Wochen nach Zustellung der Vergabekammer-Entscheidung.
+- **Stillhaltefrist § 134 GWB** zehn Kalendertage (15 bei nicht-elektronischer Information) zwischen Vorinformation und Zuschlag.
+
+## Hauptforen
+
+- **Vergabekammer** (Bund: BKartA Vergabekammer; Land: Vergabekammer der Bezirksregierung / Landesvergabekammer).
+- **OLG-Vergabesenat** Beschwerdeinstanz.
+- **BGH** (XIII. Zivilsenat seit 01.01.2021) bei Divergenzvorlage § 179 Abs. 2 GWB des OLG-Vergabesenats.
+- **EuGH** bei EU-rechtlichen Vorabentscheidungen.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Berufsverband
+
+- ARGE Vergaberecht DAV.
+- DVNW Deutsches Vergabenetzwerk.
+
+## Schnittstellen
+
+- **fachanwalt-bau-architektenrecht** bei Bauaufträgen.
+- **regulatorisches-recht** bei Beihilferecht.
+- **gesellschaftsrecht** bei Bieterkonsortien.
+- **kanzlei-allgemein** Notfristen Versand.
+
+## Vertiefung: Aktuelle Rechtsprechung und Normen
+
+### Schluessel-Leitsaetze Vergaberecht 2020-2024
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Normen-Ueberblick Vergaberecht
+| Regelwerk | Anwendungsbereich |
+|---|---|
+| GWB §§ 97-131 | Grundsaetze (Oberschwelle) |
+| GWB §§ 155-186 | Nachpruefungsverfahren |
+| VgV | Liefer-/Dienstleistungen (Bund/Laender) |
+| SektVO | Versorgungsunternehmen (Wasser/Energie/OEPNV) |
+| KonzVgV | Konzessionsvergaben |
+| UVgO | Unterschwellige Lieferungen/Dienstleistungen |
+| VOB/A Abschnitt 1 | Unterschwellige Bauleistungen |
+| VOB/A Abschnitt 2 | EU-Bauleistungen |
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+
+## Vergabe-Workbench-Boost v61.2
+
+- Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
+- Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
+- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
+- Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.
+
+---
+
 ## Skill: `orientierung-fehlerkatalog`
 
-_Orientierung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand._
+_Wenn es um Orientierung Fehlerkatalog in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Orientierung Fehlerkatalog
 

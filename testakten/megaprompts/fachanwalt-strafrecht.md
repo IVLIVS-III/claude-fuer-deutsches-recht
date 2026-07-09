@@ -1,25 +1,25 @@
-# Megaprompt: fachanwalt-strafrecht
+# Vollprüfung: fachanwalt-strafrecht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 240 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-strafrecht`.
+Dieser Vollprüfung enthaelt top-8 von 240 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-strafrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Anwalts-Dashboard Fachanwalt Strafrecht: Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch, Zus…
-2. **mandat-triage-strafrecht** — Strukturierte Eingangs-Abfrage für Strafmandate: Klaert Verfahrensstadium (Ermittlungs- Zwischen- Hauptverfahren Vollstr…
-3. **fachanwalt-strafrecht-orientierung** — Orientierung im Strafrecht-Mandat und Workflow-Routing: Anwendungsfall Strafverteidiger erhaelt neue Anfrage und muss St…
-4. **orientierung-mandat-fachanwaltschaft** — Orientierung im Strafrecht-Mandat und Fallrouting: Anwendungsfall Strafverteidiger erhaelt neue Anfrage und muss Strafre…
-5. **orientierung-fristen-form-und-zustaendigkeit** — Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg: Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg.
-6. **erstgespraech-mandatsannahme** — Erstgespraeach und Mandatsannahme im Strafrecht: Anwendungsfall Beschuldigter oder Verdaechtiger meldet sich nach Polize…
-7. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
-8. **fachanwalt-strafrecht-zeugenbeistand** — Zeugenbeistand im Strafverfahren für Zeugen mit eigenem Rechtsinteresse: Anwendungsfall Person ist als Zeuge geladen hat…
+1. **einstieg-routing** — Wenn es um Anwalts-Dashboard Fachanwalt Strafrecht in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Frist, Unterlagen u…
+2. **mandat-triage-strafrecht** — Wenn es um Strukturierte Eingangs-Abfrage für Strafmandate in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Frist, Unte…
+3. **fachanwalt-strafrecht-orientierung** — Wenn es um Fachanwalt für Strafrecht — Orientierung in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Frist, Unterlagen …
+4. **orientierung-fristen-form-und-zustaendigkeit** — Wenn es um Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Strafrecht geht: prüft Frist, Form, Zu…
+5. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsw…
+6. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und S…
+7. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Fris…
+8. **strafr-wirtschaftsstrafrecht-leitfaden** — Wenn es um Leitfaden Wirtschaftsstrafrecht: Untreue Paragraf 266 StGB, Betrug Paragraf 263, Bilanzdelikte Paragrafen 331…
 
 ---
 
 ## Skill: `einstieg-routing`
 
-_Anwalts-Dashboard Fachanwalt Strafrecht: Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch, Zuständigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs, Norm-Radar; maximal eine Rückfrage. Der Anwalt bleibt im Driver Seat._
+_Wenn es um Anwalts-Dashboard Fachanwalt Strafrecht in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Anwalts-Dashboard Fachanwalt Strafrecht
 
@@ -85,24 +85,25 @@ Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Man
 
 ## Skill: `mandat-triage-strafrecht`
 
-_Strukturierte Eingangs-Abfrage für Strafmandate: Klaert Verfahrensstadium (Ermittlungs- Zwischen- Hauptverfahren Vollstreckung) Tatvorwurf nach Strafrahmen (Vergehen Verbrechen) Haftsituation (Untersuchungsha..._
+_Wenn es um Strukturierte Eingangs-Abfrage für Strafmandate in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Strukturierte Eingangs-Abfrage für Strafmandate
 
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Mandat Triage Plaedoyer Vorbereitung** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Strafrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Arbeitsweg
 
@@ -219,7 +220,11 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Empfehlung Folge-Skill plus Begründung
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Quellen
@@ -247,7 +252,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Skill: `fachanwalt-strafrecht-orientierung`
 
-_Orientierung im Strafrecht-Mandat und Workflow-Routing: Anwendungsfall Strafverteidiger erhaelt neue Anfrage und muss Strafrechts-Konstellation einordnen und richtigen Spezial-Skill finden. § 136 StPO Belehrung, § 137 StPO Verteidigerrecht, StGB Straftatbestaende. Prüfraster Deliktstyp allgemeines oder Wirtschaftsstrafrecht, Verfahrensstand Ermittlung Anklage Hauptverhandlung, Mandantenrolle Beschuldigter Zeuge Nebenklaeger. Output Mandat-Einordnung mit Weiterleitung zum richtigen Workflow-Skill. Abgrenzung zu Mandat-Triage-Strafrecht für ausführliche Erstaufnahme._
+_Wenn es um Fachanwalt für Strafrecht — Orientierung in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
 # Fachanwalt für Strafrecht — Orientierung
 
@@ -335,9 +340,77 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ---
 
+## Skill: `orientierung-fristen-form-und-zustaendigkeit`
+
+_Wenn es um Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg.
+
+## Spezialwissen: Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
+- **Normen-/Quellenanker:** StPO.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Orientierung** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Strafrecht-Orientierung Fristen / Form / Zuständigkeit Bausteine
+- **Sachliche Zuständigkeit GVG:**
+ - **Strafrichter § 25 GVG:** Privatklagen § 374 StPO; allgemein bis Freiheitsstrafe 2 Jahre, sofern nicht hoeher beantragt.
+ - **Schoeffengericht § 28 GVG:** bis Freiheitsstrafe 4 Jahre; alle Strafsachen, die nicht zu hoher Strafkammer oder Strafrichter gehoeren.
+ - **Große Strafkammer § 76 GVG:** alle Strafsachen ab 4 Jahre erwarteter Freiheitsstrafe; bestimmte Wirtschaftsstrafsachen.
+ - **Schwurgericht § 74 II GVG:** Toetungsdelikte §§ 211 ff. StGB, Eingriff in Verkehr mit Todesfolge.
+ - **Oberlandesgericht § 120 GVG:** Staatsschutzdelikte (Hochverrat, Landesverrat, Terror).
+- **Oertliche Zuständigkeit StPO:**
+ - **§ 7 StPO:** Tatort - regelmaessig massgeblich.
+ - **§ 8 StPO:** Wohnsitz Beschuldigter.
+ - **§ 9 StPO:** Ergreifungsort.
+ - **§ 13 StPO:** Verbundene Verfahren.
+- **Fristen-Übersicht (StPO):**
+ - **Einspruch Strafbefehl § 410 StPO: 2 Wochen** ab Zustellung.
+ - **Berufung § 314 StPO: 1 Woche** ab Verkuendung; Begruendung optional.
+ - **Revision § 341 StPO: 1 Woche** Einlegung + § 345 StPO **1 Monat** Begruendung ab Zustellung schriftliche Urteilsausfertigung.
+ - **Beschwerde § 311 StPO: 1 Woche** sofortige; § 304 StPO einfache unbefristet.
+ - **Wiedereinsetzung § 44 StPO: 1 Woche** ab Wegfall des Hindernisses.
+ - **Klageerzwingungsverfahren § 172 II StPO: Antrag 1 Monat** ab Bescheid GenStA.
+- **Form-Re-Check:**
+ - **Schriftform** zwingend für Rechtsmittel (Berufung, Revision, Beschwerde) und Einspruch.
+ - **Unterschrift** Verteidiger / Mandant.
+ - **Vollmacht** bei Vertretung.
+ - **Begruendungs-Pflicht** Revision (Sach- oder Verfahrensruege; § 344 II StPO Substantiierung Verfahrensruege).
+- **Rechtsweg:**
+ - AG -> LG (Berufung § 312 StPO) -> OLG (Revision § 333 StPO bei LG-Urteil 1. Instanz oder Berufungsurteil).
+ - **Sprungrevision § 335 StPO** möglich (Sprung Berufung).
+ - **Wiederaufnahme § 359 StPO** bei neuen Tatsachen / Beweismitteln.
+- **EMRK Art. 6:** angemessene Verfahrensdauer als Korrektiv (Strafmilderung BGH-Linie).
+
+---
+
 ## Skill: `orientierung-mandat-fachanwaltschaft`
 
-_Orientierung im Strafrecht-Mandat und Fallrouting: Anwendungsfall Strafverteidiger erhaelt neue Anfrage und muss Strafrechts-Konstellation einordnen und passendes Fachmodul finden: Orientierung im Strafrecht-Mandat und Fallrouting: Anwendungsfall Strafverte..._
+_Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Orientierung im Strafrecht-Mandat und Fallrouting: Anwendungsfall Strafverteidiger erhaelt neue Anfrage und muss Strafrechts-Konstellation einordnen und passendes Fachmodul finden
 
@@ -435,77 +508,9 @@ Plugin für Fachanwaltschaft-Orientierung. Tiefe Verteidigung erfordert die Erfa
 
 ---
 
-## Skill: `orientierung-fristen-form-und-zustaendigkeit`
-
-_Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg: Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg._
-
-# Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg.
-
-## Spezialwissen: Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Normen-/Quellenanker:** StPO.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Orientierung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Strafrecht-Orientierung Fristen / Form / Zuständigkeit Bausteine
-- **Sachliche Zuständigkeit GVG:**
- - **Strafrichter § 25 GVG:** Privatklagen § 374 StPO; allgemein bis Freiheitsstrafe 2 Jahre, sofern nicht hoeher beantragt.
- - **Schoeffengericht § 28 GVG:** bis Freiheitsstrafe 4 Jahre; alle Strafsachen, die nicht zu hoher Strafkammer oder Strafrichter gehoeren.
- - **Große Strafkammer § 76 GVG:** alle Strafsachen ab 4 Jahre erwarteter Freiheitsstrafe; bestimmte Wirtschaftsstrafsachen.
- - **Schwurgericht § 74 II GVG:** Toetungsdelikte §§ 211 ff. StGB, Eingriff in Verkehr mit Todesfolge.
- - **Oberlandesgericht § 120 GVG:** Staatsschutzdelikte (Hochverrat, Landesverrat, Terror).
-- **Oertliche Zuständigkeit StPO:**
- - **§ 7 StPO:** Tatort - regelmaessig massgeblich.
- - **§ 8 StPO:** Wohnsitz Beschuldigter.
- - **§ 9 StPO:** Ergreifungsort.
- - **§ 13 StPO:** Verbundene Verfahren.
-- **Fristen-Übersicht (StPO):**
- - **Einspruch Strafbefehl § 410 StPO: 2 Wochen** ab Zustellung.
- - **Berufung § 314 StPO: 1 Woche** ab Verkuendung; Begruendung optional.
- - **Revision § 341 StPO: 1 Woche** Einlegung + § 345 StPO **1 Monat** Begruendung ab Zustellung schriftliche Urteilsausfertigung.
- - **Beschwerde § 311 StPO: 1 Woche** sofortige; § 304 StPO einfache unbefristet.
- - **Wiedereinsetzung § 44 StPO: 1 Woche** ab Wegfall des Hindernisses.
- - **Klageerzwingungsverfahren § 172 II StPO: Antrag 1 Monat** ab Bescheid GenStA.
-- **Form-Re-Check:**
- - **Schriftform** zwingend für Rechtsmittel (Berufung, Revision, Beschwerde) und Einspruch.
- - **Unterschrift** Verteidiger / Mandant.
- - **Vollmacht** bei Vertretung.
- - **Begruendungs-Pflicht** Revision (Sach- oder Verfahrensruege; § 344 II StPO Substantiierung Verfahrensruege).
-- **Rechtsweg:**
- - AG -> LG (Berufung § 312 StPO) -> OLG (Revision § 333 StPO bei LG-Urteil 1. Instanz oder Berufungsurteil).
- - **Sprungrevision § 335 StPO** möglich (Sprung Berufung).
- - **Wiederaufnahme § 359 StPO** bei neuen Tatsachen / Beweismitteln.
-- **EMRK Art. 6:** angemessene Verfahrensdauer als Korrektiv (Strafmilderung BGH-Linie).
-
----
-
 ## Skill: `erstgespraech-mandatsannahme`
 
-_Erstgespraeach und Mandatsannahme im Strafrecht: Anwendungsfall Beschuldigter oder Verdaechtiger meldet sich nach Polizeivorladung oder Festnahme und Strafverteidiger muss Mandat strukturiert aufnehmen: Erstgespraeach und Mandatsannahme im Strafrecht: Anwen..._
+_Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Erstgespraeach und Mandatsannahme im Strafrecht: Anwendungsfall Beschuldigter oder Verdaechtiger meldet sich nach Polizeivorladung oder Festnahme und Strafverteidiger muss Mandat strukturiert aufnehmen
 
@@ -721,7 +726,7 @@ Mandantschaft ist Geschäftsführer/in einer GmbH; StA hat Insolvenzantrag gemä
 
 ## Skill: `erstpruefung-und-mandatsziel`
 
-_Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel._
+_Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -781,296 +786,66 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `fachanwalt-strafrecht-zeugenbeistand`
+## Skill: `strafr-wirtschaftsstrafrecht-leitfaden`
 
-_Zeugenbeistand im Strafverfahren für Zeugen mit eigenem Rechtsinteresse: Anwendungsfall Person ist als Zeuge geladen hat aber eigenes Aussageverweigerungsrecht oder Selbstbelastungsrisiko und benoetigt anwaltlichen Beistand. § 68b StPO Zeugenbeistand, § 55 StPO Auskunftsverweigerungsrecht, § 52 StPO Zeugnisverweigerungsrecht. Prüfraster Auskunftsverweigerungsrecht nach § 55 prüfen, Schutz vor Selbstbelastung, Zeugen-Aussage vorbereiten oder Aussage verweigern, Beistand aktiv ausüben. Output Strategie-Memo für Zeugenbeistand mit Aussagepfaden und Verweigerungs-Optionen. Abgrenzung zu Erstgespraeach für Beschuldigte und zu Nebenklage._
+_Wenn es um Leitfaden Wirtschaftsstrafrecht: Untreue Paragraf 266 StGB, Betrug Paragraf 263, Bilanzdelikte Paragrafen 331 ff in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Zeugenbeistand im Strafverfahren
+# Leitfaden Wirtschaftsstrafrecht: Untreue § 266 StGB, Betrug § 263, Bilanzdelikte §§ 331 ff
 
-## Kernsachverhalt & Mandantenfragen
 
-Der Zeugenbeistand ist die anwaltliche Begleitperson eines Zeugen – nicht des Beschuldigten. Die Rolle ist strukturell eigenstaendig: Der Beistand berät den Zeugen, darf aber nicht den Verfahrensverlauf lenken wie ein Verteidiger. Mandanten verstehen diese Unterscheidung selten.
+## Arbeitsweg
 
-**8 Kaltstart-Rückfragen:**
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-1. Haben Sie eine Ladung erhalten und von wem (Polizei, Staatsanwaltschaft, Gericht)? Bitte Ladungsschreiben vorlegen.
-2. Sind Sie selbst beschuldigt oder verdaechtig in derselben Sache oder einer verwandten Sache?
-3. Sind Sie mit der/dem Beschuldigten verwandt, verschwägert, verlobt oder verheiratet?
-4. Üben Sie einen Beruf aus, der eine gesetzliche Schweigepflicht begründet (Arzt, Rechtsanwalt, Steuerberater, Pfarrer, Psychotherapeut)?
-5. Sind Sie Beamter oder Angestellter des öffentlichen Dienstes und benötigen Sie eine Aussagegenehmigung Ihres Dienstherrn?
-6. Wurden Ihnen Drohungen gemacht oder fühlen Sie sich durch das Umfeld der/des Beschuldigten gefährdet?
-7. Sind Sie zugleich Verletzte/r der dem Verfahren zugrundeliegenden Tat?
-8. Haben Sie bereits Angaben gegenüber der Polizei gemacht und wenn ja, in welchem Umfang?
+**Fokus:** Leitfaden Wirtschaftsstrafrecht: Untreue § 266 StGB, Betrug § 263, Bilanzdelikte §§ 331 ff. HGB / § 400 AktG, Compliance-Verteidigung. Prüfraster Wirtschaftsstrafkammer.
 
----
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+### StrafR: Wirtschaftsstrafrecht
 
-## Rechtsgrundlagen
+## Spezialwissen: StrafR: Wirtschaftsstrafrecht
+- **Normen-/Quellenanker:** HGB, AktG.
 
-| Norm | Inhalt |
-|---|---|
-| § 48 StPO | Pflicht zur Aussage; grundsätzliche Erscheinens- und Aussagepflicht des Zeugen |
-| § 52 StPO | Zeugnisverweigerungsrecht der Angehörigen (Ehegatten, Verwandte gerader Linie, Seitenlinie bis 3. Grad) |
-| § 53 StPO | Zeugnisverweigerungsrecht der Berufsgeheimnisträger (Ärzte, Anwälte, Steuerberater, Geistliche u.a.) |
-| § 53a StPO | Zeugnisverweigerungsrecht beruflicher Gehilfen (z.B. Rechtsanwaltsfachangestellte) |
-| § 54 StPO | Aussagegenehmigung für Amtsträger; Versagung mit Begruendungspflicht |
-| § 55 StPO | Auskunftsverweigerungsrecht bei Selbstbelastungsgefahr (einzelne Fragen oder ganze Aussage) |
-| § 68 StPO | Vernehmung zur Person; Adressanonymisierung Abs. 2 und Abs. 3 |
-| § 68a StPO | Beschränkung ehrenrühriger Fragen |
-| § 68b StPO | Anwaltlicher Beistand des Zeugen; Beiordnung Abs. 2 bei Schutzbedürftigkeit |
-| § 70 StPO | Zwangsmittel bei unberechtigter Zeugnisverweigerung (Ordnungsgeld, Erzwingungshaft) |
-| § 97 StPO | Beschlagnahmeverbot bei Berufsgeheimnissen |
-| § 136a StPO | Verbotene Vernehmungsmethoden (analog für Zeugen) |
-| § 161a StPO | Vernehmung von Zeugen durch die Staatsanwaltschaft |
-| § 163a StPO | Vernehmung durch die Polizei |
-| § 247 StPO | Entfernung des Angeklagten bei Zeugenvernehmung (Schutzvorschrift) |
-| § 406e StPO | Akteneinsicht für Verletzte (analog für Zeugenbeistand anerkannt) |
+## Fallweichen
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
----
+1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
+2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
+3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Leitentscheidungen
+## Prüfraster
 
-| Aktenzeichen | Gericht / Datum | Leitsatz |
-|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
----
+1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
+2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
-## Prüfschema Zeugenbeistand
+## Plugin-Kontext
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
-| Schritt | Inhalt | Grundlage |
-|---|---|---|
-| 1 | Ladung prüfen: Wer lädt (Polizei/StA/Gericht)? Verfahrensstadium? Beweisthema? | § 48, § 161a, § 163a StPO |
-| 2 | Zeugnisverweigerungsrecht § 52 StPO: Angehörigeneigenschaft prüfen (Ehe, Verwandtschaft, Lebenspartnerschaft) | § 52 StPO |
-| 3 | Zeugnisverweigerungsrecht § 53 StPO: Berufsgeheimnisträger? Entbindungserklärung vorhanden? | § 53, § 53a StPO |
-| 4 | Aussagegenehmigung § 54 StPO: Amtsträger? Genehmigung erteilt oder beantragt? | § 54 StPO |
-| 5 | Auskunftsverweigerungsrecht § 55 StPO: Welche Fragen beinhalten Selbstbelastungsgefahr? Einzelfragen oder gesamte Aussage betroffen? | § 55 StPO |
-| 6 | Akteneinsicht beantragen (analog § 406e StPO oder über § 475 StPO) | § 406e, § 475 StPO |
-| 7 | Beiordnungsantrag § 68b Abs. 2 StPO prüfen: Schutzbedürftigkeit, Minderjährigkeit, Gefährdungslage, Verbindung zu Organisierter Kriminalität | § 68b Abs. 2 StPO |
-| 8 | Adressanonymisierung § 68 Abs. 2/3 StPO prüfen: Stalking, häusliche Gewalt, Zeugenschutzbedarf | § 68 StPO |
-| 9 | Aussage-Chronologie mit Mandantschaft erarbeiten: Was weiß sie/er und aus welcher Quelle? Erinnerungslücken offen lassen | § 68b StPO |
-| 10 | Schriftliche Mandantenbelehrung über Rechte (§§ 52, 55 StPO) und Pflichten (§ 48 StPO) | § 48, § 52, § 55 StPO |
-| 11 | Vernehmungsbegleitung: Anwesenheit, Wortmeldungsrecht; Schutz vor § 136a-StPO-Methoden; Pausenanträge bei § 55-Konstellationen | § 68b StPO |
-| 12 | Protokollkontrolle: Richtigkeit und Vollständigkeit; ggf. Berichtigungsantrag | § 168 S. 2 StPO |
-| 13 | Nachbereitung: Zeugen-Memo, Prüfung weiterer Schritte (Beschwerde, Strafanzeige bei Druckausübung) | §§ 162, 306 StPO |
+## Output-Module
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
+- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
----
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Zeugen-Beistand | Zeugenbeistand-Protokoll; Template unten |
-| Variante A — Zeuge wird Beschuldigter | Sofort Aussageverweigerung; Mandatsumwandlung |
-| Variante B — Zeuge im Ausland | Internationale Rechtshilfe; Aussagepflicht pruefen |
-| Variante C — Behoedenzeuge (Beamter) | Aussagegenehmigung Dienststelle; Amtsgeheimnis |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-
-## Schriftsatzbausteine
-
-### Baustein 1 – Beiordnungsantrag § 68b Abs. 2 StPO
-
-```
-An das [Gericht / Staatsanwaltschaft]
-Aktenzeichen: [...]
-
-Antrag auf Beiordnung als anwaltlicher Zeugenbeistand
-gemäß § 68b Abs. 2 StPO
-
-In der Strafsache gegen [Name Beschuldigte/r]
-zeige ich die anwaltliche Vertretung der Zeugin / des Zeugen
-[Name, Geburtsdatum, Anschrift]
-an.
-
-Ich beantrage, mich als anwaltlichen Beistand der Zeugin / des Zeugen
-gemäß § 68b Abs. 2 StPO beizuordnen.
-
-Begründung:
-Die Beiordnung ist erforderlich, weil [konkret: z.B.
-"die Zeugin minderjährig und einem erheblichen Drohungsdruck
-durch den Beschuldigten ausgesetzt ist; es liegen Erkenntnisse
-vor, dass der Beschuldigte über Mittelsleute Einfluss auf
-das Aussageverhalten ausübt (dokumentiert durch SMS-Nachrichten
-vom [Datum], Anlage 1)"].
-
-Die Vernehmung ist für den [Termin] vor [Behörde/Gericht]
-angesetzt.
-
-[Ort, Datum]
-[Unterschrift, Kanzlei]
-```
-
-### Baustein 2 – Erklärung Auskunftsverweigerungsrecht § 55 StPO
-
-```
-An den/die Vernehmungsbeamten/-beamtin / Vorsitzenden
-[Behörde / Gericht]
-
-In der Vernehmung der Zeugin / des Zeugen [Name]
-am [Datum], Aktenzeichen [...]
-
-Erklärung gemäß § 55 StPO
-
-Ich erkläre namens und in Vollmacht der Zeugin / des Zeugen
-[Name]:
-
-Auf die Frage [ggf. konkrete Frage nennen oder: "betreffend
-den Sachverhaltskomplex X"] verweigert die Zeugin / der Zeuge
-die Auskunft gemäß § 55 StPO.
-
-Die wahrheitsgemäße Beantwortung würde die Zeugin / den Zeugen
-der Gefahr aussetzen, wegen einer Straftat verfolgt zu werden
-(§ 55 Abs. 1 StPO). Eine Belehrung gemäß § 55 Abs. 2 StPO
-ist [nicht] erfolgt.
-
-Soweit die Vernehmungsperson die Berechtigung dieser
-Verweigerung bezweifelt, beantrage ich die Entscheidung
-des zuständigen Richters (§ 55 Abs. 2 S. 3 StPO).
-
-[Ort, Datum]
-[Unterschrift]
-```
-
-### Baustein 3 – Akteneinsichtsantrag (Zeugenbeistand, analog § 406e StPO)
-
-```
-An die Staatsanwaltschaft [...]
-Aktenzeichen: [...]
-
-Antrag auf Akteneinsicht gemäß § 406e StPO (analog) /
-§ 475 StPO
-
-Ich zeige die anwaltliche Vertretung der Zeugin / des Zeugen
-[Name] an.
-
-Ich beantrage Einsicht in die Verfahrensakte, insbesondere:
-- Anklageschrift / Eröffnungsbeschluss
-- Vernehmungsprotokolle
-- Sachverständigengutachten
-- [weitere konkrete Unterlagen]
-
-Das berechtigte Interesse ergibt sich aus der bevorstehenden
-Zeugenvernehmung am [Termin]. Eine sachgerechte Vorbereitung
-ist ohne Kenntnis des Verfahrensstands und der bereits vor-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-[Ort, Datum]
-[Unterschrift]
-```
-
---- vor Versand klaeren ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
----
-
-## Beweislast
-
-| Konstellation | Beweislast |
-|---|---|
-| Berechtigung zur Zeugnisverweigerung § 52 StPO | Zeugin/Zeuge behauptet Angehörigeneigenschaft; Gericht prüft von Amts wegen, ggf. eidesstattliche Erklärung |
-| Auskunftsverweigerungsrecht § 55 StPO | Zeugin/Zeuge muss Verfolgungsgefahr glaubhaft machen; keine volle Beweispflicht, aber substantiiertes Vorbringen |
-| Beiordnung § 68b Abs. 2 StPO | Antragstellerin/Antragsteller trägt Schutzbedürftigkeit vor; Gericht entscheidet nach freiem Ermessen |
-| Beschlagnahmeverbot § 97 StPO | Beschuldigtenverteidigung trägt Schutzwürdigkeit vor; Staatsanwaltschaft muss keine Ausnahme beweisen |
-
----
-
-## Fristen und Verjährung
-
-| Frist | Inhalt | Norm |
-|---|---|---|
-| Sofort | Beiordnungsantrag vor Vernehmungstermin stellen | § 68b Abs. 2 StPO |
-| 2 Wochen | Beschwerde gegen Ablehnung der Beiordnung (§ 306 StPO) | § 311 StPO |
-| Vor Aussage | Akteneinsicht rechtzeitig beantragen; Reaktionszeit der Behörde einplanen (3–5 Tage bei StA) | § 406e StPO |
-| Sofort in der Vernehmung | § 55-Erklärung muss vor der strittigen Antwort abgegeben werden, nicht nachträglich | § 55 StPO |
-| 1 Woche nach Vernehmung | Protokollberichtigung beantragen, wenn Fehler vorliegen | § 168 S. 2 StPO |
-
----
-
-## Typische Gegenargumente
-
-| Gegenargument | Erwiderung |
-|---|---|
-| "Die Zeugin muss aussagen, § 48 StPO gilt uneingeschränkt" | § 48 StPO begründet Pflicht, enthält aber keine Aussagepflicht bei Verweigerungsrechten; §§ 52, 53, 55 StPO gehen als lex specialis vor |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| "Zeugenbeistand darf nicht sprechen" | § 68b Abs. 1 S. 2 StPO erlaubt Beanstandungen; bei Beiordnung auch Erklärungen; BGH hat Erklärungsrecht bestätigt |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| "Adressanonymisierung ist unverhältnismäßig" | § 68 Abs. 3 StPO erfordert nur drohende Gefahr, nicht bereits eingetretene Schädigung; pauschal aber unzureichend |
-
----
-
-## Streitwert / Kosten
-
-| Position | Berechnung |
-|---|---|
-| Wahlmandat Zeugenbeistand | RVG Teil 4 (analog Verteidigergebühren VV 4100 ff.); Mittelgebühr nach Aufwand |
-| Beiordnung § 68b Abs. 2 StPO | Pflichtverteidigergebühren nach VV-RVG; Kostentragung durch Staatskasse |
-| Akteneinsicht als Nebenleistung | keine gesonderte Gebühr; im Verfahrensgebühren-Rahmen enthalten |
-| Mehrere Vernehmungstermine | Terminsgebühr je Termin (VV 4102/4103 je nach Gericht/Behörde) |
-| Beschwerdeverfahren | eigenständige Verfahrens- und Terminsgebühr nach Teil 4 VV-RVG |
-
----
-
-## Typische Konstellationen im Detail
-
-### Konstellation A: Familienmitglied als Zeuge gegen Angehörigen
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Konstellation B: Mit-Beschuldigter als Zeuge im Parallelverfahren
-
-Höchste Vorsicht: § 55 StPO greift für jede einzelne Frage. Vorher Akteneinsicht in Parallelverfahren beantragen. Aussage mit eigener Strafverteidigungsstrategie abstimmen. Beiordnung nach § 68b Abs. 2 StPO beantragen. Bei Kollision Zeugenbeistand/Verteidigung: § 146 StPO beachten – zwei getrennte Mandate.
-
-### Konstellation C: Berufsgeheimnisträger (Arzt, Anwalt, Steuerberater)
-
-Prüfen, ob Entbindungserklärung des Mandanten/Patienten vorliegt. Ohne Entbindung: § 53 StPO geltend machen. Bei Sicherstellung von Unterlagen: § 97 StPO Beschlagnahmeverbot prüfen (nur greift wenn Zeuge selbst nicht verdächtig). Bei vorliegender Entbindung: Aussage auf gedeckten Umfang beschränken; keine freiwillige Ausweitung.
-
-### Konstellation D: Zeuge in Wirtschaftsstrafverfahren
-
-§ 55 StPO regelmäßig einschlägig. Compliance-Untersuchungen (Internal Investigations) vorab analysieren: Verwertungsverbote nach sog. Mannheimer Modell prüfen. Geschäftsgeheimnisse: § 53 StPO greift nur für Berufsgeheimnisträger, nicht pauschal für Unternehmensgeheimnisse. Sicherstellungen nach § 94 StPO im Vorfeld der Vernehmung sind häufig; Beschlagnahmeverbot § 97 StPO prüfen.
-
-### Konstellation E: Whistleblower / Hinweisgeber
-
-HinSchG-Schutz prüfen (Hinweisgeberschutzgesetz 2023). Identitätsschutz und Adressanonymisierung § 68 Abs. 2/3 StPO. Beiordnung § 68b Abs. 2 StPO mit Schutzbedürftigkeit begründen. Repressalienschutz dokumentieren (Art. 19 HinSchG: Verbot der Benachteiligung).
-
----
-
-## Strategische Empfehlung
-
-| Situation | Empfehlung |
-|---|---|
-| Zeugin hat keine Kenntnisse von der Tat | Offene, ehrliche Aussage mit Begleitung; kein Schweigen ohne Grund (Glaubwürdigkeitsrisiko) |
-| Zeugin könnte sich selbst belasten | § 55 StPO konsequent einsetzen; Akteneinsicht vor Aussage zwingend |
-| Angehörige/r ist zeugnisverweigerungsberechtigt | Entscheidung ausführlich besprechen; emotionale und strategische Aspekte abwägen; schriftlich dokumentieren |
-| Gefährdungslage vorhanden | Adressanonymisierung § 68 StPO + Beiordnung § 68b Abs. 2 StPO gleichzeitig beantragen |
-| Amtsträger ohne Genehmigung | Aussage verweigern bis Genehmigung vorliegt; Rechtsweg gegen Versagung (§ 54 Abs. 3 StPO) |
-| Zeuge ist auch Verletzter | Nebenklage prüfen; doppelte Mandat-Führung (Zeugenbeistand + Nebenklage) möglich, aber klar trennen |
-
----
-
-## Anschluss-Skills
-
-- `fachanwalt-strafrecht-nebenklage-opfervertretung` – wenn Zeuge zugleich Verletzter ist
-- `fachanwalt-strafrecht-adhaesionsverfahren` – wenn Verletzter zivilrechtliche Ansprüche geltend macht
-- `fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft` – bei Wirtschaftsstrafverfahren mit Vermögensbezug
-- `plaedoyer-vorbereitung-strafverteidigung` – Hauptverhandlungsbegleitung nach Anschluss als Nebenklage
-
----
-
-## Quellen
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Was dieser Arbeitsgang nicht macht
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
+- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
+- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
+- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du einen Deckungsanspruch prüfen und gegen die Ablehnung des Versicherers durchsetzen.
+Wenn du das hier öffnest, willst du Sozialversicherungsstatus, Scheinselbständigkeit, Geschäftsführerstatus oder DRV-Beitragsrisiko sofort nach Gesamtbild und Belegen prüfen.
 
 # Sozialversicherungsstatus Prüfer — Schnellstart
 
@@ -17,45 +17,43 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Vertrag und Sparte: Versicherungsart, Versicherungsnehmer, versicherte Person, Risiko, Laufzeit und Bedingungen erfassen.
-2. Versicherungsfall: Eintritt, Anzeige, Schadenhoehe, Kausalitaet, Ausschluss und Beweislast ordnen.
-3. Obliegenheiten: vorvertragliche Anzeige, Gefahrerhoehung, Schadenanzeige, Mitwirkung und Rechtsfolgenbelehrung prüfen.
-4. Deckung und Regulierung: Leistungsentscheidung, Quote, Regress, Verjährung und Prozessrisiko ausarbeiten.
-5. Arbeitsprodukt: Deckungsmemo, Anspruchsschreiben, Ablehnungsschreiben, Vergleichsvorschlag oder Klageentwurf formulieren.
-6. Anhörung und Erwiderung: Tragende Normen verifizieren: SGB IV Paragrafen 7, 7a, 28a, 28p, SGB VI Paragraf 2 Nr. 9, BGH und BSG.
+1. Auftrag und Zeitraum: Tätigkeit, Vertrag, Abrechnung, Einsatzort, Kunde, Gesellschaft und Prüfzeitraum feststellen.
+2. Gesamtbild: Weisungen, Eingliederung, Unternehmerrisiko, eigene Betriebsmittel, Vergütung und Außenauftritt gewichten.
+3. Sonderrollen: Geschäftsführer, Familienangehöriger, Lehrkraft, Plattformarbeiter, Freiberufler und arbeitnehmerähnlicher Selbständiger getrennt prüfen.
+4. Verfahren: Statusantrag, Anhörung, Betriebsprüfung, Säumniszuschläge, Beitragsbescheid, Widerspruch und Eilverfahren abbilden.
+5. Arbeitsprodukt: Statusmatrix, Anhörungserwiderung, Beitragsrisikorechnung, Widerspruch oder Klageentwurf erstellen.
+6. Anhörung und Erwiderung: Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | VVG Paragraf 1; VVG Paragraf 19; VVG Paragraf 28 |
-| Rechtsprechung | BGH, Urteil vom 22.06.2011 - IV ZR 225/10; BGH, Urteil vom 12.03.2014 - IV ZR 306/13 |
-| Tatbestand | Tragende Normen verifizieren: SGB IV Paragrafen 7, 7a, 28a, 28p, SGB VI Paragraf 2 Nr. 9, BGH und BSG |
-| Beweislast | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung |
-| Rechtsfolge | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
+| Normenanker | SGB IV Paragraf 7; SGB IV Paragraf 7a; SGB IV Paragraf 28p |
+| Rechtsprechung | BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R; BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R |
+| Tatbestand | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten |
+| Beweislast | Rentenversicherung oder Einzugsstelle für Gesamtbild und Beitragsforderung; Auftraggeber und Erwerbstätiger für Vertrag, Eingliederung, Weisungen und Unternehmerrisiko |
+| Rechtsfolge | Statusfeststellungsantrag, Anhörungserwiderung, Beitragsabwehr, Nachzahlungsplan, Widerspruch oder Klage |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anhörung und Erwiderung | Tragende Normen verifizieren: SGB IV Paragrafen 7, 7a, 28a, 28p, SGB VI Paragraf 2 Nr. 9, BGH und BSG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Freier Mitarbeiter Anwalt | Tragende Normen verifizieren: SGB IV Paragrafen 7, 7a, 28a, 28p, SGB VI Paragraf 2 Nr. 9, BGH und BSG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitnehmerüberlassung Abgrenzung | Tragende Normen verifizieren: SGB IV Paragrafen 7, 7a, 28a, 28p, SGB VI Paragraf 2 Nr. 9, BGH und BSG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsmittel und Equipment | Tragende Normen verifizieren: SGB IV Paragrafen 7, 7a, 28a, 28p, SGB VI Paragraf 2 Nr. 9, BGH und BSG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| abrufen-Selbsttest Unternehmen | Tragende Normen verifizieren: SGB IV Paragrafen 7, 7a, 28a, 28p, SGB VI Paragraf 2 Nr. 9, BGH und BSG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ausland Remote EU A1 | Tragende Normen verifizieren: SGB IV Paragrafen 7, 7a, 28a, 28p, SGB VI Paragraf 2 Nr. 9, BGH und BSG. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anhörung und Erwiderung | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Freier Mitarbeiter Anwalt | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitnehmerüberlassung Abgrenzung | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsmittel und Equipment | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| abrufen-Selbsttest Unternehmen | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ausland Remote EU A1 | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- VVG Paragraf 1: vertragstypische Pflichten aus dem Versicherungsvertrag.
-- VVG Paragraf 19: vorvertragliche Anzeigepflicht und Rechtsfolgen.
-- VVG Paragraf 28: Obliegenheitsverletzung nach Vertragsschluss.
-- VVG Paragraf 61: Beratungspflichten des Versicherungsvermittlers.
-- BGH, Urteil vom 22.06.2011 - IV ZR 225/10: Beratungspflichten im Versicherungsvertrieb verlangen anlassbezogene, dokumentierbare Bedarfsermittlung.
-- BGH, Urteil vom 12.03.2014 - IV ZR 306/13: Obliegenheitsverletzungen sind nach Kausalitaet, Verschulden und Belehrung zu prüfen.
-- Verifizierte Anker: BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrer/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- SGB IV Paragraf 7: Beschäftigung als nichtselbständige Arbeit, insbesondere Weisungsgebundenheit und Eingliederung.
+- SGB IV Paragraf 7a: Statusfeststellungsverfahren.
+- SGB IV Paragraf 28p: Betriebsprüfung durch Rentenversicherungsträger.
+- SGB IV Paragraf 28e: Beitragsschuld des Arbeitgebers.
+- BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R: Lehrkräfte und Dozenten sind nach dem konkreten Gesamtbild der Tätigkeit einzuordnen.
+- BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R: Auch bei Piloten oder Freelancern entscheiden Eingliederung, Weisungen und Unternehmerrisiko im Einzelfall.
 
 ## 7. Antwortform
 

@@ -58,9 +58,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragrafen 194 ff., 280 ff., 286, 288, 362 ff.; ZPO Paragrafen 253, 688 ff., 794, 802a ff.; RVG/GKG für Kosten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zahlungsunfähigkeit ist regelmäßig bei Liquiditätslücke von zehn Prozent anzunehmen.
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.
-- Verifizierte Anker: BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen Paragraf 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: Paragraf 343 InsO Anerkennung
 - BGH IX ZR 114/23 vom 19.12.2024 — Anforderungen an die Individualisierung der Forderung iSd Paragraf 174 Abs. 2 InsO; bei Abtretung müssen Zedent und Zessionar jeweils separat anmelden und einen eigenen
-- [https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.12.2024&Aktenzeichen=IX+ZR+114/23]
+- BGH IX ZR 127/24 vom 13.11.2025 (Wirecard) — Aktionärs-Schadensersatzforderungen sind in der Insolvenz der AG keine einfachen Insolvenzforderungen iSd Paragraf 38 InsO; Nachrang. Bedeutung
 
 ## 7. Antwortform
 

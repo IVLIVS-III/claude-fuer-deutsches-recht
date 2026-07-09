@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Reaktion auf Abmahnung oder Strafanzeige | Art. 5 GG schützt auch scharfe, polemische und verletzende Meinungen; BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Reaktion auf Abmahnung oder Strafanzeige | Art. 5 GG schützt auch scharfe, polemische und verletzende Meinungen; EuGH, Urteil vom 16.12.2008 - C-73/07, Satakunnan Markkinapörssi | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Art. 11 GRCh ersetzt Art. 5 GG nicht, sondern wirkt | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Art. 5 GG - Abwägung | Art. 11 GRCh ersetzt Art. 5 GG nicht, sondern wirkt; EuGH, Urteil vom 16.12.2008 - C-73/07, Satakunnan Markkinapörssi | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Art. 5 GG - Abwägung | Art. 11 GRCh ersetzt Art. 5 GG nicht, sondern wirkt; EuGH, Urteil vom 14.02.2019 - C-345/17, Buivids | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -65,11 +65,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
 | EuGH, Urteil vom 16.12.2008 - C-73/07, Satakunnan Markkinapörssi und Satamedia | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Journalistische Zwecke sind funktional zu verstehen; Datenschutz darf öffentliche Information nicht pauschal ersticken |
 | EuGH, Urteil vom 14.02.2019 - C-345/17, Buivids | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Auch Einzelpersonen können journalistische Zwecke verfolgen; Veröffentlichung von Polizeivideo braucht Abwägung |
 | EuGH, Urteil vom 24.09.2019 - C-507/17, Google/CNIL | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | De-Referenzierung muss räumlich und grundrechtlich austariert werden; kein Automatismus weltweiter Löschung |
 | EuGH, Urteil vom 03.10.2019 - C-18/18, Glawischnig-Piesczek/Facebook Ireland | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Gerichte können Plattformen zur Entfernung identischer und unter Umständen gleichwertiger rechtswidriger Inhalte |
+| EuGH, Urteil vom 26.04.2022 - C-401/19, Polen/Parlament und Rat | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Uploadfilter-Regime brauchen wirksame Schutzvorkehrungen für rechtmäßige Kommunikation, einschließlich Zitat, Kritik |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -81,11 +81,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 8. Leitentscheidungen
 
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - EuGH, Urteil vom 16.12.2008 - C-73/07, Satakunnan Markkinapörssi und Satamedia: Journalistische Zwecke sind funktional zu verstehen; Datenschutz darf öffentliche Information nicht pauschal ersticken
 - EuGH, Urteil vom 14.02.2019 - C-345/17, Buivids: Auch Einzelpersonen können journalistische Zwecke verfolgen; Veröffentlichung von Polizeivideo braucht Abwägung mit Datenschutz
 - EuGH, Urteil vom 24.09.2019 - C-507/17, Google/CNIL: De-Referenzierung muss räumlich und grundrechtlich austariert werden; kein Automatismus weltweiter Löschung
 - EuGH, Urteil vom 03.10.2019 - C-18/18, Glawischnig-Piesczek/Facebook Ireland: Gerichte können Plattformen zur Entfernung identischer und unter Umständen gleichwertiger rechtswidriger Inhalte verpflichten
+- EuGH, Urteil vom 26.04.2022 - C-401/19, Polen/Parlament und Rat: Uploadfilter-Regime brauchen wirksame Schutzvorkehrungen für rechtmäßige Kommunikation, einschließlich Zitat, Kritik, Rezension, Karikatur
 
 ## 9. Prüfraster
 

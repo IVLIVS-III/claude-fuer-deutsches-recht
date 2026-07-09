@@ -53,8 +53,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 120 BGB: Haftung bei Übermittlungsfehlern durch Boten oder Übermittlungseinrichtung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 164 BGB: Handeln im fremden Namen; abzugrenzen vom Boten ohne eigene Willenserklärung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 242 BGB: Treu und Glauben — Empfänger kann sich nicht auf Nichtzugang berufen, wenn er ihn vereitelt hat: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 130 BGB — gesetze-im-internet.de: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 116 BGB — gesetze-im-internet.de: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 291 bis 302 StGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 305 Abs. 1 BGB: Definiton der AGB als einseitig gestellte Vertragsbedingungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

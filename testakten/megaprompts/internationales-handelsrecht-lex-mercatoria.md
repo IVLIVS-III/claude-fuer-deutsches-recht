@@ -1,41 +1,42 @@
-# Megaprompt: internationales-handelsrecht-lex-mercatoria
+# Vollprüfung: internationales-handelsrecht-lex-mercatoria
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 192 Skills (gekuerzt fuer Chat-Fenster) des Plugins `internationales-handelsrecht-lex-mercatoria`.
+Dieser Vollprüfung enthaelt top-8 von 192 Skills (gekuerzt fuer Chat-Fenster) des Plugins `internationales-handelsrecht-lex-mercatoria`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Internationales Handelsrecht und Lex Mercatoria: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste …
-2. **contract-playbook-exporter** — Internationales Handelsrecht: Vertragshandbuch für den Exporteur. Standardpositionen in Verhandlungen, Fallback-Position…
-3. **expert-determination** — Internationales Handelsrecht: Expert Determination (Sachverständigenentscheidung) im internationalen Handelsrecht. Abgre…
-4. **inspection-certificate-late-delivery-liquidated** — Internationales Handelsrecht: Inspektionszertifikat im internationalen Handel. Arten (Quantitäts-, Qualitäts-, Herkunfts…
-5. **langfristige-liefervertraege-lsa** — Internationales Handelsrecht: Langfristige Lieferverträge (Long-Term Supply Agreement, LSA). Preisanpassungsklauseln, Mi…
-6. **late-delivery-liquidated-damages** — Internationales Handelsrecht: Lieferverzug und Liquidated Damages im internationalen Kaufvertrag. CISG Art. 45/74 als Gr…
-7. **pecl-und-soft-law-vergleich** — Internationales Handelsrecht: Soft-Law-Vergleich UNIDROIT PICC 2016 vs. Principles of European Contract Law (PECL) vs. D…
-8. **public-policy-and-mandatory-law** — Internationales Handelsrecht: Ordre public und Eingriffsnormen in der internationalen Schiedsgerichtsbarkeit und im IPR.…
+1. **kaltstart-triage** — Wenn es um Internationales Handelsrecht und Lex Mercatoria - Allgemeiner Einstieg in Internationales Handelsrecht und Le…
+2. **unidroit-hardship** — Wenn es um Hardship (Leistungserschwernis) nach UNIDROIT Principles Art. 6.2.1-6.2.3 in Internationales Handelsrecht und…
+3. **cisg-schadensersatz-und-mitigation** — Wenn es um Schadensersatz und Schadensminderung (CISG Art. 74-78) in Internationales Handelsrecht und Lex Mercatoria geh…
+4. **penalty-vs-liquidated-damages** — Wenn es um Penalty vs. Liquidated Damages: Rechtsvergleich in Internationales Handelsrecht und Lex Mercatoria geht: ordn…
+5. **cisg-wesentliche-vertragsverletzung** — Wenn es um Wesentliche Vertragsverletzung (CISG Art. 25) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet…
+6. **unidroit-force-majeure** — Wenn es um Force Majeure: PICC Art. 7.1.7 und CISG Art. 79 in Internationales Handelsrecht und Lex Mercatoria geht: ordn…
+7. **cisg-anwendungsbereich** — Wenn es um CISG Anwendungsbereich (Art. 1-13) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhal…
+8. **cisg-ware-dokumente-digitalisierung** — Wenn es um Ware, Dokumente und Digitalisierung (CISG Art. 34-35) in Internationales Handelsrecht und Lex Mercatoria geht…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Internationales Handelsrecht und Lex Mercatoria: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe._
+_Wenn es um Internationales Handelsrecht und Lex Mercatoria - Allgemeiner Einstieg in Internationales Handelsrecht und Lex Mercatoria geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
 # Internationales Handelsrecht und Lex Mercatoria - Allgemeiner Einstieg
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Internationales Handelsrecht Lex Mercatoria** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Startfragen
 
@@ -54,11 +55,11 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ---
 
-## Skill: `contract-playbook-exporter`
+## Skill: `unidroit-hardship`
 
-_Internationales Handelsrecht: Vertragshandbuch für den Exporteur. Standardpositionen in Verhandlungen, Fallback-Positionen, Prioritäten (Rechtswahl, Schiedsklausel, Haftungsbeschränkung, Eigentumsvorbehalt) und BATNA-Analyse für internationale Kaufverträge im Internationales Handelsrecht Lex Merc..._
+_Wenn es um Hardship (Leistungserschwernis) nach UNIDROIT Principles Art. 6.2.1-6.2.3 in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Contract Playbook für Exporteure
+# Hardship (Leistungserschwernis) nach UNIDROIT Principles Art. 6.2.1-6.2.3
 
 ## Arbeitsweg
 
@@ -70,98 +71,51 @@ _Internationales Handelsrecht: Vertragshandbuch für den Exporteur. Standardposi
 
 ## Worum es geht
 
-Ein Contract Playbook hilft Exporteuren, ihre Standardpositionen und Verhandlungsstrategie zu systematisieren. Es definiert Must-Haves (Rechtswahl, Schiedsklausel), Should-Haves (Haftungscap, EV) und Nice-to-Haves (Audit-Recht, ESG-Klausel). BATNA-Analyse schärft Verhandlungsflexibilität.
+Hardship (Art. 6.2.1-6.2.3 PICC) liegt vor, wenn veränderte Umstände das Gleichgewicht des Vertrags grundlegend stören — Kosten steigen erheblich oder Wert der Leistung sinkt erheblich. Der benachteiligte Teil kann Neuverhandlung verlangen; scheitert diese, kann das Schiedsgericht den Vertrag beenden oder anpassen. Abzugrenzen von Force Majeure (Art. 7.1.7 PICC): Hardship macht Leistung erschwert, FM macht sie unmöglich.
 
 ## Kernnormen / Kernquellen
 
-- **CISG Art. 6**: Opting-out vs. Opting-in (Rechtswahl-Priorität)
-- **ICC Schiedsregeln 2021**: Schiedsklausel als Dispute-Resolution-Standard
-- **BGB §§ 449, 929**: Eigentumsvorbehalt — Must-Have für alle Exporteure
-- **CISG Art. 74-77**: Schadensersatz und Mitigation — Haftungscap-Rechtfertigung
-- **LkSG §§ 3-5**: ESG/LkSG-Lieferkettenklausel als wachsendes Standard
-- **VBER (EU) 2022/720**: Vertriebsklauseln im Exportkontext
+- **Art. 6.2.1 PICC**: Grundregel — Binding Force, kein Hardship-Einwand wenn vorhersehbar
+- **Art. 6.2.2 PICC**: Definition Hardship — fundamental alteration of equilibrium, vier Alternativen
+- **Art. 6.2.3 PICC**: Rechtsfolge — Neuverhandlung, dann Gericht/Schiedsgericht (Auflösung oder Anpassung)
+- **Art. 7.1.7 PICC**: Force Majeure — Abgrenzung (Unmöglichkeit vs. Erschwernis)
+- **CISG Art. 79**: Vergleichsnorm (kein Anpassungsrecht, nur Befreiung)
+- **§ 313 BGB**: Störung der Geschäftsgrundlage — nationales Pendant
 
 ## Schlüsselbegriffe
 
-- Must-Have: ohne diese Klauseln kein Vertragsabschluss (Rechtswahl, Schiedsklausel, EV)
-- Should-Have: starke Verhandlungsposition erforderlich (Haftungscap, FM-Klausel)
-- Nice-to-Have: opportunistisch einfordern (ESG-Auditrecht, Indexklausel)
-- Fallback-Position: was Exporteur akzeptiert wenn Must-Have abgelehnt wird
-- BATNA: Best Alternative to a Negotiated Agreement — Mindeststandard definieren
+- Fundamental alteration: wesentlich erhöhte Kosten oder wesentlich gesunkener Wert
+- Unvorhersehbarkeit: zum Zeitpunkt des Vertragsschlusses
+- Risikosphäre: Partei, die Risiko bewusst übernommen hat, kann sich nicht auf Hardship berufen
+- Neuverhandlungspflicht: in gutem Glauben (Art. 1.7 PICC), nicht mit Obstruktion
+- Gerichtliche Anpassung: als letztes Mittel (nicht als erster Schritt)
 
 ## Typische Streitfragen / Anwendungsfälle
 
-1. Käufer verlangt Anwendbarkeit seines nationalen Rechts: Akzeptabler Kompromiss?
-2. Kein Schiedsgericht: Kann ICC-Mediation + staatliches Gericht Fallback sein?
-3. Haftungscap verweigert: Wie alternativ mit Haftungsausschlussklausel für Folgeschäden?
-4. Eigentumsvorbehalt in Nicht-Anerkennungsland: Welche Alternative (Akkreditiv, Bürgschaft)?
-5. ESG-Klausel: Wann ist das verhandelbar und wann must-have (LkSG-Pflicht)?
+1. Begründet COVID-19-Lockdown Hardship für Warenlieferungsverträge?
+2. Rohstoffpreisanstieg von 400%: Hardship oder übernommenes Preisrisiko?
+3. Sanktionen als Hardship oder Force Majeure — Abgrenzungsproblem?
+4. Muss Neuverhandlung vor Klageerhebung versucht worden sein (prozessuale Vorfrage)?
+5. Kann Schiedsgericht Preisanpassung anordnen statt Vertragsauflösung?
 
 ## Methodik
 
-- Playbook-Struktur: Klausel → Standardposition → Begründung → Fallback → Red Line
-- BATNA-Analyse vor jeder Verhandlung definieren
-- Länder-spezifische Anpassung: EV in USA (UCC Filing), China (lokale Registrierung)
-- Revisionszyklus: Playbook jährlich auf Rechtsentwicklungen (CISG-Rspr., VBER, LkSG) aktualisieren
+- Vierstufige Prüfung Art. 6.2.2: (1) Ungleichgewicht, (2) wesentlich, (3) nach Abschluss, (4) unvorhersehbar
+- Abgrenzung FM/Hardship: kann Schuldner noch leisten? Ja → Hardship; Nein → FM
+- Neuverhandlungsklausel im Vertrag: triggert Art. 6.2.3-Mechanismus explizit
+- Schiedsgerichts-Praxis: Zurückhaltung bei Anpassung (jusmundi.com-Schiedssprüche)
 
 ---
 
-## Skill: `expert-determination`
+## Skill: `cisg-schadensersatz-und-mitigation`
 
-_Internationales Handelsrecht: Expert Determination (Sachverständigenentscheidung) im internationalen Handelsrecht. Abgrenzung zu Schiedsgerichtsbarkeit, Verbindlichkeit, ICC Expert Rules 2015, Einsatzgebiete (Preis, Qualität, Bilanzen) und Anfechtbarkeit im Internationales Handelsrecht Lex Mercat..._
+_Wenn es um Schadensersatz und Schadensminderung (CISG Art. 74-78) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Expert Determination
+# Schadensersatz und Schadensminderung (CISG Art. 74-78)
 
-## Arbeitsweg
+## Arbeitsbereich
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); CISG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Worum es geht
-
-Expert Determination ist ein alternatives Streitbeilegungsverfahren, bei dem ein unabhängiger Sachverständiger eine bindende Entscheidung über technische oder Fachfragen trifft — typischerweise Preisbestimmung, Qualitätsfeststellung, Bilanzbewertung. Sie ist kein Schiedsverfahren und unterliegt nicht der NY Convention. Anfechtbarkeit ist beschränkt.
-
-## Kernnormen / Kernquellen
-
-- **ICC Expert Rules 2015**: Verfahrensregeln für Expert Determination (iccwbo.org)
-- **RICS Expert Determination Rules**: Immobilienbewertung und Baustreitigkeiten
-- **§§ 317-319 BGB**: Bestimmung der Leistung durch Dritte — verbindlich wenn nicht offenbar unbillig
-- **§ 319 BGB**: Anfechtung der Drittbestimmung — nur offenbar unbillig
-- **Englisches Recht**: Expert Determination endgültig außer bei Fraud oder Überschreitung des Auftrags
-
-## Schlüsselbegriffe
-
-- Expert Determination vs. Arbitration: kein rechtliches Gehör gefordert; kein NY-Convention-Schutz
-- Binding-ness: Entscheidung bindet Parteien (außer offensichtliche Unbilligkeit § 319 BGB)
-- ICC Expert-Ernennung: von ICC Court ernannter Experte → Neutralität
-- Preis-Expert: häufigster Einsatz bei Kaufpreis-Anpassungen (M&A, Langzeitlieferverträge)
-- Jurisdiction vs. Expert: Abgrenzung — was sind reine Fachfragen vs. Rechtsfragen?
-
-## Typische Streitfragen / Anwendungsfälle
-
-1. Expert Determination oder Schiedsverfahren für Qualitätsmangel? Wann was?
-2. § 319 BGB: Wann ist Bestimmung "offenbar unbillig" und damit nicht bindend?
-3. ICC Expert Determination Kosten: Wie hoch sind Kosten im Vergleich zu ICC-Schiedsverfahren?
-4. Expert ohne Begründung: Ist Entscheidung ohne Begründung anfechtbar?
-5. Mixed Dispute: Partei behauptet Rechtsfrage; Gegenpartei sagt Sachfrage — wer entscheidet?
-
-## Methodik
-
-- Expert-Determination-Klausel: Gegenstand (Preis, Qualität, Menge), Qualifikation des Experten, Bindungswirkung, Kosten
-- ICC-Ernennung: bei Einigungsproblem ICC Court-Ernennung; neutral und international
-- § 319 BGB: nur extreme Fälle; keine Überprüfung inhaltlicher Richtigkeit
-- Abgrenzungsklausel: bei gemischten Streitigkeiten (Sach- und Rechtsfragen) Schieds-Rückfall-Klausel
-
----
-
-## Skill: `inspection-certificate-late-delivery-liquidated`
-
-_Internationales Handelsrecht: Inspektionszertifikat im internationalen Handel. Arten (Quantitäts-, Qualitäts-, Herkunftszertifikat), Anforderungen nach UCP 600 Art. 26, Aussteller (SGS, Bureau Veritas, Intertek), und Wirkung als Beweisurkunde in Streitfällen im Internationales Handelsrecht Lex Me..._
-
-# Inspektionszertifikat
+Internationales Handelsrecht: Schadensersatz nach CISG Art. 74-77. Voller Ersatz des Verlustes und entgangenen Gewinns (Art. 74), Deckungskauf/-verkauf (Art. 75), abstrakter Marktpreis (Art. 76), Schadenminderungspflicht (Art. 77) und Zinsen (Art. 78). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -173,102 +127,51 @@ _Internationales Handelsrecht: Inspektionszertifikat im internationalen Handel. 
 
 ## Worum es geht
 
-Inspektionszertifikate bescheinigen Qualität, Menge, Ursprung oder Zustand von Waren und sind häufig Akkreditivdokument. UCP 600 Art. 26 regelt die Anforderungen an Inspektionszertifikate. Im Streitfall dienen sie als Beweismittel zur Vertragsmäßigkeit nach CISG Art. 35.
+Das CISG-Schadensersatzsystem beruht auf dem Grundsatz der vollen Kompensation (Art. 74): Verlust und entgangener Gewinn, begrenzt durch die Vorhersehbarkeit zum Vertragsabschluss. Art. 75 und 76 bieten konkrete Berechnungsweisen bei Vertragsaufhebung. Art. 77 verpflichtet den Gläubiger zur Schadensminderung — Verstoß reduziert den Anspruch.
 
 ## Kernnormen / Kernquellen
 
-- **UCP 600 Art. 26**: Inspection Certificate — Anforderungen (Aussteller, Inhalt, Datum)
-- **CISG Art. 35**: Vertragsmäßigkeit — Inspektionszertifikat als Beweismittel
-- **CISG Art. 38**: Käufer-Untersuchungspflicht — PSI kann Pflicht erfüllen
-- **ISO/IEC 17020**: Akkreditierungsanforderungen für Inspektionsstellen
-- **WHO Inspection Standards** (für Pharma/Lebensmittel): GMP/GHP
+- **Art. 74 CISG**: Voller Schadensersatz — Verlust + entgangener Gewinn, Vorhersehbarkeitsgrenze
+- **Art. 75 CISG**: Konkrete Methode — Deckungsgeschäft (nach Vertragsaufhebung)
+- **Art. 76 CISG**: Abstrakte Methode — Vertragspreisdifferenz zum laufenden Marktpreis
+- **Art. 77 CISG**: Schadensminderungspflicht — angemessene Maßnahmen; Versäumnis → Reduktion
+- **Art. 78 CISG**: Zinsen — kein expliziter Zinssatz (durch IPR zu ergänzen)
+- **Art. 79 CISG**: Befreiung bei Hindernis (kein Schadensersatz, aber Aufhebungsrecht bleibt)
 
 ## Schlüsselbegriffe
 
-- Quantitätszertifikat: Gewichts- und Mengenbescheinigung (SGS, BV)
-- Qualitätszertifikat: Konformität mit Vertragsmerkmalen
-- Phytosanitäres Zertifikat: Pflanzenschutz für Agrarimporte
-- Ursprungszeugnis: IHK oder staatliche Ausstellung (nicht-präferenzielle)
-- Funnel-Test: Akkreditiv-Anforderungen müssen auf Zertifikatsinhalt passen
+- Vorhersehbarkeit: Typ des Verlustes zur Zeit des Vertragsabschlusses (nicht Höhe)
+- Deckungskauf Art. 75: Angemessenheit, Unverzüglichkeit nach Aufhebung
+- Marktpreis Art. 76: laufender Preis am Erfüllungsort (oder anderen Referenzmarkt)
+- Mitigation: zumutbare Maßnahmen — kein Selbstopfer, aber aktive Gegenmaßnahmen
+- Zinshöhe Art. 78: nationales Recht nach IPR (CISG bleibt stumm)
 
 ## Typische Streitfragen / Anwendungsfälle
 
-1. Akkreditiv verlangt "Inspection Certificate by SGS" — BV-Zertifikat akzeptabel?
-2. Zertifikat vom falschen Datum: Diskrepanz nach UCP 600 Art. 26?
-3. Zertifikat bescheinigt Konformität, Ware ist defekt: Welchen Beweiswert hat das Zertifikat?
-4. Phytosanitäres Zertifikat: Wer stellt aus und wann muss es vorliegen?
-5. ISO 17020 Akkreditierung: Verlangt UCP 600 akkreditierten Aussteller?
+1. Umfasst Art. 74 Rechtsverfolgungskosten und Gutachterkosten als ersatzfähigen Schaden?
+2. Wann ist ein Deckungskauf "angemessen" i.S.d. Art. 75 (Preis, Timing, Marktzugang)?
+3. Vorhersehbarkeit: Muss der Typ des Schadens oder der Betrag vorhersehbar sein?
+4. Zinssatz Art. 78: Welches nationale Recht gilt — Schuld- oder Forderungsstatut?
+5. Art. 77 Verstoß: Nur Schadensreduzierung oder vollständiger Anspruchsverlust?
 
 ## Methodik
 
-- Akkreditiv: Aussteller und Inhalt des Zertifikats exakt definieren (nicht nur "Inspection Certificate")
-- Streitfall: Zertifikat als Prima-facie-Beweis; Gegenbeweis durch eigene Inspektion
-- Phytosanitär: staatliche Ausstellung im Ursprungsland; Timing für Akkreditiv beachten
-- UCP 600 Art. 26: kein Standard-Format vorgegeben — Inhalt nach Akkreditivbedingungen
-
----
-
-## Skill: `langfristige-liefervertraege-lsa`
-
-_Internationales Handelsrecht: Langfristige Lieferverträge (Long-Term Supply Agreement, LSA). Preisanpassungsklauseln, Mindestmengen (Take-or-Pay), Qualitätssicherung, Änderungsmanagement, Vertragsauflösung und Force-Majeure-Klausel in mehrjährigen Verträgen im Internationales Handelsrecht Lex Mer..._
-
-# Langfristige Lieferverträge (LSA)
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); CISG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Worum es geht
-
-Langfristige Lieferverträge sichern Versorgung und Absatz über mehrere Jahre. Sie erfordern dynamische Anpassungsmechanismen (Preisgleitklauseln, Änderungsverfahren) und klare Regelungen für außerordentliche Ereignisse. CISG Art. 29 erlaubt Vertragsänderungen; PICC Art. 6.2.1-6.2.3 regelt Hardship.
-
-## Kernnormen / Kernquellen
-
-- **CISG Art. 14 Abs. 1**: Bestimmtheit — Preisformel reicht als Preisangabe
-- **CISG Art. 29**: Vertragsänderung — formfrei wenn kein Schriftformvorbehalt (Art. 29 Abs. 2)
-- **PICC Art. 6.2.1-6.2.3**: Hardship — Neuverhandlungsrecht bei Vertragsstörung
-- **§ 313 BGB**: Störung der Geschäftsgrundlage — nationales Pendant zu Hardship
-- **§ 308 Nr. 4 BGB**: AGB-Änderungsvorbehalte — Grenzen im deutschen Recht
-- **ICC Force Majeure Clause 2020**: Standardklausel für langfristige Verträge
-
-## Schlüsselbegriffe
-
-- Take-or-Pay-Klausel: Mindestabnahmeverpflichtung — Käufer zahlt auch wenn er nicht abnimmt
-- Preisgleitklausel: Index-basierte Anpassung (PPI, Rohstoffindex, Energiepreis)
-- Change Management: Verfahren für Änderungen der Spezifikationen
-- Laufzeit und Kündigung: ordentliche und außerordentliche Kündigung
-- Renegotiation Clause: explizite Neuverhandlungspflicht bei Indexabweichung
-
-## Typische Streitfragen / Anwendungsfälle
-
-1. Take-or-Pay: Muss Käufer bei Produktionsausfall zahlen (Force Majeure vs. Take-or-Pay)?
-2. Preisindexklausel: Welcher Index passt zu Kunststoffen (ICIS-Daten, Ethylen-Spot)?
-3. CISG Art. 29: Mündliche Änderung eines schriftlichen LSA — wirksam?
-4. § 308 Nr. 4 BGB: Einseitiger Änderungsvorbehalt des Lieferanten in AGB wirksam?
-5. Vertragsauflösung nach 5 Jahren: Welche Nachwirkungspflichten (Übergangsphase, IP)?
-
-## Methodik
-
-- Preisgleitklausel: Basispreis + Index-Referenz + Anpassungsfrequenz + Cap
-- Take-or-Pay: FM-Carve-out für Ausnahmefälle; Make-up-Recht für spätere Abnahme
-- Änderungsmanagement: Schriftlichkeitsgebot für Änderungen und Change-Order-Verfahren
-- Laufzeit und Exit: Kündigungsfristen nach Transaktionsvolumen staffeln
+- Vorhersehbarkeit immer auf Vertragsabschluss beziehen, nicht auf Verletzung
+- Art. 75 vor Art. 76 prüfen (konkret vor abstrakt)
+- Mitigation-Pflicht als eigenen Prüfpunkt anlegen
+- Zinsen Art. 78: Renvoi auf anwendbares nationales Recht nach Rom I
 
 ## Quellenregel
 
-CISG Art. 14, 29: uncitral.un.org. PICC Art. 6.2.1-6.2.3: unidroit.org. BGB §§ 308, 313: gesetze-im-internet.de. ICC FM-Klausel 2020: iccwbo.org. Unsicherheit bleibt sichtbar.
+CISG Art. 74-78: uncitral.un.org. Rechtsprechung: CISG-online.ch, jusmundi.com. CISG Advisory Council Opinion No. 6 (Art. 74, 77). Schrifttum: Gotanda in Kröll/Mistelis/Viscasillas (2018) Art. 74. Unsicherheit bleibt sichtbar.
 
 ---
 
-## Skill: `late-delivery-liquidated-damages`
+## Skill: `penalty-vs-liquidated-damages`
 
-_Internationales Handelsrecht: Lieferverzug und Liquidated Damages im internationalen Kaufvertrag. CISG Art. 45/74 als Grundlage, Klauselgestaltung, Vorhersehbarkeitsgrenzen, Verhältnis zu CISG-Schadensersatz und Penalty-Kontrolle in verschiedenen Rechtsordnungen im Internationales Handelsrecht Le..._
+_Wenn es um Penalty vs. Liquidated Damages: Rechtsvergleich in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Lieferverzug und Liquidated Damages
+# Penalty vs. Liquidated Damages: Rechtsvergleich
 
 ## Arbeitsweg
 
@@ -280,103 +183,51 @@ _Internationales Handelsrecht: Lieferverzug und Liquidated Damages im internatio
 
 ## Worum es geht
 
-Liquidated Damages (LD) sind im Voraus vereinbarte Schadensersatzpauschalen für Lieferverzug. Sie erleichtern die Schadensdurchsetzung ohne Einzelnachweis. CISG Art. 74 ermöglicht LD, begrenzt sie aber auf Vorhersehbarkeit. In Common-Law-Ländern gilt die Penalty-Doktrin; im deutschen Recht ist die Vertragsstrafe nach §§ 339-345 BGB zulässig.
+Die Abgrenzung Penalty (unzulässige Strafklausel) und Liquidated Damages (zulässige Pauschale) ist in Common-Law-Systemen fundamental: Penalties sind nicht durchsetzbar. UK-Recht reformierte den Test durch Cavendish Square v Makdessi [2015]: Eine Klausel ist Penalty wenn sie kein legitimes Interesse schützt und nicht im Verhältnis zum Schaden steht. Civil-Law-Systeme kennen Vertragsstrafen, aber mit richterlichem Mäßigungsrecht.
 
 ## Kernnormen / Kernquellen
 
-- **CISG Art. 74**: Schadensersatz — Vorhersehbarkeitsbegrenzung gilt auch für LD-Klauseln
-- **CISG Art. 45 Abs. 1 lit. b**: Schadensersatz bei Lieferverzug als Rechtsbehelf
-- **BGB §§ 339-345**: Vertragsstrafe — zulässig, richterliches Mäßigungsrecht § 343
-- **Penalty Rule (English Law)**: Cavendish Square Holding v Makdessi [2015] UKSC 67 — neuer Test
-- **PICC Art. 7.4.13**: Agreed Payment for Non-performance — Reduktion bei Unverhältnismäßigkeit
-- **NEC4-Vertrag**: Standard LD-Klausel in Anlagenbau
+- **Cavendish Square Holding BV v Makdessi [2015] UKSC 67**: Neuer UK-Penalty-Test
+- **Dunlop Pneumatic Tyre Co v New Garage [1915] AC 79**: Alter UK-Test (Pre-Estimate)
+- **PICC Art. 7.4.13**: Vereinbarte Zahlung bei Nichterfüllung — Reduktionsrecht
+- **BGB § 339**: Vertragsstrafe-Definition; § 343 Mäßigung durch Gericht
+- **Code Civil Français Art. 1231-5**: Richterliches Mäßigungsrecht (reform 2016)
+- **NEC4 Standard Contract**: LD-Klausel-Praxis im internationalen Anlagenbau
 
 ## Schlüsselbegriffe
 
-- Genuine Pre-Estimate (Common Law): LD muss echte Schadensvorab-schätzung sein (nicht Strafe)
-- Mäßigungsrecht § 343 BGB: Gericht kann unverhältnismäßige Vertragsstrafe reduzieren
-- Liability Cap: maximale Haftung (oft 10% Vertragswert)
-- Delay-in-Completion-LD vs. Delay-in-Delivery-LD (bei Bauverträgen)
-- Mutual LD: auch Käufer haftet bei verspäteter Abnahme
-
-## Typische Streitfragen / Anwendungsfälle
-
-1. LD-Klausel 1% pro Woche bis 10% Gesamtvertragswert: Wirksam unter CISG und BGB?
-2. Lieferverzug durch Sublieferant: Gilt LD auch ohne Eigenverschulden?
-3. Penalty vs. LD: Wann ist eine Klausel nach englischem Recht eine unzulässige Penalty?
-4. LD und konkreter Schaden: Kann Käufer LD und zusätzlich CISG-Schadensersatz verlangen?
-5. Liability-Cap: Schließt LD-Klausel mit Cap weitergehende CISG-Ansprüche aus?
-
-## Methodik
-
-- LD-Bemessung: auf Basis echter Schadensschätzung (Vorhersehbarkeit Art. 74 CISG)
-- Penalty-Test (UK): Legitimate Business Interest + proportionate — Cavendish-Test anwenden
-- § 343 BGB Mäßigung: LD-Höhe im Verhältnis zum tatsächlichen Schaden dokumentieren
-- Liability-Cap: immer mit Haftungsausschluss für Folgeschäden kombinieren
-
-## Quellenregel
-
-CISG Art. 74: uncitral.un.org. BGB §§ 339-345: gesetze-im-internet.de. Cavendish Square Holding v Makdessi [2015] UKSC 67: bailii.org. PICC Art. 7.4.13: unidroit.org. Unsicherheit bleibt sichtbar.
-
----
-
-## Skill: `pecl-und-soft-law-vergleich`
-
-_Internationales Handelsrecht: Soft-Law-Vergleich UNIDROIT PICC 2016 vs. Principles of European Contract Law (PECL) vs. Draft Common Frame of Reference (DCFR). Anwendungsfelder, Gemeinsamkeiten, Divergenzen und Relevanz für grenzüberschreitende Verträge im Internationales Handelsrecht Lex Mercatoria._
-
-# PECL, DCFR und PICC: Soft-Law-Vergleich
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); CISG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Worum es geht
-
-Neben UNIDROIT PICC existieren europäische Soft-Law-Instrumente: die Principles of European Contract Law (PECL, Lando-Kommission 1995-2003) und der Draft Common Frame of Reference (DCFR, 2009, von Study Group on a European Civil Code). PECL ist auf EU-Vertragsrecht ausgerichtet; PICC global. Der DCFR war Basis für optionales EU-Kaufrecht (CESL 2011, gescheitert). Für internationale Kaufverträge sind PICC praktikabler.
-
-## Kernnormen / Kernquellen
-
-- **PECL Art. 1:201**: Good Faith and Fair Dealing — vergleichbar PICC Art. 1.7
-- **PECL Art. 8:108**: Excuse due to an Impediment — vergleichbar CISG Art. 79
-- **DCFR II.-9:101-102**: Contract Terms — Integration, Priority
-- **PICC Art. 1.7 vs. PECL Art. 1:201**: beide zwingend, aber Reichweite unterschiedlich
-- **CESL-Vorschlag COM(2011) 635**: Optionales EU-Kaufrecht (zurückgezogen 2015)
-- **PECL Kommentar**: Lando/Beale, Principles of European Contract Law (2000)
-
-## Schlüsselbegriffe
-
-- Scope: PICC global (nicht nur EU), PECL EU-orientiert
-- Good Faith: PECL und PICC beide zwingend, aber Intensität divergiert
-- Hardship: PECL Art. 6:111 (Change of Circumstances) vs. PICC Art. 6.2.1-6.2.3
-- Remedy-System: PECL ähnlich PICC; DCFR stärker national-rechtlich beeinflusst
-- Auslegungsmethode: beide autonom (kein Rückgriff auf nationales Recht)
+- Legitimate Business Interest: UK-Test — Interesse über reine Schadensersatzfunktion hinaus
+- Genuine Pre-Estimate: alter UK-Test — echte Schadensvorabschätzung
+- Richterliches Mäßigungsrecht: D (§ 343 BGB) und F (Art. 1231-5 CC) — Civil Law Standard
+- Nil-Schaden und LD: LD wirksam auch wenn kein konkreter Schaden entstanden?
+- Stacking-Problem: mehrere LD-Klauseln die kumulieren — Gesamtwirkung prüfen
 
 ## Typische Streitfragen / Forschungsfragen
 
-1. Welches Instrument wählt ein Schiedsgericht wenn Parteien "allgemeine Grundsätze" vereinbaren?
-2. Wo unterscheiden sich PECL und PICC bei Change of Circumstances / Hardship?
-3. Ist DCFR als Auslegungshilfe für CISG-Lücken geeignet?
-4. Warum scheiterte CESL und welche Lehren für optionales EU-Vertragsrecht?
-5. PICC vs. PECL: Welches Instrument wird in ICC-Schiedssprüchen häufiger zitiert?
+1. LD von 5% Vertragswert bei Nil-Schaden: Wirksam nach UKSC Cavendish?
+2. PICC Art. 7.4.13: Wann kann Schiedsgericht LD-Klausel reduzieren?
+3. § 343 BGB: Wie viel kann das Gericht reduzieren (konkreter Schaden als Maßstab)?
+4. Kombination LD und Vertragsaufhebungsrecht: Ausschließlich oder kumulativ?
+5. Strafklausel für Rücktritt von Angebot: Penalty oder zulässige Option?
 
 ## Methodik
 
-- Komparative Darstellung in Tabellen: Norm PICC — Norm PECL — Norm DCFR
-- Schiedsgerichtspraxis: CENTRAL trans-lex.org für Zitationshäufigkeit
-- Europarechtlicher Kontext: DCFR als Auslegungsmaterial für EU-Richtlinien
-- Für praktische Vertragsgestaltung: PICC bevorzugen (mehr Schiedspraxis)
+- UK: Cavendish-Test (1. Legitimate Interest, 2. Proportionality) vor LD-Klausel prüfen
+- BGB: Strafbetrag im Verhältnis zum erwarteten Schaden kalkulieren
+- PICC: Unverhältnismäßigkeit dokumentieren für Schiedsargument
+- Internationale Verträge: Rechtsordnung wählen die LD-Klausel wirksam hält (Rechtswahl)
+
+## Quellenregel
+
+Cavendish [2015] UKSC 67: bailii.org. BGB §§ 339, 343: gesetze-im-internet.de. PICC Art. 7.4.13: unidroit.org. Code Civil Art. 1231-5: legifrance.gouv.fr. Unsicherheit bleibt sichtbar.
 
 ---
 
-## Skill: `public-policy-and-mandatory-law`
+## Skill: `cisg-wesentliche-vertragsverletzung`
 
-_Internationales Handelsrecht: Ordre public und Eingriffsnormen in der internationalen Schiedsgerichtsbarkeit und im IPR. Unterschied ordre public und Eingriffsnorm, truly international public policy, EU-Kartellrecht als Eingriffsnorm und CISG-Ausschluss durch ordre public im Internationales Hande..._
+_Wenn es um Wesentliche Vertragsverletzung (CISG Art. 25) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Ordre Public und Eingriffsnormen
+# Wesentliche Vertragsverletzung (CISG Art. 25)
 
 ## Arbeitsweg
 
@@ -388,45 +239,206 @@ _Internationales Handelsrecht: Ordre public und Eingriffsnormen in der internati
 
 ## Worum es geht
 
-Ordre public und Eingriffsnormen sind Ausnahmen von der Parteiautonomie. Eingriffsnormen (overriding mandatory provisions, Art. 9 Rom I) setzen sich gegen die Rechtswahl durch. Ordre public (Art. 21 Rom I) verhindert offensichtlich unzumutbare Ergebnisse. Im Schiedsrecht: Art. V Abs. 2 lit. b NY Convention erlaubt Vollstreckungsverweigerung bei ordre-public-Verletzung.
+Art. 25 CISG ist die Schlüsselnorm des CISG-Rechtsbehelfssystems. Nur bei wesentlicher Verletzung darf der Gläubiger den Vertrag aufheben (Art. 49 Abs. 1 lit. a, Art. 64 Abs. 1 lit. a CISG). Die Wesentlichkeit hängt vom erheblichen Nachteil und der Vorhersehbarkeit ab. Der Schuldner kann Wesentlichkeit abwenden, wenn er nachweist, dass er den Nachteil nicht vorhergesehen hat und eine vernünftige Person in seiner Lage ihn auch nicht vorhergesehen hätte.
 
 ## Kernnormen / Kernquellen
 
-- **Rom I Art. 9 Abs. 1**: Eingriffsnormen — "international zwingende Vorschriften"
-- **Rom I Art. 9 Abs. 3**: Eingriffsnormen des Erfüllungsorts — discretionary application
-- **Rom I Art. 21**: Ordre public — offensichtliche Unvereinbarkeit mit öffentlicher Ordnung
-- **NY Convention Art. V Abs. 2 lit. b**: Ordre public als Vollstreckungshindernis
-- **AEUV Art. 101/102**: EU-Kartellrecht als Eingriffsnorm
-- **EuGH C-126/97 Eco Swiss**: EU-Kartellrecht ist ordre public — Schiedssprüche prüfbar
+- **Art. 25 CISG**: Definition — erheblicher Nachteil + Vorhersehbarkeitstest
+- **Art. 49 Abs. 1 lit. a CISG**: Aufhebungsrecht des Käufers bei wesentlicher Verletzung
+- **Art. 64 Abs. 1 lit. a CISG**: Aufhebungsrecht des Verkäufers
+- **Art. 46 Abs. 2 CISG**: Ersatzlieferung nur bei wesentlicher Verletzung
+- **Art. 47/48 CISG**: Nachfrist (Fixierung vor Aufhebung bei unwesentlicher Verletzung)
+- **Art. 51 CISG**: Teillieferung — Wesentlichkeit für gesamte oder Teillieferung
 
 ## Schlüsselbegriffe
 
-- Eingriffsnorm: zwingend anwendbar unabhängig von Vertragsstatut (z.B. Exportverbote, Verbraucherschutz)
-- Ordre public: weniger streng als Eingriffsnorm — nur offensichtliche Unvereinbarkeit
-- Truly International Public Policy: ordre public-Kern der über nationale Grenzen hinausgeht
-- Eco-Swiss-Doktrin: EU-Kartellrecht ist supranational ordre public; Schiedsgerichte sind verpflichtet
-- Anti-Suit und ordre public: Verbot paralleler staatlicher Klage als ordre-public-Frage?
+- Erheblicher Nachteil (substantial deprivation) — nicht bagatellhafter Mangel
+- Vorhersehbarkeit: objektiver Maßstab — vernünftige Person gleicher Art in gleicher Lage
+- Kurierlieferung vs. Standardlieferung: Terminüberschreitung als wesentlich?
+- Mangel am Kerngegenstand vs. Nebenpflichtverletzung
+- Reparierbarkeit als Faktor (CISG-Advisory Council Opinion No. 5)
 
 ## Typische Streitfragen / Anwendungsfälle
 
-1. Schiedsspruch verletzt AEUV Art. 101: Deutsche OLG-Vollstreckungsverweigerung nach Eco Swiss?
-2. Exportkontrollrecht als Eingriffsnorm: Gilt BIS-EAR-Recht im deutschen Schiedsverfahren als Eingriffsnorm?
-3. Art. 9 Abs. 3 Rom I: Wann wendet deutsches Gericht Eingriffsnormen des Erfüllungsorts an?
-4. Ordre public bei Willkür: Extrem niedrige Schadensersatzberechnung als ordre public-Verstoß?
-5. Bestechungsfall: ICC-Award zugunsten der bestechenden Partei — ordre public-Versagung?
+1. Ist Aliud-Lieferung (falsche Ware) stets wesentlich, auch wenn Käufer sie nutzen kann?
+2. Wann ist Lieferverzug wesentlich (Fixgeschäft, Jahreszeitware)?
+3. Qualitätsmangel: Reicht Unterschreitung gesetzlicher Grenzwerte für Wesentlichkeit?
+4. Kann Verkäufer Wesentlichkeit durch Nachbesserungsangebot (Art. 48) beseitigen?
+5. Teillieferung: Wesentlichkeit für gesamten Vertrag nach Art. 51 Abs. 2?
 
 ## Methodik
 
-- Eingriffsnorm-Identifizierung: zwingende Schutznorm die internationalen Anspruch hat
-- Ordre-public-Test: offensichtliche Unvereinbarkeit — kein bloßer Unterschied zum nationalen Recht
-- Eco Swiss: EU-Kartellrecht im Schiedsantrag als Gegenargumentation nutzen
-- NY Convention: Vollstreckungsvorbehalt als letztes Mittel — Angriff auf Award inhaltlich kostspielig
+- Zweistufige Prüfung: (1) erheblicher Nachteil, (2) Vorhersehbarkeit
+- Wirtschaftliche Auswirkung und Vertragszweck als Maßstab für "erheblich"
+- CISG Advisory Council Opinions (op. 5, 9) als nicht bindende Auslegungshilfe
+- Rechtsprechungsvergleich: OLG-Rspr. via CISG-online.ch
+
+---
+
+## Skill: `unidroit-force-majeure`
+
+_Wenn es um Force Majeure: PICC Art. 7.1.7 und CISG Art. 79 in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# Force Majeure: PICC Art. 7.1.7 und CISG Art. 79
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); CISG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Worum es geht
+
+Force Majeure befreit den Schuldner von Schadensersatzhaftung wenn ein außerhalb seiner Sphäre liegendes, unvorhersehbares und unabwendbares Hindernis die Leistung unmöglich macht. PICC Art. 7.1.7 und CISG Art. 79 sind ähnlich, aber nicht identisch: CISG spricht von "Hindernis außerhalb seiner Sphäre", PICC ergänzt die Erkennbarkeit zum Vertragsschluss und die Zumutbarkeit der Überwindung. Beide regeln nur den Schadensersatz, nicht die Aufhebung.
+
+## Kernnormen / Kernquellen
+
+- **CISG Art. 79 Abs. 1**: Befreiung — Hindernis außerhalb der Sphäre, unvorhersehbar, nicht überwindbar
+- **CISG Art. 79 Abs. 3**: Hinweispflicht — unverzüglich nach Kenntnis; sonst Haftung für Verzögerungsschaden
+- **CISG Art. 79 Abs. 5**: Wirkung — nur Befreiung von Schadensersatz, alle anderen Rechtsbehelfe bleiben
+- **PICC Art. 7.1.7 Abs. 1**: Force Majeure — drei Alternativen (außerhalb Sphäre, unvorhersehbar, Überwindung unzumutbar)
+- **PICC Art. 7.1.7 Abs. 3-4**: Hinweispflicht und Wirkung der FM
+- **ICC Force Majeure Clause 2020**: iccwbo.org — Standardklausel
+
+## Schlüsselbegriffe
+
+- Sphärenprinzip: Lieferantenausfall in Schuldnersphäre (Art. 79 Abs. 2 CISG)
+- Unvorhersehbarkeit: ex ante Vertragsschluss; allgemeine Marktrisiken nicht FM
+- Unüberwindbarkeit: technisch und wirtschaftlich — Extremkosten können FM begründen
+- Vorübergehendes vs. dauerhaftes Hindernis: Suspendierung vs. Aufhebungsrecht
+- Notifikationspflicht: Art. 79 Abs. 3 CISG — Fristversäumnis → Haftung
+
+## Typische Streitfragen / Anwendungsfälle
+
+1. Pandemie als FM: Hat COVID-19 CISG Art. 79 ausgelöst? (Fallgruppenabhängig)
+2. Sublieferantenausfall: Art. 79 Abs. 2 CISG — Eigene FM-Voraussetzungen des Sublieferanten?
+3. Exportkontrolle/Sanktionen: Begründen neue Sanktionen FM für laufende Verträge?
+4. ICC FM-Klausel 2020: Verhältnis zu Art. 79 CISG — was geht vor?
+5. Hardship vs. FM: Preisverdreifachung — erschwert (Hardship) oder unmöglich (FM)?
+
+## Methodik
+
+- FM-Prüfung dreistufig: (1) außerhalb Sphäre, (2) unvorhersehbar, (3) unüberwindbar
+- Hinweispflicht-Tracking: Datum FM-Eintritt → Datum Notifikation → Haftungsrisiko
+- ICC FM-Klausel 2020 als Vertragsbaustein einbeziehen (kürzere Notifikationsfrist 30 Tage)
+- Sublieferantenkette: Art. 79 Abs. 2 Kaskade prüfen
+
+---
+
+## Skill: `cisg-anwendungsbereich`
+
+_Wenn es um CISG Anwendungsbereich (Art. 1-13) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# CISG Anwendungsbereich (Art. 1-13)
+
+## Arbeitsbereich
+
+Internationales Handelsrecht: CISG Anwendungsbereich nach Art. 1-13 CISG. Räumlicher Anwendungsbereich (Vertragsstaatenprinzip), sachlicher Ausschluss nach Art. 2 CISG (Verbraucher, Wertpapiere, Strom), und Lückenfüllung nach Art. 7 Abs. 2 CISG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); CISG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Worum es geht
+
+Das UN-Kaufrecht (CISG, Wien 1980, in Kraft seit 1988) gilt in 97 Vertragsstaaten. Es erfasst Kaufverträge über Waren zwischen Parteien mit Niederlassungen in verschiedenen Vertragsstaaten (Art. 1 Abs. 1 lit. a) oder wenn IPR auf das Recht eines Vertragsstaates verweist (lit. b, aber viele Staaten mit Vorbehalt). Art. 2 enthält abschließende Ausschlüsse.
+
+## Kernnormen / Kernquellen
+
+- **Art. 1 CISG**: Anwendungsvoraussetzungen — Niederlassung in Vertragsstaat
+- **Art. 2 CISG**: Ausschlüsse — Verbraucherkauf, Versteigerungen, Wertpapiere, Schiffe, Elektrizität, Luftfahrzeuge
+- **Art. 3 CISG**: Werklieferungsvertrag (Grenze: wesentlicher Anteil Material)
+- **Art. 6 CISG**: Vertragsfreiheit — vollständiger Ausschluss oder Abweichung
+- **Art. 7 CISG**: Auslegung nach Treu und Glauben im int. Handel; Lückenfüllung aus allgemeinen CISG-Grundsätzen
+- **Art. 9 CISG**: Handelsbräuche und Gepflogenheiten der Parteien
+- **Art. 10 CISG**: Maßgebliche Niederlassung bei mehreren
+
+## Schlüsselbegriffe
+
+- Vertragsstaat (Ratifikation, Beitritt, Vorbehalt nach Art. 92-96 CISG)
+- Sachlicher Ausschluss vs. Opting-out (Art. 2 vs. Art. 6)
+- Mixed-contract (Art. 3 Abs. 2: überwiegende Arbeitsleistung → kein CISG)
+- Autonome Auslegung (Art. 7 Abs. 1: keine nationale Rechtsdogmatik)
+- Lückenfüllung: interne Lücken aus CISG-Grundsätzen, externe Lücken aus IPR
+
+## Typische Streitfragen / Forschungsfragen
+
+1. Gilt CISG für Softwarelieferung? (Streitig: körperliche Verkörperung entscheidend)
+2. Konsumgüterkauf über B2B-Plattform: Art. 2 lit. a Ausschluss auch bei gewerblichem Verwendungszweck?
+3. Werklieferungsvertrag: Wann überwiegt Arbeitsleistung (Art. 3 Abs. 2)?
+4. Wie füllt man CISG-intern die Lücke bei Zinshöhe (Art. 78 schweigt zur Rate)?
+5. Reservation nach Art. 95 (USA): kein lit. b-Verweis — Auswirkung auf US-Verträge?
+
+## Methodik
+
+- CISG-Anwendbarkeit immer dreistufig prüfen: (1) sachlich, (2) räumlich, (3) kein Ausschluss
+- Vertragsstaaten-Liste UNCITRAL laufend prüfen (uncitral.un.org/en/texts/saleofgoods)
+- Bei Art. 3 Werklieferung: Wertanteil Material vs. Dienstleistung nach Vertragsursprung
+- Autonome Auslegung: keine Rückgriffe auf BGB-Dogmatik bei CISG-Begriffen
+
+---
+
+## Skill: `cisg-ware-dokumente-digitalisierung`
+
+_Wenn es um Ware, Dokumente und Digitalisierung (CISG Art. 34-35) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Ware, Dokumente und Digitalisierung (CISG Art. 34-35)
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); CISG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Worum es geht
+
+Art. 35 CISG bestimmt die Vertragsmäßigkeit der Ware in subjektiver (Art. 35 Abs. 1) und objektiver (Abs. 2) Hinsicht. Besondere Bedeutung hat der besondere Zweck des Käufers (lit. b: Kenntnis des Verkäufers). Digitalisierung berührt CISG: elektronische Frachtdokumente, elektronische Konnossemente und E-Akkreditive erfordern Anpassung.
+
+## Kernnormen / Kernquellen
+
+- **Art. 34 CISG**: Dokumente — Pflicht zur Übergabe, Recht zur Fehlerbereinigung vor Fälligkeitstag
+- **Art. 35 Abs. 1 CISG**: Vertragsmäßigkeit nach Menge, Qualität, Art, Verpackung
+- **Art. 35 Abs. 2 CISG**: Objektivstandards — gewöhnliche Eignung (lit. a), besonderer Zweck (lit. b), Probe/Muster (lit. c), übliche Verpackung (lit. d)
+- **Art. 35 Abs. 3 CISG**: Ausnahme bei Kenntnis des Käufers vom Mangel
+- **CMI Rules for Electronic Bills of Lading 1990**: Pionierrahmen für E-Konnossement
+- **MLETR (UNCITRAL 2017)**: Model Law on Electronic Transferable Records
+
+## Schlüsselbegriffe
+
+- Subjektiver Standard (Art. 35 Abs. 1) vs. objektiver Standard (Abs. 2)
+- Besonderer Zweck: Käufer muss Zweck mitgeteilt haben; Verkäufer durfte nicht auf Inkompetenz vertrauen
+- Haltbarkeit: Ware muss auch bei Ankunft nach gewöhnlicher Transportzeit noch gebrauchsfähig sein
+- Elektronisches Konnossement: Negotiability, Single-Document-Prinzip erhalten?
+- eUCP 2.0 (ICC 2019): elektronische Dokumente im Akkreditivrecht
+
+## Typische Streitfragen / Anwendungsfälle
+
+1. Muss Ware öffentlich-rechtliche Anforderungen des Käuferlands erfüllen (Lebensmittelrecht, CE-Kennzeichnung)?
+2. Art. 35 Abs. 2 lit. b besonderer Zweck: Reicht allgemeine Branchenkenntnis des Verkäufers?
+3. Elektronisches Konnossement: Wann liegt "Besitz" im Sinne des Transportrechts vor?
+4. eUCP 2.0: Akzeptiert die akkreditivausstellende Bank rein digitale Dokumente?
+5. Verpackungsmangel: Führt schlechte Verpackung zu Haftung für Transportschäden?
+
+## Methodik
+
+- Art. 35 Prüfung: Erst subjektiv (Vertragsinhalt), dann objektiv (Standards)
+- Öffentlich-rechtliche Anforderungen: Grundsatz Verkäufersphäre, Ausnahmen bei Spezialwissen
+- Digitalisierung: MLETR-Umsetzungsstand im relevanten Land prüfen (uncitral.un.org)
+- eUCP 2.0 Anpassungsklausel in Akkreditiv explizit einbeziehen
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Paragraf 873 Abs. 1 BGB; Paragraf 873 Abs. 1 BGB; Paragraf 925 Abs. 1 BGB |
-| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -55,7 +55,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 1191 Abs. 1 BGB — Grundschuld: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - GG Art. 1, 3, 20 (Grundrechte, Rechtsstaat): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGB Paragrafen 133, 157, 242 (Auslegung, Treu und Glauben): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 7. Antwortform
 

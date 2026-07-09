@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Paragraf 321 HGB; Paragraf 331 HGB, Paragraf 400 AktG; Paragraf 93 Abs. 2 AktG |
-| Rechtsprechung | BAG, Urt. v. 23.10.2008 – 2 AZR 483/07; Außerordentliche Kündigung bei Verdacht auf schwerwiegende |
+| Rechtsprechung | BAG, Urt. v. 23.10.2008 – 2 AZR 483/07 |
 | Tatbestand | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -54,11 +54,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 242 BGB: allgemeine Treuepflicht aus dem Arbeitsverhältnis: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 666 BGB: Auskunftspflicht für Tätigkeiten, die der Mitarbeiter für den Arbeitgeber ausgeführt hat: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 611a BGB i. V. m. Arbeitsvertrag: Pflicht zur Unterstützung bei betriebsinternen Untersuchungen, soweit dies zumutbar ist: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 383 ZPO: Zeugnisverweigerung wegen Angehörigeneigenschaft (gesetze-im-internet.de) – für interne Interviews nur mittelbar relevant: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 107 Abs. 3 S. 4 AktG: Ausschussvorsitzender berichtet dem Aufsichtsrat über die Tätigkeit des Ausschusses: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BAG, Urt. v. 23.10.2008 – 2 AZR 483/07: Kündigung wegen Aussageverweigerung kann unverhältnismäßig sein, wenn berechtigte Selbstbelastungsgefahr besteht
-- Außerordentliche Kündigung bei Verdacht auf schwerwiegende Straftaten, auch ohne vollständige Sachverhaltsaufklärung (BAG-Rechtsprechung zur Verdachtskündigung, z. B. BAG, Urt. v. 21.11.2013 – 2 AZR
-- BGH II ZR 234/09 (Siemens/Neubürger): Vorstandsmitglied hat persönliche Aufklärungspflicht (openjur.de)
-- Pflicht zur Einleitung einer Untersuchung bei konkretem Verdacht (BGH II ZR 234/09, openjur.de)
 
 ## 7. Antwortform
 

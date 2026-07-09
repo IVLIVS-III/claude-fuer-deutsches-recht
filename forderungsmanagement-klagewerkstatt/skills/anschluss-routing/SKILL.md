@@ -67,7 +67,7 @@ Dieser Skill folgt der Kaltstart-Triage oder einem abgeschlossenen Bearbeitungss
 
 ### Leitentscheidungen
 
-- BGH II ZR 256/02
+- BGH, Urteil vom 16.07.2007 - II ZR 3/04: Trihotel zum existenzvernichtenden Eingriff als Innenhaftung nach Paragraf 826 BGB.
 - BGH VII ZR 162/00
 - EuGH C-377/17
 - BGH VIII ZR 261/06

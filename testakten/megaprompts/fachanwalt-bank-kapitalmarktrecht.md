@@ -1,27 +1,27 @@
-# Megaprompt: fachanwalt-bank-kapitalmarktrecht
+# Vollprüfung: fachanwalt-bank-kapitalmarktrecht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 86 Skills des Plugins `fachanwalt-bank-kapitalmarktrecht`.
+Dieser Vollprüfung enthaelt top-10 von 86 Skills des Plugins `fachanwalt-bank-kapitalmarktrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für Fachanwalt Bank- und Kapitalmarktrecht: ordnet Rolle (Anleger/Kunde, Bank/WPI, BaFin), …
-2. **mandat-triage-bank-kapitalmarktrecht** — Bank- oder Kapitalmarktrechts-Mandat trifft ein und muss strukturiert erfasst werden: Sachgebiet Mandantenrolle Sofort-F…
-3. **fachanwalt-bank-kapitalmarktrecht-orientierung** — Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbeiten und braucht Normen-Überblick. KWG ZA…
-4. **orientierung-fachanwaltschaft-mandat** — Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbeiten und braucht Normen-Überblick: KWG ZA…
-5. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für Bank-, Kapitalmarkt- und Wertpapierrecht: Erfassung der Konstellation, Konfli…
-6. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
-7. **fachanwalt-bank-kapitalmarktrecht-mica-stablecoin-art-16-bafin** — Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin (ART oder EMT) bei BaFin. MiCA VO 2023/1114 Art. 16-21 Whitepape…
-8. **fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug** — Mandant ist Opfer eines Online-Trading-Betrugs (Cybertrading fake Plattform) und will Geld zurück. § 263 StGB Betrug Ziv…
-9. **fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb** — Bank kündigt Kredit nach § 490 BGB wegen wesentlicher Vermögensverschlechterung und Mandant braucht Sofort-Strategie. AG…
-10. **fachanwalt-bank-kapitalmarktrecht-ombudsmann-bafin-schlichtung** — Mandant will vor Klage Bank-Streit durch Ombudsmann-Verfahren oder BaFin-Beschwerde lösen. Ombudsmann private Banken Spa…
+1. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den …
+2. **mandat-triage-bank-kapitalmarktrecht** — Wenn es um Mandat Triage Bank Kapitalmarktrecht in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle, Ziel, Frist, Unt…
+3. **fachanwalt-bank-kapitalmarktrecht-orientierung** — Wenn es um Fachanwalt für Bank- und Kapitalmarktrecht — Orientierung in Fachanwalt Bank Kapitalmarktrecht geht: prüft Fr…
+4. **orientierung-fachanwaltschaft-mandat** — Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigk…
+5. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rec…
+6. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle…
+7. **ombudsmann-bafin-schlichtung** — Wenn es um Mandant will vor Klage Bank-Streit durch Ombudsmann-Verfahren oder BaFin-Beschwerde lösen in Fachanwalt Bank …
+8. **mica-stablecoin-art-16-bafin** — Wenn es um Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin (ART oder EMT) bei BaFin in Fachanwalt Bank Kapitalma…
+9. **fachanwalt-bank-kapitalmarktrecht-ombudsmann-bafin-schlichtung** — Wenn es um Bank-/Kapitalmarktrecht — Ombudsmann, BaFin, Schlichtung in Fachanwalt Bank Kapitalmarktrecht geht: erstellt …
+10. **spezial-bankaufsicht-erlaubnis-und-vertrieb** — Wenn es um Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken in Fachanwalt Bank Kapitalmarktrecht geht: …
 
 ---
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Fachanwalt Bank- und Kapitalmarktrecht: ordnet Rolle (Anleger/Kunde, Bank/WPI, BaFin), markiert Frist (Widerrufsfrist Verbraucherdarlehen 14 Tage § 355 BGB), wählt Norm (BGB §§ 488/491-505, WpHG, KAGB) und Zuständigkeit (BaFin), leitet zum passenden Spezial-Skill._
+_Wenn es um Einstieg und Routing in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Einstieg und Routing
 
@@ -65,24 +65,25 @@ Dieser Einstieg routet **Fachanwalt Bank Kapitalmarktrecht** vom ersten Sachverh
 
 ## Skill: `mandat-triage-bank-kapitalmarktrecht`
 
-_Bank- oder Kapitalmarktrechts-Mandat trifft ein und muss strukturiert erfasst werden: Sachgebiet Mandantenrolle Sofort-Fristen: V..._
+_Wenn es um Mandat Triage Bank Kapitalmarktrecht in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Bank- oder Kapitalmarktrechts-Mandat trifft ein und muss strukturiert erfasst werden: Sachgebiet Mandantenrolle Sofort-Fristen
 
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Mandat Triage Schriftsatzkern Substantiierung** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Bank Kapitalmarktrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Arbeitsweg
 
@@ -212,7 +213,11 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Empfehlung Folge-Skill
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Quellen
@@ -284,7 +289,7 @@ Stand Mai 2026 wurden die Aktenzeichen anhand offener Quellen (juris.bundesgeric
 
 ## Skill: `fachanwalt-bank-kapitalmarktrecht-orientierung`
 
-_Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbeiten und braucht Normen-Überblick. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR BGB-Verbraucherkreditrecht §§ 491 ff. Normen KWG §§ 1 32 WpHG §§ 63 ff. §§ 491-505 BGB. Prüfraster FAO-Voraussetzungen Mandatstypen Normen-Karte. Output Orientierungs-Leitfaden. Abgrenzung zu allen Einzel-Skills (nur Überblick und Routing)._
+_Wenn es um Fachanwalt für Bank- und Kapitalmarktrecht — Orientierung in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Fachanwalt für Bank- und Kapitalmarktrecht — Orientierung
 
@@ -391,7 +396,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Skill: `orientierung-fachanwaltschaft-mandat`
 
-_Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbeiten und braucht Normen-Überblick: KWG ZAG WpHG WpIG MiFID-II MA..._
+_Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbeiten und braucht Normen-Überblick
 
@@ -508,7 +513,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Skill: `erstgespraech-mandatsannahme`
 
-_Strukturierter Erstgespraechsleitfaden für Bank-, Kapitalmarkt- und Wertpapierrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen: Strukturierter Erstgespraechsl..._
+_Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Strukturierter Erstgespraechsleitfaden für Bank-, Kapitalmarkt- und Wertpapierrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
@@ -722,14 +727,18 @@ Naechster Schritt: [Owner] bis [Datum]
 ```
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
 ## Skill: `erstpruefung-und-mandatsziel`
 
-_Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel._
+_Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -785,15 +794,217 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `fachanwalt-bank-kapitalmarktrecht-mica-stablecoin-art-16-bafin`
+## Skill: `ombudsmann-bafin-schlichtung`
 
-_Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin (ART oder EMT) bei BaFin. MiCA VO 2023/1114 Art. 16-21 Whitepaper-Pflicht Art. 19 Eigenmittel Art. 35 Reserveaktiva Art. 36-38. Normen MiCA Art. 16-21 KWG WpIG BaFin-Merkblatt. Prüfraster Lizenzanforderungen Whitepaper-Inhalt Eigenmittel-Berechnung Prüfdauer 180 Tage. Output BaFin-Lizenzantrag Whitepaper-Entwurf. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-orientierung (Überblick) und mandat-triage-bank-kapitalmarktrecht (Ersterfassung)._
+_Wenn es um Mandant will vor Klage Bank-Streit durch Ombudsmann-Verfahren oder BaFin-Beschwerde lösen in Fachanwalt Bank Kapitalmarktrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# MiCA-Stablecoin-Emittenten — Art. 16-21 Lizenzierung (BaFin)
+# Mandant will vor Klage Bank-Streit durch Ombudsmann-Verfahren oder BaFin-Beschwerde lösen
 
-## Zweck
 
-Beratung von FinTechs und Banken bei der Lizenzierung als Emittent von Asset-Referenced Tokens (ART) oder E-Money Tokens (EMT) nach MiCA-VO (EU) 2023/1114, Titel III/IV. MiCA gilt für ART/EMT seit 30.6.2024 und für CASP (Krypto-Dienstleister) seit 30.12.2024. Die BaFin ist für Deutschland die zuständige nationale Behörde.
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: WpHG; WpIG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Mandant will vor Klage Bank-Streit durch Ombudsmann-Verfahren oder BaFin-Beschwerde lösen. Ombudsmann private Banken Sparkassen BaFin-Beschwerde § 4b FinDAG. Normen § 4b FinDAG WpHG § 14 KapMuG §§ 32 ff. EU-ODR-Plattform. Prüfraster Zulassigkeits-Check Vergleichs-Chancen Kosten-Nutzen Zeitlinie. Output Ombudsmann-Antrag BaFin-Beschwerde Vergleichs-Konzept. Abgrenzung zu anlageberatungsfehler-prüfen (Klageroute) und schriftsatzkern-substantiierung (Klage).
+
+### Bank-/Kapitalmarktrecht — Ombudsmann, BaFin, Schlichtung
+
+## Eingaben
+
+- Mandanten-Status (Verbraucher / Unternehmer)
+- Streit-Bank (private Bank, Sparkasse, Volksbank, Direktbank, FinTech)
+- Streitgegenstand (Anlageberatung, Kontoführung, Kredit, Wertpapiergeschäfte, Schufa)
+- Streitwert (Verbraucherschlichtung bis 5.000 EUR / 10.000 EUR)
+- Bisherige Bank-Korrespondenz
+- Bestehende Schiedsklausel im Vertrag
+
+## Rechtlicher Rahmen
+
+- **§ 14 UKlaG** — Schlichtungsstellen-Verzeichnis
+- **§ 4b FinDAG** — BaFin-Verbraucherbeschwerde
+- **§ 14 WpHG** — Schiedsstelle bei DSW
+- **VSBG (Verbraucherstreitbeilegungsgesetz)** — Pflicht für FinDL ab 1.4.2017
+- **EU-ODR-VO (EU) 524/2013** — Online-Streitbeilegung
+- **§ 246 VVG** — bei Versicherungs-Anlage
+- **§§ 32a-32e KapMuG** — Musterverfahren bei Kapitalanleger-Streit
+
+## Schlichtungsstellen-Übersicht
+
+| Stelle | Zuständigkeit |
+|---|---|
+| **Ombudsmann private Banken** (Bankenverband) | private Banken (Deutsche Bank, Commerzbank, HypoVereinsbank etc.) |
+| **Ombudsmann Sparkassen** (DSGV) | Sparkassen |
+| **Ombudsmann Genossenschaftsbanken** (BVR) | Volks-/Raiffeisenbanken |
+| **Ombudsmann öffentliche Banken** (VÖB) | Landesbanken, KfW |
+| **BaFin-Verbraucherbeschwerde** | aufsichtsrechtliche Fragen |
+| **DSW** (Deutsche Schutzvereinigung) | WpHG-Streit, Anlegerberatung |
+| **EU-ODR-Plattform** | online geschlossene Verträge |
+
+## Workflow
+
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+
+### Phase 1 — Vorgerichtliche Bank-Korrespondenz
+
+- Erstes Anschreiben mit Sachverhalt + Anspruch
+- Fristsetzung 4 Wochen
+- Bei Verweigerung: Ombudsmann-Antrag
+
+### Phase 2 — Ombudsmann-Antrag
+
+- Online-Antrag auf jeweiliger Ombudsmann-Seite
+- Streitwert-Limits beachten (typisch bis 5.000 EUR Spruch bindend für Bank; bis 10.000 EUR bei privaten Banken)
+- 6-Monats-Frist nach Bank-Ablehnung
+- Verfahrensdauer 3-6 Monate
+
+### Phase 3 — Bei Verbraucher mit Streitwert > 10.000 EUR
+
+- Direkte Klage AG/LG je Streitwert
+- Bei systematischen Fragen: KapMuG-Musterverfahren prüfen
+- Verbandsklage über VZBV / DSW
+
+### Phase 4 — Vergleichs-Verhandlung mit Bank-Rechtsabteilung
+
+- Bei substantieller Anspruchsbasis: Bank verhandelt schnell außergerichtlich
+- Vergleich oft 60-80 % des geltend gemachten Schadens
+- Schriftliche Erledigungs-Klausel
+
+### Phase 5 — Klage bei Scheitern
+
+- LG-Streit für > 5.000 EUR
+- Sachverständigen-Beweis (Bankgutachten BdSt, BaFin-Beratungs-Standards)
+- ggf. Mediation § 278a ZPO
+
+## Strategie und Taktik
+
+- **Ombudsmann zuerst**: kostengünstig, oft Vergleichsdruck auf Bank
+- **BaFin parallel**: bei systematischen Verstößen (Beratungsfehler, MiFID-Pflichten)
+- **Beweislast-Erleichterungen** § 280 BGB i.V.m. WpHG-Beratungspflichten dokumentieren
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **MiFID-Beratungsdokumentation** rügen: Bank muss vollständig dokumentieren
+
+## Quellen und Updates
+
+Stand: 05/2026. VSBG seit 2017. BaFin-Beschwerden 2024 ca. 8.000/Jahr. Bei FIDA-Open-Finance-Reform 2026 aktualisieren.
+
+## Vertiefung: Rechtsprechung und Normen
+
+### Leitsaetze zum Ombudsmann und ADR-Verfahren
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Normen-Kette ADR-Schlichtung
+- § 204 Abs. 1 Nr. 4 BGB — Verjaebrungshemmung durch staatlich anerkannte Guetestelle
+- § 4b FinDAG — BaFin-Verbraucherbeschwerde (kein Hemmungseffekt!)
+- §§ 14, 15 UKlaG — Schlichtungsstellen-Anforderungen
+- VSBG §§ 1 ff. — Verbraucherstreitbeilegungsgesetz (ADR-Umsetzung)
+- § 278a ZPO — Gerichtliche Mediation als prozessuale Ergaenzung
+- §§ 32a-32e KapMuG — Kapitalanleger-Musterverfahren bei Serienstreitigkeiten
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+### Triage ADR-Verfahren
+
+Bevor losgelegt wird, klaere:
+1. Mandant Verbraucher oder Unternehmer? → Verbraucher: VSBG Schlichtung möglich; Unternehmer: nur wenn Bank-AGB Schiedsklausel.
+2. Welche Bank? → Zustaendige Schlichtungsstelle (private Bank/Sparkasse/Volksbank) identifizieren.
+3. Streitwert-Limit der Schlichtungsstelle erreicht? → Spruch bindend bis 10.000 EUR (private Banken).
+4. Laeuft Verjaebrung bald ab? → Hemmungs-Berechnung § 204 BGB; Ombudsmann SOFORT beauftragen.
+5. Parallel BaFin-Beschwerde sinnvoll (aufsichtsrechtlicher Druck)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Schlichtungsantrag beim Ombudsmann stellen | Vollstaendiger Antrag nach Template unten |
+| Variante A — geringe Schadenshoehe (unter 5.000 EUR) | Ombudsmann-Verfahren; guenstigere Alternative zur Klage |
+| Variante B — BaFin-Aufsichtsmassnahme sinnvoller | Beschwerde bei BaFin statt Schlichtung |
+| Variante C — parallele Klage noetig | Schlichtung und Klage koordinieren; Unterbrechungswirkung beachten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+### Output-Template Ombudsmann-Antrag
+**Adressat:** Ombudsmann der Privaten Banken (oder Sparkassen/Volksbanken) — Tonfall: sachlich, verstaendlich
+
+```
+Ombudsmann der Privaten Banken
+Postfach 04 03 07
+10062 Berlin
+
+Schlichtungsantrag nach VSBG
+
+Antragsteller: [NAME MANDANT], [ADRESSE]
+Antragsgegner: [BANK], [ANSCHRIFT]
+Kontonummer: [NR.]
+Streitwert: EUR [BETRAG]
+
+Sachverhalt (kurz):
+Am [DATUM] empfahl die Bank meiner Mandantschaft das
+Produkt [BEZEICHNUNG WKN/ISIN]. [Fehler: keine anleger-
+gerechte Beratung / fehlende Kickback-Aufklaerung etc.]
+
+Begehren:
+Ich begehre Zahlung von EUR [BETRAG] Schadensersatz wegen
+[BERATUNGSFEHLER].
+
+Bisherige Kontaktaufnahme:
+[Datum] schriftliche Anspruchsstellung; [Datum] Ablehnung
+durch Bank (Anlage 1).
+
+Anlagen:
+1 - Ablehnungsschreiben Bank vom [DATUM]
+2 - Kontoauszuege / Kauf-Abrechnung
+3 - Beratungsprotokoll (soweit vorliegend)
+
+[Rechtsanwalt/-anwaeltin für [NAME MANDANT]]
+```
+--- vor Versand klären ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+<!-- AUDIT 27.05.2026 | bundle_053
+Geprüft: BGH VI ZR 516/19 (NOT_FOUND auf dejure.org)
+Ersatz: BGH III ZR 60/19, NJW 2021, 153 (verifiziert auf dejure.org)
+Thema: Güteantrag Verjährungshemmung § 204 BGB — thematisch passend für Schlichtungs-Kontext
+-->
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `mica-stablecoin-art-16-bafin`
+
+_Wenn es um Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin (ART oder EMT) bei BaFin in Fachanwalt Bank Kapitalmarktrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin (ART oder EMT) bei BaFin
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: WpHG; WpIG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin (ART oder EMT) bei BaFin. MiCA VO 2023/1114 Art. 16-21 Whitepaper-Pflicht Art. 19 Eigenmittel Art. 35 Reserveaktiva Art. 36-38. Normen MiCA Art. 16-21 KWG WpIG BaFin-Merkblatt. Prüfraster Lizenzanforderungen Whitepaper-Inhalt Eigenmittel-Berechnung Prüfdauer 180 Tage. Output BaFin-Lizenzantrag Whitepaper-Entwurf. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-orientierung (Überblick) und mandat-triage-bank-kapitalmarktrecht (Ersterfassung).
+
+### MiCA-Stablecoin-Emittenten — Art. 16-21 Lizenzierung (BaFin)
 
 ## Mandantenfragen — Kaltstart
 
@@ -805,7 +1016,7 @@ Beratung von FinTechs und Banken bei der Lizenzierung als Emittent von Asset-Ref
 6. **Gibt es bereits einen Whitepaper-Entwurf?** — Basis des BaFin-Antrags; ESMA-Leitlinien für Inhalt sind zu beachten.
 7. **Plant der Emittent grenzüberschreitend tätig zu sein?** — EU-Pass nach Zulassung; Notifizierung an ESMA-Register erforderlich.
 8. **Sind Staking, Lending oder DeFi-Komponenten vorgesehen?** — Zusätzliche Regulierungsebenen (MiFID, AIFMD, ggf. MiCA Art. 50); gesonderte Einschätzung nötig.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -846,8 +1057,7 @@ Beratung von FinTechs und Banken bei der Lizenzierung als Emittent von Asset-Ref
 
 ## Prüfschema Lizenzierung
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
-
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfpunkt | Norm | Risiko bei Fehler |
 |---|---|---|---|
@@ -862,7 +1072,7 @@ Beratung von FinTechs und Banken bei der Lizenzierung als Emittent von Asset-Ref
 | 9 | Signifikant-Schwelle geprüft? | Art. 43 MiCA | Erhöhte Pflichten ab Schwellenwert |
 | 10 | Notifizierung ESMA nach Zulassung? | Art. 64 MiCA | Kein EU-Pass |
 
-## Workflow Lizenzierung
+## Lizenzierung
 
 ### Phase 1 — Token-Klassifikation (4–6 Wochen)
 
@@ -958,21 +1168,21 @@ Signifikante ART/EMT (Art. 43):
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — MiCA Art. 16-Zulassung fuer Stablecoin beantragen | Antragsbausteine nach Template unten |
-| Variante A — Emittent bereits BaFin-reguliert (E-Geld-Institut) | Vereinfachter Zulassungsweg Art. 17 MiCA pruefen |
+| Standard — MiCA Art. 16-Zulassung für Stablecoin beantragen | Antragsbausteine nach Template unten |
+| Variante A — Emittent bereits BaFin-reguliert (E-Geld-Institut) | Vereinfachter Zulassungsweg Art. 17 MiCA prüfen |
 | Variante B — Token uebersteigt Schwellenwert (signifikant) | Kategorie signifikanter EMT; EBA-Aufsicht beachten |
-| Variante C — Pilot-Emission vor vollstaendiger MiCA-Zulassung | Sandbox-Regimes pruefen; Rechtsrisiko dokumentieren |
+| Variante C — Pilot-Emission vor vollstaendiger MiCA-Zulassung | Sandbox-Regimes prüfen; Rechtsrisiko dokumentieren |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatzbaustein — Widerspruch gegen BaFin-Versagung
 
 ```
-An: Bundesanstalt fuer Finanzdienstleistungsaufsicht
+An: Bundesanstalt für Finanzdienstleistungsaufsicht
 Datum: [Datum]
 
 Widerspruch gegen den Bescheid vom [Datum], Az. [Nr.]
@@ -984,30 +1194,29 @@ Vollziehung.
 Begründung:
 
 1. Eigenmittelprüfung:
-   Die BaFin hat EUR [Betrag] als unzureichend erachtet.
-   Die korrekte Berechnung nach Art. 35 MiCA ergibt:
-   Ø Reserve = EUR [Betrag]; 2 % = EUR [Betrag].
-   Die Eigenmittel von EUR [Betrag] genügen.
+ Die BaFin hat EUR [Betrag] als unzureichend erachtet.
+ Die korrekte Berechnung nach Art. 35 MiCA ergibt:
+ Ø Reserve = EUR [Betrag]; 2 % = EUR [Betrag].
+ Die Eigenmittel von EUR [Betrag] genügen.
 
 2. Reserve-Verwahrung:
-   Der Custodian-Vertrag mit [Bank] weist die 30 %-Quote
-   der Art. 38 MiCA nach (Anlage [Nr.]).
+ Der Custodian-Vertrag mit [Bank] weist die 30 %-Quote
+ der Art. 38 MiCA nach (Anlage [Nr.]).
 
 3. Whitepaper-Vollständigkeit:
-   Die BaFin rügt fehlende Klimafolgenabschätzung nach
-   Art. 19 Abs. 1 lit. j MiCA. Diese ist als Anlage [Nr.]
-   beigefügt und wurde im Ursprungsantrag als Anhang 12
-   eingereicht. Beleg: Antrag-Einreichungsprotokoll v.
-   [Datum], Seite [X].
+ Die BaFin rügt fehlende Klimafolgenabschätzung nach
+ Art. 19 Abs. 1 lit. j MiCA. Diese ist als Anlage [Nr.]
+ beigefügt und wurde im Ursprungsantrag als Anhang 12
+ eingereicht. Beleg: Antrag-Einreichungsprotokoll v.
+ [Datum], Seite [X].
 
 [Rechtsanwalt/-anwaeltin]
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
 
 ## Fristen
 
@@ -1033,489 +1242,13 @@ Begründung:
 - ESMA Q&A zu MiCA (laufend)
 - BaFin-Merkblatt vom 3.1.2025 zu ART und EMT nach MiCAR — bafin.de
 - BaFin-Meldung vom 6.10.2025 zu interaktivem Kryptowerte-Informationsblatt — bafin.de
-- BaFin Aufsicht ZK 1 fuer ART/EMT — bafin.de/EN/Aufsicht/MiCAR
-
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
----
-
-## Skill: `fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug`
-
-_Mandant ist Opfer eines Online-Trading-Betrugs (Cybertrading fake Plattform) und will Geld zurück. § 263 StGB Betrug Zivilansprüche gegen Vermittler Bank. Normen §§ 263 27 StGB §§ 823 826 BGB Geldwäschegesetz. Prüfraster Sofort-Beweis-Sicherung Zahlungsverfolgung Crypto-Tracing BaFin-Whistleblower Strafanzeige Klage. Output Strafanzeige Klage-Entwurf BaFin-Beschwerde. Abgrenzung zu mandat-triage-bank-kapitalmarktrecht (Ersterfassung) und anlageberatungsfehler-prüfen (legale Beratung)._
-
-# Cybertrading-Anlagebetrug
-
-## Zweck
-
-Mandate von Opfern dubioser Online-Trading-Plattformen — Sofortmaßnahmen, Beweissicherung, zivilrechtliche und strafrechtliche Schritte. Das Schadensbild: 10.000 bis 500.000 EUR Verlust, Plattform nicht erreichbar, Konten gesperrt, vermeintliche "Steuern" werden gefordert.
-
-## Mandantenfragen — Kaltstart
-
-1. **Plattform-Name, Domain und IBAN des Empfängers?** — Erste Identifikation; BaFin-Datenbank (unerlaubte Tätigkeiten) prüfen.
-2. **Wie kam der erste Kontakt zustande?** — Werbung Social Media, Telefon, Dating-App, WhatsApp-Gruppe; Hinweis auf Täter-Struktur.
-3. **Wie viel Geld wurde überwiesen, wann und auf welche Konten?** — IBAN-Analyse: Litauen, Zypern, UK, Dubai = häufige Zielländer; Zeitstrahl erstellen.
-4. **Wurde auch Krypto eingezahlt?** — Wallet-Adressen und Transaction-Hashes sichern; Chainalysis-Tracing möglich.
-5. **Wurde bereits versucht, Geld abzuheben?** — Auszahlungs-Ablehnung mit angeblicher "Steuer" oder "Compliance-Gebühr" = klassisches Exit-Signal.
-6. **Liegt eine Bestätigung der Einzahlungen bei der Bank vor?** — SEPA-Belegkopien + Überweisungsnachweise als Ausgangspunkt.
-7. **Wie lange liegt die letzte Einzahlung zurück?** — Rückruf-Fristen: SEPA-Lastschrift 8 Wochen; Überweisung: Bank-intern 48–72h, SEPA-Recall sonst erschwert.
-8. **Haben andere Personen (Familie, Arbeitskolleg) Geld eingesetzt?** — Sammelklagenpotential; gemeinsames Vorgehen oft effizienter.
-
-## Rechtsgrundlagen
-
-### Strafrecht
-
-- **§ 263 StGB** — Betrug: Täuschung über angebliche Handelsgewinne; Vermögensschaden durch Einzahlung.
-- **§ 263a StGB** — Computerbetrug: Online-Plattform als Tatmittel.
-- **§ 263 Abs. 3 Nr. 1 StGB** — Gewerbsmäßiger Betrug (besonders schwerer Fall): erhöhte Strafdrohung bis 10 Jahre.
-- **§ 261 StGB** — Geldwäsche: Finanzagenten, die Gelder weiterleiten.
-- **§ 27 StGB** — Beihilfe: Vermittler, Influencer, die bewusst mitwirken.
-
-### Zivilrecht
-
-- **§ 280 Abs. 1 BGB i.V.m. Beratungsvertrag** — Schadensersatz wenn Vermittler Beratungsvertrag eingegangen ist.
-- **§ 826 BGB** — Vorsätzliche sittenwidrige Schädigung: bei Vermittlern, Influencern die von Betrug wussten.
-- **§ 823 Abs. 2 BGB i.V.m. § 263 StGB** — Schadensersatz aus Schutzgesetz-Verletzung.
-- **§ 25h KWG** — Sorgfaltspflicht der Bank bei verdächtigen Transaktionen; bei Verletzung: Haftung Bank.
-- **§ 60 GwG** — Bußgeld bei Verletzung der Sorgfaltspflichten; für Compliance-Zweck.
-
-### Bankrecht
-
-- **AGB-Banken Nr. 11** — Pflicht der Bank, Kunden auf evidente Betrugsrisiken hinzuweisen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Sofortmaßnahmen — Erste 72 Stunden
-
-| Schritt | Maßnahme | Priorität |
-|---|---|---|
-| 1 | Bank anrufen: Sofortiger Rückruf aller Überweisungen | SOFORT |
-| 2 | Kreditkarte / Lastschrift sperren + Chargeback beantragen | SOFORT |
-| 3 | Screenshots aller Plattform-Seiten, Chats, E-Mails | Tag 1 |
-| 4 | IBAN des Empfängers in BaFin-Datenbank prüfen | Tag 1 |
-| 5 | Strafanzeige bei Polizei (Internet-Kriminalität-Dienststelle) | Tag 1–3 |
-| 6 | BaFin-Whistleblower-Meldung: nicht lizenzierte Plattform | Tag 2–3 |
-| 7 | Krypto: Wallet-Adressen und TX-Hashes sichern | Tag 1–3 |
-| 8 | Rechtsanwalt mandatieren | Tag 1–3 |
-
-## Beweissicherung
-
-### Dokumente sichern
-
-```
-Priorität 1 — Finanzdokumente:
-- Alle Überweisungsbelege (IBAN, Betrag, Datum)
-- Kontoauszüge mit Abbuchungen
-- SEPA-Lastschrift-Buchungen
-- Krypto-Transaktionsbelege (Coinbase, Binance, etc.)
-- Wallet-Adressen und Transaction-Hashes
-
-Priorität 2 — Kommunikation:
-- WhatsApp-Verlauf (Screenshot mit Zeitstempel)
-- E-Mail-Verkehr (vollständig, mit Header)
-- Telefonprotokolle
-- Chat-Screenshots der Plattform
-
-Priorität 3 — Plattform-Belege:
-- Screenshots des angeblichen Portfolio-Stands
-- Auszahlungs-Ablehnungsschreiben
-- AGB und "Steuer"-Forderungsschreiben
-- Domain-Registrierung-Infos (WHOIS)
-```
-
-## Rückholung der Gelder
-
-### SEPA-Überweisung (< 1 Werktag)
-
-- Bank-Sofort-Storno: innerhalb 1–2 Stunden nach Ausführung möglich
-- Dann automatisch von Empfänger-Bank gesperrt wenn gemeldet
-
-### SEPA-Überweisung (< 8 Wochen / innerhalb EU)
-
-- SEPA-Recall-Antrag bei eigener Bank
-- Bank sendet Rückruf an Empfänger-Bank
-- Erfolgsquote: 15–30 % (abhängig von Empfänger-Bank)
-- Banken in Litauen, Zypern, Bulgarien oft kooperativ
-
-### SEPA-Lastschrift (< 8 Wochen)
-
-- § 675x BGB: Rückbuchungsrecht des Zahlers binnen 8 Wochen ohne Angabe von Gründen
-- Erfolgsquote: > 90 % (wenn Frist eingehalten)
-
-### Drittland (UK, Schweiz, USA, Dubai)
-
-- SWIFT-Recall möglich, aber aufwändig
-- Erfolgsquote: 5–15 %
-- Strafanzeige im Zielland über Mutual Legal Assistance (MLA)
-
-### Krypto-Tracing
-
-- Blockchain-Analyse (Chainalysis, Elliptic, TRM Labs)
-- Identifikation der Wallet-Owner (Exchange-KYC)
-- Klage gegen Exchange auf Auskunft über Kontodaten (§ 101 UrhG analog oder DSGVO Art. 15 bei EU-Exchange)
-- On-Chain-Freezing bei kooperirendem Exchange (Coinbase, Bitvavo haben Einfrierungs-Prozesse)
-
-## Zivilrechtliche Ansprüche
-
-### Gegen die Bank des Mandanten
-
-```
-Anspruchsgrundlage: § 280 BGB i.V.m. § 25h KWG /
-AGB-Banken Nr. 11
-
-Voraussetzungen:
-- Auffällige Transaktion (Höhe, erstmaliger Empfänger,
-  Auslands-IBAN in Risikoland)
-- Bank hat keine Risikowarnung gegeben
-- Mandant hätte bei Warnung nicht überwiesen
-
-Gegenargument Bank: Mitverschulden § 254 BGB
-Typisch: 30–50 % Mitverschulden bei naiver
-Leichtgläubigkeit
-
-Chancen: Mittel bei Transaktionen > 50.000 EUR,
-gering bei Kleinbeträgen
-```
-
-### Gegen Vermittler / Influencer
-
-```
-Anspruchsgrundlage: § 826 BGB (sittenwidrige Schädigung)
-oder § 823 Abs. 2 BGB i.V.m. § 263 StGB
-
-Voraussetzungen § 826 BGB:
-- Kenntnis des Vermittlers vom betrügerischen Charakter
-- Vorsatz auf Schädigung
-
-Praxis-Schwierigkeit:
-- Beweis des Vorsatzes
-- Vermittler oft im Ausland
-- "Uninformierter" Vermittler: kein § 826 BGB
-
-Chancen: Hoch wenn Vermittler eigenständig geworben und
-erhebliche Provision erhalten hat
-```
-
-### Gegen die Empfänger-Bank (Drittbank)
-
-```
-Anspruchsgrundlage: Beihilfe zur Geldwäsche (§ 261 StGB
-i.V.m. § 823 Abs. 2 BGB) oder Verletzung § 25h KWG
-
-Voraussetzungen:
-- Empfänger-Bank führte offensichtlich betrügerisches Konto
-- Keine angemessene KYC-Prüfung
-
-Chancen: Sehr gering — hohe Beweishürden
-```
-
-## Strafanzeige und Behördenmeldungen
-
-### Strafanzeige
-
-```
-An: Staatsanwaltschaft [Sitz des Geschädigten]
-    / Landeskriminalamt – Abt. Cybercrime
-
-Anzeige gegen Unbekannt (und gegen [namentlich bekannte
-Vermittler])
-
-gemäss § 263, § 263a, § 261 StGB
-
-Sachverhalt:
-1. Erstkontakt am [Datum] über [Kanal]
-2. Einzahlungen: EUR [Betrag] am [Datum] auf IBAN [Nr.]
-3. Plattform "XYZ-Trading" (Domain: xyz-trading.com)
-4. Auszahlung verweigert am [Datum]
-5. "Steuer"-Forderung EUR [Betrag] als Erpressung
-
-Beweismittel:
-- Anlage 1: Überweisungsbelege
-- Anlage 2: Chat-Screenshots
-- Anlage 3: Plattform-Screenshots
-- Anlage 4: WHOIS-Auszug Domain
-
-Antrag: Strafverfolgung + Beschlagnahme der Konten
-         beim Ziel-Kreditinstitut [IBAN-Land]
-
-[Rechtsanwalt/-anwaeltin]
-```
-
-### BaFin-Whistleblower-Portal
-
-- Online-Meldung unter: bafin.de/whistleblower
-- Nicht lizenzierte Plattform melden
-- BaFin kann Webseiten sperren (§ 4 FinDaG); Koordination mit BKA
-
-## Typische Fallkonstellationen und Aussichten
-
-| Konstellation | Verlustbetrag | Erfolgsaussicht | Empfehlung |
-|---|---|---|---|
-| SEPA-Rückruf, < 8 Wochen | Beliebig | 80 % | Sofort Rückruf beantragen |
-| Bank-Haftung, Transaktion > 50.000 EUR, erstmalig | > 50.000 EUR | 30–50 % | Klage nach Abwägung |
-| Krypto, EU-Exchange mit KYC | > 20.000 EUR | 20–40 % | Auskunftsklage + Strafanzeige |
-| Krypto, dezentrale Wallets, Drittland | Beliebig | < 5 % | Nur Strafanzeige |
-| Influencer-Haftung, Provision belegt | > 30.000 EUR | 40–60 % | § 826 BGB-Klage |
-| Drittland-Überweisung, > 6 Monate her | Beliebig | < 5 % | Strafanzeige + Steuerabzug prüfen |
-
-## Steuerliche Behandlung des Verlusts
-
-- **§ 20 Abs. 2 EStG**: Verlust aus Kapitalanlage ggf. abzugsfähig (Streit: ob Betrugsschaden = Veräußerungsverlust)
-- **§ 10d EStG**: Verlustvortrag in Folgejahre
-- Bei späterer Erstattung: Rückerstattung als Einnahme zu versteuern
-- Steuerberater einschalten; BFH-Linie zur Abzugsfähigkeit von Betrugsverlusten klären (BMF-Schreiben zu Krypto 22.11.2024)
-
-## Verjährung
-
-| Anspruch | Frist | Beginn |
-|---|---|---|
-| Zivilrechtlich § 826 BGB | 3 Jahre | Kenntnis des Schadens |
-| Strafverfolgung § 263 StGB | 5 Jahre (Abs. 1); 10 Jahre (schwerer Fall Abs. 3) | Tatbeendigung |
-| SEPA-Rückruf | 8 Wochen | Buchungsdatum |
-| Kreditkarten-Chargeback | 120 Tage | Transaktionsdatum |
-
-## Anschluss-Skills
-
-- `anlageberatungsfehler-pruefen` — bei klassischer Beratungshaftung
-- `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb` — wenn Opfer Kredit aufgenommen hat
-- `fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung` — bei grenzüberschreitender Klage
-
-## Quellen
-
-- StGB §§ 263, 263a, 261, 27
-- BGB §§ 280, 826, 823
-- KWG § 25h; GwG §§ 2, 60
-- AGB-Banken Nr. 11
-- EStG §§ 20 Abs. 2, 10d
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- BaFin-Datenbank unerlaubte Tätigkeiten (bafin.de/unerlaubt)
-- BMF-Schreiben Krypto 22.11.2024
-
-## Vertiefung: Leitsaetze und Normen Cybertrading
-
-### Ergaenzende Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Normen Cybertrading-Betrug
-- § 263 Abs. 1, Abs. 3 StGB — Betrug, gewerbsmaessiger Betrug
-- § 263a StGB — Computerbetrug
-- § 261 StGB — Geldwaesche
-- § 826 BGB — vorsaetzliche sittenwidrige Schaedigung (Vermittler)
-- § 823 Abs. 2 BGB i.V.m. § 263 StGB — Schutzgesetzverletzung
-- § 25h KWG — Sorgfaltspflichten Bank bei Verdachtsmeldung
-- § 675x BGB — SEPA-Rueckbuchungsrecht (8 Wochen)
-
-<!-- AUDIT 27.05.2026 bundle_021
--->
-
----
-
-## Skill: `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb`
-
-_Bank kündigt Kredit nach § 490 BGB wegen wesentlicher Vermögensverschlechterung und Mandant braucht Sofort-Strategie. AGB-Banken Nr. 19. Normen § 490 BGB § 314 BGB AGB-Banken Nr. 19 26. Prüfraster Kündigungs-Voraussetzungen Ankündigungsfrist Sicherheiten-Verwertung einstweiliger Rechtsschutz. Output Widerspruchs-Schreiben Stundungsantrag Klage einstweiliger Rechtsschutz. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-kreditkündigung (allg. Kündigung) und widerrufsjoker (Widerruf)._
-
-# Kreditkündigung § 490 BGB
-
-## Zweck
-
-Mandate bei drohender oder erfolgter Kreditkündigung — für Kreditnehmer (Abwehr) und Banken (Rechtssicherheit). Zeitkritisch: nach Kündigung beginnen Vollstreckungsfristen.
-
-## Mandantenfragen — Kaltstart
-
-1. **Welche Art von Kredit — Konsument, Immobiliendarlehen, Geschäftskredit, KfW?** — Bestimmt anwendbare Sondervorschriften (§ 498 BGB bei Konsumentenkredit).
-2. **Was ist der angegebene Kündigungsgrund?** — Wesentliche Vermögensverschlechterung (§ 490 BGB), Verzug (§ 498 BGB), Vertragsverstoß, AGB-Banken Nr. 19?
-3. **Wurde die Kündigung schriftlich erklärt?** — Form­erfordernis; mündliche Kündigung bei Verbraucher-Immobiliendarlehen unzureichend.
-4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-5. **Wie hoch ist der Restschuldbetrag?** — Streitwert + Vollstreckungsgefahr; sofortige Vollstreckung aus Grundschuldurkunde möglich?
-6. **Wurden 2 Raten nicht bezahlt (Konsumentenkredit)?** — § 498 BGB: 10 %-Schwelle + 2-Wochen-Mahnung = Pflicht-Voraussetzungen.
-7. **Welche Sicherheiten bestehen?** — Grundschuld, Bürgschaft, Kfz-Sicherungsübereignung; Verwertungsreihenfolge?
-8. **Gibt es ein Sanierungskonzept oder StaRUG-Potential?** — Bei GmbH/AG mit Zahlungsunfähigkeitsrisiko: StaRUG-Vorprüfung parallel.
-
-## Rechtsgrundlagen
-
-### Primärnormen
-
-| Norm | Inhalt |
-|---|---|
-| § 490 Abs. 1 BGB | Ordentliche Kündigung vor/nach Auszahlung bei wesentlicher Vermögensverschlechterung |
-| § 490 Abs. 2 BGB | Außerordentliche Kündigung beim Darlehensnehmer: besondere Einzel-Umstände |
-| § 498 BGB | Verbraucherdarlehen: Kündigung erst bei 2 Raten-Verzug + Schwellenwert (10 % bei Laufzeit ≤ 3 Jahre; 5 % bei Laufzeit > 3 Jahre) + 2-Wochen-Mahnung mit Fristsetzung |
-| § 314 BGB | Kündigung aus wichtigem Grund (subsidiär) |
-| AGB-Banken Nr. 19 | Kündigungsrecht bei wesentlicher Verschlechterung; Klauselkontrolle |
-| § 288 BGB | Verzugszinsen: 5 Prozentpunkte (Verbraucher), 9 Prozentpunkte (B2B) über Basiszinssatz |
-
-### Wesentliche Vermögensverschlechterung § 490 Abs. 1 BGB
-
-**Tatbestandsmerkmale:**
-- Wesentliche Verschlechterung der Vermögensverhältnisse des Darlehensnehmers
-- ODER wesentliche Verschlechterung der Werthaltigkeit der Sicherheit
-- DADURCH Rückzahlung gefährdet (auch unter Verwertung der Sicherheit)
-
-**Indizien für wesentliche Verschlechterung:**
-- Eröffnung eines Insolvenzverfahrens oder Antrag
-- Eidesstattliche Versicherung / Vermögensauskunft
-- Erheblicher Bilanzverlust / BWA-Verschlechterung
-- Wegfall wesentlicher Sicherheiten (z.B. Grundstücksverkauf)
-- Negative Auskünfte SCHUFA / Creditreform
-
-### Leitentscheidungen (Stand Mai 2026)
-
-Verifizierte Aktenzeichen mit offener Quelle (vor Versand Volltext aufrufen):
-
-| Gericht | Aktenzeichen | Datum | Kernaussage | Offene Quelle |
-|---|---|---|---|---|
-| BGH XI. ZS | XI ZR 22/24 | 20.5.2025 | Verlust des Vorfälligkeitsentschädigungs-Anspruchs bei intransparenter Klausel im Immobiliardarlehen — Bedeutung auch für Kündigungsfolgen (Rückzahlung bereits gezahlter VFE) | juris.bundesgerichtshof.de |
-| BGH XI. ZS | XI ZR 133/24 | 21.10.2025 | Referenzzins für Zinsanpassungen Prämiensparvertrag | bundesgerichtshof.de PM Nr. 225/2025 |
-
-Hinweis: Für die spezifischen Anforderungen des § 490 BGB (außerordentliche Kündigung wegen wesentlicher Verschlechterung) konkrete Aktenzeichen XI. ZS / III. ZS BGH vor Versand in juris.bundesgerichtshof.de oder dejure.org aufrufen.
-
-## Prüfschema Kreditkündigung
-
-| Schritt | Prüfpunkt | Norm | Rechtsfolge bei Fehler |
-|---|---|---|---|
-| 1 | Schriftliche Kündigung mit Begründung? | Praxis-Pflicht | Kündigung angreifbar |
-| 2 | Wesentliche Verschlechterung konkret? | § 490 Abs. 1 BGB | Kündigung unwirksam |
-| 3 | Vorwarnung / Stellungnahmemöglichkeit gewährt? | § 314 Abs. 2 BGB analog, Verhältnismäßigkeit | Kündigung angreifbar |
-| 4 | Bei Konsument: 2 Raten + 10 % + Mahnung? | § 498 BGB | Kündigung unwirksam |
-| 5 | Stellungnahme-Frist gewährt? | Verhältnismäßigkeit | Kündigung ggf. unwirksam |
-| 6 | Sicherheiten-Verwertung: Fälligkeit + Mahnung? | § 252 BGB-Praxis | Vorzeitige Vollstreckung angreifbar |
-| 7 | SCHUFA-Meldung gerechtfertigt? | § 31 BDSG, § 4 DSGVO | Datenschutz-Verletzung |
-
-## Typische Kündigungsszenarien
-
-### Szenario A — GmbH mit Liquiditätsengpass
-
-1. Bank stützt Kündigung auf negative BWA und fehlende Liquiditätsprognose
-2. Mandant hat keine Vorwarnung erhalten
-3. Reaktion: Sofortige Stellungnahme, Liquiditätsplan, Vorwarnungs-Argument; ggf. Sanierungsgespräch initiieren; Verhältnismäßigkeit der Kündigung anfechten
-
-### Szenario B — Privatperson, Konsumentenkredit, 3 Raten in Verzug
-
-1. § 498 BGB-Voraussetzungen prüfen: 10 %-Schwelle (bei Restschuld 80.000 EUR = 8.000 EUR Rückstand), 2-Wochen-Mahnung mit Hinweis
-2. Wenn Schwelle und Mahnung erfüllt: Kündigung wirksam
-3. Reaktion: Ratenplan, ggf. Stundungsvereinbarung vor Kündigungsausspruch
-
-### Szenario C — Immobiliendarlehen, Wert der Sicherheit gesunken
-
-1. Bank kündigt wegen Sicherheitenverschlechterung (Immobilienwert gesunken)
-2. Prüfen: aktuelles Sachverständigengutachten vs. Bank-Bewertung
-3. Reaction: Gegengutachten, ggf. Nachbesicherung anbieten
-
-## Außergerichtliche Strategie (Kreditnehmer)
-
-### Schritt 1 — Sofortiger Widerspruch (binnen 2 Wochen)
-
-```
-[Kanzlei]                                            [Ort, Datum]
-
-[Bank]
-[Anschrift]
-
-Widerspruch gegen Kreditkündigung
-Kreditvertrag Nr. [Nr.] vom [Datum]
-
-Sehr geehrte Damen und Herren,
-
-die mit Schreiben vom [Datum] ausgesprochene Kündigung
-des oben bezeichneten Kreditvertrags ist unwirksam.
-
-Begründung:
-
-1. Fehlende Vorwarnung: Bei einer Kreditbeziehung von
-   [x] Jahren war eine Vorwarnung vor Kündigung nach dem
-   Grundsatz der Verhältnismäßigkeit und Vertragstreue
-   regelmäßig erforderlich (analoge Anwendung des
-   Rechtsgedankens aus § 314 Abs. 2 BGB; konkrete
-   Aktenzeichen XI. ZS / III. ZS BGH vor Versand in
-   juris.bundesgerichtshof.de oder dejure.org aufrufen
-   und mit Randnummer einsetzen). Eine solche ist nicht
-   erfolgt.
-
-2. Keine wesentliche Vermögensverschlechterung: Die
-   von Ihnen genannten Umstände [konkret benennen]
-   begründen keine wesentliche Verschlechterung i.S.d.
-   § 490 Abs. 1 BGB. Unsere aktuelle BWA weist
-   [positive Indikatoren] aus (Anlage [Nr.]).
-
-3. Liquiditätsplan: Wir legen Ihnen anbei einen
-   3-monatigen Liquiditätsplan vor, der die Fortführung
-   der Kreditbedienung belegt (Anlage [Nr.]).
-
-Wir bitten um Rücknahme der Kündigung und Fortsetzung
-des Kreditverhältnisses zu den bisherigen Konditionen.
-
-[Rechtsanwalt/-anwaeltin]
-```
-
-### Schritt 2 — Verhandlung Stundung / Ratenstundung
-
-- Verhandlungsangebot: Stundung 6–12 Monate, danach erhöhte Tilgung
-- Sicherheiten-Nachbesserung anbieten (zusätzliche Bürgschaft, Lebensversicherung)
-- Sanierungs-/Restrukturierungsberater einschalten
-
-### Schritt 3 — Eilantrag (§ 935 ZPO) bei drohender Zwangsversteigerung
-
-- Wenn Bank Zwangsversteigerungs-Antrag stellt
-- Eilantrag auf einstweilige Einstellung der Zwangsversteigerung
-- § 30b ZVG: Antrag auf Versagung des Zuschlags aus sozialen Gründen (wenn selbstgenutzte Immobilie)
-
-### Schritt 4 — Klage auf Feststellung Unwirksamkeit der Kündigung
-
-- Verpflichtungsklage oder Feststellungsklage
-- Streitwert = Restschuld
-- Eilantrag § 940 ZPO / § 935 ZPO
-
-## Beweislast und Darlegungslast
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **Bank**: muss bei § 498 BGB belegen, dass Verzugsschwelle + Mahnung + Frist eingehalten wurden.
-- **Kreditnehmer**: kann Gegenbeweis durch Liquiditätsplan, aktuelle BWA, Sachverständigengutachten erbringen.
-- **SCHUFA-Meldung**: Bank muss Berechtigung nach § 31 BDSG belegen; ggf. Anspruch auf Löschung.
-
-## Fristen
-
-| Frist | Dauer | Rechtsgrundlage |
-|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| § 498 BGB-Mahnung Reaktionsfrist | 2 Wochen nach Mahnung | § 498 Abs. 1 Nr. 2 BGB |
-| Klage gegen Kündigung | Vor Zwangsversteigerungs-Zuschlag | ZVG §§ 83, 100 |
-| Vollstreckungsgegenklage | Vor Beendigung der Vollstreckung | § 767 ZPO |
-| Verjährung Schadensersatz | 3 Jahre | §§ 195, 199 BGB |
-
-## Streitwert und Kosten
-
-- **Kreditkündigung**: Streitwert = Restschuld des Kredits (bei 200.000 EUR Restschuld: LG-Verfahren).
-- **Eilverfahren § 940 ZPO**: Streitwert reduziert (meist 1/3 der Hauptsache).
-- **RVG**: nach Gegenstandswert; bei 200.000 EUR Streitwert: ca. 3.000–5.000 EUR Anwaltsgebühren pro Instanz.
-- **Bank-Strategie**: Vorgerichtliche Einigung meist günstiger als Klageverfahren.
-
-## Anschluss-Skills
-
-- `widerrufsjoker-immobiliendarlehen` — wenn Immobiliendarlehen fehlerhaft belehrt
-- `fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan` — bei StaRUG-Potential
-- `fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug` — bei betrügerisch aufgenommenem Kredit
-
-## Quellen
-
-- BGB §§ 288, 314, 490, 498, 252
-- AGB-Banken Nr. 19
-- ZVG §§ 30b, 83, 100
-- ZPO §§ 767, 935, 940
-- BDSG § 31; DSGVO Art. 4
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Nobbe Kommentar Kreditrecht; Schimansky/Bunte/Lwowski Bankrechts-Handbuch
+- BaFin Aufsicht ZK 1 für ART/EMT — bafin.de/EN/Aufsicht/MiCAR
 
 ---
 
 ## Skill: `fachanwalt-bank-kapitalmarktrecht-ombudsmann-bafin-schlichtung`
 
-_Mandant will vor Klage Bank-Streit durch Ombudsmann-Verfahren oder BaFin-Beschwerde lösen. Ombudsmann private Banken Sparkassen BaFin-Beschwerde § 4b FinDAG. Normen § 4b FinDAG WpHG § 14 KapMuG §§ 32 ff. EU-ODR-Plattform. Prüfraster Zulassigkeits-Check Vergleichs-Chancen Kosten-Nutzen Zeitlinie. Output Ombudsmann-Antrag BaFin-Beschwerde Vergleichs-Konzept. Abgrenzung zu anlageberatungsfehler-prüfen (Klageroute) und schriftsatzkern-substantiierung (Klage)._
+_Wenn es um Bank-/Kapitalmarktrecht — Ombudsmann, BaFin, Schlichtung in Fachanwalt Bank Kapitalmarktrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
 # Bank-/Kapitalmarktrecht — Ombudsmann, BaFin, Schlichtung
 
@@ -1696,14 +1429,59 @@ Thema: Güteantrag Verjährungshemmung § 204 BGB — thematisch passend für Sc
 -->
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `spezial-bankaufsicht-erlaubnis-und-vertrieb`
+
+_Wenn es um Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken in Fachanwalt Bank Kapitalmarktrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken
+
+## Aufgabe
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `fachanwalt-bank-kapitalmarktrecht`. Kontext des Plugins: Plugin Fachanwalt für Bank- und Kapitalmarktrecht. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR Verbraucherkredit Vermögensanlage Beratungshaftung. Schnittstellen Plugin gesellschaftsrecht regulatorisches-recht.
+
+Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
+
+## Kaltstart
+Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
+
+1. Wer handelt in welcher Rolle und gegen wen?
+2. Welches praktische Ziel soll erreicht werden?
+3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
+4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
+5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
+
+## Arbeitsworkflow
+1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
+2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
+3. **Materielle Weichen:** Die Kernfragen zu **Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
+4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
+5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
+
+## Output-Standard
+- Kurzbild in fünf Sätzen: Lage, Ziel, Frist, Risiko, nächster Schritt.
+- Prüfmatrix mit Punkt, Norm/Quelle, Tatsachen, Beleg, Bewertung, To-do.
+- Konkreter Textbaustein oder Arbeitsprodukt passend zur Lage: Memo, Mandantenbrief, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Verhandlungsagenda.
+- Keine Scheingenauigkeit: Annahmen, Lücken und Live-Check-Bedarf offen markieren.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Paywall-Literatur nur verwenden, wenn die Nutzerin oder der Nutzer den Text selbst bereitstellt; dann nicht als frei verifizierte Quelle ausgeben.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

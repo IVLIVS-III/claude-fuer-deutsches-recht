@@ -102,7 +102,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BVerwG, Urteil vom 21.11.1986 - 8 C 127.84: Rücknahme und Widerruf verlangen strikte Trennung der gesetzlichen Tatbestaende.
 - BVerwG, Urteil vom 20.10.1989 - 7 C 87.87: Verwaltungsvollstreckung setzt wirksamen Grundverwaltungsakt und vollziehbare Pflicht voraus.
 - BVerfG, Beschluss vom 02.03.1999, 1 BvL 7/91, BVerfGE 100 Seite 226 — Rheinland-Pfalz-Beschluss: Erhaltungspflichten am Baudenkmal sind Inhaltsbestimmung; wird die Belastung unzumutbar, muss
-- Rheinland-Pfalz ist verfassungsrechtlich bedeutsam: Aus dem DSchPflG erging die Vorlage zum Rheinland-Pfalz-Beschluss BVerfGE 100 Seite 226 (vom 02.03.1999), der die Grundlinie zur Inhaltsbestimmung
 
 ## 9. Prüfraster
 

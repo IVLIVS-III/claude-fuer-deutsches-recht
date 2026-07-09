@@ -101,11 +101,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Vorsatzanfechtung verlangt Gesamtwürdigung der Indizien.
 - BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Sanierungsversuch kann Vorsatzanfechtung beeinflussen, wenn er tragfähig ist.
 - BGH, Urteil vom 28.06.2012 - IX ZR 219/10: Bargeschäftsnaehe kann Anfechtungsrisiken begrenzen.
-- Verifizierte Anker: BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen Paragraf 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: Paragraf 343 InsO Anerkennung
-- BGH IX ZR 72/20 vom 06.05.2021 — Grundsatzentscheidung Neuausrichtung Vorsatzanfechtung; aus bloßer Zahlungsunfähigkeit allein kein Schluss auf Vorsatz iSd Paragraf 133 Abs. 1 InsO
 - BGH IX ZR 129/22 vom 18.04.2024 — Bestätigung: Verwalter muss konkret darlegen, dass der Schuldner wusste oder billigend in Kauf nahm, andere Gläubiger zu späterer Zeit nicht vollständig zu befriedigen
 - BGH IX ZR 122/23 vom 05.12.2024 — Konkretisierung Unlauterkeit Paragraf 142 Abs. 1 Hs. 2 InsO: erfordert gezielt schädigendes Verhalten oder gezielte Bevorzugung; bloße Verlustsituation genügt nicht
-- Wirtschaftlichkeitsschwelle: nach BGH IX ZR 129/22 (18.04.2024) sind die Erfolgsaussichten bei kongruenten Deckungen geringer; Vergleichsquote 30 – 60 % typisch
+- BVerfG 1 BvR 418/25 vom 28.02.2025 (3. Kammer, Erster Senat — VARTA) — Eingriffe in Aktionärsrechte durch StaRUG-Plan im Restrukturierungsverfahren verfassungsrechtlich nicht generell ausgeschlossen
 
 ## 9. Prüfraster
 

@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Paragraf 433 BGB; Paragraf 631 BGB; Paragraf 535 BGB |
-| Rechtsprechung | Wenn Sie ein AG-Urteil für falsch halten, können Sie Berufung; Paragraf 511 II Nr. 2 ZPO i.V.m. Paragraf 511 IV ZPO |
+| Rechtsprechung | LG-Urteil kann mit Revision zum BGH angefochten werden |
 | Tatbestand | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -55,9 +55,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 281 BGB — Schadensersatz statt Leistung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 311a BGB — Schadensersatz bei anfaenglicher Unmöglichkeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 311 II BGB i. V. m. Paragraf 280 BGB — Schadensersatz aus c.i.c: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Wenn Sie ein AG-Urteil für falsch halten, können Sie Berufung einlegen. Berufungsgericht ist das Landgericht (LG). Aber Achtung: Vor LG herrscht Anwaltszwang (Paragraf 78 ZPO). Sie können die Berufung
-- Paragraf 511 II Nr. 2 ZPO i.V.m. Paragraf 511 IV ZPO: Das AG kann die Berufung im erstinstanzlichen Urteil zulassen, wenn:
-- Wichtig: Die Zulassung erfolgt durch das AG selbst im Urteil. Eine eigene "Zulassungs-Beschwerde" zum LG sieht die ZPO nicht vor. Wenn das AG die Berufung nicht zugelassen hat, ist die Berufung bei einer
 - LG-Urteil kann mit Revision zum BGH angefochten werden — aber nur, wenn vom LG zugelassen (Paragraf 543 ZPO). Sehr selten
 
 ## 7. Antwortform

@@ -1,43 +1,44 @@
-# Megaprompt: krankenhausrecht
+# Vollprüfung: krankenhausrecht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 68 Skills des Plugins `krankenhausrecht`.
+Dieser Vollprüfung enthaelt top-10 von 68 Skills des Plugins `krankenhausrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Krankenhausrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und …
-2. **planfeststellungsbescheid-rechtsbehelf-und-eilrechtsschutz** — Planfeststellungsbescheid Rechtsbehelf und Eilrechtsschutz: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken …
-3. **medizinprodukterecht-betreiberpflichten-mdr-mpbetreibv** — Medizinprodukterecht Betreiberpflichten MDR MPBetreibV: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und …
-4. **compliance-system-klinik-einkauf-forschung-spenden** — Compliance-System Klinik Einkauf Forschung Spenden: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausn…
-5. **insolvenz-eines-krankenhauses-versorgungssicherung** — Insolvenz eines Krankenhauses Versorgungssicherung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausn…
-6. **klinikverbund-fusion-kartell-vergabe-planungsrecht** — Klinikverbund Fusion Kartell Vergabe Planungsrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausn…
-7. **zuweiserverguetung-antikorruption-299a-299b-stgb** — Zuweiservergütung Antikorruption §§ 299a 299b StGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausn…
-8. **wahlleistungsvereinbarung-chefarzt-zentren** — Wahlleistungsvereinbarung Chefarzt Leistungskette: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausna…
-9. **kinder-und-jugendmedizin-besondere-versorgung** — Kinder- und Jugendmedizin besondere Versorgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahme…
-10. **forschung-studien-gewaltschutz** — Forschung Studien Ethikkommission Datenschutz: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen…
+1. **kaltstart-triage** — Wenn es um Krankenhausrecht — Allgemein in Krankenhausrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden…
+2. **vorhalteverguetung-leistungsgruppen-krankenhausreform** — Wenn es um Vorhalteverguetung Leistungsgruppen Krankenhausreform in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Bew…
+3. **sektorenuebergreifende-versorgung-level-ii-klinik** — Wenn es um Sektorenuebergreifende Versorgung Level Ii Klinik in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweisl…
+4. **krankenhausfinanzierungsgesetz-khg-grundstruktur** — Wenn es um Krankenhausfinanzierungsgesetz KHG Grundstruktur in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweisla…
+5. **triage-notaufnahme-ueberlastung-dokumentation** — Wenn es um Triage Notaufnahme Ueberlastung Dokumentation in Krankenhausrecht geht: klärt Rolle, Ziel, Frist, Unterlagen …
+6. **md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung** — Wenn es um MD-Prüfung Krankenhausabrechnung Prüfverfahrensvereinbarung in Krankenhausrecht geht: erstellt den passenden …
+7. **triage-notaufnahme-vergaberecht-krankenhaus** — Wenn es um Triage Notaufnahme Überlastung Dokumentation in Krankenhausrecht geht: klärt Rolle, Ziel, Frist, Unterlagen u…
+8. **investitionsfoerderung-einzelfoerderung** — Wenn es um Investitionsfoerderung Einzelfoerderung Pauschalfoerderung in Krankenhausrecht geht: erstellt den passenden E…
+9. **klage-klinikakten-bescheide-klinikverbund** — Wenn es um Klage gegen Budgetbescheid oder Schiedsstellenentscheidung in Krankenhausrecht geht: erstellt den passenden E…
+10. **notfallstufen-sicherstellungszuschlaege** — Wenn es um Notfallstufen und Sicherstellungszuschlaege in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, G…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting im Krankenhausrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, erkennt stumme Uploads und schlägt passende Fachmodule aus diesem Plugin vor._
+_Wenn es um Krankenhausrecht — Allgemein in Krankenhausrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Krankenhausrecht — Allgemein
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Krankenhausrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Sofortstart
 Dieses Allgemein-Skill ist der Empfangstresen und Projektleiter des Plugins **Krankenhausrecht**. Es soll den Nutzer nicht belehren, sondern schnell arbeitsfähig machen: erst die Lage erfassen, dann den passenden Pfad wählen, dann direkt einen verwertbaren Output erzeugen.
@@ -192,11 +193,11 @@ Konkret zu prüfen:
 
 ---
 
-## Skill: `planfeststellungsbescheid-rechtsbehelf-und-eilrechtsschutz`
+## Skill: `vorhalteverguetung-leistungsgruppen-krankenhausreform`
 
-_Planfeststellungsbescheid Rechtsbehelf und Eilrechtsschutz: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR im Krankenhausrecht._
+_Wenn es um Vorhalteverguetung Leistungsgruppen Krankenhausreform in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Planfeststellungsbescheid Rechtsbehelf und Eilrechtsschutz
+# Vorhalteverguetung Leistungsgruppen Krankenhausreform
 
 ## Arbeitsweg
 
@@ -206,25 +207,72 @@ _Planfeststellungsbescheid Rechtsbehelf und Eilrechtsschutz: prüft die einschl�
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Planfeststellungsbescheid Rechtsbehelf und Eilrechtsschutz
+## Fachkern: Vorhalteverguetung Leistungsgruppen Krankenhausreform
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Worum geht es konkret
+Mit dem KHVVG wird die Krankenhausverguetung umgestellt: Statt fast vollstaendiger DRG-Finanzierung erhaelt jedes Plankrankenhaus kuenftig einen mengenunabhaengigen Vorhalteanteil (Zielmarke 60 %), der je Leistungsgruppe ausgereicht wird. Konvergenzphase 2025-2027.
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Wann dieses Modul hilft / Kaltstart-Fragen
+- Liegen LG-Zuweisungen des Landes vor?
+- Wie ist die Casemix-Historie der vergangenen drei Jahre?
+- Welche Vorhalteanteile sind für welche LG aktuell relevant?
+- Wie wirkt die Konvergenz auf das laufende Budget?
+- Gibt es Mehrleistungen, Strukturveraenderungen, neue LG?
+
+## Rechtlicher Rahmen
+- **KHEntgG § 5** Vorhalteverguetung, Konvergenzregelung.
+- **KHG § 6a** LG als Bezugsgroesse.
+- **SGB V § 109** Versorgungsauftrag.
+- **KHVVG** vom 12.12.2024 (Artikelgesetz).
+- **BMG-/InEK-Hinweise** zur LG-Casemix-Berechnung und Vorhalteanteil-Bestimmung.
+- **PrEV/Pflegebudget** bleibt separat.
+
+## / Schritt für Schritt
+1. **LG-Zuweisung dokumentieren:** Welche LG hat die Klinik? Welche Mengen sind erbracht?
+2. **Vorhalteanteil je LG berechnen:** Bundesweit normierter Anteil x Casemix-Volumen der Klinik.
+3. **Konvergenzpfad anwenden:** 2025: 0 %, 2026: 20 % (Schaetzung, abhaengig von KHVVG-Konkretisierungen), 2027: 60 %.
+4. **DRG-Restanteil prüfen:** DRG bleibt für den verbleibenden Anteil; weiterhin Casemix-relevant.
+5. **Budget-Auswirkungen modellieren:** Vorher/Nachher-Vergleich pro LG; Liquiditaetseffekt.
+6. **AEB anpassen:** Vorhalteanteile in Budgetvereinbarung gesondert ausweisen.
+
+## Trade-off-Matrix
+
+| Strategie | Effekt | Risiko |
+|---|---|---|
+| breit aufgestelltes LG-Portfolio | mehr Vorhalte-Volumen | Strukturkosten je LG hoch |
+| Konzentration auf wenige LG | klare Strukturqualitaet | Erloesabhaengigkeit |
+| Verbund-Vorhalten | geteilte Kosten | Vertrags- und Steuerungsaufwand |
+| LG abgeben | Kostenreduktion | Vorhalte-Erloes faellt weg |
+
+## Praxistipps
+- Vorhalteverguetung **kompensiert keinen Casemix-Rueckgang** — Mengen weiterhin abrechnen.
+- Konvergenz wirkt asymmetrisch: profitabel für Kliniken mit hohem Fixkostenanteil und niedriger Auslastung.
+- 60 %-Vorhalteziel ist politisch; tatsaechliche Implementierung kann sich verzoegern (Live-Check BMG).
+- Bei LG-Verlust: Vorhaltebudget faellt schrittweise weg, Personaldispositionen anpassen.
+- Verhandlung 2026 ist die erste mit substanziellem Vorhalteanteil — gute Datengrundlage wichtig.
+
+## Mustertexte
+**Vorhalte-Modellrechnung im AEB:**
+> Vorhalteanteil 2026 je LG (Anlage 5): LG 14 Allgemeine Innere: Casemix-Volumen 12.500, Vorhalteanteil 20 % entspricht … EUR. LG 27: … LG 33: … Summe Vorhalte: … EUR.
+
+**Schreiben an Kasse zur Konvergenz:**
+> In der Budgetverhandlung 2026 ist nach KHEntgG der Vorhalteanteil gesondert auszuweisen. Wir haben die Berechnung gemäß BMG-Hinweis vom [Datum] vorgenommen. Anlage: Vorhalteanteil-Matrix.
+
+## Typische Fehler
+- Vorhalteanteil mit Mengenausgleich verwechseln; Vorhalt ist mengenunabhaengig.
+- Konvergenzphase als sofortige 60 %-Vorhaltequote behandeln.
+- Pflegebudget in Vorhalteanteil hineinrechnen; Pflege bleibt separat.
+- LG-Verlust ohne Folgen modellieren; Vorhalte verschwindet mit LG.
+
+## Quellen Stand 06/2026
+- KHEntgG i. d. F. KHVVG 12/2024.
+- KHG § 6a (LG-Anlage).
+- KHVVG-Konkretisierung 2025/2026 (Live-Check BMG, GKV-Spitzenverband, DKG).
+- InEK-Casemix-Vorgaben (Live-Check g-drg.de).
+- BSG, staend. Rspr. zur Budgetverhandlung.
 
 ## Normen & Rechtsprechung
 
@@ -235,16 +283,13 @@ Konkret zu prüfen:
 - KHEntgG (Entgeltgesetz)
 - §§ 17a-17d KHG (DRG, Pflege, Investitionen)
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
 ---
 
-## Skill: `medizinprodukterecht-betreiberpflichten-mdr-mpbetreibv`
+## Skill: `sektorenuebergreifende-versorgung-level-ii-klinik`
 
-_Medizinprodukterecht Betreiberpflichten MDR MPBetreibV: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR im Krankenhausrecht._
+_Wenn es um Sektorenuebergreifende Versorgung Level Ii Klinik in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Medizinprodukterecht Betreiberpflichten MDR MPBetreibV
+# Sektorenuebergreifende Versorgung Level Ii Klinik
 
 ## Arbeitsweg
 
@@ -254,43 +299,348 @@ _Medizinprodukterecht Betreiberpflichten MDR MPBetreibV: prüft die einschlägig
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Medizinprodukterecht Betreiberpflichten MDR MPBetreibV
+## Fachkern: Sektorenuebergreifende Versorgung Level Ii Klinik
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Worum geht es konkret
+Mit der Krankenhausreform (KHVVG) entstand die Stufe **Level Ii** (sektorenuebergreifend) — Bruecke zwischen vollstaendiger stationaerer Klinik (Level I bis III) und rein ambulanter Versorgung. Sie soll wohnortnahe Grund- und Regelversorgung sichern, kombiniert ambulant-stationaer und arbeitet mit Hybrid-DRG, AOP und stationaerer Kurzliegerversorgung.
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Wann dieses Modul hilft / Kaltstart-Fragen
+- Ist die Klinik als Level Ii vorgesehen oder im Umbau?
+- Welche Leistungsgruppen passen zur sektorenuebergreifenden Versorgung?
+- Liegen Kooperationsvertraege mit Praxen, MVZ, ambulanten OP-Zentren vor?
+- Welche Strukturmerkmale (Personal, Geraete, Bereitschaft) sind erforderlich?
+- Wie wird verguetet (Hybrid-DRG, DRG, AOP, sektorengleiche Pauschalen)?
+
+## Rechtlicher Rahmen
+- **KHG § 6a** Leistungsgruppen, mit Level-Ii-Komponente.
+- **KHVVG** vom 12.12.2024.
+- **SGB V §§ 115b, 115f, 116, 116a, 116b, 140a** Ambulant am Krankenhaus, Hybrid-DRG, Spezialaerztliche Versorgung, Selektivvertraege.
+- **Landeskrankenhausgesetze** Plansetzung und Strukturmerkmale.
+- **MVZ-Recht § 95 SGB V** Medizinische Versorgungszentren.
+- **G-BA-Beschlüsse** zu sektorenuebergreifenden Versorgungsformen.
+
+## / Schritt für Schritt
+1. **Versorgungsmodell entwerfen:** Welche Leistungen ambulant, welche kurzstationaer, welche stationaer?
+2. **Strukturmerkmale prüfen:** Personal (Aerzte/Pflege 24/7 oder erweitert), Geraete, OP, Notfallaufnahme.
+3. **Kooperationsmodelle:** MVZ-Anbindung, Praxen, Telemedizin, Rettungsdienst-Kooperation.
+4. **Verguetungspfade:** AOP (KV), Hybrid-DRG (Kasse), DRG (Kasse), Selektivvertraege (§ 140a SGB V).
+5. **Antrag auf Plan-Einstufung Level Ii:** Konzept, Bedarfsbegruendung, Strukturqualitaetsnachweise, Kooperationsvertraege.
+6. **Investitionsfoerderung:** Transformationsfonds KHVVG, Landesinvestitionsfoerderung.
+7. **Risiken:** Aufrechterhaltung der Notfallversorgung, Personalbedarf, Verguetungsmix.
+
+## Trade-off-Matrix
+
+| Modell | Vorteil | Nachteil |
+|---|---|---|
+| Reine Level Ii | wohnortnah, fokussiert | reduzierte Erloese je Fall |
+| Level Ii + MVZ-Anbindung | Versorgungsbreite | Steuerungsaufwand |
+| Verbund mit Vollversorger | gesamthafte Versorgung | Komplexitaet, Abhaengigkeit |
+| Selektivvertrag § 140a | innovative Versorgungsmodelle | Bindung an Kasse |
+
+## Praxistipps
+- Level Ii ist konzeptionell mit Notaufnahme + ambulant-stationaerer Versorgung verbunden — Strukturanforderungen bleiben sportlich.
+- Hybrid-DRG-Katalog ist die wirtschaftliche Achse; Personal/Geraete für haeufige Hybrid-DRG-Eingriffe vorhalten.
+- Kooperationsvertraege schriftlich, mit Steuerungsstruktur und Vertretungsregeln.
+- Transformationsfonds (50 Mrd. EUR) ist die wichtigste Foerderquelle für Level-Ii-Umbau.
+- Bei Reduzierung von vollstationaerer Versorgung Personalplan und betriebsuebergangsrechtliche Fragen prüfen.
+
+## Mustertexte
+**Konzept Level Ii (Skizze):**
+> Konzept Level Ii-Klinik [Standort]. 1. Versorgungsauftrag: Grund-/Regelversorgung. 2. Leistungsgruppen: LG 14 Allg. Innere, LG 15 Geriatrie, LG 12 Notfall. 3. Strukturmerkmale: Personal …, Geraete …, Notfallaufnahme …. 4. Kooperationen: MVZ [Name], Praxis [Name], Telemedizin [Anbieter]. 5. Verguetungsmix: 50 % Hybrid-DRG, 30 % DRG, 20 % AOP. 6. Investitionsplan / Transformationsfondsantrag.
+
+**Antrag Transformationsfonds (Skizze):**
+> Wir beantragen Mittel aus dem Transformationsfonds nach KHVVG für den Umbau zur Level Ii-Klinik. Konzept Anlage 1; Bedarfsbegruendung Anlage 2; Wirtschaftlichkeit Anlage 3; Kofinanzierung Land Anlage 4.
+
+## Typische Fehler
+- Level Ii als reine Ambulanz-Ausweichloesung verstanden — Strukturmerkmale Notfall bleiben.
+- Hybrid-DRG-Katalog ignoriert — Verguetungsmix instabil.
+- Kooperationsvertraege ohne Steuerungsregelungen.
+- Personal-/Betriebsuebergang nicht geregelt (§ 613a BGB).
+- Transformationsfondsantrag ohne klares Strukturveraenderungskonzept.
+
+## Quellen Stand 06/2026
+- KHG § 6a, KHEntgG, SGB V §§ 115b, 115f, 116, 140a.
+- KHVVG (12.12.2024).
+- BMG-Konkretisierung Level Ii (Live-Check bundesgesundheitsministerium.de).
+- G-BA-Beschlüsse zu sektorenuebergreifender Versorgung (Live-Check g-ba.de).
+- BSG, staend. Rspr. zum Versorgungsauftrag.
+
+---
+
+## Skill: `krankenhausfinanzierungsgesetz-khg-grundstruktur`
+
+_Wenn es um Krankenhausfinanzierungsgesetz KHG Grundstruktur in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Krankenhausfinanzierungsgesetz KHG Grundstruktur
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Krankenhausfinanzierungsgesetz KHG Grundstruktur
+- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
+- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Worum geht es konkret
+Das KHG ist das organisatorische Grundgesetz des Krankenhauswesens. Es regelt die **duale Finanzierung** (Investitionen vom Land, Betrieb von den Kassen), die **Landeskrankenhausplanung**, die **Leistungsgruppen** (KHVVG 2025) und das Schiedsstellenwesen. Es ist Voraussetzung für KHEntgG, BPflV und SGB-V-Versorgung.
+
+## Wann dieses Modul hilft / Kaltstart-Fragen
+- Geht es um Plankrankenhausstatus, Investitionsfoerderung, Versorgungsauftrag?
+- Steht eine Bund-Länder-Frage an (Reform, Foerderpriorisierung)?
+- Welche Norm im KHG ist konkret relevant (§§ 1, 6, 6a, 8, 9, 17, 17b, 17d, 18a)?
+- Ist die Klinik Plan-, Hochschul-, Vertrags- oder Sicherstellungskrankenhaus?
+
+## Rechtlicher Rahmen
+- **KHG § 1** Zweck: bedarfsgerechte Versorgung, sozial tragbare Entgelte.
+- **KHG § 6** Krankenhausplan, Aufnahme/Herausnahme von Kliniken.
+- **KHG § 6a** Leistungsgruppen (eingefuegt durch KHVVG 12/2024).
+- **KHG § 8** Voraussetzungen Förderung, Krankenhausplan, Versorgungsvertrag.
+- **KHG § 9** Investitionsfoerderung (Einzel, Pauschal, Pauschal-Investition).
+- **KHG § 17, 17b, 17d** Pflegesatz, DRG, PEPP.
+- **KHG § 18a** Schiedsstelle.
+- **Landeskrankenhausgesetze** konkretisieren Förderung, Aufnahme, Versorgungsauftrag.
+- **SGB V § 108, 109** Zulassung von Krankenhaeusern als GKV-Versorger.
+
+## / Schritt für Schritt
+1. **Status klären:** Plan, Hochschul, Vertrag (§ 108 SGB V), Sicherstellung?
+2. **Relevante KHG-Norm identifizieren:** Plan/§ 6, Förderung/§ 9, Vergütung/§ 17 ff.
+3. **Bund-/Landesebene trennen:** KHG Bundesrecht; Landeskrankenhausgesetze konkretisieren.
+4. **KHVVG-Auswirkung prüfen:** Welche Änderung greift bereits, was ist Konvergenz?
+5. **Output formen:** Memo, Stellungnahme, Antrag, Klagebegruendung.
+
+## Trade-off-Matrix
+
+| Status | Vorteil | Pflicht |
+|---|---|---|
+| Plankrankenhaus | Investitionsfoerderung, Versorgungsauftrag | Strukturvorgaben, LG-Bindung |
+| Hochschulklinik | Sonderfinanzierung Forschung/Lehre | hohe Anforderungen, Landesgesetz |
+| Vertragsklinik § 108 Nr. 3 | flexible Versorgungsausrichtung | keine Investitionsfoerderung |
+| Sicherstellungshaus | Zuschlaege § 17b Abs. 1a KHEntgG | besondere Prüfung Bedarf |
+
+## Praxistipps
+- KHG ist Bund, Landeskrankenhausgesetz konkretisiert; bei Konflikt: Bundesrecht bricht Landesrecht nur, wo abschliessend geregelt.
+- Foerderbescheid des Landes ist Verwaltungsakt mit Rechtsbehelf, Frist 1 Monat.
+- KHVVG hat die Plansystematik tiefgreifend geaendert: alte Versorgungsauftraege werden in LG ueberfuehrt.
+- Hochschulklinik: zusaetzlich landesrechtliche Hochschulgesetze beachten.
+
+## Mustertexte
+**Aufnahmeantrag in den Krankenhausplan:**
+> An [zuständige Behörde]. Wir beantragen die Aufnahme der Klinik [Name] in den Krankenhausplan des Landes [Land] gemäß § 6 KHG i. V. m. § … LKHG. Beigefuegt: Bedarfsbegruendung, Strukturqualitaetsnachweis, LG-Profil, Wirtschaftlichkeitsdarstellung.
+
+## Typische Fehler
+- KHG ohne Bezug zu Landeskrankenhausgesetz prüfen — Foerderdetails dort.
+- Plankrankenhausstatus mit GKV-Versorgungsvertrag verwechseln (§ 108 SGB V).
+- KHVVG-Änderungen nicht in laufende Foerderbescheide einarbeiten.
+
+## Quellen Stand 06/2026
+- KHG i. d. F. KHVVG 12/2024.
+- Landeskrankenhausgesetze 16 Länder (Live-Check Landesministerien).
+- SGB V §§ 108, 109.
+- BSG, staend. Rspr. zu Versorgungsauftrag, Plankrankenhaus, Förderung.
+- BVerwG, staend. Rspr. zur Aufnahmeentscheidung Krankenhausplan.
+
+---
+
+## Skill: `triage-notaufnahme-ueberlastung-dokumentation`
+
+_Wenn es um Triage Notaufnahme Ueberlastung Dokumentation in Krankenhausrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Triage Notaufnahme Ueberlastung Dokumentation
+
+## Worum geht es konkret
+Notaufnahmen muessen Patienten anhand validierter Triagesysteme (Manchester Triage System MTS, Emergency Severity Index ESI) priorisieren. Bei Ueberlastung und Knappheit (Intensivbetten, Beatmungsgeraete) bestehen ethisch-rechtliche Vorgaben (BVerfG-Beschluss zur Triage 2021/2022; § 5c IfSG nach Pandemienovelle).
+
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+- Welche Triage-Lage (Routine, Massenanfall, Ressourcenknappheit)?
+- Welches Triagesystem ist eingefuehrt (MTS, ESI, andere)?
+- Liegen Dokumentationsstandards, Schulungsnachweise vor?
+- Gab es einen konkreten Vorfall (Triagefehler, Behandlungsverzoegerung)?
+- Drohen Haftungsrisiken, Aufsicht oder Patientenbeschwerde?
+
+## Rechtlicher Rahmen
+- **BGB §§ 630a ff.** Behandlungspflicht, Aufnahme-/Ueberweisungspflicht in Notlage.
+- **GG Art. 3 Abs. 3 S. 2** Benachteiligungsverbot wegen Behinderung — BVerfG 16.12.2021 zur Triage (1 BvR 1541/20).
+- **§ 5c IfSG** Triagegrundsaetze (Pandemienovelle 2022).
+- **DIVI- und DGINA-Empfehlungen** zu Triagesystemen und Krisenversorgung.
+- **Notaufnahmevergaben G-BA** Stufenkonzept und Strukturmerkmale.
+- **MD-Strukturpruefung** und MBO-Aerzte.
+
+## Workflow / Schritt fuer Schritt
+1. **Triagesystem dokumentieren:** Welches System, wer triagiert (Notfallpflege, Aerztlich), Schulungsnachweis.
+2. **Dokumentation jeder Triage:** Eingangstrias mit Datum/Uhrzeit, Kategorie, Vitalparameter, Begruendung.
+3. **Re-Triage:** Bei Verzoegerung erneute Bewertung; Verlauf dokumentieren.
+4. **Sekundaer-Triage:** Bei knappen Ressourcen (Intensivbett, Beatmung) Entscheidung anhand § 5c IfSG: Erfolgsaussicht im Einzelfall, kein Diskriminierungskriterium.
+5. **Ueberlastung melden:** Innerbehoerdlich, ggf. Leitstelle Rettungsdienst (Abmeldung Aufnahmestatus).
+6. **Vorfall-/Haftungspruefung:** Fehlerquellen, dokumentierte Begruendung, Nachschulung.
+
+## Trade-off-Matrix
+
+| Lage | Triagesystem | Risiko |
+|---|---|---|
+| Routinenotaufnahme | MTS/ESI | wenig |
+| Massenanfall MANV | MTS-MCI / SIEVE-START | hohe Anforderung Doku |
+| Pandemielage knapper Intensivbetten | § 5c IfSG (Erfolgsaussicht) | verfassungsrechtl. Sensibilitaet |
+| Ueberlastung dauerhaft | Strukturkritik, Aufsichtsdialog | Strukturpruefung droht |
+
+## Praxistipps
+- BVerfG-Beschluss (1 BvR 1541/20) hat Gesetzgeber zu Schutzregeln verpflichtet — § 5c IfSG ist die Antwort.
+- Triagesystem zertifiziert anwenden (z. B. MTS-Lizenz, ESI-Schulung), Schulungsnachweis aufbewahren.
+- Ex-post-Triage (Behandlungsabbruch zugunsten anderer) ist verfassungsrechtlich verboten (§ 5c Abs. 2 IfSG).
+- Re-Triage bei langer Wartezeit zwingend — Verlaufsdokumentation.
+- Abmeldung Aufnahmestatus an Rettungsleitstelle ist klare Eskalationsmassnahme bei Ueberlastung.
+
+## Mustertexte
+**Triage-Dokumentation (Routine):**
+> Eingangsdatum/-zeit: …, Patient: …, Triage-System: MTS, Kategorie: rot/orange/gelb/gruen/blau, Vitalparameter (RR, HF, AF, SpO2, Schmerzen NRS): …, Triagierende Person (Quali, Schulung): …, Nachsicht/Re-Triage: ja/nein.
+
+**Vorfallmemo Triagefehler:**
+> Vorfall vom [Datum], Patient [ID], Kategorie [vergeben], tatsaechliche Schwere: …, Folge: …, Ursachenanalyse: …, Massnahmen: Schulung, Audit, Eskalationspfad.
+
+## Typische Fehler
+- Triage durch ungeschultes Personal.
+- Re-Triage fehlt bei langen Wartezeiten.
+- Dokumentation unvollstaendig — Beweisnot bei Haftung.
+- § 5c IfSG-Vorgaben nicht in SOP integriert (Diskriminierungsverbot).
+- Aufnahmestatus nicht abgemeldet trotz Ueberlastung.
+
+## Querverweise
+- `notfallstufen-und-sicherstellungszuschlaege`
+- `intensivmedizin-beatmung-verlegung`
+- `rettungsdienst-schnittstelle-aufnahme-pflicht`
+- `patientenrechte-behandlungsvertrag-aufklaerung`
+- `dokumentation-aufbewahrung-beweislast`
+- `haftpflichtfall-krankenhaus-gutachtenstrategie`
+
+## Quellen Stand 06/2026
+- BVerfG 16.12.2021, 1 BvR 1541/20.
+- § 5c IfSG.
+- DIVI-/DGINA-Triage-Empfehlungen (Live-Check divi.de, dgina.de).
+- G-BA Notfallstufen-RL (Live-Check g-ba.de).
+- BGH, staend. Rspr. zu Aufnahmepflicht und Behandlungsverzoegerung.
+
+---
+
+## Skill: `md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung`
+
+_Wenn es um MD-Prüfung Krankenhausabrechnung Prüfverfahrensvereinbarung in Krankenhausrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# MD-Prüfung Krankenhausabrechnung Prüfverfahrensvereinbarung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: MD-Prüfung Krankenhausabrechnung Prüfverfahrensvereinbarung
+- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
+- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Worum geht es konkret
+Der Medizinische Dienst (MD) prüft im Auftrag der Krankenkassen die Abrechnung stationaerer Faelle. Seit 2020 ist die Prüfquote pro Klinik gedeckelt; Aufwandspauschalen und Strukturpruefungen ergaenzen das Verfahren. Die Prüfverfahrensvereinbarung (PrüferV) ist Spielregeln-Vertrag zwischen GKV-SV und DKG.
+
+## Wann dieses Modul hilft / Kaltstart-Fragen
+- Liegt eine MD-Prüfanzeige, ein Prüfbericht oder eine Schlussbewertung vor?
+- Welche Prüfquote ist relevant (klinikspezifisch, Standardquote)?
+- Welche Beanstandungen werden gestellt (Hauptdiagnose, Nebendiagnose, OPS, Verweildauer, Strukturmerkmal)?
+- Drohen Rueckforderung, Aufwandspauschale, Strukturzuschlag-Risiko?
+
+## Rechtlicher Rahmen
+- **SGB V § 275c** Prüfverfahren, Prüfquote, Aufwandspauschale 300 EUR.
+- **SGB V § 17c KHG** Strukturpruefung durch MD.
+- **PrüferV (Prüfverfahrensvereinbarung)** zwischen GKV-SV und DKG nach § 17c Abs. 2 KHG.
+- **FPV (Fallpauschalenvereinbarung)** zwischen Selbstverwaltungspartnern.
+- **DKR (Deutsche Kodierrichtlinien)** als Auslegungsgrundlage.
+- **SGB V § 109 Abs. 5** Versorgungsauftrag bei Strukturmerkmalen.
+
+## / Schritt für Schritt
+1. **Prüfanzeige eingangsdatieren:** Frist § 275c: MD muss innerhalb von 6 Wochen prüfen, Klinik antwortet innerhalb 8 Wochen.
+2. **Prüfthema identifizieren:** Hauptdiagnose, Nebendiagnose, Verweildauer (untere Grenzverweildauer), OPS, Strukturmerkmal?
+3. **Akte komplettieren:** Pflegebericht, Aerztliche Doku, OP-Bericht, Befunde, Anaesthesieprotokoll.
+4. **Eigene Prüfung:** Kodierrichtlinien, DRG-Browser, ICD/OPS-Aktualisierung.
+5. **Stellungnahme verfassen:** Begruendung mit Akten- und DKR-Verweis, Gegenargumente vorbereiten.
+6. **Schlussbewertung prüfen:** Beanstandungsbegruendung tragfaehig? Erloesminderung berechtigt?
+7. **Aufwandspauschale geltend machen** (§ 275c Abs. 1 SGB V) wenn Prüfung ohne Erloesminderung endet.
+8. **Erweiterte Eroerterungsverfahren** vor Klage; ggf. Klage Sozialgericht.
+
+## Trade-off-Matrix
+
+| Reaktion | Vorteil | Nachteil |
+|---|---|---|
+| akzeptieren | Verfahrensschluss | Erloesausfall, Prüfquote belastet |
+| eroertern | guenstig, oft Einigung | zeitintensiv |
+| klagen SG | Drittentscheidung | Verfahrensdauer 1-3 Jahre |
+| schon nachkodieren | korrigierte DRG | Pflicht, dokumentierbar |
+
+## Praxistipps
+- Prüfquote 2024 ff. liegt klinikspezifisch zwischen 5 % und 15 %; Schlussbewertungsquote relevant für Aufschlag/Abschlag (§ 275c Abs. 4 SGB V).
+- Strukturpruefungen (Stroke, Onkologie, Geriatrie) sind separat — Verlust gefaehrdet ganze OPS-Abrechnung.
+- 300-EUR-Aufwandspauschale gilt bei "Prüfung ohne Erloesminderung" (BSG, staend. Rspr.).
+- Klage zum SG ist meist Leistungsklage auf Restzahlung, kein Vorverfahren.
+
+## Mustertexte
+**Stellungnahme zur MD-Prüfanzeige:**
+> Sehr geehrte Damen und Herren, wir nehmen zur Prüfanzeige vom [Datum] wie folgt Stellung. Die Hauptdiagnose [ICD] ist gemäß DKR D002f richtlinienkonform kodiert. Die Verweildauer entspricht … OP-Bericht und Pflegebericht zeigen … Wir bitten um Bestaetigung der Abrechnung; hilfsweise um Anberaumung eines Eroerterungstermins.
+
+**Aufwandspauschale-Forderung:**
+> Da die MD-Prüfung mit Schlussbewertung vom [Datum] ohne Erloesminderung endete, machen wir gemäß § 275c Abs. 1 SGB V die Aufwandspauschale i. H. v. 300 EUR geltend.
+
+## Typische Fehler
+- Frist 8 Wochen zur Akten-Vorlage versaeumt — MD darf dann nach Aktenlage entscheiden.
+- DKR-Stand nicht aktuell; jaehrliche Aktualisierung.
+- Strukturpruefung mit Einzelfallpruefung verwechselt.
+- Nachforderung nicht gegen Verjährung gesichert (§ 109 Abs. 5 SGB V, 4 Jahre).
+
+## Quellen Stand 06/2026
+- SGB V §§ 275c, 109; KHG § 17c.
+- PrüferV (Live-Check gkv-spitzenverband.de, dkgev.de).
+- DKR (Deutsche Kodierrichtlinien) jeweils aktuelle Fassung.
+- BSG, staend. Rspr. zu Prüfverfahren, Aufwandspauschale, Strukturpruefung.
+- InEK G-DRG-Katalog (Live-Check g-drg.de).
 
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
 
+- § 301 SGB V
+- §§ 275-275d SGB V (MDK/MD)
+- MD-Reform
 - § 275 SGB V
 - § 275c SGB V
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
 ---
 
-## Skill: `compliance-system-klinik-einkauf-forschung-spenden`
+## Skill: `triage-notaufnahme-vergaberecht-krankenhaus`
 
-_Compliance-System Klinik Einkauf Forschung Spenden: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR im Krankenhausrecht._
+_Wenn es um Triage Notaufnahme Überlastung Dokumentation in Krankenhausrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Compliance-System Klinik Einkauf Forschung Spenden
+# Triage Notaufnahme Überlastung Dokumentation
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Arbeitsweg
 
@@ -300,25 +650,335 @@ _Compliance-System Klinik Einkauf Forschung Spenden: prüft die einschlägigen V
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Compliance-System Klinik Einkauf Forschung Spenden
+## Fachkern: Triage Notaufnahme Überlastung Dokumentation
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Worum geht es konkret
+Notaufnahmen müssen Patienten anhand validierter Triagesysteme (Manchester Triage System MTS, Emergency Severity Index ESI) priorisieren. Bei Überlastung und Knappheit (Intensivbetten, Beatmungsgeraete) bestehen ethisch-rechtliche Vorgaben (BVerfG-Beschluss zur Triage 2021/2022; § 5c IfSG nach Pandemienovelle).
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Wann dieses Modul hilft / Kaltstart-Fragen
+- Welche Triage-Lage (Routine, Massenanfall, Ressourcenknappheit)?
+- Welches Triagesystem ist eingefuehrt (MTS, ESI, andere)?
+- Liegen Dokumentationsstandards, Schulungsnachweise vor?
+- Gab es einen konkreten Vorfall (Triagefehler, Behandlungsverzoegerung)?
+- Drohen Haftungsrisiken, Aufsicht oder Patientenbeschwerde?
+
+## Rechtlicher Rahmen
+- **BGB §§ 630a ff.** Behandlungspflicht, Aufnahme-/Überweisungspflicht in Notlage.
+- **GG Art. 3 Abs. 3 S. 2** Benachteiligungsverbot wegen Behinderung — BVerfG 16.12.2021 zur Triage (1 BvR 1541/20).
+- **§ 5c IfSG** Triagegrundsaetze (Pandemienovelle 2022).
+- **DIVI- und DGINA-Empfehlungen** zu Triagesystemen und Krisenversorgung.
+- **Notaufnahmevergaben G-BA** Stufenkonzept und Strukturmerkmale.
+- **MD-Strukturpruefung** und MBO-Aerzte.
+
+## / Schritt für Schritt
+1. **Triagesystem dokumentieren:** Welches System, wer triagiert (Notfallpflege, Aerztlich), Schulungsnachweis.
+2. **Dokumentation jeder Triage:** Eingangstrias mit Datum/Uhrzeit, Kategorie, Vitalparameter, Begruendung.
+3. **Re-Triage:** Bei Verzoegerung erneute Bewertung; Verlauf dokumentieren.
+4. **Sekundaer-Triage:** Bei knappen Ressourcen (Intensivbett, Beatmung) Entscheidung anhand § 5c IfSG: Erfolgsaussicht im Einzelfall, kein Diskriminierungskriterium.
+5. **Überlastung melden:** Innerbehoerdlich, ggf. Leitstelle Rettungsdienst (Abmeldung Aufnahmestatus).
+6. **Vorfall-/Haftungspruefung:** Fehlerquellen, dokumentierte Begruendung, Nachschulung.
+
+## Trade-off-Matrix
+
+| Lage | Triagesystem | Risiko |
+|---|---|---|
+| Routinenotaufnahme | MTS/ESI | wenig |
+| Massenanfall MANV | MTS-MCI / SIEVE-START | hohe Anforderung Doku |
+| Pandemielage knapper Intensivbetten | § 5c IfSG (Erfolgsaussicht) | verfassungsrechtl. Sensibilitaet |
+| Überlastung dauerhaft | Strukturkritik, Aufsichtsdialog | Strukturpruefung droht |
+
+## Praxistipps
+- BVerfG-Beschluss (1 BvR 1541/20) hat Gesetzgeber zu Schutzregeln verpflichtet — § 5c IfSG ist die Antwort.
+- Triagesystem zertifiziert anwenden (z. B. MTS-Lizenz, ESI-Schulung), Schulungsnachweis aufbewahren.
+- Ex-post-Triage (Behandlungsabbruch zugunsten anderer) ist verfassungsrechtlich verboten (§ 5c Abs. 2 IfSG).
+- Re-Triage bei langer Wartezeit zwingend — Verlaufsdokumentation.
+- Abmeldung Aufnahmestatus an Rettungsleitstelle ist klare Eskalationsmassnahme bei Überlastung.
+
+## Mustertexte
+**Triage-Dokumentation (Routine):**
+> Eingangsdatum/-zeit: …, Patient: …, Triage-System: MTS, Kategorie: rot/orange/gelb/gruen/blau, Vitalparameter (RR, HF, AF, SpO2, Schmerzen NRS): …, Triagierende Person (Quali, Schulung): …, Nachsicht/Re-Triage: ja/nein.
+
+**Vorfallmemo Triagefehler:**
+> Vorfall vom [Datum], Patient [ID], Kategorie [vergeben], tatsaechliche Schwere: …, Folge: …, Ursachenanalyse: …, Maßnahmen: Schulung, Audit, Eskalationspfad.
+
+## Typische Fehler
+- Triage durch ungeschultes Personal.
+- Re-Triage fehlt bei langen Wartezeiten.
+- Dokumentation unvollstaendig — Beweisnot bei Haftung.
+- § 5c IfSG-Vorgaben nicht in SOP integriert (Diskriminierungsverbot).
+- Aufnahmestatus nicht abgemeldet trotz Überlastung.
+
+## Quellen Stand 06/2026
+- BVerfG 16.12.2021, 1 BvR 1541/20.
+- § 5c IfSG.
+- DIVI-/DGINA-Triage-Empfehlungen (Live-Check divi.de, dgina.de).
+- G-BA Notfallstufen-RL (Live-Check g-ba.de).
+- BGH, staend. Rspr. zu Aufnahmepflicht und Behandlungsverzoegerung.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- GWB §§ 97 ff.
+
+---
+
+## Skill: `investitionsfoerderung-einzelfoerderung`
+
+_Wenn es um Investitionsfoerderung Einzelfoerderung Pauschalfoerderung in Krankenhausrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Investitionsfoerderung Einzelfoerderung Pauschalfoerderung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Investitionsfoerderung Einzelfoerderung Pauschalfoerderung
+- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
+- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Worum geht es konkret
+Die duale Krankenhausfinanzierung weist die **Investitionskosten** den Ländern zu (§ 9 KHG). Es bestehen zwei Foerderwege: **Einzelfoerderung** für große Vorhaben (Bau, Generalsanierung) und **Pauschalfoerderung** für wiederkehrende Investitionen (Geraete, kleinere Maßnahmen). Daneben Transformationsfonds (KHVVG) und KHZG-Digitalisierungsmittel.
+
+## Wann dieses Modul hilft / Kaltstart-Fragen
+- Welches Land foerdert, welches Landeskrankenhausgesetz gilt?
+- Geht es um Neu-/Umbau, Geraete, IT oder Transformationsfondsantrag?
+- Liegt Foerderbescheid (positiv/negativ) vor, drohen Frist oder Rueckforderung?
+- Wie hoch ist Kofinanzierungsanteil des Traegers?
+- Sind Vergabe- und Bauplanungsrecht parallel beruehrt?
+
+## Rechtlicher Rahmen
+- **KHG § 9** Investitionsfoerderung: Einzel-, Pauschal-, Investitionspauschale.
+- **Landeskrankenhausgesetze** konkretisieren Foerderverfahren (z. B. § 18 KHGG NRW, BayKrG, GKKG BW).
+- **KHZG** (Krankenhauszukunftsgesetz): Bundes-/Landeskofinanzierung Digitalisierung.
+- **KHVVG-Transformationsfonds** 50 Mrd. EUR über 10 Jahre (Bund/Land 50:50, GKV-Anteil).
+- **Subventionsrecht**, Vergaberecht (GWB, VgV, UVgO), Beihilfenrecht EU.
+- **VwVfG §§ 48, 49** Aufhebung/Rueckforderung Foerderbescheid.
+
+## / Schritt für Schritt
+1. **Foerdertyp identifizieren:** Einzel, Pauschal, KHZG, Transformationsfonds.
+2. **Foerderfaehigkeit prüfen:** Plankrankenhausstatus, Bedarfsbegruendung, Wirtschaftlichkeit.
+3. **Bauplanung prüfen:** Baugenehmigung, ggf. Planfeststellung (Bauordnungs-/Bauplanungsrecht).
+4. **Antrag stellen:** Landesformular, Anlagen (Kostenberechnung, Bedarfsplan, Wirtschaftlichkeitsuntersuchung).
+5. **Bescheid prüfen:** Nebenbestimmungen § 36 VwVfG, Auflagen, Befristungen.
+6. **Verwendungsnachweis fuehren:** Frist meist 6-12 Monate nach Maßnahmenende.
+7. **Rueckforderung abwehren** ( §§ 48, 49 VwVfG): Anhörung, Vertrauensschutz, Ermessen.
+
+## Trade-off-Matrix
+
+| Foerderweg | Vorteil | Nachteil |
+|---|---|---|
+| Einzelfoerderung | hoher Foerderbetrag | langes Verfahren, Bedarfsbegruendung |
+| Pauschalfoerderung | schnell, formlos | begrenzt der Höhe nach |
+| KHZG | Digitalisierungsschub | Fristen, technische Reifekriterien |
+| Transformationsfonds | große Volumina | Strukturveraenderung erforderlich, Bund-Land-Steuerung |
+
+## Praxistipps
+- Foerderbescheid ist Verwaltungsakt mit Nebenbestimmungen; Rechtsbehelfsfrist 1 Monat.
+- Vertrauensschutz § 48 Abs. 2 VwVfG steht Rueckforderung entgegen, soweit Bewilligungsempfaenger nicht boesglaeubig war.
+- Vergaberechtsverstoesse fuehren regelmaeßig zu Foerderkorrekturen (10-25 %).
+- Beihilfenrechtliche Prüfung bei kommunalen Krankenhaeusern (Altmark-Trans, DAWI).
+- KHZG-Mittel waren bis 2024 abgerufen werden; Verlaengerungen prüfen.
+
+## Mustertexte
+**Foerderantrag Einzelmassnahme:**
+> Wir beantragen die Einzelfoerderung nach § 9 KHG i. V. m. § … LKHG für das Vorhaben [Name]. Kostenberechnung: … EUR. Bedarfsbegruendung: … Wirtschaftlichkeitsuntersuchung: … Anlagen: Baubeschreibung, Statik, Kostenvoranschlaege.
+
+**Verteidigungsschreiben gegen Rueckforderung:**
+> Gegen die beabsichtigte Rueckforderung tragen wir vor: 1. Vertrauensschutz nach § 48 Abs. 2 VwVfG (keine Bekanntmachung der Fehleinschaetzung). 2. Ermessensfehler … 3. Verwendungsnachweise vollstaendig erbracht. Beweismittel: …
+
+## Typische Fehler
+- Foerderbescheid ohne Nebenbestimmungen prüfen — Pflichten uebersehen.
+- Vergaberecht uebersehen (GWB/VgV); Verstoss fuehrt zu Korrektur.
+- Transformationsfondsantrag ohne Strukturveraenderungskonzept — Antrag nicht foerderfaehig.
+- KHZG-Frist verpasst, keine Verlaengerung beantragt.
+
+## Quellen Stand 06/2026
+- KHG § 9 i. d. F. KHVVG.
+- Landeskrankenhausgesetze 16 Länder (Live-Check Landesministerien).
+- KHZG (Live-Check BMG, BAS).
+- KHVVG Transformationsfonds (Live-Check BMG).
+- BVerwG, staend. Rspr. zur Investitionsfoerderung; BSG zum Versorgungsauftrag.
+- EU-Beihilfenrecht: Altmark-Trans (EuGH C-280/00), Freistellung DAWI.
+
+---
+
+## Skill: `klage-klinikakten-bescheide-klinikverbund`
+
+_Wenn es um Klage gegen Budgetbescheid oder Schiedsstellenentscheidung in Krankenhausrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Klage gegen Budgetbescheid oder Schiedsstellenentscheidung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Klage gegen Budgetbescheid oder Schiedsstellenentscheidung
+- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
+- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Worum geht es konkret
+Budget-/Pflegesatzbescheide und Schiedsstellenentscheidungen können vor dem Sozialgericht (SGB-V-Bezug) oder Verwaltungsgericht (KHG-Bezug) angefochten werden. Die Rechtswegabgrenzung haengt vom Streitgegenstand ab. Klagearten und Fristen sind unterschiedlich.
+
+## Wann dieses Modul hilft / Kaltstart-Fragen
+- Liegt Budgetbescheid (Landesplanungsbehoerde) oder Schiedsstellenentscheidung (§ 18a KHG) vor?
+- Welcher Streitgegenstand: Erloesbudget, Pflegesatz, Vergütung, Versorgungsauftrag?
+- Ist Frist (1 Monat) eingehalten?
+- Welche Klageart (Anfechtung, Leistung, Feststellung, Verpflichtung)?
+- Eilbeduerftigkeit gegeben (Liquiditaet, Sofortvollzug)?
+
+## Rechtlicher Rahmen
+- **KHG § 18a Abs. 4** Schiedsstellenentscheidung; Klagerecht vor VG/SG.
+- **KHEntgG § 14** Genehmigung Pflegesatz/Budget durch Land.
+- **SGB V § 109** Versorgungsauftrag, Versorgungsvertrag.
+- **VwGO §§ 40, 42, 80, 113** Verwaltungsrechtsweg.
+- **SGG §§ 51, 54, 86b** Sozialgerichtsweg, einstweiliger Rechtsschutz.
+- **BSG-/BVerwG-Abgrenzung** zum Rechtsweg.
+
+## / Schritt für Schritt
+1. **Streitgegenstand klassifizieren:** Verguetungsstreit ↔ Strukturstreit; SGB V ↔ KHG.
+2. **Rechtsweg bestimmen:**
+ - Schiedsstellenentscheidung nach KHG → Verwaltungsgericht (§ 18a Abs. 4 KHG).
+ - Vergütung im Einzelfall (Abrechnungsstreit) → Sozialgericht.
+ - Versorgungsauftrag § 109 SGB V → Sozialgericht.
+3. **Klageart prüfen:** Anfechtung, Feststellung, Leistung, Verpflichtung.
+4. **Frist sichern:** 1 Monat ab Zustellung (§ 70 VwGO/§ 87 SGG).
+5. **Eilbeduerftigkeit prüfen:** § 80 Abs. 5 VwGO / § 86b SGG.
+6. **Begruendung:** Sachverhaltsfeststellung, Ermessen, Verhältnismäßigkeit, Verfahrensfehler, materielle Bewertung.
+
+## Trade-off-Matrix
+
+| Streitgegenstand | Rechtsweg | Klageart | Frist |
+|---|---|---|---|
+| Schiedsstellenentscheidung (Budget) | VG | Anfechtung + Verpflichtung | 1 Monat |
+| Genehmigungsbescheid Land KHEntgG | VG | Anfechtung | 1 Monat |
+| Einzelabrechnung SGB V | SG | Leistungsklage | 4 Jahre (Verjährung) |
+| Versorgungsauftrag § 109 | SG | Feststellung | offen |
+| Plankrankenhaus-Bescheid | VG | Anfechtung/Verpflichtung | 1 Monat |
+
+## Praxistipps
+- Schiedsstellenentscheidung ist VA mit Klagerecht beim VG (§ 18a Abs. 4 KHG); kein Vorverfahren.
+- Bei Mischsachverhalten (Vergütung + Struktur) kann Streit auf beide Gerichtsbarkeiten verteilt sein — Doppelklage prüfen.
+- Einstweiliger Rechtsschutz: § 80 Abs. 5 VwGO bei Sofortvollzug; § 86b SGG bei sozialgerichtlichem Eilfall.
+- Klagebegruendung muss Sachverhaltsfeststellung des Bescheids konkret angreifen — nicht nur Ergebnis.
+- BVerwG/BSG haben staend. Rspr. zur Schiedsstellenkontrolle: nur eingeschraenkte Prüfdichte (Beurteilungsspielraum).
+
+## Mustertexte
+**Klageschrift (Skizze, VG):**
+> An das Verwaltungsgericht [Ort]. Klagepartei: [Krankenhaus]. Beklagte: [Land]. Streitgegenstand: Anfechtung der Schiedsstellenentscheidung vom [Datum]. Klageantrag: 1. Entscheidung aufzuheben. 2. Hilfsweise: Beklagte zu verpflichten, Erloesbudget 2026 unter Beachtung der Rechtsauffassung des Gerichts neu festzusetzen. Begruendung … Anlagen …
+
+**Eilantrag § 80 Abs. 5 VwGO:**
+> Die aufschiebende Wirkung der Anfechtungsklage wird angeordnet/wiederhergestellt. Begruendung: 1. Rechtswidrigkeit summarisch erkennbar. 2. Aussetzungsinteresse: Liquiditaetsfolgen, Versorgungssicherung. 3. Folgen …
+
+## Typische Fehler
+- Rechtsweg falsch (SG statt VG bei Schiedsstellensache).
+- Klagefrist versaeumt — Bestandskraft.
+- Begruendung bleibt im Ergebnis stehen, ohne Sachverhaltsfeststellung anzugreifen.
+- Eilantrag versaeumt — Bescheid wirkt vor Klageentscheidung.
+- Schiedsstellenkontrolle ueberschaetzt (Beurteilungsspielraum begrenzt).
+
+## Quellen Stand 06/2026
+- KHG § 18a Abs. 4.
+- KHEntgG § 14.
+- SGB V § 109.
+- VwGO §§ 40, 42, 80, 113; SGG §§ 51, 54, 86b.
+- BVerwG, staend. Rspr. zur Schiedsstellenkontrolle (Beurteilungsspielraum).
+- BSG, staend. Rspr. zum sozialgerichtlichen Verguetungsstreit.
+
+---
+
+## Skill: `notfallstufen-sicherstellungszuschlaege`
+
+_Wenn es um Notfallstufen und Sicherstellungszuschlaege in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Notfallstufen und Sicherstellungszuschlaege
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Notfallstufen und Sicherstellungszuschlaege
+- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
+- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Worum geht es konkret
+Die G-BA-Regelung zur Notfallversorgung (Notfallstufen-RL) teilt Krankenhaeuser in drei Stufen ein: Basis (Stufe 1), erweiterte (Stufe 2), umfassende (Stufe 3) Notfallversorgung — plus die Sonderform Spezialversorgung. Eingruppierung beeinflusst Verguetungszuschlaege. Parallel ermoeglicht § 17b Abs. 1a KHEntgG Sicherstellungszuschlaege für duenn besiedelte Regionen.
+
+## Wann dieses Modul hilft / Kaltstart-Fragen
+- Welche Notfallstufe hat die Klinik aktuell?
+- Werden Strukturmerkmale (Personal, Geraete, Bereitschaft) durchgaengig erfuellt?
+- Liegt eine Strukturpruefung des MD vor?
+- Ist die Klinik in einer Versorgungslueckenregion (Sicherstellungszuschlag)?
+- Drohen Stufenrueckstufung oder Wegfall Sicherstellungszuschlag?
+
+## Rechtlicher Rahmen
+- **SGB V § 136c Abs. 4** G-BA-Regelung Notfallversorgung.
+- **G-BA Notfallstufen-Richtlinie (Notfallstufen-RL)** als Mass.
+- **KHEntgG § 9 Abs. 1a, § 17b Abs. 1a** Zu-/Abschlaege für Notfallstufen, Sicherstellungszuschlag.
+- **KHVVG** Modifikationen Notfallstufenkonzept (z. B. Level Ii-Kliniken).
+- **Landeskrankenhausgesetze** Konkretisierung Versorgungsbeduerfnis.
+- **MD-Strukturpruefung** zur Verifizierung der Stufenmerkmale.
+
+## / Schritt für Schritt
+1. **Eingruppierung prüfen:** Welche Stufe gilt aktuell, welche soll gehalten/erreicht werden?
+2. **Strukturmerkmale gegenrechnen:** Aerzte, Pflege, Geraete, 24/7-Bereitschaft, intensivmed. Anbindung.
+3. **MD-Bericht auswerten:** Welche Beanstandungen, welche Heilungsmoeglichkeiten?
+4. **Verguetungswirkung modellieren:** Zuschlag-/Abschlagshoehe je Stufe und je Fallpauschale.
+5. **Sicherstellungszuschlag prüfen:** Bedarfsplan, Erreichbarkeitsanalyse, Bevoelkerungsdichte.
+6. **Antrag/Widerspruch:** Stufenerhalt oder -anhebung; Sicherstellungs-Antrag an Land/GKV.
+
+## Trade-off-Matrix
+
+| Lage | Strategie | Effekt |
+|---|---|---|
+| Stufe 1/2 erfuellt, Stufe 3 angestrebt | Strukturen aufbauen | hoeherer Zuschlag, hoehere Kosten |
+| Stufe 2 in Gefahr | gezielte Strukturhaerten | Erhalt der Zuschlaege |
+| Stufenverlust droht | Verlegungs-/Kooperationsmodell | abgemildert Erloesausfall |
+| Sicherstellungslage klar | Antrag stellen | befristete Zuschlaege |
+
+## Praxistipps
+- Notfallstufen-RL des G-BA wird mit KHVVG-Konkretisierung weiterentwickelt — Live-Check g-ba.de.
+- Sicherstellungszuschlag ist befristet und an Bedarfslage geknuepft (z. B. Distanz zu naechstem Versorger).
+- Level Ii-Kliniken (KHVVG) bilden Bruecke ambulant-stationaer; Notfallstufung muss separat gepruegt werden.
+- Stufenverlust wirkt sich oft staerker aus als Mengenrueckgang — Bewertung im Budget zwingend.
+
+## Mustertexte
+**Antrag auf Anhebung Notfallstufe:**
+> Wir beantragen die Eingruppierung in Notfallstufe [2/3] nach G-BA Notfallstufen-RL. Strukturmerkmale: Anlage 1 (Personal 24/7), Anlage 2 (Geraete), Anlage 3 (Intensivanbindung), Anlage 4 (Schlaganfall-/Trauma-Anbindung). Wir bitten um Bestaetigung der Stufeneingruppierung mit Wirkung [Datum].
+
+**Sicherstellungszuschlag-Antrag:**
+> Antrag nach § 17b Abs. 1a KHEntgG. Begruendung: Distanz zum naechsten Versorger [km], Bevoelkerungsdichte [Zahl], saisonale Spitzenlasten, fehlende Alternativen. Anlage: Erreichbarkeitsanalyse Land.
+
+## Typische Fehler
+- Notfallstufe als reines Verguetungsthema lesen; sie ist primaer Strukturqualitaet.
+- Sicherstellungszuschlag mit Notfallstufenzuschlag verwechseln (unterschiedliche Rechtsgrundlagen).
+- Bei Stufenverlust Personaldisposition nicht anpassen — Kosten bleiben, Erloese sinken.
+- Strukturpruefung des MD nicht ernsthaft begleitet; später Widerspruch erschwert.
+
+## Quellen Stand 06/2026
+- SGB V § 136c.
+- G-BA Notfallstufen-RL (Live-Check g-ba.de).
+- KHEntgG §§ 9 Abs. 1a, 17b Abs. 1a.
+- KHVVG-Konkretisierungen 2025/2026 (Live-Check BMG).
+- BSG, staend. Rspr. zu Notfallzuschlaegen und Versorgungsauftrag.
 
 ## Normen & Rechtsprechung
 
@@ -328,300 +988,12 @@ Konkret zu prüfen:
 - §§ 107-114 SGB V (Krankenhaus)
 - KHEntgG (Entgeltgesetz)
 - §§ 17a-17d KHG (DRG, Pflege, Investitionen)
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
----
-
-## Skill: `insolvenz-eines-krankenhauses-versorgungssicherung`
-
-_Insolvenz eines Krankenhauses Versorgungssicherung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR im Krankenhausrecht._
-
-# Insolvenz eines Krankenhauses Versorgungssicherung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Insolvenz eines Krankenhauses Versorgungssicherung
-- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
-- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- §§ 1-23 KHG (Krankenhausfinanzierung)
-- §§ 107-114 SGB V (Krankenhaus)
-- KHEntgG (Entgeltgesetz)
-- §§ 17a-17d KHG (DRG, Pflege, Investitionen)
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
----
-
-## Skill: `klinikverbund-fusion-kartell-vergabe-planungsrecht`
-
-_Klinikverbund Fusion Kartell Vergabe Planungsrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR im Krankenhausrecht._
-
-# Klinikverbund Fusion Kartell Vergabe Planungsrecht
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Klinikverbund Fusion Kartell Vergabe Planungsrecht
-- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
-- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- § 35 GWB
-- BKartA
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
----
-
-## Skill: `zuweiserverguetung-antikorruption-299a-299b-stgb`
-
-_Zuweiservergütung Antikorruption §§ 299a 299b StGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR im Krankenhausrecht._
-
-# Zuweiservergütung Antikorruption §§ 299a 299b StGB
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Zuweiservergütung Antikorruption §§ 299a 299b StGB
-- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
-- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- §§ 1-23 KHG (Krankenhausfinanzierung)
-- §§ 107-114 SGB V (Krankenhaus)
-- KHEntgG (Entgeltgesetz)
-- §§ 17a-17d KHG (DRG, Pflege, Investitionen)
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
----
-
-## Skill: `wahlleistungsvereinbarung-chefarzt-zentren`
-
-_Wahlleistungsvereinbarung Chefarzt Leistungskette: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR im Krankenhausrecht._
-
-# Wahlleistungsvereinbarung Chefarzt Leistungskette
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Wahlleistungsvereinbarung Chefarzt Leistungskette
-- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
-- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- §§ 1-23 KHG (Krankenhausfinanzierung)
-- §§ 107-114 SGB V (Krankenhaus)
-- KHEntgG (Entgeltgesetz)
-- §§ 17a-17d KHG (DRG, Pflege, Investitionen)
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
----
-
-## Skill: `kinder-und-jugendmedizin-besondere-versorgung`
-
-_Kinder- und Jugendmedizin besondere Versorgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR im Krankenhausrecht._
-
-# Kinder- und Jugendmedizin besondere Versorgung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Kinder- und Jugendmedizin besondere Versorgung
-- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
-- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- DSGVO Art. 9, 22
-- Art. 6 AI-Act (Hochrisiko)
-- § 630e BGB
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
----
-
-## Skill: `forschung-studien-gewaltschutz`
-
-_Forschung Studien Ethikkommission Datenschutz: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR im Krankenhausrecht._
-
-# Forschung Studien Ethikkommission Datenschutz
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Forschung Studien Ethikkommission Datenschutz
-- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
-- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- §§ 1-23 KHG (Krankenhausfinanzierung)
-- §§ 107-114 SGB V (Krankenhaus)
-- KHEntgG (Entgeltgesetz)
-- §§ 17a-17d KHG (DRG, Pflege, Investitionen)
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

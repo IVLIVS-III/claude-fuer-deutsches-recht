@@ -1,34 +1,34 @@
-# Megaprompt: erbbaurecht-praxis
+# Vollprüfung: erbbaurecht-praxis
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 50 Skills des Plugins `erbbaurecht-praxis`.
+Dieser Vollprüfung enthaelt top-15 von 50 Skills des Plugins `erbbaurecht-praxis`.
 
 ## Inhaltsverzeichnis
 
-1. **erbbauzinsrang-finanzierungsbank-erbbaurecht** — Prüft, wann der Rang der Erbbauzinsreallast die Finanzierung entwertet, wie Rangrücktritt oder Stillhalteabrede aussehen…
-2. **ablauf-laufzeitende-erbbaurecht-aktenstruktur** — Prüft die letzten zehn Jahre eines Erbbaurechts: Verlängerung, Neubestellung, Entschädigung, Rückbau, Finanzierungsausla…
-3. **erbbaurecht-untererbbaurecht-und-weitergabe** — Prüft, ob und wie ein Untererbbaurecht, eine Betreiberüberlassung oder langfristige Untervermietung zulässig ist und wel…
-4. **erbbaurecht-notar-und-grundbuchkosten** — Ordnet Kosten bei Bestellung, Änderung, Verlängerung, Übertragung, Belastung, Löschung, Heimfall und Zwangsversteigerung…
-5. **verjaehrung-verwirkung-vorlage** — Prüft, ob lange geduldete Nutzungen, verspätete Zinsforderungen oder alte Pflichtverletzungen noch durchsetzbar sind und…
-6. **change-control-dingliche-vorkaufsrechte** — Prüft, ob Anteilsübertragung, Verschmelzung, Formwechsel oder Kontrollwechsel beim Erbbauberechtigten Zustimmungspflicht…
-7. **nutzungszweckwechsel-wohnen-rangruecktritt** — Prüft Nutzungszweck, baurechtliche und vertragliche Grenzen, Zustimmungserfordernisse, Erbbauzinsanpassung und Heimfallr…
-8. **instandhaltung-versicherung-investoren-q** — Prüft Gebäudeunterhaltung, Verkehrssicherung, Versicherung, Nachweispflichten, Brandschutz, Betreiberpflichten und Sankt…
-9. **sicherheiten-buergschaft-teilerbbaurecht** — Prüft Bürgschaft, Kaution, Rückbausicherheit, Lastschrift, Patronat, Step-in-Recht und Berichtspflichten als mildere Mit…
-10. **erbbaurecht-teilerbbaurecht-und-aufteilung** — Prüft Aufteilung, Wohnungserbbaurecht, Teilungserklärung, Sondernutzungsrechte, Zustimmung, Grundbuchblätter und Finanzi…
-11. **erbbaurechtsvertrag-pflichtinhalt** — Prüft Grundstück, Bauwerk, Laufzeit, Nutzung, Erbbauzins, Heimfall, Zustimmung, Versicherung, Instandhaltung und Entschä…
-12. **kaltstart-routing** — Führt durch Grundstück, Erbbauberechtigte, Eigentümer, Laufzeit, Bauwerk, Erbbauzins, Heimfall, Finanzierung, Zustimmung…
-13. **heimfall-gruende-indexklausel-inflation** — Prüft Vertragsgrund, Verzug, Pflichtverletzung, Fristen, Verhältnismäßigkeit, Entschädigung und Grundbuchvollzug im Erbb…
-14. **erbbaugrundbuch-lesen** — Führt durch Erbbaugrundbuch, Grundstücksgrundbuch, Rangvermerke, Belastungen und korrespondierende Eintragungen im Erbba…
-15. **steuern-grunderwerbsteuer-entschaedigung** — Markiert GrESt-, Ertragsteuer-, USt- und Bewertungsfragen als Schnittstellen mit steuerlicher Prüfungspflicht im Erbbaur…
+1. **nutzungszweckwechsel-wohnen-rangruecktritt** — Wenn es um Nutzungszweckwechsel Wohnen/Gewerbe/Sozialimmobilie in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Bew…
+2. **instandhaltung-versicherung-investoren-q** — Wenn es um Instandhaltung, Versicherung und Betriebspflichten in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Bewe…
+3. **change-control-dingliche-vorkaufsrechte** — Wenn es um Change of Control beim Erbbauberechtigten in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, G…
+4. **erbbaurecht-notar-und-grundbuchkosten** — Wenn es um Notar-, Grundbuch- und Transaktionskosten in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, G…
+5. **sicherheiten-buergschaft-teilerbbaurecht** — Wenn es um Sicherheiten für Erbbauzins und Rückbau in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Geg…
+6. **erbbauzinsrang-finanzierungsbank-erbbaurecht** — Wenn es um Erbbauzinsrang vor Finanzierungsbank in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegena…
+7. **erbbaurecht-teilerbbaurecht-und-aufteilung** — Wenn es um Teil-Erbbaurecht und Aufteilung in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargume…
+8. **erbbaurechtsvertrag-pflichtinhalt** — Wenn es um Erbbaurechtsvertrag entwerfen in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargument…
+9. **kaltstart-routing** — Wenn es um Kaltstart Erbbaurecht in Erbbaurecht Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näch…
+10. **rechtsprechung-live-erbbaurecht-reminder** — Wenn es um Rechtsprechung live verifizieren in Erbbaurecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforde…
+11. **erbbaurecht-mandantenbrief** — Wenn es um Mandantenbrief Erbbaurecht in Erbbaurecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, …
+12. **gemeinde-kirche-stiftung-als-eigentuemer** — Wenn es um Gemeinde/Kirche/Stiftung als Grundstückseigentümer in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigke…
+13. **erbbaurecht-aktenstruktur** — Wenn es um Erbbauakte strukturieren in Erbbaurecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; …
+14. **erbbaurecht-vorlage-zustimmungsantrag** — Wenn es um Zustimmungsantrag in Erbbaurecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis un…
+15. **erbbauzinsanpassung-paragraph-9a** — Wenn es um Erbbauzinsanpassung in Erbbaurecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefe…
 
 ---
 
-## Skill: `erbbauzinsrang-finanzierungsbank-erbbaurecht`
+## Skill: `nutzungszweckwechsel-wohnen-rangruecktritt`
 
-_Prüft, wann der Rang der Erbbauzinsreallast die Finanzierung entwertet, wie Rangrücktritt oder Stillhalteabrede aussehen können und welche Risiken Eigentümer, Bank und Erbbauberechtigter jeweils tragen im Erbbaurecht Praxis._
+_Wenn es um Nutzungszweckwechsel Wohnen/Gewerbe/Sozialimmobilie in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Erbbauzinsrang vor Finanzierungsbank
+# Nutzungszweckwechsel Wohnen/Gewerbe/Sozialimmobilie
 
 ## Normenanker
 
@@ -57,200 +57,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Fachlicher Zuschnitt
 
-Prüft, wann der Rang der Erbbauzinsreallast die Finanzierung entwertet, wie Rangrücktritt oder Stillhalteabrede aussehen können und welche Risiken Eigentümer, Bank und Erbbauberechtigter jeweils tragen.
+Prüft Nutzungszweck, baurechtliche und vertragliche Grenzen, Zustimmungserfordernisse, Erbbauzinsanpassung und Heimfallrisiko bei einem Zweckwechsel.
 
 ## Spezialfokus
 
-Ziel ist eine bankfähige, aber eigentümerverträgliche Ranglösung mit klarer Ausfall- und Verwertungslogik.
-
-## Arbeitsmodus
-
-1. **Dokumente sortieren:** Auszug, Urkunde, Bewilligung, Antrag, Beschluss, Vollmacht, Gerichtsschreiben, Bankauflage und Frist erfassen.
-2. **Normanker setzen:** Nur Normen verwenden, die für den konkreten Schritt wirklich gebraucht werden.
-3. **Hindernis qualifizieren:** behebbar, streitig, rangrelevant, zustimmungsbedürftig, genehmigungsbedürftig oder nur erläuterungsbedürftig.
-4. **Arbeitsprodukt liefern:** Matrix, Nachreichung, Mandantenbrief, Amtsantwort, Beschwerdegerüst oder Vertragsklausel.
-5. **Belegdisziplin:** Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; sonst als zu verifizieren kennzeichnen.
-
-## Ausgabe
-
-- Kurzbefund
-- Prüf- und Nachweismatrix
-- offene entscheidende Fragen
-- konkreter Entwurf oder Checkliste
-- Risiko, das in der Praxis leicht übersehen wird
-
----
-
-## Skill: `ablauf-laufzeitende-erbbaurecht-aktenstruktur`
-
-_Prüft die letzten zehn Jahre eines Erbbaurechts: Verlängerung, Neubestellung, Entschädigung, Rückbau, Finanzierungsauslauf, Mieter-/Betreiberkommunikation und Verhandlungsstrategie im Erbbaurecht Praxis._
-
-# Laufzeitende und Exitplan
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 Abs. 1 ErbbauRG` — Begriff und Inhalt des Erbbaurechts.
-- `§ 2 ErbbauRG` — vertragsmäßiger Inhalt.
-- `§ 5 ErbbauRG` — Zustimmungserfordernisse.
-- `§ 9a ErbbauRG` — Erbbauzinsanpassung.
-- `§ 10 ErbbauRG` — Rang und Belastung.
-- `§ 11 ErbbauRG` — Anwendbarkeit grundstuecksrechtlicher Vorschriften.
-- `§ 12 ErbbauRG` — Eigentum am Bauwerk.
-- `§ 873 Abs. 1 BGB` — dinglicher Vollzug.
-- `§ 13 Abs. 1 GBO` — Grundbuchantrag.
-- `§ 29 Abs. 1 GBO` — Formnachweis.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Zuschnitt
-
-Prüft die letzten zehn Jahre eines Erbbaurechts: Verlängerung, Neubestellung, Entschädigung, Rückbau, Finanzierungsauslauf, Mieter-/Betreiberkommunikation und Verhandlungsstrategie.
-
-## Spezialfokus
-
-Der Skill macht aus dem Laufzeitende kein überraschendes Desaster, sondern eine geordnete Entscheidungsstrecke.
-
-## Arbeitsmodus
-
-1. **Dokumente sortieren:** Auszug, Urkunde, Bewilligung, Antrag, Beschluss, Vollmacht, Gerichtsschreiben, Bankauflage und Frist erfassen.
-2. **Normanker setzen:** Nur Normen verwenden, die für den konkreten Schritt wirklich gebraucht werden.
-3. **Hindernis qualifizieren:** behebbar, streitig, rangrelevant, zustimmungsbedürftig, genehmigungsbedürftig oder nur erläuterungsbedürftig.
-4. **Arbeitsprodukt liefern:** Matrix, Nachreichung, Mandantenbrief, Amtsantwort, Beschwerdegerüst oder Vertragsklausel.
-5. **Belegdisziplin:** Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; sonst als zu verifizieren kennzeichnen.
-
-## Ausgabe
-
-- Kurzbefund
-- Prüf- und Nachweismatrix
-- offene entscheidende Fragen
-- konkreter Entwurf oder Checkliste
-- Risiko, das in der Praxis leicht übersehen wird
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 1 ErbbauRG
-- § 2 ErbbauRG
-- § 5 ErbbauRG
-- § 9a ErbbauRG
-- § 10 ErbbauRG
-- § 11 ErbbauRG
-- § 12 ErbbauRG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
----
-
-## Skill: `erbbaurecht-untererbbaurecht-und-weitergabe`
-
-_Prüft, ob und wie ein Untererbbaurecht, eine Betreiberüberlassung oder langfristige Untervermietung zulässig ist und welche Zustimmung, Rang- und Heimfallfolgen entstehen im Erbbaurecht Praxis._
-
-# Untererbbaurecht und Weitergabe
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 Abs. 1 ErbbauRG` — Begriff und Inhalt des Erbbaurechts.
-- `§ 2 ErbbauRG` — vertragsmäßiger Inhalt.
-- `§ 5 ErbbauRG` — Zustimmungserfordernisse.
-- `§ 9a ErbbauRG` — Erbbauzinsanpassung.
-- `§ 10 ErbbauRG` — Rang und Belastung.
-- `§ 11 ErbbauRG` — Anwendbarkeit grundstuecksrechtlicher Vorschriften.
-- `§ 12 ErbbauRG` — Eigentum am Bauwerk.
-- `§ 873 Abs. 1 BGB` — dinglicher Vollzug.
-- `§ 13 Abs. 1 GBO` — Grundbuchantrag.
-- `§ 29 Abs. 1 GBO` — Formnachweis.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Zuschnitt
-
-Prüft, ob und wie ein Untererbbaurecht, eine Betreiberüberlassung oder langfristige Untervermietung zulässig ist und welche Zustimmung, Rang- und Heimfallfolgen entstehen.
-
-## Spezialfokus
-
-Der Skill verhindert, dass schuldrechtliche Betreiberverträge dingliche Zustimmungs- und Heimfallrisiken verdecken.
-
-## Arbeitsmodus
-
-1. **Dokumente sortieren:** Auszug, Urkunde, Bewilligung, Antrag, Beschluss, Vollmacht, Gerichtsschreiben, Bankauflage und Frist erfassen.
-2. **Normanker setzen:** Nur Normen verwenden, die für den konkreten Schritt wirklich gebraucht werden.
-3. **Hindernis qualifizieren:** behebbar, streitig, rangrelevant, zustimmungsbedürftig, genehmigungsbedürftig oder nur erläuterungsbedürftig.
-4. **Arbeitsprodukt liefern:** Matrix, Nachreichung, Mandantenbrief, Amtsantwort, Beschwerdegerüst oder Vertragsklausel.
-5. **Belegdisziplin:** Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; sonst als zu verifizieren kennzeichnen.
-
-## Ausgabe
-
-- Kurzbefund
-- Prüf- und Nachweismatrix
-- offene entscheidende Fragen
-- konkreter Entwurf oder Checkliste
-- Risiko, das in der Praxis leicht übersehen wird
-
----
-
-## Skill: `erbbaurecht-notar-und-grundbuchkosten`
-
-_Ordnet Kosten bei Bestellung, Änderung, Verlängerung, Übertragung, Belastung, Löschung, Heimfall und Zwangsversteigerung und erklärt sie mandantenverständlich im Erbbaurecht Praxis._
-
-# Notar-, Grundbuch- und Transaktionskosten
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 Abs. 1 ErbbauRG` — Begriff und Inhalt des Erbbaurechts.
-- `§ 2 ErbbauRG` — vertragsmäßiger Inhalt.
-- `§ 5 ErbbauRG` — Zustimmungserfordernisse.
-- `§ 9a ErbbauRG` — Erbbauzinsanpassung.
-- `§ 10 ErbbauRG` — Rang und Belastung.
-- `§ 11 ErbbauRG` — Anwendbarkeit grundstuecksrechtlicher Vorschriften.
-- `§ 12 ErbbauRG` — Eigentum am Bauwerk.
-- `§ 873 Abs. 1 BGB` — dinglicher Vollzug.
-- `§ 13 Abs. 1 GBO` — Grundbuchantrag.
-- `§ 29 Abs. 1 GBO` — Formnachweis.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Zuschnitt
-
-Ordnet Kosten bei Bestellung, Änderung, Verlängerung, Übertragung, Belastung, Löschung, Heimfall und Zwangsversteigerung und erklärt sie mandantenverständlich.
-
-## Spezialfokus
-
-Der Skill ist kein Gebührenrechner, baut aber Kostenereignisse und Zuständigkeiten sauber in die Aktenplanung ein.
+Typisch: Kita wird Co-Working, Gewerbe wird Wohnen, Verein wird Betreiber-GmbH. Der Skill fragt die Folgepflichten ab.
 
 ## Arbeitsmodus
 
@@ -269,16 +80,20 @@ Der Skill ist kein Gebührenrechner, baut aber Kostenereignisse und Zuständigke
 - Risiko, das in der Praxis leicht übersehen wird
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
-## Skill: `verjaehrung-verwirkung-vorlage`
+## Skill: `instandhaltung-versicherung-investoren-q`
 
-_Prüft, ob lange geduldete Nutzungen, verspätete Zinsforderungen oder alte Pflichtverletzungen noch durchsetzbar sind und welche Beweislage gebraucht wird im Erbbaurecht Praxis._
+_Wenn es um Instandhaltung, Versicherung und Betriebspflichten in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Verjährung, Verwirkung und Duldung
+# Instandhaltung, Versicherung und Betriebspflichten
 
 ## Normenanker
 
@@ -307,11 +122,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Fachlicher Zuschnitt
 
-Prüft, ob lange geduldete Nutzungen, verspätete Zinsforderungen oder alte Pflichtverletzungen noch durchsetzbar sind und welche Beweislage gebraucht wird.
+Prüft Gebäudeunterhaltung, Verkehrssicherung, Versicherung, Nachweispflichten, Brandschutz, Betreiberpflichten und Sanktionen bei Pflichtverstößen.
 
 ## Spezialfokus
 
-Der Skill trennt laufende Leistung, Einmalverstoß, Dauerzustand, Mahnung und stillschweigende Vertragsänderung.
+Der Skill baut ein Betreiberpflichten-Dashboard mit Fristen, Nachweisen und Eskalationsschwellen.
 
 ## Arbeitsmodus
 
@@ -328,16 +143,12 @@ Der Skill trennt laufende Leistung, Einmalverstoß, Dauerzustand, Mahnung und st
 - offene entscheidende Fragen
 - konkreter Entwurf oder Checkliste
 - Risiko, das in der Praxis leicht übersehen wird
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
 ## Skill: `change-control-dingliche-vorkaufsrechte`
 
-_Prüft, ob Anteilsübertragung, Verschmelzung, Formwechsel oder Kontrollwechsel beim Erbbauberechtigten Zustimmungspflichten oder Heimfallrechte auslösen im Erbbaurecht Praxis._
+_Wenn es um Change of Control beim Erbbauberechtigten in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Change of Control beim Erbbauberechtigten
 
@@ -405,16 +216,15 @@ Gerade Share Deals werden schnell als „nicht Grundstück“ missverstanden; de
 ### Leitentscheidungen
 
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
 ---
 
-## Skill: `nutzungszweckwechsel-wohnen-rangruecktritt`
+## Skill: `erbbaurecht-notar-und-grundbuchkosten`
 
-_Prüft Nutzungszweck, baurechtliche und vertragliche Grenzen, Zustimmungserfordernisse, Erbbauzinsanpassung und Heimfallrisiko bei einem Zweckwechsel im Erbbaurecht Praxis._
+_Wenn es um Notar-, Grundbuch- und Transaktionskosten in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Nutzungszweckwechsel Wohnen/Gewerbe/Sozialimmobilie
+# Notar-, Grundbuch- und Transaktionskosten
 
 ## Normenanker
 
@@ -443,11 +253,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Fachlicher Zuschnitt
 
-Prüft Nutzungszweck, baurechtliche und vertragliche Grenzen, Zustimmungserfordernisse, Erbbauzinsanpassung und Heimfallrisiko bei einem Zweckwechsel.
+Ordnet Kosten bei Bestellung, Änderung, Verlängerung, Übertragung, Belastung, Löschung, Heimfall und Zwangsversteigerung und erklärt sie mandantenverständlich.
 
 ## Spezialfokus
 
-Typisch: Kita wird Co-Working, Gewerbe wird Wohnen, Verein wird Betreiber-GmbH. Der Skill fragt die Folgepflichten ab.
+Der Skill ist kein Gebührenrechner, baut aber Kostenereignisse und Zuständigkeiten sauber in die Aktenplanung ein.
 
 ## Arbeitsmodus
 
@@ -466,71 +276,18 @@ Typisch: Kita wird Co-Working, Gewerbe wird Wohnen, Verein wird Betreiber-GmbH. 
 - Risiko, das in der Praxis leicht übersehen wird
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `instandhaltung-versicherung-investoren-q`
-
-_Prüft Gebäudeunterhaltung, Verkehrssicherung, Versicherung, Nachweispflichten, Brandschutz, Betreiberpflichten und Sanktionen bei Pflichtverstößen im Erbbaurecht Praxis._
-
-# Instandhaltung, Versicherung und Betriebspflichten
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 Abs. 1 ErbbauRG` — Begriff und Inhalt des Erbbaurechts.
-- `§ 2 ErbbauRG` — vertragsmäßiger Inhalt.
-- `§ 5 ErbbauRG` — Zustimmungserfordernisse.
-- `§ 9a ErbbauRG` — Erbbauzinsanpassung.
-- `§ 10 ErbbauRG` — Rang und Belastung.
-- `§ 11 ErbbauRG` — Anwendbarkeit grundstuecksrechtlicher Vorschriften.
-- `§ 12 ErbbauRG` — Eigentum am Bauwerk.
-- `§ 873 Abs. 1 BGB` — dinglicher Vollzug.
-- `§ 13 Abs. 1 GBO` — Grundbuchantrag.
-- `§ 29 Abs. 1 GBO` — Formnachweis.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Zuschnitt
-
-Prüft Gebäudeunterhaltung, Verkehrssicherung, Versicherung, Nachweispflichten, Brandschutz, Betreiberpflichten und Sanktionen bei Pflichtverstößen.
-
-## Spezialfokus
-
-Der Skill baut ein Betreiberpflichten-Dashboard mit Fristen, Nachweisen und Eskalationsschwellen.
-
-## Arbeitsmodus
-
-1. **Dokumente sortieren:** Auszug, Urkunde, Bewilligung, Antrag, Beschluss, Vollmacht, Gerichtsschreiben, Bankauflage und Frist erfassen.
-2. **Normanker setzen:** Nur Normen verwenden, die für den konkreten Schritt wirklich gebraucht werden.
-3. **Hindernis qualifizieren:** behebbar, streitig, rangrelevant, zustimmungsbedürftig, genehmigungsbedürftig oder nur erläuterungsbedürftig.
-4. **Arbeitsprodukt liefern:** Matrix, Nachreichung, Mandantenbrief, Amtsantwort, Beschwerdegerüst oder Vertragsklausel.
-5. **Belegdisziplin:** Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; sonst als zu verifizieren kennzeichnen.
-
-## Ausgabe
-
-- Kurzbefund
-- Prüf- und Nachweismatrix
-- offene entscheidende Fragen
-- konkreter Entwurf oder Checkliste
-- Risiko, das in der Praxis leicht übersehen wird
 
 ---
 
 ## Skill: `sicherheiten-buergschaft-teilerbbaurecht`
 
-_Prüft Bürgschaft, Kaution, Rückbausicherheit, Lastschrift, Patronat, Step-in-Recht und Berichtspflichten als mildere Mittel zum Heimfall im Erbbaurecht Praxis._
+_Wenn es um Sicherheiten für Erbbauzins und Rückbau in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Sicherheiten für Erbbauzins und Rückbau
 
@@ -585,9 +342,66 @@ Der Skill erzeugt Vergleichsoptionen, die wirtschaftlich Druck nehmen und trotzd
 
 ---
 
+## Skill: `erbbauzinsrang-finanzierungsbank-erbbaurecht`
+
+_Wenn es um Erbbauzinsrang vor Finanzierungsbank in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Erbbauzinsrang vor Finanzierungsbank
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 Abs. 1 ErbbauRG` — Begriff und Inhalt des Erbbaurechts.
+- `§ 2 ErbbauRG` — vertragsmäßiger Inhalt.
+- `§ 5 ErbbauRG` — Zustimmungserfordernisse.
+- `§ 9a ErbbauRG` — Erbbauzinsanpassung.
+- `§ 10 ErbbauRG` — Rang und Belastung.
+- `§ 11 ErbbauRG` — Anwendbarkeit grundstuecksrechtlicher Vorschriften.
+- `§ 12 ErbbauRG` — Eigentum am Bauwerk.
+- `§ 873 Abs. 1 BGB` — dinglicher Vollzug.
+- `§ 13 Abs. 1 GBO` — Grundbuchantrag.
+- `§ 29 Abs. 1 GBO` — Formnachweis.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Zuschnitt
+
+Prüft, wann der Rang der Erbbauzinsreallast die Finanzierung entwertet, wie Rangrücktritt oder Stillhalteabrede aussehen können und welche Risiken Eigentümer, Bank und Erbbauberechtigter jeweils tragen.
+
+## Spezialfokus
+
+Ziel ist eine bankfähige, aber eigentümerverträgliche Ranglösung mit klarer Ausfall- und Verwertungslogik.
+
+## Arbeitsmodus
+
+1. **Dokumente sortieren:** Auszug, Urkunde, Bewilligung, Antrag, Beschluss, Vollmacht, Gerichtsschreiben, Bankauflage und Frist erfassen.
+2. **Normanker setzen:** Nur Normen verwenden, die für den konkreten Schritt wirklich gebraucht werden.
+3. **Hindernis qualifizieren:** behebbar, streitig, rangrelevant, zustimmungsbedürftig, genehmigungsbedürftig oder nur erläuterungsbedürftig.
+4. **Arbeitsprodukt liefern:** Matrix, Nachreichung, Mandantenbrief, Amtsantwort, Beschwerdegerüst oder Vertragsklausel.
+5. **Belegdisziplin:** Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; sonst als zu verifizieren kennzeichnen.
+
+## Ausgabe
+
+- Kurzbefund
+- Prüf- und Nachweismatrix
+- offene entscheidende Fragen
+- konkreter Entwurf oder Checkliste
+- Risiko, das in der Praxis leicht übersehen wird
+
+---
+
 ## Skill: `erbbaurecht-teilerbbaurecht-und-aufteilung`
 
-_Prüft Aufteilung, Wohnungserbbaurecht, Teilungserklärung, Sondernutzungsrechte, Zustimmung, Grundbuchblätter und Finanzierungsfolgen im Erbbaurecht Praxis._
+_Wenn es um Teil-Erbbaurecht und Aufteilung in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Teil-Erbbaurecht und Aufteilung
 
@@ -644,7 +458,7 @@ Der Skill achtet darauf, dass Grundstücksgrundbuch, Erbbaugrundbuch und WEG-Unt
 
 ## Skill: `erbbaurechtsvertrag-pflichtinhalt`
 
-_Prüft Grundstück, Bauwerk, Laufzeit, Nutzung, Erbbauzins, Heimfall, Zustimmung, Versicherung, Instandhaltung und Entschädigung im Erbbaurecht Praxis._
+_Wenn es um Erbbaurechtsvertrag entwerfen in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Erbbaurechtsvertrag entwerfen
 
@@ -693,23 +507,24 @@ ErbbauRG, GBO, GBV, BGB-Sachenrecht, Finanzierungs- und Vollzugspraxis des Erbba
 
 ## Skill: `kaltstart-routing`
 
-_Führt durch Grundstück, Erbbauberechtigte, Eigentümer, Laufzeit, Bauwerk, Erbbauzins, Heimfall, Finanzierung, Zustimmung und Grundbuchvollzug._
+_Wenn es um Kaltstart Erbbaurecht in Erbbaurecht Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Kaltstart Erbbaurecht
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Routing** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Erbbaurecht Praxis** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Normenanker
 
@@ -746,11 +561,11 @@ ErbbauRG, GBO, GBV, BGB-Sachenrecht, Finanzierungs- und Vollzugspraxis des Erbba
 
 ---
 
-## Skill: `heimfall-gruende-indexklausel-inflation`
+## Skill: `rechtsprechung-live-erbbaurecht-reminder`
 
-_Prüft Vertragsgrund, Verzug, Pflichtverletzung, Fristen, Verhältnismäßigkeit, Entschädigung und Grundbuchvollzug im Erbbaurecht Praxis._
+_Wenn es um Rechtsprechung live verifizieren in Erbbaurecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Heimfall prüfen
+# Rechtsprechung live verifizieren
 
 ## Normenanker
 
@@ -779,7 +594,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Fachlicher Zuschnitt
 
-Prüft Vertragsgrund, Verzug, Pflichtverletzung, Fristen, Verhältnismäßigkeit, Entschädigung und Grundbuchvollzug.
+Sichert, dass Entscheidungen nur mit Gericht, Datum, Aktenzeichen und freiem Link genutzt werden.
 
 ## Quellenrahmen
 
@@ -795,11 +610,11 @@ ErbbauRG, GBO, GBV, BGB-Sachenrecht, Finanzierungs- und Vollzugspraxis des Erbba
 
 ---
 
-## Skill: `erbbaugrundbuch-lesen`
+## Skill: `erbbaurecht-mandantenbrief`
 
-_Führt durch Erbbaugrundbuch, Grundstücksgrundbuch, Rangvermerke, Belastungen und korrespondierende Eintragungen im Erbbaurecht Praxis._
+_Wenn es um Mandantenbrief Erbbaurecht in Erbbaurecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Erbbaugrundbuch lesen
+# Mandantenbrief Erbbaurecht
 
 ## Normenanker
 
@@ -828,7 +643,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Fachlicher Zuschnitt
 
-Führt durch Erbbaugrundbuch, Grundstücksgrundbuch, Rangvermerke, Belastungen und korrespondierende Eintragungen.
+Erklärt Lage, Risiken und nächste Schritte ohne Fachchinesisch und mit Entscheidungsoptionen.
 
 ## Quellenrahmen
 
@@ -844,11 +659,11 @@ ErbbauRG, GBO, GBV, BGB-Sachenrecht, Finanzierungs- und Vollzugspraxis des Erbba
 
 ---
 
-## Skill: `steuern-grunderwerbsteuer-entschaedigung`
+## Skill: `gemeinde-kirche-stiftung-als-eigentuemer`
 
-_Markiert GrESt-, Ertragsteuer-, USt- und Bewertungsfragen als Schnittstellen mit steuerlicher Prüfungspflicht im Erbbaurecht Praxis._
+_Wenn es um Gemeinde/Kirche/Stiftung als Grundstückseigentümer in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Steuerliche Schnittstellen
+# Gemeinde/Kirche/Stiftung als Grundstückseigentümer
 
 ## Normenanker
 
@@ -877,7 +692,154 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Fachlicher Zuschnitt
 
-Markiert GrESt-, Ertragsteuer-, USt- und Bewertungsfragen als Schnittstellen mit steuerlicher Prüfungspflicht.
+Prüft Beschluss, Genehmigung, Gemeinwohlbindung, Vergabe-/Beihilfefragen und Zustimmungspraxis.
+
+## Quellenrahmen
+
+ErbbauRG, GBO, GBV, BGB-Sachenrecht, Finanzierungs- und Vollzugspraxis des Erbbaurechts.
+
+## Arbeitsmodus
+
+1. **Aktenlage sichern:** Liste vorhandene Dokumente, fehlende Nachweise, offene Originale, Register-/Grundbuchauszüge, Aktenzeichen, Datum, Beteiligte und Entscheidungsdruck.
+2. **Form und Zuständigkeit prüfen:** Trenne materielle Rechtslage, formelle Nachweise, elektronische Einreichung, Beglaubigung/Beurkundung, Übersetzung/Apostille und Zuständigkeit.
+3. **Hindernisse benennen:** Formuliere jedes Hindernis konkret: behebbar, streitig, riskant, rein redaktionell oder materiell-rechtlich.
+4. **Nächste Handlung erzeugen:** Liefere bei Bedarf Nachreichungsschreiben, Mandantenupdate, Checkliste, Fristenlog, Beschwerdegerüst oder Vollzugsmatrix.
+5. **Belegdisziplin:** Zitiere Normen nur, wenn sie zum Schritt passen. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; sonst ausdrücklich als zu verifizieren markieren.
+
+---
+
+## Skill: `erbbaurecht-aktenstruktur`
+
+_Wenn es um Erbbauakte strukturieren in Erbbaurecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Erbbauakte strukturieren
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 Abs. 1 ErbbauRG` — Begriff und Inhalt des Erbbaurechts.
+- `§ 2 ErbbauRG` — vertragsmäßiger Inhalt.
+- `§ 5 ErbbauRG` — Zustimmungserfordernisse.
+- `§ 9a ErbbauRG` — Erbbauzinsanpassung.
+- `§ 10 ErbbauRG` — Rang und Belastung.
+- `§ 11 ErbbauRG` — Anwendbarkeit grundstuecksrechtlicher Vorschriften.
+- `§ 12 ErbbauRG` — Eigentum am Bauwerk.
+- `§ 873 Abs. 1 BGB` — dinglicher Vollzug.
+- `§ 13 Abs. 1 GBO` — Grundbuchantrag.
+- `§ 29 Abs. 1 GBO` — Formnachweis.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Zuschnitt
+
+Sortiert Vertrag, Grundbuch, Zins, Zustimmung, Bau, Bank, Kommunikation und Streit chronologisch.
+
+## Quellenrahmen
+
+ErbbauRG, GBO, GBV, BGB-Sachenrecht, Finanzierungs- und Vollzugspraxis des Erbbaurechts.
+
+## Arbeitsmodus
+
+1. **Aktenlage sichern:** Liste vorhandene Dokumente, fehlende Nachweise, offene Originale, Register-/Grundbuchauszüge, Aktenzeichen, Datum, Beteiligte und Entscheidungsdruck.
+2. **Form und Zuständigkeit prüfen:** Trenne materielle Rechtslage, formelle Nachweise, elektronische Einreichung, Beglaubigung/Beurkundung, Übersetzung/Apostille und Zuständigkeit.
+3. **Hindernisse benennen:** Formuliere jedes Hindernis konkret: behebbar, streitig, riskant, rein redaktionell oder materiell-rechtlich.
+4. **Nächste Handlung erzeugen:** Liefere bei Bedarf Nachreichungsschreiben, Mandantenupdate, Checkliste, Fristenlog, Beschwerdegerüst oder Vollzugsmatrix.
+5. **Belegdisziplin:** Zitiere Normen nur, wenn sie zum Schritt passen. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; sonst ausdrücklich als zu verifizieren markieren.
+
+---
+
+## Skill: `erbbaurecht-vorlage-zustimmungsantrag`
+
+_Wenn es um Zustimmungsantrag in Erbbaurecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Zustimmungsantrag
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 Abs. 1 ErbbauRG` — Begriff und Inhalt des Erbbaurechts.
+- `§ 2 ErbbauRG` — vertragsmäßiger Inhalt.
+- `§ 5 ErbbauRG` — Zustimmungserfordernisse.
+- `§ 9a ErbbauRG` — Erbbauzinsanpassung.
+- `§ 10 ErbbauRG` — Rang und Belastung.
+- `§ 11 ErbbauRG` — Anwendbarkeit grundstuecksrechtlicher Vorschriften.
+- `§ 12 ErbbauRG` — Eigentum am Bauwerk.
+- `§ 873 Abs. 1 BGB` — dinglicher Vollzug.
+- `§ 13 Abs. 1 GBO` — Grundbuchantrag.
+- `§ 29 Abs. 1 GBO` — Formnachweis.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Zuschnitt
+
+Entwirft Antrag an Grundstückseigentümer für Veräußerung, Belastung oder bauliche Änderung.
+
+## Quellenrahmen
+
+ErbbauRG, GBO, GBV, BGB-Sachenrecht, Finanzierungs- und Vollzugspraxis des Erbbaurechts.
+
+## Arbeitsmodus
+
+1. **Aktenlage sichern:** Liste vorhandene Dokumente, fehlende Nachweise, offene Originale, Register-/Grundbuchauszüge, Aktenzeichen, Datum, Beteiligte und Entscheidungsdruck.
+2. **Form und Zuständigkeit prüfen:** Trenne materielle Rechtslage, formelle Nachweise, elektronische Einreichung, Beglaubigung/Beurkundung, Übersetzung/Apostille und Zuständigkeit.
+3. **Hindernisse benennen:** Formuliere jedes Hindernis konkret: behebbar, streitig, riskant, rein redaktionell oder materiell-rechtlich.
+4. **Nächste Handlung erzeugen:** Liefere bei Bedarf Nachreichungsschreiben, Mandantenupdate, Checkliste, Fristenlog, Beschwerdegerüst oder Vollzugsmatrix.
+5. **Belegdisziplin:** Zitiere Normen nur, wenn sie zum Schritt passen. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; sonst ausdrücklich als zu verifizieren markieren.
+
+---
+
+## Skill: `erbbauzinsanpassung-paragraph-9a`
+
+_Wenn es um Erbbauzinsanpassung in Erbbaurecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Erbbauzinsanpassung
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 Abs. 1 ErbbauRG` — Begriff und Inhalt des Erbbaurechts.
+- `§ 2 ErbbauRG` — vertragsmäßiger Inhalt.
+- `§ 5 ErbbauRG` — Zustimmungserfordernisse.
+- `§ 9a ErbbauRG` — Erbbauzinsanpassung.
+- `§ 10 ErbbauRG` — Rang und Belastung.
+- `§ 11 ErbbauRG` — Anwendbarkeit grundstuecksrechtlicher Vorschriften.
+- `§ 12 ErbbauRG` — Eigentum am Bauwerk.
+- `§ 873 Abs. 1 BGB` — dinglicher Vollzug.
+- `§ 13 Abs. 1 GBO` — Grundbuchantrag.
+- `§ 29 Abs. 1 GBO` — Formnachweis.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Zuschnitt
+
+Prüft Anpassungsmechanik, Billigkeit, Verbraucher-/Wohnzwecknähe, Index, Streitwert und Dokumentationslogik.
 
 ## Quellenrahmen
 
@@ -895,7 +857,7 @@ ErbbauRG, GBO, GBV, BGB-Sachenrecht, Finanzierungs- und Vollzugspraxis des Erbba
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

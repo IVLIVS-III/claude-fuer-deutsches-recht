@@ -1,48 +1,49 @@
-# Megaprompt: designrecht-geschmacksmusterrecht
+# Vollprüfung: designrecht-geschmacksmusterrecht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 50 Skills des Plugins `designrecht-geschmacksmusterrecht`.
+Dieser Vollprüfung enthaelt top-15 von 50 Skills des Plugins `designrecht-geschmacksmusterrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Designrecht/Geschmacksmusterrecht: klärt Produkt, Wiedergaben, Offenbarung, F…
-2. **schutzgegenstand-design-produkt-erscheinungsform** — Schutzgegenstand im Designrecht präzisieren: Erscheinungsform, Linien, Konturen, Farben, Gestalt, Oberflächenstruktur, V…
-3. **aufgeschobene-bekanntmachung-automotive** — Aufgeschobene Bekanntmachung strategisch prüfen: Geheimhaltung, Launch-Timing, 30-Monats-Fenster, Nachholung, Gebühren u…
-4. **design-und-markenrecht-formmarke** — Designrecht und Markenrecht bei Form, Position, Muster und Produktauftritt abgrenzen: kurzfristiger Designschutz, dauerh…
-5. **design-uwg-designnichtigkeit-dpma** — Designrecht und UWG-Nachahmungsschutz verbinden: wettbewerbliche Eigenart, vermeidbare Herkunftstäuschung, Rufausbeutung…
-6. **sammelanmeldung-locarno-schutzgegenstand** — Sammelanmeldung und Locarno-Klassifikation planen: mehrere Varianten, Produktfamilie, einheitliche Klasse, Kostenstrateg…
-7. **fashion-textilmuster-grenzbeschlagnahme** — Textilmuster, Prints, Schnitte und Accessoires designrechtlich prüfen: Wiederholungsmuster, Saisonware, nicht eingetrage…
-8. **internationale-country-route-design** — Internationale Designstrategie für USA, UK, China, Japan, Schweiz und weitere Märkte vorbereiten: Hague oder national, F…
-9. **offenbarung-neuheitsschonfrist-registerstand** — Offenbarung, Neuheitsschonfrist und Priorität prüfen: Messe, Instagram, Lookbook, Online-Shop, Presse, Prototyp, Pariser…
-10. **rechtekette-entwerfer-arbeitgeber** — Rechtekette vom Entwerfer zum Unternehmen prüfen: freie Designer, Arbeitnehmer, Agentur, Studio, Rechteübertragung, Nutz…
-11. **hager-system-internationale-country** — Internationale Designregistrierung über das WIPO Hague System planen: Designations, Wiedergaben, Priorität, Aufschiebung…
-12. **designrecherche-dpmaregister-euipo-wipo** — Designrecherche in DPMAregister, EUIPO, WIPO und freien Quellen strukturieren: Bildsuche, Produktklasse, Wettbewerber, O…
-13. **designverletzung-gesamteindruck** — Designverletzung anhand des Gesamteindrucks prüfen: angegriffene Ausführungsform, informierter Benutzer, Gestaltungsfrei…
-14. **neuheit-und-eigenart** — Neuheit und Eigenart nach DesignG und EU-Designrecht prüfen: identische Offenbarung, Gesamteindruck, informierter Benutz…
-15. **einstweilige-verfuegung-designrecht** — Einstweilige Verfügung im Designrecht vorbereiten oder abwehren: Dringlichkeit, Registerlage, Verletzungsbilder, Nichtig…
+1. **kaltstart-triage** — Wenn es um Allgemein in designrecht-geschmacksmusterrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden n…
+2. **schutzgegenstand-design-produkt-erscheinungsform** — Wenn es um Schutzgegenstand Design Produkt Erscheinungsform in designrecht-geschmacksmusterrecht geht: ordnet Sachverhal…
+3. **design-patent-urheberrecht** — Wenn es um Design Und Patent Gebrauchsmuster Abgrenzung in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, N…
+4. **design-und-urheberrecht-angewandte-kunst** — Wenn es um Design Und Urheberrecht Angewandte Kunst in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm,…
+5. **verpackungsdesign-und-produktauftritt** — Wenn es um Verpackungsdesign Und Produktauftritt in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Be…
+6. **wiedergabe-ansichten-fotos-linien** — Wenn es um Wiedergabe Ansichten Fotos Linien in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweis…
+7. **designverletzung-gesamteindruck** — Wenn es um Designverletzung Gesamteindruck in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweisla…
+8. **schutzschrift-gegenangriff-ui-icons** — Wenn es um Schutzschrift Und Gegenangriff in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislas…
+9. **aufgeschobene-bekanntmachung-automotive** — Wenn es um Aufgeschobene Bekanntmachung in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast,…
+10. **automotive-design-und-ersatzteile** — Wenn es um Automotive Design Und Ersatzteile in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweis…
+11. **ui-icons-graphical-user-interface** — Wenn es um Ui Icons Graphical User Interface in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweis…
+12. **design-uwg-designnichtigkeit-dpma** — Wenn es um Design Und Uwg Nachahmungsschutz in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweisl…
+13. **reparaturklausel-und-aftermarket** — Wenn es um Reparaturklausel Und Aftermarket in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweisl…
+14. **must-fit-must-match-ersatzteile** — Wenn es um Must Fit Must Match Ersatzteile in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweisla…
+15. **designreform-eu-2024-check** — Wenn es um Designreform Eu 2024 Check in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, G…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting im Designrecht/Geschmacksmusterrecht: klärt Produkt, Wiedergaben, Offenbarung, Fristen, Register, Verletzung, Nichtigkeit, DPMA/EUIPO/WIPO und passende Fachmodule._
+_Wenn es um Allgemein in designrecht-geschmacksmusterrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Allgemein
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Designrecht Geschmacksmusterrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Wann dieser Skill hilft
 
@@ -66,7 +67,7 @@ Kaltstart für jedes Designmandat: Produktbilder, Uploads, Veröffentlichungsdat
 
 ## Skill: `schutzgegenstand-design-produkt-erscheinungsform`
 
-_Schutzgegenstand im Designrecht präzisieren: Erscheinungsform, Linien, Konturen, Farben, Gestalt, Oberflächenstruktur, Verzierung, Produktbegriff und Abgrenzung zu technischer Funktion im Designrecht Geschmacksmusterrecht._
+_Wenn es um Schutzgegenstand Design Produkt Erscheinungsform in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Schutzgegenstand Design Produkt Erscheinungsform
 
@@ -98,9 +99,218 @@ Es ist unklar, was am Produkt eigentlich geschützt werden soll.
 
 ---
 
+## Skill: `design-patent-urheberrecht`
+
+_Wenn es um Design Und Patent Gebrauchsmuster Abgrenzung in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Design Und Patent Gebrauchsmuster Abgrenzung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: DesignG § 6 Neuheitsschonfrist 12 Monate, GGV Art. 7 (2) ebenfalls 12 Monate, DesignG § 27 Schutzdauer 25 Jahre in 5-Jahres-Verlängerungen, § 41 GGV Priorität 6 Monate.
+- Tragende Normen verifizieren: DesignG §§ 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO, Registerauszug, Sammelanmeldung, Verzichtserklärung, Nichtigkeitsantrag, Verletzungsklage, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Wann dieser Skill hilft
+
+Ein Produkt hat ästhetische und technische Merkmale.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+---
+
+## Skill: `design-und-urheberrecht-angewandte-kunst`
+
+_Wenn es um Design Und Urheberrecht Angewandte Kunst in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Design Und Urheberrecht Angewandte Kunst
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: DesignG § 6 Neuheitsschonfrist 12 Monate, GGV Art. 7 (2) ebenfalls 12 Monate, DesignG § 27 Schutzdauer 25 Jahre in 5-Jahres-Verlängerungen, § 41 GGV Priorität 6 Monate.
+- Tragende Normen verifizieren: DesignG §§ 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO, Registerauszug, Sammelanmeldung, Verzichtserklärung, Nichtigkeitsantrag, Verletzungsklage, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Wann dieser Skill hilft
+
+Ein Möbel, Leuchten-, Mode- oder Produktdesign soll umfassend geschützt werden.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+---
+
+## Skill: `verpackungsdesign-und-produktauftritt`
+
+_Wenn es um Verpackungsdesign Und Produktauftritt in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Verpackungsdesign Und Produktauftritt
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: DesignG § 6 Neuheitsschonfrist 12 Monate, GGV Art. 7 (2) ebenfalls 12 Monate, DesignG § 27 Schutzdauer 25 Jahre in 5-Jahres-Verlängerungen, § 41 GGV Priorität 6 Monate.
+- Tragende Normen verifizieren: DesignG §§ 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO, Registerauszug, Sammelanmeldung, Verzichtserklärung, Nichtigkeitsantrag, Verletzungsklage, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Wann dieser Skill hilft
+
+Eine Verpackung oder Produktlinie wirkt kopiert.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+---
+
+## Skill: `wiedergabe-ansichten-fotos-linien`
+
+_Wenn es um Wiedergabe Ansichten Fotos Linien in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Wiedergaben, Ansichten, Fotos, Linienzeichnungen und Disclaimer prüfen: was sichtbar ist, ist Schutzbasis
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: DesignG § 6 Neuheitsschonfrist 12 Monate, GGV Art. 7 (2) ebenfalls 12 Monate, DesignG § 27 Schutzdauer 25 Jahre in 5-Jahres-Verlängerungen, § 41 GGV Priorität 6 Monate.
+- Tragende Normen verifizieren: DesignG §§ 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO, Registerauszug, Sammelanmeldung, Verzichtserklärung, Nichtigkeitsantrag, Verletzungsklage, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Wiedergaben, Ansichten, Fotos, Linienzeichnungen und Disclaimer prüfen: was sichtbar ist, ist Schutzbasis; was fehlt, ist später schwer zu retten.
+
+### Wiedergabe Ansichten Fotos Linien
+
+## Wann dieser Skill hilft
+
+Bilder, Renderings oder Zeichnungen liegen vor.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+---
+
+## Skill: `designverletzung-gesamteindruck`
+
+_Wenn es um Designverletzung Gesamteindruck in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Designverletzung Gesamteindruck
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: DesignG § 6 Neuheitsschonfrist 12 Monate, GGV Art. 7 (2) ebenfalls 12 Monate, DesignG § 27 Schutzdauer 25 Jahre in 5-Jahres-Verlängerungen, § 41 GGV Priorität 6 Monate.
+- Tragende Normen verifizieren: DesignG §§ 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO, Registerauszug, Sammelanmeldung, Verzichtserklärung, Nichtigkeitsantrag, Verletzungsklage, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Wann dieser Skill hilft
+
+Ein Produkt sieht dem geschützten Design ähnlich.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+---
+
+## Skill: `schutzschrift-gegenangriff-ui-icons`
+
+_Wenn es um Schutzschrift Und Gegenangriff in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Schutzschrift Und Gegenangriff
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: DesignG § 6 Neuheitsschonfrist 12 Monate, GGV Art. 7 (2) ebenfalls 12 Monate, DesignG § 27 Schutzdauer 25 Jahre in 5-Jahres-Verlängerungen, § 41 GGV Priorität 6 Monate.
+- Tragende Normen verifizieren: DesignG §§ 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO, Registerauszug, Sammelanmeldung, Verzichtserklärung, Nichtigkeitsantrag, Verletzungsklage, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Wann dieser Skill hilft
+
+Eine eV der Gegenseite droht.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+---
+
 ## Skill: `aufgeschobene-bekanntmachung-automotive`
 
-_Aufgeschobene Bekanntmachung strategisch prüfen: Geheimhaltung, Launch-Timing, 30-Monats-Fenster, Nachholung, Gebühren und Verletzungsrisiko bei noch nicht veröffentlichter Wiedergabe im Designrecht Geschmacksmusterrecht._
+_Wenn es um Aufgeschobene Bekanntmachung in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Aufgeschobene Bekanntmachung
 
@@ -142,16 +352,15 @@ Ein Design soll geschützt, aber noch nicht gezeigt werden.
 ### Leitentscheidungen
 
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
 ---
 
-## Skill: `design-und-markenrecht-formmarke`
+## Skill: `automotive-design-und-ersatzteile`
 
-_Designrecht und Markenrecht bei Form, Position, Muster und Produktauftritt abgrenzen: kurzfristiger Designschutz, dauerhafte Marke, Verkehrsdurchsetzung und Schutzhindernisse im Designrecht Geschmacksmusterrecht._
+_Wenn es um Automotive Design Und Ersatzteile in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Design Und Markenrecht Formmarke
+# Automotive Design Und Ersatzteile
 
 ## Arbeitsweg
 
@@ -163,7 +372,55 @@ _Designrecht und Markenrecht bei Form, Position, Muster und Produktauftritt abgr
 
 ## Wann dieser Skill hilft
 
-Eine Produktform soll langfristig exklusiv bleiben.
+Fahrzeug- oder Zubehördesign ist streitig.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- GG Art. 1, 3, 20 (Grundrechte, Rechtsstaat)
+- BGB §§ 133, 157, 242 (Auslegung, Treu und Glauben)
+- VwVfG §§ 28, 35, 48, 49 (Anhörung, Verwaltungsakt, Rücknahme/Widerruf)
+- VwGO §§ 42, 80, 113 (Anfechtungsklage, Eilrechtsschutz)
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+---
+
+## Skill: `ui-icons-graphical-user-interface`
+
+_Wenn es um Ui Icons Graphical User Interface in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# Ui Icons Graphical User Interface
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: DesignG § 6 Neuheitsschonfrist 12 Monate, GGV Art. 7 (2) ebenfalls 12 Monate, DesignG § 27 Schutzdauer 25 Jahre in 5-Jahres-Verlängerungen, § 41 GGV Priorität 6 Monate.
+- Tragende Normen verifizieren: DesignG §§ 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO, Registerauszug, Sammelanmeldung, Verzichtserklärung, Nichtigkeitsantrag, Verletzungsklage, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Wann dieser Skill hilft
+
+Digitale Produktoberflächen sollen geschützt werden.
 
 ## Prüfpunkte
 
@@ -183,7 +440,7 @@ Eine Produktform soll langfristig exklusiv bleiben.
 
 ## Skill: `design-uwg-designnichtigkeit-dpma`
 
-_Designrecht und UWG-Nachahmungsschutz verbinden: wettbewerbliche Eigenart, vermeidbare Herkunftstäuschung, Rufausbeutung, Schutzlücken nach Ablauf oder fehlender Anmeldung im Designrecht Geschmacksmusterrecht._
+_Wenn es um Design Und Uwg Nachahmungsschutz in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
 # Design Und Uwg Nachahmungsschutz
 
@@ -215,11 +472,11 @@ Registerschutz reicht nicht oder ist unsicher.
 
 ---
 
-## Skill: `sammelanmeldung-locarno-schutzgegenstand`
+## Skill: `reparaturklausel-und-aftermarket`
 
-_Sammelanmeldung und Locarno-Klassifikation planen: mehrere Varianten, Produktfamilie, einheitliche Klasse, Kostenstrategie, Veröffentlichungslogik und spätere Durchsetzung im Designrecht Geschmacksmusterrecht._
+_Wenn es um Reparaturklausel Und Aftermarket in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Sammelanmeldung Und Locarno Klasse
+# Reparaturklausel Und Aftermarket
 
 ## Arbeitsweg
 
@@ -231,7 +488,7 @@ _Sammelanmeldung und Locarno-Klassifikation planen: mehrere Varianten, Produktfa
 
 ## Wann dieser Skill hilft
 
-Viele Designs oder Varianten sollen geschützt werden.
+Ein Ersatzteil soll hergestellt, verkauft oder angegriffen werden.
 
 ## Prüfpunkte
 
@@ -249,11 +506,11 @@ Viele Designs oder Varianten sollen geschützt werden.
 
 ---
 
-## Skill: `fashion-textilmuster-grenzbeschlagnahme`
+## Skill: `must-fit-must-match-ersatzteile`
 
-_Textilmuster, Prints, Schnitte und Accessoires designrechtlich prüfen: Wiederholungsmuster, Saisonware, nicht eingetragenes EU-Design, Registerbilder und Copycat-Beweise im Designrecht Geschmacksmusterrecht._
+_Wenn es um Must Fit Must Match Ersatzteile in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Fashion Textilmuster Designschutz
+# Must Fit Must Match Ersatzteile
 
 ## Arbeitsweg
 
@@ -265,7 +522,7 @@ _Textilmuster, Prints, Schnitte und Accessoires designrechtlich prüfen: Wiederh
 
 ## Wann dieser Skill hilft
 
-Mode- oder Textildesign steht im Zentrum.
+Ersatzteile oder Zubehör sind betroffen.
 
 ## Prüfpunkte
 
@@ -283,45 +540,11 @@ Mode- oder Textildesign steht im Zentrum.
 
 ---
 
-## Skill: `internationale-country-route-design`
+## Skill: `designreform-eu-2024-check`
 
-_Internationale Designstrategie für USA, UK, China, Japan, Schweiz und weitere Märkte vorbereiten: Hague oder national, Fristen, lokale Besonderheiten und Counsel-Fragen im Designrecht Geschmacksmusterrecht._
+_Wenn es um Designreform Eu 2024 Check in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Internationale Country Route Design
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DesignG § 6 Neuheitsschonfrist 12 Monate, GGV Art. 7 (2) ebenfalls 12 Monate, DesignG § 27 Schutzdauer 25 Jahre in 5-Jahres-Verlängerungen, § 41 GGV Priorität 6 Monate.
-- Tragende Normen verifizieren: DesignG §§ 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO, Registerauszug, Sammelanmeldung, Verzichtserklärung, Nichtigkeitsantrag, Verletzungsklage, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann dieser Skill hilft
-
-Ein Designportfolio soll global ausgerollt werden.
-
-## Prüfpunkte
-
-- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
-- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
-- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
-- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Quellen-Hardening
-
-- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
-
----
-
-## Skill: `offenbarung-neuheitsschonfrist-registerstand`
-
-_Offenbarung, Neuheitsschonfrist und Priorität prüfen: Messe, Instagram, Lookbook, Online-Shop, Presse, Prototyp, Pariser Verbandsübereinkunft und spätere Nachanmeldung im Designrecht Geschmacksmusterrecht._
-
-# Offenbarung Neuheitsschonfrist Prioritaet
+# Designreform Eu 2024 Check
 
 ## Arbeitsweg
 
@@ -333,211 +556,7 @@ _Offenbarung, Neuheitsschonfrist und Priorität prüfen: Messe, Instagram, Lookb
 
 ## Wann dieser Skill hilft
 
-Das Design war vielleicht schon öffentlich.
-
-## Prüfpunkte
-
-- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
-- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
-- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
-- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Quellen-Hardening
-
-- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
-
----
-
-## Skill: `rechtekette-entwerfer-arbeitgeber`
-
-_Rechtekette vom Entwerfer zum Unternehmen prüfen: freie Designer, Arbeitnehmer, Agentur, Studio, Rechteübertragung, Nutzungsrechte, Entwerfernennung und Beweisbarkeit im Designrecht Geschmacksmusterrecht._
-
-# Rechtekette Entwerfer Arbeitgeber
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DesignG § 6 Neuheitsschonfrist 12 Monate, GGV Art. 7 (2) ebenfalls 12 Monate, DesignG § 27 Schutzdauer 25 Jahre in 5-Jahres-Verlängerungen, § 41 GGV Priorität 6 Monate.
-- Tragende Normen verifizieren: DesignG §§ 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO, Registerauszug, Sammelanmeldung, Verzichtserklärung, Nichtigkeitsantrag, Verletzungsklage, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann dieser Skill hilft
-
-Die Inhaberschaft ist unsicher.
-
-## Prüfpunkte
-
-- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
-- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
-- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
-- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Quellen-Hardening
-
-- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
-
----
-
-## Skill: `hager-system-internationale-country`
-
-_Internationale Designregistrierung über das WIPO Hague System planen: Designations, Wiedergaben, Priorität, Aufschiebung, lokale Besonderheiten und Counsel-Briefing im Designrecht Geschmacksmusterrecht._
-
-# Hager System Wipo
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DesignG § 6 Neuheitsschonfrist 12 Monate, GGV Art. 7 (2) ebenfalls 12 Monate, DesignG § 27 Schutzdauer 25 Jahre in 5-Jahres-Verlängerungen, § 41 GGV Priorität 6 Monate.
-- Tragende Normen verifizieren: DesignG §§ 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO, Registerauszug, Sammelanmeldung, Verzichtserklärung, Nichtigkeitsantrag, Verletzungsklage, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann dieser Skill hilft
-
-Mehrere Länder außerhalb EU/DE sollen erreicht werden.
-
-## Prüfpunkte
-
-- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
-- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
-- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
-- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Quellen-Hardening
-
-- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
-
----
-
-## Skill: `designrecherche-dpmaregister-euipo-wipo`
-
-_Designrecherche in DPMAregister, EUIPO, WIPO und freien Quellen strukturieren: Bildsuche, Produktklasse, Wettbewerber, Offenbarung, Registerstand und Belegqualität im Designrecht Geschmacksmusterrecht._
-
-# Designrecherche Dpmaregister Euipo Wipo
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DesignG § 6 Neuheitsschonfrist 12 Monate, GGV Art. 7 (2) ebenfalls 12 Monate, DesignG § 27 Schutzdauer 25 Jahre in 5-Jahres-Verlängerungen, § 41 GGV Priorität 6 Monate.
-- Tragende Normen verifizieren: DesignG §§ 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO, Registerauszug, Sammelanmeldung, Verzichtserklärung, Nichtigkeitsantrag, Verletzungsklage, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann dieser Skill hilft
-
-Vor Anmeldung, Angriff oder Verteidigung soll recherchiert werden.
-
-## Prüfpunkte
-
-- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
-- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
-- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
-- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Quellen-Hardening
-
-- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
-
----
-
-## Skill: `designverletzung-gesamteindruck`
-
-_Designverletzung anhand des Gesamteindrucks prüfen: angegriffene Ausführungsform, informierter Benutzer, Gestaltungsfreiheit, Merkmalsabstand und Verletzungsrisiko im Designrecht Geschmacksmusterrecht._
-
-# Designverletzung Gesamteindruck
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DesignG § 6 Neuheitsschonfrist 12 Monate, GGV Art. 7 (2) ebenfalls 12 Monate, DesignG § 27 Schutzdauer 25 Jahre in 5-Jahres-Verlängerungen, § 41 GGV Priorität 6 Monate.
-- Tragende Normen verifizieren: DesignG §§ 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO, Registerauszug, Sammelanmeldung, Verzichtserklärung, Nichtigkeitsantrag, Verletzungsklage, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann dieser Skill hilft
-
-Ein Produkt sieht dem geschützten Design ähnlich.
-
-## Prüfpunkte
-
-- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
-- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
-- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
-- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Quellen-Hardening
-
-- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
-
----
-
-## Skill: `neuheit-und-eigenart`
-
-_Neuheit und Eigenart nach DesignG und EU-Designrecht prüfen: identische Offenbarung, Gesamteindruck, informierter Benutzer, Gestaltungsfreiheit und Entwerferdichte im Designrecht Geschmacksmusterrecht._
-
-# Neuheit Und Eigenart
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DesignG § 6 Neuheitsschonfrist 12 Monate, GGV Art. 7 (2) ebenfalls 12 Monate, DesignG § 27 Schutzdauer 25 Jahre in 5-Jahres-Verlängerungen, § 41 GGV Priorität 6 Monate.
-- Tragende Normen verifizieren: DesignG §§ 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO, Registerauszug, Sammelanmeldung, Verzichtserklärung, Nichtigkeitsantrag, Verletzungsklage, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann dieser Skill hilft
-
-Ein Design soll angemeldet, verteidigt oder angegriffen werden.
-
-## Prüfpunkte
-
-- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
-- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
-- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
-- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Quellen-Hardening
-
-- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
-
----
-
-## Skill: `einstweilige-verfuegung-designrecht`
-
-_Einstweilige Verfügung im Designrecht vorbereiten oder abwehren: Dringlichkeit, Registerlage, Verletzungsbilder, Nichtigkeitsrisiko, Schutzschrift und Vollziehung im Designrecht Geschmacksmusterrecht._
-
-# Einstweilige Verfuegung Designrecht
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DesignG § 6 Neuheitsschonfrist 12 Monate, GGV Art. 7 (2) ebenfalls 12 Monate, DesignG § 27 Schutzdauer 25 Jahre in 5-Jahres-Verlängerungen, § 41 GGV Priorität 6 Monate.
-- Tragende Normen verifizieren: DesignG §§ 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO, Registerauszug, Sammelanmeldung, Verzichtserklärung, Nichtigkeitsantrag, Verletzungsklage, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann dieser Skill hilft
-
-Schnelles Vorgehen gegen Kopien ist nötig.
+Ein Fall betrifft EU-Designrecht nach der Reform.
 
 ## Prüfpunkte
 
@@ -557,7 +576,7 @@ Schnelles Vorgehen gegen Kopien ist nötig.
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

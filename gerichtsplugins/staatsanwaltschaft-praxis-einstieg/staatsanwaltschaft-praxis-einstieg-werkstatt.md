@@ -94,11 +94,10 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Beschluss vom 10.01.2017 - 4 StR 247/16: Beweiswürdigung darf keine Lücken und Widersprüche offenlassen.
 - BVerfG, Beschluss vom 19.03.2013 - 2 BvR 2628/10: Verständigung im Strafverfahren verlangt Transparenz und Dokumentation.
 - BGH, Beschluss vom 28.11.2018 - 5 StR 566/18: Strafzumessung muss schuldangemessen begründet werden.
-- 6. Rechtsprechungsanker: BVerfG, 20.02.2001 - 2 BvR 1444/00 für Durchsuchung und Gefahr im Verzug; BVerfG, 19.03.2013 - 2 BvR 2628/10 für Verständigung und Dokumentation; EuGH, 30.04.2024 - C-670/22
 - BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug bei Durchsuchungen ist eng zu verstehen und aktenkundig zu begründen
 - BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Digitale Ermittlungsmaßnahmen brauchen eine tragfähige gesetzliche Grundlage, Richtervorbehalt und Kernbereichsschutz
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigung und informelle Absprache dürfen die Wahrheitsfindung und Dokumentationspflicht nicht
 - EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: EncroChat-Daten sind auf Rechtshilfeweg, Zuständigkeit, Verteidigungsrechte und Beweiszugang zu prüfen
+- BVerfG, Beschluss vom 15.12.1965 - 1 BvR 513/65, BVerfGE 19, 342: Untersuchungshaft steht unter strengem Verhältnismäßigkeits- und Beschleunigungsgebot
 
 ## 9. Prüfraster
 

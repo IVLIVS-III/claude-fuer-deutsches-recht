@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Paragraf 177 BGB ist nur ein Hinweis, kein Befund – Heilung prüfen |
-| Rechtsprechung | Erkennt Korrespondenz; E-Mail-Korrespondenz LEAG vom 19.05.2026 |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Dreistufige Ampel (gruen/gelb/rot) als bedingte Formatierung in der Excel-Arbeitsmappe und als Farbtag |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -49,9 +49,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 ## 6. Anker
 
 - Paragraf 177 BGB ist nur ein Hinweis, kein Befund – Heilung prüfen anwaltlich: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Erkennt Korrespondenz: E-Mails, Briefe, Aktenvermerke, Faxprotokolle, Telefonnotizen. Erfasst Absender, Empfaenger, Datum, Betreff, Bezug. E-Mail-Korrespondenz LEAG vom 19.05.2026: Drohung
-- E-Mail-Korrespondenz LEAG vom 19.05.2026: Drohung mit Pachtvertragskündigung wegen verspaeteter Vorlage der BImSchG-Genehmigungsunterlagen. Thread enthaelt vier Mails, einen Anhang (Auflistung
-- Erste Karte oben (GRUEN): Pachtvertrag LEAG Hauptvertrag, 11.07.2025,
 
 ## 7. Antwortform
 

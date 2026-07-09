@@ -1,25 +1,25 @@
-# Megaprompt: verlagsredaktion
+# Vollprüfung: verlagsredaktion
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 117 Skills (gekuerzt fuer Chat-Fenster) des Plugins `verlagsredaktion`.
+Dieser Vollprüfung enthaelt top-8 von 117 Skills (gekuerzt fuer Chat-Fenster) des Plugins `verlagsredaktion`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für Verlagsredaktion: ordnet Rolle (Verlag, Autor, Redakteur), markiert Frist (Gegendarstel…
-2. **kaltstart-triage** — Cooler Einstieg für das Verlagsredaktion-Plugin: stummer Upload, Morgenlage, Eingangskorb, Fristen, Rechteampel, Manuskr…
-3. **verlagsdesk-erstpruefung-und-mandatsziel** — Verlagsdesk: Erstprüfung, Rollenklärung und Mandatsziel im Verlagsredaktion.
-4. **zeitschriften-heftplanung** — Organisiert Zeitschriftenhefte mit Rubriken, Beitraegen, Autoren, Seitenbudget, Online-first, Korrekturlauf, Anzeigen un…
-5. **unterlagen-luecken** — Lücken- und Beschaffungsliste für Verlagsredaktion: trennt fehlende Tatsachen von fehlenden Belegen (Verlagsvertrag, Man…
-6. **dokumente-intake** — Dokumentenintake für Verlagsredaktion: sortiert Verlagsvertrag, Manuskript, Bildrechtevereinbarung, prüft Datum, Absende…
-7. **quellen-livecheck** — Quellen-Live-Check für Verlagsredaktion: prüft Normen (UrhG, VerlagsG, Presserechte Länder) gegen amtliche Datenbank, Re…
-8. **output-waehlen** — Output-Wahl für Verlagsredaktion: stimmt Adressat (Verlag, Autor, Redakteur), Frist (Gegendarstellungsanspruch unverzügl…
+1. **einstieg-routing** — Wenn es um Einstieg und Routing in Verlagsredaktion geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächste…
+2. **kaltstart-triage** — Wenn es um Verlagsredaktion — Startdesk in Verlagsredaktion geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden…
+3. **verlagsdesk-erstpruefung-und-mandatsziel** — Wenn es um Verlagsdesk: Erstprüfung, Rollenklärung und Mandatsziel in Verlagsredaktion geht: klärt Rolle, Ziel, Frist, U…
+4. **vlb-katalog-pflege-jur** — Wenn es um VLB-Katalog (Verzeichnis lieferbarer Buecher) in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast,…
+5. **autorenkommunikation-compliance-dokumentation-und-akte** — Wenn es um Autorenkommunikation: Compliance-Dokumentation und Aktenvermerk in Verlagsredaktion geht: ordnet Akteninhalt,…
+6. **kommentar-aktualisierung-randnummern** — Wenn es um Kommentar-Aktualisierung und Randnummern in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gege…
+7. **manuskript-merkwuerdige-formate-rettung** — Wenn es um Manuskript-Rettung aus merkwuerdigen Formaten in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast,…
+8. **formatvorlage-check-autor-manuskript** — Wenn es um Formatvorlage-Check (Autor-Manuskript) in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegena…
 
 ---
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Verlagsredaktion: ordnet Rolle (Verlag, Autor, Redakteur), markiert Frist (Gegendarstellungsanspruch unverzüglich), wählt Norm (UrhG, VerlagsG, Presserechte Länder) und Zuständigkeit (Presserat), leitet zum passenden Spezial-Skill._
+_Wenn es um Einstieg und Routing in Verlagsredaktion geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Einstieg und Routing
 
@@ -63,23 +63,24 @@ Dieser Einstieg routet **Verlagsredaktion** vom ersten Sachverhalt zu Rollen, Fr
 
 ## Skill: `kaltstart-triage`
 
-_Cooler Einstieg für das Verlagsredaktion-Plugin: stummer Upload, Morgenlage, Eingangskorb, Fristen, Rechteampel, Manuskriptstatus und Routing zu den Verlagsdesk-Skills._
+_Wenn es um Verlagsredaktion — Startdesk in Verlagsredaktion geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Verlagsredaktion — Startdesk
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Verlagsredaktion** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Rolle
 
@@ -143,23 +144,24 @@ Wenn nur Dateien kommen:
 
 ## Skill: `verlagsdesk-erstpruefung-und-mandatsziel`
 
-_Verlagsdesk: Erstprüfung, Rollenklärung und Mandatsziel im Verlagsredaktion._
+_Wenn es um Verlagsdesk: Erstprüfung, Rollenklärung und Mandatsziel in Verlagsredaktion geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Verlagsdesk: Erstprüfung, Rollenklärung und Mandatsziel
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Verlagsdesk Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Verlagsredaktion** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Arbeitsweg
 
@@ -190,12 +192,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `zeitschriften-heftplanung`
+## Skill: `vlb-katalog-pflege-jur`
 
-_Organisiert Zeitschriftenhefte mit Rubriken, Beitraegen, Autoren, Seitenbudget, Online-first, Korrekturlauf, Anzeigen und Schlussredaktion: Organisiert Zeitschriftenhefte mit Rubriken, Beitraegen, Autoren, Seitenbudget, Online-first, Korrekturlauf,..._
+_Wenn es um VLB-Katalog (Verzeichnis lieferbarer Buecher) in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Organisiert Zeitschriftenhefte mit Rubriken, Beitraegen, Autoren, Seitenbudget, Online-first, Korrekturlauf, Anzeigen und Schlussredaktion.
-
+# VLB-Katalog (Verzeichnis lieferbarer Buecher)
 
 ## Arbeitsweg
 
@@ -205,20 +206,211 @@ _Organisiert Zeitschriftenhefte mit Rubriken, Beitraegen, Autoren, Seitenbudget,
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort, Lizenzpartner, Vertrieb, Datenschutzbeauftragter, ggf. Bundeszentrale für Kinder- und Jugendmedienschutz.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verlagsvertrag, Übersetzervertrag, Lizenzvertrag, Honorarrechnung, Pflichtexemplarmeldung, VG-Wort-Meldung, Impressum, AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Organisiert Zeitschriftenhefte mit Rubriken, Beitraegen, Autoren, Seitenbudget, Online-first, Korrekturlauf, Anzeigen und Schlussredaktion.
+## Worum geht es konkret
 
-### Zeitschriften-Heftplanung
+Das VLB ist die zentrale Datenbank des Buchhandels in Deutschland. Wer dort nicht oder falsch eintraegt, wird im Buchhandel nicht gefunden. Der Skill fuehrt durch ONIX-Pflichtfelder, Schlagwortlogik, Klappentextpflege, Preisbindung, Erscheinungstermin-Updates und stellt sicher, dass VLB-Daten mit Webshop, beck-online und Vertriebspartnern konsistent sind.
 
-## Prüfung
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
-- Heftnummer und Erscheinungstermin.
-- Rubriken.
-- Beiträge.
-- Umfang.
-- Status.
-- Autorenrücklauf.
-- Online-first.
-- Anzeigen-/Vertriebsschnittstelle.
+1. Neueintrag, Pflegeaktualisierung oder Abkuendigung?
+2. Werktyp (Buch, Loseblatt, E-Book, Hoerbuch, Online-Kommentar)?
+3. ISBN bereits vergeben?
+4. Erscheinungstermin definitiv oder vorlaeufig?
+5. Preisbindung (Buch und E-Book unter BuchPrG) oder freier Preis (Webinar, Datenbank)?
+6. Reihenzuordnung vorhanden?
+7. Wer pflegt redaktionell (Vertrieb, Lektorat, Marketing)?
+
+## Rechtlicher und sachlicher Rahmen
+
+- BuchPrG - Buchpreisbindungsgesetz; Verlag setzt den Endkundenpreis, Buchhandel ist gebunden. Geltung für Print und E-Book.
+- HGB § 24 - Firmenfortfuehrung bei Verlagsverkauf, für Imprint-Wechsel.
+- UrhG §§ 22, 23 - Bildnisrecht bei Coverabbildungen mit Personen.
+- DSGVO Art. 6 - bei Verarbeitung von Autorenkontaktdaten in VLB-Profilen.
+- ONIX 3.0 - Standardformat für bibliografische Daten; VLB akzeptiert ONIX 3.0.
+- BVA (Buchwissenschaftliches Verlagshaus / Boersenverein) - Verlagsdienstleister für VLB-Eintragungen.
+
+## Praxisleitfaden / Schritt für Schritt
+
+1. **Pflichtfelder prüfen.**
+ - ISBN, Titel, Autor (mit GND-Nummer wenn möglich).
+ - Untertitel, Reihentitel, Bandzaehlung.
+ - Erscheinungstermin (Tag, Monat, Jahr).
+ - Verlag, Verlagsanschrift, Imprint.
+ - Sprache, Originalsprache, Übersetzer.
+ - Format (Hardcover, Paperback, EPUB, PDF), Seitenzahl.
+ - Preis brutto, Waehrung.
+ - Warengruppe (juristische Werke: 750-789 nach VLB-Schlüssel).
+2. **Schlagwoerter setzen.** GND-Schlagworte bevorzugen; freie Schlagworte zusaetzlich; Thema-Klassifikation (Thema 1.4 international, LB-Codes verlagsintern).
+3. **Klappentext pflegen.** Max. 2500 Zeichen; SEO-optimiert; mit den ersten 160 Zeichen den Kern fassen (Google-Snippet).
+4. **Cover hochladen.** RGB, 300 dpi, mindestens 1500 px hohe Kante; ohne Anschnitt.
+5. **Inhaltsverzeichnis und Leseprobe.** Als PDF, freigegeben durch Autor und Hersteller.
+6. **Preisbindung.** Endkundenpreis für Print und E-Book in EUR, MwSt. eingeschlossen; bei Änderung Boersenverein melden (BuchPrG § 5).
+7. **Erscheinungstermin.** Bei Verschiebung VLB unverzueglich aktualisieren - sonst Vorbestellprobleme.
+8. **Abkuendigung.** Bei Auslaufen "ng" (= nicht mehr lieferbar) oder "vg" (vergriffen) setzen; bei Neuauflage "ohne Nachfolger" oder Verweis auf Nachfolgeauflage.
+9. **Konsistenz prüfen** mit Webshop, beck-online, Amazon, Thalia, Hugendubel, Buchhandelsdienst-Anbietern.
+
+## Trade-off-Matrix
+
+| Aspekt | Aufwendige Pflege | Minimaleintrag |
+|---|---|---|
+| Findbarkeit | Hoch | Niedrig |
+| Vertriebserfolg | Hoeher | Niedriger |
+| Pflegeaufwand | Hoch | Niedrig |
+| Update-Notwendigkeit | Reduzierend | Verschlimmernd |
+| Backbone für Marketing | Stark | Schwach |
+
+## Praxistipps der alten Redaktion
+
+- VLB-Eintrag spaetestens 12 Wochen vor Erscheinung; sonst keine Vorbestelllisten.
+- Coverdatei muss in den Spezifikationen sein, sonst lehnt VLB ab.
+- Bei juristischen Werken Warengruppe sehr genau setzen; 758 (BGB allg.) vs. 769 (Steuerrecht).
+- Schlagworte aus der Sicht der Suchenden, nicht aus Verlagssicht ("Mietminderung Schimmel" statt "Mietminderungsproblematik").
+- Klappentext im Praesens, aktive Saetze, keine Floskeln.
+- Auflagen-Wechsel: Vorgaengerauflage auf "ng" setzen, ISBN der neuen Auflage als Nachfolger eintragen.
+- Preisaenderung mit Stichtag und Begruendung melden - Buchpreisbindungstreuhaender prüft.
+
+## Mustertexte / Vorlagen
+
+**Klappentext-Geruest (juristisches Werk)**
+
+```
+[Titel]
+[Untertitel]
+
+Das Werk bietet [Zielgruppe, Anwaltschaft/Justiz/Wissenschaft] eine
+[Kommentierung / Darstellung / Praxisleitfaden] zu [Norm/Themenfeld].
+Die [n]. Auflage beruecksichtigt:
+
+- [Reform/Gesetz, Datum]
+- [Wichtige BGH-Entscheidung mit Az., Datum]
+- [Praktische Auswirkungen, ein Satz]
+
+Mit [Praxistipps / Mustertexten / Checklisten / Beispielsfaellen]
+laesst sich das Werk auch im Mandatsalltag direkt nutzen.
+
+Die Autoren sind [kurze Vorstellung, max. 2 Saetze].
+```
+
+**ONIX-Mindesteintrag-Checkliste**
+
+```
+ISBN-13: [978-...]
+Titel: [...]
+Untertitel: [...]
+Reihe (Codeliste): [...]
+Autor: [Name, GND, Funktion]
+Verlag/Imprint: [...]
+Erscheinungsdatum: [TT.MM.JJJJ]
+Sprache: ger
+Format: [HC/PB/EB], [Hoehe x Breite] mm
+Seitenzahl: [n]
+Warengruppe: [VLB-Code]
+GND-Schlagworte: [Liste]
+Thema-Klassifikation: [Code]
+Preis: EUR [...], inkl. 7 % MwSt. (Buch) / 7 % (E-Book)
+Klappentext: [siehe oben]
+Cover-Datei: [Pfad/URL, 300 dpi RGB]
+Inhaltsverzeichnis: [PDF]
+```
+
+**Anschreiben Boersenverein bei Preisaenderung**
+
+```
+Betreff: Aenderung des gebundenen Endkundenpreises [Titel], ISBN [...]
+
+Sehr geehrte Damen und Herren,
+
+hiermit zeigen wir die Aenderung des nach BuchPrG gesetzten
+Endkundenpreises für folgendes Werk an:
+
+ISBN: [...]
+Titel: [...]
+Bisheriger Preis: EUR [...]
+Neuer Preis: EUR [...]
+Stichtag: [Datum]
+Begruendung: [...]
+
+Mit freundlichen Gruessen
+[Name, Funktion]
+```
+
+## Typische Fehler / Pitfalls
+
+- Erscheinungstermin verschoben, VLB nicht aktualisiert - Vorbesteller verlieren.
+- Klappentext ohne Schlagworte - schlechte Findbarkeit.
+- Coverdatei in falscher Aufloesung - Eintragung wird abgelehnt.
+- Preisbindung versaeumt zu melden - Buchpreisbindungstreuhaender mahnt.
+- Reihenzuordnung falsch oder fehlt - Suchen Reihe leer.
+- Bei E-Book und Print abweichende Klappentexte - Marketing inkonsistent.
+- Auflagenwechsel ohne Verweis auf Nachfolger - alte ISBN bleibt aktiv.
+
+## Quellen Stand 06/2026
+
+- BuchPrG - Buchpreisbindungsgesetz.
+- ONIX-Standard 3.0 - editeur.org.
+- VLB-Hinweise und Codelisten - vlb.de (Boersenverein).
+- BVA-Verlagsdienstleister - mvb-online.de.
+- GND - Gemeinsame Normdatei der Deutschen Nationalbibliothek (dnb.de).
+
+---
+
+## Skill: `autorenkommunikation-compliance-dokumentation-und-akte`
+
+_Wenn es um Autorenkommunikation: Compliance-Dokumentation und Aktenvermerk in Verlagsredaktion geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Autorenkommunikation: Compliance-Dokumentation und Aktenvermerk
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: VerlG § 17 Ablieferungsfrist, UrhG § 41 Rückrufsrecht wegen Nichtausübung nach 2 Jahren, VG-Wort-Meldungen jährlich, JuSchG-Indizierung sofort wirksam.
+- Tragende Normen verifizieren: UrhG §§ 1, 7, 11, 31, 32, 34, 38, 41, 43, 50, 51, 51a, 53, 87a-h, VerlG, BGB §§ 433, 631, JuSchG, PresseG der Länder, ImpressumsR, DSGVO Art. 85 (Medienprivileg) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort, Lizenzpartner, Vertrieb, Datenschutzbeauftragter, ggf. Bundeszentrale für Kinder- und Jugendmedienschutz.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verlagsvertrag, Übersetzervertrag, Lizenzvertrag, Honorarrechnung, Pflichtexemplarmeldung, VG-Wort-Meldung, Impressum, AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Autorenkommunikation: Compliance-Dokumentation und Aktenvermerk
+- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Autorenkommunikation** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `kommentar-aktualisierung-randnummern`
+
+_Wenn es um Kommentar-Aktualisierung und Randnummern in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Kommentar-Aktualisierung und Randnummern
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: VerlG § 17 Ablieferungsfrist, UrhG § 41 Rückrufsrecht wegen Nichtausübung nach 2 Jahren, VG-Wort-Meldungen jährlich, JuSchG-Indizierung sofort wirksam.
+- Tragende Normen verifizieren: UrhG §§ 1, 7, 11, 31, 32, 34, 38, 41, 43, 50, 51, 51a, 53, 87a-h, VerlG, BGB §§ 433, 631, JuSchG, PresseG der Länder, ImpressumsR, DSGVO Art. 85 (Medienprivileg) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort, Lizenzpartner, Vertrieb, Datenschutzbeauftragter, ggf. Bundeszentrale für Kinder- und Jugendmedienschutz.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verlagsvertrag, Übersetzervertrag, Lizenzvertrag, Honorarrechnung, Pflichtexemplarmeldung, VG-Wort-Meldung, Impressum, AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Aufgaben
+
+1. Norm oder Abschnitt bestimmen.
+2. alten Stand erfassen.
+3. neue Gesetzgebung oder Rechtsprechung als Anlass markieren.
+4. Randnummernänderungen vorschlagen.
+5. Nachweise prüfen.
+6. Autorenfragen sammeln.
 
 ## Schneller Arbeitsmodus
 
@@ -238,199 +430,217 @@ Wenn Material oder Ziel unklar sind, stelle hoechstens drei Fragen: Was soll ver
 
 ---
 
-## Skill: `unterlagen-luecken`
+## Skill: `manuskript-merkwuerdige-formate-rettung`
 
-_Lücken- und Beschaffungsliste für Verlagsredaktion: trennt fehlende Tatsachen von fehlenden Belegen (Verlagsvertrag, Manuskript, Bildrechtevereinbarung), nennt pro Lücke Beweisthema, Beschaffungsweg (Presserat), Frist und Ersatznachweis._
+_Wenn es um Manuskript-Rettung aus merkwuerdigen Formaten in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Unterlagen und Lücken
-
-## Einsatzlage
-
-Diese Unterlagenprüfung für **Verlagsredaktion** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
-
-## Fachlandkarte dieses Plugins
-
-- `abstimmung` — Abstimmung
-- `abstimmung-lektorat-produktion-satz` — Abstimmung Lektorat Produktion Satz
-- `abstimmung-mit-autor-feedback-kanal` — Abstimmung mit Autor Feedback Kanal
-- `abstimmung-mit-produktion-satz-druck` — Abstimmung mit Produktion Satz Druck
-- `abstimmung-mit-rechtsabteilung-pruefung` — Abstimmung mit Rechtsabteilung Prüfung
-- `abstimmung-mit-vertrieb-marketing` — Abstimmung mit Vertrieb Marketing
-- `ai-einsatz-transparenz-datenschutz` — AI Einsatz Transparenz Datenschutz
-- `audio-transkript-zu-fachbeitrag` — Audio Transkript zu Fachbeitrag
-- `aussagensicherheit-buchprojekt-bauleiter` — Aussagensicherheit Buchprojekt Bauleiter
-- `autorenkommunikation-compliance-dokumentation-und-akte` — Autorenkommunikation Compliance Dokumentation und Akte
-- `autorenkommunikation-email` — Autorenkommunikation Email
-- `barrierefreiheit-epub-pdf` — Barrierefreiheit Epub PDF
-- `bildrechte-grafiken-tabellen` — Bildrechte Grafiken Tabellen
-- `dokumente-intake` — Dokumente Intake
-- `einstieg-routing` — Einstieg Routing
+# Manuskript-Rettung aus merkwuerdigen Formaten
 
 ## Arbeitsweg
 
-- Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Verlagsredaktion-Frage zwingend (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets)?
-- Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
-- Lückenliste priorisieren nach: fristrelevant (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), beweisrelevant, formerheblich.
-- Rückfrageschreiben an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
-- Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: VerlG § 17 Ablieferungsfrist, UrhG § 41 Rückrufsrecht wegen Nichtausübung nach 2 Jahren, VG-Wort-Meldungen jährlich, JuSchG-Indizierung sofort wirksam.
+- Tragende Normen verifizieren: UrhG §§ 1, 7, 11, 31, 32, 34, 38, 41, 43, 50, 51, 51a, 53, 87a-h, VerlG, BGB §§ 433, 631, JuSchG, PresseG der Länder, ImpressumsR, DSGVO Art. 85 (Medienprivileg) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort, Lizenzpartner, Vertrieb, Datenschutzbeauftragter, ggf. Bundeszentrale für Kinder- und Jugendmedienschutz.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verlagsvertrag, Übersetzervertrag, Lizenzvertrag, Honorarrechnung, Pflichtexemplarmeldung, VG-Wort-Meldung, Impressum, AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Qualitätsanker
+## Worum geht es konkret
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+Autoren liefern selten in der Form, die der Verlag braucht. Dieser Skill hilft, ein Manuskript aus einem unsauberen Eingangsformat (alte Word-Datei, gemischtes DOCX/Markdown, LaTeX-Fragmente, exportiertes PDF, mit KI generierter Wust) in ein verlagstaugliches Arbeitsdokument zu ueberfuehren - ohne juristischen Substanzverlust und ohne Fundstellenzerstoerung.
 
----
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
-## Skill: `dokumente-intake`
+Sie brauchen ihn, wenn Sie das Manuskript geoeffnet haben und sehen: kaputte Anfuehrungszeichen, gemischte Bullet-Stile, eingefrorene Tabellen, "smart quotes" im Quelltext, Word-Felder mit fehlenden Verweisen oder offenkundige LLM-Artefakte (Drei-Strich-Listen, Halbsatzbruch nach jedem zweiten Absatz). Klären Sie kurz:
 
-_Dokumentenintake für Verlagsredaktion: sortiert Verlagsvertrag, Manuskript, Bildrechtevereinbarung, prüft Datum, Absender, Frist und Beweiswert (Quellen, Recherche-Notizen); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO._
+1. Welches Quellformat liegt vor (.doc, .docx, .odt, .md, .tex, .rtf, .pdf, gemischt)?
+2. Welches Zielformat braucht die Produktion (Verlags-DOCX-Vorlage, InDesign-XML, LaTeX-Klasse, XML-Auszeichnung für Online-Kommentar)?
+3. Sind im Quelltext aktive Verweise / Felder / Track-Changes / Kommentare zu erhalten?
+4. Wie hoch ist der KI-Verdacht (gleichfoermiger Absatzrhythmus, fehlende Pinpoints, "in der Regel"-Floskeln)?
 
-# Dokumentenintake
+## Material- bzw. Sachrahmen
 
-## Aktenstart statt Formularstart
+- Ein Manuskriptfile (auch zip mit Anhaengen).
+- Verlagsvorlage (.dotx oder Style-Sheet).
+- Hinweisliste vom Autor zu Spezialzeichen, Sonderschreibweisen, Logos.
 
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Verlagsredaktion** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+## Praxisleitfaden / Schritt für Schritt
 
-Starte dann mit einer knappen Rueckmeldung:
+1. **Sicherungskopie ablegen.** Original nie ueberschreiben. Arbeitsdatei kopieren, Versionsstand im Dateinamen (`Mueller-Aufsatz_v1-eingang.docx`).
+2. **Format identifizieren.** Bei .doc unbedingt einmal in LibreOffice oder Word neu als .docx speichern, bevor weitere Tools darauf zugreifen.
+3. **Pipeline waehlen** (siehe Trade-off-Matrix).
+4. **Erste Bereinigung**: doppelte Leerzeichen, harte Zeilenumbrueche im Fliesstext, falsche Anfuehrungszeichen, geschuetzte Leerzeichen vor Paragraphenzeichen (`§ 433 BGB` mit U+00A0).
+5. **Strukturmarkierung**: Absatzformate auf Verlagsvorlage (`Standard`, `Ueberschrift 1-3`, `Fussnotentext`, `Zitat`).
+6. **Fussnoten und Felder prüfen**: keine Word-Felder mit fehlendem Bezug, keine zerschossenen `\ref`. Bei LaTeX in DOCX: BibTeX-Quellen separat sichern.
+7. **KI-Artefakte markieren**: gleichfoermige Absatzlaenge, fehlende konkrete Pinpoints, generische Formulierungen wie "in der Literatur wird vertreten" ohne Quelle. Markieren, nicht still loeschen.
+8. **Auslieferung**: Arbeitsdatei + Logfile der Konvertierung an Lektorat. Im Logfile festhalten, welche Schritte automatisiert, welche manuell waren.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
+## Trade-off-Matrix
+
+| Pfad | A: Pandoc-Pipeline | B: Manuelle Word-Reinigung | Empfehlung |
+|------|--------------------|----------------------------|------------|
+| Aufwand | gering bei sauberen Quellen | hoch | A wenn .md/.tex/.docx eindeutig |
+| Risiko | Verlust von Sonderformaten | langsame Drift | B wenn Tabellen / Felder kritisch |
+| Reproduzierbar | ja, Skriptbasis | nein | A bei Serienkonvertierung |
+| KI-Verdacht | Pandoc loescht nichts | Lektorat kann markieren | B für redaktionelle Beurteilung |
+
+## Praxistipps der alten Redaktion
+
+- "Word97-Files immer zuerst neu speichern lassen - es spart eine Stunde Suche nach kaputten Feldern."
+- Bei LaTeX-Mix immer prüfen, ob im Quelltext `\footnote{}` oder `\cite{}` zerschossen wurde - Suche nach `\cite{??}`.
+- KI-Manuskripte erkennt man oft am gleichfoermigen Absatzrhythmus und an fehlenden Randnummern bei zitierter Rspr. Markieren mit `[KI-Verdacht: Quelle pruefen]`.
+- Bei verschluesselten oder passwortgeschuetzten PDFs niemals raten - Autor anrufen.
+
+## Mustertexte / Vorlagen
+
+**Anschreiben bei Format-Defekt:**
+
+> Sehr geehrte Frau Dr. Mueller, Ihr Manuskript zu "Drittwirkung der Grundrechte" ist am 12.06.2026 eingegangen. Bei der technischen Eingangspruefung sind uns folgende Punkte aufgefallen, die wir vor dem Lektorat bereinigen muessten: (1) gemischte Anfuehrungszeichen, (2) zerschossene Verweise in Fussnoten 14, 27 und 41, (3) Tabelle 2 auf S. 18 ist als Bild eingefuegt. Wir wuerden Schritt 1 und 2 inhouse bereinigen; für Schritt 3 bitten wir um die Originaltabelle als .xlsx bis 19.06.2026. Mit freundlichen Gruessen, Redaktion NJW
+
+**Pandoc-Pipeline (Bash-Snippet):**
+
+```
+pandoc input.docx --from=docx --to=docx --reference-doc=verlagsvorlage.dotx -o output.docx
+pandoc input.tex --from=latex --to=docx --bibliography=quellen.bib -o output.docx
 ```
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+**Konvertierungs-Logfile (Vorlage):**
 
-## Einsatzlage
+```
+Datei: Mueller-Aufsatz_v1.docx
+Datum: 12.06.2026
+Quellformat: .docx (Word 365)
+Schritte:
+- Neu gespeichert in Word 365 (Format-Sanity)
+- Pandoc: docx -> docx mit Verlagsvorlage
+- Manuell: 17 doppelte Leerzeichen entfernt
+- Manuell: 4 KI-Verdachtsstellen markiert (Fn 12, 19, 31, 47)
+- Manuell: Tabelle 2 angefordert
+Output: Mueller-Aufsatz_v2-clean.docx
+```
 
-Dieser Dokumenten-Intake für **Verlagsredaktion** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
+## Typische Fehler / Pitfalls
 
-## Fachlandkarte dieses Plugins
+- Originaldatei ueberschrieben - Versionsstand weg.
+- Automatische Korrektur loescht stillschweigend Sonderzeichen (z. B. `§`, `Â§` durch Encoding-Mix).
+- KI-Stellen unkommentiert uebernommen - Quellenpflicht verletzt.
+- PDF-Konvertierung mit OCR ohne Prüfung - falsche Zahlen in Aktenzeichen.
+- Track-Changes vom Autor verworfen statt aufgeloest.
 
-- `abstimmung` — Abstimmung
-- `abstimmung-lektorat-produktion-satz` — Abstimmung Lektorat Produktion Satz
-- `abstimmung-mit-autor-feedback-kanal` — Abstimmung mit Autor Feedback Kanal
-- `abstimmung-mit-produktion-satz-druck` — Abstimmung mit Produktion Satz Druck
-- `abstimmung-mit-rechtsabteilung-pruefung` — Abstimmung mit Rechtsabteilung Prüfung
-- `abstimmung-mit-vertrieb-marketing` — Abstimmung mit Vertrieb Marketing
-- `ai-einsatz-transparenz-datenschutz` — AI Einsatz Transparenz Datenschutz
-- `audio-transkript-zu-fachbeitrag` — Audio Transkript zu Fachbeitrag
-- `aussagensicherheit-buchprojekt-bauleiter` — Aussagensicherheit Buchprojekt Bauleiter
-- `autorenkommunikation-compliance-dokumentation-und-akte` — Autorenkommunikation Compliance Dokumentation und Akte
-- `autorenkommunikation-email` — Autorenkommunikation Email
-- `barrierefreiheit-epub-pdf` — Barrierefreiheit Epub PDF
-- `bildrechte-grafiken-tabellen` — Bildrechte Grafiken Tabellen
-- `einstieg-routing` — Einstieg Routing
-- `output-waehlen` — Output Waehlen
+## Quellen Stand 06/2026
 
-## Arbeitsweg
-
-- Eingangsdokumente nach Typ ordnen: Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets.
-- Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Verlagsredaktion-Frage.
-- Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.
-- Tragende Normen vorläufig zuordnen: die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen — Endfeststellung erst nach Live-Check.
-- Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen prüfen.
-
-## Qualitätsanker
-
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+- Pandoc User Guide, [https://pandoc.org/MANUAL.html](https://pandoc.org/MANUAL.html) (Stand: laufend).
+- Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024, Kapitel "Anfuehrungszeichen, Bindestrich, Sonderzeichen".
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016, S. 23 ff. zur Konsistenz bei Pinpoints.
+- UrhG, [https://www.gesetze-im-internet.de/urhg/](https://www.gesetze-im-internet.de/urhg/) - Hinweis: bei Uebernahme fremder Tabellen / Grafiken aus PDF stets §§ 51, 63 UrhG prüfen.
 
 ---
 
-## Skill: `quellen-livecheck`
+## Skill: `formatvorlage-check-autor-manuskript`
 
-_Quellen-Live-Check für Verlagsredaktion: prüft Normen (UrhG, VerlagsG, Presserechte Länder) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Presserat und Quellenhygiene nach references/quellenhygiene.md._
+_Wenn es um Formatvorlage-Check (Autor-Manuskript) in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Rechtsquellen-Livecheck
-
-## Einsatzlage
-
-Dieser Quellen-Livecheck für **Verlagsredaktion** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
-
-## Fachlandkarte dieses Plugins
-
-- `abstimmung` — Abstimmung
-- `abstimmung-lektorat-produktion-satz` — Abstimmung Lektorat Produktion Satz
-- `abstimmung-mit-autor-feedback-kanal` — Abstimmung mit Autor Feedback Kanal
-- `abstimmung-mit-produktion-satz-druck` — Abstimmung mit Produktion Satz Druck
-- `abstimmung-mit-rechtsabteilung-pruefung` — Abstimmung mit Rechtsabteilung Prüfung
-- `abstimmung-mit-vertrieb-marketing` — Abstimmung mit Vertrieb Marketing
-- `ai-einsatz-transparenz-datenschutz` — AI Einsatz Transparenz Datenschutz
-- `audio-transkript-zu-fachbeitrag` — Audio Transkript zu Fachbeitrag
-- `aussagensicherheit-buchprojekt-bauleiter` — Aussagensicherheit Buchprojekt Bauleiter
-- `autorenkommunikation-compliance-dokumentation-und-akte` — Autorenkommunikation Compliance Dokumentation und Akte
-- `autorenkommunikation-email` — Autorenkommunikation Email
-- `barrierefreiheit-epub-pdf` — Barrierefreiheit Epub PDF
-- `bildrechte-grafiken-tabellen` — Bildrechte Grafiken Tabellen
-- `dokumente-intake` — Dokumente Intake
-- `einstieg-routing` — Einstieg Routing
+# Formatvorlage-Check (Autor-Manuskript)
 
 ## Arbeitsweg
 
-- Tragende Normen (die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
-- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
-- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
-- Dynamische Bereiche im Verlagsredaktion (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
-- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: VerlG § 17 Ablieferungsfrist, UrhG § 41 Rückrufsrecht wegen Nichtausübung nach 2 Jahren, VG-Wort-Meldungen jährlich, JuSchG-Indizierung sofort wirksam.
+- Tragende Normen verifizieren: UrhG §§ 1, 7, 11, 31, 32, 34, 38, 41, 43, 50, 51, 51a, 53, 87a-h, VerlG, BGB §§ 433, 631, JuSchG, PresseG der Länder, ImpressumsR, DSGVO Art. 85 (Medienprivileg) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort, Lizenzpartner, Vertrieb, Datenschutzbeauftragter, ggf. Bundeszentrale für Kinder- und Jugendmedienschutz.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verlagsvertrag, Übersetzervertrag, Lizenzvertrag, Honorarrechnung, Pflichtexemplarmeldung, VG-Wort-Meldung, Impressum, AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Qualitätsanker
+## Worum geht es konkret
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+Verlage haben Formatvorlagen (DOCX-Templates, LaTeX-Klassen, Schreibrichtlinien). Autorinnen halten sich selten daran. Der Format-Check ist die erste Prüfung nach Manuskripteingang: Stimmen Absatzformate, Ueberschriftenhierarchie, Fussnotenstil, Zitiernormen mit der Verlagsvorlage ueberein? Sie zeigen die Abweichungen, statt sie still zu korrigieren - sonst verlernt die Autorin nie.
 
----
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
-## Skill: `output-waehlen`
+Sie brauchen ihn unmittelbar nach Eingang eines Manuskripts. Klären Sie:
 
-_Output-Wahl für Verlagsredaktion: stimmt Adressat (Verlag, Autor, Redakteur), Frist (Gegendarstellungsanspruch unverzüglich) und Form auf den Zweck ab — typische Outputs: Verlagsvertrag, Pressemitteilung, Gegendarstellung._
+1. Welches Verlagsformat (NJW-Manuskriptrichtlinien, JuS-Vorlage, hauseigener LaTeX-Stil)?
+2. Hat die Autorin die Richtlinien bekommen (mit Datum)?
+3. Welche Toleranzen (welche Abweichungen sind harmlos, welche stoppen die Annahme)?
+4. Wie viel Eingriff vom Lektorat erwuenscht (still korrigieren oder zurueckspielen)?
 
-# Output wählen
+## Material- bzw. Sachrahmen
 
-## Einsatzlage
+- Verlagsformatvorlage (.dotx, Style Guide, LaTeX-Class).
+- Autorenmanuskript.
+- Eingangsmail mit Hinweis auf Manuskriptrichtlinien.
 
-Diese Output-Weiche für **Verlagsredaktion** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
+## Praxisleitfaden / Schritt für Schritt
 
-## Fachlandkarte dieses Plugins
+1. **Eingangs-Sicherung.** Manuskript-Original ablegen, Arbeitskopie anlegen mit Versions-Stempel.
+2. **Strukturpruefung.** Ueberschriftenhierarchie (Verlagsvorlage: H1, H2, H3?), maximale Verschachtelungstiefe.
+3. **Absatzformate.** Standardabsatz, Zitatabsatz, Aufzaehlung, Fussnotentext - mit Verlagsformatvorlage abgeglichen?
+4. **Fussnoten.** Position (Seitenfuss vs. Kapitelende), Zitiernorm (siehe `verl-zitierweise-pruefung-zeitschrift-jus-njw`), Nummerierung.
+5. **Sonderzeichen.** § mit U+00A0 davor (geschuetzt), Anfuehrungszeichen, Bindestrich vs. Gedankenstrich.
+6. **Bilder, Tabellen, Schaubilder.** Format, Verankerung, Beschriftung, Quellen.
+7. **Inhaltsverzeichnis und Verweise.** Werden Querverweise automatisch generiert? Funktioniert das ToC?
+8. **Befund-Tabelle.** Spalten: Element, Verlagsvorgabe, Befund, Stop/OK, Anmerkung. An Autorin zurueckspielen.
 
-- `abstimmung` — Abstimmung
-- `abstimmung-lektorat-produktion-satz` — Abstimmung Lektorat Produktion Satz
-- `abstimmung-mit-autor-feedback-kanal` — Abstimmung mit Autor Feedback Kanal
-- `abstimmung-mit-produktion-satz-druck` — Abstimmung mit Produktion Satz Druck
-- `abstimmung-mit-rechtsabteilung-pruefung` — Abstimmung mit Rechtsabteilung Prüfung
-- `abstimmung-mit-vertrieb-marketing` — Abstimmung mit Vertrieb Marketing
-- `ai-einsatz-transparenz-datenschutz` — AI Einsatz Transparenz Datenschutz
-- `audio-transkript-zu-fachbeitrag` — Audio Transkript zu Fachbeitrag
-- `aussagensicherheit-buchprojekt-bauleiter` — Aussagensicherheit Buchprojekt Bauleiter
-- `autorenkommunikation-compliance-dokumentation-und-akte` — Autorenkommunikation Compliance Dokumentation und Akte
-- `autorenkommunikation-email` — Autorenkommunikation Email
-- `barrierefreiheit-epub-pdf` — Barrierefreiheit Epub PDF
-- `bildrechte-grafiken-tabellen` — Bildrechte Grafiken Tabellen
-- `dokumente-intake` — Dokumente Intake
-- `einstieg-routing` — Einstieg Routing
+## Trade-off-Matrix
 
-## Arbeitsweg
+| Pfad | A: Stille Lektoratskorrektur | B: Manuskript zurueck an Autorin | Empfehlung |
+|------|------------------------------|----------------------------------|------------|
+| Verlagsaufwand | hoch | mittel | A nur bei nahem Druck und kooperativer Autorin |
+| Lerneffekt Autorin | null | hoch | B im Regelfall |
+| Lieferzeit | schnell | langsamer | A bei Zeitnot |
+| Standardfall | B mit fristgebundenem "Nachbessern bis ..." |
 
-- Ergebnistyp bestimmen: Schriftsatz an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
-- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Verlagsredaktion (die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen) einarbeiten.
-- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
-- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
-- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
+## Praxistipps der alten Redaktion
 
-## Qualitätsanker
+- "Eine Autorin, die ihre Formatfehler nicht selbst korrigiert, wird sie beim naechsten Beitrag wiederholen. Lieber einmal genau zurueckspielen."
+- Nicht jeden Mini-Fehler zurueckweisen - eine Befund-Tabelle mit 50 Punkten frustriert. Top-5-Stops, der Rest als "wuenschenswert".
+- Bei wiederkehrenden Autorinnen einen "Hauseigenen Stilkatalog" pflegen - das spart Arbeit.
+- LaTeX-Manuskripte schauen oft "richtig" aus, haben aber Klassenkonflikte. Probekompilation immer.
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+## Mustertexte / Vorlagen
+
+**Rueckmeldung an Autorin (Format-Defekt):**
+
+> Sehr geehrter Herr Dr. Schmidt, vielen Dank für Ihr Manuskript zu "[Titel]" vom 02.06.2026. Bei der Eingangspruefung haben wir die Einhaltung der NJW-Manuskriptrichtlinien geprueft (siehe NJW-Hinweise Stand 04/2026, in der Anlage). Sieben Stops haben wir markiert (siehe Befundtabelle, Anlage). Bitte ueberarbeiten Sie das Manuskript bis 16.06.2026. Bei Rueckfragen erreichen Sie uns unter ...
+
+**Befund-Tabelle (Vorlage):**
+
+| # | Element | Verlagsvorgabe | Befund | Stop/OK |
+|---|---------|-----------------|--------|---------|
+| 1 | Ueberschriftenhierarchie | max. 3 Ebenen | 5 Ebenen verwendet | Stop |
+| 2 | Fussnoten-Position | Seitenfuss | Kapitelende | Stop |
+| 3 | Zitierweise BGH | "Datum, Az, NJW Jahr, Seite (Rn)" | "Datum, NJW Jahr, S." (ohne Az.) | Stop |
+| 4 | Anfuehrungszeichen | deutsch ("..." mit unten/oben) | englisch ("...") | wuenschenswert |
+
+**Stilkatalog-Auszug (Beispiel NJW):**
+
+```
+- Paragraphenzeichen § stets mit geschuetztem Leerzeichen davor.
+- Aktenzeichen mit Schraegstrich, ohne Bindestriche: "I ZR 12/24".
+- Randnummer "Rn.", nicht "RN" oder "Tz." (Tz. nur bei BFH).
+- "Bundesgerichtshof" bei Erstnennung, danach "BGH".
+- Datum: "12.05.2026" (DD.MM.YYYY).
+```
+
+## Typische Fehler / Pitfalls
+
+- Befund-Tabelle ohne Prioritaeten - Autorin liest 50 Punkte und uebersieht die 5 wichtigen.
+- Stille Korrektur ohne Hinweis - Autorin lernt nicht.
+- Manuskriptrichtlinien nicht verlinkt - Autorin weiss nicht, wonach sie prüfen soll.
+- LaTeX-Manuskript ohne Probekompilation freigegeben.
+- Zitiernorm-Check vergessen - landet erst in der Fahnenpruefung als Drama.
+
+## Quellen Stand 06/2026
+
+- NJW-Manuskriptrichtlinien (vom Verlag bezogen, Stand jeweils im Manuskriptbearbeitungspaket).
+- Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
+- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
+- Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
+- Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

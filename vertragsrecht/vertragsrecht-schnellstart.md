@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Paragraf 339 BGB – Vertragsstrafe; Paragraf 242 BGB –; Paragrafen 133, 157 BGB; Paragraf 125, 126 BGB |
-| Rechtsprechung | eingestufte Klausel ist die einschlägige BGH-Entscheidung; Eine BGH-Entscheidung zur Grenze |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Tragende Normen verifizieren: BGB Paragrafen 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13 |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -55,9 +55,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 550 BGB — Schriftformerfordernis bei langfristiger Miete (mehr als 1 Jahr): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 154 BGB — fehlendes Einvernehmen über einzelne Punkte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 305 Abs. 1–3 BGB – AGB-Begriff, Einbeziehungsvoraussetzungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- eingestufte Klausel ist die einschlägige BGH-Entscheidung oder die herrschende Kommentarmeinung
-- Eine BGH-Entscheidung zur Grenze
-- Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=02.11.2016&Aktenzeichen=XII+ZR+153%2F15
 
 ## 7. Antwortform
 

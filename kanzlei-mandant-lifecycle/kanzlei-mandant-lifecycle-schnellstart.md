@@ -28,8 +28,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Rechtsanker; RVG Paragraf 3a; BRAO Paragraf 43e |
-| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Normenanker | Rechtsanker |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -49,10 +49,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 ## 6. Anker
 
 - Rechtsanker: Datenschutz-Grundverordnung, Geschäftsgeheimnisgesetz, BRAO Paragraf 43e und IT-Sicherheit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- RVG Paragraf 3a: https://www.gesetze-im-internet.de/rvg/__3a.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BRAO Paragraf 43e: https://www.gesetze-im-internet.de/brao/__43e.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BRAO Paragraf 49b: https://www.gesetze-im-internet.de/brao/__49b.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 7. Antwortform
 

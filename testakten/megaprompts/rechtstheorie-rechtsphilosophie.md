@@ -1,43 +1,44 @@
-# Megaprompt: rechtstheorie-rechtsphilosophie
+# Vollprüfung: rechtstheorie-rechtsphilosophie
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 64 Skills des Plugins `rechtstheorie-rechtsphilosophie`.
+Dieser Vollprüfung enthaelt top-10 von 65 Skills des Plugins `rechtstheorie-rechtsphilosophie`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Einstieg und Fallrouting für rechtstheoretische und rechtsphilosophische Fragen: Rechtsbegriff, Methode, Abwaegung, Demo…
-2. **methodenkritik-larenz-canaris-ordnung-und-system** — Prüft Wertungsjurisprudenz und Systemdenken kritisch: Produktive Dogmatik ja, autoritäre Ordnungsnähe, Scheinobjektivitä…
-3. **besitz-rechtsrealismus-und-praktische-beduerfnisse** — Prüft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast, gerichtliche …
-4. **daseinsvorsorge-verwaltungsrealismus-rechtsstaatscheck** — Prüft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnungsmacht: realistische Aufgabenanalyse ohne Pre…
-5. **kelsen-demokratie-verfahren-minderheitenschutz** — Prüft Demokratie als Verfahren: Mehrheitsentscheidung, Minderheitenschutz, Normbindung, institutionelle Rollen, Rechtssc…
-6. **regeln-tacit-knowledge-und-kognitive-entlastung** — Prüft Regeln als gespeichertes Erfahrungswissen: tacit knowledge, kognitive Entlastung, Regel-vs-Standard-Wahl, rational…
-7. **technokratie-industriegesellschaft-und-grundrechte** — Prüft Technik-, Industrie- und Infrastrukturargumente: Regulierung, Sachzwang, Expertenwissen, Risiko, Grundrechte, demo…
-8. **besitzdogmatik-historische-schule-und-systemdenken** — Prüft Besitzdogmatik als Testfeld für historische Schule, Systemdenken, formale Rationalitaet, Begriffsdeduktion, Profes…
-9. **wissensproblem-dezentrale-information-und-recht** — Prüft das Wissensproblem im Recht: dezentrale Information, lokale Praxis, Preissignale, Verwaltungskapazitaet, Gesetzgeb…
-10. **kelsen-stufenbau-gueltigkeit-und-methodendisziplin** — Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von Normgeltung, Moral, Politik, Kompetenz, Verfahren und Rechts…
+1. **kaltstart-triage** — Wenn es um Allgemeiner Einstieg in Rechtstheorie und Rechtsphilosophie geht: klärt Rolle, Ziel, Frist, Unterlagen und de…
+2. **methodenkritik-larenz-canaris-ordnung-system** — Wenn es um Methodenkritik: Larenz, Canaris, Systemdenken und konkrete Ordnung in Rechtstheorie und Rechtsphilosophie geh…
+3. **dworkin-law-as-integrity-hard-cases** — Wenn es um Dworkin: Recht als Integrität, Prinzipien und hard cases in Rechtstheorie und Rechtsphilosophie geht: ordnet …
+4. **besitzdogmatik-historische-schule** — Wenn es um Besitzdogmatik, historische Schule und Systemdenken in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachv…
+5. **wissensproblem-dezentrale-information** — Wenn es um Wissensproblem, dezentrale Information und Recht in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverh…
+6. **regeln-tacit-knowledge-kognitive-entlastung** — Wenn es um Regeln, stilles Wissen und kognitive Entlastung in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverha…
+7. **staat-ordnungsmacht-anti-autoritaerer-check** — Wenn es um Staat als Ordnungsmacht: anti-autoritärer Check in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverha…
+8. **legalitaetsprinzipien-als-rechtsstaatsmotor** — Wenn es um Legalitätsprinzipien als Rechtsstaatsmotor in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, N…
+9. **v392-lesefreude-rechtstheorie-rechtsphilosophie** — Wenn es um Lesefreude Rechtstheorie und Rechtsphilosophie in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhal…
+10. **daseinsvorsorge-verwaltungsrealismus** — Wenn es um Daseinsvorsorge und Verwaltungsrealismus in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Nor…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg und Fallrouting für rechtstheoretische und rechtsphilosophische Fragen: Rechtsbegriff, Methode, Abwaegung, Demokratie, Moral, Sprache, Machtkritik und Outputwahl._
+_Wenn es um Allgemeiner Einstieg in Rechtstheorie und Rechtsphilosophie geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Allgemeiner Einstieg
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Rechtstheorie Rechtsphilosophie** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Allgemeiner Einstieg` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
@@ -53,6 +54,20 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 2. Welche Norm, Entscheidung, Vertragsklausel, Verwaltungspraxis oder Dogmatik steht im Zentrum?
 3. Wer braucht den Output: Anwalt, Gericht, Mandant, Ministerium, Unternehmen, Wissenschaft oder Öffentlichkeit?
 4. Welche Gefahr besteht: Scheinobjektivität, Scheinlogik, Literaturautorität, Methodenbeliebigkeit, Machtblindheit oder Übertheoretisierung?
+
+## Theorie mit Bodenhaftung
+
+Jede rechtstheoretische Antwort beginnt mit einer praktischen Rechtsfrage und endet mit einer brauchbaren Argumentkarte:
+
+| Schritt | Prüfpunkt | Ausgabe |
+| --- | --- | --- |
+| Ausgangsnorm | Welche Norm, Entscheidung oder Institution wird gedeutet? | Textanker |
+| Methode | Wortlaut, System, Zweck, Geschichte, Prinzip, Präjudiz oder Abwägung? | Methodenmatrix |
+| Theorie | Positivismus, Integrität, Rechtsrealismus, Diskurstheorie, Machtkritik? | Deutungsangebot |
+| Risiko | Wo drohen Scheinlogik, Autoritätsargument, politische Verdeckung oder Beliebigkeit? | Red-Team |
+| Nutzwert | Was folgt für Schriftsatz, Urteil, Gesetzgebung, Vertrag oder Verwaltung? | Formulierungsbaustein |
+
+Theorie ist hier kein Schmuck. Sie soll ein rechtliches Problem ordnen, einen blinden Fleck sichtbar machen oder eine Begründung besser tragen.
 
 ## Arbeitsprogramm
 
@@ -80,41 +95,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `methodenkritik-larenz-canaris-ordnung-und-system`
+## Skill: `methodenkritik-larenz-canaris-ordnung-system`
 
-_Prüft Wertungsjurisprudenz und Systemdenken kritisch: Produktive Dogmatik ja, autoritäre Ordnungsnähe, Scheinobjektivität und biografische Belastung nein: Prüft Wertungsjurisprudenz und Systemdenken kritisch: Produktive Dogmatik ja, autoritäre Ordnungsnähe..._
+_Wenn es um Methodenkritik: Larenz, Canaris, Systemdenken und konkrete Ordnung in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Prüft Wertungsjurisprudenz und Systemdenken kritisch: Produktive Dogmatik ja, autoritäre Ordnungsnähe, Scheinobjektivität und biografische Belastung nein.
-
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
-- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
-- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
-- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
-- `§ 133 BGB` — Auslegung von Willenserklaerungen.
-- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
-- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
-- `§ 1 StGB` — Bestimmtheit im Strafrecht.
-- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
-- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: keine prozessualen Fristen — Argumentationslast hingegen verfahrenslogisch (Begründungsdichte, Subsumtionsspielraum, Auslegungsmethoden).
-- Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Prüft Wertungsjurisprudenz und Systemdenken kritisch: Produktive Dogmatik ja, autoritäre Ordnungsnähe, Scheinobjektivität und biografische Belastung nein.
-
-### Methodenkritik: Larenz, Canaris, Systemdenken und konkrete Ordnung
+# Methodenkritik: Larenz, Canaris, Systemdenken und konkrete Ordnung
 
 ## Kritischer Ausgangspunkt
 Systemdenken und Wertungsjurisprudenz können dogmatisch nützlich sein, wenn sie Widersprüche sichtbar machen und Normzwecke kontrolliert entfalten. Sie werden gefährlich, wenn sie außerrechtliche Ordnungsvorstellungen als objektives Recht verkleiden.
@@ -128,14 +113,40 @@ Bei Larenz ist die nationalsozialistische Verstrickung und die Nähe zu Denkfigu
 4. Sind Wortlaut, Gesetzgebung, Präjudizien und Folgen transparent geprüft?
 5. Gibt es eine weniger autoritäre, quellenklare Begründung?
 
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
+- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
+- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
+- `§ 133 BGB` — Auslegung von Willenserklaerungen.
+- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
+- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
+- `§ 1 StGB` — Bestimmtheit im Strafrecht.
+- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
+- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
 ---
 
-## Skill: `besitz-rechtsrealismus-und-praktische-beduerfnisse`
+## Skill: `dworkin-law-as-integrity-hard-cases`
 
-_Prüft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast, gerichtliche Handhabbarkeit und die Notwendigkeit, praktische Beduerfnisse konkret statt intuitiv zu benennen: Prüft Besitzschutz rechtsrealistisch..._
+_Wenn es um Dworkin: Recht als Integrität, Prinzipien und hard cases in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Prüft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast, gerichtliche Handhabbarkeit und die Notwendigkeit, praktische Beduerfnisse konkret statt intuitiv zu benennen.
+# Dworkin: Recht als Integrität, Prinzipien und hard cases
 
+## Theorieachse
+Dworkin ist. Die Frage lautet dann: Welche Lösung macht das geltende Recht als Ganzes in seiner besten, rechtsstaatlich verantwortbaren Gestalt verständlich?
+
+## Prüfpunkte
+1. **Regel oder Prinzip:** Ist die Norm hart subsumierbar oder verlangt sie Gewichtung eines Rechtsprinzips?
+2. **Fit:** Passt die These zu Gesetz, Präjudizien, System und institutioneller Rolle?
+3. **Justification:** Rechtfertigt sie das Recht normativ besser, ohne Gesetzgeber oder Gericht zu ersetzen?
+4. **Integrität:** Behandelt sie vergleichbare Fälle gleich oder produziert sie opportunistische Ausnahmefälle?
+5. **Grenze:** Keine moralische Privatmeinung als Recht ausgeben; Dworkin hilft bei der besten rechtlichen Begründung, nicht bei politischer Wunschproduktion.
 
 ## Regelungs- und Quellenanker
 
@@ -154,81 +165,44 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Arbeitsweg
+---
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: keine prozessualen Fristen — Argumentationslast hingegen verfahrenslogisch (Begründungsdichte, Subsumtionsspielraum, Auslegungsmethoden).
-- Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Skill: `besitzdogmatik-historische-schule`
 
-**Fokus:** Prüft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast, gerichtliche Handhabbarkeit und die Notwendigkeit, praktische Beduerfnisse konkret statt intuitiv zu benennen.
+_Wenn es um Besitzdogmatik, historische Schule und Systemdenken in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-### Besitz, Rechtsrealismus und praktische Bedürfnisse
+# Besitzdogmatik, historische Schule und Systemdenken
 
-## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Besitz, Rechtsrealismus und praktische Bedürfnisse` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
-- **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
-- **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.
-- **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## Fachlicher Anker
 
-## Fachkern: Besitz, Rechtsrealismus und praktische Bedürfnisse
+- **Normen:** die einschlägigen Normen dieses Sachgebiets.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Fachkern: Besitzdogmatik, historische Schule und Systemdenken
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
 ## Sofort klären
 
-1. Wer hat faktische Kontrolle über die Sache?
-2. Wer erhebt welche rechtliche oder tatsächliche Erwartung?
-3. Welche Störung soll verhindert werden: Gewalt, heimliche Wegnahme, Beweisnot, Opportunismus, Blockade, Suchkosten?
-4. Welche Regel können Gerichte einfach und verlässlich anwenden?
+1. Geht es um Besitz, Eigentum, Herausgabe, verbotene Eigenmacht, Fund, Verwahrung, Ersitzung, Grenze, Zubehör, Teil eines Ganzen oder faktische Sachherrschaft?
+2. Welche dogmatische Figur wird verwendet: Sachherrschaft, Besitzwille, Besitzdiener, mittelbarer Besitz, Mitbesitz, Besitzschutz, Besitzkonstitut?
+3. Ist die Figur im geltenden Recht verankert oder nur historisch plausibel?
+4. Welche praktische Funktion soll sie erfüllen: Beweisvereinfachung, Friedensschutz, Verkehrsschutz, Investitionsschutz, Ressourcenzuordnung?
 
 ## Prüfprogramm
 
-1. **Fakten zuerst:** Ort, Zugang, Schlüssel, Sichtbarkeit, Verwahrung, Nutzung, Ausschlussmöglichkeiten, Dauer.
-2. **Konfliktmodell:** Eigentümer gegen Besitzer, Besitzer gegen Dritten, Finder gegen Ortsherrn, Verwahrer gegen Eigentümer, Grenznachbar gegen Buchberechtigten.
-3. **Rechtsrealistische Frage:** Welche Entscheidung wird eine Institution bei diesen Tatsachen wahrscheinlich und nachvollziehbar treffen?
-4. **Beweislast:** Wer kann welche Tatsache besser dokumentieren?
-5. **Administrierbarkeit:** Ist die Regel im Alltag handhabbar oder erzeugt sie Mini-Prozesse über innere Willenszustände?
-6. **Dogmatischer Anschluss:** Ergebnis wieder an Normen und Begriffe zurückbinden.
+1. **Dogmatischen Kern isolieren:** Welche Begriffe entscheiden den Fall?
+2. **Historische Herkunft nur als Material nutzen:** Tradition erklärt, warum eine Figur so aussieht, ersetzt aber nicht die geltende Norm.
+3. **Systemfrage stellen:** Passt das Ergebnis zu Besitzschutz, Eigentumsschutz, Deliktsrecht, Bereicherungsrecht und Verjährung?
+4. **Grenzfall testen:** Schlüssel, Lager, versteckte Sache, Tier, Teil einer Sache, Miteigentum, Mitbesitz, fremdnützige Verwahrung.
+5. **Funktion prüfen:** Welches soziale Problem löst die Regel wirklich?
+6. **Deduktionsfalle markieren:** Wird aus einem schönen Begriff mehr herausgelesen, als das geltende Recht trägt?
 
 ## Leitgedanke
 
-Rechtsrealismus ist stark, wenn er die tatsächliche Konfliktlage sichtbar macht. Er ist schwach, wenn er nur sagt, das Recht müsse `sozialen Bedürfnissen` dienen, ohne diese Bedürfnisse zu präzisieren. Dieser Skill zwingt deshalb zu einer konkreten Funktionsbeschreibung.
-
-## Typische Fallgruppen
-
-- Schlüssel zu Lagerware oder Fahrzeugen;
-- fremde Sache im Tresor, Schließfach, Container oder Serverraum;
-- verlorene oder vergessene Gegenstände in Geschäftsräumen;
-- Baustelle, Grundstücksgrenze, Überbau, Zaunversatz;
-- Tiere, bewegliche Sachen, digitale Zugangsmittel;
-- Besitzdiener, Arbeitnehmer, Hausverwaltung, Logistikdienstleister.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 1 StGB
-- Art. 47 GRCh
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
----
-
-## Skill: `daseinsvorsorge-verwaltungsrealismus-rechtsstaatscheck`
-
-_Prüft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnungsmacht: realistische Aufgabenanalyse ohne Preisgabe von Grundrechten, Gesetzesbindung und Rechtsschutz: Prüft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnung..._
-
-# Prüft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnungsmacht: realistische Aufgabenanalyse ohne Preisgabe von Grundrechten, Gesetzesbindung und Rechtsschutz.
-
+Historische Dogmatik kann Ordnung, Sprache und Vergleichsmaterial liefern. Sie wird problematisch, wenn sie so tut, als könne man moderne Fälle rein aus einem ursprünglichen Prinzip lösen. Gute Rechtsanwendung braucht beides: systematische Disziplin und Sinn für praktische Fallgruppen.
 
 ## Regelungs- und Quellenanker
 
@@ -247,25 +221,290 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
+---
+
+## Skill: `wissensproblem-dezentrale-information`
+
+_Wenn es um Wissensproblem, dezentrale Information und Recht in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Wissensproblem, dezentrale Information und Recht
+
+## Fachlicher Anker
+
+- **Normen:** die einschlägigen Normen dieses Sachgebiets.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Fachkern: Wissensproblem, dezentrale Information und Recht
+- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
+- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+## Sofort klären
+
+1. Wer besitzt die entscheidenden Informationen: Marktteilnehmer, Verwaltung, Gericht, Sachverständige, Betroffene, Verbände, Plattformen, Unternehmen?
+2. Sind die Informationen kodifiziert, statistisch messbar, lokal-praktisch, stillschweigend, preisförmig oder nur durch Erfahrung zugänglich?
+3. Soll die Rechtsordnung zentral planen, allgemein rahmen, dezentral beobachten, experimentieren oder nachträglich korrigieren?
+4. Welche Freiheit, Gleichheit, Sicherheit oder Drittschäden stehen auf dem Spiel?
+
+## Prüfprogramm
+
+1. **Informationskarte:** Liste auf, welche Informationen für eine gute Regel nötig wären.
+2. **Verteilungsanalyse:** Ordne jede Information der Stelle zu, die sie am besten kennt.
+3. **Kommunizierbarkeit:** Prüfe, ob die Information als Datenpunkt, Gutachten, Preis, Branchenstandard, Erfahrungswissen oder gar nicht sauber übertragbar ist.
+4. **Regelungsmodus:** Wähle zwischen harter Regel, Standard, Vermutung, Experimentierklausel, Berichtspflicht, Audit, Haftung, Marktmechanismus oder gerichtlicher Einzelfallkontrolle.
+5. **Fehlerkosten:** Was passiert bei Überregulierung, Unterregulierung, falscher Standardisierung oder Informationsasymmetrie?
+6. **Kontrolle:** Wer kann nachsteuern, wenn sich Wissen verändert?
+
+## Leitgedanke
+
+Das Wissensproblem ist ein starkes Argument gegen allzu selbstgewisse zentrale Detailsteuerung. Es ist aber kein Argument gegen Rechtsetzung überhaupt. Gerade weil Wissen verteilt ist, braucht Recht oft Verfahren, Transparenz, Haftung, Standards, Rückmeldeschleifen und gute Korrekturmechanismen.
+
+## Warnsignale
+
+- `Der Gesetzgeber kann das alles vorab wissen.`
+- `Der Markt weiß es immer besser.`
+- `Die Behörde hat die Daten, also hat sie auch das Wissen.`
+- `Die Branche macht das so, also ist es richtig.`
+- `Komplexität verbietet Regulierung.`
+
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
+- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
+- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
+- `§ 133 BGB` — Auslegung von Willenserklaerungen.
+- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
+- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
+- `§ 1 StGB` — Bestimmtheit im Strafrecht.
+- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
+- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+---
+
+## Skill: `regeln-tacit-knowledge-kognitive-entlastung`
+
+_Wenn es um Regeln, stilles Wissen und kognitive Entlastung in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Regeln, stilles Wissen und kognitive Entlastung
+
+## Fachlicher Anker
+
+- **Normen:** die einschlägigen Normen dieses Sachgebiets.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Fachkern: Regeln, stilles Wissen und kognitive Entlastung
+- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
+- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+## Sofort klären
+
+1. Welche Regel oder Routine wird angewendet?
+2. Welches Erfahrungswissen könnte in ihr stecken?
+3. Muss die Anwenderin den Zweck jedes Mal neu verstehen oder reicht ein einfacher Trigger?
+4. Gibt es Konstellationen, in denen blinde Regelbefolgung schädlich wird?
+
+## Prüfprogramm
+
+1. **Regelzweck rekonstruieren:** Was soll die Regel vermeiden, vereinfachen oder sichern?
+2. **Wissensspeicher:** Welche Erfahrung steckt in der Regel: Unfallvermeidung, Marktbrauch, Beweisvereinfachung, Gleichbehandlung, Transaktionskosten, Datenschutz, Fristenklarheit?
+3. **Trigger:** Welche wenigen Tatsachen lösen die Regel aus?
+4. **Standard-Alternative:** Wäre ein offener Standard gerechter, aber teurer?
+5. **Ausnahmebedarf:** Gibt es atypische Fälle, in denen die Regel ihren Zweck verfehlt?
+6. **Blindheitsrisiko:** Ist der ursprüngliche Grund der Regel entfallen, unbekannt oder falsch geworden?
+
+## Regel-vs-Standard-Check
+
+- **Regel:** gut bei hoher Wiederholung, niedriger Toleranz für Streit, klaren Tatsachen, hohem Bedürfnis nach Vorhersehbarkeit.
+- **Standard:** gut bei vielfältigen Fallgestaltungen, hohem Einzelfallgerechtigkeitsbedarf, schwer vorhersehbaren Risiken.
+- **Hybrid:** Regel mit Ausnahmeklausel, Vermutung, Safe Harbor, Audit, Berichtspflicht oder Nachsteuerung.
+
+## Leitgedanke
+
+Regelbindung kann rational sein, auch wenn die Anwenderin den vollen Grund der Regel nicht kennt. Das ist keine Kapitulation vor Denken, sondern kognitive Ökonomie. Gefährlich wird es, wenn die Regel gegen neue Tatsachen immunisiert wird oder als Autoritätsersatz dient.
+
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
+- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
+- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
+- `§ 133 BGB` — Auslegung von Willenserklaerungen.
+- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
+- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
+- `§ 1 StGB` — Bestimmtheit im Strafrecht.
+- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
+- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+---
+
+## Skill: `staat-ordnungsmacht-anti-autoritaerer-check`
+
+_Wenn es um Staat als Ordnungsmacht: anti-autoritärer Check in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Staat als Ordnungsmacht: anti-autoritärer Check
+
+## Fachlicher Anker
+
+- **Normen:** die einschlägigen Normen dieses Sachgebiets.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Fachkern: Staat als Ordnungsmacht: anti-autoritärer Check
+- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
+- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+## Sofort klären
+
+1. Welche Ordnung soll geschützt werden?
+2. Welche Gefahr wird behauptet?
+3. Welche Maßnahme soll der Staat ergreifen?
+4. Welche Norm, Kompetenz und Kontrolle begrenzen die Maßnahme?
+5. Wer wird zum Objekt staatlicher Ordnung gemacht?
+
+## Prüfprogramm
+
+1. **Gefahrenkern:** Tatsachen, Prognose, Wahrscheinlichkeit, Schadenshöhe.
+2. **Norm:** konkrete Ermächtigung statt allgemeiner Ordnungsformel.
+3. **Kompetenz:** zuständige Behörde, Verfahren, Form, Dokumentation.
+4. **Verhältnismäßigkeit:** Geeignetheit, Erforderlichkeit, Angemessenheit.
+5. **Nichtdiskriminierung:** Keine pauschale Stigmatisierung von Gruppen.
+6. **Rechtsschutz:** Effektiver Angriff gegen Maßnahme und Vollzug.
+7. **Nachkontrolle:** Befristung, Bericht, Entschädigung, Löschung, Folgenprüfung.
+
+## Leitbild
+
+Ein Staat darf und muss handlungsfähig sein. Rechtsstaatliche Handlungsfähigkeit unterscheidet sich aber gerade dadurch von autoritärer Macht, dass sie sich selbst an Norm, Verfahren, Begründung und Kontrolle bindet.
+
+## Warnsignale
+
+- `Ordnung` wird nicht definiert.
+- Gefahr wird behauptet, aber nicht belegt.
+- Gruppen werden kollektiv verdächtigt.
+- Rechtsschutz wird als Störung beschrieben.
+- Eilmaßnahmen werden nicht befristet.
+- Die Exekutive prüft ihre eigenen Grenzen ohne externe Kontrolle.
+
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
+- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
+- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
+- `§ 133 BGB` — Auslegung von Willenserklaerungen.
+- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
+- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
+- `§ 1 StGB` — Bestimmtheit im Strafrecht.
+- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
+- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+---
+
+## Skill: `legalitaetsprinzipien-als-rechtsstaatsmotor`
+
+_Wenn es um Legalitätsprinzipien als Rechtsstaatsmotor in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Legalitätsprinzipien als Rechtsstaatsmotor
+
+## Fachlicher Anker
+
+- **Normen:** die einschlägigen Normen dieses Sachgebiets.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Fachkern: Legalitätsprinzipien als Rechtsstaatsmotor
+- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
+- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+## Acht Prüfsteine
+
+1. **Allgemeinheit:** Regeln dürfen nicht bloß verkleidete Einzelfallbefehle sein. Prüfe, ob sie nach Fallgruppen, Rollen und Tatbestandsmerkmalen arbeiten.
+2. **Publizität:** Eine Regel muss zugänglich, auffindbar und verständlich bekannt gemacht sein. Geheime Maßstäbe sind ein Warnsignal.
+3. **Prospektivität:** Recht soll Verhalten für die Zukunft lenken. Rückwirkung braucht besondere Rechtfertigung und Vertrauensschutzprüfung.
+4. **Klarheit:** Adressaten müssen erkennen können, was verlangt, verboten, erlaubt oder riskiert wird.
+5. **Widerspruchsfreiheit:** Normen und Behördenpraxis dürfen keine unauflösbaren Doppelbindungen erzeugen.
+6. **Erfüllbarkeit:** Niemand darf rechtlich auf etwas verpflichtet werden, das tatsächlich oder rechtlich unmöglich ist.
+7. **Stabilität:** Häufige Richtungswechsel zerstören Orientierung; Änderungen brauchen Übergangslogik.
+8. **Kongruenz:** Amts- und Gerichtspraxis müssen zu den angekündigten Regeln passen. Eine schöne Norm nützt wenig, wenn sie praktisch anders vollzogen wird.
+
+## Arbeitsprogramm
+
+1. Formuliere den behaupteten Rechtsmaßstab in einem Satz.
+2. Prüfe die acht Legalitätssteine und markiere Bruchstellen.
+3. Trenne bloße Unschärfe von rechtsstaatlich gefährlicher Unberechenbarkeit.
+4. Bestimme, welche Institution den Mangel beheben kann: Gesetzgeber, Verwaltung, Gericht, Satzungsgeber, Vertragsparteien oder interne Governance.
+5. Gib eine kurze Reparaturformel aus: Klarstellung, Übergangsregel, Begründung, Veröffentlichung, Härtefallmechanismus, Rechtsschutz.
+
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
+- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
+- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
+- `§ 133 BGB` — Auslegung von Willenserklaerungen.
+- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
+- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
+- `§ 1 StGB` — Bestimmtheit im Strafrecht.
+- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
+- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Quellen- und Zitierdisziplin
+
+- Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
+- Theoretische Begriffe sind Arbeitswerkzeuge, keine Autoritätsbeweise.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
+
+---
+
+## Skill: `v392-lesefreude-rechtstheorie-rechtsphilosophie`
+
+_Wenn es um Lesefreude Rechtstheorie und Rechtsphilosophie in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# Lesefreude Rechtstheorie und Rechtsphilosophie
+
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: keine prozessualen Fristen — Argumentationslast hingegen verfahrenslogisch (Begründungsdichte, Subsumtionsspielraum, Auslegungsmethoden).
-- Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+1. Begriff oder Institut knapp erklären.
+2. Historischen Kontext darstellen.
+3. Eine anschauliche Fallvignette bilden.
+4. Dogmatische Funktion benennen.
+5. Rezeptionslinie und heutige Grenze sauber trennen.
+6. Mit einer Merksatz-Synopse schließen.
 
-**Fokus:** Prüft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnungsmacht: realistische Aufgabenanalyse ohne Preisgabe von Grundrechten, Gesetzesbindung und Rechtsschutz.
+---
 
-### Daseinsvorsorge und Verwaltungsrealismus
+## Skill: `daseinsvorsorge-verwaltungsrealismus`
 
-## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Daseinsvorsorge und Verwaltungsrealismus` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
-- **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
-- **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.
-- **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+_Wenn es um Daseinsvorsorge und Verwaltungsrealismus in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Daseinsvorsorge und Verwaltungsrealismus
+
+## Fachlicher Anker
+
+- **Normen:** die einschlägigen Normen dieses Sachgebiets.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Daseinsvorsorge und Verwaltungsrealismus
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
@@ -302,15 +541,6 @@ Verwaltungsrealismus ist nützlich, solange er Wirklichkeit in Recht übersetzt.
 - Plattform- oder Datenzugang im öffentlichen Auftrag;
 - Krisenbeschaffung und Notfallverwaltung.
 
----
-
-## Skill: `kelsen-demokratie-verfahren-minderheitenschutz`
-
-_Prüft Demokratie als Verfahren: Mehrheitsentscheidung, Minderheitenschutz, Normbindung, institutionelle Rollen, Rechtsschutz und die Grenze plebiszitaerer oder autoritaerer Direktlegitimation: Prüft Demokratie als Verfahren: Mehrheitsentscheidung, Minder..._
-
-# Prüft Demokratie als Verfahren: Mehrheitsentscheidung, Minderheitenschutz, Normbindung, institutionelle Rollen, Rechtsschutz und die Grenze plebiszitaerer oder autoritaerer Direktlegitimation.
-
-
 ## Regelungs- und Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -327,429 +557,12 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 47 GRCh` — wirksamer Rechtsbehelf.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: keine prozessualen Fristen — Argumentationslast hingegen verfahrenslogisch (Begründungsdichte, Subsumtionsspielraum, Auslegungsmethoden).
-- Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Prüft Demokratie als Verfahren: Mehrheitsentscheidung, Minderheitenschutz, Normbindung, institutionelle Rollen, Rechtsschutz und die Grenze plebiszitaerer oder autoritaerer Direktlegitimation.
-
-### Demokratie als Verfahren und Minderheitenschutz
-
-## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Demokratie als Verfahren und Minderheitenschutz` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
-- **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
-- **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.
-- **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Fachkern: Demokratie als Verfahren und Minderheitenschutz
-- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
-- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Sofort klären
-
-1. Wer entscheidet: Parlament, Regierung, Verwaltung, Gericht, Verband, Partei, Unternehmen oder Volk unmittelbar?
-2. Welche demokratische Legitimation wird behauptet: Wahl, Gesetz, Satzung, Delegation, Beteiligung, Sachnähe oder bloße Zustimmung?
-3. Welche Minderheit oder Außenseite wird belastet?
-4. Gibt es effektiven Rechtsschutz oder bleibt nur politischer Druck?
-
-## Prüfprogramm
-
-1. **Verfahrensquelle:** Woher kommt die Entscheidungskompetenz?
-2. **Teilhabegleichheit:** Wer durfte mitwirken, wer wurde ausgeschlossen?
-3. **Mehrheit:** War die Mehrheit nach der geltenden Ordnung zustande gekommen?
-4. **Minderheitenschutz:** Welche Rechte dürfen auch eine Mehrheit nicht aufheben?
-5. **Kontrolle:** Gibt es gerichtliche, parlamentarische oder interne Kontrolle?
-6. **Reversibilität:** Kann die Entscheidung später rechtmäßig geändert werden oder verfestigt sie Macht?
-
-## Kelsen-orientierte Leitplanken
-
-- Demokratie ist kein Freibrief der aktuellen Mehrheit, sondern eine geregelte Methode politischer Willensbildung.
-- Minderheitenschutz ist nicht undemokratisch; er hält die Möglichkeit offen, dass Minderheiten morgen Mehrheit werden.
-- Wer `Volk`, `Wille`, `Einheit` oder `Notwendigkeit` sagt, muss zeigen, welches konkrete Verfahren diese Behauptung rechtlich trägt.
-- Gerichte sind nicht `undemokratisch`, nur weil sie Mehrheiten begrenzen. Sie müssen aber ihre Rolle aus Norm, Kompetenz und Begründung ableiten.
-
-## Liberalismus-Demokratie-Spannung
-
-Prüfe zusätzlich, ob ein Argument Demokratie aus Angst vor falscher Gesetzgebung so stark einhegt, dass demokratische Selbstgesetzgebung praktisch leerläuft. Rule-of-Law-Skepsis gegenüber Macht ist wichtig; sie wird aber schief, wenn jede soziale, wirtschaftliche oder regulatorische Gesetzgebung vorschnell als Weg in Unfreiheit behandelt wird.
-
-Arbeitsfragen:
-
-1. Welche Freiheit soll gegen demokratische Gesetzgebung geschützt werden?
-2. Ist die Begrenzung im geltenden Verfassungsrecht verankert oder nur ordnungspolitisches Misstrauen?
-3. Gibt es externe Effekte, Machtasymmetrien oder Informationsprobleme, die Gesetzgebung rechtfertigen?
-4. Kann die Regelung als allgemeiner Rahmen ausgestaltet werden, ohne private Praxis zentralistisch zu planen?
-5. Bleiben Opposition, Minderheiten, Eigentum, Berufsfreiheit, Gleichheit und Rechtsschutz gesichert?
-
-## Warnsignale
-
-- `Das Volk will das` ohne Verfahren.
-- `Die Krise erlaubt alles` ohne Notstandsregime.
-- `Die Gerichte stören nur` ohne Auseinandersetzung mit Rechtsschutzgarantien.
-- `Opposition ist Sabotage` als Ersatz für rechtliche Argumente.
-- `Demokratische Gesetzgebung führt zwangsläufig in Planwirtschaft` ohne konkrete Macht-, Eingriffs- und Verhältnismäßigkeitsprüfung.
-
----
-
-## Skill: `regeln-tacit-knowledge-und-kognitive-entlastung`
-
-_Prüft Regeln als gespeichertes Erfahrungswissen: tacit knowledge, kognitive Entlastung, Regel-vs-Standard-Wahl, rationale Traegheit, Ausnahmebedarf und Gefahr blinder Routine: Prüft Regeln als gespeichertes Erfahrungswissen: tacit knowledge, kognitive En..._
-
-# Prüft Regeln als gespeichertes Erfahrungswissen: tacit knowledge, kognitive Entlastung, Regel-vs-Standard-Wahl, rationale Traegheit, Ausnahmebedarf und Gefahr blinder Routine.
-
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
-- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
-- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
-- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
-- `§ 133 BGB` — Auslegung von Willenserklaerungen.
-- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
-- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
-- `§ 1 StGB` — Bestimmtheit im Strafrecht.
-- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
-- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: keine prozessualen Fristen — Argumentationslast hingegen verfahrenslogisch (Begründungsdichte, Subsumtionsspielraum, Auslegungsmethoden).
-- Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Prüft Regeln als gespeichertes Erfahrungswissen: tacit knowledge, kognitive Entlastung, Regel-vs-Standard-Wahl, rationale Traegheit, Ausnahmebedarf und Gefahr blinder Routine.
-
-### Regeln, stilles Wissen und kognitive Entlastung
-
-## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Regeln, stilles Wissen und kognitive Entlastung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
-- **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
-- **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.
-- **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Fachkern: Regeln, stilles Wissen und kognitive Entlastung
-- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
-- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Sofort klären
-
-1. Welche Regel oder Routine wird angewendet?
-2. Welches Erfahrungswissen könnte in ihr stecken?
-3. Muss die Anwenderin den Zweck jedes Mal neu verstehen oder reicht ein einfacher Trigger?
-4. Gibt es Konstellationen, in denen blinde Regelbefolgung schädlich wird?
-
-## Prüfprogramm
-
-1. **Regelzweck rekonstruieren:** Was soll die Regel vermeiden, vereinfachen oder sichern?
-2. **Wissensspeicher:** Welche Erfahrung steckt in der Regel: Unfallvermeidung, Marktbrauch, Beweisvereinfachung, Gleichbehandlung, Transaktionskosten, Datenschutz, Fristenklarheit?
-3. **Trigger:** Welche wenigen Tatsachen lösen die Regel aus?
-4. **Standard-Alternative:** Wäre ein offener Standard gerechter, aber teurer?
-5. **Ausnahmebedarf:** Gibt es atypische Fälle, in denen die Regel ihren Zweck verfehlt?
-6. **Blindheitsrisiko:** Ist der ursprüngliche Grund der Regel entfallen, unbekannt oder falsch geworden?
-
-## Regel-vs-Standard-Check
-
-- **Regel:** gut bei hoher Wiederholung, niedriger Toleranz für Streit, klaren Tatsachen, hohem Bedürfnis nach Vorhersehbarkeit.
-- **Standard:** gut bei vielfältigen Fallgestaltungen, hohem Einzelfallgerechtigkeitsbedarf, schwer vorhersehbaren Risiken.
-- **Hybrid:** Regel mit Ausnahmeklausel, Vermutung, Safe Harbor, Audit, Berichtspflicht oder Nachsteuerung.
-
-## Leitgedanke
-
-Regelbindung kann rational sein, auch wenn die Anwenderin den vollen Grund der Regel nicht kennt. Das ist keine Kapitulation vor Denken, sondern kognitive Ökonomie. Gefährlich wird es, wenn die Regel gegen neue Tatsachen immunisiert wird oder als Autoritätsersatz dient.
-
----
-
-## Skill: `technokratie-industriegesellschaft-und-grundrechte`
-
-_Prüft Technik-, Industrie- und Infrastrukturargumente: Regulierung, Sachzwang, Expertenwissen, Risiko, Grundrechte, demokratische Kontrolle und die Grenze technokratischer Rechtsbegruendung: Prüft Technik-, Industrie- und Infrastrukturargumente: Regulier..._
-
-# Prüft Technik-, Industrie- und Infrastrukturargumente: Regulierung, Sachzwang, Expertenwissen, Risiko, Grundrechte, demokratische Kontrolle und die Grenze technokratischer Rechtsbegruendung.
-
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
-- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
-- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
-- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
-- `§ 133 BGB` — Auslegung von Willenserklaerungen.
-- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
-- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
-- `§ 1 StGB` — Bestimmtheit im Strafrecht.
-- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
-- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: keine prozessualen Fristen — Argumentationslast hingegen verfahrenslogisch (Begründungsdichte, Subsumtionsspielraum, Auslegungsmethoden).
-- Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Prüft Technik-, Industrie- und Infrastrukturargumente: Regulierung, Sachzwang, Expertenwissen, Risiko, Grundrechte, demokratische Kontrolle und die Grenze technokratischer Rechtsbegruendung.
-
-### Technokratie, Industriegesellschaft und Grundrechte
-
-## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Technokratie, Industriegesellschaft und Grundrechte` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
-- **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
-- **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.
-- **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Fachkern: Technokratie, Industriegesellschaft und Grundrechte
-- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
-- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Sofort klären
-
-1. Welcher technische Sachverhalt wird behauptet?
-2. Ist er belegt, plausibel, umstritten oder bloße Managementbehauptung?
-3. Welche Rechtsfolge soll daraus folgen?
-4. Welche Grundrechte, Haftungsrisiken oder demokratischen Kontrollfragen entstehen?
-
-## Prüfprogramm
-
-1. **Technikbefund:** Fakten, Unsicherheiten, Standards, Gutachten, Daten.
-2. **Regulierungsziel:** Sicherheit, Versorgung, Innovation, Wettbewerb, Datenschutz, Nachhaltigkeit, Resilienz.
-3. **Normbindung:** Welche Norm erlaubt die Maßnahme?
-4. **Sachzwang-Test:** Ist die behauptete Alternativlosigkeit echt oder nur bequem?
-5. **Grundrechts-Check:** Freiheit, Eigentum, Beruf, Gleichheit, Datenschutz, körperliche Unversehrtheit, Rechtsschutz.
-6. **Kontroll-Design:** Transparenz, Audit, unabhängige Expertise, Dokumentation, Befristung, Nachsteuerung.
-
-## Anti-Technokratie-Regeln
-
-- Expertinnen und Experten erklären Tatsachen und Risiken, ersetzen aber nicht demokratische Entscheidung.
-- Technische Komplexität senkt nicht die Begründungslast.
-- Standards sind wichtig, aber ihre Rechtswirkung muss gesondert geprüft werden.
-- `Safety`, `Security`, `Resilienz` und `Effizienz` sind Ziele, keine automatischen Eingriffsermächtigungen.
-
----
-
-## Skill: `besitzdogmatik-historische-schule-und-systemdenken`
-
-_Prüft Besitzdogmatik als Testfeld für historische Schule, Systemdenken, formale Rationalitaet, Begriffsdeduktion, Professorenrecht und die Grenze zwischen Tradition, Dogmatik und praktischer Fallloesung: Prüft Besitzdogmatik als Testfeld für historische..._
-
-# Prüft Besitzdogmatik als Testfeld für historische Schule, Systemdenken, formale Rationalitaet, Begriffsdeduktion, Professorenrecht und die Grenze zwischen Tradition, Dogmatik und praktischer Fallloesung.
-
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
-- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
-- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
-- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
-- `§ 133 BGB` — Auslegung von Willenserklaerungen.
-- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
-- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
-- `§ 1 StGB` — Bestimmtheit im Strafrecht.
-- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
-- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: keine prozessualen Fristen — Argumentationslast hingegen verfahrenslogisch (Begründungsdichte, Subsumtionsspielraum, Auslegungsmethoden).
-- Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Prüft Besitzdogmatik als Testfeld für historische Schule, Systemdenken, formale Rationalitaet, Begriffsdeduktion, Professorenrecht und die Grenze zwischen Tradition, Dogmatik und praktischer Fallloesung.
-
-### Besitzdogmatik, historische Schule und Systemdenken
-
-## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Besitzdogmatik, historische Schule und Systemdenken` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
-- **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
-- **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.
-- **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Fachkern: Besitzdogmatik, historische Schule und Systemdenken
-- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
-- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Sofort klären
-
-1. Geht es um Besitz, Eigentum, Herausgabe, verbotene Eigenmacht, Fund, Verwahrung, Ersitzung, Grenze, Zubehör, Teil eines Ganzen oder faktische Sachherrschaft?
-2. Welche dogmatische Figur wird verwendet: Sachherrschaft, Besitzwille, Besitzdiener, mittelbarer Besitz, Mitbesitz, Besitzschutz, Besitzkonstitut?
-3. Ist die Figur im geltenden Recht verankert oder nur historisch plausibel?
-4. Welche praktische Funktion soll sie erfüllen: Beweisvereinfachung, Friedensschutz, Verkehrsschutz, Investitionsschutz, Ressourcenzuordnung?
-
-## Prüfprogramm
-
-1. **Dogmatischen Kern isolieren:** Welche Begriffe entscheiden den Fall?
-2. **Historische Herkunft nur als Material nutzen:** Tradition erklärt, warum eine Figur so aussieht, ersetzt aber nicht die geltende Norm.
-3. **Systemfrage stellen:** Passt das Ergebnis zu Besitzschutz, Eigentumsschutz, Deliktsrecht, Bereicherungsrecht und Verjährung?
-4. **Grenzfall testen:** Schlüssel, Lager, versteckte Sache, Tier, Teil einer Sache, Miteigentum, Mitbesitz, fremdnützige Verwahrung.
-5. **Funktion prüfen:** Welches soziale Problem löst die Regel wirklich?
-6. **Deduktionsfalle markieren:** Wird aus einem schönen Begriff mehr herausgelesen, als das geltende Recht trägt?
-
-## Leitgedanke
-
-Historische Dogmatik kann Ordnung, Sprache und Vergleichsmaterial liefern. Sie wird problematisch, wenn sie so tut, als könne man moderne Fälle rein aus einem ursprünglichen Prinzip lösen. Gute Rechtsanwendung braucht beides: systematische Disziplin und Sinn für praktische Fallgruppen.
-
----
-
-## Skill: `wissensproblem-dezentrale-information-und-recht`
-
-_Prüft das Wissensproblem im Recht: dezentrale Information, lokale Praxis, Preissignale, Verwaltungskapazitaet, Gesetzgebung, Gerichte und die Grenze zentraler Planung ohne Anti-Gestaltungsdogma: Prüft das Wissensproblem im Recht: dezentrale Information,..._
-
-# Prüft das Wissensproblem im Recht: dezentrale Information, lokale Praxis, Preissignale, Verwaltungskapazitaet, Gesetzgebung, Gerichte und die Grenze zentraler Planung ohne Anti-Gestaltungsdogma.
-
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
-- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
-- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
-- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
-- `§ 133 BGB` — Auslegung von Willenserklaerungen.
-- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
-- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
-- `§ 1 StGB` — Bestimmtheit im Strafrecht.
-- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
-- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: keine prozessualen Fristen — Argumentationslast hingegen verfahrenslogisch (Begründungsdichte, Subsumtionsspielraum, Auslegungsmethoden).
-- Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Prüft das Wissensproblem im Recht: dezentrale Information, lokale Praxis, Preissignale, Verwaltungskapazitaet, Gesetzgebung, Gerichte und die Grenze zentraler Planung ohne Anti-Gestaltungsdogma.
-
-### Wissensproblem, dezentrale Information und Recht
-
-## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Wissensproblem, dezentrale Information und Recht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
-- **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
-- **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.
-- **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Fachkern: Wissensproblem, dezentrale Information und Recht
-- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
-- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Sofort klären
-
-1. Wer besitzt die entscheidenden Informationen: Marktteilnehmer, Verwaltung, Gericht, Sachverständige, Betroffene, Verbände, Plattformen, Unternehmen?
-2. Sind die Informationen kodifiziert, statistisch messbar, lokal-praktisch, stillschweigend, preisförmig oder nur durch Erfahrung zugänglich?
-3. Soll die Rechtsordnung zentral planen, allgemein rahmen, dezentral beobachten, experimentieren oder nachträglich korrigieren?
-4. Welche Freiheit, Gleichheit, Sicherheit oder Drittschäden stehen auf dem Spiel?
-
-## Prüfprogramm
-
-1. **Informationskarte:** Liste auf, welche Informationen für eine gute Regel nötig wären.
-2. **Verteilungsanalyse:** Ordne jede Information der Stelle zu, die sie am besten kennt.
-3. **Kommunizierbarkeit:** Prüfe, ob die Information als Datenpunkt, Gutachten, Preis, Branchenstandard, Erfahrungswissen oder gar nicht sauber übertragbar ist.
-4. **Regelungsmodus:** Wähle zwischen harter Regel, Standard, Vermutung, Experimentierklausel, Berichtspflicht, Audit, Haftung, Marktmechanismus oder gerichtlicher Einzelfallkontrolle.
-5. **Fehlerkosten:** Was passiert bei Überregulierung, Unterregulierung, falscher Standardisierung oder Informationsasymmetrie?
-6. **Kontrolle:** Wer kann nachsteuern, wenn sich Wissen verändert?
-
-## Leitgedanke
-
-Das Wissensproblem ist ein starkes Argument gegen allzu selbstgewisse zentrale Detailsteuerung. Es ist aber kein Argument gegen Rechtsetzung überhaupt. Gerade weil Wissen verteilt ist, braucht Recht oft Verfahren, Transparenz, Haftung, Standards, Rückmeldeschleifen und gute Korrekturmechanismen.
-
-## Warnsignale
-
-- `Der Gesetzgeber kann das alles vorab wissen.`
-- `Der Markt weiß es immer besser.`
-- `Die Behörde hat die Daten, also hat sie auch das Wissen.`
-- `Die Branche macht das so, also ist es richtig.`
-- `Komplexität verbietet Regulierung.`
-
----
-
-## Skill: `kelsen-stufenbau-gueltigkeit-und-methodendisziplin`
-
-_Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von Normgeltung, Moral, Politik, Kompetenz, Verfahren und Rechtsschutz: Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von Normgeltung, Moral, Politik, Kompetenz, Verfahren und Rechtsschutz._
-
-# Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von Normgeltung, Moral, Politik, Kompetenz, Verfahren und Rechtsschutz.
-
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
-- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
-- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
-- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
-- `§ 133 BGB` — Auslegung von Willenserklaerungen.
-- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
-- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
-- `§ 1 StGB` — Bestimmtheit im Strafrecht.
-- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
-- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: keine prozessualen Fristen — Argumentationslast hingegen verfahrenslogisch (Begründungsdichte, Subsumtionsspielraum, Auslegungsmethoden).
-- Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von Normgeltung, Moral, Politik, Kompetenz, Verfahren und Rechtsschutz.
-
-### Kelsen: Stufenbau, Geltung, Kompetenz und Methodendisziplin
-
-## Leitidee
-Kelsen zwingt die juristische Arbeit zur Disziplin: Eine Aussage ist nicht schon Recht, weil sie sinnvoll, moralisch oder praktisch wirkt. Sie braucht eine Quelle, eine Kompetenz, ein Verfahren und einen Platz im Normengefüge.
-
-## Prüfschritte
-1. **Normtyp:** Verfassung, EU-Recht, Gesetz, Verordnung, Satzung, Verwaltungsakt, Vertrag, Urteil, Soft Law.
-2. **Kompetenzkette:** Wer durfte das setzen und in welchem Verfahren?
-3. **Rang und Konflikt:** Lex superior, lex specialis, lex posterior, unionsrechtlicher Anwendungsvorrang, Grundrechtsbindung.
-4. **Geltung vs. Bewertung:** Ist die Norm gültig, anwendbar, nichtig, unanwendbar oder nur moralisch/politisch problematisch?
-5. **Rechtsschutz:** Welcher Weg kontrolliert sie, wer ist antragsbefugt, welche Frist gilt?
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

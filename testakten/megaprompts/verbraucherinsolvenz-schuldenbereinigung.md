@@ -1,134 +1,29 @@
-# Megaprompt: verbraucherinsolvenz-schuldenbereinigung
+# Vollprüfung: verbraucherinsolvenz-schuldenbereinigung
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 69 Skills des Plugins `verbraucherinsolvenz-schuldenbereinigung`.
+Dieser Vollprüfung enthaelt top-10 von 69 Skills des Plugins `verbraucherinsolvenz-schuldenbereinigung`.
 
 ## Inhaltsverzeichnis
 
-1. **unterlagen-und-schuldeninventar** — Unterlagen- und Schuldeninventar: Gläubiger, Forderungsgrund, Titel, Inkasso, Vollstreckung, Sicherheiten und bestritten…
-2. **kaltstart-schuldenbild-glaeubiger-sofortschutz** — Kaltstart Verbraucherinsolvenz: Schuldenbild, Einkommen, Unterhalt, Wohnung, Selbstständigkeit, Gläubigerliste, Beratung…
-3. **red-team-antrag** — Red-Team des Verbraucherinsolvenzantrags: Lücken, falsche Gläubigeradresse, § 302-Risiko, fehlender RSB-Antrag.; Normank…
-4. **red-team-obliegenheiten** — Red-Team der Wohlverhaltensphase: Umzug, Job, Erbschaft, Sonderzahlung, neue Schulden und Informationspflicht.; Normanke…
-5. **red-team-plan** — Red-Team des Schuldenbereinigungsplans: unrealistische Quote, vergessene Forderung, falsche Mehrheit, Formfehler.; Norma…
-6. **verbraucher-oder-regelinsolvenz** — Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbe…
-7. **verbraucherinsolvenz-versagungsgruende** — Verbraucherinsolvenz: Versagungsgruende: Skill behandelt § 290 InsO Versagung der Restschuldbefreiung Tatbestaende Straf…
-8. **verbraucherinsolvenz-treuhaender-rolle** — Verbraucherinsolvenz: Rolle des Treuhaenders: Skill behandelt die Aufgaben des Treuhaenders in der Wohlverhaltensphase V…
-9. **verbraucherinsolvenz-3-jahres-restschuldbefreiung** — Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung: Skill behandelt die seit 01.10.2020 geltende verkuerzte Frist auf dr…
-10. **verbraucherinsolvenz-pfaendungsschutzkonto** — Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto: Skill klaert die rechtliche Konstruktion des Pfaendungsschutzkontos…
+1. **vorzeitige-restschuldbefreiung** — Wenn es um Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing. in Verbraucherinsolvenz un…
+2. **rechtsprechungsradar-nachtragsverteilung-schufa-neustart** — Wenn es um Rechtsprechungsradar: Nachtragsverteilung, SCHUFA und Neustart in Verbraucherinsolvenz und Schuldenbereinigun…
+3. **verbraucherinsolvenz-aussergerichtl-schuldenbereinigung** — Wenn es um Aussergerichtlicher Schuldenbereinigungsplan nach Paragrafen 305 InsO in Verbraucherinsolvenz und Schuldenber…
+4. **verbraucherinsolvenz-belegchaos-strukturieren** — Wenn es um Schuldnerberatungsstelle: Strukturierung des Belegchaos in Verbraucherinsolvenz und Schuldenbereinigung geht:…
+5. **verbraucherinsolvenz-pfaendungsschutzkonto** — Wenn es um Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto in Verbraucherinsolvenz und Schuldenbereinigung geht: ers…
+6. **verbraucherinsolvenz-nachtraegliche-glaeubiger** — Wenn es um Verbraucherinsolvenz: Nachtraegliche Gläubiger nach Restschuldbefreiung in Verbraucherinsolvenz und Schuldenb…
+7. **planablehnung-und-naechster-schritt** — Wenn es um Planablehnung Und Naechster Schritt in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passen…
+8. **formularcheck-insolvenzantrag** — Wenn es um Formularcheck Insolvenzantrag in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden En…
+9. **kaltstart-schuldenbild-glaeubiger-sofortschutz** — Wenn es um Kaltstart Schuldenbild Glaeubiger Sofortschutz in Verbraucherinsolvenz und Schuldenbereinigung geht: klärt Ro…
+10. **verbraucherinsolvenz-unterhalt-und-insolvenz** — Wenn es um Verbraucherinsolvenz und eheliche Unterhaltspflicht in Verbraucherinsolvenz und Schuldenbereinigung geht: prü…
 
 ---
 
-## Skill: `unterlagen-und-schuldeninventar`
+## Skill: `vorzeitige-restschuldbefreiung`
 
-_Unterlagen- und Schuldeninventar: Gläubiger, Forderungsgrund, Titel, Inkasso, Vollstreckung, Sicherheiten und bestrittene Forderungen beweisfest erfassen.; Normanker: InsO § 305 Abs. 1; InsO §§ 174 ff.; ZPO Vollstreckungstitel; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textb..._
+_Wenn es um Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing. in Verbraucherinsolvenz und Schuldenbereinigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Unterlagen- und Schuldeninventar: Gläubiger, Forderungsgrund, Titel, Inkasso, Vollstreckung, Sicherheiten und bestrittene Forderungen beweisfest erfassen.
-
-## Fachkern: Unterlagen- und Schuldeninventar: Gläubiger, Forderungsgrund, Titel, Inkasso, Vollstreckung, Sicherheiten und bestrittene Forderungen beweisfest erfassen.
-- **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
-- **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Auftrag
-
-Dieser Skill arbeitet. Er soll Laien, Schuldnerberatung, Anwältinnen und Angehörigen helfen, eine echte Akte sauber zu ordnen, ohne falsche Versprechen zu machen. Er fragt zuerst nach Tatsachen und Unterlagen, dann nach dem passenden Verfahrensweg.
-
-## Norm- und Praxisanker
-
-InsO § 305 Abs. 1; InsO §§ 174 ff.; ZPO Vollstreckungstitel. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche Praxis. Wenn eine Frist, ein Formular oder ein Pfändungsbetrag tragend ist, muss live geprüft werden.
-
----
-
-## Skill: `kaltstart-schuldenbild-glaeubiger-sofortschutz`
-
-_Kaltstart Verbraucherinsolvenz: Schuldenbild, Einkommen, Unterhalt, Wohnung, Selbstständigkeit, Gläubigerliste, Beratungsstelle und Sofortschutz sortieren.; Normanker: InsO §§ 304-314 und 286-303; ZPO §§ 850 ff.; SGB-Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und..._
-
-# Kaltstart Verbraucherinsolvenz: Schuldenbild, Einkommen, Unterhalt, Wohnung, Selbstständigkeit, Gläubigerliste, Beratungsstelle und Sofortschutz sortieren.
-
-## Fachkern: Kaltstart Verbraucherinsolvenz: Schuldenbild, Einkommen, Unterhalt, Wohnung, Selbstständigkeit, Gläubigerliste, Beratungsstelle und Sofortschutz sortieren.
-- **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
-- **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Auftrag
-
-Dieser Skill arbeitet. Er soll Laien, Schuldnerberatung, Anwältinnen und Angehörigen helfen, eine echte Akte sauber zu ordnen, ohne falsche Versprechen zu machen. Er fragt zuerst nach Tatsachen und Unterlagen, dann nach dem passenden Verfahrensweg.
-
-## Norm- und Praxisanker
-
-InsO §§ 304-314, 286-303; ZPO §§ 850 ff.; SGB-Schnittstellen. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche Praxis. Wenn eine Frist, ein Formular oder ein Pfändungsbetrag tragend ist, muss live geprüft werden.
-
----
-
-## Skill: `red-team-antrag`
-
-_Red-Team des Verbraucherinsolvenzantrags: Lücken, falsche Gläubigeradresse, § 302-Risiko, fehlender RSB-Antrag.; Normanker: InsO §§ 305 und 287 und 290 und 302; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung._
-
-# Red-Team des Verbraucherinsolvenzantrags: Lücken, falsche Gläubigeradresse, § 302-Risiko, fehlender RSB-Antrag.
-
-## Fachkern: Red-Team des Verbraucherinsolvenzantrags: Lücken, falsche Gläubigeradresse, § 302-Risiko, fehlender RSB-Antrag.
-- **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
-- **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Auftrag
-
-Dieser Skill arbeitet. Er soll Laien, Schuldnerberatung, Anwältinnen und Angehörigen helfen, eine echte Akte sauber zu ordnen, ohne falsche Versprechen zu machen. Er fragt zuerst nach Tatsachen und Unterlagen, dann nach dem passenden Verfahrensweg.
-
-## Norm- und Praxisanker
-
-InsO §§ 305, 287, 290, 302. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche Praxis. Wenn eine Frist, ein Formular oder ein Pfändungsbetrag tragend ist, muss live geprüft werden.
-
----
-
-## Skill: `red-team-obliegenheiten`
-
-_Red-Team der Wohlverhaltensphase: Umzug, Job, Erbschaft, Sonderzahlung, neue Schulden und Informationspflicht.; Normanker: InsO §§ 295 und 296 und 297a; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung._
-
-# Red-Team der Wohlverhaltensphase: Umzug, Job, Erbschaft, Sonderzahlung, neue Schulden und Informationspflicht.
-
-## Fachkern: Red-Team der Wohlverhaltensphase: Umzug, Job, Erbschaft, Sonderzahlung, neue Schulden und Informationspflicht.
-- **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
-- **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Auftrag
-
-Dieser Skill arbeitet. Er soll Laien, Schuldnerberatung, Anwältinnen und Angehörigen helfen, eine echte Akte sauber zu ordnen, ohne falsche Versprechen zu machen. Er fragt zuerst nach Tatsachen und Unterlagen, dann nach dem passenden Verfahrensweg.
-
-## Norm- und Praxisanker
-
-InsO §§ 295, 296, 297a. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche Praxis. Wenn eine Frist, ein Formular oder ein Pfändungsbetrag tragend ist, muss live geprüft werden.
-
----
-
-## Skill: `red-team-plan`
-
-_Red-Team des Schuldenbereinigungsplans: unrealistische Quote, vergessene Forderung, falsche Mehrheit, Formfehler.; Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung._
-
-# Red-Team des Schuldenbereinigungsplans: unrealistische Quote, vergessene Forderung, falsche Mehrheit, Formfehler.
-
-## Fachkern: Red-Team des Schuldenbereinigungsplans: unrealistische Quote, vergessene Forderung, falsche Mehrheit, Formfehler.
-- **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
-- **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Auftrag
-
-Dieser Skill arbeitet. Er soll Laien, Schuldnerberatung, Anwältinnen und Angehörigen helfen, eine echte Akte sauber zu ordnen, ohne falsche Versprechen zu machen. Er fragt zuerst nach Tatsachen und Unterlagen, dann nach dem passenden Verfahrensweg.
-
-## Norm- und Praxisanker
-
-InsO §§ 305, 307-309. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche Praxis. Wenn eine Frist, ein Formular oder ein Pfändungsbetrag tragend ist, muss live geprüft werden.
-
----
-
-## Skill: `verbraucher-oder-regelinsolvenz`
-
-_Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit: Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, üb..._
-
-# Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.
+# Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing.
 
 
 ## Arbeitsweg
@@ -139,9 +34,9 @@ _Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige,
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.; Normanker: InsO § 304; § 15a InsO als Altlast; Forderungsstruktur; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing.; Normanker: InsO § 300; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-## Fachkern: Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.
+## Fachkern: Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -152,15 +47,65 @@ Dieser Skill arbeitet. Er soll Laien, Schuldnerberatung, Anwältinnen und Angeh�
 
 ## Norm- und Praxisanker
 
-InsO § 304; § 15a InsO als Altlast; Forderungsstruktur. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche Praxis. Wenn eine Frist, ein Formular oder ein Pfändungsbetrag tragend ist, muss live geprüft werden.
+InsO § 300. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche Praxis. Wenn eine Frist, ein Formular oder ein Pfändungsbetrag tragend ist, muss live geprüft werden.
 
 ---
 
-## Skill: `verbraucherinsolvenz-versagungsgruende`
+## Skill: `rechtsprechungsradar-nachtragsverteilung-schufa-neustart`
 
-_Verbraucherinsolvenz: Versagungsgruende: Skill behandelt § 290 InsO Versagung der Restschuldbefreiung Tatbestaende Strafurteile Vermögensverlagerung Verletzung Aufklaerungspflicht und Erwerbsobliegenheit. Verteidigu..._
+_Wenn es um Rechtsprechungsradar: Nachtragsverteilung, SCHUFA und Neustart in Verbraucherinsolvenz und Schuldenbereinigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Verbraucherinsolvenz: Versagungsgruende
+# Rechtsprechungsradar: Nachtragsverteilung, SCHUFA und Neustart
+
+## Wofür dieser Skill da ist
+
+Nutze diesen Skill, wenn nach Erteilung der Restschuldbefreiung noch Vermögenswerte, Steuererstattungen, Auskunftei-Einträge oder neue Vollstreckungsversuche auftauchen. Ziel ist kein abstrakter Literaturüberblick, sondern ein schneller Arbeitsplan: Was gehört noch zur Masse, was ist vom Schuldner neu zu organisieren, und welche Einträge blockieren den wirtschaftlichen Neustart?
+
+## Normenanker
+
+- InsO §§ 35, 36, 203, 286, 287, 290, 295, 300, 301, 302, 304, 305.
+- InsBekV § 3 zur Löschung öffentlicher Insolvenzbekanntmachungen.
+- ZPO §§ 850 ff., 850k, 882c, 882e, 882f.
+- DSGVO Art. 5 Abs. 1 lit. a, c, e; Art. 6 Abs. 1 lit. f; Art. 15, 17, 18, 21, 77, 79.
+- BDSG § 31 nur als nationalen Scoring-/Auskunftei-Anker prüfen; Vorrang und Vollharmonisierung der DSGVO beachten.
+
+## Verifizierte Entscheidungsanker
+
+- **BGH, Beschluss vom 26.09.2024 - IX ZB 5/24**: Restschuldbefreiung sperrt eine Nachtragsverteilung nicht, wenn der Gegenstand zur Insolvenzmasse gehört; bei Steuererstattungsansprüchen ist die Massezugehörigkeit eigenständig zu prüfen, nicht bloß über pfändbares Arbeitseinkommen.
+- **EuGH, Urteil vom 07.12.2023 - C-26/22 und C-64/22, SCHUFA Holding (Restschuldbefreiung)**: Auskunfteien dürfen Daten aus öffentlichen Insolvenzregistern nicht länger speichern als das öffentliche Register, wenn dadurch die Registerlöschung praktisch unterlaufen wird; Abwägung nach Art. 5 und Art. 6 DSGVO bleibt einzelfallbezogen.
+- **BGH, Urteil vom 18.12.2025 - I ZR 97/25**: Bei von Vertragspartnern gemeldeten Zahlungsstörungen folgt die längstmögliche Speicherdauer nicht automatisch aus der Löschfrist anderer Register; Art. 6 Abs. 1 lit. f DSGVO verlangt eine konkrete Interessenabwägung.
+
+## Prüfmatrix
+
+| Frage | Sofort prüfen | Typischer Output |
+| --- | --- | --- |
+| Nachträglich gefundener Anspruch? | Entstehungszeitpunkt, Rechtsgrund, Massebezug, Freigabe, Anzeige gegenüber Treuhänder/Insolvenzgericht | Nachtragsverteilungsnotiz mit Belegliste |
+| Steuererstattung? | Veranlagungszeitraum, Erstattungsgrund, Aufteilung vor/nach Verfahren, Pfändungsschutz nicht vorschnell übertragen | Schreiben an Treuhänder oder Schuldnerhinweis |
+| SCHUFA-/Auskunftei-Eintrag? | Quelle des Eintrags: Insolvenzbekanntmachung, Schuldnerverzeichnis, Vertragspartnermeldung, Score | Löschungs-/Einschränkungsantrag nach DSGVO |
+| Neustart blockiert? | Ablehnung Konto, Wohnung, Kredit, Mobilfunk; Kausalität des Eintrags dokumentieren | Beweisordner und Beschwerde an Aufsicht |
+
+## Fehlerbremse
+
+Nicht behaupten, jeder negative Auskunftei-Eintrag müsse sofort nach Zahlung oder Restschuldbefreiung verschwinden. Erst die Datenquelle bestimmen. Insolvenzregisterdaten, Schuldnerverzeichnisdaten und private Zahlungsausfallmeldungen folgen nicht automatisch derselben Speicherlogik.
+
+## Arbeitsprodukt
+
+Erstelle eine knappe Neustart-Akte mit:
+
+1. Zeitachse Insolvenzverfahren, Restschuldbefreiung, Registerlöschung, neue Zahlung oder neuer Anspruch.
+2. Tabelle `Datenquelle / Rechtsgrund / Speicherfrist / Einwand / Beleg`.
+3. Entscheidung: Antrag an Insolvenzgericht, Treuhänder-Schreiben, Auskunftei-Antrag, Aufsichtsbeschwerde oder Klagevorbereitung.
+4. Textbaustein in einfacher Sprache für Schuldnerberatung und Mandant.
+
+Rechtsprechung vor Versand noch einmal über offizielle oder frei zugängliche Quelle prüfen; keine BeckRS-/juris-Fundstelle als alleinigen Beleg verwenden.
+
+---
+
+## Skill: `verbraucherinsolvenz-aussergerichtl-schuldenbereinigung`
+
+_Wenn es um Aussergerichtlicher Schuldenbereinigungsplan nach Paragrafen 305 InsO in Verbraucherinsolvenz und Schuldenbereinigung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
+
+# Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO
 
 
 ## Arbeitsweg
@@ -171,188 +116,148 @@ _Verbraucherinsolvenz: Versagungsgruende: Skill behandelt § 290 InsO Versagung 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Verbraucherinsolvenz: Versagungsgruende. Skill behandelt § 290 InsO Versagung der Restschuldbefreiung Tatbestaende Strafurteile Vermögensverlagerung Verletzung Aufklaerungspflicht und Erwerbsobliegenheit. Verteidigungsstrategien. Liefert Prüfraster.
+**Fokus:** Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO. Skill leitet durch die Erstellung des ersten Vergleichsvorschlags von der Vermögens- und Schuldenliste über die Quotenberechnung bis zur formalen Vorlage an die Gläubiger. Behandelt Pflicht zur Beilage Bescheinigung der geeigneten Stelle / des geeigneten Beraters. Liefert Vorlagenstruktur und Prüfraster.
 
-### Verbraucherinsolvenz Versagungsgruende
+### Verbraucherinsolvenz Aussergerichtl Schuldenbereinigung
 
-## Fachkern: Verbraucherinsolvenz Versagungsgruende
+## Fachkern: Verbraucherinsolvenz Aussergerichtl Schuldenbereinigung
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Norm
 
-- § 290 InsO.
-
-## Tatbestaende
-
-### § 290 Abs. 1 Nr. 1 InsO
-- Strafurteil wegen § 283 ff. StGB Bankrott.
-
-### § 290 Abs. 1 Nr. 2 InsO
-- Verletzung Aufklaerungspflicht im Antrag.
-
-### § 290 Abs. 1 Nr. 3 InsO
-- Vermögensverschiebung in 10 Jahren vor Antrag.
-
-### § 290 Abs. 1 Nr. 4 InsO
-- Letzte 10 Jahre eine Restschuldbefreiung erteilt.
-
-### § 290 Abs. 1 Nr. 5 InsO
-- Verletzung Erwerbsobliegenheit.
-
-### § 290 Abs. 1 Nr. 6 InsO
-- Unrichtige oder unvollstaendige Vermögensaufstellung.
-
-## Verteidigungsstrategien
-
-- Prüfen des Tatbestands.
-- Verschulden des Schuldners?
-- Geringfuegigkeit (Bagatellgrenze in einzelnen Faellen).
-- Gläubiger-Stellungnahme einholen.
-
-## Prüfraster
-
-1. Welcher Tatbestand?
-2. Verschulden?
-3. Bagatelle?
-4. Verfahrensgang?
-
----
-
-## Skill: `verbraucherinsolvenz-treuhaender-rolle`
-
-_Verbraucherinsolvenz: Rolle des Treuhaenders: Skill behandelt die Aufgaben des Treuhaenders in der Wohlverhaltensphase Vermögensaufsicht Verteilung Forderungspruefung Gläubigerinformation. Verguetung und Koste..._
-
-# Verbraucherinsolvenz: Rolle des Treuhaenders
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: InsO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Verbraucherinsolvenz: Rolle des Treuhaenders. Skill behandelt die Aufgaben des Treuhaenders in der Wohlverhaltensphase Vermögensaufsicht Verteilung Forderungspruefung Gläubigerinformation. Vergütung und Kostenfragen. Liefert Prüfraster.
-
-### Verbraucherinsolvenz Treuhaender Rolle
-
-## Fachkern: Verbraucherinsolvenz Treuhaender Rolle
-- **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
-- **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Norm
-
-- §§ 292 ff. InsO Treuhaender.
-- § 293 InsO Bestellung.
-- § 295 InsO Aufgaben.
-
-## Aufgaben
-
-### Vermögensaufsicht
-- Empfang der monatlichen Abfuehrungen.
-- Prüfung auf Erfuellung der Mitwirkungspflichten.
-
-### Forderungspruefung
-- Anmeldung Prüfung.
-- Bestreitung bei zweifelhaften Forderungen.
-
-### Gläubigerinformation
-- Jahresberichte.
-- Schlussbericht.
-
-### Verteilung
-- Quotale Verteilung der Massen.
-
-## Vergütung
-
-- § 14 InsVV Insolvenzrechtsverguetungsverordnung.
-- Mindestverguetung 100 Euro/Jahr für Treuhaender in Verbraucherinsolvenz.
-
-## Prüfraster
-
-1. Treuhaenderaufgaben sauber abgegrenzt?
-2. Pflichtverletzungen?
-3. Vergütung angemessen?
-
----
-
-## Skill: `verbraucherinsolvenz-3-jahres-restschuldbefreiung`
-
-_Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung: Skill behandelt die seit 01.10.2020 geltende verkuerzte Frist auf drei Jahre Voraussetzungen Versagungsgruende Mitwirkungspflichten Verfahrensgang. Aktue..._
-
-# Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: InsO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung. Skill behandelt die seit 01.10.2020 geltende verkuerzte Frist auf drei Jahre Voraussetzungen Versagungsgruende Mitwirkungspflichten Verfahrensgang. Aktuelle Diskussion zur Folgen bei nachtraeglich auftauchenden Gläubigern. Liefert Prüfraster.
-
-### Verbraucherinsolvenz 3 Jahres Restschuldbefreiung
-
-## Fachkern: Verbraucherinsolvenz 3 Jahres Restschuldbefreiung
-- **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
-- **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Norm
-
-- § 287 Abs. 2 InsO (Frist 3 Jahre seit 01.10.2020).
-- Insolvenzrechtsreform-Gesetz vom 22.12.2020.
+- § 305 InsO (Insolvenzverordnung).
+- Schuldnerberatungsstellen-Recht der Länder.
 
 ## Voraussetzungen
 
-- Verbraucher- oder Regelinsolvenz.
-- Wohlverhaltensphase: Mitwirkungspflichten.
-- Keine Versagungsgruende (§ 290 InsO).
+- Schuldner ist Verbraucher (kein selbststaendiges Wirtschaftsleben).
+- Erfolglose aussergerichtliche Einigung nach § 305 Abs. 1 Nr. 1 InsO.
 
-## Wohlverhaltensphase
+## Erstellung des Vergleichsvorschlags
 
-### Pflichten
-- Erwerbsobliegenheit.
-- Abfuehrungspflicht (Pfaendungsbetrag).
-- Meldepflicht bei Wohnsitz-/Berufswechsel.
-- Auskunftspflicht.
-- Erbschaftspflicht (50 Prozent der Erbschaft).
-- Treuhaender informieren.
+### Schritt 1: Vermögens- und Schuldenliste
+- Gesamtschuldenstand mit Gläubigern, Hauptforderung, Kosten, Zinsen.
+- Verfuegbares Einkommen unter Beruecksichtigung der Pfaendungsfreigrenzen (§ 850c ZPO i.V.m. Pfaendungstabelle).
+- Verfuegbare Aktiva (Bankkonten, Pkw, Hausrat, ggf. Wohnung).
 
-### Verstoss
-- Versagungsgrund § 290 InsO.
-- Treuhaender beantragt Aufhebung.
+### Schritt 2: Quotenberechnung
+- Realistisch erfuellbare Quote.
+- Typische Spanne 0-30 Prozent.
+- Sondervorschriften für einzelne Gläubigertypen (z. B. Finanzamt nach AO).
 
-## Versagungsgruende § 290 InsO
+### Schritt 3: Vergleichsvorschlag
+- Form: Schriftlich.
+- Inhalt: Höhe der Quote, Zahlungsmodalitaet (Einmalzahlung, Monatsraten), Laufzeit (max. 6-Monate Plan), Restschuldbefreiung.
 
-- Verurteilung wegen § 283 ff. StGB Bankrottdelikte.
-- Schaedigende Vermögensverlagerung.
-- Verletzung von Aufklaerungspflichten.
-- Verletzung der Erwerbsobliegenheit.
+### Schritt 4: Beilagen
+- Bescheinigung der geeigneten Stelle (anerkannte Schuldnerberatungsstelle, Rechtsanwalt, Steuerberater).
+- Vermögens- und Schuldenliste.
+- Einkommensnachweise.
 
-## Nachtraeglich auftauchende Gläubiger
+## Vorgehen bei Gläubigerantworten
 
-- § 301 InsO: Restschuldbefreiung wirkt auch für nicht angemeldete Gläubiger.
-- Ausnahme: arglistig verschwiegene Forderungen (§ 302 InsO).
+- Annahme aller Gläubiger: aussergerichtliche Einigung erfolgreich.
+- Ablehnung durch einzelnen Gläubiger: gerichtliches Verfahren nach § 306 InsO.
 
 ## Prüfraster
 
-1. Verfahrensgang korrekt?
-2. Mitwirkungspflichten erfuellt?
-3. Versagungsgruende ausgeschlossen?
-4. Nachtraegliche Gläubiger ueberraschen?
+1. Vermögens- und Schuldenliste vollstaendig?
+2. Quote realistisch?
+3. Bescheinigung vorhanden?
+4. Gläubigerantworten dokumentiert?
+
+---
+
+## Skill: `verbraucherinsolvenz-belegchaos-strukturieren`
+
+_Wenn es um Schuldnerberatungsstelle: Strukturierung des Belegchaos in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Schuldnerberatungsstelle: Strukturierung des Belegchaos
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: InsO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Schuldnerberatungsstelle: Strukturierung des Belegchaos. Skill liefert die Methodik wie Schuldnerberater die ungeordneten Belege Mahnungen Vollstreckungsbescheide Inkassobriefe und Bankauszuege des Schuldners in eine geordnete Gläubiger- und Forderungsliste ueberfuehren. Liefert Checkliste und Vorlagenstruktur.
+
+### Verbraucherinsolvenz Belegchaos Strukturieren
+
+## Fachkern: Verbraucherinsolvenz Belegchaos Strukturieren
+- **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
+- **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Ausgangslage
+
+- Schuldner bringt Plastiktueten / Schuhkartons mit ungeordneten Unterlagen.
+- Belege oft jahrealt, teils nicht mehr lesbar.
+- Gläubiger zum Teil unbekannt oder Mehrfacheintraege durch Inkasso-Kette.
+
+## Workflow
+
+### Schritt 1: Sortieren in Kategorien
+- Forderungen (Mahnungen, Rechnungen, Vollstreckungsbescheide).
+- Verträge (Mietvertrag, Kreditvertrag, Telefonvertrag).
+- Behörden (Finanzamt, Krankenkasse, Sozialamt).
+- Konten (Bankauszuege, Sparbuecher).
+- Einkommen (Gehaltsabrechnungen, Sozialleistungen).
+- Sonstiges (Schriftverkehr, Notizen).
+
+### Schritt 2: Gläubigerliste anlegen
+- Pro Gläubiger eine Zeile.
+- Spalten: Name, Adresse, Hauptforderung, Zinsen, Kosten, Aktenzeichen, Datum letzter Vollstreckungsakt.
+- Inkasso-Ketten zusammenfuehren (Originalglaeubiger -> Inkasso 1 -> Inkasso 2).
+
+### Schritt 3: Auskunft einholen
+- Schufa-Selbstauskunft (kostenfrei).
+- Schuldnerverzeichnis bei Vollstreckungsgerichten.
+- Bankkonten-Abfrage.
+- Anfrage an bekannte Gläubiger nach aktuellem Forderungsstand.
+
+### Schritt 4: Forderungen prüfen
+- Verjährung (§§ 195, 199 BGB; vollstreckbare Titel 30 Jahre § 197 BGB).
+- Bestreitbare Forderungen.
+- Doppelte Forderungen.
+
+### Schritt 5: Vermögen erfassen
+- Bankkonten, Sparbuecher, Lebensversicherungen, Bausparvertraege.
+- Hausrat, Pkw, ggf. Immobilien.
+- Pfaendungsfreies Einkommen.
+
+## Werkzeuge
+
+- Excel-Tabelle "Gläubigerliste".
+- Excel-Tabelle "Vermögensaufstellung".
+- Excel-Tabelle "Einkommensberechnung".
+- Standardformbriefe an Gläubiger.
+- Verschluesselte Datenablage.
+
+## Aktenfuehrung
+
+- Eigene Mandatsakte mit Originalen / Kopien.
+- Versionierung der Vermögens- und Schuldenliste.
+- Datenschutz: DSGVO Art. 30 Verzeichnis von Verarbeitungstaetigkeiten.
+
+## Prüfraster
+
+1. Belege vollstaendig?
+2. Gläubigerliste sauber?
+3. Verjährungspruefung erfolgt?
+4. Vermögensaufstellung erstellt?
+5. Einkommensberechnung erstellt?
 
 ---
 
 ## Skill: `verbraucherinsolvenz-pfaendungsschutzkonto`
 
-_Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto: Skill klaert die rechtliche Konstruktion des Pfaendungsschutzkontos nach §§ 850k 850l ZPO Grundfreibetraege Erhoehungsbetraege Antrag und Beweisfuehrun..._
+_Wenn es um Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
 # Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto
 
@@ -410,9 +315,217 @@ _Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto: Skill klaert die rechtlich
 
 ---
 
+## Skill: `verbraucherinsolvenz-nachtraegliche-glaeubiger`
+
+_Wenn es um Verbraucherinsolvenz: Nachtraegliche Gläubiger nach Restschuldbefreiung in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Verbraucherinsolvenz: Nachtraegliche Gläubiger nach Restschuldbefreiung
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: InsO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Verbraucherinsolvenz: Nachtraegliche Gläubiger nach Restschuldbefreiung. Skill klaert ob nicht angemeldete Gläubiger nach Erteilung der Restschuldbefreiung noch Anspruch geltend machen können § 301 InsO und Ausnahmen § 302 InsO. Liefert Prüfraster.
+
+### Verbraucherinsolvenz Nachtraegliche Gläubiger
+
+## Fachkern: Verbraucherinsolvenz Nachtraegliche Gläubiger
+- **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
+- **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Norm
+
+- § 301 InsO: Wirkung der Restschuldbefreiung gegenueber allen Gläubigern.
+- § 302 InsO: Ausnahmen.
+
+## Wirkung
+
+- Restschuldbefreiung wirkt auch für Gläubiger, die ihre Forderung nicht angemeldet haben.
+
+## Ausnahmen § 302 InsO
+
+### Nr. 1: Arglistig verschwiegen
+- Schuldner hat die Forderung in der Vermögensaufstellung arglistig nicht angegeben.
+
+### Nr. 2: Vorsaetzliche unerlaubte Handlung
+- Forderung aus vorsaetzlicher unerlaubter Handlung (§§ 823 ff. BGB).
+
+### Nr. 3: Unterhaltsforderungen
+- Unterhalt für Zeitraum vor Insolvenzverfahren.
+
+### Nr. 4: Geldstrafen Geldbussen
+- Geldstrafen und Geldbussen.
+
+## Prüfraster
+
+1. Forderung angemeldet?
+2. Wenn nicht: Aussnahme nach § 302 InsO?
+3. Vorsatz / Arglist?
+4. Verjährung?
+
+---
+
+## Skill: `planablehnung-und-naechster-schritt`
+
+_Wenn es um Planablehnung Und Naechster Schritt in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Planablehnung: wann trotzdem Antrag stellen, wann Plan nachbessern, wann Regelinsolvenz prüfen.
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: InsO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Planablehnung: wann trotzdem Antrag stellen, wann Plan nachbessern, wann Regelinsolvenz prüfen.; Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
+
+## Fachkern: Planablehnung: wann trotzdem Antrag stellen, wann Plan nachbessern, wann Regelinsolvenz prüfen.
+- **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
+- **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Auftrag
+
+Dieser Skill arbeitet. Er soll Laien, Schuldnerberatung, Anwältinnen und Angehörigen helfen, eine echte Akte sauber zu ordnen, ohne falsche Versprechen zu machen. Er fragt zuerst nach Tatsachen und Unterlagen, dann nach dem passenden Verfahrensweg.
+
+## Norm- und Praxisanker
+
+InsO §§ 305, 307-309. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche Praxis. Wenn eine Frist, ein Formular oder ein Pfändungsbetrag tragend ist, muss live geprüft werden.
+
+---
+
+## Skill: `formularcheck-insolvenzantrag`
+
+_Wenn es um Formularcheck Insolvenzantrag in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: InsO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.; Normanker: InsO § 305; amtliche Formulare; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
+
+## Fachkern: Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.
+- **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
+- **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Auftrag
+
+Dieser Skill arbeitet. Er soll Laien, Schuldnerberatung, Anwältinnen und Angehörigen helfen, eine echte Akte sauber zu ordnen, ohne falsche Versprechen zu machen. Er fragt zuerst nach Tatsachen und Unterlagen, dann nach dem passenden Verfahrensweg.
+
+## Norm- und Praxisanker
+
+InsO § 305; amtliche Formulare. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche Praxis. Wenn eine Frist, ein Formular oder ein Pfändungsbetrag tragend ist, muss live geprüft werden.
+
+---
+
+## Skill: `kaltstart-schuldenbild-glaeubiger-sofortschutz`
+
+_Wenn es um Kaltstart Schuldenbild Glaeubiger Sofortschutz in Verbraucherinsolvenz und Schuldenbereinigung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Kaltstart Verbraucherinsolvenz: Schuldenbild, Einkommen, Unterhalt, Wohnung, Selbstständigkeit, Gläubigerliste, Beratungsstelle und Sofortschutz sortieren.
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
+## Fachkern: Kaltstart Verbraucherinsolvenz: Schuldenbild, Einkommen, Unterhalt, Wohnung, Selbstständigkeit, Gläubigerliste, Beratungsstelle und Sofortschutz sortieren.
+- **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
+- **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Auftrag
+
+Dieser Skill arbeitet. Er soll Laien, Schuldnerberatung, Anwältinnen und Angehörigen helfen, eine echte Akte sauber zu ordnen, ohne falsche Versprechen zu machen. Er fragt zuerst nach Tatsachen und Unterlagen, dann nach dem passenden Verfahrensweg.
+
+## Norm- und Praxisanker
+
+InsO §§ 304-314, 286-303; ZPO §§ 850 ff.; SGB-Schnittstellen. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche Praxis. Wenn eine Frist, ein Formular oder ein Pfändungsbetrag tragend ist, muss live geprüft werden.
+
+---
+
+## Skill: `verbraucherinsolvenz-unterhalt-und-insolvenz`
+
+_Wenn es um Verbraucherinsolvenz und eheliche Unterhaltspflicht in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Verbraucherinsolvenz und eheliche Unterhaltspflicht
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: InsO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Verbraucherinsolvenz und eheliche Unterhaltspflicht. Skill behandelt das Verhältnis von laufender Unterhaltspflicht zum Insolvenzverfahren Pflichten in der Wohlverhaltensphase Anrechnung und Rangordnung. Liefert Prüfraster.
+
+### Verbraucherinsolvenz Unterhalt Und Insolvenz
+
+## Fachkern: Verbraucherinsolvenz Unterhalt Und Insolvenz
+- **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
+- **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Norm
+
+- §§ 1601 ff. BGB Familienunterhalt.
+- §§ 287, 295 InsO Mitwirkung in Wohlverhaltensphase.
+
+## Laufende Unterhaltspflicht
+
+- Unterhalt aus Erwerbseinkommen ist nicht der Insolvenzmasse zugeordnet.
+- § 850d ZPO: privilegierte Pfaendbarkeit für Unterhalt; bevorrechtigter Anspruch.
+
+## Unterhaltsrueckstaende vor Insolvenzantrag
+
+- Werden als Insolvenzforderung behandelt.
+- § 302 Nr. 3 InsO: Unterhaltsrueckstaende vor Insolvenzverfahren nehmen nicht an der Restschuldbefreiung teil.
+
+## Erwerbsobliegenheit
+
+- Pflicht zur vollen Erwerbstaetigkeit auch zur Unterhaltsleistung.
+
+## Prüfraster
+
+1. Laufender oder rueckstaendiger Unterhalt?
+2. Rangordnung?
+3. Erwerbsobliegenheit erfuellt?
+4. § 850d ZPO-Pfaendung?
+
+---
+
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

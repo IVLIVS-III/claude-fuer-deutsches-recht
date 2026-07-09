@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Paragraf 873 Abs. 1 BGB |
-| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -49,7 +49,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 ## 6. Anker
 
 - Paragraf 873 Abs. 1 BGB — dinglicher Vollzug: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 7. Antwortform
 

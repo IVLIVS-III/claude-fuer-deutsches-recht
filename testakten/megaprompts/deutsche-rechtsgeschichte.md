@@ -1,41 +1,42 @@
-# Megaprompt: deutsche-rechtsgeschichte
+# Vollprüfung: deutsche-rechtsgeschichte
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 205 Skills (gekuerzt fuer Chat-Fenster) des Plugins `deutsche-rechtsgeschichte`.
+Dieser Vollprüfung enthaelt top-8 von 205 Skills (gekuerzt fuer Chat-Fenster) des Plugins `deutsche-rechtsgeschichte`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Deutsche Rechtsgeschichte: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe.
-2. **drg-neu-020-historische-verfassungsvergleiche-als-argumentations** — Deutsche Rechtsgeschichte: Historische Verfassungsvergleiche als Argumentationshilfe mit konkreter Fachprüfung, Quellenh…
-3. **bgb-1900-und-soziale-frage** — Deutsche Rechtsgeschichte: BGB 1900 und die soziale Frage. Kritik von Anton Menger und Otto von Gierke, fehlender Arbeit…
-4. **abschlussmemo-historische-tragfaehigkeit** — Deutsche Rechtsgeschichte: Abschlussmemo zur historischen Tragfaehigkeit einer juristischen Argumentation. Prüft, ob his…
-5. **rechtspolitische-narrative-enteignung** — Deutsche Rechtsgeschichte: Rechtspolitische Narrative prüfen. Wie man politisch geladene historische Erzaehlungen (Bisma…
-6. **reichskammergericht-und-reichshofrat** — Deutsche Rechtsgeschichte: Reichskammergericht (1495-1806) und Reichshofrat (1497-1806). Aufbau, Zuständigkeit, Rezeptio…
-7. **gute-rechtsgeschichte-fuer-laien** — Deutsche Rechtsgeschichte: Verstaendlich erklaertes historisches Recht für Nicht-Juristen. Didaktische Aufbereitung von …
-8. **quellenkritik-archiv-und-edition** — Deutsche Rechtsgeschichte: Quellenkritik für Archivfunde und historische Editionen. Ueberlieferungskritik, Editionsvergl…
+1. **kaltstart-triage** — Wenn es um Deutsche Rechtsgeschichte - Allgemeiner Einstieg in Deutsche Rechtsgeschichte geht: klärt Rolle, Ziel, Frist,…
+2. **drg-107-generalklauseln-als-einbruchstelle-zeitgeist** — Wenn es um Generalklauseln als Einbruchstelle des Zeitgeists in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm…
+3. **generalklauseln-als-einbruchstelle-zeitgeist** — Wenn es um Generalklauseln als Einbruchstelle des Zeitgeists in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm…
+4. **drg-103-ns-rechtserneuerung-methodeninstrumente** — Wenn es um Methodeninstrumente der NS-Rechtserneuerung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Bewe…
+5. **drg-108-rechtsperversion-ohne-gesetzesaenderung** — Wenn es um Rechtsperversion ohne Gesetzesänderung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislas…
+6. **ns-rechtserneuerung-methodeninstrumente** — Wenn es um Methodeninstrumente der NS-Rechtserneuerung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Bewe…
+7. **drg-101-personelle-kontinuitaeten-nach-1945** — Wenn es um Personelle Kontinuitäten nach 1945 in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, G…
+8. **rechtsperversion-ohne-gesetzesaenderung** — Wenn es um Rechtsperversion ohne Gesetzesänderung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislas…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Deutsche Rechtsgeschichte: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe._
+_Wenn es um Deutsche Rechtsgeschichte - Allgemeiner Einstieg in Deutsche Rechtsgeschichte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Deutsche Rechtsgeschichte - Allgemeiner Einstieg
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Deutsche Rechtsgeschichte** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Historische Quellenanker
 
@@ -71,130 +72,43 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `drg-neu-020-historische-verfassungsvergleiche-als-argumentations`
+## Skill: `drg-107-generalklauseln-als-einbruchstelle-zeitgeist`
 
-_Deutsche Rechtsgeschichte: Historische Verfassungsvergleiche als Argumentationshilfe mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis: Deutsche Rechtsgeschichte: Historische Verfassungsvergleiche als Argumentationshi..._
+_Wenn es um Generalklauseln als Einbruchstelle des Zeitgeists in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Drg 107 Generalklauseln Als Einbruchstelle Zeitgeist; Arbeitsfeld: Deutsche Rechtsgeschichte._
 
-# Deutsche Rechtsgeschichte: Historische Verfassungsvergleiche als Argumentationshilfe mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
+# Generalklauseln als Einbruchstelle des Zeitgeists
 
+## Einsatz
 
-## Arbeitsweg
+Generalklauseln sind unverzichtbar, aber gefährlich. Dieser Skill zeigt historisch, wann sie flexible Gerechtigkeit ermöglichen und wann sie zur Schleuse politischer Vorgaben werden.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach jeweiliger Quelle; heutige Relevanz über Art. 184 ff. EGBGB und Auslegungshilfe für Grundrechtsverständnis.
-- Tragende Normen verifizieren: Sachsenspiegel, Schwabenspiegel, Carolina (CCC 1532), Preußisches ALR 1794, Code civil (1804), Sächsisches BGB 1865, BGB 1900, WRV 1919, GG 1949; rechtshistorische Quellen MGH, Constitutiones — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Quelleneditionen, Lehrstühle für deutsche Rechtsgeschichte, Verfassungsrechtler (Auslegungshintergrund), Restitutionsverfahren mit historischem Anker.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Quellenedition, rechtshistorisches Gutachten, Vorlesungsskript, dogmenhistorischer Aufsatz, Verfassungsentstehungsgeschichte — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Prüfschritte
 
-**Fokus:** Deutsche Rechtsgeschichte: Historische Verfassungsvergleiche als Argumentationshilfe mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
+1. Generalklausel identifizieren.
+2. Zeitkontext und herrschende Wertordnung bestimmen.
+3. Rechtsprechungspraxis und Lehrbuchdeutung vergleichen.
+4. Subjektive Rechte und Minderheitenschutz gesondert prüfen.
+5. Gegenwartslehre: Generalklauseln heute durch Grundrechte, Gesetzeszweck und Begründungspflichten disziplinieren.
 
-### Deutsche Rechtsgeschichte: 020 Historische Verfassungsvergleiche Als Argumentations
+## Output
 
-## Bedeutung der Verfassungsgeschichte
+Generalklausel-Historie mit Risikoampel: legitime Konkretisierung, zeitgeistige Überformung oder rechtsstaatliche Entkernung.
 
-- BVerfG zieht regelmaessig historische Vergleiche heran.
-- Methodisch: hermeneutische Auslegung des Grundgesetzes mit Blick auf Vorgaenger.
+## Quellen- und Zitierdisziplin
 
-## Vergleichsachsen
-
-### Paulskirchenverfassung 1848/49 → GG
-- Grundrechte als Ursprung.
-- BVerfG zitiert Paulskirche selten direkt, aber als ideengeschichtlicher Hintergrund.
-
-### WRV 1919 → GG
-- BVerfG E 2, 1: WRV ist nicht im selben Sinne fortgesetzt wie BGB.
-- BVerfG hat in zentralen Fragen die WRV-Verfassungsrechtsprechung anerkannt.
-- Konkrete Kontinuitaet: Art. 137 III WRV iVm Art. 140 GG (Religionsgemeinschaften).
-
-### NS-Zeit → GG
-- Radbruch'sche Formel: "Gesetzliches Unrecht und uebergesetzliches Recht" (Sueddeutsche Juristen-Zeitung 1946 S. 105).
-- Praktische Anwendung der Radbruchschen Formel durch BVerfG **BVerfGE Band 95 Rn 96** (Mauerschuetzen-Beschluss vom 24. Oktober 1996 - 2 BvR 1851/94 u.a.) und BGH **BGHSt 39 Rn 1**, **BGHSt 39 Rn 168**, **BGHSt 41 Rn 101** (Mauerschuetzen).
-- **Nicht zu verwechseln**: **BVerfGE Band 23 Rn 98** (Beschluss vom 14. Februar 1968 - 2 BvR 557/62) betrifft die Nichtigkeit der **NS-Ausbuergerung deutscher Juden** (11. Verordnung zum Reichsbuergergesetz vom 25. November 1941) und ist nicht das Mauerschuetzen-Verfahren.
-
-### DDR-Verfassung → GG
-- BVerfG hat DDR-Recht nicht generell verworfen.
-- Spezifische Streitfragen über Bodenreform und Vermögensrecht.
-
-## Methodenvorschlag für Argumentation
-
-1. Welche Vorgaengerverfassung enthielt eine vergleichbare Norm?
-2. Welche Funktion hatte sie damals?
-3. Welche Lehren zog der Verfassungsgeber des GG?
-4. Welche Bedeutung im aktuellen Konzept?
-
-## Beispiele
-
-### Art. 1 Abs. 1 GG (Menschenwuerde)
-- Kein direktes Vorbild in WRV oder Paulskirche.
-- Reaktion auf NS-Zeit.
-- "Wesensgehaltsgarantie" als Konsequenz.
-
-### Art. 5 Abs. 1 GG (Meinungsfreiheit)
-- Paulskirche § 143 (Grundrechte): Pressefreiheit.
-- WRV Art. 118: gleicher Schutz.
-- GG: keine Vorzensur.
-
-### Art. 79 Abs. 3 GG (Ewigkeitsklausel)
-- Erstmals im GG.
-- Reaktion auf Erfahrung der Weimarer Selbstaufgabe durch Ermaechtigungsgesetz.
+- Interne Arbeitsquellen oder Vorlagen nicht als Autorität anführen.
+- Keine wörtlichen Übernahmen aus fremden Texten; nur eigenständig formulierte Prüfgedanken verwenden.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur nennen, wenn der Nutzer sie ausdrücklich bereitstellt oder ein lizenzierter Live-Zugriff dokumentiert ist.
+- Wenn eine historische Tatsachenbehauptung nicht geprüft ist, als Prüfpunkt markieren und nicht als gesichert ausgeben.
 
 ---
 
-## Skill: `bgb-1900-und-soziale-frage`
+## Skill: `generalklauseln-als-einbruchstelle-zeitgeist`
 
-_Deutsche Rechtsgeschichte: BGB 1900 und die soziale Frage. Kritik von Anton Menger und Otto von Gierke, fehlender Arbeitnehmerschutz im BGB, Mieterrecht und spaetere soziale Ausformung durch Rechtsprechung und Sondergesetze im Deutsche Rechtsgeschichte._
+_Wenn es um Generalklauseln als Einbruchstelle des Zeitgeists in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Generalklauseln Als Einbruchstelle Zeitgeist; Arbeitsfeld: Deutsche Rechtsgeschichte._
 
-# BGB 1900 und die soziale Frage
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach jeweiliger Quelle; heutige Relevanz über Art. 184 ff. EGBGB und Auslegungshilfe für Grundrechtsverständnis.
-- Tragende Normen verifizieren: Sachsenspiegel, Schwabenspiegel, Carolina (CCC 1532), Preußisches ALR 1794, Code civil (1804), Sächsisches BGB 1865, BGB 1900, WRV 1919, GG 1949; rechtshistorische Quellen MGH, Constitutiones — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Quelleneditionen, Lehrstühle für deutsche Rechtsgeschichte, Verfassungsrechtler (Auslegungshintergrund), Restitutionsverfahren mit historischem Anker.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Quellenedition, rechtshistorisches Gutachten, Vorlesungsskript, dogmenhistorischer Aufsatz, Verfassungsentstehungsgeschichte — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Worum es geht
-
-Das BGB 1900 war auf formaler Gleichheit und Vertragsfreiheit aufgebaut, ohne die realen Machtungleichgewichte zu beruecksichtigen. Anton Mengers Das buergerliche Recht und die besitzlosen Volksklassen (1890) analysierte dies scharf: Das BGB schuetze Eigentümer und Kreditgeber, nicht Mieter und Arbeitnehmer. Otto von Gierke kritisierte den fehlenden deutschen Genossenschaftsgeist. Die soziale Luecke wurde durch Sondergesetze gefuellt: Gewerbegerichtsgesetz 1890, BGB-Ergaenzungen durch Arbeitnehmerrecht, Mieterschutz im Ersten Weltkrieg. Die Rechtsprechung nutzte BGB § 242 (Treu und Glauben) als Korrektiv. Das 20. Jh. brachte schliesslich Arbeitnehmerschutzrecht (BetrVG, KSchG), Mieterschutz (BGB §§ 535 ff.), und Verbraucherschutz.
-
-## Kernnormen / Kernquellen
-
-- **BGB § 242**: Treu und Glauben, sozialrechtliches Korrektivinstrument
-- **BGB § 618**: Fürsorgepflicht des Arbeitgebers (1900 bereits im BGB)
-- **Gewerbegerichtsgesetz 1890 (RGBl. 1890, 141)**: Arbeitsgerichtliche Vorlaeufernorm
-- **Mieterschutzverordnung 1917**: Erster staatlicher Mietschutz im Weltkrieg
-- **KSchG 1951 (BGBl. I 1951, 499)**: Kuendigungsschutzgesetz als BGB-Ergaenzung
-
-## Akteure und Institutionen
-
-- **Anton Menger** (1841-1906): Sozialkritiker des BGB
-- **Otto von Gierke** (1841-1921): Deutschrechtliche und soziale BGB-Kritik
-- **Reichsgericht (RG)**: Nutzung von § 242 als Sozialkorrektur
-- **Weimarer Arbeitsbewegung**: Treiber für Arbeitnehmerschutzgesetze
-
-## Typische Streitfragen / Forschungsfragen
-
-1. War das BGB 1900 bewusst "arbeitgeberfreundlich" oder einfach neutral nach damaligem Verstaendnis?
-2. § 242 BGB: Hat das RG damit die sozialen Luecken sinnvoll geschlossen?
-3. Mieterschutz: Warum erst 1917? War Krieg als Anlass notwendig?
-4. BetrVG 1952/1972: Welcher Teil der Sozialkritik ist ins Gesetz eingegangen?
-5. Verbraucherschutz ab 1970er: Lässt sich das als Fortsetzung der Menger-Forderungen lesen?
-
-## Methodik
-
-- Menger Das buergerliche Recht (1890): Erstausgabe zitieren
-- BGB § 242 und § 618: gesetze-im-internet.de; historisch Mugdan Bd. II
-- KSchG: gesetze-im-internet.de
-- Sekundaerliteratur: Knut Wolfgang Noerr, Privatrechtsgeschichte der Weimarer Republik
-
----
-
-## Skill: `abschlussmemo-historische-tragfaehigkeit`
-
-_Deutsche Rechtsgeschichte: Abschlussmemo zur historischen Tragfaehigkeit einer juristischen Argumentation. Prüft, ob historische Quellen eine heutige Rechtsposition tragen oder ob Anachronismus oder Lueckenbeweis vorliegt im Deutsche Rechtsgeschichte._
-
-# Abschlussmemo historische Tragfaehigkeit
+# Generalklauseln als Einbruchstelle des Zeitgeists
 
 ## Historische Quellenanker
 
@@ -221,47 +135,94 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Quelleneditionen, Lehrstühle für deutsche Rechtsgeschichte, Verfassungsrechtler (Auslegungshintergrund), Restitutionsverfahren mit historischem Anker.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Quellenedition, rechtshistorisches Gutachten, Vorlesungsskript, dogmenhistorischer Aufsatz, Verfassungsentstehungsgeschichte — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Worum es geht
+## Prüfschritte
 
-Das Abschlussmemo historische Tragfaehigkeit ist ein Qualitaetssicherungsinstrument für rechtshistorische Argumente in heutigen Texten (Gutachten, Schriftsaetze, Gesetzesbegr√ündungen). Es prüft: (1) Sind die historischen Quellen korrekt identifiziert? (2) Tragt die Quelle die Behauptung tatsaechlich? (3) Liegt ein Anachronismus vor? (4) Gibt es Luecken in der Argumentationskette? (5) Sind Unsicherheiten sichtbar gemacht? Ergebnis ist ein strukturiertes Memo mit Ampelbewertung: Gruen (Quelle traegt), Gelb (Einschraenkung noetig), Rot (Quelle traegt nicht).
+1. Generalklausel identifizieren.
+2. Zeitkontext und herrschende Wertordnung bestimmen.
+3. Rechtsprechungspraxis und Lehrbuchdeutung vergleichen.
+4. Subjektive Rechte und Minderheitenschutz gesondert prüfen.
+5. Gegenwartslehre: Generalklauseln heute durch Grundrechte, Gesetzeszweck und Begründungspflichten disziplinieren.
 
-## Kernnormen / Kernquellen
+## Quellen- und Zitierdisziplin
 
-- **BVerfGE 62, 1 (1982)**: BVerfG-Methodik der historischen Auslegung
-- **BGB § 133**: Wille des Erklaerenden / Gesetzgebers als Auslegungsziel
-- **Mugdan, Materialien BGB** (1899): Maßstab für BGB-historische Argumente
-- **GG Art. 79 Abs. 3**: Ewigkeitsklausel als Maßstab für historische Verfassungsargumente
-- **Einigungsvertrag 1990 (BGBl. II 1990, 885)**: Maßstab für DDR-Rechtsuebergangsargumente
-
-## Akteure und Institutionen
-
-- **BVerfG**: Prüfungsmassstab für historische Verfassungsargumente
-- **BGH**: Zivilrechtliche historische Auslegung, z. B. BGB-Materialien
-- **Bundesarchiv**: Primaerquellen-Lieferant für historische Argumentationsbasis
-- **BReg Rechtsabteilung**: Nutzer von historischer Argumentation in Gesetzesbegr√ündungen
-
-## Typische Streitfragen / Forschungsfragen
-
-1. Wann hat historische Auslegung Vorrang vor Wortlaut oder Systematik?
-2. Wie geht man mit Luecken in der historischen Quellenlage um?
-3. Kann eine fehlerhafte historische Behauptung im Schriftsatz anfechtbar sein?
-4. Ermächtigungsgesetz 1933 als Praezedenz: Welche historischen Argumente sind taboo?
-5. EU-Recht und nationale Rechtsgeschichte: Darf man vorunionale Geschichte als EU-Auslegung einbringen?
-
-## Methodik
-
-- Quellencheck: Primaerquelle lesen, nicht nur Sekundaerautor zitieren
-- Anachronismus-Test: Haette ein Jurist der betreffenden Epoche die Argumentation verstanden?
-- Lueckentest: Gibt es Epochen ohne Quellenbeleg in der Argumentationskette?
-- Unsicherheitsmarkierung: Worte wie vermutlich, nach bisherigem Forschungsstand usw.
+- Interne Arbeitsquellen oder Vorlagen nicht als Autorität anführen.
+- Keine wörtlichen Übernahmen aus fremden Texten; nur eigenständig formulierte Prüfgedanken verwenden.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur nennen, wenn der Nutzer sie ausdrücklich bereitstellt oder ein lizenzierter Live-Zugriff dokumentiert ist.
+- Wenn eine historische Tatsachenbehauptung nicht geprüft ist, als Prüfpunkt markieren und nicht als gesichert ausgeben.
 
 ---
 
-## Skill: `rechtspolitische-narrative-enteignung`
+## Skill: `drg-103-ns-rechtserneuerung-methodeninstrumente`
 
-_Deutsche Rechtsgeschichte: Rechtspolitische Narrative prüfen. Wie man politisch geladene historische Erzaehlungen (Bismarckstaat, Sozialstaat-Errungenschaft, NS als Zivilisationsbruch) historisch-quellenkritisch einordnet im Deutsche Rechtsgeschichte._
+_Wenn es um Methodeninstrumente der NS-Rechtserneuerung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Drg 103 Ns Rechtserneuerung Methodeninstrumente; Arbeitsfeld: Deutsche Rechtsgeschichte._
 
-# Rechtspolitische Narrative prüfen
+# Methodeninstrumente der NS-Rechtserneuerung
+
+## Einsatz
+
+Dieser Skill hilft, die methodische Mechanik der Rechtsperversion zu verstehen, ohne sie zu normalisieren. Er zeigt, wie fortgeltende Normtexte durch neue Leitbegriffe entkernt wurden.
+
+## Instrumentenliste
+
+- Neue Leitidee mit angeblich überzeitlicher Geltung.
+- Neue Rechtsquellenlehre jenseits parlamentarischer Normsetzung.
+- Umdeutung durch Generalklauseln und unbestimmte Begriffe.
+- Berufung auf Wesen, Natur, konkrete Ordnung oder Gemeinschaft.
+- Abwertung subjektiver Rechte und individueller Freiheit.
+- Auslegung als Anpassung an Macht statt Bindung an Recht.
+
+## Output
+
+Methodenarchäologie mit Gegenwartswarnung: Welche Argumentfigur ist historisch belastet, und wie kann man heute verfassungskonform mit offenen Normen arbeiten?
+
+## Quellen- und Zitierdisziplin
+
+- Interne Arbeitsquellen oder Vorlagen nicht als Autorität anführen.
+- Keine wörtlichen Übernahmen aus fremden Texten; nur eigenständig formulierte Prüfgedanken verwenden.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur nennen, wenn der Nutzer sie ausdrücklich bereitstellt oder ein lizenzierter Live-Zugriff dokumentiert ist.
+- Wenn eine historische Tatsachenbehauptung nicht geprüft ist, als Prüfpunkt markieren und nicht als gesichert ausgeben.
+
+---
+
+## Skill: `drg-108-rechtsperversion-ohne-gesetzesaenderung`
+
+_Wenn es um Rechtsperversion ohne Gesetzesänderung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Drg 108 Rechtsperversion Ohne Gesetzesaenderung; Arbeitsfeld: Deutsche Rechtsgeschichte._
+
+# Rechtsperversion ohne Gesetzesänderung
+
+## Einsatz
+
+Dieser Skill ist für Fälle gedacht, in denen formale Normkontinuität täuscht. Er trennt Gesetzestext, institutionelle Macht, Auslegungslehre und tatsächliche Rechtsanwendung.
+
+## Prüffragen
+
+- Galt der Text weiter, aber mit neuem Inhalt?
+- Welche neue Leitidee verdrängte die alte Normbindung?
+- Wer trieb die Umcodierung: Gericht, Ministerium, Fakultät, Partei, Verwaltung?
+- Welche Grundrechte oder subjektiven Rechte wurden entleert?
+- Welche Nachkriegsdeutung verschweigt diese Mechanik?
+
+## Output
+
+Umcodierungsanalyse mit Textkontinuität, Bedeutungsbruch und Belegmatrix.
+
+## Quellen- und Zitierdisziplin
+
+- Interne Arbeitsquellen oder Vorlagen nicht als Autorität anführen.
+- Keine wörtlichen Übernahmen aus fremden Texten; nur eigenständig formulierte Prüfgedanken verwenden.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur nennen, wenn der Nutzer sie ausdrücklich bereitstellt oder ein lizenzierter Live-Zugriff dokumentiert ist.
+- Wenn eine historische Tatsachenbehauptung nicht geprüft ist, als Prüfpunkt markieren und nicht als gesichert ausgeben.
+
+---
+
+## Skill: `ns-rechtserneuerung-methodeninstrumente`
+
+_Wenn es um Methodeninstrumente der NS-Rechtserneuerung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Ns Rechtserneuerung Methodeninstrumente; Arbeitsfeld: Deutsche Rechtsgeschichte._
+
+# Methodeninstrumente der NS-Rechtserneuerung
 
 ## Historische Quellenanker
 
@@ -288,47 +249,62 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Quelleneditionen, Lehrstühle für deutsche Rechtsgeschichte, Verfassungsrechtler (Auslegungshintergrund), Restitutionsverfahren mit historischem Anker.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Quellenedition, rechtshistorisches Gutachten, Vorlesungsskript, dogmenhistorischer Aufsatz, Verfassungsentstehungsgeschichte — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Worum es geht
+## Instrumentenliste
 
-Rechtspolitische Narrative sind verdichtete Erzaehlungen über die Bedeutung historischer Ereignisse für heutige Rechtspositionen. Beispiele: Sozialversicherung als Bismarck-Errungenschaft, WRV als gescheitertes Experiment, NS als absoluter Zivilisationsbruch, BGB als Arbeitgeberrecht, Wiedervereinigung als Erfolgsgeschichte. Diese Narrative haben politische Funktionen, aber methodisch muss man fragen: Was sagen die Quellen wirklich? Sind die Schlussfolgerungen belegt oder projiziert? Welche Gegennarrative gibt es? Ein geprueftes Narrativ ist sachlich praeziser und widersteht Gegenarrumenten besser.
+- Neue Leitidee mit angeblich überzeitlicher Geltung.
+- Neue Rechtsquellenlehre jenseits parlamentarischer Normsetzung.
+- Umdeutung durch Generalklauseln und unbestimmte Begriffe.
+- Berufung auf Wesen, Natur, konkrete Ordnung oder Gemeinschaft.
+- Abwertung subjektiver Rechte und individueller Freiheit.
+- Auslegung als Anpassung an Macht statt Bindung an Recht.
 
-## Kernnormen / Kernquellen
+## Quellen- und Zitierdisziplin
 
-- **WRV Art. 119-165**: Wirtschafts- und Sozialordnung als Narrativ-Gegenstand
-- **Bismarcks Sozialversicherung 1883-1889**: Narrative als Befriedungs- oder Schutzrecht
-- **Radbruch-Formel SJZ 1946, 105**: NS-Rechtsbruch-Narrativ
-- **Einigungsvertrag 1990**: Wiedervereinigungsnarrativ
-- **GG Art. 20 (Sozialstaatsprinzip)**: Verfassungsrechtliche Kodifikation eines Narrativs
-
-## Akteure und Institutionen
-
-- **Bismarck**: Sozialversicherung als kontrollierte Sozialpolitik (sein Narrativ)
-- **SPD und Gewerkschaften**: Sozialversicherung als Arbeitererrungenschaft (Gegennarrativ)
-- **Radbruch**: NS-Rechtsbruch-Narrativ nach 1945
-- **Medien und Politik**: Verbreitung und Modifikation der Narrative
-
-## Typische Streitfragen / Forschungsfragen
-
-1. Bismarcksche Sozialversicherung: Befriedung oder echter Sozialschutz?
-2. WRV-Scheitern: War es unvermeidlich oder kontingent?
-3. GG als Erfolgsgeschichte: Werden seine Defizite ausgeblendet?
-4. NS-Zivilisationsbruch: Erlaubt das Narrativ, die Kontinuitaetsfrage zu umgehen?
-5. Wiedervereinigung als Vollendung: Was wurde dabei nicht erwaehnt?
-
-## Methodik
-
-- Narrative identifizieren und isolieren
-- Quellentest: Tragen die Quellen das Narrativ?
-- Gegenquellen suchen: Was widerspricht dem Narrativ?
-- Nuancierung: Kern des Narrativs beibehalten, Uebertreibungen korrigieren
+- Interne Arbeitsquellen oder Vorlagen nicht als Autorität anführen.
+- Keine wörtlichen Übernahmen aus fremden Texten; nur eigenständig formulierte Prüfgedanken verwenden.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur nennen, wenn der Nutzer sie ausdrücklich bereitstellt oder ein lizenzierter Live-Zugriff dokumentiert ist.
+- Wenn eine historische Tatsachenbehauptung nicht geprüft ist, als Prüfpunkt markieren und nicht als gesichert ausgeben.
 
 ---
 
-## Skill: `reichskammergericht-und-reichshofrat`
+## Skill: `drg-101-personelle-kontinuitaeten-nach-1945`
 
-_Deutsche Rechtsgeschichte: Reichskammergericht (1495-1806) und Reichshofrat (1497-1806). Aufbau, Zuständigkeit, Rezeption des gelehrten Rechts, Konkurrenz beider Gerichte und Bedeutung als Vorlaeufer moderner Obergerichte im Deutsche Rechtsgeschichte._
+_Wenn es um Personelle Kontinuitäten nach 1945 in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Drg 101 Personelle Kontinuitaeten Nach 1945; Arbeitsfeld: Deutsche Rechtsgeschichte._
 
-# Reichskammergericht und Reichshofrat
+# Personelle Kontinuitäten nach 1945
+
+## Einsatz
+
+Nutze diesen Skill, wenn ein rechtshistorisches Projekt fragt, wie eine demokratische Rechtsordnung mit belasteten Funktionseliten weiterarbeitete.
+
+## Analysefelder
+
+- Entlassung, Internierung, Entnazifizierung, Rückkehr.
+- Umschreiben eigener Werke und Weglassen belastender Passagen.
+- Fortsetzung von Lehrstühlen, Kommentierungen und Ausbildungsautorität.
+- Schülernetzwerke, Loyalität, akademisches Schweigen.
+- Unterschied zwischen notwendiger Integration und problematischer Verdrängung.
+
+## Output
+
+Kontinuitätsvermerk mit Zeitachse, Akteursmatrix, institutionellem Risiko und offener Frage: Was wurde fachlich weiterverwendet, was hätte ausdrücklich gebrochen werden müssen?
+
+## Quellen- und Zitierdisziplin
+
+- Interne Arbeitsquellen oder Vorlagen nicht als Autorität anführen.
+- Keine wörtlichen Übernahmen aus fremden Texten; nur eigenständig formulierte Prüfgedanken verwenden.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur nennen, wenn der Nutzer sie ausdrücklich bereitstellt oder ein lizenzierter Live-Zugriff dokumentiert ist.
+- Wenn eine historische Tatsachenbehauptung nicht geprüft ist, als Prüfpunkt markieren und nicht als gesichert ausgeben.
+
+---
+
+## Skill: `rechtsperversion-ohne-gesetzesaenderung`
+
+_Wenn es um Rechtsperversion ohne Gesetzesänderung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Rechtsperversion Ohne Gesetzesaenderung; Arbeitsfeld: Deutsche Rechtsgeschichte._
+
+# Rechtsperversion ohne Gesetzesänderung
 
 ## Historische Quellenanker
 
@@ -355,176 +331,27 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Quelleneditionen, Lehrstühle für deutsche Rechtsgeschichte, Verfassungsrechtler (Auslegungshintergrund), Restitutionsverfahren mit historischem Anker.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Quellenedition, rechtshistorisches Gutachten, Vorlesungsskript, dogmenhistorischer Aufsatz, Verfassungsentstehungsgeschichte — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Worum es geht
+## Prüffragen
 
-Das Reichskammergericht (RKG) wurde 1495 auf dem Wormser Reichstag gegründet (RKGOrdnung 1495, RGBl. 1495 [Neue Sammlung]). Es war das erste staendige zentrale Reichsgericht und schrieb die Anwendung des gemeinen Rechts (roemisch-kanonisches Recht) vor. 1527 nach Speyer verlegt, blieb es bis 1806 tätig. Der Reichshofrat (1497/1559) war das kaiserliche Konkurrenzgericht in Wien mit anderer Zusammensetzung und weniger strenger Bindung an das gelehrte Recht. Beide Gerichte bildeten die Spitze der Reichsgerichtsbarkeit. Die Besetzung des RKG (Haefte Reichsstaende, Haefte kaiserliche Ernennung) spiegelte die reichsstaendische Verfassung wider.
+- Galt der Text weiter, aber mit neuem Inhalt?
+- Welche neue Leitidee verdrängte die alte Normbindung?
+- Wer trieb die Umcodierung: Gericht, Ministerium, Fakultät, Partei, Verwaltung?
+- Welche Grundrechte oder subjektiven Rechte wurden entleert?
+- Welche Nachkriegsdeutung verschweigt diese Mechanik?
 
-## Kernnormen / Kernquellen
+## Quellen- und Zitierdisziplin
 
-- **Reichskammergerichtsordnung 1495**: Gruendungsdokument und Verfahrensordnung
-- **Jungster Reichsabschluss 1654**: Letzte große RKG-Reform
-- **Kammerzielerordnung**: Finanzierung des RKG durch Reichsstaedte und Reichsstaende
-- **Wahlkapitulationen** (ab 1519): Sicherung der RKG-Existenz durch Kaiserwahl-Bedingungen
-
-## Akteure und Institutionen
-
-- **Maximilian I.** (1459-1519): Gründer des RKG 1495
-- **Kameralrichter** (Praesidenten und Beisitzer): Richterliches Kollegium des RKG
-- **Prokuratoren und Advokaten am RKG**: Rechtsanwaltschaft vor dem Reichsgericht
-- **Ferdinand I.** (1503-1564): Ausbau des Reichshofrats
-
-## Typische Streitfragen / Forschungsfragen
-
-1. Konkurrenz RKG vs. Reichshofrat: Welches Gericht war "besser"?
-2. Evokationsrecht des Kaisers: Konnte der Kaiser Sachen dem RKG entziehen?
-3. Kameralakten: Welche Verfahrensakten sind erhalten, welche vernichtet?
-4. Wirksamkeit: Hat das RKG tatsaechlich Frieden im Reich gesichert?
-5. 1806 und Ende des Alten Reichs: Was wurde aus den haengenden RKG-Verfahren?
-
-## Methodik
-
-- RKG-Ordnung 1495: historische Edition (Neue und Vollstaendigere Sammlung der Reichsabschluesse)
-- RKG-Kameralakten: Landesarchive (Speyer, Frankfurt); Inventar Smend (1911)
-- Sekundaerliteratur: Bernhard Diestelkamp, Wolfgang Sellert, Klaus Malettke
-
----
-
-## Skill: `gute-rechtsgeschichte-fuer-laien`
-
-_Deutsche Rechtsgeschichte: Verstaendlich erklaertes historisches Recht für Nicht-Juristen. Didaktische Aufbereitung von Sachsenspiegel, BGB-Entstehung, Weimarer Republik oder NS-Unrecht für Unterricht und Oeffentlichkeit im Deutsche Rechtsgeschichte._
-
-# Gute Rechtsgeschichte für Laien
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
-- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
-- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
-- `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
-- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
-- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
-- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
-- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
-- `§ 3 VermG` — Rückübertragung.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach jeweiliger Quelle; heutige Relevanz über Art. 184 ff. EGBGB und Auslegungshilfe für Grundrechtsverständnis.
-- Tragende Normen verifizieren: Sachsenspiegel, Schwabenspiegel, Carolina (CCC 1532), Preußisches ALR 1794, Code civil (1804), Sächsisches BGB 1865, BGB 1900, WRV 1919, GG 1949; rechtshistorische Quellen MGH, Constitutiones — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Quelleneditionen, Lehrstühle für deutsche Rechtsgeschichte, Verfassungsrechtler (Auslegungshintergrund), Restitutionsverfahren mit historischem Anker.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Quellenedition, rechtshistorisches Gutachten, Vorlesungsskript, dogmenhistorischer Aufsatz, Verfassungsentstehungsgeschichte — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Worum es geht
-
-Rechtsgeschichte für Nicht-Juristen erfordert eine andere Sprache und Struktur als Facharbeit. Kernaufgabe: komplexe historische Rechtsinstitute in zugaenglicher Sprache erklaeren, ohne Praezision zu opfern. Das bedeutet: Fremdwoerter erklaeren (Pandektistik = Systematisierung des roemischen Rechts durch Kommentatoren), Epochen mit anschaulichen Ankerpunkten benennen (Sachsenspiegel = erster großer Rechtstext in Mitteldeutsch), und Gegenwartsrelevanz herstellen (Warum praegt das BGB 1900 bis heute unser Vertragsrecht?).
-
-## Kernnormen / Kernquellen
-
-- **Sachsenspiegel** (ca. 1220-1235): Erster großer Rechtstext in niederdeutscher Volkssprache
-- **BGB 1900**: 2385 Paragraphen, gepraegt von Pandektistik und Vertragsliberalismus
-- **WRV 1919**: Erste demokratische Gesamtverfassung, aber gescheitert
-- **GG 1949 Art. 1-19**: Grundrechtskatalog als Reaktion auf NS-Unrecht
-- **EInigungsvertrag 1990**: Rechtliche Grundlage der deutschen Wiedervereinigung
-
-## Akteure und Institutionen
-
-- **Eike von Repgow** (ca. 1180-1233): Sachsenspiegel-Verfasser, erster bekannter Rechtsautor Deutschlands
-- **Hugo Preuß** (1860-1925): Demokratischer Verfassungsrechtler, WRV-Hauptautor
-- **Konrad Adenauer** (1876-1967) und **Carlo Schmid** (1896-1979): Politiker des Parlamentarischen Rates 1948-49
-- **Theodor Heuss** (1884-1963): Erster Bundespräsident, Zeichnete GG
-
-## Typische Streitfragen / Forschungsfragen
-
-1. Wie erklaert man Rechtskontinuitaet und Rechtsbruch für ein Laienpublikum?
-2. NS-Recht: Wie vermittelt man, dass auch Unrechtsregime ein Rechtssystem haben?
-3. Sachsenspiegel als Illustration: Was kann man aus 800 Jahre altem Text für heute lernen?
-4. BGB und Gleichberechtigung: Warum hatte das BGB 1900 kein gleiches Eherecht?
-5. Verstaendlichkeit vs. Praezision: Wo ist die Grenze bei Vereinfachung?
-
-## Methodik
-
-- Analoge Vergleiche nutzen: Sachsenspiegel ist wie heutiges BGB, nur auf Pergament
-- Zeitlinie und Ankerpunkte statt abstrakter Epochendefinition
-- Konkrete Beispiele: Ein Erbfall im Sachsenspiegel vs. BGB vs. heute
-- Quellen nennen, aber nicht als Fussnoten, sondern als weiterführende Literatur am Ende
-
----
-
-## Skill: `quellenkritik-archiv-und-edition`
-
-_Deutsche Rechtsgeschichte: Quellenkritik für Archivfunde und historische Editionen. Ueberlieferungskritik, Editionsvergleich, Archivrecherche in Bundes- und Landesarchiven sowie Umgang mit Handschriften und Druckausgaben im Deutsche Rechtsgeschichte._
-
-# Quellenkritik: Archiv und Edition
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Art. 20 Abs. 3 GG` — rechtsstaatlicher Gegenwartsanker.
-- `Art. 1 Abs. 1 GG` — Menschenwuerde als Zäsur- und Kontinuitaetsmassstab.
-- `Art. 123 Abs. 1 GG` — Fortgeltung vorkonstitutionellen Rechts.
-- `Art. 125 GG` — Fortgeltung als Bundesrecht.
-- `Art. 126 GG` — Meinungsverschiedenheiten über Fortgeltung.
-- `Art. 20 Einigungsvertrag` — öffentlicher Dienst und Rechtsuebergang.
-- `Art. 21 Einigungsvertrag` — Verwaltungsvermögen.
-- `Art. 22 Einigungsvertrag` — Finanzvermoegen.
-- `§ 1 VermG` — Anwendungsbereich Vermögensgesetz.
-- `§ 3 VermG` — Rückübertragung.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach jeweiliger Quelle; heutige Relevanz über Art. 184 ff. EGBGB und Auslegungshilfe für Grundrechtsverständnis.
-- Tragende Normen verifizieren: Sachsenspiegel, Schwabenspiegel, Carolina (CCC 1532), Preußisches ALR 1794, Code civil (1804), Sächsisches BGB 1865, BGB 1900, WRV 1919, GG 1949; rechtshistorische Quellen MGH, Constitutiones — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Quelleneditionen, Lehrstühle für deutsche Rechtsgeschichte, Verfassungsrechtler (Auslegungshintergrund), Restitutionsverfahren mit historischem Anker.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Quellenedition, rechtshistorisches Gutachten, Vorlesungsskript, dogmenhistorischer Aufsatz, Verfassungsentstehungsgeschichte — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Worum es geht
-
-Quellenkritik ist die Grundoperation der Rechtsgeschichte. Sie unterscheidet Ueberlieferungsform (Original, Abschrift, Druck, Digitalisat), Entstehungskontext (Kanzleipraxis, Legislativverfahren, Gerichtspraxis) und Editionszustand (kritische Edition, Regeste, Faksimile). Für die deutsche Rechtsgeschichte sind das Bundesarchiv (Koblenz/Berlin), die Landesarchive, das Geheime Staatsarchiv Preussischer Kulturbesitz sowie digitale Sammlungen wie ALEX und MGH-Online die zentralen Anlaufstellen.
-
-## Kernnormen / Kernquellen
-
-- **Bundesarchivgesetz (BArchG)** i.d.F. vom 10. Maerz 2017 (BGBl. I S. 410): Zugang zu Bundesarchivgut
-- **Landesarchivgesetze** (z. B. LArchG NRW): Sperrfristen 30 Jahre, Personendaten 10 Jahre nach Tod
-- **Mugdan, Die gesamten Materialien zum BGB** (1899, 6 Bde.): Standardedition der BGB-Motive und Protokolle
-- **MGH** (Monumenta Germaniae Historica): kritische Edition mittelalterlicher Quellen seit 1826
-
-## Akteure und Institutionen
-
-- **Bundesarchiv Koblenz/Berlin**: Hauptarchiv für Reichs- und Bundesakten
-- **Landesarchive**: Regionalbestaende, Verwaltungs- und Gerichtsakten
-- **MGH Muenchen**: Kritische Edition mittelalterlicher Quellen
-- **ALEX/OeNB Wien**: Digitale Reichsgesetzblatt-Sammlung
-
-## Typische Streitfragen / Forschungsfragen
-
-1. Kritische Edition vs. Faksimile: Wann genuegt welche Quelle?
-2. Umgang mit fehlenden Archivalien: Was tun wenn Primaerakten vernichtet wurden (NS, Krieg)?
-3. Handschriftliche Quellen vs. Druckausgabe: Welche hat Vorrang beim Sachsenspiegel?
-4. Archivzugang und Datenschutz: Wann sind Archivgut-Sperrfristen rechtshistorisch relevant?
-5. Digitalisierung und Authentizitaet: Sind Digitalisate gleich reliabel wie Originale?
-
-## Methodik
-
-- Ueberlieferungskette nachzeichnen: Original, Abschrift, Edition, Digitalisat
-- Editionsvergleich: mehrere Editionen bei wichtigen Textstellen gegenlesen
-- Bundesarchiv-Online: invenio.bundesarchiv.de für Findbuecher
-- MGH: mgh.de für Volltext-Zugang zu mittelalterlichen Editionen
+- Interne Arbeitsquellen oder Vorlagen nicht als Autorität anführen.
+- Keine wörtlichen Übernahmen aus fremden Texten; nur eigenständig formulierte Prüfgedanken verwenden.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur nennen, wenn der Nutzer sie ausdrücklich bereitstellt oder ein lizenzierter Live-Zugriff dokumentiert ist.
+- Wenn eine historische Tatsachenbehauptung nicht geprüft ist, als Prüfpunkt markieren und nicht als gesichert ausgeben.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

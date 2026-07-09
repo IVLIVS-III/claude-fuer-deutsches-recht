@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Paragraf 43 BRAO; Paragraf 43 BRAO; Paragraf 43a Abs. 2 BRAO |
-| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -55,7 +55,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 49b BRAO — Verguetungsrechtliche Grenzen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 50 BRAO — Handakten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 4 RVG — Verguetungsvereinbarung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 7. Antwortform
 

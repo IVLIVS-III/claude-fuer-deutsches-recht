@@ -87,12 +87,12 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - KUG Paragraf 22 und Paragraf 23: Bildnisschutz und Ausnahmen.
 - Paragraf 339 BGB: Vertragsstrafe bei Verstoß gegen Unterlassungserklärung; nicht zu hoch vereinbaren: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 890 ZPO: Ordnungsgeld bis 250 000 € oder Ordnungshaft bei Verstoß gegen gerichtliche Unterlassungsverfügung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 15 EStG: https://www.gesetze-im-internet.de/estg/__15.html: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 611, 631 BGB: Agenturvertrag kann als Dienst- oder Werkvertrag ausgestaltet sein; Qualifikation bestimmt Gewährleistung und Kündigung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 84 HGB (analog): Handelsvertreter-Grundsätze anwendbar, wenn Agentur dauerhaft Geschäfte vermittelt: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 138 BGB: Sittenwidrigkeit bei übermäßig langen Exklusivitätsklauseln oder unangemessener Knebelung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 305 ff. BGB (AGB-Recht): Agenturverträge als AGB – überraschende Klauseln (Paragraf 305c), unangemessene Benachteiligung (Paragraf 307): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 626 BGB: Außerordentliche fristlose Kündigung bei wichtigem Grund (z. B. Nichtzahlung, Vertragsverletzung der Agentur): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 89b HGB (analog): Ausgleichsanspruch des Creator-Handelsvertreters bei Vertragsende: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -102,10 +102,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - EuGH, Urteil vom 29.07.2019 - C-476/17: Pelham konkretisiert Sampling, Vervielfaeltigung und Kunstfreiheit.
 - BGH, Urteil vom 12.11.2009 - I ZR 166/07: marions-kochbuch behandelt Lichtbildschutz und Online-Nutzung.
 - BGH I ZR 90/20, I ZR 125/20, I ZR 126/20 und I ZR 35/21: Maßgebliche Influencer-Urteile zur Kennzeichnungspflicht, Gegenleistung, Tap-Tags und Sachvorteilen
-- BGH I ZR 90/20: https://openjur.de/u/2395894.html
-- BGH I ZR 125/20 und I ZR 126/20: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2021/2021170.html
-- BGH I ZR 35/21: https://openjur.de/u/2432342.html
-- BGH „Luisa-Maxime Huss" (I ZR 90/20): Gegenleistung und performance-basierte Vergütung begründen regelmäßig eine klare Kennzeichnungspflicht
 
 ## 9. Prüfraster
 

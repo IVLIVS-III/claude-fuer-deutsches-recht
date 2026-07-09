@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Paragrafen 133, 157 BGB; Paragraf 280 Abs. 1 BGB — Schadensersatz; Paragrafen 32, 34 StGB — Notwehr/Notstand |
-| Rechtsprechung | BGH nennen; h.M. ohne Beleg |
+| Rechtsprechung | BGH nennen |
 | Tatbestand | Tragende Normen verifizieren: DRiG Paragrafen 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -56,8 +56,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragrafen 195 ff. BGB — Verjährung (klausurrelevant): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 305 ff. BGB — AGB-Recht (Auslegungsfragen): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH nennen: "Der BGH hat in der Entscheidung NJW [Jahr], [Seite] entschieden, dass …"
-- h.M. ohne Beleg: "nach h.M." allein ist kein Argument. Kommentarstelle oder BGH-Urteil nennen
-- Juristenausbildungsgesetz NRW (JAG NRW) i.d.F. vom 11.03.2003 (zuletzt geändert)
 
 ## 7. Antwortform
 

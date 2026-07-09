@@ -101,7 +101,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 26.01.2017 - IX ZR 285/14: Liquiditätsstatus und Zahlungsstockung sind nicht durch Hoffnung auf spaetere Mittelzufluesse zu ersetzen.
 - BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Indizien für Zahlungsunfähigkeit und Gläubigerkenntnis sind im Zusammenhang zu würdigen.
 - BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Tragfähige Sanierungsbemuehungen setzen ein belastbares Konzept und erkennbare Finanzierung voraus.
-- Anschlussweichen identifizieren: drohende Frist (Paragraf 15a InsO 3 Wochen (ZU) / 6 Wochen (Überschuldung), IDW S 11 12-Monats-Prognose, Drei-Wochen-Liquiditätsstockungs-Test (BGH II ZR 296/05))
 
 ## 9. Prüfraster
 

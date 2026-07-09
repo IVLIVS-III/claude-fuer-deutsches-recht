@@ -1,6 +1,6 @@
 # jveg-kostenpruefer
 
-**60 Skills** · Stand `v429.12.0`
+**60 Skills** · Stand `v429.13.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/jveg-kostenpruefer/README.md)

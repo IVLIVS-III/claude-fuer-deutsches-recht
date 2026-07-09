@@ -1,41 +1,42 @@
-# Megaprompt: betaeubungsmittelrecht
+# Vollprüfung: betaeubungsmittelrecht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 125 Skills (gekuerzt fuer Chat-Fenster) des Plugins `betaeubungsmittelrecht`.
+Dieser Vollprüfung enthaelt top-8 von 125 Skills (gekuerzt fuer Chat-Fenster) des Plugins `betaeubungsmittelrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Betäubungsmittelrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Au…
-2. **durchsuchung-und-beschlagnahme** — Betäubungsmittelrecht: Durchsuchung und Beschlagnahme. Durchsuchung und Beschlagnahme im Fachgebiet Betäubungsmittelrech…
-3. **nicht-geringe-menge-livecheck** — Betäubungsmittelrecht: Nicht geringe Menge Livecheck. Nicht geringe Menge Livecheck im Fachgebiet Betäubungsmittelrecht …
-4. **kcang-und-medcang-abgrenzen** — Betäubungsmittelrecht: KCanG und MedCanG abgrenzen. KCanG und MedCanG abgrenzen im Fachgebiet Betäubungsmittelrecht als …
-5. **apotheke-btm-dokumentation** — Betäubungsmittelrecht: Apotheke BtM-Dokumentation. Apotheke BtM-Dokumentation im Fachgebiet Betäubungsmittelrecht als ge…
-6. **aufklaerungshilfe-btmg-kcang-medcang-abgrenzen-neue** — Betäubungsmittelrecht: Aufklärungshilfe § 31 BtMG. Aufklärungshilfe § 31 BtMG im Fachgebiet Betäubungsmittelrecht als ge…
-7. **btm-096-medizinalcannabis-therapiepfad-pruefen** — Betäubungsmittelrecht: Medizinalcannabis: Therapiepfad prüfen. Therapiepfad prüfen für Medizinalcannabis im Rahmen von B…
-8. **einfuhr-ausfuhr-durchfuhr** — Betäubungsmittelrecht: Einfuhr Ausfuhr Durchfuhr. Einfuhr Ausfuhr Durchfuhr im Fachgebiet Betäubungsmittelrecht als gefü…
+1. **kaltstart-triage** — Wenn es um Betäubungsmittelrecht - Allgemeiner Einstieg in Betäubungsmittelrecht geht: klärt Rolle, Ziel, Frist, Unterla…
+2. **amphetamin-mandantenbrief-schreiben** — Wenn es um Amphetamin Mandantenbrief Schreiben in Betäubungsmittelrecht geht: erstellt den passenden Entwurf aus Sachver…
+3. **cannabis-mandantenbrief-kokain-stoff** — Wenn es um Cannabis Mandantenbrief Schreiben in Betäubungsmittelrecht geht: erstellt den passenden Entwurf aus Sachverha…
+4. **fentanyl-mandantenbrief-schreiben** — Wenn es um Fentanyl Mandantenbrief Schreiben in Betäubungsmittelrecht geht: erstellt den passenden Entwurf aus Sachverha…
+5. **methadon-mandantenbrief-medizinalcannabis** — Wenn es um Methadon Mandantenbrief Schreiben in Betäubungsmittelrecht geht: erstellt den passenden Entwurf aus Sachverha…
+6. **heroin-mandantenbrief-amphetamin-stoff** — Wenn es um Heroin Mandantenbrief Schreiben in Betäubungsmittelrecht geht: erstellt den passenden Entwurf aus Sachverhalt…
+7. **kokain-mandantenbrief-schreiben** — Wenn es um Kokain Mandantenbrief Schreiben in Betäubungsmittelrecht geht: erstellt den passenden Entwurf aus Sachverhalt…
+8. **mdma-mandantenbrief-fentanyl-stoff-menge** — Wenn es um Mdma Mandantenbrief Schreiben in Betäubungsmittelrecht geht: erstellt den passenden Entwurf aus Sachverhalt, …
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Betäubungsmittelrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe._
+_Wenn es um Betäubungsmittelrecht - Allgemeiner Einstieg in Betäubungsmittelrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Betäubungsmittelrecht - Allgemeiner Einstieg
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Betaeubungsmittelrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Normenanker
 
@@ -90,11 +91,75 @@ Primär mit amtlichen Gesetzestexten, Behördenhinweisen, Gerichtsentscheidungen
 
 ---
 
-## Skill: `durchsuchung-und-beschlagnahme`
+## Skill: `amphetamin-mandantenbrief-schreiben`
 
-_Betäubungsmittelrecht: Durchsuchung und Beschlagnahme. Durchsuchung und Beschlagnahme im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht._
+_Wenn es um Amphetamin Mandantenbrief Schreiben in Betäubungsmittelrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Durchsuchung Und Beschlagnahme
+# Amphetamin Mandantenbrief Schreiben
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BtMG; KCanG; MedCanG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 BtMG` — Betäubungsmittelbegriff und Anlagenbezug.
+- `§ 3 BtMG` — Erlaubnispflicht.
+- `§ 29 Abs. 1 BtMG` — Grundtatbestaende.
+- `§ 29a Abs. 1 BtMG` — nicht geringe Menge/Abgabe an Minderjaehrige.
+- `§ 30 Abs. 1 BtMG` — Verbrechenstatbestaende.
+- `§ 30a Abs. 1 BtMG` — bewaffnete/organisierte Konstellationen.
+- `§ 31 BtMG` — Aufklaerungshilfe.
+- `§ 35 BtMG` — Zurueckstellung der Strafvollstreckung.
+- `§ 36 BtMG` — Anrechnung Therapie.
+- `§ 94 StPO` — Sicherstellung/Beschlagnahme.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+- BtMG, BtMVV, Medizinalcannabis, Apotheken-/Arzneimittelrecht
+- Erlaubnis, Verschreibung, Substitution, Besitz/Handel, Einziehung
+- Strafrecht/OWi, Berufsrecht, Fahreignung, Aufsicht
+- EU-/internationaler Grenzverkehr live prüfen
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 31 BtMG
+- § 1 BtMG
+- § 3 BtMG
+- § 29 BtMG
+- § 29a BtMG
+- § 30 BtMG
+- § 30a BtMG
+- § 35 BtMG
+- § 36 BtMG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+---
+
+## Skill: `cannabis-mandantenbrief-kokain-stoff`
+
+_Wenn es um Cannabis Mandantenbrief Schreiben in Betäubungsmittelrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Cannabis Mandantenbrief Schreiben
 
 ## Arbeitsweg
 
@@ -135,56 +200,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `nicht-geringe-menge-livecheck`
+## Skill: `fentanyl-mandantenbrief-schreiben`
 
-_Betäubungsmittelrecht: Nicht geringe Menge Livecheck. Nicht geringe Menge Livecheck im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht._
+_Wenn es um Fentanyl Mandantenbrief Schreiben in Betäubungsmittelrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Nicht Geringe Menge Livecheck
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BtMG; KCanG; MedCanG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 BtMG` — Betäubungsmittelbegriff und Anlagenbezug.
-- `§ 3 BtMG` — Erlaubnispflicht.
-- `§ 29 Abs. 1 BtMG` — Grundtatbestaende.
-- `§ 29a Abs. 1 BtMG` — nicht geringe Menge/Abgabe an Minderjaehrige.
-- `§ 30 Abs. 1 BtMG` — Verbrechenstatbestaende.
-- `§ 30a Abs. 1 BtMG` — bewaffnete/organisierte Konstellationen.
-- `§ 31 BtMG` — Aufklaerungshilfe.
-- `§ 35 BtMG` — Zurueckstellung der Strafvollstreckung.
-- `§ 36 BtMG` — Anrechnung Therapie.
-- `§ 94 StPO` — Sicherstellung/Beschlagnahme.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- BtMG, BtMVV, Medizinalcannabis, Apotheken-/Arzneimittelrecht
-- Erlaubnis, Verschreibung, Substitution, Besitz/Handel, Einziehung
-- Strafrecht/OWi, Berufsrecht, Fahreignung, Aufsicht
-- EU-/internationaler Grenzverkehr live prüfen
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
-## Skill: `kcang-und-medcang-abgrenzen`
-
-_Betäubungsmittelrecht: KCanG und MedCanG abgrenzen. KCanG und MedCanG abgrenzen im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht._
-
-# Kcang Und Medcang Abgrenzen
+# Fentanyl Mandantenbrief Schreiben
 
 ## Arbeitsweg
 
@@ -225,56 +245,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `apotheke-btm-dokumentation`
+## Skill: `methadon-mandantenbrief-medizinalcannabis`
 
-_Betäubungsmittelrecht: Apotheke BtM-Dokumentation. Apotheke BtM-Dokumentation im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht._
+_Wenn es um Methadon Mandantenbrief Schreiben in Betäubungsmittelrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Apotheke Btm Dokumentation
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BtMG; KCanG; MedCanG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 BtMG` — Betäubungsmittelbegriff und Anlagenbezug.
-- `§ 3 BtMG` — Erlaubnispflicht.
-- `§ 29 Abs. 1 BtMG` — Grundtatbestaende.
-- `§ 29a Abs. 1 BtMG` — nicht geringe Menge/Abgabe an Minderjaehrige.
-- `§ 30 Abs. 1 BtMG` — Verbrechenstatbestaende.
-- `§ 30a Abs. 1 BtMG` — bewaffnete/organisierte Konstellationen.
-- `§ 31 BtMG` — Aufklaerungshilfe.
-- `§ 35 BtMG` — Zurueckstellung der Strafvollstreckung.
-- `§ 36 BtMG` — Anrechnung Therapie.
-- `§ 94 StPO` — Sicherstellung/Beschlagnahme.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- BtMG, BtMVV, Medizinalcannabis, Apotheken-/Arzneimittelrecht
-- Erlaubnis, Verschreibung, Substitution, Besitz/Handel, Einziehung
-- Strafrecht/OWi, Berufsrecht, Fahreignung, Aufsicht
-- EU-/internationaler Grenzverkehr live prüfen
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
-## Skill: `aufklaerungshilfe-btmg-kcang-medcang-abgrenzen-neue`
-
-_Betäubungsmittelrecht: Aufklärungshilfe § 31 BtMG. Aufklärungshilfe § 31 BtMG im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht._
-
-# Aufklaerungshilfe 31 Btmg
+# Methadon Mandantenbrief Schreiben
 
 ## Arbeitsweg
 
@@ -315,25 +290,36 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `btm-096-medizinalcannabis-therapiepfad-pruefen`
+## Skill: `heroin-mandantenbrief-amphetamin-stoff`
 
-_Betäubungsmittelrecht: Medizinalcannabis: Therapiepfad prüfen. Therapiepfad prüfen für Medizinalcannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen._
+_Wenn es um Heroin Mandantenbrief Schreiben in Betäubungsmittelrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Medizinalcannabis Therapiepfad Pruefen
+# Heroin Mandantenbrief Schreiben
 
-## Arbeitsauftrag
+## Arbeitsweg
 
-Medizinalcannabis Therapiepfad Pruefen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Betäubungsmittelrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BtMG; KCanG; MedCanG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einstieg ohne Leerlauf
+## Normenanker
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-## Norm- und Quellenanker
+- `§ 1 BtMG` — Betäubungsmittelbegriff und Anlagenbezug.
+- `§ 3 BtMG` — Erlaubnispflicht.
+- `§ 29 Abs. 1 BtMG` — Grundtatbestaende.
+- `§ 29a Abs. 1 BtMG` — nicht geringe Menge/Abgabe an Minderjaehrige.
+- `§ 30 Abs. 1 BtMG` — Verbrechenstatbestaende.
+- `§ 30a Abs. 1 BtMG` — bewaffnete/organisierte Konstellationen.
+- `§ 31 BtMG` — Aufklaerungshilfe.
+- `§ 35 BtMG` — Zurueckstellung der Strafvollstreckung.
+- `§ 36 BtMG` — Anrechnung Therapie.
+- `§ 94 StPO` — Sicherstellung/Beschlagnahme.
 
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - BtMG, BtMVV, Medizinalcannabis, Apotheken-/Arzneimittelrecht
 - Erlaubnis, Verschreibung, Substitution, Besitz/Handel, Einziehung
 - Strafrecht/OWi, Berufsrecht, Fahreignung, Aufsicht
@@ -347,38 +333,58 @@ Medizinalcannabis Therapiepfad Pruefen wird nicht als abstraktes Schema beantwor
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
 
-## Typische Artefakte
+---
 
-- BtM-Rollen- und Stoffcheck
-- Verschreibungs-/Dokumentationsmatrix
-- Verteidigungs- oder Compliance-Vermerk
-- Aufsichts- und Nachweisordner
+## Skill: `kokain-mandantenbrief-schreiben`
 
-## Red-Team-Fragen
+_Wenn es um Kokain Mandantenbrief Schreiben in Betäubungsmittelrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-- Stoff/Anlage falsch
-- Therapie/Handel/Besitz vermischt
-- Dokumentationspflichten unterschätzt
-- Fahreignung und Berufsrecht vergessen
+# Kokain Mandantenbrief Schreiben
 
-## Ausgabeformat
+## Arbeitsweg
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BtMG; KCanG; MedCanG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Qualitätsregel
+## Normenanker
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 BtMG` — Betäubungsmittelbegriff und Anlagenbezug.
+- `§ 3 BtMG` — Erlaubnispflicht.
+- `§ 29 Abs. 1 BtMG` — Grundtatbestaende.
+- `§ 29a Abs. 1 BtMG` — nicht geringe Menge/Abgabe an Minderjaehrige.
+- `§ 30 Abs. 1 BtMG` — Verbrechenstatbestaende.
+- `§ 30a Abs. 1 BtMG` — bewaffnete/organisierte Konstellationen.
+- `§ 31 BtMG` — Aufklaerungshilfe.
+- `§ 35 BtMG` — Zurueckstellung der Strafvollstreckung.
+- `§ 36 BtMG` — Anrechnung Therapie.
+- `§ 94 StPO` — Sicherstellung/Beschlagnahme.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+- BtMG, BtMVV, Medizinalcannabis, Apotheken-/Arzneimittelrecht
+- Erlaubnis, Verschreibung, Substitution, Besitz/Handel, Einziehung
+- Strafrecht/OWi, Berufsrecht, Fahreignung, Aufsicht
+- EU-/internationaler Grenzverkehr live prüfen
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
 
 ---
 
-## Skill: `einfuhr-ausfuhr-durchfuhr`
+## Skill: `mdma-mandantenbrief-fentanyl-stoff-menge`
 
-_Betäubungsmittelrecht: Einfuhr Ausfuhr Durchfuhr. Einfuhr Ausfuhr Durchfuhr im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht._
+_Wenn es um Mdma Mandantenbrief Schreiben in Betäubungsmittelrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Einfuhr Ausfuhr Durchfuhr
+# Mdma Mandantenbrief Schreiben
 
 ## Arbeitsweg
 
@@ -421,7 +427,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

@@ -102,7 +102,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 24.01.2013 - VII ZR 37/12: IT-Projektverträge verlangen klare Leistungsbeschreibung und Abnahmeprüfung.
 - BGH, Urteil vom 19.07.2012 - VII ZR 262/11: Werklohn setzt bei werkvertraglicher Prägung grundsaetzlich Abnahmefähigkeit voraus.
 - EuGH C-186/16 (Andriciuc) und C-26/13 (Kasler) zur Klauselkontrolle – curia.europa.eu
-- 2. Bei B2C gelten Verbrauchsgüterkaufregeln. Paragraf 477 Abs. 1 Satz 1 BGB vermutet bei einer binnen eines Jahres auftretenden Mangelerscheinung, dass die Sache bereits bei Gefahrübergang mangelhaft war
 - EuGH C-249/21 (Fuhrmann-2): Buttontext muss eindeutig sein; "Buchung abschließen" nicht ausreichend
 
 ## 9. Prüfraster

@@ -102,9 +102,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04: Kittel-Rechtsprechung zum Vorsteuerabzug bei Kenntnis von Umsatzsteuerbetrug.
 - EuGH, Urteil vom 21.06.2012 - C-80/11 und C-142/11: Mahageben und David begrenzen überzogene Nachweispflichten beim Vorsteuerabzug.
 - EuGH C-280/10 (Vorsteuerabzug bei wirtschaftlicher Tätigkeit)
-- Stand: 05/2026. Paragraf 234 AO Stundungszinssatz aktuell unverändert 0.5 %/Monat (gesonderter Zinssatz, BVerfG-Urteil zu Paragraf 233a AO greift nicht direkt). AEAO Stand 2024 berücksichtigt. Bei Reform
 - BFH, Beschluss vom 30.04.2025 — XI R 15/23 (E-Mails als vorzulegende Handels- und Geschäftsbriefe in der Aussenprüfung): E-Mails mit steuerlichem Bezug fallen unter Paragraf 147 Abs. 1 Nr. 2 und 3 AO
-- Datenzugriff Paragraf 147 Abs. 6 AO — Z1 (unmittelbarer Zugriff) Z2 (mittelbarer Zugriff) Z3 (Datenträgerüberlassung). Bei E-Mail-Vorlageverlangen ist BFH XI R 15/23 vom 30.04.2025 zu beachten
 
 ## 9. Prüfraster
 

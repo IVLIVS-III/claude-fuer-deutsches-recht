@@ -1,39 +1,40 @@
-# Megaprompt: aussenwirtschaft-zoll-sanktionen
+# Vollprüfung: aussenwirtschaft-zoll-sanktionen
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 124 Skills (gekuerzt fuer Chat-Fenster) des Plugins `aussenwirtschaft-zoll-sanktionen`.
+Dieser Vollprüfung enthaelt top-8 von 124 Skills (gekuerzt fuer Chat-Fenster) des Plugins `aussenwirtschaft-zoll-sanktionen`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Aussenwirtschaft Zoll Sanktionen-Plugin. Fragt Rolle, Ziel, Fristen, Unterlag…
-2. **aussenwirtschaft-vub-einfuhr-ausfuhr** — Verbote und Beschraenkungen VuB für besondere Waren wie Dual-Use Kulturgut CITES F-Gase Lebensmittel und Russland-Iranem…
-3. **aussenwirtschaft-aml-kyc-sanktionen** — Verknuepft GwG-Risikoanalyse KYC Sanktionsscreening und interne Kontrollpflichten im Aussenhandel. Anwendungsfall Export…
-4. **aussenwirtschaft-bafa-genehmigungen** — BAFA-Genehmigungsverfahren für Exporte und Dienstleistungen mit Genehmigungspflicht. Anwendungsfall Exporteur braucht BA…
-5. **asset-freeze-atlas-ausfuhranmeldung-audit** — Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis: Einfrieren von Geldern und wirtschaftl…
-6. **aussenwirtschaft-ausfuhrverantwortlicher-organisation** — Benennung und Organisation des Ausfuhrverantwortlichen nach AWG § 7 und BAFA-Anforderungen: Aufgaben, Vollmachten und Ha…
-7. **aussenwirtschaft-awv-bundesbank** — Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bundesbank: Z1-Z15-Formulare für Zahlungsmeldungen, Kapi…
-8. **aussenwirtschaft-awv-z4-z10-z11-meldungen** — Meldepflichten nach AWV für spezifische Formulare Z4 (Direktinvestitionen), Z10 (Wertpapiertransaktionen) und Z11 (Kapit…
+1. **kaltstart-triage** — Wenn es um Kaltstart Triage in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: klärt Rolle, Ziel, Frist, Unterlagen und…
+2. **aussenwirtschaft-schutzmassnahmen-safeguards** — Wenn es um EU-Schutzmassnahmen (Safeguards): Mengenbeschraenkungen und Unternehmensreaktion in Außenwirtschaft, Sanktion…
+3. **aussenwirtschaft-rueckwaren-erlass-erstattung** — Wenn es um Rueckwaren: Zollerlass und Identitaetsnachweis nach UZK Art. 203 in Außenwirtschaft, Sanktionen, Zoll und CBA…
+4. **aussenwirtschaft-versandverfahren-ncts** — Wenn es um NCTS-Versandverfahren T1/T2: Anmeldung Sicherheitsleistung und Bestimmungsstelle in Außenwirtschaft, Sanktion…
+5. **aussenwirtschaft-aktive-veredelung** — Wenn es um Aktive Veredelung: Bewilligung, Mengenueberwachung und Abschlussabrechnung in Außenwirtschaft, Sanktionen, Zo…
+6. **aussenwirtschaft-kulturgut-einfuhr-ausfuhr** — Wenn es um Kulturgutschutz: Einfuhr- und Ausfuhranforderungen für Kunstwerke und Antiquitaeten in Außenwirtschaft, Sankt…
+7. **aussenwirtschaft-voruebergehende-verwendung-ata-carnet** — Wenn es um Voruebergehende Verwendung und ATA-Carnet: Messeware und Berufsausruestung in Außenwirtschaft, Sanktionen, Zo…
+8. **sammelgenehmigung-export-schulung** — Wenn es um Sammelgenehmigungen und AGG für Dual-Use-Exporte: Beantragung und Nutzung in Außenwirtschaft, Sanktionen, Zol…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting im Aussenwirtschaft Zoll Sanktionen-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skil..._
+_Wenn es um Kaltstart Triage in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Außenwirtschaft Zoll Sanktionen** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Schnellstart-Workflow
 
@@ -72,7 +73,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 
 ### 1. Intake in 60 Sekunden
 
-Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+Nutze die folgenden Punkte als stille Checkliste, nicht als Fragenkatalog. Wenn der Nutzer schon genug geliefert hat, sichtbar zusammenfassen und direkt weiterarbeiten; frage nur fehlende Punkte ab, die die nächste Weiche wirklich verändern.
 
 | Punkt | Frage | Warum wichtig? |
 |---|---|---|
@@ -243,360 +244,15 @@ Das Plugin integriert auch AWV-Meldepflichten gegenueber der Deutschen Bundesban
 
 ---
 
-## Skill: `aussenwirtschaft-vub-einfuhr-ausfuhr`
+## Skill: `aussenwirtschaft-schutzmassnahmen-safeguards`
 
-_Verbote und Beschraenkungen VuB für besondere Waren wie Dual-Use Kulturgut CITES F-Gase Lebensmittel und Russland-Iranembargos. Anwendungsfall Import oder Export einer Ware koennte VuB-Beschraenkungen unterliegen. Normen CITES-Verordnung EU 338/97 F-Gas-Verordnung 517/2014 Iran-VO 267/2012 Russland-VO 833/2014 Kulturgutschutzgesetz. Prüfraster Dual-Use Kulturgut CITES F-Gase Veterinaeranforderungen Lebensmittelsicherheit Luxuswaren Iran-Nordkorea-Russland-Bezuege Dokumentencodes. Output VuB-Prüfbericht mit Warenklassifizierung Beschraenkungsnachweis und Genehmigungsplan. Abgrenzung zu aussenwirtschaft-exportkontrolle-dual-use und aussenwirtschaft-zolltarif-vzta._
+_Wenn es um EU-Schutzmassnahmen (Safeguards): Mengenbeschraenkungen und Unternehmensreaktion in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Verbote und Beschränkungen bei Ein- und Ausfuhr
-
-## Zweck
-
-Prüfe TARIC-Code, fachrechtliche VuB-Anforderung und Zollanmeldung gemeinsam, damit Einfuhr-/Ausfuhrverbote, Genehmigungspflichten und Dokumentenfelder nicht auseinanderlaufen.
-
-## Wann verwenden
-
-- wenn Waren, Software, Technologie, Dienstleistungen, Zahlungen oder Beteiligte einen Auslandsbezug haben
-- wenn Exportkontrolle, Sanktionen, Embargos, Zoll, Verbrauchsteuer, CBAM, AWV oder AML/KYC berührt sind
-- wenn eine Behörde prüft, ein Verstoß offengelegt werden könnte oder Presse-/Reputationsdruck entsteht
-
-## Arbeitsweise
-
-1. **Sachverhalt einfrieren.** Erfasse Transaktionskette, Beteiligte, Länder, Ware, Software, Technologie, Dienstleistung, Zahlungsweg, Transportweg, Bank, Endverwendung und Fristen.
-2. **Datenlücken markieren.** Trenne belegte Tatsachen von Annahmen. Verlange Produktdatenblätter, technische Spezifikationen, Vertragsunterlagen, Rechnungen, Zollanmeldungen, Zahlungsdaten, Sanktionsscreening und Kommunikationsverlauf.
-3. **Offizielle Quellen prüfen.** Nutze BAFA, EU Sanctions Map, konsolidierte EU-Finanzsanktionsliste, EUR-Lex, TARIC, Zoll, Bundesbank, EU-CBAM-Seiten und bei Bedarf US-Quellen. Protokolliere URL, Abrufdatum und Aussage.
-4. **Verbote vor Genehmigungen.** Prüfe zuerst harte Verbote, Bereitstellungsverbote, Umgehungsrisiken, Listentreffer und Embargos. Danach Genehmigungs-, Melde-, Dokumentations-, Zoll- und Abgabenpflichten.
-5. **Sofortmaßnahmen ausgeben.** Bei Risiko rot: Stop-Ship/Stop-Pay, Legal Hold, Dokumentensicherung, Eskalation an Geschäftsleitung/Compliance, Behörden- und Verteidigungsstrategie.
-6. **Arbeitsprodukt erstellen.** Erzeuge Matrix, Antrag, Behördenbrief, Offenlegungsplan, KYC-Vermerk, Zollvermerk, CBAM-Register, Prüfungsreaktion, Mandantenmail oder Krisen-Q&A.
-7. **Qualitätstor.** Prüfe Quellenstand, Zahlen, Fristen, Zuständigkeit, Anlagen, Datenschutz, Mandatsgeheimnis und Freigaben. Unsichere Punkte bleiben sichtbar.
-
-## Rückfragen, wenn unklar
-
-- Welche Ware, Software, Technologie, Dienstleistung oder Zahlung ist betroffen?
-- Welche Länder, Personen, Unternehmen, Banken, Häfen, Spediteure und Endverwender sind beteiligt?
-- Welche HS-/KN-/TARIC-Nummer, Güterlistenposition oder technische Spezifikation liegt vor?
-- Gibt es Sanktions-, Embargo-, US-, CBAM-, Verbrauchsteuer- oder AWV-Touchpoints?
-- Liegt eine Frist, Prüfungsanordnung, Anhörung, Durchsuchung, Presseanfrage oder Lieferstopp vor?
-
-## Ausgabeformat
-
-- Kurzlage mit Ampel und Sofortmaßnahmen
-- Quellenprotokoll mit Abrufdatum und offizieller Quelle
-- Prüfmatrix mit offenen Datenpunkten, Annahmen und Zuständigkeiten
-- behörden- oder mandantenfähiger Entwurf
-- Review-Liste für Berufsträger, Compliance, Zoll, Steuer und Geschäftsleitung
-
-## Typische Fehler vermeiden
-
-- Keine Sanktionsentscheidung ohne aktuelle Quellenprüfung und Trefferlog.
-- Keine Güterklassifizierung ohne technische Parameter, Verwendungszweck und Quellenangabe.
-- Keine Zolltarifnummer ohne TARIC-/EZT-Prüfung und Begründung.
-- Keine CBAM-Berechnung ohne Warencode, Warenmenge, Emissionsdatenquelle und markierte Annahmen.
-- Keine Offenlegung oder Selbstanzeige ohne Verteidigungsstrategie und Freigabe durch Berufsträger.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
-
-## Triage vor Vorabentscheidungs-/VUB-Pruefung
-
-Kläre vor der Pruefung:
-
-1. Geht es um eine verbindliche Ursprungsauskunft (vUA), eine verbindliche Zolltarifauskunft (vZTA), oder ein anderes vorausgehend-bindendes Bescheidverfahren?
-2. Handelt es sich um Einfuhr- oder Ausfuhrverfahren, und liegt ein entsprechender Handels- oder Produktionsvorgang zugrunde?
-3. Besteht ein laufendes Hauptzollamt-Verfahren (Anmeldung, Pruefung, Nacherhebung)?
-4. Welche Waren-/Ursprungspruefung soll abgesichert werden — Praeferenz, Antidumping, Einfuhrpolitik?
-5. Gibt es zeitliche Dringlichkeit durch anstehende Lieferungen oder laufende Zollanmeldungen?
-
-## Vertiefung: Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Normen-Kette VUB/Einfuhr-Ausfuhr
-
-- Art. 33-34 UZK — Verbindliche Zolltarifauskunft (vZTA), Gueltigkeit 3 Jahre
-- Art. 33-37 UZK — Verbindliche Ursprungsauskunft (vUA)
-- Art. 59-67 UZK — Praeferenzieller und nichtpraferentieller Ursprung
-- Art. 103 UZK — Verjaehrungsfrist Zollschuld (3 Jahre; 10 Jahre bei Hinterziehung)
-- Art. 9 UZK — Recht auf gerichtliche Ueberpruefung von Zollentscheidungen
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Output-Template: VUB/Einfuhr-Ausfuhr-Antrag-Checkliste
-
-**Adressat:** Zollabteilung / Importeur — **Tonfall:** verfahrenstechnisch, fristenbewusst
-
-```
-VUB-ANTRAG-CHECKLISTE (vZTA / vUA)
-Datum: [DATUM]
-Antragsteller: [FIRMA]
-Zustaendiges Hauptzollamt: [HZA]
-Art des Antrags: [ ] vZTA / [ ] vUA
-
-1. ANTRAGSINHALTE
-   Ware: [HANDELSBESCHREIBUNG]
-   Technische Parameter: [SCHLUESSELDATEN]
-   Beantragte KN-Nr.: [VORSCHLAG] / Ursprung: [LAND]
-
-2. ANLAGEN
-   [ ] Detaillierte Warenbezeichnung
-   [ ] Technisches Datenblatt
-   [ ] Muster (sofern zumutbar)
-   [ ] Nachweis vorhandener Ursprungsdokumente (bei vUA)
-
-3. FRISTEN
-   Bearbeitungszeit Zollbehoerde: ca. [WOCHEN]
-   Erforderlicher vZTA-Beginn: [DATUM]
-   Erster Einfuhrtermin: [DATUM]
-   Risiko Verzoegerung: [ ] Gering / [ ] Relevant — Massnahme: [...]
-
-4. GUELTIGKEIT DES BESCHEIDS
-   vZTA: 3 Jahre ab Ausstellung (Art. 34 I UZK)
-   vUA: Unbefristet bis Widerruf (Art. 37 I UZK)
-   Nutzungspflicht: [ ] Ja, ab Ausstellung verpflichtend
-
-5. RECHTSBEHELF (FALLS ABLEHNUNG)
-   Einspruch bei ausstellender Behoerde: Frist [DATUM]
-   Klage: FG [STANDORT], Frist nach Einspruchsentscheidung
-```
-
----
-
-## Skill: `aussenwirtschaft-aml-kyc-sanktionen`
-
-_Verknuepft GwG-Risikoanalyse KYC Sanktionsscreening und interne Kontrollpflichten im Aussenhandel. Anwendungsfall Exporteur oder Haendler braucht integriertes AML- und Sanktions-Compliance-System für grenzüberschreitende Geschäfte. Normen GwG § 5 Risikoanalyse EU-Sanktionsverordnungen AWG § 34 Aussenwirtschaftsstrafrecht. Prüfraster GwG-Risikoanalyse wirtschaftlich Berechtigte KYC Sanktionsscreening Transaktionsmonitoring Schulungen Kontrollen. Output Integriertes Compliance-Handbuch mit Risikomatrix KYC-Prozess Screening-Protokoll und Schulungsplan. Abgrenzung zu aussenwirtschaft-sanktionen-embargos und geldwäsche-praevention-aml-kyc-Plugin._
-
-# AML, KYC und Sanktions-Compliance
-
-## Zweck
-
-Dieser Skill baut ein integriertes Kontrollsystem für internationale Geschäftsmodelle.
-
-## Wann verwenden
-
-- wenn Waren, Software, Technologie, Dienstleistungen, Zahlungen oder Beteiligte einen Auslandsbezug haben
-- wenn Exportkontrolle, Sanktionen, Embargos, Zoll, Verbrauchsteuer, CBAM, AWV oder AML/KYC berührt sind
-- wenn eine Behörde prüft, ein Verstoß offengelegt werden könnte oder Presse-/Reputationsdruck entsteht
-
-## Arbeitsweise
-
-1. **Sachverhalt einfrieren.** Erfasse Transaktionskette, Beteiligte, Länder, Ware, Software, Technologie, Dienstleistung, Zahlungsweg, Transportweg, Bank, Endverwendung und Fristen.
-2. **Datenlücken markieren.** Trenne belegte Tatsachen von Annahmen. Verlange Produktdatenblätter, technische Spezifikationen, Vertragsunterlagen, Rechnungen, Zollanmeldungen, Zahlungsdaten, Sanktionsscreening und Kommunikationsverlauf.
-3. **Offizielle Quellen prüfen.** Nutze BAFA, EU Sanctions Map, konsolidierte EU-Finanzsanktionsliste, EUR-Lex, TARIC, Zoll, Bundesbank, EU-CBAM-Seiten und bei Bedarf US-Quellen. Protokolliere URL, Abrufdatum und Aussage.
-4. **Verbote vor Genehmigungen.** Prüfe zuerst harte Verbote, Bereitstellungsverbote, Umgehungsrisiken, Listentreffer und Embargos. Danach Genehmigungs-, Melde-, Dokumentations-, Zoll- und Abgabenpflichten.
-5. **Sofortmaßnahmen ausgeben.** Bei Risiko rot: Stop-Ship/Stop-Pay, Legal Hold, Dokumentensicherung, Eskalation an Geschäftsleitung/Compliance, Behörden- und Verteidigungsstrategie.
-6. **Arbeitsprodukt erstellen.** Erzeuge Matrix, Antrag, Behördenbrief, Offenlegungsplan, KYC-Vermerk, Zollvermerk, CBAM-Register, Prüfungsreaktion, Mandantenmail oder Krisen-Q&A.
-7. **Qualitätstor.** Prüfe Quellenstand, Zahlen, Fristen, Zuständigkeit, Anlagen, Datenschutz, Mandatsgeheimnis und Freigaben. Unsichere Punkte bleiben sichtbar.
-
-## Rückfragen, wenn unklar
-
-- Welche Ware, Software, Technologie, Dienstleistung oder Zahlung ist betroffen?
-- Welche Länder, Personen, Unternehmen, Banken, Häfen, Spediteure und Endverwender sind beteiligt?
-- Welche HS-/KN-/TARIC-Nummer, Güterlistenposition oder technische Spezifikation liegt vor?
-- Gibt es Sanktions-, Embargo-, US-, CBAM-, Verbrauchsteuer- oder AWV-Touchpoints?
-- Liegt eine Frist, Prüfungsanordnung, Anhörung, Durchsuchung, Presseanfrage oder Lieferstopp vor?
-
-## Ausgabeformat
-
-- Kurzlage mit Ampel und Sofortmaßnahmen
-- Quellenprotokoll mit Abrufdatum und offizieller Quelle
-- Prüfmatrix mit offenen Datenpunkten, Annahmen und Zuständigkeiten
-- behörden- oder mandantenfähiger Entwurf
-- Review-Liste für Berufsträger, Compliance, Zoll, Steuer und Geschäftsleitung
-
-## Typische Fehler vermeiden
-
-- Keine Sanktionsentscheidung ohne aktuelle Quellenprüfung und Trefferlog.
-- Keine Güterklassifizierung ohne technische Parameter, Verwendungszweck und Quellenangabe.
-- Keine Zolltarifnummer ohne TARIC-/EZT-Prüfung und Begründung.
-- Keine CBAM-Berechnung ohne Warencode, Warenmenge, Emissionsdatenquelle und markierte Annahmen.
-- Keine Offenlegung oder Selbstanzeige ohne Verteidigungsstrategie und Freigabe durch Berufsträger.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
-
-## Triage vor AML-/KYC-Sanktionspruefung
-
-Kläre vor der Pruefung:
-
-1. Handelt es sich um eine Neukunden-Onboarding-Pruefung, laufende Transaction-Monitoring-Auswertung oder retrospektiven Verdachtsfall?
-2. Welche Kundengruppe — juristischen Person mit UBO-Kette, PEP, Korrespondenzbank oder reine Privatkunde?
-3. Welche Sanktionslisten wurden bereits gescreent (EU, OFAC, UN, UK OFSI)?
-4. Liegt ein Sorgfaltspflichten-Treffer nach § 10 GwG (vereinfacht, standard, verstaerkt) vor?
-5. Wurde eine Verdachtsmeldung nach § 43 GwG bereits abgegeben oder ist sie erforderlich?
-
-## Vertiefung: Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Normen-Kette AML/KYC/Sanktionen
-
-- §§ 10-14 GwG — Kundensorgfaltspflichten (KYC), vereinfachte, standard, verstaerkte
-- § 43 GwG — Verdachtsmeldepflicht an FIU
-- § 56 GwG — Bussgeldtatbestaende GwG, bis 1 Mio EUR
-- Art. 5-7 VO (EU) 833/2014 — Bereitstellungsverbot Finanzmittel Russland
-- FATF Recommendations 10, 15, 20 — Internationale Standards KYC/AML
-- 6. Geldwaesche-Richtlinie (EU) 2018/1673 — Strafbarkeit Geldwaesche
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Output-Template: AML/KYC-Pruefungsvermerk
-
-**Adressat:** Compliance-Abteilung / Vorstand — **Tonfall:** dokumentationsintensiv, risikoorientiert
-
-```
-AML/KYC-PRUEFUNGSVERMERK
-Datum: [DATUM]
-Kunde/Entitaet: [NAME]  Typ: [Natuerliche Person / Jur. Person]
-Risikoklasse (GwG): [ ] Niedrig / [ ] Standard / [ ] Hoch / [ ] Sehr hoch (§ 15 GwG)
-Bearbeiter: [NAME]
-
-1. SANKTIONSSCREENING
-   Gescreente Listen: EU / OFAC SDN / UN SC / UK OFSI / Sonstige
-   Treffer: [ ] Kein Treffer / [ ] Treffer: [BEZEICHNUNG, Liste, Datum]
-   Bewertung: [ ] Echttreffer — Blockierung / [ ] False Positive — Freigabe
-
-2. KYC-SORGFALTSSTUFE
-   Anwendbare Sorgfaltsstufe: § [10/13/15] GwG — Begruendung: [...]
-   UBO identifiziert: [ ] Ja: [NAME, %-Anteil] / [ ] Nein — Abweichung begruendet
-
-3. PEP-CHECK
-   PEP-Status: [ ] Kein PEP / [ ] PEP — Position: [...]
-   Massnahme: [ ] Verstaerkte Pruefung — Ergebnis: [...]
-
-4. VERDACHTSMELDUNG
-   Verdacht nach § 43 GwG: [ ] Nein / [ ] Ja — Gemeldet an FIU am: [DATUM]
-
-5. ENTSCHEIDUNG
-   [ ] Geschaftsbeziehung freigegeben
-   [ ] Geschaftsbeziehung abgelehnt / beendet — Grundlage: § [GwG / AWG]
-   [ ] Erhoehte laufende Ueberwachung angeordnet
-```
-
----
-
-## Skill: `aussenwirtschaft-bafa-genehmigungen`
-
-_BAFA-Genehmigungsverfahren für Exporte und Dienstleistungen mit Genehmigungspflicht. Anwendungsfall Exporteur braucht BAFA-Ausfuhrgenehmigung für gueterlistenpflichtige Ware oder Technologie. Normen § 8 AWG Genehmigungspflicht EU-Dual-Use-Verordnung 2021/821 AWV §§ 8 ff. BAFA-Merkblatt. Prüfraster BAFA-Anträge Nullbescheide Auskuenfte ELAN-K2-Vorgaenge Empfaengeranfragen Rückfragen. Output Vollständige Antragsunterlagen mit Antragsbeschreibung Endverwendungserklärung und Vorgangsdokumentation. Abgrenzung zu aussenwirtschaft-exportkontrolle-dual-use und aussenwirtschaft-gueterlisten-klassifizierung._
-
-# BAFA-Genehmigungen und Anfragen
-
-## Zweck
-
-Dieser Skill übersetzt Prüfungsergebnisse in behördenfähige Anträge und Anlagenlisten.
-
-## Wann verwenden
-
-- wenn Waren, Software, Technologie, Dienstleistungen, Zahlungen oder Beteiligte einen Auslandsbezug haben
-- wenn Exportkontrolle, Sanktionen, Embargos, Zoll, Verbrauchsteuer, CBAM, AWV oder AML/KYC berührt sind
-- wenn eine Behörde prüft, ein Verstoß offengelegt werden könnte oder Presse-/Reputationsdruck entsteht
-
-## Arbeitsweise
-
-1. **Sachverhalt einfrieren.** Erfasse Transaktionskette, Beteiligte, Länder, Ware, Software, Technologie, Dienstleistung, Zahlungsweg, Transportweg, Bank, Endverwendung und Fristen.
-2. **Datenlücken markieren.** Trenne belegte Tatsachen von Annahmen. Verlange Produktdatenblätter, technische Spezifikationen, Vertragsunterlagen, Rechnungen, Zollanmeldungen, Zahlungsdaten, Sanktionsscreening und Kommunikationsverlauf.
-3. **Offizielle Quellen prüfen.** Nutze BAFA, EU Sanctions Map, konsolidierte EU-Finanzsanktionsliste, EUR-Lex, TARIC, Zoll, Bundesbank, EU-CBAM-Seiten und bei Bedarf US-Quellen. Protokolliere URL, Abrufdatum und Aussage.
-4. **Verbote vor Genehmigungen.** Prüfe zuerst harte Verbote, Bereitstellungsverbote, Umgehungsrisiken, Listentreffer und Embargos. Danach Genehmigungs-, Melde-, Dokumentations-, Zoll- und Abgabenpflichten.
-5. **Sofortmaßnahmen ausgeben.** Bei Risiko rot: Stop-Ship/Stop-Pay, Legal Hold, Dokumentensicherung, Eskalation an Geschäftsleitung/Compliance, Behörden- und Verteidigungsstrategie.
-6. **Arbeitsprodukt erstellen.** Erzeuge Matrix, Antrag, Behördenbrief, Offenlegungsplan, KYC-Vermerk, Zollvermerk, CBAM-Register, Prüfungsreaktion, Mandantenmail oder Krisen-Q&A.
-7. **Qualitätstor.** Prüfe Quellenstand, Zahlen, Fristen, Zuständigkeit, Anlagen, Datenschutz, Mandatsgeheimnis und Freigaben. Unsichere Punkte bleiben sichtbar.
-
-## Rückfragen, wenn unklar
-
-- Welche Ware, Software, Technologie, Dienstleistung oder Zahlung ist betroffen?
-- Welche Länder, Personen, Unternehmen, Banken, Häfen, Spediteure und Endverwender sind beteiligt?
-- Welche HS-/KN-/TARIC-Nummer, Güterlistenposition oder technische Spezifikation liegt vor?
-- Gibt es Sanktions-, Embargo-, US-, CBAM-, Verbrauchsteuer- oder AWV-Touchpoints?
-- Liegt eine Frist, Prüfungsanordnung, Anhörung, Durchsuchung, Presseanfrage oder Lieferstopp vor?
-
-## Ausgabeformat
-
-- Kurzlage mit Ampel und Sofortmaßnahmen
-- Quellenprotokoll mit Abrufdatum und offizieller Quelle
-- Prüfmatrix mit offenen Datenpunkten, Annahmen und Zuständigkeiten
-- behörden- oder mandantenfähiger Entwurf
-- Review-Liste für Berufsträger, Compliance, Zoll, Steuer und Geschäftsleitung
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Typische Fehler vermeiden
-
-- Keine Sanktionsentscheidung ohne aktuelle Quellenprüfung und Trefferlog.
-- Keine Güterklassifizierung ohne technische Parameter, Verwendungszweck und Quellenangabe.
-- Keine Zolltarifnummer ohne TARIC-/EZT-Prüfung und Begründung.
-- Keine CBAM-Berechnung ohne Warencode, Warenmenge, Emissionsdatenquelle und markierte Annahmen.
-- Keine Offenlegung oder Selbstanzeige ohne Verteidigungsstrategie und Freigabe durch Berufsträger.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
-
-## Triage vor BAFA-Genehmigungsantrag
-
-Kläre vor Antragstellung:
-
-1. Welche Guterlistenposition (EU-Dual-Use, nationale Rustungsguterliste, Chemiewaffen-Vorlaeufer) ist betroffen?
-2. Ist die Allgemeine Genehmigung EU001-EU008 oder eine nationale Allgemeine Genehmigung anwendbar?
-3. Wer ist Antragsteller — Ausfuehrer i.S.v. Art. 2 Nr. 3 VO (EU) 2021/821 oder Vermittler?
-4. Liegt eine End-User-Erklaerung (EUE/EUC) und Import-Zertifikat des Endverwenders vor?
-5. Welche Bearbeitungszeit ist angesichts des Liefertermins realistisch (BAFA: 4-8 Wochen bei Einzelgenehmigung)?
-
-## Vertiefung: Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Normen-Kette BAFA-Genehmigungen
-
-- Art. 3, 4, 12, 14 VO (EU) 2021/821 — Genehmigungs- und Antragspflichten, Unterlagen
-- §§ 8-11 AWV — Nationale Einzelgenehmigungsverfahren
-- § 18 IV AWG — Strafbarkeit Antragsbetrug bei Genehmigungserschleichung
-- Allgemeine Genehmigungen EU001-EU008 — abgestufte Erleichterungen
-- AWV Anlage AL — Ausfuhrliste nationale Guterlistenpositionen
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Output-Template: BAFA-Genehmigungsantrag-Checkliste
-
-**Adressat:** Exportkontroll-Abteilung — **Tonfall:** verfahrenstechnisch, vollstaendigkeitsfokussiert
-
-```
-BAFA-GENEHMIGUNGSANTRAG — CHECKLISTE
-Datum: [DATUM]
-Ware: [BEZEICHNUNG]  Guterlistenposition: [CODE]
-Empfaengerland: [LAND]  Endverwender: [NAME]
-Antragsteller: [FIRMA]  BAFA-Az.: [FALLS BEKANNT]
-
-1. PFLICHTANGABEN IM ANTRAG
-   [ ] Vollstaendige Warenbezeichnung und technische Parameter
-   [ ] KN-Nr. und Guterlistenposition
-   [ ] Wert und Menge der Ware
-   [ ] Empfaenger und Endverwender mit vollstaendiger Adresse
-   [ ] Endverwendungszweck (EUE/EUC angehaengt)
-
-2. ANLAGEN
-   [ ] End-User-Erklaerung (EUE) unterzeichnet
-   [ ] Import-Zertifikat des Einfuhrlandes (falls erforderlich)
-   [ ] Technische Beschreibung / Datenblatt
-   [ ] Handelsrechnung oder Pro-forma-Invoice
-
-3. ALLGEMEINE GENEHMIGUNG GEPRUEFT
-   [ ] EU001-EU008 geprueft — Ergebnis: [Anwendbar: EU00X / Nicht anwendbar]
-   [ ] Begruendung: [...]
-
-4. BEARBEITUNGSZEIT / LIEFERPLAN
-   Eingereichtes Datum: [DATUM]
-   Erwartete BAFA-Entscheidung: ca. [DATUM] (4-8 Wochen)
-   Liefertermin Mandant: [DATUM]
-   Risiko Terminueberschreitung: [ ] Gering / [ ] Hoch — Massnahme: [...]
-```
-
----
-
-## Skill: `asset-freeze-atlas-ausfuhranmeldung-audit`
-
-_Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis: Einfrieren von Geldern und wirtschaftlichen Ressourcen nach Art. 2 VO (EU) 269/2014 und Art. 4 VO (EU) 833/2014. Checkliste für Banken, Notare und Unternehmen: Identifizierung sanktionierbarer Vermoegen, Meldepflich..._
-
-# Asset Freeze: Sofortmassnahmen beim Einfrieren sanktionierten Vermögens
+# EU-Schutzmassnahmen (Safeguards): Mengenbeschraenkungen und Unternehmensreaktion
 
 ## Arbeitsbereich
 
-Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis: Einfrieren von Geldern und wirtschaftlichen Ressourcen nach Art. 2 VO (EU) 269/2014 und Art. 4 VO (EU) 833/2014. Checkliste für Banken, Notare und Unternehmen: Identifizierung sanktionierbarer Vermögen, Meldepflicht an Bundesbank/BaFin und zuständige Behörden. Output: Einfrierungs-Protokoll und Meldedokument. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EU-Schutzmassnahmen (Safeguards) nach VO (EU) 2015/478 Art. 16 und VO (EU) 2015/755 Art. 13: Mengenbeschraenkungen Ueberwachungsmassnahmen und Antragstellung bei der EU-Kommission. Wirkung auf Importeure und Exporteure in betroffenen Sektoren (Stahl Solar Keramik). Abgrenzung zu Antidumping-Zoellen. Output: Safeguard-Prüfvermerk und Reaktionsplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -608,42 +264,42 @@ Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis
 
 ## Mandantenfall
 
-- Bank stellt Sanktionstreffer bei Kontoinhaber fest; internes Compliance-Team fragt nach Sofortmassnahmen.
-- Notar beurkundet Immobilienkauf; Kaeufer erweist sich als UBO einer sanktionierten russischen Holdinggesellschaft.
-- Unternehmen erhalt Zahlungsauftrag von Gegenpartei, die neu auf EU-Sanktionsliste aufgenommen wurde.
+- Stahlimporteur ist von EU-Stahl-Safeguard-Kontingenten betroffen; Kontingentanteil beantragen.
+- Exporteur aus Drittland fragt wie er auf EU-Safeguard-Untersuchung reagieren kann.
+- Solarpanel-Importeur fragt ob auslaufende Safeguard-Maßnahme verlaengert wird.
 
 ## Erste Schritte
 
-1. Sanktionstreffer sofort dokumentieren: Name, Listennummer, Verordnung, Datum des Treffers.
-2. Gelder/wirtschaftliche Ressourcen einfrieren; keine Auszahlung, kein Transfer, keine Verrechnung.
-3. Zustaendige nationale Behörde informieren: Bundesbank (Devisenbeschraenkungen), BaFin (Finanzsektor), BAFA (Gueter).
-4. Ggf. Freistellungs- oder Genehmigungsantrag vorbereiten (Art. 6 VO 269/2014: humanitaere Ausnahme).
-5. Rechtsbeistand einschalten; Haftungsrisiko der handelnden Personen absichern.
-6. Legal Hold für alle relevanten Unterlagen erteilen.
+1. Maßnahmenart feststellen: Safeguard-Zoll oder Mengen-Kontingent (Tariff Rate Quota)?
+2. Betroffenen HS-Code und Ursprungsland in TARIC auf Safeguard-Eintrag prüfen.
+3. Kontingents-Zuteilung prüfen: Traditioneller Importeur oder neuer Lieferant?
+4. Antrag auf Kontingentszuteilung bei Kommission oder Hauptzollamt fristgerecht stellen.
+5. EU-Safeguard-Untersuchung: Als interessierte Partei registrieren und Fragebogen beantworten.
+6. Ablauf-Check: Ist Maßnahme befristet? Verlaengerungsankuendigung der Kommission beobachten.
 
 ## Rechtsrahmen
 
-- **Art. 2 VO (EU) 269/2014**: Bereitstellungsverbot und Einfrierungspflicht (Russland-Finanzsanktionen).
-- **Art. 4 VO (EU) 833/2014**: Sektorales Embargo und wirtschaftliche Ressourcen.
-- **Art. 11 VO (EU) 269/2014**: Meldepflicht bei eingefrorenen Geldern an Mitgliedstaaten.
-- **§ 18 AWG**: Strafbewehrte Bereitstellung sanktionierten Vermogens.
-- **§ 22 Abs. 4 AWG**: Freiwillige Selbstanzeige als Mildernungsmoeglichkeit.
+- **VO (EU) 2015/478 Art. 16**: Safeguard-Maßnahmen bei Einfuhren aus WTO-Ländern.
+- **VO (EU) 2015/755 Art. 13**: Safeguards für Einfuhren aus Ländern ohne Marktwirtschaft.
+- **GATT Art. XIX**: WTO-Grundlage für Schutzmassnahmen.
+- **VO (EU) 2019/159**: Stahlschutzmasnahmen-Verordnung (aktuell in Kraft).
+- **UZK Art. 56**: Anwendung von Safeguard-Zolls aetzen in der Zollanmeldung.
 
 ## Prüf-Raster
 
-- [ ] Trefferidentitaet eindeutig verifiziert (kein False Positive)?
-- [ ] Einfrierungsmassnahmen sofort und vollstaendig umgesetzt?
-- [ ] Zustaendige Behörde (Bundesbank/BaFin/BAFA) rechtzeitig informiert?
-- [ ] Freistellungsantrag für genehmigte Transaktionen vorbereitet?
-- [ ] Legal Hold erteilt und Unterlagen gesichert?
-- [ ] Strafrecht-/Haftungsrisiko bewertet und Rechtsberatung eingeholt?
+- [ ] HS-Code und Ursprungsland auf Safeguard-Maßnahme in TARIC geprueft?
+- [ ] Kontingents-Zuteilungssystem verstanden (TRQ-Verfahren)?
+- [ ] Antrag auf Kontingent fristgerecht eingereicht?
+- [ ] Status als interessierte Partei in Untersuchung registriert?
+- [ ] Ablauf der Maßnahme im Blick und Reaktionsplanung vorbereitet?
+- [ ] Abgrenzung Safeguard/Antidumping für kumulierte Belastung analysiert?
 
 ## Typische Fallstricke
 
-- 50/50-Regel bei Eigentum: Auch indirekt sanktionierten Gesellschaften muss eingefroren werden.
-- Einfrierung muss vollstaendig sein; Teilauszahlungen oder Verrechnung verstoessen gegen Bereitstellungsverbot.
-- Meldepflicht ist unverzueglich; Versaeumnis fuehrt zu eigenem Sanktionsrisiko.
-- Humanitaere Ausnahmen erfordern explizite Genehmigung; nicht eigenmaechtig handeln.
+- Safeguard-Kontingente erschoepfen sich schnell am Jahresanfang; Antrag so frueh wie möglich.
+- Ursprungsland-Shifting (Ausweichen auf Nicht-Safeguard-Land) wird als Umgehung verfolgt.
+- EU-Safeguards enden oder werden verlaengert; Planung ohne Monitoring gefaehrlich.
+- Kumulierung Safeguard + Antidumping-Zoll auf dieselbe Ware möglich und kostspielig.
 
 ## Schnittstellen zu anderen Skills
 
@@ -665,11 +321,249 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 
 ## Quellen
 
-- [VO (EU) 269/2014 konsolidiert auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0269)
-- [VO (EU) 833/2014 konsolidiert auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0833)
+- [VO (EU) 2015/478 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R0478)
+- [VO (EU) 2019/159 Stahl-Safeguards auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0159)
+- [TARIC-Datenbank EU-Kommission](https://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp)
+- [WTO Safeguards](https://www.wto.org/english/tratop_e/safeg_e/safeg_e.htm)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
-- [Bundesbank Devisenbeschraenkungen](https://www.bundesbank.de/de/aufgaben/unbarer-zahlungsverkehr/finanzsanktionen)
-- [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
+
+---
+
+## Skill: `aussenwirtschaft-rueckwaren-erlass-erstattung`
+
+_Wenn es um Rueckwaren: Zollerlass und Identitaetsnachweis nach UZK Art. 203 in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Rueckwaren: Zollerlass und Identitaetsnachweis nach UZK Art. 203
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: AWG, AWV, EU-Dual-Use-VO 2021/821, EU-Sanktionsverordnungen, ZollkodexUnion, IranEmbargoVO, RusslandSanktionenVO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Mandantenfall
+
+- Maschinenbauer exportiert Muster, die unverkauft zurueckkehren; Rueckwaren-Abgabenfreiheit beansprucht.
+- Ausstellungsobjekte kehren nach Messe zuruck; mehr als 3 Jahre nach Ausfuhr.
+- Ware wurde im Ausland repariert; Abgrenzung Rueckware vs. passive Veredelung unklar.
+
+## Erste Schritte
+
+1. Rueckware-Voraussetzungen prüfen: EU-Ursprungsstatus, Dreijahrsfrist (mit Ausnahmen), keine Bearbeitung im Ausland.
+2. Identitaetsnachweis zusammenstellen: Ausfuhranmeldung, Seriennummern, Warenmerkmale.
+3. Bearbeitung im Ausland prüfen: einfache Konservierung ist erlaubt; Reparatur fuehrt zu passiver Veredelung.
+4. Verfahrenscode 6321 in ATLAS-Einfuhranmeldung verwenden.
+5. Eventuelle Erstattungspflicht auf Exportland-MwSt prüfen.
+6. Bei abgelaufener Dreijahrsfrist: Verlaengerungsantrag beim Hauptzollamt stellen.
+
+## Rechtsrahmen
+
+- **UZK Art. 203**: Rueckwaren, Abgabenfreiheit bei Wiedereinfuhr.
+- **UZK-DA Art. 158**: Voraussetzungen für Rueckwaren-Status.
+- **UZK Art. 204**: Verstaerkte Rueckwaren nach Bearbeitung (passive Veredelung Abgrenzung).
+- **UZK-IA Art. 255**: Verfahren für Rueckwaren in ATLAS.
+- **VO (EU) 952/2013 Art. 33**: Abgrenzung Rueckwaren von Wiedereinfuhr nach Veredelung.**
+
+## Prüf-Raster
+
+- [ ] EU-Ursprungsstatus der Ware bei urspruenglicher Ausfuhr bestanden?
+- [ ] Dreijahrsfrist eingehalten oder Ausnahme/Verlaengerung vorhanden?
+- [ ] Keine wesentliche Bearbeitung im Ausland (nur Konservierung zulassig)?
+- [ ] Identitaetsnachweis vollstaendig (Ausfuhranmeldung, Merkmale, Seriennummern)?
+- [ ] Verfahrenscode 6321 in ATLAS-Anmeldung verwendet?
+- [ ] Abgrenzung zu passiver Veredelung geprueft?
+
+## Typische Fallstricke
+
+- Dreijahrsfrist abgelaufen ohne Antragsstellung; nachtraegliche Verlaengerung möglich aber aufwendig.
+- Reparatur im Ausland macht Ware zur passiven Veredelung, nicht zur Rueckware.
+- Fehlender Identitaetsnachweis; urspruengliche Ausfuhranmeldung nicht mehr auffindbar.
+- Rueckwaren-Verfahren ausgeschlossen bei Ware, die im EU-Ausland zollrechtlich in Frei-Verkehr gesetzt war.
+
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Quellen
+
+- [UZK Art. 203 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
+- [Zoll.de Rueckwaren](https://www.zoll.de/DE/Fachthemen/Zoelle/Zollverfahren/Besondere-Verfahren/Rueckwaren/rueckwaren_node.html)
+- [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)
+
+---
+
+## Skill: `aussenwirtschaft-versandverfahren-ncts`
+
+_Wenn es um NCTS-Versandverfahren T1/T2: Anmeldung Sicherheitsleistung und Bestimmungsstelle in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# NCTS-Versandverfahren T1/T2: Anmeldung Sicherheitsleistung und Bestimmungsstelle
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: AWG, AWV, EU-Dual-Use-VO 2021/821, EU-Sanktionsverordnungen, ZollkodexUnion, IranEmbargoVO, RusslandSanktionenVO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Mandantenfall
+
+- Spediteur benoetigt T1-Anmeldung für Nicht-Unionsware durch Deutschland nach Polen.
+- AEO-Inhaber moechte Erleichterungen beim Versandverfahren (vereinfachte Verfahren zulassige Abgangsstelle) nutzen.
+- Transitpapier nicht bei Bestimmungsstelle vorgelegt; Zollschuldentstehung und Nacherhebung.
+
+## Erste Schritte
+
+1. Versandverfahren-Typ bestimmen: T1 (Nicht-Unionsware) oder T2 (Unionsware auSSERhalb EU-Zollgebiet).
+2. Sicherheitsleistung kalkulieren: Art. 89 ff. UZK; Gesamtbuergschaft oder Einzelsicherheit.
+3. NCTS-Anmeldung bei Abgangsstelle; Felder Waren-Code Menge Wert Empfaenger Bestimmungsstelle.
+4. Transit-Begleitdokument (TAD) drucken und Sendung begleiten.
+5. Bestimmungsstelle: Warenankunft melden und Entladungsprotokoll erstellen.
+6. Freigabe in NCTS beantragen; Sicherheitsleistung freigeben nach Beendigung.
+
+## Rechtsrahmen
+
+- **UZK Art. 226-236**: Unionsversandverfahren T1 und T2.
+- **UZK-DA Art. 275-285**: Vereinfachungen für zugelassene Versender/Empfaenger.
+- **UZK Art. 89-100**: Sicherheitsleistung im Versandverfahren.
+- **UZK Art. 79**: Zollschuldentstehung bei nicht ordnungsgemaesser Erledigung.
+- **AEO-Leitlinien (TAXUD/B2/047/2011)**: AEO-Erleichterungen im Versandverfahren.
+
+## Prüf-Raster
+
+- [ ] Versandverfahren-Typ (T1/T2) korrekt bestimmt?
+- [ ] Sicherheitsleistung ausreichend und gueltig?
+- [ ] NCTS-Anmeldung vollstaendig und korrekt?
+- [ ] TAD korrekt ausgedruckt und Sendung begleitend?
+- [ ] Bestimmungsstelle rechtzeitig angemeldet?
+- [ ] Freigabe in NCTS und Entlastung der Sicherheitsleistung bestaetigt?
+
+## Typische Fallstricke
+
+- Nicht-Vorlage bei Bestimmungsstelle loest automatische Mahnverfahren und Zollschuld aus.
+- Sicherheitsleistung bei haeufigen Sendungen schnell erschoepft; Monitoring noetig.
+- Vereinfachte Verfahren (zugelassener Versender) erfordern separate Bewilligung.
+- TIR-Carnets als Alternative haben andere Sicherheitsleistungsstruktur.
+
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Quellen
+
+- [UZK auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
+- [Zoll.de Versandverfahren](https://www.zoll.de/DE/Fachthemen/Zoelle/Zollverfahren-allgemein/Versandverfahren/versandverfahren_node.html)
+- [UZK-DA auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2446)
+
+---
+
+## Skill: `aussenwirtschaft-aktive-veredelung`
+
+_Wenn es um Aktive Veredelung: Bewilligung, Mengenueberwachung und Abschlussabrechnung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Aktive Veredelung: Bewilligung, Mengenueberwachung und Abschlussabrechnung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: AWG, AWV, EU-Dual-Use-VO 2021/821, EU-Sanktionsverordnungen, ZollkodexUnion, IranEmbargoVO, RusslandSanktionenVO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Mandantenfall
+
+- Maschinenbauer moechte importierte Komponenten verarbeiten und als Endprodukt exportieren ohne Einfuhrzoll zu zahlen.
+- Textilfirma hat Bewilligung, aber die Ausbeute-Koeffizientenberechnung stimmt nicht mit ATLAS-Buchfuehrung ueberein.
+- Pharmaunternehmen beantragt aktive Veredelung für Wirkstoffimport aus Indien zur Weiterverarbeitung und EU-Ausfuhr.
+
+## Erste Schritte
+
+1. Wirtschaftliche Voraussetzungen prüfen (Art. 211 Abs. 3 lit. a UZK): Interessentest und Ausfuhrnachweis.
+2. Beantragung der Bewilligung beim oertlich zuständigen Hauptzollamt (Muster: DEK/INT/AV).
+3. Buchfuehrungsanforderungen klaren: Lagerbuchhaltungssystem, Mengenueberwachung, Ausbeute-Koeffizienten.
+4. INF-Blatt-Verfahren für Mehrniederlassungsveredelung prüfen.
+5. Äquivalenzwaren-Option bewerten: Gleiche oder gleichartige Waren als Ersatz.
+6. Gesamtabrechnung mit Frist planen: Ausbeute-Ist vs. Soll, Fehlmengenbehandlung.
+
+## Rechtsrahmen
+
+- **Art. 256-258 UZK (VO (EU) 952/2013)**: Anwendungsbereich und Bewilligungsvoraussetzungen.
+- **Art. 240-262 UZK-DA (VO (EU) 2015/2446)**: Technische Bedingungen, Ausbeute, Äquivalenz.
+- **Art. 321-330 UZK-IA (VO (EU) 2015/2447)**: Buchfuehrungs- und Abschlusspflichten.
+- **Art. 212-214 UZK**: Bewilligungsantrag und wirtschaftliche Voraussetzungen.
+- **§ 10 ZollVG**: Hauptzollamtliche Kontrolle.
+
+## Prüf-Raster
+
+- [ ] Wirtschaftlicher Interessentest dokumentiert und bestanden?
+- [ ] Bewilligung aktuell gueltig und Standorte vollstaendig erfasst?
+- [ ] Lagerbuchhaltung mit Ausbeute-Koeffizienten und Mengenueberwachung eingerichtet?
+- [ ] INF-Blatt für Mehrparteienverfahren beantragt?
+- [ ] Gesamtabrechnung fristgerecht (Erledigungsfrist aus Bewilligung) erstellt?
+- [ ] Nicht veredelter Restbestand korrekt behandelt (Wiederausfuhr, Ueberfuehung in freien Verkehr)?
+
+## Typische Fallstricke
+
+- Ausbeute-Koeffizient zu hoch angesetzt fuehrt zu Zollschuldrisiko bei Gesamtabrechnung.
+- Fristversaeumnis bei Erledigungsfrist loest Zollschuld für Gesamtmenge aus.
+- Äquivalenzwaren ohne spezifische Bewilligungsgrundlage unzulaessig.
+- Buchfuehrungs-Luecken bei Unterauftragsvergabe (Lohnveredelung) oft nicht erkannt.
+
+## Schnittstellen zu anderen Skills
+
+Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
+- Sanktionsscreening und Listenpruefung: `aussenwirtschaft-sanktionsscreening-fuzzy-match`
+- Exportkontrollklassifizierung: `aussenwirtschaft-gueterlisten-klassifizierung`
+- Freiwillige Offenlegung gegenueber BAFA oder Hauptzollamt: `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
+- Interne Compliance-Programme: `aussenwirtschaft-icp-kontrollsystem`
+
+## Qualitaetsanforderungen
+
+- Sachverhalt vollstaendig: Alle Beteiligten inklusive UBO/Eigentum/Kontrolle erfasst?
+- Normverweise konkret: Artikel und Absatz zitiert, nicht nur Verordnungsnummer?
+- Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
+- Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
+- Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
+- Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
+
+## Quellen
+
+- [UZK konsolidiert auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
+- [UZK-DA auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2446)
+- [Zoll.de: Aktive Veredelung](https://www.zoll.de/DE/Fachthemen/Zoelle/Besondere-Zollverfahren/Veredelungsverkehr/Aktive-Veredelung/aktive-veredelung_node.html)
+- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
 
 ## Normen und Rechtsprechung
 
@@ -691,16 +585,15 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 ### Leitentscheidungen
 
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
 ---
 
-## Skill: `aussenwirtschaft-ausfuhrverantwortlicher-organisation`
+## Skill: `aussenwirtschaft-kulturgut-einfuhr-ausfuhr`
 
-_Benennung und Organisation des Ausfuhrverantwortlichen nach AWG § 7 und BAFA-Anforderungen: Aufgaben, Vollmachten und Haftung des Ausfuhrverantwortlichen, Einbindung in Compliance-Struktur, interne Berichtslinien und Vertretungsregeln. Fallkonstellation: KMU richtet erstmals Exportkontroll-Funkti..._
+_Wenn es um Kulturgutschutz: Einfuhr- und Ausfuhranforderungen für Kunstwerke und Antiquitaeten in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
 
-# Ausfuhrverantwortlicher: Funktion, Haftung und Organisation
+# Kulturgutschutz: Einfuhr- und Ausfuhranforderungen für Kunstwerke und Antiquitaeten
 
 ## Arbeitsweg
 
@@ -712,42 +605,42 @@ _Benennung und Organisation des Ausfuhrverantwortlichen nach AWG § 7 und BAFA-A
 
 ## Mandantenfall
 
-- KMU erhalt BAFA-Anfrage und stellt fest, dass kein benannter Ausfuhrverantwortlicher existiert.
-- Konzernmutter prüft, ob Ausfuhrverantwortlicher-Rolle in shared-service-Struktur zentralisiert werden kann.
-- Neugegrundetes Tech-Unternehmen mit Dual-Use-Produkten muss Exportkontroll-Funktion aufbauen.
+- Auktionshaus importiert 200 Jahre alte Vasen aus Aegypten; Importlizenz nach VO (EU) 2019/880 erforderlich?
+- Privatperson moechte Gemaelde aus US-Nachlass nach Deutschland importieren; Sorgfaltspflichten.
+- Kunsthaendler exportiert seltene Manuskripte; deutsches Ausfuhrverbot nach KGSG?
 
 ## Erste Schritte
 
-1. Gesetzliche Pflicht zur Benennung prüfen: § 7 AWG, BAFA-Merkblatt Exportverantwortung.
-2. Geeignete Person identifizieren: Kenntnisse im Exportkontrollrecht, Erreichbarkeit, Befugnisse.
-3. Stellenbeschreibung erstellen: Aufgaben, Berichtslinie an Geschäftsführung, Vertretung.
-4. Interne Vollmacht und Entscheidungskompetenzen dokumentieren (Freigabe, Hold, Eskalation).
-5. Schulungsplan für initialen und laufenden Wissenserhalt erstellen.
-6. BAFA über Benennung informieren falls explizit gefordert; Dokumentation im ICP ablegen.
+1. Kulturgut-Kategorie und Ursprungsland bestimmen.
+2. Schwellenwerte VO (EU) 2019/880 prüfen: Alter und Wert der Ware.
+3. Importlizenzverpflichtung und Erklaerung des Importeurs prüfen.
+4. Sorgfaltspflicht: Provenienzrecherche und Dokumentation der legalen Ausfuhr aus Ursprungsland.
+5. Nationales Ausfuhrverbot nach KGSG (nationales Kulturgut) prüfen.
+6. Einfuhr-/Ausfuhranmeldung mit korrektem HS-Code und TARIC-Besonderheiten.
 
 ## Rechtsrahmen
 
-- **§ 7 AWG**: Verantwortlichkeit des Ausfuhrers.
-- **BAFA-Merkblatt 'Exportverantwortung'**: Anforderungen an Ausfuhrverantwortlichen.
-- **Art. 9 VO (EU) 2021/821**: Interne Compliance-Programme (ICP) und Verantwortlichkeit.
-- **§ 130 OWiG**: Aufsichtspflichtverletzung durch Geschäftsführung.
-- **§ 18 AWG**: Haftungsrahmen für unerlaubte Ausfuhr.
+- **VO (EU) 2019/880**: Einfuhr von Kulturguetern; Importlizenz und Importeurerklaerung.
+- **KGSG**: Schutz deutschen Kulturgutes; Ausfuhrgenehmigungspflicht.
+- **UNESCO-Konvention 1970**: Sorgfaltspflichten bei Kulturgut.
+- **UZK Art. 56**: Verbote und Beschraenkungen bei Einfuhr.
+- **§ 83 KGSG**: Bussgeldbewehrung bei unrechtmäßiger Ausfuhr.**
 
 ## Prüf-Raster
 
-- [ ] Ausfuhrverantwortlicher schriftlich benannt?
-- [ ] Person qualifiziert und mit Entscheidungsbefugnissen ausgestattet?
-- [ ] Vertretungsregel für Urlaub und Krankheit geregelt?
-- [ ] Berichtslinie an Geschäftsführung dokumentiert?
-- [ ] Zugang zu aktuellen Gueterlisten und Sanktionslisten sichergestellt?
-- [ ] ICP-Dokumentation vollstaendig und dem Ausfuhrverantwortlichen uebergeben?
+- [ ] Kulturgut-Kategorie und Ursprungsland korrekt bestimmt?
+- [ ] Schwellenwerte (Alter und Wert) nach VO (EU) 2019/880 geprueft?
+- [ ] Importlizenz oder Importeurerklaerung vorbereitet?
+- [ ] Provenienzrecherche vollstaendig und dokumentiert?
+- [ ] Nationales Kulturgut-Ausfuhrverbot nach KGSG geprueft?
+- [ ] TARIC-Besonderheiten und VB-Codes in Zollanmeldung?
 
 ## Typische Fallstricke
 
-- Ausfuhrverantwortlicher ohne reale Entscheidungsbefugnis ist haftungsrechtlich wertlos.
-- Vertretungsluecken bei Urlaub gefaehrden laufende Exportvorgaenge.
-- Fehlende Schulung fuehrt zu unbewussten Verstossen und hoeherer persönlicher Haftung.
-- Konzernstrukturen erfordern klare Zuständigkeitsabgrenzung je Rechtseinheit.
+- Fehlen von Ausfuhrdokumenten aus Ursprungsland loest Sorgfaltspflicht-Verletzung aus.
+- Kunstwerke von Fluchtgut-Listungen ('Haus der Kunst' u.a.) können Beschlagnahme-Risiko tragen.
+- UNESCO-Verdachtslaender (Irak, Syrien, Libyen) erfordern erhoehte Due Diligence.
+- Schwellenwerte nach VO (EU) 2019/880 ändern sich bei Erweiterung der Kategorien.
 
 ## Schnittstellen zu anderen Skills
 
@@ -769,18 +662,18 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 
 ## Quellen
 
-- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
-- [BAFA Exportkontrolle Interne Compliance](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Interne_Compliance/interne_compliance_node.html)
-- [VO (EU) 2021/821 Art. 9 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0821)
-- [OWiG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/owig_1968/index.html)
+- [VO (EU) 2019/880 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0880)
+- [KGSG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/kgsg/index.html)
+- [Zoll.de Kulturguter](https://www.zoll.de/DE/Fachthemen/Verbote-Beschraenkungen/Kulturgut/kulturgut_node.html)
+- [BKM Kulturgutschutz](https://www.bundesregierung.de/breg-de/suche/kulturgutschutz)
 
 ---
 
-## Skill: `aussenwirtschaft-awv-bundesbank`
+## Skill: `aussenwirtschaft-voruebergehende-verwendung-ata-carnet`
 
-_Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bundesbank: Z1-Z15-Formulare für Zahlungsmeldungen, Kapitalverkehrsmeldungen und Bestandserhebungen. Einordnung von Zahlungen, Wertpapiergeschaeften und Direktinvestitionsaenderungen. Fristenkontrolle für monatliche und jaehrliche Me..._
+_Wenn es um Voruebergehende Verwendung und ATA-Carnet: Messeware und Berufsausruestung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# AWV-Bundesbank-Meldungen: Z-Formulare und Kapitalverkehrspflichten
+# Voruebergehende Verwendung und ATA-Carnet: Messeware und Berufsausruestung
 
 ## Arbeitsweg
 
@@ -792,42 +685,42 @@ _Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bundesbank: Z1-
 
 ## Mandantenfall
 
-- Unternehmen erhalt Zahlungen aus dem Ausland über 12.500 EUR und weiss nicht, ob Z4-Meldung noetig.
-- Bank fragt nach korrektem Formular für Wertpapierkaeufe eines Kunden aus Drittstaaten.
-- Exporteur zahlungsabwicklung über Auslandsbank; interessen Compliancepruefung aller Meldepflichten.
+- Messebauer transportiert Ausstellungsexponate nach Dubai; ATA-Carnet für Nicht-EU-Land beantragen.
+- Filmproduktion nimmt Kameraausruestung zum Drehen nach Kanada mit; ATA-Carnet Berufsausruestung.
+- Maschinenexporteur bringt Demonstrationsgeraet nach Japan; Zollabruf und Wiedereinf uehrung.
 
 ## Erste Schritte
 
-1. Art der Transaktion bestimmen: Zahlung, Wertpapiergeschaeft, Direktinvestition oder Kapitalverkehr.
-2. Schwellenwert prüfen: >= 12.500 EUR loest in vielen Faellen Meldepflicht aus (§ 67 AWV).
-3. Zustaendiges Z-Formular auswaehlen (Z1 allg. Zahlung, Z4 Direktinvestitionen, Z10 Wertpapiere etc.).
-4. Fristen beachten: in der Regel 7. Werktag des Folgemonats.
-5. Formulare digital über Bundesbank ExtraNet einreichen.
-6. Archivierung der Meldungsbestaetigung.
+1. Bestimmungsland prüfen: ATA-Carnet-Partnerland (WCO-Mitglied) oder EU-Bewilligung voruebergehende Verwendung?
+2. Warenart prüfen: Messeware Berufsausruestung Transportmittel oder Ersatzteile?
+3. ATA-Carnet bei zuständiger Handelskammer (IHK) beantragen; Buergschaftshoehe kalkulieren.
+4. Carnet vollstaendig ausfuellen; Warenliste mit HS-Codes Werten und Seriennummern.
+5. Ausreise: Carnet bei Abgangszollstelle abstempeln lassen.
+6. Wiedereinf uehrung innerhalb der Gueltigkeitsdauer; Gegenzeichnung bei Rieder eintrittszollstelle.
 
 ## Rechtsrahmen
 
-- **AWV §§ 67-71**: Zahlungsmeldepflichten gegenueber Bundesbank.
-- **§ 67 AWV**: 12.500-EUR-Schwellenwert und Meldepflicht.
-- **AWG §§ 13-14**: Auskunfts- und Aufzeichnungspflichten.
-- **§ 24 AWV**: Aufbewahrungspflichten für Meldungsbelege.
-- **EU-Kapitalverkehrsfreiheit (Art. 63-66 AEUV)**: Rahmenbedingungen für Kapitalverkehr.
+- **UZK Art. 250-262**: Voruebergehende Verwendung als EU-Zollverfahren.
+- **Istanbul-Konvention (1990)**: Voelkerrechtliche Grundlage für ATA-Carnet-System.
+- **UZK-DA Art. 322 ff.**: Voraussetzungen für Bewilligung voruebergehende Verwendung.
+- **UZK Art. 79**: Zollschuldentstehung bei Nichtrueckfuehr.
+- **ATA-Convention Annex B.2 (Messe)**: Spezifische Regeln für Ausstellungsgueter.
 
 ## Prüf-Raster
 
-- [ ] Transaktion >= 12.500 EUR und meldepflichtig?
-- [ ] Richtiges Z-Formular ausgewaehlt?
-- [ ] Fristen (7. Werktag Folgemonat) eingehalten?
-- [ ] Meldung digital über Bundesbank ExtraNet eingereicht?
-- [ ] Archivierungsbeleg gesichert?
-- [ ] Jaehrliche Bestandsmeldungen separat geprueft?
+- [ ] Bestimmungsland ist ATA-Carnet-Partnerland?
+- [ ] Warenart unter ATA-Carnet-Anwendung?
+- [ ] Carnet vollstaendig und mit korrekten Warenbeschreibungen ausgefuellt?
+- [ ] Buergschaft gueltig und ausreichend?
+- [ ] Abgangszollstelle hat Carnet korrekt abgestempelt?
+- [ ] Rueckfuehrungsfrist eingehalten und Gegenzeichnung erhalten?
 
 ## Typische Fallstricke
 
-- Meldepflicht gilt auch bei Zahlungen über ausländische Banken (wenn Inlaender zahlender Teil).
-- Formular-Auswahl abhaengig von Transaktionsart; falsches Formular fuehrt zu Nachbearbeitungsauflage.
-- Direktinvestitions-Transaktionen fallen unter eigene Z4/Z5-Meldepflicht; nicht vergessen.
-- Netting und Verrechnungskonten können Meldeschwelle kuenstlich unterschreiten; Aggregationsregel beachten.
+- Rueckfuehrungsfrist versaeumt: Zollschuldentstehung und IHK haftet aus Buergschaft.
+- Warenveraenderung im Ausland (Reparatur) fuehrt zu Statusverlust voruebergehende Verwendung.
+- ATA-Carnet gilt nicht in der EU selbst; dort gelten EU-Zollverfahren.
+- Verlust des Carnets im Ausland: Notfallverfahren über IHK und WCO.
 
 ## Schnittstellen zu anderen Skills
 
@@ -849,18 +742,18 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 
 ## Quellen
 
-- [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)
-- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
-- [Bundesbank AWV-Formulare](https://www.bundesbank.de/de/aufgaben/aussenwirtschaft/meldepflichten)
-- [AEUV Art. 63 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E063)
+- [UZK Art. 250 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
+- [Zoll.de Voruebergehende Verwendung](https://www.zoll.de/DE/Fachthemen/Zoelle/Zollverfahren-allgemein/Besondere-Verfahren/Voruebergehende-Verwendung/voruebergehende-verwendung_node.html)
+- [DIHK ATA-Carnet](https://www.dihk.de/de/themen-und-positionen/internationales/zoll/ata-carnet)
+- [UZK-DA auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2446)
 
 ---
 
-## Skill: `aussenwirtschaft-awv-z4-z10-z11-meldungen`
+## Skill: `sammelgenehmigung-export-schulung`
 
-_Meldepflichten nach AWV für spezifische Formulare Z4 (Direktinvestitionen), Z10 (Wertpapiertransaktionen) und Z11 (Kapitalverkehr/Kredite): Anwendungsbereiche, Schwellenwerte und Fristen. Abgrenzung der Formulare je Transaktionstypus. Output: Korrekt ausgefuellte Z4/Z10/Z11-Meldungen und Ausfuell..._
+_Wenn es um Sammelgenehmigungen und AGG für Dual-Use-Exporte: Beantragung und Nutzung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# AWV Z4/Z10/Z11: Spezifische Bundesbank-Meldungen im Kapitalverkehr
+# Sammelgenehmigungen und AGG für Dual-Use-Exporte: Beantragung und Nutzung
 
 ## Arbeitsweg
 
@@ -872,42 +765,42 @@ _Meldepflichten nach AWV für spezifische Formulare Z4 (Direktinvestitionen), Z1
 
 ## Mandantenfall
 
-- Unternehmen gewahrt ausländischem Tochterunternehmen Darlehen; Z11-Meldepflicht prüfen.
-- Kapitalanlagegesellschaft kauft Aktien einer US-Gesellschaft; Z10 vs. Z4 klären.
-- GmbH in Deutschland vergibt Gesellschafterdarlehen an Muttergesellschaft im Ausland.
+- Exporteur exportiert regelmaessig Dual-Use-Gueter in NATO-Länder; AGG EU001 genuegt oder globale Einzelgenehmigung noetig?
+- Unternehmen hat staerkeres ICP und moechte globale Genehmigung BAFA beantragen.
+- Sammelgenehmigung ausgelaufen; Lieferung steht an; Notfallverfahren?
 
 ## Erste Schritte
 
-1. Transaktionstyp einordnen: Direktinvestition (Z4), Wertpapier (Z10) oder Darlehen/Kapitalverkehr (Z11).
-2. Meldepflichtige Schwellenwerte prüfen (§ 67 AWV, spezifische Regelung je Formular).
-3. Fristen bestimmen: Z4 trimestrisch oder jaehrlich, Z10/Z11 monatlich.
-4. Bundesbank-Ausfuellhinweise zum jeweiligen Formular heranziehen.
-5. Formular vollstaendig ausfuellen und fristgerecht über ExtraNet einreichen.
-6. Einreichungsbestaetigung archivieren.
+1. Gueter und Bestimmungslaender bestimmen; AGGs EU001-EU008 auf Anwendbarkeit prüfen.
+2. Ausschlusslisten der AGGs prüfen: Gueter und Länder, die explizit ausgeschlossen sind.
+3. ICP-Anforderungen für globale Einzelgenehmigung bei BAFA prüfen.
+4. BAFA-Antrag über ELAN-K2 aufbereiten: Gueter, Länder, Werte, ICP-Nachweis.
+5. Berichtspflichten bei Nutzung von AGG und globaler Genehmigung planen (Jahresbericht BAFA).
+6. Genehmigungsnutzungs-Protokoll für jede Sendung fuehren.
 
 ## Rechtsrahmen
 
-- **AWV §§ 56-71**: Gesamtes Meldewesen für Kapitalverkehr und Direktinvestitionen.
-- **§ 57 AWV**: Z4-Meldepflicht für Direktinvestitionen.
-- **§ 68 AWV**: Wertpapiermeldungen (Z10).
-- **§ 69 AWV**: Kreditgeschaefte mit dem Ausland (Z11).
-- **AWG § 13**: Allgemeine Auskunftspflicht.
+- **Art. 12 VO (EU) 2021/821**: EU-Allgemeine Ausfuhrgenehmigungen (EU001-EU008).
+- **AWV §§ 8-14**: Nationale Allgemeine Genehmigungen (AGG).
+- **§ 11 AWV**: Globale Einzelgenehmigung und Anforderungen.
+- **§ 26 AWV**: Berichtspflichten bei Nutzung von Genehmigungen.
+- **BAFA-Merkblatt Genehmigungsverfahren**: Verfahrensanforderungen für ELAN-K2.**
 
 ## Prüf-Raster
 
-- [ ] Transaktionstyp eindeutig klassifiziert?
-- [ ] Richtiges Formular (Z4/Z10/Z11) ausgewaehlt?
-- [ ] Meldepflicht-Schwellenwert getriggert?
-- [ ] Fristen (monatlich/trimestrisch/jaehrlich) bekannt?
-- [ ] Meldung elektronisch eingereicht?
-- [ ] Archivierung und Bestaetigung gesichert?
+- [ ] AGG EU001-EU008 auf Gueter und Bestimmungslaender geprueft?
+- [ ] Ausschlusslisten der AGGs vollstaendig durchsucht?
+- [ ] ICP-Anforderungen für globale Genehmigung erfuellt und nachgewiesen?
+- [ ] Jahresbericht-Pflicht bei AGG/globaler Genehmigung bekannt und geplant?
+- [ ] Nutzungsprotokoll für jede Sendung unter Sammelgenehmigung gefuehrt?
+- [ ] Ablaufdatum der Genehmigung im Kalender?
 
 ## Typische Fallstricke
 
-- Gesellschafterdarlehen und Direktinvestitionsdarlehn können sowohl Z4 als auch Z11 ausloesen.
-- Wertpapiertransaktionen über ausländische Depotbanken können trotzdem Z10-Pflicht ausloesen.
-- Fristen Z4 und Z10/Z11 unterscheiden sich; Kumulierung uebersehen.
-- Automatische Verrechnung von Forderungen und Verbindlichkeiten loescht Meldepflicht nicht.
+- AGG EU001 und EU002 haben lange Ausschlusslisten für Länder; UAE, Tuerkei oft ausgeschlossen.
+- Berichtspflichten nicht erfuellt; BAFA kann Genehmigung entziehen.
+- Nutzungsprotokoll fehlt; bei Prüfung Nachweis nicht möglich.
+- Globale Genehmigung abgelaufen; Zeitlucke zwischen altem und neuem Antrag.
 
 ## Schnittstellen zu anderen Skills
 
@@ -929,15 +822,16 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 
 ## Quellen
 
+- [VO (EU) 2021/821 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0821)
+- [BAFA Allgemeine Genehmigungen](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Dual_Use/Allgemeine_Genehmigungen/allgemeine_genehmigungen_node.html)
+- [BAFA ELAN-K2](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/ELAN_K2/elan_k2_node.html)
 - [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)
-- [Bundesbank Meldewesen Formulare](https://www.bundesbank.de/de/aufgaben/aussenwirtschaft/meldepflichten)
-- [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

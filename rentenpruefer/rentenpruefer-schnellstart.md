@@ -58,7 +58,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 43 SGB VI — Erwerbsminderungsrente: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BSG, Urteil vom 16.05.2019 - B 13 R 6/18 R: Erwerbsminderung verlangt eine konkrete sozialmedizinische Leistungsbeurteilung.
 - BSG, Urteil vom 11.12.2019 - B 13 R 7/18 R: Verweisbarkeit und Arbeitsmarktlage sind bei Renten wegen Erwerbsminderung sauber zu trennen.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 7. Antwortform
 

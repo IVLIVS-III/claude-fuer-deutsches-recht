@@ -62,8 +62,8 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | Paragraf 43a Abs. 4 BRAO | Verschwiegenheitspflicht; Grenzen der Mandatsdokumentation | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Paragraf 50 BRAO | Pflicht zur Aktenführung und Aufbewahrung | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Paragraf 195 BGB | Regelverjährung; relevant für Hinweise auf noch offene Ansprüche nach Mandatsende | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
-| Paragraf 675 BGB auf gesetze-im-internet.de | Paragraf 675 BGB auf gesetze-im-internet.de | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
-| Paragraf 43a BRAO auf gesetze-im-internet.de | Paragraf 43a BRAO auf gesetze-im-internet.de | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Art. 20 Abs. 3 GG (Gesetzesbindung) | Art. 20 Abs. 3 GG (Gesetzesbindung) | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Art. 97 GG (richterliche Unabhängigkeit, Gesetzesbindung) | Art. 97 GG (richterliche Unabhängigkeit, Gesetzesbindung) | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -72,8 +72,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | BVerfG 1 BvR 730/04 (verfassungskonforme Auslegung) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BVerfG 1 BvR 730/04 (verfassungskonforme Auslegung) |
 | BVerfG 2 BvR 883/14 (Wortlautgrenze) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BVerfG 2 BvR 883/14 (Wortlautgrenze) |
 | BGH V ZR 250/02 (teleologische Reduktion) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH V ZR 250/02 (teleologische Reduktion) |
-| Auslegungscanon | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze |
-| Analogie nur bei planwidriger Regelungslücke; teleologische Reduktion BGH V ZR 250/02 als Korrelat | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Analogie nur bei planwidriger Regelungslücke; teleologische Reduktion BGH V ZR 250/02 als Korrelat |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -84,17 +82,15 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 43a Abs. 4 BRAO — Verschwiegenheitspflicht; Grenzen der Mandatsdokumentation: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 50 BRAO — Pflicht zur Aktenführung und Aufbewahrung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 195 BGB — Regelverjährung; relevant für Hinweise auf noch offene Ansprüche nach Mandatsende: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 675 BGB auf gesetze-im-internet.de: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 43a BRAO auf gesetze-im-internet.de: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 50 BRAO auf gesetze-im-internet.de: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 20 Abs. 3 GG (Gesetzesbindung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 97 GG (richterliche Unabhängigkeit, Gesetzesbindung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 133 BGB (Auslegung Willenserklärung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
 - BVerfG 1 BvR 730/04 (verfassungskonforme Auslegung)
 - BVerfG 2 BvR 883/14 (Wortlautgrenze)
 - BGH V ZR 250/02 (teleologische Reduktion)
-- Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze
-- Analogie nur bei planwidriger Regelungslücke; teleologische Reduktion BGH V ZR 250/02 als Korrelat
 
 ## 9. Prüfraster
 

@@ -1,25 +1,25 @@
-# Megaprompt: wahlkampfrecht-praxis
+# Vollprüfung: wahlkampfrecht-praxis
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 120 Skills (gekuerzt fuer Chat-Fenster) des Plugins `wahlkampfrecht-praxis`.
+Dieser Vollprüfung enthaelt top-8 von 120 Skills (gekuerzt fuer Chat-Fenster) des Plugins `wahlkampfrecht-praxis`.
 
 ## Inhaltsverzeichnis
 
-1. **rapid-response-rechenschaftsbericht** — Wahlkampfrecht Praxis: akute Wahlkampfkrisen in Social Media, Presse und vor Ort in einen handlungsfähigen Rapid-Respons…
-2. **staatliche-neutralitaet** — Wahlkampfrecht Praxis: staatliche Neutralität bei Schulen, Rathäusern, Amtsinhabern, Behördenkanälen und öffentlichen Ei…
-3. **kommunalwahlkampf-groundgame** — Wahlkampfrecht Praxis: Kommunalwahlkampf in Infostaende, Haustuer, Plakate, lokale Termine und Wahlvorschlaege übersetze…
-4. **ebenen-wahlart-ehrenamtliche** — Wahlkampfrecht Praxis: Bundestag, Europa, Landtag, Kommunalwahl, Buergermeisterwahl und Sonderlagen sauber unterscheiden…
-5. **kandidatenteam-intake** — Wahlkampfrecht Praxis: Kandidatenteam aufnehmen und biografische, digitale und organisatorische Schwachstellen erkennen …
-6. **kaltstart-routing** — Wahlkampfrecht Praxis: Kaltstart für jede Wahlkampflage mit Routing zu Recht, Strategie, Digital, Plakatierung, Finanzen…
-7. **presseanfrage-antwortleiter** — Wahlkampfrecht Praxis: Presseanfragen in Sofortantwort, Hintergrund, Kein-Kommentar und Rechtspruefung sortieren im Wahl…
-8. **wahlverfahren-falschinfo** — Wahlkampfrecht Praxis: Falschinformationen ueber Wahltermin, Briefwahl, Stimmzettel oder Wahlraeume beantworten im Wahlk…
+1. **rapid-response-rechenschaftsbericht** — Wenn es um Rapid Response Room in Wahlkampfrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und n…
+2. **kommunalwahlkampf-groundgame** — Wenn es um Kommunalgroundgame in Wahlkampfrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nä…
+3. **staatliche-neutralitaet** — Wenn es um Staatliche Neutralitaet in Wahlkampfrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente u…
+4. **rechenschaftsbericht-vorbereitung** — Wenn es um Rechenschaftsbericht Vorbereitung in Wahlkampfrecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachf…
+5. **fremdplakate-nicht-anruehren** — Wenn es um Fremdplakate Nicht Anruehren in Wahlkampfrecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, N…
+6. **wahlbeobachtung-und-wahltag** — Wenn es um Wahlbeobachtung Und Wahltag in Wahlkampfrecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, No…
+7. **kandidatenbriefing-kamera** — Wenn es um Kandidatenbriefing Kamera in Wahlkampfrecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm…
+8. **wahlprogramm-und-faktencheck** — Wenn es um Wahlprogramm Und Faktencheck in Wahlkampfrecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforder…
 
 ---
 
 ## Skill: `rapid-response-rechenschaftsbericht`
 
-_Wahlkampfrecht Praxis: akute Wahlkampfkrisen in Social Media, Presse und vor Ort in einen handlungsfähigen Rapid-Response-Prozess übersetzen im Wahlkampfrecht._
+_Wenn es um Rapid Response Room in Wahlkampfrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Rapid Response Room
 
@@ -103,9 +103,87 @@ Richtet Rollen, Faktenprüfung, Antwortleiter, Freigabe, Monitoring, Plattformme
 
 ---
 
+## Skill: `kommunalwahlkampf-groundgame`
+
+_Wenn es um Kommunalgroundgame in Wahlkampfrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Kommunalgroundgame
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 21 Abs. 1 GG` — Parteienfreiheit und Mitwirkung an politischer Willensbildung.
+- `Art. 38 Abs. 1 GG` — Wahlrechtsgrundsaetze.
+- `§ 1 Abs. 1 BWahlG` — Wahlrechtsgrundlagen Bundestagswahl.
+- `§ 18 BWahlG` — Wahlvorschlagsrecht und Beteiligungsanzeige.
+- `§ 19 BWahlG` — Einreichungsfrist Kreiswahlvorschlaege.
+- `§ 26 BWahlG` — Entscheidung über Kreiswahlvorschlaege.
+- `§ 32 BWahlG` — unzulässige Wahlbeeinflussung am Wahltag.
+- `§ 49a BWahlG` — Ordnungswidrigkeiten.
+- `§ 5 PartG` — Gleichbehandlung der Parteien durch Traeger öffentlicher Gewalt.
+- `§ 25 PartG` — Spendenannahme und Spendenverbote.
+- `§ 31d PartG` — Sanktionen bei unrichtigen Rechenschaftsberichten.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Wahlart, Wahlgebiet, Wahltermin und Ebene festlegen: Bundestag, Europa, Landtag, Kommunalwahl, Bürgermeister-/Landratswahl oder innerparteiliche Vorstufe getrennt behandeln.
+- Rollen sauber trennen: Partei, Kandidierende, Fraktion, Amtsträger, Agentur, Verein, Unterstützerkreis, Plattform, Wahlleitung, Ordnungsamt und Polizei haben unterschiedliche Rechte, Pflichten und Kommunikationslinien.
+- Eilrisiken markieren: Wahlvorschlagsfristen, Unterstützungsunterschriften, Plakatierungs-/Sondernutzungsvorgaben, presserechtliche Reaktionsfenster, Datenschutzlöschung, Plattformfristen, Gegendarstellung, Unterlassung und Beweissicherung.
+- Tragende Normen live verifizieren: Art. 5, 8, 21 und 38 GG; BWahlG/BWO oder einschlägiges Landes-/Kommunalwahlrecht; PartG §§ 5, 18, 23a, 25, 31b-31d; DSGVO Art. 5, 6, 9, 12-15, 21, 32; BDSG; Versammlungsrecht des Landes; StGB §§ 107 ff., 111, 130, 185-188, 201a, 303; UrhG/KUG; DSA und Verordnung (EU) 2024/900 bei politischer Online-Werbung.
+- Belege aktenfest machen: Screenshot mit URL/Zeit, Plattform-ID, Freigabeweg, Budget, Spenden-/Sponsoringherkunft, Genehmigung, Behördenkontakt, interne Verantwortlichkeit und Entscheidungsvermerk.
+- Output knapp operativ liefern: Ampel, Sprechzettel, Behördenmail, Freigabe- oder Stoppvermerk, Fristenplan, Q&A, Plattformmeldung, Beweissicherungsnotiz oder Eskalationsmemo.
+
+## Fachkern: Kommunalgroundgame
+
+- **Wahlkampflage (Kommunalgroundgame):** Kommunalwahlkampf in Infostaende, Haustuer, Plakate, lokale Termine und Wahlvorschlaege übersetzen.
+- **Norm-/Praxisanker:** Wahlgesetze des betroffenen Bundes/Landes, PartG, DSGVO/BDSG, Verordnung (EU) 2024/900, Versammlungs-, Straßen-, Kommunal-, Presse-, Urheber-, Straf- und Ordnungswidrigkeitenrecht je nach Einsatzfeld.
+- **Entscheidende Weiche:** Amtliche Wahlorganisation, Partei, Fraktion, Kandidatenteam, Agentur, Ehrenamt und Dritte strikt trennen; Strategie nie mit rechtlicher Zulässigkeit verwechseln.
+- **Arbeitsprodukt:** Freigabevermerk, Risikoampel, Behördenmail, Sprechzettel oder Eskalationsnotiz mit Belegarchiv und klarer Verantwortlichkeit.
+
+## Kaltstartfragen
+
+1. Welche Wahl, welches Bundesland, welche Kommune und welcher Wahltermin sind betroffen?
+2. Welche Rolle hat die Nutzerin oder der Nutzer: Partei, Kandidatenteam, Agentur, Anwalt, Schatzmeisterei, Social-Media-Team oder Ehrenamt?
+3. Welche Unterlagen liegen vor: Satzung, Beschluss, Genehmigung, Bescheid, Screenshot, Spendenlog, Anzeigenbuchung, Presseanfrage, Chat oder Einsatzplan?
+4. Was soll sofort herauskommen: Risikoampel, Briefing, Behördenmail, Freigabevermerk, Fristenplan, Q&A, Sprechzettel oder Eskalationsnotiz?
+5. Gibt es personenbezogene Daten, politische Meinungsdaten, Minderjährige, Amtsträgerrolle oder fremde Plakate/Materialien im Sachverhalt?
+
+## Arbeitsfokus
+
+Prüft kommunale Plakatierungsregeln, Kandidatenlisten, lokale Neutralitaet und Buergerdialog.
+
+## Rechts- und Praxislogik
+
+- Wahlkampf ist durch Meinungsfreiheit, Parteienprivileg und demokratische Wahlgrundsätze geschützt, aber nicht rechtsfrei.
+- Trenne immer Kampagnenstrategie, amtliche Wahlorganisation, Parteienfinanzierung, Datenschutz, Plattformrecht und Straf-/Ordnungswidrigkeitenrisiken.
+- Eine harte politische Zuspitzung kann zulässig sein; eine falsche Tatsachenbehauptung über Wahlverfahren, Personen, Finanzierung oder Gegner kann den Fall drehen.
+- Ehrenamtliche brauchen kurze, klare Regeln. Wenn das Team improvisiert, müssen die Regeln einfacher und nicht komplizierter werden.
+- Dokumentiere Entscheidungen so, dass Schatzmeisterei, Rechtsberatung, Kandidatenteam und Kampagnenleitung später verstehen, warum etwas freigegeben oder gestoppt wurde.
+
+## Qualitätsgate
+
+- Ist die Wahlart und die zuständige Wahl- oder Ordnungsbehörde konkret bestimmt?
+- Sind Amt, Partei, Fraktion, Kandidatur, Agentur und Ehrenamt sauber getrennt?
+- Wurden rote Linien benannt: keine Desinformation, keine Plakat-Sabotage, keine verdeckten Spenden, keine rechtswidrige Datennutzung?
+- Ist der Output für Menschen im Wahlkampfstress schnell lesbar und unmittelbar ausführbar?
+- Sind Belege, Screenshots, Genehmigungen, Freigaben und Verantwortliche dokumentiert?
+
+## Quellen- und Aktualitätsregel
+
+- Bundes- und Landesrecht live prüfen; bei Plakatierung immer die konkrete Gemeinde oder Straßenbaubehörde heranziehen.
+- Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
+- Bei politischer Online-Werbung die Verordnung (EU) 2024/900, Plattformregeln, DSGVO/BDSG und die konkrete Anzeigenbibliothek prüfen.
+- Bei Spenden, Sponsoring und Sachleistungen das Parteiengesetz, Bundestagsverwaltungshinweise und interne Schatzmeisterei-Regeln prüfen.
+
+---
+
 ## Skill: `staatliche-neutralitaet`
 
-_Wahlkampfrecht Praxis: staatliche Neutralität bei Schulen, Rathäusern, Amtsinhabern, Behördenkanälen und öffentlichen Einrichtungen prüfen im Wahlkampfrecht._
+_Wenn es um Staatliche Neutralitaet in Wahlkampfrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
 # Staatliche Neutralitaet
 
@@ -189,89 +267,11 @@ Trennt Partei, Fraktion, Amt, Verwaltung, Schule, Wahlorgan, Hausrecht und Gleic
 
 ---
 
-## Skill: `kommunalwahlkampf-groundgame`
+## Skill: `rechenschaftsbericht-vorbereitung`
 
-_Wahlkampfrecht Praxis: Kommunalwahlkampf in Infostaende, Haustuer, Plakate, lokale Termine und Wahlvorschlaege übersetzen im Wahlkampfrecht._
+_Wenn es um Rechenschaftsbericht Vorbereitung in Wahlkampfrecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Kommunalgroundgame
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Art. 21 Abs. 1 GG` — Parteienfreiheit und Mitwirkung an politischer Willensbildung.
-- `Art. 38 Abs. 1 GG` — Wahlrechtsgrundsaetze.
-- `§ 1 Abs. 1 BWahlG` — Wahlrechtsgrundlagen Bundestagswahl.
-- `§ 18 BWahlG` — Wahlvorschlagsrecht und Beteiligungsanzeige.
-- `§ 19 BWahlG` — Einreichungsfrist Kreiswahlvorschlaege.
-- `§ 26 BWahlG` — Entscheidung über Kreiswahlvorschlaege.
-- `§ 32 BWahlG` — unzulässige Wahlbeeinflussung am Wahltag.
-- `§ 49a BWahlG` — Ordnungswidrigkeiten.
-- `§ 5 PartG` — Gleichbehandlung der Parteien durch Traeger öffentlicher Gewalt.
-- `§ 25 PartG` — Spendenannahme und Spendenverbote.
-- `§ 31d PartG` — Sanktionen bei unrichtigen Rechenschaftsberichten.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Wahlart, Wahlgebiet, Wahltermin und Ebene festlegen: Bundestag, Europa, Landtag, Kommunalwahl, Bürgermeister-/Landratswahl oder innerparteiliche Vorstufe getrennt behandeln.
-- Rollen sauber trennen: Partei, Kandidierende, Fraktion, Amtsträger, Agentur, Verein, Unterstützerkreis, Plattform, Wahlleitung, Ordnungsamt und Polizei haben unterschiedliche Rechte, Pflichten und Kommunikationslinien.
-- Eilrisiken markieren: Wahlvorschlagsfristen, Unterstützungsunterschriften, Plakatierungs-/Sondernutzungsvorgaben, presserechtliche Reaktionsfenster, Datenschutzlöschung, Plattformfristen, Gegendarstellung, Unterlassung und Beweissicherung.
-- Tragende Normen live verifizieren: Art. 5, 8, 21 und 38 GG; BWahlG/BWO oder einschlägiges Landes-/Kommunalwahlrecht; PartG §§ 5, 18, 23a, 25, 31b-31d; DSGVO Art. 5, 6, 9, 12-15, 21, 32; BDSG; Versammlungsrecht des Landes; StGB §§ 107 ff., 111, 130, 185-188, 201a, 303; UrhG/KUG; DSA und Verordnung (EU) 2024/900 bei politischer Online-Werbung.
-- Belege aktenfest machen: Screenshot mit URL/Zeit, Plattform-ID, Freigabeweg, Budget, Spenden-/Sponsoringherkunft, Genehmigung, Behördenkontakt, interne Verantwortlichkeit und Entscheidungsvermerk.
-- Output knapp operativ liefern: Ampel, Sprechzettel, Behördenmail, Freigabe- oder Stoppvermerk, Fristenplan, Q&A, Plattformmeldung, Beweissicherungsnotiz oder Eskalationsmemo.
-
-## Fachkern: Kommunalgroundgame
-
-- **Wahlkampflage (Kommunalgroundgame):** Kommunalwahlkampf in Infostaende, Haustuer, Plakate, lokale Termine und Wahlvorschlaege übersetzen.
-- **Norm-/Praxisanker:** Wahlgesetze des betroffenen Bundes/Landes, PartG, DSGVO/BDSG, Verordnung (EU) 2024/900, Versammlungs-, Straßen-, Kommunal-, Presse-, Urheber-, Straf- und Ordnungswidrigkeitenrecht je nach Einsatzfeld.
-- **Entscheidende Weiche:** Amtliche Wahlorganisation, Partei, Fraktion, Kandidatenteam, Agentur, Ehrenamt und Dritte strikt trennen; Strategie nie mit rechtlicher Zulässigkeit verwechseln.
-- **Arbeitsprodukt:** Freigabevermerk, Risikoampel, Behördenmail, Sprechzettel oder Eskalationsnotiz mit Belegarchiv und klarer Verantwortlichkeit.
-
-## Kaltstartfragen
-
-1. Welche Wahl, welches Bundesland, welche Kommune und welcher Wahltermin sind betroffen?
-2. Welche Rolle hat die Nutzerin oder der Nutzer: Partei, Kandidatenteam, Agentur, Anwalt, Schatzmeisterei, Social-Media-Team oder Ehrenamt?
-3. Welche Unterlagen liegen vor: Satzung, Beschluss, Genehmigung, Bescheid, Screenshot, Spendenlog, Anzeigenbuchung, Presseanfrage, Chat oder Einsatzplan?
-4. Was soll sofort herauskommen: Risikoampel, Briefing, Behördenmail, Freigabevermerk, Fristenplan, Q&A, Sprechzettel oder Eskalationsnotiz?
-5. Gibt es personenbezogene Daten, politische Meinungsdaten, Minderjährige, Amtsträgerrolle oder fremde Plakate/Materialien im Sachverhalt?
-
-## Arbeitsfokus
-
-Prüft kommunale Plakatierungsregeln, Kandidatenlisten, lokale Neutralitaet und Buergerdialog.
-
-## Rechts- und Praxislogik
-
-- Wahlkampf ist durch Meinungsfreiheit, Parteienprivileg und demokratische Wahlgrundsätze geschützt, aber nicht rechtsfrei.
-- Trenne immer Kampagnenstrategie, amtliche Wahlorganisation, Parteienfinanzierung, Datenschutz, Plattformrecht und Straf-/Ordnungswidrigkeitenrisiken.
-- Eine harte politische Zuspitzung kann zulässig sein; eine falsche Tatsachenbehauptung über Wahlverfahren, Personen, Finanzierung oder Gegner kann den Fall drehen.
-- Ehrenamtliche brauchen kurze, klare Regeln. Wenn das Team improvisiert, müssen die Regeln einfacher und nicht komplizierter werden.
-- Dokumentiere Entscheidungen so, dass Schatzmeisterei, Rechtsberatung, Kandidatenteam und Kampagnenleitung später verstehen, warum etwas freigegeben oder gestoppt wurde.
-
-## Qualitätsgate
-
-- Ist die Wahlart und die zuständige Wahl- oder Ordnungsbehörde konkret bestimmt?
-- Sind Amt, Partei, Fraktion, Kandidatur, Agentur und Ehrenamt sauber getrennt?
-- Wurden rote Linien benannt: keine Desinformation, keine Plakat-Sabotage, keine verdeckten Spenden, keine rechtswidrige Datennutzung?
-- Ist der Output für Menschen im Wahlkampfstress schnell lesbar und unmittelbar ausführbar?
-- Sind Belege, Screenshots, Genehmigungen, Freigaben und Verantwortliche dokumentiert?
-
-## Quellen- und Aktualitätsregel
-
-- Bundes- und Landesrecht live prüfen; bei Plakatierung immer die konkrete Gemeinde oder Straßenbaubehörde heranziehen.
-- Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
-- Bei politischer Online-Werbung die Verordnung (EU) 2024/900, Plattformregeln, DSGVO/BDSG und die konkrete Anzeigenbibliothek prüfen.
-- Bei Spenden, Sponsoring und Sachleistungen das Parteiengesetz, Bundestagsverwaltungshinweise und interne Schatzmeisterei-Regeln prüfen.
-
----
-
-## Skill: `ebenen-wahlart-ehrenamtliche`
-
-_Wahlkampfrecht Praxis: Bundestag, Europa, Landtag, Kommunalwahl, Buergermeisterwahl und Sonderlagen sauber unterscheiden im Wahlkampfrecht._
-
-# Ebenen Und Wahlart Router
+# Rechenschaftsbericht Vorbereitung
 
 ## Normenanker
 
@@ -300,9 +300,9 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Belege aktenfest machen: Screenshot mit URL/Zeit, Plattform-ID, Freigabeweg, Budget, Spenden-/Sponsoringherkunft, Genehmigung, Behördenkontakt, interne Verantwortlichkeit und Entscheidungsvermerk.
 - Output knapp operativ liefern: Ampel, Sprechzettel, Behördenmail, Freigabe- oder Stoppvermerk, Fristenplan, Q&A, Plattformmeldung, Beweissicherungsnotiz oder Eskalationsmemo.
 
-## Fachkern: Ebenen Und Wahlart Router
+## Fachkern: Rechenschaftsbericht Vorbereitung
 
-- **Wahlkampflage (Ebenen Und Wahlart Router):** Bundestag, Europa, Landtag, Kommunalwahl, Buergermeisterwahl und Sonderlagen sauber unterscheiden.
+- **Wahlkampflage (Rechenschaftsbericht Vorbereitung):** Wahlkampfbelege für den Rechenschaftsbericht aufbereiten.
 - **Norm-/Praxisanker:** Wahlgesetze des betroffenen Bundes/Landes, PartG, DSGVO/BDSG, Verordnung (EU) 2024/900, Versammlungs-, Straßen-, Kommunal-, Presse-, Urheber-, Straf- und Ordnungswidrigkeitenrecht je nach Einsatzfeld.
 - **Entscheidende Weiche:** Amtliche Wahlorganisation, Partei, Fraktion, Kandidatenteam, Agentur, Ehrenamt und Dritte strikt trennen; Strategie nie mit rechtlicher Zulässigkeit verwechseln.
 - **Arbeitsprodukt:** Freigabevermerk, Risikoampel, Behördenmail, Sprechzettel oder Eskalationsnotiz mit Belegarchiv und klarer Verantwortlichkeit.
@@ -317,7 +317,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Bestimmt, ob Bundesrecht, Landeswahlrecht, Kommunalrecht, Parteisatzung oder Plattformregeln dominieren.
+Sortiert Einnahmen, Ausgaben, Sachleistungen, Spenden, Sponsoring und Nachweise.
 
 ## Rechts- und Praxislogik
 
@@ -345,25 +345,11 @@ Bestimmt, ob Bundesrecht, Landeswahlrecht, Kommunalrecht, Parteisatzung oder Pla
 
 ---
 
-## Skill: `kandidatenteam-intake`
+## Skill: `fremdplakate-nicht-anruehren`
 
-_Wahlkampfrecht Praxis: Kandidatenteam aufnehmen und biografische, digitale und organisatorische Schwachstellen erkennen im Wahlkampfrecht._
+_Wenn es um Fremdplakate Nicht Anruehren in Wahlkampfrecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Kandidatenteam Intake
-
-## Aktenstart statt Formularstart
-
-Wenn zu **Kandidatenteam Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Wahlkampfrecht Praxis** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
-
-Starte dann mit einer knappen Rueckmeldung:
-
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
-
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+# Fremdplakate Nicht Anruehren
 
 ## Normenanker
 
@@ -392,9 +378,9 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Belege aktenfest machen: Screenshot mit URL/Zeit, Plattform-ID, Freigabeweg, Budget, Spenden-/Sponsoringherkunft, Genehmigung, Behördenkontakt, interne Verantwortlichkeit und Entscheidungsvermerk.
 - Output knapp operativ liefern: Ampel, Sprechzettel, Behördenmail, Freigabe- oder Stoppvermerk, Fristenplan, Q&A, Plattformmeldung, Beweissicherungsnotiz oder Eskalationsmemo.
 
-## Fachkern: Kandidatenteam Intake
+## Fachkern: Fremdplakate Nicht Anruehren
 
-- **Wahlkampflage (Kandidatenteam Intake):** Kandidatenteam aufnehmen und biografische, digitale und organisatorische Schwachstellen erkennen.
+- **Wahlkampflage (Fremdplakate Nicht Anruehren):** Teams briefen, fremde Plakate weder abzuhaengen noch zu ueberkleben.
 - **Norm-/Praxisanker:** Wahlgesetze des betroffenen Bundes/Landes, PartG, DSGVO/BDSG, Verordnung (EU) 2024/900, Versammlungs-, Straßen-, Kommunal-, Presse-, Urheber-, Straf- und Ordnungswidrigkeitenrecht je nach Einsatzfeld.
 - **Entscheidende Weiche:** Amtliche Wahlorganisation, Partei, Fraktion, Kandidatenteam, Agentur, Ehrenamt und Dritte strikt trennen; Strategie nie mit rechtlicher Zulässigkeit verwechseln.
 - **Arbeitsprodukt:** Freigabevermerk, Risikoampel, Behördenmail, Sprechzettel oder Eskalationsnotiz mit Belegarchiv und klarer Verantwortlichkeit.
@@ -409,80 +395,15 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Fragt Profil, Biografie, Aemter, Nebentaetigkeiten, Social-Media-Altlasten, lokale Konflikte und Terminlast ab.
-
-## Rechts- und Praxislogik
-
-- Wahlkampf ist durch Meinungsfreiheit, Parteienprivileg und demokratische Wahlgrundsätze geschützt, aber nicht rechtsfrei.
-- Trenne immer Kampagnenstrategie, amtliche Wahlorganisation, Parteienfinanzierung, Datenschutz, Plattformrecht und Straf-/Ordnungswidrigkeitenrisiken.
-- Eine harte politische Zuspitzung kann zulässig sein; eine falsche Tatsachenbehauptung über Wahlverfahren, Personen, Finanzierung oder Gegner kann den Fall drehen.
-- Ehrenamtliche brauchen kurze, klare Regeln. Wenn das Team improvisiert, müssen die Regeln einfacher und nicht komplizierter werden.
-- Dokumentiere Entscheidungen so, dass Schatzmeisterei, Rechtsberatung, Kandidatenteam und Kampagnenleitung später verstehen, warum etwas freigegeben oder gestoppt wurde.
-
-## Qualitätsgate
-
-- Ist die Wahlart und die zuständige Wahl- oder Ordnungsbehörde konkret bestimmt?
-- Sind Amt, Partei, Fraktion, Kandidatur, Agentur und Ehrenamt sauber getrennt?
-- Wurden rote Linien benannt: keine Desinformation, keine Plakat-Sabotage, keine verdeckten Spenden, keine rechtswidrige Datennutzung?
-- Ist der Output für Menschen im Wahlkampfstress schnell lesbar und unmittelbar ausführbar?
-- Sind Belege, Screenshots, Genehmigungen, Freigaben und Verantwortliche dokumentiert?
-
-## Quellen- und Aktualitätsregel
-
-- Bundes- und Landesrecht live prüfen; bei Plakatierung immer die konkrete Gemeinde oder Straßenbaubehörde heranziehen.
-- Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
-- Bei politischer Online-Werbung die Verordnung (EU) 2024/900, Plattformregeln, DSGVO/BDSG und die konkrete Anzeigenbibliothek prüfen.
-- Bei Spenden, Sponsoring und Sachleistungen das Parteiengesetz, Bundestagsverwaltungshinweise und interne Schatzmeisterei-Regeln prüfen.
-
----
-
-## Skill: `kaltstart-routing`
-
-_Wahlkampfrecht Praxis: Kaltstart für jede Wahlkampflage mit Routing zu Recht, Strategie, Digital, Plakatierung, Finanzen oder Krise._
-
-# Allgemeiner Kaltstart
-
-## Aktenstart statt Formularstart
-
-Wenn zu **Kaltstart Routing** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Wahlkampfrecht Praxis** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
-
-Starte dann mit einer knappen Rueckmeldung:
-
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
-
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
-
-## Fachkern: Allgemeiner Kaltstart
-
-- **Wahlkampflage (Allgemeiner Kaltstart):** Kaltstart für jede Wahlkampflage mit Routing zu Recht, Strategie, Digital, Plakatierung, Finanzen oder Krise.
-- **Norm-/Praxisanker:** Wahlgesetze des betroffenen Bundes/Landes, PartG, DSGVO/BDSG, Verordnung (EU) 2024/900, Versammlungs-, Straßen-, Kommunal-, Presse-, Urheber-, Straf- und Ordnungswidrigkeitenrecht je nach Einsatzfeld.
-- **Entscheidende Weiche:** Amtliche Wahlorganisation, Partei, Fraktion, Kandidatenteam, Agentur, Ehrenamt und Dritte strikt trennen; Strategie nie mit rechtlicher Zulässigkeit verwechseln.
-- **Arbeitsprodukt:** Freigabevermerk, Risikoampel, Behördenmail, Sprechzettel oder Eskalationsnotiz mit Belegarchiv und klarer Verantwortlichkeit.
-
-## Kaltstartfragen
-
-1. Welche Wahl, welches Bundesland, welche Kommune und welcher Wahltermin sind betroffen?
-2. Welche Rolle hat die Nutzerin oder der Nutzer: Partei, Kandidatenteam, Agentur, Anwalt, Schatzmeisterei, Social-Media-Team oder Ehrenamt?
-3. Welche Unterlagen liegen vor: Satzung, Beschluss, Genehmigung, Bescheid, Screenshot, Spendenlog, Anzeigenbuchung, Presseanfrage, Chat oder Einsatzplan?
-4. Was soll sofort herauskommen: Risikoampel, Briefing, Behördenmail, Freigabevermerk, Fristenplan, Q&A, Sprechzettel oder Eskalationsnotiz?
-5. Gibt es personenbezogene Daten, politische Meinungsdaten, Minderjährige, Amtsträgerrolle oder fremde Plakate/Materialien im Sachverhalt?
-
-## Arbeitsfokus
-
-Sortiert Wahlart, Rolle, Druck, Unterlagen und gewuenschtes Ergebnis; schlaegt dann hoechstens fuenf Fachmodule vor.
+Erklaert Sachbeschaedigungs-, Noetigungs-, Eskalations- und Reputationsrisiken und Dokumentationswege.
 
 ## Spezifischer Prüfpfad
 
-- Baue zuerst eine Lagekarte mit Wahlart, Gebiet, Kandidierendenrolle, zuständigem Wahlorgan, Ordnungsbehörde, Schatzmeisterei, Kommunikationsleitung und Freigabeweg.
-- Trenne Sofortfragen von Strategiethemen: Was muss in 30 Minuten entschieden werden, was braucht Quellencheck, was gehört an Vorstand, Rechtsberatung oder Datenschutz?
-- Route konsequent zu höchstens fünf Folgeskills, damit der Kaltstart nicht zur Materialsammlung wird.
-- Gib immer eine rote Linie aus: Was darf das Team heute keinesfalls tun, auch wenn der politische Druck hoch ist?
-- Erzeuge am Ende ein Arbeitsboard mit Verantwortlichen, Fristen, offenen Belegen und nächster Entscheidung.
+- Kläre dem Team unmissverständlich: fremde Plakate werden nicht abgehängt, überklebt, verdreht, beschädigt oder als „Fundstück“ mitgenommen.
+- Wenn fremde Plakate rechtswidrig hängen, wird dokumentiert und an Ordnungsamt oder Wahlkampfleitung gemeldet, nicht selbst vollstreckt.
+- Prüfe bei eigenen beschädigten Plakaten Beweissicherung: Standortfoto, Nahaufnahme, Zeit, Zeuge, Team, ggf. Anzeige oder Meldung an Behörde.
+- Erzeuge eine Eskalationsmatrix für Wahlkampfleitung, Polizei/Ordnungsamt, Presse und Social Media.
+- Schreibe eine kurze Volunteer-Regel, die auch unter Stress verstanden wird.
 
 ## Rechts- und Praxislogik
 
@@ -491,24 +412,6 @@ Sortiert Wahlart, Rolle, Druck, Unterlagen und gewuenschtes Ergebnis; schlaegt d
 - Eine harte politische Zuspitzung kann zulässig sein; eine falsche Tatsachenbehauptung über Wahlverfahren, Personen, Finanzierung oder Gegner kann den Fall drehen.
 - Ehrenamtliche brauchen kurze, klare Regeln. Wenn das Team improvisiert, müssen die Regeln einfacher und nicht komplizierter werden.
 - Dokumentiere Entscheidungen so, dass Schatzmeisterei, Rechtsberatung, Kandidatenteam und Kampagnenleitung später verstehen, warum etwas freigegeben oder gestoppt wurde.
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Art. 21 Abs. 1 GG` — Parteienfreiheit und Mitwirkung an politischer Willensbildung.
-- `Art. 38 Abs. 1 GG` — Wahlrechtsgrundsaetze.
-- `§ 1 Abs. 1 BWahlG` — Wahlrechtsgrundlagen Bundestagswahl.
-- `§ 18 BWahlG` — Wahlvorschlagsrecht und Beteiligungsanzeige.
-- `§ 19 BWahlG` — Einreichungsfrist Kreiswahlvorschlaege.
-- `§ 26 BWahlG` — Entscheidung über Kreiswahlvorschlaege.
-- `§ 32 BWahlG` — unzulässige Wahlbeeinflussung am Wahltag.
-- `§ 49a BWahlG` — Ordnungswidrigkeiten.
-- `§ 5 PartG` — Gleichbehandlung der Parteien durch Traeger öffentlicher Gewalt.
-- `§ 25 PartG` — Spendenannahme und Spendenverbote.
-- `§ 31d PartG` — Sanktionen bei unrichtigen Rechenschaftsberichten.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Qualitätsgate
 
@@ -528,11 +431,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `presseanfrage-antwortleiter`
+## Skill: `wahlbeobachtung-und-wahltag`
 
-_Wahlkampfrecht Praxis: Presseanfragen in Sofortantwort, Hintergrund, Kein-Kommentar und Rechtspruefung sortieren im Wahlkampfrecht._
+_Wenn es um Wahlbeobachtung Und Wahltag in Wahlkampfrecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Presseanfrage Antwortleiter
+# Wahlbeobachtung Und Wahltag
 
 ## Normenanker
 
@@ -561,9 +464,9 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Belege aktenfest machen: Screenshot mit URL/Zeit, Plattform-ID, Freigabeweg, Budget, Spenden-/Sponsoringherkunft, Genehmigung, Behördenkontakt, interne Verantwortlichkeit und Entscheidungsvermerk.
 - Output knapp operativ liefern: Ampel, Sprechzettel, Behördenmail, Freigabe- oder Stoppvermerk, Fristenplan, Q&A, Plattformmeldung, Beweissicherungsnotiz oder Eskalationsmemo.
 
-## Fachkern: Presseanfrage Antwortleiter
+## Fachkern: Wahlbeobachtung Und Wahltag
 
-- **Wahlkampflage (Presseanfrage Antwortleiter):** Presseanfragen in Sofortantwort, Hintergrund, Kein-Kommentar und Rechtspruefung sortieren.
+- **Wahlkampflage (Wahlbeobachtung Und Wahltag):** Wahlbeobachtung ohne Eingriff in Wahlhandlung briefen.
 - **Norm-/Praxisanker:** Wahlgesetze des betroffenen Bundes/Landes, PartG, DSGVO/BDSG, Verordnung (EU) 2024/900, Versammlungs-, Straßen-, Kommunal-, Presse-, Urheber-, Straf- und Ordnungswidrigkeitenrecht je nach Einsatzfeld.
 - **Entscheidende Weiche:** Amtliche Wahlorganisation, Partei, Fraktion, Kandidatenteam, Agentur, Ehrenamt und Dritte strikt trennen; Strategie nie mit rechtlicher Zulässigkeit verwechseln.
 - **Arbeitsprodukt:** Freigabevermerk, Risikoampel, Behördenmail, Sprechzettel oder Eskalationsnotiz mit Belegarchiv und klarer Verantwortlichkeit.
@@ -578,93 +481,179 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Prüft Tatsachenbasis, Zitatfreigabe, Persoenlichkeitsrechte und Wahlkampfstrategie.
-
-## Rechts- und Praxislogik
-
-- Wahlkampf ist durch Meinungsfreiheit, Parteienprivileg und demokratische Wahlgrundsätze geschützt, aber nicht rechtsfrei.
-- Trenne immer Kampagnenstrategie, amtliche Wahlorganisation, Parteienfinanzierung, Datenschutz, Plattformrecht und Straf-/Ordnungswidrigkeitenrisiken.
-- Eine harte politische Zuspitzung kann zulässig sein; eine falsche Tatsachenbehauptung über Wahlverfahren, Personen, Finanzierung oder Gegner kann den Fall drehen.
-- Ehrenamtliche brauchen kurze, klare Regeln. Wenn das Team improvisiert, müssen die Regeln einfacher und nicht komplizierter werden.
-- Dokumentiere Entscheidungen so, dass Schatzmeisterei, Rechtsberatung, Kandidatenteam und Kampagnenleitung später verstehen, warum etwas freigegeben oder gestoppt wurde.
-
-## Qualitätsgate
-
-- Ist die Wahlart und die zuständige Wahl- oder Ordnungsbehörde konkret bestimmt?
-- Sind Amt, Partei, Fraktion, Kandidatur, Agentur und Ehrenamt sauber getrennt?
-- Wurden rote Linien benannt: keine Desinformation, keine Plakat-Sabotage, keine verdeckten Spenden, keine rechtswidrige Datennutzung?
-- Ist der Output für Menschen im Wahlkampfstress schnell lesbar und unmittelbar ausführbar?
-- Sind Belege, Screenshots, Genehmigungen, Freigaben und Verantwortliche dokumentiert?
-
-## Quellen- und Aktualitätsregel
-
-- Bundes- und Landesrecht live prüfen; bei Plakatierung immer die konkrete Gemeinde oder Straßenbaubehörde heranziehen.
-- Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
-- Bei politischer Online-Werbung die Verordnung (EU) 2024/900, Plattformregeln, DSGVO/BDSG und die konkrete Anzeigenbibliothek prüfen.
-- Bei Spenden, Sponsoring und Sachleistungen das Parteiengesetz, Bundestagsverwaltungshinweise und interne Schatzmeisterei-Regeln prüfen.
-
----
-
-## Skill: `wahlverfahren-falschinfo`
-
-_Wahlkampfrecht Praxis: Falschinformationen ueber Wahltermin, Briefwahl, Stimmzettel oder Wahlraeume beantworten im Wahlkampfrecht._
-
-# Wahlverfahren Falschinfo
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Art. 21 Abs. 1 GG` — Parteienfreiheit und Mitwirkung an politischer Willensbildung.
-- `Art. 38 Abs. 1 GG` — Wahlrechtsgrundsaetze.
-- `§ 1 Abs. 1 BWahlG` — Wahlrechtsgrundlagen Bundestagswahl.
-- `§ 18 BWahlG` — Wahlvorschlagsrecht und Beteiligungsanzeige.
-- `§ 19 BWahlG` — Einreichungsfrist Kreiswahlvorschlaege.
-- `§ 26 BWahlG` — Entscheidung über Kreiswahlvorschlaege.
-- `§ 32 BWahlG` — unzulässige Wahlbeeinflussung am Wahltag.
-- `§ 49a BWahlG` — Ordnungswidrigkeiten.
-- `§ 5 PartG` — Gleichbehandlung der Parteien durch Traeger öffentlicher Gewalt.
-- `§ 25 PartG` — Spendenannahme und Spendenverbote.
-- `§ 31d PartG` — Sanktionen bei unrichtigen Rechenschaftsberichten.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Wahlart, Wahlgebiet, Wahltermin und Ebene festlegen: Bundestag, Europa, Landtag, Kommunalwahl, Bürgermeister-/Landratswahl oder innerparteiliche Vorstufe getrennt behandeln.
-- Rollen sauber trennen: Partei, Kandidierende, Fraktion, Amtsträger, Agentur, Verein, Unterstützerkreis, Plattform, Wahlleitung, Ordnungsamt und Polizei haben unterschiedliche Rechte, Pflichten und Kommunikationslinien.
-- Eilrisiken markieren: Wahlvorschlagsfristen, Unterstützungsunterschriften, Plakatierungs-/Sondernutzungsvorgaben, presserechtliche Reaktionsfenster, Datenschutzlöschung, Plattformfristen, Gegendarstellung, Unterlassung und Beweissicherung.
-- Tragende Normen live verifizieren: Art. 5, 8, 21 und 38 GG; BWahlG/BWO oder einschlägiges Landes-/Kommunalwahlrecht; PartG §§ 5, 18, 23a, 25, 31b-31d; DSGVO Art. 5, 6, 9, 12-15, 21, 32; BDSG; Versammlungsrecht des Landes; StGB §§ 107 ff., 111, 130, 185-188, 201a, 303; UrhG/KUG; DSA und Verordnung (EU) 2024/900 bei politischer Online-Werbung.
-- Belege aktenfest machen: Screenshot mit URL/Zeit, Plattform-ID, Freigabeweg, Budget, Spenden-/Sponsoringherkunft, Genehmigung, Behördenkontakt, interne Verantwortlichkeit und Entscheidungsvermerk.
-- Output knapp operativ liefern: Ampel, Sprechzettel, Behördenmail, Freigabe- oder Stoppvermerk, Fristenplan, Q&A, Plattformmeldung, Beweissicherungsnotiz oder Eskalationsmemo.
-
-## Fachkern: Wahlverfahren Falschinfo
-
-- **Wahlkampflage (Wahlverfahren Falschinfo):** Falschinformationen über Wahltermin, Briefwahl, Stimmzettel oder Wahlraeume beantworten.
-- **Norm-/Praxisanker:** Wahlgesetze des betroffenen Bundes/Landes, PartG, DSGVO/BDSG, Verordnung (EU) 2024/900, Versammlungs-, Straßen-, Kommunal-, Presse-, Urheber-, Straf- und Ordnungswidrigkeitenrecht je nach Einsatzfeld.
-- **Entscheidende Weiche:** Amtliche Wahlorganisation, Partei, Fraktion, Kandidatenteam, Agentur, Ehrenamt und Dritte strikt trennen; Strategie nie mit rechtlicher Zulässigkeit verwechseln.
-- **Arbeitsprodukt:** Freigabevermerk, Risikoampel, Behördenmail, Sprechzettel oder Eskalationsnotiz mit Belegarchiv und klarer Verantwortlichkeit.
-
-## Kaltstartfragen
-
-1. Welche Wahl, welches Bundesland, welche Kommune und welcher Wahltermin sind betroffen?
-2. Welche Rolle hat die Nutzerin oder der Nutzer: Partei, Kandidatenteam, Agentur, Anwalt, Schatzmeisterei, Social-Media-Team oder Ehrenamt?
-3. Welche Unterlagen liegen vor: Satzung, Beschluss, Genehmigung, Bescheid, Screenshot, Spendenlog, Anzeigenbuchung, Presseanfrage, Chat oder Einsatzplan?
-4. Was soll sofort herauskommen: Risikoampel, Briefing, Behördenmail, Freigabevermerk, Fristenplan, Q&A, Sprechzettel oder Eskalationsnotiz?
-5. Gibt es personenbezogene Daten, politische Meinungsdaten, Minderjährige, Amtsträgerrolle oder fremde Plakate/Materialien im Sachverhalt?
-
-## Arbeitsfokus
-
-Verweist auf Wahlleitung, amtliche Fakten und vermeidet parteipolitische Vermischung des Wahlverfahrens.
+Erklaert Oeffentlichkeit, Grenzen, Dokumentation, keine Stoerung, Briefwahlvorstaende und Eskalation.
 
 ## Spezifischer Prüfpfad
 
-- Erkenne Falschinformationen über Wahltermin, Wahlraum, Briefwahl, Ausweis, Stimmzettel, Auszählung, Briefkasten oder angebliche Wahlmanipulation.
-- Nutze primär amtliche Quellen der Wahlleitung und der Bundeswahlleiterin; eigene Parteigrafiken müssen auf diese Quellen zurückführen.
-- Antworte schnell, knapp und ohne parteipolitische Zuspitzung, weil das Wahlverfahren selbst geschützt werden muss.
-- Melde gefährliche Falschinformationen an Plattformen und Wahlleitung, wenn sie Reichweite haben oder konkrete Wähler abschrecken.
-- Dokumentiere die Gegenrede für spätere Presse- und Wahlprüfungsfragen.
+- Trenne Wahlbeobachtung, Wahlvorstand, Vertrauensperson, Parteiteam und bloßes Interesse am öffentlichen Auszählungsvorgang.
+- Erzeuge ein Beobachterbriefing: ruhig bleiben, keine Wähleransprache, keine Geheimnisverletzung, keine Störung, nur Beobachtung und dokumentierte Rückfrage.
+- Prüfe Zugang, Raumkapazität, Hausrecht, Auszählungsöffentlichkeit, Briefwahlzählung und lokale Besonderheiten.
+- Dokumentiere Unregelmäßigkeiten nach Schema: Was, wann, wo, wer, Beleg, Reaktion Wahlvorstand, mögliche Relevanz.
+- Baue einen Nachwahlpfad: Wahlleitung kontaktieren, Rechtsprüfung, Wahlprüfung nur bei substanziellem Wahlfehler.
+
+## Rechts- und Praxislogik
+
+- Wahlkampf ist durch Meinungsfreiheit, Parteienprivileg und demokratische Wahlgrundsätze geschützt, aber nicht rechtsfrei.
+- Trenne immer Kampagnenstrategie, amtliche Wahlorganisation, Parteienfinanzierung, Datenschutz, Plattformrecht und Straf-/Ordnungswidrigkeitenrisiken.
+- Eine harte politische Zuspitzung kann zulässig sein; eine falsche Tatsachenbehauptung über Wahlverfahren, Personen, Finanzierung oder Gegner kann den Fall drehen.
+- Ehrenamtliche brauchen kurze, klare Regeln. Wenn das Team improvisiert, müssen die Regeln einfacher und nicht komplizierter werden.
+- Dokumentiere Entscheidungen so, dass Schatzmeisterei, Rechtsberatung, Kandidatenteam und Kampagnenleitung später verstehen, warum etwas freigegeben oder gestoppt wurde.
+
+## Qualitätsgate
+
+- Ist die Wahlart und die zuständige Wahl- oder Ordnungsbehörde konkret bestimmt?
+- Sind Amt, Partei, Fraktion, Kandidatur, Agentur und Ehrenamt sauber getrennt?
+- Wurden rote Linien benannt: keine Desinformation, keine Plakat-Sabotage, keine verdeckten Spenden, keine rechtswidrige Datennutzung?
+- Ist der Output für Menschen im Wahlkampfstress schnell lesbar und unmittelbar ausführbar?
+- Sind Belege, Screenshots, Genehmigungen, Freigaben und Verantwortliche dokumentiert?
+
+## Quellen- und Aktualitätsregel
+
+- Bundes- und Landesrecht live prüfen; bei Plakatierung immer die konkrete Gemeinde oder Straßenbaubehörde heranziehen.
+- Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
+- Bei politischer Online-Werbung die Verordnung (EU) 2024/900, Plattformregeln, DSGVO/BDSG und die konkrete Anzeigenbibliothek prüfen.
+- Bei Spenden, Sponsoring und Sachleistungen das Parteiengesetz, Bundestagsverwaltungshinweise und interne Schatzmeisterei-Regeln prüfen.
+
+---
+
+## Skill: `kandidatenbriefing-kamera`
+
+_Wenn es um Kandidatenbriefing Kamera in Wahlkampfrecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Kandidatenbriefing Kamera
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 21 Abs. 1 GG` — Parteienfreiheit und Mitwirkung an politischer Willensbildung.
+- `Art. 38 Abs. 1 GG` — Wahlrechtsgrundsaetze.
+- `§ 1 Abs. 1 BWahlG` — Wahlrechtsgrundlagen Bundestagswahl.
+- `§ 18 BWahlG` — Wahlvorschlagsrecht und Beteiligungsanzeige.
+- `§ 19 BWahlG` — Einreichungsfrist Kreiswahlvorschlaege.
+- `§ 26 BWahlG` — Entscheidung über Kreiswahlvorschlaege.
+- `§ 32 BWahlG` — unzulässige Wahlbeeinflussung am Wahltag.
+- `§ 49a BWahlG` — Ordnungswidrigkeiten.
+- `§ 5 PartG` — Gleichbehandlung der Parteien durch Traeger öffentlicher Gewalt.
+- `§ 25 PartG` — Spendenannahme und Spendenverbote.
+- `§ 31d PartG` — Sanktionen bei unrichtigen Rechenschaftsberichten.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Wahlart, Wahlgebiet, Wahltermin und Ebene festlegen: Bundestag, Europa, Landtag, Kommunalwahl, Bürgermeister-/Landratswahl oder innerparteiliche Vorstufe getrennt behandeln.
+- Rollen sauber trennen: Partei, Kandidierende, Fraktion, Amtsträger, Agentur, Verein, Unterstützerkreis, Plattform, Wahlleitung, Ordnungsamt und Polizei haben unterschiedliche Rechte, Pflichten und Kommunikationslinien.
+- Eilrisiken markieren: Wahlvorschlagsfristen, Unterstützungsunterschriften, Plakatierungs-/Sondernutzungsvorgaben, presserechtliche Reaktionsfenster, Datenschutzlöschung, Plattformfristen, Gegendarstellung, Unterlassung und Beweissicherung.
+- Tragende Normen live verifizieren: Art. 5, 8, 21 und 38 GG; BWahlG/BWO oder einschlägiges Landes-/Kommunalwahlrecht; PartG §§ 5, 18, 23a, 25, 31b-31d; DSGVO Art. 5, 6, 9, 12-15, 21, 32; BDSG; Versammlungsrecht des Landes; StGB §§ 107 ff., 111, 130, 185-188, 201a, 303; UrhG/KUG; DSA und Verordnung (EU) 2024/900 bei politischer Online-Werbung.
+- Belege aktenfest machen: Screenshot mit URL/Zeit, Plattform-ID, Freigabeweg, Budget, Spenden-/Sponsoringherkunft, Genehmigung, Behördenkontakt, interne Verantwortlichkeit und Entscheidungsvermerk.
+- Output knapp operativ liefern: Ampel, Sprechzettel, Behördenmail, Freigabe- oder Stoppvermerk, Fristenplan, Q&A, Plattformmeldung, Beweissicherungsnotiz oder Eskalationsmemo.
+
+## Fachkern: Kandidatenbriefing Kamera
+
+- **Wahlkampflage (Kandidatenbriefing Kamera):** Kandidierende für Kamera, Smartphone-Clips und spontane Fragen trainieren.
+- **Norm-/Praxisanker:** Wahlgesetze des betroffenen Bundes/Landes, PartG, DSGVO/BDSG, Verordnung (EU) 2024/900, Versammlungs-, Straßen-, Kommunal-, Presse-, Urheber-, Straf- und Ordnungswidrigkeitenrecht je nach Einsatzfeld.
+- **Entscheidende Weiche:** Amtliche Wahlorganisation, Partei, Fraktion, Kandidatenteam, Agentur, Ehrenamt und Dritte strikt trennen; Strategie nie mit rechtlicher Zulässigkeit verwechseln.
+- **Arbeitsprodukt:** Freigabevermerk, Risikoampel, Behördenmail, Sprechzettel oder Eskalationsnotiz mit Belegarchiv und klarer Verantwortlichkeit.
+
+## Kaltstartfragen
+
+1. Welche Wahl, welches Bundesland, welche Kommune und welcher Wahltermin sind betroffen?
+2. Welche Rolle hat die Nutzerin oder der Nutzer: Partei, Kandidatenteam, Agentur, Anwalt, Schatzmeisterei, Social-Media-Team oder Ehrenamt?
+3. Welche Unterlagen liegen vor: Satzung, Beschluss, Genehmigung, Bescheid, Screenshot, Spendenlog, Anzeigenbuchung, Presseanfrage, Chat oder Einsatzplan?
+4. Was soll sofort herauskommen: Risikoampel, Briefing, Behördenmail, Freigabevermerk, Fristenplan, Q&A, Sprechzettel oder Eskalationsnotiz?
+5. Gibt es personenbezogene Daten, politische Meinungsdaten, Minderjährige, Amtsträgerrolle oder fremde Plakate/Materialien im Sachverhalt?
+
+## Arbeitsfokus
+
+Arbeitet mit Kurzantworten, Pausen, Blickfuehrung, deeskalierender Reaktion und Authentizitaet.
+
+## Spezifischer Prüfpfad
+
+- Baue aus Persönlichkeit, Schwächen, Themen und Stresssituationen ein ehrliches Medienprofil; das Ziel ist Authentizität, nicht Plastiksprech.
+- Trainiere drei Situationen: freundliche Frage, aggressive Unterbrechung, unfair geschnittener Smartphone-Clip.
+- Erzeuge Brückensätze, Stoppsätze, Korrektursätze und einen Weg aus der Falle, ohne patzig oder belehrend zu wirken.
+- Prüfe rechtliche Grenzen: keine falschen Tatsachen, keine Beleidigung, keine vertraulichen Daten, keine unbedachte Zusage.
+- Lege nach jedem Auftritt fest, welcher Ausschnitt selbst veröffentlicht wird und welcher Kontext dokumentiert bleibt.
+
+## Rechts- und Praxislogik
+
+- Wahlkampf ist durch Meinungsfreiheit, Parteienprivileg und demokratische Wahlgrundsätze geschützt, aber nicht rechtsfrei.
+- Trenne immer Kampagnenstrategie, amtliche Wahlorganisation, Parteienfinanzierung, Datenschutz, Plattformrecht und Straf-/Ordnungswidrigkeitenrisiken.
+- Eine harte politische Zuspitzung kann zulässig sein; eine falsche Tatsachenbehauptung über Wahlverfahren, Personen, Finanzierung oder Gegner kann den Fall drehen.
+- Ehrenamtliche brauchen kurze, klare Regeln. Wenn das Team improvisiert, müssen die Regeln einfacher und nicht komplizierter werden.
+- Dokumentiere Entscheidungen so, dass Schatzmeisterei, Rechtsberatung, Kandidatenteam und Kampagnenleitung später verstehen, warum etwas freigegeben oder gestoppt wurde.
+
+## Qualitätsgate
+
+- Ist die Wahlart und die zuständige Wahl- oder Ordnungsbehörde konkret bestimmt?
+- Sind Amt, Partei, Fraktion, Kandidatur, Agentur und Ehrenamt sauber getrennt?
+- Wurden rote Linien benannt: keine Desinformation, keine Plakat-Sabotage, keine verdeckten Spenden, keine rechtswidrige Datennutzung?
+- Ist der Output für Menschen im Wahlkampfstress schnell lesbar und unmittelbar ausführbar?
+- Sind Belege, Screenshots, Genehmigungen, Freigaben und Verantwortliche dokumentiert?
+
+## Quellen- und Aktualitätsregel
+
+- Bundes- und Landesrecht live prüfen; bei Plakatierung immer die konkrete Gemeinde oder Straßenbaubehörde heranziehen.
+- Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
+- Bei politischer Online-Werbung die Verordnung (EU) 2024/900, Plattformregeln, DSGVO/BDSG und die konkrete Anzeigenbibliothek prüfen.
+- Bei Spenden, Sponsoring und Sachleistungen das Parteiengesetz, Bundestagsverwaltungshinweise und interne Schatzmeisterei-Regeln prüfen.
+
+---
+
+## Skill: `wahlprogramm-und-faktencheck`
+
+_Wenn es um Wahlprogramm Und Faktencheck in Wahlkampfrecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Wahlprogramm Und Faktencheck
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 21 Abs. 1 GG` — Parteienfreiheit und Mitwirkung an politischer Willensbildung.
+- `Art. 38 Abs. 1 GG` — Wahlrechtsgrundsaetze.
+- `§ 1 Abs. 1 BWahlG` — Wahlrechtsgrundlagen Bundestagswahl.
+- `§ 18 BWahlG` — Wahlvorschlagsrecht und Beteiligungsanzeige.
+- `§ 19 BWahlG` — Einreichungsfrist Kreiswahlvorschlaege.
+- `§ 26 BWahlG` — Entscheidung über Kreiswahlvorschlaege.
+- `§ 32 BWahlG` — unzulässige Wahlbeeinflussung am Wahltag.
+- `§ 49a BWahlG` — Ordnungswidrigkeiten.
+- `§ 5 PartG` — Gleichbehandlung der Parteien durch Traeger öffentlicher Gewalt.
+- `§ 25 PartG` — Spendenannahme und Spendenverbote.
+- `§ 31d PartG` — Sanktionen bei unrichtigen Rechenschaftsberichten.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Wahlart, Wahlgebiet, Wahltermin und Ebene festlegen: Bundestag, Europa, Landtag, Kommunalwahl, Bürgermeister-/Landratswahl oder innerparteiliche Vorstufe getrennt behandeln.
+- Rollen sauber trennen: Partei, Kandidierende, Fraktion, Amtsträger, Agentur, Verein, Unterstützerkreis, Plattform, Wahlleitung, Ordnungsamt und Polizei haben unterschiedliche Rechte, Pflichten und Kommunikationslinien.
+- Eilrisiken markieren: Wahlvorschlagsfristen, Unterstützungsunterschriften, Plakatierungs-/Sondernutzungsvorgaben, presserechtliche Reaktionsfenster, Datenschutzlöschung, Plattformfristen, Gegendarstellung, Unterlassung und Beweissicherung.
+- Tragende Normen live verifizieren: Art. 5, 8, 21 und 38 GG; BWahlG/BWO oder einschlägiges Landes-/Kommunalwahlrecht; PartG §§ 5, 18, 23a, 25, 31b-31d; DSGVO Art. 5, 6, 9, 12-15, 21, 32; BDSG; Versammlungsrecht des Landes; StGB §§ 107 ff., 111, 130, 185-188, 201a, 303; UrhG/KUG; DSA und Verordnung (EU) 2024/900 bei politischer Online-Werbung.
+- Belege aktenfest machen: Screenshot mit URL/Zeit, Plattform-ID, Freigabeweg, Budget, Spenden-/Sponsoringherkunft, Genehmigung, Behördenkontakt, interne Verantwortlichkeit und Entscheidungsvermerk.
+- Output knapp operativ liefern: Ampel, Sprechzettel, Behördenmail, Freigabe- oder Stoppvermerk, Fristenplan, Q&A, Plattformmeldung, Beweissicherungsnotiz oder Eskalationsmemo.
+
+## Fachkern: Wahlprogramm Und Faktencheck
+
+- **Wahlkampflage (Wahlprogramm Und Faktencheck):** Wahlprogramm und Kurzforderungen auf belegbare Tatsachenbasis prüfen.
+- **Norm-/Praxisanker:** Wahlgesetze des betroffenen Bundes/Landes, PartG, DSGVO/BDSG, Verordnung (EU) 2024/900, Versammlungs-, Straßen-, Kommunal-, Presse-, Urheber-, Straf- und Ordnungswidrigkeitenrecht je nach Einsatzfeld.
+- **Entscheidende Weiche:** Amtliche Wahlorganisation, Partei, Fraktion, Kandidatenteam, Agentur, Ehrenamt und Dritte strikt trennen; Strategie nie mit rechtlicher Zulässigkeit verwechseln.
+- **Arbeitsprodukt:** Freigabevermerk, Risikoampel, Behördenmail, Sprechzettel oder Eskalationsnotiz mit Belegarchiv und klarer Verantwortlichkeit.
+
+## Kaltstartfragen
+
+1. Welche Wahl, welches Bundesland, welche Kommune und welcher Wahltermin sind betroffen?
+2. Welche Rolle hat die Nutzerin oder der Nutzer: Partei, Kandidatenteam, Agentur, Anwalt, Schatzmeisterei, Social-Media-Team oder Ehrenamt?
+3. Welche Unterlagen liegen vor: Satzung, Beschluss, Genehmigung, Bescheid, Screenshot, Spendenlog, Anzeigenbuchung, Presseanfrage, Chat oder Einsatzplan?
+4. Was soll sofort herauskommen: Risikoampel, Briefing, Behördenmail, Freigabevermerk, Fristenplan, Q&A, Sprechzettel oder Eskalationsnotiz?
+5. Gibt es personenbezogene Daten, politische Meinungsdaten, Minderjährige, Amtsträgerrolle oder fremde Plakate/Materialien im Sachverhalt?
+
+## Arbeitsfokus
+
+Trennt politische Zielsaetze, empirische Behauptungen, Kostenangaben, Zustandsbeschreibungen und Quellen.
 
 ## Rechts- und Praxislogik
 
@@ -694,7 +683,7 @@ Verweist auf Wahlleitung, amtliche Fakten und vermeidet parteipolitische Vermisc
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

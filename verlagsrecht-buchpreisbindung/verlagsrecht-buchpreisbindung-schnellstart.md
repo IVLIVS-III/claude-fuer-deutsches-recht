@@ -52,10 +52,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - UrhG Paragraf 15: Verwertungsrechte.
 - UrhG Paragraf 31: Einraeumung von Nutzungsrechten.
 - UrhG Paragraf 51: Zitatrecht.
-- ZPO Paragrafen 935 ff.: https://dejure.org/gesetze/ZPO/935.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- UrhG Paragrafen 4, 8, 9: https://dejure.org/gesetze/UrhG/8.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- UrhG Paragraf 32d: https://dejure.org/gesetze/UrhG/32d.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- UrhG Paragraf 32a: https://dejure.org/gesetze/UrhG/32a.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- UrhG Paragraf 79b (seit 2014): Öffentliche Einrichtungen dürfen verwaiste Werke unter bestimmten Voraussetzungen (sorgfältige Suche, Registrierung beim EUIPO) nutzen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Auftragsillustration ohne schriftliche Rechteeinräumung: Mündliche Vereinbarung reicht nicht; UrhG Paragraf 31 verlangt keine Form, aber Beweis nötig: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schoepfung als unionsrechtlichen Werkanker.
 - EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
 - BGH „Buchpreisbindung Abmahnung" I ZR 173/09: https://www.bgh.de

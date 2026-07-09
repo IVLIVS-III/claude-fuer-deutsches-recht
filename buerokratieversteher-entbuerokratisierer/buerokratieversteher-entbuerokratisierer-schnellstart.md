@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | VwVfG Paragraf 28 Anhörungspflicht, Ausnahmen Abs. 2 und 3; VwVfG Paragraf 45 Abs. 1 Nr. 3 Heilung versaeumter Anhörung (bis Ende; VwVfG Paragraf 46 Aufhebbarkeit bei Verfahrensfehlern |
-| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -53,7 +53,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - VwVfG Paragraf 46 Aufhebbarkeit bei Verfahrensfehlern: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - SGB X Paragraf 24 entsprechende Vorschrift für Sozialverwaltungsverfahren: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - VwVfG Paragrafen 28, 45, 46: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 7. Antwortform
 

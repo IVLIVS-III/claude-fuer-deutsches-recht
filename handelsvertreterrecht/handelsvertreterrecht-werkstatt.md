@@ -91,8 +91,8 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 87a HGB — Entstehung und Fälligkeit des Provisionsanspruchs: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 254 ZPO — Stufenklage (Auskunft und Leistung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 195 BGB — Regelmäßige Verjährungsfrist drei Jahre: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 87c HGB auf gesetze-im-internet.de: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 87 HGB auf gesetze-im-internet.de: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 87 HGB — Entstehung des Provisionsanspruchs, Kausalität: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 87a HGB — Fälligkeit und Erlöschen der Provision: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 

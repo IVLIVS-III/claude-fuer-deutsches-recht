@@ -1,41 +1,42 @@
-# Megaprompt: ordnungswidrigkeitenrecht
+# Vollprüfung: ordnungswidrigkeitenrecht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 133 Skills (gekuerzt fuer Chat-Fenster) des Plugins `ordnungswidrigkeitenrecht`.
+Dieser Vollprüfung enthaelt top-8 von 133 Skills (gekuerzt fuer Chat-Fenster) des Plugins `ordnungswidrigkeitenrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Ordnungswidrigkeitenrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erst…
-2. **aufsichtspflichtverletzung-130-owig** — Ordnungswidrigkeitenrecht: Aufsichtspflichtverletzung § 130 OWiG. Aufsichtspflichtverletzung § 130 OWiG im Fachgebiet Or…
-3. **owi-098-aussenwirtschaft-gerichtstermin-vorber** — Ordnungswidrigkeitenrecht: Außenwirtschaft: Gerichtstermin vorbereiten. Gerichtstermin vorbereiten für Außenwirtschaft i…
-4. **owi-027-datenschutzbussgeld-verjaehrung-berech** — Ordnungswidrigkeitenrecht: Datenschutzbußgeld: Verjährung berechnen. Verjährung berechnen für Datenschutzbußgeld im Rahm…
-5. **owi-093-aussenwirtschaft-akteneinsicht-schreib** — Ordnungswidrigkeitenrecht: Außenwirtschaft: Akteneinsicht schreiben. Akteneinsicht schreiben für Außenwirtschaft im Rahm…
-6. **owi-099-aussenwirtschaft-rechtsbeschwerde-prue** — Ordnungswidrigkeitenrecht: Außenwirtschaft: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen für Außenwirtschaft im Rahm…
-7. **unternehmen-verbandsgeldbusse** — Ordnungswidrigkeitenrecht: Unternehmen und Verbandsgeldbuße. Unternehmen und Verbandsgeldbuße im Fachgebiet Ordnungswidr…
-8. **owi-057-lebensmittelrecht-verjaehrung-berechne** — Ordnungswidrigkeitenrecht: Lebensmittelrecht: Verjährung berechnen. Verjährung berechnen für Lebensmittelrecht im Rahmen…
+1. **kaltstart-triage** — Wenn es um Ordnungswidrigkeitenrecht - Allgemeiner Einstieg in Ordnungswidrigkeitenrecht geht: klärt Rolle, Ziel, Frist,…
+2. **datenschutzbussgeld-mandantenbrief-abgabe** — Wenn es um Datenschutzbussgeld Mandantenbrief Sch in Ordnungswidrigkeitenrecht geht: erstellt den passenden Entwurf aus …
+3. **lebensmittelrecht-mandantenbrief-schre** — Wenn es um Lebensmittelrecht Mandantenbrief Schre in Ordnungswidrigkeitenrecht geht: erstellt den passenden Entwurf aus …
+4. **strassenverkehr-mandantenbrief-schreiben** — Wenn es um Strassenverkehr Mandantenbrief Schreib in Ordnungswidrigkeitenrecht geht: erstellt den passenden Entwurf aus …
+5. **tierschutz-owi-mandantenbrief-schreibe** — Wenn es um Tierschutz Owi Mandantenbrief Schreibe in Ordnungswidrigkeitenrecht geht: erstellt den passenden Entwurf aus …
+6. **gewerberecht-mandantenbrief-umwelt** — Wenn es um Gewerberecht Mandantenbrief Schreiben in Ordnungswidrigkeitenrecht geht: erstellt den passenden Entwurf aus S…
+7. **umwelt-owi-mandantenbrief-schreiben** — Wenn es um Umwelt Owi Mandantenbrief Schreiben in Ordnungswidrigkeitenrecht geht: erstellt den passenden Entwurf aus Sac…
+8. **datenschutzbussgeld-akteneinsicht-schr** — Wenn es um Datenschutzbussgeld Akteneinsicht Schr in Ordnungswidrigkeitenrecht geht: ordnet Akteninhalt, Belege, Lücken …
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Ordnungswidrigkeitenrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe._
+_Wenn es um Ordnungswidrigkeitenrecht - Allgemeiner Einstieg in Ordnungswidrigkeitenrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Ordnungswidrigkeitenrecht - Allgemeiner Einstieg
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Ordnungswidrigkeitenrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Normenanker
 
@@ -90,315 +91,11 @@ Primär mit amtlichen Gesetzestexten, Behördenhinweisen, Gerichtsentscheidungen
 
 ---
 
-## Skill: `aufsichtspflichtverletzung-130-owig`
+## Skill: `datenschutzbussgeld-mandantenbrief-abgabe`
 
-_Ordnungswidrigkeitenrecht: Aufsichtspflichtverletzung § 130 OWiG. Aufsichtspflichtverletzung § 130 OWiG im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht._
+_Wenn es um Datenschutzbussgeld Mandantenbrief Sch in Ordnungswidrigkeitenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Aufsichtspflichtverletzung 130 Owig
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: OWiG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 OWiG` — Begriff der Ordnungswidrigkeit.
-- `§ 8 OWiG` — Begehen durch Unterlassen.
-- `§ 9 OWiG` — Handeln für einen anderen.
-- `§ 17 OWiG` — Höhe der Geldbusse.
-- `§ 30 OWiG` — Verbandsgeldbusse.
-- `§ 31 OWiG` — Verjährung.
-- `§ 47 OWiG` — Opportunitaetsprinzip.
-- `§ 55 OWiG` — Anhörung des Betroffenen.
-- `§ 66 OWiG` — Inhalt des Bussgeldbescheids.
-- `§ 67 OWiG` — Einspruch.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- OWiG, StPO-Verweisung, Bußgeldbescheid, Einspruch, Verjährung
-- Verbandsgeldbuße, Einziehung, Opportunität, Verwarnung
-- Amtsgericht, Staatsanwaltschaft, Rechtsbeschwerde
-- Spezialmaterien: Verkehr, Datenschutz, Gewerbe, Umwelt, Tier, Zoll
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 1 OWiG
-- § 8 OWiG
-- § 9 OWiG
-- § 17 OWiG
-- § 30 OWiG
-- § 31 OWiG
-- § 47 OWiG
-- § 55 OWiG
-- § 66 OWiG
-- § 67 OWiG
-- § 72 OWiG
-- § 130 OWiG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
----
-
-## Skill: `owi-098-aussenwirtschaft-gerichtstermin-vorber`
-
-_Ordnungswidrigkeitenrecht: Außenwirtschaft: Gerichtstermin vorbereiten. Gerichtstermin vorbereiten für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen._
-
-# Aussenwirtschaft Gerichtstermin Vorber
-
-## Arbeitsauftrag
-
-Aussenwirtschaft Gerichtstermin Vorber wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Ordnungswidrigkeitenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
-
-## Einstieg ohne Leerlauf
-
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
-
-## Norm- und Quellenanker
-
-- OWiG, StPO-Verweisung, Bußgeldbescheid, Einspruch, Verjährung
-- Verbandsgeldbuße, Einziehung, Opportunität, Verwarnung
-- Amtsgericht, Staatsanwaltschaft, Rechtsbeschwerde
-- Spezialmaterien: Verkehr, Datenschutz, Gewerbe, Umwelt, Tier, Zoll
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
-## Typische Artefakte
-
-- Bußgeldbescheid-Check
-- Verjährungs- und Fristenkalender
-- Einspruch/Begründung/Terminplan
-- Beweis- und Akteneinsichtsstrategie
-
-## Red-Team-Fragen
-
-- Zustellung/Frist falsch
-- Verjährungsunterbrechung übersehen
-- Straf- und OWi-Verfahren vermischt
-- Nebenfolgen/Einziehung vergessen
-
-## Ausgabeformat
-
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
-
-## Qualitätsregel
-
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
-
----
-
-## Skill: `owi-027-datenschutzbussgeld-verjaehrung-berech`
-
-_Ordnungswidrigkeitenrecht: Datenschutzbußgeld: Verjährung berechnen. Verjährung berechnen für Datenschutzbußgeld im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen._
-
-# Datenschutzbussgeld Verjaehrung Berech
-
-## Arbeitsauftrag
-
-Datenschutzbussgeld Verjaehrung Berech wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Ordnungswidrigkeitenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
-
-## Einstieg ohne Leerlauf
-
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
-
-## Norm- und Quellenanker
-
-- OWiG, StPO-Verweisung, Bußgeldbescheid, Einspruch, Verjährung
-- Verbandsgeldbuße, Einziehung, Opportunität, Verwarnung
-- Amtsgericht, Staatsanwaltschaft, Rechtsbeschwerde
-- Spezialmaterien: Verkehr, Datenschutz, Gewerbe, Umwelt, Tier, Zoll
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
-## Typische Artefakte
-
-- Bußgeldbescheid-Check
-- Verjährungs- und Fristenkalender
-- Einspruch/Begründung/Terminplan
-- Beweis- und Akteneinsichtsstrategie
-
-## Red-Team-Fragen
-
-- Zustellung/Frist falsch
-- Verjährungsunterbrechung übersehen
-- Straf- und OWi-Verfahren vermischt
-- Nebenfolgen/Einziehung vergessen
-
-## Ausgabeformat
-
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
-
-## Qualitätsregel
-
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
-
----
-
-## Skill: `owi-093-aussenwirtschaft-akteneinsicht-schreib`
-
-_Ordnungswidrigkeitenrecht: Außenwirtschaft: Akteneinsicht schreiben. Akteneinsicht schreiben für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen._
-
-# Aussenwirtschaft Akteneinsicht Schreib
-
-## Arbeitsauftrag
-
-Aussenwirtschaft Akteneinsicht Schreib wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Ordnungswidrigkeitenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
-
-## Einstieg ohne Leerlauf
-
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
-
-## Norm- und Quellenanker
-
-- OWiG, StPO-Verweisung, Bußgeldbescheid, Einspruch, Verjährung
-- Verbandsgeldbuße, Einziehung, Opportunität, Verwarnung
-- Amtsgericht, Staatsanwaltschaft, Rechtsbeschwerde
-- Spezialmaterien: Verkehr, Datenschutz, Gewerbe, Umwelt, Tier, Zoll
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
-## Typische Artefakte
-
-- Bußgeldbescheid-Check
-- Verjährungs- und Fristenkalender
-- Einspruch/Begründung/Terminplan
-- Beweis- und Akteneinsichtsstrategie
-
-## Red-Team-Fragen
-
-- Zustellung/Frist falsch
-- Verjährungsunterbrechung übersehen
-- Straf- und OWi-Verfahren vermischt
-- Nebenfolgen/Einziehung vergessen
-
-## Ausgabeformat
-
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
-
-## Qualitätsregel
-
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
-
----
-
-## Skill: `owi-099-aussenwirtschaft-rechtsbeschwerde-prue`
-
-_Ordnungswidrigkeitenrecht: Außenwirtschaft: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen._
-
-# Aussenwirtschaft Rechtsbeschwerde Prue
-
-## Arbeitsauftrag
-
-Aussenwirtschaft Rechtsbeschwerde Prue wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Ordnungswidrigkeitenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
-
-## Einstieg ohne Leerlauf
-
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
-
-## Norm- und Quellenanker
-
-- OWiG, StPO-Verweisung, Bußgeldbescheid, Einspruch, Verjährung
-- Verbandsgeldbuße, Einziehung, Opportunität, Verwarnung
-- Amtsgericht, Staatsanwaltschaft, Rechtsbeschwerde
-- Spezialmaterien: Verkehr, Datenschutz, Gewerbe, Umwelt, Tier, Zoll
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
-## Typische Artefakte
-
-- Bußgeldbescheid-Check
-- Verjährungs- und Fristenkalender
-- Einspruch/Begründung/Terminplan
-- Beweis- und Akteneinsichtsstrategie
-
-## Red-Team-Fragen
-
-- Zustellung/Frist falsch
-- Verjährungsunterbrechung übersehen
-- Straf- und OWi-Verfahren vermischt
-- Nebenfolgen/Einziehung vergessen
-
-## Ausgabeformat
-
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
-
-## Qualitätsregel
-
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
-
----
-
-## Skill: `unternehmen-verbandsgeldbusse`
-
-_Ordnungswidrigkeitenrecht: Unternehmen und Verbandsgeldbuße. Unternehmen und Verbandsgeldbuße im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht._
-
-# Unternehmen Und Verbandsgeldbusse
+# Datenschutzbussgeld Mandantenbrief Sch
 
 ## Arbeitsweg
 
@@ -439,25 +136,36 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `owi-057-lebensmittelrecht-verjaehrung-berechne`
+## Skill: `lebensmittelrecht-mandantenbrief-schre`
 
-_Ordnungswidrigkeitenrecht: Lebensmittelrecht: Verjährung berechnen. Verjährung berechnen für Lebensmittelrecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen._
+_Wenn es um Lebensmittelrecht Mandantenbrief Schre in Ordnungswidrigkeitenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Lebensmittelrecht Verjaehrung Berechne
+# Lebensmittelrecht Mandantenbrief Schre
 
-## Arbeitsauftrag
+## Arbeitsweg
 
-Lebensmittelrecht Verjaehrung Berechne wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Ordnungswidrigkeitenrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: OWiG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einstieg ohne Leerlauf
+## Normenanker
 
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-## Norm- und Quellenanker
+- `§ 1 OWiG` — Begriff der Ordnungswidrigkeit.
+- `§ 8 OWiG` — Begehen durch Unterlassen.
+- `§ 9 OWiG` — Handeln für einen anderen.
+- `§ 17 OWiG` — Höhe der Geldbusse.
+- `§ 30 OWiG` — Verbandsgeldbusse.
+- `§ 31 OWiG` — Verjährung.
+- `§ 47 OWiG` — Opportunitaetsprinzip.
+- `§ 55 OWiG` — Anhörung des Betroffenen.
+- `§ 66 OWiG` — Inhalt des Bussgeldbescheids.
+- `§ 67 OWiG` — Einspruch.
 
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 - OWiG, StPO-Verweisung, Bußgeldbescheid, Einspruch, Verjährung
 - Verbandsgeldbuße, Einziehung, Opportunität, Verwarnung
 - Amtsgericht, Staatsanwaltschaft, Rechtsbeschwerde
@@ -471,36 +179,236 @@ Lebensmittelrecht Verjaehrung Berechne wird nicht als abstraktes Schema beantwor
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
 
-## Typische Artefakte
+---
 
-- Bußgeldbescheid-Check
-- Verjährungs- und Fristenkalender
-- Einspruch/Begründung/Terminplan
-- Beweis- und Akteneinsichtsstrategie
+## Skill: `strassenverkehr-mandantenbrief-schreiben`
 
-## Red-Team-Fragen
+_Wenn es um Strassenverkehr Mandantenbrief Schreib in Ordnungswidrigkeitenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-- Zustellung/Frist falsch
-- Verjährungsunterbrechung übersehen
-- Straf- und OWi-Verfahren vermischt
-- Nebenfolgen/Einziehung vergessen
+# Strassenverkehr Mandantenbrief Schreib
 
-## Ausgabeformat
+## Arbeitsweg
 
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: OWiG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Qualitätsregel
+## Normenanker
 
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 OWiG` — Begriff der Ordnungswidrigkeit.
+- `§ 8 OWiG` — Begehen durch Unterlassen.
+- `§ 9 OWiG` — Handeln für einen anderen.
+- `§ 17 OWiG` — Höhe der Geldbusse.
+- `§ 30 OWiG` — Verbandsgeldbusse.
+- `§ 31 OWiG` — Verjährung.
+- `§ 47 OWiG` — Opportunitaetsprinzip.
+- `§ 55 OWiG` — Anhörung des Betroffenen.
+- `§ 66 OWiG` — Inhalt des Bussgeldbescheids.
+- `§ 67 OWiG` — Einspruch.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+- OWiG, StPO-Verweisung, Bußgeldbescheid, Einspruch, Verjährung
+- Verbandsgeldbuße, Einziehung, Opportunität, Verwarnung
+- Amtsgericht, Staatsanwaltschaft, Rechtsbeschwerde
+- Spezialmaterien: Verkehr, Datenschutz, Gewerbe, Umwelt, Tier, Zoll
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+---
+
+## Skill: `tierschutz-owi-mandantenbrief-schreibe`
+
+_Wenn es um Tierschutz Owi Mandantenbrief Schreibe in Ordnungswidrigkeitenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Tierschutz Owi Mandantenbrief Schreibe
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: OWiG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 OWiG` — Begriff der Ordnungswidrigkeit.
+- `§ 8 OWiG` — Begehen durch Unterlassen.
+- `§ 9 OWiG` — Handeln für einen anderen.
+- `§ 17 OWiG` — Höhe der Geldbusse.
+- `§ 30 OWiG` — Verbandsgeldbusse.
+- `§ 31 OWiG` — Verjährung.
+- `§ 47 OWiG` — Opportunitaetsprinzip.
+- `§ 55 OWiG` — Anhörung des Betroffenen.
+- `§ 66 OWiG` — Inhalt des Bussgeldbescheids.
+- `§ 67 OWiG` — Einspruch.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+- OWiG, StPO-Verweisung, Bußgeldbescheid, Einspruch, Verjährung
+- Verbandsgeldbuße, Einziehung, Opportunität, Verwarnung
+- Amtsgericht, Staatsanwaltschaft, Rechtsbeschwerde
+- Spezialmaterien: Verkehr, Datenschutz, Gewerbe, Umwelt, Tier, Zoll
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+---
+
+## Skill: `gewerberecht-mandantenbrief-umwelt`
+
+_Wenn es um Gewerberecht Mandantenbrief Schreiben in Ordnungswidrigkeitenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Gewerberecht Mandantenbrief Schreiben
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: OWiG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 OWiG` — Begriff der Ordnungswidrigkeit.
+- `§ 8 OWiG` — Begehen durch Unterlassen.
+- `§ 9 OWiG` — Handeln für einen anderen.
+- `§ 17 OWiG` — Höhe der Geldbusse.
+- `§ 30 OWiG` — Verbandsgeldbusse.
+- `§ 31 OWiG` — Verjährung.
+- `§ 47 OWiG` — Opportunitaetsprinzip.
+- `§ 55 OWiG` — Anhörung des Betroffenen.
+- `§ 66 OWiG` — Inhalt des Bussgeldbescheids.
+- `§ 67 OWiG` — Einspruch.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+- OWiG, StPO-Verweisung, Bußgeldbescheid, Einspruch, Verjährung
+- Verbandsgeldbuße, Einziehung, Opportunität, Verwarnung
+- Amtsgericht, Staatsanwaltschaft, Rechtsbeschwerde
+- Spezialmaterien: Verkehr, Datenschutz, Gewerbe, Umwelt, Tier, Zoll
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+---
+
+## Skill: `umwelt-owi-mandantenbrief-schreiben`
+
+_Wenn es um Umwelt Owi Mandantenbrief Schreiben in Ordnungswidrigkeitenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Umwelt Owi Mandantenbrief Schreiben
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: OWiG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 OWiG` — Begriff der Ordnungswidrigkeit.
+- `§ 8 OWiG` — Begehen durch Unterlassen.
+- `§ 9 OWiG` — Handeln für einen anderen.
+- `§ 17 OWiG` — Höhe der Geldbusse.
+- `§ 30 OWiG` — Verbandsgeldbusse.
+- `§ 31 OWiG` — Verjährung.
+- `§ 47 OWiG` — Opportunitaetsprinzip.
+- `§ 55 OWiG` — Anhörung des Betroffenen.
+- `§ 66 OWiG` — Inhalt des Bussgeldbescheids.
+- `§ 67 OWiG` — Einspruch.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+- OWiG, StPO-Verweisung, Bußgeldbescheid, Einspruch, Verjährung
+- Verbandsgeldbuße, Einziehung, Opportunität, Verwarnung
+- Amtsgericht, Staatsanwaltschaft, Rechtsbeschwerde
+- Spezialmaterien: Verkehr, Datenschutz, Gewerbe, Umwelt, Tier, Zoll
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+---
+
+## Skill: `datenschutzbussgeld-akteneinsicht-schr`
+
+_Wenn es um Datenschutzbussgeld Akteneinsicht Schr in Ordnungswidrigkeitenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Datenschutzbussgeld Akteneinsicht Schr
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: OWiG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 OWiG` — Begriff der Ordnungswidrigkeit.
+- `§ 8 OWiG` — Begehen durch Unterlassen.
+- `§ 9 OWiG` — Handeln für einen anderen.
+- `§ 17 OWiG` — Höhe der Geldbusse.
+- `§ 30 OWiG` — Verbandsgeldbusse.
+- `§ 31 OWiG` — Verjährung.
+- `§ 47 OWiG` — Opportunitaetsprinzip.
+- `§ 55 OWiG` — Anhörung des Betroffenen.
+- `§ 66 OWiG` — Inhalt des Bussgeldbescheids.
+- `§ 67 OWiG` — Einspruch.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+- OWiG, StPO-Verweisung, Bußgeldbescheid, Einspruch, Verjährung
+- Verbandsgeldbuße, Einziehung, Opportunität, Verwarnung
+- Amtsgericht, Staatsanwaltschaft, Rechtsbeschwerde
+- Spezialmaterien: Verkehr, Datenschutz, Gewerbe, Umwelt, Tier, Zoll
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

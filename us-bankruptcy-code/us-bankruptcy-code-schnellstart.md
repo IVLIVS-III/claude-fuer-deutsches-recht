@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Bruessel-Ia-VO Artikel 4, 7 und 25; Rom-I-VO Artikel 3 und 4; Rom-II-VO Artikel 4 |
-| Rechtsprechung | Rechtsprechung nur fallbezogen und nach Live-Verifikation; BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Rechtsprechung | Rechtsprechung nur fallbezogen und nach Live-Verifikation |
 | Tatbestand | Paragraf 1 Abs. 1 KWG — Bankgeschäfte. - Paragraf 32 Abs. 1 KWG — Erlaubnispflicht. - Paragraf 25a Abs. 1 KWG — |
 | Beweislast | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden |
 | Rechtsfolge | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
@@ -52,10 +52,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhaeltnisse; Artikel 9: Eingriffsnormen.
 - Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhaeltnisse.
 - CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
-- Paragraf 675f BGB — Zahlungsdiensterahmenvertrag: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 765 BGB — Bürgschaft: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 1 Abs. 1 KWG — Bankgeschäfte. - Paragraf 32 Abs. 1 KWG — Erlaubnispflicht. - Paragraf 25a Abs. 1 KWG — ordnungsgemäße Geschäftsorganisation. - Paragraf 44 Abs. 1 KWG —: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 1 Abs. 1 KWG — Bankgeschäfte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 32 Abs. 1 KWG — Erlaubnispflicht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 25a Abs. 1 KWG — ordnungsgemäße Geschäftsorganisation: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Rechtsprechung nur fallbezogen und nach Live-Verifikation an amtlicher oder frei zugänglicher Quelle zitieren; nicht verifizierte Aktenzeichen weglassen statt verwenden.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 7. Antwortform
 

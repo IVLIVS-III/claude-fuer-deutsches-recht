@@ -1,39 +1,40 @@
-# Megaprompt: krankenkassenrecht-krankenversicherung
+# Vollprüfung: krankenkassenrecht-krankenversicherung
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 160 Skills (gekuerzt fuer Chat-Fenster) des Plugins `krankenkassenrecht-krankenversicherung`.
+Dieser Vollprüfung enthaelt top-8 von 160 Skills (gekuerzt fuer Chat-Fenster) des Plugins `krankenkassenrecht-krankenversicherung`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt …
-2. **kinderleistungen-sozialpaediatrie-therapie-und-schulbegle** — Krankenversicherungsleistungen für Kinder: sozialpädiatrische Zentren, Therapien, Schulbegleitung – Abgrenzung GKV, Eing…
-3. **leistungsbescheid-lesen-fuer-laien** — Krankenversicherungs-Bescheide verständlich erklärt: Aufbau, Ablehnungsgründe, Rechtsbehelfsbelehrung und konkrete nächs…
-4. **krankenversicherung-klagebegruendung-sozialgericht** — Klagebegründung vor dem Sozialgericht in Krankenversicherungssachen: Struktur, Beweisführung, Gesundheitsakten als Bewei…
-5. **krankenversicherung-selbststaendige-mindestbeitrag** — Krankenversicherungsbeitrag für freiwillig versicherte Selbstständige: Mindestbeitrag, Einkommensnachweise, Spitzabrechn…
-6. **telemedizin-epa-erezept-und-datenschutz** — Digitalisierung im Gesundheitswesen: Telemedizin, elektronische Patientenakte (ePA), elektronisches Rezept (eRezept) – G…
-7. **abrechnung-goae-goz-und-erstattung** — Ärztliche (GOÄ) und zahnärztliche (GOZ) Abrechnung: Steigerungsfaktoren, Analogleistungen, Begründungspflichten und Erst…
-8. **erstattungsstreit-zwischen-leistungstraegern** — Erstattungsansprüche zwischen GKV, Pflegeversicherung, Rentenversicherung, Unfallversicherung und Sozialhilfe (§§ 102–11…
+1. **kaltstart-triage** — Wenn es um Kaltstart Triage in Krankenkassenrecht und Krankenversicherung geht: klärt Rolle, Ziel, Frist, Unterlagen und…
+2. **reha-vor-rente-zustaendigkeit-krankenkasse-rentenversiche** — Wenn es um Reha vor Rente: Zuständigkeit Krankenkasse vs. Rentenversicherung in Krankenkassenrecht und Krankenversicheru…
+3. **kv-014-psychotherapie-kostenerstattung-systemversagen-akut** — Wenn es um Krankenversicherung: Psychotherapie Kostenerstattung Systemversagen und Akutbehandlung in Krankenkassenrecht …
+4. **kv-005-krankengeld-anspruch-au-blockfrist-nahtlosigkeit** — Wenn es um Krankenversicherung: Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit in Krankenkassenrecht u…
+5. **kv-019-grenzgaenger-auslandskv-koordination** — Wenn es um Krankenversicherung: Grenzgänger Auslandskrankenversicherung und Koordinierungsrecht in Krankenkassenrecht un…
+6. **kv-001-kaltstart-krankenversicherung-bescheid-rechnung-und-frist** — Wenn es um Krankenversicherung: Kaltstart Krankenversicherung Bescheid Rechnung und Frist in Krankenkassenrecht und Kran…
+7. **digitale-gesundheitsanwendungen-diga-antrag-und-erprobung** — Wenn es um Digitale Gesundheitsanwendungen (DiGA): Antrag und Erprobung in Krankenkassenrecht und Krankenversicherung ge…
+8. **kv-013-kinderleistungen-sozialpaediatrie-therapie** — Wenn es um Krankenversicherung: Kinderleistungen Sozialpädiatrie Therapie und Schulbegleitung in Krankenkassenrecht und …
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext ord..._
+_Wenn es um Kaltstart Triage in Krankenkassenrecht und Krankenversicherung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Krankenkassenrecht Krankenversicherung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Schnellstart-Workflow
 
@@ -59,11 +60,11 @@ Tragende Anker: SGB V, VVG §§ 192 ff., MB/KK. Tatsächliche Fundstellen werden
 
 ---
 
-## Skill: `kinderleistungen-sozialpaediatrie-therapie-und-schulbegle`
+## Skill: `reha-vor-rente-zustaendigkeit-krankenkasse-rentenversiche`
 
-_Krankenversicherungsleistungen für Kinder: sozialpädiatrische Zentren, Therapien, Schulbegleitung – Abgrenzung GKV, Eingliederungshilfe (SGB IX/SGB XII), Schnittstellen im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprec..._
+_Wenn es um Reha vor Rente: Zuständigkeit Krankenkasse vs. Rentenversicherung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Kinderleistungen: Sozialpädiatrie, Therapie und Schulbegleitung
+# Reha vor Rente: Zuständigkeit Krankenkasse vs. Rentenversicherung
 
 ## Arbeitsweg
 
@@ -75,91 +76,291 @@ _Krankenversicherungsleistungen für Kinder: sozialpädiatrische Zentren, Therap
 
 ## Skill-Zweck
 
-Kinder mit Entwicklungsstörungen, Behinderungen oder chronischen Erkrankungen benötigen oft komplexe Versorgung. Kläre **welche Leistungen die Krankenkasse schuldet** – und wo die Abgrenzung zu Eingliederungshilfe, Schule und Jugendhilfe liegt.
+Rehabilitation ist häufig Streitgegenstand: **Wer ist zuständig – Krankenkasse oder Rentenversicherung?** Kläre Zuständigkeitsabgrenzung, Nahtlosigkeit und die Folgen der falschen Antragstellung.
 
 ## Rechtlicher Rahmen
 
-- **§ 43a SGB V** – Sozialpädiatrische Zentren (SPZ): Frühförderung, Diagnostik
-- **§ 30 SGB V** – Krankenhausbehandlung für Kinder und Jugendliche
-- **§ 32 SGB V** – Heilmittel: Ergo-, Logo-, Physiotherapie für Kinder
-- **§ 37 SGB V** – Häusliche Krankenpflege, auch bei Kindern
-- **§ 2 SGB IX** – Behinderungsbegriff, ICF-orientiert
-- **§ 112 SGB IX** – Schulbegleitung als Eingliederungshilfe (nach SGB IX Teil 2)
-- **§ 35a SGB VIII** – Eingliederungshilfe Jugendhilfe (seelische Behinderung)
-- **Frühförderungs-VO** – Komplexleistung Frühförderung (GKV + Eingliederungshilfe)
-- BSG B 3 KR 6/14 R (SPZ-Leistungen), BSG B 8 SO 23/17 R (Schulbegleitung)
+- **§ 40 SGB V** – Leistungen zur medizinischen Rehabilitation (GKV-Zuständigkeit)
+- **§§ 9–31 SGB VI** – Leistungen zur Teilhabe (Rentenversicherung, med. + berufliche Reha)
+- **§ 14 SGB IX** – Erstattungspflicht des erstangegangenen Trägers; Weiterleitung innerhalb 2 Wochen
+- **§ 15 SGB IX** – Selbstbeschaffung bei Versagen des Trägers
+- **§ 16 SGB VI** – „Reha vor Rente" (RvR): Versicherter muss Reha nicht ablehnen wenn Rentenversicherung fordert
+- **§ 51 SGB V** – GKV kann Versicherte bei drohender Erwerbsminderung auf Reha-Antrag verweisen
+- **SGB IX §§ 4, 6, 14, 15** – Leistungsrecht, Zuständigkeit, Erstattung
+- BSG B 1 KR 10/20 R (Reha-Zuständigkeit GKV vs. RV)
 
-## Leistungsabgrenzung
+## Zuständigkeitsmatrix
 
-| Leistung | Rechtsträger | Rechtsgrundlage |
-|---------|-------------|-----------------|
-| Sozialpädiatrisches Zentrum (SPZ) | GKV | § 43a SGB V |
-| Frühförderung (unter 6 J.) | GKV + Eingliederungshilfe (Komplexleistung) | Frühförderungs-VO |
-| Schulbegleitung | Eingliederungshilfe (Landkreis/Stadt) | § 112 SGB IX |
-| Logopädie, Ergo, PT | GKV | § 32 SGB V |
-| Schulkindergarten/Förderschule | Land/Schulträger | Schulrecht |
-| Psychotherapie | GKV | § 27 Abs. 1, § 92 SGB V |
+| Leistungstyp | Primär zuständig | Sekundär/Nachrang |
+|--------------|-----------------|-------------------|
+| Med. Reha ohne RV-Bezug | Krankenkasse § 40 SGB V | – |
+| Med. Reha bei Erwerbsminderungsrisiko | Deutsche Rentenversicherung § 9 SGB VI | GKV subsidiär |
+| Berufliche Rehabilitation | Deutsche Rentenversicherung, Bundesagentur | Krankenkasse nicht zuständig |
+| Anschlussrehabilitation (AHB) | Rentenversicherung oder GKV je nach Zuweisung | Krankenhaus koordiniert |
 
 ## Prüfprogramm
 
-### Schritt 1 – SPZ-Versorgung (§ 43a SGB V)
-- SPZ durch Krankenkasse zu genehmigen
-- Indikation: geistige Entwicklungsstörung, Zerebralparese, Autismus-Spektrum-Störung, ADHS (schwer)
-- Ärztliche Überweisung durch Kinder- und Jugendarzt oder Kinderpsychiater
-- Wartezeiten SPZ: oft 12–24 Monate; einstweiliger Rechtsschutz bei dringendem Bedarf
+### Schritt 1 – Zuständigkeit bestimmen
+- Hat der Versicherte ausreichende Wartezeit bei Rentenversicherung (15 Jahre) für § 9 SGB VI?
+- Besteht Erwerbsminderungsrisiko? (droht Erwerbsminderungsrente)
+- Wenn ja: Rentenversicherung primär zuständig → Antrag dort stellen
 
-### Schritt 2 – Frühförderung (Frühförderungs-VO)
-- Kind unter 6 Jahre
-- Komplexleistung: GKV übernimmt medizinisch-therapeutische Anteile; Eingliederungshilfe übernimmt pädagogische Anteile
-- Antrag beim örtlichen Frühförderzentrum oder Jugendamt
+### Schritt 2 – § 14 SGB IX: Erstangegangener Träger
+- Antrag bei falscher Stelle eingereicht: Träger muss innerhalb 2 Wochen weiterleiten
+- Wenn Weiterleitung versäumt: Erstangegangener Träger haftet und muss leisten
+- Wichtig: Versicherter stellt Antrag bei GKV, obwohl RV zuständig → GKV muss leisten und holt sich Geld von RV zurück
 
-### Schritt 3 – Heilmittel für Kinder (§ 32 SGB V)
-- Grundsätzlich gleiche Voraussetzungen wie bei Erwachsenen (Heilmittel-RL)
-- Bei Kindern: Verordnungsmengen häufig höher; besonderer Verordnungsbedarf für chronische Verläufe
-- Langfristversorgung: Antrag bei Kasse bis 4 Wochen vor Ablauf
+### Schritt 3 – § 51 SGB V: GKV-Reha-Verweis
+- GKV kann verlangen, dass Versicherter Reha-Antrag bei RV stellt wenn Krankengeld-Anspruch erschöpft droht
+- Verweigert Versicherter: GKV kann Krankengeld einstellen
+- Reha-Antrag gilt als Rentenantrag! (§ 51 Abs. 3 SGB V) – darauf hinweisen
 
-### Schritt 4 – Schulbegleitung (§ 112 SGB IX)
-- GKV ist NICHT zuständig für Schulbegleitung (außer in sehr engen Ausnahmen)
-- Zuständig: Eingliederungshilfeträger (Landkreis/kreisfreie Stadt)
-- Antrag beim Sozialamt, Jugendamt (§ 35a SGB VIII bei seelischer Behinderung) oder Schulamt
-- Abgrenzung: rein pflegerische Maßnahmen in Schule können GKV-Leistung sein (§ 37 SGB V)
+### Schritt 4 – Selbstbeschaffung § 15 SGB IX
+- Träger verweigert oder verzögert Leistung rechtswidrig → Versicherter kann selbst beschaffen
+- Voraussetzung: Anspruch besteht, Versagen des Trägers, notfallmäßige Beschaffung
+- Erstattung: volle Kosten der gleichwertigen Leistung
 
-### Schritt 5 – Psychotherapie für Kinder
-- Kinder und Jugendlichenpsychotherapeut: GKV-Kassenzulassung erforderlich
-- ADHS: Diagnose, Ausschlussdiagnostik, Leitliniengerechte Behandlung
-- Systemisches Versagen: § 13 Abs. 3 SGB V wenn kein Kassentherapeut innerhalb vertretbarer Frist verfügbar
+### Schritt 5 – Nahtlosigkeit Krankengeld-Reha
+- Übergang Krankengeld → Übergangsgeld (Reha) muss nahtlos sein
+- Übergangsgeld: 68 % / 75 % des Regelentgelts (§ 20 SGB VI)
+- Rentenversicherung muss Beginn der Reha-Leistung zeitnah koordinieren
 
 ## Typische Fallen
 
-- **Schulbegleitung bei GKV beantragen**: GKV lehnt rechtmäßig ab; Antrag muss beim Eingliederungshilfeträger gestellt werden.
-- **Frühförderungs-Komplexleistung**: Oft unklar wer federführend ist; Frühförderstelle koordiniert, nicht GKV direkt.
-- **SPZ-Kapazität erschöpft**: Kasse muss auf Veranlassung des Arztes prüfen ob Alternativversorgung möglich; einstweiliger Rechtsschutz.
-- **Psychotherapie-Warteliste**: Systemversagen bei > 3 Monaten Wartezeit → Kostenerstattung Privattherapeut möglich (BSG).
+- **Reha-Antrag = Rentenantrag**: § 51 Abs. 3 SGB V; Versicherte werden oft nicht aufgeklärt.
+- **Anschlussrehabilitation verpasst**: AHB muss im Krankenhaus beantragt werden; nachträgliche Beantragung möglich, aber schwieriger.
+- **Berufliche Reha vergessen**: Nur medizinische Reha beantragt; berufliche Reha hätte Erwerbsfähigkeit erhalten.
+- **MDK-Verneinung der Reha-Notwendigkeit**: Gegengutachten des behandelnden Arztes; BSG-Maßstab: nicht Heilung, sondern Verbesserung der Teilhabe.
 
 ## Output-Formate
 
-- SPZ-Antrag mit Begründung
-- Widerspruch gegen Heilmittelablehnung bei Kind
-- Schulbegleitungsantrag (Eingliederungshilfe, Muster)
-- Systemversagen-Schreiben (Psychotherapie)
-- Übersicht Zuständigkeiten (Tabelle)
+- Reha-Antrag (Muster DRV/GKV)
+- Zuständigkeitseinrede-Schreiben
+- § 51 SGB V-Widerspruch (Reha-Aufforderung)
+- Selbstbeschaffungs-Erstattungsantrag
+- Übergangsgeld-Berechnungsblatt
 
 ## Quellen
 
-- [§ 43a SGB V – Sozialpädiatrisches Zentrum](https://www.gesetze-im-internet.de/sgb_5/__43a.html)
-- [§ 112 SGB IX – Schulbegleitung](https://www.gesetze-im-internet.de/sgb_9_2018/__112.html)
-- [Frühförderungs-VO](https://www.gesetze-im-internet.de/fruehfoerdv/)
-- [§ 35a SGB VIII – Jugendhilfe](https://www.gesetze-im-internet.de/sgb_8/__35a.html)
-- [BSG Kinderleistungen](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
-- [G-BA Heilmittel-Richtlinie](https://www.g-ba.de/richtlinien/12/)
+- [§ 40 SGB V – Medizinische Rehabilitation](https://www.gesetze-im-internet.de/sgb_5/__40.html)
+- [§ 14 SGB IX – Erstangegangener Träger](https://www.gesetze-im-internet.de/sgb_9_2018/__14.html)
+- [§ 9 SGB VI – Reha vor Rente](https://www.gesetze-im-internet.de/sgb_6/__9.html)
+- [§ 51 SGB V – Reha-Verweis](https://www.gesetze-im-internet.de/sgb_5/__51.html)
+- [Deutsche Rentenversicherung – Rehabilitation](https://www.deutsche-rentenversicherung.de)
+- [BSG Entscheidungssuche](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [dejure.org SGB IX § 14](https://dejure.org/gesetze/SGB_IX/14.html)
 
 ---
 
-## Skill: `leistungsbescheid-lesen-fuer-laien`
+## Skill: `kv-014-psychotherapie-kostenerstattung-systemversagen-akut`
 
-_Krankenversicherungs-Bescheide verständlich erklärt: Aufbau, Ablehnungsgründe, Rechtsbehelfsbelehrung und konkrete nächste Schritte für Betroffene ohne Rechtskenntnisse im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprec..._
+_Wenn es um Krankenversicherung: Psychotherapie Kostenerstattung Systemversagen und Akutbehandlung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Leistungsbescheid lesen für Laien
+# Krankenversicherung: Psychotherapie Kostenerstattung Systemversagen und Akutbehandlung
+
+## Aufgabe
+
+Dieser Skill bearbeitet **Psychotherapie Kostenerstattung Systemversagen und Akutbehandlung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+
+## Kaltstart in 6 Fragen
+
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+
+## Prüfprogramm
+
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
+- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
+- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
+- Frist und Rechtsweg sofort markieren
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+
+## Typische Fallen
+
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+
+## Output
+
+- Bescheidanalyse
+- Widerspruch
+- Eilantrag
+- PKV-Leistungsbrief
+- Befundanforderung
+- Fristenplan
+- Laienerklärung
+
+---
+
+## Skill: `kv-005-krankengeld-anspruch-au-blockfrist-nahtlosigkeit`
+
+_Wenn es um Krankenversicherung: Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Krankenversicherung: Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit
+
+## Aufgabe
+
+Dieser Skill bearbeitet **Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+
+## Kaltstart in 6 Fragen
+
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+
+## Prüfprogramm
+
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
+- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
+- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
+- Frist und Rechtsweg sofort markieren
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+
+## Typische Fallen
+
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+
+## Output
+
+- Bescheidanalyse
+- Widerspruch
+- Eilantrag
+- PKV-Leistungsbrief
+- Befundanforderung
+- Fristenplan
+- Laienerklärung
+
+---
+
+## Skill: `kv-019-grenzgaenger-auslandskv-koordination`
+
+_Wenn es um Krankenversicherung: Grenzgänger Auslandskrankenversicherung und Koordinierungsrecht in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Krankenversicherung: Grenzgänger Auslandskrankenversicherung und Koordinierungsrecht
+
+## Aufgabe
+
+Dieser Skill bearbeitet **Grenzgänger Auslandskrankenversicherung und Koordinierungsrecht** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+
+## Kaltstart in 6 Fragen
+
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+
+## Prüfprogramm
+
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
+- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
+- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
+- Frist und Rechtsweg sofort markieren
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+
+## Typische Fallen
+
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+
+## Output
+
+- Bescheidanalyse
+- Widerspruch
+- Eilantrag
+- PKV-Leistungsbrief
+- Befundanforderung
+- Fristenplan
+- Laienerklärung
+
+---
+
+## Skill: `kv-001-kaltstart-krankenversicherung-bescheid-rechnung-und-frist`
+
+_Wenn es um Krankenversicherung: Kaltstart Krankenversicherung Bescheid Rechnung und Frist in Krankenkassenrecht und Krankenversicherung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Krankenversicherung: Kaltstart Krankenversicherung Bescheid Rechnung und Frist
+
+## Aufgabe
+
+Dieser Skill bearbeitet **Kaltstart Krankenversicherung Bescheid Rechnung und Frist** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+
+## Kaltstart in 6 Fragen
+
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+
+## Prüfprogramm
+
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
+- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
+- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
+- Frist und Rechtsweg sofort markieren
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+
+## Typische Fallen
+
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+
+## Output
+
+- Bescheidanalyse
+- Widerspruch
+- Eilantrag
+- PKV-Leistungsbrief
+- Befundanforderung
+- Fristenplan
+- Laienerklärung
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `digitale-gesundheitsanwendungen-diga-antrag-und-erprobung`
+
+_Wenn es um Digitale Gesundheitsanwendungen (DiGA): Antrag und Erprobung in Krankenkassenrecht und Krankenversicherung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Digitale Gesundheitsanwendungen (DiGA): Antrag und Erprobung
 
 ## Arbeitsweg
 
@@ -171,598 +372,151 @@ _Krankenversicherungs-Bescheide verständlich erklärt: Aufbau, Ablehnungsgründ
 
 ## Skill-Zweck
 
-Viele Versicherte verstehen Bescheide ihrer Krankenkasse nicht. Dieser Skill erklärt **den Aufbau von GKV-Leistungsbescheiden, typische Ablehnungsgründe in einfacher Sprache und konkrete nächste Schritte**.
+Digitale Gesundheitsanwendungen (DiGA) sind Apps auf Rezept. Kläre **Anspruchsvoraussetzungen, Verordnungsverfahren, Freischaltung durch die Kasse und den Erprobungsprozess**.
 
 ## Rechtlicher Rahmen
 
-- **§ 31 SGB X** – Was ist ein Verwaltungsakt (Bescheid)?
-- **§ 33 SGB X** – Bestimmtheit und Form des Bescheids
-- **§ 35 SGB X** – Begründungspflicht
-- **§ 36 SGB X** – Rechtsbehelfsbelehrung (muss im Bescheid stehen)
-- **§ 37 SGB X** – Bekanntgabe (3-Tage-Fiktion)
-- **§ 84 SGG** – Widerspruchsfrist: 1 Monat
+- **§ 33a SGB V** – DiGA: Anspruch auf digitale Gesundheitsanwendungen
+- **§ 139e SGB V** – DiGA-Verzeichnis des BfArM
+- **DiGAV** (Digitale-Gesundheitsanwendungen-Verordnung) – Anforderungen und Zulassung
+- **§ 92 SGB V** – G-BA: keine eigene DiGA-Richtlinie (Verzeichnis des BfArM maßgeblich)
+- BfArM (Bundesinstitut für Arzneimittel und Medizinprodukte): führt DiGA-Verzeichnis
+- BSG B 1 KR 3/24 R (DiGA, erster ausstehender BSG-Entscheid)
 
-## Bescheid-Aufbau erklärt
+## DiGA-Systematik
 
-| Teil | Was steht darin? | Was bedeutet das? |
-|------|-----------------|------------------|
-| Kopfzeile | Kassen-Logo, Bescheid-Nr., Datum | Für Identifikation und Fristen wichtig |
-| Tenor | Entscheidung (Ablehnung oder Bewilligung) | DAS ist das Ergebnis; hier steht ob Leistung gewährt wird |
-| Begründung | Warum hat Kasse so entschieden? | Hier steckt der Angriffspunkt für Widerspruch |
-| Rechtsbehelfsbelehrung | Widerspruch innerhalb 1 Monat | Fristbeginn und Adresse der Widerspruchsstelle |
+| Phase | Inhalt | Verzeichnisstatus |
+|-------|--------|------------------|
+| Vorläufige Aufnahme (Erprobung) | 12 Monate; Hersteller muss Nutzenbeweis erbringen | Verzeichnis „vorläufig" |
+| Dauerhafte Aufnahme | Positiver Nutzennachweis; oder weiterhin Erprobung | Verzeichnis „dauerhaft" |
+| Streichung | Kein Nutzennachweis; Listung endet | Aus Verzeichnis entfernt |
 
 ## Prüfprogramm
 
-### Schritt 1 – Datum feststellen
-- Datum des Bescheids + 3 Tage = Bekanntgabe (§ 37 SGB X)
-- Widerspruchsfrist: 1 Monat ab Bekanntgabe
-- Konkretes Fristende notieren: Welcher Tag des Folgemonats?
+### Schritt 1 – DiGA im Verzeichnis?
+- BfArM-DiGA-Verzeichnis online: aktuelle Liste aller zugelassenen DiGA
+- Vorläufig oder dauerhaft? → Beide GKV-erstattungsfähig
+- Diagnose: für welche Indikation ist die DiGA zugelassen?
 
-### Schritt 2 – Tenor lesen
-- Was hat die Kasse entschieden? (Ablehnung vollständig? Teilbewilligung? Kürzung?)
-- Wird eine konkrete Leistung verweigert? Welche?
-- Beträge prüfen: Festzuschuss korrekt? Zuzahlung korrekt?
+### Schritt 2 – Verordnung
+- Verordnungsrecht: Arzt oder Psychotherapeut (Kassenzulassung)
+- Formular: Spezialverordnungs-Formular oder auf Standardrezept mit ICD-10
+- Einlösecode auf Rezept: für App-Freischaltung erforderlich
 
-### Schritt 3 – Begründung verstehen
-- Typische Ablehnungsgründe:
- - „Medizinisch nicht notwendig": MDK hat Ablehnung empfohlen
- - „Nicht im Leistungskatalog": kein GKV-Anspruch auf diese Leistung
- - „Wirtschaftlichkeitsgebot": günstigere Alternative verfügbar
- - „Ausschluss nach § 34 SGB V": Lifestyle-Medikament oder ausgeschlossene Leistung
-- Normzitate im Bescheid: aufschlagen und nachschlagen
+### Schritt 3 – Genehmigung durch Kasse
+- § 33a Abs. 2: Kasse muss DiGA genehmigen wenn im Verzeichnis und Verordnung vorliegt
+- 14-Tage-Frist für Kasse; danach Genehmigungsfiktion (§ 13 Abs. 3a SGB V analog)
+- Kasse stellt Freischaltcode aus; Versicherter gibt Code in App ein
 
-### Schritt 4 – Rechtsbehelfsbelehrung
-- Steht eine Belehrung drin? Wenn nicht: Frist verlängert sich auf 1 Jahr
-- Adresse der Widerspruchsstelle: oft Kasse selbst oder Widerspruchsausschuss
-- Frist ist Eingangs- nicht Absendungsfrist: rechtzeitig ankommen lassen
+### Schritt 4 – Zuzahlung
+- 10 % je DiGA, mind. 5 €, max. 10 € (wie andere GKV-Leistungen)
+- Befreiungsgrenze: Belastungsgrenze 2 % des Bruttoeinkommens (§ 62 SGB V)
 
-### Schritt 5 – Nächste Schritte
-- Versteht man Ablehnungsgrund nicht: Akteneinsicht beantragen (§ 25 SGB X)
-- Frist sichern: Widerspruch fristwahrend einlegen bevor Begründung fertig
-- Beratung: Verbraucherzentrale, Sozialverband VdK, unabhängige Patientenberatung (UPD)
+### Schritt 5 – DiGA-Erprobungsphase
+- Hersteller muss in 12-monatiger Erprobungsphase Nutzendaten liefern
+- Kasse zahlt in Erprobungsphase; auch wenn Nutzenbeweis noch aussteht
+- Keine Erstattung nach Streichung aus Verzeichnis
 
 ## Typische Fallen
 
-- **Bescheid ignorieren**: Frist läuft; nach 1 Monat ist Bescheid bestandskräftig.
-- **Rechtsbehelfsbelehrung falsch gelesen**: Frist gilt per Eingang beim Absender; nicht per Poststempel.
-- **Begründung nicht verstanden**: Trotzdem Widerspruch einlegen; Begründung kann nachgereicht werden.
-- **Bewilligung nicht geprüft**: Manchmal wird Leistung zwar bewilligt, aber fehlerhaft begrenzt.
+- **Veraltetes Verzeichnis**: BfArM aktualisiert laufend; vor Verordnung aktuellen Stand prüfen.
+- **Off-Label DiGA**: DiGA für andere als zugelassene Indikation verordnet → Kasse kann ablehnen.
+- **Datenschutz in DiGA**: Gesundheitsdaten verarbeitet; DSGVO; BfArM prüft bei Zulassung; Versicherter muss Einwilligung geben.
+- **Interoperabilität ePA**: DiGA kann Daten in ePA übertragen; opt-in durch Versicherten.
 
 ## Output-Formate
 
-- Bescheid-Erklärungsprotokoll (für Versicherten)
-- Widerspruchs-Mustertext (allgemein)
-- Fristenkarte
-- Akteneinsichtsantrag (einfach)
-- Liste Beratungsstellen (regional anpassbar)
+- DiGA-Verordnungsanleitung (für Arzt)
+- Genehmigungsantrag Kasse
+- Widerspruch gegen DiGA-Ablehnung
+- Genehmigungsfiktion-Schreiben
+- DiGA-Datenschutzcheckliste
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Quellen
 
-- [§ 35 SGB X – Begründungspflicht](https://www.gesetze-im-internet.de/sgb_10/__35.html)
-- [§ 36 SGB X – Rechtsbehelfsbelehrung](https://www.gesetze-im-internet.de/sgb_10/__36.html)
-- [§ 37 SGB X – Bekanntgabe](https://www.gesetze-im-internet.de/sgb_10/__37.html)
-- [§ 84 SGG – Widerspruchsfrist](https://www.gesetze-im-internet.de/sgg/__84.html)
-- [Unabhängige Patientenberatung Deutschland (UPD)](https://www.patientenberatung.de)
-- [dejure.org § 35 SGB X](https://dejure.org/gesetze/SGB_X/35.html)
-
----
-
-## Skill: `krankenversicherung-klagebegruendung-sozialgericht`
-
-_Klagebegründung vor dem Sozialgericht in Krankenversicherungssachen: Struktur, Beweisführung, Gesundheitsakten als Beweismittel, Sachverständige und SGG-Prozessrecht im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung._
-
-# Klagebegründung Sozialgericht: Gesundheitsakte
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Skill-Zweck
-
-Nach erfolglosem Widerspruch folgt die Klage beim Sozialgericht. Dieser Skill bereitet eine **substantiierte Klagebegründung in Krankenversicherungssachen** vor: Struktur, Beweismittel, Gesundheitsakte und Sachverständigenfragen.
-
-## Rechtlicher Rahmen
-
-- **SGG §§ 78–131** – Verfahren beim Sozialgericht
-- **§ 103 SGG** – Amtsermittlungsgrundsatz (Gericht erforscht Sachverhalt von Amts wegen)
-- **§ 118 SGG i.V.m. ZPO §§ 404–414** – Sachverständige
-- **§ 128 SGG** – Freie Beweiswürdigung
-- **§ 193 SGG** – Kostenentscheidung
-- **§ 183 SGG** – Kostenfreiheit (keine Gerichtskosten für Versicherte!)
-- BSG B 1 KR 19/21 R (Beweismaß Krankenversicherungssachen), BSG B 1 KR 22/17 R
-
-## Klagebegründungs-Struktur
-
-| Teil | Inhalt |
-|------|--------|
-| Sachanträge | Was begehrt die Klägerin konkret? (Leistung, Aufhebung Bescheid) |
-| Sachverhalt | Chronologisch; vollständig; mit Beweismitteln |
-| Rechtliche Begründung | Norm + BSG-Rechtsprechung + Subsumtion |
-| Beweisangebote | Ärztliche Atteste, Sachverständigengutachten, Zeugen |
-| Amtsermittlung | Antrag auf gerichtliche Ermittlungen (Beiziehung Akten, Gutachten) |
-
-## Prüfprogramm
-
-### Schritt 1 – Klageerhebung und Form
-- Frist: 1 Monat nach Widerspruchsbescheid (§ 87 SGG)
-- Form: Schriftlich oder zu Protokoll beim SG
-- Kein Anwaltszwang im 1. Instanzgericht (§ 73 SGG)
-- Zuständiges Gericht: SG am Wohnort (§ 57 SGG)
-
-### Schritt 2 – Gesundheitsakte zusammenstellen
-- Vollständige ärztliche Unterlagen: Arztbriefe, Befundberichte, Laborbefunde
-- MDK-Gutachten (falls vorhanden): aus Akteneinsicht
-- Behandlungsverläufe: chronologisch; wichtig für Kausalität
-- Leitlinien: als Anlage beifügen (AWMF, G-BA)
-
-### Schritt 3 – Klagebegründung formulieren
-- Sachverhalt: kurz, präzise, ohne Wertungen
-- Rechtliche Begründung: Anspruchsgrundlage benennen, BSG-Urteile zitieren (Aktenzeichen)
-- Prüfung des Ablehnungsgrunds: jeden Ablehnungsgrund einzeln entkräften
-- Beweisangebote: am Ende jedes strittigen Punkts Beweis anbieten
-
-### Schritt 4 – Beweismittel im Sozialgerichtsverfahren
-- Sachverständigengutachten: beantragen (§ 118 SGG) wenn medizinische Fragen streitig
-- Zeugen: Arzt als Zeuge laden; selten notwendig wenn Arztbriefe vorliegen
-- Amtsermittlung: Gericht von Amts wegen tätig; Hinweis auf notwendige Ermittlungen
-
-### Schritt 5 – Kostenrecht
-- Keine Gerichtskosten für Versicherte (§ 183 SGG)
-- Anwaltskosten: bei Obsiegen trägt Kasse die außergerichtlichen Kosten (§ 193 SGG)
-- Beratungshilfe: für einkommensschwache Kläger
-
-## Typische Fallen
-
-- **Klagefrist versäumt**: 1 Monat ab Widerspruchsbescheid; Wiedereinsetzung bei unverschuldetem Fristversäumnis.
-- **Klagebegründung zu allgemein**: „Die Kasse hat unrecht" reicht nicht; konkrete Normen und Sachverhalte.
-- **Sachverständigengutachten nicht beantragt**: Gericht kann mangels Antrag Frage offen lassen; aktiv beantragen.
-- **BSG-Rechtsprechung falsch zitiert**: BSG-Entscheidungen prüfen ob auf vorliegenden Fall anwendbar; nicht pauschal.
-
-## Output-Formate
-
-- Klageschrift (vollständige Vorlage)
-- Beweisantrags-Schreiben
-- Sachverständigenfragen-Liste
-- Akteneinsichtsantrag beim SG
-- Vergleichsangebot-Bewertung
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Quellen
-
-- [§ 87 SGG – Klagefrist](https://www.gesetze-im-internet.de/sgg/__87.html)
-- [§ 103 SGG – Amtsermittlung](https://www.gesetze-im-internet.de/sgg/__103.html)
-- [§ 183 SGG – Kostenfreiheit](https://www.gesetze-im-internet.de/sgg/__183.html)
-- [BSG Prozessrecht](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
-- [Sozialgericht Anleitungen](https://www.sozialgerichtsbarkeit.de)
-- [dejure.org SGG § 87](https://dejure.org/gesetze/SGG/87.html)
-
----
-
-## Skill: `krankenversicherung-selbststaendige-mindestbeitrag`
-
-_Krankenversicherungsbeitrag für freiwillig versicherte Selbstständige: Mindestbeitrag, Einkommensnachweise, Spitzabrechnung und Widerspruch bei überhöhten Beiträgen im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung._
-
-# Selbstständige: Mindestbeitrag und Einkommensteuerbescheid
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Skill-Zweck
-
-Selbstständige sind in der GKV freiwillig versichert. Kläre **Beitragsbemessung, Mindestbeitrag, Nachweis­pflichten gegenüber der Kasse und Strategien bei überhöhten Beiträgen**.
-
-## Rechtlicher Rahmen
-
-- **§ 240 SGB V** – Beitragsbemessung freiwillig Versicherter; Einkommensbegriff
-- **§ 236 SGB V** – Mindestbemessungsgrundlage (2025: 1.178,33 €/Monat)
-- **§ 226 Abs. 2 SGB V** – Beitrag aus Arbeitseinkommen + weiteren Einkünften
-- **GKV-Spitzenverband – Beitragsverfahrensgrundsätze Selbstzahler** (BVGdS)
-- BSG B 12 KR 7/18 R (Beitragsbemessung Selbstständige), BSG B 12 KR 21/11 R
-- BVerfG 1 BvR 209/07 (Beitrag freiwillig Versicherter, Verfassungsmäßigkeit)
-
-## Beitragsbemessung Selbstständige
-
-| Einkommensquelle | Beitragspflichtig? |
-|-----------------|-------------------|
-| Gewinn aus Gewerbebetrieb | Ja (§ 15 EStG) |
-| Einkünfte aus selbstständiger Arbeit | Ja (§ 18 EStG) |
-| Einkünfte aus Vermietung | Ja |
-| Kapitalerträge | Ja, wenn Besteuerung nicht KapErtSt final |
-| Kindergeld | Nein |
-| Sozialhilfe | Nein |
-| Mindestbemessungsgrundlage | 1.178,33 €/Monat (auch wenn Einkommen niedriger) |
-
-## Prüfprogramm
-
-### Schritt 1 – Einkommensnachweise
-- Aktuellster Einkommensteuerbescheid als Grundlage (Beitragsverfahrensgrundsätze)
-- Neugründung/Einkommensverschlechterung: Prognose-/Schätzungsantrag möglich
-- Kasse setzt vorläufigen Beitrag; Spitzabrechnung nach Vorlage des ESt-Bescheids
-
-### Schritt 2 – Mindestbeitrag
-- Auch wenn Einkommen unter 1.178,33 €/Monat: Mindestbeitrag gilt
-- Ausnahme: hauptberuflich Selbstständige mit sehr niedrigem Einkommen → Härtefallprüfung
-- Neugründer: Prognose kann unter Mindestgrundlage liegen wenn glaubhaft; Nachweis erforderlich
-
-### Schritt 3 – Spitzabrechnung
-- Vorläufiger Beitrag aus Vorjahreseinkommen → Steueränderungsbescheid eingehen lassen
-- Spitzabrechnung: Kasse verrechnet Soll-Beitrag mit tatsächlichem Einkommen
-- Nachzahlung oder Erstattung; Verjährung 4 Jahre (§ 25 SGB IV)
-
-### Schritt 4 – Widerspruch bei überhöhtem Beitrag
-- Kasse setzt Beitrag auf Mindestbemessungsgrundlage oder höher fest
-- Einkommen niedriger: glaubhaft machen + Nachweise
-- BSG: Kasse muss alle Einkommensquellen berücksichtigen, aber auch nur diese
-
-### Schritt 5 – Einkommensoptimierung
-- Betriebsausgaben mindern Gewinn und damit Beitrag
-- Verluste aus anderen Einkunftsarten: seit BSG-Rechtsprechung nicht uneingeschränkt verrechenbar
-- Investitionen in Betrieb: steuerrechtliche Minderung wirkt sich auf GKV-Beitrag aus
-
-## Typische Fallen
-
-- **Kein ESt-Bescheid verfügbar**: Kasse setzt Maximalgrundlage; Prognose mit Kontoauszügen, BWA stellen.
-- **Nebengewerbe bei Anstellung**: Wenn Nebentätigkeit hauptberuflich selbstständig → Versicherungsfreiheit prüfen (§ 5 Abs. 5 SGB V).
-- **Verlustvortrag**: GKV-Beitragsrecht unterscheidet sich von Steuerrecht; Verluste nicht automatisch mindernd.
-- **Jahresausgleich vergessen**: Ohne Spitzabrechnung zu viel gezahlter Beitrag verjährt nach 4 Jahren.
-
-## Output-Formate
-
-- Beitragsschätzungsantrag (Neugründung)
-- Spitzabrechnungsantrag mit ESt-Bescheid
-- Widerspruch gegen Beitragsfestsetzung
-- Einkommens-Beitragsberechnung (Tabelle)
-- Mindestbeitrag-Härtefallantrag
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Quellen
-
-- [§ 240 SGB V – Beitragsbemessung](https://www.gesetze-im-internet.de/sgb_5/__240.html)
-- [GKV-Spitzenverband Beitragsverfahrensgrundsätze](https://www.gkv-spitzenverband.de)
-- [BSG B 12 KR 7/18 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
-- [§ 236 SGB V – Mindestbeitrag](https://www.gesetze-im-internet.de/sgb_5/__236.html)
-- [BVerfG 1 BvR 209/07](https://www.bverfg.de/entscheidungen.html)
-- [dejure.org § 240 SGB V](https://dejure.org/gesetze/SGB_V/240.html)
-
----
-
-## Skill: `telemedizin-epa-erezept-und-datenschutz`
-
-_Digitalisierung im Gesundheitswesen: Telemedizin, elektronische Patientenakte (ePA), elektronisches Rezept (eRezept) – GKV-Leistungsrahmen, Datenschutz und Opt-out im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung._
-
-# Telemedizin, ePA, eRezept und Datenschutz
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Skill-Zweck
-
-Die Digitalisierung verändert das Krankenversicherungsrecht. Kläre **Telemedizin-Leistungsrahmen, ePA-Regelungen und eRezept-Prozesse** mit besonderem Fokus auf Datenschutz und Opt-out-Rechte.
-
-## Rechtlicher Rahmen
-
-- **§ 291a SGB V** – Telematik-Infrastruktur (TI): Grundlage für ePA, eRezept
-- **§ 341 SGB V** – Elektronische Patientenakte (ePA): opt-out ab 2025
-- **§ 360 SGB V** – eRezept: Pflicht für GKV-Arzneiverordnungen
-- **§ 27 SGB V** – Telemedizin als Krankenbehandlungsform
-- **§ 87 SGB V i.V.m. EBM** – Vergütung von Videosprechstunden
-- DSGVO Art. 9, BDSG, TSVG (Terminservice- und Versorgungsgesetz 2019)
-- BfDI Stellungnahmen zur ePA
-
-## Digitale Versorgungsstruktur
-
-| Element | Rechtsgrundlage | Opt-out möglich |
-|---------|-----------------|-----------------|
-| ePA (Elektronische Patientenakte) | § 341 SGB V (ab 2025 opt-out) | Ja, Widerspruch jederzeit |
-| eRezept | § 360 SGB V | Nein (Pflicht für Arzt) |
-| Videosprechstunde | § 87 SGB V, EBM | Ja (Versicherter wählt) |
-| eArztbrief | § 291a SGB V | Ja |
-| DiGA | § 33a SGB V | Ja (separate Einwilligung) |
-
-## Prüfprogramm
-
-### Schritt 1 – Elektronische Patientenakte (ePA)
-- Ab 2025: alle GKV-Versicherten erhalten automatisch ePA (opt-out-Modell)
-- Widerspruch: schriftlich an Krankenkasse; kein Grund erforderlich
-- Inhalt: Befunde, Diagnosen, Medikationspläne, DiGA-Daten, Mutterpass etc.
-- Zugriff: Patient kontrolliert Zugriffsrechte (App der Kasse oder Kiosk-System)
-
-### Schritt 2 – eRezept
-- Pflicht für alle GKV-Arzneiverordnungen seit 2024
-- Einlösung: Apotheke scannt QR-Code (Papierausdruck oder App)
-- Datenschutz: Rezeptdaten zentral gespeichert; Zugriff für Abrechnung und ggf. Auswertung
-- Verweigerungsrecht: Versicherter kann analoge Alternative anfordern (wenn technisch nicht möglich)
-
-### Schritt 3 – Videosprechstunde
-- GKV-Leistung: Arzt-Patienten-Videokontakt (EBM-Ziffer 01439)
-- Plattformzulassung: nur von KBV zertifizierte Anbieter
-- Ausnahmen: nicht für erstmaligen Arzt-Patienten-Kontakt (§ 7 Abs. 4 MBOÄ)
-- Datenschutz: Ende-zu-Ende-Verschlüsselung erforderlich; DSGVO-Konformität der Plattform
-
-### Schritt 4 – Datenschutz und Opt-out
-- Widerspruch ePA: schriftlich, begründungslos, jederzeit widerrufbar
-- Datenzugang Dritte (Forschung): pseudonymisiert; Versicherter muss nicht aktiv zustimmen aber kann widersprechen
-- Kassenaufsicht (BAS): Aufsicht über Datenschutz bei Kassen (Sozialdaten)
-- BfDI: zuständig für föderalen Datenschutz
-
-### Schritt 5 – Telemedizin im Leistungsrecht
-- Telemedizinische Behandlung: voller GKV-Leistungsanspruch (§ 27 SGB V)
-- Einschränkung: nicht alle Diagnosen telemedizinisch behandelbar; Arzt entscheidet
-- Telemonitoring: chronisch kranke Patienten (Herzinsuffizienz: § 137f SGB V)
-
-## Typische Fallen
-
-- **ePA und Arbeitgeber**: Arbeitgeber hat keinen Zugang zur ePA; strikte Trennung.
-- **eRezept und Notfall**: Bei Systemausfall Papierrezept als Ersatz; Apotheke kann auf Bedenken reagieren.
-- **Videosprechstunde-Plattform nicht zertifiziert**: Arzt haftet bei Nutzung nicht zugelassener Plattform; für Versicherten kein Problem.
-- **DiGA-Daten in ePA**: Nur mit expliziter Einwilligung; separates Opt-in erforderlich.
-
-## Output-Formate
-
-- ePA-Widerspruchsschreiben
-- Datenschutzerklärung-Checkliste (Telemedizin)
-- Videosprechstunden-Einverständnis-Muster
-- eRezept-Erklärung (Laienerklärung)
-- Kassenaufsichts-Beschwerde (Datenschutz)
-
-## Quellen
-
-- [§ 341 SGB V – ePA](https://www.gesetze-im-internet.de/sgb_5/__341.html)
-- [§ 360 SGB V – eRezept](https://www.gesetze-im-internet.de/sgb_5/__360.html)
-- [Gematik – ePA und eRezept](https://www.gematik.de)
-- [BfDI – Datenschutz Gesundheit](https://www.bfdi.bund.de)
-- [dejure.org § 291a SGB V](https://dejure.org/gesetze/SGB_V/291a.html)
-- [DSGVO Art. 9](https://dsgvo-gesetz.de/art-9-dsgvo/)
-
----
-
-## Skill: `abrechnung-goae-goz-und-erstattung`
-
-_Ärztliche (GOÄ) und zahnärztliche (GOZ) Abrechnung: Steigerungsfaktoren, Analogleistungen, Begründungspflichten und Erstattungsansprüche in der PKV und Beihilfe im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung._
-
-# Abrechnung GOÄ/GOZ und Erstattung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Skill-Zweck
-
-PKV und Beihilfe erstatten ärztliche Honorare nach GOÄ und GOZ. Prüfe **Abrechnungsrichtigeit, Steigerungsfaktoren, Analogleistungen und Erstattungsansprüche**.
-
-## Rechtlicher Rahmen
-
-- **GOÄ** (Gebührenordnung für Ärzte) §§ 1–12 + Gebührenverzeichnis
-- **GOZ** (Gebührenordnung für Zahnärzte) §§ 1–12 + Gebührenverzeichnis
-- **§ 4 GOÄ** – Allgemeine Bestimmungen zu Steigerungsfaktoren (1,0 bis 3,5-fach)
-- **§ 6 GOÄ** – Analogleistungen (nicht im Verzeichnis gelistete Leistungen)
-- **§ 12 GOÄ** – Rechnungspflichtangaben (fehlende Angaben → Rechnung anfechtbar)
-- BGH III ZR 17/18 (GOÄ-Abrechnung, Steigerungsfaktor), BGH III ZR 62/18
-- BVerfG 1 BvR 2084/05 (GOÄ und PKV-Erstattung)
-
-## GOÄ-Steigerungsfaktoren
-
-| Faktor | Schwellenwert | Begründungspflicht |
-|--------|--------------|-------------------|
-| 1,0-fach | Mindestsatz (selten) | Nein |
-| 1,8-fach (Regelfall) | Durchschnittliche Schwierigkeit | Nein |
-| 2,3-fach | Obergrenze ohne Begründung | Nein |
-| > 2,3-fach | Erhöhter Schwellenwert | Ja (auf Rechnung) |
-| 3,5-fach | Absolutes Maximum | Ja, ausführlich |
-
-## Prüfprogramm
-
-### Schritt 1 – Rechnungsprüfung formal
-- Enthält Rechnung alle Pflichtangaben (§ 12 GOÄ): Datum, Diagnose, Leistungsnummer, Steigerungsfaktor, Begründung bei > 2,3?
-- Fehlende Pflichtangaben: Rechnung zurückweisen, neue vollständige Rechnung verlangen
-- Digitale Rechnung: muss gleiche Pflichtangaben enthalten
-
-### Schritt 2 – Leistungsverzeichnis prüfen
-- Gebührennummer korrekt? GOÄ-Nummernverzeichnis konsultieren
-- Doppelabrechnung: GOÄ-Nr. schließt bestimmte andere aus (Ausschlusshinweise im Verzeichnis)
-- Zielleistungsprinzip: bei operativen Eingriffen schließen manche Leistungen andere ein (§ 4 Abs. 2a GOÄ)
-
-### Schritt 3 – Steigerungsfaktor prüfen
-- > 2,3-fach: Begründung auf Rechnung erforderlich; pauschale Begründungen unzureichend (BGH)
-- BGH III ZR 17/18: individuelle Begründung für konkrete Behandlungssituation notwendig
-- PKV kann Abzug bei nicht begründetem Faktor vornehmen; Erstattungskürzung
-
-### Schritt 4 – Analogleistungen (§ 6 GOÄ)
-- Nicht im Verzeichnis: Abrechnung analog zu ähnlicher Leistung
-- Arzt muss in Rechnung kennzeichnen: „analog § 6 GOÄ"
-- PKV-Erstattung: PKV prüft ob Analoganwendung plausibel; Ablehnung möglich
-- Neue Methoden: oft nur Analogabrechnung möglich bis GOÄ-Reform
-
-### Schritt 5 – Erstattungskürzung durch PKV/Beihilfe
-- PKV kürzt: Einzelne Nummern nicht erstattet, Steigerungsfaktor reduziert
-- Arzt haftet: keine direkte Haftung gegen PKV; aber Arzt muss Rechnung nicht neu stellen
-- Differenz: Versicherter trägt Differenz zwischen Arztrechnung und PKV-Erstattung
-- Beihilfe: eigene Erstattungsgrenzen; oft konservativer als PKV
-
-## Typische Fallen
-
-- **Privatarzt-Honorar vor Behandlung**: GOÄ-Honorarvereinbarung schriftlich vor Behandlung; nachträglich unwirksam.
-- **IGeL und GOÄ**: IGeL kann nach GOÄ abgerechnet werden; aber Patient muss vorher informiert und einverstanden sein.
-- **GOÄ 2024-Reform**: Neue GOÄ in Vorbereitung; Übergangsrecht beachten.
-- **Zahnersatz GOZ**: GOZ-Abrechnung für Zahnersatz häufig fehleranfällig; Festzuschuss GKV beachten wenn auch GKV-Mitglied.
-
-## Output-Formate
-
-- GOÄ-Rechnungsprüfungs-Protokoll
-- Reklamationsschreiben an Arzt (fehlende Begründung)
-- PKV-Erstattungskürzungs-Widerspruch
-- Analogleistungs-Überprüfungsanfrage
-- GOÄ-Steigerungsfaktor-Begründungs-Checkliste
-
-## Quellen
-
-- [GOÄ – Gebührenordnung Ärzte](https://www.gesetze-im-internet.de/go__1982/)
-- [GOZ – Gebührenordnung Zahnärzte](https://www.gesetze-im-internet.de/goz_1988/)
-- [§ 12 GOÄ – Rechnungspflicht](https://www.gesetze-im-internet.de/go__1982/__12.html)
-- [BGH III ZR 17/18](https://www.bundesgerichtshof.de/DE/Entscheidungen/entscheidungen_node.html)
-- [Bundesärztekammer GOÄ](https://www.bundesaerztekammer.de)
-- [dejure.org GOÄ](https://dejure.org/gesetze/GO%C3%84)
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 192 VVG
-- § 204 VVG
-- § 193 VVG
-- § 84 SGG
-- § 86b SGG
-- § 203 VVG
-- § 88 SGG
-- § 6 AsylbLG
-- § 152 VAG
-- § 205 VVG
-- § 153 VAG
-- § 4 AsylbLG
-
-### Leitentscheidungen
-
-- BGH IV ZR 255/17
-- BGH IV ZR 84/11
-- BGH III ZR 17/18
-- BGH IV ZR 194/07
-- BGH IV ZR 62/16
-
----
-
-## Skill: `erstattungsstreit-zwischen-leistungstraegern`
-
-_Erstattungsansprüche zwischen GKV, Pflegeversicherung, Rentenversicherung, Unfallversicherung und Sozialhilfe (§§ 102–115 SGB X): Voraussetzungen und Verjährung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung._
-
-# Erstattungsstreit zwischen Leistungsträgern
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Skill-Zweck
-
-Wenn ein Leistungsträger an den Versicherten leistet, obwohl ein anderer Träger zuständig wäre, entstehen **Erstattungsansprüche zwischen den Trägern** nach §§ 102 ff. SGB X. Kläre diese Ansprüche und ihre Auswirkungen auf den Versicherten.
-
-## Rechtlicher Rahmen
-
-- **§ 102 SGB X** – Erstattungsanspruch bei nachrangiger Verpflichtung
-- **§ 103 SGB X** – Erstattungsanspruch bei vorläufiger Leistung
-- **§ 104 SGB X** – Erstattungsanspruch des nachrangigen Leistungsträgers
-- **§ 105 SGB X** – Erstattungsanspruch bei unzuständiger Bearbeitung
-- **§ 111 SGB X** – Frist: Anmeldung innerhalb 12 Monate
-- **§ 113 SGB X** – Verjährung: 4 Jahre nach Entstehung
-- **§ 14 SGB IX** – Erstattungspflicht des erstangegangenen Reha-Trägers
-- BSG B 3 P 7/05 R (Erstattungsstreit GKV/PV), BSG B 1 KR 10/07 R
-
-## Erstattungsansprüche-Matrix
-
-| Anspruchsart | Rechtsgrundlage | Voraussetzung |
-|-------------|-----------------|---------------|
-| Nachrangigkeit | § 102 SGB X | Träger A leistet; Träger B wäre primär zuständig |
-| Vorläufige Leistung | § 103 SGB X | Vorläufig Leistender; späteres Endurteil zugunsten anderer Träger |
-| Unzuständige Bearbeitung | § 105 SGB X | Träger A bearbeitet Antrag, obwohl Träger B zuständig |
-| Reha-Erstattung | § 14 SGB IX | Erstangegangener muss leisten; Regress bei eigentlich Zuständigen |
-
-## Prüfprogramm
-
-### Schritt 1 – Wer hat geleistet?
-- GKV hat Krankenhausbehandlung bezahlt; war eigentlich Unfallversicherung zuständig?
-- PV hat Pflegeleistungen bezahlt; war eigentlich GKV (Behandlungspflege) zuständig?
-- AG hat Entgeltfortzahlung geleistet; dann § 6 EFZG-Übergang auf Kasse
-
-### Schritt 2 – Erstattungsanspruch anmelden
-- Träger A muss Anspruch bei Träger B innerhalb 12 Monate anmelden (§ 111 SGB X)
-- Versäumnis: Anspruch erlischt!
-- Form: schriftlich, konkret (Versicherter, Leistungszeit, Leistungsart)
-
-### Schritt 3 – Auswirkungen auf Versicherten
-- Versicherter hat in der Regel keinen Nachteil: Träger regeln intern
-- Aber: wenn GKV Leistungen verweigert weil BG zuständig sein soll → GKV muss vorleisten (§ 105)
-- Versicherter sollte beide Träger gleichzeitig informieren
-
-### Schritt 4 – Verjährung
-- 4 Jahre ab Entstehung des Anspruchs (§ 113 SGB X)
-- Kenntnis nicht erforderlich für Verjährungsbeginn (anders als § 199 BGB)
-
-### Schritt 5 – Regresskoordination
-- § 116 SGB X: Schadensersatz-Übergang auf Kasse bei Behandlungsfehler
-- Verletztengeld-Erstattung: BG zahlt, GKV hatte vorher Krankengeld geleistet → BG erstattet GKV
-- Koordination über § 105–116 SGB X
-
-## Typische Fallen
-
-- **12-Monats-Ausschlussfrist**: Träger vergisst Anmeldung → Anspruch verloren; bei großen Beträgen sehr kritisch.
-- **Streit über Zuständigkeit**: Träger A sagt „Träger B zuständig"; Träger B sagt „Träger A zuständig" → Versicherter steht ohne Leistung da → beide Träger gleichzeitig beantragen.
-- **GKV nimmt SGB-IX-§ 14 nicht wahr**: Erstangegangener Reha-Träger muss leisten und kann dann Regress nehmen; GKV lehnt ab trotzdem.
-
-## Output-Formate
-
-- Träger-Informationsschreiben (gleichzeitig an beide)
-- Erstattungsanmeldungs-Protokoll (für GKV-intern)
-- Widerspruch gegen GKV-Ablehnung mit Hinweis auf § 105 SGB X
-- Zeitplan Erstattungsanmeldung
-- Träger-Koordinierungs-Matrix
-
-## Quellen
-
-- [§ 102 SGB X – Erstattungsansprüche](https://www.gesetze-im-internet.de/sgb_10/__102.html)
-- [§ 105 SGB X – Unzuständige Bearbeitung](https://www.gesetze-im-internet.de/sgb_10/__105.html)
-- [§ 111 SGB X – Anmeldefrist](https://www.gesetze-im-internet.de/sgb_10/__111.html)
-- [§ 14 SGB IX – Reha-Erstangegangener](https://www.gesetze-im-internet.de/sgb_9_2018/__14.html)
-- [BSG Erstattungsrecht](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
-- [dejure.org § 102 SGB X](https://dejure.org/gesetze/SGB_X/102.html)
-
-## Hinweis: Ausschluss- und Verjährungsfristen
-
-- Erstattungsansprüche zwischen Trägern: 4-Jahres-Frist nach § 111 SGB X
-- Fristbeginn: Ende des Jahres, in dem der leistende Träger Kenntnis erhält
-- Rückforderung nach § 103 SGB X (Erstattung bei vorläufiger Leistung): andere Fristen beachten
-- BSG: Fristversäumnis führt zum Anspruchsverlust auch bei berechtigter Forderung
+- [§ 33a SGB V – DiGA](https://www.gesetze-im-internet.de/sgb_5/__33a.html)
+- [§ 139e SGB V – DiGA-Verzeichnis](https://www.gesetze-im-internet.de/sgb_5/__139e.html)
+- [BfArM DiGA-Verzeichnis](https://diga.bfarm.de/de/verzeichnis)
+- [DiGAV – Zulassungsverordnung](https://www.gesetze-im-internet.de/digav/)
+- [dejure.org § 33a SGB V](https://dejure.org/gesetze/SGB_V/33a.html)
+- [GKV-Spitzenverband DiGA](https://www.gkv-spitzenverband.de)
+
+## Schritt 5 – Widerspruch bei Ablehnung einer DiGA
+
+- Krankenkasse muss innerhalb von 3 Wochen über DiGA-Antrag entscheiden (§ 33a Abs. 4 SGB V)
+- Ablehnungsgründe: DiGA nicht im BfArM-Verzeichnis, kein ärztliches/psychotherapeutisches Votum, Indikation nicht erfüllt
+- Widerspruch: Ärztliche Verordnung + Diagnosebeleg beifügen
+- Bei Erprobungs-DiGA: Zusatznutzen noch nicht belegt, aber Anspruch trotzdem bei Vorliegen der Voraussetzungen
 
 ## Weiterführende Quellen
 
-- [§ 102 SGB X – Erstattungsanspruch vorläufig leistender Träger](https://www.gesetze-im-internet.de/sgb_10/__102.html)
-- [§ 111 SGB X – Ausschlussfrist](https://www.gesetze-im-internet.de/sgb_10/__111.html)
-- [BSG-Rechtsprechung zu § 105 SGB X](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [§ 33a SGB V – Digitale Gesundheitsanwendungen](https://www.gesetze-im-internet.de/sgb_5/__33a.html)
+- [BfArM – DiGA-Verzeichnis](https://diga.bfarm.de/de/verzeichnis)
+- [G-BA – DiGA-Richtlinie](https://www.g-ba.de/richtlinien/107/)
+- [GKV-Spitzenverband – DiGA-Informationen](https://www.gkv-spitzenverband.de)
+
+---
+
+## Skill: `kv-013-kinderleistungen-sozialpaediatrie-therapie`
+
+_Wenn es um Krankenversicherung: Kinderleistungen Sozialpädiatrie Therapie und Schulbegleitung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Krankenversicherung: Kinderleistungen Sozialpädiatrie Therapie und Schulbegleitung
+
+## Aufgabe
+
+Dieser Skill bearbeitet **Kinderleistungen Sozialpädiatrie Therapie und Schulbegleitung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+
+## Kaltstart in 6 Fragen
+
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+
+## Prüfprogramm
+
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
+- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
+- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
+- Frist und Rechtsweg sofort markieren
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+
+## Typische Fallen
+
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+
+## Output
+
+- Bescheidanalyse
+- Widerspruch
+- Eilantrag
+- PKV-Leistungsbrief
+- Befundanforderung
+- Fristenplan
+- Laienerklärung
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

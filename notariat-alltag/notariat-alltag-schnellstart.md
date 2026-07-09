@@ -28,7 +28,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 311b BGB; Paragraf 1410 BGB; Paragraf 15 GmbHG |
+| Normenanker | GwG-Screening erst nach Urkundsaufnahme – das verstößt; Paragraf 181 BGB-Befreiung; Paragraf 181 BGB-Befreiung nicht beurkundet/beschlossen, aber |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
@@ -48,13 +48,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 6. Anker
 
-- Paragraf 311b BGB: https://dejure.org/gesetze/BGB/311b.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1410 BGB: https://dejure.org/gesetze/BGB/1410.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 15 GmbHG: https://dejure.org/gesetze/GmbHG/15.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 883–888 BGB: https://dejure.org/gesetze/BGB/883.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 22 GrEStG: https://dejure.org/gesetze/GrEStG/22.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 16 GmbHG: https://dejure.org/gesetze/GmbHG/16.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 40 GmbHG: https://dejure.org/gesetze/GmbHG/40.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- GwG-Screening erst nach Urkundsaufnahme – das verstößt gegen Paragrafen 10–11 GwG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 181 BGB-Befreiung: Ist sie in der Satzung vorgesehen oder Gesellschafterbeschluss nötig?: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 181 BGB-Befreiung nicht beurkundet/beschlossen, aber in Anmeldung behauptet: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- GwG-Prüfung erst nach Beurkundung → Verstoß gegen Paragraf 10 GwG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

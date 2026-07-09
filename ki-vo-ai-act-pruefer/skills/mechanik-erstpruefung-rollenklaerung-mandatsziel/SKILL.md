@@ -50,8 +50,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Geltungsstaffelung
 - **Art. 5 Verbote**: gilt ab **02.02.2025**.
 - **GPAI-Pflichten (Art. 51-55)** und **Governance (Art. 57 ff.)**: gilt ab **02.08.2025**.
-- **Anhang III Hochrisiko** und allgemeine Pflichten: gilt ab **02.08.2026**.
-- **Hochrisiko unter Anhang I (Sicherheitsbauteile bestehender Produktrichtlinien)**: gilt ab **02.08.2027**.
+- **Art. 50 Transparenzpflichten** und nicht verschobene allgemeine Pflichten: ab **02.08.2026** einplanen.
+- **Anhang III Hochrisiko**: nach aktuellem Digital-Omnibus-Zeitstrahl sp채testens ab **02.12.2027** einplanen; endg체ltigen Normtext und Kommissionsstand pr체fen.
+- **Hochrisiko unter Anhang I (Sicherheitsbauteile bestehender Produktrichtlinien)**: nach aktuellem Digital-Omnibus-Zeitstrahl sp채testens ab **02.08.2028** einplanen; sektorale Produktregeln gesondert pr체fen.
 
 ## Mandatsziel pr채zisieren
 - **Compliance-Roadmap** f체r Anbieter: typischerweise 6-18 Monate je nach Risikoklasse.

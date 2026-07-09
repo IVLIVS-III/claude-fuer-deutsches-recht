@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Anfänger-Amtsgericht | Paragraf 433 BGB; Wenn Sie ein AG-Urteil für falsch halten, können Sie Berufung | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Anfänger-Amtsgericht | Paragraf 433 BGB; LG-Urteil kann mit Revision zum BGH angefochten werden | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Paragraf 631 BGB | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anlagen formatieren — K1, K2 oben rechts, Schrift 12pt | Paragraf 631 BGB; Paragraf 511 II Nr. 2 ZPO i.V.m. Paragraf 511 IV ZPO | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Anlagen formatieren — K1, K2 oben rechts, Schrift 12pt | Paragraf 631 BGB; LG-Urteil kann mit Revision zum BGH angefochten werden | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -69,9 +69,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| Wenn Sie ein AG-Urteil für falsch halten, können Sie Berufung einlegen. Berufungsgericht | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Vor LG herrscht Anwaltszwang (Paragraf 78 ZPO). Sie können die Berufung |
-| Paragraf 511 II Nr. 2 ZPO i.V.m. Paragraf 511 IV ZPO | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Das AG kann die Berufung im erstinstanzlichen Urteil zulassen, wenn: |
-| Wichtig | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Die Zulassung erfolgt durch das AG selbst im Urteil. Eine eigene "Zulassungs-Beschwerde" zum LG sieht die ZPO nicht |
 | LG-Urteil kann mit Revision zum BGH angefochten werden | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | aber nur, wenn vom LG zugelassen (Paragraf 543 ZPO). Sehr selten |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
@@ -89,9 +86,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 8. Leitentscheidungen
 
-- Wenn Sie ein AG-Urteil für falsch halten, können Sie Berufung einlegen. Berufungsgericht ist das Landgericht (LG). Aber Achtung: Vor LG herrscht Anwaltszwang (Paragraf 78 ZPO). Sie können die Berufung
-- Paragraf 511 II Nr. 2 ZPO i.V.m. Paragraf 511 IV ZPO: Das AG kann die Berufung im erstinstanzlichen Urteil zulassen, wenn:
-- Wichtig: Die Zulassung erfolgt durch das AG selbst im Urteil. Eine eigene "Zulassungs-Beschwerde" zum LG sieht die ZPO nicht vor. Wenn das AG die Berufung nicht zugelassen hat, ist die Berufung bei einer
 - LG-Urteil kann mit Revision zum BGH angefochten werden — aber nur, wenn vom LG zugelassen (Paragraf 543 ZPO). Sehr selten
 
 ## 9. Prüfraster

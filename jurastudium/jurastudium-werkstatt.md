@@ -50,7 +50,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- | --- |
 | Fallkern | AG/Seminar-Vorbereitung (Cold-Call-Prep) | Paragrafen 133, 157 BGB; BGH nennen | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Paragraf 280 Abs. 1 BGB — Schadensersatz | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Jurastudium — Allgemein | Paragraf 280 Abs. 1 BGB — Schadensersatz; h.M. ohne Beleg | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Jurastudium — Allgemein | Paragraf 280 Abs. 1 BGB — Schadensersatz; BGH nennen | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -70,8 +70,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
 | BGH nennen | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | "Der BGH hat in der Entscheidung NJW [Jahr], [Seite] entschieden, dass …" |
-| h.M. ohne Beleg | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | "nach h.M." allein ist kein Argument. Kommentarstelle oder BGH-Urteil nennen |
-| Juristenausbildungsgesetz NRW (JAG NRW) i.d.F. vom 11.03.2003 (zuletzt geändert) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Juristenausbildungsgesetz NRW (JAG NRW) i.d.F. vom 11.03.2003 (zuletzt geändert) |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -89,8 +87,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 ## 8. Leitentscheidungen
 
 - BGH nennen: "Der BGH hat in der Entscheidung NJW [Jahr], [Seite] entschieden, dass …"
-- h.M. ohne Beleg: "nach h.M." allein ist kein Argument. Kommentarstelle oder BGH-Urteil nennen
-- Juristenausbildungsgesetz NRW (JAG NRW) i.d.F. vom 11.03.2003 (zuletzt geändert)
 
 ## 9. Prüfraster
 

@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Paragraf 13 BGB; Paragraf 14 BGB; Paragraf 312c BGB |
-| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Tragende Normen verifizieren: BGB Paragrafen 312 ff., 355, 357, 491 ff., UWG Paragrafen 3, 5, 6, 7, RDG, VBVG |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -55,7 +55,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 355 Abs. 1 BGB — Widerrufsrecht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 357 BGB — Rechtsfolgen des Widerrufs: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 434 BGB — Sachmangel: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 7. Antwortform
 

@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Art. 21 Abs. 1 GG; Art. 21 Abs. 1 GG; Art. 38 Abs. 1 GG |
-| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -51,7 +51,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze. - Paragraf 1 Abs. 1 BWahlG — Wahlrechtsgrundlagen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 7. Antwortform
 

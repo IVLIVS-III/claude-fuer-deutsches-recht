@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Datenschutz — Datenschutz-Grundverordnung im Lizenzvertrag | UrhG Paragrafen 31, 32, 32a (Urheberrechtslizenzen, angemessene; → Nach Schrems II (EuGH C-311/18) | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Datenschutz — Datenschutz-Grundverordnung im Lizenzvertrag | UrhG Paragrafen 31, 32, 32a (Urheberrechtslizenzen, angemessene; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | PatG Paragrafen 9, 15 (Lizenz); Paragraf 24 (Zwangslizenz) | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anwalts-Dashboard Lizenzvertragsersteller | PatG Paragrafen 9, 15 (Lizenz); Paragraf 24 (Zwangslizenz); → Nach Schrems II (EuGH C-311/18) | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Anwalts-Dashboard Lizenzvertragsersteller | PatG Paragrafen 9, 15 (Lizenz); Paragraf 24 (Zwangslizenz); Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -67,9 +67,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| → Nach Schrems II (EuGH C-311/18) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Transfer Impact Assessment (TIA) bei jedem Drittlandstransfer Pflicht |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -85,7 +83,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 8. Leitentscheidungen
 
-- → Nach Schrems II (EuGH C-311/18): Transfer Impact Assessment (TIA) bei jedem Drittlandstransfer Pflicht
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 

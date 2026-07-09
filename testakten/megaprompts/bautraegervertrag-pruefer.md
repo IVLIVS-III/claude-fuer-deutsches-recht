@@ -1,80 +1,498 @@
-# Megaprompt: bautraegervertrag-pruefer
+# Vollprüfung: bautraegervertrag-pruefer
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 30 Skills des Plugins `bautraegervertrag-pruefer`.
+Dieser Vollprüfung enthaelt top-15 von 30 Skills des Plugins `bautraegervertrag-pruefer`.
 
 ## Inhaltsverzeichnis
 
-1. **workflow-one-shot-verbraucherpruefung** — One-Shot-Workflow für die verbraucherseitige Prüfung eines deutschen Bauträgervertrags: startet aus Vertrag oder Aktenor…
-2. **fall-fingerabdruck-und-schnelltriage** — Fall-Fingerabdruck für Bauträgerakten: extrahiert Urkunde, Verkäufer, Verbraucherrolle, Einheit, Kaufpreis, Raten, Siche…
-3. **hoai-technik-baugrund-und-objektueberwachung** — Technischer Realitätscheck im Bauträgerprojekt: HOAI-Leistungsphasen als Prüfraster, Baugrund, Objektüberwachung, anerka…
-4. **bauzeit-verzug-vertragsstrafe-und-hoehere-gewalt** — Bauzeit- und Verzugsprüfung beim Bauträgervertrag: verbindlicher Termin, Bezugsfertigkeit, vollständige Fertigstellung, …
-5. **quellenhygiene-rechtsprechungsanker-und-bughunt** — Quellen- und Bug-Hunt-Skill für Bauträgervertragsprüfungen: verifiziert Normenstand, BGH-/OLG-Rechtsprechung, MaBV, AGB,…
-6. **verhandlung-drei-dokumente-paket** — Drei-Dokumente-Ausgabe für Bauträgervertragsprüfung: Mandantenanschreiben, klauselorientiertes Gutachten und Schreiben a…
-7. **eigentumssicherung-vormerkung-lastenfreistellung-und-insolvenz** — Eigentumssicherung beim Bauträgervertrag: Auflassungsvormerkung, Rang, Lastenfreistellung, Globalgrundschuld, Pfandfreig…
-8. **verzugsschadenspositionen-berechnung-und-zinsen** — Berechnet Verzugsschäden beim verspäteten Bauträgerprojekt: Ersatzwohnung, Umzug, Lager, Bereitstellungszinsen, doppelte…
-9. **din-anerkannte-regeln-technik-und-standardwechsel** — Prüft technische Standards im Bauträgervertrag: DIN-Normen, anerkannte Regeln der Technik, Stand der Technik, Stand von …
-10. **notarhaftung-belehrung-und-streitverkuendung** — Prüft notarielle Amtspflichten im Bauträgervertrag: § 17 BeurkG, § 14 BNotO, § 19 BNotO, MaBV-/AGB-Klauselkontrolle, Pre…
-11. **wohnungseigentum-teilungserklaerung-und-erstverwalter** — WEG- und Teilungserklärungsprüfung beim Bauträgerprojekt: Sondereigentum, Gemeinschaftseigentum, Sondernutzungsrechte, U…
-12. **geschaeftsfuehrer-architekt-und-bautenstandshaftung** — Prüft Drittansprüche bei Bauträgerprojekten: Geschäftsführerhaftung nach § 823 Abs. 2 BGB i.V.m. § 3/§ 7 MaBV, § 263 StG…
-13. **abnahme-gemeinschaftseigentum-schlussrate-und-maengelrechte** — Abnahmeprüfung im Bauträgervertrag: Sondereigentum, Gemeinschaftseigentum, Vertreter-/Sachverständigenabnahme, Erstverwa…
-14. **sonderwuensche-preisanpassung-und-ausstattungswahl** — Sonderwünsche und Bemusterung im Bauträgervertrag: prüft Form, MaBV-Einordnung, Vorauszahlung, Ausstattungswahl, Mehr-/M…
-15. **unwirksame-abnahmeklauseln-dreissig-jahre-und-nachholung** — Prüft unwirksame Abnahmeklauseln im Bauträgervertrag: Erstverwalter, Sachverständige, Erwerbervertreter, Nachzügler, § 6…
+1. **eigentumssicherung-vormerkung-lastenfreistellung-und-insolvenz** — Wenn es um Eigentumssicherung, Vormerkung, Lastenfreistellung und Insolvenz in Bauträgervertrag-Prüfer geht: ordnet Sach…
+2. **abnahme-gemeinschaftseigentum-schlussrate-und-maengelrechte** — Wenn es um Abnahme, Gemeinschaftseigentum, Schlussrate und Mängelrechte in Bauträgervertrag-Prüfer geht: ordnet Sachverh…
+3. **unwirksame-abnahmeklauseln-dreissig-jahre-und-nachholung** — Wenn es um Unwirksame Abnahmeklauseln, 30-Jahres-Grenze und Nachholung in Bauträgervertrag-Prüfer geht: ordnet Sachverha…
+4. **vollstaendige-fertigstellung-schlussrate-und-aussenanlagen** — Wenn es um Vollständige Fertigstellung, Schlussrate und Außenanlagen in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt…
+5. **nachzuegler-altbau-sanierung-und-kaufrecht-werkrecht** — Wenn es um Nachzügler, Altbau, Sanierung und Kaufrecht/Werkrecht in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, No…
+6. **wohnungseigentum-teilungserklaerung-und-erstverwalter** — Wenn es um Wohnungseigentum, Teilungserklärung und Erstverwalter in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, No…
+7. **bauzeit-verzug-vertragsstrafe-und-hoehere-gewalt** — Wenn es um Bauzeit, Verzug, Vertragsstrafe und höhere Gewalt in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, …
+8. **druckmuster-schluessel-vormerkung-und-zahlung** — Wenn es um Druckmuster, Schlüssel, Vormerkung und Zahlung in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Bew…
+9. **preisanpassung-315-saldierung-und-loesungsrecht** — Wenn es um Preisanpassung, Paragraf 315 BGB, Saldierung und Lösungsrecht in Bauträgervertrag-Prüfer geht: ordnet Aktenin…
+10. **mabv-agb-klauselmatrix-rot-orange-gruen** — Wenn es um MaBV-/AGB-Klauselmatrix Rot-Orange-Grün in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast…
+11. **prozessstrategie-zahlung-feststellung-und-vorschuss** — Wenn es um Prozessstrategie Zahlung, Feststellung und Vorschuss in Bauträgervertrag-Prüfer geht: erstellt den passenden …
+12. **fall-fingerabdruck-und-schnelltriage** — Wenn es um Fall-Fingerabdruck und Schnelltriage in Bauträgervertrag-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen un…
+13. **din-anerkannte-regeln-technik-und-standardwechsel** — Wenn es um DIN, anerkannte Regeln der Technik und Standardwechsel in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, N…
+14. **quellenhygiene-rechtsprechungsanker-und-bughunt** — Wenn es um Quellenhygiene, Rechtsprechungsanker und Bug-Hunt in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, …
+15. **agb-klauselkontrolle-beweislast-und-tatsachenbestaetigung** — Wenn es um AGB-Klauselkontrolle, Beweislast und Tatsachenbestätigung in Bauträgervertrag-Prüfer geht: zerlegt Ergebnis, …
 
 ---
 
-## Skill: `workflow-one-shot-verbraucherpruefung`
+## Skill: `eigentumssicherung-vormerkung-lastenfreistellung-und-insolvenz`
 
-_One-Shot-Workflow für die verbraucherseitige Prüfung eines deutschen Bauträgervertrags: startet aus Vertrag oder Aktenordner, bildet Fall-Fingerabdruck, prüft MaBV, § 650u/§ 650v BGB, § 650m Abs. 2 BGB, AGB, Bausoll, Abnahme, WEG, Insolvenzpfad und erzeugt drei fertige Dokumente._
+_Wenn es um Eigentumssicherung, Vormerkung, Lastenfreistellung und Insolvenz in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# One-Shot-Verbraucherprüfung Bauträgervertrag
+# Eigentumssicherung, Vormerkung, Lastenfreistellung und Insolvenz
 
-## Gegenstand
+## Prüfgegenstand
 
-Dieser Skill ist der Gesamtworkflow für Verbraucher, die einen deutschen Bauträgervertrag über Wohnung, Haus, Stellplatz, Keller, Sondernutzungsrecht oder Erbbaurecht prüfen lassen wollen. Er beginnt mit der konkreten Urkunde und endet nicht bei einer Ampel, sondern bei drei verwendbaren Texten: Mandantenanschreiben, Mandantengutachten und Schreiben an Bauträger/Notar.
-
-## Sofortstart aus der Akte
-
-Wenn PDF, DOCX, Markdown, OCR-Text, Scan oder Aktenordner vorliegt, werte zuerst die Akte aus. Frage nicht allgemein nach Rolle oder Ziel, wenn Urkunde, Mailverkehr oder Vertragsentwurf das bereits zeigen. Rückfragen kommen gebündelt am Ende des ersten Durchgangs und nur zu Punkten, ohne die eine Bewertung objektiv schief würde.
-
-## Prüfspur
-
-1. Vertragsstatus: Entwurf, beurkundet, vor erster Rate, Bauphase, vor Abnahme, nach Abnahme, Schlussrate, Insolvenzsignal, Klage.
-2. Käuferrolle: Verbraucher, Eigennutzung, private Kapitalanlage, gemischte Nutzung; Gewerbeeinheit nicht vorschnell als Unternehmerfall behandeln.
-3. Gegenstand: Einheit, Miteigentumsanteil, Stellplatz, Keller, Sondernutzungsrechte, Wohnfläche, Teilungserklärung, Bauabschnitt.
-4. Zahlungen: Kaufpreis, Reservierungsentgelt, Sonderwünsche, MaBV-Raten, Schlussrate, Notaranderkonto, Finanzierungsvollmacht.
-5. Sicherheiten: Vormerkung, Lastenfreistellung, § 650m Abs. 2 BGB, § 7 MaBV, Freigabemechanik, Insolvenzpfad.
-6. Bausoll: Baubeschreibung, Pläne, Bemusterung, Wohnflächenmethode, Energie, Schall, Brand, Feuchte, anerkannte Regeln der Technik.
-7. Abnahme: Sondereigentum, Gemeinschaftseigentum, Erstverwalter/Sachverständiger, Nachzügler, Verjährungsbeginn, Schlussrate.
-8. WEG: Kostenkreise, Untergemeinschaften, Wartungsverträge, Änderungsvollmachten, Erstverwalter.
-9. Streit: Zurückbehaltung, Besitzübergabe, Nacherfüllung, Vorschuss, Feststellung, Rücktritt nur nach Vormerkungsrisiko.
+Dieser Skill verhindert Zahlungen ohne belastbaren Eigentumspfad. Er verbindet Grundbuch, Vormerkung, Lastenfreistellung, MaBV, Finanzierungsvollmacht und Insolvenzrisiko.
 
 ## Normenanker
 
-Prüfe mindestens §§ 305-310, 306, 307, 308 Nr. 4, 309 Nr. 1, Nr. 2 lit. a, Nr. 8, Nr. 12, Nr. 15, 311b, 313, 315, 320, 323, 346 ff., 633-641, 642, 643, 650i, 650j, 650k Abs. 2/3, 650m Abs. 2, 650n, 650u, 650v, 812, 817, 818, 823 Abs. 2, 883, 925 BGB; §§ 3, 7, 12 MaBV; § 17 BeurkG; §§ 103, 106 InsO; WEG, soweit Gemeinschaftseigentum betroffen ist.
+§§ 883, 885, 888, 925, 1113 ff., 1191 ff., 305c Abs. 2, 307, 309 Nr. 2 lit. a, 309 Nr. 12, 320, 321, 323, 346 ff., 650u, 650v BGB; §§ 3, 7, 12 MaBV; §§ 103, 106, 108, 119 InsO; GBO-Nachweislogik.
 
-## Rechtsprechungsanker nur nach Live-Prüfung
+## Prüffelder
 
-Aktuelle BGH-Anker: VII ZR 68/24 und VII ZR 108/24 zur Abnahme des Gemeinschaftseigentums und Verjährung; VII ZR 88/25 zur Schlussrate bei vollständiger Fertigstellung; V ZR 91/25 zu Zustimmungspflichten bei Änderungen der Teilungserklärung. Verwende sie nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Ist die Vormerkung für die konkrete Einheit, mit richtigem Rang und ohne gefährliche Freigabevollmacht gesichert?
+- Ist die Lastenfreistellung einheitsbezogen, bankseitig verbindlich und kompatibel mit jeder Rate?
+- Besteht eine Globalgrundschuld, und ist klar, wann und wie die Einheit pfandfrei wird?
+- Erfasst die Freistellungserklärung Grundstück, Wohnungs-/Teileigentum, Miteigentumsanteil, Sondernutzungsrechte, Nebenräume, Stellplatz und künftige Teilflächen eindeutig?
+- Sind Freigabebedingungen so formuliert, dass der Käufer nicht mehr oder früher zahlen muss als nach § 3 MaBV und Vertrag wirklich fällig ist?
+- Kollidieren Globalbank, Käuferbank und Vormerkung im Rang oder in Vollzugsanweisungen?
+- Wird eine Vormerkungslöschung bei einseitig behauptetem Rücktritt/Zahlungsverzug ermöglicht?
+- Gibt es Vorinsolvenzzeichen: Baustopp, Nachunternehmerforderungen, nicht abrufbare Bankfreigabe, Ratenbeschleunigung, Sonderwunsch-Vorkasse?
 
-## Pflichtausgabe
+## Freistellung und Bankfreigabe
 
-1. **Mandantenanschreiben:** klare Handlungsempfehlung: unterschreiben, nachverhandeln, Zahlung stoppen, Nachweise verlangen, Abnahme verweigern oder Prozess vorbereiten.
-2. **Mandantengutachten:** klauselorientiert mit Originalstelle, Fallanker, Norm, Risiko, Gegenargument, Antwort und konkreter Neufassung.
-3. **Aufforderungsschreiben:** ruhig, präzise, mit Frist, konkreter Änderung, Dokumentenliste und Zahlungs-/Abnahmevorbehalt.
+Eine Freistellungserklärung muss aus Erwerbersicht wie ein technischer Eigentumspfad funktionieren: Zahlung, Bankfreigabe, Lastenlöschung und Umschreibung müssen aufeinander passen. Kritisch sind „Freigabe nur nach vollständiger Kaufpreiszahlung“, Nachschussverlangen bei Kostensteigerung, unklare Bedingungen für den steckengebliebenen Bau und Erklärungen, die Sondernutzungsrechte oder Stellplätze nicht sicher miterfassen.
 
-## Fehlerbremse
+## Insolvenzlogik
 
-Keine DIN-Konformität mit anerkannten Regeln der Technik gleichsetzen. Bezugsfertigkeit nicht mit vollständiger Fertigstellung verwechseln. § 650l BGB beim beurkundeten Bauträgervertrag nicht als Widerrufshebel verkaufen. Baugruppen-GbR nicht nach MaBV prüfen. Rücktritt nie empfehlen, ohne Vormerkung, Auflassung und Lastenfreistellung zu sichern.
+Die Vormerkung schützt den Übereignungsanspruch, nicht alle Zahlungen und nicht automatisch Schadensersatz. Im Insolvenzfall § 106 InsO für den gesicherten Eigentumspfad und § 103 InsO für den Werkleistungsrest getrennt prüfen. Den Insolvenzverwalter zur Wahl auffordern, Bürgschaft/§ 650m-Sicherheit sichern, Mehrkosten der Fertigstellung dokumentieren.
+
+## Ausgabe
+
+Erzeuge eine Eigentumspfad-Tabelle: Zahlung, Sicherung, Grundbuchstand, Bankfreigabe, Insolvenzrisiko, nächste Handlung.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `abnahme-gemeinschaftseigentum-schlussrate-und-maengelrechte`
+
+_Wenn es um Abnahme, Gemeinschaftseigentum, Schlussrate und Mängelrechte in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Abnahme, Gemeinschaftseigentum, Schlussrate und Mängelrechte
+
+## Prüfgegenstand
+
+Die Abnahme entscheidet über Fälligkeit, Beweislast, Gefahr, Mängelrechte und Verjährung. Im Bauträgervertrag muss Sondereigentum, Gemeinschaftseigentum und Schlussrate getrennt geprüft werden.
+
+## Normenanker
+
+§§ 633, 634, 634a Abs. 1 Nr. 2 und Abs. 2, 635, 637, 640, 641, 650u BGB; § 3 Abs. 2 MaBV; §§ 305c Abs. 2, 307, 309 Nr. 8, Nr. 12 BGB; § 9a WEG für Mängelrechte der Gemeinschaft.
+
+## Gemeinschaftseigentum
+
+Rot prüfen, wenn die Urkunde:
+
+- die Abnahme zwingend auf Erwerbervertreter, Erstverwalter, Tochtergesellschaft, Projektsteuerer oder bauträgernahen Sachverständigen verlagert,
+- jedem einzelnen Erwerber das eigene Prüf- und Abnahmerecht nimmt,
+- Nachzügler an eine frühere fremde Abnahme bindet,
+- Besitzübergabe, Zahlung oder Protokoll als automatische Abnahme fingiert.
+
+BGH VII ZR 68/24 und VII ZR 108/24 nur mit frei prüfbarer Quelle verwenden. Kern: unwirksame Abnahmeklauseln können den Beginn der fünfjährigen Bauwerksverjährung verhindern; die 30-Jahres-Grenze ist als äußerer Rechtssicherheitsrahmen zu beachten.
+
+## Schlussrate
+
+Schlussrate nicht mit Abnahmereife gleichsetzen. Bei Vertragsklausel „vollständige Fertigstellung“ können Protokollmängel, Restarbeiten, Außenanlagen, Gemeinschaftseigentum und Dokumentationspflichten die Fälligkeit sperren. BGH VII ZR 88/25 nur nach Live-Verifikation einsetzen.
+
+## Ausgabe
+
+Erstelle ein Abnahmeprotokoll mit nicht abnahmefähigen Punkten, Vorbehalten, verweigerter Abnahme bei wesentlichen Mängeln, zurückzuhaltenden Beträgen, Nachweisliste und Textbaustein gegen unbeabsichtigte Abnahme.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `unwirksame-abnahmeklauseln-dreissig-jahre-und-nachholung`
+
+_Wenn es um Unwirksame Abnahmeklauseln, 30-Jahres-Grenze und Nachholung in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Unwirksame Abnahmeklauseln, 30-Jahres-Grenze und Nachholung
+
+## Prüfgegenstand
+
+Dieser Skill behandelt Altanlagen und Verträge mit fehlerhafter Abnahmeregelung. Er trennt unwirksame AGB-Abnahme, vergessene Abnahme und berechtigte Abnahmeverweigerung.
+
+## Normenanker
+
+§§ 195, 199, 203, 204, 242, 305, 307, 309 Nr. 8 lit. b, 633, 634 Nr. 1-4, 634a Abs. 1 Nr. 2 und Abs. 2, 635, 637, 640, 641 BGB; § 9a WEG; §§ 485, 494a ZPO; BGH VII ZR 68/24 und VII ZR 108/24 nur nach Live-Verifikation.
+
+## Prüfung
+
+- Abnahme durch Erstverwalter, Tochtergesellschaft, Projektsteuerer, Bauträgersachverständigen oder verpflichtende Vertreter?
+- Eigenes Prüf- und Abnahmerecht jedes Erwerbers ausdrücklich erhalten?
+- Nachzügler an frühere Abnahme gebunden?
+- Erwerber ging von wirksamer Dritt-Abnahme aus, sodass konkludente Abnahme durch Nutzung/Zahlung ausscheidet?
+
+## Rechtsfolge
+
+Der Bauträger kann sich nicht beliebig auf die Unwirksamkeit seiner eigenen Klausel berufen, wenn dies dem Erwerber schaden würde. Die fünfjährige Bauwerksverjährung läuft ohne wirksame Abnahme nicht an. Als äußerer Rahmen ist eine 30-Jahres-Grenze aus Rechtssicherheit zu prüfen.
+
+## Nachholung
+
+Bei nachträglicher Abnahme nicht den Neuzustand von damals verlangen, sondern ergänzende Vertragsauslegung: bestimmungsgemäße Nutzung und altersbedingter Verschleiß werden berücksichtigt. Bei berechtigter Abnahmeverweigerung kann die Lage anders sein; parallel nachträgliche Abnahme zur Verjährungssicherung erwägen.
+
+## GdWE und Regress
+
+Nachträgliche Abnahme und Mängelverfolgung dürfen nicht nur aus Sicht eines einzelnen Erwerbers gedacht werden. Prüfe, ob die Gemeinschaft der Wohnungseigentümer Rechte am Gemeinschaftseigentum ausübt, ob Beschlüsse zur Anspruchsdurchsetzung fehlen, ob Nachunternehmerregresse des Bauträgers/Generalunternehmers zeitlich wegbrechen und ob eine Streitverkündung an Planer, Unternehmer oder Notar sinnvoll ist.
+
+## Output
+
+Erstelle eine Verjährungs- und Abnahmespur: Klausel, Abnahmeakt, Wirksamkeit, Verjährungsbeginn, Ansprüche, nächster Schritt.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `vollstaendige-fertigstellung-schlussrate-und-aussenanlagen`
+
+_Wenn es um Vollständige Fertigstellung, Schlussrate und Außenanlagen in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Vollständige Fertigstellung, Schlussrate und Außenanlagen
+
+## Prüfgegenstand
+
+Dieser Skill entscheidet, ob die letzte Bauträgerrate wirklich fällig ist. „Bezugsfertig“ und „vollständig fertiggestellt“ sind getrennte Stufen. Eine bewohnbare Wohnung kann noch lange keine vollständig fertiggestellte Anlage sein.
+
+## Normenanker
+
+§§ 305c Abs. 2, 307, 640, 641 Abs. 3, 650u, 650v, 817 Satz 1, 818 Abs. 2 BGB; § 3 Abs. 2 Satz 2 Nr. 2 MaBV; § 12 MaBV; BGH VII ZR 88/25 nur nach Live-Verifikation.
+
+## Prüfung
+
+- Sind Außenanlagen, Pflasterung, Wege, Hof, Spielplatz, Tiefgarage, Treppenhaus, Fassade, Aufzug, Lüftung oder Brandschutz noch offen?
+- Enthält das Abnahmeprotokoll Mängel, die nach Vertragsauslegung vor Schlussrate zu beseitigen sind?
+- Wird Fertigstellung nur „mitgeteilt“ oder von einem bauträgernahen Dritten bestätigt?
+- Werden unwesentliche Mängel mit wesentlichen Restarbeiten vermischt?
+- Ist die Schlussrate in 2 % und 1,5 % auf konkrete Restarbeiten aufgespalten oder bloß taktisch vorgezogen?
+
+## Rechtsfolge
+
+Verfrühte Schlussratenanforderung sperrt Fälligkeit. Bereits geleistete verfrühte Zahlungen können als Rückforderungsposition nach Bereicherungsrecht geprüft werden. Bei unwesentlichen Mängeln zusätzlich § 641 Abs. 3 BGB mit doppelten voraussichtlichen Mängelbeseitigungskosten prüfen.
+
+## Output
+
+Erstelle eine Schlussraten-Tabelle: offener Punkt, Vertragsquelle, Wesentlichkeit, Mängelbeseitigungskosten, Zurückbehaltungsbetrag, Zahlungsantwort.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `nachzuegler-altbau-sanierung-und-kaufrecht-werkrecht`
+
+_Wenn es um Nachzügler, Altbau, Sanierung und Kaufrecht/Werkrecht in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Nachzügler, Altbau, Sanierung und Kaufrecht/Werkrecht
+
+## Prüfgegenstand
+
+Dieser Skill ordnet Fälle, in denen der Erwerber nicht klassisch vor Bauausführung kauft: Nachzügler, fertiggestellte Einheiten, vermietete Wohnungen, Altbausanierung oder bloße Renovierung.
+
+## Normenanker
+
+§§ 433, 434, 633, 634, 634a, 640, 650u BGB; §§ 305, 307, 309 Nr. 8 BGB; § 9a WEG; § 3 MaBV je nach Vertragsstruktur.
+
+## Nachzügler
+
+Wenn Gemeinschaftseigentum vor Vertragsschluss vermeintlich abgenommen wurde, den Erwerber nicht automatisch daran binden. AGB-Klauseln zur Bindung an fremde Abnahme kritisch prüfen. Förmliche eigene Abnahme sichern, damit Verjährungsbeginn und Mängelrechte klar werden.
+
+## Altbau/Sanierung
+
+Bei Sanierung, die Umfang und Bedeutung eines Neubaus erreicht, kann Werkvertragsrecht auch nicht angefasste Altbausubstanz erfassen. Bei längerer Vermietung oder bloßer Renovierung kann Kaufrecht näher liegen. Maßgeblich: Leistungsversprechen, Eingriffstiefe, Prospekt, Preis, technische Erneuerung und Erwerbererwartung.
+
+## Output
+
+Erstelle eine Einordnungsnotiz: Vertragstyp, Leistungsumfang, Abnahmebedarf, Verjährung, Mängelrechte, Risiken der Vertragsklauseln.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `wohnungseigentum-teilungserklaerung-und-erstverwalter`
+
+_Wenn es um Wohnungseigentum, Teilungserklärung und Erstverwalter in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Wohnungseigentum, Teilungserklärung und Erstverwalter
+
+## Prüfgegenstand
+
+Der Käufer erwirbt nicht nur Räume, sondern eine Mitgliedschaft in einer GdWE. Dieser Skill prüft Teilungserklärung, Gemeinschaftsordnung, Erstverwalter und gebundene Folgegeschäfte.
+
+## Normenanker
+
+§ 305 BGB, § 307 BGB, § 308 Nr. 4 BGB, § 311b Abs. 1 BGB, § 650u BGB; § 3 MaBV; § 1 WEG, § 3 WEG, § 5 WEG, § 8 WEG, § 9a WEG, § 10 WEG, § 16 WEG, § 18 WEG, § 19 WEG, § 20 WEG, § 23 WEG, § 24 WEG, § 26 WEG, § 27 WEG, § 44 WEG.
+
+## Prüfmatrix
+
+- Stimmen Aufteilungsplan, Abgeschlossenheitsbescheinigung, Teilungserklärung und Kaufgegenstand überein?
+- Sind Keller, Stellplatz, Terrasse, Balkon und Sondernutzungsrechte exakt zugeordnet?
+- Gibt es Untergemeinschaften, Kostenkreise oder Stimmrechtsregeln zulasten bestimmter Häuser/Bauabschnitte?
+- Darf der Bauträger Teilungserklärung oder Gemeinschaftsordnung später aus bloßer Zweckmäßigkeit ändern?
+- Ist der Erstverwalter bauträgernah und mit langen Wartungs-, Wärme-, Messdienst- oder Energielieferverträgen verbunden?
+- Werden Aufzug, Tiefgarage, Lüftung, Hebeanlagen, Ladeinfrastruktur und Außenanlagen wirtschaftlich transparent verteilt?
+
+## Rechtsprechungsanker
+
+BGH V ZR 91/25 nur nach Live-Prüfung einsetzen: Zustimmungspflichten zu Änderungen müssen auf einzeln benannte triftige Gründe begrenzt sein; § 242 BGB rettet eine unwirksame AGB-Änderungsklausel regelmäßig nicht.
+
+## Output
+
+Erstelle eine WEG-Risikokarte: Regelung, betroffene Einheit, wirtschaftliche Wirkung, Normanker, Änderungsverlangen, Priorität.
+
+---
+
+## Skill: `bauzeit-verzug-vertragsstrafe-und-hoehere-gewalt`
+
+_Wenn es um Bauzeit, Verzug, Vertragsstrafe und höhere Gewalt in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Bauzeit, Verzug, Vertragsstrafe und höhere Gewalt
+
+## Prüfgegenstand
+
+Dieser Skill prüft, ob der Bauträger einen echten Fertigstellungstermin schuldet oder ob Frist- und Störungsklauseln den Termin entwerten. Der Fokus liegt auf beweisbarer Bauablaufstörung statt pauschaler Krisenerzählung.
+
+## Normenanker
+
+§§ 271, 280 Abs. 1/2, 286 Abs. 2 Nr. 1 und Abs. 4, 287, 289, 291, 305c Abs. 2, 307, 309 Nr. 5, Nr. 7, Nr. 12, 313, 339-341, 640, 641, 642, 643, 650k Abs. 3, 650u BGB; § 3 Abs. 2 MaBV; §§ 287, 308 ZPO.
+
+## Bauablaufbezogene Darlegung
+
+Der Bauträger muss konkret erklären: Soll-Bauablauf, betroffenes Gewerk, Ereignis, Dauer, Folgegewerke, Ausweichmöglichkeiten, Wiederanlaufzeit und Auswirkung auf den Endtermin. Allgemeine Hinweise auf Pandemie, Lieferketten, Personal, Wetter, Nachunternehmer oder Versorger reichen nicht.
+
+## Klauselprüfung
+
+- „Voraussichtlich“ oder „angestrebt“ entwertet den Termin.
+- Zusätzliche Mahnpflichten trotz kalendarischem Termin sind an § 307 BGB zu messen.
+- § 313 BGB scheidet regelmäßig aus, wenn die behauptete Krise bei Vertragsschluss schon bekannt war.
+- Vertragliche Fristverlängerungen müssen Anlass, Nachweis und Dauer begrenzen.
+
+## Vertragsstrafe und Schaden
+
+Vertragsstrafe und Verzugsschaden bei Interessenidentität anrechnen (§ 341 Abs. 2 i.V.m. § 340 Abs. 2 BGB). Weiteren Schaden nicht durch pauschale Exklusivität abschneiden.
+
+## Output
+
+Erstelle Terminmatrix, Hindernisprüfung, Schadensliste und ein Aufforderungsschreiben, das konkrete Bauablaufdarlegung verlangt.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `druckmuster-schluessel-vormerkung-und-zahlung`
+
+_Wenn es um Druckmuster, Schlüssel, Vormerkung und Zahlung in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Druckmuster, Schlüssel, Vormerkung und Zahlung
+
+## Prüfgegenstand
+
+Dieser Skill behandelt Situationen, in denen der Bauträger wirtschaftlichen Druck aufbaut: Schlüssel, Besitz, Vormerkung, Rate, Rücktritt oder Baustellenzugang werden als Hebel eingesetzt.
+
+## Normenanker
+
+§§ 242, 305c Abs. 2, 307, 309 Nr. 2 lit. a, 309 Nr. 12, 320, 321, 641 Abs. 3, 650m Abs. 2, 650u, 650v, 883 BGB; §§ 3, 7, 12 MaBV; § 253 StGB im Ausnahmefall.
+
+## Druckmuster
+
+- Schlüssel nur gegen vollständige Zahlung, obwohl Rate nicht fällig oder Mängel erheblich sind.
+- Besitzübergabe wird verweigert, obwohl Bezugsfertigkeit, gesicherte Gegenleistung und Zug-um-Zug-Angebot vorliegen.
+- Rücktrittsdrohung bei berechtigter Zurückbehaltung.
+- Vormerkungslöschung durch Notarvollmacht ohne gerichtliche Klärung.
+- Bauzugang oder Sachverständigentermin nur gegen Zahlung.
+- Schlussrate trotz offener Außenanlagen oder Protokollmängel.
+
+## Arbeitsweise
+
+Nicht eskalieren, bevor Eigentumspfad und Beweis gesichert sind. Zahlungsbereitschaft unter Vorbehalt, Hinterlegung oder Notaranderkonto nur nach konkreter Prüfung. Strafrechtliche Worte sparsam, aber bei massiver Nötigungslage nicht ausblenden.
+
+## Besitz und Eilrechtsschutz
+
+Besitz ist beim Verbraucher oft der reale Kipppunkt: Umzug, doppelte Miete, Bereitstellungszinsen und Möbeleinlagerung erzeugen Druck. Prüfe deshalb nüchtern, ob ein Anspruch auf Schlüsselherausgabe Zug um Zug gegen den fälligen Betrag, Hinterlegung oder Sicherheitsleistung im Wege einstweiliger Verfügung vertretbar ist. Kein Eilantrag ohne klare Darstellung von Bezugsfertigkeit, nicht fälligem Rest, konkreter Dringlichkeit und Gegenleistungsangebot.
+
+## Output
+
+Formuliere eine Gegenposition: Was ist fällig, was nicht, welche Sicherheit besteht, welcher Betrag wird angeboten/zurückbehalten, welche Handlung wird bis wann verlangt.
+
+---
+
+## Skill: `preisanpassung-315-saldierung-und-loesungsrecht`
+
+_Wenn es um Preisanpassung, Paragraf 315 BGB, Saldierung und Lösungsrecht in Bauträgervertrag-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Preisanpassung, § 315 BGB, Saldierung und Lösungsrecht
+
+## Prüfgegenstand
+
+Dieser Skill prüft, ob der Bauträger den Kaufpreis nachträglich erhöhen darf. Gerade Krisen-, Material- und Energieklauseln sind im Verbraucher-Bauträgervertrag eng zu kontrollieren.
+
+## Normenanker
+
+§§ 305 Abs. 1, 305b, 307, 309 Nr. 1, 313, 315, 648a, 650u Abs. 2, 650v BGB; §§ 3, 12 MaBV; § 17 BeurkG.
+
+## Wirksamkeitsanforderungen
+
+- Keine kurzfristige Preiserhöhung innerhalb der Sperre des § 309 Nr. 1 BGB.
+- Anlass muss unvorhersehbar und extern sein; Kalkulationsfehler, Lieferantenwechsel oder schlechte Bauleitung reichen nicht.
+- Nur echte Mehrkosten, keine Zusatzmarge.
+- Saldierung: sinkende Kostenpositionen zugunsten des Erwerbers berücksichtigen.
+- Berechnungspfad und Nachweise müssen offengelegt werden.
+- Lösungsrecht ab klarer Schwelle. Bloßer Rücktritt ist oft kein gleichwertiger Schutz, weil er Vormerkung und Eigentumspfad gefährden kann.
+
+## Bessere Gestaltung
+
+Wenn überhaupt, eher Preisvorbehalt nach § 315 BGB mit klaren Ereignissen, Nachweispflicht, Saldierung und Erwerberschutz. Teilkündigung werkvertraglicher Leistung oder abgesicherte Aufhebungsregel prüfen. § 648a BGB steht dem Bauträger beim Bauträgervertrag nicht als Ausweg offen.
+
+## Output
+
+Gib eine Preisanpassungsampel: Anlass, Zeitraum, Berechnung, Saldierung, Schwelle, Lösungsrecht, Notarhinweis, Neufassung.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `mabv-agb-klauselmatrix-rot-orange-gruen`
+
+_Wenn es um MaBV-/AGB-Klauselmatrix Rot-Orange-Grün in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# MaBV-/AGB-Klauselmatrix Rot-Orange-Grün
+
+## Prüfgegenstand
+
+Dieser Skill erzeugt die zentrale Klauselmatrix für Mandatsarbeit. Er ist zu laden, wenn viele Klauseln schnell sortiert, priorisiert und in Verhandlungsforderungen übersetzt werden müssen.
+
+## Normenanker
+
+§§ 305c Abs. 2, 306, 307, 308 Nr. 4, 309 Nr. 1, Nr. 2 lit. a, Nr. 8, Nr. 12, Nr. 15, 311b, 315, 320, 640, 641, 650k Abs. 2/3, 650m Abs. 2, 650n, 650u, 650v BGB; §§ 3, 7, 12 MaBV; § 17 BeurkG; WEG § 8.
+
+## Typische rote Treffer
+
+Zwei Großraten, Vorab-Rate ohne Bautenstand, Schlussrate vor vollständiger Fertigstellung, bloß mitgeteilte Bezugsfertigkeit, Verzicht auf § 650m, Vormerkungslöschung per Bauträgervollmacht, Beweislastumkehr, Tatsachenbestätigung, 14-Tage-Mängelausschluss, verkürzte Bauwerksverjährung, Erstverwalter-Abnahme, Besichtigungsausschluss, Preisanpassung ohne Saldierung/Lösungsrecht, Teilungserklärungsänderung ohne triftige Gründe.
+
+## Orange Treffer
+
+Unklare Wohnflächenmethode, DIN-only-Klausel, „gleichwertiges Material“, voraussichtlicher Termin, Sonderwünsche mit unklarem Preis, Restarbeiten bei Schlussrate, Wartungsverträge mit verbundenen Unternehmen.
+
+## Ausgabe
+
+| Ampel | Klausel | Norm | Problem | wirtschaftliche Wirkung | Gegenargument | Antwort | Forderung |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+Sortiere erst nach Zahlungs-/Eigentumsrisiko, dann nach Bau-/Mängelrisiko, dann nach Komfort-/Verhandlungsrisiko.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `prozessstrategie-zahlung-feststellung-und-vorschuss`
+
+_Wenn es um Prozessstrategie Zahlung, Feststellung und Vorschuss in Bauträgervertrag-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Prozessstrategie Zahlung, Feststellung und Vorschuss
+
+## Prüfgegenstand
+
+Dieser Skill übersetzt Bauträgerbefunde in prozessuale Anträge. Er trennt Zahlungsabwehr, Mängelverfolgung, Besitz, Vorschuss und Vergleich.
+
+## Normenanker
+
+§§ 280, 281, 286, 320, 633-641, 637, 650u, 650v, 812, 817, 818 BGB; §§ 253, 256, 259, 260, 287, 308, 485 ff., 935 ff. ZPO; §§ 3, 7 MaBV.
+
+## Prozessoptionen
+
+- Negative Feststellung: Rate oder Schlussrate nicht fällig.
+- Leistungsklage: Unterlagen, Besitz, Auflassung, Nacherfüllung.
+- Vorschussklage: Mängelbeseitigung nach § 637 BGB.
+- Rückforderung: verfrühte Zahlung oder unwirksame Vorausleistung.
+- Selbständiges Beweisverfahren: Mängel, Bauablauf, Kosten, technische Standards.
+- Selbstvornahme nur nach sauberer Nacherfüllungsaufforderung, Frist, Beweissicherung und Kostenschätzung; keine voreilige Sanierung, wenn der Bauträger sonst Beweisverlust einwendet.
+- Rücktritt nur nach Eigentumspfad-, Vormerkungs-, Rückzahlungs- und Insolvenzcheck; bei steckengebliebenem Bau kann Festhalten plus Vorschuss wirtschaftlich besser sein.
+- Widerklage des Bauträgers: Abnahme, Fälligkeit und § 640 Abs. 2 BGB prüfen.
+
+## Verjährung und Beweissicherung
+
+Ordne jeden Mangel zeitlich: Abnahme Sonder-/Gemeinschaftseigentum, unwirksame Dritt-Abnahme, Hemmung durch Verhandlung, Klage oder selbständiges Beweisverfahren, Arglistverdacht und 30-Jahres-Grenze bei nicht angelaufener Bauwerksverjährung. Sichere Fotos, Protokolle, Wartungsunterlagen, Bauteilöffnungen und Sachverständigenbefund, bevor Verdecken, Weiterbau oder Sanierung den Beweis zerstört.
+
+## Output
+
+Erstelle Antragsmatrix: Antrag, Zulässigkeit, Anspruchsgrundlage, Beweis, Kosten, Eilbedürftigkeit, Vergleichsangebot.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
 ## Skill: `fall-fingerabdruck-und-schnelltriage`
 
-_Fall-Fingerabdruck für Bauträgerakten: extrahiert Urkunde, Verkäufer, Verbraucherrolle, Einheit, Kaufpreis, Raten, Sicherheiten, Baubeschreibung, Teilungserklärung, Technik, Baufortschritt, Abnahme- und Streitstand vor jeder Ampel._
+_Wenn es um Fall-Fingerabdruck und Schnelltriage in Bauträgervertrag-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Fall-Fingerabdruck und Schnelltriage
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Zweck
 
@@ -114,76 +532,51 @@ Gib zuerst eine Fallkarte aus. Danach folgt die Prüfung. Wenn ein Befund nicht 
 
 ---
 
-## Skill: `hoai-technik-baugrund-und-objektueberwachung`
+## Skill: `din-anerkannte-regeln-technik-und-standardwechsel`
 
-_Technischer Realitätscheck im Bauträgerprojekt: HOAI-Leistungsphasen als Prüfraster, Baugrund, Objektüberwachung, anerkannte Regeln der Technik, Schall, Brand, Feuchte, Energie, Tiefgarage, Aufzug und Unterlagen nach § 650n BGB._
+_Wenn es um DIN, anerkannte Regeln der Technik und Standardwechsel in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten._
 
-# HOAI, Technik, Baugrund und Objektüberwachung
-
-## Prüfgegenstand
-
-Ein juristisch glatter Bauträgervertrag kann technisch unkontrollierbar sein. Dieser Skill prüft Baugrund, Technik, Objektüberwachung, Dokumentation und den Mindeststandard des Werks.
-
-## Normenanker
-
-§ 280 BGB, § 311 Abs. 2 BGB, § 633 Abs. 1 und Abs. 2 BGB, § 634 Nr. 1-4 BGB, § 635 BGB, § 637 BGB, § 640 BGB, § 641 BGB, § 650j BGB, § 650k Abs. 2 und Abs. 3 BGB, § 650n BGB, § 650p BGB, § 650u BGB; Art. 249 EGBGB; § 34 HOAI und Anlage 10.1 HOAI als Prüfraster; Landesbauordnungen und GEG nur nach konkreter Projektlage.
-
-## Prüffelder
-
-- Baugrundgutachten, Grundwasser, Wasserhaltung, Altlasten, Kampfmittel, Entsorgung.
-- Abdichtung, Tiefgarage, Hebeanlage, Entwässerung, Lüftung, Aufzug, Brandschutz.
-- Ausführungsplanung, Objektüberwachung, Bautagebuch, Mängeltracking, Revisionsunterlagen.
-- Schall-, Wärme-, Feuchte- und Brandschutz als Bausoll, nicht nur als öffentlich-rechtliche Mindestbehauptung.
-- Käufer-Sachverständiger für Bautenstand, Sonderwünsche, Abnahme und Schlussrate.
-
-## Technikmaßstab
-
-Die HOAI begründet nicht automatisch Käuferansprüche gegen Planer. Sie ist aber ein gutes Raster, um zu prüfen, ob Planung und Überwachung überhaupt nachvollziehbar organisiert sind. Anerkannte Regeln der Technik bleiben eigenständiger Mindeststandard; bloße DIN-Nennung reicht nicht.
-
-## Output
-
-Erstelle eine Technik- und Dokumentenliste: Bauteil, fehlender Nachweis, Risiko, verlangtes Dokument, Zeitpunkt der Herausgabe, Konsequenz für Zahlung oder Abnahme.
-
----
-
-## Skill: `bauzeit-verzug-vertragsstrafe-und-hoehere-gewalt`
-
-_Bauzeit- und Verzugsprüfung beim Bauträgervertrag: verbindlicher Termin, Bezugsfertigkeit, vollständige Fertigstellung, bauablaufbezogene Darlegung, Pandemie/Lieferketten/Wetter, § 313 BGB, Vertragsstrafe und Schadensersatz._
-
-# Bauzeit, Verzug, Vertragsstrafe und höhere Gewalt
+# DIN, anerkannte Regeln der Technik und Standardwechsel
 
 ## Prüfgegenstand
 
-Dieser Skill prüft, ob der Bauträger einen echten Fertigstellungstermin schuldet oder ob Frist- und Störungsklauseln den Termin entwerten. Der Fokus liegt auf beweisbarer Bauablaufstörung statt pauschaler Krisenerzählung.
+Dieser Skill verhindert, dass der Bauträger das Bausoll auf „DIN eingehalten“ verkürzt. DIN-Normen sind wichtige technische Texte, aber keine Rechtsnormen und nicht automatisch der geschuldete Mindeststandard.
 
 ## Normenanker
 
-§§ 271, 280 Abs. 1/2, 286 Abs. 2 Nr. 1 und Abs. 4, 287, 289, 291, 305c Abs. 2, 307, 309 Nr. 5, Nr. 7, Nr. 12, 313, 339-341, 640, 641, 642, 643, 650k Abs. 3, 650u BGB; § 3 Abs. 2 MaBV; §§ 287, 308 ZPO.
+§ 133 BGB, § 157 BGB, § 242 BGB, § 243 BGB, § 305c Abs. 2 BGB, § 307 BGB, § 313 BGB, § 633 Abs. 1 und Abs. 2 BGB, § 634 Nr. 1-4 BGB, § 635 BGB, § 637 BGB, § 640 BGB, § 641 BGB, § 645 BGB, § 650j BGB, § 650k Abs. 2 und Abs. 3 BGB, § 650n BGB, § 650u BGB; § 13 Abs. 1 VOB/B nur bei wirksamer Einbeziehung.
 
-## Bauablaufbezogene Darlegung
+## Drei Stufen
 
-Der Bauträger muss konkret erklären: Soll-Bauablauf, betroffenes Gewerk, Ereignis, Dauer, Folgegewerke, Ausweichmöglichkeiten, Wiederanlaufzeit und Auswirkung auf den Endtermin. Allgemeine Hinweise auf Pandemie, Lieferketten, Personal, Wetter, Nachunternehmer oder Versorger reichen nicht.
+- Anerkannte Regeln der Technik: wissenschaftlich anerkannt und in der Praxis bewährt; werkvertraglicher Mindeststandard.
+- Stand der Technik: fortschrittlicher, nicht zwingend praktisch bewährt; im Zivilrecht nur bei Vereinbarung oder besonderer Lage.
+- Stand von Wissenschaft und Technik: Spitzenmaßstab für Hochrisiken, nicht Normalstandard im Wohnungsbau.
 
-## Klauselprüfung
+## Stichtag und Standardwechsel
 
-- „Voraussichtlich“ oder „angestrebt“ entwertet den Termin.
-- Zusätzliche Mahnpflichten trotz kalendarischem Termin sind an § 307 BGB zu messen.
-- § 313 BGB scheidet regelmäßig aus, wenn die behauptete Krise bei Vertragsschluss schon bekannt war.
-- Vertragliche Fristverlängerungen müssen Anlass, Nachweis und Dauer begrenzen.
+Maßgeblich ist grundsätzlich die Abnahme. Ändert sich der Standard zwischen Vertragsschluss und Abnahme, braucht es Aufklärung und eine bewusste Entscheidung des Erwerbers. Bei Mängelbeseitigung nach Abnahme ist der Standard zum Zeitpunkt der Beseitigung relevant; Mehrkosten und Mehrwert sauber prüfen.
 
-## Vertragsstrafe und Schaden
+## Senatsdifferenzierung
 
-Vertragsstrafe und Verzugsschaden bei Interessenidentität anrechnen (§ 341 Abs. 2 i.V.m. § 340 Abs. 2 BGB). Weiteren Schaden nicht durch pauschale Exklusivität abschneiden.
+Werkvertragsrechtlich keine pauschale Vermutung, dass DIN die anerkannten Regeln der Technik wiedergibt. WEG-Binnenmaßstäbe, etwa beim Schallschutz, nicht ungeprüft auf Bauträger-Bausoll übertragen.
 
 ## Output
 
-Erstelle Terminmatrix, Hindernisprüfung, Schadensliste und ein Aufforderungsschreiben, das konkrete Bauablaufdarlegung verlangt.
+Erstelle eine Technikstandard-Tabelle: Bauteil, DIN/Regel, Mindeststandard, Abweichung, Aufklärung, Mehrkosten, verlangter Nachweis.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
 ## Skill: `quellenhygiene-rechtsprechungsanker-und-bughunt`
 
-_Quellen- und Bug-Hunt-Skill für Bauträgervertragsprüfungen: verifiziert Normenstand, BGH-/OLG-Rechtsprechung, MaBV, AGB, § 650u/§ 650v BGB, § 650m Abs. 2 BGB, Abnahme, Schlussrate und verhindert BeckRS-/juris-Blindzitate._
+_Wenn es um Quellenhygiene, Rechtsprechungsanker und Bug-Hunt in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten._
 
 # Quellenhygiene, Rechtsprechungsanker und Bug-Hunt
 
@@ -214,356 +607,69 @@ Für Normen: `gesetze-im-internet.de`, Bundesgesetzblatt, Landesrechtportale. F�
 
 Am Ende jeder Analyse: geprüfte Normen, verifizierte Entscheidungen, ungeklärte Prüfhinweise, bewusst nicht verwendete Fundstellen.
 
----
-
-## Skill: `verhandlung-drei-dokumente-paket`
-
-_Drei-Dokumente-Ausgabe für Bauträgervertragsprüfung: Mandantenanschreiben, klauselorientiertes Gutachten und Schreiben an Bauträger/Notar mit MaBV-, AGB-, Abnahme-, Preisanpassungs-, Bausoll- und Sicherheitsforderungen._
-
-# Verhandlung und Drei-Dokumente-Paket
-
-## Prüfgegenstand
-
-Dieser Skill verwandelt die Prüfung in verwendbare Texte. Er ist zu laden, wenn das Ergebnis an Mandant, Bauträger oder Notar gehen soll.
-
-## Normenanker
-
-§§ 133, 157, 242, 305, 306, 307, 308 Nr. 4, 309 Nr. 1, Nr. 2 lit. a, Nr. 12, Nr. 15, 311b, 313, 315, 320, 633, 634, 635, 637, 640, 641, 650j, 650k Abs. 2 und Abs. 3, 650m Abs. 2, 650n, 650u, 650v, 817, 818, 883 BGB; §§ 3, 7, 12 MaBV; § 17 BeurkG; §§ 5, 9a, 10, 20 WEG.
-
-## Dokument 1: Mandantenanschreiben
-
-Schreibe kurz und entscheidungsorientiert: Was ist jetzt zu tun? Beurkunden, warten, zahlen, zurückbehalten, abnehmen, verweigern, Nachweise verlangen oder Klage vorbereiten? Benenne Unterlagen, Fristen, Beträge und rote Punkte. Keine falsche Hoffnung auf 14-Tage-Widerruf beim beurkundeten Bauträgervertrag.
-
-## Dokument 2: Mandantengutachten
-
-Gliedere nach Vertragsabschnitten. Für jeden Befund: Originalwortlaut, Normanker, wirtschaftliche Wirkung, Gegenargument, Antwort, Empfehlung, Neufassung. Baue Spezialthemen ein: Preisanpassung, anerkannte Regeln der Technik, § 650n-Unterlagen, 30-Jahres-Linie bei unwirksamer Abnahme, Schlussrate, Bauablaufdarlegung.
-
-## Dokument 3: Schreiben an Bauträger/Notar
-
-Formuliere höflich-fest. Verlange Streichung oder Korrektur konkreter Klauseln, Nachreichung bestimmter Anlagen, Aussetzung von Zahlung/Beurkundung/Abnahme, Klarstellung der Sicherheit und Freigabe. Bei Notar nicht drohen, sondern Amtspflichten sachlich ansprechen.
-
-## Qualitätsgate
-
-Jede Forderung nennt Klausel, Rate, Betrag, Datum, Einheit, Bauteil oder Dokument. Keine leeren Sätze wie „rechtssicherer formulieren“.
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
-## Skill: `eigentumssicherung-vormerkung-lastenfreistellung-und-insolvenz`
+## Skill: `agb-klauselkontrolle-beweislast-und-tatsachenbestaetigung`
 
-_Eigentumssicherung beim Bauträgervertrag: Auflassungsvormerkung, Rang, Lastenfreistellung, Globalgrundschuld, Pfandfreigabe, Finanzierungsvollmacht, § 103/§ 106 InsO, § 7 MaBV und Schutz vor Zahlung ohne Eigentumspfad._
+_Wenn es um AGB-Klauselkontrolle, Beweislast und Tatsachenbestätigung in Bauträgervertrag-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Eigentumssicherung, Vormerkung, Lastenfreistellung und Insolvenz
+# AGB-Klauselkontrolle, Beweislast und Tatsachenbestätigung
 
 ## Prüfgegenstand
 
-Dieser Skill verhindert Zahlungen ohne belastbaren Eigentumspfad. Er verbindet Grundbuch, Vormerkung, Lastenfreistellung, MaBV, Finanzierungsvollmacht und Insolvenzrisiko.
+Bauträgerverträge bleiben regelmäßig AGB, auch wenn der Notar den Entwurf formuliert oder die Urkunde feierlich verlesen wird. Individualabrede liegt nur vor, wenn der konkrete Klauselinhalt ernsthaft zur Disposition stand.
 
 ## Normenanker
 
-§§ 883, 885, 888, 925, 1113 ff., 1191 ff., 305c Abs. 2, 307, 309 Nr. 2 lit. a, 309 Nr. 12, 320, 321, 323, 346 ff., 650u, 650v BGB; §§ 3, 7, 12 MaBV; §§ 103, 106, 108, 119 InsO; GBO-Nachweislogik.
+§§ 305, 305c Abs. 2, 306, 307 Abs. 1/2, 308 Nr. 4, 309 Nr. 1, Nr. 2 lit. a, Nr. 7, Nr. 8 lit. b, Nr. 12 lit. a/b, Nr. 13, Nr. 15, 310 Abs. 3, 315, 444, 639, 650m Abs. 2, 650u, 650v BGB; §§ 3, 7, 12 MaBV; § 17 BeurkG.
 
-## Prüffelder
+## Harte Treffer
 
-- Ist die Vormerkung für die konkrete Einheit, mit richtigem Rang und ohne gefährliche Freigabevollmacht gesichert?
-- Ist die Lastenfreistellung einheitsbezogen, bankseitig verbindlich und kompatibel mit jeder Rate?
-- Besteht eine Globalgrundschuld, und ist klar, wann und wie die Einheit pfandfrei wird?
-- Erfasst die Freistellungserklärung Grundstück, Wohnungs-/Teileigentum, Miteigentumsanteil, Sondernutzungsrechte, Nebenräume, Stellplatz und künftige Teilflächen eindeutig?
-- Sind Freigabebedingungen so formuliert, dass der Käufer nicht mehr oder früher zahlen muss als nach § 3 MaBV und Vertrag wirklich fällig ist?
-- Kollidieren Globalbank, Käuferbank und Vormerkung im Rang oder in Vollzugsanweisungen?
-- Wird eine Vormerkungslöschung bei einseitig behauptetem Rücktritt/Zahlungsverzug ermöglicht?
-- Gibt es Vorinsolvenzzeichen: Baustopp, Nachunternehmerforderungen, nicht abrufbare Bankfreigabe, Ratenbeschleunigung, Sonderwunsch-Vorkasse?
+- Pauschale Bestätigung, alle Anlagen erhalten, verstanden und fachkundig geprüft zu haben.
+- Bestätigung, es gebe keine Nebenabreden, obwohl Prospekt, Showroom, Rendering oder Vertriebsmail konkret Erwartungen geweckt haben.
+- Beweislast für Bautenstand, Zugang, Anlagenkenntnis oder fehlendes Vertretenmüssen wird dem Erwerber zugeschoben.
+- Zustimmungspflichten zu Änderungen der Teilungserklärung ohne einzeln benannte triftige Gründe.
+- Einseitige Leistungsbestimmungsrechte für Material, Grundriss, Fassade, Technik, Gemeinschaftsflächen oder Ausstattungsstandard ohne Zumutbarkeitsgrenze, Gleichwertigkeitsmaßstab und Dokumentationspflicht.
+- Vormerkungslöschung oder Rücktrittsvollmacht aufgrund einseitiger Behauptung des Bauträgers.
+- Verzicht oder Entwertung der § 650m Abs. 2 BGB-Sicherheit.
+- Mängelrügefristen als Ausschlussfristen, verkürzte Bauwerksverjährung oder Ausschluss von § 637 BGB ohne tragfähigen Grund.
 
-## Freistellung und Bankfreigabe
+## Klauseltechnik
 
-Eine Freistellungserklärung muss aus Erwerbersicht wie ein technischer Eigentumspfad funktionieren: Zahlung, Bankfreigabe, Lastenlöschung und Umschreibung müssen aufeinander passen. Kritisch sind „Freigabe nur nach vollständiger Kaufpreiszahlung“, Nachschussverlangen bei Kostensteigerung, unklare Bedingungen für den steckengebliebenen Bau und Erklärungen, die Sondernutzungsrechte oder Stellplätze nicht sicher miterfassen.
+Keine geltungserhaltende Reduktion zugunsten des Bauträgers. Bei Verstoß gegen AGB-Recht sauber § 306 BGB anwenden: Klausel fällt, Vertrag bleibt mit gesetzlicher Lage bestehen. Bei mehrdeutigen Klauseln kundenfeindlichste Auslegung im Kontrollschritt nutzen.
 
-## Insolvenzlogik
+## Leistungsbestimmung und Änderungsvorbehalt
 
-Die Vormerkung schützt den Übereignungsanspruch, nicht alle Zahlungen und nicht automatisch Schadensersatz. Im Insolvenzfall § 106 InsO für den gesicherten Eigentumspfad und § 103 InsO für den Werkleistungsrest getrennt prüfen. Den Insolvenzverwalter zur Wahl auffordern, Bürgschaft/§ 650m-Sicherheit sichern, Mehrkosten der Fertigstellung dokumentieren.
+§ 315 BGB hilft nur, wenn der Vertrag überhaupt eine wirksame Leistungsbestimmung zulässt. Im Bauträgervertrag müssen Änderungsvorbehalte den Anlass, den betroffenen Leistungsbereich, den Gleichwertigkeitsmaßstab, die Informationspflicht und die Auswirkung auf Preis, Bauzeit und WEG-Unterlagen benennen. Ein bloßes „gleichwertig nach Wahl des Bauträgers“ ist für Verbraucher besonders gefährlich, wenn Prospekt, Bemusterung und Baubeschreibung konkretere Erwartungen geweckt haben.
 
 ## Ausgabe
 
-Erzeuge eine Eigentumspfad-Tabelle: Zahlung, Sicherung, Grundbuchstand, Bankfreigabe, Insolvenzrisiko, nächste Handlung.
-
----
-
-## Skill: `verzugsschadenspositionen-berechnung-und-zinsen`
-
-_Berechnet Verzugsschäden beim verspäteten Bauträgerprojekt: Ersatzwohnung, Umzug, Lager, Bereitstellungszinsen, doppelte Miete, Hotel, Nutzungsausfall, Vertragsstrafe, § 287 BGB/ZPO, § 291 BGB, § 289 BGB und § 308 ZPO._
-
-# Verzugsschäden, Berechnung und Zinsen
-
-## Prüfgegenstand
-
-Dieser Skill sammelt und berechnet Schäden aus verspäteter Bezugsfertigkeit oder Übergabe. Er trennt ersatzfähige Mehraufwendungen von Sowieso-Kosten.
-
-## Normenanker
-
-§§ 249 ff., 280 Abs. 1/2, 286, 287, 288, 289, 291, 340, 341, 650u BGB; §§ 287, 308 ZPO; Art. 13 GG und § 903 BGB nur als wertender Wohnungsbezug, nicht als Anspruchsnorm.
-
-## Schadenspositionen
-
-- Ortsübliche Ersatzwohnungsmiete.
-- Umzugskosten, auch Rückumzug.
-- Lagerkosten für nicht unterbringbares Mobiliar.
-- Bereitstellungszinsen auf noch nicht abgerufene Darlehensvaluta; abgrenzen von Zinsen auf bereits ausgezahltes Kapital.
-- Doppelte Miete, wenn Altwohnung nicht rechtzeitig beendet werden konnte.
-- Hotelkosten für Übergangszeit.
-- Nutzungsausfall bei fühlbarer Gebrauchsbeeinträchtigung, strenger Maßstab.
-
-## Vertragsstrafe
-
-Vertragsstrafe und Schaden bei gleichem Interesse anrechnen. Pauschalierter Schaden darf nicht als Ausschluss echten Mehrschadens gelesen werden, wenn AGB-rechtlich angreifbar.
-
-## Output
-
-Erstelle eine Schadensberechnung mit Zeitraum, Beleg, Betrag, Erforderlichkeit, Gegenargument, Antwort und Zinsantrag. Keine Zinsen auf Zinsen beantragen; § 308 ZPO beachten.
-
----
-
-## Skill: `din-anerkannte-regeln-technik-und-standardwechsel`
-
-_Prüft technische Standards im Bauträgervertrag: DIN-Normen, anerkannte Regeln der Technik, Stand der Technik, Stand von Wissenschaft und Technik, Stichtag Abnahme, Standardwechsel, Sowieso-Kosten und Bedenkenhinweis._
-
-# DIN, anerkannte Regeln der Technik und Standardwechsel
-
-## Prüfgegenstand
-
-Dieser Skill verhindert, dass der Bauträger das Bausoll auf „DIN eingehalten“ verkürzt. DIN-Normen sind wichtige technische Texte, aber keine Rechtsnormen und nicht automatisch der geschuldete Mindeststandard.
-
-## Normenanker
-
-§ 133 BGB, § 157 BGB, § 242 BGB, § 243 BGB, § 305c Abs. 2 BGB, § 307 BGB, § 313 BGB, § 633 Abs. 1 und Abs. 2 BGB, § 634 Nr. 1-4 BGB, § 635 BGB, § 637 BGB, § 640 BGB, § 641 BGB, § 645 BGB, § 650j BGB, § 650k Abs. 2 und Abs. 3 BGB, § 650n BGB, § 650u BGB; § 13 Abs. 1 VOB/B nur bei wirksamer Einbeziehung.
-
-## Drei Stufen
-
-- Anerkannte Regeln der Technik: wissenschaftlich anerkannt und in der Praxis bewährt; werkvertraglicher Mindeststandard.
-- Stand der Technik: fortschrittlicher, nicht zwingend praktisch bewährt; im Zivilrecht nur bei Vereinbarung oder besonderer Lage.
-- Stand von Wissenschaft und Technik: Spitzenmaßstab für Hochrisiken, nicht Normalstandard im Wohnungsbau.
-
-## Stichtag und Standardwechsel
-
-Maßgeblich ist grundsätzlich die Abnahme. Ändert sich der Standard zwischen Vertragsschluss und Abnahme, braucht es Aufklärung und eine bewusste Entscheidung des Erwerbers. Bei Mängelbeseitigung nach Abnahme ist der Standard zum Zeitpunkt der Beseitigung relevant; Mehrkosten und Mehrwert sauber prüfen.
-
-## Senatsdifferenzierung
-
-Werkvertragsrechtlich keine pauschale Vermutung, dass DIN die anerkannten Regeln der Technik wiedergibt. WEG-Binnenmaßstäbe, etwa beim Schallschutz, nicht ungeprüft auf Bauträger-Bausoll übertragen.
-
-## Output
-
-Erstelle eine Technikstandard-Tabelle: Bauteil, DIN/Regel, Mindeststandard, Abweichung, Aufklärung, Mehrkosten, verlangter Nachweis.
-
----
-
-## Skill: `notarhaftung-belehrung-und-streitverkuendung`
-
-_Prüft notarielle Amtspflichten im Bauträgervertrag: § 17 BeurkG, § 14 BNotO, § 19 BNotO, MaBV-/AGB-Klauselkontrolle, Preisanpassung, § 650m-Sicherheit, Niedrig-Grundstücksanteil, Bezugsurkunden und Streitverkündung._
-
-# Notarhaftung, Belehrung und Streitverkündung
-
-## Prüfgegenstand
-
-Dieser Skill prüft nicht vorschnell „Notar haftet“, sondern legt die konkrete Amtspflichtspur frei: Was musste der Notar erkennen, erläutern oder anders gestalten?
-
-## Normenanker
-
-§ 17 Abs. 1 und Abs. 2a BeurkG; § 13a BeurkG; §§ 14, 19 BNotO; §§ 305-310, 307, 309 Nr. 12, Nr. 15, 311b, 650m Abs. 2, 650u, 650v BGB; §§ 3, 7, 12 MaBV.
-
-## Prüffelder
-
-- Verbraucherfrist und vollständiger Entwurf einschließlich Bezugsurkunden.
-- Erkennbare MaBV-Abweichung im Ratenplan.
-- Intransparente § 650m-Sicherheit oder Verzichtsklausel.
-- Preisanpassung mit erheblichem wirtschaftlichem Risiko.
-- Kritische Vormerkungslöschungs-, Freigabe- oder Belastungsvollmacht.
-- Auffällig niedriger Grundstücksanteil bei hoher erster Rate.
-- Auslagerung wesentlicher Vertragsbedingungen in Anlagen, die der Verbraucher praktisch nicht erhält.
-
-## Haftungsspur
-
-§ 19 BNotO subsidiär bei Fahrlässigkeit, bei Vorsatz direkter. Vorsatz bedeutet nicht Schadenswille; es genügt das bewusste Hinwegsetzen über erkannte Amtspflichten. Vor gerichtlicher Geltendmachung immer anderweitige Ersatzmöglichkeiten und Streitverkündung prüfen.
-
-## Output
-
-Erzeuge eine Notarspur: Pflicht, Tatsachenkenntnis, Verstoß, Kausalität, Schaden, Subsidiarität, Prozessstrategie.
-
----
-
-## Skill: `wohnungseigentum-teilungserklaerung-und-erstverwalter`
-
-_WEG- und Teilungserklärungsprüfung beim Bauträgerprojekt: Sondereigentum, Gemeinschaftseigentum, Sondernutzungsrechte, Untergemeinschaften, Kostenverteilung, Erstverwalter, Wartungsverträge und Änderungsvollmachten._
-
-# Wohnungseigentum, Teilungserklärung und Erstverwalter
-
-## Prüfgegenstand
-
-Der Käufer erwirbt nicht nur Räume, sondern eine Mitgliedschaft in einer GdWE. Dieser Skill prüft Teilungserklärung, Gemeinschaftsordnung, Erstverwalter und gebundene Folgegeschäfte.
-
-## Normenanker
-
-§ 305 BGB, § 307 BGB, § 308 Nr. 4 BGB, § 311b Abs. 1 BGB, § 650u BGB; § 3 MaBV; § 1 WEG, § 3 WEG, § 5 WEG, § 8 WEG, § 9a WEG, § 10 WEG, § 16 WEG, § 18 WEG, § 19 WEG, § 20 WEG, § 23 WEG, § 24 WEG, § 26 WEG, § 27 WEG, § 44 WEG.
-
-## Prüfmatrix
-
-- Stimmen Aufteilungsplan, Abgeschlossenheitsbescheinigung, Teilungserklärung und Kaufgegenstand überein?
-- Sind Keller, Stellplatz, Terrasse, Balkon und Sondernutzungsrechte exakt zugeordnet?
-- Gibt es Untergemeinschaften, Kostenkreise oder Stimmrechtsregeln zulasten bestimmter Häuser/Bauabschnitte?
-- Darf der Bauträger Teilungserklärung oder Gemeinschaftsordnung später aus bloßer Zweckmäßigkeit ändern?
-- Ist der Erstverwalter bauträgernah und mit langen Wartungs-, Wärme-, Messdienst- oder Energielieferverträgen verbunden?
-- Werden Aufzug, Tiefgarage, Lüftung, Hebeanlagen, Ladeinfrastruktur und Außenanlagen wirtschaftlich transparent verteilt?
-
-## Rechtsprechungsanker
-
-BGH V ZR 91/25 nur nach Live-Prüfung einsetzen: Zustimmungspflichten zu Änderungen müssen auf einzeln benannte triftige Gründe begrenzt sein; § 242 BGB rettet eine unwirksame AGB-Änderungsklausel regelmäßig nicht.
-
-## Output
-
-Erstelle eine WEG-Risikokarte: Regelung, betroffene Einheit, wirtschaftliche Wirkung, Normanker, Änderungsverlangen, Priorität.
-
----
-
-## Skill: `geschaeftsfuehrer-architekt-und-bautenstandshaftung`
-
-_Prüft Drittansprüche bei Bauträgerprojekten: Geschäftsführerhaftung nach § 823 Abs. 2 BGB i.V.m. § 3/§ 7 MaBV, § 263 StGB, unrichtige Bautenstandsbestätigung, Architekt/Bauleiter, Schutzwirkung zugunsten Erwerber._
-
-# Geschäftsführer-, Architekten- und Bautenstandshaftung
-
-## Prüfgegenstand
-
-Dieser Skill schaut hinter die Projektgesellschaft, wenn Zahlungen vorzeitig verlangt oder Bautenstände falsch bestätigt werden. Er prüft persönliche und drittbezogene Haftung, ohne sie vorschnell zu behaupten.
-
-## Normenanker
-
-§§ 823 Abs. 2, 826, 249 ff., 280, 311 Abs. 3 BGB; §§ 3, 7, 12 MaBV; § 263 StGB; § 253 StGB nur bei Drucksituationen; Grundsätze des Vertrags mit Schutzwirkung zugunsten Dritter.
-
-## Geschäftsführer
-
-§ 3 und § 7 MaBV können Schutzgesetze zugunsten des Erwerbers sein. Prüfe operatives Handeln, Kenntnis vom Bau- und Zahlungsstand, bedingten Vorsatz, Ratenanforderung, Vermögensgefährdung und Kausalität. Nicht automatisch jeden Geschäftsführer haftbar machen; Aktenanker nötig.
-
-## Architekt/Bauleiter
-
-Unrichtige Bautenstandsbestätigungen können Erwerberzahlungen auslösen. Prüfe Auftrag, Nähe zum Erwerber, erkennbaren Verwendungszweck der Bescheinigung, Vertrauenstatbestand, Pflichtverletzung und Schaden.
-
-## Drucksituationen
-
-„Schlüssel nur gegen Zahlung“ trotz offener Mängel oder fehlender Fälligkeit kann über Vertragsrecht hinaus relevant werden. Strafrechtliche Bewertung nur zurückhaltend und fallgenau.
-
-## Output
-
-Erstelle eine Anspruchsgegner-Matrix: Person, Handlung, Norm, Vorsatz/Fahrlässigkeit, Beweis, Schaden, taktische Verwendung im Vergleich oder Prozess.
-
----
-
-## Skill: `abnahme-gemeinschaftseigentum-schlussrate-und-maengelrechte`
-
-_Abnahmeprüfung im Bauträgervertrag: Sondereigentum, Gemeinschaftseigentum, Vertreter-/Sachverständigenabnahme, Erstverwalter, § 640 BGB, § 634a BGB, § 3 Abs. 2 MaBV, Schlussrate, Verjährungsbeginn und Nachzügler._
-
-# Abnahme, Gemeinschaftseigentum, Schlussrate und Mängelrechte
-
-## Prüfgegenstand
-
-Die Abnahme entscheidet über Fälligkeit, Beweislast, Gefahr, Mängelrechte und Verjährung. Im Bauträgervertrag muss Sondereigentum, Gemeinschaftseigentum und Schlussrate getrennt geprüft werden.
-
-## Normenanker
-
-§§ 633, 634, 634a Abs. 1 Nr. 2 und Abs. 2, 635, 637, 640, 641, 650u BGB; § 3 Abs. 2 MaBV; §§ 305c Abs. 2, 307, 309 Nr. 8, Nr. 12 BGB; § 9a WEG für Mängelrechte der Gemeinschaft.
-
-## Gemeinschaftseigentum
-
-Rot prüfen, wenn die Urkunde:
-
-- die Abnahme zwingend auf Erwerbervertreter, Erstverwalter, Tochtergesellschaft, Projektsteuerer oder bauträgernahen Sachverständigen verlagert,
-- jedem einzelnen Erwerber das eigene Prüf- und Abnahmerecht nimmt,
-- Nachzügler an eine frühere fremde Abnahme bindet,
-- Besitzübergabe, Zahlung oder Protokoll als automatische Abnahme fingiert.
-
-BGH VII ZR 68/24 und VII ZR 108/24 nur mit frei prüfbarer Quelle verwenden. Kern: unwirksame Abnahmeklauseln können den Beginn der fünfjährigen Bauwerksverjährung verhindern; die 30-Jahres-Grenze ist als äußerer Rechtssicherheitsrahmen zu beachten.
-
-## Schlussrate
-
-Schlussrate nicht mit Abnahmereife gleichsetzen. Bei Vertragsklausel „vollständige Fertigstellung“ können Protokollmängel, Restarbeiten, Außenanlagen, Gemeinschaftseigentum und Dokumentationspflichten die Fälligkeit sperren. BGH VII ZR 88/25 nur nach Live-Verifikation einsetzen.
-
-## Ausgabe
-
-Erstelle ein Abnahmeprotokoll mit nicht abnahmefähigen Punkten, Vorbehalten, verweigerter Abnahme bei wesentlichen Mängeln, zurückzuhaltenden Beträgen, Nachweisliste und Textbaustein gegen unbeabsichtigte Abnahme.
-
----
-
-## Skill: `sonderwuensche-preisanpassung-und-ausstattungswahl`
-
-_Sonderwünsche und Bemusterung im Bauträgervertrag: prüft Form, MaBV-Einordnung, Vorauszahlung, Ausstattungswahl, Mehr-/Minderpreise, Lieferbarkeit, Fristversäumnis, Bauzeitfolgen und Änderung des Sondereigentums._
-
-# Sonderwünsche, Bemusterung und Ausstattungswahl
-
-## Prüfgegenstand
-
-Sonderwünsche sind im Bauträgervertrag ein eigener Risikobereich: Sie können Formprobleme, MaBV-Umgehung, Bauzeitverzug, technische Schnittstellen und Streit über Mehr-/Minderpreise auslösen.
-
-## Normenanker
-
-§ 125 BGB, § 133 BGB, § 157 BGB, § 305c Abs. 2 BGB, § 307 BGB, § 308 Nr. 4 BGB, § 309 Nr. 1 BGB, § 309 Nr. 12 BGB, § 311b Abs. 1 BGB, § 315 BGB, § 631 BGB, § 633 BGB, § 640 BGB, § 641 BGB, § 650j BGB, § 650k Abs. 2 und Abs. 3 BGB, § 650n BGB, § 650u BGB, § 650v BGB; § 3 MaBV, § 7 MaBV, § 12 MaBV; § 5 WEG, § 10 WEG, § 20 WEG bei Änderung von Sonder-/Gemeinschaftseigentum.
-
-## Form und MaBV
-
-Sonderwünsche vor Beurkundung gehören in die Urkunde, wenn sie Vertragsgegenstand sein sollen. Nach Beurkundung sind sie nur formfrei, soweit sie nicht selbst § 311b BGB berühren, etwa bei Änderung von Sondereigentumsumfang oder Teilungserklärung. Zahlungen dürfen nicht außerhalb des MaBV-Ratenplans vorgeschoben werden; regelmäßig gehören sie in den Gesamtpreis oder allenfalls in die Schlussratenlogik.
-
-## Prüfung
-
-- Vorauszahlung vor Leistung oder vor Bautenstand?
-- Mehr-/Minderpreise transparent?
-- Ausstattungswahl bei Fristversäumnis durch Bauträger einseitig?
-- Bauzeitfolge nur konkret oder pauschal?
-- Lieferbarkeitsrisiko und gleichwertiger Ersatz messbar?
-- Auswirkungen auf Schall, Brand, Statik, Gewährleistung, Wartung und WEG geklärt?
-
-## Output
-
-Erstelle eine Sonderwunschliste mit Leistung, Mehr-/Minderpreis, Zahlungszeitpunkt, Formrisiko, MaBV-Risiko, Bauzeitfolge und Änderungsvorschlag.
-
----
-
-## Skill: `unwirksame-abnahmeklauseln-dreissig-jahre-und-nachholung`
-
-_Prüft unwirksame Abnahmeklauseln im Bauträgervertrag: Erstverwalter, Sachverständige, Erwerbervertreter, Nachzügler, § 640 BGB, § 634a BGB, personale Teilunwirksamkeit, 30-Jahres-Grenze und nachträgliche Abnahme._
-
-# Unwirksame Abnahmeklauseln, 30-Jahres-Grenze und Nachholung
-
-## Prüfgegenstand
-
-Dieser Skill behandelt Altanlagen und Verträge mit fehlerhafter Abnahmeregelung. Er trennt unwirksame AGB-Abnahme, vergessene Abnahme und berechtigte Abnahmeverweigerung.
-
-## Normenanker
-
-§§ 195, 199, 203, 204, 242, 305, 307, 309 Nr. 8 lit. b, 633, 634 Nr. 1-4, 634a Abs. 1 Nr. 2 und Abs. 2, 635, 637, 640, 641 BGB; § 9a WEG; §§ 485, 494a ZPO; BGH VII ZR 68/24 und VII ZR 108/24 nur nach Live-Verifikation.
-
-## Prüfung
-
-- Abnahme durch Erstverwalter, Tochtergesellschaft, Projektsteuerer, Bauträgersachverständigen oder verpflichtende Vertreter?
-- Eigenes Prüf- und Abnahmerecht jedes Erwerbers ausdrücklich erhalten?
-- Nachzügler an frühere Abnahme gebunden?
-- Erwerber ging von wirksamer Dritt-Abnahme aus, sodass konkludente Abnahme durch Nutzung/Zahlung ausscheidet?
-
-## Rechtsfolge
-
-Der Bauträger kann sich nicht beliebig auf die Unwirksamkeit seiner eigenen Klausel berufen, wenn dies dem Erwerber schaden würde. Die fünfjährige Bauwerksverjährung läuft ohne wirksame Abnahme nicht an. Als äußerer Rahmen ist eine 30-Jahres-Grenze aus Rechtssicherheit zu prüfen.
-
-## Nachholung
-
-Bei nachträglicher Abnahme nicht den Neuzustand von damals verlangen, sondern ergänzende Vertragsauslegung: bestimmungsgemäße Nutzung und altersbedingter Verschleiß werden berücksichtigt. Bei berechtigter Abnahmeverweigerung kann die Lage anders sein; parallel nachträgliche Abnahme zur Verjährungssicherung erwägen.
-
-## GdWE und Regress
-
-Nachträgliche Abnahme und Mängelverfolgung dürfen nicht nur aus Sicht eines einzelnen Erwerbers gedacht werden. Prüfe, ob die Gemeinschaft der Wohnungseigentümer Rechte am Gemeinschaftseigentum ausübt, ob Beschlüsse zur Anspruchsdurchsetzung fehlen, ob Nachunternehmerregresse des Bauträgers/Generalunternehmers zeitlich wegbrechen und ob eine Streitverkündung an Planer, Unternehmer oder Notar sinnvoll ist.
-
-## Output
-
-Erstelle eine Verjährungs- und Abnahmespur: Klausel, Abnahmeakt, Wirksamkeit, Verjährungsbeginn, Ansprüche, nächster Schritt.
+| Klausel | Befund | Norm | konkrete Benachteiligung | Gegenargument | Antwort | neue Fassung |
+| --- | --- | --- | --- | --- | --- | --- |
+
+Jede Tabellenzeile muss den Originalwortlaut oder die Klauselnummer nennen.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

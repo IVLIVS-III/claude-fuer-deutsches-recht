@@ -60,7 +60,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhaeltnismaessigkeitskontrolle.
 - BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98, BVerfGE 115, 25: Bei lebensbedrohlicher Erkrankung kann ausnahmsweise ein Anspruch auf neue Behandlungsmethoden bestehen
 - BSG, Urteil vom 28.05.2019 - B 1 KR 32/18 R, frei nachweisbar über sozialgerichtsbarkeit.de/dejure: Krankenhausbehandlung und neue Methoden verlangen die Abgrenzung von Standard, Potential
-- BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09, 1 BvL 3/09 und 1 BvL 4/09, BVerfGE 125, 175: Existenzsichernde Leistungen müssen realitätsgerecht, transparent und folgerichtig bemessen werden
 
 ## 7. Antwortform
 

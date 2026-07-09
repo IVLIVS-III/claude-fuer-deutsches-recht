@@ -1,25 +1,25 @@
-# Megaprompt: selbstvertreter-sozialgericht
+# Vollprüfung: selbstvertreter-sozialgericht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 138 Skills (gekuerzt fuer Chat-Fenster) des Plugins `selbstvertreter-sozialgericht`.
+Dieser Vollprüfung enthaelt top-8 von 138 Skills (gekuerzt fuer Chat-Fenster) des Plugins `selbstvertreter-sozialgericht`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Selbstvertreter-Sozialgericht-Plugin. Fragt Erfahrungslevel, Bescheid, Behörd…
-2. **orientierung-selbstvertreter-sozialgericht** — Einstieg für Bürger ohne Anwalt vor dem Sozialgericht. Überblick über Anfänger-Workflow, Widerspruch, Klage, Eilantrag, …
-3. **krankenkassen-hilfsmittel-33-sgb-v** — Krankenkassen-Hilfsmittel nach § 33 SGB V. Skill klaert die Voraussetzungen die Differenzierung Hilfsmittel im engeren S…
-4. **anhoerung-sozialverwaltungsverfahren-24-sgb-x** — Anhörung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstvertreter durch das Anhörungsrecht vor belast…
-5. **sachstandsanfrage-und-untaetigkeitsbeschwerde** — Sachstandsanfrage und Untaetigkeitsbeschwerde im Sozialverwaltungsverfahren. Skill klaert wie Selbstvertreter die Behörd…
-6. **akteneinsicht-25-sgb-x** — Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo Akteneinsicht beantragt wird Beschraenkung…
-7. **pflegekasse-pflegehilfsmittel-40-sgb-xi** — Pflegehilfsmittel nach § 40 SGB XI. Skill klaert die Versorgung mit zum Verbrauch bestimmten Pflegehilfsmitteln (40 Euro…
-8. **krankenkassen-mds-stellungnahme** — Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Skill erklaert die Rolle des MD bei Pflegegrad-Begutachtung…
+1. **kaltstart-triage** — Wenn es um Kaltstart Triage in selbstvertreter-sozialgericht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passende…
+2. **orientierung-selbstvertreter-sozialgericht** — Wenn es um Orientierung — Sich selbst vertreten am Sozialgericht in selbstvertreter-sozialgericht geht: prüft Frist, For…
+3. **untaetigkeitsklage-88-sgg** — Wenn es um Wenn die Behörde nichts tut — Untaetigkeitsklage Paragraf 88 SGG in selbstvertreter-sozialgericht geht: erste…
+4. **eilantrag-krankenkassen-leistung** — Wenn es um Eilantrag gegen die Krankenkasse — wenn Sie nicht warten können in selbstvertreter-sozialgericht geht: erstel…
+5. **anlagen-bezeichnen-und-sortieren-sozialgericht** — Wenn es um Anlagen zur Klage richtig bezeichnen sortieren und nummerieren in selbstvertreter-sozialgericht geht: erstell…
+6. **oertliche-zustaendigkeit-57-sgg** — Wenn es um Welches Sozialgericht in welcher Stadt? — Paragraf 57 SGG in selbstvertreter-sozialgericht geht: prüft Frist,…
+7. **wann-doch-anwalt-grenzfaelle-sozialgericht** — Wenn es um Wann sollten Sie doch einen Anwalt einschalten? in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, No…
+8. **wohngeld-und-sozialhilfe-grenzfaelle** — Wenn es um Wohngeld und Sozialhilfe — wo gehoeren Sie hin? in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, No…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting im Selbstvertreter-Sozialgericht-Plugin. Fragt Erfahrungslevel, Bescheid, Behörde, Ziel, Fristen, Notlage, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule vor und führt durch Widerspruch, Klage, Eilantrag, Beweis, Termin, Sanity-Check,..._
+_Wenn es um Kaltstart Triage in selbstvertreter-sozialgericht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Selbstvertreter Sozialgericht — Allgemein` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
@@ -66,7 +66,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 
 ### 1. Intake in 60 Sekunden
 
-Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+Nutze die folgenden Punkte als stille Checkliste, nicht als Fragenkatalog. Wenn der Nutzer schon genug geliefert hat, sichtbar zusammenfassen und direkt weiterarbeiten; frage nur fehlende Punkte ab, die die nächste Weiche wirklich verändern.
 
 | Punkt | Frage | Warum wichtig? |
 |---|---|---|
@@ -253,7 +253,7 @@ Hinweis: Dieser Skill stärkt die Selbstvertretung, indem er Fristen, Bescheidke
 
 ## Skill: `orientierung-selbstvertreter-sozialgericht`
 
-_Einstieg für Bürger ohne Anwalt vor dem Sozialgericht. Überblick über Anfänger-Workflow, Widerspruch, Klage, Eilantrag, Pflegegrad, Krankenkasse, Bürgergeld, Erwerbsminderungsrente, GdB, Sanity-Check, Rechtsprechungschat, Rechtsmittelgrenzen und Grundregeln des SGG._
+_Wenn es um Orientierung — Sich selbst vertreten am Sozialgericht in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Orientierung — Sich selbst vertreten am Sozialgericht
 
@@ -359,72 +359,155 @@ Stand: 05/2026. SGG aktuell. Mein Justizpostfach (MJP) seit 2024 für Buerger. B
 
 ---
 
-## Skill: `krankenkassen-hilfsmittel-33-sgb-v`
+## Skill: `untaetigkeitsklage-88-sgg`
 
-_Krankenkassen-Hilfsmittel nach § 33 SGB V. Skill klaert die Voraussetzungen die Differenzierung Hilfsmittel im engeren Sinn und Gebrauchsgegenstaende des taeglichen Lebens das Hilfsmittelverzeichnis G-BA und die aktuelle BSG-Rechtsprechung zu hochwertigen Hilfsmitteln Mehrkosten und Festbetraege...._
+_Wenn es um Wenn die Behörde nichts tut — Untaetigkeitsklage Paragraf 88 SGG in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Krankenkassen Hilfsmittel 33 Sgb V
+# Wenn die Behörde nichts tut — Untaetigkeitsklage § 88 SGG
 
 ## Fachlicher Anker
 
-- **Normen:** § 7, § 7a, §§ 20.
+- **Normen:** § 88 SGG, § 7, § 7a.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Anspruchsgrundlage
+## Worum geht es?
 
-§ 33 Abs. 1 SGB V: Versicherte haben Anspruch auf Hilfsmittel die im Einzelfall erforderlich sind, um den Erfolg der Krankenbehandlung zu sichern, einer drohenden Behinderung vorzubeugen oder eine Behinderung auszugleichen.
+Sie haben einen Antrag gestellt oder Widerspruch eingelegt. Und dann passiert nichts. Wochen, Monate. Die Untaetigkeitsklage zwingt die Behörde, endlich zu entscheiden.
 
-## Tatbestaende
+## In einfacher Sprache
 
-- Hilfsmittel zur Sicherung des Erfolgs der Krankenbehandlung (z. B. Kompressionsstruempfe).
-- Vorbeugung Behinderung (z. B. orthopaedische Einlagen).
-- Ausgleich Behinderung (Brille Hoergeraet Rollstuhl Prothesen).
+Sie haben einen Antrag gestellt. Die Behörde tut nichts. Nach langer Zeit können Sie zum Gericht. Das Gericht zwingt die Behörde, endlich zu antworten.
 
-## Negativabgrenzung
+## Wann brauchen Sie diese Skill?
 
-- Gebrauchsgegenstaende des taeglichen Lebens (Toaster Bett) — kein Anspruch.
-- Beispiel BSG: Klimaanlage als Hilfsmittel verneint.
+- Sie haben einen Antrag gestellt vor mehr als 6 Monaten.
+- Sie haben Widerspruch eingelegt vor mehr als 3 Monaten.
+- Die Behörde meldet sich nicht oder verzoegert.
 
-## Hilfsmittelverzeichnis
+## Fachbegriffe (kurz erklaert)
 
-- Bundesweites Hilfsmittelverzeichnis nach § 139 SGB V.
-- Indizwirkung — aber nicht abschliessend.
-- BSG-Linie: Aufnahme nicht zwingend, fehlende Aufnahme nicht ausschluss.
+- **Untaetigkeitsklage**: Klage darauf, dass die Behörde endlich entscheidet.
+- **Sachgrund**: Ein objektiver Grund, warum die Behörde noch nicht entschieden hat.
+- **Bescheidungsurteil**: Das Gericht zwingt die Behörde nur zu einer Entscheidung, nicht zu einer bestimmten Entscheidung.
 
-## Mehrkosten über Festbetrag
+## Rechtsgrundlagen
 
-- Bei hoeherer Hilfsmittelversorgung Eigenanteil oder Mehrkosten.
-- Erstattung der Mehrkosten nur bei medizinischer Notwendigkeit (BSG).
+- **§ 88 Abs. 1 SGG** — Untaetigkeitsklage bei Antragsverfahren nach 6 Monaten.
+- **§ 88 Abs. 2 SGG** — Bei Widerspruchsverfahren nach 3 Monaten.
+- **§ 131 SGG** — Bescheidungsurteil.
 
-## Antrag und Verfahren
+## Schritt-für-Schritt-Anleitung
 
-1. Aerztliche Verordnung.
-2. Kostenvoranschlag des Sanitaetshauses.
-3. Antrag bei Krankenkasse.
-4. Bei Ablehnung Widerspruch innerhalb eines Monats.
+### Schritt 1 — Fristen prüfen
 
-## Genehmigungsfiktion § 13 Abs. 3a SGB V
+- **Antrag bei Behörde**: 6 Monate seit Antragsdatum
+- **Widerspruch**: 3 Monate seit Widerspruchsdatum
 
-- Krankenkasse muss innerhalb von 3 Wochen entscheiden.
-- Bei Stellungnahme MD: 5 Wochen.
-- Bei Ueberschreitung: Genehmigungsfiktion mit Folge Anspruch.
+Erst nach Ablauf können Sie klagen.
 
-## Prüfraster
+### Schritt 2 — Vorab schriftliche Erinnerung
 
-1. Hilfsmittel im engeren Sinn?
-2. Verordnung vorhanden?
-3. Antrag innerhalb von Fristen?
-4. Genehmigungsfiktion eingetreten?
-5. Mehrkosten begruendbar?
+Vor der Klage ist es gut (nicht zwingend), nochmal zu erinnern. Mustertext:
+
+```
+[Behörde] [Ort, Datum]
+
+Az: [...]
+
+Erinnerung
+
+Sehr geehrte Damen und Herren,
+
+mein Antrag / Widerspruch vom [Datum] ist trotz mehrfacher Erinnerung bis heute nicht entschieden.
+
+Ich bitte um Entscheidung binnen 14 Tagen. Andernfalls werde ich Untaetigkeitsklage nach § 88 SGG erheben.
+
+Mit freundlichen Gruessen
+```
+
+### Schritt 3 — Klageschrift
+
+```
+Sozialgericht [Ort] [Ort, Datum]
+
+[Name]
+[Adresse]
+
+— Klaeger —
+
+gegen
+
+[Behörde]
+[Adresse]
+
+— Beklagte —
+
+wegen Untaetigkeit ([Stichwort])
+
+U N T A E T I G K E I T S K L A G E
+
+Ich erhebe Klage und beantrage:
+
+Die Beklagte wird verurteilt, ueber meinen Antrag vom [Datum] / Widerspruch vom [Datum] zu entscheiden.
+
+GRUENDE
+
+I. Sachverhalt
+- Antrag / Widerspruch vom [Datum] gestellt.
+- Bis heute keine Entscheidung.
+- Erinnerung am [Datum].
+- 6 / 3 Monate sind verstrichen.
+
+II. Rechtliche Wuerdigung
+Die Voraussetzungen des § 88 Abs. 1 / 2 SGG liegen vor. Ein sachlicher Grund für die Untaetigkeit ist nicht ersichtlich.
+
+Anlagen:
+- Antrag / Widerspruch
+- Schriftverkehr mit der Behörde
+
+[Unterschrift]
+```
+
+### Schritt 4 — Einreichen
+
+Wie sonst: schriftlich, Fax, MJP, oder zur Niederschrift.
+
+### Schritt 5 — Folge der Klage
+
+Drei Moeglichkeiten:
+
+- **Behörde entscheidet sofort**: Klage erledigt; Erstattung der Auslagen.
+- **Sachgrund**: Wenn die Behörde plausibel erklaeren kann, warum sie noch nicht entscheiden konnte, kann das Gericht die Klage abweisen oder Frist setzen.
+- **Verurteilung zur Bescheidung**: Das Gericht zwingt die Behörde, binnen [n] Wochen zu entscheiden.
+
+### Schritt 6 — Inhalt der Entscheidung
+
+Wichtig: Das Gericht entscheidet nur, DASS die Behörde entscheiden muss — nicht WIE. Wenn die Behörde dann negativ entscheidet, brauchen Sie wieder Widerspruch und ggf. neue Klage.
+
+## Worauf Sie besonders achten müssen
+
+- **Fristen sind streng**: 6 / 3 Monate. Vorher ist Klage unzulaessig.
+- **Sachgrund**: Prüfen Sie, ob die Behörde auf Unterlagen wartet, die Sie noch nicht eingereicht haben. Wenn ja: schnell nachreichen.
+- **Nicht Aufgeben**: Untaetigkeit-Klage ist meist erfolgreich und kostenfrei.
+
+## Typische Fehler
+
+- Vor Ablauf der Fristen klagen → unzulaessig
+- Klage ohne Erinnerung → erlaubt, aber Sachgrund hat dann mehr Gewicht
+- Nicht erkennen, dass Untaetigkeitsklage nur Pflicht zur Entscheidung erzwingt → realistisch bleiben
+
+## Quellen und Aktualitaet
+
+Stand: 05/2026. § 88 SGG aktuell. Lange Bearbeitungszeiten bei MD-Prüfungen oft Sachgrund — aber nicht unbegrenzt.
 
 ---
 
-## Skill: `anhoerung-sozialverwaltungsverfahren-24-sgb-x`
+## Skill: `eilantrag-krankenkassen-leistung`
 
-_Anhörung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstvertreter durch das Anhörungsrecht vor belastendem Verwaltungsakt: Inhalt der Anhörungspflicht Ausnahmen Fristsetzung Stellungnahme Heilung im Widerspruchsverfahren. Liefert Vorlagentext und Prüfraster._
+_Wenn es um Eilantrag gegen die Krankenkasse — wenn Sie nicht warten können in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Anhörung Im Sozialverwaltungsverfahren 24 Sgb X
+# Eilantrag gegen die Krankenkasse — wenn Sie nicht warten können
 
 ## Fachlicher Anker
 
@@ -432,268 +515,385 @@ _Anhörung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstve
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Wann ist anzuhoeren
+## Worum geht es?
 
-§ 24 Abs. 1 SGB X: Vor Erlass eines belastenden Verwaltungsakts soll der Beteiligte angehoert werden. Belastend ist auch jede Änderung zu Lasten — Aufhebung Rueckforderung Sanktion Leistungskuerzung.
+Die Krankenkasse lehnt eine wichtige Behandlung oder ein Hilfsmittel ab. Sie brauchen es aber dringend — sonst verschlechtert sich Ihre Gesundheit. Diese Skill zeigt, wie Sie schnell beim SG einen Eilantrag stellen.
 
-## Ausnahmen § 24 Abs. 2 SGB X
+## In einfacher Sprache
 
-- Sofortige Entscheidung wegen Gefahr im Verzug.
-- Anhörung wuerde die Frist gefaehrden.
-- Massenverfahren mit gleichen Tatsachen.
-- Allgemeine Anordnung an unbestimmten Personenkreis.
+Die Krankenkasse sagt Nein. Aber Sie brauchen die Hilfe schnell. Sie können zum Sozialgericht gehen. Das Gericht kann der Krankenkasse sagen: bezahlen Sie das jetzt. Das geht in wenigen Wochen.
 
-## Was tun
+## Wann brauchen Sie diese Skill?
 
-1. Anhörungsschreiben aufmerksam lesen.
-2. Frist (regelmaessig 2-4 Wochen) im Fristenbuch notieren.
-3. Schriftliche Stellungnahme:
- - Bestaetigung was richtig ist.
- - Bestreiten was falsch ist mit Beweisangebot.
- - Mitwirkung zur Sachaufklaerung anbieten.
- - Antrag auf Akteneinsicht stellen (siehe Skill `akteneinsicht-25-sgb-x`).
-4. Stellungnahme rechtzeitig per Einschreiben oder elektronisch einreichen.
+- Die Krankenkasse lehnt eine dringende Operation oder Therapie ab.
+- Ein lebenswichtiges Medikament wird nicht bezahlt.
+- Hilfsmittel (Rollstuhl, Hoergeraet, Prothese) wird verweigert.
+- Eine Reha wird abgelehnt, obwohl Sie sie dringend brauchen.
 
-## Wenn Anhörung unterblieben ist
+## Fachbegriffe (kurz erklaert)
 
-- Verwaltungsakt formell rechtswidrig (§ 41 Abs. 1 Nr. 3 SGB X).
-- Heilung möglich bis zum Abschluss des Widerspruchsverfahrens (§ 41 Abs. 2 SGB X) durch Nachholung.
-- Daher Anhörungsmangel im Widerspruch ruegen und materiell verteidigen.
+- **Hilfsmittel**: Geraete, die Sie wegen Krankheit oder Behinderung brauchen.
+- **Heilmittel**: Therapien wie Physiotherapie, Ergotherapie.
+- **Genehmigungsfiktion**: Wenn die Krankenkasse nicht rechtzeitig entscheidet (3 Wochen / 5 Wochen bei MD-Prüfung), gilt der Antrag als genehmigt (§ 13 Abs. 3a SGB V).
+- **Off-Label-Use**: Medikament wird ausserhalb der Zulassung verwendet (besondere Voraussetzungen).
 
-## Vorlage
+## Rechtsgrundlagen
 
-"In dem Verwaltungsverfahren zu Aktenzeichen [...] nehme ich zur Anhörung Stellung wie folgt: [...] Ich beantrage Akteneinsicht und behalte mir vor weitere Beweisangebote nachzureichen."
+- **§ 86b Abs. 2 SGG** — Einstweilige Anordnung.
+- **§ 13 Abs. 3a SGB V** — Genehmigungsfiktion bei Verzoegerung.
+- **§ 27 SGB V** — Anspruch auf Krankenbehandlung.
+- **§ 33 SGB V** — Hilfsmittel.
+- **§ 40 SGB V** — Reha.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Prüfraster
+## Schritt-für-Schritt-Anleitung
 
-1. Liegt belastender VA in Vorbereitung?
-2. Anhörung erfolgt?
-3. Ausnahme einschlaegig?
-4. Frist gewahrt?
-5. Stellungnahme abgegeben?
+### Schritt 1 — Genehmigungsfiktion prüfen
 
-## Normen und Rechtsprechung
+Wichtig! Wenn die Krankenkasse seit mehr als 3 Wochen nach Ihrem Antrag nicht entschieden hat (5 Wochen bei MD-Prüfung), gilt der Antrag als genehmigt (§ 13 Abs. 3a SGB V). Sie können die Leistung selbst beschaffen und sich erstatten lassen.
 
-### Kuratierte Normen-Bibliothek
+Schritte:
 
-- § 1 SGG (Sachliche Zuständigkeit Sozialgerichte)
-- §§ 51-55 SGG (Klagearten)
-- §§ 73, 73a SGG (Prozessbevollmächtigte, PKH)
-- §§ 86a, 86b SGG (aufschiebende Wirkung, einstweiliger Rechtsschutz)
-- § 105 SGG (Gerichtsbescheid)
-- § 109 SGG (Sachverständiger nach Wahl)
-- § 131 SGG (Urteilsformen)
-- §§ 183-197a SGG (Kosten)
-- §§ 12, 14 SGB I (Auskunft, Beratung)
-- § 44 SGB X (Zugunstenverfahren)
+1. Anschreiben an Krankenkasse: "Sie haben die Frist nach § 13 Abs. 3a SGB V versaeumt. Der Antrag gilt als genehmigt."
+2. Wenn KK trotzdem ablehnt: Klage / Eilantrag.
 
-### Leitentscheidungen
+### Schritt 2 — Eilantrag-Schriftsatz
 
-- BSG B 1 KR 12/15 R (sozialgerichtlicher Anspruchsbegriff)
-- BSG B 4 AS 22/15 R (SGB II Eingliederungsverwaltungsakt)
-- BVerfG 1 BvL 1/09 (Regelbedarf)
-- BSG B 14 AS 19/21 R (Sanktionsmaßstäbe)
-- BVerfG 1 BvR 1106/08 (effektiver Rechtsschutz Sozialgericht)
+```
+Sozialgericht [Ort] [Ort, Datum]
 
-### Anwendung im Skill
+In dem Verfahren
 
-- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung prüfen.
-- PKH § 73a SGG: Bediduerftigkeit + Erfolgsaussicht; ablehnender Beschluss mit § 73a Abs. 1 SGG-Beschwerde angreifbar.
-- Zugunstenverfahren § 44 SGB X erlaubt Korrektur bestandskraeftiger Bescheide; 4-Jahres-Frist beachten.
+[Name, Geburtsdatum]
+[Adresse]
+
+— Antragsteller —
+
+gegen
+
+[Krankenkasse]
+[Adresse]
+— Versicherten-Nr.: [aus Karte] —
+
+— Antragsgegner —
+
+wegen [konkret z.B. Hoergeraet-Versorgung]; Eilantrag
+
+A N T R A G
+
+1. Der Antragsgegner wird im Wege der einstweiligen Anordnung gem. § 86b Abs. 2 SGG verpflichtet, mir vorlaeufig [konkrete Leistung] zu gewaehren / zu bewilligen.
+
+2. Hilfsweise: festzustellen, dass die Genehmigungsfiktion nach § 13 Abs. 3a SGB V eingetreten ist.
+
+3. Prozesskostenhilfe wird beantragt.
+
+GRUENDE
+
+I. Sachverhalt
+[Antrag bei KK am..., Ablehnung am..., Widerspruch am..., medizinischer Zustand...]
+
+II. Anordnungsanspruch
+Ich habe Anspruch auf [Leistung] nach § [27/33/40] SGB V, weil:
+- [Diagnose und Notwendigkeit]
+- [Aerztliche Verordnung / Empfehlung]
+- [Hilfsmittel-Verzeichnis Position / Festbetrag]
+
+III. Anordnungsgrund
+Ohne sofortige [Leistung] drohen mir folgende Schaeden:
+- [Verschlechterung der Erkrankung, konkret]
+- [Verlust der Erwerbsfaehigkeit / Mobilitaet]
+- [Hospitalisierungsrisiko]
+
+Diese Schaeden sind unumkehrbar / nur schwer rueckgaengig zu machen.
+
+IV. Glaubhaftmachung
+- Anlage 1: aerztliche Atteste [Datum, Arzt, Diagnose]
+- Anlage 2: aerztliche Verordnung
+- Anlage 3: Ablehnungsbescheid KK
+- Anlage 4: Widerspruch
+- Anlage 5: Eidesstattliche Versicherung
+
+[Unterschrift]
+```
+
+### Schritt 3 — Aerztliche Unterstuetzung organisieren
+
+Das ist der Schlüssel: Ihr Arzt muss schreiben, warum die Behandlung dringend ist.
+
+Bitten Sie Ihren Arzt um ein **medizinisches Attest mit Dringlichkeit**:
+
+- Diagnose
+- Bisherige Therapien
+- Begruendung der Notwendigkeit
+- Konsequenzen ohne Behandlung
+- Zeitliche Dringlichkeit
+
+### Schritt 4 — Eilbeduerftigkeit konkret
+
+Das Gericht muss erkennen, dass es jetzt eilt. Beispiele:
+
+- "Bei Verzoegerung um mehr als 4 Wochen droht eine Operation, die andernfalls vermieden werden koennte."
+- "Ohne sofortige Hoergeraet-Versorgung ist die Teilhabe am beruflichen Alltag nicht mehr möglich; Arbeitsplatzverlust droht."
+
+### Schritt 5 — Schnelle Wege nutzen
+
+- Per Fax oder Mein Justizpostfach (schnellster Weg)
+- Bei akut lebensbedrohlichen Faellen: anrufen, dass eine Eilentscheidung dringend ist
+
+### Schritt 6 — Bei Erfolg
+
+Das Gericht ordnet die Leistung vorlaeufig an. Die KK muss bezahlen. Die Hauptsache (Widerspruch und ggf. Klage) laeuft trotzdem weiter.
+
+## Worauf Sie besonders achten müssen
+
+- **Genehmigungsfiktion ist Geheimwaffe**: Wenn die KK Fristen reisst, ist der Antrag fiktiv genehmigt. Prüfen Sie immer die Fristen.
+- **Aerztliche Atteste sind das Wichtigste**: ohne aerztliche Unterstuetzung kaum Eilantrag-Erfolg.
+- **Off-Label und nicht zugelassene Behandlungen**: enge Voraussetzungen. BSG-Linie prüfen.
+- **Reha ist nicht immer akut**: Reha-Ablehnung müssen Sie eher in Hauptverfahren angreifen; Eilantrag schwerer.
+
+## Typische Fehler
+
+- Genehmigungsfiktion vergessen → erst prüfen!
+- Eilantrag ohne aerztliches Attest → Arzt einbinden
+- "Lange leiden" als Argument → keine Eilbeduerftigkeit ohne unumkehrbaren Schaden
+- An die Krankenkasse statt ans SG → SG ist Adressat
+
+## Quellen und Aktualitaet
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
-## Skill: `sachstandsanfrage-und-untaetigkeitsbeschwerde`
+## Skill: `anlagen-bezeichnen-und-sortieren-sozialgericht`
 
-_Sachstandsanfrage und Untaetigkeitsbeschwerde im Sozialverwaltungsverfahren. Skill klaert wie Selbstvertreter die Behörde anhalten koennen wenn diese ueberhaupt nicht entscheidet — Sachstandsanfrage formelle Dienstaufsichtsbeschwerde Untaetigkeitsklage 88 SGG. Liefert Vorlage._
+_Wenn es um Anlagen zur Klage richtig bezeichnen sortieren und nummerieren in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Sachstandsanfrage Und Untaetigkeitsbeschwerde
+# Anlagen zur Klage richtig bezeichnen sortieren und nummerieren
 
-## Fachlicher Anker
 
-- **Normen:** § 7, § 7a, §§ 20.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+## Arbeitsbereich
 
-## Stufenfolge
+**Akteneinsicht SGB Amtsermittlungsgrundsatz** ordnet den Fall über die tragenden Prüfungslinien: Akteneinsicht in die Sozialakte nach § 25 SGB X, Das Gericht ermittelt für Sie § 103 SGG, Die Anfechtungsklage nach § 54 Abs. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 
-### 1. Sachstandsanfrage
-- Schriftliche freundliche Erinnerung nach 4-6 Wochen.
-- Hinweis auf Frist.
+## Arbeitsweg
 
-### 2. Mahnung mit Fristsetzung
-- Nach weiteren 4 Wochen.
-- Konkrete Frist von 14 Tagen mit Hinweis auf Untaetigkeitsklage.
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-### 3. Dienstaufsichtsbeschwerde
-- An die uebergeordnete Stelle.
-- Bei Krankenkassen: Aufsichtsbehoerde des Landes.
-- Bei Jobcenter: Bundesagentur für Arbeit / Geschäftsführung.
-- Bei DRV: Bundesversicherungsamt.
+**Fokus:** Anlagen zur Klage richtig bezeichnen sortieren und nummerieren. K-Anlagen für Kläger Anlagenverzeichnis Lesbarkeit. Tipps für Buerger im SG-Verfahren.
 
-### 4. Untaetigkeitsklage § 88 SGG
-- Frist: 6 Monate nach Antragstellung (im Widerspruch 3 Monate).
-- Beim Sozialgericht ohne Kosten.
-- Antrag: "Den Beklagten zur Bescheidung des Antrags vom [...] zu verurteilen."
+### Anlagen zur Klage — sortieren und bezeichnen
 
-## Vorlage Sachstandsanfrage
+## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anlagen zur Klage — sortieren und bezeichnen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
+- **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrer/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
+- **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
+- **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-"In dem Verwaltungsverfahren zu Aktenzeichen [...] bitte ich um Mitteilung des Sachstands. Mein Antrag vom [Datum] ist seit [Wochen] anhaengig. Bitte teilen Sie mir mit ob noch Unterlagen fehlen und wann mit einer Entscheidung zu rechnen ist."
+## Worum geht es?
 
-## Vorlage Mahnung
+Ihre Klage hat Anlagen: Bescheid, Atteste, Briefe. Wenn diese unsortiert ankommen, wird Ihnen niemand folgen können. Diese Skill zeigt, wie Sie Anlagen ordentlich vorbereiten.
 
-"Trotz meiner Sachstandsanfrage vom [Datum] ist bisher keine Entscheidung ergangen. Ich setze hiermit Frist bis zum [Datum 14 Tage später]. Andernfalls werde ich Untaetigkeitsklage erheben."
+## In einfacher Sprache
 
-## Prüfraster
+Sie haben viele Papiere als Beweis. Ordnen Sie diese. Nummerieren Sie sie. So findet das Gericht alles schnell. Und Sie auch.
 
-1. Wartezeit seit Antrag?
-2. Sachstandsanfrage erfolgt?
-3. Mahnung mit Fristsetzung?
-4. Dienstaufsichtsbeschwerde sinnvoll?
-5. Untaetigkeitsklage Voraussetzungen?
+## Wann brauchen Sie diese Skill?
 
----
+- Sie reichen Klage ein und haben viele Belege.
+- Sie wollen, dass das Gericht Ihre Sache schnell versteht.
 
-## Skill: `akteneinsicht-25-sgb-x`
+## Fachbegriffe (kurz erklaert)
 
-_Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo Akteneinsicht beantragt wird Beschraenkungen aus § 25 Abs. 3 SGB X (Privatangelegenheiten Dritter Geschäftsgeheimnisse Schutz Dritter) und das Verhältnis zur DSGVO-Auskunft. Liefert Antragsvorlage._
+- **Anlage**: Beilage zum Schriftsatz.
+- **Anlagenverzeichnis**: Liste aller Anlagen am Ende oder Anfang.
+- **K-Anlage / B-Anlage**: K für Kläger, B für Beklagte.
+- **Konvolut**: Mehrere zusammen geheftete Dokumente.
 
-# Akteneinsicht 25 Sgb X
+## Rechtsgrundlagen
 
-## Fachlicher Anker
+- **§ 92 Abs. 2 SGG** — Anlagen sollen beigefuegt werden.
+- **§ 93 SGG** — Abschriften.
+- Allgemeine Praxis der Sozialgerichtsbarkeit.
 
-- **Normen:** § 7, § 7a, §§ 20.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+## Schritt-für-Schritt-Anleitung
 
-## Anspruch
+### Schritt 1 — Was wirklich noetig?
 
-§ 25 Abs. 1 SGB X gibt Beteiligten Recht auf Akteneinsicht, soweit das Wissen vom Akteninhalt zur Geltendmachung oder Verteidigung rechtlicher Interessen erforderlich ist.
+Nicht alles muss als Anlage rein. Nur das, was Ihren Vortrag belegt. Drei Kategorien:
 
-## Beschraenkung § 25 Abs. 3 SGB X
+- **Muss**: Bescheid, Widerspruchsbescheid, eigene Schreiben an Behörde.
+- **Sollte**: Atteste, aerztliche Berichte, Kontoauszuege bei Geld-Sachen.
+- **Kann**: Allgemeines Informations-Material, Fotos der Wohnung etc. (selten noetig).
 
-- Akten zur Vorbereitung der Entscheidung (Entwurfsakten): teilweise gesperrt.
-- Persoenliche Verhältnisse Dritter.
-- Geschäftsgeheimnisse Dritter.
-- Schwerwiegende Belange Dritter.
+### Schritt 2 — Bezeichnung
 
-## Wann beantragen
+Bewaehrt: K1, K2, K3 für Kläger-Anlagen. (Beklagte nutzt B1, B2 etc.)
 
-- Sofort nach Anhörung oder Widerspruchseinlegung.
-- Im laufenden Antragsverfahren ueberall möglich.
+Beispiele:
 
-## Wo beantragen
+- K1: Bescheid der DRV vom 22.4.2026
+- K2: Widerspruchsbescheid vom 12.7.2026
+- K3: Hausarzt-Bericht Dr. Mueller vom 1.2.2026
+- K4: Facharzt-Bericht Dr. Schmidt vom 15.3.2026
 
-- Bei der Behörde die die Akte fuehrt (Jobcenter, Krankenkasse, Rentenversicherung, Pflegekasse, Versorgungsamt, BG, Familienkasse).
-- Form: schriftlich oder elektronisch.
+### Schritt 3 — Sortierung
 
-## Vorgang
+Sortiere chronologisch oder thematisch:
 
-- Behörde gewaehrt Einsicht in den Diensträumen.
-- Auf Antrag oft auch Kopie / Scan zugesandt — gegen Kostenpauschale.
+- Chronologisch: aelteste zuerst (wenn Verfahrenshistorie wichtig)
+- Thematisch: Bescheide zusammen, dann Atteste, dann sonstiges
 
-## Verhältnis zur DSGVO
+Wenn beides geht: nach Thema, innerhalb chronologisch.
 
-- DSGVO Art. 15 gibt zusaetzliches Auskunftsrecht.
-- DSGVO ist nicht durch § 25 SGB X verdraengt.
-- Bei Streit über Akteninhalt beide Anspruchsgrundlagen geltend machen.
+### Schritt 4 — Anlagenverzeichnis
 
-## Vorlage
+Am Ende der Klage:
 
-"Hiermit beantrage ich nach § 25 SGB X Einsicht in die Sozialakte zum Aktenzeichen [...] sowie hilfsweise Auskunft nach Art. 15 DSGVO. Ich bitte um Mitteilung des Termins bzw. Uebersendung der Akte in Kopie oder als PDF."
+```
+Anlagenverzeichnis:
 
-## Prüfraster
+K1: Bescheid DRV vom 22.4.2026 (3 Seiten)
+K2: Widerspruchsbescheid vom 12.7.2026 (4 Seiten)
+K3: Hausarzt-Bericht Dr. Mueller vom 1.2.2026 (2 Seiten)
+K4: Facharzt-Bericht Dr. Schmidt vom 15.3.2026 (3 Seiten)
+K5: Pflegeprotokoll vom 1.1. bis 15.1.2026 (15 Seiten)
+```
 
-1. Rechtliches Interesse?
-2. Antrag formuliert?
-3. Beschraenkung relevant?
-4. DSGVO parallel beantragt?
+### Schritt 5 — Auf jedes Dokument K-Nummer
 
-## Normen und Rechtsprechung
+Oben rechts auf der ersten Seite jedes Dokuments handschriftlich oder mit Stempel: "K3" o.ae. So findet jeder schnell.
 
-### Kuratierte Normen-Bibliothek
+### Schritt 6 — Heften und vorbereiten
 
-- § 1 SGG (Sachliche Zuständigkeit Sozialgerichte)
-- §§ 51-55 SGG (Klagearten)
-- §§ 73, 73a SGG (Prozessbevollmächtigte, PKH)
-- §§ 86a, 86b SGG (aufschiebende Wirkung, einstweiliger Rechtsschutz)
-- § 105 SGG (Gerichtsbescheid)
-- § 109 SGG (Sachverständiger nach Wahl)
-- § 131 SGG (Urteilsformen)
-- §§ 183-197a SGG (Kosten)
-- §§ 12, 14 SGB I (Auskunft, Beratung)
-- § 44 SGB X (Zugunstenverfahren)
+- Locher-Loecher: nicht über die Schrift.
+- Klammern: am Rand oben links.
+- Konvolut: alle Anlagen zusammenhalten.
 
-### Leitentscheidungen
+Pro Beklagter ein vollstaendiges Anlagenpaket.
 
-- BSG B 1 KR 12/15 R (sozialgerichtlicher Anspruchsbegriff)
-- BSG B 4 AS 22/15 R (SGB II Eingliederungsverwaltungsakt)
-- BVerfG 1 BvL 1/09 (Regelbedarf)
-- BSG B 14 AS 19/21 R (Sanktionsmaßstäbe)
-- BVerfG 1 BvR 1106/08 (effektiver Rechtsschutz Sozialgericht)
+### Schritt 7 — Bei Originalen
 
-### Anwendung im Skill
+Originale behalten Sie. Senden Sie Kopien. Auf der Kopie: "Kopie" oder "Abschrift".
 
-- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung prüfen.
-- PKH § 73a SGG: Bediduerftigkeit + Erfolgsaussicht; ablehnender Beschluss mit § 73a Abs. 1 SGG-Beschwerde angreifbar.
-- Zugunstenverfahren § 44 SGB X erlaubt Korrektur bestandskraeftiger Bescheide; 4-Jahres-Frist beachten.
+Wenn das Gericht ein Original braucht (z.B. Original-Vollmacht), wird es ausdruecklich angefordert.
 
----
+## Worauf Sie besonders achten müssen
 
-## Skill: `pflegekasse-pflegehilfsmittel-40-sgb-xi`
+- **Lesbarkeit**: Kopien müssen lesbar sein. Bei verblassten Originalen vorher digital korrigieren.
+- **Personenbezogene Daten**: Was nicht zum Streit gehoert, schwaerzen Sie (z.B. Geburtsdatum von Familienmitgliedern).
+- **Datenschutz**: Bei Arztberichten anderer Personen schwaerzen.
+- **Aktuelle Bezeichnung**: Wenn die Behörde umgewandelt wurde (z.B. MDK zu MD), kurz darauf hinweisen.
 
-_Pflegehilfsmittel nach § 40 SGB XI. Skill klaert die Versorgung mit zum Verbrauch bestimmten Pflegehilfsmitteln (40 Euro/Monat) und technischen Pflegehilfsmitteln (Pflegebett Rollstuhl) sowie die wohnumfeldverbessernden Maßnahmen (4000 Euro Zuschuss). Liefert Antragsvorlage._
+## Typische Fehler
 
-# Pflegekasse Pflegehilfsmittel 40 Sgb Xi
+- Originale eingesandt → Kopien reichen
+- Keine Nummerierung → schwer auffindbar
+- Kein Anlagenverzeichnis → Verwirrung
+- Falsche Reihenfolge → chronologisch oder thematisch sortieren
 
-## Fachlicher Anker
+## Quellen und Aktualitaet
 
-- **Normen:** § 7, § 7a, §§ 20.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Verbrauchspflegehilfsmittel
-
-§ 40 Abs. 2 SGB XI: Bis zu 40 Euro/Monat für zum Verbrauch bestimmte Pflegehilfsmittel.
-
-- Beispiele: Einmalhandschuhe Bettschutzeinlagen Desinfektionsmittel.
-- Direkter Bezug über Anbieter oder Apotheke.
-
-## Technische Pflegehilfsmittel
-
-§ 40 Abs. 1 SGB XI:
-- Pflegebett.
-- Rollstuhl (vorrangig SGB V).
-- Lagerungshilfen.
-- Notrufsysteme.
-
-## Wohnumfeldverbessernde Maßnahmen
-
-§ 40 Abs. 4 SGB XI:
-- Treppenlift Badewanneneinstieg Tuerverbreiterung.
-- Zuschuss bis 4000 Euro je Maßnahme.
-- Bei mehreren Pflegebeduerftigen im Haushalt addieren.
-
-## Antrag
-
-- Bei der Pflegekasse.
-- Kostenvoranschlag, Notwendigkeitsnachweis.
-
-## Prüfraster
-
-1. Welcher Bedarf?
-2. Verbrauchs- oder technisches Hilfsmittel?
-3. Wohnumfeldmassnahme?
-4. Kostenvoranschlag eingereicht?
-5. Hoechstbetraege beachtet?
+Stand: 05/2026. Praxis der Sozialgerichtsbarkeit. Standard ist K- bzw. B-Bezeichnung.
 
 ---
 
-## Skill: `krankenkassen-mds-stellungnahme`
+## Skill: `oertliche-zustaendigkeit-57-sgg`
 
-_Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Skill erklaert die Rolle des MD bei Pflegegrad-Begutachtung Reha Hilfsmittel Krankengeld AU-Prüfung sowie wie Selbstvertreter mit MD-Berichten umgehen Akteneinsicht Widerlegung Privatgutachten. Liefert Prüfraster._
+_Wenn es um Welches Sozialgericht in welcher Stadt? — Paragraf 57 SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Krankenkassen Mds Stellungnahme
+# Welches Sozialgericht in welcher Stadt? — § 57 SGG
+
+## Fachlicher Anker
+
+- **Normen:** § 57 SGG, § 7, § 7a.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Worum geht es?
+
+Sie wissen, dass das Sozialgericht zuständig ist. Aber welches? In Deutschland gibt es viele SG. Diese Skill zeigt, welches für Sie zuständig ist.
+
+## In einfacher Sprache
+
+Es gibt viele Sozialgerichte. Das richtige ist meistens dort, wo Sie wohnen. Wir helfen Ihnen, das passende zu finden.
+
+## Wann brauchen Sie diese Skill?
+
+- Sie wollen Klage einreichen und kennen das zuständige SG nicht.
+- Sie sind umgezogen.
+- Ihr Bescheid kommt aus einer anderen Stadt.
+
+## Fachbegriffe (kurz erklaert)
+
+- **Oertliche Zuständigkeit**: Welches SG in welcher Region?
+- **Wohnsitz**: Wo Sie gemeldet sind und tatsaechlich leben.
+- **Behörden-Sitz**: Wo die beklagte Behörde sitzt.
+
+## Rechtsgrundlagen
+
+- **§ 57 Abs. 1 SGG** — Grundsatz: das SG, in dessen Bezirk Sie wohnen.
+- **§ 57 Abs. 2 SGG** — Sondervorschriften (z.B. Berufsgenossenschaft am Sitz der BG).
+- **§ 57a SGG** — Sonderzuständigkeit für Vertragsarzt-Sachen.
+- **§ 98 SGG** — Verweisung bei falscher Zuständigkeit.
+
+## Schritt-für-Schritt-Anleitung
+
+### Schritt 1 — Ihren Wohnort prüfen
+
+Wo wohnen Sie? Bei welchem SG das ist, sehen Sie hier:
+
+- www.sozialgerichtsbarkeit.de — Liste aller SG
+- Geben Sie den Namen Ihrer Stadt ein.
+
+### Schritt 2 — Sonderregeln prüfen
+
+- **Auslandswohnsitz**: Bei Wohnsitz im Ausland gilt der letzte Wohnsitz in Deutschland. Wenn nie in Deutschland gewohnt: Sitz der beklagten Behörde.
+- **Berufsgenossenschaft (SGB VII)**: SG am Sitz der BG (also z.B. Berufsgenossenschaft Rohstoffe und Chemische Industrie in Heidelberg).
+- **Vertragsarzt-Streit**: SG am Sitz der Kassenaerztlichen Vereinigung.
+
+### Schritt 3 — Bei Umzug
+
+Wenn Sie umgezogen sind, ist der neue Wohnort entscheidend, sofern Klage noch nicht erhoben. Nach Klageerhebung gilt der damalige Wohnsitz weiter (perpetuatio fori).
+
+### Schritt 4 — Klage abgeben
+
+- **Persoenlich** auf der Geschäftsstelle (siehe `klage-zur-niederschrift-90-sgg`)
+- **Per Post** mit Einschreiben (Zustellungsnachweis sicher)
+- **Per Mein Justizpostfach** (MJP, siehe `einreichung-mein-justizpostfach-mjp-sozialgericht`)
+- **Per Fax** (siehe `einreichung-fax-und-grenzen-sozialgericht`)
+
+### Schritt 5 — Falsches Gericht angeschrieben
+
+Kein Problem: § 98 SGG i.V.m. § 17a GVG. Das angeschriebene Gericht verweist Ihren Fall ans richtige. Die Frist bleibt gewahrt — wichtig!
+
+## Worauf Sie besonders achten müssen
+
+- **Verweisung kostet Zeit.** Direkt richtig adressieren spart Wochen.
+- **Adresse aus dem Bescheid** uebernehmen, nicht aus dem Briefkopf der Behörde. Manche Behörden bearbeiten zentral, aber Ihr SG richtet sich nach Ihrem Wohnort.
+
+## Typische Fehler
+
+- SG der Behörde gewaehlt → falsch, wenn Sie woanders wohnen
+- Klage ans LSG geschickt → erste Instanz ist immer SG
+- Mehrere SG-Adressen verwechselt → www.sozialgerichtsbarkeit.de prüfen
+
+## Quellen und Aktualitaet
+
+Stand: 05/2026. Liste aller SG unter www.sozialgerichtsbarkeit.de. Verweisung nach § 98 SGG haelt die Frist.
+
+---
+
+## Skill: `wann-doch-anwalt-grenzfaelle-sozialgericht`
+
+_Wenn es um Wann sollten Sie doch einen Anwalt einschalten? in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Wann sollten Sie doch einen Anwalt einschalten?
 
 ## Fachlicher Anker
 
@@ -701,57 +901,237 @@ _Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Skill erklaert die
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Rolle des MD
+## Worum geht es?
 
-- Frueher Medizinischer Dienst der Krankenversicherung (MDK), seit 2020 eigenstaendige Koerperschaft Medizinischer Dienst (MD).
-- Begutachtung von Pflegegrad Reha Hilfsmittel Arbeitsunfaehigkeit.
+Dieses Plugin hilft Ihnen, sich selbst zu vertreten. Aber manchmal ist Anwalt besser. Diese Skill ist eine ehrliche Entscheidungshilfe.
 
-## Gutachtenarten
+## In einfacher Sprache
 
-### Pflegegradgutachten
-- Hausbesuch in der Regel.
-- Modul 1 bis 6 nach Pflegestaerkungsgesetzen.
+Manchmal ist es klueger, einen Anwalt zu nehmen. Wir sagen Ihnen, wann.
 
-### AU-Prüfung
-- Bei laenger andauernder AU.
-- "Auf Heller und Pfennig" prüfen — kritisches Gutachten.
+## Wann brauchen Sie diese Skill?
 
-### Reha-Begutachtung
-- Notwendigkeit Reha prüfen.
+- Sie sind unsicher, ob Sie weiter selbst vorgehen.
+- Ihr Fall wird komplexer.
+- Sie verlieren ein Verfahren und ueberlegen Berufung.
 
-### Hilfsmittel-Begutachtung
-- Erforderlichkeit und Mehrkosten.
+## Fachbegriffe (kurz erklaert)
 
-## Akteneinsicht in MD-Gutachten
+- **PKH**: Prozesskostenhilfe — Staatliche Uebernahme der Anwaltskosten.
+- **Beratungshilfe**: 15 EUR Eigenanteil für Anwalts-Beratung vor dem Verfahren.
+- **Fachanwalt für Sozialrecht**: Spezialisierter Anwalt mit Erfahrung im SGG.
 
-- § 25 SGB X.
-- Krankenkasse muss Gutachten an Versicherten herausgeben.
+## Rechtsgrundlagen
 
-## Widerlegung
+- **§ 73 SGG** — Anwaltszwang nur vor BSG.
+- **§ 73a SGG** — PKH.
+- **Beratungshilfegesetz (BerHG)** — Beratungshilfe.
 
-- Eigene aerztliche Berichte.
-- Privatgutachten — Kosten Eigentleistung idR.
-- Beweisantrag im Widerspruchsverfahren.
+## Schritt-für-Schritt-Anleitung
 
-## Probleme
+### Konstellation 1 — Komplexer medizinischer Streit
 
-- Standardisierung schwach.
-- Subjektive Eindrucks-Bewertung.
-- Telefonbegutachtung oft kritisch.
+Wann: Mehrere Diagnosen, widersprechende Atteste, Sachverstaendigen-Streit.
 
-## Prüfraster
+Warum Anwalt: kann sicher mit Atteste-Argumenten umgehen, § 109 SGG strategisch nutzen.
 
-1. Welches Gutachten?
-2. Akteneinsicht erfolgt?
-3. Inhaltliche Schwaechen?
-4. Eigene Beweise?
-5. Widerspruchsstrategie?
+### Konstellation 2 — Mehrere Bescheide zusammen
+
+Wann: Krankengeld + Buergergeld + EM-Rente + Reha — alles gleichzeitig im Streit.
+
+Warum Anwalt: Übersicht über Wechselwirkungen, mehrere Verfahren parallel fuehren.
+
+### Konstellation 3 — Berufung beim LSG
+
+Wann: Sie haben am SG verloren und wollen ins LSG.
+
+Warum Anwalt: Verfahren wird formeller; Behörde hat dann oft Anwalt.
+
+### Konstellation 4 — Existenzielle Bedeutung
+
+Wann: Volle EM-Rente, lebenslang, gegen hartnaeckige Beklagte.
+
+Warum Anwalt: Lebenseinkommen haengt davon ab.
+
+### Konstellation 5 — Rechtsfragen mit Grundsatzcharakter
+
+Wann: Frage, die noch nicht entschieden ist; Berufung von grundsaetzlicher Bedeutung.
+
+Warum Anwalt: Verfassungsrechtliche Argumente, Praezedenzfaelle.
+
+### Konstellation 6 — Sanktion und Existenz
+
+Wann: Hohe Sanktionen über laengere Zeit.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Konstellation 7 — Schwerwiegende psychische Belastung
+
+Wann: Sie sind zu krank, um selbst zu kaempfen.
+
+Warum Anwalt: Sie schonen sich.
+
+### Konstellation 8 — Vor dem BSG
+
+Anwaltszwang. Sie MUESSEN Anwalt nehmen.
+
+## Schritt-für-Schritt: Anwalt finden
+
+### Schritt 1 — Beratungshilfe-Schein holen
+
+Bei Amtsgericht (siehe `beratungshilfe-vor-widerspruch-brh`).
+
+### Schritt 2 — Anwalt suchen
+
+- VdK / SoVD (oft schon im Mitgliedsbeitrag)
+- Fachanwalt für Sozialrecht (Anwaltsregister)
+- DAV-Suchportal www.anwaltverein.de
+
+### Schritt 3 — Erstgespraech
+
+- Beratungshilfe-Schein vorlegen (15 EUR Eigenanteil)
+- Sache schildern
+- Anwalt sagt Einschaetzung
+
+### Schritt 4 — Mandat erteilen
+
+- Vollmacht unterschreiben
+- PKH-Antrag (falls noetig)
+- Mandat startet
+
+### Schritt 5 — Mit Anwalt zusammenarbeiten
+
+- Sie sind nicht raus — Sie helfen mit
+- Atteste, Belege, Unterlagen weiterleiten
+- Termine wahrnehmen
+
+## Worauf Sie besonders achten müssen
+
+- **Sozialverbaende sind oft die guenstigste Loesung**: 5 bis 10 EUR Monatsbeitrag für komplette Vertretung.
+- **PKH beantragen** wenn Sie wenig Geld haben.
+- **Anwaltskosten bei Erfolg**: Beklagte erstattet (§ 193 SGG).
+
+## Typische Fehler
+
+- Anwalt zu spaet → Frist verpasst oder Sache verfahren
+- Anwalt suchen, der kein Sozialrecht kann → Fachanwalt suchen
+- Mandat ohne PKH-Antrag → Kosten-Risiko
+
+## Quellen und Aktualitaet
+
+Stand: 05/2026. Praxisempfehlung.
+
+---
+
+## Skill: `wohngeld-und-sozialhilfe-grenzfaelle`
+
+_Wenn es um Wohngeld und Sozialhilfe — wo gehoeren Sie hin? in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Wohngeld und Sozialhilfe — wo gehoeren Sie hin?
+
+## Fachlicher Anker
+
+- **Normen:** § 7, § 7a, §§ 20.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Worum geht es?
+
+Wohngeld und Sozialhilfe sind verschieden. Auch das zuständige Gericht ist verschieden. Diese Skill hilft Ihnen, das richtige Verfahren zu finden.
+
+## In einfacher Sprache
+
+Wohngeld und Sozialhilfe sind nicht das Gleiche. Wohngeld geht ans Verwaltungsgericht. Sozialhilfe ans Sozialgericht. Wir helfen Ihnen, das richtige Gericht zu finden.
+
+## Wann brauchen Sie diese Skill?
+
+- Streit über Wohngeld-Höhe.
+- Streit über Sozialhilfe-Bewilligung.
+- Sie wissen nicht, welches Gericht zuständig ist.
+
+## Fachbegriffe (kurz erklaert)
+
+- **Wohngeld** (WoGG): Zuschuss zur Miete für Personen mit geringem Einkommen.
+- **Sozialhilfe** (SGB XII): Lebensunterhalt-Sicherung.
+- **Wohngeldbehoerde**: meist die Stadt oder der Kreis.
+- **Sozialamt**: Behörde für SGB XII.
+
+## Rechtsgrundlagen
+
+- **Wohngeldgesetz (WoGG)** — Anspruch und Höhe.
+- **§ 7 SGB II** — Buergergeld.
+- **§ 41 SGB XII** — Grundsicherung im Alter / bei dauerhafter EM.
+- **§ 51 SGG** — Sozialgerichts-Zuständigkeit.
+- **§ 40 VwGO** — Verwaltungsgerichts-Zuständigkeit.
+
+## Schritt-für-Schritt-Anleitung
+
+### Schritt 1 — Was ist was?
+
+| Leistung | Behörde | Gericht |
+|---|---|---|
+| Wohngeld | Wohngeldbehoerde (Stadt) | Verwaltungsgericht |
+| Buergergeld | Jobcenter | Sozialgericht |
+| Sozialhilfe / Grundsicherung | Sozialamt | Sozialgericht |
+| KdU als Teil Buergergeld | Jobcenter | Sozialgericht |
+
+### Schritt 2 — Abgrenzung Wohngeld zu Buergergeld
+
+- **Wohngeld**: Wenn Sie genug Geld zum Leben haben, aber die Miete zu hoch ist.
+- **Buergergeld + KdU**: Wenn Sie auch Geld für den Lebensunterhalt brauchen.
+
+In manchen Faellen können Sie wahlen — Wohngeld ist oft attraktiver, weil ohne Vermögens-Prüfung wie bei Buergergeld.
+
+### Schritt 3 — Wohngeld-Streit
+
+Bei Streit über Wohngeld:
+
+- Widerspruch (an die Wohngeldbehoerde)
+- Falls Widerspruch in den jeweiligen Bundeslaendern noch erforderlich (variiert)
+- Klage am **Verwaltungsgericht** (NICHT am Sozialgericht!)
+
+**Achtung**: Vor dem VG fallen Gerichtskosten an. Anders als SG. PKH möglich.
+
+### Schritt 4 — Sozialhilfe-Streit
+
+Bei Streit um Sozialhilfe / Grundsicherung:
+
+- Widerspruch (Sozialamt)
+- Klage am **Sozialgericht** (kostenfrei nach § 183 SGG)
+
+### Schritt 5 — Im Zweifel beide prüfen
+
+Wenn Sie nicht sicher sind, ob Sie Wohngeld oder Sozialhilfe / Buergergeld brauchen:
+
+- Antrag bei beiden Behörden
+- § 16 SGB I sichert Frist: ein Antrag gilt für alle
+- Behörden klären intern
+
+### Schritt 6 — Folge: Falsche Klage
+
+Wenn Sie eine Wohngeld-Klage ans SG schicken: das SG verweist ans VG (§ 17a GVG analog). Aber Sie verlieren Zeit.
+
+## Worauf Sie besonders achten müssen
+
+- **Wohngeld geht ans Verwaltungsgericht**, nicht ans SG.
+- **Wohngeld-Reform 2023 (Wohngeld-Plus)**: deutlich erhoeht. Prüfen Sie aktuellen Stand.
+- **Mehrfach beantragen**: bei mehreren moeglichen Leistungen prüfen Sie alle.
+
+## Typische Fehler
+
+- Wohngeld-Klage ans SG geschickt → Verweisung
+- Sozialhilfe-Klage ans VG → Verweisung
+- Beide Antraege vergessen → § 16 SGB I nutzen
+
+## Quellen und Aktualitaet
+
+Stand: 05/2026. Wohngeld-Reform 2023 (Wohngeld-Plus) erweiterte Berechtigte. Prüfen Sie aktuelle Werte unter www.bmwsb.bund.de.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

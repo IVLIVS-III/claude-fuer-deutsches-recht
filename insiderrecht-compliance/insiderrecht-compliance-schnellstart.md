@@ -52,10 +52,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - HGB Paragraf 105: offene Handelsgesellschaft.
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- Paragrafen 71–71e AktG: https://www.gesetze-im-internet.de/aktg/__71.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 71 ff. AktG: https://www.gesetze-im-internet.de/aktg/__71.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 257 HGB (Aufbewahrungsfristen): https://www.gesetze-im-internet.de/hgb/__257.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 147 AO (Aufbewahrungspflichten): https://www.gesetze-im-internet.de/ao1977/147.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 48–50 WpHG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
 - BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
 

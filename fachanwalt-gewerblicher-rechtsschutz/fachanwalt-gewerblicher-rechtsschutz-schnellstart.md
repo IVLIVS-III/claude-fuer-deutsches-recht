@@ -58,9 +58,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragrafen 339-345 BGB — Vertragsstrafe: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schoepfung als unionsrechtlichen Werkanker.
 - EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
-- Wettbewerber zeigt vor Anmeldung Design auf Messe; Eintragung loeschen? - Paragraf 3 DESIGNG - Paragraf 14 MarkenG - Paragraf 4 UWG - Paragraf 97 UrhG - Paragraf 9 DesignG - Paragraf 139 PatG - EuGH
 - EuGH 13.11.2019 C-32/18 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- Konkurrent kopiert Sitzbezug-Design; Streit über Schutzumfang. - Paragraf 14 MarkenG - Paragraf 4 UWG - Paragraf 97 UrhG - Paragraf 9 DesignG - Paragraf 139 PatG - EuGH 21.09.2017 C-361/15 — nur
+- EuGH 21.09.2017 C-361/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 
 ## 7. Antwortform
 

@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Paragraf 90 Abs. 1 AO; AO Paragrafen 347 bis 367 (Einspruchsverfahren) und Paragraf 355 AO; FGO Paragraf 47 (Klagefrist) |
-| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Arbeitsfokus: Abgrenzung: Compliance-Dokumentation und Aktenvermerk. Prüfe diese Anker am Sachverhalt; ergänze nur |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -55,7 +55,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 46 AO — Abtretung/Verpfändung von Steuererstattungs- und Vergütungsansprüchen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 80 Abs. 1 InsO — Verwaltungs- und Verfügungsbefugnis des Insolvenzverwalters: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 94 InsO — Aufrechnungslage vor Verfahrenseröffnung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 7. Antwortform
 

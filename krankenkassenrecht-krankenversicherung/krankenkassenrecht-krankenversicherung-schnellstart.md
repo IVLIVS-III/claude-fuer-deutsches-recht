@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du einen Deckungsanspruch prüfen und gegen die Ablehnung des Versicherers durchsetzen.
+Wenn du das hier öffnest, willst du einen Sozialleistungsbescheid angreifen und den Anspruch durchsetzen.
 
 # Krankenkassenrecht Krankenversicherung — Schnellstart
 
@@ -17,50 +17,49 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Vertrag und Sparte: Versicherungsart, Versicherungsnehmer, versicherte Person, Risiko, Laufzeit und Bedingungen erfassen.
-2. Versicherungsfall: Eintritt, Anzeige, Schadenhoehe, Kausalitaet, Ausschluss und Beweislast ordnen.
-3. Obliegenheiten: vorvertragliche Anzeige, Gefahrerhoehung, Schadenanzeige, Mitwirkung und Rechtsfolgenbelehrung prüfen.
-4. Deckung und Regulierung: Leistungsentscheidung, Quote, Regress, Verjährung und Prozessrisiko ausarbeiten.
-5. Arbeitsprodukt: Deckungsmemo, Anspruchsschreiben, Ablehnungsschreiben, Vergleichsvorschlag oder Klageentwurf formulieren.
-6. Abrechnung GOÄ/GOZ und Erstattung: Tragende Normen verifizieren: SGB V Paragrafen 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X.
+1. Bescheidlage: Verwaltungsakt, Widerspruch, Klagefrist, Leistungsträger und Leistungsart erfassen.
+2. Leistungsrecht: Bedarf, Anspruchsgrundlage, Wirtschaftlichkeit, Leistungsausschluss und Zuständigkeit trennen.
+3. Medizin: Diagnose, Leitlinie, Nutzenbeleg, MD-Stellungnahme, behandelnde Ärzte und Gegengutachten ordnen.
+4. Krankenversicherung: Hilfsmittel, Arzneimittel, Orphan Drug, Off-Label-Lage, Krankenhaus- oder Vertragsarztpfad prüfen.
+5. Pflege und Teilhabe: Pflegegrad, Modulbewertung, Wohnumfeld, Barrierefreiheit und Kostenträgerabgrenzung klären.
+6. Eilrechtsschutz: Anordnungsanspruch, Anordnungsgrund, Folgenabwägung und Existenzsicherung darstellen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | VVG Paragraf 1; VVG Paragraf 19; VVG Paragraf 28 |
-| Rechtsprechung | BGH, Urteil vom 22.06.2011 - IV ZR 225/10; BGH, Urteil vom 12.03.2014 - IV ZR 306/13 |
-| Tatbestand | Tragende Normen verifizieren: SGB V Paragrafen 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X |
-| Beweislast | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung |
-| Rechtsfolge | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
+| Normenanker | SGB I Paragraf 39; SGB X Paragraf 20; SGB X Paragraf 24 |
+| Rechtsprechung | BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09; BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16 |
+| Tatbestand | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen |
+| Beweislast | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege |
+| Rechtsfolge | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abrechnung GOÄ/GOZ und Erstattung | Tragende Normen verifizieren: SGB V Paragrafen 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arzneimittel: Off-Label-Use und Lifestyle-Abgrenzung | Tragende Normen verifizieren: SGB V Paragrafen 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Asylbewerberleistungsgesetz und Gesundheitsversorgung | Tragende Normen verifizieren: SGB V Paragrafen 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auslandsbehandlung: EU, S2-Formular und Notfall | Tragende Normen verifizieren: SGB V Paragrafen 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beamtenanfänger: Pauschale Beihilfe, Ländercheck | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abrechnung GOÄ/GOZ und Erstattung | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arzneimittel: Off-Label-Use und Lifestyle-Abgrenzung | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Asylbewerberleistungsgesetz und Gesundheitsversorgung | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auslandsbehandlung: EU, S2-Formular und Notfall | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beamtenanfänger: Pauschale Beihilfe, Ländercheck | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Beitragsbemessung: Kapitalauszahlung und Betriebsrente | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- VVG Paragraf 1: vertragstypische Pflichten aus dem Versicherungsvertrag.
-- VVG Paragraf 19: vorvertragliche Anzeigepflicht und Rechtsfolgen.
-- VVG Paragraf 28: Obliegenheitsverletzung nach Vertragsschluss.
-- VVG Paragraf 61: Beratungspflichten des Versicherungsvermittlers.
+- SGB I Paragraf 39: Sozialleistungen als Anspruch bei Vorliegen der gesetzlichen Voraussetzungen.
+- SGB X Paragraf 20: Amtsermittlung im Sozialverwaltungsverfahren.
+- SGB X Paragraf 24: Anhörung vor belastendem Verwaltungsakt.
+- SGG Paragraf 87: Klagefrist.
 - Paragraf 27 Abs. 1 SGB V – Anspruch auf Krankenbehandlung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 31 SGB V – Arznei- und Verbandmittel; Ausschlüsse: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 34 SGB V – Ausgeschlossene Arznei-, Heil- und Hilfsmittel (Lifestyle-Ausschluss: Paragraf 34 Abs. 1 Satz 7-8): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 35 SGB V – Festbetragsgruppen (Gemeinsamer Bundesausschuss): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 22.06.2011 - IV ZR 225/10: Beratungspflichten im Versicherungsvertrieb verlangen anlassbezogene, dokumentierbare Bedarfsermittlung.
-- BGH, Urteil vom 12.03.2014 - IV ZR 306/13: Obliegenheitsverletzungen sind nach Kausalitaet, Verschulden und Belehrung zu prüfen.
+- BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09: existenzsichernde Leistungen müssen transparent und realitätsgerecht bemessen sein.
+- BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhaeltnismaessigkeitskontrolle.
 - BGH III ZR 17/18 (GOÄ-Abrechnung, Steigerungsfaktor), BGH III ZR 62/18
 - BVerfG 1 BvR 2084/05 (GOÄ und PKV-Erstattung)
-- BGH III ZR 17/18: individuelle Begründung für konkrete Behandlungssituation notwendig
 
 ## 7. Antwortform
 

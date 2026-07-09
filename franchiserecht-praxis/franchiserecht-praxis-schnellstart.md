@@ -58,9 +58,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragrafen 812 ff. BGB: Rückabwicklung ungerechtfertigter Bereicherung (z. B. zu viel gezahlte Gebühren): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
 - BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
-- Paragraf 89b HGB analog; BGH, Urteil vom 05.02.2015 - VII ZR 109/13; Paragrafen 242, 812 BGB; Art. 6, 17 Datenschutz-Grundverordnung bei Kundendaten
-- Das Recht auf Löschung von Online-Bewertungen ist durch die EuGH-Entscheidungen zu Recht auf Vergessenwerden (Google Spain, C-131/12) und durch die Datenschutz-Grundverordnung geprägt. Bewertungen
-- Datenschutz-Grundverordnung Art. 4 Nr. 7, 26, 28, 30, 32, 83; EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen
 
 ## 7. Antwortform
 

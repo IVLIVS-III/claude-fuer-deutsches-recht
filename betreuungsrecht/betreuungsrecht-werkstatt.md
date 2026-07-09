@@ -50,7 +50,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- | --- |
 | Fallkern | Betreuungsrecht — Allgemein | Paragraf 1814 BGB; BGH, Urteil vom 02.07.2025 - IV ZR 93/24 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Paragrafen 1816 ff. BGB | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anschluss-Routing | Paragrafen 1816 ff. BGB; Die Entscheidung des OLG Nürnberg ist Ausdruck der sauberen Trennung | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Anschluss-Routing | Paragrafen 1816 ff. BGB; BGH, Beschluss vom 24.09.2025 - XII ZB 513/24 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -70,7 +70,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
 | BGH, Urteil vom 02.07.2025 - IV ZR 93/24 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Strukturanaloge Bestätigung der Trennung von Berufsrecht und Erbrecht. Eine Zuwendung von Todes wegen |
-| Die Entscheidung des OLG Nürnberg ist Ausdruck der sauberen Trennung zwischen Berufsrecht (sanktioniert | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Die Entscheidung des OLG Nürnberg ist Ausdruck der sauberen Trennung zwischen Berufsrecht (sanktioniert den Betreuer) |
 | BGH, Beschluss vom 24.09.2025 - XII ZB 513/24 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bei der Bestellung eines Verhinderungsbetreuers gelten die Auswahlkriterien des Paragraf 1816 BGB. Der Wunsch der/des |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
@@ -89,7 +88,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 ## 8. Leitentscheidungen
 
 - BGH, Urteil vom 02.07.2025 - IV ZR 93/24: Strukturanaloge Bestätigung der Trennung von Berufsrecht und Erbrecht. Eine Zuwendung von Todes wegen an den behandelnden Arzt ist nicht deshalb unwirksam, weil
-- Die Entscheidung des OLG Nürnberg ist Ausdruck der sauberen Trennung zwischen Berufsrecht (sanktioniert den Betreuer) und materiellem Erbrecht (sanktioniert den Vorgang nicht, weil der Erblasser frei
 - BGH, Beschluss vom 24.09.2025 - XII ZB 513/24: Bei der Bestellung eines Verhinderungsbetreuers gelten die Auswahlkriterien des Paragraf 1816 BGB. Der Wunsch der/des Betroffenen, durch eine nahe Angehörige
 
 ## 9. Prüfraster

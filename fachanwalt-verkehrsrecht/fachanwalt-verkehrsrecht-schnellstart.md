@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Paragraf 115 Abs. 1 VVG; Paragraf 249 Abs. 1 und 2 BGB; Paragraf 253 Abs. 2 BGB |
-| Rechtsprechung | sofern vom Gerät gespeichert; vgl. BVerfG, Beschl. v. 12.11.2020,; 2 BvR 1616/18; BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20 |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -54,8 +54,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 69 StGB — Entziehung Fahrerlaubnis; Wiedererteilungssperre Paragraf 69a: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 316 StGB — Trunkenheit im Verkehr: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 115 VVG — Direktanspruch gegen KH-Versicherer: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- sofern vom Gerät gespeichert; vgl. BVerfG, Beschl. v. 12.11.2020,
-- 2 BvR 1616/18; BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20 — kein
 
 ## 7. Antwortform
 

@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
+Wenn du das hier öffnest, willst du Datenbankrechte, API-Nutzung, Entnahme, Wiederverwendung und Vertragsgrenzen schnell belastbar prüfen.
 
 # Datenbankrecht — Schnellstart
 
@@ -17,49 +17,47 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen.
-2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen.
-3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
-4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
-5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
-6. Abmahnung prüfen im Datenbankrecht — Checkliste und Reaktionsoptionen: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
+1. Schutzgegenstand: Datenbankwerk, Herstellerrecht, Geschäftsgeheimnis, Vertrag oder bloße Datenquelle trennen.
+2. Investition und Inhaberschaft: Beschaffung, Überprüfung, Darstellung, Finanzierung, Mitarbeiterleistung und Rechtekette belegen.
+3. Nutzungsvorgang: Entnahme, Wiederverwendung, API-Zugriff, Export, Abgleich, Metasuche oder Training digitaler Systeme präzise beschreiben.
+4. Einwendungen: Lizenz, Erschöpfung, Schranke, Vertragserlaubnis, rechtmäßiger Zugang und Nutzungsvorbehalt prüfen.
+5. Arbeitsprodukt: Abmahnung, Abwehrschreiben, Lizenzklausel, API-Regel, Beweismatrix oder Schadensschätzung erstellen.
+6. Abmahnung prüfen im Datenbankrecht — Checkliste und Reaktionsoptionen: Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | BGB Paragraf 705; HGB Paragraf 105; GmbHG Paragraf 13 |
-| Rechtsprechung | BGH, Urteil vom 29.01.2001 - II ZR 331/00; BGH, Urteil vom 04.07.2005 - II ZR 354/03 |
-| Tatbestand | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen |
-| Beweislast | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment |
-| Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| Normenanker | UrhG Paragraf 87a; UrhG Paragraf 87b; UrhG Paragraf 87c |
+| Rechtsprechung | EuGH, Urteil vom 09.11.2004 - C-203/02; EuGH, Urteil vom 09.10.2008 - C-304/07 |
+| Tatbestand | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen |
+| Beweislast | Rechteinhaber für Schutzgegenstand, Investition, wesentliche Entnahme und Wiederverwendung; Nutzer für Lizenz, Schranke, Erlaubnis und Datenherkunft |
+| Rechtsfolge | Unterlassung, Auskunft, Lizenz, Schadensersatz, API-Regel, Schrankenprüfung oder Abwehrschreiben |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abmahnung prüfen im Datenbankrecht — Checkliste und Reaktionsoptionen | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Datenbankrecht für Agrar- und Sensordaten — Präzisionslandwirtschaft und IoT | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| API-Nutzung, Rate-Limits und Vertragsbruch im Datenbankrecht | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| B2B-Kundendaten und CRM-Export durch Mitarbeiter — Datenbankrecht und Arbeitsrecht | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abmahnung prüfen im Datenbankrecht — Checkliste und Reaktionsoptionen | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Datenbankrecht für Agrar- und Sensordaten — Präzisionslandwirtschaft und IoT | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| API-Nutzung, Rate-Limits und Vertragsbruch im Datenbankrecht | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| B2B-Kundendaten und CRM-Export durch Mitarbeiter — Datenbankrecht und Arbeitsrecht | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
-- HGB Paragraf 105: offene Handelsgesellschaft.
-- GmbHG Paragraf 13: Rechtsnatur der GmbH.
-- GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
+- UrhG Paragraf 87a: Datenbankhersteller und wesentliche Investition.
+- UrhG Paragraf 87b: Entnahme und Wiederverwendung wesentlicher Teile.
+- UrhG Paragraf 87c: Schranken des Datenbankherstellerrechts.
+- UrhG Paragraf 44b: Text- und Data-Mining als Schranke mit Nutzungsvorbehalt.
 - Paragraf 87a Abs. 2 UrhG: Herstellereigenschaft des Abmahnenden — muss er Inhaber des Rechts sein?: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 87b UrhG: Verletzungstatbestand — ist eine Entnahme wesentlicher Teile tatsächlich nachweisbar?: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 87c UrhG: Erlaubte Handlungen als Einwand gegen Abmahnung (z. B. TDM-Schranke, rechtmäßige Nutzung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 97a Abs. 4 UrhG: Kostenerstattung bei unberechtigter Abmahnung — Gegenanspruch des Abgemahnten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
-- BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
-- EuGH C-203/02 (BHB/William Hill): Sensorisches Messen von eigenen Feldern ist Datenerzeugung, nicht Datenbeschaffung — BHB-Einwand möglich
-- EuGH C-203/02 BHB/William Hill — Curia
+- EuGH, Urteil vom 09.11.2004 - C-203/02: British Horseracing Board grenzt Erzeugen von Daten von Investition in Beschaffung, Überprüfung und Darstellung ab.
+- EuGH, Urteil vom 09.10.2008 - C-304/07: Directmedia präzisiert Entnahme bei Übernahme von Datenbankinhalten.
 
 ## 7. Antwortform
 

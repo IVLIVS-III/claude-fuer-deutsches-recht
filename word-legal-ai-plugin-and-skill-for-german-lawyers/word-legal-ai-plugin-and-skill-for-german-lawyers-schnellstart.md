@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Paragraf 305c BGB; Paragraf 306 BGB; Paragraf 306a BGB |
-| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach Paragrafen 305-310 BGB. Klärt den AGB-Begriff |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -55,7 +55,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 308 BGB: Klauselverbote mit Wertungsmöglichkeit (Annahme- und Leistungsfristen, fingierte Erklärungen, Zugang fingiert, Rücktritt usw.). Im B2B grundsätzlich nicht direkt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 309 BGB: Klauselverbote ohne Wertungsmöglichkeit (Preiserhöhungen kurzfristig, Aufrechnungs- und Zurückbehaltungsausschluss, Haftung für grobe Fahrlässigkeit, Vertragsstrafe: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 310 BGB: Ausnahmen vom Anwendungsbereich: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 7. Antwortform
 

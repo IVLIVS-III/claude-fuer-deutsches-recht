@@ -1,25 +1,25 @@
-# Megaprompt: datenschutzrecht
+# Vollprüfung: datenschutzrecht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 365 Skills (gekuerzt fuer Chat-Fenster) des Plugins `datenschutzrecht`.
+Dieser Vollprüfung enthaelt top-8 von 366 Skills (gekuerzt fuer Chat-Fenster) des Plugins `datenschutzrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für Datenschutzrecht DSGVO/BDSG: ordnet Rolle (Verantwortlicher, Auftragsverarbeiter, Betro…
-2. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Datenschutzrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und …
-3. **dsgvo-erstpruefung-und-mandatsziel** — DSGVO: Erstprüfung, Rollenklärung und Mandatsziel: DSGVO: Erstprüfung, Rollenklärung und Mandatsziel.
-4. **datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit** — Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21…
-5. **datenschutz-mandatssteckbrief-fristen-rollen** — Datenschutzrechtliches Mandat strukturieren und Arbeitsbereich abgrenzen. Art. 5 24 DSGVO §§ 1 ff. BDSG. Prüfraster: Man…
-6. **datenschutz-schadensersatz-art-82-dsgvo** — Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21…
-7. **anpassen** — Bestehende Datenschutzdokumentation oder Richtlinien an neue Anforderungen oder Verarbeitungstätigkeiten anpassen. Art. …
-8. **anwendungsfall-triage** — Datenschutzrechtlichen Sachverhalt einordnen und Bearbeitungsroute bestimmen. Art. 2 3 DSGVO Anwendungsbereich § 1 BDSG.…
+1. **einstieg-routing** — Wenn es um Einstieg und Routing in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächste…
+2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fa…
+3. **dsgvo-erstpruefung-und-mandatsziel** — Wenn es um DSGVO: Erstprüfung, Rollenklärung und Mandatsziel in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterla…
+4. **verarbeitungsverzeichnis-formular-portal-und-einreichung** — Wenn es um Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik in Datenschutzrecht geht: prüft Frist, Form,…
+5. **datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit** — Wenn es um Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Z…
+6. **dsgvo-erstpruefung-rollenklaerung-mandatsziel** — Wenn es um DSGVO: Erstprüfung, Rollenklärung und Mandatsziel in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterla…
+7. **datenschutz-auskunftei-restschuldbefreiung-art17** — Wenn es um Art. 17 DSGVO gegen Auskunftei nach Restschuldbefreiung in Datenschutzrecht geht: prüft Frist, Form, Zuständi…
+8. **datenschutz-schadensersatz-art-82-dsgvo** — Wenn es um Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Z…
 
 ---
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Datenschutzrecht DSGVO/BDSG: ordnet Rolle (Verantwortlicher, Auftragsverarbeiter, Betroffener), markiert Frist (Art. 33 Meldung 72h), wählt Norm (DSGVO Art. 5/6/13/15/28/32/33/35, BDSG, TTDSG) und Zuständigkeit (BfDI Bund), leitet zum passenden Spezial-Skill._
+_Wenn es um Einstieg und Routing in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Einstieg und Routing
 
@@ -27,29 +27,39 @@ _Einstieg, Triage und Routing für Datenschutzrecht DSGVO/BDSG: ordnet Rolle (Ve
 
 Dieser Einstieg routet **Datenschutzrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+## Kernrouten zuerst
+
+Starte nicht mit der Gesamtlandkarte. Ordne den Fall zuerst in eine dieser Arbeitsrouten ein und liefere danach das passende Produkt:
+
+| Route | Sofortfrage | Arbeitsprodukt |
+| --- | --- | --- |
+| Betroffenenrecht | Auskunft, Löschung, Berichtigung, Widerspruch oder Kopie? | Fristenblatt mit Antwortentwurf |
+| Datenpanne | Kenntniszeitpunkt, Risiko, betroffene Gruppen, Eindämmung? | 72-Stunden-Timeline mit Meldeentscheidung |
+| Auftragsverarbeitung | Verantwortlicher, Auftragsverarbeiter oder gemeinsame Verantwortung? | Rollenmatrix und Vertragslückenliste |
+| Aufsicht und Sanktion | Anhörung, Auskunftsverlangen, Anordnung oder Bußgeld? | Verteidigungstimeline mit Akten- und Beweisplan |
+| Drittlandtransfer | Empfängerland, Tool, Standardklauseln, Zusatzmaßnahmen? | Transfer-Risiko- und Maßnahmenmatrix |
+| Löschung und Aufbewahrung | Löschanspruch gegen gesetzliche Aufbewahrung oder Rechtsverteidigung? | Löschentscheidung mit Sperr- statt Löschalternative |
+
+Wenn Fristdruck besteht, zuerst Kenntniszeitpunkt, Monatsfrist, 72-Stunden-Frist, Zuständigkeit und Beweisunterlagen sichern. Danach erst Detailnormen vertiefen.
+
 ## Fachlandkarte dieses Plugins
 
-- `anpassen` — Anpassen
-- `einstieg-schnelltriage-fallrouting` — Anschluss
-- `anwendungsfall-triage` — Anwendungsfall Triage
-- `art-9-besondere-kategorien` — ART 9 Besondere Kategorien
-- `dsv-art-9-besondere-kategorien` — ART Besondere Aufnahme Statusinformation
-- `aufnahme-statusinformation` — Aufnahme Statusinformation
-- `auskunft-behoerden-gerichts-registerweg` — Auskunft Behoerden Gerichts Registerweg
+- `anwendungsfall-triage` — erste Rollen-, Fristen- und Output-Weiche
+- `dsgvo-auskunft` — Auskunftsersuchen prüfen und beantworten
+- `datenschutz-loeschpflicht-art-17-und-aufbewahrung` — Löschung, Sperrung und Aufbewahrung trennen
+- `datenschutz-beschwerde-art-77-aufsichtsbehoerde` — Beschwerde- und Behördenpfad
+- `datenpanne-meldung` — Meldeentscheidung und 72-Stunden-Timeline
+- `dsv-meldung-art-33-pflichtangaben` — Pflichtangaben für Vorfallmeldung
+- `avv-art-28-mindestinhalte-checkliste` — Auftragsverarbeitungsvertrag prüfen
 - `avv-art-26-joint-controllership-deutsch` — AVV ART 26 Joint Controllership Deutsch
-- `avv-art-28-dsgvo-grundtatbestand` — AVV ART 28 DSGVO Grundtatbestand
-- `avv-art-28-mindestinhalte-checkliste` — AVV ART 28 Mindestinhalte Checkliste
-- `avv-audit-und-kontrollrechte` — AVV Audit und Kontrollrechte
-- `avv-cloud-und-subverarbeitung-art-28-iv` — AVV Cloud und Subverarbeitung ART 28 IV
-- `avv-eu-kommission-musterklauseln-2021-915` — AVV EU Kommission Musterklauseln 2021 915
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+- `drittlandstransfer-tia-scc` — Transfer Impact Assessment und Standardklauseln
+- `dokumente-intake` — Unterlagen sortieren und Lücken schließen
 
 ## Arbeitsweg
 
 - Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
 - Eilfristen isolieren: die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren.
-- Fachpfad wählen: zentrale Anker im Datenschutzrecht sind Art. 15, Art. 33, Art. 44, BDSG, DSGVO, TDDDG. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Fachpfad wählen: zentrale Anker im Datenschutzrecht sind Artikel 15, Artikel 17, Artikel 28, Artikel 33, Artikel 44 ff., Bundesdatenschutzgesetz und Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
 - Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
@@ -63,21 +73,22 @@ Dieser Einstieg routet **Datenschutzrecht** vom ersten Sachverhalt zu Rollen, Fr
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting im Datenschutzrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig:..._
+_Wenn es um Kaltstart Triage in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Datenschutzrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Schnellstart-Workflow
 
@@ -116,7 +127,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 
 ### 1. Intake in 60 Sekunden
 
-Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+Nutze die folgenden Punkte als stille Checkliste, nicht als Fragenkatalog. Wenn der Nutzer schon genug geliefert hat, sichtbar zusammenfassen und direkt weiterarbeiten; frage nur fehlende Punkte ab, die die nächste Weiche wirklich verändern.
 
 | Punkt | Frage | Warum wichtig? |
 |---|---|---|
@@ -297,7 +308,7 @@ Der Anwendungsbereich umfasst Unternehmen als Verantwortliche (Art. 4 Nr. 7 DSGV
 
 ## Skill: `dsgvo-erstpruefung-und-mandatsziel`
 
-_DSGVO: Erstprüfung, Rollenklärung und Mandatsziel: DSGVO: Erstprüfung, Rollenklärung und Mandatsziel._
+_Wenn es um DSGVO: Erstprüfung, Rollenklärung und Mandatsziel in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dsgvo Erstpruefung Und Mandatsziel; Arbeitsfeld: Datenschutzrecht._
 
 # DSGVO: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -345,9 +356,47 @@ Einwilligung (Art. 6 Abs. 1 lit. a) ist klar, aber jederzeit widerrufbar (Art. 7
 
 ---
 
+## Skill: `verarbeitungsverzeichnis-formular-portal-und-einreichung`
+
+_Wenn es um Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Verarbeitungsverzeichnis Formular Portal Und Einreichung; Arbeitsfeld: Datenschutzrecht._
+
+# Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik.
+
+## Spezialwissen: Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik
+- **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Verarbeitungsverzeichnis** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
 ## Skill: `datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit`
 
-_Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21 Oesterreichische Post C-340/21 Bulgarian Sofia C-687/21 MediaMarkt C-741/21 juris GmbH C-456/22 VX gegen Saale. Sieben-Fragen-Diagnose Anspruchsteller oder Anspruchsgegner Verstoss konkret Kausalitaet Schadensart Beweislast Verjaehrung Anspruchskonkurrenz. Schritt-fuer-Schritt fuer Klage und Verteidigung. Mustertexte Klageschrift Klageerwiderung Vergleichsvorschlag. Abgrenzung: keine Bussgeldverteidigung._
+_Wenn es um Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datenschutz Schadensersatz Art 82 Dsgvo Gerichtsstreit; Arbeitsfeld: Datenschutzrecht._
 
 # Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO
 
@@ -479,169 +528,96 @@ Sieben-Fragen-Diagnose:
 
 ---
 
-## Skill: `datenschutz-mandatssteckbrief-fristen-rollen`
+## Skill: `dsgvo-erstpruefung-rollenklaerung-mandatsziel`
 
-_Datenschutzrechtliches Mandat strukturieren und Arbeitsbereich abgrenzen. Art. 5 24 DSGVO §§ 1 ff. BDSG. Prüfraster: Mandatsumfang Zuständigkeiten Fristen Risikostufe externe Datenschutzberatung. Output: Mandatssteckbrief Arbeitsplan Rollenverteilung. Abgrenzung: nicht für inhaltliche Datenschutzprüfung._
+_Wenn es um DSGVO: Erstprüfung, Rollenklärung und Mandatsziel in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dsgvo Erstpruefung Rollenklaerung Mandatsziel; Arbeitsfeld: Datenschutzrecht._
 
-# Datenschutzmandat: Steckbrief, Fristen, Rollen und Kontexttrennung
+# DSGVO: Erstprüfung, Rollenklärung und Mandatsziel
 
-## Zweck
+## Direktstart: lesen, entscheiden, liefern
 
-Isolation von Datenschutzmandaten in Mehrmandat-Kanzleien: Jeder Mandant erhält einen eigenen Arbeitsbereich mit eigener Mandatsdatei (`mandat.md`). Skills lesen das kanzlei-weite Praxisprofil (`CLAUDE.md`) für kanzleiweite Regeln und die mandatsspezifische Datei für mandatsspezifische Fakten. Kontext, Erkenntnisse und Ausgaben fließen nicht zwischen Mandaten durch.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-**Nur relevant für Mehrmandat-Kanzleien.** Bei internem Unternehmenseinsatz (ein Verantwortlicher) ist dieser Skill deaktiviert; Skills verwenden das Praxisprofil direkt.
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-Beachte: Mandantendaten unterliegen § 43a Abs. 2 BRAO, § 203 StGB. Mandatsisolation ist datenschutz- und berufsrechtliche Pflicht.
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-## Eingaben
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
-- Befehlsform: `neu | liste | wechsle [Mandat-ID] | schließe [Mandat-ID] | keins`
-- Bei `neu`: Mandantenname, kurze Beschreibung des Datenschutzmandats, Mandats-ID (Kürzel)
-- Bei `wechsle`: Mandat-ID des Zielmandats
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
-## Ablauf
+## Spezialwissen: DSGVO: Erstprüfung, Rollenklärung und Mandatsziel
+- **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 
-### `neu` – Neues Mandat anlegen
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-1. Mandat-ID vergeben (Kürzel, z.B. `mand-2024-04-mueller-dsfa`).
-2. Verzeichnis anlegen: `~/.claude/plugins/config/claude-fuer-deutsches-recht/datenschutzrecht/mandate/[mandat-id]/`
-3. Leere `mandat.md` mit Pflichtfeldern anlegen (s. Struktur unten).
-4. Aktives Mandat in Praxisprofil auf neue ID setzen.
-5. Bestätigung ausgeben: "Mandat [ID] angelegt. Alle folgenden Skill-Aufrufe arbeiten in diesem Mandatskontext."
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-### `liste` – Mandatsübersicht
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **DSGVO** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-Alle Verzeichnisse unter `mandate/` auflisten:
-| Mandat-ID | Mandant | Beschreibung | Status | Letzte Aktivität |
-|---|---|---|---|---|
-| … | … | … | offen / abgeschlossen | Datum |
+## DSGVO-Erstprüfung: 7-Schritte-Matrix
+1. **Personenbezug:** Liegen Daten i.S.d. Art. 4 Nr. 1 vor? Pseudonymisierung ohne Schlüssel = noch personenbezogen (BGH); Anonymisierung technisch oft nicht belastbar.
+2. **Rolle:** Verantwortlicher (Art. 4 Nr. 7) — entscheidet über Mittel und Zwecke; Auftragsverarbeiter (Art. 4 Nr. 8) — verarbeitet auf Weisung; Gemeinsame Verantwortliche (Art. 26).
+3. **Rechtsgrundlage Art. 6:** Einwilligung (lit. a), Vertrag (lit. b), gesetzliche Pflicht (lit. c), berechtigtes Interesse (lit. f) — letzteres mit LIA.
+4. **Besondere Kategorien Art. 9?** Gesundheit, Religion, sexuelle Orientierung, biometrische ID, ethnische Herkunft — eigene Rechtsgrundlage.
+5. **DSFA-Pflicht Art. 35?** Bei voraussichtlich hohem Risiko (Profiling, sensible Daten, neue Technologien, Beobachtung öffentl. Bereich).
+6. **Drittlandstransfer:** EU/EWR/Adäquanzbeschluss → frei. USA → DPF/SCC + TIA. Sonstige → SCC + TIA.
+7. **Ziel:** Compliance-Aufbau, Auskunft beantworten, Datenpanne melden, Behörde verteidigen?
 
-### `wechsle [Mandat-ID]` – Mandat wechseln
+## Trade-off
+Einwilligung (Art. 6 Abs. 1 lit. a) ist klar, aber jederzeit widerrufbar (Art. 7 Abs. 3) — bei laufender Verarbeitung problematisch (z. B. KI-Modell-Training). Berechtigtes Interesse (lit. f) ist robuster, aber abwägungsanfällig — dokumentierte LIA (Legitimate Interest Assessment) ist Pflicht.
 
-1. Mandat-ID aus Liste verifizieren.
-2. Aktives Mandat in Praxisprofil auf neue ID setzen.
-3. Bestätigung ausgeben; laufende offene Aufgaben im alten Mandat nennen, falls vorhanden.
+---
 
-### `schließe [Mandat-ID]` – Mandat abschließen
+## Skill: `datenschutz-auskunftei-restschuldbefreiung-art17`
 
-1. Status in `mandat.md` auf "abgeschlossen" und Abschlussdatum setzen.
-2. Aktives Mandat zurücksetzen (auf "keins").
-3. Ausgabedateien des Mandats sind weiter zugänglich, werden aber nicht mehr von Skills aktiv gelesen.
+_Wenn es um Art. 17 DSGVO gegen Auskunftei nach Restschuldbefreiung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datenschutz Auskunftei Restschuldbefreiung Art17; Arbeitsfeld: Datenschutzrecht._
 
-### `keins` – Kanzlei-Kontext (kein aktives Mandat)
+# Art. 17 DSGVO gegen Auskunftei nach Restschuldbefreiung
 
-Skills arbeiten im kanzlei-weiten Praxisprofil ohne mandatsspezifischen Kontext. Sinnvoll für allgemeine Kanzlei-Konfiguration oder Skills die sich auf die gesamte Kanzlei beziehen (z.B. Policy-Monitor für kanzlei-interne Richtlinien).
 
-## Matter.md-Struktur
+## Arbeitsweg
 
-```markdown
-# Mandat: [Mandat-ID]
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Mandant
-- **Name:** [Mandantenname]
-- **Rechtsform:** [GmbH / AG / Einzelperson / öffentliche Stelle]
-- **Branche:** [Branche]
-- **Hauptniederlassung:** [Bundesland]
-- **Rolle Mandant:** [Verantwortlicher / Auftragsverarbeiter / beides]
+**Fokus:** Art. 17 DSGVO im Auskunfteifall: Interessenabwägung, öffentliche Registerfrist, Einschränkung, Widerspruch und gerichtliche Durchsetzung.
 
-## Mandatsbeschreibung
-[Kurzbeschreibung: Was ist der Auftrag? Welches datenschutzrechtliche Vorhaben?]
+## Norm- und Quellenanker
 
-## Zuständige Aufsichtsbehörde (Mandant)
-[BfDI / LfDI [Bundesland]]
+DSGVO Art. 6 Abs. 1 lit. f, Art. 17, 18, 21; EuGH C-26/22/C-64/22.
 
-## Ansprechpartner
-- **Mandant:** [Name, E-Mail]
-- **DSB Mandant:** [Name oder "nicht bestellt"]
-- **Kanzlei intern:** [zuständige·r Anwalt/Anwältin]
+## Red Flags
 
-## Abweichungen vom Kanzlei-Praxisprofil
-[Nur aufführen, was beim Mandanten anders ist als im kanzlei-weiten Profil]
-- Rechtsgrundlage: [...]
-- AVV-Positionen: [...]
-- DSFA-Auslöser: [...]
+- pauschales Brancheninteresse
+- keine Empfängerliste
+- Löschung mit Berichtigung verwechselt
 
-## Systemliste Mandant (für Betroffenenanfragen Art. 15 DSGVO)
-- [System 1]
-- [System 2]
+## Arbeitsstil
 
-## Verarbeitungsverzeichnis
-[Pfad oder "noch nicht bereitgestellt"]
-
-## Ausgaben dieses Mandats
-[Ordnerpfad oder Auflistung erstellter Dokumente]
-## Status
-offen / abgeschlossen
-**Abgeschlossen am:** [Datum]
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-```
-
-## Quellen und Zitierweise
-
-Verbindlich nach `../../references/zitierweise.md`.
-
-- § 43a Abs. 2 BRAO (Verschwiegenheitspflicht Rechtsanwalt)
-- § 203 StGB (Verletzung von Privatgeheimnissen, Berufsgeheimnisträgerpflicht)
-- Art. 28, 29 DSGVO (Auftragsverarbeitung bei Nutzung externer Systeme)
-- Art. 25 DSGVO (Datenschutz durch Technikgestaltung – Mandatsisolation als TOMs)
-- Zuck, in: Zuck/Lenz, Anwaltsrecht, 2. Aufl. 2018, § 43a BRAO Rn. 15 ff. (Berufsgeheimnis).
-
-## Ausgabeformat
-
-- Kurzbestätigungen (angelegt, gewechselt, geschlossen) als einzeilige Statusnachricht
-- Mandatsübersicht als Tabelle
-- `mandat.md` als vollständig befülltes Dokument
-
-## Risiken / typische Fehler
-
-- **Mandatsisolation nicht gewährleistet:** Wenn Skills ohne aktives Mandat auf mandatsspezifische Daten zugreifen oder mandatsübergreifend aggregieren, verletzt dies § 43a Abs. 2 BRAO und Art. 5 Abs. 1 lit. f DSGVO (Integrität und Vertraulichkeit).
-- **Keine Löschung abgeschlossener Mandate:** Ordner nicht löschen – Aktenaufbewahrungspflicht nach § 50 Abs. 1 BRAO (6 Jahre nach Ablauf des Kalenderjahres, in dem das Mandat endete).
-- **Mandant ist selbst AV:** Wenn der Mandant selbst Auftragsverarbeiter eines Dritten ist, kann das Datenschutzmandat vertikale Sub-AV-Fragen berühren (Art. 28 Abs. 2 Satz 2 DSGVO). In `mandat.md` explizit vermerken.
-- **Aktives Mandat nicht zurückgesetzt:** Nach Mandatswechsel immer prüfen, dass kein unbeabsichtigter Mandatskontext aktiv ist. Standardbefehl `keins` nach Mandatsabschluss empfohlen.
-
-## Quellen / Updates
-
-Stand: 05/2026. Aktualität prüfen bei Änderungen der BRAO (Aktenaufbewahrungspflicht § 50 BRAO), StGB § 203 oder DSGVO-Anforderungen an technische Isolation.
-
-**Querverweise:**
-- `datenschutzrecht/skills/mandantendaten-ki/SKILL.md` — Mandatsisolation bei KI-Diensten
-- `datenschutzrecht/skills/avv-pruefung/SKILL.md` — Mandatsspezifische AVV-Prüfung
-
-## Aktuelle Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Triage zu Beginn
-
-1. Wie viele Mandate/Mandanten sind gleichzeitig aktiv?
-2. Sind die Mandate datenschutzrechtlich voneinander zu isolieren (unterschiedliche Verantwortliche)?
-3. Liegt ein Interessenkonflikt zwischen Mandaten vor?
-4. Sollen mandatsspezifische Praxisprofile (unterschiedliche AVV-Playbooks) genutzt werden?
-
-## Output-Template — Mandatsarbeitsbereich-Status
-
-**Adressat:** Kanzlei intern — Tonfall: sachlich-strukturiert
-
-```
-Mandatsarbeitsbereich-Übersicht [DATUM]
-Aktive Arbeitsbereich-IDs:
-- [ID_1]: [MANDANT/PROJEKT] | Status: aktiv/geschlossen | Kontext: isoliert
-- [ID_2]: [MANDANT/PROJEKT] | Status: aktiv | Kontext: isoliert
-
-Aktuell aktiver Kontext: [ID_X]
-Sicherheitshinweis: Kontextleak zwischen Mandaten wurde verhindert.
-Letzter Wechsel: [DATUM, UHRZEIT]
-```
+Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
 
 ---
 
 ## Skill: `datenschutz-schadensersatz-art-82-dsgvo`
 
-_Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21 Oesterreichische Post C-340/21 Bulgarian Sofia C-687/21 MediaMarkt C-741/21 juris GmbH C-456/22 VX gegen Saale. Sieben-Fragen-Diagnose Anspruchsteller oder Anspruchsgegner Verstoss..._
+_Wenn es um Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datenschutz Schadensersatz Art 82 Dsgvo; Arbeitsfeld: Datenschutzrecht._
 
 # Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO
 
@@ -752,401 +728,9 @@ Sieben-Fragen-Diagnose:
 
 ---
 
-## Skill: `anpassen`
-
-_Bestehende Datenschutzdokumentation oder Richtlinien an neue Anforderungen oder Verarbeitungstätigkeiten anpassen. Art. 5 24 DSGVO Rechenschaftspflicht. Prüfraster: Bestandsaufnahme Lueckenanalyse DSGVO-Anforderungen BDSG-Besonderheiten Anpassungsbedarf. Output: Anpassungsprotokoll ueberarbeitete..._
-
-# Customize – Praxisprofil anpassen
-
-## Eingaben
-
-- Welcher Abschnitt soll geändert werden? (frei formuliert oder Menüauswahl)
-- Neuer Wert oder neue Position
-- Optional: Beleg für die Änderung (z.B. neues Gerichtsurteil, neue EDSA-Leitlinie, Managemententscheidung)
-
-## Ablauf
-
-1. **Abschnitt identifizieren.** Nutzer nennt, was geändert werden soll. Bei Unklarheit eine strukturierte Liste der änderbaren Bereiche anzeigen:
- - Organisationsdaten (Name, Rechtsform, Standort)
- - Zuständige Aufsichtsbehörde
- - Rolle (Verantwortlicher / Auftragsverarbeiter)
- - Datenschutzbeauftragte·r (Name, intern/extern)
- - Rechtsgrundlagen-Übersicht (Art. 6/9 DSGVO)
- - AVV-Playbook (Klausel-Positionen, Deal-Breaker)
- - Drittlandtransfer-Mechanismen (SCC, DPF, BCR)
- - Systemliste für Betroffenenanfragen
- - DSFA-Format und Auslöser
- - Datenschutzerklärungsangaben
- - Ausgaben-Konfiguration (Ordner, Namenskonvention)
- - Integrations-Einstellungen
-
-2. **Aktuellen Wert zeigen.** Den aktuellen Wert aus `CLAUDE.md` lesen und ausgeben, damit der Nutzer die Änderung klar gegen den Ist-Zustand vergleichen kann.
-
-3. **Änderung vorbereiten.** Neuen Wert formulieren. Bei normativen Änderungen (z.B. neue Aufsichtsbehörde wegen Art. 56 DSGVO) die Rechtsgrundlage der Änderung nennen.
-
-4. **Bestätigung einholen.** Den geplanten Schreibvorgang explizit bestätigen lassen – vor dem Überschreiben.
-
-5. **Schreiben.** `CLAUDE.md` an der betroffenen Stelle aktualisieren. Rest unverändert lassen.
-
-6. **Zusammenfassung.** Was wurde geändert, was blieb unverändert, gibt es Folgeaktionen (z.B. Datenschutzerklärung aktualisieren nach geänderter Systemliste)?
-
-## Quellen und Zitierweise
-
-Verbindlich nach `../../references/zitierweise.md`.
-
-- Art. 56 DSGVO (federführende Aufsichtsbehörde)
-- Art. 37 DSGVO, § 38 BDSG (DSB-Benennungspflicht)
-- Art. 28 DSGVO (AVV-Mindestanforderungen für Playbook-Änderungen)
-- Art. 46, 47, 49 DSGVO (Drittlandtransfer-Mechanismen)
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-
-## Beispiel
-
-**Situation:** Das Unternehmen zieht seinen Hauptsitz von Bayern nach Hessen.
-
-**Analyse:**
-Die Zuständigkeit der Aufsichtsbehörde richtet sich nach der Hauptniederlassung in der EU, Art. 56 Abs. 1 DSGVO. Mit Umzug nach Hessen wechselt die federführende Aufsichtsbehörde vom Bayerischen Landesamt für Datenschutzaufsicht (BayLDA) zum Hessischen Beauftragten für Datenschutz und Informationsfreiheit (HBDI). Für laufende Aufsichtsverfahren beim BayLDA ist der Wechsel mit Hauptniederlassungsverlegung dem BayLDA mitzuteilen (Art. 60 Abs. 1 DSGVO analog, h.M.).
-
-**Änderung:**
-```
-Zuständige Aufsichtsbehörde: HBDI (zuvor: BayLDA)
-Rechtsgrundlage: Art. 56 Abs. 1 DSGVO
-Datum: [Umzugsdatum]
-Folgeaktionen: Laufende Verfahren beim BayLDA auf HBDI übertragen; Datenschutzerklärung (Aufsichtsbehördenverweis) aktualisieren; Kontaktdaten HBDI in CLAUDE.md einpflegen.
-```
-
-## Risiken / typische Fehler
-
-- **Teilaktualisierung vergessen:** Wer den DSB wechselt, muss auch die Datenschutzerklärung und ggf. das Verarbeitungsverzeichnis (Art. 30 Abs. 1 lit. a DSGVO: Name und Kontakt DSB) aktualisieren.
-- **AVV-Playbook ohne Begründung:** Änderungen an Klauselpositionen sollten mit Datum und Anlass dokumentiert werden (Präzedenzfall, Gerichtsurteil, Managemententscheidung), damit spätere Prüfer die Position nachvollziehen können.
-- **Integrations-Änderungen ohne Test:** Neue Connector-Einstellung erst nach erfolgreichem Test-Aufruf als ✓ markieren.
-- **Überschreiben von Mandats-Ebene:** Wenn Mandat-Arbeitsbereiche aktiviert sind, prüfen, ob die Änderung das Praxisprofil oder nur ein einzelnes Mandat betrifft. Mandat-Ebene überschreibt Praxisprofil nur für dieses Mandat.
-
-## Quellen / Updates
-
-Stand: 05/2026. Bei BDSG-Novellen, neuen BRAO-Regeln oder Aufsichtsbehörden-Neustrukturierungen Skill aktualisieren.
-
-**Querverweise:**
-- `datenschutzrecht/skills/datenschutzrecht-kaltstart-interview/SKILL.md` — Vollständige Neukonfiguration
-- `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — Drittlandtransfer-Mechanismen im Praxisprofil
-
-## Aktuelle Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Triage zu Beginn
-
-1. Was genau soll geändert werden? (Aufsichtsbehörde / AVV-Dealbreaker / Systemliste / DSB)
-2. Hat die Änderung Auswirkungen auf andere Dokumente (Datenschutzerklärung, VVT, DSFA)?
-3. Liegt ein Beleg (Urteil, EDSA-Leitlinie, Managemententscheidung) für die Änderung vor?
-4. Betrifft die Änderung das Praxisprofil oder nur ein einzelnes Mandat?
-
-## Output-Template — Änderungsbestätigung
-
-**Adressat:** Datenschutzbeauftragter / Kanzlei intern — Tonfall: sachlich-strukturiert
-
-```
-Praxisprofil-Änderungsprotokoll [DATUM]
-Abschnitt: [ABSCHNITT]
-Alter Wert: [ALTER WERT]
-Neuer Wert: [NEUER WERT]
-Beleg/Rechtsgrundlage: [NORM / BESCHLUSS / DATUM]
-Folgeaktionen:
-- Datenschutzerklaerung aktualisieren: [ja/nein]
-- VVT aktualisieren: [ja/nein]
-- Aufsichtsbehoerde informieren: [ja/nein]
-- Weitere: [...]
-Durchgefuehrt von: [SACHBEARBEITER]
-```
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 5 DSGVO (Grundsätze der Verarbeitung)
-- Art. 6, 9 DSGVO (Rechtsgrundlagen, besondere Datenkategorien)
-- Art. 13, 14 DSGVO (Informationspflichten)
-- Art. 15 DSGVO (Auskunftsrecht)
-- Art. 28 DSGVO (Auftragsverarbeitung)
-- Art. 32 DSGVO (Sicherheit der Verarbeitung)
-- Art. 33, 34 DSGVO (Meldepflichten bei Verletzung)
-- Art. 82 DSGVO (Schadensersatz)
-- Art. 83 DSGVO (Bußgelder)
-- §§ 4, 20, 41 BDSG (Aufsicht, Rechtsweg, Strafvorschriften)
-
-### Leitentscheidungen
-
-- EuGH C-300/21 (immaterieller Schaden Art. 82 DSGVO)
-- EuGH C-634/21 (automatisierte Bonitätsbewertung Schufa)
-- EuGH C-26/22 (Datenschutzbehörden-Befugnisse)
-- EuGH C-807/21 (Bußgeldhaftung juristischer Personen)
-- BVerfG 1 BvR 16/13 (Recht auf Vergessen I)
-
-### Anwendung im Skill
-
-- Rechtsgrundlage nach Art. 6 DSGVO sauber waehlen; berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO mit dokumentierter Abwaegung.
-- Bei Datenpannen die 72-Stunden-Frist nach Art. 33 DSGVO einhalten; Risikoabwaegung Art. 34 DSGVO separat dokumentieren.
-- Auskunftsanspruch Art. 15 DSGVO nicht mit Kopie nach Art. 15 Abs. 3 DSGVO verwechseln; EuGH C-307/22 Reichweite beachten.
-
----
-
-## Skill: `anwendungsfall-triage`
-
-_Datenschutzrechtlichen Sachverhalt einordnen und Bearbeitungsroute bestimmen. Art. 2 3 DSGVO Anwendungsbereich § 1 BDSG. Prüfraster: Anwendungsbereich personenbezogene Daten Verantwortlicher Auftragsverarbeiter Drittland. Output: Triage-Memo Bearbeitungsroute Normenmap. Abgrenzung: Einstieg und T..._
-
-# Datenschutz-Triage neuer Verarbeitungsvorgänge
-
-## Aktenstart statt Formularstart
-
-Wenn zu **Anwendungsfall Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Datenschutzrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
-
-Starte dann mit einer knappen Rueckmeldung:
-
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
-
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
-
-## Eingaben
-
-- Beschreibung des Verarbeitungsvorgangs (Datenarten, Zweck, Betroffenenkreis)
-- Datenkategorien (Art. 4 Nr. 1, Art. 9 DSGVO); Beschäftigtendaten (§ 26 BDSG)?
-- Neu erhoben oder Zweckänderung bei vorhandenen Daten (Art. 5 Abs. 1 lit. b DSGVO)?
-- Auftragsverarbeiter / Drittland-Übermittlung?
-- Automatisierte Entscheidungsfindung (Art. 22 DSGVO)?
-- Cookies / Endgerätezugriff (§§ 24 ff. TDDDG)?
-
-## Rechtlicher Rahmen
-
-### Kernvorschriften
-
-- **DSGVO:** Art. 5 (Grundsätze), Art. 6 (Rechtsgrundlagen), Art. 9 (besondere
- Kategorien), Art. 13/14 (Informationspflichten), Art. 17 (Löschrecht), Art. 22
- (automatisierte Entscheidungen), Art. 25 (Privacy by Design/Default), Art. 28 (AVV),
- Art. 30 (Verarbeitungsverzeichnis), Art. 32 (TOM), Art. 35 (DSFA), Art. 44 ff.
- (Drittlandtransfer).
-- **BDSG:** § 22 (Gesundheits-/Sozialdaten), § 26 (Beschäftigtendatenschutz), § 38
- (betrieblicher DSB).
-- **TDDDG (ehem. TTDSG):** §§ 24 ff. — Einwilligung für Cookies/Endgerätezugriffe.
-- **Art. 35 Abs. 4 DSGVO** i. V. m. DSK-Positivliste — nationale Pflichttatbestände.
-
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- — Ungültigkeit EU-US-Privacy-Shield; Standardvertragsklauseln erfordern Transfer
- Impact Assessment; maßgeblich für Art. 44 ff. DSGVO.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- — Automatisiertes Scoring als Entscheidung i. S. d. Art. 22 DSGVO, wenn Dritte
- maßgeblich darauf abstellen; zentral für Triage von KI-/Scoring-Vorhaben.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- — Datenschutzrechtliche Haftung Art. 82 DSGVO; Beweislastverteilung.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- *(Recht auf Vergessen I)* — Datenschutz als Teil des allgemeinen Persönlichkeitsrechts
- (Art. 2 Abs. 1 i. V. m. Art. 1 Abs. 1 GG); Abwägung mit Kommunikationsfreiheiten.
-
-### Kommentare
-
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
- — DSFA-Pflicht, Schwellenwerte, Verhältnis zu nationalen Listen.
-- `Simitis/Hornung/Spiecker (Hrsg.), DSGVO, 2. Aufl. 2022, Art. 6 Rn. 30 ff.`
- — Rechtsgrundlagen; berechtigtes Interesse als Auffangtatbestand.
-- `Gola (Hrsg.), DSGVO, 3. Aufl. 2022, Art. 22 Rn. 5 ff.`
- — Automatisierte Entscheidungsfindung; Abgrenzung zu Profiling.
-- `Paal/Pauly (Hrsg.), DS-GVO BDSG, 3. Aufl. 2021, Art. 25 DSGVO Rn. 7 ff.`
- — Privacy by Design und Privacy by Default als Entwurfspflicht.
-- `Ehmann/Selmayr (Hrsg.), DS-GVO, 2. Aufl. 2018, Art. 35 Rn. 25 ff.`
- — Anwendungsbereich der DSFA; Verhältnis zu Art. 5, 25 DSGVO.
-
-## Ablauf
-
-### Schritt 1: Verarbeitungsvorgang klären
-
-Bei vager Beschreibung zuerst nachfragen: Datenkategorien (Art. 9?), Betroffenenkreis
-(Beschäftigte → § 26 BDSG!), Zweck, Neu oder Zweckänderung, Auftragsverarbeiter,
-automatisierte Entscheidung (Art. 22), Endgerätezugriff (§ 24 TDDDG).
-
-### Schritt 2: Hausinternes DSA-Raster
-
-Konfiguriertes Prüfraster aus CLAUDE.md lesen. Trigger erfüllt → mindestens
-**DSA ERFORDERLICH**. Nicht erfüllt → weiter mit Schritt 3.
-
-### Schritt 3: DSFA-Pflichtprüfung (Art. 35 DSGVO)
-
-**Pflichttatbestände (Art. 35 Abs. 3, DSK-Positivliste):**
-- Systematische automatisierte Bewertung persönlicher Aspekte inkl. Profiling mit
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Umfangreiche Verarbeitung besonderer Datenkategorien (Art. 9 DSGVO).
-- Systematische umfangreiche Überwachung öffentlich zugänglicher Bereiche.
-
-**Starke Indikatoren (kein Pflichttatbestand, aber DSFA dringend empfohlen):**
-neue Technologie, Kinderdaten, Zusammenführung getrennter Datensätze,
-Diskriminierungspotenzial, Cross-Context-Tracking, verhaltensbasierte Werbung.
-
-Pflichttatbestand erfüllt → **DSFA PFLICHT**. Nur Indikatoren → **DSA ERFORDERLICH**.
-
-### Schritt 4: Datenschutzrichtlinien-Abgleich
-
-Vorhaben gegen konfigurierte Richtlinien prüfen. Typische Konflikte:
-Datenkategorie nicht in Richtlinie erfasst; Drittlandweitergabe ohne Grundlage
-(Art. 44 ff. DSGVO); Löschfristen (Art. 17) überschritten; Zweckbindung (Art. 5
-Abs. 1 lit. b) verletzt; Betroffenenrechte unvollständig.
-
-Direkter Konflikt → **STOPP**. Konflikt muss aufgelöst sein vor Fortführung.
-
-### Schritt 5: Klassifikation und Ausgabe
-
-```
-Kurzergebnis: [DSFA PFLICHT / DSA ERFORDERLICH / FREIGABE / STOPP — ein Satz]
-
-VORGANG: [wie verstanden]
-KLASSIFIKATION: [...]
-Hausinternes DSA-Raster ausgelöst? [Ja / Nein]
-DSFA-Pflicht (Art. 35 DSGVO)? [Ja — Tatbestand / Nein / N/A]
-Richtlinienkonflikt? [Keiner / Ja — konkreter Konflikt]
-Begründung: [1–3 Sätze]
-```
-
-*Voraussetzungen bei DSA / DSFA:*
-
-| Anforderung | Verantwortlich | Erledigt? |
-|---|---|---|
-| Datenschutzprüfung / DSFA (Art. 35 DSGVO) | DSB | ☐ |
-| Berechtigtes-Interesse-Abwägung (Art. 6 Abs. 1 lit. f) | DSB / Legal | ☐ |
-| DSB-Konsultation (DSFA-Pflichtverfahren) | DSB | ☐ |
-| AVV (Art. 28 DSGVO) | Legal | ☐ |
-| Richtlinienaktualisierung vor Launch | DSB | ☐ |
-| Eintrag Verarbeitungsverzeichnis (Art. 30) | DSB | ☐ |
-
-**Rechtsgrundlage (Art. 6 DSGVO):** [lit. a Einwilligung / lit. b Vertrag /
-lit. c rechtliche Verpflichtung / lit. f berechtigte Interessen — oder "unklar"]
-
-Nach Klassifikation immer anbieten: "Soll ich jetzt direkt mit der DSFA beginnen?"
-
-*Bei STOPP:*
-Konflikt benennen. Optionen: (A) Vorhaben umgestalten, (B) Richtlinie aktualisieren
-(Vereinbarkeit mit Rechtsgrundlage prüfen). Keinen Weg vorschlagen, wenn keiner besteht.
-
-### Schritt 6: Weiterleitung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- KI-Folgenabschätzung erwägen.
-- **Beschäftigtendatenschutz:** § 26 BDSG und Mitbestimmung (§§ 87 Abs. 1 Nr. 6,
- 94 BetrVG) prüfen.
-
-## Beispiel
-
-**Vorgang:** ML-basiertes Kreditscoring für Bestandskunden; Ergebnis fließt in
-automatisierte Kreditentscheidung.
-
-**Klassifikation:** DSFA PFLICHT — Art. 35 Abs. 3 lit. a DSGVO: systematische
-automatisierte Bewertung persönlicher Aspekte mit erheblichen Auswirkungen
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-(Schufa-Scoring) reicht es, dass Dritte maßgeblich auf das Scoring abstellen.
-DSB-Konsultation und Verarbeitungsverzeichnis-Eintrag (Art. 30) zwingend.
-
-## Risiken und typische Fehler
-
-- **"Anonymisiert" = FREIGABE:** Pseudonymisierte Daten bleiben personenbezogen
- (Art. 4 Nr. 1 DSGVO). Re-Identifikationsrisiko konkret prüfen.
-- **"Wir machen das ähnlich":** Bestehende, nie geprüfte Verarbeitungen legitimieren
- keine neue. Bei anderem Umfang/Zweck/Kategorie: neu triagen.
-- **"Nur ein Pilot":** Pilot mit echten Personendaten unterliegt denselben Anforderungen.
-- **"Der Anbieter regelt Datenschutz":** AVV nach Art. 28 zwingend; Triage bleibt beim
- Verantwortlichen (Art. 4 Nr. 7 DSGVO).
-- **Inferred Data übersehen:** Score, Risikoklasse, Präferenz = personenbezogenes Datum.
-
-Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
-
-## Quellenpflicht
-
-Jede Klassifikation muss nennen: einschlägige DSGVO-/BDSG-Normen mit Artikel/Absatz,
-DSK-Listenfundstelle bei DSFA-Pflicht, einschlägige Rechtsprechung in korrekter
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-Beispiel Rechtsprechung:
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Beispiel Kommentar:
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## Quellen / Updates
-
-Stand: 05/2026. Aktualität prüfen bei Änderungen der DSK-Blacklist/Whitelist (Art. 35 Abs. 4/5 DSGVO), neuen EDSA-Leitlinien zur DSFA sowie KI-VO-Umsetzungsakten.
-
-**Querverweise:**
-- `datenschutzrecht/skills/dsfa-erstellung/SKILL.md` — vollständige DSFA bei positiver Triage
-- `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — bei Drittlandbezug in der Triage
-- `datenschutzrecht/skills/avv-pruefung/SKILL.md` — bei Auftragsverarbeitung als Verarbeitungsbestandteil
-
-## Aktuelle Rechtsprechung (Ergaenzung v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Output-Template — Triage-Ergebnis
-
-**Adressat:** Datenschutzbeauftragter / Prozessverantwortlicher — Tonfall: sachlich-strukturiert
-
-```
-Datenschutz-Triage-Ergebnis [DATUM]
-Verarbeitungsvorgang: [BEZEICHNUNG]
-Beschreibung: [KURZBESCHREIBUNG]
-
-Einstufung: FREIGABE / DSA ERFORDERLICH / DSFA PFLICHT / STOPP
-
-Rechtsgrundlage: Art. [X] DSGVO [§ BDSG optional]
-Verantwortlichkeit: Art. 24 (allein) / Art. 26 (gemeinsam) / Art. 28 (Auftragsverarbeitung)
-Drittlandbezug: ja (→ Drittlandprüfung) / nein
-DSFA-Pflicht: ja (Grund: [...]) / nein (Begründung: [...])
-
-Naechste Schritte:
-1. [AKTION]
-2. [AKTION]
-
-Frist: [DATUM]
-Verantwortlich: [PERSON / ROLLE]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 5 DSGVO (Grundsätze der Verarbeitung)
-- Art. 6, 9 DSGVO (Rechtsgrundlagen, besondere Datenkategorien)
-- Art. 13, 14 DSGVO (Informationspflichten)
-- Art. 15 DSGVO (Auskunftsrecht)
-- Art. 28 DSGVO (Auftragsverarbeitung)
-- Art. 32 DSGVO (Sicherheit der Verarbeitung)
-- Art. 33, 34 DSGVO (Meldepflichten bei Verletzung)
-- Art. 82 DSGVO (Schadensersatz)
-- Art. 83 DSGVO (Bußgelder)
-- §§ 4, 20, 41 BDSG (Aufsicht, Rechtsweg, Strafvorschriften)
-
-### Leitentscheidungen
-
-- EuGH C-300/21 (immaterieller Schaden Art. 82 DSGVO)
-- EuGH C-634/21 (automatisierte Bonitätsbewertung Schufa)
-- EuGH C-26/22 (Datenschutzbehörden-Befugnisse)
-- EuGH C-807/21 (Bußgeldhaftung juristischer Personen)
-- BVerfG 1 BvR 16/13 (Recht auf Vergessen I)
-
-### Anwendung im Skill
-
-- Rechtsgrundlage nach Art. 6 DSGVO sauber waehlen; berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO mit dokumentierter Abwaegung.
-- Bei Datenpannen die 72-Stunden-Frist nach Art. 33 DSGVO einhalten; Risikoabwaegung Art. 34 DSGVO separat dokumentieren.
-- Auskunftsanspruch Art. 15 DSGVO nicht mit Kopie nach Art. 15 Abs. 3 DSGVO verwechseln; EuGH C-307/22 Reichweite beachten.
-
----
-
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

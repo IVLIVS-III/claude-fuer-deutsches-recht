@@ -102,10 +102,8 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Sanierungsversuch kann Vorsatzanfechtung beeinflussen, wenn er tragfähig ist.
 - BGH, Urteil vom 28.06.2012 - IX ZR 219/10: Bargeschäftsnaehe kann Anfechtungsrisiken begrenzen.
 - BVerfG 1 BvR 418/25 vom 28.02.2025 (VARTA AG) — Verfassungsbeschwerde gegen die gerichtliche Bestätigung eines StaRUG-Restrukturierungsplans (Kapitalherabsetzung auf Null mit Bezugsrechtsausschluss
-- BVerfG 1 BvR 418/25 vom 28.02.2025 (3. Kammer, Erster Senat — VARTA AG): Verfassungsbeschwerde von Minderheitsaktionären gegen die gerichtliche Bestätigung eines StaRUG-Restrukturierungsplans
-- Leitanker: BGH IX ZR 129/22 vom 18.04.2024 zur Darlegungstiefe des Liquiditätsstatus, BGH IX ZR 229/22 vom 23.01.2025 zur objektiven Rechtslage bei streitigen Forderungen und zur engen Irrtumsgrenze, BGH
-- BVerfG 1 BvR 418/25 vom 28.02.2025 (VARTA) — bestätigt mittelbar die Tragfähigkeit der StaRUG-Eintrittsschwelle nach Paragraf 18 InsO bei börsennotierten Schuldnerinnen
-- 1. Prognosezeitraum 24 Monate (Paragraf 18 Abs. 2 S. 2 InsO seit SanInsFoG 01.01.2021). Konkrete BGH-Linie zur Methodik der Liquiditätsprognose vor Ausgabe über dejure.org / openjur.de verifizieren
+- BGH, Urteil vom 23.01.2025 - IX ZR 229/22: objektive Zahlungsunfähigkeit; streitige nicht titulierte Forderungen nach objektiver Rechtslage; vorläufig vollstreckbar titulierte streitige Forderungen
+- BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Liquiditätsstatus gegenüber außenstehenden Dritten konkret mit Einzelposten und Belegen darlegen; pauschale Summen bleiben angreifbar
 
 ## 9. Prüfraster
 

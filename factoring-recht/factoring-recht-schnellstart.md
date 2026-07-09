@@ -52,13 +52,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - HGB Paragraf 105: offene Handelsgesellschaft.
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
+- Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG Paragraf 1 Abs. 1a: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 398 BGB: Tatbestand der Abtretung. Einigung, kein Verfügungsverbot, Bestimmbarkeit. Übergang im Zeitpunkt der Einigung, bei künftigen Forderungen bei deren Entstehung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 399 BGB: Abtretungsverbot kraft Vertrags oder kraft Natur der Leistung. Erfasst auch AGB-Klauseln im Lieferantenvertrag des Debitors: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 354a HGB: Trotz Paragraf 399 BGB ist die Abtretung wirksam, wenn die Forderung aus einem beiderseitigen Handelsgeschäft stammt oder gegen eine juristische Person: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 354a Abs. 2 HGB: Ausnahme für Darlehensforderungen von Kreditinstituten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
 - BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 7. Antwortform
 

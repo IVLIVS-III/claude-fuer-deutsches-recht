@@ -54,13 +54,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - UrhG Paragraf 51: Zitatrecht.
 - Paragraf 339 BGB: Vertragsstrafe bei Verstoß gegen Unterlassungserklärung; nicht zu hoch vereinbaren: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 890 ZPO: Ordnungsgeld bis 250 000 € oder Ordnungshaft bei Verstoß gegen gerichtliche Unterlassungsverfügung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 15 EStG: https://www.gesetze-im-internet.de/estg/__15.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 611, 631 BGB: Agenturvertrag kann als Dienst- oder Werkvertrag ausgestaltet sein; Qualifikation bestimmt Gewährleistung und Kündigung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 84 HGB (analog): Handelsvertreter-Grundsätze anwendbar, wenn Agentur dauerhaft Geschäfte vermittelt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schoepfung als unionsrechtlichen Werkanker.
 - EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
 - BGH I ZR 90/20, I ZR 125/20, I ZR 126/20 und I ZR 35/21: Maßgebliche Influencer-Urteile zur Kennzeichnungspflicht, Gegenleistung, Tap-Tags und Sachvorteilen
-- BGH I ZR 90/20: https://openjur.de/u/2395894.html
-- BGH I ZR 125/20 und I ZR 126/20: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2021/2021170.html
 
 ## 7. Antwortform
 

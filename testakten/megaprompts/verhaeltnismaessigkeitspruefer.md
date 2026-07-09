@@ -1,111 +1,220 @@
-# Megaprompt: verhaeltnismaessigkeitspruefer
+# Vollprüfung: verhaeltnismaessigkeitspruefer
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 85 Skills des Plugins `verhaeltnismaessigkeitspruefer`.
+Dieser Vollprüfung enthaelt top-10 von 85 Skills des Plugins `verhaeltnismaessigkeitspruefer`.
 
 ## Inhaltsverzeichnis
 
-1. **verhaeltnismaessigkeit-mittelbare-diskriminierung** — Mittelbare Diskriminierung nach Paragraph 3 Abs. 2 AGG und der EuGH-Linie seit Bilka. Erfasst neutrale Vorschriften oder…
-2. **art-3-abs-2-3-besondere-gleichheitssaetze** — Besondere Gleichheitssaetze nach Art. 3 Abs. 2 und Abs. 3 GG. Gleichberechtigung von Mann und Frau als Strukturprinzip m…
-3. **agg-systematik-und-verhaeltnismaessigkeit** — Allgemeines Gleichbehandlungsgesetz als einfachrechtliche Umsetzung der Unionsrichtlinien zum Diskriminierungsschutz. Er…
-4. **luxemburg-cour-constitutionnelle-proportionnalite** — Luxemburgische Verhältnismäßigkeitsdogmatik der Cour constitutionnelle nach Art 95ter Verfassung mit Drei-Stufen-Test Ad…
-5. **drittwirkung-grundrechte-mittelbar** — Mittelbare Drittwirkung der Grundrechte im Privatrecht. Grundrechte wirken nicht unmittelbar zwischen Privaten sondern s…
-6. **griechenland-stedikastiriou-analogikotita** — Griechische Verhältnismäßigkeitsdogmatik nach Art 25 I 4 Verfassung 1975 idF 2001 mit der archi tis analogikotitas als D…
-7. **irland-supreme-court-proportionality** — Irische Verhältnismäßigkeitsdogmatik des Supreme Court of Ireland mit dem Heaney Test aus Heaney v Ireland 1994 IR 593 a…
-8. **drittwirkung-praxischeck-zivilrecht** — Praktischer Prüfkatalog fuer Drittwirkung im Zivilrecht. Behandelt die wichtigsten Einbruchstellen Paragraph 138 BGB Par…
-9. **oesterreich-vfgh-verhaeltnismaessigkeit** — Oesterreichische Verhältnismäßigkeitsdogmatik des Verfassungsgerichtshofs mit dem Drei-Stufen-Test Geeignetheit Erforder…
-10. **frankreich-controle-proportionnalite** — Franzoesische Verhältnismäßigkeitsdogmatik des Conseil constitutionnel und des Conseil d Etat mit Triple Test des CE sei…
+1. **art-3-gg-allgemeiner-gleichheitssatz** — Wenn es um Allgemeiner Gleichheitssatz — Art. 3 Abs. 1 GG als Differenzierungspruefung in Verhältnismäßigkeitsprüfer geh…
+2. **schwangerschaftsabbruch-bverfge-39-1** — Wenn es um Schwangerschaftsabbruch BVerfGE 39. 1: Schutzpflicht und Untermaß in Verhältnismäßigkeitsprüfer geht: ordnet …
+3. **schranke-vorbehaltlos-verfassungsimmanent** — Wenn es um Vorbehaltlose Grundrechte und verfassungsimmanente Schranken in Verhältnismäßigkeitsprüfer geht: ordnet Sachv…
+4. **art-3-abs-2-3-besondere-gleichheitssaetze** — Wenn es um Besondere Gleichheitssaetze — Art. 3 Abs. 2 und Abs. 3 GG in Verhältnismäßigkeitsprüfer geht: ordnet Sachverh…
+5. **eilrechtsschutz-folgenabwaegung-paragraf-32-bverfgg** — Wenn es um Eilrechtsschutz: Folgenabwägung nach Paragraf 32 BVerfGG in Verhältnismäßigkeitsprüfer geht: ordnet Sachverha…
+6. **eigentum-art-14-inhalts-schranken-enteignung** — Wenn es um Eigentum Art. 14: Inhaltsgrenze, Enteignung, Ausgleich in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt…
+7. **bverfg-polizeirecht-gefahrenprognose** — Wenn es um Polizeirecht und Gefahrenprognose nach BVerfG-Maßstab in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt,…
+8. **absolute-grenze-existenzminimum** — Wenn es um Absolute Grenze: Menschenwuerdiges Existenzminimum in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, No…
+9. **luxemburg-cour-constitutionnelle-proportionnalite** — Wenn es um Luxemburg Cour Constitutionnelle Proportionnalite in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Nor…
+10. **ueberwachung-streubreite-vorratsdaten-rasterfahndung** — Wenn es um Überwachung: Streubreite, Vorratsdaten, Rasterfahndung in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt…
 
 ---
 
-## Skill: `verhaeltnismaessigkeit-mittelbare-diskriminierung`
+## Skill: `art-3-gg-allgemeiner-gleichheitssatz`
 
-_Mittelbare Diskriminierung nach Paragraph 3 Abs. 2 AGG und der EuGH-Linie seit Bilka. Erfasst neutrale Vorschriften oder Kriterien die Traegerinnen eines geschuetzten Merkmals in besonderer Weise benachteiligen koennen. Rechtfertigung nur durch ein rechtmaessiges Ziel und angemessene erforderliche Mittel. Verhältnismäßigkeit ist hier die ausschlaggebende Prüfungsstufe. Behandelt typische Konstellationen wie Teilzeitbenachteiligung Beruflicher Aufstieg Sprachanforderungen und Auswahlkriterien._
+_Wenn es um Allgemeiner Gleichheitssatz — Art. 3 Abs. 1 GG als Differenzierungspruefung in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Mittelbare Diskriminierung — Verhältnismäßigkeit als Rechtfertigungsmassstab
+# Allgemeiner Gleichheitssatz — Art. 3 Abs. 1 GG als Differenzierungspruefung
 
 ## Zweck dieses Skills
 
-Die mittelbare Diskriminierung ist die dogmatisch anspruchsvollste Form der Benachteiligung. Anders als bei der unmittelbaren Diskriminierung knuepft die Norm scheinbar neutral an aber wirkt sich typischerweise auf Traegerinnen eines geschuetzten Merkmals nachteilig aus. Verhältnismäßigkeit entscheidet hier über Rechtfertigung oder Unionsrechtswidrigkeit. Dieser Skill zeigt die Prüfung und die Leitlinien des EuGH.
+Art. 3 Abs. 1 GG verbietet nicht jede Ungleichbehandlung, sondern die ungerechtfertigte. Die Rechtfertigung folgt einer eigenen Dogmatik, die der allgemeinen Verhältnismäßigkeitspruefung folgt, aber eine vorgelagerte Vergleichsstufe und einen gleitenden Prüfungsmassstab kennt. Dieser Skill ordnet beide Schritte zusammen.
 
-## Prüfungsschema nach Paragraph 3 Abs. 2 AGG
+## Prüfungsschema
 
-1. **Neutrale Vorschrift Kriterium oder Verfahren** — kein Bezug zu einem Merkmal aus Paragraph 1 AGG im Wortlaut.
-2. **Besondere Benachteiligungsmoeglichkeit** — Traegerinnen eines Merkmals werden typischerweise staerker belastet. Statistische Indizien oder Erfahrungssaetze.
-3. **Sachliche Rechtfertigung** — die Vorschrift ist durch ein **rechtmaessiges Ziel** sachlich gerechtfertigt und die Mittel zur Erreichung des Ziels sind **angemessen und erforderlich**.
+1. **Vergleichsgruppen bilden** — wesentlich Gleiches wird ungleich behandelt oder wesentlich Ungleiches gleich. Vergleichsmerkmal explizit benennen.
+2. **Differenzierung feststellen** — Norm, Verwaltungsakt oder faktische Praxis behandelt die Gruppen unterschiedlich.
+3. **Rechtfertigung prüfen** — abhaengig vom Prüfungsmassstab nach Willkuerformel oder Neuer Formel.
+4. **Verhältnismäßigkeit der Differenzierung** — wo Neue Formel greift, Vier-Stufen-Prüfung wie bei Eingriffsrechtfertigung.
 
-Die Rechtfertigung ist eine vollstaendige Verhältnismäßigkeitspruefung.
+## Willkuerformel und Neue Formel
 
-## EuGH-Linie
+### Willkuerformel (klassisch, ab BVerfGE 1, 14 — Suedweststaat)
 
-### Geburt der Figur — Rs. 170/84 Bilka
+Eine Differenzierung ist gerechtfertigt, wenn für sie ein **sachlicher Grund** besteht und sie nicht willkuerlich ist. Prüfungsdichte gering: Gesetzgeber hat weiten Spielraum, gerichtliche Kontrolle nur bei evidenter Sachwidrigkeit.
 
-Eine Regelung der Betrieblichen Altersversorgung schloss Teilzeitbeschaeftigte aus. Da Teilzeitbeschaeftigung in der konkreten Branche ueberwiegend von Frauen ausgeuebt wurde lag eine mittelbare Geschlechtsdiskriminierung vor. Rechtfertigung nur wenn die Maßnahme einem **tatsaechlichen Beduerfnis** entspricht **geeignet und erforderlich** ist.
+Anwendungsbereich heute: vor allem sachbezogene Differenzierungen ohne Personenbezug, geringer Eingriff, weiter Gestaltungsspielraum des Gesetzgebers.
 
-### Verfeinerung — Rs. C-127/92 Enderby Rs. C-167/97 Seymour-Smith
+### Neue Formel (ab BVerfGE 55, 72 — Praeklusion, 1980)
 
-Statistische Darlegungslast und Prüfungsdichte. Der Mitgliedstaat muss die Verhältnismäßigkeit der Regelung positiv belegen können.
+Differenzierungen zwischen Personengruppen, die sich nicht ohne weiteres in ihrem Verhalten ändern können, beduerfen einer **verhaeltnismaessigen Rechtfertigung**. Die Prüfung folgt den Stufen Geeignetheit, Erforderlichkeit und Angemessenheit.
 
-### Aktuelle Anwendung — Rs. C-415/10 Meister Rs. C-83/14 Chez
+Gleitender Maßstab: Je groesser die Naehe zu personenbezogenen Merkmalen aus Art. 3 Abs. 3 GG, je schwerer der Nachteil, je geringer die Beeinflussbarkeit durch den Betroffenen, desto strenger die Prüfung.
 
-Auskunftsanspruch bei Verdacht mittelbarer Diskriminierung und Anwendung auf ethnische Herkunft im Versorgungsverhaeltnis.
+## Prüfungsdichte — Faustregeln
 
-## Mittel der Indizdarlegung
+| Konstellation | Maßstab | Beispielentscheidung |
+|---|---|---|
+| Personenbezogene Differenzierung nah an Art. 3 Abs. 3 GG | strenge Verhältnismäßigkeit | BVerfGE 88, 87 Transsexuelle |
+| Personengruppe mit eingeschraenkter Änderungsmoeglichkeit | strenge Verhältnismäßigkeit | BVerfGE 130, 240 Elterngeld-Ost |
+| Sachbezogene Differenzierung mit Auswirkung auf Grundrechte | mittlere Prüfung | BVerfGE 122, 1 Agrardiesel |
+| Reine Sachdifferenzierung im Verwaltungsalltag | Willkuerformel | BVerfGE 12, 326 |
 
-Paragraph 22 AGG erleichtert die Beweisfuehrung: Wer Indizien beweist die eine Benachteiligung wegen eines Merkmals nach Paragraph 1 AGG vermuten lassen verlagert die Beweislast auf die andere Seite. Geeignete Indizien:
+## Verhältnismäßigkeit der Differenzierung
 
-- Statistische Auswertungen über die Wirkung der Regelung.
-- Aufschluesselung von Bewerbungs- oder Beurteilungsverfahren.
-- Vergleich der Quote der benachteiligten Gruppe.
-- Stellenausschreibungen mit verdaechtigen Formulierungen.
+Greift die Neue Formel, werden die klassischen vier Stufen auf die Differenzierung angewendet:
 
-## Typische Konstellationen
+1. **Legitimer Zweck** — der mit der Ungleichbehandlung verfolgte Zweck muss verfassungsrechtlich zulässig sein.
+2. **Geeignetheit** — die Differenzierung muss zur Zweckerreichung beitragen können.
+3. **Erforderlichkeit** — kein milderes, gleich geeignetes Mittel der Differenzierung verfuegbar.
+4. **Angemessenheit** — die Nachteile der benachteiligten Gruppe stehen in einem angemessenen Verhältnis zu den verfolgten Zwecken.
 
-- **Teilzeitbenachteiligung** — Ausschluss von Leistungen oder Aufstiegen für Teilzeitbeschaeftigte trifft typischerweise Frauen.
-- **Sprachanforderungen** — Anforderung muttersprachlicher Beherrschung trifft Personen mit Migrationshintergrund.
-- **Koerpergroessen-Anforderungen** — etwa bei Polizei oder Feuerwehr können Frauen typischerweise schlechter erfuellen.
-- **Dauerverfuegbarkeit** — Anforderung staendiger Erreichbarkeit kann Eltern mit Sorgeverantwortung treffen.
-- **Berufserfahrungs-Anforderungen** — können aeltere oder juengere Bewerberinnen unverhaeltnismaessig benachteiligen.
-
-## Verhältnismäßigkeit im Einzelnen
-
-1. **Legitimes Ziel** — wirtschaftliche Erwaegungen allein reichen nach EuGH nicht aus es muss ein **tatsaechliches Beduerfnis** der Stelle bestehen.
-2. **Geeignetheit** — die Regelung muss zur Zweckerreichung beitragen können.
-3. **Erforderlichkeit** — mildere gleich geeignete Mittel mit weniger Diskriminierungswirkung sind vorrangig.
-4. **Angemessenheit** — Abwaegung zwischen Belastung der benachteiligten Gruppe und Zweck.
+Besonderheit gegenueber der Eingriffsverhaeltnismaessigkeit: Die Abwaegung erfolgt nicht zwischen Grundrechtstraeger und Gemeinwohl, sondern zwischen zwei Gruppen oder zwischen einer Gruppe und dem Differenzierungsgrund.
 
 ## Tragende Leitentscheidungen
 
-- EuGH Rs. 170/84 Bilka — Geburt der mittelbaren Diskriminierung
-- EuGH Rs. C-127/92 Enderby — statistische Indizdarlegung
-- EuGH Rs. C-167/97 Seymour-Smith — Rechtfertigungslast
-- EuGH Rs. C-415/10 Meister — Auskunftsanspruch
-- EuGH Rs. C-83/14 Chez — ethnische Herkunft im Versorgungsverhaeltnis
-- BAG vom 22.04.2010 — 6 AZR 966/08 — mittelbare Diskriminierung bei Teilzeit
-- BAG vom 27.01.2011 — 6 AZR 526/09 — Sprachanforderungen
+- BVerfGE 1, 14 — Suedweststaat, Willkuerformel als Ausgangspunkt
+- BVerfGE 55, 72 — Praeklusion, Geburt der Neuen Formel
+- BVerfGE 88, 87 — Transsexuellengesetz, strenge Massstaebe bei personenbezogenen Merkmalen
+- BVerfGE 122, 1 — Agrardiesel, mittlere Prüfungsdichte bei wirtschaftslenkenden Normen
+- BVerfGE 130, 240 — Elterngeld-Ost, Verhältnismäßigkeit als Maßstab
+- BVerfGE 152, 274 — Hartz IV Sanktionen, gleitender Maßstab bei Existenzsicherung
+- BVerfGE 158, 282 — Solidaritaetszuschlag, Willkuerformel im Steuerrecht
 
 ## Fallstricke
 
-- **Unmittelbare und mittelbare Diskriminierung verwechseln** — bei mittelbarer Diskriminierung ist die Anknuepfung im Wortlaut neutral. Die Prüfung der Diskriminierungsrichtung bestimmt den Rechtfertigungsmassstab.
-- **Statistische Darlegung uebergehen** — ohne Indizien greift keine Beweislastverlagerung nach Paragraph 22 AGG.
-- **Rein wirtschaftliche Ziele anerkennen** — der EuGH verlangt einen tatsaechlichen Bedarf der Stelle nicht jeden betriebswirtschaftlichen Optimierungswunsch.
-- **Erforderlichkeit pauschal bejahen** — milderes Mittel muss ernsthaft geprueft werden auch wenn es teurer oder aufwendiger ist.
-- **Auswirkung statt Wirkung prüfen** — entscheidend ist nicht die individuelle Benachteiligung sondern die typische Gruppenwirkung der neutralen Regelung.
+- **Falsche Vergleichsgruppe** — wird die Vergleichsgruppe zu eng oder zu weit gefasst, geht die ganze Prüfung schief. Vergleichsmerkmal in der Norm selbst suchen.
+- **Prüfungsmassstab pauschal waehlen** — Willkuerformel und Neue Formel sind keine Alternativen nach Geschmack. Maßstab aus den Faktoren ableiten: Personenbezug, Beeinflussbarkeit, Eingriffstiefe, Grundrechtsnaehe.
+- **Differenzierungsgrund und Differenzierungswirkung verwechseln** — der Grund liegt im Norminhalt, die Wirkung beim Adressaten. Beide getrennt benennen.
+- **Art. 3 Abs. 3 GG uebersehen** — wenn das Differenzierungsmerkmal in Abs. 3 aufgefuehrt ist, gelten strengere Massstaebe; eigene Prüfung erforderlich.
 
 ## Verwandte Skills
 
-- agg-systematik-und-verhaeltnismaessigkeit — Systematik des AGG
-- art-3-abs-2-3-besondere-gleichheitssaetze — verfassungsrechtliche Grundlage
-- gleichbehandlung-arbeitsrecht-praxischeck — Paragraph 22 AGG in der Praxis
-- unionsrecht-grundrechte-charta — Charta-Grundrechte und EuGH-Massstaebe
-- erforderlichkeit-mildestes-mittel — Erforderlichkeit als zentrale Stufe
+- art-3-abs-2-3-besondere-gleichheitssaetze — besondere Gleichheitssaetze
+- agg-systematik-und-verhaeltnismaessigkeit — einfachrechtliche Dimension
+- abwaegungsgesetz-und-gewichtsformel-alexy — formale Abwaegung
+- verhaeltnismaessigkeit-einstieg — Vier-Stufen-Grundschema
+
+---
+
+## Skill: `schwangerschaftsabbruch-bverfge-39-1`
+
+_Wenn es um Schwangerschaftsabbruch BVerfGE 39. 1: Schutzpflicht und Untermaß in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Schwangerschaftsabbruch BVerfGE 39, 1: Schutzpflicht und Untermaß
+
+## Anwendungsfall
+
+Ein Gesetz soll nicht Freiheit beschränken, sondern Schutz organisieren: Leben, Gesundheit, Klima, Sicherheit oder Schutz besonders verletzlicher Personen. Dann reicht die klassische Übermaßprüfung nicht. Der Skill fragt, ob der Staat **zu wenig** schützt.
+
+## BVerfG-Anker
+
+- BVerfG, Urteil vom 25.02.1975, 1 BvF 1/74 u. a., BVerfGE 39, 1.
+- BVerfG, Urteil vom 28.05.1993, 2 BvF 2/90 u. a., BVerfGE 88, 203.
+- BVerfG, Beschluss vom 24.03.2021, 1 BvR 2656/18 u. a., BVerfGE 157, 30.
+- Art. 1 Abs. 1 GG, Art. 2 Abs. 2 Satz 1 GG, Art. 20a GG.
+
+## Prüfpfad
+
+1. **Schutzgut bestimmen:** Welches Grundrecht verlangt aktiven Schutz?
+2. **Gefährdungslage rekonstruieren:** Ist die Gefahr real, strukturell, prognostisch oder nur behauptet?
+3. **Schutzkonzept des Gesetzgebers lesen:** Beratung, Verfahren, Sanktion, Prävention, Organisation und Kontrolle getrennt erfassen.
+4. **Untermaß prüfen:** Nicht jede Schutzlücke ist verfassungswidrig; verfassungswidrig wird es bei evident unzureichendem Schutz oder inkonsistentem Schutzkonzept.
+5. **Übermaß gegen Untermaß spiegeln:** Mehr Schutz kann zugleich stärker in Freiheit eingreifen. Das Ergebnis muss beide Seiten sichtbar halten.
+
+## Tragende Aussagen der drei Leitentscheidungen
+
+| Entscheidung | Tragende Aussage |
+|---|---|
+| BVerfGE 39, 1 (1975) | Der Staat schuldet dem ungeborenen Leben aktiven Schutz; Untätigkeit verletzt die Schutzpflicht aus Art. 2 II 1 GG iVm Art. 1 I GG. Die Schutzpflicht ist nicht eine bloße Erlaubnis, sondern ein verfassungsrechtliches Soll. |
+| BVerfGE 88, 203 (1993) | Konkretisierung: ein nicht-strafbewehrter Beratungsschutz ist zulässig, wenn er real wirksam ist. Maßstab ist die Effektivität, nicht die Sanktionsschärfe. |
+| BVerfGE 157, 30 (2021) | Erweiterung in die Zukunft: intertemporale Freiheitswahrung; ein Schutzkonzept muss generationengerecht verteilen. Schutzpflicht kann zukünftige Eingriffe in heutiges Handeln rechtfertigen. |
+
+## Dogmatische Schichten
+
+- **Subjektivierung der Schutzpflicht:** Aus der objektiven Werteordnung erwächst nach BVerfGE 39, 1 i. V. m. der Lüth-Linie (BVerfGE 7, 198) eine subjektive Schutzpflicht. Diese ist aber justiziabel nur am Maßstab evidenter Unzureichendheit (Einschätzungsspielraum des Gesetzgebers).
+- **Symmetrie zur Übermaßprüfung:** Untermaßverbot folgt strukturell der Verhältnismäßigkeit (legitimer Zweck = Schutz; Geeignetheit = wirksamer Schutz; Erforderlichkeit = milderes gleich wirksames Schutzmittel; Angemessenheit = Schutz im Verhältnis zu Eingriffen Dritter).
+- **Bewertungsmaßstab:** „evident unzulänglich" ist die untere Schwelle; bei intensiven Eingriffsdimensionen (Klimaschutz, Lebensschutz Ungeborener) verschärft sich die Kontrolle.
+
+## Anwendungsfälle
+
+| Bereich | Untermaß-Frage |
+|---|---|
+| Schwangerschaftsabbruch | Reicht das Beratungsmodell der §§ 218a ff. StGB? |
+| Klimaschutz | Reicht das KSG, oder muss ein generationengerechter Reduktionspfad festgeschrieben werden? |
+| Gewalt gegen Frauen | Sind Sorgerechts- und Umgangsregeln effektiv geschützt? |
+| Kindeswohl | Reicht das Schutzkonzept des § 1666 BGB i. V. m. SGB VIII? |
+| Cybersecurity / KRITIS | Reicht die staatliche Schutzarchitektur gegen Angriffe auf kritische Infrastruktur? |
+
+## Anschluss
+
+- Theorielinie: `theorie-alexy-prinzipientheorie` (Untermass als gespiegeltes Optimierungsgebot)
+- Klimaspur: `klimaschutz-bverfge-157-30`
+- Rechtsgeschichte: `rechtsgeschichte-verhaeltnismaessigkeit-linie`
+- Klausurschema: `klausur-pruefungsschema-kompakt`
+
+## Quellenhygiene-Hinweis
+
+Vor jeder Verwendung im Schriftsatz: BVerfG-Volltexte unter `bundesverfassungsgericht.de` live abrufen, Randnummer-Bezuege verifizieren. Die Schutzpflicht-Linie hat seit 1975 mehrere dogmatische Wendungen erfahren (Beratungsschutz 1993, Klimadimension 2021); nicht jeder Klassiker-Satz aus 1975 wird heute identisch zitiert.
+
+---
+
+## Skill: `schranke-vorbehaltlos-verfassungsimmanent`
+
+_Wenn es um Vorbehaltlose Grundrechte und verfassungsimmanente Schranken in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Vorbehaltlose Grundrechte und verfassungsimmanente Schranken
+
+> Wenn ein Grundrecht **keinen** Schrankenvorbehalt hat, müssen kollidierende Verfassungsgueter herhalten. Das ist eine schmale Tuer, und das BVerfG geht hier sehr genau zu Werk.
+
+## Welche Grundrechte sind vorbehaltlos?
+
+| Grundrecht | Charakter | BVerfG mit Schlagwort |
+| --- | --- | --- |
+| Art 4 I, II GG | Glaubens-/Gewissens-/Bekenntnisfreiheit | BVerfGE 93, 1 (Kruzifix-Beschluss); BVerfGE 108, 282 (Kopftuch I); BVerfGE 138, 296 (Kopftuch II) |
+| Art 5 III 1 GG | Kunstfreiheit | BVerfGE 30, 173 (Mephisto-Beschluss); BVerfGE 67, 213 (Anachronistischer Zug) |
+| Art 5 III 1 GG | Wissenschaftsfreiheit | BVerfGE 35, 79 (Hochschul-Urteil); BVerfGE 111, 333 (Brandenburgisches Hochschulgesetz) |
+| Art 8 I GG (geschlossen) | Versammlungsfreiheit in geschlossenen Raeumen | BVerfGE 69, 315 (Brokdorf-Beschluss als Maßstab) |
+| Art 9 III GG | Koalitionsfreiheit | BVerfGE 50, 290 (Mitbestimmungs-Urteil) |
+| Art 16 II 1 GG | Schutz vor Auslieferung Deutscher | EU-Haftbefehl ueberlagert (Art 16 II 2 GG) |
+
+## Kollidierende Verfassungsgueter (Beispiele)
+
+- Schutz Dritter aus Art 2 II GG (Leben, koerperliche Unversehrtheit)
+- Allgemeines Persoenlichkeitsrecht aus Art 2 I iVm Art 1 I GG
+- Staatlicher Erziehungsauftrag aus Art 7 I GG und Elternrecht Art 6 II GG
+- Bestand und Funktionsfaehigkeit von Bundeswehr (Art 87a GG), Strafrechtspflege (Art 92, 97 GG), Demokratie (Art 20 GG)
+- Religionsfreiheit Dritter und negative Glaubensfreiheit aus Art 4 GG selbst
+- Schutzpflicht aus Art 2 II GG (BVerfGE 39, 1 Schwangerschaftsabbruch I)
+
+## Methode: Praktische Konkordanz
+
+Verfassungsimmanente Schranken werden über die **praktische Konkordanz** aufgeloest. Beide Verfassungsgueter sollen moeglichst weitgehend zur Geltung kommen, ohne dass eines vollstaendig zurueckweicht (BVerfGE 93, 1 Kruzifix-Beschluss; BVerfGE 35, 366 Eindringen in Glaubensbekenntnis). Siehe `praktische-konkordanz`.
+
+## Prüfraster
+
+1. Vorbehaltlosigkeit feststellen.
+2. Kollidierendes Verfassungsgut benennen (Verfassungsrang, nicht blosser Gemeinwohlbelang).
+3. Gesetzliche Grundlage für die Konkretisierung suchen oder direkte Heranziehung der Verfassung prüfen.
+4. Konkordanz herstellen: schonendster Ausgleich, der beide Gueter wahrt.
+5. Absolute Grenzen prüfen (Menschenwuerde, Wesensgehalt, Existenzminimum).
+
+## Quellen mit Schlagwort
+
+- BVerfGE 30, 173 (Mephisto-Beschluss, Kunstfreiheit)
+- BVerfGE 35, 79 (Hochschul-Urteil, Wissenschaftsfreiheit)
+- BVerfGE 35, 366 (Kreuz im Gerichtssaal, negative Glaubensfreiheit)
+- BVerfGE 39, 1 (Schwangerschaftsabbruch I, Schutzpflicht)
+- BVerfGE 67, 213 (Anachronistischer Zug, Kunstfreiheit)
+- BVerfGE 69, 315 (Brokdorf-Beschluss, Versammlungsfreiheit)
+- BVerfGE 93, 1 (Kruzifix-Beschluss, praktische Konkordanz)
+- BVerfGE 108, 282 (Kopftuch I, Religionsfreiheit Lehrerin)
+- BVerfGE 138, 296 (Kopftuch II, bundesweite Pauschalverbote)
 
 ---
 
 ## Skill: `art-3-abs-2-3-besondere-gleichheitssaetze`
 
-_Besondere Gleichheitssaetze nach Art. 3 Abs. 2 und Abs. 3 GG. Gleichberechtigung von Mann und Frau als Strukturprinzip mit positivem Foerderauftrag sowie absolute Diskriminierungsverbote wegen Geschlecht Abstammung Rasse Sprache Heimat und Herkunft Glauben religioesen oder politischen Anschauungen und Behinderung. Erläutert wann strenge Prüfung greift wann Differenzierung trotz Anknuepfung an verbotenes Merkmal zulaessig bleibt und wie das Verhältnis zu Art. 3 Abs. 1 GG aussieht._
+_Wenn es um Besondere Gleichheitssaetze — Art. 3 Abs. 2 und Abs. 3 GG in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Besondere Gleichheitssaetze — Art. 3 Abs. 2 und Abs. 3 GG
 
@@ -181,96 +290,256 @@ Art. 3 Abs. 2 und Abs. 3 GG sind lex specialis. Greift ein besonderer Gleichheit
 
 ---
 
-## Skill: `agg-systematik-und-verhaeltnismaessigkeit`
+## Skill: `eilrechtsschutz-folgenabwaegung-paragraf-32-bverfgg`
 
-_Allgemeines Gleichbehandlungsgesetz als einfachrechtliche Umsetzung der Unionsrichtlinien zum Diskriminierungsschutz. Erklaert Schutzbereich nach Paragraph 1 AGG Anwendungsbereich nach Paragraph 2 AGG Diskriminierungsformen nach Paragraph 3 AGG sowie die zentralen Rechtfertigungsnormen Paragraph 8 und Paragraph 10 AGG im Arbeitsrecht und Paragraph 20 AGG im Zivilrecht. Verhältnismäßigkeit ist hier eingebauter Prüfungsmassstab innerhalb der Rechtfertigung._
+_Wenn es um Eilrechtsschutz: Folgenabwägung nach Paragraf 32 BVerfGG in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# AGG-Systematik und Verhältnismäßigkeit als Rechtfertigung
+# Eilrechtsschutz: Folgenabwägung nach § 32 BVerfGG
 
-## Zweck dieses Skills
+## Normenanker
 
-Das AGG ist die einfachrechtliche Brueckennorm zwischen dem verfassungsrechtlichen Diskriminierungsverbot des Art. 3 Abs. 3 GG und den Unionsrichtlinien zur Gleichbehandlung. Verhältnismäßigkeit taucht im AGG nicht als selbständiger Prüfungsschritt auf sondern als integrierter Maßstab in den Rechtfertigungstatbestaenden. Dieser Skill ordnet die Systematik und zeigt wo Verhältnismäßigkeit zu prüfen ist.
+- § 32 Abs. 1 BVerfGG: einstweilige Anordnung zur Abwehr schwerer Nachteile, drohender Gewalt oder aus anderem wichtigem Grund zum gemeinen Wohl.
+- § 32 Abs. 6 BVerfGG: zeitliche Grenze der einstweiligen Anordnung.
+- Art. 19 Abs. 4 GG: effektiver Rechtsschutz gegen oeffentliche Gewalt.
+- Art. 93 Abs. 1 Nr. 4a GG: Verfassungsbeschwerde.
+- Art. 20 Abs. 3 GG: Bindung an Recht und Gesetz; Rechtsschutz darf nicht leerlaufen.
+- § 80 Abs. 5 VwGO, § 123 VwGO: fachgerichtliche Eilrechtsschutz-Vorlaeufer.
 
-## Aufbau des AGG
+## Quellenanker
 
-### Paragraph 1 AGG — Schutzgegenstand
+- Bundesverfassungsgericht, Verfahrensart "Einstweiliger Rechtsschutz": § 32 BVerfGG dient einer vorlaeufigen Regelung, damit die spaetere Entscheidung nicht leerlaeuft.
+- BVerfG, Beschluss vom 21.01.2025, 2 BvQ 2/25, und Beschluss vom 06.06.2025, 2 BvQ 39/25: aktuelle Kammerformel zu § 32 Abs. 1 BVerfGG mit Folgenabwaegung bei offenem Hauptsacheausgang.
 
-Verbot der Benachteiligung wegen Rasse oder ethnischer Herkunft Geschlecht Religion oder Weltanschauung Behinderung Alter oder sexueller Identitaet.
+## Frei prüfbare Quellen
 
-### Paragraph 2 AGG — Anwendungsbereich
+- BVerfG-Verfahrensart einstweiliger Rechtsschutz: `https://www.bundesverfassungsgericht.de/DE/DasBundesverfassungsgericht/Verfahrensarten/EinstweiligerRechtsschutz/einstweiliger-rechtsschutz_node.html`
+- BVerfGG § 32: `https://www.gesetze-im-internet.de/bverfgg/__32.html`
+- BVerfG, 21.01.2025, 2 BvQ 2/25: `https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/01/qk20250121_2bvq000225.html`
+- BVerfG, 06.06.2025, 2 BvQ 39/25: `https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/06/qk20250606_2bvq003925.html`
 
-Sachlich: Zugang zu Beschäftigung beruflicher Aufstieg Arbeitsbedingungen Mitgliedschaft in Berufsverbaenden Sozialschutz und Bildung. Zivilrechtlicher Teil in den Paragraphen 19 bis 21 AGG für Massengeschaefte und privatrechtliche Versicherungen.
+## Arbeitsauftrag
 
-### Paragraph 3 AGG — Diskriminierungsformen
+Trenne im Eilrechtsschutz strikt:
 
-- Unmittelbare Benachteiligung — Anknuepfung direkt an ein Merkmal aus Paragraph 1 AGG.
-- Mittelbare Benachteiligung — neutrale Vorschrift trifft Traegerinnen eines Merkmals in besonderer Weise.
-- Belaestigung — wuerdeverletzendes Umfeld.
-- Sexuelle Belaestigung — eigenstaendiger Tatbestand.
-- Anweisung zur Benachteiligung — eigenstaendige Verletzung.
+1. **Zulaessigkeits- und Offensichtlichkeitskontrolle:** Ist die Hauptsache unzulaessig oder offensichtlich unbegruendet? Dann keine Eilanordnung.
+2. **Folgenabwaegung:** Ist der Ausgang offen, vergleiche die Folgen beider Alternativen.
+3. **Rueckholbarkeit:** Welche Schaeden sind irreversibel, welche nur finanziell oder organisatorisch?
+4. **Gemeinwohlbezug:** Nicht nur Individualinteresse; bei Normen, Wahlen, Haushaltsakten, Gefahrenabwehr und Freiheitseingriffen besonders herausarbeiten.
 
-## Rechtfertigungsnormen im Arbeitsrecht
+## Folgenmatrix
 
-### Paragraph 8 AGG — wesentliche und entscheidende berufliche Anforderung
+| Variante | Frage | Typische Belege |
+| --- | --- | --- |
+| EA ergeht, Hauptsache später erfolglos | Welche staatliche Aufgabe oder Drittposition wird vorlaeufig blockiert? | Verwaltungsablauf, Sicherheit, Haushalt, demokratischer Zeitplan, Rechte Dritter |
+| EA ergeht nicht, Hauptsache später erfolgreich | Welche Grundrechtsposition geht unwiederbringlich verloren? | Versammlungstermin, Abschiebung, irreversible Datenuebermittlung, Publikation, Wahlvorgang |
+| Milderes Zwischenmittel | Kann eine Auflage, Befristung, Teilanordnung oder Sicherung die Risiken reduzieren? | Stillhaltezusage, anonymisierte Daten, Rueckabwicklungsvorbehalt, Schutzauflage |
 
-Unterschiedliche Behandlung wegen eines Merkmals nach Paragraph 1 AGG ist zulässig wenn das Merkmal eine **wesentliche und entscheidende berufliche Anforderung** darstellt **der Zweck rechtmaessig** ist und die Anforderung **angemessen** ist.
+## Fehlerbremse
 
-Prüfungsschritte:
-1. Berufliche Anforderung im konkreten Taetigkeitsbild benennen.
-2. Wesentlichkeit und Entscheidungserheblichkeit der Anforderung darlegen.
-3. Rechtmaessiger Zweck der Anforderung.
-4. Angemessenheit als Verhältnismäßigkeit im engeren Sinn.
+- Nicht die volle Hauptsache prüfen, wenn der Ausgang offen ist.
+- Nicht "Eilbeduerftigkeit" leer behaupten; Kalender, Fristen, Vollzugshandlung und irreparable Folge konkretisieren.
+- Nicht jedes finanzielle Risiko als schwerer Nachteil behandeln; Rueckholbarkeit prüfen.
+- Nicht nur den Antragsteller sehen: Folgen für Dritte und Gemeinwohl sauber benennen.
 
-### Paragraph 10 AGG — zulaessige Ungleichbehandlung wegen Alters
+## Output
 
-Sondernorm für das Merkmal Alter. Rechtfertigung wenn die Ungleichbehandlung **objektiv und angemessen** ist und durch ein **legitimes Ziel** gerechtfertigt wird sowie die Mittel zur Erreichung des Ziels **angemessen und erforderlich** sind. Die Aufzaehlung in den Saetzen 3 enthaelt Regelbeispiele die nicht abschliessend sind.
+- Zwei-Spalten-Folgenabwaegung.
+- Antragsskelett nach § 32 BVerfGG.
+- Red-Team: Welche Annahme macht die Hauptsache offensichtlich aussichtslos?
 
-Hier sind alle vier Stufen der Verhältnismäßigkeit explizit benannt: legitimes Ziel Geeignetheit Erforderlichkeit Angemessenheit.
+---
 
-## Rechtfertigung im Zivilrecht
+## Skill: `eigentum-art-14-inhalts-schranken-enteignung`
 
-### Paragraph 20 AGG
+_Wenn es um Eigentum Art. 14: Inhaltsgrenze, Enteignung, Ausgleich in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-Im Anwendungsbereich der zivilrechtlichen Diskriminierungsverbote nach den Paragraphen 19 bis 21 AGG ist eine unterschiedliche Behandlung zulässig wenn für sie ein **sachlicher Grund** vorliegt. Absatz 1 zaehlt Regelbeispiele auf: Vermeidung von Gefahren Schutz der Intimsphaere Gewaehrung besonderer Vorteile bei fehlendem Gleichbehandlungsinteresse Religionsfreiheit.
+# Eigentum Art. 14: Inhaltsgrenze, Enteignung, Ausgleich
 
-Prüfungsdichte: schwaecher als bei Paragraph 8 AGG. Sachlicher Grund reicht aber Verhältnismäßigkeit wirkt als Korrektiv über das Angemessenheitselement.
+## Normenanker
 
-## Verhältnis zu Verfassungsrecht und Unionsrecht
+- Art. 14 Abs. 1 Satz 1 GG: Eigentumsgarantie.
+- Art. 14 Abs. 1 Satz 2 GG: Inhalt und Schranken werden durch Gesetz bestimmt.
+- Art. 14 Abs. 2 GG: Eigentum verpflichtet; Gebrauch soll zugleich dem Wohl der Allgemeinheit dienen.
+- Art. 14 Abs. 3 GG: Enteignung nur zum Wohle der Allgemeinheit, durch oder aufgrund Gesetzes, mit Entschaedigung.
+- Art. 12 Abs. 1 GG: Berufsfreiheit bei unternehmerischer Nutzung des Eigentums.
+- Art. 3 Abs. 1 GG: Gleichheit bei Belastungsverteilung.
+- Art. 20a GG: Umwelt- und Klimaschutz als verfassungsrechtliches Gemeinwohlziel.
 
-- Das AGG setzt unter anderem die Richtlinien 2000/43/EG 2000/78/EG 2004/113/EG und 2006/54/EG um.
-- Im Anwendungsbereich des Unionsrechts gelten die Auslegungsmassstaebe des EuGH.
-- Verfassungsrechtlich ergaenzt das AGG den Drittwirkungsschutz aus Art. 3 Abs. 3 GG zwischen Privaten.
+## Entscheidungsanker
 
-## Tragende Leitentscheidungen
+- BVerfG, Urteil vom 06.12.2016, 1 BvR 2821/11, 1 BvR 321/12, 1 BvR 1456/12, BVerfGE 143, 246 (Atomausstieg): Inhalts- und Schrankenbestimmung kann weit reichen, muss aber Belastungen verhaeltnismaessig verteilen und gegebenenfalls Ausgleich vorsehen.
+- BVerfG, Beschluss vom 09.07.2020, 1 BvR 2067/17: Verwendungsverbote können Inhalts- und Schrankenbestimmungen sein; Abgrenzung zur Enteignung nicht nur nach wirtschaftlicher Schwere.
 
-- EuGH Rs. C-144/04 Mangold — Altersdiskriminierung und Unionsrechtsanwendung
-- EuGH Rs. C-555/07 Kuecuekdeveci — unmittelbare Wirkung des Diskriminierungsverbots
-- EuGH Rs. C-83/14 Chez — mittelbare ethnische Diskriminierung
-- BAG vom 22.05.2014 — 8 AZR 662/13 — wesentliche berufliche Anforderung
-- BAG vom 19.12.2019 — 8 AZR 2/19 — Angemessenheitspruefung Paragraph 10 AGG
-- BVerfGE 152, 152 — Recht auf Vergessen II und Anwendung des Unionsgrundrechtsschutzes
+## Frei prüfbare Quellen
 
-## Fallstricke
+- Atomausstieg, 06.12.2016, 1 BvR 2821/11 u.a.: `https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/12/rs20161206_1bvr282111.html`
+- BVerfG, 09.07.2020, 1 BvR 2067/17: `https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/07/rk20200709_1bvr206717.html`
+- Art. 14 GG: `https://www.gesetze-im-internet.de/gg/art_14.html`
 
-- **Verhältnismäßigkeit als externen Schritt suchen** — sie ist in den Rechtfertigungsnormen eingebettet und nicht separat zu prüfen.
-- **Paragraph 8 und Paragraph 10 AGG verwechseln** — Paragraph 8 ist allgemein für alle Merkmale Paragraph 10 nur für Alter mit eigenstaendiger Dogmatik.
-- **Pauschale Rechtfertigung** — für jede einzelne Maßnahme ist die Anforderung im konkreten Stellenprofil zu begruenden.
-- **Belastete Beweissituation ignorieren** — Paragraph 22 AGG verlagert die Beweislast bei Indizien auf die Arbeitgeberseite.
-- **Zivilrechtlichen Teil unterschaetzen** — Massengeschaefte und privatrechtliche Versicherungen sind voll erfasst und Verstoesse können Beseitigung und Schadensersatz ausloesen.
+## Arbeitsauftrag
 
-## Verwandte Skills
+Beginne nicht mit "Enteignung", sondern mit der Eigentumsstruktur:
 
-- art-3-abs-2-3-besondere-gleichheitssaetze — verfassungsrechtliche Grundlage
-- verhaeltnismaessigkeit-mittelbare-diskriminierung — Paragraph 3 Abs. 2 AGG und EuGH-Linie
-- gleichbehandlung-arbeitsrecht-praxischeck — Paragraph 7 und Paragraph 15 AGG in der Praxis
-- drittwirkung-unionsgrundrechte-charta — Charta der Grundrechte und Diskriminierungsverbot
-- verhaeltnismaessigkeit-einstieg — Vier-Stufen-Grundschema
+1. Was ist Eigentum im Schutzbereich?
+2. Wird eine konkrete Rechtsposition entzogen oder nur ihre Nutzung für die Zukunft geregelt?
+3. Ist die Belastung allgemein-abstrakt oder individualisiert zugunsten eines bestimmten Vorhabens?
+4. Gibt es Uebergangs-, Ausgleichs- oder Haertefallregeln?
+5. Wird eine kleine Gruppe für Gemeinwohlziele uebermaessig belastet?
+
+## Vier Stufen
+
+| Stufe | Eigentumsfrage |
+| --- | --- |
+| Legitimer Zweck | Gemeinwohlziel: Umwelt, Stadtplanung, Energie, Mieterschutz, Denkmalschutz, Sicherheit. |
+| Geeignetheit | Traegt die Nutzungsbeschraenkung zum Ziel bei? |
+| Erforderlichkeit | Gibt es mildere Regulierung, laengere Uebergangsfrist, Genehmigungsvorbehalt, Ausgleich statt Verbot? |
+| Angemessenheit | Wie schwer ist der Substanz-, Nutzungs- oder Investitionsverlust; wie vorhersehbar war die Regulierung; wie breit ist die Last verteilt? |
+
+## Ausgleich als Verhältnismäßigkeitsventil
+
+Prüfe Ausgleich nicht erst am Ende. Bei schweren, ungleich verteilten Inhalts- und Schrankenbestimmungen kann ein finanzieller oder uebergangsrechtlicher Ausgleich die Verhältnismäßigkeit retten. Fehlt er, ist die Maßnahme nicht automatisch Enteignung, aber moeglicherweise unverhaeltnismaessig.
+
+## Output
+
+- Art.-14-Triage: Schutzbereich, Eingriffstyp, Intensitaet, Ausgleich.
+- Tabelle "Regulierung / Enteignung / ausgleichspflichtige Inhaltsbestimmung".
+- Entwurf für Normenkontrolle oder Schriftsatzabschnitt zur Eigentumsproportionalitaet.
+
+---
+
+## Skill: `bverfg-polizeirecht-gefahrenprognose`
+
+_Wenn es um Polizeirecht und Gefahrenprognose nach BVerfG-Maßstab in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Polizeirecht und Gefahrenprognose nach BVerfG-Maßstab
+
+## Anwendungsfall
+
+Eine Maßnahme der Polizei, Sicherheitsbehörde oder Nachrichtendienstkontrolle wird mit Gefahrenabwehr begründet: Identitätsfeststellung, Aufenthaltsverbot, Datenerhebung, Online-Durchsuchung, Telekommunikationsüberwachung, Gefährderansprache oder Einsatz besonderer Mittel.
+
+## BVerfG-Anker
+
+- BVerfG, Urteil vom 15.02.2006, 1 BvR 357/05, BVerfGE 115, 118.
+- BVerfG, Urteil vom 27.02.2008, 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274.
+- BVerfG, Urteil vom 20.04.2016, 1 BvR 966/09 und 1 BvR 1140/09, BVerfGE 141, 220.
+- BVerfG, Beschluss vom 27.05.2020, 1 BvR 1873/13 und 1 BvR 2618/13, BVerfGE 154, 152.
+- BVerfG, Beschluss vom 19.11.2021, 1 BvR 781/21 u. a., BVerfGE 159, 223.
+
+## Prüfpfad
+
+1. **Zweck:** Schutz von Leben, Gesundheit, Freiheit, Bestand des Staates, Strafverfolgungsvorsorge oder abstrakte Ordnung? Je diffuser der Zweck, desto strenger die Begründung.
+2. **Gefahrenschwelle:** Konkrete Gefahr, hinreichend konkretisierte Gefahr, drohende Gefahr, tatsächliche Anhaltspunkte oder bloße Vorsorge auseinanderhalten.
+3. **Prognosebasis:** Tatsachen, Quellen, Aktualität und Plausibilität offenlegen; keine Bauchgefühle als Gefahr ausgeben.
+4. **Eingriffsintensität:** Heimlichkeit, Streubreite, Dauer, Datenmenge, Nähe zum Kernbereich und Stigmatisierung gesondert gewichten.
+5. **Sicherungen:** Bestimmtheit, Benachrichtigung, Richtervorbehalt, Löschung, Zweckbindung, Protokollierung und unabhängige Kontrolle prüfen.
+
+## Fehlerbremse
+
+Sicherheitsrechtliche Verhältnismäßigkeit scheitert selten am Wort „Sicherheit", aber häufig an zu niedriger Gefahrenschwelle, zu breiter Streuung, fehlender Zweckbindung oder fehlenden Verfahrenssicherungen.
+
+## Gefahrenstufen-Hierarchie (BVerfG-Linie)
+
+| Stufe | Anforderung | Eingriffsintensität zulässig |
+|---|---|---|
+| **Konkrete Gefahr** | Tatsachen + Wahrscheinlichkeit eines Schadensereignisses im konkreten Fall | hoch (z. B. Wohnungsdurchsuchung, Ingewahrsamnahme) |
+| **Hinreichend konkretisierte Gefahr** | Tatsächliche Anhaltspunkte + bestimmbarer Personenkreis | mittel-hoch (z. B. Online-Durchsuchung) |
+| **Drohende Gefahr** (Bayern-/BKA-Gesetz-Linie) | Vorfeldermittlung, aber tatsachenbasiert | mittel (verfassungsrechtlich umstritten, BVerfGE 141, 220) |
+| **Tatsächliche Anhaltspunkte** | unterhalb konkreter Gefahr | niedrig-mittel |
+| **Bloße Vorsorge** | abstrakte Gefährdungsannahme | nur sehr eingriffsschwach (z. B. Statistik, Forschung) |
+
+## Verfahrensrechtliche Sicherungen — der harte Kern
+
+Aus der BKA-Gesetz-Entscheidung (BVerfGE 141, 220) folgen sieben Sicherungen, die bei intensiven Eingriffen sämtlich zu erfüllen sind:
+
+1. **Bestimmtheit der Ermächtigungsgrundlage** — Schutzgut, Voraussetzungen, Mittel ausdrücklich.
+2. **Konkrete Gefahrenschwelle** — keine Vorratsmaßnahmen ohne Tatsachenbasis.
+3. **Richtervorbehalt** — vorab durch unabhängigen Richter, bei Gefahr im Verzug nachträglich.
+4. **Kernbereichsschutz** — Schutz höchstpersönlicher Lebensführung (BVerfGE 109, 279 — Großer Lauschangriff).
+5. **Benachrichtigungspflicht** — nach Maßnahmeabschluss, ggf. mit Aufschub.
+6. **Löschung und Zweckbindung** — Fristen, Verwendungsbeschränkungen.
+7. **Unabhängige Kontrolle** — parlamentarisch (G10-Kommission) oder durch BfDI / LfDI.
+
+## Eingriffstypen mit BVerfG-Spuren
+
+| Maßnahme | Leitentscheidung | Zentrale Anforderung |
+|---|---|---|
+| Online-Durchsuchung | BVerfGE 120, 274 (2008) | Computer-Grundrecht (Art. 2 I i. V. m. Art. 1 I GG); konkrete Gefahr; Kernbereich; Richtervorbehalt |
+| Vorratsdatenspeicherung | BVerfGE 125, 260 (2010); EuGH C-203/15 (Tele2) | Streubreite + Anlasslosigkeit problematisch; höchste Sicherungen |
+| Automatisierte Kennzeichenerfassung | BVerfGE 150, 244 (2018) | Verhältnismäßigkeit auch bei Streifenmaßnahmen |
+| Heimliche Datenerhebung BKA | BVerfGE 141, 220 (2016) | Sieben-Punkte-Sicherungs-Kanon (siehe oben) |
+| Bestandsdatenauskunft | BVerfGE 154, 152 (2020) | Verfassungskonforme Anpassung TKG, BKAG, BPolG |
+| Anti-Terror-Datei | BVerfGE 133, 277 (2013) | Bestimmtheit der Datenkategorien, Vernetzung |
+| Versammlungsbeschränkung | BVerfGE 69, 315 (Brokdorf, 1985) | Auflage vor Verbot; konkrete Gefahr nötig |
+
+## Anschluss
+
+- Ueberwachungs-Spezial: `ueberwachung-streubreite-vorratsdaten-rasterfahndung`
+- Online-Durchsuchung: `online-durchsuchung-bverfge-120-274`
+- Versammlung: `versammlungsfreiheit-brokdorf-auflagen-verbot`
+- Kreuzberg-Vorform: `preussisches-ovg-kreuzberg-polizeirecht`
+
+## Quellenhygiene
+
+Alle Az. live auf `bundesverfassungsgericht.de` und `dejure.org` verifizieren. Sicherheitsrechtliche Linien ändern sich mit jedem Gesetzgebungsschritt; die Liste oben spiegelt den Stand Mitte 2020er.
+
+---
+
+## Skill: `absolute-grenze-existenzminimum`
+
+_Wenn es um Absolute Grenze: Menschenwuerdiges Existenzminimum in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Absolute Grenze: Menschenwuerdiges Existenzminimum
+
+> Der Staat darf das Existenzminimum nicht unterschreiten – auch nicht aus haushalts- oder fiskalpolitischen Gruenden. Diese Grenze hat das BVerfG aus Art 1 I GG in Verbindung mit dem Sozialstaatsprinzip Art 20 I GG entwickelt.
+
+## Dogmatische Verortung
+
+- Art 1 I GG: Menschenwuerde als objektiver Wert und subjektives Recht.
+- Art 20 I GG: Sozialstaatsprinzip als Konkretisierungsauftrag.
+- Beide Normen verbunden ergeben ein **Leistungsgrundrecht**: der Staat schuldet das materielle Existenzminimum **plus** das soziokulturelle Existenzminimum (Teilhabe am gesellschaftlichen, kulturellen und politischen Leben).
+
+## Begruendet in BVerfGE 125, 175 (Hartz-IV-Urteil)
+
+Kernaussagen:
+1. Art 1 I iVm Art 20 I GG gewaehrt **ein einklagbares Recht** auf Sicherung des menschenwuerdigen Existenzminimums.
+2. Der Gesetzgeber muss die Leistungen **transparent und nachvollziehbar** ermitteln (Verfahrensgrundrecht).
+3. Pauschalierungen und Schaetzungen sind möglich, aber methodisch begruendungspflichtig.
+4. Eine Unterschreitung des Existenzminimums ist mit der Wuerde nicht vereinbar.
+
+## Weiterentwicklungen
+
+| Entscheidung | Schlagwort | Bedeutung |
+| --- | --- | --- |
+| BVerfGE 132, 134 | Asylbewerberleistungen | Existenzminimum ist migrationspolitisch nicht relativierbar |
+| BVerfGE 137, 34 | Sanktionen SGB II Teil I | Kuerzungen brauchen ein Mindestmass an Sicherung |
+| BVerfGE 152, 68 | Hartz-IV-Sanktionen | 30-Prozent-Kuerzung verfassungsmaessig nur unter strikten Bedingungen, 60- und 100-Prozent-Kuerzungen verfassungswidrig |
+| BVerfGE 153, 1 | Sozialrechtliche Bedarfssaetze | Verfahrensanforderungen weiter konkretisiert |
+
+## Prüfraster
+
+1. Ist das Existenzminimum (materiell + soziokulturell) betroffen?
+2. Wird es unterschritten?
+3. Gibt es methodische Maengel bei der Berechnung?
+4. Sanktionen oder Ausschluesse: wie wirken sie auf die Bedarfsdeckung?
+5. Verfahrensrechtliche Sicherungen: Bestimmtheit, Begruendungspflicht, Transparenz?
+
+## Verhältnis zu Verhältnismäßigkeit
+
+Die Prüfung Stufe 1 bis 4 entfaellt nicht völlig, aber Stufe 4 wird durch das Existenzminimum **absolut begrenzt**: wo das Existenzminimum unterschritten wuerde, scheitert die Maßnahme bereits hier.
+
+## Quellen mit Schlagwort
+
+- BVerfGE 125, 175 (Hartz-IV-Urteil, Existenzminimum)
+- BVerfGE 132, 134 (Asylbewerberleistungsgesetz, Existenzminimum)
+- BVerfGE 137, 34 (SGB II-Sanktionen Teil I)
+- BVerfGE 152, 68 (Hartz-IV-Sanktionen Teil II)
+- BVerfGE 153, 1 (Sozialrechtliche Bedarfssaetze)
 
 ---
 
 ## Skill: `luxemburg-cour-constitutionnelle-proportionnalite`
 
-_Luxemburgische Verhältnismäßigkeitsdogmatik der Cour constitutionnelle nach Art 95ter Verfassung mit Drei-Stufen-Test Adequation Necessite Proportionnalite stricto sensu sowie der reformierten Verfassung 2023 mit Art 32 bis 49bis. Mit starkem EMRK und Charta-Einfluss Prüfungspraxis ueber die Cour superieure de justice und Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die enge Naehe zu franzoesischer und belgischer Doktrin._
+_Wenn es um Luxemburg Cour Constitutionnelle Proportionnalite in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Luxemburg Cour Constitutionnelle Proportionnalite
 
@@ -356,603 +625,68 @@ Verfassungs- und Gesetzestexte. Mit der Reform 2023 Artikelzaehlung
 
 ---
 
-## Skill: `drittwirkung-grundrechte-mittelbar`
+## Skill: `ueberwachung-streubreite-vorratsdaten-rasterfahndung`
 
-_Mittelbare Drittwirkung der Grundrechte im Privatrecht. Grundrechte wirken nicht unmittelbar zwischen Privaten sondern strahlen ueber die Generalklauseln Paragraphen 138 242 826 BGB in das Zivilrecht ein. Erläutert Lueth-Linie objektive Wertordnung Ausstrahlungswirkung und wie Verhältnismäßigkeit als Abwaegungsmassstab zwischen kollidierenden Grundrechten privater Parteien zum Tragen kommt. Grenzen der Drittwirkung und Verhältnis zur Privatautonomie._
+_Wenn es um Überwachung: Streubreite, Vorratsdaten, Rasterfahndung in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Mittelbare Drittwirkung — Grundrechte im Privatrecht durch Verhältnismäßigkeit
+# Überwachung: Streubreite, Vorratsdaten, Rasterfahndung
 
-## Zweck dieses Skills
+## Normenanker
 
-Grundrechte binden nach Art. 1 Abs. 3 GG den Staat. Sie wirken aber auch in das Privatrecht hinein — nicht unmittelbar als Anspruchsgrundlage zwischen Privaten sondern mittelbar über die Auslegung von Generalklauseln und unbestimmten Rechtsbegriffen. Verhältnismäßigkeit ist dabei kein staatsgerichteter Eingriffsmassstab mehr sondern Abwaegungsmassstab zwischen kollidierenden Grundrechten privater Parteien. Dieser Skill ordnet die Dogmatik und zeigt wie die Prüfung konkret laeuft.
+- Art. 10 Abs. 1 GG: Brief-, Post- und Fernmeldegeheimnis.
+- Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG: informationelle Selbstbestimmung.
+- Art. 13 GG: Unverletzlichkeit der Wohnung bei heimlicher technischer Ueberwachung.
+- Art. 19 Abs. 1 Satz 2 GG: Zitiergebot bei Grundrechtseinschraenkung.
+- Art. 20 Abs. 3 GG: Bestimmtheit, Normklarheit, Verhältnismäßigkeit.
+- § 100a StPO, § 100b StPO, § 100g StPO: strafprozessuale Telekommunikations- und IT-Ermittlungen als Vergleichsfolie.
+- §§ 48 ff. BDSG bzw. DSGVO/BDSG-Schnittstellen: Verarbeitung, Zweckbindung, Loeschung je nach Bereich.
 
-## Dogmatische Grundlage
+## Entscheidungsanker
 
-### Lueth-Linie — Grundrechte als objektive Wertordnung
+- BVerfG, Beschluss vom 04.04.2006, 1 BvR 518/02, BVerfGE 115, 320 (Rasterfahndung): Praeventive Rasterfahndung braucht hinreichend konkrete Gefahr; diffuse Bedrohungslagen tragen keinen tiefen Streueingriff.
+- BVerfG, Urteil vom 27.02.2008, 1 BvR 370/07, 1 BvR 595/07, BVerfGE 120, 274 (Online-Durchsuchung): heimliche IT-Zugriffe verlangen hohe Eingriffsschwellen und Verfahrenssicherungen.
+- BVerfG, Urteil vom 02.03.2010, 1 BvR 256/08, 1 BvR 263/08, 1 BvR 586/08, BVerfGE 125, 260 (Vorratsdatenspeicherung): Anlasslose Speicherung ist wegen Streubreite und Missbrauchsrisiko nur unter strengen Sicherungen denkbar.
 
-Seit dem Lueth-Urteil BVerfGE 7 198 vom 15.01.1958 anerkannt: Grundrechte enthalten neben dem subjektiven Abwehrrecht eine objektive Wertordnung die in alle Bereiche des Rechts ausstrahlt. Auch im Privatrecht.
+## Frei prüfbare Quellen
 
-### Einbruchstellen — Generalklauseln und unbestimmte Rechtsbegriffe
+- Rasterfahndung, 04.04.2006, 1 BvR 518/02: `https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2006/04/rs20060404_1bvr051802.html`
+- Vorratsdatenspeicherung, 02.03.2010, 1 BvR 256/08 u.a.: `https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2010/03/rs20100302_1bvr025608.html`
+- Online-Durchsuchung, 27.02.2008, 1 BvR 370/07 u.a.: `https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2008/02/rs20080227_1bvr037007.html`
+- Grundgesetz Art. 10: `https://www.gesetze-im-internet.de/gg/art_10.html`
 
-Grundrechte wirken nicht direkt sondern durch das einfachrechtliche Vehikel:
+## Arbeitsauftrag
 
-- Paragraph 138 BGB Sittenwidrigkeit
-- Paragraph 242 BGB Treu und Glauben
-- Paragraph 826 BGB sittenwidrige vorsaetzliche Schaedigung
-- Paragraph 307 BGB Inhaltskontrolle AGB
-- Paragraph 315 BGB Bestimmung nach billigem Ermessen
-- unbestimmte Begriffe wie wichtiger Grund berechtigtes Interesse Treuwidrigkeit
+Prüfe Ueberwachungsmassnahmen nicht nur über "Sicherheitszweck ja/nein". Entscheidend sind Streubreite, Anlassnaehe, Heimlichkeit, Datenqualitaet, Auswertungsrisiko, Zweckbindung, Loeschung und effektiver Rechtsschutz.
 
-### Prüfungsschema
+## Intensitaetsmatrix
 
-1. **Konflikt zwischen Privaten identifizieren** — welche Norm regelt das Verhältnis.
-2. **Grundrechtspositionen beider Seiten benennen** — keine einseitige Sicht.
-3. **Einbruchstelle bestimmen** — Generalklausel oder unbestimmter Rechtsbegriff im Normprogramm.
-4. **Praktische Konkordanz herstellen** — schonender Ausgleich beider Grundrechte.
-5. **Verhältnismäßigkeit der Auslegung** — die gewaehlte Auslegung darf keinen unverhaeltnismaessigen Eingriff in eines der Grundrechte bewirken.
+| Faktor | Niedrigere Intensitaet | Hoehere Intensitaet |
+| --- | --- | --- |
+| Anlass | konkrete Person, konkreter Verdacht | anlasslos, massenhaft, Umfeldsuche |
+| Datenart | Randdaten mit kurzer Speicherdauer | Inhaltsdaten, Bewegungsprofile, intime IT-Daten |
+| Heimlichkeit | offene Erhebung | verdeckt, nachtraegliche Benachrichtigung unsicher |
+| Streubreite | kleine Zielgruppe | viele Unbeteiligte |
+| Zweckbindung | eng, kontrolliert, dokumentiert | Zweckwechsel, Verbunddateien, automatisierte Muster |
+| Sicherungen | Richtervorbehalt, Protokoll, Loeschung, Rechtsschutz | Verwaltungsermessen ohne Kontrolle |
 
-## Verhältnismäßigkeit als Abwaegungsinstrument
+## Vier Stufen
 
-Die klassische Vier-Stufen-Prüfung passt nicht unveraendert weil hier nicht Staat gegen Buerger steht. Adaptiert wird:
+1. **Legitimer Zweck:** konkrete Gefahrenabwehr oder Strafverfolgung; abstrakte Sicherheitsrhetorik reicht nicht.
+2. **Geeignetheit:** Daten müssen den Zweck tatsaechlich foerdern; blosses "koennte nuetzlich sein" kritisch markieren.
+3. **Erforderlichkeit:** zielgenauere Abfrage, kuerzere Speicherdauer, richterliche Anordnung, Stichprobe, offene Befragung, technische Filter prüfen.
+4. **Angemessenheit:** Streubreite und Heimlichkeit gegen Gewicht der Gefahr; bei vielen Unbeteiligten steigen Normklarheit und Sicherungen.
 
-1. **Legitimer Zweck der einfachrechtlichen Auslegung** — meist Schutz der Gegenpartei oder eines Gemeinwohlbelangs.
-2. **Geeignetheit** — die gewaehlte Auslegung muss den Schutzzweck erreichen können.
-3. **Erforderlichkeit** — eine grundrechtsschonendere Auslegung darf nicht gleich geeignet zur Verfuegung stehen.
-4. **Angemessenheit** — die Gewichte der beiderseitigen Grundrechtspositionen sind in einen schonenden Ausgleich zu bringen. Faktoren: Eingriffstiefe Sozialbezug strukturelle Unterlegenheit einer Partei.
+## Output
 
-Im Ergebnis ist Verhältnismäßigkeit hier kein Schranken-Schranke-Mechanismus sondern Optimierungsregel im Sinne der Prinzipientheorie.
-
-## Strukturelle Unterlegenheit
-
-Das BVerfG verstaerkt die Drittwirkung wo eine Partei strukturell unterlegen ist und die Privatautonomie der anderen Partei einseitig wirkt:
-
-- Buergschaftsentscheidung BVerfGE 89 214 — strukturelles Ungleichgewicht bei naher Angehoeriger.
-- Handelsvertreterentscheidung BVerfGE 81 242 — Wettbewerbsverbote nach Vertragsende.
-- AGB-Kontrolle als institutionalisierte Drittwirkung.
-
-In diesen Konstellationen kann die Verhältnismäßigkeitspruefung zu einer faktisch eingriffsaehnlichen Kontrolle aufruecken.
-
-## Tragende Leitentscheidungen
-
-- BVerfGE 7 198 — Lueth Geburt der mittelbaren Drittwirkung
-- BVerfGE 81 242 — Handelsvertreter und Wettbewerbsverbot
-- BVerfGE 89 214 — Buergschaft naher Angehoeriger
-- BVerfGE 103 89 — Eheverzicht und Sittenwidrigkeit
-- BVerfGE 137 273 — Chefarzt der katholischen Krankenhaustraegerschaft
-- BVerfGE 148 267 — Stadionverbot als verstaerkte mittelbare Drittwirkung über zivilrechtliche Generalklauseln (kein Wechsel zur unmittelbaren Grundrechtsbindung Privater; Pflicht zur Beachtung der Grundrechte als Werteordnung). Vertiefung im Spezial-Skill drittwirkung-stadionverbot-bundesverfassungsgericht.
-- BVerfGE 152 152 — Recht auf Vergessen II und Charta-Wirkung
-
-## Fallstricke
-
-- **Unmittelbare Drittwirkung pauschal annehmen** — sie ist die Ausnahme. Regel ist die mittelbare Wirkung über Generalklauseln.
-- **Nur eine Seite betrachten** — Drittwirkung ist beidseitig. Privatautonomie der Gegenseite ist eigenes Grundrecht aus Art. 2 Abs. 1 GG.
-- **Verhältnismäßigkeit unveraendert anwenden** — die Vier-Stufen-Prüfung muss zur Abwaegung zwischen zwei Grundrechtstraegern modifiziert werden.
-- **Generalklausel nicht benennen** — die Einbruchstelle muss konkret in der Norm liegen. Ohne Generalklausel keine mittelbare Drittwirkung.
-- **Schutzpflichtdimension uebergehen** — wo der Staat schuetzen muss aktiviert sich auch das Untermassverbot. Beide Dimensionen können zusammenwirken.
-
-## Verwandte Skills
-
-- lueth-urteil-bverfge-7-198 — historische Grundlage
-- drittwirkung-stadionverbot-bundesverfassungsgericht — direkte Drittwirkung im Ausnahmefall
-- drittwirkung-unionsgrundrechte-charta — unionsrechtliche Dimension
-- drittwirkung-praxischeck-zivilrecht — typische Konstellationen
-- schutzpflichtdimension-grundrechte — Schutzpflichtdimension und Untermassverbot
-- untermassverbot-schutzpflicht-dimension — Untermassverbot als Grenze
-- praktische-konkordanz-rechtsprechung — schonender Ausgleich
-- abwaegungsgesetz-und-gewichtsformel-alexy — formale Abwaegung
-
----
-
-## Skill: `griechenland-stedikastiriou-analogikotita`
-
-_Griechische Verhältnismäßigkeitsdogmatik nach Art 25 I 4 Verfassung 1975 idF 2001 mit der archi tis analogikotitas als Drei-Stufen-Test Katallilotita Anagkaiotita Stenh ennoia analogikotitas. Mit Symvoulio tis Epikrateias als Staatsrat und Areios Pagos als oberstem Zivil- und Strafgericht sowie Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die seit 2001 explizite Kodifizierung der Verhältnismäßigkeit in der Verfassung._
-
-# Griechenland Archi tis Analogikotitas
-
-## Verfassungsrahmen
-
-Die Syntagma tis Ellados von 1975 (Verfassung) wurde 2001 reformiert.
-Seither enthaelt Art 25 I 4 Syntagma eine **ausdrueckliche
-Verhältnismäßigkeitsklausel**:
-
-> Hoi tetoiou eidous periorismoi tha prepei na problepontai eite
-> apefthelias apo to Syntagma eite apo ton nomo eite, ef oson hyparchei
-> epifylaxi yper autou, kai apo ton nomo na sebontai ten archi tes
-> analogikotetas.
-
-Damit hat der Verfassungsgeber das Verhältnismäßigkeitsprinzip
-(**archi tis analogikotitas**) ausdruecklich verankert. Vor 2001 hatte
-es die Rechtsprechung des Symvoulio tis Epikrateias und des Areios
-Pagos aus dem Rechtsstaatsprinzip und der EMRK gewonnen.
-
-## Drei Stufen der Analogikotita
-
-Die Rechtsprechung des **Symvoulio tis Epikrateias (StE)** und des
-**Anotato Eidiko Dikastirio (AED)** prüft Eingriffsmassnahmen in
-drei Stufen:
-
-1. **Katallilotita** (Geeignetheit): das Mittel ist zur Zielerreichung
-   geeignet.
-2. **Anagkaiotita** (Erforderlichkeit): kein milderes gleich wirksames
-   Mittel.
-3. **Stenh ennoia analogikotitas** (Verhältnismäßigkeit im engeren
-   Sinn): die Nachteile für den Betroffenen sind nicht ausser
-   Verhältnis zum Zweck.
-
-Leading cases:
-
-- StE Olomeleia 2112/1984 und 1303/1983 (vorvefasste Linie),
-- StE 2192/2014 (Sparmassnahmen waehrend Schuldenkrise, Wesensgehalt
-  der Beamtenbesoldung),
-- StE Olomeleia 668/2012 (Memorandum-Sparmassnahmen, Globalpruefung),
-- StE 1972/2012 (Eigentum und Telekommunikation),
-- StE 1992/2016 (Datenschutz / oeffentliche Aufgabenwahrnehmung).
-
-## Anotato Eidiko Dikastirio und Areios Pagos
-
-Das **AED** (Art 100 Syntagma) ist Sondergericht für Verfassungs- und
-Verfassungsmaessigkeitsfragen. Der **Areios Pagos** (oberstes Zivil- und
-Strafgericht) prüft die Verhältnismäßigkeit über EMRK und EU-Charta.
-Der StE (Staatsrat) ist faktisch die zentrale Instanz für
-Verfassungs-Verhältnismäßigkeitsfragen.
-
-## Wesensgehalt
-
-Art 25 I 4 Syntagma enthaelt keinen expliziten Wesensgehaltsschutz wie
-Art 19 II GG. Die Rechtsprechung leitet einen Kerngehaltsschutz jedoch
-aus Art 2 I Syntagma (Wuerde des Menschen) und der EMRK ab. StE
-2192/2014 hat etwa für Beamtenbesoldung einen abwaegungsfesten
-Kern (axioprepi diavioshs / Mindestlebensbedingungen) anerkannt.
-
-## Strukturunterschiede
-
-| Deutschland | Griechenland |
-| --- | --- |
-| Vier Stufen sequenziell | Drei Stufen Katallilotita Anagkaiotita Stenh ennoia |
-| Wesensgehalt Art 19 II GG | Kein expliziter Wesensgehalt; Kerngehalt über Art 2 I Syntagma und EMRK |
-| Schutzbereich-Eingriff-Rechtfertigung getrennt | Prüfung über Art 25 I 4 Syntagma |
-| Einschaetzungspraerogative national | Diakritiki evcheria tou nomotheti, eng bei Eingriffen |
-| Praktische Konkordanz | Stathmisi agathon kai dikaiomaton |
-| Untermassverbot ausgeprägt | Ypochreosi positivis prostasias nach Art 2, 5 Syntagma |
-
-## Bedeutung für den Prüfer
-
-Bei griechischen Bezuegen:
-
-- Art 25 I 4 Syntagma als zentrale Schranken-Schranke benennen.
-- Drei Stufen ausdruecklich auf Griechisch (oder transliteriert)
-  zitieren.
-- Bei Sparmassnahmen StE Olomeleia 668/2012 und 2192/2014 als
-  methodische Standardzitate.
-- EMRK und EU-Charta als zusaetzlichen Maßstab nutzen.
-
-## Live-Recherche-Disclaimer
-
-Entscheidungen vor Zitierung verifizieren über das offizielle Portal
-des Symvoulio tis Epikrateias (adjustice gr / ste gr). Volltexte auch
-in Themis und Theoria kai Praxis Dioikitikou Dikaiou (ThPDD).
-Aktenzeichen Nummer/Jahr; Olomeleia (Plenum) oder Tmema (Senat)
-beachten.
-
----
-
-## Skill: `irland-supreme-court-proportionality`
-
-_Irische Verhältnismäßigkeitsdogmatik des Supreme Court of Ireland mit dem Heaney Test aus Heaney v Ireland 1994 IR 593 als Drei-Stufen-Test rational connection minimal impairment proportionate effect rezipiert aus R v Oakes Kanada. Mit Bezug auf unenumerated rights Art 40 III Constitution und ECHR Act 2003 und Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die juengste Reform durch Bunreacht na hEireann-Prüfungslinien._
-
-# Irland Supreme Court Proportionality
-
-## Verfassungsrahmen
-
-Die Bunreacht na hEireann von 1937 (Verfassung der Republik Irland)
-schuetzt **fundamental rights** in Art 40 bis 44, ergaenzt um die
-**unenumerated rights**-Doktrin aus Ryan v Attorney General [1965] IR
-294. Art 40 3 1 Constitution verpflichtet den Staat, die personal
-rights des Buergers zu schuetzen.
-
-Die EMRK ist über den **European Convention on Human Rights Act 2003**
-sub-konstitutionell inkorporiert; sie ist Auslegungshilfe und kann zu
-declaration of incompatibility fuehren (Section 5 ECHR Act 2003).
-
-## Heaney Test (1994)
-
-In **Heaney v Ireland [1994] 3 IR 593** (High Court, Costello J) und
-**Heaney v Ireland [1996] 1 IR 580** (Supreme Court) hat die irische
-Rechtsprechung den **Oakes-Test aus R v Oakes [1986] 1 SCR 103
-(Kanada)** rezipiert und als irischen Proportionality-Test
-verankert:
-
-1. **Rational connection**: das Mittel ist rational zur Erreichung
-   eines pressing and substantial objective.
-2. **Minimal impairment / least restrictive means**: das Mittel
-   beeintraechtigt das Recht moeglichst wenig.
-3. **Proportionate effect**: die Vorteile für das Allgemeinwohl
-   ueberwiegen die Belastung des Betroffenen.
-
-Bestaetigt und fortentwickelt in:
-
-- Re Article 26 and the Employment Equality Bill 1996 [1997] 2 IR 321,
-- Re Article 26 and the Planning and Development Bill 1999 [2000] 2 IR
-  321,
-- Tuohy v Courtney [1994] 3 IR 1 (statute of limitations),
-- Damache v DPP [2012] IESC 11 (Hausdurchsuchungsbefugnis,
-  Verfassungswidrigkeit von Section 29 Offences against the State Act),
-- NVH v Minister for Justice [2017] IESC 35 (Arbeitsrecht von
-  Asylbewerbern),
-- Friends of the Irish Environment v Government of Ireland [2020]
-  IESC 49 (Klimaplan, declaratory relief).
-
-## Unenumerated Rights und Art 40 3 Constitution
-
-Aus Art 40 3 1 Constitution hat die Rechtsprechung eine Reihe nicht
-ausdruecklich genannter Rechte abgeleitet:
-
-- Recht auf koerperliche Integritaet (Ryan v AG 1965),
-- Recht auf Privatleben (Kennedy v Ireland [1987] IR 587),
-- Recht auf Reisefreiheit (The State (M) v Attorney General [1979] IR
-  73),
-- Recht auf gerichtsfoermige Verfahrensgarantien.
-
-Eingriffe in diese Rechte werden ebenfalls am Heaney Test gemessen.
-
-## Strukturunterschiede
-
-| Deutschland | Irland |
-| --- | --- |
-| Vier Stufen sequenziell | Drei Stufen Heaney Test (Oakes-Rezeption) |
-| Wesensgehalt Art 19 II GG | Kein expliziter Wesensgehalt; abwaegungsfeste Kerne über Art 40 3 und EMRK Art 3 |
-| Schutzbereich-Eingriff-Rechtfertigung getrennt | Prüfung in Heaney-Schritten integriert |
-| Einschaetzungspraerogative national | Margin of appreciation des Oireachtas, eng kontrolliert bei Eingriffen |
-| Praktische Konkordanz | Balancing exercise (von kanadischem Oakes-Test uebernommen) |
-| Untermassverbot ausgeprägt | Positive duty to protect aus Art 40 3 1 |
-
-## Bedeutung für den Prüfer
-
-Bei irischen Bezuegen:
-
-- Heaney Test als Drei-Stufen-Test ausdruecklich benennen; Pressing and
-  substantial objective als Zweckpruefung.
-- Direkten Bezug zu R v Oakes 1986 SCR herstellen, weil der irische
-  Test ohne Zwischenstufe direkt rezipiert ist.
-- Unenumerated rights-Doktrin als irische Besonderheit für Rechte
-  nutzen, die im deutschen Recht in Art 2 I iVm Art 1 I GG aufgehen.
-- ECHR Act 2003 als sub-konstitutionellen Rezeptionskanal benennen;
-  EMRK-Konformitaet über declaration of incompatibility (Section 5).
-- Bei Klimaschutz Friends of the Irish Environment v Government of
-  Ireland [2020] IESC 49 als methodisches Pendant zu BVerfGE 157, 30
-  zitieren.
-
-## Live-Recherche-Disclaimer
-
-Urteile vor Zitierung verifizieren über courts ie / supremecourt ie und
-BAILII (bailii org). Irische Zitierform (Jahr) Band IR Seite (Irish
-Reports) bzw [Jahr] IESC Nummer (Supreme Court neutral citation).
-
----
-
-## Skill: `drittwirkung-praxischeck-zivilrecht`
-
-_Praktischer Prüfkatalog fuer Drittwirkung im Zivilrecht. Behandelt die wichtigsten Einbruchstellen Paragraph 138 BGB Paragraph 242 BGB Paragraph 826 BGB Paragraph 307 BGB sowie die Leitlinien aus Buergschaft Handelsvertreter Chefarztkuendigung und Plattformausschluss. Zeigt wie Verhältnismäßigkeit ueber die mittelbare Drittwirkung in AGB-Kontrolle Vertragsfreiheit und Kuendigung wirkt und wo die Drittwirkung trotz Diskussionswert abzulehnen ist._
-
-# Drittwirkung im Zivilrecht — Praxischeck mit Verhältnismäßigkeit
-
-## Zweck dieses Skills
-
-Drittwirkung ist im Zivilrecht keine Theorie sondern alltaegliche Auslegungsarbeit. Welche Generalklausel? Welche Grundrechtspositionen? Wie weit darf Verhältnismäßigkeit die Vertragsfreiheit durchdringen? Dieser Skill bietet einen Prüfkatalog für die typischen Konstellationen und macht zugleich deutlich wo Drittwirkung diskutiert aber im Ergebnis abzulehnen ist.
-
-## Einbruchstellen — Welche Norm traegt die Drittwirkung
-
-### Paragraph 138 BGB Sittenwidrigkeit
-
-- Buergschaftsentscheidung BVerfGE 89 214 — strukturelle Unterlegenheit naher Angehoeriger.
-- Eheverzicht BVerfGE 103 89 — Eheverzichtsvertraege im Zeitpunkt der Schwangerschaft.
-- Anfangsregelungen BVerfGE 81 242 — exzessive Wettbewerbsverbote.
-
-### Paragraph 242 BGB Treu und Glauben
-
-- Inhaltskontrolle vertraglicher Klauseln.
-- Treuwidrige Ausübung von Gestaltungsrechten.
-- Kuendigung gegen die guten Sitten oder gegen das Verbot der Diskriminierung.
-
-### Paragraph 826 BGB sittenwidrige vorsaetzliche Schaedigung
-
-- Schaedigung unter Ausnutzung struktureller Marktmacht.
-- Schikanoeses Vorgehen gegen Wettbewerber.
-
-### Paragraph 307 BGB AGB-Inhaltskontrolle
-
-- Institutionalisierte Drittwirkung — Verbraucherschutz durch Verhältnismäßigkeitskontrolle.
-- Klauseln müssen den Vertragspartner nicht unangemessen benachteiligen.
-
-### Paragraph 315 BGB Bestimmung nach billigem Ermessen
-
-- Plattform-Sperrungen und Kontoschliessungen.
-- Bestimmung von Leistung oder Preis durch eine Partei.
-
-## Typische Konstellationen mit Verhältnismäßigkeit
-
-### Buergschaft naher Angehoeriger
-
-Prüfung am Maßstab des Paragraphen 138 BGB unter Beruecksichtigung der Privatautonomie der Bank und der Vertragsfreiheit der buergenden Person. Verhältnismäßigkeit fragt: Steht die uebernommene Haftung in einem angemessenen Verhältnis zur wirtschaftlichen Leistungsfaehigkeit und zum Naheverhaeltnis.
-
-### Wettbewerbsverbote nach Vertragsende
-
-Prüfung am Maßstab von Paragraph 138 BGB und Paragraph 74a HGB. Verhältnismäßigkeit: Schutzbeduerftiges Interesse des frueheren Vertragspartners gegen Berufsfreiheit der gebundenen Person. Maximalfristen und gegenstaendliche und raeumliche Begrenzung sind Erforderlichkeitsfragen.
-
-### Kuendigung durch kirchliche Arbeitgeber
-
-Chefarzt-Entscheidung BVerfGE 137 273 und EuGH-Folgesachen IR und Egenberger. Verhältnismäßigkeit: Selbstbestimmungsrecht der Religionsgesellschaft gegen Gleichbehandlungsanspruch und Privatleben.
-
-### Plattformausschluss
-
-Facebook-Entscheidungen des BGH. Verhältnismäßigkeit der AGB-basierten Sperrentscheidung. Anforderungen an Anhoerung Begruendung Befristung und milderes Mittel.
-
-### Hausverbote und Stadionverbote
-
-BVerfGE 148 267. Eingriffsaehnliche Drittwirkung bei oeffentlicher Funktion. Verhältnismäßigkeit prüfbar.
-
-## Wo Drittwirkung im Ergebnis abzulehnen ist
-
-Drittwirkung muss diskutiert aber nicht immer angenommen werden. Typische Gegenkonstellationen:
-
-- Reine Privatbeziehung ohne Asymmetrie — Privatautonomie hat Vorrang.
-- Vertragsfreiheit unter Gleichstarken — kein Schutzbeduerfnis.
-- Schenkungs- und Gefaelligkeitsverhaeltnisse — keine kommerzielle Macht.
-- Kuendigungsentscheidungen bei beidseitiger Wahlfreiheit.
-
-Hier ist die Verhältnismäßigkeitspruefung im Ergebnis kurz: Eingriff in die Privatautonomie waere selbst unverhaeltnismaessig.
-
-## Prüfungsschema
-
-1. **Privatrechtliche Rechtsbeziehung** identifizieren.
-2. **Asymmetrie oder oeffentliche Funktion** prüfen.
-3. **Einschlaegige Generalklausel** als Einbruchstelle.
-4. **Grundrechtspositionen beider Seiten** benennen.
-5. **Praktische Konkordanz** als Auslegungsziel.
-6. **Verhältnismäßigkeitspruefung** mit Anpassung an die Privatrechtsstruktur.
-7. **Verfahrensanforderungen** beruecksichtigen — Anhoerung Begruendung Befristung Überprüfung wo geboten.
-
-## Tragende Leitentscheidungen
-
-- BVerfGE 7 198 — Lueth
-- BVerfGE 81 242 — Handelsvertreter
-- BVerfGE 89 214 — Buergschaft
-- BVerfGE 103 89 — Eheverzicht
-- BVerfGE 128 226 — Fraport
-- BVerfGE 137 273 — Chefarzt katholischer Krankenhaustraegerschaft
-- BVerfGE 148 267 — Stadionverbot
-- BGH vom 29.07.2021 — III ZR 192/20 und III ZR 179/20 Facebook
-- BGH vom 23.01.2020 — III ZR 174/19 Plattformausschluss
-- BAG vom 20.06.2013 — 2 AZR 295/12 Kirchliche Loyalitaetspflichten
-
-## Fallstricke
-
-- **Generalklausel nicht ausweisen** — ohne benannte Generalklausel kein dogmatischer Anker.
-- **Privatautonomie als Reststandard behandeln** — sie ist eigenes Grundrecht aus Art. 2 Abs. 1 GG.
-- **Eingriffsaehnliche Prüfung pauschal anwenden** — sie braucht die monopolartige oder oeffentliche Funktionsstellung.
-- **Verhältnismäßigkeit zu staatsnah prüfen** — die Vier-Stufen-Prüfung muss an das Privatrechtsverhaeltnis angepasst werden.
-- **Schutzpflichtdimension uebersehen** — wo der Staat schuetzen muss greift auch das Untermassverbot in die Beziehung hinein.
-- **Praktische Konkordanz nicht herstellen** — beide Grundrechtspositionen sind so weit wie möglich zu schonen.
-
-## Verwandte Skills
-
-- drittwirkung-grundrechte-mittelbar — dogmatische Basis
-- drittwirkung-stadionverbot-bundesverfassungsgericht — Sonderkonstellation
-- drittwirkung-unionsgrundrechte-charta — unionsrechtliche Dimension
-- schutzpflichtdimension-grundrechte — Schutzpflicht und Untermassverbot
-- praktische-konkordanz-rechtsprechung — schonender Ausgleich
-- gleichbehandlung-arbeitsrecht-praxischeck — arbeitsrechtliche Drittwirkung
-- abwaegungsgesetz-und-gewichtsformel-alexy — formale Abwaegung
-
----
-
-## Skill: `oesterreich-vfgh-verhaeltnismaessigkeit`
-
-_Oesterreichische Verhältnismäßigkeitsdogmatik des Verfassungsgerichtshofs mit dem Drei-Stufen-Test Geeignetheit Erforderlichkeit Adaequanz nach Art 7 B-VG Gleichheit und EMRK-Pendants. Mit Gesetzesvorbehalt nach EMRK und Charta Wesensgehalt-Funktionsschutz Prüfung von einfachen Bundesgesetzen und Landesgesetzen ueber Art 140 B-VG und Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die starke Rezeption deutscher Lehre._
-
-# Oesterreich VfGH Verhältnismäßigkeit
-
-## Verfassungsrahmen
-
-Das Bundes-Verfassungsgesetz (B-VG) von 1920 / 1929 (Wiederinkrafttretung
-1945) verteilt den Grundrechtsschutz auf mehrere Ebenen:
-
-- Staatsgrundgesetz 1867 (StGG) über die allgemeinen Rechte der
-  Staatsbuerger,
-- EMRK seit 1964 im Verfassungsrang (BGBl Nr 59/1964),
-- moderne Grundrechte (z B Datenschutz DSG, Art 1 Bundesverfassung).
-
-Eingriffsbefugnisse stehen unter **Gesetzesvorbehalt** (formelles
-Bundesgesetz oder Landesgesetz). Prüfung erfolgt über Art 140 B-VG
-(Normenkontrolle) oder über Erkenntnisbeschwerden.
-
-## Drei Stufen des VfGH
-
-Der Verfassungsgerichtshof prüft Eingriffe im **Sachlichkeitsgebot**
-(Art 7 B-VG / Art 2 StGG) und über die EMRK in einer der deutschen
-Lehre sehr nahen Form:
-
-1. **Eignung**: das Mittel ist geeignet das oeffentliche Interesse zu
-   erreichen.
-2. **Erforderlichkeit**: kein gleich wirksames milderes Mittel.
-3. **Adaequanz / Verhältnismäßigkeit im engeren Sinn**: kein
-   ueberlastetes Verhältnis zwischen Eingriff und Zweck.
-
-Leading cases:
-
-- VfSlg 11.853/1988 (Methodische Verankerung der
-  Verhältnismäßigkeitspruefung im Sachlichkeitsgebot),
-- VfSlg 12.485/1990 (Tabakwerbung),
-- VfSlg 14.802/1997 (Sicherheitsbehoerdliche Maßnahmen),
-- VfSlg 15.394/1998 und 17.071/2003 (Datenschutz und
-  Telekommunikationsueberwachung),
-- VfSlg 20.397/2020 G 247/2019 (COVID-Lockdown),
-- VfSlg 20.310/2019 G 144/2018 (Glaubens- und Gewissensfreiheit).
-
-## Verfassungsrang der EMRK
-
-Die EMRK gilt in Oesterreich im **Verfassungsrang**. Der VfGH integriert
-EGMR-Massstaebe unmittelbar in die Verfassungspruefung. Bei Eingriffen
-in Art 8 bis 11 EMRK prüft er identisch mit dem EGMR (necessary in a
-democratic society) und ueberlagert das nationale Sachlichkeitsgebot.
-
-## Wesensgehalt und Funktionsschutz
-
-Der VfGH operiert nicht mit einem expliziten Wesensgehaltsbegriff wie
-Art 19 II GG, hat aber eine **Funktionsschutz-Lehre** entwickelt:
-gesetzliche Regelungen dürfen das Grundrecht nicht in seinem Wesen
-entleeren. Funktionsschutz ist insbesondere bei Eigentum (Art 5 StGG /
-Art 1 ZP 1 EMRK) und Erwerbsfreiheit (Art 6 StGG) etabliert.
-
-## Strukturunterschiede
-
-| Deutschland | Oesterreich |
-| --- | --- |
-| Vier Stufen sequenziell | Drei Stufen Eignung Erforderlichkeit Adaequanz |
-| Wesensgehalt Art 19 II GG | Funktionsschutz / Sachlichkeitsgebot |
-| EMRK als Auslegungsmaterial (über Goerguelue) | EMRK im Verfassungsrang |
-| Schutzbereich-Eingriff-Rechtfertigung getrennt | Integrierte Prüfung im Erkenntnis |
-| Einschaetzungspraerogative national | Rechtspolitischer Gestaltungsspielraum, kontrolliert über Sachlichkeit |
-| Praktische Konkordanz | Abwaegung im engeren Sinn |
-| Untermassverbot ausgeprägt | Schutzpflichtenlehre über Art 2 8 EMRK |
-
-## Bedeutung für den Prüfer
-
-Bei oesterreichischen Bezuegen:
-
-- Verhältnismäßigkeit als Drei-Stufen-Test mit ausdruecklicher
-  Begruendung formulieren; deutsche Vier-Stufen-Prüfung übersetzbar.
-- EMRK direkt zitieren, nicht über den Goerguelue-Umweg.
-- Sachlichkeitsgebot Art 7 B-VG als zentrale Verankerung benennen.
-- Bei COVID-Beschluessen VfSlg 20.397/2020 ff als methodisches
-  Standardzitat.
-- Bei datenschutzrechtlichen Eingriffen Art 1 DSG (Grundrechtscharakter)
-  beachten.
-
-## Live-Recherche-Disclaimer
-
-Erkenntnisse vor Zitierung verifizieren über Rechtsinformationssystem
-des Bundes (ris bka gv at) und vfgh gv at. VfSlg-Nummerierung
-fortlaufend; in modernen Erkenntnissen zusaetzlich Aktenzeichen
-(G xxx/xxxx, V xxx/xxxx) zitieren.
-
----
-
-## Skill: `frankreich-controle-proportionnalite`
-
-_Franzoesische Verhältnismäßigkeitsdogmatik des Conseil constitutionnel und des Conseil d Etat mit Triple Test des CE seit Ville Nouvelle Est Adequation Necessite Proportionnalite stricto sensu und dem QPC-Verfahren seit 2010. Mit Conciliation Argumentation des Conseil constitutionnel Erreur manifeste Plein contentieux Police und Hinweisen auf Strukturunterschiede zur deutschen Vier-Stufen-Prüfung und zur Rezeption ueber Art 6 EMRK und Charta._
-
-# Frankreich Controle de Proportionnalite
-
-## Verfassungsrahmen
-
-Frankreich kennt keinen geschlossenen Grundrechtskatalog wie das GG. Die
-**bloc de constitutionnalite** umfasst:
-
-- Declaration des Droits de l Homme et du Citoyen von 1789 (DDHC),
-- Praeambel der Verfassung von 1946 (soziale Rechte),
-- Verfassung von 1958,
-- principes fondamentaux reconnus par les lois de la Republique (PFRLR),
-- Umweltcharta von 2004.
-
-Eingriffsbefugnisse leiten sich aus Art 34 (Gesetzesvorbehalt) und der
-Polizei- und Verwaltungsdogmatik ab.
-
-## Drei Stufen des Conseil d Etat
-
-Seit CE Ass 28 mai 1971 Ville Nouvelle Est (Lebon 409) prüft der
-Conseil d Etat Eingriffsmassnahmen nach dem **triple test du bilan**:
-
-1. **Adequation**: die Maßnahme ist tatsaechlich geeignet das verfolgte
-   Ziel zu erreichen.
-2. **Necessite**: kein milderes Mittel verfuegbar das das Ziel
-   gleichermassen erreichen wuerde.
-3. **Proportionnalite stricto sensu / bilan cout-avantages**: die
-   Nachteile für die Betroffenen stehen nicht ausser Verhältnis zu den
-   verfolgten Vorteilen.
-
-Struktur entspricht damit weitgehend der deutschen Drei-Stufen-Prüfung
-ab Geeignetheit. Eine eigene Schutzbereichseroeffnungsprufung wie in
-Deutschland gibt es nicht.
-
-## Conseil constitutionnel und Conciliation
-
-Der Conseil constitutionnel argumentiert nicht offen mit
-proportionnalite sondern mit **conciliation** zwischen kollidierenden
-Verfassungsgueter und mit **erreur manifeste d appreciation**.
-Klassische Entscheidungen:
-
-- Decision 76-75 DC du 12 janvier 1977 Fouille des vehicules
-  (Verhältnismäßigkeit als Maßstab bei Polizeimassnahmen),
-- Decision 99-411 DC du 16 juin 1999 (Loi sur la securite routiere,
-  Verhältnismäßigkeit von Sanktionen),
-- Decision 2003-467 DC Loi de securite interieure (police
-  administrative),
-- Decision 2015-527 QPC Cedric D (assignation a residence Etat
-  d urgence, Necessite und proportionnalite explizit).
-
-Seit 2010 prüft der Conseil constitutionnel im **QPC-Verfahren**
-(Question Prioritaire de Constitutionnalite Art 61-1 Verfassung)
-Eingriffsgesetze inzident. Der Prüfungsmassstab ist haeufig
-proportionnalite-foermig formuliert.
-
-## Plein contentieux Police und Erreur manifeste
-
-Bei Verwaltungsakten unterscheidet der Conseil d Etat die Kontrolldichte:
-
-- **Controle minimum** (erreur manifeste d appreciation): nur evident
-  unverhaeltnismassige Akte werden aufgehoben.
-- **Controle normal**: voller Verhältnismäßigkeitsbilan.
-- **Controle maximum / triple test renforce**: bei besonders
-  eingriffsintensiven Maßnahmen, etwa Ausweisungen, Polizei-Hausarrest,
-  Versammlungsverboten.
-
-Leading case zur Verschaerfung: CE 19 mai 1933 Benjamin (Lebon 541) zur
-Versammlungsfreiheit; CE 26 octobre 2011 Association pour la promotion
-de l image (BHV-Visualisierung); CE 9 juillet 2001 Prefet du Loiret
-(Identitaetskontrollen).
-
-## Strukturunterschiede
-
-| Deutschland | Frankreich |
-| --- | --- |
-| Vier Stufen sequenziell | Triple test des CE plus Conciliation des CC |
-| Wesensgehalt Art 19 II GG | Kein expliziter Wesensgehalt; abwaegungsfeste Kerne nur über Bloc de constitutionnalite und EMRK |
-| Schutzbereich-Eingriff-Rechtfertigung getrennt | Eingriffsfrage und Rechtfertigung verschmolzen im bilan |
-| Einschaetzungspraerogative ausgeprägt | Marge nationale über erreur manifeste / controle minimum |
-| Praktische Konkordanz | Conciliation entre principes a valeur constitutionnelle |
-| Untermassverbot ausgeprägt | Obligation positive nur punktuell, etwa BVerfGE-ähnlich bei Sicherheit |
-
-## Bedeutung für den Prüfer
-
-Bei Schriftsaetzen mit franzoesischem Bezug:
-
-- Triple test im bilan benennen und mit deutscher Drei-Stufen-Prüfung
-  spiegeln.
-- Bei QPC-Bezuegen Conseil constitutionnel zitieren, nicht nur
-  Conseil d Etat.
-- Conciliation als Pendant zur praktischen Konkordanz benutzen.
-- Erreur manifeste-Niveau benennen wenn die Kontrolldichte des
-  Verwaltungsgerichts streitig ist.
-- EMRK-Rezeption (Art 6, 8, 10, 11 EMRK) über Cour de cassation und
-  Conseil d Etat hat die franzoesische Dogmatik der 1990er und 2000er
-  stark verproportionnalisiert (Cass plen 19 mai 2014 Loi Hadopi-Linie,
-  CE Ass 30 octobre 1998 Sarran ueberholt).
-
-## Live-Recherche-Disclaimer
-
-Entscheidungen vor Zitierung verifizieren über Legifrance (legifrance
-gouv fr) für Conseil constitutionnel und Conseil d Etat, ArianeWeb
-(arianeweb conseil-etat fr) für CE und Conseil constitutionnel
-(conseil-constitutionnel fr) für Decisions DC und QPC. Lebon-Sammlung
-und Recueil des Decisions du Conseil constitutionnel im Original
-abgleichen. QPC-Nummerierung folgt Schema Jahr-NR QPC.
+- Grundrechtseingriffsprofil als Tabelle.
+- Sicherungskatalog: Zweckbindung, Zugriffskreis, Protokollierung, Loeschung, Benachrichtigung, Rechtsschutz.
+- Angriffslinie für Verfassungsbeschwerde oder Fachgericht: fehlende konkrete Gefahr, zu weite Datenkategorien, unzureichende Schwellen, fehlende Kontrolle.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

@@ -1,27 +1,27 @@
-# Megaprompt: fachanwalt-verwaltungsrecht
+# Vollprüfung: fachanwalt-verwaltungsrecht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 80 Skills des Plugins `fachanwalt-verwaltungsrecht`.
+Dieser Vollprüfung enthaelt top-10 von 80 Skills des Plugins `fachanwalt-verwaltungsrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für Fachanwalt Verwaltungsrecht: ordnet Rolle (Bürger/Antragsteller, Behörde, Verwaltungsge…
-2. **mandat-triage-verwaltungsrecht** — Eingangs-Triage für verwaltungsrechtliche Mandate: Erst-Qualifizierung des Sachgebiets, Verfahrensstands und Frist-Sofor…
-3. **fachanwalt-verwaltungsrecht-orientierung** — Orientierung im Fachanwaltsrecht Verwaltungsrecht: FAO-Voraussetzungen, Kerngebiete, typische Mandate und Fristen ueberb…
-4. **orientierung-mandat-fachanwaltschaft** — Orientierung im Fachanwaltsrecht Verwaltungsrecht: FAO-Voraussetzungen, Kerngebiete, typische Mandate und Fristen überbl…
-5. **orientierung-sonderfall-edge-case** — Orientierung: Sonderfall und Edge-Case-Prüfung: Orientierung: Sonderfall und Edge-Case-Prüfung.
-6. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für Allgemeines Verwaltungs- und Bauplanungsrecht: Erfassung der Konstellation, K…
-7. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
-8. **fachanwalt-verwaltungsrecht-widerspruchsschrift** — Widerspruchsschrift nach §§ 68 ff. VwGO gegen belastenden Verwaltungsakt formulieren: Mandant hat Bescheid erhalten und …
-9. **fachanwalt-verwaltungsrecht-beamten-disziplinarverfahren** — Beamten-Disziplinarverfahren führen oder verteidigen: Beamter hat Dienstvergehen begangen oder ist Dienstherr bei Einlei…
-10. **fachanwalt-verwaltungsrecht-drittanfechtung-umwelt** — Drittanfechtung umweltrechtlicher Genehmigungen (BImSchG, BauGB) durch Nachbarn oder Umweltverband: Klagebefugnis und ma…
+1. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Verwaltungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passen…
+2. **mandat-triage-verwaltungsrecht** — Wenn es um Mandat Triage Verwaltungsrecht in Fachanwalt Verwaltungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und …
+3. **fachanwalt-verwaltungsrecht-orientierung** — Wenn es um Fachanwalt für Verwaltungsrecht — Orientierung in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zustän…
+4. **orientierung-sonderfall-edge-case** — Wenn es um Orientierung: Sonderfall und Edge-Case-Prüfung in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zustän…
+5. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, R…
+6. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg…
+7. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Verwaltungsrecht geht: klärt Rolle, Ziel…
+8. **eilantrag-80-abs-5-vwgo** — Wenn es um Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach Paragraf 80 Abs in Fachanwalt Verw…
+9. **verwr-planfeststellung-grossvorhaben-spezial** — Wenn es um Verwr Planfeststellung Grossvorhaben Spezial in Fachanwalt Verwaltungsrecht geht: ordnet Sachverhalt, Norm, B…
+10. **verpflichtungsklage-behoerden-gericht-und-registerweg** — Wenn es um Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg in Fachanwalt Verwaltungsrecht geht: erstellt den …
 
 ---
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Fachanwalt Verwaltungsrecht: ordnet Rolle (Bürger/Antragsteller, Behörde, Verwaltungsgericht), markiert Frist (§ 74 VwGO Klagefrist 1 Mon.), wählt Norm (VwGO, VwVfG, AO (steuerlich)) und Zuständigkeit (VG, OVG/VGH, BVerwG), leitet zum passenden Spezial-Skill._
+_Wenn es um Einstieg und Routing in Fachanwalt Verwaltungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Einstieg und Routing
 
@@ -65,24 +65,25 @@ Dieser Einstieg routet **Fachanwalt Verwaltungsrecht** vom ersten Sachverhalt zu
 
 ## Skill: `mandat-triage-verwaltungsrecht`
 
-_Eingangs-Triage für verwaltungsrechtliche Mandate: Erst-Qualifizierung des Sachgebiets, Verfahrensstands und Frist-Sofort-Checks: Eingangs-Triage für verwaltungsrechtliche Mandate: Erst-Qualifizierung des Sachgebiets, Verfahrensstands und Frist-Sofort-Check..._
+_Wenn es um Mandat Triage Verwaltungsrecht in Fachanwalt Verwaltungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Eingangs-Triage für verwaltungsrechtliche Mandate: Erst-Qualifizierung des Sachgebiets, Verfahrensstands und Frist-Sofort-Checks
 
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Widerspruchsschrift Mandat Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Verwaltungsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Arbeitsweg
 
@@ -203,7 +204,11 @@ Bei sofortiger Vollziehung oder akutem Vollzug:
 - Empfehlung Folge-Skill
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Leitentscheidungen Mandat-Triage
@@ -222,7 +227,7 @@ Bei sofortiger Vollziehung oder akutem Vollzug:
 
 ## Skill: `fachanwalt-verwaltungsrecht-orientierung`
 
-_Orientierung im Fachanwaltsrecht Verwaltungsrecht: FAO-Voraussetzungen, Kerngebiete, typische Mandate und Fristen ueberblicken. Normen: VwGO (Anfechtungs-, Verpflichtungs-, Leistungs-, Feststellungsklage, Eilrechtsschutz §§ 80 und 123 VwGO), VwVfG, Polizei- und Ordnungsrecht, Baurecht. Prüfraster: Sachgebiet (Bau, Gewerbe, Polizei, Beamtenrecht), Verfahrensarten, Fristen-Überblick. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Detailarbeit in Spezialskills; Mandats-Triage siehe mandat-triage-verwaltungsrecht._
+_Wenn es um Fachanwalt für Verwaltungsrecht — Orientierung in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Fachanwalt für Verwaltungsrecht — Orientierung
 
@@ -302,9 +307,62 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ---
 
+## Skill: `orientierung-sonderfall-edge-case`
+
+_Wenn es um Orientierung: Sonderfall und Edge-Case-Prüfung in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Orientierung: Sonderfall und Edge-Case-Prüfung
+
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 28 Abs. 1 VwVfG` — Anhörung vor belastender Verwaltungsentscheidung.
+- `§ 37 Abs. 1 VwVfG` — Bestimmtheit des Verwaltungsakts.
+- `§ 39 Abs. 1 VwVfG` — Begruendungspflicht.
+- `§ 40 VwVfG` — Ermessensausübung und Ermessensfehler.
+- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist, soweit Widerspruchsverfahren vorgesehen.
+- `§ 74 Abs. 1 VwGO` — Klagefrist.
+- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz gegen Vollziehung.
+- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: VwGO; VwVfG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Orientierung: Sonderfall und Edge-Case-Prüfung.
+
+## Spezialwissen: Orientierung: Sonderfall und Edge-Case-Prüfung
+- **Normen-/Quellenanker:** VwGO, VwVfG.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Orientierung** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
 ## Skill: `orientierung-mandat-fachanwaltschaft`
 
-_Orientierung im Fachanwaltsrecht Verwaltungsrecht: FAO-Voraussetzungen, Kerngebiete, typische Mandate und Fristen überblicken: N..._
+_Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Orientierung im Fachanwaltsrecht Verwaltungsrecht: FAO-Voraussetzungen, Kerngebiete, typische Mandate und Fristen überblicken
 
@@ -391,62 +449,9 @@ _Orientierung im Fachanwaltsrecht Verwaltungsrecht: FAO-Voraussetzungen, Kerngeb
 
 ---
 
-## Skill: `orientierung-sonderfall-edge-case`
-
-_Orientierung: Sonderfall und Edge-Case-Prüfung: Orientierung: Sonderfall und Edge-Case-Prüfung._
-
-# Orientierung: Sonderfall und Edge-Case-Prüfung
-
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 28 Abs. 1 VwVfG` — Anhörung vor belastender Verwaltungsentscheidung.
-- `§ 37 Abs. 1 VwVfG` — Bestimmtheit des Verwaltungsakts.
-- `§ 39 Abs. 1 VwVfG` — Begruendungspflicht.
-- `§ 40 VwVfG` — Ermessensausübung und Ermessensfehler.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist, soweit Widerspruchsverfahren vorgesehen.
-- `§ 74 Abs. 1 VwGO` — Klagefrist.
-- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz gegen Vollziehung.
-- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: VwGO; VwVfG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Orientierung: Sonderfall und Edge-Case-Prüfung.
-
-## Spezialwissen: Orientierung: Sonderfall und Edge-Case-Prüfung
-- **Normen-/Quellenanker:** VwGO, VwVfG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Orientierung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
 ## Skill: `erstgespraech-mandatsannahme`
 
-_Strukturierter Erstgespraechsleitfaden für Allgemeines Verwaltungs- und Bauplanungsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen: Strukturierter Erstgespra..._
+_Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Strukturierter Erstgespraechsleitfaden für Allgemeines Verwaltungs- und Bauplanungsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
@@ -617,7 +622,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 
 ## Skill: `erstpruefung-und-mandatsziel`
 
-_Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel._
+_Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Verwaltungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -668,665 +673,486 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `fachanwalt-verwaltungsrecht-widerspruchsschrift`
+## Skill: `eilantrag-80-abs-5-vwgo`
 
-_Widerspruchsschrift nach §§ 68 ff. VwGO gegen belastenden Verwaltungsakt formulieren: Mandant hat Bescheid erhalten und will innerhalb der Frist Widerspruch einlegen. Normen: § 68 VwGO (Vorverfahren), § 70 Abs. 1 VwGO (Frist 1 Monat), § 80 Abs. 1 VwGO (aufschiebende Wirkung), § 58 Abs. 2 VwGO (Jahresfrist ohne Rechtsbehelfsbelehrung). Prüfraster: Statthaftigkeit (Bundesland?), Fristberechnung, aufschiebende Wirkung vs. sofortige Vollziehung, Begründung. Output Widerspruchsschrift. Abgrenzung: Anfechtungsklage direkt (kein Widerspruch statthaft) siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Eilantrag siehe eilantrag-80-abs-5-vwgo._
+_Wenn es um Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach Paragraf 80 Abs in Fachanwalt Verwaltungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Widerspruchsschrift
+# Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach § 80 Abs
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: VwGO; VwVfG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach § 80 Abs. 5 VwGO stellen: Mandant hat Widerspruch eingelegt oder Klage erhoben aber die Behörde hat sofortige Vollziehung angeordnet. Normen: § 80 Abs. 2 VwGO (gesetzlicher Entfall AW: öffentliche Abgaben, Polizei), § 80 Abs. 3 VwGO (Begründungspflicht sofortige Vollziehung). Prüfraster: Interessenabwaegung Vollziehungs- vs. Aussetzungsinteresse, Erfolgsaussichten Hauptsache, substantiierte Begründung. Output Schriftsatz Eilantrag § 80 Abs. 5 VwGO. Abgrenzung: § 123 VwGO (andere Antragsart) siehe einstweiliger-rechtsschutz-skill; Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift.
+
+### Eilantrag § 80 Abs. 5 VwGO
 
 ## Kernsachverhalt
 
-Gegen einen belastenden Verwaltungsakt ist als Vorverfahren — sofern nicht durch Bundes- oder Landesrecht ausgeschlossen — zunächst Widerspruch einzulegen. Erst nach Erlass des Widerspruchsbescheids oder Ablauf der Entscheidungsfrist ist die Anfechtungsklage zulässig. Das Widerspruchsverfahren bietet die Chance der vollständigen Überprüfung des Verwaltungsakts auf Rechtmäßigkeit und Zweckmäßigkeit und ermöglicht eine frühzeitige Einigung ohne Klageverfahren.
+Der Eilantrag nach § 80 Abs. 5 VwGO ist das zentrale Instrument, um den Vollzug eines belastenden Verwaltungsakts zu stoppen, wenn die aufschiebende Wirkung von Widerspruch oder Klage ausnahmsweise nicht besteht. Das Gericht nimmt eine summarische Prüfung der Erfolgsaussichten der Hauptsache und eine Interessenabwägung vor. Formelle Fehler in der Vollziehungsanordnung (§ 80 Abs. 3 VwGO) führen regelmäßig zur Wiederherstellung der aufschiebenden Wirkung, ohne dass es auf die materiellen Erfolgsaussichten ankommt.
 
 ## Kaltstart-Rückfragen
 
-1. Welcher Verwaltungsakt — welche Behörde, Datum, Zustellungsdatum? Ist die Rechtsbehelfsbelehrung ordnungsgemäß?
-2. Ist das Widerspruchsverfahren im Bundesland und Sachgebiet vorgesehen — oder wurde es durch Landesgesetz ausgeschlossen (§ 68 Abs. 1 Satz 2 VwGO i.V.m. Landesrecht; z.B. NRW, Bayern, Niedersachsen für bestimmte Gebiete)?
-3. Hat der Verwaltungsakt aufschiebende Wirkung — oder entfällt sie nach § 80 Abs. 2 VwGO (öffentliche Abgaben, Polizei, gesetzlicher Ausschluss, Sofortvollzug)?
-4. Welche formellen Mängel sind erkennbar — fehlende Anhörung § 28 VwVfG, mangelhafte Begründung § 39 VwVfG, Zuständigkeitsmangel?
-5. Welche materiellen Mängel bestehen — Tatbestand nicht erfüllt, Ermessensfehler §§ 40 VwVfG, 114 VwGO, Unverhältnismäßigkeit?
-6. Soll parallel Eilrechtsschutz beantragt werden — § 80 Abs. 5 VwGO bei Sofortvollzug oder § 80 Abs. 4 VwGO Antrag bei Behörde?
-7. Ist eine Hinzuziehung des Bevollmächtigten für das Vorverfahren nach Landesrecht erforderlich und kostenpflichtig?
-8. Ist ein Widerspruchsgebühr-Regime im Bundesland anwendbar — Kosten des Vorverfahrens nach VwVfG oder Landesgebührengesetz?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+1. Liegt ein belastender Verwaltungsakt vor, gegen den Widerspruch oder Klage eingelegt wurde oder noch eingelegt wird?
+2. Ist die aufschiebende Wirkung gesetzlich entfallen (§ 80 Abs. 2 Nr. 1–3 VwGO) oder behördlich angeordnet (Nr. 4)?
+3. Ist die Begründung der Sofortvollziehung nach § 80 Abs. 3 VwGO einzelfallbezogen und substantiiert — oder nur floskelhaft?
+4. Welche Erfolgsaussichten hat die Hauptsache — offensichtlich erfolglos, offen, oder offensichtlich erfolgreich?
+5. Welche konkreten Schäden drohen bei sofortiger Vollziehung — Existenzgefährdung, Abschiebung, irreversible Bautätigkeit, Entziehung Berufserlaubnis?
+6. Liegt ein Fall des § 80a VwGO vor (drittbetroffener Nachbar gegen Baugenehmigung)?
+7. Wurde ein Aussetzungsantrag bei der Behörde nach § 80 Abs. 4 VwGO gestellt und abgelehnt?
+8. Welches Gericht ist zuständig — VG, OVG, BVerwG (NABEG/EnLAG)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
 ### Normtexte (Auszüge)
 
-**§ 68 Abs. 1 VwGO** — Vor Erhebung der Anfechtungsklage sind Rechtmäßigkeit und Zweckmäßigkeit des Verwaltungsakts in einem Vorverfahren nachzuprüfen. Einer solchen Nachprüfung bedarf es nicht, wenn ein Gesetz dies bestimmt oder wenn der Abhilfebescheid oder der Widerspruchsbescheid erstmalig eine Beschwer enthält.
+**§ 80 Abs. 1 VwGO** — Widerspruch und Anfechtungsklage haben aufschiebende Wirkung.
 
-**§ 70 Abs. 1 VwGO** — Der Widerspruch ist innerhalb eines Monats, nachdem der Verwaltungsakt dem Beschwerten bekanntgegeben worden ist, schriftlich, in elektronischer Form nach § 3a VwVfG oder zur Niederschrift bei der Behörde zu erheben, die den Verwaltungsakt erlassen hat.
+**§ 80 Abs. 2 VwGO** — Die aufschiebende Wirkung entfällt bei öffentlichen Abgaben und Kosten (Nr. 1), unaufschiebbaren polizeilichen Maßnahmen (Nr. 2), gesetzlich bestimmten Fällen (Nr. 3), oder bei Anordnung der sofortigen Vollziehung im öffentlichen Interesse (Nr. 4).
 
-**§ 58 Abs. 2 VwGO** — Ist die Rechtsbehelfsbelehrung unterblieben oder unrichtig erteilt, so ist die Einlegung des Rechtsbehelfs innerhalb eines Jahres seit Zustellung zulässig.
+**§ 80 Abs. 3 Satz 1 VwGO** — In den Fällen des Absatzes 2 Satz 1 Nr. 4 ist das besondere Interesse an der sofortigen Vollziehung des Verwaltungsakts schriftlich zu begründen.
 
-**§ 79 Abs. 1 VwGO** — Gegenstand der Anfechtungsklage ist der ursprüngliche Verwaltungsakt in der Gestalt, die er durch den Widerspruchsbescheid gefunden hat.
+**§ 80 Abs. 4 VwGO** — Die Behörde, die den Verwaltungsakt erlassen oder über den Widerspruch zu entscheiden hat, kann in den Fällen des Absatzes 2 die Vollziehung aussetzen.
 
-**§ 28 Abs. 1 VwVfG** — Bevor ein Verwaltungsakt erlassen wird, der in Rechte eines Beteiligten eingreift, ist diesem Gelegenheit zu geben, sich zu den für die Entscheidung erheblichen Tatsachen zu äußern.
+**§ 80 Abs. 5 VwGO** — Das Gericht der Hauptsache kann auf Antrag die aufschiebende Wirkung in den Fällen des Absatzes 2 ganz oder teilweise anordnen oder wiederherstellen. Der Antrag ist schon vor Erhebung der Anfechtungsklage zulässig.
 
-**§ 39 Abs. 1 VwVfG** — Ein schriftlicher oder elektronischer sowie ein schriftlich oder elektronisch bestätigter Verwaltungsakt ist mit einer Begründung zu versehen.
+**§ 80a VwGO** — Bei einem Verwaltungsakt, der einen anderen begünstigt, kann ein Dritter, der durch den Verwaltungsakt beschwert wird, beim Gericht beantragen, die Vollziehbarkeit des Verwaltungsakts auszusetzen oder aufzuheben.
 
-**§ 40 VwVfG** — Ist die Behörde ermächtigt, nach ihrem Ermessen zu handeln, hat sie ihr Ermessen entsprechend dem Zweck der Ermächtigung auszuüben und die gesetzlichen Grenzen des Ermessens einzuhalten.
-
-**§ 45 Abs. 1 Nr. 3 VwVfG** — Eine Verletzung von Verfahrens- oder Formvorschriften, die nicht den Verwaltungsakt nach § 44 nichtig macht, ist unbeachtlich, wenn … die erforderliche Begründung nachträglich gegeben wird; dies gilt auch nach § 28 (Anhörung).
-
-**§ 45 Abs. 2 VwVfG** — Handlungen nach Absatz 1 können bis zum Abschluss der letzten Tatsacheninstanz eines verwaltungsgerichtlichen Verfahrens nachgeholt werden.
-
-**§ 114 VwGO** — Soweit die Verwaltungsbehörde ermächtigt ist, nach ihrem Ermessen zu handeln, prüft das Gericht auch, ob der Verwaltungsakt rechtswidrig ist, weil die gesetzlichen Grenzen des Ermessens überschritten sind oder von dem Ermessen in einer dem Zweck der Ermächtigung nicht entsprechenden Weise Gebrauch gemacht ist.
+**§ 146 Abs. 4 VwGO** — Die Beschwerde ist innerhalb eines Monats nach Bekanntgabe der Entscheidung zu begründen. Die Begründung muss einen bestimmten Antrag enthalten, die Gründe darlegen, aus denen die Entscheidung abzuändern oder aufzuheben ist, und sich mit der angefochtenen Entscheidung auseinandersetzen.
 
 ### Leitentscheidungen
 
 | Gericht | Aktenzeichen | Datum | Leitsatz |
 |---|---|---|---|
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
-## Prüfschema Widerspruch
+## Prüfschema § 80 Abs. 5 VwGO
 
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
-
-| Schritt | Prüfungspunkt | Norm | Inhalt |
+| Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
-| 1 | Statthaftigkeit Widerspruchsverfahren | § 68 VwGO + Landesrecht | Nicht ausgeschlossen durch Landes- oder Bundesrecht? |
-| 2 | Klagebefugnis analog | § 42 Abs. 2 VwGO | Adressat oder Drittbetroffener mit möglicher Rechtsverletzung |
-| 3 | Widerspruchsfrist | § 70 Abs. 1 VwGO | 1 Monat ab Bekanntgabe; § 58 Abs. 2: 1 Jahr bei Belehrungsfehler |
-| 4 | Form des Widerspruchs | § 70 Abs. 1 VwGO | Schriftlich, elektronisch oder zur Niederschrift |
-| 5 | Zuständige Ausgangsbehörde | § 70 VwGO | Widerspruch an Behörde, die VA erlassen hat |
-| 6 | Aufschiebende Wirkung | § 80 Abs. 1 VwGO | Besteht sie? Entfällt nach § 80 Abs. 2 VwGO? |
-| 7 | Formelle Rechtmäßigkeit des VA | §§ 28, 39 VwVfG | Anhörung, Begründung, Zuständigkeit, Form |
-| 8 | Heilbarkeit formeller Fehler | § 45 VwVfG | Nachholbarkeit bis Abschluss Widerspruchsverfahren; Gefahr der Heilung |
-| 9 | Materielle Rechtmäßigkeit | Spezialgesetze + BGB/VwVfG | Tatbestand der Ermächtigungsgrundlage erfüllt? |
-| 10 | Ermessen | §§ 40 VwVfG, 114 VwGO | Nichtgebrauch, Überschreitung, Fehlgebrauch |
-| 11 | Verhältnismäßigkeit | Art. 20 GG | Geeignet, erforderlich, angemessen |
-| 12 | Zweckmäßigkeit | § 68 VwGO | Widerspruchsverfahren prüft auch Zweckmäßigkeit — Ermessen vollständig überprüfbar |
-| 13 | Widerspruchsbehörde zuständig | § 73 VwGO | Ober- oder Aufsichtsbehörde? Oder Ausgangsbehörde selbst? |
-| 14 | Hinzuziehungsantrag | §§ 80 VwVfG, Landesrecht | Notwendigkeit des Bevollmächtigten; Kostenfolge |
-| 15 | Eilrechtsschutz parallel | §§ 80 Abs. 4, 80 Abs. 5 VwGO | Antrag bei Behörde oder VG |
+| 1 | Statthaftigkeit | Anfechtungsklage-Situation; § 80 Abs. 2 VwGO einschlägig? Nr. 1–3 oder Nr. 4? Oder § 80a bei Drittbetroffenem? | Richtige Antragsform |
+| 2 | Antragsbefugnis | Analog § 42 Abs. 2 VwGO; Adressat des VA oder Drittbetroffener | Eigenes Recht verletzt möglich? |
+| 3 | Rechtsschutzbedürfnis | § 80 Abs. 4 VwGO-Antrag bei Behörde abgelehnt oder sinnlos? | Verfahrensvoraussetzung |
+| 4 | Hauptsache anhängig | Widerspruch oder Klage parallel eingereicht? | Pflichtvoraussetzung |
+| 5 | Begründungsmangel § 80 Abs. 3 | Vollziehungsanordnung floskelhaft? Kein Einzelfallbezug? | Eigenständiger Aufhebungsgrund |
+| 6 | Begründetheits-Prüfung Erfolgsaussicht | Offensichtlich erfolglos / offen / offensichtlich erfolgreich | Hauptansatz der Entscheidung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 8 | Irreversibilität des Vollzugs | Schwere des Schadens; Nicht-Wiedergutzumachbarkeit | Je irreversibler, desto höher Aussetzungsinteresse |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 10 | Spezialfall Abgaben (Nr. 1) | Steuerbescheid; ernstliche Zweifel an Rechtmäßigkeit oder unbillige Härte | § 80 Abs. 4 Satz 3 VwGO |
+| 11 | Streitwert | Hälfte Hauptsache-Streitwert; § 52 GKG | Im Antrag angeben |
+| 12 | Entscheidungsform | Beschluss; ohne mündliche Verhandlung; Ausnahme Erörterung | Zeitplanung |
+| 13 | Beschwerde § 146 Abs. 4 VwGO | 2 Wochen ab Beschluss; Begründungsfrist 1 Monat; Auseinandersetzungspflicht | OVG-Beschwerde |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 15 | Vollstreckung nach Stattgabe | Behörde zur Aussetzung verpflichtet; Zwangsgeld § 172 VwGO möglich | Vollstreckungsweg vorbereiten |
 
 ## Beweislast
 
 | Beweisthema | Beweislastträger | Beweismittel |
 |---|---|---|
-| Rechtmäßigkeit des Verwaltungsakts | Behörde (trägt Beweislast für anspruchsbegründende Tatsachen) | Verwaltungsakte, Gutachten, Stellungnahmen |
-| Fehlende Anhörung § 28 VwVfG | Widerspruchsführer (Rügeobliegenheit) | Akte, eigene Erklärung |
-| Mangelhafte Begründung § 39 VwVfG | Widerspruchsführer (aus dem Bescheid ersichtlich) | Bescheid selbst |
-| Ermessensfehler | Widerspruchsführer (Rüge) / Behörde (Entlastung) | Begründung des VA, Verwaltungsvorgang |
-| Verhältnismäßigkeit | Widerspruchsführer (milderes Mittel behaupten) | Sachverständige, eigene Berechnung |
-| Fristversäumnis bei falscher Belehrung | Behörde (muss ordnungsgemäße Belehrung nachweisen) | Zustellungsurkunde, Bescheid |
+| Formeller Mangel § 80 Abs. 3 VwGO | Antragsteller (Textanalyse des Bescheids) | Bescheid selbst; kein weiterer Beweis nötig |
+| Erfolgsaussichten Hauptsache | Antragsteller (Substanziierung) / Behörde (Verteidigung) | Rechtliche Begründung, Sachverhaltsbelege |
+| Existenzgefährdung / irreversibler Schaden | Antragsteller | Bilanzen, BWA, ärztliches Attest, Gutachten |
+| Öffentliches Vollzugsinteresse | Behörde | Einzelfallbezogene Darlegung im Bescheid und Verfahren |
+| Abgaben: ernstliche Zweifel § 80 Abs. 4 VwGO | Antragsteller | Steuerbescheid, Einspruchsschrift, Gutachten |
+| § 80a: Bauherrn-Vollzugsinteresse | Beigeladener | Investitionspläne, Finanzierungsverträge |
 
-## Fristen und Verjährung
+## Fristen
 
 | Frist | Grundlage | Lauf | Hinweis |
 |---|---|---|---|
-| Widerspruchsfrist | § 70 Abs. 1 VwGO | 1 Monat ab Bekanntgabe | Bekanntgabe ≠ Zustellung; ggf. Dreitagesfiktion § 41 Abs. 2 VwVfG |
-| Verlängerte Widerspruchsfrist | § 58 Abs. 2 VwGO | 1 Jahr bei fehlerhafter oder fehlender Belehrung | Gilt auch bei fehlendem Hinweis auf Adresse der Behörde |
-| Klage nach Widerspruch | § 74 VwGO | 1 Monat ab Zustellung Widerspruchsbescheid | Bei Untätigkeit: 3 Monate nach Einlegung Widerspruch → Untätigkeitsklage § 75 VwGO |
-| Untätigkeitsklage | § 75 VwGO | 3 Monate nach Einlegung Widerspruch | Bei Fristversäumnis kein Rechtsverlust, aber beachten |
-| Heilung formeller Fehler | § 45 Abs. 2 VwVfG | Bis Abschluss letzter Tatsacheninstanz | Behörde kann Anhörung und Begründung nachreichen |
-| Verjährung materieller Schadensersatz | § 195 BGB | 3 Jahre ab Kenntnis | Parallelansprüche aus § 839 BGB i.V.m. Art. 34 GG |
+| Antragstellung § 80 Abs. 5 VwGO | — | Unverzüglich nach Kenntnis; keine starre Frist; bei zu langem Warten Eilbedürftigkeit entfällt | Zu langes Zuwarten schadet |
+| Hauptsachefrist parallel | § 70 VwGO / § 74 VwGO | 1 Monat ab Bekanntgabe VA | Pflicht; Versäumnis → Eilantrag unzulässig |
+| Beschwerde § 146 VwGO | § 146 Abs. 1 VwGO | 2 Wochen ab Beschluss | Begründung: 1 Monat, § 146 Abs. 4 VwGO |
+| § 80 Abs. 4 VwGO Behörde | — | Vor VG-Antrag; keine Frist; aber sinnvoll | Schneller als Gericht; Ablehnung öffnet VG-Weg |
+| Notfallantrag außerhalb Dienstzeiten | — | Bei akuter Vollzugsgefahr; Bereitschaftsdienst anrufen | Fax + Telefon bei Gericht |
 
 ## Typische Gegenargumente
 
 | Gegenargument der Behörde | Gegenstrategie |
 |---|---|
-| "Anhörungsmangel geheilt — Widerspruch ist Nachholung" | § 45 Abs. 1 Nr. 3 VwVfG: Heilung nur durch eigenständige, nicht nur pro forma erfolgte Anhörung; bloße Übersendung des Bescheids genügt nicht |
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| "Widerspruchsverfahren ausgeschlossen" | Landespezifische Ausnahmen genau prüfen; bei Ausschluss nur in bestimmten Sachgebieten prüfen ob hier ein solches vorliegt |
+| "Hauptsache hat keine Erfolgsaussichten" | Substanziierte Rechtsauffassung mit Normen und Rspr.; Behörde muss Gegendarstellung liefern |
+| "Keine Existenzgefährdung" | Betriebswirtschaftliche Belege; BWA, Bilanzen; Liquiditätsplan; ggf. Steuerberater-Attest |
+| "Zu spät gestellt — Eilbedürftigkeit entfallen" | Konkrete Handlungsaufnahme der Behörde als Auslöser benennen; Zeitachse darstellen |
+| "Hauptsache nicht anhängig" | Widerspruch/Klage mit Datum belegen; ggf. parallel einreichen und im Antrag erwähnen |
+| "§ 80a anstatt § 80 Abs. 5" | Konstellation klären: begünstigender VA für Dritten → § 80a; belastender VA für Antragsteller → § 80 Abs. 5 |
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Widerspruch gegen Verwaltungsakt einlegen | Widerspruchsschrift nach Pruefschema; Template unten |
-| Variante A — Widerspruchsverfahren nicht Pflicht direkter Klageweg | Klagefrist pruefen; ggf. direkt Anfechtungsklage ohne Widerspruch |
-| Variante B — Mandant will Widerspruch nur zur Fristwahrung | Kurzwiderspruch ohne Begruendung zuerst; Begruendung nachreichen |
-| Variante C — Behoerde zeigt Kooperationsbereitschaft | Informelles Gespraech vor Widerspruch; Widerspruch als letzte Option |
+| Standard — Eilantrag nach § 80 Abs. 5 VwGO gegen sofortvollziehbaren VA | Eilantragsschriftsatz nach Prüfschema; Template unten |
+| Variante A — Aussetzung der Vollziehung direkt bei Behörde realistisch | Antrag bei Behörde § 80 Abs. 4 VwGO zuerst; Gericht nur bei Ablehnung |
+| Variante B — Mandant akzeptiert VA aber nicht die sofortige Vollziehung | Nur Aussetzungsantrag ohne Widerspruch in der Hauptsache |
+| Variante C — Eilantrag hat geringe Erfolgsaussichten Folgenabwaegung | Folgenabwaegung in den Vordergrund stellen statt summarischer Prüfung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Schriftsatzbausteine
 
-### Baustein 1: Vollständige Widerspruchsschrift
+### Baustein 1: Vollständiger Eilantrag mit § 80 Abs. 3-Rüge
 
 ```
-[Kanzlei]
+Verwaltungsgericht [Ort]
 [Anschrift]
-[Datum]
 
-An die [Ausgangsbehörde]
-[Anschrift]
-Aktenzeichen der Behörde: [Az.]
+In der Verwaltungsrechtssache
 
-Widerspruch nach § 68 VwGO
+[Antragsteller / Name, Anschrift]
+— Antragsteller —
 
-In der Verwaltungssache
-des [Vorname Name]
-[Anschrift]
-— Widerspruchsführer —
-
-Verfahrensbevollmächtigte: Rechtsanwältinnen und Rechtsanwälte [Kanzlei]
+Verfahrensbevollmächtigte: [Kanzlei]
 
 gegen
 
-den Bescheid der [Behörde] vom [Datum], Aktenzeichen [Az.],
-zugestellt am [Datum]
+[Behörde]
+— Antragsgegnerin —
 
-legen wir namens und in Vollmacht des Widerspruchsführers
+Az. Hauptsache: [Az.]
 
-Widerspruch
+Antrag nach § 80 Abs. 5 VwGO
 
-ein und beantragen:
+Namens und in Vollmacht stellen wir folgenden
 
-1. Den Bescheid vom [Datum] aufzuheben.
+Antrag
 
-2. [Hilfsweise: Bescheid mit folgendem Inhalt zu erlassen: ...]
+1. Die aufschiebende Wirkung des Widerspruchs [/ der Klage] des
+ Antragstellers vom [Datum] gegen den Bescheid der
+ Antragsgegnerin vom [Datum], Az. [Az.], wird wiederhergestellt.
 
-3. Die Hinzuziehung des Bevollmächtigten für das Vorverfahren
-   gemäß § 80 Abs. 2 VwVfG für notwendig zu erklären.
+2. Die Antragsgegnerin trägt die Kosten des Verfahrens.
+
+3. Der Streitwert wird auf EUR [Betrag] (Hälfte des Hauptsache-
+ Streitwerts von EUR [x]) festgesetzt.
 
 Begründung
 
-I. Zulässigkeit
-Der Widerspruch ist nach § 68 VwGO statthaft. Das
-Widerspruchsverfahren ist im Land [X] im Sachgebiet [Y]
-nicht ausgeschlossen. Der Bescheid wurde dem Widerspruchsführer
-am [Datum] zugestellt. Die Widerspruchsfrist von einem Monat
-(§ 70 Abs. 1 VwGO) ist daher bis zum [Datum] gewahrt.
+I. Sachverhalt
+Mit Bescheid vom [Datum] hat die Antragsgegnerin [Inhalt des VA:
+z.B. die Gaststättenerlaubnis widerrufen / die Baugenehmigung
+versagt / die Abschiebungsanordnung erlassen]. Gleichzeitig hat
+sie die sofortige Vollziehung angeordnet und wie folgt begründet:
 
-II. Formelle Rechtswidrigkeit
+"[Vollzitat der Vollziehungsbegründung]"
 
-1. Anhörungsmangel § 28 VwVfG
-Vor Erlass des Bescheids wurde dem Widerspruchsführer keine
-Gelegenheit zur Stellungnahme gegeben. Der Widerspruchsführer
-hat zu keinem Zeitpunkt eine Anhörungsmitteilung erhalten.
-Der Mangel ist beachtlich.
+Der Antragsteller hat mit Schreiben vom [Datum] Widerspruch
+eingelegt [/ Klage erhoben]. Der Eilantrag ist damit zulässig.
 
-2. Begründungsmangel § 39 VwVfG
-Der Bescheid enthält keine ausreichende rechtliche Begründung.
-Die Behörde beschränkt sich auf den Hinweis, [Zitat]. Eine
-Auseinandersetzung mit den konkreten Umständen des Einzelfalls
-fehlt.
+II. Formeller Mangel § 80 Abs. 3 VwGO
 
-III. Materielle Rechtswidrigkeit
+Die Begründung der sofortigen Vollziehung genügt den
+Anforderungen des § 80 Abs. 3 Satz 1 VwGO nicht.
 
-1. Tatbestand nicht erfüllt
-Die Voraussetzungen des § [X Spezialgesetz] liegen nicht vor.
-Die Behörde geht davon aus, dass [Sachverhaltsbehauptung Behörde].
-Tatsächlich ist jedoch [zutreffender Sachverhalt]. Dies belegen
-[Anlage X].
+Nach der ständigen Rechtsprechung muss die Behörde in der
+Begründung das besondere öffentliche Interesse an der
+sofortigen Vollziehung auf den konkreten Einzelfall bezogen
+darlegen. Allgemeine Formulierungen und abstrakte Verweise auf
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-2. Ermessensfehler § 40 VwVfG / § 114 VwGO
-Soweit der Bescheid auf Ermessen gestützt ist, wurde es nicht
-oder fehlerhaft ausgeübt:
-a) Ermessensnichtgebrauch: aus der Begründung ergibt sich, dass
-   die Behörde keine Ermessenserwägungen angestellt hat.
-b) Ermessensfehlgebrauch: relevante Belange wie [Belang] wurden
-   nicht berücksichtigt.
+Die vorliegende Begründung beschränkt sich auf [Beschreibung
+des Floskels: "im öffentlichen Interesse" / "Gefährdung der
+Allgemeinheit" etc.]. Eine Auseinandersetzung mit den
+individuellen Umständen des Antragstellers — insbesondere
+[konkrete Aspekte] — fehlt vollständig.
 
-3. Unverhältnismäßigkeit
-Der Eingriff ist nicht verhältnismäßig:
-— Geeignetheit: [ggf. bestreiten].
-— Erforderlichkeit: Das mildere Mittel [Bezeichnung] wäre ebenso
-   wirksam und weniger belastend.
-— Angemessenheit: die Schwere des Eingriffs [Beschreibung] überwiegt
-   das verfolgte Ziel.
+Dieser Begründungsmangel allein rechtfertigt die Wiederherstellung
+der aufschiebenden Wirkung.
 
-IV. Eilrechtsschutz
-Parallel hierzu wird beim Verwaltungsgericht [Ort] ein Antrag nach
-§ 80 Abs. 5 VwGO eingereicht, da die sofortige Vollziehung die
-[Existenz / wirtschaftliche Grundlage] des Widerspruchsführers
-gefährdet.
+III. Erfolgsaussichten der Hauptsache
 
-Mit freundlichen kollegialen Grüßen
+Unabhängig vom Begründungsmangel hat der Widerspruch
+überwiegende Erfolgsaussichten:
+
+1. [Formeller Fehler: Anhörung unterblieben / Begründung mangelhaft]
+
+2. Materieller Fehler: Die Tatbestandsvoraussetzungen des
+ § [X] [Spezialgesetz] sind nicht erfüllt, weil [Subsumtion].
+
+3. Ermessensfehler: Die Behörde hat relevante Belange wie
+ [Belang] nicht berücksichtigt (§ 40 VwVfG).
+
+IV. Interessenabwägung
+
+Für das Aussetzungsinteresse des Antragstellers spricht:
+
+— Die sofortige Vollziehung des Widerrufs der Gaststättenerlaubnis
+ [/ Baugenehmigung / Berufserlaubnis] führt zur unmittelbaren
+ Einstellung des Geschäftsbetriebs. [n] Arbeitnehmer verlieren
+ ihren Arbeitsplatz. Die laufenden Verbindlichkeiten von
+ EUR [x] monatlich können nicht mehr bedient werden.
+
+— Der Schaden ist irreversibel: Auch bei späterem Klageerfolg
+ kann der Betrieb nicht ohne Weiteres fortgeführt werden,
+ da [Kundenstamm verloren / Verträge gekündigt / Vermögen
+ liquidiert].
+
+Das Vollzugsinteresse der Antragsgegnerin tritt zurück, weil:
+
+— Keine unmittelbare Gefahr für Leib, Leben oder erhebliche
+ öffentliche Güter besteht.
+
+— Der Vollzug kann ohne wesentlichen Nachteil um die Dauer des
+ Eilverfahrens (typisch 4–8 Wochen) verschoben werden.
 
 Anlagen:
-- Bescheid (Anlage W1)
-- Vollmacht (Anlage W2)
-- Belege Sachverhalt (Anlagen W3 ff.)
+1. Bescheid vom [Datum] mit Vollziehungsanordnung
+2. Widerspruch vom [Datum]
+3. BWA / Liquiditätsplan zur Existenzgefährdung
+4. Vollmacht
 ```
 
-### Baustein 2: Widerspruch mit Sofortvollzug-Antrag § 80 Abs. 4 VwGO
+### Baustein 2: § 80a VwGO — Antrag Dritter gegen Baugenehmigung
 
 ```
-An die [Ausgangsbehörde]
+Verwaltungsgericht [Ort]
 
-Widerspruch und Antrag auf Aussetzung der sofortigen Vollziehung
+Antrag nach § 80a Abs. 3 VwGO
 
-I. Widerspruch
-[wie Baustein 1]
+[Antragsteller / Nachbar]
+gegen
+[Baugenehmigungsbehörde]
+beigeladen: [Bauherr]
 
-II. Antrag nach § 80 Abs. 4 VwGO
-Wir beantragen zugleich gemäß § 80 Abs. 4 VwGO, die Vollziehung
-des angefochtenen Bescheids auszusetzen.
+Antrag
 
-Die sofortige Vollziehung würde [konkrete Folgen schildern].
-Angesichts der dargelegten erheblichen Erfolgsaussichten des
-Widerspruchs und der schwerwiegenden Konsequenzen der sofortigen
-Vollziehung überwiegt das Aussetzungsinteresse des
-Widerspruchsführers.
+Die Vollziehbarkeit der der Beigeladenen erteilten
+Baugenehmigung vom [Datum], Az. [Az.], wird ausgesetzt.
 
-Sollte die Behörde dem Antrag nicht innerhalb von [5] Werktagen
-stattgeben, wird der Widerspruchsführer das Verwaltungsgericht
-anrufen (§ 80 Abs. 5 VwGO).
+Begründung
+
+I. Drittanfechtungsbefugnis
+Der Antragsteller ist Eigentümer des Nachbargrundstücks
+[Flurstück] und durch die Baugenehmigung in seinen drittschützenden
+Rechten aus [§ 15 Abs. 1 BauNVO / § 34 Abs. 1 BauGB /
+Abstandsflächen § 6 LBO] verletzt.
+
+II. Aussetzungsinteresse Nachbar
+Die Vollziehung der Baugenehmigung führt zu irreversiblen
+baulichen Maßnahmen, die bei einem Klageerfolg des
+Antragstellers nicht mehr beseitigt werden können
+(§ 35 Abs. 2 BauGB analog).
+
+III. Erfolgsaussichten der Hauptsache
+Die Baugenehmigung ist voraussichtlich rechtswidrig, weil
+[Subsumtion: Abstandsflächen unterschritten / Rücksichtnahmegebot
+verletzt / Nutzungsartfestsetzung missachtet].
 ```
 
-### Baustein 3: Taktischer Hinweis-Schriftsatz bei drohender Heilung
+### Baustein 3: Beschwerdeantrag nach § 146 VwGO
 
 ```
-An die [Ausgangsbehörde]
+Oberverwaltungsgericht [Land]
 
-Stellungnahme zur nachgeholten Anhörung
+In der Beschwerdesache
 
-Sehr geehrte Damen und Herren,
+[Beschwerdeführer] — Beschwerdeführer —
+gegen
+[Beschwerdegegnerin] — Beschwerdegegnerin —
 
-wir nehmen Stellung zu Ihrem Schreiben vom [Datum], mit dem Sie
-nach Einlegung des Widerspruchs eine Anhörung nachgeholt haben.
+Az. OVG: [neu] / VG-Beschluss Az.: [Alt-Az]
 
-1. Wir machen geltend, dass die nachgeholte Anhörung die formelle
-   Rechtswidrigkeit des Bescheids im Kern nicht beseitigt, da
-   [Begründung: z.B. Ermessenserwägungen grundlegend neu bewertet
-   werden müssten / Sachverhalt nicht hinreichend aufgeklärt].
+Beschwerde nach § 146 VwGO
 
-2. Wir halten an dem Widerspruch vollumfänglich fest.
+Gegen den Beschluss des Verwaltungsgerichts [Ort] vom [Datum]
+legen wir form- und fristgerecht Beschwerde ein.
 
-3. Unabhängig von der Frage der Heilung bleibt der Bescheid aus
-   den materiellen Gründen (s.o.) rechtswidrig.
+Begründung
+
+I. Das Verwaltungsgericht hat den Begründungsmangel
+§ 80 Abs. 3 VwGO unzutreffend verneint. Es hat die
+Begründung: "[Zitat]" als ausreichend angesehen, obwohl sie
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+erforderliche einzelfallbezogene Auseinandersetzung fehlt.
+
+II. Die Interessenabwägung ist fehlerhaft, weil das
+Verwaltungsgericht die Existenzgefährdung des
+Beschwerdeführers (BWA Anlage) nicht berücksichtigt hat.
+
+III. Die Erfolgsaussichten der Hauptsache wurden unterschätzt,
+weil [neue Tatsache / rechtliche Begründung].
+
+Wir beantragen, den angefochtenen Beschluss aufzuheben
+und die aufschiebende Wirkung wiederherzustellen.
 ```
 
---- vor Versand klaeren ---
+--- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
 
 ## Streitwert und Kosten
 
 | Position | Berechnung | Hinweis |
 |---|---|---|
-| Streitwert Widerspruchsverfahren | § 52 GKG; Auffangwert EUR 5.000; bei beziffertem Anspruch der Anspruchsbetrag | Für Kostenerstattung aus § 80 VwVfG relevant |
-| Gebühr Widerspruchsverfahren | Landesgebührenrecht; meist EUR 50–500 bei Abweisung; keine Gebühr bei Abhilfe | Wenn Widerspruch Erfolg hat: Erstattung der anwaltlichen Kosten |
-| Hinzuziehungsantrag | § 80 VwVfG; notwendig wenn Sach- und Rechtslage komplex | Ohne Antrag kein Kostenerstattungsanspruch |
-| Anwaltsvergütung | RVG Nr. 2300 VV (Geschäftsgebühr); 1,3 bis 2,5-fach je nach Schwierigkeit | Erstattungsfähig bei Obsiegen |
-| Kosten Klageverfahren danach | GKG Anlage 1; plus RVG-Gebühren | Widerspruchsverfahren als Sachurteilsvoraussetzung unerlässlich |
+| Streitwert Eilantrag | Hälfte des Hauptsache-Streitwerts nach § 52 GKG | Auffangwert Hauptsache EUR 5.000 → Eilantrag EUR 2.500 |
+| Gerichtskosten | GKG Anlage 1 Nr. 5210; bei EUR 2.500: ca. EUR 378 | Entfallen bei Stattgabe für Behörde |
+| Anwaltsgebühren | RVG Nr. 3100 ff.; 1,3 Verfahrensgebühr; ggf. 1,2 Terminsgebühr | Bei Obsiegen Erstattung durch Gegenseite |
+| Streitwert Beschwerde | Identisch mit VG-Streitwert | Keine eigene Festsetzung des OVG nötig |
+| Notwendige Hinzuziehung | §§ 80 VwVfG, 162 VwGO | Antrag im Eilverfahren stellen |
 
 ## Strategische Empfehlung
 
 | Situation | Empfehlung |
 |---|---|
-| Frist fast abgelaufen | Widerspruch ohne Begründung einlegen; Begründung nachreichen; Fristwahrung hat Vorrang |
-| Anhörungsmangel erkannt | Rügen aber beachten: Behörde kann nachholen → eigene Einwendungen früh substanziieren |
-| Sofortvollzug angeordnet | § 80 Abs. 4 VwGO-Antrag bei Behörde + § 80 Abs. 5 VwGO parallel VG |
-| Ermessensfehler eindeutig | Substanziierte Rüge; keine allgemeine Formulierung; konkrete Erwägungen als fehlend bezeichnen |
-| Widerspruchsverfahren ausgeschlossen | Unmittelbar Klage erheben; Frist § 74 VwGO einhalten |
-| Chance auf Abhilfe hoch | Frühe Kontaktaufnahme mit Sachbearbeiter; einvernehmliche Lösung suchen; spart Kosten |
+| Begründungsmangel § 80 Abs. 3 eindeutig | Formalfehler als eigenständigen Grund vorantreiben; kein Eingehen auf Hauptsache nötig |
+| Hauptsache offensichtlich erfolgreich | Kurze, direkte Begründung Hauptsacheerfolg; Aufwand für Interessenabwägung gering |
+| Hauptsache offen | Irreversibilität und Existenzgefährdung belegen; BWA einreichen; Risikodifferenz zwischen Aussetzung und Vollzug herausarbeiten |
+| Fahrerlaubnissachen | VGH Bayern-Rspr. beachten: öffentliches Interesse an Verkehrssicherheit sehr hoch; Aussetzung nur bei klaren Fehlern |
+| § 80a Nachbar-Situation | Drittschutznorm konkret benennen; Irreversibilität der Baumaßnahme betonen |
+| Beschwerde nach Abweisung | Konkrete Fehler des VG-Beschlusses; neue Tatsachen; keine bloße Wiederholung |
 
 ## Anschluss-Skills
 
-- `fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz` — Eilrechtsschutz parallel zum Widerspruch
-- `eilantrag-80-abs-5-vwgo` — Vertiefung Schriftsatz § 80 Abs. 5 VwGO
-- `energieanlagen-bimschg-genehmigung-verfahren` — Widerspruch gegen BImSchG-Bescheid
-- `energietrassen-planfeststellung-rechtsschutz` — Einwendungen im Planfeststellungsverfahren
-
-## Aktuelle Leitentscheidungen (v14.2 Ergaenzung)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- `fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz` — Überblick einstweiliger Rechtsschutz inkl. § 123 VwGO
+- `fachanwalt-verwaltungsrecht-widerspruchsschrift` — Parallel-Einlegung Widerspruch
+- `energieanlagen-bimschg-genehmigung-verfahren` — Eilrechtsschutz bei BImSchG
+- `energietrassen-planfeststellung-rechtsschutz` — Eilrechtsschutz bei Planfeststellung
 
 ## Quellen
 
-- VwGO §§ 42, 58, 68–79, 80, 113, 114
-- VwVfG §§ 28, 35, 39, 40, 41, 43, 44, 45, 80
-- GKG § 52
-- RVG Nr. 2300 VV
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Stand 05/2026.
+
+- VwGO §§ 42, 80, 80a, 113, 146, 172 — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/vwgo/)
+- VwVfG §§ 28, 39, 80 — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/vwvfg/)
+- GKG § 52; RVG Nr. 3100 ff. — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/gkg_2004/)
+- BVerwG, Beschlussdatenbank — [bverwg.de](https://www.bverwg.de)
+- BVerfG (für Verhältnismäßigkeits- und Folgenabwägungslinie) — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de)
+- Rechtsprechung im Mandat live verifizieren — keine Aktenzeichen aus Modellwissen.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ---
 
-## Skill: `fachanwalt-verwaltungsrecht-beamten-disziplinarverfahren`
+## Skill: `verwr-planfeststellung-grossvorhaben-spezial`
 
-_Beamten-Disziplinarverfahren führen oder verteidigen: Beamter hat Dienstvergehen begangen oder ist Dienstherr bei Einleitung Disziplinarverfahren. Normen: BBG/BeamtStG, Bundesdisziplinargesetz BDG, Landesdisziplinargesetze. Prüfraster: Dienstvergehen-Tatbestand, Disziplinarmassnahmen (Verweis bis Entfernung aus Beamtenverhältnis), Anhoerung, VG-Klage. Output Anhoerungsschrift, Klageschrift, Verteidigungskonzept. Abgrenzung: Beamtenrecht materiell (Befoerderung, Besoldung) siehe mandat-triage-verwaltungsrecht; Anfechtungsklage allgemein siehe fachanwalt-verwaltungsrecht-anfechtungsklage._
+_Wenn es um Verwr Planfeststellung Grossvorhaben Spezial in Fachanwalt Verwaltungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Beamten-Disziplinarverfahren
+# Spezialfall Planfeststellung Grossvorhaben: §§ 72 ff
 
-## Zweck
 
-Verteidigung Beamten bei Disziplinar-Vorwurf.
+## Arbeitsweg
 
-## 1) Rechtsgrundlagen
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: VwGO; VwVfG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-- BBG (Bundesbeamten-Gesetz)
-- BeamtStG (Beamtenstatusgesetz)
-- Bundes-DG / Landes-DG (Disziplinargesetze)
+**Fokus:** Spezialfall Planfeststellung Grossvorhaben: §§ 72 ff. VwVfG, öffentliche Auslegung, Einwendungen, Aboerterungstermin, Planfeststellungsbeschluss. Prüfraster für Einwender.
 
-## 2) Dienstpflicht-Verletzungen
+### VerwR: Planfeststellung
 
-### Beispiele
+## Spezialwissen: VerwR: Planfeststellung
+- **Normen-/Quellenanker:** VwVfG, BGH, BVerfG.
 
-- Verletzung Verschwiegenheits-Pflicht
-- Verspaetete Diensterscheinung
-- Drogen-Konsum
-- Privat-Strafraten mit Bezug
-- Beleidigungen
-- Unerlaubte Nebentaetigkeit
+## Fallweichen
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
-### Schwere
+1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
+2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
+3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-- Leichter Verstoß: Verweis
-- Mittel: Geldbuße / Kürzung Bezüge
-- Schwer: Aberkennung Ruhegehalt
-- Sehr schwer: Entfernung aus Dienst
+## Prüfraster
 
-## 3) Disziplinar-Maßnahmen
+Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
-| Maßnahme | Pflicht-Voraussetzung |
-|---|---|
-| Verweis | leichter Verstoß |
-| Geldbuße | bis 1 Monatsbezüge |
-| Kürzung Bezüge | befristet bis 5 Jahre |
-| Zurueckstufung | dauerhafte Demotion |
-| Entfernung Dienst | schwere Verstöße |
-| Aberkennung Ruhegehalt | bei Ruhe-Beamten |
+1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
+2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
-## 4) Verfahren
+## Plugin-Kontext
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
-### Schritt 1 — Voruntersuchung
+## Output-Module
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
+- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
-- Dienstvorgesetzter prüft Vorwurf
-- Anhörung Beamter
-
-### Schritt 2 — Förmliches Disziplinarverfahren
-
-- Eröffnung durch Dienstherr
-- Ermittlungsfuhrer
-- Beweisaufnahme
-
-### Schritt 3 — Disziplinarmaßnahme
-
-- Bescheid mit Begründung
-- Bei schwerer Maßnahme: Klage VG Pflicht
-
-### Schritt 4 — Klage VG
-
-- Disziplinargericht (im VG-Gefuege)
-- Disziplinarklage Dienstherr
-- Vollumfaengliche Prüfung
-
-## 5) Beamten-Strategie
-
-### Sofort-Maßnahmen
-
-- Schweige-Recht (in Disziplinar-Verfahren begrenzt)
-- Anwalt einschalten
-- Pflicht-Aussage nur zu Sachen, die nicht selbst-belasten
-
-### Vorbereitung
-
-- Akten-Einsicht
-- Gegen-Beweise
-- Milderungs-Faktoren (Krankheit, Belastung)
-
-### Vergleichs-Möglichkeit
-
-- Einstellung gegen Auflage
-- Anwendung Mildere-Maßnahme
-
-## 6) Schwerwiegende Folgen
-
-### Bei Aberkennung Ruhegehalt
-
-- Verlust Pensionsanspruch
-- Sozialer Sturz
-
-### Bei Entfernung aus Dienst
-
-- Wegfall Versorgung
-- Verlust Status
-- Schwere persönliche Folge
-
-## 7) Strafverfahren parallel
-
-### Bei Straf-Tat
-
-- Strafverteidigung im Vorder-Grund
-- Disziplinar typisch erst nach Strafurteil
-- Bindung Disziplinar-Verfahren an Strafurteil § 22 BDG
-
-### Praxis
-
-- Strafmilderung -> Disziplinar-Erleichterung
-- Bei Freispruch: Disziplinar oft eingestellt
-
-## 8) Workflow
-
-### Phase 1 — Erstgespräch
-
-- Vorwurfs-Aufnahme
-- Verteidigungs-Strategie
-
-### Phase 2 — Anhörung
-
-- Schriftliche Stellungnahme
-- Beweise
-
-### Phase 3 — Bei Bescheid
-
-- Klage Disziplinar-VG
-- Frist meist 1 Monat
-
-### Phase 4 — Verhandlung
-
-- Vor Disziplinarkammer
-- Beweisaufnahme
-- Urteil
-
-## 9) Honorar
-
-- Anwaltsgebuehren nach RVG
-- Bei Erfolg: Erstattung durch Dienstherr (begrenzt)
-- Beamtenbund-Mitgliedschaft typisch hilfreich
-
-## 10) Typische Fehler
-
-1. **Unüberlegte Aussage** in Voruntersuchung
-2. **Klage-Frist 1 Monat verpasst**
-3. **Milderungs-Faktoren nicht dargelegt**
-4. **Strafverfahren ohne Disziplinar-Beratung**
-
-## 11) BVerwG-Linien
-
-- BVerwG laufende Disziplinar-Rspr.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Aktuelle BVerwG-Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Anschluss
-
-- `fachanwalt-verwaltungsrecht-orientierung` — Triage
-- `fachanwalt-strafrecht-orientierung` — bei parallelem Strafverfahren
-- `widerspruch-oder-klage-erstpruefung` — bei VG-Triage
+## Was dieser Arbeitsgang nicht macht
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
+- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
+- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
+- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
 
 ---
 
-## Skill: `fachanwalt-verwaltungsrecht-drittanfechtung-umwelt`
+## Skill: `verpflichtungsklage-behoerden-gericht-und-registerweg`
 
-_Drittanfechtung umweltrechtlicher Genehmigungen (BImSchG, BauGB) durch Nachbarn oder Umweltverband: Klagebefugnis und materielle Gründe prüfen. Normen: § 42 Abs. 2 VwGO (Schutznorm-Theorie), § 5 BImSchG (Nachbarschutz), UmwRG (Verbandsklage), UVP-Pflicht. Prüfraster: Klagebefugnis Dritter, drittschützende Normen, UVP-Fehler, Verbandsklage. Output Klageschrift-Entwurf, Klagebefugungs-Gutachten. Abgrenzung: BImSchG-Genehmigung Betreiber siehe energieanlagen-bimschg-genehmigung-verfahren; Bauleitplanung Normenkontrolle siehe fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo._
+_Wenn es um Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg in Fachanwalt Verwaltungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Drittanfechtung Umwelt-Genehmigung
+# Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg
 
-## Zweck
 
-Klage von Nachbarn / Verbänden gegen umweltrechtliche Genehmigungen.
+## Normenanker
 
-## 1) Klagebefugnis § 42 II VwGO
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-### Schutznorm-Theorie
+- `§ 28 Abs. 1 VwVfG` — Anhörung vor belastender Verwaltungsentscheidung.
+- `§ 37 Abs. 1 VwVfG` — Bestimmtheit des Verwaltungsakts.
+- `§ 39 Abs. 1 VwVfG` — Begruendungspflicht.
+- `§ 40 VwVfG` — Ermessensausübung und Ermessensfehler.
+- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist, soweit Widerspruchsverfahren vorgesehen.
+- `§ 74 Abs. 1 VwGO` — Klagefrist.
+- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz gegen Vollziehung.
+- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
 
-- Norm muss auch Dritten schuetzen
-- BImSchG § 5 schuetzt Nachbarn
-- Bei reinen Allgemeinwohl-Normen: keine Klagebefugnis
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-### Bei Verbänden
+## Arbeitsweg
 
-- Umwelt-Verbands-Klage UmwRG
-- Anerkennung BfN
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: VwGO; VwVfG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-### Praxis-Konstellationen
+**Fokus:** Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg.
 
-- Tierhaltungs-Anlage
-- Windkraft-Anlage
-- Straßen-/Schienen-Planfeststellung
-- Industriebetrieb
+## Spezialwissen: Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg
+- **Normen-/Quellenanker:** VwGO, VwVfG.
 
-## 2) Prüfungs-Punkte
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-### Materiell
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-- Genehmigungs-Voraussetzungen § 6 BImSchG
-- Immissions-Schutz § 5 BImSchG
-- UVP-Pflicht
-- Naturschutz
-
-### Verfahrens
-
-- Beteiligungs-Verfahren
-- Anhörung
-- Sachverständigen-Prüfung
-
-### Verfahrensvorschriften
-
-- Vorabbescheid-Aufhebung
-- Wesentliche Änderung
-- Teil-Genehmigung
-
-## 3) Verfahrens-Vorschriften
-
-### Förmliches Verfahren § 10 BImSchG
-
-- Bekanntmachung
-- Auslegung 1 Monat
-- Erörterungs-Termin
-- Bescheid mit Begründung
-
-### Vereinfachtes Verfahren § 19 BImSchG
-
-- Bei kleineren Anlagen
-- Keine Bürgerbeteiligung
-- Schneller
-
-## 4) UVP-Prüfung
-
-### Pflicht / Vor-Prüfung
-
-- UVPG Anlage 1
-- Schwellenwerte
-- Allgemeine UVP / Standortbezogene UVP / Vor-UVP
-
-### Bei Versäumnis
-
-- Genehmigung anfechtbar
-- Auflagen-Defizit
-
-## 5) Workflow
-
-### Phase 1 — Bescheid-Prüfung
-
-- Vollständigkeit
-- Auflagen
-- Begründung
-
-### Phase 2 — Klage-Strategie
-
-- Widerspruchs-Verfahren (Landes-AusfG)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Eilantrag § 80 V VwGO bei Sofortvollzug
-
-### Phase 3 — Beweisaufnahme
-
-- Sachverständigen-Gutachten
-- Eigenstudien (Geruch, Larm, Bioaerosole)
-- Vergleichs-Anlagen
-
-### Phase 4 — Urteil
-
-- Aufhebung Genehmigung
-- Auflagen-Änderung
-- Klage abgewiesen
-
-## 6) Aufschiebende Wirkung
-
-### Sofortvollzug § 80 II VwGO
-
-- Bei wirtschaftlicher Bedeutung typisch
-- Eilantrag § 80 V VwGO
-
-### Erfolgsaussichten Eil
-
-- Wahrscheinlichkeit Hauptsache-Erfolg
-- Eigene Schädigung vs. AG-Interesse
-
-## 7) Verbands-Klage UmwRG
-
-### Voraussetzungen
-
-- BfN-anerkannt
-- Klage-Frist 1 Monat
-- Beteiligungs-Verfahren genutzt
-
-### Reichweite
-
-- Nicht nur eigene Rechte
-- Auch Umweltbelange
-- Klimaschutz im aktuellen Fokus
-
-## 8) Typische Fehler
-
-1. **Klagebefugnis nicht ausreichend dargetan**
-2. **Eilantrag versäumt** — Anlage geht in Betrieb
-3. **Sachverständiger zu spaet**
-4. **UVP-Pflicht übersehen**
-
-## 9) BVerwG-Linien
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## 10) Honorar
-
-- Streitwert nach wirtschaftlichem Interesse
-- Bei Vereinen oft NGO-Finanzierung
-- VKH-Antrag möglich
-
-## Aktuelle BVerwG-Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Anschluss
-
-- `testakten/umweltrecht-industrieanlage-genehmigung` — bei vertiefter Verteidigung
-- `fachanwalt-agrarrecht-tierhaltung-genehmigung` — bei Stallneubau-Bezug
-- `fachanwalt-verwaltungsrecht-orientierung` — Triage
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Verpflichtungsklage** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

@@ -28,7 +28,7 @@ Koordination einer Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO mit den Anw
  - Art. 50 Transparenzpflichten generative KI
 - EDSA-Stellungnahme 28/2024 zu KI-Modellen (Auslegung DSGVO bei KI).
 - EDSA-Leitlinien WP 248 rev.01 zur DSFA.
-- Anwendungsbeginn KI-VO: gestaffelt, Hochrisiko-Pflichten 02.08.2026.
+- Anwendungsbeginn KI-VO: gestaffelt. Art. 50 Transparenz ab 02.08.2026; Hochrisiko Anhang III nach aktuellem Digital-Omnibus-Zeitstrahl spätestens 02.12.2027; Hochrisiko Anhang I spätestens 02.08.2028. Vor Außenverwendung finalen Normtext und Kommissionsstand prüfen.
 
 ## Abgrenzung Anbieter und Betreiber
 

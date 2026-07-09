@@ -1,27 +1,27 @@
-# Megaprompt: hoai-leistungsphasen-praxis
+# Vollprüfung: hoai-leistungsphasen-praxis
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 388 Skills (gekuerzt fuer Chat-Fenster) des Plugins `hoai-leistungsphasen-praxis`.
+Dieser Vollprüfung enthaelt top-8 von 388 Skills (gekuerzt fuer Chat-Fenster) des Plugins `hoai-leistungsphasen-praxis`.
 
 ## Inhaltsverzeichnis
 
-1. **dokumentation-belegakte-fachplaner** — HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: sichert Protokolle, Planstände, Entscheidungen, Mails u…
-2. **kostensteuerung-mandanten-mangel-nachtrag** — HOAI LPH 7 Mitwirkung bei der Vergabe: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; …
-3. **lph-04-fachplaner-schnittstellen** — HOAI LPH 4 Genehmigungsplanung: koordiniert Architekt, TGA, Tragwerk, Brandschutz, Baugrund und Sonderplaner; mit Fokus …
-4. **lph-04-kommunikation-baustelle-behoerde** — HOAI LPH 4 Genehmigungsplanung: formuliert klare E-Mails an Bauherr, Behörde, Unternehmer oder Fachplaner; mit Fokus auf…
-5. **lph-04-kostensteuerung** — HOAI LPH 4 Genehmigungsplanung: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; mit Fok…
-6. **lph-04-oeffentlicher-auftraggeber** — HOAI LPH 4 Genehmigungsplanung: berücksichtigt Vergabe, Haushaltsrecht, Fördermittel und Dokumentationspflicht; mit Foku…
-7. **lph-04-outputpaket** — HOAI LPH 4 Genehmigungsplanung: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fok…
-8. **lph-05-bauherrnfreigabe** — HOAI LPH 5 Ausführungsplanung: strukturiert Freigabeentscheidung, Protokoll, Vorbehalte und Änderungswünsche; mit Fokus …
+1. **lph-05-genehmigungen-und-auflagen** — Wenn es um LPH 5 Ausführungsplanung: Ordnet öffentlich-rechtliche auflagen und genehmigungslasten in HOAI Leistungsphase…
+2. **bauunternehmen-perspektive** — Wenn es um HOAI Querschnitt: Übersetzt hoai-planungsstand in ausführungsrisiko und nachtragschance in HOAI Leistungsphas…
+3. **gesamtschuld-bgb-650t** — Wenn es um HOAI Querschnitt: Ordnet haftung architekt/bauunternehmer und vorrang der nacherfüllung in HOAI Leistungsphas…
+4. **lph-06-sachverstaendigen-pruefung** — Wenn es um LPH 6 Vorbereitung der Vergabe: Übersetzt den lph-stand in gutachterfragen und prüfspur in HOAI Leistungsphas…
+5. **teilabnahme-bgb-650s** — Wenn es um HOAI Querschnitt: Prüft teilabnahme ab letzter unternehmerleistung und haftungsfolgen in HOAI Leistungsphasen…
+6. **sonderkuendigung-bgb-650r** — Wenn es um HOAI Querschnitt: Prüft sonderkündigungsrecht nach planungsgrundlage und belehrung in HOAI Leistungsphasen Pr…
+7. **altvertrag-mindestsatzstreit** — Wenn es um HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh-/bgh-risiken in HOAI Leistungsphasen Prax…
+8. **lph-01-genehmigungen-und-auflagen** — Wenn es um LPH 1 Grundlagenermittlung: Ordnet öffentlich-rechtliche auflagen und genehmigungslasten in HOAI Leistungspha…
 
 ---
 
-## Skill: `dokumentation-belegakte-fachplaner`
+## Skill: `lph-05-genehmigungen-und-auflagen`
 
-_HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphasen..._
+_Wenn es um LPH 5 Ausführungsplanung: Ordnet öffentlich-rechtliche auflagen und genehmigungslasten in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Sichert protokolle
+# LPH 5 Ausführungsplanung: Ordnet öffentlich-rechtliche auflagen und genehmigungslasten
 
 ## Arbeitsweg
 
@@ -33,7 +33,7 @@ _HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: sichert Prot
 
 ## Ergebnis
 
-- LPH-8-Prüfmatrix
+- LPH-5-Prüfmatrix
 - fehlende Unterlagen und offene Entscheidungen
 - Honorar-/Nachtragsnotiz
 - kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt
@@ -44,12 +44,41 @@ _HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: sichert Prot
 - BGB §§ 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst.
 - Keine Rechtsprechung aus Modellwissen zitieren; nur verifizierte Entscheidungen mit Gericht, Datum, Aktenzeichen und freiem Link.
 
-## Besonderer Blick in LPH 8
+## Besonderer Blick in LPH 5
 
-- Phase: Objektüberwachung - Bauüberwachung und Dokumentation
-- Praktischer Kern: Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation
-- Bewertungsanker Gebäude/Innenräume: 32 %
+- Phase: Ausführungsplanung
+- Praktischer Kern: durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung
+- Bewertungsanker Gebäude/Innenräume: 25 % Gebäude / 30 % Innenräume
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
+
+---
+
+## Skill: `bauunternehmen-perspektive`
+
+_Wenn es um HOAI Querschnitt: Übersetzt hoai-planungsstand in ausführungsrisiko und nachtragschance in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# HOAI Querschnitt: Übersetzt hoai-planungsstand in ausführungsrisiko und nachtragschance
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Ergebnis
+
+- LPH-/Vertragsmatrix
+- Risikoregister
+- konkreter Text- oder Tabellenbaustein
+- nächste Prüfschritte
+
+## Quellen- und Qualitätsregeln
+
+- HOAI-Text, insbesondere § 34 und Anlage 10, live gegen Gesetze im Internet prüfen.
+- BGB §§ 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink; keine Blindzitate.
 
 ## Normen und Rechtsprechung
 
@@ -82,11 +111,11 @@ _HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: sichert Prot
 
 ---
 
-## Skill: `kostensteuerung-mandanten-mangel-nachtrag`
+## Skill: `gesamtschuld-bgb-650t`
 
-_HOAI LPH 7 Mitwirkung bei der Vergabe: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume im Hoai Leistungsphasen P..._
+_Wenn es um HOAI Querschnitt: Ordnet haftung architekt/bauunternehmer und vorrang der nacherfüllung in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# LPH 7 Mitwirkung bei der Vergabe: Prüft kostenermittlung
+# HOAI Querschnitt: Ordnet haftung architekt/bauunternehmer und vorrang der nacherfüllung
 
 ## Arbeitsweg
 
@@ -98,7 +127,65 @@ _HOAI LPH 7 Mitwirkung bei der Vergabe: prüft Kostenermittlung, Kostenfortschre
 
 ## Ergebnis
 
-- LPH-7-Prüfmatrix
+- LPH-/Vertragsmatrix
+- Risikoregister
+- konkreter Text- oder Tabellenbaustein
+- nächste Prüfschritte
+
+## Quellen- und Qualitätsregeln
+
+- HOAI-Text, insbesondere § 34 und Anlage 10, live gegen Gesetze im Internet prüfen.
+- BGB §§ 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink; keine Blindzitate.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 1 HOAI (Anwendungsbereich)
+- §§ 3, 8 HOAI (Leistungsbild, Leistungsphasen 1-9)
+- § 6 HOAI (Honorarvereinbarung)
+- § 7 HOAI (Honorarvereinbarung Schriftform)
+- § 10 HOAI (anrechenbare Kosten)
+- § 14 HOAI (Honorarzonen)
+- § 15 HOAI (Fälligkeit, Abschlagszahlungen)
+- §§ 631, 632, 632a BGB (Werkvertrag, Vergütung, Abschlag)
+- § 650p ff. BGB (Architekten-/Ingenieurvertrag, Zielfindung)
+- VOB/B § 8 (Kündigung, Anwendung neben BGB)
+
+### Leitentscheidungen
+
+- BGH VII ZR 46/06 (Mindestsatz-Unterschreitung)
+- BGH VII ZR 63/14 (Abschlagszahlung Architekt)
+- BGH VII ZR 58/11 (Akquise vs. Vertragsschluss)
+- EuGH C-377/17 (HOAI-Preisrecht europarechtswidrig)
+- BGH VII ZR 174/19 (Übergangsfälle HOAI 2013/2021)
+
+### Anwendung im Skill
+
+- Leistungsphasen 1-9 trennscharf benennen; keine Pauschalvergueterung ohne Bezug zu §§ 8, 10, 14 HOAI.
+- Nach EuGH C-377/17 sind Mindest- und Hoechstsaetze unverbindlich; Honorarvereinbarung dennoch nach § 7 HOAI 2021 schriftlich.
+- Anrechenbare Kosten nach § 10 HOAI gegen DIN 276 abgleichen; Kostenfortschreibung dokumentieren.
+
+---
+
+## Skill: `lph-06-sachverstaendigen-pruefung`
+
+_Wenn es um LPH 6 Vorbereitung der Vergabe: Übersetzt den lph-stand in gutachterfragen und prüfspur in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# LPH 6 Vorbereitung der Vergabe: Übersetzt den lph-stand in gutachterfragen und prüfspur
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Ergebnis
+
+- LPH-6-Prüfmatrix
 - fehlende Unterlagen und offene Entscheidungen
 - Honorar-/Nachtragsnotiz
 - kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt
@@ -109,20 +196,20 @@ _HOAI LPH 7 Mitwirkung bei der Vergabe: prüft Kostenermittlung, Kostenfortschre
 - BGB §§ 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst.
 - Keine Rechtsprechung aus Modellwissen zitieren; nur verifizierte Entscheidungen mit Gericht, Datum, Aktenzeichen und freiem Link.
 
-## Besonderer Blick in LPH 7
+## Besonderer Blick in LPH 6
 
-- Phase: Mitwirkung bei der Vergabe
-- Praktischer Kern: Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen
-- Bewertungsanker Gebäude/Innenräume: 4 % Gebäude / 3 % Innenräume
+- Phase: Vorbereitung der Vergabe
+- Praktischer Kern: Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur
+- Bewertungsanker Gebäude/Innenräume: 10 % Gebäude / 7 % Innenräume
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
 
 ---
 
-## Skill: `lph-04-fachplaner-schnittstellen`
+## Skill: `teilabnahme-bgb-650s`
 
-_HOAI LPH 4 Genehmigungsplanung: koordiniert Architekt, TGA, Tragwerk, Brandschutz, Baugrund und Sonderplaner; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume im Hoai Leistungsphasen P..._
+_Wenn es um HOAI Querschnitt: Prüft teilabnahme ab letzter unternehmerleistung und haftungsfolgen in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# LPH 4 Genehmigungsplanung: Koordiniert architekt
+# HOAI Querschnitt: Prüft teilabnahme ab letzter unternehmerleistung und haftungsfolgen
 
 ## Arbeitsweg
 
@@ -134,31 +221,24 @@ _HOAI LPH 4 Genehmigungsplanung: koordiniert Architekt, TGA, Tragwerk, Brandschu
 
 ## Ergebnis
 
-- LPH-4-Prüfmatrix
-- fehlende Unterlagen und offene Entscheidungen
-- Honorar-/Nachtragsnotiz
-- kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt
+- LPH-/Vertragsmatrix
+- Risikoregister
+- konkreter Text- oder Tabellenbaustein
+- nächste Prüfschritte
 
 ## Quellen- und Qualitätsregeln
 
-- HOAI § 34 und Anlage 10 als Primäranker verwenden; andere Leistungsbilder gesondert prüfen.
-- BGB §§ 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst.
-- Keine Rechtsprechung aus Modellwissen zitieren; nur verifizierte Entscheidungen mit Gericht, Datum, Aktenzeichen und freiem Link.
-
-## Besonderer Blick in LPH 4
-
-- Phase: Genehmigungsplanung
-- Praktischer Kern: öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik
-- Bewertungsanker Gebäude/Innenräume: 3 % Gebäude / 2 % Innenräume
-- Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
+- HOAI-Text, insbesondere § 34 und Anlage 10, live gegen Gesetze im Internet prüfen.
+- BGB §§ 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink; keine Blindzitate.
 
 ---
 
-## Skill: `lph-04-kommunikation-baustelle-behoerde`
+## Skill: `sonderkuendigung-bgb-650r`
 
-_HOAI LPH 4 Genehmigungsplanung: formuliert klare E-Mails an Bauherr, Behörde, Unternehmer oder Fachplaner; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume im Hoai Leistungsphasen Praxis._
+_Wenn es um HOAI Querschnitt: Prüft sonderkündigungsrecht nach planungsgrundlage und belehrung in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# LPH 4 Genehmigungsplanung: Formuliert klare e-mails an bauherr
+# HOAI Querschnitt: Prüft sonderkündigungsrecht nach planungsgrundlage und belehrung
 
 ## Arbeitsweg
 
@@ -170,31 +250,24 @@ _HOAI LPH 4 Genehmigungsplanung: formuliert klare E-Mails an Bauherr, Behörde, 
 
 ## Ergebnis
 
-- LPH-4-Prüfmatrix
-- fehlende Unterlagen und offene Entscheidungen
-- Honorar-/Nachtragsnotiz
-- kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt
+- LPH-/Vertragsmatrix
+- Risikoregister
+- konkreter Text- oder Tabellenbaustein
+- nächste Prüfschritte
 
 ## Quellen- und Qualitätsregeln
 
-- HOAI § 34 und Anlage 10 als Primäranker verwenden; andere Leistungsbilder gesondert prüfen.
-- BGB §§ 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst.
-- Keine Rechtsprechung aus Modellwissen zitieren; nur verifizierte Entscheidungen mit Gericht, Datum, Aktenzeichen und freiem Link.
-
-## Besonderer Blick in LPH 4
-
-- Phase: Genehmigungsplanung
-- Praktischer Kern: öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik
-- Bewertungsanker Gebäude/Innenräume: 3 % Gebäude / 2 % Innenräume
-- Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
+- HOAI-Text, insbesondere § 34 und Anlage 10, live gegen Gesetze im Internet prüfen.
+- BGB §§ 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink; keine Blindzitate.
 
 ---
 
-## Skill: `lph-04-kostensteuerung`
+## Skill: `altvertrag-mindestsatzstreit`
 
-_HOAI LPH 4 Genehmigungsplanung: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume im Hoai Leistungsphase..._
+_Wenn es um HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh-/bgh-risiken in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# LPH 4 Genehmigungsplanung: Prüft kostenermittlung
+# HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh-/bgh-risiken
 
 ## Arbeitsweg
 
@@ -206,67 +279,53 @@ _HOAI LPH 4 Genehmigungsplanung: prüft Kostenermittlung, Kostenfortschreibung, 
 
 ## Ergebnis
 
-- LPH-4-Prüfmatrix
-- fehlende Unterlagen und offene Entscheidungen
-- Honorar-/Nachtragsnotiz
-- kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt
+- LPH-/Vertragsmatrix
+- Risikoregister
+- konkreter Text- oder Tabellenbaustein
+- nächste Prüfschritte
 
 ## Quellen- und Qualitätsregeln
 
-- HOAI § 34 und Anlage 10 als Primäranker verwenden; andere Leistungsbilder gesondert prüfen.
-- BGB §§ 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst.
-- Keine Rechtsprechung aus Modellwissen zitieren; nur verifizierte Entscheidungen mit Gericht, Datum, Aktenzeichen und freiem Link.
+- HOAI-Text, insbesondere § 34 und Anlage 10, live gegen Gesetze im Internet prüfen.
+- BGB §§ 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink; keine Blindzitate.
 
-## Besonderer Blick in LPH 4
+## Normen und Rechtsprechung
 
-- Phase: Genehmigungsplanung
-- Praktischer Kern: öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik
-- Bewertungsanker Gebäude/Innenräume: 3 % Gebäude / 2 % Innenräume
-- Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
+### Kuratierte Normen-Bibliothek
+
+- § 1 HOAI (Anwendungsbereich)
+- §§ 3, 8 HOAI (Leistungsbild, Leistungsphasen 1-9)
+- § 6 HOAI (Honorarvereinbarung)
+- § 7 HOAI (Honorarvereinbarung Schriftform)
+- § 10 HOAI (anrechenbare Kosten)
+- § 14 HOAI (Honorarzonen)
+- § 15 HOAI (Fälligkeit, Abschlagszahlungen)
+- §§ 631, 632, 632a BGB (Werkvertrag, Vergütung, Abschlag)
+- § 650p ff. BGB (Architekten-/Ingenieurvertrag, Zielfindung)
+- VOB/B § 8 (Kündigung, Anwendung neben BGB)
+
+### Leitentscheidungen
+
+- BGH VII ZR 46/06 (Mindestsatz-Unterschreitung)
+- BGH VII ZR 63/14 (Abschlagszahlung Architekt)
+- BGH VII ZR 58/11 (Akquise vs. Vertragsschluss)
+- EuGH C-377/17 (HOAI-Preisrecht europarechtswidrig)
+- BGH VII ZR 174/19 (Übergangsfälle HOAI 2013/2021)
+
+### Anwendung im Skill
+
+- Leistungsphasen 1-9 trennscharf benennen; keine Pauschalvergueterung ohne Bezug zu §§ 8, 10, 14 HOAI.
+- Nach EuGH C-377/17 sind Mindest- und Hoechstsaetze unverbindlich; Honorarvereinbarung dennoch nach § 7 HOAI 2021 schriftlich.
+- Anrechenbare Kosten nach § 10 HOAI gegen DIN 276 abgleichen; Kostenfortschreibung dokumentieren.
 
 ---
 
-## Skill: `lph-04-oeffentlicher-auftraggeber`
+## Skill: `lph-01-genehmigungen-und-auflagen`
 
-_HOAI LPH 4 Genehmigungsplanung: berücksichtigt Vergabe, Haushaltsrecht, Fördermittel und Dokumentationspflicht; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume im Hoai Leistungsphasen..._
+_Wenn es um LPH 1 Grundlagenermittlung: Ordnet öffentlich-rechtliche auflagen und genehmigungslasten in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# LPH 4 Genehmigungsplanung: Berücksichtigt vergabe
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Ergebnis
-
-- LPH-4-Prüfmatrix
-- fehlende Unterlagen und offene Entscheidungen
-- Honorar-/Nachtragsnotiz
-- kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt
-
-## Quellen- und Qualitätsregeln
-
-- HOAI § 34 und Anlage 10 als Primäranker verwenden; andere Leistungsbilder gesondert prüfen.
-- BGB §§ 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst.
-- Keine Rechtsprechung aus Modellwissen zitieren; nur verifizierte Entscheidungen mit Gericht, Datum, Aktenzeichen und freiem Link.
-
-## Besonderer Blick in LPH 4
-
-- Phase: Genehmigungsplanung
-- Praktischer Kern: öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik
-- Bewertungsanker Gebäude/Innenräume: 3 % Gebäude / 2 % Innenräume
-- Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-
----
-
-## Skill: `lph-04-outputpaket`
-
-_HOAI LPH 4 Genehmigungsplanung: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume im Hoai Leistungsphase..._
-
-# LPH 4 Genehmigungsplanung: Liefert alle dokumente
+# LPH 1 Grundlagenermittlung: Ordnet öffentlich-rechtliche auflagen und genehmigungslasten
 
 ## Arbeitsweg
 
@@ -278,7 +337,7 @@ _HOAI LPH 4 Genehmigungsplanung: liefert alle Dokumente, Tabellen und Entscheidu
 
 ## Ergebnis
 
-- LPH-4-Prüfmatrix
+- LPH-1-Prüfmatrix
 - fehlende Unterlagen und offene Entscheidungen
 - Honorar-/Nachtragsnotiz
 - kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt
@@ -289,54 +348,18 @@ _HOAI LPH 4 Genehmigungsplanung: liefert alle Dokumente, Tabellen und Entscheidu
 - BGB §§ 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst.
 - Keine Rechtsprechung aus Modellwissen zitieren; nur verifizierte Entscheidungen mit Gericht, Datum, Aktenzeichen und freiem Link.
 
-## Besonderer Blick in LPH 4
+## Besonderer Blick in LPH 1
 
-- Phase: Genehmigungsplanung
-- Praktischer Kern: öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik
-- Bewertungsanker Gebäude/Innenräume: 3 % Gebäude / 2 % Innenräume
-- Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-
----
-
-## Skill: `lph-05-bauherrnfreigabe`
-
-_HOAI LPH 5 Ausführungsplanung: strukturiert Freigabeentscheidung, Protokoll, Vorbehalte und Änderungswünsche; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume im Hoai Leistungspha..._
-
-# LPH 5 Ausführungsplanung: Strukturiert freigabeentscheidung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Ergebnis
-
-- LPH-5-Prüfmatrix
-- fehlende Unterlagen und offene Entscheidungen
-- Honorar-/Nachtragsnotiz
-- kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt
-
-## Quellen- und Qualitätsregeln
-
-- HOAI § 34 und Anlage 10 als Primäranker verwenden; andere Leistungsbilder gesondert prüfen.
-- BGB §§ 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst.
-- Keine Rechtsprechung aus Modellwissen zitieren; nur verifizierte Entscheidungen mit Gericht, Datum, Aktenzeichen und freiem Link.
-
-## Besonderer Blick in LPH 5
-
-- Phase: Ausführungsplanung
-- Praktischer Kern: durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung
-- Bewertungsanker Gebäude/Innenräume: 25 % Gebäude / 30 % Innenräume
+- Phase: Grundlagenermittlung
+- Praktischer Kern: Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren
+- Bewertungsanker Gebäude/Innenräume: 2 %
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

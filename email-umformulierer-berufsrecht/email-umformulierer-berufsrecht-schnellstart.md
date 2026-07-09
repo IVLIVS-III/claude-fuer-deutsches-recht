@@ -58,8 +58,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 43a Abs. 4 BRAO — Interessenkollision: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
 - BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- Die relevanten Normen sind: Paragraf 43a Abs. 3 BRAO (Sachlichkeitsgebot), Paragraf 43b BRAO (Werbung), Paragraf 59b Abs. 2 Nr. 1 Buchst. d BRAO (Satzungsermächtigung für BORA-Sachlichkeitsregeln)
 
 ## 7. Antwortform
 

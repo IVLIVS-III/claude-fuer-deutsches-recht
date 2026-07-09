@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Fortbestehensprognose ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du Eröffnungsgrund und Fortbestehensprognose belastbar bestimmen und den nächsten Verfahrensschritt wählen.
 
 # Fortbestehensprognose — Schnellstart
 
@@ -17,44 +17,47 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Annahmen: Behörden-, Gerichts- oder Registerweg: Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren.
-2. Annahmen plausibilisieren: Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800.
-3. Annahmen sammeln (Fortführung): Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800.
-4. Anschluss-Routing: Dieses Anschluss-Routing für Fortbestehensprognose wählt nach dem ersten Ergebnis die passende Vertiefung.
-5. Auslösendes Ereignis erfassen: Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800.
-6. Bilanzieller Status aufnehmen: Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800.
+1. Krise feststellen: Liquiditätsstatus, Fälligkeiten, Fortbestehensprognose und Zahlungsstockung trennen.
+2. Pflichten zuordnen: Geschäftsleitung, Gläubiger, Berater, Insolvenzgericht und Verwalterrolle klären.
+3. Antrag und Sicherung: Insolvenzantrag, vorläufige Maßnahmen, Masseerhalt und Kommunikation vorbereiten.
+4. Forderung und Tabelle: Anmeldung, Bestreiten, Feststellung, Sicherheiten und Aussonderung aufbereiten.
+5. Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen.
+6. Annahmen: Behörden-, Gerichts- oder Registerweg: Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 535 Abs. 1 BGB; Paragraf 535 Abs. 1 BGB; Paragraf 536 Abs. 1 BGB |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Normenanker | InsO Paragraf 17; InsO Paragraf 18; InsO Paragraf 19 |
+| Rechtsprechung | BGH, Urteil vom 24.05.2005 - IX ZR 123/04; BGH, Urteil vom 19.12.2017 - II ZR 88/16 |
+| Tatbestand | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen |
+| Beweislast | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation |
+| Rechtsfolge | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Annahmen: Behörden-, Gerichts- oder Registerweg | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Annahmen plausibilisieren | Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Annahmen sammeln (Fortführung) | Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Dieses Anschluss-Routing für Fortbestehensprognose wählt nach dem ersten Ergebnis die passende Vertiefung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auslösendes Ereignis erfassen | Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bilanzieller Status aufnehmen | Tragende Normen verifizieren: InsO Paragraf 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Annahmen: Behörden-, Gerichts- oder Registerweg | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Annahmen plausibilisieren | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Annahmen sammeln (Fortführung) | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auslösendes Ereignis erfassen | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bilanzieller Status aufnehmen | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- InsO Paragraf 17: Zahlungsunfähigkeit.
+- InsO Paragraf 18: drohende Zahlungsunfähigkeit.
+- InsO Paragraf 19: Überschuldung.
+- InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
 - Paragraf 535 Abs. 1 BGB — Hauptpflichten des Mietvertrags. - Paragraf 536 Abs. 1 BGB — Minderung. - Paragraf 543 Abs. 1 BGB — außerordentliche Kündigung. - Paragraf 556 Abs. 1 BGB —: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 535 Abs. 1 BGB — Hauptpflichten des Mietvertrags: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 536 Abs. 1 BGB — Minderung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 543 Abs. 1 BGB — außerordentliche Kündigung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 556 Abs. 1 BGB — Betriebskostenvereinbarung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 556 Abs. 3 BGB — Abrechnung und Einwendungsfrist: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 558 Abs. 1 BGB — Mieterhoehung bis ortsuebliche Vergleichsmiete: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zahlungsunfähigkeit ist regelmäßig bei Liquiditätslücke von zehn Prozent anzunehmen.
+- BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.
 
 ## 7. Antwortform
 

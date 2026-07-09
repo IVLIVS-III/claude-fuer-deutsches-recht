@@ -58,9 +58,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 27 InsO: Eröffnungsbeschluss mit Verwalterbestellung und Wirkungen klar fassen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zahlungsunfähigkeit ist regelmäßig bei Liquiditätslücke von zehn Prozent anzunehmen.
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.
-- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten
-- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners
-- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen
 
 ## 7. Antwortform
 

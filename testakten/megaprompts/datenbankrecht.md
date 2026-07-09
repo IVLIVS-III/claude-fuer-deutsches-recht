@@ -1,39 +1,40 @@
-# Megaprompt: datenbankrecht
+# Vollprüfung: datenbankrecht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 129 Skills (gekuerzt fuer Chat-Fenster) des Plugins `datenbankrecht`.
+Dieser Vollprüfung enthaelt top-8 von 129 Skills (gekuerzt fuer Chat-Fenster) des Plugins `datenbankrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt …
-2. **policy-db-abschlussmemo** — Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umgang mit fremden und eigenen Datenbanken: §…
-3. **abmahnung-pruefen-datenbankrecht** — Prüfung einer erhaltenen Datenbankrechts-Abmahnung: Berechtigungs-Check des Abmahnenden (§ 87a Abs. 2 UrhG), Verletzungs…
-4. **agb-auskunft-rechnungslegung** — Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhaltskontrolle für Nutzungsverbote, Datenabruf-…
-5. **agrar-logistik-cyberincident** — Datenbankrecht für Agrar- und Sensordaten: §§ 87a-87e UrhG für Präzisionslandwirtschaftsdatenbanken und IoT-Sensornetzwe…
-6. **api-nutzung-rate-limits-und-vertragsbruch** — Prüft die rechtliche Bewertung von API-Nutzung im Datenbankkontext: Vertragsbruch bei Überschreitung von Rate-Limits ode…
-7. **auskunft-rechnungslegung-schadensschaetzung** — Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht nach §§ 97 101 UrhG: Dreigliedrige Schadensberechnung …
-8. **b2b-kundendaten-datenbank-insolvenz-als** — Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und GeschGehG bei CRM-Datenbankexporten durch ausscheidende Mitarb…
+1. **kaltstart-triage** — Wenn es um Kaltstart Triage in Datenbankrecht und Datenbankherstellerrecht geht: klärt Rolle, Ziel, Frist, Unterlagen un…
+2. **datenbankwerk-schoepferische** — Wenn es um Datenbankwerk: Schöpferische Auswahl oder Anordnung (Paragraf 4 Abs. 2 UrhG) in Datenbankrecht und Datenbankh…
+3. **policy-db-abschlussmemo** — Wenn es um Datenbankrecht Compliance-Policy: Data Governance, Freigabeverfahren, Schulung in Datenbankrecht und Datenban…
+4. **einstweilige-verfuegung-datenbankrecht-dringlichkeit** — Wenn es um Einstweilige Verfügung im Datenbankrecht — Dringlichkeit und Verfügungsantrag in Datenbankrecht und Datenbank…
+5. **verletzung-dokumentieren-hashlog-screenshot-abrufprotokoll** — Wenn es um Verletzung dokumentieren — Hash-Logs, Screenshots und Abruflauf-Protokolle in Datenbankrecht und Datenbankher…
+6. **webdaten-auslesen-datenbank-und-robots-txt** — Wenn es um Webdaten-Auslesen gegen Websites mit Datenbankcharakter — Rechtliche Risikoanalyse in Datenbankrecht und Date…
+7. **datenbankrecht-abschlussmemo** — Wenn es um Datenbankrecht Abschlussmemo: Rechtslage, Maßnahmen, offene Risiken in Datenbankrecht und Datenbankhersteller…
+8. **datenbankrecht-werk-herstellerrecht** — Wenn es um Kaltstart Datenbankrecht: Werk oder Herstellerrecht? in Datenbankrecht und Datenbankherstellerrecht geht: klä…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext ordnet der Skill das Material eig..._
+_Wenn es um Kaltstart Triage in Datenbankrecht und Datenbankherstellerrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Datenbankrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Schnellstart-Workflow
 
@@ -59,9 +60,80 @@ Tragende Anker: UrhG §§ 87a ff., Richtlinie 96/9/EG, Data Act. Tatsächliche F
 
 ---
 
+## Skill: `datenbankwerk-schoepferische`
+
+_Wenn es um Datenbankwerk: Schöpferische Auswahl oder Anordnung (Paragraf 4 Abs. 2 UrhG) in Datenbankrecht und Datenbankherstellerrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Datenbankwerk: Schöpferische Auswahl oder Anordnung (§ 4 Abs. 2 UrhG)
+
+## Arbeitsbereich
+
+Prüft, ob eine Datenbank als Datenbankwerk nach § 4 Abs. 2 UrhG urheberrechtlich schutzfähig ist. Analysiert schöpferische Auswahl oder Anordnung der Elemente, grenzt zur bloßen Vollständigkeitssammlung ab, bewertet EuGH- und BGH-Rechtsprechung und liefert Schutzfähigkeitsgutachten für Mandanten aus Verlag, Forschung oder Softwarebranche. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Mandantenfall
+
+- Verlag möchte wissen, ob seine redaktionell zusammengestellte Fachdatenbank urheberrechtlich geschützt ist und Unterlassung gegen Konkurrenten durchsetzen kann.
+- Softwareunternehmen hat eine Wissensdatenbank aufgebaut und fragt, ob eine besondere Strukturierung oder Kategorisierung Schutz begründet.
+- Forschungsinstitut streitet mit Kooperationspartner darüber, wer Urheber einer wissenschaftlichen Datenbanksammlung ist.
+
+## Erste Schritte
+
+1. Datenbankinhalt und -struktur dokumentieren: Welche Elemente enthält die Datenbank, nach welchen Kriterien wurden sie ausgewählt und geordnet?
+2. Schöpfungshöhe prüfen: Bestand ein Entscheidungsspielraum bei Auswahl oder Anordnung, oder war das Ergebnis durch Vollständigkeitsgebot vorgegeben?
+3. BGH-Rechtsprechung einordnen: „Tele-Info-CD" (BGH) und europäische Mindeststandarddoktrin beachten.
+4. Urheber und Miturheber bestimmen: § 8 UrhG, Arbeitnehmerurheberrecht (§ 43 UrhG), Auftragswerk.
+5. Schutzumfang abgrenzen: Schutz gilt für Struktur, nicht für Inhalte der Einzelelemente.
+6. Konkurrenzen klären: Läuft daneben Herstellerrecht (§§ 87a ff. UrhG) oder Schutz der Einzelelemente?
+
+## Rechtsrahmen
+
+- § 4 Abs. 2 UrhG: Datenbankwerk als Sammlung, bei der Auswahl oder Anordnung eine persönliche geistige Schöpfung ist.
+- § 4 Abs. 1 UrhG: Sammelwerk als Oberkategorie — Einzelelemente bleiben selbstständig schutzfähig.
+- RL 96/9/EG Erwägungsgrund 15-16: Datenbankwerk verlangt intellektuellen Aufwand des Schöpfers bei Auswahl und Anordnung.
+- § 7 UrhG: Urheber ist der Schöpfer; juristische Personen können nur über § 43 UrhG (Arbeitnehmer) oder Vertragsrecht begünstigt werden.
+- § 8 UrhG: Miturheberschaft bei gemeinsamer Schöpfung mehrerer natürlicher Personen.
+- § 2 Abs. 2 UrhG: Persönliche geistige Schöpfung als allgemeines Schutzkriterium — gilt auch für Datenbankwerke.
+
+## Prüfraster
+
+- Sind die Elemente der Datenbank unabhängig voneinander zugänglich und nutzbar (Systemvoraussetzung des Datenbankbegriffs)?
+- Liegt ein kreativer Entscheidungsspielraum bei Auswahl (welche Inhalte aufgenommen wurden) oder Anordnung (wie sie strukturiert sind) vor?
+- Ist die Sammlung vollständig oder strebt sie Vollständigkeit an? Vollständigkeitsdatenbanken genießen keinen Werkschutz nach EuGH.
+- Wer hat die schöpferischen Entscheidungen getroffen — natürliche Person oder algorithmisch generiert?
+- Kann der Schöpfungsakt dokumentiert werden (Redaktionsprotokolle, E-Mails, Versionsverlauf)?
+- Ist der Schutzumfang klar begrenzt auf Auswahl/Anordnung, nicht auf Dateninhalte selbst?
+- Besteht Konkurrenz zu anderen Schutzrechten an Einzelelementen (Fotos, Texte, Daten)?
+
+## Typische Fallstricke
+
+- Vollständige Branchenverzeichnisse oder Telefonbücher sind keine Datenbankwerke, weil keine Auswahlentscheidung möglich ist.
+- KI-generierte Datenbankstrukturen begründen mangels menschlicher Schöpfung keinen Werkschutz.
+- Arbeitgeber ist nicht Urheber, sondern nur Rechteinhaber kraft § 43 UrhG — der angestellte Entwickler bleibt Urheber.
+- Schutz der Struktur erstreckt sich nicht auf enthaltene Rohdaten; Dritte können dieselben Daten in anderer Struktur frei verwenden.
+- Fehlende Dokumentation der redaktionellen Entscheidungen erschwert Beweisführung im Streitfall erheblich.
+
+## Quellen
+
+- [§ 4 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/4.html)
+- [§ 2 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/2.html)
+- [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+- [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
+- [§ 43 UrhG Arbeitnehmerurheberrecht — dejure.org](https://dejure.org/gesetze/UrhG/43.html)
+- [§ 8 UrhG Miturheberschaft — dejure.org](https://dejure.org/gesetze/UrhG/8.html)
+
+---
+
 ## Skill: `policy-db-abschlussmemo`
 
-_Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umgang mit fremden und eigenen Datenbanken: §§ 87a-87e UrhG (Herstellerrecht), § 4 UrhG (Datenbankwerk), RL 96/9/EG, TDM-Schranken §§ 44b und 60d UrhG, Data Act 2023/2854. Mandant benötigt eine rechtssichere Data-Governance-P..._
+_Wenn es um Datenbankrecht Compliance-Policy: Data Governance, Freigabeverfahren, Schulung in Datenbankrecht und Datenbankherstellerrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
 # Datenbankrecht Compliance-Policy: Data Governance, Freigabeverfahren, Schulung
 
@@ -131,15 +203,149 @@ Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umg
 
 ---
 
-## Skill: `abmahnung-pruefen-datenbankrecht`
+## Skill: `einstweilige-verfuegung-datenbankrecht-dringlichkeit`
 
-_Prüfung einer erhaltenen Datenbankrechts-Abmahnung: Berechtigungs-Check des Abmahnenden (§ 87a Abs. 2 UrhG), Verletzungstatbestand (§ 87b UrhG), Vollständigkeitscheck der Unterlassungserklärung, Verjährung, Vertragsstrafe-Angemessenheit (§ 339 BGB) und Handlungsoptionen (Unterzeichnung, Widerspru..._
+_Wenn es um Einstweilige Verfügung im Datenbankrecht — Dringlichkeit und Verfügungsantrag in Datenbankrecht und Datenbankherstellerrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Abmahnung prüfen im Datenbankrecht — Checkliste und Reaktionsoptionen
+# Einstweilige Verfügung im Datenbankrecht — Dringlichkeit und Verfügungsantrag
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Mandantenfall
+
+- Datenbankbetreiber entdeckt heute Abend, dass ein Wettbewerber alle seine Daten abgreift und will morgen eine einstweilige Verfügung beim Landgericht beantragen.
+- Anwalt muss prüfen, ob die Dringlichkeit durch vorheriges Zuwarten des Mandanten bereits verwirkt ist.
+- Gegenanwalt soll eine Schutzschrift für den beschuldigten Auslesedienst einreichen, bevor der Antragsteller das Gericht anruft.
+
+## Erste Schritte
+
+1. Verfügungsanspruch prüfen: § 87b UrhG Verletzungstatbestand — Entnahme wesentlicher Teile ohne Erlaubnis; Unterlassungsanspruch nach § 97 Abs. 1 UrhG.
+2. Verfügungsgrund prüfen: Dringlichkeit — aktuelle Verletzung oder unmittelbar drohende Verletzung? Dringlichkeitsvermutung bei Urheberrechtsverletzungen nach h.M.
+3. Dringlichkeitsverwirkung bewerten: Zuwarten von mehr als 4-6 Wochen nach Kenntnis der Verletzung kann Dringlichkeit beseitigen — zeitkritisch!
+4. Zuständiges Gericht bestimmen: LG am Beklagtenwohnsitz, Tatortgericht, fliegender Gerichtsstand bei Internet-Verletzungen.
+5. Glaubhaftmachung organisieren: Eidesstattliche Versicherung des Mandanten, Anlagen (Logs, Screenshots, Honey-Pot-Nachweis) vorbereiten.
+6. Vollziehungsfrist beachten: § 929 Abs. 2 ZPO — Verfügung muss innerhalb eines Monats nach Erlass zugestellt und vollzogen werden.
+
+## Rechtsrahmen
+
+- § 87b UrhG: Unterlassungsanspruch bei Entnahme wesentlicher Teile als Verletzungstatbestand.
+- § 97 Abs. 1 UrhG: Unterlassung und Schadensersatz bei Urheberrechtsverletzungen.
+- §§ 935-940 ZPO: Einstweilige Verfügung — Verfügungsanspruch und Verfügungsgrund als Voraussetzungen.
+- § 294 ZPO: Glaubhaftmachung statt Vollbeweis im einstweiligen Verfügungsverfahren.
+- § 929 Abs. 2 ZPO: Vollziehungsfrist von einem Monat ab Erlass der Verfügung.
+- § 12 Abs. 2 UWG: Dringlichkeitsvermutung im UWG-Bereich; im Urheberrecht analoge Anwendung durch viele Gerichte.
+
+## Prüfraster
+
+- Liegt ein Verfügungsanspruch vor — ist die Verletzung nach § 87b UrhG glaubhaft gemacht?
+- Besteht ein Verfügungsgrund — aktuelle Verletzung, Wiederholungsgefahr oder unmittelbar drohende Erstbegehung?
+- Hat der Antragsteller nach Kenntnis der Verletzung zu lange gewartet (Dringlichkeitsverwirkung, Richtwert ca. 4-6 Wochen)?
+- Welches Gericht ist zuständig — fliegender Gerichtsstand bei internetbasierter Verletzung?
+- Sind die Beweismittel zur Glaubhaftmachung ausreichend und authentisch (§ 294 ZPO)?
+- Ist die Vollziehungsfrist von einem Monat nach Erlass realistisch einhaltbar?
+- Hat der Gegner bereits eine Schutzschrift eingereicht — welche Gegengründe sind zu erwarten?
+
+## Typische Fallstricke
+
+- Zu langes Zuwarten nach Kenntnis der Verletzung vernichtet die Dringlichkeit — sofortiges Handeln ist entscheidend.
+- Unzureichende Glaubhaftmachung (fehlende eidesstattliche Versicherung, unvollständige Anlagen) führt zur Antragsabweisung.
+- Vollziehungsfrist nach § 929 Abs. 2 ZPO wird übersehen — nicht vollzogene Verfügung verliert Wirkung.
+- Bei anonymen oder ausländischen Verletzern Zustellung und Vollzug im Ausland schwierig — Zuständigkeitsprüfung vorab.
+- Widerspruch des Gegners führt zur mündlichen Verhandlung — Hauptsacheklage vorbereiten.
+
+## Quellen
+
+- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
+- [§ 97 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/97.html)
+- [§§ 935-940 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/935.html)
+- [§ 294 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/294.html)
+- [§ 929 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/929.html)
+- [§ 12 UWG — dejure.org](https://dejure.org/gesetze/UWG/12.html)
+
+---
+
+## Skill: `verletzung-dokumentieren-hashlog-screenshot-abrufprotokoll`
+
+_Wenn es um Verletzung dokumentieren — Hash-Logs, Screenshots und Abruflauf-Protokolle in Datenbankrecht und Datenbankherstellerrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Verletzung dokumentieren — Hash-Logs, Screenshots und Abruflauf-Protokolle
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Mandantenfall
+
+- Datenbankbetreiber hat Hinweise auf systematisches automatisierten Datenabruf durch einen Wettbewerber und fragt, wie er Beweise gerichtsfest sichert.
+- Anwalt bereitet eine Klage nach § 87b UrhG vor und benötigt verwertbare Beweismittel für Entnahmemenge und Systematik des Verletzers.
+- IT-Abteilung eines Unternehmens soll ein Beweissicherungsprotokoll entwickeln, das bei zukünftigen Datenbankrechts-Verletzungen sofort einsetzbar ist.
+
+## Erste Schritte
+
+1. Beweissicherungsziele definieren: Was muss bewiesen werden — Tatsache der Entnahme, Umfang, Systematik, Zurechenbarkeit zum Verletzer?
+2. Technische Beweismittel sichern: Server-Logs (IP-Adressen, User-Agents, Zeitstempel, Anfragevolumen), API-Gateway-Protokolle, Datenbankabfrage-Logs.
+3. Hash-Logs erstellen: Kryptographische Hashwerte der Datenbankzustände vor und nach Verletzungszeitraum als Integritätsnachweis.
+4. Screenshots und Zeitstempel sichern: Dokumentation der verletzenden Website/App, notariell beglaubigt oder mit qualifizierter elektronischer Zeitstempelung (eIDAS-VO).
+5. Honey-Pot-Datensätze als Beweismittel: Einzigartiger Datensatz in der Datenbank, der beim Verletzer nachweisbar auftaucht.
+6. Notarielle oder gerichtliche Sicherung: Einstweilige Beweissicherung nach § 485 ZPO; Internetseiten-Protokollierung durch Notar.
+
+## Rechtsrahmen
+
+- § 87b UrhG: Verletzungstatbestand — Nachweis der Entnahme wesentlicher Teile und Zurechenbarkeit erforderlich.
+- § 485 ZPO: Selbstständiges Beweisverfahren zur vorprozessualen Sicherung von Beweismitteln.
+- § 97a UrhG: Abmahnerfordernis — Abmahnung muss auf gesichertem Beweisstand beruhen.
+- eIDAS-VO Art. 41: Qualifizierter elektronischer Zeitstempel als Beweis für Zeitpunkt der Sicherung.
+- § 286 ZPO: Freie Beweiswürdigung — technische Protokolle sind als Beweismittel zulässig, müssen aber authentisch und vollständig sein.
+- § 371 ZPO: Augenscheinsbeweis für digitale Inhalte — Screenshots, Videos, Protokolle als Beweismittel.
+
+## Prüfraster
+
+- Sind Server-Logs lückenlos und manipulationsgeschützt gespeichert (Schreibschutz, Hash-Signaturen)?
+- Lässt sich aus den Logs die IP-Adresse, User-Agent-Zeichenkette und das Abfragevolumen des Verletzers eindeutig ermitteln?
+- Sind Honey-Pot-Datensätze vorhanden und eindeutig identifizierbar, wenn sie beim Verletzer auftauchen?
+- Wurde die verletzende Website/App durch Notar oder mit qualifiziertem Zeitstempel dokumentiert?
+- Ist der Sachverständige benannt und gebrieft, um technische Beweismittel vor Gericht zu erläutern?
+- Wurden die Beweismittel zeitnah gesichert und nicht nachträglich verändert?
+- Ist die Kette der Beweismittel lückenlos — von der Entnahme bis zum Erscheinen beim Verletzer?
+
+## Typische Fallstricke
+
+- Server-Logs werden regelmäßig überschrieben — ohne Sicherungsprozess gehen entscheidende Beweise verloren.
+- IP-Adressen allein sind kein sicherer Täternachweis — VPN, TOR, Proxy-Ketten können Verschleierung ermöglichen.
+- Screenshots ohne Zeitstempel sind als Beweismittel schwach — notarielle oder elektronische Zeitstempelung ist erforderlich.
+- Honey-Pot-Datensätze müssen von Anfang an in der Datenbank vorhanden sein — nachträgliches Einpflegen ist als Beweis wertlos.
+- Ohne Sachverständigen scheitern technische Beweismittel im Prozess häufig an mangelnder gerichtlicher Würdigung.
+
+## Quellen
+
+- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
+- [§ 485 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/485.html)
+- [§ 97a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/97a.html)
+- [§ 286 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/286.html)
+- [eIDAS-VO — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32014R0910)
+- [§ 371 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/371.html)
+
+---
+
+## Skill: `webdaten-auslesen-datenbank-und-robots-txt`
+
+_Wenn es um Webdaten-Auslesen gegen Websites mit Datenbankcharakter — Rechtliche Risikoanalyse in Datenbankrecht und Datenbankherstellerrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# Webdaten-Auslesen gegen Websites mit Datenbankcharakter — Rechtliche Risikoanalyse
 
 ## Arbeitsbereich
 
-Prüfung einer erhaltenen Datenbankrechts-Abmahnung: Berechtigungs-Check des Abmahnenden (§ 87a Abs. 2 UrhG), Verletzungstatbestand (§ 87b UrhG), Vollständigkeitscheck der Unterlassungserklärung, Verjährung, Vertragsstrafe-Angemessenheit (§ 339 BGB) und Handlungsoptionen (Unterzeichnung, Widerspruch, Schutzschrift). Erstellt Antwortschreiben und Risikoabwägung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtliche Bewertung von Webdaten-Auslesen gegen Websites mit Datenbankcharakter: Prüft §§ 87a-87e UrhG, Verstoß gegen AGB (§ 307 BGB), robots.txt-Bindungswirkung, Wettbewerbsrecht (§§ 3 4 UWG) und strafrechtliche Relevanz (§ 202a StGB). Bewertet EuGH C-202/12 (Innoweb/Wegener) und erstellt Risikoampel für Betreiber und Auslesedienste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -151,375 +357,66 @@ Prüfung einer erhaltenen Datenbankrechts-Abmahnung: Berechtigungs-Check des Abm
 
 ## Mandantenfall
 
-- Unternehmen hat heute Morgen eine Abmahnung wegen Datenbankrechts-Verletzung erhalten und muss innerhalb von 5 Tagen reagieren.
-- Startup bezweifelt, dass der Abmahnende überhaupt Inhaber des behaupteten Datenbankherstellerrechts ist — wie prüft man das?
-- Anwalt soll beurteilen, ob die geforderte Unterlassungserklärung zu weit gefasst ist und ob eine modifizierte Erklärung ausreicht.
+- Preisvergleich-Startup will Produktdaten von Händlerwebsites automatisiert abrufen und fragt nach dem rechtlichen Risiko.
+- Betreiber eines Immobilienportals entdeckt, dass ein Mitbewerber Exposés systematisch abgreift, und will Unterlassungsansprüche geltend machen.
+- KI-Unternehmen plant, öffentlich zugängliche Websites als Trainingsdaten einzusammeln, und benötigt eine rechtliche Bewertung der Zulässigkeit.
 
 ## Erste Schritte
 
-1. Abmahnenden identifizieren: Wer mahnt ab, und hat er Herstellerrecht am behaupteten Datenbankrecht (§ 87a Abs. 2 UrhG — Investition, Initiative, Risiko)?
-2. Verletzungsvorwurf überprüfen: Welche konkrete Handlung wird als § 87b UrhG-Verletzung behauptet — ist sie tatsächlich erfolgt?
-3. Unterlassungserklärung analysieren: Ist sie hinreichend bestimmt, zeitlich unbegrenzt, enthält sie eine angemessene Vertragsstrafe (§ 339 BGB)?
-4. Verjährung prüfen: § 102 UrhG — ist der behauptete Verletzungszeitraum verjährt (3-Jahres-Frist)?
-5. Schranken prüfen: Greift § 87c UrhG (erlaubte Handlungen), § 44b UrhG (TDM-Schranke) oder vertragliche Erlaubnis — liegt tatsächlich eine Verletzung vor?
-6. Handlungsoptionen abwägen: Unterzeichnung, modifizierte Unterlassungserklärung, Widerspruch, Schutzschrift vor dem zuständigen Gericht.
+1. Datenbankcharakter der Zielwebsite prüfen: Sind die Daten systematisch geordnet und über Suchabfragen individuell zugänglich (§ 87a Abs. 1 UrhG)?
+2. Investitionsnachweis der Website-Betreiber abschätzen: Ressourcenaufwand für Sammlung, Pflege und Darstellung der Daten.
+3. robots.txt und AGB analysieren: Verbieten sie automatisierten Abruf? Ist robots.txt ein verbindliches Vertragsangebot oder nur technische Empfehlung?
+4. Verletzungstatbestand bestimmen: Wesentliche Entnahme (§ 87b UrhG) oder Kumulationstatbestand (§ 87b Abs. 1 S. 2 UrhG)?
+5. Wettbewerbsrechtliche Prüfung: Gezielte Behinderung (§ 4 Nr. 4 UWG), Schmarotzen an fremder Leistung?
+6. Strafrecht prüfen: § 202a StGB (Ausspähen von Daten) nur bei Überwindung technischer Zugangssicherungen.
 
 ## Rechtsrahmen
 
-- § 87a Abs. 2 UrhG: Herstellereigenschaft des Abmahnenden — muss er Inhaber des Rechts sein?
-- § 87b UrhG: Verletzungstatbestand — ist eine Entnahme wesentlicher Teile tatsächlich nachweisbar?
-- § 87c UrhG: Erlaubte Handlungen als Einwand gegen Abmahnung (z. B. TDM-Schranke, rechtmäßige Nutzung).
-- § 97a Abs. 4 UrhG: Kostenerstattung bei unberechtigter Abmahnung — Gegenanspruch des Abgemahnten.
-- § 102 UrhG: Verjährung — 3 Jahre ab Kenntnis von Verletzung und Verletzer.
-- § 339 BGB: Vertragsstrafe in der Unterlassungserklärung — Höhe auf Verhältnismäßigkeit prüfen.
+- §§ 87a-87b UrhG: Datenbankherstellerrecht gegen Entnahme und Weiterverwendung wesentlicher Teile.
+- § 307 BGB: AGB-Kontrolle für Datenabruf verbietende Nutzungsbedingungen — Verbote können wirksam sein, wenn hinreichend klar formuliert.
+- § 4 Nr. 4 UWG: Gezielte Behinderung — Abfangen von Kunden oder Datenmissbrauch zum Nachteil des Wettbewerbers.
+- § 202a StGB: Ausspähen von Daten — nur relevant, wenn Zugangssicherungen (Passwort, CAPTCHA, technische Sperre) überwunden werden.
+- EuGH C-202/12 (Innoweb/Wegener): Meta-Suchmaschine durchsucht Stellenbörsendatenbank in Echtzeit — wesentliche Weiterverwendung bejaht.
+- RL 96/9/EG Art. 6 Abs. 1: Zugriffsrecht des rechtmäßigen Nutzers — gilt nicht für unbefugte Nutzer.
 
 ## Prüfraster
 
-- Ist der Abmahnende tatsächlich Inhaber des behaupteten Datenbankherstellerrechts (§ 87a Abs. 2 UrhG)?
-- Liegt die behauptete Verletzungshandlung tatsächlich vor — welche Belege legt der Abmahnende vor?
-- Greift eine Schranke (§ 87c UrhG, § 44b UrhG) oder liegt eine vertragliche Erlaubnis vor?
-- Ist der behauptete Verletzungszeitraum verjährt (§ 102 UrhG)?
-- Ist die geforderte Unterlassungserklärung zu weit gefasst — schließt sie erlaubte Nutzungen ein?
-- Ist die Vertragsstrafe angemessen, oder ist sie übermäßig hoch — § 340 BGB-Herabsetzung möglich?
-- Wurde die Abmahnung fristgerecht und formwirksam erteilt — greift § 97a Abs. 4 UrhG bei unberechtigter Abmahnung?
+- Ist die Zielwebsite als Datenbank nach § 87a Abs. 1 UrhG zu qualifizieren?
+- Hat der Website-Betreiber eine wesentliche Investition in Beschaffung, Überprüfung oder Darstellung getätigt?
+- Verbieten robots.txt oder AGB ausdrücklich automatisierten Abruf oder automatisiertes Auslesen?
+- Handelt es sich um einen rechtmäßigen Nutzer (z. B. mit Account) oder einen Unbefugten?
+- Überwindet das Datenabruf-Tool technische Schutzmaßnahmen (CAPTCHA, Login-Gate, Rate-Limit-Sperre)?
+- Wird ein wesentlicher Teil entnommen, oder kumulieren wiederholte Abrufe?
+- Liegt ein wirtschaftlicher Schaden oder eine Wettbewerbsverzerrung vor?
 
 ## Typische Fallstricke
 
-- Versäumte Frist zur Abgabe der Unterlassungserklärung erzeugt keine automatische Rechtsverwirkung — aber erhöht Risiko einer einstweiligen Verfügung.
-- Zu schnelles Unterzeichnen einer zu weit gefassten Unterlassungserklärung schränkt künftige erlaubte Aktivitäten ein.
-- Abmahnender ohne Herstellerrecht (z. B. nur Lizenznehmer, nicht Hersteller) ist nicht abmahnberechtigt.
-- Schutzschrift beim vermuteten Gericht einreichen, bevor die einstweilige Verfügung beantragt wird — Gericht muss sie berücksichtigen.
-- TDM-Schranke (§ 44b UrhG) kann als Einwand gegen den Verletzungsvorwurf wirken — wurde Opt-out wirksam erklärt?
-
-## Quellen
-
-- [§ 97a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/97a.html)
-- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
-- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
-- [§ 87c UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87c.html)
-- [§ 102 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/102.html)
-- [§ 339 BGB — dejure.org](https://dejure.org/gesetze/BGB/339.html)
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 87a UrhG
-- § 87b UrhG
-- § 87a-87e UrhG
-- § 44b UrhG
-- § 4 UrhG
-- § 60d UrhG
-- § 97 UrhG
-- § 87c UrhG
-- § 87d UrhG
-- § 97a UrhG
-- § 202a StGB
-- § 5 UrhG
-
-### Leitentscheidungen
-
-- EuGH C-203/02
-- EuGH C-202/12
-- EuGH C-545/07
-- EuGH C-338/02
-- EuGH C-170/12
-
----
-
-## Skill: `agb-auskunft-rechnungslegung`
-
-_Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhaltskontrolle für Nutzungsverbote, Auslesen-Verbote, Datenbankrechts-Zuweisung, Haftungsausschlüsse und TDM-Opt-out-Klauseln. Analysiert Wirksamkeit von Standardklauseln gegenüber Verbrauchern und B2B-Kunden sowie Schrank..._
-
-# Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Mandantenfall
-
-- Datenbankbetreiber überarbeitet seine AGB und will datenbankrechtsrelevante Klauseln (Nutzungsverbote, Auslesen-Verbot, TDM-Opt-out) rechtssicher formulieren.
-- Anwalt soll bestehende AGB eines SaaS-Anbieters auf unwirksame Klauseln prüfen, die alle Datenbankrechte auf den Anbieter übertragen.
-- Startup hat eine Abmahnung erhalten, weil seine AGB keine ausreichenden Auslesen-Verbote enthalten, und muss sie überarbeiten.
-
-## Erste Schritte
-
-1. AGB-Anwendungsbereich bestimmen: Handelt es sich um B2C oder B2B-Verhältnis? Unterschiedliche Prüfmaßstäbe nach §§ 307-309 BGB vs. § 310 BGB.
-2. Inhaltskontrolle nach § 307 BGB: Sind die Klauseln transparent (Verständlichkeitsgebot), klar und nicht unangemessen benachteiligend?
-3. Auslesen-Verbot-Klausel prüfen: Hinreichend bestimmt (welche automatisierten Zugriffe sind verboten?), verhältnismäßige Rechtsfolgen (Kündigung, Schadensersatz)?
-4. TDM-Opt-out in AGB bewerten: Maschinenlesbarkeit nach § 44b Abs. 3 UrhG — AGB-Text allein reicht nicht; zusätzliche technische Erklärung erforderlich.
-5. Datenbankrechts-Zuweisungsklausel prüfen: Überträgt die Klausel Herstellerrecht oder Nutzungsrechte an Kundendaten auf den Betreiber — § 307 BGB-Konformität?
-6. Haftungsausschlussklausel gestalten: § 309 Nr. 7 BGB — Ausschluss für Vorsatz und grobe Fahrlässigkeit unzulässig; differenzierte Haftungsbegrenzung erforderlich.
-
-## Rechtsrahmen
-
-- § 307 BGB: Inhaltskontrolle — Klausel unwirksam bei unangemessener Benachteiligung oder fehlender Transparenz.
-- § 308 BGB: Klauselverbote mit Wertungsmöglichkeit — z. B. einseitige Änderungsvorbehalte.
-- § 309 BGB: Klauselverbote ohne Wertungsmöglichkeit — Haftungsausschlüsse, Abtretungsverbote.
-- § 87c UrhG: Zwingende gesetzliche Schranken — vertraglich nicht ausschließbar für rechtmäßige Nutzer.
-- § 44b UrhG: TDM-Schranke — kommerzielles TDM kann durch AGB (mit technischem Opt-out) ausgeschlossen werden; wissenschaftliches nicht.
-- § 87b UrhG: Verbotener Handlungsrahmen — AGB können Nutzung über das gesetzliche Verbot hinaus einschränken, müssen aber § 307 BGB standhalten.
-
-## Prüfraster
-
-- Sind alle datenbankrechtsrelevanten Verbote (Entnahme, automatisiertes Auslesen, Weiterverwendung) in den AGB klar und abschließend formuliert?
-- Ist das Auslesen-Verbot hinreichend bestimmt — welche Arten automatisierten Zugriffs sind erfasst und welche Rechtsfolgen gelten?
-- Hält die TDM-Opt-out-Klausel den Anforderungen des § 44b Abs. 3 UrhG stand (maschinenlesbar + separat technisch erklärt)?
-- Sind Klauseln, die Datenbankherstellerrecht auf den Anbieter übertragen, nach § 307 BGB angemessen und transparent?
-- Greifen zwingende Schranken (§ 87c UrhG) einem Verbotsumfang entgegen — Klausel insoweit unwirksam?
-- Unterscheiden die Haftungsklauseln zwischen Vorsatz, grober und leichter Fahrlässigkeit — § 309 Nr. 7 BGB beachten?
-- Gibt es einen wirksamen Gerichtsstand und anwendbares Recht in den AGB für grenzüberschreitende Datenbanknutzung?
-
-## Typische Fallstricke
-
-- Zu pauschale Auslesen-Verbote, die auch zulässige Nutzungen einschließen, sind nach § 307 BGB unwirksam.
-- AGB-TDM-Verbote ohne zusätzliche maschinenlesbare Opt-out-Erklärung wirken nicht als § 44b Abs. 3 UrhG-Opt-out.
-- Klauseln, die dem Betreiber alle Rechte an Kundendaten zuweisen, sind in der Regel nach § 307 BGB unangemessen.
-- Einseitige Leistungsänderungsvorbehalte des Betreibers (§ 308 Nr. 4 BGB) für Datenbankzugang sind begrenzt zulässig.
-- Verbraucher-AGB unterliegen strengerer Kontrolle als B2B-AGB — für B2C immer zusätzlich §§ 308-309 BGB prüfen.
-
-## Quellen
-
-- [§ 307 BGB — dejure.org](https://dejure.org/gesetze/BGB/307.html)
-- [§ 309 BGB — dejure.org](https://dejure.org/gesetze/BGB/309.html)
-- [§ 44b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/44b.html)
-- [§ 87c UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87c.html)
-- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
-- [§ 308 BGB — dejure.org](https://dejure.org/gesetze/BGB/308.html)
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 87a UrhG
-- § 87b UrhG
-- § 87a-87e UrhG
-- § 44b UrhG
-- § 4 UrhG
-- § 60d UrhG
-- § 97 UrhG
-- § 87c UrhG
-- § 87d UrhG
-- § 97a UrhG
-- § 202a StGB
-- § 5 UrhG
-
-### Leitentscheidungen
-
-- EuGH C-203/02
-- EuGH C-202/12
-- EuGH C-545/07
-- EuGH C-338/02
-- EuGH C-170/12
-
----
-
-## Skill: `agrar-logistik-cyberincident`
-
-_Datenbankrecht für Agrar- und Sensordaten: §§ 87a-87e UrhG für Präzisionslandwirtschaftsdatenbanken und IoT-Sensornetzwerke, Data Act (VO 2023/2854) Zugangsrechte für Landwirte, Verhältnis zu Geschäftsgeheimnissen (GeschGehG) bei Erntedaten und DSGVO-Anforderungen bei personenbezogenen Agrardaten..._
-
-# Datenbankrecht für Agrar- und Sensordaten — Präzisionslandwirtschaft und IoT
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Mandantenfall
-
-- AgTech-Unternehmen hat eine Bodenanalysedatenbank aus Sensordaten von 500 Betrieben aufgebaut und fragt, ob es Datenbankherstellerrecht hat und wie es die Daten lizenzieren kann.
-- Landwirt möchte alle Sensordaten seines Smart-Farm-Equipments von einem AgTech-Anbieter zurückbekommen — Data-Act-Zugangsrecht prüfen.
-- Saatgutunternehmen kauft von mehreren AgTech-Anbietern Ertragsdaten für KI-Modell-Training und fragt nach Datenbankrecht und TDM-Schranken.
-
-## Erste Schritte
-
-1. Datenbankherstellerrecht für Agrardatenbank: Wesentliche Investition in Sensorinfrastruktur, Datenqualitätsprüfung und Darstellung (§ 87a UrhG)?
-2. BHB-Doktrin für Sensordaten: Sind die Sensordaten selbst erzeugte Daten (Messung der eigenen Felder) oder beschaffte Daten — Investitionstyp bestimmen.
-3. Data Act für Landwirte: VO 2023/2854 Art. 4 — Landwirt als Nutzer des Smart-Farm-Equipments hat Zugangsrecht zu von seinem Gerät generierten Daten.
-4. Geschäftsgeheimnisse bei Erntedaten: Agrardaten können Betriebsgeheimnisse sein — GeschGehG und Geheimhaltungsmaßnahmen.
-5. TDM-Schranke für Saatgutunternehmen: § 44b UrhG — ist die Nutzung für KI-Modell-Training TDM-berechtigt, oder wurde Opt-out erklärt?
-6. DSGVO bei personenbezogenen Agrardaten: Können Agrardaten (GPS-Positionsdaten von Landmaschinen) personenbezogen sein?
-
-## Rechtsrahmen
-
-- § 87a UrhG: AgTech-Datenbankherstellerrecht — Investition in Sensordaten-Beschaffung (Betriebsführung der Sensoren), Qualitätsprüfung und Darstellung.
-- Data Act VO 2023/2854 Art. 4: Zugangsrecht des Landwirts zu Daten seines Smart-Farm-Equipments.
-- GeschGehG § 2 Nr. 1: Ernte- und Ertragsdaten als Betriebsgeheimnisse — wenn angemessene Geheimhaltungsmaßnahmen.
-- § 44b UrhG: TDM-Schranke für Saatgutunternehmen — kommerzielle Nutzung, Opt-out relevant.
-- DSGVO Art. 4 Nr. 1: GPS-Standortdaten von Landmaschinen können personenbezogene Daten sein, wenn Betriebsinhaber identifizierbar.
-- EuGH C-203/02 (BHB/William Hill): Sensorisches Messen von eigenen Feldern ist Datenerzeugung, nicht Datenbeschaffung — BHB-Einwand möglich.
-
-## Prüfraster
-
-- Beruht das AgTech-Herstellerrecht auf Investition in Sensordaten-Beschaffung von Dritten oder auf eigener Messung (BHB-Einwand)?
-- Hat der Landwirt nach Data Act Art. 4 ein Zugangsrecht zu seinen Gerätedaten beim AgTech-Anbieter?
-- Sind Erntedaten als Betriebsgeheimnisse schützenswert — wurden angemessene Geheimhaltungsmaßnahmen ergriffen?
-- Hat der AgTech-Anbieter einen TDM-Opt-out nach § 44b Abs. 3 UrhG erklärt?
-- Können GPS-Positionsdaten der Landmaschinen personenbezogene Daten nach DSGVO sein?
-- Erlauben Lizenzbedingungen die Nutzung aggregierter Agrardaten für Saatgut-KI-Modell-Training?
-- Schützt das Data Act Art. 4 Zugangsrecht den Landwirt auch gegen Einwände aus dem Geschäftsgeheimnisrecht des Anbieters?
-
-## Typische Fallstricke
-
-- AgTech-Anbieter, die Daten von den eigenen Sensoren auf Kundenfeldern sammeln, investieren in Datenerzeugung — BHB-Einwand greift.
-- Data Act gibt dem Landwirt Zugangsrecht, hebt aber AgTech-Datenbankherstellerrecht an der Gesamtdatenbank nicht auf.
-- Agrardaten aggregierter Betriebe können trotz Einzelanonymisierung in der Kombination re-identifizierbar sein.
-- Geschäftsgeheimnisschutz für Erntedaten setzt angemessene Maßnahmen voraus — fehlende NDA oder offene API schwächt den Schutz.
-- TDM-Schranke schützt den Saatgut-KI-Anbieter nur, wenn kein wirksamer Opt-out erklärt wurde.
+- robots.txt hat keine unmittelbar gesetzliche Bindungswirkung — entscheidend ist, ob AGB auf sie Bezug nehmen oder ein Vertragsangebot vorliegt.
+- Öffentlich zugängliche Daten sind nicht automatisch frei entnehmbar — das Datenbankherstellerrecht schützt unabhängig von einer Zugangssperre.
+- Auslesedienste, die einen Nutzer-Login voraussetzen, verstoßen zusätzlich gegen §§ 307 BGB, 202a StGB.
+- Aggregator-Dienste, die Echtzeit-Suche auf Fremddatenbanken betreiben, erfüllen nach Innoweb/Wegener den Weiterverwendungstatbestand.
+- Wettbewerbsrechtliche Ansprüche (UWG) unterliegen kürzerer Verjährung (§ 11 UWG: 6 Monate) als urheberrechtliche.
 
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
-- [Data Act VO 2023/2854 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32023R2854)
-- [GeschGehG — gesetze-im-internet.de](https://www.gesetze-im-internet.de/geschgehg/index.html)
-- [§ 44b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/44b.html)
-- [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
-- [DSGVO Art. 4 — dejure.org](https://dejure.org/gesetze/DSGVO/4.html)
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 87a UrhG
-- § 87b UrhG
-- § 87a-87e UrhG
-- § 44b UrhG
-- § 4 UrhG
-- § 60d UrhG
-- § 97 UrhG
-- § 87c UrhG
-- § 87d UrhG
-- § 97a UrhG
-- § 202a StGB
-- § 5 UrhG
-
-### Leitentscheidungen
-
-- EuGH C-203/02
-- EuGH C-202/12
-- EuGH C-545/07
-- EuGH C-338/02
-- EuGH C-170/12
-
----
-
-## Skill: `api-nutzung-rate-limits-und-vertragsbruch`
-
-_Prüft die rechtliche Bewertung von API-Nutzung im Datenbankkontext: Vertragsbruch bei Überschreitung von Rate-Limits oder Nutzungsbedingungen, Verhältnis zu §§ 87a-87e UrhG, Schadensersatz bei unerlaubter Massenabfrage sowie Gestaltung wirksamer API-Nutzungsbedingungen. Bewertet Kündigungsrecht u..._
-
-# API-Nutzung, Rate-Limits und Vertragsbruch im Datenbankrecht
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Mandantenfall
-
-- SaaS-Anbieter stellt fest, dass ein Geschäftskunde über seine API weit mehr Abfragen tätigt als vertraglich erlaubt, und will Schadenersatz und Kündigung prüfen.
-- Startup hat eine API-Schnittstelle zu einer Fremddatenbank genutzt und überschreitet unbewusst die Rate-Limits — die Gegenseite droht mit Abmahnung.
-- Unternehmen entwirft neue API-Nutzungsbedingungen und will sicherstellen, dass diese das Datenbankherstellerrecht wirksam ergänzen.
-
-## Erste Schritte
-
-1. Vertragliche Grundlage klären: API-Nutzungsvertrag, AGB, Developer-Agreement — welche Rate-Limits und Nutzungszwecke sind vereinbart?
-2. Vertragsbruch bewerten: Überschreitung der Abfragelimits, unerlaubte Weiterverwendung, Verstoß gegen Zweckbindung — § 280 BGB, § 241 Abs. 2 BGB.
-3. Urheberrechtliche Parallelprüfung: Erfüllt die Abfrageintensität den Tatbestand der wesentlichen Entnahme nach § 87b UrhG unabhängig vom Vertrag?
-4. Kündigung und Sperre prüfen: Außerordentliche Kündigung (§ 314 BGB) bei schwerwiegendem Vertragsbruch; technische Sperre als berechtigte Maßnahme.
-5. Schadensersatz berechnen: Überschussabfragen nach Lizenzanalogie bewerten; Nutzungsausfallschaden des Betreibers.
-6. AGB-Wirksamkeit prüfen: Rate-Limit-Klauseln nach § 307 BGB; transparente Formulierung und klar definierte Folgen.
-
-## Rechtsrahmen
-
-- § 280 Abs. 1 BGB: Schadensersatz bei Pflichtverletzung aus dem Schuldverhältnis.
-- § 314 BGB: Kündigung von Dauerschuldverhältnissen aus wichtigem Grund bei schwerwiegendem Vertragsbruch.
-- § 307 BGB: AGB-Kontrolle — Rate-Limit-Klauseln müssen klar, verständlich und nicht unangemessen benachteiligend sein.
-- § 87b UrhG: Urheberrechtlicher Anspruch neben dem Vertragsanspruch bei wesentlicher Entnahme.
-- § 97 UrhG: Unterlassung und Schadensersatz bei Urheberrechtsverletzung — Lizenzanalogie als Berechnungsmethode.
-- § 97a UrhG: Abmahnung als Voraussetzung für Erstattung von Rechtsanwaltsgebühren.
-
-## Prüfraster
-
-- Liegt ein wirksamer API-Nutzungsvertrag vor, und was regelt er zu Abfragevolumen, Zweck und Weiterverwendung?
-- Überschreiten die tatsächlichen Abfragen die vertraglich vereinbarten Rate-Limits messbar?
-- Sind die Rate-Limits technisch nachweisbar (Server-Logs, API-Gateway-Protokolle)?
-- Erfüllen die Abfragen unabhängig vom Vertrag den urheberrechtlichen Verletzungstatbestand (§ 87b UrhG)?
-- Hat der Betreiber vor der Kündigung abgemahnt oder eine Frist zur Abhilfe gesetzt (§ 314 Abs. 2 BGB)?
-- Sind Rate-Limit-Klauseln in AGB nach § 307 BGB wirksam — sind Schwellenwerte und Rechtsfolgen transparent?
-- Kann der Schaden nach Lizenzanalogie (übliche API-Lizenzgebühr) berechnet werden?
-
-## Typische Fallstricke
-
-- Rate-Limits ohne klare Rechtsfolge in den AGB lassen offen, ob Überschreitung Vertragsbruch oder nur technische Einschränkung ist.
-- Urheberrechtliche Ansprüche laufen auch ohne Vertragsverletzung — der Betreiber kann beide Ansprüche nebeneinander geltend machen.
-- Kündigung ohne vorherige Abmahnung bei erstmaligem Verstoß ist oft unwirksam (§ 314 Abs. 2 BGB).
-- Technische Sperren ohne vorherige Abmahnung können ihrerseits Vertragsbruch des Betreibers darstellen (§ 280 BGB).
-- Entwickler-Teams überschreiten Rate-Limits oft versehentlich — culpa levis reicht aber für vertraglichen Schadensersatzanspruch.
-
-## Output
-
-- Vertragsbruchanalyse mit Anspruchsübersicht (§ 280 BGB / § 97 UrhG)
-- Rate-Limit-Klausel-Vorlage für wirksame AGB-Gestaltung
-- Abmahnschreiben bei API-Missbrauch
-- Schadensberechnung nach Lizenzanalogie
-- Kündigung aus wichtigem Grund — Musterformulierung (§ 314 BGB)
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Quellen
-
-- [§ 280 BGB — dejure.org](https://dejure.org/gesetze/BGB/280.html)
-- [§ 314 BGB — dejure.org](https://dejure.org/gesetze/BGB/314.html)
-- [§ 307 BGB — dejure.org](https://dejure.org/gesetze/BGB/307.html)
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
-- [§ 97 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/97.html)
+- [§ 4 UWG — dejure.org](https://dejure.org/gesetze/UWG/4.html)
+- [§ 202a StGB — dejure.org](https://dejure.org/gesetze/StGB/202a.html)
+- [EuGH C-202/12 Innoweb/Wegener — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-202/12)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 87a UrhG
-- § 87b UrhG
-- § 87a-87e UrhG
-- § 44b UrhG
-- § 4 UrhG
-- § 60d UrhG
-- § 97 UrhG
-- § 87c UrhG
-- § 87d UrhG
-- § 97a UrhG
-- § 202a StGB
-- § 5 UrhG
-
-### Leitentscheidungen
-
-- EuGH C-203/02
-- EuGH C-202/12
-- EuGH C-545/07
-- EuGH C-338/02
-- EuGH C-170/12
-
 ---
 
-## Skill: `auskunft-rechnungslegung-schadensschaetzung`
+## Skill: `datenbankrecht-abschlussmemo`
 
-_Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht nach §§ 97 101 UrhG: Dreigliedrige Schadensberechnung (konkreter Schaden, Herausgabe Verletzergewinn, Lizenzanalogie), Auskunftsanspruch gegen Verletzer und ISP, Rechnungslegungsvollstreckung sowie Besonderheiten bei Datenbankschut..._
+_Wenn es um Datenbankrecht Abschlussmemo: Rechtslage, Maßnahmen, offene Risiken in Datenbankrecht und Datenbankherstellerrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht
+# Datenbankrecht Abschlussmemo: Rechtslage, Maßnahmen, offene Risiken
+
+## Arbeitsbereich
+
+Erstellung eines strukturierten Abschlussmemos nach Abschluss einer datenbankrechlichen Beratung: Zusammenfassung der Rechtslage nach §§ 87a-87e UrhG und § 4 UrhG, RL 96/9/EG, relevanter EuGH-Urteile (BHB/William Hill C-203/02, Apis/Lakorda C-545/07, Innoweb/Wegener C-202/12), getroffener Maßnahmen, offener Risiken und Empfehlungen. Output: mandantenfähiges Abschlussmemo mit Risikomatrix, Handlungsempfehlungen, Monitoring-Plan und Wiedervorlageterminen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -531,135 +428,119 @@ _Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht nach §§ 97
 
 ## Mandantenfall
 
-- Datenbankbetreiber hat eine einstweilige Verfügung erwirkt und will nun im Hauptsacheverfahren Schadensersatz geltend machen — Auskunftsanspruch und Schadensberechnung sind unklar.
-- Verletzer hat Datenbankdaten für eigene kommerzielle Produkte genutzt — wie hoch ist der Schaden und welche Berechnungsmethode gilt?
-- Anwalt muss den Auskunftsanspruch gegen einen unbekannten Auslesedienst über den Internetdienstanbieter nach § 101 UrhG geltend machen.
+- Nach Abschluss eines Verletzungsverfahrens (Abmahnung, einstweilige Verfügung, Unterlassungsvertrag) möchte der Mandant eine schriftliche Zusammenfassung der Rechtslage, der getroffenen Maßnahmen und der verbleibenden Risiken.
+- Am Ende einer M&A-Due-Diligence zu Datenbankrechten soll ein Abschlussmemo alle Feststellungen, Bewertungen und Deal-Bedingungen dokumentieren.
+- Ein Forschungsprojekt endet; Drittmittelgeber und Hochschulleitung benötigen eine rechtliche Zusammenfassung der Datenbankrechte an den erhobenen Forschungsdaten sowie Empfehlungen zur weiteren Nutzung.
 
 ## Erste Schritte
 
-1. Auskunftsanspruch formulieren: § 101 UrhG gegen Verletzer — Umfang der Verletzung (Zeit, Volumen, Empfänger), Lieferkette der entnommenen Daten, Erlöse.
-2. Auskunft gegen ISP prüfen: § 101 Abs. 2 UrhG gegen Internetdienstanbieter — Voraussetzung: gewerbliche Verletzung, Antrag bei Gericht erforderlich.
-3. Schadensberechnungsmethode wählen: Konkreter Schaden, Herausgabe des Verletzergewinns oder Lizenzanalogie (§ 97 Abs. 2 UrhG) — welche Methode maximiert den Anspruch?
-4. Lizenzanalogie berechnen: Übliche Lizenzgebühr für die entnommenen Datenbankteile ermitteln (Marktvergleich, eigene Lizenzpraxis).
-5. Rechnungslegung vollstrecken: Wenn Verletzer Auskunft verweigert — Zwangsvollstreckung nach § 888 ZPO, Ordnungsgeld.
-6. Verjährung prüfen: § 102 UrhG i.V.m. §§ 195-199 BGB — 3 Jahre ab Kenntnis, 10 Jahre Höchstfrist.
+1. **Sachverhalt strukturieren**: Ausgangslage, Mandanteninteressen, Verfahrens- oder Beratungsverlauf in chronologischer Reihenfolge darstellen; relevante Datenbanken und Parteien benennen.
+2. **Rechtliche Bewertung zusammenfassen**: Schutzfähigkeit der Datenbank(en) nach §§ 87a, 4 UrhG, Verletzungshandlungen nach § 87b UrhG, angewandte EuGH-Maßstäbe und nationale Rechtsprechung kompakt darlegen.
+3. **Maßnahmen dokumentieren**: Welche Schritte wurden unternommen (Abmahnung, Sicherung, Lizenzvertrag, technische Maßnahmen, Behördenmeldung)? Ergebnisse und Stand der Durchsetzung festhalten.
+4. **Risikomatrix erstellen**: Verbleibende Risiken (laufende Verfahren, ungeklärte Rechtsfragen, vertragliche Restrisiken) nach Eintrittswahrscheinlichkeit und Schadenspotenzial klassifizieren.
+5. **Handlungsempfehlungen formulieren**: Kurzfristige (sofort), mittelfristige (3-6 Monate) und langfristige (12+ Monate) Empfehlungen zu Prävention, Lizenzierung, Compliance-Maßnahmen, Monitoring.
+6. **Wiedervorlagetermine setzen**: Fristen für Vertragsverlängerungen, Überprüfung von Unterlassungsverpflichtungen, Ablauf von Schutzfristen (15 Jahre § 87d UrhG), geplante Rechtsänderungen (Data Act-Umsetzung) kalendarisch festhalten.
 
 ## Rechtsrahmen
 
-- § 97 Abs. 1 UrhG: Unterlassung und Schadensersatz bei Datenbankrechts-Verletzung.
-- § 97 Abs. 2 UrhG: Drei Berechnungsmethoden — konkreter Schaden, Verletzergewinnherausgabe, Lizenzanalogie.
-- § 101 UrhG: Auskunftsanspruch gegen Verletzer und (bei gewerblicher Verletzung) gegen ISP.
-- § 102 UrhG: Verjährung der Schadensersatzansprüche — 3 Jahre ab Kenntnis.
-- § 888 ZPO: Erzwingung nicht vertretbarer Handlungen (Rechnungslegung) durch Ordnungsgeld.
-- § 87b UrhG: Verletzungstatbestand als Grundlage aller Folgeansprüche.
+- **§ 87a UrhG** — Schutzvoraussetzungen: wesentliche Investition in Beschaffung, Überprüfung oder Darstellung; 15-jährige Schutzfrist nach § 87d UrhG.
+- **§ 87b UrhG** — Verbotene Handlungen: Entnahme oder Weiterverwendung wesentlicher Teile; wiederholte systematische Entnahme unwesentlicher Teile.
+- **§ 87e UrhG** — Unwirksamkeit vertraglicher Einschränkungen der Schranken für rechtmäßige Nutzer; relevant für Lizenzklauseln im Abschlussmemo.
+- **Art. 7 RL 96/9/EG** — Europäische Grundlage des Herstellerrechts; EuGH-Auslegungshoheit bei Zweifelsfragen zu Investition und Entnahme.
+- **EuGH C-203/02 BHB/William Hill** — Investition muss in Beschaffung/Überprüfung vorhandener Daten bestehen, nicht in Datenerzeugung; Maßstab für Schutzfähigkeitsanalyse im Memo.
+- **§ 97 Abs. 2 UrhG** — Schadensersatz: tatsächlicher Schaden, Herausgabe des Verletzergewinns oder Lizenzanalogie; Berechnungsmethode im Memo dokumentieren.
 
 ## Prüfraster
 
-- Liegt eine Verletzung nach § 87b UrhG als Grundlage des Schadensersatzes vor?
-- Ist der Verletzer bekannt, oder muss der ISP-Auskunftsweg nach § 101 Abs. 2 UrhG beschritten werden?
-- Welche der drei Berechnungsmethoden (§ 97 Abs. 2 UrhG) führt zu maximalem oder realistischstem Ergebnis?
-- Lässt sich eine übliche Lizenzgebühr (Lizenzanalogie) aus eigenen Verträgen oder Marktvergleichen ableiten?
-- Hat der Verletzer Gewinne aus der Nutzung der entnommenen Daten erzielt, die herausgegeben werden müssen?
-- Ist die Verjährungsfrist nach § 102 UrhG noch offen — wann hatte der Gläubiger Kenntnis?
-- Wann wurde Auskunft verlangt und noch nicht erfüllt — Rechnungslegungs-Klage und Vollstreckung planen?
+- Ist die rechtliche Schutzfähigkeitsbewertung der Datenbank(en) abschließend dokumentiert (wesentliche Investition, Abgrenzung Datenerzeugung vs. Beschaffung)?
+- Sind alle festgestellten Verletzungshandlungen mit Datum, Umfang und Beweismitteln erfasst?
+- Ist die angewandte Schadensberechnungsmethode (Lizenzanalogie, Verletzergewinn, tatsächlicher Schaden) begründet und nachvollziehbar?
+- Enthält das Memo alle getroffenen Vereinbarungen (Unterlassungsverträge, Lizenzverträge, Vergleiche) mit Vertragsparteien, Datum und wesentlichen Pflichten?
+- Sind verbleibende offene Risiken (z.B. parallele Verfahren, unklar ob Opt-out nach § 44b UrhG wirksam) explizit als solche ausgewiesen?
+- Sind Wiedervorlagetermine (Schutzfristablauf § 87d UrhG, Vertragslaufzeiten, gesetzliche Überprüfungsklauseln) im Memo kalendarisch hinterlegt?
+- Ist das Memo mandantenseitig freigegeben und versioniert abgelegt?
 
 ## Typische Fallstricke
 
-- Lizenzanalogie erfordert Nachweis einer „üblichen" Lizenzgebühr — ohne eigene Lizenzpraxis schwer zu begründen.
-- ISP-Auskunft nach § 101 Abs. 2 UrhG setzt gewerbliche Verletzung voraus — private Nutzung scheidet aus.
-- Verletzergewinnherausgabe ist oft schwer durchsetzbar, weil Verletzer keine separate Buchführung für Datenbanknutzung hat.
-- Schadensberechnung ohne Sachverständigengutachten zu Datenbankwert und Lizenzüblichkeit wird von Gerichten oft gekürzt.
-- Verjährung beginnt mit Kenntnis — nicht mit Entdeckung des vollen Schadensumfangs. Frühzeitige Klageerhebung oder Hemmung.
-
-## Output
-
-- Schadensberechnungsmatrix (alle drei Methoden nach § 97 Abs. 2 UrhG)
-- Auskunftsklage-Muster gegen Verletzer (§ 101 UrhG)
-- ISP-Auskunftsantrag nach § 101 Abs. 2 UrhG (gerichtlich)
-- Lizenzanalogie-Berechnungsnachweis (Marktvergleich)
-- Verjährungsprüfungsprotokoll mit Fristberechnung
+- **Schutzfristablauf übersehen**: Die 15-Jahres-Frist des § 87d UrhG beginnt neu bei wesentlichen Erweiterungen; ohne Monitoring entfällt der Schutz unbemerkt.
+- **Unvollständige Maßnahmendokumentation**: Mündliche Absprachen oder informelle Einigungen fehlen im Memo; im Streitfall nicht nachweisbar.
+- **Risiken als gelöst darstellen**: Offene Fragen (z.B. ob eine Handlung tatsächlich unwesentliche Teile betraf) sollten explizit als offen ausgewiesen werden, nicht verschwiegen.
+- **Fehlende Anschlussberatung**: Abschlussmemo endet ohne klare Empfehlung zur nächsten Handlung; Mandant bleibt ohne Orientierung für Folgerisiken.
+- **Vertraulichkeit**: Memos mit Risikoeinschätzungen dürfen nicht in Discovery oder behördlichen Verfahren auftauchen; Schutz durch Legal-Privilege prüfen und hinweisen.
 
 ## Quellen
 
-- [§ 97 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/97.html)
-- [§ 101 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/101.html)
-- [§ 102 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/102.html)
-- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
-- [§ 888 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/888.html)
-- [§§ 195-199 BGB — dejure.org](https://dejure.org/gesetze/BGB/195.html)
+- [§ 87a UrhG — Datenbankherstellerrecht (gesetze-im-internet.de)](https://www.gesetze-im-internet.de/urhg/__87a.html)
+- [§ 87d UrhG — Schutzdauer (gesetze-im-internet.de)](https://www.gesetze-im-internet.de/urhg/__87d.html)
+- [§ 97 UrhG — Unterlassung und Schadensersatz (gesetze-im-internet.de)](https://www.gesetze-im-internet.de/urhg/__97.html)
+- [RL 96/9/EG — Datenbankrichtlinie Art. 7 (eur-lex.europa.eu)](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+- [EuGH C-203/02 BHB/William Hill — Investitionsbegriff (curia.europa.eu)](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
+- [EuGH C-545/07 Apis/Lakorda — Datenextraktion (curia.europa.eu)](https://curia.europa.eu/juris/liste.jsf?num=C-545/07)
 
 ---
 
-## Skill: `b2b-kundendaten-datenbank-insolvenz-als`
+## Skill: `datenbankrecht-werk-herstellerrecht`
 
-_Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und GeschGehG bei CRM-Datenbankexporten durch ausscheidende Mitarbeiter: Verletzungstatbestände, arbeitsrechtliche Sanktionen, einstweilige Verfügung sowie DSGVO-Pflichten bei unrechtmäßiger Datenweitergabe. Erstellt Präventionskonzept mit tec..._
+_Wenn es um Kaltstart Datenbankrecht: Werk oder Herstellerrecht? in Datenbankrecht und Datenbankherstellerrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# B2B-Kundendaten und CRM-Export durch Mitarbeiter — Datenbankrecht und Arbeitsrecht
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+# Kaltstart Datenbankrecht: Werk oder Herstellerrecht?
 
 ## Mandantenfall
 
-- Vertriebsmitarbeiter verlässt das Unternehmen und nimmt dabei die vollständige CRM-Kundendatenbank auf einem USB-Stick mit zum Wettbewerber.
-- Unternehmen fragt, welche Ansprüche gegen den ausgeschiedenen Mitarbeiter und den aufnehmenden Wettbewerber bestehen.
-- Arbeitgeber will präventiv sicherstellen, dass CRM-Exporte technisch verhindert und vertraglich verboten werden.
+- Unternehmen stellt fest, dass Wettbewerber Daten aus seiner Datenbank systematisch abruft und fragt, welche Rechte bestehen.
+- Entwickler hat eine Datenbank aufgebaut und möchte wissen, ob Urheberrechtsschutz oder sui-generis-Schutz greift.
+- Rechtsabteilung prüft Lizenzvertrag und muss verstehen, welcher Schutztatbestand das Vertragsgegenstand bestimmt.
 
 ## Erste Schritte
 
-1. Datenbankherstellerrecht prüfen: Hat das Unternehmen eine wesentliche Investition in seine CRM-Kundendatenbank (Beschaffung, Überprüfung, Darstellung der Kundendaten) getätigt?
-2. Geschäftsgeheimnisschutz prüfen: Sind die Kundendaten als Geschäftsgeheimnis nach § 2 Nr. 1 GeschGehG geschützt — geheim, wertvoll, Geheimhaltungsmaßnahmen vorhanden?
-3. Verletzungshandlung bestimmen: § 87b UrhG (Entnahme wesentlicher Teile), § 4 GeschGehG (rechtswidrige Erlangung und Nutzung), Arbeitsvertragsverletzung.
-4. Ansprüche gegen Mitarbeiter und Wettbewerber formulieren: Unterlassung, Herausgabe, Schadensersatz, Auskunft.
-5. Einstweilige Verfügung prüfen: Dringlichkeit bejaht bei aktueller Verwendung beim Wettbewerber — Verfügungsanspruch und Verfügungsgrund.
-6. DSGVO-Pflichten klären: Datenpanne nach Art. 33-34 DSGVO melden — wenn personenbezogene Kundendaten betroffen.
+1. Sachverhalt erfassen: Art der Datenbank (Inhalte, Struktur, Umfang), Entstehungsaufwand, Nutzerrolle (Hersteller, Lizenznehmer, Verletzer?).
+2. Schutzrichtung prüfen: § 4 Abs. 2 UrhG (schöpferische Auswahl oder Anordnung?) vs. §§ 87a ff. UrhG (wesentliche Investition in Beschaffung, Überprüfung oder Darstellung?).
+3. EuGH-Rechtsprechung einordnen: BHB/William Hill (Investition muss in Beschaffung/Überprüfung/Darstellung liegen, nicht in Datenerzeugung selbst); Apis/Lakorda (Datenbankteile und Teilentnahmen).
+4. Schutzvoraussetzungen im Einzelfall belegen: Investitionsnachweis oder Schöpfungsnachweis durch Dokumente sichern.
+5. Verletzungshandlung bestimmen: Entnahme, Weiterverwendung, wesentlicher vs. unwesentlicher Teil (§ 87b UrhG).
+6. Nächste Handlung festlegen: Abmahnung, Einstweilige Verfügung, Klage, Lizenzverhandlung oder Vertragsgestaltung.
 
 ## Rechtsrahmen
 
-- § 87a UrhG: CRM-Datenbank als Datenbank mit wesentlicher Investition in Kundendatenbeschaffung und -pflege.
-- § 87b UrhG: Entnahme wesentlicher Teile durch den Mitarbeiter als Verletzung des Herstellerrechts.
-- § 2 Nr. 1 GeschGehG: Kundendaten als Geschäftsgeheimnis, wenn nicht allgemein bekannt, wirtschaftlich wertvoll und angemessen geheim gehalten.
-- § 4 GeschGehG: Verbotene Handlungen — rechtswidrige Erlangung, Nutzung und Offenlegung.
-- Art. 33-34 DSGVO: Meldepflicht bei Datenpannen an Aufsichtsbehörde und betroffene Kunden.
-- § 241 Abs. 2 BGB: Nebenpflicht des Arbeitnehmers zur Rücksicht auf Arbeitgeberinteressen — verletzt durch CRM-Export.
+- § 4 Abs. 2 UrhG: Datenbankwerk als Sammelwerk, wenn Auswahl oder Anordnung eine persönliche geistige Schöpfung darstellt.
+- §§ 87a-87e UrhG: Sui-generis-Datenbankherstellerrecht; § 87a Abs. 1 S. 1 UrhG definiert Datenbank und wesentliche Investition.
+- RL 96/9/EG Art. 7: Schutz des Datenbankherstellers gegen Entnahme und Weiterverwendung wesentlicher Teile.
+- EuGH C-203/02 (BHB/William Hill): Investition darf nicht in Datenerzeugung bestehen; Pferdewettdaten daher nicht geschützt.
+- EuGH C-545/07 (Apis/Lakorda): Maßstab für Ermittlung wesentlicher Teile bei Rechtsdatenbanken.
+- EuGH C-202/12 (Innoweb/Wegener): Meta-Suchmaschine als Weiterverwendung wesentlicher Teile einer Stellenbörsendatenbank.
 
 ## Prüfraster
 
-- Hat das Unternehmen angemessene Geheimhaltungsmaßnahmen für die CRM-Datenbank ergriffen (Zugangsbeschränkungen, NDA, Löschpflicht bei Ausscheiden)?
-- Enthält der Arbeitsvertrag explizite Verbote zur Mitnahme von Kundendaten bei Ausscheiden?
-- Weist die exportierte Datenmenge auf eine Entnahme wesentlicher Teile hin (§ 87b UrhG)?
-- Verwendet der Wettbewerber die Daten bereits aktiv — besteht Dringlichkeit für einstweilige Verfügung?
-- Sind personenbezogene Kundendaten betroffen — ist eine Datenpannen-Meldung nach Art. 33 DSGVO erforderlich?
-- Kann technisch nachgewiesen werden, dass ein Export stattgefunden hat (USB-Logs, E-Mail-Forensik, Zugriffsprotokoll)?
-- Ist der aufnehmende Wettbewerber gutgläubig oder wusste er von der rechtswidrigen Herkunft der Daten?
+- Liegt eine systematisch geordnete Sammlung unabhängiger Elemente vor (§ 87a Abs. 1 S. 1 UrhG)?
+- Ist die Investition in Beschaffung, Überprüfung oder Darstellung wesentlich — nicht lediglich in die Datenerzeugung?
+- Handelt es sich beim Beschwerdeführer um den Hersteller (§ 87a Abs. 2 UrhG) oder einen Lizenznehmer?
+- Ist eine Entnahme oder Weiterverwendung eines wesentlichen Teils nachweisbar (§ 87b Abs. 1 S. 1 UrhG)?
+- Greift alternativ Datenbankwerkschutz (§ 4 Abs. 2 UrhG) durch schöpferische Struktur?
+- Sind Schranken anwendbar: TDM (§ 44b, § 60d UrhG), Vertragsfreiheit, Open-Data-Lizenzen?
+- Laufen 15-Jahres-Schutzfrist (§ 87d UrhG) oder Verjährungsfristen?
 
 ## Typische Fallstricke
 
-- Fehlende technische Sperren (kein USB-Block, kein Export-Verbot im CRM) schwächen die Position im GeschGehG-Prozess erheblich.
-- Ohne DSGVO-Datenpannen-Meldung droht zusätzliches Bußgeld durch die Datenschutzbehörde.
-- Ansprüche gegen den Wettbewerber setzen Kenntnis oder fahrlässige Unkenntnis von der unrechtmäßigen Herkunft voraus.
-- Arbeitsrechtliche Abmahnung und außerordentliche Kündigung müssen zeitnah erfolgen — keine Verwirkung.
-- Berechnung des Schadens ist komplex: entgangene Aufträge, Lizenzanalogie oder pauschaler Schadensersatz nach § 97 Abs. 2 UrhG.
+- Investition in die Datenerzeugung (z. B. eigene Messungen) begründet kein Herstellerrecht — BHB/William Hill ist hier strikte Leitlinie.
+- Datenbankwerk und Herstellerrecht können kumulativ gelten, werden aber getrennt geprüft und haben unterschiedliche Inhaber.
+- Wiederholte Entnahme unwesentlicher Teile kann zur wesentlichen Entnahme aufaddieren (§ 87b Abs. 1 S. 2 UrhG) — wird oft übersehen.
+- Fehlende Dokumentation der Investitionshöhe schwächt die Klageposition erheblich.
+- Lizenzverträge regeln oft nur das Herstellerrecht, schweigen zum Urheberrecht an einzelnen Einträgen.
 
 ## Quellen
 
-- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
-- [§ 4 GeschGehG — dejure.org](https://dejure.org/gesetze/GeschGehG/4.html)
-- [Art. 33 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/33.html)
-- [§ 241 BGB — dejure.org](https://dejure.org/gesetze/BGB/241.html)
-- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
-- [GeschGehG — gesetze-im-internet.de](https://www.gesetze-im-internet.de/geschgehg/index.html)
+- [§ 4 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/4.html)
+- [§§ 87a-87e UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+- [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+- [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
+- [EuGH C-545/07 Apis/Lakorda — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-545/07)
+- [EuGH C-202/12 Innoweb/Wegener — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-202/12)
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

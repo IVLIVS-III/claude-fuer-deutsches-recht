@@ -59,7 +59,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BFH, Urteil vom 04.11.2021 - VI R 22/19: Doppelbesteuerungsabkommen begründen grundsaetzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale Besteuerung.
 - BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17: Vollverzinsung nach AO war ab 2014 verfassungswidrig.
 - EuGH C-280/10 (Vorsteuerabzug bei wirtschaftlicher Tätigkeit)
-- Stand: 05/2026. Paragraf 234 AO Stundungszinssatz aktuell unverändert 0.5 %/Monat (gesonderter Zinssatz, BVerfG-Urteil zu Paragraf 233a AO greift nicht direkt). AEAO Stand 2024 berücksichtigt. Bei Reform
 - BFH, Beschluss vom 30.04.2025 — XI R 15/23 (E-Mails als vorzulegende Handels- und Geschäftsbriefe in der Aussenprüfung): E-Mails mit steuerlichem Bezug fallen unter Paragraf 147 Abs. 1 Nr. 2 und 3 AO
 
 ## 7. Antwortform

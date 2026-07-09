@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | BGB Paragrafen 280, 286, 323 (Verzug, Rücktritt); UrhG Paragrafen 31 ff. zu Nutzungsrechten; UrhG Paragrafen 31 ff. für Schriftnutzungsrechte |
-| Rechtsprechung | ] Sehr geehrter Herr Professor Schmitt, anbei die redaktionelle |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -55,7 +55,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - StGB Paragrafen 185-187 - Beleidigung, üble Nachrede, Verleumdung als strafrechtliche Grenze: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 5 GG - Meinungs- und Pressefreiheit als Abwägungsmassstab: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - UrhG Paragrafen 51, 51a - Zitatrecht, Karikatur/Parodie/Pastiche: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- ] Sehr geehrter Herr Professor Schmitt, anbei die redaktionelle Bearbeitung Ihres Vortrags vom 14.05.2026 in Heidelberg. Wir haben das Wortprotokoll auf rund 28.000 Zeichen verdichtet (Zielmarke NJW
 
 ## 7. Antwortform
 

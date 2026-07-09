@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Paragraf 125 BGB; Paragraf 812 Abs. 1 S. 1 BGB; Paragraf 818 BGB |
-| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung); LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21 |
+| Rechtsprechung | ArbG Berlin, Urt. v. 28.09.2021 - 36 Ca 15296/20; LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21 |
 | Tatbestand | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -55,10 +55,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 16 TzBfG — Entfristung bei formwidrigem Befristungsvertrag: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 985 BGB — Herausgabeanspruch: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 125 S. 1 BGB nichtig: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- ArbG Berlin, Urt. v. 28.09.2021 - 36 Ca 15296/20: Elektronische Signatur ohne qualifiziertes Zertifikat genügt Paragraf 14 Abs. 4 TzBfG nicht; Paragraf 16 TzBfG ordnet die Unbefristetheit an
 - LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21: Eingescannte Unterschrift genügt nicht; die formgerechte Erklärung muss dem Arbeitnehmer vor Arbeitsaufnahme vorliegen
+- ArbG Gera, Urt. v. 07.03.2024 - 2 Ca 936/23: Echte qES beider Parteien kann Paragraf 14 Abs. 4 TzBfG wahren; maßgeblich ist das qualifizierte Zertifikat, nicht der bloße Einsatz eines Signaturtools
 - LAG Berlin-Brandenburg, Urt. v. 16.03.2022 – Az. 23 Sa 1133/21 — gescannte Unterschrift unter Befristungsabrede wahrt Paragraf 14 Abs. 4 TzBfG nicht. Quelle
-- (LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21)
 
 ## 7. Antwortform
 

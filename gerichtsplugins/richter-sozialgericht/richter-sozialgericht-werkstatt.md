@@ -113,11 +113,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98: lebensbedrohliche oder regelmäßig toedliche Erkrankungen können Leistungsansprüche der Krankenversicherung verfassungsrechtlich verdichten.
 - BSG, Urteil vom 16.12.2008 - B 4 AS 48/07 R: Unterkunftskosten sind am konkreten Bedarf und an einem schluessigen Konzept zu messen.
 - BSG, Urteil vom 02.09.2009 - B 6 KA 34/08 R: sozialrechtliche Sachverhaltsaufklärung verlangt verwertbare medizinische und tatsächliche Grundlagen.
-- BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98, BVerfGE 115, 25: Bei lebensbedrohlicher Erkrankung kann ausnahmsweise ein Anspruch auf neue Behandlungsmethoden bestehen
 - BSG, Urteil vom 28.05.2019 - B 1 KR 32/18 R, frei nachweisbar über sozialgerichtsbarkeit.de/dejure: Krankenhausbehandlung und neue Methoden verlangen die Abgrenzung von Standard, Potential
-- BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09, 1 BvL 3/09 und 1 BvL 4/09, BVerfGE 125, 175: Existenzsichernde Leistungen müssen realitätsgerecht, transparent und folgerichtig bemessen werden
 - BVerfG, Urteil vom 18.07.2012 - 1 BvL 10/10 und 1 BvL 2/11, BVerfGE 132, 134: Das menschenwürdige Existenzminimum darf nicht migrationspolitisch relativiert werden
-- Urteil Paragrafen 132 ff. SGG: Tenor (Aufhebung, Verurteilung zur Leistung, Bescheidung), Tatbestand, Entscheidungsgründe, Nebenentscheidungen Paragrafen 193 ff. SGG (Kosten), Berufung an LSG, Revision
+- BVerfG, 19.05.1992 - 1 BvR 986/91: keine unerwartete Entscheidungswendung ohne Gehör
 
 ## 9. Prüfraster
 

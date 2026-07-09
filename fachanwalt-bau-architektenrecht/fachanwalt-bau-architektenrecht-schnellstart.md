@@ -60,7 +60,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGH, Urteil vom 08.11.2007 - VII ZR 183/05: Architekt und Unternehmer können bei Baumangel und Überwachungsfehler gesamtschuldnerisch haften.
 - BGH 25.02.2016 VII ZR 49/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 - BGH 19.01.2017 VII ZR 235/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- Architekt verlangt nachtraeglich Aufstockung auf HOAI-Mindestsatz; Vertrag unterschritt diesen. - Paragrafen 631 ff. BGB - Paragrafen 650a ff. BGB - Paragraf 640 BGB - Paragraf 634 BGB - HOAI
+- EuGH 04.07.2019 C-377/17 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 
 ## 7. Antwortform
 

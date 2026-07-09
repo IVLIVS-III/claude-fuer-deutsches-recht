@@ -1,41 +1,42 @@
-# Megaprompt: handelsvertreterrecht
+# Vollprüfung: handelsvertreterrecht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 128 Skills (gekuerzt fuer Chat-Fenster) des Plugins `handelsvertreterrecht`.
+Dieser Vollprüfung enthaelt top-8 von 128 Skills (gekuerzt fuer Chat-Fenster) des Plugins `handelsvertreterrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Startet die Handelsvertreterrechtsprüfung für Status, Vertrag, Provision, Kündigung und Ausgleich.
-2. **abrechnung-buchauszug-abschlussprovision** — Unterstützt Handelsvertreter und Unternehmer bei Streitigkeiten über Provisionsabrechnungen und den Buchauszug nach § 87…
-3. **abschlussprovision** — Prüft den Provisionsanspruch des Abschlussvertreters nach §§ 87 und 87a HGB: Kausalität zwischen Vermittlungstätigkeit u…
-4. **agb-kontrolle** — Prüft AGB-Klauseln in Handelsvertreterverträgen auf Wirksamkeit nach §§ 305 ff. BGB und § 92c HGB: unangemessene Benacht…
-5. **alleinvertreter-alters-krankheitskuendigung** — Prüft Rechte und Pflichten des Alleinvertreters nach § 87 Abs. 2 HGB: Anspruch auf Bezirksprovision bei Direktabschlüsse…
-6. **alters-krankheitskuendigung** — Analysiert Sonderkündigungsrechte bei Alter oder Krankheit des Handelsvertreters nach § 89 Abs. 3 HGB: außerordentliche …
-7. **antikorruption-crm-datenschutz-cross-selling** — Prüft Compliance-Anforderungen und Antikorruptionspflichten im Handelsvertrieb: Pflichten des Handelsvertreters nach § 8…
-8. **arbeitnehmeraehnlichkeit** — Prüft arbeitnehmerähnliche Stellung des Handelsvertreters nach § 92a HGB: Mindestentgelt, Anwendung von Arbeitsschutzvor…
+1. **kaltstart-triage** — Wenn es um Allgemein in Handelsvertreterrecht und Vertriebsverträge geht: klärt Rolle, Ziel, Frist, Unterlagen und den p…
+2. **schiedsgericht** — Wenn es um Schiedsklausel im Handelsvertretervertrag nach Paragrafen 1029 ff. ZPO und Paragraf 92c HGB in Handelsvertret…
+3. **einstweiliger-rechtsschutz** — Wenn es um Einstweiliger Rechtsschutz in Handelsvertreterstreitigkeiten nach Paragrafen 916 ff. ZPO in Handelsvertreterr…
+4. **kartellrecht-vertikal** — Wenn es um Kartellrecht und vertikale Beschränkungen im Handelsvertretervertrieb nach Art. 101 AEUV in Handelsvertreterr…
+5. **nachvertragliche-provision-rechtsabteilung** — Wenn es um Provision nach Vertragsende nach Paragraf 87 Abs. 3 HGB — Folgeprovision und Nachwirkung in Handelsvertreterr…
+6. **alters-krankheitskuendigung** — Wenn es um Kündigung wegen Alters oder Krankheit des Handelsvertreters nach Paragraf 89 Abs. 3 HGB in Handelsvertreterre…
+7. **post-contract-principal-direktgeschaeft** — Wenn es um Nachvertragliches Wettbewerbsverbot nach Paragraf 90a HGB — Durchsetzung und Verletzung in Handelsvertreterre…
+8. **gebietsschutz** — Wenn es um Gebietsschutz im Handelsvertretervertrag nach Paragraf 87 Abs. 2 HGB und Kartellrecht in Handelsvertreterrech…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Startet die Handelsvertreterrechtsprüfung für Status, Vertrag, Provision, Kündigung und Ausgleich._
+_Wenn es um Allgemein in Handelsvertreterrecht und Vertriebsverträge geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Allgemein
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Handelsvertreterrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Wofür dieser Arbeitsgang da ist
 Wer ist was, welche Geschäfte, welche Vergütung, welches Gebiet, welches Ende und welcher Anspruch.
@@ -81,11 +82,11 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ---
 
-## Skill: `abrechnung-buchauszug-abschlussprovision`
+## Skill: `schiedsgericht`
 
-_Unterstützt Handelsvertreter und Unternehmer bei Streitigkeiten über Provisionsabrechnungen und den Buchauszug nach § 87c HGB: Prüfung von Vollständigkeit und Richtigkeit der Abrechnung, Formulierung von Buchauszugsverlangen, Klageerhebung bei Verweigerung sowie Auswertung übergebener Daten auf L..._
+_Wenn es um Schiedsklausel im Handelsvertretervertrag nach Paragrafen 1029 ff. ZPO und Paragraf 92c HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Provisionsabrechnung und Buchauszug nach § 87c HGB
+# Schiedsklausel im Handelsvertretervertrag nach §§ 1029 ff. ZPO und § 92c HGB
 
 ## Arbeitsweg
 
@@ -97,104 +98,80 @@ _Unterstützt Handelsvertreter und Unternehmer bei Streitigkeiten über Provisio
 
 ## Überblick
 
-Unterstützt bei rechtlichen Fragen rund um Provisionsabrechnung und Buchauszug nach § 87c HGB.
-Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
-und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie einschlägige BGH- und EuGH-Rechtsprechung ein.
-Der Skill zielt auf konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
-Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
+Unterstützt bei rechtlichen Fragen rund um Schiedsklausel im Handelsvertretervertrag nach §§ 1029 ff. ZPO und § 92c HGB.
+Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 
 ## Mandantenfall
 
-- Handelsvertreter X stellt fest, dass Unternehmer Y seit 18 Monaten keine vollständige Provisionsabrechnung übermittelt; X verlangt Buchauszug über alle vermittelten und abgeschlossenen Geschäfte nach § 87c Abs. 2 HGB.
-- Unternehmer Y bestreitet, dass bestimmte Kunden vom Bezirk des X umfasst waren; X klagt auf Erteilung des Buchauszugs und ergänzende Auskunft.
-- Handelsvertreterin Z prüft, ob die vom Unternehmer vorgelegte Abrechnung alle provisionspflichtigen Geschäfte enthält, insbesondere Direktabschlüsse und Folgegeschäfte.
+- Unternehmer Y hat im Handelsvertretervertrag eine Schiedsklausel vereinbart; Handelsvertreter X fragt, ob er den Ausgleich dennoch vor einem ordentlichen Gericht einklagen kann.
+- Handelsvertreter X hat ein Schiedsverfahren gewonnen; Unternehmer Y will den Schiedsspruch anfechten mit der Begründung, zwingendes Handelsvertreterrecht sei nicht angewendet worden.
+- Handelsvertreter X soll eine Schiedsklausel für seinen neuen Vertrag mit ausländischem Unternehmer Y aushandeln; er fragt nach Vor- und Nachteilen.
 
 ## Erste Schritte
 
-1. Vertrag und Provisionsvereinbarungen sichten; Abrechnungszeitraum und Rückstände bestimmen.
-2. Schriftliches Buchauszugsverlangen nach § 87c Abs. 2 HGB formulieren und per Einschreiben übersenden.
-3. Gelieferte Buchauszüge auf Vollständigkeit prüfen: alle Kunden, Aufträge, Umsätze, Rabatte, Stornos.
-4. Fehlende Positionen in Differenzaufstellung erfassen und Nachforderung beziffern.
-5. Bei Verweigerung: Klage auf Erteilung des Buchauszugs (Stufenklage nach § 254 ZPO) vorbereiten.
-6. Verjährungsfristen nach § 195 BGB (3 Jahre) und Beginn nach § 199 BGB prüfen.
+1. Schiedsklausel auf Wirksamkeit nach §§ 1029 ff. ZPO prüfen.
+2. Vereinbarkeit der Schiedsklausel mit § 92c HGB — zwingende Normen müssen auch im Schiedsverfahren gelten.
+3. Schiedsgericht und anwendbares Recht (Schiedsinstitution, Sitz, Sprache) klären.
+4. Kosten und Zeitaufwand eines Schiedsverfahrens realistisch einschätzen.
+5. Anfechtungsgründe für Schiedssprüche nach § 1059 ZPO prüfen.
+6. Vollstreckung des Schiedsspruchs in Deutschland und im Ausland klären.
 
 ## Rechtsrahmen
 
-- § 87c HGB — Provisionsabrechnung und Buchauszugsanspruch des Handelsvertreters
-- § 87 HGB — Provisionsanspruch und provisionspflichtige Geschäfte
-- § 87a HGB — Entstehung und Fälligkeit des Provisionsanspruchs
-- § 254 ZPO — Stufenklage (Auskunft und Leistung)
-- § 195 BGB — Regelmäßige Verjährungsfrist drei Jahre
-- Art. 12 RL 86/653/EWG — Provisionsanspruch des Handelsvertreters
+- §§ 1029–1066 ZPO — Schiedsverfahren
+- § 1059 ZPO — Aufhebungsantrag gegen Schiedssprüche
+- § 92c HGB — Zwingende Normen müssen im Schiedsverfahren beachtet werden
+- NY Convention (1958) — Anerkennung ausländischer Schiedssprüche
+- § 1031 ZPO — Form der Schiedsvereinbarung
+- Art. 17 RL 86/653/EWG — Muss auch im Schiedsverfahren angewendet werden
 
 ## Prüfraster
 
-- Ist der Buchauszugsanspruch entstanden (Handelsvertretervertrag, provisionspflichtige Geschäfte)?
-- Umfasst der vorgelegte Buchauszug alle vertragsrelevanten Geschäfte und Kunden?
-- Wurden Stornoreserven oder Rückbuchungen korrekt und nachvollziehbar ausgewiesen?
-- Ist der Abrechnungszeitraum vollständig abgedeckt, einschließlich Direktgeschäfte des Unternehmers?
-- Besteht ein ergänzender Auskunftsanspruch nach § 87c Abs. 2 HGB bei unklaren Positionen?
-- Sind Verjährungsfristen für einzelne Abrechnungsperioden bereits abgelaufen?
-- Kommt eine Stufenklage auf Buchauszug, Abrechnung und Zahlung in Betracht?
+- Ist die Schiedsklausel nach §§ 1029 ff. ZPO wirksam vereinbart?
+- Wird das zwingende Handelsvertreterrecht (§ 92c HGB) im Schiedsverfahren angewendet?
+- Kann der Schiedsspruch wegen Verstoß gegen zwingendes Recht angefochten werden?
+- Welche Schiedsinstituion und welches Recht gelten?
+- Ist ein Schiedsverfahren für den konkreten Streit kosteneffizient?
+- Kann der Schiedsspruch in Deutschland und im relevanten Ausland vollstreckt werden?
 
 ## Typische Fallstricke
 
-- Buchauszugsverlangen nicht schriftlich oder ohne genaue Periodenangabe gestellt — Beweisschwierigkeiten.
-- Verjährung einzelner Provisionsforderungen übersehen, obwohl Buchauszugsanspruch noch offen ist.
-- Unternehmer legt unvollständigen Buchauszug vor; Handelsvertreter akzeptiert ohne Gegenkontrolle.
-- Stornoreserven ohne vertragliche Grundlage einbehalten — Prüfung der AGB-Konformität versäumt.
+- Schiedsklausel schließt zwingende deutsche Normen nicht aus — Schiedsspruch anfechtbar.
+- Wahl ausländischer Schiedsinstitution ohne Bedacht auf Vollstreckbarkeit.
+- Schiedsverfahren teurer als ordentliches Gericht — falsche Kostenerwartung.
+- Schiedsgericht wendet ausländisches Recht an — zwingende § 92c HGB-Normen ignoriert.
 
 ## Hintergrund und Kontext
 
-Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
-Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
-Kernprinzipien sind: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
-Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
-BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
-insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
-Praktisch relevant sind insbesondere: Provisionsabrechnungen und Buchauszug (§ 87c HGB),
-nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Ausgleichsanspruch (§ 89b HGB).
-Zwingende Vorschriften zum Schutz des Handelsvertreters nach § 92c HGB können vertraglich
-nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
+Es gilt als Sonderprivatrecht zwischen Arbeits- und allgemeinem Handelsrecht.
+Die EU-Handelsvertreterrichtlinie 86/653/EWG setzt europäische Mindeststandards.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Buchauszug, Ausgleich bei Vertragsende.
+Nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Delkredere (§ 86b HGB) regeln Sonderlagen.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Für grenzüberschreitende Sachverhalte bestimmt die Rom-I-Verordnung das anwendbare Recht.
+Zwingende Normen wie Ausgleich (§ 89b HGB) und Buchauszug (§ 87c HGB) stehen nicht zur Disposition.
+Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach § 7a SGB IV maßgeblich.
 
 ## Quellen
 
-- [§ 87c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87c.html)
-- [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
-- [§ 254 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__254.html)
-- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
-- [Dejure § 87c HGB](https://dejure.org/gesetze/HGB/87c.html)
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 9 Rom-I-VO
-- Art. 101 AEUV
-- Art. 28 DSGVO
-- § 14 UStG
-- § 19 UStG
-- § 5 ArbGG
-- § 59 VVG
-- § 1 UStG
-- § 23 GeschGehG
-- § 66c EnWG
-- Art. 17 DSGVO
-- § 75 AMG
-
-### Leitentscheidungen
-
-- EuGH C-465/04
-- EuGH C-381/19
-- EuGH C-217/05
+- [§ 1029 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__1029.html)
+- [§ 1059 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__1059.html)
+- [§ 92c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92c.html)
+- [NY Convention auf UNCITRAL](https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards)
+- [Dejure § 1029 ZPO](https://dejure.org/gesetze/ZPO/1029.html)
 
 ---
 
-## Skill: `abschlussprovision`
+## Skill: `einstweiliger-rechtsschutz`
 
-_Prüft den Provisionsanspruch des Abschlussvertreters nach §§ 87 und 87a HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit mit Ausführung durch den Unternehmer, Ansprüche bei vorzeitiger Vertragsauflösung sowie Abgrenzung von Abschluss- und Vermittlungsprovision im H..._
+_Wenn es um Einstweiliger Rechtsschutz in Handelsvertreterstreitigkeiten nach Paragrafen 916 ff. ZPO in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Abschlussprovision des Abschlussvertreters nach §§ 87 und 87a HGB
+# Einstweiliger Rechtsschutz in Handelsvertreterstreitigkeiten nach §§ 916 ff. ZPO
 
 ## Arbeitsweg
 
@@ -206,108 +183,169 @@ _Prüft den Provisionsanspruch des Abschlussvertreters nach §§ 87 und 87a HGB:
 
 ## Überblick
 
-Unterstützt bei rechtlichen Fragen rund um Abschlussprovision des Abschlussvertreters nach §§ 87 und 87a HGB.
+Unterstützt bei rechtlichen Fragen rund um Einstweiliger Rechtsschutz in Handelsvertreterstreitigkeiten nach §§ 916 ff. ZPO.
 Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
-und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie einschlägige BGH- und EuGH-Rechtsprechung ein.
-Der Skill zielt auf konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
 Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
 ## Mandantenfall
 
-- Handelsvertreter A hat einen Kaufvertrag zwischen Kunde K und Unternehmer U abgeschlossen; U verweigert die Provisionszahlung mit Hinweis auf angeblich fehlende Kausalität der Vermittlung.
-- Unternehmer U löst einen vom Vertreter A abgeschlossenen Vertrag einvernehmlich mit dem Kunden auf; A verlangt seine Provision nach § 87a Abs. 3 HGB.
-- Handelsvertreter A streitet mit U darüber, ob ein bestimmter Auftrag im Rahmen der Abschlussvertretung oder außerhalb seiner Vollmacht zustande kam.
+- Handelsvertreter X wird nach fristloser Kündigung von Unternehmer Y sofort durch einen neuen Vertreter ersetzt; X beantragt einstweilige Verfügung auf Unterlassung.
+- Unternehmer Y hat Kenntnis, dass früherer Handelsvertreter X seine Kunden systematisch abwirbt; Y beantragt einstweilige Verfügung auf Unterlassung des Wettbewerbs.
+- Handelsvertreter X befürchtet, dass Unternehmer Y Vermögen ins Ausland verschiebt, bevor über den Ausgleichsanspruch entschieden ist; X beantragt Arrest nach § 916 ZPO.
 
 ## Erste Schritte
 
-1. Vertragsart klären: Abschlussvertreter mit Vollmacht oder Vermittlungsvertreter ohne Abschlussvollmacht?
-2. Kausalzusammenhang zwischen Tätigkeit des Vertreters und Vertragsabschluss dokumentieren.
-3. Fälligkeitszeitpunkt nach § 87a Abs. 1 HGB bestimmen: Ausführung des Geschäfts durch Unternehmer.
-4. Provisionssatz und Bemessungsgrundlage aus dem Vertretervertrag ermitteln.
-5. Bei vorzeitiger Aufhebung: Prüfung nach § 87a Abs. 3 HGB, ob Aufhebung dem Unternehmer zuzurechnen ist.
-6. Verjährung prüfen: §§ 195, 199 BGB; Abschlusszeitpunkt festhalten.
+1. Verfügungsanspruch bestimmen: welches Recht soll gesichert werden?
+2. Verfügungsgrund glaubhaft machen: Dringlichkeit und Eilbedürftigkeit.
+3. Arrest nach §§ 916 ff. ZPO prüfen bei Geldansprüchen und Vermögensgefährdung.
+4. Antrag auf einstweilige Verfügung beim zuständigen Landgericht stellen.
+5. Sicherheitsleistung einplanen; Schadensersatzrisiko nach § 945 ZPO berücksichtigen.
+6. Hauptsacheklage innerhalb der gesetzlichen Frist nach Verfügungserlass erheben.
 
 ## Rechtsrahmen
 
-- § 87 HGB — Entstehung des Provisionsanspruchs, Kausalität
-- § 87a HGB — Fälligkeit und Erlöschen der Provision
-- § 87a Abs. 3 HGB — Provision bei nicht ausgeführtem Geschäft ohne Vertreterverschulden
-- § 84 HGB — Begriff des Handelsvertreters und Selbständigkeit
-- § 54 HGB — Handlungsvollmacht des Abschlussvertreters
-- Art. 7 und 8 RL 86/653/EWG — Provisionsanspruch auf abgeschlossene und ausgeführte Geschäfte
+- §§ 935–945 ZPO — Einstweilige Verfügung: Anspruch und Grund
+- §§ 916–934 ZPO — Arrest zur Sicherung von Geldansprüchen
+- § 945 ZPO — Schadensersatzpflicht bei unberechtigter einstweiliger Verfügung
+- § 940 ZPO — Regelungsverfügung bei besonderem Bedarf
+- § 90a HGB — Wettbewerbsverbot als Grundlage einer Unterlassungsverfügung
+- § 89b HGB — Sicherung des Ausgleichsanspruchs als Verfügungsanspruch
 
 ## Prüfraster
 
-- Hat der Handelsvertreter den Vertragsabschluss tatsächlich herbeigeführt oder wesentlich mitgewirkt?
-- Ist das Geschäft wirksam zustande gekommen und liegt im Vertragsgebiet oder beim Kundenstamm des Vertreters?
-- Hat der Unternehmer das Geschäft ausgeführt oder verweigert er dies ohne Verschulden des Vertreters?
-- Liegt eine einvernehmliche Aufhebung vor, die dem Unternehmer nach § 87a Abs. 3 HGB zuzurechnen ist?
-- Entspricht die berechnete Provision dem vereinbarten Satz und der richtigen Bemessungsgrundlage?
-- Ist der Anspruch verjährt oder durch vertragliche Ausschlussfristen erloschen?
+- Liegt ein Verfügungsanspruch (materiell-rechtlicher Anspruch) vor?
+- Besteht ein Verfügungsgrund (Dringlichkeit, Eilbedürftigkeit)?
+- Ist der Antrag hinreichend bestimmt und glaubhaft gemacht?
+- Droht ein irreparabler Schaden ohne einstweiligen Rechtsschutz?
+- Besteht Schadensersatzrisiko nach § 945 ZPO bei unbegründeter Verfügung?
+- Ist Arrest oder einstweilige Verfügung das geeignetere Instrument?
 
 ## Typische Fallstricke
 
-- Kausalität nicht ausreichend dokumentiert — Unternehmer bestreitet Vermittlungsleistung.
-- Fälligkeitszeitpunkt falsch bestimmt: Provision erst fällig, wenn Unternehmer das Geschäft ausführt.
-- § 87a Abs. 3 HGB bei einvernehmlicher Vertragsaufhebung übersehen.
-- Abschlussvertreter handelt ohne ausreichende Vollmacht — Provisionsanspruch gefährdet.
-- Provisionssatz aus alten Vertragsversionen übernommen — aktuelle Fassung nicht geprüft.
+- Verfügungsgrund nicht glaubhaft gemacht — Verfügung abgewiesen.
+- Zu weit gefasster Verfügungsantrag — Gericht weist wegen Unbestimmtheit zurück.
+- Schadensersatzrisiko nach § 945 ZPO bei unberechtigter Verfügung unterschätzt.
+- Hauptsacheklage nach Erlass der Verfügung versäumt — Verfügung verliert Wirkung.
 
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
 Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
-Kernprinzipien sind: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
+Kernprinzipien: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
 Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
 BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
 insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
-Praktisch relevant sind insbesondere: Provisionsabrechnungen und Buchauszug (§ 87c HGB),
-nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Ausgleichsanspruch (§ 89b HGB).
-Zwingende Vorschriften zum Schutz des Handelsvertreters nach § 92c HGB können vertraglich
-nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Zwingende Vorschriften nach § 92c HGB können nicht abgebedungen werden;
+entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 
 ## Quellen
 
-- [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
-- [§ 87a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87a.html)
+- [§ 935 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__935.html)
+- [§ 916 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__916.html)
+- [§ 945 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__945.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [Dejure § 935 ZPO](https://dejure.org/gesetze/ZPO/935.html)
+
+---
+
+## Skill: `kartellrecht-vertikal`
+
+_Wenn es um Kartellrecht und vertikale Beschränkungen im Handelsvertretervertrieb nach Art. 101 AEUV in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Kartellrecht und vertikale Beschränkungen im Handelsvertretervertrieb nach Art. 101 AEUV
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: HGB §§ 84-92c, EuGH zu Ausgleichsanspruch, BGB §§ 305 ff.; § 89b, Wettbewerbsverbot; § 90a und Vertriebsmodelle — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Überblick
+
+Unterstützt bei rechtlichen Fragen rund um Kartellrecht und vertikale Beschränkungen im Handelsvertretervertrieb nach Art. 101 AEUV.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
+
+## Mandantenfall
+
+- Unternehmer Y schreibt Handelsvertreter X Mindestverkaufspreise vor; die Kartellbehörde prüft, ob dies eine unzulässige Preisbindung der zweiten Hand darstellt.
+- Handelsvertreter X hat vertraglich ein exklusives Gebiet; Unternehmer Y prüft, ob die Gebietsschutzklausel nach der Vertikal-GVO freigestellt ist.
+- Unternehmer Y will bestimmten Kundengruppen den Direktkauf ermöglichen; er prüft, ob diese Kundengruppenklausel kartellrechtlich zulässig ist.
+
+## Erste Schritte
+
+1. Einordnung der Vereinbarung: echte Handelsvertretung oder selbständiger Vertriebsmittler?
+2. Preisbindungsklausel auf kartellrechtliche Zulässigkeit nach Art. 101 AEUV prüfen.
+3. Gebietsschutz- und Kundengruppen-Klauseln auf Freistellung nach Vertikal-GVO prüfen.
+4. Marktanteilsschwelle der Vertikal-GVO (30 %) für Unternehmer Y ermitteln.
+5. Hardcore-Restrictions identifizieren: absolute Gebietsschutz- oder Preisbindungsklauseln.
+6. Einzelfreistellung nach Art. 101 Abs. 3 AEUV für Fälle außerhalb der GVO prüfen.
+
+## Rechtsrahmen
+
+- Art. 101 AEUV — Kartellverbot für vertikale Vereinbarungen
+- Vertikal-GVO (EU) Nr. 2022/720 — Gruppenfreistellung
+- Art. 4 Vertikal-GVO — Hardcore-Restrictions (Preisbindung und absolute Gebietsabschottung)
+- § 1 GWB — Deutsches Kartellverbot
+- § 84 HGB — Echte Handelsvertretung als Ausnahme vom Kartellverbot
+- Art. 101 Abs. 3 AEUV — Einzelfreistellung
+
+## Prüfraster
+
+- Ist die Vertriebsvereinbarung kartellrechtlich als echte Handelsvertretung privilegiert?
+- Enthält der Vertrag Hardcore-Restrictions nach Art. 4 Vertikal-GVO?
+- Ist die Marktanteilsschwelle der Vertikal-GVO überschritten?
+- Sind Gebietsschutz und Kundengruppen wirksam freigestellt?
+- Kommt eine Einzelfreistellung nach Art. 101 Abs. 3 AEUV in Betracht?
+- Welche Sanktionen drohen bei Verstößen gegen Art. 101 AEUV?
+
+## Typische Fallstricke
+
+- Preisbindung der zweiten Hand als verbotene Hardcore-Restriction übersehen.
+- Marktanteil über 30 % — GVO-Freistellung entfällt, keine Einzelfallprüfung vorgenommen.
+- Absolute Gebietsabschottung als Hardcore-Restriction nicht erkannt.
+- Echte Handelsvertretung irrtümlich angenommen — Kartellprivileg entfällt.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt.
+Zwingende Vorschriften nach § 92c HGB können nicht abgebedungen werden;
+entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte (§ 87c HGB), Geheimhaltungspflicht (§ 88 HGB) und Delkredere (§ 86b HGB)
+ergänzen das Recht praxisnah.
+
+## Quellen
+
+- [Art. 101 AEUV auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A12012E101)
+- [Vertikal-GVO 2022/720 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R0720)
+- [§ 1 GWB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gwb/__1.html)
 - [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
-- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
-- [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 9 Rom-I-VO
-- Art. 101 AEUV
-- Art. 28 DSGVO
-- § 14 UStG
-- § 19 UStG
-- § 5 ArbGG
-- § 59 VVG
-- § 1 UStG
-- § 23 GeschGehG
-- § 66c EnWG
-- Art. 17 DSGVO
-- § 75 AMG
-
-### Leitentscheidungen
-
-- EuGH C-465/04
-- EuGH C-381/19
-- EuGH C-217/05
+- [Dejure Art. 101 AEUV](https://dejure.org/gesetze/EGV/81.html)
 
 ---
 
-## Skill: `agb-kontrolle`
+## Skill: `nachvertragliche-provision-rechtsabteilung`
 
-_Prüft AGB-Klauseln in Handelsvertreterverträgen auf Wirksamkeit nach §§ 305 ff. BGB und § 92c HGB: unangemessene Benachteiligung bei Provisionsregelungen, Ausgleichsausschlüssen, Wettbewerbsverboten sowie unzulässige Abweichungen vom zwingenden Handelsvertreterrecht nach §§ 84-92c HGB im Handelsv..._
+_Wenn es um Provision nach Vertragsende nach Paragraf 87 Abs. 3 HGB — Folgeprovision und Nachwirkung in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# AGB-Kontrolle im Handelsvertretervertrag nach §§ 305 ff. BGB und § 92c HGB
+# Provision nach Vertragsende nach § 87 Abs. 3 HGB — Folgeprovision und Nachwirkung
 
 ## Arbeitsbereich
 
-Prüft AGB-Klauseln in Handelsvertreterverträgen auf Wirksamkeit nach §§ 305 ff. BGB und § 92c HGB: unangemessene Benachteiligung bei Provisionsregelungen, Ausgleichsausschlüssen, Wettbewerbsverboten sowie unzulässige Abweichungen vom zwingenden Handelsvertreterrecht nach §§ 84-92c HGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüft Ansprüche auf Provision für Geschäfte nach Vertragsende nach § 87 Abs. 3 HGB: Folgeprovision für Geschäfte, die auf vor Vertragsende geleisteter Tätigkeit des Handelsvertreters beruhen, Abgrenzung zur Folgeprovision nach § 87 Abs. 1 HGB und Verjährung nachvertraglicher Provisionsansprüche. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -319,209 +357,78 @@ Prüft AGB-Klauseln in Handelsvertreterverträgen auf Wirksamkeit nach §§ 305 
 
 ## Überblick
 
-Unterstützt bei rechtlichen Fragen rund um AGB-Kontrolle im Handelsvertretervertrag nach §§ 305 ff. BGB und § 92c HGB.
+Unterstützt bei rechtlichen Fragen rund um Provision nach Vertragsende nach § 87 Abs. 3 HGB — Folgeprovision und Nachwirkung.
 Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
-und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie einschlägige BGH- und EuGH-Rechtsprechung ein.
-Der Skill zielt auf konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
-Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 
 ## Mandantenfall
 
-- Handelsvertreter X erhält vom Unternehmer Y vorformulierte Vertragsbedingungen mit einer Klausel, die den Ausgleichsanspruch vollständig ausschließt; X prüft die Wirksamkeit nach § 89b Abs. 4 HGB.
-- Unternehmer Y verwendet eine AGB-Klausel, die Provisionen um 20 % kürzt, wenn der Jahresumsatz ein bestimmtes Ziel verfehlt; die Klausel wird auf Wirksamkeit nach § 307 BGB geprüft.
-- Handelsvertreter X findet in seinem Vertrag eine AGB-Klausel, die das Wettbewerbsverbot auf fünf Jahre verlängert und keine Karenzentschädigung vorsieht; X lässt die Klausel auf Verstoß gegen § 90a HGB prüfen.
+- Handelsvertreter X hat während seiner Vertragszeit Kundenbeziehungen aufgebaut; nach Vertragsende schließt Unternehmer Y Folgeverträge mit diesen Kunden ab; X verlangt Provision nach § 87 Abs. 3 HGB.
+- Unternehmer Y bestreitet die Folgeprovision mit dem Argument, die Folgegeschäfte seien auf die Tätigkeit des neuen Vertreters Z zurückzuführen.
+- Handelsvertreter X fragt, bis wann er nach Vertragsende Ansprüche auf nachvertragliche Provision geltend machen kann.
 
 ## Erste Schritte
 
-1. Vertrag auf vorformulierte Klauseln i.S.v. § 305 BGB identifizieren.
-2. Zwingende Normen des Handelsvertreterrechts (§§ 84-92c HGB) als Prüfmaßstab herausarbeiten.
-3. Einzelne Klauseln auf unangemessene Benachteiligung nach § 307 BGB prüfen.
-4. Klauselverbote nach §§ 308, 309 BGB auf handelsvertretertypische Klauseln anwenden.
-5. Klauseln, die vom zwingenden Recht abweichen, nach § 92c HGB auf Zulässigkeit prüfen.
-6. Nichtige Klauseln identifizieren und Rechtsfolgen (Wegfall, gesetzliche Regelung) bestimmen.
+1. Nachvertragliche Provisionsansprüche nach § 87 Abs. 3 HGB identifizieren.
+2. Kausalzusammenhang zwischen vorvertraglicher Tätigkeit und Folgegeschäften nachweisen.
+3. Abgrenzung: Folgegeschäfte auf Basis vor Vertragsende erbrachter Tätigkeit vs. Tätigkeit des Nachfolgers.
+4. Buchauszug für nachvertragliche Geschäfte nach § 87c HGB verlangen.
+5. Verjährungsfristen für nachvertragliche Provisionsansprüche nach §§ 195 und 199 BGB prüfen.
+6. Stufenklage auf Buchauszug und nachvertragliche Provision vorbereiten.
 
 ## Rechtsrahmen
 
-- §§ 305–310 BGB — AGB-Recht, Einbeziehung, Inhaltskontrolle
-- § 307 BGB — Unangemessene Benachteiligung
-- § 92c HGB — Zwingende Vorschriften des Handelsvertreterrechts
-- § 89b Abs. 4 HGB — Zwingende Natur des Ausgleichsanspruchs
-- § 90a Abs. 1 S. 2 HGB — Mindestinhalt der Wettbewerbsabrede
-- Art. 19 RL 86/653/EWG — Unabdingbare Rechte des Handelsvertreters
+- § 87 Abs. 3 HGB — Provision für Nachfolgegeschäfte nach Vertragsende
+- § 87a HGB — Fälligkeit der nachvertraglichen Provision
+- § 87c HGB — Buchauszugsanspruch auch für nachvertragliche Geschäfte
+- § 195 BGB — Regelmäßige Verjährungsfrist drei Jahre
+- § 199 BGB — Beginn der Verjährungsfrist
+- Art. 8 RL 86/653/EWG — Provision auf nach Vertragsende abgeschlossene Geschäfte
 
 ## Prüfraster
 
-- Sind die streitigen Klauseln AGB i.S.v. § 305 Abs. 1 BGB oder individuell ausgehandelt?
-- Weichen die Klauseln von zwingenden Vorschriften der §§ 84-92c HGB ab?
-- Liegt eine unangemessene Benachteiligung nach § 307 BGB vor?
-- Verstoßen einzelne Klauseln gegen konkrete Klauselverbote der §§ 308, 309 BGB?
-- Was sind die Rechtsfolgen der Nichtigkeit — Gesamtnichtigkeit oder Teilwegfall?
-- Ist die Klausel durch ergänzende Vertragsauslegung zu ersetzen oder gilt dispositives Recht?
+- Sind die Folgegeschäfte ursächlich auf die vorvertragliche Tätigkeit des Handelsvertreters zurückzuführen?
+- Besteht ein Buchauszugsanspruch auch für nachvertragliche Geschäfte?
+- Hat der Nachfolger einen konkurrierenden Provisionsanspruch auf dieselben Folgegeschäfte?
+- Sind die Ansprüche noch nicht verjährt?
+- Wie sind Geschäfte abzugrenzen, die teils von X und teils von Z vermittelt wurden?
+- Hat der Unternehmer nachvertragliche Provisionen bei der Abschlussabrechnung berücksichtigt?
 
 ## Typische Fallstricke
 
-- Zwingendes Handelsvertreterrecht (§ 92c HGB) nicht als Maßstab berücksichtigt.
-- Kaufmännische AGB-Kontrolle mit verbraucherrechtlichem Maßstab verwechselt.
-- Ausgleichsausschlussklauseln als wirksam behandelt, obwohl § 89b Abs. 4 HGB diese verbietet.
-- Nichtigkeit der Klausel führt nicht automatisch zur Gesamtnichtigkeit des Vertrags (§ 306 BGB).
+- Kausalität zwischen Vortätigkeit und Folgegeschäft nicht ausreichend dokumentiert.
+- Nachvertragliche Provisionsansprüche nicht rechtzeitig geltend gemacht — Verjährung.
+- Buchauszug für nachvertragliche Geschäfte nicht angefordert.
+- Concurrent-Provision mit Nachfolger ungeklärt — Doppelzahlung oder Verlust.
 
 ## Hintergrund und Kontext
 
-Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
-Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
-Kernprinzipien sind: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
-Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
-BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
-insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
-Praktisch relevant sind insbesondere: Provisionsabrechnungen und Buchauszug (§ 87c HGB),
-nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Ausgleichsanspruch (§ 89b HGB).
-Zwingende Vorschriften zum Schutz des Handelsvertreters nach § 92c HGB können vertraglich
-nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichtig.
-
-## Quellen
-
-- [§ 307 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__307.html)
-- [§ 92c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92c.html)
-- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
-- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
-- [Dejure § 307 BGB](https://dejure.org/gesetze/BGB/307.html)
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 9 Rom-I-VO
-- Art. 101 AEUV
-- Art. 28 DSGVO
-- § 14 UStG
-- § 19 UStG
-- § 5 ArbGG
-- § 59 VVG
-- § 1 UStG
-- § 23 GeschGehG
-- § 66c EnWG
-- Art. 17 DSGVO
-- § 75 AMG
-
-### Leitentscheidungen
-
-- EuGH C-465/04
-- EuGH C-381/19
-- EuGH C-217/05
-
----
-
-## Skill: `alleinvertreter-alters-krankheitskuendigung`
-
-_Prüft Rechte und Pflichten des Alleinvertreters nach § 87 Abs. 2 HGB: Anspruch auf Bezirksprovision bei Direktabschlüssen des Unternehmers, Abgrenzung zum Alleinvertriebsrecht, Beweislast bei Bestellung eines weiteren Vertreters sowie Schadensersatz bei Verletzung der Alleinvertretungsabrede im H..._
-
-# Alleinvertreter und Bezirksprovision nach § 87 Abs. 2 HGB
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HGB §§ 84-92c, EuGH zu Ausgleichsanspruch, BGB §§ 305 ff.; § 89b, Wettbewerbsverbot; § 90a und Vertriebsmodelle — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Überblick
-
-Unterstützt bei rechtlichen Fragen rund um Alleinvertreter und Bezirksprovision nach § 87 Abs. 2 HGB.
-Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
-und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie einschlägige BGH- und EuGH-Rechtsprechung ein.
-Der Skill zielt auf konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
-Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
-
-## Mandantenfall
-
-- Alleinvertreter A stellt fest, dass Unternehmer U direkte Vertragsabschlüsse mit Kunden im Vertragsgebiet des A tätigt, ohne diesem Provision zu zahlen; A klagt auf Bezirksprovision nach § 87 Abs. 2 HGB.
-- Unternehmer U hat einen zweiten Handelsvertreter im gleichen Gebiet eingesetzt; Alleinvertreter A macht Schadensersatz und Unterlassung geltend.
-- Alleinvertreter A und Unternehmer U streiten darüber, ob ein Großkunde dem Alleinvertretungsgebiet zuzuordnen ist oder als Key-Account direkt betreut werden darf.
-
-## Erste Schritte
-
-1. Alleinvertretungsklausel im Vertretervertrag auf Umfang und Gebietsdefinition prüfen.
-2. Direktgeschäfte des Unternehmers im Gebiet ermitteln und dokumentieren.
-3. Provisionsanspruch nach § 87 Abs. 2 HGB für Direktabschlüsse berechnen.
-4. Abgrenzung: Alleinvertretung vs. Alleinvertriebsrecht (exklusiver Vertriebshändler).
-5. Schadensersatzanspruch bei Verletzung der Alleinvertretungsabrede prüfen.
-6. Key-Account-Ausnahmen im Vertrag identifizieren und auf Wirksamkeit prüfen.
-
-## Rechtsrahmen
-
-- § 87 Abs. 2 HGB — Bezirksprovision des Alleinvertreters
-- § 87 Abs. 1 HGB — Provisionspflichtige Geschäfte
-- § 280 BGB — Schadensersatz bei Verletzung der Alleinvertretungsabrede
-- § 86a HGB — Pflicht des Unternehmers zur Unterstützung
-- Art. 7 RL 86/653/EWG — Provisionsanspruch auf Gebietsgeschäfte
-- § 242 BGB — Treu und Glauben bei Gebietszuweisung
-
-## Prüfraster
-
-- Ist eine Alleinvertretungsabrede wirksam vereinbart und wie ist das Gebiet definiert?
-- Hat der Unternehmer im Alleinvertretungsgebiet Direktabschlüsse ohne Zustimmung getätigt?
-- Besteht nach § 87 Abs. 2 HGB ein Provisionsanspruch für diese Direktabschlüsse?
-- Gibt es vertragliche Key-Account- oder Sonderkundenregelungen, die Direktgeschäfte erlauben?
-- Welche Schäden entstehen dem Alleinvertreter durch unbefugte Direktgeschäfte des Unternehmers?
-- Ist die Alleinvertretungsabrede nach AGB-Recht wirksam?
-
-## Typische Fallstricke
-
-- Alleinvertretungsgebiet nicht klar definiert — Streit über Zugehörigkeit einzelner Kunden.
-- Key-Account-Ausnahmen nicht ausdrücklich vereinbart — Unternehmer kann Direktgeschäfte nicht rechtfertigen.
-- Bezirksprovision nach § 87 Abs. 2 HGB mit allgemeiner Provision verwechselt.
-- Beweislast für Direktabschlüsse liegt beim Handelsvertreter — Dokumentation erforderlich.
-
-## Hintergrund und Kontext
-
-Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
-Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
-Kernprinzipien sind: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
-Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
-BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
-insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
-Praktisch relevant sind insbesondere: Provisionsabrechnungen und Buchauszug (§ 87c HGB),
-nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Ausgleichsanspruch (§ 89b HGB).
-Zwingende Vorschriften zum Schutz des Handelsvertreters nach § 92c HGB können vertraglich
-nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geklärt.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter zwingend.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte (§ 87c HGB), Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB)
+ergänzen den praxisrelevanten Rechtsrahmen.
+Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwendbare Recht.
 
 ## Quellen
 
 - [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
-- [§ 86a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__86a.html)
-- [§ 280 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__280.html)
-- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [§ 87c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87c.html)
+- [§ 195 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__195.html)
+- [Art. 8 RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 9 Rom-I-VO
-- Art. 101 AEUV
-- Art. 28 DSGVO
-- § 14 UStG
-- § 19 UStG
-- § 5 ArbGG
-- § 59 VVG
-- § 1 UStG
-- § 23 GeschGehG
-- § 66c EnWG
-- Art. 17 DSGVO
-- § 75 AMG
-
-### Leitentscheidungen
-
-- EuGH C-465/04
-- EuGH C-381/19
-- EuGH C-217/05
 
 ---
 
 ## Skill: `alters-krankheitskuendigung`
 
-_Analysiert Sonderkündigungsrechte bei Alter oder Krankheit des Handelsvertreters nach § 89 Abs. 3 HGB: außerordentliche Kündigung wegen dauerhafter Arbeitsunfähigkeit, angemessene Kündigungsfristen, Auswirkungen auf Ausgleichs- und Provisionsansprüche sowie Gestaltung von Aufhebungsvereinbarungen..._
+_Wenn es um Kündigung wegen Alters oder Krankheit des Handelsvertreters nach Paragraf 89 Abs. 3 HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Kündigung wegen Alters oder Krankheit des Handelsvertreters nach § 89 Abs. 3 HGB
 
@@ -627,11 +534,11 @@ nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichti
 
 ---
 
-## Skill: `antikorruption-crm-datenschutz-cross-selling`
+## Skill: `post-contract-principal-direktgeschaeft`
 
-_Prüft Compliance-Anforderungen und Antikorruptionspflichten im Handelsvertrieb: Pflichten des Handelsvertreters nach § 86 HGB zur Interessenwahrung, Offenlegungspflichten bei Interessenkonflikten, Haftungsrisiken bei Bestechungszahlungen nach StGB und Vorgaben des Lieferkettensorgfaltspflichtenge..._
+_Wenn es um Nachvertragliches Wettbewerbsverbot nach Paragraf 90a HGB — Durchsetzung und Verletzung in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Compliance und Antikorruption im Handelsvertretervertrieb
+# Nachvertragliches Wettbewerbsverbot nach § 90a HGB — Durchsetzung und Verletzung
 
 ## Arbeitsweg
 
@@ -643,7 +550,92 @@ _Prüft Compliance-Anforderungen und Antikorruptionspflichten im Handelsvertrieb
 
 ## Überblick
 
-Unterstützt bei rechtlichen Fragen rund um Compliance und Antikorruption im Handelsvertretervertrieb.
+Unterstützt bei rechtlichen Fragen rund um Nachvertragliches Wettbewerbsverbot nach § 90a HGB — Durchsetzung und Verletzung.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Für internationale Sachverhalte gilt die Rom-I-Verordnung für das anwendbare Recht.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
+
+## Mandantenfall
+
+- Handelsvertreter X hat das Vertragsverhältnis beendet; er tritt sofort als Vertreter eines Wettbewerbers auf; Unternehmer Y klagt auf Unterlassung und Schadensersatz nach § 90a HGB.
+- Handelsvertreter X hat das Wettbewerbsverbot bis zum Ende der vereinbarten Laufzeit eingehalten; Unternehmer Y zahlt die Karenzentschädigung nicht; X verlangt Zahlung oder Loslösung.
+- Handelsvertreter X prüft, ob das Wettbewerbsverbot im Vertrag auf ein Jahr oder zwei Jahre begrenzt ist und ob es räumlich auf Deutschland beschränkt sein muss.
+
+## Erste Schritte
+
+1. Wettbewerbsverbotsklausel auf formelle Wirksamkeit nach § 90a Abs. 1 HGB prüfen.
+2. Räumliche, zeitliche und sachliche Reichweite des Verbots bestimmen.
+3. Laufzeit: maximal zwei Jahre nach § 90a Abs. 1 S. 1 HGB.
+4. Karenzentschädigung: mindestens 50 % der zuletzt bezogenen Vergütung.
+5. Loslösungsrecht bei fehlender Entschädigung nach § 90a Abs. 2 HGB.
+6. Vertragsstrafe bei Verstoß: Wirksamkeit nach § 307 BGB prüfen.
+
+## Rechtsrahmen
+
+- § 90a Abs. 1 HGB — Wettbewerbsverbot: Schriftform, Laufzeit maximal zwei Jahre
+- § 90a Abs. 1 S. 3 HGB — Mindestkarenzentschädigung 50 % der Jahresvergütung
+- § 90a Abs. 2 HGB — Loslösungsrecht bei unzureichender Entschädigung
+- § 90a Abs. 3 HGB — Auswirkung der Kündigung auf das Wettbewerbsverbot
+- § 307 BGB — AGB-Kontrolle von Vertragsstrafen
+- § 340 BGB — Vertragsstrafe neben Schadensersatz
+
+## Prüfraster
+
+- Ist das Wettbewerbsverbot schriftlich vereinbart und in einer Urkunde dokumentiert?
+- Überschreitet die Laufzeit zwei Jahre nach § 90a Abs. 1 S. 1 HGB?
+- Entspricht die Karenzentschädigung der Mindesthöhe nach § 90a Abs. 1 S. 3 HGB?
+- Hat der Handelsvertreter das Loslösungsrecht nach § 90a Abs. 2 HGB fristgerecht ausgeübt?
+- Ist eine Vertragsstrafe wirksam vereinbart und angemessen (§ 307 BGB)?
+- Wer hat gekündigt und beeinflusst das die Verbindlichkeit des Verbots (§ 90a Abs. 3 HGB)?
+
+## Typische Fallstricke
+
+- Laufzeit über zwei Jahre — Klausel teilweise nichtig, zwei Jahre bleiben wirksam.
+- Karenzentschädigung zu gering — Wettbewerbsverbot für Handelsvertreter unverbindlich.
+- Loslösungsrecht nicht fristgerecht ausgeübt — Wettbewerbsverbot bindet weiter.
+- Vertragsstrafe ohne Schriftform oder unangemessen hoch — nach § 307 BGB nichtig.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben das Handelsvertreterrecht durch zentrale Leitentscheidungen geprägt.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen das Recht.
+
+## Quellen
+
+- [§ 90a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__90a.html)
+- [§ 307 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__307.html)
+- [§ 340 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__340.html)
+- [Art. 20 RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [Dejure § 90a HGB](https://dejure.org/gesetze/HGB/90a.html)
+
+---
+
+## Skill: `gebietsschutz`
+
+_Wenn es um Gebietsschutz im Handelsvertretervertrag nach Paragraf 87 Abs. 2 HGB und Kartellrecht in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Gebietsschutz im Handelsvertretervertrag nach § 87 Abs. 2 HGB und Kartellrecht
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: HGB §§ 84-92c, EuGH zu Ausgleichsanspruch, BGB §§ 305 ff.; § 89b, Wettbewerbsverbot; § 90a und Vertriebsmodelle — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Überblick
+
+Unterstützt bei rechtlichen Fragen rund um Gebietsschutz im Handelsvertretervertrag nach § 87 Abs. 2 HGB und Kartellrecht.
 Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
 und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
 Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
@@ -651,178 +643,70 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
 ## Mandantenfall
 
-- Unternehmer U erfährt, dass sein Handelsvertreter X Schmiergeldzahlungen an Einkäufer von Kunden geleistet hat; U prüft außerordentliche Kündigung nach § 89a HGB und Schadensersatz.
-- Handelsvertreter X soll für ausländischen Unternehmer Y in einem Hochrisikoland tätig werden; X fragt nach Compliance-Anforderungen und Haftungsrisiken.
-- Unternehmer U erhält eine behördliche Anfrage wegen möglicher Bestechlichkeit durch seinen Handelsvertreter X; U klärt seine Haftung und Meldepflichten.
+- Handelsvertreter X hat einen vertraglich definierten Gebietsschutz; Unternehmer Y beliefert Kunden im Gebiet des X direkt ohne Provision zu zahlen.
+- Handelsvertreter X und Y streiten darüber, ob eine Key-Account-Ausnahme vom Gebietsschutz im Vertrag wirksam vereinbart ist.
+- Kartellbehörde prüft, ob die Gebietsschutzvereinbarung zwischen Unternehmer Y und Handelsvertreter X als wettbewerbsbeschränkende Abrede nach § 1 GWB einzustufen ist.
 
 ## Erste Schritte
 
-1. Vertrag auf Compliance-Klauseln, Offenlegungspflichten und Antikorruptionsklauseln prüfen.
-2. Pflichten des Handelsvertreters nach § 86 HGB (Interessenwahrung, Weisungsbefolge) analysieren.
-3. Strafrechtliche Haftungsrisiken nach §§ 299, 333 StGB prüfen.
-4. LkSG-Anforderungen bei internationaler Vertriebsstruktur klären.
-5. Kündigung wegen Compliance-Verstoß nach § 89a HGB auf Verhältnismäßigkeit prüfen.
-6. Schadensersatz nach § 280 BGB und § 89a Abs. 2 HGB berechnen.
+1. Gebietsschutzklausel auf Wirksamkeit und Reichweite prüfen.
+2. Direktabschlüsse des Unternehmers im Schutzgebiet aus Buchauszug ermitteln.
+3. Provisionsanspruch nach § 87 Abs. 2 HGB für Direktabschlüsse berechnen.
+4. Kartellrechtliche Zulässigkeit der Gebietsschutzvereinbarung nach GWB und Vertikal-GVO prüfen.
+5. Schadensersatz bei Verletzung des Gebietsschutzes nach § 280 BGB prüfen.
+6. Unterlassungsanspruch bei andauernder Verletzung des Gebietsschutzes geltend machen.
 
 ## Rechtsrahmen
 
-- § 86 Abs. 1 HGB — Interessenwahrungspflicht des Handelsvertreters
-- § 89a HGB — Außerordentliche Kündigung wegen Compliance-Verstoß
-- §§ 299, 333 StGB — Bestechlichkeit und Bestechung im Geschäftsverkehr
-- § 30 OWiG — Verbandsgeldbuße bei Mitarbeiterkorruption
-- § 3 LkSG — Sorgfaltspflichten im Lieferkettengesetz
-- § 280 BGB — Schadensersatz bei Pflichtverletzung
+- § 87 Abs. 2 HGB — Bezirksprovision bei Alleinvertretung
+- § 280 BGB — Schadensersatz bei Verletzung des Gebietsschutzes
+- § 1 GWB — Kartellverbot für wettbewerbsbeschränkende Vereinbarungen
+- Vertikal-GVO (EU) Nr. 2022/720 — Gruppenfreistellung für Gebietsschutzklauseln
+- § 86a HGB — Unterstützungspflicht des Unternehmers
+- Art. 7 Abs. 2 RL 86/653/EWG — Provision auf Gebietsgeschäfte
 
 ## Prüfraster
 
-- Hat der Handelsvertreter seine Interessenwahrungspflicht nach § 86 HGB verletzt?
-- Liegt ein Compliance-Verstoß vor, der eine außerordentliche Kündigung rechtfertigt?
-- Haftet der Unternehmer für Handlungen seines Handelsvertreters Dritten gegenüber?
-- Sind LkSG-Sorgfaltspflichten im internationalen Vertrieb eingehalten?
-- Hat der Unternehmer ausreichende Compliance-Maßnahmen implementiert?
-- Welche strafrechtlichen Risiken bestehen für Handelsvertreter und Unternehmer?
+- Ist der Gebietsschutz klar und vollständig definiert?
+- Hat der Unternehmer den Gebietsschutz durch Direktabschlüsse verletzt?
+- Sind Key-Account-Ausnahmen wirksam vereinbart?
+- Ist die Gebietsschutzvereinbarung kartellrechtskonform?
+- Wie hoch ist der Schadensersatz bei Verletzung des Gebietsschutzes?
+- Kommen Unterlassungsansprüche oder einstweiliger Rechtsschutz in Betracht?
 
 ## Typische Fallstricke
 
-- Compliance-Verstöße des Handelsvertreters führen zu Haftung des Unternehmers als Auftraggeber.
-- Kündigung wegen Compliance-Verstoß ohne vorherige Abmahnung bei heilbaren Verstößen unwirksam.
-- LkSG-Anforderungen bei indirekten Lieferanten über Handelsvertreter übersehen.
-- Strafrechtliches Risiko für Unternehmer bei Duldung von Korruption durch Handelsvertreter.
+- Gebietsdefinition zu ungenau — Direktabschlüsse im Grenzbereich ohne klare Lösung.
+- Kartellrechtliche Grenze der Gebietsschutzklausel nicht geprüft — Vertrag nichtig.
+- Schadensersatz bei Verletzung nicht geltend gemacht — nur Provision eingeklagt.
+- Key-Account-Ausnahme nicht schriftlich vereinbart — Unternehmer kann sie nicht einwandfrei rechtfertigen.
 
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
 Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
-Kernprinzipien: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
-Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
-BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
-insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
-Zwingende Vorschriften nach § 92c HGB können vertraglich nicht abgebedungen werden;
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt.
+Zwingende Vorschriften nach § 92c HGB können nicht abgebedungen werden;
 entgegenstehende Klauseln sind nach § 134 BGB nichtig.
 Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
-Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte (§ 87c HGB), Geheimhaltungspflicht (§ 88 HGB) und Delkredere (§ 86b HGB)
+ergänzen das Recht praxisnah.
 
 ## Quellen
 
-- [§ 86 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__86.html)
-- [§ 89a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89a.html)
-- [§ 299 StGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/stgb/__299.html)
-- [LkSG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/lksg/)
-- [Dejure § 86 HGB](https://dejure.org/gesetze/HGB/86.html)
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 9 Rom-I-VO
-- Art. 101 AEUV
-- Art. 28 DSGVO
-- § 14 UStG
-- § 19 UStG
-- § 5 ArbGG
-- § 59 VVG
-- § 1 UStG
-- § 23 GeschGehG
-- § 66c EnWG
-- Art. 17 DSGVO
-- § 75 AMG
-
-### Leitentscheidungen
-
-- EuGH C-465/04
-- EuGH C-381/19
-- EuGH C-217/05
-
----
-
-## Skill: `arbeitnehmeraehnlichkeit`
-
-_Prüft arbeitnehmerähnliche Stellung des Handelsvertreters nach § 92a HGB: Mindestentgelt, Anwendung von Arbeitsschutzvorschriften, Abgrenzung zur echten Arbeitnehmerstellung, wirtschaftliche Abhängigkeit als Tatbestandsmerkmal und Sozialversicherungsrecht bei Einkommen unter der Grenze im Handels..._
-
-# Arbeitnehmerähnlicher Handelsvertreter nach § 92a HGB
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HGB §§ 84-92c, EuGH zu Ausgleichsanspruch, BGB §§ 305 ff.; § 89b, Wettbewerbsverbot; § 90a und Vertriebsmodelle — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Überblick
-
-Unterstützt bei rechtlichen Fragen rund um Arbeitnehmerähnlicher Handelsvertreter nach § 92a HGB.
-Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
-und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie einschlägige BGH- und EuGH-Rechtsprechung ein.
-Der Skill zielt auf konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
-Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
-
-## Mandantenfall
-
-- Handelsvertreterin Z erzielt 95 % ihres Einkommens bei einem einzigen Unternehmer U und fragt, ob ihr arbeitsrechtlicher Schutz nach § 92a HGB zusteht.
-- Unternehmer U erhält von der Deutschen Rentenversicherung eine Anfrage zur Scheinselbständigkeit der Vertreterin Z; er klärt, ob eine arbeitnehmerähnliche Stellung vorliegt.
-- Handelsvertreter X möchte wissen, ob das Mindestentgelt nach der Handelsvertreter-Mindestentgelts-Verordnung auf ihn Anwendung findet.
-
-## Erste Schritte
-
-1. Einkommensquellen des Handelsvertreters analysieren: Anteil des Einkommens beim Hauptunternehmer.
-2. Prüfung der wirtschaftlichen Abhängigkeit nach § 92a Abs. 1 HGB (mehr als ein Drittel des Einkommens).
-3. Anwendbarkeit der Handelsvertreter-Mindestentgeltsverordnung prüfen.
-4. Sozialversicherungsrechtlichen Status parallel klären (§ 7 SGB IV).
-5. Abgrenzung Arbeitnehmerähnlichkeit von echter Arbeitnehmerstellung nach BAG-Kriterien.
-6. Vertragsgestaltung auf Weisungsabhängigkeit und persönliche Leistungspflicht untersuchen.
-
-## Rechtsrahmen
-
-- § 92a HGB — Arbeitnehmerähnlicher Handelsvertreter
-- § 84 Abs. 1 HGB — Selbständigkeit als Abgrenzungsmerkmal
-- § 7 SGB IV — Begriff der Beschäftigung, Scheinselbständigkeit
-- § 5 Abs. 3 ArbGG — Zuständigkeit der Arbeitsgerichte für arbeitnehmerähnliche Personen
-- § 92b HGB — Einfirmenvertreter
-- Art. 1 Abs. 2 RL 86/653/EWG — Anwendungsbereich der Richtlinie
-
-## Prüfraster
-
-- Wie hoch ist der Anteil des Einkommens vom Hauptunternehmer — übersteigt er ein Drittel?
-- Besteht persönliche Leistungspflicht oder darf der Vertreter Untervertreter einsetzen?
-- Hat der Handelsvertreter eigene unternehmerische Organisation oder ist er vollständig eingegliedert?
-- Ist wirtschaftliche Abhängigkeit i.S.v. § 92a HGB gegeben?
-- Welcher Rechtsweg ist zuständig — ordentliche Gerichte oder Arbeitsgericht nach § 5 Abs. 3 ArbGG?
-- Ist die Mindestentgeltsverordnung anwendbar und wird sie eingehalten?
-
-## Typische Fallstricke
-
-- Arbeitnehmerähnlichkeit mit Scheinselbständigkeit gleichgesetzt — unterschiedliche Rechtsfolgen.
-- Sozialversicherungsrechtliche Konsequenzen bei Scheinselbständigkeit nicht berücksichtigt.
-- Zuständigkeit der Arbeitsgerichte nach § 5 Abs. 3 ArbGG übersehen.
-- Einkommensschwelle nicht korrekt berechnet — Mehrjahresbetrachtung erforderlich.
-
-## Hintergrund und Kontext
-
-Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
-Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
-Kernprinzipien sind: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
-Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
-BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
-insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
-Praktisch relevant sind insbesondere: Provisionsabrechnungen und Buchauszug (§ 87c HGB),
-nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Ausgleichsanspruch (§ 89b HGB).
-Zwingende Vorschriften zum Schutz des Handelsvertreters nach § 92c HGB können vertraglich
-nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichtig.
-
-## Quellen
-
-- [§ 92a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92a.html)
-- [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
-- [§ 7 SGB IV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_4/__7.html)
-- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
-- [Dejure § 92a HGB](https://dejure.org/gesetze/HGB/92a.html)
+- [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
+- [§ 280 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__280.html)
+- [§ 1 GWB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gwb/__1.html)
+- [Vertikal-GVO 2022/720 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R0720)
+- [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

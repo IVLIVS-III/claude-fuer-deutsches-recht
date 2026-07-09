@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | aus Akte und belastbarer Quelle ableiten |
-| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung); Commercial Chamber (LG) |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Tragende Normen verifizieren: GVG Paragrafen 119, 119b (Commercial Court), ZPO Paragrafen 184a, 614, 1025-1066 |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -48,8 +48,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 6. Anker
 
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- Commercial Chamber (LG): gewohnte Berufung zum OLG; aber zwei Instanzen kosten Zeit (typisch 18-30 Monate bis OLG-Urteil) und Geld
+- Normen und Entscheidungen aus den vorgelegten Unterlagen oder einer belastbaren Quelle ableiten; Aktenzeichen nicht ergänzen, wenn sie nicht sicher belegt sind.
 
 ## 7. Antwortform
 

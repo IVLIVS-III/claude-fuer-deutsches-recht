@@ -1,48 +1,49 @@
-# Megaprompt: commercial-courts-deutschland
+# Vollprüfung: commercial-courts-deutschland
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 57 Skills des Plugins `commercial-courts-deutschland`.
+Dieser Vollprüfung enthaelt top-15 von 57 Skills des Plugins `commercial-courts-deutschland`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting für Commercial-Courts-Verfahren in Deutschland; erkennt Forum, Sprache, Streitwe…
-2. **commercial-chamber-vs-commercial-court** — Vergleicht Commercial Chamber beim Landgericht und Commercial Court beim Oberlandesgericht: Instanz, Zuständigkeit, Stre…
-3. **zustandigkeit-119b-gvg-check** — Prüft, ob Commercial Court oder Commercial Chamber eröffnet ist: Wirtschaftsstreitigkeit, Streitwert, Parteivereinbarung…
-4. **englische-verfahrenssprache-late-submissions** — Prüft und gestaltet die englische Verfahrenssprache: Parteivereinbarung, Schriftsätze, Anlagen, mündliche Verhandlung, P…
-5. **klageschrift-english-limitation-tolling** — Erstellt eine englische Commercial-Court-Klageschrift mit deutschem ZPO-Unterbau: parties, jurisdiction, facts, causes o…
-6. **contract-interpretation-de-en** — Erklärt und prüft englische Vertragsbegriffe unter deutschem Recht: reasonable efforts, best endeavours, indemnity, warr…
-7. **document-production-earn-out** — Prüft Urkundenvorlage und Dokumentenherausgabe nach deutschem Prozessrecht im Commercial-Court-Kontext: § 142 ZPO, Subst…
-8. **finance-banking-dispute** — Bearbeitet Finance-, Banking- und Capital-Markets-Streitigkeiten mit englischen Dokumenten: facility agreement, covenant…
-9. **forumwahl-court-glossary** — Vergleicht Commercial Court, ordentliche Kammer, Schiedsgericht, DIS/ICC/LCIA und Gerichtsstandsvereinbarung; Output ist…
-10. **post-ma-pre-litigation** — Bearbeitet Post-M&A Warranty Claims vor Commercial Courts: notice, knowledge qualifiers, baskets, caps, leakage, earn-ou…
-11. **interim-relief-issues-list** — Prüft einstweilige Verfügung, Arrest und interim relief im Commercial-Court-Umfeld, einschließlich Eilbedürftigkeit, Sic…
-12. **witness-preparation-zustandigkeit-119b** — Bereitet Zeugen in englischsprachigen deutschen Verfahren vor: Wahrheitspflicht, keine Coaching-Grenzüberschreitung, Spr…
-13. **english-legal-writing-for-german-courts** — Verbessert englische Schriftsätze für deutsche Gerichte: klar, zpo-tauglich, ohne US-Discovery-Duktus, mit sauberem Tats…
-14. **hearing-script-english-advocacy** — Erstellt englische Hearing Scripts für deutsche Anwälte: opening, issue roadmap, witness questions, judicial questions, …
-15. **bgh-english-bilingual-client** — Routet englischsprachige Fortführung vor dem Bundesgerichtshof: Voraussetzungen, Übersetzungen, Revisionsbegründung, Ten…
+1. **kaltstart-triage** — Wenn es um Commercial Courts Deutschland — Allgemein in commercial-courts-deutschland geht: klärt Rolle, Ziel, Frist, Un…
+2. **contract-interpretation-de-en** — Wenn es um Contract Interpretation DE/EN in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
+3. **pre-litigation-notice-and-standstill** — Wenn es um Pre-Litigation und Standstill in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
+4. **zustandigkeit-119b-gvg-check** — Wenn es um Zuständigkeit und Eingangstor in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
+5. **case-management-conference** — Wenn es um Case Management Conference in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegen…
+6. **cross-border-default-judgment** — Wenn es um Cross-Border Jurisdiction in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegena…
+7. **default-judgment-and-nonappearance** — Wenn es um Default and Nonappearance in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegena…
+8. **public-hearing-appeal-revision** — Wenn es um Öffentlichkeit und Presse in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegena…
+9. **hearing-script-english-advocacy** — Wenn es um English Hearing Advocacy in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenar…
+10. **post-ma-pre-litigation** — Wenn es um Post-M&A Warranty Claims in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenar…
+11. **confidentiality-trade-contract-interpretation** — Wenn es um Confidentiality and Trade Secrets in commercial-courts-deutschland geht: erstellt den passenden Entwurf aus S…
+12. **jurisdiction-clause-drafting-de-en** — Wenn es um Klauselgestaltung DE/EN in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenarg…
+13. **supply-chain-third-party** — Wenn es um Supply Chain Disputes in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargum…
+14. **judgment-publication-jurisdiction-clause** — Wenn es um Judgment Publication in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargume…
+15. **third-party-notice-607-zpo** — Wenn es um Third Party Notice in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargument…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting für Commercial-Courts-Verfahren in Deutschland; erkennt Forum, Sprache, Streitwert, Parteivereinbarung, Case Management, Geheimnisschutz, Beweis, Transcript, Rechtsmittel und englischen Outputbedarf._
+_Wenn es um Commercial Courts Deutschland — Allgemein in commercial-courts-deutschland geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Beweislast- und Substantiierungsmatrix._
 
 # Commercial Courts Deutschland — Allgemein
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Commercial Courts Deutschland** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Startprinzip
 
@@ -95,256 +96,9 @@ Beginne mit Orientierung, nicht mit Lehrbuch. Prüfe zuerst, ob der Fall überha
 
 ---
 
-## Skill: `commercial-chamber-vs-commercial-court`
-
-_Vergleicht Commercial Chamber beim Landgericht und Commercial Court beim Oberlandesgericht: Instanz, Zuständigkeit, Streitwert, Verfahrenssprache, Tempo, Rechtsmittel und Mandantenstrategie im Commercial Courts Deutschland._
-
-# Commercial Chamber oder Commercial Court
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GVG §§ 119, 119b (Commercial Court), ZPO §§ 184a, 614, 1025-1066, AGGVG der Länder, EU-VO 1215/2012 (Brüssel Ia) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Commercial Chamber oder Commercial Court
-- **Normen-/Quellenanker:** Commercial Courts/Commercial Chambers der Länder, ZPO, GVG, Zuständigkeit, Sprachwahl Englisch/Deutsch, Wortprotokoll, Geheimnisschutz und internationale Zustellung.
-- **Entscheidende Weiche:** Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Einstieg
-
-Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
-
-1. Soll der Output auf Deutsch, Englisch oder zweisprachig sein?
-2. Welches Gericht/Forum ist vorgesehen oder vereinbart?
-3. Welche Klausel, welcher Streitwert und welche Parteien liegen vor?
-4. Welche Frist oder Verfahrenshandlung steht als nächstes an?
-5. Welche Unterlagen sind schon da: contract, correspondence, notices, expert report, exhibits, prior pleadings?
-
-## Arbeitsworkflow
-
-### Vergleich Commercial Chamber (LG) versus Commercial Court (OLG)
-
-| Punkt | Commercial Chamber beim Landgericht | Commercial Court beim Oberlandesgericht |
-| --- | --- | --- |
-| Rechtsgrundlage | §§ 95, 184a GVG, jeweilige Landesverordnung | § 119b GVG (eingeführt durch Justizstandort-Stärkungsgesetz), Landesverordnung |
-| Instanz | erste Instanz Landgericht | erste Instanz Oberlandesgericht |
-| Streitwertschwelle | typischerweise wie LG §§ 23, 71 GVG | regelmäßig ab 500.000 EUR (Landesvorgabe) |
-| Berufung | Berufung zum OLG (§ 511 ZPO) | Revision zum BGH § 184b GVG (kein OLG-Zwischenschritt) |
-| Sprache | Englisch zulässig (§ 184a GVG) | Englisch zulässig (§ 184a GVG); BGH-Revision auf Englisch erstmals möglich |
-| Wortprotokoll | auf Antrag (§ 613 ZPO Justizstandort-Stärkungsgesetz) | dito |
-| Geheimhaltung | § 273a ZPO Vertraulichkeitsanordnung | § 273a ZPO |
-| Zielmandat | Mid-Cap-Streitwerte, klassische B2B-Wirtschaftssachen | Big-Tech-, M&A-, Mega-Mandate; "deutsche Antwort auf NCC, Paris, Singapore" |
-
-### Strategie-Trade-off
-
-- **Commercial Court (OLG, erstinstanzlich):** spart Instanz, aber kein zweiter Tatsachenrechtszug. Wer auf Tatsachenfragen baut (z.B. komplexe Verkehrswerte), behält sich mit Commercial Chamber den Berufungszug bei.
-- **Commercial Chamber (LG):** gewohnte Berufung zum OLG; aber zwei Instanzen kosten Zeit (typisch 18-30 Monate bis OLG-Urteil) und Geld.
-- **Schiedsgericht:** Vertraulichkeit höher, aber Vollstreckung im EU-Inland nicht einfacher als deutsches Urteil; Aufhebungsverfahren §§ 1059 ff. ZPO selten erfolgreich.
-
-1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
-2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
-3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
-4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
-5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
-
-## Red Flags
-
-- Commercial-Court-Zuständigkeit oder englische Sprache wird nur behauptet, aber nicht aus Klausel, Gesetz und Landesrecht hergeleitet.
-- Englischer Schriftsatz klingt wie US-Litigation und enthält keine ZPO-tauglichen Beweisangebote.
-- Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
-- Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
-- Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
-
----
-
-## Skill: `zustandigkeit-119b-gvg-check`
-
-_Prüft, ob Commercial Court oder Commercial Chamber eröffnet ist: Wirtschaftsstreitigkeit, Streitwert, Parteivereinbarung, Landesrecht, OLG/LG, internationale Zuständigkeit und Rügefragen im Commercial Courts Deutschland._
-
-# Zuständigkeit und Eingangstor
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GVG §§ 119, 119b (Commercial Court), ZPO §§ 184a, 614, 1025-1066, AGGVG der Länder, EU-VO 1215/2012 (Brüssel Ia) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Zuständigkeit und Eingangstor
-- **Normen-/Quellenanker:** Commercial Courts/Commercial Chambers der Länder, ZPO, GVG, Zuständigkeit, Sprachwahl Englisch/Deutsch, Wortprotokoll, Geheimnisschutz und internationale Zustellung.
-- **Entscheidende Weiche:** Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Einstieg
-
-Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
-
-1. Soll der Output auf Deutsch, Englisch oder zweisprachig sein?
-2. Welches Gericht/Forum ist vorgesehen oder vereinbart?
-3. Welche Klausel, welcher Streitwert und welche Parteien liegen vor?
-4. Welche Frist oder Verfahrenshandlung steht als nächstes an?
-5. Welche Unterlagen sind schon da: contract, correspondence, notices, expert report, exhibits, prior pleadings?
-
-## Arbeitsworkflow
-
-Besondere Anker: § 119b GVG, Landesrechtsverordnung, Parteivereinbarung, Streitwert ab 500.000 EUR und sachgebietliche Beschränkungen. Prüfe außerdem, ob eine Commercial Chamber beim LG oder ein Commercial Court beim OLG/Obersten Landesgericht gemeint ist.
-
-### Zuständigkeits-Check Commercial Court / Commercial Chamber
-
-1. **Streitwertschwelle:** Commercial Court (§ 119b GVG) regelmäßig ab 500.000 EUR Streitwert; Landesverordnungen können davon abweichen. Commercial Chamber (§§ 95, 184a GVG i.V.m. Justizstandort-Stärkungsgesetz) hat keine harte Streitwertschwelle, aber sachlich-örtliche Zuständigkeit nach §§ 23, 71 GVG.
-2. **Sachgebietsfilter:** B2B-Wirtschaftsstreit, kein Arbeitsrecht, kein Verbrauchersachverhalt, kein Familien-/Erbrecht. Typisch: SPA-/APA-Streit, Post-M&A-Garantieansprüche, D&O-Haftung, Lieferketten, Finanzierung.
-3. **Parteivereinbarung:** § 38 ZPO Gerichtsstandsvereinbarung zwischen Kaufleuten zulässig; ausdrückliche Wahl von "Commercial Court at OLG X" empfohlen. Bei Verbraucherbeteiligung greift § 38 Abs. 1 ZPO nicht.
-4. **Landesrecht prüfen:** Bisher tätige Commercial Courts/Commercial Chambers etwa in Hamburg, Stuttgart (BaWü), München (Bayern), Frankfurt (Hessen), Düsseldorf, Köln (NRW), Mannheim (BaWü). Aktuelle Liste live verifizieren — keine erfundenen Standorte.
-5. **Schwellenwerte Justizstandort-Stärkungsgesetz im Blick behalten:** Berufungssumme § 511 ZPO 1.000 EUR; Amtsgerichtszuständigkeit § 23 GVG ab 2026 bis 10.000 EUR; vereinfachtes Verfahren § 495a ZPO bis 1.000 EUR. Diese Schwellen sind für die Frage Commercial Court eigentlich irrelevant, aber für die Verfahrensstrategie und Rechtsmittel wichtig.
-
-### Rügelose Einlassung und Forum-Wechsel
-
-Hat sich der Beklagte rügelos auf eine andere Kammer eingelassen (§ 39 ZPO), wird die Rüge der Commercial-Court-Zuständigkeit präkludiert. Daher: Zuständigkeitsrüge in der Klageerwiderung an erster Stelle.
-
-1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
-2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
-3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
-4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
-5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
-
-## Red Flags
-
-- Commercial-Court-Zuständigkeit oder englische Sprache wird nur behauptet, aber nicht aus Klausel, Gesetz und Landesrecht hergeleitet.
-- Englischer Schriftsatz klingt wie US-Litigation und enthält keine ZPO-tauglichen Beweisangebote.
-- Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
-- Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
-- Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
-
----
-
-## Skill: `englische-verfahrenssprache-late-submissions`
-
-_Prüft und gestaltet die englische Verfahrenssprache: Parteivereinbarung, Schriftsätze, Anlagen, mündliche Verhandlung, Protokoll, Urteil, Übersetzungen und BGH-Fortsetzung im Commercial Courts Deutschland._
-
-# Verfahrenssprache Englisch
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GVG §§ 119, 119b (Commercial Court), ZPO §§ 184a, 614, 1025-1066, AGGVG der Länder, EU-VO 1215/2012 (Brüssel Ia) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Verfahrenssprache Englisch
-- **Normen-/Quellenanker:** Commercial Courts/Commercial Chambers der Länder, ZPO, GVG, Zuständigkeit, Sprachwahl Englisch/Deutsch, Wortprotokoll, Geheimnisschutz und internationale Zustellung.
-- **Entscheidende Weiche:** Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Einstieg
-
-Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
-
-1. Soll der Output auf Deutsch, Englisch oder zweisprachig sein?
-2. Welches Gericht/Forum ist vorgesehen oder vereinbart?
-3. Welche Klausel, welcher Streitwert und welche Parteien liegen vor?
-4. Welche Frist oder Verfahrenshandlung steht als nächstes an?
-5. Welche Unterlagen sind schon da: contract, correspondence, notices, expert report, exhibits, prior pleadings?
-
-## Arbeitsworkflow
-
-Besondere Anker: § 184a GVG, §§ 606 ff. ZPO und die jeweilige Landesverordnung. Englisch muss prozessual abgesichert sein: ausdrückliche Vereinbarung, stillschweigende Vereinbarung oder rügelose Einlassung; Dritte und Übersetzungen gesondert prüfen.
-
-### Voraussetzungen für englische Verfahrensführung
-
-| Schritt | Norm | Was muss geschehen |
-| --- | --- | --- |
-| Parteivereinbarung Englisch | § 184a GVG | ausdrücklich oder konkludent; ein Antrag genügt nicht, beide Parteien müssen zustimmen |
-| Antrag bei Gericht | § 184a Abs. 1 GVG | förmlicher Antrag mit Begründung; Gericht entscheidet durch Beschluss |
-| Eröffnetes Verfahren | je Bundesland | nur an dafür durch Landesverordnung eingerichteten Spruchkörpern (Commercial Chamber / Commercial Court) |
-| Schriftsätze und Anlagen | §§ 184, 184a GVG | können in Englisch eingereicht werden; Anlagen müssen nicht zwingend übersetzt werden, wenn beide Parteien sie verstehen |
-| Mündliche Verhandlung | § 184a GVG | in Englisch zulässig, Protokoll grundsätzlich auch in Englisch (§ 184a Abs. 1 Satz 4 GVG) |
-| Urteil und Tenor | § 184a Abs. 1 Satz 5 GVG | in Englisch möglich; für Vollstreckung Übersetzung nötig |
-| Berufung beim OLG | § 184a GVG | nur, wenn auch dort englische Verhandlung eingerichtet |
-| Revision beim BGH | § 184b GVG | erstmals seit Justizstandort-Stärkungsgesetz möglich, Voraussetzungen separat prüfen |
-
-### Trade-off Englisch versus Deutsch
-
-| Pro Englisch | Pro Deutsch |
-| --- | --- |
-| Mandant aus USA/UK versteht Verfahren | Beweismittel oft deutschsprachig |
-| Vermeidung Übersetzungskosten Anlagen | Streitkultur weniger reibungsbehaftet |
-| Image Justizstandort Deutschland | Vollstreckung im Inland ohne Übersetzung |
-| Auch BGH-Fortführung möglich | Drittbeteiligte (Zeugen) oft nur deutsch |
-
-Drittbeteiligte (Zeugen, Sachverständige) sind nicht an die Sprachwahl gebunden. § 185 GVG (Dolmetscherbestellung) bleibt anwendbar. Bei Sachverständigen-Gutachten häufig deutsch.
-
-1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
-2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
-3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
-4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
-5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
-
-## Red Flags
-
-- Commercial-Court-Zuständigkeit oder englische Sprache wird nur behauptet, aber nicht aus Klausel, Gesetz und Landesrecht hergeleitet.
-- Englischer Schriftsatz klingt wie US-Litigation und enthält keine ZPO-tauglichen Beweisangebote.
-- Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
-- Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
-- Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
-
----
-
-## Skill: `klageschrift-english-limitation-tolling`
-
-_Erstellt eine englische Commercial-Court-Klageschrift mit deutschem ZPO-Unterbau: parties, jurisdiction, facts, causes of action, relief sought, evidence und exhibits im Commercial Courts Deutschland._
-
-# Statement of Claim
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GVG §§ 119, 119b (Commercial Court), ZPO §§ 184a, 614, 1025-1066, AGGVG der Länder, EU-VO 1215/2012 (Brüssel Ia) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Statement of Claim
-- **Normen-/Quellenanker:** Commercial Courts/Commercial Chambers der Länder, ZPO, GVG, Zuständigkeit, Sprachwahl Englisch/Deutsch, Wortprotokoll, Geheimnisschutz und internationale Zustellung.
-- **Entscheidende Weiche:** Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Einstieg
-
-Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
-
-1. Soll der Output auf Deutsch, Englisch oder zweisprachig sein?
-2. Welches Gericht/Forum ist vorgesehen oder vereinbart?
-3. Welche Klausel, welcher Streitwert und welche Parteien liegen vor?
-4. Welche Frist oder Verfahrenshandlung steht als nächstes an?
-5. Welche Unterlagen sind schon da: contract, correspondence, notices, expert report, exhibits, prior pleadings?
-
-## Arbeitsworkflow
-
-1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
-2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
-3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
-4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
-5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
-
-## Red Flags
-
-- Commercial-Court-Zuständigkeit oder englische Sprache wird nur behauptet, aber nicht aus Klausel, Gesetz und Landesrecht hergeleitet.
-- Englischer Schriftsatz klingt wie US-Litigation und enthält keine ZPO-tauglichen Beweisangebote.
-- Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
-- Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
-- Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
-
----
-
 ## Skill: `contract-interpretation-de-en`
 
-_Erklärt und prüft englische Vertragsbegriffe unter deutschem Recht: reasonable efforts, best endeavours, indemnity, warranty, termination, material adverse change im Commercial Courts Deutschland._
+_Wenn es um Contract Interpretation DE/EN in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
 # Contract Interpretation DE/EN
 
@@ -420,11 +174,11 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 ---
 
-## Skill: `document-production-earn-out`
+## Skill: `pre-litigation-notice-and-standstill`
 
-_Prüft Urkundenvorlage und Dokumentenherausgabe nach deutschem Prozessrecht im Commercial-Court-Kontext: § 142 ZPO, Substantiierung, Geheimnisse, proportionality im Commercial Courts Deutschland._
+_Wenn es um Pre-Litigation und Standstill in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Document Production
+# Pre-Litigation und Standstill
 
 ## Arbeitsweg
 
@@ -434,7 +188,7 @@ _Prüft Urkundenvorlage und Dokumentenherausgabe nach deutschem Prozessrecht im 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Document Production
+## Fachkern: Pre-Litigation und Standstill
 - **Normen-/Quellenanker:** Commercial Courts/Commercial Chambers der Länder, ZPO, GVG, Zuständigkeit, Sprachwahl Englisch/Deutsch, Wortprotokoll, Geheimnisschutz und internationale Zustellung.
 - **Entscheidende Weiche:** Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -450,91 +204,6 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 5. Welche Unterlagen sind schon da: contract, correspondence, notices, expert report, exhibits, prior pleadings?
 
 ## Arbeitsworkflow
-
-1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
-2. **Vorlageanker im deutschen Prozessrecht:** § 142 ZPO Anordnung der Urkundenvorlage durch Partei (Ermessen des Gerichts, Substantiierungspflicht); § 144 ZPO Vorlage von Augenscheinsobjekten und Sachverständigengutachten; §§ 421-432 ZPO Vorlageantrag gegen Gegner und Dritte mit materiellrechtlichem Anspruch (§ 810 BGB Einsichtsrecht); § 422 ZPO bei Vorlagepflicht aus materiellem Recht; § 423 ZPO bei Bezugnahme der Gegenseite auf die Urkunde.
-3. **Substantiierung Antrag § 142 ZPO:** Konkrete Bezeichnung der Urkunde (Datum, Ersteller, Inhalt, Empfänger); Tatsachen, für die die Urkunde Beweis sein soll; Hinweis auf Besitz oder erleichternde Besitzvermutung; konkrete Relevanz für die anstehende Beweisaufnahme. Bloße "fishing expedition" ist unzulässig — deutscher Zivilprozess kennt keine US-Discovery (§ 138 ZPO Wahrheitspflicht und § 282 ZPO Zurückweisung verspäteten Vorbringens).
-4. **Geheimnisschutz und Verhältnismäßigkeit:** § 174 Abs. 3 GVG Ausschluss der Öffentlichkeit, § 16 GeschGehG Schutz von Geschäftsgeheimnissen im Prozess (sog. "Hamburger Verfahren" mit Geheimhaltungsverpflichtung der Verfahrensbeteiligten); bei DSGVO-relevanten Daten zusätzliche Abwägung Art. 6 Abs. 1 lit. f DSGVO. Trade-off: weite Vorlageanordnung erleichtert Beweis, gefährdet aber Vertraulichkeit.
-5. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären. Nächsten Schritt: konkreter § 142-Antrag mit Anlage K-Nummer, Geheimnisschutzantrag § 16 GeschGehG, Frist für Vorlage durch Gegenseite festlegen.
-
-## Red Flags
-
-- Commercial-Court-Zuständigkeit oder englische Sprache wird nur behauptet, aber nicht aus Klausel, Gesetz und Landesrecht hergeleitet.
-- Englischer Schriftsatz klingt wie US-Litigation und enthält keine ZPO-tauglichen Beweisangebote.
-- Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
-- Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
-- Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
-
----
-
-## Skill: `finance-banking-dispute`
-
-_Bearbeitet Finance-, Banking- und Capital-Markets-Streitigkeiten mit englischen Dokumenten: facility agreement, covenants, events of default, security, notices im Commercial Courts Deutschland._
-
-# Finance Disputes
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GVG §§ 119, 119b (Commercial Court), ZPO §§ 184a, 614, 1025-1066, AGGVG der Länder, EU-VO 1215/2012 (Brüssel Ia) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Finance Disputes
-- **Normen-/Quellenanker:** Commercial Courts/Commercial Chambers der Länder, ZPO, GVG, Zuständigkeit, Sprachwahl Englisch/Deutsch, Wortprotokoll, Geheimnisschutz und internationale Zustellung.
-- **Entscheidende Weiche:** Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Einstieg
-
-Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
-
-1. Soll der Output auf Deutsch, Englisch oder zweisprachig sein?
-2. Welches Gericht/Forum ist vorgesehen oder vereinbart?
-3. Welche Klausel, welcher Streitwert und welche Parteien liegen vor?
-4. Welche Frist oder Verfahrenshandlung steht als nächstes an?
-5. Welche Unterlagen sind schon da: contract, correspondence, notices, expert report, exhibits, prior pleadings?
-
-## Arbeitsworkflow
-
-### Finance-/Banking-Streit — Anspruchstypen und Verteidigungsfelder
-
-| Streittyp | Norm | Klassische Streitfragen |
-| --- | --- | --- |
-| Darlehensvertrag (Schuldnerseite klagt) | §§ 488 ff. BGB | Wirksamkeit, Schriftform, Aufklärung über Risiken, Sittenwidrigkeit § 138 BGB |
-| Kreditkündigung | § 490 BGB | wichtiger Grund, Verhältnismäßigkeit, Vertragstreue § 242 BGB |
-| Sicherheitenverwertung | §§ 1233 ff. BGB (Pfandrecht), §§ 1257, 854 ZPO; § 14 InsO | Werthaltigkeit, Übersicherung, Anfechtung §§ 129 ff. InsO |
-| Covenants / Loan Documentation | LMA/MUSTER; im DE: §§ 305 ff. BGB AGB-Kontrolle | financial covenants Verletzung; Material Adverse Effect |
-| Cash Sweeps / Equity Cure | Vertragsrecht | Berechnungsstreit, Reporting-Verstoß |
-| Events of Default | Vertragsbedingungen | Trigger-Bestimmung, Heilungsfrist, Cross-Default |
-| Acceleration | Vertragsbedingungen | Verhältnismäßigkeit, Treu und Glauben |
-| Schadensersatz wegen Falschberatung | §§ 280, 311 Abs. 2 BGB (c.i.c.) | Aufklärungspflicht, Kausalität, Mitverschulden § 254 BGB |
-| Beraterhaftung (Investor) | § 280 BGB i.V.m. § 31 WpHG | Geeignetheit, Risikoaufklärung |
-| Anfechtung Schenkung an Geschäftsführer | § 134 InsO | Insolvenzanfechtungsanspruch |
-
-### Spezialthemen Banking
-
-| Thema | Norm/Praxis |
-| --- | --- |
-| KWG-Erlaubnis | §§ 32, 54 KWG; BaFin-Praxis |
-| MiCAR (Krypto) | EU-VO 2023/1114, geltend seit 30.12.2024 |
-| MaRisk | BaFin-Rundschreiben; relevant für Klagen wegen Aufsichtsverstößen |
-| Bankgeheimnis | Vertragliche Schweigepflicht; § 383 ZPO Zeugnisverweigerung |
-| § 675u BGB (Phishing) | Haftung Bank bei nicht autorisierter Zahlung; Grenzen § 675v BGB (grobe Fahrlässigkeit Kunde) |
-
-### Beweissicherung
-
-- **Documents of Title:** Wechsel, Schuldscheine, Hypothekenbriefe — physische Sicherung kritisch.
-- **Loan File:** alle Auszahlungs-Notices, Statements, Reporting-Reports.
-- **Communication Trail:** E-Mails über Verhandlungen, Renegotiations, Standstills.
-- **Beratungsprotokolle § 34 WpHG** (für Anlageberatung) — bei Beraterhaftungsklage entscheidend.
-
-### Trade-off und Praktiker-Tipp
-
-- **Bank-Auflage:** Bei Klage durch Kunde gegen Bank: Auflage zur Vorlage des Beratungsprotokolls § 142 ZPO; bei Verweigerung Beweisvereitelung § 286 ZPO.
-- **Großforderungen mit ESM/EFSF-Bezug:** spezielle Immunitätsregeln beachten.
-- **Forum mit Sachkenntnis:** Commercial Court bei OLG Frankfurt mit hoher Finanz-Expertise; Mannheim für IP/Patent.
 
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
 2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
@@ -552,11 +221,11 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 ---
 
-## Skill: `forumwahl-court-glossary`
+## Skill: `zustandigkeit-119b-gvg-check`
 
-_Vergleicht Commercial Court, ordentliche Kammer, Schiedsgericht, DIS/ICC/LCIA und Gerichtsstandsvereinbarung; Output ist eine Vorstandsvorlage mit Empfehlung im Commercial Courts Deutschland._
+_Wenn es um Zuständigkeit und Eingangstor in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Forumwahl gegenüber Schiedsgericht
+# Zuständigkeit und Eingangstor
 
 ## Arbeitsweg
 
@@ -566,7 +235,7 @@ _Vergleicht Commercial Court, ordentliche Kammer, Schiedsgericht, DIS/ICC/LCIA u
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Forumwahl gegenüber Schiedsgericht
+## Fachkern: Zuständigkeit und Eingangstor
 - **Normen-/Quellenanker:** Commercial Courts/Commercial Chambers der Länder, ZPO, GVG, Zuständigkeit, Sprachwahl Englisch/Deutsch, Wortprotokoll, Geheimnisschutz und internationale Zustellung.
 - **Entscheidende Weiche:** Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -583,44 +252,256 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 ## Arbeitsworkflow
 
-### Forum-Vergleich (Vorstandsvorlage)
+Besondere Anker: § 119b GVG, Landesrechtsverordnung, Parteivereinbarung, Streitwert ab 500.000 EUR und sachgebietliche Beschränkungen. Prüfe außerdem, ob eine Commercial Chamber beim LG oder ein Commercial Court beim OLG/Obersten Landesgericht gemeint ist.
 
-| Kriterium | Commercial Court (OLG) | Commercial Chamber (LG) | Schiedsgericht (DIS, ICC, LCIA) | Ordentliches LG (KfH) |
-| --- | --- | --- | --- | --- |
-| Rechtsgrundlage | § 119b GVG | §§ 95, 184a GVG | §§ 1029 ff. ZPO | §§ 95 ff. GVG |
-| Streitwert | regelmäßig ab 500.000 EUR | ohne harte Schwelle | ohne | nach GVG-Schwellen |
-| Sprache | DE/EN | DE/EN | frei wählbar | DE |
-| Vertraulichkeit | § 273a ZPO Anordnung möglich | dito | grundsätzlich gegeben | öffentliche Verhandlung |
-| Beweisaufnahme | richterliche Prozessleitung | dito | flexibler; nahe Common Law möglich | dito |
-| Dauer (erste Instanz) | ca. 12-18 Monate | ca. 18-30 Monate | ca. 12-24 Monate (Institut) | ca. 18-30 Monate |
-| Berufung / Rechtsmittel | nur Revision § 184b GVG zum BGH | Berufung OLG, Revision BGH | nur Aufhebung § 1059 ZPO | dito ordentliche Wege |
-| Vollstreckung Ausland | EuGVVO/Brüssel Ia EU; sonst Anerkennungsverfahren | dito | New York Convention 1958 weltweit | dito |
-| Kosten | GKG + RVG | dito | Schiedsrichterhonorare + Institut + Anwälte | GKG + RVG |
-| Anwaltszwang | ja | ja | abhängig von Schiedsordnung | ja |
-| Wahl der Richter | nein | nein | ja (party-appointed) | nein |
-| Eilrechtsschutz | §§ 916, 935 ZPO Arrest/eV | dito | sehr eingeschränkt; staatliche Gerichte daneben § 1033 ZPO | dito |
+### Zuständigkeits-Check Commercial Court / Commercial Chamber
 
-### Trade-off Argumente
+1. **Streitwertschwelle:** Commercial Court (§ 119b GVG) regelmäßig ab 500.000 EUR Streitwert; Landesverordnungen können davon abweichen. Commercial Chamber (§§ 95, 184a GVG i.V.m. Justizstandort-Stärkungsgesetz) hat keine harte Streitwertschwelle, aber sachlich-örtliche Zuständigkeit nach §§ 23, 71 GVG.
+2. **Sachgebietsfilter:** B2B-Wirtschaftsstreit, kein Arbeitsrecht, kein Verbrauchersachverhalt, kein Familien-/Erbrecht. Typisch: SPA-/APA-Streit, Post-M&A-Garantieansprüche, D&O-Haftung, Lieferketten, Finanzierung.
+3. **Parteivereinbarung:** § 38 ZPO Gerichtsstandsvereinbarung zwischen Kaufleuten zulässig; ausdrückliche Wahl von "Commercial Court at OLG X" empfohlen. Bei Verbraucherbeteiligung greift § 38 Abs. 1 ZPO nicht.
+4. **Landesrecht prüfen:** Bisher tätige Commercial Courts/Commercial Chambers etwa in Hamburg, Stuttgart (BaWü), München (Bayern), Frankfurt (Hessen), Düsseldorf, Köln (NRW), Mannheim (BaWü). Aktuelle Liste live verifizieren — keine erfundenen Standorte.
+5. **Schwellenwerte Justizstandort-Stärkungsgesetz im Blick behalten:** Berufungssumme § 511 ZPO 1.000 EUR; Amtsgerichtszuständigkeit § 23 GVG ab 2026 bis 10.000 EUR; vereinfachtes Verfahren § 495a ZPO bis 1.000 EUR. Diese Schwellen sind für die Frage Commercial Court eigentlich irrelevant, aber für die Verfahrensstrategie und Rechtsmittel wichtig.
 
-| Pro Commercial Court / Chamber | Pro Schiedsgericht |
-| --- | --- |
-| Günstiger Streitwert ab 5-10 Mio. EUR (gedeckelte GKG) | Vertraulichkeit zentral (kein Filing, keine Pressepräsenz) |
-| BGH-Revision als Rechtssicherheit | freie Schiedsrichterwahl, Branchen-Expertise |
-| Schnellere mündliche Verhandlung | weltweite Vollstreckung New York Convention |
-| Staatliche Autorität bei renitentem Gegner | bei Cross-Border-Fällen ohne EU-Bezug oft schneller |
-| Wortprotokoll § 613 ZPO neu | Sprachwahl ohne § 184a GVG-Beschluss |
-| Klare Anwendung deutschen materiellen Rechts | Verfahrensautonomie (UNCITRAL-Model) |
+### Rügelose Einlassung und Forum-Wechsel
 
-### Empfehlung je Fallkonstellation
+Hat sich der Beklagte rügelos auf eine andere Kammer eingelassen (§ 39 ZPO), wird die Rüge der Commercial-Court-Zuständigkeit präkludiert. Daher: Zuständigkeitsrüge in der Klageerwiderung an erster Stelle.
 
-| Konstellation | Empfehlung |
-| --- | --- |
-| Inhouse-Streit, Beschlussmängelklage GmbH | Commercial Chamber LG (BGH-Rspr. "Schiedsfähigkeit II" zu Schiedsklauseln im Gesellschaftsvertrag beachten) |
-| Post-M&A Warranty Claim 5-50 Mio. EUR | Commercial Court OLG oder Schiedsgericht (W&I-Versicherer hat Mitspracherecht) |
-| Cross-Border-Lieferkette, Vollstreckung in USA/Asien | Schiedsgericht (NYC Convention) |
-| Massive Geheimhaltung (Patente, Trade Secrets) | Schiedsgericht oder Commercial Court mit § 273a ZPO |
-| Schnelles Urteil mit hoher Reputationswirkung | Commercial Court OLG (Publicity) |
-| Lieferantenstreit unter 5 Mio. EUR | KfH LG (kosten- und schnellgerecht) |
+1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
+2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
+3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
+4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
+5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
+
+## Red Flags
+
+- Commercial-Court-Zuständigkeit oder englische Sprache wird nur behauptet, aber nicht aus Klausel, Gesetz und Landesrecht hergeleitet.
+- Englischer Schriftsatz klingt wie US-Litigation und enthält keine ZPO-tauglichen Beweisangebote.
+- Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
+- Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
+- Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
+
+---
+
+## Skill: `case-management-conference`
+
+_Wenn es um Case Management Conference in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# Case Management Conference
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: GVG §§ 119, 119b (Commercial Court), ZPO §§ 184a, 614, 1025-1066, AGGVG der Länder, EU-VO 1215/2012 (Brüssel Ia) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Case Management Conference
+- **Normen-/Quellenanker:** Commercial Courts/Commercial Chambers der Länder, ZPO, GVG, Zuständigkeit, Sprachwahl Englisch/Deutsch, Wortprotokoll, Geheimnisschutz und internationale Zustellung.
+- **Entscheidende Weiche:** Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Einstieg
+
+Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
+
+1. Soll der Output auf Deutsch, Englisch oder zweisprachig sein?
+2. Welches Gericht/Forum ist vorgesehen oder vereinbart?
+3. Welche Klausel, welcher Streitwert und welche Parteien liegen vor?
+4. Welche Frist oder Verfahrenshandlung steht als nächstes an?
+5. Welche Unterlagen sind schon da: contract, correspondence, notices, expert report, exhibits, prior pleadings?
+
+## Arbeitsworkflow
+
+Besondere Anker: § 612 ZPO Organisationstermin. Vereinbarungen zum Ablauf sind nicht bloß höfliche Agenda, sondern beeinflussen Fristen, Präklusion und Beweisaufnahme; deshalb vor dem Termin einen konkreten Draft Timetable vorbereiten.
+
+1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
+2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
+3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
+4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
+5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
+
+## Red Flags
+
+- Commercial-Court-Zuständigkeit oder englische Sprache wird nur behauptet, aber nicht aus Klausel, Gesetz und Landesrecht hergeleitet.
+- Englischer Schriftsatz klingt wie US-Litigation und enthält keine ZPO-tauglichen Beweisangebote.
+- Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
+- Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
+- Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
+
+---
+
+## Skill: `cross-border-default-judgment`
+
+_Wenn es um Cross-Border Jurisdiction in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# Cross-Border Jurisdiction
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: GVG §§ 119, 119b (Commercial Court), ZPO §§ 184a, 614, 1025-1066, AGGVG der Länder, EU-VO 1215/2012 (Brüssel Ia) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Cross-Border Jurisdiction
+- **Normen-/Quellenanker:** Commercial Courts/Commercial Chambers der Länder, ZPO, GVG, Zuständigkeit, Sprachwahl Englisch/Deutsch, Wortprotokoll, Geheimnisschutz und internationale Zustellung.
+- **Entscheidende Weiche:** Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Einstieg
+
+Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
+
+1. Soll der Output auf Deutsch, Englisch oder zweisprachig sein?
+2. Welches Gericht/Forum ist vorgesehen oder vereinbart?
+3. Welche Klausel, welcher Streitwert und welche Parteien liegen vor?
+4. Welche Frist oder Verfahrenshandlung steht als nächstes an?
+5. Welche Unterlagen sind schon da: contract, correspondence, notices, expert report, exhibits, prior pleadings?
+
+## Arbeitsworkflow
+
+1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
+2. **Anwendungsbereich prüfen:** Brüssel Ia (VO Nr. 1215/2012) für EU-Beklagte mit Sitz in Mitgliedstaat (Art. 4 Brüssel Ia); Haager Übereinkommen über Gerichtsstandsvereinbarungen (HGÜ 2005) im Verhältnis zu UK seit 1.1.2021 sowie Singapur und Mexiko; Lugano-Übereinkommen (2007) im Verhältnis Schweiz, Norwegen, Island; in allen übrigen Fällen autonomes deutsches Recht (§§ 12 ff. ZPO i.V.m. §§ 38, 40 ZPO Gerichtsstandsvereinbarung).
+3. **Gerichtsstandsvereinbarung Art. 25 Brüssel Ia:** Schriftform oder elektronische Aufzeichnung, eindeutige Bezeichnung des Gerichts; bei Verbrauchern, Versicherten oder Arbeitnehmern sind Vereinbarungen nur eingeschränkt möglich (Art. 15, 19, 23 Brüssel Ia). Bei nicht-ausschließlichen Klauseln aufpassen: Erstanrufung sichert Forum, sonst lis pendens-Regel Art. 29 Brüssel Ia (Italian Torpedo).
+4. **Lis pendens und Anti-suit:** Art. 29 Brüssel Ia Erstanrufungsprinzip; bei ausschließlicher Gerichtsstandsvereinbarung Art. 31 Abs. 2 Brüssel Ia Vorrang des vereinbarten Gerichts. EuGH: Anti-suit-Injunctions gegen EU-Gerichte unzulässig (West Tankers-Doktrin); im Verhältnis zu Drittstaaten möglich, aber von deutschen Gerichten nicht anerkannt.
+5. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären. Nächsten Schritt: Zuständigkeitsrüge § 39 ZPO oder positive Anrufung Commercial Court mit Forum-Klausel als Anlage; Vollstreckbarerklärung-Frage frühzeitig mitdenken (§§ 1110 ff. ZPO, Verordnungen).
+
+## Red Flags
+
+- Commercial-Court-Zuständigkeit oder englische Sprache wird nur behauptet, aber nicht aus Klausel, Gesetz und Landesrecht hergeleitet.
+- Englischer Schriftsatz klingt wie US-Litigation und enthält keine ZPO-tauglichen Beweisangebote.
+- Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
+- Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
+- Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
+
+---
+
+## Skill: `default-judgment-and-nonappearance`
+
+_Wenn es um Default and Nonappearance in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# Default and Nonappearance
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: GVG §§ 119, 119b (Commercial Court), ZPO §§ 184a, 614, 1025-1066, AGGVG der Länder, EU-VO 1215/2012 (Brüssel Ia) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Default and Nonappearance
+- **Normen-/Quellenanker:** Commercial Courts/Commercial Chambers der Länder, ZPO, GVG, Zuständigkeit, Sprachwahl Englisch/Deutsch, Wortprotokoll, Geheimnisschutz und internationale Zustellung.
+- **Entscheidende Weiche:** Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Einstieg
+
+Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
+
+1. Soll der Output auf Deutsch, Englisch oder zweisprachig sein?
+2. Welches Gericht/Forum ist vorgesehen oder vereinbart?
+3. Welche Klausel, welcher Streitwert und welche Parteien liegen vor?
+4. Welche Frist oder Verfahrenshandlung steht als nächstes an?
+5. Welche Unterlagen sind schon da: contract, correspondence, notices, expert report, exhibits, prior pleadings?
+
+## Arbeitsworkflow
+
+1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
+2. **Säumnistatbestände (§§ 330-347 ZPO):** Säumnis des Klägers § 330 ZPO (Klageabweisung), Säumnis des Beklagten § 331 ZPO (Vorbringen des Klägers gilt als zugestanden, Versäumnisurteil bei Schlüssigkeit); Säumnis im schriftlichen Vorverfahren § 276 i.V.m. § 331 Abs. 3 ZPO. Bei Commercial Court mit englischer Sprache: Säumnisurteil kann in englischer Sprache ergehen, Vollstreckung im Ausland setzt aber deutschen Vollstreckungstitel voraus (Art. 53 Brüssel Ia Bescheinigung).
+3. **Einspruch und Wiedereinsetzung (§§ 338-345, 233 ZPO):** Einspruchsfrist 2 Wochen ab Zustellung (§ 339 ZPO); Wiedereinsetzung in den vorigen Stand bei unverschuldeter Versäumung (§ 233 ZPO, Antrag binnen 2 Wochen ab Wegfall des Hindernisses). Bei zulässigem Einspruch wird das Verfahren in die Lage zurückversetzt, in der es vor der Säumnis war (§ 342 ZPO).
+4. **Anerkenntnisurteil (§ 307 ZPO) und taktische Nichtteilnahme:** Anerkenntnis hat unmittelbar Urteilsfolge; Trade-off: schnelles, vollstreckbares Urteil ohne Kostenrisiko der Beweisaufnahme, aber materielle Kostenfolge je Tatbestand (§ 93 ZPO: bei sofortigem Anerkenntnis ohne Anlass zur Klage trägt der Kläger die Kosten). Taktische Säumnis (z.B. um Versäumnisurteil mit Einspruchsoption als Verzögerungsstrategie) wird von deutschen Gerichten zunehmend rechtsmissbräuchlich gewertet, Vorsicht bei Wiederholung.
+5. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären. Nächsten Schritt: Säumnisantrag, Einspruchsfrist im Fristenbuch, Vollstreckungstitel zur Bescheinigung Art. 53 Brüssel Ia.
+
+## Red Flags
+
+- Commercial-Court-Zuständigkeit oder englische Sprache wird nur behauptet, aber nicht aus Klausel, Gesetz und Landesrecht hergeleitet.
+- Englischer Schriftsatz klingt wie US-Litigation und enthält keine ZPO-tauglichen Beweisangebote.
+- Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
+- Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
+- Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
+
+---
+
+## Skill: `public-hearing-appeal-revision`
+
+_Wenn es um Öffentlichkeit und Presse in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# Öffentlichkeit und Presse
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: GVG §§ 119, 119b (Commercial Court), ZPO §§ 184a, 614, 1025-1066, AGGVG der Länder, EU-VO 1215/2012 (Brüssel Ia) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Öffentlichkeit und Presse
+- **Normen-/Quellenanker:** Commercial Courts/Commercial Chambers der Länder, ZPO, GVG, Zuständigkeit, Sprachwahl Englisch/Deutsch, Wortprotokoll, Geheimnisschutz und internationale Zustellung.
+- **Entscheidende Weiche:** Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Einstieg
+
+Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
+
+1. Soll der Output auf Deutsch, Englisch oder zweisprachig sein?
+2. Welches Gericht/Forum ist vorgesehen oder vereinbart?
+3. Welche Klausel, welcher Streitwert und welche Parteien liegen vor?
+4. Welche Frist oder Verfahrenshandlung steht als nächstes an?
+5. Welche Unterlagen sind schon da: contract, correspondence, notices, expert report, exhibits, prior pleadings?
+
+## Arbeitsworkflow
+
+1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
+2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
+3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
+4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
+5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
+
+## Red Flags
+
+- Commercial-Court-Zuständigkeit oder englische Sprache wird nur behauptet, aber nicht aus Klausel, Gesetz und Landesrecht hergeleitet.
+- Englischer Schriftsatz klingt wie US-Litigation und enthält keine ZPO-tauglichen Beweisangebote.
+- Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
+- Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
+- Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
+
+---
+
+## Skill: `hearing-script-english-advocacy`
+
+_Wenn es um English Hearing Advocacy in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# English Hearing Advocacy
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: GVG §§ 119, 119b (Commercial Court), ZPO §§ 184a, 614, 1025-1066, AGGVG der Länder, EU-VO 1215/2012 (Brüssel Ia) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: English Hearing Advocacy
+- **Normen-/Quellenanker:** Commercial Courts/Commercial Chambers der Länder, ZPO, GVG, Zuständigkeit, Sprachwahl Englisch/Deutsch, Wortprotokoll, Geheimnisschutz und internationale Zustellung.
+- **Entscheidende Weiche:** Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Einstieg
+
+Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
+
+1. Soll der Output auf Deutsch, Englisch oder zweisprachig sein?
+2. Welches Gericht/Forum ist vorgesehen oder vereinbart?
+3. Welche Klausel, welcher Streitwert und welche Parteien liegen vor?
+4. Welche Frist oder Verfahrenshandlung steht als nächstes an?
+5. Welche Unterlagen sind schon da: contract, correspondence, notices, expert report, exhibits, prior pleadings?
+
+## Arbeitsworkflow
 
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
 2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
@@ -640,7 +521,7 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 ## Skill: `post-ma-pre-litigation`
 
-_Bearbeitet Post-M&A Warranty Claims vor Commercial Courts: notice, knowledge qualifiers, baskets, caps, leakage, earn-out, accounts and expert determination im Commercial Courts Deutschland._
+_Wenn es um Post-M&A Warranty Claims in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
 # Post-M&A Warranty Claims
 
@@ -708,11 +589,11 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 ---
 
-## Skill: `interim-relief-issues-list`
+## Skill: `confidentiality-trade-contract-interpretation`
 
-_Prüft einstweilige Verfügung, Arrest und interim relief im Commercial-Court-Umfeld, einschließlich Eilbedürftigkeit, Sicherheitsleistung und Vollziehung im Commercial Courts Deutschland._
+_Wenn es um Confidentiality and Trade Secrets in commercial-courts-deutschland geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Interim Relief
+# Confidentiality and Trade Secrets
 
 ## Arbeitsweg
 
@@ -722,7 +603,7 @@ _Prüft einstweilige Verfügung, Arrest und interim relief im Commercial-Court-U
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Interim Relief
+## Fachkern: Confidentiality and Trade Secrets
 - **Normen-/Quellenanker:** Commercial Courts/Commercial Chambers der Länder, ZPO, GVG, Zuständigkeit, Sprachwahl Englisch/Deutsch, Wortprotokoll, Geheimnisschutz und internationale Zustellung.
 - **Entscheidende Weiche:** Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -739,37 +620,40 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 ## Arbeitsworkflow
 
-### Einstweiliger Rechtsschutz — Übersicht
+Besondere Anker: § 273a ZPO, GeschGehG und gerichtliche Geheimhaltungsanordnungen. Immer trennen: Was ist Geheimnis, wer darf es sehen, wie wird es zitiert, was passiert bei Verstoß?
 
-| Maßnahme | Norm | Schutzobjekt | Voraussetzungen | Zuständig |
-| --- | --- | --- | --- | --- |
-| Arrest | § 916 ZPO | Geldforderung | Arrestanspruch + Arrestgrund (Vereitelungsgefahr) | LG/AG je nach Streitwert; bei Commercial Court Streit i.V.m. § 119b GVG |
-| Einstweilige Verfügung — Sicherungsverfügung | § 935 ZPO | Anspruch außer Geld (Sicherung des Streitgegenstands) | Verfügungsanspruch + Verfügungsgrund | dito |
-| Einstweilige Verfügung — Regelungsverfügung | § 940 ZPO | vorläufige Regelung eines Rechtsverhältnisses | Verfügungsanspruch + Verfügungsgrund | dito |
-| Einstweilige Verfügung — Leistungsverfügung | gewohnheitsrechtlich (BGH ständige Rechtsprechung); § 935 ZPO analog | vorübergehende Befriedigung (z.B. Wettbewerbsverstoß) | strenge Anforderungen | dito |
-| ARRest auf Patentstreit, Pre-Trial | § 916 ZPO i.V.m. ZPO Spezialnormen | Geldforderung | strenge Anforderungen Geheimhaltung | LG-Patentkammer |
+### Geheimnisschutz-Kaskade
 
-### Verfügungsgrund / Eilbedürftigkeit
-
-| Argument | Inhalt | Praxis |
+| Stufe | Norm/Mittel | Wirkung |
 | --- | --- | --- |
-| Vermögenswerteflucht | Vermögensentzug, Verschiebung ins Ausland | bei Auslandsbezug stark |
-| Drohende Verkaufshandlung | irreversibler Verlust des Schutzguts | typisch IP-Verletzung |
-| Insolvenznähe der Gegenseite | Schutzbedürfnis vor anderen Gläubigern | Insolvenzantragspflicht § 15a InsO |
-| Verstreichen einer Klage- oder Verjährungsfrist | Anspruch verfällt | für Eilbedürftigkeit relevant |
-| Vorgreifliche Tatsachen | Beweismittel würden verloren gehen | § 485 ZPO selbständiges Beweisverfahren parallel |
+| Vorprozessual NDA | § 311 Abs. 2 BGB i.V.m. § 280 BGB | vertraglicher Schadensersatz, Vertragsstrafe |
+| Geheimhaltungsantrag | § 273a ZPO i.V.m. §§ 16-20 GeschGehG | Einstufung Information als geheimhaltungsbedürftig, Personenkreis begrenzen |
+| Vertrauliche Aktenführung | § 174 Abs. 3 GVG (Ausschluss Öffentlichkeit) | Ausschluss bei Erörterung, geheime Aktenteile |
+| In-camera-ähnliche Sichtung | GeschGehG analog, "Düsseldorfer Praxis" | nur Anwälte und Sachverständige sehen Geheimnis, nicht die Partei selbst |
+| Geschwärzte Anlagen (redactions) | § 132 ZPO i.V.m. Geheimhaltungsanordnung | Geheimnis bleibt aus dem Schriftsatz |
+| Aktenversiegelung | § 299 ZPO Einsicht | bei Berechtigtem Interesse Dritter |
+| Pseudonymisierung Urteil | § 169 GVG | bei Veröffentlichung Schutz der Identität |
 
-### Trade-off und Praxistipp
+### Anforderungen Geschäftsgeheimnis (§ 2 Nr. 1 GeschGehG)
 
-- **Sicherheitsleistung § 921 ZPO:** Bei eV regelmäßig Sicherheitsleistung verlangt; Bürgschaft einer deutschen Großbank typisch (5-25 % der Forderungssumme).
-- **Schadensersatzrisiko § 945 ZPO:** Bei nachträglicher Aufhebung der eV trägt Antragsteller verschuldensunabhängige Schadenshaftung. Daher: vorher gründlich prüfen.
-- **Mündliche Verhandlung oder Beschluss:** Bei Antrag ohne mündliche Verhandlung schneller; Gegner kann jedoch Widerspruch nach § 924 ZPO einlegen, dann doch Verhandlung.
-- **Internationale Wirkung:** Brüssel Ia-VO Art. 36 ermöglicht Anerkennung in EU. Für USA/Asien: dort eigenes Eilverfahren notwendig.
-- **Vollziehungsfrist § 929 Abs. 2 ZPO:** Beschluss muss binnen einem Monat ab Erlass dem Gegner zugestellt sein, sonst Wirkungsverlust. KRITISCH bei Auslandsstoff (Haager Zustellungsübereinkommen, mehrere Wochen).
+1. Information ist weder allgemein bekannt noch ohne weiteres zugänglich.
+2. Wirtschaftlicher Wert wegen Geheimhaltung.
+3. Den Umständen nach angemessene Geheimhaltungsmaßnahmen (Zugriffsbeschränkung, NDA, Klassifizierung).
+4. Berechtigtes Interesse an Geheimhaltung.
 
-### Schutzschrift § 945a ZPO
+Punkt 3 ist häufiger Streitpunkt: ohne dokumentierte Schutzmaßnahmen kein Geschäftsgeheimnis. Daher: NDA-Doppelt, Zugangsprotokoll, Need-to-know-Prinzip.
 
-Wer Eilanträge gegen sich erwartet (z.B. nach Abmahnung), kann eine Schutzschrift einreichen: Vorabverteidigung, die das Gericht vor Erlass des eV-Beschlusses berücksichtigen muss. Hinterlegt zentral beim Schutzschriftenregister.
+### Sanktion bei Verstoß
+
+- Ordnungsgeld bis 100.000 EUR, ggf. Ordnungshaft (§ 17 GeschGehG).
+- Strafbarkeit §§ 23 GeschGehG bei vorsätzlicher Verletzung.
+- Zivilrechtlicher Unterlassungs- und Schadensersatzanspruch §§ 6, 10 GeschGehG.
+
+1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
+2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
+3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
+4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
+5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
 
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
 2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
@@ -787,11 +671,11 @@ Wer Eilanträge gegen sich erwartet (z.B. nach Abmahnung), kann eine Schutzschri
 
 ---
 
-## Skill: `witness-preparation-zustandigkeit-119b`
+## Skill: `jurisdiction-clause-drafting-de-en`
 
-_Bereitet Zeugen in englischsprachigen deutschen Verfahren vor: Wahrheitspflicht, keine Coaching-Grenzüberschreitung, Sprachsicherheit, Dokumente, Ablauf im Commercial Courts Deutschland._
+_Wenn es um Klauselgestaltung DE/EN in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Witness Preparation
+# Klauselgestaltung DE/EN
 
 ## Arbeitsweg
 
@@ -801,7 +685,7 @@ _Bereitet Zeugen in englischsprachigen deutschen Verfahren vor: Wahrheitspflicht
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Witness Preparation
+## Fachkern: Klauselgestaltung DE/EN
 - **Normen-/Quellenanker:** Commercial Courts/Commercial Chambers der Länder, ZPO, GVG, Zuständigkeit, Sprachwahl Englisch/Deutsch, Wortprotokoll, Geheimnisschutz und internationale Zustellung.
 - **Entscheidende Weiche:** Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -818,167 +702,33 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 ## Arbeitsworkflow
 
-1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
-2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
-3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
-4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
-5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
+### Klauselgestaltung Commercial Court / Sprache (Musterbausteine)
 
-## Red Flags
+#### Mustervariante A — Commercial Chamber LG mit Englisch (B2B-Vertrag)
 
-- Commercial-Court-Zuständigkeit oder englische Sprache wird nur behauptet, aber nicht aus Klausel, Gesetz und Landesrecht hergeleitet.
-- Englischer Schriftsatz klingt wie US-Litigation und enthält keine ZPO-tauglichen Beweisangebote.
-- Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
-- Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
-- Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
+> **Gerichtsstand und Verfahrenssprache.** Ausschließlicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist das Landgericht [Stadt], Commercial Chamber (§§ 95, 184a GVG i.V.m. [Landesverordnung]). Die Parteien vereinbaren Englisch als Verfahrenssprache nach § 184a Abs. 1 GVG. Beide Parteien beantragen einvernehmlich, dass das Verfahren einschließlich der mündlichen Verhandlung, des Protokolls und des Urteils in englischer Sprache geführt wird.
+>
+> Jurisdiction and Language of Proceedings. The exclusive place of jurisdiction for all disputes arising out of or in connection with this contract shall be the Regional Court (Landgericht) of [city], Commercial Chamber (sections 95, 184a German Courts Constitution Act in conjunction with the relevant State Ordinance). The parties agree on English as the language of proceedings pursuant to section 184a paragraph 1 German Courts Constitution Act. Both parties jointly request that the proceedings, including the oral hearing, the record and the judgment, shall be conducted in English.
 
----
+#### Mustervariante B — Commercial Court OLG mit Englisch (Mid-/Big-Cap-SPA)
 
-## Skill: `english-legal-writing-for-german-courts`
+> **Forum und Verfahrenssprache.** Ausschließlicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist der Commercial Court beim Oberlandesgericht [Stadt] (§ 119b GVG i.V.m. [Landesverordnung]). Verfahrenssprache ist Englisch (§ 184a GVG). Im Falle einer Revision durch den Bundesgerichtshof gilt die Englisch-Vereinbarung auch dort (§ 184b GVG).
+>
+> Forum and Language. The exclusive place of jurisdiction for all disputes arising out of or in connection with this contract shall be the Commercial Court at the Higher Regional Court (Oberlandesgericht) of [city] (section 119b German Courts Constitution Act in conjunction with the relevant State Ordinance). The language of proceedings shall be English (section 184a German Courts Constitution Act). In the event of an appeal on points of law (revision) to the Federal Court of Justice, the English-language agreement shall extend to those proceedings (section 184b German Courts Constitution Act).
 
-_Verbessert englische Schriftsätze für deutsche Gerichte: klar, zpo-tauglich, ohne US-Discovery-Duktus, mit sauberem Tatsachenvortrag und Beweisangebot im Commercial Courts Deutschland._
+#### Mustervariante C — Hybrid mit Schiedsklausel-Fall-Back
 
-# English Legal Writing
+> **Streitbeilegung.** Die Parteien werden zunächst nach Treu und Glauben verhandeln. Können sie sich nicht innerhalb von 30 Tagen einigen, wird die Streitigkeit ausschließlich vor dem Commercial Court beim OLG [Stadt] in englischer Sprache (§§ 119b, 184a GVG) entschieden. Bei Streitigkeiten über vertrauliche Geschäftsgeheimnisse i.S.d. GeschGehG können die Parteien gemeinsam ein Schiedsverfahren nach DIS-Regeln (Sitz: [Stadt], Sprache: Englisch) wählen.
 
-## Arbeitsweg
+### Drei klassische Drafting-Fallen
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GVG §§ 119, 119b (Commercial Court), ZPO §§ 184a, 614, 1025-1066, AGGVG der Länder, EU-VO 1215/2012 (Brüssel Ia) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: English Legal Writing
-- **Normen-/Quellenanker:** Commercial Courts/Commercial Chambers der Länder, ZPO, GVG, Zuständigkeit, Sprachwahl Englisch/Deutsch, Wortprotokoll, Geheimnisschutz und internationale Zustellung.
-- **Entscheidende Weiche:** Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Einstieg
-
-Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
-
-1. Soll der Output auf Deutsch, Englisch oder zweisprachig sein?
-2. Welches Gericht/Forum ist vorgesehen oder vereinbart?
-3. Welche Klausel, welcher Streitwert und welche Parteien liegen vor?
-4. Welche Frist oder Verfahrenshandlung steht als nächstes an?
-5. Welche Unterlagen sind schon da: contract, correspondence, notices, expert report, exhibits, prior pleadings?
-
-## Arbeitsworkflow
-
-1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen. Sprache rechtlich nach §§ 184 ff. GVG i.V.m. Landesverordnung gesichert (mit Inkrafttreten Justizstandort-Stärkungsgesetz von 2024 erweitert).
-2. **Struktur deutsche ZPO-Schriftsatz auf Englisch:** Anträge ("Requests for relief"), Sachverhalt ("Statement of facts" / "factual background"), rechtliche Würdigung ("legal assessment" / "legal grounds"), Beweisangebote ("offer of evidence" mit Anlagenbezeichnung K1, K2, ...). Vermeiden: "Counts" oder "Causes of action" (US-Stil), "Prayer for relief" (zu Common-Law), "Plaintiff hereby moves for..." (verkürzt).
-3. **Substantiierungsstandard wahren:** Jeder Tatsachenvortrag konkret, mit Datum, Ort, Beteiligten und Bezug zu Anlage; keine "notice pleading" wie unter FRCP. Beweisangebote: Zeugen mit Name und ladungsfähiger Anschrift, Urkunden mit konkreter Bezeichnung (Anlage K-Nummer), Sachverständige mit Themenbereich, Parteivernehmung als Hilfsbeweis.
-4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären. Tonalität: nüchtern, professionell, ohne Verstärker ("clearly", "obviously"), ohne emotional aufgeladene Sprache ("egregious", "outrageous").
-5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
-
-## Red Flags
-
-- Commercial-Court-Zuständigkeit oder englische Sprache wird nur behauptet, aber nicht aus Klausel, Gesetz und Landesrecht hergeleitet.
-- Englischer Schriftsatz klingt wie US-Litigation und enthält keine ZPO-tauglichen Beweisangebote.
-- Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
-- Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
-- Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
-
----
-
-## Skill: `hearing-script-english-advocacy`
-
-_Erstellt englische Hearing Scripts für deutsche Anwälte: opening, issue roadmap, witness questions, judicial questions, closing and settlement signals im Commercial Courts Deutschland._
-
-# English Hearing Advocacy
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GVG §§ 119, 119b (Commercial Court), ZPO §§ 184a, 614, 1025-1066, AGGVG der Länder, EU-VO 1215/2012 (Brüssel Ia) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: English Hearing Advocacy
-- **Normen-/Quellenanker:** Commercial Courts/Commercial Chambers der Länder, ZPO, GVG, Zuständigkeit, Sprachwahl Englisch/Deutsch, Wortprotokoll, Geheimnisschutz und internationale Zustellung.
-- **Entscheidende Weiche:** Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Einstieg
-
-Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
-
-1. Soll der Output auf Deutsch, Englisch oder zweisprachig sein?
-2. Welches Gericht/Forum ist vorgesehen oder vereinbart?
-3. Welche Klausel, welcher Streitwert und welche Parteien liegen vor?
-4. Welche Frist oder Verfahrenshandlung steht als nächstes an?
-5. Welche Unterlagen sind schon da: contract, correspondence, notices, expert report, exhibits, prior pleadings?
-
-## Arbeitsworkflow
-
-1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
-2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
-3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
-4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
-5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
-
-## Red Flags
-
-- Commercial-Court-Zuständigkeit oder englische Sprache wird nur behauptet, aber nicht aus Klausel, Gesetz und Landesrecht hergeleitet.
-- Englischer Schriftsatz klingt wie US-Litigation und enthält keine ZPO-tauglichen Beweisangebote.
-- Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
-- Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
-- Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
-
----
-
-## Skill: `bgh-english-bilingual-client`
-
-_Routet englischsprachige Fortführung vor dem Bundesgerichtshof: Voraussetzungen, Übersetzungen, Revisionsbegründung, Tenor und Mandantenkommunikation im Commercial Courts Deutschland._
-
-# BGH in English
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GVG §§ 119, 119b (Commercial Court), ZPO §§ 184a, 614, 1025-1066, AGGVG der Länder, EU-VO 1215/2012 (Brüssel Ia) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: BGH in English
-- **Normen-/Quellenanker:** Commercial Courts/Commercial Chambers der Länder, ZPO, GVG, Zuständigkeit, Sprachwahl Englisch/Deutsch, Wortprotokoll, Geheimnisschutz und internationale Zustellung.
-- **Entscheidende Weiche:** Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Einstieg
-
-Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
-
-1. Soll der Output auf Deutsch, Englisch oder zweisprachig sein?
-2. Welches Gericht/Forum ist vorgesehen oder vereinbart?
-3. Welche Klausel, welcher Streitwert und welche Parteien liegen vor?
-4. Welche Frist oder Verfahrenshandlung steht als nächstes an?
-5. Welche Unterlagen sind schon da: contract, correspondence, notices, expert report, exhibits, prior pleadings?
-
-## Arbeitsworkflow
-
-### BGH-Revision auf Englisch nach § 184b GVG
-
-Das Justizstandort-Stärkungsgesetz hat § 184b GVG eingeführt: Revision vor dem BGH kann in englischer Sprache geführt werden, wenn die Vorinstanz (Commercial Court oder Commercial Chamber) auf Englisch verhandelt hat und beide Parteien zustimmen.
-
-| Verfahrensschritt | Praxishinweis | Norm |
+| Falle | Folge | Empfehlung |
 | --- | --- | --- |
-| Voraussetzung erstinstanzliches Verfahren | mündliche Verhandlung und Urteil in Englisch (§ 184a GVG) | § 184b Abs. 1 GVG |
-| Antrag bei BGH | förmlicher Antrag, Zustimmung beider Parteien | § 184b Abs. 1 Satz 1 GVG |
-| Anwalt für BGH | nur am BGH zugelassener Rechtsanwalt § 78 ZPO Abs. 1 Satz 3 ZPO i.V.m. §§ 162 ff. BRAO | Sprachkenntnisse zwingend; Liste BGH-Anwälte sehr begrenzt |
-| Revisionsbegründung | innerhalb der Frist § 551 ZPO; in Englisch zulässig | nur Rechtsfragen, kein neuer Tatsachenvortrag (§ 559 ZPO) |
-| Mündliche Verhandlung | sofern BGH zulässt; oft schriftliches Verfahren | Sprache Englisch |
-| Tenor und Begründung | Englisch zulässig; für Vollstreckung Übersetzung nach § 110 ZPO bzw. Brüssel Ia-VO Art. 42 | praxisrelevant |
-| Veröffentlichung | BGH-Datenbank meist deutsch; englische Originalfassung als Anlage | § 169 GVG |
-| Streitwert | Revisionsbeschwer § 26 Nr. 8 EGZPO (z.Zt. 20.000 EUR Mindestbeschwer für Nichtzulassungsbeschwerde) | live aktuelle Schwelle prüfen |
-
-### Trade-off Englisch versus Übersetzung
-
-- **Englisch bis BGH:** spart Übersetzungskosten und Brüche; aber sehr enger Anwaltskreis (BGH-Anwälte mit Englisch-Praxis).
-- **Schwächen:** Anlagen aus früheren Verfahren oft Deutsch; nicht alle BGH-Senate haben Spracherfahrung; bei Aufhebung und Zurückverweisung muss Tatsacheninstanz die Sprache fortführen können.
-- **Praktiker-Tipp:** Bereits in Klage und Berufung BGH-Anwalt einbinden, der später Revision führen kann.
+| Verbraucherbeteiligung | § 38 ZPO Gerichtsstandsvereinbarung mit Verbrauchern grundsätzlich unwirksam | nur in echten B2B-Verträgen wählen; AGB-Kontrolle § 307 BGB beachten |
+| Asymmetrische Gerichtsstandsklausel (eine Partei wählt, andere nicht) | Diskussion in BGH-Rechtsprechung zur Wirksamkeit | symmetrisch formulieren |
+| Wahl eines nicht zuständigen LG/OLG | Anrufung wird wegen örtlicher Unzuständigkeit verwiesen § 281 ZPO | Liste der zuständigen Standorte live prüfen |
+| Sprachwahl ohne Spruchkörper-Kapazität | gerichtliche Ablehnung möglich | vorab beim Gerichtspräsidium klären |
+| Schiedsklausel im Gesellschaftsvertrag GmbH | "Schiedsfähigkeit II"-Anforderungen BGH ständige Rechtsprechung | besondere Klauseln nötig für Beschlussmängelklagen |
 
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
 2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
@@ -994,34 +744,154 @@ Das Justizstandort-Stärkungsgesetz hat § 184b GVG eingeführt: Revision vor de
 - Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
 - Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
 
-## Normen und Rechtsprechung
+---
 
-### Kuratierte Normen-Bibliothek
+## Skill: `supply-chain-third-party`
 
-- § 184a GVG
-- § 184b GVG
-- § 119b GVG
-- § 93 AktG
-- § 246 AktG
-- § 43 GmbHG
-- § 3a RVG
-- § 169 GVG
-- § 185 GVG
-- § 174 GVG
-- § 16 GeschGehG
-- § 23 GVG
+_Wenn es um Supply Chain Disputes in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-### Leitentscheidungen
+# Supply Chain Disputes
 
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: GVG §§ 119, 119b (Commercial Court), ZPO §§ 184a, 614, 1025-1066, AGGVG der Länder, EU-VO 1215/2012 (Brüssel Ia) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Supply Chain Disputes
+- **Normen-/Quellenanker:** Commercial Courts/Commercial Chambers der Länder, ZPO, GVG, Zuständigkeit, Sprachwahl Englisch/Deutsch, Wortprotokoll, Geheimnisschutz und internationale Zustellung.
+- **Entscheidende Weiche:** Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Einstieg
+
+Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
+
+1. Soll der Output auf Deutsch, Englisch oder zweisprachig sein?
+2. Welches Gericht/Forum ist vorgesehen oder vereinbart?
+3. Welche Klausel, welcher Streitwert und welche Parteien liegen vor?
+4. Welche Frist oder Verfahrenshandlung steht als nächstes an?
+5. Welche Unterlagen sind schon da: contract, correspondence, notices, expert report, exhibits, prior pleadings?
+
+## Arbeitsworkflow
+
+1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
+2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
+3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
+4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
+5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
+
+## Red Flags
+
+- Commercial-Court-Zuständigkeit oder englische Sprache wird nur behauptet, aber nicht aus Klausel, Gesetz und Landesrecht hergeleitet.
+- Englischer Schriftsatz klingt wie US-Litigation und enthält keine ZPO-tauglichen Beweisangebote.
+- Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
+- Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
+- Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
+
+---
+
+## Skill: `judgment-publication-jurisdiction-clause`
+
+_Wenn es um Judgment Publication in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# Judgment Publication
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: GVG §§ 119, 119b (Commercial Court), ZPO §§ 184a, 614, 1025-1066, AGGVG der Länder, EU-VO 1215/2012 (Brüssel Ia) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Judgment Publication
+- **Normen-/Quellenanker:** Commercial Courts/Commercial Chambers der Länder, ZPO, GVG, Zuständigkeit, Sprachwahl Englisch/Deutsch, Wortprotokoll, Geheimnisschutz und internationale Zustellung.
+- **Entscheidende Weiche:** Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Einstieg
+
+Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
+
+1. Soll der Output auf Deutsch, Englisch oder zweisprachig sein?
+2. Welches Gericht/Forum ist vorgesehen oder vereinbart?
+3. Welche Klausel, welcher Streitwert und welche Parteien liegen vor?
+4. Welche Frist oder Verfahrenshandlung steht als nächstes an?
+5. Welche Unterlagen sind schon da: contract, correspondence, notices, expert report, exhibits, prior pleadings?
+
+## Arbeitsworkflow
+
+1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
+2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
+3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
+4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
+5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
+
+## Red Flags
+
+- Commercial-Court-Zuständigkeit oder englische Sprache wird nur behauptet, aber nicht aus Klausel, Gesetz und Landesrecht hergeleitet.
+- Englischer Schriftsatz klingt wie US-Litigation und enthält keine ZPO-tauglichen Beweisangebote.
+- Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
+- Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
+- Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
+
+---
+
+## Skill: `third-party-notice-607-zpo`
+
+_Wenn es um Third Party Notice in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# Third Party Notice
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: GVG §§ 119, 119b (Commercial Court), ZPO §§ 184a, 614, 1025-1066, AGGVG der Länder, EU-VO 1215/2012 (Brüssel Ia) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Third Party Notice
+- **Normen-/Quellenanker:** Commercial Courts/Commercial Chambers der Länder, ZPO, GVG, Zuständigkeit, Sprachwahl Englisch/Deutsch, Wortprotokoll, Geheimnisschutz und internationale Zustellung.
+- **Entscheidende Weiche:** Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Einstieg
+
+Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
+
+1. Soll der Output auf Deutsch, Englisch oder zweisprachig sein?
+2. Welches Gericht/Forum ist vorgesehen oder vereinbart?
+3. Welche Klausel, welcher Streitwert und welche Parteien liegen vor?
+4. Welche Frist oder Verfahrenshandlung steht als nächstes an?
+5. Welche Unterlagen sind schon da: contract, correspondence, notices, expert report, exhibits, prior pleadings?
+
+## Arbeitsworkflow
+
+Besondere Anker: § 607 ZPO zur Einbeziehung Dritter in englischsprachigen Verfahren. Der Dritte kann bei fehlendem Sprachverständnis widersprechen; Übersetzung, Zustellungszeitpunkt und Fristenwirkung müssen minutiös geplant werden.
+
+1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
+2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
+3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
+4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
+5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
+
+## Red Flags
+
+- Commercial-Court-Zuständigkeit oder englische Sprache wird nur behauptet, aber nicht aus Klausel, Gesetz und Landesrecht hergeleitet.
+- Englischer Schriftsatz klingt wie US-Litigation und enthält keine ZPO-tauglichen Beweisangebote.
+- Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
+- Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
+- Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

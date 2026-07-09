@@ -1,6 +1,6 @@
 # strassenverkehrsrecht-stvo
 
-**117 Skills** · Stand `v429.12.0`
+**117 Skills** · Stand `v429.13.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/strassenverkehrsrecht-stvo/README.md)

@@ -58,9 +58,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 543 Abs. 1 und 2 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 18.03.2015 - VIII ZR 185/14: formularmäßige Quotenabgeltungsklauseln in Wohnraummietverträgen sind unwirksam.
 - BGH, Urteil vom 18.03.2015 - VIII ZR 242/13: Schönheitsreparaturen bei unrenoviert überlassener Wohnung können formularmäßig nicht ohne Ausgleich überwaelzt werden.
-- Verifizierte Anker: BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025
-- Paragraf 556 Abs. 3 BGB aktuell prüfen. BGH, Urteil vom 12.11.2014 - VIII ZR 112/14 als Zugangswarnung nur mit frei prüfbarer Quelle verwenden. Keine Blindfundstellen
-- Zahlungsbelege mitverlangen, wenn der Zahlungsfluss für die Abrechnung relevant ist. BGH, Urteil vom 09.12.2020 - VIII ZR 118/19
 
 ## 7. Antwortform
 

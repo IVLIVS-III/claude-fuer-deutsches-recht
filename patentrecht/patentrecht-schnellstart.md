@@ -58,8 +58,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 140a PatG: Vernichtung; Paragraf 140b PatG: Auskunftsanspruch: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schoepfung als unionsrechtlichen Werkanker.
 - EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
-- FRAND-Pflichten bei SEP: EuGH Huawei/ZTE, C-170/13, Urt. v. 16.07.2015
-- Wortsinn vor Äquivalenz: Erst exakte Merkmalsverwirklichung prüfen; dann Äquivalenz nach BGH "Schneidmesser I/II" (X ZR 168/00) — gleiche Wirkung, naheliegende Auffindbarkeit, Gleichwertigkeit
 
 ## 7. Antwortform
 

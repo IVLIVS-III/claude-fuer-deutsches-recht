@@ -1,27 +1,27 @@
-# Megaprompt: fachanwalt-sportrecht
+# Vollprüfung: fachanwalt-sportrecht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 77 Skills des Plugins `fachanwalt-sportrecht`.
+Dieser Vollprüfung enthaelt top-10 von 77 Skills des Plugins `fachanwalt-sportrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für Fachanwalt Sportrecht: ordnet Rolle (Sportler, Verein/Verband, Disziplinarausschuss), m…
-2. **mandat-triage-sportrecht** — Sportrechtliches Mandat eintrifft und muss strukturiert erfasst werden: Mandantenrolle Sachgebiet Sofort-Fristen: Verban…
-3. **fachanwalt-sportrecht-orientierung** — Anwalt will Fachanwaltschaft Sportrecht erwerben oder Mandat im Sportrecht bearbeiten und braucht Orientierung. FAO-Vora…
-4. **orientierung-fachanwaltschaft-mandat** — Anwalt will Fachanwaltschaft Sportrecht erwerben oder Mandat im Sportrecht bearbeiten und braucht Orientierung: FAO-Vora…
-5. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für Sport- und Sponsoringrecht: Erfassung der Konstellation, Konflikt- und GwG-Ch…
-6. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
-7. **fachanwalt-sportrecht-transferklausel** — Profi-Sportler will Verein wechseln und braucht Prüfung von Transfervertrag Ausstiegsklausel Transferperiode. FIFA/UEFA-…
-8. **fachanwalt-sportrecht-doping-cas-berufung** — Athlet muss Doping-Sperre vor CAS anfechten oder WADA/NADA legt Berufung gegen Freispruch ein. WADA-Code strict liabilit…
-9. **fachanwalt-sportrecht-doping-verfahren** — Athlet steht vor NADA-Disziplinarverfahren wegen positivem Dopingtest und braucht Verteidigung. NADA-Code WADA-Code stri…
-10. **fachanwalt-sportrecht-stadion-hausverbot** — Fan erhaelt bundesweites Stadion-Hausverbot und will dieses anfechten. AGB-Prüfung Vereinsrecht Fanrechte Datenschutz. N…
+1. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Sportrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nä…
+2. **mandat-triage-sportrecht** — Wenn es um Mandat Triage Sportrecht in Fachanwalt Sportrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passende…
+3. **fachanwalt-sportrecht-orientierung** — Wenn es um Fachanwalt für Sportrecht — Orientierung in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rec…
+4. **orientierung-fachanwaltschaft-mandat** — Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsw…
+5. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und S…
+6. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Sportrecht geht: klärt Rolle, Ziel, Fris…
+7. **fachanwalt-sportrecht-vereinsstrafrecht** — Wenn es um Vereinsstrafrecht in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnah…
+8. **fachanwalt-sportrecht-spielervertrag** — Wenn es um Spielervertrag in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen…
+9. **vereinsstrafrecht** — Wenn es um Vereinsstrafrecht in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnah…
+10. **schiedsverfahren-schriftsatz-brief-und-memo-bausteine** — Wenn es um Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Sportrecht geht: erstellt den passend…
 
 ---
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Fachanwalt Sportrecht: ordnet Rolle (Sportler, Verein/Verband, Disziplinarausschuss), markiert Frist (Berufung CAS 21 Tage), wählt Norm (Verbandsrecht (DFB, DOSB), CAS-Code, WADA-Code) und Zuständigkeit (Verbandsschiedsgerichte), leitet zum passenden Spezial-Skill._
+_Wenn es um Einstieg und Routing in Fachanwalt Sportrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Einstieg und Routing
 
@@ -65,24 +65,25 @@ Dieser Einstieg routet **Fachanwalt Sportrecht** vom ersten Sachverhalt zu Rolle
 
 ## Skill: `mandat-triage-sportrecht`
 
-_Sportrechtliches Mandat eintrifft und muss strukturiert erfasst werden: Mandantenrolle Sachgebiet Sofort-Fristen: Verbandsfrist gegen Sanktion..._
+_Wenn es um Mandat Triage Sportrecht in Fachanwalt Sportrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Sportrechtliches Mandat eintrifft und muss strukturiert erfasst werden: Mandantenrolle Sachgebiet Sofort-Fristen
 
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Mandat Triage Schriftsatzkern Substantiierung** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Sportrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Arbeitsweg
 
@@ -218,7 +219,11 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Empfehlung Folge-Skill
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Quellen
@@ -238,7 +243,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Skill: `fachanwalt-sportrecht-orientierung`
 
-_Anwalt will Fachanwaltschaft Sportrecht erwerben oder Mandat im Sportrecht bearbeiten und braucht Orientierung. FAO-Voraussetzungen typische Mandate Fristen. Normen BGB §§ 21 ff. Vereinsrecht CAS Code WADA-Code DFB-Statuten. Prüfraster Normen-Überblick Mandatstypen FAO-Fallzahl-Anforderungen. Output Orientierungs-Leitfaden Normen-Karte. Abgrenzung zu allen Einzel-Skills (nur Überblick und Routing)._
+_Wenn es um Fachanwalt für Sportrecht — Orientierung in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Fachanwalt für Sportrecht — Orientierung
 
@@ -313,7 +318,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Skill: `orientierung-fachanwaltschaft-mandat`
 
-_Anwalt will Fachanwaltschaft Sportrecht erwerben oder Mandat im Sportrecht bearbeiten und braucht Orientierung: FAO-Voraussetzungen typische Mand..._
+_Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Anwalt will Fachanwaltschaft Sportrecht erwerben oder Mandat im Sportrecht bearbeiten und braucht Orientierung
 
@@ -398,7 +403,7 @@ _Anwalt will Fachanwaltschaft Sportrecht erwerben oder Mandat im Sportrecht bear
 
 ## Skill: `erstgespraech-mandatsannahme`
 
-_Strukturierter Erstgespraechsleitfaden für Sport- und Sponsoringrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen: Strukturierter Erstgespraechsleitfaden für S..._
+_Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Strukturierter Erstgespraechsleitfaden für Sport- und Sponsoringrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
@@ -577,7 +582,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 
 ## Skill: `erstpruefung-und-mandatsziel`
 
-_Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel._
+_Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Sportrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -628,276 +633,22 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `fachanwalt-sportrecht-transferklausel`
+## Skill: `fachanwalt-sportrecht-vereinsstrafrecht`
 
-_Profi-Sportler will Verein wechseln und braucht Prüfung von Transfervertrag Ausstiegsklausel Transferperiode. FIFA/UEFA-Statuten Wechselgebühr. Normen FIFA RSTP Art. 17 18 UEFA-Transferregeln DFB-Lizenzordnung. Prüfraster Ausstiegsklausel-Hoehe Transfer-Fenster Solidaritaetsmechanismus Vertragsbruch-Risiko. Output Vertrags-Prüfungsbericht Verhandlungs-Strategie Klage-Optionen. Abgrenzung zu fachanwalt-sportrecht-spielervertrag (Arbeitsvertrag) und fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren (Schiedsgericht)._
+_Wenn es um Vereinsstrafrecht in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fachanwalt Sportrecht Vereinsstrafrecht; Arbeitsfeld: Fachanwalt Sportrecht._
 
-# Spieler-Transfer-Klausel
-
-## Zweck
-
-Beratung Profi-Sportler bei Vertrag-Verhandlung / Transfer.
-
-## 1) Eingangs-Abfrage
-
-1. Sport / Verband (FIFA, UEFA, DFB, NBA)?
-2. Aktueller Vertrag (Laufzeit, Klauseln)?
-3. Wechsel-Wunsch oder Verbleib-Sicherung?
-4. Transferperiode aktuell?
-5. Ausstiegs-Klausel im Vertrag?
-
-## 2) FIFA-Statuten Profis
-
-### Transfer-Periode
-
-- Sommer-Periode ca. Juni-August
-- Winter-Periode ca. Januar
-- Außerhalb: keine Transfers
-
-### TMS — Transfer Matching System
-
-- Pflicht-Eintragung
-- ITC (International Transfer Certificate)
-
-## 3) Vertragsklauseln
-
-### Ausstiegs-Klausel
-
-- Festgelegter Betrag, gegen Zahlung Spieler frei
-- Liga-abhängig (Spanien Standard, DE seltener)
-- Marktwert kann erheblich abweichen
-
-### Verlängerungs-Optionen
-
-- Einseitige Option Verein
-- Reziprok-Klausel (auch Spieler kann widerrufen)
-
-### Eigenrechte (Persönlichkeitsrechte)
-
-- Bildrechte (Image Rights)
-- Werbeauftritte
-- Spielerrechte vs. Vereinsrechte
-
-## 4) Konfliktlösung
-
-### Schiedsgerichtsbarkeit FIFA
-
-- TMS-Spruchkammer
-- DRC (Dispute Resolution Chamber) FIFA
-- CAS-Berufung
-
-### Bei DE-Verband
-
-- Schiedsgericht DFB
-- Verbands-Gericht
-
-## 5) Vertrags-Beendigung
-
-### Just Cause § 14 FIFA-Statuten
-
-- Wesentliche Vertragsverletzung
-- Beispiele: nicht-Zahlung Gehalt, Mobbing, Karriere-Behinderung
-- Recht zur fristlosen Kündigung Spieler
-
-### Sporting Just Cause § 15 FIFA-Statuten
-
-- Bei nicht-Spielzeit (etablierter Profi < 10 % Einsätze)
-- Standortwechsel-Recht
-
-## 6) Workflow Vertrags-Beratung
-
-### Phase 1 — Vertrag
-
-- Ausstiegs-Klausel
-- Verlängerungs-Option
-- Image Rights
-
-### Phase 2 — Transfer-Sondierung
-
-- Interessenten-Vereine
-- Anwalt + Berater
-
-### Phase 3 — Verhandlung
-
-- Wechsel-Bedingungen
-- Gehalts-Erhöhung
-- Bonus-Regelungen
-
-### Phase 4 — Abschluss
-
-- Spielervertrag neuer Verein
-- Auflosung alter Vertrag
-- TMS-Eintragung
-
-## 7) Konkrete BGH-/CAS-Linien
-
-- CAS Webster vs. Heart of Midlothian (Art. 17 FIFA-Statuten)
-- CAS Matuzalem (Auflösungs-Schadenersatz)
-
-## 8) Spieler-Berater § 14 RegBerVO
-
-- Lizenz-Pflicht durch FIFA bis 2015, dann frei, jetzt wieder reguliert
-- Beratungs-Provision typisch 5-10 % Jahres-Gehalt
-
-## 9) Typische Fehler
-
-1. **Ausstiegs-Klausel ohne Inhalt**
-2. **Image Rights nicht separat geregelt**
-3. **Transferperiode verpasst**
-4. **Just-Cause-Prüfung versäumt** bei Spieler-Beschwerde
-
-## Anschluss
-
-- `fachanwalt-sportrecht-orientierung` — Triage
-- `fachanwalt-sportrecht-doping-cas-berufung` — bei Doping-Bezug
-- `cas-berufung-vorbereiten` — bei CAS-Verfahren
-
-## Ergaenzende Rechtsprechung Transferklausel
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- CAS 2017/A/5379 (Borussia Dortmund v. Aubameyang) — Transfer-Verguetungsanspruch: Ablosegebuebre und Weiterverkaufsbeteiligung muessen in Transfer-Agreement praezise geregelt sein; pauschal-prozentuale Klauseln sind grundsaetzlich wirksam, aber auslegungsbeduerftiger Wortlaut geht zu Lasten des Verfassers.
-
----
-
-## Skill: `fachanwalt-sportrecht-doping-cas-berufung`
-
-_Athlet muss Doping-Sperre vor CAS anfechten oder WADA/NADA legt Berufung gegen Freispruch ein. WADA-Code strict liability Therapeutic Use Exemption Sanktion 2-4 Jahre. Normen WADA-Code Art. 2 10 13 CAS Code AntiDopG § 4. Prüfraster Strict-Liability-Prüfung TUE No-Fault-Nachweis Art. 10 Abs. 5 CAS-Fristen. Output CAS-Berufungsschrift TUE-Antrag Sanktions-Reduktions-Argumentation. Abgrenzung zu cas-berufung-vorbereiten (allg. Berufung) und fachanwalt-sportrecht-doping-verfahren (NADA-Erstverfahren)._
-
-# Doping-Berufung CAS
-
-## Zweck
-
-Verteidigung Athlet bei Doping-Vorwurf.
-
-## 1) WADA-Code
-
-### Strict Liability
-
-- Athlet haftet **ohne Verschulden** für positive Tests
-- Auch bei kontaminiertem Nahrungsergänzungsmittel
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Verbotene Substanzen
-
-- Jaehrliche WADA-Liste
-- In-Competition / Out-of-Competition
-- Spezifische / Nicht-spezifische Substanzen
-
-## 2) Verfahren NADA / Verband
-
-### Test
-
-- Out-of-Competition oder In-Competition
-- A-Probe positiv -> B-Probe Anforderung
-- B-Probe bestätigt -> Verfahren
-
-### Anhörung
-
-- Verband-Schiedsgericht (DOSB-Schiedsgericht)
-- Sperrung während Verfahren
-- Anhörung Athlet
-
-### Sanktion
-
-- Erstvergehen: 2-4 Jahre
-- Bei Bagatell (Nahrungsergänzungsmittel): reduzierte Sperre
-- Wiederholung: lebenslange Sperre
-
-## 3) TUE — Therapeutic Use Exemption
-
-- Pflicht-Antrag bei medizinischer Notwendigkeit
-- Vor Wettkampf einreichen
-- Bei Asthma, ADHS, anderen Erkrankungen
-
-## 4) CAS-Berufung
-
-### Court of Arbitration for Sport Lausanne
-
-- Letzte Instanz im Sport-System
-- Schiedsgericht
-- Schiedssprache Englisch oder Franzoesisch
-
-### Antrag
-
-- Frist 21 Tage nach Verbands-Urteil
-- Schiedsgebuehr
-- Schiedsrichter-Bestimmung
-
-### Verfahren
-
-- Schriftsatz-Phase
-- Muendliche Verhandlung
-- Schiedsspruch endgültig
-
-### Anfechtung Schiedsspruch
-
-- Schweizer Bundesgericht (begrenzte Anfechtungs-Gründe nach Art. 190 IPRG).
-- **Zweiter Pfad seit August 2025:** EuGH, Urt. v. 01.08.2025 — C-600/23 (RFC Seraing) — Nationale Gerichte in EU-Mitgliedstaaten können CAS-Schiedssprüche auf Vereinbarkeit mit Unionsrecht (Grundfreiheiten, Wettbewerbsrecht, Charta) inhaltlich prüfen. Verifikation [curia.europa.eu](https://curia.europa.eu/) zu C-600/23. Strategisch zu prüfen: Vollstreckungsabwehr / Schadensersatzklage / Eilrechtsschutz bei betroffenem EU-Sportler.
-- EGMR-Linie zu Schiedszwang im Sport (Pechstein, Mutu/Pechstein gegen Schweiz, 02.10.2018 — Beschwerde-Nr. 40575/10 u. 67474/10) im Mandat live verifizieren — [hudoc.echr.coe.int](https://hudoc.echr.coe.int).
-
-## 5) Workflow
-
-### Phase 1 — Tag der Probe-Eröffnung
-
-- Sofort-Anwalt
-- Beratungs-Gespräch Athlet
-- Probe-Analyse prüfen
-
-### Phase 2 — Verband-Verfahren
-
-- Anhörung mit Anwalt
-- Beweisanbote (Kontaminations-These)
-- Bemühung um milde Sanktion
-
-### Phase 3 — CAS-Berufung
-
-- Strategische Entscheidung Berufung sinnvoll?
-- Kosten-Nutzen
-- Internationale Anwaltskanzlei (Englisch)
-
-### Phase 4 — Folgen
-
-- Sponsorings-Verlust
-- Versicherungs-Bezug
-- Karriere-Planung
-
-## 6) Spezial Kontaminations-These
-
-- Nahrungsergänzungsmittel-Verunreinigung
-- Beweis: identische Charge in Labor analysieren
-- Bei Erfolg: deutliche Strafmilderung
-
-## 7) Typische Fehler
-
-1. **TUE nicht vor Wettkampf** beantragt
-2. **B-Probe verzichtet** — Beweis-Position schwach
-3. **CAS-Berufungs-Frist 21 Tage versäumt**
-4. **Kontaminations-These ohne Beweis**
-
-## Anschluss
-
-- `fachanwalt-sportrecht-orientierung` — Triage
-- `cas-berufung-vorbereiten` (Power-Tool) — Vorbereitung
-- `verbandsstrafe-anfechten` — bei Verbands-Sanktion
-
----
-
-## Skill: `fachanwalt-sportrecht-doping-verfahren`
-
-_Athlet steht vor NADA-Disziplinarverfahren wegen positivem Dopingtest und braucht Verteidigung. NADA-Code WADA-Code strict liability Art. 2 Abs. 1 WADA-Code Beweislastumkehr no fault Art. 10 Abs. 5. Normen AntiDopG § 4 CAS Art. 13. Prüfraster Probenahme-Protokoll Laboranalyse TUE Verfahrensrechte Sperre-Rahmen. Output Verteidigungsschrift NADA Strafmass-Argumentation. Abgrenzung zu fachanwalt-sportrecht-doping-cas-berufung (CAS-Berufung) und verbandsstrafe-anfechten (Allgemein)._
-
-# Doping-Verfahren
+# Vereinsstrafrecht
 
 ## Kaltstart-Rückfragen
 
-1. Welche Substanz wurde in welchem Probematerial (Urin/Blut) bei welchem Anlass (Wettkampf oder Training) nachgewiesen?
-2. Liegt die B-Proben-Analyse bereits vor — oder wird sie noch beantragt (Frist nach Verbandszusage, üblicherweise sieben Tage)?
-3. Wurde die Substanz bewusst eingenommen, oder besteht eine andere Erklärung (Verunreinigung Supplement, Medikament mit TUE, Kontamination)?
-4. Welche Sanktionen drohen konkret — Standardsperre zwei oder vier Jahre, Wettkampfdisqualifikation, Preisgeldrückzahlung?
-5. Ist eine Therapeutic Use Exemption (TUE) vorhanden oder nachholbar für die nachgewiesene Substanz?
-6. Sind Whereabouts-Verstöße kumuliert (drei in zwölf Monaten = Art. 2.4 WADA-Verstoß)?
-7. Läuft ein paralleles Strafverfahren nach § 4 AntiDopG — ist Koordination mit einem Strafverteidiger notwendig?
-8. In welchem Verfahrensstadium ist das Mandat (NADA-Anhörung, DK-Entscheidung, DIS-Schiedsgericht, CAS)?
+1. Welcher Verband oder Verein hat die Strafe verhängt — Bundesverband (DFB, DEB, DOSB), Landesverband, Profiliga oder Amateurverein?
+2. Welche konkrete Sanktion wurde ausgesprochen — Geldstrafe (Betrag), Spielsperre (Anzahl Spiele), Lizenzentzug, Punktabzug, Vereinsausschluss?
+3. Auf welche Satzungs- oder Regelwerksnorm wird die Strafe gestützt — ist die Norm klar und vollständig?
+4. Wurde ein ordnungsgemäßes Disziplinarverfahren durchgeführt (schriftliche Anhörung mit ausreichender Frist, Akteneinsicht, schriftliche Begründung)?
+5. Welche verbandsinternen Rechtsmittelinstanzen sieht die Satzung vor (Verbandsgericht, Berufungsausschuss, DIS-Sportschiedsgericht, CAS)?
+6. Ist die Berufungsfrist nach der Satzung (oft sieben Tage beim DFB) noch nicht abgelaufen?
+7. Tangiert die Sanktion die Berufsausübung (Profisportler: Art. 12 GG) — ist existenzielle Gefährdung vorhanden?
+8. Hat der Mandant ein Sponsoring- oder Lizenzvertrag, der eine Suspendierungs- oder Kündigungsklausel enthält?
 
 ---
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
@@ -906,19 +657,17 @@ _Athlet steht vor NADA-Disziplinarverfahren wegen positivem Dopingtest und brauc
 
 | Norm | Inhalt |
 |---|---|
-| Art. 2.1 WADA-Code 2021 | Strict Liability: Anwesenheit der verbotenen Substanz genügt für Tatbestand |
-| Art. 2.4 WADA-Code 2021 | Whereabouts-Verstöße: drei Verstöße in zwölf Monaten |
-| Art. 3.1 WADA-Code 2021 | Beweisstandard NADA: comfortable satisfaction |
-| Art. 9 WADA-Code 2021 | Disqualifikation der Wettkampfergebnisse |
-| Art. 10.2.1 WADA-Code 2021 | Standardsperre vier Jahre bei vorsätzlichem Verstoß |
-| Art. 10.2.2 WADA-Code 2021 | Zwei Jahre bei fehlendem Vorsatz |
-| Art. 10.5 WADA-Code 2021 | No fault or negligence: vollständige Aufhebung der Sperre möglich |
-| Art. 10.6.1 WADA-Code 2021 | No significant fault or negligence: Reduzierung bis zur Hälfte |
-| Art. 10.14 WADA-Code 2021 | Trainingsberechtigung während laufender Sperre |
-| Art. 13.2 WADA-Code 2021 | WADA-Berufungsrecht bei nationalen Entscheidungen (zwei Monate) |
-| Art. 17 WADA-Code 2021 | Verjährung: zehn Jahre |
-| § 4 AntiDopG | Straftatbestände: Selbstdoping bis drei Jahre; Fremddoping bis zehn Jahre |
-| Art. R49 CAS Code | CAS-Berufungsfrist: 21 Tage |
+| § 25 BGB | Vereinsstrafrecht: Sanktionen müssen in Satzung verankert sein; vereinsrechtliche Anfechtung |
+| §§ 21–79 BGB | Vereinsrecht; Mitgliedschaft; Organverfassung; Beschlüsse |
+| §§ 305–310 BGB | AGB-Kontrolle: Verbandssatzung unterliegt bei faktischem Beitrittszwang §§ 307 ff. BGB |
+| § 242 BGB | Treu und Glauben; Verbot widersprüchlichen Verhaltens (estoppel-Wirkung) |
+| § 823 Abs. 1 BGB | Schadensersatz bei rechtswidriger Sanktion; Eingriff in Recht am eingerichteten Gewerbebetrieb |
+| § 1004 BGB | Beseitigungs- und Unterlassungsanspruch gegen rechtswidrige Sperre |
+| Art. 9 GG | Vereinigungs- und Verbandsfreiheit; Grundlage für Satzungsautonomie |
+| Art. 12 GG | Berufsfreiheit Berufssportler; Verhältnismäßigkeitsgebot |
+| § 32 ZPO | Gerichtlicher Gerichtsstand (ordentliches Gericht subsidiär nach Erschöpfung Verbandsweg) |
+| § 935 ZPO | Einstweilige Verfügung gegen Spielsperre |
+| §§ 1029, 1033 ZPO | Schiedsklauseln; einstweilige Verfügung trotz Schiedsklausel zulässig |
 
 ### Leitentscheidungen
 
@@ -926,9 +675,10 @@ _Athlet steht vor NADA-Disziplinarverfahren wegen positivem Dopingtest und brauc
 |---|---|---|
 | Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| CAS 2014/A/3642 | CAS (2014) | No significant fault; Supplement-Kontamination; Kölner Liste relevant |
-| CAS 2019/A/6148 | CAS (2019) | Whereabouts-Verstöße; Kumulationsprinzip; Verfahrensmängel |
-| 4A_558/2011 | Schweizer BGer (2012) — Pechstein | CAS-Anfechtung vor BGer; enge Prüfung Ordre public |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 
 ---
 
@@ -936,20 +686,19 @@ _Athlet steht vor NADA-Disziplinarverfahren wegen positivem Dopingtest und brauc
 
 | Schritt | Inhalt | Grundlage |
 |---|---|---|
-| 1 | Verbotene Substanz auf WADA-Verbotsliste identifizieren | WADA Prohibited List (jährlich aktualisiert) |
-| 2 | A-Probe: Chain of Custody lückenlos? | Probennahme-Protokoll |
-| 3 | B-Probe anfordern (innerhalb der Verbandsfrist) | Verbandsordnung; WADA-Code |
-| 4 | TUE vorhanden? Retroactive TUE möglich? | TUE-Richtlinien WADA/NADA |
-| 5 | Quelle der Substanz ermitteln (Supplement, Medikament, Kontamination) | Supplement-Analyse; Medikationsplan |
-| 6 | Kölner Liste-Prüfung (supplement zertifiziert?) | Köln-Institut Prüfprotokoll |
-| 7 | No fault (Art. 10.5): vollständige Schuldlosigkeit nachweisbar? | WADA-Code Art. 10.5 |
-| 8 | No significant fault (Art. 10.6): Schuldminderung möglich? | WADA-Code Art. 10.6 |
-| 9 | Vorsatzfrage: Indizien für bewusste Einnahme? | Art. 10.2.1 vs. 10.2.2 |
-| 10 | Verfahrensmängel NADA-Disziplinarkommission: Anhörung, Akteneinsicht, Begründung | Verfahrensgrundsätze |
-| 11 | Berufungsfristen dokumentieren (DK → DIS → CAS) | Art. R49 CAS Code |
-| 12 | Paralleles Strafverfahren § 4 AntiDopG prüfen | AntiDopG §§ 1 ff. |
-| 13 | Sponsoring-/Vertragsfolgen der Sperre sichern | Vertragliche Klauseln |
-| 14 | Trainingsberechtigung während Sperre (Art. 10.14 WADA) | Art. 10.14 WADA-Code |
+| 1 | Ermächtigungsnorm: Ist die verhängte Sanktion in der Satzung ausdrücklich vorgesehen? | § 25 BGB |
+| 2 | Zuständigkeit: War das Spruchorgan satzungsgemäß besetzt und zuständig? | Satzung |
+| 3 | Ordnungsgemäße Einberufung des Spruchorgans (Frist, Tagesordnung)? | Satzung |
+| 4 | Anhörung: Hat der Betroffene schriftliche Ankündigung mit angemessener Frist erhalten? | Art. 103 Abs. 1 GG analog |
+| 5 | Akteneinsicht: War Einsicht in alle Beweisunterlagen möglich? | Verfahrensgrundsätze |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 7 | Tatbestandserfüllung: Ist der vorgeworfene Sachverhalt tatsächlich eine Verletzung der Satzungsnorm? | Materielle Prüfung |
+| 8 | Verschulden: Ist Vorsatz oder Fahrlässigkeit nachgewiesen? | Satzung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 11 | Vorrangige verbandsinterne Instanzen ausschöpfen? | Satzung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 13 | Vorläufiger Rechtsschutz erforderlich (§ 935 ZPO, § 1033 ZPO)? | §§ 935, 1033 ZPO |
+| 14 | Art. 12 GG-Verstoß (Berufsfreiheit) bei Profisportler prüfen? | Art. 12 GG |
 
 ---
 
@@ -959,130 +708,143 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Doping-Verfahren Verteidigung | Einlassung; Template unten |
-| Variante A — NADA-Akzeptanz statt CAS | Strafreduzierungs-Verhandlung mit NADA bevorzugen |
-| Variante B — Kontaminiertes Supplement | Nachweis Sorgfalt; WADA-Contamination-Programme pruefen |
-| Variante C — Vorwurf Blutdoping | Biolog. Repassport-Analyse; Sachverstaendigen-Einbeziehung |
+| Standard — Vereinsstrafe anfechten | Widerspruch gegen Vereinsstrafe; Template unten |
+| Variante A — Mandant akzeptiert Schuld | Strafmilderung verhandeln; kooperatives Vorgehen |
+| Variante B — Strafverfahren parallel | Koordination Vereins- und Strafverfahren; keine Selbstbelastung |
+| Variante C — Satzungswidriges Strafverfahren | Formelle Ruege; Nichtigkeitsklage vor ordentlichem Gericht |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 
 ## Schriftsatzbausteine
 
-### Baustein 1 — Stellungnahme zur NADA-Disziplinarkommission (vollständig)
+### Baustein 1 — Einspruch/Berufung gegen Vereinsstrafe (vollständig)
 
 ```
-An die NADA-Disziplinarkommission
-Hausadresse: [Adresse]
+An das [Sportgericht / Verbandsgericht des Verbands]
 
-Az. NADA-DK: [...]
+Az. [...]
 
-Stellungnahme im Verfahren gegen [Athlet, Geburtsdatum, Sportart]
-wegen des A-Probe-Befunds vom [Datum]
+Berufung / Einspruch gegen die Entscheidung des
+[Disziplinarausschusses / Rechtsausschusses / Sportgerichts]
+vom [Datum], Az. [...] — [Mandant Name]
 
 Sehr geehrte Damen und Herren,
 
-namens und in Vollmacht unserer Mandantschaft nehmen wir zur
-Mitteilung vom [Datum] wie folgt Stellung:
+namens und in Vollmacht unserer Mandantschaft [Name, Geburtsdatum,
+Lizenz-Nr.] legen wir form- und fristgerecht
 
-I. Zur Verwertbarkeit der A-Probe
+                  B e r u f u n g / E i n s p r u c h
 
-Die Verwertbarkeit des Analysebefundes ist zweifelhaft.
+ein.
 
-1. Chain of Custody: Das Probennahmeprotokoll vom [Datum/Ort]
-   (Anlage K1) zeigt, dass die Probe von [Ort A] am [Datum]
-   versiegelt wurde. Das WADA-akkreditierte Labor [Name] hat
-   die Probe am [Datum] entgegengenommen (Anlage K2).
-   In diesem Zeitraum ist die Dokumentation lückenhaft
-   [konkret bezeichnen]. Wir beantragen vollständige
-   Dokumentation der Transportkette.
+A n t r a g:
+Die angegriffene Entscheidung vom [Datum] wird aufgehoben.
+Das Disziplinarverfahren wird eingestellt.
 
-2. Laboranalyse-Fehler: [Sofern konkrete Anhaltspunkte vorhanden]
+B e g r ü n d u n g:
 
-Wir beantragen die B-Proben-Analyse in Anwesenheit unseres
-Sachverständigen Dr. [Name].
+I. Verfahrensfehler
 
-II. Zur Quelle der Substanz
+1. Anhörungsrecht verletzt (Art. 103 Abs. 1 GG analog):
+   Das Anhörungsschreiben vom [Datum] setzte eine Frist bis
+   [Datum] — das sind nur [X] Tage. Angesichts der Schwere
+   der Vorwürfe (Spielsperre [N] Spiele; Geldstrafe EUR [Betrag])
+   ist diese Frist unzumutbar kurz.
+   Belegt: Anlage B1 (Anhörungsschreiben).
 
-Für den Fall der Bestätigung des Befundes durch die B-Probe
-tragen wir vor:
+2. Akteneinsicht verweigert:
+   Der Antrag auf vollständige Akteneinsicht vom [Datum] (Anlage B2)
+   blieb unbeantwortet / wurde abgelehnt (Anlage B3). Ohne Kenntnis
+   aller Beweismittel war eine substantiierte Verteidigung nicht
+   möglich.
 
-Die Substanz [Bezeichnung nach WADA-Verbotsliste] gelangte
-durch die Einnahme des Nahrungsergänzungsmittels [Handelsname,
-Charge: XXXXXXX] in den Körper unserer Mandantschaft.
+3. Begründungsmangel:
+   Die Entscheidung vom [Datum] enthält auf Seite [X] keine
+   Subsumtion des festgestellten Sachverhalts unter § [Satzungs-
+   norm]. Es fehlt die Auseinandersetzung mit dem Verteidigungsvor-
+   trag vom [Datum] (Anlage B4).
 
-Belege:
-- Unabhängige Laboranalyse des Präparats (Anlage K3):
-  Die Analyse durch [Institut] vom [Datum] zeigt, dass
-  die Charge [Nummer] mit [Substanz] kontaminiert ist.
-- Kaufnachweis [Datum, Händler] (Anlage K4).
-- Das Präparat ist NICHT auf der Kölner Liste zertifiziert
-  (Anlage K5: Kölner Liste-Auszug).
+II. Materielle Fehler
 
-III. Rechtliche Bewertung
+4. Tatbestand nicht erfüllt:
+   Der vorgeworfene Sachverhalt [Datum, Ort, Handlung] erfüllt
+   nicht den Tatbestand des § [Satzungsnorm], weil [Begründung].
+   Beweis: Anlage B5 (Videomitschnitt); Anlage B6 (Zeugenaussagen
+   [Namen]).
 
-A) No fault Art. 10.5 WADA-Code:
-   Unsere Mandantschaft hat [alle Vorsichtsmaßnahmen ergriffen:
-   Kölner Liste-Supplement bevorzugt; kein Wissen von Kontamination].
-   [Sofern keine Kölner-Liste-Produkt: erläutern warum kein Verschulden]
+5. Fehlendes Verschulden:
+   Unsere Mandantschaft handelte in der irrtümlichen Annahme,
+   dass [Handlung] nach § [Satzungsnorm] zulässig sei. Dieser
+   Irrtum war aus Sicht eines verständigen Sportlers entschuldbar
+   (Anlage B7: Regelwerks-Schulungsnachweis; Anlage B8: Verbandspost
+   zu geänderten Regelungen).
 
-B) No significant fault Art. 10.6 WADA-Code:
-   Hilfsweise: Unsere Mandantschaft hat [konkrete Vorsichts-
-   maßnahmen] ergriffen, aber [konkrete Umstände] führten zur
-   unbewussten Einnahme. Die Schuld ist nicht signifikant.
-   Die Sperre ist auf das gesetzlich zulässige Mindestmaß
-   (50 % der Standardsperre = [X Monate]) zu reduzieren.
+6. Unverhältnismäßigkeit:
+   In vergleichbaren Fällen hat der Verband folgende Strafen
+   verhängt: [Auflistung aus Verbandsrechtsprechung] (Anlage B9).
+   Die hier ausgesprochene Sperre von [N] Spielen überschreitet
+   den üblichen Strafrahmen erheblich. Art. 12 GG gebietet
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-C) Kein Vorsatz Art. 10.2.2 WADA-Code:
-   Es gibt keinerlei Indizien für eine bewusste Einnahme.
-   Die Standardsperre von zwei Jahren (Art. 10.2.2) ist
-   angemessen; eine vierjährige Sperre ist nicht gerechtfertigt.
+III. Hilfsantrag
 
-IV. TUE
+Hilfsweise: Die Strafe wird auf [Geldstrafe EUR [Betrag] /
+[N] Spiele] reduziert.
 
-Die Substanz [falls Medikament involviert] wird auf ärztliche
-Verordnung von Dr. [Name] seit [Datum] eingenommen (Anlage K6:
-Arztzeugnis). Ein TUE-Antrag wird bis [Datum] bei der
-[Nationalen Anti-Doping-Agentur] gestellt.
+IV. Einstweilige Aussetzung der Vollziehung
 
-V. Antrag
+Da in der laufenden Saison [nächste Spielrunde Datum] wich-
+tige Partien anstehen, beantragen wir die sofortige Aussetzung
+der Sperre bis zur Berufungsentscheidung. Irreparabler Schaden
+ist sonst nicht vermeidbar.
 
-Wir beantragen:
-1. Das Verfahren einzustellen.
-2. Hilfsweise: Die Sperre auf das gesetzlich zulässige
-   Mindestmaß zu reduzieren.
-3. Volle Akteneinsicht in alle NADA-Unterlagen.
+Anlagen B1 bis B9 beigefügt.
+
+Mit freundlichen Grüßen
+[Rechtsanwalt/-anwältin, Fachanwalt für Sportrecht]
+```
+
+### Baustein 2 — Klage auf Aufhebung Vereinsstrafe (ordentliches Gericht)
+
+```
+An das Landgericht [Ort]
+
+Klage / einstweilige Verfügung
+[Name] ./. [Verband]
+
+Antrag:
+Der Beklagte wird verurteilt, die Entscheidung des [Spruchorgans]
+vom [Datum] (Spielsperre / Geldstrafe) aufzuheben und ihre
+Vollziehung zu unterlassen.
+
+Alternativ (einstweilig § 935 ZPO):
+Es wird dem Beklagten verboten, die Spielsperre vom [Datum]
+bis zur rechtskräftigen Entscheidung in der Hauptsache
+zu vollziehen.
+
+Begründung:
+
+I. Zulässigkeit
+Obwohl die Verbandssatzung eine Schiedsklausel enthält, ist
+die einstweilige Verfügung nach § 1033 ZPO vor dem staatlichen
+Gericht zulässig.
+
+II. Verbandsweg ausgeschöpft
+[Berufungsinstanzen vollständig abgeschlossen / nicht aus-
+schöpfbar wegen Dringlichkeit]
+
+III. Rechtswidrigkeit der Entscheidung
+[Zusammenfassung der Angriffspunkte aus Baustein 1]
+
+IV. Berufsfreiheit Art. 12 GG
+Die Spielsperre verletzt die Berufsfreiheit des Klägers als
+Profisportler. Sie ist unverhältnismäßig.
+
+Eidesstattliche Versicherung: Anlage EV-1.
 
 Mit freundlichen Grüßen
 [Rechtsanwalt/-anwältin]
-```
-
-### Baustein 2 — CAS-Berufung nach NADA-Entscheidung (Antragsschrift)
-
-```
-Siehe Skill `cas-berufung-vorbereiten` — Statement of Appeal
-und Appeal Brief-Vorlage für Doping-Verfahren.
-
-Besondere Argumentation für Doping-Appeal:
-
-Appeal Brief Abschnitt III (Merits) — Struktur:
-
-A. Verfahrensfehler NADA/Verband
-   [Anhörung, Akteneinsicht, Begründung]
-
-B. No Fault Art. 10.5 WADA-Code
-   [Quelle bewiesen; alle Vorsichtsmaßnahmen getroffen;
-   keine Fahrlässigkeit — vollständige Aufhebung beantragen]
-
-C. No Significant Fault Art. 10.6.1 WADA-Code
-   [Quelle wahrscheinlich; Maßnahmen ergriffen aber unzureichend;
-   Strafminderung auf bis zu 50 % der Standardsperre]
-
-D. Fehlendem Vorsatz Art. 10.2.2 WADA-Code
-   [Keine bewusste Einnahme; Standardsperre zwei Jahre, nicht vier]
-
-E. Sanktionshöhe unverhältnismäßig
-   [Besondere Umstände; Karrierewirkung; internationale Vergleiche]
 ```
 
 --- vor Versand klaeren ---
@@ -1094,15 +856,15 @@ E. Sanktionshöhe unverhältnismäßig
 
 ## Beweislast
 
-| Position | Träger | Standard | Beweismittel |
-|---|---|---|---|
-| Tatbestand ADRV (Substanz in Probe) | NADA/Verband | Comfortable satisfaction | A-/B-Probe-Ergebnis |
-| Chain of Custody korrekt | NADA/Verband | Comfortable satisfaction | Protokoll vollständig |
-| No fault (vollständige Aufhebung) | Athlet | Überwiegende Wahrscheinlichkeit | Supplement-Analyse, Kaufnachweis |
-| No significant fault (Minderung) | Athlet | Überwiegende Wahrscheinlichkeit | Kölner Liste, Vorsichtsmaßnahmen |
-| Quelle der Substanz | Athlet | Überwiegende Wahrscheinlichkeit | Unabhängige Laboranalyse |
-| TUE-Nachweis | Athlet | Vollbeweis | TUE-Dokument, Arztzeugnis |
-| Whereabouts-Verstoß (drei in 12 M.) | NADA | Comfortable satisfaction | Whereabouts-Protokoll |
+| Position | Träger | Beweismittel |
+|---|---|---|
+| Tatbestandserfüllung | Verband | Sitzungsprotokoll, Videos, Schiedsrichterberichte, Zeugen |
+| Ordnungsgemäße Einberufung Spruchorgan | Verband | Satzungskonformität |
+| Verfahrensfehler (Anhörung, Akteneinsicht) | Mandant | Fehlende Unterlagen in Akte; Fristen-Nachweis |
+| Verhältnismäßigkeit (Vergleichsfälle) | Mandant | Verbandsrechtsprechung; Präzedenzfälle |
+| Fehlender Tatbestand (Videobeweis) | Mandant | Videos, Zeugenaussagen |
+| AGB-Unwirksamkeit Satzungsklausel | Mandant | Analyse nach §§ 307 ff. BGB |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ---
 
@@ -1110,25 +872,23 @@ E. Sanktionshöhe unverhältnismäßig
 
 | Frist | Grundlage | Inhalt |
 |---|---|---|
-| 7 Tage | Verbandsordnung | B-Proben-Anforderung nach A-Probe-Mitteilung |
-| 14 Tage | NADA-Verfahrensordnung | Stellungnahme zur DK-Anhörung |
-| 21 Tage | Art. R49 CAS Code | CAS-Berufungsfrist nach NADA-DK / DIS-Entscheidung |
-| 2 Monate | Art. 13.2 WADA-Code | WADA-eigene Berufungsfrist |
-| 10 Jahre | Art. 17 WADA-Code | Verjährung ADRV |
-| 3 Jahre | § 195 BGB | Schadensersatzansprüche (nationale Gerichte) |
+| 7 Tage (DFB) | DFB-RuVO | Verbandsinterne Berufungsfrist (sofort prüfen!) |
+| 21 Tage | Art. R49 CAS Code | CAS-Berufung nach Erschöpfung Verbandsweg |
+| Keine Sperrfrist | § 32 ZPO | Klage staatliches Gericht nach Verbandsweg |
+| Sofort möglich | § 935 ZPO | Einstweilige Verfügung bei Dringlichkeit |
+| 3 Jahre | § 195 BGB | Schadensersatz aus unrechtmäßiger Vereinsstrafe |
 
 ---
 
-## Typische Gegenargumente der NADA / des Verbands
+## Typische Gegenargumente des Verbands
 
-| NADA-Argument | Gegenstrategie |
+| Verband-Argument | Gegenstrategie |
 |---|---|
-| "Strict liability — Substanz in Probe genügt" | Tatbestand zwar erfüllt, aber Schuld-Stufen Art. 10.5 / 10.6 anwenden |
-| "B-Probe bestätigt A-Probe" | Chain of Custody-Mängel; unabhängige Sachverständigenanalyse |
-| "Kein TUE vorhanden" | Retroactive TUE; ärztliche Notwendigkeit; ggf. Verfahrensfehler NADA |
-| "Supplement von Kölner Liste wäre zumutbar gewesen" | Konkreten Sorgfaltsmaßstab diskutieren; CAS 2014/A/3642 |
-| "Vorsatz indiziert" | Keine Indizien für bewusstes Doping; Testergebnisse-Verlauf vorlegen |
-| "4-Jahres-Sperre standard" | No significant fault; Karriere-Unverhältnismäßigkeit; Art. 10.6.1 |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Verbandsweg nicht erschöpft" | Ggf. Dringlichkeit: § 1033 ZPO-Antrag schon vor Erschöpfung |
+| "Schiedsklausel wirksam, staatliche Gerichte ausgeschlossen" | § 1033 ZPO: einstweilige Verfügung trotzdem möglich |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Tatbestand liegt vor" | Video-Beweis; Zeugenbeweis; eigene Auswertung Schiedsrichterprotokoll |
 
 ---
 
@@ -1136,12 +896,12 @@ E. Sanktionshöhe unverhältnismäßig
 
 | Position | Richtwert |
 |---|---|
-| NADA-DK-Verfahren | Kostenfrei für Athlet |
-| DIS-Sportschiedsgericht | EUR 2000 bis 10000 Verfahrenskosten |
-| CAS-Berufung | CHF 1000 Anfangsgebühr + CHF 15000–50000 Verfahren |
-| Anwaltsstunden | Honorarvereinbarung; EUR 10000–50000 je nach Instanzen |
-| § 4 AntiDopG Strafverteidigung | Separat; EUR 5000–20000 |
-| Supplement-Laboranalyse | EUR 2000–5000 |
+| Streitwert (Spielsperre Profispieler) | Wirtschaftlicher Schaden der Sperre (Gehalt × Wochen, Prämien) |
+| Streitwert (Lizenzentzug) | Barwert Restvertrag + Karrierewert; oft EUR 50000–500000+ |
+| Streitwert (Geldstrafe) | Geldstrafen-Betrag |
+| Gerichtskosten LG | Nach GKG |
+| Anwaltskosten | Honorarvereinbarung; RVG-Streitwert |
+| CAS-Berufung | CHF 1000+ Anfangsgebühr; CHF 15000–50000 Verfahren |
 
 ---
 
@@ -1149,20 +909,21 @@ E. Sanktionshöhe unverhältnismäßig
 
 | Fallkonstellation | Empfehlung |
 |---|---|
-| Verunreinigtes Supplement, belegt | No significant fault Art. 10.6.1; Kölner Liste-Status prüfen |
-| Kein Supplement-Nachweis | Chain of Custody zuerst angreifen; dann kein Vorsatz |
-| TUE-Substanz ohne TUE | Retroactive TUE sofort beantragen; DK-Frist für TUE ausschöpfen |
-| Whereabouts-Verstoß | Fristen-Dokumentation prüfen; Verfahrensmängel NADA |
-| Vorsatz-Indizien vorhanden | Keine Verteidigung auf Tatbestand; Strafminderung Umstände |
-| § 4 AntiDopG parallel | Sofort Strafverteidiger einschalten; NADA-Verfahren koordinieren |
+| DFB-Sperre, 7-Tage-Frist | Sofortige Berufung beim zuständigen DFB-Gericht fristwahrend; dann ausführliche Begründung |
+| Verfahrensfehler eindeutig | Primär formelle Rügen; höchste Erfolgsquote |
+| Verhältnismäßigkeit fraglich | Vergleichsfälle sammeln; Satzungsrechtsprechung des Verbands analysieren |
+| Lizenzentzug Berufssportler | Art. 12 GG; einstweilige Verfügung § 935 ZPO sofort |
+| Saison läuft | Gleichzeitig Verbandsberufung + § 935 ZPO-Antrag LG |
+| Verbandsweg abgeschlossen | CAS oder ordentliches Gericht; Kostenabwägung |
 
 ---
 
 ## Anschluss-Skills
 
-- `cas-berufung-vorbereiten` — CAS-Verfahren nach NADA-Entscheidung
-- `verbandsstrafe-anfechten` — allgemeine Verbandssanktionen
-- `fachanwalt-sportrecht-spielervertrag` — Vertragsfolgen der Dopingsperre
+- `verbandsstrafe-anfechten` — übergreifendes Prüfraster
+- `cas-berufung-vorbereiten` — nach Erschöpfung Verbandsweg
+- `fachanwalt-sportrecht-doping-verfahren` — bei Doping-Aspekt
+- `fachanwalt-sportrecht-spielervertrag` — Vertragsfolgen der Sanktion
 
 ## Quellen
 
@@ -1170,107 +931,665 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ---
 
-## Skill: `fachanwalt-sportrecht-stadion-hausverbot`
+## Skill: `fachanwalt-sportrecht-spielervertrag`
 
-_Fan erhaelt bundesweites Stadion-Hausverbot und will dieses anfechten. AGB-Prüfung Vereinsrecht Fanrechte Datenschutz. Normen §§ 305 ff. BGB AGB-Kontrolle BGH Bundesliga-Hausverbot § 25 BGB Vereinsrecht DSGVO Polizei-Datei Gewalttaeter Sport. Prüfraster AGB-Wirksamkeit Verhältnismäßigkeit Datenschutz Widerspruch. Output Widerspruchsschreiben Klage-Entwurf. Abgrenzung zu fachanwalt-sportrecht-vereinsstrafrecht (Vereinsstrafe) und verbandsstrafe-anfechten (Verbands-Sanktion)._
+_Wenn es um Spielervertrag in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fachanwalt Sportrecht Spielervertrag; Arbeitsfeld: Fachanwalt Sportrecht._
 
-# Stadion-Hausverbot
+# Spielervertrag
 
-## Zweck
+## Kaltstart-Rückfragen
 
-Verteidigung von Fans gegen Stadion-Hausverbot.
+1. Handelt es sich um einen Profispieler (DFB-Lizenzliga, Bundesliga, Frauen-Bundesliga) oder einen Amateur-/Vertragsspieler?
+2. Wie lange läuft der Vertrag — und ist der Befristungsgrund (Sachgrund § 14 TzBfG) klar benannt?
+3. Liegt ein nationaler oder internationaler Wechsel vor (FIFA RSTP, Transfer Matching System, ITC-Pflicht)?
+4. Welche Ausstiegsklauseln, Vertragsstrafen oder Sondervergütungen (Prämien, Ausrüsterverträge) sind vereinbart?
+5. Welche Bildrechte, Persönlichkeitsrechte und Sponsoringrechte sind im Vertrag oder separat geregelt (§§ 22 ff. KUG)?
+6. Besteht ein Streit über Gehaltsrückstände — und wurden Mahnungen mit zweimonatiger Rückstandsfrist gesandt (just cause Art. 14 FIFA RSTP)?
+7. Droht eine FIFA-Transfersperre für den Verein (Registration ban) bei internationalem Vertragsbruch?
+8. Gilt die Drei-Wochen-Klagefrist § 17 TzBfG für eine Befristungskontrollklage?
 
-## 1) Rechtsgrundlage
+---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-### Hausrecht Verein
+## Rechtsgrundlagen
 
-- § 858 BGB analog
-- Vereinsrecht im Stadion
-- Bei Profi-Liga: Vereine über DFL Statuten
+| Norm | Inhalt |
+|---|---|
+| § 14 Abs. 1 TzBfG | Sachgrundbefristung: Nr. 4 (Eigenart der Arbeitsleistung) — für Profisportler |
+| § 17 TzBfG | Befristungskontrollklage: drei Wochen ab vereinbartem Vertragsende |
+| §§ 611a ff. BGB | Arbeitsvertrag; Arbeitnehmerpflichten |
+| §§ 305–310 BGB | AGB-Kontrolle: Ausstiegsklauseln, Vertragsstrafen, Exklusivsponsoringklauseln |
+| § 307 Abs. 1 BGB | Unangemessene Benachteiligung durch AGB; Spielervertrag-Klauseln |
+| §§ 22 ff. KUG | Bildnisrechte; Recht am eigenen Bild; kommerzielle Verwertung |
+| Art. 1, 2 GG | Allgemeines Persönlichkeitsrecht; Recht am eigenen Bild |
+| Art. 14 FIFA RSTP | Just cause: triftiger Grund für außerordentliche Kündigung (Gehaltsrückstände > 2 Monate) |
+| Art. 17 FIFA RSTP | Transferentschädigung bei Vertragsbruch ohne triftigen Grund |
+| Art. 20 FIFA RSTP | Ausbildungsentschädigung für Spieler unter 23 Jahren |
+| Art. 21 FIFA RSTP | Solidaritätsmechanismus: 5 % der Transfersumme an frühere Ausbildungsklubs |
+| Art. 45 AEUV | Freizügigkeit Arbeitnehmer (EU-Bürger; Bosman) |
 
-### Bundesweites Stadion-Verbot
+### Leitentscheidungen
 
-- DFL-Richtlinien
-- Datei "Gewalttaeter Sport" beim BKA
-- Eintragung 1-5 Jahre
+| Aktenzeichen | Gericht/Datum | Leitsatz |
+|---|---|---|
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| CAS 2014/A/3642 | CAS, 2014 | Just cause bei Gehaltsrückständen; zweimonatige Rückstandsdauer |
+| CAS 2019/A/6301 | CAS, 2019 | Art. 17 RSTP-Schadensberechnung; Restwert-Methode |
 
-## 2) Voraussetzungen
+---
 
-### Erforderlich
+## Prüfschema (14 Schritte)
 
-- Sachgrund (z.B. Gewalt, Pyrotechnik, Beleidigung)
-- Verhältnismaessigkeit
-- Vorherige Anhörung (oft fehlend)
-- Befristung
+| Schritt | Inhalt | Grundlage |
+|---|---|---|
+| 1 | Vertragstyp identifizieren (Profi, Vertragsspieler, Amateur) | TzBfG, DFB-LOS |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 3 | AGB-Klauselkontrolle: Ausstiegsklausel, Vertragsstrafen §§ 305 ff. BGB | §§ 307 ff. BGB |
+| 4 | Bildrechte und Persönlichkeitsrechte: exklusiv oder nicht? §§ 22 ff. KUG | KUG, Art. 1, 2 GG |
+| 5 | Transferregelungen: FIFA RSTP anwendbar (internationaler Wechsel)? | FIFA RSTP Art. 17 |
+| 6 | Ausbildungsentschädigung Art. 20 RSTP: Spieler unter 23 Jahre? | Art. 20 FIFA RSTP |
+| 7 | Solidaritätsmechanismus Art. 21 RSTP: früherer Ausbildungsklub? | Art. 21 FIFA RSTP |
+| 8 | Gehaltsrückstände: zwei Monate aufgelaufen (just cause Art. 14)? | Art. 14 FIFA RSTP |
+| 9 | Schadensberechnung bei Vertragsbruch Art. 17 RSTP (Restwert-Methode) | Art. 17 FIFA RSTP; CAS 2019/A/6301 |
+| 10 | Sportliche Sanktion Art. 17 Abs. 4 RSTP (Sperre für nächsten Wechsel-Slot)? | Art. 17 Abs. 4 RSTP |
+| 11 | FIFA-Kammer oder CAS-Berufung (21 Tage)? | FIFA RSTP; CAS Code R49 |
+| 12 | Nationale Ebene: Befristungskontrollklage § 17 TzBfG (drei Wochen)? | § 17 TzBfG |
+| 13 | EU-Freizügigkeit Art. 45 AEUV (Bosman): Transferbeschränkung nach Vertragsende unzulässig? | Art. 45 AEUV |
+| 14 | Vertragsfolgen einer Dopingsperre auf Spielervertrag prüfen | Vertragsklauseln; AntiDopG |
 
-### Praxis-Probleme
+---
 
-- Pauschal-Verbote ohne Einzel-Prüfung
-- Sippenhaft-Effekt (Verein-Zugehoerigkeit)
-- Erfassung in Datei ohne Beweis
+## Strategische Optionen (vor dem Template entscheiden)
 
-## 3) BGH-Linie
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Spielervertrag pruefen und verhandeln | Vertragsbewertung; Template unten |
+| Variante A — Vorzeitige Aufhebung | Abloesesumme vs. ausserordentliche Kuendigung abwaegen |
+| Variante B — Vertragsstrafe wegen Vertragsbruch | Vertragsstrafe pruefen; § 343 BGB-Herabsetzung |
+| Variante C — Image-/Sponsorenrechte streitig | IP-Recht-Aspekte; Skill urheber-medienrecht einbeziehen |
 
-## 4) Workflow
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-### Schritt 1 — Bescheid prüfen
+## Schriftsatzbausteine
 
-- Begründung konkret?
-- Befristung?
-- Anhörungs-Mangel?
+### Baustein 1 — Stellungnahme gegen Art. 17 RSTP-Forderung (vollständig)
 
-### Schritt 2 — Widerspruch
+```
+An die FIFA Dispute Resolution Chamber (DRC)
+FIFA
+FIFA-Strasse 20
+8044 Zürich, Schweiz
 
-- An Verein-Vorstand / DFL
-- Anfechtungs-Klage AG bei Verein-Sitz
+Case Reference: [Case No.]
 
-### Schritt 3 — Löschungs-Antrag
+Claimant: [Verein Name]
+Respondent: [Spieler Name, Geburtsdatum, Nationalität]
 
-- BKA "Gewalttaeter Sport" Löschungs-Antrag
-- DSGVO Art. 17 Löschungs-Anspruch
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+RESPONSE TO CLAIM PURSUANT TO ART. 17 FIFA RSTP
 
-### Schritt 4 — Klage
+On behalf of the Respondent we hereby respond to the Claim
+of [Verein] dated [Date] seeking compensation pursuant to
+Art. 17 FIFA RSTP.
 
-- AG Vereinssitz
-- Streitwert niedrig (typisch 2.500 EUR)
+I. FACTS
 
-## 5) Typische Fehler
+The Respondent entered into an employment contract with the
+Claimant on [Date] for the period from [Date] to [Date].
+The last monthly salary was paid for [Month/Year].
+Subsequently, salary payments for [Months] in the total
+amount of EUR [Amount] were not made despite formal demands
+(Exhibit R-1: First Demand Letter [Date]; Exhibit R-2:
+Second Demand Letter [Date]).
 
-1. **Anhörung Verein nicht erfolgt** -> Verbot anfechtbar
-2. **Beweis Pyrotechnik fehlt** Verein
-3. **Befristung unklar** -> Anfechtung
-4. **DSGVO-Löschung versäumt**
+II. JUST CAUSE (Art. 14 FIFA RSTP)
 
-## 6) Praxis-Aspekte
+The Respondent had just cause to unilaterally terminate the
+contract on [Date]. The criteria established by CAS (CAS
+2014/A/3642) are met:
 
-### Bei Mehrfach-Tatern
+1. Salary arrears: The total amount of EUR [Amount] (covering
+   [N] monthly salaries) was outstanding for more than two
+   months.
+2. Two formal warnings: Demand letters were sent on [Date 1]
+   and [Date 2] (Exhibits R-1 and R-2).
+3. The Claimant failed to remedy the breach within the
+   reasonable timeframe provided.
 
-- Stationaere Anwesenheits-Pflicht möglich
-- StGB-Sportgewalt-Vorwurf
+Consequence: The Respondent is entitled to terminate the
+contract with just cause. No compensation is due pursuant
+to Art. 17 FIFA RSTP.
 
-### Bei Bagatell
+III. ALTERNATIVELY: REDUCTION OF COMPENSATION (Art. 17 RSTP)
 
-- Erste Tat: oft eA-Verfahren
-- Zweite Tat: Eskalation
+Should the Chamber find that just cause did not exist, the
+compensation is to be substantially reduced:
 
-## Anschluss
+1. The Claimant's contributory fault (non-payment of salary)
+   must be taken into account.
+2. Restwert calculation: Monthly remuneration EUR [Amount] ×
+   remaining months [N] = EUR [Amount]. The claimed amount
+   of EUR [Amount] is excessive.
+3. No "protected period" breach: the contract was not
+   terminated within the first [2/3] years (Art. 17 para. 4
+   RSTP does not apply).
+4. The Respondent is not subject to sporting sanctions
+   (Registration ban).
 
-- `fachanwalt-sportrecht-orientierung` — Triage
-- `datenschutzrecht` — bei DSGVO-Löschung
-- `verbandsstrafe-anfechten` — bei Verbands-Sanktion
+IV. RELIEF SOUGHT
 
-## Ergaenzende Rechtsprechung Stadion-Hausverbot
+We respectfully request the FIFA DRC to:
+a) Dismiss the Claim in its entirety;
+b) In the alternative, significantly reduce any compensation;
+c) Order the Claimant to reimburse the outstanding salary
+   arrears of EUR [Amount] plus interest.
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+[Place, Date]
+[Signature, Counsel]
+```
+
+### Baustein 2 — Befristungskontrollklage § 17 TzBfG
+
+```
+An das Arbeitsgericht [Ort]
+
+Klage (§ 17 TzBfG — Befristungskontrolle)
+
+[Spieler Name, Adresse] ./. [Verein Name, Adresse]
+
+Antrag:
+Es wird festgestellt, dass das Arbeitsverhältnis der Parteien
+nicht durch Befristung am [Datum] geendet hat.
+
+Begründung:
+
+I. Die vereinbarte Befristung ist unwirksam, weil:
+
+1. Sachgrundmangel § 14 Abs. 1 TzBfG: Der Vertrag benennt
+   keinen Sachgrund. Die bloße Angabe "befristet" genügt nicht
+   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+2. [Alternativ: Sachgrund nicht tatsächlich vorhanden; z.B.
+   angebliche Eigenart der Arbeitsleistung liegt nicht vor,
+   weil der Kläger hauptsächlich Verwaltungsaufgaben erfüllt
+   hat]
+
+3. Kettenbefristung § 14 Abs. 2 Satz 2 TzBfG: Zuvor bestanden
+   drei befristete Verträge mit demselben Arbeitgeber. Eine
+   weitere sachgrundlose Befristung ist unzulässig.
+
+II. Die Klagefrist ist gewahrt.
+Der Vertrag endete am [Datum]. Die Klage wird am [Datum] =
+innerhalb von drei Wochen (§ 17 TzBfG) erhoben.
+
+Wir beantragen Prozesskostenhilfe.
+
+Mit freundlichen Grüßen
+[Rechtsanwalt/-anwältin]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+---
+
+## Beweislast
+
+| Position | Träger | Beweismittel |
+|---|---|---|
+| Sachgrundvoraussetzungen § 14 TzBfG | Verein | Sportlicher und wirtschaftlicher Bedarf nachweisen |
+| Gehaltsrückstände (just cause) | Spieler | Lohnabrechnungen, Kontoauszüge, Mahnschreiben |
+| Just cause-Zwei-Monats-Frist | Spieler | Datierung der Mahnungen und Rückstands-Zeitraum |
+| Art. 17-Schadenshöhe | Verein (Kläger) | Vertragswert, Restwert, Neuverpflichtungskosten |
+| AGB-Unwirksamkeit Klausel | Spieler | Klausel-Analyse §§ 307 ff. BGB; Vergleich Musterverträge |
+| Bildrechte-Exklusivität | Verein | Vertragsklausel; Nutzungs-Umfang |
+
+---
+
+## Fristen und Verjährung
+
+| Frist | Grundlage | Inhalt |
+|---|---|---|
+| Drei Wochen | § 17 TzBfG | Befristungskontrollklage ab Vertragsende |
+| 21 Tage | Art. R49 CAS Code | CAS-Berufung nach FIFA-DRC-Entscheidung |
+| Sofort | Art. 14 FIFA RSTP | Außerordentliche Kündigung mit just cause jederzeit möglich |
+| 2 Jahre | § 195 BGB | Verjährung arbeitsrechtlicher Ansprüche (Gehaltsrückstände) |
+| 3 Jahre | § 195 BGB | Allgemeine Verjährung |
+
+---
+
+## Typische Gegenargumente des Vereins
+
+| Verein-Argument | Gegenstrategie |
+|---|---|
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Kein just cause — Gehaltsrückstand nur ein Monat" | CAS 2014/A/3642: zwei Monate + förmliche Mahnung; Fristennachweis |
+| "Ausstiegsklausel unwirksam (zu niedrig)" | §§ 307 ff. BGB: Klausel wirksam wenn nicht unangemessen benachteiligend |
+| "Bildrechte exklusiv vertraglich übertragen" | §§ 22 ff. KUG: Einwilligung widerrufbar; Umfang der Übertragung prüfen |
+| "Art. 17 RSTP-Entschädigung in voller Höhe" | Restwert-Methode; Mitveranlassung des Vereins (Gehaltrückstände) |
+| "Bosman gilt nicht (Nicht-EU-Spieler)" | Vergleichbare nationale Regelungen prüfen; DFB-Transferordnung |
+
+---
+
+## Streitwert / Kosten
+
+| Position | Richtwert |
+|---|---|
+| Streitwert Befristungskontrolle | Drei Monatsgehälter (§ 42 GKG analog) |
+| Streitwert Art. 17 RSTP-Schadensersatz | Strittiger Betrag |
+| Gerichtskosten ArbG | Nach GKG; Streitwert abhängig |
+| Anwaltskosten | Honorarvereinbarung; RVG für nationale Gerichte |
+| FIFA-Verfahren | Keine Gerichtsgebühren; Anwaltskosten nach Vereinbarung |
+| CAS-Berufung | CHF 1000+ Anfangsgebühr; bis CHF 50000+ gesamt |
+
+---
+
+## Strategische Empfehlung
+
+| Fallkonstellation | Empfehlung |
+|---|---|
+| Gehaltsrückstände > 2 Monate | Mahnungsvoraussetzungen genau prüfen; just cause aufbauen |
+| Unklarer Befristungsgrund | Befristungskontrollklage § 17 TzBfG fristwahrend (drei Wochen!) |
+| Bildrechte-Streit | KUG §§ 22 ff. prüfen; Einwilligungsumfang und Widerruflichkeit |
+| Internationaler Wechsel | FIFA RSTP Fristen; Transfer Matching System; ITC |
+| Dopingsperre + Vertrag | Suspendierungsklausel prüfen; Kündigung aus wichtigem Grund § 626 BGB |
+| Ausstiegsklausel zu hoch | AGB-Kontrolle §§ 307 ff. BGB; unverhältnismäßige Beschränkung der Freizügigkeit |
+
+---
+
+## Anschluss-Skills
+
+- `verbandsstrafe-anfechten` — bei Sanktionen aus Vertragsverletzung
+- `cas-berufung-vorbereiten` — FIFA-DRC-Berufung
+- `fachanwalt-sportrecht-doping-verfahren` — bei Dopingsperre und Vertragsfolgen
+- `fachanwalt-urheber-medienrecht-abmahnung-pruefen` — bei Bildrechts-Streit
+
+## Quellen
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+<!-- AUDIT 27.05.2026
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+-->
+
+---
+
+## Skill: `vereinsstrafrecht`
+
+_Wenn es um Vereinsstrafrecht in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vereinsstrafrecht; Arbeitsfeld: Fachanwalt Sportrecht._
+
+# Fachanwalt Sportrecht Vereinsstrafrecht: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: WADC Art. 17 Verfolgungsverjährung 10 Jahre, CAS-Anrufung 21 Tage, DFB-RVO 7-Tage-Berufung, FAO § 5 36 Monate Praxiszeit.
+- Tragende Normen verifizieren: FAO § 14n (Sportrecht), AntiDopG, NADC, WADC, BGB §§ 25 ff. (Verein), 705 ff., DFB-Satzung/Rechts- und Verfahrensordnung, FIFA-Statuten, CAS-Code, ArbGG (Spielerverträge) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Fachanwalt Sportrecht Vereinsstrafrecht: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
+
+### Vereinsstrafrecht
+
+## Kaltstart-Rückfragen
+
+1. Welcher Verband oder Verein hat die Strafe verhängt — Bundesverband (DFB, DEB, DOSB), Landesverband, Profiliga oder Amateurverein?
+2. Welche konkrete Sanktion wurde ausgesprochen — Geldstrafe (Betrag), Spielsperre (Anzahl Spiele), Lizenzentzug, Punktabzug, Vereinsausschluss?
+3. Auf welche Satzungs- oder Regelwerksnorm wird die Strafe gestützt — ist die Norm klar und vollständig?
+4. Wurde ein ordnungsgemäßes Disziplinarverfahren durchgeführt (schriftliche Anhörung mit ausreichender Frist, Akteneinsicht, schriftliche Begründung)?
+5. Welche verbandsinternen Rechtsmittelinstanzen sieht die Satzung vor (Verbandsgericht, Berufungsausschuss, DIS-Sportschiedsgericht, CAS)?
+6. Ist die Berufungsfrist nach der Satzung (oft sieben Tage beim DFB) noch nicht abgelaufen?
+7. Tangiert die Sanktion die Berufsausübung (Profisportler: Art. 12 GG) — ist existenzielle Gefährdung vorhanden?
+8. Hat der Mandant ein Sponsoring- oder Lizenzvertrag, der eine Suspendierungs- oder Kündigungsklausel enthält?
+
+---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Rechtsgrundlagen
+
+| Norm | Inhalt |
+|---|---|
+| § 25 BGB | Vereinsstrafrecht: Sanktionen müssen in Satzung verankert sein; vereinsrechtliche Anfechtung |
+| §§ 21–79 BGB | Vereinsrecht; Mitgliedschaft; Organverfassung; Beschlüsse |
+| §§ 305–310 BGB | AGB-Kontrolle: Verbandssatzung unterliegt bei faktischem Beitrittszwang §§ 307 ff. BGB |
+| § 242 BGB | Treu und Glauben; Verbot widersprüchlichen Verhaltens (estoppel-Wirkung) |
+| § 823 Abs. 1 BGB | Schadensersatz bei rechtswidriger Sanktion; Eingriff in Recht am eingerichteten Gewerbebetrieb |
+| § 1004 BGB | Beseitigungs- und Unterlassungsanspruch gegen rechtswidrige Sperre |
+| Art. 9 GG | Vereinigungs- und Verbandsfreiheit; Grundlage für Satzungsautonomie |
+| Art. 12 GG | Berufsfreiheit Berufssportler; Verhältnismäßigkeitsgebot |
+| § 32 ZPO | Gerichtlicher Gerichtsstand (ordentliches Gericht subsidiär nach Erschöpfung Verbandsweg) |
+| § 935 ZPO | Einstweilige Verfügung gegen Spielsperre |
+| §§ 1029, 1033 ZPO | Schiedsklauseln; einstweilige Verfügung trotz Schiedsklausel zulässig |
+
+### Leitentscheidungen
+
+| Aktenzeichen | Gericht/Datum | Leitsatz |
+|---|---|---|
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+
+---
+
+## Prüfschema (14 Schritte)
+
+| Schritt | Inhalt | Grundlage |
+|---|---|---|
+| 1 | Ermächtigungsnorm: Ist die verhängte Sanktion in der Satzung ausdrücklich vorgesehen? | § 25 BGB |
+| 2 | Zuständigkeit: War das Spruchorgan satzungsgemäß besetzt und zuständig? | Satzung |
+| 3 | Ordnungsgemäße Einberufung des Spruchorgans (Frist, Tagesordnung)? | Satzung |
+| 4 | Anhörung: Hat der Betroffene schriftliche Ankündigung mit angemessener Frist erhalten? | Art. 103 Abs. 1 GG analog |
+| 5 | Akteneinsicht: War Einsicht in alle Beweisunterlagen möglich? | Verfahrensgrundsätze |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 7 | Tatbestandserfüllung: Ist der vorgeworfene Sachverhalt tatsächlich eine Verletzung der Satzungsnorm? | Materielle Prüfung |
+| 8 | Verschulden: Ist Vorsatz oder Fahrlässigkeit nachgewiesen? | Satzung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 11 | Vorrangige verbandsinterne Instanzen ausschöpfen? | Satzung |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 13 | Vorläufiger Rechtsschutz erforderlich (§ 935 ZPO, § 1033 ZPO)? | §§ 935, 1033 ZPO |
+| 14 | Art. 12 GG-Verstoß (Berufsfreiheit) bei Profisportler prüfen? | Art. 12 GG |
+
+---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Vereinsstrafe anfechten | Widerspruch gegen Vereinsstrafe; Template unten |
+| Variante A — Mandant akzeptiert Schuld | Strafmilderung verhandeln; kooperatives Vorgehen |
+| Variante B — Strafverfahren parallel | Koordination Vereins- und Strafverfahren; keine Selbstbelastung |
+| Variante C — Satzungswidriges Strafverfahren | Formelle Ruege; Nichtigkeitsklage vor ordentlichem Gericht |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Schriftsatzbausteine
+
+### Baustein 1 — Einspruch/Berufung gegen Vereinsstrafe (vollständig)
+
+```
+An das [Sportgericht / Verbandsgericht des Verbands]
+
+Az. [...]
+
+Berufung / Einspruch gegen die Entscheidung des
+[Disziplinarausschusses / Rechtsausschusses / Sportgerichts]
+vom [Datum], Az. [...] — [Mandant Name]
+
+Sehr geehrte Damen und Herren,
+
+namens und in Vollmacht unserer Mandantschaft [Name, Geburtsdatum,
+Lizenz-Nr.] legen wir form- und fristgerecht
+
+ B e r u f u n g / E i n s p r u c h
+
+ein.
+
+A n t r a g:
+Die angegriffene Entscheidung vom [Datum] wird aufgehoben.
+Das Disziplinarverfahren wird eingestellt.
+
+B e g r ü n d u n g:
+
+I. Verfahrensfehler
+
+1. Anhörungsrecht verletzt (Art. 103 Abs. 1 GG analog):
+ Das Anhörungsschreiben vom [Datum] setzte eine Frist bis
+ [Datum] — das sind nur [X] Tage. Angesichts der Schwere
+ der Vorwürfe (Spielsperre [N] Spiele; Geldstrafe EUR [Betrag])
+ ist diese Frist unzumutbar kurz.
+ Belegt: Anlage B1 (Anhörungsschreiben).
+
+2. Akteneinsicht verweigert:
+ Der Antrag auf vollständige Akteneinsicht vom [Datum] (Anlage B2)
+ blieb unbeantwortet / wurde abgelehnt (Anlage B3). Ohne Kenntnis
+ aller Beweismittel war eine substantiierte Verteidigung nicht
+ möglich.
+
+3. Begründungsmangel:
+ Die Entscheidung vom [Datum] enthält auf Seite [X] keine
+ Subsumtion des festgestellten Sachverhalts unter § [Satzungs-
+ norm]. Es fehlt die Auseinandersetzung mit dem Verteidigungsvor-
+ trag vom [Datum] (Anlage B4).
+
+II. Materielle Fehler
+
+4. Tatbestand nicht erfüllt:
+ Der vorgeworfene Sachverhalt [Datum, Ort, Handlung] erfüllt
+ nicht den Tatbestand des § [Satzungsnorm], weil [Begründung].
+ Beweis: Anlage B5 (Videomitschnitt); Anlage B6 (Zeugenaussagen
+ [Namen]).
+
+5. Fehlendes Verschulden:
+ Unsere Mandantschaft handelte in der irrtümlichen Annahme,
+ dass [Handlung] nach § [Satzungsnorm] zulässig sei. Dieser
+ Irrtum war aus Sicht eines verständigen Sportlers entschuldbar
+ (Anlage B7: Regelwerks-Schulungsnachweis; Anlage B8: Verbandspost
+ zu geänderten Regelungen).
+
+6. Unverhältnismäßigkeit:
+ In vergleichbaren Fällen hat der Verband folgende Strafen
+ verhängt: [Auflistung aus Verbandsrechtsprechung] (Anlage B9).
+ Die hier ausgesprochene Sperre von [N] Spielen überschreitet
+ den üblichen Strafrahmen erheblich. Art. 12 GG gebietet
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+III. Hilfsantrag
+
+Hilfsweise: Die Strafe wird auf [Geldstrafe EUR [Betrag] /
+[N] Spiele] reduziert.
+
+IV. Einstweilige Aussetzung der Vollziehung
+
+Da in der laufenden Saison [nächste Spielrunde Datum] wich-
+tige Partien anstehen, beantragen wir die sofortige Aussetzung
+der Sperre bis zur Berufungsentscheidung. Irreparabler Schaden
+ist sonst nicht vermeidbar.
+
+Anlagen B1 bis B9 beigefügt.
+
+Mit freundlichen Grüßen
+[Rechtsanwalt/-anwältin, Fachanwalt für Sportrecht]
+```
+
+### Baustein 2 — Klage auf Aufhebung Vereinsstrafe (ordentliches Gericht)
+
+```
+An das Landgericht [Ort]
+
+Klage / einstweilige Verfügung
+[Name] ./. [Verband]
+
+Antrag:
+Der Beklagte wird verurteilt, die Entscheidung des [Spruchorgans]
+vom [Datum] (Spielsperre / Geldstrafe) aufzuheben und ihre
+Vollziehung zu unterlassen.
+
+Alternativ (einstweilig § 935 ZPO):
+Es wird dem Beklagten verboten, die Spielsperre vom [Datum]
+bis zur rechtskräftigen Entscheidung in der Hauptsache
+zu vollziehen.
+
+Begründung:
+
+I. Zulässigkeit
+Obwohl die Verbandssatzung eine Schiedsklausel enthält, ist
+die einstweilige Verfügung nach § 1033 ZPO vor dem staatlichen
+Gericht zulässig.
+
+II. Verbandsweg ausgeschöpft
+[Berufungsinstanzen vollständig abgeschlossen / nicht aus-
+schöpfbar wegen Dringlichkeit]
+
+III. Rechtswidrigkeit der Entscheidung
+[Zusammenfassung der Angriffspunkte aus Baustein 1]
+
+IV. Berufsfreiheit Art. 12 GG
+Die Spielsperre verletzt die Berufsfreiheit des Klägers als
+Profisportler. Sie ist unverhältnismäßig.
+
+Eidesstattliche Versicherung: Anlage EV-1.
+
+Mit freundlichen Grüßen
+[Rechtsanwalt/-anwältin]
+```
+
+--- vor Versand klären ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+---
+
+## Beweislast
+
+| Position | Träger | Beweismittel |
+|---|---|---|
+| Tatbestandserfüllung | Verband | Sitzungsprotokoll, Videos, Schiedsrichterberichte, Zeugen |
+| Ordnungsgemäße Einberufung Spruchorgan | Verband | Satzungskonformität |
+| Verfahrensfehler (Anhörung, Akteneinsicht) | Mandant | Fehlende Unterlagen in Akte; Fristen-Nachweis |
+| Verhältnismäßigkeit (Vergleichsfälle) | Mandant | Verbandsrechtsprechung; Präzedenzfälle |
+| Fehlender Tatbestand (Videobeweis) | Mandant | Videos, Zeugenaussagen |
+| AGB-Unwirksamkeit Satzungsklausel | Mandant | Analyse nach §§ 307 ff. BGB |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+
+---
+
+## Fristen und Verjährung
+
+| Frist | Grundlage | Inhalt |
+|---|---|---|
+| 7 Tage (DFB) | DFB-RuVO | Verbandsinterne Berufungsfrist (sofort prüfen!) |
+| 21 Tage | Art. R49 CAS Code | CAS-Berufung nach Erschöpfung Verbandsweg |
+| Keine Sperrfrist | § 32 ZPO | Klage staatliches Gericht nach Verbandsweg |
+| Sofort möglich | § 935 ZPO | Einstweilige Verfügung bei Dringlichkeit |
+| 3 Jahre | § 195 BGB | Schadensersatz aus unrechtmäßiger Vereinsstrafe |
+
+---
+
+## Typische Gegenargumente des Verbands
+
+| Verband-Argument | Gegenstrategie |
+|---|---|
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Verbandsweg nicht erschöpft" | Ggf. Dringlichkeit: § 1033 ZPO-Antrag schon vor Erschöpfung |
+| "Schiedsklausel wirksam, staatliche Gerichte ausgeschlossen" | § 1033 ZPO: einstweilige Verfügung trotzdem möglich |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| "Tatbestand liegt vor" | Video-Beweis; Zeugenbeweis; eigene Auswertung Schiedsrichterprotokoll |
+
+---
+
+## Streitwert / Kosten
+
+| Position | Richtwert |
+|---|---|
+| Streitwert (Spielsperre Profispieler) | Wirtschaftlicher Schaden der Sperre (Gehalt × Wochen, Prämien) |
+| Streitwert (Lizenzentzug) | Barwert Restvertrag + Karrierewert; oft EUR 50000–500000+ |
+| Streitwert (Geldstrafe) | Geldstrafen-Betrag |
+| Gerichtskosten LG | Nach GKG |
+| Anwaltskosten | Honorarvereinbarung; RVG-Streitwert |
+| CAS-Berufung | CHF 1000+ Anfangsgebühr; CHF 15000–50000 Verfahren |
+
+---
+
+## Strategische Empfehlung
+
+| Fallkonstellation | Empfehlung |
+|---|---|
+| DFB-Sperre, 7-Tage-Frist | Sofortige Berufung beim zuständigen DFB-Gericht fristwahrend; dann ausführliche Begründung |
+| Verfahrensfehler eindeutig | Primär formelle Rügen; höchste Erfolgsquote |
+| Verhältnismäßigkeit fraglich | Vergleichsfälle sammeln; Satzungsrechtsprechung des Verbands analysieren |
+| Lizenzentzug Berufssportler | Art. 12 GG; einstweilige Verfügung § 935 ZPO sofort |
+| Saison läuft | Gleichzeitig Verbandsberufung + § 935 ZPO-Antrag LG |
+| Verbandsweg abgeschlossen | CAS oder ordentliches Gericht; Kostenabwägung |
+
+---
+
+## Anschluss-Skills
+
+- `verbandsstrafe-anfechten` — übergreifendes Prüfraster
+- `cas-berufung-vorbereiten` — nach Erschöpfung Verbandsweg
+- `fachanwalt-sportrecht-doping-verfahren` — bei Doping-Aspekt
+- `fachanwalt-sportrecht-spielervertrag` — Vertragsfolgen der Sanktion
+
+## Quellen
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+---
+
+## Skill: `schiedsverfahren-schriftsatz-brief-und-memo-bausteine`
+
+_Wenn es um Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Sportrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: WADC Art. 17 Verfolgungsverjährung 10 Jahre, CAS-Anrufung 21 Tage, DFB-RVO 7-Tage-Berufung, FAO § 5 36 Monate Praxiszeit.
+- Tragende Normen verifizieren: FAO § 14n (Sportrecht), AntiDopG, NADC, WADC, BGB §§ 25 ff. (Verein), 705 ff., DFB-Satzung/Rechts- und Verfahrensordnung, FIFA-Statuten, CAS-Code, ArbGG (Spielerverträge) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine.
+
+## Spezialwissen: Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine
+- **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Schiedsverfahren** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 12 GG
+- § 17 TzBfG
+- § 4 AntiDopG
+- § 14 TzBfG
+- Art. 9 GG
+- Art. 45 AEUV
+- Art. 101 AEUV
+- § 29 VwVfG
+- § 23 EStG
+- § 42 GKG
+- § 54 StGB
+- § 265d StGB
+
+### Leitentscheidungen
+
+- EuGH C-333/21
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

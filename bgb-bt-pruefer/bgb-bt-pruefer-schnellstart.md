@@ -28,8 +28,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragrafen 433 ff. BGB; Paragrafen 535 ff. BGB; Paragrafen 631 ff. BGB |
-| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Normenanker | Paragraf 3 ProdHaftG; Paragraf 4 ProdHaftG; Paragraf 8 ProdHaftG |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Tragende Normen verifizieren: BGB Paragrafen 535-577a, BetrKV, WEG Paragrafen 24, 25, 27, BGB Paragrafen 558 |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -48,14 +48,13 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 6. Anker
 
-- Paragrafen 433 ff. BGB: Kaufrecht (Grundfall für alle Schuldrecht-BT-Themen): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 535 ff. BGB: Mietrecht als zweiter Basiskurs: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 631 ff. BGB: Werkvertragsrecht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 823 ff. BGB: Deliktsrecht als BT-Abschluss: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 433 ff. BGB: Kaufrecht (Grundfall für alle Schuldrecht-BT-Themen) - Paragrafen 535 ff. BGB: Mietrecht als zweiter Basiskurs - Paragrafen 631 ff. BGB: Werkvertragsrecht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 280 ff. BGB: Pflichtverletzung und Schadensersatz (Schuldrecht AT) - Paragrafen 433 ff. BGB: Kaufvertragliche Ansprüche - Paragrafen 535 ff. BGB: Mietvertragliche Ansprüche: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 280 ff. BGB: Pflichtverletzung und Schadensersatz (Schuldrecht AT): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- Paragraf 3 ProdHaftG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 4 ProdHaftG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 8 ProdHaftG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 2 ProdHaftG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 1 ProdHaftG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 10 ProdHaftG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 9 ProdHaftG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

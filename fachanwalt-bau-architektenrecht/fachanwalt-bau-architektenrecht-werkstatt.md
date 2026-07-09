@@ -115,7 +115,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BVerwG, Urteil vom 01.12.2010 - 9 C 8.09: Der Erschließungsvertrag nach BauGB Paragraf 124 ist gegenüber BauGB Paragraf 11 die speziellere Regelung.
 - BGH 25.02.2016 VII ZR 49/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 - BGH 19.01.2017 VII ZR 235/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- Architekt verlangt nachtraeglich Aufstockung auf HOAI-Mindestsatz; Vertrag unterschritt diesen. - Paragrafen 631 ff. BGB - Paragrafen 650a ff. BGB - Paragraf 640 BGB - Paragraf 634 BGB - HOAI
 - EuGH 04.07.2019 C-377/17 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 - BGH 02.06.2022 VII ZR 174/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 

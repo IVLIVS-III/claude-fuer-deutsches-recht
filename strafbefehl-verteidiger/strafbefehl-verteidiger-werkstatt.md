@@ -101,7 +101,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Beschluss vom 10.01.2017 - 4 StR 247/16: Beweiswürdigung darf keine Lücken und Widersprüche offenlassen.
 - BVerfG, Beschluss vom 19.03.2013 - 2 BvR 2628/10: Verständigung im Strafverfahren verlangt Transparenz und Dokumentation.
 - BGH, Beschluss vom 28.11.2018 - 5 StR 566/18: Strafzumessung muss schuldangemessen begründet werden.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG): Bei Cannabisvorwurf ist die sanktionsfreie Eigenkonsummenge (Paragraf 3 KCanG) tatbestandlich auszuklammern; greift sie, fehlt es am Tatverdacht und es
 - BGH 15.07.2025 — 2 StR 644/24 (KCanG-Strafzumessung): Die gesetzliche Wertung des KCanG ist als bestimmender Strafzumessungsgrund zu berücksichtigen — relevant für die Bemessung von Geldauflagen
 

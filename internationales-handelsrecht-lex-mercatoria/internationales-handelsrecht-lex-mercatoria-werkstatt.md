@@ -88,7 +88,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 1042 Abs. 4 ZPO: Deutsches Schiedsrecht — Tribunal bestimmt Verfahren: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 19 AktG: Konzernprüfungsrecht (für Konzernverbund): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 305-310 BGB: AGB-Einbeziehung im deutschen Recht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- CISG Art. 19: uncitral.un.org. PICC Art. 2.1.22: unidroit.org. UCC Paragraf 2-207: uniform.law.cornell.edu. BGB Paragrafen 305-310: gesetze-im-internet.de. Unsicherheit bleibt sichtbar: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 

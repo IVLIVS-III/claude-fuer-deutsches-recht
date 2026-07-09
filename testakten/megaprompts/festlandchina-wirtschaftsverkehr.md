@@ -1,41 +1,42 @@
-# Megaprompt: festlandchina-wirtschaftsverkehr
+# Vollprüfung: festlandchina-wirtschaftsverkehr
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 198 Skills (gekuerzt fuer Chat-Fenster) des Plugins `festlandchina-wirtschaftsverkehr`.
+Dieser Vollprüfung enthaelt top-8 von 198 Skills (gekuerzt fuer Chat-Fenster) des Plugins `festlandchina-wirtschaftsverkehr`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Festlandchina Wirtschaftsverkehr: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Aus…
-2. **abschlussmemo-china-deal** — Abschluss-Memo China-Deal: Checkliste für finale Dokumentation vor Signing/Closing, AWV-Meldung, BAFA-Genehmigungen, FDI…
-3. **arbitration-hk-siac-ciamac** — Schiedsgerichtsbarkeit für China-Streitigkeiten: CIETAC (China Int'l Economic and Trade Arbitration Commission), ICC mit…
-4. **asset-protection-and-cash-repatriation** — Vermögensschutz und Cash-Repatriierung aus China: SAFE-Devisenkontrolle (State Administration of Foreign Exchange), Divi…
-5. **automotive-supply-chain** — Automobilzuliefererkette China: Einzelteile und Module aus VR China unter EU-Anti-Dumping-Watch (E-Fahrzeuge), LkSG-Risi…
-6. **awg-awv-investitionspruefung** — Investitionsprüfung nach AWG §§ 55 ff. und AWV §§ 55-62a: Sektorenüberblick, Erwerbsschwellen (10/25 Prozent Stimmrechte…
-7. **battery-ev-solar-supply-chain** — Batterie-, EV- und Solarlieferketten aus China: EU-Batterie-VO 2023/1542 Sorgfaltspflichten, Carbon-Footprint-Deklaratio…
-8. **board-paper-china-risk** — Board-Paper zu China-Risiken: Struktur und Inhalt eines belastbaren China-Risikoberichts für Aufsichtsrat/Vorstand, wese…
+1. **kaltstart-triage** — Wenn es um Festlandchina Wirtschaftsverkehr - Allgemeiner Einstieg in China-Wirtschaftsverkehr geht: klärt Rolle, Ziel, …
+2. **china-fdi-screening-deutschland-chinesische-investoren-critical** — Wenn es um FDI-Screening Deutschland/EU: Verfahren bei chinesischen Investitionen in China-Wirtschaftsverkehr geht: rech…
+3. **patent-and-utility-model-china** — Wenn es um Patente und Gebrauchsmuster China: CNIPA-Strategie und Schutz in China-Wirtschaftsverkehr geht: erstellt den …
+4. **trademark-china-first-to-file** — Wenn es um Markenschutz VR China: First-to-File und Anti-Squatting in China-Wirtschaftsverkehr geht: erstellt den passen…
+5. **ce-kennzeichnung-und-produktsicherheit-china-import-compliance** — Wenn es um CE-Kennzeichnung und Produktsicherheit: China-Import-Compliance in China-Wirtschaftsverkehr geht: ordnet Akte…
+6. **abschlussmemo-china-deal** — Wenn es um Abschluss-Memo China-Deal: Signing/Closing-Checkliste in China-Wirtschaftsverkehr geht: erstellt den passende…
+7. **anti-coercion-instrument-eu** — Wenn es um EU Anti-Coercion Instrument: Schutz gegen chinesische Wirtschaftszwangsmaßnahmen in China-Wirtschaftsverkehr …
+8. **litigation-risk-china** — Wenn es um Prozessrisiken China: Gerichte/Beweis/Vollstreckung in China-Wirtschaftsverkehr geht: erstellt den passenden …
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Festlandchina Wirtschaftsverkehr: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe._
+_Wenn es um Festlandchina Wirtschaftsverkehr - Allgemeiner Einstieg in China-Wirtschaftsverkehr geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Festlandchina Wirtschaftsverkehr - Allgemeiner Einstieg
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Festlandchina Wirtschaftsverkehr** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Startfragen
 
@@ -54,9 +55,385 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ---
 
+## Skill: `china-fdi-screening-deutschland-chinesische-investoren-critical`
+
+_Wenn es um FDI-Screening Deutschland/EU: Verfahren bei chinesischen Investitionen in China-Wirtschaftsverkehr geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
+
+# FDI-Screening Deutschland/EU: Verfahren bei chinesischen Investitionen
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: FDI-Screening Deutschland/EU: Verfahren bei chinesischen Investitionen
+- **Normen-/Quellenanker:** AWG/AWV, EU-Dual-Use, Sanktionen, Zoll/USt, Incoterms, Lieferkette/LkSG/CSDDD, IP-/Know-how-Schutz, Datenschutz/Cybersecurity und lokale China-Compliance live prüfen.
+- **Entscheidende Weiche:** Ordne Lieferant, Werk, Datenfluss, Zahlungsweg, Exportgut, politisches Risiko, IP-Leck und Exit-Szenario getrennt.
+
+Begleitet Mandanten und Berater im Wirtschaftsverkehr mit der Volksrepublik China.
+Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbares Arbeitsprodukt.
+
+## Mandantenfall
+
+**Fall 1:** Ein Unternehmen fragt nach konkreten Handlungspflichten im Bereich Fdi Screening Deutschland Eu beim Chinageschaeft.
+
+**Fall 2:** Eine Rechtsabteilung benötigt einen Prüfbericht zu Fdi Screening Deutschland Eu für ein laufendes China-Projekt.
+
+**Fall 3:** Ein Vorstand bittet um ein Board-Paper zu Fdi Screening Deutschland Eu im Kontext der De-risking-Strategie.
+
+## Erste Schritte
+
+1. Sachverhalt und Ziel bestimmen: Was soll im Bereich Fdi Screening Deutschland Eu geprüft/erstellt werden?
+2. Relevante Normen identifizieren: AWG §§ 55 ff., AWV §§ 55-62a als Ausgangspunkt.
+3. Unterlagen sichten: Verträge, Genehmigungen, Behördenschriftverkehr, interne Richtlinien.
+4. Risikoeinschätzung Investitionsprüfung: Kritikalitätsbewertung nach De-risking-Matrix.
+5. Maßnahmen priorisieren: Kurzfristige Compliance-Lücken schließen, mittelfristige Strukturmaßnahmen planen.
+6. Dokumentation erstellen: Prüfprotokoll, Risikoampel, Handlungsempfehlung.
+
+## Rechtsrahmen
+
+Verbindliches Recht und anerkannte Soft-Law-Quellen für diesen Skill:
+
+- AWG §§ 55 ff.
+- AWV §§ 55-62a
+- EU-VO 2019/452
+- BMWK-Leitfaden Investitionsprüfung
+- De-risking-Strategie Bundesregierung 2023: Politisch-strategischer Orientierungsrahmen.
+- EU-VO 2019/452: FDI-Kooperationsmechanismus als Referenzrahmen.
+- §§ 3-10 LkSG: Lieferkettensorgfaltspflichten als Querschnittspflicht.
+
+Quellen sind getrennt nach deutschem Recht, EU-Recht und chinesischem Recht zu handhaben.
+Bei Widersprüchen gilt: Verbindliches Recht geht Soft Law vor; aktueller Stand ist zu prüfen.
+
+## Prüfraster
+
+Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
+
+- Ist Investitionsprüfung-Relevanz für das konkrete Vorhaben gegeben?
+- Welche Normen und Behörden sind zuständig?
+- Bestehen Genehmigungs- oder Meldepflichten?
+- Welche Fristen sind zu beachten?
+- Gibt es De-risking- oder Diversifizierungsanforderungen?
+- Ist die Dokumentation für Behörden und Investoren belastbar?
+
+## Typische Fallstricke
+
+Aus der Beratungspraxis: Diese Fehler sollten aktiv vermieden werden.
+
+- Investitionsprüfung-Relevanz unterschätzt: Regulierungsrahmen wird zu spät geprüft.
+- Fristen versäumt: AWV/BAFA-Fristen sind streng und führen zu Bußgeldern.
+- Dokumentationslücken: Behörden und Gerichte verlangen lückenlose Aufzeichnungen.
+
+## Gegenposition
+
+Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
+
+- Behörde (BMWK/BAFA): Behältst du den Ermessensspielraum der Behörde im Blick?
+- Vertragspartner China: Welche Interessen und Risikobewertungen hat die chinesische Seite?
+- Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
+- Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
+
+## Quellen
+
+Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
+
+- [AWG Volltext](https://www.gesetze-im-internet.de/awg_2013/)
+- [AWV Volltext](https://www.gesetze-im-internet.de/awv_2013/)
+- [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
+- [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
+- [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
+- [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
+
+---
+
+## Skill: `patent-and-utility-model-china`
+
+_Wenn es um Patente und Gebrauchsmuster China: CNIPA-Strategie und Schutz in China-Wirtschaftsverkehr geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Patente und Gebrauchsmuster China: CNIPA-Strategie und Schutz
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Patente und Gebrauchsmuster China: CNIPA-Strategie und Schutz
+- **Normen-/Quellenanker:** AWG/AWV, EU-Dual-Use, Sanktionen, Zoll/USt, Incoterms, Lieferkette/LkSG/CSDDD, IP-/Know-how-Schutz, Datenschutz/Cybersecurity und lokale China-Compliance live prüfen.
+- **Entscheidende Weiche:** Ordne Lieferant, Werk, Datenfluss, Zahlungsweg, Exportgut, politisches Risiko, IP-Leck und Exit-Szenario getrennt.
+
+Begleitet Mandanten und Berater im Wirtschaftsverkehr mit der Volksrepublik China.
+Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbares Arbeitsprodukt.
+
+## Mandantenfall
+
+**Fall 1:** Ein Unternehmen fragt nach konkreten Handlungspflichten im Bereich Patent And Utility Model China beim Chinageschaeft.
+
+**Fall 2:** Eine Rechtsabteilung benötigt einen Prüfbericht zu Patent And Utility Model China für ein laufendes China-Projekt.
+
+**Fall 3:** Ein Vorstand bittet um ein Board-Paper zu Patent And Utility Model China im Kontext der De-risking-Strategie.
+
+## Erste Schritte
+
+1. Sachverhalt und Ziel bestimmen: Was soll im Bereich Patent And Utility Model China geprüft/erstellt werden?
+2. Relevante Normen identifizieren: AWG §§ 55 ff., AWV §§ 55-62a als Ausgangspunkt.
+3. Unterlagen sichten: Verträge, Genehmigungen, Behördenschriftverkehr, interne Richtlinien.
+4. Risikoeinschätzung Patent And Utility: Kritikalitätsbewertung nach De-risking-Matrix.
+5. Maßnahmen priorisieren: Kurzfristige Compliance-Lücken schließen, mittelfristige Strukturmaßnahmen planen.
+6. Dokumentation erstellen: Prüfprotokoll, Risikoampel, Handlungsempfehlung.
+
+## Rechtsrahmen
+
+Verbindliches Recht und anerkannte Soft-Law-Quellen für diesen Skill:
+
+- AWG §§ 55 ff.
+- AWV §§ 55-62a
+- LkSG §§ 3-10
+- EU-VO 2019/452
+- De-risking-Strategie Bundesregierung 2023: Politisch-strategischer Orientierungsrahmen.
+- EU-VO 2019/452: FDI-Kooperationsmechanismus als Referenzrahmen.
+- §§ 3-10 LkSG: Lieferkettensorgfaltspflichten als Querschnittspflicht.
+
+Quellen sind getrennt nach deutschem Recht, EU-Recht und chinesischem Recht zu handhaben.
+Bei Widersprüchen gilt: Verbindliches Recht geht Soft Law vor; aktueller Stand ist zu prüfen.
+
+## Prüfraster
+
+Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
+
+- Ist Patent And Utility-Relevanz für das konkrete Vorhaben gegeben?
+- Welche Normen und Behörden sind zuständig?
+- Bestehen Genehmigungs- oder Meldepflichten?
+- Welche Fristen sind zu beachten?
+- Gibt es De-risking- oder Diversifizierungsanforderungen?
+- Ist die Dokumentation für Behörden und Investoren belastbar?
+
+## Typische Fallstricke
+
+Aus der Beratungspraxis: Diese Fehler sollten aktiv vermieden werden.
+
+- Patent And Utility-Relevanz unterschätzt: Regulierungsrahmen wird zu spät geprüft.
+- Fristen versäumt: AWV/BAFA-Fristen sind streng und führen zu Bußgeldern.
+- Dokumentationslücken: Behörden und Gerichte verlangen lückenlose Aufzeichnungen.
+
+## Gegenposition
+
+Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
+
+- Behörde (BMWK/BAFA): Behältst du den Ermessensspielraum der Behörde im Blick?
+- Vertragspartner China: Welche Interessen und Risikobewertungen hat die chinesische Seite?
+- Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
+- Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
+
+## Quellen
+
+Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
+
+- [AWG Volltext](https://www.gesetze-im-internet.de/awg_2013/)
+- [AWV Volltext](https://www.gesetze-im-internet.de/awv_2013/)
+- [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
+- [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
+- [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
+- [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
+
+---
+
+## Skill: `trademark-china-first-to-file`
+
+_Wenn es um Markenschutz VR China: First-to-File und Anti-Squatting in China-Wirtschaftsverkehr geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Markenschutz VR China: First-to-File und Anti-Squatting
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Markenschutz VR China: First-to-File und Anti-Squatting
+- **Normen-/Quellenanker:** AWG/AWV, EU-Dual-Use, Sanktionen, Zoll/USt, Incoterms, Lieferkette/LkSG/CSDDD, IP-/Know-how-Schutz, Datenschutz/Cybersecurity und lokale China-Compliance live prüfen.
+- **Entscheidende Weiche:** Ordne Lieferant, Werk, Datenfluss, Zahlungsweg, Exportgut, politisches Risiko, IP-Leck und Exit-Szenario getrennt.
+
+Begleitet Mandanten und Berater im Wirtschaftsverkehr mit der Volksrepublik China.
+Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbares Arbeitsprodukt.
+
+## Mandantenfall
+
+**Fall 1:** Ein Unternehmen fragt nach konkreten Handlungspflichten im Bereich Trademark China First To File beim Chinageschaeft.
+
+**Fall 2:** Eine Rechtsabteilung benötigt einen Prüfbericht zu Trademark China First To File für ein laufendes China-Projekt.
+
+**Fall 3:** Ein Vorstand bittet um ein Board-Paper zu Trademark China First To File im Kontext der De-risking-Strategie.
+
+## Erste Schritte
+
+1. Sachverhalt und Ziel bestimmen: Was soll im Bereich Trademark China First To File geprüft/erstellt werden?
+2. Relevante Normen identifizieren: AWG §§ 55 ff., AWV §§ 55-62a als Ausgangspunkt.
+3. Unterlagen sichten: Verträge, Genehmigungen, Behördenschriftverkehr, interne Richtlinien.
+4. Risikoeinschätzung Trademark China First: Kritikalitätsbewertung nach De-risking-Matrix.
+5. Maßnahmen priorisieren: Kurzfristige Compliance-Lücken schließen, mittelfristige Strukturmaßnahmen planen.
+6. Dokumentation erstellen: Prüfprotokoll, Risikoampel, Handlungsempfehlung.
+
+## Rechtsrahmen
+
+Verbindliches Recht und anerkannte Soft-Law-Quellen für diesen Skill:
+
+- AWG §§ 55 ff.
+- AWV §§ 55-62a
+- LkSG §§ 3-10
+- EU-VO 2019/452
+- De-risking-Strategie Bundesregierung 2023: Politisch-strategischer Orientierungsrahmen.
+- EU-VO 2019/452: FDI-Kooperationsmechanismus als Referenzrahmen.
+- §§ 3-10 LkSG: Lieferkettensorgfaltspflichten als Querschnittspflicht.
+
+Quellen sind getrennt nach deutschem Recht, EU-Recht und chinesischem Recht zu handhaben.
+Bei Widersprüchen gilt: Verbindliches Recht geht Soft Law vor; aktueller Stand ist zu prüfen.
+
+## Prüfraster
+
+Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
+
+- Ist Trademark China First-Relevanz für das konkrete Vorhaben gegeben?
+- Welche Normen und Behörden sind zuständig?
+- Bestehen Genehmigungs- oder Meldepflichten?
+- Welche Fristen sind zu beachten?
+- Gibt es De-risking- oder Diversifizierungsanforderungen?
+- Ist die Dokumentation für Behörden und Investoren belastbar?
+
+## Typische Fallstricke
+
+Aus der Beratungspraxis: Diese Fehler sollten aktiv vermieden werden.
+
+- Trademark China First-Relevanz unterschätzt: Regulierungsrahmen wird zu spät geprüft.
+- Fristen versäumt: AWV/BAFA-Fristen sind streng und führen zu Bußgeldern.
+- Dokumentationslücken: Behörden und Gerichte verlangen lückenlose Aufzeichnungen.
+
+## Gegenposition
+
+Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
+
+- Behörde (BMWK/BAFA): Behältst du den Ermessensspielraum der Behörde im Blick?
+- Vertragspartner China: Welche Interessen und Risikobewertungen hat die chinesische Seite?
+- Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
+- Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
+
+## Quellen
+
+Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
+
+- [AWG Volltext](https://www.gesetze-im-internet.de/awg_2013/)
+- [AWV Volltext](https://www.gesetze-im-internet.de/awv_2013/)
+- [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
+- [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
+- [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
+- [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
+
+---
+
+## Skill: `ce-kennzeichnung-und-produktsicherheit-china-import-compliance`
+
+_Wenn es um CE-Kennzeichnung und Produktsicherheit: China-Import-Compliance in China-Wirtschaftsverkehr geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# CE-Kennzeichnung und Produktsicherheit: China-Import-Compliance
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: CE-Kennzeichnung und Produktsicherheit: China-Import-Compliance
+- **Normen-/Quellenanker:** AWG/AWV, EU-Dual-Use, Sanktionen, Zoll/USt, Incoterms, Lieferkette/LkSG/CSDDD, IP-/Know-how-Schutz, Datenschutz/Cybersecurity und lokale China-Compliance live prüfen.
+- **Entscheidende Weiche:** Ordne Lieferant, Werk, Datenfluss, Zahlungsweg, Exportgut, politisches Risiko, IP-Leck und Exit-Szenario getrennt.
+
+Begleitet Mandanten und Berater im Wirtschaftsverkehr mit der Volksrepublik China.
+Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbares Arbeitsprodukt.
+
+## Mandantenfall
+
+**Fall 1:** Ein Unternehmen fragt nach konkreten Handlungspflichten im Bereich Product Safety And Ce Import beim Chinageschaeft.
+
+**Fall 2:** Eine Rechtsabteilung benötigt einen Prüfbericht zu Product Safety And Ce Import für ein laufendes China-Projekt.
+
+**Fall 3:** Ein Vorstand bittet um ein Board-Paper zu Product Safety And Ce Import im Kontext der De-risking-Strategie.
+
+## Erste Schritte
+
+1. Sachverhalt und Ziel bestimmen: Was soll im Bereich Product Safety And Ce Import geprüft/erstellt werden?
+2. Relevante Normen identifizieren: AWG §§ 55 ff., AWV §§ 55-62a als Ausgangspunkt.
+3. Unterlagen sichten: Verträge, Genehmigungen, Behördenschriftverkehr, interne Richtlinien.
+4. Risikoeinschätzung Product Safety And: Kritikalitätsbewertung nach De-risking-Matrix.
+5. Maßnahmen priorisieren: Kurzfristige Compliance-Lücken schließen, mittelfristige Strukturmaßnahmen planen.
+6. Dokumentation erstellen: Prüfprotokoll, Risikoampel, Handlungsempfehlung.
+
+## Rechtsrahmen
+
+Verbindliches Recht und anerkannte Soft-Law-Quellen für diesen Skill:
+
+- AWG §§ 55 ff.
+- AWV §§ 55-62a
+- LkSG §§ 3-10
+- EU-VO 2019/452
+- De-risking-Strategie Bundesregierung 2023: Politisch-strategischer Orientierungsrahmen.
+- EU-VO 2019/452: FDI-Kooperationsmechanismus als Referenzrahmen.
+- §§ 3-10 LkSG: Lieferkettensorgfaltspflichten als Querschnittspflicht.
+
+Quellen sind getrennt nach deutschem Recht, EU-Recht und chinesischem Recht zu handhaben.
+Bei Widersprüchen gilt: Verbindliches Recht geht Soft Law vor; aktueller Stand ist zu prüfen.
+
+## Prüfraster
+
+Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
+
+- Ist Product Safety And-Relevanz für das konkrete Vorhaben gegeben?
+- Welche Normen und Behörden sind zuständig?
+- Bestehen Genehmigungs- oder Meldepflichten?
+- Welche Fristen sind zu beachten?
+- Gibt es De-risking- oder Diversifizierungsanforderungen?
+- Ist die Dokumentation für Behörden und Investoren belastbar?
+
+## Typische Fallstricke
+
+Aus der Beratungspraxis: Diese Fehler sollten aktiv vermieden werden.
+
+- Product Safety And-Relevanz unterschätzt: Regulierungsrahmen wird zu spät geprüft.
+- Fristen versäumt: AWV/BAFA-Fristen sind streng und führen zu Bußgeldern.
+- Dokumentationslücken: Behörden und Gerichte verlangen lückenlose Aufzeichnungen.
+
+## Gegenposition
+
+Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
+
+- Behörde (BMWK/BAFA): Behältst du den Ermessensspielraum der Behörde im Blick?
+- Vertragspartner China: Welche Interessen und Risikobewertungen hat die chinesische Seite?
+- Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
+- Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
+
+## Quellen
+
+Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
+
+- [AWG Volltext](https://www.gesetze-im-internet.de/awg_2013/)
+- [AWV Volltext](https://www.gesetze-im-internet.de/awv_2013/)
+- [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
+- [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
+- [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
+- [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
+
+---
+
 ## Skill: `abschlussmemo-china-deal`
 
-_Abschluss-Memo China-Deal: Checkliste für finale Dokumentation vor Signing/Closing, AWV-Meldung, BAFA-Genehmigungen, FDI-Screening-Clearance, IP-Registrierung, Datenschutz-Compliance (PIPL/DSGVO), LkSG-Risikoanalyse abgeschlossen, Notarielle Beglaubigungen CN, Post-Closing-Obligations. Output: Ab..._
+_Wenn es um Abschluss-Memo China-Deal: Signing/Closing-Checkliste in China-Wirtschaftsverkehr geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
 # Abschluss-Memo China-Deal: Signing/Closing-Checkliste
 
@@ -166,16 +543,15 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 ### Leitentscheidungen
 
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
 ---
 
-## Skill: `arbitration-hk-siac-ciamac`
+## Skill: `anti-coercion-instrument-eu`
 
-_Schiedsgerichtsbarkeit für China-Streitigkeiten: CIETAC (China Int'l Economic and Trade Arbitration Commission), ICC mit Sitz außerhalb CN, HKIAC Hongkong, SIAC Singapore, Vollstreckung New Yorker Übereinkommen in CN, Zwangsvollstreckung aus Schiedsspruch in der VR China, Anti-suit Injunctions. O..._
+_Wenn es um EU Anti-Coercion Instrument: Schutz gegen chinesische Wirtschaftszwangsmaßnahmen in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Schiedsgerichtsbarkeit China: CIETAC/HKIAC/SIAC-Vergleich
+# EU Anti-Coercion Instrument: Schutz gegen chinesische Wirtschaftszwangsmaßnahmen
 
 ## Arbeitsweg
 
@@ -185,7 +561,7 @@ _Schiedsgerichtsbarkeit für China-Streitigkeiten: CIETAC (China Int'l Economic 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Schiedsgerichtsbarkeit China: CIETAC/HKIAC/SIAC-Vergleich
+## Fachkern: EU Anti-Coercion Instrument: Schutz gegen chinesische Wirtschaftszwangsmaßnahmen
 - **Normen-/Quellenanker:** AWG/AWV, EU-Dual-Use, Sanktionen, Zoll/USt, Incoterms, Lieferkette/LkSG/CSDDD, IP-/Know-how-Schutz, Datenschutz/Cybersecurity und lokale China-Compliance live prüfen.
 - **Entscheidende Weiche:** Ordne Lieferant, Werk, Datenfluss, Zahlungsweg, Exportgut, politisches Risiko, IP-Leck und Exit-Szenario getrennt.
 
@@ -194,18 +570,18 @@ Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbare
 
 ## Mandantenfall
 
-**Fall 1:** Ein Unternehmen fragt nach konkreten Handlungspflichten im Bereich Arbitration Hk Siac Ciamac beim Chinageschaeft.
+**Fall 1:** Ein Unternehmen fragt nach konkreten Handlungspflichten im Bereich Anti Coercion Instrument Eu beim Chinageschaeft.
 
-**Fall 2:** Eine Rechtsabteilung benötigt einen Prüfbericht zu Arbitration Hk Siac Ciamac für ein laufendes China-Projekt.
+**Fall 2:** Eine Rechtsabteilung benötigt einen Prüfbericht zu Anti Coercion Instrument Eu für ein laufendes China-Projekt.
 
-**Fall 3:** Ein Vorstand bittet um ein Board-Paper zu Arbitration Hk Siac Ciamac im Kontext der De-risking-Strategie.
+**Fall 3:** Ein Vorstand bittet um ein Board-Paper zu Anti Coercion Instrument Eu im Kontext der De-risking-Strategie.
 
 ## Erste Schritte
 
-1. Sachverhalt und Ziel bestimmen: Was soll im Bereich Arbitration Hk Siac Ciamac geprüft/erstellt werden?
+1. Sachverhalt und Ziel bestimmen: Was soll im Bereich Anti Coercion Instrument Eu geprüft/erstellt werden?
 2. Relevante Normen identifizieren: AWG §§ 55 ff., AWV §§ 55-62a als Ausgangspunkt.
 3. Unterlagen sichten: Verträge, Genehmigungen, Behördenschriftverkehr, interne Richtlinien.
-4. Risikoeinschätzung Arbitration Hk Siac: Kritikalitätsbewertung nach De-risking-Matrix.
+4. Risikoeinschätzung Anti Coercion Instrument: Kritikalitätsbewertung nach De-risking-Matrix.
 5. Maßnahmen priorisieren: Kurzfristige Compliance-Lücken schließen, mittelfristige Strukturmaßnahmen planen.
 6. Dokumentation erstellen: Prüfprotokoll, Risikoampel, Handlungsempfehlung.
 
@@ -228,7 +604,7 @@ Bei Widersprüchen gilt: Verbindliches Recht geht Soft Law vor; aktueller Stand 
 
 Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
 
-- Ist Arbitration Hk Siac-Relevanz für das konkrete Vorhaben gegeben?
+- Ist Anti Coercion Instrument-Relevanz für das konkrete Vorhaben gegeben?
 - Welche Normen und Behörden sind zuständig?
 - Bestehen Genehmigungs- oder Meldepflichten?
 - Welche Fristen sind zu beachten?
@@ -239,7 +615,7 @@ Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
 
 Aus der Beratungspraxis: Diese Fehler sollten aktiv vermieden werden.
 
-- Arbitration Hk Siac-Relevanz unterschätzt: Regulierungsrahmen wird zu spät geprüft.
+- Anti Coercion Instrument-Relevanz unterschätzt: Regulierungsrahmen wird zu spät geprüft.
 - Fristen versäumt: AWV/BAFA-Fristen sind streng und führen zu Bußgeldern.
 - Dokumentationslücken: Behörden und Gerichte verlangen lückenlose Aufzeichnungen.
 
@@ -283,16 +659,15 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 ### Leitentscheidungen
 
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
 ---
 
-## Skill: `asset-protection-and-cash-repatriation`
+## Skill: `litigation-risk-china`
 
-_Vermögensschutz und Cash-Repatriierung aus China: SAFE-Devisenkontrolle (State Administration of Foreign Exchange), Dividendenausschüttung aus WFOE, Verrechnungspreise als Repatriierungsinstrument, Cash-Pooling CN-DE, Kapitalrückführung bei Liquidation, Steuern auf Repatriierung (Quellensteuer 10..._
+_Wenn es um Prozessrisiken China: Gerichte/Beweis/Vollstreckung in China-Wirtschaftsverkehr geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Vermögensschutz und Cash-Repatriierung China: SAFE und Steuern
+# Prozessrisiken China: Gerichte/Beweis/Vollstreckung
 
 ## Arbeitsweg
 
@@ -302,7 +677,7 @@ _Vermögensschutz und Cash-Repatriierung aus China: SAFE-Devisenkontrolle (State
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Vermögensschutz und Cash-Repatriierung China: SAFE und Steuern
+## Fachkern: Prozessrisiken China: Gerichte/Beweis/Vollstreckung
 - **Normen-/Quellenanker:** AWG/AWV, EU-Dual-Use, Sanktionen, Zoll/USt, Incoterms, Lieferkette/LkSG/CSDDD, IP-/Know-how-Schutz, Datenschutz/Cybersecurity und lokale China-Compliance live prüfen.
 - **Entscheidende Weiche:** Ordne Lieferant, Werk, Datenfluss, Zahlungsweg, Exportgut, politisches Risiko, IP-Leck und Exit-Szenario getrennt.
 
@@ -311,18 +686,18 @@ Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbare
 
 ## Mandantenfall
 
-**Fall 1:** Ein Unternehmen fragt nach konkreten Handlungspflichten im Bereich Asset Protection And Cash Repatriation beim Chinageschaeft.
+**Fall 1:** Ein Unternehmen fragt nach konkreten Handlungspflichten im Bereich Litigation Risk China beim Chinageschaeft.
 
-**Fall 2:** Eine Rechtsabteilung benötigt einen Prüfbericht zu Asset Protection And Cash Repatriation für ein laufendes China-Projekt.
+**Fall 2:** Eine Rechtsabteilung benötigt einen Prüfbericht zu Litigation Risk China für ein laufendes China-Projekt.
 
-**Fall 3:** Ein Vorstand bittet um ein Board-Paper zu Asset Protection And Cash Repatriation im Kontext der De-risking-Strategie.
+**Fall 3:** Ein Vorstand bittet um ein Board-Paper zu Litigation Risk China im Kontext der De-risking-Strategie.
 
 ## Erste Schritte
 
-1. Sachverhalt und Ziel bestimmen: Was soll im Bereich Asset Protection And Cash Repatriation geprüft/erstellt werden?
+1. Sachverhalt und Ziel bestimmen: Was soll im Bereich Litigation Risk China geprüft/erstellt werden?
 2. Relevante Normen identifizieren: AWG §§ 55 ff., AWV §§ 55-62a als Ausgangspunkt.
 3. Unterlagen sichten: Verträge, Genehmigungen, Behördenschriftverkehr, interne Richtlinien.
-4. Risikoeinschätzung Asset Protection And: Kritikalitätsbewertung nach De-risking-Matrix.
+4. Risikoeinschätzung Litigation Risk China: Kritikalitätsbewertung nach De-risking-Matrix.
 5. Maßnahmen priorisieren: Kurzfristige Compliance-Lücken schließen, mittelfristige Strukturmaßnahmen planen.
 6. Dokumentation erstellen: Prüfprotokoll, Risikoampel, Handlungsempfehlung.
 
@@ -345,7 +720,7 @@ Bei Widersprüchen gilt: Verbindliches Recht geht Soft Law vor; aktueller Stand 
 
 Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
 
-- Ist Asset Protection And-Relevanz für das konkrete Vorhaben gegeben?
+- Ist Litigation Risk China-Relevanz für das konkrete Vorhaben gegeben?
 - Welche Normen und Behörden sind zuständig?
 - Bestehen Genehmigungs- oder Meldepflichten?
 - Welche Fristen sind zu beachten?
@@ -356,452 +731,7 @@ Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
 
 Aus der Beratungspraxis: Diese Fehler sollten aktiv vermieden werden.
 
-- Asset Protection And-Relevanz unterschätzt: Regulierungsrahmen wird zu spät geprüft.
-- Fristen versäumt: AWV/BAFA-Fristen sind streng und führen zu Bußgeldern.
-- Dokumentationslücken: Behörden und Gerichte verlangen lückenlose Aufzeichnungen.
-
-## Gegenposition
-
-Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
-
-- Behörde (BMWK/BAFA): Behältst du den Ermessensspielraum der Behörde im Blick?
-- Vertragspartner China: Welche Interessen und Risikobewertungen hat die chinesische Seite?
-- Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
-- Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
-
-## Quellen
-
-Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
-
-- [AWG Volltext](https://www.gesetze-im-internet.de/awg_2013/)
-- [AWV Volltext](https://www.gesetze-im-internet.de/awv_2013/)
-- [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
-- [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
-- [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
-- [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 3-10 LkSG
-- § 299 StGB
-- § 2 LkSG
-- § 1 AWG
-- § 3 PatG
-- § 8 LkSG
-- § 4 LkSG
-- § 17 AWG
-- § 143 MarkenG
-- § 3-5 LkSG
-- § 5-6 LkSG
-- § 5 LkSG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
----
-
-## Skill: `automotive-supply-chain`
-
-_Automobilzuliefererkette China: Einzelteile und Module aus VR China unter EU-Anti-Dumping-Watch (E-Fahrzeuge), LkSG-Risikoanalyse Tier-1 bis Tier-n, XUAR-Bezüge (Aluminium, Baumwolle, Polysilizium), Dual-Use-Prüfung Elektronik-ECU, EU-Batterie-VO 2023/1542 Supply Chain Due Diligence. Output: Auto..._
-
-# Automotive-Lieferkette China: Anti-Dumping/LkSG/Batterie-VO
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Automotive-Lieferkette China: Anti-Dumping/LkSG/Batterie-VO
-- **Normen-/Quellenanker:** AWG/AWV, EU-Dual-Use, Sanktionen, Zoll/USt, Incoterms, Lieferkette/LkSG/CSDDD, IP-/Know-how-Schutz, Datenschutz/Cybersecurity und lokale China-Compliance live prüfen.
-- **Entscheidende Weiche:** Ordne Lieferant, Werk, Datenfluss, Zahlungsweg, Exportgut, politisches Risiko, IP-Leck und Exit-Szenario getrennt.
-
-Begleitet Mandanten und Berater im Wirtschaftsverkehr mit der Volksrepublik China.
-Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbares Arbeitsprodukt.
-
-## Mandantenfall
-
-**Fall 1:** Ein Unternehmen fragt nach konkreten Handlungspflichten im Bereich Automotive Supply Chain beim Chinageschaeft.
-
-**Fall 2:** Eine Rechtsabteilung benötigt einen Prüfbericht zu Automotive Supply Chain für ein laufendes China-Projekt.
-
-**Fall 3:** Ein Vorstand bittet um ein Board-Paper zu Automotive Supply Chain im Kontext der De-risking-Strategie.
-
-## Erste Schritte
-
-1. Sachverhalt und Ziel bestimmen: Was soll im Bereich Automotive Supply Chain geprüft/erstellt werden?
-2. Relevante Normen identifizieren: AWG §§ 55 ff., AWV §§ 55-62a als Ausgangspunkt.
-3. Unterlagen sichten: Verträge, Genehmigungen, Behördenschriftverkehr, interne Richtlinien.
-4. Risikoeinschätzung Automotive Supply Chain: Kritikalitätsbewertung nach De-risking-Matrix.
-5. Maßnahmen priorisieren: Kurzfristige Compliance-Lücken schließen, mittelfristige Strukturmaßnahmen planen.
-6. Dokumentation erstellen: Prüfprotokoll, Risikoampel, Handlungsempfehlung.
-
-## Rechtsrahmen
-
-Verbindliches Recht und anerkannte Soft-Law-Quellen für diesen Skill:
-
-- AWG §§ 55 ff.
-- AWV §§ 55-62a
-- LkSG §§ 3-10
-- EU-VO 2019/452
-- De-risking-Strategie Bundesregierung 2023: Politisch-strategischer Orientierungsrahmen.
-- EU-VO 2019/452: FDI-Kooperationsmechanismus als Referenzrahmen.
-- §§ 3-10 LkSG: Lieferkettensorgfaltspflichten als Querschnittspflicht.
-
-Quellen sind getrennt nach deutschem Recht, EU-Recht und chinesischem Recht zu handhaben.
-Bei Widersprüchen gilt: Verbindliches Recht geht Soft Law vor; aktueller Stand ist zu prüfen.
-
-## Prüfraster
-
-Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
-
-- Ist Automotive Supply Chain-Relevanz für das konkrete Vorhaben gegeben?
-- Welche Normen und Behörden sind zuständig?
-- Bestehen Genehmigungs- oder Meldepflichten?
-- Welche Fristen sind zu beachten?
-- Gibt es De-risking- oder Diversifizierungsanforderungen?
-- Ist die Dokumentation für Behörden und Investoren belastbar?
-
-## Typische Fallstricke
-
-Aus der Beratungspraxis: Diese Fehler sollten aktiv vermieden werden.
-
-- Automotive Supply Chain-Relevanz unterschätzt: Regulierungsrahmen wird zu spät geprüft.
-- Fristen versäumt: AWV/BAFA-Fristen sind streng und führen zu Bußgeldern.
-- Dokumentationslücken: Behörden und Gerichte verlangen lückenlose Aufzeichnungen.
-
-## Gegenposition
-
-Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
-
-- Behörde (BMWK/BAFA): Behältst du den Ermessensspielraum der Behörde im Blick?
-- Vertragspartner China: Welche Interessen und Risikobewertungen hat die chinesische Seite?
-- Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
-- Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
-
-## Quellen
-
-Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
-
-- [AWG Volltext](https://www.gesetze-im-internet.de/awg_2013/)
-- [AWV Volltext](https://www.gesetze-im-internet.de/awv_2013/)
-- [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
-- [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
-- [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
-- [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 3-10 LkSG
-- § 299 StGB
-- § 2 LkSG
-- § 1 AWG
-- § 3 PatG
-- § 8 LkSG
-- § 4 LkSG
-- § 17 AWG
-- § 143 MarkenG
-- § 3-5 LkSG
-- § 5-6 LkSG
-- § 5 LkSG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
----
-
-## Skill: `awg-awv-investitionspruefung`
-
-_Investitionsprüfung nach AWG §§ 55 ff. und AWV §§ 55-62a: Sektorenüberblick, Erwerbsschwellen (10/25 Prozent Stimmrechte), Anmeldepflicht, Prüffristen, Untersagung, Auflagen, Kooperationspflichten mit EU-Partnern nach EU-VO 2019/452. Fallgruppen KRITIS/Technologie/Medien. Output: AWV-Prüfschema u..._
-
-# AWG/AWV-Investitionsprüfung: Verfahren und Fallgruppen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: AWG/AWV-Investitionsprüfung: Verfahren und Fallgruppen
-- **Normen-/Quellenanker:** AWG/AWV, EU-Dual-Use, Sanktionen, Zoll/USt, Incoterms, Lieferkette/LkSG/CSDDD, IP-/Know-how-Schutz, Datenschutz/Cybersecurity und lokale China-Compliance live prüfen.
-- **Entscheidende Weiche:** Ordne Lieferant, Werk, Datenfluss, Zahlungsweg, Exportgut, politisches Risiko, IP-Leck und Exit-Szenario getrennt.
-
-Begleitet Mandanten und Berater im Wirtschaftsverkehr mit der Volksrepublik China.
-Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbares Arbeitsprodukt.
-
-## Mandantenfall
-
-**Fall 1:** Ein Unternehmen fragt nach konkreten Handlungspflichten im Bereich Awg Awv Investitionspruefung beim Chinageschaeft.
-
-**Fall 2:** Eine Rechtsabteilung benötigt einen Prüfbericht zu Awg Awv Investitionspruefung für ein laufendes China-Projekt.
-
-**Fall 3:** Ein Vorstand bittet um ein Board-Paper zu Awg Awv Investitionspruefung im Kontext der De-risking-Strategie.
-
-## Erste Schritte
-
-1. Sachverhalt und Ziel bestimmen: Was soll im Bereich Awg Awv Investitionspruefung geprüft/erstellt werden?
-2. Relevante Normen identifizieren: AWG §§ 55 ff., AWV §§ 55-62a als Ausgangspunkt.
-3. Unterlagen sichten: Verträge, Genehmigungen, Behördenschriftverkehr, interne Richtlinien.
-4. Risikoeinschätzung Außenwirtschaftsrecht: Kritikalitätsbewertung nach De-risking-Matrix.
-5. Maßnahmen priorisieren: Kurzfristige Compliance-Lücken schließen, mittelfristige Strukturmaßnahmen planen.
-6. Dokumentation erstellen: Prüfprotokoll, Risikoampel, Handlungsempfehlung.
-
-## Rechtsrahmen
-
-Verbindliches Recht und anerkannte Soft-Law-Quellen für diesen Skill:
-
-- AWG §§ 55 ff.
-- AWV §§ 55-62a
-- EU-VO 2019/452
-- BMWK-Bescheide Investitionsprüfung
-- De-risking-Strategie Bundesregierung 2023: Politisch-strategischer Orientierungsrahmen.
-- EU-VO 2019/452: FDI-Kooperationsmechanismus als Referenzrahmen.
-- §§ 3-10 LkSG: Lieferkettensorgfaltspflichten als Querschnittspflicht.
-
-Quellen sind getrennt nach deutschem Recht, EU-Recht und chinesischem Recht zu handhaben.
-Bei Widersprüchen gilt: Verbindliches Recht geht Soft Law vor; aktueller Stand ist zu prüfen.
-
-## Prüfraster
-
-Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
-
-- Ist Außenwirtschaftsrecht-Relevanz für das konkrete Vorhaben gegeben?
-- Welche Normen und Behörden sind zuständig?
-- Bestehen Genehmigungs- oder Meldepflichten?
-- Welche Fristen sind zu beachten?
-- Gibt es De-risking- oder Diversifizierungsanforderungen?
-- Ist die Dokumentation für Behörden und Investoren belastbar?
-
-## Typische Fallstricke
-
-Aus der Beratungspraxis: Diese Fehler sollten aktiv vermieden werden.
-
-- Außenwirtschaftsrecht-Relevanz unterschätzt: Regulierungsrahmen wird zu spät geprüft.
-- Fristen versäumt: AWV/BAFA-Fristen sind streng und führen zu Bußgeldern.
-- Dokumentationslücken: Behörden und Gerichte verlangen lückenlose Aufzeichnungen.
-
-## Gegenposition
-
-Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
-
-- Behörde (BMWK/BAFA): Behältst du den Ermessensspielraum der Behörde im Blick?
-- Vertragspartner China: Welche Interessen und Risikobewertungen hat die chinesische Seite?
-- Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
-- Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
-
-## Quellen
-
-Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
-
-- [AWG Volltext](https://www.gesetze-im-internet.de/awg_2013/)
-- [AWV Volltext](https://www.gesetze-im-internet.de/awv_2013/)
-- [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
-- [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
-- [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
-- [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 3-10 LkSG
-- § 299 StGB
-- § 2 LkSG
-- § 1 AWG
-- § 3 PatG
-- § 8 LkSG
-- § 4 LkSG
-- § 17 AWG
-- § 143 MarkenG
-- § 3-5 LkSG
-- § 5-6 LkSG
-- § 5 LkSG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
----
-
-## Skill: `battery-ev-solar-supply-chain`
-
-_Batterie-, EV- und Solarlieferketten aus China: EU-Batterie-VO 2023/1542 Sorgfaltspflichten, Carbon-Footprint-Deklaration, Recycling-Quoten, Solar-Anti-Dumping-Maßnahmen EU, XUAR-Bezug Polysilizium, Critical Raw Materials Act Lithium/Kobalt, LkSG-Risikoanalyse Bergbau. Output: Supply-Chain-Compli..._
-
-# Batterie/EV/Solar-Lieferkette China: Regulierung und Compliance
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Batterie/EV/Solar-Lieferkette China: Regulierung und Compliance
-- **Normen-/Quellenanker:** AWG/AWV, EU-Dual-Use, Sanktionen, Zoll/USt, Incoterms, Lieferkette/LkSG/CSDDD, IP-/Know-how-Schutz, Datenschutz/Cybersecurity und lokale China-Compliance live prüfen.
-- **Entscheidende Weiche:** Ordne Lieferant, Werk, Datenfluss, Zahlungsweg, Exportgut, politisches Risiko, IP-Leck und Exit-Szenario getrennt.
-
-Begleitet Mandanten und Berater im Wirtschaftsverkehr mit der Volksrepublik China.
-Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbares Arbeitsprodukt.
-
-## Mandantenfall
-
-**Fall 1:** Ein Unternehmen fragt nach konkreten Handlungspflichten im Bereich Battery Ev Solar Supply Chain beim Chinageschaeft.
-
-**Fall 2:** Eine Rechtsabteilung benötigt einen Prüfbericht zu Battery Ev Solar Supply Chain für ein laufendes China-Projekt.
-
-**Fall 3:** Ein Vorstand bittet um ein Board-Paper zu Battery Ev Solar Supply Chain im Kontext der De-risking-Strategie.
-
-## Erste Schritte
-
-1. Sachverhalt und Ziel bestimmen: Was soll im Bereich Battery Ev Solar Supply Chain geprüft/erstellt werden?
-2. Relevante Normen identifizieren: AWG §§ 55 ff., AWV §§ 55-62a als Ausgangspunkt.
-3. Unterlagen sichten: Verträge, Genehmigungen, Behördenschriftverkehr, interne Richtlinien.
-4. Risikoeinschätzung Battery Ev Solar: Kritikalitätsbewertung nach De-risking-Matrix.
-5. Maßnahmen priorisieren: Kurzfristige Compliance-Lücken schließen, mittelfristige Strukturmaßnahmen planen.
-6. Dokumentation erstellen: Prüfprotokoll, Risikoampel, Handlungsempfehlung.
-
-## Rechtsrahmen
-
-Verbindliches Recht und anerkannte Soft-Law-Quellen für diesen Skill:
-
-- AWG §§ 55 ff.
-- AWV §§ 55-62a
-- LkSG §§ 3-10
-- EU-VO 2019/452
-- De-risking-Strategie Bundesregierung 2023: Politisch-strategischer Orientierungsrahmen.
-- EU-VO 2019/452: FDI-Kooperationsmechanismus als Referenzrahmen.
-- §§ 3-10 LkSG: Lieferkettensorgfaltspflichten als Querschnittspflicht.
-
-Quellen sind getrennt nach deutschem Recht, EU-Recht und chinesischem Recht zu handhaben.
-Bei Widersprüchen gilt: Verbindliches Recht geht Soft Law vor; aktueller Stand ist zu prüfen.
-
-## Prüfraster
-
-Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
-
-- Ist Battery Ev Solar-Relevanz für das konkrete Vorhaben gegeben?
-- Welche Normen und Behörden sind zuständig?
-- Bestehen Genehmigungs- oder Meldepflichten?
-- Welche Fristen sind zu beachten?
-- Gibt es De-risking- oder Diversifizierungsanforderungen?
-- Ist die Dokumentation für Behörden und Investoren belastbar?
-
-## Typische Fallstricke
-
-Aus der Beratungspraxis: Diese Fehler sollten aktiv vermieden werden.
-
-- Battery Ev Solar-Relevanz unterschätzt: Regulierungsrahmen wird zu spät geprüft.
-- Fristen versäumt: AWV/BAFA-Fristen sind streng und führen zu Bußgeldern.
-- Dokumentationslücken: Behörden und Gerichte verlangen lückenlose Aufzeichnungen.
-
-## Gegenposition
-
-Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
-
-- Behörde (BMWK/BAFA): Behältst du den Ermessensspielraum der Behörde im Blick?
-- Vertragspartner China: Welche Interessen und Risikobewertungen hat die chinesische Seite?
-- Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
-- Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
-
-## Quellen
-
-Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
-
-- [AWG Volltext](https://www.gesetze-im-internet.de/awg_2013/)
-- [AWV Volltext](https://www.gesetze-im-internet.de/awv_2013/)
-- [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
-- [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
-- [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
-- [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
-
----
-
-## Skill: `board-paper-china-risk`
-
-_Board-Paper zu China-Risiken: Struktur und Inhalt eines belastbaren China-Risikoberichts für Aufsichtsrat/Vorstand, wesentliche Risikokategorien (Geopolitik/Regulation/Lieferkette/IP/Cyber), De-risking-Fortschritt, AWV-Meldestatus, LkSG-Compliance, ESG-Aspekte. Anforderungen §§ 76/93 AktG Sorgfal..._
-
-# Board-Paper China-Risiken: Struktur und Inhalte für Aufsichtsrat
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Board-Paper China-Risiken: Struktur und Inhalte für Aufsichtsrat
-- **Normen-/Quellenanker:** AWG/AWV, EU-Dual-Use, Sanktionen, Zoll/USt, Incoterms, Lieferkette/LkSG/CSDDD, IP-/Know-how-Schutz, Datenschutz/Cybersecurity und lokale China-Compliance live prüfen.
-- **Entscheidende Weiche:** Ordne Lieferant, Werk, Datenfluss, Zahlungsweg, Exportgut, politisches Risiko, IP-Leck und Exit-Szenario getrennt.
-
-Begleitet Mandanten und Berater im Wirtschaftsverkehr mit der Volksrepublik China.
-Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbares Arbeitsprodukt.
-
-## Mandantenfall
-
-**Fall 1:** Ein Unternehmen fragt nach konkreten Handlungspflichten im Bereich Board Paper China Risk beim Chinageschaeft.
-
-**Fall 2:** Eine Rechtsabteilung benötigt einen Prüfbericht zu Board Paper China Risk für ein laufendes China-Projekt.
-
-**Fall 3:** Ein Vorstand bittet um ein Board-Paper zu Board Paper China Risk im Kontext der De-risking-Strategie.
-
-## Erste Schritte
-
-1. Sachverhalt und Ziel bestimmen: Was soll im Bereich Board Paper China Risk geprüft/erstellt werden?
-2. Relevante Normen identifizieren: AWG §§ 55 ff., AWV §§ 55-62a als Ausgangspunkt.
-3. Unterlagen sichten: Verträge, Genehmigungen, Behördenschriftverkehr, interne Richtlinien.
-4. Risikoeinschätzung Board Paper China: Kritikalitätsbewertung nach De-risking-Matrix.
-5. Maßnahmen priorisieren: Kurzfristige Compliance-Lücken schließen, mittelfristige Strukturmaßnahmen planen.
-6. Dokumentation erstellen: Prüfprotokoll, Risikoampel, Handlungsempfehlung.
-
-## Rechtsrahmen
-
-Verbindliches Recht und anerkannte Soft-Law-Quellen für diesen Skill:
-
-- AWG §§ 55 ff.
-- AWV §§ 55-62a
-- LkSG §§ 3-10
-- EU-VO 2019/452
-- De-risking-Strategie Bundesregierung 2023: Politisch-strategischer Orientierungsrahmen.
-- EU-VO 2019/452: FDI-Kooperationsmechanismus als Referenzrahmen.
-- §§ 3-10 LkSG: Lieferkettensorgfaltspflichten als Querschnittspflicht.
-
-Quellen sind getrennt nach deutschem Recht, EU-Recht und chinesischem Recht zu handhaben.
-Bei Widersprüchen gilt: Verbindliches Recht geht Soft Law vor; aktueller Stand ist zu prüfen.
-
-## Prüfraster
-
-Schritt für Schritt abzuarbeiten, Ergebnisse dokumentieren:
-
-- Ist Board Paper China-Relevanz für das konkrete Vorhaben gegeben?
-- Welche Normen und Behörden sind zuständig?
-- Bestehen Genehmigungs- oder Meldepflichten?
-- Welche Fristen sind zu beachten?
-- Gibt es De-risking- oder Diversifizierungsanforderungen?
-- Ist die Dokumentation für Behörden und Investoren belastbar?
-
-## Typische Fallstricke
-
-Aus der Beratungspraxis: Diese Fehler sollten aktiv vermieden werden.
-
-- Board Paper China-Relevanz unterschätzt: Regulierungsrahmen wird zu spät geprüft.
+- Litigation Risk China-Relevanz unterschätzt: Regulierungsrahmen wird zu spät geprüft.
 - Fristen versäumt: AWV/BAFA-Fristen sind streng und führen zu Bußgeldern.
 - Dokumentationslücken: Behörden und Gerichte verlangen lückenlose Aufzeichnungen.
 
@@ -829,7 +759,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

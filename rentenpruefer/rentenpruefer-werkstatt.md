@@ -107,7 +107,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BSG, Urteil vom 09.12.2016 - B 13 R 19/14 R: Versicherungsverlauf und Beweismittel müssen im Kontenklärungsverfahren nachvollziehbar ausgewertet werden.
 - BSG, Urteil vom 20.10.2020 - B 5 R 5/20 R: Rentenrechtliche Zeiten sind an ihrem gesetzlichen Tatbestand und dem belegten Zeitraum zu prüfen.
 - BSG, Urteil vom 23.06.2020 - B 12 R 6/18 R: Befreiung und Pflichtversicherung berufsständischer Versorgung sind beschäftigungsbezogen zu bestimmen.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 9. Prüfraster
 

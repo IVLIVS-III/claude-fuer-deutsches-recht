@@ -114,7 +114,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BSG, Urteil vom 16.12.2008 - B 4 AS 48/07 R: Unterkunftskosten sind am konkreten Bedarf und an einem schluessigen Konzept zu messen.
 - BSG, Urteil vom 02.09.2009 - B 6 KA 34/08 R: sozialrechtliche Sachverhaltsaufklärung verlangt verwertbare medizinische und tatsächliche Grundlagen.
 - BVerfG 1 BvR 1106/08 (effektiver Rechtsschutz Sozialgericht)
-- Verifizierte Anker: BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrer/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung
 
 ## 9. Prüfraster
 

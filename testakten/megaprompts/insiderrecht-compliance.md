@@ -1,41 +1,42 @@
-# Megaprompt: insiderrecht-compliance
+# Vollprüfung: insiderrecht-compliance
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 111 Skills (gekuerzt fuer Chat-Fenster) des Plugins `insiderrecht-compliance`.
+Dieser Vollprüfung enthaelt top-8 von 111 Skills (gekuerzt fuer Chat-Fenster) des Plugins `insiderrecht-compliance`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Kaltstart Insiderrecht im Insiderrecht und Compliance: Erzwingt eine prüfbare Arbeitsspur: Sachverhalt, Norm, Tatbestand…
-2. **ins-055-incident-drill** — Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Prüfer und BaF…
-3. **sanierung-insolvenzreife** — Prüft Insiderrecht-Pflichten in Restrukturierungsverfahren (StaRUG, Schutzschirm, Insolvenzplan): Insiderinformations-Ze…
-4. **directors-closed** — Prüft und dokumentiert Eigengeschaefte von Fuehrungskraeften (PDMRs) und nahestehenden Personen nach Art. 19 MAR: Schwel…
-5. **employee-schulung** — Prüft Mitarbeiteraktienprogramme (ESOP, LTIP, RSU) auf insiderrechtliche Risiken: Closed Periods, Handelsverbote, automa…
-6. **unlawful-disclosure** — Prüft unzulaessige Offenlegung von Insiderinformationen nach Art. 10 MAR und grenzt sie von zulaessiger Informationsweit…
-7. **cyberangriff** — Prüft Insiderinformations-Qualitaet eines Cyberangriffs: Kursrelevanz, Ad-hoc-Pflicht, Aufschub wegen laufender Strafver…
-8. **krisenfall-profit-warning** — Steuert den Compliance-Prozess bei einer Profit Warning: Insiderinformations-Entstehungszeitpunkt, Ad-hoc-Pflicht, Inhal…
+1. **kaltstart-triage** — Wenn es um Kaltstart Insiderrecht in Insiderrecht Compliance geht: klärt Rolle, Ziel, Frist, Unterlagen und den passende…
+2. **insiderinformation-zwischenschritte** — Wenn es um Insiderinformation nach Art. 7 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsw…
+3. **ins-001-insiderinformation-art7** — Wenn es um Insiderinformation nach Art. 7 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsw…
+4. **employee-schulung** — Wenn es um Mitarbeiteraktienprogramme (ESOP / LTIP / RSU) – Insiderrechtliche Risiken in Insiderrecht Compliance geht: o…
+5. **analystencall** — Wenn es um Analysten-Calls und Investorenkommunikation – Selective Disclosure in Insiderrecht Compliance geht: ordnet Sa…
+6. **produktzulassung-whistleblower** — Wenn es um Produktzulassung – Insiderrecht bei regulatorischen Entscheidungen in Insiderrecht Compliance geht: ordnet Sa…
+7. **zwischenschritte-ma** — Wenn es um Zwischenschritte bei mehrstufigen Prozessen (M&A / Restrukturierung) in Insiderrecht Compliance geht: ordnet …
+8. **aktienr-anleiheemission** — Wenn es um Aktienrückkaufprogramme – MAR Safe Harbour und Compliance in Insiderrecht Compliance geht: ordnet Sachverhalt…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Kaltstart Insiderrecht im Insiderrecht und Compliance: Erzwingt eine prüfbare Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt._
+_Wenn es um Kaltstart Insiderrecht in Insiderrecht Compliance geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten._
 
 # Kaltstart Insiderrecht
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Insiderrecht Compliance** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Ziel
 
@@ -53,90 +54,11 @@ Erzeuge Insidervermerk, Ad-hoc-Entwurf, Aufschubakte, Insiderlistencheck oder Ve
 
 ---
 
-## Skill: `ins-055-incident-drill`
+## Skill: `insiderinformation-zwischenschritte`
 
-_Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Prüfer und BaFin-Kommunikation unter Zeitdruck: Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufs..._
+_Wenn es um Insiderinformation nach Art. 7 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Insiderinformation Zwischenschritte; Arbeitsfeld: Insiderrecht Compliance._
 
-# Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Prüfer und BaFin-Kommunikation unter Zeitdruck.
-
-
-## Arbeitsweg
-
-- Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant?
-- MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. 7 MAR, Handels-/Empfehlungs-/Weitergabeverbot nach Art. 14 MAR, Ad-hoc-Publizität nach Art. 17 MAR, Aufschub nach Art. 17 Abs. 4 MAR, Insiderliste nach Art. 18 MAR, Eigengeschäfte von Führungskräften nach Art. 19 MAR.
-- Deutsche Sanktions- und Verfahrensspur live verifizieren: WpHG §§ 119 ff., BaFin-Zuständigkeit, Börsenrecht, ggf. WpÜG/AktG bei Übernahme, Delisting, Kapitalmaßnahme oder Hauptversammlung.
-- Beweise aktenfest sichern: Timeline, Board-/AR-Unterlagen, Datenraum-Log, Insiderlisten-Versionen, Handelsdaten, Kommunikationskanäle, Aufschubvermerk, Veröffentlichungszeitpunkt und BaFin-/DGAP-/EQS-Belege.
-- Strategische Ausgabe wählen: Ad-hoc-Entscheidungsvorlage, Aufschubvermerk, Leak-Response, Handelsstopp-Empfehlung, Insiderlisten-Audit, PDMR-Meldecheck, BaFin-Antwort oder Verteidigungsnotiz.
-- Rechtsprechung und Behördenpraxis nur mit frei prüfbarer Quelle zitieren; keine BeckRS-/juris-Blindzitate und keine alten WpHG-Paragrafen als Ersatz für die unmittelbar geltende MAR verwenden.
-
-## Ziel dieses Skills
-
-Führt einen vollständigen Incident Drill durch: Er liefert das Szenario,
-moderiert den Entscheidungsprozess, wertet die Ergebnisse aus und erstellt die Drill-
-Dokumentation.
-
-## Arbeitsprogramm
-
-### Phase 1 – Szenario-Auswahl
-
-Wähle eines der folgenden Szenarien (oder erstelle ein unternehmens-spezifisches):
-a) Profit Warning: CFO erhält Monatszahlen, die erheblich von Guidance abweichen.
- → Entscheidung: Ad-hoc sofort oder Aufschub bis Quartalsabschluss?
-b) M&A-Leak: Medien berichten über bevorstehende Übernahme des Emittenten.
- → Entscheidung: Sofortveröffentlichung oder Dementierung?
-c) PDMR-Verdacht: Compliance erhält Hinweis, dass ein Vorstandsmitglied Aktien
- kurz vor einer Profit-Warning verkauft hat.
- → Entscheidung: Interne Untersuchung, BaFin-Meldung, externe Kanzlei?
-d) Cyberangriff: IT meldet schwerwiegendes Datenleck in der Nacht.
- → Entscheidung: Wann ist Insiderinformation entstanden? Ad-hoc unverzüglich?
-
-### Phase 2 – Drill-Durchführung (120 Minuten)
-
-Rollen:
-- Moderator (Compliance oder externe Kanzlei)
-- CFO
-- General Counsel
-- Compliance-Officer
-- IR-Leiter
-- Ggf. CEO (bei C-Level-Drill)
-
-Ablauf (pro Szenario):
-T+0: Moderator präsentiert Ausgangssachverhalt
-T+5 min: Teams treffen erste Einschätzung (Insiderinformation ja/nein?)
-T+15 min: Folgeentscheidung (Ad-hoc sofort / Aufschub / Weitere Sachverhaltsaufklärung)
-T+30 min: Neuer Sachverhalt (Komplikation: BaFin fragt an, Kurssprung, Medien berichten)
-T+60 min: Finalentscheidung und Kommunikationsplan
-T+90 min: Nachbesprechung: Wo lagen die Entscheidungslücken?
-
-### Phase 3 – Entscheidungsprotokoll
-
-Protokolliere für jede Drill-Entscheidung:
-- Wer hat welche Entscheidung getroffen?
-- Auf welcher Grundlage (Norm, Leitfaden)?
-- Wurde die Entscheidung widerspruchsfrei begründet?
-- Welche Informationen fehlten?
-- Welche Schritte wurden vergessen?
-
-### Phase 4 – Auswertung und Verbesserungsplan
-
-- Schwachstellen identifizieren: Wo war der Prozess unklar?
-- Verbesserungsmaßnahmen: Richtlinienänderung, Schulung, Eskalationsweg
-- Verantwortliche und Fristen für Umsetzung
-- Follow-up-Drill in 6–12 Monaten planen
-
-### Phase 5 – Dokumentation
-
-- Drill-Protokoll archivieren (Szenario, Teilnehmer, Entscheidungen, Ergebnisse)
-- Verbesserungsplan mit Umsetzungs-Tracking
-- Nachweis für Compliance-Committee und Aufsichtsrat
-
----
-
-## Skill: `sanierung-insolvenzreife`
-
-_Prüft Insiderrecht-Pflichten in Restrukturierungsverfahren (StaRUG, Schutzschirm, Insolvenzplan): Insiderinformations-Zeitpunkte, Ad-hoc und Gläubiger-Informationsfluss im Insiderrecht Compliance._
-
-# Sanierung und StaRUG – Insiderrecht bei Restrukturierung
+# Insiderinformation nach Art. 7 MAR
 
 ## Arbeitsweg
 
@@ -149,148 +71,117 @@ _Prüft Insiderrecht-Pflichten in Restrukturierungsverfahren (StaRUG, Schutzschi
 
 ## Rechtlicher Rahmen
 
-Außergerichtliche Restrukturierungen, StaRUG-Verfahren (Gesetz über den Stabilisierungs-
-und Restrukturierungsrahmen für Unternehmen), Schutzschirm und Insolvenzplan sind
-insiderrechtlich komplex: Sie erzeugen mehrstufige Insiderinformationen (Geltl/Daimler-Test),
-erfordern aber gleichzeitig Gläubiger-Kommunikation unter NDA. MAR und InsO-Vertraulichkeit
-müssen koordiniert werden.
+Art. 7 VO (EU) 596/2014 (MAR) definiert die Insiderinformation abschließend. Die vier kumulativen
+Tatbestandsmerkmale sind: (1) präzise Information, (2) nicht öffentlich bekannt, (3) unmittelbarer
+oder mittelbarer Bezug zu Finanzinstrumenten, Emittenten oder dem Markt für Emissionszertifikate,
+(4) Eignung zur erheblichen Kursbeeinflussung (Kursrelevanz). Jedes Merkmal ist eigenständig zu
+prüfen und schriftlich zu belegen.
 
 Rechtsgrundlagen:
-- Art. 7, 17 MAR (Zwischenschritte): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- Art. 7 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- Erwägungsgrund 14–16 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
 - EuGH C-19/11 (Geltl/Daimler): https://curia.europa.eu/juris/document/document.jsf?docid=123755
-- StaRUG: https://www.gesetze-im-internet.de/starug/
+- EuGH C-628/13 (Lafonta): https://curia.europa.eu/juris/document/document.jsf?docid=162388
+- § 13 WpHG a.F. / § 119 WpHG n.F.: https://www.gesetze-im-internet.de/wphg/__119.html
 - BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
 
 ## Ziel dieses Skills
 
-Steuert die insiderrechtliche Compliance in Restrukturierungsverfahren, von der
-ersten Restrukturierungsüberlegung bis zum abgeschlossenen Sanierungsplan.
+Dieser Skill zwingt zur lückenlosen Prüfung aller vier Tatbestandsmerkmale in der richtigen
+Reihenfolge. Er verhindert den häufigen Fehler, bereits bei unscharfen Informationen eine
+Veröffentlichungspflicht anzunehmen oder bei klaren Insiderinformationen die Pflicht irrtümlich
+zu verneinen. Ergebnis ist immer ein schriftlicher Insidervermerk mit Quellennachweis.
 
 ## Arbeitsprogramm
 
-### Schritt 1 – Frühe Restrukturierungsphase (Erste Analyse)
+### Schritt 1 – Präzision (Art. 7 Abs. 1 lit. a, Abs. 2 MAR)
 
-- Geltl/Daimler-Test: Wann ist Restrukturierungsbedarf als präzise Information erkennbar?
- (Erste konservative Finanzprognose, die Covenant-Verletzung prognostiziert?)
-- Kursrelevanz: Restrukturierungsbedarf ist für börsennotierte Unternehmen regelmäßig
- kursrelevant
-- Aufschub: Legitimes Interesse (laufende Verhandlungen mit Gläubigern) möglich, aber:
- Öffentliche Aussagen des Vorstands dürfen nicht widersprüchlich sein
+- Bestimme, ob die Information eine konkrete Tatsache oder ein konkretes Ereignis betrifft oder
+ mit hinreichender Wahrscheinlichkeit eintreten wird.
+- Trenne Tatsachen (vergangen/gegenwärtig) von Prognosen, Gerüchten und Analysen.
+- Wende den Geltl/Daimler-Test an: Auch Zwischenschritte in einem mehrstufigen Prozess können
+ präzise Informationen sein, sofern ihr Eintritt hinreichend wahrscheinlich ist (EuGH C-19/11).
+- Halte fest: Welches Ereignis? Welches Datum/welcher Zeitraum? Welche Eintrittswahrscheinlichkeit?
 
-### Schritt 2 – Gläubiger-Kommunikation und Insiderlisten
+### Schritt 2 – Nichtöffentlichkeit
 
-- Banken/Anleihegläubiger, die in den Restrukturierungsprozess eingebunden sind, werden
- Insider (Art. 18 MAR: Insiderliste)
-- NDA und Insiderbelehrung für alle eingebundenen Gläubiger
-- Kreditverträge und NDA müssen Insiderrecht-Klauseln enthalten
+- Prüfe, ob die Information in einem offiziell anerkannten Informationssystem (DGAP/EQS, BaFin-
+ Datenbank, Bundesanzeiger) veröffentlicht wurde.
+- Prüfe Kapitalmarktgerüchte: Breite Berichterstattung in Qualitätsmedien kann Öffentlichkeit
+ herstellen, Gerücht oder Spekulation hingegen nicht.
+- Dokumentiere Informationskreis: Wer hat die Information wann erhalten?
 
-### Schritt 3 – StaRUG-Anzeige und Ad-hoc-Pflicht
+### Schritt 3 – Emittenten- oder Instrumentenbezug
 
-- Anzeige des Restrukturierungsvorhabens beim Restrukturierungsgericht: In der Praxis
- Insiderinformation (kursrelevant)
-- Abstimmung: Muss die Anzeige ad-hoc veröffentlicht werden?
- → Ja, wenn der Markt die Restrukturierungsnotwendigkeit noch nicht kennt
-- StaRUG-Verfahren ist grundsätzlich vertraulich (§ 84 StaRUG), aber MAR-Pflicht geht vor
+- Kläre, ob die Information sich unmittelbar auf den Emittenten oder sein Finanzinstrument bezieht
+ (z. B. Jahresergebnis) oder nur mittelbar (z. B. Rohstoffpreisanstieg).
+- Bei Derivaten: Bezug auf Basiswert ausreichend.
 
-### Schritt 4 – Plan-Abstimmung und Ad-hoc-Kaskade
+### Schritt 4 – Kursrelevanz (Art. 7 Abs. 4 MAR)
 
-- Jeweils neue Insiderinformation bei: Planeinreichung, Abstimmungsergebnis,
- Gericht-Bestätigung, Planvollzug
-- Ad-hoc nach jeder wesentlichen Stufe
-- Insiderliste: Wer kennt welche Stufe?
+- Wende den „verständigen Anleger"-Test an: Würde ein rationaler Investor die Information bei
+ seiner Anlageentscheidung voraussichtlich nutzen?
+- Kursrelevanz ist ex ante zu beurteilen, nicht nachträglich aus Kursbewegungen herzuleiten
+ (EuGH C-628/13 Lafonta: Keine Pflicht, eine Kursrichtung vorherzusagen).
+- Dokumentiere Marktumfeld, Branchenvergleich und Analystenpositionen als Hilfsindikatoren.
 
-### Schritt 5 – Post-Restrukturierung
+### Schritt 5 – Gesamtbewertung und Dokumentation
 
-- Nach Abschluss: Insiderlisten schließen (Austrittsdaten)
-- Neues Management, neue PDMRs: Directors' Dealings-Pflichten auffrischen
-- Compliance-Policy nach Restrukturierung aktualisieren
+- Erstelle tabellarischen Insidervermerk mit: Sachverhalt, geprüftes Merkmal, Norm, Subsumtion,
+ Gegenargument, Beleg, Zwischenergebnis.
+- Benenne Unsicherheiten explizit; empfehle Nachprüfung durch Legal-Counsel falls unklar.
+- Bestimme, ob Veröffentlichungspflicht nach Art. 17 MAR ausgelöst wird, und übergebe ggf. an
+ Skill ins-003 (Ad-hoc) oder ins-004 (Aufschub).
+
+## Red-Team-Fragen
+
+- Ist die Information wirklich präzise oder nur ein allgemeines Marktgespräch?
+- Wird Präzision mit Kursrelevanz verwechselt? Beide sind eigenständige Merkmale.
+- Wurde der Geltl/Daimler-Test auf Zwischenschritte im M&A oder Restrukturierungsprozess
+ konsequent angewendet?
+- Wurde Kursrelevanz ex ante beurteilt, nicht nachträglich aus Kursbewegungen hergeleitet?
+- Ist der Informationskreis vollständig dokumentiert?
+- Wurden alle betroffenen Finanzinstrumente (Aktien, Anleihen, Derivate) erfasst?
+- Wurde die Abgrenzung zu Art. 17 MAR (Veröffentlichungspflicht) sauber gezogen?
+- Ist ein Aufschub nach Art. 17 Abs. 4 MAR möglich und wurden dessen Voraussetzungen geprüft?
+- Wurden Insiderliste (Art. 18 MAR) und Handelsverbote (Art. 14 MAR) zeitgleich ausgelöst?
 
 ---
 
-## Skill: `directors-closed`
+## Skill: `ins-001-insiderinformation-art7`
 
-_Prüft und dokumentiert Eigengeschaefte von Fuehrungskraeften (PDMRs) und nahestehenden Personen nach Art. 19 MAR: Schwellen, Meldefristen, Closed Periods und Ausnahmen im Insiderrecht Compliance._
+_Wenn es um Insiderinformation nach Art. 7 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ins 001 Insiderinformation Art7; Arbeitsfeld: Insiderrecht Compliance._
 
-# Directors' Dealings nach Art. 19 MAR
+# Insiderinformation nach Art. 7 MAR
 
-## Arbeitsweg
 
-- Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant?
-- MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. 7 MAR, Handels-/Empfehlungs-/Weitergabeverbot nach Art. 14 MAR, Ad-hoc-Publizität nach Art. 17 MAR, Aufschub nach Art. 17 Abs. 4 MAR, Insiderliste nach Art. 18 MAR, Eigengeschäfte von Führungskräften nach Art. 19 MAR.
-- Deutsche Sanktions- und Verfahrensspur live verifizieren: WpHG §§ 119 ff., BaFin-Zuständigkeit, Börsenrecht, ggf. WpÜG/AktG bei Übernahme, Delisting, Kapitalmaßnahme oder Hauptversammlung.
-- Beweise aktenfest sichern: Timeline, Board-/AR-Unterlagen, Datenraum-Log, Insiderlisten-Versionen, Handelsdaten, Kommunikationskanäle, Aufschubvermerk, Veröffentlichungszeitpunkt und BaFin-/DGAP-/EQS-Belege.
-- Strategische Ausgabe wählen: Ad-hoc-Entscheidungsvorlage, Aufschubvermerk, Leak-Response, Handelsstopp-Empfehlung, Insiderlisten-Audit, PDMR-Meldecheck, BaFin-Antwort oder Verteidigungsnotiz.
-- Rechtsprechung und Behördenpraxis nur mit frei prüfbarer Quelle zitieren; keine BeckRS-/juris-Blindzitate und keine alten WpHG-Paragrafen als Ersatz für die unmittelbar geltende MAR verwenden.
+## Ziel
 
-## Rechtlicher Rahmen
-
-Art. 19 VO (EU) 596/2014 (MAR) verpflichtet Personen mit Führungsaufgaben (PDMRs) und ihnen
-nahestehende Personen, Eigengeschäfte in Finanzinstrumenten des Emittenten zu melden. Die
-Meldepflicht besteht ab einem kumulierten Jahresvolumen von 20.000 EUR (Opt-in bis 200.000 EUR
-möglich). Frist: 3 Geschäftstage. Closed Periods: 30 Tage vor Bekanntgabe von Halbjahres- oder
-Jahresabschlüssen. DVO (EU) 2016/523 legt das Meldeformat fest.
-
-Rechtsgrundlagen:
-- Art. 19 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
-- DVO (EU) 2016/523 (Meldeformat): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0523
-- § 119 WpHG: https://www.gesetze-im-internet.de/wphg/__119.html
-- BaFin-Emittentenleitfaden Kap. V: https://www.bafin.de/dok/8252648
-
-## Ziel dieses Skills
-
-Dieser Skill stellt sicher, dass alle meldepflichtigen Eigengeschäfte vollständig, fristgerecht
-und im korrekten Format der BaFin gemeldet und veröffentlicht werden. Er deckt die Personen-
-abgrenzung (PDMR / nahestehende Person), die Schwellenberechnung, Closed Periods und die
-Ausnahmen ab.
+Dieser Skill führt nicht schematisch durch Insiderinformation nach Art. 7 MAR, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
 
 ## Arbeitsprogramm
 
-### Schritt 1 – Personenkreis bestimmen
+- Präzision und Eintrittswahrscheinlichkeit trennen.
+- Nichtöffentlichkeit und Informationskreis feststellen.
+- Kursrelevanz ex ante begründen.
 
-PDMRs (Persons Discharging Managerial Responsibilities):
-- Vorstandsmitglieder, Aufsichtsratsmitglieder, leitende Angestellte mit regelmäßigem Zugang
- zu Insiderinformationen und Befugnis zu wesentlichen Managemententscheidungen
+## Red-Team-Fragen
 
-Nahestehende Personen (Art. 3 Abs. 1 Nr. 26 MAR):
-- Ehe-/Lebenspartner, unterhaltsberechtigte Kinder, Verwandte seit ≥1 Jahr im gemeinsamen
- Haushalt
-- Juristische Personen unter Kontrolle des PDMR oder nahestehender Person
+- Ist die Information wirklich präzise im Sinne von Art. 7 MAR oder nur Gerücht, Analyse, Prognose oder Wunschdenken?
+- Ist die Information noch nicht öffentlich, und ist sauber dokumentiert, wer sie wann bekommen hat?
+- Ist die Kursrelevanz ex ante begründet, statt nachträglich aus Kursbewegungen hergeleitet?
+- Wird eine Aufschubentscheidung nach Art. 17 MAR getrennt von der Frage behandelt, ob überhaupt Veröffentlichungspflicht besteht?
+- Stimmen Insiderliste, Handelsfreigaben, Closed Periods, Kommunikationskreis und Verteidigungsakte zeitlich zusammen?
 
-### Schritt 2 – Meldepflichtige Transaktionen und Schwelle
+## Ausgabe
 
-Meldepflichtige Geschäfte:
-- Kauf, Verkauf, Leerverkauf, Tausch, Schenkung, Erbschaft, Ausübung von Optionen und Bezugs-
- rechten in Aktien, Anleihen, Derivaten des Emittenten
-Schwelle: 20.000 EUR kumuliert im Kalenderjahr → erste Meldung wenn erreicht, danach
- jede weitere Transaktion meldepflichtig (kein neues Jahresreset bis Jahresende)
-
-### Schritt 3 – Frist und Format
-
-- Meldung innerhalb von 3 Geschäftstagen nach Transaktion
-- Meldung an BaFin UND Emittenten (Art. 19 Abs. 2 MAR)
-- Emittent veröffentlicht innerhalb von 3 Geschäftstagen nach Eingang (§ 119 WpHG)
-- Format: DVO (EU) 2016/523-konformes Formular mit Pflichtfeldern (Name, Position, Art des
- Instruments, Art der Transaktion, Datum, Preis, Volumen)
-
-### Schritt 4 – Closed Periods (Art. 19 Abs. 11 MAR)
-
-- 30 Tage vor Bekanntgabe des Halbjahres- oder Jahresabschlusses: kein Handel
-- Emittent muss PDMR über Closed-Period-Termine schriftlich informieren
-- Ausnahmen: außergewöhnliche Umstände (dringende finanzielle Notlage), auf Antrag beim Emittenten
-
-### Schritt 5 – Interne Pre-Clearance
-
-Empfehlen (nicht gesetzlich zwingend, aber Best Practice):
-- PDMR beantragt Freigabe beim Compliance-Officer vor jeder Transaktion
-- Compliance prüft: kein Insiderstatus, keine Closed Period, keine offene Insiderinformation
-- Schriftliche Freigabe oder Verweigerung mit Begründung
-- Aufbewahrung 5 Jahre
+Erzeuge Insidervermerk, Ad-hoc-Entwurf, Aufschubakte, Insiderlistencheck oder Verteidigungsmemo. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ---
 
 ## Skill: `employee-schulung`
 
-_Prüft Mitarbeiteraktienprogramme (ESOP, LTIP, RSU) auf insiderrechtliche Risiken: Closed Periods, Handelsverbote, automatische Plaene und Befreiungsmoeglichkeiten im Insiderrecht Compliance._
+_Wenn es um Mitarbeiteraktienprogramme (ESOP / LTIP / RSU) – Insiderrechtliche Risiken in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Mitarbeiteraktienprogramme (ESOP / LTIP / RSU) – Insiderrechtliche Risiken
 
@@ -365,11 +256,11 @@ c) Keine diskretionären Handlungen nach Beginn der Insiderphasee
 
 ---
 
-## Skill: `unlawful-disclosure`
+## Skill: `analystencall`
 
-_Prüft unzulaessige Offenlegung von Insiderinformationen nach Art. 10 MAR und grenzt sie von zulaessiger Informationsweitergabe (Market Sounding, Beratung, M&A) ab im Insiderrecht Compliance._
+_Wenn es um Analysten-Calls und Investorenkommunikation – Selective Disclosure in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Unzulässige Offenlegung nach Art. 10 MAR
+# Analysten-Calls und Investorenkommunikation – Selective Disclosure
 
 ## Arbeitsweg
 
@@ -382,75 +273,92 @@ _Prüft unzulaessige Offenlegung von Insiderinformationen nach Art. 10 MAR und g
 
 ## Rechtlicher Rahmen
 
-Art. 10 VO (EU) 596/2014 (MAR) verbietet die Offenlegung von Insiderinformationen an Dritte,
-es sei denn, dies geschieht im Rahmen der normalen Ausübung einer Beschäftigung, eines Berufs
-oder einer Aufgabe. Art. 11 MAR regelt Market Sounding als legale Ausnahme. Das Verbot gilt
-für primäre und sekundäre Insider. Verletzung führt zur Strafbarkeit nach § 119 WpHG.
+Die selektive Weitergabe von Insiderinformationen an Analysten oder Investoren ist nach
+Art. 10 MAR verboten (unzulässige Offenlegung) und kann einen Verstoß gegen Art. 14 MAR
+darstellen (Tipping). Emittenten müssen sicherstellen, dass in Analysten-Calls, Roadshows
+und Einzelgesprächen keine nicht-öffentlichen kursrelevanten Informationen vermittelt werden.
+Selective Disclosure verstößt auch gegen Equal Treatment-Grundsätze (Art. 4 MAR).
 
 Rechtsgrundlagen:
-- Art. 10 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
-- Art. 11 MAR (Market Sounding): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
-- DVO (EU) 2016/960 (Market Sounding): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0960
-- § 119 WpHG: https://www.gesetze-im-internet.de/wphg/__119.html
+- Art. 10, 14 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- Art. 4 MAR (Gleiche Behandlung): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
 - BaFin-Emittentenleitfaden Kap. III: https://www.bafin.de/dok/8252648
+- § 119 WpHG: https://www.gesetze-im-internet.de/wphg/__119.html
 
 ## Ziel dieses Skills
 
-Prüfe, ob eine Informationsweitergabe als unzulässige Offenlegung nach Art. 10 MAR
-qualifiziert oder unter eine Ausnahme fällt (normale Berufsausübung, Market Sounding, Due
-Diligence in M&A-Prozessen). Er erstellt das Verteidigungsdossier für Übermittlungsvorgänge.
+Dieser Skill stellt sicher, dass Analysten-Calls und Investorenkommunikation frei von Selective
+Disclosure sind und schützt den Emittenten vor MAR-Verstößen in der alltäglichen IR-Kommunikation.
 
 ## Arbeitsprogramm
 
-### Schritt 1 – Tatbestand der Offenlegung
+### Schritt 1 – Pre-Call-Prüfung
 
-- Welche Information wurde weitergegeben (Inhalt, Zeitpunkt, Medium)?
-- War die Information zum Zeitpunkt der Weitergabe eine Insiderinformation nach Art. 7 MAR?
-- An wen wurde die Information weitergegeben (Name, Funktion, Verhältnis zum Emittenten)?
-- Auf welchem Wege (E-Mail, Telefonat, Meeting, Datenraum)?
+Vor jedem Analysten-Call, Investorengespräch oder Roadshow-Termin:
+- Liegt eine aktuelle Insiderinformation vor? (Mit Compliance abstimmen)
+- Wenn ja: Gespräch absagen oder auf rein öffentliche Informationen beschränken
+- Erstelle Liste der Themen, die NICHT besprochen werden dürfen
 
-### Schritt 2 – Ausnahme: Normale Berufsausübung (Art. 10 Abs. 1 MAR)
+### Schritt 2 – Sprechregeln (Speaker-Guidelines)
 
-Prüfe, ob die Weitergabe im Rahmen der normalen Ausübung einer Beschäftigung, eines Berufs
-oder einer Aufgabe erfolgte:
-- Anwalt gibt Insiderinformation an Mandanten weiter (korrekt), aber nicht an Dritte
-- Investmentbank führt Due Diligence für Mandanten durch (korrekt)
-- Journalist recherchiert im öffentlichen Interesse (differenzierter Tatbestand)
-Wichtig: Die Weitergabe muss für die Berufsausübung notwendig sein (Verhältnismäßigkeit).
+- IR-Team und Vorstand: Nur auf Basis von veröffentlichten Informationen (Jahresbericht,
+ Quartalsberichte, Ad-hoc-Mitteilungen) antworten
+- Verboten: Kommentierung von Marktgerüchten zu nicht-öffentlichen Transaktionen
+- Erlaubt: Erläuterung öffentlicher Informationen, Branchentrends, allgemeiner Strategie
+- „No-Comment" ist erlaubt und besser als eine Selective Disclosure
 
-### Schritt 3 – Market Sounding (Art. 11 MAR)
+### Schritt 3 – Q&A-Vorbereitung und Screening
 
-Market Sounding ist die Übermittlung von Insiderinformationen an potenzielle Investoren vor
-Bekanntgabe einer Transaktion. Voraussetzungen:
-- Vor der Sondierung: schriftliche Erklärung, dass Information Insiderinformation sein kann
-- Einholung der Zustimmung zur Entgegennahme
-- Protokoll der Sondierung (Inhalt, Datum, Teilnehmer)
-- Aufhebung der Insiderposition des Investierten nach der Ad-hoc-Veröffentlichung
- (Wall Crossing Management)
-Maßgebliche DVO: (EU) 2016/960.
+- Erstelle vor dem Call eine Liste erwarteter Fragen und Standard-Antworten
+- Screening: Welche Antworten könnten als Konfirmation von Insiderinformationen
+ verstanden werden?
+- Klärung: Bestätigt eine Antwort eine bestehende Insiderinformation? → Nicht beantworten
 
-### Schritt 4 – Due Diligence in M&A
+### Schritt 4 – Protokollierung
 
-- Weitergabe in einem NDA-gesicherten Datenraum ist erlaubt, wenn:
- a) Need-to-know-Prinzip eingehalten
- b) Alle Empfänger in Insiderliste eingetragen
- c) Vertraulichkeitsverpflichtung dokumentiert
-- Bei gescheitertem Prozess: Insiderinformation darf nicht genutzt werden (Art. 8 MAR).
+- Alle Analysten-Calls aufzeichnen (Einwilligung der Teilnehmer einholen)
+- Protokoll oder Transkript anfertigen
+- Aufbewahrung 5 Jahre
+- Nachbearbeitung: Wurden unbeabsichtigt kursrelevante Informationen kommuniziert?
 
-### Schritt 5 – Dokumentationspflichten
+### Schritt 5 – Post-Call-Pflichten
 
-Für jeden Weitergabevorgang außerhalb der Ad-hoc-Veröffentlichung:
-- Protokoll: Datum, Uhrzeit, Empfänger, Übertragungsmedium, Inhalt
-- Belehrung des Empfängers über Insiderstatus
-- Aufnahme in Insiderliste (Art. 18 MAR)
+Wenn im Call versehentlich eine Insiderinformation offengelegt wurde:
+- Sofortige Einschaltung von Compliance
+- Prüfung: Ad-hoc-Pflicht nach Art. 17 MAR (Öffentlichkeit herstellen)
+- Prüfung: Hat der informierte Analyst Transaktionen auf Basis dieser Information getätigt?
+ → Meldung an BaFin erforderlich
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 119 WpHG
+- § 97 WpHG
+- § 120 WpHG
+- § 93 AktG
+- § 50 WpHG
+- § 10 WpÜG
+- § 4 WpHG
+- § 98 WpHG
+- § 80 WpHG
+- § 116 AktG
+- § 39 BörsG
+- § 89 KWG
+
+### Leitentscheidungen
+
+- EuGH C-19/11
+- EuGH C-628/13
+- BGH II ZB 26/12
 
 ---
 
-## Skill: `cyberangriff`
+## Skill: `produktzulassung-whistleblower`
 
-_Prüft Insiderinformations-Qualitaet eines Cyberangriffs: Kursrelevanz, Ad-hoc-Pflicht, Aufschub wegen laufender Strafverfolgung und Koordination mit IT-Forensik im Insiderrecht Compliance._
+_Wenn es um Produktzulassung – Insiderrecht bei regulatorischen Entscheidungen in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Cyberangriff – Insiderrecht und Ad-hoc-Pflicht
+# Produktzulassung – Insiderrecht bei regulatorischen Entscheidungen
 
 ## Arbeitsweg
 
@@ -463,72 +371,68 @@ _Prüft Insiderinformations-Qualitaet eines Cyberangriffs: Kursrelevanz, Ad-hoc-
 
 ## Rechtlicher Rahmen
 
-Ein wesentlicher Cyberangriff auf einen börsennotierten Emittenten kann eine Insiderinformation
-nach Art. 7 MAR darstellen. Kursrelevanz ist anzunehmen bei: erheblichem Datenverlust,
-Betriebsunterbrechung, Reputationsschaden, Haftungsrisiken oder regulatorischen Konsequenzen.
-NIS-2-Richtlinie (Umsetzungsfrist 2024) schafft zusätzliche Meldepflichten, die parallel zu
-MAR bestehen.
+In regulierten Industrien (Pharma, Medtech, Energie, Finanzdienstleistungen) können
+Produktzulassungsentscheidungen oder Behördenentscheidungen erhebliche Kursrelevanz
+aufweisen. Der Geltl/Daimler-Test (EuGH C-19/11) erfordert, dass auch Zwischenschritte
+im Zulassungsverfahren auf Insiderinformations-Qualität geprüft werden.
 
 Rechtsgrundlagen:
-- Art. 7, 17 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
-- NIS-2-Richtlinie (EU) 2022/2555: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022L2555
-- DSGVO Art. 33 (Datenschutzverletzung): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679
+- Art. 7 Abs. 2, 3 MAR (Zwischenschritte): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- EuGH C-19/11 (Geltl/Daimler): https://curia.europa.eu/juris/document/document.jsf?docid=123755
+- Art. 17 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
 - BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
 
 ## Ziel dieses Skills
 
-Prüft die Insiderinformations-Qualität eines Cyberangriffs, entwickelt die
-Ad-hoc-Strategie und koordiniert die parallelen Meldepflichten (MAR, DSGVO, NIS-2).
+Identifiziere insiderrelevante Zeitpunkte im Zulassungsverfahren, prüft
+Kursrelevanz von Zwischenschritten und steuert Timing und Inhalt der Ad-hoc-Meldungen.
 
 ## Arbeitsprogramm
 
-### Schritt 1 – Initialerkennung und Schadensbewertung
+### Schritt 1 – Zulassungsverfahren kartieren
 
-- Zeitpunkt: Wann war dem Emittenten der Angriff bekannt?
-- Art: Datenverlust, Ransomware, Systemaufall, Datenleck, IP-Diebstahl?
-- Umfang: Betroffene Systeme, betroffene Daten (Kundendaten, Finanzdaten, Geschäftsgeheimnisse)
-- Quantifizierung: Geschätzter finanzieller Schaden, Wiederherstellungskosten, Haftungsrisiko
+- Erstelle Prozessdiagramm: Antragstellung → Vorprüfung → klinische Phase (Pharma) →
+ Behördenprüfung → vorläufige Entscheidung → finale Zulassung
+- Identifiziere alle wesentlichen Meilensteine (Advisory Committee Meeting, Complete
+ Response Letter, Zulassungsbescheid)
+- Benenne interne Wissensträger für jeden Meilenstein
 
-### Schritt 2 – Insiderinformations-Prüfung
+### Schritt 2 – Geltl/Daimler-Test für jeden Meilenstein
 
-- Kursrelevanz: Würde ein verständiger Anleger die Information berücksichtigen?
- Indikation für hohe Kursrelevanz: erhebliche Betriebsunterbrechung, große Kundendaten-
- verluste, behördliche Ermittlungen, drohende Schadensersatzklagen
-- Zeitpunkt: Ab wann lag präzise Information vor (erster sicherer Kenntnisstand)?
-- Unsicherheit: Frühe Phasen eines Angriffs können noch unpräzise sein; laufende
- Forensik kann den Eintritt von Schäden als noch unbekannt qualifizieren
+Je Meilenstein prüfen:
+- Ist das Ereignis konkret und hinreichend wahrscheinlich?
+- Ist es kursrelevant (positive Entscheidung? Negative Entscheidung? Auflagen?)?
+- Ist es noch nicht öffentlich?
+Beispiel Pharma: Positive Phase-III-Studie kann bereits Insiderinformation sein,
+auch wenn finale FDA/EMA-Entscheidung noch aussteht.
 
-### Schritt 3 – Aufschub wegen laufender Strafverfolgung / IT-Forensik
+### Schritt 3 – Kursrelevanz-Beurteilung
 
-- Legitimes Interesse: Laufende strafrechtliche Ermittlungen oder Forensik können
- durch frühzeitige Veröffentlichung beeinträchtigt werden
-- ESMA-Guidance: Aufschub möglich, wenn Behörden (BSI, BKA) bestätigen, dass
- Veröffentlichung Ermittlungen gefährdet
-- Praktisch: Emittent sollte BSI/BKA schriftlich anfragen und Antwort dokumentieren
-- Aufschub endet: Wenn kein behördlicher Vorbehalt mehr besteht oder Öffentlichkeit
- durch Dritte informiert wurde
+- Analyse der Markterwartungen und Analystenbewertungen
+- Abweichung vom erwarteten Ergebnis: Positiv-Überraschung oder negatives Ergebnis?
+- Finanzielle Bedeutung des Produkts für den Emittenten (Umsatzanteil)
+- Vergleich mit Marktreaktionen auf ähnliche Zulassungsentscheidungen in der Branche
 
-### Schritt 4 – Parallele Meldepflichten
+### Schritt 4 – Aufschub und Vertraulichkeit
 
-- DSGVO Art. 33: Datenschutzbehörde (BfDI / Landesbehörde) innerhalb 72 Stunden
-- NIS-2: BSI innerhalb 24 Stunden (Early Warning) und 72 Stunden (Notification)
-- BaFin: Ggf. KWG-Meldepflicht für Finanzinstitute (§ 25a KWG)
-- Koordination aller Meldepflichten mit einheitlicher Kommunikationsstrategie
+- Laufende Verhandlungen mit Behörde: Legitimes Interesse am Aufschub?
+- Behördenverfahren haben typischerweise eigene Vertraulichkeitsregeln (z. B. EMA-Regeln)
+- Prüfe: Kann der Emittent Vertraulichkeit zuverlässig sicherstellen?
 
-### Schritt 5 – Ad-hoc-Veröffentlichung
+### Schritt 5 – Ad-hoc-Timing und Koordination
 
-- Inhalt: Art des Angriffs (soweit bekannt), betroffene Systeme, geschätzte Auswirkungen,
- ergriffene Maßnahmen, Ausblick
-- Keine Offenlegung von Informationen, die laufende Ermittlungen gefährden
-- Aktualisierungs-Ad-hoc: Wenn neue wesentliche Informationen bekannt werden
+- Bei positiver Entscheidung: Sofortveröffentlichung ab Kenntnis (nicht erst nach offizieller
+ Bekanntmachung durch Behörde)
+- Bei negativer Entscheidung: Ebenso unverzüglich
+- Koordination mit IR und Presse für simultane Kommunikation
 
 ---
 
-## Skill: `krisenfall-profit-warning`
+## Skill: `zwischenschritte-ma`
 
-_Steuert den Compliance-Prozess bei einer Profit Warning: Insiderinformations-Entstehungszeitpunkt, Ad-hoc-Pflicht, Inhalt und Koordination mit Konsensus-Updates im Insiderrecht Compliance._
+_Wenn es um Zwischenschritte bei mehrstufigen Prozessen (M&A / Restrukturierung) in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Krisenfall Profit Warning – Ad-hoc und Insiderrecht
+# Zwischenschritte bei mehrstufigen Prozessen (M&A / Restrukturierung)
 
 ## Arbeitsweg
 
@@ -541,69 +445,195 @@ _Steuert den Compliance-Prozess bei einer Profit Warning: Insiderinformations-En
 
 ## Rechtlicher Rahmen
 
-Eine Gewinnwarnung (Profit Warning) entsteht, wenn der Emittent erkennt, dass seine aktuell
-kommunizierten Prognosen wesentlich unterschritten werden. Ab dem Zeitpunkt, an dem diese
-Erkenntnis als präzise Information vorliegt und kursrelevant ist, besteht Ad-hoc-Pflicht nach
-Art. 17 MAR. Es gibt keinen Aufschub-Tatbestand für Profit Warnings (keine laufenden
-Verhandlungen, keine legitime Geheimnishaltung).
+EuGH C-19/11 (Geltl/Daimler, 28.06.2012) hat klargestellt, dass in einem gestreckten Sachverhalt
+jeder Zwischenschritt selbst eine präzise Information im Sinne von Art. 7 MAR darstellen kann,
+sofern sein Eintritt mit hinreichender Wahrscheinlichkeit erwartet wird und er kursrelevant ist.
+Der BGH hat diese Rechtsprechung im Daimler-Urteil (BGH II ZB 26/12) für das deutsche Recht
+übernommen. Für M&A-Transaktionen bedeutet dies: Schon die Aufnahme von Sondierungsgesprächen,
+der Abschluss eines NDA oder die Durchführung einer Due Diligence können eigenständige
+Insiderinformationen darstellen.
 
 Rechtsgrundlagen:
-- Art. 7, 17 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
-- § 97 WpHG (Haftung): https://www.gesetze-im-internet.de/wphg/__97.html
-- BaFin-Emittentenleitfaden Kap. VI.2: https://www.bafin.de/dok/8252648
-- EuGH C-19/11 (Geltl/Daimler, Zwischenschritte): https://curia.europa.eu/juris/document/document.jsf?docid=123755
+- Art. 7 Abs. 2 und 3 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- EuGH C-19/11 (Geltl/Daimler): https://curia.europa.eu/juris/document/document.jsf?docid=123755
+- BGH II ZB 26/12 (Daimler): https://www.bgh.de
+- ESMA-Leitlinien zu Insiderinformationen: https://www.bafin.de/dok/8252648
+- BaFin-Emittentenleitfaden Kap. I: https://www.bafin.de/dok/8252648
 
 ## Ziel dieses Skills
 
-Steuert den Compliance-Prozess von der internen Erkenntnis einer Gewinnverfehlung
-bis zur ordnungsgemäßen Ad-hoc-Veröffentlichung und der Konsensus-Kommunikation mit Analysten.
+Dieser Skill stellt sicher, dass bei mehrstufigen Vorgängen – insbesondere M&A-Transaktionen,
+Kapitalmaßnahmen, Restrukturierungen oder Führungswechseln – jeder relevante Prozessschritt
+einzeln auf das Vorliegen einer Insiderinformation geprüft wird. Er verhindert das typische
+Compliance-Risiko, erst beim finalen Abschluss zu prüfen und frühere Schritte zu übersehen.
 
 ## Arbeitsprogramm
 
-### Schritt 1 – Zeitpunkt der Insiderinformation
+### Schritt 1 – Prozesskartierung
 
-- Entstehungszeitpunkt: Wann war die Prognoseabweichung als präzise Information erkennbar?
- (Nicht erst beim CFO-Monats-Bericht, sondern ggf. schon bei erstem internen Alert)
-- Anwendung des Geltl/Daimler-Tests: Auch ein Zwischenschritt (z. B. erste 2-Monats-Zahlen
- weichen stark ab) kann präzise und kursrelevant sein
-- Ergebnis: Frühestmöglicher Zeitpunkt dokumentieren
+- Erstelle eine chronologische Zeitleiste des Vorgangs mit allen wesentlichen Schritten:
+ Erstkontakt, NDA, indikatives Angebot, Due Diligence, LOI, Signing, Closing.
+- Identifiziere alle Entscheidungsträger, die zu welchem Zeitpunkt Kenntnis erlangt haben.
+- Halte fest, wer intern und extern in den Prozess einbezogen ist.
 
-### Schritt 2 – Kursrelevanz-Beurteilung
+### Schritt 2 – Geltl/Daimler-Test für jeden Schritt
 
-- Vergleich: Veröffentlichte Prognose vs. neue Erwartung
-- Materiality-Schwelle: Es gibt keine feste prozentuale Grenze; BaFin-Emittentenleitfaden
- gibt Indikatorenliste
-- Analyse: Wie stark weicht die neue Erwartung von Markterwartungen (Analystenkonsensus) ab?
-- Ex-ante-Beurteilung: Würde ein verständiger Anleger die Information berücksichtigen?
+Prüfe für jeden identifizierten Zwischenschritt:
+a) Handelt es sich um eine konkrete Tatsache oder ein Ereignis (Präzision)?
+b) Ist der Eintritt des finalen Ereignisses aus Sicht des jeweiligen Zeitpunkts hinreichend
+ wahrscheinlich? (Kein Automatismus: 50 % genügen nicht stets, 90 % fast immer.)
+c) Ist der Zwischenschritt selbst kursrelevant, weil ein verständiger Anleger ihn bei seiner
+ Investitionsentscheidung berücksichtigen würde?
+d) Ist die Information noch nicht öffentlich?
 
-### Schritt 3 – Inhalt der Profit-Warning-Ad-hoc
+### Schritt 3 – Erste Insiderinformation bestimmen
 
-Pflichtinhalt:
-- Frühere Prognose (Zitat aus letzter Veröffentlichung)
-- Neue Prognose oder zumindest Angabe der Bandbreite (falls möglich)
-- Ursachen der Abweichung (präzise, keine allgemeinen Floskeln)
-- Zeitraum (welches Geschäftsjahr / Quartal)
-- Ausblick (falls möglich)
-Verboten: Verwischende Sprache, Prognose-Widersprüche, irreführende Formulierungen
+- Identifiziere den frühestmöglichen Zeitpunkt, ab dem eine Insiderinformation vorlag.
+- Beachte: Bei einem M&A kann das Entscheidungsbegehren des Vorstands zur Aufnahme von
+ Gesprächen bereits eine Insiderinformation sein (vgl. BaFin-Emittentenleitfaden).
+- Dokumentiere Alternativszenarien und begründe die gewählte Einordnung.
 
-### Schritt 4 – Koordination mit Analysten und IR
+### Schritt 4 – Folgehandlungen
 
-- Keine Advance-Information an Analysten oder Investoren vor Ad-hoc-Veröffentlichung
-- Nach Ad-hoc: Analystencall oder IR-Mitteilung zulässig (keine neuen Informationen)
-- Konsensus-Update: Analysten passen Schätzungen nach Ad-hoc eigenständig an
+- Löse Insiderliste (Art. 18 MAR) für alle Wissensträger ab dem ersten Insiderinformations-
+ zeitpunkt aus.
+- Prüfe Aufschub der Ad-hoc-Meldung nach Art. 17 Abs. 4 MAR: Sind die drei Aufschubvoraus-
+ setzungen (legitimes Interesse, keine Irreführung, Vertraulichkeit gewährbar) erfüllt?
+- Erstelle Aufschubakte und Leak-Überwachungsprotokoll.
+- Prüfe Handelsverbote für alle Insider (Art. 14 MAR, Art. 19 MAR Closed Periods).
 
-### Schritt 5 – Nachgang und Haftungsvorsorge
+### Schritt 5 – Ereignis-Trigger und Eskalation
 
-- Analyse: Wurden zwischen Entstehung der Insiderinformation und Ad-hoc Eigengeschäfte
- von PDMRs getätigt? → Prüfung auf Art. 14/19 MAR-Verstoß
-- § 97-WpHG-Haftungsrisiko einschätzen: Wie lange zwischen Entstehung und Veröffentlichung?
-- Compliance-Akte: Entstehungszeitpunkt der Insiderinformation belegen
+- Definiere im Voraus, bei welchem Ereignis der Aufschub endet und die Sofortveröffentlichung
+ ausgelöst wird (Signing, Board-Beschluss, Bekanntwerden in Medien).
+- Benenne eine verantwortliche Person (Compliance, CFO, IR) für die Auslösungsentscheidung.
+
+## Red-Team-Fragen
+
+- Wurde bei jedem Prozessschritt eigenständig geprüft, ob bereits eine Insiderinformation vorlag?
+- Wurde der Geltl/Daimler-Test korrekt angewendet – insbesondere die Eintrittswahrscheinlichkeit
+ zeitpunktbezogen und nicht rückblickend beurteilt?
+- Ist die Insiderliste vom frühestmöglichen Zeitpunkt an gepflegt worden?
+- Wurden externe Berater (Banken, Kanzleien) in die Insiderliste aufgenommen?
+- Ist der Aufschub nach Art. 17 Abs. 4 MAR lückenlos dokumentiert?
+- Gibt es einen definierten Trigger für die Sofortveröffentlichung?
+- Wurden Handelsverbote für alle Wissensträger sichergestellt?
+- Wurde Market Sounding (Art. 11 MAR) korrekt angewendet, sofern potenzielle Investoren
+ sondiert wurden?
+
+---
+
+## Skill: `aktienr-anleiheemission`
+
+_Wenn es um Aktienrückkaufprogramme – MAR Safe Harbour und Compliance in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Aktienrückkaufprogramme – MAR Safe Harbour und Compliance
+
+## Arbeitsweg
+
+- Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant?
+- MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. 7 MAR, Handels-/Empfehlungs-/Weitergabeverbot nach Art. 14 MAR, Ad-hoc-Publizität nach Art. 17 MAR, Aufschub nach Art. 17 Abs. 4 MAR, Insiderliste nach Art. 18 MAR, Eigengeschäfte von Führungskräften nach Art. 19 MAR.
+- Deutsche Sanktions- und Verfahrensspur live verifizieren: WpHG §§ 119 ff., BaFin-Zuständigkeit, Börsenrecht, ggf. WpÜG/AktG bei Übernahme, Delisting, Kapitalmaßnahme oder Hauptversammlung.
+- Beweise aktenfest sichern: Timeline, Board-/AR-Unterlagen, Datenraum-Log, Insiderlisten-Versionen, Handelsdaten, Kommunikationskanäle, Aufschubvermerk, Veröffentlichungszeitpunkt und BaFin-/DGAP-/EQS-Belege.
+- Strategische Ausgabe wählen: Ad-hoc-Entscheidungsvorlage, Aufschubvermerk, Leak-Response, Handelsstopp-Empfehlung, Insiderlisten-Audit, PDMR-Meldecheck, BaFin-Antwort oder Verteidigungsnotiz.
+- Rechtsprechung und Behördenpraxis nur mit frei prüfbarer Quelle zitieren; keine BeckRS-/juris-Blindzitate und keine alten WpHG-Paragrafen als Ersatz für die unmittelbar geltende MAR verwenden.
+
+## Rechtlicher Rahmen
+
+Aktienrückkaufprogramme können unter den Safe Harbour der DVO (EU) 2016/1052 fallen, wenn
+Volumen-, Preis- und Timing-Beschränkungen eingehalten werden. Außerhalb des Safe Harbour
+gelten die allgemeinen MAR-Verbote. Art. 5 MAR und DVO 2016/1052 regeln die Ausnahme
+abschließend. Ankündigung des Programms ist in der Regel ad-hoc-pflichtig.
+
+Rechtsgrundlagen:
+- Art. 5 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- DVO (EU) 2016/1052: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R1052
+- §§ 71–71e AktG: https://www.gesetze-im-internet.de/aktg/__71.html
+- BaFin-Emittentenleitfaden Kap. VII: https://www.bafin.de/dok/8252648
+
+## Ziel dieses Skills
+
+Dieser Skill stellt sicher, dass Aktienrückkaufprogramme rechtskonform konzipiert,
+angekündigt und durchgeführt werden, und prüft laufend Safe-Harbour-Konformität.
+
+## Arbeitsprogramm
+
+### Schritt 1 – Beschluss und Ermächtigung
+
+- Hauptversammlungsermächtigung nach § 71 Abs. 1 Nr. 8 AktG vorhanden?
+- Volumen (max. 10 % des Grundkapitals), Laufzeit (max. 5 Jahre) und Preisspanne definiert?
+- Board-Beschluss zur Durchführung dokumentiert
+
+### Schritt 2 – Ad-hoc-Ankündigung
+
+- Bekanntgabe des Programms ist typischerweise ad-hoc-pflichtig, sobald Board-Beschluss
+ vorliegt (nicht erst bei Start der Käufe)
+- Inhalt: Volumen, Preisspanne, Zweck, Laufzeit, beauftragtes Institut
+
+### Schritt 3 – Safe-Harbour-Bedingungen (DVO 2016/1052)
+
+Tageskauf-Limit: max. 25 % des durchschnittlichen Tagesvolumens der letzten 20 Handelstage
+Preislimit: Höchstkurs = letzter unabhängiger Abschlusskurs oder höchstes aktuelles unabhängiges
+ Gebot (je nachdem, welches höher ist)
+Keine Käufe:
+ - Während eines Aufschubs nach Art. 17 Abs. 4 MAR (außer im Rahmen eines vorgefassten Plans)
+ - In Closed Periods (Art. 19 Abs. 11 MAR, aber nur für PDMR, nicht für Emittenten-Programm direkt)
+ - An Tagen, an denen Ad-hoc-Veröffentlichungen geplant sind
+
+### Schritt 4 – Handelsverbote für PDMRs
+
+- Emittent führt Rückkauf → keine MAR-Verletzung durch den Emittenten im Safe Harbour
+- PDMRs: Eigene Handelsverbote bei Insiderinformation bleiben unberührt
+- Keine PDMR-Eigengeschäfte parallel zum Rückkauf, wenn Insiderinformation besteht
+
+### Schritt 5 – Laufende Offenlegung und Nachgang
+
+- Tägliche Meldung der Rückkäufe an Handelsplatz (Art. 5 Abs. 3 MAR)
+- Wöchentliche Veröffentlichung der aggregierten Rückkäufe auf Website
+- Abschlussmitteilung am Ende des Programms
+- Eigene Aktien: Eintrag ins Aktienregister, §§ 71 ff. AktG
+
+## Weitere Hinweise
+
+Aktienrückkäufe über ein separates Handelsmandat (Beauftragung eines unabhängigen
+Intermediärs nach DVO 2016/1052) bieten zusätzlichen Safe-Harbour-Schutz, da die
+Kaufentscheidung nicht mehr vom Emittenten direkt gesteuert wird. Das Mandat muss jedoch
+vor Beginn einer Insiderphase erteilt worden sein und darf während der Insiderphase nicht
+modifiziert werden. Compliance muss das Mandat regelmäßig auf Übereinstimmung mit dem
+Safe Harbour prüfen.
+
+Weitere Quellen:
+- DVO (EU) 2016/1052: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R1052
+- §§ 71 ff. AktG: https://www.gesetze-im-internet.de/aktg/__71.html
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 119 WpHG
+- § 97 WpHG
+- § 120 WpHG
+- § 93 AktG
+- § 50 WpHG
+- § 10 WpÜG
+- § 4 WpHG
+- § 98 WpHG
+- § 80 WpHG
+- § 116 AktG
+- § 39 BörsG
+- § 89 KWG
+
+### Leitentscheidungen
+
+- EuGH C-19/11
+- EuGH C-628/13
+- BGH II ZB 26/12
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

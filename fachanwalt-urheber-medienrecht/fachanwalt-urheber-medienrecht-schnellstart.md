@@ -58,8 +58,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragrafen 195, 199 BGB — Verjährung 3 Jahre; Paragraf 102 UrhG spezielle Verjährungsregel: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schoepfung als unionsrechtlichen Werkanker.
 - EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
-- Geprüft: BGH VI ZR 483/17 (abrufen auf dejure.org)
-- Ersatz: BGH VI ZR 439/17, NJW 2019, 1881 (verifiziert auf dejure.org)
 
 ## 7. Antwortform
 

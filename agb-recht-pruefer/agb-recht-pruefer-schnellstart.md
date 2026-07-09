@@ -58,7 +58,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGH I ZR 186/17 zur Reichweite der Verbandsklagebefugnis bei Datenschutz-/UWG-Verstößen
 - BGH I ZR 7/16 (Planet49) zu Cookie-Einwilligung und transparenter Nutzerentscheidung
 - BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung)
-- BGH I ZR 7/16 (Planet49: Cookie-Einwilligung, Transparenz und UWG/Datenschutz-Schnittstelle)
 
 ## 7. Antwortform
 

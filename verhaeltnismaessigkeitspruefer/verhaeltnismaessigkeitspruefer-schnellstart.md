@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Art. 3 Abs. 2 und Abs. 3 GG sind lex specialis. Greift ein besonderer; Art. 3 Abs. 1 GG verbietet nicht jede Ungleichbehandlung, sondern; Art. 3 Abs. 3 GG übersehen |
-| Rechtsprechung | BVerfGE 125, 175 (Hartz-IV-Urteil, Existenzminimum); Begründet in BVerfGE 27, 1 (Mikrozensus-Urteil) und vertieft |
+| Rechtsprechung | EuGH Rs. C-144/04 Mangold; EuGH Rs. C-555/07 Kuecuekdeveci |
 | Tatbestand | ] Der Staat darf das Existenzminimum nicht unterschreiten – auch nicht aus haushalts- oder fiskalpolitischen |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -55,7 +55,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - GG Art. 1 Abs. 1, Art. 2 Abs. 1, Art. 5, Art. 8, Art. 12, Art. 14 je nach Grundrecht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - GG Art. 19 Abs. 2 und Abs. 4: Wesensgehalt und Rechtsschutz: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - GG Art. 20 Abs. 3: Gesetzesbindung und Verhältnismäßigkeit als rechtsstaatlicher Maßstab: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfGE 125, 175 (Hartz-IV-Urteil, Existenzminimum)
+- EuGH Rs. C-144/04 Mangold — Altersdiskriminierung und Unionsrechtsanwendung
+- EuGH Rs. C-555/07 Kuecuekdeveci — unmittelbare Wirkung des Diskriminierungsverbots
+- EuGH Rs. C-83/14 Chez — mittelbare ethnische Diskriminierung
+- BAG vom 22.05.2014 — 8 AZR 662/13 — wesentliche berufliche Anforderung
 
 ## 7. Antwortform
 

@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | SGB V Paragraf 360; SGB V Paragraf 360 zur E-Rezept-Pflicht; Paragraf 28 VwVfG |
-| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -54,7 +54,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 80 VwGO: Sofortvollzug und Widerspruch: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 47 VwGO: Normenkontrolle: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - VwVfG Paragraf 28; VwGO Paragrafen 80, 47; OWiG Paragrafen 17, 47, 65–67: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 7. Antwortform
 

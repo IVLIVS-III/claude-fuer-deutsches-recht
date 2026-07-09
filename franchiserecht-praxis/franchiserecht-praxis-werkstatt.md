@@ -101,10 +101,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 10.05.2016 - II ZR 342/14: Gesellschafterliste und Legitimationswirkung sind für GmbH-Rechte zentral.
 - BGH, Urteil vom 20.09.2011 - II ZR 234/09: Beschlussmängel in der GmbH folgen eigenstaendiger gesellschaftsrechtlicher Dogmatik.
 - BGH, Urteil vom 26.01.2009 - II ZR 260/07: Treuepflichten begrenzen gesellschaftsrechtliche Rechtsausübung.
-- Paragraf 89b HGB analog; BGH, Urteil vom 05.02.2015 - VII ZR 109/13; Paragrafen 242, 812 BGB; Art. 6, 17 Datenschutz-Grundverordnung bei Kundendaten
-- Das Recht auf Löschung von Online-Bewertungen ist durch die EuGH-Entscheidungen zu Recht auf Vergessenwerden (Google Spain, C-131/12) und durch die Datenschutz-Grundverordnung geprägt. Bewertungen
-- Datenschutz-Grundverordnung Art. 4 Nr. 7, 26, 28, 30, 32, 83; EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen
-- Die EuGH-Entscheidung Wirtschaftsakademie Schleswig-Holstein (C-210/16) und Fashion ID (C-40/17) haben den Begriff der gemeinsamen Verantwortlichkeit nach Art. 26 Datenschutz-Grundverordnung erheblich
 
 ## 9. Prüfraster
 

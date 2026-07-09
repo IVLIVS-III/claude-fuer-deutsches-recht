@@ -1,39 +1,40 @@
-# Megaprompt: steuerrecht-anwalt-und-berater
+# Vollprüfung: steuerrecht-anwalt-und-berater
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 385 Skills (gekuerzt fuer Chat-Fenster) des Plugins `steuerrecht-anwalt-und-berater`.
+Dieser Vollprüfung enthaelt top-8 von 385 Skills (gekuerzt fuer Chat-Fenster) des Plugins `steuerrecht-anwalt-und-berater`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Steuerrecht Anwalt Und Berater-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen…
-2. **mandat-triage-steuerrecht** — Strukturierte Erstabfrage und Triage bei Eingang eines steuerrechtlichen Mandats. Anwendungsfall Mandant meldet sich mit…
-3. **orientierung** — Orientierungs-Skill für Anwaeltinnen und Anwaelte im Steuerrecht. Anwendungsfall Einstieg in das Plugin oder Überblick ü…
-4. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für Steuerrechtsmandate — Mandatsannahme von der ersten Kontaktaufnahme bis zur V…
-5. **fa-stu-onboarding-fristen-uebersicht** — Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen — Einspruch Klage Revision Beschwerde Wiedereinsetzung …
-6. **fa-stu-vga-pruefraster** — Pruefraster zur verdeckten Gewinnausschuettung — Vermoegensminderung oder verhinderte Vermoegensmehrung Veranlassung im …
-7. **fa-stu-onboarding-korrekturnormen** — Systematischer Vergleich der Korrekturnormen — wann ist welche Vorschrift einschlaegig wann begruendet sie Aenderung zug…
-8. **fa-stu-aussenpruefung-anordnung-pruefung** — Praxis-Skill zur Begleitung von Aussenpruefungen — Pruefungsanordnung §§ 196 197 AO Pruefungserweiterung Schlussbesprech…
+1. **kaltstart-triage** — Wenn es um Kaltstart Triage in Steuerrecht – Steuerberater und Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und de…
+2. **mandat-triage-steuerrecht** — Wenn es um Mandat-Triage Steuerrecht in Steuerrecht – Steuerberater und Anwälte geht: klärt Rolle, Ziel, Frist, Unterlag…
+3. **orientierung** — Wenn es um Anwalt im Steuerrecht — Orientierung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zust…
+4. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech und Mandatsannahme im Steuerrecht (Beratung und Prozess) in Steuerrecht – Steuerberater und Anw…
+5. **rueckstellungen-hgb-rvg-steuerstreit-selbstanzeige-ao** — Wenn es um Rueckstellungen — Paragraf 249 HGB und steuerliche Vorgaben Paragraf 6 Abs. 1 Nr. 3a EStG in Steuerrecht – St…
+6. **ust-rechnungspflicht-ustg-vorsteuerabzug-vga-pruefraster** — Wenn es um Rechnungspflicht und Rechnungsberichtigung — Paragraf 14 Paragraf 14a Paragraf 14c UStG in Steuerrecht – Steu…
+7. **haftungswarn-15a-inso-haftungsbescheid-ao-lst-haftung-42d** — Wenn es um Haftungswarn an GmbH-Geschäftsführung bei Insolvenzreife (Anwaltliche Sicht) in Steuerrecht – Steuerberater u…
+8. **grunderwerbsteuer-share-deal-grundsteuer-bundesmodell** — Wenn es um Grunderwerbsteuer beim Share Deal — Paragraf 1 Abs. 2a 2b 3 3a GrEStG in Steuerrecht – Steuerberater und Anwä…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting im Steuerrecht Anwalt Und Berater-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill..._
+_Wenn es um Kaltstart Triage in Steuerrecht – Steuerberater und Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Steuerrecht Anwalt Und Berater** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Fachlicher Kern — Steuerrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Steuerrecht Anwalt Und Berater — Allgemein` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
@@ -80,7 +81,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 
 ### 1. Intake in 60 Sekunden
 
-Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+Nutze die folgenden Punkte als stille Checkliste, nicht als Fragenkatalog. Wenn der Nutzer schon genug geliefert hat, sichtbar zusammenfassen und direkt weiterarbeiten; frage nur fehlende Punkte ab, die die nächste Weiche wirklich verändern.
 
 | Punkt | Frage | Warum wichtig? |
 |---|---|---|
@@ -358,23 +359,24 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 ## Skill: `mandat-triage-steuerrecht`
 
-_Strukturierte Erstabfrage und Triage bei Eingang eines steuerrechtlichen Mandats. Anwendungsfall Mandant meldet sich mit Steuerproblem Art und Dringlichkeit noch unklar. Klaert Mandantenrolle Steuerart ESt KSt GewSt USt ErbSt GrESt Vorgang Festsetzungsbescheid Änderungsbescheid Schaetzungsbesche..._
+_Wenn es um Mandat-Triage Steuerrecht in Steuerrecht – Steuerberater und Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Mandat-Triage Steuerrecht
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Mandat Triage Steuerrecht** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Steuerrecht Anwalt Und Berater** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Fachlicher Anker
 
@@ -534,7 +536,11 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Empfehlung Folge-Skill
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Quellen
@@ -550,7 +556,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Skill: `orientierung`
 
-_Orientierungs-Skill für Anwaeltinnen und Anwaelte im Steuerrecht. Anwendungsfall Einstieg in das Plugin oder Überblick über verfuegbare Skills gewuenscht. Zentrale Gesetze AO EStG KStG UStG GewStG ErbStG GrEStG. Verfahrenswege Einspruch § 347 AO AdV § 361 AO Aussenprüfung §§ 193 ff. AO FG-Klage F..._
+_Wenn es um Anwalt im Steuerrecht — Orientierung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Anwalt im Steuerrecht — Orientierung
 
@@ -627,7 +633,7 @@ Inhaltlich-fachlich macht der Fachanwaltstitel keinen Unterschied — alle Skill
 
 ## Skill: `erstgespraech-mandatsannahme`
 
-_Strukturierter Erstgespraechsleitfaden für Steuerrechtsmandate — Mandatsannahme von der ersten Kontaktaufnahme bis zur Vollmachtserteilung. Anwendungsfall Mandant ruft erstmals an oder kommt zum Erstgespraech Steuerrecht Beratung oder Prozess. Prüfraster Konflikt- und GwG-Check §§ 10 ff. GwG Voll..._
+_Wenn es um Erstgespraech und Mandatsannahme im Steuerrecht (Beratung und Prozess) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Erstgespraech und Mandatsannahme im Steuerrecht (Beratung und Prozess)
 
@@ -795,30 +801,44 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 
 ---
 
-## Skill: `fa-stu-onboarding-fristen-uebersicht`
+## Skill: `rueckstellungen-hgb-rvg-steuerstreit-selbstanzeige-ao`
 
-_Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen — Einspruch Klage Revision Beschwerde Wiedereinsetzung Verjaehrung Festsetzungsfrist Zahlungsverjaehrung Aussenpruefung Selbstanzeige. Anwendungsfall Anwalt oder Steuerberater muss bei Mandatsuebernahme in Minuten klaeren welche Frist laeuft welche bereits versaeumt ist und ob Wiedereinsetzung moeglich ist. Behandelt Berechnungsregeln §§ 108 AO 222 BGB Zustellungsfiktion § 122 AO ELSTER-/beA-Zugang Fristbeginn bei Sammel- und Aenderungsbescheiden. Output Fristenmatrix mit Ampel-Logik und Berechnungsbeispiel. Abgrenzung zu anw-fristenbuch-steuerrecht (Kanzleisoftware) und fa-stu-onboarding-mandatsannahme._
+_Wenn es um Rueckstellungen — Paragraf 249 HGB und steuerliche Vorgaben Paragraf 6 Abs. 1 Nr. 3a EStG in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Rueckstellungen HGB Rvg Steuerstreit Selbstanzeige Ao; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte._
 
-# Steuerrechtliche Fristen — der Ueberblick
+# Rueckstellungen — § 249 HGB und steuerliche Vorgaben § 6 Abs. 1 Nr. 3a EStG
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Kern — Steuerrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rueckstellungen — § 249 HGB und steuerliche Vorgaben § 6 Abs. 1 Nr. 3a EStG` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
+- **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
+- **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
+- **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Triage — kläre vor der Bearbeitung
 
-1. Welches Schriftstueck loest die Frist aus (Bescheid, Einspruchsentscheidung, Urteil, Verfuegung)?
-2. Wann ist die Zustellung bewirkt (§ 122 Abs. 2 AO Drei-Tages-Fiktion; § 122a AO Bereitstellung im ELSTER-Postfach)?
-3. Faellt das Fristende auf Wochenende oder Feiertag (§ 108 Abs. 3 AO)?
-4. Wurde die Frist bereits versaeumt? Pruefen ob Wiedereinsetzung § 110 AO oder § 56 FGO greift.
-5. Gibt es Hemmungstatbestaende (Aussenpruefung § 171 AO; vorlaeufige Festsetzung § 165 AO)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+1. Liegt eine Verbindlichkeit dem Grunde oder der Höhe nach unsicher vor?
+2. Greift § 249 HGB Passivierungspflicht oder Passivierungswahlrecht?
+3. Greift steuerliches Passivierungsverbot (z. B. Drohverlust § 5 Abs. 4a EStG)?
+4. Wird die Rueckstellung mit 5,5 Prozent abgezinst § 6 Abs. 1 Nr. 3a EStG?
+5. Gibt es Sonderregeln Pensionsrueckstellungen § 6a EStG?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
-- **§ 108 AO** — Fristenberechnung; Verweis auf §§ 187 ff. BGB.
-- **§ 122 AO / § 122a AO** — Bekanntgabe und elektronische Bereitstellung.
-- **§ 355 AO** — Einspruchsfrist ein Monat.
-- **§ 47 FGO** — Klagefrist ein Monat ab Einspruchsentscheidung.
-- **§ 110 AO / § 56 FGO** — Wiedereinsetzung in den vorigen Stand.
-- **§§ 169 ff. AO** — Festsetzungsverjaehrung.
-- **§§ 228 ff. AO** — Zahlungsverjaehrung fuenf Jahre; Hemmung und Unterbrechung.
+- **§ 249 HGB** — Bildung von Rueckstellungen.
+- **§ 253 HGB** — Bewertung von Rueckstellungen.
+- **§ 6 Abs. 1 Nr. 3a EStG** — Bewertung Rueckstellungen.
+- **§ 5 Abs. 4a EStG** — Drohverlustrueckstellung Verbot.
+- **§ 6a EStG** — Pensionsrueckstellungen.
 
 ## Aktuelle Rechtsprechung
 
@@ -827,27 +847,7 @@ _Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen — Einspruch 
 
 ## Zentrale Normen
 
-§ 108 AO · § 122 AO · § 122a AO · § 355 AO · § 47 FGO · § 110 AO · § 56 FGO · §§ 169 ff. AO · §§ 228 ff. AO · § 171 AO (Ablaufhemmung)
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Verwaltungsanweisungen (BMF-Schreiben, OFD-Verfuegungen, AEAO, UStAE, EStR, KStR) ausschliesslich nach Verifikation aus bundesfinanzministerium.de oder offiziellen Amtsblaettern zitieren.
-
-## Fristenmatrix (Schnellzugriff)
-
-| Verfahrensschritt | Frist | Rechtsgrundlage | Wiedereinsetzung |
-| --- | --- | --- | --- |
-| Einspruch gegen Steuerbescheid | 1 Monat ab Bekanntgabe | § 355 AO | § 110 AO |
-| Klage zum Finanzgericht | 1 Monat ab Einspruchsentscheidung | § 47 FGO | § 56 FGO |
-| Revision zum BFH | 1 Monat ab FG-Urteil | § 120 FGO | § 56 FGO |
-| Nichtzulassungsbeschwerde | 1 Monat ab FG-Urteil | § 116 FGO | § 56 FGO |
-| AdV-Antrag beim FA | jederzeit waehrend Einspruch | § 361 AO | nicht erforderlich |
-| AdV-Antrag beim FG | jederzeit waehrend Klage | § 69 FGO | nicht erforderlich |
-| Selbstanzeige (Sperrwirkung) | bis Bekanntgabe Pruefungsanordnung | § 371 Abs. 2 AO | nicht moeglich |
-| Festsetzungsfrist regulaer | 4 Jahre | § 169 Abs. 2 Nr. 2 AO | n.a. |
-| Festsetzungsfrist Hinterziehung | 10 Jahre | § 169 Abs. 2 S. 2 AO | n.a. |
-| Zahlungsverjaehrung | 5 Jahre | § 228 AO | n.a. |
-
+§ 249 HGB · § 253 HGB · § 6 Abs. 1 Nr. 3a EStG · § 5 Abs. 4a EStG · § 6a EStG · § 274 HGB
 
 ## Abgrenzung zu anderen Skills dieses Plugins
 
@@ -857,27 +857,44 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ---
 
-## Skill: `fa-stu-vga-pruefraster`
+## Skill: `ust-rechnungspflicht-ustg-vorsteuerabzug-vga-pruefraster`
 
-_Pruefraster zur verdeckten Gewinnausschuettung — Vermoegensminderung oder verhinderte Vermoegensmehrung Veranlassung im Gesellschaftsverhaeltnis Auswirkung auf Einkommen Behandlung beim Gesellschafter. Anwendungsfall Aussenpruefung erkennt Geschaeftsfuehrervergueterung Verrechnungspreise oder Gesellschafterdarlehen als verdeckte Ausschuettung und fordert Hinzurechnung. Behandelt klassische Fallgruppen Geschaeftsfuehrer-Gehaltsexzess Beherrschende-Gesellschafter Klarheits- und Rueckwirkungsverbot sowie Folgen Kapitalertragsteuer Anrechnung. Output Argumentationsraster mit Kompensationspruefung. Abgrenzung zu fa-stu-kst-organschaft-14-kstg._
+_Wenn es um Rechnungspflicht und Rechnungsberichtigung — Paragraf 14 Paragraf 14a Paragraf 14c UStG in Steuerrecht – Steuerberater und Anwälte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Auswahlstichwort: Ust Rechnungspflicht Ustg Vorsteuerabzug Vga Pruefraster; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte._
 
-# Verdeckte Gewinnausschuettung — § 8 Abs. 3 S. 2 KStG Pruefraster
+# Rechnungspflicht und Rechnungsberichtigung — § 14 § 14a § 14c UStG
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Kern — Steuerrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechnungspflicht und Rechnungsberichtigung — § 14 § 14a § 14c UStG` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
+- **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
+- **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
+- **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Triage — kläre vor der Bearbeitung
 
-1. Liegt eine Vermoegensminderung oder verhinderte Vermoegensmehrung bei der Kapitalgesellschaft vor?
-2. Ist die Veranlassung im Gesellschaftsverhaeltnis zu suchen (Fremdvergleich)?
-3. Bei beherrschenden Gesellschaftern: war die Vereinbarung im Voraus klar und tatsaechlich durchgefuehrt?
-4. Auswirkungen auf das Einkommen — Hinzurechnung und auf Ebene des Gesellschafters § 20 Abs. 1 Nr. 1 S. 2 EStG?
-5. Kapitalertragsteuer 25 Prozent und Erstattungsanspruch bei Anteilseigner im Ausland (DBA)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+1. Sind alle Pflichtangaben § 14 Abs. 4 UStG vorhanden?
+2. Greifen Erleichterungen § 33 UStDV Kleinbetragsrechnung bis 250 Euro?
+3. Liegt Reverse-Charge vor und wurde Hinweis nach § 14a Abs. 5 UStG aufgenommen?
+4. Ist der Steuerausweis unberechtigt oder unrichtig § 14c UStG — Berichtigungsweg prüfen?
+5. Wurde elektronische Rechnung iSd § 14 Abs. 1 UStG ab 2025 verwendet?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
-- **§ 8 Abs. 3 S. 2 KStG** — Definition vGA und Folge auf Ebene der KapGes.
-- **§ 20 Abs. 1 Nr. 1 S. 2 EStG** — Behandlung beim Gesellschafter.
-- **§ 43 ff. EStG** — Kapitalertragsteuerabzug.
-- **§ 4 Abs. 1 S. 1 EStG** — Vermoegensvergleich; Massstab.
+- **§ 14 UStG** — Rechnungspflicht; e-Rechnungs-Pflicht ab 1. Januar 2025.
+- **§ 14a UStG** — Zusatzangaben.
+- **§ 14c UStG** — unrichtiger oder unberechtigter Steuerausweis.
+- **§ 33 UStDV** — Kleinbetragsrechnungen.
+- **§ 14b UStG** — Aufbewahrung.
 
 ## Aktuelle Rechtsprechung
 
@@ -886,11 +903,7 @@ _Pruefraster zur verdeckten Gewinnausschuettung — Vermoegensminderung oder ver
 
 ## Zentrale Normen
 
-§ 8 Abs. 3 S. 2 KStG · § 8b KStG (Befreiungssystem) · § 20 Abs. 1 Nr. 1 S. 2 EStG · §§ 43 ff. EStG · § 32a KStG (Korrespondenzregel)
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Verwaltungsanweisungen (BMF-Schreiben, OFD-Verfuegungen, AEAO, UStAE, EStR, KStR) ausschliesslich nach Verifikation aus bundesfinanzministerium.de oder offiziellen Amtsblaettern zitieren.
+§ 14 UStG · § 14a UStG · § 14b UStG · § 14c UStG · § 33 UStDV · § 31 UStDV · § 18 UStG (Voranmeldung)
 
 ## Abgrenzung zu anderen Skills dieses Plugins
 
@@ -900,78 +913,231 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ---
 
-## Skill: `fa-stu-onboarding-korrekturnormen`
+## Skill: `haftungswarn-15a-inso-haftungsbescheid-ao-lst-haftung-42d`
 
-_Systematischer Vergleich der Korrekturnormen — wann ist welche Vorschrift einschlaegig wann begruendet sie Aenderung zugunsten oder zu Lasten des Steuerpflichtigen und welche Frist gilt. Anwendungsfall Berater hat einen bestandskraeftigen Bescheid und sucht den richtigen Aenderungstatbestand oder muss sich gegen Aenderung des Finanzamts wehren. Behandelt offenbare Unrichtigkeit Vorbehalt der Nachpruefung Vorlaeufigkeit schlichte Aenderung neue Tatsachen widerstreitende Steuerfestsetzungen Grundlagenbescheide und Verfahrensaufhebung. Output Entscheidungsbaum mit Voraussetzungen je Norm. Abgrenzung zu fa-stu-onboarding-bescheid-lesen._
+_Wenn es um Haftungswarn an GmbH-Geschäftsführung bei Insolvenzreife (Anwaltliche Sicht) in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Haftungswarn 15a Inso Haftungsbescheid Ao Lst Haftung 42d; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte._
 
-# Korrektur von Steuerbescheiden — §§ 129 164 165 172 173 174 175 AO im Ueberblick
+# Haftungswarn an GmbH-Geschäftsführung bei Insolvenzreife (Anwaltliche Sicht)
 
-## Triage — kläre vor der Bearbeitung
+## Arbeitsbereich
 
-1. Liegt eine offenbare Unrichtigkeit vor — Schreib- oder Rechenfehler § 129 AO?
-2. Steht der Bescheid unter Vorbehalt § 164 AO oder ist er vorlaeufig § 165 AO?
-3. Soll eine schlichte Aenderung § 172 Abs. 1 Nr. 2a AO innerhalb der Einspruchsfrist gestellt werden?
-4. Sind neue Tatsachen oder Beweismittel iSd § 173 AO entstanden — und wessen Verschulden steht der Aenderung entgegen?
-5. Liegt eine widerstreitende Festsetzung § 174 AO oder ein Grundlagenbescheid § 175 AO vor?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+Anwaltliche Beratung und Warnschreiben an GmbH-Geschäftsführung bei festgestellter Insolvenzreife nach §§ 17 19 InsO. Anwendungsfall GmbH-GF spricht beim Anwalt vor weil Steuerberater Krisensignale gemeldet hat. Antragspflicht § 15a InsO drei Wochen Zahlungsunfähigkeit sechs Wochen Überschuldung. Strafbarkeit Insolvenzverschleppung § 15a Abs. 4 InsO. GF-Haftung § 15b InsO nach SanInsFoG. Output Beratungsdokumentation Warnschreiben mit Belehrung Eingangsbestätigung. Abgrenzung zu stb-warnschreiben-krisensignale Steuerberater-Pflichthinweis und anw-insolvenzreife-prüfung-17-19-inso Gutachten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
-## Rechtsgrundlagen
+## Arbeitsweg
 
-- **§ 129 AO** — offenbare Unrichtigkeit.
-- **§ 164 AO** — Vorbehalt der Nachpruefung.
-- **§ 165 AO** — vorlaeufige Festsetzung.
-- **§ 172 AO** — Aenderung von Steuerbescheiden allgemein.
-- **§ 173 AO** — neue Tatsachen und Beweismittel.
-- **§ 173a AO** — Schreib- und Rechenfehler bei Erklaerung.
-- **§ 174 AO** — widerstreitende Steuerfestsetzungen.
-- **§ 175 AO** — Aenderung wegen Grundlagenbescheid oder rueckwirkendem Ereignis.
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aktuelle Rechtsprechung
+## Fachlicher Kern — Steuerrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Haftungswarn an GmbH-Geschäftsführung bei Insolvenzreife (Anwaltliche Sicht)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
+- **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
+- **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
+- **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle (bundesfinanzhof.de, bundesverfassungsgericht.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Keine Pauschalzitate aus BeckRS allein; jede Entscheidung muss auf eine primaere oder offene Sekundaerquelle ruckfuehrbar sein.
+## Eingaben
 
-## Zentrale Normen
+- Mandant (GmbH/UG, vollständige Firma, HRB, Stammkapital, GF mit Vertretungsbefugnis)
+- Anlass (Steuerberater-Hinweis, eigener Anstoß, Gesellschafterbeschluss)
+- Datenlage: Bilanz, BWA, Liquidität — vom Steuerberater oder GF übergeben
+- Bisherige interne Krisenmaßnahmen (§ 102 StaRUG-Dokumentation)
+- Rangrücktritte, Patronate, Bürgschaften bekannt?
+- Mandatsumfang: nur Beratung Antragspflicht oder Vollmandat Sanierung/Antrag?
+- Vergütungsvereinbarung (Stundenhonorar, Pauschale, RVG nach Wert)
 
-§ 129 AO · § 164 AO · § 165 AO · § 172 AO · § 173 AO · § 173a AO · § 174 AO · § 175 AO · § 175a AO · § 176 AO (Vertrauensschutz)
+## Rechtlicher Rahmen
 
-## Quellenregel
+### Primärnormen
 
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Verwaltungsanweisungen (BMF-Schreiben, OFD-Verfuegungen, AEAO, UStAE, EStR, KStR) ausschliesslich nach Verifikation aus bundesfinanzministerium.de oder offiziellen Amtsblaettern zitieren.
+- **§ 15a Abs. 1 Satz 1 InsO** — Insolvenzantragspflicht. Zahlungsunfähigkeit (§ 17 InsO) → drei Wochen. Überschuldung (§ 19 InsO) → sechs Wochen.
+- **§ 15a Abs. 4 InsO** — Strafbarkeit Insolvenzverschleppung (Freiheitsstrafe bis 3 Jahre / Geldstrafe; bei Fahrlässigkeit bis 1 Jahr).
+- **§ 15b InsO** — Zahlungsverbote nach Insolvenzreife. Geschäftsführerhaftung gegen die Gesellschaft (löste § 64 GmbHG a.F. ab; SanInsFoG, 1.1.2021).
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **§ 19 InsO** — Überschuldung (zweistufig: rechnerisch und Fortbestehensprognose; vgl. `stb-ueberschuldungspruefung-19-inso`).
+- **§ 18 InsO** — Drohende Zahlungsunfähigkeit (24-Monats-Horizont; Antragsrecht, keine Pflicht — Zugangstor StaRUG).
+- **§ 102 StaRUG** — Krisenfrüherkennungspflicht GF; ergänzt § 91 Abs. 2 AktG analog auf alle haftungsbeschränkten Gesellschaften.
+- **§ 64 StBerG / § 43a Abs. 5 BRAO** — bei Honorarrückständen Berücksichtigung; keine Beratung ohne Vergütungsvereinbarung in Hochrisikofällen.
+- **§ 826 BGB / § 823 Abs. 2 BGB i.V.m. § 15a InsO** — Außenhaftung GF gegenüber Neugläubigern bei Insolvenzverschleppung.
 
-## Abgrenzung zu anderen Skills dieses Plugins
+### Leitentscheidungen
 
-- Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
-- Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
-- Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Vorgehen
+
+### Schritt 1 — Sachverhalt klären
+
+- Zahlungsunfähigkeit (§ 17 InsO) oder nur Zahlungsstockung? Liquiditätslücke berechnen (Aktiva I + II vs. Passiva I + II, BGH-Schema). Vgl. `stb-liquiditaetsvorschau-3wochen` oder `liquiditaetsplanung`.
+- Überschuldung (§ 19 InsO): zweistufige Prüfung (Fortbestehensprognose + rechnerischer Status). Vgl. `stb-ueberschuldungspruefung-19-inso`.
+- Drohende Zahlungsunfähigkeit (§ 18 InsO): 24-Monats-Liquidität. Wenn ja → StaRUG-Option offen, **noch keine Pflicht**, aber Strategie-Frage.
+
+### Schritt 2 — Frist-Trigger feststellen
+
+| Tatbestand | Frist § 15a InsO | Trigger |
+|---|---|---|
+| Zahlungsunfähigkeit § 17 | 3 Wochen | objektives Eintreten — nicht subjektive Kenntnis |
+| Überschuldung § 19 | 6 Wochen | objektives Eintreten — nicht subjektive Kenntnis |
+| Drohende Zahlungsunfähigkeit § 18 | keine Pflicht | nur Antragsrecht; StaRUG-Zugang |
+
+Aussagen klar dokumentieren: **wann** ist die Insolvenzreife objektiv eingetreten — nicht wann sie der GF erkannt hat. Wenn umstritten, IDW-S-11-Stichtagsanalyse beauftragen.
+
+### Schritt 3 — Optionen mit dem Mandanten besprechen
+
+1. **Insolvenzantrag** — Regelverfahren, Eigenverwaltung (§ 270b InsO), Schutzschirm (§ 270d InsO).
+2. **StaRUG-Restrukturierungsverfahren** — nur bei drohender Zahlungsunfähigkeit (§ 18 InsO), nicht bei manifester Insolvenzreife.
+3. **Außergerichtliche Sanierung** — nur möglich bei kurzfristiger Stockung (< 3 Wochen) oder gesichertem Kapital-/Liquiditätszufluss.
+4. **Sanierungskonzept nach IDW S 6** als Voraussetzung positiver Fortbestehensprognose.
+5. **Mandatsniederlegung** bei eklatanter Insolvenzverschleppung und Weigerung des GF.
+
+### Schritt 4 — Schriftliche Belehrung
+
+Pflicht aus § 11 BORA (Schriftform-Pflicht bei wichtigen Mandantenhinweisen) und § 49b Abs. 5 BRAO (Belehrung über Honorarauslösung bei Mandatsumfang).
+
+### Schritt 5 — Eigene Aktendokumentation
+
+- Aktennotiz: Sachverhalt, Beratungsinhalt, Empfehlung, Mandantenreaktion.
+- Schriftliche Belehrung samt Eingangsbestätigung.
+- Folge-Schritte (Wiedervorlage; ggf. weitere Honorarvereinbarung).
+- Versendung beA an Mandanten-Anwalt (sofern vorhanden) bzw. Einschreiben.
+
+## Muster — Anwaltliches Belehrungs-/Hinweisschreiben (verkürzt)
+
+```
+[Kanzlei-Briefkopf] [Datum]
+
+PERSÖNLICH UND VERTRAULICH
+
+[Mandant — GmbH, z. Hd. Geschaeftsfuehrer/in Name]
+[Anschrift]
+
+vorab per beA / Einschreiben mit Rueckschein
+
+In dem Mandat [Aktenzeichen] / Beratung zur Insolvenzantragspflicht
+
+Sehr geehrte/r Frau / Herr [Name],
+
+ich nehme Bezug auf unsere Besprechung am [Datum] und auf die mir
+ueberlassenen Unterlagen (Bilanz zum [Stichtag], BWA, SuSa,
+Liquiditaetsuebersicht der Steuerkanzlei [Name]).
+
+Nach einer ersten Pruefung des Sachverhalts ist davon auszugehen, dass
+zum Zeitpunkt [Datum] [Zahlungsunfaehigkeit gemaess § 17 InsO /
+Ueberschuldung gemaess § 19 Abs. 2 InsO] vorliegt. Die Einzelheiten der
+rechtlichen Wuerdigung entnehmen Sie bitte dem beigefuegten Vermerk.
+
+Daraus folgt eine **Pflicht zur Insolvenzantragstellung** gemaess
+§ 15a Abs. 1 Satz 1 InsO. Die Hoechstfrist betraegt
+[drei Wochen ab Eintritt der Zahlungsunfaehigkeit /
+sechs Wochen ab Eintritt der Ueberschuldung].
+
+**Risiken bei Verstoss gegen die Antragspflicht:**
+
+1. Strafrechtliche Verantwortung nach § 15a Abs. 4 InsO
+ (Freiheitsstrafe bis zu drei Jahren oder Geldstrafe; bei
+ fahrlaessiger Verschleppung bis zu einem Jahr).
+2. Persoenliche zivilrechtliche Haftung gegenueber der Gesellschaft
+ gemaess § 15b InsO (verbotene Zahlungen nach Insolvenzreife).
+3. Persoenliche Haftung gegenueber Neuglaeubigern aus § 823 Abs. 2
+ BGB i.V.m. § 15a InsO bzw. § 826 BGB (Quotenschaden Altglaeubiger,
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+**Empfehlung:**
+
+Ich empfehle Ihnen mit Nachdruck:
+
+- saemtliche an Glaeubiger gerichteten Zahlungen unverzueglich auf
+ Insolvenzkonformitaet zu pruefen (vgl. § 15b InsO);
+- saemtliche an die Gesellschaft eingehenden Zahlungen auf einem
+ gesonderten Konto zu sammeln;
+- den Insolvenzantrag innerhalb der oben genannten Frist zu stellen,
+ sofern eine Sanierungsperspektive ausserhalb des Insolvenzverfahrens
+ nicht zeitnah belegt werden kann;
+- alternative Verfahrenswege (Eigenverwaltung § 270b InsO,
+ Schutzschirm § 270d InsO, StaRUG-Restrukturierung soweit erst
+ drohende Zahlungsunfaehigkeit) gegen das Regelinsolvenzverfahren
+ abzuwaegen.
+
+Ich stehe zur Mandatsuebernahme für das Insolvenzantragsverfahren oder
+für ein Sanierungsverfahren auf Grundlage einer gesonderten
+Verguetungsvereinbarung zur Verfuegung.
+
+Bitte bestaetigen Sie den Eingang dieses Schreibens und teilen Sie mir
+Ihre Entscheidung binnen drei Werktagen mit. Sollte ich von Ihnen keine
+Reaktion erhalten, gehe ich davon aus, dass Sie meine Beratung nicht
+in Anspruch nehmen wollen, und werde das Mandat in Bezug auf die
+Insolvenzantragstellung niederlegen.
+
+Mit freundlichen Gruessen
+[Unterschrift]
+Rechtsanwalt/-anwaeltin
+```
+
+## Risiken und Red Flags
+
+| Konstellation | Rot | Orange | Grün |
+|---|---|---|---|
+| GF kennt Insolvenzreife, verweigert Antrag | Beihilfe-/Anstiftungsrisiko? Mandat niederlegen | Aufklärung erneut, schriftlich | Antrag wird gestellt |
+| Keine Schriftform der Belehrung | § 11 BORA-Pflichtverstoß, Regressrisiko | mündliche Belehrung dokumentiert | beA + Einschreiben |
+| Anwalt selbst zahlt Honorar aus Mandantenkonto nach Insolvenzreife | § 15b InsO-Pflichtverstoß GF, Risiko Anwaltsregress | nach Verfahrenseröffnung | Honorar vor Insolvenzreife oder als Massevorab |
+| Beratung ohne Aktenlage | Sorgfaltsverstoß; Beweislastumkehr bei Schaden | bei kurzfristigem Hinweis | nach umfassender Akteneinsicht |
+
+## Quellen und Updates
+
+Stand: 05/2026. SanInsFoG (§ 15b InsO statt § 64 GmbHG a.F., 1.1.2021), SanInsKG (24-Monats-Prognose § 19 InsO bis 31.12.2026) berücksichtigt. § 11 BORA-Schriftformpflicht zentral. Bei Änderung InsO/BORA aktualisieren.
+
+<!-- AUDIT 27.05.2026 bundle_043
+Maßnahme: Beschreibung des AZ korrigiert auf tatsächliches Thema: § 64 GmbHG a.F. — Zahlungsverbot nach Insolvenzreife; Aktiventausch und Rückgewähranspruch des GF. Das AZ ist damit thematisch passend für diesen Insolvenzreife-Skill und bleibt erhalten.
+Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=04.07.2017&Aktenzeichen=II+ZR+319%2F15
+-->
 
 ---
 
-## Skill: `fa-stu-aussenpruefung-anordnung-pruefung`
+## Skill: `grunderwerbsteuer-share-deal-grundsteuer-bundesmodell`
 
-_Praxis-Skill zur Begleitung von Aussenpruefungen — Pruefungsanordnung §§ 196 197 AO Pruefungserweiterung Schlussbesprechung § 201 AO Pruefungsbericht und Auswirkungen auf Folgejahre. Anwendungsfall Mandant erhaelt Pruefungsanordnung — Berater muss in zehn Minuten Erweiterungsangriffe Mitwirkungsgrenzen und Belege-Bereitstellung klaeren. Behandelt Pruefungsumfang Mitwirkungspflicht § 200 AO digitaler Datenzugriff GoBD und Ablaufhemmung § 171 Abs. 4 AO. Output Pruefraster und Schriftsatz gegen unwirksame Pruefungsanordnung. Abgrenzung zu fa-stu-betriebspruefung-strafrecht-393-ao und fa-stu-tatsaechliche-verstaendigung._
+_Wenn es um Grunderwerbsteuer beim Share Deal — Paragraf 1 Abs. 2a 2b 3 3a GrEStG in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Grunderwerbsteuer Share Deal Grundsteuer Bundesmodell; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte._
 
-# Aussenpruefung — Pruefungsanordnung Pruefungserweiterung und Mitwirkung
+# Grunderwerbsteuer beim Share Deal — § 1 Abs. 2a 2b 3 3a GrEStG
+
+## Arbeitsbereich
+
+Praxis-Skill zu Grunderwerbsteuer-Tatbestaenden bei Anteilsuebertragungen — Änderung des Gesellschafterbestands § 1 Abs. 2a Personengesellschaft § 1 Abs. 2b Kapitalgesellschaft und § 1 Abs. 3 § 1 Abs. 3a GrEStG. Anwendungsfall M und A-Transaktion mit Immobilienvermoegen — Grunderwerbsteuer-Folge soll vor Closing geklaert werden. Behandelt Beteiligungsschwelle 90 Prozent Beobachtungszeitraum zehn Jahre und Folgewirkung auf den Festschreibungspreis. Output Prüfraster und Anzeigeschreiben § 19 GrEStG. Abgrenzung zu fa-stu-bewertung-immobilien-bewg. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Kern — Steuerrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Grunderwerbsteuer beim Share Deal — § 1 Abs. 2a 2b 3 3a GrEStG` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
+- **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
+- **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
+- **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Triage — kläre vor der Bearbeitung
 
-1. Ist die Pruefungsanordnung formell ordnungsgemaess (Adressat Pruefungsumfang Pruefer Termin)?
-2. Welche Steuerarten und Veranlagungszeitraeume sind erfasst?
-3. Ist eine Pruefungserweiterung erfolgt oder droht sie — Antrag auf Beschraenkung sinnvoll?
-4. Welche Daten muessen GoBD-konform bereitgestellt werden (Z1 Z2 Z3 Zugriff)?
-5. Wirkung der Pruefung auf Festsetzungsfrist § 171 Abs. 4 AO?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+1. Liegt eine grundstuecksbesitzende Gesellschaft vor — Beteiligungsstruktur und Immobilienwert?
+2. Welche Schwelle wird ueberschritten (§ 1 Abs. 2a Personengesellschaft 90 Prozent in zehn Jahren; § 1 Abs. 2b KapGes 90 Prozent in zehn Jahren)?
+3. Greift Konzernklausel § 6a GrEStG mit Vor- und Nachbehaltensfrist?
+4. Ist die Anzeige § 19 GrEStG binnen zwei Wochen erfolgt?
+5. Welche Steuerlast ergibt sich nach Bemessungsgrundlage § 8 GrEStG?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
-- **§ 193 AO** — Zulaessigkeit der Aussenpruefung.
-- **§ 196 AO** — Pruefungsanordnung.
-- **§ 197 AO** — Bekanntgabe der Pruefungsanordnung.
-- **§ 200 AO** — Mitwirkungspflicht.
-- **§ 201 AO** — Schlussbesprechung.
-- **§ 202 AO** — Pruefungsbericht.
-- **§ 171 Abs. 4 AO** — Ablaufhemmung.
-- **GoBD** — Grundsaetze zur ordnungsmaessigen Fuehrung von Buechern.
+- **§ 1 GrEStG** — steuerbare Erwerbsvorgaenge.
+- **§ 6a GrEStG** — Konzernklausel.
+- **§ 8 GrEStG** — Bemessungsgrundlage.
+- **§ 17 GrEStG** — gesonderte Feststellung Grundlagen.
+- **§ 19 GrEStG** — Anzeigepflicht.
 
 ## Aktuelle Rechtsprechung
 
@@ -980,11 +1146,7 @@ _Praxis-Skill zur Begleitung von Aussenpruefungen — Pruefungsanordnung §§ 19
 
 ## Zentrale Normen
 
-§§ 193 ff. AO · § 196 AO · § 197 AO · § 200 AO · § 201 AO · § 202 AO · § 171 Abs. 4 AO · § 147 AO (Aufbewahrung) · GoBD
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Verwaltungsanweisungen (BMF-Schreiben, OFD-Verfuegungen, AEAO, UStAE, EStR, KStR) ausschliesslich nach Verifikation aus bundesfinanzministerium.de oder offiziellen Amtsblaettern zitieren.
+§ 1 GrEStG · § 6a GrEStG · § 8 GrEStG · § 17 GrEStG · § 19 GrEStG · § 11 GrEStG (Steuersatz)
 
 ## Abgrenzung zu anderen Skills dieses Plugins
 
@@ -996,7 +1158,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

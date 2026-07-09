@@ -1,27 +1,27 @@
-# Megaprompt: gewerblicher-rechtsschutz
+# Vollprüfung: gewerblicher-rechtsschutz
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 93 Skills des Plugins `gewerblicher-rechtsschutz`.
+Dieser Vollprüfung enthaelt top-10 von 93 Skills des Plugins `gewerblicher-rechtsschutz`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für Gewerblicher Rechtsschutz (allgemein): ordnet Rolle (Schutzrechtsinhaber, Verletzer, Ko…
-2. **mandat-triage-gewerblicher-rechtsschutz** — Neues Mandat im gewerblichen Rechtsschutz: Anwalt klaert welches Sachgebiet und welche Skills benoetigt werden. Eingangs…
-3. **gw-einfuehrung-gw-einstweilige-mandat-triage** — Einführung in die Rechtsschutzwege des gewerblichen Rechtsschutzes: Überblick über Verfahrensarten, Zuständigkeiten, Han…
-4. **gewerblicher-erstpruefung-und-mandatsziel** — Erstprüfung und Mandatszielbestimmung im gewerblichen Rechtsschutz: strukturiertes Erstgespräch, Rollen- und Interessenk…
-5. **spezial-gewerblicher-erstpruefung-und-mandatsziel** — Gewerblicher: Erstprüfung, Rollenklärung und Mandatsziel im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fa…
-6. **ip-mandatsworkspace-kontexttrennung** — Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz muss Kontext zwischen Mandaten strikt trennen. Mandatsverwal…
-7. **abmahnung-urheberrecht-erfindungsmeldung** — Urheber oder Lizenznehmer erhielt unerlaubte Nutzung (Bild Text Video) oder Mandant erhielt Abmahnung wegen Urheberrecht…
-8. **erfindungsmeldung-aufnahme** — Mitarbeiter meldet eine Erfindung oder Unternehmen prüft eingegangene Erfindungsmeldung. ArbnErfG Arbeitnehmererfindungs…
-9. **fto-triage-gewerblicher-rechtsschutz-mandat** — Unternehmen will Produkt einführen oder Technologie einsetzen und fragt: Verletzen wir fremde Patente? Freedom-to-Operat…
-10. **ip-klausel-pruefung** — Anwalt prüft Vertrag auf IP-Klauseln (Übertragung Lizenz Inhaberschaft Freistellung) oder Mandant fragt nach Risiken. IP…
+1. **einstieg-routing** — Wenn es um Einstieg und Routing in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den …
+2. **gw-einfuehrung-gw-einstweilige-mandat-triage** — Wenn es um GewR: Einführung – Rechtsschutzwege im Überblick in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel…
+3. **mandat-triage-gewerblicher-rechtsschutz** — Wenn es um Mandat-Triage Gewerblicher Rechtsschutz in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, …
+4. **gewerblicher-erstpruefung-und-mandatsziel** — Wenn es um Spezial: Erstprüfung und Mandatsziel im Gewerblichen Rechtsschutz in Plugin: Gewerblicher Rechtsschutz geht: …
+5. **spezial-gewerblicher-erstpruefung-und-mandatsziel** — Wenn es um Gewerblicher: Erstprüfung, Rollenklärung und Mandatsziel in Plugin: Gewerblicher Rechtsschutz geht: klärt Rol…
+6. **evvollzug-neu-008-schutzschrift-register-und-forumstrategie** — Wenn es um EV-Vollzug 008: Schutzschrift, Register und Forumstrategie (Antragsgegnerperspektive) in Plugin: Gewerblicher…
+7. **evvollzug-neu-005-ordnungsmittelantrag-vollstreckung-unterlassun** — Wenn es um EV-Vollzug 005: Ordnungsmittelantrag (Paragraf 890 ZPO) nach Unterlassungstitel in Plugin: Gewerblicher Recht…
+8. **gewr-geschaeftsgeheimnisgesetz** — Wenn es um GewR: Geschäftsgeheimnisgesetz (GeschGehG) – Spezial in Plugin: Gewerblicher Rechtsschutz geht: ordnet Sachve…
+9. **evvollzug-neu-005-ordnungsmittel-vollstreckung** — Wenn es um Gewerblicher Rechtsschutz: Ordnungsmittelantrag Vollstreckung Unterlassungstitel in Plugin: Gewerblicher Rech…
+10. **gw-einstweilige-verfuegung-spezial** — Wenn es um GewR: Einstweilige Verfügung – Strategische Gesamtbetrachtung in Plugin: Gewerblicher Rechtsschutz geht: erst…
 
 ---
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Gewerblicher Rechtsschutz (allgemein): ordnet Rolle (Schutzrechtsinhaber, Verletzer, Konkurrent), markiert Frist (Markenwiderspruch 3 Monate), wählt Norm (MarkenG, PatG, GeschmMG, GebrMG, UrhG, UWG) und Zuständigkeit (DPMA), leitet zum passenden Spezial-Skill._
+_Wenn es um Einstieg und Routing in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Einstieg und Routing
 
@@ -63,189 +63,26 @@ Dieser Einstieg routet **Gewerblicher Rechtsschutz** vom ersten Sachverhalt zu R
 
 ---
 
-## Skill: `mandat-triage-gewerblicher-rechtsschutz`
-
-_Neues Mandat im gewerblichen Rechtsschutz: Anwalt klaert welches Sachgebiet und welche Skills benoetigt werden. Eingangs-Triage IP-Recht. Prüfraster: Mandantenrolle (Schutzrechtsinhaber Verletzer Lizenznehmer) Sachgebiet (Marke Patent Design Urheber UWG) Sofort-Fristen (einstweilige Verfuegung Dr..._
-
-# Mandat-Triage Gewerblicher Rechtsschutz
-
-## Aktenstart statt Formularstart
-
-Wenn zu **Mandat Triage Gewerblicher Rechtsschutz** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Gewerblicher Rechtsschutz** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
-
-Starte dann mit einer knappen Rueckmeldung:
-
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
-
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Ablauf — sieben Fragen
-
-### Frage 1 — Mandantenrolle?
-
-- Schutzrechts-Inhaber (offensiv)
-- Verletzer (defensiv)
-- Mitbewerber (UWG)
-- Lizenznehmer / Lizenzgeber
-- Designer / Erfinder / Künstler
-- Plattform-Betreiber
-
-### Frage 2 — Schutzrechts-Art?
-
-- Marke (Wortmarke Bildmarke Wort-Bild-Kombination 3D Hörmarke)
-- Patent / Gebrauchsmuster
-- Design / Geschmacksmuster
-- Urheberrecht
-- Verwertungs-Schutz / GEMA / VG Wort / VG Bild-Kunst
-- Wettbewerbsrecht (UWG)
-- Lauterkeitsrecht
-- Geschäftsgeheimnisse (GeschGehG)
-- Domain-Recht
-
-### Frage 3 — Vorgang?
-
-- Schutzrechts-Anmeldung
-- Verletzungs-Verfahren (offensiv defensiv)
-- Lizenz-Verhandlung
-- Lizenz-Streit
-- Löschungsverfahren (DPMA EUIPO)
-- Einspruch
-- Nichtigkeits-Klage Patent
-- Open-Source-Compliance
-- FTO (Freedom-to-Operate)
-- Abmahnung erhalten / vorzubereiten
-- Zoll-Beschlagnahme (TRIPS)
-
-### Frage 4 — Akute Eilbedürftigkeit?
-
-- **Einstweilige Verfügung** zugestellt / erlassen
-- **Abmahnung** mit kurzer Frist
-- **Messe / Produkt-Launch** binnen Tagen
-- **Anhörung beim Patentamt**
-- **Dringlichkeit** für eigenes EV-Verfahren — typisch ein Monat ab Kenntnis (München) bzw. zwei Monate (Hamburg)
-- **Zollbeschlagnahme** läuft
-
-### Frage 5 — Schutzrechts-Status?
-
-- Angemeldet / registriert (mit Aktenzeichen Datum)
-- Schutzrechts-Inhaber identifiziert
-- Lizenzkette geklärt
-- Aktiv-/Passivlegitimation
-
-### Frage 6 — Frist?
-
-- **EV-Dringlichkeit** Senat-Spezifisch (München ein Monat Hamburg / Berlin zwei Monate Frankfurt ein bis zwei Monate Düsseldorf länger)
-- **Klage-Frist nach EV-Erlass** § 926 ZPO Aufforderung
-- **Markenanmeldung-Prioritätsfrist** sechs Monate § 34 MarkenG
-- **Patent-Prioritätsfrist** zwölf Monate Art. 4 PVÜ
-- **Widerspruch Marken** drei Monate § 42 MarkenG
-- **Patent-Einspruch** neun Monate § 59 PatG
-- **Nichtigkeitsklage Marken** vier Monate nach Eintragung; danach jederzeit aber Verwirkung
-- **Verjährung Verletzungs-Schadensersatz** sechs Jahre § 21 MarkenG bzw. drei Jahre § 195 BGB Standard
-
-### Frage 7 — Wirtschaftliche Verhältnisse?
-
-- Schutzrecht-Wert
-- Versicherungs-Deckung (selten — Spezial-Versicherung gewerblicher Rechtsschutz)
-- Streitwert hoch
-- Sicherheitsleistung erforderlich bei EV
-- Honorarvereinbarung statt RVG fast immer
-
-## Routing-Matrix
-
-| Sachgebiet | Folge-Skill |
-|---|---|
-| Markenrecherche | `markenrecherche` |
-| Markenanmeldung DPMA | `markenanmeldung-dpma` |
-| Schutzrechts-Portfolio | `schutzrechts-portfolio` |
-| Erfindungsmeldung Aufnahme | `erfindungsmeldung-aufnahme` |
-| FTO Freedom to Operate | `fto-triage` |
-| IP-Klausel Vertrag | `ip-klausel-pruefung` |
-| Open Source Prüfung | `open-source-pruefung` |
-| Verletzungs-Triage | `verletzungs-triage` |
-| Abmahnung Urheber | `abmahnung-urheberrecht` |
-| Takedown-Anweisung | `takedown-anweisung` |
-| Unterlassungsverlangen | `unterlassungsverlangen` |
-| Streitwert-Bestimmung | `streitwert-igr-berechnen` |
-| UWG-Wettbewerbsrecht | (Skill uwg-verstoss-pruefen — perspektivisch) |
-| Patent-Nichtigkeit | (Skill patent-nichtigkeit — perspektivisch) |
-| Geschäftsgeheimnis GeschGehG | (Skill geschäftsgeheimnis — perspektivisch) |
-
-## Mandatsannahme
-
-- **Konflikt-Check** sehr strikt — bei Mitbewerbern in selber Branche schwierig
-- **Streitwert** typisch sechs- bis siebenstellig
-- **Honorarvereinbarung** RVG häufig nicht ausreichend
-- **Sachverständigen-Bedarf** technisch bei Patent / Design
-
-## Eskalation
-
-- **Telefon-Sofort** einstweilige Verfügung erlassen Zollbeschlagnahme
-- **Binnen einer Stunde** Schutzschrift erforderlich Dringlichkeit verstreicht
-- **Heute** Abmahnung vorbereiten Markenrecherche
-- **Diese Woche** Anmeldung DPMA Schutzschrift gemäß § 945a ZPO
-
-## Ausgabe
-
-- `triage-protokoll-igr.md`
-- Aktenanlage
-- Frist im Fristenbuch (EV-Dringlichkeit hoch priorisiert)
-- Streitwert-Vorabschätzung
-- Senat-Empfehlung bei Konkurrenzzuständigkeit
-- Mandatsvereinbarung mit Honorarvereinbarung
-- Empfehlung Folge-Skill
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellen
-
-- MarkenG PatG GebrMG DesignG UrhG GeschGehG UWG
-- ZPO §§ 921 945a 926 940
-- GKG §§ 39 47 51
-- BGH I. Zivilsenat X. Zivilsenat
-- Ingerl/Rohnke MarkenG
-- Benkard PatG
-- Koehler/Feddersen UWG
-
----
-
 ## Skill: `gw-einfuehrung-gw-einstweilige-mandat-triage`
 
-_Einführung in die Rechtsschutzwege des gewerblichen Rechtsschutzes: Überblick über Verfahrensarten, Zuständigkeiten, Handlungsoptionen und Weichen bei Marken-, Patent-, Design-, Urheber- und Lauterkeitsverletzungen. Erstes Orientierungsgespräch und Triage im Gewerblicher Rechtsschutz._
+_Wenn es um GewR: Einführung – Rechtsschutzwege im Überblick in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # GewR: Einführung – Rechtsschutzwege im Überblick
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Gw Einfuehrung Gw Einstweilige Mandat Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Gewerblicher Rechtsschutz** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Arbeitsweg
 
@@ -385,25 +222,195 @@ Mandatsbezug: Mandant kommt mit einem IP-Problem, weiß aber nicht, ob er klagen
 
 ---
 
+## Skill: `mandat-triage-gewerblicher-rechtsschutz`
+
+_Wenn es um Mandat-Triage Gewerblicher Rechtsschutz in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Mandat-Triage Gewerblicher Rechtsschutz
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Ablauf — sieben Fragen
+
+### Frage 1 — Mandantenrolle?
+
+- Schutzrechts-Inhaber (offensiv)
+- Verletzer (defensiv)
+- Mitbewerber (UWG)
+- Lizenznehmer / Lizenzgeber
+- Designer / Erfinder / Künstler
+- Plattform-Betreiber
+
+### Frage 2 — Schutzrechts-Art?
+
+- Marke (Wortmarke Bildmarke Wort-Bild-Kombination 3D Hörmarke)
+- Patent / Gebrauchsmuster
+- Design / Geschmacksmuster
+- Urheberrecht
+- Verwertungs-Schutz / GEMA / VG Wort / VG Bild-Kunst
+- Wettbewerbsrecht (UWG)
+- Lauterkeitsrecht
+- Geschäftsgeheimnisse (GeschGehG)
+- Domain-Recht
+
+### Frage 3 — Vorgang?
+
+- Schutzrechts-Anmeldung
+- Verletzungs-Verfahren (offensiv defensiv)
+- Lizenz-Verhandlung
+- Lizenz-Streit
+- Löschungsverfahren (DPMA EUIPO)
+- Einspruch
+- Nichtigkeits-Klage Patent
+- Open-Source-Compliance
+- FTO (Freedom-to-Operate)
+- Abmahnung erhalten / vorzubereiten
+- Zoll-Beschlagnahme (TRIPS)
+
+### Frage 4 — Akute Eilbedürftigkeit?
+
+- **Einstweilige Verfügung** zugestellt / erlassen
+- **Abmahnung** mit kurzer Frist
+- **Messe / Produkt-Launch** binnen Tagen
+- **Anhörung beim Patentamt**
+- **Dringlichkeit** für eigenes EV-Verfahren — typisch ein Monat ab Kenntnis (München) bzw. zwei Monate (Hamburg)
+- **Zollbeschlagnahme** läuft
+
+### Frage 5 — Schutzrechts-Status?
+
+- Angemeldet / registriert (mit Aktenzeichen Datum)
+- Schutzrechts-Inhaber identifiziert
+- Lizenzkette geklärt
+- Aktiv-/Passivlegitimation
+
+### Frage 6 — Frist?
+
+- **EV-Dringlichkeit** Senat-Spezifisch (München ein Monat Hamburg / Berlin zwei Monate Frankfurt ein bis zwei Monate Düsseldorf länger)
+- **Klage-Frist nach EV-Erlass** § 926 ZPO Aufforderung
+- **Markenanmeldung-Prioritätsfrist** sechs Monate § 34 MarkenG
+- **Patent-Prioritätsfrist** zwölf Monate Art. 4 PVÜ
+- **Widerspruch Marken** drei Monate § 42 MarkenG
+- **Patent-Einspruch** neun Monate § 59 PatG
+- **Nichtigkeitsklage Marken** vier Monate nach Eintragung; danach jederzeit aber Verwirkung
+- **Verjährung Verletzungs-Schadensersatz** sechs Jahre § 21 MarkenG bzw. drei Jahre § 195 BGB Standard
+
+### Frage 7 — Wirtschaftliche Verhältnisse?
+
+- Schutzrecht-Wert
+- Versicherungs-Deckung (selten — Spezial-Versicherung gewerblicher Rechtsschutz)
+- Streitwert hoch
+- Sicherheitsleistung erforderlich bei EV
+- Honorarvereinbarung statt RVG fast immer
+
+## Routing-Matrix
+
+| Sachgebiet | Folge-Skill |
+|---|---|
+| Markenrecherche | `markenrecherche` |
+| Markenanmeldung DPMA | `markenanmeldung-dpma` |
+| Schutzrechts-Portfolio | `schutzrechts-portfolio` |
+| Erfindungsmeldung Aufnahme | `erfindungsmeldung-aufnahme` |
+| FTO Freedom to Operate | `fto-triage` |
+| IP-Klausel Vertrag | `ip-klausel-pruefung` |
+| Open Source Prüfung | `open-source-pruefung` |
+| Verletzungs-Triage | `verletzungs-triage` |
+| Abmahnung Urheber | `abmahnung-urheberrecht` |
+| Takedown-Anweisung | `takedown-anweisung` |
+| Unterlassungsverlangen | `unterlassungsverlangen` |
+| Streitwert-Bestimmung | `streitwert-igr-berechnen` |
+| UWG-Wettbewerbsrecht | (Skill uwg-verstoss-pruefen — perspektivisch) |
+| Patent-Nichtigkeit | (Skill patent-nichtigkeit — perspektivisch) |
+| Geschäftsgeheimnis GeschGehG | (Skill geschäftsgeheimnis — perspektivisch) |
+
+## Mandatsannahme
+
+- **Konflikt-Check** sehr strikt — bei Mitbewerbern in selber Branche schwierig
+- **Streitwert** typisch sechs- bis siebenstellig
+- **Honorarvereinbarung** RVG häufig nicht ausreichend
+- **Sachverständigen-Bedarf** technisch bei Patent / Design
+
+## Eskalation
+
+- **Telefon-Sofort** einstweilige Verfügung erlassen Zollbeschlagnahme
+- **Binnen einer Stunde** Schutzschrift erforderlich Dringlichkeit verstreicht
+- **Heute** Abmahnung vorbereiten Markenrecherche
+- **Diese Woche** Anmeldung DPMA Schutzschrift gemäß § 945a ZPO
+
+## Ausgabe
+
+- `triage-protokoll-igr.md`
+- Aktenanlage
+- Frist im Fristenbuch (EV-Dringlichkeit hoch priorisiert)
+- Streitwert-Vorabschätzung
+- Senat-Empfehlung bei Konkurrenzzuständigkeit
+- Mandatsvereinbarung mit Honorarvereinbarung
+- Empfehlung Folge-Skill
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Aktuelle Rechtsprechung
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Quellen
+
+- MarkenG PatG GebrMG DesignG UrhG GeschGehG UWG
+- ZPO §§ 921 945a 926 940
+- GKG §§ 39 47 51
+- BGH I. Zivilsenat X. Zivilsenat
+- Ingerl/Rohnke MarkenG
+- Benkard PatG
+- Koehler/Feddersen UWG
+
+---
+
 ## Skill: `gewerblicher-erstpruefung-und-mandatsziel`
 
-_Erstprüfung und Mandatszielbestimmung im gewerblichen Rechtsschutz: strukturiertes Erstgespräch, Rollen- und Interessenklärung, Schutzrechtslandschaft, Falltypisierung und Zieldefinition für anwaltliche Mandate in IP- und Wettbewerbssachen im Gewerblicher Rechtsschutz._
+_Wenn es um Spezial: Erstprüfung und Mandatsziel im Gewerblichen Rechtsschutz in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten._
 
 # Spezial: Erstprüfung und Mandatsziel im Gewerblichen Rechtsschutz
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Gewerblicher Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Gewerblicher Rechtsschutz** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Arbeitsweg
 
@@ -554,7 +561,7 @@ Nächster Termin: _______________
 
 ## Skill: `spezial-gewerblicher-erstpruefung-und-mandatsziel`
 
-_Gewerblicher: Erstprüfung, Rollenklärung und Mandatsziel im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung._
+_Wenn es um Gewerblicher: Erstprüfung, Rollenklärung und Mandatsziel in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Gewerblicher: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -595,7 +602,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Quellenregel
@@ -606,240 +617,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `ip-mandatsworkspace-kontexttrennung`
+## Skill: `evvollzug-neu-008-schutzschrift-register-und-forumstrategie`
 
-_Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz muss Kontext zwischen Mandaten strikt trennen. Mandatsverwaltung IP-Kanzlei. Prüfraster: Anlegen Auflisten Wechseln Schließen oder Trennen des aktiven Mandats Mandantenkontext für alle Folge-Skills. Output: aktives Mandat gesetzt und bestätigte Kontexttrennung. Abgrenzung zu gewerblicher-rechtsschutz-kaltstart-interview (Kanzlei-Profil) und allen Sach-Skills._
+_Wenn es um EV-Vollzug 008: Schutzschrift, Register und Forumstrategie (Antragsgegnerperspektive) in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Mandatsworkspace, Kontexttrennung und Fristensteuerung
-
-## Zweck
-
-Anwälte und Patentanwälte arbeiten gleichzeitig an mehreren Mandaten. Ein Mandatsarbeitsbereich hält den Kontext eines Mandanten oder einer Angelegenheit von jedem anderen getrennt. Diese Skill verwaltet diese Bereiche.
-
-Der Standardzustand ist **deaktiviert**. Syndikusrechtsanwälte und Inhouse-Teams (ein Mandant) arbeiten auf Praxisebene; Mandatsarbeitsbereiche sind für sie unsichtbar. Sie aktivieren sich beim Erstkonfigurationsgespräch für externe Anwälte (Einzel-, Klein- und Großkanzleien) oder durch manuelle Einrichtung.
-
-Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
-
-## Eingaben
-
-Befehlsargument (erstes Token):
-
-- `neu <kurzzeichen>` — neuen Mandatsarbeitsbereich anlegen
-- `liste` — alle Mandate mit Status und aktivem Mandat anzeigen
-- `wechseln <kurzzeichen>` — aktives Mandat umstellen
-- `schliessen <kurzzeichen>` — Mandat archivieren
-- `kein` — von jedem Mandat trennen, auf Praxisebene arbeiten
-
-## Rechtlicher Rahmen
-
-### Berufsrechtliche Rahmenbedingungen
-
-- **§ 43a Abs. 2 BRAO** — Verschwiegenheitspflicht des Rechtsanwalts; Mandatsgeheimnis; Grundlage der Mandatskontexttrennung
-- **§ 43a Abs. 4 BRAO** — Verbot der Vertretung widerstreitender Interessen (Interessenkonflikt); Mandate müssen getrennt geführt werden
-- **§ 203 Abs. 1 Nr. 3 StGB** — Verletzung von Privatgeheimnissen durch Rechtsanwälte; strafrechtliche Absicherung der Vertraulichkeit
-- **§ 50 BRAO** — Aufbewahrungspflichten für Handakten (mind. 5 Jahre); Archivierung schließt Mandatsarbeitsbereiche nicht; Löschung ist ausgeschlossen
-- **§ 2 BORA** — Berufsrechtliche Pflichten; Grundsatz der anwaltlichen Unabhängigkeit
-
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Kommentare
-
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Feuerich/Weyland/Böhnlein, BRAO, 10. Aufl. 2022, § 50 Rn. 1 ff. (Handaktenaufbewahrung)
-
-## Ablauf
-
-### Schritt 1: Vorbedingung prüfen
-
-Praxiskonfigurationsdatei lesen. Falls `Mandatsarbeitsbereiche: ✗` (Standardeinstellung für Inhouse-Teams):
-
-> Mandatsarbeitsbereiche sind deaktiviert — Sie sind als Inhouse-Praxis mit einem Mandanten konfiguriert; das Plugin arbeitet automatisch auf Praxisebene. Wenn Sie tatsächlich über mehrere externe Mandate hinweg arbeiten, führen Sie das Erstkonfigurationsgespräch erneut aus und wählen Sie die Kanzlei-Einstellung. Andernfalls benötigen Sie `/gewerblicher-rechtsschutz:gewerblicher-rechtsschutz-mandat-arbeitsbereich` nicht.
-
-Kein Fehler — der deaktivierte Zustand ist der erwartete für Inhouse-Nutzer.
-
-### Schritt 2: Befehlsverarbeitung
-
-Auf das erste Token des Arguments dispatchen.
-
----
-
-#### Befehl `neu <kurzzeichen>`
-
-1. Prüfen, ob das Kurzzeichen nicht bereits in `mandate/<kurzzeichen>/` oder `mandate/_archiv/<kurzzeichen>/` vorhanden ist. Bei Kollision: anderen Namen wählen lassen.
-2. Aufnahmeinterview durchführen (in einem Durchgang):
-   - **Mandant** — vertretene Partei oder interne Geschäftseinheit
-   - **Gegenpartei** — andere Seite (kann mehrere umfassen; kann "unbekannter Drittverletzer" bei Watch-Treffern sein)
-   - **Mandatstyp** — für gewerblichen Rechtsschutz: Markenschutz / Markenverletzung / Schutzrechtsübertragung / Patentverletzung / FTO-Gutachten / IP-Klauselprüfung / OSS-Compliance / Portfolioverwaltung / Störerhaftung / Sonstiges
-   - **Vertraulichkeitsstufe** — standard | erhöht | Clean-Team (erhöht bei besonderer Sensibilität, Clean-Team häufig bei FTO-Gutachten und Patentkäufen)
-   - **Wesentliche Tatsachen** — 2–5 Sätze: Worum geht es, wer sind die Beteiligten, was steht auf dem Spiel
-   - **Mandatsspezifische Abweichungen von der Standardposition** (z. B. "Mandant wünscht nur schriftliche Kommunikation", "Gegenpartei ist Geschäftspartner — maßvoller Ton")
-   - **Verbundene Mandate** — Kurzzeichen zusammenhängender Mandate
-3. `mandate/<kurzzeichen>/mandat.md` mit der unten angegebenen Vorlage schreiben.
-4. `mandate/<kurzzeichen>/verlauf.md` mit einem einzigen Eröffnungseintrag anlegen.
-5. Leere `mandate/<kurzzeichen>/notizen.md` anlegen.
-6. **Nicht** automatisch zum neuen Mandat wechseln. Fragen: "Möchten Sie jetzt zu `<kurzzeichen>` wechseln?"
-
----
-
-#### Befehl `liste`
-
-`mandate/*/mandat.md` aufzählen. Aus jeder Datei Status und Kurzzeichen entnehmen. Tabelle ausgeben:
-
-| Kurzzeichen | Mandant | Mandatstyp | Status | Eröffnet | Aktiv |
-|---|---|---|---|---|---|
-
-Aktives Mandat mit `*` markieren. `_archiv/*` unter gesonderter Überschrift "Archivierte Mandate" anführen.
-
----
-
-#### Befehl `wechseln <kurzzeichen>`
-
-1. Prüfen, ob `mandate/<kurzzeichen>/mandat.md` vorhanden. Falls nicht: `neu <kurzzeichen>` anbieten.
-2. `Aktives Mandat:`-Zeile in der Praxiskonfigurationsdatei auf `<kurzzeichen>` aktualisieren.
-3. Dem Nutzer die mandat.md-Zusammenfassung zeigen, damit er das richtige Mandat bestätigen kann.
-
----
-
-#### Befehl `schliessen <kurzzeichen>`
-
-1. `mandate/<kurzzeichen>/` auf Existenz prüfen.
-2. "Geschlossen"-Eintrag mit aktuellem Datum an `mandate/<kurzzeichen>/verlauf.md` anhängen.
-3. `mandate/<kurzzeichen>/` nach `mandate/_archiv/<kurzzeichen>/` verschieben.
-4. War das geschlossene Mandat das aktive Mandat: `Aktives Mandat:` auf `kein — nur Praxisebene` setzen.
-
----
-
-#### Befehl `kein`
-
-`Aktives Mandat:` in der Praxiskonfigurationsdatei auf `kein — nur Praxisebene` setzen. Bestätigung an den Nutzer.
-
-## Ausgabeformat
-
-### Vorlage `mandat.md`
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-```markdown
-[ARBEITSERGEBNIS-KOPFZEILE — gemäß Mandatsprofil]
-
-# Mandat: [Mandant] — [Kurzbeschreibung]
-
-**Kurzzeichen:** [kurzzeichen]
-**Eröffnet:** [JJJJ-MM-TT]
-**Status:** aktiv
-**Vertraulichkeit:** [standard / erhöht / Clean-Team]
-
----
-## Parteien
-
-**Mandant:** [Name]
-**Gegenpartei:** [Name(n)]
-
-## Mandatstyp
-
-[Markenschutz / Markenverletzung / FTO-Gutachten / Patentverletzung / IP-Klauselprüfung / OSS-Compliance / Portfolioverwaltung / Störerhaftung / Sonstiges — mit einzeiliger Begründung]
-
-## Wesentliche Tatsachen
-
-[2–5 Sätze. Worum geht es. Wer sind die Beteiligten. Was steht auf dem Spiel. Was macht dieses Mandat vom Standard abweichend.]
-
-## Mandatsspezifische Abweichungen
-
-*Jede Abweichung von der Praxisstandposition, die nur für dieses Mandat gilt.*
-
-- [z. B. "Durchsetzungsstrategie: hier maßvoll, obwohl Hausstandard aggressiv — Gegenpartei ist wichtiger Handelspartner."]
-- [z. B. "Genehmigung für Abmahnungen: zusätzliche Freigabe durch Mandant erforderlich."]
-- [z. B. "Clean-Team: Mandatsakten auch bei aktiviertem mandatsübergreifendem Kontext nicht lesbar."]
-
-## Verbundene Mandate
-
-- [kurzzeichen — einzeilige Begründung]
-
-## Vertraulichkeitshinweise
-
-[Bei erhöhter oder Clean-Team-Stufe: warum. Wer darf die Mandatsakten einsehen. Ob mandatsübergreifender Kontext zulässig ist.]
-```
-
-### Vorlage `verlauf.md`
-
-```markdown
-# Verlauf: [Mandant] — [Kurzbeschreibung]
-
-Nur-Anhänge-Ereignisprotokoll. Neuestes oben.
-
----
-
-## [JJJJ-MM-TT] — Mandat eröffnet
-
-Aufnahme abgeschlossen. Kurzzeichen: `[kurzzeichen]`. Status: aktiv.
-[Ggf. initialer Kontext — z. B. "Eröffnet nach Watch-Treffer auf `APEXLEAF` in Klasse 25."]
-```
-
-## Beispiel
-
-**Eingabe:** `/gewerblicher-rechtsschutz:gewerblicher-rechtsschutz-mandat-arbeitsbereich neu bmw-marke-2026`
-
-**Verarbeitung:**
-Kurzzeichen prüfen → Aufnahmeinterview starten → `mandat.md` erstellen → `verlauf.md` mit Eröffnungseintrag anlegen → Nutzer fragen, ob zum neuen Mandat gewechselt werden soll.
-
-**Ausgabe (Auszug):**
-
-> Mandatsarbeitsbereich `bmw-marke-2026` angelegt.
->
-> | Kurzzeichen | Mandant | Mandatstyp | Status | Eröffnet |
-> |---|---|---|---|---|
-> | bmw-marke-2026 | BMW AG | Markenschutz | aktiv | 2025-07-15 |
->
-> Möchten Sie jetzt zu `bmw-marke-2026` wechseln?
-
-## Risiken und typische Fehler
-
-- **Interessenkonflikte nicht erkennen:** Diese Skill führt keine Interessenkonfliktprüfung durch — das ist Aufgabe des Anwalts und der Kanzlei. Die Aufnahme erfasst nur, was der Nutzer angibt.
-- **Archivierung ist keine Löschung:** Geschlossene Mandate bleiben lesbar (§ 50 BRAO — Aufbewahrungspflicht mindestens 5 Jahre). Retention-Policy ist außerhalb des Skill-Umfangs.
-- **Mandatsübergreifender Kontext standardmäßig aus:** Die Praxiskonfiguration hat ein `Mandatsübergreifender Kontext:`-Flag. Standardmäßig `aus` — Skill A im Mandat X liest niemals Dateien aus Mandat Y. Das ist die Vertraulichkeitsgarantie.
-- **Kurzzeichen-Kollision mit Archiv:** Wird ein Kurzzeichen wiederverwendet, das im Archiv liegt, wird das archivierte Mandat unter `_archiv/<kurzzeichen>/` bewahrt; das neue erhält einen anderen Namen.
-
-## Quellenpflicht
-
-Alle Aussagen zu Vertraulichkeit, Aufbewahrung und Interessenkonflikten müssen auf konkreten Normen beruhen:
-
-- **§ 43a BRAO** (Verschwiegenheit), **§ 43a Abs. 4 BRAO** (widerstreitende Interessen), **§ 203 StGB** (Verletzung von Privatgeheimnissen), **§ 50 BRAO** (Handaktenaufbewahrung)
-- Modellannahmen als `[Modellwissen — verifizieren]` kennzeichnen.
-
-## Triage-Fragen bei Mandatseröffnung
-
-Bevor das Mandat angelegt wird, klaere:
-1. Ist ein Interessenkonflikt-Check (§ 43a IV BRAO) durchgefuehrt worden?
-2. Sind die wesentlichen Mandatsdaten vollstaendig (Mandant, Gegner, Rechtsgebiet, Streitgegenstand)?
-3. Wurde der Mandant ueber Honorar und Kostenrisiko aufgeklaert (§ 49b BRAO, § 34 RVG)?
-4. Laeuft bereits eine Frist (z.B. Widerspruchsfrist Marke, Abmahnungsfrist), die sofort ins Fristenbuch muss?
-
-## Aktuelle Rechtsprechung
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-<!-- AUDIT 27.05.2026
-Task: Bundle 031 / Halluzinations-Reparatur
-Korrektur: Zitat aus "Aktuelle Rechtsprechung"-Block entfernt (bei Zweifel loeschen).
--->
-
----
-
-## Skill: `abmahnung-urheberrecht-erfindungsmeldung`
-
-_Urheber oder Lizenznehmer erhielt unerlaubte Nutzung (Bild Text Video) oder Mandant erhielt Abmahnung wegen Urheberrechtsverletzung. § 97a UrhG Abmahnung und Unterlassung. Prüfraster: modifizierte Unterlassungserklärung Deckelung Abmahnkosten § 97a Abs. 3 UrhG im privaten Bereich Filesharing-Prax..._
-
-# Urheberrechtliche Abmahnung – § 97a UrhG
-
-## Arbeitsbereich
-
-Urheber oder Lizenznehmer erhielt unerlaubte Nutzung (Bild Text Video) oder Mandant erhielt Abmahnung wegen Urheberrechtsverletzung. § 97a UrhG Abmahnung und Unterlassung. Prüfraster: modifizierte Unterlassungserklärung Deckelung Abmahnkosten § 97a Abs. 3 UrhG im privaten Bereich Filesharing-Praxis Lizenzanalogie § 97 Abs. 2 UrhG Schadensersatz. Output: Abmahnungsentwurf oder Reaktions-Memo auf erhaltene Abmahnung. Abgrenzung zu unterlassungsverlangen (MarkenG UWG PatG) und verletzungs-triage (Erstentscheidung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+# EV-Vollzug 008: Schutzschrift, Register und Forumstrategie (Antragsgegnerperspektive)
 
 ## Arbeitsweg
 
@@ -849,243 +631,259 @@ Urheber oder Lizenznehmer erhielt unerlaubte Nutzung (Bild Text Video) oder Mand
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
+## Zweck und Mandatsbezug
 
-Behandelt das urheberrechtliche Abmahnverfahren nach § 97a UrhG
-als notwendige Voraussetzung für die gerichtliche Geltendmachung von
-Unterlassungs- und Schadensersatzansprüchen (§§ 97, 97a UrhG). Er deckt
-sowohl die Gläubigerperspektive (Abmahnung verfassen, Unterlassungserklärung
-einfordern) als auch die Schuldnerperspektive (Abmahnung prüfen, modifizierte
-Unterlassungserklärung abgeben) ab. Schwerpunkte sind die formalen
-Mindestanforderungen an die Abmahnung (§ 97a Abs. 2 UrhG), die Kostendeckelung
-im privaten Bereich (§ 97a Abs. 3 UrhG) und die Berechnung des
-Schadensersatzes nach der Lizenzanalogie (§ 97 Abs. 2 Satz 3 UrhG) –
-insbesondere in Filesharing-Fällen.
+Behandelt die **präventive Verteidigungsstrategie des potentiellen Antragsgegners** bei drohender einstweiliger Verfügung im gewerblichen Rechtsschutz. Wer eine Abmahnung erhalten hat oder mit einer EV rechnet, kann durch Einreichung einer Schutzschrift ins zentrale Schutzschriftenregister (ZSSR) das Gericht vorwarnen und die Gewährung einer EV ohne mündliche Verhandlung erschweren.
 
-Mandatsbezug: Abgemahnter Privatnutzer erhält Filesharing-Abmahnung; Rechteinhaber
-möchte eigene Werke schützen; Streit über Höhe der Abmahnkosten und des Schadensersatzes.
+Mandatsbezug: Mandant hat Abmahnung erhalten (Marke, Patent, UWG, Urheberrecht) und lehnt sie ab; Abmahner hat Klageerhebung angedroht. Mandant will Beschlussverfügung ohne Anhörung verhindern. Oder: Mandant ist Wettbewerber, der beim Markteintritt mit Verfügungsantrag rechnet.
 
-## Eingaben
+## Rechtlicher Rahmen
 
-1. **Abmahngegenstand** – Welches Werk (Buch, Musik, Film, Foto, Software)?
- Wer ist Rechteinhaber (Urheber, Verwerter, Lizenznehmer mit Klagerecht)?
-2. **Verletzungshandlung** – Öffentliche Zugänglichmachung (§ 19a UrhG) via
- Filesharing (BitTorrent, eDonkey), Download, Hosting? Zeitpunkt und Umfang?
-3. **Personenkreis** – Privat- oder Unternehmensnutzer (für § 97a Abs. 3 UrhG
- maßgeblich)?
-4. **IP-Adressdaten** – Gerichtlicher Auskunftsanspruch nach § 101 Abs. 9 UrhG
- beim Provider bereits erwirkt? Zuordnung zur Person gesichert?
-5. **Vorangegangene Abmahnungen** – Wiederholungsgefahr bereits durch frühere
- Verletzung begründet?
-6. **Empfangene Abmahnung** – Volltext, Absender, Frist, Forderungshöhe,
- beigefügte Unterlassungserklärung.
+### Zentrale Normen und Grundlagen
+
+- **§ 945a ZPO** – Zentrale Schutzschriften-Einreichung; Schutzschriften können beim ZSSR eingereicht werden und sind von allen ordentlichen Gerichten vor Erlass einer EV einzusehen.
+- **§ 937 Abs. 2 ZPO** – Beschlussverfügung ohne mündliche Verhandlung; Schutzschrift kann diesen Weg verhindern oder erschweren.
+- **§ 922 Abs. 1 ZPO** – Recht des Antragsgegners auf mündliche Verhandlung bei ernsthaften Einwendungen.
+- **§ 919 ZPO** – Allgemeine Zuständigkeitsregeln; Forumstrategie des Antragsgegners.
+- **§ 32 ZPO** – Besonderer Gerichtsstand der unerlaubten Handlung; beliebter Verfügungsgerichtsstand des Antragstellers.
+
+### Das zentrale Schutzschriftenregister (ZSSR)
+
+- Betrieben von: Elektronisches Gerichts- und Verwaltungspostfach (EGVP) unter www.schutzschriftenregister.de
+- Zugang: Rechtsanwälte können Schutzschriften einreichen; Gerichte können abrufen.
+- Geltungsdauer: 6 Monate ab Einreichung; Verlängerung möglich.
+- Kosten: Keine Gerichtsgebühren; nur Anwaltskosten.
+- Pflicht des Gerichts: Vor Erlass einer Beschlussverfügung muss das Gericht das Register abrufen (§ 945a Abs. 3 ZPO).
+
+## Kaltstart in 5 Fragen
+
+1. **Bedrohungslage:** Hat Mandant eine Abmahnung erhalten? Von wem, welcher Anspruch (Marke, UWG, Patent)?
+2. **Abmahninhalt:** Welche Verletzungshandlung wird gerügt? Welche Unterlassungserklärung wird verlangt?
+3. **Forumsfrage:** Wo würde Antragsteller voraussichtlich EV beantragen (Düsseldorf, Hamburg, München, Frankfurt)?
+4. **Dringlichkeit:** Ist Schutzschrift bereits nötig oder gibt es noch Zeit für Korrespondenz?
+5. **Output:** Schutzschrift-Entwurf, Forumstrategie-Memo, Entscheidungsempfehlung Unterlassungserklärung ja/nein?
+
+## Prüfprogramm
+
+### Schritt 1 – Schutzschrift als Instrument einschätzen
+
+**Wann sinnvoll:**
+- Abmahnung wurde abgelehnt oder modifiziert beantwortet; Antragsteller hat Klage angedroht.
+- Mandant hat ernsthafte materielle Einwendungen (kein Schutzrecht, kein Verstoß, Verwirkung, Erschöpfung).
+- Antragsteller neigt zu schnellen EV-Anträgen ohne vorherige Reaktion abzuwarten.
+
+**Wann weniger sinnvoll:**
+- Verletzung ist offensichtlich; Schutzschrift kaschiert nur das Problem.
+- Mandant will ohnehin Hauptsachestreit vermeiden; Einigung besser.
+- Schutzschrift enthüllt Verteidigungsstrategie und gibt Antragsteller Gelegenheit zur Vorbereitung.
+
+### Schritt 2 – Schutzschriftinhalt
+
+Pflichtinhalt einer Schutzschrift:
+1. **Rubrum:** Antragsgegner (Mandant), potentieller Antragsteller, Anspruchsgegenstand.
+2. **Sachverhalt:** Tatsachen aus Sicht des Antragsgegners; konkreter Tatbestand.
+3. **Einwendungen:** Warum EV nicht ergehen darf.
+ - Material: Schutzrecht ungültig, kein Verstoß, Erschöpfung (§ 24 MarkenG), Verwirkung.
+ - Formal: Keine Dringlichkeit, fehlende Aktivlegitimation, Missbrauch.
+4. **Beweisangebote:** Dokumente, eidesstattliche Versicherungen, Zeugen.
+5. **Antrag:** Gericht möge von Erlass einer EV ohne mündliche Verhandlung absehen.
+
+### Schritt 3 – Forumstrategie
+
+**Bekannte IP-Gerichte und ihre Tendenz:**
+| Gericht | Besonderheit | Tendenz EV ohne Verhandlung |
+|---|---|---|
+| LG Hamburg | „Fliegender Gerichtsstand"; strenger | Häufig EV ohne Verhandlung |
+| LG München I | IP-Spezialkammer | Ausgewogen |
+| LG Düsseldorf | Starkes Patentgericht | Ausgewogen |
+| LG Frankfurt | UWG-Erfahrung | Ausgewogen |
+| LG Berlin | UWG, Urheberrecht | Häufig EV ohne Verhandlung |
+
+- Schutzschrift bei allen wahrscheinlichen Gerichtsstandorten einreichen.
+- Bei Marke: Sitz des Rechtsinhabers und Ort der Verletzungshandlung (§ 32 ZPO).
+- Bei UWG: Ort der Verletzungshandlung oder Niederlassung des Verletzers.
+
+### Schritt 4 – Fristverlängerung nach Abmahnung
+
+- Angemessene Reaktionsfrist auf Abmahnung ist Voraussetzung für Dringlichkeit der EV.
+- Schutzschrift + Bitte um Fristverlängerung in Reaktion auf Abmahnung: entzieht dem Antragsteller die Dringlichkeit.
+- Wenn Antragsteller trotz laufender Verhandlungen sofort EV beantragt, Selbstwiderlegung der Dringlichkeit rügen.
+
+### Schritt 5 – Abwägung Unterlassungserklärung vs. Schutzschrift
+
+| Option | Vorteile | Nachteile |
+|---|---|---|
+| Modifizierte Unterlassungserklärung | Verfahrensbeendigung, Kostenkontrolle | Anerkenntnis der Verletzung (faktisch) |
+| Schutzschrift ohne Unterlassungserklärung | Keine Anerkennung; Verfahren bleibt offen | Kosten bei Niederlage im Hauptsacheverfahren |
+| Keine Reaktion | Kostenlos | EV ohne mündliche Verhandlung wahrscheinlich |
+
+## Typische Fallen
+
+- **Schutzschrift enthüllt Hauptverteidigungsstrategie:** Antragsteller kann diese in EV-Antrag kontern.
+- **Schutzschrift nicht beim richtigen Gericht:** Register wird abgerufen, aber Mandant hat falschen Gerichtsstand erwartet.
+- **Ablaufende Geltungsdauer übersehen:** Schutzschrift erlischt nach 6 Monaten; bei laufender Abmahnkorrespondenz verlängern.
+- **Keine Beweisangebote:** Schutzschrift ohne Belege überzeugt Gericht nicht, von Beschlussverfügung abzusehen.
+
+## Output-Module
+
+- **Schutzschrift-Vorlage:** Muster mit Rubrum, Sachverhalt, Einwendungen, Beweisangeboten.
+- **Forumstrategie-Matrix:** Wahrscheinliche Gerichtsstände mit Tendenzeinschätzung.
+- **Entscheidungsbaum:** Schutzschrift / Unterlassungserklärung / Keine Reaktion.
+- **Fristverlängerungsschreiben an Abmahner:** Entwurf mit Bitte um Verhandlungszeit.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Quellenregel
+
+- [§ 945a ZPO – dejure.org](https://dejure.org/gesetze/ZPO/945a.html)
+- [§ 937 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/937.html)
+- ZSSR: [schutzschriftenregister.de](https://www.schutzschriftenregister.de)
+- Rechtsprechung zur Dringlichkeitsschädlichkeit: BGH und OLG-Entscheidungen auf openjur.de.
+- Keine Kommentar-Blindzitate; aktuelle Gerichtspraxis zu Dringlichkeit per Gerichtsstandort prüfen.
+
+## Anschluss-Skills
+
+- `schutzschrift-eilverfuegung` – Schutzschrift im Detail
+- `unterlassungsverlangen` – Unterlassungserklärung als Alternative
+- `evvollzug-neu-001` – Vollziehungsfrist (Antragstellerperspektive)
+- `verletzungs-triage` – Erstentscheidung IP-Verletzung
+
+---
+
+## Skill: `evvollzug-neu-005-ordnungsmittelantrag-vollstreckung-unterlassun`
+
+_Wenn es um EV-Vollzug 005: Ordnungsmittelantrag (Paragraf 890 ZPO) nach Unterlassungstitel in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# EV-Vollzug 005: Ordnungsmittelantrag (§ 890 ZPO) nach Unterlassungstitel
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Zweck und Mandatsbezug
+
+Behandelt den **Ordnungsmittelantrag nach § 890 ZPO** als das zentrale Vollstreckungsinstrument bei Unterlassungsverfügungen im gewerblichen Rechtsschutz. Der Schuldner hat gegen eine rechtskräftige oder vollzogene Unterlassungsverfügung verstoßen – jetzt muss der Antragsteller die Einhaltung erzwingen.
+
+Mandatsbezug: Markeninhaber hat Unterlassungsverfügung gegen Verletzer erwirkt und vollzogen; Verletzer nutzt das Zeichen weiter. Oder: UWG-Antragsteller hat EV gegen unlauteren Wettbewerber; Wettbewerber stellt nach Verfügungszustellung weiter dieselbe irreführende Werbung ein.
 
 ## Rechtlicher Rahmen
 
 ### Zentrale Normen
 
-- **§ 97 UrhG** – Unterlassungs- und Schadensersatzanspruch bei Urheberrechts-
- verletzungen; § 97 Abs. 2 UrhG: Schadensersatz auch im Wege der Lizenzanalogie
- (Satz 3) oder nach tatsächlichem Schaden (Satz 1) oder Gewinnherausgabe
- (Satz 2, str.).
-- **§ 97a Abs. 1 UrhG** – Abmahnung als notwendige Voraussetzung für
- Unterlassungsklage; Pflicht des Abmahnenden zur inhaltlichen Korrektheit.
-- **§ 97a Abs. 2 UrhG** – Mindestinhalt: Abgemahnter, Rechteinhaber,
- Verletzungshandlung, geltend gemachter Anspruch, Kosten.
-- **§ 97a Abs. 3 UrhG** – Kostendeckelung bei privater Erstnutzung auf 100 €
- Gegenstandswert (Erstattungsfähigkeit der Abmahnkosten auf diesen Betrag
- begrenzt), wenn Verstoß nicht im geschäftlichen Verkehr und keine erheblichen
- Rechtsverletzung vorliegt (§ 97a Abs. 3 Satz 1 Nr. 1 und 2 UrhG).
-- **§ 97a Abs. 4 UrhG** – Kosten einer unberechtigten Abmahnung trägt der
- Abmahner; Gegenanspruch des Abgemahnten.
-- **§ 101 UrhG** – Auskunftsanspruch gegen Verletzer und Provider (§ 101 Abs. 9
- UrhG: gerichtliche Anordnung erforderlich); Drittauskunft bei Filesharing.
-- **§ 19a UrhG** – Recht der öffentlichen Zugänglichmachung; Filesharing erfüllt
- diesen Tatbestand durch das Anbieten im Peer-to-Peer-Netzwerk.
-- **§ 44b UrhG** – Text und Data Mining (seit 2021); für Abmahnpraxis nicht
- unmittelbar relevant, aber bei KI-generierten Inhalten zu beachten.
+- **§ 890 Abs. 1 ZPO** – Vollstreckung eines Unterlassungsurteils durch Ordnungsgeld (bis 250.000 EUR) oder Ordnungshaft (bis sechs Monate pro Verstoß).
+- **§ 890 Abs. 2 ZPO** – Androhungsgebot: Ordnungsmittel dürfen nur vollstreckt werden, wenn sie vorab angedroht wurden; die Androhung erfolgt regelmäßig durch die Unterlassungsverfügung selbst oder einen separaten Androhungsbeschluss.
+- **§ 891 ZPO** – Verfahren bei Ordnungsmittelantrag: Antrag des Gläubigers, rechtliches Gehör des Schuldners, Beschluss des Vollstreckungsgerichts.
+- **§ 928 ZPO** – Anwendbarkeit der allgemeinen Vollstreckungsvorschriften auf EV.
+- **§ 936 ZPO** – Anwendbarkeit der Arrestvorschriften.
 
-### Leitentscheidungen
+### Voraussetzungen des Ordnungsmittelantrags
 
-1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- "Tannöd": Zur Lizenzanalogie bei Filesharing: Der Rechteinhaber kann als
- Mindestschadensersatz den Betrag verlangen, den eine vernünftige Partei als
- angemessene Vergütung für die Gestattung der Nutzung vereinbart hätte;
- Filesharing ermöglicht unbegrenzte Verbreitung, was bei der Lizenzberechnung
- zu berücksichtigen ist; einzelne Downloads rechtfertigen einen Pauschalbetrag,
- da genaue Feststellung der Schadenshöhe nicht möglich ist (§ 287 ZPO).
+| Voraussetzung | Inhalt | Prüfpunkt |
+|---|---|---|
+| Vollstreckbarer Unterlassungstitel | Vollzogene EV oder rechtskräftiges Urteil | Zustellurkunde vorhanden? |
+| Androhung der Ordnungsmittel | Im Tenor der EV enthalten oder separater Beschluss | Tenor lesen |
+| Zuwiderhandlung | Konkreter Verstoß nach Zustellung der EV | Beleg: Screenshot, Zeuge, Testkauf |
+| Verschulden | Schuldner hat vorsätzlich oder fahrlässig gehandelt | Schuldner muss sich entlasten |
+| Antrag beim Vollstreckungsgericht | Schriftlicher Antrag mit Belegen | Form und Zuständigkeit prüfen |
 
-2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- "Tauschbörse III": Zur Störerhaftung des Anschlussinhabers: Der Anschluss-
- inhaber haftet als Störer für Urheberrechtsverletzungen über seinen Anschluss,
- wenn er Prüfungspflichten verletzt hat (Sicherung des WLAN, Belehrung von
- Familienmitgliedern); sekundäre Darlegungslast des Anschlussinhabers zur
- Benennung möglicher alternativer Täter.
+## Kaltstart in 5 Fragen
 
-### Quellenregel
+1. **Titelnachweis:** Liegt vollzogene EV mit Zustellurkunde vor? Enthält der Tenor eine Ordnungsmittelandrohung?
+2. **Verstoßbeleg:** Wann, wo und wie genau hat der Schuldner gegen die Unterlassung verstoßen? Welche Belege liegen vor?
+3. **Zeitpunkt:** War der Verstoß nach der Zustellung der EV an den Schuldner?
+4. **Zuständigkeit:** Welches Gericht hat die EV erlassen? Ordnungsmittelantrag an dasselbe Gericht (§ 891 ZPO)?
+5. **Output:** Antragsschriftsatz, Checkliste Beleglage, Memo zur Höhe des Ordnungsgeldes?
 
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Prüfprogramm
 
-## Ablauf
+### Schritt 1 – Titel und Androhung prüfen
 
-### Für den Abmahnenden (Rechteinhaber)
+- Tenor der EV auf Androhungspassage prüfen: „Bei Zuwiderhandlung wird ein Ordnungsgeld bis zu 250.000 EUR, ersatzweise Ordnungshaft, angedroht."
+- Fehlt die Androhung im Tenor, muss vor dem Ordnungsmittelantrag ein separater Androhungsbeschluss beantragt werden (§ 890 Abs. 2 ZPO).
+- Prüfen, ob EV durch Widerspruch oder Berufung aufgehoben wurde – dann kein Ordnungsmittelantrag.
 
-1. **Rechteinhaberschaft prüfen** – Urheber (§ 7 UrhG), Rechteinhaber durch
- Übertragung (§ 31 UrhG), ausschließlicher Lizenznehmer mit Klagerecht?
+### Schritt 2 – Zuwiderhandlung dokumentieren
 
-2. **Verletzungshandlung dokumentieren** – Screenshot mit Zeitstempel, IP-Adresse,
- Portname, Dateiname; ggf. Privatgutachter für Filesharing-Fälle; Nachweis
- des Anmeldetags (§ 32 Abs. 1 MarkenG – hier: Veröffentlichungsdatum des Werks).
+- **Datum und Uhrzeit** des Verstoßes genau festhalten (wichtig für Verschuldensfrage).
+- **Beweismittel:**
+ - Screenshot mit Datum, URL, Metadaten
+ - Testkauf mit Quittung
+ - Zeuge mit schriftlicher Erklärung
+ - eidesstattliche Versicherung des Antragstellers
+- Verstoß muss **nach** Zustellung der EV an Schuldner erfolgt sein; Datum der Zustellurkunde ist Bezugspunkt.
+- Mehrere Verstöße getrennt dokumentieren; jeder Verstoß kann gesondert geahndet werden.
 
-3. **Auskunft einholen (§ 101 Abs. 9 UrhG)** – Antrag beim Landgericht am
- Sitz des Providers auf gerichtliche Anordnung; Frist zur Datenspeicherung
- beachten (Vorratsdaten vs. Verbindungsdaten).
+### Schritt 3 – Antragsschrift verfassen
 
-4. **Abmahnung verfassen (§ 97a Abs. 2 UrhG)** – Pflichtinhalt: Bezeichnung des
- Verletzers, des Rechteinhabers, der verletzten Rechte, der Verletzungshandlung,
- der geltend gemachten Ansprüche, der Abmahnkosten; konkrete und strafbewehrte
- Unterlassungserklärung beifügen; angemessene Reaktionsfrist setzen (i. d. R.
- 7–14 Tage, ggf. kürzer bei dringlichen Fällen).
+Pflichtbestandteile:
+1. Bezeichnung des Vollstreckungsgerichts
+2. Rubrum (Gläubiger, Schuldner)
+3. AZ der EV
+4. Datum der Zustellung der EV (mit Bezug auf Zustellurkunde)
+5. Konkrete Darstellung der Zuwiderhandlung mit Datum
+6. Beweismittel als Anlage
+7. Antrag: „Es wird beantragt, gegen den Schuldner wegen Zuwiderhandlung gegen den Beschluss des [Gericht] vom [Datum] – AZ [AZ] – ein Ordnungsgeld in Höhe von mindestens [X] EUR, ersatzweise Ordnungshaft, festzusetzen."
 
-5. **Frist überwachen** – Bei Nichtreaktion oder unzureichender Erklärung:
- einstweilige Verfügung beim LG (§§ 935, 940 ZPO); Dringlichkeit beachten
- (Monatsfrist ab Kenntnis der Verletzung bei Verfügungen, h. M.).
+### Schritt 4 – Ordnungsgeldhöhe einschätzen
 
-6. **Schadensersatz geltend machen** – Lizenzanalogie (§ 97 Abs. 2 Satz 3 UrhG);
- Schätzung nach § 287 ZPO; Tabellen für übliche Lizenzgebühren (MFM-Tabelle
- für Fotos; GEMA-Tarife für Musik; BGH-Rspr. für Filesharing, vgl.
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine gesetzliche Tabelle; Gericht übt Ermessen aus.
+- Faktoren: Schwere des Verstoßes, Umsatz des Schuldners, Wiederholungsgefahr, Vorsatz/Fahrlässigkeit.
+- Richtwerte in IP-Verfahren: 5.000–50.000 EUR für einfachen Verstoß; bei Unternehmen mit hohem Umsatz bis 250.000 EUR.
+- Empfehlung im Antrag: Konkreten Betrag nennen; Gericht kann abweichen, aber Orientierungsrahmen setzen.
 
-### Für den Abgemahnten (Schuldner)
+### Schritt 5 – Schuldnerverteidigung antizipieren
 
-1. **Abmahnung prüfen** – Formelle Anforderungen § 97a Abs. 2 UrhG erfüllt?
- Rechteinhaberschaft glaubhaft? Verletzungshandlung konkret beschrieben?
+Typische Einwände des Schuldners:
+- **Kein Verschulden:** Mitarbeiter habe ohne Wissen gehandelt; Gegenargument: Organisationsverschulden.
+- **Titel deckt Verstoß nicht ab:** Verstoßverhalten fällt nicht unter Unterlassungsgebot; prüfen, ob Tenor weit genug formuliert.
+- **Verstoß vor Zustellung:** Prüfen: Wurde Verstoß wirklich erst nach Zustellungsdatum begangen?
+- **Einstellung des Vertriebs:** Schuldner behauptet, Verstoß eingestellt zu haben; Belege für Fortsetzung beschaffen.
 
-2. **Kostendeckelung § 97a Abs. 3 UrhG prüfen** – Privater Bereich? Erstmalige
- Verletzung? Kein erheblicher Verstoß? Wenn ja: Abmahnkosten auf Erstattung
- von Kosten aus 100 € Gegenstandswert begrenzt.
+## Nachgelagerte Schritte
 
-3. **Modifizierte Unterlassungserklärung abgeben** – Inhaltlich vollständig (alle
- zukünftigen gleichartigen Verletzungshandlungen erfassen; Dreier, § 97a Rn. 12);
- ohne Anerkenntnis der Rechtsverletzung und der Kostenforderung; Vertragsstrafe
- nach Hamburger Brauch (konkrete Summe nach billigem Ermessen).
+- **Ordnungsgeld-Beschluss:** Einzahlung des Ordnungsgeldes an Staatskasse; kein direkter Nutzen für Gläubiger.
+- **Unterlassungsklage in der Hauptsache:** Falls EV nur einstweilig – muss Hauptsacheklage innerhalb Frist erhoben werden (Abschlussschreiben beachten → evvollzug-neu-007).
+- **Wiederholter Verstoß:** Jeder erneute Verstoß führt zu neuem Ordnungsmittelantrag; kumulativ möglich.
 
-4. **Kosten verhandeln** – Lizenzanalogie begründen oder anfechten; bei Filesharing
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+## Output-Module
 
-5. **Verjährung beachten** – § 102 UrhG i. V. m. §§ 195, 199 BGB: 3-Jahres-
- Regelverjährung; Beginn mit Kenntnis (§ 199 Abs. 1 BGB); 10-Jahres-Maximal-
- frist ab Verletzungshandlung (§ 199 Abs. 3 Nr. 1 BGB).
+- **Antragsschriftsatz-Vorlage:** Vollständiger Mustertext mit Platzhaltern.
+- **Belegliste Verstoß:** Datum, Art des Verstoßes, Beweismittel, Anlage-Nummer.
+- **Ordnungsgeld-Einschätzungsmatrix:** Umsatz, Schwere, Vorsatz, Wiederholung → empfohlene Höhe.
+- **Antizipierte Verteidigung:** Tabelle Schuldnereinwand / Gegenargument.
 
-## Beispiel
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
 
-*Sachverhalt:* Privatperson P erhält Abmahnung wegen angeblicher Beteiligung
-an einer Filesharing-Tauschbörse für einen Spielfilm; Forderung: 956 € Abmahnkosten
-+ 500 € Schadensersatz.
+## Anschluss-Skills
 
-*Verteidigungsmemo (Gutachtenstil):*
-
-**Kostendeckelung:** P ist Privatperson und die Verletzung war nach Darstellung
-des Abmahners einmalig (kein Wiederholungsfall, kein erheblicher Verstoß).
-Die Abmahnkosten sind daher nach § 97a Abs. 3 Satz 1 UrhG auf die Erstattung
-aus einem Gegenstandswert von 100 € begrenzt (Dreier, in: Dreier/Schulze, UrhG,
-7. Aufl. 2022, § 97a Rn. 12). Aus 100 € Gegenstandswert ergibt sich nach dem
-RVG für eine 1,3-Gebühr (Nr. 2300 VV RVG) ein Erstattungsbetrag von ca. 27,30 €
-(zzgl. Auslagenpauschale); die geltend gemachten 956 € sind insoweit überhöht.
-
-**Schadensersatz:** 500 € nach Lizenzanalogie ist bei einem Spielfilm vertretbar
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-kann P durch sekundäre Darlegungslast auf alternative Täter (Familienmitglieder)
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-**Empfehlung:** Modifizierte Unterlassungserklärung ohne Schuldanerkenntnis abgeben;
-Kosten auf Deckelungsbetrag reduzieren; Schadensersatz verhandeln.
-
-*(Reber, in: Schricker/Löwenheim, UrhR, 6. Aufl. 2020, § 97a Rn. 25.)*
-
-## Risiken und typische Fehler
-
-- **Unzureichende Unterlassungserklärung:** Zu enge Erklärung beseitigt Wiederholungs-
- gefahr nicht; Rechteinhaber kann sofort klagen (Reber, § 97a Rn. 25).
-- **Fristen bei einstweiliger Verfügung:** Dringlichkeit entfällt, wenn Rechteinhaber
- mehr als 4–6 Wochen (je nach OLG-Praxis) nach Kenntnis zuwartete, ohne zu
- handeln.
-- **Sekundäre Darlegungslast:** Pauschales Bestreiten genügt nicht (BGH
- "Tauschbörse III"); P muss konkret darlegen, wer sonst Zugang hatte.
-- **IP-Adresszuordnung fehlerhaft:** Gutachtlich belegte Zuordnung angreifen;
- Richtigkeit der Ermittlung durch Privatgutachter in Frage stellen.
-- **Deckelung bei erheblichem Verstoß ausgeschlossen:** § 97a Abs. 3 Satz 2
- UrhG; bei massenhaftem Uploading oder gewerblichem Kontext greift die
- Deckelung nicht.
-- **Berufsrecht und Datenschutz:** § 43a Abs. 2 BRAO, § 203 StGB; Mandantendaten
- (insb. IP-Adressen) unterliegen der Verschwiegenheit.
-- **Verjährung:** § 102 UrhG, §§ 195, 199 BGB; bei Unkenntnis beginnt Frist nicht
- zu laufen, aber 10-Jahres-Maximallust ab Verletzung (§ 199 Abs. 3 Nr. 1 BGB).
-
-## Quellenpflicht
-
-Alle Aussagen zu Abmahnvoraussetzungen, Kostendeckelung und Lizenzanalogie nach
-`references/zitierweise.md`. BGH-Rspr. zur Störerhaftung und sekundären
-Darlegungslast ist dynamisch; neuere Entscheidungen (insb. BGH seit 2018) immer
-auch auf veränderte Rechtslage (Haftungsprivileg § 8 TMG a. F. → § 7 ff. DDG)
-hin prüfen. Bei Streit über Deckelungsvoraussetzungen h. M. und Gegenauffassung
-kenntlich machen.
-
-## Triage-Fragen vor Urheberrechts-Abmahnung
-
-Bevor die Abmahnung versandt wird, klaere:
-1. Ist das urheberrechtlich geschuetzte Werk klar identifiziert und der Schutzbestand unstreitig (§ 2 I UrhG — Schoepfungshoehe)?
-2. Handelt es sich um eine Privatperson (§ 97a III UrhG — Deckelung EUR 1.000) oder einen gewerblichen Verletzer?
-3. Ist der Rechteinhaber eindeutig der Mandant (Werkvertrag, Arbeitsvertrag, Rechteabtretung)?
-4. Ist die Verletzungshandlung noch andauernd oder bereits beendet (Wiederholungsgefahr vs. Erstbegehungsgefahr)?
-
-## Aktuelle Rechtsprechung
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-<!-- AUDIT 27.05.2026
-Task: Bundle 031 / Halluzinations-Reparatur
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Korrektur: GRUR 2016, 176 → GRUR 2016, 191 (alle 3 Fundstellen). Verifiziert via dejure.org.
--->
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 97a UrhG
-- § 97 UrhG
-- § 8c UWG
-- § 14 MarkenG
-- § 42 MarkenG
-- § 8 UWG
-- § 13 UWG
-- § 26 MarkenG
-- § 9 PatG
-- § 66 MarkenG
-- § 8 MarkenG
-- § 6 ArbnErfG
-
-### Leitentscheidungen
-
-- BGH I ZR 153/16
-- BGH I ZR 82/99
-- BGH I ZR 20/07
-- BGH X ZR 171/12
+- `evvollzug-neu-001` – Vollziehungsfrist und Parteizustellung
+- `evvollzug-neu-007` – Abmahnung, Abschlussschreiben und Hauptsache
+- `unterlassungsverlangen` – Unterlassungserklärung als Alternative zum Gerichtsverfahren
+- `verletzungs-triage` – Erstentscheidung bei IP-Verletzung
 
 ---
 
-## Skill: `erfindungsmeldung-aufnahme`
+## Skill: `gewr-geschaeftsgeheimnisgesetz`
 
-_Mitarbeiter meldet eine Erfindung oder Unternehmen prüft eingegangene Erfindungsmeldung. ArbnErfG Arbeitnehmererfindungsgesetz. Prüfraster: Neuheit erfinderische Tätigkeit technischer Charakter EPUe Schutzfähigkeit Arbeitnehmererfindung Inanspruchnahme vs. Freistellung Frist 4 Monate § 6 ArbnErfG..._
+_Wenn es um GewR: Geschäftsgeheimnisgesetz (GeschGehG) – Spezial in Plugin: Gewerblicher Rechtsschutz geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Erfindungseingang — Erstprüfung
+# GewR: Geschäftsgeheimnisgesetz (GeschGehG) – Spezial
 
 ## Arbeitsweg
 
@@ -1095,264 +893,182 @@ _Mitarbeiter meldet eine Erfindung oder Unternehmen prüft eingegangene Erfindun
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Eingaben
+## Zweck und Mandatsbezug
 
-Wenn der Nutzer keine Erfindungsmeldung eingereicht hat, werden folgende Angaben in einem Durchgang abgefragt:
+Behandelt den **Schutz von Geschäftsgeheimnissen nach dem GeschGehG** (Gesetz zum Schutz von Geschäftsgeheimnissen, in Kraft seit 26.04.2019) als eigenständigen Rechtsbaustein im gewerblichen Rechtsschutz. Das GeschGehG hat die frühere Rechtslage nach §§ 17–19 UWG a.F. abgelöst und neue Anforderungen an den Schutz eingeführt – insbesondere die Pflicht zu „angemessenen Geheimhaltungsmaßnahmen".
 
-1. **Was ist die Erfindung?** Beschreibung in eigenen Worten — was sie tut, wie sie funktioniert, was die Kernidee ist.
-2. **Welches Problem wird gelöst?** Was war zuvor nicht möglich oder mangelhaft?
-3. **Worin liegt der Unterschied zum Stand der Technik?** Was haben andere bisher gemacht, und was macht diese Erfindung anders?
-4. **Wer hat erfunden, und wann?** Namen, Arbeitsverhältnis (Arbeitnehmer/Freier Mitarbeiter?), ungefähres Entstehungsdatum.
-5. **Wurde die Erfindung bereits offenbart?** Publikation, Messe, Konferenz, Angebot, öffentliches Repository, Kundendemonstration (auch unter NDA). Wenn ja: wann und wie.
-6. **Wird die Erfindung bereits genutzt oder ist sie geplant?** In Produktion, im Pilotbetrieb, auf der Roadmap oder noch auf dem Papier?
-7. **Welches Technologiegebiet?** Software, Hardware, Mechanik, Biotechnologie, KI/ML, Chemie, Medizinprodukt etc.
-
-Bei formeller Erfindungsmeldung (IDF oder Unternehmensformular): Felder daraus entnehmen, nur Fehlende erfragen.
+Mandatsbezug: Mitarbeiter verlässt Unternehmen und nimmt Kundendaten mit; Wettbewerber hat Zugang zu Produktionsrezepturen erlangt; Auftragnehmer nutzt vertrauliche Konstruktionszeichnungen ohne Erlaubnis. Oder: Unternehmen erhält Abmahnung wegen angeblicher GeschGehG-Verletzung.
 
 ## Rechtlicher Rahmen
 
-### Kernvorschriften
+### Zentrale Normen
 
-- **§§ 1–5 PatG** — Patentierbarkeitsvoraussetzungen: Neuheit (§ 3), erfinderische Tätigkeit (§ 4), gewerbliche Anwendbarkeit (§ 5)
-- **Art. 52–57 EPÜ** — Patentierbarkeit im europäischen Patentsystem; technischer Charakter als Voraussetzung; Art. 56 EPÜ erfinderische Tätigkeit (Aufgabe-Lösungs-Ansatz)
-- **§§ 5–12 ArbnErfG** — Meldepflicht (§ 5), Inanspruchnahme durch den Arbeitgeber (§ 6 Abs. 1: Frist 4 Monate), unbeschränkte vs. beschränkte Inanspruchnahme; Vergütungspflicht (§§ 9 ff. ArbnErfG)
-- **§ 3 Abs. 1 PatG** — Absolutes Neuheitserfordernis: jede Offenbarung vor dem Anmeldetag ist neuheitsschädlich; eine Schonfrist für Vorveröffentlichungen gilt im deutschen und europäischen Patentrecht nicht
-- **§§ 1–3 GebrMG** — Gebrauchsmuster als schnellerer Schutzrechtsweg (keine erfinderische Tätigkeit im gleichen Maßstab, aber Neuheit + erfinderischer Schritt erforderlich)
-- **§ 26 GeschGehG** — Geschäftsgeheimnis als Alternative bei mangelnder Erkennbarkeit der Verletzung
+- **§ 2 GeschGehG** – Definition des Geschäftsgeheimnisses: Information, die (1) geheim ist, (2) kommerziellen Wert hat und (3) angemessenen Geheimhaltungsmaßnahmen unterliegt.
+- **§ 3 GeschGehG** – Erlaubte Handlungen; kein Schutz für eigenständig entwickelte Informationen, Reverse Engineering unter Voraussetzungen.
+- **§ 4 GeschGehG** – Verbotene Handlungen: unbefugter Erwerb, Nutzung, Offenlegung.
+- **§ 5 GeschGehG** – Ausnahmen: Aufdeckung von Rechtsverstoß (Whistleblower), Ausübung von Meinungsfreiheit.
+- **§ 6 GeschGehG** – Unterlassungsanspruch.
+- **§ 10 GeschGehG** – Schadensersatz.
+- **§ 20 GeschGehG** – Straf- und Bußgeldvorschriften.
+- **Richtlinie (EU) 2016/943** – Trade Secrets Directive; Grundlage des GeschGehG.
 
-### Leitentscheidungen
+### Schutzvoraussetzungen nach § 2 Nr. 1 GeschGehG
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+| Element | Inhalt | Prüfpunkt |
+|---|---|---|
+| Geheimheit | Information nicht allgemein bekannt oder leicht zugänglich | Marktwissen, Fachpublikation, offene Quellen? |
+| Kommerzieller Wert | Wirtschaftlicher Wert der Geheimhaltung | Wettbewerbsvorteil? Lizenzierbar? |
+| Angemessene Geheimhaltungsmaßnahmen | Aktive Schritte des Inhabers | NDA, Zugangsbeschränkung, Verschlüsselung, Schulung |
 
-### Kommentare
+## Kaltstart in 5 Fragen
 
-- Benkard/Melullis, PatG, 12. Aufl. 2023, § 3 Rn. 1 ff. (Neuheitsbegriff, Stand der Technik)
-- Bartenbach/Volz, ArbnErfG, 6. Aufl. 2019, § 5 Rn. 1 ff. (Meldepflicht und Form) und § 9 Rn. 1 ff. (Vergütung)
-- Mes, PatG/GebrMG, 5. Aufl. 2020, § 1 Rn. 20 ff. (technischer Charakter, Software- und KI-Erfindungen)
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+1. **Informationsart:** Was soll geschützt werden? Kundenliste, Rezeptur, Quellcode, Konstruktionszeichnung, Geschäftsstrategie?
+2. **Geheimhaltungsmaßnahmen:** Welche Maßnahmen wurden ergriffen? NDA, IT-Zugangsschutz, physischer Zugangsschutz, Mitarbeiterschulung?
+3. **Verletzungshandlung:** Was hat der Verletzer getan? Entwendet, weitergegeben, genutzt?
+4. **Beziehung zum Verletzer:** Ehemaliger Mitarbeiter, Auftragnehmer, Wettbewerber, Einbrecher?
+5. **Output:** Unterlassungsantrag (EV), Schadensersatz-Memo, Checkliste Geheimhaltungsmaßnahmen oder Abmahnung?
 
-## Ablauf
+## Prüfprogramm
 
-### Schritt 1: Meldung aufnehmen
+### Schritt 1 – Schutzfähigkeit prüfen
 
-Vorliegende Erfindungsmeldung vollständig lesen. Fehlen Angaben: Rückfragen gemäß Abschnitt "Eingaben" in einem Durchgang stellen. Unvollständige Meldungen nicht screenen — ein Screening von "einer neuen KI-Lösung für X" ohne technische Substanz ist schlechter als kein Screening.
+**Geheimheit:**
+- Information nicht in Fachzeitschriften, Patentschriften oder im Internet verfügbar?
+- Kein „allgemeines Branchenwissen" der Mitarbeiter?
+- Nicht durch Reverse Engineering einfach gewinnbar (§ 3 Abs. 1 Nr. 2 GeschGehG)?
 
-**Arbeitnehmererfindung prüfen:** Wenn der Erfinder Arbeitnehmer ist, zunächst klären: Handelt es sich um eine Diensterfindung (§ 4 Abs. 2 ArbnErfG: Entstehung aus dem Arbeitverhältnis oder wesentlich auf betriebliche Erfahrungen/Tätigkeiten beruhend)? Wenn ja: Meldepflicht nach § 5 ArbnErfG auslösen und Inanspruchnahmefrist (4 Monate, § 6 Abs. 1) dokumentieren.
+**Kommerzieller Wert:**
+- Unternehmen spart Kosten/erzielt Erlöse durch Geheimhaltung?
+- Lizenzierungspotential vorhanden?
+- Wettbewerber würde profitieren?
 
-### Schritt 2: Sechs Prüfungsschirme
+**Angemessene Geheimhaltungsmaßnahmen (critical!):**
+- **Vertragliche Maßnahmen:** NDA mit Mitarbeitern und Vertragspartnern; Vertraulichkeitsklauseln.
+- **Technische Maßnahmen:** Passwortschutz, Verschlüsselung, Zugriffsberechtigungen.
+- **Organisatorische Maßnahmen:** Need-to-know-Prinzip, Schulungen, Kennzeichnung als „vertraulich".
+- **Physische Maßnahmen:** Abgesicherter Serverraum, verschlossene Schränke.
+- Fehlen angemessener Maßnahmen: **Kein Schutz nach § 2 GeschGehG** – auch wenn Information wertvoll war.
 
-Jeden Schirm in der Reihenfolge abarbeiten. Ergebnis je Schirm: `✓ grün`, `🟡 unklar — Klärungsbedarf`, `🔴 Rote Flagge`.
+### Schritt 2 – Verletzungshandlung nach § 4 GeschGehG
 
-#### Schirm 1: Neuheitssignale (§ 3 PatG, Art. 54 EPÜ)
+**Verbotener Erwerb (§ 4 Abs. 1 GeschGehG):**
+- Unbefugter Zugriff auf Computer, Dateien, Räumlichkeiten.
+- Mitnahme von Unterlagen ohne Erlaubnis.
 
-**Rote Flaggen (🔴):**
-- "Wir haben [bekannte Technik] auf [neues Gebiet] angewandt" — Anwendung bekannter Methoden ohne technische Besonderheit
-- "Wettbewerber machen etwas Ähnliches" — Beschreibung selbst stellt Neuheit in Frage
-- Merkmal findet sich bereits in öffentlich zugänglichen Produkten, Publikationen oder Patenten
+**Verbotene Nutzung/Offenlegung (§ 4 Abs. 2 GeschGehG):**
+- Nutzung in neuem Unternehmen; Weitergabe an Wettbewerber.
+- Auch: Drittperson, die weiß, dass Information unerlaubt erlangt wurde (§ 4 Abs. 3 GeschGehG).
 
-**Grüne Flaggen (✓):**
-- Neuer **Mechanismus** — nicht nur neue Anwendung, sondern neue technische Wirkungsweise
-- Neue **Kombination** mit unerwartetem Ergebnis
-- Lösung eines bisher ungelösten Problems mit spezifischer technischer Lehre
+**Ausnahmen prüfen (§ 5 GeschGehG):**
+- Whistleblowing zur Aufdeckung von Rechtsverstoß: schutzlos.
+- Meinungsfreiheit, Pressefreiheit: Interessenabwägung.
+- Ausübung gesetzlicher Rechte (z.B. Betriebsratsinformationsrecht).
 
-#### Schirm 2: Erfinderische Tätigkeit (§ 4 PatG, Art. 56 EPÜ)
+### Schritt 3 – Einstweilige Verfügung
 
-EPA-Prüfungsansatz: Aufgabe-Lösungs-Ansatz. Würde ein Fachmann ausgehend vom nächstliegenden Stand der Technik und der zugrunde liegenden technischen Aufgabe zur beanspruchten Lösung gelangen?
+- Verfügungsanspruch: §§ 6 ff. GeschGehG (Unterlassung, Herausgabe).
+- Verfügungsgrund: Dringlichkeit, drohende irreversible Offenbarung.
+- Glaubhaftmachung: Nachweis der Schutzvoraussetzungen + Verletzungshandlung + Geheimhaltungsmaßnahmen.
+- Besonderheit: § 16 GeschGehG – Vertraulichkeitsschutz im Verfahren; Gericht kann Verfahren unter Ausschluss der Öffentlichkeit führen.
 
-**Rote Flaggen (🔴):**
-- Kombinieren bekannter Elemente auf vorhersehbare Weise (predictable combination)
-- Routinemäßige Optimierung bekannter Parameter ohne überraschenden Effekt
-- "Obvious to try" — eine aus wenigen naheliegenden Alternativen ohne Hindernis
+### Schritt 4 – Schadensersatz und Herausgabe
 
-**Grüne Flaggen (✓):**
-- Stand der Technik lehrte vom Lösungsweg ab (teaching away)
-- Unerwarteter technischer Effekt (surprising effect)
-- Langbekanntes Problem, das trotz Bemühungen bisher ungelöst geblieben ist
+- § 10 GeschGehG: Schadensersatz bei vorsätzlicher oder fahrlässiger Verletzung.
+- Berechnungsmethoden: Tatsächlicher Schaden, entgangener Gewinn, Lizenzanalogie.
+- § 7 GeschGehG: Herausgabe des Verletzergewinns.
+- § 8 GeschGehG: Vernichtung und Rückruf der verletzenden Produkte.
 
-#### Schirm 3: Technischer Charakter und Schutzfähigkeit (Art. 52 EPÜ, § 1 PatG)
+### Schritt 5 – Arbeitnehmer-Sonderfall
 
-Software, KI/ML und Geschäftsmethoden: Nicht per se ausgeschlossen, aber technischer Charakter muss vorliegen. EPA: "technical character" — weitgehend jeder Bezug zur Technik genügt; Abgrenzung gilt auf der Ebene der erfinderischen Tätigkeit.
+- Nachvertragliches Wettbewerbsverbot: §§ 74 ff. HGB; muss gesondert vereinbart sein.
+- Mitnahme von Arbeitgeberunterlagen: § 4 Abs. 1 GeschGehG; aber: eigene Notizen, Erfahrungswissen zulässig.
+- Abgrenzung: „persönliches berufliches Wissen" vs. konkrete Unternehmensgeheimnisse.
+- Strafrecht: § 20 GeschGehG; parallel zu zivilrechtlichen Ansprüchen.
 
-**Rote Flaggen (🔴):**
-- Reine Geschäftsmethode ohne technische Umsetzung
-- Mathematischer Algorithmus ohne technische Anwendung
-- Ablauf menschlicher Tätigkeiten ohne computergestützte oder physische Komponente
-- KI-Invention: Schutzbegehren richtet sich allein auf Funktion (empfehlen, klassifizieren, vorhersagen) ohne konkrete technische Mittel
+## Typische Fallen
 
-**Grüne Flaggen (✓):**
-- Technische Verbesserung des Computers selbst (Architektur, Sicherheit, Effizienz)
-- Technische Mittel werden konkret beschrieben, nicht nur Ergebnisse beansprucht
-- Einbettung in technisches Gebiet (Bildverarbeitung, Signalübertragung, Steuerung)
+- **Fehlende Geheimhaltungsmaßnahmen:** Kein NDA, keine Zugangsbeschränkung → kein GeschGehG-Schutz trotz wertvoller Information.
+- **Information war öffentlich:** Patentschrift, Fachpublikation, offene Quellen → Geheimheit fehlt.
+- **Whistleblower-Ausnahme übersehen:** Mitarbeiter hat Rechtsverstoß aufgedeckt; kein Anspruch.
+- **Verjährung:** Ansprüche nach § 9 GeschGehG verjähren in 3 Jahren (§ 195 BGB); Fristbeginn beachten.
+- **Verwechslung mit Strafrecht:** GeschGehG und § 20 GeschGehG gelten nebeneinander; Strafanzeige ≠ Abmahnung.
 
-#### Schirm 4: Neuheitsschädliche Vorveröffentlichung / Fristen (§ 3 PatG)
+## Output-Module
 
-Im deutschen und europäischen Patentrecht gilt **absolutes Neuheitserfordernis**: jede öffentliche Zugänglichmachung vor dem Anmeldetag ist neuheitsschädlich. Eine Schonfrist für Vorveröffentlichungen gilt nicht.
+- **Schutzfähigkeits-Checkliste:** Geheimheit, kommerzieller Wert, Geheimhaltungsmaßnahmen.
+- **Maßnahmen-Audit:** Vorhandene vs. empfohlene Geheimhaltungsmaßnahmen.
+- **EV-Antrag-Skizze:** Verfügungsanspruch §§ 6 ff. GeschGehG, Glaubhaftmachungspaket.
+- **Abmahnung Muster GeschGehG:** Verletzungshandlung, Anspruchsgrundlage, Unterlassungsaufforderung.
 
-**Ausnahme:** § 3 Abs. 5 PatG (Ausstellungsprioritätsprinzip) und Art. 55 EPÜ (offensichtlicher Missbrauch oder Ausstellungsprivileg) — sehr eng, nicht als Sicherheitsnetz einplanen.
+## Anschluss-Skills
 
-Kategorisierung:
-
-**🔴 Wahrscheinlich neuheitsschädlich:**
-- Öffentliche Veröffentlichung, Verkauf, Angebot, Messedemonstration, öffentliches Repository **vor dem Anmeldetag**
-- Preprint, Konferenzbeitrag, Social-Media-Post, Blogbeitrag mit technischem Inhalt
-
-**🟡 Fristdruck:**
-- Veröffentlichung liegt vor, Anmeldung noch nicht erfolgt — **sofortiger Handlungsbedarf**
-
-**✓ Unbedenklich:**
-- Keine Offenbarung außerhalb vertraulicher Kanäle
-- Kundenpräsentation unter NDA (Sorgfalt: NDA-Reichweite prüfen)
-
-Konkret erfragen: Konferenzbeiträge (auch eingereicht, nicht nur angenommen), Preprints, öffentliche Repositories, Messeauftritte, Angebote an Kunden, Investorenpräsentationen ohne NDA.
-
-#### Schirm 5: Erkennbarkeit einer Verletzung (Detectability)
-
-Ist eine Verletzung am Markt erkennbar? Server-seitige Algorithmen, interne Fertigungsschritte und reine Datenverarbeitungsmethoden ohne erkennbare Außenwirkung sind schwer durchzusetzen.
-
-**🔴 Geringe Erkennbarkeit:**
-- Server-seitiger Algorithmus ohne erkennbares Ausgabemuster
-- Internes Fertigungsverfahren (z. B. neuer Ätzschritt in Halbleiterproduktion)
-- Trainings-Methodik für ML-Modell — nur durch aufwendige Tests erahnbar
-
-Bei geringer Erkennbarkeit: Abwägung Patent vs. Geschäftsgeheimnis nach GeschGehG vornehmen. Wer die Entscheidung in der Praxis trifft: gemäß Unternehmensrichtlinie / Mandatsprofil.
-
-**✓ Hohe Erkennbarkeit:**
-- Konsumentenprodukt mit sichtbaren Merkmalen
-- Veröffentlichte API, Protokoll, SDK
-- Physischer Mechanismus in verteiltem Produkt
-
-#### Schirm 6: Strategischer Wert
-
-Passt die Erfindung zur Schutzrechtsstrategie des Unternehmens? Prüfung anhand des Mandatsprofils:
-
-- **Offensiv (Durchsetzungsportfolio):** Ist der Anspruch breit und assertionsfähig?
-- **Defensiv (Freedom to Operate):** Schützt die Anmeldung eine relevante Technologie?
-- **Lizenz-/Erlösmodell:** Ist die Erfindung lizenzierbar und wer würde zahlen?
-- **Kerntechnologie vs. Peripherie:** Kern hat höheren Wert.
-- **Wettbewerbslandschaft:** In patentintensiven Sektoren (Pharma, Halbleiter) frühzeitig anmelden.
-
-### Schritt 3: Erfindungsprüfungsvermerk erstellen
-
-Format:
-
-> **Erfindungsprüfungsvermerk — [Titel der Erfindung]**
->
-> **Ergebnis: [WEITERVERFOLGEN / KLÄREN / ABLEHNEN]**
->
-> *[Ein Satz — Begründung im Klartext.]*
->
-> ---
->
-> ### Prüfungsergebnisse
->
-> | Prüfschirm | Ergebnis | Anmerkung |
-> |---|---|---|
-> | Neuheitssignale | [✓ / 🟡 / 🔴] | [einzeiliger Grund] |
-> | Erfinderische Tätigkeit | [✓ / 🟡 / 🔴] | [einzeiliger Grund] |
-> | Technischer Charakter | [✓ / 🟡 / 🔴] | [einzeiliger Grund] |
-> | Vorveröffentlichung / Fristen | [✓ / 🟡 / 🔴] | [einzeiliger Grund + Daten] |
-> | Erkennbarkeit | [✓ / 🟡 / 🔴] | [einzeiliger Grund] |
-> | Strategischer Wert | [✓ / 🟡 / 🔴] | [Bezug zum Mandatsprofil] |
->
-> ---
->
-> ### Offene Punkte
->
-> - [Frage / Klärungsbedarf]
->
-> ### Nächste Schritte
->
-> 1. **Patentrecherche beauftragen** — Suchanfrage für Patentanwalt mit Anspruchskonzepten, Erfindernamen, IPC-Klasse und bekannten Referenzen.
-> 2. **Rückfrage an Erfinder** — Klärung offener Punkte zu [konkreten Punkten].
-> 3. **An Patentanwalt übergeben** — bei Grenzfragen zum technischen Charakter oder zur Schutzstrategie.
-> 4. **Ablehnen und Dankesschreiben** — Begründung archivieren.
-> 5. **Geschäftsgeheimnis-Route** — Hinweis an zuständige Stelle gemäß GeschGehG.
-
-### Schritt 4: Arbeitnehmererfindung — Pflichtprozess
-
-Wenn der Erfinder Arbeitnehmer ist:
-
-- **§ 5 ArbnErfG — Meldepflicht:** Erfinder hat unverzüglich zu melden. Form: schriftlich, Beschreibung der Erfindung, Entstehungsumstände.
-- **§ 6 Abs. 1 ArbnErfG — Inanspruchnahmefrist:** Arbeitgeber hat **4 Monate** ab Eingang der Meldung, um unbeschränkt oder beschränkt in Anspruch zu nehmen. Frist läuft automatisch; Untätigkeit gilt als Freigabe.
-- **§§ 9 ff. ArbnErfG — Vergütungspflicht:** Bei Inanspruchnahme entsteht Vergütungsanspruch. Bemessung nach den Richtlinien für die Vergütung von Arbeitnehmererfindungen im privaten Dienst (1959/zuletzt geändert). Faktoren: Erfindungswert, Anteilsfaktor, Mitarbeiterstellung.
-- Frist im Vermerk dokumentieren und in das Fristenkontrollsystem des Mandanten eintragen.
-
-## Beispiel
-
-**Eingabe:** "Neuer Cache-Algorithmus auf Basis eines erlernten Modells anstelle von LRU; im ersten Quartal dieses Jahres entwickelt, noch nicht veröffentlicht, Prototyp intern im Staging."
-
-**Ergebnis (Beispiel):**
-
-> **Erfindungsprüfungsvermerk — Lernbasierter Cache-Algorithmus**
->
-> **Ergebnis: WEITERVERFOLGEN** — Neuheit und technischer Charakter sind prima facie gegeben; keine neuheitsschädliche Vorveröffentlichung erkennbar; strategische Relevanz in Abhängigkeit vom Mandatsprofil prüfen.
->
-> | Prüfschirm | Ergebnis | Anmerkung |
-> |---|---|---|
-> | Neuheitssignale | 🟡 | Mechanismus neu, aber verwandte Literatur (ML-Caching) vorhanden — Recherche erforderlich |
-> | Erfinderische Tätigkeit | 🟡 | Unerwarteter Effizienzgewinn behauptet — durch Recherche zu belegen |
-> | Technischer Charakter | ✓ | Konkrete technische Verbesserung der Cache-Verwaltung |
-> | Vorveröffentlichung | ✓ | Keine Offenbarung, intern und vertraulich |
-> | Erkennbarkeit | 🟡 | Server-seitig: Abwägung Patent vs. Geschäftsgeheimnis empfohlen |
-> | Strategischer Wert | 🟡 | Abhängig vom Mandatsprofil |
-
-## Risiken und typische Fehler
-
-- **Neuheitsschädliche Vorveröffentlichung übersehen:** Jede öffentliche Zugänglichmachung vor Anmeldetag zerstört die Patentierbarkeit weltweit (außer engen Ausnahmefällen). Eine Schonfrist für Vorveröffentlichungen gilt nicht.
-- **ArbnErfG-Fristen versäumen:** Die 4-Monats-Inanspruchnahmefrist (§ 6 Abs. 1 ArbnErfG) läuft automatisch. Nicht im Fristenbuch eingetragen = Freigabe der Erfindung.
-- **Patentierbarkeit bestätigen:** Die Skill trifft keine Patentierbarkeitsaussage. "Besteht die Erstprüfung" ist nicht "patentierbar".
-- **Erkennbarkeitsfrage ignorieren:** Ein Patent auf eine nicht erkennbare Verletzungsform veröffentlicht das Know-how ohne Durchsetzungsmöglichkeit.
-- **KI/Software-Erfindungen: technischen Charakter unterschätzen:** Der EPA bewertet technischen Charakter weit; nicht vorschnell ablehnen.
-
-## Quellenpflicht
-
-Jede Aussage zu Neuheit, erfinderischer Tätigkeit oder Vergütung muss auf konkreten Normen oder Entscheidungen beruhen. Pflichtquellen in jedem Vermerk:
-
-- **Gesetzestext:** § 3, § 4, § 5 PatG; §§ 5, 6, 9 ff. ArbnErfG; Art. 52–56 EPÜ
-- **Rechtsprechung:** mindestens eine BGH-Entscheidung zur Neuheit oder erfinderischen Tätigkeit
-- **Kommentar:** Benkard PatG oder Bartenbach/Volz ArbnErfG mit § und Randnummer
-- Alle Quellen mit Fundstelle zitieren. Modellannahmen als `[Modellwissen — verifizieren]` kennzeichnen.
-
-## Triage-Fragen bei Erfindungsmeldung
-
-Bevor die Erfindung aufgenommen und bewertet wird, klaere:
-1. Liegt eine Diensterfindung (§ 4 ArbnErfG — Arbeitgeber hat Inanspruchnahmerecht) oder eine Freierfindung vor?
-2. Laeuft die 4-Monats-Frist des § 6 I ArbnErfG für die Inanspruchnahme bereits?
-3. Gibt es neuheitsschaedliche Vorveröffentlichungen (Veroeffentlichung vor Anmeldedatum)?
-4. Besteht technischer Charakter im Sinne des EPÜ Art. 52 (Software: loest technisches Problem auf technischem Weg)?
-
-## Aktuelle Rechtsprechung
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-<!-- AUDIT 27.05.2026
-Task: Bundle 031 / Halluzinations-Reparatur
-Korrektur: Zitat aus "Aktuelle Rechtsprechung"-Block entfernt (bei Zweifel loeschen).
--->
+- `gewr-einstweilige-verfuegung-eilverfahren-spezial` – EV-Antrag
+- `verletzungs-triage` – Erstentscheidung
+- `unterlassungsverlangen` – Unterlassungserklärung
+- `spezial-rechtsschutz-tatbestand-beweis-und-belege` – Tatbestand und Beweis
 
 ---
 
-## Skill: `fto-triage-gewerblicher-rechtsschutz-mandat`
+## Skill: `evvollzug-neu-005-ordnungsmittel-vollstreckung`
 
-_Unternehmen will Produkt einführen oder Technologie einsetzen und fragt: Verletzen wir fremde Patente? Freedom-to-Operate-Analyse FTO. Prüfraster: Recherche Espacenet DPMApaplus EP-Datenbank sperrende DE- und EP-Patente. Ergebnis Recherchepaket für Patentanwalt kein FTO-Gutachten. Output: Recherc..._
+_Wenn es um Gewerblicher Rechtsschutz: Ordnungsmittelantrag Vollstreckung Unterlassungstitel in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Freedom-to-Operate-Triage (FTO)
+# Gewerblicher Rechtsschutz: Ordnungsmittelantrag Vollstreckung Unterlassungstitel
 
-## Aktenstart statt Formularstart
+## Aufgabe
 
-Wenn zu **Fto Triage Gewerblicher Rechtsschutz Mandat** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Gewerblicher Rechtsschutz** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Dieser Skill bearbeitet **Ordnungsmittelantrag Vollstreckung Unterlassungstitel** im Bereich **Gewerblicher Rechtsschutz**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
-Starte dann mit einer knappen Rueckmeldung:
+## Kaltstart in 6 Fragen
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+## Prüfprogramm
+
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- Normtext und aktuelle Rechtsprechung live prüfen
+- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
+- Keine BeckRS- oder Literatur-Blindzitate
+- Ergebnis immer in Handlungsschritt übersetzen
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+
+## Typische Fallen
+
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+
+## Output
+
+- Memo
+- Checkliste
+- Mustertext
+- Fristenplan
+- Red-Team
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `gw-einstweilige-verfuegung-spezial`
+
+_Wenn es um GewR: Einstweilige Verfügung – Strategische Gesamtbetrachtung in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# GewR: Einstweilige Verfügung – Strategische Gesamtbetrachtung
 
 ## Arbeitsweg
 
@@ -1362,386 +1078,137 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Eingaben
+## Zweck und Mandatsbezug
 
-- Produkt-/Technologiebeschreibung (so detailliert wie möglich: technische Merkmale, Funktionsweise, Materialien, Verfahren)
-- Zielmarkt / Vertriebsgebiet (Deutschland, EU, weltweit)
-- Schlüsselwörter / Technologieklassifikation (IPC/CPC-Klassen, falls bekannt)
-- Geplantes Markteinführungsdatum
-- Ggf. bereits bekannte Patente (Wettbewerber)
-- Relevanter Stand der Technik (falls vorhanden)
+Liefert eine **strategische Gesamtbetrachtung des einstweiligen Verfügungsverfahrens** im gewerblichen Rechtsschutz – von der ersten Lageeinschätzung bis zum Übergang in die Hauptsache. Er ergänzt die spezialisierten Einzelskills der `evvollzug-neu`-Gruppe durch eine übergreifende Strategie- und Koordinationsperspektive.
 
-## Ablauf
+Mandatsbezug: Anwalt muss innerhalb von 48 Stunden entscheiden, ob er eine EV beantragt, bei welchem Gericht, mit welchem Tenor und wie er danach vorgeht. Oder: Anwalt vertritt Antragsgegner und muss innerhalb einer Woche reagieren.
 
-### 1. Technologie charakterisieren
+## Strategische Ausgangsfragen
 
-Produktbeschreibung in technische Merkmale übersetzen:
-- Hauptfunktion / Kernerfindung
-- Unterscheidungsmerkmale gegenüber bekanntem Stand der Technik
-- Schlüsselkomponenten und ihre Funktion
-- Verfahrensschritte (bei Verfahrenspatenten)
-- Mögliche IPC/CPC-Klassifikationen (International Patent Classification / Cooperative Patent Classification)
+Vor jeder EV-Entscheidung:
+1. Ist das Rechtsschutzziel wirklich ein Unterlassungsanspruch, oder geht es um Auskunft, Herausgabe oder Schadensersatz?
+2. Ist der EV-Weg materiell und prozessual aussichtsreich (Verfügungsanspruch + Verfügungsgrund)?
+3. Ist die Abmahnung bereits der schnellere und billigere Weg?
+4. Welches Gericht bietet die beste Praxis für diesen Fall?
+5. Was passiert nach dem Vollzug – Abschlussvereinbarung oder Hauptsache?
 
-Vorschlag für Suchstrategie aus Merkmalen entwickeln. `[prüfen]` – Klassifikation und Merkmalsdefinition mit Fachmann abstimmen.
+## Rechtlicher Gesamtrahmen
 
-### 2. Patentrecherche durchführen
+### Normen
 
-**Pflicht-Datenbanken:**
+- **§§ 935–945a ZPO** – Einstweiliger Rechtsschutz; Arrest und einstweilige Verfügung.
+- **§ 929 Abs. 2 ZPO** – Vollziehungsfrist.
+- **§ 890 ZPO** – Ordnungsmittel nach Vollzug.
+- **§ 945 ZPO** – Schadensersatz bei ungerechtfertigter EV; Haftung des Antragstellers.
+- **§ 926 ZPO** – Hauptsacheklage auf Anforderung des Schuldners.
+- **§ 93 ZPO** – Sofortiges Anerkenntnis und Kostenfolge.
 
-| Datenbank | URL | Umfang |
+### Typische IP-Ansprüche für EV
+
+| Rechtsgebiet | Unterlassungsanspruch | Norm |
 |---|---|---|
-| Espacenet | worldwide.espacenet.com | Weltweite Patente; DE, EP, WO; Volltextsuche |
-| DPMApaplus | depatisnet.dpma.de | Deutsche Patente und Gebrauchsmuster (DE); amtliche DPMA-Datenbank |
-| Google Patents | patents.google.com | Ergänzende Suche; maschinelle Übersetzungen |
+| Markenrecht | Markenverletzung | § 14 Abs. 5 MarkenG |
+| Patentrecht | Patentverletzung | § 139 Abs. 1 PatG |
+| Designrecht | Designverletzung | § 42 Abs. 1 DesignG |
+| Urheberrecht | Urheberrechtsverletzung | § 97 Abs. 1 UrhG |
+| UWG | Unlauterer Wettbewerb | § 8 Abs. 1 UWG |
+| GeschGehG | Geschäftsgeheimnisverletzung | § 6 GeschGehG |
 
-**Für EP-Patente mit DE-Wirkung:**
-- EP-Patent nach Erteilung und Validierung in DE gültig → nationale Verletzungsklage vor deutschen Gerichten möglich (LG Düsseldorf, LG München I, LG Mannheim)
-- Prüfung, ob nationales DE-Patent oder EP-Validierung vorliegt
+## Strategiephase: Antragsteller
 
-**Suchstrategie:**
+### Phase 1 – Vorprüfung (Tag 0–1)
 
-```
-Schritt 1 – Keyword-Suche: Technologiebegriffe in Titel, Abstract, Ansprüchen
-Schritt 2 – IPC/CPC-Klassensuche: Klassifikation + Keyword-Filter
-Schritt 3 – Anmeldersuche: Bekannte Wettbewerber als Inhaber
-Schritt 4 – Zitationsanalyse: Von gefundenen relevanten Patenten rückwärts zitieren
-Schritt 5 – Familiensuche: Internationaler Schutzumfang von Kernpatenten
-```
+- **Materieller Anspruch:** Besteht ein Unterlassungsanspruch? Welche Norm?
+- **Verfügungsgrund:** Wann erstmals Kenntnis? Keine Selbstwiderlegung?
+- **Beweislage:** Screenshot, Kaufbeleg, Schutzrechtsurkunde vorhanden?
+- **Abmahnung vorher?** Ja: Reaktionsfrist abgelaufen? Nein: Direkte EV oder Abmahnung zuerst?
+- **Kostenrisiko:** § 945 ZPO – Schadensersatz bei ungerechtfertigter EV; Bonität des Schuldners.
 
-### 3. Gefundene Patente analysieren
+### Phase 2 – Gerichtsauswahl (Tag 1–2)
 
-Für jedes potenziell sperrende Patent:
+**Kriterien:**
+- **Örtliche Zuständigkeit:** Sitz des Beklagten (§ 12 ZPO), Tatort (§ 32 ZPO), besonderer Gerichtsstand MarkenG/UWG.
+- **Gerichtspraxis:** Einige LG erlassen EV schneller oder großzügiger als andere.
+- **Spezialkammern:** Hamburg, München I, Frankfurt, Düsseldorf haben spezialisierte IP-Kammern.
+- **Forum shopping:** Innerhalb der Zuständigkeitsregeln; kein missbräuchliches Forum-Shopping.
 
-**Formelle Prüfung:**
-- Status: In Kraft / erloschen / nichtig / anhängig? (DPMA-Register, Espacenet Legal Status)
-- Inhaberschaft: Wer ist aktueller Inhaber? Lizenzbereitschaft?
-- Prioritätsdatum, Anmeldetag, Erteilungstag
-- Ablaufdatum (max. 20 Jahre ab Anmeldetag, § 16 Abs. 1 PatG; ggf. SPC-Verlängerung in Pharma/Pflanzenschutz nach VO (EG) 469/2009)
-- Jahresgebühren bezahlt? (DPMA-Register)
+### Phase 3 – Antragsgestaltung (Tag 2–3)
 
-**Sachliche Prüfung (Triage-Ebene):**
-- Anspruch 1 lesen (Hauptanspruch bestimmt Schutzbereich)
-- Wesentliche Merkmale des Anspruchs identifizieren
-- Abgleich mit Produktmerkmalen: Fallen alle Merkmale des Anspruchs in das Produkt?
+- **Tenor:** Präzise Beschreibung der verbotenen Handlung; nicht zu weit, nicht zu eng.
+- **Ordnungsmittelandrohung:** Immer in Tenor aufnehmen (§ 890 Abs. 2 ZPO).
+- **Streitwertangabe:** Realistisch; zu hoher Streitwert erhöht Kostenrisiko.
+- **Glaubhaftmachungspaket:** Eidesstattliche Versicherung + Belege.
+- **Sicherheitsleistung:** Antrag auf Absehen stellen; bei unsicherer Beweislage Gegenangebot.
 
-**Relevanzbewertung:**
+### Phase 4 – Vollzug (nach Erlass)
 
-🔴 **Blocking:** Alle Merkmale des Anspruchs im Produkt vorhanden; Patent in Kraft; keine eindeutige Äquivalenzlücke; anwaltliche FTO-Analyse dringend erforderlich vor Markteinführung.
+- **Fristbeginn:** § 929 Abs. 2 ZPO – Monatsfrist ab Zustellung an Antragsteller.
+- **Zustellungsweg:** GV (sicher) oder beA (riskant, s. evvollzug-neu-003/004).
+- **Vollstreckbare Ausfertigung:** Sofort beantragen.
+- **Zustellurkunde:** In Akte, Datum im Fristenbuch.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+### Phase 5 – Nach Vollzug
 
-🟡 **Mittel:** Einige Überschneidungen; erhebliche Merkmale nicht vorhanden; Design-around möglich; patentanwaltliche Prüfung empfohlen.
+- **Widerspruch des Schuldners?** → Mündliche Verhandlung vorbereiten.
+- **Kein Widerspruch?** → Abschlussschreiben senden (s. evvollzug-neu-007).
+- **Verstoß gegen EV?** → Ordnungsmittelantrag (s. evvollzug-neu-005).
+- **§ 926-Antrag des Schuldners?** → Hauptsacheklage fristgerecht erheben.
 
-🟢 **Niedrig:** Nur entfernte Ähnlichkeit; Schutzbereich klar nicht getroffen; verbleibende Unsicherheiten für anwaltliche Einschätzung vermerken.
+## Strategiephase: Antragsgegner
 
-### 4. Lizenz- und Design-around-Optionen
+### Phase 1 – Sofortmaßnahmen nach Zustellung (Tag 0–3)
 
-Falls 🔴/🟠-Ergebnisse:
-- **Lizenzierung:** Patentinhaber identifizieren; Lizenzbereitschaft einschätzen (FRAND-Verpflichtungen bei SEPs prüfen)
-- **Design-around:** Welches Merkmal könnte technisch vermieden werden ohne Funktionsverlust?
-- **Nichtigkeitsangriff:** Gibt es Stand der Technik, der Neuheit oder erfinderische Tätigkeit des Patents zerstört? (§ 21 Abs. 1 PatG; Nichtigkeitsklage vor BPatG)
-- **Prioritätsrecherche:** Ältere Veröffentlichungen des Anmelders als potenziellen Stand der Technik prüfen
+- **Zustellung prüfen:** Wirksam? Fristbeginn korrekt?
+- **Tenor lesen:** Was genau ist verboten? Ist Handlung des Mandanten tatsächlich untersagt?
+- **Verletzungshandlung beurteilen:** Tatsächlicher Verstoß? Oder Tenorüberschreitung?
+- **Wiederholungsgefahr beseitigen?** Verletzung sofort einstellen; Wiederholungsgefahr prüfen.
 
-### 5. Recherchebericht erstellen
+### Phase 2 – Entscheidung Widerspruch oder Abschluss
 
-## Quellen und Zitierweise
-
-Zitierweise nach `../references/zitierweise.md`.
-
-**Normen:** §§ 9, 14, 16, 21 PatG; § 14 GebrMG; VO (EG) 469/2009 (SPC-VO Pharma); Art. 64 EPÜ (nationale Wirkung EP-Patent).
-
-**Leitentscheidungen:**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-- Kraßer/Ann, Patentrecht, 7. Aufl. 2016, § 33 Rn. 45 ff. (Schutzbereichsbestimmung). `[Modellwissen – prüfen; neuere Auflage verwenden falls verfügbar]`
-- Schulte/Moufang, PatG, 10. Aufl. 2017, § 14 Rn. 95 ff. (Äquivalenzlehre).
-
-## Beispiel (Gutachtenstil – Auszug)
-
-**Produkt:** Neue Fertigungsmethode für Halbleiterbauteile mit bestimmter Schichtabfolge
-
-**Gefundenes Patent:** EP 3 456 789 B1, Inhaber: TechCorp SE, in Kraft (Jahresgebühren bezahlt bis 2028), Ablauf 2033.
-
-**Anspruch 1 (vereinfacht):** Verfahren zur Herstellung eines Halbleiterbauteils, umfassend: (a) Aufbringen einer Siliziumschicht, (b) Dotierung mit Phosphor, (c) thermische Aushärtung bei 800–900 °C.
-
-**Merkmalsabgleich:**
-
-| Anspruchsmerkmal | Im Produkt vorhanden? | Anmerkung |
+| Option | Wann | Folge |
 |---|---|---|
-| (a) Siliziumschicht | Ja | identisch |
-| (b) Phosphordotierung | Ja | identisch |
-| (c) Thermische Aushärtung 800–900 °C | Fraglich | Produkt verwendet 850 °C – innerhalb des Bereichs `[prüfen]` |
-
-**Ergebnis:** 🔴 **Blocking.** Alle Merkmale zumindest prima facie im Produkt vorhanden. Keine Äquivalenzlücke erkennbar. Patentanwaltliche FTO-Analyse vor Markteinführung zwingend erforderlich.
-
-## Risiken / typische Fehler
-
-- **Nur DE-Patente prüfen:** EP-Patente mit DE-Validierung haben volle nationale Wirkung; EPO-Datenbank ist Pflicht.
-- **Status nicht prüfen:** Erloschene Patente (nicht bezahlte Jahresgebühren, Nichtigerklärung) sind kein Hindernis mehr; DPMA-Register auf aktuellen Status prüfen.
-- **SPC-Verlängerungen übersehen:** In Pharma- und Pflanzenschutzbereich können Ergänzende Schutzzertifikate (SPC) die Schutzdauer um bis zu 5 Jahre verlängern.
-- **Kein FTO-Gutachten:** Diese Triage ersetzt kein formelles FTO-Gutachten durch einen Patentanwalt; bei 🔴/🟠-Ergebnissen ist patentanwaltliche Einschaltung zwingend.
-- **Äquivalenz ist Recht, nicht Technik:** Die Äquivalenzprüfung erfordert rechtliche Wertung (BGH "Pemetrexed"); nicht dem Ingenieur überlassen.
-- **Geheimhaltung:** Technologiebeschreibungen sind vertraulich (§ 43a Abs. 2 BRAO; Geschäftsgeheimnis § 2 GeschGehG); nur intern und über gesicherte Kanäle verarbeiten.
-
----
-
-## Skill: `ip-klausel-pruefung`
-
-_Anwalt prüft Vertrag auf IP-Klauseln (Übertragung Lizenz Inhaberschaft Freistellung) oder Mandant fragt nach Risiken. IP-Klauseln Vertragsrecht. Prüfraster: Übertragung Inhaberschaft Lizenzgewaehrung exklusiv/nicht-exklusiv Gewährleistung Freistellung Reichweite. Output: IP-Klausel-Prüfbericht mi..._
-
-# IP-Klausel-Prüfung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Eingaben
-
-- **Vertragsdokument:** Dateilink, eingefügter Text oder Beschreibung.
-- **Vertragstyp:** Arbeitsvertrag, Dienstvertrag (freier Mitarbeiter), Werkvertrag/SOW, Lizenzvertrag (ein- oder ausgehend), Kooperationsvertrag, MSA, M&A-Nebenabrede, sonstige.
-- **Position des Mandanten:** Rechtegebend (Lizenzgeber / Übertrager) oder Rechteempfangend (Lizenznehmer / Erwerber) oder beides.
-- **Rechtsordnung des Vertrags:** Welches Recht ist vereinbart?
-
-## Rechtlicher Rahmen
-
-### Kernvorschriften
-
-- **§§ 11–24 UrhG** — Urheberpersönlichkeitsrechte (unveräußerlich; § 14 UrhG Entstellungsschutz)
-- **§ 29 UrhG** — Urheberrecht ist nicht übertragbar; nur Einräumung von Nutzungsrechten (§§ 31 ff. UrhG) möglich
-- **§§ 31–44 UrhG** — Einräumung von Nutzungsrechten: einfaches vs. ausschließliches Nutzungsrecht (§ 31 Abs. 1), Übertragung von Nutzungsrechten (§ 34), Unterlizenzen (§ 35), Zweckübertragungslehre (§ 31 Abs. 5)
-- **§§ 43, 69b UrhG** — Urheberrecht an Computerprogrammen bei Arbeitsverhältnissen: Nutzungsrechte beim Arbeitgeber kraft Gesetzes (§ 69b Abs. 1)
-- **§§ 15–22 PatG** — Übertragung und Lizenzierung von Patenten; Vindikationsanspruch; Miterfinderschaft
-- **§§ 27–31 MarkenG** — Übertragung und Lizenzierung von Marken
-- **§§ 1–4 GeschGehG** — Geschäftsgeheimnis: Voraussetzungen, angemessene Schutzmaßnahmen
-- **§§ 4, 5 ArbnErfG** — Zuordnung von Arbeitnehmererfindungen (Patent-/Gebrauchsmusterrechte beim Arbeitgeber nach Inanspruchnahme)
-- **§§ 433 ff., 311, 280 BGB** — Gewährleistungs- und Haftungsregelungen bei Rechtsmängeln
-
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Kommentare
-
-- Leistner, in: Schricker/Löwenheim, UrhG, 6. Aufl. 2020, § 31 Rn. 1 (Nutzungsrechte, Übertragbarkeit)
-- Spindler, in: Schricker/Löwenheim, UrhG, 6. Aufl. 2020, § 29 Rn. 1 (Nicht-Übertragbarkeit des Urheberrechts)
-- Melullis, in: Benkard, PatG, 12. Aufl. 2023, § 15 Rn. 1 (Patentübertragung und -lizenz)
-- Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 27 Rn. 1 (Markenübertragung – Doppelautoren-Kommentar)
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-
-## Ablauf
-
-### Schritt 1: Orientierung
-
-Vertrag einmal vollständig lesen. Antworten auf folgende Fragen:
-
-| Frage | Antwort |
-|---|---|
-| Vertragstyp? | Arbeitsvertrag / Dienstvertrag / Werkvertrag-SOW / Lizenzvertrag ein- oder ausgehend / Kooperation / Sonstiges |
-| Position des Mandanten bei IP? | Rechtegebend / -empfangend / beides |
-| Vertragspartner? | Name und Einschätzung — Einzelperson, Startup, Großunternehmen |
-| Steht Vergütung für IP gesondert? | Arbeitsentgelt, Werkhonorar, Lizenzgebühr, Vorauszahlung, keine |
-| Anwendbares Recht? | Welche Rechtsordnung; ist das Mandatsprofil betroffen? |
-
-Bei Unklarheit über die IP-Position (Kooperationsvertrag, beidseitige Rechteeinräumung): nachfragen.
-
-### Schritt 2: Prüfung der Rechteübertragungsklauseln (höchste Priorität)
-
-Bei Arbeitsverträgen, Dienstverträgen und Werkverträgen, wo der Mandant IP des Vertragspartners erwerben soll, zunächst folgende Punkte prüfen:
-
-**A — Urheber- und Leistungsschutzrechte:**
-- § 29 UrhG: Urheberrecht ist nicht übertragbar. Möglich ist nur die Einräumung von Nutzungsrechten (§§ 31 ff. UrhG). Eine Klausel, die "das Urheberrecht überträgt", ist rechtlich ungenau und erreicht das Ziel nicht.
-- § 31 Abs. 1 UrhG: Unterschied zwischen einfachem (nicht ausschließlichem) und ausschließlichem Nutzungsrecht — ausschließliches Nutzungsrecht erlaubt Klage auf eigenem Namen, einfaches nicht.
-- § 31 Abs. 5 UrhG (Zweckübertragungslehre): Im Zweifel werden nur für den Vertragszweck unbedingt erforderliche Rechte eingeräumt. Umfang muss explizit definiert sein.
-- Urheberpersönlichkeitsrechte (§§ 12–14 UrhG) sind unveräußerlich; lediglich Verzichtserklärungen oder Nichtausübungsabreden (im Rahmen des § 138 BGB) möglich.
-
-**B — Patente und Gebrauchsmuster:**
-- Bei Arbeitnehmern: Nutzungsrechte entstehen nach Inanspruchnahme gemäß § 6 ArbnErfG beim Arbeitgeber automatisch.
-- Bei freien Mitarbeitern: Ausdrückliche schriftliche Abtretung (§ 15 PatG) erforderlich. Zukunftsbezogene Abtretungsklauseln (noch nicht entstandene Patente) sind zulässig.
-
-**C — Klauselsprache prüfen:**
-- Aktuelle Einräumung: "räumt hiermit ein" ist stärker als "verpflichtet sich einzuräumen" (Leistungspflicht vs. dingliche Wirkung)
-- Umfang: Alle für die Leistung relevanten Nutzungsarten einschließlich unbekannter Nutzungsarten (§ 31a UrhG) — explizit regeln, wenn gewollt
-- Unterlizenzen: Klausel für die Berechtigung zur Unterlizenzierung (§ 35 UrhG) prüfen
-- Vorbestehende IP: Welche Rechte des Auftragnehmers sind explizit ausgenommen?
-
-Wenn wesentliche Punkte fehlen oder unklar sind: am Anfang des Vermerks mit 🔴 oder 🟠 kennzeichnen und Änderungsvorschlag beifügen.
-
-### Schritt 3: Klausel-für-Klausel-Prüfung
-
-Für jede IP-relevante Klausel einen Prüfblock erstellen:
-
-```markdown
-### [Abschnitt X.X]: [Klauselbezeichnung]
-
-**Was sie sagt:** [Zusammenfassung in eigenen Worten, ein bis zwei Sätze]
-
-**Marktstandard (für diesen Vertragstyp, diese Position, dieses Recht):**
-[kurze Referenz]
-
-**Risiko:** 🔴 Kritisch | 🟠 Hoch | 🟡 Mittel | 🟢 Niedrig
-
-**Warum es darauf ankommt:** [ein bis zwei Sätze — was schief geht, wenn die Klausel so bleibt]
-
-**Änderungsvorschlag (soweit erforderlich):**
-> "[konkrete Ersatzformulierung]"
-
-**Entscheidungsvorbehalt:** [Bei subjektiven Zuordnungsfragen: anwaltliche Prüfung empfehlen, Argumente pro/contra aufzeigen]
-```
-
-Zu prüfende Klauseltypen:
-
-- **Rechteeinräumung / Urheberrechtsklausel** — Wer bekommt welche Nutzungsrechte?
-- **Eigentumsklausel an Arbeitsergebnissen** — Abgrenzung Diensterfindung / freie Erfindung / Werk
-- **Verbesserungen und Ableitungen** — Wer gehört Verbesserungen an vorbestehendem IP? Wer derivate Werke?
-- **Hintergrund-IP vs. Vordergrund-IP** — Ist vorbestehendes IP klar definiert und für den Vertragszweck lizenziert?
-- **Lizenzgewährungen** — Umfang, Ausschließlichkeit, Territorium, Verwendungszweck (field of use), Sublizenzierbarkeit, Laufzeit, Kündigungsgründe, Vergütung
-- **IP-Gewährleistungen** — Nichtverstoß gegen Drittrechte, Verfügungsberechtigung, Originalität des Werkes
-- **IP-Freistellungen** — Umfang, Cap, Verfahren, Ausschlüsse (Modifikationen durch den anderen Teil, ungenehmigte Nutzungen)
-- **Open-Source-Erklärungen** — Angaben zu eingebetteten OSS-Komponenten; GPL/LGPL/AGPL-Risiken
-- **Marken** — Nutzungsrechte an Marken des anderen Teils, Qualitätskontrolle bei Lizenzen (§ 30 Abs. 2 MarkenG)
-- **Geschäftsgeheimnisse** — Behandlung von GeschGehG-Material, angemessene Schutzmaßnahmen (§ 2 Nr. 1 lit. b GeschGehG), Rückgabe nach Vertragsende
-
-**Schweregrad-Kalibrierung:**
-
-| Stufe | Bedeutung |
-|---|---|
-| 🔴 Kritisch | Nicht unterzeichnen ohne Korrektur. Fehlende Rechteeinräumung wo sie erforderlich ist. Unbeschränkte Lizenz wo beschränkte gewollt ist. Exklusive Einräumung wo nicht exklusiv gewollt. |
-| 🟠 Hoch | Stark nachverhandeln; eskalieren wenn keine Bewegung. Unklarer Umfang, fehlendes Urheberpersönlichkeitsrecht-Waiver, fehlende further-assurance-Klausel. |
-| 🟡 Mittel | Im ersten Durchgang pushen; akzeptieren wenn letzter offener Punkt. Sprachlich ungenau, Überlebenszeitraum kürzer als Standard. |
-| 🟢 Niedrig | Vermerken, kein Kapital einsetzen. Stilistische Abweichung ohne inhaltliche Auswirkung. |
-
-### Schritt 4: Klausel-übergreifende Konsistenzprüfung
-
-IP-Klauseln scheitern als System. Prüfen:
-
-- **Passt die Lizenzgewährung zum Umfang des lizenzierten Rechts?** (Lizenz zur "Nutzung" ist enger als Lizenz zur "Nutzung, Bearbeitung und Erstellung abgeleiteter Werke".)
-- **Decken die Gewährleistungen ab, was die Lizenz umfasst?** (Gewährleistung nur für Patente bei einer Lizenz, die auch Urheberrecht und Geschäftsgeheimnisse umfasst, hinterlässt Lücken.)
-- **Deckt die Freistellung was die Gewährleistung verspricht?** (Gewährleistung ohne Freistellung ist ein Versprechen ohne Rechtsbehelf.)
-- **Zieht Kündigung die Lizenz zurück?** (Oder überlebt eine bezahlte Lizenz die Kündigung? Beides vertretbar — Frage ist, ob es der Absicht entspricht.)
-- **Stimmt die IP-Regelung in diesem Vertrag mit verbundenen SOW, Bestellformularen oder Nebenbriefen überein?** Konflikte kennzeichnen.
-
-### Schritt 5: Rechtsordnungshinweis
-
-IP-Regelungen sind rechtsordnungsabhängig. Kennzeichnen wenn relevant:
-
-- **Urheberpersönlichkeitsrechte:** In Deutschland (und EU) grundsätzlich unveräußerlich (§§ 12–14 UrhG). Nur Nichtausübungsabreden möglich. Bei grenzüberschreitenden Verträgen ist das anwendbare Recht zu klären, da ausländische Rechtsordnungen abweichende Regelungen kennen können.
-- **§ 69b UrhG:** Computerprogramme: Bei Arbeitsverhältnissen Nutzungsrechte kraft Gesetzes beim Arbeitgeber — explizite Einräumung für das Sicherheitsgefühl in der Due Diligence aber sinnvoll.
-- **Zweckübertragungslehre (§ 31 Abs. 5 UrhG):** Gilt im deutschen Recht automatisch; Common-Law-Jurisdiktionen kennen keine vergleichbare Restriktion.
-- **KI-generierte Werke:** Nach deutschem Recht ist Schutzvoraussetzung eine menschliche Schöpfung (§ 2 Abs. 2 UrhG — persönliche geistige Schöpfung). Rein KI-generierte Werke ohne menschlichen schöpferischen Beitrag sind nicht urheberrechtsschutzfähig; eine Rechteübertragungsklausel kann nur Rechte übertragen, die bestehen. Wenn KI-Einsatz wahrscheinlich (Softwareentwicklung, Content, Design): 🟠 Hoch — KI-Nutzungsoffenbarungspflicht und Regelung über KI-Anteile empfehlen.
-
-### Schritt 6: Vermerk zusammenstellen
-
-Format:
-
-```markdown
-[ARBEITSERGEBNIS-KOPFZEILE — gemäß Mandatsprofil]
-
-### IP-Klausel-Prüfung: [Vertragspartner] — [Vertragstyp]
-
-**Geprüft:** [Datum]
-**Position bei IP:** [Rechtegebend / -empfangend / beides]
-**Anwendbares Recht:** [Rechtsordnung]
-
----
-
-## Ergebnis
-
-[Zwei Sätze. Hält die IP-Zuordnung stand? Was muss zuerst geändert werden?]
-
-**Befunde:** [N]🔴 [N]🟠 [N]🟡 [N]🟢
-
-**Genehmigung erforderlich von:** [Name, gemäß Mandatsprofil]
-
----
-
-## Rechteübertragungsprüfung
-
-[✅ Unbedenklich | ⚠️ Lücke vorhanden — siehe oben]
-
----
-
-## Klauseln nach Schweregrad
-
-[Alle Klauselblöcke aus Schritt 3, gruppiert Kritisch → Niedrig]
-
----
-
-## Klausel-übergreifende Konsistenz
-
-[Befunde aus Schritt 4]
-
----
-
-## Rechtsordnungshinweis
-
-[Befunde aus Schritt 5]
-
----
-
-## Weiterleitungshinweise
-
-[Wer genehmigt; was löst automatische Eskalation aus]
-```
-
-## Beispiel
-
-**Eingabe:** Werkvertrag mit einem freien Softwareentwickler, der "alle Urheberrechte an den Arbeitsergebnissen überträgt".
-
-**Befund (Auszug):**
-
-> ### Abschnitt 5.1: Rechteübertragungsklausel
->
-> **Was sie sagt:** "Der Auftragnehmer überträgt alle Urheberrechte an den Arbeitsergebnissen auf den Auftraggeber."
->
-> **Marktstandard:** Einräumung ausschließlicher Nutzungsrechte in allen bekannten und unbekannten Nutzungsarten.
->
-> **Risiko:** 🔴 Kritisch
->
-> **Warum es darauf ankommt:** Urheberrecht ist nach § 29 UrhG nicht übertragbar. Die Klausel erreicht das angestrebte Ziel nicht. In einer Due-Diligence-Prüfung wird dies auffallen.
->
-> **Änderungsvorschlag:**
-> "Der Auftragnehmer räumt dem Auftraggeber hiermit das ausschließliche, räumlich, zeitlich und inhaltlich unbeschränkte Nutzungsrecht an allen im Rahmen dieses Vertrags erstellten Arbeitsergebnissen ein, einschließlich des Rechts zur Bearbeitung und Weiterübertragung sowie zur Einräumung von Unterlizenzen."
-
-## Risiken und typische Fehler
-
-- **§ 29 UrhG übersehen:** "Übertragung des Urheberrechts" ist deutschrechtlich unwirksam — nur Nutzungsrechtseinräumung möglich.
-- **Zweckübertragungslehre nicht beachtet:** Zu eng gefasste Klauseln schränken spätere Nutzungsarten ein (z. B. keine Streaming-Rechte wenn nur "Vervielfältigung" lizenziert).
-- **Urheberpersönlichkeitsrechte ignorieren:** Nichtausübungsabrede vergessen → Risiko späterer Unterlassungsansprüche des Urhebers bei Entstellungen.
-- **KI-generierte Werke:** Unklar ob urheberrechtsschutzfähig; Abtretungsklausel ohne KI-Offenbarungspflicht ist Blindflug.
-- **Arbeitnehmererfindungen:** Ohne formelle Inanspruchnahme nach § 6 ArbnErfG bleiben Patentrechte beim Erfinder — trotz Vertragsklausel.
-
-## Quellenpflicht
-
-Jede Klauselaussage muss auf eine Norm oder Entscheidung gestützt sein. Pflichtquellen:
-
-- **Gesetze:** §§ 29, 31, 31a, 35, 69b UrhG; §§ 15, 22 PatG; § 27 MarkenG; ArbnErfG
-- **Rechtsprechung:** mindestens eine BGH-Entscheidung zur Zweckübertragungslehre oder Nutzungsrechtsreichweite
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Modellannahmen als `[Modellwissen — verifizieren]` kennzeichnen; keine stillen Ergänzungen aus dem Modellwissen ohne Hinweis.
-
-## Triage-Fragen vor IP-Klausel-Prüfung
-
-Bevor die Klauselanalyse beginnt, klaere:
-1. Handelt es sich um eine Nutzungsrechtseinraeumung (§ 31 UrhG) oder eine unzulaessige "Uebertragung des Urheberrechts" (§ 29 UrhG)?
-2. Sind kuenftige Nutzungsarten von der Einraeumung erfasst (§ 31a UrhG — Schriftformerfordernis, Widerrufsrecht)?
-3. Besteht eine Arbeitnehmererfindungs-Komponente (§ 69b UrhG Software, ArbnErfG) die separate Regelung erfordert?
-4. Ist die Zweckuebertragungslehre (§ 31 V UrhG) bei zu engen Klauseln zu beachten?
-
-## Aktuelle Rechtsprechung
-
-<!-- AUDIT 27.05.2026: 4 halluzinierte Leitentscheidungen geprüft und bereinigt.
-Frontmatter unverändert. Kein Commit. Bearbeiter: Halluzinations-Reparatur-Pipeline. -->
+| Widerspruch (§ 924 ZPO) | Starke materielle Einwendungen | Mündliche Verhandlung, Kostenrisiko |
+| Modifizierte UE | Verletzung tatsächlich gegeben, Tenor zu weit | Prozessbeendigung mit Einschränkungen |
+| Vollständige UE | Klare Verletzung, Risiko gering halten | Schnelle Beendigung |
+| Abschlussvereinbarung | Verhandlungsbereitschaft beider Seiten | Kompromisspakete möglich |
+
+### Phase 3 – Widerspruchsstrategie
+
+- **Dringlichkeitsselbstwiderlegung rügen:** Hat Antragsteller zu lange gewartet?
+- **Verfügungsanspruch angreifen:** Schutzrecht ungültig, kein Verstoß, Erschöpfung, Verwirkung.
+- **Verhältnismäßigkeit:** Tenor zu weit; Schaden durch EV größer als Nutzen.
+- **§ 945 ZPO-Drohung:** Auf Schadensersatzanspruch bei ungerechtfertigter EV hinweisen.
+
+## Kosten-Nutzen-Überblick EV
+
+| Szenario | Kosten (ca.) | Erfolgschance | Anmerkung |
+|---|---|---|---|
+| EV mit klarer Beweislage | Gering (Anwaltskosten) | Hoch | Schnelle Durchsetzung |
+| EV mit schwacher Beweislage | Hoch (§ 945 ZPO-Risiko) | Mittel | Sorgfältige Abwägung |
+| Widerspruchsverfahren | Beidseitig hoch | Hälfte/Hälfte | Vergleich oft sinnvoll |
+| Hauptsacheverfahren | Hoch, langwierig | Je nach Fall | Nur bei hohem Streitwert |
+
+## Quellenregel
+
+- [§ 935 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/935.html)
+- [§ 945 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/945.html)
+- [§ 926 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/926.html)
+- BGH-Rechtsprechung zur Dringlichkeit: [bgh.de](https://www.bundesgerichtshof.de); keine BeckRS-Blindzitate.
+- Aktuelle OLG-Praxis zu Gerichtsständen: openjur.de.
+
+## Anschluss-Skills
+
+- `gewr-einstweilige-verfuegung-eilverfahren-spezial` – EV-Antrag im Detail
+- `evvollzug-neu-001` bis `evvollzug-neu-008` – Vollzugsschritte
+- `evvollzug-neu-008` – Schutzschrift (Gegenseite)
+- `spezial-operate-verhandlung-vergleich-und-eskalation` – Vergleichsstrategie
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

@@ -50,7 +50,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- | --- |
 | Fallkern | Abtretung an Fluggastportale | Paragraf 241 Abs. 2 BGB; EuGH C-402/07 (Sturgeon) | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Paragraf 241 Abs. 2 BGB | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Airline-Bonitaet und Vollstreckung | Paragraf 241 Abs. 2 BGB; ] EuGH, Urt. v. 22.12.2008, C-549/07 (Wallentin-Hermann) | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Airline-Bonitaet und Vollstreckung | Paragraf 241 Abs. 2 BGB; EuGH, Urt. v. 13.10.2011, C-83/10 (Sousa Rodríguez) | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -70,10 +70,10 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
 | EuGH C-402/07 (Sturgeon) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | EuGH C-402/07 (Sturgeon) |
-| ] EuGH, Urt. v. 22.12.2008, C-549/07 (Wallentin-Hermann) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | technische Defekte sind grundsätzlich Teil der normalen Tätigkeit eines Luftfahrtunternehmens und kein |
-| ] Ausnahme | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | versteckter Konstruktionsfehler des Herstellers — EuGH, Urt. v. 13.6.2025, C-411/23 (curia.europa.eu) — kann |
-| ] EuGH, Urt. v. 4.5.2017, C-315/15 (Pesková) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Vogelschlag ist grundsätzlich außergewöhnlicher Umstand i.S.v. Art. 5 Abs. 3 VO 261/2004 (curia.europa.eu). Vor Versand |
-| ] EuGH, Urt. v. 16.10.2025, C-399/24 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Blitzschlag mit nachfolgender sicherheitsbedingter Prüfung kann außergewöhnlicher Umstand sein (curia.europa.eu) |
+| EuGH, Urt. v. 13.10.2011, C-83/10 (Sousa Rodríguez) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | eine Umkehr nach Start ohne Erreichen des Zielflughafens ist Annullierung (curia.europa.eu) |
+| EuGH, Urt. v. 9.1.2025, C-394/23 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Vorverlegung um mehr als eine Stunde ist Annullierung (curia.europa.eu) |
+| EuGH, Urt. v. 31.5.2018, C-537/17 (Wegener / Royal Air Maroc) und EuGH, Urt. v. 11.7.2019, C-502/18 (CS | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | bei einheitlicher Buchung von Anschlussflügen kommt es für den Ausgleichsanspruch |
+| EuGH, Urt. v. 21.12.2021, C-146/20, C-188/20, C-196/20 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Vorverlegung um mehr als eine Stunde ist einer Annullierung gleichzustellen (curia.europa.eu) |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -91,10 +91,10 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 ## 8. Leitentscheidungen
 
 - EuGH C-402/07 (Sturgeon)
-- ] EuGH, Urt. v. 22.12.2008, C-549/07 (Wallentin-Hermann) — technische Defekte sind grundsätzlich Teil der normalen Tätigkeit eines Luftfahrtunternehmens und kein außergewöhnlicher Umstand. Volltext
-- ] Ausnahme: versteckter Konstruktionsfehler des Herstellers — EuGH, Urt. v. 13.6.2025, C-411/23 (curia.europa.eu) — kann ausnahmsweise außergewöhnlich sein, auch wenn die Airline Monate vor dem Flug
-- ] EuGH, Urt. v. 4.5.2017, C-315/15 (Pesková) — Vogelschlag ist grundsätzlich außergewöhnlicher Umstand i.S.v. Art. 5 Abs. 3 VO 261/2004 (curia.europa.eu). Vor Versand Volltext aufrufen und Randnummer
-- ] EuGH, Urt. v. 16.10.2025, C-399/24 — Blitzschlag mit nachfolgender sicherheitsbedingter Prüfung kann außergewöhnlicher Umstand sein (curia.europa.eu)
+- EuGH, Urt. v. 13.10.2011, C-83/10 (Sousa Rodríguez) — eine Umkehr nach Start ohne Erreichen des Zielflughafens ist Annullierung (curia.europa.eu)
+- EuGH, Urt. v. 9.1.2025, C-394/23 — Vorverlegung um mehr als eine Stunde ist Annullierung (curia.europa.eu)
+- EuGH, Urt. v. 31.5.2018, C-537/17 (Wegener / Royal Air Maroc) und EuGH, Urt. v. 11.7.2019, C-502/18 (CS Flug) — bei einheitlicher Buchung von Anschlussflügen kommt es für den Ausgleichsanspruch
+- EuGH, Urt. v. 21.12.2021, C-146/20, C-188/20, C-196/20 — Vorverlegung um mehr als eine Stunde ist einer Annullierung gleichzustellen (curia.europa.eu)
 
 ## 9. Prüfraster
 

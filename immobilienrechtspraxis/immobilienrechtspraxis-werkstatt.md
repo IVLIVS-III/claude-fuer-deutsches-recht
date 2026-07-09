@@ -48,7 +48,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Anschluss-Routing | Paragrafen 883, 885, 888, 925, 1113 ff., 1191 ff., 305c Abs. 2, 307; BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Anschluss-Routing | Paragrafen 883, 885, 888, 925, 1113 ff., 1191 ff., 305c Abs. 2, 307; BGH, Urteil vom 09.04.2008 - VIII ZR 84/07, BGH, Urteil | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Paragraf 873 Abs. 1 BGB | Fristenblatt oder Prozess-/Verfahrensroute |
 | Begründetheit | Bauträgerkauf: Eigentumspfad und Freistellung | Paragraf 873 Abs. 1 BGB; BGH, Urteil vom 09.04.2008 - VIII ZR 84/07, BGH, Urteil | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
@@ -69,11 +69,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
 | BGH, Urteil vom 09.04.2008 - VIII ZR 84/07, BGH, Urteil vom 09.12.2020 - VIII ZR 118/19 und BGH, Urteil | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH, Urteil vom 09.04.2008 - VIII ZR 84/07, BGH, Urteil vom 09.12.2020 - VIII ZR 118/19 und BGH, Urteil vom 15.12.2021 |
-| BGH 15.04.2021, V ZB 175/20 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Grundbucheintragung — Bewilligung muss bestimmten Inhalt aufweisen; bei Auflassungsvormerkung Konkretisierung |
-| BGH 17.09.2021, V ZR 12/21 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | WEMoG-Reform; Bauliche Veraenderungen Paragraf 20 WEG; Folgen für Grundbucheintragungen bei Sondernutzungsrechten |
-| BGH 25.02.2016, V ZR 244/14 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Loeschungsfähiges Grundpfandrecht — Voraussetzungen Paragraf 1183 BGB. Quelle: dejure.org/2016.5478 |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -90,11 +86,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 8. Leitentscheidungen
 
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH, Urteil vom 09.04.2008 - VIII ZR 84/07, BGH, Urteil vom 09.12.2020 - VIII ZR 118/19 und BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 nur mit frei prüfbarer Quelle zitieren. Keine BeckRS
-- BGH 15.04.2021, V ZB 175/20: Grundbucheintragung — Bewilligung muss bestimmten Inhalt aufweisen; bei Auflassungsvormerkung Konkretisierung des gesicherten Anspruchs erforderlich. Quelle
-- BGH 17.09.2021, V ZR 12/21: WEMoG-Reform; Bauliche Veraenderungen Paragraf 20 WEG; Folgen für Grundbucheintragungen bei Sondernutzungsrechten. Quelle: dejure.org/2021.30989
-- BGH 25.02.2016, V ZR 244/14: Loeschungsfähiges Grundpfandrecht — Voraussetzungen Paragraf 1183 BGB. Quelle: dejure.org/2016.5478
 
 ## 9. Prüfraster
 

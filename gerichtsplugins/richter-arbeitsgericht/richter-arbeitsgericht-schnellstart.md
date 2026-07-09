@@ -59,8 +59,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14: Vorbeschäftigungsverbot des TzBfG bleibt verfassungskonform, verlangt aber verfassungskonforme Begrenzung in atypischen Faellen.
 - BAG, Urteil vom 27.02.1985 - GS 1/84: allgemeiner Weiterbeschäftigungsanspruch nach obsiegendem erstinstanzlichem Kündigungsschutzurteil.
 - BAG, Beschluss vom 22.10.2014 - 10 AZB 46/14, frei nachweisbar über dejure: Der Rechtsweg zu den Gerichten für Arbeitssachen hängt von Arbeitnehmereigenschaft und Streitgegenstand ab
-- BAG, Urteil vom 06.07.2006 - 2 AZR 442/05, frei nachweisbar über dejure/openJur: Punkteschemata können die Sozialauswahl strukturieren, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten
-- BAG, Urteil vom 29.01.2015 - 2 AZR 164/14, frei nachweisbar über dejure/openJur: Sozialauswahl setzt konkrete Vergleichbarkeit, ordnungsgemäße Gruppenbildung und Bewertung der Schutzwürdigkeit voraus
+- EuGH, Urteil vom 17.07.2008 - C-303/06, Coleman: Diskriminierungsschutz kann auch bei Benachteiligung wegen Nähe zu einer geschützten Person eingreifen
 
 ## 7. Antwortform
 

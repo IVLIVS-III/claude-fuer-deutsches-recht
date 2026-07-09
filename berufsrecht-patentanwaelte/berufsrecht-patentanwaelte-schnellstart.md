@@ -60,7 +60,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
 - BVerfG 1 BvR 2616/17 (Werberecht Patentanwälte)
 - BGH X ZR 117/11 (Patentanwalt-Haftung)
-- Werbung Paragraf 26 PAO nach BVerfG 1 BvR 2616/17 weit, aber sachlich
 
 ## 7. Antwortform
 

@@ -1,41 +1,42 @@
-# Megaprompt: verlagsrecht-buchpreisbindung
+# Vollprüfung: verlagsrecht-buchpreisbindung
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 100 Skills des Plugins `verlagsrecht-buchpreisbindung`.
+Dieser Vollprüfung enthaelt top-10 von 100 Skills des Plugins `verlagsrecht-buchpreisbindung`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt …
-2. **honorar-vorschuss-absatzhonorar-und-abrechnung** — Verlagsrecht: Autorenhonorar, Vorschuss, Absatzhonorar, Nachvergütung und Abrechnungspflicht nach VerlG §§ 22–28, UrhG §…
-3. **abmahnung-buchpreisbindung** — Buchpreisbindungsgesetz: Abmahnung wegen Preisbindungsverstoßes — BuchPrG §§ 9–11, Abmahnung verfassen und beantworten, …
-4. **e-uebersetzungsrechte** — Verlagsrecht: Nutzungsrechte für E-Book, Print, Hörbuch und Audio im Verlagsvertrag — Abgrenzung der Nutzungsarten, Buch…
-5. **preisbindungsstreit-verlegerrecht** — Buchpreisbindungsgesetz: Preisbindungsstreit vor Gericht — Unterlassungsklage, Auskunfts- und Schadensersatzansprüche (B…
-6. **redaktionsvertrag-freelancer-und-arbeitnehmer** — Verlagsrecht: Redaktionsverträge mit Freelancern und Arbeitnehmern — Abgrenzung Werkvertrag, Dienstvertrag, Arbeitsverhä…
-7. **subskriptionspreis-e** — Buchpreisbindungsgesetz: Subskriptionspreise, Einführungspreise und Aktionspreise — BuchPrG § 7 Preisänderung, Fristenre…
-8. **auslandsrechte-rezensionsexemplar** — Verlagsrecht: Auslandsrechte, Sanktionsregimes und Exportkontrolle — EU-Sanktionen, US-OFAC, verbotene Lizenznehmer, Due…
-9. **e-book-preisbindung-und-plattformrabatte** — Buchpreisbindungsgesetz: E-Book-Preisbindung, Plattformgebühren, Rabatte durch Amazon, Apple und andere Anbieter — BuchP…
-10. **presserecht-gegendarstellung-und-unterlassung** — Verlagsrecht: Presserecht, Gegendarstellung und Unterlassungsansprüche — Landespressegesetze, Meinungsfreiheit, Schmähkr…
+1. **kaltstart-triage** — Wenn es um Kaltstart Triage in Verlagsrecht und Buchpreisbindung geht: klärt Rolle, Ziel, Frist, Unterlagen und den pass…
+2. **verlagsmandat-werk-vertrag-vertrieb** — Wenn es um Verl-001 · Kaltstart: Verlagsmandat, Werk, Vertrag, Vertrieb, Preis in Verlagsrecht und Buchpreisbindung geht…
+3. **verl-002-verlagsvertrag-hauptpflichten-rechteuebertragung** — Wenn es um Verlagsrecht: Verlagsvertrag Hauptpflichten Rechteübertragung und Rückruf in Verlagsrecht und Buchpreisbindun…
+4. **e-uebersetzungsrechte** — Wenn es um Verl-006 · E-Book, Print, Hörbuch und Audio: Nutzungsrechte und Preisbindung in Verlagsrecht und Buchpreisbin…
+5. **verl-001-kaltstart-verlagsmandat-werk-vertrag-vertrieb-preis** — Wenn es um Verlagsrecht: Kaltstart Verlagsmandat Werk Vertrag Vertrieb Preis in Verlagsrecht und Buchpreisbindung geht: …
+6. **verl-022-fachbuch-aktualisierung-loseblatt-und-online-datenbank** — Wenn es um Verlagsrecht: Fachbuch Aktualisierung Loseblatt und Online-Datenbank in Verlagsrecht und Buchpreisbindung geh…
+7. **autor-herausgeber-mitwirkende-rechtekette** — Wenn es um Verl-003 · Autor, Herausgeber, Mitwirkende: Rechtekette im Sammelwerk in Verlagsrecht und Buchpreisbindung ge…
+8. **verlagsvertrag-redaktionsvertrag** — Wenn es um Verl-002 · Verlagsvertrag: Hauptpflichten, Rechteübertragung, Rückruf in Verlagsrecht und Buchpreisbindung ge…
+9. **verl-004-manuskriptablieferung-abnahme-lektorat-und-verzug** — Wenn es um Verlagsrecht: Manuskriptablieferung Abnahme Lektorat und Verzug in Verlagsrecht und Buchpreisbindung geht: ze…
+10. **verl-025-verlagsinsolvenz-rechte-rueckfall-und-lagerbestand** — Wenn es um Verlagsrecht: Verlagsinsolvenz Rechte Rückfall und Lagerbestand in Verlagsrecht und Buchpreisbindung geht: ze…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext ordnet der Ski..._
+_Wenn es um Kaltstart Triage in Verlagsrecht und Buchpreisbindung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Verlagsrecht Buchpreisbindung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Schnellstart-Workflow
 
@@ -61,304 +62,170 @@ Tragende Anker: VerlG, BuchPrG, UrhG §§ 32, 32a, 40. Tatsächliche Fundstellen
 
 ---
 
-## Skill: `honorar-vorschuss-absatzhonorar-und-abrechnung`
+## Skill: `verlagsmandat-werk-vertrag-vertrieb`
 
-_Verlagsrecht: Autorenhonorar, Vorschuss, Absatzhonorar, Nachvergütung und Abrechnungspflicht nach VerlG §§ 22–28, UrhG §§ 32 und 32a und 32d — Berechnung, Angemessenheit und Auskunft im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprec..._
+_Wenn es um Verl-001 · Kaltstart: Verlagsmandat, Werk, Vertrag, Vertrieb, Preis in Verlagsrecht und Buchpreisbindung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Verl-005 · Honorar, Vorschuss, Absatzhonorar und Abrechnung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+# Verl-001 · Kaltstart: Verlagsmandat, Werk, Vertrag, Vertrieb, Preis
 
 ## Zweck dieses Skills
 
-Klärt alle vergütungsrechtlichen Fragen im Verlagsvertrag: Wie wird das Honorar berechnet? Was gilt als angemessene Vergütung? Wann ist ein Vorschuss fällig? Wie funktioniert die Absatzhonorar-Abrechnung? Wann entsteht ein Nachvergütungsanspruch (Bestseller-Paragraf)? Grundlage sind VerlG §§ 22–28 und UrhG §§ 32, 32a, 32d.
+Eingangspunkt für alle verlagsrechtlichen Mandate dar. Er klärt in einem strukturierten Aufnahme-Gespräch, welches Werk, welcher Vertragstyp, welcher Vertriebsweg und welche Preisbindungssituation vorliegen – bevor irgendeine inhaltliche Bewertung beginnt. Ohne diese Grundlage laufen spätere Prüfschritte ins Leere oder produzieren fehlerhafte Ergebnisse.
 
-## Rechtsgrundlagen
+## Rechtsgrundlagen (Normenrahmen)
 
-| Norm | Inhalt | Quelle |
-|------|--------|-------|
-| VerlG § 22 | Honoraranspruch des Autors; Entstehung | https://www.gesetze-im-internet.de/verlg/__22.html |
-| VerlG § 23 | Berechnung des Honorars nach Auflage | https://www.gesetze-im-internet.de/verlg/__23.html |
-| VerlG § 24 | Abrechnung: Fristen und Form | https://www.gesetze-im-internet.de/verlg/__24.html |
-| VerlG § 28 | Neue Auflagen: neuer Honoraranspruch | https://www.gesetze-im-internet.de/verlg/__28.html |
-| UrhG § 32 | Angemessene Vergütung; Anpassungsanspruch | https://dejure.org/gesetze/UrhG/32.html |
-| UrhG § 32a | Nachvergütung bei besonderem Erfolg | https://dejure.org/gesetze/UrhG/32a.html |
-| UrhG § 32d | Auskunftsanspruch des Urhebers | https://dejure.org/gesetze/UrhG/32d.html |
-| UrhG § 36 | Gemeinsame Vergütungsregeln | https://dejure.org/gesetze/UrhG/36.html |
-| DSM-RL Art. 18 | Angemessenheitsprinzip für Urheber | https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0790 |
-| DSM-RL Art. 20 | Vertragsanpassungsmechanismus | https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0790 |
+| Norm | Inhalt | Fundstelle |
+|------|--------|-----------|
+| VerlG § 1 | Definition Verlagsvertrag: Verlagswerk, Pflicht zur Vervielfältigung und Verbreitung | https://www.gesetze-im-internet.de/verlg/BJNR000800901.html |
+| VerlG § 2 | Hauptpflicht des Autors: Manuskriptablieferung in vereinbarter Form und Frist | https://www.gesetze-im-internet.de/verlg/BJNR000800901.html |
+| UrhG § 31 | Rechteeinräumung: einfache und ausschließliche Nutzungsrechte | https://www.gesetze-im-internet.de/urhg/__31.html |
+| UrhG § 32 | Angemessene Vergütung: gemeinsame Vergütungsregeln, Anpassungsanspruch | https://dejure.org/gesetze/UrhG/32.html |
+| BuchPrG § 3 | Preisbindungspflicht des Verlegers und Importeurs | https://www.gesetze-im-internet.de/buchprg/BJNR344810002.html |
+| BuchPrG § 5 | Bindung des Letztabnehmers an den festgesetzten Ladenpreis | https://www.gesetze-im-internet.de/buchprg/__5.html |
 
-## Honorartypen im Überblick
+## Kaltstart-Fragebogen (7 Dimensionen)
 
-### 1. Pauschalhonorar
-- Einmalige Zahlung für alle Nutzungen oder eine bestimmte Auflage.
-- Vorteil für Verlag: Planungssicherheit.
-- Risiko für Autor: Kein Nachvergütungsanspruch, es sei denn, § 32a UrhG greift.
+### 1. Werkkategorie
+- Ist das Werk ein Sprachwerk (Roman, Sachbuch, Fachbuch), ein Sammelwerk, ein Datenbankwerk oder ein Übersetzungswerk?
+- Liegt ein Erst- oder Folgewerk vor (Reihe, Neuauflage, Überarbeitung)?
+- Gibt es Drittmaterial (Fotos, Tabellen, Karten, Zitate > § 51 UrhG), das eigenständige Nutzungsrechte erfordert?
 
-### 2. Absatzhonorar (Tantieme)
-- Prozentualer Anteil am **Nettoladenpreis** (NLP) jedes verkauften Exemplars.
-- Übliche Sätze nach gemeinsamen Vergütungsregeln (VS/Verleger):
- - Hardcover: 10–15 % NLP
- - Taschenbuch: 6–10 % NLP
- - E-Book: 20–25 % NLP (abhängig von Plattformgebühren)
-- Berechnung: Menge × NLP × Prozentsatz = Honorar je Abrechnung.
+### 2. Vertragstyp und Rechtelage
+- Liegt ein Verlagsvertrag i.S.v. § 1 VerlG vor, oder handelt es sich um einen Lizenzvertrag, Agenturvertrag, Werkvertrag oder Dienstvertrag?
+- Welche Nutzungsarten sind übertragen (§ 31 Abs. 1 UrhG): print, digital, Hörbuch, Film, Übersetzung, Nebenrechte?
+- Ist die Übertragung exklusiv (ausschließlich) oder nicht-exklusiv (einfach)?
+- Gibt es Rückruf- oder Neuverhandlungsklauseln (VerlG § 17, UrhG § 41)?
 
-### 3. Auflagenhonorar
-- Pauschalzahlung pro Auflage oder pro 1.000 Exemplare (VerlG § 23).
-- Neue Auflage → neuer Honoraranspruch (VerlG § 28).
+### 3. Parteienrolle
+- Wer ist Auftraggeber: Autor, Übersetzer, Herausgeber, Verlag, Buchhandlung, Bibliothek, Investor, Anwalt?
+- Ist der Verlag Erst- oder Folgeverlag (Lizenzgeber/nehmer)?
+- Gibt es eine Literaturagentur und welche Vollmacht hat sie?
 
-### 4. Vorschuss (Advance)
-- Zahlung bei Vertragsabschluss oder Manuskriptablieferung gegen zukünftige Honorare.
-- Wird gegen zukünftige Tantiemen verrechnet (earn-out); nicht zurückzahlbar, sofern der Verlag das Werk erscheinen lässt (übliche Vertragsklausel).
-- Rückzahlungspflicht: Nur bei Rücktritt wegen Autoren-Verschuldens; streitig bei Nichterscheinen des Verlags.
+### 4. Vertriebswege und Erscheinungsformen
+- Print (Hardcover, Paperback, Taschenbuch), E-Book, PDF, Hörbuch, Streaming, Bundle?
+- Vertrieb über Buchhandel, Direktvertrieb, Amazon Marketplace, Bibliothekslieferer, Schulbuchhandel?
+- Gilt die deutsche Buchpreisbindung (BuchPrG)? Maßgeblich: Ort des Erscheinens oder Importeurs.
 
-## Angemessene Vergütung (§ 32 UrhG)
+### 5. Preisstruktur
+- Ist ein Ladenpreis bereits festgesetzt (§ 3 BuchPrG)? Wann? Durch wen?
+- Gibt es Sonderaktionen, Mengenrabatte, Bibliothekspreise oder Schulbuchkonditionen?
+- E-Book-Preis: eigenständige Festsetzung oder abgeleiteter Printpreis?
 
-### Prüfungsmaßstab
-1. **Gemeinsame Vergütungsregeln** (§ 36 UrhG): Zwischen Berufsverbänden (VS — Verband der Schriftsteller, Verleger-Verbände) ausgehandelte Tarife gelten als Richtsatz.
-2. **Branchenübliche Vergütung**: Wenn keine gemeinsamen Vergütungsregeln, dann Vergleich mit branchenüblicher Praxis.
-3. **Anpassungsanspruch**: Ist vereinbarte Vergütung unangemessen niedrig → Autor kann Anpassung auf angemessene Vergütung verlangen (kein Rücktritt nötig).
+### 6. Fristen und Verfahrensstatus
+- Läuft eine Abgabefrist für das Manuskript (§ 2 VerlG)?
+- Ist eine Abmahnung oder eine Klage wegen Preisbindungsverstoß anhängig (BuchPrG §§ 9–11)?
+- Steht ein Vertragsende, eine Rückrufankündigung oder eine Insolvenz bevor?
 
-### Berechnung der Unangemessenheit
-- Verhältnis: vereinbarte Vergütung zu erzieltem Erlös des Verlags aus Werknutzung.
-- BGH-Rechtsprechung: „Auffälliges Missverhältnis" bei Abweichung > 100 % gegenüber angemessenem Wert (BGH „Bestseller", I ZR 174/18).
+### 7. Gewünschter Output
+- Vertragscheck / Redline
+- Preisbindungs-Ampel
+- Rechtekettenmatrix
+- Fristenplan
+- Entwurf: Autorenschreiben, Verlagsschreiben, Abmahnantwort
+- Dashboard für laufendes Verlagsprogramm
 
-## Nachvergütung (§ 32a UrhG — Bestseller-Paragraf)
+## Prüfprogramm
 
-### Voraussetzungen
-- Vereinbarte Vergütung steht in **auffälligem Missverhältnis** zu tatsächlichen Erträgen.
-- „Auffällig" = erhebliche Überschreitung der Erwartungen beim Vertragsabschluss.
-- Erträge des Verlags aus Werknutzung (Tantiemen aus Lizenzen, Verlagserlös etc.) müssen bekannt oder ermittelbar sein.
+1. **Werkqualifikation**: Schriftwerk nach § 2 Abs. 1 Nr. 1 UrhG? Schöpfungshöhe bejaht?
+2. **Vertragstyp-Abgrenzung**: VerlG-Verlag vs. Herstellungsvertrag vs. Eigenverlag vs. Self-Publishing-Plattform
+3. **Rechtelücken**: Welche Nutzungsarten fehlen? Unbekannte Nutzungsarten (§ 31a UrhG)?
+4. **Vergütungsangemessenheit**: Ist die vereinbarte Vergütung im Licht der gemeinsamen Vergütungsregeln (VS/Verleger-Verbände) angemessen (§ 32 UrhG)?
+5. **Buchpreisbindungs-Status**: Unterliegt jede Ausgabe der Preisbindung? Ausnahmen (§ 6 BuchPrG) belegt?
+6. **Fristenübersicht**: Manuskriptabgabe, Erscheinungstermin, Abrechnungsfristen, Widerruf- und Rückruffristen
 
-### Geltendmachung
-- Schriftliche Geltendmachung gegenüber Verlag.
-- Ggf. vorherige Auskunft nach § 32d UrhG.
-- Klage auf Abänderung des Vertrags auf angemessene Beteiligung.
+## Typische Fallen beim Kaltstart
 
-## Auskunftsanspruch (§ 32d UrhG)
-
-- Autor kann **jährlich** Auskunft verlangen: Art und Umfang der Nutzung, Erlöse, weitere Sublizenzen.
-- Gilt auch für Urheber, die Rechte an Verleger weiterübertragen haben (Kette).
-- **DSM-RL Art. 19**: Stärkung des Transparenzanspruchs auf EU-Ebene; Mitgliedstaaten müssen angemessene Auskunftsmechanismen bereitstellen.
-- Klagerecht: Bei Verweigerung der Auskunft → Auskunftsklage; ggf. Stufenklage (Auskunft + Zahlung).
-
-## Abrechnungspflicht (VerlG § 24)
-
-- Verlag muss **mindestens einmal jährlich** abrechnen (VerlG § 24), bei Absatzhonorar detailliert nach Ausgaben, Mengen, Preisen.
-- Abrechnung muss enthalen: Auflage, verkaufte Exemplare, Remittenden, Belegexemplare, Freiexemplare, Nettoladenpreis, Honorarsatz.
-- **Einsichtsrecht**: Autor kann Belegeinsicht in Verlagsbücher verlangen (§ 24 VerlG analog § 810 BGB).
-- Frist für Einwände: Üblich 3–6 Monate nach Zugang der Abrechnung; Einwände schriftlich.
-
-## Typische Fallen
-
-- **Pauschalhonorare unterschätzen den Werterfolg**: Autor erhält einmalig Pauschale; bei Bestseller-Erfolg greift § 32a UrhG.
-- **Verjährung der Auskunftsansprüche**: §§ 195, 199 BGB; regelmäßige Verjährungsfrist 3 Jahre ab Jahresende; monatliche Abrechnung schafft keine rückwirkenden Ansprüche.
-- **NLP vs. Bruttoladenpreis**: MwSt. ist kein Teil des NLP; viele Verträge rechnen unklar; Klarheit verlangen.
-- **Remittenden abgezogen**: Verlag darf nur tatsächlich remittierte Exemplare abziehen; fiktive Remittenden-Rückstellungen sind unzulässig.
-- **Sublizenzerlöse vergessen**: Übersetzungslizenzen, Film-Optionen, E-Book-Plattform-Tantiemen — alle müssen in § 32d-Auskunft erscheinen.
-
-## Checkliste Honorarprüfung
-
-- [ ] Honorartyp (Pauschale, Absatz, Auflage) klar vereinbart
-- [ ] Berechnungsbasis (NLP, gebundener Ladenpreis) definiert
-- [ ] Abrechnungsrhythmus (mindestens jährlich) vereinbart
-- [ ] Vorschuss: earn-out-Mechanismus und Rückzahlungsklausel geprüft
-- [ ] § 32a UrhG Nachvergütungsklausel oder Ausschlussklausel geprüft
-- [ ] § 32d Auskunftsrecht explizit geregelt
-- [ ] Sublizenz-Beteiligungsquote vereinbart
+- **Falsche Vertragstyp-Einordnung**: Ein „Verlagsvertrag" ohne Erscheinungspflicht ist kein VerlG-Vertrag; es gelten andere Regeln.
+- **Stille Nutzungsarten-Übertragung**: „Alle Rechte"-Klauseln übertragen nach § 31 Abs. 5 UrhG nur die erkennbar benötigten Nutzungsarten.
+- **Preisbindung übersehen**: Self-Publishing-Plattformen (BoD, KDP) unterliegen bei deutschem Erscheinungsort ebenfalls der Preisbindung.
+- **Fehlende Agenturvollmacht**: Agenturverträge ohne schriftliche Vollmacht können Verlagsverträge schwebend unwirksam machen.
+- **Keine Fristnotiz**: Ohne notierte Abgabe- und Erscheinungsfristen fehlt die Grundlage für Verzugsschreiben.
 
 ## Quellenreferenzen
 
-- VerlG §§ 22–28: https://www.gesetze-im-internet.de/verlg/
-- UrhG § 32: https://dejure.org/gesetze/UrhG/32.html
-- UrhG § 32a: https://dejure.org/gesetze/UrhG/32a.html
-- UrhG § 32d: https://dejure.org/gesetze/UrhG/32d.html
-- BGH „Klauseltausch" I ZR 174/18: https://www.bgh.de
-- DSM-RL Art. 18–20: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0790
-- Börsenverein Honorartarife: https://www.boersenverein.de
+- Gesetze-im-Internet, VerlG: https://www.gesetze-im-internet.de/verlg/
+- Gesetze-im-Internet, BuchPrG: https://www.gesetze-im-internet.de/buchprg/
+- Dejure, UrhG § 31: https://dejure.org/gesetze/UrhG/31.html
+- Dejure, UrhG § 32: https://dejure.org/gesetze/UrhG/32.html
+- Börsenverein, Buchpreisbindung: https://www.boersenverein.de/themen-positionen/buchmarkt/buchpreisbindung/
 
 ## Output-Formate
 
-- **Honorarberechnungssheet**: Absatzhonorar nach Auflagen und Ausgaben
-- **Angemessenheitsprüfung**: Vergleich mit gemeinsamen Vergütungsregeln
-- **Auskunftsschreiben** nach § 32d UrhG
-- **Nachvergütungsklage-Vorprüfung**: Missverhältnis-Berechnung
-- **Abrechnungsrüge**: Formelles Einwandsschreiben gegen Verlagsabrechnung
+- **Ampel**: Grün/Gelb/Rot je Dimension (Vertrag, Rechte, Preis, Fristen)
+- **Rechtekettenmatrix**: Tabelle aller Nutzungsarten mit Inhaberschaft und Lücken
+- **Fristenplan**: Alle laufenden und bevorstehenden Fristen mit Handlungsbedarf
+- **Verlagsbrief-Entwurf**: Musteranschreiben für erste Kontaktaufnahme oder Klärung
+- **Checkliste für Vollständigkeit der Unterlagen**
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
-## Skill: `abmahnung-buchpreisbindung`
+## Skill: `verl-002-verlagsvertrag-hauptpflichten-rechteuebertragung`
 
-_Buchpreisbindungsgesetz: Abmahnung wegen Preisbindungsverstoßes — BuchPrG §§ 9–11, Abmahnung verfassen und beantworten, Unterlassungserklärung, Schadensersatz und Prozessstrategie im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprec..._
+_Wenn es um Verlagsrecht: Verlagsvertrag Hauptpflichten Rechteübertragung und Rückruf in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Verl-041 · Abmahnung Buchpreisbindung
+# Verlagsrecht: Verlagsvertrag Hauptpflichten Rechteübertragung und Rückruf
 
-## Arbeitsweg
+## Aufgabe
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Dieser Skill bearbeitet **Verlagsvertrag Hauptpflichten Rechteübertragung und Rückruf** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
-## Zweck dieses Skills
+## Kaltstart in 6 Fragen
 
-Abmahnungen wegen Buchpreisbindungsverstößen sind das häufigste Durchsetzungsinstrument im deutschen Buchhandel. Kläre, wie eine wirksame Abmahnung aussieht, wie Empfänger reagieren sollten und welche Kosten und Risiken auf beiden Seiten entstehen.
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
 
-## Rechtsgrundlagen
+## Prüfprogramm
 
-| Norm | Inhalt | Quelle |
-|------|--------|-------|
-| BuchPrG § 9 Abs. 1 | Unterlassungsanspruch gegen Preisbindungsverstoß | https://www.gesetze-im-internet.de/buchprg/__9.html |
-| BuchPrG § 9 Abs. 2 | Schadensersatzanspruch | https://www.gesetze-im-internet.de/buchprg/__9.html |
-| BuchPrG § 10 | Klageberechtigung des Börsenvereins | https://www.gesetze-im-internet.de/buchprg/__10.html |
-| BuchPrG § 11 | Einstweiliger Rechtsschutz | https://www.gesetze-im-internet.de/buchprg/__11.html |
-| BuchPrG § 13 | Bußgeld: bis 5.000 € | https://www.gesetze-im-internet.de/buchprg/__13.html |
-| UWG § 13 | Abmahnkosten: Erstattungspflicht | https://dejure.org/gesetze/UWG/13.html |
-| ZPO § 935 | Einstweilige Verfügung | https://dejure.org/gesetze/ZPO/935.html |
-
-## Wer kann abmahnen?
-
-### Aktivlegitimation (§ 9 BuchPrG)
-- **Verleger**: Direkter Anspruch gegen jeden Händler, der Bücher unter dem festgesetzten Preis verkauft.
-- **Importeur**: Bei Importen.
-- **Buchhandel**: Mitbewerber, der durch den Verstoß benachteiligt wird.
-- **Börsenverein des Deutschen Buchhandels e.V.** (§ 10 BuchPrG): Besonderes Klagerecht; kann unabhängig von eigenem Schaden vorgehen.
-
-### Abgemahnt werden kann
-- Buchhandlungen, Online-Händler, Amazon-Marketplace-Händler.
-- Verlage (wenn sie selbst Preisbindung nicht korrekt festsetzen).
-- Importeure ohne eigene Preisfestsetzung.
-
-## Aufbau einer wirksamen Abmahnung
-
-### Mindestinhalte
-1. **Absender**: Vollständiger Name, Adresse, Vertreter (ggf. Rechtsanwalt).
-2. **Adressat**: Vollständige Firmierung des Verletzers.
-3. **Verstoßbeschreibung**: Konkreter Titel (ISBN), festgesetzter Ladenpreis, angebotener Preis, Datum und URL des Angebots.
-4. **Verstoßgrundlage**: BuchPrG §§ 3, 5; Verletzungstatbestand klar benennen.
-5. **Unterlassungsaufforderung**: Aufforderung, den Verstoß sofort zu beenden und künftig zu unterlassen.
-6. **Vertragsstrafe**: Unterlassungserklärung mit Vertragsstrafe für Wiederholung; Höhe nennen (empfohlen: 5.000–10.000 € pro Verstoß).
-7. **Kostenforderung**: Anwaltskosten; Streitwert für Kostenberechnung.
-8. **Frist**: Kurze Frist für Reaktion (24–72 Stunden bei dringendem Online-Verstoß; 5–7 Werktage sonst).
-
-### Dokumentation des Verstoßes
-- Screenshot des Angebots mit URL, Datum, Uhrzeit.
-- VLB-Ausdruck: Nachweis des festgesetzten Ladenpreises.
-- Testbestellung: Quittung über tatsächlichen Kaufpreis (wenn physischer Kauf).
-
-## Reaktion auf eine empfangene Abmahnung
-
-### Optionen
-1. **Unterlassungserklärung unterzeichnen**: Verstoß eingestehen; Vertragsstrafe bei Wiederholung akzeptieren; Kosten zahlen.
- - Vorteil: Schnelle Erledigung; Schutz vor teurerer einstweiliger Verfügung.
- - Risiko: Vertragsstrafe bei späterem Verstoß; Eingeständnis für Schadensersatzklage.
-
-2. **Modifizierte Unterlassungserklärung**: Unterlassung erklären, aber Vertragsstrafe-Höhe oder Formulierung modifizieren.
- - Abmahner muss neue Formulierung akzeptieren oder Verfügung beantragen.
-
-3. **Ablehnen**: Abmahner trägt dann Risiko und muss einstweilige Verfügung beantragen.
- - Nur sinnvoll, wenn Abmahnung offensichtlich unbegründet oder Verstoß nicht vorlag.
-
-4. **Schutzschrift**: Beim zuständigen Gericht einreichen, um Gegendarstellung bei Verfügungsantrag zu sichern.
-
-### Frist und Dringlichkeit
-- Abmahnungen mit kurzen Fristen (24–48 h): Anwalt sofort einschalten.
-- Nach Verfügungserlass: Widerspruch innerhalb von 2 Wochen (§ 924 ZPO).
-
-## Kosten der Abmahnung
-
-### Anwaltskosten (nach RVG)
-- Streitwert typisch 15.000–30.000 € für Buchpreisbindungsabmahnung.
-- Anwaltsgebühren (1,3-fache Geschäftsgebühr): Bei Streitwert 30.000 € ca. 1.000–1.500 € netto.
-- Der Abgemahnte muss die Kosten des Abmahnenden erstatten, wenn die Abmahnung berechtigt ist.
-
-### Vertragsstrafe bei Wiederholung
-- Einmal unterschriebene Unterlassungserklärung; jeder weitere Verstoß: Vertragsstrafe.
-- Vertragsstrafe muss bezahlt werden, auch ohne Klage; bei Nicht-Zahlung: Klage auf Vertragsstrafe.
-
-## Börsenverein: Massenabmahnungen
-
-- Börsenverein mahnt jährlich Dutzende von Händlern ab.
-- Kontakt für Verstoß-Meldungen: preisbindung@boersenverein.de
-- Verlag kann Verstoß melden; Börsenverein mahnt im eigenen Namen ab → Kosten trägt Börsenvereins-Fonds.
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
+- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
+- Rechtekette und Drittmaterial zuerst klären
+- Keine Verlags-/Literaturfundstellen erfinden
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
 
 ## Typische Fallen
 
-- **Abmahnung ohne Quellennachweis**: Abmahnung ohne Screenshot und VLB-Ausdruck → angreifbar; Abgemahnter kann Vollständigkeit bestreiten.
-- **Falsche Fristlänge**: Abgemahnte hat 24 Stunden Frist erhalten; Anwalt ist im Urlaub; Einstweilige Verfügung wird beantragt → keine Fristverlängerung ohne Zustimmung.
-- **Modifizierte Unterlassungserklärung abgelehnt**: Abmahner besteht auf Original-Formulierung; Verfahren eskaliert → Kosten steigen.
-- **Wiederholungsverstoß**: Händler hat Unterlassungserklärung unterschrieben; Amazon-Algorithmus senkt Preis erneut → Vertragsstrafe fällig; Händler muss Amazon sofort anschreiben.
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
-## Checkliste Abmahnung
+## Output
 
-### Abmahnender
-- [ ] Verstoß-Screenshot mit URL, Datum, Preis dokumentiert
-- [ ] VLB-Ausdruck: Festgesetzter Ladenpreis belegt
-- [ ] Adressat korrekt identifiziert (Handelsregistereintrag prüfen)
-- [ ] Abmahnung vollständig (alle Pflichtangaben)
-- [ ] Frist angemessen gesetzt
-- [ ] Kosten berechnet und genannt
+- Vertragsredline
+- Preisbindungscheck
+- Rechtekettenmatrix
+- Autorenmail
+- Abmahnantwort
+- Verlagsmemo
 
-### Abgemahnter
-- [ ] Anwalt sofort einschalten (auch bei kurzer Frist)
-- [ ] Verstoß-Sachverhalt intern klären
-- [ ] Optionen abgewogen (unterzeichnen / ablehnen / modifizieren)
-- [ ] Schutzschrift vorbereiten (falls Ablehnung)
-- [ ] Amazon / Plattform sofort instruieren, Preis zu korrigieren
-
-## Quellenreferenzen
-
-- BuchPrG §§ 9–11: https://www.gesetze-im-internet.de/buchprg/
-- UWG § 13 (Abmahnkosten): https://dejure.org/gesetze/UWG/13.html
-- BGH „Buchpreisbindung Abmahnung" I ZR 173/09: https://www.bgh.de
-- Börsenverein, Preisbindungsdurchsetzung: https://www.boersenverein.de
-- ZPO §§ 935 ff.: https://dejure.org/gesetze/ZPO/935.html
-
-## Output-Formate
-
-- **Abmahnungs-Entwurf**: Vollständige, juristische korrekte Abmahnung
-- **Dokumentations-Paket**: Screenshot, VLB-Ausdruck, Zeitstempel
-- **Unterlassungserklärung**: Standardformulierung mit Vertragsstrafe
-- **Ablehnungs-Schreiben**: Wenn Abmahnung unbegründet
-- **Schutzschriften-Entwurf**: Für zuständiges Gericht
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 41 UrhG
-- § 32d UrhG
-- § 32a UrhG
-- § 6 BuchPrG
-- § 32 UrhG
-- § 7 BuchPrG
-- § 38 UrhG
-- § 3 BuchPrG
-- § 31 UrhG
-- § 4 UrhG
-- § 14 UrhG
-- § 51 UrhG
-
-### Leitentscheidungen
-
-- EuGH C-174/15
-- BGH I ZR 198/13
-- BGH I ZR 136/20
-- EuGH C-299/23
-- EuGH C-202/12
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
 ## Skill: `e-uebersetzungsrechte`
 
-_Verlagsrecht: Nutzungsrechte für E-Book, Print, Hörbuch und Audio im Verlagsvertrag — Abgrenzung der Nutzungsarten, Buchpreisbindung je Ausgabe, Plattformverträge und Lizenzketten im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprec..._
+_Wenn es um Verl-006 · E-Book, Print, Hörbuch und Audio: Nutzungsrechte und Preisbindung in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Verl-006 · E-Book, Print, Hörbuch und Audio: Nutzungsrechte und Preisbindung
 
@@ -477,427 +344,124 @@ Verlage müssen für jede **Ausgabeform** (Print, E-Book, Hörbuch, Audiostream,
 - **Checkliste unbekannte Nutzungsarten** für Altverträge (§ 31a UrhG)
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
-## Skill: `preisbindungsstreit-verlegerrecht`
+## Skill: `verl-001-kaltstart-verlagsmandat-werk-vertrag-vertrieb-preis`
 
-_Buchpreisbindungsgesetz: Preisbindungsstreit vor Gericht — Unterlassungsklage, Auskunfts- und Schadensersatzansprüche (BuchPrG §§ 9–11), Gerichtszuständigkeit und Prozessstrategie im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprec..._
+_Wenn es um Verlagsrecht: Kaltstart Verlagsmandat Werk Vertrag Vertrieb Preis in Verlagsrecht und Buchpreisbindung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Verl-042 · Preisbindungsstreit: Unterlassung und Auskunft
+# Verlagsrecht: Kaltstart Verlagsmandat Werk Vertrag Vertrieb Preis
 
-## Arbeitsweg
+## Aufgabe
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Dieser Skill bearbeitet **Kaltstart Verlagsmandat Werk Vertrag Vertrieb Preis** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
-## Zweck dieses Skills
+## Kaltstart in 6 Fragen
 
-Führt durch das **gerichtliche Verfahren** bei Preisbindungsstreitigkeiten: Unterlassungsklage, einstweilige Verfügung, Auskunftsanspruch und Schadensersatz. Er klärt Zuständigkeiten, Fristen, Beweisanforderungen und strategische Optionen für Verlage und Buchhandel.
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
 
-## Rechtsgrundlagen
+## Prüfprogramm
 
-| Norm | Inhalt | Quelle |
-|------|--------|-------|
-| BuchPrG § 9 | Unterlassungs- und Schadensersatzansprüche | https://www.gesetze-im-internet.de/buchprg/__9.html |
-| BuchPrG § 10 | Klageberechtigung Börsenverein | https://www.gesetze-im-internet.de/buchprg/__10.html |
-| BuchPrG § 11 | Einstweiliger Rechtsschutz | https://www.gesetze-im-internet.de/buchprg/__11.html |
-| ZPO §§ 935–945 | Einstweilige Verfügung | https://dejure.org/gesetze/ZPO/935.html |
-| ZPO § 890 | Vollstreckung: Ordnungsgeld, Ordnungshaft | https://dejure.org/gesetze/ZPO/890.html |
-| GKG | Gerichtskostengesetz: Streitwert und Gerichtskosten | https://www.gesetze-im-internet.de/gkg/ |
-
-## Gerichtszuständigkeit
-
-### Sachliche Zuständigkeit
-- Preisbindungssachen: Landgericht (LG) als erstinstanzliches Gericht (§ 13 GVG i.V.m. BuchPrG).
-- Keine Amtsgerichts-Zuständigkeit.
-
-### Örtliche Zuständigkeit
-- **Allgemeiner Gerichtsstand**: Am Sitz des Beklagten (§ 17 ZPO).
-- **Besonderer Gerichtsstand für unerlaubte Handlungen** (§ 32 ZPO): Auch am Ort des Verstoßes (Lieferort, Serverstandort bei Online-Verstoß).
-- Vorzugsgerichte für Buchpreisbindung: LG Frankfurt am Main, LG Hamburg, LG München I — erfahrene Kammern für Preisbindungssachen.
-
-## Einstweilige Verfügung (§ 11 BuchPrG i.V.m. ZPO §§ 935 ff.)
-
-### Voraussetzungen
-- **Verfügungsanspruch**: Glaubhaftmachung des Preisbindungsverstoßes.
-- **Verfügungsgrund (Dringlichkeit)**: Online-Verstoß löst i.d.R. Dringlichkeit aus; 1-Monat-Frist ab Kenntnis (Dringlichkeitsvermutung erschüttert bei längerem Zuwarten).
-
-### Verfahren
-1. Antrag beim LG; kein zwingender Anwaltszwang, aber praktisch notwendig.
-2. Antragsteller legt eidesstattliche Versicherung bei (statt Zeugenbeweis).
-3. Gericht entscheidet ohne mündliche Verhandlung (ex parte) oder mit kurzer Verhandlung.
-4. Beschluss ergeht innerhalb von Tagen; Zustellung an Beklagten durch Gerichtsvollzieher.
-
-### Vollstreckung (§ 890 ZPO)
-- Zuwiderhandlung gegen Verfügung: Ordnungsgeld bis 250.000 €; Ordnungshaft bis 6 Monate.
-- Antrag auf Ordnungsmittel beim LG nach festgestelltem Verstoß.
-
-### Widerspruch (§ 924 ZPO)
-- Beklagter kann Widerspruch einlegen; dann mündliche Verhandlung.
-- Widerspruchsfrist: 2 Wochen.
-
-## Hauptsacheverfahren
-
-### Unterlassungsklage
-- Klage auf dauerhafte Unterlassung des Preisbindungsverstoßes.
-- Streitwert: Typisch 15.000–30.000 € für Buchpreisbindungssachen.
-- Beweislast: Kläger muss Verstoß beweisen; Beklagter muss Rechtmäßigkeit (z.B. Ausnahme § 6 BuchPrG) beweisen.
-
-### Schadensersatz (§ 9 Abs. 2 BuchPrG)
-- Voraussetzung: Verschulden des Verletzers.
-- Berechnung:
- - Entgangener Gewinn des Klägers (schwer zu beziffern).
- - Lizenzanalogie: Welche Lizenz hätte Verletzer zahlen müssen?
- - Verletzergewinn: Wie viel hat Verletzer durch den Verstoß verdient?
-- Auskunftsanspruch: Kläger kann Auskunft über Umfang des Verstoßes verlangen (Stufenklage).
-
-## Auskunftsanspruch
-
-### Anspruchsgrundlage
-- § 9 BuchPrG i.V.m. allgemeinem Auskunftsanspruch.
-- Auskunft über: Anzahl verkaufter Exemplare unter dem gebundenen Preis; erzielte Preise; Herkunft der Exemplare.
-
-### Stufenklage (ZPO § 254)
-1. Stufe 1: Auskunft über Umfang des Verstoßes.
-2. Stufe 2: Eidesstattliche Versicherung der Richtigkeit der Auskunft.
-3. Stufe 3: Zahlung des sich aus der Auskunft ergebenden Schadensersatzbetrags.
-
-## Prozessstrategie
-
-### Für Kläger (Verlag / Buchhandel)
-- Erst einstweilige Verfügung für sofortigen Stopp; dann Hauptsache für Schadensersatz.
-- Testbestellung für Beweiszwecke.
-- VLB-Ausdruck als Urkundenbeweis für Ladenpreis.
-- Börsenverein einbeziehen (§ 10 BuchPrG): Entlastet Kläger.
-
-### Für Beklagten (Händler / Verlag)
-- Vorwurf-Sachverhalt intern aufklären: War Preis korrekt? Systemfehler?
-- Wenn Verstoß lag: Schnell korrigieren; Unterlassungserklärung unterzeichnen → Kosten minimieren.
-- Wenn kein Verstoß: Klage mit Ausnahme § 6 BuchPrG begründen; Beweislast liegt beim Kläger.
-
-## Verjährung
-
-- UWG § 11-ähnlich: Verjährungsfrist 6 Monate ab Kenntnis von Verstoß und Verletzer.
-- Ohne Kenntnis: 3 Jahre (§§ 195, 199 BGB).
-- **Wichtig**: Dringlichkeit für einstweilige Verfügung erlischt nach ca. 4–6 Wochen ohne Handeln.
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
+- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
+- Rechtekette und Drittmaterial zuerst klären
+- Keine Verlags-/Literaturfundstellen erfinden
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
 
 ## Typische Fallen
 
-- **Dringlichkeit verpasst**: Verlag wartet 6 Wochen mit dem Antrag → Gericht verneint Dringlichkeit → kein einstweiliger Rechtsschutz möglich.
-- **Falsche Zuständigkeit**: Antrag beim Amtsgericht statt Landgericht → unzuständig; Kosten; Zeitverlust.
-- **Schadensnachweis fehlt**: Schadensersatzklage ohne Auskunftsanspruch → Schaden nicht bezifferbar.
-- **Vollstreckungsfehler**: Verfügung zugestellt, aber Vollstreckung nicht beantragt → Zuwiderhandlung bleibt sanktionslos.
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
-## Checkliste Preisbindungsstreit
+## Output
 
-### Vorbereitung
-- [ ] Verstoß dokumentiert (Screenshot, VLB, Testbestellung)
-- [ ] Anwalt eingeschaltet
-- [ ] LG-Zuständigkeit bestimmt
-- [ ] Dringlichkeitsfrist prüfen: Wann erstmals Kenntnis?
-
-### Antrag
-- [ ] Verfügungsantrag mit eidesstattlicher Versicherung eingereicht
-- [ ] Zustellung vollzogen
-
-### Nach Verfügungserlass
-- [ ] Verstoß-Monitoring aktiv (hat Antragsgegner aufgehört?)
-- [ ] Ordnungsmittelantrag bei Zuwiderhandlung
-
-## Quellenreferenzen
-
-- BuchPrG §§ 9–11: https://www.gesetze-im-internet.de/buchprg/
-- ZPO §§ 935–945: https://dejure.org/gesetze/ZPO/935.html
-- BGH „Buchpreisbindung-Schadensersatz" I ZR 125/03: https://www.bgh.de
-- OLG Frankfurt (Buchpreisbindung einstweilige Verfügung): https://openjur.de
-- Börsenverein, Klageberechtigung § 10 BuchPrG: https://www.boersenverein.de
-
-## Output-Formate
-
-- **Verfügungsantrags-Entwurf**: Vollständig mit Glaubhaftmachung
-- **Streitwert-Kalkulation**: Für Kostenschätzung
-- **Auskunftsklage-Stufenplan**: Stufe 1–3 mit Antragsformulierungen
-- **Widerspruchs-Schriftsatz** (für Beklagten)
-- **Monitoring-Protokoll** nach Verfügungserlass
+- Vertragsredline
+- Preisbindungscheck
+- Rechtekettenmatrix
+- Autorenmail
+- Abmahnantwort
+- Verlagsmemo
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
-## Skill: `redaktionsvertrag-freelancer-und-arbeitnehmer`
+## Skill: `verl-022-fachbuch-aktualisierung-loseblatt-und-online-datenbank`
 
-_Verlagsrecht: Redaktionsverträge mit Freelancern und Arbeitnehmern — Abgrenzung Werkvertrag, Dienstvertrag, Arbeitsverhältnis; Scheinwerkvertrag, Urheberrecht und Sozialversicherung im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtspr..._
+_Wenn es um Verlagsrecht: Fachbuch Aktualisierung Loseblatt und Online-Datenbank in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Verl-023 · Redaktionsvertrag, Freelancer und Arbeitnehmer
+# Verlagsrecht: Fachbuch Aktualisierung Loseblatt und Online-Datenbank
 
-## Arbeitsweg
+## Aufgabe
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Dieser Skill bearbeitet **Fachbuch Aktualisierung Loseblatt und Online-Datenbank** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
-## Zweck dieses Skills
+## Kaltstart in 6 Fragen
 
-Verlage beschäftigen **Redakteure, Lektoren, Übersetzer, Fotografen und Grafiker** sowohl als Arbeitnehmer als auch als freie Mitarbeiter. Die Abgrenzung zwischen echten Freelancern und Scheinselbständigen ist rechtlich komplex und hat erhebliche Konsequenzen für Sozialversicherungspflicht, Urheberrecht und Haftung. Kläre alle relevanten Dimensionen.
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
 
-## Rechtsgrundlagen
+## Prüfprogramm
 
-| Norm | Inhalt | Quelle |
-|------|--------|-------|
-| BGB § 631 | Werkvertrag: Erfolg geschuldet | https://dejure.org/gesetze/BGB/631.html |
-| BGB § 611a | Arbeitnehmerstellung: persönliche Abhängigkeit | https://dejure.org/gesetze/BGB/611a.html |
-| SGB IV § 7 | Beschäftigung: Sozialversicherungspflicht | https://www.gesetze-im-internet.de/sgb_4/__7.html |
-| UrhG § 43 | Urheberrecht in Arbeitsverhältnissen | https://dejure.org/gesetze/UrhG/43.html |
-| UrhG § 31 | Nutzungsrechtseinräumung durch Freiberufler | https://dejure.org/gesetze/UrhG/31.html |
-| UrhG § 32 | Angemessene Vergütung für freie Mitarbeiter | https://dejure.org/gesetze/UrhG/32.html |
-| KSA § 1 | Künstlersozialversicherung: Abgabepflicht des Verwerters | https://www.gesetze-im-internet.de/ksvg/ |
-
-## Vertragstypen im Verlag
-
-### 1. Werkvertrag (BGB § 631)
-- Freelancer schuldet einen **bestimmten Erfolg**: z.B. fertiges Manuskript, fertige Übersetzung, fertiges Lektorat.
-- Keine Weisungsgebundenheit bezüglich Weg und Zeitplanung.
-- Vergütung nach Abnahme des Werks.
-- Urheberrecht: Bleibt beim Urheber; Nutzungsrechte müssen ausdrücklich eingeräumt werden.
-
-### 2. Dienstvertrag (BGB § 611)
-- Dienstleister schuldet eine **Tätigkeit** (z.B. laufendes Lektorat, Redaktionsarbeit), keinen definierten Erfolg.
-- Größere Weisungsgebundenheit als beim Werkvertrag.
-- Bei starker Weisungsgebundenheit und Eingliederung → Gefahr der Arbeitnehmereigenschaft.
-
-### 3. Arbeitsvertrag (BGB § 611a)
-- Arbeitnehmer ist in die Betriebsorganisation eingegliedert und persönlich abhängig.
-- Verlag bestimmt Ort, Zeit und Art der Arbeit.
-- Urheberrecht (§ 43 UrhG): Bei Schöpfung in Erfüllung des Arbeitsverhältnisses → Verlag hat umfassendes Nutzungsrecht kraft Arbeitsvertrag und Verkehrsüblichkeit.
-
-## Scheinselbständigkeit: Abgrenzungskriterien
-
-| Merkmal | Freelancer (echt) | Scheinselbständig |
-|---------|------------------|------------------|
-| Eigene Betriebsstätte | Ja | Nein |
-| Mehrere Auftraggeber | Ja (i.d.R.) | Nein (nur ein Auftraggeber) |
-| Unternehmerisches Risiko | Ja | Nein |
-| Weisungsgebundenheit | Gering | Hoch |
-| Eingliederung in Betrieb | Nein | Ja |
-| Eigene Arbeitszeit | Selbst bestimmt | Vorgegeben |
-
-### Statusfeststellungsverfahren (DRV)
-- Sozialversicherungsträger (Deutsche Rentenversicherung Bund) kann auf Antrag feststellen, ob eine Beschäftigung vorliegt.
-- Verlag kann proaktiv Antrag stellen zur Rechtssicherheit.
-- Im Nachhinein: Nachzahlung von Sozialversicherungsbeiträgen für 4 Jahre (vorsätzlich: 30 Jahre).
-
-## Urheberrecht in Arbeitsverhältnissen (§ 43 UrhG)
-
-- Urheber-Eigenschaft des Arbeitnehmers bleibt bestehen; Urheberrecht ist unveräußerlich.
-- Nutzungsrechte: Verlag erhält kraft Arbeitsvertrag oder betrieblicher Übung alle für die übliche Verwertung nötigen ausschließlichen Nutzungsrechte.
-- **Grenzen**: Nutzungen, die weit über den betrieblichen Zweck hinausgehen (z.B. Verkauf an Dritte), erfordern zusätzliche Vereinbarung mit dem Arbeitnehmer.
-- Nachvergütung (§ 32a UrhG): Gilt auch für Arbeitnehmer-Urheber; bei besonderem Erfolg.
-
-## Künstlersozialversicherung (KSA)
-
-### Abgabepflicht des Verlags
-- Verlage, die Werke von freien Künstlern und Publizisten verwerten, müssen **Künstlersozialabgabe** auf die Honorarsumme zahlen.
-- Abgabesatz 2024: Ca. 5 % der Honorarsumme (variiert jährlich).
-- Pflicht gilt für: Aufträge an freie Autoren, Fotografen, Illustratoren, Übersetzer, Grafiker.
-
-### Was zählt zur Bemessungsgrundlage?
-- Alle Honorarzahlungen an selbständige Künstler und Publizisten.
-- Nicht enthalten: Auslagenersatz, Mehrwertsteuer, Reisekosten.
-
-### Konsequenzen bei Nichtabführung
-- Nachforderung durch Künstlersozialkasse (KSK) für bis zu 4 Jahre.
-- Bußgeld; in Einzelfällen strafrechtliche Relevanz.
-
-## Freelancer-Vertrag: Mindestinhalte
-
-1. **Werkbeschreibung**: Genauer Gegenstand (z.B. „Lektorat des Manuskripts X von ca. 80.000 Zeichen").
-2. **Abgabetermin** / Leistungszeitraum.
-3. **Vergütung** und Zahlungsmodalität; Angemessenheitsprüfung (§ 32 UrhG).
-4. **Nutzungsrechtseinräumung**: Alle benötigten Nutzungsarten ausdrücklich aufführen.
-5. **Freistellungsklausel**: Freelancer stellt Verlag von Ansprüchen Dritter frei.
-6. **Vertraulichkeit**: NDA für unveröffentlichte Manuskripte.
-7. **KSA-Hinweis**: Honorar zzgl. KSA des Verlags.
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
+- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
+- Rechtekette und Drittmaterial zuerst klären
+- Keine Verlags-/Literaturfundstellen erfinden
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
 
 ## Typische Fallen
 
-- **Scheinselbständigkeit unerkannt**: Verlag beschäftigt Freelancer seit Jahren exklusiv, täglich präsent; Sozialversicherungsprüfung → Nachzahlung 4 Jahre.
-- **Keine Nutzungsrechtseinräumung**: Verlag zahlt Freelancer für Übersetzung; Vertrag schweigt über Rechte → Zweckübertragungsregel; Verlag hat nur Mindestrechte.
-- **KSA nicht abgeführt**: Kleiner Verlag zahlt Honorare an freie Autoren ohne KSA-Abführung → Nachforderung durch KSK.
-- **§ 32a UrhG bei Bestseller**: Freier Übersetzer fordert Nachvergütung für Bestseller-Übersetzung; Verlag hat keine Öffnungsklausel im Vertrag.
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
-## Checkliste Redaktionsvertrag
+## Output
 
-- [ ] Vertragstyp korrekt gewählt (Werkvertrag, nicht verdeckter Arbeitsvertrag)
-- [ ] Werkbeschreibung präzise
-- [ ] Nutzungsrechtseinräumung vollständig
-- [ ] Vergütung angemessen (§ 32 UrhG)
-- [ ] KSA-Pflicht geprüft und abgeführt
-- [ ] Vertraulichkeit (NDA) vereinbart
-- [ ] Freistellungsklausel enthalten
-
-## Quellenreferenzen
-
-- BGB § 611a: https://dejure.org/gesetze/BGB/611a.html
-- UrhG § 43: https://dejure.org/gesetze/UrhG/43.html
-- SGB IV § 7: https://www.gesetze-im-internet.de/sgb_4/__7.html
-- KSVG: https://www.gesetze-im-internet.de/ksvg/
-- BSG, Urt. v. 14.03.2018 – B 12 R 3/17 R (Scheinselbständigkeit Journalist): https://www.bundessozialgericht.de
-
-## Output-Formate
-
-- **Statusprüfungs-Checkliste**: Freelancer oder Arbeitnehmer
-- **Werkvertrag-Muster**: Für Lektoren, Übersetzer, Fotografen
-- **KSA-Berechnungssheet**: Honorarsumme × Abgabesatz
-- **Nutzungsrechts-Klausel**: Standardformulierung für Freelancer-Verträge
-- **Statusfeststellungsantrag-Briefing** für DRV
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
+- Vertragsredline
+- Preisbindungscheck
+- Rechtekettenmatrix
+- Autorenmail
+- Abmahnantwort
+- Verlagsmemo
 
 ---
 
-## Skill: `subskriptionspreis-e`
+## Skill: `autor-herausgeber-mitwirkende-rechtekette`
 
-_Buchpreisbindungsgesetz: Subskriptionspreise, Einführungspreise und Aktionspreise — BuchPrG § 7 Preisänderung, Fristenregelungen, Preisbindungs-Compliance bei temporären Preissenkungen im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Recht..._
+_Wenn es um Verl-003 · Autor, Herausgeber, Mitwirkende: Rechtekette im Sammelwerk in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Verl-012 · Subskriptionspreis, Einführungspreis und Aktionspreis
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck dieses Skills
-
-Verlage nutzen **Subskriptions-, Einführungs- und Aktionspreise**, um Nachfrage anzukurbeln. Alle diese Preismodelle sind unter dem BuchPrG zulässig — aber nur unter strikten Bedingungen: Der temporäre Preis muss selbst als gebundener Ladenpreis festgesetzt werden, und nach Ablauf muss der reguläre Preis wieder durchgesetzt werden. Kläre das gesamte Regelwerk.
-
-## Rechtsgrundlagen
-
-| Norm | Inhalt | Quelle |
-|------|--------|-------|
-| BuchPrG § 3 | Festsetzungspflicht: jeder Preis muss förmlich festgesetzt werden | https://www.gesetze-im-internet.de/buchprg/__3.html |
-| BuchPrG § 7 | Preisänderung und Preisaufhebung durch Verleger | https://www.gesetze-im-internet.de/buchprg/__7.html |
-| BuchPrG § 5 | Letztabnehmer-Bindung; auch temporäre Preise sind bindend | https://www.gesetze-im-internet.de/buchprg/__5.html |
-| BuchPrG § 9 | Ansprüche bei Verstoß | https://www.gesetze-im-internet.de/buchprg/__9.html |
-| UWG § 5 | Irreführende Werbung mit Preisangaben | https://dejure.org/gesetze/UWG/5.html |
-| PAngV | Preisangabenverordnung — korrekte Auszeichnung | https://www.gesetze-im-internet.de/pangv/ |
-
-## Subskriptionspreis
-
-### Definition
-- Ein **Subskriptionspreis** ist ein reduzierter Preis, der vor Erscheinen des Werks für Vorbestellungen angeboten wird.
-- Klassisch bei teuren Fachwerken, Nachschlagewerken, Loseblatt-Sammlungen.
-
-### Rechtliche Einordnung
-- Der Subskriptionspreis ist ein selbständiger, befristeter gebundener Ladenpreis (§ 3 BuchPrG).
-- Verlag setzt den Subskriptionspreis förmlich fest und teilt ihn dem Buchhandel mit.
-- Nach Ablauf der Subskriptionsfrist (typisch: bei Erscheinen) gilt automatisch der höhere Normalpreis.
-- **Kein automatisches Recht** des Buchhandels, Exemplare zum Subskriptionspreis zu verkaufen, wenn die Frist abgelaufen ist, auch wenn Kunde noch nicht abgeholt hat.
-
-### Dokumentation
-- Subskriptionsfrist muss klar definiert und kommuniziert sein.
-- VLB-Meldung: Beide Preise (Subskription und Normal) mit Gültigkeitsdaten.
-- Buchhandel muss über Fristende rechtzeitig informiert werden.
-
-## Einführungspreis
-
-### Definition
-- Ein **Einführungspreis** ist ein reduzierter Ladenpreis für die ersten Wochen/Monate nach Erscheinen.
-- Ziel: Aufmerksamkeit generieren, Erstplatzierung im Buchhandel fördern, Rezensionsexemplare stimulieren.
-
-### Rechtliche Einordnung
-- Einführungspreis = temporärer gebundener Ladenpreis (§ 7 BuchPrG).
-- Nach Ablauf der Einführungsphase muss der höhere Preis als neuer Ladenpreis festgesetzt und kommuniziert werden.
-- **Preiserhöhung nach Einführungsphase**: Für Exemplare, die der Buchhandel noch nicht verkauft hat, gilt der neue höhere Preis → Buchhandel kann auf Einführungspreis-Exemplaren sitzen bleiben, die er zu höherem Preis verkaufen muss.
-
-### Praxis-Problem
-- Buchhandel hält Einführungspreis-Exemplare zurück, um sie nach Preiserhöhung günstiger als die Neulieferung anzubieten → rechtlich unzulässig: auch für Altexemplare gilt der neue gebundene Preis.
-- Ausnahme: § 6 BuchPrG-Ausnahme (Mängelexemplar, Remittend) einschlägig.
-
-## Aktionspreise
-
-### Definition
-- Ein **Aktionspreis** ist ein zeitlich, räumlich oder anlassbezogen begrenzter reduzierter Preis.
-- Beispiele: Buchmesse-Aktionspreis, Weihnachts-Aktionspreis, Geburtstagsaktion des Verlags.
-
-### Rechtliche Einordnung
-- Auch Aktionspreise sind gebundene Ladenpreise (§ 3 BuchPrG); nur wenn der Verleger sie als solche förmlich festsetzt, sind sie bindend.
-- **Einheitlichkeit**: Ein Aktionspreis gilt für alle Händler gleich; der Verleger darf nicht einem Händler exklusiv einen günstigeren Aktionspreis gewähren → Wettbewerbsverzerrung und ggf. § 9 BuchPrG-Verstoß.
-- Zeitliche Begrenzung im VLB dokumentieren.
-
-## Kommunikation an den Buchhandel (§ 4 BuchPrG)
-
-- Alle Preisänderungen müssen dem Buchhandel **rechtzeitig und eindeutig** mitgeteilt werden.
-- Form: Schriftlich (E-Mail, EDI-Datenstrom über VLB, Verlagsrundschreiben).
-- Inhalt: Neue Preise, gültig ab Datum, Ablauf (falls befristet).
-- **Frühzeitigkeit**: Buchhandel benötigt Vorlauf für Umpreisungsaktionen im Laden.
-
-## E-Book-Aktionspreise und Plattformen
-
-- Amazon KDP, Apple Books erlauben temporäre Preisreduktionen.
-- Verlag muss sicherstellen: reduzierter E-Book-Preis = neuer gebundener Ladenpreis für die Aktionsdauer.
-- Nach Aktion: Preis automatisch zurückgesetzt → VLB-Meldung und Plattformseitige Einstellung müssen synchron sein.
-- **„Countdown Deals"** (KDP): Sonderaktions-Mechanismus; Preisbindungs-Compliance bleibt Verlagspflicht.
-
-## Irreführungsverbot (UWG § 5, PAngV)
-
-- Einführungspreis darf nicht als dauerhafter Normalpreis deklariert werden.
-- „Früher X €, jetzt Y €"-Werbung nur zulässig, wenn „früher"-Preis tatsächlich für angemessenen Zeitraum gegolten hat (PAngV § 11).
-- Fingierte Ursprungspreise → UWG § 5 (irreführende Angaben).
-
-## Typische Fallen
-
-- **Einführungspreis ohne Enddatum**: Buchhandel verkauft unbegrenzt zu Einführungspreis; Verlag hat versäumt, Preiserhöhung zu kommunizieren → rechtlich schwierig durchsetzbar.
-- **Aktionspreis nur für einen Händler**: Exklusiv-Aktion für einen Großhändler → diskriminiert andere Buchhandlungen; ggf. UWG-Verstoß.
-- **Plattform-Sonderaktionen ohne Verlagsfreigabe**: Plattform senkt E-Book-Preis ohne Rückfrage → Verlag haftet für Preisbindungsverstoß.
-- **Subskriptionspreis nach Erscheinen**: Buchhandel bietet Buch nach Erscheinen noch zum Subskriptionspreis an, weil er keine Preisänderungsmitteilung erhalten hat → Verantwortung beim Verlag für rechtzeitige Kommunikation.
-
-## Checkliste Temporäre Preise
-
-- [ ] Temporärer Preis förmlich als gebundener Ladenpreis festgesetzt (§ 3 BuchPrG)
-- [ ] Gültigkeitsdaten in VLB eingetragen
-- [ ] Buchhandel rechtzeitig über Preisänderung informiert (§ 4 BuchPrG)
-- [ ] E-Book-Plattformen synchron mit VLB-Daten
-- [ ] Nach Aktionsende: Regulären Preis wieder aktiv geschaltet und mitgeteilt
-- [ ] Werbung: Ursprungspreis-Angaben konform mit PAngV
-
-## Quellenreferenzen
-
-- BuchPrG §§ 3, 7: https://www.gesetze-im-internet.de/buchprg/
-- PAngV: https://www.gesetze-im-internet.de/pangv/
-- UWG § 5: https://dejure.org/gesetze/UWG/5.html
-- OLG Hamburg, Urt. v. 07.02.2019 (E-Book-Aktionspreis): https://openjur.de
-- Börsenverein, FAQ Buchpreisbindung: https://www.boersenverein.de
-
-## Output-Formate
-
-- **Preiskalender**: Alle aktiven und geplanten Preisfenster mit Gültigkeitsdaten
-- **Kommunikationsprotokoll**: Wann wurde welcher Preis an Buchhandel gemeldet
-- **Compliance-Checkliste Plattformen**: E-Book-Aktionen auf Richtigkeit geprüft
-- **UWG-Werbungscheck**: Preisangaben in Werbematerialien
-- **Aktionspreis-Briefing** für Buchhandel
-
----
-
-## Skill: `auslandsrechte-rezensionsexemplar`
-
-_Verlagsrecht: Auslandsrechte, Sanktionsregimes und Exportkontrolle — EU-Sanktionen, US-OFAC, verbotene Lizenznehmer, Due Diligence und Compliance-Anforderungen für internationale Lizenzverträge im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege..._
-
-# Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle
+# Verl-003 · Autor, Herausgeber, Mitwirkende: Rechtekette im Sammelwerk
 
 ## Arbeitsweg
 
@@ -909,115 +473,130 @@ _Verlagsrecht: Auslandsrechte, Sanktionsregimes und Exportkontrolle — EU-Sankt
 
 ## Zweck dieses Skills
 
-Verlage, die Lizenzen an ausländische Verlage vergeben, müssen **Sanktionsrecht** und Exportkontrolle beachten. Lizenzen an Verlage in sanktionierten Ländern (z.B. Russland, Iran, Nordkorea) können gegen EU-Sanktionsverordnungen oder US-OFAC-Regelungen verstoßen. Kläre die Compliance-Anforderungen.
+Verlagsprojekte mit mehreren Beteiligten — Herausgeberbände, Anthologien, wissenschaftliche Festschriften, Lehrwerke — erfordern eine sorgfältige **Rechtekette**: Wer hat welche Urheberrechte, wer hat welche Nutzungsrechte eingeräumt, wer hat welchen Vergütungsanspruch? Dieser Skill kartiert alle Beteiligten, ihre Rollen und ihre Rechtsposition systematisch.
 
 ## Rechtsgrundlagen
 
-| Norm | Inhalt | Quelle |
-|------|--------|-------|
-| EU-Sanktionsverordnungen | z.B. VO (EU) Nr. 833/2014 (Russland), Nr. 267/2012 (Iran) | https://eur-lex.europa.eu |
-| AWG § 4 | Außenwirtschaftsgesetz: Verbotene Geschäfte | https://www.gesetze-im-internet.de/awg/__4.html |
-| AWV | Außenwirtschaftsverordnung: Genehmigungspflichten | https://www.gesetze-im-internet.de/awv/ |
-| US OFAC Regulations | US-Sanktionslisten (SDN List) | https://ofac.treasury.gov |
-| GWG §§ 10 ff. | Geldwäschegesetz: Sorgfaltspflichten | https://www.gesetze-im-internet.de/gwg_2017/ |
-| StGB §§ 34, 18 | Außenwirtschaftsstrafrecht | https://dejure.org/gesetze/AWG/18.html |
+| Norm | Regelungsgehalt | Quelle |
+|------|----------------|--------|
+| UrhG § 2 | Schutzfähige Werke: Sprachwerke, Sammelwerke, Übersetzungen | https://dejure.org/gesetze/UrhG/2.html |
+| UrhG § 4 | Sammelwerke und Datenbankwerke | https://dejure.org/gesetze/UrhG/4.html |
+| UrhG § 8 | Miturheber: gemeinschaftliche Schöpfung | https://dejure.org/gesetze/UrhG/8.html |
+| UrhG § 9 | Werkverbindung: selbständige Werke | https://dejure.org/gesetze/UrhG/9.html |
+| UrhG § 31 | Nutzungsrechtseinräumung | https://dejure.org/gesetze/UrhG/31.html |
+| UrhG § 32 | Angemessene Vergütung | https://dejure.org/gesetze/UrhG/32.html |
+| UrhG § 32d | Auskunftsanspruch | https://dejure.org/gesetze/UrhG/32d.html |
+| VerlG § 1 | Verlagsvertrag mit dem Urheber | https://www.gesetze-im-internet.de/verlg/__1.html |
+| VerlG §§ 28 ff. | Honorar und Abrechnung | https://www.gesetze-im-internet.de/verlg/ |
+| DSM-RL Art. 19 | Transparenzpflicht gegenüber Urhebern | https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0790 |
 
-## Sanktionsrecht und Buchrechte: Grundlagen
+## Beteiligte Parteien und ihre Rollen
 
-### Was sind Sanktionen?
-- Sanktionen sind staatliche oder internationale Maßnahmen, die wirtschaftliche Transaktionen mit bestimmten Ländern, Unternehmen oder Personen verbieten.
-- **EU-Sanktionen**: Verordnungen des Rates der EU; unmittelbar anwendbar in allen Mitgliedstaaten.
-- **US-OFAC**: Office of Foreign Assets Control; US-Sanktionen haben extraterritoriale Wirkung (betreffen auch deutsche Verlage bei US-Dollar-Zahlungen oder US-Verträgen).
+### 1. Alleinautor
+- Einziger Schöpfer des Werks; alle Urheberrechte liegen bei ihm.
+- Kann alle Nutzungsrechte im Verlagsvertrag vollständig einräumen.
 
-### Sind Buchlizenzen Sanktionsgegenstand?
-- Grundsatz: Kulturelle Güter (Bücher, Lizenzen) sind häufig **ausgenommen** von Sanktionen.
-- Ausnahmen:
- - Technologietransfer (Dual-Use-Güter: Bücher mit militärischen oder nuklearen Inhalten).
- - Lizenzen an sanktionierte Personen (SDN-Liste, EU-Sanktionsliste).
- - Zahlungen in sanktionierten Währungen oder über sanktionierten Finanzinstitute.
+### 2. Miturheber (§ 8 UrhG)
+- Mehrere haben gemeinsam ein Werk geschaffen; Beiträge sind nicht trennbar.
+- Nutzungsrechte können nur gemeinschaftlich eingeräumt werden; einzelne Miturheber können nicht allein handeln.
+- Verfügungen über Anteile am Gesamtwerk erfordern Zustimmung aller.
 
-## EU-Sanktionen: Russland (Beispiel VO 833/2014)
+### 3. Werkverbindung (§ 9 UrhG)
+- Mehrere Autoren verbinden selbständige Werke zu einem gemeinsamen Werk (z.B. Text + Illustrationen).
+- Jeder behält sein Urheberrecht; gemeinschaftliche Rechteausübung nach Vereinbarung.
 
-### Verbotene Transaktionen
-- Zahlungen an von der EU gelistete russische Personen und Organisationen.
-- Technologietransfer (technische Spezifikationsbücher, Dual-Use-Materialien).
+### 4. Herausgeber eines Sammelwerks (§ 4 UrhG)
+- Schöpferische Eigenleistung bei Auswahl und Anordnung der Beiträge → eigenes Urheberrecht an der Sammlung.
+- Kein Urheberrecht an den Einzelbeiträgen der Autoren.
+- Verlagsvertrag mit dem Herausgeber regelt Rechte an der Sammlung; separate Verträge mit Beitragsautoren nötig.
 
-### Buchlizenzen in der Praxis
-- Kulturelle Ausnahmen: Bücher als solche sind i.d.R. nicht verbotene Güter.
-- **Zahlungsweg**: Auch wenn Buch erlaubt, kann Zahlungstransfer über russische Banken blockiert sein.
-- **Listung des Lizenznehmers**: Wenn russischer Verlag auf SDN- oder EU-Sanktionsliste → Vertrag verboten.
+### 5. Beitragsautoren (Kapitelautoren, Essayisten)
+- Jeder hält sein Urheberrecht am eigenen Beitrag.
+- Nutzungsrechtseinräumung an Herausgeber oder Verlag durch separate Autorenverträge oder Erklärungen.
+- Vergütungsanspruch nach § 32 UrhG; gemeinsame Vergütungsregeln anwendbar.
 
-### Sorgfaltspflichten (GWG § 10)
-- Verlag muss Geschäftspartner auf Sanktionslisten prüfen (Know-Your-Customer, KYC).
-- Screening-Tools: EU-Sanktionsliste (EUR-Lex), US-SDN-Liste (OFAC), nationale Sanktionslisten.
-- Dokumentation: KYC-Prüfung dokumentieren; Ergebnis aufbewahren.
+### 6. Übersetzer
+- Übersetzung ist ein selbständiges Schutzwerk (§ 3 UrhG).
+- Übersetzer benötigt Lizenz des Originalautors/Verlags; Verlagsvertrag für Übersetzung separat (VerlG § 35).
+- Eigener Vergütungsanspruch; ggf. eigener Auskunftsanspruch nach § 32d UrhG.
 
-## US-OFAC: Extraterritoriale Wirkung
+### 7. Illustratoren, Fotografen, Kartografen
+- Bildwerke (§ 2 Abs. 1 Nr. 5 UrhG) sind eigenständig geschützt.
+- Nutzungsrechtseinräumung durch separate Bildrechte-Verträge oder Werk-/Dienstverträge.
+- Bei Auftragsarbeiten: Kein automatischer Rechteübergang; schriftliche Einräumung erforderlich.
 
-- Deutschen Verlage, die USD-Zahlungen empfangen oder US-Korrespondenzbanken nutzen, können US-Sanktionen unterfallen.
-- **OFAC-SDN-Liste**: Specially Designated Nationals — jede Transaktion mit gelisteten Personen ist für US-Personen und oft auch Nicht-US-Personen verboten.
-- Deutsche Verlage: Direkte Anwendbarkeit zweifelhaft; aber USD-Clearing durch US-Banken kann OFAC-Compliance erfordern.
-- **Secondary Sanctions**: US kann Sanktionen gegen Nicht-US-Unternehmen verhängen, die mit sanktionierten Ländern Geschäfte machen.
+## Rechteketten-Analyse
 
-## Due-Diligence-Checkliste für Auslandslizenzen
+### Schritt 1: Identifikation aller Werkteile
+Liste alle Komponenten des Gesamtwerks:
+- Haupttext (Autor/Autoren)
+- Kapitel (ggf. verschiedene Autoren)
+- Vorwort, Einleitung, Nachwort (Herausgeber oder Dritte)
+- Abbildungen, Fotos, Grafiken
+- Tabellen, Karten, Diagramme
+- Übersetzungen
+- Register, Index (Sonderfall: Leistungsschutz oder Datenbankrecht)
 
-### Schritt 1: Ländercheck
-- Ist das Zielland von EU- oder US-Sanktionen betroffen?
-- Ist das Zielland auf FATF-Grauer oder -Schwarzer Liste (Geldwäscherisiko)?
+### Schritt 2: Prüfung jeder Nutzungsrechtseinräumung
+Für jede Komponente prüfen:
+- Liegt eine schriftliche Nutzungsrechtseinräumung vor?
+- Welche Nutzungsarten sind erfasst (§ 31 Abs. 1 UrhG)?
+- Exklusiv oder nicht-exklusiv?
+- Zeitlich und räumlich begrenzt?
+- Vergütung vereinbart und angemessen (§ 32 UrhG)?
 
-### Schritt 2: Lizenznehmers-Screening
-- Lizenznehmers-Name und Eigentümerstruktur prüfen.
-- Screening gegen EU-Sanktionsliste, US-SDN-Liste, Interpol-Liste.
-- PEP-Screening (Politically Exposed Persons).
+### Schritt 3: Lücken und Risiken
+- Fehlende Verträge mit Beitragsautoren → Verlag hat kein Recht zur Veröffentlichung
+- Unklare Nutzungsarten → Zweckübertragungsregel (§ 31 Abs. 5 UrhG) schließt Lücken restriktiv
+- Kein Auskunftsanspruch geregelt → Beitragsautoren können § 32d UrhG geltend machen
+- Übersetzungsrechte nicht gesichert → Fremdsprachige Ausgabe rechtswidrig
 
-### Schritt 3: Vertragsdokumentation
-- Zahlungswährung und Zahlungsweg: EUR über SEPA sicher; USD über US-Korrespondenzbank prüfen.
-- Vertragsklausel: „Lizenzgeber und Lizenznehmer bestätigen, keiner Sanktionsliste zu unterfallen. Bei Aufnahme auf Sanktionsliste: sofortige Vertragsauflösung."
-- Sanktionsklausel: Vertrag erlischt automatisch bei Listung einer Partei.
+## Vergütungsansprüche und Auskunft
 
-### Schritt 4: Monitoring
-- Laufende Überwachung: Sind Vertragsparteien nach Vertragsschluss gelistet worden?
-- Jährliches Re-Screening.
+### § 32 UrhG — Angemessene Vergütung
+- Jeder Urheber hat Anspruch auf angemessene Vergütung.
+- Unangemessene Vergütung → Anpassungsanspruch; ggf. Klage.
+- Gemeinsame Vergütungsregeln (§ 36 UrhG) zwischen Verbänden schaffen Vermutungswirkung.
 
-## Dual-Use-Bücher
+### § 32a UrhG — Nachvergütung (Bestseller-Paragraf)
+- Stellt sich heraus, dass vereinbarte Vergütung in auffälligem Missverhältnis zu tatsächlichen Erträgen steht → Anspruch auf weitere Beteiligung.
+- Gilt für alle Miturheber und Beitragsautoren anteilig.
 
-- Dual-Use: Waren, Software, Technologien, die zivil und militärisch genutzt werden können.
-- Einschlägig für Verlage: Technische Handbücher, Chemie, Biotechnologie, Kryptographie-Bücher.
-- EU-Dual-Use-VO (VO (EU) 2021/821): Ausführgenehmigungspflicht für gelistete Güter.
-- Bücher als solche: Nur in Extremfällen Dual-Use; aber Know-how-Transfer kann relevant sein.
+### § 32d UrhG — Auskunftsanspruch
+- Jeder Urheber kann jährlich Auskunft über Art und Umfang der Werknutzung sowie erzielte Vergütungen verlangen.
+- DSM-RL Art. 19 gibt EU-rechtliche Grundlage für verstärkte Transparenzpflichten.
 
 ## Typische Fallen
 
-- **Sanktions-Listing nach Vertragsschluss**: Russischer Verlag wird kurz nach LOI auf Sanktionsliste gesetzt → bestehender Vertrag muss beendet werden; aufgelaufene Advance-Zahlungen blockiert.
-- **USD-Zahlungsweg und US-Banken**: Verlag akzeptiert USD-Advance; Zahlung über US-Korrespondenzbank → OFAC-Compliance-Problem.
-- **KYC-Dokumentation fehlt**: Behördenprüfung zeigt, dass Verlag keine Sanktionsscreening-Dokumentation geführt hat → GWG-Bußgeld.
-- **Dual-Use-Buch nicht erkannt**: Technisches Handbuch mit Anwendungen für Waffensysteme → Exportgenehmigung erforderlich.
+- **Fehlende Verträge mit Beitragsautoren**: Häufig bei Tagungsbänden oder Festschriften; ohne schriftliche Nutzungsrechtseinräumung kein Veröffentlichungsrecht.
+- **Herausgeber-Rolle überschätzt**: Herausgeber hat kein Recht, im Namen der Beitragsautoren Lizenzen zu vergeben, sofern keine Vollmacht vorliegt.
+- **Übersetzungsrechte nicht separat gesichert**: Originalverlag hat oft keine Lizenz für alle Sprachversionen.
+- **Bildrechte vergessen**: Fotos in der Originalveröffentlichung decken nicht automatisch die Nutzung in digitalen Ausgaben ab.
+- **Miturheber-Blockade**: Bei § 8 UrhG-Situationen kann ein Miturheber die Verwertung blockieren.
 
-## Checkliste Auslandslizenzen Sanktions-Compliance
+## Checkliste Rechtekette
 
-- [ ] Zielland auf Sanktionsliste geprüft (EU, US-OFAC)
-- [ ] Lizenznehmers-Screening: EU-Sanktionsliste, SDN-Liste, PEP
-- [ ] Zahlungswährung und -weg geprüft (kein USD über US-Banken bei sanktioniertem Land)
-- [ ] Sanktionsklausel im Lizenzvertrag
-- [ ] KYC-Dokumentation aufbewahrt
-- [ ] Dual-Use-Relevanz des Werkes geprüft
-- [ ] Jahres-Re-Screening geplant
+- [ ] Liste aller Werkteile mit Urhebern erstellt
+- [ ] Für jeden Werkteil: schriftlicher Nutzungsrechtsvertrag vorhanden
+- [ ] Nutzungsarten vollständig und klar benannt
+- [ ] Vergütung angemessen und nachvollziehbar (§ 32 UrhG)
+- [ ] Auskunftsklausel (§ 32d UrhG / DSM-RL Art. 19) vertraglich geregelt
+- [ ] Drittmaterial (Bilder, Tabellen) mit eigenem Rechtenachweis
 
 ## Quellenreferenzen
 
-- EU-Sanktionsliste: https://eur-lex.europa.eu/content/sanctions/sanctions.html
-- US-OFAC SDN-Liste: https://ofac.treasury.gov/sanctions-list-search
-- AWG: https://www.gesetze-im-internet.de/awg/
-- EU Dual-Use-VO 2021/821: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0821
-- GWG: https://www.gesetze-im-internet.de/gwg_2017/
+- UrhG §§ 4, 8, 9: https://dejure.org/gesetze/UrhG/8.html
+- UrhG § 32d: https://dejure.org/gesetze/UrhG/32d.html
+- DSM-Richtlinie 2019/790 Art. 19: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0790
+- BGH, Urt. v. 20.01.1994 – I ZR 322/91 (Miturheber Sammelwerk): https://www.bgh.de
+- VerlG §§ 28 ff.: https://www.gesetze-im-internet.de/verlg/
 
 ## Output-Formate
 
-- **Sanktions-Screening-Protokoll**: Ergebnis je Vertragspartner dokumentiert
-- **Sanktionsklausel-Muster** für Lizenzverträge
-- **Länder-Risikomatrix**: Sanktions- und Exportkontrollrisiko je Zielmarkt
-- **KYC-Dokumentationsvorlage**
-- **Dual-Use-Prüfprotokoll** für technische Werke
+- **Rechtekettenmatrix**: Alle Werkteile × Nutzungsarten × Rechtsstatus
+- **Lückenliste**: Fehlende Verträge, offene Nutzungsarten
+- **Vergütungsübersicht**: Alle Beitragsautoren mit Vergütungsansprüchen
+- **Muster-Beitragsautorenvertrag**: Standardisiertes Kurzformular für Sammelwerke
 
 ## Normen und Rechtsprechung
 
@@ -1046,11 +625,15 @@ Verlage, die Lizenzen an ausländische Verlage vergeben, müssen **Sanktionsrech
 
 ---
 
-## Skill: `e-book-preisbindung-und-plattformrabatte`
+## Skill: `verlagsvertrag-redaktionsvertrag`
 
-_Buchpreisbindungsgesetz: E-Book-Preisbindung, Plattformgebühren, Rabatte durch Amazon, Apple und andere Anbieter — BuchPrG § 2 Abs. 1 Nr. 3, Durchsetzung und Vertragsgestaltung im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung._
+_Wenn es um Verl-002 · Verlagsvertrag: Hauptpflichten, Rechteübertragung, Rückruf in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Verl-013 · E-Book-Preisbindung und Plattformrabatte
+# Verl-002 · Verlagsvertrag: Hauptpflichten, Rechteübertragung, Rückruf
+
+## Arbeitsbereich
+
+Verlagsrecht: Hauptpflichten aus dem Verlagsvertrag, Rechteübertragung nach UrhG §§ 31 ff. und VerlG sowie Rückrufrechte nach VerlG §§ 7–8, UrhG §§ 41–42 systematisch prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -1062,259 +645,212 @@ _Buchpreisbindungsgesetz: E-Book-Preisbindung, Plattformgebühren, Rabatte durch
 
 ## Zweck dieses Skills
 
-Die E-Book-Preisbindung ist ein Spezialbereich mit erheblichem Konfliktpotenzial zwischen Verlagsrecht und Plattformverträgen. Kläre, welche E-Books preisgebunden sind, wie Plattformgebühren und Rabatte behandelt werden, welche Vertragsklauseln mit Amazon, Apple und anderen notwendig sind und wie Verstöße durchgesetzt werden.
+Analysiert den Verlagsvertrag nach seinen **synallagmatischen Hauptpflichten**: Manuskriptablieferung und Erscheinungspflicht (VerlG §§ 1–4), Rechteübertragung (UrhG §§ 31–44) sowie die wechselseitigen **Rückrufrechte** beider Seiten (VerlG §§ 7–8, UrhG §§ 41–42). Er bereitet den Sachverhalt für Vertragsreview, Verhandlung oder Streitbeilegung auf.
 
 ## Rechtsgrundlagen
 
-| Norm | Inhalt | Quelle |
-|------|--------|-------|
-| BuchPrG § 2 Abs. 1 Nr. 3 | E-Books als preisgebundene Produkte | https://www.gesetze-im-internet.de/buchprg/__2.html |
-| BuchPrG § 3 | Preisfestsetzung durch Verleger / Importeur | https://www.gesetze-im-internet.de/buchprg/__3.html |
-| BuchPrG § 5 | Letztabnehmer-Bindung | https://www.gesetze-im-internet.de/buchprg/__5.html |
-| BuchPrG § 9 | Ansprüche bei Verstoß | https://www.gesetze-im-internet.de/buchprg/__9.html |
-| EU-VO 2017/1128 | Portabilität digitaler Inhalte | https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1128 |
-| UrhG § 19a | Recht der öffentlichen Zugänglichmachung (Online-Vertrieb) | https://dejure.org/gesetze/UrhG/19a.html |
+| Norm | Regelungsgehalt | Quelle |
+|------|----------------|--------|
+| VerlG § 1 | Verlagsvertrag: gegenseitige Pflichten Verlag / Autor | https://www.gesetze-im-internet.de/verlg/__1.html |
+| VerlG § 2 | Manuskriptablieferung: Form, Frist, Vollständigkeit | https://www.gesetze-im-internet.de/verlg/__2.html |
+| VerlG § 5 | Erscheinungspflicht des Verlags: angemessene Frist | https://www.gesetze-im-internet.de/verlg/__5.html |
+| VerlG § 7 | Rücktrittrecht des Autors bei Nichterscheinen | https://www.gesetze-im-internet.de/verlg/__7.html |
+| VerlG § 8 | Gegenseitiger Rücktritt bei Verschulden | https://www.gesetze-im-internet.de/verlg/__8.html |
+| UrhG § 31 | Einräumung von Nutzungsrechten | https://dejure.org/gesetze/UrhG/31.html |
+| UrhG § 31a | Einräumung für unbekannte Nutzungsarten | https://dejure.org/gesetze/UrhG/31a.html |
+| UrhG § 41 | Rückruf wegen Nichtausübung | https://dejure.org/gesetze/UrhG/41.html |
+| UrhG § 42 | Rückruf wegen gewandelter Überzeugung | https://dejure.org/gesetze/UrhG/42.html |
 
-## E-Books im Geltungsbereich des BuchPrG
+## Prüfprogramm Hauptpflichten
 
-### Seit 2016: Gesetzliche Preisbindung
-- BuchPrG § 2 Abs. 1 Nr. 3 (Fassung seit 01.01.2016): E-Books sind ausdrücklich preisgebunden.
-- Voraussetzungen:
- 1. E-Book ist ein „Buch" im Sinne des BuchPrG (Sprachwerk als elektronische Ausgabe)
- 2. Erscheinen in Deutschland oder Import für deutschen Markt
- 3. Nicht ausgenommen nach § 6 BuchPrG
+### A. Autorenpflichten (§ 2 VerlG)
 
-### Geltungsbereich: Was ist ein E-Book?
-- EPUB, PDF, MOBI (Kindle), AZW: Alle Formate, die den Buchinhalt digital als Sprachwerk übermitteln.
-- Nicht erfasst: Apps mit Buchinhalt (wenn App-Funktion im Vordergrund), reine Audios, interaktive Lernspiele.
-- Grenzfall: Enhanced E-Books (mit Videos, interaktiven Elementen): Einzelfallbewertung nötig.
+1. **Ablieferungspflicht**: Manuskript in vereinbarter Form (Dateiformat, Stil, Umfang), zum vereinbarten Termin.
+2. **Vollständigkeit**: Alle Teile (Text, Register, Abbildungsvorlagen, Metadaten) müssen übergeben sein.
+3. **Mängelfreiheit**: Keine Rechtsverletzungen Dritter (Plagiat, Persönlichkeitsrechte, Drittrechte an Fotos).
+4. **Exklusivität**: Sofern vereinbart, kein Parallelvertrag mit anderem Verlag für dasselbe Werk.
+5. **Mitwirkungspflichten**: Korrekturen, Druckfahnen, Registererstellung auf Aufforderung des Verlags.
 
-## Plattformgebühren und der gebundene Preis
+### B. Verlagspflichten
 
-### Grundprinzip
-- Der Verlag setzt den **Endkundenpreis** (gebundener Ladenpreis) fest.
-- Plattformgebühren (Amazon 30 %, Apple Books 30 %, etc.) werden vom Verlag getragen, nicht vom Endkunden.
-- Endkunde zahlt genau den gebundenen Preis; Plattform erhält ihren Anteil davon.
+1. **Erscheinungspflicht** (§ 5 VerlG): Erscheinen innerhalb angemessener, üblicherweise vertraglich bestimmter Frist nach Ablieferung.
+2. **Verbreitungspflicht**: Aktiver Vertrieb, Aufnahme in den Buchhandel, Pflege der Lieferfähigkeit.
+3. **Honorarpflicht**: Zahlung der vereinbarten Vergütung, Abrechnung (§§ 28 ff. VerlG, § 32 UrhG).
+4. **Belegexemplare**: Übergabe von Freiexemplaren gemäß Vertrag.
+5. **Pflege des Titels**: Keine willkürliche Einstellung der Lieferfähigkeit.
 
-### Amazon KDP — Preisgestaltung
-- KDP-Direktvertrieb: Autor/Verlag setzt Preis in KDP-Dashboard; Amazon verkauft zum festgesetzten Preis.
-- KDP-Select: Enthält Kindle Unlimited (Streaming); Vergütung nach gelesenen Seiten, kein fester Ladenpreis für KU-Nutzung → KU unterliegt nicht der Buchpreisbindung (kein Kauf).
-- **Amazon Price Match**: Amazon kann E-Book-Preis senken, wenn dasselbe Buch anderswo günstiger angeboten wird → Verstoß gegen Preisbindung durch den billigeren Anbieter; Amazon „spiegelt" den Verstoß.
+### C. Rechteübertragung
 
-### Apple Books
-- Verleger setzt Preis im App Store Connect; Apple behält 30 %.
-- Apple-Werbemaßnahmen (z.B. „Deal of the Day"): Nur zulässig, wenn Verlag temporären Aktionspreis festsetzt (§ 7 BuchPrG).
+- **Umfang**: § 31 Abs. 5 UrhG — Zweckübertragungsregel: Im Zweifel nur die für den Vertragszweck erforderlichen Rechte.
+- **Nutzungsartenspezifität**: Jede Nutzungsart (§ 15 UrhG: Vervielfältigung, Verbreitung, öffentliche Zugänglichmachung) ist einzeln zu benennen.
+- **Unbekannte Nutzungsarten** (§ 31a UrhG): Widerrufsrecht des Autors binnen 3 Monaten nach Mitteilung der neuen Nutzungsart; Vergütungspflicht.
+- **Ausschließliche vs. einfache Lizenz**: Ausschließliche Lizenz schließt Vergabe weiterer Lizenzen durch den Urheber aus.
 
-### Tolino / Thalia
-- Deutsches Konsortium; engere Verlagsabsprachen; Preisbindungs-Compliance üblicherweise vertraglich verankert.
+## Rückrufrechte im Detail
 
-### Google Play Books
-- Verlag setzt Preis; Google behält Plattformgebühr; Endkundenpreis muss gebunden sein.
+### 1. VerlG § 7 — Rücktritt des Autors wegen Nichterscheinen
+- Voraussetzung: Verlag erscheint das Werk nicht innerhalb angemessener Frist oder einer gesetzten Nachfrist.
+- Rechtsfolge: Rücktritt vom Vertrag; Rechte fallen an Autor zurück; Vorschuss-Rückzahlung streitig (§ 346 BGB).
+- Fristsetzen: Schriftlich, mit Androhung des Rücktritts, angemessene Frist (i.d.R. 3–6 Monate je nach Werktyp).
 
-## Vertragsgestaltung mit Plattformen
+### 2. VerlG § 8 — Gegenseitiger Rücktritt bei Verschulden
+- Autor liefert nicht → Verlag kann nach erfolgloser Fristsetzung zurücktreten, Schadensersatz verlangen.
+- Verlag verletzt Erscheinungspflicht schuldhaft → Autor kann Rücktritt + Schadensersatz geltend machen.
 
-### Mindestklauseln im Plattformvertrag
-1. Endkundenpreis = vom Verlag festgesetzter gebundener Ladenpreis
-2. Plattform darf keine Preissenkungen ohne Verlagsfreigabe vornehmen
-3. Aktionspreise nur nach Freigabe und förmlicher Preisfestsetzung durch Verlag
-4. Pflicht zur sofortigen Rücknahme von Preissenkungen bei Verlags-Aufforderung
-5. Reporting-Pflicht: Monatliche Absatzberichte mit Preisen und Aktionszeiträumen
+### 3. UrhG § 41 — Rückruf wegen Nichtausübung
+- Voraussetzung: Ausschließliches Nutzungsrecht; Verlag übt es nicht aus; Interessen des Urhebers erheblich beeinträchtigt.
+- Sperrfrist: 2 Jahre nach Einräumung des Rechts oder – bei Pflichtwerken – 1 Jahr nach Ablieferung.
+- Verfahren: Schriftliche Ankündigung → Ausübungsfrist 3 Monate → dann Rückruf.
+- Rechtsfolge: Nutzungsrecht erlischt, Vergütungsanspruch bleibt (§ 41 Abs. 4 UrhG).
 
-### Price-Parity-Klauseln (kritisch!)
-- Manche Plattformverträge enthalten Most-Favored-Nation (MFN) / Price-Parity-Klauseln: „Verlag muss denselben Preis auf unserer Plattform haben wie anderswo."
-- EU-Kartellrecht: Price-Parity-Klauseln durch Amazon wurden von Kartellbehörden (Bundeskartellamt, EU-Kommission) beanstandet.
-- **Vorsicht**: Price-Parity führt dazu, dass Verlag E-Book-Preis nicht auf anderen Plattformen günstiger setzen darf → kann Innovationsbarriere sein.
-
-## Durchsetzung der E-Book-Preisbindung
-
-### § 9 BuchPrG — Ansprüche
-- Anspruchsberechtigte: Andere Verleger, Importeure, der Buchhandel, der Börsenverein.
-- Ansprüche: Unterlassung (§ 9 Abs. 1 BuchPrG), Schadensersatz, Auskunft.
-- Prozessual: Einstweilige Verfügung möglich bei offensichtlichem Preisbindungsverstoß.
-
-### Börsenverein als Klageberechtigter (§ 10 BuchPrG)
-- Börsenverein des Deutschen Buchhandels e.V. ist klagebefugt.
-- Klagt regelmäßig gegen Online-Händler, die E-Books unter gebundenem Preis anbieten.
-
-### Monitoring
-- Verlage sollten automatisierte Preis-Monitoring-Tools einsetzen (z.B. Bookwire, EPUB-Abrufwerkzeuge).
-- Bei erkanntem Verstoß: Abmahnung an Händler/Plattform, ggf. Kündigung des Plattformvertrags.
+### 4. UrhG § 42 — Rückruf wegen gewandelter Überzeugung
+- Voraussetzung: Dem Urheber ist das Festhalten am Werk aufgrund gewandelter Überzeugung nicht mehr zumutbar.
+- Entschädigung: Angemessene Entschädigung des Verlags für Aufwendungen und entgangenen Gewinn.
+- Rechtsfolge: Nutzungsrecht erlischt; bei gleicher Veröffentlichung später → Erstrecht des früheren Verlags.
+- Fallgruppen: Politische Überzeugungsänderung, wissenschaftlicher Erkenntnisstand, Persönlichkeitsverletzung.
 
 ## Typische Fallen
 
-- **KDP-Preisanpassung automatisch**: Amazon senkt E-Book-Preis automatisch wegen Price-Match → Verlag hat Preisbindungsverstoß nicht begangen, aber muss Amazon auffordern, den gebundenen Preis wiederherzustellen.
-- **Keine förmliche Preisfestsetzung für E-Book**: Verlag veröffentlicht E-Book über KDP ohne eigenständige Preisfestsetzung nach § 3 BuchPrG → formaler Mangel; kann durch nachträgliche Meldung geheilt werden.
-- **Bundle mit App**: E-Book-Inhalt in App-Bundle unter dem Ladenpreis → je nach Produktgestaltung Preisbindungsverstoß.
-- **Aktionspreise nicht dokumentiert**: Plattform führt Aktion durch; Verlag kann nicht nachweisen, dass temporäre Preissenkung förmlich festgesetzt war → Verstoß-Risiko.
+- **Verschweigen von Fristsetzungsdefiziten**: § 7 VerlG-Rücktritt setzt ordnungsgemäße Nachfrist voraus; formfrei, aber klar und schriftlich ist Best Practice.
+- **§ 41 UrhG-Sperrfrist wird vergessen**: Kein Rückruf in den ersten 2 Jahren möglich; Mandant muss warten.
+- **Zweckübertragungsregel (§ 31 Abs. 5 UrhG) verkannt**: „Alle Rechte"-Klauseln übertragen nicht automatisch unbekannte Nutzungsarten.
+- **Entschädigungspflicht bei § 42 UrhG unterschätzt**: Kann erheblich sein, wenn Verlag bereits in Produktion gegangen ist.
+- **Gegenseitige Abhängigkeiten**: Autorenverzug und Verlagsverzug können sich gegenseitig aufheben; Beweislast sorgfältig prüfen.
 
-## Checkliste E-Book-Preisbindung
+## Checkliste für Vertragscheck
 
-- [ ] E-Book als preisgebundenes Produkt klassifiziert
-- [ ] Ladenpreis für jedes Format separat festgesetzt und in VLB gemeldet
-- [ ] Plattformverträge auf Preisbindungs-Klauseln geprüft
-- [ ] Monitoring-System für Plattformpreise eingerichtet
-- [ ] Aktionspreise förmlich festgesetzt und mit Ablaufdatum gemeldet
-- [ ] Amazon Price-Match-Risiko bekannt und Verfahren definiert
+- [ ] Ablieferungsklausel enthält Format, Umfang, Frist
+- [ ] Erscheinungsklausel enthält Deadline oder angemessene Frist
+- [ ] Nutzungsarten einzeln aufgeführt (§ 31 Abs. 1 UrhG)
+- [ ] Unbekannte Nutzungsarten-Klausel vorhanden (§ 31a UrhG)
+- [ ] Rückrufbedingungen geregelt (Sperrfrist, Entschädigung)
+- [ ] Honorar und Abrechnung vollständig geregelt (§§ 28 ff. VerlG)
+- [ ] Belegexemplare-Klausel vorhanden
 
 ## Quellenreferenzen
 
-- BuchPrG § 2: https://www.gesetze-im-internet.de/buchprg/__2.html
-- Bundeskartellamt, Amazon E-Book-Verfahren (2012/2017): https://www.bundeskartellamt.de
-- BGH „E-Book" KZR 25/14 (Preisbindung E-Books): https://www.bgh.de
-- EU-VO 2017/1128: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1128
-- Börsenverein, E-Book-Preisbindung: https://www.boersenverein.de
+- VerlG: https://www.gesetze-im-internet.de/verlg/
+- UrhG §§ 31, 41, 42: https://dejure.org/gesetze/UrhG/41.html
+- § 41 UrhG / Rückruf wegen Nichtausübung nicht mit ungeprüften Fundstellen blind belegen. Als frei prüfbarer Anker kommt BGH, Urteil vom 26.03.2009 - I ZR 153/06 (Reifen Progressiv) in Betracht; vor Ausgabe stets Sachverhalt, Datum, Aktenzeichen und Quelle live verifizieren.
+- OLG Frankfurt, Urt. v. 04.11.2014 – 11 U 75/13 (Verlagsvertrag Erscheinungspflicht): https://openjur.de
 
 ## Output-Formate
 
-- **Plattform-Compliance-Tabelle**: Alle E-Book-Plattformen × Preis × Status
-- **Vertragscheck Plattformvertrag**: Preisbindungsklauseln vorhanden / fehlend / mangelhaft
-- **Monitoring-Bericht**: Preisabweichungen der letzten 30 Tage
-- **Abmahnungsentwurf** bei Preisbindungsverstoß durch Plattform
-- **MFN-Klausel-Risikoanalyse**
+- **Pflichtenprofil**: Tabelle Autor vs. Verlag mit Erfüllungsstatus
+- **Rückruf-Ampel**: Voraussetzungen von §§ 41, 42 UrhG und VerlG §§ 7–8 geprüft
+- **Fristenplan**: Ankündigungs- und Ausübungsfristen
+- **Entwurf Rückrufschreiben**: Ankündigung nach § 41 UrhG oder Rücktritt nach § 7 VerlG
+- **Rechteübertragungsmatrix**: Nutzungsarten mit Übertragungsstatus
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
-## Skill: `presserecht-gegendarstellung-und-unterlassung`
+## Skill: `verl-004-manuskriptablieferung-abnahme-lektorat-und-verzug`
 
-_Verlagsrecht: Presserecht, Gegendarstellung und Unterlassungsansprüche — Landespressegesetze, Meinungsfreiheit, Schmähkritik, Unterlassung und Schadensersatz bei Pressedelikten im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung._
+_Wenn es um Verlagsrecht: Manuskriptablieferung Abnahme Lektorat und Verzug in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Verl-031 · Presserecht, Gegendarstellung und Unterlassung
+# Verlagsrecht: Manuskriptablieferung Abnahme Lektorat und Verzug
 
-## Arbeitsweg
+## Aufgabe
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Dieser Skill bearbeitet **Manuskriptablieferung Abnahme Lektorat und Verzug** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
-## Zweck dieses Skills
+## Kaltstart in 6 Fragen
 
-Verlage und Zeitschriften operieren im Spannungsfeld zwischen **Pressefreiheit** (GG Art. 5) und dem Schutz von Persönlichkeitsrechten, Unternehmensreputation und Datenschutz. Kläre die presserechtlichen Grundlagen, das Gegendarstellungsrecht, Unterlassungsansprüche und die Haftung für Presseberichte.
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
 
-## Rechtsgrundlagen
+## Prüfprogramm
 
-| Norm | Inhalt | Quelle |
-|------|--------|-------|
-| GG Art. 5 Abs. 1 | Presse-, Meinungs- und Rundfunkfreiheit | https://www.gesetze-im-internet.de/gg/art_5.html |
-| GG Art. 1 Abs. 1 i.V.m. Art. 2 Abs. 1 | Allgemeines Persönlichkeitsrecht | https://www.gesetze-im-internet.de/gg/art_1.html |
-| LPG (Landespressegesetze) | Länderspezifische Presseregelungen; Gegendarstellungsrecht | (länderspezifisch; z.B. § 11 LPG Bayern) |
-| BGB § 823 | Haftung für Pressedelikte | https://dejure.org/gesetze/BGB/823.html |
-| BGB § 824 | Kreditgefährdung durch unwahre Tatsachen | https://dejure.org/gesetze/BGB/824.html |
-| StGB §§ 186, 187 | Üble Nachrede, Verleumdung | https://dejure.org/gesetze/StGB/186.html |
-| UrhG § 50 | Berichterstattung über aktuelle Ereignisse | https://dejure.org/gesetze/UrhG/50.html |
-
-## Pressefreiheit und ihre Grenzen
-
-### Geschützte Betätigungen
-- Berichterstattung über Personen des öffentlichen Lebens.
-- Recherche, Beschaffung von Informationen.
-- Meinungsäußerungen, Kommentare, Kritik.
-- Satire (mit gewissen Einschränkungen).
-
-### Grenzen der Pressefreiheit
-- Unwahre Tatsachenbehauptungen: Nicht von Pressefreiheit gedeckt.
-- Schmähkritik: Angriff ohne Sachbezug, der allein auf Verunglimpfung zielt → kein Schutz durch Meinungsfreiheit.
-- Verletzung der Intimsphäre: Auch bei öffentlichem Interesse gibt es absolute Schutzbereiche.
-- Verdachtsberichterstattung: Nur zulässig bei ausreichendem Mindestbestand an Beweistatsachen und Anhörung des Betroffenen.
-
-## Gegendarstellung
-
-### Anspruchsgrundlage
-- Landespressegesetze: Betroffene Person hat Anspruch auf Veröffentlichung einer Gegendarstellung.
-- Voraussetzung: Veröffentlichung von Tatsachenbehauptungen (nicht Meinungen), die die Person betreffen.
-- Keine Prüfung der Richtigkeit durch Redaktion; Veröffentlichungspflicht besteht auch bei Zweifeln.
-
-### Form und Fristen
-- Gegendarstellung: Schriftlich; vom Betroffenen oder Bevollmächtigten unterzeichnet.
-- Frist: Einreichung innerhalb von (je nach Landesgesetz) 3 Monaten nach Veröffentlichung.
-- Umfang: Darf nicht unverhältnismäßig länger sein als der Originalbericht.
-- Verlag muss die Gegendarstellung: In derselben Ausgabe (Online: unverzüglich), gleiche Schriftgröße, gleiches Layout.
-
-### Verweigerungsgründe
-- Gegendarstellung enthält strafbare Inhalte.
-- Gegendarstellung bezieht sich nicht auf Tatsachenbehauptungen (sondern Meinungen).
-- Gegendarstellung ist offensichtlich unwahr.
-
-## Unterlassungsanspruch bei Pressedelikten
-
-### Anspruchsgrundlage
-- § 823 Abs. 1 BGB i.V.m. § 1004 BGB analog: Betroffener kann Unterlassung unwahren oder persönlichkeitsverletzenden Berichterstattung verlangen.
-- § 824 BGB: Kreditgefährdung; unwahre Tatsachen, die geeignet sind, den Kredit oder das Fortkommen zu gefährden.
-
-### Verfahren
-1. **Abmahnung**: Betroffener fordert Unterlassung; Frist 24–72 Stunden (presserechtlich dringend).
-2. **Unterlassungserklärung**: Verlag gibt strafbewehrte Erklärung ab (Vertragsstrafe bei Zuwiderhandlung).
-3. **Einstweilige Verfügung**: Wenn Unterlassungserklärung verweigert; Gericht kann innerhalb von Stunden entscheiden.
-4. **Hauptsacheklage**: Dauerhafte gerichtliche Unterlassung.
-
-### Schadensersatz und Geldentschädigung
-- Immaterieller Schaden (Geldentschädigung): Bei schwerwiegender, schuldhafter Persönlichkeitsrechtsverletzung; Höhe je nach Schwere und Verbreitung.
-- Materieller Schaden: Entgangene Geschäfte, Rufschaden (schwer zu beziffern, aber möglich).
-
-## Verdachtsberichterstattung
-
-### Voraussetzungen (BGH-Rechtsprechung)
-1. Mindestbestand an Belegen für den Verdacht.
-2. Anhörung des Betroffenen vor Veröffentlichung (Stellungnahme einholen).
-3. Berichterstattung als Verdacht kennzeichnen (nicht als feststehende Tatsache).
-4. Verhältnismäßigkeit: Öffentliches Interesse überwiegt Persönlichkeitsschutz.
-
-### Online-Berichte und Löschungsansprüche
-- Nicht aktualisierte Online-Artikel über abgeschlossene Verfahren können Persönlichkeitsrechte verletzen (Recht auf Vergessenwerden).
-- EuGH, C-131/12 (Google Spain): Recht auf Löschung aus Suchmaschinenindex.
-- BGH „Recht auf Vergessenwerden I und II" (2019): Deutsche Regelung für Online-Presseberichte.
-
-## Satire und Kunstfreiheit
-
-- Satire ist von Art. 5 Abs. 3 GG (Kunstfreiheit) oder Art. 5 Abs. 1 (Meinungsfreiheit) geschützt.
-- Grenzen: Satire darf nicht als Tarnmantel für ernsthafte Tatsachenbehauptungen dienen.
-- Kennzeichnung als Satire / Parodie wichtig; Verwechslungsgefahr mit echter Berichterstattung vermeiden.
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
+- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
+- Rechtekette und Drittmaterial zuerst klären
+- Keine Verlags-/Literaturfundstellen erfinden
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
 
 ## Typische Fallen
 
-- **Verdachtsberichterstattung ohne Anhörung**: Verlag berichtet über Korruptionsverdacht ohne Stellungnahme → Unterlassung und Gegendarstellung.
-- **Meinung als Tatsache formuliert**: „Das Unternehmen hat betrogen" ist Tatsachenbehauptung, nicht Meinung → muss wahr sein.
-- **Online-Artikel nicht aktualisiert**: Berichterstattung über Ermittlungsverfahren; Verfahren längst eingestellt; Artikel online noch abrufbar → Löschungsanspruch.
-- **Gegendarstellung verspätet oder zu lang**: Formfehler führt zu Ablehnung; Betroffener verliert Anspruch.
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
-## Checkliste Presserechtliche Prüfung
+## Output
 
-- [ ] Tatsachenbehauptungen von Meinungsäußerungen getrennt
-- [ ] Verdachtsberichterstattung: Mindestbelege vorhanden, Betroffener angehört
-- [ ] Online-Archiv: Abgeschlossene Verfahren aktualisiert oder mit Nachtrag versehen
-- [ ] Gegendarstellungs-Eingang: Form und Frist geprüft, Veröffentlichungspflicht bewertet
-- [ ] Satire: Deutlich als solche erkennbar
+- Vertragsredline
+- Preisbindungscheck
+- Rechtekettenmatrix
+- Autorenmail
+- Abmahnantwort
+- Verlagsmemo
 
-## Quellenreferenzen
+---
 
-- GG Art. 5: https://www.gesetze-im-internet.de/gg/art_5.html
-- BGB §§ 823, 824: https://dejure.org/gesetze/BGB/823.html
-- BVerfG „Lüth" BVerfGE 7, 198: https://www.bverfg.de
-- BGH „Recht auf Vergessenwerden I" VI ZR 405/18: https://www.bgh.de
-- EuGH C-131/12 (Google Spain): https://eur-lex.europa.eu
+## Skill: `verl-025-verlagsinsolvenz-rechte-rueckfall-und-lagerbestand`
 
-## Output-Formate
+_Wenn es um Verlagsrecht: Verlagsinsolvenz Rechte Rückfall und Lagerbestand in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-- **Presserechtliche Risikoprüfung**: Bericht auf Persönlichkeitsrechtsrisiken analysiert
-- **Gegendarstellungs-Vorlage**: Formelles Anforderungsschreiben
-- **Unterlassungserklärung** (strafbewehrt)
-- **Abmahnungs-Antwort**: Reaktion auf presserechtliche Abmahnung
-- **Online-Archiv-Audit**: Berichte mit Aktualisierungsbedarf identifiziert
+# Verlagsrecht: Verlagsinsolvenz Rechte Rückfall und Lagerbestand
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
+## Aufgabe
+
+Dieser Skill bearbeitet **Verlagsinsolvenz Rechte Rückfall und Lagerbestand** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+
+## Kaltstart in 6 Fragen
+
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+
+## Prüfprogramm
+
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
+- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
+- Rechtekette und Drittmaterial zuerst klären
+- Keine Verlags-/Literaturfundstellen erfinden
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+
+## Typische Fallen
+
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+
+## Output
+
+- Vertragsredline
+- Preisbindungscheck
+- Rechtekettenmatrix
+- Autorenmail
+- Abmahnantwort
+- Verlagsmemo
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

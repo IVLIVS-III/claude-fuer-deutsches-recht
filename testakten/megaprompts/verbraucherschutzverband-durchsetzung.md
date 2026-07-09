@@ -1,41 +1,42 @@
-# Megaprompt: verbraucherschutzverband-durchsetzung
+# Vollprüfung: verbraucherschutzverband-durchsetzung
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 120 Skills (gekuerzt fuer Chat-Fenster) des Plugins `verbraucherschutzverband-durchsetzung`.
+Dieser Vollprüfung enthaelt top-8 von 120 Skills (gekuerzt fuer Chat-Fenster) des Plugins `verbraucherschutzverband-durchsetzung`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Verbraucherschutzverband Durchsetzung: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Rout…
-2. **verbraucherverband-abhilfeklage-musterfeststellung-w-uklag** — Verbraucherschutzverband Durchsetzung: Abhilfeklage oder Musterfeststellung wählen. Abhilfeklage oder Musterfeststellung…
-3. **finanzierung-interessenkonflikte** — Verbraucherschutzverband Durchsetzung: Finanzierung und Interessenkonflikte. Finanzierung und Interessenkonflikte im Fac…
-4. **klageberechtigung-der-stelle-pruefen** — Verbraucherschutzverband Durchsetzung: Klageberechtigung der Stelle prüfen. Klageberechtigung der Stelle prüfen im Fachg…
-5. **verbandsklageregister-vorbereiten** — Verbraucherschutzverband Durchsetzung: Verbandsklageregister vorbereiten. Verbandsklageregister vorbereiten im Fachgebie…
-6. **uwg-verbraucherinteressen-pruefen** — Verbraucherschutzverband Durchsetzung: UWG-Verbraucherinteressen prüfen. UWG-Verbraucherinteressen prüfen im Fachgebiet …
-7. **verbraucherverband-beweismittel-offenlegung-nutzen-kommunikation** — Verbraucherschutzverband Durchsetzung: Beweismittel-Offenlegung nutzen. Beweismittel-Offenlegung nutzen im Fachgebiet Ve…
-8. **datenschutz-im-betroffenenpool** — Verbraucherschutzverband Durchsetzung: Datenschutz im Betroffenenpool. Datenschutz im Betroffenenpool im Fachgebiet Verb…
+1. **kaltstart-triage** — Wenn es um Verbraucherschutzverband Durchsetzung - Allgemeiner Einstieg in Verbraucherschutzverband Durchsetzung geht: k…
+2. **schufa-scoring-dsgvo-verbandsfall** — Wenn es um VDG 105 SCHUFA Scoring DSGVO Verbandsfall in Verbraucherschutzverband Durchsetzung geht: ordnet Sachverhalt, …
+3. **bestellbutton-uklag-uwg-abmahnung** — Wenn es um VDG 103 Bestellbutton UKlaG UWG Abmahnung in Verbraucherschutzverband Durchsetzung geht: erstellt den passend…
+4. **verbraucherverband-inkasso-konzerninkasso-musterfeststellung** — Wenn es um VDG 102 Inkasso Konzerninkasso Musterfeststellung in Verbraucherschutzverband Durchsetzung geht: ordnet Sachv…
+5. **bankentgelte-klageschrift-strukturiere** — Wenn es um Bankentgelte Klageschrift Strukturiere in Verbraucherschutzverband Durchsetzung geht: erstellt den passenden …
+6. **energiepreiserhoehung-klageschrift-str** — Wenn es um Energiepreiserhoehung Klageschrift Str in Verbraucherschutzverband Durchsetzung geht: erstellt den passenden …
+7. **fitnessstudio-klageschrift-strukturier** — Wenn es um Fitnessstudio Klageschrift Strukturier in Verbraucherschutzverband Durchsetzung geht: erstellt den passenden …
+8. **plattform-sperre-anspruchsgruppen-bild** — Wenn es um Plattform Sperre Klageschrift Struktur in Verbraucherschutzverband Durchsetzung geht: erstellt den passenden …
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Verbraucherschutzverband Durchsetzung: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe._
+_Wenn es um Verbraucherschutzverband Durchsetzung - Allgemeiner Einstieg in Verbraucherschutzverband Durchsetzung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Verbraucherschutzverband Durchsetzung - Allgemeiner Einstieg
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Verbraucherschutzverband Durchsetzung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Normenanker
 
@@ -99,11 +100,171 @@ Primär mit amtlichen Gesetzestexten, Behördenhinweisen, Gerichtsentscheidungen
 
 ---
 
-## Skill: `verbraucherverband-abhilfeklage-musterfeststellung-w-uklag`
+## Skill: `schufa-scoring-dsgvo-verbandsfall`
 
-_Verbraucherschutzverband Durchsetzung: Abhilfeklage oder Musterfeststellung wählen. Abhilfeklage oder Musterfeststellung wählen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung._
+_Wenn es um VDG 105 SCHUFA Scoring DSGVO Verbandsfall in Verbraucherschutzverband Durchsetzung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Abhilfeklage Oder Musterfeststellung W
+# VDG 105 SCHUFA Scoring DSGVO Verbandsfall
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Rechtsanker
+
+- Art. 5, 6, 12, 15, 16, 17, 21, 22 DSGVO.
+- EuGH, Urteil vom 07.12.2023, C-634/21, SCHUFA Holding (Scoring).
+- EuGH, Urteile vom 07.12.2023, C-26/22 und C-64/22, SCHUFA Holding (Restschuldbefreiung).
+- Art. 80 DSGVO und nationale Verbandsbefugnisse live prüfen.
+
+## Anspruchsgruppen
+
+- Score führte faktisch zur Ablehnung.
+- Negativeintrag zu bestrittener Forderung.
+- Restschuldbefreiung gespeichert/genutzt.
+- Identitätsdiebstahl.
+- Daten falsch, veraltet oder nicht nachvollziehbar.
+
+## Beweisplan
+
+- DSGVO-Auskunft der Auskunftei.
+- Entscheidung des Dritten: Kredit, Konto, Miete, Leasing.
+- Datensatzhistorie.
+- Forderungsstatus.
+- Kommunikation mit Datenschutzaufsicht.
+
+## Red Team
+
+Nicht jedes Scoring ist Art. 22 DSGVO. Prüfe, ob der Score für die Drittentscheidung tatsächlich maßgeblich war oder nur ein Hilfsindikator.
+
+---
+
+## Skill: `bestellbutton-uklag-uwg-abmahnung`
+
+_Wenn es um VDG 103 Bestellbutton UKlaG UWG Abmahnung in Verbraucherschutzverband Durchsetzung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# VDG 103 Bestellbutton UKlaG UWG Abmahnung
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 13 BGB` — Verbraucherbegriff.
+- `§ 14 BGB` — Unternehmerbegriff.
+- `§ 312c BGB` — Fernabsatzvertrag.
+- `§ 312d BGB` — Informationspflichten.
+- `§ 355 Abs. 1 BGB` — Widerrufsrecht.
+- `§ 357 BGB` — Rechtsfolgen des Widerrufs.
+- `§ 434 BGB` — Sachmangel.
+- `§ 475 BGB` — Verbrauchsgüterkauf.
+- `§ 477 BGB` — Beweislastumkehr.
+- `§ 5 UWG` — irrefuehrende geschäftliche Handlung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Rechtsanker
+
+- § 312j BGB.
+- UKlaG und UWG live prüfen.
+- EuGH, Urteil vom 07.04.2022, C-249/21, Fuhrmann-2.
+
+## Beweise
+
+Sichere:
+
+- Startseite, Warenkorb, letzte Bestellseite, Buttontext.
+- Preis, Laufzeit, Zusatzkosten, Liefer-/Leistungshinweise.
+- URL, Datum, Uhrzeit, Gerät, Browser, Spracheinstellung.
+- AGB und Widerrufsbelehrung.
+- Bestätigungsmail und Rechnung.
+
+## Prüfpfad
+
+1. Ist § 312j BGB anwendbar?
+2. Ist die Schaltfläche gut lesbar und eindeutig?
+3. Steht auf dem Button selbst genug oder nur irgendwo auf der Seite?
+4. Ist der Verstoß systematisch und wiederholbar?
+5. Welcher Antrag ist präzise genug, ohne rechtmäßige Gestaltungen mitzuerfassen?
+
+## Taktik
+
+Nicht moralisch überziehen. Gute Button-Fälle sind technisch-nüchtern: Der Text auf der Schaltfläche ist der Mittelpunkt.
+
+---
+
+## Skill: `verbraucherverband-inkasso-konzerninkasso-musterfeststellung`
+
+_Wenn es um VDG 102 Inkasso Konzerninkasso Musterfeststellung in Verbraucherschutzverband Durchsetzung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten._
+
+# VDG 102 Inkasso Konzerninkasso Musterfeststellung
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 13 BGB` — Verbraucherbegriff.
+- `§ 14 BGB` — Unternehmerbegriff.
+- `§ 312c BGB` — Fernabsatzvertrag.
+- `§ 312d BGB` — Informationspflichten.
+- `§ 355 Abs. 1 BGB` — Widerrufsrecht.
+- `§ 357 BGB` — Rechtsfolgen des Widerrufs.
+- `§ 434 BGB` — Sachmangel.
+- `§ 475 BGB` — Verbrauchsgüterkauf.
+- `§ 477 BGB` — Beweislastumkehr.
+- `§ 5 UWG` — irrefuehrende geschäftliche Handlung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Rechtsanker
+
+- §§ 249, 254, 280, 286 BGB.
+- RDG und Inkassoregistrierung live prüfen.
+- BGH, Urteil vom 19.02.2025, VIII ZR 138/23: Konzernverbundenheit allein beseitigt die Ersatzfähigkeit nicht.
+- VDuG/UKlaG/UWG je nach Klageziel.
+
+## Falltypen
+
+- Energie-, Telekommunikations-, Plattform- oder Versandhandelsforderungen.
+- Gekaufte Forderungsportfolios.
+- Konzernverbundenes Inkasso.
+- Nebenforderungskaskaden mit Mahnkosten, Auslagen, Bonitätsabfrage, Adressermittlung.
+- Drohbriefe mit Schufa, Gerichtsvollzieher, Strafanzeige oder Hausbesuch.
+
+## Arbeitsgang
+
+1. Hauptforderung und Nebenforderungen strikt trennen.
+2. Verzugslage der Verbrauchergruppe nachweisen.
+3. Inkassomodell wirtschaftlich verstehen: Abtretung, Einziehung, Konzernstruktur, Vergütung.
+4. Gebührenpositionen typisieren.
+5. Klageziel wählen: Unterlassung irreführender Darstellung, Rückzahlung, Feststellung oder Abhilfe.
+
+---
+
+## Skill: `bankentgelte-klageschrift-strukturiere`
+
+_Wenn es um Bankentgelte Klageschrift Strukturiere in Verbraucherschutzverband Durchsetzung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Bankentgelte Klageschrift Strukturiere
 
 ## Arbeitsweg
 
@@ -144,56 +305,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `finanzierung-interessenkonflikte`
+## Skill: `energiepreiserhoehung-klageschrift-str`
 
-_Verbraucherschutzverband Durchsetzung: Finanzierung und Interessenkonflikte. Finanzierung und Interessenkonflikte im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung._
+_Wenn es um Energiepreiserhoehung Klageschrift Str in Verbraucherschutzverband Durchsetzung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Finanzierung Und Interessenkonflikte
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 13 BGB` — Verbraucherbegriff.
-- `§ 14 BGB` — Unternehmerbegriff.
-- `§ 312c BGB` — Fernabsatzvertrag.
-- `§ 312d BGB` — Informationspflichten.
-- `§ 355 Abs. 1 BGB` — Widerrufsrecht.
-- `§ 357 BGB` — Rechtsfolgen des Widerrufs.
-- `§ 434 BGB` — Sachmangel.
-- `§ 475 BGB` — Verbrauchsgüterkauf.
-- `§ 477 BGB` — Beweislastumkehr.
-- `§ 5 UWG` — irrefuehrende geschäftliche Handlung.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- UKlaG, UWG, VDuG, KapMuG-Schnittstellen
-- Qualifizierte Einrichtungen und Verbandsklagebefugnis
-- Abmahnung, Unterlassung, Muster, Sammelverfahren
-- Verjährungshemmung, Register, Vergleich und Vollstreckung
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
-## Skill: `klageberechtigung-der-stelle-pruefen`
-
-_Verbraucherschutzverband Durchsetzung: Klageberechtigung der Stelle prüfen. Klageberechtigung der Stelle prüfen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung._
-
-# Klageberechtigung Der Stelle Prüfen
+# Energiepreiserhoehung Klageschrift Str
 
 ## Arbeitsweg
 
@@ -234,56 +350,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `verbandsklageregister-vorbereiten`
+## Skill: `fitnessstudio-klageschrift-strukturier`
 
-_Verbraucherschutzverband Durchsetzung: Verbandsklageregister vorbereiten. Verbandsklageregister vorbereiten im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung._
+_Wenn es um Fitnessstudio Klageschrift Strukturier in Verbraucherschutzverband Durchsetzung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Verbandsklageregister Vorbereiten
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 13 BGB` — Verbraucherbegriff.
-- `§ 14 BGB` — Unternehmerbegriff.
-- `§ 312c BGB` — Fernabsatzvertrag.
-- `§ 312d BGB` — Informationspflichten.
-- `§ 355 Abs. 1 BGB` — Widerrufsrecht.
-- `§ 357 BGB` — Rechtsfolgen des Widerrufs.
-- `§ 434 BGB` — Sachmangel.
-- `§ 475 BGB` — Verbrauchsgüterkauf.
-- `§ 477 BGB` — Beweislastumkehr.
-- `§ 5 UWG` — irrefuehrende geschäftliche Handlung.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- UKlaG, UWG, VDuG, KapMuG-Schnittstellen
-- Qualifizierte Einrichtungen und Verbandsklagebefugnis
-- Abmahnung, Unterlassung, Muster, Sammelverfahren
-- Verjährungshemmung, Register, Vergleich und Vollstreckung
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
-## Skill: `uwg-verbraucherinteressen-pruefen`
-
-_Verbraucherschutzverband Durchsetzung: UWG-Verbraucherinteressen prüfen. UWG-Verbraucherinteressen prüfen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung._
-
-# Uwg Verbraucherinteressen Prüfen
+# Fitnessstudio Klageschrift Strukturier
 
 ## Arbeitsweg
 
@@ -324,56 +395,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `verbraucherverband-beweismittel-offenlegung-nutzen-kommunikation`
+## Skill: `plattform-sperre-anspruchsgruppen-bild`
 
-_Verbraucherschutzverband Durchsetzung: Beweismittel-Offenlegung nutzen. Beweismittel-Offenlegung nutzen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung._
+_Wenn es um Plattform Sperre Klageschrift Struktur in Verbraucherschutzverband Durchsetzung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Beweismittel Offenlegung Nutzen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 13 BGB` — Verbraucherbegriff.
-- `§ 14 BGB` — Unternehmerbegriff.
-- `§ 312c BGB` — Fernabsatzvertrag.
-- `§ 312d BGB` — Informationspflichten.
-- `§ 355 Abs. 1 BGB` — Widerrufsrecht.
-- `§ 357 BGB` — Rechtsfolgen des Widerrufs.
-- `§ 434 BGB` — Sachmangel.
-- `§ 475 BGB` — Verbrauchsgüterkauf.
-- `§ 477 BGB` — Beweislastumkehr.
-- `§ 5 UWG` — irrefuehrende geschäftliche Handlung.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- UKlaG, UWG, VDuG, KapMuG-Schnittstellen
-- Qualifizierte Einrichtungen und Verbandsklagebefugnis
-- Abmahnung, Unterlassung, Muster, Sammelverfahren
-- Verjährungshemmung, Register, Vergleich und Vollstreckung
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
-## Skill: `datenschutz-im-betroffenenpool`
-
-_Verbraucherschutzverband Durchsetzung: Datenschutz im Betroffenenpool. Datenschutz im Betroffenenpool im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung._
-
-# Datenschutz Im Betroffenenpool
+# Plattform Sperre Klageschrift Struktur
 
 ## Arbeitsweg
 
@@ -416,7 +442,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

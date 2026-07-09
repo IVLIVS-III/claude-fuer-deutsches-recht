@@ -58,9 +58,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerwG, Urteil vom 25.11.2005 - 4 C 15.04: Kostenübernahme in städtebaulichen Verträgen braucht zurechenbaren städtebaulichen Bezug und darf nicht nicht delegierbare Gemeindeaufgaben verlagern.
 - BVerwG, Urteil vom 29.01.2009 - 4 C 15.07: Folgekostenverträge können bei mehreren Plangebieten tragfähig sein, wenn ein transparentes Gesamtkonzept die Kausalität belegt.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BVerwG, Urteil vom 12.12.1969 – 4 C 105.66
 - BVerwG, Urteil vom 12.12.1969 – 4 C 105.66 (Vier-Stufen-Lehre)
+- BVerwG, Urteil vom 5.7.1974 – 4 C 50.72 (Abwägungsausfall)
 
 ## 7. Antwortform
 

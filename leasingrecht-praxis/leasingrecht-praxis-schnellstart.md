@@ -58,9 +58,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 308 BGB: Klauselverbote mit Wertungsmöglichkeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
 - BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
-- Bewertung: BGH – wirksam bei Finanzierungsleasing (BGH VIII ZR 71/93), da LN wirtschaftlicher Eigentümer ist. Bei Operating-Lease und gegenüber Verbrauchern problematisch (Paragraf 309 Nr. 12 BGB)
-- Bewertung: Grundsätzlich wirksam, wenn die Abtretung tatsächlich erfolgt und LN klagebefugt wird. Unwirksam, wenn Abtretung ins Leere geht (Lieferant insolvent, Frist abgelaufen) und LN dann schutzlos
-- Bewertung: Zulässig als Schadensersatz (BGH, Urteil vom 14.03.2007 - VIII ZR 68/06), aber LN muss sich ersparte Aufwendungen und Verwertungserlös anrechnen lassen dürfen. Klauseln, die Anrechnung
+- BGH VIII ZR 71/93 (Gefahrtragung Finanzierungsleasing): https://www.bgh.de
+- BGH, Urteil vom 13.11.2013 - VIII ZR 257/12 (Abtretungsklausel): https://www.bgh.de
+- BGH, Urteil vom 14.03.2007 - VIII ZR 68/06 (Schadensersatz nach Kündigung): https://www.bgh.de
 
 ## 7. Antwortform
 

@@ -99,8 +99,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - EuGH, Urteil vom 05.12.2023 - C-683/21: Verantwortlichkeit setzt Einfluss auf Zwecke und Mittel der Verarbeitung voraus.
 - EuGH, Urteil vom 07.12.2023 - C-634/21: automatisiertes Scoring kann an Artikel 22 Datenschutz-Grundverordnung scheitern.
 - BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a.: informationelle Selbstbestimmung als verfassungsrechtlicher Leitanker.
-- EuGH C-300/21 (immaterieller Schaden Art. 82 Datenschutz-Grundverordnung)
-- EuGH C-634/21 (automatisierte Bonitätsbewertung Schufa)
 - EuGH C-26/22 (Datenschutzbehörden-Befugnisse)
 - EuGH C-807/21 (Bußgeldhaftung juristischer Personen)
 - BVerfG 1 BvR 16/13 (Recht auf Vergessen I)

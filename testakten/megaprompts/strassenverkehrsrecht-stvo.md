@@ -1,41 +1,42 @@
-# Megaprompt: strassenverkehrsrecht-stvo
+# Vollprüfung: strassenverkehrsrecht-stvo
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 117 Skills (gekuerzt fuer Chat-Fenster) des Plugins `strassenverkehrsrecht-stvo`.
+Dieser Vollprüfung enthaelt top-8 von 117 Skills (gekuerzt fuer Chat-Fenster) des Plugins `strassenverkehrsrecht-stvo`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Straßenverkehrsrecht StVO: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erst…
-2. **ausnahmegenehmigung-beantragen** — Straßenverkehrsrecht StVO: Ausnahmegenehmigung beantragen. Ausnahmegenehmigung beantragen im Fachgebiet Straßenverkehrsr…
-3. **blaulicht-und-sonderrechte** — Straßenverkehrsrecht StVO: Blaulicht und Sonderrechte. Blaulicht und Sonderrechte im Fachgebiet Straßenverkehrsrecht StV…
-4. **e-scooter-und-mikromobilitaet** — Straßenverkehrsrecht StVO: E-Scooter und Mikromobilität. E-Scooter und Mikromobilität im Fachgebiet Straßenverkehrsrecht…
-5. **eilrechtsschutz-verkehrszeichen** — Straßenverkehrsrecht StVO: Eilrechtsschutz Verkehrszeichen. Eilrechtsschutz Verkehrszeichen im Fachgebiet Straßenverkehr…
-6. **fahrerlaubnis-schnittstelle** — Straßenverkehrsrecht StVO: Fahrerlaubnis Schnittstelle. Fahrerlaubnis Schnittstelle im Fachgebiet Straßenverkehrsrecht S…
-7. **fahrtenbuchauflage** — Straßenverkehrsrecht StVO: Fahrtenbuchauflage. Fahrtenbuchauflage im Fachgebiet Straßenverkehrsrecht StVO als geführten …
-8. **gefahrenstelle-melden-schulweg** — Straßenverkehrsrecht StVO: Gefahrenstelle melden. Gefahrenstelle melden im Fachgebiet Straßenverkehrsrecht StVO als gefü…
+1. **kaltstart-triage** — Wenn es um Straßenverkehrsrecht StVO - Allgemeiner Einstieg in Straßenverkehrsrecht StVO geht: klärt Rolle, Ziel, Frist,…
+2. **kommunikation-mit-strassenverkehrsbeho** — Wenn es um Kommunikation Mit Strassenverkehrsbeho in Straßenverkehrsrecht StVO geht: ordnet Akteninhalt, Belege, Lücken …
+3. **schulstrasse-anordnung-antrag-schreiben** — Wenn es um Schulstrasse Anordnung Angreifen in Straßenverkehrsrecht StVO geht: erstellt den passenden Entwurf aus Sachve…
+4. **bewohnerparken-antrag-schreiben** — Wenn es um Bewohnerparken Antrag Schreiben in Straßenverkehrsrecht StVO geht: erstellt den passenden Entwurf aus Sachver…
+5. **fahrradstrasse-antrag-sichern** — Wenn es um Fahrradstrasse Antrag Schreiben in Straßenverkehrsrecht StVO geht: erstellt den passenden Entwurf aus Sachver…
+6. **schulstrasse-antrag-schreiben** — Wenn es um Schulstrasse Antrag Schreiben in Straßenverkehrsrecht StVO geht: erstellt den passenden Entwurf aus Sachverha…
+7. **busspur-anordnung-antrag-schreiben** — Wenn es um Busspur Anordnung Angreifen in Straßenverkehrsrecht StVO geht: erstellt den passenden Entwurf aus Sachverhalt…
+8. **haltverbot-antrag-schreiben** — Wenn es um Haltverbot Antrag Schreiben in Straßenverkehrsrecht StVO geht: erstellt den passenden Entwurf aus Sachverhalt…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Straßenverkehrsrecht StVO: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe._
+_Wenn es um Straßenverkehrsrecht StVO - Allgemeiner Einstieg in Straßenverkehrsrecht StVO geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Straßenverkehrsrecht StVO - Allgemeiner Einstieg
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Strassenverkehrsrecht Stvo** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Normenanker
 
@@ -89,11 +90,99 @@ Primär mit amtlichen Gesetzestexten, Behördenhinweisen, Gerichtsentscheidungen
 
 ---
 
-## Skill: `ausnahmegenehmigung-beantragen`
+## Skill: `kommunikation-mit-strassenverkehrsbeho`
 
-_Straßenverkehrsrecht StVO: Ausnahmegenehmigung beantragen. Ausnahmegenehmigung beantragen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Friste..._
+_Wenn es um Kommunikation Mit Strassenverkehrsbeho in Straßenverkehrsrecht StVO geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Ausnahmegenehmigung Beantragen
+# Kommunikation Mit Strassenverkehrsbeho
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 StVO` — gegenseitige Rücksichtnahme.
+- `§ 3 StVO` — Geschwindigkeit.
+- `§ 5 StVO` — Ueberholen.
+- `§ 24 StVG` — Verkehrsordnungswidrigkeiten.
+- `§ 25 StVG` — Fahrverbot.
+- `§ 28 StVG` — Fahreignungsregister.
+- `§ 49 StVO` — Ordnungswidrigkeiten.
+- `§ 69 StVZO` — Ordnungswidrigkeiten StVZO.
+- `§ 4 BKatV` — Regelfahrverbot.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+- StVO, StVG, FeV, VwV-StVO, BKatV
+- Verkehrszeichen, Anordnung, Halt-/Parken, Lieferzonen, Schulstraßen
+- Fahrerlaubnis, Punkte, MPU, Gefahrenabwehr, Verkehrsüberwachung
+- OWiG/StPO-Schnittstelle und Rechtsschutz gegen Anordnungen
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+---
+
+## Skill: `schulstrasse-anordnung-antrag-schreiben`
+
+_Wenn es um Schulstrasse Anordnung Angreifen in Straßenverkehrsrecht StVO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Schulstrasse Anordnung Angreifen
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 StVO` — gegenseitige Rücksichtnahme.
+- `§ 3 StVO` — Geschwindigkeit.
+- `§ 5 StVO` — Ueberholen.
+- `§ 24 StVG` — Verkehrsordnungswidrigkeiten.
+- `§ 25 StVG` — Fahrverbot.
+- `§ 28 StVG` — Fahreignungsregister.
+- `§ 49 StVO` — Ordnungswidrigkeiten.
+- `§ 69 StVZO` — Ordnungswidrigkeiten StVZO.
+- `§ 4 BKatV` — Regelfahrverbot.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+- StVO, StVG, FeV, VwV-StVO, BKatV
+- Verkehrszeichen, Anordnung, Halt-/Parken, Lieferzonen, Schulstraßen
+- Fahrerlaubnis, Punkte, MPU, Gefahrenabwehr, Verkehrsüberwachung
+- OWiG/StPO-Schnittstelle und Rechtsschutz gegen Anordnungen
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+---
+
+## Skill: `bewohnerparken-antrag-schreiben`
+
+_Wenn es um Bewohnerparken Antrag Schreiben in Straßenverkehrsrecht StVO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Bewohnerparken Antrag Schreiben
 
 ## Arbeitsweg
 
@@ -142,60 +231,15 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ### Leitentscheidungen
 
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
 ---
 
-## Skill: `blaulicht-und-sonderrechte`
+## Skill: `fahrradstrasse-antrag-sichern`
 
-_Straßenverkehrsrecht StVO: Blaulicht und Sonderrechte. Blaulicht und Sonderrechte im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Beleg..._
+_Wenn es um Fahrradstrasse Antrag Schreiben in Straßenverkehrsrecht StVO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Blaulicht Und Sonderrechte
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 StVO` — gegenseitige Rücksichtnahme.
-- `§ 3 StVO` — Geschwindigkeit.
-- `§ 5 StVO` — Ueberholen.
-- `§ 24 StVG` — Verkehrsordnungswidrigkeiten.
-- `§ 25 StVG` — Fahrverbot.
-- `§ 28 StVG` — Fahreignungsregister.
-- `§ 49 StVO` — Ordnungswidrigkeiten.
-- `§ 69 StVZO` — Ordnungswidrigkeiten StVZO.
-- `§ 4 BKatV` — Regelfahrverbot.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- StVO, StVG, FeV, VwV-StVO, BKatV
-- Verkehrszeichen, Anordnung, Halt-/Parken, Lieferzonen, Schulstraßen
-- Fahrerlaubnis, Punkte, MPU, Gefahrenabwehr, Verkehrsüberwachung
-- OWiG/StPO-Schnittstelle und Rechtsschutz gegen Anordnungen
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
-## Skill: `e-scooter-und-mikromobilitaet`
-
-_Straßenverkehrsrecht StVO: E-Scooter und Mikromobilität. E-Scooter und Mikromobilität im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, B..._
-
-# E Scooter Und Mikromobilitaet
+# Fahrradstrasse Antrag Schreiben
 
 ## Arbeitsweg
 
@@ -235,55 +279,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `eilrechtsschutz-verkehrszeichen`
+## Skill: `schulstrasse-antrag-schreiben`
 
-_Straßenverkehrsrecht StVO: Eilrechtsschutz Verkehrszeichen. Eilrechtsschutz Verkehrszeichen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fris..._
+_Wenn es um Schulstrasse Antrag Schreiben in Straßenverkehrsrecht StVO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Eilrechtsschutz Verkehrszeichen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 StVO` — gegenseitige Rücksichtnahme.
-- `§ 3 StVO` — Geschwindigkeit.
-- `§ 5 StVO` — Ueberholen.
-- `§ 24 StVG` — Verkehrsordnungswidrigkeiten.
-- `§ 25 StVG` — Fahrverbot.
-- `§ 28 StVG` — Fahreignungsregister.
-- `§ 49 StVO` — Ordnungswidrigkeiten.
-- `§ 69 StVZO` — Ordnungswidrigkeiten StVZO.
-- `§ 4 BKatV` — Regelfahrverbot.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- StVO, StVG, FeV, VwV-StVO, BKatV
-- Verkehrszeichen, Anordnung, Halt-/Parken, Lieferzonen, Schulstraßen
-- Fahrerlaubnis, Punkte, MPU, Gefahrenabwehr, Verkehrsüberwachung
-- OWiG/StPO-Schnittstelle und Rechtsschutz gegen Anordnungen
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
-## Skill: `fahrerlaubnis-schnittstelle`
-
-_Straßenverkehrsrecht StVO: Fahrerlaubnis Schnittstelle. Fahrerlaubnis Schnittstelle im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Bel..._
-
-# Fahrerlaubnis Schnittstelle
+# Schulstrasse Antrag Schreiben
 
 ## Arbeitsweg
 
@@ -323,11 +323,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `fahrtenbuchauflage`
+## Skill: `busspur-anordnung-antrag-schreiben`
 
-_Straßenverkehrsrecht StVO: Fahrtenbuchauflage. Fahrtenbuchauflage im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprec..._
+_Wenn es um Busspur Anordnung Angreifen in Straßenverkehrsrecht StVO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Fahrtenbuchauflage
+# Busspur Anordnung Angreifen
 
 ## Arbeitsweg
 
@@ -367,11 +367,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `gefahrenstelle-melden-schulweg`
+## Skill: `haltverbot-antrag-schreiben`
 
-_Straßenverkehrsrecht StVO: Gefahrenstelle melden. Gefahrenstelle melden im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rech..._
+_Wenn es um Haltverbot Antrag Schreiben in Straßenverkehrsrecht StVO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Gefahrenstelle Melden
+# Haltverbot Antrag Schreiben
 
 ## Arbeitsweg
 
@@ -413,7 +413,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

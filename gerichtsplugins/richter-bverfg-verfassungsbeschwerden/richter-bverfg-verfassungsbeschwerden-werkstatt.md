@@ -99,10 +99,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BVerfG, Beschluss vom 14.02.1973 - 1 BvR 112/65: Soraya staerkt Persönlichkeitsrecht und richterliche Rechtsfortbildung.
 - BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a.: Volkszaehlung entwickelt informationelle Selbstbestimmung.
 - BVerfG, Beschluss vom 24.05.2006 - 2 BvR 669/04: Verhaeltnismaessigkeit verlangt legitimen Zweck, Geeignetheit, Erforderlichkeit und Angemessenheit.
-- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein
-- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56, BVerfGE 7, 377, Apothekenurteil: Berufsfreiheitsbeschränkungen sind nach Eingriffsintensität und Verhältnismäßigkeit zu staffeln
 - BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68, BVerfGE 30, 173, Mephisto: Kunstfreiheit und Persönlichkeitsrecht sind fallbezogen abzuwägen
-- BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 und weitere, BVerfGE 65, 1, Volkszählung: Das Recht auf informationelle Selbstbestimmung schützt vor unbegrenzter Erhebung, Speicherung und Verknüpfung
 - BVerfG, Urteil vom 05.06.1973 - 1 BvR 536/72, BVerfGE 35, 202, Lebach: Berichterstattung und Resozialisierungsinteresse sind konkret zu gewichten
 
 ## 9. Prüfraster

@@ -102,9 +102,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04: Kittel-Rechtsprechung zum Vorsteuerabzug bei Kenntnis von Umsatzsteuerbetrug.
 - EuGH, Urteil vom 21.06.2012 - C-80/11 und C-142/11: Mahageben und David begrenzen überzogene Nachweispflichten beim Vorsteuerabzug.
 - BFH, Urteil vom 04.11.2021 - VI R 22/19, BStBl. II 2022, 562: Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen oder verteilen nationale Besteuerung
-- BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17, BVerfGE 158, 282: Steuerliche Zinsen müssen realitätsgerecht und verhältnismäßig ausgestaltet sein
-- EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04, Kittel und Recolta Recycling: Vorsteuerabzug kann versagt werden, wenn der Steuerpflichtige wusste oder hätte wissen müssen, dass er
-- EuGH, Urteil vom 21.06.2012 - C-80/11 und C-142/11, Mahagében und Dávid: Redlichen Unternehmern dürfen keine überspannten Nachforschungspflichten auferlegt werden
 - EuGH, Urteil vom 18.12.2014 - C-131/13, C-163/13 und C-164/13, Italmoda: Unionsrechtlich geprägte Steuerrechte können bei Beteiligung an Steuerbetrug versagt werden
 
 ## 9. Prüfraster

@@ -52,13 +52,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 327e: Vertragsmaessigkeit digitaler Produkte.
 - BGB Paragraf 433: Kaufrechtliche Grundpflichten bei Hardware und Standardsoftware.
 - BGB Paragraf 631: Werkvertragliche Pflichten bei Projektleistungen.
+- Paragraf 1 ProdHaftG / VO (EU) 2024/2853 neue Produkthaftungs-RL (Inkrafttreten 09.12.2026): Software und algorithmische Systeme sind Produkte, Beweiserleichterungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 1-19 ProdHaftG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 43a Abs. 3 BRAO Sachlichkeitsgebot, kein unwahrer Vortrag: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 138 ZPO Wahrheitspflicht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 263, 269 StGB als äußerste Grenze: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43a Abs. 3 BRAO; Paragraf 138 ZPO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschoepfung bei Softwaredownloads.
 - BGH, Urteil vom 15.11.2006 - XII ZR 120/04: Application-Service-Providing kann mietvertragliche Elemente tragen.
-- ] EuGH, Urteil vom 7. Dezember 2023, Rs. C-634/21 – SCHUFA Holding, ECLI:EU:C:2023:957, Rn. 73
 
 ## 7. Antwortform
 

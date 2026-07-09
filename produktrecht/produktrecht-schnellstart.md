@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du einen IT- oder Softwarevertrag prüfen und Leistungspflichten sowie Haftung sauber fassen.
+Wenn du das hier öffnest, willst du Produktsicherheit, Haftung, Warnung, Rückruf oder Launch-Freigabe schnell nach Risiko und Nachweis entscheiden.
 
 # Produktrecht — Schnellstart
 
@@ -17,47 +17,47 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Leistungsmodell: Kauf, Miete, Werk, Dienst, SaaS, Cloud oder Mischvertrag einordnen.
-2. Pflichtenheft: Funktion, Schnittstelle, Meilenstein, Testfall, Service-Level und Abnahme festlegen.
-3. Störung: Mangel, Verzug, Change Request, Mitwirkungsdefizit und Eskalationsmechanik trennen.
-4. Rechte und Daten: Nutzungsrechte, Open Source, Datenschutzschnittstelle, Zugriff und Loeschung prüfen.
-5. Arbeitsprodukt: IT-Vertragsklausel, Mängelrüge, Abnahmeprotokoll, Exit-Plan oder Projektmemo erstellen.
-6. /anpassen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Produkt und Rolle: Hersteller, Importeur, Händler, Fulfilment, Plattform, Betreiber oder Geschädigter bestimmen.
+2. Fehler und Risiko: Konstruktion, Fabrikation, Instruktion, Software, Update, Cyberrisiko und vorhersehbare Verwendung trennen.
+3. Pflichten und Belege: technische Norm, Test, Anleitung, Warnung, Reklamation, Produktbeobachtung und Marktüberwachung prüfen.
+4. Reaktion: Korrektur, Warnung, Rückruf, Behördenmeldung, Kundenkommunikation und Beweissicherung planen.
+5. Arbeitsprodukt: Launch-Matrix, Rückrufmemo, Haftungsanalyse, Behördenantwort oder Verteidigungsschreiben erstellen.
+6. /anpassen: Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | BGB Paragraf 327; BGB Paragraf 327e; BGB Paragraf 433 |
-| Rechtsprechung | EuGH, Urteil vom 03.07.2012 - C-128/11; BGH, Urteil vom 15.11.2006 - XII ZR 120/04 |
-| Tatbestand | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen |
-| Beweislast | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung |
-| Rechtsfolge | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
+| Normenanker | ProdHaftG Paragraf 1; ProdHaftG Paragraf 3; ProdHaftG Paragraf 4 |
+| Rechtsprechung | BGH, Urteil vom 16.06.2009 - VI ZR 107/08; BGH, Urteil vom 05.02.2013 - VI ZR 1/12 |
+| Tatbestand | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen |
+| Beweislast | Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung |
+| Rechtsfolge | Launch-Freigabe, Warnhinweis, Rückruf, Marktüberwachungsantwort, Haftungsmemo oder Verteidigungsentwurf |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| /anpassen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Produktrecht — Allgemein | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Belegmatrix: Mandantenkommunikation und Entscheidungsvorlage | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bewertungen: Behörden-, Gerichts- oder Registerweg | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| CE-Kennzeichnung Routenplan | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Chronologie: Red-Team und Qualitätskontrolle | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| /anpassen | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Produktrecht — Allgemein | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Belegmatrix: Mandantenkommunikation und Entscheidungsvorlage | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bewertungen: Behörden-, Gerichts- oder Registerweg | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| CE-Kennzeichnung Routenplan | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Chronologie: Red-Team und Qualitätskontrolle | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- BGB Paragraf 327: Verbraucherverträge über digitale Produkte.
-- BGB Paragraf 327e: Vertragsmaessigkeit digitaler Produkte.
-- BGB Paragraf 433: Kaufrechtliche Grundpflichten bei Hardware und Standardsoftware.
-- BGB Paragraf 631: Werkvertragliche Pflichten bei Projektleistungen.
+- ProdHaftG Paragraf 1: verschuldensunabhängige Haftung des Herstellers.
+- ProdHaftG Paragraf 3: Fehlerbegriff und berechtigte Sicherheitserwartung.
+- ProdHaftG Paragraf 4: Herstellerbegriff.
+- GPSR Artikel 5: allgemeine Sicherheitsanforderung.
 - Paragrafen 312 ff. BGB (Verbraucherschutzrecht, Informationspflichten) — Paragrafen 1-4 ProdHaftG (Produkthaftung) — Paragrafen 3, 3a UWG (Wettbewerbsrecht, Marktverhaltensregel) —: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 1-4 ProdHaftG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 1 ProdHaftG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1353 Abs. 1 BGB — eheliche Lebensgemeinschaft. - Paragraf 1360 BGB — Familienunterhalt. - Paragraf 1565 Abs. 1 BGB — Scheidung. - Paragraf 1570 BGB — Betreuungsunterhalt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1353 Abs. 1 BGB — eheliche Lebensgemeinschaft: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1360 BGB — Familienunterhalt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschoepfung bei Softwaredownloads.
-- BGH, Urteil vom 15.11.2006 - XII ZR 120/04: Application-Service-Providing kann mietvertragliche Elemente tragen.
+- BGH, Urteil vom 16.06.2009 - VI ZR 107/08: Produktfehler, Warnpflicht und Produktbeobachtung richten sich nach Gefahr, Rechtsgut und Sicherheitserwartung.
+- BGH, Urteil vom 05.02.2013 - VI ZR 1/12: Berechtigte Sicherheitserwartung knüpft an vorhersehbare übliche Verwendung und Gebrauchsanleitung an.
 
 ## 7. Antwortform
 

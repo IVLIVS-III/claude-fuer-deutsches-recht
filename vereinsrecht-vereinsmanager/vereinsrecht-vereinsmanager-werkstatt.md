@@ -100,8 +100,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 10.05.2016 - II ZR 342/14: Gesellschafterliste und Legitimationswirkung sind für GmbH-Rechte zentral.
 - BGH, Urteil vom 20.09.2011 - II ZR 234/09: Beschlussmängel in der GmbH folgen eigenstaendiger gesellschaftsrechtlicher Dogmatik.
 - BGH, Urteil vom 26.01.2009 - II ZR 260/07: Treuepflichten begrenzen gesellschaftsrechtliche Rechtsausübung.
-- Cloud-Dienste: Datenschutz-Grundverordnung Art. 28 Auftragsverarbeitungsvertrag mit dem Anbieter; bei US-Anbietern Standardvertragsklauseln (SCC) und Transfer Impact Assessment nach EuGH "Schrems II"
-- Politische Tätigkeit: gemeinnützige Vereine müssen politisch zurückhaltend agieren; klare Linie zur Lobbyarbeit ziehen (BFH-Linie zu Attac, BFH X R 7/16, Urteil v. 10.01.2019)
 
 ## 9. Prüfraster
 

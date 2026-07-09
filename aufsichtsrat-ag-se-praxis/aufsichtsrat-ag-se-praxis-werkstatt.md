@@ -87,7 +87,12 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - AktG Paragraf 93: Sorgfaltspflicht und Verantwortlichkeit des Vorstands.
 - Normen-/Quellenanker: AktG Paragrafen 90, 93, 111, 116, 118 ff., SE-VO/SEAG, DCGK, Geschäftsordnung, Zustimmungsvorbehalte, D&O und Insider-/Ad-hoc-Schnittstellen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 90 AktG als Mindestlinie nutzen: Berichtsanlässe, Berichtstiefe, Nachfragen, Sonderberichte und Eskalation bei Ausweichen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 93/Paragraf 116 AktG: Business Judgment Rule nur bei informierter, interessenfreier, unternehmerischer Entscheidung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 25d Abs. 1 KWG – Anforderungen an Mitglieder des Aufsichtsorgans: Zuverlässigkeit, ausreichende Sachkunde zur Wahrnehmung der Kontrollfunktion; eigenverantwortliche: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 25d Abs. 3 KWG – Kollektiver Sachverstand des Aufsichtsorgans: Gesamtgremium muss Kenntnisse in Bankgeschäft, Risikomanagement, Rechnungslegung, Vergütung, Regulierung und IT: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 25d Abs. 8 KWG – Mandatshöchstzahl: bei bedeutenden Instituten (Paragraf 1 Abs. 3c KWG) maximal 1 Exekutivmandat + 2 Nicht-Exekutivmandate oder 4 Nicht-Exekutivmandate: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 25d Abs. 9 KWG – Vergütungsausschuss: Pflicht bei bedeutenden Instituten; mindestens 3 Mitglieder; Unabhängigkeit; Überwachung Vergütungspolitik (InstVergV): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 25d Abs. 11 KWG – Risikoausschuss: Pflicht bei bedeutenden Instituten; Risikostrategie, Risikoappetit, ICAAP/ILAAP-Überwachung; Bericht an Gesamtgremium: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 36 Abs. 3 KWG – Abberufung von Aufsichtsratsmitgliedern durch BaFin: bei dauerhafter Ungeeignetheit oder Unzuverlässigkeit; BaFin-Anhörungspflicht; Klagerecht beim VG Frankfurt: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -96,7 +101,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 10.05.2016 - II ZR 342/14: Gesellschafterliste und Legitimationswirkung sind für GmbH-Rechte zentral.
 - BGH, Urteil vom 20.09.2011 - II ZR 234/09: Beschlussmängel in der GmbH folgen eigenstaendiger gesellschaftsrechtlicher Dogmatik.
 - BGH, Urteil vom 26.01.2009 - II ZR 260/07: Treuepflichten begrenzen gesellschaftsrechtliche Rechtsausübung.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 9. Prüfraster
 

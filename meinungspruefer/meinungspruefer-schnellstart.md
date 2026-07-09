@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Art. 5 GG schützt auch scharfe, polemische und verletzende Meinungen; Art. 11 GRCh ersetzt Art. 5 GG nicht, sondern wirkt; Art. 10 EMRK schützt Freiheit der Meinungsäußerung; Einschränkungen |
-| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung); EuGH, Urteil vom 16.12.2008 - C-73/07, Satakunnan Markkinapörssi |
+| Rechtsprechung | EuGH, Urteil vom 16.12.2008 - C-73/07, Satakunnan Markkinapörssi; EuGH, Urteil vom 14.02.2019 - C-345/17, Buivids |
 | Tatbestand | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -51,10 +51,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Art. 5 GG schützt auch scharfe, polemische und verletzende Meinungen. Das bedeutet nicht, dass Ehrschutz verdrängt wird. Es bedeutet: Im Normalfall muss konkret abgewogen werden: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 11 GRCh ersetzt Art. 5 GG nicht, sondern wirkt im Anwendungsbereich des Unionsrechts: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 10 EMRK schützt Freiheit der Meinungsäußerung; Einschränkungen müssen gesetzlich vorgesehen, legitim und in einer demokratischen Gesellschaft notwendig sein. Art. 11 GRCh schützt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - EuGH, Urteil vom 16.12.2008 - C-73/07, Satakunnan Markkinapörssi und Satamedia: Journalistische Zwecke sind funktional zu verstehen; Datenschutz darf öffentliche Information nicht pauschal ersticken
 - EuGH, Urteil vom 14.02.2019 - C-345/17, Buivids: Auch Einzelpersonen können journalistische Zwecke verfolgen; Veröffentlichung von Polizeivideo braucht Abwägung mit Datenschutz
 - EuGH, Urteil vom 24.09.2019 - C-507/17, Google/CNIL: De-Referenzierung muss räumlich und grundrechtlich austariert werden; kein Automatismus weltweiter Löschung
+- EuGH, Urteil vom 03.10.2019 - C-18/18, Glawischnig-Piesczek/Facebook Ireland: Gerichte können Plattformen zur Entfernung identischer und unter Umständen gleichwertiger rechtswidriger Inhalte verpflichten
 
 ## 7. Antwortform
 

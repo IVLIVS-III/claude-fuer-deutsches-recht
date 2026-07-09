@@ -52,13 +52,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 327e: Vertragsmaessigkeit digitaler Produkte.
 - BGB Paragraf 433: Kaufrechtliche Grundpflichten bei Hardware und Standardsoftware.
 - BGB Paragraf 631: Werkvertragliche Pflichten bei Projektleistungen.
+- Paragraf 32 BSIG n. F. — Meldepflichten erheblicher Sicherheitsvorfälle für wichtige und besonders wichtige Einrichtungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 202a StGB — Ausspähen von Daten (Freiheitsstrafe bis 3 Jahre): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 202b StGB — Abfangen von Daten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 202c StGB — Vorbereiten des Ausspähens (Hacker-Tools): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 202d StGB — Datenhehlerei: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschoepfung bei Softwaredownloads.
 - BGH, Urteil vom 15.11.2006 - XII ZR 120/04: Application-Service-Providing kann mietvertragliche Elemente tragen.
-- 3. BAG 27.07.2017, 2 AZR 681/16 (Keylogger): Verwertungsverbot bei verdeckter Überwachung ohne dokumentierten Verdacht
 - EuGH 16.07.2020 C-311/18 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 
 ## 7. Antwortform

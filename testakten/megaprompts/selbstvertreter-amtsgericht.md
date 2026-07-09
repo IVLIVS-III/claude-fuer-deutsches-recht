@@ -1,27 +1,27 @@
-# Megaprompt: selbstvertreter-amtsgericht
+# Vollprüfung: selbstvertreter-amtsgericht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 89 Skills des Plugins `selbstvertreter-amtsgericht`.
+Dieser Vollprüfung enthaelt top-10 von 89 Skills des Plugins `selbstvertreter-amtsgericht`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Selbstvertreter-Amtsgericht-Plugin. Fragt Erfahrungslevel, Rolle, Ziel, Frist…
-2. **orientierung-selbstvertreter-amtsgericht** — Triage und Einstieg für Bürger, die sich ohne Anwalt vor dem Amtsgericht vertreten wollen. Klärt Erfahrungslevel, Rolle,…
-3. **klage-vereinfachtes-verfahren-495a-zpo** — Vereinfachtes Verfahren nach § 495a ZPO bei Streitwert bis 1.000 EUR (Anhebung von 600 EUR zum 01.01.2026). Gericht ents…
-4. **berufungs-zulassung-niedrig-streitwert** — Zulassung der Berufung bei niedriger Beschwer § 511 IV ZPO. Wertgrenze seit 2026 1.000 EUR. Grundsaetzliche Bedeutung Fo…
-5. **muendliche-verhandlung-akten-griffbereit** — Mit Akten und Anlagen optimal in die muendliche Verhandlung vor dem Amtsgericht. Anlagen-Reiter Stichwort-Liste Mitschre…
-6. **online-verfahren-11-buch-zpo-experimentell** — Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026. Vollständig digitales Zivilverfahren bestimmte Streitwerte …
-7. **einreichung-papierform-mit-abschriften** — Einreichung der Klage in Papierform. Anzahl der Abschriften Versand per Post Einschreiben oder persönliche Abgabe an der…
-8. **sachliche-zustaendigkeit-amtsgericht-23-gvg** — Prüfung der sachlichen Zuständigkeit des Amtsgerichts nach § 23 GVG. Wertgrenze seit 01.01.2026 zehntausend EUR (§ 23 Nr…
-9. **klageerwiderung-replik-anlagen-b1-b2** — Anlagen-Nummerierung in Klageerwiderung und Replik korrekt fortführen. Beklagter nutzt B1 B2 B3. Kläger nutzt in Replik …
-10. **beratungshilfe-aussergerichtlich-brh** — Beratungshilfe vor Klageerhebung. Beratungshilfegesetz BerHG ermöglicht bedürftigen Buergern kostenlose oder verguenstig…
+1. **kaltstart-triage** — Wenn es um Kaltstart Triage in selbstvertreter-amtsgericht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden …
+2. **orientierung-selbstvertreter-amtsgericht** — Wenn es um Orientierung: Sie wollen sich selbst vor dem Amtsgericht vertreten in selbstvertreter-amtsgericht geht: prüft…
+3. **ausnahmen-streitwertgrenze-23-nr-2-gvg** — Wenn es um Wann ist das Amtsgericht **immer** zuständig (egal wie hoch der Streitwert)? in selbstvertreter-amtsgericht g…
+4. **klageerwiderung-replik-anlagen-b1-b2-fortlaufend** — Wenn es um Anlagen-Nummerierung in Klageerwiderung und Replik korrekt fortführen in selbstvertreter-amtsgericht geht: er…
+5. **klageerwiderung-replik-anlagen-b1-b2** — Wenn es um Anlagen in Klageerwiderung und Replik — die Nummerierung fortfuehren in selbstvertreter-amtsgericht geht: ers…
+6. **richterlicher-hinweis-139-zpo-reaktion** — Wenn es um Richterlicher Hinweis nach Paragraf 139 ZPO: Was tun? in selbstvertreter-amtsgericht geht: ordnet Sachverhalt…
+7. **gerichtskostenvorschuss-12-gkg** — Wenn es um Gerichtskostenvorschuss: Klage wird erst nach Zahlung zugestellt in selbstvertreter-amtsgericht geht: erstell…
+8. **wann-doch-anwalt-grenzfaelle** — Wenn es um Wann ist es Zeit, doch einen Anwalt zu nehmen? in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm,…
+9. **anwaltszwang-pruefen-78-zpo** — Wenn es um Brauche ich vor dem Amtsgericht einen Anwalt? in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, …
+10. **replik-auf-klageerwiderung-systematik** — Wenn es um Replik: Wie Sie als Kläger auf die Klageerwiderung antworten in selbstvertreter-amtsgericht geht: erstellt de…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting im Selbstvertreter-Amtsgericht-Plugin. Fragt Erfahrungslevel, Rolle, Ziel, Fristen, Streitwert, Gericht, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt Anfänger wie Fortgeschrittene durch Klage, Verteid..._
+_Wenn es um Kaltstart Triage in selbstvertreter-amtsgericht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 ## Schnellstart-Workflow
 
@@ -60,7 +60,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 
 ### 1. Intake in 60 Sekunden
 
-Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+Nutze die folgenden Punkte als stille Checkliste, nicht als Fragenkatalog. Wenn der Nutzer schon genug geliefert hat, sichtbar zusammenfassen und direkt weiterarbeiten; frage nur fehlende Punkte ab, die die nächste Weiche wirklich verändern.
 
 | Punkt | Frage | Warum wichtig? |
 |---|---|---|
@@ -253,7 +253,7 @@ Hinweis: Dieser Skill stärkt die Selbstvertretung, indem er Workflow, Fristen, 
 
 ## Skill: `orientierung-selbstvertreter-amtsgericht`
 
-_Triage und Einstieg für Bürger, die sich ohne Anwalt vor dem Amtsgericht vertreten wollen. Klärt Erfahrungslevel, Rolle, Fristen, Streitwert, Zuständigkeit, Anwaltszwang und verweist auf Anfänger-Workflow, Sanity-Check, Rechtsprechungschat, Klage, Verteidigung, Termin und Rechtsmittelgrenzen._
+_Wenn es um Orientierung: Sie wollen sich selbst vor dem Amtsgericht vertreten in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Orientierung: Sie wollen sich selbst vor dem Amtsgericht vertreten
 
@@ -345,717 +345,246 @@ Stand: 05/2026. § 23 Nr. 1 GVG: Wertgrenze 10.000 EUR seit 01.01.2026 (Anhebung
 
 ---
 
-## Skill: `klage-vereinfachtes-verfahren-495a-zpo`
+## Skill: `ausnahmen-streitwertgrenze-23-nr-2-gvg`
 
-_Vereinfachtes Verfahren nach § 495a ZPO bei Streitwert bis 1.000 EUR (Anhebung von 600 EUR zum 01.01.2026). Gericht entscheidet nach billigem Ermessen schriftliches Verfahren ohne muendliche Verhandlung möglich. Voraussetzungen Vorteile Risiken und wann sich ein Antrag auf muendliche Verhandlung..._
+_Wenn es um Wann ist das Amtsgericht **immer** zuständig (egal wie hoch der Streitwert)? in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Vereinfachtes Verfahren bis 1.000 EUR (§ 495a ZPO)
+# Wann ist das Amtsgericht **immer** zuständig (egal wie hoch der Streitwert)?
 
 ## Worum geht es?
 
-Bei Streitwerten **bis 1.000 EUR** (Stand 2026) kann das Amtsgericht das Verfahren nach **billigem Ermessen** gestalten — sprich: vereinfachte Form, oft schriftlich ohne muendliche Verhandlung, geringere Foermlichkeit. Das spart Zeit und Geld. Aber: Sie verlieren ein Stueck Verfahrensgarantie. Diese Skill zeigt, wann es sinnvoll ist und wann Sie muendliche Verhandlung beantragen sollten.
-
-**Reform-Hinweis:** Die Wertgrenze des § 495a ZPO wurde zum 01.01.2026 von 600 EUR auf 1.000 EUR angehoben. Damit fallen mehr kleinere Streitigkeiten unter das vereinfachte Verfahren.
+Manche Streitarten gehoeren immer ans Amtsgericht — auch wenn es um 200.000 EUR Mietnebenkosten geht. Das spart in der Praxis erhebliche Kosten, weil das LG nicht angerufen werden muss und kein Anwaltszwang besteht. Aber Vorsicht: Wenn Sie eine Forderung versehentlich beim LG einreichen, wird sie verwiesen — Zeit- und Kostenverlust.
 
 ## Wann brauchen Sie diese Skill?
 
-- Ihr Streitwert ist niedrig (bis 1.000 EUR).
-- Sie wollen wissen, wie das vereinfachte Verfahren laeuft.
-- Sie wollen prüfen, ob Sie muendliche Verhandlung beantragen sollten.
+- Sie haben eine Mietsache (egal welcher Betrag).
+- Es geht um eine Reisemangel-Erstattung.
+- Sie streiten um Unterhalt.
+- Sie sind unsicher, ob Ihr Streit unter eine Sonderzuständigkeit faellt.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Vereinfachtes Verfahren**: Verfahrensart mit reduzierten Foermlichkeiten.
-- **Billiges Ermessen**: Gericht entscheidet über Verfahrensgestaltung nach eigener Einschaetzung.
-- **Schriftliches Verfahren**: Keine muendliche Verhandlung, Entscheidung nach Aktenlage.
-- **Antrag auf muendliche Verhandlung**: Recht der Partei, eine muendliche Verhandlung zu erzwingen (§ 495a S. 2 ZPO).
+- **Wohnraummietsache**: Streit aus einem Mietverhaeltnis über Wohnraum (= Wohnung, nicht Gewerbe).
+- **Reisevertrag**: Pauschalreisevertrag nach §§ 651a ff. BGB. Auch verbundene Reise.
+- **Wildschaden**: Schaden, den Wild (Reh, Wildschwein) z. B. an einem Acker angerichtet hat.
+- **Familiensache**: Scheidung, Sorgerecht, Versorgungsausgleich u. a., § 111 FamFG.
 
 ## Rechtsgrundlagen
 
-- **§ 495a ZPO (Fassung seit 01.01.2026)** — Verfahren bei Streitwerten bis **1.000 EUR**; Gericht bestimmt nach billigem Ermessen. Anhebung von 600 EUR auf 1.000 EUR durch das Justizstandort-Staerkungsgesetz.
-- **§ 495a S. 2 ZPO** — Antrag auf muendliche Verhandlung muss zugelassen werden.
-- **§ 4 ZPO** — Streitwert (Hauptforderung ohne Nebenforderungen).
+- **§ 23 Nr. 2 a GVG** — Wohnraummietsachen ohne Wertgrenze.
+- **§ 23 Nr. 2 b GVG** — Reisevertrag.
+- **§ 23 Nr. 2 c GVG** — Wildschaeden.
+- **§ 23 Nr. 2 d GVG** — Unterhalt unter Verwandten (greift heute nur noch ergaenzend; Hauptregelung über § 23a, § 111 FamFG).
+- **§ 23a GVG** — Familiensachen, Anhang.
+- **§ 23b GVG** — Betreuungssachen.
+- **§ 23c GVG** — Nachlass- und Teilungssachen.
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Prüfen, ob Streitwert bis 1.000 EUR
+### Schritt 1 — Prüfen Sie, ob Wohnraummietsache vorliegt
 
-Bezogen auf Hauptforderung ohne Nebenforderungen (§ 4 ZPO). Zinsen, Mahnkosten zaehlen nicht mit.
+Voraussetzung: Mietvertrag über **Wohnraum**. Gewerbliche Vermietung faellt **nicht** unter § 23 Nr. 2 a GVG — dort gilt die normale Streitwert-Regelung des § 23 Nr. 1 GVG.
 
-**Beispiele:**
+Wohnraum heisst: Raeume, die zum dauerhaften Wohnen vermietet sind. Mischformen (Wohnen + Geschäft) sind nach Schwerpunkt zu beurteilen.
 
-- Sie klagen 800 EUR Hauptforderung + 50 EUR Zinsen → Streitwert 800 EUR → § 495a ZPO anwendbar.
-- Sie klagen 1.000 EUR Hauptforderung → Streitwert 1.000 EUR → noch im Anwendungsbereich (Grenze ist eingeschlossen).
-- Sie klagen 1.200 EUR → § 495a ZPO **nicht** anwendbar; normales Verfahren.
+Typische Fragen:
 
-### Schritt 2 — Was bedeutet "billiges Ermessen"?
+- Nachforderung Nebenkosten 8.500 EUR? → AG, weil Wohnraummiete.
+- Kuendigung wegen Eigenbedarf? → AG.
+- Mieterhoehungs-Klage? → AG.
+- Schadensersatz wegen Mietsach-Beschaedigung 12.000 EUR? → AG.
+- Gewerbemiete 12.000 EUR? → regelmäßig LG, weil über der aktuellen § 23 Nr. 1 GVG-Grenze von 10.000 EUR.
 
-Das Gericht kann:
+### Schritt 2 — Reisevertrag?
 
-- Auf muendliche Verhandlung verzichten.
-- Eine kurze schriftliche Stellungnahme der Gegenseite verlangen, dann entscheiden.
-- Auch fristfrei verfahren.
-- Beweisaufnahme nach eigenem Plan gestalten.
+§ 23 Nr. 2 b GVG greift bei jedem Anspruch aus einem Pauschalreisevertrag (§§ 651a ff. BGB). Beispiele:
 
-In der Praxis: oft entscheidet das Gericht **nach Schriftsatz-Wechsel**, ohne muendliche Verhandlung.
+- Erstattung wegen Reisemangel (kakerlakenverseuchtes Hotel).
+- Schadensersatz wegen abgebrochener Reise.
+- Bei Pauschalreisen Beratungspflichtverstoss.
 
-### Schritt 3 — Vorteile
+Bei Einzelleistungen (nur Flug, nur Hotel) ist die Lage nicht eindeutig — moeglicherweise greift § 23 Nr. 1 GVG. Im Zweifel beim AG einreichen, das ist meist guenstiger.
 
-- Schneller (kein Termin).
-- Billiger (Sie sparen Reisekosten, keine Anwesenheitspflicht).
-- Geringerer Aufwand.
-- Bei klaren, schriftlich dokumentierten Sachverhalten meist ausreichend.
+### Schritt 3 — Familiensache?
 
-### Schritt 4 — Nachteile / Risiken
+Ehesachen, Folgesachen (Versorgungsausgleich, Hausrat), Sorgerecht, Umgang, Kindesunterhalt — alles AG (Familiengericht), aber **mit Anwaltszwang nach § 114 FamFG**. Skill `anwaltszwang-pruefen-78-zpo`.
 
-- Keine muendliche Verhandlung bedeutet: Sie können Ihre Sache nicht persoenlich darstellen.
-- Beweisaufnahme reduziert: oft keine Zeugen-Vernehmung im vereinfachten Verfahren.
-- Wenn Sie subtile Sachverhalts-Punkte haben, die im Schriftsatz schwer erklaerbar sind: muendliche Verhandlung sinnvoll.
+### Schritt 4 — Unterhalt zwischen Verwandten?
 
-### Schritt 5 — Antrag auf muendliche Verhandlung
+Heute Hauptregelung über Familienverfahrensgesetz (FamFG) und § 23a GVG i. V. m. § 231 FamFG. Praktisch immer AG (Familiengericht), Anwaltszwang gilt für Ehegattenunterhalt nach Trennung in Verbund mit Ehesache.
 
-Sie haben das **Recht** auf muendliche Verhandlung. Antrag genuegt (§ 495a S. 2 ZPO). Beispiel:
+### Schritt 5 — Nachlass- oder Betreuungssache?
+
+Erbschein-Antraege, Testamentsvollstreckung, Betreuung. Immer AG (§ 23b, 23c GVG), oft als FG-Verfahren nach FamFG.
+
+## Worauf Sie besonders achten müssen
+
+- **"Wohnraum" eng auslegen**: Eine reine Garagen-Vermietung ohne Wohnraum-Verbund ist **kein** § 23 Nr. 2 a GVG. Wenn die Garage Annex der Wohnung ist, hingegen schon.
+- **Reiseveranstalter-Insolvenz** ist eine andere Materie (Reisesicherungsschein-Anspruechre gegen Sicherungsfonds). Hier kann die Zuständigkeit anders liegen.
+- **Mischformen** (Mieter wohnt und arbeitet von zuhause): Im Zweifel Schwerpunkt-Lehre — wo ist der Schwerpunkt? Aufgaben-, Flaechen- oder Mietzweck.
+
+## Typische Fehler
+
+- "Bei 50.000 EUR Mietnebenkosten muss ich ans LG." → Nein, AG nach § 23 Nr. 2 a GVG.
+- "Reiseversicherungs-Anspruch gegen Versicherer ist Reisevertrag." → Nein, das ist Versicherungsvertrag. Streitwertgrenze § 23 Nr. 1 GVG anwendbar.
+- "Ehevertrag-Streit ist allgemeine Zivilsache." → Wenn er die Ehe betrifft, ist es Familiensache und Anwaltszwang.
+
+## Quellen und Aktualitaet
+
+Stand: 05/2026. § 23 Nr. 2 GVG unveraendert. Reform der Wertgrenze § 23 Nr. 1 GVG betrifft die Sonderzuständigkeiten nicht.
+
+---
+
+## Skill: `klageerwiderung-replik-anlagen-b1-b2-fortlaufend`
+
+_Wenn es um Anlagen-Nummerierung in Klageerwiderung und Replik korrekt fortführen in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Anlagen-Nummerierung in Klageerwiderung und Replik korrekt fortführen
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Anlagen-Nummerierung in Klageerwiderung und Replik korrekt fortführen. Beklagter nutzt B1 B2 B3. Kläger nutzt in Replik K-Folge-Nummern ab Klage-Endnummer plus eins. Keine doppelten Nummern Querverweise zwischen Schriftsaetzen. Anlagenverzeichnis aktualisieren.
+
+### Anlagen in Klageerwiderung und Replik — die Nummerierung fortfuehren
+
+## Worum geht es?
+
+Wenn Sie auf eine Klage antworten (= Klageerwiderung) oder selbst auf eine Klageerwiderung antworten (= Replik), müssen Sie wieder Anlagen einreichen. Aber **wie nummeriert man die richtig**, ohne dass es Verwirrung gibt? Diese Skill zeigt Ihnen die Praxis-Konvention.
+
+## In aller Kuerze
+
+- **Kläger** nutzt **K1, K2, K3, ...** durchgehend über alle Schriftsaetze hinweg.
+- **Beklagter** nutzt **B1, B2, B3, ...** durchgehend über alle Schriftsaetze hinweg.
+- Wenn Sie in der Klage bei K8 aufgehoert haben, geht die Replik mit K9 weiter.
+- Wenn der Beklagte in der Klageerwiderung bei B3 aufgehoert hat, geht die Duplik mit B4 weiter.
+- **Nie wieder bei 1 anfangen.** Sonst kollidieren die Nummern.
+
+## Wann brauchen Sie diese Skill?
+
+- Sie haben eine Klageerwiderung bekommen und schreiben eine Replik.
+- Sie sind beklagt und schreiben eine Klageerwiderung.
+- Sie schreiben eine Duplik (Beklagter antwortet auf die Replik).
+
+## Fachbegriffe (kurz erklaert)
+
+- **Klageerwiderung**: Der erste Schriftsatz des Beklagten, mit dem er auf die Klage antwortet.
+- **Replik**: Die Antwort des Klägers auf die Klageerwiderung.
+- **Duplik**: Die Antwort des Beklagten auf die Replik.
+- **K-Anlagen**: Anlagen des Klägers (K = Kläger).
+- **B-Anlagen**: Anlagen des Beklagten (B = Beklagter).
+
+## Schritt-für-Schritt — als Beklagter
+
+### Schritt 1 — Klage durchlesen und K-Anlagen identifizieren
+
+Lesen Sie die Klageschrift. Notieren Sie: Welche K-Anlagen liegen bei? K1, K2, K3, ...? Bei welcher hoert es auf? K8?
+
+### Schritt 2 — Eigene B-Anlagen festlegen
+
+Wenn Sie eigene Beweisstuecke haben, fangen Sie mit **B1** an. Die K-Nummern des Klägers werden NICHT verwendet. Kläger und Beklagter haben getrennte Nummerierungs-Stroenge.
+
+### Schritt 3 — Im Text verweisen
+
+In der Klageerwiderung schreiben Sie:
+
+> "Der Kläger behauptet, der Vertrag sei am 12.03.2025 geschlossen worden. **Das wird bestritten.** Tatsaechlich gab es nur ein Vor-Gespraech. Der Vertrags-Entwurf wurde dem Beklagten erst am 25.03.2025 zugeleitet (**Anlage B1** — E-Mail mit Vertrags-Entwurf)."
+
+Und auf K-Anlagen des Klägers verweisen Sie auch:
+
+> "Die vom Kläger vorgelegte Rechnung (**Anlage K2 der Klageschrift**) hat der Beklagte nicht erhalten."
+
+So ist klar: B1 = Beklagter-Anlage, K2 = Kläger-Anlage.
+
+### Schritt 4 — Anlagenverzeichnis B fuehren
+
+Am Ende der Klageerwiderung:
 
 ```
-Ich beantrage die Anberaumung einer muendlichen
-Verhandlung gemaess § 495a S. 2 ZPO.
+Anlagenverzeichnis (Beklagter)
 
-Begruendung: Der Sachverhalt ist im Schriftsatz
-nicht vollstaendig darstellbar, da Aussagen
-von Zeugen erforderlich sind.
+Anlage B1 — E-Mail mit Vertrags-Entwurf vom 25.03.2025 (1 Seite)
+Anlage B2 — Foto der gelieferten Ware mit Mangel (2 Seiten)
+Anlage B3 — Gutachten Sachverstaendiger ABC vom 15.05.2025 (8 Seiten)
 ```
 
-### Schritt 6 — Wann verzichten?
+## Schritt-für-Schritt — als Kläger in der Replik
 
-Verzichten Sie auf muendliche Verhandlung, wenn:
+### Schritt 1 — Letzte K-Nummer der Klage merken
 
-- Sachverhalt klar dokumentiert (Urkunden).
-- Keine Zeugen erforderlich.
-- Beklagter wird voraussichtlich nicht widersprechen oder nur formal.
+Wenn Sie in der Klage K1 bis K8 verwendet haben, geht es in der Replik mit **K9** weiter.
 
-Dann sparen Sie Zeit.
+### Schritt 2 — Klageerwiderung lesen und B-Anlagen prüfen
 
-### Schritt 7 — Wann auf muendliche Verhandlung bestehen?
+Schauen Sie sich an, welche B-Anlagen der Beklagte vorgelegt hat. Notieren Sie: B1, B2, B3.
 
-Bestehen Sie, wenn:
+### Schritt 3 — Eigene neue K-Anlagen festlegen
 
-- Zeugen-Beweis erforderlich.
-- Komplexer Sachverhalt.
-- Vergleichs-Verhandlung gewuenscht (im Termin oft möglich).
-- Sie das Gericht persoenlich ueberzeugen wollen.
+Wenn Sie neue Beweisstuecke brauchen, fangen Sie bei K9 an (nicht bei K1!).
 
-### Schritt 8 — Beweisaufnahme im vereinfachten Verfahren
+### Schritt 4 — Im Text verweisen
 
-Theoretisch möglich, aber selten. Wenn Beweis-Notwendigkeit besteht, beantragt das Gericht meist regulaere Beweisaufnahme oder wechselt ins Normalverfahren.
+In der Replik:
 
-## Worauf Sie besonders achten müssen
+> "Der Beklagte behauptet in der Klageerwiderung (S. 3, Absatz 2), der Vertrags-Entwurf sei erst am 25.03.2025 zugegangen (**Anlage B1**). **Dem wird widersprochen.** Vielmehr wurde der Vertrag bereits am 12.03.2025 in einem Praesenz-Treffen unterzeichnet (**Anlage K9** — Vertrags-Original mit Unterschriften)."
 
-- **Wertgrenze 1.000 EUR** seit 01.01.2026 (vorher 600 EUR). Bei Altklagen, die vor dem Stichtag anhaengig wurden, ggf. Uebergangsregelung prüfen.
-- **Antragsrecht auf muendliche Verhandlung** ist Garantiestueck — nutzen Sie es, wenn Sie es brauchen.
-- **Vergleichschance**: Im Termin oft besser als rein schriftlich.
+### Schritt 5 — Anlagenverzeichnis K fortfuehren
 
-## Typische Fehler
-
-- "Vereinfachtes Verfahren ist meine einzige Option." → Sie können muendliche Verhandlung beantragen.
-- "Keine muendliche Verhandlung heisst, mein Fall wird abgewiesen." → Nein, Gericht entscheidet trotzdem in der Sache.
-- "Ich brauche keine Anwesenheit." → Im vereinfachten Verfahren oft nicht erforderlich. Aber wenn Termin: pflichtschuldig erscheinen.
-- "Wertgrenze ist 600 EUR." → Veraltet. Seit 01.01.2026 sind es 1.000 EUR.
-
-## Quellen und Aktualitaet
-
-Stand: 05/2026. § 495a ZPO aktuelle Fassung: Wertgrenze 1.000 EUR (Anhebung von 600 EUR zum 01.01.2026 durch das Justizstandort-Staerkungsgesetz).
-
----
-
-## Skill: `berufungs-zulassung-niedrig-streitwert`
-
-_Zulassung der Berufung bei niedriger Beschwer § 511 IV ZPO. Wertgrenze seit 2026 1.000 EUR. Grundsaetzliche Bedeutung Fortbildung des Rechts Sicherung einheitlicher Rechtsprechung. Zulassung erfolgt ausschließlich durch das AG im Urteil eine eigene Zulassungs-Beschwerde gibt es nicht._
-
-# Berufungs-Zulassung bei Beschwer bis 1.000 EUR
-
-## Worum geht es?
-
-Wenn Ihre Beschwer **1.000 EUR oder weniger** betraegt, ist Berufung grundsätzlich **nicht** statthaft (§ 511 II Nr. 1 ZPO, Fassung seit 01.01.2026). Eine Berufung ist in dieser Konstellation nur möglich, wenn das **Amtsgericht selbst die Berufung in seinem Urteil ausdruecklich zugelassen hat** (§ 511 II Nr. 2 ZPO i.V.m. § 511 IV ZPO).
-
-**Achtung Uebergangsfaelle (§ 47 EGZPO):** Für Verfahren, in denen die anzufechtende Entscheidung **bis einschliesslich 31.12.2025** verkuendet bzw. der Geschäftsstelle uebergeben wurde — oder die muendliche Verhandlung bis dahin geschlossen war — gilt **weiterhin die alte Wertgrenze 600 EUR**. In solchen Faellen ist Berufung ohne Zulassung schon ab einer Beschwer von mehr als 600 EUR möglich. Prüfen Sie zuerst, in welche Phase Ihr Verfahren faellt.
-
-**Wichtig:** Die Zulassung erfolgt **nur durch das erstinstanzliche Gericht (AG)**. Wenn das AG nicht zugelassen hat, gibt es **keinen separaten Rechtsbehelf zum LG** — keine "Zulassungs-Beschwerde", keine "Nichtzulassungsbeschwerde" wie etwa in der Revision (§ 544 ZPO). Das AG-Urteil ist dann endgueltig.
-
-Eine sehr enge Ausnahme bietet die **Anhörungsruege § 321a ZPO** bei Verletzung des rechtlichen Gehoers — keine Vollkontrolle, sondern Korrektur eines Verfahrensfehlers durch das AG selbst.
-
-## Wann brauchen Sie diese Skill?
-
-- Ihre Beschwer ist 1.000 EUR oder weniger (bzw. 600 EUR oder weniger im Uebergangsfall nach § 47 EGZPO).
-- Sie meinen, Ihre Sache hat grundsaetzliche Bedeutung.
-- Sie wollen wissen, ob Sie das Urteil noch angreifen können, wenn das AG nicht zugelassen hat.
-
-## Fachbegriffe (kurz erklaert)
-
-- **Beschwer**: Differenz zwischen Antrag und Urteil zu Ihren Lasten.
-- **Grundsaetzliche Bedeutung**: Frage, deren Beantwortung über den Einzelfall hinaus klärend wirkt.
-- **Zulassung der Berufung**: Erklaerung des AG im Urteil, dass Berufung ausnahmsweise statthaft ist.
-- **Anhörungsruege**: Rechtsbehelf bei Verletzung des rechtlichen Gehoers (§ 321a ZPO).
-
-## Rechtsgrundlagen
-
-- **§ 511 II Nr. 2 ZPO** — Berufungs-Zulassung als Voraussetzung der Berufung bei geringer Beschwer.
-- **§ 511 IV ZPO** — Voraussetzungen der Zulassung. Zulassung erfolgt **durch das Gericht erster Instanz** (= AG).
-- **§ 47 EGZPO** — Uebergangsvorschrift Justizstandort-Staerkungsgesetz: alte Wertgrenze 600 EUR gilt fort für Altverfahren mit Stichtag 31.12.2025.
-- **§ 321a ZPO** — Anhörungsruege bei Gehoersverletzung (enge Ausnahme).
-- **§ 522 ZPO** — Verwerfung unstatthafter Berufung durch LG.
-
-## Schritt-für-Schritt-Anleitung
-
-### Schritt 1 — Zulassungsgruende prüfen
-
-§ 511 IV ZPO setzt voraus:
-
-- **Grundsaetzliche Bedeutung**: Rechtsfrage hat allgemeine Klärungs-Bedeutung.
-- **Fortbildung des Rechts**: Frage ist offen und braucht Entscheidung.
-- **Sicherung einheitlicher Rechtsprechung**: Divergierende Entscheidungen anderer Gerichte.
-
-In Praxis: AG-Urteile mit niedriger Beschwer werden sehr selten zugelassen.
-
-### Schritt 2 — Im AG-Verfahren Zulassung anregen
-
-Schon **im AG-Verfahren** können Sie die Zulassung der Berufung anregen — typisch in der muendlichen Verhandlung oder im letzten Schriftsatz. Begruendung:
-
-- Welche Rechtsfrage ist klärungs-beduerftig?
-- Gibt es divergierende Entscheidungen anderer Gerichte?
-- Warum ist Klärung wichtig?
-
-Das AG entscheidet über die Zulassung **im Urteil**.
-
-### Schritt 3 — Prüfen, ob das AG zugelassen hat
-
-Schauen Sie im Urteil unter "Tenor" oder am Ende der Entscheidungsgruende. Dort steht typisch:
-
-- "Die Berufung wird zugelassen." → Sie können Berufung einlegen. Skill `berufung-amtsgericht-511-zpo`.
-- Oder: Keine Aussage zur Zulassung. Das heisst: **Zulassung erfolgt nicht** (im Zweifel hat das AG sie geprueft und stillschweigend abgelehnt).
-
-### Schritt 4 — Wenn nicht zugelassen: keine Berufung
-
-Wenn das AG die Berufung nicht zugelassen hat und Ihre Beschwer 1.000 EUR oder weniger betraegt, ist die Berufung **endgueltig ausgeschlossen**. Eine separate "Zulassungs-Beschwerde" zum LG sieht § 511 ZPO **nicht** vor.
-
-Versuche, dennoch eine Berufung einzulegen, werden vom LG nach § 522 I ZPO als unzulaessig verworfen — mit Kostenfolge für Sie.
-
-**Uebergangsfall prüfen:** Wenn Ihre Beschwer zwischen 600 und 1.000 EUR liegt, kontrollieren Sie: Wurde das AG-Urteil bis 31.12.2025 verkuendet oder die muendliche Verhandlung bis dahin geschlossen? Dann gilt nach § 47 EGZPO die alte Wertgrenze 600 EUR — Berufung ist ohne Zulassung statthaft.
-
-### Schritt 5 — Enge Ausnahme: Anhörungsruege § 321a ZPO
-
-Wenn das AG **Ihr rechtliches Gehoer verletzt** hat (z.B. einen entscheidungserheblichen Vortrag vollstaendig ignoriert), können Sie binnen 2 Wochen ab Kenntnis Anhörungsruege erheben — beim **AG selbst** (nicht beim LG). Voraussetzungen sind eng:
-
-- Konkrete Gehoersverletzung darlegen.
-- Entscheidungserheblichkeit.
-- Frist 2 Wochen.
-
-Das AG prüft seine eigene Entscheidung. Bei Erfolg fuehrt es das Verfahren fort. Skill `wiedereinsetzung-frist-233-zpo` (Wiedereinsetzung, separates Thema).
-
-### Schritt 6 — Realistisch: meist Urteil akzeptieren
-
-Bei niedriger Beschwer ist oft sinnvoller, das AG-Urteil zu akzeptieren — selbst wenn Sie es für falsch halten. Die Kosten eines Berufungs- oder Anhörungsruege-Versuchs uebersteigen oft den Streitwert.
-
-### Schritt 7 — Bei Zulassung: Berufung einlegen
-
-Wenn das AG zugelassen hat: Sie können Berufung normal einlegen. Frist 1 Monat ab Zustellung (§ 517 ZPO). Begruendung durch Anwalt. Skill `berufung-amtsgericht-511-zpo`.
-
-## Worauf Sie besonders achten müssen
-
-- **Zulassung passiert im AG-Urteil** — nicht später.
-- **Keine separate Zulassungs-Beschwerde** zum LG. Wer trotzdem versucht, zahlt drauf.
-- **Anhörungsruege § 321a ZPO** ist die einzige Notfall-Option bei Gehoersverletzung — kein Allzweck-Rechtsmittel.
-- **Wertgrenze 1.000 EUR** (Stand 2026; frueher 600 EUR).
-- **Uebergangsfaelle § 47 EGZPO**: Alte 600-EUR-Grenze gilt fort, wenn Urteil bis 31.12.2025 verkuendet oder muendliche Verhandlung bis dahin geschlossen wurde.
-
-## Typische Fehler
-
-- "Mein Fall ist grundsätzlich, ich bekomme Zulassung." → Praxis sehr restriktiv; ohne Anregung im AG-Verfahren so gut wie nie.
-- "Wenn AG nicht zulaesst, lege ich Beschwerde beim LG ein." → Existiert nicht. Eine Zulassungs-Beschwerde gibt es in § 511 ZPO **nicht**.
-- "Anhörungsruege bedeutet zweite Chance auf alles." → Falsch. Nur bei konkreter, entscheidungserheblicher Gehoersverletzung.
-- "Wertgrenze ist 600 EUR." → Veraltet. Seit 01.01.2026 sind es 1.000 EUR — ausser in Uebergangsfaellen nach § 47 EGZPO.
-- "Mein altes Urteil ist nicht mehr berufungsfaehig, weil ich nur 800 EUR Beschwer habe." → Falsch, wenn das Urteil bis 31.12.2025 verkuendet wurde: dort gilt noch 600 EUR (§ 47 EGZPO).
-
-## Quellen und Aktualitaet
-
-Stand: 05/2026. § 511 ZPO mit Anhebung Beschwer auf 1.000 EUR seit 01.01.2026 (Justizstandort-Staerkungsgesetz vom 08.12.2025, BGBl. I Nr. 318). Uebergangsregel § 47 EGZPO: Alte Wertgrenze 600 EUR gilt fort für Verfahren mit anzufechtender Entscheidung bis 31.12.2025 bzw. mit bis dahin geschlossener muendlicher Verhandlung. Zulassung erfolgt ausschließlich durch das erstinstanzliche Gericht (AG). Eine eigenstaendige Zulassungs-Beschwerde zum LG sieht § 511 ZPO nicht vor.
-
----
-
-## Skill: `muendliche-verhandlung-akten-griffbereit`
-
-_Mit Akten und Anlagen optimal in die muendliche Verhandlung vor dem Amtsgericht. Anlagen-Reiter Stichwort-Liste Mitschreib-Block Notizen zu Streit-Punkten. Vorbereitung der Argumente zur Replik im Termin. Praesenz oder Video 128a ZPO. Was zum Tisch was in die Tasche._
-
-# In den Termin gehen — Akten griffbereit, Notizen parat
-
-## Worum geht es?
-
-Sie haben eine Klage eingereicht oder eine Klageerwiderung geschrieben. Jetzt kommt der Termin im Gerichtssaal (oder per Video). Diese Skill zeigt, **wie Sie Ihre Akten so vorbereiten, dass Sie im Termin nichts suchen müssen** und auf jede Frage des Richters die richtige Anlage in der Hand haben.
-
-## Wann brauchen Sie diese Skill?
-
-- Sie haben eine Ladung zum Termin bekommen.
-- Sie haben mehrere Anlagen und Schriftsaetze.
-- Sie wollen sich nicht im Termin blamieren, weil Sie etwas suchen müssen.
-
-## Fachbegriffe (kurz erklaert)
-
-- **Termin**: Die muendliche Verhandlung vor dem Richter. Beim Amtsgericht typisch im Gerichtssaal.
-- **Akten-Reiter**: Eine Trennlasche im Ordner, beschriftet, damit Sie Anlagen schnell finden.
-- **Termin-Stichwort-Liste**: Eine selbst gemachte Liste mit den wichtigsten Themen, die Sie ansprechen wollen.
-- **Mitschreib-Block**: Ein Notizblock, auf dem Sie im Termin festhalten, was der Richter sagt und was die Gegenseite sagt.
-
-## Schritt-für-Schritt-Vorbereitung
-
-### Schritt 1 — Akten-Ordner anlegen
-
-Besorgen Sie einen Ordner (Schnell-Hefter oder Ringordner). Erstellen Sie Trennlaschen mit:
-
-- **Tab 1: Klageschrift**
-- **Tab 2: Anlagenverzeichnis**
-- **Tab 3: Anlage K1**
-- **Tab 4: Anlage K2**
-- ... (so viele wie Sie Anlagen haben)
-- **Tab "Klageerwiderung"**
-- **Tab "Replik"**
-- **Tab "Termin-Notizen"** (leerer Block)
-
-Schreiben Sie auf die Trennlasche **groß und lesbar** den Tab-Namen.
-
-### Schritt 2 — Stichwort-Liste erstellen
-
-Erstellen Sie ein eigenes Blatt mit **maximal 1 Seite** mit den Punkten, die Sie unbedingt ansprechen wollen:
+Am Ende der Replik:
 
 ```
-Termin-Stichwort-Liste
+Anlagenverzeichnis (Klaeger) — Fortfuehrung
 
-1. Anspruch: 1.250 EUR aus Kaufvertrag vom 12.03.2025
-2. Kernpunkt: Beklagter hat die Lieferung verweigert.
-3. Beweise:
- - K1 = Vertrag (S. 2 Klausel III)
- - K2 = Rechnung (saldiert 1.250 EUR)
- - K3 = E-Mail Beklagter 20.04.2025 ("kann nicht zahlen")
- - K4 = Mahnung 02.05.2025
-4. Gegen-Argumente Beklagter:
- - sagt: Vertrag war nichtig wegen Wuchers
- - meine Antwort: marktueblicher Preis (siehe K5 = Vergleichs-Angebote)
-5. Vergleichs-Bereitschaft: ja, ab 900 EUR
-6. Zeugen vorhanden: Zeuge Mueller zu Anruf vom 18.04.2025
+(Anlagen K1 bis K8 wie in der Klageschrift)
+
+Anlage K9 — Vertrags-Original mit Unterschriften vom 12.03.2025 (3 Seiten)
+Anlage K10 — Zeugen-Aussage Zeuge Mueller schriftlich (2 Seiten)
 ```
 
-### Schritt 3 — Streit-Punkte gegenueberstellen
+So sieht man auf einen Blick: K1-K8 schon bekannt, K9-K10 neu.
 
-Auf einem weiteren Blatt machen Sie eine **Tabelle** mit den Streit-Punkten:
+## Schritt-für-Schritt — als Beklagter in der Duplik
 
-| Punkt aus Klageerwiderung | Meine Antwort / Replik | Beweis |
-|-------------------------------------|----------------------------------|---------------|
-| Vertrag war nichtig wegen Wuchers | Preis war marktueblich | K5 |
-| Lieferung war mangelhaft | War zur Zeit der Übergabe ok | K1 Klausel V |
-| Mahnung kam zu spaet | Frist eingehalten — 14 Tage | K4 Datum |
+### Schritt 1 — Letzte B-Nummer merken
 
-Diese Tabelle hilft Ihnen, im Termin **keinen Punkt zu vergessen**.
+B1, B2, B3 in der Klageerwiderung. In der Duplik geht es mit **B4** weiter.
 
-### Schritt 4 — Termin-Notizen vorbereiten
+### Schritt 2 — Eigene neue B-Anlagen vorlegen
 
-Legen Sie einen leeren Block oder Notizblock in die letzte Trennlasche. Im Termin schreiben Sie auf:
-
-- Was sagt der Richter?
-- Was sagt die Gegenseite?
-- Was wird beschlossen?
-- Welche Frist setzt das Gericht?
-
-### Schritt 5 — Was kommt auf den Tisch, was in die Tasche?
-
-**Auf den Tisch im Termin:**
-- Stichwort-Liste (1 Blatt)
-- Streit-Punkte-Tabelle (1 Blatt)
-- Klageschrift (gut sichtbar)
-- Mitschreib-Block
-
-**Im Ordner griffbereit:**
-- Alle Anlagen K1-Kn
-- Klageerwiderung der Gegenseite
-- Replik (falls Sie eine geschrieben haben)
-
-**In der Tasche als Reserve:**
-- Personalausweis
-- Ladungs-Schreiben
-- Wasser-Flasche
-- Kugelschreiber + Reserve-Stift
-
-### Schritt 6 — Anlagen-Reiter können Lebensretter sein
-
-Beschriften Sie jede Trennlasche so groß, dass Sie sie aus 30 cm Entfernung lesen können. So können Sie im Termin schnell zur richtigen Stelle blaettern, ohne lange zu suchen.
-
-## Bei Video-Verhandlung (§ 128a ZPO)
-
-Wenn der Termin als Video stattfindet, brauchen Sie:
-
-- Computer/Tablet mit Webcam und Mikrofon.
-- Ruhigen Raum.
-- **Akten-Ordner offen neben dem Geraet** — Sie können waehrend des Videos kurz reinschauen.
-- **Zweites Geraet (z.B. Tablet)** mit den wichtigsten PDFs offen — als Backup, wenn Sie schnell etwas zeigen sollen.
-- Stabile Internet-Verbindung.
-- Personalausweis für Identitaets-Prüfung griffbereit.
+```
+Anlage B4 — Gegenargument-Schriftstueck (...)
+Anlage B5 — Foto, das das Klaeger-Foto K9 widerlegt (...)
+```
 
 ## Worauf Sie besonders achten müssen
 
-- **Vor dem Termin durchblaettern**: Die Akten den Tag vor dem Termin noch einmal durchgehen. So sind Sie sicher, wo was steht.
-- **Frueh erscheinen**: 30 Min. vor Termin im Gericht sein (Sicherheits-Kontrolle, Saal suchen, anmelden).
-- **Hoeflicher Auftritt**: Aufstehen wenn der Richter den Saal betritt; Anrede sachlich-knapp "Herr Vorsitzender" / "Frau Vorsitzende" oder "Herr Richter" / "Frau Richterin". Veraltete Formeln wie "Hohes Gericht" oder "Hoher Herr Vorsitzender" sind nicht erforderlich. Skill `verhalten-gerichtssaal-laienleitfaden`.
-- **Nichts unaufgefordert sagen**: Warten, bis der Richter Sie aufruft.
-- **Klar und kurz sprechen**: Punkte aus der Stichwort-Liste der Reihe nach abarbeiten.
+- **Keine Kollision** — niemals zweimal "Anlage K3" oder "Anlage B2".
+- **Konsequenz**: Wenn Kläger K9, dann nicht "Anlage K1 zur Replik" schreiben.
+- **Querverweis** auf gegnerische Anlagen: "Anlage B1 der Klageerwiderung" — so ist klar, welche gemeint ist.
+- **Anlagenverzeichnis aktualisieren** — für jede neue Anlage ein Eintrag.
 
 ## Typische Fehler
 
-- **Fehler:** Akten unsortiert in einer Plastiktuete. → **So vermeiden:** Ordner mit Trennlaschen vorbereiten.
-- **Fehler:** Im Termin merken: eine Anlage zuhause vergessen. → **So vermeiden:** Vor Abfahrt Checkliste durchgehen.
-- **Fehler:** Vor lauter Aufregung Stichwort-Liste vergessen. → **So vermeiden:** Stichwort-Liste GANZ OBEN auf den Stapel.
-- **Fehler:** Bei Video-Verhandlung Webcam nicht getestet. → **So vermeiden:** Einen Tag vorher Probe-Verbindung machen.
-- **Fehler:** Mitschreib-Block vergessen, nichts notiert. → **So vermeiden:** Block und Stift IMMER mit.
+- **Fehler:** In der Replik wieder bei K1 angefangen → es gibt jetzt zwei "Anlage K1". → **So vermeiden:** Immer die K-Nummerierung aus der Klage fortfuehren.
+- **Fehler:** Beklagter nutzt K1, K2 (statt B1, B2) → Verwirrung. → **So vermeiden:** Beklagter immer B-Nummerierung.
+- **Fehler:** Anlagenverzeichnis vergessen, nur im Text auf Anlagen verwiesen. → **So vermeiden:** Anlagenverzeichnis ist Pflicht-Element.
+- **Fehler:** Querverweis "siehe Anlage 2" — unklar ob K2 oder B2. → **So vermeiden:** Immer den Buchstaben mitschreiben.
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. Termin-Vorbereitung ist Praxis-Konvention; die hier beschriebenen Akten-Methoden sind in der anwaltlichen Praxis Standard und auch für Selbstvertreter geeignet.
-
----
-
-## Skill: `online-verfahren-11-buch-zpo-experimentell`
-
-_Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026. Vollständig digitales Zivilverfahren bestimmte Streitwerte teilnehmende Amtsgerichte. Aktuelle Normen-Verortung prüfen. Vergleich Praesenz-Verfahren Vorteile Risiken Strukturierte Eingabe-Masken. Teilnahme._
-
-# Online-Verfahren — das neue digitale Zivilverfahren
-
-## Worum geht es?
-
-Seit 2025 gibt es in Deutschland ein **experimentelles vollstaendig digitales Zivilverfahren** ("Online-Verfahren"). Es ermoeglicht, einen Zivilrechtsstreit von Anfang bis Ende über eine Internet-Plattform zu fuehren — ohne Papier, ohne persönliche Termine vor Ort. Das Verfahren ist in einem neuen Buch der ZPO (vermutlich 11. Buch) verankert und gilt zunaechst nur an **teilnehmenden Amtsgerichten** und für **bestimmte Streit-Typen**.
-
-**Wichtig:** Die genaue Norm-Verortung (Paragraphennummer, Geltungsbereich, Schwellenwerte) ist im laufenden Gesetzgebungs- und Erprobungs-Verfahren. **Verifizieren Sie die aktuellen Normen in amtliche/freie Quellen oder lizenzierte Datenbanken und auf der Webseite Ihres oertlich zuständigen Amtsgerichts.**
-
-## In einfacher Sprache
-
-Es gibt ein neues Online-Gericht. Sie machen alles am Computer. Sie reichen die Klage ein. Sie sehen die Antwort der Gegenseite am Bildschirm. Manchmal gibt es ein Video-Treffen. Das gibt es nur bei einigen Gerichten und nur für bestimmte Streit-Themen.
-
-## Wann brauchen Sie diese Skill?
-
-- Sie wollen klagen und Ihr Amtsgericht bietet das Online-Verfahren an.
-- Sie wurden in einem Online-Verfahren verklagt.
-- Sie wollen wissen, ob das Online-Verfahren für Ihren Fall passt.
-
-## Fachbegriffe (kurz erklaert)
-
-- **Online-Verfahren**: Ein voll-digitales Zivilverfahren auf einer Internet-Plattform.
-- **Experimentier-Klausel**: Eine Gesetzesregelung, die ein neues Verfahren erstmal in einem Test-Modus zulaesst.
-- **Strukturierte Eingabe-Maske**: Ein Formular auf der Plattform, in das Sie Ihren Sachverhalt Schritt für Schritt eintippen.
-- **Teilnehmende Gerichte**: Nicht jedes Amtsgericht bietet das Online-Verfahren an. Eine Liste finden Sie auf der Webseite der Justiz Ihres Bundeslandes.
-
-## Rechtsgrundlagen (Stand 2026)
-
-- **11. Buch ZPO (Online-Verfahren)** — neues Buch der Zivilprozessordnung, eingefuehrt mit dem Gesetz zur Förderung digitaler Justiz-Verfahren (genaues Inkrafttreten und Paragraphen verifizieren).
-- **§ 128a ZPO** — Video-Verhandlung (auch im klassischen Verfahren möglich, vgl. `video-verhandlung-128a-zpo`).
-- **§ 130a ZPO** — elektronische Einreichung (gilt auch im klassischen Verfahren).
-
-**Verifizieren Sie die aktuelle Rechtslage** in amtliche/freie Quellen oder lizenzierte Datenbanken — die Normen-Nummerierung und der Anwendungsbereich des Online-Verfahrens werden im Erprobungs-Zeitraum noch praezisiert.
-
-## Was unterscheidet das Online-Verfahren vom normalen Verfahren?
-
-| Merkmal | Normales Verfahren | Online-Verfahren |
-|-----------------------|------------------------------------------|---------------------------------------------------------|
-| Klage einreichen | Papier oder MJP oder § 130a ZPO | Strukturierte Eingabe-Maske auf der Plattform |
-| Klageschrift | Freier Text in Word/PDF | Vorgegebene Felder (Antrag, Sachverhalt, Beweise) |
-| Schriftverkehr | E-Mail, Post, MJP | Plattform-internes Postfach |
-| Termin | Im Gerichtssaal | Video-Konferenz auf der Plattform |
-| Urteil | Schriftlich per Post | Im Plattform-Postfach |
-| Akteneinsicht | Geschäftsstelle, Anwalt | Plattform jederzeit |
-
-## Vorteile
-
-- **Niedrigschwellig**: Strukturierte Maske hilft Laien, alles Wichtige anzugeben.
-- **Kein Papier**: Alles digital.
-- **Termin von zuhause**: Per Video, kein Anreise-Stress.
-- **Schneller**: Erprobte Standard-Wege, weniger Wartezeit.
-
-## Risiken und Grenzen
-
-- **Nicht für komplexe Faelle**: Schwierige Sachverhalte (medizinische Gutachten, technische Details) lassen sich in der Eingabe-Maske nur eingeschraenkt darstellen.
-- **Technik-Voraussetzungen**: Sie brauchen Computer, stabile Internet-Verbindung, Webcam, Mikrofon.
-- **Identifikation**: Sie müssen sich elektronisch ausweisen (z.B. Mein Justizpostfach, eID Personalausweis).
-- **Akten-Backup**: Sie sollten regelmaessig Kopien Ihrer Eingaben lokal speichern (z.B. als PDF herunterladen).
-- **Nicht ueberall verfuegbar**: Nur an teilnehmenden Amtsgerichten.
-- **Nicht für alle Streit-Typen**: Bestimmte Sachgebiete können ausgeschlossen sein.
-
-## Schritt-für-Schritt-Anleitung
-
-### Schritt 1 — Prüfen, ob Ihr Amtsgericht teilnimmt
-
-Schauen Sie auf der Webseite der Justiz Ihres Bundeslandes oder direkt auf der Webseite des oertlich zuständigen Amtsgerichts nach. Beispiele:
-
-- Justizportal Bund-Länder
-- "Online-Verfahren" als Stichwort suchen.
-- Bei der Geschäftsstelle des Amtsgerichts nachfragen.
-
-### Schritt 2 — Prüfen, ob Ihr Streit-Typ zugelassen ist
-
-Das Online-Verfahren ist nicht für alle Streit-Typen offen. Typisch zugelassen sind z.B. Zahlungsklagen unter einem bestimmten Streitwert. Lesen Sie die Bedingungen der Plattform.
-
-### Schritt 3 — Auf der Plattform registrieren
-
-Identifikation typisch über:
-- **Mein Justizpostfach (MJP)** — siehe `einreichung-mein-justizpostfach-mjp-2024`.
-- **eID** mit dem Personalausweis und einem Lesegeraet/Smartphone-NFC.
-- Login-Daten über Bund-ID-Verfahren.
-
-### Schritt 4 — Klage in der Eingabe-Maske erfassen
-
-Die Plattform fuehrt Sie durch:
-- Antrag (was wollen Sie?)
-- Beklagter (Name, Adresse)
-- Sachverhalt (was ist passiert?)
-- Beweise (welche Beweise haben Sie?)
-- Anlagen (PDF hochladen)
-
-Speichern Sie regelmaessig (die Plattform speichert meistens automatisch).
-
-### Schritt 5 — Einreichen und Vorschuss zahlen
-
-- Eingabe-Maske absenden.
-- Plattform berechnet die Gerichtskosten.
-- Zahlung per SEPA-Lastschrift, Überweisung oder Karte.
-- Sobald gezahlt: Klage wird zugestellt.
-
-### Schritt 6 — Reaktion der Gegenseite abwarten
-
-Sie sehen im Plattform-Postfach, wenn die Gegenseite antwortet. Sie reagieren wieder über die Maske.
-
-### Schritt 7 — Video-Termin
-
-Wenn ein Termin stattfindet, bekommen Sie einen Link. Loggen Sie sich rechtzeitig ein (z.B. 15 Min. vorher). Achten Sie auf:
-- Ruhiger Raum, kein Hintergrund-Laerm.
-- Webcam auf Augenhoehe.
-- Stabile Internet-Verbindung.
-- Personalausweis griffbereit für Identitaets-Prüfung.
-
-### Schritt 8 — Urteil im Plattform-Postfach
-
-Das Urteil erscheint im Plattform-Postfach. Laden Sie es als PDF herunter und speichern Sie es lokal.
-
-## Worauf Sie besonders achten müssen
-
-- **Speichern Sie alles lokal als PDF.** Wenn die Plattform mal nicht laeuft, sind Sie nicht hilflos.
-- **Prüfen Sie die Fristen.** Auch im Online-Verfahren gelten die normalen Fristen der ZPO.
-- **Lassen Sie sich nicht von der Eingabe-Maske eingeengen**: Wenn Ihr Sachverhalt komplexer ist, fuegen Sie ein ergaenzendes PDF als Anlage hinzu.
-- **Bei Zweifel: klassisches Verfahren waehlen.** Das Online-Verfahren ist freiwillig.
-
-## Typische Fehler
-
-- **Fehler:** Plattform für hochkomplexe Faelle nutzen — Eingabe-Maske ist zu eng. → **So vermeiden:** Bei komplexen Faellen klassisches Verfahren waehlen.
-- **Fehler:** Plattform-Postfach nicht regelmaessig prüfen — Fristen verpasst. → **So vermeiden:** Mehrmals pro Woche einloggen oder Benachrichtigungs-E-Mail aktivieren.
-- **Fehler:** Lokale Sicherungs-Kopien vergessen. → **So vermeiden:** Nach jeder Eingabe als PDF herunterladen.
-- **Fehler:** Bei Video-Termin technische Probleme — kein Backup-Geraet. → **So vermeiden:** Vor dem Termin Funktion testen, Smartphone als Backup griffbereit.
-
-## Quellen und Aktualitaet
-
-Stand: 05/2026. Das Online-Verfahren wurde 2025 als Experimentier-Verfahren eingefuehrt; die genaue Norm-Verortung im 11. Buch ZPO und der Anwendungsbereich werden im laufenden Erprobungs-Zeitraum praezisiert. **Verifizieren Sie die aktuelle Rechtslage in amtliche/freie Quellen oder lizenzierte Datenbanken und auf der Webseite Ihres oertlich zuständigen Amtsgerichts vor Klageeinreichung.**
-
----
-
-## Skill: `einreichung-papierform-mit-abschriften`
-
-_Einreichung der Klage in Papierform. Anzahl der Abschriften Versand per Post Einschreiben oder persönliche Abgabe an der Geschäftsstelle. Eingangsstempel Sendebeleg Beweis für rechtzeitige Einreichung. Vorteile und Nachteile gegenüber elektronischer Einreichung._
-
-# Klage in Papierform einreichen
-
-## Worum geht es?
-
-Buerger dürfen weiterhin in Papierform einreichen. Es gibt kein § 130d-ZPO-Pflicht für Sie. Diese Skill zeigt, wie Sie sauber Papier-Klagen aufbauen, mit der richtigen Anzahl Abschriften, dem richtigen Versandweg und mit Beweis für Fristwahrung.
-
-## Wann brauchen Sie diese Skill?
-
-- Sie wollen klassisch per Post einreichen.
-- Sie haben kein MJP-Konto und keine Zeit, eines einzurichten.
-- Sie wollen persoenlich an der Geschäftsstelle abgeben.
-
-## Fachbegriffe (kurz erklaert)
-
-- **Abschrift**: Vollstaendige Kopie der Klageschrift mit Anlagen, für die Gegenseite bestimmt.
-- **Eingangsstempel**: Stempel des Gerichts mit Datum und Uhrzeit der Einreichung.
-- **Einschreiben**: Postversand mit Empfangsbestaetigung.
-
-## Rechtsgrundlagen
-
-- **§ 130 ZPO** — Anforderungen an Schriftsatz.
-- **§ 130 Nr. 6 ZPO** — Unterschrift.
-- **§ 133 ZPO** — Schriftsaetze mit Beilagen.
-- **§ 167 ZPO** — Zustellung "demnaechst" wirkt zurueck (wichtig für Fristwahrung!).
-
-## Schritt-für-Schritt-Anleitung
-
-### Schritt 1 — Wie viele Saetze?
-
-Pro Streitpartei brauchen Sie eine Abschrift, plus Original für das Gericht.
-
-- 1 Kläger, 1 Beklagter: 2 Saetze (1 Original Gericht, 1 Abschrift Beklagter) + 1 für Sie selbst.
-- 1 Kläger, 2 Beklagte: 3 Saetze (1 Original + 2 Abschriften) + 1 für Sie selbst.
-
-Faustregel: 1 Original + so viele Abschriften wie Beklagte + 1 Aktenkopie für Sie.
-
-### Schritt 2 — Saetze identisch?
-
-Ja, jede Abschrift muss exakt identisch zum Original sein:
-
-- Klageschrift komplett.
-- Alle Anlagen K1-Kn.
-
-### Schritt 3 — Original unterschreiben
-
-§ 130 Nr. 6 ZPO: Original handschriftlich unterzeichnen. Abschriften müssen **nicht** unterschrieben sein — Sie können "gez. Vorname Nachname" schreiben.
-
-### Schritt 4 — Verpacken
-
-- Aktenordner oder großer Umschlag.
-- Original und Abschriften in einer Sendung an das Gericht.
-
-### Schritt 5 — Versandweg
-
-Optionen:
-
-- **Einschreiben mit Rueckschein**: Best — Beweis für Zugang.
-- **Einschreiben Einwurf**: Etwas guenstiger, Beweis ist Sendungs-Verlaufsmeldung.
-- **Normaler Brief**: Riskant; kein Zugangs-Beweis. Vermeiden, wenn Frist laeuft.
-- **Persoenlich an der Geschäftsstelle**: Sicherster Weg. Sie bekommen Eingangsstempel.
-
-### Schritt 6 — Persoenliche Abgabe
-
-- Gehen Sie zur Geschäftsstelle des Amtsgerichts (Oeffnungszeiten beachten).
-- Bringen Sie Ihre **eigene Kopie** als Stempelbeleg-Vorlage mit.
-- Mitarbeiter stempelt auf Ihrer Kopie das Eingangsdatum.
-- Wichtig: Stempel ist Ihr Beweis. Aufbewahren!
-
-### Schritt 7 — Eingangsbeleg per Post
-
-Wenn Sie per Post schicken und Sie selbst senden:
-
-- Einschreiben mit Rueckschein: Rueckschein-Karte ist Beweis.
-- Einschreiben Einwurf: Sendungs-Nummer mit Statusabfrage.
-- Bei normaler Post: nichts. Riskant.
-
-Skill `zurechnungsproblem-versand-durch-dritte`.
-
-### Schritt 8 — § 167 ZPO Rueckwirkung
-
-Wichtig für Verjährungs-Hemmung und Frist-Einhaltung: Wenn die Zustellung an den Beklagten **alsbald** erfolgt, gilt die Zustellung als am Tag der Klageeinreichung erfolgt. Sie müssen also nicht warten, dass die Zustellung tatsaechlich raus ist — der Eingang bei Gericht zaehlt für Frist.
-
-Voraussetzung: Sie haben Gerichtskostenvorschuss zuegig gezahlt; sonst kein "demnaechst". Skill `gerichtskostenvorschuss-12-gkg`.
-
-## Worauf Sie besonders achten müssen
-
-- **Original unterschrieben**: ohne Unterschrift ist Klage formunwirksam.
-- **Anschriften vollstaendig**: Kläger, Beklagter.
-- **Sendebeleg aufbewahren**: bei Fristen kritisch.
-- **Vorschuss zahlen** zuegig: sonst Zustellung verzoegert, § 167 ZPO greift evtl. nicht.
-
-## Typische Fehler
-
-- "Nur Original, keine Abschriften." → Gericht muss zustellen — ohne Abschriften nicht möglich, Verfahren verzoegert.
-- "Klage als einfacher Brief." → Bei Fristen ein Risiko.
-- "Unterschrift drucke ich aufs Computer." → Kein eigenhaendiges Unterzeichnen. Original muss handschriftlich unterschrieben sein.
-
-## Quellen und Aktualitaet
-
-Stand: 05/2026. §§ 130, 133, 167 ZPO unveraendert.
-
----
-
-## Skill: `sachliche-zustaendigkeit-amtsgericht-23-gvg`
-
-_Prüfung der sachlichen Zuständigkeit des Amtsgerichts nach § 23 GVG. Wertgrenze seit 01.01.2026 zehntausend EUR (§ 23 Nr. 1 GVG aktuelle Fassung). Sonderzuständigkeiten § 23 Nr. 2 GVG Mietsachen Reisevertrag. Stand der Reform und Streitwert-Berechnung erläutert._
-
-# Ist das Amtsgericht für Ihren Fall sachlich zuständig?
-
-## Worum geht es?
-
-Sachliche Zuständigkeit heisst: Welches Gericht (Amtsgericht oder Landgericht) entscheidet über eine bestimmte Streitart? In Deutschland richtet sich das im Zivilrecht hauptsaechlich nach dem **Streitwert** (= Geldbetrag, um den es geht) und nach **Sondernormen** für bestimmte Streitarten. Wenn Sie das falsche Gericht anrufen, wird Ihre Klage verwiesen — das kostet Sie Zeit und Geld.
-
-## Wann brauchen Sie diese Skill?
-
-- Sie wollen wissen, ob Sie an das AG oder ans LG müssen.
-- Sie haben einen mittleren Streitwert und sind unsicher wegen der Grenze.
-- Sie haben eine Mietsache, Reisemangel oder andere Spezialmaterie.
-
-## Fachbegriffe (kurz erklaert)
-
-- **Sachliche Zuständigkeit**: Welches Gericht (AG vs. LG) ist nach Streitart und Wert zuständig.
-- **Streitwert**: Der Geldwert dessen, worum gestritten wird. Bei Geldforderung = Forderungsbetrag.
-- **Wertzuständigkeit**: Zuständigkeit nach Streitwert (im Gegensatz zur Zuständigkeit nach Streitart).
-
-## Rechtsgrundlagen
-
-- **§ 23 Nr. 1 GVG (Fassung seit 01.01.2026)** — Amtsgericht zuständig bis zur Wertgrenze von **10.000 EUR** (zehntausend Euro). Die Grenze wurde mit dem Justizstandort-Staerkungsgesetz zum 01.01.2026 von 5.000 EUR auf 10.000 EUR angehoben. **Verifizieren Sie bei Klagen kurz vor oder kurz nach dem Stichtag, welche Fassung für Ihren Fall gilt** (Uebergangsregelungen prüfen).
-- **§ 23 Nr. 2 GVG** — Bestimmte Streitarten **immer** AG, unabhaengig vom Wert.
-- **§ 23a, 23b, 23c GVG** — Familiensachen, Betreuungssachen, Nachlasssachen.
-- **§ 71 GVG** — LG-Zuständigkeit als Auffangzuständigkeit ab 10.000 EUR.
-- **§ 3 ZPO** — Streitwert nach freiem Ermessen.
-
-## Schritt-für-Schritt-Anleitung
-
-### Schritt 1 — Spezialzuständigkeit prüfen
-
-Diese Streitarten sind **unabhaengig vom Streitwert immer** beim AG (§ 23 Nr. 2 GVG, § 23a GVG):
-
-- Wohnraummietsachen (§ 23 Nr. 2 a GVG): Miete, Nebenkosten, Kuendigung, Raeumung, Schoenheitsreparaturen.
-- Streitigkeiten über Reisevertrag (§ 23 Nr. 2 b GVG): Reisemaengel, Reise-Erstattung.
-- Streitigkeiten über Wildschaeden (§ 23 Nr. 2 c GVG).
-- Streitigkeiten über Unterhaltsansprueche zwischen Verwandten (§ 23 Nr. 2 d GVG, Familienrechtl. ergaenzt § 23a GVG).
-- Familiensachen: Ehescheidung, Sorgerecht, Versorgungsausgleich — immer AG (Familiengericht).
-- Betreuungssachen, Nachlasssachen — immer AG (§ 23b, 23c GVG).
-
-### Schritt 2 — Wenn keine Spezialzuständigkeit: Streitwert berechnen
-
-- **Geldforderung**: Streitwert = Forderungssumme. Beispiel: Sie wollen 8.000 EUR — Streitwert 8.000 EUR.
-- **Mehrere Forderungen**: Werden zusammengerechnet (§ 5 ZPO).
-- **Rente, wiederkehrende Leistung**: § 9 ZPO — dreieinhalbfacher Jahresbetrag.
-- **Anspruch auf Herausgabe einer Sache**: Wert der Sache.
-- **Feststellungsklage**: 80 % des positiven Anspruchswerts (Praxisregel).
-- **Mietsachen**: Bei Raeumung der Jahresbetrag der Bruttomiete (§ 41 GKG).
-
-### Schritt 3 — Wertgrenze prüfen (Stand 2026)
-
-- **Streitwert bis einschliesslich 10.000 EUR**: Amtsgericht (§ 23 Nr. 1 GVG). Sie können sich **selbst vertreten** — kein Anwaltszwang.
-- **Streitwert über 10.000 EUR**: Landgericht (§ 71 GVG). **Anwaltszwang** § 78 I ZPO.
-
-**Reform-Hinweis**: Die Wertgrenze wurde zum 01.01.2026 von 5.000 EUR auf 10.000 EUR angehoben. Damit gehoeren deutlich mehr Streitigkeiten zur AG-Zuständigkeit, in der Sie sich selbst vertreten können. Wenn Sie einen Streitwert knapp über 10.000 EUR haben und Anwaltszwang vermeiden wollen, kann eine **Teilklage** (nur über einen Teilbetrag klagen) erwogen werden — beachten Sie aber die Auswirkungen auf Verjährung und Streitwert. Sprechen Sie das ggf. mit der Rechtsantragsstelle (Skill `einreichung-rechtsantragsstelle-selbst`).
-
-### Schritt 4 — Bei Unsicherheit beim Streitwert
-
-Geben Sie in der Klage einen plausiblen Streitwert an. Das Gericht setzt am Ende den Streitwert endgueltig fest (§ 63 GKG). Bei Sachstreitigkeiten ohne klaren Geldwert schaetzt das Gericht nach § 3 ZPO.
-
-### Schritt 5 — Folge bei falscher Zuständigkeit
-
-Falsche Zuständigkeit ist nicht das Ende. Auf Ihren Antrag verweist das Gericht nach § 281 ZPO an das zuständige Gericht. **Aber**: Sie zahlen ggf. zusaetzliche Kosten und verlieren Zeit. Wenn der Beklagte vor dem unzuständigen Gericht ruegelos zur Sache verhandelt, wird das Gericht zuständig (§ 39 ZPO, "ruegelose Einlassung") — also nicht spekulieren, sondern richtig einreichen.
-
-## Worauf Sie besonders achten müssen
-
-- **Stichtag 01.01.2026**: Für Klagen, die vorher anhaengig waren, gilt die alte Grenze von 5.000 EUR (Uebergangsregelung beachten). Für neue Klagen ab 01.01.2026 gilt 10.000 EUR.
-- **Mietsache**: Auch eine Miet-Forderung von 50.000 EUR ist AG. Streitwert ist hier irrelevant.
-- **Familiensache**: Immer AG, aber Anwaltszwang nach § 114 FamFG. Skill `anwaltszwang-pruefen-78-zpo`.
-- **Streitwert wird beim Einreichen vorlaeufig angegeben**; das Gericht setzt am Ende endgueltig fest.
-
-## Typische Fehler
-
-- "Ich klage in jedem Fall beim AG, ist ja billiger." → Wenn LG zuständig waere (Streitwert über 10.000 EUR), wird verwiesen und Sie haben Kosten doppelt.
-- "Eine Mietsache mit 30.000 EUR Hauptforderung gehoert ans LG." → Falsch. Mietsachen sind **immer** AG, unabhaengig vom Wert.
-- "Bei Unsicherheit nehme ich den niedrigsten Streitwert an." → Falsch. Setzen Sie realistisch an; bei Untererfassung droht spaetere Streitwert-Festsetzung und Nachzahlung.
-- "Familiengerichts-Sachen kann ich selbst betreiben." → Bei Ehesachen und Folgesachen Anwaltszwang § 114 FamFG.
-- "Die Grenze ist 5.000 EUR." → Veraltet. Seit 01.01.2026 sind es 10.000 EUR.
-
-## Quellen und Aktualitaet
-
-Stand: 05/2026. § 23 Nr. 1 GVG aktuelle Fassung: AG-Wertgrenze 10.000 EUR (Anhebung von 5.000 EUR zum 01.01.2026 durch das Justizstandort-Staerkungsgesetz). Bei Klagen aus der Uebergangszeit Stichtag und Anhaengigkeit prüfen.
+Stand: 05/2026. K- bzw. B-Anlagen-Konvention ist gerichtspraxis-ueblich, nicht gesetzlich vorgeschrieben. Variante: einige Anwaelte nutzen K1, K2 für Kläger und KE1, KE2 für Klageerwiderung — Konvention regional unterschiedlich. Die hier vorgestellte K/B-Variante ist die haeufigste.
 
 ---
 
 ## Skill: `klageerwiderung-replik-anlagen-b1-b2`
 
-_Anlagen-Nummerierung in Klageerwiderung und Replik korrekt fortführen. Beklagter nutzt B1 B2 B3. Kläger nutzt in Replik K-Folge-Nummern ab Klage-Endnummer plus eins. Keine doppelten Nummern Querverweise zwischen Schriftsaetzen. Anlagenverzeichnis aktualisieren._
+_Wenn es um Anlagen in Klageerwiderung und Replik — die Nummerierung fortfuehren in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
 # Anlagen in Klageerwiderung und Replik — die Nummerierung fortfuehren
 
@@ -1187,113 +716,663 @@ Stand: 05/2026. K- bzw. B-Anlagen-Konvention ist gerichtspraxis-ueblich, nicht g
 
 ---
 
-## Skill: `beratungshilfe-aussergerichtlich-brh`
+## Skill: `richterlicher-hinweis-139-zpo-reaktion`
 
-_Beratungshilfe vor Klageerhebung. Beratungshilfegesetz BerHG ermöglicht bedürftigen Buergern kostenlose oder verguenstigte Anwaltsberatung vor Gericht. Antrag beim Amtsgericht Berechtigungsschein Eigenanteil. Sinnvoll als Vorklaerung bevor Sie selbst klagen._
+_Wenn es um Richterlicher Hinweis nach Paragraf 139 ZPO: Was tun? in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Beratungshilfe: Anwalt vor Klage (fast) umsonst
+# Richterlicher Hinweis nach § 139 ZPO: Was tun?
 
 ## Worum geht es?
 
-Bevor Sie klagen, kann ein Anwaltsgespraech viel klären: Habe ich Erfolgsaussichten? Wie formuliere ich den Antrag? Welche Beweise? Wenn Sie beduerftig sind, können Sie **Beratungshilfe** nach dem Beratungshilfegesetz (BerHG) bekommen — der Anwalt wird vom Staat bezahlt, Sie zahlen nur eine Schutzgebuehr von 15 EUR.
+Der Richter hat eine **Hinweispflicht** nach § 139 ZPO: Wenn er ein wichtiges Detail erkennt, das die Parteien uebersehen, muss er hinweisen. Ein richterlicher Hinweis ist meistens eine **Chance** — der Richter zeigt Ihnen, wo der Prozess steht. Sie sollten konstruktiv und schnell reagieren.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie ueberlegen Klage und wollen eine Beratung vor der Entscheidung.
-- Sie wurden verklagt und brauchen ersten Rat.
-- Sie haben Anwaltsbedarf, kein Geld.
+- Sie haben einen schriftlichen Hinweis vom Gericht bekommen.
+- Im Termin hat der Richter einen Hinweis erteilt.
+- Sie sind unsicher, ob das ein Vorteil oder Nachteil ist.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Beratungshilfe**: Staatliche Förderung der aussergerichtlichen Anwaltsberatung für Beduerftige.
-- **Berechtigungsschein**: Vom Amtsgericht ausgestellter Schein, der dem Anwalt die Berechnung gegenueber dem Staat ermoeglicht.
-- **Schutzgebuehr**: Selbst zu tragender Anteil; pauschal 15 EUR.
+- **Richterlicher Hinweis**: Hinweis des Gerichts auf rechtliche oder tatsaechliche Aspekte, die die Parteien moeglicherweise uebersehen.
+- **Hinweispflicht**: Gesetzliche Pflicht des Gerichts, gegebenenfalls hinzuweisen.
+- **Verletzung Hinweispflicht**: Wenn das Gericht trotz Erkenntnis nicht hinweist und ueberraschend entscheidet — kann Verfahrensfehler sein.
 
 ## Rechtsgrundlagen
 
-- **§ 1 BerHG** — Anwendungsbereich Beratungshilfe.
-- **§ 4 BerHG** — Antrag beim Amtsgericht.
-- **§ 6a BerHG** — Schutzgebuehr 15 EUR.
-- **§ 7 BerHG** — Gebührenrechnung Anwalt zum Staat.
-- **§ 116 ZPO** — Verweisung auf PKH bei Klage.
+- **§ 139 I ZPO** — Hinweispflicht.
+- **§ 139 II ZPO** — Gericht muss Frist zur Stellungnahme geben.
+- **§ 139 IV ZPO** — Hinweise sind im Protokoll oder schriftlich zu dokumentieren.
+- **§ 138 III ZPO** — Wahrheitspflicht.
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Voraussetzungen prüfen
+### Schritt 1 — Hinweis genau lesen
 
-- Beduerftigkeit (ähnlich PKH).
-- Keine anderweitige Beratungsmoeglichkeit (z. B. nicht durch Mitgliedschaft in Mieterverein etc.).
-- Rechtsangelegenheit nicht mutwillig.
+Der Hinweis kann mehrere Formen haben:
 
-### Schritt 2 — Wahl: Selbst zum AG oder zum Anwalt
+- "Das Gericht weist darauf hin, dass die Klage in Bezug auf die Verzugszinsen nicht hinreichend begruendet erscheint."
+- "Die vorgelegten Beweismittel zur Lieferung sind unzureichend."
+- "Es ist unklar, ob die Frist gemäß § 195 BGB verjaehrt ist."
 
-Variante A: Sie gehen **zum Amtsgericht**, fuellen Antrag aus, holen Berechtigungsschein und gehen damit zum Anwalt.
+### Schritt 2 — Was meint der Richter?
 
-Variante B: Sie gehen **direkt zum Anwalt** und beantragen den Schein nachtraeglich (binnen 4 Wochen).
+Hinweise sind im Allgemeinen freundlich gemeint. Der Richter zeigt Ihnen, dass:
 
-Variante A ist sicherer — Anwalt weiss, dass Schein bewilligt.
+- Etwas fehlt im Vortrag.
+- Ein Beweis nicht ueberzeugt.
+- Eine Norm anders zu lesen ist.
+- Ein Aspekt uebersehen wurde.
 
-### Schritt 3 — Antrag stellen
+### Schritt 3 — Reagieren — nicht trotzig sein
 
-Beim Amtsgericht Ihres Wohnsitzes:
+Prüfen Sie konstruktiv:
 
-- Formular für Beratungshilfe.
-- Belege für Beduerftigkeit (Lohnabrechnungen, Sozialleistungs-Bescheid).
-- Kurze Schilderung der Rechtsangelegenheit.
+- Hat der Richter recht?
+- Was haben Sie uebersehen?
+- Wie reagieren Sie?
 
-Sie bekommen einen Berechtigungsschein, mit dem Sie zum Anwalt gehen.
+### Schritt 4 — Schriftsatz zur Reaktion
 
-### Schritt 4 — Beim Anwalt
+Wenn schriftlicher Hinweis mit Stellungnahme-Frist:
 
-- Schein vorlegen.
-- 15 EUR Schutzgebuehr zahlen (oder Anwalt schreibt Rechnung).
-- Beratung erhalten — Anwalt erklaert, formuliert, prüft.
+```
+[Briefkopf]
 
-Der Anwalt rechnet seine Gebuehr direkt mit dem Staat ab.
+Aktenzeichen: [AZ]
 
-### Schritt 5 — Was die Beratungshilfe abdeckt
+In der Sache [Klaeger] ./. [Beklagter]
+nehme ich auf den Hinweis vom [Datum]
+wie folgt Stellung:
 
-- Beratungsgespraech.
-- Schriftverkehr mit Gegenseite (Mahnung, Reklamation).
-- Prüfung von Vertraegen.
-- Entwurf von Schriftstuecken (Kuendigung etc.).
+Zum Hinweis 1 (Verzugszinsen):
+Der Beklagte wurde am 21.4.2025 in Verzug
+gesetzt (Mahnung vom 5.4.2025 mit Frist
+bis 20.4.2025, Anlage K4 mit Einschreibe-
+Beleg). Damit liegt Verzug nach § 286 I BGB
+vor und Verzugszinsen sind ab 21.4.2025
+geschuldet.
 
-### Schritt 6 — Was sie NICHT abdeckt
+[Weitere ergaenzende Beweise:]
+Beweis: ...
+```
 
-- Klageerhebung (dafür PKH).
-- Vertretung im Prozess (PKH).
-- Verfahren vor Verwaltungsbehoerden in mehreren Bundeslaendern ausgeschlossen (Prüfen!).
+### Schritt 5 — Im Termin reagieren
 
-### Schritt 7 — Uebergang zu PKH
+Wenn Hinweis im Termin: Sofortige Reaktion sinnvoll. Sie können:
 
-Wenn nach Beratung klar wird: Sie müssen klagen — beantragen Sie PKH (Skill `prozesskostenhilfe-pkh-114-zpo`). Beratungshilfe und PKH sind unterschiedliche Förderungen.
+- Mit Antrag auf Schriftsatznachlass um Bedenkzeit bitten.
+- Im Termin direkt antworten, wenn Sie vorbereitet sind.
+- Kurze Pause beantragen.
 
-### Schritt 8 — Welche Anwaelte?
+### Schritt 6 — Frist beachten
 
-Jeder Anwalt darf Beratungshilfe-Mandate annehmen — er muss aber **nicht**. Manche Anwaelte lehnen wegen niedriger Gebühren ab. Suchen Sie ggf. mehrere.
+Bei schriftlichem Hinweis setzt das Gericht meist eine Stellungnahme-Frist (i. d. R. 2-4 Wochen). Frist einhalten — sonst Praeklusion.
+
+### Schritt 7 — Hinweispflicht als Vorteil
+
+Wenn der Richter Hinweise gibt, ist das oft zu **Ihrem** Vorteil:
+
+- Sie können reagieren.
+- Vortrag ergaenzen.
+- Beweis liefern.
+
+Ein Urteil, das ohne Hinweis ueberraschend gegen Sie ausfaellt, kann **angreifbar** sein (Berufungs-Grund). Daher: dokumentieren Sie alle Hinweise im Akten-Aufzeichnungen.
+
+### Schritt 8 — Wenn Hinweis fehlt
+
+Wenn ueberraschende Niederlage ohne Hinweis: Berufungs-Grund (Verfahrensfehler). Skill `berufung-amtsgericht-511-zpo`.
 
 ## Worauf Sie besonders achten müssen
 
-- **Beratungshilfe vor Klage**, PKH **für Klage**. Verwechseln nicht.
-- **15 EUR Schutzgebuehr** ist obligatorisch (auch für Beduerftige).
-- **Beratungshilfe ist EINMAL pro Angelegenheit** — nicht beliebig oft.
-- **Belege vollstaendig**: Sonst Antrag-Ablehnung.
+- **Hinweis ernst nehmen**: Der Richter signalisiert Schwaeche im Vortrag.
+- **Frist einhalten**: Stellungnahme rechtzeitig.
+- **Dokumentation im Termin**: Auch muendliche Hinweise sollten zu Protokoll genommen werden.
+- **Hinweis bedeutet nicht Endurteil**: Sie haben Reaktions-Moeglichkeit.
 
 ## Typische Fehler
 
-- "Beratungshilfe deckt Klage." → Nein, für Klage PKH.
-- "Ich muss zuerst einen Anwalt nehmen." → Sie können auch direkt zum AG für Schein.
-- "Beratungshilfe ist kostenlos." → 15 EUR Schutzgebuehr.
+- "Der Richter beleidigt mich mit dem Hinweis." → Im Gegenteil — Chance zur Reaktion.
+- "Ich ignoriere den Hinweis." → Verfahrensnachteil.
+- "Ich verteidige mich beleidigt." → Sachlich antworten ist effektiver.
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. BerHG unveraendert.
+Stand: 05/2026. § 139 ZPO unveraendert. BGH-Linie zur Hinweispflicht stabil.
+
+---
+
+## Skill: `gerichtskostenvorschuss-12-gkg`
+
+_Wenn es um Gerichtskostenvorschuss: Klage wird erst nach Zahlung zugestellt in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Gerichtskostenvorschuss: Klage wird erst nach Zahlung zugestellt
+
+## Worum geht es?
+
+Wenn Sie Klage einreichen, zieht das Gericht **vor** der Zustellung an den Beklagten einen Vorschuss von Ihnen ein (§ 12 GKG). Erst wenn der Vorschuss eingegangen ist, wird der Beklagte zugestellt. Wenn Sie den Vorschuss nicht oder zu spaet zahlen, wird auch die Verjährung **nicht** in voller Höhe gehemmt (§ 167 ZPO — "demnaechst"-Wirkung kann ausfallen).
+
+## Wann brauchen Sie diese Skill?
+
+- Sie reichen Klage ein und wollen den Vorschuss vorbereiten.
+- Sie haben Klage eingereicht und nichts gehoert.
+- Sie haben finanzielle Schwierigkeiten beim Vorschuss.
+
+## Fachbegriffe (kurz erklaert)
+
+- **Gerichtskostenvorschuss**: Vorab-Zahlung der Gerichtskosten, bevor das Gericht zustellt.
+- **§ 167 ZPO "demnaechst"**: Wenn die Zustellung "demnaechst" erfolgt, wirkt sie auf den Tag der Klageeinreichung zurueck — wichtig für Frist-Wahrung.
+- **PKH (Prozesskostenhilfe)**: Sozialleistung, wenn Sie die Kosten nicht tragen können.
+
+## Rechtsgrundlagen
+
+- **§ 12 GKG** — Vorschusspflicht.
+- **§ 15 GKG** — Beendigung wegen Nicht-Zahlung.
+- **§ 167 ZPO** — "Demnaechst"-Zustellung.
+- **§ 114 ff. ZPO** — PKH.
+- **§ 204 I Nr. 1 BGB** — Verjährungs-Hemmung durch Klage.
+
+## Schritt-für-Schritt-Anleitung
+
+### Schritt 1 — Vorschuss-Höhe berechnen
+
+Vorschuss = 3,0 Gerichtsgebuehren nach GKG-Tabelle. Skill `kostenrisiko-streitwert-berechnen-gkg`.
+
+- Streitwert 1.500 EUR: ca. 174 EUR Vorschuss.
+- Streitwert 3.000 EUR: ca. 324 EUR Vorschuss.
+- Streitwert 5.000 EUR: ca. 483 EUR Vorschuss.
+
+Werte vor Einreichung aktuell verifizieren über GKG-Tabelle.
+
+### Schritt 2 — Aufforderung zur Vorschuss-Zahlung
+
+Nach Einreichung schickt das Gericht eine **Kostenrechnung** an Sie. Darauf:
+
+- Aktenzeichen.
+- Vorschuss-Höhe.
+- IBAN des Gerichts.
+- Verwendungszweck (Aktenzeichen muss in den Verwendungszweck!).
+
+### Schritt 3 — Zuegig zahlen
+
+Sehr wichtig: zahlen Sie **innerhalb von 2 Wochen** nach Aufforderung. Praxis-Tipp: am selben Tag, an dem Sie die Rechnung sehen.
+
+- Überweisung: Aktenzeichen im Verwendungszweck.
+- Bankueberweisung kann 1-2 Tage dauern — am besten Echtzeit-Überweisung.
+
+### Schritt 4 — Bedeutung für § 167 ZPO
+
+Verjährung wird gehemmt durch **Eingang der Klage bei Gericht** (§ 204 I Nr. 1 BGB) **wenn die Zustellung alsbald erfolgt**.
+
+- "Alsbald" = i. d. R. innerhalb von 2 Wochen.
+- Verzoegerung durch nicht-Zahlung des Vorschusses geht **zu Ihren Lasten**.
+
+Wenn Sie Vorschuss nicht zahlen: Zustellung erfolgt nicht. Verjährungs-Hemmung kann ausfallen. Im schlimmsten Fall: Verjährung tritt ein, obwohl Klage eingereicht ist.
+
+### Schritt 5 — Bei nicht-Zahlung: Folgen
+
+Nach Mahnung des Gerichts ohne Zahlung wird das Verfahren in der Schwebe gehalten und ggf. eingestellt (§ 15 GKG). Sie verlieren Ihre Einreichung — und der Vorschuss-Teil, den Sie schon gezahlt haben (bei Mahnverfahren der Stempelvorschuss), bleibt einbehalten.
+
+### Schritt 6 — Bei finanziellen Schwierigkeiten: PKH
+
+Wenn Sie sich den Vorschuss nicht leisten können: **gleichzeitig** mit der Klage PKH-Antrag stellen. Skill `prozesskostenhilfe-pkh-114-zpo`.
+
+Sie zahlen dann erst nach PKH-Prüfung — oder gar nicht (bei PKH ohne Ratenzahlung).
+
+### Schritt 7 — Beleg aufbewahren
+
+- Überweisungs-Beleg.
+- Später Kostenrechnung des Gerichts.
+
+Bei Erfolg in der Klage können Sie die Vorschuss-Auslagen kostenfestsetzen lassen.
+
+### Schritt 8 — Zahlung uebers Online-Banking
+
+Praxis: Online-Banking mit Aktenzeichen im Verwendungszweck. Dauer 1-2 Werktage. Wenn knapp: Vor-Ort-Einzahlung an der Bank des Gerichts.
+
+## Worauf Sie besonders achten müssen
+
+- **Vorschuss = Verjährungs-Risiko**: Bei Saumigkeit kann § 167 ZPO ausfallen.
+- **Aktenzeichen im Verwendungszweck**: Sonst kann Bank-Buchung nicht zugeordnet werden.
+- **2-Wochen-Frist**: Faustregel für "alsbald" § 167 ZPO. Nicht weiter spannen.
+- **Bei PKH**: Vor Einreichung prüfen oder gleichzeitig stellen.
+
+## Typische Fehler
+
+- "Vorschuss kann ich später zahlen." → Verjährung kann eintreten.
+- "Kein Verwendungszweck bei Überweisung." → Bank-Zuordnung verzoegert sich.
+- "Ich warte auf zweite Mahnung." → Eingang vom Gericht dauert. Verfahren in Schwebe.
+
+## Quellen und Aktualitaet
+
+Stand: 05/2026. § 12 GKG, § 167 ZPO unveraendert. GKG-Werte über aktuelle Tabelle verifizieren.
+
+---
+
+## Skill: `wann-doch-anwalt-grenzfaelle`
+
+_Wenn es um Wann ist es Zeit, doch einen Anwalt zu nehmen? in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Wann ist es Zeit, doch einen Anwalt zu nehmen?
+
+## Worum geht es?
+
+Selbstvertretung vor dem AG ist möglich und oft sinnvoll. Aber nicht immer. Bei komplexen Faellen, hohem Risiko oder Spezialmaterien kann ein Anwalt mehr sparen, als er kostet. Diese Skill ist Ihre ehrliche Selbstpruefung.
+
+## Wann brauchen Sie diese Skill?
+
+- Sie haben Bedenken, ob Selbstvertretung klug ist.
+- Sie wissen nicht, ob Sie noch ohne Anwalt durchkommen.
+- Sie ueberlegen, ob Sie Berufung einlegen sollten.
+
+## Fachbegriffe (kurz erklaert)
+
+- **Selbstvertretung**: Sie vertreten sich selbst, ohne Anwalt.
+- **Mandatierung**: Beauftragung eines Anwalts.
+- **Erfolgsaussichten**: Wahrscheinlichkeit, im Verfahren zu obsiegen.
+- **Kosten-Nutzen**: Verhältnis zwischen Anwalts-Kosten und ersparten Risiken.
+
+## Rechtsgrundlagen
+
+- **§ 78 ZPO** — Anwaltszwang.
+- **§ 114 FamFG** — Familiensachen.
+- **§ 121 ZPO** — Anwaltsbeiordnung bei PKH.
+
+## Schritt-für-Schritt-Anleitung
+
+### Schritt 1 — Roter Faden: Wann immer Anwalt?
+
+#### Überblick:
+
+- **Familienverfahren (Ehesachen)** § 114 FamFG: Anwaltszwang.
+- **Streitwert hoch, ab LG-Zuständigkeit**: Anwaltszwang § 78 ZPO.
+- **Berufung vor LG**: Anwaltszwang für Begruendung.
+
+#### Wenn diese Faelle: Anwalt zwingend.
+
+### Schritt 2 — Grenzfaelle: Komplexe Sachverhalte am AG
+
+Auch vor AG kann Anwalt sinnvoll sein bei:
+
+- **Mehrparteien-Klage** (Streitgenossen).
+- **Komplexer Vertragsbeziehung** (mehrere Anspruchsgrundlagen).
+- **Sachverstaendigen-Beweis** mit technischen Details.
+- **Beweis-Schwierigkeiten** (Beweislast-Umkehr noetig).
+- **Aussergerichtliche Verhandlung** mit Anwalt der Gegenseite.
+
+### Schritt 3 — Streitwert-Prüfung
+
+Faustregel:
+
+- Streitwert bis 1.000 EUR: Selbstvertretung oft ausreichend (auch § 495a ZPO vereinfachtes Verfahren möglich).
+- Streitwert 1.000-10.000 EUR: AG zuständig, kein Anwaltszwang — Prüfung Einzelfall.
+- Streitwert über 10.000 EUR: LG zuständig (§ 71 GVG), **Anwalt zwingend** (§ 78 I ZPO).
+
+### Schritt 4 — Spezialmaterie
+
+Bei Spezial-Rechtsgebieten:
+
+- **Familienrecht**: Anwaltszwang in Ehesachen.
+- **Arbeitsrecht**: Vor ArbG erste Instanz kein Anwaltszwang, aber Fachanwalt oft hilfreich.
+- **Mietsachen**: Mieterverein als Alternative.
+- **Verkehrsrecht (Unfall)**: Anwalt für Versicherungs-Verhandlungen.
+- **Sozialrecht**: Vor Sozialgericht eigene Regeln.
+
+### Schritt 5 — Kosten-Nutzen-Rechnung
+
+#### Anwalts-Kosten bei Streitwert 8.000 EUR:
+
+- Bei Erfolg: Gegnerseite traegt.
+- Bei Niederlage: Sie tragen Anwalts-Kosten + Gegner-Kosten (Groessenordnung 3.500 EUR Anwaltskosten total bei diesem Streitwert).
+
+#### Selbstvertretung bei Streitwert 8.000 EUR:
+
+- Bei Erfolg: keine eigenen Anwalts-Kosten (nur Auslagen).
+- Bei Niederlage: Gegnerseiten-Anwalts-Kosten Groessenordnung 1.700 EUR.
+
+Anwalt erhoeht das Verlust-Risiko, aber senkt das Niederlage-Risiko durch bessere Verfahrenswahrnehmung.
+
+### Schritt 6 — Wann sich Anwalt definitiv lohnt
+
+Klare Indikatoren:
+
+- Sie verstehen die juristischen Fachbegriffe nicht.
+- Mehrere Beweis-Schwaechen.
+- Gegnerseite hat Anwalt (= asymmetrische Beratung).
+- Verfahrensfehler werden riskant.
+- Sie sind ueberfordert / emotional.
+
+### Schritt 7 — Anwalt-Suche
+
+- Lokal: AG/LG-Anwaelte.
+- Fachanwalt im Rechtsgebiet (besser als allgemeiner Anwalt).
+- Erstberatung: oft pauschal 100-200 EUR.
+- Bei Beduerftigkeit: Beratungshilfe (Skill `beratungshilfe-aussergerichtlich-brh`).
+
+### Schritt 8 — Hybrid-Loesung
+
+Sie können:
+
+- Selbst klagen.
+- Bei Komplikationen Anwalt einschalten (= "Beistand" im Termin nicht erlaubt, aber Beratung im Hintergrund).
+- Anwalt für Berufung mandatieren.
+
+### Schritt 9 — Wenn PKH bewilligt: Anwalt beiordnen lassen
+
+Wenn PKH mit Anwaltsbeiordnung (§ 121 ZPO): Anwalt kostenfrei oder vereinfacht.
+
+Skill `prozesskostenhilfe-pkh-114-zpo`.
+
+### Schritt 10 — Letzte Prüfung
+
+Beantworten Sie:
+
+- Verstehe ich, was im Verfahren passieren wird?
+- Habe ich Zeit für Schriftsaetze und Termine?
+- Habe ich Mut, im Termin selbst zu sprechen?
+- Habe ich klare Beweis-Lage?
+
+Wenn 3 von 4 mal "Nein": Anwalt.
+
+## Worauf Sie besonders achten müssen
+
+- **Anwaltszwang vor LG** und in bestimmten AG-Verfahren.
+- **Berufung braucht Anwalt** für Begruendung.
+- **Komplexe Sachen** ueberfordern Laien.
+- **PKH** als Brueckenfinanzierung.
+
+## Typische Fehler
+
+- "Ich brauche keinen Anwalt." → Manchmal doch.
+- "Anwalt zahlt sich nicht aus." → Bei Komplikationen schon.
+- "Ich nehme erst Anwalt für Berufung." → Gut, aber AG-Phase vorher gut gestalten.
+
+## Quellen und Aktualitaet
+
+Stand: 05/2026. Praxis-Skill.
+
+---
+
+## Skill: `anwaltszwang-pruefen-78-zpo`
+
+_Wenn es um Brauche ich vor dem Amtsgericht einen Anwalt? in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Brauche ich vor dem Amtsgericht einen Anwalt?
+
+## Worum geht es?
+
+Vor dem Amtsgericht können Sie sich grundsätzlich **selbst** vertreten. Das nennt sich "Postulationsfaehigkeit" — Sie dürfen vor Gericht Antraege stellen und Schriftsaetze einreichen. Vor dem Landgericht (LG), Oberlandesgericht (OLG) und dem Bundesgerichtshof (BGH) ist das anders: Dort herrscht **Anwaltszwang**. Diese Skill klaert, ob für Ihren Fall wirklich kein Anwalt zwingend ist und nennt die wenigen Ausnahmen.
+
+## Wann brauchen Sie diese Skill?
+
+- Sie wollen vor Klage-Einreichung verstehen, ob Sie wirklich ohne Anwalt klagen können.
+- Sie wurden vor das AG zitiert und wollen wissen, ob Sie selbst auftreten dürfen.
+- Sie haben Bedenken wegen Familien- oder Betreuungssachen.
+
+## Fachbegriffe (kurz erklaert)
+
+- **Anwaltszwang (Postulationsfaehigkeit)**: Die Pflicht, sich nur durch einen zugelassenen Rechtsanwalt vertreten zu lassen.
+- **Familiensache**: Streitigkeiten über Scheidung, Unterhalt, Sorgerecht, Versorgungsausgleich. Werden vom AG (Familiengericht) behandelt.
+- **Verfahrensbevollmaechtigter**: Anwalt, der Sie im Prozess vertritt.
+
+## Rechtsgrundlagen
+
+- **§ 78 Abs. 1 ZPO** — "Vor den Landgerichten und Oberlandesgerichten müssen sich die Parteien durch einen Rechtsanwalt vertreten lassen." → Im Umkehrschluss: AG-Verfahren **ohne** Anwaltszwang.
+- **§ 78 Abs. 3 ZPO** — Bestimmte Antraege auch vor LG/OLG ohne Anwalt (z. B. Antrag auf Prozesskostenhilfe).
+- **§ 114 FamFG** — In Familiensachen vor dem AG (= Familiengericht) gilt für Ehesachen und Folgesachen Anwaltszwang. **Hier brauchen Sie einen Anwalt.**
+- **§ 11 ArbGG** — Vor Arbeitsgerichten erster Instanz kein Anwaltszwang.
+
+## Schritt-für-Schritt-Anleitung
+
+### Schritt 1 — Welches Gericht?
+
+- AG (Zivilkammer): Kein Anwaltszwang.
+- AG (Familiengericht) in Ehesachen, Versorgungsausgleich, Folgesachen: **Anwaltszwang nach § 114 FamFG**.
+- AG (Familiengericht) in isolierten Unterhaltssachen ohne Verbund: Kein Anwaltszwang, **aber** in der Praxis schwierig ohne Anwalt.
+- LG, OLG, BGH: Anwaltszwang nach § 78 ZPO.
+
+### Schritt 2 — Welcher Antrag?
+
+Selbst vor LG/OLG können Sie folgende Antraege **selbst** stellen:
+
+- Antrag auf Prozesskostenhilfe (§ 78 Abs. 3 ZPO).
+- Antrag auf Ablehnung eines Richters (§§ 42 ff. ZPO).
+- Einlegung von Rechtsmitteln gegen Versaeumnisurteile (§ 338 ZPO) durch Einspruch, das ist **kein Rechtsmittel** im technischen Sinn.
+
+Aber Achtung: Die **Begruendung** eines Rechtsmittels vor LG/OLG (z. B. Berufungsbegruendung) braucht einen Anwalt.
+
+### Schritt 3 — Berufung gegen AG-Urteil?
+
+Berufungsgericht gegen AG-Urteile ist das Landgericht. Vor dem LG herrscht Anwaltszwang. Wenn Sie also Berufung einlegen wollen, brauchen Sie spaetestens dort einen Anwalt. Skill `berufung-amtsgericht-511-zpo`.
+
+### Schritt 4 — Selbstvertretung trotzdem sinnvoll?
+
+Nur weil kein Anwaltszwang besteht, ist Selbstvertretung nicht immer klug. Bei komplexen Sachverhalten, hoher Streitwert oder fehlender Routine im Umgang mit dem Recht können Sie mehr verlieren, als ein Anwalt kostet. Skill `wann-doch-anwalt-grenzfaelle`.
+
+### Schritt 5 — Bevollmaechtigter ohne Anwaltszulassung?
+
+Vor dem AG können Sie sich auch durch eine andere Person vertreten lassen, wenn keine geschäftsmäßige Rechtsberatung vorliegt (§ 79 Abs. 2 ZPO):
+
+- Volljaehrige Familienangehoerige.
+- Mitarbeiter Ihres Unternehmens.
+- Verbraucherzentrale.
+
+**Nicht** zulässig: Bekannte, die regelmaessig für andere auftreten (= Rechtsdienstleistungsgesetz, RDG).
+
+## Worauf Sie besonders achten müssen
+
+- **§ 114 FamFG bei Ehesachen**: Sie können keine Ehescheidung selbst betreiben. Hier ist Anwalt **zwingend**. Auch wenn die Scheidung einvernehmlich ist, brauchen mindestens Sie selbst (oder im Verbund mit Folgesachen) einen Anwalt.
+- **Rechtsmittel**: Berufung vor LG ist Anwaltszwang. Wenn Sie im AG-Prozess unsicher sind, ob Sie verlieren werden, planen Sie das Anwalts-Risiko für die Berufung ein.
+- **Schriftsaetze**: Auch ohne Anwaltszwang müssen Schriftsaetze formale Mindestanforderungen erfuellen — Antrag, Vortrag, Beweis. Skill `klageschrift-pflichtbestandteile-253-zpo`.
+
+## Typische Fehler
+
+- "Im Familienverfahren brauche ich keinen Anwalt, weil das ein AG ist." → Falsch. Familiengericht ist zwar formal Teil des AG, aber Anwaltszwang nach § 114 FamFG bleibt.
+- "Mein Cousin ist Jurastudent, der vertritt mich." → Geht nur, wenn er Volljaehriger Familienangehoeriger ist und es Einzelfall. Geschäftsmäßige Vertretung ist verboten.
+- "Ich kann mich auch in der Berufung vor LG selbst vertreten." → Nur für einzelne Antraege. Berufungsbegruendung braucht Anwalt.
+
+## Praxis-Tipp
+
+Selbst wenn am Amtsgericht kein Anwaltszwang besteht, gibt es zwei Schwellen, ab denen Anwaltskontakt regelmaessig sinnvoll ist: (1) **Streitwert über 5.000 EUR** – Risiko und Komplexitaet steigen; im Unterliegen drohen erhebliche Kostenfolgen nach §§ 91 ff. ZPO. (2) **Berufungswuerdiger Sachverhalt** – wenn der Fall mit über 1.000 EUR Beschwer endet, droht Anwaltszwang vor dem LG (§ 78 I ZPO). Frueh PKH (§§ 114 ff. ZPO) oder Beratungshilfe nach BerHG prüfen, weil Antraege rechtzeitig vor Klage gestellt werden müssen. Notanwalt § 78b ZPO nur als letzter Ausweg, wenn Sie partout keinen Anwalt finden.
+
+## Quellen und Aktualitaet
+
+Stand: 05/2026. § 78 ZPO und § 114 FamFG unveraendert. Achtung beim Arbeitsgericht — dort gilt § 11 ArbGG, der dieses Plugin nicht abdeckt.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 23 GVG
+- § 114 FamFG
+- § 156 StGB
+- § 185 GVG
+- § 41 GKG
+- § 12 GKG
+- § 7 StVG
+- § 17 GKG
+- § 48 GKG
+- § 71 GVG
+- § 23a GVG
+- § 63 GKG
+
+### Leitentscheidungen
+
+- BGH VI ZR 67/15
+
+---
+
+## Skill: `replik-auf-klageerwiderung-systematik`
+
+_Wenn es um Replik: Wie Sie als Kläger auf die Klageerwiderung antworten in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Replik: Wie Sie als Kläger auf die Klageerwiderung antworten
+
+## Worum geht es?
+
+Nach Ihrer Klage und der Klageerwiderung des Beklagten haben Sie meist die Moeglichkeit zur **Replik** — also Ihre Antwort auf die Klageerwiderung. Diese Skill zeigt, wie Sie systematisch auf den Beklagten-Vortrag eingehen, neue Tatsachen einfuehren und Beweismittel ergaenzen.
+
+## Wann brauchen Sie diese Skill?
+
+- Sie haben die Klageerwiderung erhalten.
+- Sie ueberlegen, ob Sie reagieren müssen.
+- Sie wollen wissen, wie Sie strukturiert antworten.
+
+## Fachbegriffe (kurz erklaert)
+
+- **Replik**: Antwort des Klägers auf Klageerwiderung.
+- **Duplik**: Antwort des Beklagten auf Replik.
+- **Schriftsatznachlass**: Vom Gericht gewaehrte Frist, um auf neuen Vortrag zu antworten.
+
+## Rechtsgrundlagen
+
+- **§ 282 ZPO** — Rechtzeitiger Vortrag.
+- **§ 296 ZPO** — Praeklusion.
+- **§ 273 ZPO** — Vorbereitung der Verhandlung.
+- **§ 138 ZPO** — Wahrheit, Vollstaendigkeit.
+
+## Schritt-für-Schritt-Anleitung
+
+### Schritt 1 — Klageerwiderung prüfen
+
+Lesen Sie Wort für Wort:
+
+- Welche Tatsachen bestreitet der Beklagte?
+- Welche Einreden erhebt er?
+- Welche neuen Tatsachen behauptet er?
+- Welche Beweismittel benennt er?
+
+### Schritt 2 — Pro Beklagten-Punkt: Reaktion
+
+Wenn Beklagter Tatsache des Klägers bestreitet — müssen Sie Beweis nochmal staerken oder Tatsache substantiieren.
+
+Wenn Beklagter neue Tatsachen vortraegt — Sie müssen darauf reagieren:
+
+- Bestreiten (substantiiert).
+- Zugestehen (wenn wahr).
+- Mit Nichtwissen bestreiten (wenn ausser Ihrer Wahrnehmung).
+
+### Schritt 3 — Auf Einreden reagieren
+
+Wenn Beklagter Verjährung einredet:
+
+- Verjährungs-Berechnung prüfen.
+- Hemmung darlegen (Verhandlungen, Mahnbescheid).
+- Neubeginn prüfen (Anerkenntnis).
+
+Wenn Aufrechnung:
+
+- Wider-Forderung bestreiten.
+- Aufrechnungs-Voraussetzungen prüfen.
+
+Wenn Zurueckbehaltungsrecht:
+
+- Gegenleistung-Pflicht klären.
+
+### Schritt 4 — Beweisangebote ergaenzen
+
+Wenn Ihre Klage Beweis nicht klar hatte, jetzt ergaenzen:
+
+```
+Beweis: Zeugnis des Herrn X,
+[ladungsfaehige Anschrift],
+zum Beweis dafür, dass ...
+```
+
+### Schritt 5 — Replik strukturieren
+
+```
+[Briefkopf]
+
+In der Sache [Klaeger] ./. [Beklagter]
+Aktenzeichen: [AZ]
+
+erwidere ich auf die Klageerwiderung vom
+[Datum] wie folgt:
+
+I. Allgemeines
+
+[Kurze Einleitung, ggf. Verweis auf
+weiteren Vortrag]
+
+II. Stellungnahme zur Klageerwiderung
+
+Zu I. der Klageerwiderung (Sachverhalt):
+[Stellungnahme]
+
+Zu II. der Klageerwiderung (rechtliche
+Wuerdigung):
+[Stellungnahme]
+
+Zu III. der Klageerwiderung (Einreden):
+- Verjährungs-Einrede: [Erwiderung]
+- Aufrechnung: [Erwiderung]
+
+III. Ergaenzender Sachvortrag
+
+[Neue Tatsachen, falls erforderlich]
+
+Beweis: ...
+
+IV. Antraege
+
+Die mit der Klage gestellten Antraege
+werden aufrecht erhalten.
+```
+
+### Schritt 6 — Vom Gericht gesetzte Frist
+
+Das Gericht setzt i. d. R. eine Replik-Frist. Halten Sie diese ein.
+
+Wenn nicht ausreichend: Fristverlaengerung beantragen (Skill `fristverlaengerung-antrag-225-zpo`).
+
+### Schritt 7 — Schweigen als Strategie?
+
+Bei der Replik **nicht** schweigen. Wenn Beklagter neue Tatsachen behauptet und Sie schweigen, kann das Gericht annehmen, Sie haben nichts dagegen.
+
+Es gibt aber Faelle, in denen die Beklagten-Erwiderung nichts neues bringt — dann ist eine kurze Replik möglich:
+
+```
+Ich nehme die Klageerwiderung zur Kenntnis.
+Die mit der Klage gestellten Antraege werden
+aufrecht erhalten. Auf den klaegerischen
+Vortrag wird verwiesen.
+
+Die in der Klageerwiderung erhobenen Einwendungen
+und Bestreitungen werden zurueckgewiesen; sie
+sind nicht substantiiert und stehen im
+Widerspruch zu den als Anlage K1 vorgelegten
+Email-Verkehr.
+```
+
+### Schritt 8 — Praeklusion vermeiden
+
+§ 296 ZPO: Verspaeteter Vortrag wird zurueckgewiesen, wenn dadurch der Termin verzoegert wuerde.
+
+Tragen Sie alles in der Replik vor. Später erst im Termin kommt schlechter an.
+
+## Worauf Sie besonders achten müssen
+
+- **Pro Beklagten-Tatsache eine Antwort** — sonst Geltend.
+- **Beweismittel benennen** auch für neue Tatsachen.
+- **Frist einhalten** oder Verlaengerung beantragen.
+- **Wahrheitspflicht** beachten.
+
+## Typische Fehler
+
+- "Ich antworte nur auf die wichtigsten Punkte." → Auch Nebenpunkte können relevant werden.
+- "Die Replik ist nicht zwingend." → Doch — gegen neuen Beklagten-Vortrag.
+- "Ich warte auf den Termin und sage dann was." → Praeklusions-Gefahr.
+
+## Quellen und Aktualitaet
+
+Stand: 05/2026. ZPO unveraendert.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

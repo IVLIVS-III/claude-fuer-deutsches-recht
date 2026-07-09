@@ -103,9 +103,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - LAG Berlin-Brandenburg, Urteil vom 16.03.2022 - 23 Sa 1133/21: Scan der Unterschrift wahrt TzBfG-Schriftform nicht und wird nach Arbeitsaufnahme nicht rückwirkend geheilt.
 - ArbG Gera, Urteil vom 07.03.2024 - 2 Ca 936/23: echte qualifizierte elektronische Signatur kann TzBfG-Schriftform wahren.
 - BAG, Beschluss vom 22.10.2014 - 10 AZB 46/14, frei nachweisbar über dejure: Der Rechtsweg zu den Gerichten für Arbeitssachen hängt von Arbeitnehmereigenschaft und Streitgegenstand ab
-- BAG, Urteil vom 06.07.2006 - 2 AZR 442/05, frei nachweisbar über dejure/openJur: Punkteschemata können die Sozialauswahl strukturieren, ersetzen aber nicht die gesetzliche Gewichtung der Sozialdaten
-- BAG, Urteil vom 29.01.2015 - 2 AZR 164/14, frei nachweisbar über dejure/openJur: Sozialauswahl setzt konkrete Vergleichbarkeit, ordnungsgemäße Gruppenbildung und Bewertung der Schutzwürdigkeit voraus
-- BAG, Urteil vom 20.09.2012 - 6 AZR 854/11, frei nachweisbar über dejure/openJur: Namensliste, Auswahlrichtlinie und Darlegungslast sind bei betriebsbedingten Gestaltungen sauber voneinander zu trennen
 - EuGH, Urteil vom 17.07.2008 - C-303/06, Coleman: Diskriminierungsschutz kann auch bei Benachteiligung wegen Nähe zu einer geschützten Person eingreifen
 
 ## 9. Prüfraster

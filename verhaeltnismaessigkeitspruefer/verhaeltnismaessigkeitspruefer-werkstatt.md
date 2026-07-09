@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Absolute Grenze: Menschenwürdiges Existenzminimum | Art. 3 Abs. 2 und Abs. 3 GG sind lex specialis. Greift ein besonderer; BVerfGE 125, 175 (Hartz-IV-Urteil, Existenzminimum) | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Absolute Grenze: Menschenwürdiges Existenzminimum | Art. 3 Abs. 2 und Abs. 3 GG sind lex specialis. Greift ein besonderer; EuGH Rs. C-144/04 Mangold | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Art. 3 Abs. 1 GG verbietet nicht jede Ungleichbehandlung, sondern | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Absolute Grenze: Menschenwuerde Art 1 I GG | Art. 3 Abs. 1 GG verbietet nicht jede Ungleichbehandlung, sondern; Begründet in BVerfGE 27, 1 (Mikrozensus-Urteil) und vertieft | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Absolute Grenze: Menschenwuerde Art 1 I GG | Art. 3 Abs. 1 GG verbietet nicht jede Ungleichbehandlung, sondern; EuGH Rs. C-555/07 Kuecuekdeveci | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -69,11 +69,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| BVerfGE 125, 175 (Hartz-IV-Urteil, Existenzminimum) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BVerfGE 125, 175 (Hartz-IV-Urteil, Existenzminimum) |
-| Begründet in BVerfGE 27, 1 (Mikrozensus-Urteil) und vertieft in BVerfGE 30, 1 (Abhoer-Urteil) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Begründet in BVerfGE 27, 1 (Mikrozensus-Urteil) und vertieft in BVerfGE 30, 1 (Abhoer-Urteil) |
-| Aktuelle Anwendung | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BVerfGE 115, 118 (Luftsicherheitsgesetz-Urteil) – Abschuss eines mit Unbeteiligten besetzten Flugzeugs verletzt |
-| BVerfGE 27, 1 (Mikrozensus-Urteil) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BVerfGE 27, 1 (Mikrozensus-Urteil) |
-| BVerfGE 30, 1 (Abhoer-Urteil, Objektformel) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BVerfGE 30, 1 (Abhoer-Urteil, Objektformel) |
+| EuGH Rs. C-144/04 Mangold | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Altersdiskriminierung und Unionsrechtsanwendung |
+| EuGH Rs. C-555/07 Kuecuekdeveci | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | unmittelbare Wirkung des Diskriminierungsverbots |
+| EuGH Rs. C-83/14 Chez | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | mittelbare ethnische Diskriminierung |
+| BAG vom 22.05.2014 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | 8 AZR 662/13 — wesentliche berufliche Anforderung |
+| BAG vom 19.12.2019 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | 8 AZR 2/19 — Angemessenheitsprüfung Paragraph 10 AGG |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -90,11 +90,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 8. Leitentscheidungen
 
-- BVerfGE 125, 175 (Hartz-IV-Urteil, Existenzminimum)
-- Begründet in BVerfGE 27, 1 (Mikrozensus-Urteil) und vertieft in BVerfGE 30, 1 (Abhoer-Urteil)
-- Aktuelle Anwendung: BVerfGE 115, 118 (Luftsicherheitsgesetz-Urteil) – Abschuss eines mit Unbeteiligten besetzten Flugzeugs verletzt die Wuerde der Passagiere
-- BVerfGE 27, 1 (Mikrozensus-Urteil)
-- BVerfGE 30, 1 (Abhoer-Urteil, Objektformel)
+- EuGH Rs. C-144/04 Mangold — Altersdiskriminierung und Unionsrechtsanwendung
+- EuGH Rs. C-555/07 Kuecuekdeveci — unmittelbare Wirkung des Diskriminierungsverbots
+- EuGH Rs. C-83/14 Chez — mittelbare ethnische Diskriminierung
+- BAG vom 22.05.2014 — 8 AZR 662/13 — wesentliche berufliche Anforderung
+- BAG vom 19.12.2019 — 8 AZR 2/19 — Angemessenheitsprüfung Paragraph 10 AGG
 
 ## 9. Prüfraster
 

@@ -1,34 +1,49 @@
-# Megaprompt: denkmalschutzrecht
+# Vollprüfung: denkmalschutzrecht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 50 Skills des Plugins `denkmalschutzrecht`.
+Dieser Vollprüfung enthaelt top-15 von 50 Skills des Plugins `denkmalschutzrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstiegsskill für das Denkmalschutzrecht-Plugin. Sortiert das Mandat, klärt Belegenheit des Objekts und damit das anwen…
-2. **kaltstart-triage** — Schnelltriage für ein neues denkmalschutzrechtliches Mandat. Erhebt in einer Sitzung Objektdaten, Schutzstatus, Mandante…
-3. **erstgespraech-mandatsannahme** — Strukturiert das erste Mandantengespräch im Denkmalschutzrecht. Erhebt die Mandatsgrundlage (Vollmacht, Konfliktcheck, H…
-4. **denkmalschutz-niedersachsen-ndschg** — Denkmalschutzrecht Niedersachsen nach dem Niedersächsischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Mini…
-5. **unesco-welterbe-und-icomos** — Welterbestätten in Deutschland: völkerrechtlicher Rahmen der UNESCO-Welterbekonvention von 1972, ICOMOS-Begutachtung, Pu…
-6. **denkmalschutz-sachsen-anhalt-dschg-lsa** — Denkmalschutzrecht Sachsen-Anhalt nach dem Denkmalschutzgesetz des Landes Sachsen-Anhalt. Skill bündelt zuständige Behör…
-7. **widerspruch-und-klagewege** — Rechtsschutz im Denkmalschutzrecht: Widerspruchsverfahren nach Paragrafen 68 ff. VwGO (soweit landesrechtlich vorgesehen…
-8. **verfahrensgrundsaetze-vwvfg** — Verwaltungsverfahrensrecht im Denkmalschutz: Anhörung nach Paragraf 28 VwVfG, schriftlicher Verwaltungsakt mit Begründun…
-9. **rechtsprechungsanker-denkmalrecht** — Kuratierte Sammlung der zentralen Leitentscheidungen im deutschen Denkmalschutzrecht: Bundesverfassungsgericht zum Verha…
-10. **art-73-gg-laenderzustaendigkeit** — Bundesstaatlicher Rahmen des Denkmalschutzes: Denkmalschutz ist keine konkurrierende Bundesmaterie nach Art. 73 oder 74 …
-11. **denkmalschutz-rheinland-pfalz-dschpflg** — Denkmalschutzrecht Rheinland-Pfalz nach dem Denkmalschutz- und -pflegegesetz Rheinland-Pfalz. Skill bündelt zuständige B…
-12. **hessen-spezial-limes-bergpark-wilhelmshoehe** — Hessische Besonderheit: Obergermanisch-Raetischer Limes (Welterbe seit 2005, gemeinsam mit Bayern und Rheinland-Pfalz un…
-13. **denkmalschutz-mecklenburg-vorpommern-dschg-m-v** — Denkmalschutzrecht Mecklenburg-Vorpommern nach dem Denkmalschutzgesetz Mecklenburg-Vorpommern. Skill bündelt zuständige …
-14. **quellen-livecheck** — Quellenhygiene-Skill für das Denkmalschutzrecht-Plugin. Liefert die kuratierte Suchadressen-Liste für die sechzehn Lande…
-15. **foerderung-und-steuerliche-abschreibung** — Förderung von Denkmalsanierung: direkte Zuschüsse der Länder und Kommunen, Bundesförderung über die Beauftragte der Bund…
+1. **einstieg-routing** — Wenn es um Einstieg — Routing im Denkmalschutzrecht in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: klärt…
+2. **kaltstart-triage** — Wenn es um Kaltstart — Denkmalschutzrechtliche Triage in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: klä…
+3. **erstgespraech-mandatsannahme** — Wenn es um Erstgespräch — Denkmalschutzrechtliche Mandatsannahme in Denkmalschutzrecht — Bundesweiter Rahmen und sechzeh…
+4. **thueringen-spezial-wartburg-klassisches-weimar-juedisches-erfurt** — Wenn es um Wartburg, Klassisches Weimar, Bauhaus und juedisch-mittelalterliches Erfurt in Thueringen in Denkmalschutzrec…
+5. **schleswig-holstein-spezial-luebeck-haithabu-wattenmeer** — Wenn es um Luebeck, Haithabu-Danewerk und Wattenmeer als UNESCO-Welterbe in Schleswig-Holstein in Denkmalschutzrecht — B…
+6. **rheinland-pfalz-spezial-mittelrheintal-schum-staetten** — Wenn es um Oberes Mittelrheintal und SchUM-Staetten als UNESCO-Welterbe in Rheinland-Pfalz in Denkmalschutzrecht — Bunde…
+7. **sachsen-anhalt-spezial-bauhaus-quedlinburg-luther** — Wenn es um Bauhaus, Quedlinburg und Lutherstaetten als UNESCO-Welterbe in Sachsen-Anhalt in Denkmalschutzrecht — Bundesw…
+8. **sachsen-spezial-montanregion-erzgebirge-muskauer-park** — Wenn es um Montanregion Erzgebirge und Muskauer Park als UNESCO-Welterbe in Sachsen in Denkmalschutzrecht — Bundesweiter…
+9. **niedersachsen-spezial-wattenmeer-fagus-werk** — Wenn es um Wattenmeer und Fagus-Werk Alfeld als UNESCO-Welterbe in Niedersachsen in Denkmalschutzrecht — Bundesweiter Ra…
+10. **hessen-spezial-limes-bergpark-wilhelmshoehe** — Wenn es um Limes und Bergpark Wilhelmshoehe als UNESCO-Welterbe in Hessen in Denkmalschutzrecht — Bundesweiter Rahmen un…
+11. **nordrhein-westfalen-spezial-zollverein-industriekultur** — Wenn es um Zeche und Kokerei Zollverein als UNESCO-Welterbe in NRW in Denkmalschutzrecht — Bundesweiter Rahmen und sechz…
+12. **brandenburg-spezial-schloesser-gutsanlagen-restitution** — Wenn es um Schloesser, Gutsanlagen und Restitution in Brandenburg in Denkmalschutzrecht — Bundesweiter Rahmen und sechze…
+13. **art-73-gg-laenderzustaendigkeit** — Wenn es um Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz in Denkmalschutzrecht — Bundesweiter Rahmen und…
+14. **denkmalschutz-saarland-spezial-voelklinger-huette-welterbe** — Wenn es um Voelklinger Huette als UNESCO-Welterbe im Saarland in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn g…
+15. **bussgeld-ordnungswidrigkeitsverfahren** — Wenn es um Bussgeld- und Ordnungswidrigkeitsverfahren in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ord…
 
 ---
 
 ## Skill: `einstieg-routing`
 
-_Einstiegsskill für das Denkmalschutzrecht-Plugin. Sortiert das Mandat, klärt Belegenheit des Objekts und damit das anwendbare Landesgesetz, ermittelt Rolle (Eigentümer, Erwerber, Behörde, Nachbar, Förderantragsteller), Fristen und gewünschtes Arbeitsprodukt. Routet anschließend in die passenden Querschnitts- und Landesskills._
+_Wenn es um Einstieg — Routing im Denkmalschutzrecht in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Einstieg — Routing im Denkmalschutzrecht
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Zweck und Anwendungsfall
 
@@ -61,7 +76,11 @@ Anwendbares Landesgesetz immer aus der amtlichen Landesgesetz-Datenbank zitieren
 Eine knappe Routing-Notiz mit den Punkten Belegenheit, Landesgesetz, Schutzstatus, Rolle, Frage, Frist, Empfehlung für den nächsten Skill.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Beispiel
@@ -72,7 +91,7 @@ Mandantin Müller-Schenk besitzt ein 1898 errichtetes Eckwohnhaus in München-Sc
 
 ## Skill: `kaltstart-triage`
 
-_Schnelltriage für ein neues denkmalschutzrechtliches Mandat. Erhebt in einer Sitzung Objektdaten, Schutzstatus, Mandantenrolle, konkrete Maßnahme, drohende Fristen und Eilrisiken. Liefert eine erste Risikoampel und benennt die unverzichtbaren Sofortmaßnahmen (Akteneinsicht, Bauanzeige aussetzen, vorläufige Sicherung)._
+_Wenn es um Kaltstart — Denkmalschutzrechtliche Triage in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Kaltstart — Denkmalschutzrechtliche Triage
 
@@ -110,7 +129,11 @@ Konkrete Norm-Anker des Landesgesetzes live aus der amtlichen Landesgesetz-Daten
 Kurzes Triage-Memo mit fünf Blöcken: Sachverhalt, Frage, Kurzantwort in einem Satz, Sofortmaßnahmen, offene Punkte und nächster Skill.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Beispiel
@@ -121,7 +144,7 @@ Eigentümerin Lechner hat ohne Erlaubnis das Dach eines eingetragenen Pfarrhause
 
 ## Skill: `erstgespraech-mandatsannahme`
 
-_Strukturiert das erste Mandantengespräch im Denkmalschutzrecht. Erhebt die Mandatsgrundlage (Vollmacht, Konfliktcheck, Honorarvereinbarung), das Objekt mit Belegenheit und Schutzstatus, die anstehende Maßnahme und das Mandatsziel. Liefert einen Mandatsannahmevermerk in vollständiger Sprache._
+_Wenn es um Erstgespräch — Denkmalschutzrechtliche Mandatsannahme in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Erstgespräch — Denkmalschutzrechtliche Mandatsannahme
 
@@ -157,7 +180,11 @@ Verweise auf BRAO, RVG und das jeweilige Landesgesetz immer mit Paragrafen, ohne
 Mandatsannahmevermerk in vollständiger Sprache mit den Blöcken Mandantenstammdaten, Objekt, Schutzstatus, Mandatsziel, Konfliktprüfung, Vollmacht, Honorarvereinbarung, nächste Schritte. Platzhalter sind als `[Mandantin Name]`, `[Objektanschrift]` und `[Aktenzeichen Denkmalliste]` zu kennzeichnen.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Beispiel
@@ -166,301 +193,360 @@ Mandantin Frau Dr. Helena Volkenrath erbt 2026 ein eingetragenes Bürgerhaus von
 
 ---
 
-## Skill: `denkmalschutz-niedersachsen-ndschg`
+## Skill: `thueringen-spezial-wartburg-klassisches-weimar-juedisches-erfurt`
 
-_Denkmalschutzrecht Niedersachsen nach dem Niedersächsischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Ministerium für Wissenschaft und Kultur; Niedersächsisches Landesamt für Denkmalpflege in Hannover; Untere Denkmalschutzbehörden bei den Landkreisen und kreisfreien Städten), die deklaratorische Listenwirkung bei unbeweglichen Kulturdenkmalen und Bodendenkmalen sowie den eintragungsabhängigen Sonderfall beweglicher Denkmale mit besonderem Augenmerk auf Goslar, Hildesheim, Fagus-Werk und Wattenmeer._
+_Wenn es um Wartburg, Klassisches Weimar, Bauhaus und juedisch-mittelalterliches Erfurt in Thueringen in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Denkmalschutz Niedersachsen (NDSchG)
-
-## Zweck und Anwendungsfall
-
-Niedersachsen arbeitet nicht mit einem pauschal konstitutiven Listenmodell. Für unbewegliche Kulturdenkmale und Bodendenkmale folgt die Denkmaleigenschaft aus dem Gesetz; die Eintragung im Verzeichnis ist insoweit regelmäßig nachrichtlich beziehungsweise deklaratorisch. Bewegliche Denkmale sind dagegen gesondert zu behandeln, weil § 4 Abs. 1 Satz 2 NDSchG ihre Eintragung an eine besondere Bedeutung knüpft und § 5 Abs. 1 Satz 2 NDSchG zentrale Schutzpflichten für bewegliche Denkmale an die Eintragung koppelt. Die Welterbestätten Goslar (Altstadt und Erzbergwerk Rammelsberg), Hildesheim (Mariendom und Michaeliskirche), das Fagus-Werk Alfeld und das Wattenmeer prägen die Verfahrenspraxis.
-
-## Anwendbares Gesetz
-
-- **Gesetzesbezeichnung**: Niedersächsisches Denkmalschutzgesetz
-- **Abkürzung**: NDSchG
-- **Zitiergrundlage**: amtliche Landesgesetz-Datenbank voris.wolterskluwer-online.de / nds-voris.de
-
-## Zuständige Behörden
-
-- **Oberste Denkmalschutzbehörde**: Niedersächsisches Ministerium für Wissenschaft und Kultur
-- **Obere Denkmalschutzbehörde**: Niedersächsisches Landesamt für Denkmalpflege (zugleich Fachbehörde) in Hannover
-- **Untere Denkmalschutzbehörde**: Landkreise und kreisfreie Städte (Braunschweig, Hannover, Osnabrück, Wolfsburg u. a.)
-- **Fachbehörde**: Niedersächsisches Landesamt für Denkmalpflege
-
-## Verfahrensbesonderheiten Niedersachsen
-
-- Deklaratorisches Verzeichnis für unbewegliche Kulturdenkmale und Bodendenkmale; bewegliche Denkmale gesondert nach § 4 Abs. 1 Satz 2 und § 5 Abs. 1 Satz 2 NDSchG prüfen.
-- Welterbestätten Goslar, Hildesheim, Wattenmeer, Fagus-Werk Alfeld.
-- Bodendenkmäler in den Küstenregionen mit besonderer Schutzpflicht.
-- Energetische Sanierung von Fachwerkbauten ist landesweit besonders konfliktträchtig.
-
-## Eintragungssystem
-
-- **Systematik**: unbewegliche Kulturdenkmale und Bodendenkmale sind nicht erst durch die Eintragung geschützt; bei beweglichen Denkmalen entscheidet die landesrechtliche Eintragungs- und Schutzwirkung über die Anwendbarkeit der einschlägigen Pflichten.
-
-## Ablauf / Checkliste
-
-1. Klären, ob das Objekt ein Bau-, Boden- oder bewegliches Denkmal ist.
-2. Eintragungsstatus über die Denkmalliste des Landes feststellen — über voris.wolterskluwer-online.de bzw. nds-voris.de — und zugleich prüfen, ob es um ein unbewegliches Denkmal oder den eintragungsabhängigen Sonderfall eines beweglichen Denkmals geht.
-3. Zuständige untere Denkmalschutzbehörde am Belegenheitsort kontaktieren.
-4. Bei Maßnahmen das Erlaubnisverfahren nach NDSchG starten; bei zugleich bauordnungsrechtlich relevanten Maßnahmen die Kombination mit der Baugenehmigung berücksichtigen.
-5. Konkrete Paragrafen vor Ausgabe live in voris.wolterskluwer-online.de / nds-voris.de verifizieren.
-
-## Quellenpflicht
-
-Sämtliche Paragrafenzitate werden vor Mandatsverwendung in voris.wolterskluwer-online.de / nds-voris.de live geprüft. Verwaltungsgerichts- und Oberverwaltungsgerichtsrechtsprechung des Landes nur mit Aktenzeichen, Datum und frei zugänglicher Fundstelle benennen.
-
-## Ausgabeformat
-
-Landesrechtliche Stellungnahme in vollständigen Sätzen mit konkreten Paragrafenverweisen aus dem Landesgesetz und den zuständigen Behörden.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Beispiel
-
-Erwerber eines Fachwerkhauses in der Hildesheimer Altstadt, eingetragenes Baudenkmal nahe Mariendom, plant Innendämmung und neue Heizungsanlage. Zuständig ist die Stadt Hildesheim mit fachlicher Stellungnahme des Niedersächsischen Landesamts für Denkmalpflege.
-
----
-
-## Skill: `unesco-welterbe-und-icomos`
-
-_Welterbestätten in Deutschland: völkerrechtlicher Rahmen der UNESCO-Welterbekonvention von 1972, ICOMOS-Begutachtung, Pufferzonen, Managementpläne und die mittelbare Wirkung auf das deutsche Landesrecht. Skill ordnet, was die Welterbe-Eigenschaft für ein konkretes Mandat rechtlich tatsächlich bedeutet (Hinweisfunktion, Bauplanung, behördliche Begründungspflicht) und was sie nicht bedeutet (kein eigenständiger Schutzstatus jenseits des Landesgesetzes)._
-
-# UNESCO-Welterbe und ICOMOS
+# Wartburg, Klassisches Weimar, Bauhaus und juedisch-mittelalterliches Erfurt in Thueringen
 
 ## Zweck und Anwendungsfall
 
-Welterbestätten verlangen in der Mandatspraxis besondere Aufmerksamkeit, weil die Begründungslast der Behörde höher ist, ICOMOS-Empfehlungen die Bauleitplanung mitprägen und Reputationsrisiken bei Beschädigungen erheblich sind. Der Skill ordnet den völkerrechtlichen Rahmen ein und zeigt, wie er ins deutsche Landesrecht hineinwirkt.
+Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bundesland-Skill nur kurz angerissen wird. Er liefert die juristische Tiefe für Mandate, in denen genau diese Besonderheit den Streit dominiert.
 
-## Rechtlicher Rahmen
+## Inhaltlicher Schwerpunkt
 
-- **UNESCO-Welterbekonvention vom 16.11.1972**, ratifiziert durch Deutschland 1976 (BGBl. 1977 II Seite 213). Begründet keinen unmittelbaren Schutzanspruch im innerstaatlichen Recht, verpflichtet aber den Vertragsstaat zur Erhaltung.
-- **ICOMOS** als beratendes Gremium der UNESCO begutachtet vor Listenaufnahme und überwacht den Erhaltungszustand. Reactive Monitoring Reports und State of Conservation Reports sind veröffentlicht und im Verfahren verwertbar.
-- **Pufferzonen** sind in den Operational Guidelines for the Implementation of the World Heritage Convention vorgesehen; in Deutschland landesrechtlich nicht zwingend, aber regelmäßig als Erhaltungssatzung nach Paragraf 172 BauGB oder als Sichtachsenschutz im Bebauungsplan abgebildet.
-- **Wirkung im Landesrecht:** Welterbe-Eigenschaft verschärft die behördliche Begründungspflicht und kann eine atypische Ermessensbindung bewirken; sie ersetzt aber nicht die Eintragung nach dem jeweiligen Landesgesetz.
-
-## Welterbestätten in Deutschland — Beispielfälle (vor Verwendung verifizieren)
-
-Aachener Dom, Würzburger Residenz, Speyerer Dom, Hansestadt Lübeck, Klosterinsel Reichenau, Oberes Mittelrheintal, Quedlinburger Altstadt, Bauhausstätten in Weimar und Dessau, Wattenmeer, Hamburger Speicherstadt und Kontorhausviertel, Naumburger Dom, jüdisch-mittelalterliches Erbe in Speyer, Worms und Mainz (SchUM) und weitere. Liste vor Mandatsverwendung über die UNESCO-Welterbe-Datenbank prüfen.
+Thueringen ist ein dichtbevoelkertes Welterbeland. Wartburg (Eisenach) als reformatorische Erinnerungsstaette und Inbegriff der Sehnsuchtsarchitektur des 19. Jahrhunderts; Klassisches Weimar mit Goethe- und Schillerhaus, Anna-Amalia-Bibliothek, Stadtschloss und Park an der Ilm; Bauhausstaetten Weimar mit dem Bauhaus-Museum und der ehemaligen Kunstgewerbeschule; juedisch-mittelalterliches Erfurt mit Alter Synagoge, Mikwe und Steinernem Haus seit 2023 in der Welterbeliste. Mandatslagen: Bauleitplanung im Welterbe-Umfeld, Innenausbauten, Energetik unter Welterbe-Beschraenkung.
 
 ## Ablauf / Checkliste
 
-1. Klären, ob das Objekt selbst Welterbestätte ist oder in einer ausgewiesenen Pufferzone liegt.
-2. Den aktuellen Managementplan und den letzten ICOMOS-Bericht beschaffen (UNESCO-Welterbezentrum, Landesdenkmalbehörde).
-3. Bei Erlaubnisverfahren die Welterbe-Eigenschaft in die Begründung einarbeiten; bei behördlicher Versagung prüfen, ob die Welterbe-Argumentation der Behörde tragfähig ist oder ob sie sich auf nicht verbindliche Empfehlungen stützt.
-4. Bei drohender De-Listing-Diskussion ICOMOS-Empfehlungen und die State of Conservation-Berichte als Begründungsstoff verwenden.
+1. Klären, ob die landesspezifische Besonderheit tatsächlich einschlägig ist (Belegenheit, Eintragungsstatus, Maßnahme).
+2. Konkrete Paragrafen und gegebenenfalls Welterbe-Managementplan-Vorgaben live verifizieren.
+3. Mit dem allgemeinen Bundesland-Skill und den Querschnittsskills verzahnen.
+4. Bei Welterbestätten ICOMOS-Stellungnahmen und State of Conservation-Berichte berücksichtigen.
 
 ## Quellenpflicht
 
-Konventionstext aus dem Bundesgesetzblatt zitieren. ICOMOS-Berichte aus dem UNESCO-Welterbezentrum (whc.unesco.org). Operational Guidelines in der aktuellen Fassung verifizieren; siehe references/zitierweise.md.
+Norm-Anker aus der amtlichen Landesgesetz-Datenbank; Welterbe-Texte aus dem UNESCO-Welterbezentrum (whc.unesco.org); Rechtsprechung mit Gericht, Datum, Aktenzeichen, frei zugänglicher Quelle.
 
 ## Ausgabeformat
 
-Bewertung in vollständigen Sätzen, die den Welterbestatus konkret in das deutsche Verwaltungsverfahren einordnet — keine pauschale Berufung auf den Status ohne landesrechtliche Anbindung.
+Juristische Stellungnahme zur landesspezifischen Besonderheit in vollständigen Sätzen mit konkreten Norm- und Welterbe-Ankern.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
-## Skill: `denkmalschutz-sachsen-anhalt-dschg-lsa`
+## Skill: `schleswig-holstein-spezial-luebeck-haithabu-wattenmeer`
 
-_Denkmalschutzrecht Sachsen-Anhalt nach dem Denkmalschutzgesetz des Landes Sachsen-Anhalt. Skill bündelt zuständige Behörden (Ministerium für Wissenschaft, Energie, Klimaschutz und Umwelt; Landesamt für Denkmalpflege und Archäologie Sachsen-Anhalt in Halle; Untere Denkmalschutzbehörden bei den Landkreisen) und die zahlreichen Welterbestätten (Quedlinburg, Wittenberg, Dessauer Gartenreich, Bauhaus, Naumburger Dom, Himmelsscheibe von Nebra)._
+_Wenn es um Luebeck, Haithabu-Danewerk und Wattenmeer als UNESCO-Welterbe in Schleswig-Holstein in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Denkmalschutz Sachsen-Anhalt (DSchG-LSA)
+# Luebeck, Haithabu-Danewerk und Wattenmeer als UNESCO-Welterbe in Schleswig-Holstein
 
 ## Zweck und Anwendungsfall
 
-Sachsen-Anhalt ist eines der welterbedichtesten Bundesländer mit Quedlinburg, Wittenberg, Naumburger Dom, Dessauer Gartenreich und Bauhausstätten. Das DSchG-LSA arbeitet mit nachrichtlicher Eintragung; die Verfahrenspraxis ist eng mit der ICOMOS-Begutachtung verzahnt.
+Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bundesland-Skill nur kurz angerissen wird. Er liefert die juristische Tiefe für Mandate, in denen genau diese Besonderheit den Streit dominiert.
 
-## Anwendbares Gesetz
+## Inhaltlicher Schwerpunkt
 
-- **Gesetzesbezeichnung**: Denkmalschutzgesetz des Landes Sachsen-Anhalt
-- **Abkürzung**: DSchG-LSA
-- **Zitiergrundlage**: amtliche Landesgesetz-Datenbank landesrecht.sachsen-anhalt.de
-
-## Zuständige Behörden
-
-- **Oberste Denkmalschutzbehörde**: Ministerium für Wissenschaft, Energie, Klimaschutz und Umwelt des Landes Sachsen-Anhalt
-- **Obere Denkmalschutzbehörde**: Landesverwaltungsamt Sachsen-Anhalt in Halle
-- **Untere Denkmalschutzbehörde**: Landkreise und kreisfreie Städte (Halle, Magdeburg, Dessau-Roßlau)
-- **Fachbehörde**: Landesamt für Denkmalpflege und Archäologie Sachsen-Anhalt in Halle
-
-## Verfahrensbesonderheiten Sachsen-Anhalt
-
-- Welterbestätten: Quedlinburg, Luthergedenkstätten Eisleben und Wittenberg, Naumburger Dom, Dessauer Gartenreich, Bauhausstätten in Dessau.
-- Frühmittelalterliches Kulturerbe (Himmelsscheibe von Nebra, Pretziener Wehr).
-- Industriekultur Magdeburg, Halle.
-- Hoher Bestand an Bodendenkmälern aus dem Salzwirken-Raum.
-
-## Eintragungssystem
-
-- **Systematik**: nachrichtliches Eintragungssystem
+Schleswig-Holstein hat drei Welterbestaetten. Luebeck ist das aelteste deutsche Welterbe in der norddeutschen Backsteingotik, mit Marktkirche, Holstentor und Buddenbrookhaus. Haithabu / Danewerk ist die grenzueberschreitende archaeologische Landschaft (gemeinsam mit Daenemark), die ein Bodendenkmal-Ensemble der Wikingerzeit konserviert; Erdbewegungen jeglicher Art sind genehmigungspflichtig. Wattenmeer als Natur-Welterbe greift in die maritime Bauleitplanung ein. Mandatslagen: Hafenausbau, Daenemark-Verkehrsanbindung, Sichtachsen Luebeck, Hofbebauung Altstadt.
 
 ## Ablauf / Checkliste
 
-1. Klären, ob das Objekt ein Bau-, Boden- oder bewegliches Denkmal ist.
-2. Eintragungsstatus über die Denkmalliste des Landes feststellen — über landesrecht.sachsen-anhalt.de.
-3. Zuständige untere Denkmalschutzbehörde am Belegenheitsort kontaktieren.
-4. Bei Maßnahmen das Erlaubnisverfahren nach DSchG-LSA starten; bei zugleich bauordnungsrechtlich relevanten Maßnahmen die Kombination mit der Baugenehmigung berücksichtigen.
-5. Konkrete Paragrafen vor Ausgabe live in landesrecht.sachsen-anhalt.de verifizieren.
+1. Klären, ob die landesspezifische Besonderheit tatsächlich einschlägig ist (Belegenheit, Eintragungsstatus, Maßnahme).
+2. Konkrete Paragrafen und gegebenenfalls Welterbe-Managementplan-Vorgaben live verifizieren.
+3. Mit dem allgemeinen Bundesland-Skill und den Querschnittsskills verzahnen.
+4. Bei Welterbestätten ICOMOS-Stellungnahmen und State of Conservation-Berichte berücksichtigen.
 
 ## Quellenpflicht
 
-Sämtliche Paragrafenzitate werden vor Mandatsverwendung in landesrecht.sachsen-anhalt.de live geprüft. Verwaltungsgerichts- und Oberverwaltungsgerichtsrechtsprechung des Landes nur mit Aktenzeichen, Datum und frei zugänglicher Fundstelle benennen.
+Norm-Anker aus der amtlichen Landesgesetz-Datenbank; Welterbe-Texte aus dem UNESCO-Welterbezentrum (whc.unesco.org); Rechtsprechung mit Gericht, Datum, Aktenzeichen, frei zugänglicher Quelle.
 
 ## Ausgabeformat
 
-Landesrechtliche Stellungnahme in vollständigen Sätzen mit konkreten Paragrafenverweisen aus dem Landesgesetz und den zuständigen Behörden.
+Juristische Stellungnahme zur landesspezifischen Besonderheit in vollständigen Sätzen mit konkreten Norm- und Welterbe-Ankern.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Beispiel
-
-Eigentümerin eines Bürgerhauses in Quedlinburg-Altstadt (UNESCO-Welterbe) plant Umnutzung als Ferienwohnung. Zuständig ist der Landkreis Harz als untere Denkmalschutzbehörde mit fachlicher Stellungnahme des Landesamts für Denkmalpflege und Archäologie und ICOMOS-Berücksichtigung.
-
----
-
-## Skill: `widerspruch-und-klagewege`
-
-_Rechtsschutz im Denkmalschutzrecht: Widerspruchsverfahren nach Paragrafen 68 ff. VwGO (soweit landesrechtlich vorgesehen), Anfechtungsklage nach Paragraf 42 VwGO gegen Eintragung, Erlaubnisversagung, Untersagung und Beseitigungsanordnung, Verpflichtungsklage auf Erteilung der Erlaubnis, Eilrechtsschutz nach Paragraf 80 Abs. 5 VwGO oder Paragraf 123 VwGO sowie klare Aussteuerung denkmalrechtlicher Bußgeldbescheide in den OWiG-Einspruch._
-
-# Widerspruch und Klagewege im Denkmalrecht
-
-## Rechtlicher Rahmen
-
-- **Widerspruch**: Paragrafen 68 ff. VwGO, soweit das jeweilige Land ein Widerspruchsverfahren noch vorsieht. Einige Länder (etwa Niedersachsen, Bayern in Teilen) haben das Vorverfahren weitgehend abgeschafft; dann führt die Klage unmittelbar zum Verwaltungsgericht.
-- **Anfechtungsklage**: Paragraf 42 Abs. 1 Alternative 1 VwGO gegen belastende Verwaltungsakte wie Eintragung, Erlaubnisversagung, Untersagung oder Beseitigungsanordnung.
-- **Verpflichtungsklage**: Paragraf 42 Abs. 1 Alternative 2 VwGO auf Erteilung einer beantragten und versagten Erlaubnis; bei Spruchreife auf konkrete Erteilung, sonst auf Neubescheidung.
-- **Eilrechtsschutz**: Paragraf 80 Abs. 5 VwGO bei sofort vollziehbarer Untersagung; Paragraf 123 VwGO bei drohender, nicht durch Verwaltungsakt geregelter Maßnahme.
-- **Fortsetzungsfeststellungsklage**: Paragraf 113 Abs. 1 Satz 4 VwGO bei Erledigung des Verwaltungsakts, wenn ein berechtigtes Interesse fortbesteht.
-- **Denkmalrechtlicher Bußgeldbescheid**: kein VwGO-Rechtsbehelf. Der richtige Rechtsbehelf ist der Einspruch nach §§ 67 ff. OWiG, regelmäßig binnen zwei Wochen ab Zustellung; gerichtlicher Weg ist nach § 68 OWiG das Amtsgericht. Solche Fälle sofort in den Skill `bussgeld-ordnungswidrigkeitsverfahren` routen.
-
-## Ablauf / Checkliste
-
-1. Frist berechnen: Widerspruch oder Klage innerhalb eines Monats ab Bekanntgabe; bei fehlender oder fehlerhafter Rechtsbehelfsbelehrung verlängert sich die Frist auf ein Jahr nach Paragraf 58 Abs. 2 VwGO. Bei Bußgeldbescheiden gilt dagegen die OWiG-Schiene mit regelmäßig zwei Wochen Einspruchsfrist nach § 67 OWiG.
-2. Klageart wählen je nach Bescheid.
-3. Aufschiebende Wirkung: Anfechtungsklage hat sie nach Paragraf 80 Abs. 1 VwGO; bei sofort vollziehbaren Anordnungen oder bei Erlassen mit Bezug zu Paragraf 80 Abs. 2 Nr. 4 VwGO (besonderes Vollzugsinteresse) gesondertes Eilverfahren erforderlich. Bei Bußgeldbescheiden nicht mit § 80 VwGO arbeiten, sondern Zulässigkeit und Begründung des OWiG-Einspruchs prüfen.
-4. Zuständiges Verwaltungsgericht nach Paragraf 52 VwGO bestimmen.
-5. Bei Welterbestätten oder Ensembleschutz: Streitwert und Beweisbedarf (Sachverständigengutachten zu Denkmalwert und Wirtschaftlichkeit) frühzeitig planen.
-
-## Typische Anträge
-
-- **Klageantrag bei Erlaubnisversagung:** „Den Bescheid des [Behörde] vom [Datum], Aktenzeichen [Az.], aufzuheben und die Beklagte zu verpflichten, der Klägerin die beantragte Erlaubnis für die im Antrag vom [Datum] beschriebenen Maßnahmen nach [Norm des Landesgesetzes] zu erteilen, hilfsweise die Beklagte zur Neubescheidung unter Beachtung der Rechtsauffassung des Gerichts zu verpflichten."
-- **Eilantrag gegen Untersagung:** „Die aufschiebende Wirkung des Widerspruchs der Antragstellerin gegen den Bescheid vom [Datum] wird angeordnet, hilfsweise wiederhergestellt."
-
-## Quellenpflicht
-
-Normverweise und Rechtsprechungsanker werden vor Mandatsverwendung live in den amtlichen Datenbanken verifiziert; siehe references/zitierweise.md.
-
-## Ausgabeformat
-
-Strukturierte Stellungnahme in vollständigen Sätzen mit konkreten Norm-Ankern und klarem Bezug zum Mandatsbegehren.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
-## Skill: `verfahrensgrundsaetze-vwvfg`
+## Skill: `rheinland-pfalz-spezial-mittelrheintal-schum-staetten`
 
-_Verwaltungsverfahrensrecht im Denkmalschutz: Anhörung nach Paragraf 28 VwVfG, schriftlicher Verwaltungsakt mit Begründung und Rechtsbehelfsbelehrung nach Paragrafen 35 37 und 39 VwVfG, Bekanntgabe nach Paragraf 41 VwVfG, Rücknahme rechtswidriger und Widerruf rechtmäßiger Verwaltungsakte nach Paragrafen 48/49 VwVfG. Skill zeigt, wie die Landes-VwVfG inhaltsgleich greifen und welche Verfahrensfehler im Denkmalrecht typisch sind._
+_Wenn es um Oberes Mittelrheintal und SchUM-Staetten als UNESCO-Welterbe in Rheinland-Pfalz in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Verfahrensgrundsätze nach VwVfG
+# Oberes Mittelrheintal und SchUM-Staetten als UNESCO-Welterbe in Rheinland-Pfalz
 
-Im Denkmalschutzverfahren ist die Verwaltungsverfahrensregelung des jeweiligen Landes (Landes-VwVfG) maßgeblich; sie ist inhaltsgleich mit dem Bundes-VwVfG. Folgende Verfahrensregeln werden im Denkmalrecht regelmäßig relevant:
+## Zweck und Anwendungsfall
 
-- **Paragraf 28 VwVfG — Anhörung**: vor jedem belastenden Verwaltungsakt zwingend; Heilung im Widerspruchsverfahren grundsätzlich möglich, aber bei wesentlichen Tatsachen nicht.
-- **Paragraf 35 VwVfG — Verwaltungsakt**: Eintragung in die Denkmalliste, Erlaubniserteilung oder -versagung, Untersagung, Beseitigungsanordnung — alle sind Verwaltungsakte.
-- **Paragraf 37 VwVfG — Bestimmtheit**: Tenor der Anordnung muss die konkrete Maßnahme exakt benennen; pauschale Untersagungen sind anfechtbar.
-- **Paragraf 39 VwVfG — Begründung**: Ermessensentscheidungen verlangen eine ausführliche, fallbezogene Begründung; die bloße Wiederholung des Gesetzeswortlauts genügt nicht.
-- **Paragraf 41 VwVfG — Bekanntgabe**: Beginn der Widerspruchsfrist; bei elektronischer Bekanntgabe Zustellungsregeln des jeweiligen Landeszustellgesetzes.
-- **Paragrafen 48, 49 VwVfG — Rücknahme und Widerruf**: gerade bei Eintragungen, die ohne ausreichende Anhörung ergangen sind, kommt eine Rücknahme nach Paragraf 48 VwVfG in Betracht.
+Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bundesland-Skill nur kurz angerissen wird. Er liefert die juristische Tiefe für Mandate, in denen genau diese Besonderheit den Streit dominiert.
 
-## Typische Verfahrensfehler im Denkmalrecht
+## Inhaltlicher Schwerpunkt
 
-- Eintragung ohne vorhergehende Anhörung der Eigentümerin.
-- Erlaubnisversagung ohne fallbezogene Ermessensbegründung.
-- Beseitigungsanordnung ohne konkrete Beschreibung der zu beseitigenden Maßnahme.
-- Untersagung ohne aufschiebende Wirkung trotz fehlender öffentlicher Vollzugsinteressen.
+Rheinland-Pfalz ist eines der welterbedichtesten Bundeslaender. Mandatsfaelle entstehen typisch im Mittelrheintal-Korridor (Sichtachsen, Hangbauten, Industrieprojekte), bei den SchUM-Staetten (juedisch-mittelalterliches Erbe mit besonderem Schutz der Synagogengebaeude, Mikwen, Friedhoefe) und bei den roemischen Bauten Trier (Porta Nigra, Konstantinbasilika, Kaiserthermen). Welterbe-Managementplaene und ICOMOS-Berichte sind in der Verfahrensbegruendung zwingend.
 
 ## Ablauf / Checkliste
 
-1. Bescheid auf Anhörung, Begründung, Bestimmtheit und Rechtsbehelfsbelehrung prüfen.
-2. Verfahrensfehler dokumentieren und in den Widerspruch einarbeiten.
-3. Bei groben Verfahrensfehlern Aussetzung der Vollziehung nach Paragraf 80 Abs. 5 VwGO erwägen.
+1. Klären, ob die landesspezifische Besonderheit tatsächlich einschlägig ist (Belegenheit, Eintragungsstatus, Maßnahme).
+2. Konkrete Paragrafen und gegebenenfalls Welterbe-Managementplan-Vorgaben live verifizieren.
+3. Mit dem allgemeinen Bundesland-Skill und den Querschnittsskills verzahnen.
+4. Bei Welterbestätten ICOMOS-Stellungnahmen und State of Conservation-Berichte berücksichtigen.
 
 ## Quellenpflicht
 
-Normverweise und Rechtsprechungsanker werden vor Mandatsverwendung live in den amtlichen Datenbanken verifiziert; siehe references/zitierweise.md.
+Norm-Anker aus der amtlichen Landesgesetz-Datenbank; Welterbe-Texte aus dem UNESCO-Welterbezentrum (whc.unesco.org); Rechtsprechung mit Gericht, Datum, Aktenzeichen, frei zugänglicher Quelle.
 
 ## Ausgabeformat
 
-Strukturierte Stellungnahme in vollständigen Sätzen mit konkreten Norm-Ankern und klarem Bezug zum Mandatsbegehren.
+Juristische Stellungnahme zur landesspezifischen Besonderheit in vollständigen Sätzen mit konkreten Norm- und Welterbe-Ankern.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
-## Skill: `rechtsprechungsanker-denkmalrecht`
+## Skill: `sachsen-anhalt-spezial-bauhaus-quedlinburg-luther`
 
-_Kuratierte Sammlung der zentralen Leitentscheidungen im deutschen Denkmalschutzrecht: Bundesverfassungsgericht zum Verhaeltnis von Art. 14 GG und Erhaltungspflichten, Bundesverwaltungsgericht zur konstitutiven Eintragung und zum Erlaubnisermessen, ausgewaehlte Oberverwaltungsgerichts-Linien zur Zumutbarkeit und zum Umgebungsschutz. Skill nennt Gericht, Datum und Aktenzeichen mit ausdruecklichem Live-Verifikations-Hinweis._
+_Wenn es um Bauhaus, Quedlinburg und Lutherstaetten als UNESCO-Welterbe in Sachsen-Anhalt in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Rechtsprechungsanker Denkmalrecht
+# Bauhaus, Quedlinburg und Lutherstaetten als UNESCO-Welterbe in Sachsen-Anhalt
 
-## Bundesverfassungsgericht
+## Zweck und Anwendungsfall
 
-- **BVerfG, Beschluss vom 02.03.1999, 1 BvL 7/91, BVerfGE 100 Seite 226** — Rheinland-Pfalz-Beschluss zum DSchPflG. Tragende Aussage: Erhaltungspflichten am Baudenkmal sind Inhalts- und Schrankenbestimmung des Eigentums; bei unzumutbarer Belastung muss das Landesgesetz einen Ausgleichsmechanismus vorsehen.
-- **BVerfG-Linie zum Eigentumsgrundrecht in der Baufreiheit** — weitere Beschluesse zur Verhaeltnismaessigkeit von Veraenderungsverboten; konkrete Aktenzeichen vor Mandatsverwendung in der BVerfG-Entscheidungsdatenbank live verifizieren.
+Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bundesland-Skill nur kurz angerissen wird. Er liefert die juristische Tiefe für Mandate, in denen genau diese Besonderheit den Streit dominiert.
 
-## Bundesverwaltungsgericht
+## Inhaltlicher Schwerpunkt
 
-- **BVerwG-Linien zum Begriff der Denkmaleigenschaft** — der Denkmalbegriff erfordert ein gesteigertes oeffentliches Erhaltungsinteresse; die Wertkategorien sind im Einzelfall zu pruefen. Konkrete Aktenzeichen vor Mandatsverwendung in der BVerwG-Entscheidungsdatenbank live verifizieren.
-- **BVerwG-Linien zum Umgebungsschutz** — Veraenderungen in der naeheren Umgebung beruehren das Denkmal, wenn sie das geschuetzte Erscheinungsbild beeintraechtigen; Sichtachsen und Massstabsfragen sind gerichtsfest zu pruefen.
-- **BVerwG-Linien zum Erlaubnisermessen** — die Versagung muss faktisch und rechtlich begruendet sein; pauschale Berufung auf das Denkmal genuegt nicht.
-
-## Oberverwaltungsgerichte
-
-- **OVG NRW, OVG Niedersachsen, BayVGH, VGH Baden-Wuerttemberg, OVG Hamburg, OVG Berlin-Brandenburg** — gefestigte Linien zur Zumutbarkeit der Erhaltung, zur Sachgesamtheit und zum Erlaubnisermessen. Vor Mandatsverwendung in Landesjustizportalen oder NVwZ-Volltexten live pruefen.
-
-## Methodischer Hinweis
-
-Aktenzeichen, Datum und Fundstelle werden vor jeder Ausgabe an Mandantin, Behoerde oder Gericht in der jeweiligen offiziellen Entscheidungsdatenbank (bundesverfassungsgericht.de, bverwg.de, Landesjustizportale) verifiziert. Eintragungen aus Modellwissen sind ausgeschlossen.
+Sachsen-Anhalt verzeichnet fuenf Welterbestaetten. Die Bauhausstaetten Dessau (Bauhausgebaeude, Meisterhaeuser, Bundesschule Bernau, Houses with Balcony Access) sind in der erweiterten Welterbe-Eintragung 2017 differenziert beschrieben. Quedlinburg-Welterbe umfasst Altstadt, Stiftskirche und Schloss. Lutherstaetten in Eisleben und Wittenberg pruegen Reformationsgedenken. Naumburger Dom mit den Stifterfiguren des Naumburger Meisters ist herausragendes mittelalterliches Welterbe. Dessauer Gartenreich verbindet Park- und Landschaftsgestaltung. Mandatslagen: Innenausbauten, Energetik, Bauten in Pufferzonen. Live-Check im Welterbe-Managementplan.
 
 ## Ablauf / Checkliste
 
-1. Mandatsfrage juristisch praezisieren (Eigentumseingriff, Eintragung, Erlaubnisermessen, Umgebungsschutz, Bussgeld).
-2. Passende Rechtsprechungsfamilie waehlen (BVerfG, BVerwG, OVG des belegenen Landes).
-3. Konkrete Entscheidung in der offiziellen Datenbank suchen, mit Datum, Aktenzeichen und tragender Aussage notieren.
-4. Tragende Aussage in den Mandatstext einarbeiten — niemals die Entscheidung pauschal zitieren, sondern den Bezug zum konkreten Sachverhalt herstellen.
+1. Klären, ob die landesspezifische Besonderheit tatsächlich einschlägig ist (Belegenheit, Eintragungsstatus, Maßnahme).
+2. Konkrete Paragrafen und gegebenenfalls Welterbe-Managementplan-Vorgaben live verifizieren.
+3. Mit dem allgemeinen Bundesland-Skill und den Querschnittsskills verzahnen.
+4. Bei Welterbestätten ICOMOS-Stellungnahmen und State of Conservation-Berichte berücksichtigen.
 
 ## Quellenpflicht
 
-Konkrete Norm- und Rechtsprechungsanker werden vor jeder Ausgabe live in den amtlichen Datenbanken (gesetze-im-internet.de, Landesgesetz-Datenbanken, bundesverfassungsgericht.de, bverwg.de, Landesjustizportale) verifiziert; siehe references/zitierweise.md.
+Norm-Anker aus der amtlichen Landesgesetz-Datenbank; Welterbe-Texte aus dem UNESCO-Welterbezentrum (whc.unesco.org); Rechtsprechung mit Gericht, Datum, Aktenzeichen, frei zugänglicher Quelle.
 
 ## Ausgabeformat
 
-Strukturierte juristische Stellungnahme in vollständigen Sätzen mit konkreten Norm- und Rechtsprechungs-Ankern und ausdrücklichem Live-Verifikationshinweis pro Aktenzeichen.
+Juristische Stellungnahme zur landesspezifischen Besonderheit in vollständigen Sätzen mit konkreten Norm- und Welterbe-Ankern.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `sachsen-spezial-montanregion-erzgebirge-muskauer-park`
+
+_Wenn es um Montanregion Erzgebirge und Muskauer Park als UNESCO-Welterbe in Sachsen in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Montanregion Erzgebirge und Muskauer Park als UNESCO-Welterbe in Sachsen
+
+## Zweck und Anwendungsfall
+
+Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bundesland-Skill nur kurz angerissen wird. Er liefert die juristische Tiefe für Mandate, in denen genau diese Besonderheit den Streit dominiert.
+
+## Inhaltlicher Schwerpunkt
+
+Sachsen verbindet zwei grenzueberschreitende Welterbestaetten. Die Montanregion Erzgebirge umfasst auf deutscher Seite Anlagen in Annaberg-Buchholz, Marienberg, Schneeberg, Freiberg und im Mansfelder Land; die Schutzkonzeption deckt Halden, Schaubergwerke, Zechenhaeuser und ganze Bergbaulandschaften. Der Muskauer Park (Pueckler) bildet mit der polnischen Schwesteranlage eine Einheit. Mandatslagen: Bauvorhaben in der Pufferzone, Restitutionsfragen, Nachnutzung bergbaulicher Anlagen, Bauleitplanung in den Welterbe-Korridoren.
+
+## Ablauf / Checkliste
+
+1. Klären, ob die landesspezifische Besonderheit tatsächlich einschlägig ist (Belegenheit, Eintragungsstatus, Maßnahme).
+2. Konkrete Paragrafen und gegebenenfalls Welterbe-Managementplan-Vorgaben live verifizieren.
+3. Mit dem allgemeinen Bundesland-Skill und den Querschnittsskills verzahnen.
+4. Bei Welterbestätten ICOMOS-Stellungnahmen und State of Conservation-Berichte berücksichtigen.
+
+## Quellenpflicht
+
+Norm-Anker aus der amtlichen Landesgesetz-Datenbank; Welterbe-Texte aus dem UNESCO-Welterbezentrum (whc.unesco.org); Rechtsprechung mit Gericht, Datum, Aktenzeichen, frei zugänglicher Quelle.
+
+## Ausgabeformat
+
+Juristische Stellungnahme zur landesspezifischen Besonderheit in vollständigen Sätzen mit konkreten Norm- und Welterbe-Ankern.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `niedersachsen-spezial-wattenmeer-fagus-werk`
+
+_Wenn es um Wattenmeer und Fagus-Werk Alfeld als UNESCO-Welterbe in Niedersachsen in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Wattenmeer und Fagus-Werk Alfeld als UNESCO-Welterbe in Niedersachsen
+
+## Zweck und Anwendungsfall
+
+Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bundesland-Skill nur kurz angerissen wird. Er liefert die juristische Tiefe für Mandate, in denen genau diese Besonderheit den Streit dominiert.
+
+## Inhaltlicher Schwerpunkt
+
+Niedersachsen vereint vier Welterbestaetten von sehr unterschiedlichem Typ: das marine Wattenmeer (Naturerbe-Welterbe; relevant fuer Bodendenkmaeler in Form von Wracks und Spuren der Hansezeit), das Industrie-Welterbe Fagus-Werk (Architektur Walter Gropius, frueh-modernistisches Bauen), das Bergbau-Welterbe Goslar / Rammelsberg / Oberharz und das mittelalterliche Welterbe Hildesheim. Mandatsfaelle reichen von Hafenausbauten am Wattenmeer ueber Sanierungen am Fagus-Werk bis hin zu Eingriffen in das Hildesheimer Domquartier.
+
+## Ablauf / Checkliste
+
+1. Klären, ob die landesspezifische Besonderheit tatsächlich einschlägig ist (Belegenheit, Eintragungsstatus, Maßnahme).
+2. Konkrete Paragrafen und gegebenenfalls Welterbe-Managementplan-Vorgaben live verifizieren.
+3. Mit dem allgemeinen Bundesland-Skill und den Querschnittsskills verzahnen.
+4. Bei Welterbestätten ICOMOS-Stellungnahmen und State of Conservation-Berichte berücksichtigen.
+
+## Quellenpflicht
+
+Norm-Anker aus der amtlichen Landesgesetz-Datenbank; Welterbe-Texte aus dem UNESCO-Welterbezentrum (whc.unesco.org); Rechtsprechung mit Gericht, Datum, Aktenzeichen, frei zugänglicher Quelle.
+
+## Ausgabeformat
+
+Juristische Stellungnahme zur landesspezifischen Besonderheit in vollständigen Sätzen mit konkreten Norm- und Welterbe-Ankern.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `hessen-spezial-limes-bergpark-wilhelmshoehe`
+
+_Wenn es um Limes und Bergpark Wilhelmshoehe als UNESCO-Welterbe in Hessen in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Limes und Bergpark Wilhelmshoehe als UNESCO-Welterbe in Hessen
+
+## Zweck und Anwendungsfall
+
+Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bundesland-Skill nur kurz angerissen wird. Er liefert die juristische Tiefe für Mandate, in denen genau diese Besonderheit den Streit dominiert.
+
+## Inhaltlicher Schwerpunkt
+
+Hessen hat drei UNESCO-Welterbestaetten: Limes, Bergpark Wilhelmshoehe und Grube Messel. Der Limes erstreckt sich auf weiteren Bundeslaendern. Mandatsfaelle: Bauvorhaben auf Limes-Linie sind grundsaetzlich genehmigungspflichtig; archaeologische Voruntersuchungen werden durch das Landesamt fuer Denkmalpflege Hessen begleitet. Im Bergpark Wilhelmshoehe sind Wasserspielanlagen und Sichtachsen sensibel; in der Grube Messel gelten zudem geologische Schutzregelungen. Live-Check im Welterbe-Managementplan und im hessischen Denkmalverzeichnis.
+
+## Ablauf / Checkliste
+
+1. Klären, ob die landesspezifische Besonderheit tatsächlich einschlägig ist (Belegenheit, Eintragungsstatus, Maßnahme).
+2. Konkrete Paragrafen und gegebenenfalls Welterbe-Managementplan-Vorgaben live verifizieren.
+3. Mit dem allgemeinen Bundesland-Skill und den Querschnittsskills verzahnen.
+4. Bei Welterbestätten ICOMOS-Stellungnahmen und State of Conservation-Berichte berücksichtigen.
+
+## Quellenpflicht
+
+Norm-Anker aus der amtlichen Landesgesetz-Datenbank; Welterbe-Texte aus dem UNESCO-Welterbezentrum (whc.unesco.org); Rechtsprechung mit Gericht, Datum, Aktenzeichen, frei zugänglicher Quelle.
+
+## Ausgabeformat
+
+Juristische Stellungnahme zur landesspezifischen Besonderheit in vollständigen Sätzen mit konkreten Norm- und Welterbe-Ankern.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `nordrhein-westfalen-spezial-zollverein-industriekultur`
+
+_Wenn es um Zeche und Kokerei Zollverein als UNESCO-Welterbe in NRW in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Zeche und Kokerei Zollverein als UNESCO-Welterbe in NRW
+
+## Zweck und Anwendungsfall
+
+Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bundesland-Skill nur kurz angerissen wird. Er liefert die juristische Tiefe für Mandate, in denen genau diese Besonderheit den Streit dominiert.
+
+## Inhaltlicher Schwerpunkt
+
+NRW verfuegt mit Zollverein ueber das prominenteste Industrie-Welterbe Deutschlands. Die Mandatslagen reichen von Umnutzungsvorhaben in den Industriehallen (Design-Quartier, Ruhrtriennale-Spielstaetten) ueber Sanierungsmassnahmen an den Schachtanlagen bis zur Bauleitplanung im Umfeld. Sonderkonstellation: die LWL-Denkmalpflege Westfalen-Lippe und das LVR-Amt fuer Denkmalpflege im Rheinland teilen sich die Zustaendigkeit nach der Region. Bei Zollverein zustaendig: LWL. Bei Aachener Dom: LVR. Bei Augustusburg / Falkenlust: LVR.
+
+## Ablauf / Checkliste
+
+1. Klären, ob die landesspezifische Besonderheit tatsächlich einschlägig ist (Belegenheit, Eintragungsstatus, Maßnahme).
+2. Konkrete Paragrafen und gegebenenfalls Welterbe-Managementplan-Vorgaben live verifizieren.
+3. Mit dem allgemeinen Bundesland-Skill und den Querschnittsskills verzahnen.
+4. Bei Welterbestätten ICOMOS-Stellungnahmen und State of Conservation-Berichte berücksichtigen.
+
+## Quellenpflicht
+
+Norm-Anker aus der amtlichen Landesgesetz-Datenbank; Welterbe-Texte aus dem UNESCO-Welterbezentrum (whc.unesco.org); Rechtsprechung mit Gericht, Datum, Aktenzeichen, frei zugänglicher Quelle.
+
+## Ausgabeformat
+
+Juristische Stellungnahme zur landesspezifischen Besonderheit in vollständigen Sätzen mit konkreten Norm- und Welterbe-Ankern.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `brandenburg-spezial-schloesser-gutsanlagen-restitution`
+
+_Wenn es um Schloesser, Gutsanlagen und Restitution in Brandenburg in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Schloesser, Gutsanlagen und Restitution in Brandenburg
+
+## Zweck und Anwendungsfall
+
+Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bundesland-Skill nur kurz angerissen wird. Er liefert die juristische Tiefe für Mandate, in denen genau diese Besonderheit den Streit dominiert.
+
+## Inhaltlicher Schwerpunkt
+
+Brandenburg verzeichnet rund 600 Schloesser und Gutsanlagen, viele in unklarer oder mehrstufig restituierter Eigentumslage. Mandatsfaelle vereinen das Vermoegensgesetz (VermG) als Restitutionsgrundlage, das BbgDSchG als Erhaltungs- und Erlaubnisregime und die Foerderprogramme der Stiftung Brandenburgische Gedenkstaetten und der Stiftung Preussische Schloesser und Gaerten. Vor Mandatsannahme Eigentumsverhaeltnisse und Foerderzusagen sorgfaeltig dokumentieren.
+
+## Ablauf / Checkliste
+
+1. Klären, ob die landesspezifische Besonderheit tatsächlich einschlägig ist (Belegenheit, Eintragungsstatus, Maßnahme).
+2. Konkrete Paragrafen und gegebenenfalls Welterbe-Managementplan-Vorgaben live verifizieren.
+3. Mit dem allgemeinen Bundesland-Skill und den Querschnittsskills verzahnen.
+4. Bei Welterbestätten ICOMOS-Stellungnahmen und State of Conservation-Berichte berücksichtigen.
+
+## Quellenpflicht
+
+Norm-Anker aus der amtlichen Landesgesetz-Datenbank; Welterbe-Texte aus dem UNESCO-Welterbezentrum (whc.unesco.org); Rechtsprechung mit Gericht, Datum, Aktenzeichen, frei zugänglicher Quelle.
+
+## Ausgabeformat
+
+Juristische Stellungnahme zur landesspezifischen Besonderheit in vollständigen Sätzen mit konkreten Norm- und Welterbe-Ankern.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
 ## Skill: `art-73-gg-laenderzustaendigkeit`
 
-_Bundesstaatlicher Rahmen des Denkmalschutzes: Denkmalschutz ist keine konkurrierende Bundesmaterie nach Art. 73 oder 74 GG, sondern nach Art. 70 GG ausschließlich Sache der Länder. Skill ordnet, welche Aspekte trotzdem bundesrechtlich überlagert sind (Eigentumsgarantie nach Art. 14 GG, Verwaltungsverfahrensrecht, Strafrecht und Ordnungswidrigkeitenrecht, steuerliche Förderung nach EStG, Grundbuch- und Bauplanungsrecht)._
+_Wenn es um Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz
 
@@ -499,76 +585,20 @@ Norm-Anker aus den amtlichen Datenbanken; GG aus gesetze-im-internet.de; Landesg
 Knappe Zuständigkeitsanalyse in vollständigen Sätzen, die das anwendbare Landesgesetz benennt und die bundesrechtlichen Überlagerungen aufführt.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
-## Skill: `denkmalschutz-rheinland-pfalz-dschpflg`
+## Skill: `denkmalschutz-saarland-spezial-voelklinger-huette-welterbe`
 
-_Denkmalschutzrecht Rheinland-Pfalz nach dem Denkmalschutz- und -pflegegesetz Rheinland-Pfalz. Skill bündelt zuständige Behörden (Ministerium des Innern und für Sport; Generaldirektion Kulturelles Erbe Rheinland-Pfalz; Untere Denkmalbehörden bei den Landkreisen und kreisfreien Städten) und die Bedeutung des Rheinland-Pfalz-Beschlusses BVerfGE 100 Seite 226 als verfassungsrechtliche Leitentscheidung zum Denkmalschutz._
+_Wenn es um Voelklinger Huette als UNESCO-Welterbe im Saarland in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Denkmalschutz Rheinland-Pfalz (DSchPflG)
-
-## Zweck und Anwendungsfall
-
-Rheinland-Pfalz ist verfassungsrechtlich bedeutsam: Aus dem DSchPflG erging die Vorlage zum Rheinland-Pfalz-Beschluss BVerfGE 100 Seite 226 (vom 02.03.1999), der die Grundlinie zur Inhaltsbestimmung und Zumutbarkeitsgrenze zog. Welterbestätten Mittelrheintal, Speyerer Dom, Trier-Römische Bauten prägen die Verfahrenspraxis.
-
-## Anwendbares Gesetz
-
-- **Gesetzesbezeichnung**: Denkmalschutz- und -pflegegesetz Rheinland-Pfalz
-- **Abkürzung**: DSchPflG
-- **Zitiergrundlage**: amtliche Landesgesetz-Datenbank landesrecht.rlp.de
-
-## Zuständige Behörden
-
-- **Oberste Denkmalschutzbehörde**: Ministerium des Innern und für Sport Rheinland-Pfalz
-- **Obere Denkmalschutzbehörde**: Generaldirektion Kulturelles Erbe Rheinland-Pfalz (zugleich Fachbehörde) in Mainz
-- **Untere Denkmalschutzbehörde**: Landkreise und kreisfreie Städte
-- **Fachbehörde**: Generaldirektion Kulturelles Erbe Rheinland-Pfalz (mit Direktion Landesdenkmalpflege)
-
-## Verfahrensbesonderheiten Rheinland-Pfalz
-
-- Welterbestätten: Oberes Mittelrheintal, Dom zu Speyer, römische Baudenkmäler und Liebfrauenkirche in Trier, SchUM-Stätten (Worms, Speyer, Mainz).
-- Verfassungsrechtliche Leitentscheidung BVerfGE 100 Seite 226 zum Ausgleich unzumutbarer Inhaltsbestimmung.
-- Dichte Weinbau-Kulturlandschaft als Querschnittsthema.
-- Bodendenkmäler im römischen Korridor (Trier, Mainz, Speyer).
-
-## Eintragungssystem
-
-- **Systematik**: nachrichtliche Eintragung; Denkmaleigenschaft kraft Gesetzes
-
-## Ablauf / Checkliste
-
-1. Klären, ob das Objekt ein Bau-, Boden- oder bewegliches Denkmal ist.
-2. Eintragungsstatus über die Denkmalliste des Landes feststellen — über landesrecht.rlp.de.
-3. Zuständige untere Denkmalschutzbehörde am Belegenheitsort kontaktieren.
-4. Bei Maßnahmen das Erlaubnisverfahren nach DSchPflG starten; bei zugleich bauordnungsrechtlich relevanten Maßnahmen die Kombination mit der Baugenehmigung berücksichtigen.
-5. Konkrete Paragrafen vor Ausgabe live in landesrecht.rlp.de verifizieren.
-
-## Quellenpflicht
-
-Sämtliche Paragrafenzitate werden vor Mandatsverwendung in landesrecht.rlp.de live geprüft. Verwaltungsgerichts- und Oberverwaltungsgerichtsrechtsprechung des Landes nur mit Aktenzeichen, Datum und frei zugänglicher Fundstelle benennen.
-
-## Ausgabeformat
-
-Landesrechtliche Stellungnahme in vollständigen Sätzen mit konkreten Paragrafenverweisen aus dem Landesgesetz und den zuständigen Behörden.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Beispiel
-
-Eigentümerin eines Winzeranwesens im Mittelrheintal-Welterbe plant Erweiterung der Kelterei. Zuständig ist der Rhein-Hunsrück-Kreis als untere Denkmalbehörde mit fachlicher Stellungnahme der Generaldirektion Kulturelles Erbe; ICOMOS-Belange in der Pufferzone berücksichtigen.
-
----
-
-## Skill: `hessen-spezial-limes-bergpark-wilhelmshoehe`
-
-_Hessische Besonderheit: Obergermanisch-Raetischer Limes (Welterbe seit 2005, gemeinsam mit Bayern und Rheinland-Pfalz und Baden-Wuerttemberg), Bergpark Wilhelmshoehe in Kassel (Welterbe seit 2013) und Grube Messel (Welterbe seit 1995). Skill erlaeutert die Schutzpraxis im Limes-Korridor, die Grabungsregelungen, die Begleitung der Wasserspielanlagen in Kassel und die geologische Schutzpraxis der Grube Messel._
-
-# Limes und Bergpark Wilhelmshoehe als UNESCO-Welterbe in Hessen
+# Voelklinger Huette als UNESCO-Welterbe im Saarland
 
 ## Zweck und Anwendungsfall
 
@@ -576,7 +606,7 @@ Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bu
 
 ## Inhaltlicher Schwerpunkt
 
-Hessen hat drei UNESCO-Welterbestaetten: Limes, Bergpark Wilhelmshoehe und Grube Messel. Der Limes erstreckt sich auf weiteren Bundeslaendern. Mandatsfaelle: Bauvorhaben auf Limes-Linie sind grundsaetzlich genehmigungspflichtig; archaeologische Voruntersuchungen werden durch das Landesamt fuer Denkmalpflege Hessen begleitet. Im Bergpark Wilhelmshoehe sind Wasserspielanlagen und Sichtachsen sensibel; in der Grube Messel gelten zudem geologische Schutzregelungen. Live-Check im Welterbe-Managementplan und im hessischen Denkmalverzeichnis.
+Die Voelklinger Huette ist die weltweit einzige erhaltene Anlage der vollstaendigen Roheisenproduktion aus dem 19. und 20. Jahrhundert. Welterbe seit dem 18. Dezember 1994. Mandatslagen: Konservierungsmassnahmen an Hochoefen und Wassertuermen, Umnutzung von Werkshallen als Veranstaltungs- und Ausstellungsraeume, Bauvorhaben in der direkten Umgebung. Foerderung erfolgt ueber die Weltkulturerbe-Voelklinger-Huette-Europaeisches-Zentrum-fuer-Kunst-und-Industriekultur-gGmbH und ueber BKM-Programme.
 
 ## Ablauf / Checkliste
 
@@ -594,183 +624,63 @@ Norm-Anker aus der amtlichen Landesgesetz-Datenbank; Welterbe-Texte aus dem UNES
 Juristische Stellungnahme zur landesspezifischen Besonderheit in vollständigen Sätzen mit konkreten Norm- und Welterbe-Ankern.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
-## Skill: `denkmalschutz-mecklenburg-vorpommern-dschg-m-v`
+## Skill: `bussgeld-ordnungswidrigkeitsverfahren`
 
-_Denkmalschutzrecht Mecklenburg-Vorpommern nach dem Denkmalschutzgesetz Mecklenburg-Vorpommern. Skill bündelt zuständige Behörden (Ministerium für Wissenschaft, Kultur, Bundes- und Europaangelegenheiten; Landesamt für Kultur und Denkmalpflege in Schwerin; Untere Denkmalschutzbehörden bei den Landkreisen) und das nachrichtliche Eintragungssystem mit besonderem Augenmerk auf maritime und Backsteindenkmale._
+_Wenn es um Bussgeld- und Ordnungswidrigkeitsverfahren in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Denkmalschutz Mecklenburg-Vorpommern (DSchG M-V)
+# Bussgeld- und Ordnungswidrigkeitsverfahren
 
-## Zweck und Anwendungsfall
+## Sanktionsregime
 
-Mecklenburg-Vorpommern verfügt über einen besonders hohen Bestand an Backsteingotik, Gutshäusern und Bäderarchitektur. Das DSchG M-V arbeitet mit nachrichtlicher Eintragung. Welterbestätten der Altstädte Stralsund und Wismar prägen die Verfahrenspraxis.
+- **Bussgeldtatbestaende der Landesgesetze**: Jede Landesregelung enthaelt einen Katalog mit Geldbussen bis zu sechsstelligen Betraegen fuer schwere Verstoesse. Bezug nehmen die Tatbestaende typischerweise auf unerlaubte Veraenderung, unerlaubte Beseitigung, unerlaubte Verbringung, Verstoss gegen Genehmigungsauflagen, Verstoss gegen Vorlagepflichten bei Bodenfunden.
+- **OWiG**: Verfahren nach den allgemeinen Regeln des Ordnungswidrigkeitenrechts; Verteidigung im Verwaltungsverfahren und im verwaltungsbehoerdlichen Bussgeldverfahren.
+- **Paragraf 304 StGB — Sachbeschaedigung**: Bei vorsaetzlicher Beschaedigung eines Denkmals kommt der Straftatbestand der gemeinschaedlichen Sachbeschaedigung in Betracht; die Voraussetzungen muessen gerichtsfest belegt sein.
 
-## Anwendbares Gesetz
+## Verteidigungslinien
 
-- **Gesetzesbezeichnung**: Denkmalschutzgesetz Mecklenburg-Vorpommern
-- **Abkürzung**: DSchG M-V
-- **Zitiergrundlage**: amtliche Landesgesetz-Datenbank landesrecht-mv.de
-
-## Zuständige Behörden
-
-- **Oberste Denkmalschutzbehörde**: Ministerium für Wissenschaft, Kultur, Bundes- und Europaangelegenheiten Mecklenburg-Vorpommern
-- **Obere Denkmalschutzbehörde**: Landesamt für Kultur und Denkmalpflege Mecklenburg-Vorpommern in Schwerin (zugleich Fachbehörde)
-- **Untere Denkmalschutzbehörde**: Landkreise und kreisfreie Städte (Schwerin, Rostock)
-- **Fachbehörde**: Landesamt für Kultur und Denkmalpflege Mecklenburg-Vorpommern, Abteilung Landesdenkmalpflege
-
-## Verfahrensbesonderheiten Mecklenburg-Vorpommern
-
-- Welterbestätten: Altstädte Stralsund und Wismar.
-- Hoher Bestand an Gutsanlagen mit oft schwieriger Eigentumslage nach Nachwendeprivatisierung.
-- Bäderarchitektur in Heringsdorf, Bansin und Binz unter Ensembleschutz.
-- Bodendenkmäler im slawisch-baltischen Raum (Festland und Inseln).
-
-## Eintragungssystem
-
-- **Systematik**: nachrichtliches Eintragungssystem; Denkmaleigenschaft kraft Gesetzes
+- **Tatbestandlich**: Wurde tatsaechlich eine erlaubnispflichtige Massnahme durchgefuehrt? Stand die Erlaubnis nach Aktenlage in Aussicht?
+- **Subjektiv**: Vorsatz oder Fahrlaessigkeit? In vielen Bussgeldtatbestaenden genuegt Fahrlaessigkeit; eine sorgfaeltige Befragung der Denkmalbehoerde vor Beginn der Massnahme spricht gegen Vorsatz und kann Fahrlaessigkeit ausschliessen.
+- **Verhaeltnismaessigkeit**: Bussgeldhoehe muss zu Tat und Taeterpersoenlichkeit verhaeltnismaessig sein; vorsaetzliche Beschaedigung eines Welterbedenkmals rechtfertigt regelmaessig den oberen Bussgeldrahmen, bagatellartige Ueberschreitungen den unteren.
+- **Nachtraegliche Erlaubnis**: In vielen Faellen ist die nachtraegliche Erlaubnisversagung kein hinreichender Bussgeldgrund, wenn die Massnahme materiell erlaubnisfaehig war.
 
 ## Ablauf / Checkliste
 
-1. Klären, ob das Objekt ein Bau-, Boden- oder bewegliches Denkmal ist.
-2. Eintragungsstatus über die Denkmalliste des Landes feststellen — über landesrecht-mv.de.
-3. Zuständige untere Denkmalschutzbehörde am Belegenheitsort kontaktieren.
-4. Bei Maßnahmen das Erlaubnisverfahren nach DSchG M-V starten; bei zugleich bauordnungsrechtlich relevanten Maßnahmen die Kombination mit der Baugenehmigung berücksichtigen.
-5. Konkrete Paragrafen vor Ausgabe live in landesrecht-mv.de verifizieren.
+1. Bussgeldbescheid auswerten: Tatbestand, subjektive Seite, Hoehe, Rechtsbehelfsbelehrung.
+2. Einspruchsfrist beachten (regelmaessig zwei Wochen nach Paragrafen 67, 68 OWiG).
+3. Akteneinsicht beantragen, alle Behoerdenkontakte vor der Massnahme dokumentieren.
+4. Bei tatbestandlicher Bestreitbarkeit Einspruch einlegen; bei Reduktionsbedarf Verhandlungs-Schreiben an die Behoerde.
+5. Bei Anklagewegen nach Paragraf 304 StGB Strafverteidigerin koordinieren.
 
 ## Quellenpflicht
 
-Sämtliche Paragrafenzitate werden vor Mandatsverwendung in landesrecht-mv.de live geprüft. Verwaltungsgerichts- und Oberverwaltungsgerichtsrechtsprechung des Landes nur mit Aktenzeichen, Datum und frei zugänglicher Fundstelle benennen.
+Konkrete Norm- und Rechtsprechungsanker werden vor jeder Ausgabe live in den amtlichen Datenbanken (gesetze-im-internet.de, Landesgesetz-Datenbanken, bundesverfassungsgericht.de, bverwg.de, Landesjustizportale) verifiziert; siehe references/zitierweise.md.
 
 ## Ausgabeformat
 
-Landesrechtliche Stellungnahme in vollständigen Sätzen mit konkreten Paragrafenverweisen aus dem Landesgesetz und den zuständigen Behörden.
+Strukturierte juristische Stellungnahme in vollständigen Sätzen mit konkreten Norm- und Rechtsprechungs-Ankern und ausdrücklichem Live-Verifikationshinweis pro Aktenzeichen.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Beispiel
-
-Investorin erwirbt das Gutshaus Schorssow, eingetragenes Baudenkmal, und plant Umnutzung als Hotel. Zuständig ist der Landkreis Rostock als untere Denkmalschutzbehörde mit fachlicher Stellungnahme des Landesamts für Kultur und Denkmalpflege.
-
----
-
-## Skill: `quellen-livecheck`
-
-_Quellenhygiene-Skill für das Denkmalschutzrecht-Plugin. Liefert die kuratierte Suchadressen-Liste für die sechzehn Landesgesetzes-Datenbanken, das Bundesrecht (gesetze-im-internet.de), die Verwaltungsgerichtsbarkeit (BVerwG, OVG-Pakete) und die Welterbe-Quellen (UNESCO, ICOMOS). Verhindert Halluzinationen, indem Paragrafen, Aktenzeichen und Fundstellen vor Verwendung zwingend live verifiziert werden._
-
-# Quellen-Livecheck Denkmalrecht
-
-## Anwendungsfall
-
-Vor jeder Ausgabe an Mandantin, Gericht oder Behörde sind die in einem Skill genannten Norm- und Rechtsprechungsanker live zu verifizieren. Dieser Skill listet die zulässigen Suchadressen.
-
-## Landesgesetzes-Datenbanken (alphabetisch)
-
-- Baden-Württemberg — landesrecht-bw.de
-- Bayern — gesetze-bayern.de
-- Berlin — gesetze.berlin.de
-- Brandenburg — bravors.brandenburg.de
-- Bremen — transparenz.bremen.de
-- Hamburg — landesrecht-hamburg.de
-- Hessen — rv.hessenrecht.hessen.de
-- Mecklenburg-Vorpommern — landesrecht-mv.de
-- Niedersachsen — voris.wolterskluwer-online.de bzw. nds-voris.de
-- Nordrhein-Westfalen — recht.nrw.de
-- Rheinland-Pfalz — landesrecht.rlp.de
-- Saarland — sl.juris.de
-- Sachsen — revosax.sachsen.de
-- Sachsen-Anhalt — landesrecht.sachsen-anhalt.de
-- Schleswig-Holstein — gesetze-rechtsprechung.sh.juris.de
-- Thüringen — landesrecht.thueringen.de
-
-## Bundesrecht und Rechtsprechung
-
-- Grundgesetz, BGB, EStG, VwVfG, VwGO, OWiG, StGB — gesetze-im-internet.de
-- BVerfG-Entscheidungen — bundesverfassungsgericht.de/Entscheidungen
-- BVerwG-Entscheidungen — bverwg.de/entscheidungen
-- OVG-Entscheidungen — Landesjustizportal oder landesrechtsprechung.<land>.de
-
-## Welterbe
-
-- UNESCO-Welterbeliste — whc.unesco.org/en/list
-- ICOMOS-Berichte und State of Conservation — whc.unesco.org/en/soc
-- Operational Guidelines for the Implementation of the World Heritage Convention — whc.unesco.org/en/guidelines
-
-## Ablauf
-
-1. Jedes konkrete Paragrafenzitat und jedes Aktenzeichen vor Ausgabe live in der zuständigen Quelle aufrufen.
-2. Fundstelle mit Datum, Aktenzeichen und Quelle dokumentieren.
-3. Bei Unsicherheit über die aktuelle Fassung eines Landesgesetzes auf die Landesgesetz-Datenbank verlinken statt frei zitieren.
-
-## Quellenpflicht
-
-Normverweise und Rechtsprechungsanker werden vor Mandatsverwendung live in den amtlichen Datenbanken verifiziert; siehe references/zitierweise.md.
-
-## Ausgabeformat
-
-Strukturierte Stellungnahme in vollständigen Sätzen mit konkreten Norm-Ankern und klarem Bezug zum Mandatsbegehren.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `foerderung-und-steuerliche-abschreibung`
-
-_Förderung von Denkmalsanierung: direkte Zuschüsse der Länder und Kommunen, Bundesförderung über die Beauftragte der Bundesregierung für Kultur und Medien (BKM) und die Deutsche Stiftung Denkmalschutz, vor allem aber die steuerliche Förderung nach Paragrafen 7i und 11b EStG (Vermietung) sowie Paragraf 10f EStG (selbstgenutzt). Skill ordnet das Zusammenspiel von Denkmalbescheinigung und Steuerrecht._
-
-# Förderung und steuerliche Abschreibung
-
-## Steuerliche Förderung — Kern
-
-- **Paragraf 7i EStG (Vermietung)**: erhöhte Absetzungen für Herstellungskosten an Baudenkmälern bis zu 9 Prozent in den ersten acht Jahren und 7 Prozent in den folgenden vier Jahren; voraussetzt, dass die Aufwendungen zur Erhaltung des Denkmals oder seiner sinnvollen Nutzung erforderlich sind und die Denkmalbehörde dies bescheinigt.
-- **Paragraf 10f EStG (selbstgenutzt)**: Sonderausgabenabzug für vergleichbare Aufwendungen am selbstgenutzten Baudenkmal, 9 Prozent über zehn Jahre.
-- **Paragraf 11b EStG**: bestimmte Erhaltungsaufwendungen können auf zwei bis fünf Jahre verteilt werden.
-- **Paragraf 10g EStG**: schutzwürdige Kulturgüter, die nicht selbstgenutzt und nicht vermietet sind.
-
-## Denkmalbescheinigung — zentrales Dokument
-
-Voraussetzung jeder steuerlichen Förderung nach Paragrafen 7i, 10f, 11b EStG ist die **Bescheinigung der Landesdenkmalbehörde**, dass es sich um ein Baudenkmal im Sinne des Landesgesetzes handelt und die Aufwendungen denkmalrechtlich erforderlich waren. Diese Bescheinigung ist Grundlagenbescheid im Sinne des Paragrafen 175 Abs. 1 Satz 1 Nr. 1 AO und bindet das Finanzamt.
-
-## Direkte Förderung
-
-- **Landesförderprogramme**: jedes Bundesland hat eigene Programme; die Anträge gehen über das Landesamt für Denkmalpflege.
-- **Bundesförderung**: BKM-Sonderprogramm Denkmalschutz mit jährlich wechselnden Bewerbungsfristen; ohne ausreichende Bauakte selten erfolgreich.
-- **Stiftungen**: Deutsche Stiftung Denkmalschutz, Wüstenrot-Stiftung, lokale Bürgerstiftungen.
-- **Kommunale Zuschüsse**: viele Städte zahlen anteilige Zuschüsse, oft gekoppelt an Gestaltungssatzungen.
-
-## Ablauf / Checkliste
-
-1. Klären, ob Vermietung, Selbstnutzung oder gemischte Nutzung.
-2. Maßnahmen mit der Denkmalbehörde abstimmen, damit die spätere Bescheinigung tatsächlich ergeht.
-3. Vor Beginn der Arbeiten Erlaubnis nach Landesgesetz einholen — ohne Erlaubnis keine Bescheinigung.
-4. Belege akribisch sammeln, Rechnungen mit Bezug auf das Denkmal kennzeichnen.
-5. Bescheinigung nach Abschluss beantragen, vor der nächsten Steuererklärung.
-6. Bei Versagung der Bescheinigung Widerspruch und ggf. Klage prüfen.
-
-## Quellenpflicht
-
-Normverweise und Rechtsprechungsanker werden vor Mandatsverwendung live in den amtlichen Datenbanken verifiziert; siehe references/zitierweise.md.
-
-## Ausgabeformat
-
-Strukturierte Stellungnahme in vollständigen Sätzen mit konkreten Norm-Ankern und klarem Bezug zum Mandatsbegehren.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

@@ -104,8 +104,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - EuGH C-402/07 (Sturgeon, Ausgleichsleistung Verspätung)
 - EuGH C-432/20 (Annullierung außergewöhnliche Umstände)
 - BGH X ZR 138/11 (Fluggastrechte und Gerichtsstand)
-- Fluggastrechte VO 261/2004 nach EuGH C-402/07 Sturgeon: 3-Stunden-Schwelle = Ausgleichsanspruch
-- Ausnahmegründe VO 261/2004 Art. 5 Abs. 3 eng auslegen; EuGH C-432/20 zu wilden Streiks
 
 ## 9. Prüfraster
 

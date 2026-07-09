@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Paragrafen 355-484 ZPO; Paragraf 286 ZPO; Paragraf 287 ZPO |
-| Rechtsprechung | BGH VI ZR 290/18 (abrufen) |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Diese Quellenkarte sichert im Bereich Subsumtions Prüfer tragende Normen, Rechtsprechung, Behördenpraxis |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -55,7 +55,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragrafen 373 ff. ZPO — Zeugenbeweis: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 402 ff. ZPO — Sachverständigenbeweis: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 371 ff. ZPO — Augenschein und elektronische Dokumente: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH VI ZR 290/18 (abrufen): Aktenzeichen existiert auf dejure.org nicht. Gesamte Zeile aus "Aktuelle Rechtsprechung" entfernt
 
 ## 7. Antwortform
 

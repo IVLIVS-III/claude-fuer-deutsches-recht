@@ -1,25 +1,25 @@
-# Megaprompt: methodenlehre-buergerliches-recht
+# Vollprüfung: methodenlehre-buergerliches-recht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 158 Skills (gekuerzt fuer Chat-Fenster) des Plugins `methodenlehre-buergerliches-recht`.
+Dieser Vollprüfung enthaelt top-8 von 158 Skills (gekuerzt fuer Chat-Fenster) des Plugins `methodenlehre-buergerliches-recht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für Methodenlehre Bürgerliches Recht: ordnet Rolle (Studentenr, Anwalt, Richter), markiert …
-2. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Methodenlehre Buergerliches Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterla…
-3. **spezial-methodenlehre-erstpruefung-und-mandatsziel** — Methodenlehre: Erstprüfung, Rollenklärung und Mandatsziel im Plugin methodenlehre buergerliches recht; schärft Rollen, B…
-4. **methodenlehre-erstpruefung-und-mandatsziel** — Dieses Skill leitet die methodische Erstprüfung eines neuen Mandats an und hilft, das Mandatsziel präzise zu definieren:…
-5. **abschlussprodukt-uebergabe** — Dieses Skill definiert und strukturiert das juristische Abschlussprodukt eines zivilrechtlichen Mandats und leitet die m…
-6. **abwaegung-gewichtung-intensitaet** — Unterstützt die methodisch saubere Gewichtung kollidierender Rechtspositionen nach Intensität, Rang, Normzweck und Eingr…
-7. **abwaegung-material-auswahl** — Leitet durch die methodisch begründete Auswahl von Abwägungsmaterial im Zivilrecht. Das Skill zeigt, welche Fakten, Norm…
-8. **abwaegungslast-non-liquet** — Behandelt die methodische Frage, wie mit Abwägungslagen umzugehen ist, in denen das Material keine eindeutige Entscheidu…
+1. **einstieg-routing** — Wenn es um Einstieg und Routing in Methodenlehre bürgerliches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den p…
+2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Methodenlehre bürgerliches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passe…
+3. **spezial-methodenlehre-erstpruefung-und-mandatsziel** — Wenn es um Methodenlehre: Erstprüfung, Rollenklärung und Mandatsziel in Methodenlehre bürgerliches Recht geht: klärt Rol…
+4. **methodenlehre-erstpruefung-und-mandatsziel** — Wenn es um Methodenlehre Erstpruefung Und Mandatsziel in Methodenlehre bürgerliches Recht geht: klärt Rolle, Ziel, Frist…
+5. **methodenkritik-larenz-canaris-zivilrecht** — Wenn es um Methodenkritik Larenz/Canaris im Zivilrecht: System, Wertung, Autoritätskontrolle in Methodenlehre bürgerlich…
+6. **gesetzgebung-justiz-wissenschaft-rollen** — Wenn es um Gesetzgebung, Justiz und Wissenschaft: Institutionelle Rollen in der Rechtsbildung in Methodenlehre bürgerlic…
+7. **gesetzesbindung-art-20-gg-pruefprotokoll** — Wenn es um Gesetzesbindung nach Art. 20 Abs. 3 GG: Prüfprotokoll in Methodenlehre bürgerliches Recht geht: ordnet Sachve…
+8. **bverfg-grenzen-richterlicher-rechtsfortbildung** — Wenn es um Analysiert die vom BVerfG gezogenen Grenzen richterlicher Rechtsfortbildung im Zivilrecht in Methodenlehre bü…
 
 ---
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Methodenlehre Bürgerliches Recht: ordnet Rolle (Studentenr, Anwalt, Richter), markiert Frist (keine harten Fristen), wählt Norm (BGB, Art. 20 III GG (Auslegung)) und Zuständigkeit (zuständige Stelle), leitet zum passenden Spezial-Skill._
+_Wenn es um Einstieg und Routing in Methodenlehre bürgerliches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Einstieg und Routing
 
@@ -80,21 +80,22 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting im Methodenlehre Buergerliches Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Ski..._
+_Wenn es um Kaltstart Triage in Methodenlehre bürgerliches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Methodenlehre Buergerliches Recht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Regelungs- und Quellenanker
 
@@ -150,7 +151,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 
 ### 1. Intake in 60 Sekunden
 
-Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+Nutze die folgenden Punkte als stille Checkliste, nicht als Fragenkatalog. Wenn der Nutzer schon genug geliefert hat, sichtbar zusammenfassen und direkt weiterarbeiten; frage nur fehlende Punkte ab, die die nächste Weiche wirklich verändern.
 
 | Punkt | Frage | Warum wichtig? |
 |---|---|---|
@@ -281,7 +282,7 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 ## Skill: `spezial-methodenlehre-erstpruefung-und-mandatsziel`
 
-_Methodenlehre: Erstprüfung, Rollenklärung und Mandatsziel im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung._
+_Wenn es um Methodenlehre: Erstprüfung, Rollenklärung und Mandatsziel in Methodenlehre bürgerliches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Methodenlehre: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -322,7 +323,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Quellenregel
@@ -335,7 +340,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Skill: `methodenlehre-erstpruefung-und-mandatsziel`
 
-_Dieses Skill leitet die methodische Erstprüfung eines neuen Mandats an und hilft, das Mandatsziel präzise zu definieren: Es zeigt, wie a..._
+_Wenn es um Methodenlehre Erstpruefung Und Mandatsziel in Methodenlehre bürgerliches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Dieses Skill leitet die methodische Erstprüfung eines neuen Mandats an und hilft, das Mandatsziel präzise zu definieren
 
@@ -435,185 +440,108 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ---
 
-## Skill: `abschlussprodukt-uebergabe`
+## Skill: `methodenkritik-larenz-canaris-zivilrecht`
 
-_Dieses Skill definiert und strukturiert das juristische Abschlussprodukt eines zivilrechtlichen Mandats und leitet die methodisch korrekte Übergabe an den Mandanten an. Es zeigt, welche Dokumente am Ende eines Mandats zu übergeben sind, wie ein Abschlussprotokoll erstellt wird, wie offene Risiken..._
+_Wenn es um Methodenkritik Larenz/Canaris im Zivilrecht: System, Wertung, Autoritätskontrolle in Methodenlehre bürgerliches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Bürgerliches Abschlussprodukt und Übergabe
+# Methodenkritik Larenz/Canaris im Zivilrecht: System, Wertung, Autoritätskontrolle
 
-## Fachlicher Anker
+## Kritische Leitplanken
+- Larenz’ nationalsozialistische Vergangenheit darf bei methodischer Autoritätsbildung nicht ausgeblendet werden.
+- Canaris’ Systemdenken kann präzise Dogmatik liefern, darf aber nicht als Ersatz für Normtext, Gesetzgeberentscheidung und Präjudizien dienen.
+- „Ausnahmen eng auslegen“ ist keine tragende Methode, solange nicht geklärt ist, was Regel und was Ausnahme sein soll.
 
-- **Normen:** § 675 BGB, § 242 BGB, § 43a Abs. 4 BRAO.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+## Prüfschritte
+1. Positive Rechtsquelle identifizieren.
+2. Wertungsbehauptung in konkrete Normzwecke zerlegen.
+3. Historische Belastung und autoritäre Ordnungssprache markieren, ohne ad hominem zu argumentieren.
+4. Alternative quellenklare Begründung formulieren.
+5. Prozessuale Nutzbarkeit testen: Was muss bewiesen werden?
 
-## Mandantenfall
+## Regelungs- und Quellenanker
 
-- Ein Mandant hat einen Vergleich vor dem Landgericht geschlossen. Das Abschlussprotokoll muss den Vergleichsinhalt, die vollstreckbaren Pflichten, offene steuerliche Fragen und Verjährungshinweise für etwaige Restansprüche dokumentieren.
-- Eine Unternehmerin hat einen langen Vertragsstreit außergerichtlich beigelegt. Die Übergabe umfasst die vollständige Vertragsakte, das Einigungsprotokoll, offene steuerliche und handelsrechtliche Folgen sowie Hinweise zur internen Dokumentation für spätere Audits.
-- Ein Mandant hat ein Klageverfahren verloren. Die Übergabe muss das Urteil erläutern, Rechtsmittelmöglichkeiten benennen, Fristen setzen und den Mandanten über die Kostenfolgen informieren, bevor das Mandat abgeschlossen wird.
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-## Erste Schritte
+- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
+- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
+- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
+- `§ 133 BGB` — Auslegung von Willenserklaerungen.
+- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
+- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
+- `§ 1 StGB` — Bestimmtheit im Strafrecht.
+- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
+- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
 
-1. Erstelle eine vollständige Liste aller im Mandat erstellten Dokumente (Schriftsätze, Gutachten, Verträge, Korrespondenz, Beschlüsse, Urteile).
-2. Formuliere ein Abschlussprotokoll, das das Mandatsergebnis, offene Verpflichtungen und Risiken zusammenfasst.
-3. Prüfe alle offenen Fristen (Vollstreckungsfristen, Rechtsmittelfristen, Verjährungsfristen für Restansprüche) und dokumentiere diese.
-4. Weise den Mandanten auf potenzielle Folgerisiken hin (Steuerfolgen, Auswirkungen auf Drittverträge, Registerpflichten).
-5. Übergib vollständige Mandatsakte (physisch oder digital) und hole eine schriftliche Empfangsbestätigung ein.
-6. Beende das Mandat formal durch Abschlussschreiben mit Zusammenfassung des Ergebnisses und Empfehlung für weitere Schritte.
-
-## Rechtsrahmen
-
-- § 675 BGB — Geschäftsbesorgungsvertrag; anwaltliche Pflichten zur ordnungsgemäßen Mandatsführung
-- § 242 BGB — Treu und Glauben; Aufklärungspflicht des Anwalts gegenüber dem Mandanten
-- § 43a Abs. 4 BRAO — Verschwiegenheitspflicht; Grenzen der Mandatsdokumentation
-- § 50 BRAO — Pflicht zur Aktenführung und Aufbewahrung
-- § 195 BGB — Regelverjährung; relevant für Hinweise auf noch offene Ansprüche nach Mandatsende
-
-## Prüfraster
-
-1. Sind alle Mandatsdokumente vollständig und geordnet in der Akte?
-2. Ist das Abschlussprotokoll vollständig und klar formuliert?
-3. Sind alle offenen Fristen dokumentiert und dem Mandanten mitgeteilt?
-4. Wurden Folgerisiken und -pflichten vollständig aufgezeigt?
-5. Ist die Kostenrechnung erstellt und dem Mandanten übergeben?
-6. Wurde die Mandatsakte zur Übergabe freigegeben und eine Empfangsbestätigung eingeholt?
-7. Sind Aufbewahrungsfristen für die Anwaltskanzlei dokumentiert?
-
-## Typische Fallstricke
-
-- Restansprüche verjähren nach Mandatsabschluss, weil der Mandant nicht auf offene Fristen hingewiesen wurde.
-- Steuer- und registerrechtliche Folgen des Mandatsergebnisses werden nicht kommuniziert.
-- Die Mandatsakte wird unvollständig übergeben, was bei späteren Rechtsstreitigkeiten zu Haftungsrisiken führt.
-- Rechtsmittelfristen werden beim Abschlussprotokoll nicht dokumentiert, sodass Mandanten Rechtsbehelfsmöglichkeiten versäumen.
-
-## Quellen
-
-- [§ 675 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__675.html)
-- [§ 43a BRAO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/brao/__43a.html)
-- [§ 50 BRAO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/brao/__50.html)
-- [§ 195 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__195.html)
-- [dejure.org Anwaltshaftung](https://dejure.org/gesetze/BGB/675.html)
-
-## Abgrenzungen und Methodik
-
-Das Abschlussprotokoll ist von der laufenden Mandatsdokumentation zu unterscheiden: Während Letztere den
-laufenden Fortschritt festhält, dokumentiert Ersteres das endgültige Ergebnis, offene Restrisiken und
-Folgepflichten. Ohne vollständiges Abschlussprotokoll kann der Anwalt nicht nachweisen, dass er seiner
-Aufklärungspflicht vollständig genügt hat, was in Haftungsfällen entscheidend ist.
-
-## Praktische Anwendungshinweise
-
-Das Abschlussschreiben an den Mandanten sollte immer folgende Elemente enthalten: Zusammenfassung des
-Ergebnisses in verständlicher Sprache, Hinweis auf alle offenen Fristen, Hinweis auf steuerliche und
-registerrechtliche Folgen, Empfehlung für weitere Schritte und die Bitte, etwaige Unstimmigkeiten innerhalb
-einer Frist anzuzeigen. Die Aufbewahrungsfrist für die Mandatsakte (Anwaltsrecht: fünf Jahre) ist zu
-dokumentieren und einzuhalten. Eine digitale Sicherung der wichtigsten Dokumente schützt vor Aktenverlust.
-
-## Hinweis zur Methodensicherheit
-
-Die methodische Konsistenz der Argumentation ist nicht nur ein akademisches Qualitätsmerkmal, sondern hat
-unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Verhandlung. Inkonsequente
-oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
-substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
-schützt die eigene Position und macht sie resilient gegenüber Angriffen.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 20 Abs. 3 GG (Gesetzesbindung)
-- Art. 97 GG (richterliche Unabhängigkeit, Gesetzesbindung)
-- § 133 BGB (Auslegung Willenserklärung)
-- § 157 BGB (Auslegung Verträge)
-- § 242 BGB (Treu und Glauben)
-- § 305c Abs. 2 BGB (Unklarheitenregel)
-- EGBGB Art. 6 (ordre public)
-- GG Art. 1, 2 (Verfassungskonforme Auslegung)
-- ZPO § 286 (freie Beweiswürdigung)
-- GVG § 132 (Vorlage Großer Senat)
-
-### Leitentscheidungen
-
-- BVerfG 1 BvR 730/04 (verfassungskonforme Auslegung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-- BGH GSZ 1/11 (BGH-Methodik)
-- BVerfG 2 BvR 883/14 (Wortlautgrenze)
-- BGH V ZR 250/02 (teleologische Reduktion)
-
-### Anwendung im Skill
-
-- Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze.
-- Analogie nur bei planwidriger Regelungsluecke; teleologische Reduktion BGH V ZR 250/02 als Korrelat.
-- Richterrecht BGH GSZ 1/14: Rechtsfortbildung an Art. 20 Abs. 3, Art. 97 GG gebunden.
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ---
 
-## Skill: `abwaegung-gewichtung-intensitaet`
+## Skill: `gesetzgebung-justiz-wissenschaft-rollen`
 
-_Unterstützt die methodisch saubere Gewichtung kollidierender Rechtspositionen nach Intensität, Rang, Normzweck und Eingriffstiefe. Das Skill führt durch die Schritte der Abwägungsjurisprudenz im Zivilrecht und hilft dabei, Schutzwürdigkeit, Verhältnismäßigkeit und praktische Konkordanz nachvollzi..._
+_Wenn es um Gesetzgebung, Justiz und Wissenschaft: Institutionelle Rollen in der Rechtsbildung in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen
+# Gesetzgebung, Justiz und Wissenschaft: Institutionelle Rollen in der Rechtsbildung
 
 ## Fachlicher Anker
 
-- **Normen:** § 626 BGB, § 903 BGB, § 906 BGB.
+- **Normen:** Art. 20 Abs. 1, Art. 97 GG, Art. 5 Abs. 3 GG.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Mandantenfall
 
-- Ein Arbeitgeber kündigt einem langjährigen Arbeitnehmer wegen einer Bagatellverfehlung. Das Gericht muss zwischen Eigentumsfreiheit des Arbeitgebers und sozialem Schutzinteresse des Arbeitnehmers gewichten. Intensität des Eingriffs (Existenzverlust) vs. Normzweck des § 626 BGB.
-- Zwei Nachbarn streiten über eine Baumhecke, die Licht entzieht. Zwischen § 903 BGB (Eigentümerfreiheit) und § 906 BGB (Duldungspflicht) steht eine Abwägung nach Ortsüblichkeit und Wesentlichkeit der Beeinträchtigung.
-- Ein Verlag veröffentlicht ein Porträt, das persönliche Gesundheitsdaten nennt. Zwischen Pressefreiheit (Art. 5 GG) und allgemeinem Persönlichkeitsrecht (§ 823 Abs. 1 BGB, Art. 2 Abs. 1 GG) ist nach Schwere und Schutzbedarf zu gewichten.
+- Eine Kommentierung des BGH legt eine Norm so aus, dass sie faktisch zu einer Kodifikation neuen Rechts führt. Die Rechtswissenschaft kritisiert dies als unzulässige Justizgesetzgebung. Das Skill analysiert, ob die Kritik methodisch begründet ist.
+- Ein Rechtswissenschaftler veröffentlicht eine einflussreiche Monografie, die für eine bestimmte Normauslegung eintritt. Gerichte folgen dieser Auffassung zunächst, der Gesetzgeber lehnt sie aber bei der nächsten Reformdebatte explizit ab. Das Skill klärt, welche normative Bedeutung diese Ablehnung hat.
+- Ein Gericht stützt seine Entscheidung primär auf herrschende Lehrmeinungen statt auf Normtext und Gesetzgeberwillen. Es fragt sich, welchen Stellenwert Rechtswissenschaft als Erkenntnisquelle gegenüber anderen Auslegungsquellen hat.
 
 ## Erste Schritte
 
-1. Identifiziere die kollidierenden Rechtspositionen präzise: Welche Norm, welches Rechtsgut, welcher Rechtsträger steht auf jeder Seite?
-2. Bestimme den Rang jeder Position: Verfassungsrang, einfaches Recht, Vertrag, bloßes Interesse?
-3. Messe die Eingriffsintensität: Ist die Beeinträchtigung nur marginal, erheblich oder existenziell?
-4. Prüfe den Normzweck der einschlägigen Regelung: Schützt die Norm primär eine der kollidierenden Positionen oder enthält sie selbst eine Abwägungsentscheidung des Gesetzgebers?
-5. Wende das Verhältnismäßigkeitsprinzip dreistufig an: Geeignetheit, Erforderlichkeit, Angemessenheit des Eingriffs.
-6. Dokumentiere das Ergebnis der praktischen Konkordanz: Welches Gewicht bekommt welche Position, und warum ist das die schonendste Lösung?
+1. Bestimme, welcher Akteur die in Frage stehende Aussage oder Entscheidung getroffen hat: Gesetzgeber, Gericht oder Rechtswissenschaftler.
+2. Kläre die Funktion des Akteurs: Normsetzung (Gesetzgebung), Normkonkretisierung und -anwendung (Justiz), Systematisierung und Kritik (Wissenschaft).
+3. Prüfe, ob die Aussage der jeweiligen institutionellen Rolle entspricht oder ob eine Rollenkonfusion vorliegt.
+4. Stelle fest, ob Richterrecht die Qualität von Normgebung angenommen hat und ob dies verfassungsrechtlich legitimiert ist.
+5. Bewerte den normativen Stellenwert von Rechtswissenschaft: Erkenntnisquelle, nicht Normsatzgebung — herrschende Lehre ist kein Recht.
+6. Formuliere die institutionelle Kompetenzrüge präzise, wenn eine Rolle überschritten wurde.
 
 ## Rechtsrahmen
 
-- § 242 BGB — Treu und Glauben als Einfallstor für Verhältnismäßigkeitsgedanken im Zivilrecht
-- § 906 BGB — gesetzlich typisierte Abwägungsentscheidung bei Immissionen als Muster strukturierter Interessenabwägung
-- Art. 1 Abs. 3 GG — Grundrechtsbindung auch im Privatrecht durch mittelbare Drittwirkung
-- Art. 2 Abs. 1 GG — allgemeines Persönlichkeitsrecht als gewichtungsrelevante Verfassungsposition
-- Art. 14 GG — Eigentumsfreiheit als gegenläufige Schutzposition mit Sozialbindung nach Abs. 2
-- § 826 BGB — sittenwidrige Schädigung als Auffangnorm nach intensiver Abwägung von Schutzbedarf und Handlungsfreiheit
+- Art. 20 Abs. 1 und 3 GG — Demokratieprinzip: Normsetzung ist dem parlamentarischen Gesetzgeber vorbehalten
+- Art. 97 GG — Unabhängigkeit der Justiz bei Normkonkretisierung, aber keine Normsetzungskompetenz
+- Art. 5 Abs. 3 GG — Wissenschaftsfreiheit: Rechtswissenschaft hat keine Normbindungswirkung, aber anerkannte Erkenntnisfunktion
+- Art. 76 GG — Gesetzgebungsinitiative als formaler Mechanismus der Rechtsbildung durch den Gesetzgeber
+- § 133 BGB — Auslegungsmaßstab, der die Erkenntnisquellen hierarchisch ordnet
+- Art. 100 GG — Vorlagepflicht als institutionelle Grenzmarkierung zwischen Justiz und Gesetzgebung
 
 ## Prüfraster
 
-1. Sind alle kollidierenden Positionen vollständig erfasst und namentlich benannt?
-2. Wurde der normative Rang jeder Position (Verfassung, Gesetz, Vertrag) korrekt bestimmt?
-3. Ist die Intensitätsmessung nachvollziehbar und an Tatsachen rückgebunden?
-4. Hat der Gesetzgeber eine Vorrangentscheidung getroffen, die vorrangig zu respektieren ist?
-5. Wurde die Verhältnismäßigkeitsprüfung dreistufig und vollständig durchgeführt?
-6. Ist das Ergebnis der praktischen Konkordanz das schonendste verfügbare Mittel?
-7. Ist die Abwägung frei von versteckten Ergebnisvorgaben und offen begründet?
+1. Welcher institutionelle Akteur hat die zu bewertende Aussage getroffen?
+2. Entspricht die Aussage der institutionellen Funktion des Akteurs?
+3. Hat Richterrecht den Charakter von Normsetzung angenommen, der demokratischer Legitimation bedarf?
+4. Wird Rechtswissenschaft als Erkenntnisquelle oder fälschlicherweise als Normsatzgebung behandelt?
+5. Liegt eine Rollenkonfusion vor, die methodisch zu rügen ist?
+6. Ist die institutionelle Kompetenzgrenze im Ergebnis klar gezogen?
+7. Welche verfassungsrechtliche Konsequenz ergibt sich aus der Rollenverletzung?
 
 ## Typische Fallstricke
 
-- Gewichtung wird intuitiv vorgenommen, ohne die kollidierenden Positionen explizit zu benennen — die Abwägung bleibt angreifbar.
-- Normzweck wird ignoriert: Enthält die Norm selbst bereits eine legislative Abwägungsentscheidung, ist gerichtliche Eigengewichtung unzulässig.
-- Intensitätsunterschiede werden nivelliert: Existenzielle Eingriffe auf einer Seite müssen stärkeres Gewicht erhalten als Bagatellinteressen auf der anderen.
-- Verhältnismäßigkeit wird auf Angemessenheit verkürzt — Geeignetheit und Erforderlichkeit werden übersprungen.
-- Praktische Konkordanz wird als bloßes Kompromissgebot missverstanden; sie verlangt optimale Entfaltung beider Positionen, nicht arithmetische Mitte.
+- Richterliche Rechtsfortbildung wird als bloße Normauslegung ausgegeben, obwohl sie Normsetzungsqualität hat.
+- Herrschende Lehrmeinungen werden wie gesetzliche Regeln zitiert, ohne ihren bloß erkenntnisorientierten Status zu reflektieren.
+- Der Gesetzgeber wird bei Methodenfragen zur Rechtslage nicht konsultiert oder sein Schweigen fehlinterpretiert.
+- Wissenschaftliche Systematisierungen werden unreflektiert auf normative Aussagen übertragen.
+- Die Grenze zwischen dogmatischer Systembildung (Wissenschaft) und Normkonkretisierung (Justiz) wird verwischt.
 
-## Vertiefung: Intensitätsstufen in der Rechtsprechung
+## Vertiefung: Kooperatives Verhältnis der Institutionen
 
-Das BVerfG unterscheidet in ständiger Rechtsprechung zwischen leichten, mittleren und schweren Grundrechtseingriffen. Diese Trias ist auf zivilrechtliche Abwägungen übertragbar: Eingriffe in die Sozialsphäre des Persönlichkeitsrechts sind weniger gewichtig als Eingriffe in die Intimsphäre. Dieses Stufenmodell macht Abwägungsentscheidungen revisionsrechtlich überprüfbar.
+Das Verhältnis zwischen Gesetzgebung, Justiz und Wissenschaft ist nicht rein antagonistisch, sondern kooperativ: Rechtswissenschaft liefert Interpretationsvorschläge, die Justiz konkretisiert das Recht, und der Gesetzgeber kann auf Rechtsprechungsentwicklungen reagieren. Dieser Kreislauf ist für die Fortentwicklung des Rechts unverzichtbar, solange die institutionellen Grenzen gewahrt bleiben.
 
 ## Hinweise zur Praxis
 
-Bei der Formulierung von Schriftsätzen empfiehlt sich eine tabellarische Darstellung der kollidierenden Positionen mit ihren jeweiligen Schutzgütern, Eingriffsintensitäten und normativen Rängen. Gerichte schätzen strukturierte Abwägungsdarstellungen, weil sie die Urteilsbegründung erleichtern. Verweisen Sie stets auf die normspezifische Abwägungsvorgabe des Gesetzgebers, bevor Sie eigene Gewichtungen einführen.
+Anwälte können wissenschaftliche Literatur als Erkenntnisquelle gewinnbringend einsetzen, wenn sie klar als solche qualifiziert wird: nicht als Recht, sondern als begründete Auffassung. Gerichte beachten fundierte Literatur, insbesondere wenn sie methodisch klar entwickelt ist. Umgekehrt sollte der Unterschied zwischen beschreibender Dogmatik und normativer Forderung in wissenschaftlichen Texten stets sauber gezogen werden.
 
 ## Weiterführende Analyse
 
-Die Intensitätsstufen lassen sich in der Praxis anhand von drei Leitfragen operationalisieren: Wie dauerhaft ist die Beeinträchtigung? Wie reversibel sind die Folgen? Wie zentral ist das beeinträchtigte Rechtsgut für die Persönlichkeit oder das Vermögen? Je höher die Antworten auf diese Fragen, desto intensiver der Eingriff und desto strengere Anforderungen an die Rechtfertigungslage auf der Gegenseite. Diese dreistufige Intensitätskarte macht das Abwägungsergebnis rational begründbar und angreifbar.
+Die institutionellen Rollen sind nicht statisch, sondern unterliegen historischem Wandel: Vor dem Hintergrund der Weimarer Republik und des NS-Regimes hat das Grundgesetz eine starke Gesetzesbindung der Justiz normiert, um richterliche Eigenständigkeit zu begrenzen. Nach 1990 haben sich im Kontext europäischer Integration neue institutionelle Spannungen ergeben. Die aktuelle Rollenverteilung ist daher im historischen Kontext zu lesen und nicht als zeitloses System zu missverstehen.
 
 ## Checkliste zur Selbstprüfung
 
@@ -621,111 +549,82 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## Quellen
 
-- [§ 242 BGB – Treu und Glauben](https://www.gesetze-im-internet.de/bgb/__242.html)
-- [§ 906 BGB – Zuführung unwägbarer Stoffe](https://www.gesetze-im-internet.de/bgb/__906.html)
-- [Art. 14 GG bei dejure](https://dejure.org/gesetze/GG/14.html)
-- [BVerfGE 7, 198 – Lüth-Urteil zur mittelbaren Drittwirkung](https://www.bverfg.de/e/rs19580115_1bvr040051.html)
-- [§ 826 BGB bei dejure](https://dejure.org/gesetze/BGB/826.html)
+- [Art. 20 GG – Demokratieprinzip](https://dejure.org/gesetze/GG/20.html)
+- [Art. 97 GG – Richterliche Unabhängigkeit](https://dejure.org/gesetze/GG/97.html)
+- [Art. 5 GG – Wissenschaftsfreiheit](https://dejure.org/gesetze/GG/5.html)
+- [Art. 76 GG – Gesetzgebungsinitiative](https://dejure.org/gesetze/GG/76.html)
+- [BVerfGE 34, 269 – Soraya, Richterrecht und Gesetzgebung](https://www.bverfg.de/e/rs19730214_1bvr111268.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 20 Abs. 3 GG (Gesetzesbindung)
-- Art. 97 GG (richterliche Unabhängigkeit, Gesetzesbindung)
-- § 133 BGB (Auslegung Willenserklärung)
-- § 157 BGB (Auslegung Verträge)
-- § 242 BGB (Treu und Glauben)
-- § 305c Abs. 2 BGB (Unklarheitenregel)
-- EGBGB Art. 6 (ordre public)
-- GG Art. 1, 2 (Verfassungskonforme Auslegung)
-- ZPO § 286 (freie Beweiswürdigung)
-- GVG § 132 (Vorlage Großer Senat)
-
-### Leitentscheidungen
-
-- BVerfG 1 BvR 730/04 (verfassungskonforme Auslegung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-- BGH GSZ 1/11 (BGH-Methodik)
-- BVerfG 2 BvR 883/14 (Wortlautgrenze)
-- BGH V ZR 250/02 (teleologische Reduktion)
-
-### Anwendung im Skill
-
-- Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze.
-- Analogie nur bei planwidriger Regelungsluecke; teleologische Reduktion BGH V ZR 250/02 als Korrelat.
-- Richterrecht BGH GSZ 1/14: Rechtsfortbildung an Art. 20 Abs. 3, Art. 97 GG gebunden.
-
 ---
 
-## Skill: `abwaegung-material-auswahl`
+## Skill: `gesetzesbindung-art-20-gg-pruefprotokoll`
 
-_Leitet durch die methodisch begründete Auswahl von Abwägungsmaterial im Zivilrecht. Das Skill zeigt, welche Fakten, Normen, Präjudizien und Wertungsgesichtspunkte in eine Abwägungsentscheidung einbezogen werden dürfen und welche ausgeblendet werden müssen. Es schützt vor willkürlicher Materialaus..._
+_Wenn es um Gesetzesbindung nach Art. 20 Abs. 3 GG: Prüfprotokoll in Methodenlehre bürgerliches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Abwägung: Materialauswahl und Abwägungsgrundlagen
+# Gesetzesbindung nach Art. 20 Abs. 3 GG: Prüfprotokoll
 
 ## Fachlicher Anker
 
-- **Normen:** § 307 BGB, § 253 BGB, § 133 BGB.
+- **Normen:** Art. 20 Abs. 3 GG, Art. 97 Abs. 1 GG, Art. 100 Abs. 1 GG.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Mandantenfall
 
-- Ein Gericht stützt eine Abwägungsentscheidung auf Pressemitteilungen und öffentliche Meinung statt auf Normzweck und Tatsachenbefund. Der Anwalt muss die Materialauswahl methodisch angreifen und zeigen, dass nicht-rechtliches Material unzulässig eingeflossen ist.
-- Im Vertragsrecht soll ermittelt werden, ob eine AGB-Klausel nach § 307 BGB unangemessen benachteiligt. Das Gericht muss entscheiden, welche Marktdaten, Branchenpraktiken und Schutzzweckerwägungen zulässigerweise einbezogen werden.
-- Ein Richter erwägt bei der Schadensbemessung nach § 253 BGB Schmerzensgeld: Er wählt zwischen vergleichbaren Präjudizien, statistischen Schmerzensgeldtabellen und individuellen Leidensnachweisen — die Methode der Materialauswahl ist entscheidend.
+- Ein Zivilgericht weitet eine Schadensersatznorm durch extensive Auslegung auf Sachverhalte aus, die der Gesetzgeber bewusst nicht erfasst hat. Der Mandant rügt, das Gericht habe seine Gesetzesbindung verletzt und handle als Ersatzgesetzgeber.
+- Eine Behörde wendet eine Ermessensvorschrift so an, dass der gesetzlich intendierte Handlungsspielraum ausgehöhlt wird. Es stellt sich die Frage, ob die behördliche Praxis die Gesetzesbindung des Art. 20 Abs. 3 GG verletzt.
+- Ein Urteil stützt sich auf richterrechtlich entwickelte Grundsätze, ohne auf die gesetzliche Grundlage Bezug zu nehmen. Die revisionsrechtliche Rüge richtet sich darauf, dass die Gesetzesbindung durch unzulässige Richterrechtssetzung verletzt wurde.
 
 ## Erste Schritte
 
-1. Bestimme den Abwägungsrahmen: Welche Norm enthält die Abwägungsöffnung und welche Materialien erlaubt ihr Wortlaut und Zweck?
-2. Trenne zulässiges von unzulässigem Abwägungsmaterial: Nur rechtlich relevante Tatsachen, Normzweckerwägungen und gesicherte Präjudizien sind zulässig.
-3. Prüfe die Verlässlichkeit der Tatsachengrundlage: Sind Fakten durch Beweismittel gesichert oder nur behauptet?
-4. Identifiziere etwaige gesetzgeberische Vorgewichtungen durch Regelbeispiele, Legaldefinitionen oder parlamentarische Materialien.
-5. Ordne das Material nach Gewichtsklassen: normative Vorgaben haben Vorrang vor Analogien, diese vor bloßen Interessenerwägungen.
-6. Dokumentiere ausgeschlossenes Material und begründe den Ausschluss — das schützt vor dem Vorwurf der willkürlichen Selektion.
+1. Identifiziere die rechtliche Grundlage der angegriffenen Entscheidung: Welche Norm wird angewandt, und welche ist die einschlägige gesetzliche Ermächtigung?
+2. Prüfe, ob die Entscheidung im Wortlautrahmen der einschlägigen Norm liegt.
+3. Stelle fest, ob die Entscheidung dem klar erkennbaren Willen des historischen Gesetzgebers entspricht.
+4. Untersuche, ob eine richterrechtliche Erweiterung oder Beschränkung vorgenommen wurde und ob diese methodisch legitimiert ist.
+5. Prüfe, ob wesentliche Entscheidungen durch das handelnde Organ selbst getroffen wurden oder ob diese dem Gesetzgeber vorbehalten sind.
+6. Stelle die verfassungsrechtliche Konsequenz fest: Liegt ein Verstoß gegen Art. 20 Abs. 3 GG vor, und welche verfahrensrechtliche Konsequenz ergibt sich (Vorlage, Verfassungsbeschwerde, Kassation)?
 
 ## Rechtsrahmen
 
-- § 307 BGB — Generalklausel für unangemessene Benachteiligung, erfordert normzweckorientierte Materialauswahl
-- § 133 BGB — Auslegung nach wirklichem Willen als Schranke für Materialauswahl bei Vertragsinterpretation
-- § 253 BGB — Schmerzensgeld: Präjudizien und individuelle Verhältnisse als zulässiges Material
-- Art. 3 Abs. 1 GG — Gleichheitssatz als Maßstab für Konsistenz der Materialauswahl zwischen vergleichbaren Fällen
-- § 286 ZPO — freie richterliche Überzeugungsbildung als verfahrensrechtlicher Rahmen für Tatsachenmaterial
-- Art. 20 Abs. 3 GG — Gesetzesbindung als Grenze für die Einbeziehung nicht-normativen Materials
+- Art. 20 Abs. 3 GG — Bindung der Rechtsprechung an Gesetz und Recht als Kerngehaltsgarantie
+- Art. 97 Abs. 1 GG — richterliche Unabhängigkeit nur im Rahmen des Gesetzes
+- Art. 100 Abs. 1 GG — Vorlagepflicht bei verfassungswidrigen Gesetzen und als Grenze richterlicher Abweichungsneigung
+- Art. 3 Abs. 1 GG — Gleichheitssatz als Gebot konsistenter Gesetzesbindung ohne willkürliche Selektion
+- § 823 BGB — als Beispiel einer Norm, deren Ausweitung auf neue Fallgruppen die Gesetzesbindung auf die Probe stellt
+- Art. 79 Abs. 3 GG — Ewigkeitsgarantie: Demokratie- und Rechtsstaatsprinzip sind der Disposition des Gesetzgebers entzogen
 
 ## Prüfraster
 
-1. Ist der Abwägungsrahmen der maßgeblichen Norm vollständig erfasst?
-2. Ist das einbezogene Material normzweckkonform und rechtlich erheblich?
-3. Sind Tatsachenbehauptungen von gesicherten Befunden getrennt?
-4. Hat der Gesetzgeber durch Regelbeispiele oder Materialien eine Vorauswahl getroffen?
-5. Ist die Auswahl vergleichbar konsistent mit parallelen Entscheidungen (Gleichheitsprüfung)?
-6. Wurde unzulässiges Material (Meinungen, Stimmungsbilder, politische Wertungen) explizit ausgeblendet?
-7. Ist die Materialauswahl schriftlich begründet und damit überprüfbar?
-8. Wurden Gegen-Materialien ernsthaft erwogen und ihrerseits begründet ausgeschlossen?
+1. Liegt für die angegriffene Entscheidung eine klare gesetzliche Grundlage vor?
+2. Bewegt sich die Entscheidung im Wortlautrahmen der einschlägigen Norm?
+3. Entspricht die Entscheidung dem Willen des Gesetzgebers nach fachliche Einordnung und Materialien?
+4. Wurde richterrechtliche Eigenständigkeit methodisch legitimiert (Lücke, planwidrige Regelungslücke)?
+5. Wurden wesentliche normative Entscheidungen dem Gesetzgeber vorbehalten?
+6. Ist die Entscheidung konsistent mit vergleichbaren Fällen (keine willkürliche Selektion)?
+7. Wurde die Vorlagepflicht nach Art. 100 GG beachtet?
+8. Ist das Ergebnis revisionsrechtlich mit Art. 20 Abs. 3 GG vereinbar?
 
 ## Typische Fallstricke
 
-- Selektive Materialauswahl zugunsten des gewünschten Ergebnisses, ohne Auseinandersetzung mit konträren Materialien.
-- Verwechslung von Tatsachen und Wertungen: Gesellschaftliche Stimmungsbilder sind kein rechtliches Abwägungsmaterial.
-- Übergewichtung von Einzelpräjudizien, obwohl die Gesamtrechtsprechung ein anderes Bild ergibt.
-- Nichtbeachtung legislativer Vorgewichtungen durch Regelbeispiele in Normen wie § 307 Abs. 2 BGB.
-- Fehlende Transparenz über ausgeschlossenes Material — der Eindruck der Willkür entsteht.
+- Gesetzesbindung wird mit mechanischer Subsumtion verwechselt: Auslegungsspielräume sind keine Bindungsverletzungen.
+- Richterrechtliche Fortbildung wird als Gesetzesbindungsverletzung gerügt, obwohl sie methodisch legitimiert ist.
+- Die Grenze zwischen erlaubter Analogie und unzulässiger Gesetzeskorrektur wird nicht gezogen.
+- Art. 97 GG wird als Freibrief für richterliche Eigenständigkeit missverstanden, obwohl er nur Unabhängigkeit von Weisungen schützt.
+- Wesentlichkeitsgrundsatz wird nicht angewandt: Grundrechtlich relevante Entscheidungen müssen gesetzlich normiert sein.
 
-## Vertiefung: Hierarchie des Abwägungsmaterials
+## Vertiefung: Wesentlichkeitstheorie als Gesetzesbindungskonkretisierung
 
-Abwägungsmaterial ist nicht gleichrangig. Normative Vorgaben des Gesetzgebers stehen an erster Stelle, gefolgt von gesicherten Präjudizien, anerkannten Rechtsprinzipien und zuletzt bloßen Interessenerwägungen. Diese Hierarchie ist in der Rechtsanwendung konsequent einzuhalten und transparent zu kommunizieren, damit Abwägungsentscheidungen nicht als beliebig erscheinen.
+Das BVerfG hat durch die Wesentlichkeitstheorie die Gesetzesbindung konkretisiert: Alle grundrechtlich wesentlichen Entscheidungen müssen durch den parlamentarischen Gesetzgeber getroffen werden und können nicht dem Richterrecht oder der Exekutive überlassen bleiben. Diese Theorie ist ein zentrales Instrument zur Bestimmung der Grenzen richterlicher Rechtsfortbildung im grundrechtssensiblen Bereich.
 
 ## Hinweise zur Praxis
 
-Bei strittiger Materialauswahl empfiehlt sich ein Abwägungsprotokoll, das alle erwogenen Materialien listet und die Ausschlüsse begründet. Dies schützt vor späteren Vorwürfen selektiver Argumentation und erleichtert das Nachvollziehen der Entscheidung. In Revisionssachen kann fehlerhafte Materialauswahl als Rechtsfehler gerügt werden, wenn sie das Ergebnis beeinflusst hat.
+In Verfassungsbeschwerden, die auf Gesetzesbindungsverletzungen gestützt werden, ist die Wesentlichkeitstheorie ein starkes Argument: Wenn das Gericht eine grundrechtlich wesentliche Entscheidung ohne gesetzliche Grundlage getroffen hat, liegt ein verfassungsrechtlich relevanter Fehler vor. Das Protokoll zur Gesetzesbindungsprüfung sollte daher stets auch die Wesentlichkeitsfrage adressieren.
 
 ## Weiterführende Analyse
 
-Bei komplexen Abwägungsentscheidungen empfiehlt sich eine Materialmatrix: Zuerst werden alle potenziell relevanten Materialien gesammelt (Normen, Präjudizien, Empirie, Rechtslehre), dann nach Zulässigkeit gefiltert, schließlich nach Gewichtsklassen geordnet. Diese Matrix macht die Auswahl transparent und angreifbar. Besonders hilfreich ist die explizite Spalte für ausgeschlossenes Material mit Ausschlussbegründung — sie schützt vor dem Vorwurf der Willkür besser als jedes inhaltliche Argument.
+Die Gesetzesbindung nach Art. 20 Abs. 3 GG hat eine positive und eine negative Dimension: Positiv verpflichtet sie zur aktiven Anwendung des Gesetzes; negativ verbietet sie, von gesetzlichen Regelungen durch eigenständige Wertungen abzuweichen. In der Praxis wird die negative Dimension — Verbot eigenständiger Abweichungen — häufiger verletzt als die positive. Das Prüfprotokoll sollte daher beide Dimensionen explizit abfragen.
 
 ## Checkliste zur Selbstprüfung
 
@@ -733,160 +632,119 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## Quellen
 
-- [§ 307 BGB – Inhaltskontrolle](https://www.gesetze-im-internet.de/bgb/__307.html)
-- [§ 133 BGB – Auslegung von Willenserklärungen](https://www.gesetze-im-internet.de/bgb/__133.html)
-- [§ 253 BGB – Immaterieller Schaden](https://www.gesetze-im-internet.de/bgb/__253.html)
-- [Art. 3 GG bei dejure](https://dejure.org/gesetze/GG/3.html)
-- [§ 286 ZPO bei dejure](https://dejure.org/gesetze/ZPO/286.html)
-
-> Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 20 Abs. 3 GG (Gesetzesbindung)
-- Art. 97 GG (richterliche Unabhängigkeit, Gesetzesbindung)
-- § 133 BGB (Auslegung Willenserklärung)
-- § 157 BGB (Auslegung Verträge)
-- § 242 BGB (Treu und Glauben)
-- § 305c Abs. 2 BGB (Unklarheitenregel)
-- EGBGB Art. 6 (ordre public)
-- GG Art. 1, 2 (Verfassungskonforme Auslegung)
-- ZPO § 286 (freie Beweiswürdigung)
-- GVG § 132 (Vorlage Großer Senat)
-
-### Leitentscheidungen
-
-- BVerfG 1 BvR 730/04 (verfassungskonforme Auslegung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-- BGH GSZ 1/11 (BGH-Methodik)
-- BVerfG 2 BvR 883/14 (Wortlautgrenze)
-- BGH V ZR 250/02 (teleologische Reduktion)
-
-### Anwendung im Skill
-
-- Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze.
-- Analogie nur bei planwidriger Regelungsluecke; teleologische Reduktion BGH V ZR 250/02 als Korrelat.
-- Richterrecht BGH GSZ 1/14: Rechtsfortbildung an Art. 20 Abs. 3, Art. 97 GG gebunden.
-
----
-
-## Skill: `abwaegungslast-non-liquet`
-
-_Behandelt die methodische Frage, wie mit Abwägungslagen umzugehen ist, in denen das Material keine eindeutige Entscheidung erlaubt. Das Skill systematisiert die Non-liquet-Problematik im Zivilrecht und zeigt, welche Entscheidungsregeln bei Abwägungsunklarheit greifen — Beweislastverteilung, Regel..._
-
-# Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage
-
-## Fachlicher Anker
-
-- **Normen:** § 830 BGB, § 138 BGB, § 363 BGB.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Mandantenfall
-
-- Im Arzthaftungsprozess steht fest, dass ein Fehler vorlag, aber unklar bleibt, ob er kausal für den Schaden war. Die Abwägungslage bezüglich der Kausalität ist non-liquet. Es stellt sich die Frage, ob § 830 BGB, Beweislasterleichterungen oder der Anscheinsbeweis greifen.
-- Bei der Sittenwidrigkeitsprüfung nach § 138 BGB liegen Indizien vor, die für und gegen eine Übervorteilung sprechen. Das Gericht muss entscheiden, welche Seite die Last trägt, die Abwägungsunklarheit aufzulösen.
-- Ein Arbeitgeber kündigt und behauptet verhaltensbedingten Grund; der Arbeitnehmer bestreitet jede Pflichtverletzung substantiiert. Beide Sachverhaltsversionen sind gleich plausibel. Wer trägt bei diesem Abwägungspatt die Darlegungs- und Beweislast?
-
-## Erste Schritte
-
-1. Stelle fest, ob ein echtes Non-liquet vorliegt oder ob die Unsicherheit durch weitere Sachaufklärung auflösbar ist.
-2. Prüfe, ob die einschlägige Norm eine Beweislastverteilung enthält oder ob allgemeine Grundsätze greifen (actori incumbit probatio, § 363 BGB, § 280 BGB).
-3. Untersuche, ob Regelfallannahmen oder gesetzliche Vermutungen die Abwägungslücke schließen.
-4. Erwäge Beweislasterleichterungen: Anscheinsbeweis, Beweismaßreduzierung nach § 287 ZPO, Umkehr der Beweislast bei Gefahrenbereichs- oder Produkthaftungslagen.
-5. Prüfe, ob die institutionelle Zuständigkeit verlangt, bei echter Abwägungsunklarheit zugunsten des Gesetzgebers zurückzuweisen (Vorlage, Verfassungsbeschwerde).
-6. Dokumentiere das Non-liquet offen: Methodische Ehrlichkeit verlangt, Unklarheiten nicht durch Scheinsicherheit zu überdecken.
-
-## Rechtsrahmen
-
-- § 363 BGB — Beweislastverteilung bei Erfüllungseinrede als Beispiel gesetzlicher Lösung des Non-liquet
-- § 280 Abs. 1 Satz 2 BGB — Verschuldensvermutung als gesetzliche Non-liquet-Auflösung im Schuldverhältnis
-- § 287 ZPO — richterliches Ermessen bei Schadensschätzung und Beweismaßreduzierung
-- § 138 BGB — Sittenwidrigkeit als Wertungsbegriff, der Abwägungsunsicherheit trägt, ohne sie zu eliminieren
-- Art. 100 GG — Vorlagepflicht als institutionelle Konsequenz bei nicht auflösbarer Verfassungsabwägung
-- Art. 20 Abs. 3 GG — Gesetzesbindung als Maßstab: Non-liquet-Fälle müssen an den Gesetzgeber zurückgegeben werden, wenn keine normative Lösung erkennbar ist
-
-## Prüfraster
-
-1. Liegt ein echtes Non-liquet vor oder ist die Unklarheit tatsächlicher Natur und durch Beweisaufnahme auflösbar?
-2. Enthält die einschlägige Norm eine explizite Beweislast- oder Entscheidungsregel?
-3. Greifen gesetzliche Vermutungen oder Regelfallannahmen?
-4. Ist eine Beweislasterleichterung durch Anscheinsbeweis oder Sphärentheorie begründbar?
-5. Hat das Gericht seine Überzeugungsbildung nach § 286 ZPO vollständig ausgeschöpft?
-6. Ist eine Richtervorlage wegen nicht auflösbarer Verfassungsfrage geboten?
-7. Wird das Non-liquet im Ergebnis transparent gemacht oder durch Scheinbegründungen verdeckt?
-8. Entspricht die Restunsicherheitsverteilung dem Normzweck der einschlägigen Regelung?
-
-## Typische Fallstricke
-
-- Non-liquet-Situationen werden durch voreilige Überzeugungsbildung verdeckt statt offen ausgewiesen.
-- Beweislastverteilung wird nicht normativ hergeleitet, sondern intuitiv zugeteilt.
-- § 287 ZPO wird als Freifahrtschein für beliebige Schadensschätzung ohne methodische Grundlage missverstanden.
-- Gesetzliche Vermutungen werden übersehen oder rechtswidrig umgekehrt.
-- Die institutionelle Konsequenz eines echten Abwägungspatts — Vorlage oder Zurückhaltung — wird nicht erwogen.
-
-## Vertiefung: Beweislastverteilung als Systemfrage
-
-Die Verteilung der Beweislast im deutschen Zivilrecht folgt dem Grundsatz, dass jede Partei die Voraussetzungen der ihr günstigen Norm darlegen und beweisen muss. Bei Non-liquet-Situationen ist daher zuerst die Frage zu stellen: Welche Partei trägt die Last der Abwägungsunklarheit? Die Antwort ergibt sich aus dem Normzweck und dem Schutzbedürfnis der Parteien.
-
-## Hinweise zur Praxis
-
-Non-liquet-Situationen sind im Schriftsatz offen auszuweisen und nicht durch Scheingewissheiten zu überdecken. Gerichte schätzen Ehrlichkeit über Abwägungsunklarheiten und begründen ihre Entscheidungen tragfähiger, wenn die Parteien die Unsicherheiten klar benennen. Beweislastargumente sollten stets normativ hergeleitet und nicht nur behauptet werden.
-
-## Weiterführende Analyse
-
-In der Praxis bewährt sich für Non-liquet-Situationen das Drei-Stufen-Modell: Stufe 1 — Kann die Unsicherheit durch weitere Sachaufklärung aufgelöst werden? Stufe 2 — Enthält die anwendbare Norm eine Verteilungsregel für die Restunsicherheit (Beweislast, Vermutung, Fiktion)? Stufe 3 — Ist die institutionelle Konsequenz (Vorlage, Zurückverweisung, Gesetzgeberhinweis) zu ziehen? Erst wenn alle drei Stufen erschöpft sind, ist ein echtes Non-liquet ausgewiesen.
-
-## Checkliste zur Selbstprüfung
-
-Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: Sind alle Auslegungsmethoden zumindest erwähnt? Ist die Methodenwahl explizit begründet? Sind alle Behauptungen normativ oder empirisch rückgebunden? Ist das Ergebnis konsistent mit vergleichbaren Entscheidungen? Ist die institutionelle Zuständigkeit für die getroffene Entscheidung gewahrt? Wurde die Gegenposition ernsthaft berücksichtigt? Sind alle verwendeten Quellen korrekt angegeben?
-
-## Quellen
-
-- [§ 280 BGB bei dejure](https://dejure.org/gesetze/BGB/280.html)
-- [§ 287 ZPO – Schadensermittlung](https://www.gesetze-im-internet.de/zpo/__287.html)
-- [§ 363 BGB bei dejure](https://dejure.org/gesetze/BGB/363.html)
+- [Art. 20 GG – Verfassungsgrundsätze](https://dejure.org/gesetze/GG/20.html)
+- [Art. 97 GG – Richterliche Unabhängigkeit](https://dejure.org/gesetze/GG/97.html)
 - [Art. 100 GG – Vorlagepflicht](https://dejure.org/gesetze/GG/100.html)
-- [§ 138 BGB – Sittenwidrigkeit](https://www.gesetze-im-internet.de/bgb/__138.html)
+- [BVerfGE 34, 269 – Soraya, Grenzen der Rechtsfortbildung](https://www.bverfg.de/e/rs19730214_1bvr111268.html)
+- [Art. 79 GG – Änderung des Grundgesetzes](https://dejure.org/gesetze/GG/79.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
 
-## Normen und Rechtsprechung
+---
 
-### Kuratierte Normen-Bibliothek
+## Skill: `bverfg-grenzen-richterlicher-rechtsfortbildung`
 
-- Art. 20 Abs. 3 GG (Gesetzesbindung)
-- Art. 97 GG (richterliche Unabhängigkeit, Gesetzesbindung)
-- § 133 BGB (Auslegung Willenserklärung)
-- § 157 BGB (Auslegung Verträge)
-- § 242 BGB (Treu und Glauben)
-- § 305c Abs. 2 BGB (Unklarheitenregel)
-- EGBGB Art. 6 (ordre public)
-- GG Art. 1, 2 (Verfassungskonforme Auslegung)
-- ZPO § 286 (freie Beweiswürdigung)
-- GVG § 132 (Vorlage Großer Senat)
+_Wenn es um Analysiert die vom BVerfG gezogenen Grenzen richterlicher Rechtsfortbildung im Zivilrecht in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-### Leitentscheidungen
+# Analysiert die vom BVerfG gezogenen Grenzen richterlicher Rechtsfortbildung im Zivilrecht
 
-- BVerfG 1 BvR 730/04 (verfassungskonforme Auslegung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-- BGH GSZ 1/11 (BGH-Methodik)
-- BVerfG 2 BvR 883/14 (Wortlautgrenze)
-- BGH V ZR 250/02 (teleologische Reduktion)
 
-### Anwendung im Skill
+## Arbeitsweg
 
-- Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze.
-- Analogie nur bei planwidriger Regelungsluecke; teleologische Reduktion BGH V ZR 250/02 als Korrelat.
-- Richterrecht BGH GSZ 1/14: Rechtsfortbildung an Art. 20 Abs. 3, Art. 97 GG gebunden.
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Analysiert die vom BVerfG gezogenen Grenzen richterlicher Rechtsfortbildung im Zivilrecht. Das Skill systematisiert die maßgebliche Verfassungsrechtsprechung zu Art. 20 Abs. 3 GG und Art. 2 Abs. 1 GG und zeigt auf, wann Zivilgerichte die verfassungsrechtlich zulässige Rechtsfortbildung überschreiten. Geeignet für Verfassungsbeschwerden, Revisionsrügen und wissenschaftliche Stellungnahmen zu richterlicher Eigenmacht.
+
+### BVerfG-Grenzen richterlicher Rechtsfortbildung
+
+## Fachlicher Kern — Juristische Methodenlehre
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `BVerfG-Grenzen richterlicher Rechtsfortbildung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
+- **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
+- **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
+- **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+Das Bundesverfassungsgericht hat in einer langen Linie von Entscheidungen die verfassungsrechtlichen Grenzen richterlicher Rechtsfortbildung präzisiert. Dieses Skill systematisiert diese Rechtsprechungslinie und macht sie für die zivilrechtliche Praxis nutzbar. Es hilft, Verfassungsbeschwerden gegen richterliche Rechtsfortbildung zu begründen oder abzuwehren.
+
+## Mandantenfall
+
+- Ein Zivilgericht weitet die Haftung nach § 823 BGB durch richterrechtliche Rechtsfortbildung auf eine Fallgruppe aus, die der Gesetzgeber erkennbar nicht erfassen wollte. Der Mandant will Verfassungsbeschwerde einlegen und braucht die verfassungsrechtliche Begründung.
+- Das OLG legt eine gesetzliche Regelung im Mietrecht so aus, dass eine für den Vermieter günstige Ausnahme praktisch leerläuft. Der Vermieter rügt, dies überschreite die Grenzen der Normauslegung und stelle eine unzulässige Gesetzeskorrektur dar.
+- Ein BGH-Urteil führt eine neue Haftungskategorie durch Richterrecht ein, für die es im Gesetz keine erkennbare Grundlage gibt. Ein Unternehmen will prüfen, ob dies verfassungsrechtlich angreifbar ist.
+
+## Erste Schritte
+
+1. Identifiziere die konkrete Rechtsfortbildung: Welche Norm wurde wie über ihren Wortlaut hinaus angewandt?
+2. Prüfe die BVerfG-Formel: Ist die Rechtsfortbildung mit dem Wortlaut und dem klar erkennbaren Willen des Gesetzgebers vereinbar?
+3. Untersuche, ob die Fortbildung auf einer verfassungswidrigen Lückenfüllung beruht (contra legem) oder methodisch legitimierbar ist (praeter legem).
+4. Prüfe die Verletzung des Gesetzesvorbehaltsprinzips: Wurden wesentliche Rechtspositionen durch Richterrecht geschaffen, die dem Gesetzgeber vorbehalten sind?
+5. Analysiere die Verletzung des rechtlichen Gehörs nach Art. 103 Abs. 1 GG: War die Rechtsfortbildung für die Partei überraschend und unvorhersehbar?
+6. Formuliere die Verfassungsrüge präzise: Welcher Grundrechtssatz oder welcher Verfassungsgrundsatz wurde durch die Rechtsfortbildung verletzt?
+
+## Rechtsrahmen
+
+- Art. 20 Abs. 3 GG — Bindung der Rechtsprechung an Gesetz und Recht als Kern der verfassungsrechtlichen Grenzen
+- Art. 97 Abs. 1 GG — Unabhängigkeit des Richters, aber nur im Rahmen der Verfassung und des Gesetzes
+- Art. 2 Abs. 1 GG — allgemeine Handlungsfreiheit als durch unzulässige Richterrechtsnormen verletztes Grundrecht
+- Art. 103 Abs. 1 GG — rechtliches Gehör, verletzt bei überraschender Rechtsfortbildung ohne Hinweis
+- Art. 14 GG — Eigentumsfreiheit, bei eigentumsbeeinträchtigender Rechtsfortbildung ohne gesetzliche Grundlage
+- Art. 100 Abs. 1 GG — Vorlagepflicht, wenn Gericht von einem förmlichen Gesetz abweichen will
+
+## Prüfraster
+
+1. Überschreitet die Rechtsfortbildung den Wortlaut der einschlägigen Norm?
+2. Widerspricht sie dem klar erkennbaren Willen des historischen Gesetzgebers?
+3. Ist sie eine unzulässige contra-legem-Entscheidung nach der BVerfG-Formel?
+4. Werden wesentliche Rechtsfragen durch Richterrecht entschieden statt durch den demokratischen Gesetzgeber?
+5. War die Fortbildung für die betroffene Partei überraschend und damit gehörsverletzend?
+6. Verletzt sie ein Grundrecht (Eigentum, Handlungsfreiheit, Gleichheit) ohne gesetzliche Grundlage?
+7. Bestand eine Vorlagepflicht, die das Gericht ignoriert hat?
+8. Ist die Verfassungsbeschwerde fristgerecht und nach Erschöpfung des Rechtswegs zulässig?
+
+## Typische Fallstricke
+
+- Verwechslung zwischen verfassungsrechtlich zulässiger teleologischer Auslegung und unzulässiger Rechtsfortbildung contra legem.
+- Das BVerfG prüft Fachrecht grundsätzlich nicht vollständig — es prüft nur spezifische Verfassungsverletzungen, nicht jede Fehlerhaftigkeit.
+- Die überraschende Rechtsfortbildung verletzt Art. 103 Abs. 1 GG nur, wenn die Partei keine Gelegenheit zur Stellungnahme hatte.
+- Vorlagepflicht nach Art. 100 GG besteht nur bei nachrangigem Recht, nicht bei verfassungskonformer Auslegung.
+- Die Verfassungsbeschwerde gegen richterliche Rechtsfortbildung muss binnen eines Monats nach dem letzten fachgerichtlichen Urteil erhoben werden.
+
+## Vertiefung: Die BVerfG-Prüfungsformel im Einzelnen
+
+Das BVerfG prüft bei Verfassungsbeschwerden gegen richterliche Rechtsfortbildung nach einer eigenen Formel: Es stellt fest, ob die Auslegung des Gerichts mit dem Grundgesetz vereinbar ist, insbesondere ob sie den klar erkennbaren Willen des Gesetzgebers missachtet und damit gegen Art. 2 Abs. 1 GG in Verbindung mit dem Rechtsstaatsprinzip verstößt. Diese Formel begrenzt die Prüfung auf spezifische Verfassungsverstöße.
+
+## Hinweise zur Praxis
+
+Verfassungsbeschwerden gegen richterliche Rechtsfortbildung müssen präzise formuliert werden: Nicht jeder Rechtsfehler ist ein Verfassungsfehler. Die Beschwerdeführer müssen darlegen, welches konkrete Grundrecht verletzt ist und warum die Rechtsfortbildung über den klar erkennbaren Gesetzgeberwillen hinausgeht. Allgemeine Richtigkeitskritik an Fachgerichtsentscheidungen reicht für eine zulässige Verfassungsbeschwerde nicht aus.
+
+## Weiterführende Analyse
+
+Die BVerfG-Formel zur richterlichen Rechtsfortbildung hat sich über Jahrzehnte verfeinert: Vom Soraya-Urteil (1973) über die Bürgschaftsentscheidung (1993) bis zu neueren Entscheidungen zur Mietpreisbremse und zu Arbeitnehmerrechten. Diese Entwicklungslinie zeigt eine zunehmende Bereitschaft des BVerfG, richterliche Rechtsfortbildung als verfassungsmäßig anzuerkennen, solange demokratische Legitimationsanforderungen erfüllt sind.
+
+## Checkliste zur Selbstprüfung
+
+Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: Sind alle Auslegungsmethoden zumindest erwähnt? Ist die Methodenwahl explizit begründet? Sind alle Behauptungen normativ oder empirisch rückgebunden? Ist das Ergebnis konsistent mit vergleichbaren Entscheidungen? Ist die institutionelle Zuständigkeit für die getroffene Entscheidung gewahrt? Wurde die Gegenposition ernsthaft berücksichtigt? Sind alle verwendeten Quellen korrekt angegeben?
+
+## Quellen
+
+- [BVerfGE 34, 269 – Soraya, Grenzen richterlicher Rechtsfortbildung](https://www.bverfg.de/e/rs19730214_1bvr111268.html)
+- [Art. 20 GG bei dejure](https://dejure.org/gesetze/GG/20.html)
+- [Art. 103 GG – rechtliches Gehör](https://dejure.org/gesetze/GG/103.html)
+- [Art. 100 GG – Vorlagepflicht bei dejure](https://dejure.org/gesetze/GG/100.html)
+- [BVerfGE 82, 6 – zu richterlicher Rechtsfortbildung im Arbeitsrecht](https://www.bverfg.de/e/rs19900306_1bvl150187.html)
+
+> Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

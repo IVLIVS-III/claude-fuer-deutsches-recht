@@ -105,7 +105,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BVerfG 2 BvR 1041/88 (Rastede)
 - BVerwG 9 C 10.21 (Erschließungsbeitrag)
 - BVerfG 2 BvR 1387/02 (kommunale Finanzausstattung)
-- Haushaltsgenehmigung nach Paragrafen 75-79 GO NRW: Sicherungskonzept nach BVerwG 8 C 12.12 dokumentieren
 
 ## 9. Prüfraster
 

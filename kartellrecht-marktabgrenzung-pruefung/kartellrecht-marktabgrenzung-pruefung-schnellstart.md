@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
+Wenn du das hier öffnest, willst du einen Kartell-, Marktmacht-, Fusions- oder Schadensersatzfall sofort nach Markt, Verhalten, Beweis und Risiko strukturieren.
 
 # Kartellrecht Marktabgrenzung Prüfung — Schnellstart
 
@@ -17,50 +17,49 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen.
-2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen.
-3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
-4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
-5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
-6. Paragraf 1 GWB Kartellverbot nationale Prüfung: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
+1. Markt und Beteiligte: sachlichen, räumlichen und zeitlichen Markt sowie Unternehmensrollen bestimmen.
+2. Verhalten: Abstimmung, Austausch, Ausschließlichkeitsbindung, Plattformregel, Preissetzung oder Zugangssperre einordnen.
+3. Rechtfertigung und Ausnahme: Effizienz, Freistellung, Bagatelle, Compliance und objektive Notwendigkeit prüfen.
+4. Schaden und Bußgeld: Betroffenheit, Overcharge, Passing-on, Verjährung, Kronzeuge und Dokumente aufbereiten.
+5. Arbeitsprodukt: Risikomemo, Abstellungszusage, Schadensmatrix, Klageentwurf oder Verteidigungslinie erstellen.
+6. Paragraf 1 GWB Kartellverbot nationale Prüfung: Markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | BGB Paragraf 705; HGB Paragraf 105; GmbHG Paragraf 13 |
-| Rechtsprechung | BGH, Urteil vom 29.01.2001 - II ZR 331/00; BGH, Urteil vom 04.07.2005 - II ZR 354/03 |
-| Tatbestand | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen |
-| Beweislast | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment |
-| Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| Normenanker | GWB Paragraf 1; GWB Paragraf 18 bis Paragraf 20; GWB Paragraf 33a |
+| Rechtsprechung | EuGH, Urteil vom 04.06.2009 - C-8/08; EuGH, Urteil vom 30.01.2020 - C-307/18 |
+| Tatbestand | Markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen |
+| Beweislast | Anspruchsteller oder Behörde für Markt, Abstimmung, Marktmacht und Schaden; Unternehmen für Effizienz, Rechtfertigung, Compliance und Einwendungen |
+| Rechtsfolge | Kartellschadensmatrix, Abstellungszusage, Bußgeldverteidigung, Compliance-Maßnahme, Klage oder Vergleich |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Paragraf 1 GWB Kartellverbot nationale Prüfung | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Paragraf 19a GWB überragende marktübergreifende Bedeutung | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Relative Marktmacht und Economic Dependence | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aeuv: Behörden-, Gerichts- oder Registerweg | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Algorithmic Collusion und algorithmische Systeme Pricing | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Alleinvertrieb Kundengruppen Gebietsschutz | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Paragraf 1 GWB Kartellverbot nationale Prüfung | Markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Paragraf 19a GWB überragende marktübergreifende Bedeutung | Markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Relative Marktmacht und Economic Dependence | Markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aeuv: Behörden-, Gerichts- oder Registerweg | Markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Algorithmic Collusion und algorithmische Systeme Pricing | Markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Alleinvertrieb Kundengruppen Gebietsschutz | Markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
-- HGB Paragraf 105: offene Handelsgesellschaft.
-- GmbHG Paragraf 13: Rechtsnatur der GmbH.
-- GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
+- GWB Paragraf 1: Kartellverbot.
+- GWB Paragraf 18 bis Paragraf 20: Marktbeherrschung, relative Marktmacht und Missbrauch.
+- GWB Paragraf 33a: Schadensersatz wegen Kartellrechtsverstoßes.
+- GWB Paragraf 81: Bußgeldvorschriften.
 - Paragraf 1 GWB Kartellverbot nationale Prüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB Paragrafen 1: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 101 AEUV (Kartellverbot): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 102 AEUV (Marktbeherrschung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1 GWB (Kartellverbot national): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
-- BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
+- EuGH, Urteil vom 04.06.2009 - C-8/08: T-Mobile Netherlands behandelt den Wettbewerbszweck abgestimmter Verhaltensweisen.
+- EuGH, Urteil vom 30.01.2020 - C-307/18: Generics grenzt potenziellen Wettbewerb und bezweckte Wettbewerbsbeschränkung bei Vergleichsvereinbarungen ab.
 - EuGH C-413/14 P (Intel, Treuerabatte)
 - EuGH C-67/13 P (Cartes Bancaires, bezweckte Beschränkung)
-- Bezweckte Beschraenkungen Art. 101 Abs. 1 AEUV nicht vorschnell annehmen; EuGH C-67/13 P Cartes Bancaires-Linie prüfen
 
 ## 7. Antwortform
 

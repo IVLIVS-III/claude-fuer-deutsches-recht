@@ -1,39 +1,40 @@
-# Megaprompt: leasingrecht-praxis
+# Vollprüfung: leasingrecht-praxis
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 117 Skills (gekuerzt fuer Chat-Fenster) des Plugins `leasingrecht-praxis`.
+Dieser Vollprüfung enthaelt top-8 von 117 Skills (gekuerzt fuer Chat-Fenster) des Plugins `leasingrecht-praxis`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt …
-2. **schieds-oder-gerichtsstand-leasing** — Streitbeilegung im Leasingrecht: Schiedsverfahren vs. staatliche Gerichte, Gerichtsstandsklausel, Verbraucherrecht, Medi…
-3. **leasing-in-sanierungsgutachten** — Leasing im Sanierungsgutachten: Behandlung von Leasingverbindlichkeiten in IDW S6-Gutachten, Fortführungsprognose, Leasi…
-4. **agb-klauseln-restwertgarantie** — AGB-Kontrolle im Leasingvertrag: Einbeziehung, Inhaltskontrolle nach §§ 305–310 BGB, BGH-Kernklauseln, Klauselkatalog fü…
-5. **leasingvertrag-redline-fuer-leasingnehmer** — Leasingvertrag-Redline aus Leasingnehmersicht: Problematische Klauseln identifizieren, Gegenentwürfe formulieren, Verhan…
-6. **konzernleasing-transfer-franchise** — Konzerninternes Leasing: Verrechnungspreise, § 1 AStG, BEPS-Aktionsplan, Fremdvergleichsgrundsatz, Dokumentationspflicht…
-7. **grenzueberschreitendes-leasing-unidroit-und-rechtswahl** — Grenzüberschreitendes Leasing: UNIDROIT-Übereinkommen, Rechtswahl (Rom I-VO), internationales Mobiliar-Leasingrecht, Ste…
-8. **lease-005-fahrzeugleasing-km-vertrag-restwert-rueckgabe** — Leasingrecht: Fahrzeugleasing Kilometervertrag Restwertvertrag Rückgabe mit geführtem Workflow, Normencheck, Beweis- und…
+1. **kaltstart-triage** — Wenn es um Kaltstart Triage in Leasingrecht Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten…
+2. **bewegliche-sachen-router** — Wenn es um Leasing von Netzwerkequipment: Router, Switches, Access Points in Leasingrecht Praxis geht: ordnet Sachverhal…
+3. **insolvenz-leasinggeber-eigentum-und-refinanzierung** — Wenn es um Insolvenz des Leasinggebers: Nutzungsrecht und Refinanzierung in Leasingrecht Praxis geht: ordnet Sachverhalt…
+4. **verbraucherbeweglich** — Wenn es um Verbraucherleasing beweglicher Sachen: Pflichten und Widerruf in Leasingrecht Praxis geht: ordnet Sachverhalt…
+5. **unternehmerleasing-gewaehrleistung** — Wenn es um Unternehmerleasing: Gewährleistung und Lieferantendurchgriff in Leasingrecht Praxis geht: ordnet Sachverhalt,…
+6. **flottenleasing-schaden-minderwert-und-gutachten** — Wenn es um Flottenleasing: Schadenmanagement und Minderwertabrechnung in Leasingrecht Praxis geht: ordnet Sachverhalt, N…
+7. **insolvenz-leasingnehmer-aussonderung-fortfuehrung** — Wenn es um Insolvenz des Leasingnehmers: Aussonderung und Fortführung in Leasingrecht Praxis geht: ordnet Sachverhalt, N…
+8. **leasingvertrag-redline-leasingnehmer** — Wenn es um Leasingvertrag-Redline: Anbieterperspektive (Leasinggeber) in Leasingrecht Praxis geht: ordnet Sachverhalt, N…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext ordnet der Skill das Material eigen..._
+_Wenn es um Kaltstart Triage in Leasingrecht Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Leasingrecht Praxis** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Schnellstart-Workflow
 
@@ -59,117 +60,11 @@ Tragende Anker: BGB §§ 535 ff., AGB-Kontrolle §§ 305 ff. BGB, HGB. Tatsächl
 
 ---
 
-## Skill: `schieds-oder-gerichtsstand-leasing`
+## Skill: `bewegliche-sachen-router`
 
-_Streitbeilegung im Leasingrecht: Schiedsverfahren vs. staatliche Gerichte, Gerichtsstandsklausel, Verbraucherrecht, Mediation und internationale Schiedsgerichte im Leasingrecht._
+_Wenn es um Leasing von Netzwerkequipment: Router, Switches, Access Points in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Schiedsverfahren und Gerichtsstand im Leasingrecht
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Gerichtsstandsklauseln
-
-### B2B (Unternehmensleasing)
-- § 38 ZPO: Gerichtsstandsvereinbarung zwischen Kaufleuten zulässig
-- Formerfordernis: Schriftlich oder in Textform (§ 40 ZPO analog)
-- Wirkung: Ausschließlicher oder nicht-ausschließlicher Gerichtsstand
-
-### B2C (Verbraucherleasing)
-- § 29c ZPO: Beim Verbraucher nur Gerichtsstand am Wohnort des Verbrauchers
-- Gerichtsstandsklauseln zulasten des Verbrauchers: AGB-widrig (§ 307 BGB)
-- Ausnahme: Vereinbarung nach Entstehung des Rechtsstreits (§ 38 III ZPO)
-
-### EU: EuGVO (VO 1215/2012)
-- Art. 7 EuGVO: Besonderer Gerichtsstand am Erfüllungsort
-- Art. 19 ff. EuGVO: Verbraucher hat besondere Schutzgerichtsstand (Wohnsitzland)
-- Gerichtsstandsklauseln gegen Verbraucher: Nur eingeschränkt zulässig (Art. 25 EuGVO)
-
-## Schiedsverfahren
-
-### Vorteile
-- Vertraulichkeit: Kein öffentliches Verfahren
-- Schnelligkeit: Flexible Verfahrensordnung
-- Internationale Vollstreckung: New Yorker Übereinkommen (1958) in 170+ Ländern
-- Spezialisierung: Branchenkundige Schiedsrichter
-
-### Nachteile
-- Kosten: Höher als staatliche Gerichte (Schiedsrichterhonorar)
-- Kein einstweiliger Rechtsschutz direkt (Schiedsgericht kann vorsorgliche Maßnahmen anordnen, aber staatliches Gericht vollstreckt)
-- Kein gesetzlicher Instanzenzug
-
-### Schiedsklausel (§ 1029 ZPO)
-Formerfordernis: Schriftliche Vereinbarung (§ 1031 ZPO); Textform bei Verbrauchern (§ 1031 V ZPO).
-
-Inhalt:
-- Schiedsgerichtsordnung (DIS, ICC, LCIA)
-- Schiedsort (maßgeblich für Anfechtungsverfahren)
-- Schiedsrichteranzahl (1 oder 3)
-- Schiedssprache
-
-### DIS-Schiedsregeln (Deutsche Institution für Schiedsgerichtsbarkeit)
-- Neue DIS-Regeln 2018
-- Expedited Proceedings: Schnellverfahren für Ansprüche bis 2 Mio. €
-
-### Verbraucher und Schiedsverfahren
-- § 1031 V ZPO: Bei Verbrauchern muss Schiedsklausel separat unterzeichnet sein
-- AGB-Einbeziehung reicht nicht; Überraschungsverbot (§ 305c BGB)
-- Schiedsklausel in B2C-AGB praktisch unwirksam
-
-## Mediation und ADR
-
-### Mediationsklausel
-- Vor Schiedsverfahren: Mediation (§ 36 VSBG: Verbraucherstreitbeilegungsgesetz)
-- Freiwillig; schnell; günstig
-
-### VSBG (Verbraucherstreitbeilegungsgesetz)
-- LG muss Verbraucher über Möglichkeit der außergerichtlichen Streitbeilegung informieren (§ 36 VSBG)
-- Keine Pflicht zur Teilnahme; aber Information ist Pflicht
-
-## Prüfprogramm
-
-1. B2B oder B2C? Verbraucher → eingeschränkte Gerichtsstandswahl
-2. Gerichtsstandsklausel: Wirksam nach § 38 ZPO oder AGB-widrig?
-3. Schiedsklausel: Formgültig (§ 1031 ZPO)? Verbraucher separat unterschrieben?
-4. Schiedsgericht gewählt: DIS, ICC oder ad hoc? Schiedsort?
-5. Einstweiliger Rechtsschutz: Staatliches Gericht parallel?
-6. VSBG-Information: Auf Webseite und in AGB erteilt?
-
-## Typische Fallen
-
-- Gerichtsstandsklausel gegen Verbraucher: AGB-widrig; staatliche Gerichte zuständig
-- Schiedsklausel in B2C-AGB ohne gesonderte Unterschrift: Unwirksam
-- Kein einstweiliger Rechtsschutz über Schiedsgericht vorgesehen: Verzögerung
-- VSBG-Informationspflicht verletzt: OLG-Urteile: Abmahnrisiko
-
-## Normen und Quellen
-
-- §§ 1029–1066 ZPO (Schiedsverfahren): https://www.gesetze-im-internet.de/zpo/__1029.html
-- § 38 ZPO (Gerichtsstandsvereinbarung): https://www.gesetze-im-internet.de/zpo/__38.html
-- EuGVO (VO 1215/2012): https://eur-lex.europa.eu
-- New Yorker Übereinkommen 1958: https://www.uncitral.org
-- VSBG (Verbraucherstreitbeilegungsgesetz): https://www.gesetze-im-internet.de/vsbg/
-- DIS-Schiedsregeln 2018: https://www.dis-arb.de
-
-## Output-Formate
-
-- **Schiedsklausel-Muster B2B**: DIS-Schiedsklausel für Leasingverträge
-- **Gerichtsstandsklausel-Muster B2B**: Ausschließlicher Gerichtsstand
-- **VSBG-Informationstext**: Pflichthinweis für LG-Website und AGB
-- **Mediationsklausel**: Stufenklausel (erst Mediation, dann Schiedsgericht)
-
----
-
-## Skill: `leasing-in-sanierungsgutachten`
-
-_Leasing im Sanierungsgutachten: Behandlung von Leasingverbindlichkeiten in IDW S6-Gutachten, Fortführungsprognose, Leasingkosten und Restrukturierungsmaßnahmen im Leasingrecht._
-
-# Leasing im Sanierungsgutachten (IDW S6)
+# Leasing von Netzwerkequipment: Router, Switches, Access Points
 
 ## Arbeitsweg
 
@@ -179,210 +74,98 @@ _Leasing im Sanierungsgutachten: Behandlung von Leasingverbindlichkeiten in IDW 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## IDW S6: Grundstruktur des Sanierungsgutachtens
+## Rechtliche Einordnung
 
-IDW S6 (Stand 2018) gliedert das Sanierungsgutachten in:
-1. Auftragsumfang und Grundlagen
-2. Beschreibung des Unternehmens
-3. Analyse der Unternehmenskrise (Ursachen)
-4. Leitbild des sanierten Unternehmens
-5. Maßnahmenplan
-6. Integrierter Sanierungsplan (GuV, Bilanz, Cashflow)
-7. Fortführungsprognose
+### Leasingobjekt: Bewegliche Sache
+- Router/Switches: Bewegliche körperliche Sache (§ 90 BGB)
+- Keine wesentlichen Bestandteile (§ 94 BGB): Einbau in Serverrack ist kein dauerhafter Einbau
+- § 95 BGB nicht relevant: Netzwerkequipment ist ohnehin beweglich
 
-## Leasingverhältnisse in der Krisenanalyse
+### Software auf Hardware
+- Embedded Software: Mit Hardware verkauft und lizenziert
+- Firmware-Updates: Pflicht des Herstellers, Pflicht des LN zur Installation?
+- Lizenz: Läuft Firmware-Lizenz mit Hardware-Leasing; endet mit Rückgabe
 
-### Leasingkosten als Krisenursache
-- Zu hohe Leasingverpflichtungen für Anlagegüter: Fixkostenblock in Krise
-- Operating-Lease-Kosten (bei HGB-Bilanzierer): Nicht in Bilanz, aber in GuV
-- IFRS 16 bilanzierende Unternehmen: Leasingverbindlichkeiten sichtbar in Bilanz
+## Abnahme und Konfiguration
 
-### Identifikation der Leasingverhältnisse
-- Vollständige Liste aller Leasingverträge (Anlage zum Gutachten)
-- Je Vertrag: Objekt, LG, Laufzeit, Rate, Restwert, Eigentümer
-- Off-Balance-Verpflichtungen: Im Anhang des Jahresabschlusses (§ 285 Nr. 3a HGB)?
+### Übergabe
+- Factory Default: Hardware wird unkonfiguriert geliefert
+- Konfiguration: Vom LN oder Dienstleister; Konfigurationsdaten = LN-Eigentum
+- Dokumentation: Konfigurationsplan, IP-Adressen, VLAN-Konfiguration
 
-## Leasingkostenanalyse im Sanierungsplan
+### Abnahmeprotokoll
+- Hardware-ID (Serial Number, MAC-Adresse)
+- Firmware-Version
+- Konfigurationsstatus (unkonfiguriert oder vorkonfiguriert)
 
-### Marktpreisvergleich
-- Sind die aktuellen Leasingraten marktüblich?
-- Wenn zu hoch (z.B. in Boomzeiten abgeschlossen): Neuverhandlung möglich?
+## Datenlöschung bei Rückgabe
 
-### Kündbarkeit und Exit-Optionen
-- Vorzeitige Kündigung: Schadensersatz nach BGH, Urteil vom 14.03.2007 - VIII ZR 68/06 (Abzinsungspflicht)
-- Sale-and-Lease-Back: Rückgabe und Neuleasing zu günstigeren Konditionen?
-- Rückgabe nicht mehr benötigter Anlagegüter: Fristige Kündigung bei Änderung des Leasinggegenstands
+### Konfigurationsdaten als personenbezogene Daten?
+- Router-Logs: IP-Adressen = personenbezogene Daten (EuGH C-582/14)
+- Konfigurationsdaten: Technisch, aber ggf. Rückschluss auf Netzwerkstruktur
+- DSGVO: Daten müssen vor Rückgabe gelöscht werden (Art. 5 I f DSGVO)
 
-### IFRS-16-Effekte
-- Leasingverbindlichkeit als Schuld: Zählmetriken für Kreditgeber (Debt/EBITDA)
-- Restrukturierungsmaßnahme: Vorzeitige Kündigung → Entschuldung (aber Schadensersatz)
+### Löschverfahren
+- Factory Reset: Stellt Auslieferungszustand her; löscht Konfiguration und Logs
+- Zertifizierte Datenlöschung: DIN 66399 als technischer Vernichtungs-/Schutzklassenstandard prüfen; ergänzend Lösch- und Nachweisprozess vertraglich festlegen.
+- Klausel im Leasingvertrag: „LN verpflichtet sich, vor Rückgabe einen Factory Reset durchzuführen und dies zu dokumentieren."
 
-## Fortführungsprognose: Leasingverpflichtungen
+## EOL (End of Life) und Sicherheitsrisiken
 
-### Cashflow-Projektion
-- Leasingraten im Plan-Cashflow erfassen
-- Endfällige Zahlungen (Restwert) besonders kritisch: Fälligkeitsprofil prüfen
+### Firmware-Support Ende
+- Wenn Firmware-Support endet während Leasinglaufzeit: Sicherheitslücken nicht gepatcht
+- LN-Pflicht: Sicherheitssoftware auf Unternehmensinfrastruktur aktuell halten (BSI Grundschutz)
+- Leasingvertrag: Klausel über Austausch bei EOL?
 
-### Sanierungsmaßnahmen mit Leasingbezug
-1. Kündigung von Verträgen für nicht mehr benötigte Objekte
-2. Ratenreduktion durch Verlängerung der Laufzeit
-3. Sale-and-Lease-Back für neue Liquidität
-4. Stundungsvereinbarungen mit LG
+### Schwachstellen-Management
+- CVE (Common Vulnerabilities and Exposures): Bekannte Schwachstellen in Router/Switch-Software
+- LN-Pflicht: Patches installieren; bei Zero-Day: ggf. Gerät aus dem Netz nehmen
 
-### Integrierter Plan
-- GuV: Leasingaufwand (HGB) oder Zins + AfA (IFRS 16)
-- Bilanz: IFRS 16 – RoU und Verbindlichkeiten
-- Cashflow: Leasingzahlungen als Operating-/Financing-Cashflow
+## Rückgabe: Technische und rechtliche Aspekte
 
-## Regulatorische Pflichten
+### Zurücksetzen auf Werkszustand
+- Factory Reset vor Rückgabe: Datenlöschung und Konfigurationsrückstellung
+- Nachweis: Screenshot oder Protokoll des Reset-Vorgangs
 
-### § 285 Nr. 3a HGB: Anhangspflicht
-Außerbilanzielle Verpflichtungen (incl. Operating-Leasing bei HGB) müssen im Anhang ausgewiesen werden, wenn wesentlich.
+### Bewertung des Zustands
+- Äußerer Zustand (Gehäuse, Ports): Normaler Verschleiß? Schäden?
+- Technischer Test: Alle Ports funktionsfähig? Firmware aktuell?
 
-### IFRS 16 Disclosure
-Detaillierte Angaben zu RoU, Leasingverbindlichkeiten, Laufzeiten und Cash-Auswirkungen.
+### Ersatz bei Defekt
+- Defekte Netzwerkkomponente: LN haftet (Gefahrtragung)
+- Ersatzbeschaffung zu aktuellen Marktpreisen
 
 ## Prüfprogramm
 
-1. Alle Leasingverträge identifiziert? Liste mit LG, Objekt, Rate, Laufzeit?
-2. Off-Balance-Verpflichtungen im Anhang § 285 HGB ausgewiesen?
-3. Leasingkosten im Marktvergleich: Angemessen oder zu hoch?
-4. Kündigungsoptionen: Vorzeitige Kündigung wirtschaftlich sinnvoll?
-5. Sale-and-Lease-Back möglich für neue Liquidität?
-6. Integrierter Plan: Leasingraten korrekt erfasst?
+1. Hardware vollständig (alle Geräte inkl. Kabel, Netzteile)?
+2. Konfigurationsdaten gelöscht (Factory Reset dokumentiert)?
+3. Firmware-Support: Noch aktiv? EOL-Datum bekannt?
+4. DSGVO: Router-Logs gelöscht? Art. 5 I f DSGVO erfüllt?
+5. Rückgabeprotokoll: Serial Numbers, MAC-Adressen erfasst?
+6. Schäden: Ports defekt, Gehäuse beschädigt?
 
 ## Typische Fallen
 
-- Off-Balance-Leasing vergessen → Cashflow-Plan unterschätzt Fixkostenblock
-- Vorzeitige Kündigung ohne Schadensersatzkalkulation → Liquiditätslücke
-- IFRS 16 Umstellung in Sanierungsphase → Bilanzkennzahlen verändern sich unerwartet
-- LG kooperiert nicht bei Stundung → Kündigung; Restforderung als InsO-Verbindlichkeit
+- Factory Reset vergessen → Konfigurationsdaten beim LG; DSGVO-Verstoß
+- Firmware EOL während Leasinglaufzeit → Sicherheitslücken; BSI-Compliance verletzt
+- Fehlende Abnahmedokumentation → unklar ob Defekt bei Übergabe oder danach entstanden
+- Zubehör (Kabel, Rackmounts) bei Rückgabe vergessen → Nachforderung
 
 ## Normen und Quellen
 
-- IDW S6 (Sanierungsgutachten): https://www.idw.de
-- § 285 Nr. 3a HGB (Anhang): https://www.gesetze-im-internet.de/hgb/__285.html
-- IFRS 16: https://eur-lex.europa.eu
-- §§ 217 ff. InsO (Insolvenzplan): https://www.gesetze-im-internet.de/inso/__217.html
-- BGH, Urteil vom 14.03.2007 - VIII ZR 68/06 (Schadensersatz Kündigung): https://www.bgh.de
-- § 3a EStG (Sanierungsgewinn): https://www.gesetze-im-internet.de/estg/__3a.html
+- § 90 BGB (körperliche Sache): https://dejure.org/gesetze/BGB/90.html
+- Art. 5 I f DSGVO (Datenschutz): https://eur-lex.europa.eu
+- EuGH C-582/14 (IP-Adresse als personenbezogenes Datum): https://eur-lex.europa.eu
+- DIN 66399 (Daten- und Datenträgervernichtung; Normquelle nicht bei Gesetze im Internet): https://www.dinmedia.de
+- BSI IT-Grundschutz: https://www.bsi.bund.de
+- BGH VIII ZR 71/93 (Gefahrtragung): https://www.bgh.de
 
 ## Output-Formate
 
-- **Leasingvertrags-Liste**: Format für Gutachten-Anlage
-- **Cashflow-Leasing**: Zahlungsplan alle Verträge (Rate, Restwert, Fälligkeit)
-- **Sanierungsmaßnahmen-Matrix**: Option – Effekt – Kosten – Zeitplan
-- **IFRS-16-vs-HGB-Vergleich**: Bilanzielle Darstellung im Plan
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `agb-klauseln-restwertgarantie`
-
-_AGB-Kontrolle im Leasingvertrag: Einbeziehung, Inhaltskontrolle nach §§ 305–310 BGB, BGH-Kernklauseln, Klauselkatalog für Verbraucher- und Unternehmerleasing im Leasingrecht._
-
-# AGB-Kontrolle im Leasingvertrag
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Rechtlicher Rahmen
-
-- § 305 BGB: Einbeziehungsvoraussetzungen
-- § 305c BGB: Überraschende und mehrdeutige Klauseln
-- § 307 BGB: Generalklausel (unangemessene Benachteiligung)
-- § 308 BGB: Klauselverbote mit Wertungsmöglichkeit
-- § 309 BGB: Klauselverbote ohne Wertungsmöglichkeit
-- § 310 BGB: Bereichsausnahmen (B2B, B2C)
-- §§ 506–509 BGB: Verbraucherleasing-Pflichtangaben
-
-## Einbeziehungskontrolle (§ 305 II BGB)
-
-Voraussetzungen für wirksame AGB-Einbeziehung:
-1. Ausdrücklicher Hinweis auf AGB bei Vertragsschluss (oder deutlich sichtbarer Aushang)
-2. Zumutbare Möglichkeit der Kenntnisnahme
-3. Einverständnis des Vertragspartners
-
-Bei Verbrauchern (B2C) strenge Anforderungen. Bei Unternehmern (B2B, § 310 I BGB) erleichterte Einbeziehung; §§ 308, 309 BGB gelten nicht direkt, wirken aber als Indizien für § 307 BGB.
-
-## Klauselkatalog
-
-### 1. Gefahrtragungsklausel
-**Typische Formulierung**: „Der Leasingnehmer trägt die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung des Leasingobjekts."
-
-**Bewertung**: BGH – wirksam bei Finanzierungsleasing (BGH VIII ZR 71/93), da LN wirtschaftlicher Eigentümer ist. Bei Operating-Lease und gegenüber Verbrauchern problematisch (§ 309 Nr. 12 BGB).
-
-### 2. Abtretungsklausel (Gewährleistung)
-**Typische Formulierung**: „Der Leasinggeber tritt alle Gewährleistungsansprüche gegen den Lieferanten an den Leasingnehmer ab. Eigene Ansprüche des Leasingnehmers gegen den Leasinggeber sind ausgeschlossen."
-
-**Bewertung**: Grundsätzlich wirksam, wenn die Abtretung tatsächlich erfolgt und LN klagebefugt wird. Unwirksam, wenn Abtretung ins Leere geht (Lieferant insolvent, Frist abgelaufen) und LN dann schutzlos steht (BGH, Urteil vom 13.11.2013 - VIII ZR 257/12).
-
-### 3. Kündigungsklausel bei Zahlungsverzug
-**Typische Formulierung**: „Der Leasinggeber kann bei Verzug mit mehr als einer Rate fristlos kündigen."
-
-**Bewertung**: Zulässig im B2B. Im B2C muss Abmahnung vorausgehen (§ 543 III BGB analog). Voraussetzung: Verzug muss erheblich sein (§ 543 II Nr. 3 BGB).
-
-### 4. Schadensersatzklausel nach Kündigung
-**Typische Formulierung**: „Bei vorzeitiger Vertragsbeendigung schuldet der Leasingnehmer sämtliche ausstehende Leasingraten bis Vertragsende abzüglich eines Abzinsungsbetrags."
-
-**Bewertung**: Zulässig als Schadensersatz (BGH, Urteil vom 14.03.2007 - VIII ZR 68/06), aber LN muss sich ersparte Aufwendungen und Verwertungserlös anrechnen lassen dürfen. Klauseln, die Anrechnung ausschließen, sind nach § 309 Nr. 5 BGB unwirksam.
-
-### 5. Restwerthaftung
-**Typische Formulierung**: „Unterschreitet der Verwertungserlös den kalkulierten Restwert, ist der Leasingnehmer zur Zahlung der Differenz verpflichtet."
-
-**Bewertung**: Restwertgarantien können wirksam sein, müssen aber klar und transparent formuliert sein (§ 307 Abs. 1 Satz 2 BGB). Als frei prüfbare Anker zur Verbraucherleasing-Restwertgarantie kommen BGH, Urteile vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 in Betracht; Mehrerlösfragen gesondert anhand Vertragsmodell und Abrechnung prüfen.
-
-### 6. Totalschadensklausel
-**Typische Formulierung**: „Bei Totalschaden oder Verlust sind die ausstehenden Raten sofort fällig; Versicherungsleistung ist anzurechnen."
-
-**Bewertung**: Grundsätzlich zulässig, aber Transparenz und angemessene Anrechnung der Versicherungsleistung erforderlich. Klauseln, die LN doppelt belasten (Raten + fehlende Versicherungsdeckung), sind unwirksam.
-
-### 7. Rückgabeklausel / Minderwert
-**Typische Formulierung**: „Das Leasingobjekt ist in einwandfreiem, gebrauchsüblichen Zustand zurückzugeben; Abweichungen werden dem Leasingnehmer berechnet."
-
-**Bewertung**: Zulässig; Verschleiß muss sich auf normale Abnutzung beschränken (BGH VIII ZR 172/05). Klauseln, die auch normale Abnutzung dem LN anlasten, sind nach § 307 unwirksam.
-
-## Prüfprogramm
-
-1. Einbeziehungstatbestand prüfen (§ 305 II BGB): Hinweis + Kenntnisnahme + Einverständnis
-2. Überraschende Klauseln identifizieren (§ 305c I BGB)
-3. Mehrdeutigkeitsregel anwenden (§ 305c II BGB): Unklarheiten gegen Verwender
-4. Für jede Kernklausel: Verbraucher oder Unternehmer? Katalogverbote (§§ 308, 309) oder Generalklausel (§ 307)?
-5. Rechtsfolge unwirksamer Klausel: Klausel fällt weg, gesetzliche Regelung tritt ein (§ 306 II BGB)
-
-## Typische Fallen
-
-- AGB nicht ordnungsgemäß einbezogen, weil nur auf Rückseite des Leasingscheins ohne Hinweis auf Vorderseite
-- Mehrdeutige Restwertklausel: Verwender (LG) trägt das Risiko der Auslegung
-- Schadensersatzklausel ohne Anrechnungsoption: nach § 309 Nr. 5 unwirksam
-- Abtretungsklausel fehlt: LN hat keine Mängelrechte gegen Lieferant
-
-## Normen und Quellen
-
-- §§ 305–310 BGB: https://dejure.org/gesetze/BGB/305.html
-- BGH VIII ZR 71/93 (Gefahrtragung Finanzierungsleasing): https://www.bgh.de
-- BGH, Urteil vom 13.11.2013 - VIII ZR 257/12 (Abtretungsklausel): https://www.bgh.de
-- BGH, Urteil vom 14.03.2007 - VIII ZR 68/06 (Schadensersatz nach Kündigung): https://www.bgh.de
-- BGH, Urteil vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 (Restwerthaftung): https://www.bgh.de
-- openjur.de AGB-Leasingrecht: https://openjur.de
-
-## Output-Formate
-
-- **Klauselmatrix**: Klausel – Norm – BGH-Bewertung – Wirksam/Unwirksam
-- **Redline-Empfehlung**: Geänderte Klauselfassung für AGB-Konformität
-- **Prüfbericht**: Klausel-für-Klausel-Analyse mit Handlungsempfehlung
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
+- **Abnahmeprotokoll Netzwerk**: Serial Number, Firmware, Konfiguration
+- **Datenlöschungs-Zertifikat**: Factory-Reset-Nachweis
+- **EOL-Management-Plan**: Firmware-Supportende, Austauschplanung
+- **Rückgabe-Checkliste Netzwerk**: Vollständigkeit, Zustand, Datenlöschung
 
 ## Normen und Rechtsprechung
 
@@ -411,109 +194,11 @@ Bei Verbrauchern (B2C) strenge Anforderungen. Bei Unternehmern (B2B, § 310 I BG
 
 ---
 
-## Skill: `leasingvertrag-redline-fuer-leasingnehmer`
+## Skill: `insolvenz-leasinggeber-eigentum-und-refinanzierung`
 
-_Leasingvertrag-Redline aus Leasingnehmersicht: Problematische Klauseln identifizieren, Gegenentwürfe formulieren, Verhandlungsstrategie und Risikoabsicherung im Leasingrecht._
+_Wenn es um Insolvenz des Leasinggebers: Nutzungsrecht und Refinanzierung in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Leasingvertrag-Redline: Leasingnehmerperspektive
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Red-Flag-Klauseln aus LN-Sicht
-
-### 1. Fehlende Mehrerlösklausel
-**Problem**: Restwertgarantie des LN ohne Beteiligung am Mehrerlös bei Verwertung über Restwert.
-**BGH-Anker:** Die Entscheidungen vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 betreffen die Wirksamkeit von Restwertgarantien im Verbraucherleasing. Ob eine fehlende Mehrerlösbeteiligung die konkrete Klausel angreifbar macht, ist gesondert anhand § 307 BGB, Vertragsmodell, Transparenz und Abrechnungspraxis zu prüfen.
-**Forderung des LN**: Ergänzung: „Übersteigt der Verwertungserlös den kalkulierten Restwert, erhält der LN mindestens 75 % des Mehrerlöses."
-
-### 2. Unbegrenzte Gefahrtragung
-**Problem**: LN trägt das Risiko auch bei unverschuldetem Untergang; keine GAP-Versicherung.
-**Risiko**: Totalschaden → LN zahlt Differenz zwischen Versicherung und offener Restschuld.
-**Forderung des LN**: „Im Fall des Totalschadens oder Diebstahls deckt die gemäß Vertrag abzuschließende GAP-Versicherung die verbleibende Forderung des LG; eine darüber hinausgehende Haftung des LN ist ausgeschlossen."
-
-### 3. Zu enge Rückgabekonditions-Definition
-**Problem**: „Einwandfreier Zustand" ohne Definition normaler Abnutzung → LG kann nahezu jeden Gebrauchsspuren als Minderwert abrechnen.
-**BGH VIII ZR 172/05**: Normale Abnutzung darf nicht dem LN angelastet werden.
-**Forderung des LN**: Klarer Katalog normaler Abnutzung (Beispiele, Toleranzgrenzen) ins Vertragswerk aufnehmen.
-
-### 4. Einseitige Kündigungsklausel
-**Problem**: LG kann bei jeder kleinen Verzögerung ohne Abmahnung kündigen.
-**AGB-Recht**: Bei Verbrauchern Abmahnung zwingend; bei Unternehmern kann unverhältnismäßige Klausel nach § 307 BGB unwirksam sein.
-**Forderung des LN**: Abmahnung mit 14-tägiger Nachfrist immer vor Kündigung.
-
-### 5. Überlange Nutzungsverantwortung
-**Problem**: LN haftet für alle Schäden durch Dritte, auch wenn LN keine Möglichkeit hatte, diesen zu verhindern.
-**Forderung des LN**: Beschränkung auf Schäden, die LN zu vertreten hat (§§ 276, 278 BGB).
-
-### 6. Fehlende Rückgabe-Besichtigungsklausel
-**Problem**: LG kann das Objekt nach Rückgabe besichtigen, ohne LN beizuziehen → einseitiges Gutachten.
-**Forderung des LN**: „Die Besichtigung des Leasingobjekts bei Rückgabe erfolgt gemeinsam mit dem LN. Ein Minderwertgutachten wird LN vorab zugestellt; LN hat 14 Tage Zeit für ein Gegengutachten."
-
-### 7. Fehlende Insolvenzregelung
-**Problem**: Vertrag schweigt zur Lage bei Insolvenz des LG.
-**Forderung des LN**: Klausel, dass bei Insolvenz des LG das Nutzungsrecht des LN fortbesteht (§ 566 BGB analog).
-
-## Verhandlungsstrategie
-
-### Prioritäten setzen
-1. Erstpriorität: Klauseln, die wirtschaftlich maximal schaden (Gefahrtragung, Restwert)
-2. Zweitpriorität: Klauseln, die Rechtsdurchsetzung erschweren (Gerichtsstand, Schiedsgericht)
-3. Drittpriorität: Formelle Verbesserungen (Protokollklauseln, Fristen)
-
-### Verhandlungstaktik
-- „Paket"-Tausch: LN gibt bei Restwertverpflichtung nach, wenn LG GAP-Versicherung stellt
-- Zeitdruck nutzen: LN hat Alternativangebote (konkurrierender LG)
-- Wirtschaftlichkeitsargument: Klare Kalkulation des Risikos durch LN
-
-## Risikoabsicherung für LN
-
-- GAP-Versicherung: Pflicht oder Option im Vertrag?
-- Betriebsunterbrechungsversicherung: Bei Maschinenleasing kritisch
-- Sachverständigenklausel: Gegengutachtenrecht bei Minderwertabrechnung
-- Sonderkündigungsrecht: Bei Insolvenz LN, betrieblichen Veränderungen, Force Majeure
-
-## Prüfprogramm
-
-1. Mehrerlösklausel bei Restwertgarantie? (Risikopunkt nach § 307 BGB, nicht schematisch als Pflicht behaupten)
-2. GAP-Versicherung oder Beschränkung der Haftung nach Totalschaden?
-3. Normaler Abnutzungs-Katalog definiert?
-4. Abmahnpflicht vor Kündigung? Bei Verbraucher zwingend
-5. Gemeinsame Rückgabebesichtigung und Gegengutachtenrecht?
-6. § 566 BGB-Analog-Klausel für Insolvenz LG?
-
-## Normen und Quellen
-
-- BGH, Urteil vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 (Restwertgarantie; Mehrerlösfragen gesondert live prüfen): https://www.bgh.de
-- BGH VIII ZR 172/05 (normale Abnutzung): https://www.bgh.de
-- BGH VIII ZR 71/93 (Gefahrtragung): https://www.bgh.de
-- § 566 BGB: https://dejure.org/gesetze/BGB/566.html
-- §§ 276, 278 BGB (Verschulden): https://dejure.org/gesetze/BGB/276.html
-- §§ 305–310 BGB: https://dejure.org/gesetze/BGB/305.html
-
-## Output-Formate
-
-- **Red-Flag-Liste**: 10 Klauseln die LN ablehnen oder ändern sollte
-- **Gegenentwurf-Formulierungen**: Fertige Redline-Texte
-- **Verhandlungsbrief**: LN fordert Änderungen mit Begründung
-- **Risikoabsicherungsplan**: Welche Versicherungen, welche Klauseln
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `konzernleasing-transfer-franchise`
-
-_Konzerninternes Leasing: Verrechnungspreise, § 1 AStG, BEPS-Aktionsplan, Fremdvergleichsgrundsatz, Dokumentationspflichten und länderbezogene Steuerrisiken im Leasingrecht._
-
-# Konzerninternes Leasing: Transfer Pricing und Verrechnungspreise
+# Insolvenz des Leasinggebers: Nutzungsrecht und Refinanzierung
 
 ## Arbeitsweg
 
@@ -525,97 +210,96 @@ _Konzerninternes Leasing: Verrechnungspreise, § 1 AStG, BEPS-Aktionsplan, Fremd
 
 ## Rechtlicher Rahmen
 
-- § 1 AStG (Einkünftekorrektur bei nahestehenden Personen): Fremdvergleich
-- §§ 1a–1e AStG: Dokumentationspflichten, Angemessenheitsnachweis
-- § 90 III AO, GAufzV: Aufzeichnungspflichten für Verrechnungspreise
-- Art. 9 OECD-Musterabkommen: Verbundene Unternehmen
-- BEPS-Aktionspläne 8–10 (OECD 2015): Gewinnkorrektur bei immateriellen Gütern und Dienstleistungen
-- EU ATAD-Richtlinien: Hybrids, CFC, Exit Taxation
+- § 108 I InsO: Miet-/Leasingvertrag über unbewegliche Sachen läuft fort
+- § 103 InsO: Wahlrecht Verwalter bei beweglichen Sachen
+- §§ 49 ff. InsO: Absonderungsrecht (Sicherungsübereignung des LG an Refinanzierer)
+- § 566 BGB: „Kauf bricht nicht Miete" – Übergang des Leasingvertrags bei Eigentumsübergang
+- §§ 398, 413 BGB: Abtretung der Leasingforderungen an Refinanzierer
 
-## Fremdvergleichsgrundsatz (§ 1 AStG)
+## Typische Refinanzierungsstruktur
 
-### Grundsatz
-Transaktionen zwischen nahestehenden Personen müssen zu Bedingungen erfolgen, wie sie fremde Dritte unter gleichen Umständen vereinbaren würden.
+### Refinanzierung durch Forderungsabtretung
+1. LG schließt Leasingvertrag mit LN
+2. LG tritt Leasingforderungen (Raten) an Refinanzierer ab (§ 398 BGB)
+3. LN zahlt direkt an Refinanzierer (§ 407 BGB: Schuldnerschutz)
+4. Bei Insolvenz LG: Refinanzierer hält Forderungen, LN zahlt weiter an Refinanzierer
 
-### Nahestehende Person (§ 1 II AStG)
-- Unmittelbare oder mittelbare Beteiligung ≥ 25 % oder beherrschender Einfluss
-- Gleiche Person oder Gesellschaft steht hinter beiden Transaktionspartnern
+### Sicherungsübereignung des Objekts
+1. LG übereignet das Leasingobjekt sicherungshalber an Refinanzierer (§§ 929, 930 BGB)
+2. Bei Insolvenz LG: Refinanzierer ist wirtschaftlicher Eigentümer
+3. Refinanzierer hat Absonderungsrecht (§ 51 Nr. 1 InsO) am Objekt
 
-### Verrechnungspreismethoden (OECD-Transfer Pricing Guidelines)
+**Problem für LN**: Refinanzierer (neuer Eigentümer) kann das Objekt nach § 47 InsO aussondern. LN verliert Nutzungsrecht?
 
-**1. Preisvergleichsmethode (CUP)**
-Vergleich mit Drittpreisen für gleichartige Leasingtransaktionen.
-- Ideal, aber selten exakt vergleichbar (Custom Terms)
+## § 108 InsO und § 566 BGB analog
 
-**2. Kostenaufschlagsmethode**
-Herstellungskosten (Anschaffungskosten + Finanzierung) + Marktübliche Marge
-- Geeignet für Routinetransaktionen (Routineleasing)
+### Analogie zu § 566 BGB
+„Kauf bricht nicht Miete": Bei Eigentumsübergang an einem vermieteten Objekt tritt der Erwerber in den Mietvertrag ein.
 
-**3. TNMM (Transactional Net Margin Method)**
-Vergleich der Nettomarge des Leasinggebers mit vergleichbaren Drittunternehmen.
+**Analogie auf Leasing**: Wenn Refinanzierer Eigentumsübergang durch Sicherungsübereignung vollzieht: Tritt er in den Leasingvertrag ein? OLG-Rspr. bejaht Analogie; BGH noch nicht abschließend entschieden.
 
-## Dokumentationspflichten (§ 90 III AO, GAufzV)
+**Folge der Analogie**: LN behält Nutzungsrecht gegen Weiterzahlung der Raten an den Refinanzierer (neuen Vertragspartner). Kündigung durch Refinanzierer nur unter den Voraussetzungen des Leasingvertrags.
 
-### Pflicht zur Aufzeichnung
-- Aufzeichnungen für alle Transaktionen mit nahestehenden Personen
-- Inhalt: Sachverhalt, angewandte Methode, Vergleichsdaten
-- Frist: Erstellung bei Abgabe der Steuererklärung; auf Anforderung innerhalb 60 Tage
+### § 108 InsO für bewegliches Leasing
+H.M.: § 108 InsO gilt nur für Immobilien; bei beweglichen Sachen § 103 InsO → Wahlrecht Verwalter. Wenn Verwalter Erfüllung wählt: Vertrag läuft fort als Masseverbindlichkeit.
 
-### Sanktionen bei Nichtdokumentation
-- § 162 III AO: Schätzungsbefugnis des Finanzamts
-- Zuschläge: 5–10 % der Einkunftskorrektur (§ 162 IV AO)
-- Außenprüfung: Besondere Prüfungsdichte bei konzerninternen Transaktionen
+## Schutz des Leasingnehmers
 
-## Konzernleasing: Strukturüberlegungen
+### Gutgläubiger Erwerb des Nutzungsrechts?
+- Nutzungsrecht des LN (Besitz) ist kein Recht, das gutgläubig erworben werden kann (§§ 932 ff. BGB: nur Eigentumsrecht)
+- LN hat Besitzrecht kraft Leasingvertrag; dieses erlischt mit Kündigung oder bei wirksamer Aussonderung
 
-### Intra-Konzern-Leasinggesellschaft (Captive Lessor)
-- Konzern gründet interne Leasinggesellschaft (oft in Niedrigsteuerland: Luxemburg, Irland, Niederlande)
-- Captive verleast an Konzerngesellschaften weltweit
-- Risiko: Verrechnungspreise müssen fremdvergleichskonform sein; Substanz im Sitzland
+### Praktischer Schutz: Due-Diligence vor Vertragsschluss
+- LN sollte vor Leasingvertragsschluss prüfen: Ist LG solide finanziert? Hat LG Refinanzierungspartner?
+- Im Vertrag: Klausel, dass LN bei Refinanziererwechsel informiert wird
+- KWG § 1 II Nr. 10: Finanzierungsleasinggesellschaft braucht BaFin-Erlaubnis → Aufsichtskontrolle
 
-### Zinsabzug und BEPS
-- BEPS Action 4: Zinsabzugsbeschränkungen (§ 4h EStG, § 8a KStG: Zinsschranke)
-- Konzernleasing mit hoher Verschuldung beim LN: Zinsen ggf. nicht abzugsfähig
+## Forderungsanmeldung des LN in der Insolvenz des LG
+
+- LN hat Ansprüche aus vorausgezahlten Raten (Bereicherungsrecht, § 812 BGB)
+- Anspruch auf Rückgabe von Sicherheitsleistungen/Depots
+- Schadensersatz bei schuldloser Kündigung?
 
 ## Prüfprogramm
 
-1. Liegt konzerninterne Leasing-Transaktion vor? Nahestehende Person (§ 1 II AStG)?
-2. Verrechnungspreismethode: CUP, Kostenaufschlag, TNMM?
-3. Dokumentation: GAufzV erfüllt? Aktuell und vollständig?
-4. Zinsschranke (§ 4h EStG): Leasingrate enthält Zinsanteil; Grenze prüfen?
-5. BEPS-Risiken: Substanz im Sitzland des LG? IP-Box-Regime?
-6. Länderrisiken: DBA, Quellensteuer, Exit Tax?
+1. Ist LG insolvent? Eröffnungsbeschluss und Verwalterbestellung prüfen
+2. Refinanzierungsstruktur: Wer hält die Leasingforderungen? Wer hat Eigentum am Objekt?
+3. § 108 InsO / § 566 BGB-Analogie: Gilt das Nutzungsrecht fort?
+4. KWG-Erlaubnis des LG: Bestand? Widerruf durch BaFin?
+5. LN: Klare Zahlungspflicht an Refinanzierer oder Verwalter?
+6. Anmeldung von Gegenforderungen des LN (vorausgezahlte Raten, Kaution)
 
 ## Typische Fallen
 
-- Verrechnungspreise ohne Dokumentation → Schätzungsbefugnis des FA
-- Captive Lessor ohne wirtschaftliche Substanz → BEPS-Angriff; Einkünfteverlagerung nicht anerkannt
-- Zinsanteil in Leasingrate übersehen → § 4h EStG-Prüfung notwendig
-- DBA-Quellensteuer nicht berücksichtigt → Effektive Rate höher als geplant
+- LN zahlt weiterhin an insolventen LG statt an Refinanzierer → Doppelzahlung möglich
+- § 566 BGB-Analogie nicht beachtet → LN verliert Nutzungsrecht unnötigerweise
+- KWG-Erlaubniswiderruf: Betrieb des LG eingestellt → Vertrag faktisch beendet, bevor InsO eröffnet
+- Sicherheitsleistung beim insolventen LG verloren; keine Anmeldung als Forderung
 
 ## Normen und Quellen
 
-- § 1 AStG (Fremdvergleich): https://www.gesetze-im-internet.de/astg/__1.html
-- § 90 III AO (Aufzeichnungspflichten): https://www.gesetze-im-internet.de/ao_1977/__90.html
-- GAufzV (Aufzeichnungsverordnung Verrechnungspreise): https://www.gesetze-im-internet.de/aufzv/
-- § 4h EStG (Zinsschranke): https://www.gesetze-im-internet.de/estg/__4h.html
-- OECD Transfer Pricing Guidelines 2022: https://www.oecd.org
-- BEPS-Aktionspläne 8-10: https://www.oecd.org
+- § 108 InsO: https://www.gesetze-im-internet.de/inso/__108.html
+- § 103 InsO: https://www.gesetze-im-internet.de/inso/__103.html
+- § 566 BGB (Kauf bricht nicht Miete): https://dejure.org/gesetze/BGB/566.html
+- §§ 49–51 InsO (Absonderung): https://www.gesetze-im-internet.de/inso/__49.html
+- KWG § 1 II Nr. 10 (Finanzierungsleasing): https://www.gesetze-im-internet.de/kredwg/__1.html
+- KWG § 32 (Erlaubnispflicht): https://www.gesetze-im-internet.de/kredwg/__32.html
+- BGH XII ZR 18/08: https://www.bgh.de
 
 ## Output-Formate
 
-- **Verrechnungspreis-Dokumentation**: Vorlage für konzerninterne Leasingtransaktion
-- **Methoden-Auswahl-Matrix**: CUP / Kostenaufschlag / TNMM – Eignung nach Transaktionsart
-- **Zinsschranken-Memo**: Leasingrate, Zinsanteil, § 4h EStG-Prüfung
-- **BEPS-Risikoeinschätzung**: Captive Lessor – Substanz, Verrechnungspreise, Quellensteuer
+- **Sofortmaßnahmen-Plan**: LN bei Insolvenz des LG
+- **Refinanzierungsstruktur-Diagramm**: LG, LN, Refinanzierer, Eigentum, Forderungen
+- **Forderungsanmeldungs-Vorlage**: LN gegen InsO-Masse des LG
+- **Checkliste**: § 566 BGB-Analogie – gilt Nutzungsrecht fort?
 
 ---
 
-## Skill: `grenzueberschreitendes-leasing-unidroit-und-rechtswahl`
+## Skill: `verbraucherbeweglich`
 
-_Grenzüberschreitendes Leasing: UNIDROIT-Übereinkommen, Rechtswahl (Rom I-VO), internationales Mobiliar-Leasingrecht, Steuerstrukturierung und Valutafragen im Leasingrecht._
+_Wenn es um Verbraucherleasing beweglicher Sachen: Pflichten und Widerruf in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Grenzüberschreitendes Leasing: UNIDROIT und Rechtswahl
+# Verbraucherleasing beweglicher Sachen: Pflichten und Widerruf
 
 ## Arbeitsweg
 
@@ -625,150 +309,568 @@ _Grenzüberschreitendes Leasing: UNIDROIT-Übereinkommen, Rechtswahl (Rom I-VO),
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## UNIDROIT-Übereinkommen über internationales Finanzierungsleasing (Ottawa, 1988)
+## Anwendungsbereich
 
-### Anwendungsbereich
-- UNIDROIT-Übereinkommen: Gilt für Finanzierungsleasing, wenn LG und LN in verschiedenen Vertragsstaaten ansässig sind
-- Deutschland ist kein Vertragsstaat → gilt nur, wenn Parteien Recht eines Vertragsstaats gewählt haben (z.B. England bis Brexit, Frankreich, USA/einzelne Staaten)
-- Regelt: Rechte und Pflichten aus Leasingdreieck (Lieferant, LG, LN)
+### § 506 BGB: Entgeltliche Finanzierungshilfe
+- Verbraucher (§ 13 BGB): Natürliche Person außerhalb gewerblicher/beruflicher Tätigkeit
+- Entgeltlich: Gegen Zahlung von Leasingraten
+- Bewegliche Sachen: Kfz, Haushaltsgeräte, IT-Equipment, Möbel, Sportgeräte
 
-### Kernregeln UNIDROIT
-- Art. 8: LN kann Ansprüche gegen Lieferant direkt geltend machen (wie §398 BGB)
-- Art. 10: LN trägt Gefahrübergang wie Käufer
-- Art. 13: Kündigung bei Nichterfüllung; Schadensersatz
+### Nicht erfasst
+- Kurzfristige Mietverträge ohne Amortisationsstruktur (z.B. Mietauto für 3 Tage)
+- B2B-Verträge: § 506 BGB nicht anwendbar
+- Immobilien: Spezialnormen gelten
 
-## Rechtswahl nach Rom I-VO (EG 593/2008)
+## Pflichtangaben § 506 III BGB: Vollständige Liste
 
-### Grundsatz: Freie Rechtswahl (Art. 3 Rom I-VO)
-- Parteien können das anwendbare Recht frei wählen
-- Empfehlung für internationale Leasingverträge: Wahl des Rechts eines Landes mit gut entwickeltem Leasingrecht (England/New York für Finanzierungs-Leasing; Deutschland für EU-Vertragspartner)
+1. **Art des Leasingvertrags** (Finanzierungsleasing / Operating-Lease klar bezeichnen)
+2. **Name und Anschrift des Leasinggebers**
+3. **Anschaffungspreis** des Leasingobjekts
+4. **Gesamtbetrag aller Zahlungen** des Verbrauchers (Raten + Sonderzahlung + Restwert wenn geschuldet)
+5. **Laufzeit** des Vertrags
+6. **Betrag, Anzahl und Fälligkeit** der einzelnen Raten
+7. **Effektiver Jahreszins** (§ 6 PAngV, Annuitätenmethode)
+8. **Gesamtkosten** (Gesamtbetrag abzgl. Anschaffungspreis = Finanzierungskosten)
+9. **Widerrufsrecht**: Hinweis auf Widerrufsfrist und Widerrufsfolgen
+10. **Restwert/Restwertgarantie** (falls vereinbart)
+11. **Sonstige Kosten**: Versicherung, Wartung wenn im Vertrag enthalten
 
-### Einschränkungen
-- Verbraucher: Art. 6 Rom I-VO: Schutzrecht des Verbrauchers aus seinem Heimatland kann nicht abbedungen werden
-- Zwingende Bestimmungen: Bestimmte Schutznormen (Verbraucherrecht, Arbeitsrecht) bleiben trotz Rechtswahl anwendbar (Art. 9 Rom I-VO)
+## Fehlerfolgen bei fehlenden Pflichtangaben (§ 494 BGB)
 
-### Anwendbares Recht ohne Rechtswahl (Art. 4 Rom I-VO)
-- Leasingvertrag = Dienstleistungsvertrag → Recht des charakteristischen Leistungserbringers (LG) gilt
-- LG in Deutschland → deutsches Recht anwendbar
+| Fehlende Angabe | Rechtsfolge |
+|---|---|
+| Kein Effektivzins | Vertrag gilt mit gesetzlichem Zinssatz |
+| Kein Gesamtbetrag | Vertrag gilt, aber Gesamtbetrag = Anschaffungspreis |
+| Keine Laufzeit | Vertrag auf 12 Monate beschränkt |
+| Kein Widerrufshinweis | Widerrufsfrist läuft nicht ab (max. 1 Jahr 14 Tage) |
+| Keine Raten-Angabe | Vertrag schwebend unwirksam bis Heilung |
 
-## Internationaler Zahlungsverkehr
+## Widerrufsrecht: Details
 
-### Währungsrisiko
-- Leasingrate in Fremdwährung (z.B. USD): LN trägt Währungsrisiko
-- Absicherung: Devisentermingeschäfte, Währungsklausel im Vertrag
+### Frist und Auslöser
+- Standard: 14 Tage ab Vertragsschluss (§ 355 I BGB)
+- Verlängerung: Wenn Widerrufsinformation nicht korrekt (Anlage 7 EGBGB-Format) → Widerruf weiter möglich
+- Maximum: 12 Monate + 14 Tage (§ 356b III BGB)
 
-### Steuerstrukturierung: Cross-Border-Leasing
+### Ordnungsgemäße Widerrufsinformation
+- Format: Anlage 7 zu Art. 247 § 6 EGBGB (Muster-Widerrufsinformation)
+- Abweichungen vom Muster → Belehrung gilt nicht als ordnungsgemäß
+- Aktuelles Muster verwenden: Änderungen durch Gesetzgeber beachten
 
-#### Typische Struktur
-- LG in Niedrigsteuerland (z.B. Irland für Flugzeuge, Luxemburg für Finanzinstrumente)
-- LN in Hochsteuerland: Leasingraten als Betriebsausgabe
-- LG nutzt günstige Steuerregime; Steuervorteil geteilt
+### Widerrufsfolgen
+- Rückgabe des Leasingobjekts durch Verbraucher
+- LG erstattet alle Zahlungen (Raten, Anzahlung)
+- Wertersatz: Verbraucher schuldet Wertersatz für tatsächliche Nutzung (§ 357 VII BGB)
+- Kein Restwert: Restwertgarantie entfällt
 
-#### Risiken
-- Doppelbesteuerungsabkommen (DBA): Quellensteuer auf Leasingraten?
-- BEPS (Base Erosion and Profit Shifting, OECD): Anti-Gestaltungs-Regeln; Country-by-Country-Reporting
-- § 8b KStG, §§ 1 ff. AStG: Verrechnungspreise bei Konzernleasing
+## Musterfälle
 
-### Zollrecht
-- Grenzüberschreitende Verbringung von Leasingobjekten: Zollanmeldung erforderlich
-- ATA-Carnet: Temporäre Einfuhr ohne Zoll (für Ausstellungen, vorübergehende Nutzung)
-- Bei Finanzierungsleasing: Zoll auf Einfuhrwert bei Gestellung im Geltungsgebiet
+### Fall 1: Fehlendes Widerrufshinweis
+LN least Kfz; Vertrag enthält keinen Widerrufshinweis. 2 Jahre nach Vertragsschluss widerruft LN.
+→ Widerruf wirksam (Frist nie angelaufen); Rückabwicklung; LN muss Wertersatz für 2 Jahre Nutzung zahlen; keine Restwertpflicht.
 
-## Insolvenz: Grenzüberschreitend
+### Fall 2: Falscher Effektivzins
+Effektivzins im Vertrag falsch angegeben (1,9 % statt korrekt 3,2 %).
+→ § 494 II BGB: Vertrag gilt mit gesetzlichem Zinssatz (aktuell § 246 BGB: 4 % oder Basiszinssatz + 5 PP); LN schuldet niedrigere Rate.
 
-- EuInsVO (EG 2015/848): Hauptinsolvenzverfahren am Ort des COMI (Centre of Main Interests)
-- Anerkennungspflicht in EU-Staaten
-- Drittstaaten-Insolvenz: Anerkennung nach § 343 InsO
+### Fall 3: Widerruf nach Insolvenz LG
+LG insolvent; LN will widerrufen.
+→ Widerruf gegen InsO-Verwalter; Rückabwicklung aus Insolvenzmasse; Quotensituation für LN oft schlecht.
+
+## Fernabsatz-Leasing
+
+- Vertragsschluss per Telefon, Internet: §§ 312a ff. BGB zusätzlich
+- Widerrufsrecht für Fernabsatz: 14 Tage ab Vertragsschluss (§ 356 BGB)
+- Informationspflichten: Identität des LG, Gesamtpreis, Widerruf
 
 ## Prüfprogramm
 
-1. Wo sind LG und LN ansässig? UNIDROIT anwendbar?
-2. Rechtswahlklausel: Welches Recht, warum?
-3. Verbraucherleasing: Art. 6 Rom I-VO – Heimatrecht des Verbrauchers beachtet?
-4. Währungsrisiko: Absicherung vereinbart?
-5. Steuerstruktur: DBA-Quellensteuer? BEPS-Risiken?
-6. Zollrecht: Einfuhr, temporäre Verbringung, ATA-Carnet?
+1. Verbraucher (§ 13 BGB)? Bewegliche Sache?
+2. Alle 11 Pflichtangaben § 506 III BGB vorhanden?
+3. Widerrufsinformation nach Anlage 7 EGBGB aktuell und korrekt?
+4. Widerrufsfrist: Noch laufend? Belehrung fehlerhaft?
+5. Fehlerfolge § 494 BGB: Welche Angabe fehlt? Rechtsfolge?
+6. Fernabsatz: Zusätzliche §§ 312 ff. BGB-Anforderungen?
 
 ## Typische Fallen
 
-- Keine Rechtswahlklausel → Recht des LG-Landes gilt (möglicherweise unbekanntes Recht)
-- Verbraucher im Ausland: Heimatrecht schützt ihn stärker → AGB des LG unwirksam
-- Quellensteuer auf Leasingraten nicht eingeplant → Renditeminderung
-- ATA-Carnet abgelaufen: Leasingobjekt im Ausland → Zollrisiko
+- Veraltetes Widerrufsformular → Widerruf 3 Jahre nach Vertragsschluss noch möglich
+- Effektivzins fehlt → LN schuldet nur gesetzlichen Zins; erhebliche Einnahmeverluste
+- Restwertgarantie ohne gesonderte Pflichtangabe → Klausel nichtig; kein Restwert
+- Fernabsatz: Widerruf auch wenn LN das Fahrzeug bereits nutzt → Nutzungswert als Wertersatz
 
 ## Normen und Quellen
 
-- UNIDROIT Ottawa Convention 1988: https://www.unidroit.org
-- Rom I-VO (EG 593/2008): https://eur-lex.europa.eu
-- EuInsVO (EG 2015/848): https://eur-lex.europa.eu
-- BEPS-Aktionsplan (OECD): https://www.oecd.org
-- § 343 InsO (Ausländisches Insolvenzverfahren): https://www.gesetze-im-internet.de/inso/__343.html
-- ATA-Carnet: https://www.ihk.de
+- §§ 506–509 BGB: https://dejure.org/gesetze/BGB/506.html
+- § 494 BGB (Fehlerfolge): https://dejure.org/gesetze/BGB/494.html
+- §§ 355–361 BGB (Widerruf): https://dejure.org/gesetze/BGB/355.html
+- Art. 247 EGBGB (Informationspflichten): https://www.gesetze-im-internet.de/egbgb/art_247.html
+- §§ 312 ff. BGB (Fernabsatz): https://dejure.org/gesetze/BGB/312.html
+- BGH XI ZR 59/17 (Widerruf Leasingvertrag): https://www.bgh.de
+- § 6 PAngV: https://www.gesetze-im-internet.de/pangv/__6.html
 
 ## Output-Formate
 
-- **Rechtswahl-Klausel-Muster**: Für internationale Leasingverträge
-- **DBA-Quellensteuer-Matrix**: Ländervergleich für typische Leasingstruktur
-- **Zoll-Checkliste**: Grenzüberschreitende Verbringung von Leasingobjekten
-- **BEPS-Risikobewertung**: Konzernleasing und Verrechnungspreise
+- **Pflichtangaben-Prüf-Checkliste**: Alle 11 Punkte § 506 III BGB
+- **Widerrufsinformation-Muster**: Aktuelle Anlage 7 EGBGB
+- **Fehlerfolgen-Tabelle**: Fehlende Angabe → Rechtsfolge § 494 BGB
+- **Widerrufserklärung**: Muster für Verbraucher (Textform)
 
 ---
 
-## Skill: `lease-005-fahrzeugleasing-km-vertrag-restwert-rueckgabe`
+## Skill: `unternehmerleasing-gewaehrleistung`
 
-_Leasingrecht: Fahrzeugleasing Kilometervertrag Restwertvertrag Rückgabe mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis._
+_Wenn es um Unternehmerleasing: Gewährleistung und Lieferantendurchgriff in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Leasingrecht: Fahrzeugleasing Kilometervertrag Restwertvertrag Rückgabe
+# Unternehmerleasing: Gewährleistung und Lieferantendurchgriff
 
-## Aufgabe
+## Arbeitsweg
 
-Dieser Skill bearbeitet **Fahrzeugleasing Kilometervertrag Restwertvertrag Rückgabe** im Bereich **Leasingrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Kaltstart in 6 Fragen
+## Dreiecksstruktur und Abtretungskonstruktion
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Standardkonstruktion
+1. LG schließt Kaufvertrag mit Lieferant
+2. LG tritt Gewährleistungsansprüche gegen Lieferant an LN ab (§ 398 BGB)
+3. LN kann direkt gegen Lieferant klagen (Sachmängelansprüche, §§ 437 ff. BGB)
+4. LN hat keine Gewährleistungsansprüche gegen LG
+
+### BGH, Urteil vom 13.11.2013 - VIII ZR 257/12
+Die Abtretungskonstruktion ist wirksam und typisch für das Finanzierungsleasing. Der Ausschluss der Gewährleistung des LG ist AGB-rechtlich zulässig, **wenn** die Abtretung tatsächlich erfolgt und LN klagebefugt ist.
+
+**Unwirksam**: AGB-Klausel schließt LG-Gewährleistung aus, aber Abtretung an LN erfolgt nicht oder geht ins Leere (z.B. Lieferant insolvent). Dann: LG haftet nach § 307 BGB.
+
+## HGB-Rügeobliegenheit (§ 377 HGB)
+
+Wenn LN Kaufmann ist (§§ 1 ff. HGB), gilt für den Kaufvertrag zwischen LG und Lieferant die Rügeobliegenheit des § 377 HGB. **Wichtig**: LN steht dem Kaufvertrag als Dritter gegenüber; die Rügeobliegenheit trifft zunächst den LG.
+
+**Praxis-Problem**: LG nimmt das Objekt nicht selbst in Empfang; es wird direkt an LN geliefert. Rügeobliegenheit: Wer muss rügen – LG oder LN?
+
+**Lösung durch vertragliche Regelung**: Im Leasingvertrag wird LN zur Untersuchung und Rüge an Stelle des LG verpflichtet. BGH: Solche Klauseln sind zulässig.
+
+Fristen:
+- Sofort erkennbare Mängel: Unverzügliche Rüge (§ 377 I HGB), d.h. innerhalb weniger Werktage
+- Verborgende Mängel: Unverzüglich nach Entdeckung
+- Unterlassene Rüge: Genehmigung der Ware gilt als erteilt; Mängelansprüche verloren
+
+## AGB im Unternehmerleasing
+
+### Erleichterter AGB-Maßstab (§ 310 I BGB)
+Im B2B-Bereich gelten §§ 308, 309 BGB nicht direkt. Trotzdem:
+- § 307 BGB (Generalklausel) gilt
+- BGH nutzt §§ 308, 309 BGB als Indizien für § 307-Bewertung
+
+### Typische AGB-Klauseln B2B-Leasing
+- Gefahrtragungsklausel: Wirksam (LN trägt Zufall-Untergangsrisiko)
+- Abtretungsklausel: Wirksam, wenn Abtretung tatsächlich vollzogen
+- Restwertgarantie: Im Unternehmerleasing regelmäßig mehr Gestaltungsspielraum als im Verbraucherleasing, aber Transparenz, Verwertungserlös, Mehrerlösbeteiligung und § 307 BGB gesondert prüfen.
+- Kündigungsklausel: Weiter als B2C; kein Abmahnungserfordernis gesetzlich, aber Treu und Glauben
+
+## Mangel am Leasingobjekt: Prozessuale Situation
+
+### LN klagt gegen Lieferant
+- Zuständigkeit: Allgemeiner Gerichtsstand (§ 12 ZPO) oder Erfüllungsort (§ 29 ZPO)
+- Klagearten: Nacherfüllung (§ 439 BGB), Rücktritt (§ 440 BGB), Schadensersatz (§ 440 BGB)
+- LG muss Abtretung belegen; LN muss Kaufpreis-/Leasingvertrag vorlegen
+
+### Parallele Leasingratenpflicht
+- LN muss Leasingraten weiterhin zahlen auch wenn er Mängelansprüche gegen Lieferant verfolgt
+- Ausnahme: Berechtigte Verweigerung der Abnahme (Objekt noch nicht abgenommen)
+- Streitig: Kann LN Raten zurückhalten bei erheblichem Mangel? BGH tendenziell nein.
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Vertragsart, Objekt, Zahlungsstrom und Eigentum zuerst klären
-- AGB, Gewährleistung, Insolvenz und Steuer zusammen prüfen
-- Rückgabe, Verwertung und Beweis dokumentieren
-- Bei Rechtsprechung nur verifizierte Aktenzeichen und freie Quelle
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. Abtretungsklausel im Leasingvertrag vorhanden? Abtretung vollzogen?
+2. Lieferant noch existent und solvent? (Ansonsten: LG haftet)
+3. Rügeobliegenheit § 377 HGB: Wer muss rügen, bis wann?
+4. Mängel sofort erkennbar oder verborgen? Fristen beachten
+5. Klagbarkeit gegen Lieferant: Kaufvertrag als Klägergrundlage vorhanden?
+6. Leasingraten-Fortführung trotz Mängel: Insolvenzrisiko LN?
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Rügeobliegenheit nach § 377 HGB versäumt → alle Mängelansprüche verwirkt
+- Lieferant insolvent → LG-Haftung, wenn Abtretungsklausel ins Leere läuft
+- Keine Abtretungsklausel → LN hat keine direkten Rechte gegen Lieferant
+- LN hält Raten zurück (fälschlicherweise): LG kündigt Vertrag
 
-## Output
+## Normen und Quellen
 
-- Leasingmemo
-- Vertragsredline
-- Rückgabeprotokoll
-- Insolvenzmatrix
-- Stundungsentwurf
-- Portfolio-Dashboard
+- § 398 BGB (Abtretung): https://dejure.org/gesetze/BGB/398.html
+- §§ 437–442 BGB (Sachmängelansprüche): https://dejure.org/gesetze/BGB/437.html
+- § 377 HGB (Rügeobliegenheit): https://www.gesetze-im-internet.de/hgb/__377.html
+- § 307 BGB (AGB-Generalklausel): https://dejure.org/gesetze/BGB/307.html
+- BGH, Urteil vom 13.11.2013 - VIII ZR 257/12 (Abtretungskonstruktion): https://www.bgh.de
+- HGB §§ 343 ff.: https://www.gesetze-im-internet.de/hgb/__343.html
+
+## Output-Formate
+
+- **Rüge-Checkliste**: § 377 HGB im Leasingdreieck; Fristen, Formen
+- **Abtretungsklausel-Bewertung**: Wirksam/Unwirksam nach AGB-Recht
+- **Muster-Mängelrüge**: LN an Lieferant (abgetretener Anspruch)
+- **Prozessübersicht**: LN vs. Lieferant – Beweislast, Klagegründe
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `flottenleasing-schaden-minderwert-und-gutachten`
+
+_Wenn es um Flottenleasing: Schadenmanagement und Minderwertabrechnung in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Flottenleasing: Schadenmanagement und Minderwertabrechnung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Rechtlicher Rahmen
+
+Flottenleasing ist zivilrechtlich eine Mehrzahl von Einzelleasingverträgen, oft verbunden durch einen **Rahmenvertrag** (Master Lease Agreement). Rechtliche Besonderheiten:
+
+- §§ 535 ff. BGB (Mietrecht analog) für jeden Einzelvertrag
+- § 305 ff. BGB: AGB-Kontrolle gilt für Flottenvertrag; bei Unternehmern (§ 310 I BGB) erleichtert
+- §§ 398, 433 BGB: Dreiecksstruktur Lieferant/LG/Flottenleasingnehmer
+- Schadensrecht: §§ 249 ff. BGB, §§ 7 ff. StVG (Kfz-Haftpflicht)
+- HGB §§ 343 ff. bei gewerblichem Flottenleasing (handelsrechtliche Grundsätze)
+
+## Flottenvertrag: Besondere Klauseln
+
+### Rahmenvertrag (Master Lease Agreement)
+- Mengengerüst (Mindest-/Höchstflottengröße)
+- Standardkonditionen (Zinssatz, Restwertkalkulation, Service)
+- Aufrufverfahren für Einzelfahrzeuge (Call-off Prozess)
+- Flottenrabatte (Volumenbonus)
+
+### Fahrerschulden und Regressklausel
+- Wer haftet bei Fahrerunfall: LN als Arbeitgeber oder Fahrer direkt?
+- § 276 BGB: Verschuldensmaßstab für Fahrer
+- Arbeitgeberhaftung für Arbeitnehmer (§ 278 BGB) ggü. LG; Regressmöglichkeit gegen Fahrer beschränkt durch BAG-Rechtsprechung zum innerbetrieblichen Schadensausgleich
+
+### Übergabe und Rückgabe bei Flotten
+- Sammelrückgabe: Koordination über Flottenbetreuer
+- Rückgabeprotokoll: DEKRA/TÜV-Sammelbegutachtung möglich
+- Verjährung der Minderwertansprüche: § 548 BGB (6 Monate nach Rückgabe)
+
+## Schadenmanagement-Prozess
+
+### Schadenmeldeprozess
+1. Schadenmeldung durch Fahrer an Flottenmanager
+2. Werkstatt-Einsteuerung (Netzwerkwerkstatt vs. freie Werkstatt)
+3. Gutachten (Reparaturkostenschätzung, Restwert)
+4. Freigabe durch LG oder Full-Service-Partner
+5. Reparaturdokumentation
+
+### Full-Service-Leasing
+Wenn Flottenvertrag Full-Service umfasst (Wartung, Reifen, Schäden):
+- LG übernimmt Schadensabwicklung direkt
+- LN zahlt Pauschale (inkl. Schadensbudget)
+- Vorteil: Kein Abrechnungsstreit bei Rückgabe
+- Risiko: Pauschale zu hoch kalkuliert
+
+### Minderwert bei Flotten
+- BGH VIII ZR 172/05: Maßstab normale Abnutzung gilt auch für Flottenfahrzeuge
+- Flotten-Rückgabe: Serienweise Begutachtung erhöht Fehlerrisiko
+- Empfehlung: LN-seitiger Gegengutachter bei Sammelrückgaben
+
+## Regressklärung nach Rückgabe
+
+### Fahrerkarte und Zuordnung
+- Bei Flotte: Welcher Fahrer hatte das Fahrzeug zum Schadenzeitpunkt?
+- Telematiksysteme können Fahrerzuordnung liefern
+- Datenschutz: Nutzung von Telematikdaten für Regresszwecke beachten (DSGVO, § 26 BDSG)
+
+### Selbstbehalt-Klauseln
+- Viele Flottenverträge enthalten Selbstbehalt pro Schadenfall (z.B. 500–1.500 €)
+- LN zahlt Selbstbehalt; darüber hinaus LG/Versicherung
+- Selbstbehalt-Regelung muss in AGB klar und transparent formuliert sein (§ 307 BGB)
+
+## Prüfprogramm
+
+1. Rahmenvertrag und Einzelvertrag: Welche Klauseln sind vorrangig?
+2. Schadenzuordnung: Welcher Fahrer, wann, nachgewiesen?
+3. Gutachtenprotokoll: Wer hat beauftragt, war LN anwesend?
+4. Minderwertabrechnung: Unterscheidet sie normale von übermäßiger Abnutzung?
+5. Selbstbehalt vertraglich vereinbart und AGB-wirksam?
+6. Telematikdaten: Verwendet für Regresszwecke? DSGVO-konform?
+
+## Typische Fallen
+
+- Sammelrückgabe ohne LN-eigenen Gutachter: LN kann Ergebnisse kaum anfechten
+- Fahrerschuld nicht dokumentiert: LN zahlt, obwohl Fahrer regresspflichtig wäre
+- Minderwertabrechnung ohne Fotos: Beweis fehlt; LN kann Erstattung durchsetzen
+- Verjährung § 548 BGB (6 Monate): LG zu spät geltend gemacht → anspruchlos
+
+## Normen und Quellen
+
+- § 535 BGB: https://dejure.org/gesetze/BGB/535.html
+- § 548 BGB (Verjährung Mieter): https://dejure.org/gesetze/BGB/548.html
+- § 276 BGB (Verschulden): https://dejure.org/gesetze/BGB/276.html
+- § 7 StVG: https://www.gesetze-im-internet.de/stvg/__7.html
+- BGH VIII ZR 172/05: https://www.bgh.de
+- BAG (innerbetrieblicher Schadensausgleich): https://openjur.de
+- § 26 BDSG (Beschäftigtendatenschutz): https://www.gesetze-im-internet.de/bdsg_2018/__26.html
+
+## Output-Formate
+
+- **Schadenprotokoll-Vorlage**: Fahrer, Fahrzeug, Schaden, Fotos, Zeugen
+- **Minderwert-Widerspruch**: Muster für LN gegen Flottengutachten
+- **Regressmatrix**: Fahrer – Verschulden – Regressquote – Betrag
+- **Flottenübergabe-Protokoll**: Checkliste für 10+ Fahrzeuge gleichzeitig
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `insolvenz-leasingnehmer-aussonderung-fortfuehrung`
+
+_Wenn es um Insolvenz des Leasingnehmers: Aussonderung und Fortführung in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Insolvenz des Leasingnehmers: Aussonderung und Fortführung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Rechtlicher Rahmen
+
+- § 47 InsO: Aussonderung (LG als Eigentümer)
+- § 108 InsO: Fortbestand bestimmter Verträge (Miet-/Leasingverträge)
+- § 109 InsO: Wahlrecht des Insolvenzverwalters bei Verträgen
+- §§ 38, 55 InsO: Insolvenzforderung vs. Masseverbindlichkeit
+- § 21 II Nr. 5 InsO: Vorläufige Insolvenzverwaltung, Anordnung des Aussonderungsverbots
+
+## § 108 InsO: Fortbestand des Leasingvertrags
+
+### Grundsatz
+Leasingverträge über unbewegliche Sachen (Immobilien) laufen gemäß § 108 I InsO grundsätzlich mit Wirkung für die Masse fort.
+
+Bei **beweglichen Sachen** (Regelfall im Leasing): § 108 InsO gilt nicht direkt; § 103 InsO (Wahlrecht) gilt.
+
+**BGH-Rspr.**: Finanzierungsleasing = Mietvertrag analog → § 108 InsO analog anwendbar nach überwiegender Ansicht, aber str.
+
+### § 103 InsO: Wahlrecht des Insolvenzverwalters
+- Verwalter kann Erfüllung wählen oder ablehnen
+- Wahl der Erfüllung: Leasingvertrag läuft fort; Raten = Masseverbindlichkeit (§ 55 I Nr. 2 InsO)
+- Ablehnung: LN (Masse) wird von Ratenpflicht frei; LG kann Objekt aussondern (§ 47 InsO)
+
+## § 47 InsO: Aussonderungsrecht des Leasinggebers
+
+LG bleibt zivilrechtlicher Eigentümer → Aussonderungsrecht: LG kann das Leasingobjekt aus der Insolvenzmas se herausverlangen.
+
+Voraussetzungen:
+- LG muss Eigentümer sein (nicht nur Sicherungsnehmer)
+- Objekt muss noch identifizierbar zur Insolvenzmasse gehören (nicht verarbeitet, nicht gutgläubig erworben)
+
+**Praxis**: LG stellt Aussonderungsantrag beim Insolvenzverwalter. Verwalter hat keine Wahl bei echtem Eigentum des LG – er muss herausgeben.
+
+## Forderungsanmeldung
+
+### Offene Raten vor Insolvenzeröffnung
+- Sind **Insolvenzforderungen** (§ 38 InsO)
+- Anmeldung beim Insolvenzverwalter erforderlich (§ 174 InsO)
+- Quote: Typisch 5–30 % in Regelinsolvenz
+
+### Raten nach Verfahrenseröffnung (wenn Verwalter fortführt)
+- **Masseverbindlichkeiten** (§ 55 I Nr. 2 InsO)
+- Volle Erfüllung aus der Insolvenzmasse vor anderen Gläubigern
+
+### Schadensersatz nach Kündigung
+- Wenn LG kündigt (wegen Zahlungsverzug vor Insolvenzeröffnung): Schadensersatz = Insolvenzforderung
+- Wenn Verwalter ablehnt: Schadensersatz-Anspruch? Str.; h.M.: LG hat Anspruch als Insolvenzforderung
+
+## Vorläufige Insolvenzverwaltung
+
+- § 21 II Nr. 5 InsO: Anordnung eines Aussonderungsverbots
+- Während Voröffnung: LG darf Objekt nicht herausverlangen
+- Gegenleistung: Nutzungsentgelt aus Masse (§ 21 II Nr. 5 S. 2 InsO)
+
+## Sanierungsoptionen
+
+### Fortführung mit Insolvenzplan
+- Insolvenzverwalter kann Leasingvertrag fortführen
+- Leasingkonditionen können im Insolvenzplan angepasst werden (einvernehmlich mit LG)
+
+### Übertragende Sanierung
+- Sanierungsunternehmen übernimmt Betrieb → LG muss Zustimmung zur Vertragsübertragung geben (§ 415 BGB)
+- Ohne Zustimmung: Vertragsübertragung unwirksam
+
+## Prüfprogramm
+
+1. Insolvenzantrag: Eröffnungsdatum feststellen
+2. Eigentum des LG: Belege sichern (Kaufvertrag, Eigentumsnachweis)
+3. § 103 InsO: Verwalter kontaktieren – Erfüllung oder Ablehnung?
+4. Offene Raten: Forderungsanmeldung beim Insolvenzverwalter (§ 174 InsO)
+5. Raten nach Eröffnung: Masseverbindlichkeit geltend machen (§ 55 InsO)
+6. Aussonderungsantrag stellen; Voröffnungsverbot beachten (§ 21 II Nr. 5 InsO)
+
+## Typische Fallen
+
+- Forderungsanmeldung vergessen → Insolvenzforderung verloren
+- LG tritt ohne Erlaubnis ins Objekt ein → verbotene Eigenmacht
+- Raten als Masseverbindlichkeit eingeklagt, aber Verwalter hat Erfüllung abgelehnt → Schadensersatz nur als Insolvenzforderung
+- Sicherungsübereignung an Refinanzierer überlappt mit Aussonderungsrecht → Prioritätsstreit
+
+## Normen und Quellen
+
+- § 47 InsO (Aussonderung): https://www.gesetze-im-internet.de/inso/__47.html
+- § 108 InsO (Fortbestand): https://www.gesetze-im-internet.de/inso/__108.html
+- § 103 InsO (Wahlrecht): https://www.gesetze-im-internet.de/inso/__103.html
+- § 55 InsO (Masseverbindlichkeiten): https://www.gesetze-im-internet.de/inso/__55.html
+- § 21 InsO (vorläufige Insolvenzverwaltung): https://www.gesetze-im-internet.de/inso/__21.html
+- § 174 InsO (Forderungsanmeldung): https://www.gesetze-im-internet.de/inso/__174.html
+- BGH-Rechtsprechung zu Sanierungsbeitrag und Anfechtungsrisiko nur nach Livecheck mit Gericht, Datum, Aktenzeichen und Quelle zitieren
+
+## Output-Formate
+
+- **Sofortmaßnahmen-Plan**: Checkliste für LG ab Insolvenzantrag
+- **Forderungsanmeldungs-Vorlage**: § 174 InsO (Raten, Schadensersatz)
+- **Aussonderungsantrag-Muster**: An Insolvenzverwalter
+- **Fortführungs-Analyse**: Masseverbindlichkeit vs. Quote-Forderung
+
+---
+
+## Skill: `leasingvertrag-redline-leasingnehmer`
+
+_Wenn es um Leasingvertrag-Redline: Anbieterperspektive (Leasinggeber) in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Leasingvertrag-Redline: Anbieterperspektive (Leasinggeber)
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Kernstruktur des Leasingvertrags
+
+### Pflichtbestandteile
+1. Vertragsparteien (LG und LN)
+2. Objektbeschreibung (Hersteller, Typ, Seriennummer, Kaufpreis)
+3. Laufzeit und Grundmietzeit
+4. Leasingraten (Höhe, Fälligkeit, Indexierung)
+5. Sonderzahlung/Anzahlung
+6. Amortisationstyp (Voll- oder Teilamortisation)
+7. Restwert/Andienungsrecht/Kaufoption
+8. Gefahrtragung
+9. Gewährleistungsabtretung
+10. Versicherungspflicht
+11. AGB (Einbeziehungsklausel)
+
+## Kritische Klauseln aus LG-Sicht
+
+### 1. Gefahrtragungsklausel
+**LG-Formulierung**: „Der Leasingnehmer trägt die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung des Leasingobjekts ab Übergabe."
+
+**Wirksamkeit**: BGH VIII ZR 71/93 – wirksam bei Finanzierungsleasing.
+
+**Typischer LN-Wunsch**: Einschränkung auf Verschulden oder höhere Gewalt.
+
+**LG-Empfehlung**: Klausel beibehalten; bei Operating-Lease ggf. anpassen.
+
+### 2. Abtretungsklausel
+**LG-Formulierung**: „Der Leasinggeber tritt hiermit alle Ansprüche aus dem Kaufvertrag [Datum] mit [Lieferant] an den Leasingnehmer ab. Eigene Ansprüche des Leasingnehmers gegen den Leasinggeber wegen Mängeln des Leasingobjekts sind ausgeschlossen."
+
+**Wirksamkeit**: BGH, Urteil vom 13.11.2013 - VIII ZR 257/12 – wirksam wenn Abtretung tatsächlich vollzogen.
+
+**Wichtig**: Abtretungserklärung muss klar und vollständig sein; Zeitpunkt der Abtretung angeben.
+
+### 3. Restwertklausel (Teilamortisation)
+**LG-Formulierung**: „Unterschreitet der bei Vertragsende erzielte Verwertungserlös den kalkulierten Restwert von [Betrag], ist der Leasingnehmer zur Zahlung der Differenz verpflichtet. Übersteigt der Verwertungserlös den kalkulierten Restwert, werden 75 % des Mehrerlöses an den Leasingnehmer ausgekehrt."
+
+**Wirksamkeit**: Restwertgarantie und Mehrerlösbeteiligung getrennt prüfen. Als frei prüfbare Anker zur Restwertgarantie im Verbraucherleasing kommen BGH, Urteile vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 in Betracht; Mehrerlösfragen nicht schematisch daraus ableiten.
+
+### 4. Kündigungsklausel
+**LG-Formulierung**: „Der Leasinggeber ist berechtigt, den Vertrag fristlos zu kündigen, wenn der Leasingnehmer mit mindestens zwei aufeinanderfolgenden Raten im Verzug ist und die Mahnung mit Kündigungsandrohung erfolglos geblieben ist."
+
+**Wirksamkeit**: Zulässig; Abmahnung bei Verbrauchern zwingend.
+
+### 5. Schadensersatz nach Kündigung
+**LG-Formulierung**: „Nach vorzeitiger Vertragsbeendigung ist der Leasingnehmer zum Schadensersatz verpflichtet. Dieser errechnet sich aus den ausstehenden Raten bis Vertragsende, abgezinst mit dem kalkulatorischen Zinssatz, abzüglich des erzielten Verwertungserlöses und ersparter Aufwendungen."
+
+**Wirksamkeit**: BGH, Urteil vom 14.03.2007 - VIII ZR 68/06 – wirksam bei korrekter Abzinsungspflicht.
+
+## Typische LN-Änderungswünsche und LG-Reaktion
+
+| LN-Wunsch | LG-Bewertung | Empfehlung |
+|---|---|---|
+| Gefahrtragung auf Verschulden begrenzen | Schutzwürdig im B2B? Nein | Ablehnen |
+| Restwert gedeckelt | Kürzt LG-Sicherheit | Nur mit Gegenleistung akzeptieren |
+| Kündigung ohne Schadensersatz | Aushöhlt Finanzierungsstruktur | Ablehnen |
+| Mehrerlös 90 % statt 75 % | Marktüblich variiert | Verhandlungspunkt |
+| Gerichtsstand am LN-Sitz | Nur im B2B möglich | Im B2B akzeptabel |
+
+## AGB-Wirksamkeitssicherung
+
+- Einbeziehungsklausel auf Vorderseite des Leasingvertrags (§ 305 II BGB)
+- Separate Unterzeichnung der AGB nicht erforderlich, aber empfohlen bei komplexen Klauseln
+- Überraschende Klauseln (§ 305c BGB): Deutlich hervorheben
+- Aktualisierung: AGB nach BGH-Entscheidungen regelmäßig prüfen
+
+## Prüfprogramm
+
+1. Alle Pflichtbestandteile vorhanden?
+2. AGB-Einbeziehungsklausel auf Vorderseite sichtbar?
+3. Gefahrtragung, Abtretung, Restwert: BGH-Rechtsprechung aktuell?
+4. Verbraucher oder Unternehmer? Klauselkatalog angepasst?
+5. LN-Änderungswünsche: Bewertet und dokumentiert?
+6. Mehrerlösklausel bei Restwertgarantie vorhanden?
+
+## Normen und Quellen
+
+- BGH-Anker live prüfen: für leasingtypische Abtretungskonstruktionen etwa BGH, Urteil vom 13.11.2013 - VIII ZR 257/12; für Restwertgarantie BGH, Urteile vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13; für Kündigungsschaden/Abzinsung BGH, Urteil vom 14.03.2007 - VIII ZR 68/06.
+- §§ 305–310 BGB: https://dejure.org/gesetze/BGB/305.html
+- §§ 506–509 BGB: https://dejure.org/gesetze/BGB/506.html
+- openjur.de AGB-Leasingrecht: https://openjur.de
+- BGH XII ZR 18/08 (Kfz-Leasing): https://www.bgh.de
+
+## Output-Formate
+
+- **Klausel-Bewertungsmatrix**: Klausel – Wirksamkeit – BGH-Fundstelle
+- **Redline-Vorlage**: LN-Änderungsantrag vs. LG-Gegenvorschlag
+- **AGB-Checkliste**: 20-Punkte-Wirksamkeitscheck
+- **Verhandlungsprotokoll-Muster**: Änderungen dokumentiert
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

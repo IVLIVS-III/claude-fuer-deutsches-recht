@@ -48,22 +48,19 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Notariat im Alltag: Kaltstart – Urkundenvorgang und Vollzugscockpit | Paragraf 311b BGB; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
-| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Paragraf 1410 BGB | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung – richtig | Paragraf 1410 BGB; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Fallkern | Notariat im Alltag: Kaltstart – Urkundenvorgang und Vollzugscockpit | GwG-Screening erst nach Urkundsaufnahme – das verstößt; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Paragraf 181 BGB-Befreiung | Fristenblatt oder Prozess-/Verfahrensroute |
+| Begründetheit | Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung – richtig | Paragraf 181 BGB-Befreiung; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
 
 | Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
 | --- | --- | --- | --- |
-| Paragraf 311b BGB | https://dejure.org/gesetze/BGB/311b.html | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
-| Paragraf 1410 BGB | https://dejure.org/gesetze/BGB/1410.html | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
-| Paragraf 15 GmbHG | https://dejure.org/gesetze/GmbHG/15.html | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
-| Paragrafen 883–888 BGB | https://dejure.org/gesetze/BGB/883.html | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
-| Paragraf 22 GrEStG | https://dejure.org/gesetze/GrEStG/22.html | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
-| Paragraf 16 GmbHG | https://dejure.org/gesetze/GmbHG/16.html | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
-| Paragraf 40 GmbHG | https://dejure.org/gesetze/GmbHG/40.html | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| GwG-Screening erst nach Urkundsaufnahme – das verstößt gegen Paragrafen 10–11 | GwG-Screening erst nach Urkundsaufnahme – das verstößt gegen Paragrafen 10–11 GwG | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 181 BGB-Befreiung | Ist sie in der Satzung vorgesehen oder Gesellschafterbeschluss nötig? | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 181 BGB-Befreiung nicht beurkundet/beschlossen, aber in Anmeldung | Paragraf 181 BGB-Befreiung nicht beurkundet/beschlossen, aber in Anmeldung behauptet | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| GwG-Prüfung erst nach Beurkundung → Verstoß gegen Paragraf 10 GwG | GwG-Prüfung erst nach Beurkundung → Verstoß gegen Paragraf 10 GwG | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -73,14 +70,10 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 7. Pflichtnormen als Kernsätze
 
-- Paragraf 311b BGB: https://dejure.org/gesetze/BGB/311b.html: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1410 BGB: https://dejure.org/gesetze/BGB/1410.html: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 15 GmbHG: https://dejure.org/gesetze/GmbHG/15.html: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 883–888 BGB: https://dejure.org/gesetze/BGB/883.html: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 22 GrEStG: https://dejure.org/gesetze/GrEStG/22.html: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 16 GmbHG: https://dejure.org/gesetze/GmbHG/16.html: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 40 GmbHG: https://dejure.org/gesetze/GmbHG/40.html: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 34 GmbHG (Einziehung): https://dejure.org/gesetze/GmbHG/34.html: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- GwG-Screening erst nach Urkundsaufnahme – das verstößt gegen Paragrafen 10–11 GwG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 181 BGB-Befreiung: Ist sie in der Satzung vorgesehen oder Gesellschafterbeschluss nötig?: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 181 BGB-Befreiung nicht beurkundet/beschlossen, aber in Anmeldung behauptet: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- GwG-Prüfung erst nach Beurkundung → Verstoß gegen Paragraf 10 GwG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -110,7 +103,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Wunsch | Ausgabe | Mindestinhalt |
 | --- | --- | --- |
-| schnell entscheiden | Kurzvermerk | Fallkern, Paragraf 311b BGB; Paragraf 1410 BGB, Risiko, nächster Schritt |
+| schnell entscheiden | Kurzvermerk | Fallkern, GwG-Screening erst nach Urkundsaufnahme – das verstößt; Paragraf 181 BGB-Befreiung, Risiko, nächster Schritt |
 | vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument, Rechtsfolge |
 | versenden | Entwurf | Antrag oder Tenor, Begründung, Anlagen, Frist, Zustellungsweg |
 | beraten | Mandantenbrief | Ergebnis, Optionen, Kosten-/Zeitrisiko, Empfehlung |

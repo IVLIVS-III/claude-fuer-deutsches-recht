@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | UrhG Paragraf 51 | Zitatrecht | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
 | UrhG Paragraf 97 | Unterlassung und Schadensersatz | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
 | KUG Paragraf 22 und Paragraf 23 | Bildnisschutz und Ausnahmen | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
-| ZPO Paragrafen 935 ff | https://dejure.org/gesetze/ZPO/935.html | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
+| UrhG Paragraf 79b (seit 2014) | Öffentliche Einrichtungen dürfen verwaiste Werke unter bestimmten Voraussetzungen (sorgfältige Suche | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,12 +85,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - UrhG Paragraf 51: Zitatrecht.
 - UrhG Paragraf 97: Unterlassung und Schadensersatz.
 - KUG Paragraf 22 und Paragraf 23: Bildnisschutz und Ausnahmen.
-- ZPO Paragrafen 935 ff.: https://dejure.org/gesetze/ZPO/935.html: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- UrhG Paragrafen 4, 8, 9: https://dejure.org/gesetze/UrhG/8.html: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- UrhG Paragraf 32d: https://dejure.org/gesetze/UrhG/32d.html: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- UrhG Paragraf 32a: https://dejure.org/gesetze/UrhG/32a.html: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- UrhG Paragraf 41: https://dejure.org/gesetze/UrhG/41.html: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- UrhG Paragrafen 27, 52b: https://dejure.org/gesetze/UrhG/52b.html: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - UrhG Paragraf 79b (seit 2014): Öffentliche Einrichtungen dürfen verwaiste Werke unter bestimmten Voraussetzungen (sorgfältige Suche, Registrierung beim EUIPO) nutzen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Auftragsillustration ohne schriftliche Rechteeinräumung: Mündliche Vereinbarung reicht nicht; UrhG Paragraf 31 verlangt keine Form, aber Beweis nötig: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
@@ -104,7 +98,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH „Buchpreisbindung Abmahnung" I ZR 173/09: https://www.bgh.de
 - BGH, Urt. v. 20.01.1994 – I ZR 322/91 (Miturheber Sammelwerk): https://www.bgh.de
 - BGH (I ZR 174/18 „Klauseltausch"): Missverhältnis wird angenommen, wenn tatsächliche Erträge mehr als doppelt so hoch sind wie die vereinbarte Vergütung vermuten ließ
-- BGH „Klauseltausch" I ZR 174/18: https://www.bgh.de
 - BGH „Elektronische Leseplätze II", I ZR 69/11: Kontext bestätigt; nur körperlich vorhandene Exemplare dürfen gleichzeitig angezeigt werden
 
 ## 9. Prüfraster

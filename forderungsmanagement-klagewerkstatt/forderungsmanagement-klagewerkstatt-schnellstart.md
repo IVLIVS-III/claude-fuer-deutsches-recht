@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Forderungsmanagement Klagewerkstatt ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du eine Forderungsakte sofort klagereif, einwendungsfest und vollstreckungsnah ordnen.
 
 # Forderungsmanagement Klagewerkstatt — Schnellstart
 
@@ -17,46 +17,43 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Aktenordner-Erstlektüre: Dieser Skill ist der erste Griff, wenn eine Forderungsakte bereits als Ordner, ZIP, PDF-Buendel, E-Mail-Stapel.
-2. Anschluss-Routing: Dieser Skill folgt der Kaltstart-Triage oder einem abgeschlossenen Bearbeitungsschritt. Er liefert nicht das ganze.
-3. Anspruchsschriftsatz Bausteine: Jeder substantiierte Schriftsatz besteht aus etwa zwölf Modulen. Dieser Skill haelt sie als Bausteine bereit. `.
-4. Belegte Compliance Aktenvermerk: Wenn eine Forderung nicht weiterverfolgt wird braucht es einen sauberen Aktenvermerk. Das schuetzt Mandant.
-5. Chronologie und Belegmatrix: Jeder Schriftsatz steht und faellt mit der Belegkette. Diese Matrix verbindet Ereignisse mit Beweisen. - K eins K.
-6. Dokumente Intake: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix.
+1. Aktenkern: Vertrag, Bestellung, Lieferung, Abnahme, Rechnung, Mahnung, Zahlung und Einwendung chronologisch ordnen.
+2. Anspruch: Hauptforderung, Nebenforderung, Zinsen, Kosten, Verzug und Verjährung getrennt rechnen.
+3. Einwendungen: Erfüllung, Mangel, Aufrechnung, Zurückbehaltung, Stundung, Verjährung und Vertretung prüfen.
+4. Prozess und Titel: Zuständigkeit, Beweis, Anlagen, Antrag, Mahnverfahren, Klage und Vollstreckung planen.
+5. Arbeitsprodukt: Klagefreigabe, Mahnschreiben, Klageentwurf, Vergleichsvorschlag oder Vollstreckungsauftrag erstellen.
+6. Aktenordner-Erstlektüre: Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | RVG Paragraf 1 gesetze-im-internet.de/rvg/1.html; RVG Paragraf 3a Vergueetungsvereinbarung; RVG Paragraf 4a Erfolgshonorar gesetze-im-internet.de/rvg/4a.html |
-| Rechtsprechung | BGH II ZR 256/02 Trihotel und II ZR 3/04 Bremer Vulkan; BGH abgelehnt als eigenen Haftungstatbestand (BGH II ZR 256/02). Nur |
-| Tatbestand | Dieser Skill ist der erste Griff, wenn eine Forderungsakte bereits als Ordner, ZIP, PDF-Buendel, E-Mail-Stapel |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Normenanker | BGB Paragraf 241 und Paragraf 280; BGB Paragraf 286 und Paragraf 288; BGB Paragraf 362 |
+| Rechtsprechung | BGH, Urteil vom 18.01.2017 - VIII ZR 17/16; BGH, Urteil vom 16.07.2007 - II ZR 3/04 |
+| Tatbestand | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen |
+| Beweislast | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung |
+| Rechtsfolge | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aktenordner-Erstlektüre | Dieser Skill ist der erste Griff, wenn eine Forderungsakte bereits als Ordner, ZIP, PDF-Buendel, E-Mail-Stapel. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Dieser Skill folgt der Kaltstart-Triage oder einem abgeschlossenen Bearbeitungsschritt. Er liefert nicht das ganze. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruchsschriftsatz Bausteine | Jeder substantiierte Schriftsatz besteht aus etwa zwölf Modulen. Dieser Skill haelt sie als Bausteine bereit. `. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Belegte Compliance Aktenvermerk | Wenn eine Forderung nicht weiterverfolgt wird braucht es einen sauberen Aktenvermerk. Das schuetzt Mandant. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Chronologie und Belegmatrix | Jeder Schriftsatz steht und faellt mit der Belegkette. Diese Matrix verbindet Ereignisse mit Beweisen. - K eins K. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dokumente Intake | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenordner-Erstlektüre | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anschluss-Routing | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anspruchsschriftsatz Bausteine | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Belegte Compliance Aktenvermerk | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Chronologie und Belegmatrix | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Dokumente Intake | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- RVG Paragraf 1 gesetze-im-internet.de/rvg/__1.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- RVG Paragraf 3a Vergueetungsvereinbarung gesetze-im-internet.de/rvg/__3a.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- RVG Paragraf 4a Erfolgshonorar gesetze-im-internet.de/rvg/__4a.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- RVG Paragraf 8 Fälligkeit gesetze-im-internet.de/rvg/__8.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- RVG Paragraf 9 Vorschuss gesetze-im-internet.de/rvg/__9.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BRAO Paragraf 49b gesetze-im-internet.de/brao/__49b.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGB Paragraf 630a Behandlungsvertrag gesetze-im-internet.de/bgb/__630a.html: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH II ZR 256/02 Trihotel und II ZR 3/04 Bremer Vulkan:
-- BGH abgelehnt als eigenen Haftungstatbestand (BGH II ZR 256/02). Nur über Paragraf 826 BGB / existenzvernichtenden Eingriff
+- BGB Paragraf 241 und Paragraf 280: Pflichtverletzung und Schadensersatz.
+- BGB Paragraf 286 und Paragraf 288: Verzug und Verzugszinsen.
+- BGB Paragraf 362: Erfüllung als Einwendung.
+- BGB Paragraf 387: Aufrechnung.
+- BGH, Urteil vom 18.01.2017 - VIII ZR 17/16: Substantiierter Vortrag verlangt die anspruchsbegründenden Tatsachen, nicht nur rechtliche Wertungen.
+- BGH, Urteil vom 16.07.2007 - II ZR 3/04: Trihotel ordnet den existenzvernichtenden Eingriff als Innenhaftung nach Paragraf 826 BGB ein.
 
 ## 7. Antwortform
 

@@ -1,32 +1,32 @@
-# Megaprompt: patentrecht
+# Vollprüfung: patentrecht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 60 Skills des Plugins `patentrecht`.
+Dieser Vollprüfung enthaelt top-15 von 60 Skills des Plugins `patentrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für Patentrecht (Verfahren, Verletzung): ordnet Rolle (Patentinhaber, Verletzer, Lizenznehm…
-2. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Patentrecht-Plugin. Erkennt Patentanmeldung, Erfindungsmeldung, Recherche, FT…
-3. **dokumente-intake** — Dokumentenintake für Patentrecht (Verfahren, Verletzung): sortiert Patentschrift, Einspruchsschrift, Verletzungsanalyse,…
-4. **rechtsabteilung-freedom-to-operate-vor-product-launch** — Rechtsabteilungs-Fachmodul für Freedom-to-Operate vor Product Launch: FTO wird mit Claim Chart, Länderpriorität und Desi…
-5. **rechtsabteilung-upc-eilverfahren-und-deutsche-parallelstrategie** — Rechtsabteilungs-Fachmodul für UPC-Eilverfahren und deutsche Parallelstrategie: PI-Antrag, Schutzschrift, Bifurcation un…
-6. **rechtsabteilung-employee-invention-frand** — Rechtsabteilungs-Fachmodul für Employee Invention im Konzernprojekt: Meldung, Inanspruchnahme, Vergütung und ausländisch…
-7. **rechtsabteilung-proportionalitaet-schweiz** — Rechtsabteilungs-Fachmodul für Proportionalität der Unterlassung § 139 PatG: Injunction-Risiken werden für komplexe Prod…
-8. **rechtsabteilung-frand-verteidigung-bei-sep-abmahnung** — Rechtsabteilungs-Fachmodul für FRAND-Verteidigung bei SEP-Abmahnung: Lizenzbereitschaft, Vergleichbarkeit und Hold-out/H…
-9. **kaltstart-interview** — Kaltstart-Interview für Patentrechtsmandate. Erstellt ein kurzes Profil zu Mandant, Technik, Ziel, Territorien, Fristen,…
-10. **register-patentanmeldung-anspruchsentwurf** — Prüft Patentregister und Fristen: DPMAregister, EPO Register, nationale Validierungen, Einheitspatent, Jahresgebühren, P…
-11. **internationaler-patentrechts-und-laendercheck** — Routet grenzüberschreitende Patentmandate nach DE, EP, UPC, PCT, USA, Kanada, Japan, Schweiz, UK, Türkei und Israel; tre…
-12. **patentlizenzvertrag-review** — Prüft Patentlizenzverträge: Schutzrechte, Territory, Field of Use, Exklusivität, Unterlizenzen, Royalties, Milestones, I…
-13. **abmahnung-patentverletzung-verteidigung** — Verteidigt gegen Patentabmahnungen: Fristen, Unterlassungserklärung, Registerstand, Anspruchsfassung, Nichtverletzung, R…
-14. **einspruch-epa-und-nichtigkeit-bpatg** — Bereitet EPA-Einspruch und deutsche Nichtigkeitsklage vor: Fristen, Zuständigkeit, Angriffsmittel, Stand der Technik, un…
-15. **erfinderbenennung-arbeitnehmererfindung** — Prüft Erfinderbenennung, Rechtekette und Arbeitnehmererfindungs-Schnittstellen: wer ist Erfinder, wer ist Anmelder, Dien…
+1. **einstieg-routing** — Wenn es um Einstieg und Routing in patentrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fac…
+2. **kaltstart-triage** — Wenn es um Patentrecht — Allgemein in patentrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten …
+3. **rechtsabteilung-proportionalitaet-schweiz** — Wenn es um Rechtsabteilung: Proportionalität der Unterlassung Paragraf 139 PatG in patentrecht geht: ordnet Sachverhalt,…
+4. **rechtsabteilung-freedom-to-operate-vor-product-launch** — Wenn es um Rechtsabteilung: Freedom-to-Operate vor Product Launch in patentrecht geht: ordnet Sachverhalt, Norm, Beweisl…
+5. **rechtsabteilung-upc-eilverfahren-und-deutsche-parallelstrategie** — Wenn es um Rechtsabteilung: UPC-Eilverfahren und deutsche Parallelstrategie in patentrecht geht: erstellt den passenden …
+6. **patentprozess-experten-und-sachverstaendige** — Wenn es um Patentprozess: Experten und Sachverständige in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegena…
+7. **loeschung-widerruf-nichtigkeit-global-route** — Wenn es um Löschung, Widerruf, Nichtigkeit: globale Route in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Geg…
+8. **patentprozess-negative-schutzschrift** — Wenn es um Patentprozess: Negative Feststellung und Torpedo-Risiken in patentrecht geht: erstellt den passenden Entwurf …
+9. **kanada-patentrecht-cipo-federal-court** — Wenn es um Kanada: CIPO, Federal Court und Patentstreit in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegen…
+10. **patentprozess-einstweilige-verfuegung** — Wenn es um Patentprozess: Einstweilige Verfügung DE/UPC in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegen…
+11. **schweiz-patentrecht-bundespatentgericht** — Wenn es um Schweiz: IGE und Bundespatentgericht in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargument…
+12. **us-patent-litigation-district-court-itc** — Wenn es um US-Patentprozess: District Court und ITC in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargu…
+13. **internationaler-patentrechts-und-laendercheck** — Wenn es um Internationaler Patent- und Ländercheck in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargum…
+14. **patentprozess-claim-construction-de-en** — Wenn es um Patentprozess: Claim Construction DE/EN in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargum…
+15. **upc-verletzung-und-rechtsbestand** — Wenn es um UPC: Verletzung, Rechtsbestand und Zuständigkeit in patentrecht geht: erstellt den passenden Entwurf aus Sach…
 
 ---
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Patentrecht (Verfahren, Verletzung): ordnet Rolle (Patentinhaber, Verletzer, Lizenznehmer), markiert Frist (Einspruch EPA 9 Monate), wählt Norm (PatG, IntPatÜG, EPÜ, UPCA, ArbnErfG) und Zuständigkeit (DPMA), leitet zum passenden Spezial-Skill._
+_Wenn es um Einstieg und Routing in patentrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Einstieg und Routing
 
@@ -69,23 +69,24 @@ Dieser Einstieg routet **Patentrecht** vom ersten Sachverhalt zu Rollen, Fristen
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting im Patentrecht-Plugin. Erkennt Patentanmeldung, Erfindungsmeldung, Recherche, FTO, Abmahnung, Lizenz, Einspruch, Nichtigkeit, Register- und Fristenfragen; schlägt passende Fachmodule aus diesem Plugin und bei Bedarf das Schwesterplugin patentrecherche vor._
+_Wenn es um Patentrecht — Allgemein in patentrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Patentrecht — Allgemein
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Patentrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Startprinzip
 
@@ -153,87 +154,55 @@ Wenn der Nutzer nur Dateien hochlädt:
 
 ---
 
-## Skill: `dokumente-intake`
+## Skill: `rechtsabteilung-proportionalitaet-schweiz`
 
-_Dokumentenintake für Patentrecht (Verfahren, Verletzung): sortiert Patentschrift, Einspruchsschrift, Verletzungsanalyse, prüft Datum, Absender, Frist und Beweiswert (Stand-der-Technik-Dokumente, FTO-Analyse); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO._
+_Wenn es um Rechtsabteilung: Proportionalität der Unterlassung Paragraf 139 PatG in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Dokumentenintake
-
-## Aktenstart statt Formularstart
-
-Wenn zu **Dokumente Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Patentrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
-
-Starte dann mit einer knappen Rueckmeldung:
-
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
-
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
-
-## Einsatzlage
-
-Dieser Dokumenten-Intake für **Patentrecht** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
-
-## Fachlandkarte dieses Plugins
-
-- `abmahnung-patentverletzung-verteidigung` — Abmahnung Patentverletzung Verteidigung
-- `anspruchsentwurf-dokumentenmatrix-und-lueckenliste` — Anspruchsentwurf Dokumentenmatrix und Lueckenliste
-- `beschreibung-zeichnungen-einspruch-epa-epo` — Beschreibung Zeichnungen Einspruch EPA EPO
-- `einspruch-epa-und-nichtigkeit-bpatg` — Einspruch EPA und Nichtigkeit Bpatg
-- `epo-epue-einspruch-beschwerde-beschraenkung` — EPO Epue Einspruch Beschwerde Beschraenkung
-- `erfinderbenennung-arbeitnehmererfindung` — Erfinderbenennung Arbeitnehmererfindung
-- `erfindungsaufnahme-tatbestand-beweis-und-belege` — Erfindungsaufnahme Tatbestand Beweis und Belege
-- `erfindungsmeldung-aufnahme-und-rueckfragen` — Erfindungsmeldung Aufnahme und Rueckfragen
-- `freedom-to-operate-und-schutzbereich` — Freedom TO Operate und Schutzbereich
-- `gebrauchsmuster-patent-patentrechts` — Gebrauchsmuster Patent Patentrechts
-- `internationaler-patentrechts-und-laendercheck` — Internationaler Patentrechts und Laendercheck
-- `israel-patentrecht-ilpo-opposition-revocation` — Israel Patentrecht Ilpo Opposition Revocation
-- `japan-jpo-kanada-cipo-loeschung-widerruf` — Japan JPO Kanada Cipo Loeschung Widerruf
-- `einstieg-routing` — Einstieg Routing
+# Rechtsabteilung: Proportionalität der Unterlassung § 139 PatG
 
 ## Arbeitsweg
 
-- Eingangsdokumente nach Typ ordnen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten.
-- Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Patentrecht-Frage.
-- Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.
-- Tragende Normen vorläufig zuordnen: PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87–89, PCT Art. 3, 8, UPCA — Endfeststellung erst nach Live-Check.
-- Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Patentanmelder, Erfinder, Patentanwalt, DPMA, EPO, BPatG, BGH X. Senat, UPC prüfen.
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: PatG § 34 Anmeldetag, § 41 Priorität 12 Monate, § 81 Nichtigkeitsklage, EPÜ Art. 99 Einspruch 9 Monate, R. 161/162 EPÜ 6 Monate, UPC Opt-out bis Ablauf Transition.
+- Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87-89, PCT Art. 3, 8, UPCA, EinheitspatentVO 1257/2012 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Qualitätsanker
+## Spezialkern: Rechtsabteilung: Proportionalität der Unterlassung § 139 PatG
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+- **Konkretes Problem:** Injunction-Risiken werden für komplexe Produkte und Supply Chain bewertet.
+- **Norm-/Quellenanker:** PatG, EPÜ, UPCA/UPC-Verfahrensordnung, ArbNErfG, ZPO/Eilrechtsschutz, Lizenzvertragsrecht und FRAND/SEP-Linien.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
-## Normen und Rechtsprechung
+## Norm- und Rechtsprechungsanker
 
-### Kuratierte Normen-Bibliothek
+PatG § 139; Verhältnismäßigkeitsrechtsprechung live prüfen
 
-- § 12 PatG
-- § 3 PatG
-- § 4 PatG
-- § 14 PatG
-- § 139 PatG
-- § 34 PatG
-- § 6 ArbEG
-- § 9 ArbEG
-- § 37 PatG
-- § 8 PatG
-- § 10 PatG
-- § 44 PatG
+## Sofortprüfung
 
-### Leitentscheidungen
+1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
+2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
+3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
+4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
+5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
 
-- BGH X ZR 168/00
+## Fachlicher Zuschnitt
+
+Injunction-Risiken werden für komplexe Produkte und Supply Chain bewertet.
+
+## Output für die Rechtsabteilung
+
+- One-page legal memo mit Risikoampel und klarer Empfehlung.
+- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
+- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
+- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
 
 ---
 
 ## Skill: `rechtsabteilung-freedom-to-operate-vor-product-launch`
 
-_Rechtsabteilungs-Fachmodul für Freedom-to-Operate vor Product Launch: FTO wird mit Claim Chart, Länderpriorität und Design-Around-Entscheidung ausgegeben. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Patentrecht._
+_Wenn es um Rechtsabteilung: Freedom-to-Operate vor Product Launch in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Rechtsabteilung: Freedom-to-Operate vor Product Launch
 
@@ -279,7 +248,7 @@ FTO wird mit Claim Chart, Länderpriorität und Design-Around-Entscheidung ausge
 
 ## Skill: `rechtsabteilung-upc-eilverfahren-und-deutsche-parallelstrategie`
 
-_Rechtsabteilungs-Fachmodul für UPC-Eilverfahren und deutsche Parallelstrategie: PI-Antrag, Schutzschrift, Bifurcation und Forumstrategie werden abgewogen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Patentrecht._
+_Wenn es um Rechtsabteilung: UPC-Eilverfahren und deutsche Parallelstrategie in patentrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
 # Rechtsabteilung: UPC-Eilverfahren und deutsche Parallelstrategie
 
@@ -322,62 +291,20 @@ PI-Antrag, Schutzschrift, Bifurcation und Forumstrategie werden abgewogen.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
-## Skill: `rechtsabteilung-employee-invention-frand`
+## Skill: `patentprozess-experten-und-sachverstaendige`
 
-_Rechtsabteilungs-Fachmodul für Employee Invention im Konzernprojekt: Meldung, Inanspruchnahme, Vergütung und ausländische R&D-Beiträge werden aufgesetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Patentrecht._
+_Wenn es um Patentprozess: Experten und Sachverständige in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Rechtsabteilung: Employee Invention im Konzernprojekt
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: PatG § 34 Anmeldetag, § 41 Priorität 12 Monate, § 81 Nichtigkeitsklage, EPÜ Art. 99 Einspruch 9 Monate, R. 161/162 EPÜ 6 Monate, UPC Opt-out bis Ablauf Transition.
-- Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87-89, PCT Art. 3, 8, UPCA, EinheitspatentVO 1257/2012 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialkern: Rechtsabteilung: Employee Invention im Konzernprojekt
-
-- **Konkretes Problem:** Meldung, Inanspruchnahme, Vergütung und ausländische R&D-Beiträge werden aufgesetzt.
-- **Norm-/Quellenanker:** PatG, EPÜ, UPCA/UPC-Verfahrensordnung, ArbNErfG, ZPO/Eilrechtsschutz, Lizenzvertragsrecht und FRAND/SEP-Linien.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
-
-## Norm- und Rechtsprechungsanker
-
-ArbEG; PatG; internationale Miterfinder
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-Meldung, Inanspruchnahme, Vergütung und ausländische R&D-Beiträge werden aufgesetzt.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
----
-
-## Skill: `rechtsabteilung-proportionalitaet-schweiz`
-
-_Rechtsabteilungs-Fachmodul für Proportionalität der Unterlassung § 139 PatG: Injunction-Risiken werden für komplexe Produkte und Supply Chain bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Patentrecht._
-
-# Rechtsabteilung: Proportionalität der Unterlassung § 139 PatG
+# Patentprozess: Experten und Sachverständige
 
 ## Arbeitsweg
 
@@ -387,194 +314,338 @@ _Rechtsabteilungs-Fachmodul für Proportionalität der Unterlassung § 139 PatG:
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialkern: Rechtsabteilung: Proportionalität der Unterlassung § 139 PatG
+## Einstieg
 
-- **Konkretes Problem:** Injunction-Risiken werden für komplexe Produkte und Supply Chain bewertet.
-- **Norm-/Quellenanker:** PatG, EPÜ, UPCA/UPC-Verfahrensordnung, ArbNErfG, ZPO/Eilrechtsschutz, Lizenzvertragsrecht und FRAND/SEP-Linien.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
+Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
 
-## Norm- und Rechtsprechungsanker
+1. Welche Rolle hat der Nutzer: Anmelder, Patentinhaber, Angreifer, Beklagter, Investor, Vertrieb, Lizenznehmer oder Local Counsel?
+2. Welche Schutzrechte, Produkte, Länder und Fristen sind betroffen?
+3. Liegen Patentnummern, Registerauszüge, Anspruchsfassungen, Prior-Art-Treffer, Abmahnung, Klage, Office Action oder Vertragsentwurf vor?
+4. Braucht der Nutzer deutschen Output, englischen Output oder eine zweisprachige Fassung?
 
-PatG § 139; Verhältnismäßigkeitsrechtsprechung live prüfen
+## Arbeitsworkflow
 
-## Sofortprüfung
+1. **Beweisfrage in technische Testhypothese übersetzen.**
+2. **Geeignete Expertise und Unabhängigkeit prüfen.**
+3. **Testdesign, Dokumentation und Reproduzierbarkeit sichern.**
+4. **Gegenexperten- und Cross-Examination-Fragen vorbereiten.**
+5. **Ergebnis in Claim Chart und Schriftsatzlogik übertragen.**
 
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
+## Prüfmatrix
 
-## Fachlicher Zuschnitt
-
-Injunction-Risiken werden für komplexe Produkte und Supply Chain bewertet.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
----
-
-## Skill: `rechtsabteilung-frand-verteidigung-bei-sep-abmahnung`
-
-_Rechtsabteilungs-Fachmodul für FRAND-Verteidigung bei SEP-Abmahnung: Lizenzbereitschaft, Vergleichbarkeit und Hold-out/Hold-up werden dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Patentrecht._
-
-# Rechtsabteilung: FRAND-Verteidigung bei SEP-Abmahnung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: PatG § 34 Anmeldetag, § 41 Priorität 12 Monate, § 81 Nichtigkeitsklage, EPÜ Art. 99 Einspruch 9 Monate, R. 161/162 EPÜ 6 Monate, UPC Opt-out bis Ablauf Transition.
-- Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87-89, PCT Art. 3, 8, UPCA, EinheitspatentVO 1257/2012 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialkern: Rechtsabteilung: FRAND-Verteidigung bei SEP-Abmahnung
-
-- **Konkretes Problem:** Lizenzbereitschaft, Vergleichbarkeit und Hold-out/Hold-up werden dokumentiert.
-- **Norm-/Quellenanker:** PatG, EPÜ, UPCA/UPC-Verfahrensordnung, ArbNErfG, ZPO/Eilrechtsschutz, Lizenzvertragsrecht und FRAND/SEP-Linien.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
-
-## Norm- und Rechtsprechungsanker
-
-Art. 102 AEUV; EuGH Huawei/ZTE; BGH Sisvel-Haier-Linie
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-Lizenzbereitschaft, Vergleichbarkeit und Hold-out/Hold-up werden dokumentiert.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
----
-
-## Skill: `kaltstart-interview`
-
-_Kaltstart-Interview für Patentrechtsmandate. Erstellt ein kurzes Profil zu Mandant, Technik, Ziel, Territorien, Fristen, Dokumentenlage, Risiko und gewünschtem Output; speichert keine Geheimnisse, sondern strukturiert die nächsten Skills._
-
-# Patentrecht — Kaltstart-Interview
-
-## Aktenstart statt Formularstart
-
-Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Patentrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
-
-Starte dann mit einer knappen Rueckmeldung:
-
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
-
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
-
-## Ziel
-
-In maximal sieben Fragen klären, welche patentrechtliche Arbeit zu leisten ist. Danach nicht weiter interviewen, sondern einen Arbeitsplan und den ersten konkreten Output liefern.
-
-## Fragen
-
-1. **Was ist das Ziel?** Anmeldung, Recherche, FTO, Abmahnung, Lizenz, Einspruch/Nichtigkeit, Portfolio, Prüfungsbescheid?
-2. **Welche Technik?** Vorrichtung, Verfahren, Software/Computerimplementierung, Chemie, Biotech, Medizintechnik, Mechanik, Elektronik?
-3. **Welche Unterlagen liegen vor?** Skizzen, Fotos, Prototyp, Anspruchsentwurf, Beschreibung, Patentnummer, Registerauszug, Vertrag, Abmahnung, Tabelle?
-4. **Gibt es Fristen oder Veröffentlichungen?** Messe, Pitchdeck, Website, Verkauf, Prioritätsjahr, Abmahnfrist, Einspruchsfrist, Bescheidfrist?
-5. **Welche Länder?** Deutschland, EP, Einheitspatent/UPC, PCT, USA, China, UK, andere?
-6. **Was ist das wirtschaftliche Ziel?** Schutz aufbauen, Launch absichern, Verletzung abwehren, Lizenz monetarisieren, Investor beruhigen?
-7. **Welcher Output wird gebraucht?** Mandantenmail, Gutachten, Anspruchsentwurf, Rechercheauftrag, Claim Chart, Vertragsredline, Fristenplan?
-
-## Ergebnisformat
-
-- **Mandatsprofil:** Beteiligte, Technik, Ziel, Territory.
-- **Fristenprofil:** harte Fristen, weiche Business Deadlines, Offenbarungsrisiken.
-- **Dokumentenprofil:** vorhandene und fehlende Aktenstücke.
-- **Skillpfad:** 2 bis 5 passende Skills in Reihenfolge.
-- **Erster Arbeitsschritt:** sofort verwertbarer Entwurf oder konkrete Rückfrage.
-
-## Patentrechtlicher Pflichtkern
-
-- **Schutzvoraussetzungen § 1 PatG:** Erfindung auf technischem Gebiet, neu (§ 3 PatG), erfinderische Tätigkeit (§ 4 PatG), gewerblich anwendbar (§ 5 PatG). Software als solche nicht patentfähig (§ 1 Abs. 3 Nr. 3 PatG), aber computer-implementierte Erfindungen unter Voraussetzungen.
-- **Neuheitsschädliche Offenbarung:** Jede Verkaufs-/Messe-/Web-Offenbarung vor Anmeldung vernichtet Neuheit (§ 3 PatG). Bei Prio-Beanspruchung 12 Monate (Art. 4 PVÜ, § 41 PatG).
-- **Schutzwirkung § 9 PatG:** unmittelbare und mittelbare Verletzung (§ 10 PatG); Schutzbereich nach § 14 PatG / Art. 69 EPÜ und Auslegungsprotokoll (Wortsinn und Äquivalenz).
-- **Wichtige Fristen:** Einspruch beim DPMA 9 Monate ab Patenterteilung (§ 59 PatG); UPC-Opt-out bis Ende Übergangszeit; Jahresgebühren beim DPMA / EPA ab 3. Patentjahr.
-- Falle: Anmeldetag-Strategie missachten — Veröffentlichung auf Pitchdeck oder Crowdfunding gilt als neuheitsschädlich, auch im Inland.
-
----
-
-## Skill: `register-patentanmeldung-anspruchsentwurf`
-
-_Prüft Patentregister und Fristen: DPMAregister, EPO Register, nationale Validierungen, Einheitspatent, Jahresgebühren, Priorität, Veröffentlichung, Erteilung, Einspruch, Beschränkung, Nichtigkeit und Verlängerungen im Patentrecht._
-
-# Rechtsstand, Register und Fristen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: PatG § 34 Anmeldetag, § 41 Priorität 12 Monate, § 81 Nichtigkeitsklage, EPÜ Art. 99 Einspruch 9 Monate, R. 161/162 EPÜ 6 Monate, UPC Opt-out bis Ablauf Transition.
-- Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87-89, PCT Art. 3, 8, UPCA, EinheitspatentVO 1257/2012 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Registerquellen
-
-- DPMAregister für deutsche Schutzrechte.
-- EPO Register für EP-Anmeldungen und EP-Patente.
-- nationale Register für validierte EP-Teile.
-- UPC/EPA/DPMA-Informationen, soweit Verfahrensstand betroffen ist.
-
-## Fristenliste
-
-| Frist | Startpunkt | Was prüfen? |
+| Ebene | Prüffrage | Ergebnis |
 | --- | --- | --- |
-| Prioritätsjahr | erste Anmeldung | Nachanmeldung/EP/PCT möglich? |
-| Prüfungsbescheid | Zustellung/Amtsmitteilung | Antwortfrist, Verlängerung, Gebühren |
-| Jahresgebühren | Anmeldetag/Jahr | gezahlt, Nachfrist, Erlöschen |
-| Einspruch EP | Bekanntmachung der Erteilung | Fristende, Gebühr, Einspruchsgründe |
-| Nichtigkeit | prozessuale Lage | Zulässigkeit, Parallelverfahren |
-| Abmahnung | Zugang | Unterlassung/EV-Risiko |
+| Schutzrecht | Welche Anspruchsfassung, welcher Status, welche Priorität und welche Territorien? | Register live prüfen; Annahmen markieren. |
+| Technik | Welche Merkmale, Varianten, Ausführungsformen und Belege sind wirklich tragend? | Merkmalsgliederung/Claim Chart. |
+| Verfahren | Welches Forum, welche Frist, welche Sprache, welche Verfahrensart? | Forum- und Fristenampel. |
+| Rechtsbestand | Welche Angriffe tragen realistisch und welche Belege fehlen? | Invalidity-/Opposition-Map. |
+| Strategie | Was ist wirtschaftlich sinnvoll: Angriff, Verteidigung, Design-around, Lizenz, Vergleich? | Handlungsempfehlung. |
 
-## Regel
+## Anschluss-Skills
 
-Nie allein aus einer Patentnummer schließen, dass ein Patent in Kraft ist. Immer Rechtsstand, Territory und geltende Anspruchsfassung prüfen.
+- `internationaler-patentrechts-und-laendercheck`, wenn weitere Länder oder Patentfamilien betroffen sind.
+- `stand-der-technik-recherche-workflow` und das Schwesterplugin `patentrecherche`, wenn Datenbankrecherche erforderlich ist.
+- `patentrecht-redteam-qualitygate`, bevor ein Ergebnis nach außen geht.
 
-## Konkrete Fristen
+---
 
-- **Prioritätsjahr Art. 87 EPÜ / § 41 PatG:** 12 Monate ab erster Hinterlegung; PCT-Frist ebenfalls 12 Monate.
-- **PCT-Nationalisierung:** regelmäßig 30 oder 31 Monate ab Prioritätstag (Land-spezifisch; DE und EP: 31 Monate).
-- **Recherchengebühr EPA:** mit Anmeldung; Prüfungsantrag binnen 6 Monaten nach Veröffentlichung des Recherchenberichts (Art. 94 (1) EPÜ).
-- **Antwort auf Prüfungsbescheid EPA:** regelmäßig 4 Monate, verlängerbar.
-- **DPMA-Prüfungsantrag (§ 44 PatG):** binnen 7 Jahren nach Anmeldetag.
-- **Einspruch EPA:** **9 Monate** ab Veröffentlichung des Erteilungshinweises (Art. 99 EPÜ).
-- **Beschränkungs-/Widerrufsantrag (Art. 105a EPÜ):** jederzeit.
-- **Jahresgebühren EPA:** ab dem 3. Anmeldejahr; ab Erteilung an nationale Ämter.
-- **Jahresgebühren DPMA (§ 17 PatG):** ab dem 3. Anmeldejahr; bei Nichtzahlung Erlöschen (§ 20 PatG); Wiedereinsetzungsfrist § 123 PatG.
-- **Nichtigkeitsklage BPatG (§ 81 PatG):** keine starre Frist, aber nur gegen erteiltes Patent.
-- **UPC Opt-out (Übergangszeit):** prüfen Sie aktuell unifiedpatentcourt.org -- Übergangszeitraum 7 Jahre ab Inkrafttreten UPCA (mit Verlängerungsoption auf 14 Jahre).
+## Skill: `loeschung-widerruf-nichtigkeit-global-route`
 
-## Quellen live
-- `register.dpma.de`, `register.epo.org`, `worldwide.espacenet.com`, `unifiedpatentcourt.org`, `wipo.int/portal/en/index.html` (PatentScope für PCT).
+_Wenn es um Löschung, Widerruf, Nichtigkeit: globale Route in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# Löschung, Widerruf, Nichtigkeit: globale Route
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: PatG § 34 Anmeldetag, § 41 Priorität 12 Monate, § 81 Nichtigkeitsklage, EPÜ Art. 99 Einspruch 9 Monate, R. 161/162 EPÜ 6 Monate, UPC Opt-out bis Ablauf Transition.
+- Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87-89, PCT Art. 3, 8, UPCA, EinheitspatentVO 1257/2012 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Einstieg
+
+Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
+
+1. Welche Rolle hat der Nutzer: Anmelder, Patentinhaber, Angreifer, Beklagter, Investor, Vertrieb, Lizenznehmer oder Local Counsel?
+2. Welche Schutzrechte, Produkte, Länder und Fristen sind betroffen?
+3. Liegen Patentnummern, Registerauszüge, Anspruchsfassungen, Prior-Art-Treffer, Abmahnung, Klage, Office Action oder Vertragsentwurf vor?
+4. Braucht der Nutzer deutschen Output, englischen Output oder eine zweisprachige Fassung?
+
+## Arbeitsworkflow
+
+1. **Patentfamilie und relevante Länder filtern.**
+2. **Angriffsgründe pro Forum mappen.**
+3. **Fristen, Standing, Kosten und Beweisbedarf vergleichen.**
+4. **Parallelverfahren und Estoppel-/Präklusionsrisiken markieren.**
+5. **Master-Zeitplan mit Entscheidungsfenstern erstellen.**
+
+## Prüfmatrix
+
+| Ebene | Prüffrage | Ergebnis |
+| --- | --- | --- |
+| Schutzrecht | Welche Anspruchsfassung, welcher Status, welche Priorität und welche Territorien? | Register live prüfen; Annahmen markieren. |
+| Technik | Welche Merkmale, Varianten, Ausführungsformen und Belege sind wirklich tragend? | Merkmalsgliederung/Claim Chart. |
+| Verfahren | Welches Forum, welche Frist, welche Sprache, welche Verfahrensart? | Forum- und Fristenampel. |
+| Rechtsbestand | Welche Angriffe tragen realistisch und welche Belege fehlen? | Invalidity-/Opposition-Map. |
+| Strategie | Was ist wirtschaftlich sinnvoll: Angriff, Verteidigung, Design-around, Lizenz, Vergleich? | Handlungsempfehlung. |
+
+## Anschluss-Skills
+
+- `internationaler-patentrechts-und-laendercheck`, wenn weitere Länder oder Patentfamilien betroffen sind.
+- `stand-der-technik-recherche-workflow` und das Schwesterplugin `patentrecherche`, wenn Datenbankrecherche erforderlich ist.
+- `patentrecht-redteam-qualitygate`, bevor ein Ergebnis nach außen geht.
+
+---
+
+## Skill: `patentprozess-negative-schutzschrift`
+
+_Wenn es um Patentprozess: Negative Feststellung und Torpedo-Risiken in patentrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Patentprozess: Negative Feststellung und Torpedo-Risiken
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: PatG § 34 Anmeldetag, § 41 Priorität 12 Monate, § 81 Nichtigkeitsklage, EPÜ Art. 99 Einspruch 9 Monate, R. 161/162 EPÜ 6 Monate, UPC Opt-out bis Ablauf Transition.
+- Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87-89, PCT Art. 3, 8, UPCA, EinheitspatentVO 1257/2012 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Einstieg
+
+Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
+
+1. Welche Rolle hat der Nutzer: Anmelder, Patentinhaber, Angreifer, Beklagter, Investor, Vertrieb, Lizenznehmer oder Local Counsel?
+2. Welche Schutzrechte, Produkte, Länder und Fristen sind betroffen?
+3. Liegen Patentnummern, Registerauszüge, Anspruchsfassungen, Prior-Art-Treffer, Abmahnung, Klage, Office Action oder Vertragsentwurf vor?
+4. Braucht der Nutzer deutschen Output, englischen Output oder eine zweisprachige Fassung?
+
+## Arbeitsworkflow
+
+1. **Rechtschutzbedürfnis und Drohlage erfassen.**
+2. **Forum, Zuständigkeit und Territorialität prüfen.**
+3. **Nichtverletzungsargumente in claim construction übersetzen.**
+4. **Parallel zu Revocation/FTO/Schutzschrift planen.**
+5. **Kommunikationsrisiken gegenüber Gegner und Kunden steuern.**
+
+## Prüfmatrix
+
+| Ebene | Prüffrage | Ergebnis |
+| --- | --- | --- |
+| Schutzrecht | Welche Anspruchsfassung, welcher Status, welche Priorität und welche Territorien? | Register live prüfen; Annahmen markieren. |
+| Technik | Welche Merkmale, Varianten, Ausführungsformen und Belege sind wirklich tragend? | Merkmalsgliederung/Claim Chart. |
+| Verfahren | Welches Forum, welche Frist, welche Sprache, welche Verfahrensart? | Forum- und Fristenampel. |
+| Rechtsbestand | Welche Angriffe tragen realistisch und welche Belege fehlen? | Invalidity-/Opposition-Map. |
+| Strategie | Was ist wirtschaftlich sinnvoll: Angriff, Verteidigung, Design-around, Lizenz, Vergleich? | Handlungsempfehlung. |
+
+## Anschluss-Skills
+
+- `internationaler-patentrechts-und-laendercheck`, wenn weitere Länder oder Patentfamilien betroffen sind.
+- `stand-der-technik-recherche-workflow` und das Schwesterplugin `patentrecherche`, wenn Datenbankrecherche erforderlich ist.
+- `patentrecht-redteam-qualitygate`, bevor ein Ergebnis nach außen geht.
+
+---
+
+## Skill: `kanada-patentrecht-cipo-federal-court`
+
+_Wenn es um Kanada: CIPO, Federal Court und Patentstreit in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# Kanada: CIPO, Federal Court und Patentstreit
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: PatG § 34 Anmeldetag, § 41 Priorität 12 Monate, § 81 Nichtigkeitsklage, EPÜ Art. 99 Einspruch 9 Monate, R. 161/162 EPÜ 6 Monate, UPC Opt-out bis Ablauf Transition.
+- Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87-89, PCT Art. 3, 8, UPCA, EinheitspatentVO 1257/2012 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Einstieg
+
+Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
+
+1. Welche Rolle hat der Nutzer: Anmelder, Patentinhaber, Angreifer, Beklagter, Investor, Vertrieb, Lizenznehmer oder Local Counsel?
+2. Welche Schutzrechte, Produkte, Länder und Fristen sind betroffen?
+3. Liegen Patentnummern, Registerauszüge, Anspruchsfassungen, Prior-Art-Treffer, Abmahnung, Klage, Office Action oder Vertragsentwurf vor?
+4. Braucht der Nutzer deutschen Output, englischen Output oder eine zweisprachige Fassung?
+
+## Arbeitsworkflow
+
+1. **Kanadische Anmeldung, Priorität und Status über CIPO prüfen.**
+2. **Patentfähigkeit und Anspruchsform mit lokalen Besonderheiten markieren.**
+3. **Re-examination, Impeachment/Validity und Federal-Court-Route unterscheiden.**
+4. **Pharma/PM(NOC)-Bezug gesondert abfragen.**
+5. **Local Counsel Brief mit Unterlagen und Fristen erstellen.**
+
+## Prüfmatrix
+
+| Ebene | Prüffrage | Ergebnis |
+| --- | --- | --- |
+| Schutzrecht | Welche Anspruchsfassung, welcher Status, welche Priorität und welche Territorien? | Register live prüfen; Annahmen markieren. |
+| Technik | Welche Merkmale, Varianten, Ausführungsformen und Belege sind wirklich tragend? | Merkmalsgliederung/Claim Chart. |
+| Verfahren | Welches Forum, welche Frist, welche Sprache, welche Verfahrensart? | Forum- und Fristenampel. |
+| Rechtsbestand | Welche Angriffe tragen realistisch und welche Belege fehlen? | Invalidity-/Opposition-Map. |
+| Strategie | Was ist wirtschaftlich sinnvoll: Angriff, Verteidigung, Design-around, Lizenz, Vergleich? | Handlungsempfehlung. |
+
+## Anschluss-Skills
+
+- `internationaler-patentrechts-und-laendercheck`, wenn weitere Länder oder Patentfamilien betroffen sind.
+- `stand-der-technik-recherche-workflow` und das Schwesterplugin `patentrecherche`, wenn Datenbankrecherche erforderlich ist.
+- `patentrecht-redteam-qualitygate`, bevor ein Ergebnis nach außen geht.
+
+---
+
+## Skill: `patentprozess-einstweilige-verfuegung`
+
+_Wenn es um Patentprozess: Einstweilige Verfügung DE/UPC in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# Patentprozess: Einstweilige Verfügung DE/UPC
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: PatG § 34 Anmeldetag, § 41 Priorität 12 Monate, § 81 Nichtigkeitsklage, EPÜ Art. 99 Einspruch 9 Monate, R. 161/162 EPÜ 6 Monate, UPC Opt-out bis Ablauf Transition.
+- Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87-89, PCT Art. 3, 8, UPCA, EinheitspatentVO 1257/2012 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Einstieg
+
+Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
+
+1. Welche Rolle hat der Nutzer: Anmelder, Patentinhaber, Angreifer, Beklagter, Investor, Vertrieb, Lizenznehmer oder Local Counsel?
+2. Welche Schutzrechte, Produkte, Länder und Fristen sind betroffen?
+3. Liegen Patentnummern, Registerauszüge, Anspruchsfassungen, Prior-Art-Treffer, Abmahnung, Klage, Office Action oder Vertragsentwurf vor?
+4. Braucht der Nutzer deutschen Output, englischen Output oder eine zweisprachige Fassung?
+
+## Arbeitsworkflow
+
+1. **Kenntniszeitpunkte und Dringlichkeitsverlust rekonstruieren.**
+2. **Rechtsbestandssicherheit und Verletzungsbeweis getrennt prüfen.**
+3. **Schutzschrift/Protective Letter und Vergleichsfenster abwägen.**
+4. **Antrag, Anlagen, Glaubhaftmachung und Geheimnisschutz strukturieren.**
+5. **Vollziehung, Sicherheitsleistung und Kommunikation vorbereiten.**
+
+## Prüfmatrix
+
+| Ebene | Prüffrage | Ergebnis |
+| --- | --- | --- |
+| Schutzrecht | Welche Anspruchsfassung, welcher Status, welche Priorität und welche Territorien? | Register live prüfen; Annahmen markieren. |
+| Technik | Welche Merkmale, Varianten, Ausführungsformen und Belege sind wirklich tragend? | Merkmalsgliederung/Claim Chart. |
+| Verfahren | Welches Forum, welche Frist, welche Sprache, welche Verfahrensart? | Forum- und Fristenampel. |
+| Rechtsbestand | Welche Angriffe tragen realistisch und welche Belege fehlen? | Invalidity-/Opposition-Map. |
+| Strategie | Was ist wirtschaftlich sinnvoll: Angriff, Verteidigung, Design-around, Lizenz, Vergleich? | Handlungsempfehlung. |
+
+## Anschluss-Skills
+
+- `internationaler-patentrechts-und-laendercheck`, wenn weitere Länder oder Patentfamilien betroffen sind.
+- `stand-der-technik-recherche-workflow` und das Schwesterplugin `patentrecherche`, wenn Datenbankrecherche erforderlich ist.
+- `patentrecht-redteam-qualitygate`, bevor ein Ergebnis nach außen geht.
+
+---
+
+## Skill: `schweiz-patentrecht-bundespatentgericht`
+
+_Wenn es um Schweiz: IGE und Bundespatentgericht in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Schweiz: IGE und Bundespatentgericht
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: PatG § 34 Anmeldetag, § 41 Priorität 12 Monate, § 81 Nichtigkeitsklage, EPÜ Art. 99 Einspruch 9 Monate, R. 161/162 EPÜ 6 Monate, UPC Opt-out bis Ablauf Transition.
+- Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87-89, PCT Art. 3, 8, UPCA, EinheitspatentVO 1257/2012 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Einstieg
+
+Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
+
+1. Welche Rolle hat der Nutzer: Anmelder, Patentinhaber, Angreifer, Beklagter, Investor, Vertrieb, Lizenznehmer oder Local Counsel?
+2. Welche Schutzrechte, Produkte, Länder und Fristen sind betroffen?
+3. Liegen Patentnummern, Registerauszüge, Anspruchsfassungen, Prior-Art-Treffer, Abmahnung, Klage, Office Action oder Vertragsentwurf vor?
+4. Braucht der Nutzer deutschen Output, englischen Output oder eine zweisprachige Fassung?
+
+## Arbeitsworkflow
+
+1. **Swissreg/IGE und EP-Validierung prüfen.**
+2. **Territory Schweiz/Liechtenstein sauber abgrenzen.**
+3. **Verletzung, vorsorgliche Maßnahmen und Nichtigkeitsangriff parallel bewerten.**
+4. **Beweis- und Geheimnisschutzfragen sammeln.**
+5. **DACH-Koordinationsmemo erstellen.**
+
+## Prüfmatrix
+
+| Ebene | Prüffrage | Ergebnis |
+| --- | --- | --- |
+| Schutzrecht | Welche Anspruchsfassung, welcher Status, welche Priorität und welche Territorien? | Register live prüfen; Annahmen markieren. |
+| Technik | Welche Merkmale, Varianten, Ausführungsformen und Belege sind wirklich tragend? | Merkmalsgliederung/Claim Chart. |
+| Verfahren | Welches Forum, welche Frist, welche Sprache, welche Verfahrensart? | Forum- und Fristenampel. |
+| Rechtsbestand | Welche Angriffe tragen realistisch und welche Belege fehlen? | Invalidity-/Opposition-Map. |
+| Strategie | Was ist wirtschaftlich sinnvoll: Angriff, Verteidigung, Design-around, Lizenz, Vergleich? | Handlungsempfehlung. |
+
+## Anschluss-Skills
+
+- `internationaler-patentrechts-und-laendercheck`, wenn weitere Länder oder Patentfamilien betroffen sind.
+- `stand-der-technik-recherche-workflow` und das Schwesterplugin `patentrecherche`, wenn Datenbankrecherche erforderlich ist.
+- `patentrecht-redteam-qualitygate`, bevor ein Ergebnis nach außen geht.
+
+---
+
+## Skill: `us-patent-litigation-district-court-itc`
+
+_Wenn es um US-Patentprozess: District Court und ITC in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# US-Patentprozess: District Court und ITC
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: PatG § 34 Anmeldetag, § 41 Priorität 12 Monate, § 81 Nichtigkeitsklage, EPÜ Art. 99 Einspruch 9 Monate, R. 161/162 EPÜ 6 Monate, UPC Opt-out bis Ablauf Transition.
+- Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87-89, PCT Art. 3, 8, UPCA, EinheitspatentVO 1257/2012 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Einstieg
+
+Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
+
+1. Welche Rolle hat der Nutzer: Anmelder, Patentinhaber, Angreifer, Beklagter, Investor, Vertrieb, Lizenznehmer oder Local Counsel?
+2. Welche Schutzrechte, Produkte, Länder und Fristen sind betroffen?
+3. Liegen Patentnummern, Registerauszüge, Anspruchsfassungen, Prior-Art-Treffer, Abmahnung, Klage, Office Action oder Vertragsentwurf vor?
+4. Braucht der Nutzer deutschen Output, englischen Output oder eine zweisprachige Fassung?
+
+## Arbeitsworkflow
+
+1. **Forum klären: District Court, ITC oder PTAB-Kombination.**
+2. **Accused products, asserted claims und prior art in Litigation Matrix bringen.**
+3. **Discovery-Belastung, hold notices und privilege issues markieren.**
+4. **Claim construction/Markman-Begriffe aus deutscher Akte übersetzen.**
+5. **Damages, injunction und Settlement-Fenster modellieren.**
+
+## Prüfmatrix
+
+| Ebene | Prüffrage | Ergebnis |
+| --- | --- | --- |
+| Schutzrecht | Welche Anspruchsfassung, welcher Status, welche Priorität und welche Territorien? | Register live prüfen; Annahmen markieren. |
+| Technik | Welche Merkmale, Varianten, Ausführungsformen und Belege sind wirklich tragend? | Merkmalsgliederung/Claim Chart. |
+| Verfahren | Welches Forum, welche Frist, welche Sprache, welche Verfahrensart? | Forum- und Fristenampel. |
+| Rechtsbestand | Welche Angriffe tragen realistisch und welche Belege fehlen? | Invalidity-/Opposition-Map. |
+| Strategie | Was ist wirtschaftlich sinnvoll: Angriff, Verteidigung, Design-around, Lizenz, Vergleich? | Handlungsempfehlung. |
+
+## Anschluss-Skills
+
+- `internationaler-patentrechts-und-laendercheck`, wenn weitere Länder oder Patentfamilien betroffen sind.
+- `stand-der-technik-recherche-workflow` und das Schwesterplugin `patentrecherche`, wenn Datenbankrecherche erforderlich ist.
+- `patentrecht-redteam-qualitygate`, bevor ein Ergebnis nach außen geht.
 
 ---
 
 ## Skill: `internationaler-patentrechts-und-laendercheck`
 
-_Routet grenzüberschreitende Patentmandate nach DE, EP, UPC, PCT, USA, Kanada, Japan, Schweiz, UK, Türkei und Israel; trennt Recherche, Anmeldung, Rechtsstand, Verletzung, Rechtsbestand und lokale Counsel-Fragen im Patentrecht._
+_Wenn es um Internationaler Patent- und Ländercheck in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
 # Internationaler Patent- und Ländercheck
 
@@ -621,11 +692,11 @@ Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidu
 
 ---
 
-## Skill: `patentlizenzvertrag-review`
+## Skill: `patentprozess-claim-construction-de-en`
 
-_Prüft Patentlizenzverträge: Schutzrechte, Territory, Field of Use, Exklusivität, Unterlizenzen, Royalties, Milestones, Improvements, Inhaberschaft, Gewährleistung, Durchsetzung, Kündigung und Insolvenzrisiken im Patentrecht._
+_Wenn es um Patentprozess: Claim Construction DE/EN in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Patentlizenzvertrag prüfen
+# Patentprozess: Claim Construction DE/EN
 
 ## Arbeitsweg
 
@@ -635,120 +706,46 @@ _Prüft Patentlizenzverträge: Schutzrechte, Territory, Field of Use, Exklusivit
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Red-Flag-Check
+## Einstieg
 
-| Thema | Frage |
-| --- | --- |
-| Schutzrechte | Welche Patente/Anmeldungen genau, welcher Rechtsstand, welche Länder? |
-| Lizenzart | einfach, exklusiv, allein, konzernweit, nicht übertragbar? |
-| Field of Use | Produktfeld technisch und wirtschaftlich klar? |
-| Unterlizenz | erlaubt, zustimmungspflichtig, Konzern-/OEM-/Distributor-Abdeckung? |
-| Gegenleistung | upfront, milestone, running royalty, Mindestumsatz, auditierbare Basis? |
-| Verbesserungen | wem gehören Improvements, wer darf sie nutzen, wer muss anmelden? |
-| Durchsetzung | wer klagt, wer trägt Kosten, wer kontrolliert Vergleich? |
-| Gewährleistung | Bestand, Nichtverletzung, Inhaberschaft, technische Eignung sauber begrenzt? |
-| Ende | Kündigung, Sell-off, Know-how-Rückgabe, Daten, Lagerbestand, Insolvenz? |
+Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
 
-## Typische Fehler
+1. Welche Rolle hat der Nutzer: Anmelder, Patentinhaber, Angreifer, Beklagter, Investor, Vertrieb, Lizenznehmer oder Local Counsel?
+2. Welche Schutzrechte, Produkte, Länder und Fristen sind betroffen?
+3. Liegen Patentnummern, Registerauszüge, Anspruchsfassungen, Prior-Art-Treffer, Abmahnung, Klage, Office Action oder Vertragsentwurf vor?
+4. Braucht der Nutzer deutschen Output, englischen Output oder eine zweisprachige Fassung?
 
-- Territory und validierte Länder widersprechen sich.
-- Exklusivität kollidiert mit eigener Nutzung oder bestehenden Lizenzen.
-- "Patent" meint Anmeldung, aber Vertrag behandelt es wie erteiltes Schutzrecht.
-- Erfinderpersönlichkeitsrechte werden wie übertragbare Vermögensrechte formuliert.
-- Royalty Base passt nicht zu Produktbündeln, Ersatzteilen oder Dienstleistungen.
+## Arbeitsworkflow
 
-## Pflicht-Normen und Doktrinen
-- **§ 15 PatG:** Übertragung und Lizenz; Lizenz ist sukzessionsfest, wenn dinglich bestellt.
-- **VertikalGVO (EU) 2022/720 + Leitlinien:** Marktanteils-Sicherheitshafen 30 %; Kernbeschränkungen (RPM, Gebiete) bleiben verboten.
-- **TT-GVO (EU) 316/2014:** Gruppenfreistellung für Technologietransfer; Marktanteilsschwellen (20 % bei Wettbewerbern, 30 % bei Nichtwettbewerbern); Kernbeschränkungen Art. 4.
-- **FRAND / SEP:** EuGH Huawei/ZTE, C-170/13, Urt. v. 16.07.2015 -- pflichtgemäßes Verhandlungsritual.
-- **Insolvenz des Lizenzgebers:** § 103 InsO Wahlrecht des Insolvenzverwalters; einfache Lizenz erlischt nicht zwingend, aber Risiko der Anfechtung. Schutz durch ausschließliche Lizenz mit Eintragung im DPMA-Register (§ 30 PatG); ggf. Treuhand.
-- **AGB-Recht / B2B:** §§ 305 ff. BGB greifen im B2B-Geschäft begrenzt, aber Inhaltskontrolle nach § 307 BGB bleibt; bei Massenverträgen Klauselrisiko.
-- **Compliance:** Exportkontrolle (Dual-Use-VO (EU) 2021/821), Sanktionsrecht, Embargos.
+1. **Anspruch in technische Merkmale zerlegen.**
+2. **Begriffspaare DE/EN mit Definition und Fundstelle erfassen.**
+3. **Beschreibung, Figuren und Prosecution History zuordnen.**
+4. **Wortsinngemäß/Äquivalenz/Nichtverletzung getrennt argumentieren.**
+5. **Gerichts- und Mandantenfassung erstellen.**
 
-## Praxis-Tipp
-- Konkrete Beispiele für Royalty-Bemessung im Vertrag (Stücklohn vs. Umsatz), Audit-Right mit 12-Monats-Vorlauf, Vertraulichkeit auf 5-10 Jahre.
+## Prüfmatrix
+
+| Ebene | Prüffrage | Ergebnis |
+| --- | --- | --- |
+| Schutzrecht | Welche Anspruchsfassung, welcher Status, welche Priorität und welche Territorien? | Register live prüfen; Annahmen markieren. |
+| Technik | Welche Merkmale, Varianten, Ausführungsformen und Belege sind wirklich tragend? | Merkmalsgliederung/Claim Chart. |
+| Verfahren | Welches Forum, welche Frist, welche Sprache, welche Verfahrensart? | Forum- und Fristenampel. |
+| Rechtsbestand | Welche Angriffe tragen realistisch und welche Belege fehlen? | Invalidity-/Opposition-Map. |
+| Strategie | Was ist wirtschaftlich sinnvoll: Angriff, Verteidigung, Design-around, Lizenz, Vergleich? | Handlungsempfehlung. |
+
+## Anschluss-Skills
+
+- `internationaler-patentrechts-und-laendercheck`, wenn weitere Länder oder Patentfamilien betroffen sind.
+- `stand-der-technik-recherche-workflow` und das Schwesterplugin `patentrecherche`, wenn Datenbankrecherche erforderlich ist.
+- `patentrecht-redteam-qualitygate`, bevor ein Ergebnis nach außen geht.
 
 ---
 
-## Skill: `abmahnung-patentverletzung-verteidigung`
+## Skill: `upc-verletzung-und-rechtsbestand`
 
-_Verteidigt gegen Patentabmahnungen: Fristen, Unterlassungserklärung, Registerstand, Anspruchsfassung, Nichtverletzung, Rechtsbestand, Vorbenutzungsrecht, Schutzschrift, Vergleich und Mandantenkommunikation im Patentrecht._
+_Wenn es um UPC: Verletzung, Rechtsbestand und Zuständigkeit in patentrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Patentabmahnung verteidigen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: PatG § 34 Anmeldetag, § 41 Priorität 12 Monate, § 81 Nichtigkeitsklage, EPÜ Art. 99 Einspruch 9 Monate, R. 161/162 EPÜ 6 Monate, UPC Opt-out bis Ablauf Transition.
-- Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87-89, PCT Art. 3, 8, UPCA, EinheitspatentVO 1257/2012 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Sofortscan
-
-1. Frist und Zustellung.
-2. Absender, Vertreter, Schutzrecht, Anspruchsfassung, Territory.
-3. Geforderte Erklärung: Unterlassung, Auskunft, Rechnungslegung, Rückruf, Vernichtung, Kostenerstattung.
-4. Produktbezug und konkrete Verletzungsbehauptung.
-5. Eilrisiko: einstweilige Verfügung, Messe, Launch, Lieferstopp.
-
-## Verteidigungslinien
-
-- Schutzrecht nicht in Kraft oder falsche Anspruchsfassung.
-- Produkt verwirklicht ein Merkmal nicht.
-- Äquivalenz greift nicht.
-- Rechtsbestand zweifelhaft.
-- Vorbenutzungsrecht oder Lizenz.
-- Erschöpfung oder Lieferketteneinwand.
-- Unterlassungserklärung zu weit, Vertragsstrafe zu riskant, Konzern-/Lieferkettenumfang unklar.
-- Vergleich, Standstill, Design-around oder negative Feststellung.
-
-## Regel
-
-Nie empfehlen, eine vorformulierte Unterlassungserklärung ungeprüft zu unterschreiben. Immer Umfang, Vertragsstrafe, Anerkenntniswirkung, Auskunft und Rückruf isoliert prüfen.
-
-## Anker-Normen und Doktrinen
-- **§ 9 PatG:** Allein- und Mitbenutzungsrecht; Verletzungstatbestand.
-- **§ 14 PatG / Art. 69 EPÜ + Protokoll:** Schutzbereich richtet sich nach den Patentansprüchen; Beschreibung und Zeichnungen sind heranzuziehen.
-- **§ 139 PatG:** Unterlassungs- und Schadensersatzanspruch (Schadensersatz dreistufig: konkret, Lizenzanalogie, Gewinnabschöpfung).
-- **§ 140a PatG:** Vernichtung; **§ 140b PatG:** Auskunftsanspruch.
-- **§ 12 PatG:** Vorbenutzungsrecht -- inländische ernsthafte Benutzung vor Prioritätstag schützt vor Verletzung.
-- **Äquivalenzdoktrin** (BGH, Schneidmesser-Linie, vgl. ständige Rspr.): drei Schritte (gleiche Wirkung, Auffindbarkeit, Gleichwertigkeit im Schutzbereich).
-- **Erschöpfung:** rechtmäßig in den EWR in Verkehr gebrachte Erzeugnisse.
-- **FRAND-Pflichten bei SEP:** EuGH Huawei/ZTE, C-170/13, Urt. v. 16.07.2015.
-
-## Schutzschrift
-- Hinterlegung im Zentralen Schutzschriftenregister `schutzschriftenregister.de`; spätestens vor Antragstellung der eV; sechs Monate Gültigkeit.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 12 PatG
-- § 3 PatG
-- § 4 PatG
-- § 14 PatG
-- § 139 PatG
-- § 34 PatG
-- § 6 ArbEG
-- § 9 ArbEG
-- § 37 PatG
-- § 8 PatG
-- § 10 PatG
-- § 44 PatG
-
-### Leitentscheidungen
-
-- BGH X ZR 168/00
-
----
-
-## Skill: `einspruch-epa-und-nichtigkeit-bpatg`
-
-_Bereitet EPA-Einspruch und deutsche Nichtigkeitsklage vor: Fristen, Zuständigkeit, Angriffsmittel, Stand der Technik, unzulässige Erweiterung, Ausführbarkeit, Priorität, Hilfsanträge und Prozessstrategie im Patentrecht._
-
-# Einspruch und Nichtigkeit
+# UPC: Verletzung, Rechtsbestand und Zuständigkeit
 
 ## Arbeitsweg
 
@@ -758,80 +755,44 @@ _Bereitet EPA-Einspruch und deutsche Nichtigkeitsklage vor: Fristen, Zuständigk
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Weichenstellung
+## Einstieg
 
-- **EPA-Einspruch:** nach Erteilung innerhalb der EPÜ-Frist; zentraler Angriff gegen europäisches Patent.
-- **Nichtigkeitsklage:** deutscher Angriff gegen nationalen Teil, wenn zulässig und strategisch sinnvoll.
-- **Parallelität:** Verletzungsverfahren, UPC, BPatG, EPA und Vergleichsverhandlungen koordinieren.
+Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
 
-## Angriffsmittel
+1. Welche Rolle hat der Nutzer: Anmelder, Patentinhaber, Angreifer, Beklagter, Investor, Vertrieb, Lizenznehmer oder Local Counsel?
+2. Welche Schutzrechte, Produkte, Länder und Fristen sind betroffen?
+3. Liegen Patentnummern, Registerauszüge, Anspruchsfassungen, Prior-Art-Treffer, Abmahnung, Klage, Office Action oder Vertragsentwurf vor?
+4. Braucht der Nutzer deutschen Output, englischen Output oder eine zweisprachige Fassung?
 
-1. fehlende Neuheit.
-2. fehlende erfinderische Tätigkeit.
-3. nicht patentfähiger Gegenstand.
-4. mangelnde Ausführbarkeit.
-5. unzulässige Erweiterung.
-6. unzulässige Erweiterung des Schutzbereichs nach Erteilung.
-7. Prioritätsproblem.
+## Arbeitsworkflow
 
-## Beweispaket
+1. **Patentart klären: Einheitspatent oder EP-Bündelpatent.**
+2. **Opt-out und Übergangsregime live im UPC/EPO-Kontext prüfen.**
+3. **Kammerwahl nach Sitz, Verletzungsort, Beklagtem und Patentklassifikation vorbereiten.**
+4. **Verletzungsangriff, Revocation-Counterclaim und Bifurcation-Risiko abbilden.**
+5. **Verfahrenssprache, CMS-Anforderungen und Beweismittelpaket planen.**
 
-| Angriff | Dokument/Beweis | Relevanz | Beweisqualität | Lücke |
-| --- | --- | --- | --- | --- |
+## Prüfmatrix
 
----
+| Ebene | Prüffrage | Ergebnis |
+| --- | --- | --- |
+| Schutzrecht | Welche Anspruchsfassung, welcher Status, welche Priorität und welche Territorien? | Register live prüfen; Annahmen markieren. |
+| Technik | Welche Merkmale, Varianten, Ausführungsformen und Belege sind wirklich tragend? | Merkmalsgliederung/Claim Chart. |
+| Verfahren | Welches Forum, welche Frist, welche Sprache, welche Verfahrensart? | Forum- und Fristenampel. |
+| Rechtsbestand | Welche Angriffe tragen realistisch und welche Belege fehlen? | Invalidity-/Opposition-Map. |
+| Strategie | Was ist wirtschaftlich sinnvoll: Angriff, Verteidigung, Design-around, Lizenz, Vergleich? | Handlungsempfehlung. |
 
-## Skill: `erfinderbenennung-arbeitnehmererfindung`
+## Anschluss-Skills
 
-_Prüft Erfinderbenennung, Rechtekette und Arbeitnehmererfindungs-Schnittstellen: wer ist Erfinder, wer ist Anmelder, Diensterfindung, freie Erfindung, Inanspruchnahme, Vergütung und Dokumentationsrisiken im Patentrecht._
-
-# Erfinderbenennung und Arbeitnehmererfindung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: PatG § 34 Anmeldetag, § 41 Priorität 12 Monate, § 81 Nichtigkeitsklage, EPÜ Art. 99 Einspruch 9 Monate, R. 161/162 EPÜ 6 Monate, UPC Opt-out bis Ablauf Transition.
-- Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 41, 59, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87-89, PCT Art. 3, 8, UPCA, EinheitspatentVO 1257/2012 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Erfinderstatus
-
-Erfinder ist, wer einen schöpferischen Beitrag zur technischen Lehre geleistet hat. Nicht ausreichend sind bloße Aufgabenstellung, Finanzierung, Management, Routineversuche oder mechanische Umsetzung ohne eigenen Beitrag.
-
-## Prüffragen
-
-1. Wer hatte welche konkrete technische Idee?
-2. Welche Beiträge betreffen den erfinderischen Kern?
-3. Arbeitnehmer, Geschäftsführer, Freelancer, Universität, Kunde, Lieferant?
-4. Gibt es Arbeitsvertrag, Entwicklungsvertrag, NDA, IP Assignment, Hochschul-/Forschungsbedingungen?
-5. Wurde eine Diensterfindung gemeldet und in Anspruch genommen?
-6. Sind Vergütungs- und Nachweisdokumente vorhanden?
-7. Muss die Anmeldung korrigiert oder eine Rechtekette geschlossen werden?
-
-## Red Flags
-
-- Anmelder ist Konzernmutter, erfunden wurde aber bei Tochter/Freelancer.
-- Erfinder sollen aus politischen Gründen aufgenommen oder gestrichen werden.
-- "Alle Rechte übertragen" steht im Vertrag, aber Erfinderbenennung/ArbEG-Logik ist ungeklärt.
-- Lizenzvertrag setzt Inhaberschaft voraus, Register und Aktenlage tragen das nicht.
-
-## ArbEG — Pflichtnormen
-
-- **§ 5 ArbEG Meldepflicht:** Arbeitnehmer muss Diensterfindung unverzüglich schriftlich melden; Arbeitgeber bestätigt schriftlich. Frist für Bestätigung: unverzüglich.
-- **§ 6 ArbEG Inanspruchnahme:** Arbeitgeber kann binnen 4 Monaten nach ordnungsgemäßer Meldung ablehnen; sonst gilt sie als unbeschränkt in Anspruch genommen (§ 6 Abs. 2 ArbEG seit 01.10.2009).
-- **§ 9 ArbEG Vergütung:** angemessene Vergütung nach Lizenzanalogie; Vergütungsrichtlinien (RL Nr. 1 bis 39 vom 20.07.1959 / Anpassungen). Üblich: Erfindungswert x Anteilsfaktor (a, b, c) x Persönlicher Anteil. Vergütung verfällt nicht mit Beendigung des Arbeitsverhältnisses.
-- **§ 16 ArbEG Schutzrechtsanmeldung:** Arbeitgeber muss Patent anmelden, sonst Rückübertragungsanspruch (§ 16 ArbEG).
-- **§ 37 PatG Erfinderbenennung:** Erfinder muss in Anmeldung benannt werden; Anmeldung ohne richtige Erfinderbenennung ist anfechtbar (§ 8 PatG Vindikation).
-- **Spezialfälle:** Hochschulerfindungen § 42 ArbEG (Hochschullehrer); Universitäten haben 30 % Vergütungsanteil; Veröffentlichungsfreiheit zu wahren.
-- **Vergütung Routinearbeit:** § 9 ArbEG-Logik nicht auf "freie" Erfindungen anwendbar — Trennung sauber ziehen.
-- Falle: Bei Konzernlizenzen IP-Inhaberschaft live im DPMA-Register prüfen; "wirtschaftliche" Zuordnung reicht nicht; Diensterfinderbenennung darf nicht zur Familienangelegenheit werden — § 8 PatG Vindikationsanspruch droht.
+- `internationaler-patentrechts-und-laendercheck`, wenn weitere Länder oder Patentfamilien betroffen sind.
+- `stand-der-technik-recherche-workflow` und das Schwesterplugin `patentrecherche`, wenn Datenbankrecherche erforderlich ist.
+- `patentrecht-redteam-qualitygate`, bevor ein Ergebnis nach außen geht.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

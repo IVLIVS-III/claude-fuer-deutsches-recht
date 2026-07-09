@@ -58,7 +58,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 42 BDSG Strafvorschriften bei vorsätzlicher unbefugter Offenlegung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 16.07.2020 - C-311/18: Schrems II verlangt tragfähige Prüfung internationaler Datentransfers.
 - EuGH, Urteil vom 04.05.2023 - C-300/21: immaterieller Schadensersatz nach Datenschutz-Grundverordnung verlangt Schaden, Verstoß und Kausalitaet.
-- EuGH C-300/21 (immaterieller Schaden Art. 82 Datenschutz-Grundverordnung)
 - EuGH C-634/21 (automatisierte Bonitätsbewertung Schufa)
 - EuGH C-26/22 (Datenschutzbehörden-Befugnisse)
 

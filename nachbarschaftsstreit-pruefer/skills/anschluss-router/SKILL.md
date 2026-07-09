@@ -87,5 +87,4 @@ Stand: 05/2026. Kernnormen: §§ 903, 906-923, 823, 862, 1004 BGB; Landesnachbar
 ### Leitentscheidungen
 
 - BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)

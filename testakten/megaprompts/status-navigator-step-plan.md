@@ -1,97 +1,97 @@
-# Megaprompt: status-navigator-step-plan
+# Vollprüfung: status-navigator-step-plan
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 35 Skills des Plugins `status-navigator-step-plan`.
+Dieser Vollprüfung enthaelt top-15 von 35 Skills des Plugins `status-navigator-step-plan`.
 
 ## Inhaltsverzeichnis
 
-1. **status-navigator-einstieg** — Einstiegs-Skill fuer den Status-Navigator: nimmt einen ungeordneten Dokumentenklumpatsch entgegen und liefert die ersten…
-2. **excel-reiter-1-ueberblick** — Baut Reiter 1 der Step-Plan-Excel: Überblick aller fuer die Durchsetzung erforderlichen Dokumente. Spalten Dokument, Dat…
-3. **szenario-faelligstellung-vollstreckung** — Anwendungsszenario gescheiterte Finanzierung mit Vorbereitung von Faelligstellung und Vollstreckung. Status-Navigator er…
-4. **ziel-praezisieren** — Klaert mit dem Auftraggeber das konkrete Ziel des Status-Navigators: Faelligstellung und Vollstreckung, Vollzug einer Ka…
-5. **padlet-spalte-1-ueberblick** — Baut die erste Padlet-Spalte als Pendant zu Reiter 1 der Step-Plan-Excel. Überblick aller erforderlichen Dokumente mit A…
-6. **excel-reiter-4-workflow** — Baut Reiter 4 der Step-Plan-Excel: Workflow je Dokument in Reihenfolge der Beschaffung. Spalten erforderliches Dokument,…
-7. **excel-reiter-2-vorhanden** — Baut Reiter 2 der Step-Plan-Excel: vorhandene Dokumente mit Augenmerk auf Unterschriftsstatus und Vertretungsbefugnis. S…
-8. **erweiterung-rangfolge-reiter** — Optionaler Reiter Rangfolge bei mehreren Finanzierungsinstrumenten. Stellt die Rang- und Befriedigungsreihenfolge dar: S…
-9. **padlet-als-werkzeug** — Erläutert, wann Padlet als visuelle Alternative zur Step-Plan-Excel sinnvoll ist und wann nicht. Beschreibt das Format S…
-10. **zugang-zustellung-pruefung** — Erfasst den Versendungs- und Zustellungsstatus aller zugangsbeduerftigen Willenserklaerungen: Kuendigungen, Faelligstell…
-11. **szenario-finanzierungsstruktur-bereinigen** — Anwendungsszenario komplexe Finanzierungsstruktur bereinigen. Status-Navigator erfasst Wandeldarlehen, Bankfinanzierung,…
-12. **szenario-due-diligence** — Anwendungsszenario Due Diligence. Status-Navigator strukturiert eine grosse disparate Dokumentensammlung im Rahmen einer…
-13. **excel-reiter-3-fehlend** — Baut Reiter 3 der Step-Plan-Excel: fehlende Dokumente mit Beschaffungsweg. Spalten erforderliches Dokument, angefordert …
-14. **dokumententyp-vertraege** — Erkennt Vertraege als Dokumentenklasse: Darlehensvertraege, Wandeldarlehen, Gesellschaftervereinbarungen, Pflichtenheft,…
-15. **dokumententyp-cap-tables** — Erkennt Cap Tables in beliebigem Format (Excel, PDF, eingebettete Tabellen). Erfasst Stichdatum, Gesellschafter und Ante…
+1. **ampel-system** — Wenn es um Ampelsystem für Status in Plugin: status-navigator-step-plan geht: ordnet Sachverhalt, Norm, Beweislast, Gege…
+2. **dokumententyp-beschluesse** — Wenn es um Dokumententyp Gesellschafterbeschluesse in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Beleg…
+3. **dokumententyp-erklaerungen** — Wenn es um Dokumententyp einseitige Erklaerungen in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege,…
+4. **ziel-praezisieren** — Wenn es um Ziel praezisieren in Plugin: status-navigator-step-plan geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargu…
+5. **erweiterung-hyperlinks** — Wenn es um Erweiterung Hyperlinks zur Ablage in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lüc…
+6. **status-navigator-einstieg** — Wenn es um Einstieg: Was haben wir und was muss geschehen in Plugin: status-navigator-step-plan geht: klärt Rolle, Ziel,…
+7. **luecken-notifizieren** — Wenn es um Luecken in Tabellen notifizieren in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lück…
+8. **dokumententyp-korrespondenz** — Wenn es um Dokumententyp Korrespondenz in Plugin: status-navigator-step-plan geht: erstellt den passenden Entwurf aus Sa…
+9. **dokumententyp-vertraege** — Wenn es um Dokumententyp Verträge erkennen in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücke…
+10. **excel-reiter-1-ueberblick** — Wenn es um Reiter 1 Überblick Statuslage in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken …
+11. **excel-reiter-2-vorhanden** — Wenn es um Reiter 2 Vorhandene Dokumente in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken …
+12. **excel-reiter-3-fehlend** — Wenn es um Reiter 3 Fehlende Dokumente in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken un…
+13. **excel-reiter-4-workflow** — Wenn es um Reiter 4 Workflow Step-Plan in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken un…
+14. **szenario-mandatsuebernahme** — Wenn es um Szenario Mandatsuebernahme in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und…
+15. **dokumententyp-cap-tables** — Wenn es um Dokumententyp Cap Tables in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und N…
 
 ---
 
-## Skill: `status-navigator-einstieg`
+## Skill: `ampel-system`
 
-_Einstiegs-Skill fuer den Status-Navigator: nimmt einen ungeordneten Dokumentenklumpatsch entgegen und liefert die ersten Antworten auf die zwei Kernfragen — was ist eigentlich los und was muss als Naechstes geschehen. Setzt den Rahmen fuer alle Folgeschritte und erzeugt eine erste grobe Bestandsa..._
+_Wenn es um Ampelsystem für Status in Plugin: status-navigator-step-plan geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Einstieg: Was haben wir und was muss geschehen
+# Ampelsystem für Status
 
 ## Rolle und Fokus
-Erstes Sichten und grobes Strukturieren der Dokumentenlage. Setzt den Rahmen für alle Folgeschritte und beantwortet die zwei Kernfragen: Was haben wir? Was muss als Naechstes geschehen?
+Dreistufige Ampel (gruen/gelb/rot) als bedingte Formatierung in der Excel-Arbeitsmappe und als Farbtag in Padlet-Karten. Verdichtet komplexe Statuslagen auf einen Blick.
 
 ## Anwendungsbeispiel
-LausitzStorage Erstsichtung 02.06.2026 nach Mandatsannahme: 80 PDFs aus drei Quellen; nach 90 Minuten liegt eine erste Reiter-1-Liste mit 28 Eintraegen, drei Sofortmassnahmen (Zugangsnachweis Drawstop sichern, Anlage 4 Konsortial nachfordern, Wandlungsfrist Wandeldarlehen prüfen) und ein Cluster-Ampelbild vor.
+LausitzStorage-Akte Stand 02.06.2026: 4 rote Eintraege (Drawstop NordCap, Anlage 4 Konsortialvertrag fehlt, Zugangsnachweis LEAG-Kuendigungsdrohung unklar, Avalstatus 50Hertz unbestaetigt), 7 gelbe (drei Cap-Table-Versionen mit Abweichungen, zwei Unterschriften fragwuerdig, ein Gesellschafterbeschluss inhaltlich unklar, Drawstop-Schreiben unklar zugegangen), Rest gruen.
 
 ## Output-Module
-- Erstrunde-Reiter-1 mit grober Verfuegbarkeit
-- Liste der zwei bis drei Sofortmassnahmen
-- Auftrag für Folgeskills (Inventur, Dokumententypen, Zustellung)
+- Bedingte-Formatierung-Regeln je Reiter (Hintergrundfarbe auf Status-Spalte)
+- Restzeit-Ampel im Fristen-Reiter mit Schwellen 30/8 Tage
+- Ampel-Konsistenz-Prüfung zwischen Reiter 2 und 3
 
 ---
 
-## Skill: `excel-reiter-1-ueberblick`
+## Skill: `dokumententyp-beschluesse`
 
-_Baut Reiter 1 der Step-Plan-Excel: Überblick aller fuer die Durchsetzung erforderlichen Dokumente. Spalten Dokument, Datum, Verfuegbarkeit, Unterschriftsstatus, Unterzeichnet von (Partei und Funktion), Rechtsgrundlage (Klausel im zugrunde liegenden Vertrag) und Zweck. Mit Ampelfaerbung und Sorti..._
+_Wenn es um Dokumententyp Gesellschafterbeschluesse in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Reiter 1 Überblick Statuslage
+# Dokumententyp Gesellschafterbeschluesse
 
 ## Rolle und Fokus
-Reiter 1 ist die Gesamtsituation auf einen Blick. Alle für die Durchsetzung erforderlichen Dokumente in einer Zeile mit den wichtigsten Statusfeldern.
+Erkennt Beschlüsse als Dokumentenklasse. Gesellschafterbeschluss, Aufsichtsrats-, Hauptversammlungs-, Vorstandsbeschluss. Erfasst Beschlussdatum, beschliessende Organe, Beschlussgegenstand und Formerfordernis.
 
 ## Anwendungsbeispiel
-LausitzStorage Reiter 1: 28 Zeilen über 4 Cluster, davon 4 rot (NordCap-Drawstop-Schreiben Zugang, Anlage 4 Konsortial, BImSchG-Vorbescheid Auflagen, Avalstatus 50Hertz), 7 gelb (Cap-Table-Versionen, drei Unterschriftsbefunde, ein Beschluss-Formfrage), Rest gruen. Pro Cluster eine Subsumtionszeile mit Cluster-Gesamtstatus.
+Gesellschafterbeschluss vom 17.10.2025: Zustimmung zum Senior-Darlehensvertrag NordCap und zur Bestellung der Sicherheiten. Beschluss vorhanden, aber Schriftform statt Umlaufbeschluss mit Originalunterschriften aller Gesellschafter — Form steht in der GmbH-Satzung § 11 (verlangt notarielles Protokoll für Sicherheitenbestellung > 50 Mio EUR). Klärungsbedarf.
 
 ## Output-Module
-- Reiter 1 als Master-Index mit Querverweis in jede Detailpruefung
-- Cluster-Gesamtstatuszeile je Vertragsebene
-- Spalte Querverweis zu Reiter 2/3/4
+- Eintrag in Reiter 2 mit Typ-Tag Beschluss
+- Querverweis auf zustimmungspflichtige Verträge (Reiter 2 Anmerkungsspalte)
+- Hinweisliste an `unterschriftspruefung` und ggf. Reiter 3 wenn Form fragwuerdig
+
+---
+
+## Skill: `dokumententyp-erklaerungen`
+
+_Wenn es um Dokumententyp einseitige Erklaerungen in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Dokumententyp einseitige Erklaerungen
+
+## Rolle und Fokus
+Erkennt einseitige Willenserklaerungen: Kuendigungen, Faelligstellungen, Anfechtungen, Ruecktritte, Widerrufe, Wandlungserklaerungen. Markiert besonders zugangsbeduerftige Erklaerungen.
+
+## Anwendungsbeispiel
+Drawstop-Schreiben NordCap vom 22.05.2026: einseitige Erklaerung der Auszahlungsverweigerung gestuetzt auf 'material adverse change' und 'documentation gaps'. Versand per E-Mail an Bauernfeind; Zugangsnachweis fehlt; Vertretungsbefugnis des Unterzeichners (NordCap-Investment-Director) ist im Senior-Darlehensvertrag nicht eindeutig geregelt.
+
+## Output-Module
+- Eintrag in Reiter 2 mit Typ-Tag Erklaerung und Untertyp
+- Pflicht-Querverweis an `zugang-zustellung-pruefung`
+- Bei Vollmachtsfrage: Querverweis an `unterschriftspruefung`
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `szenario-faelligstellung-vollstreckung`
-
-_Anwendungsszenario gescheiterte Finanzierung mit Vorbereitung von Faelligstellung und Vollstreckung. Status-Navigator erfasst Darlehensvertraege, Kuendigungs- und Faelligstellungsschreiben, Zustellungsnachweise und Sicherheiten. Workflow zeigt die naechsten Schritte fuer die Vollstreckung._
-
-# Szenario gescheiterte Finanzierung
-
-## Rolle und Fokus
-Gescheiterte Finanzierung mit Vorbereitung von Faelligstellung und Vollstreckung. Status-Navigator erfasst Darlehensvertraege, Kuendigungs- und Faelligstellungsschreiben, Zustellungsnachweise, Sicherheiten.
-
-## Anwendungsbeispiel
-LausitzStorage hypothetische Spiegelung aus Gläubigersicht (NordCap gegen LausitzStorage): Faelligstellungsgrund waere Drawstop-Folge, aber Drawstop ist einseitige Auszahlungsverweigerung — keine Faelligstellung. Echte Faelligstellung erst nach Reparaturvereinbarungs-Scheitern; dann Pfandverwertung an Anteilen und Grundschuldverwertung.
-
-## Output-Module
-- Faelligstellungs-Checkliste im Workflow-Reiter
-- Zustellungs-Beweisplan je Erklaerung
-- Verwertungs-Stufenplan mit Stufenstatus
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
 ## Skill: `ziel-praezisieren`
 
-_Klaert mit dem Auftraggeber das konkrete Ziel des Status-Navigators: Faelligstellung und Vollstreckung, Vollzug einer Kapitalmassnahme, Bereinigung der Finanzierungsstruktur, Due-Diligence-Vorbereitung oder Mandatsuebernahme. Das Ziel bestimmt Reiterstruktur, Prüfschwerpunkte und Workflow._
+_Wenn es um Ziel praezisieren in Plugin: status-navigator-step-plan geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Ziel praezisieren
 
@@ -107,139 +107,179 @@ LausitzStorage Ziel laut Mandantenwunsch: (1) vollstaendige Bestandsaufnahme all
 - Priorisierungsregel für Reiter 4 (Workflow)
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
-## Skill: `padlet-spalte-1-ueberblick`
+## Skill: `erweiterung-hyperlinks`
 
-_Baut die erste Padlet-Spalte als Pendant zu Reiter 1 der Step-Plan-Excel. Überblick aller erforderlichen Dokumente mit Ampelfaerbung, Sortierung nach Vertragsebene und sieben Kartenfeldern (Dokument, Datum, Verfuegbarkeit, Unterschriftsstatus, Unterzeichnet von, Rechtsgrundlage, Zweck)._
+_Wenn es um Erweiterung Hyperlinks zur Ablage in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Padlet Reiter 1 Überblick aufbauen
-
-## Ziel
-Spalte 1 des Padlets bildet Reiter 1 der Step-Plan-Excel ab: alle
-erforderlichen Dokumente auf einen Blick, ampelfarblich gefuehrt.
-
-## Vorlage-Bezug
-Padlet-Spaltenkopf: `1. Uebersicht aller erforderlichen Dokumente`
-Subtitle: `Alle für die Durchsetzung erforderlichen Dokumente in einer
-einzigen Übersicht.`
-
-Karteninhalt pro Dokument (sieben Felder aus der Excel-Vorlage):
-
-| Padlet-Feld | Inhalt aus Excel-Vorlage |
-|---|---|
-| Kartentitel | Dokument |
-| Untertitel | Datum |
-| Statusbadge oben rechts | Verfuegbarkeit |
-| Badge zweite Reihe | Unterschriftsstatus |
-| Body Absatz 1 | Unterzeichnet von (Partei und Funktion) |
-| Body Absatz 2 | Rechtsgrundlage (Klausel im zugrunde liegenden Vertrag) |
-| Body Absatz 3 | Zweck |
-
-## Padlet-Konfiguration
-- Layout: **Shelf** (Spalten)
-- Sortierung innerhalb der Spalte: nach Vertragsebene
-  (Pacht, Netz, Genehmigung, Finanzierung, Gesellschaft, EPC)
-- Kartenfarbe: GRUEN, GELB, ROT entsprechend Ampel
-- Standardansicht: kompakte Karten
-
-## Anwendungsbeispiel
-LausitzStorage-Akte:
-- Erste Karte oben (GRUEN): Pachtvertrag LEAG Hauptvertrag, 11.07.2025,
-  vorliegend, vollstaendig.
-- Zweite Karte (ROT): 1. Nachtrag Pacht, 09.10.2025, vorliegend
-  privatschriftlich, fragwuerdig (§ 177 BGB).
-- Dritte Karte (ROT): 2. Nachtrag Pacht, 14.02.2026, fragwuerdig.
-- Vierte Karte (GRUEN): Netzanschlussvertrag 50Hertz, 28.08.2025,
-  vollstaendig.
-- ...
-
-## Output-Module
-- Padlet-Spalte 1 mit allen Dokumenten als Karten
-- Ampelfarbe je Karte
-- Anhaenge verlinkt
-- Sortierreihenfolge nach Vertragsebenen
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Grenzen
-- **Cloud-Dienst.** Vor Einsatz Datenschutzpruefung (siehe Padlet-Intro-Skill).
-- **Maximale Sinnhaftigkeit bei bis zu 50 Dokumenten.** Darueber wird
-  die Spalte unuebersichtlich; dann Excel bevorzugen oder mehrere
-  Padlets pro Vertragsebene.
-
-## Plugin-Kontext
-Spalte 1 ist die Eingangsansicht. Die folgenden drei Padlet-Skills bauen
-die Detailspalten 2, 3 und 4 auf.
-
----
-
-## Skill: `excel-reiter-4-workflow`
-
-_Baut Reiter 4 der Step-Plan-Excel: Workflow je Dokument in Reihenfolge der Beschaffung. Spalten erforderliches Dokument, Schritte in Reihenfolge, Rechtsgrundlage (Klausel im zugrunde liegenden Vertrag), Unterzeichnet von und Versendet an. Liefert den konkreten Action-Plan._
-
-# Reiter 4 Workflow Step-Plan
+# Erweiterung Hyperlinks zur Ablage
 
 ## Rolle und Fokus
-Reiter 4 ist das Herzstueck. Hier wird aus jedem fehlenden Dokument ein
-konkreter Step-Plan: welche Schritte in welcher Reihenfolge, mit welcher
-Rechtsgrundlage, von wem zu unterzeichnen, an wen zu versenden.
-
-## Vorlage-Bezug
-Reiter 4 folgt der Excel-Vorlage. Spalten:
-
-| Spalte | Inhalt |
-|---|---|
-| Erforderliches Dokument | aus Reiter 3 uebernommen |
-| Schritte zur Beschaffung (in Reihenfolge) | nummeriert 1. 2. 3. ... |
-| Rechtsgrundlage (Klausel im zugrunde liegenden Vertrag) | Klausel oder Paragraph |
-| Unterzeichnet von | die Personen, die zeichnen müssen |
-| Versendet an | Empfaenger, ggfs mit Sendeweg (Bote, Einschreiben, Notar, HR) |
+Verknuepft Tabelleneintraege mit Originaldokumenten in der Ablage. Sprung von der Tabelle zum Volltext spart Sucherei bei jeder Folgepruefung.
 
 ## Anwendungsbeispiel
-LausitzStorage-Akte, Reiter 4 enthaelt 12 Beschaffungs-Workflows.
-Beispiele:
-- Einzelaval 50Hertz: 1. Antwort ILB-Rueckfrage 18.04. ergaenzen,
-  2. ILB-Komitee 18.06. abwarten, 3. Backup-Antrag Berliner Sparkasse
-  parallel halten, 4. Aval-Urkunde an 50Hertz.
-- Reparaturvereinbarung Wandeldarlehen NordCap: 1. Entwurf Akte 22
-  finalisieren, 2. NordCap-Anwalt Mitzeichnung, 3. Bauernfeind
-  unterzeichnet.
+LausitzStorage-Akte: Reiter 1 verlinkt alle 19 Hauptdokumente in den Mandantsfileshare. Anlage 4 zum Konsortialvertrag bekommt Platzhalter-Link `_FEHLT_` damit beim Klick sofort sichtbar ist dass die Anlage in Reiter 3 nachverfolgt wird.
 
 ## Output-Module
-- Tabelleneintraege für Reiter 4
-- Reihenfolge-Visualisierung als Gantt-aehnliche Liste (Datumsspalte
-  optional)
-- Verantwortlichkeiten-Liste pro Person
-- Eingangsstapel für optionale Reiter (Fristen, Beteiligte)
+- Hyperlink-Spalte je Reiter (relativer Pfad)
+- Platzhalter-Link `_FEHLT_` für in Reiter 3 verfolgte Luecken
+- Wartungspruefung als Eintrag in `erweiterung-laufende-aktualisierung`
+
+---
+
+## Skill: `status-navigator-einstieg`
+
+_Wenn es um Einstieg: Was haben wir und was muss geschehen in Plugin: status-navigator-step-plan geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Einstieg: Was haben wir und was muss geschehen
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
+## Rolle und Fokus
+Erstes Sichten und grobes Strukturieren der Dokumentenlage. Setzt den Rahmen für alle Folgeschritte und beantwortet die zwei Kernfragen: Was haben wir? Was muss als Naechstes geschehen?
+
+## Anwendungsbeispiel
+LausitzStorage Erstsichtung 02.06.2026 nach Mandatsannahme: 80 PDFs aus drei Quellen; nach 90 Minuten liegt eine erste Reiter-1-Liste mit 28 Eintraegen, drei Sofortmassnahmen (Zugangsnachweis Drawstop sichern, Anlage 4 Konsortial nachfordern, Wandlungsfrist Wandeldarlehen prüfen) und ein Cluster-Ampelbild vor.
+
+## Output-Module
+- Erstrunde-Reiter-1 mit grober Verfuegbarkeit
+- Liste der zwei bis drei Sofortmassnahmen
+- Auftrag für Folgeskills (Inventur, Dokumententypen, Zustellung)
+
+---
+
+## Skill: `luecken-notifizieren`
+
+_Wenn es um Luecken in Tabellen notifizieren in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Luecken in Tabellen notifizieren
+
+## Rolle und Fokus
+Notifiziert direkt in den Tabellen, wo Fehler, Luecken oder Unklarheiten bestehen. Standard-Notes umfassen die haeufigsten Befunde aus Restrukturierungs- und Vollstreckungsmandaten.
+
+## Anwendungsbeispiel
+LausitzStorage: 23 Notes über alle Reiter. Wiederholte Notes: `Zustellung unklar` (Drawstop-Schreiben, LEAG-Kuendigungsdrohung), `Anlage fehlt` (Anlage 4 Konsortialvertrag, BImSchG-Auflagenliste), `Beschluss-Form fragwuerdig` (Gesellschafterbeschluss 17.10.2025 ohne notarielles Protokoll), `Unterschrift Vertretung unklar` (zwei Pachtvertragsnachtraege).
+
+## Output-Module
+- Standard-Notes-Vokabular als Vorblatt
+- Anmerkungsspalten in Reiter 2 und 3 konsistent befuellt
+- Bruecke zu Reiter 4 (jede Note erzeugt einen Workflow-Schritt)
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
-## Grenzen
-- **Workflow ist Vorschlag, kein Anwaltsplan.** Anwaeltliche Prüfung der
-  Rechtsgrundlagen-Spalte erforderlich.
-- **Versendungswege sind Vorschlag.** Tatsaechlicher Zugangsweg muss
-  haendisch abgesichert werden.
-- **Zeitschaetzungen sind grob.** Behoerdliche Bearbeitungszeiten variieren.
+---
 
-## Plugin-Kontext
-Reiter 4 ist der Action-Plan. Wenn Reiter 1 bis 3 sauber sind, schreibt
-Reiter 4 sich fast von selbst. Optional ergaenzbar durch Reiter 5
-(Fristen), Reiter 6 (Beteiligte), Reiter 7 (Rangfolge) und Reiter 8
-(Sicherheiten).
+## Skill: `dokumententyp-korrespondenz`
+
+_Wenn es um Dokumententyp Korrespondenz in Plugin: status-navigator-step-plan geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Dokumententyp Korrespondenz
+
+## Rolle und Fokus
+Erkennt Korrespondenz: E-Mails, Briefe, Aktenvermerke, Faxprotokolle, Telefonnotizen. Erfasst Absender, Empfaenger, Datum, Betreff, Bezug.
+
+## Anwendungsbeispiel
+E-Mail-Korrespondenz LEAG vom 19.05.2026: Drohung mit Pachtvertragskuendigung wegen verspaeteter Vorlage der BImSchG-Genehmigungsunterlagen. Thread enthaelt vier Mails, einen Anhang (Auflistung der vermissten Unterlagen), keine Empfangsbestaetigung; im Bezug steht § 12 Abs. 3 Pachtvertrag (Beibringungspflicht).
+
+## Output-Module
+- Eintrag in Reiter 2 mit Typ-Tag Schreiben oder Korrespondenz
+- Thread-Mapping in Anmerkungsspalte
+- Querverweis an `dokumententyp-erklaerungen` falls Korrespondenz tatsaechlich eine Erklaerung enthaelt
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `dokumententyp-vertraege`
+
+_Wenn es um Dokumententyp Verträge erkennen in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Dokumententyp Verträge erkennen
+
+## Rolle und Fokus
+Erkennt Verträge als Dokumentenklasse. Pachtvertraege, Darlehensvertraege, Konsortialvertraege, Sicherungsvertraege, Gesellschaftervereinbarungen. Ordnet nach Vertragspartei, Datum, Vertragstyp.
+
+## Anwendungsbeispiel
+LausitzStorage-Vertragslandschaft: Pachtvertrag LEAG mit 2 Nachtraegen, Senior-Darlehen NordCap, Wandeldarlehen NordCap, Konsortialvertrag Stadtwerke Cottbus, Avalrahmenvertrag ILB, Netzanschluss 50Hertz. Sieben Verträge mit teils ueberlappenden Sicherheiten und Zustimmungserfordernissen — eine Vertragslandkarte vor der Reiterpflege ist Pflicht.
+
+## Output-Module
+- Vertragslandkarte (Bezugsgraph) als Vorblatt
+- Eintraege in Reiter 2 mit Typ-Tag Vertrag und Untertyp
+- Querverweise auf abhaengige Beschlüsse, Vollmachten und Sicherheitenbestellungen
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `excel-reiter-1-ueberblick`
+
+_Wenn es um Reiter 1 Überblick Statuslage in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Reiter 1 Überblick Statuslage
+
+## Rolle und Fokus
+Reiter 1 ist die Gesamtsituation auf einen Blick. Alle für die Durchsetzung erforderlichen Dokumente in einer Zeile mit den wichtigsten Statusfeldern.
+
+## Anwendungsbeispiel
+LausitzStorage Reiter 1: 28 Zeilen über 4 Cluster, davon 4 rot (NordCap-Drawstop-Schreiben Zugang, Anlage 4 Konsortial, BImSchG-Vorbescheid Auflagen, Avalstatus 50Hertz), 7 gelb (Cap-Table-Versionen, drei Unterschriftsbefunde, ein Beschluss-Formfrage), Rest gruen. Pro Cluster eine Subsumtionszeile mit Cluster-Gesamtstatus.
+
+## Output-Module
+- Reiter 1 als Master-Index mit Querverweis in jede Detailpruefung
+- Cluster-Gesamtstatuszeile je Vertragsebene
+- Spalte Querverweis zu Reiter 2/3/4
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
 ## Skill: `excel-reiter-2-vorhanden`
 
-_Baut Reiter 2 der Step-Plan-Excel: vorhandene Dokumente mit Augenmerk auf Unterschriftsstatus und Vertretungsbefugnis. Spalten Dokument, Datum, Typ, Unterzeichnet von, Unterschriftsstatus und Anmerkung. Lieferquelle fuer Unterschriftspruefung und Copy-Paste-Erkennung._
+_Wenn es um Reiter 2 Vorhandene Dokumente in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Reiter 2 Vorhandene Dokumente
 
@@ -289,154 +329,9 @@ Reiter 2 spart Stunden in den Folgeschritten.
 
 ---
 
-## Skill: `erweiterung-rangfolge-reiter`
-
-_Optionaler Reiter Rangfolge bei mehreren Finanzierungsinstrumenten. Stellt die Rang- und Befriedigungsreihenfolge dar: Senior Secured, Senior Unsecured, Mezzanine, Gesellschafterdarlehen, sonstige Einlagen. Beruht ausschliesslich auf Mandatsangaben und Vertragstext._
-
-# Erweiterung Rangfolge-Reiter
-
-## Rolle und Fokus
-Optionaler Reiter Rangfolge bei mehreren Finanzierungsinstrumenten. Senior Secured, Senior Unsecured, Mezzanine, Gesellschafterdarlehen, sonstige Einlagen — vertraglich vereinbarte Reihenfolge abbilden.
-
-## Anwendungsbeispiel
-LausitzStorage Rangfolge: Senior-Darlehen NordCap (besichert durch Grundschulden und Verpfaendung der Anteile) > Konsortial-Darlehen Stadtwerke Cottbus (besichert durch Sicherungsabtretung Stromabnahmevertrag) > Wandeldarlehen NordCap (unbesichert, nachrangig nach § 39 InsO automatisch nicht — aber vertraglich subordiniert) > Gesellschafter-Stundungen Bauernfeind privat.
-
-## Output-Module
-- Rangfolge-Reiter mit Spalten Instrument, Gläubiger, Volumen, Sicherheit, Rang
-- Hinweis-Spalte mit Quellnachweis (welche Klausel begruendet den Rang)
-- Pflichthinweis auf anwaltliche Prüfung insolvenzrechtlicher Rangfragen
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `padlet-als-werkzeug`
-
-_Erläutert, wann Padlet als visuelle Alternative zur Step-Plan-Excel sinnvoll ist und wann nicht. Beschreibt das Format Shelf mit vier Spalten als Mapping der vier Excel-Reiter, Datenschutz-Anforderungen, berufsrechtliche Grenzen sowie das Karten-Format pro Dokument._
-
-# Padlet als Status-Navigator-Werkzeug
-
-## Worum es geht
-Padlet ist ein Online-Whiteboard-Dienst. Es eignet sich als visuelle
-Variante des Step-Plans, parallel zur Excel-Tabelle. Der Vorteil: Mehrere
-Personen sehen denselben Stand, Statusaenderungen sind sofort sichtbar,
-Anhaenge (Vertragsscan, E-Mails) sind direkt verlinkbar.
-
-## Wann Padlet sinnvoll ist
-- Mehrere Bearbeiter, verteiltes Team
-- Mandant soll Stand sehen können (ohne Excel-Versand)
-- Schnelle Kommentar-Funktion gewuenscht
-- Beweisbild für Beratungsgespraech: Live-Statuswand
-- Workshop-Format mit Mandanten oder Mitgesellschaftern
-
-## Wann Excel besser bleibt
-- Datenschutz-strenge Mandate (keine Cloud-Drittanbieter)
-- Mehr als 50 Dokumente: Padlet wird unuebersichtlich
-- Anwaltlicher Schriftsatz braucht Excel-Anhang
-- Druckausgabe als PDF (siehe PDF-Reiter-Variante)
-
-## Padlet-Format der Wahl
-**Padlet-Format Spalten** (heisst dort `Shelf` oder `Spalten-Layout`).
-Vier Spalten = vier Reiter aus dem Step-Plan:
-1. Übersicht
-2. Verfuegbar
-3. Fehlend
-4. Erstellung und Beschaffung
-
-Alternative: vier separate Padlets, eines pro Reiter, falls die
-Detailtiefe pro Spalte sehr hoch ist.
-
-## Karten in Padlet
-Jedes Dokument = eine Karte. Karten-Felder:
-- Titel = Dokumentenbezeichnung
-- Beschreibung = Datum, Vertragspartei, Status
-- Farbe der Karte = Ampel (gruen, gelb, rot)
-- Anhang = Scan oder Link auf DATEV-Akte
-- Kommentar-Thread = Klärungspunkte
-
-## Datenschutz und Berufsrecht
-Padlet ist ein US-Dienst. Vor Einsatz prüfen:
-- DSGVO-konforme Konfiguration (EU-Server-Option)
-- Anonymisierte Dokumentenbezeichnungen
-- Keine Mandantennamen im Klartext
-- Auftragsverarbeitungsvertrag mit Padlet-Anbieter
-- Berufsrechtliche Geheimhaltung (§ 203 StGB, §§ 43a, 43e BRAO)
-
-## Plugin-Kontext
-Padlet ist eine optionale Ausspielform des Step-Plans. Inhaltlich liefert
-das Padlet exakt die gleichen Daten wie die Excel-Reiter; nur die
-Darstellung unterscheidet sich. Die nachfolgenden vier Skills
-(padlet-reiter-1-...-4) zeigen, wie jeder einzelne Excel-Reiter als
-Padlet-Spalte aufgebaut wird.
-
----
-
-## Skill: `zugang-zustellung-pruefung`
-
-_Erfasst den Versendungs- und Zustellungsstatus aller zugangsbeduerftigen Willenserklaerungen: Kuendigungen, Faelligstellungen, Anfechtungen, Mahnungen. Markiert, wo der Zugang unklar ist oder noch nachzuweisen waere. Trifft keine rechtliche Bewertung des Zugangs._
-
-# Zugang und Zustellung prüfen
-
-## Rolle und Fokus
-Erfasst den Versendungs- und Zustellungsstatus aller zugangsbeduerftigen Willenserklaerungen. Markiert, wo der Zugang unklar ist oder nachzuweisen waere. Keine rechtliche Bewertung des Zugangs.
-
-## Anwendungsbeispiel
-LausitzStorage Zugangsspuren: Drawstop-Schreiben NordCap vom 22.05.2026 ging per E-Mail ohne Empfangsbestaetigung an Bauernfeind, Zugang ungenau — § 130 BGB Voraussetzungen unklar für Empfangsmoeglichkeit, da Bauernfeind zu der Zeit auf Dienstreise; LEAG-Kuendigungsdrohung vom 19.05.2026 als E-Mail-Thread an mehrere Mitarbeiter, Zugangs-Beweisspur uneinheitlich; Faelligstellungs-Vorbereitung wuerde Boten-Zustellung erfordern.
-
-## Output-Module
-- Zugangs-Beweisplan je Erklaerung
-- Markierung der Erklaerungen ohne sichere Zustellung in Reiter 3
-- Empfehlung Boten-Zustellung für kritische Folge-Erklaerungen
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `szenario-finanzierungsstruktur-bereinigen`
-
-_Anwendungsszenario komplexe Finanzierungsstruktur bereinigen. Status-Navigator erfasst Wandeldarlehen, Bankfinanzierung, Gesellschafterdarlehen, sonstige Einlagen und Stundungen. Stellt Konditionen und Rangfolge zusammen und vergleicht Cap Tables mit Vertraegen._
-
-# Szenario Finanzierungsstruktur bereinigen
-
-## Rolle und Fokus
-Komplexe Finanzierungsstruktur bereinigen. Status-Navigator erfasst Wandeldarlehen, Bankfinanzierung, Gesellschafterdarlehen, sonstige Einlagen und Stundungen.
-
-## Anwendungsbeispiel
-LausitzStorage Bereinigung: Senior-Darlehen NordCap 80 Mio EUR, Wandeldarlehen NordCap 22 Mio EUR (Reparaturvereinbarung vom 04.06.2026 verlaengert Wandlungsfenster), Konsortial Stadtwerke Cottbus 25 Mio EUR (Sicherungsabtretung Stromabnahmevertrag), Avalrahmen ILB 8 Mio EUR (LEAG-Pachtsicherung), Gesellschafterstundung Bauernfeind 1,2 Mio EUR. Vier Klaerpunkte im Workflow.
-
-## Output-Module
-- Instrumentenkarte mit Rang und Sicherheit
-- Konditionsuebersicht je Instrument
-- Step-Plan mit Bereinigungs-Maßnahmen und Verantwortlichkeit
-
----
-
-## Skill: `szenario-due-diligence`
-
-_Anwendungsszenario Due Diligence. Status-Navigator strukturiert eine grosse disparate Dokumentensammlung im Rahmen einer Transaktion. Prüft auf Vollstaendigkeit und Diskrepanzen. Vorbereitung der Datenraum-Indexierung fuer das Targetunternehmen._
-
-# Szenario Due Diligence
-
-## Rolle und Fokus
-Status-Navigator als DD-Werkzeug. Strukturiert eine große disparate Dokumentensammlung in der Transaktion. Vorbereitung der Datenraum-Indexierung für das Targetunternehmen.
-
-## Anwendungsbeispiel
-LausitzStorage als hypothetisches DD-Target: 28 Reiter-1-Eintraege werden gegen eine Standard-Renewables-Q&A-Liste gespiegelt; ergeben sich 4 closing-relevante Findings (Anlage 4 Konsortial fehlt, BImSchG-Auflagen unklar, Avalstatus 50Hertz, Cap-Table-Konsistenz) und 7 reporting-relevante Findings (drei Unterschriftsbefunde, ein Beschluss-Formfrage, zwei Kommunikations-Threading-Luecken, ein Vertragsdrift NordCap).
-
-## Output-Module
-- DD-Index als Reiter 1 mit Cluster-Gliederung
-- Findings-Tabelle im Workflow-Reiter mit Closing- vs. Reporting-Klassifizierung
-- Vergleichsmemo Verkaeufer-Disclosure gegen Datenraum
-
----
-
 ## Skill: `excel-reiter-3-fehlend`
 
-_Baut Reiter 3 der Step-Plan-Excel: fehlende Dokumente mit Beschaffungsweg. Spalten erforderliches Dokument, angefordert von, zu beschaffen von, Grund der Erforderlichkeit und Status. Sortierung nach Frist. Vorbereitung fuer den Workflow-Reiter._
+_Wenn es um Reiter 3 Fehlende Dokumente in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Reiter 3 Fehlende Dokumente
 
@@ -482,32 +377,98 @@ fehlenden Stuecke kann kein Workflow gebaut werden.
 
 ---
 
-## Skill: `dokumententyp-vertraege`
+## Skill: `excel-reiter-4-workflow`
 
-_Erkennt Vertraege als Dokumentenklasse: Darlehensvertraege, Wandeldarlehen, Gesellschaftervereinbarungen, Pflichtenheft, Kaufvertraege, Sicherungsvertraege. Ordnet sie nach Vertragspartei, Datum, Vertragstyp und Bezug zu uebrigen Dokumenten._
+_Wenn es um Reiter 4 Workflow Step-Plan in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Dokumententyp Verträge erkennen
+# Reiter 4 Workflow Step-Plan
 
 ## Rolle und Fokus
-Erkennt Verträge als Dokumentenklasse. Pachtvertraege, Darlehensvertraege, Konsortialvertraege, Sicherungsvertraege, Gesellschaftervereinbarungen. Ordnet nach Vertragspartei, Datum, Vertragstyp.
+Reiter 4 ist das Herzstueck. Hier wird aus jedem fehlenden Dokument ein
+konkreter Step-Plan: welche Schritte in welcher Reihenfolge, mit welcher
+Rechtsgrundlage, von wem zu unterzeichnen, an wen zu versenden.
+
+## Vorlage-Bezug
+Reiter 4 folgt der Excel-Vorlage. Spalten:
+
+| Spalte | Inhalt |
+|---|---|
+| Erforderliches Dokument | aus Reiter 3 uebernommen |
+| Schritte zur Beschaffung (in Reihenfolge) | nummeriert 1. 2. 3. ... |
+| Rechtsgrundlage (Klausel im zugrunde liegenden Vertrag) | Klausel oder Paragraph |
+| Unterzeichnet von | die Personen, die zeichnen müssen |
+| Versendet an | Empfaenger, ggfs mit Sendeweg (Bote, Einschreiben, Notar, HR) |
 
 ## Anwendungsbeispiel
-LausitzStorage-Vertragslandschaft: Pachtvertrag LEAG mit 2 Nachtraegen, Senior-Darlehen NordCap, Wandeldarlehen NordCap, Konsortialvertrag Stadtwerke Cottbus, Avalrahmenvertrag ILB, Netzanschluss 50Hertz. Sieben Verträge mit teils ueberlappenden Sicherheiten und Zustimmungserfordernissen — eine Vertragslandkarte vor der Reiterpflege ist Pflicht.
+LausitzStorage-Akte, Reiter 4 enthaelt 12 Beschaffungs-Workflows.
+Beispiele:
+- Einzelaval 50Hertz: 1. Antwort ILB-Rueckfrage 18.04. ergaenzen,
+  2. ILB-Komitee 18.06. abwarten, 3. Backup-Antrag Berliner Sparkasse
+  parallel halten, 4. Aval-Urkunde an 50Hertz.
+- Reparaturvereinbarung Wandeldarlehen NordCap: 1. Entwurf Akte 22
+  finalisieren, 2. NordCap-Anwalt Mitzeichnung, 3. Bauernfeind
+  unterzeichnet.
 
 ## Output-Module
-- Vertragslandkarte (Bezugsgraph) als Vorblatt
-- Eintraege in Reiter 2 mit Typ-Tag Vertrag und Untertyp
-- Querverweise auf abhaengige Beschlüsse, Vollmachten und Sicherheitenbestellungen
+- Tabelleneintraege für Reiter 4
+- Reihenfolge-Visualisierung als Gantt-aehnliche Liste (Datumsspalte
+  optional)
+- Verantwortlichkeiten-Liste pro Person
+- Eingangsstapel für optionale Reiter (Fristen, Beteiligte)
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Grenzen
+- **Workflow ist Vorschlag, kein Anwaltsplan.** Anwaeltliche Prüfung der
+  Rechtsgrundlagen-Spalte erforderlich.
+- **Versendungswege sind Vorschlag.** Tatsaechlicher Zugangsweg muss
+  haendisch abgesichert werden.
+- **Zeitschaetzungen sind grob.** Behoerdliche Bearbeitungszeiten variieren.
+
+## Plugin-Kontext
+Reiter 4 ist der Action-Plan. Wenn Reiter 1 bis 3 sauber sind, schreibt
+Reiter 4 sich fast von selbst. Optional ergaenzbar durch Reiter 5
+(Fristen), Reiter 6 (Beteiligte), Reiter 7 (Rangfolge) und Reiter 8
+(Sicherheiten).
+
+---
+
+## Skill: `szenario-mandatsuebernahme`
+
+_Wenn es um Szenario Mandatsuebernahme in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Szenario Mandatsuebernahme
+
+## Rolle und Fokus
+Uebernahme eines Mandats mit ungeordneter Dokumentenlage. Status-Navigator erzeugt schnell Klarheit über Status und naechste Schritte. Markiert Sofortpflichten und uebersehene Fristen.
+
+## Anwendungsbeispiel
+LausitzStorage waere bei hypothetischer Mandatsuebernahme von Pohlmann & Pohlmann an andere Kanzlei: Übergabenotiz nennt 4 rote Reiter-1-Eintraege und 1 gelbe Frist (Wandlungsfenster 30.09.2026). Sofortmassnahmen: Zugangsnachweis Drawstop sichern, Anlage 4 Konsortial nachfordern, Avalstatus 50Hertz klären — alles innerhalb 5 Werktagen.
+
+## Output-Module
+- Uebernahme-Reiter mit roten und gelben Eintraegen aus Vorgaengerakte
+- Frist-Soforterhebung mit Restzeit-Ampel
+- Erstkontaktliste für den Tag nach Mandatsuebernahme
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
 ## Skill: `dokumententyp-cap-tables`
 
-_Erkennt Cap Tables in beliebigem Format (Excel, PDF, eingebettete Tabellen). Erfasst Stichdatum, Gesellschafter und Anteile. Vorbereitung fuer den Konsistenz-Vergleich mehrerer Cap Tables und Abgleich mit den zugrundeliegenden Vertraegen._
+_Wenn es um Dokumententyp Cap Tables in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Dokumententyp Cap Tables
 
@@ -526,7 +487,7 @@ LausitzStorage: drei Cap-Table-Versionen liegen vor. v1 (31.12.2025, von Mandant
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

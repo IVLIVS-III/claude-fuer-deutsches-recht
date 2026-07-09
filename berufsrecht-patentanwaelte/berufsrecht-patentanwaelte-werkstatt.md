@@ -103,7 +103,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BVerwG, Urteil vom 20.10.1989 - 7 C 87.87: Verwaltungsvollstreckung setzt wirksamen Grundverwaltungsakt und vollziehbare Pflicht voraus.
 - BVerfG 1 BvR 2616/17 (Werberecht Patentanwälte)
 - BGH X ZR 117/11 (Patentanwalt-Haftung)
-- Werbung Paragraf 26 PAO nach BVerfG 1 BvR 2616/17 weit, aber sachlich
 
 ## 9. Prüfraster
 

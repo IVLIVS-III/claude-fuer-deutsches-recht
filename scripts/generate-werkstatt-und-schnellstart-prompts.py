@@ -699,7 +699,7 @@ def manifest(plugin_dir: Path) -> dict:
 
 COURT_MARKERS = (
     "BGH", "BAG", "BVerfG", "BVerwG", "BSG", "BFH", "EuGH", "BPatG",
-    "OLG", "LG ", "AG ", "BVerfGE", "BAGE", "NJW", "NZA", "ZIP",
+    "OLG", "LG ", "AG ", "LAG", "ArbG", "SG ", "LSG", "BVerfGE", "BAGE", "NJW", "NZA", "ZIP",
 )
 
 LAW_MARKERS = (
@@ -709,6 +709,8 @@ LAW_MARKERS = (
     "UStG", "KStG", "KSchG", "TzBfG", "BetrVG", "BetrAVG", "BDSG",
     "AEUV", "EUV", "EMRK", "GRCh", "DSGVO", "VOB/B", "HOAI", "BRAO",
     "BNotO", "RVG", "RDG", "GWB", "VgV", "UVgO", "ZVG", "GVG",
+    "KWG", "WpHG", "WpIG", "ZAG", "GwG", "LobbyRG", "BSIG",
+    "ProdHaftG", "ProdSG", "GPSR", "DORA",
 )
 
 
@@ -734,6 +736,12 @@ def relevant_lines(skill_material: list[dict[str, str]], limit: int = 450) -> li
 def is_generic_anchor(line: str) -> bool:
     lowered = line.lower()
     generic_bits = (
+        "bverwg 6 c 12.21",
+        "maßstab verwaltungsentscheidung",
+        "verifizierte anker",
+        "gesetze-im-internet.de",
+        "dejure.org",
+        "openjur",
         "nur fallbezogen",
         "nicht verifizierte",
         "vor verwendung",
@@ -812,6 +820,8 @@ def extract_case_anchors(skill_material: list[dict[str, str]], max_items: int = 
             continue
         if not any(marker in line for marker in COURT_MARKERS):
             continue
+        if not re.match(r"^(?:BGH|BAG|BVerfG|BVerwG|BSG|BFH|EuGH|BPatG|OLG|LG|AG|LAG|ArbG|SG|LSG)\b", line):
+            continue
         if re.match(r"^[a-z0-9-]+\s+[—-]\s+", line):
             continue
         has_decision_signal = (
@@ -832,6 +842,46 @@ def extract_case_anchors(skill_material: list[dict[str, str]], max_items: int = 
         if len(anchors) >= max_items:
             break
     return anchors
+
+
+def case_identity(anchor: str) -> str:
+    ids = case_id_set(anchor)
+    return "|".join(sorted(ids)) if ids else re.sub(r"\W+", "", anchor.lower())[:90]
+
+
+def case_id_set(anchor: str) -> set[str]:
+    normalized = anchor.replace("–", "-").replace("—", "-")
+    patterns = (
+        r"\b(?:[IVX]+|X|IX|XII|XI|VIII|VII|VI|V|IV|III|II|I)\s+ZR\s+\d+/\d+\b",
+        r"\b\d+\s+AZR\s+\d+/\d+\b",
+        r"\b\d+\s+StR\s+\d+/\d+\b",
+        r"\b\d+\s+BvR\s+\d+/\d+\b",
+        r"\b\d+\s+BvL\s+\d+/\d+\b",
+        r"\bB\s+\d+\s+[A-Z]{1,3}\s+\d+/\d+\s+R\b",
+        r"\bC-\d+/\d+\b",
+        r"\bKZR\s+\d+/\d+\b",
+    )
+    ids: list[str] = []
+    for pattern in patterns:
+        ids.extend(match.group(0).lower().replace(" ", "") for match in re.finditer(pattern, normalized))
+    return set(ids)
+
+
+def dedupe_cases(profile_cases: list[str], extracted_cases: list[str]) -> list[str]:
+    seen: set[str] = set()
+    for case in profile_cases:
+        seen.update(case_id_set(case))
+    out: list[str] = []
+    for case in extracted_cases:
+        ids = case_id_set(case)
+        fallback = case_identity(case)
+        if ids and seen.intersection(ids):
+            continue
+        if not ids and fallback in seen:
+            continue
+        seen.update(ids or {fallback})
+        out.append(case)
+    return out
 
 
 def skill_fields(skill_material: list[dict[str, str]], max_items: int = 6) -> list[tuple[str, str]]:
@@ -877,6 +927,26 @@ def quick_grip(profile: ThemenProfil, field: str, detail: str) -> str:
     hay = f"{profile.key} {field} {detail}".lower()
     if profile.key == "eu_prozess":
         return "Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern"
+    if profile.key == "zeugnis":
+        return "Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden"
+    if profile.key == "bank":
+        return "Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen"
+    if profile.key == "datenbank":
+        return "Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen"
+    if profile.key == "lobbyregister":
+        return "Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen"
+    if profile.key == "geldwaesche":
+        return "Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen"
+    if profile.key == "cybersicherheit":
+        return "Einrichtung, Rechtsrahmen, Asset, Vorfall, Meldefrist, Nachweisordner und Aufsichtsrisiko in eine Incident-Linie bringen"
+    if profile.key == "kartell":
+        return "Markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen"
+    if profile.key == "produkt":
+        return "Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen"
+    if profile.key == "sozialstatus":
+        return "Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten"
+    if profile.key == "forderung":
+        return "Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen"
     if profile.key == "technikregulierung":
         if "kollusion" in hay or "pricing" in hay:
             return "Pricing-Zweck, Wettbewerberdaten, Hub-Dienstleister, menschliche Kontrolle, Kartellrechtsrisiko und Technikregulierung trennen"
@@ -967,6 +1037,7 @@ def output_hint(profile: ThemenProfil, fields: list[tuple[str, str]]) -> str:
 
 BEWEISLAST_MERKER = {
     "arbeits": "Arbeitgeber für Kündigungs-, Befristungs- und Betriebsratsgrund; Arbeitnehmer für Zugang, Fristwahrung und eigene Ansprüche.",
+    "zeugnis": "Arbeitnehmer für Berichtigungsziel und bessere Gesamtnote; Arbeitgeber für Wahrheit, Tatsachengrundlage, Auslassungen und formale Erfüllung.",
     "miet": "Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen.",
     "famil": "Unterhaltsteller für Bedarf und Auskunft; Pflichtiger für Leistungsunfähigkeit; in Kindschaftssachen Amtsermittlung und Kindeswohlbelege.",
     "straf": "Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff.",
@@ -974,10 +1045,19 @@ BEWEISLAST_MERKER = {
     "insolvenz": "Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation.",
     "steuer": "Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise.",
     "gesellschaft": "Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment.",
+    "bank": "Kunde für Beratungssituation, Schaden und Kausalität; Bank für Aufklärung, Beratungsdokumentation, Autorisierung, Ausnahme und Organisationspflicht.",
+    "datenbank": "Rechteinhaber für Schutzgegenstand, Investition, wesentliche Entnahme und Wiederverwendung; Nutzer für Lizenz, Schranke, Erlaubnis und Datenherkunft.",
+    "lobbyregister": "Registerpflichtiger für Ausnahme, Angaben, Aktualisierung und Dokumentation; Behörde für Tatbestand, Ermessen und Verstoß.",
+    "geldwaesche": "Verpflichteter für Risikoanalyse, Identifizierung, wirtschaftlich Berechtigte und Monitoring; Behörde für Verstoß, Verschulden und Sanktion.",
+    "cybersicherheit": "Einrichtung für Risikomanagement, Nachweise und Meldung; Behörde für Anordnung, Frist, Zuständigkeit und Bußgeldtatbestand.",
+    "kartell": "Anspruchsteller oder Behörde für Markt, Abstimmung, Marktmacht und Schaden; Unternehmen für Effizienz, Rechtfertigung, Compliance und Einwendungen.",
+    "produkt": "Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung.",
+    "forderung": "Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung.",
     "verfass": "Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit.",
     "versicherung": "Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung.",
     "liquiditaet": "Geschäftsleitung muss Status, Fälligkeiten und Prognose dokumentieren; Anspruchsteller greift Lücken und verspätete Reaktion an.",
     "sozial": "Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege.",
+    "sozialstatus": "Rentenversicherung oder Einzugsstelle für Gesamtbild und Beitragsforderung; Auftraggeber und Erwerbstätiger für Vertrag, Eingliederung, Weisungen und Unternehmerrisiko.",
     "renten": "Versicherter belegt Zeiten, Lücken und medizinische Tatsachen; Träger muss Versicherungsverlauf und Bescheid nachvollziehbar begründen.",
     "verwaltung": "Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit.",
     "vergabe": "Auftraggeber für Dokumentation und Wertung; Bieter für Rüge, Interesse, Rechtsverletzung und drohenden Schaden.",
@@ -993,6 +1073,7 @@ BEWEISLAST_MERKER = {
 
 RECHTSFOLGE_MERKER = {
     "arbeits": "Feststellung, Weiterbeschäftigung, Annahmeverzug, Vergleich oder Abwicklungsbaustein.",
+    "zeugnis": "Zeugnisentwurf, Berichtigungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsschritt.",
     "miet": "Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung.",
     "famil": "Unterhaltstitel, Sorge-/Umgangsregelung, Scheidungsausspruch, Versorgungsausgleich oder Zugewinn.",
     "straf": "Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag.",
@@ -1000,10 +1081,19 @@ RECHTSFOLGE_MERKER = {
     "insolvenz": "Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt.",
     "steuer": "Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage.",
     "gesellschaft": "Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.",
+    "bank": "Beratungsprotokoll, Erstattungsanspruch, Zahlungsdienstehaftung, Aufsichtsvermerk, Vertragsklausel oder Verteidigungslinie.",
+    "datenbank": "Unterlassung, Auskunft, Lizenz, Schadensersatz, API-Regel, Schrankenprüfung oder Abwehrschreiben.",
+    "lobbyregister": "Registrierung, Aktualisierung, Verhaltenskodex-Prüfung, Stellungnahme, Fristenblatt oder Bußgeldabwehr.",
+    "geldwaesche": "Risikoanalyse, KYC-Nachforderung, Verdachtsmeldeprüfung, Transparenzregistervermerk, Aufsichtsantwort oder Bußgeldabwehr.",
+    "cybersicherheit": "Risikomanagementplan, Incident-Meldung, Nachweisordner, Maßnahmenplan, Lieferkettenauflage oder Bußgeldverteidigung.",
+    "kartell": "Kartellschadensmatrix, Abstellungszusage, Bußgeldverteidigung, Compliance-Maßnahme, Klage oder Vergleich.",
+    "produkt": "Launch-Freigabe, Warnhinweis, Rückruf, Marktüberwachungsantwort, Haftungsmemo oder Verteidigungsentwurf.",
+    "forderung": "Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag.",
     "verfass": "Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung.",
     "versicherung": "Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag.",
     "liquiditaet": "Liquiditätsstatus, Antragspflichtvermerk, Rangrücktritt, Patronatserklärung oder Zahlungsstopp.",
     "sozial": "Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich.",
+    "sozialstatus": "Statusfeststellungsantrag, Anhörungserwiderung, Beitragsabwehr, Nachzahlungsplan, Widerspruch oder Klage.",
     "renten": "Kontenklärung, Rentenberechnung, Widerspruch, Nachzahlung, Statusfeststellung oder Klage.",
     "verwaltung": "Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur.",
     "vergabe": "Rüge, Bieterfrage, Nachprüfungsantrag, Wertungskorrektur, Zuschlagsstopp oder Dokumentationsvermerk.",
@@ -1210,6 +1300,7 @@ def build_werkstatt(plugin_dir: Path) -> str:
     if profile.key == "technikregulierung":
         extracted_norms = []
         extracted_cases = []
+    extracted_cases = dedupe_cases(profile_cases, extracted_cases)
     fields = skill_fields(skill_material, 7)
     norm_pool = (profile_norms + extracted_norms)[:8]
     case_pool = (profile_cases + extracted_cases)[:5]
@@ -1459,6 +1550,7 @@ def build_schnellstart(plugin_dir: Path) -> str:
         extracted_cases = []
     profile_norms = [] if profile.key == "default" else list(profile.normen[:4])
     profile_cases = [] if profile.key == "default" else list(profile.entscheidungen[:2])
+    extracted_cases = dedupe_cases(profile_cases, extracted_cases)
     norm_pool = (profile_norms + extracted_norms)[:6]
     case_pool = (profile_cases + extracted_cases)[:4]
     goal = domain_goal(mf, plugin_dir, profile)

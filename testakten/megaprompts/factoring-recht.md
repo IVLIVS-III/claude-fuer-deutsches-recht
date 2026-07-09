@@ -1,43 +1,44 @@
-# Megaprompt: factoring-recht
+# Vollprüfung: factoring-recht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 62 Skills des Plugins `factoring-recht`.
+Dieser Vollprüfung enthaelt top-10 von 62 Skills des Plugins `factoring-recht`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Factoring-Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und W…
-2. **factoringvertrag-rahmenvertrag-forderungskauf-kaufpreis-sicherhe** — Factoringvertrag Rahmenvertrag Forderungskauf Kaufpreis Sicherheitseinbehalt: prüft die einschlägigen Voraussetzungen, D…
-3. **reverse-lieferantenfinanzierung-risikomatrix** — Reverse Factoring Lieferantenfinanzierung und Abgrenzung Kreditgeschäft: prüft die einschlägigen Voraussetzungen, Dokume…
-4. **bafin-laufender-beschwerde-anhoerung** — BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag: prüft die einschlägigen Voraussetzungen, Dokumente,…
-5. **globalzession-verlaengerte-eigentumsvorbehalte-prioritaetskonfli** — Globalzession verlängerte Eigentumsvorbehalte Prioritätskonflikt: prüft die einschlägigen Voraussetzungen, Dokumente, Ri…
-6. **debitorenschutz-einwendungen-404-bgb-aufrechnung-406-bgb** — Debitorenschutz Einwendungen § 404 BGB Aufrechnung § 406 BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risike…
-7. **konzentrationsrisiken-debitorenlimit-und-portfolio-covenants** — Konzentrationsrisiken Debitorenlimit und Portfolio Covenants: prüft die einschlägigen Voraussetzungen, Dokumente, Risike…
-8. **oeffentliche-auftraggeber** — Öffentliche Auftraggeber Abtretung Zustimmung Haushaltsrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risike…
-9. **unidroit-fci-logik-und-rechtswahl-internationale-forderungen** — UNIDROIT/FCI Logik und Rechtswahl internationale Forderungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risike…
-10. **kwg-erlaubnispflicht-factoring-1-abs-1a-satz-2-nr-9-kwg** — KWG Erlaubnispflicht Factoring § 1 Abs. 1a Satz 2 Nr. 9 KWG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken…
+1. **kaltstart-triage** — Wenn es um Factoring-Recht — Allgemein in Factoring-Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden n…
+2. **kwg-erlaubnispflicht-factoring-1-abs-1a-satz-2-nr-9-kwg** — Wenn es um KWG-Erlaubnispflicht Factoring nach Paragraf 1 Abs. 1a Satz 2 Nr. 9 KWG in Factoring-Recht geht: ordnet Sachv…
+3. **debitorenschutz-einwendungen-404-bgb-aufrechnung-406-bgb** — Wenn es um Debitorenschutz Einwendungen Paragraf 404 BGB Aufrechnung Paragraf 406 BGB in Factoring-Recht geht: ordnet Ak…
+4. **reverse-lieferantenfinanzierung-risikomatrix** — Wenn es um Reverse Factoring Lieferantenfinanzierung und Abgrenzung Kreditgeschäft in Factoring-Recht geht: ordnet Akten…
+5. **abtretbarkeit-forderungen-abtretungsverbot** — Wenn es um Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote in Factoring-Recht geht: ordnet Akteninhalt,…
+6. **globalzession-verlaengerte-eigentumsvorbehalte-prioritaetskonfli** — Wenn es um Globalzession verlängerte Eigentumsvorbehalte Prioritätskonflikt in Factoring-Recht geht: ordnet Akteninhalt,…
+7. **erlaubnisantrag-32-kwg-unterlagen** — Wenn es um Erlaubnisantrag Paragraf 32 KWG Unterlagen Geschäftsleiter in Factoring-Recht geht: erstellt den passenden En…
+8. **konzentrationsrisiken-debitorenlimit-und-portfolio-covenants** — Wenn es um Konzentrationsrisiken Debitorenlimit und Portfolio Covenants in Factoring-Recht geht: ordnet Akteninhalt, Bel…
+9. **oeffentliche-auftraggeber** — Wenn es um Öffentliche Auftraggeber Abtretung Zustimmung Haushaltsrecht in Factoring-Recht geht: ordnet Akteninhalt, Bel…
+10. **schnittstelle-lieferkettenfinanzierung** — Wenn es um Schnittstelle Lieferkettenfinanzierung Supply Chain Finance in Factoring-Recht geht: ordnet Akteninhalt, Bele…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting im Factoring-Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, erkennt stumme Uploads und schlägt passende Fachmodule aus diesem Plugin vor._
+_Wenn es um Factoring-Recht — Allgemein in Factoring-Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Factoring-Recht — Allgemein
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Factoring Recht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Sofortstart
 Dieses Allgemein-Skill ist der Empfangstresen und Projektleiter des Plugins **Factoring-Recht**. Es soll den Nutzer nicht belehren, sondern schnell arbeitsfähig machen: erst die Lage erfassen, dann den passenden Pfad wählen, dann direkt einen verwertbaren Output erzeugen.
@@ -178,15 +179,15 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 
 ---
 
-## Skill: `factoringvertrag-rahmenvertrag-forderungskauf-kaufpreis-sicherhe`
+## Skill: `kwg-erlaubnispflicht-factoring-1-abs-1a-satz-2-nr-9-kwg`
 
-_Factoringvertrag Rahmenvertrag Forderungskauf Kaufpreis Sicherheitseinbehalt: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO im Factoring..._
+_Wenn es um KWG-Erlaubnispflicht Factoring nach Paragraf 1 Abs. 1a Satz 2 Nr. 9 KWG in Factoring-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Factoringvertrag Rahmenvertrag Forderungskauf Kaufpreis Sicherheitseinbehalt
+# KWG-Erlaubnispflicht Factoring nach § 1 Abs. 1a Satz 2 Nr. 9 KWG
 
 ## Arbeitsbereich
 
-Factoringvertrag Rahmenvertrag Forderungskauf Kaufpreis Sicherheitseinbehalt: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+KWG Erlaubnispflicht Factoring § 1 Abs. 1a Satz 2 Nr. 9 KWG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -196,251 +197,48 @@ Factoringvertrag Rahmenvertrag Forderungskauf Kaufpreis Sicherheitseinbehalt: pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Factoringvertrag Rahmenvertrag Forderungskauf Kaufpreis Sicherheitseinbehalt
-- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
-- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+## Worum es geht
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+Prüfe, ob ein Factoring-Geschäftsmodell unter die Erlaubnispflicht nach § 1 Abs. 1a Satz 2 Nr. 9 KWG fällt. Die Norm ist der gesetzliche Anker des Factorings als Finanzdienstleistung. Zentrale Fragen sind: Liegt echtes oder unechtes Factoring vor? Handelt der Factor auf eigene Rechnung? Findet eine Bonitätsprüfung statt? Für reine Forderungseinkäufer ohne Kreditfunktion kann das Bankenprivileg fehlen.
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Kernnormen
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+- **§ 1 Abs. 1a Satz 2 Nr. 9 KWG** – Factoring als Finanzdienstleistung: Ankauf von Forderungen auf eigene Rechnung mit oder ohne Rückgriff; Tatbestandsmerkmale: gewerbsmäßig oder kaufmännischer Umfang, eigene Rechnung, Forderungsankauf; dies ist der Kern-Erlaubnistatbestand
+- **§ 32 KWG** – Erlaubnispflicht: schriftlicher Antrag bei BaFin; Geschäftsplan, IT-Konzept, Unterlagen zu Inhabern und Geschäftsleitern; Erlaubnis als Finanzdienstleistungsinstitut (nicht Kreditinstitut)
+- **§ 33 KWG** – Versagungsgründe: Anfangskapital (§ 33 Abs. 1 Nr. 1 KWG; für Finanzdienstleistungsinstitute nach § 10 Abs. 3 KWG); Zuverlässigkeit Geschäftsleiter; unzureichender Geschäftsplan
+- **§ 2 Abs. 6 Satz 1 Nr. 7 KWG** – Konzernprivileg: konzerninterne Forderungsverkäufe ohne BaFin-Erlaubnis möglich wenn ausschließlich innerhalb des Konzerns
+- **§ 25a KWG** – Organisationspflichten: auch Factoring-Institute müssen Risikomanagement, Compliance, Revision einrichten; MaRisk-light gilt für kleinere Institute
+- **§ 25c KWG** – Geschäftsleiter-Anforderungen: Fit-and-Proper auch bei Factoring-Instituten; Zuverlässigkeit, Sachkunde, Zeitbudget
+- **BGB §§ 398 ff.** – Abtretungsrecht: zivilrechtliche Grundlage des Forderungsankaufs; stille vs. offene Zession; Abtretungsverbote (§ 399 BGB), HGB § 354a Abtretbarkeit kaufmännischer Forderungen trotz Verbot
+- **GwG §§ 2 ff.** – Factoring-Institute als Verpflichtete nach GwG § 2 Abs. 1 Nr. 2 (Finanzdienstleistungsinstitute); KYC-Pflichten für Forderungsverkäufer und ggf. Drittschuldner
 
----
+## Prüfschritte
 
-## Skill: `reverse-lieferantenfinanzierung-risikomatrix`
+1. **Tatbestandsprüfung § 1 Abs. 1a Satz 2 Nr. 9 KWG**: Ankauf von Forderungen auf eigene Rechnung? Gewerbsmäßig oder in kaufmännischem Umfang? Rückkaufsvereinbarung = unechtes Factoring (kein Delkredere-Übernahme)?
+2. **Echtes vs. unechtes Factoring**: Echtes Factoring (Delkredere übernommen) = eindeutig § 1 Abs. 1a Satz 2 Nr. 9 KWG; unechtes Factoring (Rückgriff bei Ausfall) = BaFin-Praxis: ebenfalls Erlaubnispflicht, aber Abgrenzung zum Kreditgeschäft beachten.
+3. **Konzernprivileg** (§ 2 Abs. 6 Satz 1 Nr. 7 KWG): Ausschließlich konzerninterner Forderungsankauf? Wenn ja, keine Erlaubnispflicht.
+4. **Erlaubnisantrag** (§ 32 KWG): Anfangskapital für Finanzdienstleistungsinstitut (kein Bankenstatus erforderlich); Geschäftsplan mit Factoring-Portfolio, Bonitätsprüfungskonzept.
+5. **Organisationspflichten** (§ 25a KWG): Risikomanagement (Forderungsausfallrisiko), Compliance, Revision; MaRisk-Anwendung proportional.
+6. **Zivilrechtliche Grundlagen** (BGB §§ 398 ff., HGB § 354a): Abtretbarkeit prüfen; stille Zession vs. offene Zession; Abtretungsverbote in AGB des Forderungsverkäufers.
+7. **GwG-Pflichten** (GwG § 2 Abs. 1 Nr. 2): KYC für Forderungsverkäufer; Transaktionsmonitoring auf Geldwäschesignale.
 
-_Reverse Factoring Lieferantenfinanzierung und Abgrenzung Kreditgeschäft: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO im Factoring Recht._
+## Typische Fallkonstellationen
 
-# Reverse Factoring Lieferantenfinanzierung und Abgrenzung Kreditgeschäft
+- Mittelständler gründet konzerneigenes Factoring-Vehikel: § 2 Abs. 6 Nr. 7 KWG Konzernprivileg; keine BaFin-Erlaubnis wenn rein konzerninternes Factoring
+- Selbstständiges Factoring-Unternehmen kauft Handels-Forderungen: § 1 Abs. 1a Satz 2 Nr. 9 KWG Erlaubnispflicht; § 32 KWG Antrag
+- Online-Plattform vermittelt Forderungsverkäufe: kein Eigenerwerb = kein § 1 Abs. 1a Satz 2 Nr. 9 KWG; ggf. Anlageberatung oder anderer Tatbestand prüfen
+- Factoring-Institut erweitert um Kreditvergabe: § 1 Abs. 1 Nr. 2 KWG Kreditgeschäft; KWG-Vollbanklizenz erforderlich
+- Unechtes Factoring mit Rückgriff: BaFin-Praxis bestätigt Erlaubnispflicht; Abgrenzung Buchforderungszession ohne Bonitätsübernahme
 
-## Arbeitsbereich
+## Output
 
-Reverse Factoring Lieferantenfinanzierung und Abgrenzung Kreditgeschäft: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Reverse Factoring Lieferantenfinanzierung und Abgrenzung Kreditgeschäft
-- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
-- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
----
-
-## Skill: `bafin-laufender-beschwerde-anhoerung`
-
-_BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO im Factoring Recht._
-
-# BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag
-
-## Arbeitsbereich
-
-BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag
-- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
-- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Worum geht es konkret
-
-Der Tatbestand des Factorings in § 1 Abs. 1a Satz 2 Nr. 9 KWG ist auf drei Tragesäulen aufgebaut:
-
-1. **Laufender Ankauf** – nicht einzelner, einmaliger Ankauf, sondern regelmäßiges Geschäftsmodell.
-2. **Forderungen** – Geldforderungen aus Lieferungen und Leistungen, abgrenzbar von Darlehensforderungen.
-3. **Auf Grundlage von Rahmenverträgen** – wiederkehrende Vertragsstruktur zwischen Factor und Verkäufer.
-
-Optional: **mit oder ohne Rückgriff** – also echtes und unechtes Factoring sind beide erfasst.
-
-Wer alle drei Säulen erfüllt, ist Finanzdienstleistungsinstitut nach § 1 Abs. 1a Satz 1 KWG mit voller Aufsichtsfolge: Erlaubnispflicht (§ 32 KWG), Mindestkapital (§ 33 KWG), Geschäftsleiteranforderungen (§ 25c KWG), GwG-Pflichten, MaRisk-Anwendung. Prüfe die Tatbestandsmerkmale einzeln.
-
-## Wann dieses Modul hilft / Kaltstart-Fragen
-
-- Ein Geschäftsmodell soll auf die Erlaubnispflicht hin geprüft werden.
-- Eine BaFin-Anfrage zur Geschäftsabgrenzung soll vorbereitet werden.
-- Ein bestehender Factor untersucht, ob sich neue Geschäftsfelder noch im Tatbestand bewegen.
-- In einer Untersagungsverfügung der BaFin (§ 37 KWG) ist der Tatbestand streitig.
-
-Fragen zum Einstieg:
-- Wer ist Käufer der Forderungen (Mandant)?
-- Wie oft und in welcher Frequenz werden Forderungen angekauft?
-- Gibt es einen Rahmenvertrag, oder nur Einzelverkäufe?
-- Welche Forderungen genau (Lieferung, Werk, Dienstleistung, Darlehen)?
-- Übernimmt der Käufer das Ausfallrisiko oder nicht?
-
-## Rechtlicher Rahmen
-
-- **§ 1 Abs. 1a Satz 1 KWG**: Finanzdienstleistungsinstitute, die Finanzdienstleistungen für andere gewerbsmäßig oder in einem Umfang erbringen, der einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert.
-- **§ 1 Abs. 1a Satz 2 Nr. 9 KWG**: Factoring als Finanzdienstleistung – "der laufende Ankauf von Forderungen auf der Grundlage von Rahmenverträgen mit oder ohne Rückgriff".
-- **BaFin-Merkblatt zum Tatbestand des Factoring**: Auslegungshilfe, kein Gesetz, aber Verwaltungspraxis.
-- **§ 32 KWG**: Erlaubnispflicht.
-- **§ 33 KWG**: Anfangskapital für Factor: nach derzeitigem Stand 730.000 EUR.
-- **§ 25c KWG**: Geschäftsleiteranforderungen.
-- **§ 54 KWG**: Strafvorschrift bei erlaubnislosem Betrieb.
-- **§ 2 Abs. 6 KWG**: Bereichsausnahmen.
-
-## / Schritt für Schritt
-
-1. **Verkäuferkreis bestimmen**: Wer verkauft die Forderungen an den Factor (eine Person, mehrere, Konzern)?
-2. **Rahmenvertrag identifizieren**: Liegt ein schriftlicher Rahmenvertrag mit laufender Verpflichtung vor? Oder nur einzelne, ungebundene Ankäufe?
-3. **Laufendkeit prüfen**: Frequenz, Volumen, Dauer der Geschäftsbeziehung. BaFin hat keine harte Schwelle, aber regelmäßige Wiederholung ist erforderlich.
-4. **Forderungstyp prüfen**: Geldforderungen aus Lieferungen und Leistungen? Darlehensforderungen sind nicht im Factoring-Tatbestand, ggf. Kreditgeschäft im Sinne § 1 Abs. 1 Satz 2 Nr. 2 KWG.
-5. **Forderungskauf prüfen**: Echter Verkauf (Forderung wird Eigentum des Factors) oder bloße Sicherungsabtretung?
-6. **Mit/ohne Rückgriff prüfen**: Beides ist erfasst – relevant nur für die wirtschaftliche Einordnung.
-7. **Bereichsausnahmen prüfen**: Konzerninterne Geschäfte (§ 2 KWG), Treuhandgeschäfte ohne Gefahrentragung.
-
-## Trade-off-Matrix
-
-| Geschäftsmodell | Tatbestand erfüllt? | Erläuterung |
-|---|---|---|
-| Einmaliger Forderungsverkauf zwischen Konzerngesellschaften | Nein | Keine Laufendkeit, ggf. Bereichsausnahme |
-| Sporadische Forderungsverkäufe ohne Rahmenvertrag | Grenzfall | Wahrscheinlich nicht, aber Beweislast beim Anbieter |
-| Rahmenvertrag mit monatlichem Ankauf | Ja | Eindeutig erfasst |
-| Ankauf von Darlehensforderungen | Nein, aber ggf. § 1 Abs. 1 Satz 2 Nr. 2 KWG (Kreditgeschäft) | Andere Erlaubnisstruktur |
-| Forfaitierung von Einzel-Großforderungen | Grenzfall | Bei wiederholter Praxis ggf. Tatbestand |
-| Reverse Factoring (vom Käufer initiiert) | Ja, wenn laufend und mit Rahmenvertrag | BaFin hat Reverse-Factoring grundsätzlich als KWG-relevant eingestuft |
-
-## Praxistipps
-
-- **Rahmenvertrag nicht umgehen**: Versuche, das Geschäft als "Einzelverkäufe ohne Rahmenvertrag" zu strukturieren, sind in der BaFin-Praxis durchsichtig. Wenn faktisch ein laufendes Geschäft entsteht, greift der Tatbestand.
-- **Konzernausnahme klären**: § 2 Abs. 6 KWG hat keine umfassende Konzernausnahme für Factoring – Vorsicht bei intercompany-Lösungen.
-- **Schwellen mehr Indizien, nicht Tatbestandsmerkmal**: Es gibt keine harte Schwelle (z. B. 10 Forderungen oder 1 Mio. EUR), aber Volumen und Frequenz sind Auslegungshilfen.
-- **Schriftform empfohlen**: Auch wenn kein Schriftformerfordernis besteht, sollte der Rahmenvertrag schriftlich sein – wegen Dokumentations- und Aufsichtspflichten.
-- **Voranfrage als Schutzmechanismus**: Bei unklaren Sachverhalten BaFin-Voranfrage stellen, die Antwort gilt als Vertrauenstatbestand.
-
-## Mustertexte
-
-**Tatbestandsvermerk**
-
-"In dem Mandat … plant der Mandant ein Geschäft, in dem die [X-GmbH] gegenüber der [Y-AG] sechsmal jährlich Forderungspakete in Höhe von je 200.000 EUR zum Verkauf anbietet. Es besteht ein Rahmenvertrag mit Laufzeit zwei Jahre, automatische Verlängerung. Echtes Factoring. Tatbestandsmerkmale: (1) laufender Ankauf – ja, bei 6 Ankäufen pro Jahr über zwei Jahre; (2) Forderungen aus Lieferungen und Leistungen – ja; (3) Rahmenvertrag – ja. Ergebnis: Tatbestand § 1 Abs. 1a Satz 2 Nr. 9 KWG erfüllt; Erlaubnispflicht."
-
-**Klausel im Rahmenvertrag (klarstellend)**
-
-"Dieser Rahmenvertrag regelt den fortlaufenden Ankauf von Forderungen aus Lieferungen und Leistungen der Verkäuferin durch die Käuferin nach Maßgabe der Einzelvereinbarungen. Die Parteien gehen davon aus, dass die Käuferin als Finanzdienstleistungsinstitut im Sinne des § 1 Abs. 1a Satz 2 Nr. 9 KWG handelt."
-
-**BaFin-Voranfrage (Auszug)**
-
-"Wir bitten um Mitteilung, ob das beigefügte Geschäftsmodell den Tatbestand des laufenden Forderungsankaufs auf der Grundlage von Rahmenverträgen im Sinne des § 1 Abs. 1a Satz 2 Nr. 9 KWG erfüllt. Insbesondere bitten wir um Stellungnahme zu folgenden Aspekten: (1) Auslegung des Merkmals 'laufend' bei einer Frequenz von … pro Jahr; (2) Behandlung gruppeninterner Geschäfte; (3) Abgrenzung zu sonstigen Forderungsfinanzierungen."
-
-## Typische Fehler
-
-- Annahme, ein nur mündlicher Rahmenvertrag liege nicht vor – BaFin schaut auf das wirtschaftliche Bild.
-- Verkennen, dass auch unechtes Factoring (mit Rückgriff) erfasst ist.
-- Vertretene Auffassung, Reverse-Factoring sei aufsichtsfrei – derzeit nicht haltbar.
-- Übersehen, dass die Erlaubnispflicht nicht nur den Käufer (Factor), sondern auch faktische Vermittlungs- und Plattformkonstruktionen treffen kann.
-- Nachträgliche Konstruktion einer "Einzelfall"-Struktur, um Erlaubnispflicht zu vermeiden.
-
-## Edge Cases und Sonderkonstellationen
-
-- **EU-Pass für Auslandsfactoren**: Ein in einem anderen EU-Staat zugelassener Factor darf grundsätzlich grenzüberschreitend in Deutschland tätig werden – Anzeigeverfahren statt voller Erlaubnis.
-- **Crowd-Factoring-Plattformen**: Plattformen, die Forderungen an Kleininvestoren vermitteln, können sowohl KWG (eigener Forderungsankauf) als auch WpHG/VermAnlG-Tatbestand auslösen.
-- **Tokenisierung von Forderungen**: Forderungen als Krypto-Werte oder Security Tokens – ggf. zusätzliche Erlaubnispflicht nach KWG/WpHG/eWpG.
-- **Konzernfinanzierungsgesellschaften**: Wenn eine Konzern-Finance-Gesellschaft systematisch Konzernforderungen ankauft, kann je nach Außenwirkung KWG greifen.
-- **Mortgage Servicing**: Forderungen aus grundpfandrechtlich gesicherten Krediten – Sonderfall, ggf. § 1 Abs. 1 Satz 2 Nr. 2 KWG (Kreditgeschäft) statt Factoring.
-- **Trade-Receivables-Securitization**: Verkauf an SPV mit ABS-Strukturierung – Aufsicht trifft sowohl Originator (Verkäufer) als auch SPV; § 18a KWG zu Verbriefungen beachten.
-- **PSD2/PSD3-Bezug**: Sobald Kontoinformationsdienste eingebunden sind, greift ZAG.
-
-## Quellen Stand 06/2026
-
-- KWG § 1 Abs. 1a Satz 2 Nr. 9, § 2, § 32, § 33, § 54.
-- BaFin-Merkblatt zum Tatbestand des Factoring, in der jeweils aktuellen Fassung auf bafin.de.
-- Gesetzesbegründung zum Jahressteuergesetz 2009 (Einführung des Factoring-Tatbestands).
-- BaFin-Veröffentlichungen zur Praxis der Erlaubnisverfahren.
-- BVerwG zu Untersagungsverfügungen bei erlaubnislosem Betrieb (jeweils prüfen).
-
----
-
-## Skill: `globalzession-verlaengerte-eigentumsvorbehalte-prioritaetskonfli`
-
-_Globalzession verlängerte Eigentumsvorbehalte Prioritätskonflikt: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO im Factoring Recht._
-
-# Globalzession verlängerte Eigentumsvorbehalte Prioritätskonflikt
-
-## Arbeitsbereich
-
-Globalzession verlängerte Eigentumsvorbehalte Prioritätskonflikt: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Globalzession verlängerte Eigentumsvorbehalte Prioritätskonflikt
-- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
-- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+Erlaubnis-Subsumtions-Vermerk § 1 Abs. 1a Satz 2 Nr. 9 KWG; Erlaubnisantrags-Checkliste § 32 KWG für Factoring-Institut; Konzernprivileg-Prüfungsschema; Zivilrechtliche Abtretungscheck-Liste (BGB/HGB); GwG-Pflichten-Übersicht für Factoring-Institute.
 
 ---
 
 ## Skill: `debitorenschutz-einwendungen-404-bgb-aufrechnung-406-bgb`
 
-_Debitorenschutz Einwendungen § 404 BGB Aufrechnung § 406 BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO im Factoring Recht._
+_Wenn es um Debitorenschutz Einwendungen Paragraf 404 BGB Aufrechnung Paragraf 406 BGB in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Debitorenschutz Einwendungen § 404 BGB Aufrechnung § 406 BGB
 
@@ -554,9 +352,269 @@ Fragen zum Einstieg:
 
 ---
 
+## Skill: `reverse-lieferantenfinanzierung-risikomatrix`
+
+_Wenn es um Reverse Factoring Lieferantenfinanzierung und Abgrenzung Kreditgeschäft in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Reverse Factoring Lieferantenfinanzierung und Abgrenzung Kreditgeschäft
+
+## Arbeitsbereich
+
+Reverse Factoring Lieferantenfinanzierung und Abgrenzung Kreditgeschäft: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Reverse Factoring Lieferantenfinanzierung und Abgrenzung Kreditgeschäft
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Startfragen
+- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
+- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
+- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
+- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
+- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+
+## Prüf- und Arbeitslogik
+1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
+2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
+3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
+4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
+5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
+6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+
+## Qualitätsgate
+Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+---
+
+## Skill: `abtretbarkeit-forderungen-abtretungsverbot`
+
+_Wenn es um Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Abtretbarkeit Forderungen § 398 BGB und Abtretungsverbote
+
+## Arbeitsbereich
+
+Abtretbarkeit Forderungen § 398 BGB und Abtretungsverbote: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Abtretbarkeit Forderungen § 398 BGB und Abtretungsverbote
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Worum geht es konkret
+
+Im Factoring lebt das ganze Geschäftsmodell davon, dass eine Forderung **wirksam von dem Kunden auf den Factor übergehen kann**. § 398 BGB beschreibt den Tatbestand der Abtretung: Einigung zwischen Altgläubiger und Neugläubiger, dass die Forderung übergeht – formfrei, einseitig anzeigbar, ohne Zustimmung des Schuldners. Klingt einfach. In der Praxis bricht der Forderungsankauf häufig genau hier: weil die Forderung gar nicht existiert, weil sie nicht bestimmt genug bezeichnet ist, weil ein Abtretungsverbot greift oder weil sie bereits einem Dritten abgetreten wurde (Globalzession, verlängerter Eigentumsvorbehalt).
+
+Prüft die **vier Wirksamkeitsstufen**: (1) Bestand der Forderung, (2) Bestimmbarkeit, (3) freie Verfügungsbefugnis (kein Verbot, keine Vorabtretung), (4) wirksame Einigung. Erst wenn alle vier Stufen stehen, kann der Factor sich auf Eigentum berufen.
+
+## Wann dieses Modul hilft / Kaltstart-Fragen
+
+- Sie strukturieren einen Factoringvertrag und müssen die Globalabtretung künftiger Forderungen wirksam fassen.
+- Eine angekaufte Forderung wird vom Debitor mit Hinweis auf ein vertragliches Abtretungsverbot bestritten.
+- Es konkurrieren mehrere Sicherheitenbesteller (Sicherungszession an die Hausbank, verlängerter Eigentumsvorbehalt des Lieferanten, neuer Factoringvertrag).
+- Im Insolvenzverfahren über das Vermögen des Factoringkunden wird die Aussonderung bestritten, weil die Forderungen nicht hinreichend bestimmt seien.
+
+Fragen zum Einstieg:
+- Welche Forderungen genau (Rechnungsnummer, Debitor, Zeitraum, Vertragstyp)?
+- Ist der zugrundeliegende Vertrag ein beiderseitiges Handelsgeschäft (dann § 354a HGB)?
+- Liegt ein vertragliches Abtretungsverbot vor, wenn ja in welchem AGB-Werk?
+- Gibt es konkurrierende Zessionen (Bank, Lieferant, anderer Factor)?
+- Ist die Forderung schon entstanden oder erst künftig?
+
+## Rechtlicher Rahmen
+
+- **§ 398 BGB**: Tatbestand der Abtretung. Einigung, kein Verfügungsverbot, Bestimmbarkeit. Übergang im Zeitpunkt der Einigung, bei künftigen Forderungen bei deren Entstehung.
+- **§ 399 BGB**: Abtretungsverbot kraft Vertrags oder kraft Natur der Leistung. Erfasst auch AGB-Klauseln im Lieferantenvertrag des Debitors.
+- **§ 354a HGB**: Trotz § 399 BGB ist die Abtretung wirksam, wenn die Forderung aus einem **beiderseitigen Handelsgeschäft** stammt oder gegen eine juristische Person des öffentlichen Rechts gerichtet ist. Der Schuldner darf aber weiter mit befreiender Wirkung an den Altgläubiger leisten.
+- **§ 354a Abs. 2 HGB**: Ausnahme für Darlehensforderungen von Kreditinstituten.
+- **§§ 404, 406, 407, 409 BGB**: Schuldnerschutz – Einwendungen, Aufrechnung, Leistung an Altgläubiger, Anzeige durch Altgläubiger.
+- **Bestimmbarkeitsgrundsatz** (st. Rspr. BGH, etwa BGH NJW 2000, 276): Künftige Forderungen müssen so bestimmt sein, dass im Entstehungszeitpunkt zweifelsfrei feststeht, welche Forderung erfasst ist.
+- **Verfügungsverbote**: Gesetzlich (z. B. § 400 BGB unpfändbare Forderungen, § 717 BGB-alt), gerichtlich (Pfändung), gewillkürt (§ 399 BGB).
+
+## / Schritt für Schritt
+
+1. **Forderung identifizieren**: Schuldgrund, Vertrag, Rechnung, Zeitraum, Betrag, Debitor. Ohne Identifikation keine Abtretung.
+2. **Bestand prüfen**: Ist die Forderung entstanden? Ist sie fällig? Bestehen Einreden (Verjährung, Zurückbehaltungsrechte, Mängelrechte)?
+3. **Bestimmbarkeit prüfen**: Bei Globalzession künftiger Forderungen: Branchenklauseln, Debitorenkreis, Zeitraum klar abgegrenzt?
+4. **Abtretungsverbote prüfen**: AGB des Debitors-Vertrags durchsuchen ("Abtretung nur mit Zustimmung", "Abtretung ausgeschlossen"). Wenn ja: § 354a HGB greift?
+5. **Vorabtretungen prüfen**: Sicherungszession an Bank (Prioritätsprinzip), verlängerter Eigentumsvorbehalt des Lieferanten (Vorrang bei Warengeschäften).
+6. **Einigung dokumentieren**: Wer hat wann unterschrieben? Schriftform empfehlenswert, aber nicht zwingend.
+7. **Anzeige planen**: Offene oder stille Zession? Bei stiller Zession Risiko der Leistung an Altgläubiger.
+
+## Trade-off-Matrix
+
+| Konstellation | Risiko | Lösung |
+|---|---|---|
+| Vertragliches Abtretungsverbot, kein Handelsgeschäft | Abtretung unwirksam | Vor Ankauf Debitor-AGB prüfen, ggf. Zustimmung einholen |
+| Handelsgeschäft mit Abtretungsverbot | § 354a HGB rettet Wirksamkeit, aber Debitor darf an Altgläubiger zahlen | Offenlegung, Zahlungsanweisung |
+| Globalzession Bank + Factoring | Doppelabtretung, Prioritätsstreit | Verzicht der Bank, Subordinationsabrede |
+| Verlängerter Eigentumsvorbehalt | Lieferant hat Vorrang an Warenforderung | Branchenausnahme, Lieferantenzustimmung |
+| Künftige Forderungen unscharf umrissen | Bestimmbarkeit verneint | Klausel: alle Forderungen aus laufender Geschäftsbeziehung mit Debitor X |
+
+## Praxistipps
+
+- **Listenanlage**: Jede einzelne angekaufte Forderung in einer prüfbaren Anlage zum Factoringvertrag führen (Rechnungsnummer, Datum, Betrag, Debitor, Fälligkeit). Beweis bei Insolvenzanfechtung.
+- **AGB-Screening**: Standardlieferbedingungen großer Konzerne (Automobil, Handel) enthalten regelmäßig Abtretungsverbote. § 354a HGB greift, aber Zahlungsstrom muss umgelenkt werden.
+- **Stille Zession nur mit Lastschrift**: Wenn der Debitor nicht angezeigt wird, sollte das Inkasso über ein Treuhandkonto laufen, auf das der Kunde mit Vollmacht zugreift.
+- **Vorrangverzicht der Bank**: Standardklausel im Bankkreditvertrag prüfen; oft ist Factoring nur mit ausdrücklicher Freigabe zulässig.
+
+## Mustertexte
+
+**Klausel Globalabtretung (Factoringvertrag)**
+
+"Der Kunde tritt hiermit alle gegenwärtigen und künftigen Forderungen aus Lieferungen und Leistungen gegen die im Anlagenverzeichnis aufgeführten Debitoren, insbesondere die jeweils einzeln angekauften Forderungen gemäß Forderungsanzeige (Anlage 2), an den Factor ab. Der Factor nimmt die Abtretung an. Bei künftigen Forderungen geht die Forderung mit Entstehung über."
+
+**Klausel Erklärung zu Abtretungsverboten**
+
+"Der Kunde erklärt, dass den abgetretenen Forderungen keine vertraglichen Abtretungsverbote entgegenstehen, die nicht durch § 354a HGB überwunden werden. Soweit Abtretungsverbote bestehen, wird der Kunde dies dem Factor unverzüglich anzeigen und auf Zustimmungseinholung hinwirken."
+
+**Notifikationsschreiben an Debitor**
+
+"Sehr geehrte Damen und Herren, wir zeigen Ihnen an, dass wir unsere Forderung gegen Sie aus Rechnung Nr. … vom … in Höhe von … EUR an die [Factor-Gesellschaft] abgetreten haben. Bitte zahlen Sie mit befreiender Wirkung ausschließlich auf das Konto der Factor-Gesellschaft IBAN …"
+
+## Typische Fehler
+
+- Globalzession ohne hinreichende Bestimmbarkeit, dadurch keine wirksame Abtretung künftiger Forderungen.
+- Nichtbeachtung von § 354a Abs. 2 HGB (Darlehensforderungen sind von der Verbotsdurchbrechung ausgenommen).
+- Doppelabtretung an Bank und Factor ohne Klärung des Vorrangs.
+- Ankauf von Forderungen, die noch gar nicht entstanden sind (Werkleistung noch nicht erbracht).
+- Verkennen, dass der Debitor nach § 354a HGB weiterhin mit befreiender Wirkung an den Altgläubiger leisten darf.
+
+## Edge Cases und Sonderkonstellationen
+
+- **Treuhand-Forderungen**: Wenn der Kunde die Forderung treuhänderisch für einen Dritten hält, ist er nicht Inhaber und kann nicht abtreten – Trennung von Eigen- und Treugutbestand prüfen.
+- **Werklohnforderungen ohne Abnahme**: Vor Abnahme ist die Forderung noch nicht fällig; aufschiebende Bedingung – Ankauf erst nach Abnahme empfehlen.
+- **Abschlagszahlungen**: Werklohn-Abschläge können künftige Restforderungen blockieren; bei Bauträgerverträgen MaBV beachten.
+- **Verbraucherforderungen**: Bei Forderungen gegen Verbraucher ist § 309 BGB einschlägig – pauschalierte Aufrechnungsverbote unzulässig; Datenschutz strenger.
+- **Insolvenzanfechtung**: Wenn Globalzession erst nach Anfechtungszeitraum (3 Monate vor Insolvenzantrag, § 130 InsO) bestellt wurde, droht Anfechtung; bei Forderungen aus Bargeschäft (§ 142 InsO) Schutz.
+- **Sub-Faktoring**: Wenn ein Factor seinerseits Forderungen weiter abtritt (Refactoring an Investor), gelten die Bestimmbarkeitsregeln neu.
+
+## Quellen Stand 06/2026
+
+- BGB §§ 398 bis 412, insbesondere § 399 (Abtretungsverbot) und § 404 (Einwendungen).
+- HGB § 354a in der Fassung des Risikobegrenzungsgesetzes (Abs. 2 zu Darlehensforderungen).
+- BGH, st. Rspr. zur Bestimmbarkeit künftiger Forderungen (Leitsätze in den jeweiligen amtlichen Sammlungen prüfen).
+- BaFin-Merkblatt zum Tatbestand des Factoring (jeweils aktueller Stand auf bafin.de).
+- KWG § 1 Abs. 1a Satz 2 Nr. 9 zum Tatbestand des Factoring als Finanzdienstleistung.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 32 KWG
+- Art. 14 DSGVO
+- § 2 KWG
+- § 203 StGB
+- § 33 KWG
+- § 25c KWG
+- § 37 KWG
+- § 54 KWG
+- § 25a KWG
+- § 44 KWG
+- § 49 KWG
+- § 29 VwVfG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+---
+
+## Skill: `globalzession-verlaengerte-eigentumsvorbehalte-prioritaetskonfli`
+
+_Wenn es um Globalzession verlängerte Eigentumsvorbehalte Prioritätskonflikt in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Globalzession verlängerte Eigentumsvorbehalte Prioritätskonflikt
+
+## Arbeitsbereich
+
+Globalzession verlängerte Eigentumsvorbehalte Prioritätskonflikt: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Globalzession verlängerte Eigentumsvorbehalte Prioritätskonflikt
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Startfragen
+- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
+- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
+- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
+- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
+- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+
+## Prüf- und Arbeitslogik
+1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
+2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
+3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
+4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
+5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
+6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+
+## Qualitätsgate
+Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+---
+
+## Skill: `erlaubnisantrag-32-kwg-unterlagen`
+
+_Wenn es um Erlaubnisantrag Paragraf 32 KWG Unterlagen Geschäftsleiter in Factoring-Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Erlaubnisantrag § 32 KWG Unterlagen Geschäftsleiter
+
+## Fachkern: Erlaubnisantrag § 32 KWG Unterlagen Geschäftsleiter
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Startfragen
+- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
+- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
+- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
+- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
+- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+
+## Prüf- und Arbeitslogik
+1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
+2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
+3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
+4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
+5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
+6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+
+## Qualitätsgate
+Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+---
+
 ## Skill: `konzentrationsrisiken-debitorenlimit-und-portfolio-covenants`
 
-_Konzentrationsrisiken Debitorenlimit und Portfolio Covenants: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO im Factoring Recht._
+_Wenn es um Konzentrationsrisiken Debitorenlimit und Portfolio Covenants in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Konzentrationsrisiken Debitorenlimit und Portfolio Covenants
 
@@ -599,7 +657,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## Skill: `oeffentliche-auftraggeber`
 
-_Öffentliche Auftraggeber Abtretung Zustimmung Haushaltsrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO im Factoring Recht._
+_Wenn es um Öffentliche Auftraggeber Abtretung Zustimmung Haushaltsrecht in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Öffentliche Auftraggeber Abtretung Zustimmung Haushaltsrecht
 
@@ -640,15 +698,15 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ---
 
-## Skill: `unidroit-fci-logik-und-rechtswahl-internationale-forderungen`
+## Skill: `schnittstelle-lieferkettenfinanzierung`
 
-_UNIDROIT/FCI Logik und Rechtswahl internationale Forderungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO im Factoring Recht._
+_Wenn es um Schnittstelle Lieferkettenfinanzierung Supply Chain Finance in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# UNIDROIT/FCI Logik und Rechtswahl internationale Forderungen
+# Schnittstelle Lieferkettenfinanzierung Supply Chain Finance
 
 ## Arbeitsbereich
 
-UNIDROIT/FCI Logik und Rechtswahl internationale Forderungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schnittstelle Lieferkettenfinanzierung Supply Chain Finance: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -658,7 +716,7 @@ UNIDROIT/FCI Logik und Rechtswahl internationale Forderungen: prüft die einschl
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: UNIDROIT/FCI Logik und Rechtswahl internationale Forderungen
+## Fachkern: Schnittstelle Lieferkettenfinanzierung Supply Chain Finance
 - **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
 - **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -683,66 +741,9 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ---
 
-## Skill: `kwg-erlaubnispflicht-factoring-1-abs-1a-satz-2-nr-9-kwg`
-
-_KWG Erlaubnispflicht Factoring § 1 Abs. 1a Satz 2 Nr. 9 KWG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO im Factoring Recht._
-
-# KWG-Erlaubnispflicht Factoring nach § 1 Abs. 1a Satz 2 Nr. 9 KWG
-
-## Arbeitsbereich
-
-KWG Erlaubnispflicht Factoring § 1 Abs. 1a Satz 2 Nr. 9 KWG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Worum es geht
-
-Prüfe, ob ein Factoring-Geschäftsmodell unter die Erlaubnispflicht nach § 1 Abs. 1a Satz 2 Nr. 9 KWG fällt. Die Norm ist der gesetzliche Anker des Factorings als Finanzdienstleistung. Zentrale Fragen sind: Liegt echtes oder unechtes Factoring vor? Handelt der Factor auf eigene Rechnung? Findet eine Bonitätsprüfung statt? Für reine Forderungseinkäufer ohne Kreditfunktion kann das Bankenprivileg fehlen.
-
-## Kernnormen
-
-- **§ 1 Abs. 1a Satz 2 Nr. 9 KWG** – Factoring als Finanzdienstleistung: Ankauf von Forderungen auf eigene Rechnung mit oder ohne Rückgriff; Tatbestandsmerkmale: gewerbsmäßig oder kaufmännischer Umfang, eigene Rechnung, Forderungsankauf; dies ist der Kern-Erlaubnistatbestand
-- **§ 32 KWG** – Erlaubnispflicht: schriftlicher Antrag bei BaFin; Geschäftsplan, IT-Konzept, Unterlagen zu Inhabern und Geschäftsleitern; Erlaubnis als Finanzdienstleistungsinstitut (nicht Kreditinstitut)
-- **§ 33 KWG** – Versagungsgründe: Anfangskapital (§ 33 Abs. 1 Nr. 1 KWG; für Finanzdienstleistungsinstitute nach § 10 Abs. 3 KWG); Zuverlässigkeit Geschäftsleiter; unzureichender Geschäftsplan
-- **§ 2 Abs. 6 Satz 1 Nr. 7 KWG** – Konzernprivileg: konzerninterne Forderungsverkäufe ohne BaFin-Erlaubnis möglich wenn ausschließlich innerhalb des Konzerns
-- **§ 25a KWG** – Organisationspflichten: auch Factoring-Institute müssen Risikomanagement, Compliance, Revision einrichten; MaRisk-light gilt für kleinere Institute
-- **§ 25c KWG** – Geschäftsleiter-Anforderungen: Fit-and-Proper auch bei Factoring-Instituten; Zuverlässigkeit, Sachkunde, Zeitbudget
-- **BGB §§ 398 ff.** – Abtretungsrecht: zivilrechtliche Grundlage des Forderungsankaufs; stille vs. offene Zession; Abtretungsverbote (§ 399 BGB), HGB § 354a Abtretbarkeit kaufmännischer Forderungen trotz Verbot
-- **GwG §§ 2 ff.** – Factoring-Institute als Verpflichtete nach GwG § 2 Abs. 1 Nr. 2 (Finanzdienstleistungsinstitute); KYC-Pflichten für Forderungsverkäufer und ggf. Drittschuldner
-
-## Prüfschritte
-
-1. **Tatbestandsprüfung § 1 Abs. 1a Satz 2 Nr. 9 KWG**: Ankauf von Forderungen auf eigene Rechnung? Gewerbsmäßig oder in kaufmännischem Umfang? Rückkaufsvereinbarung = unechtes Factoring (kein Delkredere-Übernahme)?
-2. **Echtes vs. unechtes Factoring**: Echtes Factoring (Delkredere übernommen) = eindeutig § 1 Abs. 1a Satz 2 Nr. 9 KWG; unechtes Factoring (Rückgriff bei Ausfall) = BaFin-Praxis: ebenfalls Erlaubnispflicht, aber Abgrenzung zum Kreditgeschäft beachten.
-3. **Konzernprivileg** (§ 2 Abs. 6 Satz 1 Nr. 7 KWG): Ausschließlich konzerninterner Forderungsankauf? Wenn ja, keine Erlaubnispflicht.
-4. **Erlaubnisantrag** (§ 32 KWG): Anfangskapital für Finanzdienstleistungsinstitut (kein Bankenstatus erforderlich); Geschäftsplan mit Factoring-Portfolio, Bonitätsprüfungskonzept.
-5. **Organisationspflichten** (§ 25a KWG): Risikomanagement (Forderungsausfallrisiko), Compliance, Revision; MaRisk-Anwendung proportional.
-6. **Zivilrechtliche Grundlagen** (BGB §§ 398 ff., HGB § 354a): Abtretbarkeit prüfen; stille Zession vs. offene Zession; Abtretungsverbote in AGB des Forderungsverkäufers.
-7. **GwG-Pflichten** (GwG § 2 Abs. 1 Nr. 2): KYC für Forderungsverkäufer; Transaktionsmonitoring auf Geldwäschesignale.
-
-## Typische Fallkonstellationen
-
-- Mittelständler gründet konzerneigenes Factoring-Vehikel: § 2 Abs. 6 Nr. 7 KWG Konzernprivileg; keine BaFin-Erlaubnis wenn rein konzerninternes Factoring
-- Selbstständiges Factoring-Unternehmen kauft Handels-Forderungen: § 1 Abs. 1a Satz 2 Nr. 9 KWG Erlaubnispflicht; § 32 KWG Antrag
-- Online-Plattform vermittelt Forderungsverkäufe: kein Eigenerwerb = kein § 1 Abs. 1a Satz 2 Nr. 9 KWG; ggf. Anlageberatung oder anderer Tatbestand prüfen
-- Factoring-Institut erweitert um Kreditvergabe: § 1 Abs. 1 Nr. 2 KWG Kreditgeschäft; KWG-Vollbanklizenz erforderlich
-- Unechtes Factoring mit Rückgriff: BaFin-Praxis bestätigt Erlaubnispflicht; Abgrenzung Buchforderungszession ohne Bonitätsübernahme
-
-## Output
-
-Erlaubnis-Subsumtions-Vermerk § 1 Abs. 1a Satz 2 Nr. 9 KWG; Erlaubnisantrags-Checkliste § 32 KWG für Factoring-Institut; Konzernprivileg-Prüfungsschema; Zivilrechtliche Abtretungscheck-Liste (BGB/HGB); GwG-Pflichten-Übersicht für Factoring-Institute.
-
----
-
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

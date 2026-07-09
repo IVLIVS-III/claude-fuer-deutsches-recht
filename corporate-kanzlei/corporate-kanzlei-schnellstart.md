@@ -54,8 +54,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
 - Normenradar: GmbHG Paragrafen 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragrafen 76, 93, 111, 119, 130, 243 ff.; HGB Paragrafen 105 ff., 161 ff: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BRAO Paragraf 43a, BORA Paragraf 3 und BRAO Paragraf 49b für Verschwiegenheit, Konflikt und Honorar: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- GwG Paragrafen 10 ff. für Mandatsannahme und wirtschaftlich Berechtigte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGB Paragrafen 611a, 675 und 280 für Beratungs- und Haftungsrahmen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 41 GWB — Vollzugsverbot; Monitoring der Freigabe-Fristen zwingend: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
 - BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
 - BGH Urt. v. 15.10.2007 — II ZR 216/06 GmbHR 2008, 147 (Sachagio bei Gründung Paragraf 3 Abs. 2 GmbHG zwingend)

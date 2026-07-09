@@ -1,41 +1,42 @@
-# Megaprompt: informationsfreiheit-presseauskunft
+# Vollprüfung: informationsfreiheit-presseauskunft
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 117 Skills (gekuerzt fuer Chat-Fenster) des Plugins `informationsfreiheit-presseauskunft`.
+Dieser Vollprüfung enthaelt top-8 von 117 Skills (gekuerzt fuer Chat-Fenster) des Plugins `informationsfreiheit-presseauskunft`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Informationsfreiheit und Presseauskunft: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Ro…
-2. **ablehnungsbescheid-angriffspunkte** — Informationsfreiheit und Presseauskunft: Ablehnungsbescheid in Angriffspunkte zerlegen. Ablehnungsbescheid in Angriffspu…
-3. **bundesbehoerde-oder-landesbehoerde-erk** — Informationsfreiheit und Presseauskunft: Bundesbehörde oder Landesbehörde erkennen. Bundesbehörde oder Landesbehörde erk…
-4. **drittbeteiligung-bei-betriebsgeheimnis** — Informationsfreiheit und Presseauskunft: Drittbeteiligung bei Betriebsgeheimnissen. Drittbeteiligung bei Betriebsgeheimn…
-5. **fristenkalender-untaetigkeitstrack-bund-zustaendigkeit** — Informationsfreiheit und Presseauskunft: Fristenkalender und Untätigkeitstracker. Fristenkalender und Untätigkeitstracke…
-6. **gebuehrenbescheid-angreifen** — Informationsfreiheit und Presseauskunft: Gebührenbescheid angreifen. Gebührenbescheid angreifen im Fachgebiet Informatio…
-7. **informationszugang-baden-wuerttemberg-bayern-livecheck** — Informationsfreiheit und Presseauskunft: Informationszugang Baden-Württemberg Livecheck. Informationszugang Baden-Württe…
-8. **informationszugang-beliehenen-parlaments** — Informationsfreiheit und Presseauskunft: Informationszugang bei beliehenen Privaten. Informationszugang bei beliehenen P…
+1. **kaltstart-triage** — Wenn es um Informationsfreiheit und Presseauskunft - Allgemeiner Einstieg in Informationsfreiheit und Presseauskunft geh…
+2. **lebensmittel-produkte-antrag-zustaend-kosten-schwaerz** — Wenn es um Vig Lebensmittel Und Produkte Antrag F in Informationsfreiheit und Presseauskunft geht: erstellt den passende…
+3. **lebensmittel-produkte-drittanh-widerspr-klage-pressean** — Wenn es um Vig Lebensmittel Und Produkte Drittanh in Informationsfreiheit und Presseauskunft geht: erstellt den passende…
+4. **lebensmittel-produkte-tracking-landespressegesetz-antrag** — Wenn es um Vig Lebensmittel Und Produkte Tracking in Informationsfreiheit und Presseauskunft geht: erstellt den passende…
+5. **uig-umweltinformation-klage-vorbereite** — Wenn es um Uig Umweltinformation Klage Vorbereite in Informationsfreiheit und Presseauskunft geht: erstellt den passende…
+6. **umweltinformation-antrag-formulier-kosten-deckeln** — Wenn es um Uig Umweltinformation Antrag Formulier in Informationsfreiheit und Presseauskunft geht: erstellt den passende…
+7. **umweltinformation-widerspruch-baue-klage-vorbereite** — Wenn es um Uig Umweltinformation Widerspruch Baue in Informationsfreiheit und Presseauskunft geht: erstellt den passende…
+8. **verpflichtungsklage-und-eilrechtsschut** — Wenn es um Verpflichtungsklage Und Eilrechtsschut in Informationsfreiheit und Presseauskunft geht: erstellt den passende…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Informationsfreiheit und Presseauskunft: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe._
+_Wenn es um Informationsfreiheit und Presseauskunft - Allgemeiner Einstieg in Informationsfreiheit und Presseauskunft geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Informationsfreiheit und Presseauskunft - Allgemeiner Einstieg
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Informationsfreiheit Presseauskunft** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Normenanker
 
@@ -89,77 +90,11 @@ Primär mit amtlichen Gesetzestexten, Behördenhinweisen, Gerichtsentscheidungen
 
 ---
 
-## Skill: `ablehnungsbescheid-angriffspunkte`
+## Skill: `lebensmittel-produkte-antrag-zustaend-kosten-schwaerz`
 
-_Informationsfreiheit und Presseauskunft: Ablehnungsbescheid in Angriffspunkte zerlegen. Ablehnungsbescheid in Angriffspunkte zerlegen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Pr..._
+_Wenn es um Vig Lebensmittel Und Produkte Antrag F in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Ablehnungsbescheid In Angriffspunkte Z
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 Abs. 1 IFG` — Anspruch auf Informationszugang beim Bund.
-- `§ 3 IFG` — Schutz besonderer öffentlicher Belange.
-- `§ 5 IFG` — personenbezogene Daten.
-- `§ 6 IFG` — geistiges Eigentum und Betriebs-/Geschäftsgeheimnisse.
-- `§ 7 IFG` — Antrag und Verfahren.
-- `§ 10 IFG` — Gebühren und Auslagen.
-- `§ 70 Abs. 1 VwGO` — Widerspruch.
-- `§ 74 Abs. 1 VwGO` — Klagefrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- IFG Bund, IFGGebV und Fachinformationsgesetze
-- Landes-IFG/Transparenzgesetze oder Ersatzwege in No-IFG-Ländern
-- UIG, VIG, Pressegesetze, Art. 5 GG, Art. 10 EMRK
-- VwGO: Widerspruch, Verpflichtungsklage, Eilrechtsschutz, Untätigkeit
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 1 IFG
-- § 3 IFG
-- § 5 IFG
-- § 6 IFG
-- § 7 IFG
-- § 10 IFG
-- § 70 VwG
-- § 74 VwG
-- § 123 VwG
-- Art. 5 GG
-- Art. 10 EMRK
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
----
-
-## Skill: `bundesbehoerde-oder-landesbehoerde-erk`
-
-_Informationsfreiheit und Presseauskunft: Bundesbehörde oder Landesbehörde erkennen. Bundesbehörde oder Landesbehörde erkennen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseausk..._
-
-# Bundesbehoerde Oder Landesbehoerde Erk
+# Vig Lebensmittel Und Produkte Antrag F
 
 ## Arbeitsweg
 
@@ -199,55 +134,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `drittbeteiligung-bei-betriebsgeheimnis`
+## Skill: `lebensmittel-produkte-drittanh-widerspr-klage-pressean`
 
-_Informationsfreiheit und Presseauskunft: Drittbeteiligung bei Betriebsgeheimnissen. Drittbeteiligung bei Betriebsgeheimnissen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseausk..._
+_Wenn es um Vig Lebensmittel Und Produkte Drittanh in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Drittbeteiligung Bei Betriebsgeheimnis
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 Abs. 1 IFG` — Anspruch auf Informationszugang beim Bund.
-- `§ 3 IFG` — Schutz besonderer öffentlicher Belange.
-- `§ 5 IFG` — personenbezogene Daten.
-- `§ 6 IFG` — geistiges Eigentum und Betriebs-/Geschäftsgeheimnisse.
-- `§ 7 IFG` — Antrag und Verfahren.
-- `§ 10 IFG` — Gebühren und Auslagen.
-- `§ 70 Abs. 1 VwGO` — Widerspruch.
-- `§ 74 Abs. 1 VwGO` — Klagefrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- IFG Bund, IFGGebV und Fachinformationsgesetze
-- Landes-IFG/Transparenzgesetze oder Ersatzwege in No-IFG-Ländern
-- UIG, VIG, Pressegesetze, Art. 5 GG, Art. 10 EMRK
-- VwGO: Widerspruch, Verpflichtungsklage, Eilrechtsschutz, Untätigkeit
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
-## Skill: `fristenkalender-untaetigkeitstrack-bund-zustaendigkeit`
-
-_Informationsfreiheit und Presseauskunft: Fristenkalender und Untätigkeitstracker. Fristenkalender und Untätigkeitstracker im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft..._
-
-# Fristenkalender Und Untaetigkeitstrack
+# Vig Lebensmittel Und Produkte Drittanh
 
 ## Arbeitsweg
 
@@ -287,55 +178,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `gebuehrenbescheid-angreifen`
+## Skill: `lebensmittel-produkte-tracking-landespressegesetz-antrag`
 
-_Informationsfreiheit und Presseauskunft: Gebührenbescheid angreifen. Gebührenbescheid angreifen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft: prüft konkret die einsch..._
+_Wenn es um Vig Lebensmittel Und Produkte Tracking in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Gebührenbescheid Angreifen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 Abs. 1 IFG` — Anspruch auf Informationszugang beim Bund.
-- `§ 3 IFG` — Schutz besonderer öffentlicher Belange.
-- `§ 5 IFG` — personenbezogene Daten.
-- `§ 6 IFG` — geistiges Eigentum und Betriebs-/Geschäftsgeheimnisse.
-- `§ 7 IFG` — Antrag und Verfahren.
-- `§ 10 IFG` — Gebühren und Auslagen.
-- `§ 70 Abs. 1 VwGO` — Widerspruch.
-- `§ 74 Abs. 1 VwGO` — Klagefrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- IFG Bund, IFGGebV und Fachinformationsgesetze
-- Landes-IFG/Transparenzgesetze oder Ersatzwege in No-IFG-Ländern
-- UIG, VIG, Pressegesetze, Art. 5 GG, Art. 10 EMRK
-- VwGO: Widerspruch, Verpflichtungsklage, Eilrechtsschutz, Untätigkeit
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
-## Skill: `informationszugang-baden-wuerttemberg-bayern-livecheck`
-
-_Informationsfreiheit und Presseauskunft: Informationszugang Baden-Württemberg Livecheck. Informationszugang Baden-Württemberg Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/..._
-
-# Informationszugang Baden Wuerttemberg
+# Vig Lebensmittel Und Produkte Tracking
 
 ## Arbeitsweg
 
@@ -375,11 +222,143 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `informationszugang-beliehenen-parlaments`
+## Skill: `uig-umweltinformation-klage-vorbereite`
 
-_Informationsfreiheit und Presseauskunft: Informationszugang bei beliehenen Privaten. Informationszugang bei beliehenen Privaten im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseau..._
+_Wenn es um Uig Umweltinformation Klage Vorbereite in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Informationszugang Bei Beliehenen Priv
+# Uig Umweltinformation Klage Vorbereite
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 Abs. 1 IFG` — Anspruch auf Informationszugang beim Bund.
+- `§ 3 IFG` — Schutz besonderer öffentlicher Belange.
+- `§ 5 IFG` — personenbezogene Daten.
+- `§ 6 IFG` — geistiges Eigentum und Betriebs-/Geschäftsgeheimnisse.
+- `§ 7 IFG` — Antrag und Verfahren.
+- `§ 10 IFG` — Gebühren und Auslagen.
+- `§ 70 Abs. 1 VwGO` — Widerspruch.
+- `§ 74 Abs. 1 VwGO` — Klagefrist.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+- IFG Bund, IFGGebV und Fachinformationsgesetze
+- Landes-IFG/Transparenzgesetze oder Ersatzwege in No-IFG-Ländern
+- UIG, VIG, Pressegesetze, Art. 5 GG, Art. 10 EMRK
+- VwGO: Widerspruch, Verpflichtungsklage, Eilrechtsschutz, Untätigkeit
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+---
+
+## Skill: `umweltinformation-antrag-formulier-kosten-deckeln`
+
+_Wenn es um Uig Umweltinformation Antrag Formulier in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Uig Umweltinformation Antrag Formulier
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 Abs. 1 IFG` — Anspruch auf Informationszugang beim Bund.
+- `§ 3 IFG` — Schutz besonderer öffentlicher Belange.
+- `§ 5 IFG` — personenbezogene Daten.
+- `§ 6 IFG` — geistiges Eigentum und Betriebs-/Geschäftsgeheimnisse.
+- `§ 7 IFG` — Antrag und Verfahren.
+- `§ 10 IFG` — Gebühren und Auslagen.
+- `§ 70 Abs. 1 VwGO` — Widerspruch.
+- `§ 74 Abs. 1 VwGO` — Klagefrist.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+- IFG Bund, IFGGebV und Fachinformationsgesetze
+- Landes-IFG/Transparenzgesetze oder Ersatzwege in No-IFG-Ländern
+- UIG, VIG, Pressegesetze, Art. 5 GG, Art. 10 EMRK
+- VwGO: Widerspruch, Verpflichtungsklage, Eilrechtsschutz, Untätigkeit
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+---
+
+## Skill: `umweltinformation-widerspruch-baue-klage-vorbereite`
+
+_Wenn es um Uig Umweltinformation Widerspruch Baue in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Uig Umweltinformation Widerspruch Baue
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 Abs. 1 IFG` — Anspruch auf Informationszugang beim Bund.
+- `§ 3 IFG` — Schutz besonderer öffentlicher Belange.
+- `§ 5 IFG` — personenbezogene Daten.
+- `§ 6 IFG` — geistiges Eigentum und Betriebs-/Geschäftsgeheimnisse.
+- `§ 7 IFG` — Antrag und Verfahren.
+- `§ 10 IFG` — Gebühren und Auslagen.
+- `§ 70 Abs. 1 VwGO` — Widerspruch.
+- `§ 74 Abs. 1 VwGO` — Klagefrist.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+- IFG Bund, IFGGebV und Fachinformationsgesetze
+- Landes-IFG/Transparenzgesetze oder Ersatzwege in No-IFG-Ländern
+- UIG, VIG, Pressegesetze, Art. 5 GG, Art. 10 EMRK
+- VwGO: Widerspruch, Verpflichtungsklage, Eilrechtsschutz, Untätigkeit
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+---
+
+## Skill: `verpflichtungsklage-und-eilrechtsschut`
+
+_Wenn es um Verpflichtungsklage Und Eilrechtsschut in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Verpflichtungsklage Und Eilrechtsschut
 
 ## Arbeitsweg
 
@@ -421,7 +400,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

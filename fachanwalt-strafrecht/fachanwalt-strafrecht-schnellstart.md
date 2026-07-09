@@ -60,7 +60,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Konstanz, Entstehung und Belastungsmotive sind bei Aussageanalyse zu würdigen.
 - BVerfG-Linie zur Akteneinsicht in Haftsachen: bei Untersuchungshaft sind alle haftrelevanten Aktenteile zugänglich zu machen, sonst Verstoß gegen Art. 103 Abs. 1 GG (siehe BVerfG 04.10.2017 — 2 BvR
 - BVerfG 23.09.2025 — 2 BvR 625/25 (ANOM-Verwertbarkeit): Grundrechtliche Maßstäbe an die Verwertung verdeckt erhobener Kommunikationsdaten — Übertragbarkeit auf ChatControl-Szenarien diskussionswürdig
-- BVerfG 23.09.2025 — 2 BvR 625/25 (ANOM-Verwertbarkeit): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
 
 ## 7. Antwortform
 

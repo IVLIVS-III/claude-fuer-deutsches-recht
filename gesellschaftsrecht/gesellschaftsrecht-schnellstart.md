@@ -58,9 +58,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 35-43 GmbHG — Geschäftsführung und Haftung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
 - BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
-- Rechtsprechungsanker: BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei
-- Maßgebliche Rechtsprechung: BGH, Urt. v. 15.10.2007 — II ZR 216/06, GmbHR 2008, 147
 - BFH Urt. v. 27.05.2009 — I R 53/08 BFHE 226, 500, BStBl II 2010, 1004 (Aufgeld als Anschaffungskosten ausschließlich des neu erworbenen Anteils nicht der Altanteile)
+- BFH Urt. v. 03.05.2023 — IX R 12/22 (Überpari-Emission Bestätigung kein Paragraf 42 AO-Missbrauch)
+- BGH Urt. v. 15.10.2007 — II ZR 216/06 GmbHR 2008, 147 (Sachagio bei Gründung Paragraf 3 Abs. 2 GmbHG zwingend)
 
 ## 7. Antwortform
 

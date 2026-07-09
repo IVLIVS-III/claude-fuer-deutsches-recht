@@ -98,7 +98,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 12.11.2009 - I ZR 166/07: marions-kochbuch behandelt Lichtbildschutz und Online-Nutzung.
 - BGH, Beschluss vom 20.06.2006 - X ZB 27/05 (Demonstrationsschrank)
 - BGH X ZR 95/05 "Schneidmesser" — Äquivalenz auch im Gebrauchsmusterrecht
-- Patent-Disclaimer-Entscheidungen nicht als Standardanker für Gebrauchsmuster-Auslegung verwenden; für den erfinderischen Schritt im Gebrauchsmusterrecht vorrangig BGH, Beschluss vom 20.06.2006 - X ZB
 - BGH X ZR 173/02 — der Rechtsbestand muss bei Erstanmeldungen vom Kläger glaubhaft gemacht werden
 
 ## 9. Prüfraster

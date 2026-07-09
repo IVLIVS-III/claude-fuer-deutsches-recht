@@ -1,41 +1,42 @@
-# Megaprompt: bgb-at-pruefer
+# Vollprüfung: bgb-at-pruefer
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 95 Skills des Plugins `bgb-at-pruefer`.
+Dieser Vollprüfung enthaelt top-10 von 95 Skills des Plugins `bgb-at-pruefer`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im BGB-AT-Prüfer. Fragt Fallfrage, Rolle, Anspruchsziel, Tatsachen, Fristen, Erk…
-2. **klausurloesungen-fehlerdiagnose-konsens** — Analysiert fehlerhafte Klausurlösungen im BGB Allgemeiner Teil: typische Aufbaufehler beim Anspruchsaufbau, falsche Prüf…
-3. **stellvertretung-routing-paragraphen-164-181** — Routing-Skill zur Stellvertretung nach §§ 164 bis 181 BGB: Vollmachtserteilung und -erlöschen, Offenkundigkeit des Hande…
-4. **klausurloesungen-fehlerdiagnose** — Analysiert fehlerhafte Klausurlösungen im BGB Allgemeiner Teil: typische Aufbaufehler beim Anspruchsaufbau, falsche Prüf…
-5. **vertragsschluss-antrag-abgabe** — Klausurfall zum Vertragsschluss durch Antrag und Annahme nach §§ 145 bis 156 BGB: Bindungswirkung des Antrags, Erlöschun…
-6. **rechtlich-vorteilhaft-paragraph-107** — Klausurfall zu lediglich rechtlich vorteilhaften Rechtsgeschäften nach § 107 BGB: Minderjähriger erwirbt ohne Einwilligu…
-7. **invitatio-ad-offerendum-und-werbung** — Klausurfall zur Abgrenzung von Angebot und invitatio ad offerendum nach §§ 145 bis 147 BGB: Werbung im Schaufenster und …
-8. **willenserklaerung-wucher-ausbeutung-zugang** — Klausurfall zum Tatbestand der Willenserklärung: objektiver Erklärungstatbestand, Rechtsbindungswille, Erklärungsbewusst…
-9. **vertreter-ohne-vertretungsmacht-paragraphen-177-179** — Klausurfall zum vollmachtlosen Vertreter nach §§ 177 bis 179 BGB: schwebende Unwirksamkeit des Vertreterhandelns, Genehm…
-10. **vertragsschluss-antrag-annahme** — Klausurfall zum Vertragsschluss durch Antrag und Annahme nach §§ 145 bis 156 BGB: Bindungswirkung des Antrags, Erlöschun…
+1. **kaltstart-triage** — Wenn es um Kaltstart Triage in BGB AT Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachs…
+2. **einseitige-geschaefte-minderjaehrige-paragraph-111** — Wenn es um Einseitige Rechtsgeschäfte und Minderjährige — Paragraf 111 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, No…
+3. **vertreter-ohne-vertretungsmacht-paragraphen-177-179** — Wenn es um Vertreter ohne Vertretungsmacht — Paragrafen 177 bis 179 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm,…
+4. **personen-rechtsfaehigkeit-handlungsfaehigkeit** — Wenn es um Rechtsfähigkeit und Handlungsfähigkeit — Paragrafen 1 bis 14 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, N…
+5. **auslegung-sachverhalt-bgb-at-erklaerungskette** — Wenn es um Sachverhaltsauslegung und Fallfrage — Klausur-Methodik BGB AT in BGB AT Prüfer geht: ordnet Sachverhalt, Norm…
+6. **personen-rechtsfaehigkeit-privatautonomie** — Wenn es um Rechtsfähigkeit und Handlungsfähigkeit — Paragrafen 1 bis 14 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, N…
+7. **erwerbsgeschaeft-dienst-formnichtigkeit** — Wenn es um Ermächtigung zu Erwerbsgeschäften — Paragrafen 112 und 113 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Nor…
+8. **einseitige-geschaefte-minderjaehrige** — Wenn es um Einseitige Rechtsgeschäfte und Minderjährige — Paragraf 111 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, No…
+9. **anfechtungsfrist-erklaerung-annahmefrist** — Wenn es um Anfechtungsfrist, Anfechtungserklärung und Bestätigung — Paragrafen 121 bis 124 und Paragraf 144 BGB in BGB A…
+10. **anfechtungsfrist-erklaerung-bestaetigung** — Wenn es um Anfechtungsfrist, Anfechtungserklärung und Bestätigung — Paragrafen 121 bis 124 und Paragraf 144 BGB in BGB A…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting im BGB-AT-Prüfer. Fragt Fallfrage, Rolle, Anspruchsziel, Tatsachen, Fristen, Erklärungen, Beteiligte und Wunsch-Output ab, baut einen schönen Arbeitsplan und schlägt passende Fachmodule aus diesem Plugin vor._
+_Wenn es um Kaltstart Triage in BGB AT Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Bgb At Prüfer** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Normanker
 
@@ -70,11 +71,11 @@ BGB AT insgesamt. Bei tragenden Normen `amtlicher-bgb-zpo-normcheck` zuschalten 
 
 ---
 
-## Skill: `klausurloesungen-fehlerdiagnose-konsens`
+## Skill: `einseitige-geschaefte-minderjaehrige-paragraph-111`
 
-_Analysiert fehlerhafte Klausurlösungen im BGB Allgemeiner Teil: typische Aufbaufehler beim Anspruchsaufbau, falsche Prüfungsreihenfolge (Auslegung vor Anfechtung), übersehene Normen wie § 122 BGB und § 179 BGB, unvollständige Subsumtion. Output: annotiertes Feedback und Verbesserungsvorschläge im..._
+_Wenn es um Einseitige Rechtsgeschäfte und Minderjährige — Paragraf 111 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Einseitige Geschaefte Minderjaehrige Paragraph 111; Arbeitsfeld: BGB AT Prüfer._
 
-# Klausurlösungen — Fehlerdiagnose und Verbesserung
+# Einseitige Rechtsgeschäfte und Minderjährige — § 111 BGB
 
 ## Arbeitsweg
 
@@ -86,565 +87,84 @@ _Analysiert fehlerhafte Klausurlösungen im BGB Allgemeiner Teil: typische Aufba
 
 ## Mandantenfall
 
-- Examenskandidat hat Klausurlösung zu § 119 BGB eingereicht — Auslegung fehlt, Motivirrtum als Anfechtungsgrund gewertet.
-- Student prüft § 164 BGB ohne Offenkundigkeit zu erörtern und übersieht den vollmachtlosen Vertreter.
-- Klausurkonstellation: Gutachtenstil-Mängel — Ergebnis steht vor Begründung, Normen fehlen.
+- Minderjähriger kündigt ohne Wissen der Eltern sein Arbeitsverhältnis — wirksam nach § 111 BGB?
+- Vertragspartner erklärt Rücktritt gegenüber einem Minderjährigen ohne Zustimmung der Eltern — was gilt?
+- Klausurkonstellation: Anfechtungserklärung eines Minderjährigen — Unterschied zu zweiseitigem Vertragsschluss.
 
 ## Erste Schritte
 
-1. Prüfungsreihenfolge kontrollieren: Anspruchsgrundlage — Tatbestand — Subsumtion — Ergebnis.
-2. Vorrang der Auslegung (§§ 133 und 157 BGB) vor Anfechtung, Dissens und Lückenfüllung prüfen.
-3. Übersehene Normen identifizieren: § 122 BGB bei Anfechtung, § 179 BGB bei Vertretung ohne Vollmacht.
-4. Subsumtion auf Vollständigkeit prüfen: Norm — Tatbestandsmerkmal — Sachverhalt — Rechtsfolge.
-5. Gutachtenstil vs. Urteilsstil: Im Gutachten Ergebnis nicht vorwegnehmen.
-6. Feedback formulieren: konkret, normenbezogen, mit Korrekturanweisung.
+1. Einseitiges Rechtsgeschäft identifizieren: Kündigung, Anfechtung, Rücktritt, Aufrechnung.
+2. § 111 BGB: Einseitige Rechtsgeschäfte Minderjähriger ohne Einwilligung des Vertreters sind unwirksam.
+3. Besonderheit: Bei einseitigen Rechtsgeschäften keine Genehmigungsmöglichkeit wie bei § 108 BGB.
+4. Gegenüber Minderjährigem: § 111 S. 2 BGB — Erklärung unwirksam, wenn Gegner Einwilligung nicht hatte.
+5. Ausnahme: Lediglich rechtlich vorteilhafte einseitige Geschäfte nach § 107 BGB.
+6. Heilung: Im Unterschied zu zweiseitigen Verträgen keine Genehmigung möglich.
 
 ## Rechtsrahmen
 
-- §§ 133 und 157 BGB: Auslegung als vorrangige Prüfungsstufe.
-- § 119 BGB: Anfechtungsrecht — Irrtumskategorien und Motivirrtum.
-- § 122 BGB: Schadensersatzpflicht des Anfechtenden — häufig übersehen.
-- § 164 BGB: Stellvertretung — Offenkundigkeit als Tatbestandsmerkmal.
-- § 179 BGB: Haftung des Vertreters ohne Vertretungsmacht.
+- § 111 BGB: Einseitige Rechtsgeschäfte Minderjähriger ohne Einwilligung sind unwirksam, keine Genehmigung möglich.
+- § 107 BGB: Lediglich rechtlich vorteilhafte Geschäfte auch ohne Einwilligung wirksam.
+- § 108 BGB: Zweiseitige Verträge — Genehmigung möglich; gilt nicht für § 111 BGB-Fälle.
+- § 109 BGB: Widerrufsrecht des Vertragspartners bei schwebendem Geschäft.
+- §§ 1626 ff. BGB: Elterliche Sorge und gesetzliche Vertretung Minderjähriger.
 
 ## Prüfraster
 
-1. Aufbaurüge: Entspricht die Prüfungsstruktur dem Anspruchsaufbau (Wer will was von wem woraus)?
-2. Auslegungsvorrang: Wurde Auslegung vor Anfechtung und Dissens geprüft?
-3. Normzitate: Sind alle einschlägigen Normen genannt und korrekt zitiert?
-4. Subsumtion: Ist jedes Tatbestandsmerkmal auf den Sachverhalt angewendet?
-5. Rechtsfolge: Ist die Rechtsfolge der einschlägigen Norm korrekt benannt?
-6. Gutachtenstil-Einhaltung: Kein Ergebnis vor Begründung im Obersatz.
-7. Fehlende Folgeprüfungen (§§ 122 und 179 BGB) ergänzt?
+1. Ist das Rechtsgeschäft einseitig (Kündigung, Anfechtung, Rücktritt)?
+2. Liegt beschränkte Geschäftsfähigkeit vor (§ 106 BGB)?
+3. Einwilligung des gesetzlichen Vertreters vor Vornahme des einseitigen Geschäfts?
+4. Lediglich rechtlich vorteilhaft nach § 107 BGB — dann ausnahmsweise wirksam.
+5. Keine Genehmigung möglich nach § 111 BGB — anders als bei zweiseitigem Vertrag.
+6. Bei einseitigem Geschäft gegenüber Minderjährigem: § 111 S. 2 BGB beachten.
+7. Rechtsfolge: unwirksam von Anfang an, nicht schwebend unwirksam.
 
 ## Typische Fallstricke
 
-- Motivirrtum als Anfechtungsgrund nach § 119 Abs. 1 BGB zu werten ist ein klassischer Fehler.
-- § 122 BGB wird systematisch übersehen — immer nach erfolgreicher Anfechtung prüfen.
-- Offenkundigkeit bei § 164 BGB fehlt häufig — kein Stellvertretungseffekt ohne sie.
-- Urteilsstil in Klausuren verwenden statt Gutachtenstil ist ein Bewertungsmangel.
+- § 111 BGB-Unwirksamkeit ist endgültig — keine Heilung durch nachträgliche Genehmigung möglich.
+- Verwechslung mit § 108 BGB ist ein häufiger Klausurfehler: nur für zweiseitige Verträge gilt Genehmigung.
+- Gegenüber Minderjährigem abgegebene einseitige Erklärungen: §§ 111 und 131 BGB beachten.
+- Taschengeld-Paragraph § 110 BGB gilt nur für Verträge, nicht für einseitige Geschäfte.
 
 ## Quellen
 
-- [§ 133 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
-- [§ 119 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__119.html)
-- [§ 122 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__122.html)
-- [§ 179 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__179.html)
-- [dejure.org § 164 BGB](https://dejure.org/gesetze/BGB/164.html)
-
-## Vertiefung
-
-### Systematisches Fehler-Tracking
-
-Für die Klausurvorbereitung empfiehlt sich ein persönliches Fehlerprotokoll: Welche Normen werden
-regelmäßig übersehen? Wo fehlt die Subsumtion? Wo wird der Gutachtenstil verletzt? Systematische
-Wiederholung der häufigsten Fehler beschleunigt den Lernfortschritt erheblich.
-
-### Punktgewichtung in der Klausur
-
-BGB-AT-Klausuren gewichten: Anspruchsaufbau (5-10 %), Tatbestandsprüfung (40-50 %), Subsumtion
-(20-30 %), Ergebnis (5-10 %), Gutachtenstil (10-20 %). Fehler in der Subsumtion kosten die meisten
-Punkte.
-
-### Klausur-Checkliste Fehlerdiagnose
-
-- Falsche Anspruchsgrundlage gewählt?
-- Auslegung vor Anfechtung unterlassen?
-- Tatbestandsmerkmale unvollständig oder falsch definiert?
-- § 122 BGB nach Anfechtung übersehen?
-- Gutachtenstil verletzt (Ergebnis vor Begründung)?
-
----
-
-## Skill: `stellvertretung-routing-paragraphen-164-181`
-
-_Routing-Skill zur Stellvertretung nach §§ 164 bis 181 BGB: Vollmachtserteilung und -erlöschen, Offenkundigkeit des Handelns im fremden Namen, Duldungs- und Anscheinsvollmacht, Vertreter ohne Vertretungsmacht §§ 177 bis 179 BGB und Insichgeschäft § 181 BGB. Output: Prüfpfad und Verweis auf Teilski..._
-
-# Stellvertretung — Routing §§ 164 bis 181 BGB
-
-## Mandantenfall
-
-- Mitarbeiter schließt ohne ausdrückliche Vollmacht Vertrag ab — Vollmacht, Duldungs- oder Anscheinsvollmacht?
-- Prokurist überschreitet seine Vollmacht — §§ 177 bis 179 BGB oder Missbrauch der Vertretungsmacht?
-- Klausurkonstellation: Komplexes Stellvertretungsproblem mit mehreren Fragen — Routing zum richtigen Teilskill.
-
-## Erste Schritte
-
-1. Handeln in fremdem Namen prüfen: Offenkundigkeit nach § 164 Abs. 1 BGB gegeben?
-2. Vollmacht identifizieren: Innen- oder Außenvollmacht, Prokura, gesetzliche Vertretung?
-3. Vollmachtsumfang: Reicht die Vollmacht für das konkrete Geschäft aus?
-4. Bei fehlender Vollmacht: Duldungs- oder Anscheinsvollmacht als Rechtsscheintatbestand?
-5. Vollmachtsmissbrauch: Handeln im Außenverhältnis mit Vollmacht, aber gegen Innenverhältnis?
-6. Vertreter ohne Vertretungsmacht: §§ 177 bis 179 BGB — schwebende Unwirksamkeit und Haftung.
-
-## Rechtsrahmen
-
-- § 164 BGB: Stellvertretung — Handeln im fremden Namen mit Vertretungsmacht.
-- § 167 BGB: Vollmachtserteilung — Innen- und Außenvollmacht.
-- § 168 BGB: Erlöschen der Vollmacht.
-- §§ 177 bis 179 BGB: Vertretung ohne Vertretungsmacht und Haftung des Vertreters.
-- § 181 BGB: Insichgeschäft — Selbstkontrahieren und Mehrfachvertretung.
-
-## Prüfraster
-
-1. Offenkundigkeit (§ 164 Abs. 1 BGB): Im fremden Namen oder im eigenen Namen gehandelt?
-2. Vollmacht vorhanden: Innen- oder Außenvollmacht, Prokura oder gesetzliche Vertretung?
-3. Vollmachtsumfang: Geschäft vom Umfang der Vollmacht gedeckt?
-4. Duldungs- oder Anscheinsvollmacht: Rechtsscheintatbestand und Zurechenbarkeit?
-5. Vollmachtsmissbrauch: Kenntnis/Kennenmüssen des Dritten vom Innenverhältnis-Verstoß?
-6. § 177 BGB: Genehmigung schwebend unwirksamen Vertreterhandelns?
-7. § 179 BGB: Haftung des vollmachtlosen Vertreters gegenüber Drittem?
-8. § 181 BGB: Insichgeschäft — Ausnahmen beachten?
-
-## Typische Fallstricke
-
-- Offenkundigkeit nach § 164 BGB ist Voraussetzung — Namensnennung nicht immer erforderlich.
-- Duldungsvollmacht setzt voraus, dass der Vertretene das Handeln kannte und duldete.
-- Anscheinsvollmacht erfordert, dass der Vertretene das Erscheinungsbild hätte erkennen und verhindern können.
-- § 181 BGB ist abdingbar durch ausdrückliche Gestattung — Ausnahme prüfen.
-
-## Quellen
-
-- [§ 164 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__164.html)
-- [§ 167 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__167.html)
-- [§ 179 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__179.html)
-- [dejure.org § 164 BGB](https://dejure.org/gesetze/BGB/164.html)
-- [dejure.org § 181 BGB](https://dejure.org/gesetze/BGB/181.html)
-
-## Vertiefung
-
-### Prüfungsreihenfolge Stellvertretung
-
-Empfohlene Reihenfolge: (1) Offenkundigkeit nach § 164 Abs. 1 BGB, (2) Vertretungsmacht
-(Vollmacht, Prokura, gesetzliche Vertretung), (3) Vollmachtsumfang, (4) Handeln im Rahmen
-der Vollmacht, (5) Ausnahmen: Duldungs-/Anscheinsvollmacht, (6) Vollmachtloser Vertreter
-(§§ 177 bis 179 BGB), (7) Insichgeschäft (§ 181 BGB).
-
-### Routing-Logik
-
-Dient als Einstiegspunkt. Bei komplexen Stellvertretungsfragen werden die spezifischen
-Teilskills aufgerufen: vollmacht-erteilung-umfang-erloeschen für Vollmachtsfragen,
-duldungs-anscheinsvollmacht für Rechtsschein, insichgeschaeft-paragraph-181 für § 181 BGB.
-
-### Klausur-Checkliste Routing
-
-- Einstieg: Offenkundigkeit und Vollmacht als erste Prüfungspunkte?
-- Vollmacht vorhanden: Umfang ausreichend für das konkrete Geschäft?
-- Vollmacht fehlend: Rechtsschein (Duldung/Anschein) oder vollmachtloser Vertreter?
-- Insichgeschäft: § 181 BGB mit Ausnahmen geprüft?
-- Richtiger Teilskill für Detailprüfung ausgewählt?
-
----
-
-## Skill: `klausurloesungen-fehlerdiagnose`
-
-_Analysiert fehlerhafte Klausurlösungen im BGB Allgemeiner Teil: typische Aufbaufehler beim Anspruchsaufbau, falsche Prüfungsreihenfolge (Auslegung vor Anfechtung), übersehene Normen wie § 122 BGB und § 179 BGB, unvollständige Subsumtion. Output: annotiertes Feedback und Verbesserungsvorschläge._
-
-# Klausurlösungen — Fehlerdiagnose und Verbesserung
-
-## Mandantenfall
-
-- Examenskandidat hat Klausurlösung zu § 119 BGB eingereicht — Auslegung fehlt, Motivirrtum als Anfechtungsgrund gewertet.
-- Student prüft § 164 BGB ohne Offenkundigkeit zu erörtern und übersieht den vollmachtlosen Vertreter.
-- Klausurkonstellation: Gutachtenstil-Mängel — Ergebnis steht vor Begründung, Normen fehlen.
-
-## Erste Schritte
-
-1. Prüfungsreihenfolge kontrollieren: Anspruchsgrundlage — Tatbestand — Subsumtion — Ergebnis.
-2. Vorrang der Auslegung (§§ 133 und 157 BGB) vor Anfechtung, Dissens und Lückenfüllung prüfen.
-3. Übersehene Normen identifizieren: § 122 BGB bei Anfechtung, § 179 BGB bei Vertretung ohne Vollmacht.
-4. Subsumtion auf Vollständigkeit prüfen: Norm — Tatbestandsmerkmal — Sachverhalt — Rechtsfolge.
-5. Gutachtenstil vs. Urteilsstil: Im Gutachten Ergebnis nicht vorwegnehmen.
-6. Feedback formulieren: konkret, normenbezogen, mit Korrekturanweisung.
-
-## Rechtsrahmen
-
-- §§ 133 und 157 BGB: Auslegung als vorrangige Prüfungsstufe.
-- § 119 BGB: Anfechtungsrecht — Irrtumskategorien und Motivirrtum.
-- § 122 BGB: Schadensersatzpflicht des Anfechtenden — häufig übersehen.
-- § 164 BGB: Stellvertretung — Offenkundigkeit als Tatbestandsmerkmal.
-- § 179 BGB: Haftung des Vertreters ohne Vertretungsmacht.
-
-## Prüfraster
-
-1. Aufbaurüge: Entspricht die Prüfungsstruktur dem Anspruchsaufbau (Wer will was von wem woraus)?
-2. Auslegungsvorrang: Wurde Auslegung vor Anfechtung und Dissens geprüft?
-3. Normzitate: Sind alle einschlägigen Normen genannt und korrekt zitiert?
-4. Subsumtion: Ist jedes Tatbestandsmerkmal auf den Sachverhalt angewendet?
-5. Rechtsfolge: Ist die Rechtsfolge der einschlägigen Norm korrekt benannt?
-6. Gutachtenstil-Einhaltung: Kein Ergebnis vor Begründung im Obersatz.
-7. Fehlende Folgeprüfungen (§§ 122 und 179 BGB) ergänzt?
-
-## Typische Fallstricke
-
-- Motivirrtum als Anfechtungsgrund nach § 119 Abs. 1 BGB zu werten ist ein klassischer Fehler.
-- § 122 BGB wird systematisch übersehen — immer nach erfolgreicher Anfechtung prüfen.
-- Offenkundigkeit bei § 164 BGB fehlt häufig — kein Stellvertretungseffekt ohne sie.
-- Urteilsstil in Klausuren verwenden statt Gutachtenstil ist ein Bewertungsmangel.
-
-## Quellen
-
-- [§ 133 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
-- [§ 119 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__119.html)
-- [§ 122 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__122.html)
-- [§ 179 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__179.html)
-- [dejure.org § 164 BGB](https://dejure.org/gesetze/BGB/164.html)
-
-## Vertiefung
-
-### Systematisches Fehler-Tracking
-
-Für die Klausurvorbereitung empfiehlt sich ein persönliches Fehlerprotokoll: Welche Normen werden
-regelmäßig übersehen? Wo fehlt die Subsumtion? Wo wird der Gutachtenstil verletzt? Systematische
-Wiederholung der häufigsten Fehler beschleunigt den Lernfortschritt erheblich.
-
-### Punktgewichtung in der Klausur
-
-BGB-AT-Klausuren gewichten: Anspruchsaufbau (5-10 %), Tatbestandsprüfung (40-50 %), Subsumtion
-(20-30 %), Ergebnis (5-10 %), Gutachtenstil (10-20 %). Fehler in der Subsumtion kosten die meisten
-Punkte.
-
-### Klausur-Checkliste Fehlerdiagnose
-
-- Falsche Anspruchsgrundlage gewählt?
-- Auslegung vor Anfechtung unterlassen?
-- Tatbestandsmerkmale unvollständig oder falsch definiert?
-- § 122 BGB nach Anfechtung übersehen?
-- Gutachtenstil verletzt (Ergebnis vor Begründung)?
-
----
-
-## Skill: `vertragsschluss-antrag-abgabe`
-
-_Klausurfall zum Vertragsschluss durch Antrag und Annahme nach §§ 145 bis 156 BGB: Bindungswirkung des Antrags, Erlöschungsgründe, Annahmefrist unter An- und Abwesenden, verspätete und abgeänderte Annahme sowie Zeitpunkt des Vertragsschlusses. Output: vollständiger Subsumtionspfad im BGB AT._
-
-# Vertragsschluss — Antrag und Annahme §§ 145 bis 156 BGB
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Mandantenfall
-
-- Angebot per Brief abgegeben — Käufer nimmt nach zwei Wochen an; Frist abgelaufen?
-- Annahme mit Änderung des Preises — gilt dies als neues Angebot oder als (abgeänderte) Annahme?
-- Klausurkonstellation: Anbieter stirbt nach Abgabe des Angebots, bevor der Empfänger annimmt.
-
-## Erste Schritte
-
-1. Antrag bestimmen: Vollständiges, auf Vertragsschluss gerichtetes Angebot mit Rechtsbindungswillen.
-2. Bindungswirkung nach § 145 BGB: Antragende ist an das Angebot gebunden, solange Annahmefrist läuft.
-3. Erlöschen des Antrags: § 146 BGB — Ablehnung oder nicht rechtzeitige Annahme.
-4. Annahmefrist: § 147 BGB — unter Anwesenden sofort, unter Abwesenden angemessene Postlaufzeit.
-5. Verspätete Annahme: § 149 BGB — gilt als neues Angebot; Antragender kann sofort annehmen.
-6. Abgeänderte Annahme: § 150 Abs. 2 BGB — gilt als Ablehnung verbunden mit neuem Antrag.
-
-## Rechtsrahmen
-
-- § 145 BGB: Bindungswirkung des Antrags — Antragender ist grundsätzlich gebunden.
-- § 146 BGB: Erlöschen des Antrags bei Ablehnung oder nicht rechtzeitiger Annahme.
-- § 147 BGB: Annahmefrist — unter Anwesenden sofort, unter Abwesenden angemessene Zeit.
-- § 149 BGB: Verspätete Annahme — gilt dem Antragenden gegenüber als neues Angebot.
-- § 150 Abs. 2 BGB: Abgeänderte Annahme — gilt als Ablehnung und neues Angebot.
-
-## Prüfraster
-
-1. Antrag vollständig: Alle essentialia negotii enthalten und Rechtsbindungswille erkennbar?
-2. Antrag zugegangen: § 130 BGB — Zeitpunkt des Zugangs beim Empfänger.
-3. Annahmefrist nach § 147 BGB: Unter Anwesenden sofort, unter Abwesenden wie lange?
-4. Annahme innerhalb der Frist zugegangen: Zeitpunkt dokumentiert?
-5. Verspätete Annahme nach § 149 BGB: Antragender muss unverzüglich ablehnen, sonst gilt Vertrag?
-6. Abgeänderte Annahme nach § 150 Abs. 2 BGB: Änderung wesentlich oder unwesentlich?
-7. Tod oder Geschäftsunfähigkeit des Antragenden: § 130 Abs. 2 BGB — Antrag bleibt grundsätzlich wirksam.
-
-## Typische Fallstricke
-
-- Verspätete Annahme ist kein Vertragsschluss, sondern neues Angebot — Antragender muss annehmen.
-- Abgeänderte Annahme, auch bei geringfügiger Änderung, gilt als Ablehnung und neues Angebot.
-- § 130 Abs. 2 BGB: Tod des Antragenden nach Abgabe hindert Wirksamkeit nicht — häufig falsch gelöst.
-- Kaufmännisches Bestätigungsschreiben kann Vertragsinhalt nachträglich modifizieren.
-
-## Quellen
-
-- [§ 145 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__145.html)
-- [§ 147 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__147.html)
-- [§ 150 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__150.html)
-- [dejure.org § 145 BGB](https://dejure.org/gesetze/BGB/145.html)
-- [dejure.org § 150 BGB](https://dejure.org/gesetze/BGB/150.html)
-
-## Vertiefung
-
-### Annahmefrist-Berechnung
-
-§ 147 Abs. 2 BGB: Die angemessene Frist umfasst Bearbeitungszeit für das Angebot, Postlaufzeit
-hin und zurück sowie eine kurze Überlegungszeit. Bei Angeboten per E-Mail ist die Frist kürzer
-als bei Briefangeboten, weil die Übermittlungszeit kürzer ist.
-
-### Vertragsschluss im internationalen Handel
-
-Bei grenzüberschreitenden Verträgen kann das UN-Kaufrecht (CISG) anwendbar sein, das eigene
-Regeln für Angebot und Annahme enthält. Das CISG kennt kein Abstraktionsprinzip — wichtig für
-den internationalen BGB-AT-Vergleich.
-
-### Klausur-Checkliste Vertragsschluss
-
-- Antrag vollständig mit allen essentialia negotii?
-- Zugangszeitpunkt des Antrags nach § 130 BGB bestimmt?
-- Annahmefrist nach § 147 BGB berechnet?
-- Annahme innerhalb der Frist zugegangen?
-- Verspätete Annahme (§ 149 BGB) oder abgeänderte Annahme (§ 150 Abs. 2 BGB) als neues Angebot?
-
----
-
-## Skill: `rechtlich-vorteilhaft-paragraph-107`
-
-_Klausurfall zu lediglich rechtlich vorteilhaften Rechtsgeschäften nach § 107 BGB: Minderjähriger erwirbt ohne Einwilligung des Vertreters, wenn das Geschäft keinen rechtlichen Nachteil bringt. Abgrenzung zu wirtschaftlichen Vorteilen, gemischte Rechtsgeschäfte und Schenkung mit Auflagen._
-
-# Lediglich rechtlich vorteilhaft — § 107 BGB
-
-## Mandantenfall
-
-- 14-Jähriger erhält Schenkung eines Grundstücks ohne elterliche Einwilligung — wirksam nach § 107 BGB?
-- Minderjähriger wird aus einer Bürgschaft entlassen — lediglich rechtlich vorteilhaft?
-- Klausurkonstellation: Schenkung mit Auflage an Minderjährigen — Auflage als rechtlicher Nachteil?
-
-## Erste Schritte
-
-1. Geschäftsfähigkeit des Minderjährigen nach §§ 104 bis 106 BGB prüfen.
-2. § 107 BGB: Einwilligung des gesetzlichen Vertreters entbehrlich, wenn das Geschäft lediglich rechtlich vorteilhaft ist.
-3. Maßstab: Rechtliche — nicht wirtschaftliche — Betrachtung; OLG-Rspr. zur Einheitlichkeit.
-4. Schenkung mit Auflage: Auflage als rechtliche Verpflichtung begründet Nachteil.
-5. Grundstückserwerb: Grundbuchbelastungen prüfen — Hypothek, Grundschuld, Nießbrauch als Nachteile.
-6. Rechtsfolge bei fehlendem Vorteil: schwebende Unwirksamkeit nach § 108 BGB, Genehmigung erforderlich.
-
-## Rechtsrahmen
-
-- § 107 BGB: Einwilligungsfreiheit bei lediglich rechtlich vorteilhaften Geschäften.
-- §§ 104 bis 106 BGB: Geschäftsfähigkeit Minderjähriger als Grundlage.
-- § 108 BGB: Schwebende Unwirksamkeit ohne Einwilligung.
-- § 109 BGB: Widerrufsrecht des Dritten bis zur Genehmigung.
-- § 516 BGB: Schenkung — Hauptanwendungsfall von § 107 BGB.
-
-## Prüfraster
-
-1. Minderjähriger: Alter und Geschäftsfähigkeitsstufe nach §§ 104 bis 106 BGB?
-2. Rechtlicher Vorteil: Erlangt der Minderjährige ein Recht ohne rechtliche Pflicht?
-3. Grundstückserwerb: Sind Belastungen im Grundbuch eingetragen — Nachteil nach h.M.?
-4. Auflage bei Schenkung: Begründet Auflage eine rechtliche Verpflichtung — Nachteil?
-5. Wirtschaftliche Betrachtung ausschließen: Nur rechtliche Nachteilsprüfung maßgeblich.
-6. Konsequenz: Einwilligung erforderlich oder schwebende Unwirksamkeit nach § 108 BGB?
-7. Widerruf des Dritten nach § 109 BGB bis zur Genehmigung?
-
-## Typische Fallstricke
-
-- Wirtschaftliche Vorteile sind irrelevant — nur rechtliche Betrachtung nach § 107 BGB.
-- Grundstückserwerb mit Grundschuldeintragung ist nicht mehr lediglich vorteilhaft — häufiger Klausurfehler.
-- Schenkung mit Auflagen begründet rechtliche Pflichten — kein lediglich rechtlicher Vorteil.
-- § 107 BGB gilt nur für beschränkt Geschäftsfähige, nicht für Geschäftsunfähige (§ 104 BGB).
-
-## Quellen
-
+- [§ 111 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__111.html)
 - [§ 107 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__107.html)
 - [§ 108 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__108.html)
-- [§ 109 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__109.html)
-- [dejure.org § 107 BGB](https://dejure.org/gesetze/BGB/107.html)
+- [dejure.org § 111 BGB](https://dejure.org/gesetze/BGB/111.html)
 - [dejure.org § 108 BGB](https://dejure.org/gesetze/BGB/108.html)
 
 ## Vertiefung
 
-### Grundbucheintragungen als Nachteil
+### § 111 BGB im Überblick
 
-Die h.M. geht davon aus, dass ein Grundstückserwerb nicht lediglich vorteilhaft ist, wenn das
-Grundstück mit einer Hypothek, Grundschuld oder einem Nießbrauch belastet ist. Die Belastung
-ist eine rechtliche Pflicht, auch wenn sie wirtschaftlich neutral oder sogar vorteilhaft wäre.
+§ 111 BGB schützt den Erklärungsempfänger bei einseitigen Rechtsgeschäften eines Minderjährigen:
+Ohne vorherige Einwilligung des gesetzlichen Vertreters sind sie unwirksam (nicht nur schwebend
+unwirksam). Eine nachträgliche Genehmigung ist nicht möglich.
 
-### Praxisrelevanz bei Schenkungen
+### Unterschied zu § 108 BGB
 
-Eltern schenken Minderjährigem ein Grundstück: Wenn das Grundstück schuldenfrei ist, gilt die
-Schenkung als lediglich rechtlich vorteilhaft (§ 107 BGB). Wenn eine Grundschuld eingetragen ist,
-ist eine Einwilligung des gesetzlichen Vertreters erforderlich (§ 108 BGB).
+Bei Verträgen gilt § 108 BGB: Schwebende Unwirksamkeit mit Genehmigungsmöglichkeit.
+Bei einseitigen Rechtsgeschäften gilt § 111 BGB: Endgültige Unwirksamkeit ohne Einwilligung.
+Dies ist der wesentliche Unterschied, den Klausuren regelmäßig testen.
 
-### Klausur-Checkliste § 107 BGB
+### Anwendungsfälle § 111 BGB
 
-- Geschäft erlangt der Minderjährige ein Recht oder wird er von einer Pflicht befreit?
-- Rein rechtliche Betrachtung: Entstehen durch das Geschäft rechtliche Pflichten?
-- Grundstückserwerb: Sind im Grundbuch Belastungen eingetragen?
-- Schenkung mit Auflage: Auflage als rechtliche Pflicht des Minderjährigen?
-- Wirtschaftliche Vorteile bleiben außer Betracht — nur rechtliche Betrachtung?
+Kündigung, Rücktritt, Anfechtung, Mahnungen und ähnliche Gestaltungsrechte sind einseitige
+Rechtsgeschäfte. Alle unterliegen bei Minderjährigen dem Einwilligungserfordernis nach § 111 BGB.
 
----
+### Klausur-Checkliste § 111 BGB
 
-## Skill: `invitatio-ad-offerendum-und-werbung`
-
-_Klausurfall zur Abgrenzung von Angebot und invitatio ad offerendum nach §§ 145 bis 147 BGB: Werbung im Schaufenster und Online-Shop als bloße Aufforderung zur Angebotsabgabe, verbindliche Preisauszeichnung, automatisierte Bestellbestätigung. Output: Subsumtionsraster und Gutachtenstil._
-
-# Invitatio ad offerendum und Werbung — Angebot oder Aufforderung?
-
-## Mandantenfall
-
-- Online-Shop listet Artikel für 1 € statt 100 € — Preisfehler: Ist die Preisangabe ein verbindliches Angebot?
-- Schaufensterwerbung mit Preisschild: Kunde fordert Verkauf zum angezeigten Preis — Angebot oder invitatio?
-- Klausurkonstellation: Katalogversand eines Händlers enthält konkrete Mengen- und Preisangaben — Bindungswirkung?
-
-## Erste Schritte
-
-1. Willenserklärung des Werbenden prüfen: Enthält die Werbung alle wesentlichen Vertragsbestandteile (essentialia negotii)?
-2. Rechtsbindungswille: Wollte der Erklärende sich verbindlich binden oder nur zur Angebotsabgabe auffordern?
-3. Auslegung nach §§ 133 und 157 BGB: Empfängerhorizont eines objektiven Dritten anlegen.
-4. Lagerbestand und Kapazitätsgrenzen: Kann ein Anbieter bei Massengeschäften an unbegrenzt viele Kunden gebunden sein?
-5. Automatisierte Bestellbestätigung: Ist sie Annahme oder nur Eingangsbestätigung?
-6. Rechtsfolge: Vertragsschluss oder Anfechtung wegen Irrtums (§ 119 Abs. 1 BGB) bei Preisfehler.
-
-## Rechtsrahmen
-
-- § 145 BGB: Antrag — Bindungswirkung für den Antragenden.
-- § 147 BGB: Annahmefrist unter Anwesenden und Abwesenden.
-- §§ 133 und 157 BGB: Auslegung von Willenserklärungen und Verträgen nach Treu und Glauben.
-- § 119 Abs. 1 BGB: Irrtumsanfechtung wegen Inhalts- oder Erklärungsirrtum bei Preisfehler.
-- § 122 BGB: Schadensersatzpflicht des Anfechtenden gegenüber dem gutgläubigen Empfänger.
-
-## Prüfraster
-
-1. Enthält die Werbung alle wesentlichen Vertragsbestandteile (Ware, Preis, Menge)?
-2. Rechtsbindungswille nach objektivem Empfängerhorizont bejaht oder verneint?
-3. Handelt es sich um ein Massengeschäft ohne feste Mengenbegrenzung (typisch invitatio)?
-4. Automatisierte Bestellbestätigung: Rechtsfolge Annahme oder nur Zugangsbestätigung?
-5. Bei Preisfehler: Voraussetzungen der Irrtumsanfechtung § 119 Abs. 1 BGB prüfen.
-6. Schadensersatz aus § 122 BGB: positives oder negatives Interesse des Empfängers?
-7. Sonderproblem Online-Auktionen: §§ 156 und 312 ff. BGB beachten.
-
-## Typische Fallstricke
-
-- Schaufensterwerbung ist in Deutschland grundsätzlich invitatio, nicht Angebot — häufiger Klausurfehler.
-- Automatisierte Eingangsbestätigungen im Online-Handel sind keine Annahmeerklärung.
-- Preisfehler-Anfechtung nach § 119 Abs. 1 BGB erfordert unverzügliche Erklärung (§ 121 BGB).
-- § 122 BGB schützt den Empfänger: Anfechtender haftet auf das negative Interesse.
-
-## Quellen
-
-- [§ 145 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__145.html)
-- [§ 119 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__119.html)
-- [§ 122 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__122.html)
-- [dejure.org § 145 BGB](https://dejure.org/gesetze/BGB/145.html)
-- [dejure.org § 157 BGB](https://dejure.org/gesetze/BGB/157.html)
-
-## Vertiefung
-
-### Wirtschaftliche Bedeutung der Abgrenzung
-
-Die Abgrenzung von Angebot und invitatio ad offerendum hat erhebliche wirtschaftliche Konsequenzen:
-Wäre jede Preisauszeichnung ein verbindliches Angebot, wäre der Einzelhändler an jeden Preis gebunden,
-auch bei Schreibfehlern. Deshalb ist die Schaufensterwerbung in Deutschland grundsätzlich invitatio.
-
-### Internet-Preisfehler in der Praxis
-
-BGH-Rechtsprechung zu Preisfehlern im Internet: Das Einstellen eines Artikels im Online-Shop ist
-in der Regel eine invitatio. Die Bestellung des Kunden ist das Angebot. Die Bestellbestätigung
-kann Annahme sein — hier kommt es auf die konkrete Formulierung an.
-
-### Klausur-Checkliste invitatio
-
-- Alle essentialia negotii in der Werbung enthalten?
-- Rechtsbindungswille nach objektivem Empfängerhorizont?
-- Massengeschäft ohne Mengenbegrenzung typischerweise invitatio?
-- Automatisierte Bestellbestätigung: Annahme oder nur Eingangsbestätigung?
-- Preisfehler: Anfechtung nach § 119 Abs. 1 BGB — unverzüglich nach § 121 BGB?
-
----
-
-## Skill: `willenserklaerung-wucher-ausbeutung-zugang`
-
-_Klausurfall zum Tatbestand der Willenserklärung: objektiver Erklärungstatbestand, Rechtsbindungswille, Erklärungsbewusstsein und potentielles Bewusstsein, Abgrenzung zu Gefälligkeiten und sozialtypischem Verhalten. Prüfraster für §§ 116 ff. BGB in Examens- und Anwaltsprüfung im BGB AT._
-
-# Willenserklärung — Tatbestand §§ 116 ff. BGB
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Mandantenfall
-
-- Bieter auf Auktion hebt irrtümlich die Hand — liegt eine Willenserklärung vor?
-- Schreiben unter Scherz oder Druck verfasst — fehlt der Rechtsbindungswille?
-- Klausurkonstellation: Internetbestellung durch Kind auf Eltern-Account — Willenserklärung der Eltern?
-
-## Erste Schritte
-
-1. Objektiver Tatbestand prüfen: Gibt es eine nach außen getretene Erklärung mit erkennbarem Rechtsbindungswillen?
-2. Subjektiver Tatbestand: Handlungswille, Erklärungsbewusstsein (Bewusstsein, irgendwie rechtserheblich zu handeln), Geschäftswille.
-3. Fehlendes Erklärungsbewusstsein: Gilt als Willenserklärung, wenn der Erklärende hätte erkennen können (potentielles Bewusstsein, h.M.).
-4. Rechtsbindungswille: Wollten die Parteien rechtlich gebunden sein — Abgrenzung zu Gefälligkeit und sozialem Kontakt.
-5. Scherzerklärung nach § 118 BGB: Erkennbare Scherzerklärung ist nichtig, Schadensersatz nach § 122 BGB.
-6. Geisteskrankheit oder vorübergehende Störung nach § 105 BGB: Kein Rechtsbindungswille möglich.
-
-## Rechtsrahmen
-
-- §§ 116 bis 118 BGB: Geheimvorbehalt, Scheingeschäft und Scherzerklärung.
-- § 105 BGB: Nichtigkeit der Willenserklärung bei Geschäftsunfähigkeit.
-- §§ 133 und 157 BGB: Auslegung zur Ermittlung des objektiven Erklärungssinns.
-- § 122 BGB: Schadensersatzpflicht bei Nichtigkeit nach § 118 BGB.
-- § 242 BGB: Vertrauensschutz als Grenze beim fehlenden subjektiven Tatbestand.
-
-## Prüfraster
-
-1. Objektiver Erklärungstatbestand: Äußeres Erklärungszeichen vorhanden und empfangsbedürftig?
-2. Rechtsbindungswille: Wollte der Erklärende bei objektivem Empfängerhorizont rechtlich gebunden sein?
-3. Erklärungsbewusstsein vorhanden oder zumindest potentiell vorhanden?
-4. Handlungswille: Hat der Erklärende die Handlung bewusst vorgenommen?
-5. Scherzerklärung nach § 118 BGB: War Scherz für Empfänger erkennbar?
-6. Geisteskrankheit oder Rausch nach § 105 BGB: Kein Erklärungswille möglich?
-7. Fehler bei Internetgeschäften: Wem ist die Erklärung zuzurechnen (Zurechnung nach § 164 BGB analog)?
-
-## Typische Fallstricke
-
-- Potentielles Erklärungsbewusstsein reicht nach h.M. aus — Erklärende haftet, wenn sie hätten erkennen können.
-- Scherzerklärung (§ 118 BGB) ist nichtig, aber Schadensersatzpflicht nach § 122 BGB entsteht.
-- Gefälligkeit ohne Rechtsbindungswillen begründet kein Schuldverhältnis — rein sozialer Bereich.
-- Vorübergehende Störung nach § 105 Abs. 2 BGB: Erklärung nichtig, auch wenn nicht auf Dauer geschäftsunfähig.
-
-## Quellen
-
-- [§ 116 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__116.html)
-- [§ 118 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__118.html)
-- [§ 105 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__105.html)
-- [dejure.org § 116 BGB](https://dejure.org/gesetze/BGB/116.html)
-- [dejure.org § 105 BGB](https://dejure.org/gesetze/BGB/105.html)
-
-## Vertiefung
-
-### Dreigliedriger Tatbestand
-
-Die Willenserklärung hat drei Elemente: (1) Handlungswille (der Erklärende handelt bewusst),
-(2) Erklärungsbewusstsein (Bewusstsein des Erklärenden, rechtserheblich zu handeln — nach h.M.
-genügt potentielles Bewusstsein), (3) Geschäftswille (der Erklärende will genau dieses Rechtsgeschäft).
-
-### Fehlen einzelner Elemente
-
-Fehlt der Handlungswille: Keine Willenserklärung (z.B. geführte Hand).
-Fehlt das Erklärungsbewusstsein: Streitig — nach h.M. WE mit Anfechtungsrecht.
-Fehlt der Geschäftswille: Anfechtungsrecht nach § 119 Abs. 1 BGB (Inhaltsirrtum).
-
-### Klausur-Checkliste Tatbestand WE
-
-- Handlungswille: Hat der Erklärende die äußere Handlung bewusst vorgenommen?
-- Erklärungsbewusstsein: Aktuell vorhanden oder nur potentiell — welche Ansicht?
-- Geschäftswille: Wollte Erklärende genau dieses Rechtsgeschäft?
-- Empfangsbedürftigkeit: Bedarf die WE des Zugangs beim Empfänger?
-- Objektiver Empfängerhorizont: Wie musste der Empfänger die Erklärung verstehen?
+- Liegt ein einseitiges Rechtsgeschäft vor (keine Vertrag, nur eine WE)?
+- Minderjähriger ohne vorherige Einwilligung des gesetzlichen Vertreters gehandelt?
+- § 111 BGB: Endgültige Unwirksamkeit — keine Genehmigung möglich?
+- Ausnahme § 111 S. 2 BGB: Einwilligung bei Abgabe vorgelegt?
+- Abgrenzung zu §§ 107/108 BGB: Einseitiges oder mehrseitiges Rechtsgeschäft?
 
 ---
 
 ## Skill: `vertreter-ohne-vertretungsmacht-paragraphen-177-179`
 
-_Klausurfall zum vollmachtlosen Vertreter nach §§ 177 bis 179 BGB: schwebende Unwirksamkeit des Vertreterhandelns, Genehmigung des Vertretenen nach § 177 BGB, Widerrufsrecht des Dritten nach § 178 BGB, Haftung des Vertreters auf Erfüllung oder Schadensersatz nach § 179 BGB im BGB AT._
+_Wenn es um Vertreter ohne Vertretungsmacht — Paragrafen 177 bis 179 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Vertreter Ohne Vertretungsmacht Paragraphen 177 179; Arbeitsfeld: BGB AT Prüfer._
 
 # Vertreter ohne Vertretungsmacht — §§ 177 bis 179 BGB
 
@@ -740,87 +260,615 @@ negative Interesse (Vertrauensschaden).
 
 ---
 
-## Skill: `vertragsschluss-antrag-annahme`
+## Skill: `personen-rechtsfaehigkeit-handlungsfaehigkeit`
 
-_Klausurfall zum Vertragsschluss durch Antrag und Annahme nach §§ 145 bis 156 BGB: Bindungswirkung des Antrags, Erlöschungsgründe, Annahmefrist unter An- und Abwesenden, verspätete und abgeänderte Annahme sowie Zeitpunkt des Vertragsschlusses. Output: vollständiger Subsumtionspfad._
+_Wenn es um Rechtsfähigkeit und Handlungsfähigkeit — Paragrafen 1 bis 14 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Personen Rechtsfaehigkeit Handlungsfaehigkeit; Arbeitsfeld: BGB AT Prüfer._
 
-# Vertragsschluss — Antrag und Annahme §§ 145 bis 156 BGB
+# Rechtsfähigkeit und Handlungsfähigkeit — §§ 1 bis 14 BGB
 
 ## Mandantenfall
 
-- Angebot per Brief abgegeben — Käufer nimmt nach zwei Wochen an; Frist abgelaufen?
-- Annahme mit Änderung des Preises — gilt dies als neues Angebot oder als (abgeänderte) Annahme?
-- Klausurkonstellation: Anbieter stirbt nach Abgabe des Angebots, bevor der Empfänger annimmt.
+- Nasciturus — Ungeborenes Kind — soll Erbe werden; wann beginnt die Rechtsfähigkeit?
+- Verein handelt durch Vorstand — Rechtsfähigkeit der juristischen Person und Organvertretung.
+- Klausurkonstellation: Minderjähriger schließt Vertrag — Geschäftsfähigkeit und Genehmigungsbedarf.
 
 ## Erste Schritte
 
-1. Antrag bestimmen: Vollständiges, auf Vertragsschluss gerichtetes Angebot mit Rechtsbindungswillen.
-2. Bindungswirkung nach § 145 BGB: Antragende ist an das Angebot gebunden, solange Annahmefrist läuft.
-3. Erlöschen des Antrags: § 146 BGB — Ablehnung oder nicht rechtzeitige Annahme.
-4. Annahmefrist: § 147 BGB — unter Anwesenden sofort, unter Abwesenden angemessene Postlaufzeit.
-5. Verspätete Annahme: § 149 BGB — gilt als neues Angebot; Antragender kann sofort annehmen.
-6. Abgeänderte Annahme: § 150 Abs. 2 BGB — gilt als Ablehnung verbunden mit neuem Antrag.
+1. Rechtsfähigkeit der natürlichen Person: Beginn mit Vollendung der Geburt (§ 1 BGB), Ende mit dem Tod.
+2. Nasciturus: Vorbehaltlich vollständige Geburt nach § 1923 Abs. 2 BGB als bedingt rechtsfähig.
+3. Juristische Personen: Rechtsfähigkeit ab Eintragung (§ 21 BGB e.V., § 13 GmbHG).
+4. Geschäftsfähigkeit prüfen: §§ 104 bis 106 BGB — Alters- und Geisteszustand.
+5. Deliktsfähigkeit nach § 828 BGB: Unterschiede zur Geschäftsfähigkeit.
+6. Parteifähigkeit im Zivilprozess nach § 50 ZPO mit Rechtsfähigkeit verknüpft.
 
 ## Rechtsrahmen
 
-- § 145 BGB: Bindungswirkung des Antrags — Antragender ist grundsätzlich gebunden.
-- § 146 BGB: Erlöschen des Antrags bei Ablehnung oder nicht rechtzeitiger Annahme.
-- § 147 BGB: Annahmefrist — unter Anwesenden sofort, unter Abwesenden angemessene Zeit.
-- § 149 BGB: Verspätete Annahme — gilt dem Antragenden gegenüber als neues Angebot.
-- § 150 Abs. 2 BGB: Abgeänderte Annahme — gilt als Ablehnung und neues Angebot.
+- § 1 BGB: Beginn der Rechtsfähigkeit des Menschen mit vollendeter Geburt.
+- §§ 104 bis 106 BGB: Geschäftsunfähigkeit und beschränkte Geschäftsfähigkeit.
+- § 21 BGB: Rechtsfähigkeit des eingetragenen Vereins ab Registereintragung.
+- § 828 BGB: Deliktsfähigkeit — abweichende Altersgrenzen von der Geschäftsfähigkeit.
+- § 50 ZPO: Parteifähigkeit — Fähigkeit, als Partei im Prozess aufzutreten.
 
 ## Prüfraster
 
-1. Antrag vollständig: Alle essentialia negotii enthalten und Rechtsbindungswille erkennbar?
-2. Antrag zugegangen: § 130 BGB — Zeitpunkt des Zugangs beim Empfänger.
-3. Annahmefrist nach § 147 BGB: Unter Anwesenden sofort, unter Abwesenden wie lange?
-4. Annahme innerhalb der Frist zugegangen: Zeitpunkt dokumentiert?
-5. Verspätete Annahme nach § 149 BGB: Antragender muss unverzüglich ablehnen, sonst gilt Vertrag?
-6. Abgeänderte Annahme nach § 150 Abs. 2 BGB: Änderung wesentlich oder unwesentlich?
-7. Tod oder Geschäftsunfähigkeit des Antragenden: § 130 Abs. 2 BGB — Antrag bleibt grundsätzlich wirksam.
+1. Natürliche Person: Geburt vollständig vollzogen — § 1 BGB — Rechtsfähigkeit bejaht?
+2. Juristische Person: Eintragung oder gesetzliche Entstehungsvoraussetzungen erfüllt?
+3. Geschäftsfähigkeit: Alter und Geisteszustand nach §§ 104 bis 106 BGB?
+4. Beschränkte Geschäftsfähigkeit: Genehmigung des gesetzlichen Vertreters erforderlich?
+5. Deliktsfähigkeit nach § 828 BGB: Unterschied zur Geschäftsfähigkeit beachten.
+6. Parteifähigkeit nach § 50 ZPO für Prozessführung?
+7. Nasciturus: Bedingte Rechtsfähigkeit für Erbfall nach § 1923 Abs. 2 BGB?
 
 ## Typische Fallstricke
 
-- Verspätete Annahme ist kein Vertragsschluss, sondern neues Angebot — Antragender muss annehmen.
-- Abgeänderte Annahme, auch bei geringfügiger Änderung, gilt als Ablehnung und neues Angebot.
-- § 130 Abs. 2 BGB: Tod des Antragenden nach Abgabe hindert Wirksamkeit nicht — häufig falsch gelöst.
-- Kaufmännisches Bestätigungsschreiben kann Vertragsinhalt nachträglich modifizieren.
+- Deliktsfähigkeit (§ 828 BGB) und Geschäftsfähigkeit (§ 104 BGB) haben unterschiedliche Altersgrenzen.
+- Juristische Person existiert erst ab Eintragung — vorher Vor-GmbH mit Eigenhaftung der Gründer.
+- Nasciturus ist noch nicht rechtsfähig — Rechte entstehen erst mit vollendeter Geburt, wirken zurück.
+- Parteifähigkeit und Prozessfähigkeit im Zivilprozess sind unterschiedliche Voraussetzungen.
 
 ## Quellen
 
-- [§ 145 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__145.html)
-- [§ 147 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__147.html)
-- [§ 150 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__150.html)
-- [dejure.org § 145 BGB](https://dejure.org/gesetze/BGB/145.html)
-- [dejure.org § 150 BGB](https://dejure.org/gesetze/BGB/150.html)
+- [§ 1 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__1.html)
+- [§ 104 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__104.html)
+- [§ 828 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__828.html)
+- [dejure.org § 1 BGB](https://dejure.org/gesetze/BGB/1.html)
+- [dejure.org § 104 BGB](https://dejure.org/gesetze/BGB/104.html)
 
 ## Vertiefung
 
-### Annahmefrist-Berechnung
+### Juristische Personen im BGB
 
-§ 147 Abs. 2 BGB: Die angemessene Frist umfasst Bearbeitungszeit für das Angebot, Postlaufzeit
-hin und zurück sowie eine kurze Überlegungszeit. Bei Angeboten per E-Mail ist die Frist kürzer
-als bei Briefangeboten, weil die Übermittlungszeit kürzer ist.
+Das BGB unterscheidet eingetragene Vereine (§§ 21 ff. BGB) und sonstige Körperschaften.
+Juristischen Personen handeln durch ihre Organe (§ 26 BGB beim Verein: Vorstand). Für die
+BGB-AT-Klausur ist wichtig: Wann entsteht die juristische Person und wer ist ihr Organ?
 
-### Vertragsschluss im internationalen Handel
+### Vor-GmbH und Vor-Verein
 
-Bei grenzüberschreitenden Verträgen kann das UN-Kaufrecht (CISG) anwendbar sein, das eigene
-Regeln für Angebot und Annahme enthält. Das CISG kennt kein Abstraktionsprinzip — wichtig für
-den internationalen BGB-AT-Vergleich.
+Vor Eintragung existiert eine Vor-GmbH oder ein Vor-Verein als nicht rechtsfähige Gesellschaft.
+Die Gründer haften persönlich für Verbindlichkeiten, die vor der Eintragung eingegangen werden
+(Handelndenhaftung, § 11 Abs. 2 GmbHG analog).
 
-### Klausur-Checkliste Vertragsschluss
+### Klausur-Checkliste Rechtsfähigkeit
 
-- Antrag vollständig mit allen essentialia negotii?
-- Zugangszeitpunkt des Antrags nach § 130 BGB bestimmt?
-- Annahmefrist nach § 147 BGB berechnet?
-- Annahme innerhalb der Frist zugegangen?
-- Verspätete Annahme (§ 149 BGB) oder abgeänderte Annahme (§ 150 Abs. 2 BGB) als neues Angebot?
+- Natürliche Person: Geburt vollständig vollzogen — § 1 BGB?
+- Juristische Person: Eintragung erfolgt oder gesetzliche Entstehung?
+- Vor-Gesellschaft: Haftung der Gründer für Verbindlichkeiten?
+- Nasciturus: Bedingte Rechtsfähigkeit für Erbschaft nach § 1923 Abs. 2 BGB?
+- Deliktsfähigkeit nach § 828 BGB — Abweichung von Geschäftsfähigkeit beachten?
+
+---
+
+## Skill: `auslegung-sachverhalt-bgb-at-erklaerungskette`
+
+_Wenn es um Sachverhaltsauslegung und Fallfrage — Klausur-Methodik BGB AT in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Auslegung Sachverhalt BGB At Erklaerungskette; Arbeitsfeld: BGB AT Prüfer._
+
+# Sachverhaltsauslegung und Fallfrage — Klausur-Methodik BGB AT
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Mandantenfall
+
+- Student steht vor einer Klausur und ist unsicher, wie er Sachverhalt und Fallfrage richtig analysiert.
+- Mandant schildert langen Sachverhalt mit vielen Details — welche sind rechtlich relevant?
+- Klausurkonstellation: Mehrere Fallfragen — in welcher Reihenfolge und wie bearbeiten?
+
+## Erste Schritte
+
+1. Fallfrage vollständig lesen und Prüfauftrag präzise formulieren: Wer will was von wem woraus?
+2. Sachverhalt zweimal lesen: zunächst zur Orientierung, dann aktiv mit Markierungen.
+3. Rechtlich relevante Tatsachen identifizieren und von irrelevanten Details trennen.
+4. Zeitliche Abfolge der Ereignisse rekonstruieren — Chronologie hilft beim Aufbau.
+5. Rechtliche Qualifikation der Tatsachen beginnen: Willenserklärungen, Vertragsschluss, Mängel.
+6. Vorläufige Prüfungsstruktur aufstellen, bevor mit dem Schreiben begonnen wird.
+
+## Rechtsrahmen
+
+- § 133 BGB: Auslegungsmethodik gilt auch für Klausurvorgaben.
+- § 242 BGB: Treu und Glauben als Maßstab bei lückenhafter Fallfrage.
+- §§ 145 ff. BGB: Vertragsschluss-Normen zur Einordnung von Sachverhaltshandlungen.
+- §§ 116 ff. BGB: Willenserklärungsdogmatik für Sachverhaltsqualifikation.
+- §§ 164 ff. BGB: Stellvertretungsregeln bei mehreren handelnden Personen im Sachverhalt.
+
+## Prüfraster
+
+1. Fallfrage isoliert lesen — was wird gefragt, was nicht?
+2. Parteien benennen und Rollen zuordnen: Anspruchsteller, Anspruchsgegner.
+3. Chronologie des Sachverhalts aufschreiben oder skizzieren.
+4. Relevante Tatsachen markieren — irrelevante Details bewusst weglassen.
+5. Rechtliche Einstufung der Kernhandlungen: WE, Vertrag, Stellvertretung, Formmangel.
+6. Prüfungsreihenfolge festlegen: vertragliche vor deliktischen Ansprüchen.
+7. Zeitplan einteilen: Sachverhaltsanalyse, Entwurf, Ausformulierung.
+
+## Typische Fallstricke
+
+- Sachverhaltstreue: Tatsachen nicht erfinden oder über den Text hinaus auslegen.
+- Fallfrage-Grenzen beachten: Nicht mehr prüfen als gefragt, aber auch nicht weniger.
+- Nebenpunkte wie Verjährung nicht vergessen, auch wenn sie nicht ausdrücklich gefragt sind.
+- Zeitmanagement: Sachverhaltsanalyse nicht zu lange betreiben, Schreibzeit einplanen.
+
+## Quellen
+
+- [§ 133 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
+- [§ 145 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__145.html)
+- [§ 116 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__116.html)
+- [dejure.org § 133 BGB](https://dejure.org/gesetze/BGB/133.html)
+- [§ 242 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__242.html)
+
+## Vertiefung
+
+### Sachverhaltsanalyse als erste Pflicht
+
+Bevor rechtliche Fragen beantwortet werden, muss der Sachverhalt vollständig erfasst sein:
+Wer sind die Parteien? Was haben sie wann und wo getan oder unterlassen? Welche Fristen sind
+relevant? Welche Dokumente existieren? Klausurfehler entstehen oft durch unvollständige
+Sachverhaltserfassung.
+
+### Umgang mit Lücken im Sachverhalt
+
+Wenn der Sachverhalt Angaben vermissen lässt, sind zwei Wege möglich: (1) Sachverhaltsauslegung
+anhand von Lebenserfahrung und allgemeinen Grundsätzen; (2) explizites Benennen der Lücke und
+Prüfung unter alternativen Annahmen. Erfundene Tatsachen ohne Sachverhaltsgrundlage sind verboten.
+
+### Klausur-Checkliste Sachverhalt
+
+- Sachverhalt vollständig gelesen und markiert?
+- Alle Parteien, Handlungen, Zeitpunkte und Fristen erfasst?
+- Lücken identifiziert und als Rückfragen formuliert?
+- Rechtlich relevante Tatsachen von irrelevanten Hintergrundinformationen getrennt?
+- Fallfrage genau beantwortet — nicht an ihr vorbeigegangen?
+
+---
+
+## Skill: `personen-rechtsfaehigkeit-privatautonomie`
+
+_Wenn es um Rechtsfähigkeit und Handlungsfähigkeit — Paragrafen 1 bis 14 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Personen Rechtsfaehigkeit Privatautonomie; Arbeitsfeld: BGB AT Prüfer._
+
+# Rechtsfähigkeit und Handlungsfähigkeit — §§ 1 bis 14 BGB
+
+## Arbeitsbereich
+
+Prüft Rechtsfähigkeit und Handlungsfähigkeit natürlicher und juristischer Personen nach §§ 1 bis 14 BGB: Beginn und Ende der Rechtsfähigkeit bei natürlichen Personen, Geschäftsfähigkeit §§ 104 bis 113 BGB, Deliktsfähigkeit § 828 BGB, Parteifähigkeit im Zivilprozess. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Mandantenfall
+
+- Nasciturus — Ungeborenes Kind — soll Erbe werden; wann beginnt die Rechtsfähigkeit?
+- Verein handelt durch Vorstand — Rechtsfähigkeit der juristischen Person und Organvertretung.
+- Klausurkonstellation: Minderjähriger schließt Vertrag — Geschäftsfähigkeit und Genehmigungsbedarf.
+
+## Erste Schritte
+
+1. Rechtsfähigkeit der natürlichen Person: Beginn mit Vollendung der Geburt (§ 1 BGB), Ende mit dem Tod.
+2. Nasciturus: Vorbehaltlich vollständige Geburt nach § 1923 Abs. 2 BGB als bedingt rechtsfähig.
+3. Juristische Personen: Rechtsfähigkeit ab Eintragung (§ 21 BGB e.V., § 13 GmbHG).
+4. Geschäftsfähigkeit prüfen: §§ 104 bis 106 BGB — Alters- und Geisteszustand.
+5. Deliktsfähigkeit nach § 828 BGB: Unterschiede zur Geschäftsfähigkeit.
+6. Parteifähigkeit im Zivilprozess nach § 50 ZPO mit Rechtsfähigkeit verknüpft.
+
+## Rechtsrahmen
+
+- § 1 BGB: Beginn der Rechtsfähigkeit des Menschen mit vollendeter Geburt.
+- §§ 104 bis 106 BGB: Geschäftsunfähigkeit und beschränkte Geschäftsfähigkeit.
+- § 21 BGB: Rechtsfähigkeit des eingetragenen Vereins ab Registereintragung.
+- § 828 BGB: Deliktsfähigkeit — abweichende Altersgrenzen von der Geschäftsfähigkeit.
+- § 50 ZPO: Parteifähigkeit — Fähigkeit, als Partei im Prozess aufzutreten.
+
+## Prüfraster
+
+1. Natürliche Person: Geburt vollständig vollzogen — § 1 BGB — Rechtsfähigkeit bejaht?
+2. Juristische Person: Eintragung oder gesetzliche Entstehungsvoraussetzungen erfüllt?
+3. Geschäftsfähigkeit: Alter und Geisteszustand nach §§ 104 bis 106 BGB?
+4. Beschränkte Geschäftsfähigkeit: Genehmigung des gesetzlichen Vertreters erforderlich?
+5. Deliktsfähigkeit nach § 828 BGB: Unterschied zur Geschäftsfähigkeit beachten.
+6. Parteifähigkeit nach § 50 ZPO für Prozessführung?
+7. Nasciturus: Bedingte Rechtsfähigkeit für Erbfall nach § 1923 Abs. 2 BGB?
+
+## Typische Fallstricke
+
+- Deliktsfähigkeit (§ 828 BGB) und Geschäftsfähigkeit (§ 104 BGB) haben unterschiedliche Altersgrenzen.
+- Juristische Person existiert erst ab Eintragung — vorher Vor-GmbH mit Eigenhaftung der Gründer.
+- Nasciturus ist noch nicht rechtsfähig — Rechte entstehen erst mit vollendeter Geburt, wirken zurück.
+- Parteifähigkeit und Prozessfähigkeit im Zivilprozess sind unterschiedliche Voraussetzungen.
+
+## Quellen
+
+- [§ 1 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__1.html)
+- [§ 104 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__104.html)
+- [§ 828 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__828.html)
+- [dejure.org § 1 BGB](https://dejure.org/gesetze/BGB/1.html)
+- [dejure.org § 104 BGB](https://dejure.org/gesetze/BGB/104.html)
+
+## Vertiefung
+
+### Juristische Personen im BGB
+
+Das BGB unterscheidet eingetragene Vereine (§§ 21 ff. BGB) und sonstige Körperschaften.
+Juristischen Personen handeln durch ihre Organe (§ 26 BGB beim Verein: Vorstand). Für die
+BGB-AT-Klausur ist wichtig: Wann entsteht die juristische Person und wer ist ihr Organ?
+
+### Vor-GmbH und Vor-Verein
+
+Vor Eintragung existiert eine Vor-GmbH oder ein Vor-Verein als nicht rechtsfähige Gesellschaft.
+Die Gründer haften persönlich für Verbindlichkeiten, die vor der Eintragung eingegangen werden
+(Handelndenhaftung, § 11 Abs. 2 GmbHG analog).
+
+### Klausur-Checkliste Rechtsfähigkeit
+
+- Natürliche Person: Geburt vollständig vollzogen — § 1 BGB?
+- Juristische Person: Eintragung erfolgt oder gesetzliche Entstehung?
+- Vor-Gesellschaft: Haftung der Gründer für Verbindlichkeiten?
+- Nasciturus: Bedingte Rechtsfähigkeit für Erbschaft nach § 1923 Abs. 2 BGB?
+- Deliktsfähigkeit nach § 828 BGB — Abweichung von Geschäftsfähigkeit beachten?
+
+---
+
+## Skill: `erwerbsgeschaeft-dienst-formnichtigkeit`
+
+_Wenn es um Ermächtigung zu Erwerbsgeschäften — Paragrafen 112 und 113 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Erwerbsgeschaeft Dienst Formnichtigkeit; Arbeitsfeld: BGB AT Prüfer._
+
+# Ermächtigung zu Erwerbsgeschäften — §§ 112 und 113 BGB
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Mandantenfall
+
+- 16-jähriger betreibt mit Elternzustimmung einen Online-Shop — welche Verträge kann er selbstständig schließen?
+- Minderjährige geht einem Nebenjob nach — welche Reichweite hat die elterliche Ermächtigung nach § 113 BGB?
+- Klausurkonstellation: Minderjähriger schließt Liefervertrag für seinen Betrieb — wirksam oder nicht?
+
+## Erste Schritte
+
+1. Ermächtigung nach § 112 BGB prüfen: Elternzustimmung und Genehmigung des Familiengerichts.
+2. Umfang der Ermächtigung: Alle Rechtsgeschäfte, die der Betrieb des Erwerbsgeschäfts gewöhnlich mit sich bringt.
+3. § 113 BGB: Ermächtigung zu Dienst- oder Arbeitsverhältnis — hier reicht elterliche Erlaubnis ohne Gericht.
+4. Grenzen: Rechtsgeschäfte, die den Rahmen des konkreten Erwerbsgeschäfts überschreiten, sind nicht erfasst.
+5. Widerruf der Ermächtigung: § 112 Abs. 2 BGB ermöglicht Widerruf durch gesetzlichen Vertreter.
+6. Rechtsfolge: Im Rahmen der Ermächtigung ist der Minderjährige unbeschränkt geschäftsfähig.
+
+## Rechtsrahmen
+
+- § 112 Abs. 1 BGB: Ermächtigung zum selbstständigen Betrieb eines Erwerbsgeschäfts.
+- § 112 Abs. 2 BGB: Widerruf der Ermächtigung durch gesetzlichen Vertreter oder Familiengericht.
+- § 113 Abs. 1 BGB: Ermächtigung zu Dienst- oder Arbeitsverhältnis.
+- § 113 Abs. 3 BGB: Gilt nicht für Rechtsgeschäfte, die nicht das Arbeitsverhältnis betreffen.
+- §§ 1626 ff. BGB: Elterliche Sorge als Grundlage der Ermächtigung.
+
+## Prüfraster
+
+1. Ermächtigung nach § 112 oder § 113 BGB: Welche Norm ist einschlägig?
+2. Form der Ermächtigung: § 112 BGB erfordert Genehmigung des Familiengerichts; § 113 BGB nicht.
+3. Umfang: Fällt das konkrete Rechtsgeschäft in den Bereich des Erwerbsgeschäfts oder Arbeitsverhältnisses?
+4. Widerruf der Ermächtigung: Hat ihn der Erklärungsempfänger gekannt?
+5. Rechtsfolge bei wirksamer Ermächtigung: Unbeschränkte Geschäftsfähigkeit für diesen Bereich.
+6. Rechtsfolge bei fehlendem Umfang: Zurück zu § 106 BGB (beschränkte Geschäftsfähigkeit).
+
+## Typische Fallstricke
+
+- § 112 BGB erfordert Familiengericht-Genehmigung — ohne diese ist die Ermächtigung unwirksam.
+- Umfang der Ermächtigung ist auf das Erwerbsgeschäft beschränkt — kein Generalfreibrief.
+- Widerruf nach § 112 Abs. 2 BGB wirkt ex nunc — frühere Verträge bleiben wirksam.
+- § 113 BGB gilt nur für das Arbeitsverhältnis, nicht für sonstige Verträge des Minderjährigen.
+
+## Output
+
+- Prüfungsschema §§ 112 und 113 BGB mit Umfangsbestimmung
+- Abgrenzungstabelle: § 112 BGB vs. § 113 BGB
+- Gutachtenstil-Abschnitt zur Ermächtigung und ihren Grenzen
+- Klausurlösungsskizze für konkreten Vertragsfall
+
+## Quellen
+
+- [§ 112 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__112.html)
+- [§ 113 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__113.html)
+- [§ 107 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__107.html)
+- [dejure.org § 112 BGB](https://dejure.org/gesetze/BGB/112.html)
+- [dejure.org § 113 BGB](https://dejure.org/gesetze/BGB/113.html)
+
+## Vertiefung
+
+### Reichweite der Ermächtigung nach §§ 112 und 113 BGB
+
+§ 112 BGB: Ermächtigung zum selbstständigen Betrieb eines Erwerbsgeschäfts. Der Minderjährige
+gilt als voll geschäftsfähig für alle Rechtsgeschäfte, die das Erwerbsgeschäft mit sich bringt.
+Ausnahme: Grundstückserwerb und ähnliche umfassende Verpflichtungen.
+
+§ 113 BGB: Ermächtigung zum Dienst- oder Arbeitsverhältnis. Der Minderjährige ist für das
+spezifische Arbeits- oder Dienstverhältnis voll geschäftsfähig — nicht für alle Geschäfte.
+
+### Gerichtliche Genehmigung
+
+Für § 112 BGB ist die Genehmigung des Familiengerichts erforderlich (§ 1643 BGB). Diese dient
+dem Schutz des Minderjährigen vor unüberschaubaren Verpflichtungen durch die Eltern.
+
+### Klausur-Checkliste §§ 112 und 113 BGB
+
+- Ermächtigung nach § 112 BGB (Erwerbsgeschäft) oder § 113 BGB (Arbeitsvertrag)?
+- Familiengerichtliche Genehmigung nach § 1643 BGB vorhanden?
+- Reichweite der Ermächtigung: Welche Geschäfte sind damit erfasst?
+- Ausnahmen: Grundstückserwerb und ähnlich weitreichende Verpflichtungen?
+- Widerruf der Ermächtigung: Wirkung für laufende Verträge?
+
+---
+
+## Skill: `einseitige-geschaefte-minderjaehrige`
+
+_Wenn es um Einseitige Rechtsgeschäfte und Minderjährige — Paragraf 111 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Einseitige Geschaefte Minderjaehrige; Arbeitsfeld: BGB AT Prüfer._
+
+# Einseitige Rechtsgeschäfte und Minderjährige — § 111 BGB
+
+## Mandantenfall
+
+- Minderjähriger kündigt ohne Wissen der Eltern sein Arbeitsverhältnis — wirksam nach § 111 BGB?
+- Vertragspartner erklärt Rücktritt gegenüber einem Minderjährigen ohne Zustimmung der Eltern — was gilt?
+- Klausurkonstellation: Anfechtungserklärung eines Minderjährigen — Unterschied zu zweiseitigem Vertragsschluss.
+
+## Erste Schritte
+
+1. Einseitiges Rechtsgeschäft identifizieren: Kündigung, Anfechtung, Rücktritt, Aufrechnung.
+2. § 111 BGB: Einseitige Rechtsgeschäfte Minderjähriger ohne Einwilligung des Vertreters sind unwirksam.
+3. Besonderheit: Bei einseitigen Rechtsgeschäften keine Genehmigungsmöglichkeit wie bei § 108 BGB.
+4. Gegenüber Minderjährigem: § 111 S. 2 BGB — Erklärung unwirksam, wenn Gegner Einwilligung nicht hatte.
+5. Ausnahme: Lediglich rechtlich vorteilhafte einseitige Geschäfte nach § 107 BGB.
+6. Heilung: Im Unterschied zu zweiseitigen Verträgen keine Genehmigung möglich.
+
+## Rechtsrahmen
+
+- § 111 BGB: Einseitige Rechtsgeschäfte Minderjähriger ohne Einwilligung sind unwirksam, keine Genehmigung möglich.
+- § 107 BGB: Lediglich rechtlich vorteilhafte Geschäfte auch ohne Einwilligung wirksam.
+- § 108 BGB: Zweiseitige Verträge — Genehmigung möglich; gilt nicht für § 111 BGB-Fälle.
+- § 109 BGB: Widerrufsrecht des Vertragspartners bei schwebendem Geschäft.
+- §§ 1626 ff. BGB: Elterliche Sorge und gesetzliche Vertretung Minderjähriger.
+
+## Prüfraster
+
+1. Ist das Rechtsgeschäft einseitig (Kündigung, Anfechtung, Rücktritt)?
+2. Liegt beschränkte Geschäftsfähigkeit vor (§ 106 BGB)?
+3. Einwilligung des gesetzlichen Vertreters vor Vornahme des einseitigen Geschäfts?
+4. Lediglich rechtlich vorteilhaft nach § 107 BGB — dann ausnahmsweise wirksam.
+5. Keine Genehmigung möglich nach § 111 BGB — anders als bei zweiseitigem Vertrag.
+6. Bei einseitigem Geschäft gegenüber Minderjährigem: § 111 S. 2 BGB beachten.
+7. Rechtsfolge: unwirksam von Anfang an, nicht schwebend unwirksam.
+
+## Typische Fallstricke
+
+- § 111 BGB-Unwirksamkeit ist endgültig — keine Heilung durch nachträgliche Genehmigung möglich.
+- Verwechslung mit § 108 BGB ist ein häufiger Klausurfehler: nur für zweiseitige Verträge gilt Genehmigung.
+- Gegenüber Minderjährigem abgegebene einseitige Erklärungen: §§ 111 und 131 BGB beachten.
+- Taschengeld-Paragraph § 110 BGB gilt nur für Verträge, nicht für einseitige Geschäfte.
+
+## Quellen
+
+- [§ 111 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__111.html)
+- [§ 107 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__107.html)
+- [§ 108 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__108.html)
+- [dejure.org § 111 BGB](https://dejure.org/gesetze/BGB/111.html)
+- [dejure.org § 108 BGB](https://dejure.org/gesetze/BGB/108.html)
+
+## Vertiefung
+
+### § 111 BGB im Überblick
+
+§ 111 BGB schützt den Erklärungsempfänger bei einseitigen Rechtsgeschäften eines Minderjährigen:
+Ohne vorherige Einwilligung des gesetzlichen Vertreters sind sie unwirksam (nicht nur schwebend
+unwirksam). Eine nachträgliche Genehmigung ist nicht möglich.
+
+### Unterschied zu § 108 BGB
+
+Bei Verträgen gilt § 108 BGB: Schwebende Unwirksamkeit mit Genehmigungsmöglichkeit.
+Bei einseitigen Rechtsgeschäften gilt § 111 BGB: Endgültige Unwirksamkeit ohne Einwilligung.
+Dies ist der wesentliche Unterschied, den Klausuren regelmäßig testen.
+
+### Anwendungsfälle § 111 BGB
+
+Kündigung, Rücktritt, Anfechtung, Mahnungen und ähnliche Gestaltungsrechte sind einseitige
+Rechtsgeschäfte. Alle unterliegen bei Minderjährigen dem Einwilligungserfordernis nach § 111 BGB.
+
+### Klausur-Checkliste § 111 BGB
+
+- Liegt ein einseitiges Rechtsgeschäft vor (keine Vertrag, nur eine WE)?
+- Minderjähriger ohne vorherige Einwilligung des gesetzlichen Vertreters gehandelt?
+- § 111 BGB: Endgültige Unwirksamkeit — keine Genehmigung möglich?
+- Ausnahme § 111 S. 2 BGB: Einwilligung bei Abgabe vorgelegt?
+- Abgrenzung zu §§ 107/108 BGB: Einseitiges oder mehrseitiges Rechtsgeschäft?
+
+---
+
+## Skill: `anfechtungsfrist-erklaerung-annahmefrist`
+
+_Wenn es um Anfechtungsfrist, Anfechtungserklärung und Bestätigung — Paragrafen 121 bis 124 und Paragraf 144 BGB in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Anfechtungsfrist Erklaerung Annahmefrist; Arbeitsfeld: BGB AT Prüfer._
+
+# Anfechtungsfrist, Anfechtungserklärung und Bestätigung — §§ 121 bis 124 und § 144 BGB
+
+## Arbeitsbereich
+
+Prüft Anfechtungsfrist und Bestätigungstatbestand: Frist bei Irrtumsanfechtung nach § 121 BGB (unverzüglich) und bei arglistiger Täuschung nach § 124 BGB (ein Jahr), Fristbeginn, Bestätigung nach § 144 BGB als Ausschlussgrund. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Mandantenfall
+
+- Mandant bemerkt Irrtum beim Kauf drei Wochen nach Vertragsschluss und fragt, ob Anfechtung noch möglich ist.
+- Käufer hat Täuschung entdeckt, aber mehrere Monate gewartet — ist die Jahresfrist des § 124 BGB noch offen?
+- Klausurkonstellation: Erklärungsempfänger behauptet, Anfechtender habe den Vertrag durch späteres Handeln bestätigt.
+
+## Erste Schritte
+
+1. Anfechtungsgrund festlegen — bestimmt die anwendbare Frist.
+2. Bei §§ 119 und 120 BGB: § 121 BGB — unverzüglich nach Kenntnis des Anfechtungsgrunds.
+3. Bei § 123 BGB: § 124 BGB — ein Jahr ab Entdeckung der Täuschung oder Aufhören der Drohung.
+4. Absolute Ausschlussfrist bei § 124 BGB: 10 Jahre ab Abgabe der Willenserklärung.
+5. Anfechtungserklärung: Inhalt und Form; eindeutige Anfechtungsabsicht erforderlich, aber kein Formzwang.
+6. Bestätigung nach § 144 BGB: Erklärung oder schlüssiges Verhalten nach Kenntnis des Anfechtungsgrunds.
+
+## Rechtsrahmen
+
+- § 121 BGB: Unverzügliche Anfechtung bei Irrtum — ohne schuldhaftes Zögern nach Kenntnis.
+- § 124 BGB: Jahresfrist bei arglistiger Täuschung oder Drohung; absolute Höchstfrist 10 Jahre.
+- § 144 BGB: Bestätigung des anfechtbaren Rechtsgeschäfts schließt Anfechtung aus.
+- § 119 BGB: Irrtumsanfechtungsgrundlage für § 121 BGB-Frist.
+- § 123 BGB: Anfechtungsgrundlage für § 124 BGB-Frist.
+- § 130 BGB: Zugang der Anfechtungserklärung als Zeitpunkt für Fristwahrung.
+
+## Prüfraster
+
+1. Anfechtungsgrund bestimmt anwendbare Fristnorm (§ 121 oder § 124 BGB).
+2. Fristbeginn: Wann hat der Anfechtende Kenntnis vom Anfechtungsgrund erlangt?
+3. Unverzüglichkeit bei § 121 BGB: Zeitspanne und etwaige Gründe für Verzögerung?
+4. Jahresfrist bei § 124 BGB: Fristbeginn und Ablaufdatum konkret berechnen.
+5. Absolute Ausschlussfrist 10 Jahre bei § 124 Abs. 3 BGB einhalten?
+6. Bestätigung nach § 144 BGB: Ausdrücklich oder durch schlüssiges Handeln nach Kenntnis?
+7. Zugang der Anfechtungserklärung beim Anfechtungsgegner rechtzeitig?
+
+## Typische Fallstricke
+
+- Unverzüglichkeit nach § 121 BGB ist kein starres Zeitfenster — beurteilungsabhängig, aber eine Woche gilt meist als Richtwert.
+- Bei § 123 BGB gilt als Fristbeginn der Zeitpunkt der Entdeckung, nicht der Vertragsschluss.
+- Bestätigung nach § 144 BGB setzt Kenntnis des Anfechtungsgrunds voraus — unbewusstes Weiterhandeln genügt nicht.
+- Die 10-Jahres-Frist des § 124 Abs. 3 BGB ist eine absolute Ausschlussfrist, keine Verjährungsfrist.
+
+## Quellen
+
+- [§ 121 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__121.html)
+- [§ 124 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__124.html)
+- [§ 144 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__144.html)
+- [dejure.org § 121 BGB](https://dejure.org/gesetze/BGB/121.html)
+- [dejure.org § 124 BGB](https://dejure.org/gesetze/BGB/124.html)
+
+## Vertiefung
+
+### Fristberechnung im Detail
+
+§ 121 BGB (unverzüglich nach Kenntnis): Grundsätzlich gilt eine kurze Zeitspanne von einigen Tagen.
+Bei anwaltlicher Vertretung kann die Frist etwas länger sein, da Rücksprache erforderlich ist. Eine
+Woche gilt als Anhaltswert, mehr als zwei Wochen sind regelmäßig zu lang.
+
+§ 124 BGB (bei §§ 123 und 124 BGB): Ein Jahr ab Entdeckung der Täuschung oder Ende der Zwangslage.
+Absolute Ausschlussfrist zehn Jahre ab Abgabe der Willenserklärung.
+
+### Bestätigung nach § 144 BGB
+
+Mit der Bestätigung nach § 144 BGB verzichtet der Anfechtungsberechtigte auf sein Anfechtungsrecht.
+Die Bestätigung muss in Kenntnis des Anfechtungsgrunds erfolgen. Sie kann ausdrücklich oder durch
+schlüssiges Verhalten (z.B. Erfüllung der Verbindlichkeit) erklärt werden.
+
+### Klausur-Checkliste Anfechtungsfrist
+
+- Fristtyp bestimmen: § 121 BGB (unverzüglich) oder § 124 BGB (ein Jahr)?
+- Fristbeginn: Kenntnis des Anfechtungsgrunds festgestellt?
+- Absolute Frist nach § 121 Abs. 2 BGB oder § 124 Abs. 3 BGB beachtet?
+- Bestätigung nach § 144 BGB: Kenntnis des Anfechtungsgrunds bei Bestätigung vorhanden?
+
+---
+
+## Skill: `anfechtungsfrist-erklaerung-bestaetigung`
+
+_Wenn es um Anfechtungsfrist, Anfechtungserklärung und Bestätigung — Paragrafen 121 bis 124 und Paragraf 144 BGB in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Anfechtungsfrist Erklaerung Bestaetigung; Arbeitsfeld: BGB AT Prüfer._
+
+# Anfechtungsfrist, Anfechtungserklärung und Bestätigung — §§ 121 bis 124 und § 144 BGB
+
+## Mandantenfall
+
+- Mandant bemerkt Irrtum beim Kauf drei Wochen nach Vertragsschluss und fragt, ob Anfechtung noch möglich ist.
+- Käufer hat Täuschung entdeckt, aber mehrere Monate gewartet — ist die Jahresfrist des § 124 BGB noch offen?
+- Klausurkonstellation: Erklärungsempfänger behauptet, Anfechtender habe den Vertrag durch späteres Handeln bestätigt.
+
+## Erste Schritte
+
+1. Anfechtungsgrund festlegen — bestimmt die anwendbare Frist.
+2. Bei §§ 119 und 120 BGB: § 121 BGB — unverzüglich nach Kenntnis des Anfechtungsgrunds.
+3. Bei § 123 BGB: § 124 BGB — ein Jahr ab Entdeckung der Täuschung oder Aufhören der Drohung.
+4. Absolute Ausschlussfrist bei § 124 BGB: 10 Jahre ab Abgabe der Willenserklärung.
+5. Anfechtungserklärung: Inhalt und Form; eindeutige Anfechtungsabsicht erforderlich, aber kein Formzwang.
+6. Bestätigung nach § 144 BGB: Erklärung oder schlüssiges Verhalten nach Kenntnis des Anfechtungsgrunds.
+
+## Rechtsrahmen
+
+- § 121 BGB: Unverzügliche Anfechtung bei Irrtum — ohne schuldhaftes Zögern nach Kenntnis.
+- § 124 BGB: Jahresfrist bei arglistiger Täuschung oder Drohung; absolute Höchstfrist 10 Jahre.
+- § 144 BGB: Bestätigung des anfechtbaren Rechtsgeschäfts schließt Anfechtung aus.
+- § 119 BGB: Irrtumsanfechtungsgrundlage für § 121 BGB-Frist.
+- § 123 BGB: Anfechtungsgrundlage für § 124 BGB-Frist.
+- § 130 BGB: Zugang der Anfechtungserklärung als Zeitpunkt für Fristwahrung.
+
+## Prüfraster
+
+1. Anfechtungsgrund bestimmt anwendbare Fristnorm (§ 121 oder § 124 BGB).
+2. Fristbeginn: Wann hat der Anfechtende Kenntnis vom Anfechtungsgrund erlangt?
+3. Unverzüglichkeit bei § 121 BGB: Zeitspanne und etwaige Gründe für Verzögerung?
+4. Jahresfrist bei § 124 BGB: Fristbeginn und Ablaufdatum konkret berechnen.
+5. Absolute Ausschlussfrist 10 Jahre bei § 124 Abs. 3 BGB einhalten?
+6. Bestätigung nach § 144 BGB: Ausdrücklich oder durch schlüssiges Handeln nach Kenntnis?
+7. Zugang der Anfechtungserklärung beim Anfechtungsgegner rechtzeitig?
+
+## Typische Fallstricke
+
+- Unverzüglichkeit nach § 121 BGB ist kein starres Zeitfenster — beurteilungsabhängig, aber eine Woche gilt meist als Richtwert.
+- Bei § 123 BGB gilt als Fristbeginn der Zeitpunkt der Entdeckung, nicht der Vertragsschluss.
+- Bestätigung nach § 144 BGB setzt Kenntnis des Anfechtungsgrunds voraus — unbewusstes Weiterhandeln genügt nicht.
+- Die 10-Jahres-Frist des § 124 Abs. 3 BGB ist eine absolute Ausschlussfrist, keine Verjährungsfrist.
+
+## Quellen
+
+- [§ 121 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__121.html)
+- [§ 124 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__124.html)
+- [§ 144 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__144.html)
+- [dejure.org § 121 BGB](https://dejure.org/gesetze/BGB/121.html)
+- [dejure.org § 124 BGB](https://dejure.org/gesetze/BGB/124.html)
+
+## Vertiefung
+
+### Fristberechnung im Detail
+
+§ 121 BGB (unverzüglich nach Kenntnis): Grundsätzlich gilt eine kurze Zeitspanne von einigen Tagen.
+Bei anwaltlicher Vertretung kann die Frist etwas länger sein, da Rücksprache erforderlich ist. Eine
+Woche gilt als Anhaltswert, mehr als zwei Wochen sind regelmäßig zu lang.
+
+§ 124 BGB (bei §§ 123 und 124 BGB): Ein Jahr ab Entdeckung der Täuschung oder Ende der Zwangslage.
+Absolute Ausschlussfrist zehn Jahre ab Abgabe der Willenserklärung.
+
+### Bestätigung nach § 144 BGB
+
+Mit der Bestätigung nach § 144 BGB verzichtet der Anfechtungsberechtigte auf sein Anfechtungsrecht.
+Die Bestätigung muss in Kenntnis des Anfechtungsgrunds erfolgen. Sie kann ausdrücklich oder durch
+schlüssiges Verhalten (z.B. Erfüllung der Verbindlichkeit) erklärt werden.
+
+### Klausur-Checkliste Anfechtungsfrist
+
+- Fristtyp bestimmen: § 121 BGB (unverzüglich) oder § 124 BGB (ein Jahr)?
+- Fristbeginn: Kenntnis des Anfechtungsgrunds festgestellt?
+- Absolute Frist nach § 121 Abs. 2 BGB oder § 124 Abs. 3 BGB beachtet?
+- Bestätigung nach § 144 BGB: Kenntnis des Anfechtungsgrunds bei Bestätigung vorhanden?
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

@@ -1,25 +1,25 @@
-# Megaprompt: fachanwalt-migrationsrecht
+# Vollprüfung: fachanwalt-migrationsrecht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 460 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-migrationsrecht`.
+Dieser Vollprüfung enthaelt top-8 von 460 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-migrationsrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für Fachanwalt Migrationsrecht: ordnet Rolle (Mandant Ausländer/Geflüchteter, ABH, BAMF), m…
-2. **mandat-triage-migrationsrecht** — Eingangs-Abfrage für migrationsrechtliche Mandate — Mandant ist Asylsuchender Geduldeter oder fragt nach Aufenthaltstite…
-3. **fachanwalt-migrationsrecht-orientierung** — Anwalt will ueberblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten. Orient…
-4. **orientierung-fachanwaltschaft-mandat** — Anwalt will überblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten: Orienti…
-5. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für Ausländer-, Asyl- und Staatsangehoerigkeitsrecht: Erfassung der Konstellation…
-6. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
-7. **fachanwalt-migrationsrecht-asyl-folgeantrag-71** — Asylantrag wurde abgelehnt und Mandant will neuen Antrag stellen oder hat neue Beweise oder Lage hat sich geaendert. Prü…
-8. **fachanwalt-migrationsrecht-familiennachzug** — Mandant will Ehegatten Kinder oder Eltern nach Deutschland holen und fragt nach Voraussetzungen und Verfahren. Prüfraste…
+1. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Migrationsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passend…
+2. **mandat-triage-migrationsrecht** — Wenn es um Mandat Triage Migrationsrecht in Fachanwalt Migrationsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und de…
+3. **fachanwalt-migrationsrecht-orientierung** — Wenn es um Fachanwalt für Migrationsrecht — Orientierung in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständi…
+4. **orientierung-fachanwaltschaft-mandat** — Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Re…
+5. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg …
+6. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Migrationsrecht geht: klärt Rolle, Ziel,…
+7. **staat-st-vincent-und-die-grenadinen-migrationscheck** — Wenn es um Staaten- und Gebietscheck St in Fachanwalt Migrationsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachf…
+8. **staat-st-kitts-und-nevis-migrationscheck** — Wenn es um Staaten- und Gebietscheck St in Fachanwalt Migrationsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachf…
 
 ---
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Fachanwalt Migrationsrecht: ordnet Rolle (Mandant Ausländer/Geflüchteter, ABH, BAMF), markiert Frist (§ 74 AsylG Klagefrist 2 Wochen / 1 Mon.), wählt Norm (AufenthG, FreizügG/EU, AsylG, StAG, Aufenthaltsverordnung, EU-Familienzusammenführungs-RL) und Zuständigkeit..._
+_Wenn es um Einstieg und Routing in Fachanwalt Migrationsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Einstieg und Routing
 
@@ -63,24 +63,25 @@ Dieser Einstieg routet **Fachanwalt Migrationsrecht** vom ersten Sachverhalt zu 
 
 ## Skill: `mandat-triage-migrationsrecht`
 
-_Eingangs-Abfrage für migrationsrechtliche Mandate — Mandant ist Asylsuchender Geduldeter oder fragt nach Aufenthaltstitel Familiennachzug Abschiebungsabwehr Ausweisung oder Einbuergerung: Eingangs-Abfrage für migrationsrechtliche Mandate — Mandant ist Asyls..._
+_Wenn es um Mandat Triage Migrationsrecht in Fachanwalt Migrationsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Eingangs-Abfrage für migrationsrechtliche Mandate — Mandant ist Asylsuchender Geduldeter oder fragt nach Aufenthaltstitel Familiennachzug Abschiebungsabwehr Ausweisung oder Einbuergerung
 
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Familiennachzug Orientierung Mandat Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Migrationsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Arbeitsweg
 
@@ -222,7 +223,11 @@ Bei drohender Abschiebung:
 - Empfehlung Folge-Skill plus eventuell Härtefall-Kommission
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Quellen
@@ -295,7 +300,7 @@ Aktennummer: [AZ]
 
 ## Skill: `fachanwalt-migrationsrecht-orientierung`
 
-_Anwalt will ueberblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung AufenthG AsylG GFK Genfer Fluechtlingskonvention 1951 Dublin-VO EU-Verfahrens-RL Qualifikations-RL 2011/95 StAG Einbuergerung. Notfristen § 36 AsylG ein-Wochen-Frist bei ablehnenden BAMF-Bescheiden § 74 AsylG zwei-Wochen-Klagefrist. FAO-Voraussetzungen Normen typische Mandate verifizierbare Quellen. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Spezial-Skills. Abgrenzung: mandat-triage-migrationsrecht für konkreten Mandats-Einstieg._
+_Wenn es um Fachanwalt für Migrationsrecht — Orientierung in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Fachanwalt für Migrationsrecht — Orientierung
 
@@ -433,31 +438,36 @@ dejure.org/2013,2363 (NJW 2013, 1415).
 -->
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
 ## Skill: `orientierung-fachanwaltschaft-mandat`
 
-_Anwalt will überblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten: Orientierung AufenthG AsylG G..._
+_Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Anwalt will überblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten
 
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Familiennachzug Orientierung Mandat Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt Migrationsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Arbeitsweg
 
@@ -599,14 +609,18 @@ dejure.org/2013,2363 (NJW 2013, 1415).
 -->
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
 ## Skill: `erstgespraech-mandatsannahme`
 
-_Strukturierter Erstgespraechsleitfaden für Ausländer-, Asyl- und Staatsangehoerigkeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen: Strukturierter Erstge..._
+_Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Strukturierter Erstgespraechsleitfaden für Ausländer-, Asyl- und Staatsangehoerigkeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
@@ -786,7 +800,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 
 ## Skill: `erstpruefung-und-mandatsziel`
 
-_Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel._
+_Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Migrationsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -829,470 +843,93 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `fachanwalt-migrationsrecht-asyl-folgeantrag-71`
+## Skill: `staat-st-vincent-und-die-grenadinen-migrationscheck`
 
-_Asylantrag wurde abgelehnt und Mandant will neuen Antrag stellen oder hat neue Beweise oder Lage hat sich geaendert. Prüfraster § 71 AsylG Folgeantrag Voraussetzungen Wiederaufgreifensgründe Aenderung Sachlage neue Beweismittel. Frist drei Monate ab Kenntnis der neuen Umstaende Folge-Folgeantrag Dublin-III-Überstellungs-Sperre. Output Folgeantrag-Entwurf mit Begründung neuer Umstaende und Sperr-Argument für Dublin-Überstellung. Abgrenzung: asyl-anhoerung-vorbereiten für Erst-Anhoerung fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Gefahr._
+_Wenn es um Staaten- und Gebietscheck St in Fachanwalt Migrationsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Staat St Vincent Und Die Grenadinen Migrationscheck; Arbeitsfeld: Fachanwalt Migrationsrecht._
 
-# Asyl-Folgeantrag § 71 AsylG
+# Staaten- und Gebietscheck St
 
-## Zweck
 
-Antrag nach Ablehnung des Erstantrags — nur unter strengen Voraussetzungen.
+## Arbeitsweg
 
-## 1) Eingangs-Abfrage
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: AufenthG §§ 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58, 60, 60a-60d, 81, 84, 95; AsylG §§ 13, 24-30, 34-38, 71, 74, 77; FreizügG/EU §§ 2-5; StAG §§ 4, 5, 8-10, 12a, 25, 30; AsylbLG §§ 1, 3, 6; VwGO §§ 74, 80, 123; Dublin-III-VO Art. 3, 17, 21-29; einschlägige EU-Richtlinien/GEAS-Normstand live prüfen; keine BeckRS-/juris-Blindzitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-1. Erster Asylantrag wann abgelehnt?
-2. Aktueller Aufenthaltstitel / Duldung?
-3. Neue Sachlage seit Ablehnung (politische Lage Heimatland, persönliche Änderungen)?
-4. Neue Beweismittel?
-5. Ausreise-Druck (Abschiebung)?
+**Fokus:** Staaten- und Gebietscheck St. Vincent und die Grenadinen: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-## 2) Voraussetzungen § 71 AsylG iVm § 51 VwVfG
+### Staaten-/Gebietscheck: St. Vincent und die Grenadinen
 
-### Wiederaufgreifens-Gründe
+## Einstieg
+1. Welche Beziehung besteht zu St. Vincent und die Grenadinen: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
+2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
+3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
+4. Welche Dokumente aus St. Vincent und die Grenadinen liegen vor und wie wurden sie beschafft/übersetzt/legalisiert?
+5. Welche aktuelle Länder-, Behörden- oder Sicherheitsquelle trägt das Ergebnis?
 
-- **Änderung Sachlage** (Heimatland, persönlich)
-- **Neue Beweismittel**, die zu günstigerer Entscheidung geführt hätten
-- **Änderung Rechtslage**
+## Prüfraster
+1. **Identität und Dokumente:** Pass, ID, Geburts-/Heiratsurkunden, Register, Übersetzung, Legalisation/Apostille, Echtheit, Zumutbarkeit der Beschaffung.
+2. **Aufenthaltsrecht Deutschland:** Passpflicht, Visumverfahren, Titelvoraussetzungen, Lebensunterhalt, Beschäftigung, Familie, Fiktionswirkung.
+3. **Schutzrecht:** Individuelle Verfolgung, Gruppen-/Regionenrisiko, innerstaatliche Fluchtalternative, Art. 3 EMRK, Krankheit, Vulnerabilität.
+4. **EU/Europarat:** Dublin/GEAS, sichere Herkunft/Drittstaaten, EMRK/HUDOC, EUAA/UNHCR-Quellen; nur anwenden, wenn aktuell und einschlägig.
+5. **Rückführung/Pass:** Botschaftspraxis, Heimreisedokument, Mitwirkung, Zumutbarkeit, Vollstreckungshindernisse.
+6. **Strategie:** Antrag, Nachreichung, Eilantrag, Länderquellenvermerk, Mandantenhinweis, spanische/einfache Erklärung bei Bedarf.
 
-### Frist
-
-- 3 Monate ab Kenntnis des Wiederaufgreifens-Grundes
-- Bei Versäumnis: Antrag unzulaessig
-
-### Ergebnis
-
-- BAMF prüft zunächst Zulässigkeit
-- Bei Zulässigkeit: Sach-Prüfung wie Erstantrag
-
-## 3) Sachverhalts-Schwerpunkte
-
-### Politische Lage
-
-- Verschlechterung Heimatland (Krieg, Verfolgung)
-- Neue Verfolgungs-Gruppen
-- Anderer Aspekt (z.B. Sexual-Orientierung outet sich)
-
-### Persönlich
-
-- Konvertierung Religion
-- Politische Aktivitäten während Aufenthalt
-- Familien-Konstellation
-
-### Beweise
-
-- Neue Dokumente (Drohbriefe, Steckbriefe)
-- Zeugenaussagen aus Heimatland
-- Medienberichte
-
-## 4) Folge-Folgeantrag
-
-- Auch wiederholt möglich
-- Aber: jeder Antrag braucht neue Wiederaufgreifens-Gründe
-- Bei missbraeuchlichem Verhalten: Unzulaessigkeit
-
-## 5) Dublin-III VO 604/2013
-
-### Bei Folgeantrag
-
-- Prüfung ob anderer EU-Staat zustaendig
-- 6-Monats-Überstellungs-Frist
-- Bei Versäumnis: DE-Zuständigkeit
-
-### Aufenthalts-Recht
-
-- Bei Folgeantrag: kein automatisches Aufenthaltsrecht
-- Antrag auf Aussetzung Vollstreckung § 80 V VwGO bei VG
-
-## 6) Workflow
-
-### Schritt 1 — Mandanten-Beratung
-
-- Wiederaufgreifens-Grund identifizieren
-- Realistische Aussichten-Bewertung
-- Risiko fehlender Aussicht: Abschiebung
-- Alternative: Aufenthaltstitel humanitaerer Gründe § 25 AufenthG
-
-### Schritt 2 — Antrag BAMF
-
-- Schriftlich, mit Wiederaufgreifens-Grund
-- Beweismittel beigefügt
-- Dolmetscher bei Vorbringen
-
-### Schritt 3 — Bescheid
-
-- BAMF entscheidet binnen Wochen
-- Bei Unzulaessigkeit: Aussetzung Anhörung
-- Bei Zulässigkeit: persönliche Anhörung
-
-### Schritt 4 — Klage VG bei Ablehnung
-
-- Frist 2 Wochen bei Schnellverfahren
-- Frist 1 Monat bei Standard-Bescheid
-- Eilantrag § 80 V VwGO bei drohender Abschiebung
-
-## 7) Spezielle Konstellationen
-
-### Konversion
-
-- Christen-Konversion (Iran, Pakistan)
-- Pflicht zur Glaubens-Prüfung
-- Sachverständiger-Gutachten
-
-### Sexual-Orientierung
-
-- Outet-sich-Argument
-- Verfolgung-Risiko Heimatland
-
-### Politische Aktivitäten
-
-- In Deutschland (Exil-Politik)
-- Beweis durch Demo-Fotos, Vereins-Mitgliedschaft
-
-## 8) Bundesamt für Migration und Fluechtlinge (BAMF)
-
-### Prozessuale Pflichten
-
-- Anhörung
-- Vollständige Aufklärung
-- Begründung Bescheid
-
-### Beweisaufnahme
-
-- Auskunft Auswärtiges Amt
-- ACCORD-Berichte
-- UNHCR-Berichte
-
-## 9) Typische Fehler
-
-1. **3-Monats-Frist verpasst**
-2. **Wiederaufgreifens-Grund zu schwach**
-3. **Eilantrag versäumt** bei drohender Abschiebung
-4. **Folge-Folge-Antrag missbraeuchlich** -> Unzulaessigkeit
-
-## 10) BVerwG-Linien
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Anschluss
-
-- `fachanwalt-migrationsrecht-orientierung` — Triage
-- `fachanwalt-migrationsrecht-aufenthaltstitel-antrag` — Alternativ-Titel
-- `widerspruch-oder-klage-erstpruefung` — bei VG-Klage
-
-## Vertiefung: Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-
-## Normen-Kette Folgeantrag
-
-- **§ 71 Abs. 1 AsylG** iVm **§ 51 Abs. 1-3 VwVfG** — Wiederaufgreifensvoraussetzungen, Frist 3 Monate
-- **§ 71 Abs. 5 AsylG** — Abschiebungsandrohung bei Unzulaessigkeit des Folgeantrags
-- **§ 51 Abs. 2 VwVfG** — Frist ab Kenntnis des Wiederaufgreifensgrundes
-- **§ 36 AsylG** — Klagefrist eine Woche wenn Folgeantrag als unzulaessig beschieden
-- **§ 74 Abs. 1 AsylG** — Klagefrist zwei Wochen bei Sachabweisung des Folgeantrags
-- **Art. 40 Verfahrens-RL 2013/32** — Folgeantraege; Mitgliedstaat kann Folgeantrag nur ablehnen wenn keine neuen Elemente
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Output-Template: Folgeantrag BAMF
-
-**Adressat:** BAMF, Abteilung Wiederaufnahme / Folgeantrag
-**Tonfall:** Sachlich-juristisch; Substantiierung der neuen Wiederaufgreifensgruende
-
-```
-[KANZLEI]
-[ADRESSE]
-
-Bundesamt fuer Migration und Fluechtlinge
-[AUSSENSTELLE]
-[ADRESSE]
-
-Re: Asyl-Folgeantrag gemaess § 71 AsylG
-    Antragsteller: [NAME, geb. DATUM, Staatsang.]
-    BAMF-Aktenzeichen (Erstantrag): [AZ]
-
-Sehr geehrte Damen und Herren,
-
-in Vertretung des o.g. Antragstellers stellen wir hiermit Folgeantrag
-gemaess § 71 AsylG und § 51 VwVfG.
-
-I. BISHERIGER VERFAHRENSSTAND
-Erstantrag abgelehnt am [DATUM], Bescheid Az. [AZ].
-Klage [wurde erhoben / nicht erhoben].
-
-II. WIEDERAUFGREIFENSGRUENDE (§ 51 Abs. 1 Nr. [X] VwVfG)
-[Variante A — Aenderung Sachlage:]
-Seit der Ablehnung des Erstantrags hat sich die Lage im Herkunftsland
-[LAND] wesentlich veraendert: [KONKRETE SCHILDERUNG MIT DATUM].
-Belege: UNHCR-Laenderbericht [DATUM] Anlage 1, AA-Bericht [DATUM] Anlage 2.
-
-[Variante B — Neue Beweismittel:]
-Es liegen neue Beweismittel vor, die bei der Erstentscheidung nicht
-verfuegbar waren: [ATTEST / DOKUMENT / ZEUGNIS]. Anlage 3.
-
-[Variante C — Konversion / LGBTQ / persoenliche Aenderung:]
-Der Antragsteller ist am [DATUM] zum [Christentum / Islam / ...] konvertiert.
-Bescheinigung beigefuegt Anlage 4. Die innere Uberzeugung ist echt und stabil
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-III. FRIST § 51 ABS. 2 VWVFG
-Der Antragsteller hat von dem o.g. Wiederaufgreifensgrund am [DATUM]
-Kenntnis erlangt. Die 3-Monats-Frist laeuft bis [DATUM]; dieser Antrag
-wird fristgerecht gestellt.
-
-IV. SICHERUNGSMASSNAHMEN
-Bei drohender Abschiebung bitten wir um unverzuegliche Bestaetigung
-des Folgeantragseingangs (§ 71 Abs. 4 AsylG).
-
-Anlagen: K1 bis K[X]
-
-[KANZLEI], [ORT], [DATUM]
-[RA-NAME]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
+## Quellen- und Sicherheitsregel
+- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
 
 ---
 
-## Skill: `fachanwalt-migrationsrecht-familiennachzug`
+## Skill: `staat-st-kitts-und-nevis-migrationscheck`
 
-_Mandant will Ehegatten Kinder oder Eltern nach Deutschland holen und fragt nach Voraussetzungen und Verfahren. Prüfraster §§ 27-36 AufenthG Familiennachzug Lebensunterhalt Wohnraum Sprachkenntnisse A1. Beschleunigtes Visum-Verfahren Familiennachzug zu Schutzbedürftigen nach § 36a AufenthG. Normen § 27 AufenthG Grundsatz § 28 AufenthG Ehegatten § 32 AufenthG Kinder. Output Nachzugs-Prüf-Memo Antragscheckliste Visum-Entwurf Klage-Option bei Ablehnung. Abgrenzung: fachanwalt-migrationsrecht-aufenthaltstitel-antrag für eigenständige Titelerteilung._
+_Wenn es um Staaten- und Gebietscheck St in Fachanwalt Migrationsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Staat St Kitts Und Nevis Migrationscheck; Arbeitsfeld: Fachanwalt Migrationsrecht._
 
-# Familiennachzug
+# Staaten- und Gebietscheck St
 
-## Zweck
 
-Visum / Aufenthaltstitel für Familienangehörige eines in Deutschland lebenden Ausländers / Deutschen.
+## Arbeitsweg
 
-## 1) Eingangs-Abfrage
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: AufenthG §§ 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58, 60, 60a-60d, 81, 84, 95; AsylG §§ 13, 24-30, 34-38, 71, 74, 77; FreizügG/EU §§ 2-5; StAG §§ 4, 5, 8-10, 12a, 25, 30; AsylbLG §§ 1, 3, 6; VwGO §§ 74, 80, 123; Dublin-III-VO Art. 3, 17, 21-29; einschlägige EU-Richtlinien/GEAS-Normstand live prüfen; keine BeckRS-/juris-Blindzitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-1. Wer ist der "Stamm-Inhaber" — Deutscher, EU-Bürger, Drittstaater?
-2. Welche Familienangehörige (Ehegatte, Kinder, Eltern)?
-3. Aufenthaltstitel des Stamm-Inhabers?
-4. Wohnraum / Einkommen Stamm-Inhaber?
-5. Sprachkenntnis Antragsteller?
-6. Heimatland und deutsche Botschaft zustaendig?
+**Fokus:** Staaten- und Gebietscheck St. Kitts und Nevis: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-## 2) Familiennachzug nach Konstellation
+### Staaten-/Gebietscheck: St. Kitts und Nevis
 
-### Ehegatten-Nachzug § 30 AufenthG
+## Einstieg
+1. Welche Beziehung besteht zu St. Kitts und Nevis: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
+2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
+3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
+4. Welche Dokumente aus St. Kitts und Nevis liegen vor und wie wurden sie beschafft/übersetzt/legalisiert?
+5. Welche aktuelle Länder-, Behörden- oder Sicherheitsquelle trägt das Ergebnis?
 
-- Stamm-Inhaber: Niederlassungserlaubnis oder bestimmte Aufenthaltstitel
-- Ehegatte: 18 Jahre, A1-Sprachkenntnis
-- Lebensunterhaltssicherung (Einkommen)
-- Wohnraum
+## Prüfraster
+1. **Identität und Dokumente:** Pass, ID, Geburts-/Heiratsurkunden, Register, Übersetzung, Legalisation/Apostille, Echtheit, Zumutbarkeit der Beschaffung.
+2. **Aufenthaltsrecht Deutschland:** Passpflicht, Visumverfahren, Titelvoraussetzungen, Lebensunterhalt, Beschäftigung, Familie, Fiktionswirkung.
+3. **Schutzrecht:** Individuelle Verfolgung, Gruppen-/Regionenrisiko, innerstaatliche Fluchtalternative, Art. 3 EMRK, Krankheit, Vulnerabilität.
+4. **EU/Europarat:** Dublin/GEAS, sichere Herkunft/Drittstaaten, EMRK/HUDOC, EUAA/UNHCR-Quellen; nur anwenden, wenn aktuell und einschlägig.
+5. **Rückführung/Pass:** Botschaftspraxis, Heimreisedokument, Mitwirkung, Zumutbarkeit, Vollstreckungshindernisse.
+6. **Strategie:** Antrag, Nachreichung, Eilantrag, Länderquellenvermerk, Mandantenhinweis, spanische/einfache Erklärung bei Bedarf.
 
-### Kinder-Nachzug § 32 AufenthG
-
-- Bis 16. Lebensjahr: Standardweg
-- 16-17 Jahre: Voraussetzungen wie Ehegatte
-- A1-Pflicht ab 16
-
-### Eltern-Nachzug § 36 II AufenthG
-
-- Nur bei außergewoehnlicher Härte
-- Sehr restriktiv
-
-### Familiennachzug zu Schutzbedürftigen
-
-- Anerkannte Fluechtlinge: vereinfachter Nachzug § 36a AufenthG
-- Subsidiaer Schutzbedürftige: § 36a AufenthG, monatliches Kontingent 1.000
-- Bei Volljaehrigkeit Kind nach Anerkennung Eltern: § 36 I AufenthG
-
-## 3) Voraussetzungen Lebensunterhaltssicherung § 5 I Nr. 1 AufenthG
-
-### Standard
-
-- Netto-Einkommen Stamm-Inhaber muss reichen für:
-  - Eigenen Lebensunterhalt
-  - Lebensunterhalt aller mitnachziehenden
-- Mietkosten + Sozialhilfe-Bedarfssatz als Maßstab
-
-### Ausnahmen
-
-- Schutzbedürftige im Erstjahr
-- Familienzusammenführung mit deutschen Staatsangehörigen § 28 AufenthG (geringere Anforderungen)
-
-## 4) Sprachkenntnis A1
-
-### Pflicht
-
-- Bei Ehegatten-Nachzug
-- Prüfung Goethe / TELC / OESD
-- Vor Visum-Antrag
-
-### Ausnahmen
-
-- Schutzbedürftige
-- Behinderung
-- EU-Bürger-Familienangehörige
-- Klage gegen schwer erfuellbare Anforderung (EGMR-Linie)
-
-## 5) Visum-Verfahren
-
-### Antrag deutsche Botschaft
-
-- Mit Anlagen
-- Termin meist 4-12 Wochen Wartezeit
-- Beschleunigtes Verfahren BeschAusG (Beauftragten-Verfahren) seit 2020
-
-### Beschleunigtes Verfahren § 81a AufenthG
-
-- Antrag durch AG / Familie in Deutschland
-- Ausländerbehoerde stimmt vorab zu
-- Visum-Erteilung beschleunigt
-
-### Visum-Ablehnung
-
-- **Klage VG Berlin** (zuständiges Gericht bei Visum)
-- Eilantrag § 123 VwGO
-
-## 6) Workflow
-
-### Phase 1 — Vorbereitung
-
-- Lebensunterhalt + Wohnraum kalkulieren
-- Sprachkurs Antragsteller buchen
-- Dokumente sammeln (Heiratsurkunde, Geburts-, Schul-)
-
-### Phase 2 — Antrag
-
-- Botschaft im Heimatland
-- Begleitung durch Anwalt empfohlen
-- Bei Schwellen-Land: Vorabzustimmung Ausländerbehoerde
-
-### Phase 3 — Visum erteilt
-
-- Einreise innerhalb der Frist
-- Bei Ausländerbehoerde Aufenthaltstitel beantragen
-- Aufenthaltstitel zum gleichen Zweck § 28 / 30 / 32 AufenthG
-
-### Phase 4 — Bei Ablehnung
-
-- Klage VG Berlin
-- Eilantrag bei dringender Familien-Sache
-
-## 7) Schutz Art. 6 GG / Art. 8 EMRK
-
-### Familienleben
-
-- Verfassungsrechtlicher Schutz
-- Prüfung Verhältnismaessigkeit Ablehnung
-
-### Kindeswohl
-
-- Bei Kindern besondere Prüfung
-- EGMR-Linie zur Familienzusammenführung
-
-## 8) Typische Fehler
-
-1. **A1-Sprachkenntnis unvollständig nachgewiesen**
-2. **Lebensunterhalts-Kalkulation falsch**
-3. **Termin Botschaft zu spaet** — Wartezeit unterschaetzt
-4. **Vorabzustimmung Ausländerbehoerde versäumt** bei beschleunigtem Verfahren
-5. **Klage-Frist 1 Monat versäumt**
-
-## 9) Familiennachzug zu deutschen Staatsangehörigen § 28 AufenthG
-
-### Vereinfacht
-
-- Keine Lebensunterhalts-Pflicht
-- Sprachkenntnis erforderlich (mit Ausnahmen)
-- Standard-Weg für deutsch-ausländische Ehepaare
-
-## 10) BVerwG-/EuGH-Linien
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Anschluss
-
-- `fachanwalt-migrationsrecht-orientierung` — Triage
-- `aufenthaltstitel-pruefung` (Power-Tool) — Prüfraster
-- `fachanwalt-migrationsrecht-einbuergerung` — bei Staatsangehoerigkeit
-
-## Vertiefung: Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-
-## Normen-Kette Familiennachzug
-
-- **§§ 27, 28, 29, 30, 32, 36 AufenthG** — Grundsatz Familiennachzug, Deutschennachzug, allgemeiner Nachzug, Ehegatten, Kinder, Eltern
-- **§ 36a AufenthG** — Familiennachzug zu subsidiaer Schutzberechtigten (Kontingent 1.000/Monat)
-- **§ 5 Abs. 1 Nr. 1 AufenthG** — Lebensunterhaltssicherung als Regelerteilungsvoraussetzung
-- **§ 81a AufenthG** — beschleunigtes Fachkraefte-Visum-Verfahren
-- **Art. 6 GG / Art. 8 EMRK** — verfassungsrechtlicher Familien- und Privatlebensschutz
-- **EU-Familienzusammenf.-RL 2003/86/EG** — Rechtsanspruch auf Nachzug bei Fluechtlingen
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Output-Template: Antragsschreiben Visum Familiennachzug
-
-**Adressat:** Deutsche Botschaft [LAND], Visumstelle
-**Tonfall:** Sachlich-begruendend, auf Anspruchsgrundlage hinweisend
-
-```
-[KANZLEI]
-[ADRESSE]
-
-Deutsche Botschaft [HAUPTSTADT/LAND]
-Visumstelle
-[ADRESSE]
-
-Re: Visumsantrag Familiennachzug fuer [ANTRAGSTELLER NAME, geb. DATUM]
-    zu [STAMMINHABER NAME, AufenthaltsstT/NE, wohnhaft ADRESSE D]
-    Visumantrag-Nr.: [falls vorhanden]
-
-Sehr geehrte Damen und Herren,
-
-wir vertreten [STAMMINHABER NAME] und zeigen die anwaltliche Begleitung
-des Visumsantrags fuer [FAMILIENANGEHOERIGE(R)] an.
-
-I. SACHVERHALT
-[NAME STAMMINHABER] lebt seit [DATUM] in Deutschland (Aufenthaltstitel:
-[Art und Gueltigkeit], Anlage 1). Er beantragt Familiennachzug fuer
-seine Ehegattin / sein Kind [NAME].
-
-II. ANSPRUCHSGRUNDLAGE
-§ [28 / 30 / 32] AufenthG in Verbindung mit Art. 6 GG.
-
-III. VORAUSSETZUNGEN LIEGEN VOR
-a) Lebensunterhalt: Netto-Einkommen [BETRAG EUR] (Einkommensnachweise
-   Anlage 2). Der Bedarf fuer 2 Personen betraegt nach Sozialrechtssaetzen
-   ca. [BETRAG] EUR. Deckung gegeben.
-b) Wohnraum: [Groesse m2] — ausreichend fuer [X] Personen (Anlage 3: Mietvertrag).
-c) Sprachkenntnis: A1-Zertifikat Anlage 4. [ODER: Ausnahme wegen ...]
-d) Keine Ausweisungsinteressen (§ 5 Abs. 1 Nr. 2 AufenthG).
-
-IV. ANLAGEN
-1. Aufenthaltstitel / Niederlassungserlaubnis
-2. Einkommensnachweise letzter 3 Monate
-3. Mietvertrag / Wohnraumnachweis
-4. A1-Zertifikat
-5. Heiratsurkunde / Geburtsurkunde (beglaubigt und apostilliert)
-[...]
-
-Wir bitten um zeitnahe Bearbeitung und stehen fuer Rueckfragen zur Verfuegung.
-
-[KANZLEI], [ORT], [DATUM]
-[RA-NAME]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
+## Quellen- und Sicherheitsregel
+- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

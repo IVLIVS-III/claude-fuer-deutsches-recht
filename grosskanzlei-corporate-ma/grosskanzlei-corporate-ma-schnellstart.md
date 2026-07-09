@@ -58,9 +58,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 13, 15 GmbHG (Anteilsübertragung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
 - BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
-- Normenradar: Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt. - Rechtsprechungsanker: BGH, 21.04.1997 - II ZR 175/95
-- Rechtsprechungsanker: BGH, 21.04.1997 - II ZR 175/95 für Organpflichten; BGH, 20.11.2018 - II ZR 12/17 für Gesellschafterlisten. Weitere Entscheidungen nur mit frei prüfbarer Quelle
 - BGH II ZR 17/19 (Earn-Out-Klauseln, Kontrolle)
+- BGH II ZR 280/14 (Gewährleistungsausschluss share deal)
+- BGH II ZR 109/13 (W&I-Versicherung, Sale and Purchase)
 
 ## 7. Antwortform
 

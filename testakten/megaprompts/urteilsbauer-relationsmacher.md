@@ -1,27 +1,27 @@
-# Megaprompt: urteilsbauer-relationsmacher
+# Vollprüfung: urteilsbauer-relationsmacher
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 83 Skills des Plugins `urteilsbauer-relationsmacher`.
+Dieser Vollprüfung enthaelt top-10 von 84 Skills des Plugins `urteilsbauer-relationsmacher`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für Urteilsbauer/Relationsmacher: ordnet Rolle (Richter, Rechtspfleger, Parteien), markiert…
-2. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Urteilsbauer Relationsmacher-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, …
-3. **urteils-erstpruefung-und-mandatsziel** — Urteils: Erstprüfung, Rollenklärung und Mandatsziel.
-4. **aktenintake-zivil** — Eingehende Zivilakte vor erster Prüfung strukturieren: Richter oder Referendar erhalt neue Akte und muss Überblick gewin…
-5. **anspruchsgrundlagen-pruefen** — Anspruchsgrundlagen identifizieren und Prüfungsreihenfolge bestimmen: Richter oder Kandidat muss Anspruchskonkurrenz lös…
-6. **beschluss-bauen-zpo** — Zivilrechtliche Beschluesse erstellen: PKH, Streitwert, Beweis, Hinweis nach § 139 ZPO, Kostenfestsetzung, Versaeumnis, …
-7. **beweisbeschluss-vorbereiten** — Beweisbeschluss nach § 359 ZPO vorbereiten: Richter bestimmt Beweisaufnahme nach muendlicher Verhandlung. Normen: § 359 …
-8. **cisg-pruefen** — UN-Kaufrecht (CISG) auf Anwendbarkeit und Eingreifen prüfen: Internationaler Kaufvertrag mit Auslandsbezug und Vertragss…
-9. **dokumente-rendern-urteil-docx** — Zivilurteil als DOCX im offiziellen Gerichtslayout rendern: Richter oder Referendar will fertiges Urteil als Dokument au…
-10. **dsgvo-rechtswidriges-produkt** — Produkt aus dem Ausland auf DSGVO-Rechtswidrigkeit prüfen: Richter oder Anwalt muss beurteilen ob Smartglasses oder IoT-…
+1. **einstieg-routing** — Wenn es um Einstieg und Routing in Urteilsbauer und Relationsmacher geht: klärt Rolle, Ziel, Frist, Unterlagen und den p…
+2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Urteilsbauer und Relationsmacher geht: klärt Rolle, Ziel, Frist, Unterlagen und den passe…
+3. **urteils-erstpruefung-und-mandatsziel** — Wenn es um Urteils: Erstprüfung, Rollenklärung und Mandatsziel in Urteilsbauer und Relationsmacher geht: klärt Rolle, Zi…
+4. **urteilsbauer-aktenintake-schriftsatz-brief-memo-bausteine** — Wenn es um Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine in Urteilsbauer und Relationsmacher geht: erstellt den p…
+5. **richterlicher-hinweis-und-aufklaerung** — Wenn es um Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen in Urteilsbauer und Relationsmac…
+6. **aktenintake-schriftsatz-brief-und-memo-bausteine** — Wenn es um Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine in Urteilsbauer und Relationsmacher geht: erstellt den p…
+7. **richterlicher-hinweis-aufklaerung** — Wenn es um Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen in Urteilsbauer und Relationsmac…
+8. **familienrichter-risikoampel-und-gegenargumente** — Wenn es um Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien in Urteilsbauer und Relationsmacher geht…
+9. **tatbestandsmerkmale-interessen-tenor-urteils** — Wenn es um Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix in Urteilsbauer und Relationsmacher geht: prüf…
+10. **familienrichter-risikoampel** — Wenn es um Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien in Urteilsbauer und Relationsmacher geht…
 
 ---
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Urteilsbauer/Relationsmacher: ordnet Rolle (Richter, Rechtspfleger, Parteien), markiert Frist (Verkündung), wählt Norm (ZPO § 313 Urteilsaufbau, Relationstechnik) und Zuständigkeit (Zivilgerichte), leitet zum passenden Spezial-Skill._
+_Wenn es um Einstieg und Routing in Urteilsbauer und Relationsmacher geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Einstieg und Routing
 
@@ -65,21 +65,22 @@ Dieser Einstieg routet **Urteilsbauer Relationsmacher** vom ersten Sachverhalt z
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting im Urteilsbauer Relationsmacher-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill ei_
+_Wenn es um Kaltstart Triage in Urteilsbauer und Relationsmacher geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Urteilsbauer Relationsmacher** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Schnellstart-Workflow
 
@@ -118,7 +119,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 
 ### 1. Intake in 60 Sekunden
 
-Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+Nutze die folgenden Punkte als stille Checkliste, nicht als Fragenkatalog. Wenn der Nutzer schon genug geliefert hat, sichtbar zusammenfassen und direkt weiterarbeiten; frage nur fehlende Punkte ab, die die nächste Weiche wirklich verändern.
 
 | Punkt | Frage | Warum wichtig? |
 |---|---|---|
@@ -301,23 +302,24 @@ Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), in
 
 ## Skill: `urteils-erstpruefung-und-mandatsziel`
 
-_Urteils: Erstprüfung, Rollenklärung und Mandatsziel._
+_Wenn es um Urteils: Erstprüfung, Rollenklärung und Mandatsziel in Urteilsbauer und Relationsmacher geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Urteils Erstpruefung Und Mandatsziel; Arbeitsfeld: Urteilsbauer und Relationsmacher._
 
 # Urteils: Erstprüfung, Rollenklärung und Mandatsziel
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Urteils Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Urteilsbauer Relationsmacher** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Normenanker
 
@@ -365,156 +367,157 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `aktenintake-zivil`
+## Skill: `urteilsbauer-aktenintake-schriftsatz-brief-memo-bausteine`
 
-_Eingehende Zivilakte vor erster Prüfung strukturieren: Richter oder Referendar erhalt neue Akte und muss Überblick gewinnen. Normen: § 313 ZPO (Urteilsinhalt), § 286 ZPO (freie Beweiswürdigung), § 139 ZPO (richterliche Hinweispflicht). Prüfraster: Klagschrift mit Anträgen, Streitwert, Sachvortrag..._
+_Wenn es um Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine in Urteilsbauer und Relationsmacher geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Urteilsbauer Aktenintake Schriftsatz Brief Memo Bausteine; Arbeitsfeld: Urteilsbauer und Relationsmacher._
 
-# Aktenintake Zivilprozess
+# Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Aktenintake Zivil** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Urteilsbauer Relationsmacher** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
-## Triage zu Beginn
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
-1. Welche Schriftsätze liegen vor — Klagschrift, Klageerwiderung, Replik, Duplik, Nachreichungen?
-2. Ist der Streitwert plausibel (Paragraf 3 ZPO, Anlage 1 GKG)? Sachliche Zuständigkeit AG oder LG?
-3. Gibt es Beweisbeschlüsse oder Protokolle früherer Verhandlungen?
-4. Liegen Sachverständigengutachten oder Zeugenaussagen vor, die auszuwerten sind?
-5. Sind Erledigungserklärungen, Widerklagen oder Aufrechnung im Akt?
+## Normenanker
 
-## Aktuelle Rechtsprechung
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
 
-## Zentrale Normen
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-- § 139 ZPO — richterliche Hinweis- und Aufklärungspflicht
-- § 296 ZPO — Zurückweisung verspäteten Vorbringens
-- § 313 ZPO — Form und Inhalt des Urteils
-- § 358 ff. ZPO — Beweisbeschluss und Beweisaufnahme
-- § 286 ZPO — freie Beweiswürdigung
+## Spezialwissen: Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine
+- **Normen-/Quellenanker:** DOCX und PDF sind Dateiformate, keine Rechtsquellen. Je nach Modul ZPO §§ 313 (Tatbestand/Entscheidungsgründe), 308, 322 (Tenor und Rechtskraft), 139 (richterlicher Hinweis), 78a (Rechtspfleger), 495a (vereinfachtes Verfahren), 511 ff. (Berufung) sowie GVG §§ 23, 71 (Zuständigkeit AG/LG), Aktenordnung des Landes und einschlägiges materielles Recht live prüfen.
 
-## 1) Bestandteile einer typischen Zivilakte
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-| Stück | Standardinhalte | Worauf zu achten |
-|---|---|---|
-| Klagschrift | Antrag, Streitwert, Sachvortrag, Beweisangebot, Anlagen | Antrag bestimmt? Streitwert plausibel? Beweisangebot zu jedem streitigen Tatsachenkomplex? |
-| Anlagenkonvolut Kläger | K1, K2, ... | Vollständigkeit, Lesbarkeit, Bezugnahme im Schriftsatz |
-| Zustellnachweis | EB, PZU | Datum, Form (elektronisch beA Paragraf 173 ZPO?), Empfangsbevollmaechtigter |
-| PKH-Antrag | mit Erklärung Paragraf 117 ZPO + Belegen | Vollständigkeit, eidesstattliche Versicherung |
-| Klageerwiderung | Klagabweisungsantrag, Sachvortrag, ggf. Widerklage | Substanziierung der Bestreitungen Paragraf 138 II ZPO |
-| Anlagenkonvolut Beklagter | B1, B2, ... | wie Kläger |
-| Replik | Erwiderung auf Klageerwiderung | neue Tatsachen vs. Vertiefung |
-| Duplik | Erwiderung auf Replik | dito |
-| Schriftsatznachreichungen | Schriftsatznachlass Paragraf 283 ZPO | Frist gewahrt? Bezug klar? |
-| Beweisbeschlüsse | nach Paragraf 358 ZPO | Beweisthema klar, Beweismittel benannt |
-| Protokolle | Paragraf 159 ZPO | Anwesenheit, Anträge, Aussagen, Vergleichsvorschlaege |
-| Sachverständigengutachten | mit Beweisthema | Prüfen: Aussagekraft, Ergänzungsbedarf Paragraf 411 ZPO |
-| Zeugenaussagen | als Protokollteil oder gesondert | Verwertbarkeit, Aussagekonstanz |
-| Hinweisbeschlüsse | Paragraf 139 ZPO | wurden Hinweise befolgt? |
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-## 2) Vorgehen Schritt-für-Schritt
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Aktenintake** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-1. **Aktenstruktur sichten.** Welche Schriftsätze liegen vor? Vollständigkeit (auch beA-Empfangsbestätigungen) prüfen.
-2. **Klagschrift lesen.** Antrag, Streitwert, Anspruchsgrundlage. Bei Mehrheit von Anträgen: Stufenklage? Eventualantrag? Teilklage?
-3. **Sachvortrag herausarbeiten.** Streitige Tatsachen vs. unstreitige Tatsachen. Beweisangebot zu jeder streitigen Tatsache?
-4. **Anlagen abgleichen.** Bezugnahmen in den Schriftsätzen mit dem Anlagen-Konvolut abgleichen. Bei Anlagen mit Inhaltsreichweite — kurz inhaltlich erfassen.
-5. **Beklagtenvortrag lesen.** Was ist bestritten? Was ist anerkannt (Paragraf 288 ZPO)? Gibt es Widerklage / Aufrechnung?
-6. **Replik und Folgeschriftsätze lesen.** Welche neuen Tatsachen sind eingeführt worden (Präklusion Paragraf 296 ZPO)?
-7. **Beschlüsse und Protokolle in zeitlicher Reihenfolge.** Was hat das Gericht bereits angeordnet? Was wurde befolgt?
-8. **Gutachten/Aussagen.** Hat das Gericht bereits Beweis erhoben? Mit welchem Ergebnis?
-9. **Hinweis- und Aufklärungsbedarf.** Was muss nach Paragraf 139 ZPO erfragt werden? Substanziierung? Beweisangebot?
+---
 
-## 3) Aktenübersicht — Tabellen-Template
+## Skill: `richterlicher-hinweis-und-aufklaerung`
 
-```
-| Nr. | Datum | Stueck | Verfasser | Bezugnahme | Bewertung |
-| --- | --------- | ------------------------------- | ------------- | ---------- | --------- |
-| 1 | 01.03.2025| Klagschrift | RA Mueller | - | schluessig vorgetragen |
-| 2 | 01.03.2025| Anlagen K1-K5 | RA Mueller | KS S. 3-7 | Lesbar, vollstaendig |
-| 3 | 12.03.2025| EB Zustellung Klagschrift | - | - | Zustellung 10.03.2025 |
-| 4 | 31.03.2025| Klageerwiderung mit Widerklage | RA Schmidt | KS S.2 | Substanziiert; Widerklage zulaessig |
-| 5 | 14.04.2025| Replik | RA Mueller | KE S.4-6 | neue Tatsache S.3 -> Paragraf 296 ZPO pruefen |
-| 6 | 15.05.2025| Hinweisbeschluss Paragraf 139 | Gericht | - | Hinweis zur Substanziierung der Hoehe |
-| 7 | 14.06.2025| Schriftsatznachreichung Klaeger | RA Mueller | HinwB | Hinweise befolgt; Frist gewahrt |
-```
+_Wenn es um Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen in Urteilsbauer und Relationsmacher geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Richterlicher Hinweis Und Aufklaerung; Arbeitsfeld: Urteilsbauer und Relationsmacher._
 
-## 4) Prüfliste für gerichtliche Pflichten
+# Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen
 
-### Substanziierung
-- [ ] Klage schlüssig? (Anspruchsgrundlage vorgetragen, Tatbestandsmerkmale dargelegt)
-- [ ] Bei Bestreiten: Substanziierung des Bestreitens Paragraf 138 II ZPO?
-- [ ] Hinweispflicht Paragraf 139 II ZPO bei rechtlich relevantem Aspekt?
+## Arbeitsweg
 
-### Präklusion
-- [ ] Neuvortrag nach Schluss der muendlichen Verhandlung Paragraf 296a ZPO?
-- [ ] Verspaeteter Vortrag im Vorverfahren Paragraf 296 ZPO?
-- [ ] Bei Berufung: Paragraf 531 ZPO Präklusion?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-### Beweisangebot
-- [ ] Beweisantritt zu jeder streitigen Tatsache?
-- [ ] Konkretes Beweismittel (Zeuge mit Anschrift, Urkunde mit Bezeichnung, Sachverständiger mit Beweisthema)?
-- [ ] Beweisbeschluss bereits ergangen oder noch erforderlich?
+## Einstieg
+Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
-### Verfahrensfragen
-- [ ] Zuständigkeit (Paragraf 1 GVG, Paragraf 23, 71 GVG bei AG/LG)?
-- [ ] Sachliche und oertliche Zuständigkeit?
-- [ ] Postulationsfähigkeit Paragraf 78 ZPO?
-- [ ] Prozessfähigkeit Paragraf 51 ZPO?
+1. Wer handelt in welcher Rolle und gegen wen?
+2. Welches praktische Ziel soll erreicht werden?
+3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
+4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
+5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
 
-## 5) Ergebnis des Intakes
+## Arbeitsworkflow
+1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
+2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
+3. **Materielle Weichen:** Die Kernfragen zu **Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
+4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
+5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
 
-Am Ende des Aktenintakes liegt vor:
+---
 
-1. **Aktenübersicht** als Tabelle (siehe oben).
-2. **Liste der unstreitigen Tatsachen** — gut für den Tatbestand.
-3. **Liste der streitigen Tatsachen** mit Beweisangeboten — gut für den Beweisbeschluss.
-4. **Liste der Rechtsfragen**, die im Streit stehen — gut für die Entscheidungsgründe.
-5. **Liste offener Hinweisfragen** Paragraf 139 ZPO — gut für den nächsten Hinweisbeschluss.
-6. **Streitwert-Vorschlag** mit Begründung.
-7. **Vergleichschancen-Bewertung** (Indizien: hoher Streitwert + überschaubare Beweisfrage + Vergleichsoffenheit der Parteien).
+## Skill: `aktenintake-schriftsatz-brief-und-memo-bausteine`
 
-## 6) Schnittstelle zu nachfolgenden Skills
+_Wenn es um Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine in Urteilsbauer und Relationsmacher geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Aktenintake Schriftsatz Brief Und Memo Bausteine; Arbeitsfeld: Urteilsbauer und Relationsmacher._
 
-- `relation-zivil` baut auf der Aktenübersicht und der Trennung streitig/unstreitig auf.
-- `tenor-bauen-zivil` braucht den Antrag aus der Klagschrift und etwaige Widerklage/Hilfsanträge.
-- `tatbestand-zivil-schreiben` übernimmt die Liste der unstreitigen Tatsachen.
-- `beschluss-bauen-zpo` braucht die offenen Hinweisfragen (für den Paragraf 139-Beschluss) und das Beweisthema (für den Beweisbeschluss).
+# Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine
 
-## 7) Typische Fehler beim Intake
+## Direktstart: lesen, entscheiden, liefern
 
-1. **Anlagen nicht abgeglichen.** Bezugnahmen im Schriftsatz auf Anlagen, die fehlen oder anders nummeriert sind. Klassischer Stolperstein.
-2. **Bezugnahmen überlesen.** Späterer Schriftsatz nimmt auf einen früheren Bezug — der dann inhaltlich übersehen wird.
-3. **Erledigungserklärungen übersehen.** Teilrelative Erledigung in einem Schriftsatz versteckt — führt zu Mehrarbeit beim Tenor.
-4. **Hilfsanträge nicht erkannt.** "Hilfsweise" wird leicht überlesen, führt zu unvollständigem Tenor.
-5. **Mahnverfahrens-Stand übersehen.** Bei Eingang nach Widerspruch ist der Mahnantrag inhaltlich die Klagschrift (Paragraf 696 ZPO).
-6. **Zustellnachweis falsch interpretiert.** Bei beA-Zustellung ist die Empfangsbestätigung des Empfängers massgeblich.
-7. **Vergleichsvorschlaege als Schriftsätze gewertet.** Vergleichsvorschlag Paragraf 278 VI ZPO ist Gerichts-Aktivität, nicht Parteivortrag.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-## 8) Praktischer Ablauf
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-Als Berichterstatter:
-- 30-90 Minuten je nach Aktenumfang einplanen
-- Aktenübersicht in einem Editor (Markdown / Excel) anlegen
-- Bei sehr großen Akten: Personen-/Rollen-Glossar zusätzlich
-- Bei sehr alten Akten: Chronologie der Eingaenge prüfen (Präklusion?)
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-## Anschluss
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
-- `relation-zivil` baut auf der Aktenübersicht auf
-- `tatbestand-zivil-schreiben` übernimmt unstreitige Tatsachen
-- `beschluss-bauen-zpo` bei Hinweisbedarf oder Beweisbeschluss
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine
+- **Normen-/Quellenanker:** DOCX und PDF sind Dateiformate, keine Rechtsquellen. Je nach Modul ZPO §§ 313 (Tatbestand/Entscheidungsgründe), 308, 322 (Tenor und Rechtskraft), 139 (richterlicher Hinweis), 78a (Rechtspfleger), 495a (vereinfachtes Verfahren), 511 ff. (Berufung) sowie GVG §§ 23, 71 (Zuständigkeit AG/LG), Aktenordnung des Landes und einschlägiges materielles Recht live prüfen.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Aktenintake** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ## Normen und Rechtsprechung
 
@@ -543,733 +546,179 @@ Als Berichterstatter:
 
 ---
 
-## Skill: `anspruchsgrundlagen-pruefen`
+## Skill: `richterlicher-hinweis-aufklaerung`
 
-_Anspruchsgrundlagen identifizieren und Prüfungsreihenfolge bestimmen: Richter oder Kandidat muss Anspruchskonkurrenz lösen. Normen: §§ 433 ff., 280 ff., 812 ff., 823 ff. BGB; HGB; CISG; GmbHG; StVG; ProdHG; IPR Rom-I/II. Prüfraster: Reihenfolge vertraglich, quasi-vertraglich, dinglich, deliktisch..._
+_Wenn es um Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen in Urteilsbauer und Relationsmacher geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Richterlicher Hinweis Aufklaerung; Arbeitsfeld: Urteilsbauer und Relationsmacher._
 
-# Anspruchsgrundlagen-Prüfung
+# Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen
 
-Identifiziert alle in Betracht kommenden Anspruchsgrundlagen und prüft sie schemamaessig.
+## Einstieg
+Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
-## Triage zu Beginn
+1. Wer handelt in welcher Rolle und gegen wen?
+2. Welches praktische Ziel soll erreicht werden?
+3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
+4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
+5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
 
-1. Welches Schuldverhältnis liegt zugrunde — Vertrag, Gesetz, Bereicherung, Delikt?
-2. Besteht Auslandsbezug — Rom-I, Rom-II, CISG anwendbar?
-3. Welche Partei trägt die Beweislast für die streitigsten Tatbestandsmerkmale?
-4. Droht Verjährung (§§ 195, 199 BGB — regelmäßig 3 Jahre ab Jahresende Kenntnis)?
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-
-- § 195, 199 BGB — Verjährung (regelmäßig 3 Jahre, Beginn mit Schluss des Jahres der Kenntnis)
-- § 280 BGB — Schadensersatz wegen Pflichtverletzung
-- § 812 BGB — ungerechtfertigte Bereicherung
-- § 823 BGB — deliktische Haftung
-- § 985, 1004 BGB — dingliche Ansprüche
-- Art. 1 ff. Rom-I, Art. 4 ff. Rom-II — IPR-Kollisionsrecht
-
-## Schritt-für-Schritt-Workflow
-
-1. **Sachverhalt scannen:** Welche Parteien, welche Rechtsbeziehung, welches Ziel des Klägers?
-2. **Anspruchsgrundlagen auflisten:** alle in Betracht kommenden in der Reihenfolge: vertraglich → quasivertraglich → dinglich → deliktisch → bereicherungsrechtlich.
-3. **Für jede AG Prüfschema:** Anwendbarkeit → Tatbestandsmerkmale (mit Beweislastverteilung) → Rechtsfolge → Einwendungen/Einreden → Verjährung.
-4. **IPR prüfen:** Falls Auslandsbezug, erst Kollisionsrecht klären, dann CISG prüfen.
-5. **Konkurrenzfragen:** Wenn mehrere AG durchgreifen, Günstigkeitsprinzip anwenden.
-
-## Output-Template
-
-**Adressat:** Richter/Berichterstatter — Tonfall: sachlich-juristisch
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-```
-## Anspruchsgrundlagen-Übersicht
-
-| Anspruchsgrundlage | Ergebnis | Hauptproblem |
-|---|---|---|
-| § 433 I BGB (Kaufpreis) | (+) | — |
-| § 823 I BGB (Körperverletzung) | prüfen | Kausalität str. |
-| § 812 I 1 BGB (Bereicherung) | (-) | Rechtsgrund vorhanden |
-
-### 1. § [AG] [Norm]
-- **Tatbestandsmerkmale:** ...
-- **Beweislast Kläger:** ...
-- **Einwendungen Beklagter:** ...
-- **Verjährung:** 3 Jahre ab [DATUM], läuft am [DATUM] ab.
-- **Ergebnis:** Anspruch besteht / besteht nicht.
-```
-
-## Reihenfolge
-
-1. **Vertraglich** (Paragraf 433 BGB, Paragraf 535 BGB, Paragraf 631 BGB usw. - CISG bei internationalem Warenkauf)
-2. **Quasivertraglich** (Paragraf 311 II BGB - culpa in contrahendo, Paragraf 280 BGB)
-3. **Dinglich** (Paragraf 985 BGB, Paragraf 1004 BGB)
-4. **Deliktisch** (Paragraf 823 ff BGB, Paragraf 7 StVG, ProdHG)
-5. **Bereicherungsrechtlich** (Paragraf 812 ff BGB)
-6. **Familien- / erbrechtlich** soweit einschlaegig
-
-## Prüfschema für jede Anspruchsgrundlage
-
-1. Anwendbarkeit (sachlich, persönlich, raeumlich, zeitlich)
-2. Tatbestandsmerkmale - bei jedem: Wer hat die Beweislast?
-3. Rechtsfolge
-4. Einwendungen (rechtshindernd, rechtsvernichtend)
-5. Einreden (durchsetzbarkeitshemmend)
-6. Verjährung (Paragraf 195 BGB, Paragraf 199 BGB, Paragraf 438 BGB usw.)
-
-## IPR
-
-Bei Auslandsbezug immer prüfen:
-- Rom-I-Verordnung (vertragliche Schuldverhältnisse)
-- Rom-II-Verordnung (außervertragliche Schuldverhältnisse)
-- CISG (Wiener UN-Kaufrecht) als materielles Einheitsrecht - geht IPR vor, soweit sachlicher Anwendungsbereich eroeffnet
-- Eingriffsnormen Artikel 9 Rom-I (Pflichtanwendung deutscher Vorschriften, z. B. DSGVO als Eingriffsnorm)
-
-## Ausgabe
-
-Pro Anspruchsgrundlage eine eigene Tabelle mit allen Tatbestandsmerkmalen.
-
-<!-- AUDIT 27.05.2026
-Geprüfte AZ (task_286):
-- BGH VI ZR 373/18 (behauptet NJW 2020, 466): NOT FOUND auf dejure.org — ersetzt durch BGH VII ZR 158/03, NJW 2005, 1423 (verifiziert auf dejure.org)
-- BGH VI ZR 395/16 (behauptet NJW 2018, 386): NOT FOUND auf dejure.org — ersetzt durch BGH VI ZR 107/08, NJW 2009, 2952 (verifiziert auf dejure.org)
-- BGH VII ZR 101/14 (behauptet NJW 2016, 560): NOT FOUND auf dejure.org — ersetzt durch BGH VII ZR 184/04, NJW 2005, 1356 (verifiziert auf dejure.org)
-Alle drei Ersatz-AZ wurden über dejure.org-Direktabfrage verifiziert.
--->
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 38 FamFG
-- § 13 GVG
-- § 137 FamFG
-- Art. 3 DSGVO
-- Art. 9 DSGVO
-- Art. 6 DSGVO
-- § 70 VwG
-- § 123 VwG
-- § 71 GVG
-- § 63 GKG
-- Art. 103 GG
-- § 111 FamFG
-
-### Leitentscheidungen
-
-- BGH VI ZR 96/11
-- BGH VI ZR 113/17
-- BGH VII ZR 213/10
-- BGH VI ZR 39/20
-- BGH VI ZR 40/20
+## Arbeitsworkflow
+1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
+2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
+3. **Materielle Weichen:** Die Kernfragen zu **Richterlicher Hinweis, Aufklärung und Parteivortrag in die Relation einbauen** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
+4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
+5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `beschluss-bauen-zpo`
+## Skill: `familienrichter-risikoampel-und-gegenargumente`
 
-_Zivilrechtliche Beschluesse erstellen: PKH, Streitwert, Beweis, Hinweis nach § 139 ZPO, Kostenfestsetzung, Versaeumnis, Erledigung. Normen: §§ 127 und 329 und 358 ff. sowie 139 und 103 ff. ZPO. Prüfraster: Unterschied Beschluss/Urteil (Begründungstiefe, Rechtsmittel), Tenor-Klarheit, Rechtsmittel..._
+_Wenn es um Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien in Urteilsbauer und Relationsmacher geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Familienrichter Risikoampel Und Gegenargumente; Arbeitsfeld: Urteilsbauer und Relationsmacher._
 
-# Beschluss bauen — Zivilprozess
+# Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien
 
-## 1) Beschluss-Typen im Überblick
+## Normenanker
 
-| Typ | Norm | Anlass | Rechtsmittel |
-|---|---|---|---|
-| PKH-Beschluss | Paragraf 114 ff. ZPO | Antrag auf Prozesskostenhilfe | sofortige Beschwerde Paragraf 127 II ZPO |
-| Verfahrenskostenhilfe Familiensachen | Paragraf 76 FamFG | VKH in FamFG-Sachen | sofortige Beschwerde Paragraf 76 II FamFG |
-| Streitwertbeschluss | Paragraf 63 GKG | Festsetzung gegen Streitwertfestsetzung | Beschwerde Paragraf 68 GKG |
-| Beweisbeschluss | Paragraf 358 ZPO | Anordnung einer Beweisaufnahme | unanfechtbar |
-| Hinweisbeschluss | Paragraf 139 ZPO | rechtliche/tatsächliche Hinweise | unanfechtbar (aber gehörtspflicht-relevant) |
-| Kostenfestsetzungsbeschluss | Paragraf 104 ZPO | Höhe der zu erstattenden Kosten | sofortige Beschwerde Paragraf 11 RPflG |
-| Saeumnisbeschluss/Versäumnisurteil ohne Verhandlung | Paragraf 331 III ZPO | schriftliches Vorverfahren | Einspruch Paragraf 338 ZPO |
-| Erledigungsbeschluss | Paragraf 91a ZPO | übereinstimmende Erledigungserklärung | sofortige Beschwerde Paragraf 91a II ZPO |
-| Anerkenntnisbeschluss bei Mahnverfahren | Paragraf 700 ZPO | Anerkenntnis nach Widerspruch | wie Urteil |
-| Vergleichsfeststellung | Paragraf 278 VI ZPO | gerichtlicher Vergleich auf Vorschlag | keiner |
-| Zurueckweisungsbeschluss Berufung | Paragraf 522 II ZPO | offensichtlich unbegründet | keiner |
-| Hinweis- und Aufklärungsbeschluss BGH | Paragraf 552a ZPO | Revision offensichtlich unbegründet | keiner |
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-## 2) Form
+- `§ 1353 Abs. 1 BGB` — eheliche Lebensgemeinschaft.
+- `§ 1360 BGB` — Familienunterhalt.
+- `§ 1565 Abs. 1 BGB` — Scheidung.
+- `§ 1570 BGB` — Betreuungsunterhalt.
+- `§ 1601 BGB` — Verwandtenunterhalt.
+- `§ 1626 Abs. 1 BGB` — elterliche Sorge.
+- `§ 1671 BGB` — Sorgerechtsuebertragung.
+- `§ 1684 BGB` — Umgangsrecht.
+- `§ 23a Abs. 1 GVG` — Familiengerichtsbarkeit.
+- `§ 113 FamFG` — Verfahrensregeln in Familienstreitsachen.
 
-### Rubrum
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-Wie beim Urteil:
-- **Aktenzeichen** in der oberen Zeile
-- **Gericht** (Amtsgericht ..., Zivilkammer ..., Landgericht ...)
-- **Parteien** mit Bezeichnung, Anschrift, Prozessbevollmaechtigte
-- Bei Mehrparteien-Beschluss alle Beteiligten
+## Arbeitsweg
 
-### Überschrift
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-`**Beschluss**` (zentriert), nicht "Urteil", nicht "Verfügung"
+## Spezialwissen: Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien
+- **Normen-/Quellenanker:** DOCX und PDF sind Dateiformate, keine Rechtsquellen. Je nach Modul ZPO §§ 313 (Tatbestand/Entscheidungsgründe), 308, 322 (Tenor und Rechtskraft), 139 (richterlicher Hinweis), 78a (Rechtspfleger), 495a (vereinfachtes Verfahren), 511 ff. (Berufung) sowie GVG §§ 23, 71 (Zuständigkeit AG/LG), Aktenordnung des Landes und einschlägiges materielles Recht live prüfen.
 
-### Tenor
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-Klar, knapp, vollstreckbar. **Imperative Form**, keine Konditionalsätze.
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-### Gründe
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Rechtsmittelbelehrung
-
-Soweit Rechtsmittel statthaft ist (Paragraf 232 ZPO Pflicht). Bei unanfechtbaren Beschlüssen optional, aber nicht schaedlich.
-
-### Unterschrift
-
-Bei Einzelrichter eine Unterschrift, bei Kammer drei. Bei Beschluss nach Paragraf 522 II ZPO drei Unterschriften der Berufungssenats-Mitglieder.
-
-## 3) Tenor-Bausteine
-
-### PKH-Beschluss
-
-```
-Dem Klaeger wird für den ersten Rechtszug Prozesskostenhilfe ohne
-Ratenzahlung bewilligt. Rechtsanwalt [Name] wird beigeordnet.
-```
-
-oder bei Teilbewilligung:
-
-```
-Dem Klaeger wird für den ersten Rechtszug Prozesskostenhilfe insoweit
-bewilligt, als er Anspruch auf Zahlung von 5.000,- EUR nebst Zinsen
-geltend macht. Im uebrigen wird der Antrag zurueckgewiesen, da
-hinreichende Erfolgsaussicht (Paragraf 114 ZPO) fehlt.
-```
-
-### Streitwertbeschluss
-
-```
-Der Streitwert wird auf 12.500,- EUR festgesetzt.
-```
-
-Bei mehreren Streitgegenständen:
-
-```
-Der Streitwert wird festgesetzt
-- für den Hauptantrag (Zahlung) auf 10.000,- EUR,
-- für den Hilfsantrag (Feststellung) auf 2.500,- EUR.
-```
-
-### Beweisbeschluss
-
-```
-Es soll Beweis erhoben werden ueber die streitige Frage,
-ob der Beklagte am 12. Juli 2024 in der Strasse [...] das vom
-Klaeger gefuehrte Fahrzeug beschaedigt hat, durch
-Vernehmung der Zeugen
-1. ... (Anschrift: ...)
-2. ... (Anschrift: ...)
-und durch Einholung eines Sachverstaendigengutachtens zur
-Hoehe des am Fahrzeug entstandenen Schadens.
-```
-
-### Hinweisbeschluss Paragraf 139 ZPO
-
-```
-Die Parteien werden auf folgende rechtliche Gesichtspunkte hingewiesen
-(Paragraf 139 II ZPO):
-1. Es bestehen Bedenken gegen die Schluessigkeit der Klage hinsichtlich
- des Vortrags zur Hoehe des Schmerzensgeldes. Der Klaeger wird
- gebeten, [...] naeher darzulegen.
-2. [...]
-Den Parteien wird Gelegenheit gegeben, hierzu binnen drei Wochen
-schriftsaetzlich Stellung zu nehmen.
-```
-
-### Kostenfestsetzungsbeschluss
-
-```
-Die vom Beklagten an den Klaeger zu erstattenden Kosten werden auf
-2.347,86 EUR festgesetzt. Hieraus sind 5 Prozentpunkte ueber dem
-Basiszinssatz seit Rechtshaengigkeit (Paragraf 104 I 2 ZPO) zu zahlen.
-```
-
-### Erledigungsbeschluss Paragraf 91a ZPO — **nur bei übereinstimmender Erledigungserklärung**
-
-Der Erledigungsbeschluss nach Paragraf 91a ZPO ergeht **nur**, wenn **beide Parteien** den Rechtsstreit übereinstimmend für erledigt erklärt haben. Er enthält **nur die Kostenentscheidung**.
-
-```
-Die Kosten des Rechtsstreits werden gegeneinander aufgehoben
-(Paragraf 91a I 1 ZPO).
-```
-
-oder z.B.
-
-```
-Die Kosten des Rechtsstreits traegt der Beklagte (Paragraf 91a I 1 ZPO).
-```
-
-> **Achtung — abgrenzende Konstellation**: Bei **einseitiger** Erledigungserklärung, der die Gegenseite **widerspricht**, ist der Streitgegenstand gewandelt zur Feststellung der Erledigung. Darüber wird **durch Urteil** entschieden (nicht durch Beschluss nach Paragraf 91a ZPO), mit Tenor "Es wird festgestellt, dass die Hauptsache erledigt ist" und voller Kostenentscheidung nach Paragraf 91 ZPO. Tenor und Urteilsbegründung gehören dann nicht in diesen Beschluss-Skill, sondern in `tenor-bauen-zivil` und `entscheidungsgruende-zivil-schreiben`.
-
-> **Weitere Abgrenzung — materielle Kostenfeststellungsklage**: Fällt der Klageanlass vor Rechtshängigkeit weg und stützt die Klägerseite die Kosten auf Verzugsschaden nach §§ 280, 286 BGB, ist das nicht bloß ein Erledigungsbeschluss. Dann geht es um einen materiell-rechtlichen Feststellungsantrag, etwa "Es wird festgestellt, dass die Beklagte die Kosten des Rechtsstreits zu tragen hat." Die Entscheidung ergeht durch Urteil oder Versäumnisurteil, nicht durch Beschluss nach § 91a ZPO. BGH, Urteil vom 18.04.2013 - III ZR 156/12, und OLG Karlsruhe, Urteil vom 20.05.2026 - 7 U 173/25, vor Verwendung anhand frei zugänglicher Fundstelle prüfen.
-
-## 4) Begründungsmuster
-
-### PKH — Erfolgsaussicht und Bedürftigkeit
-
-```
-Der Antrag hat Erfolg. Die Klage hat hinreichende Erfolgsaussicht
-(Paragraf 114 ZPO), da der Klaeger für den von ihm geltend gemachten
-Anspruch aus Paragraf 280 I, III, 281 BGB schluessig dargelegt
-hat, dass [...]. Der Klaeger ist beduerftig im Sinne des Paragraf 115 ZPO;
-seine Einkommensverhaeltnisse sind durch die eingereichte
-Erklaerung gemaess Paragraf 117 ZPO belegt. Mutwilligkeit liegt nicht vor.
-```
-
-### Streitwertbeschluss — Bewertung
-
-```
-Der Streitwert ergibt sich aus dem Wert des Hauptantrags
-(Paragraf 39 GKG). Die geltend gemachte Zahlung von 12.500,- EUR
-bildet den Streitgegenstand, da Zinsen und Nebenforderungen
-unberuecksichtigt bleiben (Paragraf 4 ZPO).
-```
-
-### Hinweis nach Paragraf 522 II ZPO
-
-```
-Der Senat beabsichtigt, die Berufung gemaess Paragraf 522 II 1 ZPO
-durch Beschluss zurueckzuweisen, da
-1. die Berufung keine Aussicht auf Erfolg hat (Paragraf 522 II 1 Nr. 1 ZPO),
-2. die Rechtssache keine grundsaetzliche Bedeutung hat (Nr. 2),
-3. die Fortbildung des Rechts oder die Sicherung einer einheitlichen
- Rechtsprechung eine Entscheidung des Berufungsgerichts nicht erfordert
- (Nr. 3) und
-4. eine muendliche Verhandlung nicht geboten ist (Nr. 4).
-
-Im einzelnen: [...]
-
-Den Parteien wird Gelegenheit zur Stellungnahme bis [Datum]
-gegeben.
-```
-
-## 5) Unterschied zum Urteil
-
-- Beschluss ergeht **ohne** muendliche Verhandlung (Paragraf 128 IV ZPO), Urteil grundsätzlich **mit** (Paragraf 128 I ZPO).
-- Begründung beim Beschluss kuerzer — aber nicht unkenntlich.
-- Rechtsmittel beim Beschluss ist meist die **sofortige Beschwerde** (Paragraf 567 ZPO, 2-Wochen-Frist), nicht die Berufung.
-- **Tatbestand entfaellt** beim Beschluss in der Regel; bei Endentscheidungen (z.B. Versäumnisbeschluss Paragraf 331 III ZPO) ist eine knappe Sachverhaltsdarstellung sinnvoll.
-- Beschlüsse können vom **Vorsitzenden allein** ergehen, soweit nicht Kammerentscheidung vorgeschrieben (Paragraf 348 ZPO Einzelrichter).
-
-## 6) Typische Fehler
-
-1. **Tenor unvollstreckbar.** Tenor muss aus sich heraus vollstreckbar sein. "Der Antrag wird teilweise zurueckgewiesen" reicht nicht — der zugesprochene Teil ist zu bezeichnen.
-2. **PKH-Beschluss ohne Beiordnung.** Bei Anwaltszwang (LG, OLG, FamG mit Anwaltszwang) muss die Beiordnung mit ausgesprochen werden (Paragraf 121 ZPO).
-3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-4. **Streitwertbeschluss zu spaet.** Festsetzung bis zur nächsten Instanz möglich, aber meist mit Urteil/Endbeschluss (Paragraf 63 II GKG).
-5. **Erledigungsbeschluss ohne Begründung der Kostenentscheidung.** Paragraf 91a ZPO verlangt billiges Ermessen; mindestens kurze Begründung der Kostenquote.
-6. **Kostenfeststellungsklage als § 91a-Beschluss fehlbehandelt.** Wenn die Klägerseite nach Zahlung vor Rechtshängigkeit auf materiell-rechtliche Kostenerstattung als Verzugsschaden umgestellt hat, muss ein Urteil über den Feststellungsantrag gebaut werden; der Rechtspfleger-Kostenfestsetzungsweg nach §§ 103, 104 ZPO kommt erst nach Kostengrundtitel.
-7. **Rechtsmittelbelehrung falsch.** Bei sofortiger Beschwerde 2 Wochen ab Zustellung; bei Einspruch gegen Versäumnisbeschluss 2 Wochen ab Zustellung; bei Beschwerde gegen Streitwertfestsetzung 6 Monate ab Festsetzung (Paragraf 68 GKG).
-8. **Unterschriften fehlen.** Bei Kammer-Beschluss alle drei Richter. Bei Verhinderung Vermerk "für den an der Unterschrift verhinderten Richter [Name] gemäß Paragraf 315 ZPO".
-
-## 7) Schnellprüfung vor Versand
-
-- [ ] Aktenzeichen korrekt?
-- [ ] Parteien vollständig bezeichnet?
-- [ ] Tenor aus sich heraus vollstreckbar?
-- [ ] Norm-Stütze für den Tenor (z.B. "Paragraf 91a I ZPO")?
-- [ ] Begründung ausreichend für das Beschwerdegericht?
-- [ ] Rechtsmittelbelehrung mit Frist und Form?
-- [ ] Unterschrift(en) vollständig?
-
-## Anschluss
-
-- `relation-zivil` — bei nachfolgender Hauptsachenentscheidung
-- `tenor-bauen-zivil` — Tenor-Werkstatt
-- `vorläufige-vollstreckbarkeit` — bei verbundenem Urteil
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Familienrichter** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `beweisbeschluss-vorbereiten`
+## Skill: `tatbestandsmerkmale-interessen-tenor-urteils`
 
-_Beweisbeschluss nach § 359 ZPO vorbereiten: Richter bestimmt Beweisaufnahme nach muendlicher Verhandlung. Normen: § 359 ZPO (Inhalt Beweisbeschluss), § 286 ZPO (Beweislast), §§ 373 ff. ZPO (Zeugen), §§ 402 ff. ZPO (Sachverständige). Prüfraster: streitige Beweistatsachen, Beweisthema, Beweismittel..._
+_Wenn es um Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tatbestandsmerkmale Interessen Tenor Urteils; Arbeitsfeld: Urteilsbauer und Relationsmacher._
 
-# Beweisbeschluss vorbereiten
+# Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix
 
-Vor der Beweisaufnahme das, was streitig und beweisbedürftig ist, förmlich festhalten.
+## Normenanker
 
-## Triage zu Beginn
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-1. Welche Tatsachen sind zwischen den Parteien streitig und entscheidungserheblich?
-2. Welche Beweismittel sind angeboten (Zeuge, Sachverständiger, Urkunde, Augenschein, Parteivernehmung)?
-3. Wer trägt die Beweislast für welche Tatsache?
-4. Ist Beweis bereits ganz oder teilweise erhoben — was steht noch aus?
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
 
-## Aktuelle Rechtsprechung
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+## Arbeitsweg
 
-## Zentrale Normen
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-- § 286 ZPO — freie richterliche Beweiswürdigung, Vollüberzeugung
-- § 358, 359 ZPO — Beweisbeschluss (Inhalt: Beweisthema, Beweismittel, Beweisführer)
-- § 373 ff. ZPO — Zeugenbeweis
-- § 402 ff. ZPO — Sachverständigenbeweis
-- § 291 ZPO — offenkundige Tatsachen (kein Beweis nötig)
-- § 280 Abs. 1 S. 2 BGB — Beweislastumkehr bei Pflichtverletzung
+## Spezialwissen: Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix
+- **Normen-/Quellenanker:** DOCX und PDF sind Dateiformate, keine Rechtsquellen. Je nach Modul ZPO §§ 313 (Tatbestand/Entscheidungsgründe), 308, 322 (Tenor und Rechtskraft), 139 (richterlicher Hinweis), 78a (Rechtspfleger), 495a (vereinfachtes Verfahren), 511 ff. (Berufung) sowie GVG §§ 23, 71 (Zuständigkeit AG/LG), Aktenordnung des Landes und einschlägiges materielles Recht live prüfen.
 
-## Schritt-für-Schritt-Workflow
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-1. **Streitige Tatsachen identifizieren:** aus der Relation oder Aktenübersicht die entscheidungserheblichen, streitigen Tatsachen auflisten.
-2. **Beweislast klären:** Grundsatz — Kläger für anspruchsbegründende, Beklagter für anspruchsvernichtende Tatsachen.
-3. **Beweismittel zuordnen:** für jede streitige Tatsache: welches Beweismittel, von wem angeboten?
-4. **Beweisbeschluss formulieren:** Beweisthema in einem Satz, Beweismittel, Beweisführer, Terminierung.
-5. **Reihenfolge festlegen:** logische Reihenfolge (z.B. erst Grundtatbestand, dann Schaden).
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-## Output-Template
-
-**Adressat:** Gerichtsinterne Notiz / Beweisbeschluss nach § 359 ZPO — Tonfall: sachlich-juristisch
-
-```
-BEWEISBESCHLUSS
-
-In Sachen [KLÄGER] ./. [BEKLAGTER] — AZ: [AKTENZEICHEN]
-
-wird Beweis erhoben über die Behauptung der [PARTEI],
-[BEWEISTHEMA IN EINEM SATZ],
-durch Vernehmung des Zeugen [NAME, ANSCHRIFT] / Einholung eines Sachverständigengutachtens
-über das Thema: [GUTACHTENTHEMA].
-
-Beweisführer: [PARTEI].
-Termin: [DATUM].
-```
-
-## Voraussetzungen
-
-1. **Streitige Tatsache** - nicht aus eigener Kenntnis des Gerichts und nicht unstreitig.
-2. **Erheblich** - kommt es auf die Tatsache für den Anspruch an?
-3. **Beweisbedürftig** - keine offenkundige Tatsache (Paragraf 291 ZPO), keine Beweislastumkehr greift.
-
-## Inhalt nach Paragraf 359 ZPO
-
-1. Streitige Tatsache(n) - Beweisthema
-2. Beweismittel (Zeuge mit Name und Adresse / Sachverständiger / Augenschein / Urkunde / Parteivernehmung)
-3. Beweisführer (welche Partei)
-4. Reihenfolge
-
-## Beweislast
-
-- Kläger trifft Beweislast für anspruchsbegründende Tatsachen.
-- Beklagter für anspruchshindernde / -vernichtende Tatsachen und für Einreden.
-- Beweislastumkehr in Spezialgesetzen (Paragraf 280 I 2 BGB, ProdHG, Paragraf 7 StVG bei Halterhaftung).
-
-## Beweismass
-
-Paragraf 286 ZPO - volle Überzeugung des Gerichts. Wahrscheinlichkeit alleine reicht nicht.
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Tatbestandsmerkmale** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-<!-- AUDIT 27.05.2026 -->
-> **Audit-Hinweis (27.05.2026):** BGH VI ZR 255/03, NJW 2005, 354 entfernt. Tatsaechliche Fundstelle NJW 2005, 354 gehoert zu BGH VI ZR 335/03 (Urt. v. 30.11.2004) — Thema: Haftungsprivileg § 828 Abs. 2 BGB bei Kind mit Kickboard gegen parkendes Fahrzeug; kein Bezug zu Anscheinsbeweis im Haftpflichtrecht. Aktenzeichen VI ZR 255/03 existiert unter dejure.org/2004,220 und betrifft Schmerzensgeld bei Persoenlichkeitsrechtsverletzung (Caroline-Tochter). Quelle: dejure.org/2004,220, dejure.org/?Text=NJW+2005,354.
-
----
-
-## Skill: `cisg-pruefen`
-
-_UN-Kaufrecht (CISG) auf Anwendbarkeit und Eingreifen prüfen: Internationaler Kaufvertrag mit Auslandsbezug und Vertragsstreit. Normen: CISG Art. 1-6 (Anwendungsbereich), Art. 25 (wesentliche Vertragsverletzung), Art. 35 (Vertragsmäßigkeit), Art. 38-39 (Untersuchungs-/Ruegeobliegenheit), Art. 49 (..._
-
-# CISG-Prüfung
-
-Das UN-Kaufrecht (Wiener Übereinkommen vom 11. April 1980 über Verträge über den internationalen Warenkauf) ist ein direkt anwendbares Einheitskaufrecht und geht dem IPR vor, soweit es eingreift.
-
-## Triage zu Beginn
-
-1. Sind beide Parteien Kaufleute mit Niederlassung in verschiedenen Vertragsstaaten des CISG?
-2. Ist der Gegenstand eine bewegliche körperliche Sache (kein Konsumkauf, keine Dienstleistung)?
-3. Haben die Parteien die Anwendung des CISG wirksam ausgeschlossen (Art. 6 CISG — ausdrücklicher Ausschluss nötig)?
-4. Welche Rügefrist gilt — ist die Rügeobliegenheit nach Art. 38, 39 CISG gewahrt?
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-
-- Art. 1 CISG — sachlicher, persönlicher, räumlicher Anwendungsbereich
-- Art. 6 CISG — Ausschluss durch Vereinbarung (muss ausdrücklich sein)
-- Art. 25 CISG — wesentliche Vertragsverletzung
-- Art. 35 CISG — Vertragsgemäßheit der Ware
-- Art. 38, 39 CISG — Untersuchungs- und Rügeobliegenheit
-- Art. 49 CISG — Aufhebungsrecht des Käufers
-- Art. 74-78 CISG — Schadensersatz und Zinsen
-
-## Schritt-für-Schritt-Workflow
-
-1. **Anwendbarkeit prüfen:** Vertragsstaaten? Warenkauf? Kein Konsumkauf? Kein wirksamer Ausschluss?
-2. **Vertragsgemäßheit prüfen (Art. 35 CISG):** War die Ware vertragsgemäß geliefert?
-3. **Rüge geprüft (Art. 38, 39 CISG):** Wurde innerhalb angemessener Frist gerügt? (Bei Fristversäumnis: Verlust der Mängelrechte.)
-4. **Wesentliche Vertragsverletzung (Art. 25 CISG):** Nur dann Vertragsaufhebung (Art. 49 CISG).
-5. **Rechtsbehelfe prüfen:** Minderung, Schadensersatz (Art. 74 ff. CISG), Zinsen (Art. 78 CISG).
-
-## Output-Template
-
-**Adressat:** Entscheidungsgründe — Tonfall: sachlich-juristisch
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-```
-## CISG-Prüfung
-
-**Anwendbarkeit:** Das CISG ist anwendbar, weil [PARTEI A] ihre Niederlassung in [STAAT A]
-und [PARTEI B] ihre Niederlassung in [STAAT B] hat, beides CISG-Vertragsstaaten (Art. 1 Abs. 1 lit. a CISG).
-Ein Ausschluss nach Art. 6 CISG liegt nicht vor. [Alternativ: CISG ausgeschlossen durch Klausel ...]
-
-**Vertragsgemäßheit (Art. 35 CISG):** Die Ware war [vertragsgemäß / nicht vertragsgemäß], weil [BEGRÜNDUNG].
-
-**Rügeobliegenheit (Art. 38, 39 CISG):** [Die Rüge erfolgte am DATUM, innerhalb angemessener Frist.
-/ Die Rüge erfolgte nicht fristgerecht, so dass Käufer seine Mängelrechte verloren hat.]
-
-**Ergebnis:** [PARTEI] hat Anspruch auf [Minderung / Schadensersatz / Aufhebung] nach Art. [NORM] CISG.
-```
-
-## Ausschluss
-
-- Artikel 6 CISG: Parteien können die Anwendung ganz oder teilweise ausschließen.
-- Wirksamer Ausschluss erfordert klare Vereinbarung. **Nicht ausreichend** ist die blosse Rechtswahl "deutsches Recht" - CISG ist Teil des deutschen Rechts. Erforderlich: ausdruecklicher Ausschluss ("unter Ausschluss des UN-Kaufrechts").
-
-## Wichtige Vorschriften
-
-- **Artikel 25 CISG** - wesentliche Vertragsverletzung
-- **Artikel 35 CISG** - Vertragsmaessigkeit der Ware
-- **Artikel 38 und 39 CISG** - Untersuchungs- und Ruegeobliegenheit; kurze Frist
-- **Artikel 49 CISG** - Aufhebung des Vertrages bei wesentlicher Vertragsverletzung
-- **Artikel 74-77 CISG** - Schadensersatz
-- **Artikel 78 CISG** - Zinsen ab Fälligkeit (Höhe nach nationalem Recht)
-
-## Kollisionsfälle
-
-Wenn die Parteien gleichzeitig deutsches und Schweizer Recht wählen (kollidierende AGB), greift in der Regel CISG, weil beide Staaten Vertragsstaaten sind und die Rechtswahl in beiden Fällen auf einen Vertragsstaat führt. Falls eine Partei den Ausschluss in ihren AGB hat und die andere nicht, ist nach der Theorie der Resstgültigkeit / Knock-out-Doktrin (Artikel 19 CISG, herrschende Meinung in Deutschland) der Ausschluss nicht wirksam vereinbart.
-
----
-
-## Skill: `dokumente-rendern-urteil-docx`
-
-_Zivilurteil als DOCX im offiziellen Gerichtslayout rendern: Richter oder Referendar will fertiges Urteil als Dokument ausgeben. Normen: § 313 ZPO (Urteilsinhalt und -form). Prüfraster: Gerichtslayout (Aktenzeichen, Gerichtsbezeichnung, IM NAMEN DES VOLKES), Parteien, Anwaelte, Spruchkoerper, Teno..._
-
-# Urteil rendern - DOCX und PDF im Gerichtslayout
-
-Erzeugt aus strukturierten Markdown-Bausteinen ein lieferfertiges Urteil im Layout deutscher Amts- und Landgerichte.
-
-## Triage zu Beginn
-
-1. Welcher Dokumenttyp soll gerendert werden — Urteil, Versäumnisurteil oder Beschluss?
-2. Welches Ausgabeformat — nur DOCX oder DOCX und PDF (LibreOffice soffice nötig)?
-3. Sind alle Eingabedateien vorhanden (rubrum.yaml, tenor.md, tatbestand.md, entscheidungsgruende.md)?
-4. Welche Tenor-Variante soll übernommen werden, wenn mehrere vorliegen?
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-
-- § 313 ZPO — Form und Inhalt des Urteils
-- § 315 ZPO — Unterschrift der Richter
-- § 317, 318 ZPO — Urteilszustellung und Bindungswirkung
-- § 319 ZPO — Berichtigung offenbarer Unrichtigkeiten
-- § 130b ZPO — elektronisches Dokument (beA-Signaturen)
-
-## Schritt-für-Schritt-Workflow
-
-1. **Wahlfragen stellen** (s. oben: Dokumenttyp, Format, Tenor-Variante).
-2. **Eingabeordner prüfen:** Alle 5 Dateien vorhanden? rubrum.yaml valide?
-3. **Render aufrufen:**
- ```bash
- python3 .../render_urteil.py eingabe/ ausgabe.docx --typ urteil --pdf
- ```
-4. **Output prüfen:** Rubrum vollständig? Tenor nummeriert? Unterschriftenzeile vorhanden?
-5. **PDF-Export:** Falls `soffice` verfügbar, PDF als zweite Datei.
-
-## Output-Template
-
-**Adressat:** Gericht / Gerichtsakte — Tonfall: formal-amtlich
-
-Das gerenderte Urteil folgt dem Layout:
-- DIN A4, Arial 11pt
-- Gerichtsbezeichnung zentriert, Aktenzeichen oben rechts kursiv
-- "Im Namen des Volkes" — "Urteil" zentriert fett
-- Tenor nummeriert, eingerückt
-- Tatbestand, Entscheidungsgründe, Rechtsmittelbelehrung, Unterschrift
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Wahlfrage vor dem Render - IMMER stellen
-
-Vor dem Rendern muss der den Nutzer fragen:
-
-1. **Dokumenttyp** Urteil oder Versäumnisurteil oder Beschluss (oder Relations-Dokument im Schul-Layout)?
-2. **Ausgabeformat** DOCX oder DOCX und PDF?
-3. **Tenor-Variante** wenn aus der Relation drei Varianten vorliegen welche soll übernommen werden?
-
-## Eingabeschema
-
-Der Eingabeordner enthält:
-
-```
-projekt/
- rubrum.yaml # Aktenzeichen, Gericht, Verkuendungsdatum, letzte muendliche Verhandlung, Spruchkoerper, Parteien, Anwaelte
- tenor.md # nummerierte Liste 1) 2) 3) ...
- tatbestand.md
- entscheidungsgruende.md
- rechtsmittelbelehrung.md # optional, wenn fehlt nimmt das Skript die Standardberufungsformel
-```
-
-## Aufrufbeispiel
-
-```bash
-### Vollurteil
-python3 urteilsbauer-relationsmacher/skills/dokumente-rendern-urteil-docx/assets/render_urteil.py \
- testakten/solis-vision-x-smartglasses/output \
- testakten/solis-vision-x-smartglasses/output/urteil.docx \
- --typ urteil --pdf
-
-### Versaeumnisurteil (ohne Tatbestand und Gruende)
-python3 .../render_urteil.py eingabe ausgabe.docx --typ versaeumnis
-
-### Beschluss
-python3 .../render_urteil.py eingabe ausgabe.docx --typ beschluss
-```
-
-Ausgabe: `Urteil-{Aktenzeichen}.docx` (und `.pdf` wenn `soffice` verfügbar).
-
-## Layout
-
-- Arial 11pt (gerichtsüblich)
-- DIN A4, Rand: links 2.5 cm, rechts 2 cm, oben/unten 2 cm
-- Aktenzeichen oben rechts kursiv klein
-- Gerichtsbezeichnung zentriert fett
-- "Im Namen des Volkes" zentriert
-- "Urteil" zentriert fett
-- Rubrum mit Parteien linksbuendig, Anträge eingerueckt
-- "hat das Amtsgericht ... für Recht erkannt:" am Ende des Rubrums
-- Tenor nummeriert 1) 2) 3) eingerueckt
-- "Tatbestand" fett, dann Fliesstext
-- "Entscheidungsgründe" fett, dann Fliesstext
-- Rechtsmittelbelehrung mit Trennung
-- Unterschriftenzeile (Richtername + Funktion)
-
-## Voraussetzungen
-
-`pip install python-docx pyyaml`. Für PDF: LibreOffice (`soffice`).
-
-<!-- AUDIT 27.05.2026 | bundle_053
-Geprüft: BGH VI ZR 559/16 (NOT_FOUND auf dejure.org)
-Ersatz: BGH I ZR 90/14, GRUR 2016, 860 (verifiziert auf dejure.org)
-Thema: § 315 ZPO Verhinderungsgrund Richterunterschrift — thematisch passend
-Hinweis: BGH V ZB 68/19 (NJW 2020, 3661) in derselben Sektion ebenfalls NOT_FOUND; nicht im Bundle-Scope, zur Nachprüfung vorgemerkt.
--->
-
----
-
-## Skill: `dsgvo-rechtswidriges-produkt`
-
-_Produkt aus dem Ausland auf DSGVO-Rechtswidrigkeit prüfen: Richter oder Anwalt muss beurteilen ob Smartglasses oder IoT-Produkt DSGVO-konform ist. Normen: Art. 3 DSGVO (räumlicher Anwendungsbereich), Art. 5 Abs. 1 lit. c (Datensparsamkeit), Art. 6 (Rechtsgrundlage), Art. 9 (biometrische Daten), A..._
-
-# DSGVO-rechtswidriges Produkt
-
-Prüfschema, wenn ein technisches Produkt aus dem Ausland nach DSGVO als rechtswidrig zu bewerten ist und der Kaeufer Rückabwicklung will.
-
-## Triage zu Beginn
-
-1. Unterliegt das Produkt dem räumlichen Anwendungsbereich der DSGVO (Art. 3 Abs. 1 oder Abs. 2 DSGVO)?
-2. Welche Kategorien personenbezogener Daten werden verarbeitet — biometrische Daten (Art. 9 DSGVO)?
-3. Werden Daten in Drittländer übermittelt ohne SCC oder anderen Mechanismus (Art. 44 ff. DSGVO)?
-4. Hat der Käufer wirksame Einwilligung erteilt oder scheidet Einwilligung aus (Art. 7 DSGVO)?
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-
-- Art. 3 DSGVO — räumlicher Anwendungsbereich (Niederlassungs- und Marktortprinzip)
-- Art. 6 DSGVO — Rechtsgrundlagen für Verarbeitung
-- Art. 7 DSGVO — wirksame Einwilligung
-- Art. 9 DSGVO — besondere Kategorien (biometrische Daten, Gesundheitsdaten)
-- Art. 44 ff. DSGVO — Drittlandübermittlung (SCC, Angemessenheitsbeschluss)
-- Art. 82 DSGVO — Schadensersatz (materiell und immateriell)
-- § 134 BGB — Nichtigkeit bei Verstoß gegen Verbotsgesetz
-
-## Schritt-für-Schritt-Workflow
-
-1. **Anwendbarkeit DSGVO prüfen (Art. 3):** Niederlassungsprinzip oder Marktortprinzip.
-2. **Verarbeitungsarten inventarisieren:** Welche Daten werden vom Produkt verarbeitet?
-3. **Rechtsgrundlage prüfen (Art. 6, 7, 9):** Für jede Verarbeitungsart.
-4. **Drittlandübermittlung (Art. 44 ff.):** SCC vorhanden? Angemessenheitsbeschluss?
-5. **Privatrechtliche Konsequenzen:** Nichtigkeit § 134 BGB? Sachmangel § 434 BGB? CISG Art. 35?
-6. **Schadensersatz (Art. 82 DSGVO):** Materiell und immateriell — konkreten Schaden darlegen.
-
-## Output-Template
-
-**Adressat:** Entscheidungsgründe — Tonfall: sachlich-juristisch
-
-```
-
-## DSGVO-Prüfung
-
-**Anwendbarkeit Art. 3 DSGVO:** Ja, weil [Niederlassungsprinzip / Marktortprinzip: Produkt
-richtet sich an Personen in der EU].
-
-**Verarbeitungsarten:** [Produkt X] verarbeitet [DATENART, z.B. biometrische Daten nach Art. 9 DSGVO].
-
-**Rechtsgrundlage Art. 6 DSGVO:** Keine wirksame Rechtsgrundlage, weil [BEGRÜNDUNG].
-
-**Folge:** [Sachmangel § 434 BGB / Nichtigkeit § 134 BGB / Schadensersatz Art. 82 DSGVO].
-```
-
-## Prüfstationen
-
-### A - Anwendbarkeit der DSGVO
-
-- Art. 3 Abs. 1 DSGVO: Niederlassungsprinzip
-- Art. 3 Abs. 2 DSGVO: Marktortprinzip - Anbieten von Waren oder Dienstleistungen an Personen in der Union ODER Verhaltensbeobachtung in der Union
-- DSGVO ist Eingriffsnorm im Sinne Art. 9 Rom-I (deutsche Gerichte wenden sie auch dann an, wenn das Vertragsstatut ausländisch ist)
-
-### B - Verstöße prüfen
-
-1. **Art. 5 Abs. 1 DSGVO** - Grundsätze (Rechtmäßigkeit, Treu und Glauben, Transparenz, Zweckbindung, Datenminimierung, Richtigkeit, Speicherbegrenzung, Integritaet, Rechenschaftspflicht)
-2. **Art. 6 DSGVO** - Rechtsgrundlage
-3. **Art. 7 DSGVO** - Einwilligung (informiert, freiwillig, widerrufbar)
-4. **Art. 9 DSGVO** - besondere Kategorien (Gesundheits-, biometrische Daten)
-5. **Art. 13 und 14 DSGVO** - Informationspflichten
-6. **Art. 22 DSGVO** - automatisierte Entscheidung im Einzelfall
-7. **Art. 25 DSGVO** - privacy by design und by default
-8. **Art. 32 DSGVO** - Sicherheit der Verarbeitung
-9. **Art. 44 ff DSGVO** - Datenübermittlung in Drittlaender
-
-### C - Folgen für den Privatrechtsstreit
-
-- Verstoß gegen ein Verbotsgesetz (Art. 6 DSGVO i. V. m. nationaler Norm)? -> Nichtigkeit nach Paragraf 134 BGB?
-- Sachmangel im Sinne Paragraf 434 BGB i. V. m. Art. 6 ProduktsicherheitsVO 2023?
-- Mangel im Sinne Art. 35 CISG (Vertragsmaessigkeit)?
-
-## Smartglasses und Wearables - typische Verstöße
-
-- heimliche Aufzeichnung Dritter ohne deren Wissen (Verletzung Persönlichkeitsrecht aller in der Umgebung)
-- Live-Streaming der Kameraperspektive ohne Hinweis-LED
-- Gesichtserkennung in Echtzeit
-- Datenübertragung in Drittlaender ohne SCC oder anderen Mechanismus
-
-## Im Urteil
-
-Im Tatbestand auf das Gutachten verweisen. In den Entscheidungsgründen konkret die verletzten DSGVO-Artikel benennen und subsumieren.
-
-<!-- AUDIT 27.05.2026 -->
-<!-- BGH VI ZR 39/20 (claimed: DSGVO-Versto\u00dfe Schadensersatz Art. 82, NJW 2021, 3041): NOT_FOUND auf dejure.org. NJW 2021, 3041 gehoert zu BGH VI ZR 40/20 (VW-Abgasskandal §826 BGB) – thematisch unverwandt. Eintrag geloescht. DSGVO-Schadensersatz wird durch bereits vorhandene EuGH-Zitate C-300/21 und C-340/21 abgedeckt. -->
+## Skill: `familienrichter-risikoampel`
+
+_Wenn es um Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien in Urteilsbauer und Relationsmacher geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Familienrichter Risikoampel; Arbeitsfeld: Urteilsbauer und Relationsmacher._
+
+# Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1353 Abs. 1 BGB` — eheliche Lebensgemeinschaft.
+- `§ 1360 BGB` — Familienunterhalt.
+- `§ 1565 Abs. 1 BGB` — Scheidung.
+- `§ 1570 BGB` — Betreuungsunterhalt.
+- `§ 1601 BGB` — Verwandtenunterhalt.
+- `§ 1626 Abs. 1 BGB` — elterliche Sorge.
+- `§ 1671 BGB` — Sorgerechtsuebertragung.
+- `§ 1684 BGB` — Umgangsrecht.
+- `§ 23a Abs. 1 GVG` — Familiengerichtsbarkeit.
+- `§ 113 FamFG` — Verfahrensregeln in Familienstreitsachen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Spezialwissen: Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien
+- **Normen-/Quellenanker:** DOCX und PDF sind Dateiformate, keine Rechtsquellen. Je nach Modul ZPO §§ 313 (Tatbestand/Entscheidungsgründe), 308, 322 (Tenor und Rechtskraft), 139 (richterlicher Hinweis), 78a (Rechtspfleger), 495a (vereinfachtes Verfahren), 511 ff. (Berufung) sowie GVG §§ 23, 71 (Zuständigkeit AG/LG), Aktenordnung des Landes und einschlägiges materielles Recht live prüfen.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Familienrichter** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

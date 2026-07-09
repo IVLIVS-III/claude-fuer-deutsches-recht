@@ -5,17 +5,17 @@ description: "Wenn es um Forderung gegen GmbH-Gesellschafter in Forderungsmanage
 
 # Forderung gegen GmbH-Gesellschafter
 
-Ausgangslage: GmbH zahlt nicht, Forderung steht. Frage: kann der Gesellschafter persoenlich in Anspruch genommen werden?
+Ausgangslage: GmbH zahlt nicht, Forderung steht. Frage: kann der Gesellschafter persönlich in Anspruch genommen werden?
 
 ## Grundsatz Trennungsprinzip Paragraf 13 Abs. 2 GmbHG
 
-GmbH haftet **allein mit ihrem Gesellschaftsvermoegen**. Gesellschafter haftet **nicht** persoenlich für Schulden der Gesellschaft. Das Stammkapital ist als Mindesthaftsumme (Paragraf 5 Abs. 1 GmbHG: 25.000 EUR; UG 1 EUR).
+Die GmbH haftet allein mit ihrem Gesellschaftsvermögen. Der Gesellschafter haftet nicht persönlich für Schulden der Gesellschaft. Das Stammkapital ist nur Mindesthaftsumme, nicht Zugriffsmöglichkeit des Gläubigers auf Privatvermögen.
 
 ## Ausnahmen – wann haftet der Gesellschafter doch?
 
 ### 1. Paragraf 19 GmbHG Einlagepflicht (Differenzhaftung)
 
-Gesellschafter haftet auf Erbringung der **gezeichneten Einlage**, soweit nicht vollstaendig geleistet:
+Der Gesellschafter haftet auf Erbringung der gezeichneten Einlage, soweit nicht vollständig geleistet:
 | Tatbestand | Norm | Folge |
 |---|---|---|
 | Ausstehende Einlage | Paragraf 19 Abs. 1 GmbHG | Anspruch GmbH auf Volleinzahlung |
@@ -33,26 +33,26 @@ Klage: GmbH (in Insolvenz: Insolvenzverwalter) klagt gegen Gesellschafter.
 | Verstoss gegen Kapitalerhaltung | Rückforderungsanspruch GmbH |
 | Verjährung | 10 Jahre Paragraf 31 Abs. 5 GmbHG |
 
-Wirtschaftlicher Hintergrund: GmbH darf bei drohendem Unterschreiten des Stammkapitals nicht an Gesellschafter ausschuetten.
+Wirtschaftlicher Hintergrund: Die GmbH darf bei drohendem Unterschreiten des Stammkapitals nicht an Gesellschafter ausschütten.
 
 ### 3. Existenzvernichtender Eingriff (Haftung wegen Paragraf 826 BGB)
 
-**BGH II ZR 256/02 Trihotel** und **II ZR 3/04 Bremer Vulkan**:
-- Gesellschafter haftet **deliktisch nach Paragraf 826 BGB**, wenn er der GmbH planmaessig betriebsnotwendiges Vermögen entzieht und damit die Existenz der GmbH gefaehrdet.
+BGH, Urteil vom 16.07.2007 - II ZR 3/04 (Trihotel) und BGH, Urteil vom 17.09.2001 - II ZR 178/99 (Bremer Vulkan):
+- Gesellschafter haftet deliktisch nach Paragraf 826 BGB, wenn er der GmbH planmäßig betriebsnotwendiges Vermögen entzieht und damit die Existenz der GmbH gefährdet.
 - Schadensersatz an die GmbH (nicht direkt an Gläubiger).
 - In der Insolvenz: Anspruch des Insolvenzverwalters; ohne Insolvenz Pfaendung des Anspruchs der GmbH.
 
 ### 4. Materielle Unterkapitalisierung
 
-BGH abgelehnt als eigenen Haftungstatbestand (BGH II ZR 256/02). Nur über Paragraf 826 BGB / existenzvernichtenden Eingriff.
+Eine bloße materielle Unterkapitalisierung trägt keinen freien Durchgriffstatbestand. Die Linie läuft über Paragraf 826 BGB, namentlich den existenzvernichtenden Eingriff, oder über konkrete Kapitalerhaltungs- und Einlageansprüche.
 
-### 5. Sittenwidrige vorsaetzliche Schaedigung Paragraf 826 BGB
+### 5. Sittenwidrige vorsätzliche Schädigung Paragraf 826 BGB
 
-Wenn Gesellschafter direkt den Gläubiger taeuscht (Bonitaetstaeuschung, Eingehungsbetrug). Klage des Gläubigers gegen den Gesellschafter persoenlich.
+Wenn der Gesellschafter direkt den Gläubiger täuscht, etwa durch Bonitätstäuschung oder Eingehungsbetrug, kann eine persönliche Klage aus Paragraf 826 BGB in Betracht kommen.
 
 ### 6. Persoenliche Buergschaft, Schuldbeitritt, Garantie
 
-Vertraglicher Haftungsgrund, hat nichts mit GmbH-Recht zu tun. Prüfung Form (Paragraf 766 BGB Schriftform Buergschaft, ausser kaufmaennische Buergschaft Paragraf 350 HGB).
+Vertraglicher Haftungsgrund, hat nichts mit GmbH-Recht zu tun. Prüfung Form: Paragraf 766 BGB Schriftform Bürgschaft, außer kaufmännische Bürgschaft nach Paragraf 350 HGB.
 
 ### 7. Haftung Geschäftsführer (nicht Gesellschafter, aber oft personenidentisch)
 
@@ -66,7 +66,7 @@ Vertraglicher Haftungsgrund, hat nichts mit GmbH-Recht zu tun. Prüfung Form (Pa
 
 ### 8. Strohmanngeschaeft / Treuhand
 
-Wenn Gesellschafter wirtschaftlich agiert und GmbH nur Mantel ist: gerichtliche Wertung "Strohmanngeschaeft", direkte Haftung. Sehr enger Anwendungsbereich.
+Wenn der Gesellschafter wirtschaftlich agiert und die GmbH nur Mantel ist: gerichtliche Wertung "Strohmanngeschäft", direkte Haftung. Sehr enger Anwendungsbereich.
 
 ### 9. Gesellschafterdarlehen Paragraf 39 Abs. 1 Nr. 5 InsO
 
@@ -139,5 +139,5 @@ Es wird beantragt:
 - BGB Paragraf 826 [gesetze-im-internet.de/bgb/__826.html](https://www.gesetze-im-internet.de/bgb/__826.html)
 - InsO Paragraf 15a Insolvenzverschleppung [gesetze-im-internet.de/inso/__15a.html](https://www.gesetze-im-internet.de/inso/__15a.html)
 - InsO Paragrafen 129-147 Anfechtung [gesetze-im-internet.de/inso/__129.html](https://www.gesetze-im-internet.de/inso/__129.html)
-- BGH II ZR 256/02 Trihotel [bundesgerichtshof.de](https://www.bundesgerichtshof.de)
-- BGH II ZR 3/04 Bremer Vulkan [bundesgerichtshof.de](https://www.bundesgerichtshof.de)
+- BGH, Urteil vom 16.07.2007 - II ZR 3/04 (Trihotel) [bundesgerichtshof.de](https://www.bundesgerichtshof.de)
+- BGH, Urteil vom 17.09.2001 - II ZR 178/99 (Bremer Vulkan) [bundesgerichtshof.de](https://www.bundesgerichtshof.de)

@@ -101,11 +101,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 07.05.2014 - IV ZR 76/11: Versicherungsbedingungen sind aus Sicht eines durchschnittlichen Versicherungsnehmers auszulegen.
 - BGH, Urteil vom 25.05.2016 - IV ZR 205/15: Rücktritt wegen Anzeigepflichtverletzung verlangt saubere Risikofragen und Belehrung.
 - BGH, Urteil vom 18.07.2018 - IV ZR 68/17: Leistungsfreiheit setzt konkrete vertragliche Obliegenheit und Rechtsfolgenbelehrung voraus.
-- Wichtige Linie (Stand Mai 2026): Bedingungen, die Versicherungsschutz auf Bürotätigkeit mit ] 90 % Schreibtischanteil begrenzen, sind intransparent und benachteiligend (BGH IV. ZS, st. Rspr. — konkrete
 - BGH IV ZR 153/20, Urt. v. 14.7.2021 — Versicherungsfall BU: Eintritt erst nach Ablauf des sechs-monatigen Prognosezeitraums. Quelle: juris.bundesgerichtshof.de
 - BGH IV ZR 19/18, Urt. v. 26.6.2019 — Vergleichsverweisung; tatsächlich erzieltes Einkommen ist nicht ohne Weiteres auf Vergleichszeitpunkt fortzuschreiben. Quelle: juris.bundesgerichtshof.de
 - BGH IV ZR 32/24, Urt. v. 12.3.2025 — Krankentagegeldversicherung: einseitige Tagessatz-Herabsetzung durch Klauselersetzung nach Paragraf 164 Abs. 1 VVG unzulässig; Bedeutung auch für Bedingungswechsel
 - BGH IV ZR 70/25, 2025 — PKV-Beitragsanpassung: Begründung der Beitragsanpassung muss konkrete Rechnungsgrundlage benennen; sonst Rückforderung. Quelle: juris.bundesgerichtshof.de (Volltext vor Versand
+- BGH IV ZR 86/24, Urt. v. 15.10.2025 — PKV-Beitragsanpassung; Prüfungsmaßstab. Quelle: bundesgerichtshof.de (Volltext-Verifikation Pflicht)
 
 ## 9. Prüfraster
 

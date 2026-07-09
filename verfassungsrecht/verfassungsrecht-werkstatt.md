@@ -101,10 +101,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BVerfG, Beschluss vom 14.02.1973 - 1 BvR 112/65: Soraya staerkt Persönlichkeitsrecht und richterliche Rechtsfortbildung.
 - BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a.: Volkszaehlung entwickelt informationelle Selbstbestimmung.
 - BVerfG, Beschluss vom 24.05.2006 - 2 BvR 669/04: Verhaeltnismaessigkeit verlangt legitimen Zweck, Geeignetheit, Erforderlichkeit und Angemessenheit.
-- BVerfG, Beschluss vom 15.01.1958, 1 BvR 400/51 (Lüth) — Wechselwirkungslehre
-- BVerfG, Urteil vom 11.06.1958, 1 BvR 596/56 (Apothekenurteil) — Drei-Stufen-Theorie der Berufsfreiheit
 - BVerfG, Beschluss vom 23.09.2025, 1 BvR 2284/23 (Triage II) — Schutzpflicht und Art. 3 Abs. 3 Satz 2 GG
-- BVerfG, Beschluss vom 15.01.1958, 1 BvR 400/51 (Lüth) — Drittwirkung und Wechselwirkungslehre
 - BVerfG, Beschluss vom 24.03.2021, 1 BvR 2656/18 u. a. (Klimabeschluss) — intertemporale Freiheitssicherung
 
 ## 9. Prüfraster

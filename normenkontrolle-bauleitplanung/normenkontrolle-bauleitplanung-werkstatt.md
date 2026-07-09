@@ -120,11 +120,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BVerwG, Urteil vom 25.06.2014 - 4 CN 4.13: Eine Festsetzung braucht eine passende Rechtsgrundlage im BauGB-Festsetzungskatalog oder in zugelassenem Landesrecht.
 - BVerwG, Beschluss vom 20.06.2017 - 4 BN 30.16: BauGB Paragraf 13a setzt eine echte Maßnahme der Innenentwicklung voraus.
 - BVerwG, Urteil vom 25.06.2020 - 4 CN 5.18: Das beschleunigte Verfahren verlangt eine eigenständige Prüfung der Innenentwicklungsqualität.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BVerwG, Urteil vom 12.12.1969 – 4 C 105.66
 - BVerwG, Urteil vom 12.12.1969 – 4 C 105.66 (Vier-Stufen-Lehre)
 - BVerwG, Urteil vom 5.7.1974 – 4 C 50.72 (Abwägungsausfall)
 - BVerwG, Urteil vom 9.4.2008 – 4 CN 1.07 (Ermittlungspflicht Paragraf 2 Abs. 3)
+- BVerwG, Urteil vom 22.9.2010 – 4 CN 2.10 (Offensichtlichkeit)
 
 ## 9. Prüfraster
 

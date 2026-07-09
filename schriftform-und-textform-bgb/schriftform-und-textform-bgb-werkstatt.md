@@ -48,7 +48,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Amtlicher Formkern BGB/ZPO | Paragraf 125 BGB; BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Amtlicher Formkern BGB/ZPO | Paragraf 125 BGB; ArbG Berlin, Urt. v. 28.09.2021 - 36 Ca 15296/20 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Paragraf 812 Abs. 1 S. 1 BGB | Fristenblatt oder Prozess-/Verfahrensroute |
 | Begründetheit | Anschluss-Routing | Paragraf 812 Abs. 1 S. 1 BGB; LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
@@ -69,11 +69,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| ArbG Berlin, Urt. v. 28.09.2021 - 36 Ca 15296/20 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Elektronische Signatur ohne qualifiziertes Zertifikat genügt Paragraf 14 Abs. 4 TzBfG nicht; Paragraf 16 TzBfG ordnet |
 | LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eingescannte Unterschrift genügt nicht; die formgerechte Erklärung muss dem Arbeitnehmer vor Arbeitsaufnahme vorliegen |
+| ArbG Gera, Urt. v. 07.03.2024 - 2 Ca 936/23 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Echte qES beider Parteien kann Paragraf 14 Abs. 4 TzBfG wahren; maßgeblich ist das qualifizierte Zertifikat, nicht der |
 | LAG Berlin-Brandenburg, Urt. v. 16.03.2022 – Az. 23 Sa 1133/21 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | gescannte Unterschrift unter Befristungsabrede wahrt Paragraf 14 Abs. 4 TzBfG nicht. Quelle |
-| (LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | (LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21) |
-| und LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21, | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | und LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21, |
+| ArbG Berlin, Urt. v. 28.09.2021 - 36 Ca 15296/20 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | ein nur elektronisch unterzeichneter befristeter Arbeitsvertrag wahrt Paragraf 14 Abs. 4 TzBfG nicht, wenn |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -90,11 +90,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 8. Leitentscheidungen
 
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
+- ArbG Berlin, Urt. v. 28.09.2021 - 36 Ca 15296/20: Elektronische Signatur ohne qualifiziertes Zertifikat genügt Paragraf 14 Abs. 4 TzBfG nicht; Paragraf 16 TzBfG ordnet die Unbefristetheit an
 - LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21: Eingescannte Unterschrift genügt nicht; die formgerechte Erklärung muss dem Arbeitnehmer vor Arbeitsaufnahme vorliegen
+- ArbG Gera, Urt. v. 07.03.2024 - 2 Ca 936/23: Echte qES beider Parteien kann Paragraf 14 Abs. 4 TzBfG wahren; maßgeblich ist das qualifizierte Zertifikat, nicht der bloße Einsatz eines Signaturtools
 - LAG Berlin-Brandenburg, Urt. v. 16.03.2022 – Az. 23 Sa 1133/21 — gescannte Unterschrift unter Befristungsabrede wahrt Paragraf 14 Abs. 4 TzBfG nicht. Quelle
-- (LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21)
-- und LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21,
+- ArbG Berlin, Urt. v. 28.09.2021 - 36 Ca 15296/20 — ein nur elektronisch unterzeichneter befristeter Arbeitsvertrag wahrt Paragraf 14 Abs. 4 TzBfG nicht, wenn das verwendete Signatursystem keine
 
 ## 9. Prüfraster
 

@@ -101,11 +101,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 10.05.2016 - II ZR 342/14: Gesellschafterliste und Legitimationswirkung sind für GmbH-Rechte zentral.
 - BGH, Urteil vom 20.09.2011 - II ZR 234/09: Beschlussmängel in der GmbH folgen eigenstaendiger gesellschaftsrechtlicher Dogmatik.
 - BGH, Urteil vom 26.01.2009 - II ZR 260/07: Treuepflichten begrenzen gesellschaftsrechtliche Rechtsausübung.
-- Normenradar: Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt. - Rechtsprechungsanker: BGH, 21.04.1997 - II ZR 175/95
-- Rechtsprechungsanker: BGH, 21.04.1997 - II ZR 175/95 für Organpflichten; BGH, 20.11.2018 - II ZR 12/17 für Gesellschafterlisten. Weitere Entscheidungen nur mit frei prüfbarer Quelle
 - BGH II ZR 17/19 (Earn-Out-Klauseln, Kontrolle)
 - BGH II ZR 280/14 (Gewährleistungsausschluss share deal)
 - BGH II ZR 109/13 (W&I-Versicherung, Sale and Purchase)
+- EuGH C-93/13 P (FKVO-Verfahren)
+- BGH II ZR 71/11 (Auskunftsrechte Datenraum)
 
 ## 9. Prüfraster
 

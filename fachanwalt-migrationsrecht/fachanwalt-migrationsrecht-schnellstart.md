@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | VwGO-Klage gegen ausländerbehördliche Bescheide; Paragraf 60 Abs. 5 AufenthG; Paragraf 123 VwGO |
-| Rechtsprechung | Dublin-III; Verifizierte Rechtsprechungsanker |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Prüfe Abschiebehaft Paragraf 62 AufenthG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -55,8 +55,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 71 AsylG — Asylfolgeantrag bei neuen Wiederaufgreifensgründen (Paragraf 51 VwVfG): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 6 GG / Art. 8 EMRK — Familienschutz als inlandsbezogenes Vollstreckungshindernis: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 920 Abs. 2 ZPO iVm Paragraf 123 Abs. 3 VwGO durch beigefuegte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Dublin-III: EuGH, Urt. v. 05.03.2026 — C-458/24 (Daraa) — Zuständigkeit geht nach Ablauf 6-Monatsfrist (Art. 29 Abs. 2 Dublin-III-VO) auf ersuchenden Mitgliedstaat über, wenn Überstellung an den primär
-- Verifizierte Rechtsprechungsanker: BVerwG, Urteil vom 13.12.2023 - 1 C 34.22 und BVerwG, Urteil vom 18.12.2025 - 1 C 27.24 zur Identitätsklärung/Stufenmodell im Einbürgerungsrecht; BVerwG, Urteil
 
 ## 7. Antwortform
 

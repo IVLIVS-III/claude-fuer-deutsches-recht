@@ -58,8 +58,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 56 BGB: mindestens sieben Mitglieder zur Eintragung; im laufenden Verein dürfen bis auf drei Mitglieder fallen (sonst Auflösung Paragraf 73 BGB): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
 - BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
-- Cloud-Dienste: Datenschutz-Grundverordnung Art. 28 Auftragsverarbeitungsvertrag mit dem Anbieter; bei US-Anbietern Standardvertragsklauseln (SCC) und Transfer Impact Assessment nach EuGH "Schrems II"
-- Politische Tätigkeit: gemeinnützige Vereine müssen politisch zurückhaltend agieren; klare Linie zur Lobbyarbeit ziehen (BFH-Linie zu Attac, BFH X R 7/16, Urteil v. 10.01.2019)
 
 ## 7. Antwortform
 

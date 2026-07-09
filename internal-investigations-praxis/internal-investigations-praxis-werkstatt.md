@@ -50,7 +50,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- | --- |
 | Fallkern | Bilanzierungsunregelmäßigkeiten und Accounting-Forensik | Paragraf 321 HGB; BAG, Urt. v. 23.10.2008 – 2 AZR 483/07 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Paragraf 331 HGB, Paragraf 400 AktG | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Kaltstart Internal Investigation | Paragraf 331 HGB, Paragraf 400 AktG; Außerordentliche Kündigung bei Verdacht auf schwerwiegende | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Kaltstart Internal Investigation | Paragraf 331 HGB, Paragraf 400 AktG; BAG, Urt. v. 23.10.2008 – 2 AZR 483/07 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,17 +63,13 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | Paragraf 242 BGB | allgemeine Treuepflicht aus dem Arbeitsverhältnis | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Paragraf 666 BGB | Auskunftspflicht für Tätigkeiten, die der Mitarbeiter für den Arbeitgeber ausgeführt hat | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Paragraf 611a BGB i. V. m. Arbeitsvertrag | Pflicht zur Unterstützung bei betriebsinternen Untersuchungen, soweit dies zumutbar ist | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
-| Paragraf 383 ZPO | Zeugnisverweigerung wegen Angehörigeneigenschaft (gesetze-im-internet.de) – für interne Interviews nur | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Paragraf 107 Abs. 3 S. 4 AktG | Ausschussvorsitzender berichtet dem Aufsichtsrat über die Tätigkeit des Ausschusses | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
 | BAG, Urt. v. 23.10.2008 – 2 AZR 483/07 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Kündigung wegen Aussageverweigerung kann unverhältnismäßig sein, wenn berechtigte Selbstbelastungsgefahr besteht |
-| Außerordentliche Kündigung bei Verdacht auf schwerwiegende Straftaten, auch ohne vollständige | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Außerordentliche Kündigung bei Verdacht auf schwerwiegende Straftaten, auch ohne vollständige Sachverhaltsaufklärung |
-| BGH II ZR 234/09 (Siemens/Neubürger) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Vorstandsmitglied hat persönliche Aufklärungspflicht (openjur.de) |
-| Pflicht zur Einleitung einer Untersuchung bei konkretem Verdacht (BGH II ZR 234/09, openjur.de) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Pflicht zur Einleitung einer Untersuchung bei konkretem Verdacht (BGH II ZR 234/09, openjur.de) |
-| Ist externe anwaltliche Unabhängigkeit gewährleistet (Attorney-Client Privilege / Anwaltsgeheimnis, ggf | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ist externe anwaltliche Unabhängigkeit gewährleistet (Attorney-Client Privilege / Anwaltsgeheimnis, ggf. nach EuGH Akzo |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -85,16 +81,12 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 242 BGB: allgemeine Treuepflicht aus dem Arbeitsverhältnis: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 666 BGB: Auskunftspflicht für Tätigkeiten, die der Mitarbeiter für den Arbeitgeber ausgeführt hat: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 611a BGB i. V. m. Arbeitsvertrag: Pflicht zur Unterstützung bei betriebsinternen Untersuchungen, soweit dies zumutbar ist: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 383 ZPO: Zeugnisverweigerung wegen Angehörigeneigenschaft (gesetze-im-internet.de) – für interne Interviews nur mittelbar relevant: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 53 StPO: Zeugnisverweigerungsrecht von Berufsgeheimnisträgern (Anwalt, Arzt, Steuerberater) – relevant, wenn Dritte hinzugezogen werden (gesetze-im-internet.de): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 107 Abs. 3 S. 4 AktG: Ausschussvorsitzender berichtet dem Aufsichtsrat über die Tätigkeit des Ausschusses: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 116 AktG i. V. m. Paragraf 93 AktG: Aufsichtsratsmitglieder haften wie Vorstandsmitglieder bei schuldhafter Pflichtverletzung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
 - BAG, Urt. v. 23.10.2008 – 2 AZR 483/07: Kündigung wegen Aussageverweigerung kann unverhältnismäßig sein, wenn berechtigte Selbstbelastungsgefahr besteht
-- Außerordentliche Kündigung bei Verdacht auf schwerwiegende Straftaten, auch ohne vollständige Sachverhaltsaufklärung (BAG-Rechtsprechung zur Verdachtskündigung, z. B. BAG, Urt. v. 21.11.2013 – 2 AZR
-- BGH II ZR 234/09 (Siemens/Neubürger): Vorstandsmitglied hat persönliche Aufklärungspflicht (openjur.de)
-- Pflicht zur Einleitung einer Untersuchung bei konkretem Verdacht (BGH II ZR 234/09, openjur.de)
-- Ist externe anwaltliche Unabhängigkeit gewährleistet (Attorney-Client Privilege / Anwaltsgeheimnis, ggf. nach EuGH Akzo Nobel, C-550/07 P, curia.europa.eu)?
 
 ## 9. Prüfraster
 

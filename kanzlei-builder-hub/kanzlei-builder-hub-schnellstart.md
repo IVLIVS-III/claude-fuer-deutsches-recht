@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Paragraf 43a BRAO; Paragraf 43e BRAO — Dienstleister-Regelung; Paragraf 43a Abs. 2 BRAO |
-| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Tragende Normen verifizieren: BRAO Paragrafen 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -55,7 +55,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 43a Abs. 2 BRAO (Verschwiegenheit; Sicherheit eingesetzter Werkzeuge): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 50 BRAO (Aktenführung; Versionsprotokollierung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 50 BRAO — Pflicht zur Aktenführung; jede Statusänderung eines installierten Skills ist als Teil der Kanzleiorganisation zu protokollieren: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 7. Antwortform
 

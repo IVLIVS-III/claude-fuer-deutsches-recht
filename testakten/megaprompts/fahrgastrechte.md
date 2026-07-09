@@ -1,44 +1,45 @@
-# Megaprompt: fahrgastrechte
+# Vollprüfung: fahrgastrechte
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt alle 13 Skills des Plugins `fahrgastrechte`.
+Dieser Vollprüfung enthaelt alle 13 Skills des Plugins `fahrgastrechte`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Fahrgastrechte-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wu…
-2. **anlagen-bauen** — Baut aus den Belegen eines Fahrgastrechte-Mandats ein beA-konformes Anlagenkonvolut. Verwendet zum bestehenden Schriftsa…
-3. **db-ablehnungsgruende-pruefen** — Katalog typischer Ablehnungsgruende des DB-Servicecenters Fahrgastrechte mit Gegenargumenten und Pinpoint auf Art. 18 un…
-4. **einfuehrung-vo-2021-782** — Einfuehrung VO (EU) 2021/782 Fahrgastrechte Eisenbahn. Anwendungsbereich Art. 2 (auch SPNV mit Ausnahmen § 2 EVO), Begri…
-5. **entschaedigung-berechnen** — Berechnet die Entschaedigung nach Art. 19 VO (EU) 2021/782. Zwei Stufen 25 Prozent (ab 60 Minuten Endziel-Verspaetung) u…
-6. **forderung-an-db-erste-stufe** — Erstes Forderungsschreiben an das DB-Servicecenter Fahrgastrechte. Erfasst Anspruchsteller (alle Reisenden mit Vollmacht…
-7. **klage-amtsgericht-fahrgast** — Klageentwurf zum Amtsgericht in Fahrgastrechte-Angelegenheiten. Sachliche Zuständigkeit § 23 Nr. 1 GVG bei Streitwert bi…
-8. **schlichtung-reise-verkehr-anrufen** — Schlichtungsantrag bei der Schlichtungsstelle Reise & Verkehr e.V. (vormals söp) nach erfolgloser Reklamation beim Eisen…
-9. **ticket-und-reisedaten-erfassen** — Erfasst die Falldaten aus hochgeladenen Tickets Buchungsbestaetigungen Reservierungen Foto-Belegen für Fahrgastrechte-Ma…
-10. **verspaetung-und-anschlussverlust-einordnen** — Ordnet das Stoerungsereignis rechtlich ein: Verspaetung (Art. 19 VO 2021/782 bei mindestens 60 Min Endziel), Zugausfall …
-11. **vollmacht-mitreisende** — Erzeugt Vollmachten für Mitreisende (Familienmitglieder Freunde Reisegruppe) damit ein Hauptansprechpartner deren Fahrga…
-12. **widerspruch** — Erstellt einen formellen Widerspruchsbrief gegen die Ablehnung eines Fahrgastrechte-Antrags der Deutschen Bahn oder eine…
-13. **eigenbefoerderung-und-betreuung-art-18** — Prüfraster für Selbstbefoerderung des Fahrgasts (Art. 18 Abs. 3 Unterabs. 2 VO 2021/782 mit 100-Minuten-Frist) und Hilfe…
+1. **kaltstart-triage** — Wenn es um Kaltstart Triage in Fahrgastrechte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fach…
+2. **db-ablehnungsgruende-pruefen** — Wenn es um Katalog der DB-Ablehnungsgründe und Gegenargumente in Fahrgastrechte geht: erstellt den passenden Entwurf aus…
+3. **klage-amtsgericht-fahrgast** — Wenn es um Klage zum Amtsgericht (Fahrgastrechte) in Fahrgastrechte geht: erstellt den passenden Entwurf aus Sachverhalt…
+4. **eigenbefoerderung-und-betreuung-art-18** — Wenn es um Eigenbeförderung und Betreuung (Art. 18. 20 VO; Paragraf 11 EVO) in Fahrgastrechte geht: prüft Frist, Form, Z…
+5. **widerspruch** — Wenn es um Fahrgastrechte-Widerspruch — Skill in Fahrgastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, No…
+6. **anlagen-bauen** — Wenn es um Fahrgastrechte — Anlagen bauen in Fahrgastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, …
+7. **einfuehrung-vo-2021-782** — Wenn es um Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn in Fahrgastrechte geht: prüft Frist, Form, Zuständigke…
+8. **verspaetung-und-anschlussverlust-einordnen** — Wenn es um Verspätung, Zugausfall oder Anschlussverlust einordnen in Fahrgastrechte geht: prüft Frist, Form, Zuständigke…
+9. **ticket-und-reisedaten-erfassen** — Wenn es um Ticket- und Reisedaten erfassen in Fahrgastrechte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderunge…
+10. **schlichtung-reise-verkehr-anrufen** — Wenn es um Schlichtungsstelle Reise & Verkehr e.V. anrufen in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rec…
+11. **forderung-an-db-erste-stufe** — Wenn es um Forderungsschreiben — Erste Stufe in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sof…
+12. **vollmacht-mitreisende** — Wenn es um Vollmacht für Mitreisende in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßna…
+13. **entschaedigung-berechnen** — Wenn es um Entschädigung berechnen in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahm…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting im Fahrgastrechte-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenstaendig:..._
+_Wenn es um Kaltstart Triage in Fahrgastrechte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fahrgastrechte** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Schnellstart-Workflow
 
@@ -77,7 +78,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 
 ### 1. Intake in 60 Sekunden
 
-Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+Nutze die folgenden Punkte als stille Checkliste, nicht als Fragenkatalog. Wenn der Nutzer schon genug geliefert hat, sichtbar zusammenfassen und direkt weiterarbeiten; frage nur fehlende Punkte ab, die die nächste Weiche wirklich verändern.
 
 | Punkt | Frage | Warum wichtig? |
 |---|---|---|
@@ -240,140 +241,9 @@ Das Plugin deckt den vollständigen Mandatsablauf ab: vom Erfassen der Ticket- u
 
 ---
 
-## Skill: `anlagen-bauen`
-
-_Baut aus den Belegen eines Fahrgastrechte-Mandats ein beA-konformes Anlagenkonvolut. Verwendet zum bestehenden Schriftsatz (Forderungsschreiben Widerspruch Schlichtungsantrag Klage) die Belege Buchungsbestaetigung E-Ticket Verspaetungsbestaetigung Foto Anzeigetafel App-Screenshots Belege zu Ausla..._
-
-# Fahrgastrechte — Anlagen bauen
-
-## Eingaben
-
-```yaml
-schriftsatz: <pfad zum Schriftsatz, z.B. widerspruch-2026-05-15.md>
-rohbelege_verzeichnis: <fall>/belege/
-ausgabeverzeichnis: <fall>/anlagen/
-bundle: true                       # erzeugt zusätzlich Schriftsatz_mit_Anlagen.pdf
-schriftgrad_stempel: 12
-schrift_stempel: Arial-Bold        # Arial 12 FETT oben rechts
-bezeichnung: "Anlage K"
-```
-
-## Workflow
-
-### 1. Schriftsatz parsen
-
-Liest den Schriftsatz und identifiziert alle erwähnten Anlagen anhand der Bezeichnung `Anlage K 1`, `Anlage K 2`, ... oder `Anlage K1`, `Anlage K2`. Erstellt geordnete Liste in Reihenfolge der Erwähnung im Text.
-
-### 2. Rohbelege zuordnen
-
-Verzeichnis `belege/` durchsuchen und jedem Anlage-K-Eintrag eine Datei zuordnen. Typische Belege im Fahrgastrechte-Kontext:
-
-| Anlage typisch | Datei-Pattern | Beschreibung |
-|---|---|---|
-| K1 | `buchung-*.pdf` | Buchungsbestätigung der DB / des EVU |
-| K2 | `e-ticket-*.pdf` oder `fahrkarten-*.pdf` | E-Tickets / Fahrkarten aller Reisenden |
-| K3 | `verspaetung-*.png` oder `db-navigator-*.png` | DB-Verspätungsmitteilung (App / SMS / E-Mail) |
-| K4 | `anzeigetafel-*.jpg` | Foto Anzeigetafel Zielbahnhof mit Uhrzeit |
-| K5 | `belege-auslagen/*.pdf` | Belege zu Ersatzbeförderung / Verpflegung / Hotel |
-| K6 | `erstantrag-*.pdf` | Eigener Erstantrag an DB Servicecenter |
-| K7 | `ablehnung-*.pdf` | Ablehnungsschreiben der DB |
-| K8 | `widerspruch-*.pdf` | Eigener Widerspruch (in Klage relevant) |
-| K9 | `schlichtungsspruch-*.pdf` | Schlichtungsspruch der Schlichtungsstelle Reise & Verkehr |
-| K10 ff. | `vollmacht-*.pdf` | Vollmachten der Mitreisenden |
-
-Wenn eine erwähnte Anlage nicht zugeordnet werden kann: **Prüfer-Flag** mit Liste der unzugeordneten Bezugnamen.
-
-### 3. Belege konvertieren und stempeln
-
-Jeden Rohbeleg in PDF konvertieren (HEIC / JPG / PNG / DOCX / XLSX → PDF). Auf jedem Anlagen-PDF oben rechts in **Arial 12 FETT** (Helvetica-Bold 12pt) den Bezeichner stempeln:
-
-```
-                                                                    Anlage K 1
-[Inhalt]
-```
-
-Dateibenennung: ohne Umlaute und Leerzeichen — `Anlage_K_1.pdf`, `Anlage_K_2.pdf`, … gemäß beA-Konvention.
-
-### 4. Sammel-PDF optional
-
-Wenn `bundle: true`: Sammel-PDF `Schriftsatz_mit_Anlagen.pdf` erzeugen — Schriftsatz vorne, Anlagen in nummerierter Reihenfolge mit Lesezeichen je Anlage. Nützlich für Akteneintrag und Sicht-Backup.
-
-### 5. Ausgabe
-
-Im `ausgabeverzeichnis/`:
-
-- `Anlage_K_1.pdf`, `Anlage_K_2.pdf`, … (separate Anlagen-PDFs für beA-Upload)
-- `Schriftsatz_mit_Anlagen.pdf` (Sammel-PDF, wenn bundle: true)
-- `anlagen-uebersicht.md` (Tabelle Anlage K → Datei → Beschreibung; Fehlen-Hinweise)
-
-## beA-Konvention
-
-- Anlagen werden im beA als **separate PDFs** eingereicht.
-- Jeweils mit Stempel oben rechts in **Arial 12 FETT**.
-- **Dateiname** ohne Umlaute, ohne Leerzeichen: `Anlage_K_1.pdf`.
-- **Reihenfolge** muss der Erwähnung im Schriftsatz entsprechen.
-- Sammel-PDF zusätzlich für eigenes Aktenexemplar (nicht für beA-Upload).
-
-## Foto-Belege bei DB-Verspätung — besondere Hinweise
-
-- **Foto Anzeigetafel:** Uhrzeit muss erkennbar sein. Bei mehreren Anzeigetafeln nur die maßgebliche (Zielbahnhof). Datum eines Tages-Vergleichs ggf. durch EXIF-Daten ergänzen.
-- **DB-Navigator-Screenshot:** möglichst mit Verbindungsdetails-Seite, die geplante und tatsächliche Ankunftszeit zeigt.
-- **Ablehnungsschreiben:** alle Seiten in einer PDF (auch Rückseiten / Anlagen des Schreibens).
-- **Vollmachten:** Originale-Scans hoher Qualität. Beidseitige Unterschriften bei sorgeberechtigten Eltern eines Minderjährigen.
-
-## Fehlerquellen
-
-- Schriftsatz erwähnt `Anlage K5`, im Belege-Verzeichnis fehlt die zugehörige Datei → Skript bricht ab; Prüfer-Flag.
-- Doppelte Anlage K-Nummerierung im Schriftsatz → Fehlermeldung; manueller Eingriff.
-- HEIC-Dateien iOS → automatische Konvertierung; bei OCR-Bedarf Hinweis.
-- Mehrseitige Anlage in mehreren Dateien (z.B. Ablehnungsschreiben S. 1 separat) → Pre-Merge in eine Datei vor Stempelung.
-
-## Ausgabe-Beispiel
-
-```
-anlagen-uebersicht.md
-============================
-Fall: FGR-2026-0042
-Schriftsatz: widerspruch-2026-05-15.md
-Erzeugte Anlagen:
-
-| Anlage   | Datei                       | Beschreibung                          | Status |
-|----------|-----------------------------|----------------------------------------|--------|
-| Anlage K 1 | Anlage_K_1.pdf             | Buchungsbestätigung PNR ABC123          | ok      |
-| Anlage K 2 | Anlage_K_2.pdf             | E-Tickets Mueller (3 Personen)          | ok      |
-| Anlage K 3 | Anlage_K_3.pdf             | DB-Navigator Verspätungsmitteilung       | ok      |
-| Anlage K 4 | Anlage_K_4.pdf             | Foto Anzeigetafel Muenchen Hbf 15:05   | ok      |
-| Anlage K 5 | Anlage_K_5.pdf             | Kassenbon Bahnhofs-Imbiss 12,50 EUR    | ok      |
-| Anlage K 6 | Anlage_K_6.pdf             | Erstantrag an DB Servicecenter           | ok      |
-| Anlage K 7 | Anlage_K_7.pdf             | Ablehnungsschreiben DB vom 12.05.2026    | ok      |
-
-Sammel-PDF: Schriftsatz_mit_Anlagen.pdf erzeugt (28 Seiten, 4.2 MB).
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 13 DSGVO
-- § 71 GVG
-- § 32 VSBG
-- § 23 VSBG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
----
-
 ## Skill: `db-ablehnungsgruende-pruefen`
 
-_Katalog typischer Ablehnungsgruende des DB-Servicecenters Fahrgastrechte mit Gegenargumenten und Pinpoint auf Art. 18 und 19 und 20 VO (EU) 2021/782 sowie EVO und DB-Befoerderungsbedingungen. Behandelt andere Verbindung als gebucht; Verspaetung unter 60 Minuten; hoehere Gewalt; Antrag verspaetet;..._
+_Wenn es um Katalog der DB-Ablehnungsgründe und Gegenargumente in Fahrgastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
 # Katalog der DB-Ablehnungsgründe und Gegenargumente
 
@@ -581,589 +451,18 @@ Diesen Katalog vor jedem Widerspruchsschreiben durchgehen — den konkret im Abl
 - Übergabe an Skill `fahrgastrechte-widerspruch` zur Brief-Erstellung
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `einfuehrung-vo-2021-782`
-
-_Einfuehrung VO (EU) 2021/782 Fahrgastrechte Eisenbahn. Anwendungsbereich Art. 2 (auch SPNV mit Ausnahmen § 2 EVO), Begriffsbestimmungen Art. 3 (Verspaetung Ankunft Anschluss Zeitfahrkarte), Verzichtsverbot Art. 7, Durchgangsfahrkarten Art. 12, Erstattung und Weiterreise Art. 18 (100-Minuten-Frist..._
-
-# Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn
-
-## Rechtsquellen
-
-- **VO (EU) 2021/782** vom 29. April 2021 — Neufassung, in Kraft seit 7. Juni 2023, ersetzt VO (EG) 1371/2007. ABl. L 172 vom 17.5.2021, S. 1. [eur-lex.europa.eu (CELEX 32021R0782)](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32021R0782).
-- **EVO 2023** — Eisenbahnverkehrs-Verordnung vom 4. August 2023 (BGBl. 2023 I Nr. 208). Ergänzt die EU-VO für deutsche Eisenbahnverkehrsunternehmen, insbesondere im SPNV.
-
-## Anwendungsbereich (Art. 2 VO; § 2 EVO)
-
-### Wer ist erfasst?
-
-| Verkehr | EU-VO 2021/782 | Einschränkungen (D) |
-|---|---|---|
-| Fernverkehr (ICE, IC, EC, FlixTrain) | voll | keine |
-| Regionalverkehr (RE, RB) — SPNV | weitgehend | § 2 EVO: Art. 20 Abs. 2 lit. a, 29, 30 Abs. 1 Satz 1, 9 Abs. 2 ausgenommen/modifiziert |
-| Stadt-/Vorortverkehr (S-Bahn, U-Bahn) | von DE ausgenommen | Nationale Regelung (vorrangig Tarifbedingungen) |
-| Historisch / touristisch | nur Art. 13, 14 | § 2 Abs. 2 EVO |
-
-### Wer ist passivlegitimiert?
-
-Anspruchsgegner ist das **ausführende Eisenbahnverkehrsunternehmen (EVU)** — Art. 19 Abs. 1 VO 2021/782. Bei DB-Tickets:
-
-- **DB Fernverkehr AG** (ICE, IC, EC) — Stephensonstraße 1, 60326 Frankfurt am Main
-- **DB Regio AG** (RE, RB im Auftrag der Bundesländer) — Stephensonstraße 1, 60326 Frankfurt am Main
-- Konkurrenzanbieter mit eigener PNR: **ÖBB-Personenverkehr AG** (Wien), **FlixTrain GmbH** (München), **NWB Nordwestbahn**, **Vlexx**, **Abellio**, **Transdev**, **Go-Ahead** etc.
-- Bei DB-Konkurrenz-Ticket im DB-Vertriebssystem (z.B. NWB-Strecke via bahn.de gebucht): **NWB als Operating EVU passivlegitimiert**, DB nur als Vermittler.
-
-### Begriffe (Art. 3 VO)
-
-- **Verspätung (Nr. 17):** Zeitdifferenz zwischen planmäßiger und tatsächlicher / erwarteter Ankunft am Zielbahnhof.
-- **Ankunft (Nr. 18):** Türöffnung am Bahnsteig — nicht Halt des Zuges.
-- **Durchgangsfahrkarte (Nr. 9):** Fahrkarte über mehrere aufeinander folgende Dienste als einheitlicher Beförderungsvertrag.
-- **Verpasster Anschluss (Nr. 20):** Folge einer Verspätung / eines Ausfalls innerhalb einer Durchgangsfahrkarte.
-
-## Schwellen und Beträge (Art. 19)
-
-### Entschädigung
-
-| Verspätung am Zielort | Anteil Fahrpreis |
-|---|---|
-| 60–119 Minuten | **25 %** |
-| ≥ 120 Minuten | **50 %** |
-
-**Mindestauszahlung:** 4 EUR pro Fahrkarte (Art. 19 Abs. 8). EVU darf Beträge darunter ablehnen.
-
-**Bezugsgröße:** tatsächlich gezahlter Fahrpreis für den verspäteten Verkehrsdienst. Bei Hin- und Rückfahrt-Ticket: halber Preis als Bezugsgröße. Bei Einzelstrecken-Aufteilung: anteiliger Preis.
-
-**Zeitfahrkarten (Abs. 2):** Pauschale nach Tarifbestimmungen — siehe `references/db-tarif-und-agb.md`:
-
-- BahnCard 100: 10 EUR (60 Min) / 20 EUR (120 Min)
-- Deutschlandticket: 1,50 EUR pro Verspätung ab 60 Min, höchstens 25 % des Monatspreises
-- Wochen-/Monatskarten: anteilig analog Deutschlandticket
-
-### Erstattung / Weiterreise (Art. 18)
-
-**Auslöser:** Vernünftig erwartete Verspätung am Zielort ≥ 60 Min, verpasster Anschluss, Zugausfall.
-
-**Wahlrecht:**
-
-a) Erstattung des vollen Fahrpreises (ggf. mit Rückbeförderung)
-b) Weiterreise mit nächster Gelegenheit (geänderte Streckenführung möglich)
-c) Weiterreise zu späterem Zeitpunkt
-
-**Eigenständige Beförderung (Art. 18 Abs. 3 Unterabs. 2):** Wenn Bahn **nicht binnen 100 Minuten** nach planmäßiger Abfahrt Weiterreise-Optionen mitteilt, darf Fahrgast eigene Verträge schließen (Taxi, Bus, anderer Bahn-Anbieter). EVU erstattet notwendige, angemessene und zumutbare Kosten.
-
-**Bearbeitungsfrist Erstattung:** binnen 30 Tagen (Art. 18 Abs. 5).
-
-### Hilfeleistung (Art. 20)
-
-Bei Verspätung von Abfahrt oder Ankunft um **60 Minuten und mehr** kostenlos:
-
-- Mahlzeiten und Erfrischungen in angemessenem Verhältnis (sofern verfügbar oder herbeischaffbar)
-- Hotelunterkunft + Transport zwischen Bahnhof und Hotel bei notwendiger Übernachtung
-- Transport bei Stillstand auf der Strecke
-
-Wenn DB die Hilfeleistung nicht erbringt: Fahrgast darf selbst kaufen, EVU erstattet (analog Art. 18 Abs. 3 Unterabs. 2 i.V.m. § 11 Abs. 2 EVO für SPNV).
-
-## Befreiungstatbestände (Art. 19 Abs. 10)
-
-EVU ist befreit, wenn Verspätung, verpasster Anschluss oder Zugausfall direkte Folge von oder im untrennbaren Zusammenhang mit folgenden Umständen war:
-
-a) **außerhalb des Eisenbahnbetriebs liegende außergewöhnliche Umstände** — Extremwetter, große Naturkatastrophen, schwere Gesundheitskrisen;
-b) **Verschulden des Fahrgasts**;
-c) **Verhalten eines Dritten** — Betreten der Gleise, Kabeldiebstahl, Notfälle im Zug, Strafverfolgungsmaßnahmen, Sabotage, Terrorismus.
-
-**Ausdrücklich nicht befreiend (Art. 19 Abs. 10 Unterabs. 2):**
-
-> "Streiks des Personals des Eisenbahnunternehmens, Handlungen oder Unterlassungen eines anderen Unternehmens, das dieselbe Eisenbahninfrastruktur nutzt, und Handlungen oder Unterlassungen der Infrastrukturbetreiber und Bahnhofsbetreiber fallen nicht unter die Ausnahme nach Unterabsatz 1 Buchstabe c."
-
-**Praxisrelevant:**
-
-- DB-Personalstreiks (GDL, EVG) — bleiben entschädigungspflichtig.
-- DB Netz AG Störungen / Signalstörungen / Bauarbeiten — als Handlungen / Unterlassungen der Infrastrukturbetreiber NICHT befreiend.
-- Andere EVUs auf gleicher Strecke (z.B. Güterverkehr blockiert ICE-Strecke) — Handlungen anderer Unternehmen NICHT befreiend.
-- Wettergrund nur, wenn extrem und nicht vorhersehbar.
-
-## Verzichtsverbot (Art. 7)
-
-Vertragsbedingungen, die direkt oder indirekt die Rechte aus der VO aufheben oder einschränken, sind **für den Fahrgast nicht verbindlich**.
-
-→ DB-Tarife dürfen nur **erweitern** (z.B. Sparpreis-Zugbindungsaufhebung ab 20 Min) — niemals beschränken (z.B. "Sparpreise haben keine Entschädigungsansprüche" ist unwirksam).
-
-## Beschwerde und Schlichtung
-
-**Art. 27 VO:** Beschwerderecht beim EVU binnen **drei Monaten** (Verfahrensfrist, nicht materielle Ausschlussfrist). EVU antwortet binnen einem Monat, in begründeten Fällen binnen drei Monaten.
-
-**§ 15 EVO:** Schlichtungsstelle. In Deutschland: **Schlichtungsstelle Reise & Verkehr e.V.** (vormals söp), Fasanenstraße 81, 10623 Berlin. Anerkannt nach §§ 4 ff. VSBG. Kostenfrei für Verbraucher. Voraussetzung: vorgerichtlich erfolglose Reklamation; keine anhängige Klage.
-
-## Verjährung
-
-§ 195 BGB: drei Jahre. § 199 Abs. 1 BGB: Beginn am Schluss des Kalenderjahres, in dem der Anspruch entstand und der Verbraucher Kenntnis hatte.
-
-**Beispiel:** Verspätung am 12.05.2026 → Verjährung mit Ablauf 31.12.2029.
-
-## Gerichtsstand
-
-- **Brüssel-Ia Art. 7 Nr. 1 lit. b** + § 29 ZPO — Erfüllungsort: Abfahrts- oder Zielbahnhof (Fahrgast hat Wahlrecht).
-- Subsidiär §§ 12, 17 ZPO — Sitz der DB Fernverkehr AG / DB Regio AG (Frankfurt am Main) oder Konzern (DB AG Berlin).
-- Sachliche Zuständigkeit: § 23 Nr. 1 GVG (10.000 EUR Schwelle seit 01.01.2026) Amtsgericht; darüber Landgericht mit Anwaltszwang (§ 78 ZPO).
-
-## Praxis-Schwellen Übersicht
-
-| Frage | Schwelle | Norm |
-|---|---|---|
-| Wann Entschädigung 25 %? | ≥ 60 Min Verspätung am Zielort | Art. 19 Abs. 1 lit. a VO |
-| Wann Entschädigung 50 %? | ≥ 120 Min Verspätung am Zielort | Art. 19 Abs. 1 lit. b VO |
-| Wann Hilfeleistung (Verpflegung, Hotel)? | ≥ 60 Min | Art. 20 VO |
-| Wann Wahlrecht Erstattung/Weiterreise? | ≥ 60 Min prognostiziert | Art. 18 Abs. 1 VO |
-| Wann Eigenbeförderung erlaubt? | DB schweigt > 100 Min ab planmäßiger Abfahrt | Art. 18 Abs. 3 Unterabs. 2 VO |
-| Wann Sparpreis-Zugbindung aufgehoben? | > 20 Min prognostiziert | Ziffer 9 BB DB |
-| Wann SPNV-Alternativzug (§ 11 EVO)? | ≥ 20 Min prognostiziert am Zielort | § 11 Abs. 1 Nr. 1 EVO |
-| Wann SPNV-Taxi/Bus (§ 11 EVO)? | Ankunft 0–5 Uhr + ≥ 60 Min, oder letzte Verbindung Tag | § 11 Abs. 1 Nr. 2 EVO |
-| Höchstbetrag SPNV-Ersatzbeförderung? | 120 EUR | § 11 Abs. 2 EVO |
-| Mindestbetrag Entschädigung? | 4 EUR pro Fahrkarte | Art. 19 Abs. 8 VO |
-| Verjährung Anspruch? | 3 Jahre ab Jahresende | §§ 195, 199 Abs. 1 BGB |
-| Beschwerdefrist EVU (Verfahren)? | 3 Monate | Art. 27 VO |
-| Bearbeitungsfrist Erstattung DB? | 30 Tage | Art. 18 Abs. 5 VO |
-| Bearbeitungsfrist Entschädigung DB? | 1 Monat | Art. 19 Abs. 7 VO |
-| AG-Zuständigkeit Streitwert? | bis 10.000 EUR | § 23 Nr. 1 GVG n.F. |
-
-## Ausgabe
-
-Bei Einsatz dieses Skills als Antwort auf eine Mandanten- oder Praxisfrage:
-
-1. Kurze Einordnung der Frage in das System der VO 2021/782 / EVO.
-2. Verweis auf konkrete Norm mit Schwelle.
-3. Hinweis auf passenden Folge-Skill aus diesem Plugin.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
----
-
-## Skill: `entschaedigung-berechnen`
-
-_Berechnet die Entschaedigung nach Art. 19 VO (EU) 2021/782. Zwei Stufen 25 Prozent (ab 60 Minuten Endziel-Verspaetung) und 50 Prozent (ab 120 Minuten). DB-Tarif-Pauschalen für BahnCard 100 (10 oder 20 EUR), Deutschlandticket (1.50 EUR mit Monatsdeckel 25 Prozent), Zeitkarten (anteilig). Pro Reise..._
-
-# Entschädigung berechnen
-
-## Norm
-
-Art. 19 VO (EU) 2021/782 — Entschädigung in zwei Stufen:
-
-| Stufe | Verspätung am Zielort | Anteil Fahrpreis |
-|---|---|---|
-| 1 | 60–119 Minuten | **25 %** |
-| 2 | ab 120 Minuten | **50 %** |
-
-**Mindestauszahlung:** 4 EUR pro Fahrkarte (Art. 19 Abs. 8). EVU darf Beträge darunter ablehnen.
-
-**Bezugsgröße:** Tatsächlich entrichteter Fahrpreis. Bei Hin- und Rückfahrt-Beförderungsvertrag: halber Fahrpreis als Bezug (Art. 19 Abs. 3 Satz 2). Bei Verspätung auf nur einer Teilstrecke: anteiliger Preis.
-
-## Berechnungsweg
-
-### Schritt 1: Ticketart bestimmen
-
-| Ticketart | Bezugsgröße | Besonderheit |
-|---|---|---|
-| Flexpreis | gezahlter Preis | volle Fahrgastrechte; keine Zugbindung |
-| Sparpreis | gezahlter Preis | volle Fahrgastrechte; Zugbindung ab 20 Min aufgehoben |
-| Super Sparpreis | gezahlter Preis | dito |
-| BahnCard 100 | DB-Tarif-Pauschale | 10 EUR (60 Min) / 20 EUR (120 Min) |
-| Deutschlandticket | DB-Tarif-Pauschale | 1,50 EUR pro Vorfall, max. 25 % Monatspreis |
-| Zeitkarte (Monat/Jahr) | DB-Tarif-Pauschale | anteilig analog Deutschlandticket |
-| BahnCard 25 / BahnCard 50 | gezahlter ermäßigter Preis | volle Fahrgastrechte auf ermäßigter Basis |
-
-### Schritt 2: Endziel-Verspätung in Minuten
-
-Maßgeblich: tatsächliche Ankunftszeit (Türöffnung, Art. 3 Nr. 18 VO) minus planmäßige Ankunftszeit am gebuchten Endziel.
-
-### Schritt 3: Stufe wählen
-
-- 60–119 Min → 25 %
-- ≥ 120 Min → 50 %
-
-### Schritt 4: Pro Reisendem berechnen
-
-Art. 19 VO ist persönlich. Pro Fahrkarte eigener Anspruch. Bei 3 Reisenden mit gleichem Ticketpreis: 3 × Einzelanspruch.
-
-### Schritt 5: Mindestbetrag prüfen
-
-Liegt der Einzelanspruch unter 4 EUR (Art. 19 Abs. 8): DB darf ablehnen. **Praxistipp:** Beträge in Verspätungs-Antrag zusammenfassen — bei Mehrpersonen-Familien rechnerisch über 4 EUR pro Antrag, auch wenn Einzelposition darunter.
-
-### Schritt 6: Nebenforderungen (separat zur Entschädigung)
-
-- **Erstattung / Hilfsleistung Auslagen** (Art. 18 Abs. 5; Art. 20 VO): Verpflegung, Hotel, Transport. Belege vorlegen.
-- **Eigenständige Beförderung** (Art. 18 Abs. 3 Unterabs. 2): Wenn DB nicht binnen 100 Min nach planmäßiger Abfahrt Alternativen mitgeteilt hat — notwendige, angemessene und zumutbare Kosten.
-- **SPNV-Sonderfall § 11 Abs. 2 EVO:** bis 120 EUR für Taxi/Bus bei Nachtfahrt 0–5 Uhr oder letzter Verbindung.
-- **Verzugszinsen** ab Mahnung (§§ 286, 288 BGB) — Verbraucher 5 Prozentpunkte über Basiszinssatz.
-
-## Beispielberechnungen
-
-### Beispiel 1: Sparpreis Fernverkehr, 105 Min Verspätung, 3 Reisende
-
-```
-Ticket: Sparpreis, 79,00 EUR pro Person
-Verspätung am Zielort: 105 Min → Stufe 1 (25 %)
-Pro Person: 79,00 × 25 % = 19,75 EUR
-3 Reisende: 3 × 19,75 = 59,25 EUR
-Mindestbetrag 4 EUR — überschritten.
-Endbetrag: 59,25 EUR Entschädigung
-```
-
-### Beispiel 2: Flexpreis, 130 Min Verspätung, 1 Reisender
-
-```
-Ticket: Flexpreis, 152,00 EUR
-Verspätung am Zielort: 130 Min → Stufe 2 (50 %)
-Berechnung: 152,00 × 50 % = 76,00 EUR
-Endbetrag: 76,00 EUR Entschädigung
-```
-
-### Beispiel 3: Sparpreis Hin- und Rückfahrt, Verspätung nur Hinfahrt
-
-```
-Ticket: Sparpreis Hin- und Rückfahrt 158,00 EUR (=2 × 79,00 EUR rechnerisch je Strecke)
-Bezugsgröße Hinfahrt nach Art. 19 Abs. 3 Satz 2: halber Fahrpreis = 79,00 EUR
-Verspätung Hinfahrt: 90 Min → Stufe 1 (25 %)
-Entschädigung: 79,00 × 25 % = 19,75 EUR
-```
-
-### Beispiel 4: BahnCard 100
-
-```
-Verspätung am Zielort: 75 Min
-DB-Tarif-Pauschale (TBP § 7): 10 EUR
-Endbetrag: 10 EUR
-```
-
-### Beispiel 5: Deutschlandticket
-
-```
-Verspätung am Zielort: 80 Min (Regio Berlin–Cottbus)
-DB-Tarif-Pauschale: 1,50 EUR
-Monatsdeckel (25 % von 58 EUR = 14,50 EUR) — noch nicht erreicht
-Endbetrag: 1,50 EUR
-Hinweis: Bei reinem SPNV kommt § 11 EVO kumulativ hinzu, wenn Voraussetzungen erfüllt.
-```
-
-### Beispiel 6: Wochenkarte (50 EUR, 5 Tage Gültigkeit, Verspätung 70 Min)
-
-```
-Tagespreis: 50 / 5 = 10 EUR
-Stufe 1: 25 %
-Entschädigung: 10 × 25 % = 2,50 EUR
-Mindestbetrag 4 EUR — nicht erreicht. DB kann ablehnen.
-Praxis: mit Wochenkarte mehrere Verspätungen sammeln; ab 4 EUR-Schwelle gemeinsam beantragen
-       (Art. 19 Abs. 2 VO 2021/782 erlaubt das ausdrücklich für Zeitfahrkarten).
-```
-
-### Beispiel 7: Anschlussverlust unter Durchgangsfahrkarte
-
-```
-Ticket: Sparpreis 79,00 EUR Berlin–München via Erfurt (Anschluss verpasst durch Verspätung)
-Anschluss erst 2 Stunden später; Endziel-Verspätung: 150 Min → Stufe 2 (50 %)
-Entschädigung: 79,00 × 50 % = 39,50 EUR
-Maßgebliche Verspätung: Endziel, nicht einzelne Etappe (Art. 12 Abs. 3 VO).
-```
-
-## Mehrpersonen-Konstellation
-
-```yaml
-berechnung:
-  fall-id: FGR-2026-0042
-  reisende:
-    - name: Mueller, Hans
-      ticketart: sparpreis
-      preis-eur: 79.00
-      stufe: 1
-      anteil-prozent: 25
-      einzelanspruch-eur: 19.75
-    - name: Mueller, Eva
-      ticketart: sparpreis
-      preis-eur: 79.00
-      stufe: 1
-      anteil-prozent: 25
-      einzelanspruch-eur: 19.75
-    - name: Mueller, Lea
-      ticketart: sparpreis-kind
-      preis-eur: 39.50          # Kindertarif
-      stufe: 1
-      anteil-prozent: 25
-      einzelanspruch-eur: 9.88
-  gesamt-entschaedigung-eur: 49.38
-  zusatz-auslagen:
-    verpflegung-eur: 12.50
-    hotel-eur: 0
-    taxi-eur: 0
-  gesamt-anspruch-eur: 61.88
-```
-
-## Pauschalreise
-
-Bei Pauschalreise mit Bahn-Anteil: Ansprüche aus VO 2021/782 (gegen EVU) und §§ 651a ff. BGB (gegen Reiseveranstalter) **kumulieren** grundsätzlich. Anrechnung nach BGH: keine Doppelvergütung; bei dem Reiseveranstalter erstrittene Beträge werden auf die EVU-Entschädigung verrechnet und umgekehrt.
-
-→ Bei komplexer Konstellation Verweis auf `verbraucherschutzrecht-pruefer` oder allgemeines Reiserecht-Plugin.
-
-## Ausgabe
-
-```
-Berechnung Entschädigung
-Fall-ID: FGR-2026-0042
-Zug: ICE 503 Berlin Hbf — München Hbf
-Datum: 12.05.2026
-Endziel-Verspätung: 105 Minuten (Stufe 1 — 25 %)
-
-Pro Reisendem:
- Hans Mueller     | Sparpreis | 79,00 EUR | 25 % | 19,75 EUR
- Eva Mueller      | Sparpreis | 79,00 EUR | 25 % | 19,75 EUR
- Lea Mueller (mj) | Sparpreis Kindertarif | 39,50 EUR | 25 %  |  9,88 EUR
-
-Summe Entschädigung Art. 19 VO 2021/782:        49,38 EUR
-Auslagen Verpflegung Art. 20 VO 2021/782:      +12,50 EUR
-Gesamtforderung:                                61,88 EUR
-
-Mindestbetrag 4 EUR pro Fahrkarte: erreicht (alle Einzelpositionen über 4 EUR).
-Verzugszinsen ab Mahnung gem. §§ 286, 288 BGB.
-
-Nächster Skill: forderung-an-db-erste-stufe
-```
-
-## Leitentscheidungen Berechnung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
----
-
-## Skill: `forderung-an-db-erste-stufe`
-
-_Erstes Forderungsschreiben an das DB-Servicecenter Fahrgastrechte. Erfasst Anspruchsteller (alle Reisenden mit Vollmachten) Anspruchsgrundlage Art. 19 VO 2021/782 plus Art. 18 und Art. 20 sowie ggf. § 11 EVO konkrete Berechnung Frist zur Zahlung (typisch vier Wochen) Bankverbindung. Zwei Variante..._
-
-# Forderungsschreiben — Erste Stufe
-
-## Empfänger
-
-- **DB Dialog GmbH — Servicecenter Fahrgastrechte**, 60647 Frankfurt am Main (Postanschrift; korrekter Postweg auch bei Online-Antrag, wenn schriftliche Spur gewünscht).
-- **Alternativ:** Online-Formular auf [bahn.de/fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte) oder über die **DB Navigator-App**. Empfehlung: parallel postalisch UND online für Beweisspur.
-- Bei **Konkurrenz-EVU** (FlixTrain, ÖBB, NWB, Transdev, Go-Ahead etc.): Adresse des konkreten EVU auf bahn.de/impressum bzw. Webseite des Betreibers.
-
-## Struktur
-
-### 1. Briefkopf
-
-```
-[Vor- und Nachname Hauptansprechender]
-[Strasse Hausnummer]
-[PLZ Ort]
-[Tel] [E-Mail]
-[IBAN]
-
-[Datum]
-
-An:
-DB Dialog GmbH
-Servicecenter Fahrgastrechte
-60647 Frankfurt am Main
-
-Betreff: Antrag auf Entschädigung gemäß Art. 19 VO (EU) 2021/782
-         Zug [Zugnummer] am [Datum] von [Abfahrtsbahnhof] nach [Zielbahnhof]
-         Auftrags-/Buchungscode [PNR]
-```
-
-### 2. Sachverhalt knapp
-
-```
-Sehr geehrte Damen und Herren,
-
-ich nehme Bezug auf den unter dem Buchungscode [PNR] gebuchten Zug
-[Zugnummer] am [Datum] von [Abfahrtsbahnhof] nach [Zielbahnhof].
-
-Folgende Reisende waren betroffen:
- - [Name 1], geboren [Datum 1]
- - [Name 2], geboren [Datum 2]
- - [Name 3], geboren [Datum 3] (minderjährig, vertreten durch
-   die unterzeichnenden Erziehungsberechtigten)
-
-Vollmachten der Mitreisenden sind beigefügt (Anlagen K[N] ff.).
-
-Der genannte Zug [erreichte das Ziel mit X Stunden Verspätung / fiel aus /
-fuhr nach geänderter Streckenführung].
-
-Geplante Ankunft am Zielbahnhof [Bahnhof]: [HH:MM]
-Tatsächliche Ankunft am Zielbahnhof (Türöffnung am Bahnsteig): [HH:MM]
-Endziel-Verspätung: [X] Minuten.
-```
-
-### 3. Rechtliche Begründung
-
-```
-1. Anspruchsgrundlage: Art. 19 Abs. 1 VO (EU) 2021/782 des Europäischen
-   Parlaments und des Rates vom 29. April 2021 über die Rechte und
-   Pflichten der Fahrgäste im Eisenbahnverkehr.
-
-2. Anwendungsbereich: Der Zug wird von [Operating EVU] als zugelassenem
-   Eisenbahnverkehrsunternehmen im Geltungsbereich der VO 2021/782 ausgeführt
-   (Art. 2 Abs. 1 VO).
-
-3. Tatbestand: Endziel-Verspätung von [X] Minuten am Zielbahnhof. Damit
-   greift Art. 19 Abs. 1 [lit. a: 25 % bei 60–119 Min / lit. b: 50 % bei
-   ab 120 Min] VO.
-
-4. Höhe des Anspruchs:
-   Tatsächlicher Fahrpreis pro Reisendem: [P] EUR
-   Anteil [25 / 50] %: [E] EUR pro Reisendem
-   Anzahl Reisende: [N]
-   Gesamtentschädigung Art. 19 VO: [G] EUR
-
-[ggf. weiterhin:]
-
-5. Hilfeleistung Art. 20 VO:
-   Da der Zug das Ziel mit mehr als 60 Minuten Verspätung erreichte,
-   bestand Anspruch auf Verpflegung in angemessenem Verhältnis zur
-   Wartezeit. Eine Hilfeleistung wurde nicht angeboten. Ich beanspruche
-   Erstattung der selbst getragenen Verpflegungskosten in Höhe von
-   [V] EUR (Belege anbei).
-
-6. Eigenbeförderung Art. 18 Abs. 3 Unterabs. 2 VO:
-   Die DB hat binnen 100 Minuten nach planmäßiger Abfahrtszeit keine
-   Weiterreise-Option mitgeteilt. Ich war daher zur Eigenbeförderung
-   berechtigt und beanspruche Erstattung der notwendigen, angemessenen
-   und zumutbaren Kosten in Höhe von [F] EUR.
-
-[falls SPNV:]
-
-7. § 11 EVO: Bei der gebuchten Verbindung handelt es sich um eine SPNV-Fahrt.
-   Wegen einer absehbaren Verspätung von mehr als 20 Minuten am Zielort
-   greifen die zusätzlichen Rechte aus § 11 Abs. 1 EVO.
-
-8. Eine Befreiung von der Entschädigungspflicht nach Art. 19 Abs. 10 VO ist
-   nicht gegeben. [Falls DB im Voraus eine Begründung mitgeteilt hat,
-   diese zitieren und entkräften. Beispielsweise: Streiks des DB-Personals
-   und Handlungen der Infrastrukturbetreiber sind nach Art. 19 Abs. 10
-   Unterabs. 2 VO ausdrücklich nicht als außergewöhnliche Umstände
-   anzuerkennen.] Die Beweislast für außergewöhnliche Umstände und für
-   die Ergreifung zumutbarer Maßnahmen trägt das Eisenbahnverkehrsunternehmen.
-```
-
-### 4. Forderung
-
-```
-Hiermit fordere ich Sie auf, den Gesamtbetrag in Höhe von
-
-   [Gesamtbetrag] EUR
-
-zuzüglich gegebenenfalls weiterer Auslagen — Belege beiliegend —
-auf folgendes Konto zu überweisen:
-
-   Inhaber: [Name]
-   IBAN:    DE [...]
-   BIC:     [...]
-
-bis spätestens [Datum + 4 Wochen].
-
-Hinweis: Die VO 2021/782 sieht in Art. 19 Abs. 7 eine Bearbeitungsfrist
-von einem Monat ab Antragseingang vor. Eine Auszahlung in Form von
-Gutscheinen wird ausdrücklich nicht akzeptiert; auf Wunsch des Fahrgasts
-ist die Entschädigung in Geld zu leisten (Art. 19 Abs. 7 Satz 2 VO).
-
-Sollten Sie meinem Antrag nicht oder nicht vollständig entsprechen, werde
-ich:
-
- a) Widerspruch einlegen und parallel
- b) die Schlichtungsstelle Reise & Verkehr e.V. (vormals söp,
-    Fasanenstraße 81, 10623 Berlin) anrufen — das Verfahren ist für
-    Verbraucher kostenfrei (Verbraucher-Entgelt-Regeln
-    nach § 23 VSBG i.V.m. der Verfahrensordnung der Stelle),
- c) anschließend Klage zum zuständigen Amtsgericht erheben.
-```
-
-### 5. Anlagen
-
-```
-Anlagen:
- K1  Buchungsbestätigung Zug [Zugnummer] vom [Datum]
- K2  Fahrkarten / E-Tickets aller Reisenden
- K3  Verspätungs- / Ausfallmitteilung (App-Screenshot, SMS, E-Mail)
- K4  Foto Anzeigetafel Zielbahnhof mit tatsächlicher Ankunftszeit
- K5  Belege Auslagen (Verpflegung, ggf. Hotel, ggf. Ersatzbeförderung)
- K6  Vollmacht [Name Reisende:r 2]
- K7  Vollmacht [Name Reisende:r 3 minderjährig — durch Erziehungsberechtigte]
-```
-
-### 6. Schluss
-
-```
-Mit freundlichen Grüßen
-
-[Unterschrift]
-[Name]
-```
-
-## Versand
-
-- **Postversand per Einschreiben mit Rückschein** — beste Beweisform.
-- **Parallel** Online-Antrag über bahn.de oder DB Navigator — schnellere Bearbeitung; Eingangsnummer dokumentieren.
-- **Konkurrenz-EVU:** dort übliches Reklamationsformular nutzen; postalisch parallel an Niederlassungs-Adresse.
-
-## Verzugszinsen
-
-- Verzug spätestens mit Fristablauf (§ 286 Abs. 1 BGB). Die im Schreiben gesetzte Zahlungsfrist (typisch vier Wochen) und die monatliche Bearbeitungsfrist aus Art. 19 Abs. 7 VO sind nicht deckungsgleich (vier Wochen sind 28 Tage; ein Monat richtet sich nach §§ 187 ff. BGB und ist regelmäßig 30 oder 31 Tage). Praxisempfehlung: die Frist so setzen, dass sie nicht vor Ablauf des Monats nach Art. 19 Abs. 7 VO endet, um Streit über den Verzugszeitpunkt zu vermeiden.
-- Verzugszinsen Verbraucher 5 Prozentpunkte über Basiszinssatz (§ 288 Abs. 1 BGB).
-
-## Bearbeitungsfristen
-
-- **Erstattung** (Art. 18 Abs. 5 VO): 30 Tage.
-- **Entschädigung** (Art. 19 Abs. 7 VO): 1 Monat.
-- **Beschwerdeantwort** (Art. 27 Abs. 2 VO): 1 Monat (in begründeten Fällen bis 3 Monate).
-
-## Praxis-Hinweise
-
-- Die DB lehnt Anträge oft mit Verweis auf "fehlende Mindestbearbeitungsfrist 30 Tage" ab, bevor sie auf den Antrag eingeht. **Argumentation:** Frist gilt für DIE BEARBEITUNG, nicht für Antragstellung.
-- Voucher als Entschädigung: nur, wenn Verbraucher ausdrücklich zustimmt. Andernfalls Geldanspruch (Art. 19 Abs. 7 Satz 2 VO).
-- Bei mehrfachen Verspätungen mit Zeitkarte: gesammelte Geltendmachung erlaubt (Art. 19 Abs. 2 VO) — Vorteil bei Mindestbetrag-Schwelle.
-
-## Ausgabe
-
-- `forderung-erste-stufe-<datum>.md` und PDF (über Anlagen-Skill).
-- Tagesnotiz: Reaktionsfrist vorgemerkt (1 Monat ab Eingang).
-- Hinweis: bei Reaktion mit Standardausrede den Skill `db-ablehnungsgruende-pruefen` aufrufen, dann `fahrgastrechte-widerspruch`.
-
-## Anlagen-Übergabe
-
-Unmittelbar nach Erstellung des Schreibens den Skill `fahrgastrechte-anlagen-bauen` aufrufen.
-
-Übergabe-Schema:
-
-```yaml
-schriftsatz: forderung-erste-stufe-<datum>.md
-rohbelege_verzeichnis: <fall>/belege/
-ausgabeverzeichnis: <fall>/anlagen/
-bundle: true                           # erzeugt zusätzlich Schriftsatz_mit_Anlagen.pdf
-schriftgrad_stempel: 12
-schrift_stempel: Arial-Bold            # Arial 12 FETT oben rechts
-bezeichnung: "Anlage K"
-```
-
-## Zentrale Normen
-
-- Art. 19 Abs. 1, 2, 3, 7, 8 VO (EU) 2021/782 — Entschädigung
-- Art. 18 Abs. 1, 3 Unterabs. 2, 5 VO (EU) 2021/782 — Erstattung / Eigenbeförderung
-- Art. 20 VO (EU) 2021/782 — Hilfeleistung
-- Art. 7 VO (EU) 2021/782 — Verzichtsverbot
-- § 11 EVO — SPNV-Zusatzrechte
-- § 195, § 199 Abs. 1 BGB — Verjährung
-- § 286 Abs. 1, § 288 Abs. 1 BGB — Verzug und Verzugszinsen
-
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
 ## Skill: `klage-amtsgericht-fahrgast`
 
-_Klageentwurf zum Amtsgericht in Fahrgastrechte-Angelegenheiten. Sachliche Zuständigkeit § 23 Nr. 1 GVG bei Streitwert bis zehntausend Euro (i.d.F. seit 01.01.2026). Oertlich wahlweise Abfahrts- oder Zielbahnhof (Art. 7 Nr. 1 lit. b VO 1215/2012 Bruessel-Ia plus § 29 ZPO) oder Sitz / Niederlassung..._
+_Wenn es um Klage zum Amtsgericht (Fahrgastrechte) in Fahrgastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
 # Klage zum Amtsgericht (Fahrgastrechte)
 
@@ -1425,7 +724,11 @@ K12 Vollmachten der Mitreisenden
 - Hinweis zur Gerichtswahl Abfahrtsbahnhof / Zielbahnhof / Sitz EVU.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Anlagen-Übergabe
@@ -1493,622 +796,163 @@ Adressat: Amtsgericht am gewählten Gerichtsstand — Tonfall sachlich-juristisc
 
 ---
 
-## Skill: `schlichtung-reise-verkehr-anrufen`
+## Skill: `eigenbefoerderung-und-betreuung-art-18`
 
-_Schlichtungsantrag bei der Schlichtungsstelle Reise & Verkehr e.V. (vormals söp) nach erfolgloser Reklamation beim Eisenbahnverkehrsunternehmen. Kostenfrei für Verbraucher nach VSBG. Voraussetzung Vorgerichtliche Geltendmachung beim EVU mindestens vier Wochen ohne befriedigende Antwort oder Ableh..._
+_Wenn es um Eigenbeförderung und Betreuung (Art. 18. 20 VO; Paragraf 11 EVO) in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Schlichtungsstelle Reise & Verkehr e.V. anrufen
+# Eigenbeförderung und Betreuung (Art. 18, 20 VO; § 11 EVO)
 
-## Schlichtungsstelle Reise & Verkehr e.V.
+## Drei Anspruchsgrundlagen
 
-| Punkt | Wert |
+### 1. Eigenbeförderung (Art. 18 Abs. 3 Unterabs. 2 VO 2021/782)
+
+**Tatbestand:**
+
+Wenn dem Fahrgast die verfügbaren Optionen für Weiterreise mit geänderter Streckenführung **nicht binnen 100 Minuten** nach planmäßiger Abfahrtszeit des verspäteten oder ausgefallenen Verkehrsdienstes oder des verpassten Anschlusses **mitgeteilt** werden, ist der Fahrgast berechtigt, Verträge mit anderen Anbietern öffentlicher Verkehrsdienste zu schließen (Eisenbahn, Reisebus, Bus).
+
+**Rechtsfolge:** Das EVU erstattet die **notwendigen, angemessenen und zumutbaren Kosten**.
+
+**Praxisprüfung:**
+
+| Frage | Antwort |
 |---|---|
-| Trägerverein | Schlichtungsstelle Reise & Verkehr e.V. |
-| Anerkennung | nach §§ 4 ff. VSBG; benannt vom Bundesamt für Justiz |
-| Adresse | Fasanenstraße 81, 10623 Berlin |
-| Web | schlichtungsstelle-reise-verkehr.de |
-| Antragsweg | Online-Formular, postalisch, per E-Mail |
-| Kosten Verbraucher | **kostenfrei** |
-| Erfolgsquote (statistisch) | ca. 50–60 % einigender Vorschlag |
-| Bindungswirkung | Schlichtungsspruch bindet die DB / EVU nicht zwingend, wird aber regelmäßig akzeptiert; Fahrgast kann auch nach Abschluss noch klagen |
+| Wann beginnt die 100-Min-Frist? | mit planmäßiger Abfahrtszeit des betroffenen Verkehrsdienstes |
+| Was zählt als "Mitteilung"? | konkrete Alternativ-Verbindung mit Zeit und Route — nicht: "wir melden uns gleich"; nicht: pauschale Verspätungsanzeige in der App |
+| Was sind "notwendige, angemessene und zumutbare Kosten"? | Standardklassen-Ticket bei Konkurrenz-Bahn / Fernbus; nur Standard-Hotel; Taxi bei fehlender ÖV-Alternative |
+| Worauf zu achten? | Belege aufbewahren; Eingangsbestätigung der App / SMS-Mitteilung der DB sichern, um 100-Min-Verstreichen zu beweisen |
 
-## Voraussetzungen (§§ 4 ff. VSBG, Art. 28 VO 2021/782)
+**Was NICHT erstattungsfähig ist:**
 
-1. **Vorgerichtliche Geltendmachung** beim EVU. Der Anspruch muss zunächst bei der DB / dem EVU geltend gemacht und mindestens **vier Wochen** lang ohne befriedigende Antwort geblieben oder abgelehnt worden sein.
-2. **Keine anhängige Klage**: Die Schlichtung scheidet aus, wenn der Anspruch bereits gerichtlich anhängig ist.
-3. **Anwendungsbereich:** Personenverkehr (Eisenbahn, Bus, Flug, Schiff). Eisenbahn ist Kerngeschäft.
-4. **Frist:** Es gibt keine gesetzliche allgemeine Ausschlussfrist für den Schlichtungsantrag. Maßgeblich ist die materielle Verjährung des Anspruchs (drei Jahre nach §§ 195, 199 BGB). Die Verfahrensordnung der Schlichtungsstelle Reise & Verkehr e.V. ist vor Antragstellung auf etwaige Spezialfristen zu prüfen.
+- Aufpreis 1. Klasse, wenn DB-Ticket 2. Klasse war.
+- Flug, wenn vergleichbare Bahn / Bus möglich war.
+- Privat-PKW-Erstattung über üblichen Tagessatz hinaus (Kilometerpauschale max. ähnlich JVEG).
+- Verlust verfallener Anschluss-Tickets, wenn diese separat (eigene PNR) gebucht waren.
 
-## Inhalt des Schlichtungsantrags
+### 2. Hilfeleistung (Art. 20 VO 2021/782)
 
-### 1. Online-Formular auf schlichtungsstelle-reise-verkehr.de
+**Tatbestand:**
 
-Direktester Weg. Felder analog zur Postantrag-Vorlage unten; Belege als PDF hochladbar.
+Bei Verspätung von Abfahrt oder Ankunft um **60 Minuten und mehr** bietet das EVU dem Fahrgast kostenlos:
 
-### 2. Postalisches Anschreiben (Vorlage)
+- a) **Mahlzeiten und Erfrischungen** in angemessenem Verhältnis zur Wartezeit, sofern verfügbar oder vernünftigerweise herbeischaffbar;
+- b) **Hotel oder andere Unterkunft + Transport zwischen Bahnhof und Unterkunft**, wenn ein Aufenthalt von einer oder mehreren Nächten oder ein zusätzlicher Aufenthalt notwendig wird;
+- c) **Transport zwischen Zug und Bahnhof, einem anderen Verkehrsmittel oder dem Zielort**, falls Zug auf der Strecke blockiert ist.
 
-```
-[Vor- und Nachname]
-[Adresse]
-[Tel] [E-Mail]
+**Wenn DB diese Leistung nicht erbringt:** Der Fahrgast darf selbst kaufen und das EVU erstattet (Schadensersatz aus Vertragsverletzung; argumentativ + § 280 BGB).
 
-[Ort], den [Datum]
+**Angemessenheit:**
 
-An:
-Schlichtungsstelle Reise & Verkehr e.V.
-Fasanenstraße 81
-10623 Berlin
+- Verpflegung: typische Bahnhofs-Preise (Wasser, Brötchen, Heißgetränk). Richtwert 5–25 EUR je Stunde Wartezeit.
+- Hotel: Standard-Niveau (3-Sterne), nicht Premium.
+- Taxi nur, wenn ÖV nicht verfügbar (Nachtzeit) oder Hotel nicht in ÖV-Reichweite.
 
-Betreff: Antrag auf Durchführung eines Schlichtungsverfahrens
-         Verspätungsanspruch nach VO (EU) 2021/782
+### 3. SPNV-Zusatzrecht § 11 EVO
 
-Sehr geehrte Damen und Herren,
+**Tatbestand:** Fahrgast besitzt SPNV-Fahrausweis. Erwartet wird **mindestens 20 Min Verspätung** am Zielort wegen Ausfall oder Unpünktlichkeit.
 
-hiermit beantrage ich die Durchführung eines Schlichtungsverfahrens
-gegen das Eisenbahnverkehrsunternehmen:
+**Rechtsfolgen:**
 
-   DB Dialog GmbH — Servicecenter Fahrgastrechte
-   60647 Frankfurt am Main
-   (für die DB Fernverkehr AG / DB Regio AG)
-
-[oder bei Konkurrenz-EVU entsprechende Anschrift]
-
-I. Sachverhalt
-
-Am [Datum] reiste ich mit dem Zug [Zugnummer] von [Abfahrtsbahnhof]
-nach [Zielbahnhof]. Buchungscode (PNR / Auftrags-Nr.): [PNR].
-Planmäßige Ankunft: [HH:MM]
-Tatsächliche Ankunft: [HH:MM]
-Endziel-Verspätung: [X] Minuten
-
-II. Bisheriger Verlauf
-
-1. Mit Schreiben/Antrag vom [Datum] habe ich beim Servicecenter Fahrgastrechte
-   der DB Entschädigung gemäß Art. 19 VO (EU) 2021/782 beantragt.
-   Vorgangs-/Aktenzeichen: [Nr.]
-
-2. Mit Ablehnungsschreiben vom [Datum] hat die DB den Antrag mit folgender
-   Begründung abgelehnt: "[wortlautnah]"
-
-3. Mit Widerspruch vom [Datum] habe ich gegen die Ablehnung Widerspruch
-   eingelegt. [Falls weitere Reaktion: kurz beschreiben.]
-
-4. Die DB hat seit [Datum] nicht reagiert / hat erneut abgelehnt
-   mit Schreiben vom [Datum].
-
-III. Anspruch und Berechnung
-
-Anspruchsgrundlage: Art. 19 Abs. 1 lit. [a/b] VO (EU) 2021/782.
-
-Fahrpreis pro Reisendem:   [P] EUR
-Anteil [25/50] %:          [E] EUR
-Anzahl Reisende:           [N]
-Entschädigung Gesamt:      [G] EUR
-
-[ggf.] zzgl. Hilfeleistung Art. 20 VO:        [V] EUR
-[ggf.] zzgl. Eigenbeförderung Art. 18 VO:     [F] EUR
-
-Gesamtforderung:            [GESAMT] EUR
-
-IV. Gegen den Ablehnungsgrund
-
-Der von der DB angeführte Ablehnungsgrund "[Grund]" verfängt nicht, weil
-[konkrete Gegenargumentation — siehe Skill `db-ablehnungsgruende-pruefen`].
-
-V. Gewünschte Schlichtung
-
-Ich beantrage einen Schlichtungsvorschlag der Schlichtungsstelle, der zur
-Zahlung der genannten [GESAMT] EUR auf das nachstehende Konto führt:
-
-   Kontoinhaber: [Name]
-   IBAN: [DE...]
-   BIC: [...]
-
-VI. Belege (in Kopie beigefügt)
-
- - Buchungsbestätigung / E-Ticket
- - Verspätungs- / Ausfallmitteilung
- - Foto Anzeigetafel Zielbahnhof
- - Erstantrag vom [Datum] an DB Servicecenter
- - Ablehnungsschreiben der DB vom [Datum]
- - Widerspruch vom [Datum]
- - Belege zu Auslagen (Verpflegung, Hotel, Taxi)
- - Vollmachten der Mitreisenden
-
-VII. Erklärung
-
-Ich erkläre, dass der Anspruch nicht gerichtlich anhängig ist und kein
-gerichtliches Verfahren oder anderes Schlichtungsverfahren beabsichtigt
-ist, solange das hiesige Verfahren läuft.
-
-Mit freundlichen Grüßen
-
-[Name]
-```
-
-## Ablauf des Schlichtungsverfahrens
-
-1. **Eingangsbestätigung** der Schlichtungsstelle (typisch binnen 1–2 Wochen).
-2. **Stellungnahme des EVU** binnen ca. 4 Wochen.
-3. **Schlichtungsvorschlag** der Schlichtungsstelle (typische Dauer Verfahren: 3–6 Monate).
-4. **Annahme oder Ablehnung** durch beide Seiten. Wenn beide annehmen → Vergleich; sonst Verfahren als gescheitert beendet.
-
-## Wirkung auf Verjährung
-
-Anrufung der Schlichtungsstelle **hemmt** die Verjährung gem. § 204 Abs. 1 Nr. 4 BGB (Einleitung des Verfahrens vor einer durch das Bundesamt für Justiz nach § 32 VSBG anerkannten Stelle). Hemmung dauert für die Zeit des Verfahrens; nach Beendigung läuft die Frist weiter (mit 6-Monats-Mindest-Restfrist gemäß § 204 Abs. 2 BGB).
-
-→ Praxisrelevant: Auch wenn die Schlichtung lange dauert, ist der Anspruch verjährungsrechtlich geschützt.
-
-## Wann zur Schlichtung, wann direkt klagen?
-
-| Situation | Empfehlung |
-|---|---|
-| Streitwert < 1 000 EUR, Vergleichswille der DB möglich | Schlichtung — kostenfrei, gute Erfolgsquote |
-| DB hat mehrfach abgelehnt, keine Vergleichsbereitschaft | Direkt Klage |
-| Streitwert > 5 000 EUR, hohe Komplexität | Klage; Schlichtung als Vorstufe optional |
-| Verjährung naht | Klage bevorzugt; Schlichtung hemmt aber auch |
-| Mehrere Mitreisende, kumulierte Forderung | Schlichtung zuerst — gut für Familienfälle |
-
-## Wenn Schlichtung scheitert
-
-→ Skill `klage-amtsgericht-fahrgast` aufrufen. Streitwert: kumulierte Einzelansprüche aller Reisenden. § 23 Nr. 1 GVG: bis 10.000 EUR Amtsgericht.
-
-## Adressen weiterer Schlichtungsstellen (Konkurrenz / Spezial)
-
-- **Bundesverband Verbraucherzentrale (vzbv)** — bei systematischen UWG-Themen.
-- **Eisenbahn-Bundesamt (EBA)** — Aufsichtsbehörde; nimmt Beschwerden entgegen, aber keine Einzelfall-Schlichtung.
-
-## Ausgabe
-
-- `schlichtungsantrag-<datum>.md` und PDF mit allen Belegen verlinkt.
-- Übergabe an `fahrgastrechte-anlagen-bauen` für Anlagen-Bundle.
-- Hinweis auf Verjährungshemmung mit Stichdatum.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `ticket-und-reisedaten-erfassen`
-
-_Erfasst die Falldaten aus hochgeladenen Tickets Buchungsbestaetigungen Reservierungen Foto-Belegen für Fahrgastrechte-Mandate. Extrahiert Buchungscode (PNR) Auftragsnummer Reisetag Strecke Operating EVU Ticketart (Flexpreis Sparpreis Super Sparpreis BC100 Deutschlandticket Zeitkarte) Klasse Preis..._
-
-# Ticket- und Reisedaten erfassen
-
-## Eingaben
-
-Typische Belege:
-
-- **Buchungsbestätigung** der DB / FlixTrain / ÖBB als PDF / E-Mail
-- **E-Ticket** mit IATA-/UIC-Barcode (Foto, PDF)
-- **Sitzplatzreservierung** (separat oder integriert)
-- **Reservierungsbestätigung** (Bahn-App-Screenshot, ausgedrucktes Ticket)
-- **Verspätungs- oder Annullierungsbenachrichtigung** der DB (SMS, E-Mail, App-Push)
-- **Korrespondenz** mit DB Servicecenter Fahrgastrechte
-- **Belege zu Auslagen** (Hotel, Taxi, Verpflegung) — Kassenbon, Rechnung
-- **DB Navigator-Screenshots** mit Verspätungs-Anzeigen
-
-## Pflichtfelder
-
-```yaml
-fall-id: FGR-2026-0042
-reisedatum: 2026-05-12
-reisende:
-  - name: Mueller, Hans
-    geburtsdatum: 1972-08-15
-    rolle: hauptbuchender
-  - name: Mueller, Eva
-    geburtsdatum: 1975-03-22
-    rolle: ehepartner
-  - name: Mueller, Lea
-    geburtsdatum: 2010-06-18
-    rolle: minderjährig
-
-buchungscode: ABC123          # PNR / Auftragsnummer
-buchung-bei: DB Vertrieb GmbH # Verkaufender Vertriebsweg (bahn.de, DB Reisezentrum, Reisebüro)
-buchungsdatum: 2026-04-12
-
-ticket:
-  art: sparpreis              # flexpreis | sparpreis | super-sparpreis | bahncard-100 | deutschlandticket | zeitkarte | reisepass-tarif
-  klasse: 2                   # 1 oder 2
-  preis-eur: 79.00            # tatsächlich gezahlter Preis
-  zugbindung: ja              # bei sparpreis/super-sparpreis grundsätzlich ja
-  bahncard: BC50              # null | BC25 | BC50 | BC100
-
-verbindung-gebucht:
-  abfahrt:
-    bahnhof: Berlin Hbf
-    iata-uic: 8011160
-    planmaessig: 2026-05-12T08:25:00+02:00
-  ziel:
-    bahnhof: Muenchen Hbf
-    iata-uic: 8000261
-    planmaessig: 2026-05-12T13:20:00+02:00
-  zuege:
-    - nr: ICE 503
-      operating-evu: DB Fernverkehr AG
-      abschnitt: Berlin Hbf - Muenchen Hbf
-  einheitliche-pnr: ja        # → Durchgangsfahrkarte nach Art. 12 VO
-
-verbindung-tatsaechlich:
-  abfahrt-ist: 2026-05-12T08:45:00+02:00   # +20 Min
-  ankunft-ist: 2026-05-12T15:05:00+02:00   # +1h 45 Min am Endziel
-  zug-tatsaechlich: ICE 503                # ggf. anderer Zug bei Umbuchung
-  umsteige-bahnhoefe: []
-  endziel-verspaetung-min: 105             # ≥ 60 Min → 25 % Anspruch (ab 120: 50 %)
-
-stoerung:
-  art: verspaetung            # verspaetung | zugausfall | anschlussverlust | vorverlegung | nichtbefoerderung
-  ursache-laut-db: technischer Defekt
-  bekanntgabe-am: 2026-05-12T07:50:00+02:00
-  bekanntgabe-wie: app        # app | sms | email | aushang | schalter
-  ersatz-angebot: ja
-  ersatz-detail: Ersatzfahrt im selben ICE 503 mit Verspätung
-  hilfeleistung-erhalten:
-    verpflegung: nein
-    hotel: nein
-    transport: nein
-
-auslagen:
-  taxi-eur: 0
-  hotel-eur: 0
-  verpflegung-eur: 12.50
-  belege: [belege/2026-05-12/kassenbon-bahnhofsimbiss.pdf]
-
-belege:
-  - typ: buchungsbestaetigung
-    pfad: belege/2026-05-12/buchung-ICE503.pdf
-  - typ: e-ticket
-    pfad: belege/2026-05-12/e-ticket-mueller.pdf
-  - typ: stoerungsmeldung
-    pfad: belege/2026-05-12/db-navigator-verspaetung.png
-  - typ: ankunft-anzeigetafel
-    pfad: belege/2026-05-12/foto-anzeigetafel-muenchen.jpg
-  - typ: kassenbon
-    pfad: belege/2026-05-12/kassenbon-bahnhofsimbiss.pdf
-```
-
-## OCR / PDF-Extraktion
-
-- Bei PDF-Tickets automatische Extraktion von PNR / Auftragsnummer, Zugnummer, Datum, Bahnhöfen.
-- Bei Foto-Belegen OCR; bei Konfidenz unter 90 Prozent Prüfer-Flag für manuelle Bestätigung.
-- DB-Auftragsnummern haben das Format einer 12-stelligen alphanumerischen ID (Bahn-App) oder einer 6-stelligen PNR (klassischer Vertrieb).
-- UIC-Stationscodes (8011160 Berlin Hbf, 8000261 München Hbf) prüfen — frei verfügbar bei DB Open Data.
-
-## Beweis-Sicherung der tatsächlichen Ankunftszeit
-
-Maßgeblich ist die **Türöffnung am Zielbahnhof** (Art. 3 Nr. 18 VO 2021/782). Beweiswege:
-
-1. **DB Navigator** speichert die tatsächliche Ankunftszeit unter "Verbindungs-Details" — Screenshot zeitnah sichern.
-2. **Fahrgastrechte-Formular der DB Bahn**: Wird die Verspätung bei der DB beantragt, generiert das System eine **Verspätungsbestätigung mit DB-eigenen Daten**. Diese ist im Streit das stärkste Beweismittel.
-3. **Schalter-Stempel** auf der Fahrkarte bei Annullierung / Verspätung (älterer Weg).
-4. **Foto der Bahnhofs-Anzeigetafel** mit Uhrzeit und tatsächlich angezeigter Ankunftszeit (Beweis im Bestreitensfall).
-5. **Zeugen** — Mitreisende.
-
-## DB-Zugverfolgung (intern bei DB)
-
-Die DB verfügt über interne Aufzeichnungen aller Zugbewegungen (Betriebsdatenbank LeiDis-NK / DiRail). Im Klageverfahren kann die Vorlage beantragt werden (§§ 421 ff. ZPO Urkundenbeweis). Vorprozessuale Auskunft über § 242 BGB (sekundäre Darlegungslast).
-
-## Mehrere Reisende
-
-Pro Reise wird **ein** Anspruchsfall mit mehreren Reisenden erfasst. **Jeder Reisende hat einen eigenen Anspruch** (Art. 19 VO ist persönlich); Mindestbetrag 4 EUR ebenfalls pro Fahrkarte. Bei Klage je Reisender eigener Antrag (Streitgenossenschaft möglich nach § 60 ZPO). Vollmacht über `vollmacht-mitreisende`.
-
-## Anschlussverlust unter Durchgangsfahrkarte
-
-Wenn die Buchung mehrere Züge mit **einer PNR** enthält (Art. 12 Abs. 3 VO 2021/782), ist die **Gesamtverspätung am Endziel** maßgeblich — nicht die Verspätung eines einzelnen Etappenzuges. Der Anschlussverlust ist im Yaml unter `umsteige-bahnhoefe` zu erfassen.
-
-Bei **mehreren separat gebuchten Tickets** (eigenständige PNRs) ist jeder Vertrag getrennt zu betrachten — Anschluss-Garantie greift nicht, außer Fahrkartenverkäufer / Reiseveranstalter hat sie ausdrücklich versprochen (Art. 12 Abs. 4 VO).
-
-## Operating EVU prüfen
-
-- DB-Vertrieb verkauft auch Konkurrenz-Tickets. Bei NWB-, ÖBB-, FlixTrain-Strecken im DB-Vertriebssystem: **Operating EVU ist das tatsächlich fahrende Unternehmen** — nicht DB Fernverkehr.
-- Anspruchsgegner ist immer das **ausführende EVU** (Art. 19 Abs. 1 VO).
-- Bei DB Regio: häufig Auftrag durch Bundesländer; passivlegitimiert bleibt DB Regio.
-- Bei FlixTrain: FlixTrain GmbH, Friedenheimer Brücke 16, 80639 München.
-
-## Pauschalreise-Konstellation
-
-Wenn die Bahnreise Teil einer Pauschalreise (Reiseveranstalter) ist, ergänzen sich Ansprüche aus VO 2021/782 (gegen EVU) und §§ 651a ff. BGB (gegen Reiseveranstalter). Mitteilung an `verspaetung-und-anschlussverlust-einordnen` und ggf. Verweisung auf `prozessrecht` oder `verbraucherschutzrecht-pruefer`.
-
-## Ausgabe
-
-- `fallakte.yaml` mit allen Stammdaten.
-- `belegliste.md` mit Prüfer-Flags für fehlende Belege.
-- `naechste-schritte.md` Empfehlung auf nächsten Skill (`verspaetung-und-anschlussverlust-einordnen` oder direkt `entschaedigung-berechnen` bei klarer Faktenlage).
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Leitentscheidungen Datenerfassung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
----
-
-## Skill: `verspaetung-und-anschlussverlust-einordnen`
-
-_Ordnet das Stoerungsereignis rechtlich ein: Verspaetung (Art. 19 VO 2021/782 bei mindestens 60 Min Endziel), Zugausfall (Art. 18), verpasster Anschluss unter Durchgangsfahrkarte (Art. 12 Abs. 3) oder Vorverlegung. Differenzierung Fernverkehr vs SPNV (mit § 11 EVO 20 Min Schwelle). Behandelt Mehrf..._
-
-# Verspätung, Zugausfall oder Anschlussverlust einordnen
-
-## Tatbestände im Überblick
-
-| Tatbestand | Norm | Konsequenz |
+| Anspruch | Voraussetzung | Norm |
 |---|---|---|
-| **Verspätung am Zielort ≥ 60 Min** | Art. 19 VO + Art. 18 VO | Entschädigung (25/50 %) UND Wahlrecht Erstattung/Weiterreise |
-| **Verspätung am Zielort < 60 Min** | Art. 19 Abs. 9 VO | Kein Entschädigungsanspruch (Mindestschwelle nicht erreicht) |
-| **Zugausfall** | Art. 18 + Art. 19 VO | Wahlrecht Erstattung/Weiterreise; Entschädigung wenn Endziel-Verspätung ≥ 60 Min |
-| **Verpasster Anschluss (Einheits-PNR)** | Art. 12 Abs. 3 VO | Wie Verspätung; Endziel-Maßstab |
-| **Verpasster Anschluss (separate PNRs)** | Art. 12 Abs. 4–5 VO | Anspruch je Vertrag separat; ggf. 75 %-Entschädigung des Fahrkartenverkäufers |
-| **Vorverlegung der Abfahrt** | nicht ausdrücklich in VO 2021/782 — analog Art. 8 | Falls Fahrgast den vorverlegten Zug nicht erreicht: Behandlung wie Ausfall |
-| **Nichtbeförderung (Überbuchung im Eisenbahnverkehr)** | praktisch selten; Art. 18 analog | Wahlrecht; ggf. Schadensersatz nach Art. 26 Abs. 5 Anhang I CIV |
-| **SPNV — 20-Min-Schwelle für Alternativzug** | § 11 EVO | Recht auf Wechsel auf anderen Zug (nicht: Entschädigung — die folgt Art. 19 VO) |
+| Fahrt mit anderem **Zug** zum vertragsgemäßen Zielort | ≥ 20 Min prognostiziert | § 11 Abs. 1 Nr. 1 EVO |
+| Fahrt mit anderem **Verkehrsmittel** (Taxi, Bus) — Erstattung notwendig + angemessen | a) Ankunft 0–5 Uhr und ≥ 60 Min Verspätung erwartet, ODER b) letzter Zug des Tages | § 11 Abs. 1 Nr. 2 EVO |
+| **Höchstbetrag** Ersatzbeförderung | 120 EUR | § 11 Abs. 2 EVO |
 
-## Differenzierungs-Schema
+**Ausschluss anderer Zug:** Wenn (1) Reservierungspflicht, (2) Sonderfahrt oder (3) erhebliche Störung des Betriebsablaufs zu erwarten (§ 11 Abs. 3 EVO).
 
-### Schritt 1: Welcher Verkehr?
+## Entscheidungsbaum
 
-- **Fernverkehr** (ICE, IC, EC, FlixTrain, ÖBB) → Art. 19 VO ungeschmälert (60/120 Min).
-- **SPNV** (RE, RB, S-Bahn im SPNV-Sinn) → Art. 19 VO ungeschmälert PLUS § 11 EVO Zusatzrechte (20-Min-Schwelle für Alternativzug; 120-EUR-Limit Ersatzbeförderung bei Nachtfahrt).
-- **Stadt-/Vorortverkehr (S-Bahn-Tarifgebiete, U-Bahn)** — Deutschland hat ausgenommen; Ansprüche nach Tarifbedingungen und nationalen Sonderregeln.
+```
+1. Welcher Verkehr?
+   ├── Fernverkehr → Art. 18 + Art. 20 VO (100-Min-Frist; 60-Min-Hilfeleistung)
+   └── SPNV → § 11 EVO + Art. 18 + Art. 20 VO (kumulativ)
 
-### Schritt 2: Welche Ankunftsverspätung am ZIELORT (nicht Etappe)?
+2. Hat DB Alternativ-Verbindung mitgeteilt?
+   ├── Nein, > 100 Min nach planmäßiger Abfahrt → Eigenbeförderung Art. 18 Abs. 3 Unterabs. 2 VO
+   ├── Ja, aber unzumutbar → vertragliche Klärung; Schaden ggf. nach § 280 BGB
+   └── Ja, zumutbar → Annahme; bei späterer Erstattung nur Differenz wenn DB-Vorschlag genutzt
 
-| Verspätung am Endziel | Anspruch |
-|---|---|
-| 0–59 Min | kein Entschädigungsanspruch nach Art. 19 |
-| 60–119 Min | 25 % des Fahrpreises |
-| ≥ 120 Min | 50 % des Fahrpreises |
+3. Hat Fahrgast Verpflegung / Hotel / Transport selbst gekauft?
+   ├── Bei Wartezeit ≥ 60 Min UND DB hat nicht angeboten → Art. 20 VO Erstattung
+   ├── Höhe angemessen? → Belege prüfen
+   └── Eigene Beweispflicht: was hat DB konkret nicht angeboten?
 
-**Achtung:** Auch wenn ein Etappenzug 120 Min Verspätung hatte, der Fahrgast aber durch günstigen Anschlusszug nur 30 Min am Endziel verspätet war: **kein Anspruch** (Art. 19 Abs. 9 VO).
-
-### Schritt 3: Durchgangsfahrkarte oder separate Tickets?
-
-- **Einheitliche PNR**: alle Etappen sind Durchgangsfahrkarte → Anspruch bezieht sich auf Endziel-Verspätung (Art. 12 Abs. 3 VO).
-- **Separate PNRs** (z.B. Hin- mit Sparpreis, Anschlussfahrt mit anderem Ticket): jede Strecke einzeln zu bewerten; Anschluss-Garantie greift nicht. Ausnahme Art. 12 Abs. 4 VO: bei Fahrkartenverkäufer / Reiseveranstalter kombiniert + Fehlinformation → 75 %-Entschädigung des Vermittlers.
-
-### Schritt 4: Tatbestand benennen
-
-```yaml
-einordnung:
-  tatbestand: verspaetung-am-zielort-mindestens-60-min
-  norm-anker:
-    - Art. 19 Abs. 1 lit. a VO 2021/782   # 25 %
-    - Art. 18 Abs. 1 VO 2021/782          # Wahlrecht
-    - Art. 20 VO 2021/782                 # Hilfeleistung
-  endziel-verspaetung-min: 105
-  verspaetungsstufe: stufe-1-25-prozent   # stufe-1-25 | stufe-2-50
-  durchgangsfahrkarte: ja
-  spnv: nein                              # ja triggert zusätzlich § 11 EVO
-  folge-skills:
-    - entschaedigung-berechnen
-    - forderung-an-db-erste-stufe
-    - eigenbefoerderung-und-betreuung-art-18   # falls Auslagen entstanden
+4. Bei SPNV-Sondersituation (Nachtfahrt, letzte Verbindung)?
+   ├── ≥ 60 Min Ankunft 0–5 Uhr → Taxi/Bus bis 120 EUR (§ 11 Abs. 2 EVO)
+   └── letzte Verbindung + Zielort nicht mehr bis 24:00 Uhr erreichbar → dito
 ```
 
-## Spezialfall: Vorverlegung
+## Belege
 
-VO 2021/782 regelt Vorverlegung **nicht ausdrücklich**, anders als die Fluggast-VO 261/2004 (für die der EuGH Vorverlegungen als Annullierung behandelt — Aktenzeichen vor Verwendung in einem Schriftsatz über curia.europa.eu live verifizieren, nicht aus Modellwissen zitieren). In der Eisenbahn-Praxis: Die DB schickt ggf. eine Verfrühungs-Mitteilung; der Fahrgast erreicht den Zug nicht.
+Pflicht-Belege:
 
-**Sachgerechte Einordnung:** Wenn der Fahrgast den vorverlegten Zug nicht erreichen kann und keine anderweitige Beförderung mit gleicher Ankunftszeit angeboten wird, ist die Situation funktional einem Ausfall gleichzustellen. Art. 18 (Wahlrecht) und Art. 19 (Entschädigung) sind entsprechend anwendbar.
+- **Kassenbeleg / Rechnung** (mit Datum, Position, Preis)
+- **DB-Verspätungsbestätigung** (über Servicecenter Fahrgastrechte abrufbar)
+- **App-Screenshot** mit DB-Information über erwartete Ankunftszeit
+- **Foto Bahnhofs-Anzeigetafel** oder **Foto Zug-Display** bei Stillstand
+- **SMS / E-Mail** der DB mit Information / Nicht-Information
+- **Zeugen** — Mitreisende
 
-→ Hinweis: Live-Recherche bei curia.europa.eu oder bundesgerichtshof.de prüfen, ob neuere Entscheidung speziell zu Eisenbahn-Vorverlegung vorliegt.
+## Argumentation gegen typische DB-Ablehnung
 
-## Spezialfall: Nichtbeförderung (Eisenbahn-Überbuchung)
+### "Sie hätten die DB-Hotline anrufen sollen, bevor Sie Taxi nehmen"
 
-Im Eisenbahnverkehr selten (anders als bei Flügen). Wenn die DB / FlixTrain die Beförderung verweigert (z.B. wegen Überfüllung in der reservierten 1. Klasse): Wahlrecht analog Art. 18; Schadensersatz Art. 26 Abs. 5 Anhang I CIV. Im Klagefall sehr individuell — vorbereitende Eilprüfung erforderlich.
+> **Gegenargument:** Art. 18 Abs. 3 Unterabs. 2 VO 2021/782 knüpft an objektives Verstreichen der 100-Min-Frist ohne Mitteilung an. Es besteht keine Obliegenheit, die DB-Hotline anzurufen. § 11 EVO ist im SPNV unmittelbar anwendbar.
 
-## Spezialfall: Streiks DB-Personal
+### "Die genutzte Alternativbeförderung war nicht notwendig"
 
-Die häufigste Standardausrede der DB: "Streik = außergewöhnlicher Umstand". **Falsch.** Art. 19 Abs. 10 Unterabs. 2 VO 2021/782 schließt Streiks des EVU-Personals **ausdrücklich** von der Befreiungsregel aus. Auch Streiks bei DB Netz AG (Infrastrukturbetreiber) sind nach derselben Norm nicht befreiend.
+> **Gegenargument:** Maßgeblich ist die ex-ante-Sicht des Fahrgasts. Wenn die DB binnen 100 Min keine konkrete Alternative mitgeteilt hat oder die mitgeteilte Alternative unzumutbar war, war Eigenbeförderung notwendig. Beweislast für Mitteilung: DB.
 
-## Spezialfall: Wetter
+### "Hotelkosten sind unangemessen"
 
-- Normales Winterwetter (Schnee, Glatteis) → kein außergewöhnlicher Umstand. EVU muss sich vorbereiten.
-- Extremereignisse (Jahrhundert-Sturm, Hochwasser, Lawinen) → **kann** außergewöhnlich sein. Beweislast EVU; muss zumutbare Vorkehrungen darlegen.
+> **Gegenargument:** Angemessen ist eine Standard-Unterkunft (3-Sterne-Niveau). Beleg über vergleichbare Verfügbarkeit zum Buchungszeitpunkt vorlegen. Bei Buchung über bahn.de eigene Empfehlung der DB einfordern.
 
-## Spezialfall: Personenschäden (Notarzteinsatz auf der Strecke)
+### "Verpflegungskosten übersteigen Pauschalsatz"
 
-- Im Grunde Drittverschulden (Art. 19 Abs. 10 lit. c VO) — befreiend, wenn nicht vermeidbar.
-- ABER: Wenn DB den Personenschaden zumutbar erkennen konnte und nicht alternative Routenführung anbot, bleibt sie haftungspflichtig.
+> **Gegenargument:** VO 2021/782 kennt keinen Pauschalsatz. Art. 20 VO verlangt Angemessenheit im Verhältnis zur Wartezeit. Bahnhofs-Preise sind branchenüblich.
 
-## Spezialfall: Bauarbeiten und Baustellenfahrplan
+### "Sparpreis schließt Erstattung aus"
 
-Bauarbeiten gehören zum betrieblichen Risiko des EVU — kein außergewöhnlicher Umstand. Wenn der Baustellenfahrplan vorab veröffentlicht war und der Fahrgast wusste, dass eine reduzierte Streckenkapazität existiert: dennoch Anspruch, solange die VO-Schwellen erreicht sind. Bei Vorab-Information über konkreten Zugausfall vor Ticketkauf entfällt der Anspruch (Art. 19 Abs. 9 VO).
+> **Gegenargument:** Art. 7 VO 2021/782 — Vertragsbedingungen dürfen Rechte aus der VO nicht einschränken. Erstattung von Auslagen folgt aus Art. 18 / 20 VO, nicht aus Ticket-Tarifart.
+
+## Beispielfall
+
+```
+Fall: ICE 503 Berlin–München, geplante Ankunft 13:20.
+Während der Fahrt Verspätungs-App-Mitteilung: "Ankunft 16:30 voraussichtlich"
+(180 Min Verspätung).
+Keine zumutbare Bahn-Alternative von DB angeboten.
+
+100-Min-Frist: ab planmäßiger Abfahrt 08:25 + 100 Min = bis 10:05.
+Bis 10:05 keine Alternativ-Verbindung mitgeteilt.
+Fahrgast nimmt um 12:00 FlixTrain ab Frankfurt nach München (47 EUR);
+erreicht München um 15:00.
+
+Endziel-Verspätung: 100 Min → 25 % Sparpreis 79 EUR = 19,75 EUR Entschädigung.
+Eigenbeförderungs-Kosten: 47 EUR FlixTrain. Plus: 18 EUR Verpflegung 4 Stunden Wartezeit.
+
+Gesamtforderung Fahrgastrechte:
+ Art. 19 Entschädigung:           19,75 EUR
+ Art. 18 Abs. 3 Eigenbeförderung: 47,00 EUR  (FlixTrain-Ticket)
+ Art. 20 Verpflegung:             18,00 EUR
+ Summe:                           84,75 EUR
+```
 
 ## Ausgabe
 
-```
-Einordnung Fahrgastrechte-Fall FGR-2026-0042
-Datum: 12.05.2026
-Strecke: Berlin Hbf — München Hbf (ICE 503, Einheits-PNR)
-Geplante Ankunft: 13:20
-Tatsächliche Ankunft: 15:05 (Türöffnung am Bahnsteig)
-Endziel-Verspätung: 105 Minuten
+- `eigenbefoerderung-belegmatrix.yaml` mit erfassten Auslagen und Belegen.
+- `argumentation.md` mit anwendbaren Normen pro Position.
+- Empfehlung Folge-Skill (`forderung-an-db-erste-stufe` oder `fahrgastrechte-widerspruch` bei Ablehnung).
 
-Tatbestand: Verspätung am Zielort 60–119 Minuten (Art. 19 Abs. 1 lit. a VO 2021/782)
-
-Anspruchsgrundlage:
- - Art. 19 Abs. 1 lit. a VO 2021/782 — 25 % des Fahrpreises Entschädigung
- - Art. 18 VO 2021/782 — Wahlrecht (hier nicht relevant, Fahrt durchgeführt)
- - Art. 20 VO 2021/782 — Hilfeleistung war geschuldet (Verpflegung)
-
-Befreiung? Nein:
- - DB-Begründung "technischer Defekt" → nach VO 2021/782 Art. 19 Abs. 10 zählt nicht zu den
-   außergewöhnlichen Umständen außerhalb des Eisenbahnbetriebs. Beweislast DB.
-
-Operating EVU: DB Fernverkehr AG (passivlegitimiert)
-
-Höhe (vorab):
- - Pro Reisendem: 25 % von 79,00 EUR Ticketpreis = 19,75 EUR
- - 3 Reisende: 59,25 EUR Entschädigung
- - Verpflegungs-Auslage: 12,50 EUR (Art. 20 VO)
- - Gesamt: 71,75 EUR
-
-Nächster Skill: entschaedigung-berechnen (exakte Berechnung)
-                forderung-an-db-erste-stufe (Antrag stellen)
-```
-
-## Leitentscheidungen Einordnung
+## Leitentscheidungen Eigenbeförderung und Hilfeleistung
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
----
-
-## Skill: `vollmacht-mitreisende`
-
-_Erzeugt Vollmachten für Mitreisende (Familienmitglieder Freunde Reisegruppe) damit ein Hauptansprechpartner deren Fahrgastrechte-Anspruch im Schriftverkehr Schlichtungs- und Gerichtsverfahren mitvertreten kann. Pro Person eigene Vollmacht mit Inhalt Bezug auf Buchung Mandatsumfang Empfangsvollmac..._
-
-# Vollmacht für Mitreisende
-
-## Vollmacht-Inhalt (Erwachsene)
-
-```
-Vollmacht
-
-Ich, [Vor- und Nachname Vollmachtgeber:in],
-geboren am [Geburtsdatum],
-wohnhaft [Adresse],
-
-bevollmächtige hiermit
-
-   [Vor- und Nachname Vollmachtnehmer:in],
-   geboren am [Geburtsdatum],
-   wohnhaft [Adresse],
-
-mich in allen Angelegenheiten betreffend meinen Anspruch aus dem Bahn-Reise
-
-   Buchungscode (PNR / Auftrags-Nr.): [PNR]
-   Zugnummer: [Zugnummer]
-   Datum: [Datum]
-   Strecke: [Abfahrtsbahnhof] nach [Zielbahnhof]
-   Operating EVU: [z. B. DB Fernverkehr AG]
-
-zu vertreten. Die Vollmacht umfasst insbesondere:
-
-   - vorgerichtliche Geltendmachung der Ansprüche nach VO (EU) 2021/782
-     und EVO gegenüber dem Eisenbahnverkehrsunternehmen,
-   - Korrespondenz mit dem Servicecenter Fahrgastrechte der Deutschen Bahn
-     bzw. dem zuständigen EVU,
-   - Anrufung der Schlichtungsstelle Reise & Verkehr e.V. (vormals söp),
-   - Klageerhebung beim zuständigen Amtsgericht,
-   - Empfangnahme von Zahlungen und Schriftverkehr,
-   - Untervollmacht an eine Rechtsanwältin oder einen Rechtsanwalt sowie
-     Vertretung im Rechtsstreit.
-
-Diese Vollmacht gilt bis zum Widerruf in Textform.
-
-Ort, Datum
-___________________
-
-___________________________________________
-[Vor- und Nachname Vollmachtgeber:in]
-```
-
-## Vollmacht für Minderjährige
-
-Bei minderjährigen Mitreisenden ist die Vollmacht durch die erziehungsberechtigten Personen zu erteilen (regelmäßig beide Elternteile gemeinsam, sofern beide sorgeberechtigt — § 1626 BGB):
-
-```
-Vollmacht für minderjähriges Kind
-
-Wir, die Erziehungsberechtigten
-
-   [Name Mutter / Vater 1], geboren am [Datum], wohnhaft [Adresse]
-   [Name Vater / Mutter 2], geboren am [Datum], wohnhaft [Adresse]
-
-vertreten unser minderjähriges Kind
-
-   [Vor- und Nachname Kind], geboren am [Datum]
-
-und bevollmächtigen hiermit
-
-   [Vor- und Nachname Vollmachtnehmer:in]
-
-in dessen / deren Namen die Ansprüche aus dem Bahn-Reise
-
-   PNR / Auftrags-Nr.: [Nummer]
-   Zug:                [Zugnummer]
-   Datum:              [Datum]
-   Strecke:            [Abfahrtsbahnhof] nach [Zielbahnhof]
-
-nach VO (EU) 2021/782 geltend zu machen — einschließlich vorgerichtlich,
-Schlichtungsverfahren bei der Schlichtungsstelle Reise & Verkehr e.V. und
-gerichtlich vor dem Amtsgericht.
-
-Ort, Datum
-___________________
-
-___________________________________________     ___________________________________________
-[Mutter / Vater 1]                                 [Vater / Mutter 2]
-```
-
-## Vollmacht für Reisegruppen (mehrere unverwandte Erwachsene)
-
-Bei Reisegruppen — Freundeskreis, Kollegen, Vereinsfahrt — gleiches Schema wie bei Erwachsenen-Vollmacht, individuell je Person. Empfehlung: Excel-/CSV-Liste der Vollmachtgebenden mit Zuordnung zu eigenen Tickets im Anlagenkonvolut.
-
-## Datenschutzhinweis (Art. 13 DSGVO)
-
-Bei der Verarbeitung personenbezogener Daten der Mitreisenden im Rahmen der Fahrgastrechte-Geltendmachung gibt der Hauptansprechpartner als Verantwortlicher Hinweis auf:
-
-- Verantwortlicher: Hauptansprechpartner (Name, Adresse, Kontakt)
-- Zweck: Geltendmachung Anspruch nach VO (EU) 2021/782 / EVO
-- Empfänger: EVU (DB / FlixTrain / etc.); Schlichtungsstelle Reise & Verkehr; ggf. Amtsgericht
-- Speicherdauer: bis zur Anspruchsbefriedigung plus drei Jahre (Verjährungsperiode)
-- Rechte: Auskunft, Berichtigung, Löschung, Beschwerde bei Aufsichtsbehörde
-
-## Versand der Vollmachten
-
-```
-Vorlage E-Mail an Mitreisende:
-
-Liebe / Lieber [Name],
-
-beigefügt findest du den Entwurf einer Vollmacht in Sachen unserer
-verspäteten / annullierten Bahn-Reise [Zug] vom [Datum].
-
-Bitte unterschreibe und schicke das Dokument zurück (per Post, Foto oder
-Scan reicht). Damit kann ich deinen Entschädigungsanspruch von etwa [X] EUR
-zusammen mit den anderen geltend machen — ohne dass du selbst etwas tun
-musst.
-
-Ich melde mich, sobald die DB / das EVU reagiert.
-
-Liebe Grüße
-[Name]
-```
-
-## Aktenablage
-
-- **Originale oder Scans hoher Qualität** sind Pflichtanlagen jedes Schriftverkehrs.
-- **Aufbewahrung** bis Anspruchsabwicklung plus drei Jahre (Verjährung).
-- **Datenschutz beachten** — keine unnötige Weiterleitung an Dritte.
-
-## Anwaltliche Vertretung
-
-Bei Übergabe an eine Anwältin oder einen Anwalt: die anwaltliche Untervollmacht ist in der Vollmacht ausdrücklich erfasst ("Untervollmacht an eine Rechtsanwältin oder einen Rechtsanwalt"). Die Kanzlei legt regelmäßig ein eigenes Vollmachtsformular bei.
-
-## Leitentscheidungen Vollmacht / Familienvertretung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Ausgabe
-
-- `vollmacht-<name>-<datum>.md` (eine Datei pro Mitreisendem) und PDF.
-- Vollmacht-Versandliste mit Status (versendet / unterschrieben / vorliegt).
-- Hinweis: Eingang der unterschriebenen Vollmachten ist Voraussetzung für die Mitvertretung in Forderungs-, Schlichtungs- und Klageverfahren.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
 ## Skill: `widerspruch`
 
-_Erstellt einen formellen Widerspruchsbrief gegen die Ablehnung eines Fahrgastrechte-Antrags der Deutschen Bahn oder eines anderen Eisenbahnverkehrsunternehmens. Verwende diesen Skill immer wenn der Nutzer ein Ablehnungsschreiben des DB-Servicecenters Fahrgastrechte (oder gleichwertiger EVU-Stelle..._
+_Wenn es um Fahrgastrechte-Widerspruch — Skill in Fahrgastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
 # Fahrgastrechte-Widerspruch — Skill
 
@@ -2338,155 +1182,1335 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ---
 
-## Skill: `eigenbefoerderung-und-betreuung-art-18`
+## Skill: `anlagen-bauen`
 
-_Prüfraster für Selbstbefoerderung des Fahrgasts (Art. 18 Abs. 3 Unterabs. 2 VO 2021/782 mit 100-Minuten-Frist) und Hilfeleistungs-Anspruch (Art. 20 VO Verpflegung Hotel Transport) sowie SPNV-Sonderfall § 11 EVO (20-Min-Schwelle Alternativzug; 120 EUR Hoechstbetrag Ersatzbefoerderung bei Nachtfah..._
+_Wenn es um Fahrgastrechte — Anlagen bauen in Fahrgastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Eigenbeförderung und Betreuung (Art. 18, 20 VO; § 11 EVO)
+# Fahrgastrechte — Anlagen bauen
 
-## Drei Anspruchsgrundlagen
+## Eingaben
 
-### 1. Eigenbeförderung (Art. 18 Abs. 3 Unterabs. 2 VO 2021/782)
+```yaml
+schriftsatz: <pfad zum Schriftsatz, z.B. widerspruch-2026-05-15.md>
+rohbelege_verzeichnis: <fall>/belege/
+ausgabeverzeichnis: <fall>/anlagen/
+bundle: true                       # erzeugt zusätzlich Schriftsatz_mit_Anlagen.pdf
+schriftgrad_stempel: 12
+schrift_stempel: Arial-Bold        # Arial 12 FETT oben rechts
+bezeichnung: "Anlage K"
+```
 
-**Tatbestand:**
+## Workflow
 
-Wenn dem Fahrgast die verfügbaren Optionen für Weiterreise mit geänderter Streckenführung **nicht binnen 100 Minuten** nach planmäßiger Abfahrtszeit des verspäteten oder ausgefallenen Verkehrsdienstes oder des verpassten Anschlusses **mitgeteilt** werden, ist der Fahrgast berechtigt, Verträge mit anderen Anbietern öffentlicher Verkehrsdienste zu schließen (Eisenbahn, Reisebus, Bus).
+### 1. Schriftsatz parsen
 
-**Rechtsfolge:** Das EVU erstattet die **notwendigen, angemessenen und zumutbaren Kosten**.
+Liest den Schriftsatz und identifiziert alle erwähnten Anlagen anhand der Bezeichnung `Anlage K 1`, `Anlage K 2`, ... oder `Anlage K1`, `Anlage K2`. Erstellt geordnete Liste in Reihenfolge der Erwähnung im Text.
 
-**Praxisprüfung:**
+### 2. Rohbelege zuordnen
 
-| Frage | Antwort |
-|---|---|
-| Wann beginnt die 100-Min-Frist? | mit planmäßiger Abfahrtszeit des betroffenen Verkehrsdienstes |
-| Was zählt als "Mitteilung"? | konkrete Alternativ-Verbindung mit Zeit und Route — nicht: "wir melden uns gleich"; nicht: pauschale Verspätungsanzeige in der App |
-| Was sind "notwendige, angemessene und zumutbare Kosten"? | Standardklassen-Ticket bei Konkurrenz-Bahn / Fernbus; nur Standard-Hotel; Taxi bei fehlender ÖV-Alternative |
-| Worauf zu achten? | Belege aufbewahren; Eingangsbestätigung der App / SMS-Mitteilung der DB sichern, um 100-Min-Verstreichen zu beweisen |
+Verzeichnis `belege/` durchsuchen und jedem Anlage-K-Eintrag eine Datei zuordnen. Typische Belege im Fahrgastrechte-Kontext:
 
-**Was NICHT erstattungsfähig ist:**
-
-- Aufpreis 1. Klasse, wenn DB-Ticket 2. Klasse war.
-- Flug, wenn vergleichbare Bahn / Bus möglich war.
-- Privat-PKW-Erstattung über üblichen Tagessatz hinaus (Kilometerpauschale max. ähnlich JVEG).
-- Verlust verfallener Anschluss-Tickets, wenn diese separat (eigene PNR) gebucht waren.
-
-### 2. Hilfeleistung (Art. 20 VO 2021/782)
-
-**Tatbestand:**
-
-Bei Verspätung von Abfahrt oder Ankunft um **60 Minuten und mehr** bietet das EVU dem Fahrgast kostenlos:
-
-- a) **Mahlzeiten und Erfrischungen** in angemessenem Verhältnis zur Wartezeit, sofern verfügbar oder vernünftigerweise herbeischaffbar;
-- b) **Hotel oder andere Unterkunft + Transport zwischen Bahnhof und Unterkunft**, wenn ein Aufenthalt von einer oder mehreren Nächten oder ein zusätzlicher Aufenthalt notwendig wird;
-- c) **Transport zwischen Zug und Bahnhof, einem anderen Verkehrsmittel oder dem Zielort**, falls Zug auf der Strecke blockiert ist.
-
-**Wenn DB diese Leistung nicht erbringt:** Der Fahrgast darf selbst kaufen und das EVU erstattet (Schadensersatz aus Vertragsverletzung; argumentativ + § 280 BGB).
-
-**Angemessenheit:**
-
-- Verpflegung: typische Bahnhofs-Preise (Wasser, Brötchen, Heißgetränk). Richtwert 5–25 EUR je Stunde Wartezeit.
-- Hotel: Standard-Niveau (3-Sterne), nicht Premium.
-- Taxi nur, wenn ÖV nicht verfügbar (Nachtzeit) oder Hotel nicht in ÖV-Reichweite.
-
-### 3. SPNV-Zusatzrecht § 11 EVO
-
-**Tatbestand:** Fahrgast besitzt SPNV-Fahrausweis. Erwartet wird **mindestens 20 Min Verspätung** am Zielort wegen Ausfall oder Unpünktlichkeit.
-
-**Rechtsfolgen:**
-
-| Anspruch | Voraussetzung | Norm |
+| Anlage typisch | Datei-Pattern | Beschreibung |
 |---|---|---|
-| Fahrt mit anderem **Zug** zum vertragsgemäßen Zielort | ≥ 20 Min prognostiziert | § 11 Abs. 1 Nr. 1 EVO |
-| Fahrt mit anderem **Verkehrsmittel** (Taxi, Bus) — Erstattung notwendig + angemessen | a) Ankunft 0–5 Uhr und ≥ 60 Min Verspätung erwartet, ODER b) letzter Zug des Tages | § 11 Abs. 1 Nr. 2 EVO |
-| **Höchstbetrag** Ersatzbeförderung | 120 EUR | § 11 Abs. 2 EVO |
+| K1 | `buchung-*.pdf` | Buchungsbestätigung der DB / des EVU |
+| K2 | `e-ticket-*.pdf` oder `fahrkarten-*.pdf` | E-Tickets / Fahrkarten aller Reisenden |
+| K3 | `verspaetung-*.png` oder `db-navigator-*.png` | DB-Verspätungsmitteilung (App / SMS / E-Mail) |
+| K4 | `anzeigetafel-*.jpg` | Foto Anzeigetafel Zielbahnhof mit Uhrzeit |
+| K5 | `belege-auslagen/*.pdf` | Belege zu Ersatzbeförderung / Verpflegung / Hotel |
+| K6 | `erstantrag-*.pdf` | Eigener Erstantrag an DB Servicecenter |
+| K7 | `ablehnung-*.pdf` | Ablehnungsschreiben der DB |
+| K8 | `widerspruch-*.pdf` | Eigener Widerspruch (in Klage relevant) |
+| K9 | `schlichtungsspruch-*.pdf` | Schlichtungsspruch der Schlichtungsstelle Reise & Verkehr |
+| K10 ff. | `vollmacht-*.pdf` | Vollmachten der Mitreisenden |
 
-**Ausschluss anderer Zug:** Wenn (1) Reservierungspflicht, (2) Sonderfahrt oder (3) erhebliche Störung des Betriebsablaufs zu erwarten (§ 11 Abs. 3 EVO).
+Wenn eine erwähnte Anlage nicht zugeordnet werden kann: **Prüfer-Flag** mit Liste der unzugeordneten Bezugnamen.
 
-## Entscheidungsbaum
+### 3. Belege konvertieren und stempeln
 
-```
-1. Welcher Verkehr?
-   ├── Fernverkehr → Art. 18 + Art. 20 VO (100-Min-Frist; 60-Min-Hilfeleistung)
-   └── SPNV → § 11 EVO + Art. 18 + Art. 20 VO (kumulativ)
-
-2. Hat DB Alternativ-Verbindung mitgeteilt?
-   ├── Nein, > 100 Min nach planmäßiger Abfahrt → Eigenbeförderung Art. 18 Abs. 3 Unterabs. 2 VO
-   ├── Ja, aber unzumutbar → vertragliche Klärung; Schaden ggf. nach § 280 BGB
-   └── Ja, zumutbar → Annahme; bei späterer Erstattung nur Differenz wenn DB-Vorschlag genutzt
-
-3. Hat Fahrgast Verpflegung / Hotel / Transport selbst gekauft?
-   ├── Bei Wartezeit ≥ 60 Min UND DB hat nicht angeboten → Art. 20 VO Erstattung
-   ├── Höhe angemessen? → Belege prüfen
-   └── Eigene Beweispflicht: was hat DB konkret nicht angeboten?
-
-4. Bei SPNV-Sondersituation (Nachtfahrt, letzte Verbindung)?
-   ├── ≥ 60 Min Ankunft 0–5 Uhr → Taxi/Bus bis 120 EUR (§ 11 Abs. 2 EVO)
-   └── letzte Verbindung + Zielort nicht mehr bis 24:00 Uhr erreichbar → dito
-```
-
-## Belege
-
-Pflicht-Belege:
-
-- **Kassenbeleg / Rechnung** (mit Datum, Position, Preis)
-- **DB-Verspätungsbestätigung** (über Servicecenter Fahrgastrechte abrufbar)
-- **App-Screenshot** mit DB-Information über erwartete Ankunftszeit
-- **Foto Bahnhofs-Anzeigetafel** oder **Foto Zug-Display** bei Stillstand
-- **SMS / E-Mail** der DB mit Information / Nicht-Information
-- **Zeugen** — Mitreisende
-
-## Argumentation gegen typische DB-Ablehnung
-
-### "Sie hätten die DB-Hotline anrufen sollen, bevor Sie Taxi nehmen"
-
-> **Gegenargument:** Art. 18 Abs. 3 Unterabs. 2 VO 2021/782 knüpft an objektives Verstreichen der 100-Min-Frist ohne Mitteilung an. Es besteht keine Obliegenheit, die DB-Hotline anzurufen. § 11 EVO ist im SPNV unmittelbar anwendbar.
-
-### "Die genutzte Alternativbeförderung war nicht notwendig"
-
-> **Gegenargument:** Maßgeblich ist die ex-ante-Sicht des Fahrgasts. Wenn die DB binnen 100 Min keine konkrete Alternative mitgeteilt hat oder die mitgeteilte Alternative unzumutbar war, war Eigenbeförderung notwendig. Beweislast für Mitteilung: DB.
-
-### "Hotelkosten sind unangemessen"
-
-> **Gegenargument:** Angemessen ist eine Standard-Unterkunft (3-Sterne-Niveau). Beleg über vergleichbare Verfügbarkeit zum Buchungszeitpunkt vorlegen. Bei Buchung über bahn.de eigene Empfehlung der DB einfordern.
-
-### "Verpflegungskosten übersteigen Pauschalsatz"
-
-> **Gegenargument:** VO 2021/782 kennt keinen Pauschalsatz. Art. 20 VO verlangt Angemessenheit im Verhältnis zur Wartezeit. Bahnhofs-Preise sind branchenüblich.
-
-### "Sparpreis schließt Erstattung aus"
-
-> **Gegenargument:** Art. 7 VO 2021/782 — Vertragsbedingungen dürfen Rechte aus der VO nicht einschränken. Erstattung von Auslagen folgt aus Art. 18 / 20 VO, nicht aus Ticket-Tarifart.
-
-## Beispielfall
+Jeden Rohbeleg in PDF konvertieren (HEIC / JPG / PNG / DOCX / XLSX → PDF). Auf jedem Anlagen-PDF oben rechts in **Arial 12 FETT** (Helvetica-Bold 12pt) den Bezeichner stempeln:
 
 ```
-Fall: ICE 503 Berlin–München, geplante Ankunft 13:20.
-Während der Fahrt Verspätungs-App-Mitteilung: "Ankunft 16:30 voraussichtlich"
-(180 Min Verspätung).
-Keine zumutbare Bahn-Alternative von DB angeboten.
-
-100-Min-Frist: ab planmäßiger Abfahrt 08:25 + 100 Min = bis 10:05.
-Bis 10:05 keine Alternativ-Verbindung mitgeteilt.
-Fahrgast nimmt um 12:00 FlixTrain ab Frankfurt nach München (47 EUR);
-erreicht München um 15:00.
-
-Endziel-Verspätung: 100 Min → 25 % Sparpreis 79 EUR = 19,75 EUR Entschädigung.
-Eigenbeförderungs-Kosten: 47 EUR FlixTrain. Plus: 18 EUR Verpflegung 4 Stunden Wartezeit.
-
-Gesamtforderung Fahrgastrechte:
- Art. 19 Entschädigung:           19,75 EUR
- Art. 18 Abs. 3 Eigenbeförderung: 47,00 EUR  (FlixTrain-Ticket)
- Art. 20 Verpflegung:             18,00 EUR
- Summe:                           84,75 EUR
+                                                                    Anlage K 1
+[Inhalt]
 ```
+
+Dateibenennung: ohne Umlaute und Leerzeichen — `Anlage_K_1.pdf`, `Anlage_K_2.pdf`, … gemäß beA-Konvention.
+
+### 4. Sammel-PDF optional
+
+Wenn `bundle: true`: Sammel-PDF `Schriftsatz_mit_Anlagen.pdf` erzeugen — Schriftsatz vorne, Anlagen in nummerierter Reihenfolge mit Lesezeichen je Anlage. Nützlich für Akteneintrag und Sicht-Backup.
+
+### 5. Ausgabe
+
+Im `ausgabeverzeichnis/`:
+
+- `Anlage_K_1.pdf`, `Anlage_K_2.pdf`, … (separate Anlagen-PDFs für beA-Upload)
+- `Schriftsatz_mit_Anlagen.pdf` (Sammel-PDF, wenn bundle: true)
+- `anlagen-uebersicht.md` (Tabelle Anlage K → Datei → Beschreibung; Fehlen-Hinweise)
+
+## beA-Konvention
+
+- Anlagen werden im beA als **separate PDFs** eingereicht.
+- Jeweils mit Stempel oben rechts in **Arial 12 FETT**.
+- **Dateiname** ohne Umlaute, ohne Leerzeichen: `Anlage_K_1.pdf`.
+- **Reihenfolge** muss der Erwähnung im Schriftsatz entsprechen.
+- Sammel-PDF zusätzlich für eigenes Aktenexemplar (nicht für beA-Upload).
+
+## Foto-Belege bei DB-Verspätung — besondere Hinweise
+
+- **Foto Anzeigetafel:** Uhrzeit muss erkennbar sein. Bei mehreren Anzeigetafeln nur die maßgebliche (Zielbahnhof). Datum eines Tages-Vergleichs ggf. durch EXIF-Daten ergänzen.
+- **DB-Navigator-Screenshot:** möglichst mit Verbindungsdetails-Seite, die geplante und tatsächliche Ankunftszeit zeigt.
+- **Ablehnungsschreiben:** alle Seiten in einer PDF (auch Rückseiten / Anlagen des Schreibens).
+- **Vollmachten:** Originale-Scans hoher Qualität. Beidseitige Unterschriften bei sorgeberechtigten Eltern eines Minderjährigen.
+
+## Fehlerquellen
+
+- Schriftsatz erwähnt `Anlage K5`, im Belege-Verzeichnis fehlt die zugehörige Datei → Skript bricht ab; Prüfer-Flag.
+- Doppelte Anlage K-Nummerierung im Schriftsatz → Fehlermeldung; manueller Eingriff.
+- HEIC-Dateien iOS → automatische Konvertierung; bei OCR-Bedarf Hinweis.
+- Mehrseitige Anlage in mehreren Dateien (z.B. Ablehnungsschreiben S. 1 separat) → Pre-Merge in eine Datei vor Stempelung.
+
+## Ausgabe-Beispiel
+
+```
+anlagen-uebersicht.md
+============================
+Fall: FGR-2026-0042
+Schriftsatz: widerspruch-2026-05-15.md
+Erzeugte Anlagen:
+
+| Anlage   | Datei                       | Beschreibung                          | Status |
+|----------|-----------------------------|----------------------------------------|--------|
+| Anlage K 1 | Anlage_K_1.pdf             | Buchungsbestätigung PNR ABC123          | ok      |
+| Anlage K 2 | Anlage_K_2.pdf             | E-Tickets Mueller (3 Personen)          | ok      |
+| Anlage K 3 | Anlage_K_3.pdf             | DB-Navigator Verspätungsmitteilung       | ok      |
+| Anlage K 4 | Anlage_K_4.pdf             | Foto Anzeigetafel Muenchen Hbf 15:05   | ok      |
+| Anlage K 5 | Anlage_K_5.pdf             | Kassenbon Bahnhofs-Imbiss 12,50 EUR    | ok      |
+| Anlage K 6 | Anlage_K_6.pdf             | Erstantrag an DB Servicecenter           | ok      |
+| Anlage K 7 | Anlage_K_7.pdf             | Ablehnungsschreiben DB vom 12.05.2026    | ok      |
+
+Sammel-PDF: Schriftsatz_mit_Anlagen.pdf erzeugt (28 Seiten, 4.2 MB).
+```
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 13 DSGVO
+- § 71 GVG
+- § 32 VSBG
+- § 23 VSBG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+
+---
+
+## Skill: `einfuehrung-vo-2021-782`
+
+_Wenn es um Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn
+
+## Rechtsquellen
+
+- **VO (EU) 2021/782** vom 29. April 2021 — Neufassung, in Kraft seit 7. Juni 2023, ersetzt VO (EG) 1371/2007. ABl. L 172 vom 17.5.2021, S. 1. [eur-lex.europa.eu (CELEX 32021R0782)](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32021R0782).
+- **EVO 2023** — Eisenbahnverkehrs-Verordnung vom 4. August 2023 (BGBl. 2023 I Nr. 208). Ergänzt die EU-VO für deutsche Eisenbahnverkehrsunternehmen, insbesondere im SPNV.
+
+## Anwendungsbereich (Art. 2 VO; § 2 EVO)
+
+### Wer ist erfasst?
+
+| Verkehr | EU-VO 2021/782 | Einschränkungen (D) |
+|---|---|---|
+| Fernverkehr (ICE, IC, EC, FlixTrain) | voll | keine |
+| Regionalverkehr (RE, RB) — SPNV | weitgehend | § 2 EVO: Art. 20 Abs. 2 lit. a, 29, 30 Abs. 1 Satz 1, 9 Abs. 2 ausgenommen/modifiziert |
+| Stadt-/Vorortverkehr (S-Bahn, U-Bahn) | von DE ausgenommen | Nationale Regelung (vorrangig Tarifbedingungen) |
+| Historisch / touristisch | nur Art. 13, 14 | § 2 Abs. 2 EVO |
+
+### Wer ist passivlegitimiert?
+
+Anspruchsgegner ist das **ausführende Eisenbahnverkehrsunternehmen (EVU)** — Art. 19 Abs. 1 VO 2021/782. Bei DB-Tickets:
+
+- **DB Fernverkehr AG** (ICE, IC, EC) — Stephensonstraße 1, 60326 Frankfurt am Main
+- **DB Regio AG** (RE, RB im Auftrag der Bundesländer) — Stephensonstraße 1, 60326 Frankfurt am Main
+- Konkurrenzanbieter mit eigener PNR: **ÖBB-Personenverkehr AG** (Wien), **FlixTrain GmbH** (München), **NWB Nordwestbahn**, **Vlexx**, **Abellio**, **Transdev**, **Go-Ahead** etc.
+- Bei DB-Konkurrenz-Ticket im DB-Vertriebssystem (z.B. NWB-Strecke via bahn.de gebucht): **NWB als Operating EVU passivlegitimiert**, DB nur als Vermittler.
+
+### Begriffe (Art. 3 VO)
+
+- **Verspätung (Nr. 17):** Zeitdifferenz zwischen planmäßiger und tatsächlicher / erwarteter Ankunft am Zielbahnhof.
+- **Ankunft (Nr. 18):** Türöffnung am Bahnsteig — nicht Halt des Zuges.
+- **Durchgangsfahrkarte (Nr. 9):** Fahrkarte über mehrere aufeinander folgende Dienste als einheitlicher Beförderungsvertrag.
+- **Verpasster Anschluss (Nr. 20):** Folge einer Verspätung / eines Ausfalls innerhalb einer Durchgangsfahrkarte.
+
+## Schwellen und Beträge (Art. 19)
+
+### Entschädigung
+
+| Verspätung am Zielort | Anteil Fahrpreis |
+|---|---|
+| 60–119 Minuten | **25 %** |
+| ≥ 120 Minuten | **50 %** |
+
+**Mindestauszahlung:** 4 EUR pro Fahrkarte (Art. 19 Abs. 8). EVU darf Beträge darunter ablehnen.
+
+**Bezugsgröße:** tatsächlich gezahlter Fahrpreis für den verspäteten Verkehrsdienst. Bei Hin- und Rückfahrt-Ticket: halber Preis als Bezugsgröße. Bei Einzelstrecken-Aufteilung: anteiliger Preis.
+
+**Zeitfahrkarten (Abs. 2):** Pauschale nach Tarifbestimmungen — siehe `references/db-tarif-und-agb.md`:
+
+- BahnCard 100: 10 EUR (60 Min) / 20 EUR (120 Min)
+- Deutschlandticket: 1,50 EUR pro Verspätung ab 60 Min, höchstens 25 % des Monatspreises
+- Wochen-/Monatskarten: anteilig analog Deutschlandticket
+
+### Erstattung / Weiterreise (Art. 18)
+
+**Auslöser:** Vernünftig erwartete Verspätung am Zielort ≥ 60 Min, verpasster Anschluss, Zugausfall.
+
+**Wahlrecht:**
+
+a) Erstattung des vollen Fahrpreises (ggf. mit Rückbeförderung)
+b) Weiterreise mit nächster Gelegenheit (geänderte Streckenführung möglich)
+c) Weiterreise zu späterem Zeitpunkt
+
+**Eigenständige Beförderung (Art. 18 Abs. 3 Unterabs. 2):** Wenn Bahn **nicht binnen 100 Minuten** nach planmäßiger Abfahrt Weiterreise-Optionen mitteilt, darf Fahrgast eigene Verträge schließen (Taxi, Bus, anderer Bahn-Anbieter). EVU erstattet notwendige, angemessene und zumutbare Kosten.
+
+**Bearbeitungsfrist Erstattung:** binnen 30 Tagen (Art. 18 Abs. 5).
+
+### Hilfeleistung (Art. 20)
+
+Bei Verspätung von Abfahrt oder Ankunft um **60 Minuten und mehr** kostenlos:
+
+- Mahlzeiten und Erfrischungen in angemessenem Verhältnis (sofern verfügbar oder herbeischaffbar)
+- Hotelunterkunft + Transport zwischen Bahnhof und Hotel bei notwendiger Übernachtung
+- Transport bei Stillstand auf der Strecke
+
+Wenn DB die Hilfeleistung nicht erbringt: Fahrgast darf selbst kaufen, EVU erstattet (analog Art. 18 Abs. 3 Unterabs. 2 i.V.m. § 11 Abs. 2 EVO für SPNV).
+
+## Befreiungstatbestände (Art. 19 Abs. 10)
+
+EVU ist befreit, wenn Verspätung, verpasster Anschluss oder Zugausfall direkte Folge von oder im untrennbaren Zusammenhang mit folgenden Umständen war:
+
+a) **außerhalb des Eisenbahnbetriebs liegende außergewöhnliche Umstände** — Extremwetter, große Naturkatastrophen, schwere Gesundheitskrisen;
+b) **Verschulden des Fahrgasts**;
+c) **Verhalten eines Dritten** — Betreten der Gleise, Kabeldiebstahl, Notfälle im Zug, Strafverfolgungsmaßnahmen, Sabotage, Terrorismus.
+
+**Ausdrücklich nicht befreiend (Art. 19 Abs. 10 Unterabs. 2):**
+
+> "Streiks des Personals des Eisenbahnunternehmens, Handlungen oder Unterlassungen eines anderen Unternehmens, das dieselbe Eisenbahninfrastruktur nutzt, und Handlungen oder Unterlassungen der Infrastrukturbetreiber und Bahnhofsbetreiber fallen nicht unter die Ausnahme nach Unterabsatz 1 Buchstabe c."
+
+**Praxisrelevant:**
+
+- DB-Personalstreiks (GDL, EVG) — bleiben entschädigungspflichtig.
+- DB Netz AG Störungen / Signalstörungen / Bauarbeiten — als Handlungen / Unterlassungen der Infrastrukturbetreiber NICHT befreiend.
+- Andere EVUs auf gleicher Strecke (z.B. Güterverkehr blockiert ICE-Strecke) — Handlungen anderer Unternehmen NICHT befreiend.
+- Wettergrund nur, wenn extrem und nicht vorhersehbar.
+
+## Verzichtsverbot (Art. 7)
+
+Vertragsbedingungen, die direkt oder indirekt die Rechte aus der VO aufheben oder einschränken, sind **für den Fahrgast nicht verbindlich**.
+
+→ DB-Tarife dürfen nur **erweitern** (z.B. Sparpreis-Zugbindungsaufhebung ab 20 Min) — niemals beschränken (z.B. "Sparpreise haben keine Entschädigungsansprüche" ist unwirksam).
+
+## Beschwerde und Schlichtung
+
+**Art. 27 VO:** Beschwerderecht beim EVU binnen **drei Monaten** (Verfahrensfrist, nicht materielle Ausschlussfrist). EVU antwortet binnen einem Monat, in begründeten Fällen binnen drei Monaten.
+
+**§ 15 EVO:** Schlichtungsstelle. In Deutschland: **Schlichtungsstelle Reise & Verkehr e.V.** (vormals söp), Fasanenstraße 81, 10623 Berlin. Anerkannt nach §§ 4 ff. VSBG. Kostenfrei für Verbraucher. Voraussetzung: vorgerichtlich erfolglose Reklamation; keine anhängige Klage.
+
+## Verjährung
+
+§ 195 BGB: drei Jahre. § 199 Abs. 1 BGB: Beginn am Schluss des Kalenderjahres, in dem der Anspruch entstand und der Verbraucher Kenntnis hatte.
+
+**Beispiel:** Verspätung am 12.05.2026 → Verjährung mit Ablauf 31.12.2029.
+
+## Gerichtsstand
+
+- **Brüssel-Ia Art. 7 Nr. 1 lit. b** + § 29 ZPO — Erfüllungsort: Abfahrts- oder Zielbahnhof (Fahrgast hat Wahlrecht).
+- Subsidiär §§ 12, 17 ZPO — Sitz der DB Fernverkehr AG / DB Regio AG (Frankfurt am Main) oder Konzern (DB AG Berlin).
+- Sachliche Zuständigkeit: § 23 Nr. 1 GVG (10.000 EUR Schwelle seit 01.01.2026) Amtsgericht; darüber Landgericht mit Anwaltszwang (§ 78 ZPO).
+
+## Praxis-Schwellen Übersicht
+
+| Frage | Schwelle | Norm |
+|---|---|---|
+| Wann Entschädigung 25 %? | ≥ 60 Min Verspätung am Zielort | Art. 19 Abs. 1 lit. a VO |
+| Wann Entschädigung 50 %? | ≥ 120 Min Verspätung am Zielort | Art. 19 Abs. 1 lit. b VO |
+| Wann Hilfeleistung (Verpflegung, Hotel)? | ≥ 60 Min | Art. 20 VO |
+| Wann Wahlrecht Erstattung/Weiterreise? | ≥ 60 Min prognostiziert | Art. 18 Abs. 1 VO |
+| Wann Eigenbeförderung erlaubt? | DB schweigt > 100 Min ab planmäßiger Abfahrt | Art. 18 Abs. 3 Unterabs. 2 VO |
+| Wann Sparpreis-Zugbindung aufgehoben? | > 20 Min prognostiziert | Ziffer 9 BB DB |
+| Wann SPNV-Alternativzug (§ 11 EVO)? | ≥ 20 Min prognostiziert am Zielort | § 11 Abs. 1 Nr. 1 EVO |
+| Wann SPNV-Taxi/Bus (§ 11 EVO)? | Ankunft 0–5 Uhr + ≥ 60 Min, oder letzte Verbindung Tag | § 11 Abs. 1 Nr. 2 EVO |
+| Höchstbetrag SPNV-Ersatzbeförderung? | 120 EUR | § 11 Abs. 2 EVO |
+| Mindestbetrag Entschädigung? | 4 EUR pro Fahrkarte | Art. 19 Abs. 8 VO |
+| Verjährung Anspruch? | 3 Jahre ab Jahresende | §§ 195, 199 Abs. 1 BGB |
+| Beschwerdefrist EVU (Verfahren)? | 3 Monate | Art. 27 VO |
+| Bearbeitungsfrist Erstattung DB? | 30 Tage | Art. 18 Abs. 5 VO |
+| Bearbeitungsfrist Entschädigung DB? | 1 Monat | Art. 19 Abs. 7 VO |
+| AG-Zuständigkeit Streitwert? | bis 10.000 EUR | § 23 Nr. 1 GVG n.F. |
 
 ## Ausgabe
 
-- `eigenbefoerderung-belegmatrix.yaml` mit erfassten Auslagen und Belegen.
-- `argumentation.md` mit anwendbaren Normen pro Position.
-- Empfehlung Folge-Skill (`forderung-an-db-erste-stufe` oder `fahrgastrechte-widerspruch` bei Ablehnung).
+Bei Einsatz dieses Skills als Antwort auf eine Mandanten- oder Praxisfrage:
 
-## Leitentscheidungen Eigenbeförderung und Hilfeleistung
+1. Kurze Einordnung der Frage in das System der VO 2021/782 / EVO.
+2. Verweis auf konkrete Norm mit Schwelle.
+3. Hinweis auf passenden Folge-Skill aus diesem Plugin.
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+---
+
+## Skill: `verspaetung-und-anschlussverlust-einordnen`
+
+_Wenn es um Verspätung, Zugausfall oder Anschlussverlust einordnen in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Verspätung, Zugausfall oder Anschlussverlust einordnen
+
+## Tatbestände im Überblick
+
+| Tatbestand | Norm | Konsequenz |
+|---|---|---|
+| **Verspätung am Zielort ≥ 60 Min** | Art. 19 VO + Art. 18 VO | Entschädigung (25/50 %) UND Wahlrecht Erstattung/Weiterreise |
+| **Verspätung am Zielort < 60 Min** | Art. 19 Abs. 9 VO | Kein Entschädigungsanspruch (Mindestschwelle nicht erreicht) |
+| **Zugausfall** | Art. 18 + Art. 19 VO | Wahlrecht Erstattung/Weiterreise; Entschädigung wenn Endziel-Verspätung ≥ 60 Min |
+| **Verpasster Anschluss (Einheits-PNR)** | Art. 12 Abs. 3 VO | Wie Verspätung; Endziel-Maßstab |
+| **Verpasster Anschluss (separate PNRs)** | Art. 12 Abs. 4–5 VO | Anspruch je Vertrag separat; ggf. 75 %-Entschädigung des Fahrkartenverkäufers |
+| **Vorverlegung der Abfahrt** | nicht ausdrücklich in VO 2021/782 — analog Art. 8 | Falls Fahrgast den vorverlegten Zug nicht erreicht: Behandlung wie Ausfall |
+| **Nichtbeförderung (Überbuchung im Eisenbahnverkehr)** | praktisch selten; Art. 18 analog | Wahlrecht; ggf. Schadensersatz nach Art. 26 Abs. 5 Anhang I CIV |
+| **SPNV — 20-Min-Schwelle für Alternativzug** | § 11 EVO | Recht auf Wechsel auf anderen Zug (nicht: Entschädigung — die folgt Art. 19 VO) |
+
+## Differenzierungs-Schema
+
+### Schritt 1: Welcher Verkehr?
+
+- **Fernverkehr** (ICE, IC, EC, FlixTrain, ÖBB) → Art. 19 VO ungeschmälert (60/120 Min).
+- **SPNV** (RE, RB, S-Bahn im SPNV-Sinn) → Art. 19 VO ungeschmälert PLUS § 11 EVO Zusatzrechte (20-Min-Schwelle für Alternativzug; 120-EUR-Limit Ersatzbeförderung bei Nachtfahrt).
+- **Stadt-/Vorortverkehr (S-Bahn-Tarifgebiete, U-Bahn)** — Deutschland hat ausgenommen; Ansprüche nach Tarifbedingungen und nationalen Sonderregeln.
+
+### Schritt 2: Welche Ankunftsverspätung am ZIELORT (nicht Etappe)?
+
+| Verspätung am Endziel | Anspruch |
+|---|---|
+| 0–59 Min | kein Entschädigungsanspruch nach Art. 19 |
+| 60–119 Min | 25 % des Fahrpreises |
+| ≥ 120 Min | 50 % des Fahrpreises |
+
+**Achtung:** Auch wenn ein Etappenzug 120 Min Verspätung hatte, der Fahrgast aber durch günstigen Anschlusszug nur 30 Min am Endziel verspätet war: **kein Anspruch** (Art. 19 Abs. 9 VO).
+
+### Schritt 3: Durchgangsfahrkarte oder separate Tickets?
+
+- **Einheitliche PNR**: alle Etappen sind Durchgangsfahrkarte → Anspruch bezieht sich auf Endziel-Verspätung (Art. 12 Abs. 3 VO).
+- **Separate PNRs** (z.B. Hin- mit Sparpreis, Anschlussfahrt mit anderem Ticket): jede Strecke einzeln zu bewerten; Anschluss-Garantie greift nicht. Ausnahme Art. 12 Abs. 4 VO: bei Fahrkartenverkäufer / Reiseveranstalter kombiniert + Fehlinformation → 75 %-Entschädigung des Vermittlers.
+
+### Schritt 4: Tatbestand benennen
+
+```yaml
+einordnung:
+  tatbestand: verspaetung-am-zielort-mindestens-60-min
+  norm-anker:
+    - Art. 19 Abs. 1 lit. a VO 2021/782   # 25 %
+    - Art. 18 Abs. 1 VO 2021/782          # Wahlrecht
+    - Art. 20 VO 2021/782                 # Hilfeleistung
+  endziel-verspaetung-min: 105
+  verspaetungsstufe: stufe-1-25-prozent   # stufe-1-25 | stufe-2-50
+  durchgangsfahrkarte: ja
+  spnv: nein                              # ja triggert zusätzlich § 11 EVO
+  folge-skills:
+    - entschaedigung-berechnen
+    - forderung-an-db-erste-stufe
+    - eigenbefoerderung-und-betreuung-art-18   # falls Auslagen entstanden
+```
+
+## Spezialfall: Vorverlegung
+
+VO 2021/782 regelt Vorverlegung **nicht ausdrücklich**, anders als die Fluggast-VO 261/2004 (für die der EuGH Vorverlegungen als Annullierung behandelt — Aktenzeichen vor Verwendung in einem Schriftsatz über curia.europa.eu live verifizieren, nicht aus Modellwissen zitieren). In der Eisenbahn-Praxis: Die DB schickt ggf. eine Verfrühungs-Mitteilung; der Fahrgast erreicht den Zug nicht.
+
+**Sachgerechte Einordnung:** Wenn der Fahrgast den vorverlegten Zug nicht erreichen kann und keine anderweitige Beförderung mit gleicher Ankunftszeit angeboten wird, ist die Situation funktional einem Ausfall gleichzustellen. Art. 18 (Wahlrecht) und Art. 19 (Entschädigung) sind entsprechend anwendbar.
+
+→ Hinweis: Live-Recherche bei curia.europa.eu oder bundesgerichtshof.de prüfen, ob neuere Entscheidung speziell zu Eisenbahn-Vorverlegung vorliegt.
+
+## Spezialfall: Nichtbeförderung (Eisenbahn-Überbuchung)
+
+Im Eisenbahnverkehr selten (anders als bei Flügen). Wenn die DB / FlixTrain die Beförderung verweigert (z.B. wegen Überfüllung in der reservierten 1. Klasse): Wahlrecht analog Art. 18; Schadensersatz Art. 26 Abs. 5 Anhang I CIV. Im Klagefall sehr individuell — vorbereitende Eilprüfung erforderlich.
+
+## Spezialfall: Streiks DB-Personal
+
+Die häufigste Standardausrede der DB: "Streik = außergewöhnlicher Umstand". **Falsch.** Art. 19 Abs. 10 Unterabs. 2 VO 2021/782 schließt Streiks des EVU-Personals **ausdrücklich** von der Befreiungsregel aus. Auch Streiks bei DB Netz AG (Infrastrukturbetreiber) sind nach derselben Norm nicht befreiend.
+
+## Spezialfall: Wetter
+
+- Normales Winterwetter (Schnee, Glatteis) → kein außergewöhnlicher Umstand. EVU muss sich vorbereiten.
+- Extremereignisse (Jahrhundert-Sturm, Hochwasser, Lawinen) → **kann** außergewöhnlich sein. Beweislast EVU; muss zumutbare Vorkehrungen darlegen.
+
+## Spezialfall: Personenschäden (Notarzteinsatz auf der Strecke)
+
+- Im Grunde Drittverschulden (Art. 19 Abs. 10 lit. c VO) — befreiend, wenn nicht vermeidbar.
+- ABER: Wenn DB den Personenschaden zumutbar erkennen konnte und nicht alternative Routenführung anbot, bleibt sie haftungspflichtig.
+
+## Spezialfall: Bauarbeiten und Baustellenfahrplan
+
+Bauarbeiten gehören zum betrieblichen Risiko des EVU — kein außergewöhnlicher Umstand. Wenn der Baustellenfahrplan vorab veröffentlicht war und der Fahrgast wusste, dass eine reduzierte Streckenkapazität existiert: dennoch Anspruch, solange die VO-Schwellen erreicht sind. Bei Vorab-Information über konkreten Zugausfall vor Ticketkauf entfällt der Anspruch (Art. 19 Abs. 9 VO).
+
+## Ausgabe
+
+```
+Einordnung Fahrgastrechte-Fall FGR-2026-0042
+Datum: 12.05.2026
+Strecke: Berlin Hbf — München Hbf (ICE 503, Einheits-PNR)
+Geplante Ankunft: 13:20
+Tatsächliche Ankunft: 15:05 (Türöffnung am Bahnsteig)
+Endziel-Verspätung: 105 Minuten
+
+Tatbestand: Verspätung am Zielort 60–119 Minuten (Art. 19 Abs. 1 lit. a VO 2021/782)
+
+Anspruchsgrundlage:
+ - Art. 19 Abs. 1 lit. a VO 2021/782 — 25 % des Fahrpreises Entschädigung
+ - Art. 18 VO 2021/782 — Wahlrecht (hier nicht relevant, Fahrt durchgeführt)
+ - Art. 20 VO 2021/782 — Hilfeleistung war geschuldet (Verpflegung)
+
+Befreiung? Nein:
+ - DB-Begründung "technischer Defekt" → nach VO 2021/782 Art. 19 Abs. 10 zählt nicht zu den
+   außergewöhnlichen Umständen außerhalb des Eisenbahnbetriebs. Beweislast DB.
+
+Operating EVU: DB Fernverkehr AG (passivlegitimiert)
+
+Höhe (vorab):
+ - Pro Reisendem: 25 % von 79,00 EUR Ticketpreis = 19,75 EUR
+ - 3 Reisende: 59,25 EUR Entschädigung
+ - Verpflegungs-Auslage: 12,50 EUR (Art. 20 VO)
+ - Gesamt: 71,75 EUR
+
+Nächster Skill: entschaedigung-berechnen (exakte Berechnung)
+                forderung-an-db-erste-stufe (Antrag stellen)
+```
+
+## Leitentscheidungen Einordnung
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+---
+
+## Skill: `ticket-und-reisedaten-erfassen`
+
+_Wenn es um Ticket- und Reisedaten erfassen in Fahrgastrechte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# Ticket- und Reisedaten erfassen
+
+## Eingaben
+
+Typische Belege:
+
+- **Buchungsbestätigung** der DB / FlixTrain / ÖBB als PDF / E-Mail
+- **E-Ticket** mit IATA-/UIC-Barcode (Foto, PDF)
+- **Sitzplatzreservierung** (separat oder integriert)
+- **Reservierungsbestätigung** (Bahn-App-Screenshot, ausgedrucktes Ticket)
+- **Verspätungs- oder Annullierungsbenachrichtigung** der DB (SMS, E-Mail, App-Push)
+- **Korrespondenz** mit DB Servicecenter Fahrgastrechte
+- **Belege zu Auslagen** (Hotel, Taxi, Verpflegung) — Kassenbon, Rechnung
+- **DB Navigator-Screenshots** mit Verspätungs-Anzeigen
+
+## Pflichtfelder
+
+```yaml
+fall-id: FGR-2026-0042
+reisedatum: 2026-05-12
+reisende:
+  - name: Mueller, Hans
+    geburtsdatum: 1972-08-15
+    rolle: hauptbuchender
+  - name: Mueller, Eva
+    geburtsdatum: 1975-03-22
+    rolle: ehepartner
+  - name: Mueller, Lea
+    geburtsdatum: 2010-06-18
+    rolle: minderjährig
+
+buchungscode: ABC123          # PNR / Auftragsnummer
+buchung-bei: DB Vertrieb GmbH # Verkaufender Vertriebsweg (bahn.de, DB Reisezentrum, Reisebüro)
+buchungsdatum: 2026-04-12
+
+ticket:
+  art: sparpreis              # flexpreis | sparpreis | super-sparpreis | bahncard-100 | deutschlandticket | zeitkarte | reisepass-tarif
+  klasse: 2                   # 1 oder 2
+  preis-eur: 79.00            # tatsächlich gezahlter Preis
+  zugbindung: ja              # bei sparpreis/super-sparpreis grundsätzlich ja
+  bahncard: BC50              # null | BC25 | BC50 | BC100
+
+verbindung-gebucht:
+  abfahrt:
+    bahnhof: Berlin Hbf
+    iata-uic: 8011160
+    planmaessig: 2026-05-12T08:25:00+02:00
+  ziel:
+    bahnhof: Muenchen Hbf
+    iata-uic: 8000261
+    planmaessig: 2026-05-12T13:20:00+02:00
+  zuege:
+    - nr: ICE 503
+      operating-evu: DB Fernverkehr AG
+      abschnitt: Berlin Hbf - Muenchen Hbf
+  einheitliche-pnr: ja        # → Durchgangsfahrkarte nach Art. 12 VO
+
+verbindung-tatsaechlich:
+  abfahrt-ist: 2026-05-12T08:45:00+02:00   # +20 Min
+  ankunft-ist: 2026-05-12T15:05:00+02:00   # +1h 45 Min am Endziel
+  zug-tatsaechlich: ICE 503                # ggf. anderer Zug bei Umbuchung
+  umsteige-bahnhoefe: []
+  endziel-verspaetung-min: 105             # ≥ 60 Min → 25 % Anspruch (ab 120: 50 %)
+
+stoerung:
+  art: verspaetung            # verspaetung | zugausfall | anschlussverlust | vorverlegung | nichtbefoerderung
+  ursache-laut-db: technischer Defekt
+  bekanntgabe-am: 2026-05-12T07:50:00+02:00
+  bekanntgabe-wie: app        # app | sms | email | aushang | schalter
+  ersatz-angebot: ja
+  ersatz-detail: Ersatzfahrt im selben ICE 503 mit Verspätung
+  hilfeleistung-erhalten:
+    verpflegung: nein
+    hotel: nein
+    transport: nein
+
+auslagen:
+  taxi-eur: 0
+  hotel-eur: 0
+  verpflegung-eur: 12.50
+  belege: [belege/2026-05-12/kassenbon-bahnhofsimbiss.pdf]
+
+belege:
+  - typ: buchungsbestaetigung
+    pfad: belege/2026-05-12/buchung-ICE503.pdf
+  - typ: e-ticket
+    pfad: belege/2026-05-12/e-ticket-mueller.pdf
+  - typ: stoerungsmeldung
+    pfad: belege/2026-05-12/db-navigator-verspaetung.png
+  - typ: ankunft-anzeigetafel
+    pfad: belege/2026-05-12/foto-anzeigetafel-muenchen.jpg
+  - typ: kassenbon
+    pfad: belege/2026-05-12/kassenbon-bahnhofsimbiss.pdf
+```
+
+## OCR / PDF-Extraktion
+
+- Bei PDF-Tickets automatische Extraktion von PNR / Auftragsnummer, Zugnummer, Datum, Bahnhöfen.
+- Bei Foto-Belegen OCR; bei Konfidenz unter 90 Prozent Prüfer-Flag für manuelle Bestätigung.
+- DB-Auftragsnummern haben das Format einer 12-stelligen alphanumerischen ID (Bahn-App) oder einer 6-stelligen PNR (klassischer Vertrieb).
+- UIC-Stationscodes (8011160 Berlin Hbf, 8000261 München Hbf) prüfen — frei verfügbar bei DB Open Data.
+
+## Beweis-Sicherung der tatsächlichen Ankunftszeit
+
+Maßgeblich ist die **Türöffnung am Zielbahnhof** (Art. 3 Nr. 18 VO 2021/782). Beweiswege:
+
+1. **DB Navigator** speichert die tatsächliche Ankunftszeit unter "Verbindungs-Details" — Screenshot zeitnah sichern.
+2. **Fahrgastrechte-Formular der DB Bahn**: Wird die Verspätung bei der DB beantragt, generiert das System eine **Verspätungsbestätigung mit DB-eigenen Daten**. Diese ist im Streit das stärkste Beweismittel.
+3. **Schalter-Stempel** auf der Fahrkarte bei Annullierung / Verspätung (älterer Weg).
+4. **Foto der Bahnhofs-Anzeigetafel** mit Uhrzeit und tatsächlich angezeigter Ankunftszeit (Beweis im Bestreitensfall).
+5. **Zeugen** — Mitreisende.
+
+## DB-Zugverfolgung (intern bei DB)
+
+Die DB verfügt über interne Aufzeichnungen aller Zugbewegungen (Betriebsdatenbank LeiDis-NK / DiRail). Im Klageverfahren kann die Vorlage beantragt werden (§§ 421 ff. ZPO Urkundenbeweis). Vorprozessuale Auskunft über § 242 BGB (sekundäre Darlegungslast).
+
+## Mehrere Reisende
+
+Pro Reise wird **ein** Anspruchsfall mit mehreren Reisenden erfasst. **Jeder Reisende hat einen eigenen Anspruch** (Art. 19 VO ist persönlich); Mindestbetrag 4 EUR ebenfalls pro Fahrkarte. Bei Klage je Reisender eigener Antrag (Streitgenossenschaft möglich nach § 60 ZPO). Vollmacht über `vollmacht-mitreisende`.
+
+## Anschlussverlust unter Durchgangsfahrkarte
+
+Wenn die Buchung mehrere Züge mit **einer PNR** enthält (Art. 12 Abs. 3 VO 2021/782), ist die **Gesamtverspätung am Endziel** maßgeblich — nicht die Verspätung eines einzelnen Etappenzuges. Der Anschlussverlust ist im Yaml unter `umsteige-bahnhoefe` zu erfassen.
+
+Bei **mehreren separat gebuchten Tickets** (eigenständige PNRs) ist jeder Vertrag getrennt zu betrachten — Anschluss-Garantie greift nicht, außer Fahrkartenverkäufer / Reiseveranstalter hat sie ausdrücklich versprochen (Art. 12 Abs. 4 VO).
+
+## Operating EVU prüfen
+
+- DB-Vertrieb verkauft auch Konkurrenz-Tickets. Bei NWB-, ÖBB-, FlixTrain-Strecken im DB-Vertriebssystem: **Operating EVU ist das tatsächlich fahrende Unternehmen** — nicht DB Fernverkehr.
+- Anspruchsgegner ist immer das **ausführende EVU** (Art. 19 Abs. 1 VO).
+- Bei DB Regio: häufig Auftrag durch Bundesländer; passivlegitimiert bleibt DB Regio.
+- Bei FlixTrain: FlixTrain GmbH, Friedenheimer Brücke 16, 80639 München.
+
+## Pauschalreise-Konstellation
+
+Wenn die Bahnreise Teil einer Pauschalreise (Reiseveranstalter) ist, ergänzen sich Ansprüche aus VO 2021/782 (gegen EVU) und §§ 651a ff. BGB (gegen Reiseveranstalter). Mitteilung an `verspaetung-und-anschlussverlust-einordnen` und ggf. Verweisung auf `prozessrecht` oder `verbraucherschutzrecht-pruefer`.
+
+## Ausgabe
+
+- `fallakte.yaml` mit allen Stammdaten.
+- `belegliste.md` mit Prüfer-Flags für fehlende Belege.
+- `naechste-schritte.md` Empfehlung auf nächsten Skill (`verspaetung-und-anschlussverlust-einordnen` oder direkt `entschaedigung-berechnen` bei klarer Faktenlage).
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Leitentscheidungen Datenerfassung
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+---
+
+## Skill: `schlichtung-reise-verkehr-anrufen`
+
+_Wenn es um Schlichtungsstelle Reise & Verkehr e.V. anrufen in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Schlichtungsstelle Reise & Verkehr e.V. anrufen
+
+## Schlichtungsstelle Reise & Verkehr e.V.
+
+| Punkt | Wert |
+|---|---|
+| Trägerverein | Schlichtungsstelle Reise & Verkehr e.V. |
+| Anerkennung | nach §§ 4 ff. VSBG; benannt vom Bundesamt für Justiz |
+| Adresse | Fasanenstraße 81, 10623 Berlin |
+| Web | schlichtungsstelle-reise-verkehr.de |
+| Antragsweg | Online-Formular, postalisch, per E-Mail |
+| Kosten Verbraucher | **kostenfrei** |
+| Erfolgsquote (statistisch) | ca. 50–60 % einigender Vorschlag |
+| Bindungswirkung | Schlichtungsspruch bindet die DB / EVU nicht zwingend, wird aber regelmäßig akzeptiert; Fahrgast kann auch nach Abschluss noch klagen |
+
+## Voraussetzungen (§§ 4 ff. VSBG, Art. 28 VO 2021/782)
+
+1. **Vorgerichtliche Geltendmachung** beim EVU. Der Anspruch muss zunächst bei der DB / dem EVU geltend gemacht und mindestens **vier Wochen** lang ohne befriedigende Antwort geblieben oder abgelehnt worden sein.
+2. **Keine anhängige Klage**: Die Schlichtung scheidet aus, wenn der Anspruch bereits gerichtlich anhängig ist.
+3. **Anwendungsbereich:** Personenverkehr (Eisenbahn, Bus, Flug, Schiff). Eisenbahn ist Kerngeschäft.
+4. **Frist:** Es gibt keine gesetzliche allgemeine Ausschlussfrist für den Schlichtungsantrag. Maßgeblich ist die materielle Verjährung des Anspruchs (drei Jahre nach §§ 195, 199 BGB). Die Verfahrensordnung der Schlichtungsstelle Reise & Verkehr e.V. ist vor Antragstellung auf etwaige Spezialfristen zu prüfen.
+
+## Inhalt des Schlichtungsantrags
+
+### 1. Online-Formular auf schlichtungsstelle-reise-verkehr.de
+
+Direktester Weg. Felder analog zur Postantrag-Vorlage unten; Belege als PDF hochladbar.
+
+### 2. Postalisches Anschreiben (Vorlage)
+
+```
+[Vor- und Nachname]
+[Adresse]
+[Tel] [E-Mail]
+
+[Ort], den [Datum]
+
+An:
+Schlichtungsstelle Reise & Verkehr e.V.
+Fasanenstraße 81
+10623 Berlin
+
+Betreff: Antrag auf Durchführung eines Schlichtungsverfahrens
+         Verspätungsanspruch nach VO (EU) 2021/782
+
+Sehr geehrte Damen und Herren,
+
+hiermit beantrage ich die Durchführung eines Schlichtungsverfahrens
+gegen das Eisenbahnverkehrsunternehmen:
+
+   DB Dialog GmbH — Servicecenter Fahrgastrechte
+   60647 Frankfurt am Main
+   (für die DB Fernverkehr AG / DB Regio AG)
+
+[oder bei Konkurrenz-EVU entsprechende Anschrift]
+
+I. Sachverhalt
+
+Am [Datum] reiste ich mit dem Zug [Zugnummer] von [Abfahrtsbahnhof]
+nach [Zielbahnhof]. Buchungscode (PNR / Auftrags-Nr.): [PNR].
+Planmäßige Ankunft: [HH:MM]
+Tatsächliche Ankunft: [HH:MM]
+Endziel-Verspätung: [X] Minuten
+
+II. Bisheriger Verlauf
+
+1. Mit Schreiben/Antrag vom [Datum] habe ich beim Servicecenter Fahrgastrechte
+   der DB Entschädigung gemäß Art. 19 VO (EU) 2021/782 beantragt.
+   Vorgangs-/Aktenzeichen: [Nr.]
+
+2. Mit Ablehnungsschreiben vom [Datum] hat die DB den Antrag mit folgender
+   Begründung abgelehnt: "[wortlautnah]"
+
+3. Mit Widerspruch vom [Datum] habe ich gegen die Ablehnung Widerspruch
+   eingelegt. [Falls weitere Reaktion: kurz beschreiben.]
+
+4. Die DB hat seit [Datum] nicht reagiert / hat erneut abgelehnt
+   mit Schreiben vom [Datum].
+
+III. Anspruch und Berechnung
+
+Anspruchsgrundlage: Art. 19 Abs. 1 lit. [a/b] VO (EU) 2021/782.
+
+Fahrpreis pro Reisendem:   [P] EUR
+Anteil [25/50] %:          [E] EUR
+Anzahl Reisende:           [N]
+Entschädigung Gesamt:      [G] EUR
+
+[ggf.] zzgl. Hilfeleistung Art. 20 VO:        [V] EUR
+[ggf.] zzgl. Eigenbeförderung Art. 18 VO:     [F] EUR
+
+Gesamtforderung:            [GESAMT] EUR
+
+IV. Gegen den Ablehnungsgrund
+
+Der von der DB angeführte Ablehnungsgrund "[Grund]" verfängt nicht, weil
+[konkrete Gegenargumentation — siehe Skill `db-ablehnungsgruende-pruefen`].
+
+V. Gewünschte Schlichtung
+
+Ich beantrage einen Schlichtungsvorschlag der Schlichtungsstelle, der zur
+Zahlung der genannten [GESAMT] EUR auf das nachstehende Konto führt:
+
+   Kontoinhaber: [Name]
+   IBAN: [DE...]
+   BIC: [...]
+
+VI. Belege (in Kopie beigefügt)
+
+ - Buchungsbestätigung / E-Ticket
+ - Verspätungs- / Ausfallmitteilung
+ - Foto Anzeigetafel Zielbahnhof
+ - Erstantrag vom [Datum] an DB Servicecenter
+ - Ablehnungsschreiben der DB vom [Datum]
+ - Widerspruch vom [Datum]
+ - Belege zu Auslagen (Verpflegung, Hotel, Taxi)
+ - Vollmachten der Mitreisenden
+
+VII. Erklärung
+
+Ich erkläre, dass der Anspruch nicht gerichtlich anhängig ist und kein
+gerichtliches Verfahren oder anderes Schlichtungsverfahren beabsichtigt
+ist, solange das hiesige Verfahren läuft.
+
+Mit freundlichen Grüßen
+
+[Name]
+```
+
+## Ablauf des Schlichtungsverfahrens
+
+1. **Eingangsbestätigung** der Schlichtungsstelle (typisch binnen 1–2 Wochen).
+2. **Stellungnahme des EVU** binnen ca. 4 Wochen.
+3. **Schlichtungsvorschlag** der Schlichtungsstelle (typische Dauer Verfahren: 3–6 Monate).
+4. **Annahme oder Ablehnung** durch beide Seiten. Wenn beide annehmen → Vergleich; sonst Verfahren als gescheitert beendet.
+
+## Wirkung auf Verjährung
+
+Anrufung der Schlichtungsstelle **hemmt** die Verjährung gem. § 204 Abs. 1 Nr. 4 BGB (Einleitung des Verfahrens vor einer durch das Bundesamt für Justiz nach § 32 VSBG anerkannten Stelle). Hemmung dauert für die Zeit des Verfahrens; nach Beendigung läuft die Frist weiter (mit 6-Monats-Mindest-Restfrist gemäß § 204 Abs. 2 BGB).
+
+→ Praxisrelevant: Auch wenn die Schlichtung lange dauert, ist der Anspruch verjährungsrechtlich geschützt.
+
+## Wann zur Schlichtung, wann direkt klagen?
+
+| Situation | Empfehlung |
+|---|---|
+| Streitwert < 1 000 EUR, Vergleichswille der DB möglich | Schlichtung — kostenfrei, gute Erfolgsquote |
+| DB hat mehrfach abgelehnt, keine Vergleichsbereitschaft | Direkt Klage |
+| Streitwert > 5 000 EUR, hohe Komplexität | Klage; Schlichtung als Vorstufe optional |
+| Verjährung naht | Klage bevorzugt; Schlichtung hemmt aber auch |
+| Mehrere Mitreisende, kumulierte Forderung | Schlichtung zuerst — gut für Familienfälle |
+
+## Wenn Schlichtung scheitert
+
+→ Skill `klage-amtsgericht-fahrgast` aufrufen. Streitwert: kumulierte Einzelansprüche aller Reisenden. § 23 Nr. 1 GVG: bis 10.000 EUR Amtsgericht.
+
+## Adressen weiterer Schlichtungsstellen (Konkurrenz / Spezial)
+
+- **Bundesverband Verbraucherzentrale (vzbv)** — bei systematischen UWG-Themen.
+- **Eisenbahn-Bundesamt (EBA)** — Aufsichtsbehörde; nimmt Beschwerden entgegen, aber keine Einzelfall-Schlichtung.
+
+## Ausgabe
+
+- `schlichtungsantrag-<datum>.md` und PDF mit allen Belegen verlinkt.
+- Übergabe an `fahrgastrechte-anlagen-bauen` für Anlagen-Bundle.
+- Hinweis auf Verjährungshemmung mit Stichdatum.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `forderung-an-db-erste-stufe`
+
+_Wenn es um Forderungsschreiben — Erste Stufe in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Forderungsschreiben — Erste Stufe
+
+## Empfänger
+
+- **DB Dialog GmbH — Servicecenter Fahrgastrechte**, 60647 Frankfurt am Main (Postanschrift; korrekter Postweg auch bei Online-Antrag, wenn schriftliche Spur gewünscht).
+- **Alternativ:** Online-Formular auf [bahn.de/fahrgastrechte](https://www.bahn.de/service/informationen-buchung/fahrgastrechte) oder über die **DB Navigator-App**. Empfehlung: parallel postalisch UND online für Beweisspur.
+- Bei **Konkurrenz-EVU** (FlixTrain, ÖBB, NWB, Transdev, Go-Ahead etc.): Adresse des konkreten EVU auf bahn.de/impressum bzw. Webseite des Betreibers.
+
+## Struktur
+
+### 1. Briefkopf
+
+```
+[Vor- und Nachname Hauptansprechender]
+[Strasse Hausnummer]
+[PLZ Ort]
+[Tel] [E-Mail]
+[IBAN]
+
+[Datum]
+
+An:
+DB Dialog GmbH
+Servicecenter Fahrgastrechte
+60647 Frankfurt am Main
+
+Betreff: Antrag auf Entschädigung gemäß Art. 19 VO (EU) 2021/782
+         Zug [Zugnummer] am [Datum] von [Abfahrtsbahnhof] nach [Zielbahnhof]
+         Auftrags-/Buchungscode [PNR]
+```
+
+### 2. Sachverhalt knapp
+
+```
+Sehr geehrte Damen und Herren,
+
+ich nehme Bezug auf den unter dem Buchungscode [PNR] gebuchten Zug
+[Zugnummer] am [Datum] von [Abfahrtsbahnhof] nach [Zielbahnhof].
+
+Folgende Reisende waren betroffen:
+ - [Name 1], geboren [Datum 1]
+ - [Name 2], geboren [Datum 2]
+ - [Name 3], geboren [Datum 3] (minderjährig, vertreten durch
+   die unterzeichnenden Erziehungsberechtigten)
+
+Vollmachten der Mitreisenden sind beigefügt (Anlagen K[N] ff.).
+
+Der genannte Zug [erreichte das Ziel mit X Stunden Verspätung / fiel aus /
+fuhr nach geänderter Streckenführung].
+
+Geplante Ankunft am Zielbahnhof [Bahnhof]: [HH:MM]
+Tatsächliche Ankunft am Zielbahnhof (Türöffnung am Bahnsteig): [HH:MM]
+Endziel-Verspätung: [X] Minuten.
+```
+
+### 3. Rechtliche Begründung
+
+```
+1. Anspruchsgrundlage: Art. 19 Abs. 1 VO (EU) 2021/782 des Europäischen
+   Parlaments und des Rates vom 29. April 2021 über die Rechte und
+   Pflichten der Fahrgäste im Eisenbahnverkehr.
+
+2. Anwendungsbereich: Der Zug wird von [Operating EVU] als zugelassenem
+   Eisenbahnverkehrsunternehmen im Geltungsbereich der VO 2021/782 ausgeführt
+   (Art. 2 Abs. 1 VO).
+
+3. Tatbestand: Endziel-Verspätung von [X] Minuten am Zielbahnhof. Damit
+   greift Art. 19 Abs. 1 [lit. a: 25 % bei 60–119 Min / lit. b: 50 % bei
+   ab 120 Min] VO.
+
+4. Höhe des Anspruchs:
+   Tatsächlicher Fahrpreis pro Reisendem: [P] EUR
+   Anteil [25 / 50] %: [E] EUR pro Reisendem
+   Anzahl Reisende: [N]
+   Gesamtentschädigung Art. 19 VO: [G] EUR
+
+[ggf. weiterhin:]
+
+5. Hilfeleistung Art. 20 VO:
+   Da der Zug das Ziel mit mehr als 60 Minuten Verspätung erreichte,
+   bestand Anspruch auf Verpflegung in angemessenem Verhältnis zur
+   Wartezeit. Eine Hilfeleistung wurde nicht angeboten. Ich beanspruche
+   Erstattung der selbst getragenen Verpflegungskosten in Höhe von
+   [V] EUR (Belege anbei).
+
+6. Eigenbeförderung Art. 18 Abs. 3 Unterabs. 2 VO:
+   Die DB hat binnen 100 Minuten nach planmäßiger Abfahrtszeit keine
+   Weiterreise-Option mitgeteilt. Ich war daher zur Eigenbeförderung
+   berechtigt und beanspruche Erstattung der notwendigen, angemessenen
+   und zumutbaren Kosten in Höhe von [F] EUR.
+
+[falls SPNV:]
+
+7. § 11 EVO: Bei der gebuchten Verbindung handelt es sich um eine SPNV-Fahrt.
+   Wegen einer absehbaren Verspätung von mehr als 20 Minuten am Zielort
+   greifen die zusätzlichen Rechte aus § 11 Abs. 1 EVO.
+
+8. Eine Befreiung von der Entschädigungspflicht nach Art. 19 Abs. 10 VO ist
+   nicht gegeben. [Falls DB im Voraus eine Begründung mitgeteilt hat,
+   diese zitieren und entkräften. Beispielsweise: Streiks des DB-Personals
+   und Handlungen der Infrastrukturbetreiber sind nach Art. 19 Abs. 10
+   Unterabs. 2 VO ausdrücklich nicht als außergewöhnliche Umstände
+   anzuerkennen.] Die Beweislast für außergewöhnliche Umstände und für
+   die Ergreifung zumutbarer Maßnahmen trägt das Eisenbahnverkehrsunternehmen.
+```
+
+### 4. Forderung
+
+```
+Hiermit fordere ich Sie auf, den Gesamtbetrag in Höhe von
+
+   [Gesamtbetrag] EUR
+
+zuzüglich gegebenenfalls weiterer Auslagen — Belege beiliegend —
+auf folgendes Konto zu überweisen:
+
+   Inhaber: [Name]
+   IBAN:    DE [...]
+   BIC:     [...]
+
+bis spätestens [Datum + 4 Wochen].
+
+Hinweis: Die VO 2021/782 sieht in Art. 19 Abs. 7 eine Bearbeitungsfrist
+von einem Monat ab Antragseingang vor. Eine Auszahlung in Form von
+Gutscheinen wird ausdrücklich nicht akzeptiert; auf Wunsch des Fahrgasts
+ist die Entschädigung in Geld zu leisten (Art. 19 Abs. 7 Satz 2 VO).
+
+Sollten Sie meinem Antrag nicht oder nicht vollständig entsprechen, werde
+ich:
+
+ a) Widerspruch einlegen und parallel
+ b) die Schlichtungsstelle Reise & Verkehr e.V. (vormals söp,
+    Fasanenstraße 81, 10623 Berlin) anrufen — das Verfahren ist für
+    Verbraucher kostenfrei (Verbraucher-Entgelt-Regeln
+    nach § 23 VSBG i.V.m. der Verfahrensordnung der Stelle),
+ c) anschließend Klage zum zuständigen Amtsgericht erheben.
+```
+
+### 5. Anlagen
+
+```
+Anlagen:
+ K1  Buchungsbestätigung Zug [Zugnummer] vom [Datum]
+ K2  Fahrkarten / E-Tickets aller Reisenden
+ K3  Verspätungs- / Ausfallmitteilung (App-Screenshot, SMS, E-Mail)
+ K4  Foto Anzeigetafel Zielbahnhof mit tatsächlicher Ankunftszeit
+ K5  Belege Auslagen (Verpflegung, ggf. Hotel, ggf. Ersatzbeförderung)
+ K6  Vollmacht [Name Reisende:r 2]
+ K7  Vollmacht [Name Reisende:r 3 minderjährig — durch Erziehungsberechtigte]
+```
+
+### 6. Schluss
+
+```
+Mit freundlichen Grüßen
+
+[Unterschrift]
+[Name]
+```
+
+## Versand
+
+- **Postversand per Einschreiben mit Rückschein** — beste Beweisform.
+- **Parallel** Online-Antrag über bahn.de oder DB Navigator — schnellere Bearbeitung; Eingangsnummer dokumentieren.
+- **Konkurrenz-EVU:** dort übliches Reklamationsformular nutzen; postalisch parallel an Niederlassungs-Adresse.
+
+## Verzugszinsen
+
+- Verzug spätestens mit Fristablauf (§ 286 Abs. 1 BGB). Die im Schreiben gesetzte Zahlungsfrist (typisch vier Wochen) und die monatliche Bearbeitungsfrist aus Art. 19 Abs. 7 VO sind nicht deckungsgleich (vier Wochen sind 28 Tage; ein Monat richtet sich nach §§ 187 ff. BGB und ist regelmäßig 30 oder 31 Tage). Praxisempfehlung: die Frist so setzen, dass sie nicht vor Ablauf des Monats nach Art. 19 Abs. 7 VO endet, um Streit über den Verzugszeitpunkt zu vermeiden.
+- Verzugszinsen Verbraucher 5 Prozentpunkte über Basiszinssatz (§ 288 Abs. 1 BGB).
+
+## Bearbeitungsfristen
+
+- **Erstattung** (Art. 18 Abs. 5 VO): 30 Tage.
+- **Entschädigung** (Art. 19 Abs. 7 VO): 1 Monat.
+- **Beschwerdeantwort** (Art. 27 Abs. 2 VO): 1 Monat (in begründeten Fällen bis 3 Monate).
+
+## Praxis-Hinweise
+
+- Die DB lehnt Anträge oft mit Verweis auf "fehlende Mindestbearbeitungsfrist 30 Tage" ab, bevor sie auf den Antrag eingeht. **Argumentation:** Frist gilt für DIE BEARBEITUNG, nicht für Antragstellung.
+- Voucher als Entschädigung: nur, wenn Verbraucher ausdrücklich zustimmt. Andernfalls Geldanspruch (Art. 19 Abs. 7 Satz 2 VO).
+- Bei mehrfachen Verspätungen mit Zeitkarte: gesammelte Geltendmachung erlaubt (Art. 19 Abs. 2 VO) — Vorteil bei Mindestbetrag-Schwelle.
+
+## Ausgabe
+
+- `forderung-erste-stufe-<datum>.md` und PDF (über Anlagen-Skill).
+- Tagesnotiz: Reaktionsfrist vorgemerkt (1 Monat ab Eingang).
+- Hinweis: bei Reaktion mit Standardausrede den Skill `db-ablehnungsgruende-pruefen` aufrufen, dann `fahrgastrechte-widerspruch`.
+
+## Anlagen-Übergabe
+
+Unmittelbar nach Erstellung des Schreibens den Skill `fahrgastrechte-anlagen-bauen` aufrufen.
+
+Übergabe-Schema:
+
+```yaml
+schriftsatz: forderung-erste-stufe-<datum>.md
+rohbelege_verzeichnis: <fall>/belege/
+ausgabeverzeichnis: <fall>/anlagen/
+bundle: true                           # erzeugt zusätzlich Schriftsatz_mit_Anlagen.pdf
+schriftgrad_stempel: 12
+schrift_stempel: Arial-Bold            # Arial 12 FETT oben rechts
+bezeichnung: "Anlage K"
+```
+
+## Zentrale Normen
+
+- Art. 19 Abs. 1, 2, 3, 7, 8 VO (EU) 2021/782 — Entschädigung
+- Art. 18 Abs. 1, 3 Unterabs. 2, 5 VO (EU) 2021/782 — Erstattung / Eigenbeförderung
+- Art. 20 VO (EU) 2021/782 — Hilfeleistung
+- Art. 7 VO (EU) 2021/782 — Verzichtsverbot
+- § 11 EVO — SPNV-Zusatzrechte
+- § 195, § 199 Abs. 1 BGB — Verjährung
+- § 286 Abs. 1, § 288 Abs. 1 BGB — Verzug und Verzugszinsen
+
+## Rechtsprechung
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+---
+
+## Skill: `vollmacht-mitreisende`
+
+_Wenn es um Vollmacht für Mitreisende in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Vollmacht für Mitreisende
+
+## Vollmacht-Inhalt (Erwachsene)
+
+```
+Vollmacht
+
+Ich, [Vor- und Nachname Vollmachtgeber:in],
+geboren am [Geburtsdatum],
+wohnhaft [Adresse],
+
+bevollmächtige hiermit
+
+   [Vor- und Nachname Vollmachtnehmer:in],
+   geboren am [Geburtsdatum],
+   wohnhaft [Adresse],
+
+mich in allen Angelegenheiten betreffend meinen Anspruch aus dem Bahn-Reise
+
+   Buchungscode (PNR / Auftrags-Nr.): [PNR]
+   Zugnummer: [Zugnummer]
+   Datum: [Datum]
+   Strecke: [Abfahrtsbahnhof] nach [Zielbahnhof]
+   Operating EVU: [z. B. DB Fernverkehr AG]
+
+zu vertreten. Die Vollmacht umfasst insbesondere:
+
+   - vorgerichtliche Geltendmachung der Ansprüche nach VO (EU) 2021/782
+     und EVO gegenüber dem Eisenbahnverkehrsunternehmen,
+   - Korrespondenz mit dem Servicecenter Fahrgastrechte der Deutschen Bahn
+     bzw. dem zuständigen EVU,
+   - Anrufung der Schlichtungsstelle Reise & Verkehr e.V. (vormals söp),
+   - Klageerhebung beim zuständigen Amtsgericht,
+   - Empfangnahme von Zahlungen und Schriftverkehr,
+   - Untervollmacht an eine Rechtsanwältin oder einen Rechtsanwalt sowie
+     Vertretung im Rechtsstreit.
+
+Diese Vollmacht gilt bis zum Widerruf in Textform.
+
+Ort, Datum
+___________________
+
+___________________________________________
+[Vor- und Nachname Vollmachtgeber:in]
+```
+
+## Vollmacht für Minderjährige
+
+Bei minderjährigen Mitreisenden ist die Vollmacht durch die erziehungsberechtigten Personen zu erteilen (regelmäßig beide Elternteile gemeinsam, sofern beide sorgeberechtigt — § 1626 BGB):
+
+```
+Vollmacht für minderjähriges Kind
+
+Wir, die Erziehungsberechtigten
+
+   [Name Mutter / Vater 1], geboren am [Datum], wohnhaft [Adresse]
+   [Name Vater / Mutter 2], geboren am [Datum], wohnhaft [Adresse]
+
+vertreten unser minderjähriges Kind
+
+   [Vor- und Nachname Kind], geboren am [Datum]
+
+und bevollmächtigen hiermit
+
+   [Vor- und Nachname Vollmachtnehmer:in]
+
+in dessen / deren Namen die Ansprüche aus dem Bahn-Reise
+
+   PNR / Auftrags-Nr.: [Nummer]
+   Zug:                [Zugnummer]
+   Datum:              [Datum]
+   Strecke:            [Abfahrtsbahnhof] nach [Zielbahnhof]
+
+nach VO (EU) 2021/782 geltend zu machen — einschließlich vorgerichtlich,
+Schlichtungsverfahren bei der Schlichtungsstelle Reise & Verkehr e.V. und
+gerichtlich vor dem Amtsgericht.
+
+Ort, Datum
+___________________
+
+___________________________________________     ___________________________________________
+[Mutter / Vater 1]                                 [Vater / Mutter 2]
+```
+
+## Vollmacht für Reisegruppen (mehrere unverwandte Erwachsene)
+
+Bei Reisegruppen — Freundeskreis, Kollegen, Vereinsfahrt — gleiches Schema wie bei Erwachsenen-Vollmacht, individuell je Person. Empfehlung: Excel-/CSV-Liste der Vollmachtgebenden mit Zuordnung zu eigenen Tickets im Anlagenkonvolut.
+
+## Datenschutzhinweis (Art. 13 DSGVO)
+
+Bei der Verarbeitung personenbezogener Daten der Mitreisenden im Rahmen der Fahrgastrechte-Geltendmachung gibt der Hauptansprechpartner als Verantwortlicher Hinweis auf:
+
+- Verantwortlicher: Hauptansprechpartner (Name, Adresse, Kontakt)
+- Zweck: Geltendmachung Anspruch nach VO (EU) 2021/782 / EVO
+- Empfänger: EVU (DB / FlixTrain / etc.); Schlichtungsstelle Reise & Verkehr; ggf. Amtsgericht
+- Speicherdauer: bis zur Anspruchsbefriedigung plus drei Jahre (Verjährungsperiode)
+- Rechte: Auskunft, Berichtigung, Löschung, Beschwerde bei Aufsichtsbehörde
+
+## Versand der Vollmachten
+
+```
+Vorlage E-Mail an Mitreisende:
+
+Liebe / Lieber [Name],
+
+beigefügt findest du den Entwurf einer Vollmacht in Sachen unserer
+verspäteten / annullierten Bahn-Reise [Zug] vom [Datum].
+
+Bitte unterschreibe und schicke das Dokument zurück (per Post, Foto oder
+Scan reicht). Damit kann ich deinen Entschädigungsanspruch von etwa [X] EUR
+zusammen mit den anderen geltend machen — ohne dass du selbst etwas tun
+musst.
+
+Ich melde mich, sobald die DB / das EVU reagiert.
+
+Liebe Grüße
+[Name]
+```
+
+## Aktenablage
+
+- **Originale oder Scans hoher Qualität** sind Pflichtanlagen jedes Schriftverkehrs.
+- **Aufbewahrung** bis Anspruchsabwicklung plus drei Jahre (Verjährung).
+- **Datenschutz beachten** — keine unnötige Weiterleitung an Dritte.
+
+## Anwaltliche Vertretung
+
+Bei Übergabe an eine Anwältin oder einen Anwalt: die anwaltliche Untervollmacht ist in der Vollmacht ausdrücklich erfasst ("Untervollmacht an eine Rechtsanwältin oder einen Rechtsanwalt"). Die Kanzlei legt regelmäßig ein eigenes Vollmachtsformular bei.
+
+## Leitentscheidungen Vollmacht / Familienvertretung
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Ausgabe
+
+- `vollmacht-<name>-<datum>.md` (eine Datei pro Mitreisendem) und PDF.
+- Vollmacht-Versandliste mit Status (versendet / unterschrieben / vorliegt).
+- Hinweis: Eingang der unterschriebenen Vollmachten ist Voraussetzung für die Mitvertretung in Forderungs-, Schlichtungs- und Klageverfahren.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `entschaedigung-berechnen`
+
+_Wenn es um Entschädigung berechnen in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Entschädigung berechnen
+
+## Norm
+
+Art. 19 VO (EU) 2021/782 — Entschädigung in zwei Stufen:
+
+| Stufe | Verspätung am Zielort | Anteil Fahrpreis |
+|---|---|---|
+| 1 | 60–119 Minuten | **25 %** |
+| 2 | ab 120 Minuten | **50 %** |
+
+**Mindestauszahlung:** 4 EUR pro Fahrkarte (Art. 19 Abs. 8). EVU darf Beträge darunter ablehnen.
+
+**Bezugsgröße:** Tatsächlich entrichteter Fahrpreis. Bei Hin- und Rückfahrt-Beförderungsvertrag: halber Fahrpreis als Bezug (Art. 19 Abs. 3 Satz 2). Bei Verspätung auf nur einer Teilstrecke: anteiliger Preis.
+
+## Berechnungsweg
+
+### Schritt 1: Ticketart bestimmen
+
+| Ticketart | Bezugsgröße | Besonderheit |
+|---|---|---|
+| Flexpreis | gezahlter Preis | volle Fahrgastrechte; keine Zugbindung |
+| Sparpreis | gezahlter Preis | volle Fahrgastrechte; Zugbindung ab 20 Min aufgehoben |
+| Super Sparpreis | gezahlter Preis | dito |
+| BahnCard 100 | DB-Tarif-Pauschale | 10 EUR (60 Min) / 20 EUR (120 Min) |
+| Deutschlandticket | DB-Tarif-Pauschale | 1,50 EUR pro Vorfall, max. 25 % Monatspreis |
+| Zeitkarte (Monat/Jahr) | DB-Tarif-Pauschale | anteilig analog Deutschlandticket |
+| BahnCard 25 / BahnCard 50 | gezahlter ermäßigter Preis | volle Fahrgastrechte auf ermäßigter Basis |
+
+### Schritt 2: Endziel-Verspätung in Minuten
+
+Maßgeblich: tatsächliche Ankunftszeit (Türöffnung, Art. 3 Nr. 18 VO) minus planmäßige Ankunftszeit am gebuchten Endziel.
+
+### Schritt 3: Stufe wählen
+
+- 60–119 Min → 25 %
+- ≥ 120 Min → 50 %
+
+### Schritt 4: Pro Reisendem berechnen
+
+Art. 19 VO ist persönlich. Pro Fahrkarte eigener Anspruch. Bei 3 Reisenden mit gleichem Ticketpreis: 3 × Einzelanspruch.
+
+### Schritt 5: Mindestbetrag prüfen
+
+Liegt der Einzelanspruch unter 4 EUR (Art. 19 Abs. 8): DB darf ablehnen. **Praxistipp:** Beträge in Verspätungs-Antrag zusammenfassen — bei Mehrpersonen-Familien rechnerisch über 4 EUR pro Antrag, auch wenn Einzelposition darunter.
+
+### Schritt 6: Nebenforderungen (separat zur Entschädigung)
+
+- **Erstattung / Hilfsleistung Auslagen** (Art. 18 Abs. 5; Art. 20 VO): Verpflegung, Hotel, Transport. Belege vorlegen.
+- **Eigenständige Beförderung** (Art. 18 Abs. 3 Unterabs. 2): Wenn DB nicht binnen 100 Min nach planmäßiger Abfahrt Alternativen mitgeteilt hat — notwendige, angemessene und zumutbare Kosten.
+- **SPNV-Sonderfall § 11 Abs. 2 EVO:** bis 120 EUR für Taxi/Bus bei Nachtfahrt 0–5 Uhr oder letzter Verbindung.
+- **Verzugszinsen** ab Mahnung (§§ 286, 288 BGB) — Verbraucher 5 Prozentpunkte über Basiszinssatz.
+
+## Beispielberechnungen
+
+### Beispiel 1: Sparpreis Fernverkehr, 105 Min Verspätung, 3 Reisende
+
+```
+Ticket: Sparpreis, 79,00 EUR pro Person
+Verspätung am Zielort: 105 Min → Stufe 1 (25 %)
+Pro Person: 79,00 × 25 % = 19,75 EUR
+3 Reisende: 3 × 19,75 = 59,25 EUR
+Mindestbetrag 4 EUR — überschritten.
+Endbetrag: 59,25 EUR Entschädigung
+```
+
+### Beispiel 2: Flexpreis, 130 Min Verspätung, 1 Reisender
+
+```
+Ticket: Flexpreis, 152,00 EUR
+Verspätung am Zielort: 130 Min → Stufe 2 (50 %)
+Berechnung: 152,00 × 50 % = 76,00 EUR
+Endbetrag: 76,00 EUR Entschädigung
+```
+
+### Beispiel 3: Sparpreis Hin- und Rückfahrt, Verspätung nur Hinfahrt
+
+```
+Ticket: Sparpreis Hin- und Rückfahrt 158,00 EUR (=2 × 79,00 EUR rechnerisch je Strecke)
+Bezugsgröße Hinfahrt nach Art. 19 Abs. 3 Satz 2: halber Fahrpreis = 79,00 EUR
+Verspätung Hinfahrt: 90 Min → Stufe 1 (25 %)
+Entschädigung: 79,00 × 25 % = 19,75 EUR
+```
+
+### Beispiel 4: BahnCard 100
+
+```
+Verspätung am Zielort: 75 Min
+DB-Tarif-Pauschale (TBP § 7): 10 EUR
+Endbetrag: 10 EUR
+```
+
+### Beispiel 5: Deutschlandticket
+
+```
+Verspätung am Zielort: 80 Min (Regio Berlin–Cottbus)
+DB-Tarif-Pauschale: 1,50 EUR
+Monatsdeckel (25 % von 58 EUR = 14,50 EUR) — noch nicht erreicht
+Endbetrag: 1,50 EUR
+Hinweis: Bei reinem SPNV kommt § 11 EVO kumulativ hinzu, wenn Voraussetzungen erfüllt.
+```
+
+### Beispiel 6: Wochenkarte (50 EUR, 5 Tage Gültigkeit, Verspätung 70 Min)
+
+```
+Tagespreis: 50 / 5 = 10 EUR
+Stufe 1: 25 %
+Entschädigung: 10 × 25 % = 2,50 EUR
+Mindestbetrag 4 EUR — nicht erreicht. DB kann ablehnen.
+Praxis: mit Wochenkarte mehrere Verspätungen sammeln; ab 4 EUR-Schwelle gemeinsam beantragen
+       (Art. 19 Abs. 2 VO 2021/782 erlaubt das ausdrücklich für Zeitfahrkarten).
+```
+
+### Beispiel 7: Anschlussverlust unter Durchgangsfahrkarte
+
+```
+Ticket: Sparpreis 79,00 EUR Berlin–München via Erfurt (Anschluss verpasst durch Verspätung)
+Anschluss erst 2 Stunden später; Endziel-Verspätung: 150 Min → Stufe 2 (50 %)
+Entschädigung: 79,00 × 50 % = 39,50 EUR
+Maßgebliche Verspätung: Endziel, nicht einzelne Etappe (Art. 12 Abs. 3 VO).
+```
+
+## Mehrpersonen-Konstellation
+
+```yaml
+berechnung:
+  fall-id: FGR-2026-0042
+  reisende:
+    - name: Mueller, Hans
+      ticketart: sparpreis
+      preis-eur: 79.00
+      stufe: 1
+      anteil-prozent: 25
+      einzelanspruch-eur: 19.75
+    - name: Mueller, Eva
+      ticketart: sparpreis
+      preis-eur: 79.00
+      stufe: 1
+      anteil-prozent: 25
+      einzelanspruch-eur: 19.75
+    - name: Mueller, Lea
+      ticketart: sparpreis-kind
+      preis-eur: 39.50          # Kindertarif
+      stufe: 1
+      anteil-prozent: 25
+      einzelanspruch-eur: 9.88
+  gesamt-entschaedigung-eur: 49.38
+  zusatz-auslagen:
+    verpflegung-eur: 12.50
+    hotel-eur: 0
+    taxi-eur: 0
+  gesamt-anspruch-eur: 61.88
+```
+
+## Pauschalreise
+
+Bei Pauschalreise mit Bahn-Anteil: Ansprüche aus VO 2021/782 (gegen EVU) und §§ 651a ff. BGB (gegen Reiseveranstalter) **kumulieren** grundsätzlich. Anrechnung nach BGH: keine Doppelvergütung; bei dem Reiseveranstalter erstrittene Beträge werden auf die EVU-Entschädigung verrechnet und umgekehrt.
+
+→ Bei komplexer Konstellation Verweis auf `verbraucherschutzrecht-pruefer` oder allgemeines Reiserecht-Plugin.
+
+## Ausgabe
+
+```
+Berechnung Entschädigung
+Fall-ID: FGR-2026-0042
+Zug: ICE 503 Berlin Hbf — München Hbf
+Datum: 12.05.2026
+Endziel-Verspätung: 105 Minuten (Stufe 1 — 25 %)
+
+Pro Reisendem:
+ Hans Mueller     | Sparpreis | 79,00 EUR | 25 % | 19,75 EUR
+ Eva Mueller      | Sparpreis | 79,00 EUR | 25 % | 19,75 EUR
+ Lea Mueller (mj) | Sparpreis Kindertarif | 39,50 EUR | 25 %  |  9,88 EUR
+
+Summe Entschädigung Art. 19 VO 2021/782:        49,38 EUR
+Auslagen Verpflegung Art. 20 VO 2021/782:      +12,50 EUR
+Gesamtforderung:                                61,88 EUR
+
+Mindestbetrag 4 EUR pro Fahrkarte: erreicht (alle Einzelpositionen über 4 EUR).
+Verzugszinsen ab Mahnung gem. §§ 286, 288 BGB.
+
+Nächster Skill: forderung-an-db-erste-stufe
+```
+
+## Leitentscheidungen Berechnung
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -2494,7 +2518,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

@@ -69,9 +69,9 @@ Verbote (Auswahl):
 
 **Sanktion:** bis EUR 35 Mio oder 7 Prozent Konzern-Jahresumsatz (höherer Betrag) Art. 99 Abs. 3
 
-### Stufe 2 — Hochrisiko-System Art. 6 + Anhang III
+### Stufe 2 — Hochrisiko-System Art. 6 + Anhang I/III
 
-**Geltungsbeginn 2.8.2026** (Anhang III), 2.8.2027 (Anhang I).
+**Geltungsbeginn nach aktuellem Stufenplan:** Art. 50 Transparenzpflichten bleiben ab 02.08.2026 relevant. Hochrisiko-Systeme nach Anhang III sind nach Digital-Omnibus-Zeitstrahl spätestens ab 02.12.2027 einzuplanen; Hochrisiko-Systeme nach Anhang I, also KI als Sicherheitsbauteil oder reguliertes Produkt, spätestens ab 02.08.2028. Vor Außenverwendung endgültigen Normtext, Kommissionsbeschlüsse und sektorale Produktregeln prüfen.
 
 **Bereiche Anhang III:**
 1. Biometrie (außer eindeutige Identitäts-Überprüfung)
@@ -144,8 +144,9 @@ Verbote (Auswahl):
 | **1.8.2024** | KI-VO in Kraft |
 | **2.2.2025** | Kapitel I (Allgemein), Kapitel II (Verbotene Praktiken) |
 | **2.8.2025** | GPAI-Modelle, Governance-Struktur, Sanktionen |
-| **2.8.2026** | Hochrisiko Anhang III, Transparenz Art. 50, Reallabore |
-| **2.8.2027** | Hochrisiko Anhang I (Produktsicherheits-Bezug) |
+| **2.8.2026** | Transparenz Art. 50 und nicht verschobene allgemeine Pflichten |
+| **2.12.2027** | Hochrisiko Anhang III nach Digital-Omnibus-Zeitstrahl, spätestens vorbehaltlich finaler Quelle |
+| **2.8.2028** | Hochrisiko Anhang I mit Produktsicherheits-Bezug, spätestens vorbehaltlich finaler Quelle |
 
 ## Schritt 6 — Schnittstelle zur DSGVO
 

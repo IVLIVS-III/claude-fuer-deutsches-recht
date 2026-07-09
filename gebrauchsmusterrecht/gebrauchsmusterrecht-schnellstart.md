@@ -59,7 +59,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
 - BGH, Beschluss vom 20.06.2006 - X ZB 27/05 (Demonstrationsschrank)
 - BGH X ZR 95/05 "Schneidmesser" — Äquivalenz auch im Gebrauchsmusterrecht
-- Patent-Disclaimer-Entscheidungen nicht als Standardanker für Gebrauchsmuster-Auslegung verwenden; für den erfinderischen Schritt im Gebrauchsmusterrecht vorrangig BGH, Beschluss vom 20.06.2006 - X ZB
+- BGH X ZR 173/02 — der Rechtsbestand muss bei Erstanmeldungen vom Kläger glaubhaft gemacht werden
 
 ## 7. Antwortform
 

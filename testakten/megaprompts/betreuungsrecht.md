@@ -1,25 +1,25 @@
-# Megaprompt: betreuungsrecht
+# Vollprüfung: betreuungsrecht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 116 Skills (gekuerzt fuer Chat-Fenster) des Plugins `betreuungsrecht`.
+Dieser Vollprüfung enthaelt top-8 von 116 Skills (gekuerzt fuer Chat-Fenster) des Plugins `betreuungsrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für Betreuungsrecht: ordnet Rolle (Betroffener, Betreuer, Familie/Angehörige), markiert Fri…
-2. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Betreuungsrecht-Plugin für ehrenamtliche Familienbetreuer, Berufsbetreuer, An…
-3. **betreuungsrechtliche-erstpruefung-und-mandatsziel** — Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Betreuungsrecht.
-4. **genehmigungspflicht-pruefung** — 'Prüft, ob ein konkretes Rechtsgeschäft, eine Maßnahme oder eine Entscheidung des Betreuers der Genehmigung des Betreuun…
-5. **jahresbericht-betreuungsgericht** — Jahresbericht und Anfangs-/Schlussbericht für das Betreuungsgericht nach § 1863 BGB erstellen: persönliche Kontakte, Wün…
-6. **kaltstart-interview** — Kaltstart-Interview für das Betreuungsrecht-Plugin. Befüllt das Praxisprofil mit Angaben zur Rolle (betreute Person / An…
-7. **kontodaten-vertragsverdacht-pruefung** — Kontoauszüge und Vertragsunterlagen in Betreuungsfällen auf Missbrauch prüfen: ungewöhnliche Zahlungen, verdächtige Daue…
-8. **vermoegensverzeichnis-pruefung** — Vermögensverzeichnis für Betreuung prüfen und erstellen: Betreuer muss bei Aufgabenkreis Vermögenssorge nach § 1835 BGB …
+1. **einstieg-routing** — Wenn es um Einstieg und Routing in Betreuungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten…
+2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Betreuungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fac…
+3. **betreuungsrechtliche-erstpruefung-und-mandatsziel** — Wenn es um Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel in Betreuungsrecht geht: klärt Rolle, Ziel, …
+4. **familienbetreuer-erste-48-stunden-notfallmappe** — Wenn es um Familienbetreuer: erste 48 Stunden und Notfallmappe in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweis…
+5. **familienbetreuer-bankkonto-und-rechnungslegung-einfach** — Wenn es um Familienbetreuer: Bankkonto und einfache Rechnungslegung in Betreuungsrecht geht: ordnet Akteninhalt, Belege,…
+6. **familienbetreuer-erste-48-stunden** — Wenn es um Familienbetreuer: erste 48 Stunden und Notfallmappe in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweis…
+7. **familienbetreuer-wohnungsaufloesung-genehmigung** — Wenn es um Familienbetreuer: Wohnung, Heim, Kündigung, Genehmigung in Betreuungsrecht geht: ordnet Akteninhalt, Belege, …
+8. **familienbetreuer-bankkonto-rechnungslegung** — Wenn es um Familienbetreuer: Bankkonto und einfache Rechnungslegung in Betreuungsrecht geht: ordnet Akteninhalt, Belege,…
 
 ---
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Betreuungsrecht: ordnet Rolle (Betroffener, Betreuer, Familie/Angehörige), markiert Frist (Beschwerde 1 Monat § 63 FamFG), wählt Norm (§§ 1814 ff. BGB, FamFG §§ 271 ff., § 1827 BGB Patientenverfügung) und Zuständigkeit (Betreuungsgericht (AG)), leitet zum passende..._
+_Wenn es um Einstieg und Routing in Betreuungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Einstieg und Routing
 
@@ -80,21 +80,22 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting im Betreuungsrecht-Plugin für ehrenamtliche Familienbetreuer, Berufsbetreuer, Angehörige, Betroffene und anwaltliche Begleiter. Fragt Rolle, Aufgabenkreise, Fristen, Unterlagen, Risiken, Wunsch der betreuten Person und Ziel-Output ab, schlägt passende Fachm_
+_Wenn es um Kaltstart Triage in Betreuungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Betreuungsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Schnellstart-Workflow
 
@@ -144,7 +145,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 
 ### 1. Intake in 60 Sekunden
 
-Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+Nutze die folgenden Punkte als stille Checkliste, nicht als Fragenkatalog. Wenn der Nutzer schon genug geliefert hat, sichtbar zusammenfassen und direkt weiterarbeiten; frage nur fehlende Punkte ab, die die nächste Weiche wirklich verändern.
 
 | Punkt | Frage | Warum wichtig? |
 |---|---|---|
@@ -318,23 +319,24 @@ Dieses Plugin unterstützt ehrenamtliche Familienbetreuer, berufliche Betreuer, 
 
 ## Skill: `betreuungsrechtliche-erstpruefung-und-mandatsziel`
 
-_Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Betreuungsrecht._
+_Wenn es um Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel in Betreuungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Betreuungsrechtliche Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Betreuungsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Normenanker
 
@@ -382,1067 +384,222 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `genehmigungspflicht-pruefung`
+## Skill: `familienbetreuer-erste-48-stunden-notfallmappe`
 
-_'Prüft, ob ein konkretes Rechtsgeschäft, eine Maßnahme oder eine Entscheidung des Betreuers der Genehmigung des Betreuungsgerichts bedarf (§§ 1848 ff. BGB) — etwa Grundstücksverkauf, Erbausschlagung, Heimvertragsabschluss, Wohnungsauflösung, freiheitsentziehende Maßnahmen. Lädt, wenn Schlagwörter..._
+_Wenn es um Familienbetreuer: erste 48 Stunden und Notfallmappe in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Familienbetreuer Erste 48 Stunden Notfallmappe; Arbeitsfeld: Betreuungsrecht._
 
-# Genehmigungspflicht-Prüfung (§§ 1848 ff. BGB)
+# Familienbetreuer: erste 48 Stunden und Notfallmappe
 
-## Zweck
+## Arbeitsweg
 
-Prüfe, ob ein konkret geplantes Rechtsgeschäft oder eine
-Maßnahme des Betreuers nach dem **Vier-Augen-Prinzip** der Genehmigung
-des Betreuungsgerichts bedarf. Die Reform 2023 hat das System der
-Genehmigungspflichten neu strukturiert (§§ 1848–1858 BGB für Vermögens-
-sorge; §§ 1828–1834 BGB für personenbezogene Maßnahmen). Ohne
-erforderliche Genehmigung sind Geschäfte schwebend unwirksam (§ 1855 BGB).
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BtOG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Eingaben
+## Normenanker
 
-- **Aufgabenkreise** des Betreuers (Bestellungsurkunde)
-- **Konkret geplante Maßnahme** (z. B. "Verkauf der Eigentumswohnung der
- betreuten Person in Berlin-Charlottenburg")
-- **Beteiligte Personen** (Vertragspartner, Heimträger, Arzt)
-- **Wirtschaftliche Eckdaten** (Kaufpreis, Heimkosten, Darlehenssumme)
-- **Wünsche/Willen der betreuten Person** zum Geschäft (§ 1821 BGB)
-- **Vorhandensein einer Vorsorgevollmacht** (verdrängt ggf. Betreuung)
+Arbeitsfokus: **Familienbetreuer: erste 48 Stunden und Notfallmappe**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-## Rechtlicher Rahmen
+- `§ 1814 Abs. 1 BGB` — Erforderlichkeit der Betreuung.
+- `§ 1815 Abs. 1 BGB` — Aufgabenkreis.
+- `§ 1816 BGB` — Auswahl des Betreuers.
+- `§ 1821 Abs. 1 BGB` — Wunschbefolgung.
+- `§ 274 FamFG` — Beteiligte.
+- `§ 278 FamFG` — persönliche Anhörung.
+- `§ 280 FamFG` — Sachverständigengutachten.
+- `§ 293 FamFG` — Erweiterung oder Einschränkung der Betreuung.
+- `§ 5 BtOG` — Beratung und Unterstützung.
+- `§ 23 BtOG` — Registrierung beruflicher Betreuer.
 
-### Systematik der Genehmigungspflichten nach Reform 2023
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-Die §§ 1848–1858 BGB regeln **vermögensbezogene** Genehmigungspflichten:
+## Red Flags
 
-- § 1848 BGB — Grundsatz: Genehmigung des Gerichts bei wesentlichen
- Vermögensverfügungen
-- § 1849 BGB — Genehmigung bei Geschäften über Grundstücke und Rechte an
- Grundstücken
-- § 1850 BGB — Genehmigung bei Erbschaftsangelegenheiten (Annahme/
- Ausschlagung der Erbschaft, Erbteilsverkauf)
-- § 1851 BGB — Genehmigung bei Aufgabe/Auflösung der Wohnung der
- betreuten Person
-- § 1852 BGB — Genehmigung bei Geschäften über erwerbsmäßige Tätigkeit
-- § 1853 BGB — Genehmigung bei Kreditaufnahme, Verfügungen über Wertpapiere
-- § 1854 BGB — Genehmigung bei Schenkungen (Ausschluss anstandspflichtiger
- Schenkungen)
-- § 1855 BGB — Rechtsfolge: schwebende Unwirksamkeit ohne Genehmigung
+- Aufgabenkreis überschritten
+- zu viele Gesundheitsdaten verteilt
+- Bankvollmacht mit Betreuung verwechselt
 
-### Personenbezogene Maßnahmen (§§ 1828–1834 BGB)
+## Arbeitsstil
 
-- § 1828 BGB — Einwilligung in ärztliche Maßnahmen
-- § 1829 BGB — Genehmigung bei lebensgefährlichen oder schwer
- beeinträchtigenden ärztlichen Maßnahmen
-- § 1831 BGB — Genehmigung **freiheitsentziehender Unterbringung**
- (geschlossene Heimunterbringung, geschlossene psychiatrische Klinik)
-- § 1832 BGB — Genehmigung **freiheitsentziehender Maßnahmen** in offener
- Einrichtung (Bettgitter, Bauchgurt, sedierende Medikamente zur
- Bewegungseinschränkung)
-
-### § 1855 BGB — Schwebende Unwirksamkeit
-
-Rechtsgeschäfte ohne erforderliche Genehmigung sind **schwebend
-unwirksam**. Die Genehmigung kann auch nachträglich erteilt werden. Wird
-sie versagt, ist das Geschäft endgültig unwirksam. Der Vertragspartner kann
-nach § 1856 BGB widerrufen.
-
-### Kanonische Rechtsprechung (Stand 05/2026, Live-Verifikation vor Verwendung)
-
-- BGH, Beschluss vom 12.02.2025 - XII ZB 433/24: Bei Genehmigung oder Anordnung einer medikamentösen Zwangsbehandlung muss der Entscheidungstenor das jeweilige Medikament/den Wirkstoff, die (Höchst-)Dosierung sowie die Verabreichungshäufigkeit hinreichend genau bezeichnen (§ 323 Abs. 1 Nr. 1 FamFG). Quelle: bundesgerichtshof.de / dejure.org.
-- BGH, Beschluss vom 24.09.2025 - XII ZB 513/24: Wunsch des/der Betroffenen, durch nahe Angehörige betreut zu werden, hat Vorrang vor Berufsbetreuer; Amtsermittlungspflicht § 26 FamFG.
-- Etablierte Linien (zu verifizieren): Bei freiheitsentziehender Unterbringung (§ 1831 BGB n.F.) enge Voraussetzungen — erhebliche Selbstgefährdung, medizinische Indikation, Verhältnismäßigkeit, kein milderes Mittel. SV-Gutachten regelmäßig erforderlich (§ 321 FamFG).
-- Bei freiheitsentziehenden Maßnahmen in offener Einrichtung (§ 1832 BGB, vormals § 1906 Abs. 4 BGB a.F.): Bettgitter und Bauchgurt sind genehmigungspflichtig, wenn regelmäßig oder über längeren Zeitraum eingesetzt.
-- Grundstücksverkauf (§ 1849 BGB): Verkehrswertnachweis durch qualifiziertes Gutachten/Maklerwertindikation; auffallend niedriger Kaufpreis löst Prüfungspflicht aus.
-- Erbausschlagung (§ 1850 BGB): Gericht prüft wirtschaftliches Interesse der betreuten Person (Überschuldung, dingliche Lasten).
-
-Weitere Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe über bundesgerichtshof.de, dejure.org oder openjur.de verifizieren.
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## Ablauf
-
-1. **Aufgabenkreis prüfen**
- Liegt die geplante Maßnahme überhaupt im übertragenen Aufgabenkreis?
- (Vermögenssorge / Gesundheitssorge / Aufenthaltsbestimmung — § 1815 BGB).
- Fehlt der Aufgabenkreis, ist Erweiterung beim Gericht zu beantragen.
-
-2. **Tatbestand der Genehmigungspflicht prüfen**
- Subsumtion unter konkreten §§ 1848 ff. BGB bzw. §§ 1831, 1832 BGB.
-
-3. **Wunsch der betreuten Person ermitteln (§ 1821 BGB)**
- Auch bei genehmigungspflichtigen Geschäften ist der Wille der betreuten
- Person primärer Maßstab.
-
-4. **Antrag beim Betreuungsgericht stellen**
- Schriftlich oder zur Niederschrift der Geschäftsstelle. Beizufügen:
- - Begründung der Maßnahme
- - Wirtschaftliche Eckdaten (Verkehrswertgutachten, Kostenvoranschlag)
- - Stellungnahme zum Willen der betreuten Person
- - Bei medizinischen Maßnahmen: ärztliches Zeugnis / Gutachten
-
-5. **Anhörung durch das Gericht abwarten**
- Persönliche Anhörung der betreuten Person grundsätzlich Pflicht
- (§ 278 FamFG); bei Unterbringung Sachverständigengutachten
- zwingend (§ 321 FamFG).
-
-6. **Genehmigungsbeschluss umsetzen**
- Geschäft erst nach Rechtskraft des Beschlusses vollziehen. Bei
- Grundstücken: Beschluss als Anlage zum Notarvertrag.
-
-## Beispiel
-
-**Sachverhalt:** Frau Hannelore K. (Heimbewohnerin, siehe Schwester-Skill)
-wird zunehmend nachts unruhig, verlässt regelmäßig ihr Zimmer und gefährdet
-sich durch Stürze. Die Pflegeheimleitung schlägt vor, nachts Bettgitter
-anzubringen sowie ein leichtes Sedativum (Pipamperon 20 mg) zu verabreichen.
-
-**Prüfung:**
-
-> *2. Einschlägige Rechtsnorm:* § 1832 BGB — Genehmigung bei
-> freiheitsentziehenden Maßnahmen in offener Einrichtung
->
-> *3. Subsumtion:*
-> - Maßnahme: Bettgitter + sedierende Medikation
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-> Rn. 27 ff. — auch in offener Einrichtung)
-> - Sedativum: Wenn primär zur Bewegungseinschränkung verabreicht
-> (nicht therapeutisch), ebenfalls § 1832 BGB
-> - Regelmäßigkeit: jede Nacht — Tatbestand erfüllt
->
-> *4. Wille der betreuten Person:* Frau K. wurde am 18.02.2026 befragt
-> (Aktenvermerk). Sie äußerte: "Ich will nicht eingesperrt sein, aber
-> hinfallen will ich auch nicht." Bei eingeschränkter Einsichtsfähigkeit
-> ist mutmaßlicher Wille zu erschließen — Schutz vor Sturzschäden hat
-> Priorität.
->
-> *5. Ergebnis:* genehmigungspflichtig. Antrag beim Betreuungsgericht
-> Berlin-Spandau, AZ XVII 0234/24.
->
-> *6. Anlagen:*
-> - Ärztliches Zeugnis Dr. Petersen v. 02.03.2026 (Sturzgefahr)
-> - Stellungnahme Pflegeheimleitung Sonnenhof
-> - Aktenvermerk Anhörung Frau K. v. 18.02.2026
-> - Prüfung milderer Mittel (Niedrigflurbett, Sturzmatte) — Stellungnahme
-
-## Risiken und typische Fehler
-
-**1. Genehmigung vor Vollzug einholen**
-Geschäft erst nach Rechtskraft des Genehmigungsbeschlusses abschließen.
-Vorzeitige Vollziehung führt zur schwebenden Unwirksamkeit (§ 1855 BGB).
-
-**2. "Bettgitter sind keine Freiheitsentziehung"**
-Verbreiteter Irrtum: Auch in offenen Einrichtungen sind Bettgitter und
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-24/12 Rn. 27 ff.). Einmalige kurzzeitige Maßnahme bei akuter Eigen-
-gefährdung kann ohne Genehmigung erlaubt sein (Notstand).
-
-**3. Heimvertrag**
-Der Abschluss eines Heimvertrags durch den Betreuer ist regelmäßig **nicht**
-nach § 1851 BGB genehmigungspflichtig, sondern Verwaltungsmaßnahme. Die
-**Auflösung der bisherigen Wohnung** ist dagegen genehmigungspflichtig
-(§ 1851 BGB), sofern Lebensmittelpunkt aufgegeben wird.
-
-**4. Schenkung an Familie**
-Schenkungen sind nach § 1854 BGB grundsätzlich genehmigungspflichtig.
-Ausnahme: anstandsbedingte Gelegenheitsgeschenke (Geburtstag, Weihnachten)
-in angemessenem Umfang.
-
-**5. Erbausschlagung Frist**
-Erbausschlagung ist binnen 6 Wochen nach Kenntnis vom Erbfall zu erklären
-(§ 1944 BGB). Bei Genehmigungsbedürftigkeit (§ 1850 BGB) muss der Antrag
-**innerhalb der Sechswochenfrist** beim Gericht eingehen; eine Hemmung
-greift bei vorzeitiger Antragstellung.
-
-**6. Verkehrswert nicht belegt**
-Beim Grundstücksverkauf ist Verkehrswertgutachten oder Maklerwert-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Behauptungen genügen nicht.
-
-**7. Vorsorgevollmacht verdrängt Betreuung**
-Vor Antragstellung prüfen, ob eine wirksame Vorsorgevollmacht besteht
-(§ 1820 BGB). Der Bevollmächtigte ist vorrangig zu beteiligen; Betreuung
-ist subsidiär.
-
-## Quellenpflicht
-
-Bei jeder Ausgabe sind mindestens folgende Belege anzugeben:
-
-- §§ 1848 ff. BGB, §§ 1831, 1832 BGB (einschlägige Rechtsnormen)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
-- Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; nur Nutzerquelle oder lizenzierte Live-Verifikation verwenden.
-
----
-*Dieser Skill ersetzt keine konkrete fachliche Beratung im Einzelfall.
-Vor jeder genehmigungspflichtigen Maßnahme ist der Antrag durch den
-verantwortlichen Betreuer zu prüfen.*
+Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
 
 ---
 
-## Skill: `jahresbericht-betreuungsgericht`
+## Skill: `familienbetreuer-bankkonto-und-rechnungslegung-einfach`
 
-_Jahresbericht und Anfangs-/Schlussbericht für das Betreuungsgericht nach § 1863 BGB erstellen: persönliche Kontakte, Wünsche der betreuten Person, Ziele, Maßnahmen, Gründe für Fortbestand oder Änderung der Betreuung, Vermögens-Eckdaten und Anlagen. Für Berufsbetreuer ebenso wie ehrenamtliche Fami..._
+_Wenn es um Familienbetreuer: Bankkonto und einfache Rechnungslegung in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Familienbetreuer Bankkonto Und Rechnungslegung Einfach; Arbeitsfeld: Betreuungsrecht._
 
-# Jahresbericht des Betreuers ans Betreuungsgericht (§ 1863 BGB)
+# Familienbetreuer: Bankkonto und einfache Rechnungslegung
 
-## Zweck
+## Arbeitsweg
 
-Unterstützt berufliche und ehrenamtliche Betreuerinnen und
-Betreuer bei der Erstellung des **Jahresberichts an das Betreuungsgericht**
-nach § 1863 Abs. 3 BGB sowie des **Anfangsberichts** nach § 1863 Abs. 1 BGB.
-Aus einer Sammlung unsortierter Eingangsdaten — E-Mail-Verkehr mit Heimen,
-Ärzten, Kostenträgern, Aktenvermerken über Besuche und Telefonate,
-Arztbriefen, Heim- und Pflegeberichten, Kontoauszügen, Behördenpost —
-generiert der Skill einen vollständigen, gerichtstauglich strukturierten
-Bericht mit den nach § 1863 BGB zwingend vorgeschriebenen Abschnitten.
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BtOG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Eingaben
+## Normenanker
 
-- **Stammdaten der betreuten Person:** Name, Geburtsdatum, Anschrift,
- Aufenthaltsort (eigene Wohnung, Heim, Klinik), Aktenzeichen des
- Betreuungsgerichts, Anordnungsdatum und Aufgabenkreise (§ 1815 BGB)
-- **Berichtszeitraum:** Berichtsbeginn und -ende (Anfangsbericht: ab
- Bestellung; Jahresbericht: 12 Monate; Schlussbericht: Ende der Betreuung)
-- **Persönliche Kontakte:** Datum, Dauer, Ort und Inhalt jedes Besuchs oder
- Telefonats (§ 1821 Abs. 5 BGB — Pflicht zum persönlichen Kontakt)
-- **Wohnsituation:** Wechsel der Wohnung, Heimaufnahme, Heimwechsel,
- Klinikaufenthalte
-- **Gesundheitliche Situation:** Diagnosen (aktuelle Arztbriefe), Pflegegrad,
- Behandlungen, ärztliche Maßnahmen mit Einwilligungsbedarf (§§ 1828 ff. BGB)
-- **Soziale Kontakte:** Familienangehörige, Freundeskreis, Ehrenamtliche
-- **Vermögensentwicklung:** Eckdaten (Anfangsbestand, Endbestand,
- wesentliche Veränderungen) — Detailausweis erfolgt in der gesonderten
- Rechnungslegung (§ 1865 BGB)
-- **Wünsche und Präferenzen der betreuten Person** (§ 1821 Abs. 2, 3 BGB —
- Vorrang der Wünsche)
-- **Bestehender Anfangs- oder Vorjahresbericht** (zur Fortschreibung)
+Arbeitsfokus: **Familienbetreuer: Bankkonto und einfache Rechnungslegung**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-## Rechtlicher Rahmen
+- `§ 1821 Abs. 1 BGB` — Wunschbindung auch in Vermögensfragen.
+- `§ 1823 BGB` — Vertretungsmacht.
+- `§ 1835 BGB` — Aufwendungsersatz.
+- `§ 1838 BGB` — Vermögenssorge.
+- `§ 1840 BGB` — Geldanlage und Vermögensverwaltung live prüfen.
+- `§ 1848 BGB` — Rechnungslegung/Vermögensübersicht.
+- `§ 1850 BGB` — genehmigungspflichtige Vermögensgeschäfte live prüfen.
+- `§ 1863 BGB` — Berichtspflichten gegenüber dem Betreuungsgericht.
+- `§ 292 FamFG` — Rechnungslegung und gerichtliche Kontrolle.
+- `§ 299 FamFG` — Akteneinsicht.
 
-### § 1863 BGB — Berichtspflicht des Betreuers
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-**Abs. 1 — Anfangsbericht:** Der Betreuer hat unverzüglich nach Bestellung,
-spätestens binnen drei Monaten, dem Betreuungsgericht über die persönlichen
-Verhältnisse der betreuten Person, die zu erledigenden Aufgaben und die
-geplante Ausgestaltung der Betreuung zu berichten.
+## Red Flags
 
-**Abs. 2 — Inhalt des Anfangsberichts:**
-1. die persönlichen Verhältnisse der betreuten Person,
-2. die Wünsche der betreuten Person und die geplanten Maßnahmen zu ihrer
- Verwirklichung,
-3. ggf. Gründe, weshalb Wünschen nicht entsprochen werden kann,
-4. die geplante Ausgestaltung der persönlichen Betreuung, insbesondere die
- Häufigkeit persönlicher Kontakte.
+- Barabhebungen ohne Zweck
+- Vermischung mit eigenem Konto
+- Geschenke an Familie unklar
 
-**Abs. 3 — Jahresbericht:** Mindestens einmal jährlich hat der Betreuer dem
-Betreuungsgericht über die persönlichen Verhältnisse der betreuten Person
-sowie über die Ausführung der Betreuung zu berichten. Der Jahresbericht
-enthält insbesondere:
+## Arbeitsstil
 
-1. eine Darstellung der persönlichen Verhältnisse der betreuten Person,
-2. den Umfang und Inhalt der persönlichen Kontakte,
-3. die Wünsche der betreuten Person und ihre Verwirklichung,
-4. Mitteilung, ob Anlass besteht, die Betreuung aufzuheben oder den
- Aufgabenkreis (§ 1815 BGB) zu erweitern oder einzuschränken.
-
-**Abs. 4 — Schlussbericht:** Bei Beendigung der Betreuung hat der Betreuer
-einen Schlussbericht zu erstatten.
-
-### § 1821 BGB — Pflichten des Betreuers; Wünsche der betreuten Person
-
-Die Wünsche der betreuten Person sind **Maßstab** der Betreuung (§ 1821
-Abs. 2 BGB). Der Betreuer darf nur dann von Wünschen abweichen, wenn die
-betreute Person aufgrund ihrer Erkrankung oder Behinderung ihren Willen
-nicht frei bilden kann **und** die Verwirklichung des Wunsches die Person
-erheblich gefährden würde (§ 1821 Abs. 3 BGB).
-
-§ 1821 Abs. 5 BGB statuiert die **Pflicht zum persönlichen Kontakt** —
-der Betreuer hat die erforderlichen Angelegenheiten persönlich mit der
-betreuten Person zu besprechen. Häufigkeit und Form sind im
-Anfangs- und Jahresbericht darzustellen.
-
-### § 1815 BGB — Aufgabenkreise
-
-Aufgabenkreise sind nicht pauschal ("alle Angelegenheiten"), sondern
-einzeln zu bestimmen. Übliche Aufgabenkreise:
-
-- Vermögenssorge
-- Gesundheitssorge
-- Aufenthaltsbestimmung
-- Wohnungsangelegenheiten
-- Behörden- und Sozialleistungsangelegenheiten
-- Vertretung gegenüber Heim/Pflegeeinrichtung
-- Postangelegenheiten (§ 1815 Abs. 2 Nr. 3 BGB — gesonderter Beschluss)
-
-### § 9 BtOG — Berufliche Betreuung
-
-Berufsbetreuer benötigen Registrierung nach § 23 BtOG und Sachkundenachweis
-nach § 24 BtOG. Die Berichtspflichten gelten unverändert; für Berufsbetreuer
-gilt zusätzlich der Vergütungsanspruch nach § 7 VBVG (pauschalierte
-Stundensätze nach Vergütungstabelle).
-
-### Berichtsqualität
-
-Der Bericht ist Grundlage der gerichtlichen Aufsicht (§ 1862 BGB). Er soll so
-konkret sein, dass das Gericht erkennen kann, ob die Betreuung ordnungsgemäß
-geführt wird, ob die Aufgabenkreise noch passen und ob die Wünsche der
-betreuten Person beachtet werden. Pauschale Sätze wie "keine Besonderheiten"
-oder "es geht gut" genügen nicht.
-
-Für persönliche Kontakte gilt: Datum, Ort, Dauer, Beteiligte, eigener Eindruck
-und besprochene Wünsche festhalten. Telefonate und Videogespräche können
-ergänzen; bei Konflikt, Pflegeheim, Gesundheitsrisiko oder Vermögensrisiko
-braucht der Bericht erkennbar einen belastbaren eigenen Eindruck.
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Ablauf
-
-1. **Eingabesichtung und Kategorisierung**
- Der Skill sichtet alle eingegebenen Dokumente (E-Mails, Aktenvermerke,
- Arztbriefe, Heimberichte, Kontoauszüge, Behördenpost) und ordnet sie
- einem der vier Pflichtabschnitte des § 1863 Abs. 3 BGB zu: persönliche
- Verhältnisse, persönliche Kontakte, Wünsche, Anlass zur Änderung.
-
-2. **Persönliche Verhältnisse darstellen**
- - Wohnsituation (eigene Wohnung / Heim — mit Namen der Einrichtung,
- Aufnahmedatum, Pflegegrad)
- - Gesundheitlicher Zustand (aktuelle Diagnosen, Veränderungen im
- Berichtszeitraum, Klinikaufenthalte)
- - Soziales Umfeld (Angehörige, Freundeskreis, ehrenamtliche Helfer)
- - Wirtschaftliche Verhältnisse in Eckdaten (Anfangs-/Endvermögen,
- Sozialleistungsbezug)
- - Berufliche oder ehrenamtliche Tätigkeit, Beschäftigung
-
-3. **Persönliche Kontakte tabellarisch belegen**
- Pro Kontakt: Datum, Dauer, Ort, kurze Inhaltsangabe, eigener Eindruck,
- Wunschbezug und offene Folgeaufgabe. Bei Heimbewohnern Kontakte nicht nur
- aus Heimberichten ableiten.
-
-4. **Wünsche und ihre Verwirklichung**
- - Wünsche der betreuten Person (geäußert oder erschlossen aus früheren
- Willensbekundungen, Patientenverfügung, Vorsorgevollmacht)
- - Maßnahmen des Betreuers zur Verwirklichung
- - Bei Abweichung: Begründung (§ 1821 Abs. 3 BGB — erhebliche
- Gefährdung)
-
-5. **Anlass zur Änderung der Betreuung prüfen**
- - Sind alle Aufgabenkreise weiter erforderlich? (Verhältnismäßigkeit,
- § 1814 Abs. 3 BGB)
- - Sind weitere Aufgabenkreise erforderlich geworden?
- - Lässt sich die Betreuung aufheben (z. B. wegen Vorsorgevollmacht
- oder Genesung)?
-
-6. **Vermögensentwicklung — Eckdaten**
- Bei Vermögenssorge: kurze Eckdaten (Anfangsbestand, Endbestand, große
- Veränderungen). Die detaillierte **Rechnungslegung** erfolgt gesondert
- nach § 1865 BGB (vereinfachte Rechnungslegung für Familienangehörige
- nach § 1859 BGB ggf. möglich).
-
-7. **Anlagen zusammenstellen**
- Aktuelle Arztbriefe (sofern für Bericht relevant), Heim-/Pflegebericht
- (sofern vorhanden), gegebenenfalls Patientenverfügung, Vorsorgevollmacht,
- Schreiben mit Wunschäußerungen der betreuten Person.
-
-## Ausgabeformat
-
-Strukturierter Berichtstext mit folgenden Abschnitten (entsprechend
-§ 1863 Abs. 3 BGB):
-
-```
-An das Amtsgericht – Betreuungsgericht – [Ort]
-Aktenzeichen: [XVII … / …]
-
-Jahresbericht des Betreuers nach § 1863 Abs. 3 BGB
-Berichtszeitraum: [TT.MM.JJJJ – TT.MM.JJJJ]
-
-Betreute Person: [Name, Vorname]
-Geboren: [TT.MM.JJJJ]
-Anschrift: [Aktueller Aufenthaltsort, Einrichtung]
-Bestellung: [TT.MM.JJJJ]
-Aufgabenkreise: [Aufzählung gem. § 1815 BGB]
-
-1. Persönliche Verhältnisse der betreuten Person
- 1.1 Wohnsituation
- 1.2 Gesundheitlicher Zustand
- 1.3 Soziales Umfeld
- 1.4 Wirtschaftliche Verhältnisse (Eckdaten)
-
-2. Persönliche Kontakte im Berichtszeitraum
- Tabellarische Aufstellung: Datum | Ort | Dauer | Inhalt
- Gesamtfrequenz: [n Besuche, n Telefonate]
-
-3. Wünsche der betreuten Person und ihre Verwirklichung
- 3.1 Geäußerte oder erschlossene Wünsche
- 3.2 Umgesetzte Maßnahmen
- 3.3 Ggf. Abweichungen und deren Begründung (§ 1821 Abs. 3 BGB)
-
-4. Anlass zur Änderung der Betreuung
- [Aufhebung / Erweiterung / Einschränkung / kein Anlass]
-
-5. Vermögensentwicklung (Eckdaten)
- Anfangsbestand: [Datum, Betrag]
- Endbestand: [Datum, Betrag]
- Wesentliche Veränderungen:
- Gesonderte Rechnungslegung nach § 1865 BGB: beigefügt / folgt am …
-
-6. Anlagen
- [Liste]
-
-Ort, Datum [Name, Unterschrift Betreuer/in]
- Betreuer/in
- ggf. Registrierungs-Nr. bei Berufsbetreuung
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Beispiel
-
-**Eingabe (Auszug, pseudonymisiert):**
-
-- Betreuung Frau Hannelore K., geb. 14.03.1942, AZ XVII 0234/24
-- Aufgabenkreise: Vermögenssorge, Gesundheitssorge, Aufenthaltsbestimmung,
- Vertretung gegenüber Heim, Postangelegenheiten
-- Berichtszeitraum: 01.06.2025 – 31.05.2026
-- E-Mails: 12 mit Heimleitung Sonnenhof Berlin-Spandau, 4 mit Hausarzt
- Dr. Petersen, 8 mit Rentenversicherung
-- Aktenvermerke: 6 Besuche im Heim (jeweils ca. 60 Min), 14 Telefonate
-- Arztbriefe: Kardiologie Vivantes Spandau v. 12.09.2025 (Vorhofflimmern,
- Antikoagulation eingeleitet); Allgemeinmedizin Petersen v. 02.03.2026
-- Heimrechnung: Pflegegrad 4, Eigenanteil 2.341 EUR/Monat, Sozialhilfe ergänzt
-- Kontoauszüge: Anfangsbestand 18342.12 EUR, Endbestand 16108.77 EUR
-- Wunschäußerung Frau K. (Vermerk v. 24.11.2025): "Möchte am Heiligabend
- bei Tochter Susanne in Potsdam sein" — umgesetzt durch Abholfahrt am
- 24.12.2025
-
-**Ausgabe (Auszug Abschnitt 2):**
-
-> *2. Persönliche Kontakte im Berichtszeitraum*
->
-> Im Berichtszeitraum fanden 6 persönliche Besuche und 14 Telefonate statt.
-> Die Besuche erfolgten jeweils im Pflegeheim Sonnenhof, Berlin-Spandau.
->
-> | Datum | Ort | Dauer | Inhalt |
-> |---|---|---|---|
-> | 18.06.2025 | Sonnenhof, Spandau | 65 Min | Vorstellungsgespräch, Erfassung Wünsche |
-> | 12.09.2025 | Sonnenhof, Spandau | 50 Min | Besprechung Vorhofflimmern-Diagnose, Einwilligung Antikoagulation |
-> | 24.11.2025 | Sonnenhof, Spandau | 55 Min | Erörterung Weihnachtsbesuch bei Tochter |
-> | 18.02.2026 | Sonnenhof, Spandau | 60 Min | Pflegegrad-Höherstufung 4, Eigenanteilsfinanzierung |
-> | … | … | … | … |
->
-> Persönliche Kontakte wurden mit Datum, Ort, Dauer und Inhalt dokumentiert.
-> Telefonate und Videogespräche können den persönlichen Eindruck ergänzen,
-> ersetzen ihn aber in konflikt- oder risikoreichen Situationen nicht.
-
-## Risiken und typische Fehler
-
-**1. Pauschale Formulierungen**
-"Frau K. geht es gut, keine Besonderheiten" genügt nicht. Der Bericht muss
-substantiiert die persönlichen Verhältnisse darstellen, damit das Gericht
-Aufsicht, Erforderlichkeit und Aufgabenkreise prüfen kann.
-
-**2. Persönliche Kontakte zu selten dokumentiert**
-Jeder relevante Kontakt ist mit Datum, Ort, Dauer und Inhalt zu dokumentieren.
-Bei Heimbewohnern, Krankheit, Konflikten oder Vermögensrisiken muss der Bericht
-erkennen lassen, wie sich der Betreuer einen eigenen Eindruck verschafft hat.
-
-**3. Wünsche nicht eigenständig ermittelt**
-Der Bericht muss erkennen lassen, wie der Betreuer die Wünsche der
-betreuten Person ermittelt hat (Gespräch, Anhörung, Patientenverfügung).
-Die bloße Aussage "Die Betreute hat keine Wünsche geäußert" ist
-unzureichend, wenn nicht erkennbar ist, ob der Betreuer aktiv gefragt hat
-oder welche Kommunikationshilfen versucht wurden.
-
-**4. Vermischung Bericht und Rechnungslegung**
-Der Jahresbericht (§ 1863 BGB) und die Rechnungslegung (§ 1865 BGB) sind
-**zwei verschiedene Dokumente**. Im Bericht genügen Vermögens-Eckdaten;
-die detaillierte Rechnungslegung mit Belegen wird gesondert eingereicht.
-
-**5. Fristen versäumt**
-- Anfangsbericht: binnen 3 Monaten nach Bestellung
-- Jahresbericht: jährlich, im vom Gericht festgesetzten Turnus
-- Schlussbericht: unverzüglich nach Ende der Betreuung
-Fristversäumnis kann zur Anhörung, im Wiederholungsfall zur Entlassung
-des Betreuers nach § 1868 BGB führen.
-
-**6. Datenschutz bei KI-Nutzung**
-Berichte enthalten besondere Kategorien personenbezogener Daten (Art. 9
-DSGVO: Gesundheitsdaten) sowie Sozialdaten. Vor Übergabe an externe
-KI-Systeme sind Daten zu pseudonymisieren (siehe Skill
-`playbook-aus-eigenen-daten` im Plugin `kanzlei-builder-hub`). Berufliche
-Schweige-, Datenschutz- und Vertraulichkeitspflichten sind je nach Rolle und
-Konstellation gesondert zu prüfen.
-
-**7. Beendigungsanlass nicht geprüft**
-§ 1863 Abs. 3 Nr. 4 BGB verlangt ausdrücklich die Mitteilung, ob Anlass
-zur Aufhebung, Erweiterung oder Einschränkung besteht. Dieser Abschnitt
-darf nie fehlen; er bewirkt die Verhältnismäßigkeitskontrolle nach
-§ 1814 Abs. 3 BGB.
-
-**8. Aufgabenkreis "Postangelegenheiten" / "Postkontrolle"**
-Wegen Eingriff in Art. 10 GG nur bei gesondertem gerichtlichen Beschluss
-(§ 1815 Abs. 2 Nr. 3 BGB). Im Bericht ist Notwendigkeit fortlaufend zu
-begründen.
-
-## Quellenpflicht
-
-Bei jeder Ausgabe sind mindestens folgende Belege anzugeben:
-
-- § 1863 BGB (Berichtspflicht) und § 1821 BGB (Wünsche, persönlicher Kontakt)
-- Rechtsprechung nur nach Live-Prüfung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
-- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
 
 ---
-*Dieser Skill ersetzt keine konkrete fachliche Beratung im Einzelfall.
-Vor Einreichung beim Betreuungsgericht ist der Bericht durch den
-verantwortlichen Betreuer eigenständig zu prüfen.*
+
+## Skill: `familienbetreuer-erste-48-stunden`
+
+_Wenn es um Familienbetreuer: erste 48 Stunden und Notfallmappe in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Familienbetreuer Erste 48 Stunden; Arbeitsfeld: Betreuungsrecht._
+
+# Familienbetreuer: erste 48 Stunden und Notfallmappe
+
+## Normenanker
+
+Arbeitsfokus: **Familienbetreuer: erste 48 Stunden und Notfallmappe**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 1814 Abs. 1 BGB` — Erforderlichkeit der Betreuung.
+- `§ 1815 Abs. 1 BGB` — Aufgabenkreis.
+- `§ 1816 BGB` — Auswahl des Betreuers.
+- `§ 1821 Abs. 1 BGB` — Wunschbefolgung.
+- `§ 274 FamFG` — Beteiligte.
+- `§ 278 FamFG` — persönliche Anhörung.
+- `§ 280 FamFG` — Sachverständigengutachten.
+- `§ 293 FamFG` — Erweiterung oder Einschränkung der Betreuung.
+- `§ 5 BtOG` — Beratung und Unterstützung.
+- `§ 23 BtOG` — Registrierung beruflicher Betreuer.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Red Flags
+
+- Aufgabenkreis überschritten
+- zu viele Gesundheitsdaten verteilt
+- Bankvollmacht mit Betreuung verwechselt
+
+## Arbeitsstil
+
+Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
+
+## Powersprint-Vertiefung
+
+- **Alltagsdurchführung:** Zerlege `Familienbetreuer: erste 48 Stunden und Notfallmappe` in konkrete nächste Handlungen für ehrenamtliche Betreuer: anrufen, scannen, ablegen, nachfragen, Gericht informieren, Frist notieren.
+- **Gerichts- und Beleglogik:** Halte Wunsch der betreuten Person, Vertretungsmacht, Einwilligung, Vermögensschutz, Gesundheitsdaten und Nachweis gegenüber dem Betreuungsgericht getrennt.
+- **Fehlerbremse:** Keine Vermischung eigener und fremder Gelder, keine unnötige Offenlegung sensibler Daten, keine medizinische Entscheidung ohne Zuständigkeit und dokumentierten Wunsch bzw. mutmaßlichen Willen.
+- **Output:** Tagesplan, Belegliste, kurzer Gerichtstext, Telefonnotiz und Wiedervorlage in einfacher Sprache.
 
 ---
 
-## Skill: `kaltstart-interview`
+## Skill: `familienbetreuer-wohnungsaufloesung-genehmigung`
 
-_Kaltstart-Interview für das Betreuungsrecht-Plugin. Befüllt das Praxisprofil mit Angaben zur Rolle (betreute Person / Angehöriger / ehrenamtlicher Familienbetreuer / Berufsbetreuer / Vereinsbetreuer / Behördenbetreuer / anwaltliche Begleitung), Betreuungsgericht, Aufgabenkreisen, Unterstützungsst..._
+_Wenn es um Familienbetreuer: Wohnung, Heim, Kündigung, Genehmigung in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Familienbetreuer Wohnungsaufloesung Genehmigung; Arbeitsfeld: Betreuungsrecht._
 
-# /betreuungsrecht:betreuungsrecht-kaltstart-interview
+# Familienbetreuer: Wohnung, Heim, Kündigung, Genehmigung
 
-## Aktenstart statt Formularstart
+## Arbeitsweg
 
-Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Betreuungsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BtOG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-Starte dann mit einer knappen Rueckmeldung:
+## Normenanker
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Arbeitsfokus: **Familienbetreuer: Wohnung, Heim, Kündigung, Genehmigung**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+- `§ 1821 Abs. 1 BGB` — Wunschbindung auch in Vermögensfragen.
+- `§ 1823 BGB` — Vertretungsmacht.
+- `§ 1835 BGB` — Aufwendungsersatz.
+- `§ 1838 BGB` — Vermögenssorge.
+- `§ 1840 BGB` — Geldanlage und Vermögensverwaltung live prüfen.
+- `§ 1848 BGB` — Rechnungslegung/Vermögensübersicht.
+- `§ 1850 BGB` — genehmigungspflichtige Vermögensgeschäfte live prüfen.
+- `§ 1863 BGB` — Berichtspflichten gegenüber dem Betreuungsgericht.
+- `§ 292 FamFG` — Rechnungslegung und gerichtliche Kontrolle.
+- `§ 299 FamFG` — Akteneinsicht.
 
-## Ablauf
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-1. Zustand der Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/betreuungsrecht/CLAUDE.md` prüfen.
-2. Falls vorhanden und ohne `[PLATZHALTER]`-Marker: bestätigen, dass das Praxisprofil schon befüllt ist, und Modus erfragen (`--redo` für vollständiges Neu-Interview).
-3. Falls nicht vorhanden oder mit Platzhaltern: das Kaltstart-Interview unten durchführen.
-4. Konfigurationsdatei schreiben (übergeordnete Verzeichnisse bei Bedarf anlegen).
-5. Zusammenfassung anzeigen und nächste Schritte vorschlagen.
+## Red Flags
 
-## `--integrationen-prüfen`
+- Wohnung vorschnell gekündigt
+- Gerichtsgenehmigung fehlt
+- Familienstreit über Gegenstände
 
-Prüft die Konnektoren-Verfügbarkeit (Dokumentenspeicher, E-Mail-System für Betreuungsbehörde-Kommunikation, Kalender für Anhörungs-/Berichtstermine). Aktualisiert nur den Abschnitt `## Verfügbare Integrationen`, führt kein neues Interview durch.
+## Arbeitsstil
 
-Beim Prüfen: nur `✓` melden, wenn ein MCP-Tool-Aufruf tatsächlich erfolgreich war. Konfigurierte-aber-ungetestete Konnektoren als `⚪` markieren.
-
----
-
-## Kaltstart-Interview: Betreuungsrecht
-
-### 1. Wer nutzt dieses Plugin?
-
-- **Rolle:** betreute Person / Angehöriger / ehrenamtlicher Familienbetreuer / ehrenamtlicher Betreuer ohne persönliche Bindung / Berufsbetreuer / Vereinsbetreuer / Behördenbetreuer / Anwalt mit Betreuungsmandaten?
-- **Status:** Schon bestellt, nur vorgeschlagen, eigene Anregung läuft, einstweilige Anordnung oder bloße Vorsorgefrage?
-- **Anwaltlicher Ansprechpartner** (falls vorhanden): Name, Kanzlei, Erreichbarkeit
-- **Berufsverband:** BdB, VfB, VGT, sonstiger oder keiner
-- **Unterstützungsstellen:** zuständige Betreuungsbehörde, Betreuungsverein, Betreuungsgericht, ggf. Verhinderungsbetreuung
-
-### 2. Aktuelle Betreuungen
-
-- **Anzahl aktiver Betreuungen:** N; bei Familienbetreuern meist eine konkrete Betreuung, bei Berufsbetreuern Praxisumfang gesondert erfassen.
-- **Typische Aufgabenkreise:** Vermögenssorge / Gesundheitssorge / Aufenthaltsbestimmung / Wohnungsangelegenheiten / Postangelegenheiten / Behördenangelegenheiten
-- **Zuständige Betreuungsgerichte:** Hauptgericht + weitere
-- **Wünsche der betreuten Person:** bekannte Wünsche, frühere Äußerungen, Patientenverfügung, Vorsorgevollmacht, Betreuungsverfügung
-- **Dringende Alltagsthemen:** Bank, Miete/Heim, Pflege, Arzt, Bescheide, Schulden, Telefonbetrug, Angehörigenkonflikt
-
-### 3. Berichtswesen
-
-- **Berichtsformat:** Anfangs-/Jahres-/Schlussbericht nach § 1863 BGB; bei Vermögenssorge zusätzlich Vermögensverzeichnis nach § 1835 BGB und Vermögens-/Rechnungslegung nach gerichtlicher Vorgabe.
-- **Berichtsturnus:** Standardmäßig jährlich; bei großem Vermögen ggf. abweichend
-- **Vorlagen vorhanden:** ja / nein, Ablageort
-- **Kalender/Reminder:** gewünschtes System: Papierkalender, Outlook, Apple Kalender, Excel, Aufgabenliste, keine Integration.
-
-### 4. Genehmigungspflichtige Geschäfte
-
-Bekannte Bereiche, in denen regelmäßig Genehmigungen erforderlich sind:
-- Grundstücksgeschäfte (§ 1850 BGB)
-- Erbschaftsausschlagung (§ 1851 BGB)
-- Aufgabe oder Kündigung selbstgenutzten Wohnraums (§ 1833 BGB)
-- Freiheitsentziehende Maßnahmen (§ 1831 BGB)
-- Sterilisation (§ 1830 BGB)
-- Risikoreiche Heilbehandlung (§ 1829 BGB)
-
-### 5. Eskalation
-
-- **Wer hilft bei rechtlich kritischen Fragen?** Betreuungsverein / Betreuungsbehörde / Betreuungsgericht / Anwalt / Notar / Pflegeberatung
-- **Wann wird das Betreuungsgericht informiert?** Bei jedem genehmigungspflichtigen Geschäft, bei wesentlichen Statusänderungen, bei vermutetem Missbrauch
-- **Überforderungsschwelle:** Welche Themen soll das System rot markieren, damit nicht allein entschieden wird?
-
-### 6. Standort und Sprachen
-
-- **Bundesland / Betreuungsgerichtsbezirk:** [Bayern / NRW / etc.]
-- **Sprachkenntnisse der Betreuten:** Deutsch / weitere
+Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
 
 ---
 
-## Ausgabe
+## Skill: `familienbetreuer-bankkonto-rechnungslegung`
 
-Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/betreuungsrecht/CLAUDE.md` geschrieben. Anschließend zeigen:
+_Wenn es um Familienbetreuer: Bankkonto und einfache Rechnungslegung in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Familienbetreuer Bankkonto Rechnungslegung; Arbeitsfeld: Betreuungsrecht._
 
-- Was eingerichtet wurde (Zusammenfassung der Antworten)
-- Welche Skills jetzt sinnvoll als nächstes laufen können:
- - `/betreuungsrecht:vermögensverzeichnis-prüfung` — bei Eröffnung einer Betreuung
- - `/betreuungsrecht:genehmigungspflicht-prüfung` — vor wesentlichen Geschäften
- - `/betreuungsrecht:jahresbericht-betreuungsgericht` — bei jährlicher Berichtspflicht
- - `/betreuungsrecht:ehrenamtlicher-betreuer-erster-monat` — bei familiärer oder ehrenamtlicher Erstbetreuung
- - `/betreuungsrecht:dokumentenscan-aktenablage-und-belegmappe` — bei unsortierten Scans, Fotos und Bescheiden
- - `/betreuungsrecht:kalender-reminder-und-fristenmanagement` — für Berichtspflichten, Bescheidfristen und Routinekontakte
-- Hinweis auf Datenschutz, Vertraulichkeit und sparsame Verarbeitung sensibler Gesundheits- und Vermögensdaten
+# Familienbetreuer: Bankkonto und einfache Rechnungslegung
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+## Normenanker
 
-## Rechtlicher Rahmen
+Arbeitsfokus: **Familienbetreuer: Bankkonto und einfache Rechnungslegung**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- **§ 1814 ff. BGB** — Betreuungsrecht (seit 01.01.2023 reformiert)
-- **§ 1821 BGB** — Pflichten des Betreuers und Wünsche der betreuten Person
-- **§§ 1829–1832 BGB** — Genehmigungspflichten
-- **VBVG** — Vergütung Berufsbetreuer
-- **BtOG** und **BtRegV** — Organisation, Registrierung beruflicher Betreuer und Unterstützung ehrenamtlicher Betreuer
-- **FamFG §§ 271–341** — Verfahrensrecht Betreuungssachen
+- `§ 1821 Abs. 1 BGB` — Wunschbindung auch in Vermögensfragen.
+- `§ 1823 BGB` — Vertretungsmacht.
+- `§ 1835 BGB` — Aufwendungsersatz.
+- `§ 1838 BGB` — Vermögenssorge.
+- `§ 1840 BGB` — Geldanlage und Vermögensverwaltung live prüfen.
+- `§ 1848 BGB` — Rechnungslegung/Vermögensübersicht.
+- `§ 1850 BGB` — genehmigungspflichtige Vermögensgeschäfte live prüfen.
+- `§ 1863 BGB` — Berichtspflichten gegenüber dem Betreuungsgericht.
+- `§ 292 FamFG` — Rechnungslegung und gerichtliche Kontrolle.
+- `§ 299 FamFG` — Akteneinsicht.
 
-## Hinweise
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-Dieses Plugin ersetzt keine anwaltliche Beratung. Zitate aus Trainingsdaten sind vor Verwendung gegen Primärquellen (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang, Gesetze im Internet) zu prüfen.
+## Red Flags
 
----
+- Barabhebungen ohne Zweck
+- Vermischung mit eigenem Konto
+- Geschenke an Familie unklar
 
-## Skill: `kontodaten-vertragsverdacht-pruefung`
+## Arbeitsstil
 
-_Kontoauszüge und Vertragsunterlagen in Betreuungsfällen auf Missbrauch prüfen: ungewöhnliche Zahlungen, verdächtige Dauerverträge, Fernwartung, Telefonbetrug, riskante Anlagen, Angehörigendruck und Auslandsüberweisungen zum Nachteil der betreuten Person. Prüft Aufgabenkreis, Wunschlage (§ 1821 BG..._
+Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
 
-# Kontodaten- und Vertragsverdacht-Prüfung
+## Powersprint-Vertiefung
 
-Anwendungsfall in der Betreuung: kontoauszüge, Vertragsunterlagen,
-Rechnungen oder Belege darauf geprüft werden sollen, ob Geldabflüsse,
-Dauerverträge, Anlagegeschäfte oder sonstige Rechtsgeschäfte für die betreute
-Person auffällig, schädlich oder betreuungsgerichtlich relevant sind.
-
-Der Skill ist forensisch, aber nicht voreilig: Er trennt Tatsachen,
-Verdachtsmomente, offene Beweise und rechtliche Erstmaßnahmen. Er entscheidet
-nicht selbst über Geschäftsfähigkeit, Einwilligungsvorbehalt, Anfechtung,
-Genehmigung oder Strafbarkeit, sondern bereitet diese Prüfungen sauber vor.
-
-## Triage — kläre vor Kontodaten-Prüfung
-1. Ist Vermögenssorge als Aufgabenkreis im Betreuungsbeschluss enthalten? Ohne diese kein Handlungsrecht.
-2. Besteht Einwilligungsvorbehalt (§ 1825 BGB) oder wurde er beim Gericht angeregt?
-3. Liegt akuter Missbrauchs-Verdacht vor — dann sofort Gericht informieren, ggf. einstweilige Massnahme (§ 300 FamFG)?
-4. Frist für SEPA-Widerruf (8 Wochen für autorisierte Zahlung, 13 Monate für nicht-autorisierte) — bereits abgelaufen?
-5. Strafanzeige (§§ 263, 266 StGB) erwägen wenn konkrete Fremdeinwirkung auf Konto erkennbar.
-
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Eingangsdaten
-
-Frage zu Beginn knapp nach:
-
-- Betreuungsbeschluss, Datum, Gericht, Aktenzeichen und Aufgabenkreis,
- insbesondere Vermögenssorge, Behördenangelegenheiten, Post,
- Wohnungsangelegenheiten und Gesundheitsfürsorge.
-- Zeitraum der Kontoauszüge und betroffene Konten.
-- Vorliegende Verträge, Rechnungen, SEPA-Mandate, Vollmachten,
- Fernwartungsunterlagen, Gesprächsnotizen und Bankkorrespondenz.
-- Bekannte Wünsche der betreuten Person, Lebensstandard, bisherige Gewohnheiten
- und Vertrauenspersonen.
-- Ob bereits Einwilligungsvorbehalt, Sperrvermerk, Bankwarnung,
- Strafanzeige, Widerruf, Kündigung oder Rückbuchung veranlasst wurde.
-
-## Leitplanken
-
-1. **Wunsch und Schutz trennen.** Nach § 1821 BGB sind Wünsche der betreuten
- Person ernst zu nehmen. Auffälligkeit allein ersetzt keine Prüfung, ob die
- Ausgabe gewollt, lebenspraktisch sinnvoll oder nur schlecht dokumentiert ist.
-2. **Aufgabenkreis prüfen.** Ohne passende Vermögenssorge oder Vertretungsmacht
- nur vorbereiten, sichern und gerichtliche Klärung vorschlagen.
-3. **Keine Bankdaten verändern.** Kontoauszüge werden nur gelesen und
- strukturiert. Originaldateien bleiben unverändert.
-4. **Beweise erhalten.** Verträge, Telefonnotizen, Fernwartungsprotokolle,
- E-Mails, SEPA-Mandate, Überweisungsbelege und Versandnachweise separat
- sichern.
-5. **Fristen markieren.** Widerruf, Anfechtung, SEPA-Rückgabe, Kündigung,
- Verjährung, Beschwerde und betreuungsgerichtliche Genehmigung immer mit
- Friststatus ausweisen.
-
-## Prüfschritte
-
-### 1. Kontobaseline bilden
-
-Erstelle zuerst eine nüchterne Tabelle:
-
-| Feld | Inhalt |
-| --- | --- |
-| Zeitraum | Von/bis der Kontoauszüge |
-| Anfangsbestand | Betrag und Datum |
-| Endbestand | Betrag und Datum |
-| Regelmäßige Einnahmen | Rente, Miete, Pflegegeld, Erstattungen |
-| Notwendige Ausgaben | Miete, Energie, Krankenversicherung, Heim, Lebensmittel |
-| Freier Betrag | Plausibler monatlicher Spielraum |
-| Auffällige Saldenbrüche | Rechenfehler, unerklärte Sprünge, nicht passende Jahresabschlüsse |
-
-Wenn Jahresabschluss, Kontosaldo und Einzelbuchungen nicht zusammenpassen,
-kennzeichne das als eigenes Beweisthema und fordere Bankklärung an.
-
-### 2. Dauerpositionen und Verträge clustern
-
-Ordne jede wiederkehrende Zahlung einer Kategorie zu:
-
-- **Lebensführung:** Miete, Nebenkosten, Strom, Gas, Telekommunikation,
- Krankenversicherung, Pflege, Hausverwaltung, Rundfunkbeitrag.
-- **Plausibel, aber belegpflichtig:** Haushaltshilfe, private Pflegehilfe,
- Fahrdienste, Handwerker, medizinische Selbstzahlerleistungen.
-- **Prüfbedürftig:** Lotterie, Dating-/Kontaktportale, Abos,
- Sicherheitsdienste, Fernwartung, Seniorenprodukte, Haustürgeschäfte.
-- **Rot:** angebliche Behörden-/Polizeizahlungen, Auslandstransfers,
- Hochrisikoanlagen, Edelmetall/Diamanten, Immobilienreservierungen,
- komplexe Beteiligungen, Zahlungen nach Telefonanweisung.
-
-### 3. Verdachtsscoring
-
-Bewerte jede Position mit niedrig, mittel, hoch oder akut.
-
-Akut ist regelmäßig anzunehmen bei:
-
-- Zahlung an angebliche Polizei, Europol, Staatsanwaltschaft, Bank-Sicherheit
- oder ähnliche Autoritätskulisse.
-- Fernwartung oder Sicherheitssoftware mit Zugang zum Rechner der betreuten
- Person, besonders bei weiteren Bank- oder Anlagezahlungen.
-- Auslandsüberweisung ohne plausible Dokumentation.
-- Vermögensanlage, Immobilienreservierung oder Gesellschaftsbeteiligung bei
- unklarer Geeignetheit, hoher Bindung oder Totalverlustrisiko.
-- Ketten von Seniorenprodukten, Lotterie, Kontaktportal oder ähnlichen
- wiederholten Ansprachemustern.
-
-Mittel ist anzunehmen bei:
-
-- Ungewöhnlich hohen Einzelkäufen ohne Bedarfsermittlung.
-- Wiederkehrenden Zahlungen ohne Vertrag oder ohne Kündigungsdaten.
-- Privaten Hilfezahlungen ohne Quittung, Vertrag oder Leistungsnachweis.
-
-Niedrig ist anzunehmen bei:
-
-- Üblichen Haushaltspositionen mit Vertrag, marktüblichem Betrag und
- nachvollziehbarem Nutzen.
-
-### 4. Rechts- und Genehmigungsfilter
-
-Prüfe als Filter, nicht als Endgutachten:
-
-- **§ 1814 BGB:** Warum ist rechtliche Betreuung erforderlich und welcher
- konkrete Aufgabenkreis trägt die Prüfung?
-- **§ 1821 BGB:** Welche Wünsche, Werte und Gewohnheiten der betreuten Person
- sind bekannt? Wo droht erhebliche Selbstschädigung?
-- **§ 1825 BGB:** Ist ein Einwilligungsvorbehalt anzuregen, wenn erhebliche
- Vermögensgefährdung durch wiederholte Geschäfte besteht?
-- **§ 1835 BGB:** Müssen Positionen im Vermögensverzeichnis, als Forderung,
- als Anlage oder als zweifelhafte Vermögensminderung erfasst werden?
-- **§ 1865 BGB:** Welche Belege braucht die Rechnungslegung?
-- **§§ 1848 ff. BGB:** Ist bei Grundstücken, Gesellschaftsbeteiligungen,
- Darlehen, riskanten Anlagen oder ähnlichen Geschäften eine
- Genehmigungsprüfung nötig?
-
-### 5. Maßnahmenplan
-
-Erstelle eine priorisierte Liste:
-
-| Priorität | Maßnahme | Zweck | Frist | Adressat | Nachweis |
-| --- | --- | --- | --- | --- | --- |
-| sofort | Konto- und Onlinebanking-Sicherung | weiteren Abfluss stoppen | heute | Bank | Aktenvermerk |
-| sofort | Fernwartung sperren | Zugriff beenden | heute | Anbieter/IT | Protokoll |
-| kurzfristig | SEPA-Mandate prüfen | Rückgabe/Kündigung | 1 bis 3 Tage | Bank/Anbieter | Buchungsbeleg |
-| kurzfristig | Verträge kündigen/widerrufen/anfechten prüfen | laufende Kosten stoppen | Frist prüfen | Anbieter | Schreiben |
-| kurzfristig | Betreuungsgericht informieren | Schutzmaßnahme legitimieren | bei akutem Risiko | Gericht | Bericht |
-| danach | Rückforderungs- und Schadensersatzspur | Vermögen mehren | nach Beweissicherung | Anbieter/Bank/Dritte | Anspruchsmemo |
-
-## Arbeitsakte Schmalfeld
-
-Die Testakte `testakten/betreuung-schmalfeld-kontodaten-vertraege/` enthält
-Kontoauszüge 2023 bis 2025, Vertragsunterlagen und eine vorbereitete
-Verdachtsliste. Erwartete Kernbefunde:
-
-- Der Rentner Herbert Wilhelm Schmalfeld hat hohe und wiederholte Abflüsse an
- Lotterie, Fernwartung, Sicherheitssoftware, Auslandsvermögensverwaltung,
- Beteiligung, Immobilienreservierung, Edelmetall, Diamant und angebliche
- Sicherheitskautionen.
-- Fernwartung und Sicherheitssoftware bilden ein eigenes Schutzthema, weil
- technischer Zugriff und Bank-/Anlageabflüsse zusammenfallen können.
-- Die privaten Pflege-/Haushaltshilfezahlungen an Svetlana Petrova sind nicht
- automatisch verdächtig, aber beleg- und plausibilisierungsbedürftig.
-- Die Jahresabschlüsse und Salden müssen rechnerisch mit der Bank geklärt
- werden, bevor Beträge in ein Vermögensverzeichnis oder eine
- Rechnungslegung übernommen werden.
-
-Optional kann das Hilfsskript genutzt werden:
-
-```bash
-python betreuungsrecht/scripts/betreuung_konto_vertragscheck.py \
- testakten/betreuung-schmalfeld-kontodaten-vertraege/05_schmalfeld_verdaechtige_transaktionen.json
-```
-
----
-
-## Skill: `vermoegensverzeichnis-pruefung`
-
-_Vermögensverzeichnis für Betreuung prüfen und erstellen: Betreuer muss bei Aufgabenkreis Vermögenssorge nach § 1835 BGB ein Vermögensverzeichnis aufnehmen oder ein bestehendes Verzeichnis auf Vollständigkeit und Richtigkeit prüfen. Berücksichtigt Trennungsgebot (§ 1836 BGB), Belege, Konten, Immob..._
-
-# Vermögensverzeichnis und Rechnungslegung (§§ 1835, 1839, 1865 BGB)
-
-## Zweck
-
-Unterstützt den rechtlichen Betreuer mit Aufgabenkreis
-Vermögenssorge bei der **Erstellung des Anfangs-Vermögensverzeichnisses**
-nach § 1835 Abs. 1 BGB (bei Übernahme der Betreuung), der laufenden
-Verwaltung mündelsicher angelegten Vermögens nach § 1839 BGB sowie der
-**jährlichen Rechnungslegung** nach § 1865 BGB.
-
-## Eingaben
-
-- Datum der Bestellung (Beginn der Vermögenssorge)
-- Bisheriger Betreuer (falls Wechsel) — dessen Schlussrechnung als Eingabe
-- Liste aller Konten der betreuten Person (Girokonto, Sparkonten,
- Tagesgeld, Festgeld, Depots) mit IBAN, Stand zum Bestellungstag
-- Immobilieneigentum (Grundbuchauszug)
-- Bewegliche Sachen von Wert (Schmuck, Kunst, Fahrzeug)
-- Forderungen und Verbindlichkeiten (offene Rechnungen, Darlehen,
- Bürgschaften, Erbansprüche)
-- Sozialleistungsbescheide (Rente, Grundsicherung, Pflegekasse,
- Hilfe zur Pflege § 61 SGB XII)
-- Versicherungspolicen (Lebensversicherung, Sterbegeld, Rechtsschutz)
-- Wiederkehrende Einnahmen und Ausgaben (Renten, Mieten, Heimkosten)
-
-## Rechtlicher Rahmen
-
-### § 1835 BGB — Vermögensverzeichnis
-
-**Abs. 1:** Der Betreuer hat unverzüglich nach Übernahme der Betreuung
-ein Verzeichnis des seiner Verwaltung unterliegenden Vermögens beim
-Betreuungsgericht einzureichen.
-
-**Abs. 2:** Das Verzeichnis muss vollständig sein und mit der Versicherung
-der Richtigkeit und Vollständigkeit versehen werden.
-
-**Abs. 3:** Bei nachträglich erworbenem Vermögen (Erbschaft, Schenkung,
-Lottogewinn) ist das Verzeichnis zu ergänzen.
-
-### § 1839 BGB — Mündelsichere Anlage
-
-Der Betreuer hat das Geld der betreuten Person, soweit es nicht zur
-Bestreitung der laufenden Ausgaben benötigt wird, **verzinslich anzulegen**.
-Die Anlage ist auf den Namen der betreuten Person bei einem Kreditinstitut
-vorzunehmen, das einer Einlagensicherungseinrichtung angehört (§ 1841 BGB).
-
-**Sperrvermerk (§ 1845 BGB):** Bei größerem Vermögen ordnet das Gericht
-regelmäßig die Anlage mit Sperrvermerk an. Verfügungen sind dann nur mit
-gerichtlicher Genehmigung möglich. Die Schwelle wird in der Praxis je nach
-Gericht zwischen 3.000 und 6.000 EUR Sockelbetrag (Schonvermögen) gezogen.
-
-### § 1865 BGB — Rechnungslegung
-
-**Abs. 1:** Der Betreuer hat jährlich, jeweils zum Ende des
-Berichtszeitraums, Rechnung zu legen.
-
-**Abs. 2:** Die Rechnung muss eine geordnete Übersicht der Einnahmen und
-Ausgaben enthalten. Belege sind beizufügen, soweit sie nicht ausnahmsweise
-entbehrlich sind.
-
-**Abs. 3:** Bei nahen Angehörigen als Betreuer kann das Gericht
-vereinfachte Rechnungslegung gestatten (§ 1859 BGB).
-
-### § 1841 BGB — Anlage bei Bank
-
-Der Betreuer hat Gelder verzinslich bei einem Kreditinstitut anzulegen,
-das einer Einlagensicherung angehört.
-
-### Kanonische Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Das Vermögensverzeichnis muss alle vermögensrechtlich relevanten
-Positionen aufführen. Fahrzeugen, Schmuck und sonstigen beweglichen
-Sachen sind mit Schätzwert anzugeben; pauschale Auslassungen sind
-unzureichend.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Die Rechnungslegung muss in **kontinuierlicher** Buchführung erfolgen.
-Eine einmal jährliche zusammenfassende Aufstellung ohne Belege genügt
-nicht; das Gericht muss die Mittelverwendung nachprüfen können.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Verstöße gegen die Pflicht zur mündelsicheren Anlage (§ 1839 BGB) können
-Ersatzansprüche der betreuten Person nach § 1826 BGB iVm § 280 Abs. 1
-BGB auslösen; Zinsausfallschäden sind ersatzfähig.
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Ablauf
-
-1. **Bestandsaufnahme zum Stichtag der Bestellung**
- Bankauskünfte einholen (Vorlage Bestellungsurkunde), Grundbuchauszug
- beantragen, vorhandene Verträge und Versicherungspolicen sichten.
-
-2. **Vermögensverzeichnis strukturieren**
- - A. Geldvermögen (Konten, Depots, Bargeld)
- - B. Immobilien (Anschrift, Grundbuchblatt, Verkehrswert)
- - C. Bewegliche Sachen von Wert
- - D. Forderungen
- - E. Verbindlichkeiten
- - F. Wiederkehrende Einnahmen und Ausgaben
-
-3. **Mündelsichere Anlage prüfen (§ 1839 BGB)**
- Beträge, die nicht binnen 12 Monaten für laufende Ausgaben benötigt
- werden, sind verzinslich anzulegen. Tagesgeld bei
- einlagengesichertem Institut genügt. Bei Sperrvermerk-Anordnung:
- Konto in "Mündelkonto mit Sperrvermerk" umwandeln.
-
-4. **Sperrvermerk einrichten**
- Antrag beim Betreuungsgericht; nach Genehmigung Sperrvermerk-Vereinbarung
- mit Bank schließen. Verfügungen nur noch mit Genehmigung nach
- § 1848 BGB.
-
-5. **Laufende Buchführung**
- Jede Einnahme und Ausgabe zeitnah erfassen. Empfehlung: Excel-Tabelle
- oder spezielle Betreuersoftware. Belege chronologisch sammeln.
-
-6. **Jährliche Rechnungslegung (§ 1865 BGB)**
- Geordnete Aufstellung Einnahmen/Ausgaben mit Belegen, Endsaldo, Abgleich
- mit Kontoauszug. Bei Heimkosten: Hilfe zur Pflege (§ 61 SGB XII)
- beantragen und prüfen.
-
-## Ausgabeformat
-
-```
-Vermögensverzeichnis nach § 1835 BGB
-Stichtag: [TT.MM.JJJJ — Tag der Bestellung]
-
-Betreute Person: [Name, Geburtsdatum]
-Aktenzeichen: [XVII … / …]
-Betreuer: [Name, BtOG-Reg.-Nr.]
-
-A. Geldvermögen
- | Konto | IBAN | Saldo | Sperrvermerk |
- |----------------------|-------------------|-----------|--------------|
- | Sparkasse Berlin Giro | DE. . . . | 1.234 EUR | nein |
- | Sparkasse Spar | DE. . . . | 12.000 EUR| ja |
-
-B. Immobilien
- [Anschrift, Grundbuchblatt, geschätzter Verkehrswert]
-
-C. Bewegliche Sachen von Wert
- [Position, Schätzwert]
-
-D. Forderungen
- [Forderung gegen wen, Betrag, Fälligkeit]
-
-E. Verbindlichkeiten
- [Gläubiger, Betrag, monatliche Rate]
-
-F. Wiederkehrende Einnahmen und Ausgaben
- Einnahmen: Altersrente DRV 1.213 EUR/Mon
- Grundsicherung [Antrag/Bescheid]
- Ausgaben: Heimkosten 2.341 EUR/Mon
- Telekom 29 EUR/Mon
-
-Gesamtvermögen zum Stichtag: [Betrag]
-
-Versicherung:
-Ich versichere die Richtigkeit und Vollständigkeit dieses Verzeichnisses
-(§ 1835 Abs. 2 BGB).
-
-Ort, Datum [Unterschrift Betreuer/in]
-```
-
-Bei der jährlichen Rechnungslegung zusätzlich tabellarische
-Einnahmen-Ausgaben-Rechnung mit Belegnummern.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Beispiel
-
-**Sachverhalt:** Herr Werner P., 78 Jahre, lebt nach Schlaganfall im
-Pflegeheim. Sohn Klaus zum ehrenamtlichen Betreuer bestellt am 12.05.2026
-mit Aufgabenkreis Vermögenssorge und Gesundheitssorge.
-
-**Ausschnitt Vermögensverzeichnis:**
-
-> A. Geldvermögen
->
-> | Konto | IBAN | Saldo 12.05.2026 | Sperrvermerk |
-> |---|---|---|---|
-> | Postbank Giro | DE12 …4521 | 2187.33 EUR | nein |
-> | Postbank Tagesgeld | DE12 …7788 | 24500.00 EUR | ja (beantragt) |
-> | Volksbank Sparbuch | DE99 …3344 | 8900.00 EUR | ja (beantragt) |
->
-> Mündelsicherheit (§ 1839 BGB): Postbank Tagesgeld und Volksbank Sparbuch
-> sind verzinslich angelegt und einlagengesichert. Antrag auf Anordnung des
-> Sperrvermerks (§ 1845 BGB) für beide Konten wird zeitgleich eingereicht,
-> da Vermögen über dem Sockelbetrag von 5.000 EUR liegt.
-
-## Risiken und typische Fehler
-
-**1. Unvollständigkeit**
-Schmuck, Bargeld in der Wohnung, Lebensversicherungen mit
-Rückkaufswert, Sterbegeldversicherungen werden häufig vergessen. Eine
-Wohnungsbegehung mit Bestandsaufnahme ist regelmäßig erforderlich (BGH
-XII ZB 174/18 Rn. 14).
-
-**2. Mündelsicherheit verletzt**
-Belassen größerer Beträge auf unverzinslichem Girokonto verstößt gegen
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-530/15 Rn. 9 ff.).
-
-**3. Verfügung über gesperrte Konten ohne Genehmigung**
-Verfügungen über Konten mit Sperrvermerk ohne gerichtliche Genehmigung
-sind nach § 1848 BGB unwirksam und können Schadensersatzansprüche der
-betreuten Person auslösen.
-
-**4. Rechnungslegung nur zusammenfassend**
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-632/12 Rn. 21). Belege sind chronologisch und kontinuierlich zu führen.
-
-**5. Schonvermögen Sozialhilfe verkannt**
-Bei Heimaufenthalt mit Hilfe zur Pflege: § 90 Abs. 2 Nr. 9 SGB XII —
-Schonbetrag 10.000 EUR (Stand 01.01.2023). Vermögen darüber muss erst
-verbraucht werden, bevor Sozialhilfe einsetzt. Frühzeitige Antragstellung.
-
-**6. Vermischung Eigenes/Betreutenvermögen**
-Strikte Trennung: Niemals Bareinlagen oder Vermögensanlagen auf Konto
-des Betreuers. Verstöße können strafrechtliche Folgen haben (Untreue
-§ 266 StGB).
-
-## Quellenpflicht
-
-Bei jeder Ausgabe sind mindestens folgende Belege anzugeben:
-
-- §§ 1835, 1839, 1841, 1845, 1865 BGB
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
-
----
-*Dieser Skill ersetzt keine konkrete fachliche Beratung im Einzelfall.*
+- **Alltagsdurchführung:** Zerlege `Familienbetreuer: Bankkonto und einfache Rechnungslegung` in konkrete nächste Handlungen für ehrenamtliche Betreuer: anrufen, scannen, ablegen, nachfragen, Gericht informieren, Frist notieren.
+- **Gerichts- und Beleglogik:** Halte Wunsch der betreuten Person, Vertretungsmacht, Einwilligung, Vermögensschutz, Gesundheitsdaten und Nachweis gegenüber dem Betreuungsgericht getrennt.
+- **Fehlerbremse:** Keine Vermischung eigener und fremder Gelder, keine unnötige Offenlegung sensibler Daten, keine medizinische Entscheidung ohne Zuständigkeit und dokumentierten Wunsch bzw. mutmaßlichen Willen.
+- **Output:** Tagesplan, Belegliste, kurzer Gerichtstext, Telefonnotiz und Wiedervorlage in einfacher Sprache.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

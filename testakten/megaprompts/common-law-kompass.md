@@ -1,32 +1,32 @@
-# Megaprompt: common-law-kompass
+# Vollprüfung: common-law-kompass
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 58 Skills des Plugins `common-law-kompass`.
+Dieser Vollprüfung enthaelt top-15 von 58 Skills des Plugins `common-law-kompass`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für Common Law Kompass: ordnet Rolle (Mandant US/UK, Counsel local, Court), markiert Frist …
-2. **us-vs-uk-drafting** — Anwalt muss zwischen British English, English Law, US contract style, Delaware/New York-Konventionen und Business-Englis…
-3. **bilingual-contract-review** — Anwalt prüft deutschen und englischen Vertragstext auf Bedeutungsdrift Rangfolge Definitionskonflikte Haftungsrisiken. A…
-4. **client-explainer** — Mandant oder Business-Team versteht Common-Law-Konzepte nicht und braucht verstaendliche Erklärung. Anwendungsfall Deuts…
-5. **contract-formation-false-friends-governing** — Anwalt oder Mandant will Vertragsschluss-Grundlagen des Common Law verstehen: offer acceptance consideration deed promis…
-6. **false-friends-scanner** — Anwalt oder Übersetzer sucht missverstaendliche deutsch-englische Rechtsbegriffe im Vertragstext oder Memo. Anwendungsfa…
-7. **humor-coach-interpretation-precedent-common** — Common-Law-Erklärungen sollen für Mandanten oder Team leichter lesbar werden ohne Praezision zu verlieren. Anwendungsfal…
-8. **interpretation-precedent** — Deutscher Anwalt liest UK oder US-Gerichtsentscheidung und versteht Praezedenzfall-Logik nicht: ratio decidendi obiter d…
-9. **kommandocenter** — Kanzlei startet Common-Law- UK- US- oder bilinguales Drafting-Mandat und braucht strukturierten Einstieg. Jurisdiktionsc…
-10. **litigation-discovery-ma-commercial-quality** — Anwalt oder Mandant ist in UK/US-Gerichtsverfahren und will pleadings discovery disclosure depositions privilege evidenc…
-11. **ma-commercial-drafting** — Anwalt draftet oder prüft SPA APA NDA LOI Disclosure Schedules oder Commercial Agreement nach Common Law. Common-Law-Ris…
-12. **quality-gate** — Fertig erstelltes Common-Law-Arbeitsprodukt auf Qualitaet prüfen: Jurisdiktion Quellenstand False Friends UK/US-Trennung…
-13. **remedies-damages-representations-warranties** — Mandant erleidet Schaden aus UK/US-Vertrag oder Delikt und fragt nach Rechtsfolgen: damages specific performance injunct…
-14. **representations-warranties-covenants** — Anwalt ordnet Klauseln in Common-Law-Transaktionsvertraegen ein: reps warranties covenants conditions undertakings indem…
-15. **simulation-negotiation** — Anwalt oder Mandant will UK/US-Vertragsverhandlung oder Mandantengespraech simulieren und False-Friends-Lernkurve absolv…
+1. **einstieg-routing** — Wenn es um Einstieg und Routing in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: klärt Rolle, Ziel, Frist, U…
+2. **suretyship-schriftsatz-brief-und-memo-bausteine** — Wenn es um Suretyship: Schriftsatz-, Brief- und Memo-Bausteine in Common-Law-Kompass für deutsche Wirtschaftsjuristen ge…
+3. **cl-spezial-precedent-vs-statute** — Wenn es um Common Law: Precedent gegen Statute in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachv…
+4. **bilinguale-client-commercial-sonderfall** — Wenn es um Bilinguale: Compliance-Dokumentation und Aktenvermerk in Common-Law-Kompass für deutsche Wirtschaftsjuristen …
+5. **vertragsbegriffe-risikoampel-und-gegenargumente** — Wenn es um Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien in Common-Law-Kompass für deutsche Wirt…
+6. **cl-discovery-doc-production-spezial** — Wenn es um Common Law: Discovery-Spezial in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt…
+7. **cl-vertragsklauseln-vertragsbegriffe-cl** — Wenn es um Common Law: Vertragsklauseln in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt,…
+8. **discovery-zahlen-schwellen-und-berechnung** — Wenn es um Discovery: Zahlen, Schwellenwerte und Berechnung in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht:…
+9. **begriffe-uebersetzung-bilingual-contract** — Wenn es um Begriffs- und Übersetzungswerkstatt in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: erstellt den…
+10. **quellen-livecheck** — Wenn es um Rechtsquellen-Livecheck in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt, Norm…
+11. **anschluss-routing** — Wenn es um Anschluss-Routing in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: klärt Rolle, Ziel, Frist, Unte…
+12. **explainer-beweislast-und-darlegungslast** — Wenn es um Explainer: Beweislast, Darlegungslast und Substantiierung in Common-Law-Kompass für deutsche Wirtschaftsjuris…
+13. **indemnity-verhandlung-vergleich-und-eskalation** — Wenn es um Indemnity: Verhandlung, Vergleich und Eskalation in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht:…
+14. **client-mandantenkommunikation-entscheidungsvorlage** — Wenn es um Client: Mandantenkommunikation und Entscheidungsvorlage in Common-Law-Kompass für deutsche Wirtschaftsjuriste…
+15. **false-friends-contracts** — Wenn es um False Friends in Common-Law-Verträgen in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Akt…
 
 ---
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Common Law Kompass: ordnet Rolle (Mandant US/UK, Counsel local, Court), markiert Frist (Statutes of Limitations je Jurisdiction), wählt Norm (UK/US/Commonwealth common law, Restatements (US), ECHR/EU-CFR) und Zuständigkeit (UK Supreme Court, US Supreme Court), lei..._
+_Wenn es um Einstieg und Routing in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Einstieg und Routing
 
@@ -85,11 +85,28 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `us-vs-uk-drafting`
+## Skill: `suretyship-schriftsatz-brief-und-memo-bausteine`
 
-_Anwalt muss zwischen British English, English Law, US contract style, Delaware/New York-Konventionen und Business-English unterscheiden. Anwendungsfall Vertrag für UK- oder US-Gegenpartei. Prüfraster Jurisdiction-Style-Matching Drafting-Konventionen Sprachebene. Output Drafting-Empfehlung Stil-Hinwe..._
+_Wenn es um Suretyship: Schriftsatz-, Brief- und Memo-Bausteine in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# UK vs US Drafting
+# Suretyship: Schriftsatz-, Brief- und Memo-Bausteine
+
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `UCC § 2-201` — Statute of Frauds für Warenkauf.
+- `UCC § 2-313` — express warranties.
+- `UCC § 2-314` — implied warranty of merchantability.
+- `Restatement (Second) of Contracts § 17` — formation by bargain.
+- `Restatement (Second) of Contracts § 71` — consideration.
+- `Restatement (Second) of Contracts § 90` — promissory estoppel.
+- `CISG Art. 14` — Angebot.
+- `CISG Art. 18` — Annahme.
+- `CISG Art. 25` — wesentliche Vertragsverletzung.
+- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
@@ -99,126 +116,428 @@ _Anwalt muss zwischen British English, English Law, US contract style, Delaware/
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Wann verwenden
+## Spezialwissen: Suretyship: Schriftsatz-, Brief- und Memo-Bausteine
+- **Normen-/Quellenanker:** UK, US, UCC.
 
-- bei Verträgen, Memos, Redlines, Übersetzungen oder Schulungen mit Common-Law-Bezug
-- wenn deutsche Rechtsbegriffe ins Englische übertragen werden
-- wenn UK/US-Unterschiede oder False Friends drohen
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-## Rückfragen, wenn unklar
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-- Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich?
-- Welche Partei oder Rolle vertreten wir?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
-- Welches Arbeitsprodukt wird gebraucht und wie eilig ist es?
-
-## Typische Fehler vermeiden
-
-- Bürgschaft, guarantee, suretyship und indemnity nicht gleichsetzen.
-- Consideration nicht als deutsche Gegenleistung behandeln.
-- UK, USA, New York, Delaware und UCC nicht vermischen.
-- Keine erfundenen Fälle oder Quellen verwenden.
-
-## Ton
-
-Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
-
-## Triage vor UK-vs-US-Drafting-Analyse
-
-Kläre vor der Vergleichsanalyse:
-
-1. Liegt ein Dokument vor, das gemischt UK/US-Stil aufweist, oder soll ein neues sauber in einer Tradition entworfen werden?
-2. Governing Law: English law (London), New York, Delaware, oder anderer US-Staat?
-3. Vertragstyp: SPA, Darlehensvertrag, Services Agreement, IP-Lizenz, JV-Agreement?
-4. Counterparty-Erwartung: US-Firm oder Magic-Circle-UK-Firm? (Das praegt Styleerwartungen stark.)
-5. Welche Klauseln wurden bereits als problematisch identifiziert?
-
-## Key Case Law — Interpretation UK vs US
-
-- *Arnold v Britton* [2015] UKSC 36, [2015] AC 1619 — UK Supreme Court betont: klarer Vertragswortlaut schlaegt kontextuelle Auslegung; englisches Recht tendiert zu wortgetreuer Auslegung bei gut gedrafteten Texten.
-- *Investors Compensation Scheme v West Bromwich* [1998] 1 WLR 896 (HL) — Lord Hoffmann: Kontext und Hintergrundwissen beeinflussen Bedeutung; englische Auslegung ist kontextuell, aber nicht rewriting.
-- *Frigaliment Importing Co v BNS International Sales Corp* 190 F Supp 116 (SDNY 1960) — US-Klassiker zu Vertragsauslegung ("What is chicken?"): Trade usage, course of dealing und course of performance als Auslegungsquellen nach UCC.
-- *Pacific Gas & Electric Co v GW Thomas Drayage* 69 Cal 2d 33 (Cal 1968) — US (California) Parol Evidence Rule: extrinsic evidence grundsätzlich zulässig zur Klärung von Ambiguities — ein fundamentaler Unterschied zu klassischer englischer plain-meaning-Auslegung.
-
-## UK vs US Drafting-Vergleichsmatrix
-
-| Punkt | England & Wales | New York / Delaware | Deutsches Fallbeil-Risiko |
-|---|---|---|---|
-| Consideration | Erforderlich; past consideration ungueltig | Erforderlich; "valuable consideration" reicht | Fehler: deutschen Synallagma-Begriff anwenden |
-| Conditions vs Warranties | Condition: Ruecktritt; Warranty: Schadensersatz | Rep & Warranty: oft zusammen, survival-Klausel entscheidend | Warranty als "Garantie i.S.v. § 443 BGB" fehldeuten |
-| Indemnity | Verschuldensunabhaengig, enger Wortlaut | Verschuldensunabhaengig; NY: Anti-Indemnity-Statutes beachten | Als Schadensersatz i.S.v. § 249 BGB behandeln |
-| Material Adverse Change | Court-sceptisch (Akorn v Fresenius - Delaware) | MAC-Trigger schwer auszuloesen; hohe Schwelle | MAC als Force-Majeure-Ersatz missverstehen |
-| Entire Agreement Clause | Sperrt nur collateral warranties, nicht statutory misrep | Merger Clause sperrt Parol Evidence breiter | Als vollstaendigen Haftungsausschluss ueberschaetzen |
-| Good Faith | Kein allgemeiner implied duty (Walford v Miles) | UCC § 1-304: duty of good faith bei UCC-Vertraegen | BGB-Treu-und-Glauben-Mastab anlegen |
-| Limitation of Liability | UCTA reasonableness test | NY: Generally enforceable, aber groß negligence nicht ausschliessbar | Cap zu hoch oder zu niedrig ansetzen |
-| Notice Provisions | Strict compliance gefordert | Substantial compliance oft ausreichend | Notice-Fristen als Formsache behandeln |
-
-## Normen und Quellen
-
-**UK**
-- Sale of Goods Act 1979 ss 12-15 — implied terms conditions/warranties
-- UCTA 1977 ss 2, 3, 11 — limits on exclusion clauses
-- Misrepresentation Act 1967 — rep-Haftung neben Vertragsrecht
-- Companies Act 2006 ss 39-41 — corporate capacity and authority
-
-**US (New York / Delaware)**
-- UCC Art. 1 (§ 1-304 good faith), Art. 2 (§§ 2-313 to 2-318 warranties)
-- Restatement (Second) of Contracts §§ 201-203 (interpretation)
-- DGCL § 102(b)(7) — limitation of director liability
-- NY GOL § 5-1401 — NY choice of law enforceability
-
-**Kommentar**
-- McKendrick, *Contract Law*, 14th ed. 2021 (UK) — Standardlehrbuch
-- Farnsworth, *Farnsworth on Contracts*, 3rd ed. 2004 (US) — Standardwerk
-
-## Output-Template: UK-vs-US-Vergleichsmemo
-
-**Adressat:** Partnerebene oder Mandant — **Tonfall:** praezise, tabellarisch, handlungsorientiert
-
-```
-UK VS US DRAFTING — VERGLEICHSMEMO
-Datum: [DATUM]
-Dokument: [VERTRAGSNAME]
-Governing Law (aktuell): [...]
-Ziel-Jurisdiktion (nach Anpassung): [...]
-Bearbeiter: [NAME]
-
-ZUSAMMENFASSUNG
-Das vorliegende Dokument ist [ueberwiegend UK / ueberwiegend US / gemischt] und weist
-[X] Stellen auf, die jurisdiktionsfremde Elemente enthalten.
-
-KRITISCHE UK/US-KONFLIKTE
-
-Nr. | Klausel | Aktueller Text | Problem | Empfohlene Aenderung | Prioritaet
-----|---------|---------------|---------|---------------------|----------
- 1 | [§/Abs.] | "[Auszug]" | [UK/US-Konflikt] | "[Neuer Text]" | HOCH
- 2 | ...
-
-STYLE-ANPASSUNGEN (Nicht-kritisch)
-- [Liste formaler Stilanpassungen: Datumsformat, defined terms, Nummerierung, ...]
-
-JURISDICTION-SPEZIFISCHE CHECKLISTE
-[ ] Consideration/past consideration geprueft (UK)
-[ ] Deed vs Simple Contract: Formerfordernis geklaert
-[ ] UCTA-Reasonableness-Test bestanden (UK)
-[ ] UCC-Warranty-Disclaimer § 2-316 eingehalten (US)
-[ ] MAC-Definition: Delaware-Standard beruecksichtigt (US-M&A)
-[ ] Walford v Miles: No good-faith-obligation clause beachtet (UK)
-
-LOCAL-COUNSEL-EMPFEHLUNG: [Ja / Nein / Fuer Teilbereiche]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Suretyship** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `bilingual-contract-review`
+## Skill: `cl-spezial-precedent-vs-statute`
 
-_Anwalt prüft deutschen und englischen Vertragstext auf Bedeutungsdrift Rangfolge Definitionskonflikte Haftungsrisiken. Anwendungsfall bilingualer SPA NDA oder Lizenzvertrag. Prüfraster Bedeutungsdrift-Analyse Rangfolgen-Klausel Definitions-Konsistenz Haftungs-Delta. Output Vergleichs-Tabelle Risi..._
+_Wenn es um Common Law: Precedent gegen Statute in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Bilingual Contract Review
+# Common Law: Precedent gegen Statute
+
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `UCC § 2-201` — Statute of Frauds für Warenkauf.
+- `UCC § 2-313` — express warranties.
+- `UCC § 2-314` — implied warranty of merchantability.
+- `Restatement (Second) of Contracts § 17` — formation by bargain.
+- `Restatement (Second) of Contracts § 71` — consideration.
+- `Restatement (Second) of Contracts § 90` — promissory estoppel.
+- `CISG Art. 14` — Angebot.
+- `CISG Art. 18` — Annahme.
+- `CISG Art. 25` — wesentliche Vertragsverletzung.
+- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
+- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Common Law: Precedent gegen Statute
+- **Normen-/Quellenanker:** USA.
+
+## Fallweichen
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+
+1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
+2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
+3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+
+## Prüfraster
+
+Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+
+1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
+2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+
+## Plugin-Kontext
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+
+## Output-Module
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
+- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+
+## Was dieser Arbeitsgang nicht macht
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
+- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
+- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
+- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+
+---
+
+## Skill: `bilinguale-client-commercial-sonderfall`
+
+_Wenn es um Bilinguale: Compliance-Dokumentation und Aktenvermerk in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Bilinguale: Compliance-Dokumentation und Aktenvermerk
+
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `UCC § 2-201` — Statute of Frauds für Warenkauf.
+- `UCC § 2-313` — express warranties.
+- `UCC § 2-314` — implied warranty of merchantability.
+- `Restatement (Second) of Contracts § 17` — formation by bargain.
+- `Restatement (Second) of Contracts § 71` — consideration.
+- `Restatement (Second) of Contracts § 90` — promissory estoppel.
+- `CISG Art. 14` — Angebot.
+- `CISG Art. 18` — Annahme.
+- `CISG Art. 25` — wesentliche Vertragsverletzung.
+- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
+- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Bilinguale: Compliance-Dokumentation und Aktenvermerk
+- **Normen-/Quellenanker:** UK, US, UCC.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Bilinguale** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 29 VwVfG
+- Art. 267 AEUV
+- § 31 BVerfGG
+- § 4 EuRAG
+- Art. 15 DSGVO
+
+### Leitentscheidungen
+
+- BGH XI ZR 39/04
+
+---
+
+## Skill: `vertragsbegriffe-risikoampel-und-gegenargumente`
+
+_Wenn es um Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien
+
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `UCC § 2-201` — Statute of Frauds für Warenkauf.
+- `UCC § 2-313` — express warranties.
+- `UCC § 2-314` — implied warranty of merchantability.
+- `Restatement (Second) of Contracts § 17` — formation by bargain.
+- `Restatement (Second) of Contracts § 71` — consideration.
+- `Restatement (Second) of Contracts § 90` — promissory estoppel.
+- `CISG Art. 14` — Angebot.
+- `CISG Art. 18` — Annahme.
+- `CISG Art. 25` — wesentliche Vertragsverletzung.
+- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
+- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien
+- **Normen-/Quellenanker:** UK, US, UCC.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vertragsbegriffe** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `cl-discovery-doc-production-spezial`
+
+_Wenn es um Common Law: Discovery-Spezial in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Common Law: Discovery-Spezial
+
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `UCC § 2-201` — Statute of Frauds für Warenkauf.
+- `UCC § 2-313` — express warranties.
+- `UCC § 2-314` — implied warranty of merchantability.
+- `Restatement (Second) of Contracts § 17` — formation by bargain.
+- `Restatement (Second) of Contracts § 71` — consideration.
+- `Restatement (Second) of Contracts § 90` — promissory estoppel.
+- `CISG Art. 14` — Angebot.
+- `CISG Art. 18` — Annahme.
+- `CISG Art. 25` — wesentliche Vertragsverletzung.
+- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
+- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Common Law: Discovery-Spezial
+- **Normen-/Quellenanker:** US, DSGVO.
+
+## Fallweichen
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+
+1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
+2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
+3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+
+## Prüfraster
+
+Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+
+1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
+2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+
+## Plugin-Kontext
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+
+## Output-Module
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
+- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Was dieser Arbeitsgang nicht macht
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
+- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
+- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
+- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+
+---
+
+## Skill: `cl-vertragsklauseln-vertragsbegriffe-cl`
+
+_Wenn es um Common Law: Vertragsklauseln in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Common Law: Vertragsklauseln
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
+- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Einstieg
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+
+1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
+2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
+3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+
+## Klauseln-Übersicht — Common Law mit deutscher Entsprechung
+
+| Klausel | Funktion / Inhalt | Deutsche Entsprechung | Typische Stolpersteine |
+|---|---|---|---|
+| **Consideration** | Wechselseitige "bargained-for exchange" — Voraussetzung der Vertragsbindung in UK/US-Common Law | Keine Entsprechung im BGB; § 311 I BGB kennt keine consideration. Bei UK-Recht: "deed" als consideration-loses Äquivalent | "Nominal consideration of 1 GBP" oft Hinweis auf consideration-Bedarf bei englischem Recht; bei deutschem Recht ueberfluessig |
+| **Representations and Warranties (R&W)** | Tatsachenversicherungen (reps) und Garantieversprechen (warranties) zum Stichtag | Unklarer Gleichlauf mit §§ 433 ff., 443 BGB (Garantie); §§ 280, 311 II Nr. 1 BGB (c.i.c.); aber kein 1:1-Pendant | "Misrepresentation" UK = ggf. Anfechtung und/oder rescission und/oder Schadensersatz; im deutschen Recht §§ 119 II, 123 BGB (Anfechtung) vs. § 434 BGB (Mangel) — andere Rechtsfolgen |
+| **Indemnification / Indemnity** | Freistellung vom Drittanspruch; auch first-party indemnity (verschuldensunabhaengig) | § 257 BGB (Befreiungsanspruch); kein verschuldensunabhaengiges Äquivalent; bei AGB AGB-rechtlich problematisch (§ 309 Nr. 7 BGB) | Achtung: "indemnify, defend and hold harmless" loest in deutschem Recht keine eigenstaendige Verpflichtung aus; AGB-Kontrolle bei vorformulierten Klauseln |
+| **Limitation of Liability** | Haftungsobergrenze für Schaeden; oft "Cap" als % vom Vertragswert oder feste Summe | §§ 276 III, 309 Nr. 7 BGB; bei AGB strenge Grenzen (kein Ausschluss für Vorsatz/grobe Fahrlaessigkeit, Leben/Koerper/Gesundheit, Kardinalpflichten) | "Aggregate cap" und "per-event cap" unterscheiden; ausgenommen werden typisch IP-Verletzung, indemnification, vertrauliche Information, Vorsatz |
+| **Suretyship vs. Guarantee** | UK: "guarantee" = sekundaere Verpflichtung; "indemnity" = primaere | § 765 BGB Buergschaft vs. § 311 BGB Garantievertrag; § 766 BGB Schriftform | "On first demand guarantee" = abstrakte Buergschaft auf erstes Anfordern; bei deutschem Recht streng AGB-rechtlich kontrolliert |
+| **Entire Agreement / Merger Clause** | Vertrag enthaelt vollstaendige Einigung; vorvertragliche Erklaerungen unbeachtlich | §§ 133, 157 BGB Auslegung; Andeutungstheorie; Klausel ist im deutschen Recht **wirkungsbeschraenkt**, schliesst Auslegung nicht vollstaendig aus | BGH XI ZR 39/04: Merger Clauses können § 305c II BGB nicht ueberwinden; AGB-Kontrolle |
+| **No Oral Modification (NOM)** | Änderungen nur schriftlich | § 125 BGB; doppelte Schriftformklausel im AGB (§ 305b BGB Vorrang Individualabrede) | BGH-Linie: Schriftformklausel kann individualvertraglich durchbrochen werden (Vorrang Individualabrede) |
+| **Severability / Salvatorische Klausel** | Bei Unwirksamkeit eines Teils bleibt Rest wirksam | § 139 BGB (Auslegungsregel); Klausel modifiziert nur Auslegung | BGH-Linie: rein deklaratorische Klauseln im AGB unproblematisch; substanziellere Ersetzungsklauseln AGB-rechtlich prüfen |
+| **Governing Law** | Anwendbares materielles Recht | Art. 3 Rom I-VO (Verträge), Art. 14 Rom II-VO (ausservertraglich) | Internationale Verbraucher Art. 6 Rom I-VO, AN Art. 8 Rom I-VO; ordre public Art. 21 Rom I-VO |
+| **Jurisdiction / Forum Selection** | Zustaendiges Gericht | Art. 25 Brussel Ia-VO (gerichtliche Zuständigkeit innerhalb EU); UK seit Brexit: Haager Gerichtsstandsuebereinkommen | Asymmetrische Klauseln (nur eine Partei wahlt) in Frankreich teils unwirksam; Prüfung des AVAG bei Drittstaaten |
+| **Arbitration Clause** | Schiedsgerichtsbarkeit (ICC, LCIA, DIS, SIAC, AAA/ICDR) | §§ 1029 ff. ZPO; UNCITRAL Model Law; New York Convention 1958 | Schriftform/Form § 1031 ZPO; Verbraucher § 1031 V ZPO (notarielle Form) |
+| **Boilerplate** | Sammelbegriff für Standardklauseln (Force Majeure, Notices, Assignment, Counterparts, Headings) | Verteilt im BGB; einzeln prüfen | Force Majeure in UK/US restriktiv (nicht "frustration" = § 313 BGB Pendant); "frustration of contract" UK enger |
+
+## Prüfraster für den Skill
+
+1. **Sachverhalt fixieren** — Welche Klauseln, welcher Vertragstyp, welches Recht?
+2. **Klauselfunktion identifizieren** über die Tabelle.
+3. **Deutsche Entsprechung prüfen** und Unterschiede markieren.
+4. **AGB-Rechtskontrolle** §§ 305 ff. BGB prüfen, wenn deutsches Recht anwendbar.
+5. **Internationale Privatrecht-Kontrolle** Rom I/II, EuGVVO.
+
+## Praxisfallen
+
+- **R&W-Versicherung (W&I)** im M&A: Deckungsausschluesse prüfen, "no claims declaration".
+- **Indemnity vs. Garantie** sprachlich oft verwischt; im deutschen Recht klar trennen.
+- **Choice of law** beim Verbraucher: Schutz nicht abdingbar (Art. 6 II Rom I-VO).
+- **Forum non conveniens** in UK/US verfuegbar, in der EU nicht (EuGH Owusu).
+
+## Plugin-Kontext
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+
+## Output-Module
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
+- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Was dieser Arbeitsgang nicht macht
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
+- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
+- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
+- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+
+---
+
+## Skill: `discovery-zahlen-schwellen-und-berechnung`
+
+_Wenn es um Discovery: Zahlen, Schwellenwerte und Berechnung in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
+
+# Discovery: Zahlen, Schwellenwerte und Berechnung
+
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `UCC § 2-201` — Statute of Frauds für Warenkauf.
+- `UCC § 2-313` — express warranties.
+- `UCC § 2-314` — implied warranty of merchantability.
+- `Restatement (Second) of Contracts § 17` — formation by bargain.
+- `Restatement (Second) of Contracts § 71` — consideration.
+- `Restatement (Second) of Contracts § 90` — promissory estoppel.
+- `CISG Art. 14` — Angebot.
+- `CISG Art. 18` — Annahme.
+- `CISG Art. 25` — wesentliche Vertragsverletzung.
+- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
+- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Discovery: Zahlen, Schwellenwerte und Berechnung
+- **Normen-/Quellenanker:** UK, US, UCC, UC.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Discovery** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `begriffe-uebersetzung-bilingual-contract`
+
+_Wenn es um Begriffs- und Übersetzungswerkstatt in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Begriffs- und Übersetzungswerkstatt
 
 ## Regelungs- und Quellenanker
 
@@ -269,53 +588,49 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
 
-## Triage
+## Vertiefung: Kernbegriffe und Übersetzungsfallen
 
-Before proceeding, clarify:
-1. Which language is the controlling language — English or German (or both)?
-2. Does the bilingual contract specify which version prevails in case of inconsistency?
-3. Is there a CISG issue — German seller, English-law contract with English buyer?
-4. Has the German-law influenced version introduced civil law concepts not recognized under English law?
+| Englischer Begriff | Falsche dt. Übersetzung | Richtige Einordnung | Fundstelle |
+|---|---|---|---|
+| Consideration | Gegenleistung | Verpflichtungselement; Bargain; kein Synallagma | Currie v Misa [1875] |
+| Warranty | Garantie | Zusicharung im Vertrag; Verletzung = Schadensersatz (kein Ruecktritt) | SGA 1979 s 61 |
+| Condition | Bedingung | Wesentliches Vertragselement; Verletzung = Kuendigung und Schadensersatz | Bunge v Tradax [1981] |
+| Indemnity | Buergschaft | Primaere selbständige Haftung (kein Ausfallerfordernis) | Moschi v Lep [1973] |
+| Guarantee | Garantie | Sekundaere Haftung; nur bei Ausfall des Hauptschuldners | Holme v Brunskill (1878) |
+| Estoppel | Bestandskraft / Verwirkung | Rechtshinderungseinwand; verschiedene Arten (promissory, proprietary, common law) | Central London Property v High Trees [1947] |
+| Tort | Delikt | Ausservertragliche Haftung; weiter als BGB-Deliktsrecht | Donoghue v Stevenson [1932] |
+| Specific performance | Erfuellungsklage | Billigkeitsrechtsmittel; nur wenn Schadensersatz unzulaenglich; Ermessen | Co-op Insurance v Argyll [1997] |
 
 ## Key Case Law
 
-- **Credit Suisse First Boston (Europe) v Seagate Trading** [1999] 1 Lloyd's Rep 784 — Bilingual contract interpretation: where two language versions conflict, the dominant language version prevails; "text agrees" approach only if both versions truly consistent.
-- **Raiffeisen Zentralbank v Five Star General Trading** [2001] QB 825 (CA) — Choice of law in bilingual financial contracts: governing law clause controls even if German-influenced terms present; parties bound by English law consequences.
+- **Donoghue v Stevenson** [1932] AC 562 (HL) — Tort of negligence: duty of care; neighbour principle; manufacturer liable to ultimate consumer without privity.
+- **Central London Property Trust v High Trees House** [1947] KB 130 — Promissory estoppel: promisor bound by promise relied upon; no consideration required for variation if reliance present.
+- **Photo Production v Securicor Transport** [1980] AC 827 (HL) — Exclusion clauses and fundamental breach: no rule of law preventing exclusion of liability for fundamental breach; clear words suffice.
 
-## Key Issues in German-English Contracts
+## Triage vor Übersetzung
 
-- German "Allgemeine Geschäftsbedingungen" (AGB) provisions (§§ 305-310 BGB) do not apply under English law — "terms and conditions" not subject to AGB-Kontrolle.
-- English "entire agreement clause" does not incorporate Nebenabreden-Einschaenkungen of German law.
-- German Treu und Glauben (§ 242 BGB) has no equivalent under English law — good faith obligation not implied in commercial contracts (Walford v Miles [1992] 2 AC 128 HL).
+Bevor losgelegt wird, klaere:
+1. In welchem Kontext steht der Begriff — Vertragsklausel, Schriftsatz, Mandantenmemo?
+2. UK oder US Kontext — einige Begriffe divergieren erheblich.
+3. Ist ein Rechtsbegriff gemeint oder ein umgangssprachlicher Begriff?
 
-## Output Template: Bilingual Contract Review Memo
+## Output-Template: Übersetzungs-Matrix
 
 ```
-BILINGUAL CONTRACT REVIEW
-Date: [DATE] — Contract: [DESCRIPTION]
-Languages: English / German
-Controlling language: [English / German / Both — per Clause X]
+UEBERSETZUNGSMATRIX COMMON LAW
+Dokument: [BEZEICHNUNG] — Datum: [DATUM]
 
-1. CONSISTENCY REVIEW
- Key term in English: [TERM] — German equivalent: [TERM]
- Divergence: [YES — describe / NO]
- Risk: [significant / minor]
-
-2. CIVIL LAW CONCEPTS IN ENGLISH LAW CONTEXT
- AGB-Kontrolle terms imported: [YES — RISK: not applicable under English law / NO]
- Treu und Glauben implied obligation: [YES — RISK: not recognized English law / NO]
- German Ruecktrittsrecht imported: [YES — check termination provisions / NO]
-
-3. CHOICE OF LAW / CISG
- Governing law: [English / German]
- CISG applicable?: [YES — opt out required? / NO]
-
-4. CORRECTIONS RECOMMENDED
- [List of specific clause amendments]
+Begriff | Kontext | Empfohlene dt. Entsprechung | Risiko Fehluebers.
+--------|---------|---------------------------|-------------------
+[TERM] | [Klausel] | [ENTSPRECHUNG] | [RISIKO]
 ```
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Normen und Rechtsprechung
@@ -334,11 +649,33 @@ Controlling language: [English / German / Both — per Clause X]
 
 ---
 
-## Skill: `client-explainer`
+## Skill: `quellen-livecheck`
 
-_Mandant oder Business-Team versteht Common-Law-Konzepte nicht und braucht verstaendliche Erklärung. Anwendungsfall Deutsche kaufen UK-Unternehmen oder schließen US-Vertrag ab. Prüfraster Verstaendlichkeit Vollständigkeit Wesentliche-Punkte-Abdeckung Risiko-Klarheit. Output verstaendliches Erkläru..._
+_Wenn es um Rechtsquellen-Livecheck in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Mandanten-Erklärer
+# Rechtsquellen-Livecheck
+
+## Einsatzlage
+
+Dieser Quellen-Livecheck für **Common Law Kompass** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
+
+## Fachlandkarte dieses Plugins
+
+- `begriffe-uebersetzung-bilingual-contract` — Begriffe Übersetzung Bilingual Contract
+- `bilingual-contract-review` — Bilingual Contract Review
+- `bilinguale-client-commercial-sonderfall` — Bilinguale Client Commercial Sonderfall
+- `cl-discovery-doc-production-spezial` — CL Discovery DOC Production Spezial
+- `cl-mandantenuebersicht-cl-prozesskostenrisiko` — CL Mandantenuebersicht CL Prozesskostenrisiko
+- `cl-prozesskostenrisiko-each-party-bears-own` — CL Prozesskostenrisiko Each Party Bears OWN
+- `cl-spezial-precedent-vs-statute` — CL Spezial Precedent VS Statute
+- `cl-vertragsklauseln-vertragsbegriffe-cl` — CL Vertragsklauseln Vertragsbegriffe CL
+- `client-explainer` — Client Explainer
+- `client-mandantenkommunikation-entscheidungsvorlage` — Client Mandantenkommunikation Entscheidungsvorlage
+- `commercial-sonderfall-und-edge-case` — Commercial Sonderfall und Edge Case
+- `common-consideration-discovery` — Common Consideration Discovery
+- `consideration-behoerden-gericht-und-registerweg` — Consideration Behoerden Gericht und Registerweg
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Regelungs- und Quellenanker
 
@@ -359,92 +696,47 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
-- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Tragende Normen (die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
+- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
+- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
+- Dynamische Bereiche im Common Law Kompass (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
+- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
 
-## Wann verwenden
+## Qualitätsanker
 
-- bei Verträgen, Memos, Redlines, Übersetzungen oder Schulungen mit Common-Law-Bezug
-- wenn deutsche Rechtsbegriffe ins Englische übertragen werden
-- wenn UK/US-Unterschiede oder False Friends drohen
-
-## Rückfragen, wenn unklar
-
-- Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich?
-- Welche Partei oder Rolle vertreten wir?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
-- Welches Arbeitsprodukt wird gebraucht und wie eilig ist es?
-
-## Typische Fehler vermeiden
-
-- Bürgschaft, guarantee, suretyship und indemnity nicht gleichsetzen.
-- Consideration nicht als deutsche Gegenleistung behandeln.
-- UK, USA, New York, Delaware und UCC nicht vermischen.
-- Keine erfundenen Fälle oder Quellen verwenden.
-
-## Ton
-
-Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
-
-## Triage
-
-Before proceeding, clarify:
-1. Who is the client — German-headquartered company, individual, or in-house counsel?
-2. What common law concept needs explaining — and at what depth?
-3. Is English the client's working language — or does a German explanation parallel work better?
-
-## Key Concepts to Explain (Common Questions)
-
-- **Consideration:** "Every contract needs something exchanged — a promise for a promise, or a payment. Unlike German law, a bare promise with no 'bargain' is not enforceable (unless in a deed)."
-- **Precedent (stare decisis):** "Courts are bound by higher court decisions on the same legal point. The Supreme Court decision in [X] sets the rule for all UK courts below."
-- **Disclosure/Discovery:** "Unlike German/civil-law procedure, common law litigation requires both sides to produce relevant documents — even ones that hurt their case. Costs can be very high."
-- **Equity:** "Alongside common law, English courts apply 'equity' — flexible rules developed by the old Court of Chancery. Injunctions, specific performance, and trusts are equitable remedies."
-
-## Key Case Law (for explanation context)
-
-- **Donoghue v Stevenson** [1932] AC 562 — Used to explain duty of care concept; neighbour principle.
-- **Carlill v Carbolic Smoke Ball** [1893] 1 QB 256 — Used to explain offer/acceptance/consideration; familiar for students.
-
-## Output Template: Client Explainer Memo
-
-**Addressee:** German client unfamiliar with common law
-**Tone:** Clear, non-jargon; German equivalents provided where helpful
-
-```
-CLIENT EXPLAINER: [COMMON LAW CONCEPT]
-Date: [DATE] — Prepared for: [CLIENT NAME]
-Jurisdiction: [England/Wales / New York]
-
-WHAT IT MEANS
-[Plain English explanation in 3-5 sentences]
-
-GERMAN EQUIVALENT (OR WHY THERE ISN'T ONE)
-[Comparison: similar to [§ X BGB] BUT differs in [KEY WAY]]
-
-WHY IT MATTERS FOR YOUR SITUATION
-[Practical impact: deal / litigation / compliance]
-
-WHAT TO DO
-[Action point]
-
-FURTHER READING
-[Accessible reference / summary source]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
 ---
 
-## Skill: `contract-formation-false-friends-governing`
+## Skill: `anschluss-routing`
 
-_Anwalt oder Mandant will Vertragsschluss-Grundlagen des Common Law verstehen: offer acceptance consideration deed promissory estoppel UCC. Anwendungsfall Transaktionsvertrag oder NDA mit UK/US-Gegenpartei. Prüfraster Consideration-Prüfung Deed-Anforderungen Estoppel-Risiko UCC-Varianten. Output E..._
+_Wenn es um Anschluss-Routing in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Contract Formation und Consideration
+# Anschluss-Routing
+
+## Einsatzlage
+
+Dieses Anschluss-Routing für **Common Law Kompass** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
+
+## Fachlandkarte dieses Plugins
+
+- `begriffe-uebersetzung-bilingual-contract` — Begriffe Übersetzung Bilingual Contract
+- `bilingual-contract-review` — Bilingual Contract Review
+- `bilinguale-client-commercial-sonderfall` — Bilinguale Client Commercial Sonderfall
+- `cl-discovery-doc-production-spezial` — CL Discovery DOC Production Spezial
+- `cl-mandantenuebersicht-cl-prozesskostenrisiko` — CL Mandantenuebersicht CL Prozesskostenrisiko
+- `cl-prozesskostenrisiko-each-party-bears-own` — CL Prozesskostenrisiko Each Party Bears OWN
+- `cl-spezial-precedent-vs-statute` — CL Spezial Precedent VS Statute
+- `cl-vertragsklauseln-vertragsbegriffe-cl` — CL Vertragsklauseln Vertragsbegriffe CL
+- `client-explainer` — Client Explainer
+- `client-mandantenkommunikation-entscheidungsvorlage` — Client Mandantenkommunikation Entscheidungsvorlage
+- `commercial-sonderfall-und-edge-case` — Commercial Sonderfall und Edge Case
+- `common-consideration-discovery` — Common Consideration Discovery
+- `consideration-behoerden-gericht-und-registerweg` — Consideration Behoerden Gericht und Registerweg
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Regelungs- und Quellenanker
 
@@ -465,98 +757,39 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
-- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Ergebnis sichten: Welche Common Law Kompass-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
+- Anschlussweichen identifizieren: drohende Frist (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), notwendige Dokumente (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets), nächste Verfahrensstufe oder Sachgebiet.
+- Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
+- Eskalation an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
+- Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
 
-## Wann verwenden
+## Qualitätsanker
 
-- bei Verträgen, Memos, Redlines, Übersetzungen oder Schulungen mit Common-Law-Bezug
-- wenn deutsche Rechtsbegriffe ins Englische übertragen werden
-- wenn UK/US-Unterschiede oder False Friends drohen
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
-## Rückfragen, wenn unklar
+## Normen und Rechtsprechung
 
-- Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich?
-- Welche Partei oder Rolle vertreten wir?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
-- Welches Arbeitsprodukt wird gebraucht und wie eilig ist es?
+### Kuratierte Normen-Bibliothek
 
-## Typische Fehler vermeiden
+- § 29 VwVfG
+- Art. 267 AEUV
+- § 31 BVerfGG
+- § 4 EuRAG
+- Art. 15 DSGVO
 
-- Bürgschaft, guarantee, suretyship und indemnity nicht gleichsetzen.
-- Consideration nicht als deutsche Gegenleistung behandeln.
-- UK, USA, New York, Delaware und UCC nicht vermischen.
-- Keine erfundenen Fälle oder Quellen verwenden.
+### Leitentscheidungen
 
-## Ton
-
-Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
-
-## Triage
-
-Before proceeding, clarify:
-1. Which jurisdiction — England/Wales, New York, Delaware, other US state, or multi-jurisdictional?
-2. Is this a simple contract, deed, or a contract under UCC (goods)?
-3. Is there a consideration issue — adequacy vs. sufficiency; past consideration?
-4. Promissory estoppel raised — US or UK variant?
-
-## Key Case Law
-
-- **Currie v Misa** [1875] LR 10 Ex 153 — Classic definition of consideration (UK): a valuable consideration may consist of a right, interest, profit, or benefit; or forbearance, detriment, loss or responsibility.
-- **Williams v Roffey Brothers** [1991] 1 QB 1 (CA) — Practical benefit as fresh consideration for renegotiated price; avoids strict Stilk v Myrick rule in subcontractor context.
-- **Carlill v Carbolic Smoke Ball Co** [1893] 1 QB 256 (CA) — Offer to public; unilateral contract; acceptance by performance; consideration satisfied by inconvenience of use.
-- **Foakes v Beer** [1884] 9 AC 605 (HL) — Part-payment of debt not good consideration for release of balance; no practical benefit in pure debt context (distinguishable from Williams v Roffey).
-- **UCC § 2-204** (US) — Contract for sale of goods may be formed in any manner showing agreement including conduct; no need for mirror-image acceptance.
-
-## Normen und Quellen
-
-- **UK:** Contracts (Rights of Third Parties) Act 1999; Misrepresentation Act 1967; Sale of Goods Act 1979; Consumer Rights Act 2015
-- **US:** UCC Article 2 (goods); Restatement (Second) of Contracts (services); common law (Restatement)
-- Cheshire, Fifoot and Furmston, Law of Contract (17th ed. 2017)
-- Treitel, Law of Contract (14th ed. 2015)
-
-## Output Template: Contract Formation Checklist
-
-**Addressee:** Client or internal memo
-**Tone:** Clear, functional; highlighting jurisdiction-specific risks
-
-```
-CONTRACT FORMATION CHECKLIST
-Date: [DATE] — Matter: [DESCRIPTION]
-Jurisdiction: [England/Wales / New York / Delaware / ...]
-
-1. OFFER: Clear, definite, communicated: [YES / NO — issue: ...]
-2. ACCEPTANCE: Mirror-image (UK strict) / UCC 2-207 (US battle of forms): [...]
- Method of acceptance: [in writing / conduct / performance]
-3. CONSIDERATION:
- Adequacy (courts generally don't review): [YES]
- Sufficiency (must be of value in law): [YES / NO — past consideration issue?]
- Practical benefit (Williams v Roffey applicable?): [YES / NO]
-4. INTENTION TO CREATE LEGAL RELATIONS: [presumed commercial / rebutted?]
-5. DEED (if consideration absent): [signed / witnessed / delivered?]
-6. CAPACITY: parties legally capable: [YES / NO — corporation authority?]
-7. UCC ISSUES (if goods): Merchant rule § 2-205 / 2-207: [applicable / not]
-
-RESULT:
-[ ] Valid binding contract
-[ ] Contract fails — issue: [DESCRIPTION]
-[ ] Local counsel review recommended
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
+- BGH XI ZR 39/04
 
 ---
 
-## Skill: `false-friends-scanner`
+## Skill: `explainer-beweislast-und-darlegungslast`
 
-_Anwalt oder Übersetzer sucht missverstaendliche deutsch-englische Rechtsbegriffe im Vertragstext oder Memo. Anwendungsfall Vertragsentwurf mit False-Friend-Risiko. Prüfraster Begriff-Scan Risikoeinstufung sichere Alternativen Jurisdiktion-Check. Output False-Friends-Liste Korrekturvorschlaege sic..._
+_Wenn es um Explainer: Beweislast, Darlegungslast und Substantiierung in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# False-Friends-Scanner
+# Explainer: Beweislast, Darlegungslast und Substantiierung
 
 ## Regelungs- und Quellenanker
 
@@ -583,83 +816,32 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Wann verwenden
+## Spezialwissen: Explainer: Beweislast, Darlegungslast und Substantiierung
+- **Normen-/Quellenanker:** UK, US, UCC.
 
-- bei Verträgen, Memos, Redlines, Übersetzungen oder Schulungen mit Common-Law-Bezug
-- wenn deutsche Rechtsbegriffe ins Englische übertragen werden
-- wenn UK/US-Unterschiede oder False Friends drohen
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-## Rückfragen, wenn unklar
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-- Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich?
-- Welche Partei oder Rolle vertreten wir?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
-- Welches Arbeitsprodukt wird gebraucht und wie eilig ist es?
-
-## Typische Fehler vermeiden
-
-- Bürgschaft, guarantee, suretyship und indemnity nicht gleichsetzen.
-- Consideration nicht als deutsche Gegenleistung behandeln.
-- UK, USA, New York, Delaware und UCC nicht vermischen.
-- Keine erfundenen Fälle oder Quellen verwenden.
-
-## Ton
-
-Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
-
-## Key False Friends
-
-| English Term | German False Friend | Correct Reading | Risk |
-|---|---|---|---|
-| "guarantee" | Garantie (absolute) | often secondary obligation (needs principal default) | HIGH |
-| "indemnity" | Entschaedigung / Buergschaft | primary independent obligation; survives variation | HIGH |
-| "warranty" | Gewaehrleistung | not Ruecktrittsrecht; damages only | MEDIUM |
-| "condition" | Bedingung (§ 158 BGB) | fundamental term; breach = right to terminate | HIGH |
-| "innominate term" | unklar | intermediate term; remedy depends on gravity of breach | MEDIUM |
-| "consideration" | Gegenleistung | legal concept requiring bargain; inadequacy acceptable | HIGH |
-| "estoppel" | Verwirkung (partial) | different types; does not extinguish right but precludes denial | MEDIUM |
-| "good faith" | Treu und Glauben | NOT implied in English commercial contracts | HIGH |
-| "specific performance" | Erfuellungsklage | equitable; discretionary; not available as of right | MEDIUM |
-| "discovery" | Akteneinsicht | much broader; both sides must produce relevant docs | HIGH |
-| "deed" | Urkunde | has legal effect without consideration | MEDIUM |
-
-## Key Case Law
-
-- **Walford v Miles** [1992] 2 AC 128 (HL) — No general obligation of good faith in English contract law; lock-out / lock-in agreements need independent consideration.
-- **Bunge v Tradax** [1981] 1 WLR 711 (HL) — Condition vs. warranty: classification of term determines remedy; time stipulations in commercial contracts often conditions.
-- **Hong Kong Fir Shipping v Kawasaki** [1962] 2 QB 26 (CA) — Innominate terms: seaworthiness clause; breach consequences determine remedy (not classification).
-
-## Triage
-
-Before proceeding, clarify:
-1. Which contract and which term needs scanning?
-2. Is the client German — likely to import civil law concepts unintentionally?
-3. Is the language of the document German or English (or bilingual)?
-
-## Output Template: False Friends Scan Report
-
-```
-FALSE FRIENDS SCAN REPORT
-Document: [DESCRIPTION] — Date: [DATE]
-
-No. | Term Found | Location | Risk | Recommended Change
-----|-----------|----------|------|-------------------
-1 | [guarantee] | Clause 5.2 | HIGH — no discharge clause | Add: "primary indemnity" or add Holme v Brunskill waiver
-2 | [good faith] | Clause 8 | HIGH — unenforceable English law | Remove or replace with specific obligations
-3 | [condition] | Clause 3 | MEDIUM — correct usage but confirm | Confirm classification intended
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Explainer** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `humor-coach-interpretation-precedent-common`
+## Skill: `indemnity-verhandlung-vergleich-und-eskalation`
 
-_Common-Law-Erklärungen sollen für Mandanten oder Team leichter lesbar werden ohne Praezision zu verlieren. Anwendungsfall Onboarding-Dokument oder Mandanten-Erklärung. Prüfraster Verstaendlichkeit Ton-Angemessenheit Praezisions-Erhaltung. Output aufgelockerte Erklärung Ton-Anpassungen. Abgrenzung..._
+_Wenn es um Indemnity: Verhandlung, Vergleich und Eskalation in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen._
 
-# Low-Key Late-Night Coach
+# Indemnity: Verhandlung, Vergleich und Eskalation
 
 ## Regelungs- und Quellenanker
 
@@ -686,72 +868,32 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Wann verwenden
+## Spezialwissen: Indemnity: Verhandlung, Vergleich und Eskalation
+- **Normen-/Quellenanker:** UK, US, UCC.
 
-- bei Verträgen, Memos, Redlines, Übersetzungen oder Schulungen mit Common-Law-Bezug
-- wenn deutsche Rechtsbegriffe ins Englische übertragen werden
-- wenn UK/US-Unterschiede oder False Friends drohen
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-## Rückfragen, wenn unklar
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-- Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich?
-- Welche Partei oder Rolle vertreten wir?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
-- Welches Arbeitsprodukt wird gebraucht und wie eilig ist es?
-
-## Typische Fehler vermeiden
-
-- Bürgschaft, guarantee, suretyship und indemnity nicht gleichsetzen.
-- Consideration nicht als deutsche Gegenleistung behandeln.
-- UK, USA, New York, Delaware und UCC nicht vermischen.
-- Keine erfundenen Fälle oder Quellen verwenden.
-
-## Ton
-
-Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
-
-## Vertiefung: Common Law Wit und klassische Wendungen
-
-- **Lord Denning** in Davis Contractors v Fareham UDC [1956] AC 696 — Frustration "not lightly to be invoked to relieve contracting parties of the normal consequences of imprudent commercial bargains." Immer zitierbar für skeptische Richter.
-- **Cardozo J** in Palsgraf v Long Island Railroad 248 NY 339 (1928) — "Negligence in the air, so to speak, will not do." Elegant formulierung der Duty-of-care Begrenzung.
-- **Anonymous** in the common law tradition — "Every dog is allowed one bite" — popular summary of scienter rule in dog bite cases (actually now legislated away in most jurisdictions).
-
-## Triage vor Humor-Coaching
-
-Bevor losgelegt wird, klaere:
-1. In welchem Kontext soll Humor eingesetzt werden — Schulung, Mandantenpräsentation, interne Diskussion?
-2. Welche Rechtsordnung soll illustriert werden — UK, US, oder vergleichend?
-3. Wieviel juristische Tiefe ist angemessen — Laien oder Fachpublikum?
-
-## Output Template: Common Law Anekdoten-Memo
-
-```
-COMMON LAW ANEKDOTEN-MEMO
-Thema: [KONZEPT] — Kontext: [SCHULUNG / PRAE / MEMO]
-
-Klassischer Fall zur Illustration:
-[Carlill v Carbolic Smoke Ball / Donoghue v Stevenson / Pennoyer v Neff]
-
-Witz/Wendung:
-"[ZITAT ODER KURZGESCHICHTE]"
-
-Deutsche Entsprechung:
-[Verweis auf § X BGB oder beruehmten deutschen Rechtsfall]
-
-Einsatz-Empfehlung: [Beginn Praesentation / Auflockerung Schriftsatz-Review]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Indemnity** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `interpretation-precedent`
+## Skill: `client-mandantenkommunikation-entscheidungsvorlage`
 
-_Deutscher Anwalt liest UK oder US-Gerichtsentscheidung und versteht Praezedenzfall-Logik nicht: ratio decidendi obiter dictum stare decisis Vertragsauslegung. Normen UK Supreme Court Rules US Federal Rules. Prüfraster Ratio-obiter-Unterscheidung Binding-Persuasive-Abgrenzung Auslegungs-Methode. O..._
+_Wenn es um Client: Mandantenkommunikation und Entscheidungsvorlage in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Interpretation und Precedent
+# Client: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Regelungs- und Quellenanker
 
@@ -778,234 +920,32 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Wann verwenden
+## Spezialwissen: Client: Mandantenkommunikation und Entscheidungsvorlage
+- **Normen-/Quellenanker:** UK, US, UCC.
 
-- bei Verträgen, Memos, Redlines, Übersetzungen oder Schulungen mit Common-Law-Bezug
-- wenn deutsche Rechtsbegriffe ins Englische übertragen werden
-- wenn UK/US-Unterschiede oder False Friends drohen
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-## Rückfragen, wenn unklar
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-- Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich?
-- Welche Partei oder Rolle vertreten wir?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
-- Welches Arbeitsprodukt wird gebraucht und wie eilig ist es?
-
-## Typische Fehler vermeiden
-
-- Bürgschaft, guarantee, suretyship und indemnity nicht gleichsetzen.
-- Consideration nicht als deutsche Gegenleistung behandeln.
-- UK, USA, New York, Delaware und UCC nicht vermischen.
-- Keine erfundenen Fälle oder Quellen verwenden.
-
-## Ton
-
-Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
-
-## Triage
-
-Before proceeding, clarify:
-1. Which court's precedent applies — House of Lords/Supreme Court (UK), Court of Appeal, or US federal/state?
-2. Is the contract interpretation question about ambiguous language, implied terms, or entire agreement?
-3. Is there a factual matrix issue (Investors Compensation Scheme) — background knowledge admissible?
-
-## Key Case Law
-
-- **Investors Compensation Scheme v West Bromwich** [1998] 1 WLR 896 (HL) — Contextual construction: text interpreted against background of whole instrument and admissible factual matrix; literal interpretation may yield to businesslike construction.
-- **Arnold v Britton** [2015] UKSC 36 — Caution against too liberal rewriting; clear contractual words prevail even if outcome appears harsh; commercial sense does not override plain words.
-- **Wood v Capita** [2017] UKSC 24 — Reconciles Arnold and ICS: both textualism and contextual approach valid tools; starting point is language; background may cast light on ambiguity.
-- **Young v Bristol Aeroplane** [1944] KB 718 (CA) — Court of Appeal bound by own previous decisions except: (1) inconsistent CA decisions; (2) overruled by HL; (3) per incuriam.
-- **Pepper v Hart** [1993] AC 593 (HL) — Hansard admissible as aid to statutory interpretation only where statute ambiguous, obscure or leads to absurdity, and minister's statement clear.
-
-## Normen und Quellen
-
-- Lewison, Interpretation of Contracts (7th ed. 2020)
-- The Practice Statement [1966] 1 WLR 1234 — HL (now SC) power to depart from own previous decisions
-
-## Output Template: Contract Interpretation Memo
-
-**Addressee:** Client or court submission
-**Tone:** Precise; key provisions quoted verbatim
-
-```
-CONTRACT INTERPRETATION MEMO
-Date: [DATE] — Contract: [DESCRIPTION / Date / Parties]
-
-1. DISPUTED CLAUSE
-"[VERBATIM CLAUSE]"
-
-2. PARTY POSITIONS
-Our client's reading: [...]
-Counter-party's reading: [...]
-
-3. APPLICABLE RULES (UK / US)
-[ ] Natural and ordinary meaning
-[ ] Commercial purpose (Wood v Capita)
-[ ] Factual matrix (ICS v West Bromwich): Background facts: [...]
-[ ] Implied term (business efficacy / obviousness test)
-[ ] Contra proferentem (ambiguity against drafter): [applicable?]
-
-4. PRECEDENT
-Binding: [CASE CITATION — relevance]
-Persuasive: [CASE CITATION — relevance]
-
-5. CONCLUSION
-Most likely reading: [...]
-Risk of adverse reading: [LOW / MEDIUM / HIGH]
-Recommendation: [amend / argue / accept]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Client** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `kommandocenter`
+## Skill: `false-friends-contracts`
 
-_Kanzlei startet Common-Law- UK- US- oder bilinguales Drafting-Mandat und braucht strukturierten Einstieg. Jurisdiktionscheck False-Friends-Scan Arbeitsplan. Prüfraster Jurisdiktion-Identifikation Primaeranliegen-Erfassung Skill-Routing. Output Mandat-Karte Jurisdiktion-Check Arbeitsplan. Abgrenzu..._
+_Wenn es um False Friends in Common-Law-Verträgen in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Common-Law-Kommandocenter
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `UCC § 2-201` — Statute of Frauds für Warenkauf.
-- `UCC § 2-313` — express warranties.
-- `UCC § 2-314` — implied warranty of merchantability.
-- `Restatement (Second) of Contracts § 17` — formation by bargain.
-- `Restatement (Second) of Contracts § 71` — consideration.
-- `Restatement (Second) of Contracts § 90` — promissory estoppel.
-- `CISG Art. 14` — Angebot.
-- `CISG Art. 18` — Annahme.
-- `CISG Art. 25` — wesentliche Vertragsverletzung.
-- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
-- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann verwenden
-
-- bei Verträgen, Memos, Redlines, Übersetzungen oder Schulungen mit Common-Law-Bezug
-- wenn deutsche Rechtsbegriffe ins Englische übertragen werden
-- wenn UK/US-Unterschiede oder False Friends drohen
-
-## Rückfragen, wenn unklar
-
-- Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich?
-- Welche Partei oder Rolle vertreten wir?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
-- Welches Arbeitsprodukt wird gebraucht und wie eilig ist es?
-
-## Typische Fehler vermeiden
-
-- Bürgschaft, guarantee, suretyship und indemnity nicht gleichsetzen.
-- Consideration nicht als deutsche Gegenleistung behandeln.
-- UK, USA, New York, Delaware und UCC nicht vermischen.
-- Keine erfundenen Fälle oder Quellen verwenden.
-
-## Ton
-
-Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
-
-## Triage vor Mandatseinstieg
-
-Kläre vor dem ersten Schritt:
-
-1. Welche Rechtsordnung gilt? (English law / New York law / Delaware law / andere US-Bundesstaaten / sonstige Common-Law-Jurisdiktion)
-2. Verbindliche Sprache des Vertrages — Englisch, zweisprachig oder Englisch mit Deutsch als Fallback?
-3. Vertreten wir Käufer, Verkäufer, Kreditnehmer, Garantiegeber oder einen anderen Part?
-4. Zeitdruck: Same-Day-Redline oder sorgfältige Vertragsprüfung über mehrere Tage?
-5. Soll Local Counsel einbezogen werden, oder geht es um internes Erste-Einschätzung-Memo?
-
-## Key Case Law — Grundlagenfälle Common Law
-
-- *Donoghue v Stevenson* [1932] AC 562 (HL) — Begründung der modernen Negligence-Doktrin; Duty of Care als Grundbaustein des Common-Law-Deliktsrechts, relevant für jede Mandatsplanung mit Haftungsbezug.
-- *Carlill v Carbolic Smoke Ball Co* [1893] 1 QB 256 (CA) — Offer und Acceptance bei öffentlichen Ankündigungen; zeigt, dass Common-Law-Vertragsschluss ohne Gegenleistungs-Bestätigung durch den Annehmenden möglich ist.
-- *Hedley Byrne & Co Ltd v Heller & Partners Ltd* [1964] AC 465 (HL) — Haftung für fahrlässige Falschauskunft (negligent misstatement); Grundlage aller Pre-Contractual-Haftungsprüfungen im englischen Recht.
-- *Entores Ltd v Miles Far East Corporation* [1955] 2 QB 327 (CA) — Postal Rule und ihre Grenzen bei moderner Kommunikation; maßgeblich für Fragen des Vertragsschlusszeitpunkts bei elektronischen Mitteilungen.
-
-## Normen und Quellen — Common-Law-Überblick
-
-**UK (England & Wales)**
-- Misrepresentation Act 1967 — Schadensersatz bei vorvertraglichen Falschangaben
-- Sale of Goods Act 1979 (sowie Consumer Rights Act 2015) — implied terms
-- Unfair Contract Terms Act 1977 (UCTA) + Consumer Rights Act 2015 — reasonableness test
-- Companies Act 2006 — corporate authority, capacity
-- Law of Property (Miscellaneous Provisions) Act 1989 — deed-Anforderungen
-
-**US (New York / Delaware)**
-- Uniform Commercial Code (UCC) Art. 1, 2 — Verkauf beweglicher Sachen
-- Restatement (Second) of Contracts §§ 1-385 — Common-Law-Vertragsrecht (non-UCC)
-- Delaware General Corporation Law (DGCL) — Gesellschaftsrecht
-- New York General Obligations Law § 5-701 (Statute of Frauds)
-
-**Rechtsvergleichend**
-- Zweigert/Kötz, Einführung in die Rechtsvergleichung, 3. Aufl. 1996 — Standardwerk für deutsch-englische Rechtsvergleichung
-- Goode/McKendrick, Commercial Law, 6th ed. 2020 — umfassender UK-Commercial-Law-Überblick
-
-## Schritt-für-Schritt-Mandatseinstieg
-
-1. **Jurisdiktion fixieren** — Rechtswahlklausel lesen, Sitz und Registered Office prüfen, UK/US-Spur wählen.
-2. **False-Friends-Scan** — Begriffe wie "material breach", "condition", "warranty", "indemnity", "guarantee", "representation" im Vertragstext identifizieren und auf deutsche Rechtsbehelfs-Äquivalente abgleichen.
-3. **Consideration prüfen** — bei UK-Verträgen: liegt Consideration vor? Bei Deed-Abschluss statt Simple Contract: Formanforderungen beachten.
-4. **Kapazitätsprüfung** — Corporate authority der Vertragsparteien (Board resolutions, Power of Attorney, Registered Signatories).
-5. **Haftungsklauseln bewerten** — Limitation of Liability, Indemnity-Kaskaden, Consequential-Loss-Ausschluss im Licht von UCTA (UK) bzw. UCC-Disclaimer-Regeln (US) prüfen.
-6. **Zuständigkeits- und Vollstreckungsfrage klären** — Exclusive jurisdiction clause, Arbitration clause, Hague Convention-Anwendbarkeit.
-7. **Mandantenhinweis** — Kurzlage mit Ampel, offene Annahmen, Local-Counsel-Bedarf, nächste Schritte.
-
-## Output-Template: Mandatseinstiegs-Kurzlage
-
-**Adressat:** Mandant (intern) — **Tonfall:** sachlich-juristisch, strukturiert
-
-```
-COMMON-LAW-MANDATSEINSTIEG — KURZLAGE
-Datum: [DATUM]
-Mandat: [BEZEICHNUNG]
-Bearbeiter: [NAME]
-
-1. JURISDIKTION
- Rechtsordnung: [English Law / New York Law / Delaware / ...]
- Verbindliche Sprache: [EN / DE+EN]
- Vertragstyp: [SPA / SHA / Loan / Services / ...]
-
-2. PARTEIROLLE & INTERESSEN
- Mandant: [PARTEI]
- Gegenpartei: [PARTEI]
- Kerninteressen: [...]
-
-3. FALSE-FRIENDS-TREFFER (Ampel)
- GRUEN: [Begriff] — unproblematisch
- GELB: [Begriff] — Klarstellungsbedarf, Kommentar: [...]
- ROT: [Begriff] — dringend ueberarbeiten, Risiko: [...]
-
-4. OFFENE ANNAHMEN / LOCAL-COUNSEL-BEDARF
- - [...]
-
-5. NAECHSTE SCHRITTE
- - [Schritt 1 mit Frist]
- - [Schritt 2 mit Verantwortlichem]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `litigation-discovery-ma-commercial-quality`
-
-_Anwalt oder Mandant ist in UK/US-Gerichtsverfahren und will pleadings discovery disclosure depositions privilege evidence settlement verstehen. Prüfraster Verfahrensphasen-Überblick Privilege-Prüfung Discovery-Scope Settlement-Optionen. Output Verfahrens-Erklärung Checkliste. Abgrenzung zu common..._
-
-# Litigation, Discovery und Evidence
+# False Friends in Common-Law-Verträgen
 
 ## Regelungs- und Quellenanker
 
@@ -1032,729 +972,27 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Wann verwenden
-
-- bei Verträgen, Memos, Redlines, Übersetzungen oder Schulungen mit Common-Law-Bezug
-- wenn deutsche Rechtsbegriffe ins Englische übertragen werden
-- wenn UK/US-Unterschiede oder False Friends drohen
-
-## Rückfragen, wenn unklar
-
-- Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich?
-- Welche Partei oder Rolle vertreten wir?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
-- Welches Arbeitsprodukt wird gebraucht und wie eilig ist es?
-
-## Typische Fehler vermeiden
-
-- Bürgschaft, guarantee, suretyship und indemnity nicht gleichsetzen.
-- Consideration nicht als deutsche Gegenleistung behandeln.
-- UK, USA, New York, Delaware und UCC nicht vermischen.
-- Keine erfundenen Fälle oder Quellen verwenden.
-
-## Ton
-
-Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
-
-## Triage
-
-Before proceeding, clarify:
-1. Is this UK (standard/specific disclosure, CPR) or US (discovery under FRCP) procedure?
-2. Is e-discovery involved — volume, data formats, costs proportionality?
-3. Is there privilege — legal advice privilege, litigation privilege, joint privilege?
-4. Are there third-party disclosure orders (Norwich Pharmacal in UK)?
-
-## Key Case Law
-
-- **Three Rivers DC v Bank of England (No 6)** [2004] UKHL 48, [2005] 1 AC 610 — Legal advice privilege: broad protection for communications seeking/giving legal advice; dominant purpose test for litigation privilege; independent review of documents for privilege by solicitor.
-- **Norwich Pharmacal v Customs & Excise** [1974] AC 133 (HL) — Third-party disclosure: court can order third party who facilitated wrong (however innocently) to disclose identity/documents; foundation of Norwich Pharmacal orders.
-- **Perla Investments v Comber** [2017] EWCA Civ 1251 — Standard disclosure: CPR 31.6; only relevant documents that a party relies on or that adversely affect a party's case; proportionality.
-- **Upjohn Co v US** 449 US 383 (1981) — US attorney-client privilege extends to in-house counsel communications to management; wider than UK (not limited to dominant purpose in all states).
-- **Zubulake v UBS Warburg** 217 FRD 309 (SDNY 2003) — E-discovery duty to preserve: litigation hold triggered upon reasonably anticipating litigation; costs shifting for inaccessible data.
-
-## Normen und Quellen
-
-- **UK:** CPR Part 31 (standard/specific disclosure); CPR r 31.19 (privilege); Evidence Act 1968
-- **US:** FRCP Rules 26, 30, 33, 34, 45 (discovery); ESI protocols
-- Hollander, Documentary Evidence (13th ed. 2022) — UK privilege and disclosure
-- Redgrave, Data Protection and E-Discovery (2023) — US/UK cross-border
-
-## Output Template: Disclosure / Discovery Review
-
-**Addressee:** Internal litigation team
-**Tone:** Process-focused; privilege risks highlighted
-
-```
-DISCLOSURE / DISCOVERY REVIEW
-Date: [DATE] — Matter: [DESCRIPTION]
-Jurisdiction: [England/Wales CPR / US FRCP]
-
-1. SCOPE OF DISCLOSURE
- UK Standard (CPR 31.6): [relevant documents defined as: ...]
- US Scope (FRCP 26(b)): [proportional; relevance to claims/defenses]
- Estimated document volume: [X documents / Y GB data]
-
-2. PRIVILEGE REVIEW
- Legal advice privilege: [YES — comms with [solicitor/attorney] re legal advice]
- Litigation privilege: [YES — dominant purpose litigation / NO]
- In-house counsel: [covered UK Three Rivers / covered US Upjohn]
- Waiver risk: [document shared with [PARTY] — waived?]
-
-3. E-DISCOVERY / ESI
- Litigation hold issued: [YES — [DATE] / NOT YET]
- Custodians: [NAME, ROLE]
- Data formats: [email / Slack / WhatsApp / cloud]
- Cost sharing (Zubulake): [proportionality request filed / not filed]
-
-4. THIRD PARTY DISCLOSURE
- Norwich Pharmacal order applicable?: [YES / NO]
- FRCP 45 subpoena?: [YES / NO]
-
-5. NEXT STEPS
- [ ] Issue litigation hold to [CUSTODIANS]
- [ ] Privilege log by [DATE]
- [ ] Disclosure list CPR / FRCP 26 disclosures by [DATE]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `ma-commercial-drafting`
-
-_Anwalt draftet oder prüft SPA APA NDA LOI Disclosure Schedules oder Commercial Agreement nach Common Law. Common-Law-Risikomatrix. Prüfraster Reps-Warranties-Covenants-Abgrenzung Boilerplate-Risiken Haftungsklauseln Jurisdiktion. Output Markup Risikomatrix Klausel-Vorschlaege. Abgrenzung zu commo..._
-
-# M&A und Commercial Drafting
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `UCC § 2-201` — Statute of Frauds für Warenkauf.
-- `UCC § 2-313` — express warranties.
-- `UCC § 2-314` — implied warranty of merchantability.
-- `Restatement (Second) of Contracts § 17` — formation by bargain.
-- `Restatement (Second) of Contracts § 71` — consideration.
-- `Restatement (Second) of Contracts § 90` — promissory estoppel.
-- `CISG Art. 14` — Angebot.
-- `CISG Art. 18` — Annahme.
-- `CISG Art. 25` — wesentliche Vertragsverletzung.
-- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
-- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann verwenden
-
-- bei Verträgen, Memos, Redlines, Übersetzungen oder Schulungen mit Common-Law-Bezug
-- wenn deutsche Rechtsbegriffe ins Englische übertragen werden
-- wenn UK/US-Unterschiede oder False Friends drohen
-
-## Rückfragen, wenn unklar
-
-- Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich?
-- Welche Partei oder Rolle vertreten wir?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
-- Welches Arbeitsprodukt wird gebraucht und wie eilig ist es?
-
-## Typische Fehler vermeiden
-
-- Bürgschaft, guarantee, suretyship und indemnity nicht gleichsetzen.
-- Consideration nicht als deutsche Gegenleistung behandeln.
-- UK, USA, New York, Delaware und UCC nicht vermischen.
-- Keine erfundenen Fälle oder Quellen verwenden.
-
-## Ton
-
-Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
-
-## Triage
-
-Before proceeding, clarify:
-1. Which type of transaction — share purchase (SPA), asset purchase (APA), or commercial services contract?
-2. Which jurisdiction — English law SPA, New York law, Delaware DGCL deal?
-3. What is the deal value and buyer/seller risk allocation expected?
-4. Is there a locked-box or completion accounts mechanism?
-
-## Key Case Law
-
-- **Wood v Capita Insurance Services** [2017] UKSC 24 — Entire agreement clauses and their effect on pre-contract representations; clear words needed to exclude misrepresentation claims.
-- **Takeda v Dodd** [2019] EWHC 3040 (Comm) — Indemnity vs. warranty: indemnity provides pound-for-pound recovery; warranty damages subject to mitigation and remoteness; distinction critical in M&A tax indemnities.
-- **Renault v Dodd** [2004] EWHC 2530 (Comm) — Material adverse change (MAC) clauses: English courts interpret MAC narrowly; short-term volatility rarely triggers MAC; US Delaware courts also strict.
-- **IBP Inc v Tyson Foods** 789 A2d 14 (Del Ch 2001) — Delaware MAC clause: must be substantially threatening to long-term earnings capacity; general economic downturns excluded.
-
-## Normen und Quellen
-
-- **UK:** Companies Act 2006; Misrepresentation Act 1967; LCIA Rules 2020 for M&A arbitration
-- **US:** Delaware DGCL; New York UCC; Model M&A Contract (ABA 2021)
-- Linklaters/Freshfields M&A Review — annual UK market practice
-- Kling & Nugent, Negotiated Acquisitions of Companies, Subsidiaries and Divisions (2024)
-
-## Output Template: SPA Key Terms Summary
-
-**Addressee:** Deal team / client sign-off
-**Tone:** Deal-practical; risk-flagged
-
-```
-SPA KEY TERMS SUMMARY
-Date: [DATE] — Deal: [DESCRIPTION]
-Governing Law: [English / New York / Delaware]
-Deal Value: [GBP/USD X]
-
-1. PURCHASE PRICE
- Mechanism: [ ] Locked-box [Date: X] [ ] Completion accounts
- Earn-out: [YES — milestones: X / NO]
- Consideration: [cash / shares / mix]
-
-2. CONDITIONS TO CLOSING
- Regulatory approvals: [EU Merger Reg. / HSR Act / CMA]
- Material Adverse Change: [defined / MAC exclusions: general economy / COVID-type]
- Long-stop date: [DATE]
-
-3. REPS AND WARRANTIES
- Warranty package: [fundamental / general]
- Knowledge qualifier: [actual knowledge / knowledge with enquiry]
- Warranty insurance: [buy-side / sell-side WRI]
- Basket: [GBP/USD X — tipping / non-tipping]
- Cap: [GBP/USD X / [X]% deal value]
- Limitation period: [fundamental: 7 years / general: [X] years]
-
-4. TAX INDEMNITY
- Tax covenant: [included / excluded]
- Cap: [uncapped / capped at GBP/USD X]
-
-5. NON-COMPETE / NON-SOLICIT
- Duration: [2 years] — Geography: [UK / EU / global]
- Enforceability (UK): [reasonable in scope — Tillman v Egon Zehnder [2019]]
-
-6. GOVERNING LAW / DISPUTE RESOLUTION
- Law: [English / New York]
- Forum: [English High Court (Commercial) / ICC Arbitration London]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `quality-gate`
-
-_Fertig erstelltes Common-Law-Arbeitsprodukt auf Qualitaet prüfen: Jurisdiktion Quellenstand False Friends UK/US-Trennung Review-Bedarf. Prüfraster Jurisdiktion-Konsistenz Normen-Aktualitaet False-Friends-Scan UK-US-Trennung. Output Qualitaets-Prüfbericht Lueckenliste. Abgrenzung zu common-law-fal..._
-
-# Common-Law-Qualitätstor
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `UCC § 2-201` — Statute of Frauds für Warenkauf.
-- `UCC § 2-313` — express warranties.
-- `UCC § 2-314` — implied warranty of merchantability.
-- `Restatement (Second) of Contracts § 17` — formation by bargain.
-- `Restatement (Second) of Contracts § 71` — consideration.
-- `Restatement (Second) of Contracts § 90` — promissory estoppel.
-- `CISG Art. 14` — Angebot.
-- `CISG Art. 18` — Annahme.
-- `CISG Art. 25` — wesentliche Vertragsverletzung.
-- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
-- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann verwenden
-
-- bei Verträgen, Memos, Redlines, Übersetzungen oder Schulungen mit Common-Law-Bezug
-- wenn deutsche Rechtsbegriffe ins Englische übertragen werden
-- wenn UK/US-Unterschiede oder False Friends drohen
-
-## Rückfragen, wenn unklar
-
-- Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich?
-- Welche Partei oder Rolle vertreten wir?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
-- Welches Arbeitsprodukt wird gebraucht und wie eilig ist es?
-
-## Typische Fehler vermeiden
-
-- Bürgschaft, guarantee, suretyship und indemnity nicht gleichsetzen.
-- Consideration nicht als deutsche Gegenleistung behandeln.
-- UK, USA, New York, Delaware und UCC nicht vermischen.
-- Keine erfundenen Fälle oder Quellen verwenden.
-
-## Ton
-
-Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
-
-## Triage vor Qualitaetsprüfung
-
-Kläre vor dem Qualitaets-Gate-Durchlauf:
-
-1. Liegt ein abschlussfertiges Dokument vor, oder noch ein Arbeitsentwurf?
-2. Wer hat das Dokument erstellt — Anwalt mit Common-Law-Ausbildung oder deutsches Team?
-3. Welche Rechtsordnung ist governing law — englisches Recht, New York, anderer US-Staat?
-4. Gibt es bekannte Knackpunkte (Limitation of Liability, Indemnity-Kaskaden, Arbitration)?
-5. Soll das Quality-Gate als internes Review-Memo oder als Redline-Kommentar ausgegeben werden?
-
-## Key Case Law — Drafting Quality & Professional Standards
-
-- *Investors Compensation Scheme Ltd v West Bromwich Building Society* [1998] 1 WLR 896 (HL) — Lord Hoffmann's Contextual Interpretation: Vertragstext ist im Licht des gesamten Verhandlungshintergrunds auszulegen; ein fehldraftetes Dokument, das klaren Parteiwillen verfehlt, unterliegt objektiver Auslegung gegen den Verfasser.
-- *Arnold v Britton* [2015] UKSC 36, [2015] AC 1619 — Korrektur zum kontextuellen Ansatz: klarer Vertragstext hat Vorrang; "commercial common sense" darf keinen eindeutigen Wortlaut verdraengen — zwingt Drafter zur Praezision.
-- *Wood v Capita Insurance Services Ltd* [2017] UKSC 24, [2017] AC 1173 — Spectrum zwischen Textnaeheund Kontextbezug; beide Interpretationsmethoden sind gleichwertige Werkzeuge — schlechtes Drafting schafft Interpretationsspielraum.
-- *Triple Point Technology Inc v PTT Public Company Ltd* [2021] UKSC 29 — Liquidated Damages-Klauseln und ihre Anwendbarkeit bei vorzeitiger Vertragsbeendigung; zeigt, wie Luecken im Drafting direkt zu Streit fuehren.
-
-## Normen und Quellen — Quality-Gate-Checkliste
-
-**UK**
-- UCTA 1977 ss 2, 3, 11 — reasonableness test für Haftungsausschlüsse
-- Misrepresentation Act 1967 s 3 — Wirksamkeit von Rep-Ausschlussklauseln
-- Law Commission, "Unfair Terms in Contracts" (Law Com No 292, 2005) — Reform-Hintergrund
-
-**US**
-- UCC § 2-316 — exclusion of implied warranties (Formvorschriften!)
-- Restatement (Second) of Contracts § 211 — standardized agreements
-- ABA Model Rules of Professional Conduct Rule 1.1 — competence standard für Drafting
-
-**Kommentar**
-- Lewison/Hughes, *The Interpretation of Contracts*, 7th ed. 2022 — massgebliches englisches Werk
-- Adams, *A Manual of Style for Contract Drafting*, 5th ed. 2023 (ABA) — US-Drafting-Standard
-
-## Quality-Gate-Prüfmatrix
-
-| Prüfpunkt | Standard | Fundstelle | Status |
-|---|---|---|---|
-| Governing law & jurisdiction | Eindeutige Rechtswahlklausel | *Spiliada* [1987] AC 460 | GRUEN/GELB/ROT |
-| Consideration (UK) | Nicht illusorisch, nicht past | *Currie v Misa* (1875) LR 10 Ex 153 | — |
-| Entire agreement clause | Vollstaendig, UCTA-konform | UCTA 1977 s 3 | — |
-| Limitation of liability | Reasonableness-Test bestanden | UCTA 1977 s 11 | — |
-| Indemnity-Kaskaden | Gegenseitig oder cap-gebunden | *Caledonian North Sea* [2002] 1 Lloyd's Rep 553 | — |
-| Consequential loss exclusion | Direct/indirect klar definiert | *Hadley v Baxendale* (1854) 9 Ex 341 | — |
-| Force majeure | Ereignis, Notice, Dauer, Exit | *Seadrill Ghana* [2018] EWHC 1640 | — |
-| Arbitration/dispute clause | Vollstaendig, seated, institutional | *Fiona Trust* [2007] UKHL 40 | — |
-
-## Output-Template: Quality-Gate-Memo
-
-**Adressat:** Partnerebene / Senior Associate — **Tonfall:** strukturiert, risikofokussiert
-
-```
-COMMON-LAW QUALITY-GATE-MEMO
-Datum: [DATUM]
-Dokument: [VERTRAGSNAME / VERSION]
-Governing Law: [RECHTSORDNUNG]
-Reviewer: [NAME]
-
-AMPEL-GESAMTBEWERTUNG: GRUEN / GELB / ROT
-
-KRITISCHE BEFUNDE (ROT)
-1. [Klausel / Abschnitt]: [Befund] — Risiko: [Beschreibung] — Empfehlung: [Konkrete Aenderung]
-
-KLAERUNGSBEDARF (GELB)
-1. [Klausel / Abschnitt]: [Befund] — Empfehlung: [...]
-
-NICHT-BEANSTANDET (GRUEN)
-- [Liste der geprueften und in Ordnung befundenen Punkte]
-
-OFFENE ANNAHMEN
-- [...]
-
-LOCAL-COUNSEL-BEDARF
-- [Ja/Nein; wenn ja: für welche Punkte]
-
-NAECHSTE SCHRITTE
-- [Schritt mit Frist und Verantwortlichem]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `remedies-damages-representations-warranties`
-
-_Mandant erleidet Schaden aus UK/US-Vertrag oder Delikt und fragt nach Rechtsfolgen: damages specific performance injunction rescission restitution equitable relief punitive damages. Prüfraster Remedy-Auswahl Schadensmass Equity-Voraussetzungen Enforcement. Output Remedy-Analyse Schadensberechnung..._
-
-# Remedies, Damages und Equity
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `UCC § 2-201` — Statute of Frauds für Warenkauf.
-- `UCC § 2-313` — express warranties.
-- `UCC § 2-314` — implied warranty of merchantability.
-- `Restatement (Second) of Contracts § 17` — formation by bargain.
-- `Restatement (Second) of Contracts § 71` — consideration.
-- `Restatement (Second) of Contracts § 90` — promissory estoppel.
-- `CISG Art. 14` — Angebot.
-- `CISG Art. 18` — Annahme.
-- `CISG Art. 25` — wesentliche Vertragsverletzung.
-- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
-- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann verwenden
-
-- bei Verträgen, Memos, Redlines, Übersetzungen oder Schulungen mit Common-Law-Bezug
-- wenn deutsche Rechtsbegriffe ins Englische übertragen werden
-- wenn UK/US-Unterschiede oder False Friends drohen
-
-## Rückfragen, wenn unklar
-
-- Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich?
-- Welche Partei oder Rolle vertreten wir?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
-- Welches Arbeitsprodukt wird gebraucht und wie eilig ist es?
-
-## Typische Fehler vermeiden
-
-- Bürgschaft, guarantee, suretyship und indemnity nicht gleichsetzen.
-- Consideration nicht als deutsche Gegenleistung behandeln.
-- UK, USA, New York, Delaware und UCC nicht vermischen.
-- Keine erfundenen Fälle oder Quellen verwenden.
-
-## Ton
-
-Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
-
-## Triage
-
-Before proceeding, clarify:
-1. Is the claim for breach of contract (expectation/reliance damages) or tort (compensatory/punitive)?
-2. Is equitable relief sought — injunction, specific performance, rescission, account of profits?
-3. Has the claimant mitigated loss?
-4. Is remoteness / foreseeability an issue (Hadley v Baxendale line)?
-
-## Key Case Law
-
-- **Hadley v Baxendale** (1854) 9 Exch 341 — Two limbs of remoteness: (1) naturally arising damages; (2) special circumstances communicated at time of contract; standard foreseeability test in contract.
-- **Robinson v Harman** (1848) 1 Exch 850 — Expectation measure: put the claimant in the position as if the contract had been performed.
-- **Victoria Laundry v Newman Industries** [1949] 2 KB 528 (CA) — Reasonable foreseeability of type of loss; special profits only if communicated.
-- **The Achilleas** [2008] UKHL 48, [2009] 1 AC 61 — Departure from Hadley: if parties intended loss to fall outside assumption of responsibility, no recovery even if foreseeable.
-- **American Cyanamid v Ethicon** [1975] AC 396 (HL) — Injunction (interlocutory): (1) serious issue to be tried; (2) damages not adequate remedy; (3) balance of convenience.
-
-## Normen und Quellen
-
-- **UK:** Misrepresentation Act 1967 s 2; Sale of Goods Act 1979 ss 51-54; Senior Courts Act 1981 s 37 (injunctions)
-- **US:** UCC § 2-711 to 2-715 (buyer's remedies); Restatement (Second) Contracts § 344-385
-- McGregor on Damages (21st ed. 2021) — standard UK damages reference
-- Farnsworth, Contracts (4th ed. 2004) — standard US reference
-
-## Output Template: Damages Assessment Memo
-
-**Addressee:** Client
-**Tone:** Commercially focused; quantified where possible
-
-```
-DAMAGES ASSESSMENT MEMO
-Date: [DATE] — Matter: [DESCRIPTION]
-Jurisdiction: [England/Wales / New York]
-
-1. MEASURE OF DAMAGES
- [ ] Expectation (put in position as if performed) — Est. value: GBP/USD [X]
- [ ] Reliance (expenses wasted in reliance on contract)
- [ ] Restitution (unjust enrichment; quantum meruit)
- [ ] Wasted expenditure
-
-2. HEADS OF LOSS
- a. Direct loss: GBP/USD [X]
- b. Consequential loss (foreseeable?): [YES — Hadley limb 2 / NO]
- c. Loss of profit: [Recoverable if communicated: ...]
- d. Non-pecuniary / distress: [Limited in commercial contracts]
-
-3. REMOTENESS
- Hadley v Baxendale test: [limb 1 / limb 2 — communicated?]
- Achilleas assumption of responsibility: [relevant / not relevant]
-
-4. MITIGATION
- Claimant mitigated?: [YES / NO — steps taken: ...]
- Deduction for failure to mitigate: [est. GBP/USD X]
-
-5. EQUITABLE RELIEF AVAILABLE?
- [ ] Injunction — American Cyanamid test: [serious issue / damages inadequate / balance of convenience]
- [ ] Specific performance — unique goods/property: [YES / NO]
- [ ] Account of profits — breach fiduciary duty: [applicable / not]
-
-6. TOTAL ESTIMATED RECOVERY
- Low: GBP/USD [X] — High: GBP/USD [Y]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `representations-warranties-covenants`
-
-_Anwalt ordnet Klauseln in Common-Law-Transaktionsvertraegen ein: reps warranties covenants conditions undertakings indemnities. Anwendungsfall SPA NDA oder Commercial Agreement. Prüfraster Klausel-Typ-Zuordnung Haftungsfolgen Survical-Period Breach-Remedies. Output Klausel-Klassifikation Risikoma..._
-
-# Representations, Warranties und Covenants
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `UCC § 2-201` — Statute of Frauds für Warenkauf.
-- `UCC § 2-313` — express warranties.
-- `UCC § 2-314` — implied warranty of merchantability.
-- `Restatement (Second) of Contracts § 17` — formation by bargain.
-- `Restatement (Second) of Contracts § 71` — consideration.
-- `Restatement (Second) of Contracts § 90` — promissory estoppel.
-- `CISG Art. 14` — Angebot.
-- `CISG Art. 18` — Annahme.
-- `CISG Art. 25` — wesentliche Vertragsverletzung.
-- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
-- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann verwenden
-
-- bei Verträgen, Memos, Redlines, Übersetzungen oder Schulungen mit Common-Law-Bezug
-- wenn deutsche Rechtsbegriffe ins Englische übertragen werden
-- wenn UK/US-Unterschiede oder False Friends drohen
-
-## Rückfragen, wenn unklar
-
-- Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich?
-- Welche Partei oder Rolle vertreten wir?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
-- Welches Arbeitsprodukt wird gebraucht und wie eilig ist es?
-
-## Typische Fehler vermeiden
-
-- Bürgschaft, guarantee, suretyship und indemnity nicht gleichsetzen.
-- Consideration nicht als deutsche Gegenleistung behandeln.
-- UK, USA, New York, Delaware und UCC nicht vermischen.
-- Keine erfundenen Fälle oder Quellen verwenden.
-
-## Ton
-
-Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
-
-## Triage
-
-Before proceeding, clarify:
-1. Is this an M&A context (SPA reps/warranties/indemnities) or a commercial contract?
-2. UK or US — fundamental difference in remedy for breach of warranty (UK: damages only) vs. US (varies by state)?
-3. Is there a disclosure letter limiting warranty liability (UK SPA practice)?
-4. Is there a limitation clause (basket, cap, time limit)?
-
-## Key Case Law
-
-- **Esso Petroleum v Mardon** [1976] QB 801 (CA) — Misrepresentation: pre-contractual representation becoming warranty requires: accuracy of information, reliance, negligence; damages under s 2(1) Misrepresentation Act 1967 as alternative to rescission.
-- **Thomas Witter v TBP Industries** [1996] 2 All ER 573 — Entire agreement clauses do not automatically exclude liability for misrepresentation; explicit non-reliance wording required.
-- **CBS Songs v Amstrad** [1988] AC 1013 (HL) — Covenant not to do something is absolute; a warranty is a statement of fact at time of contract; covenants run through time.
-- **Hooper v Oates** [2013] EWCA Civ 91 — Representations in SPAs: precise language matters; "knowledge qualifier" reduces warranty scope significantly.
-
-## Normen und Quellen
-
-- **UK:** Misrepresentation Act 1967; Consumer Rights Act 2015 (implied warranties B2C); Sale of Goods Act 1979 s 12-15
-- **US:** UCC § 2-312 to 2-315 (express/implied warranties); Restatement (Second) Contracts § 259-264 (covenants)
-- Sinclair, Warranties and Indemnities on Share and Asset Sales (11th ed. 2022)
-- Model M&A contract (ABA) — US SPA drafting reference
-
-## Output Template: Reps/Warranties/Covenants Matrix
-
-**Addressee:** Negotiation counterparty or internal deal team
-**Tone:** Deal-practical; risk-flagging
-
-```
-REPS / WARRANTIES / COVENANTS MATRIX
-Date: [DATE] — Deal: [DESCRIPTION]
-Jurisdiction: [England/Wales / New York / Delaware]
-
-No. | Type | Clause | Risk | Rec.
-----|------|--------|------|-----
-1 | Rep. | "[verbatim]" | [HIGH — no knowledge qualifier] | Add "to Seller's knowledge"
-2 | Warranty | "[verbatim]" | [MEDIUM — broad; cap?] | Add basket EUR/GBP [X]; cap [Y]
-3 | Covenant | "[verbatim]" | [LOW — time-limited 2 years] | OK
-4 | Indemnity | "[verbatim]" | [HIGH — uncapped tax indemnity] | Cap at transaction value
-
-GLOBAL ISSUES:
-- Limitation period: [UK: 7 years from Completion / US: 18 months typical]
-- Basket (de minimis): [EUR/GBP X — tipping or non-tipping?]
-- Cap: [EUR/GBP X / % of purchase price]
-- Disclosure letter: [comprehensive / not prepared yet]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `simulation-negotiation`
-
-_Anwalt oder Mandant will UK/US-Vertragsverhandlung oder Mandantengespraech simulieren und False-Friends-Lernkurve absolvieren. Prüfraster Verhandlungs-Simulation Issue-List-Erstellung Mandanten-Erklärung. Output Simulations-Szenario Verhandlungs-Script Lern-Feedback. Abgrenzung zu common-law-qual..._
-
-# Simulation und Verhandlungstraining
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `UCC § 2-201` — Statute of Frauds für Warenkauf.
-- `UCC § 2-313` — express warranties.
-- `UCC § 2-314` — implied warranty of merchantability.
-- `Restatement (Second) of Contracts § 17` — formation by bargain.
-- `Restatement (Second) of Contracts § 71` — consideration.
-- `Restatement (Second) of Contracts § 90` — promissory estoppel.
-- `CISG Art. 14` — Angebot.
-- `CISG Art. 18` — Annahme.
-- `CISG Art. 25` — wesentliche Vertragsverletzung.
-- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
-- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann verwenden
-
-- bei Verträgen, Memos, Redlines, Übersetzungen oder Schulungen mit Common-Law-Bezug
-- wenn deutsche Rechtsbegriffe ins Englische übertragen werden
-- wenn UK/US-Unterschiede oder False Friends drohen
-
-## Rückfragen, wenn unklar
-
-- Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich?
-- Welche Partei oder Rolle vertreten wir?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
-- Welches Arbeitsprodukt wird gebraucht und wie eilig ist es?
-
-## Typische Fehler vermeiden
-
-- Bürgschaft, guarantee, suretyship und indemnity nicht gleichsetzen.
-- Consideration nicht als deutsche Gegenleistung behandeln.
-- UK, USA, New York, Delaware und UCC nicht vermischen.
-- Keine erfundenen Fälle oder Quellen verwenden.
-
-## Ton
-
-Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
-
-## Triage vor Verhandlungssimulation
-
-Kläre vor dem Training:
-
-1. Reale oder fiktive Verhandlung — sollen echte Mandantendaten verwendet werden?
-2. Welche Partei spielt der Trainee — Käufer, Verkäufer, Kreditgeber, Target?
-3. Erfahrungsniveau: Erstes Jahr, Mittelstufe, Senior Associate?
-4. Welche Schlüsselklauseln sind Gegenstand der Simulation (MAC, Indemnity, Reps & Warranties, Pricing)?
-5. Soll die Simulation auf englisches Recht, New York Law oder einen hybriden Kontext ausgerichtet sein?
-
-## Key Case Law — Verhandlung und Good Faith
-
-- *Walford v Miles* [1992] 2 AC 128 (HL) — kein implied duty to negotiate in good faith im englischen Recht; Pre-Contractual-Verhandlungen binden grundsätzlich nicht, Lock-Out-Agreements ohne bestimmbare Laufzeit sind nichtig — ein fundamentaler Unterschied zu § 311 II BGB.
-- *Petromec Inc v Petroleo Brasileiro SA* [2005] EWCA Civ 891 — begrenzte Ausnahme: express duty of good faith in einem Teilvertrag kann bindend sein; wichtig für Trainingsszenarien mit NDA + Term Sheet.
-- *Pitt v PHH Asset Management Ltd* [1994] 1 WLR 327 (CA) — Lock-Out-Agreement mit bestimmter Laufzeit ist wirksam und durchsetzbar; zeigt Gestaltungsalternative zu Good-Faith-Klauseln.
-- *BCCI SA v Ali* [2001] UKHL 8 — weite Releases in Vergleichsverhandlungen; Parteien müssen klar und deutlich formulieren, wenn sie unbekannte Claims freigeben wollen — Lehrfall für Settlement-Training.
-
-## Normen und Quellen — Verhandlungsrecht
-
-**UK**
-- Contract (Rights of Third Parties) Act 1999 — Drittbegünstigte in Verhandlungsszenarien
-- Misrepresentation Act 1967 — vorvertragliche Falschangaben im Verhandlungsverlauf
-- Civil Evidence Act 1995 — admissibility von Without-Prejudice-Kommunikation
-
-**US**
-- Restatement (Second) of Contracts §§ 161-164 — Misrepresentation in Negotiations
-- UCC § 1-304 — obligation of good faith (bei UCC-Vertraegen, anders als Common Law)
-- FRCP Rule 408 — settlement communications (Beweis-Ausschluss)
-
-**Praxis**
-- Fisher/Ury/Patton, *Getting to Yes*, 3rd ed. 2011 — BATNA-Konzept
-- Mnookin/Peppet/Tulumello, *Beyond Winning*, 2000 — Lawyer-as-Negotiator
-
-## Simulationsszenarien — Übersicht
-
-| Szenario | Governing Law | Knackpunkt | Typischer Trainee-Fehler |
-|---|---|---|---|
-| SPA-Verhandlung (Tech-M&A) | English Law | MAC-Definition, Locked-Box vs Completion Accounts | MAC zu eng definieren |
-| NDA-Verhandlung | New York Law | Definition of Confidential Information, Residuals | "Residuals-Klausel" nicht bemerken |
-| Kreditvertrag | English Law (LMA) | Financial Covenants, Cure Rights | Equity Cure nicht verhandeln |
-| Settlement Agreement | English Law | Release-Breite, BCCI-Risiko | Unbekannte Claims freisetzen |
-| JV-Term Sheet | DE + English Law | Good-Faith-Pflicht vs. Walford v Miles | BGB-Standard auf englischen Vertrag anwenden |
-
-## Output-Template: Simulationsprotokoll
-
-**Adressat:** Trainer / Supervisorin — **Tonfall:** strukturiert, lernorientiert
-
-```
-VERHANDLUNGSSIMULATION — PROTOKOLL
-Datum: [DATUM]
-Szenario: [BEZEICHNUNG]
-Trainee: [NAME / ANONYMISIERT]
-Partei: [KAEUFER / VERKAEUFER / ...]
-Governing Law: [RECHTSORDNUNG]
-
-ERGEBNIS DER SIMULATION
-Einigungspunkte: [...]
-Offene Punkte: [...]
-Erreichtes BATNA-Ergebnis: [BESSER / SCHLECHTER / EINIGUNG]
-
-BEOBACHTUNGEN
-Staerken: [...]
-Entwicklungsbereiche: [...]
-
-FALSE-FRIENDS-VORFAELLE
-- [Begriff] wurde falsch verwendet: [Beschreibung] — Korrekt: [...]
-
-JURISTISCHE FEHLER
-- [Punkt] — Richtige Regel: [Kurz] — Fundstelle: [...]
-
-FEEDBACK-GESPRAECH
-Kernbotschaft: [1-2 Saetze]
-Naechster Uebungsschritt: [...]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
+## Einstieg
+Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
+
+1. Wer handelt in welcher Rolle und gegen wen?
+2. Welches praktische Ziel soll erreicht werden?
+3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
+4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
+5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
+
+## Arbeitsworkflow
+1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
+2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
+3. **Materielle Weichen:** Die Kernfragen zu **False Friends in Common-Law-Verträgen** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
+4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
+5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

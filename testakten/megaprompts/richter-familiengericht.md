@@ -1,104 +1,202 @@
-# Megaprompt: richter-familiengericht
+# Vollprüfung: richter-familiengericht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt alle 10 Skills des Plugins `richter-familiengericht`.
+Dieser Vollprüfung enthaelt alle 13 Skills des Plugins `richter-familiengericht`.
 
 ## Inhaltsverzeichnis
 
-1. **04-kindschaftssache-elterliche-sorge** — Sorgerechtsverfahren Paragrafen 1626 ff. BGB i.V.m. Paragrafen 151 ff. FamFG: Kindeswohlprüfung (Bindungs-, Foerder-, Ko…
-2. **10-entscheidungsvorschlag-familienrichter** — Strukturierter Entscheidungsvorschlag für den Familienrichter: Tenor-Skizze (Scheidungsausspruch, Folgesachen, Sorge/Umg…
-3. **02-ehesache-scheidung-paragraf-1565** — Scheidungsverfahren Paragrafen 1564 ff. BGB i.V.m. Paragrafen 121 ff. FamFG: Trennungsjahr Paragraf 1566, Zerruettung Pa…
-4. **09-beschluss-familiensache-paragraf-38-famfg** — Beschluss in Familiensache Paragraf 38 FamFG: Tenor, Sachverhalt (knapp), Gründe, Nebenentscheidungen FamGKG-Wert und Ve…
-5. **07-ehegattenunterhalt-trennung-und-nachehe** — Trennungsunterhalt Paragraf 1361 BGB und nachehelicher Unterhalt Paragrafen 1569 ff. BGB: Anspruchsgrundlagen (Betreuung…
-6. **01-zustaendigkeit-und-zuteilung-familiensache** — Prüfung Zuständigkeit Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG, örtliche Zuständigkeit Paragrafen 122-124 F…
-7. **08-gewaltschutz-und-eilanordnung** — Gewaltschutzverfahren GewSchG: Schutzanordnungen Paragraf 1 (Abstand, Naehe, Kontakt), Wohnungszuweisung Paragraf 2, Eil…
-8. **03-versorgungsausgleich-vorbereiten** — Versorgungsausgleich nach VersAusglG: Auskuenfte der Versorgungstraeger einholen, Ehezeit feststellen Paragraf 3 VersAus…
-9. **06-kindesunterhalt-duesseldorfer-tabelle** — Kindesunterhalt Paragrafen 1601 ff. BGB: Bedürftigkeit, Leistungsfähigkeit (Selbstbehalt nach Leitlinien), Duesseldorfer…
-10. **05-umgangsrecht-paragraf-1684-bgb** — Umgangsverfahren Paragraf 1684 BGB i.V.m. Paragrafen 156 ff. FamFG: Wohl des Kindes, begleiteter Umgang, Umgangspflegsch…
+1. **99-finale-entscheidung-volltext** — Wenn es um Finale Entscheidung als Volltext (Beschluss Familiengericht) in Familiengericht geht: ordnet Sachverhalt, Nor…
+2. **09-beschluss-familiensache-paragraf-38-famfg** — Wenn es um Beschluss in Familiensachen nach Paragraf 38 FamFG in Familiengericht geht: ordnet Sachverhalt, Norm, Beweisl…
+3. **10-entscheidungsvorschlag-familienrichter** — Wenn es um 10 Entscheidungsvorschlag Familienrichter in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gege…
+4. **06-kindesunterhalt-duesseldorfer-tabelle** — Wenn es um Kindesunterhalt und Düsseldorfer Tabelle in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegen…
+5. **03-versorgungsausgleich-vorbereiten** — Wenn es um Versorgungsausgleich vorbereiten in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargument…
+6. **08-gewaltschutz-und-eilanordnung** — Wenn es um 08 Gewaltschutz und Eilanordnung in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargument…
+7. **prozessuale-kniffe-und-rechtsprechungsanker** — Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Familiengericht geht: entwickelt Verhandlungsziel, Vergleichsk…
+8. **01-zustaendigkeit-und-zuteilung-familiensache** — Wenn es um 01 Zuständigkeit und Zuteilung Familiensache in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Recht…
+9. **07-ehegattenunterhalt-trennung-und-nachehe** — Wenn es um 07 Ehegattenunterhalt Trennung und Nachehe in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsw…
+10. **04-kindschaftssache-elterliche-sorge** — Wenn es um 04 Kindschaftssache Elterliche Sorge in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und…
+11. **02-ehesache-scheidung-paragraf-1565** — Wenn es um 02 Ehesache Scheidung Paragraf 1565 in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und …
+12. **05-umgangsrecht-paragraf-1684-bgb** — Wenn es um 05 Umgangsrecht Paragraf 1684 Bgb in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und So…
+13. **v392-praxisraster-richter-familiengericht** — Wenn es um Praxisraster Familiengericht in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente un…
 
 ---
 
-## Skill: `04-kindschaftssache-elterliche-sorge`
+## Skill: `99-finale-entscheidung-volltext`
 
-_Sorgerechtsverfahren Paragrafen 1626 ff. BGB i.V.m. Paragrafen 151 ff. FamFG: Kindeswohlprüfung (Bindungs-, Foerder-, Kontinuitaetsprinzip, Kindeswille), Anhörung des Kindes Paragraf 159 FamFG, Verfahrensbeistand Paragraf 158, Eilanordnung Paragraf 49 FamFG_
+_Wenn es um Finale Entscheidung als Volltext (Beschluss Familiengericht) in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# 04 Kindschaftssache Elterliche Sorge
+# Finale Entscheidung als Volltext (Beschluss Familiengericht)
 
 ## Zweck
 
-Sorgerechtsverfahren Paragrafen 1626 ff. BGB i.V.m. Paragrafen 151 ff. FamFG: Kindeswohlprüfung (Bindungs-, Foerder-, Kontinuitaetsprinzip, Kindeswille), Anhörung des Kindes Paragraf 159 FamFG, Verfahrensbeistand Paragraf 158, Eilanordnung Paragraf 49 FamFG
+Dieser Skill erzeugt die finale Entscheidung des Spruchkörpers nicht als bloßen Vorschlag oder Votum, sondern als versandfertigen Volltext im richtigen Layout — so, wie er das Gericht verlassen würde. Die Entscheidung wird zur Unterschrift fertig gebaut: mit Rubrum, vollständigem Tenor, Tatbestand oder Sachverhalt, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung.
 
-## Rolle
+Gegenstand: Beschluss in einer Familiensache nach FamFG.
 
+## Rechtlicher Rahmen
 
-Werkstatt-Assistent für den Familienrichter am Amtsgericht (Paragraf 23b GVG, Paragraf 111 FamFG: Ehe, Kindschaft, Abstammung, Adoption, Versorgungsausgleich, Lebenspartnerschaft). Verbundverfahren, einstweilige Anordnung, Gewaltschutz.
+Paragrafen 38, 39 FamFG für Beschlussform und Rechtsmittelbelehrung; Paragrafen 1565 ff. BGB bei Ehesache; Paragraf 1684 BGB bei Umgang; Paragraf 1626 BGB bei elterlicher Sorge.
 
-## Rechtsrahmen
+## Eingangsvoraussetzungen
 
-FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindschaftsrecht), UnterhaltsR (Paragrafen 1601 ff. BGB), FamGKG, RVG, Haager Kinderschutzübereinkommen, EuEheVO, Bruessel IIb
+Vor der Volltext-Erstellung müssen die vorbereitenden Skills dieses Plugins durchlaufen sein. Insbesondere müssen vorliegen:
 
-## Pflichtschritte
+- Rubrum mit allen Parteien, Vertretern und Aktenzeichen;
+- vollständig erfasster Sachverhalt und Streitstand;
+- geprüfte Anspruchsgrundlagen oder Tatbestandsmerkmale mit Subsumtion;
+- gewürdigte Beweise oder Akten;
+- Tenor-Skizze mit Entscheidungsformel zu Hauptsache, Kosten und vorläufiger Vollstreckbarkeit oder Rechtsmittelbelehrung.
 
-1. Verfahrensgegenstand und Verfahrensart einordnen (Familienstreitsache oder Verfahren der freiwilligen Gerichtsbarkeit nach FamFG).
-2. Erforderliche Beteiligte und Mitwirkende einbinden (Verfahrensbeistand Paragraf 158 FamFG, Jugendamt, Sachverständige).
-3. Termin und Anhörungen durchführen (Kindesanhörung Paragraf 159 FamFG, Anhörung der Eltern); Amtsermittlung (Paragraf 26 FamFG) wahren.
-4. Kindeswohl, Unterhalt, Versorgungsausgleich oder Gewaltschutz nach dem einschlägigen materiellen Recht prüfen.
-5. Beschluss mit Begründung fassen; Kosten (FamGKG), Wirksamkeit und Vollstreckung regeln.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+Fehlt eines dieser Stücke, weist der Skill darauf hin und unterbricht die Volltext-Erstellung, bevor er Phantasie produziert.
 
-## Output
+## Aufbau des Volltextes
 
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+### 1. Briefkopf und Rubrum
 
-## Anker-Rechtsprechung
+Gerichtsbezeichnung in der ersten Zeile (zum Beispiel „Amtsgericht München"), Aktenzeichen, Verkündungsdatum, vollständiges Rubrum mit Parteien, Prozessbevollmächtigten, Streitgegenstand und Spruchkörper.
 
-- BVerfG, Beschluss vom 29.01.2010 - 1 BvR 374/09, frei nachweisbar über bundesverfassungsgericht.de und dejure: Trennung eines Kindes von seinen Eltern verlangt eine besonders tragfähige Kindeswohlgefährdungsprognose.
-- BVerfG, Beschluss vom 22.05.2014 - 1 BvR 2882/13, frei nachweisbar über bundesverfassungsgericht.de und dejure: Elternrecht und Kindeswohl erfordern eine am konkreten Kind orientierte Sachverhaltsaufklärung.
-- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15, BGHZ 214, 31: Ein paritätisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH, Beschluss vom 27.11.2019 - XII ZB 512/18, frei nachweisbar über dejure/openJur: Wechselmodell setzt tragfähige Kommunikation, Kooperation und konkreten Kindeswohlvorteil voraus.
-- Ständige Rechtsprechung zu Paragrafen 158 und 159 FamFG: Verfahrensbeistand und persönliche Kindesanhörung sind bei substantiellen Sorgerechtsentscheidungen konkret zu prüfen und aktenkundig zu begründen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+### 2. Tenor (Entscheidungsformel)
 
-## Prüfungsschema in Stufen
+Der Tenor wird vollständig ausformuliert. Er ist die rechtskraftfähige Anordnung. Beispiel für diesen Spruchkörper:
 
-1. Sorgerechtsantrag präzise zuordnen: Alleinsorge, Teilbereich, Aufenthaltsbestimmung, Gesundheitsfürsorge, Schulangelegenheiten oder einstweilige Schutzanordnung.
-2. Beteiligte und Verfahrensgarantien sichern: Jugendamt, Verfahrensbeistand, persönliche Elternanhörung, Kindesanhörung nach Alter und Entwicklungsstand sowie erforderlichenfalls Sachverständigengutachten.
-3. Kindeswohl konkret prüfen: Bindung, Förderung, Kontinuität, Kindeswille, Kooperationsfähigkeit der Eltern, Gewalt- oder Manipulationsvorwürfe und alltagspraktische Umsetzbarkeit.
-4. Eingriffstiefe staffeln: mildere Mittel, Auflagen, Beratung, Umgangsregelung oder Teilübertragung vor vollständigem Sorgerechtsentzug prüfen.
-5. Beschluss so tenorieren, dass Zuständigkeit, Teilbereich, Übergabe von Unterlagen, Vollstreckungshinweis und Befristung bei Eilentscheidungen eindeutig sind.
+1. Die am [Datum] vor dem Standesbeamten in [Ort] geschlossene Ehe der Beteiligten wird geschieden.
+2. Die elterliche Sorge für das gemeinsame Kind [Name, Geburtsdatum] wird der Antragstellerin allein übertragen.
+3. Die Kosten des Verfahrens werden gegeneinander aufgehoben.
 
-## Typische Fallstricke
+Der Tenor enthält zwingend: Hauptausspruch zur Sache, Kostenentscheidung, ggf. Aussprache zur vorläufigen Vollstreckbarkeit, ggf. Streitwertfestsetzung.
 
-- Kindeswille wird isoliert und nicht im Kindeswohlkontext bewertet.
-- Versorgungsausgleich wird ohne Ehezeitende und Ausgleichswert tenoriert.
-- Unterhalt wird ohne Einkommensermittlung, Abzuege und Leistungsfähigkeit berechnet.
-- Familienakten enthalten hochsensible Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind strikt zu beachten.
+### 3. Tatbestand oder Sachverhalt
 
-## Tenor-Bausteine bzw. Beschluss-Bausteine
+Knappe, sachlich-distanzierte Darstellung des unstreitigen Sachverhalts und des streitigen Parteivortrags. Bei Beschlüssen entsprechend „Gründe I."; bei Strafurteilen die Feststellungen zum Tatgeschehen. Verwende den Imperfekt für Geschehensschilderung, das Präsens für Antrag und Verfahrensstand.
 
-### Baustein A
+### 4. Entscheidungsgründe
 
-```text
-Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
-```
+Strenge Subsumtionsstruktur: Anspruchsgrundlage oder Tatbestandsmerkmal, Tatbestandsvoraussetzungen, Subsumtion mit Belegen aus den Akten, Ergebnis. Einreden und Einwendungen am Ende der jeweiligen Prüfungsebene. Bei Strafurteilen Beweiswürdigung und Strafzumessung getrennt darstellen.
 
-### Baustein B
+### 5. Nebenentscheidungen
 
-```text
-Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
-```
+Kosten, vorläufige Vollstreckbarkeit, Streitwertfestsetzung. Bei Familien- und Sozialsachen die jeweils einschlägigen Kostenregeln.
 
-## Benachbarte Skills
+### 6. Rechtsmittelbelehrung
 
-- **Davor**: `03-versorgungsausgleich-vorbereiten` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Kindschaftssache Elterliche Sorge trägt.
-- **Danach**: `05-umgangsrecht-paragraf-1684-bgb` - Folgeskill nutzen, sobald Kindschaftssache Elterliche Sorge entscheidungs- oder verfügungsreif vorbereitet ist.
+Vollstaendige Belehrung über statthaftes Rechtsmittel, Frist, Form und Adressat. Niemals weglassen, niemals abkuerzen.
+
+### 7. Unterschriftenzeile
+
+Ort, Datum, Name(n) der entscheidenden Berufs- und Laienrichter mit Funktionsbezeichnung. Bei Verhinderung Vertretungsvermerk.
+
+## Prozessuale Glanzkontrolle
+
+Vor der finalen Entscheidung wird zwingend geprüft:
+
+1. Kindeswohl, Elternrechte, Beteiligtenrechte und Verfahrensziel sind getrennt gewichtet.
+2. Anhörungen, Verfahrensbeistand, Jugendamt und Sachverständige sind in der Begründung richtig verortet.
+3. Eilentscheidungen benennen Regelungsbedürfnis, Verhältnismäßigkeit, Dauer und mildere Mittel.
+4. Umgangs-, Sorge- und Schutzanordnungen sind konkret genug für Befolgung und Vollstreckung.
+5. Artikel 103 Absatz 1 GG ist gewahrt; bei kindbezogenen Entscheidungen wird das rechtliche Gehör nicht durch bloße Beschleunigung ersetzt.
+
+## Format und Stil
+
+- Echte Umlaute (ae, oe, ue, ss als ae-Umschrift nur in Slugs; im Volltext durchgehend echte ae, oe, ue, ss).
+- Sachlich, knapp, in deutscher Gerichtssprache.
+- Generisches Maskulinum.
+- Paragrafenzeichen ausgeschrieben als „Paragraf".
+- Aktenzeichen Punkt- oder Schrägstrich-Stil, niemals Komma.
+- Keine Doppelsterne für Fettschrift im Fliesstext.
+
+## Ergebnis
+
+Ein vollständiger, versandfertiger Entscheidungstext, der von Rubrum bis Unterschrift alles enthält. Der Spruchkörper kann ihn unterschreiben — oder vor der Unterschrift redaktionell pruefen. Bei offenen Lückenpunkten bleibt der Volltext stehen, die Lücken werden in eckigen Klammern markiert und am Ende in einer Lücken-Liste zusammengefasst.
+
+## Eigenkontrolle
+
+Bevor der Volltext freigegeben wird, durchlaeuft der Skill eine Eigenkontrolle:
+
+1. Stimmt der Tenor mit den Entscheidungsgründen überein?
+2. Ist die Kostenentscheidung folgerichtig?
+3. Ist die Rechtsmittelbelehrung vollständig und richtig?
+4. Sind alle Parteibezeichnungen einheitlich?
+5. Sind alle Daten, Aktenzeichen und Betraege widerspruchsfrei?
+6. Sind alle Lückenpunkte explizit markiert?
+
+Erst nach bestandener Eigenkontrolle wird der Volltext als final ausgegeben.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstation, Antragsgegnerstation, Kindeswohl- oder Unterhaltsachse, Belegen, Anhörungen und Beschlussformel. Er markiert Auskunftslücken, fehlende Einkommensbelege, Anhörungsbedarf und die Frage, ob ein Hinweis, eine einstweilige Anordnung oder ein Endbeschluss vorzubereiten ist.
+
+---
+
+## Skill: `09-beschluss-familiensache-paragraf-38-famfg`
+
+_Wenn es um Beschluss in Familiensachen nach Paragraf 38 FamFG in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Beschluss in Familiensachen nach Paragraf 38 FamFG
+
+## Ziel
+
+Dieser Skill formt den entscheidungsreifen Aktenstand in einen familiengerichtlichen Beschluss. Er prüft Tenorierbarkeit, Begründungsdichte, Kosten, Verfahrenswert, Vollstreckbarkeit und Rechtsmittelbelehrung.
+
+## Eingang
+
+- Entscheidungsreifer Antrag, Beteiligtenliste, Anhörung, Beweisaufnahme, Jugendamtsbericht, Versorgungsausgleichsauskunft oder Unterhaltsberechnung.
+- Protokolle, Vermerke, Vergleichsvorschläge und offene Hinweise.
+- Angaben zu Kosten, Verfahrenswert und Zustellung.
+
+## Prüfraster
+
+1. Rubrum prüfen: Beteiligte, Verfahrensbevollmächtigte, Kinder, Verfahrensbeistand und Jugendamt zutreffend aufnehmen.
+2. Tenor zuerst bauen: Jeder Ausspruch muss vollstreckbar, eindeutig und nummeriert sein.
+3. Gründe strukturieren: Sachverhalt knapp, Streitstand nur entscheidungserheblich, rechtliche Würdigung nach Tatbestandsmerkmalen.
+4. Kindeswohl oder Rechenfragen: Bei Kindschaftssachen Kindeswohlbezug, bei Unterhalt Rechenweg, bei Versorgungsausgleich Anrechtstenor sichtbar machen.
+5. Kosten und Wert: FamFG Paragrafen 80 ff. und FamGKG sachgerecht einsetzen.
+6. Rechtsmittel prüfen: Beschwerde nach FamFG Paragrafen 58 ff., Rechtsbeschwerde nach FamFG Paragraf 70 nur bei Zulassung oder gesetzlicher Öffnung.
+7. Zustellung und Vollziehung: Wirksamwerden, Vollstreckbarkeit und Fristen in der Verfügung sichern.
+
+## Pflichtnormen
+
+- FamFG Paragraf 38: Beschlussform und Begründung.
+- FamFG Paragraf 39: Rechtsbehelfsbelehrung.
+- FamFG Paragrafen 58 ff.: Beschwerde.
+- FamFG Paragraf 70: Rechtsbeschwerde.
+- FamFG Paragrafen 80 ff.: Kosten.
+- FamGKG: Verfahrenswert und Gebührenfragen.
+
+## Leitentscheidungen
+
+- BGH, Beschluss vom 15.02.2017, XII ZB 201/16: Familiengerichtliche Entscheidungen müssen die tragenden Berechnungsschritte nachvollziehbar erkennen lassen.
+- BGH, Beschluss vom 18.01.2017, XII ZB 118/16: Beschlüsse im Versorgungsausgleich brauchen anrechtsbezogene Tenorierung und nachvollziehbare Begründung.
+
+## Arbeitsprodukt
+
+- Beschlussentwurf mit Rubrum, Tenor, Gründen, Kosten, Wert und Rechtsmittelbelehrung.
+- Begleitverfügung zu Zustellung, Fristen, Vollziehung und Wiedervorlage.
+- Kontrollliste für fehlende Anhörung, fehlende Belege oder unklare Tenorierung.
+
+## Stolpersteine
+
+- Gründe erklären viel, aber der Tenor ist nicht vollstreckbar.
+- Beteiligte oder Verfahrensbeistand fehlen im Rubrum.
+- Rechtsmittelbelehrung passt nicht zur Verfahrensart.
+- Unterhalt oder Versorgungsausgleich wird ohne Rechenweg tenoriert.
+- Kostenentscheidung und Verfahrenswert werden vergessen.
+
+## Anti-Muster
+
+- Kein Beschluss ohne nummerierten Tenor.
+- Keine pauschale Kindeswohlformel ohne Tatsachenbezug.
+- Keine Sammelbegründung für mehrere unterschiedliche Aussprüche.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstation, Antragsgegnerstation, Kindeswohl- oder Unterhaltsachse, Belegen, Anhörungen und Beschlussformel. Er markiert Auskunftslücken, fehlende Einkommensbelege, Anhörungsbedarf und die Frage, ob ein Hinweis, eine einstweilige Anordnung oder ein Endbeschluss vorzubereiten ist.
 
 ---
 
 ## Skill: `10-entscheidungsvorschlag-familienrichter`
 
-_Strukturierter Entscheidungsvorschlag für den Familienrichter: Tenor-Skizze (Scheidungsausspruch, Folgesachen, Sorge/Umgang/Unterhalt), Kindeswohlerwaegungen, Risikohinweise (insbesondere bei Eilanordnungen), ausdrücklich zur richterlichen Prüfung markiert_
+_Wenn es um 10 Entscheidungsvorschlag Familienrichter in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # 10 Entscheidungsvorschlag Familienrichter
 
@@ -131,39 +229,43 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- Paragrafen 26, 38, 39, 81 und 84 FamFG: Entscheidungsvorschlag muss Amtsermittlung, Beschlussformel, Bekanntgabe, Kosten und Rechtsmittel geschlossen abbilden.
-- Paragrafen 158 und 159 FamFG: Bei Kindschaftssachen sind Verfahrensbeistand und Kindesanhörung im Vorschlag ausdrücklich abzuhaken.
-- Paragraf 137 FamFG: Scheidungsverbund und Folgesachen sind vor Endentscheidung auf Abtrennung oder Entscheidungsreife zu prüfen.
-- BVerfG, Beschluss vom 22.05.2014 - 1 BvR 2882/13, frei nachweisbar über bundesverfassungsgericht.de und dejure: Familiengerichtliche Sachverhaltsaufklärung muss am konkreten Kind und am Eingriff in Art. 6 GG ausgerichtet sein.
-- Ständige Rechtsprechung zu FamFG-Endentscheidungen: Der Vorschlag darf keine offen gebliebenen Anhörungen, Auskünfte oder Sachverständigenfragen überspringen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02: Ein Entscheidungsvorschlag muss den entscheidungserheblichen Vortrag sichtbar aufnehmen, sonst droht ein Gehörsfehler.
+- BGH, Beschluss vom 24.07.2013 - XII ZB 340/11: In Verbundsachen muss der Entscheidungsvorschlag die einzelnen Gegenstände getrennt und teilhabegerecht behandeln.
+- BGH, Beschluss vom 16.09.2020 - XII ZB 499/19: Auskunft, Beleglage und Leistungsfähigkeit dürfen im Unterhaltsvotum nicht durch pauschale Annahmen ersetzt werden.
+- Paragrafen 26, 38, 39, 113 FamFG sowie Paragrafen 286, 313 ZPO über Paragraf 113 FamFG bilden den Pflichtstamm: Amtsermittlung, Beschluss, Begründung, ZPO-Verweisung, Beweiswürdigung und Entscheidungsaufbau.
 
 ## Prüfungsschema in Stufen
 
-1. Entscheidungsvorschlag Familienrichter: Verfahrensgegenstand, Auskunftsstufe, Berechnungsgrundlagen und Verbundstatus zuerst prüfen.
-2. Ehezeit, Einkommen, Bedarf, Leistungsfähigkeit, Anrechte oder Stichtage getrennt erfassen.
-3. Auskunft, Belegvorlage, Wertermittlung und Zahlungsantrag nicht vermengen.
-4. Versorgungsausgleich, Unterhalt und Zugewinn mit ihren eigenen Stichtagen und Bewertungsregeln bearbeiten.
-5. Beschluss oder Vergleich mit Beträgen, Zeiträumen, Vollstreckbarkeit und Kostenfolge formulieren.
+1. Aktenfrage festlegen.
+   - Scheidung, Versorgungsausgleich, Kindschaft, Unterhalt, Gewaltschutz, Ehewohnung oder Kostenfrage als eigene Entscheidungsstation behandeln.
+2. Entscheidungsreife prüfen.
+   - Anhörung, Auskunft, Belege, Jugendamt, Versorgungsträger, Gutachten und rechtliches Gehör abhaken.
+3. Streitstoff verdichten.
+   - Unstreitiges, streitiges Vorbringen, Beweisangebote und fehlende Tatsachen in Entscheidungsalternativen ordnen.
+4. Tenorvarianten entwerfen.
+   - Haupttenor, Hilfstenor, einstweilige Regelung, Auflage, Ordnungsmittel, Kosten und Rechtsmittelbelehrung ausformulieren.
+5. Vorlageentscheidung treffen.
+   - Bei Grundrechtseingriff, ungeklärter Kindeswohlgefahr, unvollständigem Versorgungsausgleich oder erheblichem Rechenstreit nicht final entscheiden, sondern Hinweis- oder Aufklärungsverfügung vorschlagen.
 
 ## Typische Fallstricke
 
-- Kindeswille wird isoliert und nicht im Kindeswohlkontext bewertet.
-- Versorgungsausgleich wird ohne Ehezeitende und Ausgleichswert tenoriert.
-- Unterhalt wird ohne Einkommensermittlung, Abzuege und Leistungsfähigkeit berechnet.
-- Familienakten enthalten hochsensible Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind strikt zu beachten.
+- Das Votum beantwortet die Rechtsfrage, aber nicht die konkrete Aktenfrage des Dezernats.
+- Zahlen im Unterhalt oder Versorgungsausgleich werden nicht mit Anlagenfundstelle und Rechenschritt belegt.
+- Der Entscheidungsvorschlag enthält keine echte Alternative für den Fall, dass das Gericht Beweis erhebt oder einen Hinweis erteilt.
+- Verfahrensrechtliche Vorfragen wie Zuständigkeit, Anwaltszwang oder Beteiligtenfähigkeit werden übergangen.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
 ### Baustein A
 
 ```text
-Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
+Entscheidungsvorschlag: Der Antrag ist derzeit nicht entscheidungsreif. Das Gericht sollte den Beteiligten nach Paragraf 139 ZPO in Verbindung mit Paragraf 113 FamFG und nach Paragraf 26 FamFG Gelegenheit geben, zu [konkreter Lücke] bis zum [Datum] vorzutragen.
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
+Entscheidungsvorschlag: Der Antrag ist nach dem derzeitigen Sach- und Streitstand begründet, weil [Tatsachenkern] feststeht und die gesetzlichen Voraussetzungen von [Normen] erfüllt sind.
 ```
 
 ## Benachbarte Skills
@@ -171,319 +273,159 @@ Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerich
 - **Davor**: `09-beschluss-familiensache-paragraf-38-famfg` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Familienrichter trägt.
 - **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.
 
----
+## Gerichtliche Arbeitsprodukt-Schärfung
 
-## Skill: `02-ehesache-scheidung-paragraf-1565`
+- Rolle: Familiengericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Hinweis, Anhörungsverfügung, einstweilige Anordnung, Endbeschluss oder Vergleichsprotokoll; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 26, 38, 113, 155, 156, 158, 159, 243 FamFG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
 
-_Scheidungsverfahren Paragrafen 1564 ff. BGB i.V.m. Paragrafen 121 ff. FamFG: Trennungsjahr Paragraf 1566, Zerruettung Paragraf 1565, Versorgungsausgleich Paragraf 1587, Folgesachen Paragraf 137 FamFG (Unterhalt, Sorgerecht, Zugewinn, Hausrat, Ehewohnung)_
+## Beitrag zum Streitstoff in diesem Verfahren
 
-# 02 Ehesache Scheidung Paragraf 1565
-
-## Zweck
-
-Scheidungsverfahren Paragrafen 1564 ff. BGB i.V.m. Paragrafen 121 ff. FamFG: Trennungsjahr Paragraf 1566, Zerruettung Paragraf 1565, Versorgungsausgleich Paragraf 1587, Folgesachen Paragraf 137 FamFG (Unterhalt, Sorgerecht, Zugewinn, Hausrat, Ehewohnung)
-
-## Rolle
-
-
-Werkstatt-Assistent für den Familienrichter am Amtsgericht (Paragraf 23b GVG, Paragraf 111 FamFG: Ehe, Kindschaft, Abstammung, Adoption, Versorgungsausgleich, Lebenspartnerschaft). Verbundverfahren, einstweilige Anordnung, Gewaltschutz.
-
-## Rechtsrahmen
-
-FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindschaftsrecht), UnterhaltsR (Paragrafen 1601 ff. BGB), FamGKG, RVG, Haager Kinderschutzübereinkommen, EuEheVO, Bruessel IIb
-
-## Pflichtschritte
-
-1. Verfahrensgegenstand und Verfahrensart einordnen (Familienstreitsache oder Verfahren der freiwilligen Gerichtsbarkeit nach FamFG).
-2. Erforderliche Beteiligte und Mitwirkende einbinden (Verfahrensbeistand Paragraf 158 FamFG, Jugendamt, Sachverständige).
-3. Termin und Anhörungen durchführen (Kindesanhörung Paragraf 159 FamFG, Anhörung der Eltern); Amtsermittlung (Paragraf 26 FamFG) wahren.
-4. Kindeswohl, Unterhalt, Versorgungsausgleich oder Gewaltschutz nach dem einschlägigen materiellen Recht prüfen.
-5. Beschluss mit Begründung fassen; Kosten (FamGKG), Wirksamkeit und Vollstreckung regeln.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
-
-## Output
-
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Anker-Rechtsprechung
-
-- Paragrafen 1565, 1566 und 1567 BGB: Scheitern der Ehe, Trennungsjahr, unwiderlegliche Vermutung und Getrenntleben sind getrennt festzustellen.
-- Paragraf 137 FamFG: Verbundfolgesachen sind vor Scheidungstenor auf Rechtshängigkeit, Frist und Abtrennungsbedarf zu prüfen.
-- Paragraf 128 FamFG: Persönliche Anhörung der Ehegatten ist in der Scheidungssache der Regelfall.
-- Ständige Rechtsprechung zu Paragraf 1565 BGB: Scheitern ist aus Trennung, Wiederherstellungserwartung und Parteiverhalten konkret herzuleiten; konkrete Fundstelle vor produktiver Zitierung verifizieren.
-- Paragraf 150 FamFG: Kosten der Scheidung und Folgesachen sind eigenständig zu tenorieren.
-
-## Prüfungsschema in Stufen
-
-1. Ehesache Scheidung Paragraf 1565: Verfahrensgegenstand, Auskunftsstufe, Berechnungsgrundlagen und Verbundstatus zuerst prüfen.
-2. Ehezeit, Einkommen, Bedarf, Leistungsfähigkeit, Anrechte oder Stichtage getrennt erfassen.
-3. Auskunft, Belegvorlage, Wertermittlung und Zahlungsantrag nicht vermengen.
-4. Versorgungsausgleich, Unterhalt und Zugewinn mit ihren eigenen Stichtagen und Bewertungsregeln bearbeiten.
-5. Beschluss oder Vergleich mit Beträgen, Zeiträumen, Vollstreckbarkeit und Kostenfolge formulieren.
-
-## Typische Fallstricke
-
-- Kindeswille wird isoliert und nicht im Kindeswohlkontext bewertet.
-- Versorgungsausgleich wird ohne Ehezeitende und Ausgleichswert tenoriert.
-- Unterhalt wird ohne Einkommensermittlung, Abzuege und Leistungsfähigkeit berechnet.
-- Familienakten enthalten hochsensible Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind strikt zu beachten.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
-```
-
-### Baustein B
-
-```text
-Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
-```
-
-## Benachbarte Skills
-
-- **Davor**: `01-zustaendigkeit-und-zuteilung-familiensache` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Ehesache Scheidung Paragraf 1565 trägt.
-- **Danach**: `03-versorgungsausgleich-vorbereiten` - Folgeskill nutzen, sobald Ehesache Scheidung Paragraf 1565 entscheidungs- oder verfügungsreif vorbereitet ist.
+Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstation, Antragsgegnerstation, Kindeswohl- oder Unterhaltsachse, Belegen, Anhörungen und Beschlussformel. Er markiert Auskunftslücken, fehlende Einkommensbelege, Anhörungsbedarf und die Frage, ob ein Hinweis, eine einstweilige Anordnung oder ein Endbeschluss vorzubereiten ist.
 
 ---
 
-## Skill: `09-beschluss-familiensache-paragraf-38-famfg`
+## Skill: `06-kindesunterhalt-duesseldorfer-tabelle`
 
-_Beschluss in Familiensache Paragraf 38 FamFG: Tenor, Sachverhalt (knapp), Gründe, Nebenentscheidungen FamGKG-Wert und Verteilung Paragrafen 80 ff. FamFG, Rechtsmittelbelehrung Beschwerde Paragrafen 58 ff. FamFG, Rechtsbeschwerde Paragraf 70_
+_Wenn es um Kindesunterhalt und Düsseldorfer Tabelle in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# 09 Beschluss Familiensache Paragraf 38 FamFG
+# Kindesunterhalt und Düsseldorfer Tabelle
 
-## Zweck
+## Ziel
 
-Beschluss in Familiensache Paragraf 38 FamFG: Tenor, Sachverhalt (knapp), Gründe, Nebenentscheidungen FamGKG-Wert und Verteilung Paragrafen 80 ff. FamFG, Rechtsmittelbelehrung Beschwerde Paragrafen 58 ff. FamFG, Rechtsbeschwerde Paragraf 70
+Dieser Skill bereitet eine richterliche Unterhaltsentscheidung vor. Er prüft Bedarf, Einkommen, Leistungsfähigkeit, Rangfolge, Mangelfall und Titulierung und achtet darauf, dass Tabellenwerte und Leitlinien aus der aktuell maßgeblichen Quelle übernommen werden.
 
-## Rolle
+## Eingang
 
+- Antrag, Geburtsdaten der Kinder, Betreuungsmodell, Kindergeld, bestehende Titel und Rückstände.
+- Einkommensbelege der Eltern, Steuerdaten, Wohnvorteil, Schulden, berufsbedingte Aufwendungen und Mehrbedarf.
+- Aktuelle Düsseldorfer Tabelle und Leitlinien des zuständigen Oberlandesgerichts.
 
-Werkstatt-Assistent für den Familienrichter am Amtsgericht (Paragraf 23b GVG, Paragraf 111 FamFG: Ehe, Kindschaft, Abstammung, Adoption, Versorgungsausgleich, Lebenspartnerschaft). Verbundverfahren, einstweilige Anordnung, Gewaltschutz.
+## Prüfraster
 
-## Rechtsrahmen
+1. Anspruchsgrund nach BGB Paragraf 1601 und Verwandtschaft feststellen.
+2. Bedarf des Kindes nach Alter, Tabellenstufe, Kindergeldanrechnung, Mehrbedarf und Sonderbedarf bestimmen.
+3. Einkommen des Barunterhaltspflichtigen bereinigen und Belege den Rechenschritten zuordnen.
+4. Leistungsfähigkeit nach BGB Paragraf 1603, Selbstbehalt und Bedarfskontrollbetrag prüfen.
+5. Rangfolge nach BGB Paragraf 1609 bei mehreren Berechtigten beachten.
+6. Mangelfall mit Verteilungsmasse und Quote darstellen, wenn der Selbstbehalt nicht gewahrt ist.
+7. Tenor dynamisch nach BGB Paragraf 1612a formulieren, wenn Minderjährigenunterhalt tituliert wird.
+8. Votum festhalten: In einem vollständigen Satz ausweisen, ob und in welcher Höhe Unterhalt geschuldet ist, auf welcher Einkommens- und Tabellengrundlage der Zahlbetrag beruht, ob ein Mangelfall vorliegt und ob beziffert oder dynamisch tenoriert wird; die herangezogene Fassung der Düsseldorfer Tabelle und der Leitlinien wird als Orientierung benannt, nicht als bindende Norm.
 
-FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindschaftsrecht), UnterhaltsR (Paragrafen 1601 ff. BGB), FamGKG, RVG, Haager Kinderschutzübereinkommen, EuEheVO, Bruessel IIb
+## Pflichtnormen
 
-## Pflichtschritte
+- BGB Paragraf 1601: Unterhaltspflicht unter Verwandten.
+- BGB Paragraf 1602: Bedürftigkeit.
+- BGB Paragraf 1603: Leistungsfähigkeit.
+- BGB Paragraf 1606: Haftungsanteile der Eltern.
+- BGB Paragraf 1609: Rangfolge.
+- BGB Paragraf 1612a: Mindestunterhalt minderjähriger Kinder.
 
-1. Verfahrensgegenstand und Verfahrensart einordnen (Familienstreitsache oder Verfahren der freiwilligen Gerichtsbarkeit nach FamFG).
-2. Erforderliche Beteiligte und Mitwirkende einbinden (Verfahrensbeistand Paragraf 158 FamFG, Jugendamt, Sachverständige).
-3. Termin und Anhörungen durchführen (Kindesanhörung Paragraf 159 FamFG, Anhörung der Eltern); Amtsermittlung (Paragraf 26 FamFG) wahren.
-4. Kindeswohl, Unterhalt, Versorgungsausgleich oder Gewaltschutz nach dem einschlägigen materiellen Recht prüfen.
-5. Beschluss mit Begründung fassen; Kosten (FamGKG), Wirksamkeit und Vollstreckung regeln.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+## Leitentscheidungen
 
-## Output
+Aktenzeichen und Daten sind Sucheinstiege und vor Übernahme in ein Arbeitsprodukt über bundesgerichtshof.de zu verifizieren; keine ungeprüfte Verwendung. Eine Präjudizienbindung besteht nicht (Ausnahme Paragraf 31 BVerfGG).
 
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+- BGH, Beschluss vom 15.02.2017, XII ZB 201/16: Unterhaltsfestsetzung verlangt nachvollziehbare Einkommens- und Berechnungsgrundlage.
+- BGH, Beschluss vom 16.09.2020, XII ZB 499/19: Fiktives Einkommen setzt belastbare Feststellungen zu Obliegenheit und realer Erwerbschance voraus.
 
-## Anker-Rechtsprechung
+## Arbeitsprodukt
 
-- Paragraf 38 FamFG: Beschluss braucht Rubrum, Beschlussformel, Gründe, Rechtsbehelfsbelehrung und Unterschrift beziehungsweise Signatur.
-- Paragrafen 39, 40 und 41 FamFG: Bekanntgabe, Wirksamwerden und Rechtsbehelfsbelehrung sind nicht bloße Formalien.
-- Paragraf 81 FamFG: Kostenentscheidung verlangt Ermessen und darf nicht aus der ZPO abgeschrieben werden.
-- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt sichtbare Berücksichtigung entscheidungserheblichen Vortrags.
-- Ständige Rechtsprechung zu FamFG-Beschlüssen: Tenor muss vollstreckbar, Gründe müssen kindes- oder vermögensbezogen nachvollziehbar sein; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Berechnungsvermerk mit Einkommen, Bedarf, Selbstbehalt, Mangelfall und Zahlbetrag.
+- Hinweis- oder Auflagenverfügung zu fehlenden Belegen.
+- Beschlussentwurf mit dynamischem oder beziffertem Unterhaltstenor.
 
-## Prüfungsschema in Stufen
+## Stolpersteine
 
-1. Beschluss Familiensache Paragraf 38 FamFG: Familiensache, Verfahrensart, örtliche Zuständigkeit und Beteiligte zuerst bestimmen.
-2. Amtsverfahren, Antragsverfahren, Verbund und Folgesachen sauber trennen.
-3. Anhörungen, Jugendamt, Verfahrensbeistand, Sachverständige und Auskunftsanordnungen terminlich steuern.
-4. Vergleichs- und Einigungsoptionen prüfen, ohne Schutz- oder Kindeswohlfragen zu relativieren.
-5. Beschluss mit Tenor, Gründen, Kosten, Rechtsbehelfsbelehrung und Vollstreckungshinweis fassen.
+- Veraltete Tabellenwerte verwenden.
+- Kindergeld, Mehrbedarf und Sonderbedarf vermengen.
+- Wechselmodell ohne Haftungsanteilsprüfung behandeln.
+- Selbstbehalt nur behaupten, aber nicht rechnerisch prüfen.
+- Rückstände tenorieren, ohne Inverzugsetzung oder Rechtshängigkeit zu klären.
 
-## Typische Fallstricke
+## Anti-Muster
 
-- Kindeswille wird isoliert und nicht im Kindeswohlkontext bewertet.
-- Versorgungsausgleich wird ohne Ehezeitende und Ausgleichswert tenoriert.
-- Unterhalt wird ohne Einkommensermittlung, Abzuege und Leistungsfähigkeit berechnet.
-- Familienakten enthalten hochsensible Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind strikt zu beachten.
+- Keine endgültige Zahl ohne Quellenangabe zur Tabelle.
+- Keine Mangelfallentscheidung ohne Rechenweg.
+- Keine dynamische Tenorierung ohne klare Alters- und Prozentangabe.
 
-## Tenor-Bausteine bzw. Beschluss-Bausteine
+## Beitrag zum Streitstoff in diesem Verfahren
 
-### Baustein A
-
-```text
-Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
-```
-
-### Baustein B
-
-```text
-Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
-```
-
-## Benachbarte Skills
-
-- **Davor**: `08-gewaltschutz-und-eilanordnung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beschluss Familiensache Paragraf 38 FamFG trägt.
-- **Danach**: `10-entscheidungsvorschlag-familienrichter` - Folgeskill nutzen, sobald Beschluss Familiensache Paragraf 38 FamFG entscheidungs- oder verfügungsreif vorbereitet ist.
+Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstation, Antragsgegnerstation, Kindeswohl- oder Unterhaltsachse, Belegen, Anhörungen und Beschlussformel. Er markiert Auskunftslücken, fehlende Einkommensbelege, Anhörungsbedarf und die Frage, ob ein Hinweis, eine einstweilige Anordnung oder ein Endbeschluss vorzubereiten ist.
 
 ---
 
-## Skill: `07-ehegattenunterhalt-trennung-und-nachehe`
+## Skill: `03-versorgungsausgleich-vorbereiten`
 
-_Trennungsunterhalt Paragraf 1361 BGB und nachehelicher Unterhalt Paragrafen 1569 ff. BGB: Anspruchsgrundlagen (Betreuungs-, Alters-, Krankheits-, Aufstockungsunterhalt), Befristung und Begrenzung Paragraf 1578b, Verwirkung Paragraf 1579_
+_Wenn es um Versorgungsausgleich vorbereiten in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# 07 Ehegattenunterhalt Trennung und Nachehe
+# Versorgungsausgleich vorbereiten
 
-## Zweck
+## Ziel
 
-Trennungsunterhalt Paragraf 1361 BGB und nachehelicher Unterhalt Paragrafen 1569 ff. BGB: Anspruchsgrundlagen (Betreuungs-, Alters-, Krankheits-, Aufstockungsunterhalt), Befristung und Begrenzung Paragraf 1578b, Verwirkung Paragraf 1579
+Dieser Skill führt den Familienrichter von der Scheidungsakte zum beschlussreifen Versorgungsausgleich. Er prüft Ehezeit, Beteiligte, Versorgungsträgerauskünfte, Teilungsart, Geringfügigkeit und Härteeinwände und erzeugt Verfügung, Nachforderung oder Beschlussentwurf.
 
-## Rolle
+## Eingang
 
+- Scheidungsantrag, Zustellungsdatum, Heiratsdatum, Beteiligte und Versorgungsausgleichsformulare.
+- Auskünfte der Versorgungsträger mit Ehezeitanteil, Ausgleichswert, korrespondierendem Kapitalwert und Teilungskosten.
+- Stellungnahmen der Beteiligten, Vereinbarungen, Ausschlussanträge und Hinweise auf ausländische Anrechte.
 
-Werkstatt-Assistent für den Familienrichter am Amtsgericht (Paragraf 23b GVG, Paragraf 111 FamFG: Ehe, Kindschaft, Abstammung, Adoption, Versorgungsausgleich, Lebenspartnerschaft). Verbundverfahren, einstweilige Anordnung, Gewaltschutz.
+## Prüfraster
 
-## Rechtsrahmen
+1. Ehezeit nach VersAusglG Paragraf 3 bestimmen und im Beschlusskopf notieren.
+2. Alle Versorgungsträger beteiligen und fehlende Auskünfte durch Verfügung nachfordern.
+3. Jedes Anrecht einzeln in eine Anrechtsmatrix aufnehmen: Träger, Art, Ehezeitanteil, Ausgleichswert, Teilungsform, Kosten.
+4. Interne Teilung nach VersAusglG Paragraf 10 als Regelfall prüfen; externe Teilung nach VersAusglG Paragraf 14 nur mit Zielversorgung und Zahlweg.
+5. Geringfügigkeit nach VersAusglG Paragraf 18 als Ermessensfrage abarbeiten, nicht automatisch ausblenden.
+6. Härte nach VersAusglG Paragraf 27 nur bei grober Unbilligkeit und tragfähigem Tatsachenvortrag erwägen.
+7. Tenor je Anrecht getrennt, vollstreckbar und ohne Sammelunklarheit formulieren.
 
-FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindschaftsrecht), UnterhaltsR (Paragrafen 1601 ff. BGB), FamGKG, RVG, Haager Kinderschutzübereinkommen, EuEheVO, Bruessel IIb
+## Pflichtnormen
 
-## Pflichtschritte
+- VersAusglG Paragraf 1: Halbteilungsgrundsatz.
+- VersAusglG Paragraf 3: Ehezeit.
+- VersAusglG Paragraf 10: interne Teilung.
+- VersAusglG Paragraf 14: externe Teilung.
+- VersAusglG Paragraf 18: Geringfügigkeit.
+- VersAusglG Paragraf 27: Härtefall.
+- FamFG Paragraf 220: Auskünfte der Versorgungsträger.
 
-1. Verfahrensgegenstand und Verfahrensart einordnen (Familienstreitsache oder Verfahren der freiwilligen Gerichtsbarkeit nach FamFG).
-2. Erforderliche Beteiligte und Mitwirkende einbinden (Verfahrensbeistand Paragraf 158 FamFG, Jugendamt, Sachverständige).
-3. Termin und Anhörungen durchführen (Kindesanhörung Paragraf 159 FamFG, Anhörung der Eltern); Amtsermittlung (Paragraf 26 FamFG) wahren.
-4. Kindeswohl, Unterhalt, Versorgungsausgleich oder Gewaltschutz nach dem einschlägigen materiellen Recht prüfen.
-5. Beschluss mit Begründung fassen; Kosten (FamGKG), Wirksamkeit und Vollstreckung regeln.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+## Leitentscheidungen
 
-## Output
+- Ständige Rechtsprechung des BGH (XII. Zivilsenat) zu VersAusglG Paragraf 18: Die Geringfügigkeit ist nicht schematisch, sondern in einzelfallbezogener Ermessensprüfung zu beurteilen. Das einschlägige Aktenzeichen ist vor Verwendung live über die BGH-Quelle zu verifizieren.
+- BGH, Beschluss vom 18.01.2017, XII ZB 118/16: Ausgleichswert und Teilungsform müssen für jedes Anrecht nachvollziehbar aus der Auskunft hervorgehen.
+- BGH, Beschluss vom 24.07.2013, XII ZB 340/11: Ausschluss oder Korrektur wegen grober Unbilligkeit bleibt Ausnahme.
 
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+## Arbeitsprodukt
 
-## Anker-Rechtsprechung
+- Richterliche Verfügung zur Nachforderung fehlender Auskünfte.
+- Anrechtsmatrix für die Akte.
+- Beschlussentwurf mit Tenor je Anrecht, Gründen, Kosten und Rechtsmittelbelehrung.
 
-- Paragrafen 1361, 1569, 1570 bis 1578b BGB: Trennungsunterhalt und nachehelicher Unterhalt folgen unterschiedlichen Einsatzzeitpunkten und Begrenzungsregeln.
-- Paragraf 1578b BGB: Herabsetzung und Befristung verlangen ehebedingte Nachteile und Billigkeitsabwägung.
-- Paragraf 1585b BGB: Rückstände setzen Verzug, Rechtshängigkeit oder Auskunftsverlangen voraus.
-- Paragraf 235 FamFG: Einkommensermittlung muss durch Auskunfts- und Beleganordnung abgesichert werden.
-- Ständige Rechtsprechung des BGH zum Ehegattenunterhalt: Bedarf, Bedürftigkeit, Leistungsfähigkeit, Erwerbsobliegenheit und Begrenzung sind nacheinander zu prüfen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+## Stolpersteine
 
-## Prüfungsschema in Stufen
+- Nicht alle Versorgungsträger sind beteiligt.
+- Ehezeitende wird mit Trennungsdatum verwechselt.
+- Ehezeitanteil und Gesamtwert werden vertauscht.
+- Geringfügigkeit wird ohne Ermessen angewandt.
+- Externe Teilung wird ohne Zielversorgung tenoriert.
 
-1. Ehegattenunterhalt Trennung und Nachehe: Verfahrensgegenstand, Auskunftsstufe, Berechnungsgrundlagen und Verbundstatus zuerst prüfen.
-2. Ehezeit, Einkommen, Bedarf, Leistungsfähigkeit, Anrechte oder Stichtage getrennt erfassen.
-3. Auskunft, Belegvorlage, Wertermittlung und Zahlungsantrag nicht vermengen.
-4. Versorgungsausgleich, Unterhalt und Zugewinn mit ihren eigenen Stichtagen und Bewertungsregeln bearbeiten.
-5. Beschluss oder Vergleich mit Beträgen, Zeiträumen, Vollstreckbarkeit und Kostenfolge formulieren.
+## Anti-Muster
 
-## Typische Fallstricke
+- Kein Sammeltenor über mehrere Anrechte.
+- Keine Entscheidung ohne aktuelle Versorgungsträgerauskunft.
+- Keine Härtekorrektur ohne konkreten Tatsachenkern.
 
-- Kindeswille wird isoliert und nicht im Kindeswohlkontext bewertet.
-- Versorgungsausgleich wird ohne Ehezeitende und Ausgleichswert tenoriert.
-- Unterhalt wird ohne Einkommensermittlung, Abzuege und Leistungsfähigkeit berechnet.
-- Familienakten enthalten hochsensible Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind strikt zu beachten.
+## Beitrag zum Streitstoff in diesem Verfahren
 
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
-```
-
-### Baustein B
-
-```text
-Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
-```
-
-## Benachbarte Skills
-
-- **Davor**: `06-kindesunterhalt-duesseldorfer-tabelle` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Ehegattenunterhalt Trennung und Nachehe trägt.
-- **Danach**: `08-gewaltschutz-und-eilanordnung` - Folgeskill nutzen, sobald Ehegattenunterhalt Trennung und Nachehe entscheidungs- oder verfügungsreif vorbereitet ist.
-
----
-
-## Skill: `01-zustaendigkeit-und-zuteilung-familiensache`
-
-_Prüfung Zuständigkeit Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG, örtliche Zuständigkeit Paragrafen 122-124 FamFG, Geschaeftsverteilung; Verbund Paragraf 137 FamFG bei Scheidung; Verfahrenskostenhilfe Paragraf 76 FamFG_
-
-# 01 Zuständigkeit und Zuteilung Familiensache
-
-## Zweck
-
-Prüfung Zuständigkeit Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG, örtliche Zuständigkeit Paragrafen 122-124 FamFG, Geschaeftsverteilung; Verbund Paragraf 137 FamFG bei Scheidung; Verfahrenskostenhilfe Paragraf 76 FamFG
-
-## Rolle
-
-
-Werkstatt-Assistent für den Familienrichter am Amtsgericht (Paragraf 23b GVG, Paragraf 111 FamFG: Ehe, Kindschaft, Abstammung, Adoption, Versorgungsausgleich, Lebenspartnerschaft). Verbundverfahren, einstweilige Anordnung, Gewaltschutz.
-
-## Rechtsrahmen
-
-FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindschaftsrecht), UnterhaltsR (Paragrafen 1601 ff. BGB), FamGKG, RVG, Haager Kinderschutzübereinkommen, EuEheVO, Bruessel IIb
-
-## Pflichtschritte
-
-1. Verfahrensgegenstand und Verfahrensart einordnen (Familienstreitsache oder Verfahren der freiwilligen Gerichtsbarkeit nach FamFG).
-2. Erforderliche Beteiligte und Mitwirkende einbinden (Verfahrensbeistand Paragraf 158 FamFG, Jugendamt, Sachverständige).
-3. Termin und Anhörungen durchführen (Kindesanhörung Paragraf 159 FamFG, Anhörung der Eltern); Amtsermittlung (Paragraf 26 FamFG) wahren.
-4. Kindeswohl, Unterhalt, Versorgungsausgleich oder Gewaltschutz nach dem einschlägigen materiellen Recht prüfen.
-5. Beschluss mit Begründung fassen; Kosten (FamGKG), Wirksamkeit und Vollstreckung regeln.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
-
-## Output
-
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Anker-Rechtsprechung
-
-- Paragrafen 23b GVG sowie 111, 112 und 151 FamFG: Zuständigkeit und Verfahrensart entscheiden, ob Amtsbetrieb, Antragsverfahren oder Familienstreitsache vorliegt.
-- Paragraf 113 FamFG: ZPO-Vorschriften gelten in Familienstreitsachen nur nach Maßgabe der Verweisung.
-- Paragraf 266 FamFG: Sonstige Familiensachen verlangen eine präzise Abgrenzung zu allgemeinem Zivilprozess und Güterrecht.
-- Ständige Rechtsprechung zur funktionellen Zuständigkeit in Familiensachen: Verfahrensgegenstand, Beteiligte und Verbundfähigkeit sind vor Sachprüfung zu klären; konkrete Fundstelle vor produktiver Zitierung verifizieren.
-- Paragraf 4 FamFG: Abgabe und Verweisung sind nur tragfähig, wenn Zuständigkeit und Kindeswohlgesichtspunkte aktenbezogen begründet werden.
-
-## Prüfungsschema in Stufen
-
-1. Zuständigkeit und Zuteilung Familiensache: Familiensache, Verfahrensart, örtliche Zuständigkeit und Beteiligte zuerst bestimmen.
-2. Amtsverfahren, Antragsverfahren, Verbund und Folgesachen sauber trennen.
-3. Anhörungen, Jugendamt, Verfahrensbeistand, Sachverständige und Auskunftsanordnungen terminlich steuern.
-4. Vergleichs- und Einigungsoptionen prüfen, ohne Schutz- oder Kindeswohlfragen zu relativieren.
-5. Beschluss mit Tenor, Gründen, Kosten, Rechtsbehelfsbelehrung und Vollstreckungshinweis fassen.
-
-## Typische Fallstricke
-
-- Kindeswille wird isoliert und nicht im Kindeswohlkontext bewertet.
-- Versorgungsausgleich wird ohne Ehezeitende und Ausgleichswert tenoriert.
-- Unterhalt wird ohne Einkommensermittlung, Abzuege und Leistungsfähigkeit berechnet.
-- Familienakten enthalten hochsensible Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind strikt zu beachten.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
-```
-
-### Baustein B
-
-```text
-Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
-```
-
-## Benachbarte Skills
-
-- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
-- **Danach**: `02-ehesache-scheidung-paragraf-1565` - Folgeskill nutzen, sobald Zuständigkeit und Zuteilung Familiensache entscheidungs- oder verfügungsreif vorbereitet ist.
+Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstation, Antragsgegnerstation, Kindeswohl- oder Unterhaltsachse, Belegen, Anhörungen und Beschlussformel. Er markiert Auskunftslücken, fehlende Einkommensbelege, Anhörungsbedarf und die Frage, ob ein Hinweis, eine einstweilige Anordnung oder ein Endbeschluss vorzubereiten ist.
 
 ---
 
 ## Skill: `08-gewaltschutz-und-eilanordnung`
 
-_Gewaltschutzverfahren GewSchG: Schutzanordnungen Paragraf 1 (Abstand, Naehe, Kontakt), Wohnungszuweisung Paragraf 2, Eilbeschluss Paragraf 214 FamFG, sofortige Wirksamkeit Paragraf 209 FamFG, Strafbewehrung Paragraf 4 GewSchG_
+_Wenn es um 08 Gewaltschutz und Eilanordnung in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # 08 Gewaltschutz und Eilanordnung
 
@@ -556,17 +498,105 @@ Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerich
 - **Davor**: `07-ehegattenunterhalt-trennung-und-nachehe` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Gewaltschutz und Eilanordnung trägt.
 - **Danach**: `09-beschluss-familiensache-paragraf-38-famfg` - Folgeskill nutzen, sobald Gewaltschutz und Eilanordnung entscheidungs- oder verfügungsreif vorbereitet ist.
 
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Familiengericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Hinweis, Anhörungsverfügung, einstweilige Anordnung, Endbeschluss oder Vergleichsprotokoll; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 26, 38, 113, 155, 156, 158, 159, 243 FamFG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstation, Antragsgegnerstation, Kindeswohl- oder Unterhaltsachse, Belegen, Anhörungen und Beschlussformel. Er markiert Auskunftslücken, fehlende Einkommensbelege, Anhörungsbedarf und die Frage, ob ein Hinweis, eine einstweilige Anordnung oder ein Endbeschluss vorzubereiten ist.
+
 ---
 
-## Skill: `03-versorgungsausgleich-vorbereiten`
+## Skill: `prozessuale-kniffe-und-rechtsprechungsanker`
 
-_Versorgungsausgleich nach VersAusglG: Auskuenfte der Versorgungstraeger einholen, Ehezeit feststellen Paragraf 3 VersAusglG, Anrechte ausgleichen Paragrafen 9-17 VersAusglG, Geringfuegigkeit Paragraf 18, Beschlussentwurf_
+_Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Familiengericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen._
 
-# 03 Versorgungsausgleich Vorbereiten
+# Prozessuale Kniffe und Rechtsprechungsanker
+
+Nutze diesen Skill, wenn ein familiengerichtlicher Fall zugleich schnell, kindeswohlorientiert und beschwerdefest geführt werden muss.
+
+## Leitanker
+
+- Paragraf 26 FamFG: Amtsermittlung mit klarer Beweisthemensteuerung.
+- Paragraf 159 FamFG: Kindesanhörung kindgerecht, dokumentiert und am Verfahrensgegenstand orientiert.
+- Paragraf 49 FamFG: einstweilige Anordnung mit Regelungsbedürfnis und Verhältnismäßigkeit.
+- Paragraf 156 FamFG: Erörterung, Einvernehmen und Schutzgrenzen in Kindschaftssachen.
+- Artikel 103 Absatz 1 GG: rechtliches Gehör aller Beteiligten, auch bei Eilentscheidungen soweit möglich.
+
+## Kniffe
+
+| Lage | Kniff | Fehlerbremse |
+| --- | --- | --- |
+| Umgang eskaliert | Umgangsziel, Schutzfaktor und Vollstreckbarkeit trennen | kein unvollstreckbarer Wohlfühltenor |
+| Kindesanhörung | Alter, Reife, Loyalitätsdruck und Dokumentation beachten | keine suggestive Befragung |
+| Eilsache | Gefährdung, Regelungsziel und mildere Mittel prüfen | keine Hauptsache vorwegnehmen ohne Grund |
+| Vergleich | Kindeswohlkontrolle und Vollstreckbarkeit sichern | kein bloßer Elternkompromiss |
+
+## Arbeitsmodus
+
+1. Bestimme zuerst Entscheidungsreife, Zuständigkeit, Besetzung, Verfahrensart und den nächsten irreversiblen Schritt.
+2. Trenne Tatsachen, Norm, Beweis, Verfahrensrecht, Ermessen und Tenorfolge.
+3. Suche den prozessualen Hebel, der den Fall wirklich entscheidet: Hinweis, Beweisbeschluss, Auflage, Beiladung, Verbindung, Abtrennung, Einstellung, Beschluss oder Urteil.
+4. Formuliere jede Maßnahme so, dass sie aktenkundig, fristfest und rechtsmittelrobust ist.
+5. Baue am Ende eine Glanzkontrolle: Gehör, Begründung, Beweiswürdigung, Tenor, Nebenentscheidungen, Rechtsmittel.
+
+## Output-Matrix
+
+| Kniff | Normanker | Aktenbeleg | Risiko | Formulierung | nächster Schritt |
+| --- | --- | --- | --- | --- | --- |
+| Hinweis | | | Überraschung | | |
+| Beweis | | | Lücke | | |
+| Verfahrensleitung | | | Verzögerung | | |
+| Entscheidung | | | Rechtsmittel | | |
+
+## Tenoranker
+
+Jeder Tenor muss konkret genug sein, dass Beteiligte und Vollstreckungsorgan wissen, wer wann was zu tun oder zu unterlassen hat.
+
+## Kindeswohl- und Anhörungskontrolle
+
+| Lage | Mindestprüfung | Ergebnisform |
+| --- | --- | --- |
+| Sorge oder Umgang | Kindeswille, Bindungen, Förderung, Kontinuität und Schutzrisiko trennen | Regelung mit Ort, Zeit, Übergabe und Ausfallmechanik |
+| Eilentscheidung | Gefährdung, Eilbedürftigkeit, mildere Mittel und Anhörungslage | befristete Anordnung mit Hauptsacheanschluss |
+| Verfahrensbeistand | Bestellung, Aufgabenbereich und Beteiligung prüfen | klarer Beteiligten- und Anhörungsvermerk |
+| Jugendamt | Bericht, Terminbeteiligung und Schutzauftrag einordnen | konkrete Aufklärungsliste |
+| Vergleich | Kindeswohlkontrolle vor Protokollierung | vollstreckbare und kindgerechte Regelung |
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstation, Antragsgegnerstation, Kindeswohl- oder Unterhaltsachse, Belegen, Anhörungen und Beschlussformel. Er markiert Auskunftslücken, fehlende Einkommensbelege, Anhörungsbedarf und die Frage, ob ein Hinweis, eine einstweilige Anordnung oder ein Endbeschluss vorzubereiten ist.
+
+---
+
+## Skill: `01-zustaendigkeit-und-zuteilung-familiensache`
+
+_Wenn es um 01 Zuständigkeit und Zuteilung Familiensache in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# 01 Zuständigkeit und Zuteilung Familiensache
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Zweck
 
-Versorgungsausgleich nach VersAusglG: Auskuenfte der Versorgungstraeger einholen, Ehezeit feststellen Paragraf 3 VersAusglG, Anrechte ausgleichen Paragrafen 9-17 VersAusglG, Geringfuegigkeit Paragraf 18, Beschlussentwurf
+Prüfung Zuständigkeit Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG, örtliche Zuständigkeit Paragrafen 122-124 FamFG, Geschaeftsverteilung; Verbund Paragraf 137 FamFG bei Scheidung; Verfahrenskostenhilfe Paragraf 76 FamFG
 
 ## Rolle
 
@@ -593,19 +623,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Beschluss vom 11.07.2018 - XII ZB 336/16, frei nachweisbar über dejure/openJur: Versorgungsausgleich verlangt genaue Bewertung des auszugleichenden Anrechts und der Teilungsform.
-- Paragrafen 1, 3, 5, 10 und 14 VersAusglG: Ehezeit, Ausgleichswert, interne Teilung und externe Teilung sind getrennte Prüfungsstationen.
-- Paragraf 220 FamFG: Versorgungsträgerauskünfte müssen vollständig, nachvollziehbar und ehezeitbezogen sein.
-- Paragrafen 18 und 27 VersAusglG: Bagatellausschluss und grobe Unbilligkeit dürfen nicht schematisch, sondern nur fallbezogen angewandt werden.
-- Ständige Rechtsprechung des BGH zu Teilungskosten und Ausgleichswert: Rechenweg und Zielversorgung müssen im Beschluss nachvollziehbar erscheinen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Paragrafen 23b GVG sowie 111, 112 und 151 FamFG: Zuständigkeit und Verfahrensart entscheiden, ob Amtsbetrieb, Antragsverfahren oder Familienstreitsache vorliegt.
+- Paragraf 113 FamFG: ZPO-Vorschriften gelten in Familienstreitsachen nur nach Maßgabe der Verweisung.
+- Paragraf 266 FamFG: Sonstige Familiensachen verlangen eine präzise Abgrenzung zu allgemeinem Zivilprozess und Güterrecht.
+- Ständige Rechtsprechung zur funktionellen Zuständigkeit in Familiensachen: Verfahrensgegenstand, Beteiligte und Verbundfähigkeit sind vor Sachprüfung zu klären; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Paragraf 4 FamFG: Abgabe und Verweisung sind nur tragfähig, wenn Zuständigkeit und Kindeswohlgesichtspunkte aktenbezogen begründet werden.
 
 ## Prüfungsschema in Stufen
 
-1. Versorgungsausgleich Vorbereiten: Verfahrensgegenstand, Auskunftsstufe, Berechnungsgrundlagen und Verbundstatus zuerst prüfen.
-2. Ehezeit, Einkommen, Bedarf, Leistungsfähigkeit, Anrechte oder Stichtage getrennt erfassen.
-3. Auskunft, Belegvorlage, Wertermittlung und Zahlungsantrag nicht vermengen.
-4. Versorgungsausgleich, Unterhalt und Zugewinn mit ihren eigenen Stichtagen und Bewertungsregeln bearbeiten.
-5. Beschluss oder Vergleich mit Beträgen, Zeiträumen, Vollstreckbarkeit und Kostenfolge formulieren.
+1. Zuständigkeit und Zuteilung Familiensache: Familiensache, Verfahrensart, örtliche Zuständigkeit und Beteiligte zuerst bestimmen.
+2. Amtsverfahren, Antragsverfahren, Verbund und Folgesachen sauber trennen.
+3. Anhörungen, Jugendamt, Verfahrensbeistand, Sachverständige und Auskunftsanordnungen terminlich steuern.
+4. Vergleichs- und Einigungsoptionen prüfen, ohne Schutz- oder Kindeswohlfragen zu relativieren.
+5. Beschluss mit Tenor, Gründen, Kosten, Rechtsbehelfsbelehrung und Vollstreckungshinweis fassen.
 
 ## Typische Fallstricke
 
@@ -630,20 +660,31 @@ Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerich
 
 ## Benachbarte Skills
 
-- **Davor**: `02-ehesache-scheidung-paragraf-1565` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Versorgungsausgleich Vorbereiten trägt.
-- **Danach**: `04-kindschaftssache-elterliche-sorge` - Folgeskill nutzen, sobald Versorgungsausgleich Vorbereiten entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
+- **Danach**: `02-ehesache-scheidung-paragraf-1565` - Folgeskill nutzen, sobald Zuständigkeit und Zuteilung Familiensache entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Familiengericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Hinweis, Anhörungsverfügung, einstweilige Anordnung, Endbeschluss oder Vergleichsprotokoll; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 26, 38, 113, 155, 156, 158, 159, 243 FamFG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstation, Antragsgegnerstation, Kindeswohl- oder Unterhaltsachse, Belegen, Anhörungen und Beschlussformel. Er markiert Auskunftslücken, fehlende Einkommensbelege, Anhörungsbedarf und die Frage, ob ein Hinweis, eine einstweilige Anordnung oder ein Endbeschluss vorzubereiten ist.
 
 ---
 
-## Skill: `06-kindesunterhalt-duesseldorfer-tabelle`
+## Skill: `07-ehegattenunterhalt-trennung-und-nachehe`
 
-_Kindesunterhalt Paragrafen 1601 ff. BGB: Bedürftigkeit, Leistungsfähigkeit (Selbstbehalt nach Leitlinien), Duesseldorfer Tabelle als Hilfsmittel, Mangelfall, Unterhaltstitel Paragraf 1612a (dynamischer Titel)_
+_Wenn es um 07 Ehegattenunterhalt Trennung und Nachehe in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# 06 Kindesunterhalt Duesseldorfer Tabelle
+# 07 Ehegattenunterhalt Trennung und Nachehe
 
 ## Zweck
 
-Kindesunterhalt Paragrafen 1601 ff. BGB: Bedürftigkeit, Leistungsfähigkeit (Selbstbehalt nach Leitlinien), Duesseldorfer Tabelle als Hilfsmittel, Mangelfall, Unterhaltstitel Paragraf 1612a (dynamischer Titel)
+Trennungsunterhalt Paragraf 1361 BGB und nachehelicher Unterhalt Paragrafen 1569 ff. BGB: Anspruchsgrundlagen (Betreuungs-, Alters-, Krankheits-, Aufstockungsunterhalt), Befristung und Begrenzung Paragraf 1578b, Verwirkung Paragraf 1579
 
 ## Rolle
 
@@ -670,51 +711,256 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Beschluss vom 12.03.2014 - XII ZB 234/13, frei nachweisbar über dejure/openJur: Kindesunterhalt ist aus Bedarf, Einkommensgruppe und Leistungsfähigkeit nachvollziehbar herzuleiten.
-- Paragrafen 1601, 1602, 1603, 1610, 1612a und 1612b BGB: Anspruchsgrund, Bedürftigkeit, Leistungsfähigkeit, Bedarf, dynamischer Titel und Kindergeldanrechnung sind getrennt zu prüfen.
-- Paragraf 243 FamFG: Kosten in Unterhaltssachen folgen einer eigenen Billigkeitslogik.
-- Paragraf 235 FamFG: Auskunftsanordnung und Belegvorlage sind vor Schätzung oder Säumnisentscheidung auszuschöpfen.
-- Ständige Rechtsprechung zur Düsseldorfer Tabelle: Tabelle ist Hilfsmittel, ersetzt aber nicht Einkommensbereinigung, Bedarfskontrollbetrag und Mangelfallprüfung; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+Aktenzeichen und Daten sind Sucheinstiege und vor Übernahme in ein Arbeitsprodukt über bundesgerichtshof.de zu verifizieren; keine ungeprüfte Verwendung. Eine Präjudizienbindung besteht nicht (Ausnahme Paragraf 31 BVerfGG).
+
+- BGH, Urteil vom 20.12.2023 - XII ZR 181/22: Ehegattenunterhalt verlangt eine konkrete Bedarfs- und Einkommensprüfung; ehebedingte Nachteile, Erwerbsobliegenheit und Begrenzung dürfen nicht schematisch abgearbeitet werden.
+- Ständige Rechtsprechung des BGH (XII. Zivilsenat) zum Trennungs- und nachehelichen Unterhalt: Bedarf, Erwerbsobliegenheit, Begrenzung und Befristung sind einzelfallbezogen festzustellen. Das einschlägige Aktenzeichen ist vor Verwendung live über die BGH-Quelle zu verifizieren; ein konkretes Aktenzeichen wird hier bewusst nicht ungeprüft behauptet.
+- Paragrafen 1361, 1569, 1570 bis 1578b, 1580 BGB sowie Paragrafen 235, 243 FamFG bilden den Pflichtstamm: Trennungsunterhalt, Eigenverantwortung, Unterhaltstatbestände, Maß des Unterhalts, Begrenzung, Befristung und Auskunft.
 
 ## Prüfungsschema in Stufen
 
-1. Kindesunterhalt Duesseldorfer Tabelle: Kindeswohl, Beteiligtenstellung, Anhörung des Kindes, Elternrechte und Jugendamtsbeteiligung zuerst prüfen.
-2. Sorge, Umgang, Aufenthaltsbestimmung und Schutzmaßnahmen getrennt behandeln.
-3. Eilbedürftigkeit, Verfahrensbeistand, Sachverständigengutachten und persönliche Anhörung konkret steuern.
-4. Kooperationsfähigkeit, Bindungen, Kontinuität und Kindeswille nur alters- und konfliktangemessen würdigen.
-5. Beschluss mit Umgangszeiten, Übergaben, Auflagen, Vollstreckungshinweis und Kosten fassen.
+1. Unterhaltsart trennen.
+   - Trennungsunterhalt, nachehelicher Unterhalt, Aufstockung, Betreuungsunterhalt, Altersunterhalt, Krankheitsunterhalt und Ausbildungsunterhalt nicht vermengen.
+2. Einkommen beider Seiten bereinigen.
+   - Erwerbseinkommen, Selbstständigkeit, Wohnvorteil, Steuererstattung, Vorsorge, Schulden und Kindesunterhalt vor Quotenrechnung bereinigen.
+3. Bedarf und Quote ermitteln.
+   - Halbteilungsgrundsatz, Erwerbstätigenbonus, Vorsorgeunterhalt, trennungsbedingter Mehrbedarf und konkrete Bedarfspositionen offenlegen.
+4. Bedürftigkeit und Leistungsfähigkeit prüfen.
+   - Selbstbehalt, Erwerbsobliegenheit, fiktives Einkommen, Kindesbetreuung, Krankheit und Vermögenseinsatz gesondert begründen.
+5. Begrenzung und Befristung nach Paragraf 1578b BGB prüfen.
+   - Ehebedingte Nachteile, Dauer der Ehe, Rollenverteilung, Kindesbetreuung und Vertrauenstatbestand einzelfallbezogen würdigen; Herabsetzung des Maßes und zeitliche Befristung getrennt prüfen und je gesondert begründen. Trennungsunterhalt nach Paragraf 1361 BGB wird nicht nach Paragraf 1578b BGB befristet.
+6. Votum festhalten.
+   - In einem vollständigen Satz ausweisen, welche Unterhaltsart einschlägig ist, ob und in welcher Höhe Unterhalt geschuldet ist, ob nach Paragraf 1578b BGB herabzusetzen oder zu befristen ist und ob ein Endbeschluss, eine einstweilige Anordnung oder zunächst eine Auskunfts- und Hinweisverfügung ergeht.
 
 ## Typische Fallstricke
 
-- Kindeswille wird isoliert und nicht im Kindeswohlkontext bewertet.
-- Versorgungsausgleich wird ohne Ehezeitende und Ausgleichswert tenoriert.
-- Unterhalt wird ohne Einkommensermittlung, Abzuege und Leistungsfähigkeit berechnet.
-- Familienakten enthalten hochsensible Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind strikt zu beachten.
+- Trennungsunterhalt wird wie nachehelicher Unterhalt befristet, obwohl der rechtliche Prüfungsmaßstab anders ist.
+- Selbstständigeneinkommen wird aus einer einzelnen BWA abgeleitet; erforderlich ist regelmäßig ein Mehrjahresbild mit Entnahmen und Steuerlast.
+- Kindesunterhalt wird nach der Quote gerechnet, statt vorrangig in die Bereinigung einzufließen.
+- Begrenzung nach Paragraf 1578b BGB wird behauptet, ohne ehebedingte Nachteile und Lebensstandard konkret festzustellen.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
 ### Baustein A
 
 ```text
-Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
+Der Antragsgegner wird verpflichtet, an die Antragstellerin ab dem [Datum] monatlichen Ehegattenunterhalt in Höhe von [Betrag] Euro jeweils monatlich im Voraus bis zum dritten Werktag eines Monats zu zahlen.
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
+Die Beteiligten werden darauf hingewiesen, dass vor einer abschließenden Unterhaltsberechnung Auskunft über Einkommen, Steuererstattungen, Vorsorgeaufwendungen, Wohnvorteil, Schulden und bestehende Kindesunterhaltspflichten zu erteilen ist.
 ```
 
 ## Benachbarte Skills
 
-- **Davor**: `05-umgangsrecht-paragraf-1684-bgb` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Kindesunterhalt Duesseldorfer Tabelle trägt.
-- **Danach**: `07-ehegattenunterhalt-trennung-und-nachehe` - Folgeskill nutzen, sobald Kindesunterhalt Duesseldorfer Tabelle entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `06-kindesunterhalt-duesseldorfer-tabelle` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Ehegattenunterhalt Trennung und Nachehe trägt.
+- **Danach**: `08-gewaltschutz-und-eilanordnung` - Folgeskill nutzen, sobald Ehegattenunterhalt Trennung und Nachehe entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Familiengericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Hinweis, Anhörungsverfügung, einstweilige Anordnung, Endbeschluss oder Vergleichsprotokoll; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 26, 38, 113, 155, 156, 158, 159, 243 FamFG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstation, Antragsgegnerstation, Kindeswohl- oder Unterhaltsachse, Belegen, Anhörungen und Beschlussformel. Er markiert Auskunftslücken, fehlende Einkommensbelege, Anhörungsbedarf und die Frage, ob ein Hinweis, eine einstweilige Anordnung oder ein Endbeschluss vorzubereiten ist.
+
+---
+
+## Skill: `04-kindschaftssache-elterliche-sorge`
+
+_Wenn es um 04 Kindschaftssache Elterliche Sorge in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# 04 Kindschaftssache Elterliche Sorge
+
+## Zweck
+
+Sorgerechtsverfahren Paragrafen 1626 ff. BGB i.V.m. Paragrafen 151 ff. FamFG: Kindeswohlprüfung (Bindungs-, Foerder-, Kontinuitaetsprinzip, Kindeswille), Anhörung des Kindes Paragraf 159 FamFG, Verfahrensbeistand Paragraf 158, Eilanordnung Paragraf 49 FamFG
+
+## Rolle
+
+
+Werkstatt-Assistent für den Familienrichter am Amtsgericht (Paragraf 23b GVG, Paragraf 111 FamFG: Ehe, Kindschaft, Abstammung, Adoption, Versorgungsausgleich, Lebenspartnerschaft). Verbundverfahren, einstweilige Anordnung, Gewaltschutz.
+
+## Rechtsrahmen
+
+FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindschaftsrecht), UnterhaltsR (Paragrafen 1601 ff. BGB), FamGKG, RVG, Haager Kinderschutzübereinkommen, EuEheVO, Bruessel IIb
+
+## Pflichtschritte
+
+1. Verfahrensgegenstand und Verfahrensart einordnen (Familienstreitsache oder Verfahren der freiwilligen Gerichtsbarkeit nach FamFG).
+2. Erforderliche Beteiligte und Mitwirkende einbinden (Verfahrensbeistand Paragraf 158 FamFG, Jugendamt, Sachverständige).
+3. Termin und Anhörungen durchführen (Kindesanhörung Paragraf 159 FamFG, Anhörung der Eltern); Amtsermittlung (Paragraf 26 FamFG) wahren.
+4. Kindeswohl, Unterhalt, Versorgungsausgleich oder Gewaltschutz nach dem einschlägigen materiellen Recht prüfen.
+5. Beschluss mit Begründung fassen; Kosten (FamGKG), Wirksamkeit und Vollstreckung regeln.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+
+## Output
+
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+
+## Anker-Rechtsprechung
+
+- BVerfG, Beschluss vom 21.07.2010 - 1 BvR 420/09: Der Ausschluss des nicht verheirateten Vaters von der Sorgerechtsprüfung verletzt Elternrecht, wenn keine am Kindeswohl orientierte Einzelfallprüfung eröffnet ist.
+- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15: Paritätische Betreuung kann familiengerichtlich angeordnet werden, wenn sie dem Kindeswohl entspricht und praktisch tragfähig ist.
+- Paragrafen 1626, 1627, 1671, 1684, 1696 BGB sowie Paragrafen 155, 156, 158, 159, 162 FamFG bilden den Pflichtstamm: Kindeswohl, Elternkonsens, Übertragung, Beschleunigung, Verfahrensbeistand, Anhörung und Jugendamt.
+
+## Prüfungsschema in Stufen
+
+1. Antragsziel präzisieren.
+   - Geht es um Alleinsorge, Teilbereiche, Aufenthaltsbestimmung, Gesundheitsfürsorge, Schulwahl oder einstweilige Schutzanordnung.
+2. Kindeswohlkriterien aktenfest machen.
+   - Bindungen, Kontinuität, Förderung, Erziehungsfähigkeit, Kooperationsfähigkeit, Kindeswille und Schutzbedarf einzeln würdigen.
+3. Anhörungen steuern.
+   - Kind, Eltern, Jugendamt und Verfahrensbeistand mit konkretem Beweisthema anhören; Sachverständige nur bei aufklärungsbedürftiger Tatsachenfrage.
+4. Mildere Mittel prüfen.
+   - Auflagen, Beratung, Umgangspflegschaft, Teilübertragung oder gerichtliche Vereinbarung vor vollständiger Sorgerechtsentziehung prüfen.
+5. Beschluss präzisieren.
+   - Teilbereich, Umfang, Dauer, Vollstreckbarkeit und Anschlusskontrolle dürfen nicht offen bleiben.
+
+## Typische Fallstricke
+
+- Elternkonflikt wird mit Kindeswohlgefährdung verwechselt.
+- Kindeswille wird altersunabhängig als Entscheidungsvorgabe behandelt.
+- Teilbereiche der Sorge werden nicht getrennt; der Tenor wird dadurch unvollstreckbar.
+- Das Jugendamt wird gehört, aber dessen konkrete Tatsachengrundlage nicht geprüft.
+
+## Tenor-Bausteine bzw. Beschluss-Bausteine
+
+### Baustein A
+
+```text
+Das Aufenthaltsbestimmungsrecht für das Kind [Name], geboren am [Datum], wird auf den Antragsteller übertragen. Im Übrigen verbleibt es bei der gemeinsamen elterlichen Sorge.
+```
+
+### Baustein B
+
+```text
+Das Jugendamt [Ort] wird gebeten, bis zum [Datum] zu Bindungen, Betreuungskontinuität, Schulweg, Kommunikationsfähigkeit der Eltern und erkennbarem Kindeswillen Stellung zu nehmen.
+```
+
+## Benachbarte Skills
+
+- **Davor**: `03-versorgungsausgleich-vorbereiten` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Kindschaftssache Elterliche Sorge trägt.
+- **Danach**: `05-umgangsrecht-paragraf-1684-bgb` - Folgeskill nutzen, sobald Kindschaftssache Elterliche Sorge entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Familiengericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Hinweis, Anhörungsverfügung, einstweilige Anordnung, Endbeschluss oder Vergleichsprotokoll; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 26, 38, 113, 155, 156, 158, 159, 243 FamFG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstation, Antragsgegnerstation, Kindeswohl- oder Unterhaltsachse, Belegen, Anhörungen und Beschlussformel. Er markiert Auskunftslücken, fehlende Einkommensbelege, Anhörungsbedarf und die Frage, ob ein Hinweis, eine einstweilige Anordnung oder ein Endbeschluss vorzubereiten ist.
+
+---
+
+## Skill: `02-ehesache-scheidung-paragraf-1565`
+
+_Wenn es um 02 Ehesache Scheidung Paragraf 1565 in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# 02 Ehesache Scheidung Paragraf 1565
+
+## Zweck
+
+Scheidungsverfahren Paragrafen 1564 ff. BGB i.V.m. Paragrafen 121 ff. FamFG: Trennungsjahr Paragraf 1566, Zerruettung Paragraf 1565, Versorgungsausgleich Paragraf 1587, Folgesachen Paragraf 137 FamFG (Unterhalt, Sorgerecht, Zugewinn, Hausrat, Ehewohnung)
+
+## Rolle
+
+
+Werkstatt-Assistent für den Familienrichter am Amtsgericht (Paragraf 23b GVG, Paragraf 111 FamFG: Ehe, Kindschaft, Abstammung, Adoption, Versorgungsausgleich, Lebenspartnerschaft). Verbundverfahren, einstweilige Anordnung, Gewaltschutz.
+
+## Rechtsrahmen
+
+FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindschaftsrecht), UnterhaltsR (Paragrafen 1601 ff. BGB), FamGKG, RVG, Haager Kinderschutzübereinkommen, EuEheVO, Bruessel IIb
+
+## Pflichtschritte
+
+1. Verfahrensgegenstand und Verfahrensart einordnen (Familienstreitsache oder Verfahren der freiwilligen Gerichtsbarkeit nach FamFG).
+2. Erforderliche Beteiligte und Mitwirkende einbinden (Verfahrensbeistand Paragraf 158 FamFG, Jugendamt, Sachverständige).
+3. Termin und Anhörungen durchführen (Kindesanhörung Paragraf 159 FamFG, Anhörung der Eltern); Amtsermittlung (Paragraf 26 FamFG) wahren.
+4. Kindeswohl, Unterhalt, Versorgungsausgleich oder Gewaltschutz nach dem einschlägigen materiellen Recht prüfen.
+5. Beschluss mit Begründung fassen; Kosten (FamGKG), Wirksamkeit und Vollstreckung regeln.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+
+## Output
+
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+
+## Anker-Rechtsprechung
+
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02: Rechtliches Gehör verlangt, dass der entscheidungserhebliche Vortrag sichtbar zur Kenntnis genommen und in die Entscheidungsbildung einbezogen wird.
+- BGH, Beschluss vom 24.07.2013 - XII ZB 340/11: Der Scheidungsverbund darf Versorgungsausgleich und Folgesachen nicht mechanisch mitschleppen, sondern muss verfahrensökonomisch und teilhabegerecht gesteuert werden.
+- Ständige Rechtsprechung des BGH (XII. Zivilsenat) zum Scheidungsverbund: Trennungsunterhalt und Folgesachen sind in ihrer prozessualen Eigenständigkeit sauber vom Scheidungsausspruch zu trennen. Ein konkretes Aktenzeichen wird hier nicht ungeprüft behauptet; es ist vor Verwendung live über die BGH-Quelle zu verifizieren.
+- Paragrafen 1565, 1566, 1567 BGB sowie Paragrafen 113, 114, 128, 137, 140 FamFG bilden den Pflichtstamm: Scheitern, Trennung, persönliches Erscheinen, Anwaltszwang, Verbund und Abtrennung.
+
+## Prüfungsschema in Stufen
+
+1. Verfahrenslage fixieren.
+   - Aktenzeichen, Ehezeit, Zustellung des Scheidungsantrags, anwaltliche Vertretung und anhängige Folgesachen feststellen.
+2. Scheidungsvoraussetzungen prüfen.
+   - Trennungszeit, Trennungswille, häusliche Trennung innerhalb der Wohnung, Härtefallvortrag und Zustimmung oder Widerspruch gesondert auswerten.
+3. Verbund kontrollieren.
+   - Versorgungsausgleich, Unterhalt, Zugewinn, Ehewohnung und Kindschaftssachen darauf prüfen, ob sie entscheidungsreif, abzutrennen oder noch aufzuklären sind.
+4. Anhörung vorbereiten.
+   - Persönliches Erscheinen, Dolmetscherbedarf, Schutzbedarf und fehlende Urkunden durch gerichtliche Verfügung abarbeiten.
+5. Beschlussentwurf schreiben.
+   - Tenor, Gründe, Kosten, Verfahrenswert und Rechtsmittelbelehrung vollständig formulieren.
+
+## Typische Fallstricke
+
+- Trennungsdatum wird aus Parteivortrag übernommen, obwohl Kontoauszüge, Meldeunterlagen oder WhatsApp-Verläufe eine andere Trennungswirklichkeit zeigen.
+- Der Scheidungsausspruch wird vorbereitet, obwohl eine Folgesache im Verbund noch nicht entscheidungsreif ist und keine Abtrennung begründet wurde.
+- Persönliche Anhörung wird zu knapp protokolliert; später fehlt die belastbare Grundlage für Scheitern, Trennung oder Härteeinwand.
+- Rechtsmittelbelehrung und Verfahrenswert werden aus einem Muster übernommen, ohne Verbundgegenstände und anwaltliche Anträge abzugleichen.
+
+## Tenor-Bausteine bzw. Beschluss-Bausteine
+
+### Baustein A
+
+```text
+Die am [Datum] vor dem Standesbeamten des Standesamts [Ort], Heiratsregister [Nummer], geschlossene Ehe der Beteiligten wird geschieden.
+```
+
+### Baustein B
+
+```text
+Der Versorgungsausgleich bleibt dem gesonderten Ausspruch nach Maßgabe der nachfolgenden Ziffern vorbehalten, weil die Auskünfte der Versorgungsträger [konkrete Lücke] noch nicht entscheidungsreif vorliegen.
+```
+
+### Stop-Kriterium
+
+Wenn Trennungszeit, Verbundreife oder Verfahrensfähigkeit nicht belastbar feststehen, wird kein Scheidungsbeschluss entworfen. Dann ist eine gerichtliche Aufklärungsverfügung mit konkreter Urkunden- und Anhörungsagenda auszugeben.
+
+## Benachbarte Skills
+
+- **Davor**: `01-zustaendigkeit-und-zuteilung-familiensache` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Ehesache Scheidung Paragraf 1565 trägt.
+- **Danach**: `03-versorgungsausgleich-vorbereiten` - Folgeskill nutzen, sobald Ehesache Scheidung Paragraf 1565 entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Familiengericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Hinweis, Anhörungsverfügung, einstweilige Anordnung, Endbeschluss oder Vergleichsprotokoll; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 26, 38, 113, 155, 156, 158, 159, 243 FamFG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstation, Antragsgegnerstation, Kindeswohl- oder Unterhaltsachse, Belegen, Anhörungen und Beschlussformel. Er markiert Auskunftslücken, fehlende Einkommensbelege, Anhörungsbedarf und die Frage, ob ein Hinweis, eine einstweilige Anordnung oder ein Endbeschluss vorzubereiten ist.
 
 ---
 
 ## Skill: `05-umgangsrecht-paragraf-1684-bgb`
 
-_Umgangsverfahren Paragraf 1684 BGB i.V.m. Paragrafen 156 ff. FamFG: Wohl des Kindes, begleiteter Umgang, Umgangspflegschaft Paragraf 1684 Abs. 3, Vermittlungsverfahren Paragraf 165 FamFG, Eilanordnung_
+_Wenn es um 05 Umgangsrecht Paragraf 1684 Bgb in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # 05 Umgangsrecht Paragraf 1684 Bgb
 
@@ -747,39 +993,46 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15, BGHZ 214, 31: Ein paritätisches Wechselmodell kann im Umgangsverfahren angeordnet werden, wenn es dem Kindeswohl entspricht.
-- BGH, Beschluss vom 27.11.2019 - XII ZB 512/18, frei nachweisbar über dejure/openJur: Wechselmodell setzt tragfähige Kommunikation, Kooperation und konkreten Kindeswohlvorteil voraus.
-- Paragraf 1684 BGB: Umgangsrecht, Wohlverhaltenspflicht, Einschränkung und Ausschluss sind jeweils gesondert zu begründen.
-- Paragrafen 158 und 159 FamFG: Verfahrensbeistand und Kindesanhörung sind bei streitigem Umgang regelmäßig aktenkundig zu prüfen.
-- Ständige Rechtsprechung zum begleiteten Umgang: Schutzbedarf, Anbahnung, Träger, Dauer und Überprüfungstermin müssen im Tenor vollstreckungsfähig angelegt werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+Die folgenden Aktenzeichen und Daten sind Sucheinstiege und vor Übernahme in ein Arbeitsprodukt über bundesgerichtshof.de oder bundesverfassungsgericht.de zu verifizieren; keine ungeprüfte Verwendung. Eine Präjudizienbindung besteht nicht (Ausnahme Paragraf 31 BVerfGG).
+
+- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15: Auch ein paritätisches Wechselmodell kann Umgangsregelung sein, wenn Kindeswohl und praktische Durchführbarkeit es tragen.
+- BVerfG, Beschluss vom 29.01.2015 - 1 BvR 351/13: Umgangsbeschränkungen brauchen eine am Kindeswohl ausgerichtete Tatsachengrundlage und dürfen Elternrechte nicht schematisch verkürzen.
+- Paragrafen 1684, 1685, 1686, 1696 BGB sowie Paragrafen 155, 156, 158, 159, 89 FamFG bilden den Pflichtstamm: Umgangsrecht, Bindungspersonen, Auskunft, Abänderung, Beschleunigung, Anhörung, Verfahrensbeistand und Ordnungsmittel.
 
 ## Prüfungsschema in Stufen
 
-1. Umgangsrecht Paragraf 1684 Bgb: Kindeswohl, Beteiligtenstellung, Anhörung des Kindes, Elternrechte und Jugendamtsbeteiligung zuerst prüfen.
-2. Sorge, Umgang, Aufenthaltsbestimmung und Schutzmaßnahmen getrennt behandeln.
-3. Eilbedürftigkeit, Verfahrensbeistand, Sachverständigengutachten und persönliche Anhörung konkret steuern.
-4. Kooperationsfähigkeit, Bindungen, Kontinuität und Kindeswille nur alters- und konfliktangemessen würdigen.
-5. Beschluss mit Umgangszeiten, Übergaben, Auflagen, Vollstreckungshinweis und Kosten fassen.
+1. Umgangsmodell bestimmen.
+   - Regelumgang, Ferien, Feiertage, digitale Kontakte, Übergaben und Transportpflichten konkretisieren.
+2. Kindeswohl prüfen.
+   - Bindung, Belastung, Loyalitätskonflikt, Distanz, Schulrhythmus, Krankheit, Gewaltvorwürfe und Schutzanordnungen getrennt erfassen.
+3. Durchführbarkeit testen.
+   - Wohnorte, Arbeitszeiten, Kommunikationswege, Übergabeort, Kosten und Konfliktintensität in den Tenor übersetzen.
+4. Einschränkungen begründen.
+   - Begleiteter Umgang, Ausschluss, Ordnungsmittel oder Umgangspflegschaft nur auf Tatsachen und Verhältnismäßigkeit stützen.
+5. Vollstreckbarkeit sichern.
+   - Uhrzeiten, Orte, Ferienhälften, Ersatztermine und Ordnungsmittelhinweis ausformulieren.
+6. Votum formulieren.
+   - In einem vollständigen Satz festhalten, ob, in welchem Umfang und unter welchen Bedingungen Umgang dem Kindeswohl nach Paragraf 1684 BGB entspricht, ob die Kindesanhörung nach Paragraf 159 FamFG und die Jugendamtsbeteiligung nach Paragraf 162 FamFG durchgeführt sind und ob ein vollstreckbarer Tenor, eine einstweilige Anordnung oder zunächst ein Hinweis ergeht.
 
 ## Typische Fallstricke
 
-- Kindeswille wird isoliert und nicht im Kindeswohlkontext bewertet.
-- Versorgungsausgleich wird ohne Ehezeitende und Ausgleichswert tenoriert.
-- Unterhalt wird ohne Einkommensermittlung, Abzuege und Leistungsfähigkeit berechnet.
-- Familienakten enthalten hochsensible Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind strikt zu beachten.
+- Der Tenor sagt nur regelmäßiger Umgang und ist deshalb nicht vollstreckbar.
+- Gewalt- oder Missbrauchsvorwürfe werden entweder ignoriert oder ohne Tatsachengrundlage zum Umgangsausschluss erhoben.
+- Ferien und Feiertage fehlen; der nächste Konflikt ist dadurch vorprogrammiert.
+- Ordnungsmittel werden angedroht, ohne dass die Umgangsregelung hinreichend bestimmt ist.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
 ### Baustein A
 
 ```text
-Das Gericht hört die Beteiligten und das Kind zu [Sorge/Umgang/Aufenthalt] an und holt eine Stellungnahme des Jugendamts bis [Datum] ein.
+Der Vater ist berechtigt und verpflichtet, mit dem Kind [Name] in jeder geraden Kalenderwoche von Freitag 16:00 Uhr bis Sonntag 18:00 Uhr Umgang zu haben. Übergabeort ist [Ort].
 ```
 
 ### Baustein B
 
 ```text
-Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerichtliche Maßnahme] bis zur Entscheidung in der Hauptsache gilt.
+Für jeden Fall der schuldhaften Zuwiderhandlung gegen diese Umgangsregelung kann das Gericht ein Ordnungsgeld und ersatzweise Ordnungshaft festsetzen.
 ```
 
 ## Benachbarte Skills
@@ -787,11 +1040,52 @@ Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerich
 - **Davor**: `04-kindschaftssache-elterliche-sorge` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Umgangsrecht Paragraf 1684 Bgb trägt.
 - **Danach**: `06-kindesunterhalt-duesseldorfer-tabelle` - Folgeskill nutzen, sobald Umgangsrecht Paragraf 1684 Bgb entscheidungs- oder verfügungsreif vorbereitet ist.
 
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Familiengericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Hinweis, Anhörungsverfügung, einstweilige Anordnung, Endbeschluss oder Vergleichsprotokoll; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 26, 38, 113, 155, 156, 158, 159, 243 FamFG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstation, Antragsgegnerstation, Kindeswohl- oder Unterhaltsachse, Belegen, Anhörungen und Beschlussformel. Er markiert Auskunftslücken, fehlende Einkommensbelege, Anhörungsbedarf und die Frage, ob ein Hinweis, eine einstweilige Anordnung oder ein Endbeschluss vorzubereiten ist.
+
+---
+
+## Skill: `v392-praxisraster-richter-familiengericht`
+
+_Wenn es um Praxisraster Familiengericht in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix._
+
+# Praxisraster Familiengericht
+
+## Einsatz
+
+Nutze diesen Skill, wenn aus Akte, Antrag, Anklage, Bescheid, Klage, Einspruch oder Ermittlungsstand ein gerichtliches oder staatsanwaltschaftliches Arbeitsprodukt entstehen soll.
+
+## Raster
+
+1. Verfahrensstand und Zuständigkeit bestimmen.
+2. Prozess- oder Verfahrensvoraussetzungen prüfen.
+3. Entscheidungserhebliche Tatsachen von Randstoff trennen.
+4. Vortrag, Ermittlungsstand, Beweisangebote und Beweislast ordnen.
+5. Tragende Normen und Gegenposition knapp würdigen.
+6. Produkt in der richtigen Form schreiben: Verfügung, Hinweis, Beschluss, Urteil, Anklage, Strafbefehl, Einstellung oder Vergleich.
+7. Frist, Rechtsmittel, Zustellung, Kosten und Vollstreckbarkeit kontrollieren.
+
+## Pflichtanker
+
+FamFG Paragraf 26, 38, 49, 68, 151 ff. sowie BGB Paragrafen 1565, 1601, 1684, 1697a und Gewaltschutzgesetz. Schwerpunkt sind Amtsermittlung, Kindeswohl, Anhörung, Jugendamt, Verfahrensbeistand, einstweilige Anordnung und vollstreckbarer Beschluss.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstation, Antragsgegnerstation, Kindeswohl- oder Unterhaltsachse, Belegen, Anhörungen und Beschlussformel. Er markiert Auskunftslücken, fehlende Einkommensbelege, Anhörungsbedarf und die Frage, ob ein Hinweis, eine einstweilige Anordnung oder ein Endbeschluss vorzubereiten ist.
+
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

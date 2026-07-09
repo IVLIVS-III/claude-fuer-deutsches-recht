@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | 3. LG am Liegeplatz (ZPO Paragraf 919) als zuständiges Gericht; ZPO Paragrafen 916-945 Arrest; ZPO Paragraf 929 Vollziehungsfrist; Besteht Risiko des ZPO Paragraf 945-Schadensersatzes |
-| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -55,7 +55,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - [ ] Zuständiges Gericht bestimmt (LG am Liegeplatz; ZPO Paragraf 919): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - [ ] Arrestantrag (ZPO Paragraf 920) vollständig vorbereitet: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH zur Haftung aus ungerechtfertigtem Arrest nach ZPO Paragraf 945: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 7. Antwortform
 

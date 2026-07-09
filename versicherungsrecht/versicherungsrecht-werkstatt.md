@@ -101,7 +101,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 07.05.2014 - IV ZR 76/11: Versicherungsbedingungen sind aus Sicht eines durchschnittlichen Versicherungsnehmers auszulegen.
 - BGH, Urteil vom 25.05.2016 - IV ZR 205/15: Rücktritt wegen Anzeigepflichtverletzung verlangt saubere Risikofragen und Belehrung.
 - BGH, Urteil vom 18.07.2018 - IV ZR 68/17: Leistungsfreiheit setzt konkrete vertragliche Obliegenheit und Rechtsfolgenbelehrung voraus.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 9. Prüfraster
 

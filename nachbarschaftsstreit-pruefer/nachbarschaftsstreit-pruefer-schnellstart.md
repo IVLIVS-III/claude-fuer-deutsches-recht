@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Paragraf 1004 BGB ist kein Freifahrtschein; Paragraf 907 BGB; Paragraf 908 BGB |
-| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Tragende Normen verifizieren: BGB Paragrafen 903, 906, 1004, 910, 912, 917, 921, 922, NachbG |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -52,7 +52,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 907 BGB: Gefahr drohende Anlage auf Nachbargrundstück: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 908 BGB: drohender Gebäudeeinsturz oder Ablösung von Gebäudeteilen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 823 BGB und Verkehrssicherungspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 7. Antwortform
 

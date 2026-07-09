@@ -1,27 +1,27 @@
-# Megaprompt: nda-abgleich
+# Vollprüfung: nda-abgleich
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 91 Skills des Plugins `nda-abgleich`.
+Dieser Vollprüfung enthaelt top-10 von 91 Skills des Plugins `nda-abgleich`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für NDA-Abgleich: ordnet Rolle (Vertragspartner, Berater, Aufsichtsorgan), markiert Frist (…
-2. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im NDA Abgleich-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wuns…
-3. **gleicht-erstpruefung-und-mandatsziel** — Gleicht: Erstprüfung, Rollenklärung und Mandatsziel.
-4. **ampelmatrix-internationaler-bezug-schnittstellen** — Ampelmatrix: Internationaler Bezug und Schnittstellen im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer i…
-5. **ausgabe-mandantenkommunikation-entscheidungsvorlage** — Ausgabe: Mandantenkommunikation und Entscheidungsvorlage im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und we…
-6. **changes-abschlussprodukt-uebergabe** — Changes: Abschlussprodukt und Übergabe im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2…
-7. **docx-beweislast-darlegungslast** — Docx: Beweislast, Darlegungslast und Substantiierung im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer is…
-8. **eigenen-risikoampel-gegenargumente** — Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien im NDA-Abgleich: 1. Welche Rolle hat die fragende Person un…
-9. **entwurf-tatbestandsmerkmale-beweisfragen-beleglage** — Entwurf: Tatbestandsmerkmale, Beweisfragen und Beleglage im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und we…
-10. **gegenseite-fristen-form-zustaendigkeit-rechtsweg** — Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer …
+1. **einstieg-routing** — Wenn es um Einstieg und Routing in NDA-Abgleich geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fa…
+2. **kaltstart-triage** — Wenn es um Kaltstart Triage in NDA-Abgleich geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachsk…
+3. **gleicht-erstpruefung-und-mandatsziel** — Wenn es um Gleicht: Erstprüfung, Rollenklärung und Mandatsziel in NDA-Abgleich geht: klärt Rolle, Ziel, Frist, Unterlage…
+4. **gleicht-erstpruefung-rollenklaerung-mandatsziel** — Wenn es um Gleicht: Erstprüfung, Rollenklärung und Mandatsziel in NDA-Abgleich geht: klärt Rolle, Ziel, Frist, Unterlage…
+5. **ausgabe-mandantenkommunikation-entscheidungsvorlage** — Wenn es um Ausgabe: Mandantenkommunikation und Entscheidungsvorlage in NDA-Abgleich geht: prüft Frist, Form, Zuständigke…
+6. **ampelmatrix-internationaler-bezug-und-schnittstellen** — Wenn es um Ampelmatrix: Internationaler Bezug und Schnittstellen in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit,…
+7. **eigenen-risikoampel-und-gegenargumente** — Wenn es um Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien in NDA-Abgleich geht: zerlegt Ergebnis, Frist, Z…
+8. **arbeitnehmer-kuendigung** — Wenn es um NDA-Abgleich: eigenen Standard destillieren und chirurgisch durchsetzen in NDA-Abgleich geht: entwickelt Verh…
+9. **ampelmatrix-internationaler-bezug-schnittstellen** — Wenn es um Ampelmatrix: Internationaler Bezug und Schnittstellen in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit,…
+10. **gegenseite-fristen-form-zustaendigkeit-rechtsweg** — Wenn es um Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit…
 
 ---
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für NDA-Abgleich: ordnet Rolle (Vertragspartner, Berater, Aufsichtsorgan), markiert Frist (Geltungsdauer NDA (5-10 Jahre)), wählt Norm (BGB §§ 145 ff., 280/339, GeschGehG, DSGVO Art. 28) und Zuständigkeit (zuständige Stelle), leitet zum passenden Spezial-Skill._
+_Wenn es um Einstieg und Routing in NDA-Abgleich geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Einstieg und Routing
 
@@ -75,21 +75,22 @@ Konkret zu prüfen:
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting im NDA Abgleich-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordn_
+_Wenn es um Kaltstart Triage in NDA-Abgleich geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Nda Abgleich** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Schnellstart-Workflow
 
@@ -128,7 +129,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 
 ### 1. Intake in 60 Sekunden
 
-Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+Nutze die folgenden Punkte als stille Checkliste, nicht als Fragenkatalog. Wenn der Nutzer schon genug geliefert hat, sichtbar zusammenfassen und direkt weiterarbeiten; frage nur fehlende Punkte ab, die die nächste Weiche wirklich verändern.
 
 | Punkt | Frage | Warum wichtig? |
 |---|---|---|
@@ -215,23 +216,24 @@ Konkret zu prüfen:
 
 ## Skill: `gleicht-erstpruefung-und-mandatsziel`
 
-_Gleicht: Erstprüfung, Rollenklärung und Mandatsziel._
+_Wenn es um Gleicht: Erstprüfung, Rollenklärung und Mandatsziel in NDA-Abgleich geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gleicht Erstpruefung Und Mandatsziel; Arbeitsfeld: NDA-Abgleich._
 
 # Gleicht: Erstprüfung, Rollenklärung und Mandatsziel
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Gleicht Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Nda Abgleich** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Arbeitsweg
 
@@ -262,9 +264,502 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
+## Skill: `gleicht-erstpruefung-rollenklaerung-mandatsziel`
+
+_Wenn es um Gleicht: Erstprüfung, Rollenklärung und Mandatsziel in NDA-Abgleich geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gleicht Erstpruefung Rollenklaerung Mandatsziel; Arbeitsfeld: NDA-Abgleich._
+
+# Gleicht: Erstprüfung, Rollenklärung und Mandatsziel
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
+- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungsbezug.
+- `Art. 3 Abs. 1 GG` — Gleichbehandlung und Bewertungsfairness.
+- `§ 2 HRG` — Aufgaben der Hochschulen.
+- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
+- `§ 7 HRG` — Ziel des Studiums.
+- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
+- `§ 16 HRG` — Prüfungsordnungen.
+- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Spezialwissen: Gleicht: Erstprüfung, Rollenklärung und Mandatsziel
+- **Normen-/Quellenanker:** NDA, ROT, GELB, GRUEN.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Gleicht** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `ausgabe-mandantenkommunikation-entscheidungsvorlage`
+
+_Wenn es um Ausgabe: Mandantenkommunikation und Entscheidungsvorlage in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ausgabe Mandantenkommunikation Entscheidungsvorlage; Arbeitsfeld: NDA-Abgleich._
+
+# Ausgabe: Mandantenkommunikation und Entscheidungsvorlage
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1353 Abs. 1 BGB` — eheliche Lebensgemeinschaft.
+- `§ 1360 BGB` — Familienunterhalt.
+- `§ 1565 Abs. 1 BGB` — Scheidung.
+- `§ 1570 BGB` — Betreuungsunterhalt.
+- `§ 1601 BGB` — Verwandtenunterhalt.
+- `§ 1626 Abs. 1 BGB` — elterliche Sorge.
+- `§ 1671 BGB` — Sorgerechtsuebertragung.
+- `§ 1684 BGB` — Umgangsrecht.
+- `§ 23a Abs. 1 GVG` — Familiengerichtsbarkeit.
+- `§ 113 FamFG` — Verfahrensregeln in Familienstreitsachen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Spezialwissen: Ausgabe: Mandantenkommunikation und Entscheidungsvorlage
+- **Normen-/Quellenanker:** NDA, ROT, GELB, GRUEN.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Ausgabe** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `ampelmatrix-internationaler-bezug-und-schnittstellen`
+
+_Wenn es um Ampelmatrix: Internationaler Bezug und Schnittstellen in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ampelmatrix Internationaler Bezug Und Schnittstellen; Arbeitsfeld: NDA-Abgleich._
+
+# Ampelmatrix: Internationaler Bezug und Schnittstellen
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: Übliche NDA-Dauer 2–5 Jahre nach Vertragsende, GeschGehG-Anspruchsverjährung § 195 BGB 3 Jahre, EuGH C-435/22 zur restriktiven Auslegung, DSGVO Art. 33 Datenpanne 72h.
+- Tragende Normen verifizieren: GeschGehG §§ 2 Nr. 1, 3, 4, 5, 6, 7, 8, 9, 10, 17, BGB §§ 145 ff., 280, 339, 343, 305 ff. (AGB-Kontrolle), BDSG § 26, DSGVO Art. 6, 28, 32 (TOM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geheimnisinhaber, Empfänger, M&A-Berater, Investmentbanker, externer Dienstleister, Datenschutzbeauftragter, Compliance.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Unilateral NDA, Mutual NDA, Cleanroom-Agreement, Joinder-Erklärung, Term Sheet, AVV nach Art. 28 DSGVO, Verschwiegenheitsanlage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Ampelmatrix: Internationaler Bezug und Schnittstellen
+- **Normen-/Quellenanker:** NDA, ROT, GELB, GRUEN.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Ampelmatrix** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- Art. 28 DSGVO
+- § 17 GeschGehG
+- § 203 StGB
+- § 16-20 GeschGehG
+- § 5 GeschGehG
+- § 2 GeschGehG
+- § 4 GeschGehG
+- § 6 GeschGehG
+- § 9 GeschGehG
+- § 6a ArbGG
+- § 50 GwG
+- Art. 17 DSGVO
+
+### Leitentscheidungen
+
+- EuGH C-435/22
+
+---
+
+## Skill: `eigenen-risikoampel-und-gegenargumente`
+
+_Wenn es um Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien in NDA-Abgleich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Eigenen Risikoampel Und Gegenargumente; Arbeitsfeld: NDA-Abgleich._
+
+# Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: Übliche NDA-Dauer 2–5 Jahre nach Vertragsende, GeschGehG-Anspruchsverjährung § 195 BGB 3 Jahre, EuGH C-435/22 zur restriktiven Auslegung, DSGVO Art. 33 Datenpanne 72h.
+- Tragende Normen verifizieren: GeschGehG §§ 2 Nr. 1, 3, 4, 5, 6, 7, 8, 9, 10, 17, BGB §§ 145 ff., 280, 339, 343, 305 ff. (AGB-Kontrolle), BDSG § 26, DSGVO Art. 6, 28, 32 (TOM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geheimnisinhaber, Empfänger, M&A-Berater, Investmentbanker, externer Dienstleister, Datenschutzbeauftragter, Compliance.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Unilateral NDA, Mutual NDA, Cleanroom-Agreement, Joinder-Erklärung, Term Sheet, AVV nach Art. 28 DSGVO, Verschwiegenheitsanlage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien
+- **Normen-/Quellenanker:** NDA, ROT, GELB, GRUEN.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Eigenen** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `arbeitnehmer-kuendigung`
+
+_Wenn es um NDA-Abgleich: eigenen Standard destillieren und chirurgisch durchsetzen in NDA-Abgleich geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Arbeitnehmer Kuendigung; Arbeitsfeld: NDA-Abgleich._
+
+# NDA-Abgleich: eigenen Standard destillieren und chirurgisch durchsetzen
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: Übliche NDA-Dauer 2–5 Jahre nach Vertragsende, GeschGehG-Anspruchsverjährung § 195 BGB 3 Jahre, EuGH C-435/22 zur restriktiven Auslegung, DSGVO Art. 33 Datenpanne 72h.
+- Tragende Normen verifizieren: GeschGehG §§ 2 Nr. 1, 3, 4, 5, 6, 7, 8, 9, 10, 17, BGB §§ 145 ff., 280, 339, 343, 305 ff. (AGB-Kontrolle), BDSG § 26, DSGVO Art. 6, 28, 32 (TOM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geheimnisinhaber, Empfänger, M&A-Berater, Investmentbanker, externer Dienstleister, Datenschutzbeauftragter, Compliance.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Unilateral NDA, Mutual NDA, Cleanroom-Agreement, Joinder-Erklärung, Term Sheet, AVV nach Art. 28 DSGVO, Verschwiegenheitsanlage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Triage — kläre vor dem Start
+
+1. **Modus:** Modus A (Standard destillieren aus eigenen NDAs) oder Modus B (Redlining eines Gegenseite-Entwurfs) oder beides?
+2. **Unterlagenbasis:** Wie viele eigene NDAs / Entwuerfe liegen vor? Liegt ein Haltelinien-Standard aus früherem Modus A bereits vor?
+3. **Rolle:** Empfangende Seite oder offenbarende Seite — einseits oder gegenseitiger NDA?
+4. **Nicht verhandelbare Punkte (ROT):** Welche Klauseln sind absolut gesetzt (Recht, Gerichtsstand, Nachwirkungsfrist)?
+5. **Datenschutz:** Dürfen die eingereichten NDAs in das eingesetzte KI-System geladen werden (§ 203 StGB, GeschGehG)?
+
+## Zentrale Normen
+- § 2 GeschGehG (Definition Geschäftsgeheimnis — Schutzvoraussetzungen für NDA-Schutzgegenstand): https://www.gesetze-im-internet.de/geschgehg/__2.html
+- § 4 GeschGehG (Handlungsverbote bei Geheimnisverrat): https://www.gesetze-im-internet.de/geschgehg/__4.html
+- § 6 GeschGehG (Unterlassungs- und Beseitigungsanspruechen): https://www.gesetze-im-internet.de/geschgehg/__6.html
+- § 9 GeschGehG (Schadensersatz): https://www.gesetze-im-internet.de/geschgehg/__9.html
+- §§ 16-20 GeschGehG (prozessualer Geheimnisschutz im Geschäftsgeheimnisstreit)
+- **§ 273a ZPO** (neu eingefuegt durch Justizstandort-Staerkungsgesetz; in Kraft 01.04.2025): erstreckt die prozessualen Geheimnisschutzmassnahmen der §§ 16-20 GeschGehG auf alle Zivilverfahren und arbeitsgerichtliche Verfahren (§ 6a ArbGG); Antrag kann jede Partei stellen; Geheimhaltungspflicht aller Beteiligten, Verstoss-Ordnungsmittel bis 100.000 EUR. Quelle: https://www.gesetze-im-internet.de/zpo/__273a.html
+- §§ 305 ff. BGB (AGB-Kontrolle — bei vorformulierten NDA-Klauseln): https://www.gesetze-im-internet.de/bgb/__305.html
+- § 125 BGB (Schriftformerfordernis — doppelte Schriftformklausel): https://www.gesetze-im-internet.de/bgb/__125.html
+- § 203 StGB (Mandatsgeheimnis): https://www.gesetze-im-internet.de/stgb/__203.html
+- Umsetzungshintergrund: Richtlinie (EU) 2016/943 (Trade Secrets Directive): https://eur-lex.europa.eu/eli/dir/2016/943/oj
+
+## Rechtsprechung
+1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Wann diesen Skill aufrufen
+
+Wenn der Anwender (typischerweise als Inhouse-Jurist oder externer Anwalt der **empfangenden Seite**) entweder seinen eigenen NDA-Standard erst noch **erarbeiten** muss oder einen NDA-Entwurf der Gegenseite bekommen hat, den er **nicht durch einen eigenen Entwurf ersetzen** kann oder will, aber dessen interne Haltelinien er dennoch durchsetzen muss.
+
+Der Skill hat zwei Einsatzmodi, die unabhängig oder nacheinander laufen können:
+
+- **Modus A — Standard-Destillation:** Aus 1 bis n eigenen NDAs (oder NDA-Entwuerfen, Verhandlungsergebnissen aus alten Akten, Excel-Auszügen mit Klauselverweisen, freien Erfahrungswerten) wird ein konsolidierter **Haltelinien-Standard** mit Ampelmatrix ROT/GELB/GRUEN erzeugt. Dieser Standard ist die Eingangsgroesse für Modus B und für kuenftige Verhandlungen.
+- **Modus B — Redlining-Lauf:** Der NDA-Entwurf der Gegenseite wird gegen genau diesen Standard chirurgisch redigiert. Ausgabe ist eine .docx mit echten Word-Tracked-Changes.
+
+Der Skill greift, sobald der Anwender mindestens einen der beiden Anwendungsfälle anstoesst. Typische Aufschlaege:
+
+- "Hier sind unsere letzten zehn NDAs, mach uns daraus einen Standard."
+- "Wir haben zwar ein eigenes NDA-Template, aber wichtig ist eigentlich, was wir in der Praxis verhandelt haben — destilliere unseren echten Haltelinien-Standard."
+- "Hier ist der NDA-Entwurf der Gegenseite und unser Standard. Bitte chirurgisch anpassen."
+- "Macht eine .docx mit Tracked Changes draus, so dass die Gegenseite das Dokument noch als ihres erkennt."
+
+Nicht zuständig: Erstellung eines NDA von Null ohne jegliche Vorlage, allgemeine Vertragsprüfung ohne Bezug zu NDA-Klauseln, materiell-rechtliche Würdigung der Vertragsverletzungsfolgen.
+
+## Modus A — Standard-Destillation
+
+### Inputs in Modus A
+
+Alles, was der Anwender beibringen kann, ist verwertbar — gerade weil der Standard aus gelebter Praxis und nicht aus einem Template-Fetisch entstehen soll. Verarbeitbar sind:
+
+- **Eigene NDAs** als .docx oder .pdf (auch viele auf einmal, typischerweise 1 bis 50). Jede Datei wird einzeln analysiert.
+- **NDAs der Gegenseite aus früheren Verhandlungen**, soweit der Anwender sie freigibt. Diese werden besonders interessant ausgewertet: wo hat der Mandant nachgegeben, wo hat die Gegenseite nachgegeben, wo wurde eine Mittellösung gefunden?
+- **Verhandlungs-Notizen, E-Mails, Aktenvermerke** in beliebigem Format. Werden ausgelesen und in den Standard eingeflochten als "Erfahrungswert".
+- **Frei beschriebene Erfahrung** des Anwenders im Chat: "Wir akzeptieren nie Schiedsklauseln, weil unser letzter Schiedsfall in Singapur 14 Monate gedauert hat." Solche freitext-Sätze werden als zusätzliche Haltelinien aufgenommen, sofern sie konkret genug sind.
+- **Eigenes Template-NDA**, sofern vorhanden, als grobe Strukturreferenz. Der Skill **gewichtet das Template aber nicht höher als die gelebte Praxis** — wenn die Praxis vom Template abweicht, gewinnt die Praxis.
+
+Wenn nur ein einziger NDA verfügbar ist, ist das auch in Ordnung; der Skill arbeitet dann mit einer entsprechend duenneren Belegbasis und macht das im Reporting transparent.
+
+### Methodik der Destillation
+
+Für jede der typischen NDA-Klauseln (siehe Klauselkatalog unten) wertet der Skill über alle Inputs hinweg aus:
+
+1. **Welche Position kommt vor?** Pro Klausel werden die tatsächlich vereinbarten Formulierungen extrahiert (Vertragslaufzeit, Gerichtsstand, Vertragsstrafe etc.).
+2. **Wie häufig?** Die Verteilung wird sichtbar gemacht: "In 9 von 12 NDAs deutsches Recht, in 2 schweizerisches, in 1 englisches."
+3. **Mit welcher Streuung?** Wo eine echte Bandbreite besteht (z. B. Nachwirkungsfrist zwischen 2 und 5 Jahren), wird die Spanne und der Median dokumentiert.
+4. **Welche Outlier?** Eine einzelne Abweichung aus einem Spezialfall (z. B. ein NDA für eine US-Akquisition mit Delaware-Recht) wird nicht zur Regel hochgerechnet, sondern als Ausnahme markiert.
+5. **Welche Vorzugsformulierung?** Pro Klausel wird die im Mandantenkreis am häufigsten verwendete Formulierung als Standardposition vorgeschlagen — wörtlich, damit sie später in Modus B als Einfuegungstext direkt zur Verfügung steht.
+
+### Output von Modus A
+
+Die Destillation liefert drei Dateien im Workspace:
+
+- `Haltelinien-Standard_<Mandant>_<Datum>.md` — die konsolidierte Ampelmatrix mit Klausel, Status (ROT/GELB/GRUEN), Standardposition, Bandbreite, Quelle (welche Verträge belegen die Position), Begründung.
+- `Haltelinien-Standard_<Mandant>_<Datum>.docx` — dieselbe Matrix als formatierte Tabelle zum internen Verteilen.
+- `Haltelinien-Standard_<Mandant>_<Datum>.json` — maschinenlesbare Repräsentation derselben Matrix; wird von Modus B als Eingangsgroesse genutzt.
+
+Die Ampel-Zuordnung folgt diesen Heuristiken (der Anwender kann jede überstimmen):
+
+- **ROT** wird vorgeschlagen, wenn in **allen** verfügbaren NDAs dieselbe Position vereinbart wurde und/oder der Anwender sie als "nicht verhandelbar" beschrieben hat.
+- **GELB** wird vorgeschlagen, wenn die Klausel über die Inputs hinweg innerhalb einer engen Bandbreite variiert (z. B. Nachwirkungsfrist 3 bis 5 Jahre, Vertragsstrafe 10 bis 50 TEUR).
+- **GRUEN** wird vorgeschlagen, wenn die Klausel in der gelebten Praxis sehr unterschiedlich gehandhabt wurde, ohne dass das den Schutzinteressen des Mandanten geschadet hätte (Form der Mitteilungen, Sprache, Counterparts).
+
+Der Skill **fragt vor Finalisierung nach**, ob die vorgeschlagene Ampel-Zuordnung passt; im Zweifel werden GELB-Positionen mit der zugehoerigen Bandbreite belassen.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+### Klauselkatalog (Mindestumfang der Destillation)
+
+Der Skill arbeitet jede der folgenden Klauseln ab — auch dann, wenn sie in den Inputs nicht vorkommt, dann mit Markierung "nicht belegt, Standardvorschlag aus juristischem Allgemeingut":
+
+- Parteibezeichnung und Bilateralitaet (gegenseitig oder einseitig).
+- Definition Confidential Information und Kennzeichnungserfordernis.
+- Zweckbindung.
+- Geheimhaltungspflicht und Sorgfaltsmaßstab.
+- Weitergabekreis (Representatives, Konzerngesellschaften, externe Berater).
+- Ausnahmen / Carve-outs (öffentlich bekannt, vor Offenlegung bekannt, eigenständig entwickelt, von Dritten ohne Geheimhaltungspflicht erhalten, gesetzliche Offenlegungspflicht).
+- IP / kein Rechteübergang / Lizenzen.
+- Rückgabe und Vernichtung; Wahlrecht; Aufbewahrungspflichten für Compliance.
+- Vertragslaufzeit und Nachwirkungsfrist.
+- Vertragsstrafe und Schadenersatz.
+- Schriftformklausel (einfach / doppelt) und elektronische Form.
+- Anwendbares Recht (mit oder ohne CISG / IPR-Verweisungen).
+- Gerichtsstand oder Schiedsklausel.
+- Form der Mitteilungen (Notices).
+- Sprache des Vertrags und maßgebliche Fassung.
+- Counterparts, salvatorische Klausel.
+
+Weitere Klauseln, die in den Inputs auftauchen (z. B. Non-Solicitation, Standstill, Publicity, Audit-Right), werden mit aufgenommen und mit Ampel-Vorschlag versehen.
+
+### Iteratives Schärfen
+
+Der Skill behandelt den destillierten Standard als **lebendes Dokument**. Wenn der Anwender später weitere NDAs einreicht, kann derselbe Skill den bestehenden Standard re-destillieren — neue Erkenntnisse fliessen ein, alte Belegbasis bleibt versioniert. Im Workspace wird die jeweils neue Fassung mit Zeitstempel abgelegt, die alte nicht überschrieben.
+
+## Modus B — Redlining-Lauf
+
+### Grundprinzip in Modus B: chirurgisches Redigieren
+
+Der Entwurf der Gegenseite ist das Ausgangsdokument. Er bleibt strukturell **vollständig erhalten**:
+
+- Alle Absätze des Originals bleiben in der Ausgabe enthalten.
+- Keine Absatzlöschungen, keine kompletten Klausel-Neufassungen.
+- Streichungen und Einfuegungen wirken **auf Wort- und kurzer Phrasenebene**.
+- Die Gegenseite muss das Dokument beim Oeffnen sofort wiedererkennen.
+- Änderungen sind als echte Word-Tracked-Changes sichtbar und einzeln annehmbar oder ablehnbar.
+
+Hintergrund: Wer ganze Klauseln durch eigene Formulierungen ersetzt, signalisiert der Gegenseite, dass man einen neuen Entwurf vorlegen will. Das eskaliert die Verhandlung. Wer dagegen drei Worte streicht und durch zwei andere ersetzt, signalisiert: "Wir verhandeln auf eurem Papier, aber unsere Haltelinien stehen fest." Das ist anschlussfähiger und politisch klueger.
+
+### Inputs in Modus B
+
+Für Modus B braucht der Skill:
+
+- den **NDA-Entwurf der Gegenseite** (.docx oder .pdf, OCR falls Bild-PDF) als Ausgangsdokument, und
+- den **Haltelinien-Standard des Mandanten**. Diesen liefert idealerweise Modus A in Form der `.json`- oder `.md`-Datei. Alternativ akzeptiert der Skill auch ein eigenes Standard-NDA des Mandanten plus eine kurze Ampelmatrix als Eingabe — er destilliert dann intern "on the fly" einen Minimal-Standard daraus (mit Hinweis, dass Modus A grundsätzlich die solidere Grundlage ist).
+
+Vor der ersten Änderung liest der Skill alle Inputs vollständig:
+
+- Der Entwurf der Gegenseite wird in seine Absätze zerlegt und durchnummeriert (typischerweise 60 bis 100 Absätze). Diese Nummerierung dient als Adresse für jede Änderung.
+- Der Haltelinien-Standard liefert die **Zielformulierungen** für jede Klausel — also die genauen Worte, mit denen die eigene Position sprachlich am elegantesten ins Dokument der Gegenseite eingebaut werden kann.
+- Die Ampelmatrix liefert die **Reihenfolge der Verbindlichkeit**:
+ - ROT-Einträge sind **nicht verhandelbar**. Jeder ROT-Punkt muss in der Ausgabe-Datei adressiert sein, andernfalls schlägt das Mandat fehl.
+ - GELB-Einträge werden in **Standardposition** eingebracht; die zulässige Bandbreite ist in der Matrix definiert.
+ - GRUEN-Einträge werden nur dann beruehrt, wenn die Gegenseite eine Formulierung gewählt hat, die deutlich vom Standard abweicht — sonst stehen sie unverändert.
+
+Wenn die Ampelmatrix unklar oder unvollständig ist, **fragt der Skill nach**, bevor er beginnt. Er erfindet keine Haltelinien.
+
+## Mapping Klauseln zu Ampelpunkten
+
+Schritt 1: Strukturanalyse des Gegenseite-Entwurfs.
+
+Typische Klauseln im NDA, die der Skill identifiziert:
+
+- Parteibezeichnung und Rollen (einseitig oder bilateral?)
+- Definition Confidential Information
+- Zweckbindung (Purpose)
+- Verpflichtungen der empfangenden Seite
+- Ausnahmen / Carve-outs (öffentlich bekannt, eigenständige Entwicklung, gesetzliche Offenlegungspflicht etc.)
+- Weitergabekreis (Representatives)
+- IP / kein Rechteübergang / Lizenzen
+- Rückgabe und Vernichtung
+- Laufzeit und Nachwirkungsfrist
+- Vertragsstrafe
+- Schriftformklausel
+- Anwendbares Recht und Gerichtsstand
+- Schiedsklausel
+- Form der Mitteilungen (Notices)
+- Sprache des Vertrags
+- Ausfertigungen, salvatorische Klausel, Schriftform, Counterparts
+
+Schritt 2: Mapping jeder erkannten Klausel zu **genau einer** Zeile der Ampelmatrix. Klauseln, die keinem Matrixpunkt entsprechen, werden in der Antwort separat aufgeführt, **nicht aber stillschweigend mitverändert**.
+
+Schritt 3: Pro Matrixpunkt entscheiden, ob der Gegenseite-Text bereits der eigenen Position entspricht (dann keine Änderung) oder ob ein Tracked Change noetig ist.
+
+## Stil der Tracked Changes
+
+Jede einzelne Änderung folgt diesen Regeln:
+
+- **So wenige Worte wie möglich, so viele wie noetig.** Wo ein Wort genügt, wird nicht ein Halbsatz verändert.
+- **Streichung und Einfuegung gehören zusammen.** Niemals nur löschen, ohne den Ersatz mitzugeben. Niemals nur einfügen, ohne die alte Stelle zu streichen, wo eine semantische Verschiebung passiert.
+- **Niemals ganze Absätze löschen.** Auch eine vollständig unakzeptable Klausel wird durch wenige zielgenau geänderte Worte gerettet — etwa "Disclosing Party" zu "Each Party", "California law" zu "the laws of the Federal Republic of Germany".
+- **Keine neuen Absätze einfügen.** Wenn ein Punkt im Entwurf der Gegenseite gar nicht vorkommt (etwa ein vollständiger Carve-out-Katalog fehlt), wird in einem **Kommentar** angemerkt, dass dies in einer separaten Verhandlungsrunde adressiert werden muss — der Skill schlägt nicht eigenmaechtig neue Absätze vor.
+- **Inhalt vor Sprache.** Tippfehler und sprachliche Unsauberkeiten der Gegenseite werden **nur dann** angetastet, wenn sie zugleich eine inhaltliche Verschiebung bewirken. Eine reine Korrektur von "posseses" zu "possesses" ist nicht Aufgabe des Skills.
+
+## Sprache und Ausgangstextpflege
+
+Englischsprachige Entwuerfe werden in Englisch redigiert; deutschsprachige in Deutsch. Mischsprache ist erlaubt, wenn der Standard die deutsche Formulierung vorgibt, der Gegenseite-Entwurf aber englisch ist — dann wird die Einfuegung zweisprachig oder rein in der Vertragssprache der Gegenseite formuliert. Der Anwender entscheidet im Zweifel.
+
+## Technische Spezifikation der Tracked Changes (Word XML)
+
+Die Ausgabedatei ist **valid .docx** und enthält echte Word-Tracked-Changes. Prüfkriterien:
+
+- **`<w:ins>` und `<w:del>` als Geschwister-Elemente** auf der Ebene der Run-Container, nicht verschachtelt.
+- Eingefügter Text steht in `<w:ins>` mit einem Kind-Run `<w:r>`, der wieder einen `<w:t>` trägt.
+- Gelöschter Text steht in `<w:del>` mit einem Kind-Run, dessen Text in `<w:delText>` (statt `<w:t>`) liegt.
+- Beide Elemente tragen die Attribute **`w:id`**, **`w:author`** und **`w:date`**.
+ - `w:author` Standardwert: **"Receiving Party Counsel"** (oder vom Anwender vorgegeben).
+ - `w:date` als ISO-8601-Zeitstempel der Bearbeitung, z. B. `2026-05-20T01:55:00Z`.
+- Jede `w:id` ist im ganzen Dokument eindeutig.
+- Die Datei oeffnet ohne Reparatur-Dialog in Microsoft Word ab Version 2016 und in LibreOffice ab Version 7.
+
+Beispiel für einen Wortaustausch in einem Lauf:
+
+```xml
+<w:r>
+ <w:t xml:space="preserve">governed by </w:t>
+</w:r>
+<w:del w:id="42" w:author="Receiving Party Counsel" w:date="2026-05-20T01:55:00Z">
+ <w:r>
+ <w:delText xml:space="preserve">the laws of the State of Delaware</w:delText>
+ </w:r>
+</w:del>
+<w:ins w:id="43" w:author="Receiving Party Counsel" w:date="2026-05-20T01:55:00Z">
+ <w:r>
+ <w:t xml:space="preserve">the laws of the Federal Republic of Germany, excluding the CISG and rules of private international law</w:t>
+ </w:r>
+</w:ins>
+<w:r>
+ <w:t xml:space="preserve">.</w:t>
+</w:r>
+```
+
+## Empfehlung zur Umsetzung im Code
+
+Über das Python-Paket `python-docx` lassen sich `w:ins` und `w:del` nicht direkt anlegen; der Skill manipuliert das Dokument deshalb auf XML-Ebene mit `lxml` (oder `xml.etree.ElementTree`) auf der `document.xml`-Datei innerhalb der ZIP-Struktur der .docx. Schritte:
+
+1. `.docx` als ZIP entpacken (Python `zipfile`).
+2. `word/document.xml` einlesen, Namespaces registrieren (`w` = `http://schemas.openxmlformats.org/wordprocessingml/2006/main`).
+3. Pro geplanter Änderung den passenden `<w:r>`-Lauf finden, an der Wortgrenze splitten, `<w:del>` und `<w:ins>` mit den korrekten Attributen einfügen.
+4. Alle anderen Dateien (`word/styles.xml`, `_rels`, `[Content_Types].xml`, Headers/Footers) unverändert lassen.
+5. ZIP neu schreiben.
+
+Wichtig: Niemals den Text direkt am Anfang der `document.xml` über regulaere Ausdrücke ersetzen, weil dabei Run-Splits, Formatierung und Tracked-Change-Markup brechen. Immer über den DOM-Baum.
+
+## Header-Eintrag für die empfangende Partei
+
+Der Name des Mandanten (z. B. Wernherr & Dimpflmoser Spezialventiltechnik GmbH & Co. KG) wird als **Tracked Change** an der Stelle eingefügt, wo der Entwurf "[Company Name]" oder einen äquivalenten Platzhalter enthält. Ist kein Platzhalter vorhanden, wird die nächstpassende Stelle (in der "between"-Klausel der Präambel) verwendet und der Eintrag dort durch einen `w:ins`-Block ergänzt.
+
+## Reporting im Chat
+
+Nach Abschluss der Bearbeitung gibt der Skill drei Bloecke aus:
+
+1. **Änderungsübersicht** als Tabelle: Absatznummer (gem. eigener Nummerierung des Entwurfs der Gegenseite), Klausel, Matrixpunkt (ROT/GELB/GRUEN), kurze Beschreibung der vorgenommenen Änderung.
+2. **Offene Punkte**: Was nicht adressiert wurde, weil die Klausel im Entwurf der Gegenseite fehlt (z. B. vollständiger Carve-out-Katalog, doppelte Schriftformklausel). Diese Punkte müssen separat in der Begleitnachricht an die Gegenseite eingebracht werden.
+3. **Verhandlungsrisiken**: Punkte, die GELB sind und voraussichtlich noch Diskussion erfordern. Hinweis auf Bandbreiten der Matrix.
+
+## Datei-Benennung
+
+Die Ausgabedatei trägt den Namen des Ursprungsdokuments mit dem Suffix `_redlined_<Datum>.docx`. Beispiel: `NDA_TechVantage_Global_redlined_2026-05-20.docx`. Keine Umlaute, keine Leerzeichen.
+
+## Was der Skill nicht tut
+
+- **Keine Bewertung des Endverhandlungsergebnisses.** Der Skill stellt nur die Haltelinien sicher; ob das Verhandlungsergebnis kommerziell akzeptabel ist, entscheidet der Anwender.
+- **Keine Prüfung der Bonität oder Rechtsfähigkeit der Gegenseite.**
+- **Keine Prüfung der eigenen Bevollmächtigung.** Der Anwender muss selbst sicherstellen, dass er für den Mandanten zeichnen darf.
+- **Keine Schwaerzung von Drittinformationen.** Wenn der Entwurf der Gegenseite Drittinformationen enthält (Namen, E-Mails von nicht beteiligten Personen in Kommentaren), wird das gemeldet, aber nicht automatisch entfernt.
+- **Keine elektronische Signatur und kein Versand.** Die fertige .docx wird im Workspace abgelegt, der Anwender übernimmt Versand und Signatur.
+
+## Berufspflichtlicher Hinweis
+
+Auch wenn der Skill chirurgisch arbeitet, bleibt die **Letztverantwortung** für den Inhalt des unterzeichneten NDA beim Anwalt. Insbesondere die Prüfung, ob alle materiellen Haltelinien der Ampelmatrix tatsächlich gewahrt sind, ob die GeschGehG-relevanten Anforderungen (Geschäftsgeheimnisgesetz § 2 Nr. 1 lit. b) eingehalten werden und ob keine Drittinteressen oder Mandatsgeheimnisse verletzt werden, ist und bleibt anwaltlich. Der Skill erinnert daran, ersetzt es aber nicht.
+
+## Beispielformulierungen, die diesen Skill auslösen
+
+Für Modus A (Destillation):
+
+- "Hier sind unsere letzten zehn NDAs. Destilliere daraus unseren Standard."
+- "Wir haben zwar ein Template, aber wichtig ist die Praxis. Bau uns daraus eine Ampelmatrix."
+- "Aus diesen NDAs und meinen Notizen einen Haltelinien-Katalog ableiten."
+- "Prüf nochmal mit diesen drei neuen NDAs, ob unser Standard noch stimmt."
+
+Für Modus B (Redlining):
+
+- "Hier ist der NDA-Entwurf von TechVantage Global und unser Standard. Bitte chirurgisch anpassen."
+- "Macht eine .docx mit Tracked Changes draus, so dass wir unsere Haltelinien durchsetzen, aber die Gegenseite das Dokument noch als ihres erkennt."
+- "NDA Redlining gegen unsere Ampelmatrix, behutsam."
+- "Wir sind Receiving Party, die andere Seite hat vorgelegt. Standard durchsetzen ohne neue Absätze."
+- "Bitte nur Wortänderungen, keine ganzen Klauseln neu schreiben."
+
+---
+
 ## Skill: `ampelmatrix-internationaler-bezug-schnittstellen`
 
-_Ampelmatrix: Internationaler Bezug und Schnittstellen im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welch..._
+_Wenn es um Ampelmatrix: Internationaler Bezug und Schnittstellen in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ampelmatrix Internationaler Bezug Schnittstellen; Arbeitsfeld: NDA-Abgleich._
 
 # Ampelmatrix: Internationaler Bezug und Schnittstellen
 
@@ -325,221 +820,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `ausgabe-mandantenkommunikation-entscheidungsvorlage`
-
-_Ausgabe: Mandantenkommunikation und Entscheidungsvorlage im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. We..._
-
-# Ausgabe: Mandantenkommunikation und Entscheidungsvorlage
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1353 Abs. 1 BGB` — eheliche Lebensgemeinschaft.
-- `§ 1360 BGB` — Familienunterhalt.
-- `§ 1565 Abs. 1 BGB` — Scheidung.
-- `§ 1570 BGB` — Betreuungsunterhalt.
-- `§ 1601 BGB` — Verwandtenunterhalt.
-- `§ 1626 Abs. 1 BGB` — elterliche Sorge.
-- `§ 1671 BGB` — Sorgerechtsuebertragung.
-- `§ 1684 BGB` — Umgangsrecht.
-- `§ 23a Abs. 1 GVG` — Familiengerichtsbarkeit.
-- `§ 113 FamFG` — Verfahrensregeln in Familienstreitsachen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Spezialwissen: Ausgabe: Mandantenkommunikation und Entscheidungsvorlage
-- **Normen-/Quellenanker:** NDA, ROT, GELB, GRUEN.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Ausgabe** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `changes-abschlussprodukt-uebergabe`
-
-_Changes: Abschlussprodukt und Übergabe im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche Dokumente, Re..._
-
-# Changes: Abschlussprodukt und Übergabe
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Spezialwissen: Changes: Abschlussprodukt und Übergabe
-- **Normen-/Quellenanker:** NDA, ROT, GELB, GRUEN.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Changes** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `docx-beweislast-darlegungslast`
-
-_Docx: Beweislast, Darlegungslast und Substantiierung im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welche..._
-
-# Docx: Beweislast, Darlegungslast und Substantiierung
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Spezialwissen: Docx: Beweislast, Darlegungslast und Substantiierung
-- **Normen-/Quellenanker:** NDA, ROT, GELB, GRUEN.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Docx** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `eigenen-risikoampel-gegenargumente`
-
-_Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4..._
-
-# Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Spezialwissen: Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** NDA, ROT, GELB, GRUEN.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Eigenen** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `entwurf-tatbestandsmerkmale-beweisfragen-beleglage`
-
-_Entwurf: Tatbestandsmerkmale, Beweisfragen und Beleglage im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. We..._
-
-# Entwurf: Tatbestandsmerkmale, Beweisfragen und Beleglage
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Spezialwissen: Entwurf: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Normen-/Quellenanker:** NDA, ROT, GELB, GRUEN.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Entwurf** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
 ## Skill: `gegenseite-fristen-form-zustaendigkeit-rechtsweg`
 
-_Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg im NDA-Abgleich: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Welc..._
+_Wenn es um Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gegenseite Fristen Form Zuständigkeit Rechtsweg; Arbeitsfeld: NDA-Abgleich._
 
 # Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -583,7 +866,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

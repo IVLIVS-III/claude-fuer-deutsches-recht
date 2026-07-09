@@ -1,27 +1,27 @@
-# Megaprompt: weg-hausverwaltung
+# Vollprüfung: weg-hausverwaltung
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 93 Skills des Plugins `weg-hausverwaltung`.
+Dieser Vollprüfung enthaelt top-10 von 93 Skills des Plugins `weg-hausverwaltung`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für WEG/Hausverwaltung: ordnet Rolle (WEG-Eigentümer, Verwalter, Mehrheit/Minderheit), mark…
-2. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im WEG- und Hausverwaltungs-Plugin (Stand 05/2026). Ordnet Uploads, erkennt Fris…
-3. **operatives-erstpruefung-und-mandatsziel** — Operatives: Erstprüfung, Rollenklärung und Mandatsziel im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul mit N…
-4. **beschlussanfechtung-risiko** — Prüft Beschlüsse auf Anfechtungs- und Nichtigkeitsrisiken nach §§ 44 und 45 WEG (Stand 05/2026): Frist, Beschlusskompete…
-5. **beschlusssammlung-protokoll** — Erstellt und prüft Protokoll, Beschlussverkündung, Beschlusssammlung (§ 24 Abs. 7 WEG), Anlagenverweise, Abstimmungserge…
-6. **beschlussvorlagen-erstellen** — Erstellt WEG-Beschlussvorlagen mit Beschlusskompetenz, Kostenfolge, Ausführungsdetails, Alternativen, Begründung, Anlage…
-7. **betriebskosten-nebenkostenabrechnung** — WEG- und Hausverwaltungs-Schnittstelle Betriebskosten: erstellt und kontrolliert mietrechtliche Betriebskostenabrechnung…
-8. **datenschutz-dokumentenfreigabe** — Prüft Datenschutz und Dokumentenfreigaben in der Hausverwaltung (Stand 05/2026): Eigentümerlisten, Belegeinsicht, Handwe…
-9. **eigentuemerkommunikation-beschwerde** — Formuliert klare, deeskalierende und dokumentationssichere Kommunikation an Eigentümer, Beirat, Mieter und Handwerker be…
-10. **eigentuemerversammlung-vorbereiten** — Plant eine Eigentümerversammlung (Stand 05/2026) von Themenstapel, Beschlussbedarf, Unterlagen, Beiratsabstimmung, Einla…
+1. **einstieg-routing** — Wenn es um Einstieg und Routing in WEG- und Hausverwaltung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden …
+2. **kaltstart-triage** — Wenn es um WEG- und Hausverwaltung — Allgemein in WEG- und Hausverwaltung geht: klärt Rolle, Ziel, Frist, Unterlagen und…
+3. **operatives-erstpruefung-und-mandatsziel** — Wenn es um Operatives Erstpruefung Und Mandatsziel in WEG- und Hausverwaltung geht: klärt Rolle, Ziel, Frist, Unterlagen…
+4. **bauliche-veraenderung-aufzug-treppenlift-20** — Wenn es um Bauliche Veränderung: Aufzug und Treppenlift nach Paragraf 20 Abs. 2 Nr. 2 WEG in WEG- und Hausverwaltung geh…
+5. **kfw-foerderung-pflegekasse-bafa-barriere** — Wenn es um KfW, Pflegekasse und BAFA: Förderung für Barrierefreiheits-Maßnahmen koordinieren in WEG- und Hausverwaltung …
+6. **bad-umbau-bodengleiche-dusche-sondereigentum** — Wenn es um Bad-Umbau: Bodengleiche Dusche im Sondereigentum und Gemeinschaftseigentum in WEG- und Hausverwaltung geht: o…
+7. **marketing-website-impressum-tmg-bewertungen** — Wenn es um Marketing: Website-Impressum, DDG und Bewertungsmanagement in WEG- und Hausverwaltung geht: ordnet Sachverhal…
+8. **bfsg-hausverwalter-website-portal-2025** — Wenn es um BFSG: Barrierefreiheitspflicht für Verwalter-Websites und Eigentümer-Portale in WEG- und Hausverwaltung geht:…
+9. **bauliche-veraenderung-aufzug-treppenlift-20-abs-2-weg** — Wenn es um Aufzug-Nachrüstung und Treppenlift als privilegierte bauliche Veränderung nach Paragraf 20 Abs in WEG- und Ha…
+10. **hausordnung-tauben-fahrrad-kinder** — Wenn es um Hausordnung: Tauben, Fahrrad, Kinder, Weihnachtsbaum in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Nor…
 
 ---
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für WEG/Hausverwaltung: ordnet Rolle (WEG-Eigentümer, Verwalter, Mehrheit/Minderheit), markiert Frist (§ 44 WEG Beschlussanfechtung 1 Mon.), wählt Norm (WEG §§ 18/19/20/23-28/44/45, HeizkostenV, BetrKV) und Zuständigkeit (Amtsgericht Belegenheit), leitet zum passenden..._
+_Wenn es um Einstieg und Routing in WEG- und Hausverwaltung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Einstieg und Routing
 
@@ -65,23 +65,24 @@ Dieser Einstieg routet **Weg Hausverwaltung** vom ersten Sachverhalt zu Rollen, 
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting im WEG- und Hausverwaltungs-Plugin (Stand 05/2026). Ordnet Uploads, erkennt Fristen und Risiken, fragt Rolle und Objekt ab und schlägt passende Skills für Beschlüsse, Eigentümerversammlung, Abrechnung, Handwerker, Verwaltung und Eskalation vor._
+_Wenn es um WEG- und Hausverwaltung — Allgemein in WEG- und Hausverwaltung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # WEG- und Hausverwaltung — Allgemein
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Weg Hausverwaltung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `WEG- und Hausverwaltung — Allgemein` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
@@ -165,7 +166,7 @@ Bei aktueller Rechtslage zuerst `rechtsstand-mai-2026-faktenbank` laden. Keine B
 
 ## Skill: `operatives-erstpruefung-und-mandatsziel`
 
-_Operatives: Erstprüfung, Rollenklärung und Mandatsziel im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Ar..._
+_Wenn es um Operatives Erstpruefung Und Mandatsziel in WEG- und Hausverwaltung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Operatives: Erstprüfung, Rollenklärung und Mandatsziel im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
@@ -219,575 +220,504 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `beschlussanfechtung-risiko`
+## Skill: `bauliche-veraenderung-aufzug-treppenlift-20`
 
-_Prüft Beschlüsse auf Anfechtungs- und Nichtigkeitsrisiken nach §§ 44 und 45 WEG (Stand 05/2026): Frist, Beschlusskompetenz, Einladung, Tagesordnung, Mehrheit, Kostenfolge, Bestimmtheit, ordnungsmäßige Verwaltung sowie BGH-Linie zu Schlüsseländerung (V ZR 236/23, V ZR 128/23), Abrechnungsauslegung..._
+_Wenn es um Bauliche Veränderung: Aufzug und Treppenlift nach Paragraf 20 Abs. 2 Nr. 2 WEG in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Beschlussanfechtung Risiko
-
-## Fachlicher Anker
-
-- **Normen:** §§ 535, §§ 18, § 16 Abs. 2.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Fachkern: Beschlussanfechtung Risiko
-- **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
-- **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
-
-Stand: 05/2026.
-
-## Ziel
-
-Vor oder nach einer Versammlung erkennen, ob ein Beschluss gefährdet ist und wie man mit dem Risiko umgeht.
-
-## Fristen-Block
-
-| Frist | Inhalt | Quelle |
-| --- | --- | --- |
-| 1 Monat ab Beschlussfassung | Klageerhebung Beschlussanfechtungsklage | § 45 Satz 1 WEG |
-| 2 Monate ab Beschlussfassung | Klagebegründung (materielle Ausschlussfrist, regelmäßig nicht verlängerbar) | § 45 Satz 1 WEG; BGH, Urteil vom 09.02.2024, V ZR 33/23 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.02.2024&Aktenzeichen=V+ZR+33/23) |
-| 1 Jahr nach Ablauf der Monatsfrist | Erkundigungsobliegenheit Kläger bei verzögerter Zustellung; sonst geht Verzögerung im Rahmen § 167 ZPO zu Lasten des Klägers | BGH, Urteil vom 25.10.2024, V ZR 17/24 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.10.2024&Aktenzeichen=V+ZR+17/24) |
-
-## Prüfprogramm
-
-| Ebene | Fragen |
-| --- | --- |
-| Frist | Beschlussdatum, Zugang Anfechtungsklage, Begründung innerhalb 2 Monaten? Bei Zustellungsverzögerung: Sachstandsanfrage dokumentiert? |
-| Kompetenz | Darf die GdWE darüber beschließen? Reicht Mehrheit oder ist Vereinbarung nötig? Bei Schlüsseländerung (§ 16 Abs. 2 Satz 2 WEG): sachlicher Grund dokumentiert? |
-| Form | Einladung fristgerecht (§ 24 Abs. 4 WEG, 3 Wochen, soweit GO keine längere Frist), Tagesordnung hinreichend bestimmt, Zugang, Vollmacht, Stimmrecht, virtuelle Teilnahme (§ 23 Abs. 1a WEG)? |
-| Inhalt | Bestimmtheit, klare Kostenfolge, Verteilungsschlüssel begründet, ordnungsmäßige Verwaltung, Treu und Glauben, keine versteckten Nebenentscheidungen |
-| Umsetzung | Vollmacht des Verwalters, Budget, Beirat, Auflagen, Dokumentation, Anlagenverweis |
-
-## Häufige Anfechtungsanlässe (Stand 05/2026)
-
-1. **Pauschale Abrechnungs-Genehmigung** ohne Trennung von Abrechnungsspitzen — Auslegung im Sinn der Nachschüsse möglich (BGH, Urteil vom 19.07.2024, V ZR 102/23 — https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.07.2024&Aktenzeichen=V+ZR+102/23), aber besser von Anfang an sauber.
-2. **Schlüsseländerung ohne sachlichen Grund**: Bei gegenständlich abgegrenzter Kostentrennung (z. B. Tiefgarage) und bei Erhaltungsrücklage — siehe BGH, Urteile vom 14.02.2025, V ZR 236/23 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+236/23) und V ZR 128/23 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+128/23).
-3. **Gestattungsbeschluss bauliche Veränderung** mit Auflagen, die in Wahrheit Nutzungsregeln vorwegnehmen: Bei Klimasplit & Co. zählen primär die unmittelbaren Auswirkungen (BGH, Urteil vom 28.03.2025, V ZR 105/24 — https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=28.03.2025&Aktenzeichen=V+ZR+105/24).
-4. **Sonderumlage ohne klare Fälligkeit oder ohne zweckgebundene Verwaltung**.
-5. **Verwalterbestellung/-vertrag** ohne Vergleichsangebote, Alternativen oder ohne Information vor der Versammlung.
-6. **Verstoß gegen § 23 Abs. 1a WEG** bei rein virtueller Versammlung ohne Beschlussgrundlage.
-
-## Heilungsstrategie
-
-- Heilung über Zweitbeschluss noch in laufender Anfechtungsfrist (Klage ggf. zurücknehmen).
-- Sachlichen Grund nachreichen (Schlüsseländerung) und Beschluss erläuternd präzisieren.
-- Mehrheits- und Beschlussfähigkeit dokumentieren (Stimmrechtsliste, Vollmachten).
-- Kostenfolge expliziter formulieren, Anlagen vollständig benennen.
-
-## Cross-Refs
-
-- Beschluss formulieren / präzisieren → `beschlussvorlagen-erstellen`
-- Eigentümerversammlung Vorbereitung → `eigentuemerversammlung-vorbereiten`
-- Eskalation Gericht → `eskalation-anwalt-amtsgericht`
-
-## Quellenpflicht
-
-`rechtsstand-mai-2026-faktenbank` laden. Rechtsprechungsaussagen nur mit offen prüfbarer Quelle (dejure.org, openjur.de, bundesgerichtshof.de).
-
----
-
-## Skill: `beschlusssammlung-protokoll`
-
-_Erstellt und prüft Protokoll, Beschlussverkündung, Beschlusssammlung (§ 24 Abs. 7 WEG), Anlagenverweise, Abstimmungsergebnis, Nachversand und Dokumentationsstand (Stand 05/2026). Sorgt dafür, dass Auslegungsfragen späterer Beschlussklagen (z. B. BGH V ZR 102/23 zu Abrechnungsbeschlüssen) nicht en..._
-
-# Beschlusssammlung und Protokoll
+# Bauliche Veränderung: Aufzug und Treppenlift nach § 20 Abs. 2 Nr. 2 WEG
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 535, §§ 18, § 16 Abs. 2.
+- **Normen:** § 20 Abs. 2 Nr. 2 WEG, §§ 535, §§ 18.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Fachkern: Beschlusssammlung und Protokoll
-- **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
-- **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
-
-Stand: 05/2026.
-
 ## Ziel
 
-Die Nachbereitung einer Eigentümerversammlung so dokumentieren, dass später klar ist, was beschlossen wurde, mit welcher Mehrheit, zu welchen Kosten und auf welcher Grundlage.
+Eigentümer haben einen Anspruch auf Gestattung eines Aufzugs oder Treppenlifts als privilegierte bauliche Veränderung nach § 20 Abs. 2 Nr. 2 WEG. Die GdWE kann das „Wie" regeln, nicht aber den Anspruch an sich verweigern. Der Skill prüft Anspruchsvoraussetzungen, technische Mindeststandards, Kostentragung und Förderung.
 
-## Protokollfelder
+## Anspruchsgrundlage und Reichweite
 
-- **Versammlungsdaten**: Datum, Ort, Format (physisch/virtuell/hybrid), Beginn/Ende.
-- **Teilnehmende**: Anwesende, Vertretene, Vollmachten, Versammlungsleitung, Protokollführung.
-- **Stimmrechte und MEA**: Liste je Einheit, ggf. Stimmverbote (§ 25 Abs. 4 WEG) dokumentiert.
-- **Tagesordnungspunkt und Beschlusswortlaut** (vollständig, nicht zusammengefasst).
-- **Abstimmungsergebnis** mit Ja / Nein / Enthaltung und ggf. MEA, sofern relevant.
-- **Feststellung und Verkündung** durch Versammlungsleitung.
-- **Anlagen und Angebote** mit Quelle und Stand.
-- **Umsetzungsauftrag**: Wer macht was bis wann, mit welcher Vollmacht, welchem Budget, welcher Berichterstattung?
-- **Hinweise auf Erkundigungsobliegenheit**: Eigentümer, die anfechten wollen, sollten daran erinnert werden, dass nach BGH, Urteil vom 25.10.2024, V ZR 17/24 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.10.2024&Aktenzeichen=V+ZR+17/24) bei Zustellungsverzug innerhalb eines Jahres beim Gericht der Sachstand zu erfragen ist.
+§ 20 Abs. 2 Nr. 2 WEG: Barrierefreier Aus- und Umbau als privilegierte Maßnahme — kein freies Ermessen der GdWE. Die GdWE darf sachgerechte Auflagen zur Ausführung, Optik, Sicherheit und zum Rückbau stellen, darf aber den Anspruch nicht durch unzumutbare Auflagen leerlaufen lassen. Norm: https://www.gesetze-im-internet.de/woeigg/__20.html
 
-## Auslegungssicherheit
+BGH, Urteil vom 09.02.2024, V ZR 244/22: Auch ein außen am Gebäude angebauter Aufzug mit erheblichen Eingriffen in das Gemeinschaftseigentum (Öffnung Fassade, Fundament) ist vom Anspruch gedeckt; Beeinträchtigungen anderer Eigentümer sind ggf. auszugleichen, heben den Anspruch aber nicht auf. Verweis: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.02.2024&Aktenzeichen=V+ZR+244%2F22
 
-- TOP zu Jahresabrechnung **immer** als "Abrechnungsspitzen" formulieren — vermeidet die nachträgliche Auslegungskonstruktion aus BGH, Urteil vom 19.07.2024, V ZR 102/23 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.07.2024&Aktenzeichen=V+ZR+102/23).
-- Bei Schlüsseländerung den sachlichen Grund **schriftlich** ins Protokoll aufnehmen (Bezug zu BGH, Urteile vom 14.02.2025, V ZR 236/23 und V ZR 128/23).
-- Bei Gestattungsbeschluss zur baulichen Veränderung Auflagen aus dem Wortlaut und nicht nur aus der Anlage erkennbar machen.
+## Technische Mindeststandards (DIN 18040-2)
 
-## Beschlusssammlung (§ 24 Abs. 7 WEG)
+DIN 18040-2 (Wohnungen, barrierefrei planbar): Aufzug-Kabinengröße mind. 110 cm x 140 cm (Rollstuhl drehbar), Türbreite licht mind. 90 cm, Bedienelemente in Greifhöhe 85 cm, Kontrast Schrift/Hintergrund 7:1, taktile Markierungen. Bewegungsflächen vor Aufzugtür im Treppenhaus: mind. 150 cm x 150 cm. Schwellen max. 2 cm. Türbreiten Wohnungseingänge: mind. 80 cm (besser 90 cm). Norm DIN 18040-2 gilt als anerkannte Regel der Technik.
 
-Tabellarisch mit:
+Treppenlift im Treppenhaus: Schienensystem am Treppengeländer oder an der Wand — Rettungsweg-Freiheit nach Landesbauordnung prüfen (typisch: 1 m Breite Fluchtweg muss verbleiben). Brandschutz: Treppenlift-Polsterung nicht aus brennbaren Materialien (B2 nach DIN 4102). Sachverständigen-Gutachten empfohlen.
 
-| lfd. Nr. | Datum | TOP | Beschlusswortlaut | Ergebnis (Ja/Nein/Enth.) | Status (gültig, angefochten, aufgehoben) | Anfechtungshinweis | Umsetzung | Ablageort |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Außenaufzug: Statik-Gutachten, ggf. Baugenehmigung nach Landesbauordnung, Denkmalschutz-Befreiung wenn Denkmal. Erscheinungsbild-Wahrung: GdWE darf Farbgebung und Material vorschreiben, nicht aber Aufzug insgesamt verweigern.
 
-- **Unverzüglich** nach Verkündung eintragen.
-- Bei späterer Aufhebung / Anfechtungsurteil: Eintragung ergänzen, ursprünglichen Eintrag stehen lassen (Historie).
+## Kostentragung (§ 21 WEG)
 
-## Mustertext "Nachversand"
+§ 21 Abs. 1 WEG: Antragsteller trägt Kosten der Maßnahme und des laufenden Betriebs. § 21 Abs. 4 WEG: Andere Eigentümer können Nutzungsrecht erwerben durch Beitritt gegen anteilige Kostentragung (nachträglicher Zutritt). Beitrittserklärung und Kostenanteil sind im Beschluss zu regeln. Norm: https://www.gesetze-im-internet.de/woeigg/__21.html
 
-> Sehr geehrte Eigentümer,
-> anliegend übersende ich Ihnen das Protokoll der Eigentümerversammlung vom [Datum] (Anlage 1) sowie die Beschlüsse Nr. [...] bis [...].
-> Die Beschlüsse sind in die Beschlusssammlung gem. § 24 Abs. 7 WEG eingetragen.
-> **Hinweis Anfechtungsfristen**: Eine Beschlussanfechtungsklage muss innerhalb eines Monats ab Beschlussfassung erhoben und innerhalb von zwei Monaten begründet werden (§ 45 WEG). Bei Zustellungsverzögerungen empfiehlt sich, innerhalb eines Jahres beim Gericht den Sachstand zu erfragen (BGH, V ZR 17/24).
-> Für Rückfragen stehe ich Ihnen zur Verfügung.
+## Förderung (Stand 06/2026 — vor Antrag live verifizieren)
+
+- KfW-Programm 159 (Altersgerecht Umbauen Kredit): bis 50.000 Euro pro Wohneinheit, zinsgünstig, 5 Jahre tilgungsfrei möglich. Antrag vor Bauvertrag bei Hausbank stellen.
+- KfW 455-B (Zuschuss Altersgerecht Umbauen): seit 2022 ausgesetzt — aktuellen Status auf kfw.de prüfen.
+- Pflegekasse § 40 Abs. 4 SGB XI: bis 4.180 Euro je Maßnahme bei Pflegegrad 1-5 (Stand 06/2026 — verifizieren). Antrag VOR Maßnahmenbeginn. Norm: https://www.gesetze-im-internet.de/sgb_11/__40.html
+- Kommunale Programme: Berlin SIWA (Soziale Infrastruktur und Wohnraumförderung), Hamburg WK Hamburg, München Wohnungspolitik-Fonds.
 
 ## Cross-Refs
 
-- Anfechtungsrisiko → `beschlussanfechtung-risiko`
-- Vorbereitung Versammlung → `eigentuemerversammlung-vorbereiten`
-- Beschlussformulierung → `beschlussvorlagen-erstellen`
-
-## Quellenpflicht
-
-`rechtsstand-mai-2026-faktenbank` laden. § 24 Abs. 7 WEG: https://www.gesetze-im-internet.de/woeigg/__24.html .
-
----
-
-## Skill: `beschlussvorlagen-erstellen`
-
-_Erstellt WEG-Beschlussvorlagen mit Beschlusskompetenz, Kostenfolge, Ausführungsdetails, Alternativen, Begründung, Anlagenverweis und Anfechtungsrisiko (Stand 05/2026). Liefert Mustertexte für Abrechnungsspitzen, Sonderumlage, Schlüsseländerung mit sachlichem Grund, bauliche Veränderungen und Verw..._
-
-# Beschlussvorlagen Erstellen
-
-## Fachlicher Anker
-
-- **Normen:** §§ 535, §§ 18, § 16 Abs. 2.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Fachkern: Beschlussvorlagen Erstellen
-- **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
-- **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
-
-Stand: 05/2026.
-
-## Ziel
-
-Aus einem Verwaltungsthema wird ein klarer Beschlussantrag, der nicht zu viel und nicht zu wenig regelt.
-
-## Aufbau
-
-1. **Beschlussgegenstand**: Was wird entschieden? (Ein Satz.)
-2. **Rechts- und Kompetenzanker**: WEG-Norm, Gemeinschaftsordnung, Vorbeschlüsse, BGH-Anker.
-3. **Ausführung**: Wer beauftragt wen, bis wann, mit welchem Budget, mit welcher Vollmacht?
-4. **Kostenfolge**: Schlüssel, Sonderumlage, Rücklage, Wirtschaftsplan, Fälligkeit. Bei Schlüsseländerung: sachlicher Grund (siehe BGH V ZR 236/23, V ZR 128/23 vom 14.02.2025).
-5. **Kontrolle**: Beirat, Vergleichsangebote, Abnahme, Gewährleistung, Berichtspflicht.
-6. **Alternativen**: Nullvariante, kleinere Lösung, Höchstpreisdeckel, Vertagung mit Frist.
-
-## Stilregeln
-
-- Ein Beschluss, ein Gedanke.
-- Keine versteckten Nebenentscheidungen ("im Übrigen" - "soweit erforderlich").
-- Kosten, Schlüssel und Vollmacht ausdrücklich.
-- Anlagen präzise benennen ("Angebot Fa. X vom [Datum], Anlage 4").
-- Bei baulichen Veränderungen: Trennung von Gestattung (§ 20 WEG) und Kostentragung (§ 21 WEG) im Wortlaut.
-
-## Mustertexte
-
-### Abrechnungsspitzen (§ 28 Abs. 2 WEG)
-
-> Die Wohnungseigentümer beschließen auf der Grundlage der Jahresabrechnung [Jahr] (Anlage 1):
-> 1. Die sich aus der Jahresabrechnung ergebenden Nachschüsse / Anpassungen der Vorschüsse gemäß den Einzelabrechnungen (Anlage 2).
-> 2. Fälligkeit der Nachschüsse: [Datum].
-> 3. Guthaben werden bis [Datum] mit nächsten Hausgeldzahlungen verrechnet.
-> 4. Der Vermögensbericht zum [Stichtag] (Anlage 3) wird zur Kenntnis genommen.
-
-### Wirtschaftsplan (§ 28 Abs. 1 WEG)
-
-> Die Wohnungseigentümer beschließen den Wirtschaftsplan [Jahr] (Anlage 1) sowie die hieraus resultierenden Vorschüsse je Einheit gemäß Anlage 2. Fälligkeit monatlich zum [Tag], beginnend mit [Monat/Jahr].
-
-### Sonderumlage
-
-> Die Wohnungseigentümer beschließen eine Sonderumlage in Höhe von [Betrag] EUR zur Finanzierung von [Zweck]. Verteilung nach allgemeinem Kostenschlüssel (MEA / Einheiten) gemäß Anlage [X]. Fälligkeit [Datum / X Werktage nach Zugang der Einzelabrechnung]. Buchung auf einem zweckgebundenen Konto der GdWE.
-
-### Schlüsseländerung mit sachlichem Grund (§ 16 Abs. 2 Satz 2 WEG)
-
-> Die Wohnungseigentümer beschließen, den Kostenverteilungsschlüssel für [Kostenart, z. B. Wärmeerzeugung / Erhaltungsrücklage] von [alt] auf [neu] zu ändern.
-> **Sachlicher Grund**: [konkrete Begründung, z. B. der bisherige Schlüssel privilegiert die Gewerbeeinheiten ohne sachlichen Grund; die geänderte Verteilung entspricht dem tatsächlichen Nutzen / dem aktuellen Verbrauchsverhältnis; vgl. BGH, Urteile vom 14.02.2025, V ZR 236/23 und V ZR 128/23].
-> Die Änderung gilt für Abrechnungen ab dem [Datum].
-
-### Bauliche Veränderung (Gestattung + Kostenfolge getrennt)
-
-> 1. (Gestattung): Den Eigentümern der Einheit Nr. [...] wird gestattet, [Maßnahme] gemäß Anlage [X] mit den dort beschriebenen Auflagen (Optik, Versicherung, Wartung, Rückbau) zu errichten.
-> 2. (Kostenfolge): Die Kosten der baulichen Veränderung sowie Folgekosten (Wartung, Versicherung, Rückbau) trägt der Antragsteller allein (§ 21 Abs. 1 WEG).
-
-### Verwaltervergabe / Bestellung
-
-> Die Wohnungseigentümer bestellen [Firma] zum Verwalter der WEG für die Dauer von [Laufzeit, max. 5 Jahre] beginnend zum [Datum]. Der Verwaltervertrag gemäß Anlage [X] wird beschlossen; die Verwaltung wird ermächtigt, ihn nach Maßgabe der Anlage zu unterzeichnen.
-
-### Schadensbearbeitung über GdWE (nach BGH V ZR 34/24)
-
-> Die Wohnungseigentümer beschließen, den Anspruch auf Ersatz des Schadens [Sachverhalt] gegenüber der GdWE geltend zu machen; die Verwaltung wird beauftragt, etwaige Regressansprüche der GdWE gegenüber dem (vormaligen) Verwalter zu prüfen und ggf. geltend zu machen.
-
-## Cross-Refs
-
-- Vorbefassung / Anfechtung → `beschlussanfechtung-risiko`
-- Einladung / Tagesordnung → `einladung-tagesordnung-fristen`
-- Bauliche Veränderungen → `bauliche-veraenderungen-20-weg`, `steckersolar-wallbox-barrierefreiheit`
-- Liquidität / Sonderumlage → `hausgeld-sonderumlage-liquiditaet`
-
-## Quellenpflicht
-
-`rechtsstand-mai-2026-faktenbank` laden. Rechtsprechungsaussagen nur mit offen prüfbarer Quelle.
-
----
-
-## Skill: `betriebskosten-nebenkostenabrechnung`
-
-_WEG- und Hausverwaltungs-Schnittstelle Betriebskosten: erstellt und kontrolliert mietrechtliche Betriebskostenabrechnungen aus WEG-Jahresabrechnung, Wirtschaftsplan, Heizkostenabrechnung und Belegen; mit BetrKV, HeizkostenV, CO2KostAufG, § 556 BGB, Abrechnungsspitze und Datenpaket für vermietende..._
-
-# Betriebskosten und Nebenkosten in der WEG-Verwaltung
-
-## Fachlicher Anker
-
-- **Normen:** §§ 535, §§ 18, § 16 Abs. 2.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Fachkern: Betriebskosten und Nebenkosten in der WEG-Verwaltung
-- **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
-- **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
-
-Stand: 05/2026.
-
-## Ziel
-
-Die Hausverwaltung soll zwei Welten auseinanderhalten:
-
-- **WEG-Rechnung**: GdWE, Eigentümer, Nachschüsse und Vorschussanpassung nach § 28 Abs. 2 WEG.
-- **Mietrechtliche Betriebskostenabrechnung**: Vermieter, Mieter, Umlagevereinbarung, BetrKV, HeizkostenV, CO2KostAufG, § 556 BGB.
-
-Eine WEG-Einzelabrechnung ist kein fertiger Mieternebenkostenbescheid. Sie ist Rohmaterial.
-
-## Einstieg
-
-1. Wer fragt: WEG-Verwalter, vermietender Eigentümer, Mieter, Anwalt?
-2. Geht es um Erstellung, Prüfung, Datenanforderung oder Streit?
-3. Welche Unterlagen liegen vor: Jahresabrechnung, Einzelabrechnung, Wirtschaftsplan, Heizkosten, CO2, Rechnungen, Zahlungsbelege?
-4. Wohnraum, Gewerbeeinheit oder gemischte Nutzung?
-5. Soll ein Mieteranschreiben, Eigentümerdatenpaket, Belegeinsichtsprotokoll oder Beschluss-/Anfechtungsvermerk entstehen?
-
-## Prüfung
-
-- **Umlagefähigkeit** nach Mietvertrag (Klausel auf BetrKV verweisend) und BetrKV (https://www.gesetze-im-internet.de/betrkv/).
-- **Abrechnungszeitraum**: in der Regel Kalenderjahr; muss im Mietvertrag oder konsequent praktiziert sein.
-- **Zugangsfrist**: Vermieter muss innerhalb von **12 Monaten** ab Ende des Abrechnungszeitraums abrechnen (§ 556 Abs. 3 BGB — https://www.gesetze-im-internet.de/bgb/__556.html). Nach Ablauf nur noch zugunsten des Mieters Korrekturen möglich.
-- **Verteilerschlüssel** nach Mietvertrag, Wohnfläche, Verbrauch oder Einheiten; bei Heizung/Warmwasser zwingend nach HeizkostenV: verbrauchsabhängiger Anteil mindestens 50 % und höchstens 70 %, der restliche Anteil (30 % bis 50 %) nach Wohnfläche oder umbautem Raum (§§ 7, 8 HeizkostenV — https://www.gesetze-im-internet.de/heizkostenv/). Der häufige Schlüssel 70/30 (70 % Verbrauch, 30 % Fläche) ist eine zulässige Ausgestaltung innerhalb dieser Bandbreite, nicht die einzige.
-- **HeizkostenV**: Erfassung, Verteilung, Ablesung, Zwischenablesung bei Mieterwechsel.
-- **Nicht umlagefähig**: Verwaltungskosten, Instandsetzung/Erhaltung (vs. Wartung), Bankgebühren ohne Vertragsgrundlage, Reparaturen, Erhaltungsrücklage.
-- **Belegeinsicht** nach Aufforderung; Vermieter muss Einsicht ermöglichen, ggf. gegen Kostenerstattung Kopien.
-- **Einwendungen** des Mieters: innerhalb 12 Monaten ab Zugang der Abrechnung (§ 556 Abs. 3 Satz 5 BGB).
-
-## WEG-spezifische Übersetzung
-
-| WEG-Position | Mietrechtliche Behandlung | Warnung |
-| --- | --- | --- |
-| Verwalterhonorar | nicht umlagefähig | aus Mieterabrechnung herausnehmen |
-| Erhaltungsrücklage | nicht umlagefähig | keine Betriebskosten |
-| Reparatur/Instandsetzung | nicht umlagefähig | Wartung/Reparatur trennen |
-| Hausmeister | nur laufende, umlagefähige Tätigkeiten | Tätigkeitsliste verlangen |
-| Versicherung | umlagefähig nur bei Grundstücksbezug | Police prüfen |
-| Gewerbe-Sonderkosten | Vorwegabzug möglich/nötig | Restaurant/Praxis/Tiefgarage separat prüfen |
-| Heizkosten | HeizkostenV gesondert | nicht in allgemeine Fläche ziehen |
-| CO2-Kosten | CO2KostAufG | Vermieteranteil nicht umlagen |
-
-## Abrechnungsspitze und Beschluss
-
-Seit der WEG-Reform beschließen Eigentümer nicht mehr die Jahresabrechnung "als solche", sondern die Einforderung von Nachschüssen oder Anpassung der Vorschüsse. Fehler im Zahlenwerk sind für eine Anfechtung besonders relevant, wenn sie sich auf die Abrechnungsspitze und damit die Zahlungspflicht auswirken. Für die Mieterseite bleibt zusätzlich die mietrechtliche Umrechnung nötig.
-
-## CO2KostAufG (seit 01.01.2023)
-
-- Verteilung der CO₂-Kosten zwischen Vermieter und Mieter nach Zehn-Stufen-Modell (kg CO₂/m²·a).
-- Hoch-Emissionsgebäude: Vermieter trägt 95 %, Mieter 5 %. EH-55-Neubau: Mieter 100 %.
-- Nichtwohngebäude: derzeit grundsätzlich hälftige Aufteilung, kein verbindliches Stufenmodell "ab 2025" behaupten.
-- WEG-Abrechnung sollte die für die Stufenermittlung erforderlichen Daten (Brennstoffmenge, Emissionsfaktor, Energieausweis-Werte) liefern, damit der vermietende Eigentümer die Aufteilung mietvertraglich umsetzen kann.
-- Quelle: https://www.gesetze-im-internet.de/co2kostaufg/
-
-## Mietpreisbremse — Schnittstelle
-
-- Mietpreisbremse §§ 556d ff. BGB ist bis **31.12.2029** verlängert (Gesetz vom 17.07.2025, BGBl. 2025 I Nr. 163: https://www.recht.bund.de/bgbl/1/2025/163/VO.html, Inkrafttreten 23.07.2025); gilt in Gebieten, die durch Landesrechtsverordnung als angespannte Wohnungsmärkte ausgewiesen sind.
-- Auswirkung auf Betriebskostenabrechnung: keine direkte; aber bei Nettokaltmiete-Korrekturen Hinweis auf erlaubte Höchstmiete prüfen.
-
-## Mustertext Einwendung Mieter
-
-> Sehr geehrte Damen und Herren,
-> hinsichtlich der Betriebskostenabrechnung [Jahr] vom [Datum] erhebe ich folgende Einwendungen:
-> 1. Position [...]: nicht umlagefähig nach BetrKV (Begründung: [...]).
-> 2. Position [...]: Schlüssel weicht von mietvertraglicher Vereinbarung ab (vereinbart [...] statt verwendet [...]).
-> 3. Position [...]: rechnerische Unstimmigkeit (Summe [...] passt nicht zu Einzelposten [...]).
-> Ich bitte um Belegeinsicht und Korrektur innerhalb von [Frist].
-
-## Prüf-Tabelle (Schema)
-
-| Position | Umlagefähig? (BetrKV) | Schlüssel ok? | Plausibilität / Beleg | Korrekturbedarf |
-| --- | --- | --- | --- | --- |
-| Heizung/Warmwasser | ja (BetrKV Nr. 4) | HeizkostenV beachtet? | Verbrauchsdaten, Brennstoff | ggf. CO₂-Aufteilung |
-| Wasser/Abwasser | ja | Verbrauch/Einheiten | Zähler/Rechnung | |
-| Müll | ja | Einheiten/Wohnfläche | kommunale Gebühren | |
-| Hausmeister | ja, soweit nicht Reparatur | Vertrag/Stundenliste | Stundennachweise | Aussonderung von Reparaturen |
-| Verwalterkosten WEG | nein (Verwaltungskosten) | — | — | herausnehmen |
-
-## Cross-Refs
-
-- WEG-Abrechnungsseite → `wirtschaftsplan-jahresabrechnung-28-weg`
-- Vermietender Eigentümer / Datenfluss → `verwalterpflichten-26-27-weg`
-- Eskalation → `eskalation-anwalt-amtsgericht`
-- Mietrecht-Plugin als Schnittstelle
-
-## Quellenpflicht
-
-`rechtsstand-mai-2026-faktenbank` laden. BetrKV: https://www.gesetze-im-internet.de/betrkv/ ; HeizkostenV: https://www.gesetze-im-internet.de/heizkostenv/ ; § 556 BGB: https://www.gesetze-im-internet.de/bgb/__556.html ; CO2KostAufG: https://www.gesetze-im-internet.de/co2kostaufg/ .
-
----
-
-## Skill: `datenschutz-dokumentenfreigabe`
-
-_Prüft Datenschutz und Dokumentenfreigaben in der Hausverwaltung (Stand 05/2026): Eigentümerlisten, Belegeinsicht, Handwerkerdaten, Mieterbeschwerden, Cloud-Ordner, Schwärzungen und Versandkreis. Schnittstelle zum Datenschutzrecht-Plugin bei hohem Risiko; Belegeinsicht nach § 18 Abs. 4 WEG (Verwal..._
-
-# Datenschutz und Dokumentenfreigabe
-
-## Fachlicher Anker
-
-- **Normen:** §§ 535, §§ 18, § 16 Abs. 2.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Fachkern: Datenschutz und Dokumentenfreigabe
-- **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
-- **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
-
-Stand: 05/2026.
-
-## Ziel
-
-Transparenz in der GdWE ermöglichen, ohne personenbezogene Daten unnötig breit zu streuen. Maßstab: DSGVO (Erforderlichkeit, Zweckbindung, Datenminimierung), berechtigte Interessen der GdWE und einzelner Eigentümer.
-
-## Prüfpunkte
-
-- **Wer braucht welches Dokument wofür?** (Eigentümer, Beirat, Verwalter, Anwalt, Handwerker, Mieter)
-- **Welche Daten?** Eigentümerdaten (Name, Adresse, Anteil), Mieterdaten, Kontodaten, Gesundheitsdaten, Beschwerdedaten, Strafdaten.
-- **Schwärzung / Auszug / Einsicht** statt breitem Versand.
-- **Cloud-Freigaben**: Linkablaufzeit, Berechtigungen, Protokoll, AVV mit Anbieter (Art. 28 DSGVO).
-- **Schnittstelle Datenschutzrecht-Plugin** bei hohem Risiko (z. B. Datenpanne, sensible Daten, größere Eigentümerzahl betroffen).
-
-## Typische Konstellationen
-
-| Anliegen | Empfehlung |
-| --- | --- |
-| Eigentümerliste an alle versenden | nur Name + Einheit + Anteil bei berechtigtem Interesse; Telefon/E-Mail nur mit Einwilligung |
-| Belegeinsicht Jahresabrechnung | Vor Ort oder über sicheres Portal; sensible Belege (Krankheits-/Gesundheitsdaten) schwärzen |
-| Mieterbeschwerde an WEG-Verwalter | mit Eigentümer kommunizieren; Klartext-Daten der Mieter nur, soweit erforderlich |
-| Handwerker erhält Eigentümerliste | regelmäßig **nicht**; nur Kontakt der WEG-Verwaltung oder benannte Ansprechpartner |
-| Kameraüberwachung Eingang | Beschluss erforderlich; Beschilderung Art. 13 DSGVO; Speicherzeit minimieren; Schutzraum Anwohner |
-| Versand via Messenger / private E-Mail | vermeiden; Verwalter-Mail / Portal nutzen |
-
-## Belegeinsicht / Vermögensbericht
-
-- **§ 18 Abs. 4 WEG**: Anspruch jedes Wohnungseigentümers auf Einsicht in die Verwaltungsunterlagen — das ist die Rechtsgrundlage für die Belegeinsicht (Rechnungen, Verträge, Kontoauszüge, Abrechnungsunterlagen). Anspruch besteht gegen die GdWE, in der Praxis erfüllt durch den Verwalter (https://www.gesetze-im-internet.de/woeigg/__18.html).
-- **§ 28 Abs. 4 WEG**: Anspruch auf Vorlage des Vermögensberichts (Aufstellung des Gemeinschaftsvermögens, Erhaltungsrücklage, Forderungen/Verbindlichkeiten) — nicht die Anspruchsgrundlage für die Belegeinsicht, sondern eigene Informationspflicht (https://www.gesetze-im-internet.de/woeigg/__28.html).
-- Praxis: Belegeinsicht auf Verlangen, Ort und Zeit billigerweise festlegen, kein Verbot der Anfertigung von Kopien/Fotos, soweit nicht durch Datenschutz Dritter (z. B. Mieter-Belege, Gehaltsabrechnungen Hauspersonal) eingeschränkt.
-- Empfehlenswert: kontrollierter Einsichtstermin oder geschütztes Portal mit Audit-Log.
-
-## Mustertext Freigabeentscheidung
-
-> **Freigabevermerk**
-> Dokument: [Bezeichnung, Stand]
-> Empfänger: [Liste mit Rolle]
-> Rechtsgrundlage: [berechtigtes Interesse / Einwilligung / Vertragserfüllung / gesetzliche Pflicht]
-> Datenminimierung: [Schwärzungen vorgenommen / Auszug erstellt / vollständig erforderlich]
-> Übermittlungsweg: [Portal / E-Mail verschlüsselt / Postversand / Vor-Ort-Einsicht]
-> Speicherdauer / Linkablauf: [...]
-> Risikoeinschätzung: [niedrig / mittel / hoch]; bei hoch → Eskalation an Datenschutzrecht-Plugin
-
-## Datenpanne (Art. 33 DSGVO)
-
-- Bewertung binnen Stunden, Risikoeinschätzung für Betroffene.
-- Meldung an Aufsichtsbehörde binnen 72h, soweit Risiko für Rechte und Freiheiten.
-- Information der Betroffenen, wenn hohes Risiko.
-- Vorgang dokumentieren (Datum, Vorfall, Maßnahmen, Beteiligte).
-
-## Cross-Refs
-
-- Vermögensbericht / Belegeinsicht → `wirtschaftsplan-jahresabrechnung-28-weg`
-- Beschwerde / Kamera → `stoerung-hausordnung-mieter-eigentuemer`, `eigentuemerkommunikation-beschwerde`
-- Eskalation Anwalt / Aufsicht → `eskalation-anwalt-amtsgericht`, Datenschutzrecht-Plugin
-
-## Quellenpflicht
-
-`rechtsstand-mai-2026-faktenbank` laden. § 18 Abs. 4 WEG: https://www.gesetze-im-internet.de/woeigg/__18.html ; § 28 Abs. 4 WEG: https://www.gesetze-im-internet.de/woeigg/__28.html ; DSGVO siehe Datenschutzrecht-Plugin.
-
----
-
-## Skill: `eigentuemerkommunikation-beschwerde`
-
-_Formuliert klare, deeskalierende und dokumentationssichere Kommunikation an Eigentümer, Beirat, Mieter und Handwerker bei Beschwerden, Rückfragen, Fristen und Beschlussumsetzung (Stand 05/2026). Berücksichtigt aktuelle BGH-Linien (Abrechnung, Vorbefassung, Schlüsseländerung, vermietender Eigentüm..._
-
-# Eigentümerkommunikation und Beschwerden
-
-## Fachlicher Anker
-
-- **Normen:** §§ 535, §§ 18, § 16 Abs. 2.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Fachkern: Eigentümerkommunikation und Beschwerden
-- **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
-- **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
-
-Stand: 05/2026.
-
-## Ziel
-
-Antworten, die freundlich, verbindlich und beweissicher sind, ohne falsche Rechtszusagen zu machen.
-
-## Stil
-
-- Sachverhalt anerkennen, aber keine ungeprüften Schuldanerkenntnisse.
-- Fristen und nächste Schritte klar.
-- Beschlusslage und Zuständigkeit erklären (z. B. Verantwortlichkeit GdWE vs. Verwalter; BGH V ZR 167/23 / V ZR 34/24).
-- Bei Rechtsstreit keine unnötige Eskalation; auf Anwalts- und Mediationsoptionen verweisen.
-- Sie-Form, Behördensprache nüchtern.
-
-## Mustertexte
-
-### Kurzantwort (Bestätigung Eingang)
-
-> Sehr geehrte/r [Name],
-> vielen Dank für Ihre Nachricht vom [Datum]. Wir nehmen Ihr Anliegen [Stichwort] auf und melden uns bis spätestens [Frist] mit einer inhaltlichen Antwort. Bei Rückfragen erreichen Sie uns unter [Kontakt].
-
-### Ausführliche Verwalterantwort
-
-> Sehr geehrte/r [Name],
-> zu Ihrer Anfrage vom [Datum] betreffend [Sachverhalt] teilen wir Ihnen mit:
-> 1. **Sachstand**: [...].
-> 2. **Rechtsrahmen und Beschlusslage**: [...]. Hinweis: Ansprüche aus Verwalterhandeln sind nach BGH V ZR 34/24 vom 05.07.2024 grundsätzlich gegen die GdWE zu richten (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.07.2024&Aktenzeichen=V+ZR+34/24).
-> 3. **Nächste Schritte**: [...] mit Frist bis [...].
-> 4. **Kostenrahmen/Beschlussbedarf**: [...].
-> 5. **Eskalation**: bei weiterhin offenem Bedarf empfehlen wir die Beauftragung eines Anwalts / Tagesordnungspunkt in der nächsten Versammlung.
-> Für Rückfragen stehen wir gern zur Verfügung.
-
-### Beiratsupdate
-
-> **Sachstand für den Beirat** (vertraulich)
-> Vorgang: [...]
-> Beteiligte: [...]
-> Aktueller Stand: [...]
-> Risikoampel: [grün/gelb/rot]
-> Empfehlung: [Beschluss vorbereiten / Sondersitzung / Eskalation]
-
-### Eskalationsmail an Anwalt
-
-> Sehr geehrte/r [Anwalt],
-> wir bitten um anwaltliche Begleitung in folgender Sache: [...]. Beigefügt finden Sie [Liste Anlagen]. Fristen: [...]. Wir bitten um Erstbewertung bis [...].
-
-### Eigentümerinfo nach Beschluss
-
-> Sehr geehrte Eigentümer,
-> in der Eigentümerversammlung vom [Datum] wurde unter TOP [X] folgender Beschluss gefasst: "[...]" (Ja/Nein/Enth.: [...]). Der vollständige Wortlaut sowie die Beschlusssammlung Nr. [...] sind beigefügt.
-> Umsetzung: [Zuständig, Frist, Folgekommunikation].
-> Hinweis Anfechtungsfristen (§ 45 WEG): 1 Monat Klage, 2 Monate Begründung; bei Zustellungsverzug bitte spätestens binnen Jahresfrist beim Gericht den Sachstand erfragen (BGH V ZR 17/24 vom 25.10.2024).
-
-## Cross-Refs
-
-- Beschwerde mit Störungsbezug → `stoerung-hausordnung-mieter-eigentuemer`
-- Anfechtungsrisiko / Heilung → `beschlussanfechtung-risiko`
-- Eskalation Gericht → `eskalation-anwalt-amtsgericht`
-- Datenschutz beim Versand → `datenschutz-dokumentenfreigabe`
-
-## Quellenpflicht
-
-`rechtsstand-mai-2026-faktenbank` laden. Rechtliche Aussagen nur mit offen prüfbarer Quelle und Stand-Hinweis.
-
----
-
-## Skill: `eigentuemerversammlung-vorbereiten`
-
-_Plant eine Eigentümerversammlung (Stand 05/2026) von Themenstapel, Beschlussbedarf, Unterlagen, Beiratsabstimmung, Einladungszeitplan, Raum/virtueller Teilnahme bis zur Nachbereitung. Berücksichtigt § 23 Abs. 1a WEG, BGH-Linie zu Vorbefassung (V ZR 86/24), Abrechnung (V ZR 102/23) und Schlüsselän..._
-
-# Eigentümerversammlung Vorbereiten
-
-## Fachlicher Anker
-
-- **Normen:** §§ 535, §§ 18, § 16 Abs. 2.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Fachkern: Eigentümerversammlung Vorbereiten
-- **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
-- **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
-
-Stand: 05/2026.
-
-## Ziel
-
-Die Versammlung soll beschlussfähig, verständlich und anfechtungsarm vorbereitet werden. Der Skill baut aus Roh-Themen eine Tagesordnung mit Unterlagenpaket und Beschlussreife-Ampel.
-
-## Vorbereitungsfahrplan (typisch 6 Wochen vor Termin)
-
-| Zeitpunkt | Aufgabe |
-| --- | --- |
-| T-6 W | Themenstapel vom Beirat einsammeln, Beschlussbedarf vorprüfen |
-| T-5 W | Unterlagen anfordern (Angebote, Gutachten, Abrechnung, Vermögensbericht) |
-| T-4 W | Beschlussreife-Ampel, Entwurf der TOP |
-| T-3 W | **Einladung versenden** (Ladungsfrist 3 Wochen, § 24 Abs. 4 WEG; GO kann verlängern) |
-| T-2 W | Klarstellungsfragen, Anlagen ergänzen, Vollmachten organisieren |
-| T-1 W | Raum/virtuelle Plattform testen, Stimmrechtsliste, Tagesablauf |
-| T-0 | Versammlung, Protokollführung, Beschlussverkündung |
-| T+2 W | Nachbereitung: Protokollversand, Beschlusssammlung, Umsetzung |
-
-## Prüfpunkte
-
-- Welche Beschlüsse müssen zwingend in die Versammlung?
-- Welche Themen sind nur Information, Aussprache oder Auftrag an den Verwalter?
-- Welche Unterlagen gehören vorab dazu: Angebote (mindestens 2-3 Vergleichsangebote bei substanziellen Maßnahmen), Abrechnung, Vermögensbericht, Plan, Fotos, Gutachten, Belegliste, Finanzierungsvorschlag?
-- Welche Beschlüsse brauchen Alternativen, Kostenrahmen, Finanzierung oder Ausführungsmodalitäten?
-- Gibt es virtuelle/hybride Teilnahme (Beschlussgrundlage nach § 23 Abs. 1a WEG vorhanden?), Vollmachten (Form? GO?), Stimmverbote (§ 25 Abs. 4 WEG) oder Interessenkonflikte?
-- Bei Schlüsseländerung: sachlicher Grund schriftlich vorbereitet?
-
-## Beschlussreife-Ampel
-
-| Farbe | Bedeutung |
-| --- | --- |
-| Grün | Beschlusskompetenz, Unterlagen, Kostenfolge plausibel; Wortlaut präzise; Auflagen klar |
-| Gelb | möglich, aber Unterlagen, Mehrheit, Kostenfolge oder sachlicher Grund (bei Schlüsseländerung) nachschärfen |
-| Rot | hohe Anfechtungs- oder Nichtigkeitsgefahr (Kompetenz, Vereinbarungserfordernis, fehlende Angebote, mangelhafte Vorbefassung); Anwalt nötig |
-
-## Wichtige BGH-Befunde 2024–2025 für die Vorbereitung
-
-- **Vorbefassung Beschlussersetzungsklage**: Antragsteller muss in der Versammlung exakt den Beschluss verlangen, der später gerichtlich begehrt wird, aber keine vollständige Beweisaufnahme leisten — BGH, Urteil vom 14.02.2025, V ZR 86/24 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+86/24). Verwalter sollten Anträge so übernehmen, dass der Wortlaut bestimmbar ist.
-- **Jahresabrechnung**: TOP klar als "Abrechnungsspitzen" (Nachschüsse, Vorschussanpassung) formulieren — BGH, Urteil vom 19.07.2024, V ZR 102/23 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.07.2024&Aktenzeichen=V+ZR+102/23).
-- **Schlüsseländerung**: sachlicher Grund in Begründungstext aufnehmen — BGH, Urteile vom 14.02.2025, V ZR 236/23 und V ZR 128/23 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+236/23 ; https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+128/23).
-
-## Cross-Refs
-
-- Einladung und Fristen → `einladung-tagesordnung-fristen`
+- Privilegierte Maßnahmen allgemein → `steckersolar-wallbox-barrierefreiheit`
+- Kleinere bauliche Maßnahmen → `rampe-handlauf-tuerverbreiterung-gemeinschaftsbereich`
+- Kostenfolge / Sonderumlage → `hausgeld-sonderumlage-liquiditaet`
 - Beschlussformulierung → `beschlussvorlagen-erstellen`
 - Anfechtungsrisiko → `beschlussanfechtung-risiko`
-- Nachbereitung → `beschlusssammlung-protokoll`
+- Förderungs-Koordination → `kfw-foerderung-pflegekasse-bafa-barriere-koordination`
 
 ## Quellenpflicht
 
-`rechtsstand-mai-2026-faktenbank` laden. § 23, § 24, § 25 WEG: https://www.gesetze-im-internet.de/woeigg/__23.html, https://www.gesetze-im-internet.de/woeigg/__24.html, https://www.gesetze-im-internet.de/woeigg/__25.html .
+`rechtsstand-mai-2026-faktenbank` laden. § 20 WEG über https://www.gesetze-im-internet.de/woeigg/__20.html, KfW-Konditionen über kfw.de, Pflegekasse § 40 SGB XI über https://www.gesetze-im-internet.de/sgb_11/__40.html live verifizieren.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 20 WEG
+- § 16 WEG
+- § 28 WEG
+- § 24 WEG
+- § 21 WEG
+- § 45 WEG
+- § 23 WEG
+- § 25 WEG
+- § 26 WEG
+- § 27 WEG
+- § 25 TDDDG
+- § 5 DDG
+
+### Leitentscheidungen
+
+- BGH V ZR 17/24
+- BGH V ZR 34/24
+- BGH V ZR 33/23
+- BGH V ZR 102/23
+- BGH V ZR 1/24
+
+---
+
+## Skill: `kfw-foerderung-pflegekasse-bafa-barriere`
+
+_Wenn es um KfW, Pflegekasse und BAFA: Förderung für Barrierefreiheits-Maßnahmen koordinieren in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# KfW, Pflegekasse und BAFA: Förderung für Barrierefreiheits-Maßnahmen koordinieren
+
+## Fachlicher Anker
+
+- **Normen:** §§ 535, §§ 18, § 16 Abs. 2.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Ziel
+
+Barrierefreiheits-Maßnahmen in WEG-Gebäuden können über mehrere Förderprogramme finanziert werden. Der Skill liefert eine Förder-Matrix, erklärt die Antrags-Reihenfolge (Fristfallen!), klärt Kumulationsregeln und nennt regionale Ergänzungsprogramme.
+
+## Förder-Matrix (Stand 06/2026 — vor Antrag live verifizieren)
+
+| Programm | Träger | Max. Betrag | Voraussetzung | Antrag vor Beginn |
+|---|---|---|---|---|
+| KfW 159 Altersgerecht Umbauen Kredit | KfW | 50.000 Euro je WE | Maßnahmen nach KfW-Liste (Aufzug, Rampe, Bad, Tür) | Ja (Kreditzusage vor Bauvertrag) |
+| KfW 455-B Zuschuss | KfW | Seit 2022 ausgesetzt | — | Status auf kfw.de prüfen |
+| Pflegekasse § 40 Abs. 4 SGB XI | GKV/PKV | 4.180 Euro je Maßnahme | Pflegegrad 1-5 | Ja (vor Maßnahmenbeginn) |
+| BAFA Bundesförderung Einzelmaßnahmen | BAFA | Bis 70% Förderquote | Nur energetische Maßnahmen (Heizung, Dämmung) — Barrierefreiheit allein nicht förderfähig | Ja |
+| § 33b EStG Behindertenpauschbetrag | Finanzamt | Je nach GdB (z. B. GdB 100: 2.840 Euro/Jahr) | Schwerbehindertenausweis | Ex post (Steuererklärung) |
+| § 33 EStG Außergewöhnliche Belastung | Finanzamt | Kosten minus zumutbare Belastung | Ärztl. Attest, Pflegegrad | Ex post |
+
+Normen: § 40 SGB XI: https://www.gesetze-im-internet.de/sgb_11/__40.html — § 33b EStG: https://www.gesetze-im-internet.de/estg/__33b.html
+
+## Antrags-Reihenfolge (Fristfallen vermeiden)
+
+1. **Pflegekasse zuerst** (falls Pflegegrad vorhanden): Antrag stellen, Genehmigung abwarten — Frist: VOR Maßnahmenbeginn. Nachträgliche Anträge werden abgelehnt.
+2. **KfW 159 danach**: Kreditzusage einholen VOR Abschluss des Bauvertrags bei der Hausbank (Durchleitungsbank). Nachträgliche KfW-Anträge sind nicht möglich.
+3. **BAFA** (wenn energetische Komponente): Antrag bei BAFA online VOR Auftragsvergabe.
+4. **Steuer ex post**: § 33b Pauschbetrag und § 33 außergewöhnliche Belastung nach Maßnahme in der Einkommensteuererklärung geltend machen.
+
+## Kumulationsregeln
+
+KfW 159 (Kredit) und Pflegekasse: In der Regel kumulierbar — Pflegekasse deckt bis 4.180 Euro, KfW den Rest. Abstimmung im Antrag: Bei KfW Gesamtkosten angeben, Pflegekassen-Zuschuss als Eigenmittel aufführen. KfW-Kredit und BAFA-Zuschuss: grundsätzlich kombinierbar, aber BAFA-Richtlinie prüfen — BAFA-Förderquote kann sich durch Kombinationsförderung reduzieren. Kommunale Programme: Meist eigenständig kumulierbar mit KfW und Pflegekasse, sofern Programmrichtlinien nicht widersprechen.
+
+## Schwerbehinderten-Förderung und Merkzeichen
+
+GdB (Grad der Behinderung) und Merkzeichen entscheiden über Steuer-Pauschbeträge. Merkzeichen „aG" (außergewöhnliche Gehbehinderung) oder „H" (hilflos): höhere Pauschbeträge, Parkerleichterungen, ggf. zusätzliche Förderberechtigungen. Aktion Mensch (private Förderung): Zuschüsse für wohnumfeldverbessernde Maßnahmen, Beantragung online, max. 2.500 Euro für Einzelpersonen.
+
+## Regionale Programme (Auswahl — aktuell prüfen)
+
+- Berlin: SIWA (Soziale Infrastruktur und Wohnraumförderung) — Förderung barrierefreier Umbau bis 50% der förderfähigen Kosten.
+- Hamburg: „Barrierefreies Wohnen" über IFB Hamburg — Zuschüsse und zinsgünstige Darlehen.
+- München: Münchner Wohnungspolitik-Fonds — Wohnraumanpassung für ältere und pflegebedürftige Personen.
+- Baden-Württemberg: L-Bank „Wohnen mit Zukunft: Barrierefrei" — Ergänzungsdarlehen.
+- NRW: NRW.BANK Wohnraumförderung — Barrierefreiheits-Maßnahmen bei bestehenden Wohngebäuden.
+
+## Beratungsstellen
+
+Kostenlose Beratung: Verbraucherzentrale (Energie- und Wohnberatung), Caritas (Pflegeberatung § 7a SGB XI), Diakonie, kommunale Wohnberatungsstellen (Adressen über BIVA-Pflegeschutzbund), Ergotherapeuten (Wohnraumanpassung fachlich begleiten).
+
+## Cross-Refs
+
+- Aufzug und Treppenlift → `bauliche-veraenderung-aufzug-treppenlift-20-abs-2-weg`
+- Rampe und Handlauf → `rampe-handlauf-tuerverbreiterung-gemeinschaftsbereich`
+- Bad-Umbau → `bad-umbau-bodengleiche-dusche-sondereigentum-gemeinschaft`
+- Sonderumlage Finanzierung → `hausgeld-sonderumlage-liquiditaet`
+- Wirtschaftsplan → `wirtschaftsplan-jahresabrechnung-28-weg`
+
+## Quellenpflicht
+
+`rechtsstand-mai-2026-faktenbank` laden. KfW-Konditionen und KfW 455-B-Status über kfw.de live prüfen — Zinssätze und Programm-Verfügbarkeit ändern sich monatlich. § 40 SGB XI über https://www.gesetze-im-internet.de/sgb_11/__40.html, § 33b EStG über https://www.gesetze-im-internet.de/estg/__33b.html live verifizieren. BAFA-Richtlinien über bafa.de abrufen.
+
+---
+
+## Skill: `bad-umbau-bodengleiche-dusche-sondereigentum`
+
+_Wenn es um Bad-Umbau: Bodengleiche Dusche im Sondereigentum und Gemeinschaftseigentum in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Bad-Umbau: Bodengleiche Dusche im Sondereigentum und Gemeinschaftseigentum
+
+## Fachlicher Anker
+
+- **Normen:** §§ 535, §§ 18, § 16 Abs. 2.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Ziel
+
+Barrierereduzierende Bad-Umbauten berühren häufig Gemeinschaftseigentum — besonders die Bodenabdichtungsebene, Steigleitungen und Lüftungsschächte. Der Skill klärt die Abgrenzung Sondereigentum/Gemeinschaftseigentum, die erforderlichen Beschlüsse und die Fördermöglichkeiten über Pflegekasse und KfW.
+
+## Sondereigentum vs. Gemeinschaftseigentum: Badbereich
+
+| Bauteil | Zuordnung | Begründung |
+|---|---|---|
+| Fliesen auf dem Boden | Sondereigentum | Oberflächen-Bekleidung |
+| Abdichtungsebene Boden (Wanne oder Verbundabdichtung) | Gemeinschaftseigentum | BGH 26.10.2012, V ZR 57/12 |
+| Steigleitung (Hauptstrang) | Gemeinschaftseigentum | § 5 Abs. 2 WEG analog |
+| Anschlussleitungen ab Hauptstrang bis Einheit | Sondereigentum (Regel) | BGH-Leitlinie; Teilungserklärung prüfen |
+| Lüftungsschacht (Gemeinschaftsschacht) | Gemeinschaftseigentum | § 5 Abs. 2 WEG |
+| Heizkörper, Badewanne, Waschbecken | Sondereigentum | Wenn austauschbar ohne GE-Eingriff |
+| Abflussrohr im Estrich (bis Steigleitung) | Grenzfall — Teilungserklärung maßgeblich | |
+
+BGH, Urteil vom 26.10.2012, V ZR 57/12: Die Abdichtungsebene des Bades gehört zum Gemeinschaftseigentum, auch wenn sie innerhalb der Wohnung liegt; ihr Eingriff für eine bodengleiche Dusche bedarf daher eines Beschlusses der GdWE. Verweis: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=26.10.2012&Aktenzeichen=V+ZR+57%2F12
+
+## Bodengleiche Dusche: Anforderungen und Beschluss
+
+Eingriff in Bodenabdichtung (GE) erfordert Beschluss. Anspruchsgrundlage: § 20 Abs. 2 Nr. 2 WEG (barrierefreier Umbau). Die GdWE kann Auflagen zur Ausführung (Abdichtungsklasse, Fachbetrieb, Versicherungsnachweis) stellen. Norm: https://www.gesetze-im-internet.de/woeigg/__20.html
+
+Abdichtungsnorm DIN 18534 (Abdichtung von Innenräumen, 2017): Beanspruchungsklasse W0-I bis W3-I; bodengleiche Duschen i.d.R. W2-I (intensive Beanspruchung). Fliese als Schutzschicht, darunter Verbundabdichtung (Flüssigfolie oder Dichtband). Estrich-Gefälle: mind. 1,5% zur Ablaufrinne.
+
+Schallschutz: DIN 4109 — Abflusssysteme mit Ablaufrinne können Trittschall übertragen; Entkopplung durch mineralwolle-gedämmten Estrich empfohlen. Norm DIN 4109 ist anerkannte Regel der Technik.
+
+## Lüftungsschacht-Umbau
+
+Einbau eines Außenwandventilators (statt Schachtanschluss): Eingriff in Außenwand = GE, Beschluss erforderlich. Schachtverschluss und neuer Abluftkanal: regelmäßig GE-Eingriff, Beschluss erforderlich. Wohnungslüftungsanlage (dezentral, nur in Wohnung): Sondereigentum, kein Beschluss — sofern keine Schacht-Verbindung.
+
+## Versicherung und Haftung
+
+Wohngebäudeversicherung: Umbau der Abdichtungsebene kann als Gefahrerhöhung gelten — Versicherer vorab informieren (§ 23 VVG). Bauleistungsversicherung für die Umbauzeit: empfohlen, da Beschädigungen an GE durch Bauarbeiten. Wasserkosten bei Leckage: Eigentümer haftet für mangelhafte Ausführung in seinem SE-Bereich, GdWE haftet für GE. Norm § 23 VVG: https://www.gesetze-im-internet.de/vvg_2008/__23.html
+
+## Förderung (Stand 06/2026 — vor Antrag verifizieren)
+
+Pflegekasse § 40 Abs. 4 SGB XI: bis 4.180 Euro je Maßnahme bei Pflegegrad 1-5; Antrag VOR Maßnahmenbeginn; aufstockbar wenn sich Pflegebedarf verschlechtert. Norm: https://www.gesetze-im-internet.de/sgb_11/__40.html
+
+Mietrecht § 554a BGB: Mieter mit Behinderung hat gegenüber dem Vermieter (hier: vermietender Eigentümer) einen Anspruch auf Genehmigung barrierefreier Umbauten gegen Absicherung des Rückbaus. Dieser Anspruch ist vom WEG-internen Anspruch des Eigentümers gegen die GdWE zu trennen. Norm: https://www.gesetze-im-internet.de/bgb/__554.html
+
+## Cross-Refs
+
+- Aufzug und Treppenlift → `bauliche-veraenderung-aufzug-treppenlift-20-abs-2-weg`
+- Rampe und Handlauf → `rampe-handlauf-tuerverbreiterung-gemeinschaftsbereich`
+- Beschlussvorlagen → `beschlussvorlagen-erstellen`
+- Förderungs-Koordination → `kfw-foerderung-pflegekasse-bafa-barriere-koordination`
+- Bauliche Veränderungen allgemein → `bauliche-veraenderungen-20-weg`
+
+## Quellenpflicht
+
+`rechtsstand-mai-2026-faktenbank` laden. § 20 WEG über https://www.gesetze-im-internet.de/woeigg/__20.html, § 40 SGB XI über https://www.gesetze-im-internet.de/sgb_11/__40.html, § 554 BGB über https://www.gesetze-im-internet.de/bgb/__554.html live verifizieren. DIN 18534 gilt als anerkannte Regel der Technik — Fachbetrieb konsultieren.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 20 WEG
+- § 16 WEG
+- § 28 WEG
+- § 24 WEG
+- § 21 WEG
+- § 45 WEG
+- § 23 WEG
+- § 25 WEG
+- § 26 WEG
+- § 27 WEG
+- § 25 TDDDG
+- § 5 DDG
+
+### Leitentscheidungen
+
+- BGH V ZR 17/24
+- BGH V ZR 34/24
+- BGH V ZR 33/23
+- BGH V ZR 102/23
+- BGH V ZR 1/24
+
+---
+
+## Skill: `marketing-website-impressum-tmg-bewertungen`
+
+_Wenn es um Marketing: Website-Impressum, DDG und Bewertungsmanagement in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Marketing: Website-Impressum, DDG und Bewertungsmanagement
+
+## Fachlicher Anker
+
+- **Normen:** §§ 535, §§ 18, § 16 Abs. 2.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Ziel
+
+Die Website einer Hausverwaltung ist Pflichtaushang und Marketinginstrument zugleich. Fehlendes Impressum, fehlende Datenschutzerklärung oder falsche Berufsangaben sind Abmahnklassiker. Der Skill prüft die Website-Pflichten und liefert Umgangsregeln für Bewertungsplattformen.
+
+## Impressumspflicht nach § 5 DDG (ehem. TMG)
+
+Pflichtangaben für Hausverwaltungs-GmbH: vollständiger Firmenname, Rechtsform, Handelsregisternummer und -gericht, Vertretungsberechtigte, Postanschrift (kein Postfach), E-Mail-Adresse, Telefonnummer, Umsatzsteuer-ID (§ 27a UStG), Aufsichtsbehörde (sofern reguliert). § 34c GewO-Erlaubnis ausweisen, wenn Immobilienmaklertätigkeiten erbracht werden. Norm § 5 DDG: https://www.gesetze-im-internet.de/ddg/__5.html. Norm § 18 MStV für Medienanbieter mit journalistischen Inhalten.
+
+Einzelunternehmer: Vor- und Nachname Pflicht, Angabe Berufsbezeichnung und zuständige Kammer/IHK. Geprüfter Immobilienverwalter IHK ist kein gesetzlich geschützter Titel — aber wer ihn führt, darf ihn ausweisen.
+
+## Datenschutzerklärung und Cookie-Einwilligung
+
+§ 25 TDDDG ersetzt § 15 TMG: Cookies und ähnliche Technologien dürfen nur nach informierter Einwilligung gesetzt werden, außer sie sind technisch zwingend erforderlich. Google Analytics 4: Einwilligung über Cookie-Banner Pflicht, Auftragsverarbeitungsvertrag mit Google Pflicht, IP-Anonymisierung standardmäßig aktiv in GA4. Webhoster: AVV erforderlich. Norm § 25 TDDDG: https://www.gesetze-im-internet.de/tdddg/__25.html
+
+Datenschutzerklärung muss enthalten: Verantwortlicher, Zwecke der Verarbeitung, Rechtsgrundlagen, Empfänger/Drittlands-Übermittlungen, Betroffenenrechte, Beschwerdestelle.
+
+## Bewertungsmanagement
+
+**Falsche Bewertungen löschen:** Plattform-Beschwerdeverfahren (Google: „Unangemessen melden", Trustpilot: Dispute-Formular). Erfundene Bewertungen durch Mitbewerber sind UWG-Verstoß (§ 3 UWG). BGH, Urteil vom 09.08.2022, VI ZR 1244/20 (Jameda-Sachverhalts-Übertragung auf andere Plattformen): Plattform haftet als mittelbarer Störer, wenn sie auf Hinweis keine Prüfung vornimmt. Verweis: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.08.2022&Aktenzeichen=VI+ZR+1244%2F20
+
+BGH, Urteil vom 14.11.2017, VI ZR 425/16 (Jameda I): Bewertungsplattform darf Arzt (analog Verwalter) nicht durch redaktionelle Zusätze benachteiligen, die zahlende Mitbewerber begünstigen. Verweis: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.11.2017&Aktenzeichen=VI+ZR+425%2F16
+
+**Negative echte Bewertungen:** Aushalten und sachlich antworten — keine persönlichen Angriffe, keine Offenlegung von Mandantendaten in der Antwort (DSGVO). Eskalation: Gegendarstellung, ggf. Unterlassungsklage wenn Tatsachenbehauptungen unwahr.
+
+**Werbung mit Mandantenstimmen:** Schriftliche Einwilligung Mandant erforderlich (DSGVO Art. 6 Abs. 1 lit. a); bei Foto zusätzlich UrhG § 22 (Recht am eigenen Bild). Norm UrhG § 22: https://www.gesetze-im-internet.de/urhg/__22.html
+
+## Cross-Refs
+
+- DSGVO-Grundlagen Hausverwaltung → `datenschutz-vvt-tom-avv-hausverwaltung`
+- Newsletter und E-Mail-Werbung → `marketing-newsletter-eigentuemerkommunikation`
+- Eigentümerkommunikation Beschwerden → `eigentuemerkommunikation-beschwerde`
+- Akquise-Pitch → `marketing-akquise-neue-weg-mandate`
+
+## Quellenpflicht
+
+`rechtsstand-mai-2026-faktenbank` laden. § 5 DDG über https://www.gesetze-im-internet.de/ddg/__5.html, § 25 TDDDG über https://www.gesetze-im-internet.de/tdddg/__25.html live verifizieren. Abmahn-Rechtsprechung und Plattform-AGB ändern sich laufend.
+
+---
+
+## Skill: `bfsg-hausverwalter-website-portal-2025`
+
+_Wenn es um BFSG: Barrierefreiheitspflicht für Verwalter-Websites und Eigentümer-Portale in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck._
+
+# BFSG: Barrierefreiheitspflicht für Verwalter-Websites und Eigentümer-Portale
+
+## Fachlicher Anker
+
+- **Normen:** §§ 535, §§ 18, § 16 Abs. 2.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Ziel
+
+Seit dem 28.06.2025 gilt das Barrierefreiheitsstärkungsgesetz (BFSG) für Dienstleistungen im elektronischen Geschäftsverkehr. Der Skill klärt, ob das eigene Verwalterportal oder die Verwalter-Website betroffen ist, welche WCAG-Anforderungen gelten, wer Marktüberwachung betreibt und wie die Pflicht-Erklärung zur Barrierefreiheit aussieht.
+
+## Anwendungsbereich BFSG
+
+§ 1 Abs. 2 Nr. 4 BFSG erfasst Dienstleistungen im elektronischen Geschäftsverkehr gegenüber Verbrauchern (B2C). Die reine Verwaltervertragsabwicklung mit der WEG als Körperschaft ist B2B — nicht unmittelbar betroffen. Eigentümer-Portale mit Selbstbedienung (Jahresabrechnung herunterladen, Mängel melden, Abstimmungen) richten sich an natürliche Personen als Verbraucher und fallen unter den Anwendungsbereich. Norm BFSG: https://www.gesetze-im-internet.de/bfsg/
+
+EU-Richtlinie 2019/882 (European Accessibility Act): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0882
+
+## Kleinstunternehmen-Ausnahme
+
+§ 3 Abs. 2 BFSG: Ausgenommen sind Kleinstunternehmen mit weniger als 10 Beschäftigten **und** Jahresumsatz oder Jahresbilanzsumme unter 2 Mio. Euro. Beide Schwellen müssen kumulativ unterschritten sein. Typische Hausverwaltungen mit 5-15 Mitarbeitern liegen oft genau im Grenzbereich — genaue Prüfung nach EU-KMU-Definition (Anhang I der Verordnung 651/2014) erforderlich. Verbundene Unternehmen addieren ihre Beschäftigten.
+
+## WCAG 2.1 AA als technischer Mindeststandard
+
+BITV 2.0 (Barrierefreie-Informationstechnik-Verordnung) verweist auf WCAG 2.1 AA. Vier Grundprinzipien: Wahrnehmbar (Alternativtexte für Bilder, Untertitel für Videos), Bedienbar (Tastaturbedienung, ausreichend Zeit), Verständlich (Sprache erklärt, konsistente Navigation), Robust (kompatibel mit Screenreadern wie JAWS und NVDA). Kontrastverhältnis: min. 4,5:1 für normalen Text, 3:1 für großen Text.
+
+## Pflichten und Bußgelder
+
+Pflichten: (1) Zugängliche Gestaltung der Website/des Portals nach WCAG 2.1 AA, (2) Erklärung zur Barrierefreiheit auf der Website (Selbstauskunft, Mängelliste, Feedback-Mechanismus), (3) Barrierefreier Feedback-Mechanismus (E-Mail oder Kontaktformular), (4) Schlichtungsstelle BFSG bei der Bundesfachstelle Barrierefreiheit. § 37 BFSG: Bußgelder bis 100.000 Euro. Marktüberwachung: BMAS und Bundesnetzagentur.
+
+## Portale der Praxis (Verantwortlichkeit)
+
+Casavi, Etg24, Vermieter-Cloud und Sander+Doll-Portal werden als Software-as-a-Service erbracht. Verantwortlich nach BFSG ist der Dienstleistungserbringer — das ist die Hausverwaltung, nicht der Software-Anbieter. Verwalter müssen beim Anbieter nachfragen und BFSG-Konformität vertraglich sichern. AVV und BFSG-Konformitätserklärung des Anbieters anfordern.
+
+## Cross-Refs
+
+- Barrierefreie Versammlungsdokumente → `barrierefreie-einladung-protokoll-versammlung`
+- Digitale Versammlung barrierefrei → `digitale-versammlung-screenreader-untertitel`
+- Barrierefreiheit Gebäude → `steckersolar-wallbox-barrierefreiheit`
+- Website Impressum und Datenschutz → `marketing-website-impressum-tmg-und-bewertungen`
+
+## Quellenpflicht
+
+`rechtsstand-mai-2026-faktenbank` laden. BFSG-Text über https://www.gesetze-im-internet.de/bfsg/ und EU-Richtlinie 2019/882 über https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0882 live verifizieren. Bundesfachstelle Barrierefreiheit (bundesfachstelle-barrierefreiheit.de) für aktuelle WCAG-Leitfäden konsultieren.
+
+---
+
+## Skill: `bauliche-veraenderung-aufzug-treppenlift-20-abs-2-weg`
+
+_Wenn es um Aufzug-Nachrüstung und Treppenlift als privilegierte bauliche Veränderung nach Paragraf 20 Abs in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Aufzug-Nachrüstung und Treppenlift als privilegierte bauliche Veränderung nach § 20 Abs
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Aufzug-Nachrüstung und Treppenlift als privilegierte bauliche Veränderung nach § 20 Abs. 2 Nr. 2 WEG (Stand 06/2026): Anspruch ohne Ermessen, DIN 18040-2, Kostentragung § 21 WEG, KfW 159 bis 50000 Euro, BGH V ZR 244/22.
+
+### Bauliche Veränderung: Aufzug und Treppenlift nach § 20 Abs. 2 Nr. 2 WEG
+
+## Fachlicher Kern — Miet- und WEG-Recht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Bauliche Veränderung: Aufzug und Treppenlift nach § 20 Abs. 2 Nr. 2 WEG` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** BGB §§ 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG §§ 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG.
+- **Verifizierte Anker:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (§ 16 Abs. 2 Satz 2 WEG, Rücklagen/Kostenverteilung); BGH, Urteil vom 14.02.2025 - V ZR 86/24 (§ 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung).
+- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
+- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+Stand: 06/2026.
+
+## Ziel
+
+Eigentümer haben einen Anspruch auf Gestattung eines Aufzugs oder Treppenlifts als privilegierte bauliche Veränderung nach § 20 Abs. 2 Nr. 2 WEG. Die GdWE kann das „Wie" regeln, nicht aber den Anspruch an sich verweigern. Der Skill prüft Anspruchsvoraussetzungen, technische Mindeststandards, Kostentragung und Förderung.
+
+## Anspruchsgrundlage und Reichweite
+
+§ 20 Abs. 2 Nr. 2 WEG: Barrierefreier Aus- und Umbau als privilegierte Maßnahme — kein freies Ermessen der GdWE. Die GdWE darf sachgerechte Auflagen zur Ausführung, Optik, Sicherheit und zum Rückbau stellen, darf aber den Anspruch nicht durch unzumutbare Auflagen leerlaufen lassen. Norm: https://www.gesetze-im-internet.de/woeigg/__20.html
+
+BGH, Urteil vom 09.02.2024, V ZR 244/22: Auch ein außen am Gebäude angebauter Aufzug mit erheblichen Eingriffen in das Gemeinschaftseigentum (Öffnung Fassade, Fundament) ist vom Anspruch gedeckt; Beeinträchtigungen anderer Eigentümer sind ggf. auszugleichen, heben den Anspruch aber nicht auf. Verweis: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.02.2024&Aktenzeichen=V+ZR+244%2F22
+
+## Technische Mindeststandards (DIN 18040-2)
+
+DIN 18040-2 (Wohnungen, barrierefrei planbar): Aufzug-Kabinengröße mind. 110 cm x 140 cm (Rollstuhl drehbar), Türbreite licht mind. 90 cm, Bedienelemente in Greifhöhe 85 cm, Kontrast Schrift/Hintergrund 7:1, taktile Markierungen. Bewegungsflächen vor Aufzugtür im Treppenhaus: mind. 150 cm x 150 cm. Schwellen max. 2 cm. Türbreiten Wohnungseingänge: mind. 80 cm (besser 90 cm). Norm DIN 18040-2 gilt als anerkannte Regel der Technik.
+
+Treppenlift im Treppenhaus: Schienensystem am Treppengeländer oder an der Wand — Rettungsweg-Freiheit nach Landesbauordnung prüfen (typisch: 1 m Breite Fluchtweg muss verbleiben). Brandschutz: Treppenlift-Polsterung nicht aus brennbaren Materialien (B2 nach DIN 4102). Sachverständigen-Gutachten empfohlen.
+
+Außenaufzug: Statik-Gutachten, ggf. Baugenehmigung nach Landesbauordnung, Denkmalschutz-Befreiung wenn Denkmal. Erscheinungsbild-Wahrung: GdWE darf Farbgebung und Material vorschreiben, nicht aber Aufzug insgesamt verweigern.
+
+## Kostentragung (§ 21 WEG)
+
+§ 21 Abs. 1 WEG: Antragsteller trägt Kosten der Maßnahme und des laufenden Betriebs. § 21 Abs. 4 WEG: Andere Eigentümer können Nutzungsrecht erwerben durch Beitritt gegen anteilige Kostentragung (nachträglicher Zutritt). Beitrittserklärung und Kostenanteil sind im Beschluss zu regeln. Norm: https://www.gesetze-im-internet.de/woeigg/__21.html
+
+## Förderung (Stand 06/2026 — vor Antrag live verifizieren)
+
+- KfW-Programm 159 (Altersgerecht Umbauen Kredit): bis 50.000 Euro pro Wohneinheit, zinsgünstig, 5 Jahre tilgungsfrei möglich. Antrag vor Bauvertrag bei Hausbank stellen.
+- KfW 455-B (Zuschuss Altersgerecht Umbauen): seit 2022 ausgesetzt — aktuellen Status auf kfw.de prüfen.
+- Pflegekasse § 40 Abs. 4 SGB XI: bis 4.180 Euro je Maßnahme bei Pflegegrad 1-5 (Stand 06/2026 — verifizieren). Antrag VOR Maßnahmenbeginn. Norm: https://www.gesetze-im-internet.de/sgb_11/__40.html
+- Kommunale Programme: Berlin SIWA (Soziale Infrastruktur und Wohnraumförderung), Hamburg WK Hamburg, München Wohnungspolitik-Fonds.
+
+## Cross-Refs
+
+- Privilegierte Maßnahmen allgemein → `steckersolar-wallbox-barrierefreiheit`
+- Kleinere bauliche Maßnahmen → `rampe-handlauf-tuerverbreiterung-gemeinschaftsbereich`
+- Kostenfolge / Sonderumlage → `hausgeld-sonderumlage-liquiditaet`
+- Beschlussformulierung → `beschlussvorlagen-erstellen`
+- Anfechtungsrisiko → `beschlussanfechtung-risiko`
+- Förderungs-Koordination → `kfw-foerderung-pflegekasse-bafa-barriere-koordination`
+
+## Quellenpflicht
+
+`rechtsstand-mai-2026-faktenbank` laden. § 20 WEG über https://www.gesetze-im-internet.de/woeigg/__20.html, KfW-Konditionen über kfw.de, Pflegekasse § 40 SGB XI über https://www.gesetze-im-internet.de/sgb_11/__40.html live verifizieren.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 20 WEG
+- § 16 WEG
+- § 28 WEG
+- § 24 WEG
+- § 21 WEG
+- § 45 WEG
+- § 23 WEG
+- § 25 WEG
+- § 26 WEG
+- § 27 WEG
+- § 25 TDDDG
+- § 5 DDG
+
+### Leitentscheidungen
+
+- BGH V ZR 17/24
+- BGH V ZR 34/24
+- BGH V ZR 33/23
+- BGH V ZR 102/23
+- BGH V ZR 1/24
+
+---
+
+## Skill: `hausordnung-tauben-fahrrad-kinder`
+
+_Wenn es um Hausordnung: Tauben, Fahrrad, Kinder, Weihnachtsbaum in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Hausordnung: Tauben, Fahrrad, Kinder, Weihnachtsbaum
+
+## Fachlicher Anker
+
+- **Normen:** §§ 535, §§ 18, § 16 Abs. 2.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Fachkern: Hausordnung: Tauben, Fahrrad, Kinder, Weihnachtsbaum
+- **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
+- **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
+
+Dieses Fachmodul prüft die kleinen Dinge, die eine WEG zuverlässig groß machen: Tauben auf Balkonen, Fahrradchaos, Fahrraddiebstahl, kinderfeindliche Beschwerden, Hofnutzung, unsicherer Weihnachtsbaum, Fluchtwege und Gemeinschaftsflächen.
+
+## Leitlinie
+
+Alltagskonflikte brauchen zuerst Ordnung und Kommunikation, nicht sofort Anwalt. Gleichzeitig dürfen Brandschutz, Verkehrssicherung, Hygiene und Eigentümerrechte nicht kleingeredet werden.
+
+## Prüfraster
+
+| Thema | Sofort prüfen | Typischer Weg |
+| --- | --- | --- |
+| Tauben | Hygiene, bauliche Abwehr, Fütterung, Balkon/Sondereigentum | Hinweis, Angebot, Beschluss |
+| Fahrrad | Abstellordnung, Fluchtwege, Diebstahl, Video/Datenschutz | Markierung, Registrierung, Räumaktion |
+| Kinder | sozialadäquater Lärm, Spielzeiten, Sicherheit | moderieren, keine unzulässige Verdrängung |
+| Weihnachtsbaum | Standfestigkeit, Brandschutz, Strom, Haftung | Zuständigkeit und Kosten beschließen |
+| Hof | Sondernutzung, Müll, Lieferverkehr, Spielbereich | Nutzungsregeln und Beschilderung |
+
+## Deeskalierender Antwortbaustein
+
+```text
+Wir nehmen Ihre Beschwerde ernst und ordnen sie in der nächsten Beiratssitzung ein. Zugleich bitten wir um Verständnis, dass die Verwaltung zwischen bloßen Unannehmlichkeiten, sozial üblicher Nutzung und rechtlich relevanten Störungen unterscheiden muss. Bitte senden Sie uns konkrete Daten, Uhrzeiten, Fotos oder Zeugenangaben, damit wir den Vorgang belastbar prüfen können.
+```
+
+## Beschlussbaustein Fahrrad
+
+```text
+Die Gemeinschaft beschließt eine Neuordnung der Fahrradabstellflächen. Die Verwaltung wird beauftragt, nicht gekennzeichnete oder offensichtlich aufgegebene Fahrräder nach vorheriger Ankündigung und Dokumentation aus den Gemeinschaftsflächen zu entfernen bzw. gesichert einzulagern. Flucht- und Rettungswege sind dauerhaft freizuhalten.
+```
+
+## Red Flags
+
+- Kinderlärm wird pauschal als Störung behandelt.
+- Taubenabwehr greift in Fassade oder Balkon ein, ohne Beschluss.
+- Fahrräder werden ohne Dokumentation entfernt.
+- Weihnachtsbaum/Beleuchtung blockiert Rettungswege oder erzeugt Brandlast.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

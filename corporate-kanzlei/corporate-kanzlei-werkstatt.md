@@ -87,12 +87,12 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - AktG Paragraf 93: Sorgfaltspflicht und Verantwortlichkeit des Vorstands.
 - Normenradar: GmbHG Paragrafen 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragrafen 76, 93, 111, 119, 130, 243 ff.; HGB Paragrafen 105 ff., 161 ff: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - BRAO Paragraf 43a, BORA Paragraf 3 und BRAO Paragraf 49b für Verschwiegenheit, Konflikt und Honorar: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- GwG Paragrafen 10 ff. für Mandatsannahme und wirtschaftlich Berechtigte: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - BGB Paragrafen 611a, 675 und 280 für Beratungs- und Haftungsrahmen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 41 GWB — Vollzugsverbot; Monitoring der Freigabe-Fristen zwingend: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 158 BGB — Bedingungseintritt; CP-Erfuellung; Fristen-Monitoring: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 17, 18 MAR; Paragraf 41 GWB; Paragraf 56 AWV; Art. 5, 25 Datenschutz-Grundverordnung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 49b BRAO — Vergaberrecht; Erfolgshonorar; Sittenwidrigkeits-Grenzen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 14, 14a UStG — Rechnungsausstellung; E-Rechnung-Pflicht ab 2025 (B2B): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 

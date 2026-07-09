@@ -101,11 +101,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 20.09.2006 - VIII ZR 103/06: Betriebskostenabrechnung muss geordnet und nachvollziehbar sein.
 - BGH, Urteil vom 04.05.2011 - VIII ZR 195/10: Eigenbedarf verlangt nachvollziehbaren Nutzungswunsch und Interessenabwägung.
 - BGH, Urteil vom 10.10.2012 - VIII ZR 107/12: Zahlungsverzug kann fristlose Kündigung tragen, Schonfristzahlung wirkt nur begrenzt.
-- Verifizierte Anker: BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025
-- Paragraf 556 Abs. 3 BGB aktuell prüfen. BGH, Urteil vom 12.11.2014 - VIII ZR 112/14 als Zugangswarnung nur mit frei prüfbarer Quelle verwenden. Keine Blindfundstellen
-- Zahlungsbelege mitverlangen, wenn der Zahlungsfluss für die Abrechnung relevant ist. BGH, Urteil vom 09.12.2020 - VIII ZR 118/19
-- Originalbelege sind der Ausgangspunkt; Kopien oder Scans können genügen, wenn dies sachgerecht und überprüfbar ist. BGH, Urteil vom 15.12.2021 - VIII ZR 66/20
-- Zitiere als tragenden Anker BGH, Urteil vom 09.04.2008 - VIII ZR 84/07 nur mit frei prüfbarer Quelle. Keine Scheingenauigkeit: Wenn die Abrechnung nur ungeschickt aussieht, aber rechnerisch
 
 ## 9. Prüfraster
 

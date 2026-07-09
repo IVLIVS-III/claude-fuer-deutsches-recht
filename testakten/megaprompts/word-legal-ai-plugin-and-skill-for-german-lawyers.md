@@ -1,32 +1,32 @@
-# Megaprompt: word-legal-ai-plugin-and-skill-for-german-lawyers
+# Vollprüfung: word-legal-ai-plugin-and-skill-for-german-lawyers
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 52 Skills des Plugins `word-legal-ai-plugin-and-skill-for-german-lawyers`.
+Dieser Vollprüfung enthaelt top-15 von 52 Skills des Plugins `word-legal-ai-plugin-and-skill-for-german-lawyers`.
 
 ## Inhaltsverzeichnis
 
-1. **writing-einstieg-routing** — Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad.
-2. **orientierung-drafting-partner-kommentar** — Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dokumenttyp, Stadium, Adressat, Stilprofil, Sprachraum und …
-3. **agb-konforme-klauseln-305-310-bgb** — Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach §§ 305-310 BGB. Klärt den AGB-Begriff (vorformuliert, meh…
-4. **anspruchsgrundlage-rechtsfolge-b2b-klauseln** — Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen. Klare Trennung von Tatbestand (Wenn-Teil mit Voraussetzungen…
-5. **anwaltsschreiben-aussergerichtlich** — Außergerichtliches Anwaltsschreiben in drei Spielarten: erster anwaltlicher Brief, Mahnschreiben nach § 286 BGB mit Verz…
-6. **b2b-vs-b2c-klausel-strategie** — Strategisches Drafting in zwei Vertragswelten. B2C unter strengem Verbraucherschutz (§§ 13 und 14 BGB sowie § 305 II BGB…
-7. **bedingungen-aufschiebend-aufloesend-fristen** — Konditionalstruktur in Vertraegen sauber bauen. § 158 BGB: aufschiebende Bedingung (Eintritt bei Eintritt) vs aufloesend…
-8. **boilerplate-klauseln-definitionen** — Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirksamkeitsanalyse und Mustertexten. Behande…
-9. **cowork-cloud-kollaboration-drafting** — Mandantengeheimnis-konformes Drafting in der Cloud (Claude Cowork; Office 365; Google Workspace). Rechtlicher Rahmen § 4…
-10. **definitionen-klauseln-stringent** — Defined Terms in Vertraegen sauber bauen. Hierarchie und Konsistenz: einmal definieren, im gesamten Dokument einheitlich…
-11. **deutscher-kanzleistil-kalibrieren** — Kalibriert juristische Texte auf den passenden deutschen Kanzleistil: Frankfurter Großkanzlei, Boutique, Kleinkanzlei, I…
-12. **dokumentarchitektur-vertrag-englischer** — Dokumentarchitektur juristischer Texte sauber bauen. Vertrag mit Rubrum/Parteien, Praeambel, Definitionen, Hauptleistung…
-13. **englischer-vertrag-deutsches-recht** — Draftet oder prüft englischsprachige Verträge mit deutschem Recht als anwendbarem Recht. Verhindert ungewollten Import v…
-14. **finaler-writing-quality-gate** — Finales Quality Gate für juristische Texte vor Versand. Prüft Rechtsfrage, Antrag oder Klauselzweck, Adressat, Stil, Zit…
-15. **force-majeure-geheimhaltung-nda** — Drafting und Abgrenzung von Force-Majeure-Klauseln und § 313 BGB (Wegfall der Geschäftsgrundlage). Strukturiert Definiti…
+1. **writing-einstieg-routing** — Wenn es um Einstieg und Routing in Word-Workflows für deutsche Juristen geht: klärt Rolle, Ziel, Frist, Unterlagen und d…
+2. **orientierung-drafting-partner-kommentar** — Wenn es um Orientierung und Drafting-Triage in diesem Spezialbereich geht: klärt Rolle, Ziel, Frist, Unterlagen und den …
+3. **englische-vertraege-deutsches-recht** — Wenn es um Englische Verträge nach deutschem Recht stil- und risikofest formulieren in Word-Workflows für deutsche Juris…
+4. **transparenzgebot-bgb-us-uk** — Wenn es um Transparenzgebot nach Paragraf 307 I S. 2 BGB in Word-Workflows für deutsche Juristen geht: ordnet Sachverhal…
+5. **kaltstart-risikoampel-und-gegenargumente** — Wenn es um Kaltstart: Risikoampel, Gegenargumente und Verteidigungslinien in Word-Workflows für deutsche Juristen geht: …
+6. **bilinguales-writing-englische-vertraege** — Wenn es um Bilinguales Legal Writing für deutsche Anwälte in Word-Workflows für deutsche Juristen geht: ordnet Akteninha…
+7. **klageerwiderung-substantiiertes-bestreiten** — Wenn es um Klageerwiderung und substantiiertes Bestreiten in diesem Spezialbereich geht: erstellt den passenden Entwurf …
+8. **dokumentarchitektur-vertrag-englischer** — Wenn es um Dokumentarchitektur: Vertrag und Schriftsatz in diesem Spezialbereich geht: erstellt den passenden Entwurf au…
+9. **force-majeure-geheimhaltung-nda** — Wenn es um Force Majeure und Paragraf 313 BGB (Wegfall der Geschäftsgrundlage) in diesem Spezialbereich geht: zerlegt Er…
+10. **revisions-prozess-ueberarbeiten-richterlesbar** — Wenn es um Revisions-Prozess: Redlines und Compare-Workflow in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, L…
+11. **klage-drafting-mandantenmemo-partner** — Wenn es um Klage-Drafting nach Paragraf 253 ZPO in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachve…
+12. **argumentationsarchitektur-schreiben** — Wenn es um Argumentationsarchitektur Schreiben in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachver…
+13. **cowork-cloud-kollaboration-drafting** — Wenn es um Cowork und Cloud-Kollaboration im Drafting in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken …
+14. **b2b-vs-b2c-klausel-strategie** — Wenn es um B2B vs. B2C Klauselstrategie in Word-Workflows für deutsche Juristen geht: ordnet Sachverhalt, Norm, Beweisla…
+15. **verweis-querverweis-dokument-finish** — Wenn es um Verweis- und Querverweis-Technik in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachfo…
 
 ---
 
 ## Skill: `writing-einstieg-routing`
 
-_Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad._
+_Wenn es um Einstieg und Routing in Word-Workflows für deutsche Juristen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Einstieg und Routing
 
@@ -69,7 +69,7 @@ Dieser Einstieg routet **Word Legal Ai Plugin And Skill For German Lawyers** vom
 
 ## Skill: `orientierung-drafting-partner-kommentar`
 
-_Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dokumenttyp, Stadium, Adressat, Stilprofil, Sprachraum und Risiko, erstellt eine Mandatsmatrix und verweist auf die einschlägigen Fachmodulen word-legal-ai-plugin-and-skill-for-german-lawyers, insbesondere Kaltstart-Kommandocenter, Kanz..._
+_Wenn es um Orientierung und Drafting-Triage in diesem Spezialbereich geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Orientierung und Drafting-Triage
 
@@ -171,15 +171,11 @@ _Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dokumenttyp, Sta
 
 ---
 
-## Skill: `agb-konforme-klauseln-305-310-bgb`
+## Skill: `englische-vertraege-deutsches-recht`
 
-_Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach §§ 305-310 BGB. Klärt den AGB-Begriff (vorformuliert, mehrfach verwendet, gestellt), Einbeziehung im Verbraucher- und Unternehmergeschäft sowie Inhaltskontrolle nach § 307 BGB Generalklausel und Transparenzgebot, § 308 BGB Klauselverb..._
+_Wenn es um Englische Verträge nach deutschem Recht stil- und risikofest formulieren in Word-Workflows für deutsche Juristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# AGB-konforme Klauseln nach §§ 305-310 BGB
-
-## Arbeitsbereich
-
-Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach §§ 305-310 BGB. Klärt den AGB-Begriff (vorformuliert, mehrfach verwendet, gestellt), Einbeziehung im Verbraucher- und Unternehmergeschäft sowie Inhaltskontrolle nach § 307 BGB Generalklausel und Transparenzgebot, § 308 BGB Klauselverbote mit Wertungsmöglichkeit und § 309 BGB Klauselverbote ohne Wertungsmöglichkeit. Behandelt die Ausstrahlungswirkung der Verbote des § 308 und § 309 BGB auf B2B-Verträge nach § 307 BGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+# Englische Verträge nach deutschem Recht stil- und risikofest formulieren
 
 ## Arbeitsweg
 
@@ -189,303 +185,29 @@ Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach §§ 305-310 BG
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Eingaben
+## Einstieg
+Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
-- Vertragstyp und Branche.
-- Vertragspartner (Verbraucher nach § 13 BGB, Unternehmer nach § 14 BGB, Kaufmann nach §§ 1 ff. HGB).
-- Klauselzweck (Hauptleistung, Nebenleistung, Haftung, Beendigung).
-- Bisheriger Klauseltext oder Drafting-Auftrag.
-- Verwendungsumfeld (online, offline, Vertrieb durch Dritte).
+1. Wer handelt in welcher Rolle und gegen wen?
+2. Welches praktische Ziel soll erreicht werden?
+3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
+4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
+5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
 
-## Rechtlicher und methodischer Rahmen
-
-- **AGB-Definition § 305 I BGB:** Vorformuliert (für eine Vielzahl von Verträgen), gestellt (vom Verwender), Vereinbarung (Einbeziehung erforderlich). Auch einmalige Verwendung kann genügen, wenn vorformuliert und für mehrfache Verwendung gedacht.
-- **Einbeziehung im Verbrauchergeschäft (§ 305 II BGB):** Ausdrücklicher Hinweis bei Vertragsschluss und zumutbare Möglichkeit der Kenntnisnahme; bei elektronischen AGB Online-Verfügbarkeit und Speicherbarkeit.
-- **Einbeziehung im Unternehmergeschäft (§ 310 I BGB):** Erleichterte Einbeziehung; AGB werden Vertragsbestandteil bei rechtsgeschäftlicher Einbeziehung im Sinne der allgemeinen Regeln. § 305 II und III BGB gelten nicht. § 305c BGB (überraschende und mehrdeutige Klauseln) und §§ 307 bis 309 BGB sind anwendbar; § 308 und § 309 BGB jedoch nur "unter Berücksichtigung der im Handelsverkehr geltenden Gewohnheiten und Gebräuche" und mit Ausstrahlungswirkung über § 307 BGB.
-- **§ 305c BGB:** Überraschende Klauseln (Überrumpelungsschutz) werden nicht Vertragsbestandteil; mehrdeutige Klauseln gehen zulasten des Verwenders.
-- **§ 306 BGB:** Rechtsfolge der Unwirksamkeit. Nur die Klausel fällt weg, der Vertrag bleibt im Übrigen wirksam. Keine geltungserhaltende Reduktion (h. M.).
-- **§ 306a BGB:** Umgehungsverbot.
-- **§ 307 BGB:** Generalklausel. Unangemessene Benachteiligung entgegen Treu und Glauben; vermutet bei unklarer und unverständlicher Klausel (Transparenzgebot, § 307 I 2 BGB) und bei Abweichung vom wesentlichen Grundgedanken des dispositiven Rechts (§ 307 II Nr. 1 BGB).
-- **§ 308 BGB:** Klauselverbote mit Wertungsmöglichkeit (Annahme- und Leistungsfristen, fingierte Erklärungen, Zugang fingiert, Rücktritt usw.). Im B2B grundsätzlich nicht direkt anwendbar, jedoch Ausstrahlung über § 307 BGB.
-- **§ 309 BGB:** Klauselverbote ohne Wertungsmöglichkeit (Preiserhöhungen kurzfristig, Aufrechnungs- und Zurückbehaltungsausschluss, Haftung für grobe Fahrlässigkeit, Vertragsstrafe etc.). Im B2B nicht direkt anwendbar, Ausstrahlung über § 307 BGB ist nach BGH-Linie regelmäßig anzunehmen, im Einzelfall jedoch differenziert.
-- **§ 310 BGB:** Ausnahmen vom Anwendungsbereich.
-
-## Ablauf / Checkliste
-
-1. AGB-Status feststellen: vorformuliert, mehrfach verwendet, gestellt? Auch Individualabrede in Teilen möglich (§ 305b BGB Vorrang).
-2. Einbeziehung sicherstellen, dokumentieren, archivieren.
-3. Überraschungstest (§ 305c BGB): Kein "Ausreißer" im Vertragsumfeld.
-4. Transparenztest (§ 307 I 2 BGB): klar und verständlich, vgl. `transparenzgebot-307-bgb`.
-5. Inhaltskontrolle gegen § 309 BGB (jede Verbotsnummer durchgehen).
-6. Inhaltskontrolle gegen § 308 BGB.
-7. Generalklausel § 307 BGB: wesentliche Grundgedanken, Aushöhlung zentraler Pflichten.
-8. Für B2B: Ausstrahlungswirkung prüfen. Faustregel der BGH-Rechtsprechung: Wenn eine Klausel unter § 309 BGB im Verbrauchergeschäft eindeutig unzulässig wäre, ist sie auch im B2B regelmäßig nach § 307 BGB unwirksam, soweit nicht handelsbräuchliche Besonderheiten überwiegen.
-9. Bei Konfliktfeldern (Haftungsbegrenzung, Verjährung, Aufrechnung, Vertragsstrafe, Beweislast) Sonderprüfung.
-10. Dokumentation der Prüfung für Nachweispflichten gegenüber Mandant und ggf. Aufsichtsbehörden.
-
-## Typische Drafting-Fehler
-
-- "Mehrfachverwendungsabsicht ausgeschlossen": Verschleierungsversuch wirkt nicht; AGB-Status ergibt sich aus der Vorformulierung und der tatsächlichen Verwendung.
-- Pauschale Haftungsausschlüsse "soweit gesetzlich zulässig": Verstoß gegen § 307 BGB Transparenzgebot.
-- Aufrechnungsverbote ohne Ausnahme für unbestrittene oder rechtskräftig festgestellte Forderungen: § 309 Nr. 3 BGB.
-- Pauschalierter Schadensersatz ohne Vorbehalt geringeren Schadens: § 309 Nr. 5 BGB.
-- Vertragsstrafe in Verbraucher-AGB: § 309 Nr. 6 BGB.
-- Geltungserhaltende Reduktion in salvatorischer Klausel: läuft leer.
-- Schriftformklauseln in AGB, die strenger sind als § 126 BGB: kritisch (§ 309 Nr. 13 BGB).
-
-## Beispiel
-
-Tabelle (Auszug, Haftungsbegrenzung):
-
-| Klausel-Typ | Norm | Risiko | Alternative |
-|---|---|---|---|
-| "Haftung ist auf Vorsatz beschränkt" | § 309 Nr. 7 a/b BGB; § 307 BGB B2B | Unwirksam (Verletzung Leben Körper Gesundheit immer; grobe Fahrlässigkeit ebenfalls) | Haftung für Vorsatz und grobe Fahrlässigkeit unbeschränkt; für Verletzung Leben Körper Gesundheit unbeschränkt; im Übrigen bei einfacher Fahrlässigkeit nur bei Verletzung wesentlicher Vertragspflichten und der Höhe nach auf den vertragstypischen vorhersehbaren Schaden begrenzt. |
-| "Aufrechnung ausgeschlossen" | § 309 Nr. 3 BGB | Unwirksam | Aufrechnung mit unbestrittenen oder rechtskräftig festgestellten Forderungen ist zulässig. |
-| "Pauschalierter Schaden EUR 1000" ohne Vorbehalt | § 309 Nr. 5 BGB | Unwirksam | Pauschale Höhe; Recht des Vertragspartners zum Nachweis eines geringeren Schadens ausdrücklich vorbehalten. |
-
-Mustertext (Einbeziehungsklausel, B2C-Onlineshop):
-
-> Es gelten die nachfolgenden Allgemeinen Geschäftsbedingungen in der zum Zeitpunkt des Vertragsschlusses gültigen Fassung. Sie sind im Bestellprozess vor Vertragsschluss eingeblendet und können in lesbarer Form gespeichert und ausgedruckt werden. Mit Abgabe der Bestellung erklärt sich der Kunde mit der Geltung dieser Bedingungen einverstanden.
-
-## Quellen (Stand 05/2026)
-
-- §§ 305, 305a, 305b, 305c, 306, 306a, 307, 308, 309, 310 BGB.
-- §§ 13, 14 BGB (Verbraucher und Unternehmer).
-- §§ 1 ff. HGB (Kaufmannseigenschaft).
-- BGH-Rechtsprechung zur Ausstrahlungswirkung der §§ 308 und 309 BGB auf den B2B-Verkehr ist vom Nutzer fundstellengenau zu verifizieren.
-- Zitierweise: `references/zitierweise.md`.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 203 StGB
-- Art. 28 DSGVO
-- § 11 ProdHaftG
-- § 41 UrhG
-- § 31a UrhG
-- § 32 UrhG
-- § 35 UrhG
-- Art. 32 DSGVO
-- § 2 GeschGehG
-- § 29 UrhG
-- § 31 UrhG
-- § 34 UrhG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+## Arbeitsworkflow
+1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
+2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
+3. **Materielle Weichen:** Die Kernfragen zu **Englische Verträge nach deutschem Recht stil- und risikofest formulieren** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
+4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
+5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `anspruchsgrundlage-rechtsfolge-b2b-klauseln`
+## Skill: `transparenzgebot-bgb-us-uk`
 
-_Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen. Klare Trennung von Tatbestand (Wenn-Teil mit Voraussetzungen) und Rechtsfolge (Dann-Teil mit Pflichten und Fristen). Anwendungsbeispiele: Maengelhaftung Verzugsklausel Kuendigungsfolgenklausel. Anti-Pattern Mantelklausel mit verschachtel..._
+_Wenn es um Transparenzgebot nach Paragraf 307 I S. 2 BGB in Word-Workflows für deutsche Juristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Anspruchsgrundlage und Rechtsfolgen-Klauseln
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
-- Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Eingaben
-
-- Klauselzweck (welcher Tatbestand, welche Rechtsfolge)
-- Vertragstyp (Kaufvertrag, Werkvertrag, Dienstvertrag, gemischter Vertrag)
-- Parteienstellung (Bestellerseite oder Lieferantenseite)
-- Optional: Bestehender Klauselentwurf zur Restrukturierung
-
-## Rechtlicher und methodischer Rahmen
-
-- BGB-Anspruchsgrundlagenpruefung als Vorbild. Tatbestand und Rechtsfolge sind die zwei Saeulen jeder Norm.
-- § 280 Abs. 1 BGB: "Verletzt der Schuldner eine Pflicht aus dem Schuldverhaeltnis, so kann der Gläubiger Ersatz des hierdurch entstehenden Schadens verlangen." Vorbild für Drafting.
-- § 281 BGB, § 286 BGB: Verzug und Schadensersatz statt der Leistung.
-- § 437 BGB, § 634 BGB: Rechte des Kaeufers und des Bestellers bei Mangel.
-- AGB-Recht: Klauselverbote § 308, § 309 BGB. Bei B2B § 307 BGB.
-
-## Ablauf / Checkliste
-
-1. **Tatbestand zerlegen.** Welche Voraussetzungen müssen kumulativ vorliegen?
-2. **Rechtsfolge formulieren.** Was ist die genaue Pflicht oder das Recht?
-3. **Frist setzen.** Innerhalb welcher Frist gilt die Rechtsfolge?
-4. **Beweislast bedenken.** Wer muss was darlegen?
-5. **Konsistenz mit BGB-Defaults.** Weicht die Klausel ab? Wenn ja, AGB-tauglich?
-6. **Tabelle erstellen.** Tatbestand, Rechtsfolge, Frist, Verweis.
-
-### Wenn-Dann-Schema
-
-```
-WENN [Tatbestandsvoraussetzung 1]
-UND [Tatbestandsvoraussetzung 2]
-UND [Tatbestandsvoraussetzung 3]
-DANN [Rechtsfolge]
-INNERHALB [Frist]
-ES SEI DENN [Ausnahme].
-```
-
-### Tabelle Tatbestand zu Rechtsfolge zu Frist
-
-| Klausel | Tatbestand (Wenn) | Rechtsfolge (Dann) | Frist |
-|---|---|---|---|
-| Maengelruege | Lieferung mangelhaft | Anzeige durch Besteller | 7 Tage ab Erkennbarkeit |
-| Nacherfuellung | Anzeige erfolgt, Mangel besteht | Nacherfuellung durch Lieferant | 14 Tage |
-| Ruecktritt | Nacherfuellung erfolglos | Ruecktritt durch Besteller | nach erfolgloser Frist |
-| Verzug | Faelligkeit, Mahnung | Verzugszinsen | ab Mahnung |
-| Kuendigung wichtiger Grund | Pflichtverletzung, Abmahnung | Ausserordentliche Kuendigung | 14 Tage nach Kenntnis |
-| Aufrechnung | unbestrittene oder rechtskraeftig festgestellte Forderung | Aufrechnung zulässig | jederzeit |
-
-### Beispiel 1: Maengelhaftungsklausel (B2B-Lieferantenvertrag)
-
-```
-§ 6 Maengelhaftung
-
-(1) Maengelruege
-Lieferungen sind unverzueglich nach Erhalt zu untersuchen. Offene Maengel
-sind binnen sieben Werktagen nach Lieferung, verdeckte Maengel binnen
-sieben Werktagen nach Erkennbarkeit schriftlich anzuzeigen. § 377 HGB
-bleibt unberuehrt.
-
-(2) Nacherfuellung
-Bei berechtigter Maengelruege hat der Lieferant nach Wahl des Bestellers
-nachzuliefern oder nachzubessern. Die Nacherfuellung erfolgt innerhalb
-von 14 Tagen nach Maengelruege.
-
-(3) Ruecktritt und Minderung
-Schlaegt die Nacherfuellung fehl oder ist sie dem Besteller unzumutbar,
-kann der Besteller vom Vertrag zuruecktreten oder die Verguetung mindern.
-
-(4) Schadensersatz
-Schadensersatzanspruechee richten sich nach § 7 (Haftung).
-```
-
-### Beispiel 2: Verzugsklausel
-
-```
-§ 4 Verguetung und Zahlung
-
-(3) Verzug
-Bei Zahlungsverzug schuldet der Besteller Verzugszinsen in Hoehe von neun
-Prozentpunkten ueber dem Basiszinssatz (§ 288 Abs. 2 BGB). Die Geltend-
-machung weiteren Verzugsschadens bleibt vorbehalten.
-```
-
-### Beispiel 3: Kuendigungsfolgenklausel
-
-```
-§ 9 Laufzeit und Kuendigung
-
-(3) Folgen der Kuendigung
-Mit Wirksamwerden der Kuendigung sind bereits erbrachte Leistungen vom
-Besteller anteilig zu verguten. Der Lieferant gibt saemtliche zur
-Verfuegung gestellten Unterlagen, Daten und Geraete innerhalb von 14 Tagen
-zurueck. Geheimhaltungspflichten gemaess § 8 bleiben für zwei Jahre nach
-Beendigung des Vertrages bestehen.
-```
-
-### Mantelklausel-Anti-Pattern
-
-**Schlecht (Mantelklausel):**
-
-```
-Sollte der Lieferant die Leistung nicht oder nicht rechtzeitig erbringen,
-und sollte der Besteller dies dem Lieferanten unter Setzung einer
-angemessenen Frist nicht zumindest mittelbar anzeigen, so soll, sofern
-nicht ausnahmsweise andere Umstaende dem entgegenstehen, ein Schadensersatz
-zu leisten sein, wobei die Hoehe sich nach billigem Ermessen richtet.
-```
-
-**Gut (zerlegt):**
-
-```
-(1) Liefert der Lieferant nicht oder nicht rechtzeitig, gilt § 5 (Verzug).
-(2) Der Besteller setzt dem Lieferanten eine Nachfrist von 14 Tagen.
-(3) Nach erfolglosem Fristablauf kann der Besteller Schadensersatz statt
- der Leistung verlangen (§ 281 BGB).
-(4) Die Hoehe des Schadensersatzes richtet sich nach § 7 (Haftung).
-```
-
-## Typische Drafting-Fehler
-
-- **Tatbestand und Rechtsfolge in einem Schachtelsatz.** Trennen.
-- **Mehrere Rechtsfolgen ohne Reihenfolge.** Klar regeln, ob alternativ oder kumulativ.
-- **Frist offen.** "Angemessene Frist" nur, wenn unausweichlich. Sonst konkret beziffern.
-- **Ausnahmen ohne Tatbestand.** "Es sei denn, andere Umstaende stehen entgegen" ist keine Ausnahme.
-- **Klauseln ohne Verweis auf BGB-Defaults.** Wer abweicht, soll wissen wovon.
-- **AGB-Klauselverbote ignoriert.** § 308, § 309 BGB lesen.
-
-## Beispiel
-
-**Aufgabe:** Klausel für die ausserordentliche Kuendigung bei Pflichtverletzung des Lieferanten.
-
-**Loesung:**
-
-```
-§ 9 Kuendigung aus wichtigem Grund
-
-(1) Tatbestand
-Eine Partei kann diesen Vertrag aus wichtigem Grund ohne Einhaltung einer
-Kuendigungsfrist kuendigen, wenn:
- a) die andere Partei eine wesentliche Vertragspflicht trotz Abmahnung
- mit Fristsetzung von mindestens 14 Tagen wiederholt verletzt; oder
- b) ueber das Vermoegen der anderen Partei ein Insolvenzverfahren eroeffnet
- oder mangels Masse abgelehnt wird; oder
- c) die andere Partei ihre Zahlungen einstellt.
-
-(2) Form
-Die Kuendigung bedarf der Schriftform und ist innerhalb von 14 Tagen ab
-Kenntnis des wichtigen Grundes auszusprechen.
-
-(3) Rechtsfolge
-Mit Zugang der Kuendigung endet der Vertrag. § 9 Abs. 3 (Folgen) gilt.
-```
-
-| Wenn | Dann | Frist |
-|---|---|---|
-| wesentliche Pflichtverletzung trotz Abmahnung | Ausserordentliche Kuendigung | 14 Tage ab Kenntnis |
-| Insolvenz | Ausserordentliche Kuendigung | 14 Tage ab Kenntnis |
-| Zahlungseinstellung | Ausserordentliche Kuendigung | 14 Tage ab Kenntnis |
-
-## Quellen (Stand 05/2026)
-
-- § 280 BGB, § 281 BGB, § 286 BGB, § 288 BGB, § 308 BGB, § 309 BGB, § 437 BGB, § 634 BGB; § 377 HGB. gesetze-im-internet.de.
-- AGB-Rechtsprechung des BGH zu Mantelklauseln: vom Nutzer mit konkretem Aktenzeichen über bundesgerichtshof.de zu verifizieren.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 203 StGB
-- Art. 28 DSGVO
-- § 11 ProdHaftG
-- § 41 UrhG
-- § 31a UrhG
-- § 32 UrhG
-- § 35 UrhG
-- Art. 32 DSGVO
-- § 2 GeschGehG
-- § 29 UrhG
-- § 31 UrhG
-- § 34 UrhG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
----
-
-## Skill: `anwaltsschreiben-aussergerichtlich`
-
-_Außergerichtliches Anwaltsschreiben in drei Spielarten: erster anwaltlicher Brief, Mahnschreiben nach § 286 BGB mit Verzugsbegründung und Vergleichsangebot. Aufbau: Mandantenbezug; Vollmachtnachweis; knapper Sachverhalt; Anspruch oder Forderung mit Berechnung; konkrete Frist mit Datum; Konsequenz..._
-
-# Anwaltsschreiben aussergerichtlich
+# Transparenzgebot nach § 307 I S. 2 BGB
 
 ## Arbeitsweg
 
@@ -497,468 +219,135 @@ _Außergerichtliches Anwaltsschreiben in drei Spielarten: erster anwaltlicher Br
 
 ## Eingaben
 
-- Mandanteninformation (Name, Anschrift, ggf. Vertretung)
-- Vollmacht (im Brief erwähnen, beifügen oder vorausgesetzt)
-- Adressat (Name, Anschrift, ggf. Vertretung der Gegenseite)
-- Sachverhalt in Stichpunkten
-- Anspruchsgrundlage und konkrete Höhe (in Euro, ggf. mit Berechnung)
-- Frist und gewünschtes Datum
-- Brieftyp (Erstkontakt, Mahnung, Vergleichsangebot)
+- Vorgesehener Klauseltext oder Drafting-Auftrag.
+- Adressatenkreis (Verbraucher, Unternehmer, mittelständische Beschaffung, Online-Massenkundschaft).
+- Zugehörigkeit zu einem Klauselwerk (Bezugnahmen auf andere Klauseln und Anlagen).
+- Gestaltungsspielraum (Layout, Hervorhebungen, Tabellen).
 
 ## Rechtlicher und methodischer Rahmen
 
-- § 286 Abs. 1 BGB: Verzug durch Mahnung nach Fälligkeit.
-- § 286 Abs. 2 BGB: Verzug ohne Mahnung bei kalendermäßig bestimmtem Termin oder anderen genannten Fällen.
-- § 286 Abs. 3 BGB: Verzug spätestens 30 Tage nach Fälligkeit und Rechnungszugang gegenüber Verbrauchern.
-- § 288 BGB: Verzugszinssatz fünf Prozentpunkte über Basiszinssatz; bei Entgeltforderungen aus Rechtsgeschäft ohne Verbraucherbeteiligung neun Prozentpunkte.
-- § 280 Abs. 2 BGB in Verbindung mit § 286 BGB: Verzugsschaden inklusive Rechtsverfolgungskosten (RVG-Geschäftsgebühr Nr. 2300 VV RVG).
-- § 203 BGB: Hemmung der Verjährung durch Verhandlungen.
-- § 43a BRAO: Anwaltliche Sorgfalt und Sachlichkeitsgebot.
-- §§ 4, 13 RVG; Nr. 2300 VV RVG: Geschäftsgebühr außergerichtlich.
-- Methodik: Urteilsstil. Sie-Form. Keine Drohgebärden, klare Konsequenzformulierung.
+- **Rechtsgrundlage:** § 307 I S. 2 BGB. Eine unangemessene Benachteiligung kann sich auch daraus ergeben, dass die Bestimmung nicht klar und verständlich ist.
+- **Geltungsbereich:** Sowohl Verbraucher- als auch Unternehmergeschäft. Im B2B gilt das Transparenzgebot über § 310 I i. V. m. § 307 BGB.
+- **Maßstab:** Durchschnittlicher Vertragspartner aus dem typischerweise angesprochenen Kreis, ohne juristisches oder branchenspezifisches Spezialwissen.
+- **Funktion:** Transparenzgebot verlangt nicht nur sprachliche Klarheit, sondern auch wirtschaftliche Nachvollziehbarkeit: Der Vertragspartner muss die finanziellen Folgen und Rechte/Pflichten erkennen können.
+- **Folgen der Intransparenz:** Unwirksamkeit der Klausel; das dispositive Recht greift (§ 306 II BGB).
+- **Rechtsprechung:** Eine umfangreiche BGH-Linie zu Preisanpassungs-, Wechsel- und Verlängerungsklauseln präzisiert den Maßstab. Konkrete Fundstellen sind vom Nutzer zu verifizieren.
 
 ## Ablauf / Checkliste
 
-1. **Briefkopf und Bezugslinie.** Mandant, Anschrift Gegenseite, Aktenzeichen Ihrer Kanzlei, Datum, Betreff.
-2. **Anrede.** "Sehr geehrte Damen und Herren" bei Unternehmen, sonst persönliche Anrede.
-3. **Mandantsbezug und Vollmacht.** "In dieser Sache vertreten wir die Interessen unserer Mandantin, der Frau X. Eine schriftliche Vollmacht liegt vor und wird auf Anforderung übersandt."
-4. **Sachverhalt knapp.** Drei bis sechs Sätze. Keine Aktenführung, kein Tagebuch.
-5. **Anspruch oder Forderung.** Klar nennen, Höhe konkret, Anspruchsgrundlage angeben.
-6. **Frist mit Datum.** "Wir fordern Sie auf, den Betrag bis zum 20. Juni 2026 (Posteingang bei uns) auf das nachstehende Konto zu überweisen." Keine "unverzüglich"-Floskeln.
-7. **Konsequenz benennen.** Klageerhebung, gerichtliches Mahnverfahren, Strafanzeige nur wenn berechtigt. Keine leeren Drohungen.
-8. **Vorbehalt aller Rechte.** Standardformulierung.
-9. **Schlussformel und Unterschrift.** "Mit freundlichen Grüßen", Berufsbezeichnung.
-
-### Brieftyp-Matrix
-
-| Brieftyp | Schwerpunkt | Pflichtelemente | Fristlänge typisch |
-|---|---|---|---|
-| Erstkontakt | Vorstellung Mandat, erste Forderung | Anspruchsgrundlage, Höhe, erste Frist | 14 Tage |
-| Mahnung | Verzugsbegründung, Folgenwarnung | Fälligkeit, Mahnung, Verzugsfolgen | sieben bis 14 Tage |
-| Vergleichsangebot | konkretes Zahlenangebot, Annahmemodus | Höhe in Euro, Annahmefrist, Erledigungsklausel | sieben bis 21 Tage |
+1. Adressatenkreis identifizieren: Welcher Bildungs- und Erfahrungshorizont ist anzunehmen?
+2. Klauseltext laut lesen oder vorlesen lassen. Wo der Leser stockt, droht Intransparenz.
+3. Strukturelle Klarheit prüfen: Überschriften, kurze Absätze, Nummerierung, Tabellen für Tarif- und Preisinformationen.
+4. Sprachliche Klarheit prüfen: kurze Sätze, aktive Form, keine doppelten Negationen, Fachbegriffe erläutern oder ersetzen.
+5. Verweistechnik prüfen: kaskadierte Verweise (Klausel verweist auf Anlage, die auf weitere Anlage verweist) sind kritisch. Im Zweifel Klausel volltext aufnehmen.
+6. Wirtschaftliche Folgen sichtbar machen: Beispielsrechnungen, Hinweise auf Höchst-/Mindestwerte, Beispiele für Anpassungen.
+7. Doppelregelungen vermeiden: Wenn dieselbe Frage in zwei Klauseln unterschiedlich beantwortet wird, ist eine intransparent (mehrdeutig, § 305c II BGB).
+8. Konsistenz der Defined Terms (vgl. `definitionen-klauseln-stringent`).
+9. Layout-Tools nutzen: Fettungen für zentrale Pflichten, Tabellen für Preise und Fristen, ggf. Hinweisboxen.
+10. Lesbarkeitstest mit branchenfremder Person; Anmerkungen einsammeln.
 
 ## Typische Drafting-Fehler
 
-- **Drohungen ohne Substanz.** "Wir behalten uns vor, weitere rechtliche Schritte einzuleiten" ohne Anspruchsgrundlage ist berufsrechtlich heikel.
-- **Pauschalforderungen ohne Berechnung.** "Schadensersatz in angemessener Höhe" ist kein anwaltlicher Brief.
-- **Unklare Frist.** "Unverzüglich" oder "zeitnah" sind keine Fristen. Konkretes Datum.
-- **Schriftform-Fehler.** Bei Kündigungen Schriftform (§ 126 BGB) oder Textform (§ 126b BGB) prüfen. Briefkopf reicht nicht in jedem Fall.
-- **Falsche Anrede oder fehlendes "Sie".** Persönliche Anrede in geschäftlichen Briefen ungewöhnlich.
-- **RVG-Gebühr nicht angemeldet.** Wenn Verzug vorliegt, ist die Geschäftsgebühr Verzugsschaden und sollte mitgefordert werden.
+- "Im Übrigen gelten die gesetzlichen Bestimmungen": ohne Hinweis auf relevante Normen häufig intransparent in Verbraucher-AGB, insbesondere bei Widerrufsrecht und Mängelrechten.
+- Verweis auf "die jeweils gültige Preisliste" ohne Mechanismus der Bekanntgabe: intransparent.
+- Doppelte Negationen ("nicht unzulässig"): wirkt verschleiernd.
+- Schachtelsätze mit über vierzig Wörtern: schwer lesbar.
+- Fachbegriffe ohne Erläuterung ("Aufrechnung", "Zurückbehaltungsrecht", "Verzugszinsen ab Mahnung") gegenüber Verbrauchern.
+- Pauschalkostenklauseln ohne Höhe: intransparent.
+- Verlängerungsklauseln, die die Verlängerungsdauer und die Kündigungsfrist nicht zusammen erkennen lassen.
+- Mehrere Klauseln widersprechen sich (Haftungsausschluss in § X widerspricht Garantie in § Y).
 
 ## Beispiele
 
-### Mustertext Erstkontakt
+Vorher (Preisanpassungsklausel, Verbraucher):
 
-```
-Anwaltskanzlei Stern und Partner
-Musterallee 4 · 12345 Musterstadt
+> "Der Anbieter ist berechtigt, die vereinbarten Preise nach billigem Ermessen unter Berücksichtigung wesentlicher Kostenfaktoren anzupassen, wobei eine Erhöhung im Übrigen nicht ausgeschlossen ist und Kostensenkungen entsprechend zu berücksichtigen sind, soweit dies angemessen erscheint."
 
-Beklagt GmbH
-Industrieweg 5
-12345 Beispielstadt Berlin, den 30. Mai 2026
+Nachher:
 
-Unser Zeichen: 2026 023 sm
-Ihre Mandantin: Anna Muster
+> § X Preisanpassung
+> (1) Der Anbieter kann den monatlichen Grundpreis erhöhen, wenn sich die Kosten für Vorleistungen (Strom, Netznutzung, Lohn) seit dem letzten Anpassungszeitpunkt um mehr als drei Prozent erhöht haben.
+> (2) Eine Erhöhung darf den prozentualen Anstieg der Vorleistungskosten nicht überschreiten. Sinken die Vorleistungskosten, senkt der Anbieter den Grundpreis entsprechend.
+> (3) Eine Preisanpassung wird mindestens sechs Wochen vorher in Textform angekündigt. Der Kunde kann innerhalb eines Monats nach Zugang der Ankündigung ordentlich kündigen.
 
-Sehr geehrte Damen und Herren,
+Vorher (Widerrufsbelehrungspflicht):
 
-in dieser Sache vertreten wir die Interessen unserer Mandantin
-Frau Anna Muster. Eine schriftliche Vollmacht liegt vor und wird auf
-Anforderung übersandt.
+> "Im Übrigen gelten die gesetzlichen Vorschriften."
 
-Unsere Mandantin und Sie schlossen am 15. Januar 2026 einen Kaufvertrag
-über zehn Maschinen Typ A-100 zum Gesamtpreis von 25.000 Euro netto.
-Unsere Mandantin lieferte am 1. Februar 2026. Die Rechnung war binnen 30
-Tagen ab Lieferung fällig. Eine Zahlung ist bis heute nicht erfolgt.
+Nachher (sachgerecht in Verbraucher-AGB):
 
-Wir fordern Sie auf, den Betrag von 25.000 Euro bis zum 14. Juni 2026
-(Posteingang bei uns) auf das Konto der Mandantin (IBAN DE12 1234 5678
-9012 3456 78) zu überweisen.
-
-Sollte die Zahlung nicht fristgerecht eingehen, werden wir ohne weiteres
-Klage erheben. Bereits jetzt machen wir vorsorglich darauf aufmerksam,
-dass weitere Kosten entstehen können.
-
-Mit freundlichen Grüßen
-Marta Stern
-Rechtsanwältin
-```
-
-### Mustertext Mahnung
-
-```
-[Briefkopf] Berlin, den 30. Mai 2026
-
-Mahnung in Sachen Anna Muster ./. Beklagt GmbH
-
-Sehr geehrte Damen und Herren,
-
-namens und in Vollmacht unserer Mandantin Frau Anna Muster mahnen wir
-hiermit die Zahlung der offenen Kaufpreisforderung an.
-
-Hauptforderung: 25.000,00 Euro (fällig seit 1. März 2026)
-Verzugszinsen § 288 Abs. 2: gemäß gesonderter Berechnung
-Geschäftsgebühr Nr. 2300 VV RVG: gesonderte Berechnung
-
-Wir setzen Ihnen eine letzte Zahlungsfrist bis zum 13. Juni 2026
-(Posteingang bei uns). Nach Ablauf der Frist werden wir ohne weitere
-Mahnung Klage erheben.
-
-Mit freundlichen Grüßen
-Marta Stern
-Rechtsanwältin
-```
-
-### Mustertext Vergleichsangebot
-
-```
-[Briefkopf] Berlin, den 30. Mai 2026
-
-Vergleichsangebot in Sachen Anna Muster ./. Beklagt GmbH
-
-Sehr geehrte Damen und Herren,
-
-zur außergerichtlichen Erledigung des Streits über die offene
-Kaufpreisforderung schlagen wir Folgendes vor:
-
-1. Die Beklagt GmbH zahlt an unsere Mandantin 22.000 Euro bis zum 30.
- Juni 2026 auf das Konto IBAN DE12 1234 5678 9012 3456 78.
-
-2. Mit der vollständigen Zahlung sind sämtliche wechselseitigen Ansprüche
- aus dem Kaufvertrag vom 15. Januar 2026 erledigt.
-
-3. Jede Partei trägt ihre außergerichtlichen Kosten selbst.
-
-Wir bitten um schriftliche Annahme bis zum 13. Juni 2026
-(Posteingang bei uns). Andernfalls erfolgt Klageerhebung.
-
-Mit freundlichen Grüßen
-Marta Stern
-Rechtsanwältin
-```
+> Über das gesetzliche Widerrufsrecht und die Mängelrechte werden Sie gesondert in der beigefügten Widerrufsbelehrung und in § Z dieses Vertrages informiert. Diese Vorschriften gehen abweichenden Regelungen in diesen AGB vor.
 
 ## Quellen (Stand 05/2026)
 
-- §§ 280, 286, 288 BGB; § 203 BGB; gesetze-im-internet.de.
-- § 43a BRAO; Sachlichkeitsgebot; vgl. § 6 BORA.
-- § 4 RVG; Nr. 2300 VV RVG für die Geschäftsgebühr.
-- § 126, § 126b BGB zur Schriftform und Textform.
-- `references/zitierweise.md` für Belegpflicht.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 203 StGB
-- Art. 28 DSGVO
-- § 11 ProdHaftG
-- § 41 UrhG
-- § 31a UrhG
-- § 32 UrhG
-- § 35 UrhG
-- Art. 32 DSGVO
-- § 2 GeschGehG
-- § 29 UrhG
-- § 31 UrhG
-- § 34 UrhG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
----
-
-## Skill: `b2b-vs-b2c-klausel-strategie`
-
-_Strategisches Drafting in zwei Vertragswelten. B2C unter strengem Verbraucherschutz (§§ 13 und 14 BGB sowie § 305 II BGB und §§ 308 und 309 BGB direkt anwendbar). B2B im Geschäftsverkehr nach § 310 I BGB erleichtert, aber mit Ausstrahlungswirkung der Klauselverbote über § 307 BGB. Ein einziges Kl..._
-
-# B2B vs. B2C Klauselstrategie
-
-## Arbeitsbereich
-
-Strategisches Drafting in zwei Vertragswelten. B2C unter strengem Verbraucherschutz (§§ 13 und 14 BGB sowie § 305 II BGB und §§ 308 und 309 BGB direkt anwendbar). B2B im Geschäftsverkehr nach § 310 I BGB erleichtert, aber mit Ausstrahlungswirkung der Klauselverbote über § 307 BGB. Ein einziges Klauselwerk für beide Welten ist effizient, aber risikobehaftet; Alternative sind getrennte AGB-Sätze. Liefert Tabelle Klauseltyp/B2C-Risiko/B2B-Risiko/Empfehlung und Mustertexte für haftungsbegrenzte Klauseln im Vergleich beider Welten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
-- Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Eingaben
-
-- Kundenstruktur (rein B2B, rein B2C, gemischt).
-- Vertriebskanal (Onlineshop, Außendienst, Plattform).
-- Bisheriges Klauselwerk.
-- Branche und Regulierung (Telekommunikation, Banking, Energie, Bau).
-- Konfliktthemen (Haftungsbegrenzung, Mängelrechte, Vertragslaufzeiten, Vertragsstrafe, Aufrechnung).
-
-## Rechtlicher und methodischer Rahmen
-
-- **Verbraucher (§ 13 BGB):** Natürliche Person, die ein Rechtsgeschäft zu Zwecken außerhalb ihrer gewerblichen oder selbständigen beruflichen Tätigkeit abschließt.
-- **Unternehmer (§ 14 BGB):** Natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die in Ausübung ihrer gewerblichen oder selbständigen beruflichen Tätigkeit handelt.
-- **B2C-Welt:** § 305 II BGB Einbeziehung, §§ 308 und 309 BGB direkt anwendbar, § 307 BGB inkl. Transparenzgebot.
-- **B2B-Welt:** § 310 I BGB. §§ 308 und 309 BGB direkt nicht anwendbar; jedoch §§ 305c, 307 BGB direkt anwendbar. BGH wertet die §§ 308 und 309 BGB als Indizien für die Unangemessenheit nach § 307 BGB; konkrete Fundstelle vom Nutzer zu verifizieren.
-- **Handelsbräuche:** § 310 I 2 BGB verlangt Berücksichtigung der im Handelsverkehr geltenden Gewohnheiten und Gebräuche.
-- **Praxisfolge:** Klauseln, die in B2C eindeutig verboten sind, sind in B2B oft ebenfalls unwirksam, jedoch nicht reflexartig. Eine inhaltliche Begründung bleibt notwendig.
-- **Strategieentscheidung:** Ein gemeinsames Klauselwerk vereinfacht die Pflege, birgt aber das Risiko, dass die strengere Verbraucherwertung das Geschäftskundenwerk durchschlägt (Worst-Case-Übernahme). Getrennte AGB-Sätze sind aufwendiger, aber sauberer.
-
-## Ablauf / Checkliste
-
-1. Kundenstruktur und Kanäle ermitteln. Wer wird tatsächlich Vertragspartner?
-2. Konfliktklauseln identifizieren: Haftung, Mängelrechte (insbesondere Verjährung, Rüge), Vertragsdauer und Verlängerung, Preisanpassung, Vertragsstrafe, Aufrechnung, Zurückbehaltung, Gerichtsstand.
-3. Pro Klausel B2C-Bewertung: § 308 / § 309 BGB direkt prüfen.
-4. Pro Klausel B2B-Bewertung: § 307 BGB unter Berücksichtigung der Ausstrahlung der § 308 / § 309 BGB-Wertung und der Handelsbräuche.
-5. Entscheidung: einheitliche Klausel, mit B2B-Variante (Switch) oder vollständige Trennung.
-6. Bei Switch-Logik: technisch zuverlässig prüfen (Vertragstyp-Erkennung im Checkout) und transparent dokumentieren.
-7. Bei getrennten AGB: Versionen mit klarer Bezeichnung (B2C-AGB, B2B-AGB), keine Vermischung im Vertragsschluss.
-8. Bei gemischter Kundschaft (KMU als faktische Verbraucher): erhöhte Sorgfalt; viele Schutzregeln gelten ungeachtet der formalen Unternehmereigenschaft als Wertungsgrundlage.
-9. Sicherstellen, dass der Geltungsumfang (§§ 13, 14 BGB) im Vertrag klar ist.
-10. Schulung der Vertriebs- und Servicemitarbeitenden für die richtige AGB-Verwendung.
-
-## Typische Drafting-Fehler
-
-- "Gegenüber Unternehmern gilt §§ 308 / 309 BGB nicht": missverstandene Pauschalformel. Die Ausstrahlungswirkung wird ignoriert.
-- Haftungsklausel aus B2C-AGB unverändert in B2B übernommen: doppelte Schutzwertung, mögliche Unwirksamkeit.
-- Trennung nur formal: Verbraucher wird in B2B-Strecke gedrängt, indem ihm eine "Unternehmereigenschaft" abverlangt wird; die tatsächliche Eigenschaft entscheidet.
-- Verlängerungsklausel mit zwölf Monaten Laufzeit in B2C: § 309 Nr. 9 BGB.
-- Mängelfrist sechs Monate in B2C: § 309 Nr. 8 b ff BGB.
-- Rügepflicht nach § 377 HGB in Verbraucher-AGB übernommen: unwirksam.
-- Vertragsstrafe in B2C-AGB: § 309 Nr. 6 BGB.
-
-## Beispiele
-
-Tabelle (Auszug):
-
-| Klauseltyp | B2C-Risiko | B2B-Risiko | Empfehlung |
-|---|---|---|---|
-| Haftungsbegrenzung auf Vorsatz | unwirksam: § 309 Nr. 7 a/b BGB | unwirksam nach § 307 BGB (Ausstrahlung) | Vorsatz, grobe Fahrlässigkeit, Verletzung Leben Körper Gesundheit ausnehmen; einfache Fahrlässigkeit nur bei wesentlichen Vertragspflichten, Höhe auf vertragstypischen Schaden begrenzt |
-| Verkürzung Verjährungsfrist Mängel auf sechs Monate | unwirksam: § 309 Nr. 8 b ff BGB | bei B2B-Kaufverträgen Verkürzung auf zwölf Monate üblich, aber im Einzelfall Ausstrahlung; je nach Branche differenziert | im B2B zwölf Monate, in B2C keine Verkürzung |
-| Aufrechnungsverbot | unwirksam: § 309 Nr. 3 BGB | grundsätzlich unwirksam, Ausstrahlung | Aufrechnung nur ausschließen für streitige, nicht rechtskräftig festgestellte Forderungen |
-| Vertragsverlängerung um zwölf Monate ohne Kündigung | unwirksam: § 309 Nr. 9 BGB | im B2B häufig zulässig, aber transparent | in B2C maximal stillschweigende Verlängerung um drei Monate mit einmonatiger Kündigungsfrist |
-| Vertragsstrafe | unwirksam: § 309 Nr. 6 BGB | im B2B individuell, AGB-tauglich nur eng | vgl. `vertragsstrafe-339-bgb` |
-
-Mustertext (Haftungsbegrenzung, gegenübergestellt):
-
-B2C-Variante:
-
-> § X Haftung
-> (1) Der Anbieter haftet unbeschränkt für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit, soweit er die Pflichtverletzung zu vertreten hat.
-> (2) Im Übrigen haftet der Anbieter für Vorsatz und grobe Fahrlässigkeit unbeschränkt. Bei einfacher Fahrlässigkeit haftet der Anbieter nur für die Verletzung einer wesentlichen Vertragspflicht (Kardinalpflicht), deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Kunde regelmäßig vertrauen darf, und der Höhe nach begrenzt auf den vertragstypischen, vorhersehbaren Schaden.
-
-B2B-Variante:
-
-> § X Haftung
-> (1) Der Anbieter haftet unbeschränkt für Vorsatz, grobe Fahrlässigkeit, für die Verletzung des Lebens, des Körpers und der Gesundheit, für Ansprüche nach dem Produkthaftungsgesetz und im Umfang einer übernommenen Garantie.
-> (2) Bei leicht fahrlässiger Verletzung wesentlicher Vertragspflichten haftet der Anbieter der Höhe nach begrenzt auf den vertragstypischen, vorhersehbaren Schaden. Eine weitergehende Haftung für leichte Fahrlässigkeit ist ausgeschlossen.
-> (3) Die Verjährung der Ansprüche des Kunden wegen Mängeln beträgt zwölf Monate ab Gefahrübergang, soweit nicht zwingende gesetzliche Vorschriften entgegenstehen.
-
-## Quellen (Stand 05/2026)
-
-- §§ 13, 14, 305, 305c, 306, 307, 308, 309, 310 BGB.
-- § 377 HGB (Rügepflicht im Handelskauf).
-- BGH-Linie zur Ausstrahlung des § 309 BGB auf § 307 BGB im B2B ist vom Nutzer fundstellengenau zu verifizieren.
+- § 307 I S. 2 BGB; § 305c II BGB; § 306 II BGB; § 310 I BGB.
+- BGH-Linie zu Preisanpassungs-, Tarif- und Verlängerungsklauseln (verschiedene Senate) ist vom Nutzer fundstellengenau zu verifizieren.
 - Zitierweise: `references/zitierweise.md`.
 
 ---
 
-## Skill: `bedingungen-aufschiebend-aufloesend-fristen`
+## Skill: `kaltstart-risikoampel-und-gegenargumente`
 
-_Konditionalstruktur in Vertraegen sauber bauen. § 158 BGB: aufschiebende Bedingung (Eintritt bei Eintritt) vs aufloesende Bedingung (Wegfall bei Eintritt). Potestativbedingung. Closing Conditions in M&A mit Signing/Closing-Logik. Long Stop Date. Fristberechnung nach §§ 187-193 BGB. Mit Tabelle Be..._
+_Wenn es um Kaltstart: Risikoampel, Gegenargumente und Verteidigungslinien in Word-Workflows für deutsche Juristen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Bedingungen aufschiebend, aufloesend, Fristen
+# Kaltstart: Risikoampel, Gegenargumente und Verteidigungslinien
 
-## Arbeitsweg
+## Direktstart: lesen, entscheiden, liefern
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
-- Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-## Zweck
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-Bedingungen und Fristen geben dem Vertrag seine zeitliche Struktur. Die juristische Unterscheidung zwischen aufschiebender und aufloesender Bedingung (§ 158 BGB), zwischen Bedingung und Befristung (§ 163 BGB) und zwischen Potestativbedingung und reiner Drittbedingung ist Drafting-Grundwissen. Wer die Begriffe verwechselt, baut Klauseln, die das Gegenteil ihres Wortlauts bewirken.
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Liefert die Konditionalsystematik, die typischen M&A-Closing-Conditions, das Long Stop Date und die Fristberechnung nach §§ 187 bis 193 BGB. Er zeigt die Anti-Pattern doppelt-negativer Formulierungen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
-## Eingaben
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
-- Konditionalbedarf (Closing-Conditions, Vertragsende, Optionsrechte, Genehmigungen)
-- Vertragstyp (M&A, Lieferantenvertrag, Mietvertrag, Optionsvertrag)
-- Wer kontrolliert die Bedingung? (Potestativ, Drittbedingung)
-- Zeitliche Vorgaben (Long Stop Date, Faelligkeit)
+## Normenanker
 
-## Rechtlicher und methodischer Rahmen
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-- § 158 BGB: Aufschiebende und aufloesende Bedingung. Die Wirkung tritt mit dem Eintritt der Bedingung ein bzw. faellt mit ihm weg.
-- § 159 BGB: Rueckbeziehung der Wirkung durch Parteivereinbarung möglich.
-- § 161 BGB: Schwebende Wirksamkeit bei Verfuegungen.
-- § 162 BGB: Treuwidrige Verhinderung oder Herbeifuehrung der Bedingung.
-- § 163 BGB: Bestimmung der Zeit. Befristung im Gegensatz zur Bedingung.
-- §§ 187 bis 193 BGB: Fristberechnung, insbesondere Beginn (§ 187 BGB), Ende (§ 188 BGB), Sonn- und Feiertag (§ 193 BGB).
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
 
-## Ablauf / Checkliste
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-1. **Klären: Bedingung oder Befristung?** Ungewisses Ereignis = Bedingung. Sicheres zeitliches Ereignis = Befristung.
-2. **Aufschiebend oder aufloesend?** Tritt die Wirkung mit Bedingungseintritt ein oder faellt sie weg?
-3. **Potestativ oder Drittbedingung?** Liegt der Eintritt in der Macht einer Partei?
-4. **Long Stop Date setzen.** Ohne zeitliche Grenze schwebt die Bedingung unbestimmt lange.
-5. **Faelligkeit der Hauptpflichten bestimmen.** Mit oder ohne Eintritt?
-6. **Fristberechnung prüfen.** §§ 187 bis 193 BGB anwenden. Sonn- und Feiertagsregel beachten.
-7. **Doppelt-negative Formulierungen vermeiden.**
+## Spezialwissen: Kaltstart: Risikoampel, Gegenargumente und Verteidigungslinien
+- **Normen-/Quellenanker:** AI, DE, EN, US, UK.
 
-### Tabelle Bedingungstyp zu Beispielklausel
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-| Typ | § BGB | Wirkung | Beispielklausel |
-|---|---|---|---|
-| Aufschiebende Bedingung | § 158 Abs. 1 | Wirksamkeit tritt erst mit Eintritt ein | "Dieser Vertrag wird wirksam mit Eintragung der Verschmelzung im Handelsregister." |
-| Aufloesende Bedingung | § 158 Abs. 2 | Wirksamkeit endet mit Eintritt | "Dieser Vertrag endet mit Insolvenzeroeffnung über das Vermögen des Bestellers." |
-| Befristung | § 163 BGB | Zeitlich gewisses Ereignis | "Der Vertrag endet am 31. Dezember 2028." |
-| Potestativbedingung | § 158 BGB | Eintritt von einer Partei kontrollierbar | "Sofern der Besteller das Angebot annimmt, ..." |
-| Closing Condition (CP) | § 158 Abs. 1 | Aufschiebende Bedingung im M&A | "Bedingung des Vollzugs ist die kartellrechtliche Freigabe." |
-| Long Stop Date | Vertragstechnisch | Frist für Bedingungseintritt | "Treten die Vollzugsbedingungen bis zum 31. Dezember 2026 nicht ein, kann jede Partei zuruecktreten." |
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-### Closing-Architecture (M&A-Grundmuster)
-
-```
-SIGNING (Unterzeichnung des Vertrages)
- |
- | Vollzugsbedingungen (Closing Conditions / CP)
- | - Kartellfreigabe
- | - Vorstandsbeschluss
- | - MAC-Bedingung (Material Adverse Change)
- |
- v
-CLOSING (Vollzug, Uebergang von Eigentum und Risiko)
- |
- | Closing Actions
- | - Kaufpreiszahlung
- | - Abtretung der Geschaeftsanteile
- | - Uebergabe der Vermoegenswerte
- |
- v
-POST-CLOSING (Garantieansprueche, Earn-Out, Uebergangsbestimmungen)
-```
-
-### Beispielklauseln
-
-**Aufschiebende Bedingung mit Long Stop Date:**
-
-```
-§ 8 Vollzug
-
-(1) Dieser Vertrag wird mit Eintritt aller in Anlage 8.1 genannten
- Vollzugsbedingungen wirksam (Closing).
-
-(2) Long Stop Date ist der 31. Dezember 2026. Treten die Vollzugs-
- bedingungen bis zum Long Stop Date nicht ein, kann jede Partei
- durch schriftliche Erklaerung an die jeweils andere Partei vom
- Vertrag zuruecktreten. Bereits erbrachte Leistungen sind
- rueckabzuwickeln.
-
-(3) Die Parteien werden den Eintritt der Bedingungen mit der nach
- diesem Vertrag erforderlichen Sorgfalt foerdern. § 162 BGB bleibt
- unberuehrt.
-```
-
-**Aufloesende Bedingung:**
-
-```
-§ 9 Beendigung bei Insolvenz
-
-Dieser Vertrag endet ohne weitere Erklaerung, wenn ueber das Vermoegen
-einer Partei das Insolvenzverfahren eroeffnet oder mangels Masse abgelehnt
-wird. § 119 InsO bleibt unberuehrt.
-```
-
-**Befristung mit Verlaengerung:**
-
-```
-§ 9 Laufzeit
-
-(1) Dieser Vertrag beginnt am 1. Juli 2026 und endet am 30. Juni 2029.
-
-(2) Er verlaengert sich um jeweils ein Jahr, wenn er nicht von einer
- Partei mit einer Frist von drei Monaten zum Ende der Laufzeit
- schriftlich gekuendigt wird.
-```
-
-### Fristberechnung nach §§ 187 bis 193 BGB
-
-| Fall | § BGB | Regel | Beispiel |
-|---|---|---|---|
-| Fristbeginn Ereignisfrist | § 187 Abs. 1 | Tag des Ereignisses zaehlt nicht mit | "14 Tage nach Lieferung am 1. Juni" = bis 15. Juni 24:00 Uhr |
-| Fristbeginn Geburtstagsfrist | § 187 Abs. 2 | Tag selbst zaehlt mit | "Vollendung des 18. Lebensjahres" |
-| Fristende Tagfrist | § 188 Abs. 1 | Ende des letzten Tages | letzter Tag 24:00 Uhr |
-| Fristende Wochen-/Monatsfrist | § 188 Abs. 2 | Tag, der nach Benennung dem Anfangstag entspricht | Frist 1 Monat ab 15. Juni endet 15. Juli 24:00 Uhr |
-| Sonn-/Feiertag | § 193 BGB | Verschiebung auf naechsten Werktag | Fristende Samstag wird auf Montag verschoben (nur für Erklaerungen oder Leistungen) |
-
-### Pitfall: Doppelt-negative Formulierungen
-
-**Schlecht:** "Sofern nicht die Bedingung nicht eintritt, ist der Vertrag wirksam."
-**Gut:** "Mit Eintritt der Bedingung wird der Vertrag wirksam."
-
-**Schlecht:** "Es ist nicht ausgeschlossen, dass die Frist nicht eingehalten wird."
-**Gut:** "Die Frist kann ueberschritten werden, wenn ..."
-
-## Typische Drafting-Fehler
-
-- **Bedingung und Befristung verwechselt.** Sicheres Datum = Befristung; ungewisses Ereignis = Bedingung.
-- **Aufschiebend und aufloesend verwechselt.** Wirkung wird genau umgekehrt.
-- **Long Stop Date fehlt.** Bedingung schwebt unbeschraenkt.
-- **§ 162 BGB ignoriert.** Treuwidrige Beeinflussung der Bedingung gilt als eingetreten oder nicht eingetreten.
-- **Sonn-/Feiertag uebersehen.** § 193 BGB bei Erklaerungen und Leistungen anwenden.
-- **Potestativ ohne Sorgfaltsklausel.** Potestativbedingungen brauchen Mitwirkungspflicht, sonst Manipulationsrisiko.
-- **CP-Liste in Fliesstext.** CPs gehoeren in eine Anlage und sind durchnummeriert.
-
-## Beispiel
-
-**Aufgabe:** Optionsklausel im Investitionsvertrag. Der Investor kann innerhalb von 24 Monaten nach Erstinvestment eine Folgetranche zeichnen. Bei Ausübung wird die Tranche mit Zahlung des Kaufpreises wirksam.
-
-**Loesung:**
-
-```
-§ 4 Folgetranche
-
-(1) Ausübungsrecht
-Der Investor kann innerhalb von 24 Monaten nach Erstinvestment die
-Folgetranche durch schriftliche Erklaerung an die Gesellschaft zeichnen.
-
-(2) Aufschiebende Bedingung
-Die Zeichnung wird mit Zahlung des Kaufpreises auf das in Anlage 4.1
-genannte Konto wirksam (§ 158 Abs. 1 BGB).
-
-(3) Long Stop Date
-Wird der Kaufpreis nicht innerhalb von 14 Werktagen nach Zeichnungs-
-erklaerung gezahlt, gilt die Zeichnung als nicht erfolgt.
-
-(4) Fristberechnung
-Die Frist von 24 Monaten beginnt mit dem Tag nach Eingang der Erst-
-investition auf dem Konto der Gesellschaft (§ 187 Abs. 1 BGB).
-```
-
-## Quellen (Stand 05/2026)
-
-- § 158 BGB, § 159 BGB, § 161 BGB, § 162 BGB, § 163 BGB, §§ 187 bis 193 BGB. gesetze-im-internet.de.
-- § 119 InsO für Beendigung bei Insolvenz. gesetze-im-internet.de/inso/.
-- M&A-Closing-Konvention folgt internationaler Praxis und ist in deutscher M&A-Praxis etabliert. Konkrete Klauselformulierungen vom Nutzer mit aktueller Literatur zu validieren.
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Kaltstart** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `boilerplate-klauseln-definitionen`
+## Skill: `bilinguales-writing-englische-vertraege`
 
-_Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirksamkeitsanalyse und Mustertexten. Behandelt salvatorische Klausel (BGH-kritisch nach § 139 BGB), Schriftformklausel inklusive doppelter Schriftformklausel, Gerichtsstand nach § 38 ZPO, Rechtswahl nach Rom-I-VO, Erfuell..._
+_Wenn es um Bilinguales Legal Writing für deutsche Anwälte in Word-Workflows für deutsche Juristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Boilerplate-Klauseln: Katalog mit Mustertexten
-
-## Arbeitsbereich
-
-Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirksamkeitsanalyse und Mustertexten. Behandelt salvatorische Klausel (BGH-kritisch nach § 139 BGB), Schriftformklausel inklusive doppelter Schriftformklausel, Gerichtsstand nach § 38 ZPO, Rechtswahl nach Rom-I-VO, Erfuellungsort, Bekanntmachung, Uebertragungsverbot. Je Klausel: Voraussetzung, AGB-Risiko, Mustertext. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+# Bilinguales Legal Writing für deutsche Anwälte
 
 ## Arbeitsweg
 
@@ -968,168 +357,29 @@ Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirks
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Eingaben
+## Einstieg
+Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
-- Vertragsart (Individualvertrag oder AGB)
-- Parteien (B2B oder B2C)
-- Sitz der Parteien (für Gerichtsstand und Rechtswahl)
-- Streitwert-Erwartung (für Schiedsklausel-Erwaegung)
+1. Wer handelt in welcher Rolle und gegen wen?
+2. Welches praktische Ziel soll erreicht werden?
+3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
+4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
+5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
 
-## Rechtlicher und methodischer Rahmen
-
-- § 38 ZPO: Gerichtsstandsvereinbarung. Nur unter Kaufleuten oder mit Auslandsbezug zulässig.
-- Rom-I-VO: Verordnung (EG) Nr. 593/2008. Rechtswahl bei vertraglichen Schuldverhaeltnissen.
-- § 126 BGB, § 127 BGB: Schriftform und gewillkuerte Schriftform.
-- § 139 BGB: Teilnichtigkeit. Salvatorische Klausel als Modifikation der gesetzlichen Folge.
-- § 305c Abs. 2 BGB, § 307 BGB: AGB-Kontrolle. Boilerplate ist AGB-pflichtig in AGB-Vertraegen.
-
-## Ablauf / Checkliste
-
-1. **Klauselbedarf prüfen.** Im B2C-AGB sind viele Boilerplate-Klauseln unwirksam. Prüfen Sie pro Klausel.
-2. **Klauseltyp waehlen.** Individualabrede oder AGB.
-3. **Mustertext anpassen.** Pauschalmuster sind Ausgangspunkt, kein Endpunkt.
-4. **AGB-Risiko bewerten.** Ist die Klausel im B2B noch wirksam? Im B2C oft nicht.
-5. **Konsistenz mit dem Rest des Vertrages.** Gerichtsstand muss zur Rechtswahl passen.
-
-### Klausel 1: Salvatorische Klausel (§ 139 BGB)
-
-**Voraussetzung:** Modifikation des § 139 BGB (Gesamtnichtigkeit als Default). Praxisrelevant in nahezu jedem Vertrag.
-
-**AGB-Risiko:** Im B2B nach BGH grundsätzlich wirksam, aber nicht als Generalheilmittel. Sie kehrt nicht die Darlegungslast um; im Streit muss die Partei, die sich auf Teilnichtigkeit beruft, die Auslegung tragen.
-
-**Mustertext (Individualvertrag, B2B):**
-
-```
-Sollte eine Bestimmung dieses Vertrages unwirksam oder undurchfuehrbar sein
-oder werden, bleibt die Wirksamkeit der uebrigen Bestimmungen unberuehrt.
-Anstelle der unwirksamen oder undurchfuehrbaren Bestimmung gilt diejenige
-wirksame und durchfuehrbare Regelung als vereinbart, die dem wirtschaftlichen
-Zweck der unwirksamen oder undurchfuehrbaren Bestimmung am naechsten kommt.
-Entsprechendes gilt für den Fall, dass dieser Vertrag eine Luecke enthaelt.
-```
-
-### Klausel 2: Schriftformklausel (§ 126 BGB)
-
-**Voraussetzung:** Gewillkuerte Schriftform nach § 127 BGB. Vorsicht: doppelte Schriftformklausel im B2B grundsätzlich wirksam (Änderung dieser Klausel selbst nur in Schriftform), im B2C nach AGB-Recht angreifbar.
-
-**Mustertext (Doppelte Schriftform, B2B):**
-
-```
-Aenderungen und Ergaenzungen dieses Vertrages beduerfen der Schriftform.
-Dies gilt auch für die Aufhebung dieser Schriftformklausel selbst.
-Muendliche Nebenabreden bestehen nicht.
-```
-
-**Hinweis:** Der BGH hat in mehreren Entscheidungen klargestellt, dass eine doppelte Schriftformklausel in AGB die mittels Individualabrede vorgenommene Änderung nicht ausschliessen kann. Vor Verwendung im B2C aktuelle BGH-Rspr. prüfen.
-
-### Klausel 3: Gerichtsstandsvereinbarung (§ 38 ZPO)
-
-**Voraussetzung:** Beide Parteien Kaufleute, juristische Personen des öffentlichen Rechts oder öffentlich-rechtliche Sondervermoegen (§ 38 Abs. 1 ZPO), oder Auslandsbezug. Im B2C unzulaessig (§ 38 Abs. 2, Abs. 3 ZPO).
-
-**Mustertext (B2B):**
-
-```
-Ausschliesslicher Gerichtsstand für alle Streitigkeiten aus diesem Vertrag
-ist Berlin.
-```
-
-### Klausel 4: Rechtswahl (Rom-I-VO)
-
-**Voraussetzung:** Vertragliches Schuldverhaeltnis. Art. 3 Rom-I-VO erlaubt Rechtswahl. Verbraucherschutz nach Art. 6 Rom-I-VO bleibt unberuehrt.
-
-**Mustertext:**
-
-```
-Dieser Vertrag unterliegt deutschem Recht unter Ausschluss des UN-Kaufrechts
-(CISG) und des deutschen internationalen Privatrechts.
-```
-
-### Klausel 5: Erfuellungsort
-
-**Voraussetzung:** Modifikation des § 269 BGB (Wohnsitz des Schuldners).
-
-**Mustertext:**
-
-```
-Erfuellungsort für Lieferung und Zahlung ist der Sitz des Lieferanten.
-```
-
-### Klausel 6: Bekanntmachungs- bzw. Mitteilungsklausel
-
-**Voraussetzung:** Empfangszuständigkeit, Form der Erklaerung.
-
-**Mustertext:**
-
-```
-Mitteilungen unter diesem Vertrag bedurften der Textform (§ 126b BGB). Sie
-gelten als zugegangen, wenn sie an die im Rubrum angegebene Anschrift
-gerichtet sind und in den Macht-bereich des Empfaengers gelangen.
-```
-
-### Klausel 7: Uebertragungsverbot (§ 399 BGB)
-
-**Voraussetzung:** Vertragliches Abtretungsverbot. Wirksamkeit bei B2B nach § 354a HGB beschraenkt (Geldforderungen aus beiderseitigem Handelsgeschaeft bleiben abtretbar).
-
-**Mustertext:**
-
-```
-Rechte und Pflichten aus diesem Vertrag duerfen nur mit vorheriger
-schriftlicher Zustimmung der jeweils anderen Partei uebertragen oder
-abgetreten werden. § 354a HGB bleibt unberuehrt.
-```
-
-### Klausel 8: Gesamtnichtigkeitsausschluss (zusammen mit Salvatorischer Klausel)
-
-Faellt unter Klausel 1 (Salvatorische).
-
-## Typische Drafting-Fehler
-
-- **Salvatorische Klausel als Allzweckwaffe.** Sie heilt nicht jede Klausellucke und kehrt nicht die Darlegungslast um.
-- **Doppelte Schriftform im B2C.** Vorsicht. Im AGB-Verhältnis schwer wirksam zu halten.
-- **Gerichtsstand mit Verbraucher.** Unzulaessig nach § 38 Abs. 2, Abs. 3 ZPO.
-- **Rechtswahl ohne CISG-Ausschluss.** Bei internationalem Warenkauf gilt CISG automatisch, falls nicht ausgeschlossen.
-- **Mitteilungsklausel ohne Empfangsadresse.** Macht keine Zustellung prüfbar.
-- **Abtretungsverbot ohne § 354a HGB.** Bei Geldforderungen aus Handelsgeschaeft unwirksam.
-
-## Beispiel
-
-**Boilerplate-Block (B2B-Lieferantenvertrag):**
-
-```
-§ 12 Salvatorische Klausel
-[Text wie oben]
-
-§ 13 Schriftform
-[Text wie oben]
-
-§ 14 Gerichtsstand und Rechtswahl
-(1) Ausschliesslicher Gerichtsstand ist Berlin.
-(2) Dieser Vertrag unterliegt deutschem Recht unter Ausschluss des UN-Kaufrechts.
-
-§ 15 Erfuellungsort
-Erfuellungsort für Lieferung und Zahlung ist der Sitz des Lieferanten.
-
-§ 16 Abtretung
-[Text wie oben]
-```
-
-## Quellen (Stand 05/2026)
-
-- § 139 BGB, § 126 BGB, § 127 BGB, § 269 BGB, § 399 BGB, § 354a HGB. gesetze-im-internet.de.
-- § 38 ZPO; Rom-I-VO (Verordnung (EG) Nr. 593/2008). eur-lex.europa.eu.
-- BGH-Rspr. zu salvatorischer Klausel und doppelter Schriftformklausel: vom Nutzer mit konkretem Aktenzeichen über bundesgerichtshof.de zu verifizieren.
+## Arbeitsworkflow
+1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
+2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
+3. **Materielle Weichen:** Die Kernfragen zu **Bilinguales Legal Writing für deutsche Anwälte** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
+4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
+5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `cowork-cloud-kollaboration-drafting`
+## Skill: `klageerwiderung-substantiiertes-bestreiten`
 
-_Mandantengeheimnis-konformes Drafting in der Cloud (Claude Cowork; Office 365; Google Workspace). Rechtlicher Rahmen § 43a Abs. 2 BRAO; § 203 StGB; § 26 BORA und Art. 28 DSGVO. Auftragsverarbeitungsvertrag ist Voraussetzung. Sensible Daten: Mandantenname; Aktenzeichen; Sachverhalt. Pseudonymisier..._
+_Wenn es um Klageerwiderung und substantiiertes Bestreiten in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Cowork und Cloud-Kollaboration im Drafting
-
-## Arbeitsbereich
-
-Mandantengeheimnis-konformes Drafting in der Cloud (Claude Cowork; Office 365; Google Workspace). Rechtlicher Rahmen § 43a Abs. 2 BRAO; § 203 StGB; § 26 BORA und Art. 28 DSGVO. Auftragsverarbeitungsvertrag ist Voraussetzung. Sensible Daten: Mandantenname; Aktenzeichen; Sachverhalt. Pseudonymisierung im Entwurf; Mandantendaten erst in finaler Fassung. Versionierung. Zwei-Faktor-Authentifizierung. Mit Pitfall-Liste zu WhatsApp; E-Mail und Cloud ohne Auftragsverarbeitungsvertrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+# Klageerwiderung und substantiiertes Bestreiten
 
 ## Arbeitsweg
 
@@ -1141,298 +391,123 @@ Mandantengeheimnis-konformes Drafting in der Cloud (Claude Cowork; Office 365; G
 
 ## Eingaben
 
-- Genutzte Cloud-Tools in Ihrer Kanzlei
-- Bestehende Auftragsverarbeitungsverträge mit den Anbietern
-- Mandatscharakter (Standardmandat, Hochrisiko, internationale Beteiligung)
-- Geräteumfeld (kanzleieigene Geräte, BYOD, Remote)
-- Verteilungskreis (interne Co-Drafter, externe Kolleginnen, Mandant)
+- Klageschrift (Antrag, Begründung, Anlagen)
+- Beklagtenmandat und dessen Sicht des Sachverhalts
+- Frist nach § 277 ZPO (Klageerwiderungsfrist nach gerichtlicher Anordnung)
+- Eigene Beweismittel (Urkunden, Zeugen, Sachverständige)
+- Gegenforderungen (für Aufrechnung oder Hilfsantrag)
+- Risiko-Einschätzung des Mandanten
 
 ## Rechtlicher und methodischer Rahmen
 
-- § 43a Abs. 2 BRAO: Verschwiegenheitspflicht der Anwältin und des Anwalts.
-- § 203 Abs. 1 Nr. 3 StGB: Strafbarkeit der Verletzung von Privatgeheimnissen.
-- § 203 Abs. 3 und Abs. 4 StGB: Mitwirkende Personen und externe Dienstleister; Voraussetzungen der zulässigen Einbindung.
-- § 26 BORA: Sorgfalt bei Mitarbeitern sowie Dritten.
-- Art. 5 DSGVO: Grundsätze (Rechtmäßigkeit, Zweckbindung, Datenminimierung, Integrität und Vertraulichkeit).
-- Art. 28 DSGVO: Auftragsverarbeitung; schriftlicher Vertrag mit allen Pflichtinhalten erforderlich.
-- Art. 32 DSGVO: Sicherheit der Verarbeitung (Pseudonymisierung; Verschlüsselung; Belastbarkeit; Wiederherstellbarkeit; regelmäßige Überprüfung).
-- Art. 44 ff. DSGVO: Drittlandübermittlungen; insbesondere Schrems-II-Risiken bei US-Anbietern.
-- BSI-Grundschutz und Empfehlungen der Bundesrechtsanwaltskammer zur Nutzung von Cloud-Diensten in Kanzleien.
+- § 138 Abs. 1 ZPO: Wahrheitspflicht. Erklärung über tatsächliche Umstände vollständig und wahrheitsgemäß.
+- § 138 Abs. 2 ZPO: Erklärungspflicht zu jeder vom Gegner behaupteten Tatsache.
+- § 138 Abs. 3 ZPO: Nicht ausdrücklich bestrittene Tatsachen gelten als zugestanden.
+- § 138 Abs. 4 ZPO: Erklärung mit Nichtwissen nur zulässig, soweit die Tatsachen weder eigene Handlungen der Partei noch Gegenstand eigener Wahrnehmung sind.
+- § 277 ZPO: Klageerwiderungsfrist; Verspätung kann zur Präklusion nach §§ 296, 296a ZPO führen.
+- § 33 ZPO: Widerklage am Gerichtsstand der Klage.
+- § 145 Abs. 3 ZPO: Hilfsaufrechnung; Höhe muss bestimmt sein.
+- §§ 273, 320, 348, 1000 BGB: Materielle Grundlagen für Zurückbehaltungsrechte.
+- Beweislast: Anspruchsteller trägt für die anspruchsbegründenden Tatsachen, Beklagter für rechtshindernde, rechtsvernichtende und rechtshemmende.
+- Methodik: Urteilsstil. Bestreiten muss klar formuliert sein.
 
 ## Ablauf / Checkliste
 
-1. **Vor Tool-Nutzung: Auftragsverarbeitungsvertrag prüfen.** Liegt ein schriftlicher Auftragsverarbeitungsvertrag nach Art. 28 DSGVO vor? Sonst keine Mandantendaten in dieses Tool.
-2. **Datenklassifikation klären.** Welche Information ist sensibel? Mandantenname, Aktenzeichen, Sachverhalt, Gegenseite. Auch eine harmlos wirkende Mandatsbezeichnung kann den Identifizierungskreis offenbaren.
-3. **Pseudonymisierung im Drafting-Prozess.** Während der Konzept- und Klauselarbeit: "Mandant", "Mandantin", "Gegenseite", "Anlage 1" statt Klarnamen. Konkrete Beträge ggf. durch Platzhalter ersetzen.
-4. **Erst in finaler Fassung die Klarnamen einsetzen.** Vorher Mandantendaten in einer geschützten Umgebung halten (lokal oder in einer kanzleieigenen, klassifizierten Cloud).
-5. **Versionsführung mit klaren Stempeln.** v0 lokal, v1 Cloud-Entwurf pseudonymisiert, v2 mit Mandantendaten in geschützter Umgebung, v-final unterschriftsreif.
-6. **Zwei-Faktor-Authentifizierung verbindlich.** Für alle Cloud-Dienste; ohne Ausnahme.
-7. **Geräte- und Pfadhygiene.** Keine Mandantendaten auf privaten Cloud-Speichern, nicht in privaten Mail-Konten, nicht auf privaten Handys ohne Mobile Device Management.
-8. **Berechtigungskonzept Cowork-Räume.** Nur die Personen mit Zugang, die Zugang brauchen. Externe Drafter aus dem Cowork-Raum entfernen, sobald ihre Phase endet.
-9. **Logging und Audit.** Aktivitätsprotokolle aktivieren; bei Bedarf Audit prüfen.
-10. **Notfallplan.** Was ist zu tun bei Datenleck (Art. 33, 34 DSGVO Meldepflichten innerhalb von 72 Stunden)?
+1. **Klageschrift segmentieren.** Jeder Tatsachenvortrag bekommt eine Nummer. Jeder Nummer ein Status: zugestanden, einfach bestritten, substantiiert bestritten, mit Nichtwissen erklärt.
+2. **Bestreitenshöhe wählen.** Substantiiert bestreiten, wo eigene Wahrnehmung oder eigenes Handeln möglich ist. Einfach bestreiten nur, wo § 138 Abs. 4 ZPO greift.
+3. **Beweislastrolle prüfen.** Bei rechtshindernden, rechtsvernichtenden, rechtshemmenden Tatsachen liegt die Last bei der Beklagtenseite. Diese müssen voll substantiiert behauptet werden.
+4. **Antrag formulieren.** Hauptantrag: Klageabweisung. Hilfsantrag nur bei Aufrechnung mit Gegenforderung oder Zurückbehaltungsrecht.
+5. **Sachverhalt darstellen.** Eigene Version der Geschehnisse. Streitig dargestellte Tatsachen mit Beweisangebot belegen.
+6. **Rechtliche Würdigung.** Anspruch verneinen oder einwendungsweise einschränken. Klare Subsumtion ohne Lehrbuchprosa.
+7. **Aufrechnung dosieren.** Hilfsweise Aufrechnung erst nach Begründung des Hauptverteidigungsgrunds. Aufrechnungshöhe konkret beziffern.
+8. **Beweisangebote setzen.** Hinter jeder eigenen Tatsachenbehauptung. Keine Pauschalbeweise.
+9. **Anlagenverzeichnis B1 ff.** Fortlaufend nummerieren.
 
-### Sensitivitäts-Matrix
+### Bestreitens-Architektur Tabelle
 
-| Datenkategorie | Sensitivität | Maßnahme |
-|---|---|---|
-| Mandantenname | hoch | Pseudonym im Entwurf |
-| Aktenzeichen | hoch | nur in geschützter Umgebung |
-| Sachverhalt mit personenbeziehbaren Daten | hoch | Pseudonym; finale Fassung lokal |
-| Klauselrohling ohne Bezug | niedrig | unbedenklich in Cloud |
-| Vergleichsbetrag | mittel | Platzhalter im Entwurf |
-| Strafrechtliche Vorwürfe | sehr hoch | nur Onpremise oder klassifizierte Cloud |
-| Gesundheitsdaten (Art. 9 DSGVO) | sehr hoch | nur Onpremise oder klassifizierte Cloud |
-
-### Pseudonymisierungs-Konventionen
-
-```
-Mandant -> "Mandant" oder "M"
-Gegenseite -> "Gegenseite" oder "G"
-Aktenzeichen -> "AZ-001"
-Datum konkret -> "TT.MM.JJJJ" als Platzhalter
-Betrag konkret -> "[Betrag]" oder "X Euro"
-Adressen -> "Anschrift M" / "Anschrift G"
-```
+| Klagebehauptung | Eigene Wahrnehmung möglich? | Bestreitenshöhe | Beispiel |
+|---|---|---|---|
+| Liefertermin | Ja | Substantiiert | "Die Lieferung erfolgte am 5. Februar, nicht am 1. Februar. Beweis: Lieferschein, Anlage B1" |
+| Inhalt einer Telefonkonferenz mit Dritten | Nein | Mit Nichtwissen § 138 Abs. 4 ZPO | "Die behauptete Telefonkonferenz wird mit Nichtwissen bestritten." |
+| Höhe einer Marktpreisangabe | Ggf. ja | Substantiiert mit Gegenbehauptung | "Der Marktpreis lag bei höchstens 18.000 Euro. Beweis: Sachverständigengutachten" |
+| Ein interner Vorgang bei der Klägerseite | Nein | Mit Nichtwissen | "Die internen Vorgänge auf Klägerseite werden mit Nichtwissen bestritten." |
 
 ## Typische Drafting-Fehler
 
-- **WhatsApp, private E-Mail, Privat-Cloud.** Mandantendaten ohne Auftragsverarbeitungsvertrag und ohne Verschlüsselung sind ein Bruch von § 203 StGB.
-- **Cloud-Anbieter ohne Auftragsverarbeitungsvertrag.** Selbst kostenlose Tools verarbeiten Daten; ohne Auftragsverarbeitungsvertrag tabu.
-- **Klarnamen im Cowork-Raum von Anfang an.** Auch wenn der Anbieter geprüft ist, gehört das in die geschützte Umgebung.
-- **Versionsdurcheinander.** Ohne klare Versionsstempel werden Entwürfe mit Klarnamen versehentlich extern geteilt.
-- **Externe Drafter behalten Zugriff.** Nach Projektende vergessene Berechtigungen sind ein klassischer Fehler.
-- **Keine Zwei-Faktor-Authentifizierung.** Passwort allein ist 2026 kein Schutz mehr.
-- **Drittlandübermittlung übersehen.** Bei US-Cloud-Anbietern Schrems-II-Aspekte und Standardvertragsklauseln prüfen.
-- **Bring-your-own-Device ohne Mobile Device Management.** Mandantendaten auf privaten Geräten ohne kontrollierten Trennungslogik.
+- **Pauschales Bestreiten.** "Es wird alles bestritten" verstößt gegen § 138 ZPO und kann zur Geständnisfiktion führen.
+- **Fehlende Substanz bei eigener Behauptung.** Wer behauptet, muss vortragen und beweisen. "Es war anders" reicht nicht.
+- **Hilfsaufrechnung ohne Höhe.** Die Gegenforderung muss nach Grund und Höhe bestimmt sein.
+- **Nichtwissen-Erklärung trotz eigener Wahrnehmung.** § 138 Abs. 4 ZPO gilt nicht für eigene Vorgänge.
+- **Reihenfolgefehler.** Aufrechnung vor Verteidigung. Erst gewinnen wollen, dann hilfsweise rechnen.
+- **Präklusion durch Fristversäumnis.** § 296 ZPO greift hart. Frist beachten.
 
 ## Beispiele
 
-### Beispiel Cowork-Konzept für Vertragsdraft
+### Mustertext Klageerwiderung (Auszug)
 
 ```
-Phase 1 (Konzept):
-- Klauselbausteine in Cowork, vollständig pseudonymisiert.
-- Mandant = "M", Gegenseite = "G", Beträge = "[Betrag]".
+Landgericht Berlin Berlin, den 5. Juni 2026
+Az.: 12 O 345/26
 
-Phase 2 (Erstentwurf):
-- Pseudonymisierter Entwurf in Cowork.
-- Verweislogik und Versionen vor Versand bewusst kontrollieren.
+ Klageerwiderung
 
-Phase 3 (Mandantenfreigabe):
-- Übernahme in lokale Word-Umgebung der Kanzlei.
-- Klarnamen einsetzen, mit Mandant abstimmen.
+In dem Rechtsstreit Anna Muster gegen Beklagt GmbH
 
-Phase 4 (Versand an Gegenseite):
-- Versand aus klassifizierter Kanzleiumgebung über beA, AnwaltsCloud oder verschlüsselte E-Mail.
-- Metadaten vor Versand entfernen.
+zeigen wir namens und in Vollmacht der Beklagten an, dass wir sie
+vertreten. Wir werden beantragen:
+
+Die Klage wird abgewiesen.
+
+Hilfsweise: Die Klägerin wird verurteilt, an die Beklagte 4.000 Euro zu
+zahlen Zug um Zug gegen Rücknahme der Maschinen Typ A-100.
+
+ Begründung
+
+I. Sachverhalt
+
+1. Der Abschluss des Kaufvertrags vom 15. Januar 2026 (Klageschrift S. 2)
+wird zugestanden.
+
+2. Die behauptete Lieferung am 1. Februar 2026 wird bestritten.
+Die Lieferung erfolgte erst am 5. Februar 2026.
+Beweis: Lieferschein vom 5. Februar 2026, Anlage B1.
+
+3. Es wird bestritten, dass die gelieferten Maschinen mangelfrei waren.
+Drei der zehn Maschinen wiesen bereits bei Lieferung Korrosion am Antrieb
+auf. Die Klägerin wurde am 8. Februar 2026 schriftlich gerügt.
+Beweis: Mängelanzeige vom 8. Februar 2026, Anlage B2.
+
+4. Die internen Vorgänge auf Klägerseite zur Kaufpreisberechnung werden
+mit Nichtwissen bestritten (§ 138 Abs. 4 ZPO).
+
+II. Rechtliche Würdigung
+
+Der Kaufpreisanspruch nach § 433 Abs. 2 BGB ist nicht fällig, weil die
+Beklagte ein Zurückbehaltungsrecht aus § 320 BGB hat. Die Mangelhaftigkeit
+dreier Maschinen begründet Nacherfüllungsanspruch nach § 437 Nr. 1, § 439
+BGB. Die Beklagte hat ihrerseits Rückzahlung des bezahlten Anteils zu
+fordern (Anlage B2).
+
+Anlagenverzeichnis:
+B1 Lieferschein vom 5. Februar 2026
+B2 Mängelanzeige vom 8. Februar 2026
+
+Marta Verteidiger
+Rechtsanwalt
 ```
-
-### Beispiel Verstoss-Szenario
-
-Ein Anwalt schickt einen NDA-Entwurf für einen prominenten Mandanten über sein privates Gmail-Konto an einen externen Steuerberater. Folge: Verstoß gegen § 203 StGB (kein zulässiges Outsourcing nach § 203 Abs. 3 StGB), § 43a BRAO und Art. 32 DSGVO. Strafrechtliches Risiko, berufsrechtliche Maßnahme, Meldepflicht nach Art. 33, 34 DSGVO.
 
 ## Quellen (Stand 05/2026)
 
-- § 43a Abs. 2 BRAO; § 203 Abs. 1 Nr. 3, Abs. 3 und Abs. 4 StGB; § 26 BORA; gesetze-im-internet.de und brak.de.
-- Art. 5, 28, 32, 33, 34, 44 ff. DSGVO; dsgvo-gesetz.de.
-- Empfehlungen der Bundesrechtsanwaltskammer zur Cloud-Nutzung: vom Nutzer zu prüfen, brak.de.
-- Schrems-II-Urteil EuGH und Folgepraxis: vom Nutzer zu verifizieren (EuGH, Urt. v. 16. Juli 2020, Rs. C-311/18).
+- §§ 138, 145 Abs. 3, 277, 296 ZPO; gesetze-im-internet.de.
+- §§ 320, 273, 387 ff. BGB für Zurückbehaltung und Aufrechnung.
+- BGH-Rechtsprechung zum substantiierten Bestreiten und zur sekundären Darlegungslast: vom Nutzer zu verifizieren. Keine Aktenzeichen aus Modellwissen.
 - `references/zitierweise.md` für Belegpflicht.
-
----
-
-## Skill: `definitionen-klauseln-stringent`
-
-_Defined Terms in Vertraegen sauber bauen. Hierarchie und Konsistenz: einmal definieren, im gesamten Dokument einheitlich verwenden, mit Grossschreibung sichtbar machen. Trennung zwischen zentralem Definitionen-Abschnitt (alphabetisch) und Inline-Definitionen ('im Folgenden Vertrag'). Mit Beispiel..._
-
-# Definitionen-Klauseln stringent
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
-- Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Eingaben
-
-- Vertragsentwurf oder Term Sheet
-- Liste der zu definierenden Begriffe (oder Auftrag, sie zu identifizieren)
-- Position im Vertrag: zentraler Abschnitt vs. Inline
-
-## Rechtlicher und methodischer Rahmen
-
-- § 305c Abs. 2 BGB: Unklarheitenregel zulasten des Verwenders. Inkonsistente Begriffe gehen zulasten des AGB-Verwenders.
-- § 307 Abs. 1 Satz 2 BGB: Transparenzgebot. Defined Terms müssen klar verstaendlich definiert sein.
-- §§ 133, 157 BGB: Vertragsauslegung. Defined Terms binden die Auslegung.
-- Konvention: Defined Terms grossschreiben oder kursiv setzen, damit sie im Text sichtbar sind.
-
-## Ablauf / Checkliste
-
-1. **Begriffe identifizieren.** Welche Konzepte tauchen mehr als einmal auf? Welche tragen Rechtsfolgen?
-2. **Zentral oder inline?** Faustregel: mehr als zehn Begriffe oder Verwendung in mehreren Klauseln, dann zentraler Definitionen-Abschnitt.
-3. **Definitionsstruktur waehlen.** Alphabetisch (Default) oder thematisch (bei sehr großen Vertraegen).
-4. **Defined Term auszeichnen.** Grossschreibung des Anfangs ("Vertrag", "Vertragspartei", "Closing", "Long Stop Date") oder kursiv ("Vertrag").
-5. **Definition formulieren.** Knapp, eindeutig, ohne andere Defined Terms zu verschachteln, wo unnoetig.
-6. **Konsistenzpruefung durchfuehren.** Volltextsuche, jeder Defined Term im Dokument identisch geschrieben.
-7. **Anti-Pattern checken.** Siehe unten.
-
-### Beispielklauseln
-
-**Zentraler Definitionen-Abschnitt:**
-
-```
-§ 1 Definitionen
-
-In diesem Vertrag haben die folgenden Begriffe die nachstehende Bedeutung:
-
-"Anlage" bezeichnet jede mit diesem Vertrag verbundene Anlage gemaess Anlagenverzeichnis.
-
-"Bestellt" bezeichnet die Bestellung der Ware durch den Besteller gemaess § 3.
-
-"Besteller" bezeichnet die [Besteller AG, Anschrift, HRB ...], die Partei dieses Vertrages ist.
-
-"Closing" bezeichnet den Vollzug dieses Vertrages gemaess § 8.
-
-"Lieferant" bezeichnet die [Lieferant GmbH, Anschrift, HRB ...], die Partei dieses Vertrages ist.
-
-"Parteien" bezeichnet den Besteller und den Lieferanten gemeinsam; "Partei" bezeichnet jede der beiden.
-
-"Vertrag" bezeichnet diese Vereinbarung einschliesslich aller Anlagen.
-
-"Vertraulichkeitszeitraum" bezeichnet den in § 7 Abs. 3 definierten Zeitraum.
-```
-
-**Inline-Definition (Kurzvertrag):**
-
-```
-Zwischen der A-GmbH, Musterstrasse 1, 10115 Berlin (im Folgenden "Lieferant"),
-und der B-AG, Beispielstrasse 2, 20095 Hamburg (im Folgenden "Besteller"),
-wird folgender Liefervertrag (im Folgenden "Vertrag") geschlossen.
-```
-
-### Konsistenzpruefung
-
-| Schritt | Suche | Erwartet |
-|---|---|---|
-| 1 | "Vertragspartei" | nicht vorhanden, wenn "Partei" definiert ist |
-| 2 | "Vereinbarung" | nicht vorhanden im operativen Text, wenn "Vertrag" definiert ist |
-| 3 | "vorliegender Kontrakt" | streichen |
-| 4 | "Liefergegenstand" und "Ware" | nur einer als Defined Term zulässig |
-| 5 | "Besteller" und "Auftraggeber" | nur einer |
-
-### Anti-Pattern
-
-- **Verschachtelte Definitionen.** "Vertrag bezeichnet diese Vereinbarung einschliesslich aller Anlagen, soweit nichts anderes bestimmt ist." Streichen Sie den Soweit-Zusatz oder definieren Sie ihn explizit.
-- **Definitionsdoppel.** "Lieferant" im Vorspann und nochmal in § 1.
-- **Wechselnde Schreibweise.** "Closing" und "closing" sind unterschiedliche Begriffe in der Volltextsuche.
-- **Zirkulaere Definitionen.** "Lieferung" bezeichnet die Lieferung der Ware. Streichen oder funktional definieren.
-- **Ungenutzte Defined Terms.** Wer definiert, soll auch verwenden. Sonst streichen.
-
-## Typische Drafting-Fehler
-
-- Zentrale Definitionen ohne Auszeichnung. Defined Terms verschwinden im Fliesstext.
-- Falsche Reihenfolge. Begriffe werden verwendet, bevor sie definiert sind. Loesung: vorne definieren oder Defined Term mit Verweis "(siehe § 12)" einfuehren.
-- Klein- statt Grossschreibung im Defined Term. "Vertrag" und "vertrag" sind nicht dasselbe.
-- Definitionen, die selbst Rechtsfolgen anordnen. Definitionen definieren, sie regeln nicht. "Lieferzeit bezeichnet vier Wochen; bei Verzug schuldet der Lieferant Schadensersatz." Die Schadensersatzregelung gehoert in die operative Klausel.
-- Defined Terms in der Praeambel. Praeambel ist Kontext, nicht Regelung.
-
-## Beispiel
-
-**Aufgabe:** "Bauen Sie aus folgendem Term Sheet einen Definitionen-Abschnitt: Lieferant ist eine GmbH, Besteller eine AG, Liefergegenstand sind Industrieventile, Closing erfolgt am Long Stop Date oder später, Anlage 1 enthaelt die technische Spezifikation."
-
-**Loesung:**
-
-```
-§ 1 Definitionen
-
-"Anlage 1" bezeichnet die technische Spezifikation des Liefergegenstandes.
-
-"Besteller" bezeichnet die [Besteller AG, Anschrift, HRB ...].
-
-"Closing" bezeichnet den Vollzug dieses Vertrages gemaess § 8.
-
-"Liefergegenstand" bezeichnet die in Anlage 1 spezifizierten Industrieventile.
-
-"Lieferant" bezeichnet die [Lieferant GmbH, Anschrift, HRB ...].
-
-"Long Stop Date" bezeichnet den 31. Dezember 2026.
-
-"Parteien" bezeichnet den Besteller und den Lieferanten gemeinsam.
-
-"Vertrag" bezeichnet diese Vereinbarung einschliesslich aller Anlagen.
-```
-
-## Quellen (Stand 05/2026)
-
-- § 305c Abs. 2 BGB, § 307 Abs. 1 Satz 2 BGB, §§ 133, 157 BGB. gesetze-im-internet.de.
-- Konvention zur Defined-Terms-Auszeichnung folgt internationaler M&A-Praxis und ist in deutscher Wirtschaftsvertragsgestaltung etabliert. Konkretes Hauskonvention je Kanzlei prüfen.
-
----
-
-## Skill: `deutscher-kanzleistil-kalibrieren`
-
-_Kalibriert juristische Texte auf den passenden deutschen Kanzleistil: Frankfurter Großkanzlei, Boutique, Kleinkanzlei, Inhouse, Gericht oder Behörde. Erstellt ein Stilprofil mit Ton, Satzlänge, Gliederung, Anrede, Risikoniveau, Schärfegrad und No-Go-Formulierungen und überarbeitet Beispielpassage..._
-
-# Deutscher Kanzleistil Kalibrieren
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
-- Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Stilprofile
-
-| Profil | Wo es passt | Ton | Struktur |
-|---|---|---|---|
-| Großkanzlei Corporate | Deal, SPA, Term Sheet, Board Memo | knapp, belastbar, entscheidungsorientiert | Executive Summary, Issue List, Options, Recommendation |
-| Prozess-Boutique | Schriftsatz, Strategiepapier, Terminvorbereitung | präzise, scharf, aber sachlich | These, Beleg, Beweis, Angriffspunkt |
-| Kleinkanzlei Mandat | Mandantenbrief, Vergleich, außergerichtliches Schreiben | menschlich, klar, führend | Sachstand, Einschätzung, Empfehlung, nächste Schritte |
-| Inhouse Legal | Management-Memo, Freigabevorlage | lösungsorientiert, risikobasiert | Ampel, Entscheidungspunkt, Budget, Owner |
-| Behörde/Gericht | Antrag, Stellungnahme, Schriftsatz | nüchtern, beweisbar, ohne Theater | Antrag, Sachverhalt, Rechtliches, Beweisangebot |
-| US/UK-Korrespondenz | Cross-Border Deal, Local Counsel Note | international höflich, nicht übersetzt klingend | Background, German law position, practical consequence |
-
-## Ablauf
-
-1. Bestimme Adressat und Entscheidungssituation.
-2. Wähle ein Profil aus der Tabelle oder kombiniere zwei Profile.
-3. Lege den Schärfegrad fest: deeskalierend, neutral, bestimmt, hart, prozessual.
-4. Lege die Tiefe fest: One-pager, Kurzvermerk, Memo, Schriftsatz, Vertragsfassung.
-5. Überarbeite den Text auf Satzlänge, Gliederung, Wortwahl und Ergebnisführung.
-6. Gib am Ende ein Stilprofil aus, damit Folge-Skills im gleichen Register weiterarbeiten.
-
-## Stilprofil-Ausgabe
-
-```text
-Stilprofil:
-- Profil: Großkanzlei Corporate
-- Adressat: Partnerin und Mandant
-- Ton: knapp, entscheidungsorientiert, ohne Floskeln
-- Schärfegrad: neutral-bestimmt
-- Satzlänge: kurz bis mittel
-- Ergebnisführung: Empfehlung in den ersten fünf Zeilen
-- No-Gos: Gutachtenstil, lange historische Herleitung, "dürfte", "wohl" ohne Risikobegründung
-```
-
-## Typische No-Gos
-
-- Großkanzlei: keine langen Lehrbuchpassagen, keine ungeordnete Normensammlung.
-- Boutique: keine aggressive Rhetorik ohne Beleg.
-- Kleinkanzlei: keine überhebliche Belehrung des Mandanten.
-- Inhouse: keine Empfehlung ohne Entscheidungspunkt.
-- Gericht: keine Pointe, kein Marketington, keine unnötigen Adjektive.
-- US/UK: keine wörtliche Übersetzung deutscher Schachtelsätze.
 
 ---
 
 ## Skill: `dokumentarchitektur-vertrag-englischer`
 
-_Dokumentarchitektur juristischer Texte sauber bauen. Vertrag mit Rubrum/Parteien, Praeambel, Definitionen, Hauptleistungspflichten, Nebenpflichten, Bedingungen, Beendigung, Boilerplate, Anlagen. Schriftsatz nach § 253 Abs. 2 ZPO mit Rubrum, Antraegen, Sachverhalt, rechtlicher Wuerdigung, Beweisan..._
+_Wenn es um Dokumentarchitektur: Vertrag und Schriftsatz in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
 # Dokumentarchitektur: Vertrag und Schriftsatz
 
@@ -1568,103 +643,9 @@ Anlage 3: Lieferplan
 
 ---
 
-## Skill: `englischer-vertrag-deutsches-recht`
-
-_Draftet oder prüft englischsprachige Verträge mit deutschem Recht als anwendbarem Recht. Verhindert ungewollten Import von Common-Law-Konzepten, klärt governing language, German-law concepts, Gewährleistung, Garantie, Haftung, Indemnity, Vertragsstrafe, Schriftform, Gerichtsstand und Anlagenlogik..._
-
-# Englischer Vertrag nach Deutschem Recht
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
-- Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Kernfragen
-
-1. Ist der Vertrag vollständig auf Englisch oder bilingual?
-2. Gilt deutsches Recht wirklich?
-3. Soll ein deutsches Gericht, ein Schiedsgericht oder ein ausländisches Forum entscheiden?
-4. Sind Begriffe wie indemnity, warranty, representation, best efforts, liquidated damages und penalty funktional definiert?
-5. Gibt es deutsche AGB-Kontrolle?
-6. Ist die Vertragssprache zugleich Verhandlungssprache oder nur Mandantenkomfort?
-
-## Begriffskontrolle
-
-| Begriff | Risiko bei deutschem Recht | Empfehlung |
-|---|---|---|
-| representation | kann als Garantie oder Wissenserklärung missverstanden werden | definieren, ob selbstständige Garantie gemeint ist |
-| warranty | nicht schlicht Gewährleistung | bei deutschem Recht als contractual guarantee oder Beschaffenheitsvereinbarung strukturieren |
-| indemnity | weiter als Schadensersatz | als Freistellung mit Auslöser, Umfang und Verfahren formulieren |
-| best efforts | unklarer Maßstab | konkreten Handlungsmaßstab definieren |
-| liquidated damages | Nähe zu pauschaliertem Schadensersatz | AGB-Risiko und Gegenbeweisöffnung prüfen |
-| penalty | im Common Law kritisch, im deutschen Recht Vertragsstrafe möglich | bewusst als contractual penalty unter deutschem Recht formulieren |
-| entire agreement | kollidiert praktisch mit Individualabrede-Vorrang | § 305b BGB mitdenken |
-
-## Ablauf
-
-1. Governing Law und Forum prüfen.
-2. Sprach- und Auslegungsklausel festlegen.
-3. Deutsche Rechtsinstitute identifizieren.
-4. Common-Law-Begriffe entweder vermeiden oder definieren.
-5. Haftung, Freistellung, Gewährleistung und Garantien separat strukturieren.
-6. AGB-Risiko prüfen.
-7. Word- und Anlagenlogik prüfen.
-
----
-
-## Skill: `finaler-writing-quality-gate`
-
-_Finales Quality Gate für juristische Texte vor Versand. Prüft Rechtsfrage, Antrag oder Klauselzweck, Adressat, Stil, Zitate, Normen, Anlagen, Beweise, Fristen, Platzhalter, Zahlen, Namen, Datenschutz, Metadaten, Word-Hygiene und Versandfassung. Liefert Freigabeampel und letzte Reparaturliste im W..._
-
-# Finaler Writing Quality Gate
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
-- Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Ampelprüfung
-
-| Ampel | Bedeutung |
-|---|---|
-| Grün | sendefähig nach kleiner Schlusskontrolle |
-| Gelb | sendefähig nach konkreten Reparaturen |
-| Rot | nicht versenden; Risiko, Fehler oder Lücke zu groß |
-
-## Prüfungslinien
-
-1. **Zweck:** Ist klar, was der Text erreichen soll?
-2. **Adressat:** Passt Ton und Tiefe?
-3. **Rechtsanker:** Sind Normen, Klauseln und Begriffe korrekt und nötig?
-4. **Zitate:** Gibt es nur überprüfbare Rechtsprechung mit Gericht, Datum und Aktenzeichen?
-5. **Sachverhalt:** Stimmen Namen, Daten, Beträge, Fristen und Rollen?
-6. **Belege:** Stimmen Anlagenverweise und Beweisangebote?
-7. **Struktur:** Ergebnis vorne, keine Wiederholungen, sinnvolle Überschriften.
-8. **Sprache:** Keine Polemik, keine Platzhalter, keine leeren Floskeln.
-9. **Word:** Formatvorlagen, Nummerierung, Track Changes, Kommentare, Metadaten.
-10. **Versand:** richtige Fassung, richtiger Dateiname, richtige Anlagen.
-
-## Harte Stopper
-
-- Platzhalter im Text.
-- Unverifizierte Rechtsprechungsfundstelle.
-- Falscher Mandantenname oder falsche Parteirolle.
-- Unklare Frist.
-- Sichtbare interne Kommentare, wenn Clean Version versendet werden soll.
-- Widerspruch zwischen Antrag und Begründung.
-- Anlagenverweis auf nicht vorhandene Anlage.
-
----
-
 ## Skill: `force-majeure-geheimhaltung-nda`
 
-_Drafting und Abgrenzung von Force-Majeure-Klauseln und § 313 BGB (Wegfall der Geschäftsgrundlage). Strukturiert Definition höherer Gewalt, Anzeigepflicht, Suspendierung der Leistungspflicht und Kaskade bis zur Long-Stop-Kündigung. Klärt die Voraussetzungen des § 313 BGB (schwerwiegende Veränderun..._
+_Wenn es um Force Majeure und Paragraf 313 BGB (Wegfall der Geschäftsgrundlage) in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix._
 
 # Force Majeure und § 313 BGB (Wegfall der Geschäftsgrundlage)
 
@@ -1736,9 +717,719 @@ Mustertext (Force-Majeure-Klausel, B2B-Lieferrahmen):
 
 ---
 
+## Skill: `revisions-prozess-ueberarbeiten-richterlesbar`
+
+_Wenn es um Revisions-Prozess: Redlines und Compare-Workflow in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# Revisions-Prozess: Redlines und Compare-Workflow
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
+- Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Eingaben
+
+- Version 1 und Version 2 zum Vergleich
+- Adressat (Gegenseite, Mandant, internes Team)
+- Verteilungskanal (E-Mail mit verschlüsseltem Anhang, beA, Cowork, Datenraum)
+- Eigene Verhandlungsposition (Klägerseite, Beklagtenseite, Käuferseite, Verkäuferseite)
+- Stadium der Verhandlung (Erstentwurf, Zweite Runde, Endfassung)
+
+## Rechtlicher und methodischer Rahmen
+
+- § 43a BRAO und § 203 StGB: Vertraulichkeit. Markup-Dokumente enthalten häufig sensible Anmerkungen.
+- §§ 126, 126a, 126b BGB: Schriftform und Textform. Markup-Dokumente sind keine Unterschriftsdokumente.
+- § 130a ZPO und § 31a ERVV: elektronischer Rechtsverkehr; im Markup-Stadium nicht eingereichte Dokumente.
+- DSGVO Art. 32: Sicherheit der Verarbeitung; Markup-Versand verschlüsselt oder über zertifizierte Kanäle.
+- Methodik: Versionsnummern als Anker. Redline-Dokument ist Arbeitsmittel; Clean Version ist Bindungsdokument.
+
+## Ablauf / Checkliste
+
+1. **Versionsnummern vergeben.** Konvention: v0 (eigener Erstentwurf, intern), v1 (an Gegenseite), v2 (Rückkommen mit Markup), v3 (eigene Reaktion). Bei langen Verhandlungen weiter.
+2. **Eingehendes Markup prüfen.** Welcher Modus: Tracked Changes oder Compare-Doc-Redline? Wer war Bearbeiter (Autorenfeld lesen)?
+3. **Compare-Doc nutzen, wenn die Gegenseite eine Clean Version geschickt hat.** Word, Überprüfen, Vergleichen, Original und überarbeitetes Dokument wählen. Ergebnis: Redline mit allen Änderungen.
+4. **Tracked Changes prüfen.** Markup: Alle Markups anzeigen. Änderung für Änderung durchgehen, Annehmen oder Ablehnen.
+5. **Eigene Änderungen eintragen.** Tracked Changes aktiv lassen. Eigene Änderungen sind dann farblich kennzeichnet (mit Bearbeiternamen verknüpft).
+6. **Kommentare nur, wo erklärungsbedürftig.** Nicht jede Streichung kommentieren; nur die strategisch wichtigen oder die nicht selbsterklärenden.
+7. **Alte Kommentare löschen.** Vor Versand prüfen, ob frühere Kommentare aus internen Runden noch sichtbar sind.
+8. **Metadaten entfernen.** Datei, Informationen, Dokument prüfen. Autor, Bearbeitungszeit, persönliche Pfade.
+9. **Clean Version separat erstellen.** Tracked Changes alle akzeptieren in einer Kopie. Diese Clean Version ist der Unterschriftstext.
+10. **Begleit-E-Mail oder Schreiben.** Worauf bezieht sich die Version (v2)? Welche Änderungen sind nicht verhandelbar? Welche sind Vorschlag? Frist für Rückkommen.
+
+### Konvention für Redline-Darstellung
+
+| Element | Darstellung |
+|---|---|
+| Einfügungen | rot, unterstrichen |
+| Streichungen | rot, durchgestrichen |
+| Verschiebungen | grün (in moderner Word-Konfiguration) |
+| Formatänderungen | optional anzeigen |
+| Kommentare | rechter Seitenrand, mit Verfasserkürzel |
+
+### Versionsverlauf-Beispiel
+
+```
+v0 2026-05-15 intern Erstentwurf Kanzlei Stern
+v1 2026-05-20 Versand an Gegenseite (Clean)
+v2 2026-05-27 Eingang von Gegenseite (mit Tracked Changes)
+v3 2026-05-30 intern Bewertung und Gegenvorschlag in Tracked Changes
+v3a 2026-06-02 Versand an Gegenseite (Tracked Changes sichtbar)
+v4 2026-06-10 Eingang von Gegenseite (Reaktion)
+v5 2026-06-14 final Clean Version für Unterschrift
+```
+
+## Typische Drafting-Fehler
+
+- **Markup im falschen Modus weitergeleitet.** Tracked Changes aus, aber die Änderungen sind nicht akzeptiert. Folge: Empfänger sieht nicht, was geändert wurde.
+- **Alte Kommentare nicht gelöscht.** Interne Anmerkungen ("Mandant will hier hart bleiben") werden mit nach außen geschickt.
+- **Metadaten-Leak.** Dokumenteigenschaften zeigen Autor, Kanzleipfad oder vorherigen Mandantennamen.
+- **Versionsverwirrung.** Empfänger weiß nicht, welche Version die aktuelle ist. Ohne Versionsstempel im Dateinamen wird sofort chaotisch.
+- **Tracked Changes mit verschiedenen Bearbeiterprofilen.** Mehrere Drafter haben unterschiedlichen Markup-Farben; im finalen Schritt verwirrend.
+- **Compare-Doc verglichen mit falscher Version.** v3 mit v1 verglichen, dabei v2-Schritt übersprungen.
+- **Clean Version vergessen vor Unterzeichnung.** Vertrag wird mit eingeschalteten Tracked Changes unterschrieben. Bei späteren Streitigkeiten unklar, was Vertragstext ist.
+- **PDF-Konvertierung mit Markup.** PDF eingefrieren mit sichtbaren Tracked Changes; nicht aufhebbar.
+
+## Beispiele
+
+### Mustertext Begleitkommunikation Redline
+
+```
+Betreff: Liefervertrag XY-100 – v3 mit unserem Markup
+
+Sehr geehrte Frau Schmidt,
+
+anbei in Tracked Changes unsere Reaktion auf Ihre Version vom 20. Mai 2026
+(v2). Wir senden zwei Dateien:
+
+1. Liefervertrag_XY100_v3_2026-05-30_redline.docx mit unseren Änderungen
+ in roter Farbe; Tracked Changes sind eingeschaltet.
+
+2. Liefervertrag_XY100_v3_2026-05-30_clean.docx als Lesefassung.
+
+Die wichtigsten Punkte unserer Version v3:
+
+- § 7 Mängelhaftung: Die Verjährungsfrist von zwölf Monaten haben wir auf
+ 24 Monate erweitert (Verhandlungspriorität A).
+- § 11 Haftungsbegrenzung: Den Ausschluss für mittlere Fahrlässigkeit
+ haben wir gestrichen. Mit § 309 Nr. 7 BGB nicht vereinbar.
+- § 15 Gerichtsstand: Hamburg statt München. Verhandelbar.
+- § 20 Salvatorische Klausel: redaktionelle Anpassung.
+
+Wir erwarten Ihre Rückäußerung bis zum 13. Juni 2026.
+
+Mit freundlichen Grüßen
+Marta Stern
+Rechtsanwältin
+```
+
+### Beispiel-Checkliste vor Versand
+
+```
+[ ] Tracked Changes-Modus geprüft (an oder aus, je nach Empfänger)
+[ ] Alte Kommentare gelöscht
+[ ] Metadaten entfernt (Datei, Informationen, Dokument prüfen)
+[ ] Dateiname enthält Versionsnummer und Datum
+[ ] Clean Version als zweite Datei beigefügt (falls Vertrag)
+[ ] Begleit-E-Mail mit den drei bis fünf wichtigsten Änderungen
+[ ] Versand über sicheren Kanal (beA, Datenraum, verschlüsselte E-Mail)
+```
+
+## Quellen (Stand 05/2026)
+
+- § 43a BRAO; § 203 StGB; gesetze-im-internet.de.
+- §§ 126, 126a, 126b BGB für Form-Anforderungen an die Endfassung.
+- § 130a ZPO; § 31a ERVV für den elektronischen Rechtsverkehr ab Einreichung.
+- Art. 32 DSGVO für die Sicherheit der Verarbeitung beim Markup-Versand.
+- Microsoft-Dokumentation zu Vergleichen und Tracked Changes über support.microsoft.com.
+- `references/zitierweise.md` für Belegpflicht in den daraus erzeugten Dokumenten.
+
+---
+
+## Skill: `klage-drafting-mandantenmemo-partner`
+
+_Wenn es um Klage-Drafting nach Paragraf 253 ZPO in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Klage-Drafting nach § 253 ZPO
+
+## Arbeitsbereich
+
+Drafting einer Klageschrift nach § 253 Abs. 2 ZPO. Bestimmter Antrag plus Sachverhaltsdarstellung mit Rechtsschutzbegehren und Streitgegenstand. Aufbau: Rubrum (Parteien, Vertretung, Anschriften, Gericht), Anträge (Zahlung, Feststellung, Hilfsantrag), tatsächliches Vorbringen chronologisch oder thematisch, rechtliche Würdigung, Beweisangebote, Anlagenverzeichnis. Mit § 130 ZPO Schriftsatz-Anforderungen, Streitwertberechnung nach § 3 ZPO, Bestimmtheit der Anträge nach BGH-Rechtsprechung sowie Mustertext für Zahlungsklage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
+- Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Eingaben
+
+- Mandantenrolle (Klägerseite, Streitgenosse)
+- Anspruchsgrundlage und Anspruchshöhe oder Antragsziel
+- Sachverhalt in Stichpunkten oder Akten
+- Zuständiges Gericht (sachlich nach §§ 23, 71 GVG; örtlich nach §§ 12 ff. ZPO)
+- Gegenseite (Name, Anschrift, Vertretungsverhältnisse)
+- Vorhandene Beweismittel (Urkunden, Zeugen, Sachverständige)
+- Frist (Verjährung, Verfallklausel)
+
+## Rechtlicher und methodischer Rahmen
+
+- § 253 Abs. 2 ZPO: Bestimmter Antrag und bestimmte Angabe von Gegenstand und Grund.
+- § 253 Abs. 3 ZPO: Wert des Streitgegenstands soll angegeben werden, wenn der Anspruch nicht auf eine bestimmte Geldsumme gerichtet ist.
+- § 130 ZPO: Allgemeine Anforderungen an vorbereitende Schriftsätze (Parteien, Anträge, Tatsachen, Beweismittel, Urkunden, Unterschrift).
+- § 3 ZPO: Streitwertfestsetzung durch das Gericht nach freiem Ermessen.
+- §§ 23, 71 GVG: Sachliche Zuständigkeit AG bis 5000 Euro, sonst LG.
+- §§ 12 ff. ZPO: Örtliche Zuständigkeit.
+- §§ 78 ff. ZPO: Anwaltszwang vor Landgericht und höheren Instanzen.
+- Methodik: Urteilsstil. Knapp, indikativ, ohne Lehrbuchprosa.
+
+## Ablauf / Checkliste
+
+1. **Rubrum aufbauen.** Klägerseite mit voller Bezeichnung, Anschrift, Prozessvertretung. Beklagtenseite ebenso. Gericht in der ersten Zeile. Aktenzeichen leer (vom Gericht zu vergeben).
+2. **Antrag formulieren.** Zahlungsantrag mit konkreter Summe in Euro, Zinsbeginn, Zinssatz. Bei Feststellungsanträgen: konkretes Rechtsverhältnis. Hilfsanträge nur, wenn der Hauptantrag ausfallen kann.
+3. **Bestimmtheit prüfen.** Wer schuldet wem was wann woraus. Vier Fragen, vier Antworten.
+4. **Sachverhalt darstellen.** Chronologisch bei einfachen Sachverhalten, thematisch bei komplexen. Konnexität zwischen Vorbringen und Antrag muss erkennbar sein.
+5. **Rechtliche Würdigung.** Anspruchsgrundlage nennen, Tatbestandsmerkmale unter den Sachverhalt subsumieren. Im Urteilsstil. Auf Kommentar- oder Aufsatzfundstellen aus Modellwissen verzichten.
+6. **Beweisangebote einfügen.** Hinter jeder beweisbedürftigen Tatsache "Beweis: Zeuge X, geladen über Anschrift Y" oder "Anlage K1". Keine pauschalen "Beweis: alle".
+7. **Anlagenverzeichnis.** K1, K2, K3 fortlaufend. Bezeichnung der Anlage.
+8. **Streitwert angeben.** Bei Zahlungsklagen identisch mit Hauptforderung (Zinsen und Kosten zählen nicht; § 4 ZPO).
+9. **Unterschrift.** Anwaltliche Unterschrift gemäß § 130 Nr. 6 ZPO; elektronisch über beA.
+
+### Aufbauschema der Klageschrift
+
+| Abschnitt | Inhalt |
+|---|---|
+| Rubrum | Gericht, Parteien, Vertreter, Aktenzeichen |
+| Anträge | Hauptantrag, ggf. Hilfsantrag, ggf. Feststellungsantrag |
+| Begründung | Sachverhalt (I), Rechtliche Würdigung (II), Beweisangebote (III) |
+| Streitwert | Angabe nach § 3 ZPO |
+| Anlagenverzeichnis | K1 ff. |
+| Unterschrift | Anwältin, Anwalt |
+
+## Typische Drafting-Fehler
+
+- **Unbestimmter Antrag.** "Angemessene Entschädigung" ohne Betrag. "Auskunft zu erteilen" ohne Gegenstand der Auskunft.
+- **Konnexitätslücke.** Sachverhalt erzählt eine Geschichte, aber kein Tatsachenkern stützt den Antrag.
+- **Beweisflut.** Pauschale Beweisangebote wie "Beweis: Zeugnis aller Beteiligten" sind wertlos.
+- **Anspruchskumulation ohne Trennung.** Mehrere Ansprüche müssen einzeln dargestellt werden; Streitgegenstandsidentität sonst unklar.
+- **Falsches Gericht.** Sachliche oder örtliche Unzuständigkeit übersehen. Vor Klageerhebung prüfen.
+- **Streitwert vergessen.** Kann zur Verzögerung führen.
+
+## Beispiele
+
+### Mustertext Zahlungsklage (Auszug)
+
+```
+Landgericht Berlin Berlin, den 30. Mai 2026
+Tegeler Weg 17-21
+10589 Berlin
+
+ Klage
+
+der Frau Anna Muster, Beispielstraße 1, 12345 Beispielstadt
+ - Klägerin -
+Prozessbevollmächtigte: Rechtsanwältin Marta Stern,
+Musterallee 4, 12345 Musterstadt
+
+ gegen
+
+die Firma Beklagt GmbH, vertreten durch den Geschäftsführer Hans Schmidt,
+Industrieweg 5, 12345 Beispielstadt
+ - Beklagte -
+
+wegen Kaufpreisforderung
+
+Streitwert: 25.000,00 Euro
+
+Namens und in Vollmacht der Klägerin erheben wir Klage und werden beantragen:
+
+Die Beklagte wird verurteilt, an die Klägerin 25.000,00 Euro nebst Zinsen
+in Höhe von neun Prozentpunkten über dem Basiszinssatz seit dem 1. März 2026
+zu zahlen.
+
+ Begründung
+
+I. Sachverhalt
+
+Die Klägerin und die Beklagte schlossen am 15. Januar 2026 einen Kaufvertrag
+über die Lieferung von zehn Industriemaschinen Typ A-100 zum Gesamtpreis
+von 25.000 Euro netto.
+
+Beweis: Kaufvertrag vom 15. Januar 2026, Anlage K1.
+
+Die Klägerin lieferte die Maschinen vereinbarungsgemäß am 1. Februar 2026.
+Die Beklagte bestätigte den Empfang ohne Beanstandungen.
+
+Beweis: Lieferschein und Empfangsbestätigung vom 1. Februar 2026, Anlage K2.
+
+II. Rechtliche Würdigung
+
+Der Anspruch ergibt sich aus § 433 Abs. 2 BGB. Die Parteien haben einen
+wirksamen Kaufvertrag geschlossen. Die Klägerin hat geliefert; die Beklagte
+schuldet den vereinbarten Kaufpreis. Die Forderung wurde mit Ablauf der
+Zahlungsfrist am 28. Februar 2026 fällig. Verzug ist mit dem 1. März 2026
+eingetreten (§ 286 Abs. 2 Nr. 1 BGB).
+
+Anlagenverzeichnis:
+K1 Kaufvertrag vom 15. Januar 2026
+K2 Lieferschein vom 1. Februar 2026
+
+Marta Stern
+Rechtsanwältin
+```
+
+## Quellen (Stand 05/2026)
+
+- §§ 253, 130, 3, 4 ZPO; gesetze-im-internet.de.
+- §§ 23, 71 GVG; §§ 78 ff. ZPO für Anwaltszwang.
+- § 286 BGB für Verzugszinsen; § 288 BGB für Verzugszinssatz.
+- Rechtsprechung des BGH zur Bestimmtheit von Anträgen: vom Nutzer zu verifizieren. Keine Aktenzeichen aus Modellwissen.
+- `references/zitierweise.md` für Belegpflicht.
+
+---
+
+## Skill: `argumentationsarchitektur-schreiben`
+
+_Wenn es um Argumentationsarchitektur Schreiben in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Argumentationsarchitektur Schreiben
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
+- Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Bausteine
+
+| Baustein | Frage |
+|---|---|
+| These | Was soll am Ende gelten? |
+| Norm oder Klausel | Worauf stützt sich die These? |
+| Tatsache | Welche konkrete Tatsache trägt die Subsumtion? |
+| Beleg | Wo steht das in Akte, Anlage, Vertrag, E-Mail oder Zeugnis? |
+| Gegenargument | Was wird die Gegenseite sagen? |
+| Antwort | Warum trägt das Gegenargument nicht? |
+| Rechtsfolge | Was folgt praktisch? |
+
+## Ablauf
+
+1. Ziel des Textes bestimmen.
+2. Hauptthese in einem Satz formulieren.
+3. Unterthesen bilden.
+4. Für jede These Norm, Tatsache und Beleg zuordnen.
+5. Gegenargumente danebenstellen.
+6. Reihenfolge festlegen: stärkstes Argument zuerst, hilfsweise danach.
+7. Überschriften als Ergebnisse formulieren.
+
+## Beispiel-Überschriften
+
+Schwach:
+
+```text
+Zur Kündigung
+```
+
+Stark:
+
+```text
+Die außerordentliche Kündigung ist unwirksam, weil die Abmahnung fehlt.
+```
+
+---
+
+## Skill: `cowork-cloud-kollaboration-drafting`
+
+_Wenn es um Cowork und Cloud-Kollaboration im Drafting in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# Cowork und Cloud-Kollaboration im Drafting
+
+## Arbeitsbereich
+
+Mandantengeheimnis-konformes Drafting in der Cloud (Claude Cowork; Office 365; Google Workspace). Rechtlicher Rahmen § 43a Abs. 2 BRAO; § 203 StGB; § 26 BORA und Art. 28 DSGVO. Auftragsverarbeitungsvertrag ist Voraussetzung. Sensible Daten: Mandantenname; Aktenzeichen; Sachverhalt. Pseudonymisierung im Entwurf; Mandantendaten erst in finaler Fassung. Versionierung. Zwei-Faktor-Authentifizierung. Mit Pitfall-Liste zu WhatsApp; E-Mail und Cloud ohne Auftragsverarbeitungsvertrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
+- Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Eingaben
+
+- Genutzte Cloud-Tools in Ihrer Kanzlei
+- Bestehende Auftragsverarbeitungsverträge mit den Anbietern
+- Mandatscharakter (Standardmandat, Hochrisiko, internationale Beteiligung)
+- Geräteumfeld (kanzleieigene Geräte, BYOD, Remote)
+- Verteilungskreis (interne Co-Drafter, externe Kolleginnen, Mandant)
+
+## Rechtlicher und methodischer Rahmen
+
+- § 43a Abs. 2 BRAO: Verschwiegenheitspflicht der Anwältin und des Anwalts.
+- § 203 Abs. 1 Nr. 3 StGB: Strafbarkeit der Verletzung von Privatgeheimnissen.
+- § 203 Abs. 3 und Abs. 4 StGB: Mitwirkende Personen und externe Dienstleister; Voraussetzungen der zulässigen Einbindung.
+- § 26 BORA: Sorgfalt bei Mitarbeitern sowie Dritten.
+- Art. 5 DSGVO: Grundsätze (Rechtmäßigkeit, Zweckbindung, Datenminimierung, Integrität und Vertraulichkeit).
+- Art. 28 DSGVO: Auftragsverarbeitung; schriftlicher Vertrag mit allen Pflichtinhalten erforderlich.
+- Art. 32 DSGVO: Sicherheit der Verarbeitung (Pseudonymisierung; Verschlüsselung; Belastbarkeit; Wiederherstellbarkeit; regelmäßige Überprüfung).
+- Art. 44 ff. DSGVO: Drittlandübermittlungen; insbesondere Schrems-II-Risiken bei US-Anbietern.
+- BSI-Grundschutz und Empfehlungen der Bundesrechtsanwaltskammer zur Nutzung von Cloud-Diensten in Kanzleien.
+
+## Ablauf / Checkliste
+
+1. **Vor Tool-Nutzung: Auftragsverarbeitungsvertrag prüfen.** Liegt ein schriftlicher Auftragsverarbeitungsvertrag nach Art. 28 DSGVO vor? Sonst keine Mandantendaten in dieses Tool.
+2. **Datenklassifikation klären.** Welche Information ist sensibel? Mandantenname, Aktenzeichen, Sachverhalt, Gegenseite. Auch eine harmlos wirkende Mandatsbezeichnung kann den Identifizierungskreis offenbaren.
+3. **Pseudonymisierung im Drafting-Prozess.** Während der Konzept- und Klauselarbeit: "Mandant", "Mandantin", "Gegenseite", "Anlage 1" statt Klarnamen. Konkrete Beträge ggf. durch Platzhalter ersetzen.
+4. **Erst in finaler Fassung die Klarnamen einsetzen.** Vorher Mandantendaten in einer geschützten Umgebung halten (lokal oder in einer kanzleieigenen, klassifizierten Cloud).
+5. **Versionsführung mit klaren Stempeln.** v0 lokal, v1 Cloud-Entwurf pseudonymisiert, v2 mit Mandantendaten in geschützter Umgebung, v-final unterschriftsreif.
+6. **Zwei-Faktor-Authentifizierung verbindlich.** Für alle Cloud-Dienste; ohne Ausnahme.
+7. **Geräte- und Pfadhygiene.** Keine Mandantendaten auf privaten Cloud-Speichern, nicht in privaten Mail-Konten, nicht auf privaten Handys ohne Mobile Device Management.
+8. **Berechtigungskonzept Cowork-Räume.** Nur die Personen mit Zugang, die Zugang brauchen. Externe Drafter aus dem Cowork-Raum entfernen, sobald ihre Phase endet.
+9. **Logging und Audit.** Aktivitätsprotokolle aktivieren; bei Bedarf Audit prüfen.
+10. **Notfallplan.** Was ist zu tun bei Datenleck (Art. 33, 34 DSGVO Meldepflichten innerhalb von 72 Stunden)?
+
+### Sensitivitäts-Matrix
+
+| Datenkategorie | Sensitivität | Maßnahme |
+|---|---|---|
+| Mandantenname | hoch | Pseudonym im Entwurf |
+| Aktenzeichen | hoch | nur in geschützter Umgebung |
+| Sachverhalt mit personenbeziehbaren Daten | hoch | Pseudonym; finale Fassung lokal |
+| Klauselrohling ohne Bezug | niedrig | unbedenklich in Cloud |
+| Vergleichsbetrag | mittel | Platzhalter im Entwurf |
+| Strafrechtliche Vorwürfe | sehr hoch | nur Onpremise oder klassifizierte Cloud |
+| Gesundheitsdaten (Art. 9 DSGVO) | sehr hoch | nur Onpremise oder klassifizierte Cloud |
+
+### Pseudonymisierungs-Konventionen
+
+```
+Mandant -> "Mandant" oder "M"
+Gegenseite -> "Gegenseite" oder "G"
+Aktenzeichen -> "AZ-001"
+Datum konkret -> "TT.MM.JJJJ" als Platzhalter
+Betrag konkret -> "[Betrag]" oder "X Euro"
+Adressen -> "Anschrift M" / "Anschrift G"
+```
+
+## Typische Drafting-Fehler
+
+- **WhatsApp, private E-Mail, Privat-Cloud.** Mandantendaten ohne Auftragsverarbeitungsvertrag und ohne Verschlüsselung sind ein Bruch von § 203 StGB.
+- **Cloud-Anbieter ohne Auftragsverarbeitungsvertrag.** Selbst kostenlose Tools verarbeiten Daten; ohne Auftragsverarbeitungsvertrag tabu.
+- **Klarnamen im Cowork-Raum von Anfang an.** Auch wenn der Anbieter geprüft ist, gehört das in die geschützte Umgebung.
+- **Versionsdurcheinander.** Ohne klare Versionsstempel werden Entwürfe mit Klarnamen versehentlich extern geteilt.
+- **Externe Drafter behalten Zugriff.** Nach Projektende vergessene Berechtigungen sind ein klassischer Fehler.
+- **Keine Zwei-Faktor-Authentifizierung.** Passwort allein ist 2026 kein Schutz mehr.
+- **Drittlandübermittlung übersehen.** Bei US-Cloud-Anbietern Schrems-II-Aspekte und Standardvertragsklauseln prüfen.
+- **Bring-your-own-Device ohne Mobile Device Management.** Mandantendaten auf privaten Geräten ohne kontrollierten Trennungslogik.
+
+## Beispiele
+
+### Beispiel Cowork-Konzept für Vertragsdraft
+
+```
+Phase 1 (Konzept):
+- Klauselbausteine in Cowork, vollständig pseudonymisiert.
+- Mandant = "M", Gegenseite = "G", Beträge = "[Betrag]".
+
+Phase 2 (Erstentwurf):
+- Pseudonymisierter Entwurf in Cowork.
+- Verweislogik und Versionen vor Versand bewusst kontrollieren.
+
+Phase 3 (Mandantenfreigabe):
+- Übernahme in lokale Word-Umgebung der Kanzlei.
+- Klarnamen einsetzen, mit Mandant abstimmen.
+
+Phase 4 (Versand an Gegenseite):
+- Versand aus klassifizierter Kanzleiumgebung über beA, AnwaltsCloud oder verschlüsselte E-Mail.
+- Metadaten vor Versand entfernen.
+```
+
+### Beispiel Verstoss-Szenario
+
+Ein Anwalt schickt einen NDA-Entwurf für einen prominenten Mandanten über sein privates Gmail-Konto an einen externen Steuerberater. Folge: Verstoß gegen § 203 StGB (kein zulässiges Outsourcing nach § 203 Abs. 3 StGB), § 43a BRAO und Art. 32 DSGVO. Strafrechtliches Risiko, berufsrechtliche Maßnahme, Meldepflicht nach Art. 33, 34 DSGVO.
+
+## Quellen (Stand 05/2026)
+
+- § 43a Abs. 2 BRAO; § 203 Abs. 1 Nr. 3, Abs. 3 und Abs. 4 StGB; § 26 BORA; gesetze-im-internet.de und brak.de.
+- Art. 5, 28, 32, 33, 34, 44 ff. DSGVO; dsgvo-gesetz.de.
+- Empfehlungen der Bundesrechtsanwaltskammer zur Cloud-Nutzung: vom Nutzer zu prüfen, brak.de.
+- Schrems-II-Urteil EuGH und Folgepraxis: vom Nutzer zu verifizieren (EuGH, Urt. v. 16. Juli 2020, Rs. C-311/18).
+- `references/zitierweise.md` für Belegpflicht.
+
+---
+
+## Skill: `b2b-vs-b2c-klausel-strategie`
+
+_Wenn es um B2B vs. B2C Klauselstrategie in Word-Workflows für deutsche Juristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen._
+
+# B2B vs. B2C Klauselstrategie
+
+## Arbeitsbereich
+
+Strategisches Drafting in zwei Vertragswelten. B2C unter strengem Verbraucherschutz (§§ 13 und 14 BGB sowie § 305 II BGB und §§ 308 und 309 BGB direkt anwendbar). B2B im Geschäftsverkehr nach § 310 I BGB erleichtert, aber mit Ausstrahlungswirkung der Klauselverbote über § 307 BGB. Ein einziges Klauselwerk für beide Welten ist effizient, aber risikobehaftet; Alternative sind getrennte AGB-Sätze. Liefert Tabelle Klauseltyp/B2C-Risiko/B2B-Risiko/Empfehlung und Mustertexte für haftungsbegrenzte Klauseln im Vergleich beider Welten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
+- Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Eingaben
+
+- Kundenstruktur (rein B2B, rein B2C, gemischt).
+- Vertriebskanal (Onlineshop, Außendienst, Plattform).
+- Bisheriges Klauselwerk.
+- Branche und Regulierung (Telekommunikation, Banking, Energie, Bau).
+- Konfliktthemen (Haftungsbegrenzung, Mängelrechte, Vertragslaufzeiten, Vertragsstrafe, Aufrechnung).
+
+## Rechtlicher und methodischer Rahmen
+
+- **Verbraucher (§ 13 BGB):** Natürliche Person, die ein Rechtsgeschäft zu Zwecken außerhalb ihrer gewerblichen oder selbständigen beruflichen Tätigkeit abschließt.
+- **Unternehmer (§ 14 BGB):** Natürliche oder juristische Person oder rechtsfähige Personengesellschaft, die in Ausübung ihrer gewerblichen oder selbständigen beruflichen Tätigkeit handelt.
+- **B2C-Welt:** § 305 II BGB Einbeziehung, §§ 308 und 309 BGB direkt anwendbar, § 307 BGB inkl. Transparenzgebot.
+- **B2B-Welt:** § 310 I BGB. §§ 308 und 309 BGB direkt nicht anwendbar; jedoch §§ 305c, 307 BGB direkt anwendbar. BGH wertet die §§ 308 und 309 BGB als Indizien für die Unangemessenheit nach § 307 BGB; konkrete Fundstelle vom Nutzer zu verifizieren.
+- **Handelsbräuche:** § 310 I 2 BGB verlangt Berücksichtigung der im Handelsverkehr geltenden Gewohnheiten und Gebräuche.
+- **Praxisfolge:** Klauseln, die in B2C eindeutig verboten sind, sind in B2B oft ebenfalls unwirksam, jedoch nicht reflexartig. Eine inhaltliche Begründung bleibt notwendig.
+- **Strategieentscheidung:** Ein gemeinsames Klauselwerk vereinfacht die Pflege, birgt aber das Risiko, dass die strengere Verbraucherwertung das Geschäftskundenwerk durchschlägt (Worst-Case-Übernahme). Getrennte AGB-Sätze sind aufwendiger, aber sauberer.
+
+## Ablauf / Checkliste
+
+1. Kundenstruktur und Kanäle ermitteln. Wer wird tatsächlich Vertragspartner?
+2. Konfliktklauseln identifizieren: Haftung, Mängelrechte (insbesondere Verjährung, Rüge), Vertragsdauer und Verlängerung, Preisanpassung, Vertragsstrafe, Aufrechnung, Zurückbehaltung, Gerichtsstand.
+3. Pro Klausel B2C-Bewertung: § 308 / § 309 BGB direkt prüfen.
+4. Pro Klausel B2B-Bewertung: § 307 BGB unter Berücksichtigung der Ausstrahlung der § 308 / § 309 BGB-Wertung und der Handelsbräuche.
+5. Entscheidung: einheitliche Klausel, mit B2B-Variante (Switch) oder vollständige Trennung.
+6. Bei Switch-Logik: technisch zuverlässig prüfen (Vertragstyp-Erkennung im Checkout) und transparent dokumentieren.
+7. Bei getrennten AGB: Versionen mit klarer Bezeichnung (B2C-AGB, B2B-AGB), keine Vermischung im Vertragsschluss.
+8. Bei gemischter Kundschaft (KMU als faktische Verbraucher): erhöhte Sorgfalt; viele Schutzregeln gelten ungeachtet der formalen Unternehmereigenschaft als Wertungsgrundlage.
+9. Sicherstellen, dass der Geltungsumfang (§§ 13, 14 BGB) im Vertrag klar ist.
+10. Schulung der Vertriebs- und Servicemitarbeitenden für die richtige AGB-Verwendung.
+
+## Typische Drafting-Fehler
+
+- "Gegenüber Unternehmern gilt §§ 308 / 309 BGB nicht": missverstandene Pauschalformel. Die Ausstrahlungswirkung wird ignoriert.
+- Haftungsklausel aus B2C-AGB unverändert in B2B übernommen: doppelte Schutzwertung, mögliche Unwirksamkeit.
+- Trennung nur formal: Verbraucher wird in B2B-Strecke gedrängt, indem ihm eine "Unternehmereigenschaft" abverlangt wird; die tatsächliche Eigenschaft entscheidet.
+- Verlängerungsklausel mit zwölf Monaten Laufzeit in B2C: § 309 Nr. 9 BGB.
+- Mängelfrist sechs Monate in B2C: § 309 Nr. 8 b ff BGB.
+- Rügepflicht nach § 377 HGB in Verbraucher-AGB übernommen: unwirksam.
+- Vertragsstrafe in B2C-AGB: § 309 Nr. 6 BGB.
+
+## Beispiele
+
+Tabelle (Auszug):
+
+| Klauseltyp | B2C-Risiko | B2B-Risiko | Empfehlung |
+|---|---|---|---|
+| Haftungsbegrenzung auf Vorsatz | unwirksam: § 309 Nr. 7 a/b BGB | unwirksam nach § 307 BGB (Ausstrahlung) | Vorsatz, grobe Fahrlässigkeit, Verletzung Leben Körper Gesundheit ausnehmen; einfache Fahrlässigkeit nur bei wesentlichen Vertragspflichten, Höhe auf vertragstypischen Schaden begrenzt |
+| Verkürzung Verjährungsfrist Mängel auf sechs Monate | unwirksam: § 309 Nr. 8 b ff BGB | bei B2B-Kaufverträgen Verkürzung auf zwölf Monate üblich, aber im Einzelfall Ausstrahlung; je nach Branche differenziert | im B2B zwölf Monate, in B2C keine Verkürzung |
+| Aufrechnungsverbot | unwirksam: § 309 Nr. 3 BGB | grundsätzlich unwirksam, Ausstrahlung | Aufrechnung nur ausschließen für streitige, nicht rechtskräftig festgestellte Forderungen |
+| Vertragsverlängerung um zwölf Monate ohne Kündigung | unwirksam: § 309 Nr. 9 BGB | im B2B häufig zulässig, aber transparent | in B2C maximal stillschweigende Verlängerung um drei Monate mit einmonatiger Kündigungsfrist |
+| Vertragsstrafe | unwirksam: § 309 Nr. 6 BGB | im B2B individuell, AGB-tauglich nur eng | vgl. `vertragsstrafe-339-bgb` |
+
+Mustertext (Haftungsbegrenzung, gegenübergestellt):
+
+B2C-Variante:
+
+> § X Haftung
+> (1) Der Anbieter haftet unbeschränkt für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit, soweit er die Pflichtverletzung zu vertreten hat.
+> (2) Im Übrigen haftet der Anbieter für Vorsatz und grobe Fahrlässigkeit unbeschränkt. Bei einfacher Fahrlässigkeit haftet der Anbieter nur für die Verletzung einer wesentlichen Vertragspflicht (Kardinalpflicht), deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Kunde regelmäßig vertrauen darf, und der Höhe nach begrenzt auf den vertragstypischen, vorhersehbaren Schaden.
+
+B2B-Variante:
+
+> § X Haftung
+> (1) Der Anbieter haftet unbeschränkt für Vorsatz, grobe Fahrlässigkeit, für die Verletzung des Lebens, des Körpers und der Gesundheit, für Ansprüche nach dem Produkthaftungsgesetz und im Umfang einer übernommenen Garantie.
+> (2) Bei leicht fahrlässiger Verletzung wesentlicher Vertragspflichten haftet der Anbieter der Höhe nach begrenzt auf den vertragstypischen, vorhersehbaren Schaden. Eine weitergehende Haftung für leichte Fahrlässigkeit ist ausgeschlossen.
+> (3) Die Verjährung der Ansprüche des Kunden wegen Mängeln beträgt zwölf Monate ab Gefahrübergang, soweit nicht zwingende gesetzliche Vorschriften entgegenstehen.
+
+## Quellen (Stand 05/2026)
+
+- §§ 13, 14, 305, 305c, 306, 307, 308, 309, 310 BGB.
+- § 377 HGB (Rügepflicht im Handelskauf).
+- BGH-Linie zur Ausstrahlung des § 309 BGB auf § 307 BGB im B2B ist vom Nutzer fundstellengenau zu verifizieren.
+- Zitierweise: `references/zitierweise.md`.
+
+---
+
+## Skill: `verweis-querverweis-dokument-finish`
+
+_Wenn es um Verweis- und Querverweis-Technik in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Verweis- und Querverweis-Technik
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
+- Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Eingaben
+
+- Vertrag oder Schriftsatz mit Verweisstruktur
+- Anlagenliste
+- Verwendete Gesetze und Verordnungen
+- Optional: Versionsstand zur Konsistenzpruefung
+
+## Rechtlicher und methodischer Rahmen
+
+- § 305 Abs. 2 BGB: Einbeziehung von AGB. Verweis auf AGB muss klar und auffindbar sein.
+- §§ 133, 157 BGB: Auslegung. Defekte Verweise werden gegen den Verwender ausgelegt (§ 305c Abs. 2 BGB).
+- Zitierweise nach `references/zitierweise.md` für externe Verweise auf Rechtsprechung und Literatur.
+- Technische Umsetzung: Wenn Word genutzt wird, reichen normale Querverweise oder eine bewusste manuelle Endkontrolle. Keine Makros, kein VBA, keine Automatisierungslogik.
+
+## Ablauf / Checkliste
+
+1. **Interne Verweise inventarisieren.** Welche Klauseln verweisen aufeinander?
+2. **Anlagen inventarisieren.** Welche Anlagen werden zitiert? Sind sie alle vorhanden?
+3. **Externe Verweise prüfen.** Sind Gesetzesangaben aktuell? Sind Rspr.-Zitate verifiziert?
+4. **Verweisform prüfen.** Klauselnummer und Klauselueberschrift nennen ("§ 7 Abs. 2 (Haftung)").
+5. **Verweise nach Renumbering kontrollieren.** Keine toten Verweise nach Verschiebung von Klauseln oder Anlagen.
+6. **Konsistenzpruefung.** Volltextsuche nach "siehe oben", "vorstehend", "nachstehend".
+7. **Anlagenverzeichnis erstellen.** Anlage 1 bis Anlage n.
+
+### Interne Verweise: Drei Regeln
+
+1. **Klauselnummer plus Ueberschrift.** "§ 7 Abs. 2 (Haftung)" statt "vorstehender Absatz".
+2. **Richtung explizit.** "siehe § 5" oder "wie in § 5 geregelt", nicht "siehe oben".
+3. **Voll qualifiziert.** "Anlage 3 (Leistungsbeschreibung)", nicht "Anlage".
+
+### Externe Verweise: Zitiermuster
+
+- Gesetz: "§ 433 Abs. 1 Satz 1 BGB"
+- EU-Recht: "Art. 6 Abs. 1 lit. f DSGVO"
+- Rspr.: "BGH, Urt. v. TT.MM.JJJJ - Az. ..., [freie Quelle] Rn. ..."
+- Mehrere Normen: "§§ 280 Abs. 1, 281 Abs. 1 und Abs. 2 BGB"
+
+Externe Rspr.- und Literaturverweise nur, wenn verifiziert. Siehe `references/zitierweise.md`.
+
+### Anlagenverwaltung: Drei-Punkte-Prinzip
+
+| Schritt | Beispiel |
+|---|---|
+| 1. Benennen | "Anlage 3 (Leistungsbeschreibung)" im Anlagenverzeichnis |
+| 2. Definieren | "Anlage 3 bezeichnet die in Anlage 3 zu diesem Vertrag enthaltene Leistungsbeschreibung." im Definitionen-Abschnitt |
+| 3. Einfuehren | "Der Lieferant erbringt die in Anlage 3 (Leistungsbeschreibung) beschriebenen Leistungen." in der operativen Klausel |
+
+### Beispiel: konsolidierter Verweisapparat
+
+```
+§ 1 Definitionen
+
+"Anlage 1" bezeichnet die in Anlage 1 zu diesem Vertrag enthaltene
+Leistungsbeschreibung.
+
+"Anlage 2" bezeichnet die in Anlage 2 zu diesem Vertrag enthaltene
+Preisliste.
+
+§ 3 Leistung
+Der Lieferant erbringt die in Anlage 1 (Leistungsbeschreibung) im
+Einzelnen beschriebenen Leistungen.
+
+§ 4 Verguetung
+Die Verguetung richtet sich nach Anlage 2 (Preisliste).
+
+§ 6 Maengelhaftung
+(1) ...
+(2) Bei Verzug gilt zusaetzlich § 4 Abs. 3 (Verzug).
+(3) ...
+
+§ 7 Haftung
+(1) ...
+(2) ...
+Schadensersatzansprueche aus § 6 Abs. 2 (Maengelhaftung) und aus § 8
+(Geheimhaltung) sind in der Hoehe nach diesem § 7 begrenzt.
+
+Anlagenverzeichnis
+Anlage 1 - Leistungsbeschreibung
+Anlage 2 - Preisliste
+Anlage 3 - Lieferplan
+```
+
+### Klausel-Spinne vermeiden
+
+Eine Klausel-Spinne entsteht, wenn ein Begriff durch mehrere Klauseln laeuft, die sich gegenseitig verweisen, ohne dass die Hauptregel klar ist.
+
+**Anti-Pattern:**
+
+```
+§ 3 ... soweit nicht in § 5 anders geregelt ...
+§ 5 ... vorbehaltlich § 3 und § 7 ...
+§ 7 ... unter Bezugnahme auf § 5 und § 3 ...
+```
+
+**Loesung:** Hauptregel in einer Klausel. Andere Klauseln verweisen nur in eine Richtung. Tabelle Verweis-Graph zeichnen.
+
+### vorstehender und nachstehender
+
+Vermeiden Sie diese Begriffe in operativen Klauseln. Sie sind Auslegungsmuell. Wenn unausweichlich, ergaenzen Sie die Klauselnummer:
+
+- Statt "vorstehender Absatz" schreiben Sie "Abs. 1".
+- Statt "vorstehender Paragraph" schreiben Sie "§ 6".
+- Statt "nachstehender Absatz" schreiben Sie "Abs. 3".
+
+## Typische Drafting-Fehler
+
+- **Tote Verweise nach Renumbering.** Klauselnummern wurden verschoben, aber die Verweise im Text nicht nachgezogen.
+- **"Siehe oben" ohne Bezugsstelle.** Kein Reviewer findet die Stelle.
+- **Anlage zitiert, aber nicht vorhanden.** Anlagenverzeichnis prüfen.
+- **Externe Verweise auf veraltete Normen.** § Nummern haben sich geaendert (z.B. nach Schuldrechtsmodernisierung 2002, AGB-Reform 2002, BDSG-DSGVO-Umstellung 2018).
+- **Rspr.-Zitate aus Modellwissen.** Verifikationspflicht nach `references/zitierweise.md`.
+- **Klausel-Spinne.** Mehrfach kreisende Verweise. Hauptregel konsolidieren.
+
+## Beispiel
+
+**Aufgabe:** Prüfen Sie den Verweisapparat folgender Klausel:
+
+```
+§ 7 Haftung
+Soweit nicht im Vorstehenden anders bestimmt, haftet der Lieferant nur,
+soweit dies in den nachstehenden Bestimmungen vorgesehen ist, wobei die
+Regelungen in § 5 (Maengelhaftung) und in den dort genannten Anlagen
+zu beachten sind, vorbehaltlich der Sonderregelungen in den Anlagen
+zur Geheimhaltung.
+```
+
+**Prüfbericht:**
+
+- "im Vorstehenden": ohne Bezug. Streichen.
+- "in den nachstehenden Bestimmungen": keine Klauselnummer. Konkretisieren.
+- "in den dort genannten Anlagen": Verweis zweiter Stufe. Direkt auf die Anlage zeigen.
+- "Anlagen zur Geheimhaltung": ist eine Anlage gemeint oder mehrere? Nummerieren.
+
+**Loesung:**
+
+```
+§ 7 Haftung
+(1) Der Lieferant haftet nach Massgabe dieses § 7 in Verbindung mit
+ § 6 (Maengelhaftung).
+(2) Die Haftung für Geheimhaltungsverstoesse richtet sich nach § 8
+ (Geheimhaltung) und Anlage 8 (Geheimhaltungsregeln).
+(3) Im Uebrigen ist die Haftung ausgeschlossen.
+```
+
+## Quellen (Stand 05/2026)
+
+- § 305 Abs. 2 BGB, § 305c Abs. 2 BGB, §§ 133, 157 BGB. gesetze-im-internet.de.
+- `references/zitierweise.md` für externe Verweise.
+- Normale Word-Querverweise können helfen; Makros, VBA und Office-Automatisierung sind für diesen Skill bewusst ausgeschlossen.
+
+---
+
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

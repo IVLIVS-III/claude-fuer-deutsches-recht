@@ -1,41 +1,42 @@
-# Megaprompt: oeffentliches-wirtschaftsrecht
+# Vollprüfung: oeffentliches-wirtschaftsrecht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 119 Skills (gekuerzt fuer Chat-Fenster) des Plugins `oeffentliches-wirtschaftsrecht`.
+Dieser Vollprüfung enthaelt top-8 von 119 Skills (gekuerzt fuer Chat-Fenster) des Plugins `oeffentliches-wirtschaftsrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Öffentliches Wirtschaftsrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und …
-2. **kommunales-unternehmen-zulaessig** — Öffentliches Wirtschaftsrecht: Kommunales Unternehmen zulässig. Kommunales Unternehmen zulässig im Fachgebiet Öffentlich…
-3. **projektfinanzierung-oeffentlich** — Öffentliches Wirtschaftsrecht: Projektfinanzierung öffentlich. Projektfinanzierung öffentlich im Fachgebiet Öffentliches…
-4. **scheinprivatisierung-erkennen-oepp** — Öffentliches Wirtschaftsrecht: Scheinprivatisierung erkennen. Scheinprivatisierung erkennen im Fachgebiet Öffentliches W…
-5. **haushaltsrechtliche-freigabe** — Öffentliches Wirtschaftsrecht: Haushaltsrechtliche Freigabe. Haushaltsrechtliche Freigabe im Fachgebiet Öffentliches Wir…
-6. **vergaberechtliche-vorpruefung** — Öffentliches Wirtschaftsrecht: Vergaberechtliche Vorprüfung. Vergaberechtliche Vorprüfung im Fachgebiet Öffentliches Wir…
-7. **wirtschaftlichkeitsvergleich** — Öffentliches Wirtschaftsrecht: Wirtschaftlichkeitsvergleich. Wirtschaftlichkeitsvergleich im Fachgebiet Öffentliches Wir…
-8. **gebuehrenfinanzierung-pruefen** — Öffentliches Wirtschaftsrecht: Gebührenfinanzierung prüfen. Gebührenfinanzierung prüfen im Fachgebiet Öffentliches Wirts…
+1. **kaltstart-triage** — Wenn es um Öffentliches Wirtschaftsrecht - Allgemeiner Einstieg in Öffentliches Wirtschaftsrecht geht: klärt Rolle, Ziel…
+2. **oeffentliches-wirtschaftspro** — Wenn es um Kaltstart Öffentliches Wirtschaftsprojekt in Öffentliches Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Un…
+3. **oew-001-kaltstart-oeffentliches-wirtschaftspro** — Wenn es um Kaltstart Oeffentliches Wirtschaftspro in Öffentliches Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unter…
+4. **krankenhausgesellschaft-kontrolle-sich** — Wenn es um Krankenhausgesellschaft Kontrolle Sich in Öffentliches Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zustän…
+5. **krankenhausgesellschaft-kommunikation-red-team-korrektur** — Wenn es um Krankenhausgesellschaft Kommunikation in Öffentliches Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständ…
+6. **messegesellschaft-kontrolle-sichern** — Wenn es um Messegesellschaft Kontrolle Sichern in Öffentliches Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständig…
+7. **autobahnprojekt-kommunikation-schreibe** — Wenn es um Autobahnprojekt Kommunikation Schreibe in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkei…
+8. **autobahnprojekt-kontrolle-sichern** — Wenn es um Autobahnprojekt Kontrolle Sichern in Öffentliches Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigke…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Öffentliches Wirtschaftsrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe._
+_Wenn es um Öffentliches Wirtschaftsrecht - Allgemeiner Einstieg in Öffentliches Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Öffentliches Wirtschaftsrecht - Allgemeiner Einstieg
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Oeffentliches Wirtschaftsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Startfragen
 
@@ -73,11 +74,98 @@ Primär mit amtlichen Gesetzestexten, Behördenhinweisen, Gerichtsentscheidungen
 
 ---
 
-## Skill: `kommunales-unternehmen-zulaessig`
+## Skill: `oeffentliches-wirtschaftspro`
 
-_Öffentliches Wirtschaftsrecht: Kommunales Unternehmen zulässig. Kommunales Unternehmen zulässig im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht._
+_Wenn es um Kaltstart Öffentliches Wirtschaftsprojekt in Öffentliches Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Mandantennachricht oder Entscheidungsvorlage._
 
-# Kommunales Unternehmen Zulässig
+# Kaltstart Öffentliches Wirtschaftsprojekt
+
+## Arbeitsauftrag
+
+Bringe ein öffentliches Wirtschaftsprojekt schnell in eine prüffähige Struktur: Wer will was mit welchem öffentlichen Zweck, welchem Geld, welcher Gesellschaft, welchem Vertragspartner und welchem Marktbezug erreichen?
+
+## Normenanker
+
+- GWB §§ 97 ff., VgV, UVgO, VOB/A, KonzVgV: Vergabe und Konzession.
+- AEUV Art. 107, 108: Beihilfenrecht; De-minimis/AGVO nur nach genauer Förderlogik.
+- GG Art. 28 Abs. 2; Kommunalrecht der Länder: Daseinsvorsorge, wirtschaftliche Betätigung, Kommunalunternehmen.
+- BHO/LHO §§ 7, 23, 44: Wirtschaftlichkeit, Zuwendung, Haushaltsbindung.
+- BGB, HGB, GmbHG/AktG bei Projektgesellschaft, Vertrag und Haftung.
+
+## Prüfroutine
+
+1. Projektziel, öffentlicher Zweck und Leistung genau beschreiben.
+2. Beschaffungs-, Förder-, Beteiligungs-, Konzessions- oder Inhouse-Pfad bestimmen.
+3. Markt-/Beihilferisiko, Haushaltsrisiko und kommunalrechtliche Zulässigkeit trennen.
+4. Risikoallokation, Kontrollrechte, Laufzeit, Kündigung, Nachträge und Transparenzpflichten als Vertragspunkte ausgeben.
+5. Ergebnis als Entscheidungsvorlage mit Varianten: schnell, rechtssicher, politisch robust.
+
+---
+
+## Skill: `oew-001-kaltstart-oeffentliches-wirtschaftspro`
+
+_Wenn es um Kaltstart Oeffentliches Wirtschaftspro in Öffentliches Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Kaltstart Oeffentliches Wirtschaftspro
+
+## Arbeitsauftrag
+
+Kaltstart Oeffentliches Wirtschaftspro wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Öffentliches Wirtschaftsrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+
+## Einstieg ohne Leerlauf
+
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+
+## Norm- und Quellenanker
+
+- ÖPP/PPP, Vergabe, Beihilfe, Konzession, kommunale Unternehmen
+- Daseinsvorsorge, Scheinprivatisierung, Inhouse, Projektfinanzierung
+- Wirtschaftlichkeitsvergleich, Risikoallokation, Haushalts- und Kommunalrecht
+- EU-Grundfreiheiten, Wettbewerbs-/Beihilferecht, Transparenz
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Projektstrukturkarte
+- ÖPP-Risikomatrix
+- Vergabe-/Beihilfe-Gate
+- Vertrags- und Governance-Checkliste
+
+## Red-Team-Fragen
+
+- ÖPP als reines Vertragsproblem behandelt
+- Beihilfe/Vergabe zu spät geprüft
+- Haushaltsrisiko ausgelagert aber nicht gelöst
+- Kontrollrechte der öffentlichen Hand fehlen
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+
+---
+
+## Skill: `krankenhausgesellschaft-kontrolle-sich`
+
+_Wenn es um Krankenhausgesellschaft Kontrolle Sich in Öffentliches Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Krankenhausgesellschaft Kontrolle Sich
 
 ## Arbeitsweg
 
@@ -104,42 +192,11 @@ _Öffentliches Wirtschaftsrecht: Kommunales Unternehmen zulässig. Kommunales Un
 
 ---
 
-## Skill: `projektfinanzierung-oeffentlich`
+## Skill: `krankenhausgesellschaft-kommunikation-red-team-korrektur`
 
-_Öffentliches Wirtschaftsrecht: Projektfinanzierung öffentlich. Projektfinanzierung öffentlich im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht._
+_Wenn es um Krankenhausgesellschaft Kommunikation in Öffentliches Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Projektfinanzierung Öffentlich
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GWB § 160 Abs. 3 Rüge unverzüglich/10 Kalendertage, § 161 Abs. 1 Nachprüfungsantrag 15 Kalendertage, AEUV Art. 108 (3) Notifizierung vor Durchführung, KonzVgV-Bekanntmachungsfristen.
-- Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg (Kommunalwirtschaftsrecht), GWB §§ 97 ff., AEUV Art. 107, 108 (Beihilferecht), KonzVgV, SektVO, GO NRW § 107 ff., LHO/BHO §§ 7, 55, KomHV-Doppik — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag, Beihilfenotifizierung, Wirtschaftlichkeitsuntersuchung nach BHO § 7, Beteiligungsbericht, Inhouse-Vergabe-Prüfung, Beschluss Gemeinderat — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-- ÖPP/PPP, Vergabe, Beihilfe, Konzession, kommunale Unternehmen
-- Daseinsvorsorge, Scheinprivatisierung, Inhouse, Projektfinanzierung
-- Wirtschaftlichkeitsvergleich, Risikoallokation, Haushalts- und Kommunalrecht
-- EU-Grundfreiheiten, Wettbewerbs-/Beihilferecht, Transparenz
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
-## Skill: `scheinprivatisierung-erkennen-oepp`
-
-_Öffentliches Wirtschaftsrecht: Scheinprivatisierung erkennen. Scheinprivatisierung erkennen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht._
-
-# Scheinprivatisierung Erkennen
+# Krankenhausgesellschaft Kommunikation
 
 ## Arbeitsweg
 
@@ -166,42 +223,11 @@ _Öffentliches Wirtschaftsrecht: Scheinprivatisierung erkennen. Scheinprivatisie
 
 ---
 
-## Skill: `haushaltsrechtliche-freigabe`
+## Skill: `messegesellschaft-kontrolle-sichern`
 
-_Öffentliches Wirtschaftsrecht: Haushaltsrechtliche Freigabe. Haushaltsrechtliche Freigabe im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht._
+_Wenn es um Messegesellschaft Kontrolle Sichern in Öffentliches Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Haushaltsrechtliche Freigabe
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GWB § 160 Abs. 3 Rüge unverzüglich/10 Kalendertage, § 161 Abs. 1 Nachprüfungsantrag 15 Kalendertage, AEUV Art. 108 (3) Notifizierung vor Durchführung, KonzVgV-Bekanntmachungsfristen.
-- Tragende Normen verifizieren: GG Art. 12, 14, 28 Abs. 2, GO NRW/BayGO/KomVG Brandenburg (Kommunalwirtschaftsrecht), GWB §§ 97 ff., AEUV Art. 107, 108 (Beihilferecht), KonzVgV, SektVO, GO NRW § 107 ff., LHO/BHO §§ 7, 55, KomHV-Doppik — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag, Beihilfenotifizierung, Wirtschaftlichkeitsuntersuchung nach BHO § 7, Beteiligungsbericht, Inhouse-Vergabe-Prüfung, Beschluss Gemeinderat — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-- ÖPP/PPP, Vergabe, Beihilfe, Konzession, kommunale Unternehmen
-- Daseinsvorsorge, Scheinprivatisierung, Inhouse, Projektfinanzierung
-- Wirtschaftlichkeitsvergleich, Risikoallokation, Haushalts- und Kommunalrecht
-- EU-Grundfreiheiten, Wettbewerbs-/Beihilferecht, Transparenz
-
-## Prüfroutine
-
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
----
-
-## Skill: `vergaberechtliche-vorpruefung`
-
-_Öffentliches Wirtschaftsrecht: Vergaberechtliche Vorprüfung. Vergaberechtliche Vorprüfung im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht._
-
-# Vergaberechtliche Vorpruefung
+# Messegesellschaft Kontrolle Sichern
 
 ## Arbeitsweg
 
@@ -228,11 +254,11 @@ _Öffentliches Wirtschaftsrecht: Vergaberechtliche Vorprüfung. Vergaberechtlich
 
 ---
 
-## Skill: `wirtschaftlichkeitsvergleich`
+## Skill: `autobahnprojekt-kommunikation-schreibe`
 
-_Öffentliches Wirtschaftsrecht: Wirtschaftlichkeitsvergleich. Wirtschaftlichkeitsvergleich im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht._
+_Wenn es um Autobahnprojekt Kommunikation Schreibe in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Wirtschaftlichkeitsvergleich
+# Autobahnprojekt Kommunikation Schreibe
 
 ## Arbeitsweg
 
@@ -256,14 +282,28 @@ _Öffentliches Wirtschaftsrecht: Wirtschaftlichkeitsvergleich. Wirtschaftlichkei
 3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- GG Art. 1, 3, 20 (Grundrechte, Rechtsstaat)
+- BGB §§ 133, 157, 242 (Auslegung, Treu und Glauben)
+- VwVfG §§ 28, 35, 48, 49 (Anhörung, Verwaltungsakt, Rücknahme/Widerruf)
+- VwGO §§ 42, 80, 113 (Anfechtungsklage, Eilrechtsschutz)
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
 ---
 
-## Skill: `gebuehrenfinanzierung-pruefen`
+## Skill: `autobahnprojekt-kontrolle-sichern`
 
-_Öffentliches Wirtschaftsrecht: Gebührenfinanzierung prüfen. Gebührenfinanzierung prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht._
+_Wenn es um Autobahnprojekt Kontrolle Sichern in Öffentliches Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Gebührenfinanzierung Prüfen
+# Autobahnprojekt Kontrolle Sichern
 
 ## Arbeitsweg
 
@@ -287,12 +327,26 @@ _Öffentliches Wirtschaftsrecht: Gebührenfinanzierung prüfen. Gebührenfinanzi
 3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- GG Art. 1, 3, 20 (Grundrechte, Rechtsstaat)
+- BGB §§ 133, 157, 242 (Auslegung, Treu und Glauben)
+- VwVfG §§ 28, 35, 48, 49 (Anhörung, Verwaltungsakt, Rücknahme/Widerruf)
+- VwGO §§ 42, 80, 113 (Anfechtungsklage, Eilrechtsschutz)
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

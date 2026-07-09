@@ -1,29 +1,37 @@
-# Megaprompt: versicherungsrecht
+# Vollprüfung: versicherungsrecht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 64 Skills des Plugins `versicherungsrecht`.
+Dieser Vollprüfung enthaelt top-10 von 64 Skills des Plugins `versicherungsrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **rechtsabteilung-betriebsunterbrechung** — Rechtsabteilungs-Fachmodul für Betriebsunterbrechung und Lieferkettenausfall: Unterbrechungsschaden, Trigger, Wartezeit …
-2. **rechtsabteilung-rechtsschutzversicherung-im-massenverfahren** — Rechtsabteilungs-Fachmodul für Rechtsschutzversicherung im Massenverfahren: Deckungsanfrage, Stichentscheid und Erfolgsa…
-3. **rechtsabteilung-d-umwelthaftpflicht** — Rechtsabteilungs-Fachmodul für D&O-Deckung bei Organhaftung: Notification, Serienschaden, Selbstbehalt und Ausschlüsse w…
-4. **rechtsabteilung-idd-vertrieb-und-provisionskonflikt** — Rechtsabteilungs-Fachmodul für IDD-Vertrieb und Provisionskonflikt: Produktvertrieb wird auf Interessenkonflikte, Dokume…
-5. **rechtsabteilung-cyberversicherung-nach-ransomware** — Rechtsabteilungs-Fachmodul für Cyberversicherung nach Ransomware: Deckung, Anzeige, Forensik und Lösegeldklauseln werden…
-6. **vvg-versicherung-wohngebaeude-leitungswasser** — Versicherung für fremde Rechnung: wer darf Leistung verlangen, wem stehen Einwendungen entgegen, welche Rolle haben Sich…
-7. **vers-fristen-verjaehrung-klagefrist-fallkalender** — Fristen und Ausschlussrisiken im Versicherungsrecht: Fälligkeit, Hemmung, Verjährung, Obliegenheitsfristen, Nachprüfungs…
-8. **eiopa-grenzueberschreitender-vertrieb** — Grenzüberschreitender Versicherungsvertrieb: Niederlassungs-/Dienstleistungsfreiheit, Host-/Home-Aufsicht, EIOPA, Passpo…
-9. **vers-ombudsmann-versicherungsbetrug** — Eskalationsrouting im Versicherungsrecht: Versicherungsombudsmann, PKV-Ombudsmann, BaFin-Beschwerde, Deckungsklage, eins…
-10. **vvg-gefahrerhoehung-mehrfachversicherung** — Gefahrerhöhung vor und nach Vertragsschluss: willentlich/unwillentlich, Anzeige, Kündigung, Leistungsfreiheit und Kausal…
+1. **lebensversicherung-rueckkaufswert** — Wenn es um Lebensversicherung: Rückkaufswert, Abschlusskosten, Widerspruch in Versicherungsrecht geht: ordnet Sachverhal…
+2. **rechtsabteilung-rechtsschutzversicherung-im-massenverfahren** — Wenn es um Rechtsabteilung: Rechtsschutzversicherung im Massenverfahren in Versicherungsrecht geht: ordnet Sachverhalt, …
+3. **versicherungsbetrug-verdachtsfall-kooperation-strafrecht** — Wenn es um Verdacht Versicherungsbetrug und Kooperation mit Strafrecht in Versicherungsrecht geht: ordnet Sachverhalt, N…
+4. **kfz-haftpflicht-kasko-grobe-krankentagegeld** — Wenn es um Kfz-Haftpflicht: Regress bei Alkohol, Flucht, Obliegenheit in Versicherungsrecht geht: ordnet Sachverhalt, No…
+5. **internationales-versicherungsprogramm-master-local-policy** — Wenn es um Internationale Versicherungsprogramme: Master und Local Policy in Versicherungsrecht geht: ordnet Sachverhalt…
+6. **betriebshaftpflicht-versicherungsfall-serienschaden** — Wenn es um Betriebshaftpflicht: Versicherungsfall und Serienschaden in Versicherungsrecht geht: ordnet Sachverhalt, Norm…
+7. **eiopa-grenzueberschreitender-vertrieb** — Wenn es um EIOPA und grenzüberschreitender Versicherungsvertrieb in Versicherungsrecht geht: ordnet Sachverhalt, Norm, B…
+8. **hausrat-einbruchdiebstahl-idd-vertrieb** — Wenn es um Hausrat: Einbruchdiebstahl und Entschädigungsgrenzen in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Be…
+9. **pkv-kostenerstattung-private** — Wenn es um PKV: Kostenerstattung und medizinische Notwendigkeit in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Be…
+10. **rechtsschutz-vorvertraglichkeit-schadenereignis** — Wenn es um Rechtsschutz: Vorvertraglichkeit und Schadenereignis in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Be…
 
 ---
 
-## Skill: `rechtsabteilung-betriebsunterbrechung`
+## Skill: `lebensversicherung-rueckkaufswert`
 
-_Rechtsabteilungs-Fachmodul für Betriebsunterbrechung und Lieferkettenausfall: Unterbrechungsschaden, Trigger, Wartezeit und Mitwirkung werden beweisbar gemacht. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Versicherungsrecht._
+_Wenn es um Lebensversicherung: Rückkaufswert, Abschlusskosten, Widerspruch in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Rechtsabteilung: Betriebsunterbrechung und Lieferkettenausfall
+# Lebensversicherung: Rückkaufswert, Abschlusskosten, Widerspruch
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Normenanker
 
@@ -40,50 +48,25 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 294 VAG` — Missstandsaufsicht.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+VVG §§ 150 ff., 169; VVG a.F. bei Altverträgen live prüfen; BGB; BGH-Rechtsprechung nur verifiziert verwenden.
 
-## Arbeitsweg
+## Red Flags
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Altvertrag ohne vollständige Unterlagen
+- Widerspruch wirtschaftlich überschätzt
+- Steuerfolgen vergessen
+- Vergleich ohne Berechnung
 
-## Spezialkern: Rechtsabteilung: Betriebsunterbrechung und Lieferkettenausfall
+## Anschluss-Skills
 
-- **Konkretes Problem:** Unterbrechungsschaden, Trigger, Wartezeit und Mitwirkung werden beweisbar gemacht.
-- **Norm-/Quellenanker:** einschlägige Spezialnormen des Plugin-Fachgebiets, amtliche Gesetzesfassungen, Behördenpraxis und verifizierte Rechtsprechung mit Datum und Aktenzeichen.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
-
-## Norm- und Rechtsprechungsanker
-
-VVG, AVB, Kausalitätsnachweis
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-Unterbrechungsschaden, Trigger, Wartezeit und Mitwirkung werden beweisbar gemacht.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
+- lebensversicherung-bezugsrecht-widerruf-aenderung
+- vag-bafin-aufsicht-beschwerde-missstand
 
 ---
 
 ## Skill: `rechtsabteilung-rechtsschutzversicherung-im-massenverfahren`
 
-_Rechtsabteilungs-Fachmodul für Rechtsschutzversicherung im Massenverfahren: Deckungsanfrage, Stichentscheid und Erfolgsaussicht werden taktisch vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Versicherungsrecht._
+_Wenn es um Rechtsabteilung: Rechtsschutzversicherung im Massenverfahren in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Rechtsabteilung: Rechtsschutzversicherung im Massenverfahren
 
@@ -143,197 +126,11 @@ Deckungsanfrage, Stichentscheid und Erfolgsaussicht werden taktisch vorbereitet.
 
 ---
 
-## Skill: `rechtsabteilung-d-umwelthaftpflicht`
+## Skill: `versicherungsbetrug-verdachtsfall-kooperation-strafrecht`
 
-_Rechtsabteilungs-Fachmodul für D&O-Deckung bei Organhaftung: Notification, Serienschaden, Selbstbehalt und Ausschlüsse werden für Vorstand/AR bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Versicherungsrecht._
+_Wenn es um Verdacht Versicherungsbetrug und Kooperation mit Strafrecht in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Rechtsabteilung: D&O-Deckung bei Organhaftung
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 VVG` — Versicherungsvertrag.
-- `§ 19 VVG` — vorvertragliche Anzeigepflicht.
-- `§ 28 VVG` — Obliegenheitsverletzung.
-- `§ 86 VVG` — Legalzession.
-- `§ 100 VVG` — Haftpflichtversicherung.
-- `§ 115 VVG` — Direktanspruch.
-- `§ 193 VVG` — Krankenversicherungspflicht.
-- `§ 1 VAG` — Anwendungsbereich Versicherungsaufsicht.
-- `§ 294 VAG` — Missstandsaufsicht.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialkern: Rechtsabteilung: D&O-Deckung bei Organhaftung
-
-- **Konkretes Problem:** Notification, Serienschaden, Selbstbehalt und Ausschlüsse werden für Vorstand/AR bewertet.
-- **Norm-/Quellenanker:** einschlägige Spezialnormen des Plugin-Fachgebiets, amtliche Gesetzesfassungen, Behördenpraxis und verifizierte Rechtsprechung mit Datum und Aktenzeichen.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
-
-## Norm- und Rechtsprechungsanker
-
-VVG, GmbHG § 43, AktG § 93, Claims-made-AVB
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-Notification, Serienschaden, Selbstbehalt und Ausschlüsse werden für Vorstand/AR bewertet.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
----
-
-## Skill: `rechtsabteilung-idd-vertrieb-und-provisionskonflikt`
-
-_Rechtsabteilungs-Fachmodul für IDD-Vertrieb und Provisionskonflikt: Produktvertrieb wird auf Interessenkonflikte, Dokumentation und Aufsicht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Versicherungsrecht._
-
-# Rechtsabteilung: IDD-Vertrieb und Provisionskonflikt
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 VVG` — Versicherungsvertrag.
-- `§ 19 VVG` — vorvertragliche Anzeigepflicht.
-- `§ 28 VVG` — Obliegenheitsverletzung.
-- `§ 86 VVG` — Legalzession.
-- `§ 100 VVG` — Haftpflichtversicherung.
-- `§ 115 VVG` — Direktanspruch.
-- `§ 193 VVG` — Krankenversicherungspflicht.
-- `§ 1 VAG` — Anwendungsbereich Versicherungsaufsicht.
-- `§ 294 VAG` — Missstandsaufsicht.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialkern: Rechtsabteilung: IDD-Vertrieb und Provisionskonflikt
-
-- **Konkretes Problem:** Produktvertrieb wird auf Interessenkonflikte, Dokumentation und Aufsicht geprüft.
-- **Norm-/Quellenanker:** einschlägige Spezialnormen des Plugin-Fachgebiets, amtliche Gesetzesfassungen, Behördenpraxis und verifizierte Rechtsprechung mit Datum und Aktenzeichen.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
-
-## Norm- und Rechtsprechungsanker
-
-IDD, GewO § 34d, VVG Beratungsdokumentation
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-Produktvertrieb wird auf Interessenkonflikte, Dokumentation und Aufsicht geprüft.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
----
-
-## Skill: `rechtsabteilung-cyberversicherung-nach-ransomware`
-
-_Rechtsabteilungs-Fachmodul für Cyberversicherung nach Ransomware: Deckung, Anzeige, Forensik und Lösegeldklauseln werden als Krisenfahrplan geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Versicherungsrecht._
-
-# Rechtsabteilung: Cyberversicherung nach Ransomware
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 VVG` — Versicherungsvertrag.
-- `§ 19 VVG` — vorvertragliche Anzeigepflicht.
-- `§ 28 VVG` — Obliegenheitsverletzung.
-- `§ 86 VVG` — Legalzession.
-- `§ 100 VVG` — Haftpflichtversicherung.
-- `§ 115 VVG` — Direktanspruch.
-- `§ 193 VVG` — Krankenversicherungspflicht.
-- `§ 1 VAG` — Anwendungsbereich Versicherungsaufsicht.
-- `§ 294 VAG` — Missstandsaufsicht.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialkern: Rechtsabteilung: Cyberversicherung nach Ransomware
-
-- **Konkretes Problem:** Deckung, Anzeige, Forensik und Lösegeldklauseln werden als Krisenfahrplan geprüft.
-- **Norm-/Quellenanker:** einschlägige Spezialnormen des Plugin-Fachgebiets, amtliche Gesetzesfassungen, Behördenpraxis und verifizierte Rechtsprechung mit Datum und Aktenzeichen.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
-
-## Norm- und Rechtsprechungsanker
-
-VVG, AVB Cyber, Obliegenheiten, DSGVO/NIS2
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-Deckung, Anzeige, Forensik und Lösegeldklauseln werden als Krisenfahrplan geprüft.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
----
-
-## Skill: `vvg-versicherung-wohngebaeude-leitungswasser`
-
-_Versicherung für fremde Rechnung: wer darf Leistung verlangen, wem stehen Einwendungen entgegen, welche Rolle haben Sicherungsnehmer, Leasinggeber, Mieter, Subunternehmer und Konzernunternehmen? im Versicherungsrecht._
-
-# Versicherung für fremde Rechnung §§ 43–48 VVG
+# Verdacht Versicherungsbetrug und Kooperation mit Strafrecht
 
 ## Arbeitsweg
 
@@ -358,27 +155,25 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 294 VAG` — Missstandsaufsicht.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-VVG §§ 43–48, 44, 45; BGB Abtretung/Einziehung; ZPO Prozessführungsbefugnis.
+VVG §§ 28, 31; StGB § 263; StPO; DSGVO; BGB.
 
 ## Red Flags
 
-- Leasingobjekt beschädigt
-- Bank als Sicherungsnehmer
-- Konzernpolice mit Tochtergesellschaft
-- versicherte Person will direkt klagen
+- vorschnelle Einlassung
+- Strafakte nicht beigezogen
+- Mitwirkung und Selbstbelastung nicht getrennt
 
 ## Anschluss-Skills
 
-- transportversicherung-ware-lagerung
-- direktanspruch-pflichtversicherung-115-vvg
+- Nutze den allgemeinen Skill des Plugins, wenn Rolle, Police/Vertrag, Frist oder Ziel noch nicht klar sind.
 
 ---
 
-## Skill: `vers-fristen-verjaehrung-klagefrist-fallkalender`
+## Skill: `kfz-haftpflicht-kasko-grobe-krankentagegeld`
 
-_Fristen und Ausschlussrisiken im Versicherungsrecht: Fälligkeit, Hemmung, Verjährung, Obliegenheitsfristen, Nachprüfungsfristen, Gutachtenfristen und prozessuale Termine sicher verwalten im Versicherungsrecht._
+_Wenn es um Kfz-Haftpflicht: Regress bei Alkohol, Flucht, Obliegenheit in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Fristenkalender für Versicherungsfälle
+# Kfz-Haftpflicht: Regress bei Alkohol, Flucht, Obliegenheit
 
 ## Arbeitsweg
 
@@ -403,25 +198,142 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 294 VAG` — Missstandsaufsicht.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-VVG §§ 14, 15, 28, 31, 215; BGB §§ 195, 199, 203, 204; ZPO; spartenspezifische AVB-Fristen.
+VVG §§ 28, 116; PflVG; AKB; StVG; StGB § 142 als Sachkontext.
 
 ## Red Flags
 
-- Ablehnung liegt Monate zurück
-- Verhandlungen nur telefonisch
-- Invalidität oder Berufsunfähigkeit nicht fristgerecht substantiiert
-- Ombudsmann als Hemmung überschätzt
+- Strafurteil ungeprüft übernommen
+- Regresshöchstgrenze übersehen
+- Fahrer und Halter verwechselt
+- Kausalitätsgegenbeweis nicht genutzt
 
 ## Anschluss-Skills
 
-- deckungsprozess-zuständigkeit-215-vvg
-- unfallversicherung-invaliditaet-fristen-gliedertaxe
+- kfz-kasko-grobe-fahrlaessigkeit-entwendung
+- subrogation-regress-86-vvg
+
+---
+
+## Skill: `internationales-versicherungsprogramm-master-local-policy`
+
+_Wenn es um Internationale Versicherungsprogramme: Master und Local Policy in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# Internationale Versicherungsprogramme: Master und Local Policy
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 VVG` — Versicherungsvertrag.
+- `§ 19 VVG` — vorvertragliche Anzeigepflicht.
+- `§ 28 VVG` — Obliegenheitsverletzung.
+- `§ 86 VVG` — Legalzession.
+- `§ 100 VVG` — Haftpflichtversicherung.
+- `§ 115 VVG` — Direktanspruch.
+- `§ 193 VVG` — Krankenversicherungspflicht.
+- `§ 1 VAG` — Anwendungsbereich Versicherungsaufsicht.
+- `§ 294 VAG` — Missstandsaufsicht.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+- Rom-I-VO für Rechtswahl und zwingende Versicherungs-/Aufsichtsnormen; Brüssel-Ia-VO für Gerichtsstand und Konzern-/Versicherungsgerichtsstände.
+- VVG für deutsche Versicherungsverträge, Obliegenheiten, Anzeige, Gefahrerhöhung, Leistungspflicht und Verjährung.
+- VAG und BaFin-Praxis für Erlaubnis-/Aufsichtsfragen, wenn ein ausländischer Versicherer deutsche Risiken zeichnet.
+- Lokales Aufsichtsrecht live prüfen: admitted/non-admitted, compulsory insurance, premium taxes, sanctions, claims payment, fronting.
+- Programmklauseln: DIC/DIL, Financial Interest Clause, Claims Cooperation, Sanctions Clause, Cut-through, Loss Payee, Captive/Reinsurance.
+
+## Red Flags
+
+- Local Policy übersehen
+- Steuern/Prämienabgaben vergessen
+- Claim Notice an falsche Stelle
+- Master verspricht Deckung, aber Local Law verbietet Zahlung ins Land
+- DIC/DIL wird als Vollversicherung missverstanden
+- Konzern-Risk-Manager meldet Claim, aber lokale Police verlangt Notice durch lokale Einheit
+
+## Anschluss-Skills
+
+- Nutze den allgemeinen Skill des Plugins, wenn Rolle, Police/Vertrag, Frist oder Ziel noch nicht klar sind.
+
+---
+
+## Skill: `betriebshaftpflicht-versicherungsfall-serienschaden`
+
+_Wenn es um Betriebshaftpflicht: Versicherungsfall und Serienschaden in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Betriebshaftpflicht: Versicherungsfall und Serienschaden
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 VVG` — Versicherungsvertrag.
+- `§ 19 VVG` — vorvertragliche Anzeigepflicht.
+- `§ 28 VVG` — Obliegenheitsverletzung.
+- `§ 86 VVG` — Legalzession.
+- `§ 100 VVG` — Haftpflichtversicherung.
+- `§ 115 VVG` — Direktanspruch.
+- `§ 193 VVG` — Krankenversicherungspflicht.
+- `§ 1 VAG` — Anwendungsbereich Versicherungsaufsicht.
+- `§ 294 VAG` — Missstandsaufsicht.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+VVG §§ 100–124; AVB/BHV; BGB Delikt/Vertrag; ZPO Streitverkündung.
+
+## Red Flags
+
+- Erfüllungsschaden als Haftpflichtschaden deklariert
+- Serienschadenzeitpunkt falsch
+- Abwehrdeckung unterschätzt
+- Selbstregulierung ohne Zustimmung
+
+## Anschluss-Skills
+
+- produkthaftpflicht-rueckrufkosten
+- subrogation-regress-86-vvg
+
+## Normen und Rechtsprechung
+
+### Kuratierte Normen-Bibliothek
+
+- § 19 VVG
+- § 28 VVG
+- § 115 VVG
+- § 86 VVG
+- § 1 VVG
+- § 100 VVG
+- § 193 VVG
+- § 1 VAG
+- § 294 VAG
+- § 215 VVG
+- § 22 VVG
+- § 14 VVG
+
+### Leitentscheidungen
+
+- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
+- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
 ---
 
 ## Skill: `eiopa-grenzueberschreitender-vertrieb`
 
-_Grenzüberschreitender Versicherungsvertrieb: Niederlassungs-/Dienstleistungsfreiheit, Host-/Home-Aufsicht, EIOPA, Passporting, Verbraucherbeschwerden und Sprach-/Informationspflichten im Versicherungsrecht._
+_Wenn es um EIOPA und grenzüberschreitender Versicherungsvertrieb in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # EIOPA und grenzüberschreitender Versicherungsvertrieb
 
@@ -464,11 +376,11 @@ VAG; IDD; Solvency II; EIOPA-Veröffentlichungen live prüfen; Rom-I/Brüssel-Ia
 
 ---
 
-## Skill: `vers-ombudsmann-versicherungsbetrug`
+## Skill: `hausrat-einbruchdiebstahl-idd-vertrieb`
 
-_Eskalationsrouting im Versicherungsrecht: Versicherungsombudsmann, PKV-Ombudsmann, BaFin-Beschwerde, Deckungsklage, einstweiliger Rechtsschutz und Vergleichsdruck sauber unterscheiden im Versicherungsrecht._
+_Wenn es um Hausrat: Einbruchdiebstahl und Entschädigungsgrenzen in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Ombudsmann, BaFin-Beschwerde oder Klage?
+# Hausrat: Einbruchdiebstahl und Entschädigungsgrenzen
 
 ## Arbeitsweg
 
@@ -493,27 +405,27 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 294 VAG` — Missstandsaufsicht.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-VVG §§ 214 ff., § 215; VAG Aufsicht; ZPO; Ombudsmann-Verfahrensordnungen live prüfen; BaFin-Verbraucherbeschwerde.
+VVG §§ 1, 28, 81; VHB/AVB; StGB Indizien nur als Tatsachen; ZPO.
 
 ## Red Flags
 
-- BaFin als Leistungsgericht missverstanden
-- Ombudsmann bei hohem Streitwert ungeeignet
-- Klagefrist/Verjährung läuft parallel
-- PKV-Ombudsmann und Versicherungsombudsmann verwechselt
+- nur Erinnerungswerte ohne Belege
+- Einbruchspuren fehlen
+- Tresorklausel übersehen
+- Sicherungsobliegenheit nachträglich behauptet
 
 ## Anschluss-Skills
 
-- deckungsprozess-zuständigkeit-215-vvg
-- rechtsschutz-deckungszusage-stichentscheid
+- vvg-obliegenheit-28-quotelung-kausalitaet
+- vergleich-abfindung-entschaedigungsquittung
 
 ---
 
-## Skill: `vvg-gefahrerhoehung-mehrfachversicherung`
+## Skill: `pkv-kostenerstattung-private`
 
-_Gefahrerhöhung vor und nach Vertragsschluss: willentlich/unwillentlich, Anzeige, Kündigung, Leistungsfreiheit und Kausalitätsprüfung in Sach-, Haftpflicht- und Personenversicherungen im Versicherungsrecht._
+_Wenn es um PKV: Kostenerstattung und medizinische Notwendigkeit in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Gefahrerhöhung §§ 23–27 VVG
+# PKV: Kostenerstattung und medizinische Notwendigkeit
 
 ## Arbeitsweg
 
@@ -538,25 +450,70 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 294 VAG` — Missstandsaufsicht.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-VVG §§ 23–27, 81; BGB §§ 133, 157; AVB.
+VVG §§ 192, 193, 194, 203; MB/KK; GOÄ/GOZ; BGB; ZPO medizinischer Sachverständiger.
 
 ## Red Flags
 
-- bloße Wertsteigerung als Gefahrerhöhung verkauft
-- Nutzungsänderung nicht kausal
-- Versicherer kannte die Änderung
-- AVB verschieben gesetzliche Wertungen unangemessen
+- Arztbrief ersetzt keine Notwendigkeitsbegründung
+- Gebührenstreit und Deckungsstreit vermischt
+- Hilfsmittel nicht tariflich geprüft
+- Schweigepflichtentbindung zu weit
 
 ## Anschluss-Skills
 
-- wohngebaeude-leitungswasser-sturm-hagel-brand
-- kfz-kasko-grobe-fahrlaessigkeit-entwendung
+- datenschutz-schweigepflicht-gesundheitsdaten
+- krankentagegeld-berufsunfaehigkeit-abgrenzung
+
+---
+
+## Skill: `rechtsschutz-vorvertraglichkeit-schadenereignis`
+
+_Wenn es um Rechtsschutz: Vorvertraglichkeit und Schadenereignis in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Rechtsschutz: Vorvertraglichkeit und Schadenereignis
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1 VVG` — Versicherungsvertrag.
+- `§ 19 VVG` — vorvertragliche Anzeigepflicht.
+- `§ 28 VVG` — Obliegenheitsverletzung.
+- `§ 86 VVG` — Legalzession.
+- `§ 100 VVG` — Haftpflichtversicherung.
+- `§ 115 VVG` — Direktanspruch.
+- `§ 193 VVG` — Krankenversicherungspflicht.
+- `§ 1 VAG` — Anwendungsbereich Versicherungsaufsicht.
+- `§ 294 VAG` — Missstandsaufsicht.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+VVG §§ 125 ff.; ARB; BGB; ZPO.
+
+## Red Flags
+
+- Kündigungsschutzfall falsch datiert
+- Dauerverstoß pauschal angenommen
+- Wartezeit übersehen
+- Beratungs- und Prozessrechtsschutz verwechselt
+
+## Anschluss-Skills
+
+- rechtsschutz-deckungszusage-stichentscheid
+- deckungsprozess-zuständigkeit-215-vvg
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

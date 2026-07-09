@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Paragraf 43 BRAO — Sorgfaltspflicht; Paragraf 49b Abs. 5 BRAO — Kostenbelehrungspflicht; Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG |
-| Rechtsprechung | Geprüft; Ersatz |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Tragende Normen verifizieren: BRAO Paragrafen 43a, 44, 49b, BORA Paragrafen 2, 11, BGB Paragrafen 145 ff., 280 |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -55,8 +55,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 12 BGB — Namensrecht: Recht auf korrekte Namensnennung auch in der Korrespondenz: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Symptom: Normzitat ohne Fassungsprüfung (BRAO Paragraf 43 Sachlichkeit): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 4 KSchG — Kündigungsschutzklage-Frist: 3 Wochen ab Zugang der Kündigung (Notfrist): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Geprüft: BGH VI ZR 7/20 (abrufen auf dejure.org)
-- Ersatz: BGH VI ZR 246/19, NJW 2020, 3715 (verifiziert auf dejure.org)
 
 ## 7. Antwortform
 

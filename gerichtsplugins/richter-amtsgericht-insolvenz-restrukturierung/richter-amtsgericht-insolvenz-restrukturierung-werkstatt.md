@@ -98,9 +98,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Vorsatzanfechtung verlangt Gesamtwürdigung der Indizien.
 - BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Sanierungsversuch kann Vorsatzanfechtung beeinflussen, wenn er tragfähig ist.
 - BGH, Urteil vom 28.06.2012 - IX ZR 219/10: Bargeschäftsnaehe kann Anfechtungsrisiken begrenzen.
-- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten
-- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners
-- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen
 
 ## 9. Prüfraster
 

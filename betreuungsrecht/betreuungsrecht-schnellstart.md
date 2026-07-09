@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Paragraf 1814 BGB; Paragrafen 1816 ff. BGB; Paragraf 1821 BGB |
-| Rechtsprechung | BGH, Urteil vom 02.07.2025 - IV ZR 93/24; Die Entscheidung des OLG Nürnberg ist Ausdruck der sauberen Trennung |
+| Rechtsprechung | BGH, Urteil vom 02.07.2025 - IV ZR 93/24; BGH, Beschluss vom 24.09.2025 - XII ZB 513/24 |
 | Tatbestand | Tragende Normen verifizieren: BtOG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -56,7 +56,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragrafen 1848 ff. BGB — Genehmigungspflichtige Rechtsgeschäfte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1814 Abs. 1 BGB — Betreuungsvoraussetzungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 02.07.2025 - IV ZR 93/24: Strukturanaloge Bestätigung der Trennung von Berufsrecht und Erbrecht. Eine Zuwendung von Todes wegen an den behandelnden Arzt ist nicht deshalb unwirksam, weil
-- Die Entscheidung des OLG Nürnberg ist Ausdruck der sauberen Trennung zwischen Berufsrecht (sanktioniert den Betreuer) und materiellem Erbrecht (sanktioniert den Vorgang nicht, weil der Erblasser frei
 - BGH, Beschluss vom 24.09.2025 - XII ZB 513/24: Bei der Bestellung eines Verhinderungsbetreuers gelten die Auswahlkriterien des Paragraf 1816 BGB. Der Wunsch der/des Betroffenen, durch eine nahe Angehörige
 
 ## 7. Antwortform

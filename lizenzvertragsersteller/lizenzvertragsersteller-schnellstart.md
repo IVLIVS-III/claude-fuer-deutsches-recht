@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | UrhG Paragrafen 31, 32, 32a (Urheberrechtslizenzen, angemessene; PatG Paragrafen 9, 15 (Lizenz); Paragraf 24 (Zwangslizenz); MarkenG Paragrafen 30 (Lizenz), 27 (Übertragung) |
-| Rechtsprechung | → Nach Schrems II (EuGH C-311/18) |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -55,7 +55,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - InsO Paragraf 103 (Wahlrecht des Verwalters bei gegenseitigen Verträgen): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 101 AEUV - Kartellverbot: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 101 Abs. 3 AEUV - Freistellungsmöglichkeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- → Nach Schrems II (EuGH C-311/18): Transfer Impact Assessment (TIA) bei jedem Drittlandstransfer Pflicht
 
 ## 7. Antwortform
 

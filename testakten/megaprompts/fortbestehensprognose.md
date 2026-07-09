@@ -1,32 +1,32 @@
-# Megaprompt: fortbestehensprognose
+# Vollprüfung: fortbestehensprognose
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 59 Skills des Plugins `fortbestehensprognose`.
+Dieser Vollprüfung enthaelt top-15 von 59 Skills des Plugins `fortbestehensprognose`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für Fortbestehensprognose StaRUG/InsO: ordnet Rolle (Geschäftsführung, Wirtschaftsprüfer, I…
-2. **fortbestehensprognose-erstpruefung-und-mandatsziel** — Fortbestehensprognose: Erstprüfung, Rollenklärung und Mandatsziel im Fortbestehensprognose.
-3. **annahmen-belastbarkeit-plausibilisieren** — Plausibilisiert die in `annahmen-sammeln-fortführung` gesammelten Annahmen. Prüfraster Konsistenz mit Vergangenheit (BWA…
-4. **annahmen-sammeln-bilanzieller-status** — Sammelt die Annahmen die der Geschäftsführer der Fortbestehensprognose zu Grunde legt. Umsatzentwicklung Kostenentwicklu…
-5. **ausloesendes-ereignis-erfassen** — Erfasst den Anlass der Fortbestehensprognose. Typische Auslöser sind Hinweis des Steuerberaters nach § 102 StaRUG Hinwei…
-6. **bilanzieller-status-aufnehmen** — Nimmt die bilanzielle Ausgangslage auf — Aktiva Passiva Eigenkapital nach HGB-Stichtagsbilanz. Prüfraster bilanzielle Üb…
-7. **forderungsverzicht-besserungsschein** — Erzeugt eine Forderungsverzichtsvereinbarung mit Besserungsschein. Gläubiger verzichtet auf Forderung — bei Wiedererstar…
-8. **kaltstart-interview** — Kaltstart-Interview für das Fortbestehensprognose-Plugin. Stellt fest wer das Plugin nutzt (Geschäftsführer / Vorstand /…
-9. **start-chronologie-fristen** — Einstieg, Schnelltriage und Fallrouting im Fortbestehensprognose-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken…
-10. **stundungsanfrage-glaeubiger** — Erzeugt Stundungsanfragen an Gläubiger (Lieferanten Bank Vermieter Steueramt Sozialversicherungstraeger). Erfasst pro Gl…
-11. **comfortletter-weich-erzeugen** — Erzeugt einen Comfortletter — eine weiche Erklärung des Patrons oder Mutterunternehmens das Tochterunternehmen zu unters…
-12. **prognose-stichtag-stundungsanfrage-glaeubiger** — Abschließende Selbstdokumentation der Fortbestehensprognose zum konkreten Stichtag. Enthaelt Ausgangslage Annahmen Plaus…
-13. **sanierungsbausteine-vorschlagen-annahmen** — Wenn die Fortbestehensprognose ohne Maßnahmen negativ oder knapp positiv ist schlaegt dieser Skill konkrete Sanierungsba…
-14. **zusammenfuehren** — Führt alle Bausteine zusammen — bilanzieller Status Annahmen Plausibilisierung 12-Monats-Liquiditaet Sensitivitaetsszena…
-15. **quellen-livecheck** — Quellen-Live-Check für Fortbestehensprognose StaRUG/InsO: prüft Normen (§ 18 InsO drohende Zahlungsunfähigkeit, StaRUG §…
+1. **einstieg-routing** — Wenn es um Einstieg und Routing in Fortbestehensprognose geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nä…
+2. **fortbestehensprognose-erstpruefung-und-mandatsziel** — Wenn es um Fortbestehensprognose: Erstprüfung, Rollenklärung und Mandatsziel in Fortbestehensprognose geht: klärt Rolle,…
+3. **plausibilisierung-schriftsatz-brief-und-memo-bausteine** — Wenn es um Plausibilisierung: Schriftsatz-, Brief- und Memo-Bausteine in Fortbestehensprognose geht: erstellt den passen…
+4. **sanierungsbausteine-compliance-dokumentation-und-akte** — Wenn es um Sanierungsbausteine: Compliance-Dokumentation und Aktenvermerk in Fortbestehensprognose geht: ordnet Akteninh…
+5. **fortbestehensdokumentation-insolvenzrecht** — Wenn es um Fortbestehensdokumentation mit insolvenzrechtlicher Tragfähigkeit in Fortbestehensprognose geht: ordnet Akten…
+6. **kaltstart-interview** — Wenn es um /fortbestehensprognose:fortbestehensprognose-kaltstart-interview in Fortbestehensprognose geht: klärt Rolle, …
+7. **bilanzstatus-risikoampel-und-gegenargumente** — Wenn es um Bilanzstatus: Risikoampel, Gegenargumente und Verteidigungslinien in Fortbestehensprognose geht: zerlegt Erge…
+8. **liquiditaet-patronatserklaerung-interessen** — Wenn es um Liquiditaet: Zahlen, Schwellenwerte und Berechnung in Fortbestehensprognose geht: rechnet Schwellen, Beträge,…
+9. **forderungsverzicht-mandantenentscheidung** — Wenn es um Forderungsverzicht: Mandantenkommunikation und Entscheidungsvorlage in Fortbestehensprognose geht: prüft Fris…
+10. **wenn-prognose-negativ-naechste-schritte** — Wenn es um Wenn Prognose Negativ Naechste Schritte in Fortbestehensprognose geht: erstellt den passenden Entwurf aus Sac…
+11. **patronatserklaerung-mehrparteien-konflikt-und-interessen** — Wenn es um Patronatserklaerung: Mehrparteienkonflikt und Interessenmatrix in Fortbestehensprognose geht: prüft Frist, Fo…
+12. **spezial-geschaeftsfuehrer-fristen-form-und-zustaendigkeit** — Wenn es um Geschaeftsfuehrer: Fristen, Form, Zuständigkeit und Rechtsweg in Fortbestehensprognose geht: prüft Frist, For…
+13. **fp-dokumentation-gerichtsfaehigkeit** — Wenn es um FP: Dokumentation-Gerichtsfaehigkeit in Fortbestehensprognose geht: ordnet Akteninhalt, Belege, Lücken und Na…
+14. **geschaeftsfuehrer-fristen-form-und-zustaendigkeit** — Wenn es um Geschäftsführer: Fristen, Form, Zuständigkeit und Rechtsweg in Fortbestehensprognose geht: prüft Frist, Form,…
+15. **comfortletter-sonderfall-edge** — Wenn es um Comfortletter: Internationaler Bezug und Schnittstellen in Fortbestehensprognose geht: prüft Frist, Form, Zus…
 
 ---
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Fortbestehensprognose StaRUG/InsO: ordnet Rolle (Geschäftsführung, Wirtschaftsprüfer, Insolvenzverwalter), markiert Frist (Antragsfrist 3 Wochen § 15a InsO), wählt Norm (§ 18 InsO drohende Zahlungsunfähigkeit, StaRUG §§ 1/14/49, IDW S 11) und Zuständigkeit (Insolv..._
+_Wenn es um Einstieg und Routing in Fortbestehensprognose geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Einstieg und Routing
 
@@ -70,23 +70,24 @@ Dieser Einstieg routet **Fortbestehensprognose** vom ersten Sachverhalt zu Rolle
 
 ## Skill: `fortbestehensprognose-erstpruefung-und-mandatsziel`
 
-_Fortbestehensprognose: Erstprüfung, Rollenklärung und Mandatsziel im Fortbestehensprognose._
+_Wenn es um Fortbestehensprognose: Erstprüfung, Rollenklärung und Mandatsziel in Fortbestehensprognose geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Fortbestehensprognose: Erstprüfung, Rollenklärung und Mandatsziel
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Fortbestehensprognose Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fortbestehensprognose** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Normenanker
 
@@ -134,11 +135,26 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `annahmen-belastbarkeit-plausibilisieren`
+## Skill: `plausibilisierung-schriftsatz-brief-und-memo-bausteine`
 
-_Plausibilisiert die in `annahmen-sammeln-fortführung` gesammelten Annahmen. Prüfraster Konsistenz mit Vergangenheit (BWA SuSa Jahresabschluss) Marktentwicklung (Branche makroekonomisch) Konsistenz untereinander (Umsatz vs Material vs Personal) und Risikokategorisierung. Plausibilitaetsband für je..._
+_Wenn es um Plausibilisierung: Schriftsatz-, Brief- und Memo-Bausteine in Fortbestehensprognose geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Annahmen plausibilisieren
+# Plausibilisierung: Schriftsatz-, Brief- und Memo-Bausteine
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
@@ -148,173 +164,47 @@ _Plausibilisiert die in `annahmen-sammeln-fortführung` gesammelten Annahmen. Pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfraster pro Annahme
+## Spezialwissen: Plausibilisierung: Schriftsatz-, Brief- und Memo-Bausteine
+- **Normen-/Quellenanker:** InsO, IDW, StaRUG.
 
-### 1. Vergangenheits-Vergleich
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-- Stimmt die Annahme mit den **letzten drei Jahren** der BWA / SuSa / Jahresabschluss überein?
-- Bei Abweichung: ist die Veränderung **konkret begründet** (neuer Kunde Standortschliessung Tariferhöhung)?
-- Bei stark abweichender Optimismus-Annahme **ohne neuen Anlass**: Reduktion auf historisches Niveau im Plausi-Szenario.
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-### 2. Markt- und Branchenentwicklung
-
-- **Branchenindex** vorhanden? (z. B. ifo Geschäftsklimaindex DESTATIS Branchenkennzahlen).
-- **Auftragsbestand der Branche** rückschau.
-- **Makro-Indikatoren** Konjunktur Zinsen Energiepreise.
-
-### 3. Interne Konsistenz
-
-- Umsatz steigt, aber Materialkosten bleiben gleich? Konsistenz prüfen.
-- Personalkosten steigen, aber Personalstand sinkt? Begründung erforderlich (Tariferhöhung + Reduzierung gleichzeitig).
-- Working Capital verbessert sich rapide? Begründung notwendig.
-
-### 4. Belegbarkeit der Maßnahmen
-
-- Sanierungsmaßnahmen mit Effekt — ist der Effekt **belegt** (Vergleichswerte historisch Kostenrechnung)?
-- Zeitplan realistisch (z. B. Standortschliessung in 60 Tagen)?
-- Einmalkosten realistisch erfasst?
-
-### 5. Drittvereinbarungen
-
-- Patronatserklärungen / Comfortletter: bereits unterzeichnet oder nur in Verhandlung?
-- Gesellschafterdarlehen mit Rangrücktritt: notarielle Urkunde vorhanden?
-- Bankenzusage: schriftlich oder mundlich?
-
-## Plausibilitätsband pro Annahme
-
-```yaml
-plausibilisierung:
- - annahme-id: umsatz-hauptsegment
- band: realistisch # konservativ / realistisch / ambitioniert / nicht-belastbar
- begruendung: |
- Auftragsbestand bis 09/2026 belegt; ab 10/2026 Modellfortschreibung
- auf Basis Vorjahr +3%
- risiko: mittel
- sensitivitaet-szenario:
- negativ: 10% Umsatzrückgang ab 10/2026
- effekt-eur: -190000 (kumuliert)
-
- - annahme-id: kostensenkung-standort
- band: ambitioniert
- begruendung: |
- Kündigung Standortmietvertrag erfordert 9-Monats-Kündigungsfrist;
- Schliessung bis 08/2026 nur möglich wenn Mieter Aufhebung akzeptiert.
- Aktuell in Verhandlung — nicht belegt.
- risiko: hoch
- sensitivitaet-szenario:
- negativ: Schliessung gelingt nicht im Planhorizont
- effekt-eur: 50000 monatliche Mehrkosten
-
- - annahme-id: bankenzusage-erhöhung-kreditlinie
- band: nicht-belastbar
- begruendung: |
- Verhandlung mit Bank laeuft. Bisher keine schriftliche Zusage.
- Bank verweist auf laufendes Rating-Verfahren.
- risiko: hoch
- sensitivitaet-szenario:
- negativ: Kreditlinie wird nicht erhöht
- effekt-eur: keine zusätzliche Liquidität 80000 EUR
-```
-
-## Konservativer Maßstab
-
-Eine Fortbestehensprognose ist nicht der Ort für Optimismus. **IDW S 11** und **BGH-Rspr.** verlangen einen vorsichtigen objektiven Maßstab.
-
-- Bei Zweifeln: **konservative** Annahmen wählen.
-- Wenn eine Annahme **ambitioniert** oder **nicht-belastbar** ist und entscheidend für das Prognoseergebnis ist: das Ergebnis ist **nicht verwertbar** als positive Fortbestehensprognose. Maßnahme: entweder Belegbarkeit nachholen oder Annahme entfernen.
-
-## Sensitivitätsszenarien
-
-```yaml
-szenarien:
- basisszenario:
- annahmen: alle wie in annahmen.yaml
- ergebnis-12-monate-liquiditaet: positiv
- bemerkung: Plan-Szenario
-
- negativ-szenario:
- annahmen: alle ambitioniert-Annahmen reduziert auf konservativ
- ergebnis-12-monate-liquiditaet: knapp positiv # vor Maßnahmen
- bemerkung: Risiko-Szenario; bei Eintritt sind Zusatzmaßnahmen erforderlich
-
- stress-szenario:
- annahmen: zusätzlich Wegfall Top-Kunde
- ergebnis-12-monate-liquiditaet: negativ
- bemerkung: Reines Stress-Szenario; in der Plausibilisierung
- als unwahrscheinlich eingeschaetzt
-```
-
-## Sonderfälle
-
-### Stille Reserven die zur Plausibilisierung herangezogen werden
-
-Wenn der Status stille Reserven enthält (Skill `bilanzieller-status-aufnehmen`) muss die Liquidität auch realistisch über Verkauf erzielbar sein:
-
-- Verkehrswert-Gutachten vorhanden?
-- Realistisch verkaufbar im Planhorizont?
-- Auswirkung auf den Betrieb (z. B. Verkauf einer Maschine führt zu Produktionsausfall)?
-
-### Comfortletter
-
-- **Weicher Comfortletter** (Best Effort) ist im Status **nicht** zu berücksichtigen.
-- **Harte externe Patronatserklärung** mit Forderungsverzicht im Insolvenzfall ist berücksichtigungsfähig — siehe Skill `patronatserklaerung-extern-hart-erzeugen`.
-
-## Ausgabe
-
-- `plausibilisierung.md` mit jeder Annahme bewertet (Band Risiko Sensitivitaet).
-- Drei Szenarien (Basis Negativ Stress) mit Endergebnis.
-- Empfehlung: bei mehr als zwei nicht-belastbaren oder ambitionierten Annahmen die das Ergebnis tragen ist die Prognose **nicht positiv** zu werten.
-- Liste konkreter Maßnahmen zur Verbesserung der Belastbarkeit (Belegnachholung Verhandlungsabschluss Drittvereinbarung).
-
-## Aktuelle Leitentscheidungen — Annahmen-Plausibilitaet
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Paragrafenkette Annahmen-Plausibilitaet
-
-§ 19 Abs. 2 InsO (Fortbestehensprognose) → § 15b InsO (Haftung bei fehlerhafter Prognose) → IDW S 11 Rn. 45 ff. (Annahmen-Qualitaet) → IDW S 6 Rn. 90 ff. (Plausibilitaetspruefung Sanierungskonzept)
-
-## Triage — Annahmen-Check
-
-Bevor losgelegt wird, klaere:
-
-1. **Konsistenz-Test:** Passt Umsatzwachstum zu Personalkosten und Material? (Umsatz +10% ohne Personal-Aufstockung bei Vollauslastung → inkonsistent)
-2. **Vergangenheits-Abgleich:** Welche Wachstumsraten wurden in den letzten 3 Jahren tatsaechlich erreicht? Neue Annahmen müssen daraus ableitbar sein.
-3. **Sensitivity-Test:** Welche Annahme ist am kritischsten? Was passiert wenn Haupt-Kunden 20% weniger abnimmt?
-4. **Worst-Case-Szenario:** Prognose auch bei pessimistischsten Annahmen noch positiv?
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 43 GmbHG
-- § 3a EStG
-- § 102 StaRUG
-- § 266a StGB
-- § 1 StaRUG
-- § 93 AktG
-- § 2 HRG
-- § 4 HRG
-- § 7 HRG
-- § 15 HRG
-- § 16 HRG
-- § 70 VwG
-
-### Leitentscheidungen
-
-- BGH II ZR 296/05
-- BGH IX ZR 285/14
-- BGH IX ZR 56/22
-- BGH II ZR 206/22
-- BGH IV ZR 66/25
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Plausibilisierung** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `annahmen-sammeln-bilanzieller-status`
+## Skill: `sanierungsbausteine-compliance-dokumentation-und-akte`
 
-_Sammelt die Annahmen die der Geschäftsführer der Fortbestehensprognose zu Grunde legt. Umsatzentwicklung Kostenentwicklung Personalkostenentwicklung Investitionen Working-Capital Saisonalitaet Auftragsbestand Kunden-Konzentration Markt- und Branchenentwicklung. Annahmen muessen konkret nachvollzi..._
+_Wenn es um Sanierungsbausteine: Compliance-Dokumentation und Aktenvermerk in Fortbestehensprognose geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Annahmen sammeln (Fortführung)
+# Sanierungsbausteine: Compliance-Dokumentation und Aktenvermerk
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
@@ -324,321 +214,32 @@ _Sammelt die Annahmen die der Geschäftsführer der Fortbestehensprognose zu Gru
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Pflichtfelder pro Annahme
+## Spezialwissen: Sanierungsbausteine: Compliance-Dokumentation und Aktenvermerk
+- **Normen-/Quellenanker:** InsO, IDW, StaRUG.
 
-```yaml
-annahmen:
- - bezeichnung: Umsatzentwicklung Hauptgeschaeft
- art: umsatz
- horizont-monate: 12
- werte:
- - monat: 2026-06
- wert: 195000
- - monat: 2026-07
- wert: 180000
- # ...
- begruendung: |
- Vorjahreswerte plus 3% Wachstum bei stabiler Auftragslage.
- Auftragsbestand zum 20.05.2026 deckt bis September 2026.
- belege:
- - auftragsbestand-2026-05-20.xlsx
- - kundenbestätigung-grossauftrag-X.pdf
- risiko: mittel # niedrig / mittel / hoch
- sensitivitaet:
- negativ-szenario: -15% Umsatz waehrend zweier Monate
- positiv-szenario: +10% Umsatz
-```
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-## Annahmebereiche
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-### 1. Umsatzentwicklung
-
-- **Auftragsbestand** zum Stichtag.
-- **Kundenpipeline** quasi-sichere Folgeaufträge.
-- **Saisonalität** historisch über drei Jahre.
-- **Top-Kunden-Konzentration** Risiko bei Wegfall.
-
-### 2. Kostenentwicklung
-
-- **Materialkosten** Lieferantenpreise Energie.
-- **Personalkosten** Tarifsteigerungen Sozialabgaben.
-- **Mieten** Vertragsprüfung Indexmiete.
-- **Energie** aktueller Preis und Vertragslaufzeit.
-
-### 3. Working Capital
-
-- **Forderungslaufzeiten** Tage Outstanding (DSO).
-- **Vorrats-Reichweite** Umschlagsdauer.
-- **Lieferanten-Zahlungsziele** ggf. verschlechtert wegen Krise (DPO).
-
-### 4. Investitionen und Desinvestitionen
-
-- **Geplante Investitionen** und ihre Finanzierung.
-- **Desinvestitionen** Verkauf nicht-betriebsnotwendiger Vermögenswerte.
-
-### 5. Finanzierung
-
-- **Bestehende Kreditlinien** Volumen Ausnutzung Endfälligkeit.
-- **Tilgungspläne** der bestehenden Darlehen.
-- **Neue Finanzierungsangebote** Bank schriftliche Zusagen.
-- **Gesellschafterzusagen** Patronatserklärungen Comfortletter.
-
-### 6. Sanierungsmaßnahmen
-
-- **Bereits eingeleitete** Maßnahmen (Kostensenkung Personalreduzierung Standortschliessungen).
-- **Geplante** Maßnahmen mit Zeitplan und Effekt.
-- **Gegenfinanzierung** der Sanierungskosten.
-
-## Abgrenzung zwischen Annahmen und Wünschen
-
-**Annahme**: Eine konkrete nachvollziehbare Erwartung mit Begründung und Beleg.
-
-**Wunsch**: Eine optimistische Hoffnung ohne Beleg.
-
-Im Streit (z. B. späteren Haftungsprozess) wird genau geprüft ob es Wünsche oder Annahmen waren. Wer optimistisch ohne Belege geplant hat ist haftungsexponiert (§ 43 GmbHG, § 15b InsO).
-
-## Konkretheit
-
-Jede Annahme braucht:
-
-- **Zahl** (in EUR oder Prozent oder Tagen) — keine Spannweiten außer bei Sensitivitaet.
-- **Zeitraum** — Monat oder Quartal.
-- **Begründung** — woher kommt die Zahl?
-- **Beleg** — Excel Auftragsbestand Bestätigung Kunde Mietvertrag etc.
-
-## Sammlung der Annahmen
-
-```yaml
-prognose-id: FP-2026-0001
-stichtag: 2026-05-20
-horizont-monate: 12 # gesetzlicher Maßstab seit SanInsFoG 2021
-
-annahmen:
- umsatz:
- - bezeichnung: Hauptsegment Produktion
- monatswerte: [195000, 180000, 220000, 240000, 230000, 200000, 190000, 195000, 210000, 220000, 215000, 225000]
- begruendung: Auftragsbestand bis September 2026; Mai-Oktober historisch +10% über Schnitt
- belege: [auftragsbestand-2026-05-20.xlsx]
- risiko: mittel
-
- kosten:
- - bezeichnung: Material und Energie
- basismonats-wert: 95000
- jahressteigerung: 3%
- begruendung: Lieferantenverträge bis 06/2027 Indexbindung 3%
- belege: [lieferantenverträge-übersicht.xlsx]
- risiko: niedrig
- - bezeichnung: Personalkosten
- basismonats-wert: 78000
- jahressteigerung: 4%
- begruendung: Tarifabschluss Metall 04/2026 4% per 01.07.2026
- belege: [tarifabschluss-04-2026.pdf]
- risiko: niedrig
-
- working-capital:
- forderungstage-soll: 30
- forderungstage-ist: 42
- vorratsreichweite-soll: 60
- vorratsreichweite-ist: 75
- begruendung-abweichung: kundenseits verzoegerte Zahlungen seit Q1 2026
- massnahmen: Mahnwesen verschärft
-
- investitionen:
- - bezeichnung: Ersatzinvestition CNC
- betrag: 80000
- monat: 2026-09
- finanzierung: Sale-and-Lease-back
-
- finanzierung:
- bank-kreditlinie: 150000
- ausnutzung-ist: 92%
- gesellschafterdarlehen-mit-rangruecktritt: 120000
- weitere-massnahmen: keine
-
- sanierungsmassnahmen:
- - bezeichnung: Standortschliessung Nebenwerk
- effekt-monatlich: 12000
- ab-monat: 2026-08
- einmalkosten: 60000
- einmalkosten-monat: 2026-07
-```
-
-## Ausgabe
-
-- `annahmen.yaml` mit allen Pflichtfeldern.
-- Hinweis auf Skill `annahmen-belastbarkeit-plausibilisieren` als nächsten Schritt.
-- Liste fehlender Belege als Prüfer-Flag.
-- Empfehlung: bei einer Annahme die als unbelegt markiert ist *nicht* in die Liquidität übernehmen — oder explizit als "Modellannahme ohne Beleg" markieren.
-
-## Aktuelle Leitentscheidungen — Annahmen-Sammlung Fortbestehensprognose
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Triage — Annahmen-Vollstaendigkeit
-
-1. **Einnahmen-Seite vollstaendig?** Auftragsbestand, Rahmenvertraege, Neukundenpipeline — alle konkret belegbar?
-2. **Kosten-Seite vollstaendig?** Personal (inkl. SV), Material/Wareneinsatz, Fixkosten, Miete, Finanzierungskosten — alle als Einzelpositionen?
-3. **Working Capital?** Debitorenlaufzeit, Kreditorenlaufzeit, Lagerbestand — als Cashflow-Auswirkung erfasst?
-4. **Ausserordentliche Ereignisse?** Investitionen, Tilgungen, FA-Stundungen ablaufend, Avale faellig werdend?
-
-## Paragrafenkette
-
-§ 19 Abs. 2 InsO (Fortbestehensprognose) → IDW S 11 Rn. 30-65 (Annahmen-Basis) → § 43 GmbHG (Sorgfaltspflicht GF bei Prognose)
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 43 GmbHG
-- § 3a EStG
-- § 102 StaRUG
-- § 266a StGB
-- § 1 StaRUG
-- § 93 AktG
-- § 2 HRG
-- § 4 HRG
-- § 7 HRG
-- § 15 HRG
-- § 16 HRG
-- § 70 VwG
-
-### Leitentscheidungen
-
-- BGH II ZR 296/05
-- BGH IX ZR 285/14
-- BGH IX ZR 56/22
-- BGH II ZR 206/22
-- BGH IV ZR 66/25
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Sanierungsbausteine** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `ausloesendes-ereignis-erfassen`
+## Skill: `fortbestehensdokumentation-insolvenzrecht`
 
-_Erfasst den Anlass der Fortbestehensprognose. Typische Auslöser sind Hinweis des Steuerberaters nach § 102 StaRUG Hinweis des Wirtschaftsprüfers Bekanntwerden negativen Eigenkapitals Bilanzaufstellung mit negativem EK Liquiditaetsengpass Gesellschafterhinweis eigene Sorge des Geschäftsführers. Do..._
+_Wenn es um Fortbestehensdokumentation mit insolvenzrechtlicher Tragfähigkeit in Fortbestehensprognose geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Auslösendes Ereignis erfassen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: IDW S 11 12-Monats-Prognose ab Stichtag, § 15a InsO 6 Wochen bei Überschuldung, Drei-Wochen-Liquiditätsstockungs-Test, jährliche Aktualisierung.
-- Tragende Normen verifizieren: InsO § 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB § 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG §§ 1, 102 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Die Fortbestehensprognose ist kein Selbstzweck — sie ist die Antwort auf einen konkreten Anlass. Der Anlass wird dokumentiert weil **er Beweis ist**: bei späteren Haftungsfragen (§ 15b InsO, § 43 GmbHG, § 826 BGB ggue Gläubigern) zeigt die Dokumentation dass der Geschäftsführer **zeitnah** auf Anzeichen reagiert hat.
-
-## Typische Auslöser
-
-### 1. Hinweis des Steuerberaters nach § 102 StaRUG
-
-Seit 01.01.2021 hat der Steuerberater eine **Hinweispflicht**: wenn ihm bei der Bilanzaufstellung Anhaltspunkte für einen möglichen Insolvenzeröffnungsgrund auffallen muss er den Mandanten darauf hinweisen.
-
-- Datum des Hinweises (schriftlich / mündlich / im Gespräch)
-- Wortlaut wenn schriftlich
-- Konkrete Anhaltspunkte die der StB genannt hat
-- Quittierung des Hinweises durch den Mandanten
-
-### 2. Hinweis des Wirtschaftsprüfers
-
-Bei prüfungspflichtigen Gesellschaften (mittelgroße oder große KapGes nach § 267 HGB) kann der Prüfer im Rahmen des Jahresabschlusses einen **Hinweis zur Going-Concern-Annahme** geben oder den Bestätigungsvermerk einschraenken oder versagen.
-
-### 3. Eigene Feststellung bei der Bilanzaufstellung
-
-- **Eigenkapital negativ** (Aktiva kleiner als Passiva).
-- **Wesentliche stille Lasten** im Status (z. B. Pensionsrückstellungen außerbilanziell).
-- **Erhebliche außergewöhnliche Verluste** im laufenden Geschäftsjahr.
-
-### 4. Liquiditätsengpass
-
-- Mahnungen Gerichtsbeschlüsse oder Zahlungsverzug bei wesentlichen Gläubigern.
-- Kreditlinie ausgeschoepft Kontoüberziehung.
-- Lohn- und Gehaltszahlungen knapp.
-- Steuer- und Sozialversicherungsabgaben nicht puenktlich.
-
-### 5. Gesellschafterhinweis
-
-- Brief oder E-Mail des Gesellschafters mit Sorge über Lage.
-- Gesellschafterbeschluss zur Prüfung der Fortbestehensprognose.
-
-### 6. Eigene Sorge des Geschäftsführers
-
-- Subjektive Wahrnehmung dass die Lage kritisch wird.
-- Wichtig: auch ohne externen Hinweis muss der Geschäftsführer aktiv prüfen — Sorgfaltspflicht § 43 GmbHG, § 93 AktG.
-
-### 7. Externes Ereignis
-
-- Wegfall Hauptkunde.
-- Kreditlinien-Kündigung der Bank.
-- Markteinbruch.
-- Insolvenz eines wesentlichen Lieferanten / Abnehmers.
-
-## Dokumentation
-
-```yaml
-fall-id: FP-2026-0001
-stichtag-pruefung: 2026-05-20
-ausloeser:
- typ: hinweis-steuerberater # hinweis-steuerberater / hinweis-wp / eigene-feststellung-bilanz / liquiditätsengpass / gesellschafterhinweis / eigene-sorge / externes-ereignis
- datum: 2026-05-15
- hinweisgeber: Steuerberater Mueller, Kanzlei XYZ
- mitteilungsform: schriftlich # schriftlich / muendlich / e-mail
- wortlaut: |
- "Nach Aufstellung des Jahresabschlusses 2025 ergibt sich ein negatives
- Eigenkapital von 82.000 EUR. Wir weisen Sie nach § 102 StaRUG auf die
- Pflicht zur Prüfung einer Fortbestehensprognose nach § 19 Abs. 2 InsO
- hin."
- konkrete-anhaltspunkte:
- - Eigenkapital negativ 82.000 EUR Stichtag 31.12.2025
- - SuSa weist Lieferantenverbindlichkeiten 410.000 EUR (Vorjahr 180.000)
- - Sozialversicherungsbeitraege drei Monate offen 45.000 EUR
- reaktion-geschaeftsfuehrung:
- erste-reaktion-am: 2026-05-20
- schritte:
- - Beauftragung Erstellung Fortbestehensprognose
- - Aktivierung Plugin fortbestehensprognose
- - Termin mit Insolvenzanwalt vereinbart für 2026-05-27 als Sicherheit
-```
-
-## Pflichthinweis Frist
-
-Mit Eintritt der **Insolvenzreife** (Zahlungsunfähigkeit § 17 oder Überschuldung § 19 InsO) beginnen die Antragsfristen des § 15a InsO. **Die Fortbestehensprognose ist nicht zu verwechseln mit dieser Frist** — sie ist die Prüfung **ob** Überschuldung trotz negativen Bilanzbildes verneint werden kann.
-
-- Frist Zahlungsunfähigkeit: **drei Wochen** (§ 15a Abs. 1 S. 2 InsO).
-- Frist Überschuldung: **sechs Wochen** (§ 15a Abs. 1 S. 2 InsO seit SanInsFoG 2021).
-
-Im Zweifel **vor Ablauf der Frist** Insolvenzanwalt zu Rate ziehen.
-
-## Ausgabe
-
-- `ausloesendes-ereignis.yaml` mit allen Pflichtfeldern.
-- Erste Risikobewertung (grün / gelb / rot).
-- Empfehlung: bei rot direkt zu `wenn-prognose-negativ-naechste-schritte` und Insolvenzanwalt einschalten — diese Prüfung kann fortgesetzt werden aber nicht ohne anwaltliche Begleitung.
-
-## Aktuelle Leitentscheidungen — Ausloesende Ereignisse
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Paragrafenkette Ausloesende Ereignisse
-
-§ 102 StaRUG (Warnpflicht Rechtsberater) → § 19 InsO (Ueberschuldung als Eröffnungsground) → § 15a InsO (Antragspflicht 3/6 Wochen) → § 15b InsO (Haftung GF) → § 43 GmbHG (Sorgfaltspflicht)
-
-## Triage — Ausloesende Ereignisse
-
-1. **Wer hat das Signal gesandt?** Steuerberater (§ 102 StaRUG), Wirtschaftspruefer, eigene Erkenntnis GF, Bank-Gespraech?
-2. **Datum des Signals?** Tag-genau dokumentieren → Beginn der Haftungszeit-Uhr.
-3. **Schriftliche Dokumentation?** E-Mail, Aktenvermerk, Protokoll vorhanden?
-4. **Sofortmassnahmen?** Liquiditaetsplanung starten, Anwalt einschalten, Steuerberater beauftragen?
-
----
-
-## Skill: `bilanzieller-status-aufnehmen`
-
-_Nimmt die bilanzielle Ausgangslage auf — Aktiva Passiva Eigenkapital nach HGB-Stichtagsbilanz. Prüfraster bilanzielle Überschuldung (Aktiva kleiner als Passiva). Erfasst stille Reserven und stille Lasten Sonderposten und außerbilanzielle Verpflichtungen (Pensionsrückstellungen Buergschaften Comfo..._
-
-# Bilanzieller Status aufnehmen
+# Fortbestehensdokumentation mit insolvenzrechtlicher Tragfähigkeit
 
 ## Arbeitsweg
 
@@ -648,341 +249,44 @@ _Nimmt die bilanzielle Ausgangslage auf — Aktiva Passiva Eigenkapital nach HGB
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Der **bilanzielle** Überschuldungsstatus ist die Voraussetzung um in die Prüfung der **insolvenzrechtlichen** Überschuldung nach § 19 Abs. 2 InsO einzusteigen. Beide Schritte sind zu trennen:
-
-1. **Bilanzieller Überschuldungsstatus** (Stichtagsbetrachtung). Aktiva kleiner als Passiva?
-2. **Insolvenzrechtliche Überschuldung** (§ 19 InsO). Nur wenn bilanzielle Überschuldung vorliegt UND keine positive Fortbestehensprognose.
-
-## Stichtagsbilanz
-
-```yaml
-stichtag: 2026-05-20 # oder Bilanzstichtag des letzten Jahresabschlusses
-bilanzansatz: hgb # hgb / ifrs / mischung
-
-aktiva:
- a-anlagevermoegen:
- immaterielle: 50000
- sachanlagen: 320000
- finanzanlagen: 0
- b-umlaufvermoegen:
- vorraete: 180000
- forderungen-laul: 120000
- sonstige-forderungen: 15000
- fluessige-mittel: 18000
- c-rechnungsabgrenzung: 5000
- aktiva-summe: 708000
-
-passiva:
- a-eigenkapital:
- gezeichnetes-kapital: 25000
- kapitalruecklage: 0
- gewinnruecklagen: 0
- bilanzergebnis: -107000 # negativ
- eigenkapital-summe: -82000 # negativ
- b-rueckstellungen:
- pensionen: 0
- sonstige: 22000
- c-verbindlichkeiten:
- banken: 250000
- lieferanten: 410000
- sonstige: 38000
- steuern: 25000
- sozialversicherung: 45000
- d-rechnungsabgrenzung: 0
- passiva-summe: 708000
-
-bilanzielle-ueberschuldung: ja # Aktiva = Passiva aber EK negativ = bilanzielle Überschuldung
-hoehe-bilanzielle-ueberschuldung: 82000
-```
-
-## Stille Reserven
-
-Vermögenswerte deren Buchwert geringer ist als der Verkehrswert. Im Status zu addieren (heben die bilanzielle Überschuldung).
-
-```yaml
-stille-reserven:
- - position: CNC-Anlage
- buchwert: 95000
- verkehrswert: 180000
- stille-reserve: 85000
- - position: Betriebsgrundstueck
- buchwert: 120000
- verkehrswert: 210000
- stille-reserve: 90000
-summe-stille-reserven: 175000
-```
-
-## Stille Lasten
-
-Verpflichtungen die in der Handelsbilanz nicht oder zu niedrig passiviert sind. Im Status zu addieren (verschärfen die bilanzielle Überschuldung).
-
-```yaml
-stille-lasten:
- - position: Drohende Inanspruchnahme aus Bürgschaft
- bilanziell: 0
- insolvenzrechtlich: 50000
- - position: Pensionsrückstellung Erfüllungsbetrag versus Bilanzwert
- bilanziell: 0
- insolvenzrechtlich: 30000
-summe-stille-lasten: 80000
-```
-
-## Bereits qualifizierter Rangrücktritt
-
-Forderungen mit qualifiziertem Rangrücktritt (§ 19 Abs. 2 S. 2 InsO) werden im Überschuldungsstatus **nicht passiviert**.
-
-```yaml
-qualifizierter-rangruecktritt:
- - glaeubiger: Hauptgesellschafter Karl Mueller
- forderung: Gesellschafterdarlehen vom 15.03.2024
- nennbetrag: 120000
- rangruecktritt-erklaert-am: 2026-05-22
- rangruecktritt-form: notarielle Urkunde # idealtypisch
- bgh-konform: ja # siehe Skill gesellschafterdarlehen-rangrücktritt
-```
-
-## Insolvenzrechtlicher Überschuldungsstatus
-
-```
-Aktiva (Handelsbilanz) 708.000 EUR
-+ stille Reserven 175.000 EUR
-- stille Lasten -80.000 EUR
-= Insolvenzrechtliche Aktiva 803.000 EUR
-
-Passiva (Handelsbilanz) 790.000 EUR (Aktiva minus EK)
-- qualifizierter Rangrücktritt -120.000 EUR
-= Insolvenzrechtliche Passiva 670.000 EUR
-
-Differenz 133.000 EUR positiv
-```
-
-Ergebnis: trotz **bilanzieller Überschuldung von 82.000 EUR** ist die **insolvenzrechtliche Bilanzbasis positiv** weil stille Reserven und Rangrücktritt dies neutralisieren. Reine Vermögensbilanz **ist nicht ausreichend** — die Fortbestehensprognose ist zusätzlich erforderlich (Skill `annahmen-sammeln-fortfuehrung`).
-
-## Wichtige Hinweise
-
-- Bei **Personengesellschaften ohne natürlich-personige Vollhafter** (z. B. GmbH und Co. KG mit ausschließlich Komplementär-GmbH) gilt § 19 InsO entsprechend.
-- Bei **Einzelkaufmann** oder Personengesellschaft mit natürlich-personiger Vollhafter ist § 19 InsO **nicht anwendbar** — Insolvenzantragspflicht ergibt sich nur aus Zahlungsunfähigkeit § 17 InsO.
-- Die Erstellung des Status ist **Geschäftsleiter-Pflicht**. Bei Buchführungsmängeln (kein aktueller Stand kein Status möglich) kommt **Bankrott** § 283b StGB in Betracht.
-
-## Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Ausgabe
-
-- `bilanzieller-status.yaml` mit Stichtag Bilanzwerten stillen Reserven Lasten Rangrücktritt und insolvenzrechtlicher Bilanzbasis.
-- Erste Ergebnisaussage (insolvenzrechtliche Bilanzbasis positiv / negativ).
-- Empfehlung: bei negativer Bilanzbasis ohne Aussicht auf Fortbestehensprognose **sofort** Insolvenzanwalt — § 15a InsO Sechs-Wochen-Frist beginnt zu laufen.
-
-## Aktuelle Leitentscheidungen — Bilanzieller Status
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Paragrafenkette Bilanzieller Status
-
-§ 19 Abs. 2 InsO (Ueberschuldungsbegriff) → § 19 Abs. 2 S. 2 InsO (qualifizierter Rangrücktritt) → § 35 Abs. 1 InsO (Massebegriff stille Reserven) → HGB §§ 252-255 (Bewertungsgrundsaetze) → IDW S 11 Rn. 20-42 (Status-Ermittlung)
-
-## Triage — Bilanzieller Status
-
-1. **Stichtag festlegen:** Welches Datum hat der Status? (aktuellstes Datum mit verlaesslichen Daten)
-2. **Stille Reserven identifizieren:** Grundstuecke zum Buchwert vs. Verkehrswert; Forderungen vs. Marktpreis; Beteiligungen.
-3. **Ausserbilanzielle Verpflichtungen:** Pensionen, Buergschaften, noch nicht ausgewiesene Verluste aus schwebenden Geschäften.
-4. **Sanierungsmassnahmen einbeziehen?** Gesellschafterdarlehen mit Rangrücktritt, Patronatserklaerung, Kapitalzufuhr — bereits vorhanden oder noch planerisch?
-
----
-
-## Skill: `forderungsverzicht-besserungsschein`
-
-_Erzeugt eine Forderungsverzichtsvereinbarung mit Besserungsschein. Gläubiger verzichtet auf Forderung — bei Wiedererstarken der Zahlungsfähigkeit der Schuldnerin lebt die Forderung wieder auf. Effekt im insolvenzrechtlichen Status die verzichtete Forderung wird nicht passiviert. Steuerliche Folge..._
-
-# Forderungsverzicht mit Besserungsschein
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: IDW S 11 12-Monats-Prognose ab Stichtag, § 15a InsO 6 Wochen bei Überschuldung, Drei-Wochen-Liquiditätsstockungs-Test, jährliche Aktualisierung.
-- Tragende Normen verifizieren: InsO § 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB § 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG §§ 1, 102 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wirkung
-
-Gläubiger verzichtet auf eine Forderung. Effekt:
-
-- **Im Status**: Forderung entfaellt aus den Passiva. Bilanzbild verbessert sich.
-- **Liquidität**: keine direkte Liquiditätszuflussverbesserung (die Forderung war ggf ohnehin nicht in den nächsten 12 Monaten zur Zahlung fällig).
-- **Bilanz**: Ertrag (Sanierungserloes).
-
-Mit **Besserungsschein**: Wenn die Schuldnerin später wieder zahlungsfähig wird lebt die Forderung wieder auf. Der Verzicht ist also bedingt.
-
-## Anwendungsfall
-
-- Bank verzichtet auf Teil-Tilgung eines Darlehens.
-- Lieferant verzichtet auf Forderung mit Besserungsschein als Sanierungsbeitrag.
-- Hauptgesellschafter verzichtet auf Forderung (statt Rangrücktritt).
-
-## Steuerliche Folgen
-
-### Beim Schuldner
-
-Ertragsbuchung Sanierungserloes. **Sanierungsgewinn § 3a EStG** kann steuerbefreit sein wenn die Voraussetzungen (Sanierungsabsicht Sanierungsfähigkeit Sanierungseignung Gläubigergleichbehandlung) erfüllt sind.
-
-Vor Unterzeichnung **steuerliche Beratung** zwingend.
-
-### Beim Gläubiger
-
-Forderungsausfall regelmäßig als Betriebsausgabe abzugsfähig. Bei Banken Wertberichtigung. Steuerlich vor Verzicht prüfen lassen.
-
-## Mustervorlage
-
-```
-FORDERUNGSVERZICHTSVEREINBARUNG MIT BESSERUNGSSCHEIN
-
-zwischen
-
- [Vor- und Nachname Gläubiger]
- [Anschrift]
- - im Folgenden "der Gläubiger" -
-
-und
-
- [Firma der Schuldnerin]
- vertreten durch [Geschäftsführer]
- [Anschrift]
- HRB [...] AG [...]
- - im Folgenden "die Schuldnerin" -
-
-1. Praeambel
-
-Der Gläubiger ist Inhaber folgender Forderung gegen die Schuldnerin:
-
- [Bezeichnung der Forderung]
- Hauptforderung [Betrag] EUR
- zuzueglich Zinsen
- zum [Stichtag] insgesamt [Gesamtbetrag] EUR
-
-Die Schuldnerin befindet sich in einer angespannten wirtschaftlichen Lage
-und hat eine Fortbestehensprognose nach § 19 Abs. 2 InsO erstellt. Mit
-Sanierungsbeitrag durch den Gläubiger ist die Prognose positiv.
-
-2. Verzicht
-
-2.1 Der Gläubiger verzichtet hiermit gegenüber der Schuldnerin auf die
-oben bezeichnete Forderung in voller Höhe einschließlich Zinsen und
-Nebenforderungen.
-
-2.2 Die Forderung erlischt im Status der Schuldnerin und ist in der
-insolvenzrechtlichen Status-Aufstellung nicht mehr zu passivieren.
-
-3. Besserungsschein
-
-3.1 Der Verzicht ist bedingt durch das Wiedererstarken der Zahlungsfähigkeit
-der Schuldnerin.
-
-3.2 Die Forderung lebt wieder auf wenn
-
- a) die Schuldnerin im Jahresabschluss ein positives Eigenkapital aufweist
- oder
- b) die Schuldnerin in einem Geschäftsjahr einen Jahresueberschuss von mehr
- als [X] EUR erwirtschaftet oder
- c) der Gläubiger bei nachhaltiger Verbesserung der wirtschaftlichen Lage
- in Textform die Wiederaufnahme verlangt.
-
-3.3 Der Rückzahlungsbetrag betraegt im Fall des Wiederauflebens
-
- - höchstens den urspruenglichen Forderungsbetrag,
- - mindestens [X] Prozent des verfügbaren Eigenkapitals des Folgejahres,
- - wird in Raten über [N] Monate getilgt.
-
-3.4 Die Besserungsklausel laeuft für [N] Jahre ab Unterzeichnung. Nach
-Ablauf entfaellt die Wiederauflebensmöglichkeit endgültig.
-
-4. Steuerliche Hinweise
-
-Die Parteien sind sich bewusst dass dieser Verzicht beim Schuldner Ertrag
-ausloest. Vor Unterzeichnung wurde steuerlicher Rat eingeholt.
-
-5. Form und Wirksamkeit
-
-5.1 Diese Vereinbarung ist beidseitig unterzeichnet wirksam.
-
-5.2 Änderungen und Ergänzungen bedürfen der Schriftform.
-
-5.3 Gerichtsstand: [Sitz der Schuldnerin].
-
-[Ort], [Datum]
-
-___________________________
-[Gläubiger]
-
-___________________________
-[Geschäftsführer]
-für die Schuldnerin
-```
-
-## Hinweise
-
-### Echtheit der Sanierungsabsicht
-
-Wird der Forderungsverzicht später als Scheingeschäft angesehen (z. B. weil keine ernsthafte Sanierungsabsicht vorlag) kann er anfechtbar sein.
-
-### Gläubigergleichbehandlung
-
-Bei Sanierungsverzicht ist auf Gläubigergleichbehandlung zu achten. Wenn nur einzelne Gläubiger verzichten und andere nicht ist das in Ordnung — solange der Vorgang nicht als Begueneten-Bezugnahme zu Lasten der nicht-verzichtenden Gläubiger zu werten ist.
-
-### Besserungsschein-Trigger genau definieren
-
-Der Trigger für das Wiederaufleben muss objektiv und nachprüfbar sein. Klauseln wie "wenn es uns wieder besser geht" sind ungeeignet.
-
-## Ausgabe
-
-- `forderungsverzicht-besserungsschein-<glaeubiger>.docx`.
-- Steuerliche Prüfer-Flag — Steuerberater einbinden.
-- Statusupdate (Skill `bilanzieller-status-aufnehmen`): Forderung entfaellt aus den Passiva.
-- Eintrag im Sanierungsbausteine-Tracker.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Aktuelle Leitentscheidungen — Forderungsverzicht und Besserungsschein
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Paragrafenkette Forderungsverzicht
-
-§ 19 Abs. 2 InsO (Ueberschuldungsbereinigung) → § 3a EStG (steuerfreier Sanierungsgewinn) → § 397 BGB (Erlass/Verzicht) → § 158 BGB (haengende Bedingung Besserungsschein) → § 133 InsO (Anfechtungsrisiko bei selektivem Verzicht)
-
-## Triage — Forderungsverzicht Check
-
-1. **Gläubiger und Betrag?** Wer verzichtet auf wie viel?
-2. **Steuerliche Folge?** Sanierungsgewinn § 3a EStG: Nachweise Sanierungsplan, Sanierungsabsicht, Sanierungseignung vorbereiten.
-3. **Besserungsschein-Formulierung?** Bedingung klar definiert (Wiederherstellung ZF anhand konkreter Liquiditaets-Schwelle).
-4. **Anfechtungsschutz?** Verzicht muss Teil eines Gesamtsanierungskonzepts sein (IDW S 6 Qualitaet) um Vorsatzanfechtung § 133 InsO auszuschliessen.
+## Einstieg
+Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
+
+1. Wer handelt in welcher Rolle und gegen wen?
+2. Welches praktische Ziel soll erreicht werden?
+3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
+4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
+5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
+
+## Arbeitsworkflow
+1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
+2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
+3. **Materielle Weichen:** Die Kernfragen zu **Fortbestehensdokumentation mit insolvenzrechtlicher Tragfähigkeit** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
+4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
+5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
 
 ---
 
 ## Skill: `kaltstart-interview`
 
-_Kaltstart-Interview für das Fortbestehensprognose-Plugin. Stellt fest wer das Plugin nutzt (Geschäftsführer / Vorstand / Gesellschafter mit Eigenverantwortung / Finanzleiter mit Mandat) wer der Anwaltliche und steuerliche Ansprechpartner ist welches Geschäftsjahr und welche Rechtsform vorliegt un..._
+_Wenn es um /fortbestehensprognose:fortbestehensprognose-kaltstart-interview in Fortbestehensprognose geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # /fortbestehensprognose:fortbestehensprognose-kaltstart-interview
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fortbestehensprognose** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Disclaimer (Schlüsselstelle)
 
@@ -1057,7 +361,11 @@ Profil wird geschrieben. Empfohlene nächste Skills:
 Bei aktuten Anzeichen für Zahlungsunfähigkeit (Liquiditätslücke über 10 Prozent seit mehr als drei Wochen) **sofort** Insolvenzanwalt einschalten und mit Plugin `insolvenzrecht` arbeiten — nicht in diesem Plugin weiterarbeiten.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Rechtlicher Rahmen und Leitentscheidungen
@@ -1070,11 +378,11 @@ Bei aktuten Anzeichen für Zahlungsunfähigkeit (Liquiditätslücke über 10 Pro
 
 ---
 
-## Skill: `start-chronologie-fristen`
+## Skill: `bilanzstatus-risikoampel-und-gegenargumente`
 
-_Einstieg, Schnelltriage und Fallrouting im Fortbestehensprognose-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenstän..._
+_Wenn es um Bilanzstatus: Risikoampel, Gegenargumente und Verteidigungslinien in Fortbestehensprognose geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Fortbestehensprognose — Allgemein
+# Bilanzstatus: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Arbeitsweg
 
@@ -1084,948 +392,360 @@ _Einstieg, Schnelltriage und Fallrouting im Fortbestehensprognose-Plugin. Fragt 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Schnellstart-Workflow
+## Spezialwissen: Bilanzstatus: Risikoampel, Gegenargumente und Verteidigungslinien
+- **Normen-/Quellenanker:** InsO, IDW, StaRUG.
 
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Fortbestehensprognose**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-**Plugin-Fokus:** Fortbestehensprognose § 19 Abs. 2 InsO als Geschäftsführer-Selbstdokumentation. Bilanzstatus Annahmen Plausibilisierung Zwoelf-Monats-Liquiditaet. Sanierungsbausteine Patronatserklärung Comfortletter Rangrücktritt Stundung Forderungsverzicht. IDW S 11 StaRUG. Eskalation bei negativer Prognose.
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-### 0. Stummer Upload — Material ohne Begleittext
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Bilanzstatus** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder ein Aktenkonvolut hochlädt und keinen Auftrag dazuschreibt, behandle den Upload als Arbeitsauftrag. Warte nicht auf einen Prompt. Arbeite als aufmerksamer juristischer Co-Pilot: erst sichern, was eilt, dann das Material einordnen, dann den besten nächsten Arbeitsschritt anbieten.
+## Bilanzstatus § 19 InsO — zweistufige Prüfung
+1. **Rechnerische Überschuldung** (Stufe 1):
+ - Liquidationswertbilanz (nicht Fortführungsbilanz!) — Vermögensgegenstände zu Veräußerungswerten, Verbindlichkeiten in voller Höhe.
+ - Eigenkapital negativ → rechnerische Überschuldung.
+ - Wichtige Position: Stille Reserven aktivieren, Pensionsrückstellungen prüfen, immaterielle Vermögensgegenstände (Goodwill bei going-concern, Veräußerungswert bei Liquidation).
+2. **Fortbestehensprognose** (Stufe 2):
+ - Prognosezeitraum **12 Monate** (§ 19 Abs. 2 S. 1 InsO seit SanInsFoG).
+ - Maßstab: „überwiegende Wahrscheinlichkeit" der Fortführungsfähigkeit — quantitativ > 50 Prozent.
+ - Bei positiver Prognose: keine Überschuldung trotz rechnerischer Überschuldung.
 
-**Pflicht-Reihenfolge bei stummem Upload:**
+## Verteidigungslinien Geschäftsführer
+- **Rangrücktritt** § 39 Abs. 2 InsO: Gesellschafterforderungen werden als Eigenkapital behandelt — neutralisiert rechnerische Überschuldung. Achtung: nur **qualifizierter** Rangrücktritt zählt (nicht nur „bis zur Sanierung", sondern unter Beschränkung auf freies Vermögen).
+- **Patronatserklärung / Comfortletter:** harte Patronatserklärung (rechtlich bindend, im Außen- oder Innenverhältnis) heilt Liquiditätslücke. Weiche Patronatserklärung (politisch-moralisch) reicht nicht.
+- **Forderungsverzicht mit Besserungsschein:** Verzicht bedingt durch wirtschaftliche Verbesserung — entlastet Bilanz, ohne Gläubigerposition vollständig zu opfern.
+- **Stundungsvereinbarungen:** Verschiebung der Fälligkeit — wirkt auf Liquiditätsplan, nicht auf rechnerische Überschuldung.
+- **Kapitalerhöhung / Gesellschafterzuschuss:** wirkt direkt auf Eigenkapital.
 
-1. **Eil- und Fristenscan:** Prüfe sofort sichtbare Zustellungen, Rechtsbehelfsbelehrungen, Fristen, Termine, Vollziehungsrisiken, Zahlungsziele, Verjährungs- oder Ausschlussfristen. Wenn etwas eilt, beginne die Antwort mit `Frist zuerst: ...`.
-2. **Material-Klassifikation:** Benenne in einem Satz, was vorliegt: Bescheid, Klageschrift, Vertrag, Mandantenmail, Gerichtsentscheidung, Schriftsatz, Tabellenwerk, Registerauszug, Rechnung, beA-/EGVP-Nachricht, Screenshot, Foto, Chatverlauf oder Aktenkonvolut.
-3. **Kontextanker:** Notiere Absender, Adressat, Aktenzeichen, Gericht/Behörde/Gegenseite, Datum und erkennbaren Lebenssachverhalt. Wenn der Text unleserlich ist, sage genau, welcher Teil fehlt.
-4. **Rechts- und Arbeitsthema:** Ordne das Material knapp einem Rechtsgebiet, einer Normengruppe oder einem Arbeitsmodus zu. Zitiere nur, was im Material oder im Plugin-Kontext wirklich trägt.
-5. **Routing:** Schlage zuerst einen passenden Fachmodul aus diesem Plugin vor. Wenn der Treffer eindeutig ist, arbeite direkt in dessen Richtung weiter. Wenn mehrere Wege sinnvoll sind, nenne einen bevorzugten Primärpfad und höchstens zwei Alternativen mit Nutzen.
-6. **Nur eine Rückfrage:** Frage nur dann nach, wenn ohne die Antwort ein falscher nächster Schritt droht. Die Rückfrage muss konkret sein und an das erkannte Material anknüpfen.
+## Risikoampel
+- **ROT:** rechnerische Überschuldung und negative Prognose → Überschuldung § 19 InsO, Antragspflicht § 15a InsO 6 Wochen.
+- **GELB:** rechnerische Überschuldung, aber Prognose tendenziell positiv mit erkennbaren Annahmenrisiken → Sensitivität, IDW EPS 11 nachschärfen.
+- **GRÜN:** rechnerische Überschuldung neutralisiert (Rangrücktritt, Patronatserklärung) und Prognose positiv → keine Überschuldung.
 
-**Was du bei stummem Upload nicht machst:**
+## Anti-Halluzinations-Hinweise
+- 12-Monats-Horizont (nicht 24!) für § 19 InsO seit SanInsFoG 2021.
+- Pandemie-Sonderregelung (4 Monate temporär) ist ausgelaufen.
 
-- Keine generische Upload-Bestätigung.
-- Keine vollständige Intake-Liste aus Abschnitt 1.
-- Keine erfundenen Dokumentdetails, Fristen, Anlagen oder Fundstellen.
-- Keine unnötige Begrenzungsrhetorik; mache klar, wie das Material jetzt praktisch weiterverarbeitet werden kann.
+---
 
-**Antwortformat bei stummem Upload:**
+## Skill: `liquiditaet-patronatserklaerung-interessen`
 
-- **Erkannt:** [Materialart, Absender/Aktenzeichen falls sichtbar]
-- **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
-- **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
-- **Primärer Pfad:** Wähle nach Aktenlage den nächsten passenden Skill und begründe in einem Satz, welche Frist, Zuständigkeit, Beweislast oder welches Arbeitsprodukt dadurch geklärt wird.
-- **Alternativen:** `...`, `...`
-- **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
+_Wenn es um Liquiditaet: Zahlen, Schwellenwerte und Berechnung in Fortbestehensprognose geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
 
-### 1. Intake in 60 Sekunden
+# Liquiditaet: Zahlen, Schwellenwerte und Berechnung
 
-Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+## Arbeitsweg
 
-| Punkt | Frage | Warum wichtig? |
-|---|---|---|
-| Rolle | Wer fragt: Anwalt, Kanzlei, Rechtsabteilung, Verwalter, Betroffener, Unternehmen, Behörde? | Perspektive und Ton bestimmen. |
-| Ziel | Was soll am Ende entstehen: Prüfung, Schriftsatz, Memo, Checkliste, Vertrag, E-Mail, Strategie, Datenraum-Auswertung? | Output sofort sauber ausrichten. |
-| Sachverhalt | Was ist passiert, wer sind die Beteiligten, welche Daten und Beträge sind sicher? | Keine Arbeit auf Luft bauen. |
-| Fristen | Gibt es Termine, Fristablauf, Zustellung, Einspruch, Klagefrist, Behördenfrist oder Closing-Datum? | Eilsachen zuerst sichern. |
-| Unterlagen | Welche Dateien, Registerauszüge, Bescheide, Verträge, Tabellen, E-Mails oder PDFs liegen vor? | Aktenarbeit statt Raten. |
-| Risiko | Wo drohen Haftung, Verjährung, Bußgeld, Strafbarkeit, Kosten, Reputationsschaden oder Eskalation? | Priorität und Vorsicht einstellen. |
-| Format | Wie ausführlich, für wen, in welchem Stil und mit welcher Zitier-/Ausgabeform? | Ergebnis direkt verwendbar machen. |
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: IDW S 11 12-Monats-Prognose ab Stichtag, § 15a InsO 6 Wochen bei Überschuldung, Drei-Wochen-Liquiditätsstockungs-Test, jährliche Aktualisierung.
+- Tragende Normen verifizieren: InsO § 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB § 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG §§ 1, 102 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-### 2. Sofort-Triage
+## Spezialwissen: Liquiditaet: Zahlen, Schwellenwerte und Berechnung
+- **Normen-/Quellenanker:** InsO, IDW, StaRUG.
 
-Arbeite danach in dieser Reihenfolge:
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
-2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
-3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
-4. **Fachmodule vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
-5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
-6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-### 3. Routing-Regeln
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Liquiditaet** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-- Schlage **immer zuerst Skills aus diesem Plugin** vor. Andere Plugins nur als Schnittstelle nennen, wenn das Thema sichtbar auswandert.
-- Nenne nie nur einen Skillnamen. Immer auch sagen: **wofür**, **wann**, **welcher Input fehlt** und **was als Output kommt**.
-- Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
-- Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
-- Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
-- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Fachmodul.
+## Liquiditätskennzahlen — Schwellen aus § 17 InsO und BGH-Rechtsprechung
+- **Zahlungsunfähigkeit § 17 Abs. 2 InsO:** "nicht in der Lage, fällige Zahlungspflichten zu erfüllen" — durch Liquiditätsbilanz nachzuweisen.
+- **BGH-Schwellen (ständige Rspr.):** Deckungslücke < 10 % der fälligen Verbindlichkeiten regelmäßig nur Zahlungsstockung (innerhalb 3 Wochen behebbar); Deckungslücke ≥ 10 % begründet Zahlungsunfähigkeit, sofern nicht ausnahmsweise binnen sehr kurzer Zeit Schließung absehbar ist.
+- **Drohende Zahlungsunfähigkeit § 18 Abs. 2 InsO:** Prognosezeitraum idR 24 Monate; betrifft die Wahrscheinlichkeit der zukünftigen Zahlungsunfähigkeit.
+- **Liquiditätsstatus (Stichtagsbilanz):** Aktiva I (verfügbare Mittel) + Aktiva II (innerhalb 3 Wochen) vs. Passiva I (fällige Verbindlichkeiten) + Passiva II (innerhalb 3 Wochen fällig werdend).
+- **13-Wochen-Planung (rollierend):** Operativer Standard für Sanierungsfälle; Anfangsbestand + Einzahlungen − Auszahlungen = Endbestand je Woche, Salden ≥ 0.
+- **Stresstest-Vorgaben:** Mindestens Base und Stress (z. B. −20 % Umsatz, −10 Tage Forderungslaufzeit, −10 % Zahlungsmoral); zusätzlich Worst Case bei abhängigen Großkunden.
+- **Trade-off:** Reine Stichtagsbetrachtung übersieht zeitliche Lücken; reine Rollplanung übersieht stille Reserven und Mobilisierungspotential — daher beide nebeneinander.
 
-### 4. Antwortformat für den Einstieg
+## Sanierungsbausteine in der Liquiditätsplanung
 
-Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
+| Baustein | Wirkung auf Zahlungsfähigkeit | Wirkung auf Überschuldung | Beleganforderung |
+| --- | --- | --- | --- |
+| Harte interne Patronatserklärung | Aktiva nur, wenn bezifferter Anspruch rechtzeitig abrufbar und Patron bonitätsstark ist | kann Fortbestehensprognose tragen | unterschriebene Zusage, Bonitätsbeleg, Zahlungsfrist |
+| Externe harte Patronatserklärung | schützt den Gläubiger, bringt der Gesellschaft nicht automatisch Cash | nur mit zusätzlicher Finanzierungsbrücke | Wortlaut, Adressat, Abrufmechanik |
+| Weicher Comfort Letter | keine harte Liquidität | nur ausnahmsweise Prognoseindiz | BGH II ZR 84/20 beachten |
+| Qualifizierter Rangrücktritt | keine neue Liquidität; verhindert nur Zahlung an Nachranggläubiger | kann Passivierung im Überschuldungsstatus entfallen lassen | freie Überschüsse, vorinsolvenzliche Sperre, Drittschutz |
+| Stundung | verschiebt Fälligkeit und kann Passiva I senken | nur mittelbar | echte Vereinbarung mit neuem Fälligkeitsdatum |
+| Zuschuss oder Darlehen | echte Liquidität bei Valutierung oder sicherer Abrufbarkeit | je nach Rang und Kondition | Valuta, Auszahlungsbedingungen, Rang |
 
-**Kurzbild**
-- Ziel: [...]
-- Rolle/Perspektive: [...]
-- Eilt wegen: [...]
-- Fehlende Unterlagen: [...]
+Arbeitsregel: In die Drei-Wochen-Liquiditätsbilanz kommen nur harte, rechtzeitig verfügbare Zuflüsse. In die Fortbestehensprognose kommen nur Maßnahmen, deren Eintritt überwiegend wahrscheinlich und anhand konkreter Unterlagen dokumentiert ist.
 
-**Vorgeschlagener Workflow**
-1. [...]
-2. [...]
-3. [...]
+---
 
-**Passende Skills aus diesem Plugin**
-| Skill | Warum jetzt? | Erwarteter Output |
-|---|---|---|
-| `...` | [...] | [...] |
+## Skill: `forderungsverzicht-mandantenentscheidung`
 
-**Nächste Frage**
-[Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
+_Wenn es um Forderungsverzicht: Mandantenkommunikation und Entscheidungsvorlage in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-### 5. Fachmodule in diesem Plugin
+# Forderungsverzicht: Mandantenkommunikation und Entscheidungsvorlage
 
-| Skill | Wann vorschlagen? |
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 1353 Abs. 1 BGB` — eheliche Lebensgemeinschaft.
+- `§ 1360 BGB` — Familienunterhalt.
+- `§ 1565 Abs. 1 BGB` — Scheidung.
+- `§ 1570 BGB` — Betreuungsunterhalt.
+- `§ 1601 BGB` — Verwandtenunterhalt.
+- `§ 1626 Abs. 1 BGB` — elterliche Sorge.
+- `§ 1671 BGB` — Sorgerechtsuebertragung.
+- `§ 1684 BGB` — Umgangsrecht.
+- `§ 23a Abs. 1 GVG` — Familiengerichtsbarkeit.
+- `§ 113 FamFG` — Verfahrensregeln in Familienstreitsachen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: IDW S 11 12-Monats-Prognose ab Stichtag, § 15a InsO 6 Wochen bei Überschuldung, Drei-Wochen-Liquiditätsstockungs-Test, jährliche Aktualisierung.
+- Tragende Normen verifizieren: InsO § 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB § 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG §§ 1, 102 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Forderungsverzicht: Mandantenkommunikation und Entscheidungsvorlage
+- **Normen-/Quellenanker:** InsO, IDW, StaRUG.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Forderungsverzicht** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `wenn-prognose-negativ-naechste-schritte`
+
+_Wenn es um Wenn Prognose Negativ Naechste Schritte in Fortbestehensprognose geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Wenn die Fortbestehensprognose negativ ausfaellt — Eskalations- und Pflichtenkatalog für den Geschäftsleiter
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: IDW S 11 12-Monats-Prognose ab Stichtag, § 15a InsO 6 Wochen bei Überschuldung, Drei-Wochen-Liquiditätsstockungs-Test, jährliche Aktualisierung.
+- Tragende Normen verifizieren: InsO § 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB § 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG §§ 1, 102 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Wenn die Fortbestehensprognose negativ ausfaellt — Eskalations- und Pflichtenkatalog für den Geschäftsleiter. Antragspflicht § 15a InsO sechs Wochen bei Überschuldung drei Wochen bei Zahlungsunfähigkeit. Zahlungsverbot § 15b InsO. Prüfung der drohenden Zahlungsunfähigkeit § 18 InsO mit StaRUG-Option. Einbindung Insolvenzanwalt zwingend. Prüfung Selbstantrag oder Eigenverwaltung oder Schutzschirmverfahren oder StaRUG-Restrukturierungsplan.
+
+### Wenn die Prognose negativ ist — nächste Schritte
+
+## Disclaimer (Schlüsselstelle)
+
+Wenn die Fortbestehensprognose negativ ausfällt liegt **insolvenzrechtliche Überschuldung** nach § 19 InsO vor. Die Antragspflicht beginnt zu laufen. **Ohne Insolvenzanwalt** sollte ab diesem Punkt nicht weitergearbeitet werden. Jede Tagesverzoegerung kann zur **strafrechtlichen Haftung** nach § 15a Abs. 4 InsO und zur **zivilrechtlichen Haftung** nach § 15b InsO führen.
+
+## Sofortmaßnahmen — innerhalb 24 Stunden
+
+### 1. Insolvenzanwalt einschalten
+
+- Insolvenzanwalt aus dem Profil (Skill `fortbestehensprognose-kaltstart-interview`).
+- Termin innerhalb der nächsten 48 Stunden.
+- Vorlage: vollständige Prognosedokumentation aus Skill `prognose-dokumentation-stichtag`.
+
+### 2. Zahlungsverhalten anpassen — § 15b InsO
+
+Mit Eintritt der Insolvenzreife dürfen **keine Zahlungen** mehr geleistet werden die nicht mit der Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters vereinbar sind.
+
+Ausnahmen (§ 15b Abs. 1 InsO):
+
+- Zahlungen die zur Erhaltung des Geschäftsbetriebs erforderlich sind.
+- Zahlungen die im Rahmen ordentlicher Geschäftstätigkeit unvermeidbar sind.
+- Zahlungen aus zweckgebundener Treuhand (Sozialversicherungsbeitraege Lohnsteuer).
+
+**Praktisch**:
+
+- Sozialversicherungsbeitraege Arbeitnehmer-Anteil: **weiter abführen** (§ 266a StGB Pflicht zur Abführung).
+- Lohn- und Gehaltszahlung: weiter (sonst gefährden der Betrieb).
+- Lohnsteuer abführen.
+- Umsatzsteuer Voranmeldungen abgeben (auch wenn keine Zahlung erfolgt).
+- Bezahlung von Lieferanten nur nach Abstimmung mit Insolvenzanwalt — Risiko § 15b InsO.
+
+### 3. Frist § 15a InsO
+
+| Insolvenzgrund | Frist nach Eintritt |
 |---|---|
-| `annahmen-belastbarkeit-plausibilisieren` | Plausibilisiert die in `annahmen-sammeln-fortführung` gesammelten Annahmen. Prüfraster Konsistenz mit Vergangenheit (BWA SuSa Jahresabschluss) Marktentwicklung (Branche makroekonomisch) Konsistenz untereinander (Umsatz… |
-| `annahmen-sammeln-fortfuehrung` | Sammelt die Annahmen die der Geschäftsführer der Fortbestehensprognose zu Grunde legt. Umsatzentwicklung Kostenentwicklung Personalkostenentwicklung Investitionen Working-Capital Saisonalitaet Auftragsbestand… |
-| `ausloesendes-ereignis-erfassen` | Erfasst den Anlass der Fortbestehensprognose. Typische Auslöser sind Hinweis des Steuerberaters nach § 102 StaRUG Hinweis des Wirtschaftsprüfers Bekanntwerden negativen Eigenkapitals Bilanzaufstellung mit negativem EK… |
-| `bilanzieller-status-aufnehmen` | Nimmt die bilanzielle Ausgangslage auf — Aktiva Passiva Eigenkapital nach HGB-Stichtagsbilanz. Prüfraster bilanzielle Überschuldung (Aktiva kleiner als Passiva). Erfasst stille Reserven und stille Lasten Sonderposten… |
-| `comfortletter-weich-erzeugen` | Erzeugt einen Comfortletter — eine weiche Erklärung des Patrons oder Mutterunternehmens das Tochterunternehmen zu unterstuetzen. Im Gegensatz zur harten externen Patronatserklärung ist der Comfortletter nicht… |
-| `forderungsverzicht-besserungsschein` | Erzeugt eine Forderungsverzichtsvereinbarung mit Besserungsschein. Gläubiger verzichtet auf Forderung — bei Wiedererstarken der Zahlungsfähigkeit der Schuldnerin lebt die Forderung wieder auf. Effekt im… |
-| `fortbestehensprognose-kaltstart-interview` | Kaltstart-Interview für das Fortbestehensprognose-Plugin. Stellt fest wer das Plugin nutzt (Geschäftsführer / Vorstand / Gesellschafter mit Eigenverantwortung / Finanzleiter mit Mandat) wer der Anwaltliche und… |
-| `fortbestehensprognose-zusammenfuehren` | Führt alle Bausteine zusammen — bilanzieller Status Annahmen Plausibilisierung 12-Monats-Liquiditaet Sensitivitaetsszenarien — und bewertet ob die Fortbestehensprognose nach § 19 Abs. 2 InsO positiv ist. Maßstab… |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| `liquiditaet-12-monate` | Erstellt die rollierende Zwoelf-Monats-Liquiditaetsvorschau auf Basis der plausibilisierten Annahmen. Pro Woche oder pro Monat Aufstellung der Einzahlungen und Auszahlungen Anfangsbestand Endbestand Linieverbleib.… |
-| `patronatserklaerung-extern-hart-erzeugen` | Erzeugt eine harte externe Patronatserklärung des Gesellschafters (oder eines Dritten) zugunsten der Gesellschaft. Erfasst Patron Begueneten Höhe Bedingungen Laufzeit Insolvenzfeste Klausel. Zur Berücksichtigung im… |
-| `prognose-dokumentation-stichtag` | Abschließende Selbstdokumentation der Fortbestehensprognose zum konkreten Stichtag. Enthaelt Ausgangslage Annahmen Plausibilisierung Liquiditaet Szenarien Sanierungsbausteine mit Belegen Gesamtergebnis. Dient als Beleg… |
-| `sanierungsbausteine-vorschlagen` | Wenn die Fortbestehensprognose ohne Maßnahmen negativ oder knapp positiv ist schlaegt dieser Skill konkrete Sanierungsbausteine vor. Auswahl Patronatserklärung hart Comfortletter Gesellschafterdarlehen mit… |
-| `stundungsanfrage-glaeubiger` | Erzeugt Stundungsanfragen an Gläubiger (Lieferanten Bank Vermieter Steueramt Sozialversicherungstraeger). Erfasst pro Gläubiger Forderungshoehe Fälligkeit Stundungswunsch (neue Fälligkeit Ratenzahlung Tilgungspause)… |
-| `wenn-prognose-negativ-naechste-schritte` | Wenn die Fortbestehensprognose negativ ausfaellt — Eskalations- und Pflichtenkatalog für den Geschäftsleiter. Antragspflicht § 15a InsO sechs Wochen bei Überschuldung drei Wochen bei Zahlungsunfähigkeit. Zahlungsverbot… |
+| Zahlungsunfähigkeit § 17 InsO | drei Wochen (§ 15a Abs. 1 S. 2 InsO) |
+| Überschuldung § 19 InsO | sechs Wochen (§ 15a Abs. 1 S. 2 InsO seit SanInsFoG 2021) |
+| Drohende Zahlungsunfähigkeit § 18 InsO | **keine Antragspflicht** — aber Antragsoption |
 
-## Worum geht es?
+**Achtung**: Die Frist beginnt mit **Eintritt** des Insolvenzgrunds — nicht mit Kenntnis. Im Streit ist das objektive Datum maßgeblich.
 
-Dieses Plugin begleitet Geschäftsführer und Vorstande bei der Erstellung einer Fortbestehensprognose nach § 19 Abs. 2 InsO. Es dokumentiert Schritt für Schritt: ausloesende Ereignisse, bilanziellen Status, Fortfuehrungsannahmen, Plausibilisierung, rollende Zwoelf-Monats-Liquiditaet, Sensitivitaetsszenarien und Sanierungsbausteine (Patronatserklaerung, Comfortletter, Rangrücktritt, Stundung, Forderungsverzicht). Wenn die Prognose negativ ausfaellt, eskaliert das Plugin zum Pflichtenkatalog des Geschäftsführers nach §§ 15a, 15b InsO.
+## Mittelfristige Optionen (zusammen mit Insolvenzanwalt)
 
-Das Plugin richtet sich an Eigenverantwortliche: Geschäftsführer, Vorstande und Finanzleiter — nicht als Ersatz für die Beauftragung eines Insolvenzrechtsanwalts.
+### Option A — Regelinsolvenzantrag
 
-## Wann brauchen Sie diese Skill?
+- Selbstantrag § 15 InsO.
+- Antrag durch Insolvenzanwalt vorbereitet.
+- Bei Eröffnung: Insolvenzverwalter übernimmt.
 
-- Der Steuerberater oder Wirtschaftspruefer weist auf negatives Eigenkapital oder bilanziellen Ueberschuldungsverdacht hin (§ 102 StaRUG).
-- Das Unternehmen zeigt Liquiditaetsengpaesse und Sie als Geschäftsführer müssen dokumentieren, dass Sie aktiv gehandelt haben.
-- Gesellschafter oder Banken verlangen eine Fortbestehensprognose als Voraussetzung für Unterstuetzungsmassnahmen.
-- Sie prüfe Sanierungsbausteine (Gesellschafterdarlehen, Rangrücktritt, Patronatserklaerung) und wollen die insolvenzrechtliche Wirkung verstehen.
-- Die Prognose ist knapp positiv oder negativ und Sie benoetigen den Pflichtenkatalog für die naechsten Schritte.
+### Option B — Eigenverwaltungsantrag (§ 270 ff. InsO)
 
-## Fachbegriffe (kurz erklaert)
+- Geschäftsleitung bleibt im Amt (Sachwalter wird bestellt).
+- Voraussetzungen Eigenverwaltungsplan strenge Bonitätsanforderung.
 
-- **Fortbestehensprognose** — Einschaetzung, ob das Unternehmen im Prognosezeitraum (ueblicherweise 12 Monate) ueberwiegend wahrscheinlich zahlungsfaehig bleiben wird (§ 19 Abs. 2 InsO, Maßstab IDW S 11).
-- **Ueberschuldung** — Passiva uebersteigen Aktiva nach bilanzieller Bewertung; bei positiver Fortbestehensprognose kein Insolvenzgrund nach § 19 Abs. 2 InsO.
-- **Rangrücktritt** — Erklaerung des Gesellschafters, seine Darlehensforderung hinter alle anderen Gläubiger zurueckzustellen; fuehrt zur Nichtpassivierung im insolvenzrechtlichen Status.
-- **Patronatserklaerung (hart)** — Rechtsverbindliche Erklaerung des Gesellschafters oder Mutterunternehmens, die Tochtergesellschaft so auszustatten, dass sie zahlungsfaehig bleibt; beruecksichtigungsfaehig im Status.
-- **Comfortletter** — Weiche Erklaerung des Patrons; nicht rechtsverbindlich; nicht ausreichend für insolvenzrechtlichen Status.
-- **IDW S 11** — Institut der Wirtschaftspruefer, Standard 11: Maßstab und Methodik für die Fortbestehensprognose.
-- **StaRUG** — Gesetz über den Stabilisierungs- und Restrukturierungsrahmen; Option vor formeller Insolvenz.
+### Option C — Schutzschirmverfahren (§ 270d InsO)
 
-## Rechtsgrundlagen
+- Bei drohender Zahlungsunfähigkeit oder Überschuldung **vor** Eintritt der Zahlungsunfähigkeit.
+- Bescheinigung eines erfahrenen Sanierungsanwalts oder WPs erforderlich (Aussichten auf Sanierung).
+- Antrag auf Schutzschirm zur Erarbeitung eines Insolvenzplans.
 
-- § 17 InsO — Zahlungsunfaehigkeit (Insolvenzgrund)
-- § 18 InsO — Drohende Zahlungsunfaehigkeit (nur Eigenantrag; Prognosezeitraum 24 Monate)
-- § 19 InsO — Ueberschuldung und Fortbestehensprognose (Prognosezeitraum **12 Monate** seit 01.01.2024; SanInsKG-Verkürzung auf 4 Monate galt nur bis 31.12.2023, ist nicht verlängert worden)
-- § 15a InsO — Insolvenzantragspflicht (sechs Wochen bei Ueberschuldung, drei Wochen bei Zahlungsunfaehigkeit)
-- § 15b InsO — Zahlungsverbot und Haftung bei Insolvenzverschleppung
-- § 43 GmbHG — Haftung des Geschäftsführers
-- §§ 1-93 StaRUG — Restrukturierungsrahmen
-- **BGH IX ZR 285/14 vom 26.01.2017** — Steuerberater-Hinweispflicht bei Krisensignalen; bei verfehlter Fortbestehensprognose haftet Berater. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=26.01.2017&Aktenzeichen=IX+ZR+285/14>
-- **BGH IX ZR 56/22 vom 29.06.2023** — Drittschutzwirkung zugunsten des (faktischen) GF. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=29.06.2023&Aktenzeichen=IX+ZR+56/22>
-- **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen GF. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
-- § 3a EStG — Steuerliche Behandlung Sanierungsgewinn
+### Option D — StaRUG-Restrukturierungsrahmen
 
-## Schritt-für-Schritt: Einstieg ins Plugin
+- Nur bei **drohender** Zahlungsunfähigkeit § 18 InsO (24-Monats-Prognose) — **nicht** bei akuter Zahlungsunfähigkeit oder Überschuldung.
+- Restrukturierungsplan mit Gläubiger-Mehrheiten.
+- Restrukturierungsbeauftragter durch Restrukturierungsgericht.
+- Bescheinigung nach §§ 50 51 StaRUG (IDW S 9) wird empfohlen.
 
-1. Mandantenkonstellation klären: Wer nutzt das Plugin (GF, Vorstand, Finanzleiter), Rechtsform, Geschäftsjahr, Buchhaltungssystem.
-2. Phase des Mandats bestimmen: Ausloeser erfassen, bilanzieller Status, Annahmen, Plausibilisierung, Liquiditaetsplanung oder Sanierungsbaustein-Erstellung.
-3. Passenden Skill auswaehlen (siehe Skill-Tour).
-4. Eilfristen prüfen: Dreiwochenfrist Zahlungsunfaehigkeit, Sechswochenfrist Ueberschuldung nach § 15a InsO.
-5. Anschluss-Skill bestimmen: Wenn Prognose negativ, sofort `wenn-prognose-negativ-naechste-schritte` und Insolvenzanwalt einbinden.
-
-## Skill-Tour (was gibt es hier?)
-
-**Konfiguration und Einstieg**
-
-- `fortbestehensprognose-kaltstart-interview` — Ersteinrichtung: Rolle, Rechtsform, Ansprechpartner, Buchhaltungssystem und Profil schreiben.
-
-**Aufnahme und Analyse**
-
-- `ausloesendes-ereignis-erfassen` — Dokumentiert Anlass, Datum, Hinweisgeber und Mitteilungsform der Fortbestehenspruefung.
-- `bilanzieller-status-aufnehmen` — Nimmt Aktiva, Passiva, Eigenkapital und ausserbilanzielle Verpflichtungen auf; prüft bilanziellen Ueberschuldungsverdacht.
-- `annahmen-sammeln-fortfuehrung` — Sammelt Fortfuehrungsannahmen zu Umsatz, Kosten, Personal, Investitionen und Working Capital.
-- `annahmen-belastbarkeit-plausibilisieren` — Plausibilisiert Annahmen gegen Vergangenheit und Marktentwicklung; erzeugt Plausibilitaetsprotokoll.
-- `liquiditaet-12-monate` — Rollende Zwoelf-Monats-Liquiditaetsvorschau mit Einzahlungen, Auszahlungen und Linienverbleib.
-
-**Sanierungsbausteine (Dokumente erzeugen)**
-
-- `sanierungsbausteine-vorschlagen` — Empfehlungsmatrix für Sanierungsmassnahmen nach Effekt und Umsetzungszeit.
-- `patronatserklaerung-extern-hart-erzeugen` — Harte externe Patronatserklaerung als DOCX zur Unterzeichnung erzeugen.
-- `comfortletter-weich-erzeugen` — Comfortletter (weich, nicht rechtsverbindlich) erstellen mit Warnhinweis zur insolvenzrechtlichen Wirkung.
-- `gesellschafterdarlehen-rangruecktritt` — BGH-konforme Rangruecktrittserklaerung nach § 19 Abs. 2 S. 2 InsO erzeugen.
-- `forderungsverzicht-besserungsschein` — Forderungsverzicht mit Besserungsschein erstellen mit steuerlichen Hinweisen.
-- `stundungsanfrage-glaeubiger` — Stundungsanfragen an Gläubiger (Lieferanten, Bank, Finanzamt, Sozialversicherung) individuell erstellen.
-
-**Prognose und Dokumentation**
-
-- `fortbestehensprognose-zusammenfuehren` — Alle Bausteine zusammenfuehren und Gesamtbewertung nach IDW S 11 erstellen.
-- `prognose-dokumentation-stichtag` — Abschliessende Selbstdokumentation zum Stichtag als Haftungsbeleg.
-
-**Eskalation**
-
-- `wenn-prognose-negativ-naechste-schritte` — Pflichtenkatalog bei negativer Prognose: § 15a InsO, § 15b InsO, StaRUG-Option, Insolvenzanwalt.
-
-## Worauf besonders achten
-
-- **Selbstdokumentation ersetzt keinen Insolvenzrechtsanwalt.** Das Plugin hilft GF bei Eigenverantwortung; bei negativer oder knapp positiver Prognose ist Fachanwaltskonsultation zwingend.
-- **Rangrücktritt muss BGH-konform formuliert sein.** Fehlformulierungen sind insolvenzrechtlich wirkungslos; Skill `gesellschafterdarlehen-rangruecktritt` liefert BGH-konforme Formulierung.
-- **Nur harte Patronatserklaerung ist beruecksichtigungsfaehig.** Comfortletter reicht nicht aus; das Plugin weist explizit darauf hin.
-- **Dreiwochenfrist laeuft ohne Hemmung.** Sobald Zahlungsunfaehigkeit eingetreten ist, laeuft § 15a InsO-Frist ohne Moeglichkeit der Verlaengerung.
-- **Steuerliche Folgen von Sanierungsgewinn beachten.** Forderungsverzicht loest beim Schuldner Ertrag aus; Skill `forderungsverzicht-besserungsschein` enthaelt entsprechenden Hinweis.
-
-## Typische Fehler
-
-- Prognose wird auf der Basis zu optimistischer Annahmen erstellt ohne Plausibilisierung gegen Vergangenheit und Markt.
-- Bilanzieller Status wird mit insolvenzrechtlichem Status gleichgesetzt; beide können abweichen (stille Reserven, Rangrücktritt).
-- Comfortletter wird als ausreichend für positiven Status behandelt; fuehrt zu fehlerhafter Prognose.
-- Dokumentation erfolgt nach dem Ereignis (nachtraeglich), nicht zum Stichtag; Haftungsschutz entfaellt.
-- Steuerwirkung des Sanierungsgewinns (§ 3a EStG) wird nicht beachtet; unerwartete Steuerlast.
-
-## Quellen und Aktualitaet
-
-- Stand: 05/2026
-- Gesetzesfassungen zum Stand-Datum (InsO, StaRUG, GmbHG, EStG, BGB)
-- IDW S 11 (Fortbestehensprognose) und IDW S 6 (Sanierungskonzept) in geltender Fassung
-
----
-
-## Skill: `stundungsanfrage-glaeubiger`
-
-_Erzeugt Stundungsanfragen an Gläubiger (Lieferanten Bank Vermieter Steueramt Sozialversicherungstraeger). Erfasst pro Gläubiger Forderungshoehe Fälligkeit Stundungswunsch (neue Fälligkeit Ratenzahlung Tilgungspause) Begründung Sicherheitsangebot. Pro Gläubiger eigenes Schreiben. Hinweis Steuerstu..._
-
-# Stundungsanfrage Gläubiger
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: IDW S 11 12-Monats-Prognose ab Stichtag, § 15a InsO 6 Wochen bei Überschuldung, Drei-Wochen-Liquiditätsstockungs-Test, jährliche Aktualisierung.
-- Tragende Normen verifizieren: InsO § 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB § 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG §§ 1, 102 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wirkung in der Liquiditätsplanung
-
-Eine Stundung verschiebt die Fälligkeit eines Liquiditätsabflusses nach hinten oder verteilt ihn in Raten. Wirkung:
-
-- **Verbessert** die Liquidität im Stundungszeitraum.
-- **Verschlechtert** die Liquidität im Folgezeitraum (es sei denn umgekehrt durch operativ erwirtschaftete Mittel kompensiert).
-- **Nur schriftlich** im Liquiditätsplan ansetzen.
-
-Eine muendlich erbetene und nicht schriftlich zugestandene Stundung darf nicht in den Liquiditätsplan eingebaut werden.
-
-## Kategorien der Gläubiger
-
-### 1. Lieferanten
-
-- Regelmäßig **bilateral verhandelbar**.
-- Beziehungs-Vorteil: Lieferanten haben Interesse an Fortführung des Kunden.
-- Empfehlung: schriftliche Stundungsanfrage mit konkretem Verzugsplan und ggf. **Teilzahlung als Goodwill-Geste**.
-
-### 2. Bank
-
-- Bei bestehenden Darlehen Tilgungspause oder Verlängerung.
-- Bei Kreditlinie Erhöhung oder Verlängerung.
-- Bank verlangt regelmäßig **Sanierungskonzept** (IDW S 6) oder zumindest die Fortbestehensprognose.
-- Verhandlung erfordert Bankgespräch — schriftliche Stundungszusage ggf. erst nach Prüfung.
-
-### 3. Vermieter
-
-- Verhandlung möglich. Mietkündigung gemäß BGB § 543 wegen Zahlungsverzug nicht stundungsfähig — Verzug muss vermieden werden.
-- Schriftliche Stundungszusage erforderlich.
-
-### 4. Steueramt (§ 222 AO)
-
-- **Erhebliche Härte** muss vorliegen (§ 222 S. 1 AO).
-- Stundung ist **Ermessensentscheidung** der Finanzbehörde.
-- Bei drohender Insolvenz oft restriktiv.
-- Sicherheitsleistung verlangt (§ 222 S. 2 AO).
-- Hinweis: Lohnsteuer kann **nicht** gestundet werden (§ 222 S. 3 AO i.V.m. § 41a EStG).
-
-### 5. Sozialversicherungsträger (§ 76 Abs. 2 SGB IV)
-
-- **Sehr restriktiv** — nur in Ausnahmefällen.
-- Sozialversicherungsbeitraege sind treuhaenderisch und Arbeitnehmer-Anteil.
-- Nichtabführung kann § 266a StGB auslösen (Vorenthalten Sozialversicherungsbeitraege Arbeitnehmer-Anteil).
-- **Pflicht zur Abführung** der Arbeitnehmer-Beitraege bleibt grundsätzlich auch bei Stundung — daher Stundung praktisch fast unwirksam.
-
-## Mustervorlage Lieferant
-
-```
-[Briefkopf der Gesellschaft]
-
-[Datum]
-
-An [Lieferant]
-[Anschrift]
-
-Betreff: Stundungsanfrage Rechnungen Nr. [...] vom [...]
-
-Sehr geehrte Damen und Herren,
-
-mit Bezug auf die offenen Rechnungen
-
- Rechnung Nr. [...] vom [...] in Höhe von [...] EUR (fällig [...])
- Rechnung Nr. [...] vom [...] in Höhe von [...] EUR (fällig [...])
- Gesamt offene Forderung: [...] EUR
-
-bitten wir Sie um Stundung wie folgt:
-
- - Fälligkeit verschoben auf [neues Datum]
- - alternativ Ratenzahlung in [N] gleichen Monatsraten ab [Datum]
- - Erste Rate in Höhe von [...] EUR überweisen wir bereits am [...]
-
-Hintergrund: Unsere Gesellschaft befindet sich in einer angespannten
-wirtschaftlichen Phase die wir aktiv durch Maßnahmen (Standortoptimierung
-Patronatserklärung des Hauptgesellschafters Erhöhung der Kreditlinie)
-gegensteuern. Eine vollständige Fortbestehensprognose nach § 19 Abs. 2 InsO
-liegt unserer Geschäftsführung vor; sie weist mit Maßnahmen positive
-Wahrscheinlichkeit aus.
-
-Wir versichern Ihnen dass die Lieferung und Zahlung in der Geschäftsbeziehung
-absolute Prioritaet hat. Unsere Beziehung zu Ihnen ist langfristig und wir
-sehen unsere Verpflichtung gegenüber Ihnen ausserordentlich.
-
-Eine schriftliche Bestätigung der Stundung erbitten wir bis zum [Datum].
-
-Mit freundlichen Grüßen
-
-[Geschäftsführer]
-```
-
-## Mustervorlage Bank
-
-```
-[Briefkopf der Gesellschaft]
-
-[Datum]
-
-An [Bank]
-[Anschrift]
-
-Betreff: Antrag auf Tilgungspause Darlehen Nr. [...] / Verlängerung
- Kreditlinie
-
-Sehr geehrte Damen und Herren,
-
-mit Verweis auf unsere bestehende Geschäftsbeziehung beantragen wir:
-
-1. Tilgungspause für das Darlehen Nr. [...] in Höhe von [...] EUR für einen
-Zeitraum von [...] Monaten (von [...] bis [...]).
-
-2. Verlängerung der Kreditlinie (Linie [...] EUR) bis zum [...].
-
-Hintergrund: Unsere Gesellschaft befindet sich in einer wirtschaftlich
-angespannten Phase die wir aktiv durch Maßnahmen gegensteuern. Eine
-Fortbestehensprognose nach § 19 Abs. 2 InsO liegt vor und weist mit unseren
-laufenden Sanierungsmaßnahmen einschließlich Patronatserklärung des
-Hauptgesellschafters in Höhe von [...] EUR positive Wahrscheinlichkeit auf
-die Fortfuehrung im Prognosezeitraum von zwölf Monaten.
-
-Wir übersenden Ihnen vorab:
-
- - Fortbestehensprognose mit Stichtag [...]
- - Patronatserklärung des Hauptgesellschafters vom [...]
- - 12-Monats-Liquiditätsplan einschließlich Sensitivitaetsszenarien
-
-Für ein persönliches Gespraech sind wir gerne kurzfristig verfügbar.
-
-Mit freundlichen Grüßen
-
-[Geschäftsführer]
-```
-
-## Mustervorlage Steueramt (§ 222 AO)
-
-```
-[Briefkopf der Gesellschaft]
-
-[Datum]
-
-An das Finanzamt [...]
-[Anschrift]
-
-Steuernummer: [...]
-
-Betreff: Antrag auf Stundung gemäß § 222 AO
-
-Sehr geehrte Damen und Herren,
-
-namens und im Auftrag der oben genannten Gesellschaft beantragen wir gemäß
-§ 222 AO Stundung der nachstehenden Steuern:
-
- Koerperschaftsteuer Vorauszahlung Q2/2026, fällig [...]: [...] EUR
- Solidaritaetszuschlag, fällig [...]: [...] EUR
- Gewerbesteuer Vorauszahlung Q2/2026, fällig [...]: [...] EUR
-
-bis zum [neues Datum] beziehungsweise alternativ Ratenzahlung in
-[N] Monatsraten ab [...].
-
-Begründung: Die Erhebung der Steuer in der gesetzten Frist würde eine
-erhebliche Haerte für die Steuerpflichtige bedeuten. Ihre wirtschaftliche
-Lage ist angespannt; eine Fortbestehensprognose mit positiver Wahrscheinlichkeit
-ist erstellt. Die laufenden Verhandlungen mit Patronen und Kreditgebern
-zeigen positive Entwicklung; mit Vollzug der Sanierungsbausteine ist die
-fristgerechte Zahlung gesichert.
-
-Über Sicherheitsleistung ($ 222 S. 2 AO) sind wir gerne im Gespraech
-(z. B. Bürgschaft des Patrons Sicherungsuebereignung Maschinen).
-
-Auf Verlangen reichen wir Folgendes nach:
-
- - Fortbestehensprognose mit Stichtag [...]
- - Aktueller Liquiditätsplan
- - Patronatserklärung des Hauptgesellschafters
-
-Lohnsteuer und Umsatzsteuer (Treuhand-Steuern) sind hiervon ausdrücklich nicht
-betroffen. Diese werden weiterhin fristgerecht abgeführt.
-
-Mit freundlichen Grüßen
-
-[Geschäftsführer]
-```
-
-## Schriftliche Stundungszusage
-
-Erst nach **schriftlicher** Stundungszusage des Gläubigers darf die Fälligkeit im Liquiditätsplan verschoben werden.
+## Prüfraster Auswahl Verfahren
 
 ```yaml
-stundungen:
- - glaeubiger: Lieferant XYZ GmbH
- offene-forderung: 24000
- urspruengliche-faelligkeit: 2026-06-15
- gestundete-faelligkeit: 2026-09-15
- zusage-vom: 2026-06-05
- zusage-form: E-Mail mit Bestätigung
- bemerkung: Anzahlung 5000 EUR mit Stundungserklärung gezahlt
+verfahren-pruefraster:
+ zahlungsunfaehigkeit-eingetreten:
+ frist: drei-Wochen
+ optionen:
+ - Regelinsolvenzantrag (Selbstantrag)
+ - Eigenverwaltung (wenn Voraussetzungen erfüllt)
+ - Schutzschirmverfahren nur bei drohender Zahlungsunfähigkeit
+ BEVOR Zahlungsunfähigkeit eintrat
+ ausgeschlossen: StaRUG (zu spaet)
+
+ überschuldung-eingetreten-aber-zahlungsfähig:
+ frist: sechs-Wochen
+ optionen:
+ - Regelinsolvenzantrag
+ - Eigenverwaltung
+ - Schutzschirmverfahren
+ pruefung-staerug: nur wenn drohende Zahlungsunfähigkeit
+ separat festgestellt werden kann (Prognose 24 Monate negativ)
+
+ drohende-zahlungsunfaehigkeit:
+ frist: keine
+ optionen:
+ - StaRUG-Restrukturierungsrahmen (bevorzugt)
+ - Eigenantrag § 18 InsO mit Eigenverwaltung
+ - Schutzschirmverfahren
 ```
 
-## Ausgabe
+## Beratungsbedarf
 
-- Pro Gläubiger eigenes `stundungsanfrage-<glaeubiger>.docx`.
-- Versand per Einschreiben oder über Bank-Portal / E-Mail.
-- Wiedervorlage zur Prüfung der Zusage in 14 Tagen.
-- Tracker mit Status (versendet / zugesagt / abgelehnt / verhandlung).
-- Hinweis: bei Ablehnung Liquiditätsplan-Update mit weiteren Maßnahmen erforderlich.
+In jedem Fall:
 
-## Aktuelle Leitentscheidungen — Stundungsanfragen
+- **Insolvenzanwalt** (Skill `insolvenzrecht` aus dem entsprechenden Plugin)
+- **Wirtschaftsprüfer** bei IDW S 11 / S 9 Bescheinigung
+- **Sanierungsberater** wenn Sanierungskonzept IDW S 6 erforderlich
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+## Eskalation an Insolvenzanwalt
 
-## Paragrafenkette Stundungsanfragen
-
-§ 271 BGB (Faelligkeit) → § 222 AO (Stundung Steuer) → § 76 SGB IV (Stundung SV-Beitraege) → § 17 InsO (ZU-Beseitigung durch Stundung) → § 130 InsO (Anfechtungsrisiko bei Stundungsvereinbarung)
-
-## Triage — Stundungsanfrage-Strategie
-
-1. **Gläubiger-Typ?** Lieferant (oft kulant), Bank (meist rigide), FA (sachliche Haerte erforderlich), SV-Traeger (sehr restriktiv).
-2. **Stundungszeitraum?** Realistischer Zeitraum bis zur Liquiditaetsverbesserung angeben.
-3. **Sicherheitsangebot?** Abtretung Forderungen, Eigentuemervorbehalt-Verlaengerung, persönliche Buergschaft GF?
-4. **Anfechtungsrisiko?** Stundungsvereinbarung in Krisenzeit + spaetere Zahlung = § 130 InsO Risiko; FA-Stundungsantrag schriftlich und mit Liquiditaetsplan belegen.
-
-## Output-Template Stundungsschreiben an Finanzamt
-
-**Adressat:** Finanzamt [ORT] — Tonfall: sachlich-erklaerend
+Schreiben an Insolvenzanwalt:
 
 ```
-Stundungsantrag nach § 222 AO
-Steuernummer: [STEUERNUMMER]
-Schuldner: [FIRMA]
-Datum: [DATUM]
-
 Sehr geehrte Damen und Herren,
 
-wir beantragen Stundung der faelligen Steuerverbindlichkeiten aus [Steuerbescheid vom DATUM, Az. XX]
-in Hoehe von EUR [BETRAG] bis zum [DATUM].
+ich bin Geschäftsführer der [Firma]. Nach Erstellung der
+Fortbestehensprognose nach § 19 Abs. 2 InsO zum Stichtag [Datum] habe ich
+das Ergebnis dass die Prognose negativ ausfaellt. Damit liegt
+insolvenzrechtliche Überschuldung vor.
 
-Begruendung:
-[FIRMA] befindet sich in einer voruibergehenden Liquiditaetsengpass-Situation aufgrund [Ursache].
-Eine detaillierte Liquiditaetsplanung liegt als Anlage bei (Anlage 1 — 13-Wochen-Forecast).
-Nach aktueller Planung ist die Begleichung der Steuerschuld bis [DATUM] moeglich.
+Stichtag: [Datum]
+Anlass: [siehe Fortbestehensprognose Anlage]
+Ergebnis: insolvenzrechtliche Überschuldung
+Frist § 15a InsO: bis [Datum + sechs Wochen]
 
-Wir bitten um Stundung ohne Saumniszuschlaege für den genannten Zeitraum.
+Ich bitte um umgehende Terminvereinbarung zur Prüfung des weiteren Vorgehens
+(Regelinsolvenz / Eigenverwaltung / Schutzschirmverfahren / ggf. StaRUG).
 
-Anlagen: Liquiditaetsplanung (Anlage 1), aktuelle BWA (Anlage 2)
-```
-
----
-
-## Skill: `comfortletter-weich-erzeugen`
-
-_Erzeugt einen Comfortletter — eine weiche Erklärung des Patrons oder Mutterunternehmens das Tochterunternehmen zu unterstuetzen. Im Gegensatz zur harten externen Patronatserklärung ist der Comfortletter nicht rechtsverbindlich durchsetzbar. Wirkung Reputation und Banken-Signal. Nicht ausreichend..._
-
-# Comfortletter (weich)
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: IDW S 11 12-Monats-Prognose ab Stichtag, § 15a InsO 6 Wochen bei Überschuldung, Drei-Wochen-Liquiditätsstockungs-Test, jährliche Aktualisierung.
-- Tragende Normen verifizieren: InsO § 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB § 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG §§ 1, 102 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wirkung und Grenze
-
-Der Comfortletter ist eine **moralische Unterstützungserklärung** ohne rechtliche Bindung. Er wirkt im Geschäftsverkehr (Bank Lieferant Investor) als **Reputations-Signal**.
-
-**Wirkung im Status der Gesellschaft**:
-
-- **Keine** Berücksichtigung als Aktivposten.
-- **Keine** Wirkung auf die Fortbestehensprognose.
-- **Reine** Unterstützungsabsichtserklärung.
-
-Wer den Comfortletter mit einer harten externen Patronatserklärung verwechselt schiebt eine **Selbsttaeuschung** in den Status hinein. Bei späterer Insolvenz wird das aufgedeckt; Haftungsrisiko des Geschäftsleiters § 15b InsO und § 43 GmbHG.
-
-## Wann sinnvoll
-
-- **Bank-Signal**: Die Bank verlangt eine schriftliche Unterstützungsabsicht des Mutterunternehmens — nicht als Sicherheit aber als Indikator.
-- **Lieferanten-Signal**: Beim Verhandeln mit Lieferanten kann der Comfortletter Vertrauen schaffen.
-- **Investor-Signal**: Bei Verhandlungen mit potenziellen Investoren als "Soft Backing".
-
-## Wann NICHT sinnvoll
-
-- Als **alleinige** Maßnahme im Status der Gesellschaft.
-- Wenn die Fortbestehensprognose ohne den Comfortletter negativ ist.
-- Wenn der Patron tatsächlich bonitaer ist und eine harte Erklärung abgeben könnte (dann sollte er auch).
-
-## Mustervorlage
-
-```
-COMFORTLETTER
-
-[Briefkopf des Patrons]
-
-[Datum]
-
-An die Geschäftsführung
-der [Firma der Gesellschaft]
-[Anschrift]
-
-Sehr geehrte(r) [Anrede Geschäftsführer],
-
-als [Hauptgesellschafter / Mutterunternehmen / Patron] der [Firma der
-Gesellschaft] übermitteln wir Ihnen hiermit die folgende
-Unterstuetzungsabsichtserklärung:
-
-1. Wir verfolgen mit Interesse die wirtschaftliche Entwicklung der Gesellschaft
-und beobachten ihre Lage.
-
-2. Wir beabsichtigen die Gesellschaft für die Erfüllung ihrer wirtschaftlichen
-und finanziellen Verpflichtungen im Rahmen unseres unternehmerischen
-Beurteilungsspielraums und nach unseren Möglichkeiten zu unterstützen.
-
-3. Diese Erklärung stellt KEINE rechtsverbindliche Garantie und KEINE harte
-Patronatserklärung dar. Sie begründet keine einklagbare Verpflichtung uns
-gegenüber der Gesellschaft oder ihren Gläubigern.
-
-4. Diese Erklärung kann jederzeit ohne Begründung schriftlich widerrufen
-werden.
-
-[Optionale Ergänzung — sehr behutsam]:
-
-5. Wir werden im Falle einer akuten Liquiditätsenge unser unternehmerisches
-Urteil dahingehend ausueben möglichst rechtzeitig Maßnahmen zu prüfen.
+Anlagen:
+ - Fortbestehensprognose mit allen Anlagen (Datum [...])
+ - Bilanz [Jahr]
+ - Aktuelle BWA SuSa
+ - 12-Monats-Liquiditätsplan
+ - Sanierungsbausteine-Empfehlung
 
 Mit freundlichen Grüßen
-
-[Patron]
-[Position]
-```
-
-## Hinweise
-
-- Comfortletter sollte **klar als solchen** bezeichnet werden — keine missverständlichen Formulierungen die als Patronatserklärung gewertet werden könnten (im Streit wird das anhand des Wortlauts geprüft).
-- **Schriftlich** und unterzeichnet.
-- Im Geschäftsverkehr klar als unverbindlich kommunizieren.
-
-## Ausgabe
-
-- `comfortletter.docx` und PDF.
-- Warnhinweis im Sanierungsbausteine-Tracker dass dieser Comfortletter die Prognose NICHT trägt.
-- Empfehlung: parallel zum Comfortletter eine harte externe Patronatserklärung mit konkretem Höchstbetrag (Skill `patronatserklaerung-extern-hart-erzeugen`).
-
-## Aktuelle Leitentscheidungen — Comfortletter
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Paragrafenkette Comfortletter
-
-§ 19 Abs. 2 S. 2 InsO (Passivierungsverbot nur für qualifizierten Rangrücktritt) → § 311 BGB (vorvertragliche Haftung aus Comfortletter) → § 241 Abs. 2 BGB (Schutzpflichten) → § 43 GmbHG (Haftung der Konzernmutter)
-
-## Triage — Comfortletter vs. Patronatserklaerung
-
-1. **Zweck?** Bankgespraech, Fortbestehensprognose oder echte rechtliche Sicherung? → Banken akzeptieren oft Comfortletter; Prognose benoetigt harte Patronatserklaerung.
-2. **Rechtsbindungswillen?** Comfortletter = keine Rechtsbindung; Patronatserklaerung = verbindlich.
-3. **Formulierung?** Vage Formulierungen ("werden unterstuetzen") können trotzdem Haftung ausloesen.
-4. **Alternative?** Ersetze Comfortletter durch qualifizierten Rangrücktritt oder harte Patronatserklaerung wenn Fortbestehensprognose abgesichert werden soll.
-
----
-
-## Skill: `prognose-stichtag-stundungsanfrage-glaeubiger`
-
-_Abschließende Selbstdokumentation der Fortbestehensprognose zum konkreten Stichtag. Enthaelt Ausgangslage Annahmen Plausibilisierung Liquiditaet Szenarien Sanierungsbausteine mit Belegen Gesamtergebnis. Dient als Beleg gegenüber dem Geschäftsleiter dass er aktiv geprüft hat (Haftung § 15b InsO §..._
-
-# Prognose-Dokumentation Stichtag
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: IDW S 11 12-Monats-Prognose ab Stichtag, § 15a InsO 6 Wochen bei Überschuldung, Drei-Wochen-Liquiditätsstockungs-Test, jährliche Aktualisierung.
-- Tragende Normen verifizieren: InsO § 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB § 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG §§ 1, 102 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Pflichtinhalte
-
-Die Dokumentation enthält:
-
-1. **Stichtag** und Anlass
-2. **Bilanzieller Status** zum Stichtag mit Aktiva Passiva Eigenkapital Stillen Reserven Stillen Lasten Rangrücktritt
-3. **Insolvenzrechtliche Bilanzbasis** mit Rechnung
-4. **Annahmen** im Einzelnen mit Belegen und Plausibilisierung
-5. **12-Monats-Liquidität** in Szenarien Basis Negativ Stress
-6. **Sanierungsbausteine** mit Status (verbindlich umgesetzt / in Verhandlung / geplant)
-7. **Gesamtergebnis** mit Begründung
-8. **Wiedervorlage-Termin**
-
-## Dokumenten-Vorlage
-
-```
-FORTBESTEHENSPROGNOSE
-nach § 19 Abs. 2 InsO
-
-Gesellschaft: [Firma]
-HRB: [Nummer], AG [Sitz]
-Rechtsform: [GmbH / AG]
-
-Stichtag der Prognose: [Datum]
-Erstellt durch: [Geschäftsführer Name]
-Prognosehorizont: [Monat plus zwölf Monate]
-
-1. ANLASS
-
-[Aus Skill ausloesendes-ereignis-erfassen — z. B. "Hinweis des Steuerberaters
-nach § 102 StaRUG vom [Datum] mit dem Hinweis dass die Bilanz 2025 ein
-negatives Eigenkapital von [Betrag] EUR aufweist und eine Fortbestehensprognose
-nach § 19 Abs. 2 InsO erstellt werden soll."]
-
-2. BILANZIELLER STATUS
-
-[Aus Skill bilanzieller-status-aufnehmen — als knappe Tabelle mit
-Aktiva-Passiva und ausweisbarer bilanzieller Überschuldung.]
-
-3. STILLE RESERVEN UND LASTEN
-
-[Stille Reserven mit Bewertung. Stille Lasten gegengerechnet.]
-
-4. RANGRUECKTRITTE
-
-[Forderungen mit qualifiziertem Rangrücktritt nach § 19 Abs. 2 S. 2 InsO.]
-
-5. INSOLVENZRECHTLICHE BILANZBASIS
-
-[Berechnung Aktiva plus Stille Reserven minus Stille Lasten gegen Passiva
-minus Rangrücktritts-Forderungen.]
-
-Ergebnis bilanzielle Prüfung: [positiv / negativ]
-Höhe: [Betrag] EUR
-
-6. ANNAHMEN FUER DIE FORTFUEHRUNG
-
-[Aus Skill annahmen-sammeln-fortfuehrung. Pro Annahme:
-Bezeichnung — Werte — Begründung — Beleg — Risiko.]
-
-7. PLAUSIBILISIERUNG DER ANNAHMEN
-
-[Aus Skill annahmen-belastbarkeit-plausibilisieren. Pro Annahme:
-Band (realistisch / konservativ / ambitioniert / nicht-belastbar) —
-Sensitivitaetsszenario.]
-
-8. LIQUIDITAET ZWOELF MONATE
-
-Basis-Szenario: [positiv / negativ / knapp positiv]
-Negativ-Szenario: [...]
-Stress-Szenario: [...]
-
-[Tabelle mit Monatsendbestaenden je Szenario.]
-
-9. SANIERUNGSBAUSTEINE
-
-[Aus Skill sanierungsbausteine-vorschlagen.
-Pro Baustein: Bezeichnung — Höhe — Umsetzungsstatus — Beleg.]
-
- - Patronatserklärung Hauptgesellschafter 200000 EUR — unterzeichnet
- am [Datum] — Anlage A1
- - Gesellschafterdarlehen 120000 EUR mit qualifiziertem Rangrücktritt —
- notariell beurkundet am [Datum] — Anlage A2
- - Stundungsvereinbarungen 5 Lieferanten — schriftlich vorhanden am
- [Datum] — Anlagen A3 bis A7
-
-10. GESAMTBEWERTUNG
-
-Maßstab: § 19 Abs. 2 InsO — überwiegend wahrscheinlich (mehr als 50 Prozent)
-dass das Unternehmen im Prognosezeitraum von zwölf Monaten zahlungsfähig
-fortgeführt werden kann.
-
-Ergebnis: [POSITIV / POSITIV MIT MASSNAHMEN / NEGATIV]
-
-Begründung:
-
-[Konkrete Begründung in zwei bis fünf Sätzen. Bei "positiv mit Maßnahmen"
-explizit aufzählen welche Maßnahmen umgesetzt sein müssen.]
-
-Folge: [Keine Antragspflicht aus Überschuldung / Antragspflicht ausgeloest]
-
-11. WIEDERVORLAGE
-
-Diese Prognose ist zu aktualisieren:
-
- - vierteljaehrlich zum [nächster Stichtag]
- - bei jeder wesentlichen Änderung der Annahmen
- - bei Eintritt eines der negativen Ereignisse aus dem Stress-Szenario
-
-12. ABSCHLIESSENDE ERKLAERUNG DES GESCHAEFTSFUEHRERS
-
-Ich erklaere dass ich die obigen Annahmen sorgfaeltig geprüft und mit den
-verfügbaren Informationen abgeglichen habe. Die Annahmen entsprechen meiner
-objektiven Einschätzung zum Stichtag. Bei wesentlichen Änderungen werde ich
-diese Prognose unverzueglich aktualisieren.
-
-[Ort], [Datum]
-
-___________________________
 [Geschäftsführer]
-
-ANLAGEN
-
- A1 Patronatserklärung Hauptgesellschafter
- A2 Gesellschafterdarlehen mit Rangrücktritt notariell
- A3 bis A7 Stundungsvereinbarungen
- A8 Liquiditätsplan 12 Monate (Excel)
- A9 Aktueller BWA SuSa
- A10 Hinweisschreiben Steuerberater § 102 StaRUG
- A11 Bilanz 2025 mit Anhang
 ```
 
-## Aufbewahrung
+## Auch im Zweifel
 
-- Original mit allen Anlagen in der Geschäftsleitungsakte.
-- Kopie an Steuerberater und Insolvenzanwalt (falls eingebunden).
-- Aufbewahrung mindestens **zehn Jahre** (Anlehnung an § 257 HGB Buchführungspflicht und ggf. § 147 AO).
-
-## Bei späterer Insolvenz
-
-Diese Dokumentation ist Beweis dass der Geschäftsleiter zum Stichtag eine **objektive** Prognose erstellt hat. Sie schuetzt im Haftungsprozess gegen Vorwuerfe:
-
-- **§ 15a Abs. 4 InsO** Insolvenzverschleppung — wenn die Prognose zum Stichtag positiv war kann nicht angenommen werden dass der Geschäftsleiter den Insolvenzgrund kannte und ignorierte.
-- **§ 15b InsO** Zahlungsverbot — wenn der Status zum Stichtag nicht-negativ war waren Zahlungen ab diesem Tag nicht zwingend pflichtwidrig.
-- **§ 43 GmbHG** Sorgfaltspflicht — Dokumentation belegt dass der Geschäftsleiter aktiv und mit Sorgfalt geprüft hat.
-- **§ 826 BGB** sittenwidrige Schädigung der Gläubiger — nicht erfüllt wenn objektive Prognose vorlag.
-
-## Bei aktualisierter Prognose
-
-Wenn die Prognose vierteljaehrlich aktualisiert wird, alte Prognosen aufheben und mit Stichtag-Vermerk archivieren. Die aktuelle Version bleibt federführend.
+Wenn nicht klar ist ob die Prognose negativ ist (Grenzfall): **lieber Anwalt einschalten** als die Frist verstreichen lassen. Die Anwaltsgebuehr ist deutlich geringer als die persönliche Haftung.
 
 ## Ausgabe
 
-- `fortbestehensprognose-<datum>.docx` und PDF mit allen Anlagen.
-- Sicherer Archivpfad: `fortbestehensprognose/protokolle/<stichtag>.zip` mit Anlagenkonvolut.
-- Wiedervorlage-Eintrag im Kalender vierteljaehrlich.
-- Bei "negativ" Eskalation an Insolvenzanwalt (Skill `wenn-prognose-negativ-naechste-schritte`).
-
-## Aktuelle Leitentscheidungen — Dokumentation der Prognose (Stand Mai 2026)
-
-- **BGH IX ZR 285/14 vom 26.01.2017** — Steuerberater haftet bei verfehlter FBP; Dokumentation der Hinweise und der angenommenen Prognoseannahmen ist Pflicht. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=26.01.2017&Aktenzeichen=IX+ZR+285/14>
-- **BGH IX ZR 56/22 vom 29.06.2023** — Drittschutzwirkung des Beratungsmandats; Dokumentation muss erkennbar machen, dass auch GF angesprochen ist. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=29.06.2023&Aktenzeichen=IX+ZR+56/22>
-- **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Wissentlichkeitsausschluss; lückenlose Dokumentation des Prognose-Prozesses ist entscheidend für die Verteidigung gegen "positive Kenntnis"-Vorwurf.
-
-## Paragrafenkette Dokumentation
-
-§ 15b Abs. 1 InsO (Zahlungsverbot nach Insolvenzreife) → § 43 Abs. 1 GmbHG (Sorgfaltspflicht) → § 93 AktG (Vorstandshaftung) → IDW S 11 (Dokumentationsstandard) → GOBD (Aufbewahrungspflichten digitaler Dokumente)
-
-## Triage — Dokumentations-Checkliste
-
-1. **Stichtag festlegen?** Datum und Uhrzeit der Erstellung dokumentieren.
-2. **Unterzeichnung?** Geschäftsführer unterschreibt Prognose (Beweisstueck bei spaeterer Haftungsfrage).
-3. **Anlagen?** Alle Berechnungs-Spreadsheets, Auszuege, IDW S 11-Gutachten als Anlagen beifuegen.
-4. **Wiedervorlage?** Naechste Aktualisierung terminieren (spaetestens nach 3 Monaten oder bei wesentlichen Änderungen).
-
----
-
-## Skill: `sanierungsbausteine-vorschlagen-annahmen`
-
-_Wenn die Fortbestehensprognose ohne Maßnahmen negativ oder knapp positiv ist schlaegt dieser Skill konkrete Sanierungsbausteine vor. Auswahl Patronatserklärung hart Comfortletter Gesellschafterdarlehen mit Rangrücktritt Stundungsvereinbarungen Forderungsverzichte mit Besserungsschein Eigenkapita..._
-
-# Sanierungsbausteine vorschlagen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: IDW S 11 12-Monats-Prognose ab Stichtag, § 15a InsO 6 Wochen bei Überschuldung, Drei-Wochen-Liquiditätsstockungs-Test, jährliche Aktualisierung.
-- Tragende Normen verifizieren: InsO § 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB § 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG §§ 1, 102 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Auswahlmatrix
-
-Aus der Zusammenführung (Skill `fortbestehensprognose-zusammenfuehren`) ergibt sich die Lücke zwischen aktueller Liquidität / Bilanzbasis und der Schwelle zur positiven Fortbestehensprognose. Die Bausteine sind nach Effekt und Umsetzungszeit zu wählen.
-
-| Baustein | Effekt | Umsetzungszeit | Skill |
-|---|---|---|---|
-| Externe harte Patronatserklärung | Liquiditäts- und Bilanzeffekt sofort | 1 bis 2 Tage | patronatserklaerung-extern-hart-erzeugen |
-| Comfortletter (intern/weich) | Symbolisch / Reputation; kein Bilanzeffekt | 1 Tag | comfortletter-weich-erzeugen |
-| Gesellschafterdarlehen mit Rangrücktritt | Bilanzeffekt sofort; Liquidität bei Auszahlung | 3 bis 7 Tage notariell | gesellschafterdarlehen-rangrücktritt |
-| Forderungsverzicht mit Besserungsschein | Bilanzeffekt sofort | 5 bis 14 Tage | forderungsverzicht-besserungsschein |
-| Stundung Forderung (Lieferant Bank) | Liquiditätseffekt sofort | 5 bis 10 Tage | stundungsanfrage-gläubiger |
-| Kapitalerhöhung Gesellschafter | Bilanz- und Liquiditätseffekt | 14 bis 28 Tage notariell | (Plugin gesellschaftsrecht) |
-| Sale-and-Lease-back | Liquidität einmalig | 14 bis 30 Tage | externe Bank |
-| Kreditlinienerhöhung | Liquidität sofort wenn zugesagt | je nach Bank | externe Bank |
-| StaRUG-Restrukturierungsplan | Vielschichtig — bei drohender Zahlungsunfähigkeit | mehrere Wochen | Plugin insolvenzrecht / StaRUG-Berater |
-
-## Prüfraster pro Baustein
-
-### Externe harte Patronatserklärung
-
-- **Patron** muss bonitaer sein und sich gegenüber dem Begueneten **direkt** verpflichten.
-- Patronatserklärung **schriftlich** mit **klarem Verzicht auf Insolvenzanforderung** im Insolvenzfall.
-- Mehrwert: Forderung des Patrons gegen sich selbst (im Insolvenzfall) entlastet den Status.
-- Skill `patronatserklaerung-extern-hart-erzeugen` mit Mustervorlage.
-
-### Comfortletter (weich)
-
-- **Nicht** ausreichend für die Fortbestehensprognose-Bilanzentlastung.
-- Kann aber **Liquiditätsunterstützung** signalisieren (z. B. an Bank).
-- Skill `comfortletter-weich-erzeugen`.
-
-### Gesellschafterdarlehen mit qualifiziertem Rangrücktritt
-
-- Bestehendes Gesellschafterdarlehen wird mit **qualifiziertem Rangrücktritt** versehen.
-- Im Status nicht passiviert (§ 19 Abs. 2 S. 2 InsO).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Form: **notariell oder mit Schriftform unterzeichnet von beiden Parteien**.
-- Skill `gesellschafterdarlehen-rangruecktritt`.
-
-### Forderungsverzicht mit Besserungsschein
-
-- Gläubiger verzichtet auf Forderung — im Insolvenzfall waere er ohnehin Auseinandersetzungsgläubiger.
-- **Besserungsschein** lebt die Forderung wieder auf wenn das Unternehmen wieder zahlungsfähig.
-- Steuerliche Folgen prüfen (Ertrag aus Forderungsverzicht — Sanierungsklausel § 3a EStG).
-- Skill `forderungsverzicht-besserungsschein`.
-
-### Stundungen
-
-- Lieferanten Bank Steuern (Achtung: Steuerstundung § 222 AO) Sozialversicherung (sehr restriktiv).
-- **Schriftlich** und mit **klarem Termin**.
-- Skill `stundungsanfrage-glaeubiger`.
-
-### Kapitalerhöhung
-
-- Bareinlage durch Gesellschafter oder Sacheinlage (mit Sachgründungsbericht).
-- Notarurkunde Handelsregistereintragung.
-- Plugin `gesellschaftsrecht` (Skill kapitalerhöhung).
-
-### Sale-and-Lease-back
-
-- Verkauf eines Vermögenswerts (Maschine Grundstück) an Leasing-Geber mit anschließendem Leasing.
-- Liquiditätseffekt einmalig.
-- Folgekosten (Leasingraten) im Liquiditätsplan berücksichtigen.
-
-### StaRUG-Restrukturierungsplan
-
-- Nur bei **drohender** Zahlungsunfähigkeit (§ 18 InsO mit Prognose 24 Monate) — nicht bei akuter Zahlungsunfähigkeit oder Überschuldung.
-- Restrukturierungsbeauftragter wird vom Gericht bestellt.
-- Plan kann **mit Mehrheit der Gläubiger** durchgesetzt werden.
-- Externe Begleitung durch StaRUG-Anwalt notwendig.
-
-## Empfehlungslogik
-
-```yaml
-empfehlungen:
- zur-erreichung-positive-prognose:
- pflicht:
- - baustein: patronatserklaerung-extern-hart
- umfang: 200000 EUR
- patron: Hauptgesellschafter
- skill: patronatserklaerung-extern-hart-erzeugen
- prioritaet: kritisch
- umsetzung-bis: 2026-05-27
-
- empfohlen:
- - baustein: stundungsanfrage-glaeubiger
- anzahl: 5 Lieferanten
- skill: stundungsanfrage-glaeubiger
- prioritaet: hoch
- umsetzung-bis: 2026-06-15
-
- - baustein: gesellschafterdarlehen-rangruecktritt
- umfang: 120000 EUR bestehend
- skill: gesellschafterdarlehen-rangruecktritt
- prioritaet: hoch
- umsetzung-bis: 2026-05-25 notariell
-
- optional-bei-eskalation:
- - baustein: forderungsverzicht-besserungsschein
- umfang: 50000 EUR Bank
- skill: forderungsverzicht-besserungsschein
- prioritaet: mittel
- umsetzung-bis: 2026-06-30
-
- ergebnis-nach-massnahmen:
- bilanzbasis-vorher: positiv 133000 EUR
- bilanzbasis-nach-massnahmen: positiv 333000 EUR (zusätzlich Patronage 200000)
- liquiditaet-vorher-stress: negativ
- liquiditaet-nach-massnahmen-stress: positiv
- gesamtprognose: positiv mit Maßnahmen
-```
-
-## Zeitliche Reihenfolge
-
-- **Sofort** (binnen Tagen): Patronatserklärung Rangrücktritt
-- **Innerhalb Wochen** (drei Wochen Frist § 15a InsO bei Zahlungsunfähigkeit beachten): Stundungen Forderungsverzichte
-- **Innerhalb Frist § 15a InsO Sechs Wochen**: alle Maßnahmen verbindlich
-- **Bei Frist-Überschreitung**: keine zusätzliche Maßnahme mehr ausreichend — sofort Insolvenzantrag (Skill `wenn-prognose-negativ-naechste-schritte`).
-
-## Ausgabe
-
-- `sanierungsbausteine-empfehlung.md` mit konkreter Maßnahmenliste je Prioritaet.
-- Nächste Skill-Verlinkungen je Maßnahme.
-- Eintrag in Tagesnotizen zur Umsetzungskontrolle.
-- Stichtag-Wiedervorlage in zwei Wochen zur Prüfung der tatsächlichen Umsetzung.
+- `eskalation-an-insolvenzanwalt-<datum>.docx` als Mitteilung.
+- Termin im Kalender innerhalb 24 Stunden.
+- Status-Eintrag im Sanierungsbausteine-Tracker: "Prüfung negativ — Eskalation eingeleitet".
+- Ende dieses Plugin-Workflows; Fortführung im Plugin `insolvenzrecht` durch Insolvenzanwalt.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
-## Aktuelle Leitentscheidungen — Sanierungsbausteine
+## Aktuelle Leitentscheidungen — Negative Prognose und Handlungspflichten (Stand Mai 2026)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers für Neugläubigerschäden; Amtsniederlegung "auf der Flucht" schützt nicht. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
+- **BGH 5 StR 287/24 vom 27.02.2025** — Faktische Geschäftsführung erfasst auch Hintermänner im Firmenbestattermodell. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
+- **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Versicherer trägt für jede einzelne Zahlung Darlegungs- und Beweislast für positive Kenntnis; § 15a / § 15b InsO nicht koppelbar.
+- **BGH IX ZR 285/14 vom 26.01.2017** und **BGH IX ZR 56/22 vom 29.06.2023** — Berater-Hinweispflicht (Insolvenzvertiefungsschaden, Drittschutzwirkung).
 
-## Paragrafenkette Sanierungsbausteine
+## Paragrafenkette Negative Prognose
 
-§ 19 Abs. 2 InsO (Fortbestehensprognose) → §§ 29 ff. StaRUG (vorinsolvenzliche Sanierung) → § 39 Abs. 4 InsO (Sanierungsprivileg Gesellschafterdarlehen) → § 3a EStG (steuerfreier Sanierungserloes) → § 133 InsO (Anfechtungsschutz bei echtem Sanierungskonzept)
+§ 19 InsO (Ueberschuldung wenn Prognose negativ) → § 15a InsO (Antragspflicht 3/6 Wochen) → § 15b InsO (Zahlungsverbot) → § 43 GmbHG (Haftung GF) → §§ 283 ff. StGB (Bankrott-Strafbarkeit) → §§ 29 ff. StaRUG (letzte Chance StaRUG)
 
-## Triage — Sanierungsbaustein-Auswahl
+## Triage — Sofortmassnahmen bei negativer Prognose
 
-1. **Zeitbedarf?** Patronatserklaerung/Rangrücktritt: 1-2 Tage. StaRUG-Plan: 4-8 Wochen. Kapitalerhöhung: 4-12 Wochen.
-2. **Gläubiger-Einbindung noetig?** Stundungsanfragen, Verzichte — Zustimmung einholen.
-3. **Steuerliche Wirkung?** Sanierungserloes § 3a EStG: Voraussetzungen prüfen; Steuerberater einbinden.
-4. **Gesamtkonzept?** Alle Bausteine zusammen müssen eine positive Prognose tragen (IDW S 11 Konformitaet).
+1. **Insolvenzanwalt sofort einschalten!** Frist § 15a InsO laeuft ab heute: 6 Wochen (Ueberschuldung), 3 Wochen (ZU). Sofort-Kalender-Alarm.
+2. **Zahlungen einfrieren?** § 15b InsO: keine Zahlungen die Masse schmälern; Masselohn und Betriebskosten OK; Gesellschafterrueckzahlungen VERBOTEN.
+3. **StaRUG-Option prüfen:** Drohende ZU § 18 InsO? Dann StaRUG-Restrukturierungsplan als Alternative zum Insolvenzantrag.
+4. **Dokumentation sichern:** Alle Unterlagen für Insolvenzantrag vorbereiten: Verzeichnisse, Bilanzen, Gläubigerliste, Antrag-Vorläufer.
 
 ---
 
-## Skill: `zusammenfuehren`
+## Skill: `patronatserklaerung-mehrparteien-konflikt-und-interessen`
 
-_Führt alle Bausteine zusammen — bilanzieller Status Annahmen Plausibilisierung 12-Monats-Liquiditaet Sensitivitaetsszenarien — und bewertet ob die Fortbestehensprognose nach § 19 Abs. 2 InsO positiv ist. Maßstab ueberwiegende Wahrscheinlichkeit dass das Unternehmen im Prognosezeitraum zahlungsfä..._
+_Wenn es um Patronatserklaerung: Mehrparteienkonflikt und Interessenmatrix in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Fortbestehensprognose zusammenführen
+# Patronatserklaerung: Mehrparteienkonflikt und Interessenmatrix
 
 ## Arbeitsweg
 
@@ -2035,221 +755,256 @@ _Führt alle Bausteine zusammen — bilanzieller Status Annahmen Plausibilisieru
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Maßstab
+## Spezialwissen: Patronatserklaerung: Mehrparteienkonflikt und Interessenmatrix
+- **Normen-/Quellenanker:** InsO, IDW, StaRUG.
 
-§ 19 Abs. 2 InsO seit SanInsFoG 2021: "Die Fortführung des Unternehmens ist nach den Umständen überwiegend wahrscheinlich" — Prognosezeitraum **zwölf Monate**.
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-**Überwiegend wahrscheinlich** bedeutet **mehr als 50 Prozent** Wahrscheinlichkeit (klassische BGH-Rspr. zur Vorhersage; bestätigt durch IDW S 11).
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-### Operativ — was bedeutet das?
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Patronatserklaerung** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-Die abstrakte Wahrscheinlichkeitsformel ist methodisch durch die **Zahlungsfähigkeitsprognose** zu fuellen. Die Fortbestehensprognose ist genau dann positiv wenn das Unternehmen über den Zwölf-Monats-Horizont mit überwiegender Wahrscheinlichkeit **nicht in die Zahlungsunfähigkeit nach § 17 InsO gerät**. Das bedeutet konkret:
-
-- In jedem Zeitabschnitt der zwölf Monate müssen **mindestens 90 Prozent** der dann fälligen Verbindlichkeiten aus den verfügbaren Mitteln (Liquiditätsbestand plus Kreditlinie plus rechtzeitig erzielbare Zufluesse) gedeckt werden können.
-- Maßstab: BGH-Linie zum 10-%-/3-Wochen-Schema (Zahlungsstockung vs. Zahlungsunfähigkeit). Konkrete Aktenzeichen vor Ausgabe über dejure.org / openjur.de mit Datum und Randnummer verifizieren.
-
-Wenn die Liquiditätsplanung in jedem Zeitabschnitt diese Schwelle einhaelt — auch im plausibilisierten Negativ-Szenario — ist die Fortbestehensprognose **positiv**. Wenn die Schwelle in einem oder mehreren Zeitabschnitten oder über laengere Phasen reisst und auch durch Sanierungsbausteine nicht verbindlich geschlossen werden kann ist die Prognose **negativ**.
-
-Die "mehr als 50 Prozent Wahrscheinlichkeit" der Prognose ist also nicht abstrakt zu vermuten sondern aus dem Liquiditätsplan und seiner Sensitivitaet abzuleiten: über das Basis-Szenario hinaus muss auch das **plausible Negativ-Szenario** die Schwelle einhalten — andernfalls reicht die Wahrscheinlichkeit nicht aus.
-
-## Abgrenzung zur Sanierungsfähigkeit
-
-Die positive Fortbestehensprognose ist nicht automatisch ein tragfähiges Sanierungskonzept. Sie beantwortet primär die insolvenzrechtliche Zahlungsfähigkeitsfrage. Sanierungsfähigkeit geht weiter:
-
-- **Fortbestehensprognose:** Kann das Unternehmen im Prognosezeitraum überwiegend wahrscheinlich zahlungsfähig bleiben?
-- **Sanierungsfähigkeit:** Ist das Unternehmen nach Maßnahmen wieder dauerhaft wettbewerbs-, rendite- und finanzierungsfähig?
-- **Sanierungskonzept:** Verbindet Ausgangslage, Krisenursachen, Leitbild, Maßnahmen, integrierte GuV-/Bilanz-/Liquiditätsplanung, Szenarien und Dokumentation.
-
-Wenn der Nutzer Bankgespräch, StaRUG, Schutzschirm, Eigenverwaltung, Insolvenzplan oder Sanierungskonzept nennt, nach der Fortbestehensprognose ausdrücklich den Sanierungsfähigkeits-Check empfehlen. Eine einmalige Finanzierungszusage kann die Fortbestehensprognose tragen, aber trotzdem kein nachhaltig saniertes Geschäftsmodell ergeben.
-
-## Prüfablauf
-
-### Schritt 1 — Bilanzielle Überschuldung gegeben?
-
-Aus Skill `bilanzieller-status-aufnehmen`:
-
-- Bilanzielle Überschuldung gegeben? Wenn nein: § 19 InsO nicht erfüllt — Fortbestehensprognose **nicht erforderlich** (aber häufig sinnvoll als Krisendokumentation).
-- Wenn ja: weiter zu Schritt 2.
-
-### Schritt 2 — Annahmen plausibilisiert?
-
-Aus Skill `annahmen-belastbarkeit-plausibilisieren`:
-
-- Annahmen überwiegend **realistisch** oder **konservativ**?
-- Maximal eine oder zwei **ambitionierte** Annahmen die nicht tragend sind?
-- **Nicht-belastbare** Annahmen ausgeschlossen?
-
-Wenn die Annahmen die das Ergebnis tragen ambitioniert oder nicht-belastbar sind: Prognose **nicht positiv**.
-
-### Schritt 3 — Liquidität über 12 Monate positiv
-
-Aus Skill `liquiditaet-12-monate`:
-
-- **Basis-Szenario** positiv über alle zwölf Monate?
-- **Negativ-Szenario** mit zumutbaren Maßnahmen abdeckbar?
-- **Stress-Szenario** zumindest mit zusätzlichen Maßnahmen (Patronatserklärung Gesellschafterdarlehen) abdeckbar?
-
-### Schritt 4 — Gesamtbewertung
-
-Drei mögliche Ergebnisse:
-
-#### A. Prognose positiv
-
-- Bilanzbild trotz Überschuldung positiv (stille Reserven Rangrücktritt).
-- Liquidität über zwölf Monate positiv im Basis-Szenario und im Negativ-Szenario.
-- Annahmen plausibel und überwiegend belegt.
-- Sanierungsmaßnahmen falls noch erforderlich umgesetzt oder vertraglich gesichert.
-
-**Folge**: Keine insolvenzrechtliche Überschuldung nach § 19 Abs. 2 InsO. Antragspflicht entfaellt insoweit. **Aber**: Zahlungsfähigkeit § 17 InsO und drohende Zahlungsunfähigkeit § 18 InsO bleiben **eigene** Prüfungspunkte — siehe Plugin `insolvenzrecht`.
-
-#### B. Prognose positiv mit Sanierungsmaßnahmen
-
-- Ohne Maßnahmen waere die Prognose negativ.
-- Mit konkreten umsetzbaren Maßnahmen ist die Prognose positiv.
-
-**Folge**: Maßnahmen müssen tatsächlich umgesetzt werden. Skill `sanierungsbausteine-vorschlagen` mit konkreten Vorschlägen.
-
-**Wichtig**: Maßnahmen müssen **rechtzeitig** umgesetzt und **verbindlich** sein:
-
-- Patronatserklärung **schriftlich unterzeichnet** und vom Patron einsehbar.
-- Gesellschafterdarlehen **mit qualifiziertem Rangrücktritt** notariell.
-- Stundungsvereinbarungen **schriftlich** mit Gläubigern.
-- Forderungsverzichte **schriftlich** ggf. mit Besserungsschein.
-
-#### C. Prognose negativ
-
-- Liquidität über zwölf Monate **nicht sicherstellbar**.
-- Sanierungsmaßnahmen reichen nicht.
-- Keine ausreichende Patronage- / Gesellschafterstuetzung.
-
-**Folge**:
-- **Insolvenzrechtliche Überschuldung gegeben** (§ 19 InsO).
-- **Antragspflicht** sechs Wochen nach Eintritt § 15a Abs. 1 S. 2 InsO.
-- **Sofort Insolvenzanwalt** einschalten — Skill `wenn-prognose-negativ-naechste-schritte`.
-- Prüfung **drohende Zahlungsunfähigkeit** § 18 InsO mit StaRUG-Option (Prognosezeitraum 24 Monate).
-
-## Stichtag und Dokumentation
-
-Die Prognose ist immer auf den **Stichtag des Tages** zu beziehen an dem sie erstellt wird. Das Verhältnis Stichtag → 12 Monate ist rollierend.
-
-```yaml
-prognose-zusammenfassung:
- prognose-id: FP-2026-0001
- stichtag: 2026-05-20
- geschaeftsleiter: Mueller, Hans (GF GmbH XYZ)
- prognose-horizont: 2026-06 bis 2027-05
-
- bilanzbild:
- bilanzielle-ueberschuldung: ja (Höhe 82000 EUR)
- insolvenzrechtliche-bilanzbasis: positiv (133000 EUR)
- rangruecktritt: Gesellschafterdarlehen 120000 EUR
- stille-reserven: 175000 EUR
-
- liquiditaet:
- basis-szenario: positiv
- negativ-szenario: positiv knapp (Endbestand Monat 11 bei 8000 EUR)
- stress-szenario: negativ ohne Patronatserklärung positiv mit
-
- annahmen-belastbarkeit:
- realistisch: 7
- konservativ: 2
- ambitioniert: 1 (Kostensenkung Standortschliessung)
- nicht-belastbar: 0
-
- sanierungsmassnahmen-erforderlich: ja
- konkret-belegt:
- - Patronatserklärung Hauptgesellschafter 200000 EUR (unterzeichnet)
- - Gesellschafterdarlehen 120000 EUR mit Rangrücktritt (notariell)
- - Stundungsvereinbarungen Lieferanten (schriftlich von 5 Lieferanten)
- noch-offen:
- - Stundung Bank Tilgung (in Verhandlung — noch nicht schriftlich)
-
- ergebnis: positiv-mit-maßnahmen
- bewertung-wahrscheinlichkeit: überwiegend (mehr als 50 Prozent)
-
- pflicht-ueberpruefung: vierteljaehrlich oder bei wesentlicher Änderung
-```
-
-## Sonderfall — der konkrete Tag der Erstellung zählt
-
-- Die Prognose ist **stichtagsbezogen**.
-- Bei einer wesentlichen Änderung der Annahmen (Wegfall Hauptkunde Verlust Kreditlinie) muss die Prognose **neu erstellt** werden.
-- Bei vierteljaehrlicher Routineprüfung — Dokumentation der laufenden Prüfung als Beweis für aktive Pflichterfüllung des Geschäftsleiters.
-
-## Ausgabe
-
-- `prognose-zusammenfassung.md` mit Stichtag Bewertung Beleg-Status.
-- Weiterleitung an:
- - `sanierungsbausteine-vorschlagen` wenn Maßnahmen erforderlich.
- - `wenn-prognose-negativ-naechste-schritte` wenn Ergebnis negativ.
- - `prognose-dokumentation-stichtag` zur abschließenden Dokumentation.
-
-## Aktuelle Leitentscheidungen — Zusammenfuehren der Prognose (Stand Mai 2026)
-
-- **BGH IX ZR 285/14 vom 26.01.2017** — Steuerberater haftet bei verfehlter Fortbestehensprognose auf Insolvenzvertiefungsschaden. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=26.01.2017&Aktenzeichen=IX+ZR+285/14>
-- **BGH IX ZR 56/22 vom 29.06.2023** — Drittschutzwirkung der Hinweis- und Warnpflicht des Beraters zugunsten des (faktischen) GF. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=29.06.2023&Aktenzeichen=IX+ZR+56/22>
-- **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen GF; bei negativer Prognose nach Amtsniederlegung weiterhin Haftungsexposition. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
-- Konkrete BGH-Linie zu IDW S 11-konformer Prognose-Plausibilität und qualifiziertem Rangrücktritt vor Ausgabe über dejure.org / openjur.de verifizieren.
-
-## Paragrafenkette Prognose-Zusammenfuehren
-
-§ 19 Abs. 2 InsO (Fortbestehensprognose als zweite Stufe Ueberschuldung) → IDW S 11 Rn. 60-90 (Ergebnis und Dokumentation) → § 15a InsO (Antragspflicht bei negativer Prognose) → § 15b InsO (Haftungsrisiko)
-
-## Triage — Prognose-Ergebnis
-
-1. **Positiv (Prognose grueen)?** → Dokumentieren (IDW S 11 Vorlage), Wiedervorlage in 3 Monaten, Sanierungsbausteine weiterverfolgen.
-2. **Knapp positiv (mit Maßnahmen)?** → Maßnahmen konkretisieren und terminieren; Sicherheitsmarge prüfen.
-3. **Negativ?** → Sofort `wenn-prognose-negativ-naechste-schritte` ausfuehren; Anwalt einschalten; Antragspflicht prüfen.
+## Patronatserklärung — harte vs. weiche
+- **Harte Patronatserklärung (intern):** Verpflichtung des Patrons gegenüber der Tochter, diese mit ausreichenden Mitteln auszustatten, um Verbindlichkeiten zu bedienen. Erst bei Werthaltigkeit (Bonität des Patrons) prognosewirksam.
+- **Harte Patronatserklärung (extern):** Verpflichtung gegenüber Gläubigern; Vertrag zugunsten Dritter, gerichtlich durchsetzbar; entspricht wirtschaftlich einer Bürgschaft, jedoch ohne Formerfordernis nach § 766 BGB (Abgrenzung umstritten).
+- **Weiche Patronatserklärung:** Bloße Goodwill-Erklärung ("wir werden uns bemühen"); regelmäßig nicht durchsetzbar, daher nicht prognosewirksam.
+- **Interessenkonflikt:** Im Konzern stehen Geschäftsführer der Tochter und der Mutter unter Spannung. Bei drohender Insolvenzreife der Mutter wird die Patronatszusage hinfällig; nachschiebende Eigenkapitalstärkung kann selbst anfechtbar werden (§§ 130 ff. InsO).
+- **Beweis-Voraussetzungen:** Bonität des Patrons (Bilanz, Liquidität), Verbindlichkeit der Erklärung (Schriftform empfohlen), Reichweite (Umfang, Befristung, Widerruflichkeit) und Werthaltigkeit für den maßgeblichen Prognosezeitraum.
+- **Trade-off:** Externe Patronatserklärung gibt Gläubigern Sicherheit, bindet den Patron aber unmittelbar; interne Patronatserklärung ist flexibler, hilft aber dem Gläubiger nicht direkt.
 
 ---
 
-## Skill: `quellen-livecheck`
+## Skill: `spezial-geschaeftsfuehrer-fristen-form-und-zustaendigkeit`
 
-_Quellen-Live-Check für Fortbestehensprognose StaRUG/InsO: prüft Normen (§ 18 InsO drohende Zahlungsunfähigkeit, StaRUG §§ 1/14/49, IDW S 11) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Insolvenzgericht und Quellenhygiene nach references/quellenhygiene.md._
+_Wenn es um Geschaeftsfuehrer: Fristen, Form, Zuständigkeit und Rechtsweg in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Rechtsquellen-Livecheck
+# Geschaeftsfuehrer: Fristen, Form, Zuständigkeit und Rechtsweg
 
-## Einsatzlage
+## Aufgabe
+Dieser Skill ist ein konkreter Fachbaustein für `fortbestehensprognose`. Ausgangspunkt ist: Fortbestehensprognose § 19 Abs. 2 InsO als Geschäftsführer-Selbstdokumentation. Bilanzstatus Annahmen Plausibilisierung Zwoelf-Monats-Liquiditaet. Sanierungsbausteine Patronatserklärung Comfortletter Rangrücktritt Stundung Forderungsverzicht. IDW S 11 StaRUG. Eskalation bei negativer Prognose.
 
-Dieser Quellen-Livecheck für **Fortbestehensprognose** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
+Er führt durch **Fristen, Form, Zuständigkeit und Rechtsweg** im Themenfeld **Geschaeftsfuehrer**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
-## Fachlandkarte dieses Plugins
 
-- `annahmen-behoerden-gericht-und-registerweg` — Annahmen Behoerden Gericht und Registerweg
-- `annahmen-belastbarkeit-plausibilisieren` — Annahmen Belastbarkeit Plausibilisieren
-- `annahmen-sammeln-bilanzieller-status` — Annahmen Sammeln Bilanzieller Status
-- `ausloesendes-ereignis-erfassen` — Ausloesendes Ereignis Erfassen
-- `bilanzieller-status-aufnehmen` — Bilanzieller Status Aufnehmen
-- `bilanzstatus-risikoampel-und-gegenargumente` — Bilanzstatus Risikoampel und Gegenargumente
-- `comfortletter-sonderfall-edge` — Comfortletter Sonderfall Edge
-- `comfortletter-weich-erzeugen` — Comfortletter Weich Erzeugen
-- `eskalation-sonderfall-und-edge-case` — Eskalation Sonderfall und Edge Case
-- `fbp-bankenkommunikation-waiver-integrierte` — FBP Bankenkommunikation Waiver Integrierte
-- `fbp-integrierte-planung-bauleiter` — FBP Integrierte Planung Bauleiter
-- `fbp-stresstest-szenarien-leitfaden` — FBP Stresstest Szenarien Leitfaden
-- `fbp-zahlungsunfaehigkeit` — FBP Zahlungsunfaehigkeit
-- `anschluss-routing` — Anschluss Routing
-- `dokumente-intake` — Dokumente Intake
+## Fachlicher Zuschnitt
+
+- **Thema:** Geschaeftsfuehrer.
+- **Arbeitsfokus:** Fristen, Form, Zuständigkeit und Rechtsweg.
+- **Plugin-Rahmen:** Fortbestehensprognose § 19 Abs. 2 InsO als Geschäftsführer-Selbstdokumentation. Bilanzstatus Annahmen Plausibilisierung Zwoelf-Monats-Liquiditaet. Sanie....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+
+## Kaltstart
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Geschaeftsfuehrer** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Output-Standard
+- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
+- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
+- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
+- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+---
+
+## Skill: `fp-dokumentation-gerichtsfaehigkeit`
+
+_Wenn es um FP: Dokumentation-Gerichtsfaehigkeit in Fortbestehensprognose geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# FP: Dokumentation-Gerichtsfaehigkeit
 
 ## Arbeitsweg
 
-- Tragende Normen (InsO, StaRUG, § 19 Abs) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
-- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
-- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
-- Dynamische Bereiche im Fortbestehensprognose (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
-- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: IDW S 11 12-Monats-Prognose ab Stichtag, § 15a InsO 6 Wochen bei Überschuldung, Drei-Wochen-Liquiditätsstockungs-Test, jährliche Aktualisierung.
+- Tragende Normen verifizieren: InsO § 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB § 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG §§ 1, 102 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Qualitätsanker
+## Spezialwissen: FP: Dokumentation-Gerichtsfaehigkeit
+- **Normen-/Quellenanker:** FP.
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+## Fallweichen
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+
+1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
+2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
+3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+
+## Prüfraster
+
+Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+
+1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
+2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
+3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+
+## Plugin-Kontext
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+
+## Output-Module
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
+- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Was dieser Arbeitsgang nicht macht
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
+- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
+- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
+- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+
+---
+
+## Skill: `geschaeftsfuehrer-fristen-form-und-zustaendigkeit`
+
+_Wenn es um Geschäftsführer: Fristen, Form, Zuständigkeit und Rechtsweg in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Geschäftsführer: Fristen, Form, Zuständigkeit und Rechtsweg
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: IDW S 11 12-Monats-Prognose ab Stichtag, § 15a InsO 6 Wochen bei Überschuldung, Drei-Wochen-Liquiditätsstockungs-Test, jährliche Aktualisierung.
+- Tragende Normen verifizieren: InsO § 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB § 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG §§ 1, 102 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Geschäftsführer: Fristen, Form, Zuständigkeit und Rechtsweg
+- **Normen-/Quellenanker:** InsO, IDW, StaRUG.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Geschäftsführer** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `comfortletter-sonderfall-edge`
+
+_Wenn es um Comfortletter: Internationaler Bezug und Schnittstellen in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Comfortletter: Internationaler Bezug und Schnittstellen
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: IDW S 11 12-Monats-Prognose ab Stichtag, § 15a InsO 6 Wochen bei Überschuldung, Drei-Wochen-Liquiditätsstockungs-Test, jährliche Aktualisierung.
+- Tragende Normen verifizieren: InsO § 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB § 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG §§ 1, 102 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Comfortletter: Internationaler Bezug und Schnittstellen
+- **Normen-/Quellenanker:** InsO, IDW, StaRUG.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Comfortletter** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

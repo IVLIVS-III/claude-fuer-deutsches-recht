@@ -101,9 +101,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschoepfung bei Softwaredownloads.
 - EuGH, Urteil vom 29.07.2019 - C-476/17: Pelham konkretisiert Sampling, Vervielfaeltigung und Kunstfreiheit.
 - BGH, Urteil vom 12.11.2009 - I ZR 166/07: marions-kochbuch behandelt Lichtbildschutz und Online-Nutzung.
-- Wettbewerber zeigt vor Anmeldung Design auf Messe; Eintragung loeschen? - Paragraf 3 DESIGNG - Paragraf 14 MarkenG - Paragraf 4 UWG - Paragraf 97 UrhG - Paragraf 9 DesignG - Paragraf 139 PatG - EuGH
 - EuGH 13.11.2019 C-32/18 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- Konkurrent kopiert Sitzbezug-Design; Streit über Schutzumfang. - Paragraf 14 MarkenG - Paragraf 4 UWG - Paragraf 97 UrhG - Paragraf 9 DesignG - Paragraf 139 PatG - EuGH 21.09.2017 C-361/15 — nur
 - EuGH 21.09.2017 C-361/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 
 ## 9. Prüfraster

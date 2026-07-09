@@ -1,43 +1,44 @@
-# Megaprompt: urheberrecht-de-eu
+# Vollprüfung: urheberrecht-de-eu
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 64 Skills des Plugins `urheberrecht-de-eu`.
+Dieser Vollprüfung enthaelt top-10 von 64 Skills des Plugins `urheberrecht-de-eu`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Kaltstart für deutsches und EU-Urheberrecht: sortiert Werk, Rechte, Nutzung, KI, Software, Musik, Schranken, Fristen, Be…
-2. **werkhoehe-schoepfungshoehe-wissenschaft-tdm** — Prüft Schutzfaehigkeit und Werkhoehe nach § 2 UrhG und EU-Originalitaet: persönliche geistige Schoepfung, Gestaltungsspi…
-3. **musikwerk-melodie-harmonie-rhythmus** — Prüft Musikwerke: Melodie, Motiv, Harmonie, Rhythmus, Arrangement, Hookline, Soundidee und Grenze zwischen Werk, Stil un…
-4. **sachverstaendigenbriefing-musik-sampling** — Erstellt ein präzises Briefing für Musiksachverständige mit Prüfgegenstand, Audiofiles, Notation, Vergleichsparametern u…
-5. **gema-gvl-verwertungsgesellschaften** — Prüft Wahrnehmungsverträge, GEMA/GVL-Meldungen, Tarife, Ausschüttung, Werkregistrierung und Rechte außerhalb der Kollekt…
-6. **settlement-verlagsrecht-buch-vg-bild** — Entwickelt Vergleichsstrategie bei Musik-, KI-, Software- und Content-Streit: Unterlassung, Lizenz, Accounting, Credit, …
-7. **vertragsgenerator-musik-release** — Erzeugt und prüft Vertragsbausteine für Songrelease, Label, Verlag, Producer, Feature, Remix, Split, Sync und Plattformv…
-8. **nutzungsrechte-lizenzkette** — Prüft einfache und ausschließliche Nutzungsrechte, Zweckübertragung, Unterlizenzen, Territorium, Dauer, Medien und Recht…
-9. **abmahnung-97a-response** — Prüft urheberrechtliche Abmahnung, Unterlassungserklärung, Kosten, Aktivlegitimation, Belege, Modifikation und Gegenangr…
-10. **beweisforensik-versionen** — Sichert Belege bei Musik, Text, Code und KI-Output: Versionen, Hashes, Metadaten, Uploads, Screenshots und Chain of Cust…
+1. **kaltstart-triage** — Wenn es um Urheberrecht DE/EU Kaltstart und Routing in Urheberrecht DE EU geht: klärt Rolle, Ziel, Frist, Unterlagen und…
+2. **software-69a-computerprogramm** — Wenn es um Computerprogramm nach Paragrafen 69a ff. UrhG in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislas…
+3. **ki-act-gpai-copyright** — Wenn es um europäischer Technikregulierungsrahmen GPAI und Urheberrechtspolitik in Urheberrecht DE EU geht: ordnet Akten…
+4. **internationales-urheberrecht-ki-act-ki** — Wenn es um Internationales Urheberrecht und Kollisionsrecht in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweis…
+5. **datenbank-dataset-rechte** — Wenn es um Datenbanken, Datasets und Trainingskorpora in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, …
+6. **musikwerk-melodie-harmonie-rhythmus** — Wenn es um Musikwerk, Melodie, Harmonie und Rhythmus in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, G…
+7. **plattform-upload-art17-dsa** — Wenn es um Plattformen, Uploads und Art. 17 DSM in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegena…
+8. **gema-gvl-verwertungsgesellschaften** — Wenn es um GEMA, GVL und Verwertungsgesellschaften in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Geg…
+9. **soundaufnahme-tontraeger-titel-slogan** — Wenn es um Tonaufnahme und Leistungsschutzrechte in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegen…
+10. **werkhoehe-schoepfungshoehe-wissenschaft-tdm** — Wenn es um Werkhöhe und Schöpfungshöhe prüfen in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenarg…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Kaltstart für deutsches und EU-Urheberrecht: sortiert Werk, Rechte, Nutzung, KI, Software, Musik, Schranken, Fristen, Beweise und passende Anschluss-Skills._
+_Wenn es um Urheberrecht DE/EU Kaltstart und Routing in Urheberrecht DE EU geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Urheberrecht DE/EU Kaltstart und Routing
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Urheberrecht De Eu** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Wofür dieser Arbeitsgang da ist
 
@@ -109,9 +110,673 @@ Konkret zu prüfen:
 
 ---
 
+## Skill: `software-69a-computerprogramm`
+
+_Wenn es um Computerprogramm nach Paragrafen 69a ff. UrhG in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Computerprogramm nach §§ 69a ff. UrhG
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Computerprogramm nach §§ 69a ff. UrhG
+- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
+- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Wofür dieser Arbeitsgang da ist
+
+Dieser Arbeitsgang trennt Programm-Ausdruck von Funktion, Schnittstelle, Idee und technischem Ergebnis. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+
+## Sofortstart
+
+1. Rolle klären: Anspruchsteller, Verteidigung, Verlag, Label, Plattform, Softwarehaus, Agentur, Kanzlei oder interne Rechtsabteilung.
+2. Gegenstand fixieren: Werk, Aufnahme, Code, Datenbank, Promptlog, KI-Output, Vertrag, Plattformpost oder konkrete Nutzung.
+3. Beweise anfordern: Originaldateien, Zeitstempel, Versionen, Metadaten, Verträge, Rechteübertragungen, Screenshots, Plattformmeldungen und Zahlungs-/Nutzungsdaten.
+4. Ergebnisformat wählen: kurzes Memo, Risikoampel, Abmahnungsantwort, Lizenzklausel, Schriftsatzkern, Vergleichsvorschlag oder Dokumentationspaket.
+
+## Rechtsquellen und Anker
+
+- §§ 69a bis 69g UrhG
+- Software-RL 2009/24/EG
+- EuGH C-393/09 BSA
+- EuGH C-406/10 SAS Institute
+
+Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
+
+## Leitfragen
+
+- Was ist geschützt: Code, Architektur, GUI, Dokumentation, Datenbank, Modellgewicht, Prompttemplate?
+- Wurde Code kopiert oder nur Funktionalität nachgebaut?
+- Sind Beobachten, Testen, Sicherungskopie oder Interoperabilität einschlägig?
+- Welche Lizenz, Open-Source-Pflichten und Arbeitnehmerurheberrechte gelten?
+
+## Prüflogik
+
+| Schritt | Arbeit |
+| --- | --- |
+| 1 Gegenstand | Konkrete Form, Datei, Fassung, Ausschnitt oder Nutzung benennen. |
+| 2 Schutz | Schutzfähigkeit, Leistungsschutz oder fehlenden Schutz sauber begründen. |
+| 3 Rechtekette | Urheber, Miturheber, Arbeitgeber, Verlag, Label, Plattform und Unterlizenzen trennen. |
+| 4 Nutzung | Vervielfältigung, öffentliche Zugänglichmachung, Bearbeitung, Verbreitung, Aufführung oder Training konkretisieren. |
+| 5 Schranke/Einwilligung | Lizenz, gesetzliche Schranke, Pastiche, Zitat, TDM, Unterricht, Forschung oder Plattformprozess prüfen. |
+| 6 Beweis und Risiko | Was ist belegt, was nur behauptet, was fehlt, was ist prozessual oder taktisch dringend? |
+| 7 Output | Ergebnis so formulieren, dass es direkt weiterverwendbar ist. |
+
+## Typische Outputs
+
+- Software-Schutzfähigkeitsmatrix
+- Infringement- und Open-Source-Check
+- Text für Abmahnung, Antwort oder Due Diligence
+
+## Qualitätsfilter
+
+- Funktionalität, Programmiersprache und Dateiformat sind nicht automatisch Programm-Ausdruck.
+- GUI kann anders geschützt sein, aber nicht zwingend als Computerprogramm.
+
+- Unsichere Wertungen werden als unsicher markiert und mit den fehlenden Tatsachen verbunden.
+- Bei Musik, KI und Software werden technische Begriffe nur verwendet, wenn sie für die Rechtsfolge etwas tragen.
+
+## Anschluss-Skills
+
+Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 2 UrhG (geschützte Werke)
+- § 7 UrhG (Urheber)
+- §§ 15-24 UrhG (Verwertungsrechte)
+- § 97 UrhG (Unterlassung, Schadensersatz)
+- RL (EU) 2019/790 (DSM-RL)
+
+---
+
+## Skill: `ki-act-gpai-copyright`
+
+_Wenn es um europäischer Technikregulierungsrahmen GPAI und Urheberrechtspolitik in Urheberrecht DE EU geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# KI-VO GPAI und Urheberrechtspolitik
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: KI-VO GPAI und Urheberrechtspolitik
+- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
+- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Wofür dieser Arbeitsgang da ist
+
+KI-VO GPAI und Urheberrechtspolitik schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+
+## Sofortstart
+
+1. Rolle klären: Anspruchsteller, Verteidigung, Verlag, Label, Plattform, Softwarehaus, Agentur, Kanzlei oder interne Rechtsabteilung.
+2. Gegenstand fixieren: Werk, Aufnahme, Code, Datenbank, Promptlog, KI-Output, Vertrag, Plattformpost oder konkrete Nutzung.
+3. Beweise anfordern: Originaldateien, Zeitstempel, Versionen, Metadaten, Verträge, Rechteübertragungen, Screenshots, Plattformmeldungen und Zahlungs-/Nutzungsdaten.
+4. Ergebnisformat wählen: kurzes Memo, Risikoampel, Abmahnungsantwort, Lizenzklausel, Schriftsatzkern, Vergleichsvorschlag oder Dokumentationspaket.
+
+## Rechtsquellen und Anker
+
+- KI-VO Art. 53
+- DSM-RL Art. 4 Abs. 3
+- § 44b UrhG
+
+Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
+
+## Leitfragen
+
+- Ist der Anbieter GPAI-Provider oder Downstream-Integrator?
+- Welche Copyright-Policy existiert?
+- Wie werden Rechtevorbehalte erkannt und umgesetzt?
+- Welche Trainingsinhaltszusammenfassung ist öffentlich?
+
+## Prüflogik
+
+| Schritt | Arbeit |
+| --- | --- |
+| 1 Gegenstand | Konkrete Form, Datei, Fassung, Ausschnitt oder Nutzung benennen. |
+| 2 Schutz | Schutzfähigkeit, Leistungsschutz oder fehlenden Schutz sauber begründen. |
+| 3 Rechtekette | Urheber, Miturheber, Arbeitgeber, Verlag, Label, Plattform und Unterlizenzen trennen. |
+| 4 Nutzung | Vervielfältigung, öffentliche Zugänglichmachung, Bearbeitung, Verbreitung, Aufführung oder Training konkretisieren. |
+| 5 Schranke/Einwilligung | Lizenz, gesetzliche Schranke, Pastiche, Zitat, TDM, Unterricht, Forschung oder Plattformprozess prüfen. |
+| 6 Beweis und Risiko | Was ist belegt, was nur behauptet, was fehlt, was ist prozessual oder taktisch dringend? |
+| 7 Output | Ergebnis so formulieren, dass es direkt weiterverwendbar ist. |
+
+## Typische Outputs
+
+- GPAI-Copyright-Check
+- Fragen an Anbieter
+- Compliance-Memo
+
+## Qualitätsfilter
+
+- KI-VO-Pflichten sind regulatorisch; sie lösen nicht alle Rechteklärungen.
+
+- Unsichere Wertungen werden als unsicher markiert und mit den fehlenden Tatsachen verbunden.
+- Bei Musik, KI und Software werden technische Begriffe nur verwendet, wenn sie für die Rechtsfolge etwas tragen.
+
+## Anschluss-Skills
+
+Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 44b UrhG
+- Art. 4 RL 2019/790
+- Art. 53 AI-Act (Trainingsdaten)
+
+---
+
+## Skill: `internationales-urheberrecht-ki-act-ki`
+
+_Wenn es um Internationales Urheberrecht und Kollisionsrecht in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# Internationales Urheberrecht und Kollisionsrecht
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Internationales Urheberrecht und Kollisionsrecht
+- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
+- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Wofür dieser Arbeitsgang da ist
+
+Internationales Urheberrecht und Kollisionsrecht schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+
+## Sofortstart
+
+1. Rolle klären: Anspruchsteller, Verteidigung, Verlag, Label, Plattform, Softwarehaus, Agentur, Kanzlei oder interne Rechtsabteilung.
+2. Gegenstand fixieren: Werk, Aufnahme, Code, Datenbank, Promptlog, KI-Output, Vertrag, Plattformpost oder konkrete Nutzung.
+3. Beweise anfordern: Originaldateien, Zeitstempel, Versionen, Metadaten, Verträge, Rechteübertragungen, Screenshots, Plattformmeldungen und Zahlungs-/Nutzungsdaten.
+4. Ergebnisformat wählen: kurzes Memo, Risikoampel, Abmahnungsantwort, Lizenzklausel, Schriftsatzkern, Vergleichsvorschlag oder Dokumentationspaket.
+
+## Rechtsquellen und Anker
+
+- Rom II Art. 8
+- Berner Übereinkunft
+- TRIPS
+- InfoSoc-RL
+- DSM-RL
+
+Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
+
+## Leitfragen
+
+- Wo wird genutzt, gehostet, abgerufen und lizenziert?
+- Welches Schutzland und welches Gericht?
+- Gibt es internationale Rechtekette und Territorialbeschränkungen?
+
+## Prüflogik
+
+| Schritt | Arbeit |
+| --- | --- |
+| 1 Gegenstand | Konkrete Form, Datei, Fassung, Ausschnitt oder Nutzung benennen. |
+| 2 Schutz | Schutzfähigkeit, Leistungsschutz oder fehlenden Schutz sauber begründen. |
+| 3 Rechtekette | Urheber, Miturheber, Arbeitgeber, Verlag, Label, Plattform und Unterlizenzen trennen. |
+| 4 Nutzung | Vervielfältigung, öffentliche Zugänglichmachung, Bearbeitung, Verbreitung, Aufführung oder Training konkretisieren. |
+| 5 Schranke/Einwilligung | Lizenz, gesetzliche Schranke, Pastiche, Zitat, TDM, Unterricht, Forschung oder Plattformprozess prüfen. |
+| 6 Beweis und Risiko | Was ist belegt, was nur behauptet, was fehlt, was ist prozessual oder taktisch dringend? |
+| 7 Output | Ergebnis so formulieren, dass es direkt weiterverwendbar ist. |
+
+## Typische Outputs
+
+- Jurisdiktions- und Schutzlandmatrix
+- Territoriale Risikoampel
+- Mandantenmemo DE/EU/International
+
+## Qualitätsfilter
+
+- Urheberrecht ist territorial. Vertragssprache ersetzt keine Rechtswahlprüfung.
+
+- Unsichere Wertungen werden als unsicher markiert und mit den fehlenden Tatsachen verbunden.
+- Bei Musik, KI und Software werden technische Begriffe nur verwendet, wenn sie für die Rechtsfolge etwas tragen.
+
+## Anschluss-Skills
+
+Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- RBÜ Art. 5
+- WCT/WPPT
+- Rom-Abk.
+
+---
+
+## Skill: `datenbank-dataset-rechte`
+
+_Wenn es um Datenbanken, Datasets und Trainingskorpora in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# Datenbanken, Datasets und Trainingskorpora
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Datenbanken, Datasets und Trainingskorpora
+- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
+- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Wofür dieser Arbeitsgang da ist
+
+Datenbanken, Datasets und Trainingskorpora schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+
+## Sofortstart
+
+1. Rolle klären: Anspruchsteller, Verteidigung, Verlag, Label, Plattform, Softwarehaus, Agentur, Kanzlei oder interne Rechtsabteilung.
+2. Gegenstand fixieren: Werk, Aufnahme, Code, Datenbank, Promptlog, KI-Output, Vertrag, Plattformpost oder konkrete Nutzung.
+3. Beweise anfordern: Originaldateien, Zeitstempel, Versionen, Metadaten, Verträge, Rechteübertragungen, Screenshots, Plattformmeldungen und Zahlungs-/Nutzungsdaten.
+4. Ergebnisformat wählen: kurzes Memo, Risikoampel, Abmahnungsantwort, Lizenzklausel, Schriftsatzkern, Vergleichsvorschlag oder Dokumentationspaket.
+
+## Rechtsquellen und Anker
+
+- §§ 4, 87a ff. UrhG
+- Datenbank-RL 96/9/EG
+- § 44b UrhG
+
+Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
+
+## Leitfragen
+
+- Welche Sammlung, Auswahl oder Anordnung ist geschützt?
+- Liegt wesentliche Investition in Beschaffung, Prüfung oder Darstellung vor?
+- Welche Entnahmen, Abrufläufe oder API-Zugriffe sind belegt?
+
+## Prüflogik
+
+| Schritt | Arbeit |
+| --- | --- |
+| 1 Gegenstand | Konkrete Form, Datei, Fassung, Ausschnitt oder Nutzung benennen. |
+| 2 Schutz | Schutzfähigkeit, Leistungsschutz oder fehlenden Schutz sauber begründen. |
+| 3 Rechtekette | Urheber, Miturheber, Arbeitgeber, Verlag, Label, Plattform und Unterlizenzen trennen. |
+| 4 Nutzung | Vervielfältigung, öffentliche Zugänglichmachung, Bearbeitung, Verbreitung, Aufführung oder Training konkretisieren. |
+| 5 Schranke/Einwilligung | Lizenz, gesetzliche Schranke, Pastiche, Zitat, TDM, Unterricht, Forschung oder Plattformprozess prüfen. |
+| 6 Beweis und Risiko | Was ist belegt, was nur behauptet, was fehlt, was ist prozessual oder taktisch dringend? |
+| 7 Output | Ergebnis so formulieren, dass es direkt weiterverwendbar ist. |
+
+## Typische Outputs
+
+- Dataset-Rechtekarte
+- Datenabruf-Risikoampel
+- Lizenz- und Opt-out-Liste
+
+## Qualitätsfilter
+
+- Daten selbst sind nicht automatisch urheberrechtlich geschützt.
+- Datenbankrecht, Datenschutz und Geschäftsgeheimnisse getrennt prüfen.
+
+- Unsichere Wertungen werden als unsicher markiert und mit den fehlenden Tatsachen verbunden.
+- Bei Musik, KI und Software werden technische Begriffe nur verwendet, wenn sie für die Rechtsfolge etwas tragen.
+
+## Anschluss-Skills
+
+Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 87a-87e UrhG (sui generis)
+- § 4 UrhG (Sammelwerk, Datenbankwerk)
+
+---
+
+## Skill: `musikwerk-melodie-harmonie-rhythmus`
+
+_Wenn es um Musikwerk, Melodie, Harmonie und Rhythmus in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# Musikwerk, Melodie, Harmonie und Rhythmus
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Musikwerk, Melodie, Harmonie und Rhythmus
+- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
+- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Wofür dieser Arbeitsgang da ist
+
+Dieser Arbeitsgang macht Musik streitfähig prüfbar, ohne Musiktheorie und Urheberrecht zu vermischen. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+
+## Sofortstart
+
+1. Rolle klären: Anspruchsteller, Verteidigung, Verlag, Label, Plattform, Softwarehaus, Agentur, Kanzlei oder interne Rechtsabteilung.
+2. Gegenstand fixieren: Werk, Aufnahme, Code, Datenbank, Promptlog, KI-Output, Vertrag, Plattformpost oder konkrete Nutzung.
+3. Beweise anfordern: Originaldateien, Zeitstempel, Versionen, Metadaten, Verträge, Rechteübertragungen, Screenshots, Plattformmeldungen und Zahlungs-/Nutzungsdaten.
+4. Ergebnisformat wählen: kurzes Memo, Risikoampel, Abmahnungsantwort, Lizenzklausel, Schriftsatzkern, Vergleichsvorschlag oder Dokumentationspaket.
+
+## Rechtsquellen und Anker
+
+- § 2 Abs. 1 Nr. 2 UrhG
+- §§ 23, 24 UrhG a.F. nur historisch
+- § 85 UrhG Tonträgerhersteller
+- InfoSoc-RL Art. 2 und 3
+
+Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
+
+## Leitfragen
+
+- Welche Notenfolge, Hook, Basslinie oder Struktur wird beansprucht?
+- Ist die Ähnlichkeit melodisch, rhythmisch, harmonisch, timbral oder nur atmosphärisch?
+- Welche Teile stammen von Komposition, Produktion, Sample oder KI-Tool?
+- Gibt es Noten, Stems, DAW-Projekte, ISRC, Split-Sheets und Versionen?
+
+## Prüflogik
+
+| Schritt | Arbeit |
+| --- | --- |
+| 1 Gegenstand | Konkrete Form, Datei, Fassung, Ausschnitt oder Nutzung benennen. |
+| 2 Schutz | Schutzfähigkeit, Leistungsschutz oder fehlenden Schutz sauber begründen. |
+| 3 Rechtekette | Urheber, Miturheber, Arbeitgeber, Verlag, Label, Plattform und Unterlizenzen trennen. |
+| 4 Nutzung | Vervielfältigung, öffentliche Zugänglichmachung, Bearbeitung, Verbreitung, Aufführung oder Training konkretisieren. |
+| 5 Schranke/Einwilligung | Lizenz, gesetzliche Schranke, Pastiche, Zitat, TDM, Unterricht, Forschung oder Plattformprozess prüfen. |
+| 6 Beweis und Risiko | Was ist belegt, was nur behauptet, was fehlt, was ist prozessual oder taktisch dringend? |
+| 7 Output | Ergebnis so formulieren, dass es direkt weiterverwendbar ist. |
+
+## Typische Outputs
+
+- Musikvergleichsmatrix
+- Belegliste für Sachverständige
+- Entwurf einer Rechte- und Anspruchsprüfung
+
+## Qualitätsfilter
+
+- Tonträgerrecht und Musikwerkrecht nicht verwechseln.
+- Soundästhetik und Genre sind meist schwächer als konkrete Melodie oder Fixierung.
+
+- Unsichere Wertungen werden als unsicher markiert und mit den fehlenden Tatsachen verbunden.
+- Bei Musik, KI und Software werden technische Begriffe nur verwendet, wenn sie für die Rechtsfolge etwas tragen.
+
+## Anschluss-Skills
+
+Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
+
+---
+
+## Skill: `plattform-upload-art17-dsa`
+
+_Wenn es um Plattformen, Uploads und Art. 17 DSM in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Plattformen, Uploads und Art. 17 DSM
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Plattformen, Uploads und Art. 17 DSM
+- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
+- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Wofür dieser Arbeitsgang da ist
+
+Plattformen, Uploads und Art. 17 DSM schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+
+## Sofortstart
+
+1. Rolle klären: Anspruchsteller, Verteidigung, Verlag, Label, Plattform, Softwarehaus, Agentur, Kanzlei oder interne Rechtsabteilung.
+2. Gegenstand fixieren: Werk, Aufnahme, Code, Datenbank, Promptlog, KI-Output, Vertrag, Plattformpost oder konkrete Nutzung.
+3. Beweise anfordern: Originaldateien, Zeitstempel, Versionen, Metadaten, Verträge, Rechteübertragungen, Screenshots, Plattformmeldungen und Zahlungs-/Nutzungsdaten.
+4. Ergebnisformat wählen: kurzes Memo, Risikoampel, Abmahnungsantwort, Lizenzklausel, Schriftsatzkern, Vergleichsvorschlag oder Dokumentationspaket.
+
+## Rechtsquellen und Anker
+
+- UrhDaG
+- DSM-RL Art. 17
+- DSA VO 2022/2065
+
+Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
+
+## Leitfragen
+
+- Ist die Plattform Host, UGC-Plattform oder eigener Anbieter?
+- Liegt erlaubte Nutzung, mutmaßlich erlaubte Nutzung oder Beschwerde vor?
+- Welche Notice-and-Action-Schritte sind dokumentiert?
+
+## Prüflogik
+
+| Schritt | Arbeit |
+| --- | --- |
+| 1 Gegenstand | Konkrete Form, Datei, Fassung, Ausschnitt oder Nutzung benennen. |
+| 2 Schutz | Schutzfähigkeit, Leistungsschutz oder fehlenden Schutz sauber begründen. |
+| 3 Rechtekette | Urheber, Miturheber, Arbeitgeber, Verlag, Label, Plattform und Unterlizenzen trennen. |
+| 4 Nutzung | Vervielfältigung, öffentliche Zugänglichmachung, Bearbeitung, Verbreitung, Aufführung oder Training konkretisieren. |
+| 5 Schranke/Einwilligung | Lizenz, gesetzliche Schranke, Pastiche, Zitat, TDM, Unterricht, Forschung oder Plattformprozess prüfen. |
+| 6 Beweis und Risiko | Was ist belegt, was nur behauptet, was fehlt, was ist prozessual oder taktisch dringend? |
+| 7 Output | Ergebnis so formulieren, dass es direkt weiterverwendbar ist. |
+
+## Typische Outputs
+
+- Plattformstrategie
+- Takedown- oder Restore-Antrag
+- DSA/UrhDaG-Matrix
+
+## Qualitätsfilter
+
+- Urheberrechtliche und DSA-Prozesse laufen parallel, aber mit unterschiedlichen Rollen.
+
+- Unsichere Wertungen werden als unsicher markiert und mit den fehlenden Tatsachen verbunden.
+- Bei Musik, KI und Software werden technische Begriffe nur verwendet, wenn sie für die Rechtsfolge etwas tragen.
+
+## Anschluss-Skills
+
+Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 1 UrhDaG (Verantwortlichkeit Diensteanbieter)
+- §§ 4-12 UrhDaG
+- Art. 17 RL 2019/790
+
+---
+
+## Skill: `gema-gvl-verwertungsgesellschaften`
+
+_Wenn es um GEMA, GVL und Verwertungsgesellschaften in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# GEMA, GVL und Verwertungsgesellschaften
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: GEMA, GVL und Verwertungsgesellschaften
+- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
+- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Wofür dieser Arbeitsgang da ist
+
+GEMA, GVL und Verwertungsgesellschaften schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+
+## Sofortstart
+
+1. Rolle klären: Anspruchsteller, Verteidigung, Verlag, Label, Plattform, Softwarehaus, Agentur, Kanzlei oder interne Rechtsabteilung.
+2. Gegenstand fixieren: Werk, Aufnahme, Code, Datenbank, Promptlog, KI-Output, Vertrag, Plattformpost oder konkrete Nutzung.
+3. Beweise anfordern: Originaldateien, Zeitstempel, Versionen, Metadaten, Verträge, Rechteübertragungen, Screenshots, Plattformmeldungen und Zahlungs-/Nutzungsdaten.
+4. Ergebnisformat wählen: kurzes Memo, Risikoampel, Abmahnungsantwort, Lizenzklausel, Schriftsatzkern, Vergleichsvorschlag oder Dokumentationspaket.
+
+## Rechtsquellen und Anker
+
+- VGG
+- UrhG §§ 54 ff.
+- GEMA/GVL-Regelwerke als Nutzerquelle
+
+Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
+
+## Leitfragen
+
+- Welche Rechte werden kollektiv wahrgenommen?
+- Ist das Werk richtig angemeldet und sind Splits plausibel?
+- Welche Nutzung ist tariffähig oder individuell zu lizenzieren?
+
+## Prüflogik
+
+| Schritt | Arbeit |
+| --- | --- |
+| 1 Gegenstand | Konkrete Form, Datei, Fassung, Ausschnitt oder Nutzung benennen. |
+| 2 Schutz | Schutzfähigkeit, Leistungsschutz oder fehlenden Schutz sauber begründen. |
+| 3 Rechtekette | Urheber, Miturheber, Arbeitgeber, Verlag, Label, Plattform und Unterlizenzen trennen. |
+| 4 Nutzung | Vervielfältigung, öffentliche Zugänglichmachung, Bearbeitung, Verbreitung, Aufführung oder Training konkretisieren. |
+| 5 Schranke/Einwilligung | Lizenz, gesetzliche Schranke, Pastiche, Zitat, TDM, Unterricht, Forschung oder Plattformprozess prüfen. |
+| 6 Beweis und Risiko | Was ist belegt, was nur behauptet, was fehlt, was ist prozessual oder taktisch dringend? |
+| 7 Output | Ergebnis so formulieren, dass es direkt weiterverwendbar ist. |
+
+## Typische Outputs
+
+- Meldecheckliste
+- Ausschüttungs- und Split-Vermerk
+- Tarifanfrage
+
+## Qualitätsfilter
+
+- GEMA-Rechte decken nicht jede Synchronisation, jedes Masterrecht oder jeden KI-Fall.
+
+- Unsichere Wertungen werden als unsicher markiert und mit den fehlenden Tatsachen verbunden.
+- Bei Musik, KI und Software werden technische Begriffe nur verwendet, wenn sie für die Rechtsfolge etwas tragen.
+
+## Anschluss-Skills
+
+Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 2 UrhG (geschützte Werke)
+- § 7 UrhG (Urheber)
+- §§ 15-24 UrhG (Verwertungsrechte)
+- § 97 UrhG (Unterlassung, Schadensersatz)
+- RL (EU) 2019/790 (DSM-RL)
+
+---
+
+## Skill: `soundaufnahme-tontraeger-titel-slogan`
+
+_Wenn es um Tonaufnahme und Leistungsschutzrechte in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+
+# Tonaufnahme und Leistungsschutzrechte
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Tonaufnahme und Leistungsschutzrechte
+- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
+- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Wofür dieser Arbeitsgang da ist
+
+Dieser Arbeitsgang verhindert den typischen Fehler, nur Komposition und Text zu prüfen, obwohl die Tonaufnahme separat geschützt ist. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+
+## Sofortstart
+
+1. Rolle klären: Anspruchsteller, Verteidigung, Verlag, Label, Plattform, Softwarehaus, Agentur, Kanzlei oder interne Rechtsabteilung.
+2. Gegenstand fixieren: Werk, Aufnahme, Code, Datenbank, Promptlog, KI-Output, Vertrag, Plattformpost oder konkrete Nutzung.
+3. Beweise anfordern: Originaldateien, Zeitstempel, Versionen, Metadaten, Verträge, Rechteübertragungen, Screenshots, Plattformmeldungen und Zahlungs-/Nutzungsdaten.
+4. Ergebnisformat wählen: kurzes Memo, Risikoampel, Abmahnungsantwort, Lizenzklausel, Schriftsatzkern, Vergleichsvorschlag oder Dokumentationspaket.
+
+## Rechtsquellen und Anker
+
+- §§ 73 ff. UrhG ausübende Künstler
+- §§ 85 ff. UrhG Tonträgerhersteller
+- §§ 97 ff. UrhG Ansprüche
+- InfoSoc-RL Art. 2
+
+Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
+
+## Leitfragen
+
+- Wer kontrolliert Master, Publishing, Leistungsschutz und Vertrieb?
+- Wurde eine Aufnahme kopiert, nachgespielt, gesampelt oder nur inspiriert?
+- Gibt es Labelvertrag, Producer Agreement, Buyout, Session-Musikerfreigaben?
+- Welche Plattformnutzung und Territorien sind betroffen?
+
+## Prüflogik
+
+| Schritt | Arbeit |
+| --- | --- |
+| 1 Gegenstand | Konkrete Form, Datei, Fassung, Ausschnitt oder Nutzung benennen. |
+| 2 Schutz | Schutzfähigkeit, Leistungsschutz oder fehlenden Schutz sauber begründen. |
+| 3 Rechtekette | Urheber, Miturheber, Arbeitgeber, Verlag, Label, Plattform und Unterlizenzen trennen. |
+| 4 Nutzung | Vervielfältigung, öffentliche Zugänglichmachung, Bearbeitung, Verbreitung, Aufführung oder Training konkretisieren. |
+| 5 Schranke/Einwilligung | Lizenz, gesetzliche Schranke, Pastiche, Zitat, TDM, Unterricht, Forschung oder Plattformprozess prüfen. |
+| 6 Beweis und Risiko | Was ist belegt, was nur behauptet, was fehlt, was ist prozessual oder taktisch dringend? |
+| 7 Output | Ergebnis so formulieren, dass es direkt weiterverwendbar ist. |
+
+## Typische Outputs
+
+- Master-Rechtekette
+- Claim- oder Clearance-Checkliste
+- Auskunfts- und Schadensmatrix
+
+## Qualitätsfilter
+
+- Bei Tonträgern kann schon die Übernahme kleinster erkennbarer Partikel relevant sein, aber Schranken und neue Nutzungen prüfen.
+- GEMA deckt nicht automatisch Masterrechte.
+
+- Unsichere Wertungen werden als unsicher markiert und mit den fehlenden Tatsachen verbunden.
+- Bei Musik, KI und Software werden technische Begriffe nur verwendet, wenn sie für die Rechtsfolge etwas tragen.
+
+## Anschluss-Skills
+
+Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
+
+---
+
 ## Skill: `werkhoehe-schoepfungshoehe-wissenschaft-tdm`
 
-_Prüft Schutzfaehigkeit und Werkhoehe nach § 2 UrhG und EU-Originalitaet: persönliche geistige Schoepfung, Gestaltungsspielraum, Ausdruck statt Idee im Urheberrecht De Eu._
+_Wenn es um Werkhöhe und Schöpfungshöhe prüfen in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
 # Werkhöhe und Schöpfungshöhe prüfen
 
@@ -200,664 +865,9 @@ Konkret zu prüfen:
 
 ---
 
-## Skill: `musikwerk-melodie-harmonie-rhythmus`
-
-_Prüft Musikwerke: Melodie, Motiv, Harmonie, Rhythmus, Arrangement, Hookline, Soundidee und Grenze zwischen Werk, Stil und bloßer Klangfarbe im Urheberrecht De Eu._
-
-# Musikwerk, Melodie, Harmonie und Rhythmus
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Musikwerk, Melodie, Harmonie und Rhythmus
-- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
-- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Wofür dieser Arbeitsgang da ist
-
-Dieser Arbeitsgang macht Musik streitfähig prüfbar, ohne Musiktheorie und Urheberrecht zu vermischen. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
-
-## Sofortstart
-
-1. Rolle klären: Anspruchsteller, Verteidigung, Verlag, Label, Plattform, Softwarehaus, Agentur, Kanzlei oder interne Rechtsabteilung.
-2. Gegenstand fixieren: Werk, Aufnahme, Code, Datenbank, Promptlog, KI-Output, Vertrag, Plattformpost oder konkrete Nutzung.
-3. Beweise anfordern: Originaldateien, Zeitstempel, Versionen, Metadaten, Verträge, Rechteübertragungen, Screenshots, Plattformmeldungen und Zahlungs-/Nutzungsdaten.
-4. Ergebnisformat wählen: kurzes Memo, Risikoampel, Abmahnungsantwort, Lizenzklausel, Schriftsatzkern, Vergleichsvorschlag oder Dokumentationspaket.
-
-## Rechtsquellen und Anker
-
-- § 2 Abs. 1 Nr. 2 UrhG
-- §§ 23, 24 UrhG a.F. nur historisch
-- § 85 UrhG Tonträgerhersteller
-- InfoSoc-RL Art. 2 und 3
-
-Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
-
-## Leitfragen
-
-- Welche Notenfolge, Hook, Basslinie oder Struktur wird beansprucht?
-- Ist die Ähnlichkeit melodisch, rhythmisch, harmonisch, timbral oder nur atmosphärisch?
-- Welche Teile stammen von Komposition, Produktion, Sample oder KI-Tool?
-- Gibt es Noten, Stems, DAW-Projekte, ISRC, Split-Sheets und Versionen?
-
-## Prüflogik
-
-| Schritt | Arbeit |
-| --- | --- |
-| 1 Gegenstand | Konkrete Form, Datei, Fassung, Ausschnitt oder Nutzung benennen. |
-| 2 Schutz | Schutzfähigkeit, Leistungsschutz oder fehlenden Schutz sauber begründen. |
-| 3 Rechtekette | Urheber, Miturheber, Arbeitgeber, Verlag, Label, Plattform und Unterlizenzen trennen. |
-| 4 Nutzung | Vervielfältigung, öffentliche Zugänglichmachung, Bearbeitung, Verbreitung, Aufführung oder Training konkretisieren. |
-| 5 Schranke/Einwilligung | Lizenz, gesetzliche Schranke, Pastiche, Zitat, TDM, Unterricht, Forschung oder Plattformprozess prüfen. |
-| 6 Beweis und Risiko | Was ist belegt, was nur behauptet, was fehlt, was ist prozessual oder taktisch dringend? |
-| 7 Output | Ergebnis so formulieren, dass es direkt weiterverwendbar ist. |
-
-## Typische Outputs
-
-- Musikvergleichsmatrix
-- Belegliste für Sachverständige
-- Entwurf einer Rechte- und Anspruchsprüfung
-
-## Qualitätsfilter
-
-- Tonträgerrecht und Musikwerkrecht nicht verwechseln.
-- Soundästhetik und Genre sind meist schwächer als konkrete Melodie oder Fixierung.
-
-- Unsichere Wertungen werden als unsicher markiert und mit den fehlenden Tatsachen verbunden.
-- Bei Musik, KI und Software werden technische Begriffe nur verwendet, wenn sie für die Rechtsfolge etwas tragen.
-
-## Anschluss-Skills
-
-Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
-
----
-
-## Skill: `sachverstaendigenbriefing-musik-sampling`
-
-_Erstellt ein präzises Briefing für Musiksachverständige mit Prüfgegenstand, Audiofiles, Notation, Vergleichsparametern und Rechtsfragen im Urheberrecht De Eu._
-
-# Sachverständigenbriefing Musik
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Sachverständigenbriefing Musik
-- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
-- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Wofür dieser Arbeitsgang da ist
-
-Sachverständigenbriefing Musik schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
-
-## Sofortstart
-
-1. Rolle klären: Anspruchsteller, Verteidigung, Verlag, Label, Plattform, Softwarehaus, Agentur, Kanzlei oder interne Rechtsabteilung.
-2. Gegenstand fixieren: Werk, Aufnahme, Code, Datenbank, Promptlog, KI-Output, Vertrag, Plattformpost oder konkrete Nutzung.
-3. Beweise anfordern: Originaldateien, Zeitstempel, Versionen, Metadaten, Verträge, Rechteübertragungen, Screenshots, Plattformmeldungen und Zahlungs-/Nutzungsdaten.
-4. Ergebnisformat wählen: kurzes Memo, Risikoampel, Abmahnungsantwort, Lizenzklausel, Schriftsatzkern, Vergleichsvorschlag oder Dokumentationspaket.
-
-## Rechtsquellen und Anker
-
-- ZPO Beweisrecht
-- § 2 UrhG
-- § 97 UrhG
-
-Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
-
-## Leitfragen
-
-- Welche Dateien sind Vergleichsgegenstand?
-- Welche Sequenzen, Takte, Zeitcodes und Stems?
-- Welche rechtliche Frage darf der Sachverständige nicht ersetzen?
-
-## Prüflogik
-
-| Schritt | Arbeit |
-| --- | --- |
-| 1 Gegenstand | Konkrete Form, Datei, Fassung, Ausschnitt oder Nutzung benennen. |
-| 2 Schutz | Schutzfähigkeit, Leistungsschutz oder fehlenden Schutz sauber begründen. |
-| 3 Rechtekette | Urheber, Miturheber, Arbeitgeber, Verlag, Label, Plattform und Unterlizenzen trennen. |
-| 4 Nutzung | Vervielfältigung, öffentliche Zugänglichmachung, Bearbeitung, Verbreitung, Aufführung oder Training konkretisieren. |
-| 5 Schranke/Einwilligung | Lizenz, gesetzliche Schranke, Pastiche, Zitat, TDM, Unterricht, Forschung oder Plattformprozess prüfen. |
-| 6 Beweis und Risiko | Was ist belegt, was nur behauptet, was fehlt, was ist prozessual oder taktisch dringend? |
-| 7 Output | Ergebnis so formulieren, dass es direkt weiterverwendbar ist. |
-
-## Typische Outputs
-
-- Briefingmemo
-- Anlagenliste
-- Fragenkatalog
-
-## Qualitätsfilter
-
-- Sachverständige prüfen Musikähnlichkeit, nicht die Rechtsfolge allein.
-
-- Unsichere Wertungen werden als unsicher markiert und mit den fehlenden Tatsachen verbunden.
-- Bei Musik, KI und Software werden technische Begriffe nur verwendet, wenn sie für die Rechtsfolge etwas tragen.
-
-## Anschluss-Skills
-
-Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- § 2 Abs. 1 Nr. 2 UrhG
-- § 73 UrhG (ausübende Künstler)
-- § 85 UrhG (Tonträgerhersteller)
-
----
-
-## Skill: `gema-gvl-verwertungsgesellschaften`
-
-_Prüft Wahrnehmungsverträge, GEMA/GVL-Meldungen, Tarife, Ausschüttung, Werkregistrierung und Rechte außerhalb der Kollektivwahrnehmung im Urheberrecht De Eu._
-
-# GEMA, GVL und Verwertungsgesellschaften
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: GEMA, GVL und Verwertungsgesellschaften
-- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
-- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Wofür dieser Arbeitsgang da ist
-
-GEMA, GVL und Verwertungsgesellschaften schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
-
-## Sofortstart
-
-1. Rolle klären: Anspruchsteller, Verteidigung, Verlag, Label, Plattform, Softwarehaus, Agentur, Kanzlei oder interne Rechtsabteilung.
-2. Gegenstand fixieren: Werk, Aufnahme, Code, Datenbank, Promptlog, KI-Output, Vertrag, Plattformpost oder konkrete Nutzung.
-3. Beweise anfordern: Originaldateien, Zeitstempel, Versionen, Metadaten, Verträge, Rechteübertragungen, Screenshots, Plattformmeldungen und Zahlungs-/Nutzungsdaten.
-4. Ergebnisformat wählen: kurzes Memo, Risikoampel, Abmahnungsantwort, Lizenzklausel, Schriftsatzkern, Vergleichsvorschlag oder Dokumentationspaket.
-
-## Rechtsquellen und Anker
-
-- VGG
-- UrhG §§ 54 ff.
-- GEMA/GVL-Regelwerke als Nutzerquelle
-
-Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
-
-## Leitfragen
-
-- Welche Rechte werden kollektiv wahrgenommen?
-- Ist das Werk richtig angemeldet und sind Splits plausibel?
-- Welche Nutzung ist tariffähig oder individuell zu lizenzieren?
-
-## Prüflogik
-
-| Schritt | Arbeit |
-| --- | --- |
-| 1 Gegenstand | Konkrete Form, Datei, Fassung, Ausschnitt oder Nutzung benennen. |
-| 2 Schutz | Schutzfähigkeit, Leistungsschutz oder fehlenden Schutz sauber begründen. |
-| 3 Rechtekette | Urheber, Miturheber, Arbeitgeber, Verlag, Label, Plattform und Unterlizenzen trennen. |
-| 4 Nutzung | Vervielfältigung, öffentliche Zugänglichmachung, Bearbeitung, Verbreitung, Aufführung oder Training konkretisieren. |
-| 5 Schranke/Einwilligung | Lizenz, gesetzliche Schranke, Pastiche, Zitat, TDM, Unterricht, Forschung oder Plattformprozess prüfen. |
-| 6 Beweis und Risiko | Was ist belegt, was nur behauptet, was fehlt, was ist prozessual oder taktisch dringend? |
-| 7 Output | Ergebnis so formulieren, dass es direkt weiterverwendbar ist. |
-
-## Typische Outputs
-
-- Meldecheckliste
-- Ausschüttungs- und Split-Vermerk
-- Tarifanfrage
-
-## Qualitätsfilter
-
-- GEMA-Rechte decken nicht jede Synchronisation, jedes Masterrecht oder jeden KI-Fall.
-
-- Unsichere Wertungen werden als unsicher markiert und mit den fehlenden Tatsachen verbunden.
-- Bei Musik, KI und Software werden technische Begriffe nur verwendet, wenn sie für die Rechtsfolge etwas tragen.
-
-## Anschluss-Skills
-
-Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- § 2 UrhG (geschützte Werke)
-- § 7 UrhG (Urheber)
-- §§ 15-24 UrhG (Verwertungsrechte)
-- § 97 UrhG (Unterlassung, Schadensersatz)
-- RL (EU) 2019/790 (DSM-RL)
-
----
-
-## Skill: `settlement-verlagsrecht-buch-vg-bild`
-
-_Entwickelt Vergleichsstrategie bei Musik-, KI-, Software- und Content-Streit: Unterlassung, Lizenz, Accounting, Credit, Release im Urheberrecht De Eu._
-
-# Vergleich und Settlement
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Vergleich und Settlement
-- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
-- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Wofür dieser Arbeitsgang da ist
-
-Vergleich und Settlement schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
-
-## Sofortstart
-
-1. Rolle klären: Anspruchsteller, Verteidigung, Verlag, Label, Plattform, Softwarehaus, Agentur, Kanzlei oder interne Rechtsabteilung.
-2. Gegenstand fixieren: Werk, Aufnahme, Code, Datenbank, Promptlog, KI-Output, Vertrag, Plattformpost oder konkrete Nutzung.
-3. Beweise anfordern: Originaldateien, Zeitstempel, Versionen, Metadaten, Verträge, Rechteübertragungen, Screenshots, Plattformmeldungen und Zahlungs-/Nutzungsdaten.
-4. Ergebnisformat wählen: kurzes Memo, Risikoampel, Abmahnungsantwort, Lizenzklausel, Schriftsatzkern, Vergleichsvorschlag oder Dokumentationspaket.
-
-## Rechtsquellen und Anker
-
-- § 779 BGB
-- §§ 31 ff. UrhG
-- §§ 97 ff. UrhG
-
-Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
-
-## Leitfragen
-
-- Was ist nicht verhandelbar?
-- Welche wirtschaftliche Lösung erhält Release, Ruf und Rechtekette?
-- Welche Alt- und Zukunftsnutzungen werden bereinigt?
-
-## Prüflogik
-
-| Schritt | Arbeit |
-| --- | --- |
-| 1 Gegenstand | Konkrete Form, Datei, Fassung, Ausschnitt oder Nutzung benennen. |
-| 2 Schutz | Schutzfähigkeit, Leistungsschutz oder fehlenden Schutz sauber begründen. |
-| 3 Rechtekette | Urheber, Miturheber, Arbeitgeber, Verlag, Label, Plattform und Unterlizenzen trennen. |
-| 4 Nutzung | Vervielfältigung, öffentliche Zugänglichmachung, Bearbeitung, Verbreitung, Aufführung oder Training konkretisieren. |
-| 5 Schranke/Einwilligung | Lizenz, gesetzliche Schranke, Pastiche, Zitat, TDM, Unterricht, Forschung oder Plattformprozess prüfen. |
-| 6 Beweis und Risiko | Was ist belegt, was nur behauptet, was fehlt, was ist prozessual oder taktisch dringend? |
-| 7 Output | Ergebnis so formulieren, dass es direkt weiterverwendbar ist. |
-
-## Typische Outputs
-
-- Settlement-Term-Sheet
-- Verhandlungsleitfaden
-- Risiken offener Punkte
-
-## Qualitätsfilter
-
-- Vergleich darf Rechtekette nicht nur kosmetisch reparieren.
-
-- Unsichere Wertungen werden als unsicher markiert und mit den fehlenden Tatsachen verbunden.
-- Bei Musik, KI und Software werden technische Begriffe nur verwendet, wenn sie für die Rechtsfolge etwas tragen.
-
-## Anschluss-Skills
-
-Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- §§ 1-141 VGG (Verwertungsgesellschaften)
-- § 9 VGG
-
----
-
-## Skill: `vertragsgenerator-musik-release`
-
-_Erzeugt und prüft Vertragsbausteine für Songrelease, Label, Verlag, Producer, Feature, Remix, Split, Sync und Plattformvertrieb im Urheberrecht De Eu._
-
-# Musikvertrag und Release-Paket
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Musikvertrag und Release-Paket
-- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
-- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Wofür dieser Arbeitsgang da ist
-
-Musikvertrag und Release-Paket schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
-
-## Sofortstart
-
-1. Rolle klären: Anspruchsteller, Verteidigung, Verlag, Label, Plattform, Softwarehaus, Agentur, Kanzlei oder interne Rechtsabteilung.
-2. Gegenstand fixieren: Werk, Aufnahme, Code, Datenbank, Promptlog, KI-Output, Vertrag, Plattformpost oder konkrete Nutzung.
-3. Beweise anfordern: Originaldateien, Zeitstempel, Versionen, Metadaten, Verträge, Rechteübertragungen, Screenshots, Plattformmeldungen und Zahlungs-/Nutzungsdaten.
-4. Ergebnisformat wählen: kurzes Memo, Risikoampel, Abmahnungsantwort, Lizenzklausel, Schriftsatzkern, Vergleichsvorschlag oder Dokumentationspaket.
-
-## Rechtsquellen und Anker
-
-- §§ 31 ff. UrhG
-- §§ 32 ff. UrhG
-- BGB Vertragsrecht
-
-Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
-
-## Leitfragen
-
-- Welche Rechte werden eingeräumt und gegen welche Vergütung?
-- Wer darf bearbeiten, remixen, sublizenzieren oder KI-Tools nutzen?
-- Welche Garantien, Indemnities, Takedown-Pflichten und Accounting-Regeln braucht es?
-
-## Prüflogik
-
-| Schritt | Arbeit |
-| --- | --- |
-| 1 Gegenstand | Konkrete Form, Datei, Fassung, Ausschnitt oder Nutzung benennen. |
-| 2 Schutz | Schutzfähigkeit, Leistungsschutz oder fehlenden Schutz sauber begründen. |
-| 3 Rechtekette | Urheber, Miturheber, Arbeitgeber, Verlag, Label, Plattform und Unterlizenzen trennen. |
-| 4 Nutzung | Vervielfältigung, öffentliche Zugänglichmachung, Bearbeitung, Verbreitung, Aufführung oder Training konkretisieren. |
-| 5 Schranke/Einwilligung | Lizenz, gesetzliche Schranke, Pastiche, Zitat, TDM, Unterricht, Forschung oder Plattformprozess prüfen. |
-| 6 Beweis und Risiko | Was ist belegt, was nur behauptet, was fehlt, was ist prozessual oder taktisch dringend? |
-| 7 Output | Ergebnis so formulieren, dass es direkt weiterverwendbar ist. |
-
-## Typische Outputs
-
-- Term Sheet
-- Rechteklauseln
-- Release-Checkliste
-
-## Qualitätsfilter
-
-- Buyout-Klauseln mit Transparenz- und Vergütungsrecht abgleichen.
-
-- Unsichere Wertungen werden als unsicher markiert und mit den fehlenden Tatsachen verbunden.
-- Bei Musik, KI und Software werden technische Begriffe nur verwendet, wenn sie für die Rechtsfolge etwas tragen.
-
-## Anschluss-Skills
-
-Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- § 2 Abs. 1 Nr. 2 UrhG
-- § 73 UrhG (ausübende Künstler)
-- § 85 UrhG (Tonträgerhersteller)
-
----
-
-## Skill: `nutzungsrechte-lizenzkette`
-
-_Prüft einfache und ausschließliche Nutzungsrechte, Zweckübertragung, Unterlizenzen, Territorium, Dauer, Medien und Rechtekette im Urheberrecht De Eu._
-
-# Nutzungsrechte und Lizenzkette
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Nutzungsrechte und Lizenzkette
-- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
-- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Wofür dieser Arbeitsgang da ist
-
-Nutzungsrechte und Lizenzkette schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
-
-## Sofortstart
-
-1. Rolle klären: Anspruchsteller, Verteidigung, Verlag, Label, Plattform, Softwarehaus, Agentur, Kanzlei oder interne Rechtsabteilung.
-2. Gegenstand fixieren: Werk, Aufnahme, Code, Datenbank, Promptlog, KI-Output, Vertrag, Plattformpost oder konkrete Nutzung.
-3. Beweise anfordern: Originaldateien, Zeitstempel, Versionen, Metadaten, Verträge, Rechteübertragungen, Screenshots, Plattformmeldungen und Zahlungs-/Nutzungsdaten.
-4. Ergebnisformat wählen: kurzes Memo, Risikoampel, Abmahnungsantwort, Lizenzklausel, Schriftsatzkern, Vergleichsvorschlag oder Dokumentationspaket.
-
-## Rechtsquellen und Anker
-
-- §§ 31 bis 44 UrhG
-- § 31a UrhG
-- § 34 UrhG
-- § 35 UrhG
-
-Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
-
-## Leitfragen
-
-- Wer hat welches Recht wann übertragen?
-- Reicht die Rechteeinräumung für Streaming, KI, Sync, Social Clips oder Werbung?
-- Gibt es Rückrufe, Zustimmungserfordernisse oder Sperren?
-
-## Prüflogik
-
-| Schritt | Arbeit |
-| --- | --- |
-| 1 Gegenstand | Konkrete Form, Datei, Fassung, Ausschnitt oder Nutzung benennen. |
-| 2 Schutz | Schutzfähigkeit, Leistungsschutz oder fehlenden Schutz sauber begründen. |
-| 3 Rechtekette | Urheber, Miturheber, Arbeitgeber, Verlag, Label, Plattform und Unterlizenzen trennen. |
-| 4 Nutzung | Vervielfältigung, öffentliche Zugänglichmachung, Bearbeitung, Verbreitung, Aufführung oder Training konkretisieren. |
-| 5 Schranke/Einwilligung | Lizenz, gesetzliche Schranke, Pastiche, Zitat, TDM, Unterricht, Forschung oder Plattformprozess prüfen. |
-| 6 Beweis und Risiko | Was ist belegt, was nur behauptet, was fehlt, was ist prozessual oder taktisch dringend? |
-| 7 Output | Ergebnis so formulieren, dass es direkt weiterverwendbar ist. |
-
-## Typische Outputs
-
-- Rechtekette mit Lücken
-- Lizenzumfang-Tabelle
-- Nachforderungsliste
-
-## Qualitätsfilter
-
-- Verwertungsgesellschaften und individuelle Rechte nicht vermengen. Zweckübertragung sauber anwenden.
-
-- Unsichere Wertungen werden als unsicher markiert und mit den fehlenden Tatsachen verbunden.
-- Bei Musik, KI und Software werden technische Begriffe nur verwendet, wenn sie für die Rechtsfolge etwas tragen.
-
-## Anschluss-Skills
-
-Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
-
----
-
-## Skill: `abmahnung-97a-response`
-
-_Prüft urheberrechtliche Abmahnung, Unterlassungserklärung, Kosten, Aktivlegitimation, Belege, Modifikation und Gegenangriff im Urheberrecht De Eu._
-
-# Abmahnung nach § 97a UrhG beantworten
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Abmahnung nach § 97a UrhG beantworten
-- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
-- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Wofür dieser Arbeitsgang da ist
-
-Abmahnung nach § 97a UrhG beantworten schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
-
-## Sofortstart
-
-1. Rolle klären: Anspruchsteller, Verteidigung, Verlag, Label, Plattform, Softwarehaus, Agentur, Kanzlei oder interne Rechtsabteilung.
-2. Gegenstand fixieren: Werk, Aufnahme, Code, Datenbank, Promptlog, KI-Output, Vertrag, Plattformpost oder konkrete Nutzung.
-3. Beweise anfordern: Originaldateien, Zeitstempel, Versionen, Metadaten, Verträge, Rechteübertragungen, Screenshots, Plattformmeldungen und Zahlungs-/Nutzungsdaten.
-4. Ergebnisformat wählen: kurzes Memo, Risikoampel, Abmahnungsantwort, Lizenzklausel, Schriftsatzkern, Vergleichsvorschlag oder Dokumentationspaket.
-
-## Rechtsquellen und Anker
-
-- §§ 97, 97a, 98, 100, 101 UrhG
-- §§ 935, 940 ZPO
-
-Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
-
-## Leitfragen
-
-- Ist der Anspruchsteller aktivlegitimiert?
-- Sind Werk, Verletzung, Wiederholungsgefahr und Kosten konkret belegt?
-- Welche UE ist zu weit, zu eng oder taktisch gefährlich?
-
-## Prüflogik
-
-| Schritt | Arbeit |
-| --- | --- |
-| 1 Gegenstand | Konkrete Form, Datei, Fassung, Ausschnitt oder Nutzung benennen. |
-| 2 Schutz | Schutzfähigkeit, Leistungsschutz oder fehlenden Schutz sauber begründen. |
-| 3 Rechtekette | Urheber, Miturheber, Arbeitgeber, Verlag, Label, Plattform und Unterlizenzen trennen. |
-| 4 Nutzung | Vervielfältigung, öffentliche Zugänglichmachung, Bearbeitung, Verbreitung, Aufführung oder Training konkretisieren. |
-| 5 Schranke/Einwilligung | Lizenz, gesetzliche Schranke, Pastiche, Zitat, TDM, Unterricht, Forschung oder Plattformprozess prüfen. |
-| 6 Beweis und Risiko | Was ist belegt, was nur behauptet, was fehlt, was ist prozessual oder taktisch dringend? |
-| 7 Output | Ergebnis so formulieren, dass es direkt weiterverwendbar ist. |
-
-## Typische Outputs
-
-- Abmahnungsanalyse
-- modifizierte UE
-- Antwortschreiben und Fristenplan
-
-## Qualitätsfilter
-
-- Nie blind unterschreiben. Vertragsstrafe und Anerkenntnisrisiken prüfen.
-
-- Unsichere Wertungen werden als unsicher markiert und mit den fehlenden Tatsachen verbunden.
-- Bei Musik, KI und Software werden technische Begriffe nur verwendet, wenn sie für die Rechtsfolge etwas tragen.
-
-## Anschluss-Skills
-
-Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- § 97a UrhG (Abmahnung)
-- § 97 UrhG
-- BGH I ZR 121/08 (Sommer unseres Lebens)
-
----
-
-## Skill: `beweisforensik-versionen`
-
-_Sichert Belege bei Musik, Text, Code und KI-Output: Versionen, Hashes, Metadaten, Uploads, Screenshots und Chain of Custody im Urheberrecht De Eu._
-
-# Beweisforensik, Versionen und Hashes
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Beweisforensik, Versionen und Hashes
-- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
-- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Wofür dieser Arbeitsgang da ist
-
-Beweisforensik, Versionen und Hashes schärft die Urheberrechtsprüfung auf den konkreten Teilbereich und bleibt beweisnah, quellensauber und outputorientiert. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
-
-## Sofortstart
-
-1. Rolle klären: Anspruchsteller, Verteidigung, Verlag, Label, Plattform, Softwarehaus, Agentur, Kanzlei oder interne Rechtsabteilung.
-2. Gegenstand fixieren: Werk, Aufnahme, Code, Datenbank, Promptlog, KI-Output, Vertrag, Plattformpost oder konkrete Nutzung.
-3. Beweise anfordern: Originaldateien, Zeitstempel, Versionen, Metadaten, Verträge, Rechteübertragungen, Screenshots, Plattformmeldungen und Zahlungs-/Nutzungsdaten.
-4. Ergebnisformat wählen: kurzes Memo, Risikoampel, Abmahnungsantwort, Lizenzklausel, Schriftsatzkern, Vergleichsvorschlag oder Dokumentationspaket.
-
-## Rechtsquellen und Anker
-
-- § 286 ZPO
-- § 371 ZPO
-- § 371a ZPO
-- UrhG Anspruchsnachweise
-
-Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechung live oder anhand einer vom Nutzer bereitgestellten Quelle verifiziert. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
-
-## Leitfragen
-
-- Welche Datei entstand wann und bei wem?
-- Gibt es DAW-Projekte, Git-Commits, Promptlogs, E-Mails, Cloud-Metadaten?
-- Sind Screenshots reproduzierbar und signiert?
-
-## Prüflogik
-
-| Schritt | Arbeit |
-| --- | --- |
-| 1 Gegenstand | Konkrete Form, Datei, Fassung, Ausschnitt oder Nutzung benennen. |
-| 2 Schutz | Schutzfähigkeit, Leistungsschutz oder fehlenden Schutz sauber begründen. |
-| 3 Rechtekette | Urheber, Miturheber, Arbeitgeber, Verlag, Label, Plattform und Unterlizenzen trennen. |
-| 4 Nutzung | Vervielfältigung, öffentliche Zugänglichmachung, Bearbeitung, Verbreitung, Aufführung oder Training konkretisieren. |
-| 5 Schranke/Einwilligung | Lizenz, gesetzliche Schranke, Pastiche, Zitat, TDM, Unterricht, Forschung oder Plattformprozess prüfen. |
-| 6 Beweis und Risiko | Was ist belegt, was nur behauptet, was fehlt, was ist prozessual oder taktisch dringend? |
-| 7 Output | Ergebnis so formulieren, dass es direkt weiterverwendbar ist. |
-
-## Typische Outputs
-
-- Beweislog
-- Hash-Tabelle
-- Lückenliste für Sachverständige
-
-## Qualitätsfilter
-
-- Metadaten können manipulierbar sein. Nicht überbewerten, aber sauber sichern.
-
-- Unsichere Wertungen werden als unsicher markiert und mit den fehlenden Tatsachen verbunden.
-- Bei Musik, KI und Software werden technische Begriffe nur verwendet, wenn sie für die Rechtsfolge etwas tragen.
-
-## Anschluss-Skills
-
-Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-lizenzkette`, `beweisforensik-versionen`, `redteam-halluzinationsschutz` und `output-builder-urheberrecht`. Bei Musikfällen zusätzlich `musikwerk-melodie-harmonie-rhythmus`, `soundaufnahme-tontraeger` und `sampling-pastiche-remix`. Bei KI-Fällen zusätzlich `ki-output-menschlicher-beitrag`, `ki-training-tdm-optout` und `ki-act-gpai-copyright`.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- § 2 UrhG (geschützte Werke)
-- § 7 UrhG (Urheber)
-- §§ 15-24 UrhG (Verwertungsrechte)
-- § 97 UrhG (Unterlassung, Schadensersatz)
-- RL (EU) 2019/790 (DSM-RL)
-
----
-
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

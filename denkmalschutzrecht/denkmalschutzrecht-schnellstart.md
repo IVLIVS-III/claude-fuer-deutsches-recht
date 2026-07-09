@@ -59,7 +59,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
 - BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
 - BVerfG, Beschluss vom 02.03.1999, 1 BvL 7/91, BVerfGE 100 Seite 226 — Rheinland-Pfalz-Beschluss: Erhaltungspflichten am Baudenkmal sind Inhaltsbestimmung; wird die Belastung unzumutbar, muss
-- Rheinland-Pfalz ist verfassungsrechtlich bedeutsam: Aus dem DSchPflG erging die Vorlage zum Rheinland-Pfalz-Beschluss BVerfGE 100 Seite 226 (vom 02.03.1999), der die Grundlinie zur Inhaltsbestimmung
 
 ## 7. Antwortform
 

@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Paragraf 44 Abs. 1 Nr. 4 GGO; Paragraf 44 Abs. 1 Nr. 4 GGO; Paragrafen 44, 45, 62 GGO |
-| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -54,7 +54,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 44 GGO — Folgen-Prüfung umfasst auch Digitales: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 44 GGO, NKRG Paragraf 4 (Prüfungsgegenstand): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 44 GGO; NKRG vom 14.08.2006 (BGBl. I S. 1866) Paragraf 4 Abs. 3 (Digitalcheck) i.V.m. Paragraf 9 (Anwendbarkeit ab 1. Januar 2023): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 7. Antwortform
 

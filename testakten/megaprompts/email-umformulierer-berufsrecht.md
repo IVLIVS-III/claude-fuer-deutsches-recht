@@ -1,27 +1,27 @@
-# Megaprompt: email-umformulierer-berufsrecht
+# Vollprüfung: email-umformulierer-berufsrecht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 82 Skills des Plugins `email-umformulierer-berufsrecht`.
+Dieser Vollprüfung enthaelt top-10 von 82 Skills des Plugins `email-umformulierer-berufsrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für E-Mail-Umformulierung im Berufsrecht: ordnet Rolle (Anwalt, Mandant, Gegner), markiert …
-2. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Email Umformulierer Berufsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlage…
-3. **formuliert-erstpruefung-und-mandatsziel** — Formuliert: Erstprüfung, Rollenklärung und Mandatsziel.
-4. **anrede-und-grussformeln** — Anrede und Grussformeln in Anwaltskorrespondenz prufen und berufsrechtskonform optimieren. § 43a BRAO § 26 BORA Kollegia…
-5. **brao-konformitaetspruefung** — E-Mail auf BRAO-Konformität prüfen bevor sie versandt wird. §§ 43 43a 43b BRAO Grundpflichten Sachlichkeitsgebot Werbung…
-6. **email-eingangsanalyse** — Eingehende E-Mail analysieren und Tonalitaet Konfliktpotenzial und Handlungsbedarf bestimmen. § 43a BRAO Berufsrecht. Pr…
-7. **ironie-und-sarkasmus-eliminieren** — Ironische oder sarkastische Formulierungen in Anwaltskorrespondenz erkennen und berufsrechtlich einwandfrei neutralisier…
-8. **klare-bitte-formulieren** — Unklare oder versteckte Bitten und Forderungen in Anwaltskorrespondenz klar und direkt formulieren. § 43a BRAO § 26 BORA…
-9. **kompetenz-zweifel-respektvoll** — Zweifel an Kompetenz oder Entscheidung des Gegners oder Kollegen respektvoll und sachlich aeussern. § 26 BORA Sachlichke…
-10. **kooperativer-abschluss-mehrsprachige** — E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Prüfraster: of…
+1. **einstieg-routing** — Wenn es um Einstieg und Routing in E-Mail-Umformulierer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näc…
+2. **kaltstart-triage** — Wenn es um Kaltstart Triage in E-Mail-Umformulierer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächste…
+3. **formuliert-erstpruefung-und-mandatsziel** — Wenn es um Formuliert: Erstprüfung, Rollenklärung und Mandatsziel in E-Mail-Umformulierer geht: klärt Rolle, Ziel, Frist…
+4. **email-berufsrecht-formuliert-erstpruefung-rollenklaerung** — Wenn es um Formuliert: Erstprüfung, Rollenklärung und Mandatsziel in E-Mail-Umformulierer geht: klärt Rolle, Ziel, Frist…
+5. **email-berufsrecht-konformitaet-formular-portal-einreichungslogik** — Wenn es um Konformitaet: Formular, Portal und Einreichungslogik in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständ…
+6. **email-berufsrecht-mails-risikoampel-gegenargumente** — Wenn es um Mails: Risikoampel, Gegenargumente und Verteidigungslinien in E-Mail-Umformulierer geht: zerlegt Ergebnis, Fr…
+7. **email-berufsrecht-emotionale-fristen-form-zustaendigkeit** — Wenn es um Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg in E-Mail-Umformulierer geht: prüft Frist, Form, Zustä…
+8. **email-berufsrecht-brao-mehrparteienkonflikt-interessenmatrix** — Wenn es um Brao: Mehrparteienkonflikt und Interessenmatrix in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkei…
+9. **email-berufsrecht-hoefliche-behoerden-gerichts-registerweg** — Wenn es um Hoefliche: Behörden-, Gerichts- oder Registerweg in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigke…
+10. **email-berufsrecht-bora-internationaler-bezug-schnittstellen** — Wenn es um Bora: Internationaler Bezug und Schnittstellen in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit…
 
 ---
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für E-Mail-Umformulierung im Berufsrecht: ordnet Rolle (Anwalt, Mandant, Gegner), markiert Frist (Mandantenkommunikation unverzüglich), wählt Norm (§ 43a BRAO, § 49b BRAO, BORA) und Zuständigkeit (RAK), leitet zum passenden Spezial-Skill._
+_Wenn es um Einstieg und Routing in E-Mail-Umformulierer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Einstieg und Routing
 
@@ -65,21 +65,22 @@ Dieser Einstieg routet **Email Umformulierer Berufsrecht** vom ersten Sachverhal
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting im Email Umformulierer Berufsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill_
+_Wenn es um Kaltstart Triage in E-Mail-Umformulierer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Email Umformulierer Berufsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Schnellstart-Workflow
 
@@ -118,7 +119,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 
 ### 1. Intake in 60 Sekunden
 
-Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+Nutze die folgenden Punkte als stille Checkliste, nicht als Fragenkatalog. Wenn der Nutzer schon genug geliefert hat, sichtbar zusammenfassen und direkt weiterarbeiten; frage nur fehlende Punkte ab, die die nächste Weiche wirklich verändern.
 
 | Punkt | Frage | Warum wichtig? |
 |---|---|---|
@@ -288,23 +289,24 @@ Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren S
 
 ## Skill: `formuliert-erstpruefung-und-mandatsziel`
 
-_Formuliert: Erstprüfung, Rollenklärung und Mandatsziel._
+_Wenn es um Formuliert: Erstprüfung, Rollenklärung und Mandatsziel in E-Mail-Umformulierer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Formuliert Erstpruefung Und Mandatsziel; Arbeitsfeld: E-Mail-Umformulierer._
 
 # Formuliert: Erstprüfung, Rollenklärung und Mandatsziel
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Formuliert Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Email Umformulierer Berufsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Normenanker
 
@@ -353,471 +355,339 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `anrede-und-grussformeln`
+## Skill: `email-berufsrecht-formuliert-erstpruefung-rollenklaerung`
 
-_Anrede und Grussformeln in Anwaltskorrespondenz prufen und berufsrechtskonform optimieren. § 43a BRAO § 26 BORA Kollegialitätsgebot. Prüfraster: korrekte Anrede Titel akademischer Grad Kollegialformel Schlussformel Mandantensprache. Output: optimierte Anrede und Grussformel mit Begründung. Abgren..._
+_Wenn es um Formuliert: Erstprüfung, Rollenklärung und Mandatsziel in E-Mail-Umformulierer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Email Berufsrecht Formuliert Erstpruefung Rollenklaerung; Arbeitsfeld: E-Mail-Umformulierer._
 
-# Anrede und Grußformeln
+# Formuliert: Erstprüfung, Rollenklärung und Mandatsziel
 
-## Fachkern: Anrede und Grußformeln
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 43 BRAO` — allgemeine Berufspflicht.
+- `§ 43a Abs. 2 BRAO` — Verschwiegenheit.
+- `§ 43a Abs. 4 BRAO` — Interessenkollision.
+- `§ 49b BRAO` — Verguetungsrechtliche Grenzen.
+- `§ 50 BRAO` — Handakten.
+- `§ 2 BORA` — Verschwiegenheit.
+- `§ 3 BORA` — Interessenkollision.
+- `§ 10 BORA` — Briefbogen/Information.
+- `§ 4 RVG` — Verguetungsvereinbarung.
+- `§ 10 RVG` — Abrechnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Fachkern: Formuliert: Erstprüfung, Rollenklärung und Mandatsziel
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
 
-Dieser Skill regelt die korrekte Wahl von Anrede und Schlussformel in beruflicher Korrespondenz. Die richtige Anrede signalisiert Respekt und Professionalität — eine falsche oder zu lässige Anrede kann den gesamten Ton eines Schreibens beschädigen, noch bevor der eigentliche Inhalt gelesen wird.
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-## Triage zu Beginn
-1. Ist der Name des Empfaengers bekannt oder unbekannt?
-2. Welche Funktion hat der Empfaenger: Richter, Staatsanwalt, Kollegin, Mandant, Behörde?
-3. Traeigt der Empfaenger akademische Grade (Dr., Prof.) oder Amtsbezeichnungen?
-4. Wie eng ist die Beziehung: erstmalig, laufend, langjahrig bekannt?
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-- § 25 BORA — Kollegialitaetsgebot: korrekte Anrede als Ausdruck gegenseitigen Respekts
-- § 43a BRAO — Allgemeine Berufspflichten: Wuerde des Berufs gegenueber Adressaten
-- § 823 Abs. 1 BGB — Persoenlichkeitsrecht; fehlerhafte Titelanrede kann Verletzung sein
-- § 1 BJagdG analog — Respekt vor Amtstiteln in hoheitlichem Schriftverkehr
-
-## Output-Template: Anrede-Empfehlung
-
-**Situation:** [Beschreibung Adressat und Kontext]
-
-| Foermlichkeitsgrad | Empfohlene Anrede | Schlussformel |
-|---|---|---|
-| Sehr foermlich | Sehr geehrter Herr [AMTSTITEL] [NAME], | Mit vorzueglicher Hochachtung |
-| Foermlich | Sehr geehrte Frau/Herr [DR.] [NAME], | Mit freundlichen Gruessen |
-| Kollegial | Sehr geehrter Herr Kollege / Sehr geehrte Frau Kollegin, | Mit kollegialen Gruessen |
-| Bekannter Kollege | Lieber Herr [NAME], | Herzliche Gruesse |
-
-**Begruendung:** [Verweis auf Norm oder Konvention]
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Hierarchie der Anreden
-
-Die förmlichste Anrede "Sehr geehrte Damen und Herren" wird verwendet, wenn der Name des Empfängers nicht bekannt ist oder wenn ein offizielles Schreiben an eine Institution gerichtet wird. "Sehr geehrte Frau Dr. Muster" ist die Standardform für namentlich bekannte Einzelpersonen mit Doktortitel; akademische Grade (Dr., Prof. Dr.) werden grundsätzlich ausgeschrieben.
-
-Für Kollegen gilt: "Sehr geehrter Herr Kollege" oder "Sehr geehrte Frau Kollegin" im förmlichen kollegialen Kontext; "Werter Herr Rechtsanwalt Muster" als höflichere, etwas altmodischere Variante. "Lieber Herr Muster" oder "Liebe Frau Muster" ist nur bei langjährig bekannten Kollegen mit persönlichem Kontakt angemessen und sollte in streitigen Sachverhalten vermieden werden.
-
-## Besondere Adressaten
-
-Für Richter gilt: "Sehr geehrter Herr Vorsitzender Richter am Oberlandesgericht" (volle Amtsbezeichnung im ersten Schreiben) oder vereinfacht "Sehr geehrter Herr Dr. Muster". In Schriftsätzen entfällt die persönliche Anrede; im persönlichen Begleitschreiben an Kammern ist "Sehr geehrte Damen und Herren" korrekt.
-
-Für Staatsanwälte gilt: "Sehr geehrte Frau Staatsanwältin" oder vollständig "Sehr geehrte Frau Staatsanwältin beim Landgericht München I, Frau Dr. Muster". Behörden erhalten generell "Sehr geehrte Damen und Herren" mit Angabe des Sachgebiets.
-
-## Schlussformeln
-
-Die Wahl der Schlussformel spiegelt die Intensität der Förmlichkeit wider. "Mit freundlichen Grüßen" ist die Standardformel für allgemeine Geschäftskorrespondenz. "Mit kollegialen Grüßen" signalisiert Verbundenheit unter Angehörigen desselben Berufs und eignet sich für unkomplizierte Kollegen-Schreiben. "Mit vorzüglicher Hochachtung" ist die förmlichste Variante und wird für Schreiben an übergeordnete Instanzen, Gerichte oder besonders formelle Anlässe verwendet. "Hochachtungsvoll" gilt als veraltet und sollte vermieden werden.
-
-## Berufsrechtlicher Hintergrund
-
-§ 25 BORA schreibt den respektvollen Umgang unter Rechtsanwälten vor. Eine lässige oder fehlerhafte Anrede in einem Schreiben an einen Kollegen kann als Verletzung des Kollegialitätsgebots gewertet werden. Besonders in streitigen Mandaten ist auf korrekte Anreden zu achten, da Schreiben gelegentlich als Anlage bei Gericht eingereicht werden.
-
-## Beispiele Vorher/Nachher
-
-**Vorher:** "Hallo Herr Muster,"
-**Nachher:** "Sehr geehrter Herr Rechtsanwalt Muster,"
-
-**Vorher:** "Sehr geehrter Herr Dr. Dr. Müller Maier," (falsche Titelkombination)
-**Nachher:** "Sehr geehrter Herr Prof. Dr. Müller-Maier," (korrekte Titelhäufung nach akademischem Rang)
-
-**Vorher:** (kein Abschlusssatz, nur Unterschrift)
-**Nachher:** "Mit freundlichen Grüßen" / "Mit kollegialen Grüßen"
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 4 RVG
-- § 10 RVG
-- § 57 StBerG
-- § 185 StGB
-- § 57a StBerG
-- Art. 5 GG
-- § 240 StGB
-- § 186 StGB
-- § 203 StGB
-- § 4a RVG
-- § 261 StGB
-- Art. 32 DSGVO
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Formuliert** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `brao-konformitaetspruefung`
+## Skill: `email-berufsrecht-konformitaet-formular-portal-einreichungslogik`
 
-_E-Mail auf BRAO-Konformität prüfen bevor sie versandt wird. §§ 43 43a 43b BRAO Grundpflichten Sachlichkeitsgebot Werbung. Prüfraster: Verschwiegenheitspflicht Interessenkonflikt unabhängige Berufsausübung Werbegrenzen Mandatsbeziehung. Output: BRAO-Prüfprotokoll Beanstandungen Korrekturvorschlaeg..._
+_Wenn es um Konformitaet: Formular, Portal und Einreichungslogik in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Email Berufsrecht Konformitaet Formular Portal Einreichungslogik; Arbeitsfeld: E-Mail-Umformulierer._
 
-# BRAO-Konformitätsprüfung
+# Konformitaet: Formular, Portal und Einreichungslogik
 
-## Fachkern: BRAO-Konformitätsprüfung
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 43 BRAO` — allgemeine Berufspflicht.
+- `§ 43a Abs. 2 BRAO` — Verschwiegenheit.
+- `§ 43a Abs. 4 BRAO` — Interessenkollision.
+- `§ 49b BRAO` — Verguetungsrechtliche Grenzen.
+- `§ 50 BRAO` — Handakten.
+- `§ 2 BORA` — Verschwiegenheit.
+- `§ 3 BORA` — Interessenkollision.
+- `§ 10 BORA` — Briefbogen/Information.
+- `§ 4 RVG` — Verguetungsvereinbarung.
+- `§ 10 RVG` — Abrechnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Fachkern: Konformitaet: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
 
-Prüft Ausgangsschreiben von Rechtsanwälten auf Einklang mit den Berufspflichten der Bundesrechtsanwaltsordnung. Der Fokus liegt auf § 43a BRAO (allgemeine Berufspflichten) mit dem darin enthaltenen Sachlichkeitsgebot sowie auf den Werbevorschriften des § 43b BRAO.
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-## § 43a BRAO — Allgemeine Berufspflichten
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-§ 43a Abs. 3 BRAO enthält das Sachlichkeitsgebot in seiner zentralen Form: Der Rechtsanwalt darf in Ausübung seines Berufs keine Äußerungen machen, die bewusst unwahr oder in sonstiger Weise unzulässig sind. Darunter fallen insbesondere herabsetzende Äußerungen über Personen ohne sachliche Grundlage, reine Schmähkritik und Behauptungen "ins Blaue hinein" — also ohne tatsächliche Grundlage. § 43a Abs. 1 BRAO verpflichtet zur Unabhängigkeit, § 43a Abs. 2 BRAO zur Verschwiegenheit über mandatsbezogene Tatsachen.
-
-## § 43b BRAO — Werbung
-
-§ 43b BRAO erlaubt sachliche, berufsbezogene Werbung, verbietet jedoch anpreisende, irreführende oder vergleichende Werbung, die das Ansehen der Rechtspflege beeinträchtigen könnte. In E-Mails relevant: Selbstdarstellungen im Briefkopf, Signaturen mit Kompetenzhinweisen sowie Mandantenschreiben, die werbliche Elemente enthalten.
-
-## Prüfschritte
-
-Schritt 1: Enthält das Schreiben Tatsachenbehauptungen über den Adressaten oder Dritte? Falls ja: Sind diese belegt oder belegbar? Schritt 2: Enthält das Schreiben Werturteile? Falls ja: Stützen sie sich auf einen nachvollziehbaren Sachverhalt oder sind sie reine Schmähung? Schritt 3: Wird der Adressat oder eine dritte Person in einer Weise bezeichnet, die über sachliche Kritik hinausgeht (Herabsetzung)? Schritt 4: Gibt es werbliche Aussagen im Schreiben, die sachlich nicht gedeckt sind?
-
-## Berufsrechtlicher Hintergrund
-
-Die relevanten Normen sind: § 43a Abs. 3 BRAO (Sachlichkeitsgebot), § 43b BRAO (Werbung), § 59b Abs. 2 Nr. 1 Buchst. d BRAO (Satzungsermächtigung für BORA-Sachlichkeitsregeln). Ergänzend: BGH-Beschluss vom 25. November 2013 (AnwZ (Brfg) 2/12) zur Abgrenzung von zulässiger Kritik und unzulässiger Herabsetzung.
-
-## Beispiele Vorher/Nachher
-
-**Vorher:** "Ihre Argumentation ist an Unkenntnis des geltenden Rechts kaum zu überbieten."
-**Nachher (Prüfergebnis):** Unzulässig — Schmähkritik ohne sachliche Grundlage. Risiko: Berufsrechtliche Rüge, Beleidigungsklage. Empfehlung: "Die rechtliche Einordnung in Ihrem Schreiben weicht von der geltenden BGH-Rechtsprechung ab."
-
-**Vorher:** "Wir sind die führende Kanzlei für Wirtschaftsrecht in Bayern."
-**Nachher (Prüfergebnis):** Werberechtlich bedenklich nach § 43b BRAO, sofern keine objektive Grundlage (Rankings, Zertifizierungen) vorhanden. Empfehlung: Sachliche Beschreibung des Tätigkeitsschwerpunkts.
-
-**Vorher:** "Der Gegner handelt bösgläubig und versucht, uns zu täuschen."
-**Nachher (Prüfergebnis):** Tatsachenbehauptung ohne Belegbasis — Risiko gemäß § 43a Abs. 3 Satz 2 BRAO. Empfehlung: "Die Darstellung der Gegenseite weicht von den uns vorliegenden Unterlagen erheblich ab."
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Konformitaet** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `email-eingangsanalyse`
+## Skill: `email-berufsrecht-mails-risikoampel-gegenargumente`
 
-_Eingehende E-Mail analysieren und Tonalitaet Konfliktpotenzial und Handlungsbedarf bestimmen. § 43a BRAO Berufsrecht. Prüfraster: Tonalitaet emotionale Trigger versteckte Forderungen Fristen Eskalationspotenzial. Output: Analyse-Memo Handlungsempfehlung Antwort-Strategie. Abgrenzung: nicht für di..._
+_Wenn es um Mails: Risikoampel, Gegenargumente und Verteidigungslinien in E-Mail-Umformulierer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Email Berufsrecht Mails Risikoampel Gegenargumente; Arbeitsfeld: E-Mail-Umformulierer._
 
-# E-Mail-Eingangsanalyse
+# Mails: Risikoampel, Gegenargumente und Verteidigungslinien
 
-## Fachkern: E-Mail-Eingangsanalyse
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 43 BRAO` — allgemeine Berufspflicht.
+- `§ 43a Abs. 2 BRAO` — Verschwiegenheit.
+- `§ 43a Abs. 4 BRAO` — Interessenkollision.
+- `§ 49b BRAO` — Verguetungsrechtliche Grenzen.
+- `§ 50 BRAO` — Handakten.
+- `§ 2 BORA` — Verschwiegenheit.
+- `§ 3 BORA` — Interessenkollision.
+- `§ 10 BORA` — Briefbogen/Information.
+- `§ 4 RVG` — Verguetungsvereinbarung.
+- `§ 10 RVG` — Abrechnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Fachkern: Mails: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
 
-Analysiert einen eingegangenen E-Mail-Text systematisch auf emotionale Belastung, unsachliche Formulierungen und potenzielle berufsrechtliche Risiken. Er bildet die Grundlage für alle nachfolgenden Umformulierungsschritte.
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-## Triage zu Beginn
-1. Von wem stammt die E-Mail: Mandant, Gegner, gegnerischer Anwalt, Gericht, Behörde oder Unbekannter?
-2. Was ist der sachliche Kern der E-Mail — unabhaengig vom Tonfall?
-3. Enthalt die E-Mail strafrechtlich relevante Aeusserungen (Beleidigung § 185 StGB, Bedrohung § 241 StGB)?
-4. Soll die E-Mail beantwortet, weitergeleitet oder dokumentiert werden?
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-- § 43a Abs. 3 BRAO — Sachlichkeitsgebot: verhindert Uebernahme aggressiven Tons aus Eingangskorrespondenz
-- § 185 StGB — Beleidigung: ggf. bei strafrechtlich relevantem Inhalt Eingangs-E-Mail dokumentieren
-- § 241 StGB — Bedrohung: bei Drohungen Dokumentationspflicht und ggf. Strafanzeige erwaegen
-- § 823 Abs. 1 BGB — Persoenlichkeitsrecht: Gegenschreiben darf keine neuen Verletzungen setzen
-
-## Analyseebenen
-
-Die Eingangsanalyse untersucht den Text auf vier Ebenen: sprachliche Auffälligkeiten (Schimpfwörter, Großbuchstaben, übermäßige Satzzeichen), rhetorische Stilmittel (Sarkasmus, Ironie, Übertreibung), inhaltliche Vorwürfe (Kompetenzabsprache, Unterstellungen, Drohungen) sowie strukturelle Mängel (fehlende sachliche Begründung, reine Emotionsäußerung ohne Kernbotschaft).
-
-## Konfliktgrad-Klassifikation
-
-Der Skill kategorisiert den Konfliktgrad in drei Stufen. Gering bedeutet: einzelne unhöfliche Formulierungen, sachlicher Kern erkennbar, kein persönlicher Angriff. Mittel bedeutet: mehrere emotionale Trigger, Vorwürfe an die Person, Drohgebärde oder Ultimatum. Hoch bedeutet: überwiegend unsachlich, persönliche Herabsetzung, Schimpfwörter oder strafrechtlich relevante Äußerungen.
-
-## Trigger-Kategorien
-
-Die wichtigsten emotionalen Trigger sind: Großschreibung ganzer Wörter oder Sätze (impliziert Schreien), Ausrufezeichen-Ketten (erzeugen aggressiven Ton), direkte persönliche Anreden mit Vorwurf-Charakter ("Sie haben...", "Sie sind..."), implizite oder explizite Drohungen ("Ich werde...", "Das hat Konsequenzen"), Sarkasmus und Ironie (untergraben sachliche Auseinandersetzung) sowie Pauschalurteile ohne Sachverhaltsbezug.
-
-## Berufsrechtlicher Hintergrund
-
-§ 43a Abs. 3 BRAO verpflichtet Rechtsanwälte zur Sachlichkeit in der beruflichen Kommunikation. Die Weiterleitung oder das Zitieren eines unsachlichen Eingangsschreibens ohne Analyse kann dazu verleiten, im eigenen Schreiben denselben Ton zu übernehmen — was berufsrechtlich problematisch ist. Die Eingangsanalyse hilft, eine bewusste Distanz zum emotionalen Gehalt herzustellen.
-
-## Beispiele Vorher/Nachher
-
-**Vorher:** "SIE HABEN MIR NICHT GEANTWORTET!!! Das ist eine Frechheit!!!"
-**Nachher (Analyse):** Konfliktgrad hoch. Trigger: Großbuchstaben, Mehrfach-Ausrufezeichen, Vorwurf fehlender Reaktion. Kern: Bitte um Rückmeldung auf ein früheres Schreiben.
-
-**Vorher:** "Ich erwarte sofort eine Erklärung, sonst schalte ich meinen Anwalt ein."
-**Nachher (Analyse):** Konfliktgrad mittel. Trigger: Drohgebärde, Ultimatum. Kern: Bitte um Stellungnahme zu einem bestimmten Sachverhalt.
-
-**Vorher:** "Ihre Kollegin hat mir versprochen, dass das erledigt wird. Offenbar sind dort alle unfähig."
-**Nachher (Analyse):** Konfliktgrad mittel-hoch. Trigger: Pauschalurteil, Kompetenzabsprache. Kern: Unerfüllte Zusage eines Mitarbeiters; Klärungsbedarf.
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Mails** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `ironie-und-sarkasmus-eliminieren`
+## Skill: `email-berufsrecht-emotionale-fristen-form-zustaendigkeit`
 
-_Ironische oder sarkastische Formulierungen in Anwaltskorrespondenz erkennen und berufsrechtlich einwandfrei neutralisieren. § 26 BORA Sachlichkeitsgebot § 43a BRAO. Prüfraster: Ironie-Erkennung Sarkasmus versteckte Abwertungen implizite Angriffe. Output: bereinigte Version mit Erklärung der Aende..._
+_Wenn es um Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Email Berufsrecht Emotionale Fristen Form Zuständigkeit; Arbeitsfeld: E-Mail-Umformulierer._
 
-# Ironie und Sarkasmus eliminieren
+# Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg
 
-## Fachkern: Ironie und Sarkasmus eliminieren
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 43 BRAO` — allgemeine Berufspflicht.
+- `§ 43a Abs. 2 BRAO` — Verschwiegenheit.
+- `§ 43a Abs. 4 BRAO` — Interessenkollision.
+- `§ 49b BRAO` — Verguetungsrechtliche Grenzen.
+- `§ 50 BRAO` — Handakten.
+- `§ 2 BORA` — Verschwiegenheit.
+- `§ 3 BORA` — Interessenkollision.
+- `§ 10 BORA` — Briefbogen/Information.
+- `§ 4 RVG` — Verguetungsvereinbarung.
+- `§ 10 RVG` — Abrechnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Fachkern: Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
 
-Identifiziere ironische und sarkastische Formulierungen in beruflichen Texten und ersetzt sie durch sachliche Aussagen. Ironie und Sarkasmus sind in schriftlicher Kommunikation besonders problematisch, weil der para-linguistische Kontext (Tonfall, Mimik) fehlt — und sie daher leicht missverstanden werden oder als Angriff wirken.
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-## Triage zu Beginn
-1. Ist die ironische/sarkastische Stelle aus eigenem Text oder einem eingehenden Schreiben?
-2. Was ist der tatsaechliche sachliche Kern der Aussage (was wollte der Autor wirklich sagen)?
-3. Koennte die Stelle in einem Verfahren als beweisrechtlich relevantes Dokument verwendet werden?
-4. Gibt es Hinweise auf strafrechtlich relevante Herabsetzung (§ 185 StGB)?
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- AGH Muenchen, Beschl. v. 25.03.2015 - BayAGH III-4-14, AnwBl 2015, 560 — Sarkastische Formulierungen in Schriftsaetzen verletzen berufsrechtliches Sachlichkeitsgebot nach § 43a Abs. 3 BRAO.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-- § 43a Abs. 3 BRAO — Sachlichkeitsgebot: Verbot herabsetzender Aeusserungen (auch durch Ironie)
-- § 25 BORA — Kollegialitaet: keine Herabsetzung von Kollegen durch sarkastische Formulierungen
-- Art. 5 GG — Meinungsfreiheit: Schutz scharfer Kritik, nicht von Schmahkritik
-- § 185 StGB — Beleidigung: sarkastische Aussagen können Beleidigungscharakter haben
-
-## Warum Ironie und Sarkasmus problematisch sind
-
-In mündlicher Kommunikation kann Ironie durch Tonfall und Körpersprache erkannt werden. Im Schreiben fehlen diese Signale. Selbst wenn die Ironie erkannt wird, verletzt sie: Sie signalisiert Überlegenheit, wertet den Adressaten ab und vergiftet das Kommunikationsklima. Zudem kann Ironie beweisrechtliche Probleme schaffen, wenn das Schreiben in einem Verfahren als Beleg verwendet wird.
-
-## Erkennungsmerkmale von Ironie in Texten
-
-Typische Erkennungszeichen: übertriebenes Lob für offensichtlich negatives Verhalten, Anführungszeichen um Wörter, die in Wirklichkeit das Gegenteil meinen, Formulierungen wie "natürlich", "selbstverständlich", "wie erwartet" in negativem Kontext, betonte Höflichkeit als Kontrapunkt zu einem offensichtlichen Misstand.
-
-## Erkennungsmerkmale von Sarkasmus
-
-Sarkasmus ist aggressiver als Ironie und klar darauf ausgerichtet, den Adressaten zu verletzen: direkte negative Bewertung mit spottender Übertreibung, Formulierungen, die bei wörtlicher Lektüre sinnlos wären, Kombination von Schein-Kompliment und verstecktem Angriff.
-
-## Eliminierungsverfahren
-
-Schritt 1: Ironische/sarkastische Formulierung identifizieren. Schritt 2: Den tatsächlichen (wörtlichen) Inhalt der Aussage bestimmen — was will der Autor wirklich sagen? Schritt 3: Diese sachliche Aussage direkt und ohne ironischen Überzug formulieren.
-
-## Berufsrechtlicher Hintergrund
-
-§ 43a Abs. 3 BRAO (Sachlichkeitsgebot) untersagt herabsetzende Äußerungen. Sarkastische Formulierungen können als Herabsetzung im berufsrechtlichen Sinne qualifiziert werden, selbst wenn ihr Urheber sie als "nur ironisch" einschätzt. Bei Schriftsätzen hat der BGH klargestellt, dass auch als Ironie gedachte Formulierungen berufsrechtlich angemessen und der Würde des Verfahrens entsprechend sein müssen.
-
-## Beispiele Vorher/Nachher
-
-**Vorher:** "Das haben Sie ja wirklich großartig hingekriegt."
-**Nachher:** "Das Ergebnis entspricht nicht den vereinbarten Anforderungen."
-
-**Vorher:** "Ich bin sicher, dass Sie sich dabei sehr viel gedacht haben."
-**Nachher:** "Die Entscheidungsgrundlage dieser Vorgehensweise erschließt sich mir nicht; ich bitte um Erläuterung."
-
-**Vorher:** "Natürlich hat das Finanzamt wieder einmal alles richtig gemacht."
-**Nachher:** "Der Bescheid erscheint mir rechtlich angreifbar."
-
-**Vorher:** "Vielen Dank für Ihre wie immer so hilfreiche Rückmeldung." (bei ausbleibender Antwort)
-**Nachher:** "Ich habe bislang keine Rückmeldung erhalten."
-
-**Vorher:** "Ihr,Experte' hat offenbar eine eigene Meinung zum Gesetz."
-**Nachher:** "Die fachliche Einschätzung Ihres Beraters weicht von der geltenden Rechtsprechung ab."
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Emotionale** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `klare-bitte-formulieren`
+## Skill: `email-berufsrecht-brao-mehrparteienkonflikt-interessenmatrix`
 
-_Unklare oder versteckte Bitten und Forderungen in Anwaltskorrespondenz klar und direkt formulieren. § 43a BRAO § 26 BORA Sachlichkeit. Prüfraster: Klarheit der Bitte Unmissverstaendlichkeit Handlungsaufforderung Reaktionsfrist. Output: klar formulierte Version mit Erklärung. Abgrenzung: nicht für..._
+_Wenn es um Brao: Mehrparteienkonflikt und Interessenmatrix in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Email Berufsrecht Brao Mehrparteienkonflikt Interessenmatrix; Arbeitsfeld: E-Mail-Umformulierer._
 
-# Klare Bitten formulieren
+# Brao: Mehrparteienkonflikt und Interessenmatrix
 
-## Fachkern: Klare Bitten formulieren
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 43 BRAO` — allgemeine Berufspflicht.
+- `§ 43a Abs. 2 BRAO` — Verschwiegenheit.
+- `§ 43a Abs. 4 BRAO` — Interessenkollision.
+- `§ 49b BRAO` — Verguetungsrechtliche Grenzen.
+- `§ 50 BRAO` — Handakten.
+- `§ 2 BORA` — Verschwiegenheit.
+- `§ 3 BORA` — Interessenkollision.
+- `§ 10 BORA` — Briefbogen/Information.
+- `§ 4 RVG` — Verguetungsvereinbarung.
+- `§ 10 RVG` — Abrechnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Fachkern: Brao: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
 
-Dieser Skill wandelt fordernde, vorwurfsvolle oder unklare Handlungsaufforderungen in präzise, höfliche und wirksame Bitten um. Eine gute Bitte enthält: das Gewünschte, den Zeitrahmen, die Zuständigkeit und ggf. die Folge bei Nichterfüllung — ohne Drohton.
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-## Triage zu Beginn
-1. Was ist der gewuenschte Adressat der Bitte: Mandant, Kollege, Gericht, Behorde oder Gegner?
-2. Welche Hoeflichkeitsstufe ist angemessen (sehr hoeflich, foermlich, distanziert-foermlich)?
-3. Gibt es bereits eine Frist oder muss sie neu gesetzt werden?
-4. Ist die Bitte Teil einer Mahnung (beachte § 286 BGB Mahnungswirkung) oder reine organisatorische Anforderung?
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-- § 286 BGB — Verzug: Mahnungserfordernis; klare Bitte mit Frist loest Verzug aus
-- § 130 BGB — Zugang der Erklaerung als Fristbeginn
-- § 43a Abs. 3 BRAO — Sachlichkeitsgebot bei anwaltlichen Aufforderungsschreiben
-- § 315 BGB — Bestimmungsrecht bei Fristsetzung: Frist muss billigem Ermessen entsprechen
-
-## Anatomie einer guten Bitte
-
-Eine wirksame Bitte enthält folgende Elemente: (1) klare Beschreibung des Gewünschten (Was soll getan werden?), (2) Frist oder Zeitrahmen (Bis wann?), (3) Adressat oder Zuständigkeit (Von wem?), (4) ggf. Begründung (Warum?), (5) optionaler Ausblick auf Folgeschritte. Beispiel: "Ich darf Sie bitten, mir die Originalrechnung vom TT.MM.JJJJ bis TT.MM.JJJJ zu übersenden, da ich diese für die Einreichung bei Gericht benötige."
-
-## Höflichkeitshierarchie
-
-Höflich: "Ich bitte Sie, X bis TT.MM.JJJJ zu übermitteln." Sehr höflich: "Ich darf Sie höflich bitten, mir X bis TT.MM.JJJJ zu übersenden." Förmlich: "Ich erlaube mir, Sie aufzufordern, X bis TT.MM.JJJJ vorzulegen." Distanziert-förmlich: "Ich fordere Sie hiermit auf, X bis TT.MM.JJJJ zu übermitteln." Die Wahl der Stufe hängt vom Kontext, der Dringlichkeit und der Vorgeschichte ab.
-
-## Typische Umformulierungen
-
-Statt "Schicken Sie das endlich!" → "Ich bitte um Übersendung bis TT.MM.JJJJ." Statt "Warum machen Sie das nicht?" → "Ich bitte um eine Rückmeldung, ob und bis wann X erledigt werden kann." Statt "Das muss sofort passieren!" → "Ich bitte um vorrangige Bearbeitung bis TT.MM.JJJJ." Statt "Wo bleibt meine Antwort?" → "Auf meine Anfrage vom TT.MM.JJJJ habe ich noch keine Rückmeldung erhalten; ich bitte um Nachricht." Statt "Sie MÜSSEN mir das erklären." → "Ich bitte um Erläuterung des Sachverhalts."
-
-## Fristen wirksam setzen
-
-Eine Frist ist nur wirksam, wenn sie eindeutig (TT.MM.JJJJ, nicht "bald"), realistisch und nachvollziehbar begründet ist. Fristen, die zu knapp bemessen sind, riskieren, als schikanös wahrgenommen zu werden und die Kooperationsbereitschaft zu untergraben.
-
-## Berufsrechtlicher Hintergrund
-
-§ 43a Abs. 3 BRAO (Sachlichkeitsgebot) und die allgemeinen Grundsätze beruflicher Kommunikation verlangen, dass Aufforderungen in einem Ton gehalten sind, der die Würde des Adressaten respektiert. In Mahnungen und Aufforderungen, die an Verbraucher gerichtet sind, gelten zusätzlich die Anforderungen des UWG an lauteren Geschäftsverkehr.
-
-## Beispiele Vorher/Nachher
-
-**Vorher:** "Schicken Sie mir SOFORT die Unterlagen!!!"
-**Nachher:** "Ich bitte Sie, mir die Unterlagen bis TT.MM.JJJJ zu übersenden."
-
-**Vorher:** "Ich verlange eine Antwort noch heute."
-**Nachher:** "Ich bitte um Ihre Rückmeldung bis zum heutigen Tag, spätestens jedoch bis TT.MM.JJJJ."
-
-**Vorher:** "Das ist Ihre Pflicht, das zu tun!"
-**Nachher:** "Nach meiner Auffassung obliegt Ihnen die Erfüllung der vereinbarten Pflicht X; ich darf Sie um entsprechende Ausführung bis TT.MM.JJJJ bitten."
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Brao** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `kompetenz-zweifel-respektvoll`
+## Skill: `email-berufsrecht-hoefliche-behoerden-gerichts-registerweg`
 
-_Zweifel an Kompetenz oder Entscheidung des Gegners oder Kollegen respektvoll und sachlich aeussern. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: sachliche Kritik ohne Abwertung Begründung Quellenangabe professioneller Ton. Output: ueberarbeitete Formulierung mit Erklärung. Abgrenzung: nicht für..._
+_Wenn es um Hoefliche: Behörden-, Gerichts- oder Registerweg in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Email Berufsrecht Hoefliche Behoerden Gerichts Registerweg; Arbeitsfeld: E-Mail-Umformulierer._
 
-# Kompetenz-Zweifel respektvoll formulieren
+# Hoefliche: Behörden-, Gerichts- oder Registerweg
 
-## Fachkern: Kompetenz-Zweifel respektvoll formulieren
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 43 BRAO` — allgemeine Berufspflicht.
+- `§ 43a Abs. 2 BRAO` — Verschwiegenheit.
+- `§ 43a Abs. 4 BRAO` — Interessenkollision.
+- `§ 49b BRAO` — Verguetungsrechtliche Grenzen.
+- `§ 50 BRAO` — Handakten.
+- `§ 2 BORA` — Verschwiegenheit.
+- `§ 3 BORA` — Interessenkollision.
+- `§ 10 BORA` — Briefbogen/Information.
+- `§ 4 RVG` — Verguetungsvereinbarung.
+- `§ 10 RVG` — Abrechnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Fachkern: Hoefliche: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
 
-Dieser Skill hilft dabei, fachliche Kritik oder Zweifel an der Kompetenz eines Adressaten so zu formulieren, dass der sachliche Kern erhalten bleibt, die Person aber nicht angegriffen wird. Diese Unterscheidung ist im Berufsrecht zentral: Sachkritik ist erlaubt, Personenabwertung ist es nicht.
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-## Triage zu Beginn
-1. Bezieht sich die Fachkritik auf ein konkretes Dokument/Ergebnis (Sachkritik) oder auf die Person (Personenabwertung)?
-2. Wer ist der Adressat: Kollege direkt, eigener Mandant über den Kollegen oder Gericht?
-3. Gibt es einschlaeige Rechtsprechung oder Normen, auf die die Sachkritik gestuetzt werden kann?
-4. Ist die Aeusserung notwendig für den Inhalt des Schreibens oder kann sie weggelassen werden?
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-- § 43a Abs. 3 BRAO — Sachlichkeitsgebot: Sachkritik erlaubt, Personenabwertung verboten
-- § 25 BORA — Kollegialitaetsgebot: respektvoller Umgang auch bei Fachkritik
-- Art. 5 GG — Meinungsfreiheit: Schutz sachlicher Kritik
-- § 824 BGB — Kreditgefaehrdung: unwahre Kompetenzabsprachen loesen Haftung aus
-
-## Der Unterschied: Sachkritik vs. Personenabwertung
-
-Sachkritik bezieht sich auf ein konkretes Handeln, Dokument oder Ergebnis. Sie ist nachprüfbar, begründet und verhältnismäßig. Personenabwertung bezieht sich auf die Person selbst — ihre Intelligenz, Ausbildung, Persönlichkeit — und ist nicht nachprüfbar. Die Grenze: "Dieser Schriftsatz enthält keinen Verweis auf § 278 BGB" ist Sachkritik. "Sie kennen § 278 BGB offenbar nicht" ist Personenabwertung.
-
-## Technik: Vom Vorwurf zum Sachverhalt
-
-Statt die Person als inkompetent zu bezeichnen, wird das konkrete Ergebnis bewertet und auf sachliche Maßstäbe (Gesetze, Rechtsprechung, anerkannte Standards) verwiesen. Dies vermeidet den Vorwurf, schafft aber denselben sachlichen Klärungsbedarf.
-
-## Technik: Rechtsprechungsverweis statt Urteil
-
-Die wirksamste Form respektvoller Fachkritik ist der Verweis auf einschlägige Normen oder Rechtsprechung: Nicht "Sie liegen falsch", sondern "Nach dem Urteil des BGH vom TT.MM.JJJJ (Az. XY) ist davon auszugehen, dass..." — dieser Verweis zeigt die Abweichung auf, ohne die Person anzugreifen.
-
-## Berufsrechtlicher Hintergrund
-
-§ 43a Abs. 3 BRAO (Sachlichkeitsgebot), § 25 BORA (Kollegialitätsgebot). Der BGH hat in Beschlüssen zum Berufsrecht klargestellt, dass sachliche Fachkritik auch dann zulässig ist, wenn sie unangenehm für den Adressaten ist — vorausgesetzt, sie bezieht sich auf nachprüfbare Tatsachen und überschreitet nicht die Schwelle zur Schmähkritik.
-
-## Vorher-Nachher-Tabelle
-
-| Kompetenzangriff | Respektvolle Sachkritik |
-|---|---|
-| "Sie haben keine Ahnung" | "Die fachliche Einordnung erscheint mir abweichend von Rechtsprechung XY" |
-| "Das ist dilettantisch" | "Die Ausführung entspricht nicht dem üblichen Standard in dieser Frage" |
-| "Ihr Gutachten ist wertlos" | "Das Gutachten enthält keine Auseinandersetzung mit dem einschlägigen BGH-Urteil XY" |
-| "Ihr Anwalt ist überfordert" | "Die gewählte Strategie erscheint mir in Anbetracht von XY nicht optimal" |
-| "Das haben Sie falsch berechnet" | "In der Berechnung ergibt sich nach meiner Prüfung ein abweichender Wert" |
-| "Sie verstehen das Gesetz nicht" | "Die Norm des § XY wird in der Fachliteratur überwiegend anders ausgelegt" |
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Hoefliche** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `kooperativer-abschluss-mehrsprachige`
+## Skill: `email-berufsrecht-bora-internationaler-bezug-schnittstellen`
 
-_E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Prüfraster: offen für Gespraeich konstruktiver Ausblick ohne Überversprechung. Output: optimierter Abschlusssatz mit Erklärung. Abgrenzung: nicht für die Grussformel (anrede-und-grussformeln)..._
+_Wenn es um Bora: Internationaler Bezug und Schnittstellen in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Email Berufsrecht Bora Internationaler Bezug Schnittstellen; Arbeitsfeld: E-Mail-Umformulierer._
 
-# Kooperativer Abschluss
+# Bora: Internationaler Bezug und Schnittstellen
 
-## Arbeitsweg
+## Normenanker
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-## Fachkern: Kooperativer Abschluss
+- `§ 43 BRAO` — allgemeine Berufspflicht.
+- `§ 43a Abs. 2 BRAO` — Verschwiegenheit.
+- `§ 43a Abs. 4 BRAO` — Interessenkollision.
+- `§ 49b BRAO` — Verguetungsrechtliche Grenzen.
+- `§ 50 BRAO` — Handakten.
+- `§ 2 BORA` — Verschwiegenheit.
+- `§ 3 BORA` — Interessenkollision.
+- `§ 10 BORA` — Briefbogen/Information.
+- `§ 4 RVG` — Verguetungsvereinbarung.
+- `§ 10 RVG` — Abrechnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Fachkern: Bora: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
 
-Dieser Skill stellt Formulierungsbausteine für positive, kooperative Schlusspassagen bereit. Selbst in einem sachlichen oder kritischen Schreiben signalisiert ein kooperativer Abschluss, dass die Kommunikation offen bleibt und eine einvernehmliche Lösung angestrebt wird.
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-## Triage zu Beginn
-1. Welchen Ton hat das Schreiben insgesamt: sachlich-neutral, kritisch oder freundlich?
-2. Was ist der gewuenschte naechste Schritt: Rueckmeldung, Gespraech, Zahlung, Zusendung von Unterlagen?
-3. Gibt es eine Frist, die im Abschluss wiederholt werden sollte?
-4. Ist der Kontext streitig (eher sachlicher Ausblick) oder kooperativ (eher herzlicher Abschluss)?
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-- § 17 BORA — Aussergerichtliche Streitbeilegung: kooperativer Abschluss unterstuetzt diesen Grundsatz
-- § 242 BGB — Treu und Glauben: Kommunikation hat auch im Abschluss Kooperationscharakter
-- § 91a ZPO — Kostenentscheidung bei Erledigung: Kooperationsbereitschaft beeinflusst Abwaegung
-- § 278 ZPO — Gueteversuch: kooperativer Ton staerkt Aussichten auf guetige Einigung
-
-## Output-Template: Kooperativer Abschluss (gestuft)
-
-| Kontext | Abschlussformel |
-|---|---|
-| Streitig, sachlich | "Für Ruckfragen stehe ich zur Verfügung. Mit freundlichen Gruessen" |
-| Laufendes Mandat | "Ich freue mich auf Ihre Rueckmeldung. Mit freundlichen Gruessen" |
-| Kooperativ, einigungsorientiert | "Im Sinne einer einvernehmlichen Loesung freue ich mich auf Ihre Nachricht. Mit kollegialen Gruessen" |
-| Foermlich, Behörde | "Für Rueckfragen stehe ich jederzeit zur Verfuegung. Hochachtungsvoll" |
-
-## Funktion des Abschlusses
-
-Der Schluss einer E-Mail bleibt im Gedächtnis. Ein aggressiver Abschluss hinterlässt einen negativen Eindruck, auch wenn das Schreiben sachlich war. Ein kooperativer Abschluss schafft die Grundlage für eine konstruktive Antwort. Der Abschluss enthält idealerweise: einen Ausblick auf den nächsten Schritt, eine Rückmeldebitte oder ein Gesprächsangebot sowie eine höfliche Schlussformel.
-
-## Kategorien kooperativer Abschlussformulierungen
-
-**Rückmeldebitte:** "Ich freue mich auf Ihre Rückmeldung." — "Ich bitte um Ihre Rückmeldung bis TT.MM.JJJJ." — "Ich stehe Ihnen für Rückfragen jederzeit zur Verfügung."
-
-**Gesprächsangebot:** "Für ein klärendes Gespräch stehe ich gerne zur Verfügung." — "Sollten Sie Fragen haben, sprechen Sie mich bitte an." — "Gerne erläutere ich meinen Standpunkt in einem persönlichen Gespräch."
-
-**Einvernehmliche Lösung:** "Im Sinne einer einvernehmlichen Regelung..." — "Ich bin zuversichtlich, dass wir gemeinsam eine Lösung finden." — "Es ist mir daran gelegen, diese Angelegenheit im gegenseitigen Einvernehmen zu klären."
-
-**Dank:** "Ich danke Ihnen im Voraus für Ihre Bemühungen." — "Ich danke Ihnen für Ihre Aufmerksamkeit." — "Herzlichen Dank für Ihre rasche Rückmeldung."
-
-**Zuversicht und Ausblick:** "Ich bin überzeugt, dass wir die offenen Fragen klären können." — "Ich sehe der weiteren Zusammenarbeit mit Interesse entgegen." — "Ich hoffe auf eine rasche und einvernehmliche Lösung."
-
-## Abstufung nach Kontext
-
-In streitigen Situationen mit hohem Konfliktpotenzial: sachlicher Ausblick ohne übertriebene Herzlichkeit. In laufenden Mandaten: freundliche, persönliche Schlussformel. In förmlichen behördlichen Schreiben: förmliche Schlussformel ohne persönlichen Bezug.
-
-## Berufsrechtlicher Hintergrund
-
-§ 17 BORA unterstreicht den Wert außergerichtlicher Streitbeilegung. Ein kooperativer Abschluss ist Ausdruck dieser Grundhaltung und signalisiert dem Adressaten, dass der Verfasser am Konflikt nicht interessiert ist. Dies ist nicht nur berufsrechtlich wertvoll, sondern auch strategisch klug: Gerichte und Behörden bewerten kooperative Grundhaltungen positiv.
-
-## Beispiele Vorher/Nachher
-
-**Vorher:** "Ich erwarte Ihre Antwort." (abrupt, fordernd)
-**Nachher:** "Ich freue mich auf Ihre Rückmeldung und stehe für Rückfragen jederzeit zur Verfügung."
-
-**Vorher:** (kein Abschluss, direkt Unterschrift)
-**Nachher:** "Im Sinne einer konstruktiven Klärung danke ich Ihnen für Ihre Aufmerksamkeit und freue mich auf Ihre Rückmeldung."
-
-**Vorher:** "Das ist mein letztes Wort in dieser Sache."
-**Nachher:** "Ich hoffe, dass die vorstehenden Ausführungen zur Klärung beitragen. Für eine Rückmeldung bin ich jederzeit offen."
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Bora** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

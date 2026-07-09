@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Art. 20 Abs. 3 GG; Art. 20 Abs. 3 GG; Art. 1 Abs. 1 GG |
-| Rechtsprechung | BVerfGE 7, 198 (1958) |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Art. 20 Abs. 3 GG — rechtsstaatlicher Gegenwartsanker. - Art. 1 Abs. 1 GG — Menschenwuerde als Zäsur |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -55,7 +55,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Art. 125 GG — Fortgeltung als Bundesrecht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 126 GG — Meinungsverschiedenheiten über Fortgeltung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGB Paragraf 133: Wille des Erklärenden / Gesetzgebers als Auslegungsziel: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfGE 7, 198 (1958): Lueths Urteil, Ausstrahlungswirkung der Grundrechte
 
 ## 7. Antwortform
 

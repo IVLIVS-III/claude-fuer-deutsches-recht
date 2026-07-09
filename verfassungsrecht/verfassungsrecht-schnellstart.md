@@ -58,8 +58,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51: Lueth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte.
 - BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56: Apothekenurteil strukturiert Eingriffe in die Berufsfreiheit.
-- BVerfG, Beschluss vom 15.01.1958, 1 BvR 400/51 (Lüth) — Wechselwirkungslehre
-- BVerfG, Urteil vom 11.06.1958, 1 BvR 596/56 (Apothekenurteil) — Drei-Stufen-Theorie der Berufsfreiheit
 - BVerfG, Beschluss vom 23.09.2025, 1 BvR 2284/23 (Triage II) — Schutzpflicht und Art. 3 Abs. 3 Satz 2 GG
 
 ## 7. Antwortform

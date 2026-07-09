@@ -1,27 +1,27 @@
-# Megaprompt: normenkontrollrat-nkr
+# Vollprüfung: normenkontrollrat-nkr
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 63 Skills des Plugins `normenkontrollrat-nkr`.
+Dieser Vollprüfung enthaelt top-10 von 63 Skills des Plugins `normenkontrollrat-nkr`.
 
 ## Inhaltsverzeichnis
 
-1. **orientierung-mandatsaufnahme-praktikabilitaet** — Einstiegs-Skill für NKR-Prüfauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentene…
-2. **orientierung-und-mandatsaufnahme** — Einstiegs-Skill für NKR-Prüfauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentene…
-3. **nkr-pruefumfang-was-prueft-der-nkr-nicht** — Negativabgrenzung des NKR-Pruefumfangs. Erklaert was der NKR ausdruecklich nicht prueft (politische Zielwahl Verfassungs…
-4. **nkr-alternativen-pruefung-keine-regelung-soft-law** — Systematische Pruefung von Alternativen zur geplanten Regelung: Verzicht Selbstregulierung Brancheninitiative Empfehlung…
-5. **nkr-verhaeltnismaessigkeit-aus-nkr-sicht** — Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefung sondern Kosten-Nutzen- und Eingriffstiefe-Pruefung.…
-6. **nkr-stellungnahme-zum-bundestag-anhoerung** — Vorbereitung einer Anhoerung im federfuehrenden Ausschuss des Bundestages. Beschreibt typische Anhoerungssituation NKR-V…
-7. **digitalcheck-und-onlinezugangsgesetz-ozg** — Fachmodul OZG und Digitalcheck. Beschreibt das Onlinezugangsgesetz die OZG-Leistungen den Portalverbund das Once-Only-Pr…
-8. **einmalig-vs-erforderlichkeitspruefung-warum** — Trennscharfe Unterscheidung zwischen einmaligem Umstellungsaufwand und jaehrlich laufendem Erfuellungsaufwand. Erklaert …
-9. **erfuellungsaufwand-buerger-grundbegriff** — Trennt den Erfuellungsaufwand methodisch nach den drei Adressatengruppen Buerger Wirtschaft Verwaltung. Erklaert Spezifi…
-10. **erfuellungsaufwand-grundbegriff** — Definiert den Grundbegriff Erfuellungsaufwand nach NKRG GGO § 44 und HdR. Trennt den Begriff von benachbarten Konzepten …
+1. **orientierung-mandatsaufnahme-praktikabilitaet** — Wenn es um NKR-Orientierung und Mandatsaufnahme in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Fr…
+2. **orientierung-und-mandatsaufnahme** — Wenn es um NKR-Orientierung und Mandatsaufnahme in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Fr…
+3. **handelsregister-und-elektronische-zustellung** — Wenn es um NKR-Handelsregister und elektronische Zustellung in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen ge…
+4. **handelsregister-elektronische-zustellung** — Wenn es um NKR-Handelsregister und elektronische Zustellung in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen ge…
+5. **erforderlichkeitspruefung-warum-ueberhaupt-regeln** — Wenn es um NKR-Erforderlichkeitspruefung — Warum ueberhaupt regeln in Normenkontrollrat (NKR) — Prüfung von Gesetzentwue…
+6. **leitfaden-ermittlung-und-darstellung** — Wenn es um NKR-Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands in Normenkontrollrat (NKR) — Prüfung von…
+7. **erfuellungsaufwand-buerger-grundbegriff** — Wenn es um NKR-Erfuellungsaufwand für Buerger, Wirtschaft und Verwaltung in Normenkontrollrat (NKR) — Prüfung von Gesetz…
+8. **erfuellungsaufwand-buerger-wirtschaft** — Wenn es um NKR-Erfuellungsaufwand für Buerger, Wirtschaft und Verwaltung in Normenkontrollrat (NKR) — Prüfung von Gesetz…
+9. **verfahrensgang-referentenentwurf-bis-bundestag** — Wenn es um NKR-Verfahrensgang Referentenentwurf bis Bundestag in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen …
+10. **stellungnahme-aufbau-und-format** — Wenn es um NKR-Stellungnahme — Aufbau und Format in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: erstell…
 
 ---
 
 ## Skill: `orientierung-mandatsaufnahme-praktikabilitaet`
 
-_Einstiegs-Skill für NKR-Prüfauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Prüfweg liegt. Liefert sofort einen Pr_
+_Wenn es um NKR-Orientierung und Mandatsaufnahme in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Orientierung Mandatsaufnahme Praktikabilitaet; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen._
 
 # NKR-Orientierung und Mandatsaufnahme
 
@@ -119,7 +119,7 @@ Erst-Antwort an Sekretariat (intern):
 
 ## Skill: `orientierung-und-mandatsaufnahme`
 
-_Einstiegs-Skill für NKR-Prüfauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Prüfweg liegt. Liefert sofort einen Pr_
+_Wenn es um NKR-Orientierung und Mandatsaufnahme in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Orientierung Und Mandatsaufnahme; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen._
 
 # NKR-Orientierung und Mandatsaufnahme
 
@@ -207,587 +207,11 @@ Erst-Antwort an Sekretariat (intern):
 
 ---
 
-## Skill: `nkr-pruefumfang-was-prueft-der-nkr-nicht`
+## Skill: `handelsregister-und-elektronische-zustellung`
 
-_Negativabgrenzung des NKR-Pruefumfangs. Erklaert was der NKR ausdruecklich nicht prueft (politische Zielwahl Verfassungsmaessigkeit Haushaltsfolgen) und was er sehr wohl prueft (Methodik Erfuellungsaufwand Praktikabilitaet Digitaltauglichkeit). Verhindert Zustaendigkeitsanmassung und liefert Standardbausteine fuer die Stellungnahme zur Kompetenzabgrenzung._
+_Wenn es um NKR-Handelsregister und elektronische Zustellung in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Auswahlstichwort: Handelsregister Und Elektronische Zustellung; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen._
 
-# NKR-Pruefumfang — was prueft der NKR nicht
-
-## Worum geht es konkret
-
-Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwechslung der Rollen Bundesrechnungshof, BVerfG, Wissenschaftlicher Dienst, BMJ-Rechtsabteilung, NKR.
-
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
-
-- Sekretariat bekommt Vorhaben, das nach NKR aussieht, aber methodisch nicht in den Pruefkern faellt
-- Ressort moechte den NKR "instrumentalisieren" fuer politische Argumente
-- Stellungnahme-Entwurf wird zu breit, droht Kompetenzgrenze zu ueberschreiten
-
-## Rechtlicher und methodischer Rahmen
-
-- **§ 1 Abs. 1 NKRG** — Pruefung "auf die Darstellung des Erfuellungsaufwands"
-- **§ 4 NKRG** — Pruefungsgegenstand: Erfuellungsaufwand und sein Methodik
-- **§ 6 NKRG** — Stellungnahme
-- **§ 44 GGO** — Gesetzesfolgenabschaetzung (umfasst mehr als nur Erfuellungsaufwand)
-- **Art. 114 GG, BHO, § 88 BHO** — Bundesrechnungshof, Wirtschaftlichkeit
-- **Art. 93 GG, BVerfGG** — Verfassungsgerichtsbarkeit
-
-## Pruefraster / Schritt fuer Schritt
-
-### Der NKR prueft
-
-1. **Erfuellungsaufwand** (Buerger, Wirtschaft, Verwaltung) — vollstaendig dargestellt?
-2. **Methodik** — Standardkostenmodell (SKM) korrekt angewandt?
-3. **Fallzahlen und Zeitwerte** — plausibel? nachvollziehbar?
-4. **Einmalig vs. laufend** — korrekt unterschieden?
-5. **Alternativen** — geprueft und dokumentiert?
-6. **One-in-one-out** — verbucht?
-7. **KMU-Test** — durchgefuehrt?
-8. **Digitaltauglichkeit** — Digitalcheck durchlaufen?
-9. **Praktikabilitaet im Vollzug** — fuer Verwaltung leistbar?
-10. **Evaluierungsklausel / Befristung** — vorgesehen?
-
-### Der NKR prueft **nicht**
-
-1. **Politische Zielwahl** ("Soll diese Branche reguliert werden?")
-2. **Verfassungsmaessigkeit** — BMJ-Rechtsabteilung, ggf. BVerfG
-3. **Europarechtskonformitaet im engeren Sinne** — EU-Rechtsabteilungen
-4. **Haushaltsmaessige Auswirkungen auf den Bundeshaushalt** — BMF, Bundesrechnungshof
-5. **Wirtschaftlichkeit im Sinne der BHO** — Bundesrechnungshof
-6. **Ordnungspolitische Sinnhaftigkeit** — politische Entscheidung
-7. **Auslegung einzelner Tatbestandsmerkmale** — Gerichte
-8. **Konkrete Vollzugsentscheidungen** — Behoerden
-9. **Wissenschaftliche Folgenforschung im engeren Sinne** — Wissenschaftlicher Dienst, Ressortforschung
-10. **Datenschutzrechtliche Detailpruefung** — BfDI
-
-## NKR-Sicht — was triggert eine kritische Stellungnahme
-
-- Ressort umgeht NKR durch Verschieben der Befassungspflicht (z.B. ueber parlamentarische Aenderung)
-- Ressort liefert "alibimaessig" Zahlen ohne Methodik
-- Ressort behauptet "kein Aufwand" ohne Plausibilisierung
-
-## Trade-off-Matrix
-
-| Anliegen | NKR | Zustaendig stattdessen |
-|---|---|---|
-| Verfassungsmaessigkeit | nein | BMJ, BVerfG |
-| Bundeshaushalt | nein | BMF, BRH |
-| EU-Konformitaet | nein (nur Hinweis) | BMJ, GS-EU |
-| Erfuellungsaufwand | ja | NKR |
-| Praktikabilitaet | ja | NKR |
-| Digitaltauglichkeit | ja | NKR (Digitalcheck) |
-| Politik | nein | Bundesregierung, Bundestag |
-
-## Mustertexte / Stellungnahme-Bausteine
-
-- "Die Pruefung des NKR ist gemaess § 4 NKRG auf die Darstellung des Erfuellungsaufwands beschraenkt. Eine Bewertung der ordnungspolitischen Zielsetzung erfolgt nicht."
-- "Hinweise zur Verfassungs- oder Europarechtskonformitaet sind nicht Gegenstand der NKR-Pruefung; insoweit verweist der NKR auf die zustaendige Ressortpruefung."
-- "Der NKR begruesst grundsaetzlich die Zielsetzung des Vorhabens, beschraenkt seine Stellungnahme aber auf die methodischen Aspekte des Erfuellungsaufwands."
-
-## Typische Fehler in Ressort-Entwuerfen
-
-- "Der NKR hat das Vorhaben verfassungsrechtlich gepruft und nicht beanstandet" — falsch, NKR prueft das nicht
-- "Der NKR hat die Wirtschaftlichkeit bestaetigt" — falsch, das ist BRH
-- "NKR-Beteiligung erfolgt nur bei wirtschaftspolitischen Vorhaben" — falsch, generelle Befassungspflicht bei Erfuellungsaufwand
-
-## Querverweise
-
-- `nkr-aufgabe-und-kompetenz-nkrg`
-- `nkr-stellungnahme-mahnender-charakter-grenzen`
-- `nkr-zusammenarbeit-mit-bundesregierung-und-ressorts`
-- `nkr-eu-ebene-und-better-regulation`
-- `legistik-werkstatt/verfassungsmaessigkeit-quercheck`
-
-## Quellen Stand 06/2026
-
-- NKRG vom 14.08.2006 (BGBl. I S. 1866) §§ 1, 4, 6
-- §§ 44, 45 GGO
-- BHO §§ 7, 88, 114
-- Art. 93, 114 GG
-- Live verifizieren ueber Bundesanzeiger und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-
----
-
-## Skill: `nkr-alternativen-pruefung-keine-regelung-soft-law`
-
-_Systematische Pruefung von Alternativen zur geplanten Regelung: Verzicht Selbstregulierung Brancheninitiative Empfehlung freiwillige Vereinbarung verbesserte Vollzugspraxis Verlaengerung bestehender Befristung. Liefert eine 5-Stufen-Hierarchie und Standardbausteine sowie Fragen die der NKR jedem Ressort stellt das eine Alternative nicht geprueft hat._
-
-# NKR-Alternativen-Pruefung — Verzicht, Soft-Law, Vollzug
-
-## Worum geht es konkret
-
-Nach der Erforderlichkeit ist die **Alternativenpruefung** der zweite Pflichtschritt. Der NKR fordert systematisch von jedem Ressort: *"Welche Alternativen wurden geprueft, und warum verworfen?"* Pflicht nach § 44 Abs. 1 Nr. 4 GGO.
-
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
-
-- Pruefung jeder Stellungnahme
-- Ressortentwurf zeigt nur "die" eine Loesung
-- Alternative "keine Regelung" wurde gar nicht erwogen
-- Spezifischer Fall: Regelung ist erforderlich, aber konkrete Ausgestaltung kritisch
-
-Rueckfrage nur wenn unklar: *"Welche Alternativen wurden erwogen — Verzicht, freiwillige Vereinbarung, Soft-Law, Vollzugsverbesserung?"*
-
-## Rechtlicher und methodischer Rahmen
-
-- **§ 44 Abs. 1 Nr. 4 GGO** — Pruefpflicht "Alternativen"
-- **NKRG** § 4
-- **Leitfaden BMI / NKR** — Alternativenpruefung als Standardelement
-- **Better Regulation Guidelines** EU — Options Analysis
-
-## Pruefraster / Schritt fuer Schritt
-
-### 5-Stufen-Hierarchie (vom mildesten zum staerksten Eingriff)
-
-1. **Verzicht** auf Regelung
-2. **Verbesserter Vollzug** bestehender Regelung
-3. **Soft-Law / Empfehlungen / Leitlinien** (z.B. Bundesleitlinie ohne Rechtspflicht)
-4. **Freiwillige Selbstverpflichtung der Branche** (z.B. Branchencodex, Verbandsregelwerk)
-5. **Gesetzliche Regelung** mit minimal noetiger Eingriffstiefe
-
-### Pro Stufe pruefen
-
-- Erwarteter Nutzen
-- Erfuellungsaufwand (geschaetzt)
-- Wirksamkeitsannahme
-- Kontrollierbarkeit
-- Pluspunkte / Minuspunkte
-
-## NKR-Sicht — was triggert eine kritische Stellungnahme
-
-- Alternative "Verzicht" wurde gar nicht erwogen
-- Soft-Law-Alternative nicht erwogen, obwohl moeglich
-- Begruendung der Verwerfung pauschal ("Selbstregulierung hat nicht funktioniert")
-- Keine Aufwand-Schaetzung fuer Alternativen
-- Nur eine Variante des Eingriffs untersucht (kein Vergleich milderer Eingriffstiefen)
-
-## Trade-off-Matrix
-
-| Alternative | typische Vorteile | typische Nachteile |
-|---|---|---|
-| Verzicht | keine Belastung | Problem bleibt |
-| Vollzugsverbesserung | nutzt bestehende Strukturen | benoetigt Ressourcen, Vollzugsfaehigkeit |
-| Soft-Law | Flexibilitaet, lernend | unsichere Wirksamkeit |
-| Branchen-Selbstregulierung | Nahe an der Praxis | begrenzte Sanktionsmacht |
-| Gesetzliche Regelung | rechtliche Verbindlichkeit | hoher Aufwand, Eingriffstiefe |
-
-## Mustertexte / Stellungnahme-Bausteine
-
-- "Der NKR weist darauf hin, dass eine Alternativenpruefung gemaess § 44 Abs. 1 Nr. 4 GGO unvollstaendig ist. Insbesondere ist nicht erkennbar, ob eine [Alternative: Branchenvereinbarung / Soft-Law / Vollzugsverbesserung] geprueft wurde."
-- "Der NKR begruesst die ressortseitige Pruefung der Alternativen und die transparente Darstellung der Gruende fuer die Wahl der gesetzlichen Regelung."
-- "Aus Sicht des NKR ist die Wahl der Eingriffstiefe (gesetzliche Pflicht statt Empfehlung) verhaeltnismaessig, weil [Gruende]."
-- "Eine mildere Alternative waere [Konkretisierung]. Der NKR empfiehlt, diese Alternative im weiteren Verfahren zu pruefen."
-
-### Tabelle zur Alternativenuebersicht (Standard)
-
-| Variante | Eingriffstiefe | Geschaetzter Aufwand | Wirksamkeitsannahme | Pluspunkte | Minuspunkte |
-|---|---|---|---|---|---|
-| Verzicht | keine | 0 | 0 | keine Belastung | Problem bleibt |
-| Soft-Law | gering | gering | mittel | flexibel | unsicher |
-| Branchenselbstregulierung | gering-mittel | mittel | mittel | nahe Praxis | Sanktion fehlt |
-| Gesetz Variante A | mittel | hoch | hoch | rechtssicher | Eingriff |
-| Gesetz Variante B | mittel-stark | sehr hoch | sehr hoch | umfassend | hoher Aufwand |
-
-## Typische Fehler in Ressort-Entwuerfen
-
-- "Andere Alternativen wurden nicht in Betracht gezogen, da das Vorhaben politisch beschlossen ist"
-- "Eine freiwillige Selbstverpflichtung waere unzureichend" ohne Beleg
-- Verzicht nicht als Alternative angefuehrt
-- Mehrere Varianten der Eingriffstiefe nicht verglichen
-- Keine Aufwandschaetzung pro Alternative
-
-## Querverweise
-
-- `nkr-erforderlichkeitspruefung-warum-ueberhaupt-regeln`
-- `nkr-verhaeltnismaessigkeit-aus-nkr-sicht`
-- `nkr-praktikabilitaet-vollzug-test`
-- `nkr-stellungnahme-formulierungshilfe-vs-referentenentwurf`
-- `legistik-werkstatt/legistik-auftragsaufnahme`
-
-## Quellen Stand 06/2026
-
-- § 44 Abs. 1 Nr. 4 GGO
-- NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
-- Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
-- Better Regulation Guidelines der EU-Kommission (jeweils aktuelle Ausgabe)
-- NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-
----
-
-## Skill: `nkr-verhaeltnismaessigkeit-aus-nkr-sicht`
-
-_Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefung sondern Kosten-Nutzen- und Eingriffstiefe-Pruefung. Erklaert wie der NKR die drei klassischen Stufen Geeignetheit Erforderlichkeit Angemessenheit auf Erfuellungsaufwand uebertraegt und wo die Abgrenzung zur BMJ-Pruefung liegt. Mit Mustertexten und Standardargumenten._
-
-# NKR-Verhaeltnismaessigkeit aus NKR-Sicht
-
-## Worum geht es konkret
-
-Verhaeltnismaessigkeit im verfassungsrechtlichen Sinne prueft das BMJ und ggf. das BVerfG. Der NKR prueft Verhaeltnismaessigkeit nur in der **methodischen Variante** des Standardkostenmodells: ist der Erfuellungsaufwand fuer das adressierte Problem **angemessen**?
-
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
-
-- Vorhaben ist erforderlich, Ausgestaltung wirkt jedoch ueberzogen
-- Eingriffstiefe wirkt unverhaeltnismaessig
-- KMU besonders belastet
-- Vollzugsaufwand sehr hoch im Verhaeltnis zum erwarteten Nutzen
-
-Rueckfrage nur wenn unklar: *"Welche Komponente erscheint Ihnen ueberzogen — Eingriffstiefe, Frequenz, Sanktionshoehe oder Adressatenkreis?"*
-
-## Rechtlicher und methodischer Rahmen
-
-- **Art. 20 Abs. 3 GG, Rechtsstaatsprinzip** — verfassungsrechtliche Verhaeltnismaessigkeit (BMJ / BVerfG)
-- **§ 44 GGO** — Gesetzesfolgenabschaetzung (auch Verhaeltnismaessigkeitsdimension)
-- **NKRG** § 4 — methodische Pruefung
-- **Leitfaden BMI / NKR** — Verhaeltnismaessigkeitsmodul (Eingriffstiefe vs. Aufwand)
-
-## Pruefraster / Schritt fuer Schritt
-
-### Drei klassische Stufen, NKR-Variante
-
-1. **Geeignetheit**: Erreicht die Regelung das Ziel ueberhaupt? (Wirksamkeitsannahme)
-2. **Erforderlichkeit**: Gibt es ein milderes Mittel mit gleicher Wirksamkeit? (Alternativen)
-3. **Angemessenheit**: Steht der Erfuellungsaufwand in einem angemessenen Verhaeltnis zum Nutzen?
-
-### NKR-spezifische Konkretisierungen
-
-- **Adressatenkreis**: zu weit oder zu eng?
-- **Schwellenwerte**: vorhanden? plausibel?
-- **Sanktionshoehe**: angemessen?
-- **Frequenz**: monatlich / quartalsweise / jaehrlich gerechtfertigt?
-- **Tiefe der Informationspflicht**: notwendig oder uebertrieben?
-- **Differenzierung KMU**: vorhanden?
-
-## NKR-Sicht — was triggert eine kritische Stellungnahme
-
-- Pflicht trifft alle Adressaten gleich, obwohl KMU nicht relevant
-- Frequenz hoch ohne sachlichen Grund
-- Sanktion hoch ohne Verhaeltnismaessigkeitspruefung
-- Schwellenwerte fehlen
-- Keine Differenzierung nach Risiko / Groesse / Branche
-- Aufwand uebersteigt Nutzen (illustrativ)
-
-## Trade-off-Matrix
-
-| Aspekt | Verhaeltnismaessigkeit-Plus | Verhaeltnismaessigkeit-Minus |
-|---|---|---|
-| Adressatenkreis | risikobasiert | pauschal alle |
-| Schwellenwerte | nach Groesse / Risiko | keine |
-| Frequenz | jaehrlich / triggerbasiert | monatlich pauschal |
-| Sanktionen | abgestuft | maximal pauschal |
-| Sektorale Differenzierung | ja | nein |
-| KMU-Ausnahme | vorgesehen | nicht erwogen |
-
-## Mustertexte / Stellungnahme-Bausteine
-
-- "Der NKR haelt das Vorhaben dem Grunde nach fuer geeignet, das adressierte Problem zu loesen."
-- "Der NKR weist darauf hin, dass die vorgesehene Frequenz von [monatlich / quartalsweise] in einem unverhaeltnismaessigen Verhaeltnis zum erwarteten Nutzen steht. Eine jaehrliche [Verpflichtung] erscheint angemessen."
-- "Der NKR empfiehlt, einen Schwellenwert zur Entlastung von Kleinstunternehmen einzufuehren."
-- "Aus Sicht des NKR ist die Eingriffstiefe der Regelung angemessen; die methodische Bewertung der Verhaeltnismaessigkeit im verfassungsrechtlichen Sinne obliegt der zustaendigen Ressortpruefung."
-- "Der NKR sieht die Sanktion in Hoehe von [X EUR] in einem Spannungsverhaeltnis zur Verhaeltnismaessigkeit der Pflicht; er empfiehlt eine abgestufte Sanktionsregelung."
-
-## Typische Fehler in Ressort-Entwuerfen
-
-- Pflichten fuer alle Adressaten, ohne Schwelle
-- Hohe Frequenz aus "Beweissicherungsgruenden" ohne Beleg
-- Maximalsanktionen pauschal
-- Keine KMU-Differenzierung
-- "Vorsorgegrundsatz" als Pauschalbegruendung
-
-## Querverweise
-
-- `nkr-erforderlichkeitspruefung-warum-ueberhaupt-regeln`
-- `nkr-alternativen-pruefung-keine-regelung-soft-law`
-- `nkr-mittelstandsfreundlichkeit-kmu-test`
-- `nkr-praktikabilitaet-vollzug-test`
-- `legistik-werkstatt/verfassungsmaessigkeit-quercheck`
-
-## Quellen Stand 06/2026
-
-- Art. 20 Abs. 3 GG (Rechtsstaatsprinzip)
-- § 44 GGO
-- NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
-- Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
-- NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-
----
-
-## Skill: `nkr-stellungnahme-zum-bundestag-anhoerung`
-
-_Vorbereitung einer Anhoerung im federfuehrenden Ausschuss des Bundestages. Beschreibt typische Anhoerungssituation NKR-Vertretung muendliche Eingangsaussage Vorbereitung Folienpaket Antworten auf Abgeordnetenfragen und Folge-Stellungnahme. Mit Mustersaetzen Frage-Antwort-Vorlagen und Dramaturgie-Hinweisen._
-
-# NKR-Stellungnahme zum Bundestag (Anhoerung)
-
-## Worum geht es konkret
-
-Bei wesentlichen Vorhaben laedt der federfuehrende Ausschuss den NKR zur Anhoerung. Diese ist neben der schriftlichen Stellungnahme eine zentrale oeffentliche Wirksamkeit des NKR. Der Skill bereitet Eingangsaussage, Folien und Antworten vor.
-
-## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
-
-- Ausschuss laedt NKR zur Anhoerung
-- Vorbereitung des Anhoerungstermins
-- Eingangsaussage muss geschrieben werden
-- Antworten auf typische Abgeordnetenfragen brauchen Schablonen
-
-Rueckfrage nur wenn unklar: *"Welcher Ausschuss, welches Vorhaben, welche Frage soll im Vordergrund stehen?"*
-
-## Rechtlicher und methodischer Rahmen
-
-- **NKRG** § 6 — Stellungnahme an Bundestag
-- **GO BT** §§ 70 ff. — Anhoerungen im Ausschuss
-- **NKR-Jahresbericht** — Praxis der Anhoerungen
-
-## Pruefraster / Schritt fuer Schritt
-
-### Vorbereitung
-
-1. Schriftliche Stellungnahme vor Anhoerung uebersandt
-2. Eingangsaussage (5-10 min) verfassen
-3. Folienpaket (maximal 6 Folien) mit Tabellen
-4. Q&A-Vorbereitung: typische Fragen, Antwort-Schablonen
-5. Abstimmung mit Vorsitz / Berichterstatter
-
-### Eingangsaussage Struktur
-
-- **Begruessung** (1 Satz)
-- **Vorhabens-Charakterisierung** (1-2 Saetze)
-- **NKR-Position Erforderlichkeit** (2-3 Saetze)
-- **NKR-Position Ausgestaltung** (3-5 Saetze)
-- **Empfehlungen** (3-5 Punkte)
-- **Schluss** (1-2 Saetze)
-- **Bereitschaft zur Frage** (1 Satz)
-
-### Folienpaket
-
-1. Vorhabens-Identifikation
-2. Erfuellungsaufwand-Tabelle
-3. Pruefraster-Ueberblick
-4. Hauptempfehlungen
-5. Alternative Ausgestaltung
-6. Schluss / Kontaktstelle
-
-### Q&A-Schablonen
-
-| Typische Frage | Antwortansatz |
-|---|---|
-| "Wie hoch ist der Erfuellungsaufwand wirklich?" | Bandbreite + Methodik |
-| "Wurde Goldplating geprueft?" | EU-Vorgabe vs. nationale Ergaenzung |
-| "Konkret: was sollte geaendert werden?" | Hauptempfehlungen, ggf. mit Alternative |
-| "Warum nicht hoehere / niedrigere Kostenschaetzung?" | Methodik und Datenstand |
-| "Wie sieht die NKR-Position zur Politik?" | Hinweis auf § 4 NKRG, keine politische Bewertung |
-| "Hat der NKR die EU-Folgenabschaetzung beruecksichtigt?" | ja / Ausschnitt nennen |
-| "Ist eine Evaluierungsklausel vorgesehen?" | Empfehlung erlaeutern |
-
-## NKR-Sicht — was triggert eine kritische Stellungnahme
-
-- (Innensicht: was vermeiden in Anhoerung)
-- Politische Bewertung (Abgrenzung beachten)
-- Personliche Meinungen statt NKR-Position
-- Ueberlange Eingangsaussage
-- Auf Fragen ohne sicheres Wissen "raten"
-- Spekulation ueber Ressortmotive
-
-## Trade-off-Matrix
-
-| Format | Plus | Minus |
-|---|---|---|
-| Sehr kurze Eingangsaussage (3-5 min) | mehr Raum fuer Q&A | weniger inhaltliche Klarheit |
-| Standard (8-10 min) | balance | klassisch |
-| Lang (15 min) | umfassend | wenig Q&A-Zeit |
-
-## Mustertexte / Stellungnahme-Bausteine
-
-### Eingangsaussage (Standard, 8-10 min, Beispiel zum ElErrHandRegG)
-
-> Sehr geehrter Herr Vorsitzender, sehr geehrte Mitglieder des Ausschusses,
->
-> der Nationale Normenkontrollrat hat den Entwurf des Gesetzes zur Verbesserung der elektronischen Erreichbarkeit von im Handelsregister eingetragenen Gesellschaften am [Datum] dem Bundeskabinett mit einer Stellungnahme zugeleitet.
->
-> Der NKR begruesst die Zielsetzung des Vorhabens. Die elektronische Erreichbarkeit der eingetragenen Gesellschaften gegenueber Gerichten ist sachlich erforderlich. Sie beschleunigt Verfahren und reduziert Justizkosten.
->
-> Allerdings hat der NKR erhebliche Bedenken zur konkreten Ausgestaltung. Drei Punkte:
->
-> Erstens. Die monatliche Lebensbescheid-Pflicht erzeugt unverhaeltnismaessigen Erfuellungsaufwand. Bei rund 1,8 Mio im Handelsregister eingetragenen Gesellschaften und einem ausgewiesenen Aufwand von rund 180 Euro pro Jahr und Gesellschaft betraegt der Erfuellungsaufwand fuer die Wirtschaft rund 320 Mio Euro jaehrlich. Eine jaehrliche Bestaetigung mit ereignisorientierter Pflicht-Nachmeldung wuerde den Aufwand auf rund 80 Mio Euro reduzieren.
->
-> Zweitens. Der Entwurf sieht drei parallele technische Standards vor. Der NKR empfiehlt, sich auf eine zentrale Loesung ueber das Handelsregistergericht zu konzentrieren, die das Once-Only-Prinzip umsetzt.
->
-> Drittens. Eine Evaluierungsklausel fehlt. Bei einem Vorhaben dieser Groessenordnung empfiehlt der NKR eine Frist von drei Jahren mit klaren Indikatoren.
->
-> Der NKR ist der Auffassung, dass das Vorhaben dem Grunde nach erforderlich ist, in der konkreten Ausgestaltung aber substantiell ueberarbeitet werden sollte. Wir bitten den Bundestag, die Empfehlungen aufzugreifen.
->
-> Ich freue mich auf Ihre Fragen.
-
-### Schluss-Bausteine
-
-- "Der NKR bietet an, im Rahmen einer Folge-Stellungnahme zu konkretisierten Aenderungsantraegen erneut Stellung zu nehmen."
-- "Fuer Rueckfragen steht das Sekretariat des NKR jederzeit zur Verfuegung."
-
-## Typische Fehler in Anhoerungen
-
-- Politische Bewertung statt methodischer Position
-- Spekulationen ueber andere Anhoerungsgaeste
-- Folien mit zu viel Text
-- Kein klares Bild der Hauptempfehlungen
-- Auf Fragen unklar oder weitschweifig antworten
-
-## Querverweise
-
-- `nkr-stellungnahme-aufbau-und-format`
-- `nkr-stellungnahme-mahnender-charakter-grenzen`
-- `nkr-stellungnahme-pressepolitik-und-jahresbericht`
-- `nkr-verfahrensgang-referentenentwurf-bis-bundestag`
-- `legistik-werkstatt/spezial-bundestag-fristen-form-und-zustaendigkeit`
-
-## Quellen Stand 06/2026
-
-- NKRG vom 14.08.2006 (BGBl. I S. 1866) § 6
-- GO BT §§ 70 ff.
-- NKR-Jahresbericht (jeweils aktuelle Ausgabe) — Praxis der Anhoerungen
-- Live verifizieren ueber [www.bundestag.de](https://www.bundestag.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-
----
-
-## Skill: `digitalcheck-und-onlinezugangsgesetz-ozg`
-
-_Fachmodul OZG und Digitalcheck. Beschreibt das Onlinezugangsgesetz die OZG-Leistungen den Portalverbund das Once-Only-Prinzip und die ab dem 1. Januar 2023 anwendbare Digitalcheck-Methodik nach § 4 Abs. 3 i.V.m. § 9 NKRG für Bundesregelungsvorhaben. Mit Schnittstellen-Checkliste FIM XOEV ELSTER b..._
-
-# NKR-Digitalcheck und Onlinezugangsgesetz (OZG)
-
-## Worum geht es konkret
-
-Das Onlinezugangsgesetz (OZG) verpflichtet Bund und Länder, Verwaltungsleistungen digital anzubieten. Der Digitalcheck (BMI / NKR; gesetzliche Grundlage § 4 Abs. 3 NKRG, ab dem **1. Januar 2023 anzuwenden** gemäß § 9 NKRG) prüft, ob Bundesregelungsvorhaben digital praktikabel sind. Beide Instrumente sind zentral für die NKR-Prüfung von Vorhaben mit digitalen Bezuegen.
-
-## Wann dieses Modul hilft / Kaltstart-Fragen
-
-- Vorhaben adressiert eine OZG-Leistung
-- Vorhaben sieht Antraege / Mitteilungen vor
-- Vorhaben sieht digitale Schnittstellen vor
-- Vorhaben verwendet eigenen Standard statt etablierter Verwaltungsschnittstellen
-
-Rueckfrage nur wenn unklar: *"Welche OZG-Leistung ist betroffen? Wer ist Leistungserbringer — Bund, Land, Kommune?"*
-
-## Rechtlicher und methodischer Rahmen
-
-- **Onlinezugangsgesetz (OZG)** in der jeweils geltenden Fassung (urspruenglich vom 14.08.2017; OZG 2.0 / Folgeregulierung Stand vom Anwender zu verifizieren)
-- **Digitalcheck-Methodik** (BMI / NKR, jeweils aktuelle Fassung)
-- **§ 4 Abs. 3 NKRG** — Digitalcheck als Prüfungsbestandteil (Prüfung der Moeglichkeiten digitaler Ausfuehrung)
-- **§ 9 NKRG** — § 4 Abs. 3 NKRG ist **ab dem 1. Januar 2023 anzuwenden** (Uebergangsregelung)
-- **eIDAS-Verordnung (EU) 910/2014** in der jeweils geltenden Fassung
-- **EU Single Digital Gateway-VO (EU) 2018/1724** (Once-Only auf EU-Ebene)
-- **§ 44 GGO**, **NKRG** § 4 (Prüfungsgegenstand)
-- **Standards XOEV, FIM, ELSTER, beA**
-
-## OZG-Grundbegriffe
-
-- **OZG-Leistung**: digitalisierbare Verwaltungsleistung im OZG-Katalog
-- **Portalverbund**: technische Vernetzung der Verwaltungsportale Bund und Länder
-- **Nutzerkonto Bund / Mein Unternehmenskonto** als Authentifizierung
-- **Servicekonto / EUDI-Wallet** als Identifizierungsmittel (in Entwicklung)
-- **Once-Only**: Daten werden nur einmal erhoben, mehrfach genutzt
-
-## Digitalcheck — fuenf Prinzipien
-
-1. Digitale Kommunikation ermoeglichen
-2. Wiederverwendung von Daten und Standards (Once-Only)
-3. Datenschutz / Informationssicherheit by design
-4. Klare, maschinenlesbare Regelungen
-5. Automatisierung ermoeglichen
-
-## Prüfraster / Schritt für Schritt
-
-### 1. OZG-Bezug prüfen
-
-- Ist die Leistung im OZG-Katalog?
-- Welcher Reifegrad? (Information / Antrag / Bescheid / vollintegrierter Online-Prozess)
-- Wer ist Leistungserbringer? (Bund / Land / Kommune)
-
-### 2. Portalverbund-Anschluss
-
-- Wird das Vorhaben über den Portalverbund abgewickelt?
-- Wenn nein: Begruendung
-- Schnittstellen dokumentiert?
-
-### 3. Datenstandards
-
-- Anwendung XOEV / FIM
-- Datenformat dokumentiert
-- Strukturierte Daten statt PDF
-
-### 4. Once-Only
-
-- Schon vorhandene Daten werden wiederverwendet?
-- Beispiel: Daten aus Handelsregister, aus Steuerregister
-
-### 5. Authentifizierung
-
-- Nutzerkonto Bund / Mein Unternehmenskonto / EUDI-Wallet
-- eIDAS-Konformitaet
-
-### 6. Datenschutz und Sicherheit
-
-- DSGVO-Konformitaet
-- BSI-Schutzbedarfsanalyse
-- Rechtsgrundlage und Loeschpflichten
-
-### 7. Maschinenlesbarkeit
-
-- Tatbestaende automatisierbar
-- Vermeidung unbestimmter Rechtsbegriffe in automatisierbaren Bereichen
-
-## NKR-Sicht — was triggert eine kritische Stellungnahme
-
-- Digitalcheck nicht durchgefuehrt
-- OZG-Anschluss nicht vorgesehen
-- Eigener Standard ohne XOEV / FIM
-- Once-Only ignoriert (Mehrfacherhebung)
-- Nutzerkonto / Authentifizierung unklar
-- Maschinenlesbarkeit nicht thematisiert
-- Papierbasiertes Verfahren bei moeglicher digitaler Alternative
-
-## Trade-off-Matrix
-
-| Aspekt | OZG-Plus | OZG-Minus |
-|---|---|---|
-| Anschluss Portalverbund | ja | nein |
-| Standards XOEV/FIM | ja | eigener Standard |
-| Once-Only | ja | Mehrfacherhebung |
-| eID / Wallet | etabliert genutzt | unklare Authentifizierung |
-| Datenformat | maschinenlesbar | PDF / Papier |
-| Reifegrad OZG | hoch (vollintegriert) | niedrig (nur Information) |
-
-## Mustertexte / Stellungnahme-Bausteine
-
-- "Das Vorhaben adressiert eine OZG-Leistung im Sinne von [§ X OZG / Anlage]. Der NKR begruesst die Anwendung des Portalverbundes."
-- "Der NKR weist darauf hin, dass das Vorhaben einen eigenen Datenstandard vorsieht und die etablierten Standards XOEV und FIM nicht anwendet. Der NKR empfiehlt eine Prüfung der Standardkompatibilitaet."
-- "Das vorgesehene Verfahren erhebt Daten, die der Verwaltung bereits aus dem Handelsregister vorliegen. Der NKR empfiehlt eine Umsetzung des Once-Only-Prinzips im Sinne der EU-Single-Digital-Gateway-VO."
-- "Der Digitalcheck wurde vom Ressort dokumentiert. Die fuenf Digitalcheck-Prinzipien sind nachvollziehbar adressiert."
-- "Der NKR weist darauf hin, dass die vorgesehene monatliche Lebensbescheid-Pflicht in einem Spannungsverhaeltnis zum Once-Only-Prinzip steht; eine automatisierte Erreichbarkeitspruefung durch das Handelsregistergericht waere praktikabler."
-
-## Typische Fehler in Ressort-Entwuerfen
-
-- "Vorhaben ist digital tauglich" ohne Konkretisierung
-- Antragsverfahren weiterhin Papier
-- Eigener Datenstandard
-- Mehrfacherhebung ohne Begruendung
-- OZG-Anschluss "in spaeterer Phase"
-
-## Quellen Stand 06/2026
-
-- Onlinezugangsgesetz (OZG) vom 14.08.2017 in der jeweils geltenden Fassung; OZG-Folgeregulierung Stand vom Anwender zu verifizieren
-- Digitalcheck-Methodik (BMI / NKR, jeweils aktuelle Fassung)
-- eIDAS-Verordnung (EU) 910/2014 in der jeweils geltenden Fassung
-- EU Single Digital Gateway-VO (EU) 2018/1724
-- § 44 GGO; NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4 Abs. 3 (Digitalcheck) i.V.m. § 9 (Anwendbarkeit ab 1. Januar 2023)
-- NKR-Jahresbericht (jeweils aktuelle Ausgabe)
-- Live verifizieren über [www.digitalcheck.bund.de](https://www.digitalcheck.bund.de), [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
-
----
-
-## Skill: `einmalig-vs-erforderlichkeitspruefung-warum`
-
-_Trennscharfe Unterscheidung zwischen einmaligem Umstellungsaufwand und jaehrlich laufendem Erfuellungsaufwand. Erklaert Abgrenzung Grenzfaelle (mehrjaehriger Investitionszyklus IT-Refresh) Implikationen für Stellungnahme und One-in-one-out und enthaelt Mustertabelle sowie typische Fehlzuordnungen..._
-
-# NKR-Einmalig vs. jaehrlich laufend
+# NKR-Handelsregister und elektronische Zustellung
 
 ## Arbeitsweg
 
@@ -799,97 +223,518 @@ _Trennscharfe Unterscheidung zwischen einmaligem Umstellungsaufwand und jaehrlic
 
 ## Worum geht es konkret
 
-Erfuellungsaufwand wird **getrennt** ausgewiesen nach einmaligem Umstellungsaufwand (z.B. IT-Anpassung, Schulung) und jaehrlich laufendem Aufwand (z.B. Berichtspflicht, monatlicher Lebensbescheid). Die Trennung ist methodisch zwingend und politisch hochrelevant (One-in-one-out bezieht sich primaer auf laufenden Aufwand).
+Vorhaben mit Bezug auf das Handelsregister und elektronische Zustellungswege gehoeren zu den methodisch komplexesten NKR-Prüfungen. Sie verbinden Gesellschaftsrecht, ZPO, OZG, eIDAS-VO, beA und die dezentrale Registerstruktur in Deutschland. Dieser Skill ist auch die methodische Grundlage für die Testakte des Plugins (ElErrHandRegG).
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-- Stellungnahme braucht klare Trennung
-- Ressort wirft einmalig und laufend in eine Summe
-- One-in-one-out-Diskussion (einmaliger Aufwand nicht voll bilanzwirksam)
-- Grenzfall mehrjaehriger Aufwand (z.B. Re-Zertifizierung alle 3 Jahre)
+- Vorhaben ändert HGB / Handelsregister-Vorschriften
+- Vorhaben sieht elektronische Zustellung an Gesellschaften vor
+- Vorhaben adressiert ausländische Gesellschaften mit deutscher Zweigniederlassung
+- Fallzahlen-Prüfung mit Bezug auf Anzahl Gesellschaften
 
-Keine Rueckfrage noetig, wenn Zahlen vorliegen.
+Rueckfrage nur wenn unklar: *"Welche Rechtsformen sind adressiert — alle eingetragenen Gesellschaften, nur Kapitalgesellschaften, nur GmbH?"*
 
 ## Rechtlicher und methodischer Rahmen
 
-- **Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands** (BMI / NKR), Kapitel Darstellung
-- **§ 45 GGO** — Darstellung in der Begruendung
-- **One-in-one-out-Regel** der Bundesregierung 2015 (Stand zu prüfen)
+- **HGB**, insbesondere §§ 1 ff., 8 ff., 33 ff.
+- **HRV (Handelsregisterverordnung)** in der jeweils geltenden Fassung
+- **ZPO**, insbesondere §§ 166-195a (Zustellungsrecht)
+- **ERVV** (Elektronischer Rechtsverkehr in Zivilsachen)
+- **BRAO §§ 31a, 31b** (beA / beBPO)
+- **De-Mail-Gesetz**
+- **eIDAS-Verordnung (EU) 910/2014** in der jeweils geltenden Fassung
+- **OZG** in der jeweils geltenden Fassung
+- **NKRG** § 4, **GGO** §§ 44, 45
+
+## Fallzahlen-Orientierung (Stand 06/2026, vom Anwender zu prüfen)
+
+- Eingetragene Gesellschaften gesamt: rund 1,8 Mio (Statistisches Bundesamt, Unternehmensregister; vom Anwender mit aktueller Zahl zu prüfen)
+- GmbH: dominantes Segment (groesste Einzelmenge)
+- AG, KGaA, OHG, KG, e.K.: jeweils kleinere Segmente
+- Ausländische Gesellschaften mit deutscher Zweigniederlassung: kleinere Teilmenge
 
 ## Prüfraster / Schritt für Schritt
 
-### Einmaliger Umstellungsaufwand
+### 1. Adressatenkreis
 
-- Faellt nur einmal an
-- Beispiele: IT-Anpassung, Schulung, Anschaffung Geraete, Erstellung Prozessdokumentation, Notar- oder Anwaltsgebuehren der Einfuehrung
-- Wird **separat** ausgewiesen, nicht jaehrlich
-- Bei One-in-one-out **nicht voll** bilanzwirksam (gem. Konvention der Bundesregierung)
+- Welche Rechtsformen?
+- Aktive vs. ruhende Gesellschaften?
+- Ausländische Gesellschaften?
+- Konzerne — Konsolidierung oder einzeln?
 
-### Jaehrlich laufender Aufwand
+### 2. Architektur (zentral vs. dezentral)
 
-- Faellt jaehrlich an (oder regelmaessig in kuerzeren Intervallen)
-- Beispiele: jaehrliche Berichtspflicht, monatlicher Lebensbescheid, fortlaufende Schulung, kontinuierliche Compliance
-- Wird **als Jahresaufwand** ausgewiesen
-- Bei One-in-one-out **bilanzwirksam**
+- Wer fuehrt die elektronische Adresse?
+ - **Zentral**: einheitliches Register beim BfJ / zentrale Stelle
+ - **Dezentral**: bei jedem Amtsgericht (Registergericht)
+- Schnittstellen
+- Datenkonsistenz
 
-### Grenzfaelle
+### 3. Standards
 
-- **Mehrjaehrige Intervalle** (z.B. alle 3 Jahre Audit): annualisieren (Aufwand / 3)
-- **IT-Refresh** alle 5 Jahre: annualisieren oder als wiederkehrender einmaliger Aufwand
-- **Inflations- oder Lohnsteigerungspuffer**: nur ausweisen, wenn methodisch geboten
+- beA / beBPO / De-Mail / EUDI-Wallet / qualifizierter eIDAS-Mailbox-Dienst
+- Single Sign-On
+- Once-Only
+- XOEV / FIM
+
+### 4. Fortlaufende Erreichbarkeit
+
+- "Lebensbescheid" / Erreichbarkeitsbestaetigung
+- Frequenz (monatlich / quartalsweise / jaehrlich / event-driven)
+- Konsequenzen bei Verstoss (Zwangsgeld, Loeschung)
+
+### 5. Ausländische Gesellschaften
+
+- Inlandsvertreter (analog § 184 ZPO)
+- Direktanschluss EU-weiter Systeme (BRIS Business Registers Interconnection System)
+- Schnittstelle zu nationalen Registern anderer Mitgliedstaaten
+
+### 6. Erfuellungsaufwand
+
+- Aufwand pro Gesellschaft × Fallzahl
+- Aufwand Verwaltung (Registergerichte, BfJ)
+- Sanktionsaufwand (Verfahren, Zwangsgeld)
 
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 
-- Einmaliger Aufwand wird als Jahresaufwand ausgewiesen (Unterschaetzung jaehrlich, Ueberschaetzung kumuliert)
-- Jaehrlicher Aufwand wird als einmaliger ausgewiesen (Vertuschung des laufenden Lasteinflusses)
-- Mehrjaehrige Wiederholung nicht annualisiert
-- One-in-one-out-Buchung mischt Einmaliges und Laufendes
+- Dezentrale Loesung trotz hoher Skaleneffekte einer zentralen
+- Hoche Frequenz Lebensbescheid (monatlich) ohne Sachgrund
+- Parallele Standards ohne Once-Only
+- Ausländische Gesellschaften ungeklaert
+- Sanktionsmechanik zu pauschal (z.B. Loeschungsdrohung ohne Stufung)
+- KMU nicht differenziert (Kleinst-Gesellschaften gleich behandelt wie Konzerne)
 
 ## Trade-off-Matrix
 
-| Aufwandstyp | Darstellung | One-in-one-out |
+| Aspekt | Plus | Minus |
 |---|---|---|
-| Einmalig | separat, Bezeichnung "Umstellungsaufwand" | nicht voll bilanzwirksam |
-| Jaehrlich laufend | als Jahresaufwand | voll bilanzwirksam |
-| Mehrjaehrig (z.B. 3 Jahre) | annualisiert + Hinweis | voll bilanzwirksam |
-| Investition mit Abschreibung | annualisiert nach Nutzungsdauer | voll bilanzwirksam (annualisiert) |
+| Architektur zentral | Skalierung, Once-Only | Implementierungsaufwand initial |
+| Architektur dezentral | Bestandssystem nutzbar | hoher Vollzugsaufwand, Datenfragmentierung |
+| Frequenz monatlich | rasche Erreichbarkeit | sehr hoher Erfuellungsaufwand |
+| Frequenz jaehrlich + Event | gleicher Effekt, geringer Aufwand | etwas hoeheres Aktualitaetsrisiko |
+| Mehrere Standards | technische Wahlfreiheit | keine Once-Only |
+| Einheitlicher Standard | Once-Only, Effizienz | weniger Flexibilitaet |
 
 ## Mustertexte / Stellungnahme-Bausteine
 
-Tabelle:
+- "Das Vorhaben betrifft alle im Handelsregister eingetragenen Gesellschaften (rund 1,8 Mio nach Unternehmensregister Statistisches Bundesamt) sowie ausländische Gesellschaften mit deutscher Zweigniederlassung."
+- "Der NKR begruesst die Zielsetzung, die elektronische Erreichbarkeit von im Handelsregister eingetragenen Gesellschaften zu verbessern und damit Verfahren zu beschleunigen."
+- "Der NKR weist darauf hin, dass die vorgesehene dezentrale Architektur einen erheblichen Mehraufwand für die Wirtschaft und die Verwaltung verursacht. Eine zentrale Loesung über das Handelsregistergericht im Sinne des Once-Only-Prinzips waere praktikabler."
+- "Die vorgesehene monatliche Lebensbescheid-Pflicht ist aus Sicht des NKR unverhaeltnismaessig. Eine jaehrliche Bestaetigung mit ereignisorientierter Nachmeldepflicht erreicht das Regelungsziel mit deutlich geringerem Erfuellungsaufwand."
+- "Der NKR empfiehlt, das vorgesehene Verfahren mit dem OZG-Portalverbund, dem beA-System und der EUDI-Wallet zu verknuepfen und die Standards XOEV und FIM anzuwenden."
+- "Der NKR empfiehlt, für ausländische Gesellschaften mit deutscher Zweigniederlassung den Anschluss an das Business Registers Interconnection System (BRIS) zu prüfen, anstatt einen separaten Inlandsvertreter zu fordern."
 
-| Position | Einmalig | Jaehrlich |
-|---|---|---|
-| Buerger | [X] Mio EUR | [Y] Mio EUR |
-| Wirtschaft | [X] Mio EUR | [Y] Mio EUR |
-| Verwaltung | [X] Mio EUR | [Y] Mio EUR |
+### Spezielle Aufwandsberechnung (Beispiel ElErrHandRegG)
 
-Bausteine:
+- Adressaten: rund 1,8 Mio Gesellschaften
+- Pflicht: monatliche Lebensbescheid-Bestaetigung
+- Aufwand pro Fall: ca. 15 min pro Bestaetigung × 12 = 180 min = 3 h pro Jahr
+- Lohnsatz Wirtschaft (Verwaltungstaetigkeit): ca. 45 EUR/h
+- Aufwand pro Gesellschaft p.a.: 3 × 45 = 135 EUR
+- Plus Sachkosten / IT-Anteil: ca. 45 EUR p.a.
+- Gesamtaufwand pro Gesellschaft p.a.: ca. 180 EUR
+- **Hochrechnung**: 1,8 Mio × 180 EUR = **324 Mio EUR jaehrlich**
 
-- "Das Vorhaben verursacht einen einmaligen Umstellungsaufwand für die Wirtschaft in Höhe von [X] Mio EUR und einen jaehrlich laufenden Aufwand von [Y] Mio EUR."
-- "Der NKR weist darauf hin, dass die ressortseitige Darstellung den jaehrlichen Aufwand und den einmaligen Aufwand nicht trennt; eine getrennte Ausweisung ist methodisch erforderlich."
-- "Der mehrjaehrige Re-Zertifizierungsaufwand wurde mit [Wert / Jahre] annualisiert."
+Alternativ: jaehrliche Bestaetigung
+- 15 min × 1 = 15 min × 45 EUR/h = ca. 11 EUR Zeit
+- Sachkosten: ca. 35 EUR
+- Gesamt pro Gesellschaft p.a.: ca. 46 EUR
+- **Hochrechnung**: 1,8 Mio × 46 EUR = **ca. 83 Mio EUR jaehrlich**
+
+Ersparnis: rund **240 Mio EUR jaehrlich**.
 
 ## Typische Fehler in Ressort-Entwuerfen
 
-- "Erfuellungsaufwand insgesamt: 50 Mio EUR" ohne Trennung einmalig / laufend
-- IT-Anpassung als Jahresaufwand ausgewiesen
-- Re-Zertifizierung alle 3 Jahre nicht annualisiert
-- Schulung pauschal "einmalig", obwohl jaehrliche Nachschulung erforderlich
+- Fallzahlen ohne Quelle (Mikrozensus statt Unternehmensregister)
+- "Geringer Mehraufwand für die Wirtschaft" trotz monatlicher Pflicht
+- Ausländische Gesellschaften nicht adressiert
+- Mehrere Standards parallel ohne Schnittstellen-Spezifikation
+- Konsequenz Loeschung aus Handelsregister ohne Abstufung
 
 ## Quellen Stand 06/2026
 
+- HGB; HRV in der jeweils geltenden Fassung
+- ZPO §§ 166-195a; ERVV
+- BRAO §§ 31a, 31b
+- De-Mail-Gesetz
+- eIDAS-Verordnung (EU) 910/2014 in der jeweils geltenden Fassung
+- OZG in der jeweils geltenden Fassung
+- NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
+- Statistisches Bundesamt — Unternehmensregister
+- NKR-Jahresbericht (jeweils aktuelle Ausgabe)
+- Live verifizieren über [www.destatis.de](https://www.destatis.de), [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de) und [www.bundesjustizportal.de](https://www.handelsregister.de)
+
+---
+
+## Skill: `handelsregister-elektronische-zustellung`
+
+_Wenn es um NKR-Handelsregister und elektronische Zustellung in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Auswahlstichwort: Handelsregister Elektronische Zustellung; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen._
+
+# NKR-Handelsregister und elektronische Zustellung
+
+## Worum geht es konkret
+
+Vorhaben mit Bezug auf das Handelsregister und elektronische Zustellungswege gehoeren zu den methodisch komplexesten NKR-Prüfungen. Sie verbinden Gesellschaftsrecht, ZPO, OZG, eIDAS-VO, beA und die dezentrale Registerstruktur in Deutschland. Dieser Skill ist auch die methodische Grundlage für die Testakte des Plugins (ElErrHandRegG).
+
+## Wann dieses Modul hilft / Kaltstart-Fragen
+
+- Vorhaben ändert HGB / Handelsregister-Vorschriften
+- Vorhaben sieht elektronische Zustellung an Gesellschaften vor
+- Vorhaben adressiert ausländische Gesellschaften mit deutscher Zweigniederlassung
+- Fallzahlen-Prüfung mit Bezug auf Anzahl Gesellschaften
+
+Rueckfrage nur wenn unklar: *"Welche Rechtsformen sind adressiert — alle eingetragenen Gesellschaften, nur Kapitalgesellschaften, nur GmbH?"*
+
+## Rechtlicher und methodischer Rahmen
+
+- **HGB**, insbesondere §§ 1 ff., 8 ff., 33 ff.
+- **HRV (Handelsregisterverordnung)** in der jeweils geltenden Fassung
+- **ZPO**, insbesondere §§ 166-195a (Zustellungsrecht)
+- **ERVV** (Elektronischer Rechtsverkehr in Zivilsachen)
+- **BRAO §§ 31a, 31b** (beA / beBPO)
+- **De-Mail-Gesetz**
+- **eIDAS-Verordnung (EU) 910/2014** in der jeweils geltenden Fassung
+- **OZG** in der jeweils geltenden Fassung
+- **NKRG** § 4, **GGO** §§ 44, 45
+
+## Fallzahlen-Orientierung (Stand 06/2026, vom Anwender zu prüfen)
+
+- Eingetragene Gesellschaften gesamt: rund 1,8 Mio (Statistisches Bundesamt, Unternehmensregister; vom Anwender mit aktueller Zahl zu prüfen)
+- GmbH: dominantes Segment (groesste Einzelmenge)
+- AG, KGaA, OHG, KG, e.K.: jeweils kleinere Segmente
+- Ausländische Gesellschaften mit deutscher Zweigniederlassung: kleinere Teilmenge
+
+## Prüfraster / Schritt für Schritt
+
+### 1. Adressatenkreis
+
+- Welche Rechtsformen?
+- Aktive vs. ruhende Gesellschaften?
+- Ausländische Gesellschaften?
+- Konzerne — Konsolidierung oder einzeln?
+
+### 2. Architektur (zentral vs. dezentral)
+
+- Wer fuehrt die elektronische Adresse?
+ - **Zentral**: einheitliches Register beim BfJ / zentrale Stelle
+ - **Dezentral**: bei jedem Amtsgericht (Registergericht)
+- Schnittstellen
+- Datenkonsistenz
+
+### 3. Standards
+
+- beA / beBPO / De-Mail / EUDI-Wallet / qualifizierter eIDAS-Mailbox-Dienst
+- Single Sign-On
+- Once-Only
+- XOEV / FIM
+
+### 4. Fortlaufende Erreichbarkeit
+
+- "Lebensbescheid" / Erreichbarkeitsbestaetigung
+- Frequenz (monatlich / quartalsweise / jaehrlich / event-driven)
+- Konsequenzen bei Verstoss (Zwangsgeld, Loeschung)
+
+### 5. Ausländische Gesellschaften
+
+- Inlandsvertreter (analog § 184 ZPO)
+- Direktanschluss EU-weiter Systeme (BRIS Business Registers Interconnection System)
+- Schnittstelle zu nationalen Registern anderer Mitgliedstaaten
+
+### 6. Erfuellungsaufwand
+
+- Aufwand pro Gesellschaft × Fallzahl
+- Aufwand Verwaltung (Registergerichte, BfJ)
+- Sanktionsaufwand (Verfahren, Zwangsgeld)
+
+## NKR-Sicht — was triggert eine kritische Stellungnahme
+
+- Dezentrale Loesung trotz hoher Skaleneffekte einer zentralen
+- Hoche Frequenz Lebensbescheid (monatlich) ohne Sachgrund
+- Parallele Standards ohne Once-Only
+- Ausländische Gesellschaften ungeklaert
+- Sanktionsmechanik zu pauschal (z.B. Loeschungsdrohung ohne Stufung)
+- KMU nicht differenziert (Kleinst-Gesellschaften gleich behandelt wie Konzerne)
+
+## Trade-off-Matrix
+
+| Aspekt | Plus | Minus |
+|---|---|---|
+| Architektur zentral | Skalierung, Once-Only | Implementierungsaufwand initial |
+| Architektur dezentral | Bestandssystem nutzbar | hoher Vollzugsaufwand, Datenfragmentierung |
+| Frequenz monatlich | rasche Erreichbarkeit | sehr hoher Erfuellungsaufwand |
+| Frequenz jaehrlich + Event | gleicher Effekt, geringer Aufwand | etwas hoeheres Aktualitaetsrisiko |
+| Mehrere Standards | technische Wahlfreiheit | keine Once-Only |
+| Einheitlicher Standard | Once-Only, Effizienz | weniger Flexibilitaet |
+
+## Mustertexte / Stellungnahme-Bausteine
+
+- "Das Vorhaben betrifft alle im Handelsregister eingetragenen Gesellschaften (rund 1,8 Mio nach Unternehmensregister Statistisches Bundesamt) sowie ausländische Gesellschaften mit deutscher Zweigniederlassung."
+- "Der NKR begruesst die Zielsetzung, die elektronische Erreichbarkeit von im Handelsregister eingetragenen Gesellschaften zu verbessern und damit Verfahren zu beschleunigen."
+- "Der NKR weist darauf hin, dass die vorgesehene dezentrale Architektur einen erheblichen Mehraufwand für die Wirtschaft und die Verwaltung verursacht. Eine zentrale Loesung über das Handelsregistergericht im Sinne des Once-Only-Prinzips waere praktikabler."
+- "Die vorgesehene monatliche Lebensbescheid-Pflicht ist aus Sicht des NKR unverhaeltnismaessig. Eine jaehrliche Bestaetigung mit ereignisorientierter Nachmeldepflicht erreicht das Regelungsziel mit deutlich geringerem Erfuellungsaufwand."
+- "Der NKR empfiehlt, das vorgesehene Verfahren mit dem OZG-Portalverbund, dem beA-System und der EUDI-Wallet zu verknuepfen und die Standards XOEV und FIM anzuwenden."
+- "Der NKR empfiehlt, für ausländische Gesellschaften mit deutscher Zweigniederlassung den Anschluss an das Business Registers Interconnection System (BRIS) zu prüfen, anstatt einen separaten Inlandsvertreter zu fordern."
+
+### Spezielle Aufwandsberechnung (Beispiel ElErrHandRegG)
+
+- Adressaten: rund 1,8 Mio Gesellschaften
+- Pflicht: monatliche Lebensbescheid-Bestaetigung
+- Aufwand pro Fall: ca. 15 min pro Bestaetigung × 12 = 180 min = 3 h pro Jahr
+- Lohnsatz Wirtschaft (Verwaltungstaetigkeit): ca. 45 EUR/h
+- Aufwand pro Gesellschaft p.a.: 3 × 45 = 135 EUR
+- Plus Sachkosten / IT-Anteil: ca. 45 EUR p.a.
+- Gesamtaufwand pro Gesellschaft p.a.: ca. 180 EUR
+- **Hochrechnung**: 1,8 Mio × 180 EUR = **324 Mio EUR jaehrlich**
+
+Alternativ: jaehrliche Bestaetigung
+- 15 min × 1 = 15 min × 45 EUR/h = ca. 11 EUR Zeit
+- Sachkosten: ca. 35 EUR
+- Gesamt pro Gesellschaft p.a.: ca. 46 EUR
+- **Hochrechnung**: 1,8 Mio × 46 EUR = **ca. 83 Mio EUR jaehrlich**
+
+Ersparnis: rund **240 Mio EUR jaehrlich**.
+
+## Typische Fehler in Ressort-Entwuerfen
+
+- Fallzahlen ohne Quelle (Mikrozensus statt Unternehmensregister)
+- "Geringer Mehraufwand für die Wirtschaft" trotz monatlicher Pflicht
+- Ausländische Gesellschaften nicht adressiert
+- Mehrere Standards parallel ohne Schnittstellen-Spezifikation
+- Konsequenz Loeschung aus Handelsregister ohne Abstufung
+
+## Quellen Stand 06/2026
+
+- HGB; HRV in der jeweils geltenden Fassung
+- ZPO §§ 166-195a; ERVV
+- BRAO §§ 31a, 31b
+- De-Mail-Gesetz
+- eIDAS-Verordnung (EU) 910/2014 in der jeweils geltenden Fassung
+- OZG in der jeweils geltenden Fassung
+- NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
+- Statistisches Bundesamt — Unternehmensregister
+- NKR-Jahresbericht (jeweils aktuelle Ausgabe)
+- Live verifizieren über [www.destatis.de](https://www.destatis.de), [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de) und [www.bundesjustizportal.de](https://www.handelsregister.de)
+
+---
+
+## Skill: `erforderlichkeitspruefung-warum-ueberhaupt-regeln`
+
+_Wenn es um NKR-Erforderlichkeitspruefung — Warum ueberhaupt regeln in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Erforderlichkeitspruefung Warum Ueberhaupt Regeln; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen._
+
+# NKR-Erforderlichkeitspruefung — Warum ueberhaupt regeln
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Worum geht es konkret
+
+Leitsatz des NKR: *"Wenn nicht noetig, dann nicht regeln."* Bevor methodische Aufwandsberechnung kommt, prüft der NKR systematisch, **ob die Regelung ueberhaupt erforderlich ist**.
+
+## Wann dieses Modul hilft / Kaltstart-Fragen
+
+- Erster Prüfschritt jeder Stellungnahme
+- Ressort begruendet Vorhaben mit "politischem Wunsch" ohne Sachgrund
+- Vorhaben dupliziert bestehende Regelung
+- Vorhaben adressiert ein Marktversagen ohne dieses zu benennen
+
+Rueckfrage nur wenn unklar: *"Welches konkrete Problem soll geloest werden, das ohne Regelung nicht loesbar ist?"*
+
+## Rechtlicher und methodischer Rahmen
+
+- **§ 44 Abs. 1 GGO** — Prüfung der Notwendigkeit (Gesetzesfolgenabschaetzung)
+- **NKRG** § 4
+- **Leitfaden BMI / NKR** — Erforderlichkeitspruefung als methodischer Vorstadium
+- **HdR** Teil A.III — Begruendungspflichten
+- **Subsidiaritaetsprinzip** Art. 5 EUV (bei EU-Bezug)
+
+## Prüfraster / Schritt für Schritt
+
+### 1. Problemdefinition
+
+- Welches konkrete Problem? (nicht: politische Beschreibung)
+- Welche Adressaten betroffen?
+- Welche Schadens- oder Wohlfahrtsfolgen ohne Regelung?
+- Welche Daten belegen das Problem?
+
+### 2. Marktversagen-Test (bei Wirtschaftsregelung)
+
+- Klassisches Marktversagen: Information, externe Effekte, öffentliche Gueter, Marktmacht
+- Korrigieren Markt oder Selbstregulierung das Problem nicht?
+
+### 3. Subsidiaritaet (vertikal)
+
+- Loesen Länder oder Kommunen das Problem nicht?
+- Loest die EU es nicht?
+
+### 4. Vorhandene Regelung
+
+- Gibt es bereits Vorschriften, die das Problem adressieren?
+- Reicht Auslegung / Vollzugsverbesserung?
+
+### 5. Notwendigkeit der Bundesregelung
+
+- Ist eine bundesweit einheitliche Regelung erforderlich?
+- Reicht Verordnung statt Gesetz?
+
+### 6. Wirksamkeitsprognose
+
+- Kann die geplante Regelung das Problem ueberhaupt loesen?
+- Welche Begruendung dafür?
+
+## NKR-Sicht — was triggert eine kritische Stellungnahme
+
+- Problembeschreibung pauschal, ohne Daten
+- "Politischer Wille" als alleinige Begruendung
+- Marktversagen nicht benannt
+- Bestehende Regelung nicht geprueft
+- Wirksamkeit ist unklar oder unbelegt
+- Vorhaben adressiert ein "gefuehltes" Problem
+
+## Trade-off-Matrix
+
+| Konstellation | NKR-Empfehlung |
+|---|---|
+| Konkretes belegtes Problem | weiter zu Alternativenpruefung |
+| Problem belegt, Wirksamkeit unklar | Befristung / Evaluierung empfehlen |
+| Problem unklar | Verzicht oder Klärung |
+| Bestehende Regelung greift | Verzicht oder Reform statt Neuvorhaben |
+| Marktloesung möglich | Soft-Law-Alternative prüfen |
+
+## Mustertexte / Stellungnahme-Bausteine
+
+- "Der NKR begruesst grundsätzlich das Ziel des Vorhabens, [Zielsetzung]. Das Vorhaben adressiert ein nachvollziehbares Regelungsbeduerfnis."
+- "Der NKR weist darauf hin, dass die Begruendung der Erforderlichkeit nicht hinreichend belegt ist. Insbesondere fehlen Daten zum tatsaechlichen Umfang des Problems und zur Wirksamkeit der bestehenden Regelung in [Norm]."
+- "Der NKR hat Zweifel an der Erforderlichkeit, da das adressierte Problem auch durch [Alternative: konsequenten Vollzug bestehender Regelung / Selbstregulierung / Marktloesung] adressiert werden koennte."
+- "Aus Sicht des NKR ist das Vorhaben dem Grunde nach erforderlich; die konkrete Ausgestaltung wirft jedoch im Hinblick auf den Erfuellungsaufwand Bedenken auf."
+
+## Typische Fehler in Ressort-Entwuerfen
+
+- "Aufgrund vielfaeltiger Hinweise aus der Praxis" ohne Quellenangabe
+- "Internationale Erfahrungen zeigen" ohne Beleg
+- "Politischer Wille" der Koalition als Begruendung
+- Bestehende Regelung nicht erwaehnt
+- "Vorbeugende Regelung" ohne Risikobeleg
+
+## Quellen Stand 06/2026
+
+- § 44 Abs. 1 GGO
+- NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
-- § 45 GGO
-- One-in-one-out-Beschluss der Bundesregierung (Stand zu prüfen)
+- Handbuch der Rechtsfoermlichkeit Teil A.III
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
 
 ---
 
+## Skill: `leitfaden-ermittlung-und-darstellung`
+
+_Wenn es um NKR-Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Leitfaden Ermittlung Und Darstellung; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen._
+
+# NKR-Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands
+
+## Worum geht es konkret
+
+Der **Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands** (herausgegeben von BMI in Abstimmung mit NKR) ist die methodische Hauptgrundlage. Jede Ressortbegruendung muss sich daran messen lassen. Jede NKR-Stellungnahme bezieht sich darauf.
+
+## Wann dieses Modul hilft / Kaltstart-Fragen
+
+- Stellungnahme braucht methodische Verankerung
+- Ressort weicht von Leitfaden ab
+- Schulung neuer Referenten
+- Vergleich mit aelteren Leitfadenversionen
+
+Keine Rueckfrage noetig.
+
+## Rechtlicher und methodischer Rahmen
+
+- **Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands** (BMI / NKR), jeweils aktuelle Fassung — der Stand ist vom Anwender zu prüfen (vor Ausgabe Live-Recherche)
+- **§§ 44, 45, 62 GGO** — Verweis auf den Leitfaden
+- **NKRG** § 4 — methodische Bezugnahme
+- **OECD-SKM** — internationale Grundlage
+
+## Prüfraster / Schritt für Schritt
+
+### Standard-Kapitelstruktur des Leitfadens (Überblick)
+
+1. **Einfuehrung und Begriffe** (Erfuellungsaufwand, Adressaten, Abgrenzung)
+2. **Methode** (Standardkostenmodell, Aufwand pro Fall × Fallzahl)
+3. **Daten** (Zeitwerttabellen, Lohnsaetze, Fallzahlenquellen)
+4. **Darstellung im Vorblatt** (Strukturvorgabe Abschnitt E)
+5. **Darstellung in der Begruendung** (Allgemeiner Teil Abschnitt VI.4)
+6. **Spezialfaelle** (KMU, einmalig vs. laufend, Goldplating)
+7. **Evaluierung** (ex-post-Pflicht, Indikatoren)
+8. **One-in-one-out** (Bilanzierung)
+9. **Digitalcheck** (seit 2022)
+10. **Anlagen** (Tabellen, Muster, FAQ)
+
+### Pflicht-Bezugnahme in der Stellungnahme
+
+In jeder NKR-Stellungnahme sollte am Beginn der methodischen Bewertung ein Satz stehen:
+
+> "Die Prüfung erfolgt anhand des Leitfadens zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) in der jeweils geltenden Fassung sowie unter Beachtung des Standardkostenmodells."
+
+## NKR-Sicht — was triggert eine kritische Stellungnahme
+
+- Ressort folgt nicht der Leitfaden-Struktur (Vorblatt-Abschnitt E unvollstaendig)
+- Begruendung verwendet eigene Tabellenstruktur
+- Methodik abweichend ohne Begruendung
+- Bagatell-Schwelle falsch angesetzt
+- Leitfaden-Bezugnahme fehlt komplett
+
+## Trade-off-Matrix
+
+| Leitfaden-Stand | NKR-Haltung |
+|---|---|
+| Aktueller Stand befolgt | unproblematisch |
+| Alterer Stand befolgt | mit Hinweis auf neuere Methodik |
+| Eigene Methodik | begruenden zwingend |
+| Keine Methodik genannt | Kritik / Nachforderung |
+
+## Mustertexte / Stellungnahme-Bausteine
+
+- "Die Prüfung erfolgt anhand des Leitfadens zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) in der jeweils geltenden Fassung sowie unter Beachtung des Standardkostenmodells (SKM)."
+- "Der NKR weist darauf hin, dass die Darstellung im Vorblatt nicht der Strukturvorgabe des Leitfadens entspricht. Eine Aufschluesselung nach Adressaten, einmalig / laufend und KMU-Betroffenheit fehlt."
+- "Der NKR begruesst, dass die Ressortbegruendung die Leitfaden-Struktur in Abschnitt A.VI.4 vollstaendig uebernimmt."
+
+### Checkliste Pflicht-Bestandteile in der Ressort-Darstellung
+
+- [ ] Erfuellungsaufwand je Adressat (Buerger / Wirtschaft / Verwaltung)
+- [ ] Einmalig vs. laufend getrennt
+- [ ] KMU-Betroffenheit
+- [ ] Methodische Quelle Zeitwert / Lohnsatz / Fallzahl
+- [ ] One-in-one-out-Verbuchung
+- [ ] Digitalcheck
+- [ ] Evaluierungsklausel
+- [ ] Bagatell-Schwelle gepruefte
+
+## Typische Fehler in Ressort-Entwuerfen
+
+- Leitfaden nicht erwaehnt
+- Tabellenstruktur abweichend
+- Quellen nicht angegeben
+- KMU-Spalte fehlt
+- One-in-one-out nicht verbucht
+- Digitalcheck nicht durchgefuehrt
+- Evaluierungsklausel fehlt
+
+## Quellen Stand 06/2026
+
+- Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR), jeweils aktuelle Fassung — der Stand 2018 ist die letzte allgemein bekannte; die aktuelle Fassung ist vor Ausgabe zu verifizieren
+- §§ 44, 45, 62 GGO
+- NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
+- NKR-Jahresbericht (jeweils aktuelle Ausgabe)
+- Live verifizieren über [www.bmi.bund.de](https://www.bmi.bund.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+
+---
+
 ## Skill: `erfuellungsaufwand-buerger-grundbegriff`
 
-_Trennt den Erfuellungsaufwand methodisch nach den drei Adressatengruppen Buerger Wirtschaft Verwaltung. Erklaert Spezifika je Gruppe Standard-Zeitwerte Lohnsaetze Bandbreiten und die typischen Falltypen. Mit Mustertabelle für die Stellungnahme und Bausteinen zur Plausibilisierung pro Gruppe im No..._
+_Wenn es um NKR-Erfuellungsaufwand für Buerger, Wirtschaft und Verwaltung in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Erfuellungsaufwand Buerger Grundbegriff; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen._
 
 # NKR-Erfuellungsaufwand für Buerger, Wirtschaft und Verwaltung
 
@@ -1009,112 +854,398 @@ Bausteine:
 
 ---
 
-## Skill: `erfuellungsaufwand-grundbegriff`
+## Skill: `erfuellungsaufwand-buerger-wirtschaft`
 
-_Definiert den Grundbegriff Erfuellungsaufwand nach NKRG GGO § 44 und HdR. Trennt den Begriff von benachbarten Konzepten (Buerokratiekosten Vollzugskosten Haushaltskosten Folgekosten Sachkosten). Liefert die Standarddefinition wie sie in jeder NKR-Stellungnahme zugrunde gelegt wird sowie methodisc..._
+_Wenn es um NKR-Erfuellungsaufwand für Buerger, Wirtschaft und Verwaltung in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Erfuellungsaufwand Buerger Wirtschaft; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen._
 
-# NKR-Erfuellungsaufwand — Grundbegriff
+# NKR-Erfuellungsaufwand für Buerger, Wirtschaft und Verwaltung
 
 ## Worum geht es konkret
 
-Erfuellungsaufwand ist der **zentrale Prüfgegenstand des NKR**. Der Begriff ist gesetzlich verankert (NKRG, GGO) und methodisch im Leitfaden BMI/NKR konkretisiert. Liefere die Standarddefinition und die Abgrenzung zu anderen Kostenbegriffen.
+Der Erfuellungsaufwand wird methodisch **separat für drei Adressatengruppen** ausgewiesen. Das ist zwingend nach Leitfaden BMI/NKR und Standard in jeder NKR-Stellungnahme.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-- Anfaengerschulung
-- Stellungnahme braucht den Grundbegriff im Aufschlag
-- Ressort verwechselt Erfuellungsaufwand mit Buerokratiekosten
-- Diskussion mit BMF / BRH über Abgrenzung
+- Stellungnahme-Drafting: Tabellenstruktur
+- Ressortentwurf zeigt nur Gesamtsumme
+- Diskussion über Zuordnung (z.B. Selbständige zu Wirtschaft oder Buerger?)
 
-Keine Rueckfrage noetig.
+Rueckfrage nur wenn unklar: *"Welche Adressatengruppe steht im Vordergrund — Buerger, Wirtschaft oder Verwaltung?"*
 
 ## Rechtlicher und methodischer Rahmen
 
-- **§ 4 NKRG** — Prüfungsgegenstand Erfuellungsaufwand
-- **§ 44 GGO** — Gesetzesfolgenabschaetzung
-- **§ 45 GGO** — Darstellung in der Begruendung
+- **§ 4 NKRG** — Prüfungsgegenstand
+- **§ 44 Abs. 4, § 45 GGO** — getrennte Darstellung
 - **Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands** (BMI / NKR)
-- **HdR** Teil C
-
-## Standarddefinition
-
-**Erfuellungsaufwand** ist der gesamte messbare zeitliche **und** finanzielle Aufwand, der bei Buergerinnen und Buergern, der Wirtschaft sowie der öffentlichen Verwaltung durch die **Befolgung** einer bundesrechtlichen Vorschrift entsteht.
-
-Erfuellungsaufwand umfasst alle erforderlichen:
-
-- Tatigkeiten zur Erfuellung einer Pflicht (Antraege, Anzeigen, Berichte, Bauten, Schulungen)
-- Anschaffungen (Geraete, Software, Material)
-- Dienstleistungen Dritter (Berater, Prüfer, Sachverstaendige)
-- internen Prozesse (Schulung, Dokumentation, IT-Anpassung)
+- **DESTATIS Zeitwerttabellen** als Datenbasis
 
 ## Prüfraster / Schritt für Schritt
 
-1. **Pflichtinhalt identifizieren** — welche konkrete Handlung wird angeordnet?
-2. **Adressaten bestimmen** — Buerger / Wirtschaft / Verwaltung
-3. **Aufwandskomponenten zerlegen**:
- - Zeit (Personalstunden)
- - Sachmittel (Material, IT)
- - Externe Dienstleistungen
-4. **Einmalig vs. laufend** trennen
-5. **Pro-Fall-Aufwand** ermitteln
-6. **Fallzahl** ermitteln (jaehrlich)
-7. **Aufwand pro Jahr** berechnen = Fallzahl × Pro-Fall-Aufwand
-8. **Aggregation** über alle Adressatengruppen
-9. **Plausibilisierung** (Vergleich mit Referenzwerten)
+### Buerger
 
-## Abgrenzung zu benachbarten Kostenbegriffen
+- **Adressat**: natuerliche Personen in Privatangelegenheiten
+- **Aufwand**: Zeitaufwand für Antraege, Anzeigen, Belege, Anhörungen
+- **Bewertung**: Zeitkosten (Stand 06/2026 als Bandbreite ca. 28 EUR/h gemäß Leitfaden — vom Anwender mit aktueller Tabelle zu prüfen)
+- **Sachkosten**: nur wenn relevant (z.B. Gebühren, ggf. Notar)
+- **Falltypen**: Antrag stellen, Pflicht erfuellen, Anhörung wahrnehmen
+- **Bandbreiten**: stark adressatenabhaengig (Senioren, Migranten, mit/ohne digitale Affinitaet)
 
-| Begriff | Definition | Wer prüft? |
-|---|---|---|
-| Erfuellungsaufwand | Aufwand für Befolgung der Norm | NKR |
-| Buerokratiekosten | Teilmenge: nur Informationspflichten | NKR (historisch) |
-| Vollzugskosten | Verwaltungsaufwand bei Behörden | NKR (Teil von Erfuellungsaufwand) |
-| Haushaltskosten | Bundeshaushalt | BMF, BRH |
-| Folgekosten | Wirtschaftliche Sekundaereffekte | Wissenschaft, BMF |
-| Sachkosten | Anschaffungen | Teil von Erfuellungsaufwand |
+### Wirtschaft
+
+- **Adressat**: Unternehmen aller Groessen
+- **Aufwand**: Personalkosten plus Sachkosten plus externe Dienstleistungen
+- **Bewertung**: branchenbezogene Lohnsaetze gemäß DESTATIS (z.B. ca. 40-50 EUR/h Verwaltung; 60-100 EUR/h hochqualifiziert — laufende Tabellen sind heranzuziehen)
+- **Sachkosten**: IT, Material, Gutachten
+- **Einmaliger Umstellungsaufwand** vs. laufender Aufwand getrennt
+- **KMU-Differenzierung**: KMU ggf. extra ausweisen
+- **Falltypen**: Berichtspflicht, Anzeige, Compliance-Prozess, IT-Anpassung, Schulung
+
+### Verwaltung
+
+- **Adressat**: Bund, Land, Kommunen
+- **Aufwand**: Personal, IT, Sachmittel; ggf. Gerichte
+- **Bewertung**: Vollkostenrechnung Bund / Land / Kommune (Personalkostentabellen BMF / DESTATIS)
+- **Investitionen**: einmaliger Investitionsbedarf (z.B. Fachverfahren) separat ausweisen
+- **Verteilungsfrage**: welche Ebene traegt? (Konnexitaet, Art. 104a GG)
+- **Falltypen**: Antragsbearbeitung, Aufsicht, Sanktion, Beratung, IT-Betrieb
 
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 
-- Begriff wird vom Ressort eng (nur Buerokratiekosten) ausgelegt
-- Sachmittel oder externe Dienstleistungen werden vergessen
-- Schulungs- oder Anpassungsaufwand fehlt
-- IT-Investitionen nicht erfasst
+- Gesamtsumme ohne Adressatentrennung
+- Buerger-Aufwand "vernachlaessigbar" ohne Begruendung
+- Wirtschaft-Aufwand ohne Lohnsatz-Begruendung
+- Verwaltung-Aufwand auf "für die Verwaltung kostenneutral" gesetzt, obwohl Pflichten neu sind
+- Konnexitaetsfrage nicht angesprochen (Pflicht für Kommunen)
 
 ## Trade-off-Matrix
 
-| Konstellation | Behandlung |
-|---|---|
-| Klare gesetzliche Pflicht | Erfuellungsaufwand 100% einrechnen |
-| Faktische Pflicht (z.B. Befolgungsdruck) | dokumentieren, ggf. einrechnen |
-| Freiwillige Inanspruchnahme | nicht einrechnen, aber transparent machen |
-| Sekundaere Wirtschaftsfolgen | nicht Erfuellungsaufwand, ggf. eigener Abschnitt |
+| Adressat | Zeitwert (Beispiel-Bandbreite) | Hinweis |
+|---|---|---|
+| Buerger | ca. 28 EUR/h | mit aktueller Leitfaden-Tabelle prüfen |
+| Wirtschaft Verwaltung | ca. 40-50 EUR/h | branchenabhaengig |
+| Wirtschaft Spezialisten | ca. 60-100 EUR/h | je nach Qualifikation |
+| Verwaltung Bund mittlerer Dienst | ca. 50-60 EUR/h | Vollkostenrechnung |
+| Verwaltung Bund gehobener Dienst | ca. 65-80 EUR/h | Vollkostenrechnung |
+
+Hinweis: Alle Werte sind Beispiel-Bandbreiten zur Orientierung; verbindlich ist die jeweils aktuelle Lohnkostentabelle des Leitfadens BMI/NKR und die DESTATIS-Personalkostentabelle.
 
 ## Mustertexte / Stellungnahme-Bausteine
 
-- "Der Erfuellungsaufwand bezeichnet gemäß Leitfaden BMI/NKR den gesamten messbaren Zeitaufwand und die Kosten, die durch Befolgung einer Vorschrift bei Buergern, Wirtschaft und Verwaltung entstehen."
-- "Das Vorhaben verursacht nach NKR-Schaetzung einen jaehrlichen Erfuellungsaufwand für die Wirtschaft in Höhe von [X] Mio EUR sowie einen einmaligen Umstellungsaufwand von [Y] Mio EUR."
-- "Die Darstellung des Erfuellungsaufwands beschraenkt sich im Ressortentwurf auf Informationspflichten. Der NKR weist darauf hin, dass auch IT-Anpassungs- und Schulungskosten zum Erfuellungsaufwand gehoeren."
+Tabelle in der Stellungnahme:
+
+| Adressat | einmalig | jaehrlich |
+|---|---|---|
+| Buerger | [X] Mio EUR | [Y] Mio EUR |
+| Wirtschaft | [X] Mio EUR | [Y] Mio EUR |
+| davon KMU | [X] Mio EUR | [Y] Mio EUR |
+| Verwaltung Bund | [X] Mio EUR | [Y] Mio EUR |
+| Verwaltung Länder | [X] Mio EUR | [Y] Mio EUR |
+| Verwaltung Kommunen | [X] Mio EUR | [Y] Mio EUR |
+| **Gesamt** | **[X] Mio EUR** | **[Y] Mio EUR** |
+
+Bausteine:
+
+- "Der Erfuellungsaufwand für Buerger entsteht hauptsaechlich durch [konkrete Pflicht]. Der NKR haelt die zugrundegelegten Fallzahlen für plausibel."
+- "Der Erfuellungsaufwand für die Wirtschaft wird durch [konkrete Pflicht] verursacht. Davon entfallen auf KMU [Anteil]."
+- "Der NKR weist darauf hin, dass der Erfuellungsaufwand für die kommunale Verwaltung in Höhe von [X] Mio EUR die Frage der Konnexitaet aufwirft."
 
 ## Typische Fehler in Ressort-Entwuerfen
 
-- Begriff "Buerokratiekosten" wird mit "Erfuellungsaufwand" gleichgesetzt
-- Sachkosten werden vergessen
-- Folgekosten werden eingerechnet, obwohl nicht Erfuellungsaufwand
-- "Kein nennenswerter Aufwand" ohne Begruendung
+- Nur Gesamtsumme statt aufgeschluesselter Tabelle
+- Verwaltung "kostenneutral" trotz neuer Pflichten
+- KMU nicht ausgewiesen
+- Konnexitaet ignoriert (Pflichten für Länder / Kommunen)
+- Buerger pauschal "geringfuegig"
 
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
-- §§ 44, 45 GGO
+- §§ 44 Abs. 4, 45 GGO
+- Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) inkl. Zeitwerttabellen
+- DESTATIS Verdienststrukturerhebung (jeweils aktuelle Ausgabe)
+- NKR-Jahresbericht (jeweils aktuelle Ausgabe)
+- Live verifizieren über [www.destatis.de](https://www.destatis.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+
+---
+
+## Skill: `verfahrensgang-referentenentwurf-bis-bundestag`
+
+_Wenn es um NKR-Verfahrensgang Referentenentwurf bis Bundestag in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Verfahrensgang Referentenentwurf Bis Bundestag; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen._
+
+# NKR-Verfahrensgang Referentenentwurf bis Bundestag
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Worum geht es konkret
+
+Skill, der den vollstaendigen Lebenszyklus eines Bundesvorhabens entlang der NKR-Andockpunkte darstellt. Pflichtlektuere für jeden neuen NKR-Referenten und Prüfer.
+
+## Wann dieses Modul hilft / Kaltstart-Fragen
+
+- Vorgang ist zeitlich unklar verortet ("Wann hat der NKR welche Frist?")
+- Frist für NKR-Befassung steht im Streit mit Ressort
+- Vorhaben kommt erst spaet aus dem parlamentarischen Verfahren zurueck (Änderungsantrag)
+
+Rueckfrage nur wenn unklar: *"In welcher Phase steht das Vorhaben aktuell?"*
+
+## Rechtlicher und methodischer Rahmen
+
+- **§ 4 NKRG** — Prüfungspflicht
+- **§ 62 GGO** — NKR-Beteiligung vor Kabinettsbefassung
+- **§ 45 GGO** — Erfuellungsaufwand-Darstellung in der Begruendung
+- **§ 47 GGO** — Beteiligung der Länder, Verbaende, Fachkreise
+- **§ 70 GO BT, § 70a GO BT** — Bundestagsverfahren
+- **§ 26 GG, Art. 76, 77 GG** — Gesetzgebungsverfahren
+
+## Prüfraster / Schritt für Schritt
+
+### Phase 1 — Ressort-interne Vorbereitung
+
+- Ressort entwirft Eckpunkte
+- Erste Folgenabschaetzung (intern)
+- **NKR formal nicht beteiligt**, kann aber informell konsultiert werden
+
+### Phase 2 — Referentenentwurf
+
+- Ressort versendet Referentenentwurf
+- **NKR-Befassung beginnt** (Vorlage durch Federfuehrer)
+- Frist: meist 4 Wochen, in Eilfaellen kuerzer
+- Parallele Länder- und Verbaendeanhoerung (§ 47 GGO)
+- NKR-Vorpruefung: Methodik, Vollstaendigkeit, Plausibilitaet
+
+### Phase 3 — Ressortabstimmung
+
+- BMJ-Rechtsfoermlichkeitspruefung
+- BMI-Prüfung Verwaltungstauglichkeit
+- BMF-Prüfung Haushaltsfolgen
+- NKR überprüft ggf. nachgereichte Daten
+
+### Phase 4 — Kabinettsbefassung
+
+- Vorlage an Kabinett mit **NKR-Stellungnahme als Anlage**
+- Kabinettsbeschluss
+- Versendung an Bundesrat (1. Durchgang) und Bundestag
+
+### Phase 5 — Bundesrat 1. Durchgang
+
+- Stellungnahme Bundesrat
+- Gegenaeusserung Bundesregierung
+
+### Phase 6 — Bundestag
+
+- Erste Lesung
+- Federfuehrender Ausschuss; Anhörung
+- **NKR kann zur Anhörung geladen werden** (Skill `nkr-stellungnahme-zum-bundestag-anhoerung`)
+- Änderungsantraege: bei wesentlichen Änderungen erneute NKR-Befassung?
+- Zweite und dritte Lesung; Abstimmung
+
+### Phase 7 — Bundesrat 2. Durchgang
+
+- Zustimmungs- oder Einspruchsgesetz
+- ggf. Vermittlungsausschuss
+
+### Phase 8 — Ausfertigung und Verkuendung
+
+- Art. 82 GG
+- Inkrafttreten
+
+## NKR-Sicht — was triggert eine kritische Stellungnahme
+
+- Frist verkuerzt, ohne Notbegruendung
+- NKR-Stellungnahme nicht der Kabinettsvorlage beigefuegt
+- Wesentliche Änderungen im parlamentarischen Verfahren ohne erneute Befassung
+- Formulierungshilfe statt Referentenentwurf, um NKR zu umgehen
+
+## Trade-off-Matrix
+
+| Phase | NKR-Andockpunkt | Standard-Frist |
+|---|---|---|
+| Referentenentwurf | Vorpruefung, Erstberatung | 4 Wochen |
+| Ressortabstimmung | Nachfrage Daten | 1 Woche |
+| Vor Kabinett | Foermliche Stellungnahme | spaetestens 1 Woche vor Kabinett |
+| Bundestag | ggf. Anhörung | Ad hoc |
+| Wesentliche Änderung | Nachpruefung | je nach Umfang |
+
+## Mustertexte / Stellungnahme-Bausteine
+
+- "Der NKR ist am [Datum] mit dem Vorhaben befasst worden. Die Frist zur Stellungnahme betrug [X] Wochen."
+- "Aufgrund der erheblichen inhaltlichen Änderungen im parlamentarischen Verfahren hat der NKR mit Schreiben vom [Datum] eine ergaenzende Stellungnahme abgegeben."
+- "Der NKR weist darauf hin, dass die Beteiligungsfrist von [X] Werktagen die methodische Vorpruefung nur eingeschraenkt erlaubt."
+
+## Typische Fehler in Ressort-Entwuerfen
+
+- NKR-Befassung als blosse Pflichtuebung mit zu kurzer Frist
+- Datenlieferung erst nach Stellungnahme-Anforderung
+- "Formulierungshilfe" als Umgehung der NKR-Befassung
+- Änderungen vor Kabinett, die der NKR nicht mehr sieht
+
+## Quellen Stand 06/2026
+
+- NKRG vom 14.08.2006 (BGBl. I S. 1866) §§ 4, 6
+- §§ 44, 45, 47, 62 GGO
+- §§ 70, 70a GO BT
+- Art. 76, 77, 82 GG
+- Live verifizieren über Bundesanzeiger und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+
+---
+
+## Skill: `stellungnahme-aufbau-und-format`
+
+_Wenn es um NKR-Stellungnahme — Aufbau und Format in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Stellungnahme Aufbau Und Format; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen._
+
+# NKR-Stellungnahme — Aufbau und Format
+
+## Worum geht es konkret
+
+Stellungnahmen des NKR folgen einem etablierten Standardaufbau. Wer eine NKR-Stellungnahme entwirft, hat eine feste Struktur einzuhalten — wegen Adressatenerwartung (Kabinett, Bundestag, Ressorts) und wegen Konsistenz im Jahresbericht.
+
+## Wann dieses Modul hilft / Kaltstart-Fragen
+
+- Drafting einer neuen Stellungnahme
+- Schulung neuer Referenten
+- Vergleich mit Mustern aus dem Jahresbericht
+
+Rueckfrage nur wenn unklar: *"Welcher Vorhabenstyp — Referentenentwurf zu einem Gesetz, Verordnung, AVV, Formulierungshilfe?"*
+
+## Rechtlicher und methodischer Rahmen
+
+- **§ 6 NKRG** — Form der Stellungnahme
+- **§§ 45, 62 GGO** — Anhang zur Kabinettsvorlage
+- **NKR-Jahresbericht** (jeweils aktuelle Ausgabe) — Praxisstruktur
+- **Leitfaden BMI / NKR** — Inhaltliche Anforderungen
+
+## Standardaufbau (8 Abschnitte)
+
+```
+1. Briefkopf / Vorhabens-Identifikation
+2. Grundsatzfeststellung (Zielsetzung; NKR-Position)
+3. Methodische Bewertung der Erfuellungsaufwand-Darstellung
+4. Pruefraster-Ergebnisse (Erforderlichkeit, Alternativen,
+ Verhaeltnismaessigkeit, KMU, Praktikabilitaet, Digital, OIOO,
+ Evaluation)
+5. Spezialthemen (EU, Digital, Sektor)
+6. Empfehlungen
+7. Ergebnis (foermliche Schlussbewertung)
+8. Hinweise / Vorbehalte / Auftragsbestaetigung
+```
+
+## Prüfraster / Schritt für Schritt
+
+### Abschnitt 1 — Briefkopf
+
+- Vorhabens-Titel (genauer Wortlaut)
+- federfuehrendes Ressort
+- Datum des Referentenentwurfs
+- NKR-Aktenzeichen
+- Datum der Stellungnahme
+
+### Abschnitt 2 — Grundsatzfeststellung
+
+- Zielsetzung des Vorhabens (1-2 Saetze, ressortneutral)
+- NKR-Position zur Erforderlichkeit (Kerntenor, 1 Satz)
+- NKR-Position zur Ausgestaltung (Kerntenor, 1 Satz)
+
+### Abschnitt 3 — Methodische Bewertung
+
+- Anwendung des Leitfaden / SKM
+- Datengrundlagen
+- Vollstaendigkeit
+- Nachvollziehbarkeit
+- Plausibilitaet
+- Schwaechen / Empfehlungen
+
+### Abschnitt 4 — Prüfraster
+
+- Strukturiert nach den NKR-Prüfkriterien
+- Jeweils kurze Bewertung mit Verweis auf Quelle
+
+### Abschnitt 5 — Spezialthemen
+
+- Soweit einschlaegig (EU, Digital, KMU, Konnexitaet)
+
+### Abschnitt 6 — Empfehlungen
+
+- Konkret formuliert
+- nummerierte Liste
+- mit Rechtsfolge / Wirkung
+
+### Abschnitt 7 — Ergebnis (Schlussbewertung)
+
+- Standardformeln:
+ - "Der NKR hat im Rahmen seines gesetzlichen Auftrags keine Einwaende gegen die Darstellung der Gesetzesfolgen."
+ - "Der NKR hat Einwaende gegen die Darstellung des Erfuellungsaufwands."
+ - "Der NKR macht im Hinblick auf den Erfuellungsaufwand folgende Bemerkungen / Empfehlungen."
+
+### Abschnitt 8 — Hinweise
+
+- Vorbehalte
+- Verweise auf Vorberichte / Jahresbericht
+- Unterschriften (Vorsitzender, ggf. weitere Berichterstatter)
+
+## NKR-Sicht — was triggert eine kritische Stellungnahme
+
+- (Innensicht: was vermeiden)
+- Stellungnahme zu lang (Standardlaenge 4-12 Seiten)
+- Stellungnahme zu kurz (unter 2 Seiten bei wesentlichem Vorhaben)
+- Standardformeln nicht verwendet (Wiedererkennbarkeit fehlt)
+- Politische Bewertung statt methodische
+
+## Trade-off-Matrix
+
+| Aspekt | NKR-Standard |
+|---|---|
+| Laenge | 4-12 Seiten |
+| Sprache | nuechtern, behoerdenamtlich |
+| Tonlage | sachlich, mahnend wo noetig, konstruktiv |
+| Empfehlungen | konkret, nummeriert |
+| Eskalationsstufen | Bemerkungen / Empfehlungen / Einwaende / Bedenken |
+
+## Mustertexte / Stellungnahme-Bausteine
+
+### Standardformel Eingang
+
+> "Der Nationale Normenkontrollrat hat den Entwurf eines [Vorhabenstitel] gemäß § 4 NKRG geprueft."
+
+### Standardformeln Grundsatz
+
+- "Der NKR begruesst die Zielsetzung des Vorhabens."
+- "Der NKR begruesst grundsätzlich die Zielsetzung, hat aber Bedenken zur konkreten Ausgestaltung."
+- "Der NKR hat Zweifel an der Erforderlichkeit des Vorhabens in der vorliegenden Form."
+
+### Standardformeln Ergebnis
+
+- "Der NKR hat keine Einwaende gegen die Darstellung der Gesetzesfolgen."
+- "Der NKR hat Einwaende und bittet das Ressort um Nachbesserung der Darstellung des Erfuellungsaufwands."
+- "Der NKR macht im Hinblick auf den Erfuellungsaufwand folgende Bemerkungen ..."
+
+## Typische Fehler in Stellungnahme-Entwuerfen
+
+- Politische Wertung statt Methodenkritik
+- Empfehlungen pauschal ("im weiteren Verfahren zu prüfen")
+- Schlussformel fehlt
+- Ressortname falsch
+- Aktenzeichen fehlt
+- Zu lange Wiederholung der Begruendung des Ressorts
+
+## Quellen Stand 06/2026
+
+- NKRG vom 14.08.2006 (BGBl. I S. 1866) § 6
+- §§ 45, 62 GGO
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
-- Handbuch der Rechtsfoermlichkeit Teil C
-- Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de) und [www.bmi.bund.de](https://www.bmi.bund.de)
+- NKR-Jahresbericht (jeweils aktuelle Ausgabe) — Mustertexte und Praxisbeispiele
+- Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

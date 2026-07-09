@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | GG Art. 1, 3, 20 (Grundrechte, Rechtsstaat); BGB Paragrafen 133, 157, 242 (Auslegung, Treu und Glauben); VwVfG Paragrafen 28, 35, 48, 49 (Anhörung, Verwaltungsakt |
-| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -55,7 +55,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - HGB Paragrafen 238, 257 und AO Paragrafen 146, 147 als Grundlogik für Bücher, Aufzeichnungen und Aufbewahrung, soweit die Meldung buchführungs-/steuerrelevant ist: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - VwVfG Paragrafen 24, 25, 26, 28, 31, 32, 37, 39 für Amtsermittlung, Beratung, Anhörung, Frist, Wiedereinsetzung und Bescheidlogik: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - GmbHG Paragraf 43; Compliance-Pflichten; Fachgesetze: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 7. Antwortform
 

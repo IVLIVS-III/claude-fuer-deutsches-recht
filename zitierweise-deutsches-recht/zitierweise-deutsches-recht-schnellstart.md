@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Paragraf 130 Nr. 6 ZPO; Paragraf 138 Abs. 1 ZPO; Paragraf 253 Abs. 2 ZPO |
-| Rechtsprechung | BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung) |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Arbeitsfokus: Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine. Prüfe diese Anker am Sachverhalt; ergänze nur |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
@@ -55,7 +55,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 540 Abs. 1 ZPO — Berufungsurteil: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 267 Abs. 1 StPO — strafgerichtliche Urteilsgründe: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 117 Abs. 2 VwGO — verwaltungsgerichtliche Urteilsgründe: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 
 ## 7. Antwortform
 

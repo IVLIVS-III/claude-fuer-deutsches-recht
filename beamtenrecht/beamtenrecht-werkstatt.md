@@ -103,7 +103,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BVerwG 2 C 32.10 (amtsangemessene Alimentation)
 - BVerwG 2 C 33.20 (Disziplinarmaßnahme Verhältnismäßigkeit)
 - BVerwG 2 C 4.18 (Konkurrentenstreitverfahren)
-- Konkurrentenstreitverfahren BVerwG 2 C 4.18: Bewerbungsverfahrensanspruch Art. 33 Abs. 2 GG sichern, vor Ernennung
+- BVerwG, 11.10.2016 - 2 C 11.15 als verifizierter Anker zu Art. 33 Abs. 2 GG und Eignungsanforderungen bei Höchstaltersgrenzen
 
 ## 9. Prüfraster
 

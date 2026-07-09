@@ -53,12 +53,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 43a Abs. 4 BRAO — Verschwiegenheitspflicht; Grenzen der Mandatsdokumentation: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 50 BRAO — Pflicht zur Aktenführung und Aufbewahrung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 195 BGB — Regelverjährung; relevant für Hinweise auf noch offene Ansprüche nach Mandatsende: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 675 BGB auf gesetze-im-internet.de: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43a BRAO auf gesetze-im-internet.de: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 20 Abs. 3 GG (Gesetzesbindung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 97 GG (richterliche Unabhängigkeit, Gesetzesbindung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG 1 BvR 730/04 (verfassungskonforme Auslegung)
 - BVerfG 2 BvR 883/14 (Wortlautgrenze)
 - BGH V ZR 250/02 (teleologische Reduktion)
-- Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze
 
 ## 7. Antwortform
 

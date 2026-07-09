@@ -1,27 +1,25 @@
-# Megaprompt: normenkontrolle-bauleitplanung
+# Vollprüfung: normenkontrolle-bauleitplanung
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-10 von 94 Skills des Plugins `normenkontrolle-bauleitplanung`.
+Dieser Vollprüfung enthaelt top-8 von 109 Skills (gekuerzt fuer Chat-Fenster) des Plugins `normenkontrolle-bauleitplanung`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für Normenkontrolle Bauleitplanung: ordnet Rolle (Antragsteller (Anwohner/Nachbargemeinde),…
-2. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Normenkontrolle Bauleitplanung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen…
-3. **spezial-pruefung-erstpruefung-und-mandatsziel** — Pruefung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin normenkontrolle bauleitplanung; schärft Rollen, Belege, F…
-4. **pruefung-erstpruefung-und-mandatsziel** — Prüfung: Erstprüfung, Rollenklärung und Mandatsziel.
-5. **allgemeine-satzungsnormenkontrolle-47-vwgo** — Allgemeine Satzungsnormenkontrolle nach § 47 VwGO: kommunale Satzungen, Landesrechtsverordnungen, Landesrechtseröffnung …
-6. **abwaegungsgebot-1-abs-7-baugb** — Mandant greift Bebauungsplan wegen fehlerhafter Interessenabwaegung an. § 1 Abs. 7 BauGB Abwaegungsgebot. Prüfraster: vi…
-7. **anpassungsgebot-flaechennutzungsplan** — Mandant greift Bebauungsplan an weil er nicht aus dem Flaechennutzungsplan entwickelt wurde. § 8 Abs. 2 BauGB Entwicklun…
-8. **aufstellungsbeschluss-bekanntmachung** — Mandant prüft ob ein Bebauungsplan an einem Verfahrensfehler beim Aufstellungsbeschluss oder der Bekanntmachung leidet. …
-9. **festsetzungskatalog-9-baugb-baunvo** — Mandant greift einzelne Festsetzungen im Bebauungsplan als rechtswidrig an. § 9 BauGB abschließender Festsetzungskatalog…
-10. **jahresfrist-47-abs-2-vwgo** — Mandant moechte Normenkontrollantrag stellen und Anwalt prüft ob die Jahresfrist noch laeuft. § 47 Abs. 2 S. 1 VwGO Jahr…
+1. **einstieg-routing** — Wenn es um Einstieg und Routing in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: klärt Rolle, Ziel, Frist, Unt…
+2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: klärt Rolle, Ziel, Frist, Unterla…
+3. **spezial-pruefung-erstpruefung-und-mandatsziel** — Wenn es um Pruefung: Erstprüfung, Rollenklärung und Mandatsziel in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geh…
+4. **pruefung-erstpruefung-und-mandatsziel** — Wenn es um Prüfung: Erstprüfung, Rollenklärung und Mandatsziel in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht…
+5. **veraenderungssperre-zurueckstellung-14-15-baugb** — Wenn es um Veränderungssperre und Zurückstellung — Paragrafen 14. 15 BauGB in Normenkontrolle Bauleitplanung — Paragraf …
+6. **veraenderungssperre-zurueckstellung-14-15** — Wenn es um Veränderungssperre und Zurückstellung — Paragrafen 14. 15 BauGB in Normenkontrolle Bauleitplanung — Paragraf …
+7. **einstweilige-anordnung-erforderlichkeit-abs** — Wenn es um Einstweilige Anordnung Paragraf 47 Abs. 6 VwGO in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ord…
+8. **antragstellervertretung-zahlen-schwellen-und-berechnung** — Wenn es um Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung in Normenkontrolle Bauleitplanung — Paragraf 4…
 
 ---
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Normenkontrolle Bauleitplanung: ordnet Rolle (Antragsteller (Anwohner/Nachbargemeinde), Gemeinde, OVG), markiert Frist (§ 47 II VwGO 1 Jahr ab Bekanntmachung), wählt Norm (BauGB §§ 1/2/10, § 47 VwGO Normenkontrolle) und Zuständigkeit (OVG/VGH), leitet zum passende..._
+_Wenn es um Einstieg und Routing in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Einstieg und Routing
 
@@ -65,21 +63,22 @@ Dieser Einstieg routet **Normenkontrolle Bauleitplanung** vom ersten Sachverhalt
 
 ## Skill: `kaltstart-triage`
 
-_Einstieg, Schnelltriage und Fallrouting im Normenkontrolle Bauleitplanung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill_
+_Wenn es um Kaltstart Triage in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Normenkontrolle Bauleitplanung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Schnellstart-Workflow
 
@@ -118,7 +117,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 
 ### 1. Intake in 60 Sekunden
 
-Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+Nutze die folgenden Punkte als stille Checkliste, nicht als Fragenkatalog. Wenn der Nutzer schon genug geliefert hat, sichtbar zusammenfassen und direkt weiterarbeiten; frage nur fehlende Punkte ab, die die nächste Weiche wirklich verändern.
 
 | Punkt | Frage | Warum wichtig? |
 |---|---|---|
@@ -313,7 +312,7 @@ Das Plugin strukturiert die Zulaessigkeitsvoraussetzungen (Statthaftigkeit, Antr
 
 ## Skill: `spezial-pruefung-erstpruefung-und-mandatsziel`
 
-_Pruefung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin normenkontrolle bauleitplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung._
+_Wenn es um Pruefung: Erstprüfung, Rollenklärung und Mandatsziel in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Pruefung: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -354,7 +353,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Quellenregel
@@ -367,23 +370,24 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Skill: `pruefung-erstpruefung-und-mandatsziel`
 
-_Prüfung: Erstprüfung, Rollenklärung und Mandatsziel._
+_Wenn es um Prüfung: Erstprüfung, Rollenklärung und Mandatsziel in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Prüfung: Erstprüfung, Rollenklärung und Mandatsziel
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Prüfung Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Normenkontrolle Bauleitplanung** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Arbeitsweg
 
@@ -414,1038 +418,750 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `allgemeine-satzungsnormenkontrolle-47-vwgo`
+## Skill: `veraenderungssperre-zurueckstellung-14-15-baugb`
 
-_Allgemeine Satzungsnormenkontrolle nach § 47 VwGO: kommunale Satzungen, Landesrechtsverordnungen, Landesrechtseröffnung und Abgrenzung zur Inzidentkontrolle.; Normanker: VwGO § 47 Abs. 1 Nr. 2; jeweiliges Landesausführungsgesetz; Kommunalrecht; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar._
+_Wenn es um Veränderungssperre und Zurückstellung — Paragrafen 14. 15 BauGB in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Veraenderungssperre Zurueckstellung 14 15 Baugb; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO._
 
-# Allgemeine Satzungsnormenkontrolle nach § 47 VwGO: kommunale Satzungen, Landesrechtsverordnungen, Landesrechtseröffnung und Abgrenzung zur Inzidentkontrolle.
+# Veränderungssperre und Zurückstellung — §§ 14, 15 BauGB
 
-## Auftrag
+## Arbeitsbereich
 
-Dieser Skill löst § 47 VwGO aus der reinen Bauleitplanung. Er prüft, ob eine im Rang unter dem Landesgesetz stehende Rechtsvorschrift direkt vor dem OVG/VGH überprüft werden kann oder ob nur eine Inzidentkontrolle im Verfahren gegen einen Einzelakt passt.
+Bauherr oder Investor hat Bauantrag eingereicht aber Gemeinde hat Veraenderungssperre verhaengt und Antrag wird zurückgestellt. §§ 14 15 BauGB. Prüfraster: Aufstellungsbeschluss Voraussetzung § 14 Abs. 1 BauGB Wirkung Dauer 2 plus 1 plus Verlaengerungen Entschaedigung § 18 BauGB. Zurückstellung § 15 BauGB als milderes Mittel. Anfechtung § 47 VwGO oder Inzident. Output: Entschaedigungs- und Anfechtungsanalyse Veraenderungssperre. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache B-Plan) und statthaftigkeit-47-vwgo. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
-## Normanker
+## Arbeitsweg
 
-VwGO § 47 Abs. 1 Nr. 2; jeweiliges Landesausführungsgesetz; Kommunalrecht. Vor jeder Ausgabe muss das jeweilige Landesrecht geprüft werden, weil § 47 Abs. 1 Nr. 2 VwGO die Normenkontrolle außerhalb der BauGB-Fälle nur eröffnet, soweit Landesrecht dies bestimmt.
-
-## Prüfprogramm
-
-1. Normtyp: Satzung, Rechtsverordnung, Bebauungsplan, Polizeiverordnung, Benutzungssatzung oder bloßer Verwaltungsakt?
-2. Statthaftigkeit: § 47 Abs. 1 Nr. 1 oder Nr. 2 VwGO, Landesrechtseröffnung, Rang unter Landesgesetz.
-3. Antragsteller: mögliche Rechtsverletzung, Adressat, Eigentümer, Nutzer, Gemeinde, Verband oder Konkurrent.
-4. Frist und Rechtsschutzbedürfnis: Jahresfrist, fortbestehende Beschwer, Parallelverfahren.
-5. Materielle Kontrolle: Ermächtigung, Zuständigkeit, Verfahren, Bekanntmachung, Bestimmtheit, Gleichheit, Verhältnismäßigkeit.
-6. Rechtsfolge: Unwirksamkeit, Bekanntmachung der Entscheidung, Wirkung auf Folgebescheide, neue Satzung.
-
-## Ausgabe
-
-Erzeuge eine Statthaftigkeitsskizze, Satzungs-Red-Team, Eilantragsskizze, Schriftsatzgliederung oder Bürger-/Mandantenbrief.
-
----
-
-## Skill: `abwaegungsgebot-1-abs-7-baugb`
-
-_Mandant greift Bebauungsplan wegen fehlerhafter Interessenabwaegung an. § 1 Abs. 7 BauGB Abwaegungsgebot. Prüfraster: vier Abwaegungsfehler-Stufen Abwaegungsausfall Abwaegungsdefizit Abwaegungsfehleinschaetzung Abwaegungsdisproportionalitaet. § 214 Abs. 3 BauGB filtert nur Vorgangsfehler nicht Er..._
-
-# Abwägungsgebot § 1 Abs. 7 BauGB
-
-## Schritt 1 — Wortlaut und Bedeutung
-
-### § 1 Abs. 7 BauGB
-- Bei der Aufstellung der Bauleitpläne sind die öffentlichen und privaten Belange gerecht gegeneinander und untereinander abzuwägen
-
-### § 2 Abs. 3 BauGB
-- Bei der Aufstellung sind die Belange, die für die Abwägung von Bedeutung sind, zu ermitteln und zu bewerten
-
-### Zwei Säulen
-- Ermittlungspflicht § 2 Abs. 3 BauGB
-- Abwägungspflicht § 1 Abs. 7 BauGB
-
-## Schritt 2 — Vier Stufen Abwägungsfehler (BVerwG)
-
-### Stufe 1 — Abwägungsausfall
-- Überhaupt keine Abwägung stattgefunden
-- Vorfestlegung der Stadt vor Abwägungsbeschluss
-- Reines Abnicken eines vom Investor vorgelegten Konzepts
-- BVerwG, Urteil vom 12.12.1969 – 4 C 105.66
-
-### Stufe 2 — Abwägungsdefizit
-- Abwägung erfolgte, aber relevante Belange nicht eingestellt
-- Übersehen einzelner abwägungserheblicher Belange
-- Folge unvollständiger Ermittlung § 2 Abs. 3 BauGB
-
-### Stufe 3 — Abwägungsfehleinschätzung / Fehlgewichtung
-- Belange erkannt, aber objektiv falsch gewichtet
-- Überschätzung des Plan-Nutzens, Unterschätzung der Belastung
-- Zugrundelegung unzutreffender Tatsachen
-
-### Stufe 4 — Abwägungsdisproportionalität
-- Das Abwägungsergebnis selbst sprengt den Spielraum
-- Schutzgüter werden in einem nicht mehr vertretbaren Maß zurückgestellt
-- Häufig: Lärmwerte deutlich über zumutbarer Grenze, ohne Abhilfe
-
-## Schritt 3 — Beachtlichkeit § 214 Abs. 3 BauGB
-
-### Vorgangsfehler (Stufen 1-3)
-- Nur beachtlich, wenn offensichtlich und auf das Ergebnis von Einfluss
-- Rügefristpflichtig § 215 BauGB
-
-### Ergebnisfehler (Stufe 4)
-- Stets beachtlich
-- Nicht rügepflichtig
-- Strategisch besonders wertvoll
-
-## Schritt 4 — Abwägungsmaterial vollständig ermitteln
-
-### § 2 Abs. 3 BauGB
-- Belange ermitteln und bewerten
-- Ermittlungspflicht ist Voraussetzung sachgerechter Abwägung
-
-### Pflichten der Gemeinde
-- Eigene Ermittlung erforderlich, nicht bloße Übernahme Investor-Gutachten
-- Bei Sachverstandsmangel: Sachverständige hinzuziehen
-- Schallschutzgutachten, Verkehrsgutachten, Artenschutz-Begutachtung
-
-### Häufige Treffer
-- Schallschutzgutachten vom Investor in Auftrag gegeben, ohne Plausibilitätsprüfung
-- Lärmprognose ohne worst-case-Annahme
-- Verkehrsgutachten ohne Berücksichtigung Stadtteil-Verflechtung
-- Artenschutz-Begutachtung nur in falschem Zeitraum
-
-## Schritt 5 — Vorfestlegung als Abwägungsausfall
-
-### Indizien
-- Durchführungsvertrag bereits unterzeichnet vor Aufstellungsbeschluss
-- Investor hat bereits Vermarktungs-Aktivitäten gestartet
-- Stadt hat in Verhandlungen mit Investor verbindliche Zusagen gemacht
-- Aussagen Stadtrats-Mitglieder vor Beschluss: "Wir müssen jetzt durchziehen"
-
-### Beweisführung
-- Akteneinsicht in Verhandlungsprotokolle Stadt-Investor
-- Presse-Recherche
-- Eidesstattliche Versicherungen Sitzungsteilnehmer
-- E-Mail-Korrespondenz aus IFG / Anti-Korruptions-Hinweis
-
-### Rechtsfolge
-- Abwägungsausfall führt zur Unwirksamkeit
-- Nicht heilbar durch nachgeholte Abwägungsdokumentation
-
-## Schritt 6 — Formelhafte Abwägungsdokumentation als Defizit
-
-### Indizien
-- Stellungnahmen werden mit Standard-Sätzen zurückgewiesen
-- Keine Auseinandersetzung mit Substanz der Einwendungen
-- Identische Formulierungen für unterschiedliche Belange
-- Übernahme von Investor-Argumenten ohne Prüfung
-
-### Beweismittel
-- Wortlaut-Vergleich der Abwägungstabelle mit Einwendungen
-- Vergleich verschiedener Einwendungen — gleiche Antwort?
-
-## Schritt 7 — Fehlgewichtung typische Felder
-
-### Wertminderung
-- Stadt darf Wertminderung Mandanten als untergeordnet einstufen, aber nicht ausblenden
-- Wenn Wertminderung nicht erkannt — Defizit
-- Wenn Wertminderung erkannt, aber pauschal abgetan — Fehlgewichtung
-
-### Klima
-- Hitze-Inseln, Frischluftschneisen — bei Verdichtung relevanter Belang
-- Fehlende Erörterung trotz erkennbarer Bedeutung — Defizit
-- Erörterung mit "geringer Bedeutung" trotz Hitzeschwüle — Fehlgewichtung
-
-### Stadtbild
-- Erhaltenswerte Strukturen, Gründerzeit, Bahnhofsensemble
-- Fehlende Erörterung trotz Denkmalbedeutung — Defizit
-- Verdrängung durch wirtschaftliches Interesse — Fehlgewichtung möglich
-
-## Schritt 8 — Disproportionalität konkret
-
-### Lärmschwellen-Sprung
-- Lärmpegel überschreitet Orientierungswerte DIN 18005 um mehr als 5 dB(A)
-- Ohne aktive Schallschutzmaßnahmen
-- Verweis auf passive Schallschutzfenster reicht nicht für Außenwohnbereiche
-
-### Verschattung
-- Mehr als 50% Sonnenschutz an Hauptaufenthaltsräumen
-- Ohne Ausgleich
-
-### Verkehr
-- Verdoppelung Verkehr ohne Erschließungsalternative
-- Sackgassen-Effekt für Anwohner
-
-## Schritt 9 — Abwägungsschriftsatz-Aufbau
-
-### Empfohlener Aufbau
-1. Anspruch auf gerechte Abwägung § 1 Abs. 7 BauGB
-2. Ermittlungspflicht § 2 Abs. 3 BauGB — Defizit Stadt
-3. Vorgangsfehler-Subsumtion (Ausfall / Defizit / Fehlgewichtung)
-4. Offensichtlichkeit und Ergebnis-Relevanz § 214 Abs. 3 BauGB
-5. Ergebnisfehler-Subsumtion (Disproportionalität)
-6. Rüge nach § 215 BauGB (für Vorgangsfehler) referenzieren
-7. Fazit: Antrag auf Unwirksamkeitserklärung
-
-## Quellen
-
-- BauGB §§ 1 Abs. 7, 2 Abs. 3, 214 Abs. 3, 215
-- BVerwG, Urteil vom 12.12.1969 – 4 C 105.66 (Vier-Stufen-Lehre)
-- BVerwG, Urteil vom 5.7.1974 – 4 C 50.72 (Abwägungsausfall)
-- BVerwG, Urteil vom 9.4.2008 – 4 CN 1.07 (Ermittlungspflicht § 2 Abs. 3)
-- BVerwG, Urteil vom 22.9.2010 – 4 CN 2.10 (Offensichtlichkeit)
-
-## Ergänzende Rechtsprechung (Stand 05/2026, verifiziert bverwg.de)
-
-- **BVerwG 11.04.2024, 4 BN 50.23** (Abwaegungsmaengel — Klimaschutz § 1 Abs. 5 S. 2 BauGB): Klimaschutz und Klimaanpassung sind als Belang nach § 1 Abs. 5 S. 2 BauGB zwingend in die Abwaegung einzustellen. Quelle: bverwg.de.
-- **BVerwG 04.05.2022, 4 CN 2.21** (Bauleitplanung Wind/Solar): Anforderungen an Abwaegung bei Konzentrationszonen-Planung; Substantiierungspflicht. Quelle: bverwg.de.
-- **BVerwG 03.04.2020, 4 CN 2.19**: Erhaltungssatzung § 172 BauGB — Anforderungen an Abwaegung und Erforderlichkeit. Quelle: bverwg.de.
-- **BVerwG 23.06.2020, 9 A 22.19** (Klimaschutz-Belang Verkehrsplanung; uebertragbar auf Bauleitplanung): Klima als bei Planungen zwingend einzustellender Belang. Quelle: bverwg.de.
-
-Konkrete Entscheidungen vor Verwendung per bverwg.de mit Datum verifizieren.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 47 VwG
-- § 215 BauGB
-- § 1 BauGB
-- § 214 BauGB
-- § 2 BauGB
-- § 50 BImSchG
-- § 10 BauGB
-- § 9 BauGB
-- § 14 BauGB
-- § 12 BauGB
-- § 44 BNatSchG
-- § 3 BauGB
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
----
-
-## Skill: `anpassungsgebot-flaechennutzungsplan`
-
-_Mandant greift Bebauungsplan an weil er nicht aus dem Flaechennutzungsplan entwickelt wurde. § 8 Abs. 2 BauGB Entwicklungsgebot und Anpassungsgebot. Prüfraster: Entwicklungssaussage des FNP bezogen auf Plangebiet Konflikt FNP-Darstellung vs. B-Plan-Festsetzung Ausnahmen § 8 Abs. 3 und 4 BauGB Par..._
-
-# Anpassungsgebot — Flächennutzungsplan
-
-## Schritt 1 — Wortlaut § 8 BauGB
-
-### § 8 Abs. 1 BauGB
-- Bebauungspläne enthalten die rechtsverbindlichen Festsetzungen für die städtebauliche Ordnung
-
-### § 8 Abs. 2 S. 1 BauGB (Entwicklungsgebot)
-- Bebauungspläne sind aus dem Flächennutzungsplan zu entwickeln
-
-### § 8 Abs. 3 S. 1 BauGB (Parallelverfahren)
-- Vor dem Flächennutzungsplan kann ein Bebauungsplan aufgestellt werden, wenn dringende Gründe es erfordern und der Bebauungsplan der beabsichtigten städtebaulichen Entwicklung nicht entgegensteht
-
-### § 8 Abs. 4 BauGB (selbständiger B-Plan)
-- Ein Bebauungsplan kann aufgestellt werden, ohne dass ein Flächennutzungsplan vorliegt, wenn er der städtebaulichen Entwicklung nicht widerspricht
-
-## Schritt 2 — Entwicklungsgebot — Begriff "Entwickeln"
-
-### Maßstab
-- B-Plan-Festsetzungen müssen aus FNP-Darstellungen "entwickelt" sein
-- Entwicklung verlangt sachlichen Bezug, keine 1:1-Identität
-- Konkretisierung der FNP-Aussage durch B-Plan
-
-### Beispiel
-- FNP: "Wohnbaufläche W"
-- B-Plan: WA (allgemeines Wohngebiet) — entspricht Entwicklungsgebot
-- B-Plan: GE (Gewerbegebiet) — widerspricht Entwicklungsgebot
-
-### Toleranz
-- Geringfügige Abweichungen toleriert
-- Größere Abweichungen erfordern FNP-Änderung im Parallelverfahren oder vorab
-
-## Schritt 3 — Parallelverfahren § 8 Abs. 3 BauGB
-
-### Voraussetzungen
-- Dringende Gründe für vorgezogenen B-Plan
-- B-Plan steht der beabsichtigten städtebaulichen Entwicklung nicht entgegen
-- Tatsächlich praktisch häufig parallel betrieben
-
-### Pflichten
-- FNP-Änderungsverfahren muss eingeleitet sein
-- Beide Pläne werden gemeinsam zur Beschlussfassung gebracht
-- Reihenfolge: erst FNP-Wirksamkeit, dann B-Plan-Wirksamkeit (oder zeitgleich)
-
-### Häufige Treffer
-- B-Plan wird vor FNP-Änderung wirksam
-- Vorgezogener B-Plan ohne dringende Gründe
-- Stadt argumentiert mit "Investor-Druck" — kein dringender Grund
-
-## Schritt 4 — Berichtigungsmöglichkeit § 13a Abs. 2 BauGB
-
-### Voraussetzung
-- B-Plan der Innenentwicklung nach § 13a BauGB
-- Geringfügige Abweichung vom FNP
-
-### Verfahren
-- FNP wird im Wege der "Berichtigung" angepasst
-- Kein förmliches FNP-Änderungsverfahren erforderlich
-- Bekanntmachung Berichtigung im Amtsblatt
-
-### Strategischer Angriffspunkt
-- Wenn die Abweichung in Wahrheit nicht "geringfügig" ist
-- Wenn der B-Plan in Wahrheit nicht Innenentwicklung nach § 13a darstellt
-- Wenn die Berichtigung nicht bekanntgemacht ist
-
-## Schritt 5 — Selbständiger B-Plan § 8 Abs. 4 BauGB
-
-### Anwendungsbereich
-- In Gemeinden ohne wirksamen FNP
-- Bei isolierten Festsetzungen ohne FNP-Bezug
-
-### Voraussetzung
-- B-Plan widerspricht nicht der städtebaulichen Entwicklung
-- Strenge Anforderung — restriktiv anwendbar
-
-### Praxis
-- Selten relevant in größeren Städten mit umfassendem FNP
-- Bei Flecken-Plänen, Sonderzonen denkbar
-
-## Schritt 6 — FNP-Bezug konkret prüfen
-
-### Audit-Schritte
-1. FNP-Auszug für das Plangebiet beschaffen
-2. FNP-Darstellung identifizieren (Wohnbauflache, gemischte Baufläche, Gewerbefläche, Grünfläche, Verkehrsfläche)
-3. B-Plan-Festsetzung mit FNP-Darstellung vergleichen
-4. Bei Abweichung: Parallelverfahren oder Berichtigung dokumentiert?
-
-### Häufige Konstellationen
-- FNP: "gemischte Baufläche" — B-Plan: WA — Entwicklung zulässig
-- FNP: "Wohnbauflache" — B-Plan: MK (Kerngebiet) — problematisch
-- FNP: "Grünfläche" — B-Plan: WA — widerspricht Entwicklungsgebot
-- FNP: "Bahnanlage" — B-Plan: MU (urbanes Gebiet) — FNP-Änderung zwingend
-
-## Schritt 7 — Konflikt Bahn-Anlage / Bahnflächen
-
-### Sonderfall Bahnhofsbrachen
-- Bahnflächen sind häufig im FNP als "Bahnanlage" oder "Fläche für Bahnbetrieb" dargestellt
-- Bei Umwandlung in städtisches Quartier — FNP-Änderung erforderlich
-- Eisenbahnrecht (Allgemeines Eisenbahngesetz, AEG) für Entwidmung relevant
-
-### Entwidmung § 23 AEG
-- Vor B-Plan-Beschluss muss Bahnfläche entwidmet sein
-- Sonst Konflikt mit Eisenbahnrecht
-- Eisenbahn-Bundesamt zuständig
-
-### Strategischer Hebel
-- Wenn Entwidmung nicht vorliegt — B-Plan wirft zwei Probleme auf:
- - FNP-Konflikt
- - Eisenbahnrechts-Konflikt
-- Beides als Verstoß gegen Erforderlichkeit oder beachtlicher Fehler
-
-## Schritt 8 — Rechtsfolge bei Verstoß gegen § 8 Abs. 2 BauGB
-
-### Wirksamkeit
-- Verstoß gegen Entwicklungsgebot ist beachtlich (§ 214 Abs. 2 BauGB)
-- Bei Beachtlichkeit kann Plan unwirksam sein
-- § 215 BauGB-Rügefrist gilt
-
-### Heilung
-- Durch nachträgliche FNP-Änderung und ergänzendes Verfahren
-- Häufiger Heilungsweg der Stadt
-
-## Schritt 9 — Audit-Checkliste
-
-| Punkt | Prüfung |
-|---|---|
-| FNP-Darstellung Plangebiet identifiziert? | |
-| B-Plan-Festsetzung identifiziert? | |
-| Übereinstimmung Entwicklungsgebot? | Ja/nein |
-| Bei Abweichung: Parallelverfahren? | Ja/nein |
-| Bei Abweichung: Berichtigung § 13a Abs. 2 BauGB? | Ja/nein |
-| Bei Bahnflächen: Entwidmung § 23 AEG? | Ja/nein |
-| FNP-Änderung bekannt gemacht? | Ja/nein |
-
-## Quellen
-
-- BauGB §§ 5 8 13a 214
-- AEG § 23
-- BVerwG, Urteil vom 28.2.1975 – 4 C 30.72 (Entwicklungsgebot)
-- BVerwG, Urteil vom 26.2.1999 – 4 CN 6.98 (Parallelverfahren)
-- BVerwG, Urteil vom 27.10.1999 – 11 A 31.98 (Entwidmung Bahnfläche)
-- BayVGH, Urteil vom 5.10.2017 – 15 N 16.1652 (Berichtigung)
-
-## Aktuelle Rechtsprechung — Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 47 VwG
-- § 215 BauGB
-- § 1 BauGB
-- § 214 BauGB
-- § 2 BauGB
-- § 50 BImSchG
-- § 10 BauGB
-- § 9 BauGB
-- § 14 BauGB
-- § 12 BauGB
-- § 44 BNatSchG
-- § 3 BauGB
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
----
-
-## Skill: `aufstellungsbeschluss-bekanntmachung`
-
-_Mandant prüft ob ein Bebauungsplan an einem Verfahrensfehler beim Aufstellungsbeschluss oder der Bekanntmachung leidet. §§ 2 10 BauGB Verfahrenskette. Prüfraster: Aufstellungsbeschluss ortsuebl. Bekanntmachung § 2 Abs. 1 Beschluss als Satzung § 10 Abs. 1 ortsuebliche Bekanntmachung § 10 Abs. 3 Id..._
-
-# Aufstellungsbeschluss und Bekanntmachung
-
-## Schritt 1 — Verfahrenskette im Überblick
-
-### Reguläre Kette
-1. Aufstellungsbeschluss § 2 Abs. 1 BauGB
-2. Frühzeitige Beteiligung Öffentlichkeit § 3 Abs. 1 BauGB
-3. Frühzeitige Beteiligung Behörden § 4 Abs. 1 BauGB
-4. Erarbeitung Planentwurf
-5. Förmliche Beteiligung Öffentlichkeit § 3 Abs. 2 BauGB (Auslegung)
-6. Förmliche Beteiligung Behörden § 4 Abs. 2 BauGB
-7. Ggf. erneute Auslegung bei Änderung § 4a Abs. 3 BauGB
-8. Abwägungsbeschluss
-9. Satzungsbeschluss § 10 Abs. 1 BauGB
-10. Bekanntmachung § 10 Abs. 3 BauGB
-11. Beizustellen: Begründung mit Umweltbericht zur Einsichtnahme
-
-### Beschleunigte Verfahren
-- § 13 BauGB vereinfachtes Verfahren — Schritte verkürzt
-- § 13a BauGB Innenentwicklung — keine Umweltprüfung im Einzelfall
-- § 13b BauGB Außenentwicklung Wohnbau — Befristung beachten
-
-## Schritt 2 — Aufstellungsbeschluss § 2 Abs. 1 BauGB
-
-### Inhalt
-- Beschluss des Gemeinderats, einen B-Plan aufzustellen
-- Räumlicher Geltungsbereich abgrenzbar
-- Planziel und allgemeines Anliegen
-
-### Form
-- Sitzungsöffentlichkeit gewahrt § 52 BayGO
-- Beschlussfähigkeit § 47 BayGO
-- Befangenheit § 49 BayGO geprüft
-
-### Bekanntmachung Aufstellungsbeschluss
-- Ortsübliche Bekanntmachung
-- Häufig Amtsblatt
-- Fehlt die Bekanntmachung — Verfahrensfehler, aber häufig unbeachtlich nach § 214 BauGB
-
-## Schritt 3 — Identität der Planfassung
-
-### Identitätsprüfung
-- Welche Planfassung wurde frühzeitig ausgelegt?
-- Welche Planfassung wurde förmlich ausgelegt?
-- Welche Planfassung wurde als Satzung beschlossen?
-- Welche Planfassung wurde bekanntgemacht?
-
-### Häufige Treffer
-- Beschluss-Vorlage zeigt Plan-Stand vom 15.3., Beschluss verweist auf Plan vom 22.4. — Identitätsfehler
-- Auslegung erfolgte über Plan-Stand 10.1., Beschluss über 5.5. ohne erneute Auslegung — § 4a Abs. 3 BauGB-Verstoß
-- Beschluss umfasst zusätzliche Änderungen die nie ausgelegt waren — beachtlich (§ 214 Abs. 1 S. 1 Nr. 2 BauGB)
-
-## Schritt 4 — Erneute Auslegung § 4a Abs. 3 BauGB
-
-### Pflicht zur erneuten Auslegung
-- Wenn Planentwurf nach Auslegung in der Substanz geändert wird
-- Substanz = Berührung der Grundzüge der Planung
-- Bloße redaktionelle Änderungen genügen nicht für erneute Auslegung
-
-### Begrenzte erneute Auslegung
-- Beschränkung auf die geänderten Teile möglich (§ 4a Abs. 3 S. 2 BauGB)
-- Hinweis im Bekanntmachungstext erforderlich
-- Frist mindestens zwei Wochen
-
-### Häufiger Fehler
-- Stadt erkennt nach Auslegung den Hochbauwunsch des Vorhabenträgers, Aufstockung von 6 auf 8 Geschosse, ohne erneute Auslegung in Beschluss aufgenommen — beachtlich
-
-## Schritt 5 — Satzungsbeschluss § 10 Abs. 1 BauGB
-
-### Beschlussgegenstand
-- Beschluss umfasst Planurkunde, textliche Festsetzungen, Begründung mit Umweltbericht
-- Beschluss in einem Akt — kein Aufspalten zulässig
-
-### Beschlussvorlage
-- Vollständig zur Sitzung ausgelegt
-- Sieben Tage vor Sitzung an Stadträte verteilt (Bayern: § 47 Abs. 2 BayGO)
-- Abwägungsdokumentation als Anlage
-
-### Sitzungsöffentlichkeit
-- Beratung und Beschluss in öffentlicher Sitzung § 52 BayGO
-- Nichtöffentliche Beratung bei B-Plan-Beschluss in der Regel rechtswidrig
-
-## Schritt 6 — Bekanntmachung § 10 Abs. 3 BauGB
-
-### Inhalt der Bekanntmachung
-- Bezeichnung des Plans
-- Geltungsbereich
-- Inkrafttreten
-- Ort der Einsichtnahme in den Plan
-- Hinweis auf § 215 BauGB-Rügefrist
-- Hinweis auf § 44 BauGB-Entschädigungsanspruch
-- Hinweis auf Beachtlichkeit nach § 214 BauGB
-
-### Anstoßfunktion
-- BVerwG, Beschluss vom 15.4.1988 – 4 N 4.87
-- Bekanntmachung muss Anstoß-funktion erfüllen
-- Bürger muss erkennen können, dass und wo er sich informieren kann
-- Bei zu allgemeiner Bezeichnung — Anstoßfunktion verletzt
-
-### Form der Bekanntmachung
-- Ortsüblich nach Hauptsatzung der Gemeinde
-- Amtsblatt regelmäßig vorgesehen
-- Ersatzbekanntmachung bei umfangreichen Plänen möglich (§ 10 Abs. 3 S. 2 BauGB)
-- Online-Veröffentlichung als zusätzliche Option, nicht ausreichend allein
-
-## Schritt 7 — Häufige Treffer in der Bekanntmachung
-
-| Fehler | Beachtlichkeit |
-|---|---|
-| Falsches Aktenzeichen / Plannummer | Anstoßfunktion verletzt — beachtlich |
-| Fehlender Hinweis auf § 215 BauGB | Rügefrist läuft nicht — strategisch wichtig |
-| Fehlender Hinweis auf § 44 BauGB | Entschädigungsanspruch bleibt — meist nicht beachtlich für Plan-Wirksamkeit |
-| Falscher Einsichtsort | Anstoßfunktion verletzt — beachtlich |
-| Geltungsbereich nur grob beschrieben | Anstoßfunktion fraglich |
-| Bekanntmachung in nicht ortsüblicher Form | Wirksamkeit fraglich |
-
-## Schritt 8 — Audit-Vorgehen
-
-### Beschaffung
-- Auszug Sitzungsniederschrift Aufstellungsbeschluss
-- Auszug Sitzungsniederschrift Satzungsbeschluss
-- Beschlussvorlagen
-- Auslegungsnachweise (Auslegungsverfügung, Auslegungsbeginn, Auslegungsende)
-- Bekanntmachungsexemplare aller Verfahrensschritte (Aufstellungs-Bek., Auslegungs-Bek., Satzungs-Bek.)
-
-### Tabellarisches Audit
-- Zeile pro Verfahrensschritt
-- Spalten: Datum, Beschlussfähigkeit, Befangenheit, Bekanntmachung, Anstoßfunktion ja/nein, Fehler ja/nein, Beachtlichkeit
-- Auswertung am Schluss
-
-## Quellen
-
-- BauGB §§ 2 3 4 4a 9 10 13 13a 13b 44 214 215
-- BayGO Art. 47 49 52
-- BVerwG, Beschluss vom 15.4.1988 – 4 N 4.87 (Anstoßfunktion)
-- BVerwG, Urteil vom 18.7.2013 – 4 CN 3.12 (Identität Planfassung)
-- BVerwG, Beschluss vom 18.12.1987 – 4 NB 2.87 (Ortsüblichkeit)
-
-## Aktuelle Rechtsprechung — Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
----
-
-## Skill: `festsetzungskatalog-9-baugb-baunvo`
-
-_Mandant greift einzelne Festsetzungen im Bebauungsplan als rechtswidrig an. § 9 BauGB abschließender Festsetzungskatalog BauNVO. Prüfraster: Festsetzungen außerhalb des Katalogs unwirksam BauNVO Art und Mass bauliche Nutzung GRZ GFZ Vollgeschosse Hoechstgrenzen § 17 BauNVO Stellplaetze § 9 Abs. 1..._
-
-# Festsetzungs-Katalog § 9 BauGB iVm BauNVO
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: VwGO § 47 Abs. 2 Antrag 1 Jahr nach Bekanntmachung, BauGB § 3 Abs. 2 Auslegung 1 Monat, Einwendungen 1 Monat, § 215 BauGB Rüge formeller/materieller Fehler 1 Jahr.
+- Tragende Normen verifizieren: VwGO § 47, BauGB §§ 1, 1a, 2, 3, 4, 4a, 10, 13, 13a, 13b, 30, 34, 35, BImSchG, BNatSchG, UVPG, EU-Plan-UP-RL 2001/42 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Antragsteller (Eigentümer, Gemeinde, Verband), Gemeinde als Antragsgegnerin, OVG/VGH (zuständig), BVerwG (4. Senat), Träger öffentlicher Belange.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Bebauungsplan, Begründung mit Umweltbericht, Abwägungsmaterial, Beteiligungsstellungnahmen, Satzungsbeschluss, Normenkontrollantrag, Eilantrag § 47 Abs. 6 VwGO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Eingaben
 
-- Bebauungsplan-Festsetzungen (textlich beschrieben)
-- Planzeichnung (soweit zugänglich)
-- Bezugnahme auf BauNVO-Fassung
-- Bezug zu sonstigen Spezialgesetzen (BImSchG, BNatSchG, AEG)
+- Plan-Stand (Aufstellungsbeschluss vorhanden? Konkretisierungs-Stand?)
+- Vorhandensein konkreter Bauanträge / Bauvoranfragen
+- Bestehende Veränderungssperre oder Zurückstellung?
+- Dauer bisheriger Sicherungs-Maßnahmen
+- Vertragslage (Durchführungsvertrag mit Vorhabenträger?)
 
-## Schritt 1 — § 9 BauGB als abschließender Katalog
+## Schritt 1 — Veränderungssperre § 14 BauGB
 
-### Geltung
+### Voraussetzungen
 
-- § 9 Abs. 1 BauGB enthält 26 nummerierte Festsetzungs-Tatbestände (Nr. 1 bis 26)
-- § 9 Abs. 2 erweitert für besondere Fälle
-- § 9 Abs. 3 vorhabenbezogene Bebauungspläne § 12 BauGB
-- § 9 Abs. 4 ergänzende Regelungen
-- § 9 Abs. 5, 6, 7 Hinweise und Kennzeichnungen (nicht Festsetzungen)
-- § 9 Abs. 8 Begründungs-Erfordernis
+a) **Aufstellungsbeschluss** für Bebauungsplan, der für das Gebiet gelten soll
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+c) **Sicherungs-Bedürfnis** zur Wahrung der Plan-Ziele
 
-### Konsequenz Abschließlichkeit
+### Inhalt § 14 Abs. 1 BauGB
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Bezugnahme auf Spezialgesetze nur soweit § 9 BauGB dies zulässt
-- Konstruktion **"Hinweise"** vs. **Festsetzungen** entscheidend
+Während der Sperre dürfen nicht durchgeführt werden:
 
-## Schritt 2 — Kern-Festsetzungen § 9 Abs. 1
+a) Vorhaben im Sinne des § 29 BauGB
+b) erhebliche oder wesentliche wertsteigernde Veränderungen von Grundstücken (Hilfsweise Erläuterungs-Sperre)
 
-### Nr. 1 — Art der baulichen Nutzung
+### Ausnahmen § 14 Abs. 2 BauGB
 
-- Konkretisierung über BauNVO §§ 2 bis 9, 11
-- Baugebietstypen: WS, WR, WA, WB, MD, MI, MU, MK, GE, GI, SO
-- Ausnahmen und Beschränkungen § 1 Abs. 4-9 BauNVO
+- Wenn das Vorhaben den Zielen des Bebauungsplans nicht entgegensteht
+- Ausnahme-Erteilung durch Gemeinde im Einzelfall
 
-### Nr. 2 — Maß der baulichen Nutzung
+### Dauer § 17 BauGB
 
-Drei Faktoren nach § 16 ff. BauNVO:
-- Grundflächenzahl GRZ (§ 19 BauNVO)
-- Geschossflächenzahl GFZ (§ 20 BauNVO)
-- Höhe baulicher Anlagen — Wandhöhe, Firsthöhe, Geschoßzahl (§ 18 BauNVO)
-- Bei Festsetzung mehrerer Maß-Werte: kumulativ einzuhalten
+- **Zwei Jahre** Regelfall
+- **Plus ein Jahr** Verlängerung möglich (Stadtratsbeschluss)
+- **Plus ein weiteres Jahr** bei besonderen Umständen (insgesamt max. vier Jahre)
 
-#### Höchstgrenzen § 17 BauNVO
+### Beschluss und Bekanntmachung
 
-| Gebietsart | GRZ | GFZ | Bauliche Anlagenhöhe |
-|---|---|---|---|
-| WS, WR | 0,4 | 1,2 | – |
-| WA, WB | 0,4 | 1,2 (WB 1,6) | – |
-| MD | 0,6 | 1,2 | – |
-| MI, MU | 0,6/0,8 | 1,2/3,0 | – |
-| MK | 1,0 | 3,0 | – |
-| GE | 0,8 | 2,4 | – |
-| GI | 0,8 | 2,4 | – |
-| Sondergebiete | nach Festsetzung | nach Festsetzung | – |
+- Stadtratsbeschluss erforderlich
+- Bekanntmachung wie Bebauungsplan-Satzung (§ 14 Abs. 4 BauGB iVm § 10 BauGB)
+- Mit Bekanntmachung Wirkung
 
-#### Überschreitung § 17 Abs. 2 BauNVO
+## Schritt 2 — Zurückstellung § 15 BauGB
 
-- Nur bei besonderen städtebaulichen Gründen
-- Begründung im Plan zwingend
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+### Voraussetzungen
 
-### Nr. 3 — Überbaubare und nicht überbaubare Grundstücksflächen
+a) **Aufstellungsbeschluss** liegt vor
+b) **Konkretes Bauvorhaben** angemeldet (Bauantrag, Bauvoranfrage)
+c) **Befürchten** dass das Vorhaben die Plan-Entwicklung gefährdet
 
-- Baulinien, Baugrenzen, Bauteppich
-- Bauweise (offen, geschlossen, abweichend)
+### Mildere Maßnahme zur Veränderungssperre
 
-### Nr. 4 — Stellplätze und Garagen
+- Gilt nur für einzelne, konkrete Vorhaben
+- Antrag des Bauherrn wird **zurückgestellt** (nicht beschieden)
+- Bauherr kann nicht weiter realisieren bis Ende der Zurückstellung
 
-- Eingeschränkt nutzbar — meist Verweis auf Landesbauordnung
-- Konkurrenz mit Art. 47 ff. BayBO
-- Stellplatzsatzung der Gemeinde nach Art. 81 BayBO
+### Dauer
 
-### Nr. 5 — Flächen für Gemeinbedarf
+- **Maximal zwölf Monate** (§ 15 Abs. 1 Satz 2 BauGB)
+- **Verlängerung um sechs Monate** bei besonderen Umständen (§ 15 Abs. 1 Satz 3)
+- Insgesamt 18 Monate
 
-- Schulen, Kindertagesstätten, kirchliche Anlagen, Verwaltung
-- Konkretisierung über Nutzungs-Zweck
+### Rechtsfolgen
 
-### Nr. 6 — Verkehrsflächen
+- Bauherr behält Antragsrecht — wird nur ausgesetzt
+- Nach Ablauf der Zurückstellung muss beschieden werden
+- Bei Plan-Beschluss vor Ablauf: Bescheidung nach neuem Plan
+- Bei Plan-Verzögerung über Frist hinaus: Bescheidung nach altem Recht
 
-- Öffentliche Straßen, Wege, Plätze, Stellplätze für Fahrräder etc.
-- Bahnflächen sind grundsätzlich § 38 BauGB-Spezialregelung (siehe unten)
+## Schritt 3 — Entschädigungs-Pflicht § 18 BauGB
 
-### Nr. 10 — Grünflächen
+### Voraussetzungen
 
-- Öffentliche und private Grünflächen
-- Hier auch festsetzbar: Spielplätze, Bestattungsstätten, Friedhöfe
+- Veränderungssperre länger als **vier Jahre** in Kraft
+- Eigentümer hat zumutbare Nutzungsmöglichkeiten verloren
+- Anspruch auf Entschädigung nach § 42 BauGB analog
 
-### Nr. 14 — Flächen für Versorgungs-Anlagen
+### Bemessung
 
-- Elektrizität, Gas, Wasser, Wärme, Kommunikation
-
-### Nr. 15 — Flächen für Lagerung von Wasser und Abwasser
-
-### Nr. 18 — Flächen für Maßnahmen zum Schutz, zur Pflege und zur Entwicklung von Boden, Natur und Landschaft
-
-- Wichtig für Eingriffs-Ausgleich
-- Externes Ausgleichs-Bereich nach § 9 Abs. 1a BauGB
-
-### Nr. 21 — Schutzpflichten gem. § 41 BImSchG
-
-- Aktive und passive Schallschutz-Maßnahmen
-
-### Nr. 24 — Festsetzung zur Erhaltung gesunder Wohn- und Arbeitsverhältnisse
-
-- Passiver Schallschutz, gestaltete Außenwohnbereiche
+- Wertminderung im Sinne der Eigentumsgarantie
+- Wirtschaftliche Folgen für Eigentümer
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Schritt 3 — Festsetzungen außerhalb § 9 BauGB
+## Schritt 4 — Wirkung auf Vorhabenträger / Bauherrn
 
-### Häufige Fehler
+### Bei bestehender Veränderungssperre
 
-#### Fehler 1: Dynamische Verweisung auf Spezialgesetze
+- **Kein neuer Bauantrag möglich** im gesperrten Gebiet (außer Ausnahme-Erteilung § 14 Abs. 2)
+- Bauanträge werden abgelehnt oder zurückgestellt
+- Wirtschaftliche Folge erheblich (Finanzierungs-Kosten)
 
-- "Es gelten die Anforderungen der DIN xxxx in der jeweils geltenden Fassung"
-- Problematisch: Dynamische Verweisung auf ändernde Spezial-Regelungen
+### Bei Zurückstellung
+
+- Bauantrag bleibt anhängig, aber wird nicht beschieden
+- Bauherr kann auf Bescheidung klagen (Untätigkeits-Klage § 75 VwGO)
+
+### Bei "vertraglich-faktischer Sperre"
+
+- Stadt hat keine § 14-Sperre erlassen, aber durch Durchführungs-Vertrag Konkurrenz-Vorhaben praktisch ausgeschlossen
+- Rechtsschutz dann schwieriger
+- Argumentation: städtebaulicher Vertrag bewirkt Vorprägung
+
+## Schritt 5 — Anfechtung Veränderungssperre
+
+### Statthafter Rechtsweg
+
+- **Normenkontrollantrag** § 47 VwGO (Veränderungssperre ist Satzung)
+- **Inzident** im Anfechtungsverfahren gegen Bauablehnung
+- **Untätigkeits-Klage** bei Zurückstellung mit Bauantrag-Druck
+
+### Begründetheit-Punkte
+
+#### Aufstellungsbeschluss formal mangelhaft
+
+- Bekanntmachungs-Fehler
+- Beschluss-Fehler
+
+#### Konkretisierungs-Mangel
+
+- Plan-Ziele zu unbestimmt
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-#### Fehler 2: Mobilitätskonzept als Festsetzung
+#### Verhältnismäßigkeit
 
-- Häufig: B-Plan setzt "Mobilitätskonzept ist Bestandteil der Satzung" fest
-- Problematisch: Konkrete Inhalte oft nicht in der Satzung, sondern nur in Anlagen-Papier
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Maßnahme nicht erforderlich
+- Mildere Mittel verfügbar (z.B. Zurückstellung)
+- Übermäßige Geltungsdauer
 
-#### Fehler 3: Energetische Anforderungen über GEG-Standard
+#### Entschädigungs-Frage
 
-- Festsetzung "Effizienzhaus 40" — zulässig nur als Festsetzung der Erschließungs-Tiefenstandards
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Bei längerer Dauer (über vier Jahre) Anspruch nach § 18 BauGB
 
-#### Fehler 4: Werbe-Anlagen und Außengastronomie
+## Schritt 6 — Prüfraster aus Bauherrn-Sicht
 
-- Über § 9 BauGB nur eingeschränkt regelbar
-- Konkurrenz mit § 81 BayBO örtliche Bauvorschriften — meist diese Norm einschlägig
+### Erste Schritte bei Sperre
 
-#### Fehler 5: Photovoltaik-Pflichten
+- Bekanntmachungs-Daten prüfen (Beginn, voraussichtliches Ende)
+- Aufstellungsbeschluss anfordern (Akteneinsicht)
+- Konkretisierungs-Stand bewerten
 
-- Über § 9 Abs. 1 BauGB problematisch
-- Landesrechtliche Erlaubnis: Art. 44a BayBO (seit 01/2025)
+### Optionen
 
-## Schritt 4 — § 9 Abs. 5 6 7 BauGB Hinweise
+- **Ausnahme-Antrag § 14 Abs. 2 BauGB** wenn Vorhaben nicht plan-widrig
+- **Anfechtung** der Sperre wenn formal mangelhaft
+- **Entschädigungs-Antrag** nach Ablauf vier Jahre
+- **Verkauf** des Vorhabens wenn Realisierungs-Verzögerung unzumutbar
 
-### § 9 Abs. 5 — Vermerk im Plan
+## Schritt 7 — Prüfraster aus Nachbar-Sicht
 
-- Bauflächen mit erheblichen Bodennutzungs-Beschränkungen
-- Z.B. Altlasten, Bergbauschäden
+### Bei Bauantrag des Nachbarn trotz Plan-Verfahrens
 
-### § 9 Abs. 6 — Festsetzungen aus anderen Vorschriften
+- Wird die Bau-Genehmigung trotz laufendem Plan-Verfahren erteilt?
+- Hat die Gemeinde Veränderungssperre / Zurückstellung erwogen?
+- Wenn nicht: warum nicht?
 
-- Soweit andere Rechtsvorschriften Inhalts-Festsetzungen erlauben
-- Z.B. Ausgleichs-Flächen nach Naturschutzrecht
+### Argumentation gegen Bau-Genehmigung
 
-### § 9 Abs. 7 — Geltungsbereich
+- Gemeinde hat trotz drohender Plan-Widrigkeit nicht zurückgestellt
+- Bauherr profitiert vom "dem ersten kommt das Recht"
+- Bei plangleichem Vorhaben Indiz für Gefälligkeitsplanung
 
-- Räumlicher Geltungsbereich
+## Schritt 8 — Stadtplanungs-Sicht
 
-## Schritt 5 — Bahnflächen § 38 BauGB
+### Sicherung der Plan-Entwicklung
 
-### Grundsatz
+- Bei Plan-Beginn früh erwägen
+- Veränderungssperre eher als Schutz
+- Bei einzelnem konkreten Konflikt-Vorhaben: Zurückstellung
 
-- Für Bahnflächen gelten Sondervorschriften
-- BauGB-Festsetzungen sind eingeschränkt
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+### Risiken Veränderungssperre
 
-### Konsequenz für nicht-entwidmete Bahnflächen
+- Bei Anfechtung Sperre-Fall
+- Entschädigungs-Pflicht ab vier Jahren
+- Imageschaden bei zu strenger Anwendung
 
-- Stadt kann keine baulichen Festsetzungen treffen
-- Vor Entwidmung nach § 23 AEG kein wirksamer B-Plan möglich
-- Bei dennoch erfolgter Festsetzung: Teil-Nichtigkeit oder Gesamt-Nichtigkeit
+## Schritt 9 — Konkurrenz zu privatrechtlichen Sicherungs-Instrumenten
 
-### Prüfungs-Schritt
+### Vertragliche Sicherung
 
-- Welche Flurstücke sind als Bahnflächen vermerkt?
-- Liegt eine Entwidmungs-Entscheidung der Eisenbahn-Verwaltung vor?
-- Datum Entwidmung vs. Datum Satzungs-Beschluss
+- Bei Durchführungs-Vertrag mit Vorhabenträger faktische Sperre für andere
+- Aber keine Veränderungssperre im rechtlichen Sinne
+- Folge: Konkurrenz-Vorhaben können trotzdem beantragen
 
-## Schritt 6 — Hochhäuser, Gebäude-Hochhaus-Verordnung
+### Vorkaufsrecht § 24 BauGB
 
-### Bayerische Hochhaus-Richtlinie
+- Allgemeines Vorkaufsrecht der Gemeinde
+- Bei privater Veräußerung im Plangebiet
+- Sicherung Plan-Entwicklung möglich
 
-- Gebäude über 22 m Hochhaus nach Art. 2 Abs. 4 BayBO
-- Brandschutz-Anforderungen
-- Festsetzung Hochhaus-Standorte über § 9 Abs. 1 Nr. 1 + Nr. 2 BauGB
+## Schritt 10 — Verfahren bei Klage
 
-### Höhen-Festsetzung
+### Inzidente Prüfung
 
-- Wand-/Trauf-/First-Höhe nach § 18 BauNVO
-- Bezugshöhe muss klar definiert sein
+- In Bauablehnungs-Klage Verwaltungsgericht
+- Veränderungssperre wird auf Wirksamkeit geprüft
+- Bei Unwirksamkeit Bauantrag zu bescheiden nach altem Recht
 
-### Verschattung
+### Normenkontrollantrag
 
-- Bei Hochhäusern Verschattungs-Studie erforderlich
-- Ermittlungspflicht § 2 Abs. 3 BauGB
-- Im Plangebiet-Inneren und in Nachbarschaft
+- Vor OVG / VGH
+- Frist ein Jahr § 47 Abs. 2 VwGO
+- Antragsbefugnis: Eigentümer im Sperre-Gebiet, Nachbarn mit konkreter Beeinträchtigung
 
-## Schritt 7 — Stellplatz-Festsetzungen
+### Eilantrag § 47 Abs. 6 VwGO
 
-### Rechtsgrundlage
-
-- § 9 Abs. 1 Nr. 4 BauGB (Stellplätze und Garagen)
-- Art. 47 BayBO Grundsatz Stellplatzpflicht
-- Art. 81 BayBO Stellplatzsatzung als örtliche Bauvorschrift
-
-### Reduzierung durch B-Plan
-
-- Art. 47 Abs. 2 Satz 2 BayBO: B-Plan kann abweichend festsetzen
-- Voraussetzungen:
- - städtebauliche Rechtfertigung
- - anderweitige Bedarfsdeckung (z.B. ÖPNV-Nähe, Mobilitätskonzept)
- - Verhältnismäßigkeit
-
-### Praktische Höchstgrenze
-
-- Reduzierung über 50 % verlangt besondere Begründung
-- Bei nahezu vollständigem Stellplatz-Verzicht: tragfähiges Mobilitätskonzept zwingend
-
-## Schritt 8 — Schallschutz-Festsetzungen
-
-### Rechtsgrundlage
-
-- § 9 Abs. 1 Nr. 24 BauGB (Erhaltung gesunder Wohn-/Arbeitsverhältnisse)
-- § 9 Abs. 1 Nr. 21 BauGB (Schutz-Maßnahmen nach BImSchG)
-
-### Festsetzungs-Typen
-
-- **Aktiver Schallschutz** — Lärmschutzwall, -wand (Festsetzung Lage, Höhe)
-- **Passiver Schallschutz** — Schalldämmungs-Anforderungen Außenbauteile
-- **Festsetzung Außenwohnbereiche** — bei zulässigen Pegeln
-
-### DIN 18005
-
-- Orientierungswerte:
- - Reines Wohngebiet 50 dB(A) Tag / 35 dB(A) Nacht
- - Allgemeines Wohngebiet 55 / 40 dB(A)
- - Mischgebiet 60 / 45 dB(A)
- - Urbanes Gebiet 63 / 48 dB(A)
-- Statische Bezugnahme zulässig
-
-### TA Lärm
-
-- Bei Anlagen-Festsetzungen
-- Statische Bezugnahme
-
-## Schritt 9 — Naturschutz-Festsetzungen
-
-### § 9 Abs. 1 Nr. 18 BauGB
-
-- Maßnahmen zum Schutz, zur Pflege und zur Entwicklung von Boden, Natur und Landschaft
-- Externe Ausgleichs-Maßnahmen § 9 Abs. 1a BauGB
-
-### § 9 Abs. 1 Nr. 20 BauGB
-
-- Flächen für Maßnahmen zum Schutz vor Naturgewalten
-- Hochwasserschutz, Bodenerosionsschutz
-
-### Verzahnung BNatSchG
-
-- Eingriffs-Ausgleichs-Bilanz nach § 18 BNatSchG
-- Festsetzung Vermeidungs-, Minderungs- und Ausgleichs-Maßnahmen
-
-## Schritt 10 — Prüfraster für Mandanten-Vertretung
-
-### Schritt 10.1 — Festsetzungs-Inventar
-
-- Welche Festsetzungen enthält der Plan?
-- Jeweils Rechtsgrundlage benennen lassen
-
-### Schritt 10.2 — Außerhalb-Katalog-Prüfung
-
-- Sind Festsetzungen ohne erkennbare Rechtsgrundlage in § 9 BauGB?
-- Bei Verstoß: Teil-Nichtigkeit / Gesamt-Nichtigkeit?
-
-### Schritt 10.3 — Höchstgrenzen-Prüfung § 17 BauNVO
-
-- Werden GRZ/GFZ überschritten?
-- Liegen die Voraussetzungen für Überschreitung § 17 Abs. 2 BauNVO vor?
-- Begründung im Plan ausreichend?
-
-### Schritt 10.4 — Dynamische Verweisungen
-
-- Bezugnahme auf "jeweils geltende Fassung" einer DIN-Norm?
-- Dynamische Verweisung unzulässig → Bestimmtheits-Mangel
-
-### Schritt 10.5 — Mobilitätskonzept-Festsetzung
-
-- Konkret in der Satzung oder nur in Anlage?
-- Bestimmtheit ausreichend?
+- Aufschiebende Wirkung gegen Sperre
+- Bei Eilbedürftigkeit (z.B. Genehmigungs-Frist läuft)
 
 ## Schritt 11 — Anwendung auf Bebauungsplan Augsburg Nr. 900
 
-**Beispielsfälle:**
+**Erkenntnis aus dem Fall:**
 
-a) **§ 11 Satzung "Mobilitätskonzept"** — Anlage B-1, nur Stichpunktliste. Bestimmtheits-Mangel.
+Die Stadt Augsburg hat **keine Veränderungssperre** im Bahnhofsviertel West verhängt. Stattdessen sicherte sie die Plan-Entwicklung durch den **Durchführungs-Vertrag vom 12.05.2022** — faktische Sperre.
 
-b) **§ 12 Satzung "Energetische Anforderungen"** — Festsetzung "KfW-Effizienzhaus 40". Bezugnahme auf "den jeweils gültigen Standard nach GEG bezogen" — dynamische Verweisung, problematisch.
+**Bewertung:**
 
-c) **§ 9 Abs. 4 Satzung "Künstliche Nisthilfen"** — Festsetzung 60 Mauersegler-Nisten + 30 Mehlschwalben-Nisten. § 9 Abs. 1 Nr. 18 BauGB iVm BNatSchG einschlägig. Festsetzung zulässig.
+a) Die Stadt hätte rechtlich die Möglichkeit gehabt, mit Aufstellungs-Beschluss 14.06.2022 zugleich eine Veränderungssperre nach § 14 BauGB zu erlassen.
 
-d) **§ 13 Satzung "Materialgebote Fassaden"** — Stoff- und Farbgebote. Über Art. 81 BayBO örtliche Bauvorschrift einschlägig — § 9 BauGB nicht ausreichend.
+b) Sie hat darauf verzichtet, weil der Vorhabenträger einziger relevanter Eigentümer der Plan-Flächen war.
 
-e) **§ 6 Satzung "Stellplatz 0,3/WE"** — Reduzierung auf 30 % der Stellplatzsatzung-Werte. Art. 47 Abs. 2 Satz 2 BayBO grundsätzlich zulässig, aber **70 % Reduzierung benötigt tragfähiges Mobilitätskonzept**. Im konkreten Fall fragwürdig.
+c) Stattdessen hat sich die Stadt durch den Durchführungs-Vertrag faktisch gebunden — und damit den Schutz vor Konkurrenz-Vorhaben durch privatrechtliche Vereinbarung erreicht.
 
-f) **§ 18 Satzung "Bahnflächen"** — Hinweis auf nicht-entwidmete DB-Flächen. § 38 BauGB einschlägig — **keine Festsetzungen zulässig** auf nicht-entwidmeten Bahnflächen.
+d) Damit: **kein § 14-Verfahren möglich**, aber **Indiz für Gefälligkeitsplanung** im Hauptsache-Verfahren.
+
+**Bauantrag MU 3 vom 02.07.2024** des Vorhabenträgers — **18 Tage nach Bekanntmachung**:
+
+- Vorhabenträger nutzt schnelle Anschluss-Realisierung
+- Erschwert Eilantrag im Normenkontroll-Verfahren (Vollzugs-Folge bereits eingetreten?)
+- Begründet aber gerade die Eilbedürftigkeit für Antragstellerseite
 
 ## Verzahnung mit anderen Skills
 
-- `erforderlichkeit-1-abs-3-baugb`
-- `abwaegungsgebot-1-abs-7-baugb`
-- `immissionsschutz-laerm-bauleitplanung`
-- `stellplatzsatzung-bay-bauordnung`
+- `aufstellungsbeschluss-bekanntmachung`
 - `vorhabenbezogener-bebauungsplan-12-baugb`
+- `einstweilige-anordnung-47-abs-6-vwgo`
+- `mandat-erstgespraech-normenkontrolle`
 
 ## Quellen
 
-- BauGB §§ 9, 30, 38
-- BauNVO §§ 1-26
-- PlanzVO
-- BayBO Art. 47, 81
-- **BVerwG 04.05.2022, 4 CN 2.21** — Konzentrationszonen-Planung Wind/Solar (bverwg.de)
-- **BVerwG 03.04.2020, 4 CN 2.19** — Erhaltungssatzung § 172 BauGB (bverwg.de)
-- **BVerwG 17.06.2020, 4 CN 6.18** — Bekanntmachung Bebauungsplan, Anstossfunktion (bverwg.de)
-- **BVerwG 11.04.2024, 4 BN 50.23** — Klimaschutz als Abwaegungsbelang (bverwg.de)
-- Konkrete weitere Entscheidungen vor Ausgabe per bverwg.de mit Datum verifizieren
+- BauGB §§ 14, 15, 17, 18, 24, 42
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Ernst/Zinkahn/Bielenberg BauGB
 - Battis/Krautzberger/Löhr BauGB
-- Söfker BauNVO
+
+## Ergänzende Rechtsprechung
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
-## Skill: `jahresfrist-47-abs-2-vwgo`
+## Skill: `veraenderungssperre-zurueckstellung-14-15`
 
-_Mandant moechte Normenkontrollantrag stellen und Anwalt prüft ob die Jahresfrist noch laeuft. § 47 Abs. 2 S. 1 VwGO Jahresfrist Normenkontrolle. Prüfraster: Fristbeginn ortsuebliche Bekanntmachung § 10 Abs. 3 BauGB fehlerhafte Bekanntmachung kein Fristbeginn Wiedereinsetzung § 60 VwGO ergaenzende..._
+_Wenn es um Veränderungssperre und Zurückstellung — Paragrafen 14. 15 BauGB in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Veraenderungssperre Zurueckstellung 14 15; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO._
 
-# Jahresfrist § 47 Abs. 2 VwGO
+# Veränderungssperre und Zurückstellung — §§ 14, 15 BauGB
 
-## Schritt 1 — Wortlaut und Grundregel
+## Eingaben
 
-### § 47 Abs. 2 S. 1 VwGO
-- Der Antrag kann innerhalb eines Jahres nach Bekanntmachung der Rechtsvorschrift gestellt werden
+- Plan-Stand (Aufstellungsbeschluss vorhanden? Konkretisierungs-Stand?)
+- Vorhandensein konkreter Bauanträge / Bauvoranfragen
+- Bestehende Veränderungssperre oder Zurückstellung?
+- Dauer bisheriger Sicherungs-Maßnahmen
+- Vertragslage (Durchführungsvertrag mit Vorhabenträger?)
 
-### Frist-Verkürzung 2007
-- Vor dem 1.1.2007 zwei Jahre
-- Durch Gesetz vom 22.12.2006 auf ein Jahr verkürzt
-- Übergangsfristen längst abgelaufen
+## Schritt 1 — Veränderungssperre § 14 BauGB
 
-## Schritt 2 — Fristbeginn Bekanntmachung
+### Voraussetzungen
 
-### Bekanntmachung des B-Plans § 10 Abs. 3 BauGB
-- Der Beschluss als Satzung ist ortsüblich bekanntzumachen
-- In Bayern regelmäßig Veröffentlichung im Amtsblatt der Gemeinde
-- Oder in der Tageszeitung, wenn Hauptsatzung dies vorsieht
-- Online-Veröffentlichung zusätzlich, aber nicht allein konstitutiv
+a) **Aufstellungsbeschluss** für Bebauungsplan, der für das Gebiet gelten soll
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+c) **Sicherungs-Bedürfnis** zur Wahrung der Plan-Ziele
 
-### Was wird bekanntgemacht
-- Beschluss als Satzung
-- Anstoßfunktion: Hinweis wo der Plan einsehbar ist
-- Hinweis auf Beachtlichkeit der Verletzung von Vorschriften nach § 215 BauGB
-- Hinweis auf Voraussetzungen für Entschädigungsanspruch § 44 BauGB
-- Hinweis auf nachträgliche Geltendmachung
+### Inhalt § 14 Abs. 1 BauGB
 
-### Fehlerhafte Bekanntmachung
-- Bei Fehlen der Hinweise auf § 215 BauGB läuft die Rügefrist nicht (§ 215 Abs. 2 BauGB)
-- Bei vollständig fehlerhafter Bekanntmachung (z.B. unrichtiger Ort, fehlende Anstoßfunktion) kein Fristbeginn der Jahresfrist
-- BVerwG ständige Rechtsprechung — gute Angriffsfläche
+Während der Sperre dürfen nicht durchgeführt werden:
 
-## Schritt 3 — Fristberechnung
+a) Vorhaben im Sinne des § 29 BauGB
+b) erhebliche oder wesentliche wertsteigernde Veränderungen von Grundstücken (Hilfsweise Erläuterungs-Sperre)
 
-### Fristbeginn
-- Tag der Bekanntmachung zählt nicht mit (§ 187 Abs. 1 BGB analog)
-- Bei Veröffentlichung 12.6.2024 läuft die Frist ab 13.6.2024
+### Ausnahmen § 14 Abs. 2 BauGB
 
-### Fristende
-- Genau ein Jahr nach Beginn (§ 188 Abs. 2 BGB analog)
-- Bekanntmachung 12.6.2024 — Fristende 12.6.2025, 24 Uhr
-- Wenn Fristende auf Samstag, Sonntag oder Feiertag fällt — nächster Werktag (§ 222 Abs. 2 ZPO i.V.m. § 173 VwGO)
+- Wenn das Vorhaben den Zielen des Bebauungsplans nicht entgegensteht
+- Ausnahme-Erteilung durch Gemeinde im Einzelfall
 
-### Praxis Fristenkalender
-- Eintrag Hauptfrist
-- Vorfrist 1: 2 Wochen vor Ablauf
-- Vorfrist 2: 4 Wochen vor Ablauf
-- Drei-Augen-Kontrolle Vorlage Anwältin
+### Dauer § 17 BauGB
 
-## Schritt 4 — Antragseingang § 47 VwGO
+- **Zwei Jahre** Regelfall
+- **Plus ein Jahr** Verlängerung möglich (Stadtratsbeschluss)
+- **Plus ein weiteres Jahr** bei besonderen Umständen (insgesamt max. vier Jahre)
 
-### Form
-- Schriftsatz an das zuständige OVG/VGH (Bayern: BayVGH)
-- Eingang Original oder elektronischer Schriftsatz § 55a VwGO über beA
-- Eingangsstempel maßgeblich
+### Beschluss und Bekanntmachung
 
-### Adressat
-- BayVGH-Geschäftsstelle München
-- bei elektronischer Übermittlung beA an die jeweilige Senatsgeschäftsstelle
+- Stadtratsbeschluss erforderlich
+- Bekanntmachung wie Bebauungsplan-Satzung (§ 14 Abs. 4 BauGB iVm § 10 BauGB)
+- Mit Bekanntmachung Wirkung
 
-## Schritt 5 — Wiedereinsetzung in den vorigen Stand
+## Schritt 2 — Zurückstellung § 15 BauGB
 
-### § 60 VwGO
-- Wiedereinsetzung bei unverschuldeter Versäumung
-- Antrag innerhalb von zwei Wochen nach Wegfall des Hindernisses
-- Glaubhaftmachung der Wiedereinsetzungstatsachen
-- Nachholung der versäumten Handlung innerhalb der Antragsfrist
+### Voraussetzungen
 
-### Verschulden Mandant / Anwalt
-- Anwaltsverschulden wird Mandanten zugerechnet § 173 VwGO i.V.m. § 85 Abs. 2 ZPO
-- Bei Fristversäumung durch Anwältin Wiedereinsetzung in der Regel ausgeschlossen — Haftungsfrage
+a) **Aufstellungsbeschluss** liegt vor
+b) **Konkretes Bauvorhaben** angemeldet (Bauantrag, Bauvoranfrage)
+c) **Befürchten** dass das Vorhaben die Plan-Entwicklung gefährdet
 
-### Höhere Gewalt
-- Plötzliche schwere Erkrankung
-- Postsendung durch Naturkatastrophe vereitelt
-- Betrug oder Täuschung durch Behörde
+### Mildere Maßnahme zur Veränderungssperre
 
-## Schritt 6 — Heilung durch ergänzendes Verfahren
+- Gilt nur für einzelne, konkrete Vorhaben
+- Antrag des Bauherrn wird **zurückgestellt** (nicht beschieden)
+- Bauherr kann nicht weiter realisieren bis Ende der Zurückstellung
 
-### § 214 Abs. 4 BauGB
-- Mängel können durch ergänzendes Verfahren behoben werden
-- Erneuter Beschluss, erneute Bekanntmachung
-- Neue Jahresfrist beginnt mit neuer Bekanntmachung
-- Aber nur soweit der ergänzte Plan reicht
+### Dauer
 
-### Strategische Konsequenz
-- Wenn Plan kurz vor Klagefrist nochmals "geheilt" wird — Frist beginnt neu
-- Wenn Heilungsversuch unzureichend ist — Angriffspunkt im Hauptsacheverfahren
+- **Maximal zwölf Monate** (§ 15 Abs. 1 Satz 2 BauGB)
+- **Verlängerung um sechs Monate** bei besonderen Umständen (§ 15 Abs. 1 Satz 3)
+- Insgesamt 18 Monate
 
-## Schritt 7 — Parallelfrist § 215 BauGB
+### Rechtsfolgen
 
-### Rügefrist Verfahrensfehler
-- Beachtliche Mängel des Verfahrens und der Form werden unbeachtlich, wenn sie nicht innerhalb eines Jahres nach Bekanntmachung schriftlich gegenüber der Gemeinde gerügt werden
-- § 215 Abs. 1 Nr. 1 BauGB
-- Gilt für formelle Mängel, die nicht ohnehin nach § 214 Abs. 1 BauGB unbeachtlich sind
+- Bauherr behält Antragsrecht — wird nur ausgesetzt
+- Nach Ablauf der Zurückstellung muss beschieden werden
+- Bei Plan-Beschluss vor Ablauf: Bescheidung nach neuem Plan
+- Bei Plan-Verzögerung über Frist hinaus: Bescheidung nach altem Recht
 
-### Rügefrist Abwägungsfehler
-- § 215 Abs. 1 Nr. 3 BauGB
-- Mängel im Abwägungsvorgang werden unbeachtlich, wenn nicht binnen Jahresfrist gerügt
-- Materielle Abwägungsergebnis-Fehler bleiben unbeachtlich-Frei
+## Schritt 3 — Entschädigungs-Pflicht § 18 BauGB
 
-### Rüge-Adressat
-- Schriftliche Rüge gegenüber der Gemeinde, nicht gegenüber dem Gericht
-- Eingang bei der Stadtverwaltung zählt
-- Trotzdem zeitgleich mit Normenkontrollantrag vorbereiten
+### Voraussetzungen
 
-### Hinweis-Erfordernis
-- Frist läuft nur, wenn auf sie in Bekanntmachung hingewiesen wurde
-- Fehlt Hinweis — keine Rügefrist (§ 215 Abs. 2 BauGB)
+- Veränderungssperre länger als **vier Jahre** in Kraft
+- Eigentümer hat zumutbare Nutzungsmöglichkeiten verloren
+- Anspruch auf Entschädigung nach § 42 BauGB analog
 
-## Schritt 8 — Praxisablauf
+### Bemessung
 
-### Tag 0 — Mandatsannahme
-- Bekanntmachungsdatum erfassen
-- Hauptfrist und Rügefrist berechnen
-- Fristenkalender Eintrag mit Vorfristen
+- Wertminderung im Sinne der Eigentumsgarantie
+- Wirtschaftliche Folgen für Eigentümer
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Phase 1 — Verfahrenskette und Akteneinsicht
-- Akteneinsicht bei der Gemeinde § 29 VwVfG (BayVwVfG)
-- Vorbereitung Rügeschreiben § 215 BauGB
+## Schritt 4 — Wirkung auf Vorhabenträger / Bauherrn
 
-### Phase 2 — Rüge absenden
-- 4 Wochen vor Ablauf Jahresfrist: Rüge per Einschreiben an Gemeinde
-- Rüge enthält alle erkannten Verfahrens- und Abwägungsfehler
-- Aufbewahrung Postzustellungsurkunde
+### Bei bestehender Veränderungssperre
 
-### Phase 3 — Normenkontrollantrag
-- 2 Wochen vor Ablauf Jahresfrist: Schriftsatz bei BayVGH
-- Eingang über beA mit Empfangsbekenntnis
+- **Kein neuer Bauantrag möglich** im gesperrten Gebiet (außer Ausnahme-Erteilung § 14 Abs. 2)
+- Bauanträge werden abgelehnt oder zurückgestellt
+- Wirtschaftliche Folge erheblich (Finanzierungs-Kosten)
 
-## Schritt 9 — Häufige Fristfehler
+### Bei Zurückstellung
 
-- Fristbeginn auf Aufstellungsbeschluss statt Bekanntmachung gesetzt — falsch
-- Bekanntmachung im Internet statt Amtsblatt als Fristbeginn — abhängig von Hauptsatzung
-- Rügefrist § 215 BauGB übersehen — materielle Präklusion
-- Vorfristen nicht eingetragen — Risiko bei Krankheit
-- Eingang per Fax am Freitagabend ohne Eingangsbestätigung — Beweisproblem
+- Bauantrag bleibt anhängig, aber wird nicht beschieden
+- Bauherr kann auf Bescheidung klagen (Untätigkeits-Klage § 75 VwGO)
+
+### Bei "vertraglich-faktischer Sperre"
+
+- Stadt hat keine § 14-Sperre erlassen, aber durch Durchführungs-Vertrag Konkurrenz-Vorhaben praktisch ausgeschlossen
+- Rechtsschutz dann schwieriger
+- Argumentation: städtebaulicher Vertrag bewirkt Vorprägung
+
+## Schritt 5 — Anfechtung Veränderungssperre
+
+### Statthafter Rechtsweg
+
+- **Normenkontrollantrag** § 47 VwGO (Veränderungssperre ist Satzung)
+- **Inzident** im Anfechtungsverfahren gegen Bauablehnung
+- **Untätigkeits-Klage** bei Zurückstellung mit Bauantrag-Druck
+
+### Begründetheit-Punkte
+
+#### Aufstellungsbeschluss formal mangelhaft
+
+- Bekanntmachungs-Fehler
+- Beschluss-Fehler
+
+#### Konkretisierungs-Mangel
+
+- Plan-Ziele zu unbestimmt
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+#### Verhältnismäßigkeit
+
+- Maßnahme nicht erforderlich
+- Mildere Mittel verfügbar (z.B. Zurückstellung)
+- Übermäßige Geltungsdauer
+
+#### Entschädigungs-Frage
+
+- Bei längerer Dauer (über vier Jahre) Anspruch nach § 18 BauGB
+
+## Schritt 6 — Prüfraster aus Bauherrn-Sicht
+
+### Erste Schritte bei Sperre
+
+- Bekanntmachungs-Daten prüfen (Beginn, voraussichtliches Ende)
+- Aufstellungsbeschluss anfordern (Akteneinsicht)
+- Konkretisierungs-Stand bewerten
+
+### Optionen
+
+- **Ausnahme-Antrag § 14 Abs. 2 BauGB** wenn Vorhaben nicht plan-widrig
+- **Anfechtung** der Sperre wenn formal mangelhaft
+- **Entschädigungs-Antrag** nach Ablauf vier Jahre
+- **Verkauf** des Vorhabens wenn Realisierungs-Verzögerung unzumutbar
+
+## Schritt 7 — Prüfraster aus Nachbar-Sicht
+
+### Bei Bauantrag des Nachbarn trotz Plan-Verfahrens
+
+- Wird die Bau-Genehmigung trotz laufendem Plan-Verfahren erteilt?
+- Hat die Gemeinde Veränderungssperre / Zurückstellung erwogen?
+- Wenn nicht: warum nicht?
+
+### Argumentation gegen Bau-Genehmigung
+
+- Gemeinde hat trotz drohender Plan-Widrigkeit nicht zurückgestellt
+- Bauherr profitiert vom "dem ersten kommt das Recht"
+- Bei plangleichem Vorhaben Indiz für Gefälligkeitsplanung
+
+## Schritt 8 — Stadtplanungs-Sicht
+
+### Sicherung der Plan-Entwicklung
+
+- Bei Plan-Beginn früh erwägen
+- Veränderungssperre eher als Schutz
+- Bei einzelnem konkreten Konflikt-Vorhaben: Zurückstellung
+
+### Risiken Veränderungssperre
+
+- Bei Anfechtung Sperre-Fall
+- Entschädigungs-Pflicht ab vier Jahren
+- Imageschaden bei zu strenger Anwendung
+
+## Schritt 9 — Konkurrenz zu privatrechtlichen Sicherungs-Instrumenten
+
+### Vertragliche Sicherung
+
+- Bei Durchführungs-Vertrag mit Vorhabenträger faktische Sperre für andere
+- Aber keine Veränderungssperre im rechtlichen Sinne
+- Folge: Konkurrenz-Vorhaben können trotzdem beantragen
+
+### Vorkaufsrecht § 24 BauGB
+
+- Allgemeines Vorkaufsrecht der Gemeinde
+- Bei privater Veräußerung im Plangebiet
+- Sicherung Plan-Entwicklung möglich
+
+## Schritt 10 — Verfahren bei Klage
+
+### Inzidente Prüfung
+
+- In Bauablehnungs-Klage Verwaltungsgericht
+- Veränderungssperre wird auf Wirksamkeit geprüft
+- Bei Unwirksamkeit Bauantrag zu bescheiden nach altem Recht
+
+### Normenkontrollantrag
+
+- Vor OVG / VGH
+- Frist ein Jahr § 47 Abs. 2 VwGO
+- Antragsbefugnis: Eigentümer im Sperre-Gebiet, Nachbarn mit konkreter Beeinträchtigung
+
+### Eilantrag § 47 Abs. 6 VwGO
+
+- Aufschiebende Wirkung gegen Sperre
+- Bei Eilbedürftigkeit (z.B. Genehmigungs-Frist läuft)
+
+## Schritt 11 — Anwendung auf Bebauungsplan Augsburg Nr. 900
+
+**Erkenntnis aus dem Fall:**
+
+Die Stadt Augsburg hat **keine Veränderungssperre** im Bahnhofsviertel West verhängt. Stattdessen sicherte sie die Plan-Entwicklung durch den **Durchführungs-Vertrag vom 12.05.2022** — faktische Sperre.
+
+**Bewertung:**
+
+a) Die Stadt hätte rechtlich die Möglichkeit gehabt, mit Aufstellungs-Beschluss 14.06.2022 zugleich eine Veränderungssperre nach § 14 BauGB zu erlassen.
+
+b) Sie hat darauf verzichtet, weil der Vorhabenträger einziger relevanter Eigentümer der Plan-Flächen war.
+
+c) Stattdessen hat sich die Stadt durch den Durchführungs-Vertrag faktisch gebunden — und damit den Schutz vor Konkurrenz-Vorhaben durch privatrechtliche Vereinbarung erreicht.
+
+d) Damit: **kein § 14-Verfahren möglich**, aber **Indiz für Gefälligkeitsplanung** im Hauptsache-Verfahren.
+
+**Bauantrag MU 3 vom 02.07.2024** des Vorhabenträgers — **18 Tage nach Bekanntmachung**:
+
+- Vorhabenträger nutzt schnelle Anschluss-Realisierung
+- Erschwert Eilantrag im Normenkontroll-Verfahren (Vollzugs-Folge bereits eingetreten?)
+- Begründet aber gerade die Eilbedürftigkeit für Antragstellerseite
+
+## Verzahnung mit anderen Skills
+
+- `aufstellungsbeschluss-bekanntmachung`
+- `vorhabenbezogener-bebauungsplan-12-baugb`
+- `einstweilige-anordnung-47-abs-6-vwgo`
+- `mandat-erstgespraech-normenkontrolle`
 
 ## Quellen
 
-- VwGO § 47 Abs. 2, § 55a, § 60, § 173
-- BauGB § 10 Abs. 3, § 214, § 215, § 44
-- ZPO § 85 Abs. 2, § 222 Abs. 2
-- BGB § 187 Abs. 1, § 188 Abs. 2
-- BVerwG, Urteil vom 26.4.2007 – 4 CN 3.06 (Bekanntmachung)
-- BVerwG, Beschluss vom 15.4.1988 – 4 N 4.87 (Anstoßfunktion)
+- BauGB §§ 14, 15, 17, 18, 24, 42
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Ernst/Zinkahn/Bielenberg BauGB
+- Battis/Krautzberger/Löhr BauGB
 
-## Ergänzende Rechtsprechung (Stand 05/2026)
+## Ergänzende Rechtsprechung
 
-- **BVerwG 17.06.2020, 4 CN 6.18**: Anforderungen an die Bekanntmachung von Bebauungsplaenen — Anstossfunktion und Fristbeginn § 47 Abs. 2 VwGO. Quelle: bverwg.de.
-- **BVerwG 03.04.2020, 4 CN 2.19** (Erhaltungssatzung): Bekanntmachung und Fristbeginn für den Normenkontrollantrag. Quelle: bverwg.de.
-- **OVG NRW** und andere OVG/VGH: laufende Rspr. zu Bekanntmachungsmaengeln und Frist; konkrete Aktenzeichen über landesrecht-nrw.de bzw. die jeweilige Landesjustiz-Datenbank verifizieren.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Vor Ausgabe per bverwg.de mit Datum und Aktenzeichen verifizieren.
+---
+
+## Skill: `einstweilige-anordnung-erforderlichkeit-abs`
+
+_Wenn es um Einstweilige Anordnung Paragraf 47 Abs. 6 VwGO in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Einstweilige Anordnung Erforderlichkeit Abs; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO._
+
+# Einstweilige Anordnung § 47 Abs. 6 VwGO
+
+## Arbeitsbereich
+
+Mandant hat Normenkontrollantrag eingereicht und moechte Vollzug des Bebauungsplans bis zur Entscheidung stoppen. § 47 Abs. 6 VwGO einstweilige Anordnung. Prüfraster: Vollzugsfolgenabwaegung als Maßstab Eilbedürftigkeit Baugenehmigung beantragt Antragsbefugnis Aussetzung Vollzug B-Plan Glaubhaftmachung. Output: Eilantrag § 47 Abs. 6 VwGO Schriftsatz. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache) und jahresfrist-47-abs-2-vwgo (Frist beachten). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: VwGO § 47 Abs. 2 Antrag 1 Jahr nach Bekanntmachung, BauGB § 3 Abs. 2 Auslegung 1 Monat, Einwendungen 1 Monat, § 215 BauGB Rüge formeller/materieller Fehler 1 Jahr.
+- Tragende Normen verifizieren: VwGO § 47, BauGB §§ 1, 1a, 2, 3, 4, 4a, 10, 13, 13a, 13b, 30, 34, 35, BImSchG, BNatSchG, UVPG, EU-Plan-UP-RL 2001/42 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Antragsteller (Eigentümer, Gemeinde, Verband), Gemeinde als Antragsgegnerin, OVG/VGH (zuständig), BVerwG (4. Senat), Träger öffentlicher Belange.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Bebauungsplan, Begründung mit Umweltbericht, Abwägungsmaterial, Beteiligungsstellungnahmen, Satzungsbeschluss, Normenkontrollantrag, Eilantrag § 47 Abs. 6 VwGO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Schritt 1 — Wortlaut § 47 Abs. 6 VwGO
+
+### Norm
+- Das Gericht kann auf Antrag eine einstweilige Anordnung erlassen, wenn dies zur Abwehr schwerer Nachteile oder aus anderen wichtigen Gründen dringend geboten ist
+
+### Bedeutung
+- Schutzinstrument für die Zeit zwischen Antragstellung und Hauptsacheentscheidung
+- Verhinderung irreversibler Tatsachen-Schaffung
+
+## Schritt 2 — Antragsbefugnis und Statthaftigkeit
+
+### Akzessorietät
+- Antragsbefugnis wie im Hauptsacheverfahren § 47 Abs. 2 VwGO
+- Statthaftigkeit wie im Hauptsacheverfahren
+
+### Frist
+- Innerhalb der Jahresfrist der Hauptsache stellbar
+- Eilantrag kann auch vor Einreichung Hauptsache gestellt werden, sofern Hauptsache binnen 14 Tagen folgt
+
+## Schritt 3 — Materielle Voraussetzungen
+
+### Schwerer Nachteil oder wichtige Gründe
+- Schwerer Nachteil bei drohender Bautätigkeit
+- Wichtige Gründe bei Kettenwirkung des Plans (Folgeplanungen)
+
+### Dringend geboten
+- Anstehender Vollzug
+- Baugenehmigung beantragt
+- Baugenehmigung erteilt
+- Bauarbeiten begonnen oder unmittelbar bevorstehend
+
+### Vollzugsfolgenabwägung
+- BVerfG-Maßstab für einstweilige Anordnung
+- Abwägung Folgen ohne und mit Eilantrag
+
+## Schritt 4 — Folgenabwägung
+
+### Erfolgsprognose Hauptsache
+- Wenn Hauptsacheantrag offensichtlich begründet — Eilantrag stattzugeben
+- Wenn offensichtlich unbegründet — Eilantrag abzulehnen
+- Wenn offen — reine Folgenabwägung
+
+### Folgen ohne Eilanordnung
+- Bauarbeiten beginnen
+- Nicht-rückbaubare Tatsachen geschaffen
+- Mandantenrechte (Eigentum, Wohnqualität) irreversibel beeinträchtigt
+- Auch wenn Hauptsache später Erfolg hat, fragwürdiger Rückbau
+
+### Folgen mit Eilanordnung
+- Investor verliert Zeit (Geld)
+- Stadt verliert Steuermittel
+- Sind diese Folgen reversibel? In der Regel ja
+- Vollzugsfolgenabwägung tendiert pro Mandant bei drohendem Hochbau
+
+## Schritt 5 — Antrag-Formulierung
+
+### Hauptantrag Eilantrag
+- "Der Bebauungsplan Nr. X 'Name' der Stadt Y wird bis zur Entscheidung in der Hauptsache vorläufig außer Vollzug gesetzt."
+
+### Hilfsantrag bei Baugenehmigung
+- "Hilfsweise: Die Antragsgegnerin wird angewiesen, auf der Grundlage des Bebauungsplans Nr. X bis zur Entscheidung in der Hauptsache keine Baugenehmigungen zu erteilen."
+
+### Bei Drittwirkung gegen Vorhabenträger
+- Parallel-Antrag gegen Sofortvollzug der Baugenehmigung nach § 80 Abs. 5, § 80a VwGO
+- Im Verwaltungsgericht (erste Instanz) — Eingang dort sicherstellen
+
+## Schritt 6 — Glaubhaftmachung
+
+### § 920 Abs. 2 ZPO i.V.m. § 173 VwGO
+- Antragsteller muss Anspruch und Eilbedürftigkeit glaubhaft machen
+- Geringerer Beweismaßstab als Vollbeweis
+- Eidesstattliche Versicherung zulässig
+
+### Beweismittel
+- Eidesstattliche Versicherung Mandantin zu konkretem Drohstand
+- Eidesstattliche Versicherung Sachverständiger zu drohenden Schäden
+- Privat-Gutachten als Untermauerung
+- Presse-Berichte zu Bauplanung
+- Schriftverkehr Stadt-Investor
+
+## Schritt 7 — Schriftsatz-Aufbau
+
+### Aufbau
+1. Antrag (Hauptantrag, Hilfsantrag)
+2. Statthaftigkeit und Antragsbefugnis (kurz)
+3. Sachverhalt (kompakt — Eilrichter haben wenig Zeit)
+4. Eilbedürftigkeit
+ 4.1 Drohender Vollzug konkret (Baugenehmigung beantragt, Bauarbeiten geplant)
+ 4.2 Irreversibilität bei Realisierung
+5. Erfolgsprognose Hauptsache
+ 5.1 Stärkste Fehler kompakt
+ 5.2 Verweis auf Hauptsacheschriftsatz für Details
+6. Vollzugsfolgenabwägung
+ 6.1 Folgen ohne Eilanordnung
+ 6.2 Folgen mit Eilanordnung
+ 6.3 Saldo
+7. Glaubhaftmachung-Anlagen
+8. Streitwert
+
+## Schritt 8 — Anlagen Eilantrag
+
+### Pflichtanlagen
+- Vollmacht
+- Bekanntmachung B-Plan
+- Eidesstattliche Versicherung Mandantin
+- Nachweis drohenden Vollzugs (Bauantrag, Pressebericht)
+- Lageplan
+- ggf. Privatgutachten
+
+### Glaubhaftmachung-Beleg
+- Eingangsstempel Bauantrag (über Akteneinsicht oder Pressestelle)
+- Baustellenfoto
+- Aufgrabungs-Nachweis
+- Bauherrenversammlung-Protokoll
+
+## Schritt 9 — Streitwert Eilverfahren
+
+### Streitwertkatalog Verwaltungsgerichtsbarkeit
+- Halbe Hauptsache
+- Bei 60.000 EUR Hauptsache: 30.000 EUR Eilantrag
+- Bei Mehrwert-Plänen entsprechend höher
+
+## Schritt 10 — Praktische Hinweise
+
+### Vorbereitung
+- Eilantrag parallel zum Hauptsachenantrag drafetn — beide gleichzeitig einreichen, wenn Eilbedarf von Anfang an besteht
+- Bei späterem Eilbedarf separat einreichen
+- Eilrichter telefonisch über Senatsgeschäftsstelle vorbereiten
+
+### Senatsentscheidung
+- In der Regel ohne mündliche Verhandlung
+- Beschluss innerhalb Wochen
+- Bei besonderer Eile zwischen 1-3 Wochen möglich
+
+### Rechtsmittel
+- Beschluss des BayVGH im Eilverfahren ist im Normenkontrollverfahren nicht beschwerdefähig zum BVerwG (§ 152 Abs. 1 VwGO)
+- In Sonderkonstellationen (verfassungsrechtlich) Verfassungsbeschwerde möglich
+
+### Bei Erfolg
+- Plan vorläufig außer Vollzug
+- Genehmigungen können nicht mehr erteilt werden
+- Anhängige Baugenehmigungs-Verfahren werden gestoppt
+
+## Schritt 11 — Häufige Fehler
+
+- Eilantrag zu spät — Vollzug bereits eingetreten
+- Glaubhaftmachung nur durch Behauptung statt eidesstattliche Versicherung
+- Erfolgsprognose zu schwach dargestellt
+- Streitwert zu hoch / zu niedrig
+- Parallel-Antrag gegen Baugenehmigung versäumt
+- Vollzugsfolgenabwägung formelhaft
+
+## Quellen
+
+- VwGO §§ 47 Abs. 6, 80 Abs. 5, 80a, 152, 173
+- ZPO § 920 Abs. 2
+- BVerwG, Beschluss vom 18.05.2010 – 4 BN 19.10 (Eilantrag B-Plan; bverwg.de)
+- BayVGH, Beschluss vom 22.04.2014 – 15 NE 13.2538 (Vollzugsfolgenabwägung; Bayern.Recht)
+- BVerwG, Beschluss vom 12.06.2019 – 4 BN 4.19 (Eilantrag B-Plan, schwere Nachteile; bverwg.de)
+
+## Aktuelle Rechtsprechung — Leitsaetze (Stand 05/2026)
+
+- BVerwG 12.06.2019, 4 BN 4.19 — Maßstab "schwere Nachteile" beim Eilantrag § 47 Abs. 6 VwGO (bverwg.de)
+- BVerwG 23.06.2020, 9 A 22.19 — Klimaschutz als beruecksichtigungspflichtiger Belang (bverwg.de)
+- Aktuelle OVG-/VGH-Beschlüsse vor Ausgabe über landesrecht-[bundesland].de und bverwg.de verifizieren
+
+---
+
+## Skill: `antragstellervertretung-zahlen-schwellen-und-berechnung`
+
+_Wenn es um Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Antragstellervertretung Zahlen Schwellen Und Berechnung; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO._
+
+# Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: VwGO § 47 Abs. 2 Antrag 1 Jahr nach Bekanntmachung, BauGB § 3 Abs. 2 Auslegung 1 Monat, Einwendungen 1 Monat, § 215 BauGB Rüge formeller/materieller Fehler 1 Jahr.
+- Tragende Normen verifizieren: VwGO § 47, BauGB §§ 1, 1a, 2, 3, 4, 4a, 10, 13, 13a, 13b, 30, 34, 35, BImSchG, BNatSchG, UVPG, EU-Plan-UP-RL 2001/42 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Antragsteller (Eigentümer, Gemeinde, Verband), Gemeinde als Antragsgegnerin, OVG/VGH (zuständig), BVerwG (4. Senat), Träger öffentlicher Belange.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Bebauungsplan, Begründung mit Umweltbericht, Abwägungsmaterial, Beteiligungsstellungnahmen, Satzungsbeschluss, Normenkontrollantrag, Eilantrag § 47 Abs. 6 VwGO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung
+- **Normen-/Quellenanker:** VwGO, OVG.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Antragstellervertretung** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

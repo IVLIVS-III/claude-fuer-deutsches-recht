@@ -1,31 +1,46 @@
-# Megaprompt: gesellschaftsrecht
+# Vollprüfung: gesellschaftsrecht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 107 Skills (gekuerzt fuer Chat-Fenster) des Plugins `gesellschaftsrecht`.
+Dieser Vollprüfung enthaelt top-8 von 117 Skills (gekuerzt fuer Chat-Fenster) des Plugins `gesellschaftsrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für Gesellschaftsrecht: ordnet Rolle (Gesellschafter/Aktionäre, Geschäftsführung/Vorstand, …
-2. **mandat-triage-gesellschaftsrecht** — Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach GmbH-Gründung Gesellschafterbeschluss Kapitale…
-3. **gesellschaftsrecht-erstpruefung-und-mandatsziel** — Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel im Gesellschaftsrecht: fachlich vertieftes Modul mit Norm…
-4. **anschluss** — Einstieg, Schnelltriage und Fallrouting im Gesellschaftsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken un…
-5. **aufsichtsrat-protokoll** — Erstellt Protokolle von Vorstandssitzungen (AG), Aufsichtsratssitzungen (AG, § 107 AktG) und Gesellschafterversammlungen…
-6. **dd-findings-extraktion** — Liest Datenraum-Dokumente und extrahiert Issues nach den Hauskategorien und Wesentlichkeitsschwellen im Findings-Report-…
-7. **geschaeftsfuehrer-haftung-43-gmbhg** — Geschäftsführer haftet persoenlich oder Gesellschaft klagt gegen ihn auf Schadensersatz nach Insolvenz. Prüfraster § 43 …
-8. **gesellschafterbeschluss** — Erstellung, Prüfung und Anfechtung von Gesellschafterbeschluessen in GmbH (47 und 48 GmbHG) und AG (133 ff. AktG); Mehrh…
+1. **einstieg-routing** — Wenn es um Einstieg und Routing in Gesellschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächs…
+2. **mandat-triage-gesellschaftsrecht** — Wenn es um Mandat-Triage Gesellschaftsrecht in Gesellschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den pas…
+3. **gesellschaftsrecht-erstpruefung-und-mandatsziel** — Wenn es um Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel in Gesellschaftsrecht geht: klärt Rolle, Ziel,…
+4. **rechtsabteilung-stimmbindung-und-beschlussmangel-nach-hannover-9** — Wenn es um Rechtsabteilung: Stimmbindung und Beschlussmangel nach Hannover-96-Linie in Gesellschaftsrecht geht: ordnet S…
+5. **rechtsabteilung-geschaeftsfuehrerhaftung-fuer-compliance-versage** — Wenn es um Rechtsabteilung: Geschäftsführerhaftung für Compliance-Versagen in Gesellschaftsrecht geht: ordnet Sachverhal…
+6. **gesellschaftsrecht-mandatsworkspace-kontexttrennung** — Wenn es um Gesellschaftsrechtlicher Mandatsworkspace und Kontexttrennung in Gesellschaftsrecht geht: ordnet Sachverhalt,…
+7. **gesellschafterbeschluesse-textbausteine** — Wenn es um Gesellschafterbeschluesse: Schriftsatz-, Brief- und Memo-Bausteine in Gesellschaftsrecht geht: erstellt den p…
+8. **rechtsabteilung-beirat-mit-vetorechten-in-der-gmbh** — Wenn es um Rechtsabteilung: Beirat mit Vetorechten in der GmbH in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Bew…
 
 ---
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Gesellschaftsrecht: ordnet Rolle (Gesellschafter/Aktionäre, Geschäftsführung/Vorstand, Aufsichtsrat), markiert Frist (Anfechtungsklage 1 Monat § 246 AktG), wählt Norm (GmbHG, AktG, HGB, BGB §§ 705 ff., UmwG, MitbestG) und Zuständigkeit (Handelsregister), leitet zu..._
+_Wenn es um Einstieg und Routing in Gesellschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Einstieg und Routing
 
 ## Einsatzlage
 
 Dieser Einstieg routet **Gesellschaftsrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+
+## Kernrouten zuerst
+
+Die erste Weiche ist nicht die längste Skillliste, sondern der gesellschaftsrechtliche Arbeitskern. Ordne den Fall zuerst in eine dieser Routen ein und nenne danach nur den passenden Spezial-Skill:
+
+| Route | Typische Frage | Sofortprodukt |
+| --- | --- | --- |
+| Gründung und Register | Satzung, Liste, Anmeldung, Zwischenverfügung | Register-To-do mit Form- und Fristpunkten |
+| Organ und Vertretung | Geschäftsführer, Vorstand, Aufsichtsrat, Vollmacht | Beschluss- und Vertretungsmatrix |
+| Beschlussmängel und Streit | Einladung, Mehrheit, Treuepflicht, Anfechtung | Fristenblatt und Angriff-/Verteidigungsskizze |
+| Kapital und Gesellschafterliste | Einlage, Rückgewähr, Einziehung, Legitimationswirkung | Risikoampel mit Belegkette |
+| Umwandlung und Transaktion | Verschmelzung, Spaltung, Formwechsel, Closing | Vollzugsplan mit Registerwirkung |
+| Krise, Haftung und Compliance | Paragraf 43 GmbHG, Zahlungsverbot, Ressort, Business Judgment | Haftungsmemo mit Entlastungsbelegen |
+
+Beiratsfragen sind eine Spezialspur. Nutze sie erst, wenn Satzungsgrundlage, Entscheidungsbefugnis, Haftung oder Vetorecht tatsächlich streitentscheidend sind.
 
 ## Fachlandkarte dieses Plugins
 
@@ -35,13 +50,14 @@ Dieser Einstieg routet **Gesellschaftsrecht** vom ersten Sachverhalt zu Rollen, 
 - `einstieg-schnelltriage-fallrouting` — Anschluss
 - `arbeitsbereich-mandantenentscheidung` — Arbeitsbereich Mandantenentscheidung
 - `aufsichtsrat-protokoll` — Aufsichtsrat Protokoll
-- `beirat-abgrenzung-aufsichtsrat` — Beirat Abgrenzung Aufsichtsrat
-- `beirat-amtszeit-und-rotation` — Beirat Amtszeit und Rotation
-- `beirat-bank-und-sanierung` — Beirat Bank und Sanierung
-- `beirat-beratungsfunktion-beschlussfassung` — Beirat Beratungsfunktion Beschlussfassung
-- `beirat-beschlussfassung` — Beirat Beschlussfassung
-- `beirat-beschlussmaengel` — Beirat Beschlussmaengel
-- `beirat-bestellung-und-abberufung` — Beirat Bestellung und Abberufung
+- `gesellschafterbeschluss` — Beschlussweg, Mehrheit, Form und Dokumentation
+- `gesellschafterliste-legitimation-und-widerspruch` — Listenlage, Widerspruch und Legitimationswirkung
+- `gesellschafterstreit-einstweiliger-rechtsschutz` — Eilantrag, Verfügungsgrund und Sicherungsziel
+- `geschaeftsfuehrer-haftung-43-gmbhg` — Organpflicht, Beweislast, Entlastung und Schaden
+- `kapitalerhaltung-verdeckte-ausschuettung` — Kapitalbindung, Rückgewähr und Zahlungsstopp
+- `umwandlung-formwechsel-verschmelzung-spaltung` — Maßnahme, Beschluss, Registerwirkung und Vollzug
+- `liquidation-loeschung-und-nachtragsliquidation` — Abwicklung, Sperrjahr, Nachtragsliquidation
+- `beirat-abgrenzung-aufsichtsrat` — nur bei echter Beirats- oder Aufsichtsratsweiche
 - `dokumente-intake` — Dokumente Intake
 - `quellen-livecheck` — Quellen Livecheck
 
@@ -63,27 +79,28 @@ Dieser Einstieg routet **Gesellschaftsrecht** vom ersten Sachverhalt zu Rollen, 
 
 ## Skill: `mandat-triage-gesellschaftsrecht`
 
-_Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach GmbH-Gründung Gesellschafterbeschluss Kapitalerhöhung Geschäftsführer-Abberufung M&A-Transaktion oder Gesellschafterstreit. Klaert Mandantenrolle (Gesellschafter Geschäftsführer Aufsichtsrat Investor Kaeufer) und Rechtsform..._
+_Wenn es um Mandat-Triage Gesellschaftsrecht in Gesellschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Mandat-Triage Gesellschaftsrecht
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Mandat Triage Gesellschaftsrecht** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Gesellschaftsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Arbeitsbereich
 
-Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach GmbH-Gründung Gesellschafterbeschluss Kapitalerhöhung Geschäftsführer-Abberufung M&A-Transaktion oder Gesellschafterstreit. Klaert Mandantenrolle (Gesellschafter Geschäftsführer Aufsichtsrat Investor Kaeufer) und Rechtsform (GmbH AG UG GmbH&CoKG). Sofort-Fristen Insolvenzantragspflicht § 15a InsO drei Wochen Anfechtungsklage § 246 AktG ein Monat. Normen § 2 GmbHG Gründung § 48 GmbHG Gesellschafterversammlung § 241 AktG Beschlussmaengel. Eskalation Telefon-Sofort bei Insolvenznähe Gesellschafterversammlung morgen. Output Triage-Memo mit Fristen-Ampel und Routing zu Plugin-Skills. Abgrenzung zu gesellschaftsrecht-mandat-arbeitsbereich (Workspace-Verwaltung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach GmbH-Gründung Gesellschafterbeschluss Kapitalerhöhung Geschäftsführer-Abberufung M&A-Transaktion oder Gesellschafterstreit. Klaert Mandantenrolle (Gesellschafter Geschäftsführer Aufsichtsrat Investor Kaeufer) und Rechtsform (GmbH AG UG GmbH&CoKG). Sofort-Fristen Insolvenzantragspflicht Paragraf 15a InsO drei Wochen Anfechtungsklage Paragraf 246 AktG ein Monat. Normen Paragraf 2 GmbHG Gründung Paragraf 48 GmbHG Gesellschafterversammlung Paragraf 241 AktG Beschlussmaengel. Eskalation Telefon-Sofort bei Insolvenznähe Gesellschafterversammlung morgen. Output Triage-Memo mit Fristen-Ampel und Routing zu Plugin-Skills. Abgrenzung zu gesellschaftsrecht-mandat-arbeitsbereich (Workspace-Verwaltung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -95,8 +112,8 @@ Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach Gmb
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandat-Triage Gesellschaftsrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -110,27 +127,27 @@ Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach Gmb
 
 Diese acht Fragen sind in der angegebenen Reihenfolge zu klären — Fragen 1 bis 4 bestimmen das Routing, Fragen 5 bis 8 die Mandatsstrategie:
 
-1. **Eilbeduerftigkeit zuerst:** Laeuft eine der folgenden Fristen? — Insolvenzantragspflicht § 15a InsO (3 Wochen); Beschluss-Anfechtungsfrist § 246 AktG (1 Monat); Closing-Termin heute; HV morgen. Falls ja: direkt zu Eskalation.
+1. **Eilbeduerftigkeit zuerst:** Laeuft eine der folgenden Fristen? — Insolvenzantragspflicht Paragraf 15a InsO (3 Wochen); Beschluss-Anfechtungsfrist Paragraf 246 AktG (1 Monat); Closing-Termin heute; HV morgen. Falls ja: direkt zu Eskalation.
 2. **Mandantenrolle:** Wer ist der Mandant? (Gesellschafter / Geschäftsführer / Aufsichtsrat / Investor / Kaeufer / Verkaeufer / Zielgesellschaft / Gläubiger)
 3. **Rechtsform der betroffenen Gesellschaft:** GmbH / UG / AG / SE / GmbH & Co. KG / OHG / GbR / Stiftung / Verein
 4. **Vorgang:** Was soll rechtlich geschehen oder was ist passiert?
 5. **Stand des Verfahrens:** Beratung im Vorfeld / Vertrag in Verhandlung / Streit / Klage
 6. **Wirtschaftliche Verhältnisse:** Gesellschaftsgroesse (Umsatz, Mitarbeiter, Bilanz)
-7. **Fristen ausserhalb der akuten Eilbeduerftigkeit:** Verjährung Geschäftsführer-Haftung 5 Jahre (§ 43 Abs. 4 GmbHG)
+7. **Fristen ausserhalb der akuten Eilbeduerftigkeit:** Verjährung Geschäftsführer-Haftung 5 Jahre (Paragraf 43 Abs. 4 GmbHG)
 8. **Interessenkonflikt-Check:** Vertritt die Kanzlei bereits eine andere Partei derselben Transaktion?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
-§ 15a InsO (Insolvenzantragspflicht; 3 Wochen ab Ueberschuldung/Zahlungsunfaehigkeit) — § 43 GmbHG (Geschäftsführer-Haftung; Verjährung 5 Jahre) — § 93 AktG (Vorstandshaftung) — § 246 AktG (Anfechtungsklage; 1 Monat ab Beschlussfassung) — § 14 UmwG (Klagefrist Umwandlung; 1 Monat) — §§ 35 ff. GWB (Fusionskontrolle; Vollzugsverbot bis Freigabe) — § 43a Abs. 4 BRAO (Verbot widersteitender Interessen) — §§ 1 ff. GwG (Identifizierungspflicht vor Mandatsannahme)
+Paragraf 15a InsO (Insolvenzantragspflicht; 3 Wochen ab Ueberschuldung/Zahlungsunfaehigkeit) — Paragraf 43 GmbHG (Geschäftsführer-Haftung; Verjährung 5 Jahre) — Paragraf 93 AktG (Vorstandshaftung) — Paragraf 246 AktG (Anfechtungsklage; 1 Monat ab Beschlussfassung) — Paragraf 14 UmwG (Klagefrist Umwandlung; 1 Monat) — Paragraf 35 ff. GWB (Fusionskontrolle; Vollzugsverbot bis Freigabe) — Paragraf 43a Abs. 4 BRAO (Verbot widersteitender Interessen) — Paragraf 1 ff. GwG (Identifizierungspflicht vor Mandatsannahme)
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Ablauf — acht Fragen
 
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Das folgende Prüfschema ist eine Standardlinie. Wenn die Mandantenlage abweicht, werden die Schritte gekürzt, umgestellt oder an einen Spezialskill übergeben. Maßgeblich ist ein belastbares Ergebnis, nicht das Abarbeiten einer Tabelle.
 
 ### Frage 1 — Mandantenrolle?
 
@@ -184,7 +201,7 @@ Diese acht Fragen sind in der angegebenen Reihenfolge zu klären — Fragen 1 bi
 
 ### Frage 4 — Akute Eilbedürftigkeit?
 
-- **Insolvenzantragspflicht** § 15a InsO drei Wochen
+- **Insolvenzantragspflicht** Paragraf 15a InsO drei Wochen
 - **Geschäftsführer-Abberufung** Versammlung morgen
 - **Closing-Termin** binnen Tagen
 - **Beschluss-Anfechtung** Frist
@@ -214,11 +231,11 @@ Diese acht Fragen sind in der angegebenen Reihenfolge zu klären — Fragen 1 bi
 
 ### Frage 7 — Frist?
 
-- **§ 15a InsO** drei Wochen Antragspflicht
-- **§ 246 AktG** ein Monat Anfechtungsklage AG
-- **§ 47 EGAktG / § 14 UmwG** Frist Umwandlung
+- **Paragraf 15a InsO** drei Wochen Antragspflicht
+- **Paragraf 246 AktG** ein Monat Anfechtungsklage AG
+- **Paragraf 47 EGAktG / Paragraf 14 UmwG** Frist Umwandlung
 - **GWB-Anmeldung** Kartellrecht — vor Vollzug
-- **Verjährung Geschäftsführer-Haftung** fünf Jahre § 43 GmbHG / § 93 AktG
+- **Verjährung Geschäftsführer-Haftung** fünf Jahre Paragraf 43 GmbHG / Paragraf 93 AktG
 - **Closing-Vertrags-Fristen**
 
 ### Frage 8 — Konflikt?
@@ -269,8 +286,8 @@ Diese acht Fragen sind in der angegebenen Reihenfolge zu klären — Fragen 1 bi
 3. **Routing-Matrix anwenden:** Folge-Skill aus der Matrix auswaehlen und direkt starten.
 4. **Fristenbuch befuellen:** Alle identifizierten Fristen sofort im Kanzlei-Fristenbuch mit Wiedervorlage eintragen.
 5. **Mandatsanlage:** Mandat-Slug generieren, `mandat.md` anlegen (→ `gesellschaftsrecht-mandat-arbeitsbereich`).
-6. **GwG-Identifizierung:** Bei neuem Mandanten Identifizierungspflicht (§§ 10 ff. GwG) vor Beratungsbeginn abarbeiten.
-7. **Interessenkonflikt-Check:** Kanzlei-internes System prüfen; bei Zweifeln Mandat ablehnen oder aufteilen (§ 43a Abs. 4 BRAO).
+6. **GwG-Identifizierung:** Bei neuem Mandanten Identifizierungspflicht (Paragraf 10 ff. GwG) vor Beratungsbeginn abarbeiten.
+7. **Interessenkonflikt-Check:** Kanzlei-internes System prüfen; bei Zweifeln Mandat ablehnen oder aufteilen (Paragraf 43a Abs. 4 BRAO).
 8. **Ausgabe erzeugen:** Triage-Protokoll + Folge-Skill-Empfehlung.
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -308,12 +325,12 @@ Gesellschaft: [FIRMA, HRB, REGISTERGERICHT]
 
 --- VORGANG ---
 [BESCHREIBUNG DES VORGANGS — ein bis zwei Saetze]
-Rechtliche Einordnung: [§§ NORMEN]
+Rechtliche Einordnung: [Paragraf NORMEN]
 
 --- FRISTEN (KRITISCHE PFADE) ---
 | Frist | Norm | Ablauf | Wiedervorlage | Im Fristenbuch |
 |---|---|---|---|---|
-| [FRISTBEZEICHNUNG] | [§ NORM] | [TT.MM.JJJJ] | [TT.MM.JJJJ] | [JA / NEIN] |
+| [FRISTBEZEICHNUNG] | [Paragraf NORM] | [TT.MM.JJJJ] | [TT.MM.JJJJ] | [JA / NEIN] |
 
 --- FOLGE-SKILL ---
 Empfehlung: [SKILL-NAME]
@@ -341,28 +358,32 @@ Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Rote Schwellen
 
-- **Insolvenzantragspflicht § 15a InsO bereits ausgeloest** — 3-Wochen-Frist laeuft; Geschäftsführer persoenlich haftbar; sofortige Eskalation an Insolvenzrechts-Spezialisten.
-- **Beschluss-Anfechtungsfrist § 246 AktG < 5 Tage** — Klage sofort vorbereiten; Fristversaeumung fuehrt zur Bestandskraft auch fehlerhafter Beschlüsse.
-- **Interessenkonflikt erkannt** — Mandat nicht annehmen oder aufteilen; § 43a Abs. 4 BRAO.
+- **Insolvenzantragspflicht Paragraf 15a InsO bereits ausgeloest** — 3-Wochen-Frist laeuft; Geschäftsführer persoenlich haftbar; sofortige Eskalation an Insolvenzrechts-Spezialisten.
+- **Beschluss-Anfechtungsfrist Paragraf 246 AktG < 5 Tage** — Klage sofort vorbereiten; Fristversaeumung fuehrt zur Bestandskraft auch fehlerhafter Beschlüsse.
+- **Interessenkonflikt erkannt** — Mandat nicht annehmen oder aufteilen; Paragraf 43a Abs. 4 BRAO.
 - **GwG-Identifizierung nicht abgeschlossen** — keine Beratungsleistung vor Identifizierung; Bussgeldhaftung bei Verstoss.
 
 ## Ausgabe
 
 - `triage-protokoll-gesellschaftsrecht.md`
 - Aktenanlage
-- Frist im Fristenbuch (§ 15a InsO Anfechtungsfrist Closing)
+- Frist im Fristenbuch (Paragraf 15a InsO Anfechtungsfrist Closing)
 - Mandatsvereinbarung
 - Empfehlung Folge-Skill
 
 ## Quellen
 
 - GmbHG AktG HGB UmwG GenG VereinsG
-- InsO § 15a
+- InsO Paragraf 15a
 - BGB
 - BGH II. Zivilsenat
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
@@ -373,23 +394,24 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Skill: `gesellschaftsrecht-erstpruefung-und-mandatsziel`
 
-_Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel im Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht._
+_Wenn es um Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel in Gesellschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Gesellschaftsrecht Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Gesellschaftsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Arbeitsweg
 
@@ -400,15 +422,21 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Problemfokus dieses Skills:** Nicht mit einem Normenfeuerwerk beginnen. Zuerst klären: Wer darf was von wem bis wann verlangen, verhindern, beschließen oder vollziehen?
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Verlässliche Anker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflicht und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Bedeutung der Gesellschafterliste; weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
+- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Organvorlage, Closing-CP-Liste, Treuepflicht-Gegenprüfung, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Spezialwissen: Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel
-- **Normen-/Quellenanker:** AG, HRB, HRA.
+## Mandatslandkarte
+
+| Weiche | Leitfrage | Sofortbeleg | typischer Anschluss |
+| --- | --- | --- | --- |
+| Rechtsform | GmbH, AG, KG, GbR oder Mischform? | Registerauszug, Satzung | Zuständigkeit und Normenradar |
+| Rolle | Gesellschaft, Organ, Gesellschafter, Erwerber, Gläubiger? | Mandat, Vollmacht | Interessenkonflikt und Ziel |
+| Handlung | Beschluss, Vertrag, Liste, Register, Klage, Eilmaßnahme? | Protokoll, Entwurf | Frist und Form |
+| Risiko | Nichtigkeit, Anfechtung, Haftung, Vollzugssperre? | Akte, Fristenblatt | Memo oder Entwurf |
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -428,11 +456,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `anschluss`
+## Skill: `rechtsabteilung-stimmbindung-und-beschlussmangel-nach-hannover-9`
 
-_Einstieg, Schnelltriage und Fallrouting im Gesellschaftsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig..._
+_Wenn es um Rechtsabteilung: Stimmbindung und Beschlussmangel nach Hannover-96-Linie in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Gesellschaftsrecht — Allgemein
+# Rechtsabteilung: Stimmbindung und Beschlussmangel nach Hannover-96-Linie
 
 ## Arbeitsweg
 
@@ -443,1423 +471,619 @@ _Einstieg, Schnelltriage und Fallrouting im Gesellschaftsrecht-Plugin. Fragt Rol
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gesellschaftsrecht — Allgemein` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsabteilung: Stimmbindung und Beschlussmangel nach Hannover-96-Linie` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Schnellstart-Workflow
-
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Gesellschaftsrecht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
-
-**Plugin-Fokus:** Gesellschaftsrecht – GmbH/AG/Personengesellschaften, M&A-Due-Diligence ohne Discovery (Q&A + Datenraum), Gesellschafterbeschlüsse, HRB/HRA-Anmeldungen, Closing Checklists, Compliance-Fristen.
-
-### 0. Stummer Upload — Material ohne Begleittext
-
-Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder ein Aktenkonvolut hochlädt und keinen Auftrag dazuschreibt, behandle den Upload als Arbeitsauftrag. Warte nicht auf einen Prompt. Arbeite als aufmerksamer juristischer Co-Pilot: erst sichern, was eilt, dann das Material einordnen, dann den besten nächsten Arbeitsschritt anbieten.
-
-**Pflicht-Reihenfolge bei stummem Upload:**
-
-1. **Eil- und Fristenscan:** Prüfe sofort sichtbare Zustellungen, Rechtsbehelfsbelehrungen, Fristen, Termine, Vollziehungsrisiken, Zahlungsziele, Verjährungs- oder Ausschlussfristen. Wenn etwas eilt, beginne die Antwort mit `Frist zuerst: ...`.
-2. **Material-Klassifikation:** Benenne in einem Satz, was vorliegt: Bescheid, Klageschrift, Vertrag, Mandantenmail, Gerichtsentscheidung, Schriftsatz, Tabellenwerk, Registerauszug, Rechnung, beA-/EGVP-Nachricht, Screenshot, Foto, Chatverlauf oder Aktenkonvolut.
-3. **Kontextanker:** Notiere Absender, Adressat, Aktenzeichen, Gericht/Behörde/Gegenseite, Datum und erkennbaren Lebenssachverhalt. Wenn der Text unleserlich ist, sage genau, welcher Teil fehlt.
-4. **Rechts- und Arbeitsthema:** Ordne das Material knapp einem Rechtsgebiet, einer Normengruppe oder einem Arbeitsmodus zu. Zitiere nur, was im Material oder im Plugin-Kontext wirklich trägt.
-5. **Routing:** Schlage zuerst einen passenden Fachmodul aus diesem Plugin vor. Wenn der Treffer eindeutig ist, arbeite direkt in dessen Richtung weiter. Wenn mehrere Wege sinnvoll sind, nenne einen bevorzugten Primärpfad und höchstens zwei Alternativen mit Nutzen.
-6. **Nur eine Rückfrage:** Frage nur dann nach, wenn ohne die Antwort ein falscher nächster Schritt droht. Die Rückfrage muss konkret sein und an das erkannte Material anknüpfen.
-
-**Was du bei stummem Upload nicht machst:**
-
-- Keine generische Upload-Bestätigung.
-- Keine vollständige Intake-Liste aus Abschnitt 1.
-- Keine erfundenen Dokumentdetails, Fristen, Anlagen oder Fundstellen.
-- Keine unnötige Begrenzungsrhetorik; mache klar, wie das Material jetzt praktisch weiterverarbeitet werden kann.
-
-**Antwortformat bei stummem Upload:**
-
-- **Erkannt:** [Materialart, Absender/Aktenzeichen falls sichtbar]
-- **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
-- **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
-- **Primärer Pfad:** Wähle nach Aktenlage den nächsten passenden Skill und begründe in einem Satz, welche Frist, Zuständigkeit, Beweislast oder welches Arbeitsprodukt dadurch geklärt wird.
-- **Alternativen:** `...`, `...`
-- **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
-
-### 1. Intake in 60 Sekunden
-
-Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
-
-| Punkt | Frage | Warum wichtig? |
-|---|---|---|
-| Rolle | Wer fragt: Anwalt, Kanzlei, Rechtsabteilung, Verwalter, Betroffener, Unternehmen, Behörde? | Perspektive und Ton bestimmen. |
-| Ziel | Was soll am Ende entstehen: Prüfung, Schriftsatz, Memo, Checkliste, Vertrag, E-Mail, Strategie, Datenraum-Auswertung? | Output sofort sauber ausrichten. |
-| Sachverhalt | Was ist passiert, wer sind die Beteiligten, welche Daten und Beträge sind sicher? | Keine Arbeit auf Luft bauen. |
-| Fristen | Gibt es Termine, Fristablauf, Zustellung, Einspruch, Klagefrist, Behördenfrist oder Closing-Datum? | Eilsachen zuerst sichern. |
-| Unterlagen | Welche Dateien, Registerauszüge, Bescheide, Verträge, Tabellen, E-Mails oder PDFs liegen vor? | Aktenarbeit statt Raten. |
-| Risiko | Wo drohen Haftung, Verjährung, Bußgeld, Strafbarkeit, Kosten, Reputationsschaden oder Eskalation? | Priorität und Vorsicht einstellen. |
-| Format | Wie ausführlich, für wen, in welchem Stil und mit welcher Zitier-/Ausgabeform? | Ergebnis direkt verwendbar machen. |
-
-### 2. Sofort-Triage
-
-Arbeite danach in dieser Reihenfolge:
-
-1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
-2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
-3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
-4. **Fachmodule vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
-5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
-6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
-
-### 3. Routing-Regeln
-
-- Schlage **immer zuerst Skills aus diesem Plugin** vor. Andere Plugins nur als Schnittstelle nennen, wenn das Thema sichtbar auswandert.
-- Nenne nie nur einen Skillnamen. Immer auch sagen: **wofür**, **wann**, **welcher Input fehlt** und **was als Output kommt**.
-- Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
-- Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
-- Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
-- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Fachmodul.
-
-### 4. Antwortformat für den Einstieg
-
-Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
-
-**Kurzbild**
-- Ziel: [...]
-- Rolle/Perspektive: [...]
-- Eilt wegen: [...]
-- Fehlende Unterlagen: [...]
-
-**Vorgeschlagener Workflow**
-1. [...]
-2. [...]
-3. [...]
-
-**Passende Skills aus diesem Plugin**
-| Skill | Warum jetzt? | Erwarteter Output |
-|---|---|---|
-| `...` | [...] | [...] |
-
-**Nächste Frage**
-[Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
-
-### 5. Fachmodule in diesem Plugin
-
-| Skill | Wann vorschlagen? |
-|---|---|
-| `aufsichtsrat-protokoll` | Erstellt Protokolle von Vorstandssitzungen (AG), Aufsichtsratssitzungen (AG, § 107 AktG) und Gesellschafterversammlungen (GmbH, § 48 GmbHG) im Hausformat. Erkennt bevorstehende Organsitzungen aus dem Kalender, fragt… |
-| `dd-findings-extraktion` | Liest Datenraum-Dokumente und extrahiert Issues nach den Hauskategorien und Wesentlichkeitsschwellen im Findings-Report-Format. Laden wenn der Nutzer Datenraum prüfen, DD-Issues extrahieren aus [Ordner],… |
-| `dealteam-zusammenfassung` | Erstellt gestaffelte Deal-Briefings für Geschäftsführung, Deal-Lead und Arbeitsteam aus DD-Findings und Vollzugscheckliste. Trigger: Deal-Briefing, Deal-Zusammenfassung, Status für Geschäftsführung, Team-Update,… |
-| `geschaeftsfuehrer-haftung-43-gmbhg` | Geschäftsführer haftet persoenlich oder Gesellschaft klagt gegen ihn auf Schadensersatz nach Insolvenz. Prüfraster § 43 GmbHG Sorgfalt ordentlicher Geschäftsmann Business Judgement Rule analog § 93 Abs. 1 Satz 2 AktG.… |
-| `gesellschafterbeschluss` | Erstellung, Prüfung und Anfechtung von Gesellschafterbeschluessen in GmbH (47 und 48 GmbHG) und AG (133 ff. AktG); Mehrheitserfordernisse, Beschlussfähigkeit, Formfragen, Protokollführung sowie Nichtigkeit (241 AktG… |
-| `gesellschafterstreit-loesungsstrategie` | Gesellschafter sind zerstritten Patt-Situation oder Mehrheits-Gesellschafter droht Hinaus-Kündigung. Strategie bei GmbH-Konflikten: Mediation Beschluss-Anfechtungsklage § 246 AktG analog Abberufung Geschäftsführer § 38… |
-| `gesellschafts-compliance` | Gesellschafts-Compliance-Tracker – Initialisierung, Fälligkeitsbericht, Status-Update, Gesundheits-Audit, Export. Pflegt eine compliance-tracker.yaml aus der Gesellschaftstabelle, berechnet Einreichungsfristen nach… |
-| `gesellschaftsrecht-anpassen` | Geführte Anpassung des gesellschaftsrechtlichen Praxisprofils — einzelne Einstellung ändern, ohne das vollständige Ersteinrichtungs-Interview neu durchzuführen. Risikoprofil, Eskalationskontakte, aktive Module (M&A /… |
-| `gesellschaftsrecht-kaltstart-interview` | Ersteinrichtungs-Interview für das gesellschaftsrechtliche Praxisprofil — erfasst Tätigkeitsbereiche (M&A, Gesellschafterversammlung/Aufsichtsrat, Kapitalmarkt, Gesellschaftsverwaltung), Wesentlichkeitsschwellen,… |
-| `gesellschaftsrecht-mandat-arbeitsbereich` | Mandats-Workspaces verwalten — anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen, damit Mehrfachmandatsanwälte den Kontext eines Mandats sauber von jedem anderen trennen. Wird von allen… |
-| `gmbh-gruendung` | Begleitung der GmbH-Gründung von der Satzungserstellung (§ 2 GmbHG) bis zur Eintragung ins Handelsregister (§ 7 GmbHG) einschließlich UG-Variante (§ 5a GmbHG), Gewerbeanmeldung und Transparenzregister. Lädt bei… |
-| `handelsregisteranmeldung` | Vorbereitung und Prüfung von Handelsregisteranmeldungen (HRB, HRA, GnR, PartGR) nach § 12 HGB; Pflichtanmeldungen für Geschäftsführerwechsel (§ 39 GmbHG), Prokura (§ 53 HGB), Sitzverlegung und Kapitalmaßnahmen;… |
-| `integrations-management` | Post-Merger-Integrations-Tracker — phasenbasierter Arbeitsplan, Zustimmungsverfolgung, Vertragsübertragung im Großmaßstab, Statusberichte. Initialisiert aus SPA, Deal-Zusammenfassung oder Abschluss-Checkliste.… |
-| `ki-werkzeug-uebergabe` | KI-Tool-Übergabe für Massenvertragsprüfungen an Luminance oder Kira. Laden wenn der Nutzer "Luminance\", "Kira\", "KI-Prüfung\", "automatische Extraktion\" oder "Massenprüfung\" erwähnt oder der Datenraum mehr als ~50… |
-| `mandat-triage-gesellschaftsrecht` | Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach GmbH-Gründung Gesellschafterbeschluss Kapitalerhöhung Geschäftsführer-Abberufung M&A-Transaktion oder Gesellschafterstreit. Klaert… |
-| `schriftliche-beschlussfassung` | Entwirft Beschlüsse im schriftlichen Verfahren (§ 48 Abs. 2 GmbHG) oder Umlaufbeschlüsse im Hausstil mit Präzedenzsuche im Beschlussarchiv. Bei der AG: Hinweis, dass HV-Beschlüsse Präsenz oder virtuelle HV (§ 118a… |
-| `tabellenpruefung` | Tabellarisches Vertragsreview als Prompt-Matrix — pro Spalte ein Extraktionsprompt (was wird gefragt), pro Zeile ein dokumentspezifischer Prompt (wie wird dieses Dokument behandelt). Eine Zeile pro Dokument, eine… |
-| `vollzugs-checkliste` | Vollzugscheckliste für M&A-Transaktionen nach deutschem Recht – was blockiert den Vollzug (Closing), kritischer Pfad, Tage bis Vollzug. Selbstaktualisierend: nimmt neue Einträge aus DD-Findings und Anlage-Erstellung… |
-| `wesentliche-vertraege-anlage` | Erstellt das Verzeichnis wesentlicher Verträge (Material Contracts Schedule) aus Due-Diligence-Erkenntnissen auf Grundlage der SPA-Definition und des Anhangformats. Berücksichtigt Change-of-Control-Klauseln… |
-
-## Worum geht es?
-
-Dieses Plugin unterstuetzt Anwaelte und Wirtschaftsjuristen bei laufenden gesellschaftsrechtlichen Mandaten: GmbH- und AG-Governance, Personengesellschaften, M&A-Due-Diligence ohne Discovery, Gesellschafterbeschluesse, Handelsregisteranmeldungen, Closing-Checklisten und Compliance-Fristen. Es deckt sowohl die laufende Gesellschaftsverwaltung als auch transaktionsbezogene Mandate ab.
-
-Das Plugin ist auf eine prüfende und beratende Kanzleipraxis ausgerichtet. Es enthaelt einen Kaltstart-für die Einrichtung des Praxisprofils sowie Mandats-Workspaces für Mehrfachmandatsbetrieb.
-
-## Wann brauchen Sie diese Skill?
-
-- Sie beraten eine GmbH bei Beschlussfassung, Geschäftsführer-Haftung oder Gesellschafterstreit.
-- Sie begleiten eine M&A-Transaktion auf der Rechtspruefungsseite (Due Diligence, Q&A, Datenraum, Closing Checklist).
-- Sie müssen Handelsregisteranmeldungen vorbereiten (Geschäftsführerwechsel, Prokura, Sitzverlegung, Kapitalmanahmen).
-- Sie verwalten gesellschaftsrechtliche Compliance-Fristen (Jahresabschluss, Transparenzregister, Bilanzpublizitaet).
-- Ein Gesellschafterstreit droht oder eine Patt-Situation ist eingetreten und Sie benoetigen eine Konfliktstrategie.
-
-## Fachbegriffe (kurz erklaert)
-
-- **Business Judgment Rule** — Haftungsprivileg für Geschäftsführer und Vorstande bei unternehmerischen Entscheidungen (analog § 93 Abs. 1 S. 2 AktG, § 43 GmbHG).
-- **Drag-Along** — Mitnahmerecht: Mehrheitsgesellschafter kann Minderheitsgesellschafter zum Verkauf zwingen.
-- **Tag-Along** — Mitveraeuserungsrecht: Minderheitsgesellschafter kann beim Verkauf mitziehen.
-- **Closing Checklist** — Checkliste aller bis zum Vollzug einer Transaktion zu erfuellenden Bedingungen und Handlungen.
-- **Umlaufbeschluss** — Gesellschafterbeschluss ohne Versammlung; bei GmbH nach § 48 Abs. 2 GmbHG zulässig mit Zustimmung aller Gesellschafter.
-- **Prokura** — Umfassende Handlungsvollmacht nach §§ 48 ff. HGB; bedarf der Handelsregistereintragung.
-- **Change of Control** — Klausel in Vertraegen, die bei Wechsel der Gesellschafterstruktur besondere Rechte (z.B. Kuendigung) ausloest.
-
-## Rechtsgrundlagen
-
-- §§ 35-43 GmbHG — Geschäftsführung und Haftung
-- §§ 46-49 GmbHG — Gesellschafterversammlung und Beschlüsse
-- §§ 93 ff. AktG — Vorstandshaftung, Business Judgment Rule
-- §§ 107 ff. AktG — Aufsichtsrat (Protokoll, Beschlüsse)
-- §§ 241, 246 AktG — Nichtigkeits- und Anfechtungsklage (analog GmbH)
-- §§ 12 ff. HGB — Handelsregister und Registeranmeldung
-- §§ 48 ff. HGB — Prokura
-- §§ 15 HGB — Wirkung der Handelsregistereintragung
-- § 613a BGB — Betriebsuebergang bei Post-Merger-Integration
-- §§ 18 ff. GwG — Transparenzregister
-
-## Schritt-für-Schritt: Einstieg ins Plugin
-
-1. Mandantenkonstellation klären: Gesellschaftsform, Mandantenrolle (Gesellschafter, GF, Aufsichtsrat, Kaeufer, Investor), Sachgebiet.
-2. Phase des Mandats bestimmen: Governance, Transaktion (DD, Closing), Streit oder Compliance.
-3. Passenden Skill auswaehlen (siehe Skill-Tour).
-4. Eilfristen prüfen: Insolvenzantragspflicht § 15a InsO, Anfechtungsklagefrist § 246 AktG analog (ein Monat), WEG-Klagefrist.
-5. Anschluss-Skill bestimmen: nach Due-Diligence-Extraktion folgt Deal-Team-Briefing und Closing Checklist.
-
-## Skill-Tour (was gibt es hier?)
-
-**Konfiguration und Einstieg**
-
-- `gesellschaftsrecht-kaltstart-interview` — Ersteinrichtung des Praxisprofils: Taetigkeitsbereiche, Wesentlichkeitsschwellen, Hausstil, Eskalationsmatrix.
-- `gesellschaftsrecht-anpassen` — Praxisprofil aktualisieren: Risikoprofil, Module, Schwellenwerte, Workspace-Pfade.
-- `gesellschaftsrecht-mandat-arbeitsbereich` — Mandats-Workspaces verwalten für Mehrfachmandatsbetrieb.
-- `mandat-triage-gesellschaftsrecht` — Eingangs-Abfrage für gesellschaftsrechtliche Mandate mit Fristen-Ampel und Routing.
-
-**Gesellschafterbeschluesse und Governance**
-
-- `gesellschafterbeschluss` — Erstellung, Prüfung und Anfechtung von Gesellschafterbeschluessen in GmbH und AG.
-- `schriftliche-beschlussfassung` — Umlaufbeschluesse im Hausstil mit Stimmverboten und Mehrheitserfordernissen.
-- `aufsichtsrat-protokoll` — Protokolle von Vorstandssitzungen, Aufsichtsratssitzungen und GV im Hausformat.
-
-**Haftung und Konflikt**
-
-- `geschaeftsfuehrer-haftung-43-gmbhg` — Prüft persönliche Haftung des GF nach § 43 GmbHG mit Business Judgment Rule und D&O-Versicherung.
-- `gesellschafterstreit-loesungsstrategie` — Konflikt- und Mediationsstrategie bei Gesellschafterstreit, Patt-Situation und Einziehungsverfahren.
-
-**Due Diligence und M&A**
-
-- `dd-findings-extraktion` — Extraktion von DD-Issues aus Datenraum-Dokumenten nach Hauskategorien und Wesentlichkeitsschwellen.
-- `dealteam-zusammenfassung` — Gestaffelte Deal-Briefings für GF, Deal-Lead und Arbeitsteam aus DD-Findings.
-- `vollzugs-checkliste` — Vollzugscheckliste für M&A-Transaktionen: kritischer Pfad, CPs, Tage bis Closing.
-- `wesentliche-vertraege-anlage` — Verzeichnis wesentlicher Verträge (Material Contracts Schedule) aus DD-Erkenntnissen.
-- `ki-werkzeug-uebergabe` — KI-Tool-Übergabe für Massenvertragsprüfungen an Luminance oder Kira.
-- `tabellenpruefung` — Tabellarisches Vertragsreview als Prompt-Matrix pro Dokument und Datenpunkt.
-
-**Register und Compliance**
-
-- `handelsregisteranmeldung` — Vorbereitung von HRB/HRA/GnR/PartGR-Anmeldungen mit Pflichtanmeldungen und Wirkung nach § 15 HGB.
-- `gmbh-gruendung` — GmbH-Gruendung von der Satzung bis zur Handelsregistereintragung mit UG-Variante.
-- `gesellschafts-compliance` — Compliance-Tracker für Einreichungsfristen, Bilanzpublizitaet und Transparenzregister.
-
-**Post-Merger-Integration**
-
-- `integrations-management` — PMI-Tracker: Phasenplan, Zustimmungsverfolgung, § 613a BGB und BetrVG-Mitbestimmung.
-
-## Worauf besonders achten
-
-- **Anfechtungsfrist beachten.** Die Analogie zu § 246 AktG für GmbH-Beschlüsse setzt typischerweise eine einmonatige Klagefrist; nach laengerer Zeit droht Verwirkung.
-- **Insolvenzantragspflicht parallel prüfen.** Sobald der GF Insolvenzanzeichen erkennt, laeuft die Antragspflicht nach § 15a InsO; sofort an `fortbestehensprognose`-Plugin verweisen.
-- **Change-of-Control-Klauseln in DD.** Bei M&A-Due-Diligence müssen alle wesentlichen Verträge auf Change-of-Control-Klauseln durchleuchtet werden; Closing kann sonst scheitern.
-- **Umlaufbeschluss erfordert Einstimmigkeit.** Bei GmbH muss jeder Gesellschafter zustimmen (§ 48 Abs. 2 GmbHG); fehlende Stimmen machen Beschluss unwirksam.
-- **Transparenzregister und Gesellschafterliste aktuell halten.** Jede Änderung der Gesellschafterstruktur loest eine Meldepflicht aus (§ 20 GwG).
-
-## Typische Fehler
-
-- GF-Haftung wird nur nach § 43 GmbHG geprueft ohne § 15b InsO Zahlungsverbot bei Insolvenzreife.
-- Protokolle von Gesellschafterversammlungen sind unvollstaendig; Abstimmungsergebnisse fehlen oder Stimmverbote werden nicht beachtet.
-- Closing-Checklist wird zu spaet aufgebaut; Regulatory-Fristen wurden verpasst.
-- Betriebsuebertragung nach § 613a BGB wird in Post-Merger-Integration nicht fristgemaess kommuniziert.
-- DD-Findings werden nicht in die SPA-Garantien und Disclosure Schedules übersetzt.
-
-## Quellen und Aktualitaet
-
-- Stand: 05/2026
-- Gesetzesfassungen zum Stand-Datum (GmbHG, AktG, HGB, BGB, InsO, GwG, BetrVG)
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 48 GmbHG
-- § 40 GmbHG
-- § 246 AktG
-- § 43 GmbHG
-- § 47 GmbHG
-- § 108 AktG
-- § 20 GwG
-- § 53 GmbHG
-- § 15 GmbHG
-- § 130 AktG
-- § 5 GmbHG
-- § 107 AktG
-
-### Leitentscheidungen
-
-- BGH II ZR 25/82
-- BFH I R 53/08
-
----
-
-## Skill: `aufsichtsrat-protokoll`
-
-_Erstellt Protokolle von Vorstandssitzungen (AG), Aufsichtsratssitzungen (AG, § 107 AktG) und Gesellschafterversammlungen (GmbH, § 48 GmbHG) im Hausformat. Erkennt bevorstehende Organsitzungen aus dem Kalender, fragt nach Tagesordnung und Materialien und erstellt einen vollständigen Entwurf. Trigg..._
-
-# Vorstands- und Aufsichtsratsprotokoll (AG: § 107 AktG; GmbH: § 48 GmbHG)
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vorstands- und Aufsichtsratsprotokoll (AG: § 107 AktG; GmbH: § 48 GmbHG)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Fachkern: Vorstands- und Aufsichtsratsprotokoll (AG: § 107 AktG; GmbH: § 48 GmbHG)
+## Fachkern: Rechtsabteilung: Stimmbindung und Beschlussmangel nach Hannover-96-Linie
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
 - **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
+## Spezialkern: Rechtsabteilung: Stimmbindung und Beschlussmangel nach Hannover-96-Linie
+
+- **Konkretes Problem:** Rechtsabteilungen trennen Satzungsverstoß, schuldrechtliche Stimmbindung und Anfechtbarkeit.
+- **Norm-/Quellenanker:** GmbHG, AktG, MoPeG/BGB-Gesellschaftsrecht, HGB, UmwG, Registerrecht, Treuepflicht, Organhaftung und Beschlussmängelrecht.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
+
+## Norm- und Rechtsprechungsanker
+
+BGH, Urteil vom 16.07.2024 - II ZR 71/23; GmbHG Paragraf 47, 51; Paragraf 242 BGB
+
+## Sofortprüfung
+
+1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
+2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
+3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
+4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
+5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
+
+## Fachlicher Zuschnitt
+
+Rechtsabteilungen trennen Satzungsverstoß, schuldrechtliche Stimmbindung und Anfechtbarkeit.
+
+## Output für die Rechtsabteilung
+
+- One-page legal memo mit Risikoampel und klarer Empfehlung.
+- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
+- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
+- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
+
+---
+
+## Skill: `rechtsabteilung-geschaeftsfuehrerhaftung-fuer-compliance-versage`
+
+_Wenn es um Rechtsabteilung: Geschäftsführerhaftung für Compliance-Versagen in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Rechtsabteilung: Geschäftsführerhaftung für Compliance-Versagen
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsabteilung: Geschäftsführerhaftung für Compliance-Versagen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
+- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
+- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Fachkern: Rechtsabteilung: Geschäftsführerhaftung für Compliance-Versagen
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
+- **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Spezialkern: Rechtsabteilung: Geschäftsführerhaftung für Compliance-Versagen
+
+- **Konkretes Problem:** Compliance-Redflags werden in Organpflichten, Ressortverteilung und D&O-Meldung übersetzt.
+- **Norm-/Quellenanker:** GmbHG, AktG, MoPeG/BGB-Gesellschaftsrecht, HGB, UmwG, Registerrecht, Treuepflicht, Organhaftung und Beschlussmängelrecht.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
+
+## Norm- und Rechtsprechungsanker
+
+GmbHG Paragraf 43; AktG Paragraf 93 als Wertung; Business Judgment Rule; BGH-Linie live prüfen
+
+## Sofortprüfung
+
+1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
+2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
+3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
+4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
+5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
+
+## Fachlicher Zuschnitt
+
+Compliance-Redflags werden in Organpflichten, Ressortverteilung und D&O-Meldung übersetzt.
+
+## Output für die Rechtsabteilung
+
+- One-page legal memo mit Risikoampel und klarer Empfehlung.
+- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
+- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
+- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
+
+---
+
+## Skill: `gesellschaftsrecht-mandatsworkspace-kontexttrennung`
+
+_Wenn es um Gesellschaftsrechtlicher Mandatsworkspace und Kontexttrennung in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Gesellschaftsrechtlicher Mandatsworkspace und Kontexttrennung
+
 ## Kernsachverhalt
 
-Sitzungsprotokolle sind Rechtsurkunden. Sie dokumentieren Beschlussfassungen, legitimieren Organhandeln und sind das primäre Beweismittel für Ermächtigungen, Zustimmungen und Willensbildungsprozesse. Fehlerhafte, unvollständige oder verspätete Protokolle gefährden die Rechtssicherheit von Unternehmensentscheidungen — von Unternehmenskäufen über Kapitalmaßnahmen bis hin zur Entlastung von Vorstand und Aufsichtsrat.
+Rechtsanwälte führen parallel mehrere Mandate. Jedes Mandat hat seinen eigenen Mandanten, seine eigene Gegenpartei, seine eigene Transaktionsphase, seine eigenen vertraulichen Unterlagen und seine eigene Handlungslogik. Die Vermischung von Mandatsinhalten — auch unbeabsichtigt — verletzt die anwaltliche Verschwiegenheitspflicht (Paragraf 43a Abs. 2 BRAO, Paragraf 203 Abs. 1 Nr. 3 StGB) und kann Interessenkonflikte begründen (Paragraf 43a Abs. 4 BRAO).
 
-Unterstützt bei der Erstellung von Protokollen für:
-- **Aufsichtsratssitzungen** (AG, § 107 Abs. 2 AktG — gesetzliche Niederschriftspflicht)
-- **Vorstandssitzungen** (AG, keine gesetzliche Pflicht, aber beweisrechtlich zwingend empfohlen)
-- **Gesellschafterversammlungen** (GmbH, § 48 GmbHG — keine gesetzliche Protokollpflicht, aber gesellschaftsvertraglich und nach h.M. unverzichtbar)
-- **Hauptversammlungen** (AG, § 130 AktG — notarielle Beurkundung bei börsennotierten AG)
-- **Beiratssitzungen** (wenn Beirat organschaftliche Funktion hat)
+Dieser Skill verwaltet Mandats-Workspaces: Er legt sie an, listet sie auf, wechselt zwischen ihnen, schließt sie und archiviert sie. Alle inhaltlichen Skills im Gesellschaftsrecht-Paket lesen den aktiven Mandats-Workspace, bevor sie arbeiten, und beziehen sich ausschließlich auf dessen Kontext.
+
+**Im M&A-Kontext** unterstützt dieser Skill die typischen Transaktionsphasen: NDA-Phase und Datenraumzugang, LOI-Phase, Due-Diligence, SPA-Verhandlung, Signing/Closing und Post-Closing-Integration.
 
 ## Kaltstart-Rückfragen
 
-Bevor das Protokoll erstellt wird, sind folgende Punkte zu klären:
+Vor Anlage eines neuen Mandats-Workspace sind folgende Angaben erforderlich:
 
-1. **Welches Organ, welche Gesellschaft?** AG-Aufsichtsrat / AG-Vorstand / GmbH-Gesellschafterversammlung / HV / Beirat — und Name der Gesellschaft?
-2. **Datum, Uhrzeit, Ort?** Physische Sitzung (Adresse), Videokonferenz (Plattform), Telefonsitzung oder hybride Sitzung?
-3. **Einladung erfolgt?** Wann, durch wen, auf welchem Weg? Wurde die Einladungsfrist (AR: § 110 Abs. 2 AktG mind. 14 Tage) eingehalten oder wurde auf sie verzichtet?
-4. **Anwesenheit?** Wer war anwesend (Mitglieder, Gäste, externe Berater), wer entschuldigt? Beschlussfähigkeit gegeben (§ 108 Abs. 2 AktG)?
-5. **Stimmverbote?** Lagen Interessenkonflikte vor (§ 47 Abs. 4 GmbHG, § 136 AktG)? Welche Mitglieder waren von welchen Abstimmungen ausgeschlossen?
-6. **Tagesordnung und Materialien?** Bitte Tagesordnung, Beschlussvorlagen, Präsentationen und Berichte bereitstellen (auch als grober Entwurf oder Stichpunkte).
-7. **Beschlüsse?** Welche Beschlüsse wurden gefasst, mit welchem Abstimmungsergebnis (Ja/Nein/Enthaltungen)?
-8. **Anlagen?** Welche Dokumente wurden beigefügt oder in der Sitzung verteilt?
-9. **Protokollform?** Vollprotokoll (wortnahe Wiedergabe der Diskussion), Beschlussprotokoll (nur Beschlüsse) oder Hybridform (Hausformat)?
-10. **Unterzeichnung?** Wer unterzeichnet (AR-Vorsitzender allein nach § 107 Abs. 2 S. 3 AktG; GmbH-GV: Versammlungsleiter; Gegenpräsentation / Nichtjurist-Rolle beachten)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+1. **Mandant:** Name der vertretenen Partei (oder interne Geschäftseinheit bei In-house-Juristen)?
+2. **Gegenpartei:** Wer ist die andere Seite (Käufer/Verkäufer, Mitgesellschafter, Schuldner)? Mehrere Gegenparteien möglich.
+3. **Mandatstyp:** M&A Käuferseite / M&A Verkäuferseite / Finanzierung / Governance-Mandat / Gesellschaftsreorganisation / Integrationsprojekt / Sonstige?
+4. **Transaktionsphase:** NDA | LOI | Due Diligence | SPA-Verhandlung | Signing/Closing | Post-Closing-Integration | Laufende Beratung?
+5. **Vertraulichkeitsstufe:** Standard / Erhöht / Clean-Team? (Erhöht = besondere Sorgfalt in mandatsübergreifenden Settings.)
+6. **Wesentliche Fakten:** 2–5 Sätze zu Gegenstand, Stakeholdern und dem, was auf dem Spiel steht.
+7. **Mandatsspezifische Abweichungen vom Praxisstandard:** Was weicht von den Kanzlei-Standardvorgaben ab (z.B. abweichende Haftungsdeckelung, Sprachregelung, Rechtsordnung)?
+8. **Verbundene Mandate:** Slug-Verweise auf verwandte Mandate (z.B. NDA-Mandat, das dem SPA-Mandat vorausging)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
 ### Normtexte mit Auszügen
 
-**§ 107 Abs. 2 AktG — Niederschriftspflicht Aufsichtsrat**
-> "Über jede Sitzung des Aufsichtsrats ist eine Niederschrift anzufertigen, die Ort und Tag der Sitzung, die Teilnehmer, die Gegenstände der Tagesordnung, den wesentlichen Inhalt der Verhandlungen und die Beschlüsse des Aufsichtsrats enthält. [...] Die Niederschrift ist vom Vorsitzenden zu unterzeichnen."
+**Paragraf 43a Abs. 2 BRAO — Verschwiegenheitspflicht**
+> "Der Rechtsanwalt ist zur Verschwiegenheit verpflichtet. Diese Pflicht bezieht sich auf alles, was ihm in Ausübung seines Berufes bekanntgeworden ist."
 
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+Die Verschwiegenheitspflicht gilt unbegrenzt zeitlich, auch nach Mandatsbeendigung. Sie gilt für alle Mitarbeiter der Kanzlei (Paragraf 43a Abs. 2 S. 3 BRAO) und für alle Informationsträger — physisch und digital.
 
-**§ 48 GmbHG — Gesellschafterversammlung**
-> "Die Beschlüsse der Gesellschafter werden in Versammlungen gefasst. [...] Die Gesellschafterversammlung wird durch die Geschäftsführer berufen."
+**Paragraf 203 Abs. 1 Nr. 3 StGB — Verletzung von Privatgeheimnissen**
+> "Wer unbefugt ein fremdes Geheimnis, namentlich ein zum persönlichen Lebensbereich gehörendes Geheimnis oder ein Betriebs- oder Geschäftsgeheimnis, offenbart, das ihm als Rechtsanwalt [...] anvertraut worden ist oder sonst bekanntgeworden ist, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft."
 
-Protokollpflicht: § 48 GmbHG enthält keine gesetzliche Protokollpflicht. Sie ergibt sich aus dem Gesellschaftsvertrag (übliche Klausel) oder aus Beweiszwecken. Bei § 48 Abs. 2 GmbHG (schriftliches Abstimmungsverfahren) empfiehlt sich ein schriftliches Protokoll, das die Einvernehmlichkeit aller Gesellschafter dokumentiert.
+**Paragraf 43a Abs. 4 BRAO — Verbot der Wahrnehmung widerstreitender Interessen**
+> "Der Rechtsanwalt darf keine widerstreitenden Interessen vertreten."
 
-**§ 130 AktG — Beurkundung der Hauptversammlungsbeschlüsse**
-> "(1) Jeder Beschluß der Hauptversammlung ist durch eine über die Verhandlung notariell aufgenommene Niederschrift zu beurkunden."
+Dieser Skill führt **keine** Interessenkonfliktprüfung durch. Die Konfliktprüfung obliegt dem Anwalt vor jeder Mandatsannahme. Der Skill stellt lediglich sicher, dass Mandatsinhalte technisch getrennt bleiben.
 
-Gilt für börsennotierte AG. Für nicht börsennotierte AG reicht nach § 130 Abs. 4 AktG eine vom Vorsitzenden und vom Hauptaktionär unterzeichnete Niederschrift.
+**Paragraf 53 StPO — Zeugnisverweigerungsrecht des Rechtsanwalts**
+> Dem Rechtsanwalt steht ein Zeugnisverweigerungsrecht zu über das zu, was ihm in dieser Eigenschaft anvertraut oder bekanntgeworden ist.
 
-**§§ 241 ff. AktG — Beschlussmängel**
-
-| Norm | Mängelart | Rechtsfolge |
-|---|---|---|
-| § 241 AktG | Nichtigkeitsgründe (abschließend): fehlende notarielle Form, Verstoß gegen Gläubigerschutz/öffentliche Ordnung, Satzungsverstoß bei Kapitalmaßnahmen | Beschluss ist nichtig von Anfang an; jedermann kann sich darauf berufen |
-| § 243 AktG | Anfechtbarkeit: Gesetzes-/Satzungsverstoß | Beschluss wirksam bis zur Anfechtung; Klage innerhalb 1 Monat (§ 246 Abs. 1 AktG) |
-| § 244 AktG | Heilung des anfechtbaren Beschlusses | Durch Genehmigung der HV oder Ablauf der Anfechtungsfrist |
-| § 246 Abs. 1 AktG | Anfechtungsfrist | 1 Monat ab Beschlussfassung |
-
-**§ 47 Abs. 4 GmbHG — Stimmverbot GmbH**
-> "Ein Gesellschafter, welcher durch die Beschlußfassung entlastet oder von einer Verbindlichkeit befreit werden soll, hat hierbei kein Stimmrecht und darf ein solches auch nicht für andere ausüben."
-
-Das Stimmverbot gilt auch für Beschlüsse über die Einleitung von Rechtsstreitigkeiten gegen den betreffenden Gesellschafter. Verstoß führt zur Anfechtbarkeit des Beschlusses.
-
-**§ 136 AktG — Stimmverbotsregelungen bei der AG**
-> "(1) Niemand kann für sich oder für einen anderen das Stimmrecht ausüben, wenn darüber Beschluß gefaßt wird, ob er zu entlasten oder von einer Verbindlichkeit zu befreien ist oder ob die Gesellschaft gegen ihn einen Anspruch geltend machen soll."
-
-**§ 108 Abs. 2 AktG — Beschlussfähigkeit des Aufsichtsrats**
-> "Der Aufsichtsrat ist beschlußfähig, wenn mindestens drei Mitglieder an der Beschlußfassung teilnehmen."
-
-Zusätzlich: Mindestens die Hälfte der Gesamtzahl der Mitglieder muss anwesend sein (§ 108 Abs. 2 S. 1 AktG).
-
-**§ 110 Abs. 2 AktG — Einladungsfrist Aufsichtsrat**
-> Einberufung mind. 14 Tage vor der Sitzung. Verkürzung bei Dringlichkeit möglich; Verzicht bei Einvernehmen aller Mitglieder.
+**Paragraf 1 ff. GwG — Geldwäscheprävention / Mandantenidentifizierung**
+Bei M&A-Mandaten (Kauf/Verkauf von Unternehmen) gilt der Rechtsanwalt als Verpflichteter i.S.d. Paragraf 2 Abs. 1 Nr. 10 GwG. Pflichten: Identifizierung des Mandanten (Paragraf 10 GwG), Feststellung wirtschaftlich Berechtigter (Paragraf 11 GwG), Dokumentation (Paragraf 8 GwG).
 
 ### Leitentscheidungen
 
 | Gericht | Aktenzeichen | Fundstelle | Leitsatz / Relevanz |
 |---|---|---|---|
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
-## Prüfschema: Sitzungsprotokoll
+## Prüfschema: Mandats-Workspace
 
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
-| 1 | Organidentifikation | Welches Gremium? AG-AR, AG-Vorstand, GmbH-GV, HV, Beirat? | Festlegung des anwendbaren Rechtsrahmens |
-| 2 | Einladungsprüfung | Frist eingehalten (AR: § 110 Abs. 2 AktG, 14 Tage)? Einladungsverzicht dokumentiert? | Beschlussfähigkeit gefährdet, wenn Frist verletzt und kein Verzicht |
-| 3 | Beschlussfähigkeit | Anzahl anwesender Mitglieder / Quorum (§ 108 Abs. 2 AktG AR; GmbH: Gesellschaftsvertrag)? | Keine gültige Beschlussfassung bei fehlendem Quorum |
-| 4 | Stimmverbote | § 47 Abs. 4 GmbHG / § 136 AktG: Hat stimmbefangenes Mitglied abgestimmt? | Anfechtbarkeit prüfen; Stimmverbot im Protokoll vermerken |
-| 5 | Interessenkonflikte | § 34 BGB analog AR: Abstimmung über eigene Angelegenheit? | Stimmbefangenheit vermerken; ggf. Mitglied aus Abstimmung ausschließen |
-| 6 | Tagesordnungspunkte | Alle TOP korrekt erfasst? Reihenfolge stimmt? Beschlussvorlagen vorhanden? | Unvollständige TOP-Liste führt zu Beweisnot |
-| 7 | Beschlussdokumentation | Beschlüsse vollständig und klar formuliert? Abstimmungsergebnis (Ja/Nein/Enthaltung) angegeben? | Unklare Beschlussformulierung = Auslegungsstreit |
-| 8 | Anlagenverweis | Alle referenzierten Anlagen nummeriert und beigefügt? | Anlage fehlt = Beschluss unvollständig dokumentiert |
-| 9 | Notarielle Beurkundung | § 130 Abs. 1 AktG (börsennotierte AG); § 179 AktG (Satzungsänderung); § 293 AktG (Unternehmensvertrag): Notar erforderlich? | Formnichtigkeit bei fehlendem Notar (§ 241 Nr. 2 AktG) |
-| 10 | Unterzeichnung | AR: Vorsitzender allein (§ 107 Abs. 2 S. 3 AktG); GmbH-GV: Versammlungsleiter; HV: Notar / Vorsitzender (§ 130 AktG) | Fehlende Unterzeichnung begründet Beweisnot; kein automatischer Nichtigkeitsgrund |
-| 11 | Executive Sessions | Vertrauliche Sitzungsabschnitte (ohne Management) separat dokumentiert? | Mandats- und Beratungsgeheimnis beachten |
-| 12 | Zustellung und Fristen | Protokoll den Mitgliedern zugeleitet? Genehmigung in der Folgesitzung vorgesehen? | Keine gesetzliche Frist, aber Best Practice: innerhalb von 2 Wochen |
-| 13 | Anfechtungsfrist | § 246 Abs. 1 AktG: 1 Monat ab Beschlussfassung — GmbH analog? | Fristnotiz anlegen; für M&A-Transaktionen besondere Relevanz |
-| 14 | Beschlussmängelanalyse | Lagen formelle oder materielle Beschlussmängel vor (§§ 241, 243 AktG)? | Sofern erkennbar: unverzüglich mit Mandant besprechen |
-| 15 | Archivierung | Protokoll in mandatsspezifischem Archiv, verschlüsselt gespeichert? Aufbewahrungsfrist beachten? | Handelsrechtliche Aufbewahrung: 10 Jahre (§ 257 HGB) |
+| 1 | Praxisprofil lesen | `## Mandats-Workspaces` in CLAUDE.md: Aktiviert oder deaktiviert? | Deaktiviert bei In-house-Juristen (Standard); nur aktivieren bei Mehrfachmandatskanzlei |
+| 2 | Unterbefehl identifizieren | Ersten Token auswerten: neu / liste / wechseln / schließen / keine? | Routing zu Schritt 3–7 |
+| 3 | Slug-Eindeutigkeit | Slug bereits in `mandate/<slug>/` oder `mandate/_archiv/<slug>` vorhanden? | Bei Duplikat: anderen Slug vorschlagen (Mandant + Typ + Jahr) |
+| 4 | Interessenkonfliktprüfung | Durch Anwalt: Gegenpartei gleichzeitig Mandant in anderem Mandat? | Skill führt keine Prüfung durch; Hinweis und Bestätigungsabfrage |
+| 5 | GwG-Identifizierung | Bei M&A-Mandat: Mandantenidentifizierung (Paragraf 10 GwG) dokumentiert? | Hinweis auf GwG-Pflichten bei Mandatsanlage |
+| 6 | Aufnahme-Interview | Alle Pflichtfelder erfasst (Mandant, Gegenpartei, Typ, Phase, Vertraulichkeit, Fakten, Abweichungen)? | Vollständige mandat.md generierbar |
+| 7 | Dateierstellung | mandat.md + verlauf.md + notizen.md angelegt? Pfad korrekt? | Workspace operationsbereit |
+| 8 | Aktives-Mandat-Zuweisung | Soll nach Anlage direkt gewechselt werden? | Nur auf ausdrückliche Anfrage; niemals automatisch |
+| 9 | Mandatsübergreifender Kontext | CLAUDE.md-Schalter auf `aus`? | Wenn auf `an`: Warnung bei erhöhter Vertraulichkeit; Einzelgenehmigung verlangen |
+| 10 | Wechsel bestätigen | Inhalt der neuen mandat.md zusammengefasst anzeigen? | Verwechslungsschutz bei vielen parallelen Mandaten |
+| 11 | Schließung archivieren | Bei Schließen: `mandate/<slug>/` → `mandate/_archiv/<slug>/`; Schließungsdatum in verlauf.md? | Archivierte Mandate für Konfliktprüfungen dauerhaft lesbar |
+| 12 | Nachpflege | Transaktionsphase nach Fortschritt aktualisieren (z.B. von Due Diligence → SPA-Verhandlung)? | Kontext bleibt aktuell für alle nachgelagerten Skills |
 
 ## Beweislast
 
 | Frage | Beweislast | Erläuterung |
 |---|---|---|
-| Beschluss wurde gefasst | Derjenige, der sich auf den Beschluss beruft | Protokoll als Urkundsbeweis (§ 416 ZPO bei privatschriftlichem Protokoll); bei notariellem Protokoll: öffentliche Urkunde (§ 415 ZPO) |
-| Beschluss ist nichtig (§ 241 AktG) | Kläger (bei Feststellungsklage); jedermann kann einwenden | Nichtigkeitsgründe sind von Amts wegen zu berücksichtigen |
-| Beschluss anfechtbar (§ 243 AktG) | Anfechtender Gesellschafter / Aktionär | Klage binnen 1 Monat; materieller Nachweis des Gesetzes-/Satzungsverstoßes |
-| Stimmverbot verletzt (§ 47 Abs. 4 GmbHG) | Anfechtender Gesellschafter | Nachweis, dass stimmbefangenes Mitglied abgestimmt und Beschluss damit kausal beeinflusst wurde |
-| Ordnungsgemäße Einladung | Einladender (Vorsitzender, Geschäftsführer) | Nachweis durch Einladungsschreiben, Eingangsbestätigungen, Einladungsverzicht |
-| Beschlussfähigkeit | Protokollführer / Vorsitzender | Anwesenheitsliste im Protokoll ist Beweismittel |
+| Verschwiegenheitspflichtverletzung durch RA | Mandant als Kläger (Paragraf 280 Abs. 1 BGB) | Nachweis: Was wurde offenbart, wann, an wen, welcher Schaden? |
+| Kein Interessenkonflikt | Rechtsanwalt (Paragraf 43a Abs. 4 BRAO) | RA muss belegen, dass keine widerstreitenden Interessen bestanden |
+| GwG-Identifizierungspflicht erfüllt | Rechtsanwalt (Paragraf 8 GwG: Dokumentationspflicht) | Kopien der Identifizierungsunterlagen und Dokumentation im Mandat |
+| Mandatsbeendigung | Derjenige, der sich auf die Beendigung beruft | Schriftliche Kündigung oder Mandatsbeendigungs-Protokoll |
+| Interessenkonflikt-Kündigung rechtmäßig | Rechtsanwalt | Nachweis der Kollisionslage; Hinweis an Mandant nach Paragraf 627 BGB |
 
 ## Fristen und Verjährung
 
-| Frist | Norm | Inhalt | Folge bei Versäumnis |
+| Frist / Aufbewahrung | Norm | Inhalt | Folge bei Versäumnis |
 |---|---|---|---|
-| Anfechtung HV-Beschluss | § 246 Abs. 1 AktG | 1 Monat ab Beschlussfassung | Beschluss wird unanfechtbar; Anfechtungsrecht erlischt |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Nichtigkeit (§ 241 AktG) | Keine Frist | Nichtigkeitsklage zu jederzeit möglich | Dauerhafter Schwebezustand; Heilungsmöglichkeit nach § 244 AktG prüfen |
-| Einladungsfrist AR | § 110 Abs. 2 AktG | Mind. 14 Tage vor Sitzung | Anfechtbarkeit der gefassten Beschlüsse; Verzicht dokumentieren |
-| Protokollierung AR | § 107 Abs. 2 AktG | Keine gesetzliche Frist; Best Practice: 2 Wochen | Beweisschwierigkeiten; ggf. Beschlussfassung unwirksam wenn Inhalt unrekonstruierbar |
-| Aufbewahrung Protokoll | § 257 Abs. 1 Nr. 1 HGB | 10 Jahre (Handelsbücher und Jahresabschlüsse; Protokolle als Handelsbriefe: 6 Jahre) | Ordnungswidrigkeitenrisiko; Beweisschwierigkeiten in Haftungsfällen |
-| Ansprüche gegen AR-Mitglieder | § 116 i.V.m. § 93 Abs. 6 AktG | Verjährung: 5 Jahre (börsennotierte AG: 10 Jahre); § 93 Abs. 6 AktG | Spätfolgen fehlerhafter Protokollierung (Beschlussmangel → Schaden) |
+| Aufbewahrung Handakten | Paragraf 50 BRAO | Mind. 6 Jahre nach Mandatsbeendigung | Disziplinarrechtliche Konsequenzen; Beweisschwierigkeiten |
+| Verjährung anwaltliche Pflichtverletzung | Paragraf 195, 199 BGB | 3 Jahre ab Kenntnis; max. 10 Jahre ab Entstehung | Mandant verliert Schadensersatzanspruch |
+| GwG-Dokumentation | Paragraf 8 Abs. 4 GwG | 5 Jahre nach Ende der Geschäftsbeziehung | Bußgeld Paragraf 56 f. GwG |
+| Mandatskündigung (fristlos wegen Interessenkonflikt) | Paragraf 626 f. BGB | Unverzüglich nach Kenntnis der Kollisionslage | Schadensersatzpflicht wenn Frist versäumt |
+| Herausgabe Handakten nach Mandatsende | Paragraf 50 Abs. 2 BRAO | Auf Verlangen des Mandanten; angemessene Frist | Schadensersatz; Disziplinarverfahren |
 
 ## Typische Gegenargumente
 
 | Einwand | Begründung Gegenseite | Erwiderung |
 |---|---|---|
-| Beschluss gültig trotz fehlendem Protokoll | Protokoll ist nur Beweismittel, kein Wirksamkeitserfordernis | Beweislastrisiko liegt beim Beschlussführer; ohne Protokoll kein verlässlicher Nachweis gegenüber M&A-Käufern, Behörden, Gerichten |
+| Mandatsworkspace für In-house-Juristen unnötig | In-house-Jurist arbeitet nur für einen Mandanten (das eigene Unternehmen) | Richtig — Skill bei In-house-Standard deaktiviert; nur bei tatsächlichem Mehrfachmandatsverhältnis aktivieren |
+| Mandatsinformationen können zusammengefasst werden | Effizienzgewinn bei mandatsübergreifendem Vergleich | Paragraf 43a Abs. 2 BRAO gilt für jedes einzelne Mandat; mandatsübergreifende Auswertung nur mit ausdrücklicher Erlaubnis jedes Mandanten |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Protokoll erst 3 Monate nach Sitzung erstellt | Gesetz sieht keine Frist vor | Beweiswert des Protokolls leidet erheblich; Erinnerungsprotokoll mit deutlichem Hinweis auf späte Erstellung versehen |
-| Videokonferenz ohne ausdrückliche Satzungsermächtigung | § 108 Abs. 4 AktG erlaubt Videokonferenz des AR | GmbH: GmbHG sieht keine ausdrückliche Regelung vor; gesellschaftsvertragliche Ermächtigung prüfen oder Einvernehmen aller sicherstellen |
+| Digitale Trennung nicht ausreichend | Mandatsinhalte sind ohnehin in unterschiedlichen Softwaresystemen gespeichert | Verschwiegenheitspflicht gilt auch für KI-gestütztes Drafting und Kontextverarbeitung; mandatsübergreifender Kontext-Schalter muss bewusst gesetzt werden |
+| Slug-System zu komplex | Einfachere Identifikation reicht | Slug-Eindeutigkeit ist zentral für fehlerfreies Routing; klares Muster (Mandant-Typ-Jahr) verhindert Verwechslungen |
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Aufsichtsratssitzung protokollieren | Protokoll nach Schema; Template unten |
-| Variante A — Geheimhaltungspflichtige Tagesordnungspunkte | Protokoll in vertraulichen Teil und öffentlichen Teil aufteilen |
-| Variante B — Beschlüsse sind formell angriffen | Beschlussprotokoll mit Abstimmungsergebnis erweiternd festhalten |
-| Variante C — Fernsitzung keine Anwesenheit in Praeenz | Protokollvermerk Fernsitzung mit Zustimmungsnachweis |
+| Standard — Gesellschaftsrechtlichen Mandats-Workspace aufbauen | Arbeitsbereich nach Schema; Template unten |
+| Variante A — Mandat nur punktuell Einzelfrage | Verkuerzte Dokumentation; nur relevante Teile des Templates |
+| Variante B — Internationales Gesellschaftsrecht noetig | Common-Law-Kompass Skill parallel einsetzen |
+| Variante C — M-and-A-Transaktion laeuft parallel | M-and-A-Skill parallel; Arbeitsbereich entsprechend erweitern |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatzbausteine
 
-### Baustein 1: Aufsichtsratssitzung AG — vollständiges Musterprotokoll
+### Baustein 1: Mandatsniederlegungsschreiben bei Interessenkonflikt
 
 ```
-PROTOKOLL DER AUFSICHTSRATSSITZUNG
-DER MUSTER AG, Frankfurt am Main
-(HRB 12345 Amtsgericht Frankfurt am Main)
+An [Mandant]
+[Anschrift]
 
-Datum: 15. März 2026, 10:00 Uhr bis 12:30 Uhr
-Ort: Räumlichkeiten der Kanzlei XY, Taunusanlage 1, 60329 Frankfurt am Main
-Protokollführerin: Rechtsanwältin Dr. Christine Weber, Kanzlei XY
+[Ort, Datum]
 
-VORSITZ: Dr. Anna Müller (Aufsichtsratsvorsitzende)
+Mandatsniederlegung — Az. [Aktenzeichen]
 
-ANWESEND:
-Aufsichtsratsmitglieder:
-- Dr. Anna Müller (Vorsitzende)
-- Prof. Dr. Karl Schmidt (Stellvertretender Vorsitzender)
-- Ursula Braun (Arbeitnehmervertreterin)
-- Thomas Berger (Arbeitnehmervertreter)
-- [weitere Mitglieder]
+Sehr geehrte/r [Name],
 
-Gäste (mit Einladung des AR-Vorsitzenden):
-- Max Huber, Vorstandsvorsitzender
-- Sandra Weiß, Vorstand Finanzen (CFO)
-- Dr. Peter Klein, Wirtschaftsprüfer, KPMG AG (nur TOP 3)
+wir haben in der oben bezeichneten Angelegenheit Ihre Interessen vertreten. Im Verlauf
+unserer Mandatsbearbeitung haben wir festgestellt, dass eine Pflichtenkollision im
+Sinne des Paragraf 43a Abs. 4 BRAO vorliegt, die es uns nicht gestattet, das Mandat weiter zu
+führen.
 
-ENTSCHULDIGT: [Name], [Grund]
+Wir legen das Mandat hiermit mit sofortiger Wirkung nieder. Diese Entscheidung basiert
+ausschließlich auf unserer berufsrechtlichen Verpflichtung und stellt kein Werturteil
+über Ihre Rechtssache dar.
 
----------------------------------------------------------------------------
+Wir empfehlen Ihnen dringend, unverzüglich eine andere Kanzlei zu beauftragen.
+Zur Sicherung Ihrer Rechte weisen wir auf folgende laufende Fristen hin:
+- [Frist 1: z.B. Anfechtungsfrist Paragraf 246 AktG: [Datum]]
+- [Frist 2: ...]
 
-EINBERUFUNG UND BESCHLUSSFÄHIGKEIT
+Ihre Handakten werden wir Ihnen auf Anforderung gemäß Paragraf 50 Abs. 2 BRAO unverzüglich
+herausgeben.
 
-Dr. Müller eröffnete die Sitzung um 10:00 Uhr. Sie stellte fest, dass die Einladung zur
-Sitzung den Mitgliedern mit Schreiben vom 28. Februar 2026 und damit ordnungsgemäß mit
-einer Frist von 15 Tagen zugegangen ist (§ 110 Abs. 2 AktG). Es haben [N] von [N]
-Aufsichtsratsmitgliedern an der Beschlussfassung teilgenommen. Der Aufsichtsrat ist damit
-gemäß § 108 Abs. 2 AktG beschlussfähig.
-
-Das Protokoll der letzten Sitzung vom 10. Januar 2026 wurde genehmigt.
-
----------------------------------------------------------------------------
-
-TOP 1: Bericht des Vorstands — Geschäftsentwicklung Q1 2026
-
-Der Vorstandsvorsitzende Max Huber berichtete über die Geschäftsentwicklung im ersten
-Quartal 2026 anhand der Vorstands-Präsentation (Anlage A). Umsatz und EBIT entwickelten
-sich plangemäß. Wesentliche Abweichungen vom Budget wurden nicht festgestellt.
-
-Der Aufsichtsrat nahm den Bericht zur Kenntnis. Es wurde keine Beschlussfassung
-veranlasst.
-
----------------------------------------------------------------------------
-
-TOP 2: Zustimmung zum Erwerb der Beta GmbH — § 111 Abs. 4 AktG i.V.m. § 3 GO-Vorstand
-
-Der Vorstandsvorsitzende erläuterte die geplante Übernahme sämtlicher Geschäftsanteile
-der Beta GmbH, München (HRB 98765 AG München), zum Kaufpreis von bis zu 5.000.000 EUR
-(in Worten: fünf Millionen Euro) gemäß dem Entwurf des Share Purchase Agreement
-(Anlage B). Die Maßnahme unterfällt § 3 Abs. 1 lit. (c) der Geschäftsordnung des
-Vorstands (Zustimmungspflicht bei Erwerben ab 1.000.000 EUR).
-
-Der CFO Sandra Weiß erläuterte die Finanzierungsstruktur und die Due-Diligence-Ergebnisse
-(Anlage C).
-
-[Diskussion, wesentliche Erwägungen des Aufsichtsrats:]
-Der Aufsichtsrat erörterte insbesondere die kartellrechtliche Freistellung und die
-Gewährleistungsregeln des SPA. Keine Mitglieder hatten einen Interessenkonflikt
-anzuzeigen.
-
-Nach eingehender Beratung fasste der Aufsichtsrat einstimmig folgenden
-
-BESCHLUSS:
-Der Aufsichtsrat stimmt dem Erwerb sämtlicher Geschäftsanteile an der Beta GmbH,
-München, durch die Muster AG zum Kaufpreis von bis zu 5.000.000 EUR (fünf Millionen
-Euro) gemäß dem Entwurf des Share Purchase Agreement in der Fassung vom 10. März 2026
-(Anlage B) zu. Er ermächtigt den Vorstand, den Kaufvertrag mit den in der Sitzung
-besprochenen Maßgaben zu unterzeichnen.
-
-Abstimmung: [N] Ja / [N] Nein / [N] Enthaltungen
-
----------------------------------------------------------------------------
-
-TOP 3: Jahresabschluss und Lagebericht 2025 — § 172 AktG
-
-[Dr. Klein von KPMG war für diesen TOP anwesend.]
-
-Der Wirtschaftsprüfer Dr. Klein erläuterte den Bestätigungsvermerk und die wesentlichen
-Ergebnisse der Jahresabschlussprüfung 2025 (Anlage D: Prüfungsbericht KPMG).
-
-[Diskussion. Dr. Klein verließ den Sitzungssaal nach Abschluss von TOP 3 um 11:45 Uhr.]
-
-Der Aufsichtsrat fasste folgenden
-
-BESCHLUSS:
-Der Aufsichtsrat billigt den Jahresabschluss und den Lagebericht 2025 der Muster AG
-gemäß § 172 AktG in der geprüften Fassung (Anlage D).
-
-Abstimmung: [N] Ja / [N] Nein / [N] Enthaltungen
-
----------------------------------------------------------------------------
-
-SCHLIESSUNGSPUNKT
-
-Dr. Müller stellte fest, dass keine weiteren Tagesordnungspunkte vorlagen. Sie schloss
-die Sitzung um 12:30 Uhr.
-
-ANLAGEN:
-Anlage A: Vorstandspräsentation Geschäftsentwicklung Q1 2026
-Anlage B: Entwurf Share Purchase Agreement Beta GmbH, Stand 10.03.2026
-Anlage C: Finanzierungsübersicht und DD-Zusammenfassung
-Anlage D: Jahresabschluss und Prüfungsbericht KPMG 2025
-
-Frankfurt am Main, den [Datum der Unterzeichnung]
-
-_________________________________
-Dr. Anna Müller
-Aufsichtsratsvorsitzende
-(§ 107 Abs. 2 S. 3 AktG)
-
-[ENTWURF — nicht zur Verabschiedung freigegeben]
+Mit freundlichen Grüßen
+[Kanzlei / Name]
+Rechtsanwalt / Rechtsanwältin
 ```
 
-### Baustein 2: GmbH-Gesellschafterversammlung mit Stimmverbot
-
-```
-PROTOKOLL DER GESELLSCHAFTERVERSAMMLUNG
-DER ALPHA GMBH, München
-(HRB 12345 Amtsgericht München)
-
-Datum: 20. März 2026, 14:00 Uhr bis 15:30 Uhr
-Ort: Geschäftsräume der Alpha GmbH, Maximilianstraße 10, 80539 München
-Versammlungsleiter: Rechtsanwalt Dr. Jörg Fischer
-Protokollführer: Rechtsanwalt Dr. Jörg Fischer
-
-ERSCHIENENE GESELLSCHAFTER:
-1. Herr Thomas Maier, gesch. 50 % [anwesend / vertreten durch ___]
-2. Frau Petra Schulz, gesch. 30 % [anwesend]
-3. Muster Beteiligungs GmbH, gesch. 20 % [vertreten durch Max Baum]
-
-Sämtliche Geschäftsanteile = 100 % sind vertreten. Einberufung in der Versammlung
-einvernehmlich als ordnungsgemäß anerkannt.
-
-BESCHLUSSFÄHIGKEIT: Alle Gesellschafter anwesend oder vertreten; alle Gesellschafter
-haben auf Wahrung der Einberufungsfrist verzichtet. Die Versammlung ist beschlussfähig.
-
----------------------------------------------------------------------------
-
-TOP 1: Feststellung des Jahresabschlusses 2025
-
-Die Geschäftsführerin Petra Schulz erläuterte den Jahresabschluss 2025
-(Anlage A: Jahresabschluss mit Anhang). Umsatz: [X] EUR; EBIT: [Y] EUR.
-
-Die Gesellschafterversammlung fasste folgenden
-
-BESCHLUSS:
-Der Jahresabschluss der Alpha GmbH zum 31. Dezember 2025 wird in der vorgelegten Fassung
-(Anlage A) festgestellt. Der Bilanzgewinn in Höhe von [Z] EUR wird auf neue Rechnung
-vorgetragen.
-
-Abstimmung: Ja: 100 % / Nein: 0 % / Enthaltungen: 0 %
-
----------------------------------------------------------------------------
-
-TOP 2: Entlastung der Geschäftsführerin — § 46 Nr. 5 GmbHG
-
-[STIMMVERBOT: Frau Petra Schulz (30 %) unterliegt gemäß § 47 Abs. 4 GmbHG dem
-Stimmverbot, da über ihre eigene Entlastung als Geschäftsführerin abgestimmt wird.
-Sie ist von der Abstimmung über TOP 2 ausgeschlossen. Stimmrechtsanteil für die
-Abstimmung: Thomas Maier 50 %, Muster Beteiligungs GmbH 20 % = 70 % der Gesamtstimmen.
-Dieser Anteil gilt als 100 % für die Abstimmung über TOP 2.]
-
-Die Gesellschafterversammlung fasste folgenden
-
-BESCHLUSS:
-Der Geschäftsführerin Petra Schulz wird für das Geschäftsjahr 2025 Entlastung erteilt.
-
-Abstimmung (unter Ausschluss des Stimmrechts von Frau Petra Schulz):
-Ja: 70 % der Gesamtstimmen (= 100 % der abstimmungsberechtigten Stimmen) /
-Nein: 0 % / Enthaltungen: 0 %
-
----------------------------------------------------------------------------
-
-SCHLIESSUNGSPUNKT: Keine weiteren Tagesordnungspunkte. Die Versammlung wurde um
-15:30 Uhr geschlossen.
-
-München, den [Datum]
-
-_________________________________
-Dr. Jörg Fischer
-Versammlungsleiter / Protokollführer
-
-[ENTWURF]
-```
-
-### Baustein 3: Prüfcheckliste vor Verabschiedung
-
-```
-PRÜFCHECKLISTE — PROTOKOLL [ORGAN] VOM [DATUM]
-Zu prüfen vor Unterzeichnung / Versand
-
-[ ] 1. Organgremium korrekt bezeichnet?
-[ ] 2. Datum, Uhrzeit, Ort vollständig?
-[ ] 3. Einladung ordnungsgemäß oder Verzicht dokumentiert (§ 110 Abs. 2 AktG)?
-[ ] 4. Alle anwesenden / entschuldigten Mitglieder erfasst?
-[ ] 5. Beschlussfähigkeit korrekt festgestellt (§ 108 Abs. 2 AktG)?
-[ ] 6. Stimmverbote geprüft und ggf. vermerkt (§ 47 Abs. 4 GmbHG / § 136 AktG)?
-[ ] 7. Alle TOP in korrekter Reihenfolge erfasst?
-[ ] 8. Beschlusstexte stimmen mit tatsächlich gefassten Beschlüssen überein?
-[ ] 9. Abstimmungsergebnisse (Ja / Nein / Enthaltung) numerisch korrekt?
-[ ] 10. Anlagen korrekt nummeriert und vollständig beigefügt?
-[ ] 11. Gäste / externe Berater mit Funktion und Top-Anwesenheit vermerkt?
-[ ] 12. Executive Sessions / vertrauliche TOP separat protokolliert?
-[ ] 13. Notarielle Beurkundung erforderlich? (§ 130 Abs. 1 AktG, § 179 AktG)
-[ ] 14. Unterzeichnungsblock korrekt (AR: Vorsitzender allein; GmbH: Versammlungsleiter)?
-[ ] 15. ENTWURF-Vermerk bis Genehmigung in der Folgesitzung vorhanden?
-```
-
---- vor Versand klären ---
+--- vor Versand klaeren ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-## Streitwert und Kosten
+### Baustein 2: Mandats-Workspace-Vorlage (mandat.md)
 
-| Streitgegenstand | Streitwertansatz | Kosten (RVG-Beispiel) |
+```markdown
+[ARBEITSERGEBNIS-KOPFZEILE — je nach Nutzerprofil aus CLAUDE.md]
+
+# Mandat: [Mandant] — [Kurzbeschreibung]
+
+**Slug:** [slug]
+**Eröffnet:** [JJJJ-MM-TT]
+**Status:** aktiv
+**Vertraulichkeit:** [standard / erhöht / clean-team]
+**Transaktionsphase:** [NDA | LOI | Due Diligence | SPA-Verhandlung | Signing/Closing | Post-Closing | Laufend]
+
+---
+
+## Parteien
+
+**Mandant:** [Name; Rechtsform; HR-Nummer falls relevant]
+**Gegenpartei:** [Name(n); ggf. Rechtsform]
+
+## Mandatstyp
+
+[M&A Käuferseite / M&A Verkäuferseite / Finanzierung / Governance / Reorganisation / Integration / Sonstige]
+[Ein-Satz-Begründung: Warum dieser Typ?]
+
+## Wesentliche Fakten
+
+[2–5 Sätze: Worum geht es? Wer sind die Stakeholder? Was steht auf dem Spiel?
+Was macht dieses Mandat vom Standardprofil abweichend?]
+
+## Mandatsspezifische Abweichungen vom Praxisprofil
+
+*Jede Abweichung vom Kanzlei-Standard auf Mandatsebene — gilt nur für dieses Mandat.*
+
+- [z.B. "Haftungsdeckelung: Mandant besteht auf 24 Monaten statt Hausstandard 12 Monate."]
+- [z.B. "Ton: beziehungspflegend — Gegenpartei ist strategischer Partner."]
+- [z.B. "Anwendbares Recht: Deutsches Recht zwingend, kein englisches Recht."]
+
+## GwG-Compliance (Paragraf 1 ff. GwG)
+
+- [ ] Mandantenidentifizierung durchgeführt (Paragraf 10 GwG)
+- [ ] Wirtschaftlich Berechtigte ermittelt (Paragraf 11 GwG)
+- [ ] Dokumentation angelegt (Paragraf 8 GwG; Aufbewahrung 5 Jahre nach Ende der Geschäftsbeziehung)
+
+## Verbundene Mandate
+
+- [slug — ein Satz, warum verbunden; z.B. "NDA-Phase vorgelagerter Rechtsauftrag"]
+
+## Vertraulichkeitshinweise
+
+[Bei erhöhter Vertraulichkeit oder Clean-Team: Begründung. Wer darf Mandatsunterlagen
+einsehen? Ist mandatsübergreifender Kontext für dieses Mandat unzulässig?]
+```
+
+### Baustein 3: Verlaufsdatei-Vorlage (verlauf.md)
+
+```markdown
+# Verlauf: [Mandant] — [Kurzbeschreibung]
+
+Nur-Anhängen-Ereignisprotokoll. Neuestes oben.
+
+---
+
+## [JJJJ-MM-TT] — Mandat eröffnet
+
+Aufnahme abgeschlossen. Slug: `[slug]`. Status: aktiv.
+[Ggf. anfänglicher Kontext — z.B. "Eröffnet auf Eingang eines SPA-Entwurfs von [Gegenpartei]."]
+
+---
+
+## [JJJJ-MM-TT] — Transaktionsphase gewechselt
+
+Von [Phase A] zu [Phase B]. Anlass: [Ereignis, z.B. "LOI unterzeichnet"].
+
+---
+
+## [JJJJ-MM-TT] — Mandat geschlossen
+
+Abschlussdatum: [JJJJ-MM-TT]. Anlass: [Abschluss der Transaktion / Mandatsniederlegung
+/ Wunsch des Mandanten]. Archiviert unter `mandate/_archiv/[slug]/`.
+```
+
+## Unterbefehle: Vollständige Beschreibung
+
+### `neu <slug>`
+
+1. Slug prüfen: nicht bereits in `mandate/<slug>/` oder `mandate/_archiv/<slug>/` vorhanden. Falls wiederverwendet: anderen Slug vorschlagen.
+2. Aufnahme-Interview nach Kaltstart-Rückfragen durchführen.
+3. `mandate/<slug>/mandat.md` anhand der Vorlage schreiben.
+4. `mandate/<slug>/verlauf.md` mit Eintrag "Eröffnet" anlegen.
+5. Leere `mandate/<slug>/notizen.md` erstellen.
+6. Nicht automatisch wechseln. Fragen: "Möchten Sie jetzt zu `<slug>` wechseln?"
+
+### `liste`
+
+`mandate/*/mandat.md` aufzählen. Jede Datei lesen, Status extrahieren. Tabelle ausgeben:
+
+| Slug | Mandant | Mandatstyp | Phase | Status | Eröffnet | Aktiv |
+|---|---|---|---|---|---|---|
+
+Aktives Mandat mit `*` markieren. Archiv unter separater Überschrift.
+
+### `wechseln <slug>`
+
+1. `mandate/<slug>/mandat.md` auf Existenz prüfen.
+2. `Aktives Mandat:`-Zeile in CLAUDE.md auf Praxisebene auf `Aktives Mandat: <slug>` ändern.
+3. Inhalt von `mandat.md` zusammenfassen zur Bestätigung.
+
+### `schließen <slug>`
+
+1. `mandate/<slug>/` auf Existenz prüfen.
+2. Eintrag "Geschlossen" mit heutigem Datum an `verlauf.md` anhängen.
+3. `mandate/<slug>/` → `mandate/_archiv/<slug>/` verschieben.
+4. War das geschlossene Mandat das aktive: `Aktives Mandat:` auf `keine — nur Praxiskontextdaten` setzen.
+
+### `keine`
+
+`Aktives Mandat:` in CLAUDE.md auf `keine — nur Praxiskontextdaten` setzen. Mit Nutzer bestätigen.
+
+## Mandatsübergreifender Kontext
+
+CLAUDE.md auf Praxisebene enthält einen `Mandatsübergreifender Kontext:`-Schalter.
+
+**Wenn `aus` (Standard):** Ein Skill, der in Mandat A arbeitet, liest niemals Dateien in `mandate/B/`. Dies ist die Vertraulichkeitsgarantie.
+
+**Wenn `an`:** Ein Skill darf Mandatsdaten mandatsübergreifend nur dann lesen, wenn der Nutzer dies ausdrücklich verlangt (z.B. "Vergleiche die Haftungsbegrenzungen in den letzten fünf Vendor-Mandaten"). Auch bei `an` ist der Standard: nur das aktive Mandat laden, außer bei ausdrücklicher Vergleichsanfrage.
+
+**Bei erhöhter Vertraulichkeit:** Auch wenn der globale Schalter auf `an` steht, gilt für Mandate mit `Vertraulichkeit: erhöht` oder `clean-team`: mandatsübergreifender Kontext nur nach Einzelgenehmigung des Anwalts.
+
+## Hinweise und Risiken
+
+| Risiko | Beschreibung | Abhilfe |
 |---|---|---|
-| Anfechtungsklage HV-Beschluss | Wirtschaftliches Interesse des Klägers, mind. 50.000 EUR (§ 247 Abs. 1 AktG) | Bei 50.000 EUR: 3 Gebühren × 1.605 EUR = ca. 4.815 EUR RA-Kosten (zzgl. MwSt.) |
-| Anfechtungsklage GmbH-Beschluss | Freies Ermessen Gericht; oft wirtschaftliches Interesse an der Beschlussaufhebung | Abhängig von Unternehmenswert / Beteiligungsquote |
-| Nichtigkeitsklage (§ 241 AktG) | § 247 Abs. 1 AktG analog | Vergleichbar Anfechtungsklage |
-| Schadensersatz gegen AR-Mitglied | Konkreter Schaden | Regelmäßig hohe Gegenstandswerte; D&O-Versicherung prüfen |
-| Notar Hauptversammlungsprotokoll | Geschäftswert = Gesellschaftsvermögen (mind. 30.000 EUR, § 105 GNotKG) | Bei 5 Mio. EUR: ca. 1.870 EUR Notargebühr (§ 91 GNotKG) |
+| Mandatsübergreifender Kontext bei sensiblem Mandat | Vertrauliche Informationen eines Mandanten fließen in ein anderes Mandat | Schalter auf `aus` halten; bei erhöhter Vertraulichkeit in mandat.md explizit sperren |
+| Slug-Verwechslungen | Ähnliche Slug-Namen führen zu falscher Mandatszuweisung | Klares Muster: `[mandant]-[typ]-[jahr]`; z.B. `alpha-gmbh-anteilskauf-2026` |
+| Interessenkonflikt nicht erkannt | RA vertritt gleichzeitig Käufer und Verkäufer in derselben Transaktion | Vor Mandatsanlage Konfliktprüfung in Kanzlei-System; Skill kann nicht ersetzen |
+| GwG-Identifizierung fehlt | Bußgeld; strafrechtliches Risiko für RA | GwG-Checkliste in mandat.md pflichtmäßig abhaken |
+| In-house-Jurist aktiviert Workspaces | Unnötige Komplexität; fehlende Mandantentrennung irrelevant | Bei In-house-Standard deaktiviert; erst bei tatsächlichem Mehrfachmandatsverhältnis aktivieren |
 
-## Strategische Empfehlung
+## Beispiel: M&A-Käuferseite
 
-| Situation | Empfehlung |
-|---|---|
-| M&A-Transaktion: Zielgesellschaft hat lückenhafte AR-Protokolle | Due-Diligence-Finding mit hohem Schweregrad; Verkäufer-Garantie für ordnungsgemäße Beschlussfassung; MAC-Klausel prüfen |
-| GmbH-Beschluss ohne Stimmverbotsbeachtung (§ 47 Abs. 4 GmbHG) | Unverzügliche Wiederholung des Beschlusses unter korrekter Stimmrechtsprüfung; falls Frist läuft, Heilungsklage erwägen |
-| AR-Protokoll nachträglich (> 3 Monate) erstellt | Deutlichen Hinweis auf Erstellungsdatum im Protokoll; Erinnerungscharakter kennzeichnen; Parallelbeweise sichern (E-Mails, Präsentationen) |
-| Videokonferenz-Sitzung ohne GV-Ermächtigung (GmbH) | Einvernehmen aller Gesellschafter ausdrücklich dokumentieren; nachträgliche satzungsrechtliche Ermächtigung erwägen |
-| Beschlussfähigkeit knapp | Quorum-Berechnung im Protokoll explizit ausweisen; bei mehreren Ergebnissen (z.B. wegen Stimmbefangenheit) getrennt ausweisen |
-| Entlastungsbeschluss mit Stimmverbot | Abstimmungsergebnis getrennt nach abstimmungsberechtigten und gesamten Stimmen dokumentieren; Stimmverbot mit Norm benennen |
+**Szenario:** Sozietät begleitet GmbH-Anteilskauf. Neues Mandat angelegt:
+- Slug: `alpha-gmbh-anteilskauf-2026`
+- Mandatstyp: M&A Käuferseite
+- Phase: Due Diligence
+- Vertraulichkeit: erhöht (Clean-Team)
+- Verbundene Mandate: `alpha-gmbh-nda-2025` (NDA-Phase), `alpha-gmbh-loi-2025` (LOI-Phase)
 
-## Ablauf (Skill-Steuerung)
-
-### Schritt 1: Sitzung identifizieren
-
-**Kalendererkennung** (wenn Kalender-Connector autorisiert): Suche nach bevorstehenden Ereignissen mit:
-- "Vorstandssitzung", "Aufsichtsratssitzung", "AR-Sitzung", "Gesellschafterversammlung", "GV", "Hauptversammlung", "HV", "Beiratssitzung"
-- Zeitfenster: 30 Tage voraus; bei Nichtfund 14 Tage rückwärts (Protokolle häufig nachträglich erstellt).
-
-Falls kein Connector: direkt fragen — welches Organ, welches Datum, welcher Typ?
-
-**Sitzungsmetadaten bestätigen:**
-- Organ und Gesellschaft
-- Datum, Uhrzeit, Ort (physisch / Videokonferenz nach § 108 Abs. 4 AktG / telefonisch)
-- Ordnungsgemäße Einladung? (AR: § 110 Abs. 2 AktG, mind. 14 Tage)
-- Form der Sitzungsniederschrift: Vollprotokoll / Beschlussprotokoll / Hybrid
-
-### Schritt 2: Anwesenheit und Beschlussfähigkeit
-
-**Mitglieder anwesend:**
-- Organ-Zusammensetzung aus Praxisprofil; wer war tatsächlich anwesend / entschuldigt?
-- AR: § 108 Abs. 2 AktG — Beschlussfähigkeit: mind. die Hälfte der Mitglieder; mind. 3 Mitglieder müssen bei der Abstimmung mitwirken.
-- GmbH-GV: Quorum nach Gesellschaftsvertrag; gesetzlicher Standard: § 47 GmbHG (Mehrheit der abgegebenen Stimmen).
-
-Wenn Beschlussfähigkeit nicht gegeben: STOPP. Keine Protokollierung gültiger Beschlussfassung.
-
-**Interessenkonflikte:**
-- AR: § 34 BGB analog; § 136 AktG (Stimmverbot Entlastung)
-- GmbH: § 47 Abs. 4 GmbHG (Stimmverbot bei Rechtsgeschäften mit dem Gesellschafter)
-
-### Schritt 3: Materialien
-
-Tagesordnung und Sitzungsmaterialien anfordern:
-> Bitte Tagesordnung und alle Sitzungsmaterialien bereitstellen. Falls Präsentationen oder Berichte vorlagen, diese hochladen. Wenn keine Materialien vorlagen, Tagesordnungspunkte als Stichpunkte mitteilen.
-
-### Schritt 4: Protokoll erstellen
-
-Hausformat aus Praxisprofil verwenden. Standard-Struktur:
-- Kopfblock: Organ, Gesellschaft, Datum, Uhrzeit, Ort, Vorsitz, Protokollführer
-- Einberufung und Beschlussfähigkeit
-- Anwesenheitsliste (Mitglieder, Gäste mit Funktion)
-- TOP-Blöcke je Tagesordnungspunkt
-- Schließung mit Uhrzeit
-- Anlagenverzeichnis
-- Unterschriftenblock
-
-### Schritt 5: Folgenreiche-Handlung-Sperre
-
-Vor Verabschiedung als endgültig: Falls Rolle **Nichtjurist**:
-> Beschlossene Protokolle sind die offizielle Aufzeichnung der Organentscheidungen. Vor Unterzeichnung mit einem Rechtsanwalt prüfen, insbesondere auf: Beschlussmängel (§§ 243, 241 AktG), Interessenkonflikte (§ 47 Abs. 4 GmbHG, § 136 AktG), Einladungsfristen und Beschlussfähigkeit.
-
-### Schritt 6: Ausgabe
-
-1. **Protokollentwurf** (im Hausformat; ENTWURF-Vermerk bis Genehmigung)
-2. **Prüfcheckliste** (für Rechtsanwalt)
-3. **Genehmigungsversion** (nach Freigabe; ohne Entwurfsvermerk)
-
-## Risiken und typische Fehler
-
-| Fehler | Risiko | Abhilfe |
-|---|---|---|
-| Fehlendes Protokoll | Beschlussbeweisnot; Beschluss kann Dritten gegenüber nicht belegt werden | Protokoll unverzüglich nacherstellen; Erinnerungscharakter kennzeichnen |
-| Stimmverbot übersehen | Beschluss anfechtbar; ggf. nichtig | Stimmverbot systematisch für jeden TOP prüfen; stimmbefangene Mitglieder ausdrücklich ausschließen |
-| Einladungsfrist versäumt | Beschlüsse anfechtbar (§ 246 AktG analog) | Einladungsverzicht dokumentieren; Frist künftig im Kalender vormerken |
-| Anfechtungsfrist verpasst | Beschluss unanfechtbar; Schaden unreparierbar | Fristnotiz sofort nach Beschlussfassung anlegen |
-| Notarielles Protokoll vergessen | Formnichtigkeit (§ 241 Nr. 2 AktG) bei Satzungsänderungen, Kapitalmaßnahmen | Vor jeder HV-Sitzung notarielle Beurkundungspflicht prüfen |
-| Unklare Beschlussformulierung | Auslegungsstreit; Vollzugsprobleme bei M&A | Beschlusstexte präzise, vollständig und widerspruchsfrei formulieren |
+Fortschritt: Nach Signing → Mandat-Phase aktualisiert auf `Signing/Closing`. Nach Closing → Phase `Post-Closing-Integration`. Nach Abschluss: `schließen alpha-gmbh-anteilskauf-2026` archiviert das Mandat dauerhaft.
 
 ## Output-Template
 
-**Adressat:** Aufsichtsratsvorsitzender / Protokollführer — Tonfall: sachlich-juristisch, präzise
+**Adressat:** Bearbeitender Anwalt / Kanzlei-intern — Tonfall: sachlich-strukturiert, mandatsbezogen
 
 ```
-PROTOKOLL
-der [ordentlichen / außerordentlichen] Sitzung des Aufsichtsrats
-der [GESELLSCHAFT AG / GmbH]
-am [TT. Monat JJJJ], [Uhrzeit] Uhr
-in [ORT / per Videokonferenz gem. § 108 Abs. 4 AktG]
+--- mandat.md: [SLUG] ---
+Mandantscode: [CODE]
+Mandant: [NAME DER PARTEI]
+Gegenseite: [NAME]
+Mandat-Typ: [M&A Kaeuferseite / Gruendung / Strukturierung / Streit]
+Phase: [NDA / LOI / Due Diligence / Signing / Closing / Post-Closing]
+Vertraulichkeit: [Standard / erhoeht / Clean-Team]
+Mandatstraeger: [NAME RECHTSANWALT]
+Eroeffnet: [TT.MM.JJJJ]
+Geschaeftswert: [BETRAG EUR / noch nicht feststellbar]
+Gesellschaft(en): [NAME GmbH, HRB XXXXX, AG [REGISTERGERICHT]]
 
-> Vertraulich — Mandatsgeheimnis § 43a Abs. 2 BRAO.
-> Dieses Protokoll ist bis zur Genehmigung als ENTWURF zu behandeln.
+Verbundene Mandate:
+- [SLUG-NDA] (NDA-Phase)
+- [SLUG-LOI] (LOI-Phase)
 
---- KOPFBLOCK ---
-Ort und Zeit: [ORT], [DATUM], [VON] bis [BIS] Uhr
-Vorsitz: [NAME], [FUNKTION]
-Protokollfuehrender: [NAME]
+Fristen:
+- [TT.MM.JJJJ]: [FRISTBEZEICHNUNG] — Wiedervorlage [TT.MM.JJJJ]
+- [TT.MM.JJJJ]: [FRISTBEZEICHNUNG] — kritisch
 
---- ANWESENHEIT ---
-Anwesende AR-Mitglieder: [NAME] (Vorsitz), [NAME], [NAME] — [N] von [GESAMT]
-Entschuldigt: [NAME]
-Gaeste: [NAME], [FUNKTION] (nur bei TOP [N])
-Beschlussfaehigkeit: [BEJAHT / VERNEINT] (§ 108 Abs. 2 AktG: mind. 3 Mitglieder)
+GwG-Identifizierung: [ABGESCHLOSSEN TT.MM.JJJJ / AUSSTEHEND]
+Interessenkonflikt geprueeft: [JA / NEIN — NACHOLEN]
 
---- EINBERUFUNG ---
-Einberufung durch [VORSITZENDEN] mit Schreiben vom [DATUM] (Frist § 110 Abs. 2 AktG: mind. [N] Tage).
-Tagesordnung lag vor / wurde verteilt am [DATUM].
+Memo zum Mandatsstand (letzte Aktualisierung [DATUM]):
+[FREITEXT: aktueller Bearbeitungsstand, offene Punkte, naechste Schritte]
 
---- TAGESORDNUNG ---
-TOP 1: [TITEL]
-TOP 2: [TITEL]
-TOP 3: Verschiedenes
+Aktive Arbeitsbereiche:
+- mandate/[SLUG]/dd/ (Due-Diligence-Unterlagen)
+- mandate/[SLUG]/vertrag/ (Vertragsentwuerfe)
+- mandate/[SLUG]/korrespondenz/ (Schriftwechsel)
 
---- TOP 1: [TITEL] ---
-[VORSITZENDER] erlaeutert [SACHVERHALT]. Nach Aussprache beschliesst der Aufsichtsrat:
-
-BESCHLUSS [1/JJJJ]:
-[WORTLAUT DES BESCHLUSSES]
-
-Abstimmung: [N] Ja-Stimmen / [N] Nein-Stimmen / [N] Enthaltungen
-[MITGLIED] war wegen Interessenkonflikts (§ 34 BGB analog) nicht stimmberechtigt.
-Ergebnis: ANGENOMMEN / ABGELEHNT
-
-[Weitere TOPs analog]
-
---- SCHLUSS ---
-Naechster Termin: [DATUM] (voraussichtlich)
-Schluss der Sitzung: [UHRZEIT] Uhr
-
-Anlagen:
-1. [ANLAGE 1]
-2. [ANLAGE 2]
-
-________________________ ________________________
-[VORSITZENDER] [PROTOKOLLFUEHRENDER]
-AR-Vorsitzender [FUNKTION]
+Abgeschlossen: [NEIN / JA — TT.MM.JJJJ; archiviert]
+---
 ```
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Rote Schwellen
 
-- **Beschlussfaehigkeit nach § 108 Abs. 2 AktG nicht erreicht** (weniger als 3 Mitglieder stimmen mit) — keine gueltigen Beschlüsse; Sitzung vertagen.
-- **Stimmverbot § 136 AktG / § 47 Abs. 4 GmbHG uebersehen** — Beschluss anfechtbar; betroffenes Mitglied ausdrücklich von Abstimmung ausschliessen und im Protokoll dokumentieren.
-- **Einladungsfrist § 110 Abs. 2 AktG unterschritten** — Beschlüsse anfechtbar; Einladungsverzicht aller Mitglieder dokumentieren.
-- **Satzungsaenderung / Kapitalmaßnahme ohne Notarprotokoll** — Formnichtigkeit (§ 241 Nr. 2 AktG); Notar rechtzeitig bestellen.
-- **Anfechtungsfrist (1 Monat) nach § 246 AktG versaeumt** — Beschluss unanfechtbar auch bei Fehlern; sofort Fristnotiz anlegen.
+- **GwG-Identifizierung fehlt** — strafrechtliches Risiko fuer Rechtsanwalt (Paragraf 10 ff. GwG); vor Weiterarbeit nachholen.
+- **Interessenkonflikt nicht geprueft** — Verstoß gegen Paragraf 43a Abs. 4 BRAO; Mandat unverzueglich auf Konflikt pruefen.
+- **Anwaltliche Verschwiegenheit: Dateien aus anderem Mandat im Workspace** — Paragraf 43a Abs. 2 BRAO, Paragraf 203 StGB; sofort entfernen; Fehler dokumentieren.
+- **Handakten-Aufbewahrungsfrist Paragraf 50 BRAO** — mind. 5 Jahre nach Mandat-Abschluss; Loeschung erst nach Ablauf.
+- **Frist im Mandat ohne Wiedervorlage** — Haftungsrisiko; jede Frist sofort im Kalender mit Vorlauf-WV verankern.
 
 ## Anschluss-Skills
 
-- `gesellschaftsrecht:tabellenpruefung` — Prüfung von Beschlusstabellen und Stimmrechtslisten
-- `gesellschaftsrecht:vollzugs-checkliste` — Vollzugsbedingungen nach AR-Zustimmungsbeschluss
-- `gesellschaftsrecht:gesellschafts-compliance` — Einreichungsfristen nach Jahresabschlussbilligung
-- `grosskanzlei-corporate-ma:ki-einsatz-bei-gutachten-mandatsseite` — Gutachten zu Beschlussmängelrisiken
+- `gesellschaftsrecht:vollzugs-checkliste` — Vollzugs-Checkliste für das aktive M&A-Mandat
+- `gesellschaftsrecht:gesellschafts-compliance` — Compliance-Tracker für Gesellschaften im aktiven Mandat
+- `gesellschaftsrecht:aufsichtsrat-protokoll` — Sitzungsprotokolle für das aktive Mandat
+- `gesellschaftsrecht:tabellenpruefung` — Tabellenprüfung im Kontext des aktiven Mandats
 
 ## Quellen und Zitierweise
 
-- § 107 Abs. 2 AktG (Niederschriftspflicht Aufsichtsrat)
-- § 48 GmbHG (Gesellschafterversammlung)
-- § 130 AktG (Hauptversammlungsprotokoll)
-- §§ 241, 243, 246 AktG (Beschlussmängel und -anfechtung)
-- § 47 Abs. 4 GmbHG (Stimmverbot GmbH)
-- § 108 Abs. 2 AktG (Beschlussfähigkeit AR)
-- § 110 Abs. 2 AktG (Einladungsfrist AR)
-- § 136 AktG (Stimmverbot AG)
-
-Zitierweise nach `../../references/zitierweise.md`.
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-- Schmidt/Lutter, AktG, 4. Aufl. 2020, § 243 Rn. 5 ff.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-- Scholz, GmbHG, 12. Aufl. 2018, § 47 Rn. 110 ff.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 48 GmbHG
-- § 40 GmbHG
-- § 246 AktG
-- § 43 GmbHG
-- § 47 GmbHG
-- § 108 AktG
-- § 20 GwG
-- § 53 GmbHG
-- § 15 GmbHG
-- § 130 AktG
-- § 5 GmbHG
-- § 107 AktG
-
-### Leitentscheidungen
-
-- BGH II ZR 25/82
-- BFH I R 53/08
-
----
-
-## Skill: `dd-findings-extraktion`
-
-_Liest Datenraum-Dokumente und extrahiert Issues nach den Hauskategorien und Wesentlichkeitsschwellen im Findings-Report-Format. Laden wenn der Nutzer Datenraum prüfen, DD-Issues extrahieren aus [Ordner], Due-Diligence-Prüfung oder was ist im VDR sagt oder auf VDR-Dokumente hinweist im Gesellschaf..._
-
-# DD-Issue-Extraktion (Findings-Report)
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `DD-Issue-Extraktion (Findings-Report)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Fachkern: DD-Issue-Extraktion (Findings-Report)
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
-- **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Triage zu Beginn
-
-Vor dem Start des DD-Reviews folgende Fragen klären:
-
-1. **Transaktionsstruktur:** Share Deal oder Asset Deal? GmbH oder AG?
-2. **Wesentlichkeitsschwelle:** Welcher Mindestvertragswert ist zu prüfen (aus Praxisprofil)?
-3. **Prüfkategorien:** Welche Kategorien sind für diesen Deal relevant (Gesellschaftsrecht, IP, Arbeitsrecht, Umwelt)?
-4. **VDR-Vollständigkeit:** Gibt es offensichtliche Lücken (fehlende Kategorien, Platzhalter-Dokumente)?
-5. **DD-Tiefe:** Full Legal DD oder Red-Flag-Review?
-6. **Zeitplan:** Wann muss der Findings-Report vorliegen (Signing-Druck)?
-
-## Zentrale Normen
-
-§§ 311 Abs. 2, 241 Abs. 2 BGB (vorvertragliche Aufklärungspflichten) — § 442 BGB (Kenntnis des Käufers) — § 443 BGB (Garantien) — § 15 GmbHG (Abtretung GmbH-Anteile) — § 40 GmbHG (Gesellschafterliste) — § 613a BGB (Betriebsübergang) — §§ 35 ff. GWB (Fusionskontrolle) — Art. 28 DSGVO (Auftragsverarbeitung) — §§ 142, 144 ZPO (Urkundenvorlegung)
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zweck
-
-Der Datenraum hat 2.000 Dokumente. Irgendwo darin befinden sich die 30, die für den Deal entscheidend sind. Dieser Skill liest Dokumente gegen die DD-Kategorien und Wesentlichkeitsschwellen aus dem Praxisprofil, extrahiert Issues und schreibt sie im Hausformat.
-
-**Vorprozessuale Beweiserhebung im deutschen Recht.** Die Due Diligence (Sorgfaltsprüfung) in deutschen M&A-Transaktionen läuft ausschließlich über den virtuellen Datenraum (VDR – Virtual Data Room), den Frage-Antwort-Prozess (Q&A) und den Disclosure Letter (Offenlegungserklärung). Was nicht offengelegt wurde, ist weder bekannt noch garantiert – das im SPA (Share Purchase Agreement, Unternehmenskaufvertrag) verankerte Garantieregime modifiziert insoweit den allgemeinen Grundsatz, dass der Käufer das Risiko nicht offenbarter Mängel trägt. Gesetzliche Auskunftsansprüche im Streitfall: §§ 142, 144 ZPO; § 810 BGB; §§ 242, 259, 666 BGB; Art. 15 DSGVO; § 254 ZPO (Stufenklage).
-
-## Eingaben
-
-- Praxisprofil: `## M&A → DD-Struktur` (Kategorien, Schwellen)
-- Praxisprofil: `## M&A → Issues-Memo-Format`
-- Mandats-Kontext: `mandate/[code]/deal-kontext.md`
-- VDR-Inventar oder Dokumentenliste
-
-## Schritt-für-Schritt-Workflow
-
-### Schritt 1: VDR-Inventarisierung
-
-Falls VDR-Connector (Box/Datasite/Intralinks) verbunden: Index abrufen. VDR-Ordner auf DD-Anforderungskategorien abbilden. Lücken notieren – Kategorien ohne VDR-Inhalt.
-
-```markdown
-
-## VDR-Inventar: [Deal-Code]
-
-| Anforderungskategorie | VDR-Ordner | Dokumente | Status |
-|---|---|---|---|
-| Gesellschaftsrecht / Verfassung | /01-Gesellschaft | 45 | Geprüft |
-| Wesentliche Verträge | /02-Verträge | 312 | In Bearbeitung |
-| IP / Technologie | /03-IP | 89 | Nicht begonnen |
-| Arbeitnehmer | /04-HR | 120 | Nicht begonnen |
-| Rechtstreitigkeiten / Behörden | /05-Streitigkeiten | 23 | Geprüft |
-```
-
-**Lücken:** [Anforderungskategorien ohne VDR-Inhalt – Nachforderung erforderlich]
-
-### Schritt 2: Wesentlichkeitsschwelle anwenden
-
-Gemäß Praxisprofil und Mandats-Kontext-Schwellen. Nicht alles prüfen, wenn die Schwelle Verträge über einem bestimmten Betrag vorschreibt.
-
-Bei Verträgen: nach angegebenem Wert oder nach Gegenparteirelevanz sortieren. Top-down prüfen bis Schwelle erreicht oder Kategorie erschöpft.
-
-### Schritt 3: Issues extrahieren
-
-Je gelesenes Dokument gegen den Standardkatalog für seine Kategorie prüfen:
-
-**Gesellschaftsrecht / Verfassung:**
-- Gesellschaftsvertrag / Satzung vollständig und aktuell?
-- Kapitalaufbringung nachgewiesen (§§ 7, 19 GmbHG; §§ 36, 54 AktG)?
-- Gesellschafterstruktur und Gesellschafterliste (§ 40 GmbHG) korrekt?
-- Vinkulierungsklauseln, Vorkaufsrechte, Mitziehrechte?
-- Beirat oder Gesellschafterausschuss mit eingeschränkten Rechten?
-- Nachschuss-/Einziehungsklauseln (§§ 26, 34 GmbHG)?
-
-**Wesentliche Verträge:**
-- Change-of-Control-Klausel (ausgelöst durch diesen Deal? Zustimmung erforderlich?)
-- Abtretungsbeschränkung (kann der Vertrag auf Käufer übergehen?)
-- Exklusivität / Wettbewerbsverbot
-- Kündigungsrechte wegen des Deals
-- Ungewöhnliche Haftungsregelungen; AGB-Kontrolle §§ 305 ff. BGB
-
-**IP / Technologie:**
-- Eigentumsnachweis (Abtretungen von Gründern/Arbeitnehmern vorhanden? § 69b UrhG; § 4 ArbNErfG)
-- Open Source im Produkt (Copyleft-Risiko? GPL/LGPL/AGPL)
-- Datenschutz (Verarbeitungsverzeichnis Art. 30 DSGVO; technisch-organisatorische Maßnahmen Art. 32 DSGVO)
-
-**Arbeitnehmer:**
-- Change-of-Control-Abfindungsansprüche
-- Risiko Betriebsübergang § 613a BGB (Unterrichtungspflicht; Widerspruchsrecht 1 Monat)
-- Betriebsrat (§ 102 BetrVG Kündigung; § 111 BetrVG Betriebsänderung)
-- Scheinselbstständigkeit (§ 611a BGB; Nachzahlungsrisiko Sozialversicherung)
-
-**Rechtsstreitigkeiten / Behörden:**
-- Anhängige Verfahren und Rückstellungen
-- Behördliche Anfragen oder laufende Prüfungen
-- Kartellrecht / BKartA-Verfahren
-
-### Schritt 4: Finding formulieren
-
-> **Quellenattribution.** Bei Verweis auf Normen, Rechtsprechung oder Behördenmaßnahmen mit entsprechendem Tag versehen: `[juris]`, `[beck-online]`, `[Westlaw DE]` bei Zitaten aus Recherchetool; `[Modellwissen — prüfen]` bei Zitaten aus Modellwissen; `[Nutzer bereitgestellt]` bei VDR- oder Deal-Team-Quellen.
-
-Je Finding-Vorlage aus Praxisprofil:
-
-```
-Finding #N: [Titel]
-Kategorie: [Anforderungskategorie]
-Schweregrad: [Stufe nach Hausschema]
-Dokumente: [VDR-Pfad + Dokumentenname]
-Finding: [Was das Dokument aussagt und warum es relevant ist]
-Empfehlung: [Preisanpassung / Einbehalt / Zustimmung erforderlich / Garantie / Vertragsabbruch]
-Vollzugshandlung: [ja – Zustimmung erforderlich / nein]
-```
-
-**Schweregradeinstufung:**
-- Rot **Blockierend:** Beeinflusst Deal-Wert oder -struktur.
-- Orange **Hoch:** Erheblich, aber lösbar.
-- Gelb **Mittel:** Klärungsbedarf; lösbar.
-- Gruen **Niedrig:** Für die Akte vermerkt.
-
-### Schritt 5: Bericht je Kategorie
-
-Findings nach Anforderungskategorie gruppieren. Innerhalb der Kategorie nach Schweregrad sortieren.
-
-### Schritt 6: Batch-Verarbeitung
-
-Für große Kategorien (300 Verträge): in Chargen verarbeiten. Nach jeder Charge laufende Issues-Liste aktualisieren und blockierende Punkte sofort melden.
-
-## Output-Template
-
-**Adressat:** Deal-Team (Lead Counsel) — **Tonfall:** sachlich-juristisch, präzise
-
-```
-[VERTRAULICH — ANWALTLICHES ARBEITSERGEBNIS]
-
-> Dieses Ergebnis entstammt VDR-Materialien, die vertraulich oder privilegiert
-> oder beides sind. Verteilung außerhalb des Vertraulichkeitskreises kann den
-> Schutz aufheben.
-
-### DD-Issues: [DEAL-CODE] — [KATEGORIE]
-Erstellt: [DATUM] | Bearbeiter: [NAME]
-
-Geprüfte Dokumente: [N] von [M] in Kategorie
-Abdeckung: [Alle | >X EUR-Schwelle | Top-N]
-Findings: [N] blockierend [N] hoch [N] mittel [N] niedrig
-
----
-
-## Zusammenfassung
-
-[N] blockierend · [N] hoch · [N] mittel — [das Eine, was das Deal-Team wissen muss]
-
----
-
-## Finding #1: [TITEL]
-
-Kategorie: [KATEGORIE]
-Schweregrad: [STUFE]
-Dokument: [VDR-PFAD/DOKUMENTENNAME]
-
-**Sachverhalt:**
-[Was das Dokument konkret aussagt]
-
-**Rechtliche Bewertung:**
-[Norm + Folge]
-
-**Empfehlung:**
-[Preisanpassung / Einbehalt / Zustimmung einholen / Garantie verlangen]
-
-**Vollzugshandlung:** [ja/nein]
-
----
-
-## Lücken
-
-- [Anforderungspunkt ohne responsive Dokumente]
-- [Referenziertes Dokument nicht im VDR]
-```
-
-## Rote Schwellen
-
-- Change-of-Control bei wesentlichen Verträgen (Umsatzanteil >10 %) → sofortige Eskalation an Deal-Lead
-- IP-Eigentumsluecke bei Kerntechnologie → blockierendes Finding; Abtretungs-Chain prüfen
-- Betriebsübergang § 613a BGB ohne Unterrichtungsplan → Vollzugsverzögerung droht
-- Fehlende aktuelle Gesellschafterliste (§ 40 GmbHG) → gutgläubiger Erwerb Dritter möglich
-- BKartA-Verfahren oder FDI-Prüfung offen → Vollzugsverbot beachten (§ 41 GWB)
-
-## Übergaben
-
-- **An ki-werkzeug-uebergabe:** Bei Nutzung von Luminance/Kira massenhafte Vertragsextraktion dorthin übergeben.
-- **An dealteam-zusammenfassung:** Aggregierte Findings speisen das Deal-Team-Briefing.
-- **An wesentliche-vertraege-anlage:** Vertragsextraktionen speisen die Disclosure Schedule.
-- **An vollzugs-checkliste:** Jedes Finding, das eine diskrete Vollzugshandlung impliziert.
-
-## Quellen und Zitierweise
-
-Zitierweise nach `../../references/zitierweise.md`.
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Was dieser Skill nicht tut
-
-- Er trifft keine Wesentlichkeitsentscheidung bei Grenzfällen. Er wendet die Schwelle an; ein Mensch entscheidet über den Grenzfall.
-- Er verhandelt keine Garantien. Er erstellt die Findings, die deren Inhalt informieren.
-- Er ersetzt keine KI-Massenprüfung. Für hochvolumige Klauselextraktion an ki-werkzeug-uebergabe übergeben.
-
----
-
-## Skill: `geschaeftsfuehrer-haftung-43-gmbhg`
-
-_Geschäftsführer haftet persoenlich oder Gesellschaft klagt gegen ihn auf Schadensersatz nach Insolvenz. Prüfraster § 43 GmbHG Sorgfalt ordentlicher Geschäftsmann Business Judgement Rule analog § 93 Abs. 1 Satz 2 AktG. Insolvenzantragspflicht-Verletzung § 15a InsO Zahlungsverbot § 15b InsO Complia..._
-
-# Geschäftsführer-Haftung § 43 GmbHG prüfen
-
-## Arbeitsbereich
-
-Geschäftsführer haftet persoenlich oder Gesellschaft klagt gegen ihn auf Schadensersatz nach Insolvenz. Prüfraster § 43 GmbHG Sorgfalt ordentlicher Geschäftsmann Business Judgement Rule analog § 93 Abs. 1 Satz 2 AktG. Insolvenzantragspflicht-Verletzung § 15a InsO Zahlungsverbot § 15b InsO Compliance-Pflichten Steuer-Haftung § 69 AO Sozialversicherung § 266a StGB. Entlastung Sperrwirkung Beweislast Verjährung fuenf Jahre § 43 Abs. 4 GmbHG. D&O-Versicherung Selbstbehalt. Output Haftungs-Prüf-Memo mit Risikoampel Verteidigungs-Argumenten oder Schadensersatz-Berechnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Geschäftsführer-Haftung § 43 GmbHG prüfen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Fachkern: Geschäftsführer-Haftung § 43 GmbHG prüfen
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
-- **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Triage zu Beginn
-
-Vor Beginn des Haftungsprüfrasters folgende Fragen klären:
-
-1. **Mandantenrolle:** Auf welcher Seite steht der Mandant — GF als Beklagter oder Gesellschaft/Insolvenzverwalter als Kläger?
-2. **Konkrete Pflichtverletzung:** Welche Handlung oder Unterlassung wird vorgeworfen?
-3. **Schaden bezifferbar:** Liegt ein konkreter bezifferter Schaden vor oder nur Schadensverdacht?
-4. **Verjährung:** Wann ist die Pflichtverletzung eingetreten? (5 Jahre, § 43 Abs. 4 GmbHG)
-5. **D&O-Deckung:** Besteht eine D&O-Versicherung? Wurden vorvertragliche Anzeigepflichten erfüllt?
-6. **Entlastungsbeschluss:** Wurde der GF entlastet (§ 46 Nr. 5 GmbHG)? Sperrwirkung prüfen.
-7. **Insolvenz:** Ist die Gesellschaft insolvent oder war sie es bei der Pflichtverletzung?
-
-## Zentrale Normen
-
-§ 43 GmbHG (Haftung des Geschäftsführers) — § 43 Abs. 4 GmbHG (Verjährung 5 Jahre) — § 93 AktG (Sorgfaltsmaßstab AG-Vorstand; analog für GmbH-GF) — § 46 Nr. 5 GmbHG (Entlastung durch GV) — § 15a InsO (Insolvenzantragspflicht; 3-Wochen-Frist) — § 15b InsO (Zahlungsverbot nach Insolvenzreife) — § 69 AO (Haftung für Steuerschulden) — § 266a StGB (Vorenthalten von Sozialversicherungsbeiträgen) — § 266 StGB (Untreue) — § 34 AO (steuerliche Pflichten des gesetzlichen Vertreters)
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Prüfschema: GF-Haftung § 43 GmbHG
-
-| Schritt | Prüfungspunkt | Inhalt | Ergebnis |
-|---|---|---|---|
-| 1 | Pflichten-Maßstab § 43 Abs. 1 GmbHG | Sorgfalt eines ordentlichen Geschäftsmannes; konkreter Sorgfaltsmaßstab nach Unternehmensgröße, Branche, Krise | Maßstab festgelegt |
-| 2 | Business Judgement Rule | Unternehmerische Entscheidung? Vernünftigerweise zum Wohl der Gesellschaft? Angemessene Informationsgrundlage? Gutgläubig? | BJR greift → keine Haftung / greift nicht → weiter |
-| 3 | Pflichtverletzung | Konkrete Handlung oder Unterlassung, die Sorgfaltsmaßstab verletzt | Pflichtverletzung festgestellt |
-| 4 | Schaden | Konkrete Schadensbezifferung; Kausalität Pflichtverletzung → Schaden | Schaden quantifiziert |
-| 5 | Verschulden | Vorsatz oder Fahrlässigkeit; Beweislast beim GF (§ 93 AktG analog) | Verschulden nachgewiesen/ausgeschlossen |
-| 6 | Insolvenzantragspflicht | § 15a InsO: Zahlungsunfähigkeit/Überschuldung festgestellt? 3-Wochen-Frist eingehalten? | Verletzung strafbar; Zivilhaftung §§ 823 Abs. 2 BGB iVm § 15a InsO |
-| 7 | Zahlungsverbot § 15b InsO | Zahlungen nach Insolvenzreife? Privileg für bestimmte Zahlungen? | Erstattungspflicht gegenüber Gesellschaft |
-| 8 | Steuerrecht § 69 AO | Steuern vorsätzlich oder grob fahrlässig nicht abgeführt? | Persönliche Haftung des GF |
-| 9 | Sozialversicherung § 266a StGB | Arbeitnehmeranteile nicht abgeführt? | Strafbarkeit + Zivilhaftung |
-| 10 | Entlastung § 46 Nr. 5 GmbHG | Entlastungsbeschluss gefasst? Sperrwirkung prüfen (nur bekannte Sachverhalte) | Klage gesperrt soweit Sperrwirkung reicht |
-| 11 | Verjährung § 43 Abs. 4 GmbHG | 5 Jahre ab Pflichtverletzung; Hemmung nach BGB | Verjährt oder Fristnotiz anlegen |
-| 12 | D&O-Versicherung | Deckungsumfang; Selbstbehalt; Vorsatz ausgeschlossen; Deckungsablehnung wegen grober Fahrlässigkeit | Deckungszusage oder -ablehnung prüfen |
-
-## Schritt-für-Schritt-Workflow
-
-1. **Sachverhalt chronologisch aufbereiten:** Zeitleiste der Ereignisse (Pflichtverletzung, Schaden, Entlastungsbeschluss, D&O-Anzeige).
-2. **Mandantenrolle festlegen:** GF-Verteidigung oder Aktivseite Gesellschaft/Insolvenzverwalter.
-3. **BJR prüfen:** Voraussetzungen nach ARAG/Garmenbeck systematisch durchgehen.
-4. **Pflichtverletzung herausarbeiten:** Konkrete Handlung oder Unterlassung benennen, Sorgfaltsmaßstab anlegen.
-5. **Schaden beziffern:** Konkreter Schaden vs. hypothetisch rechtmäßiges Alternativverhalten.
-6. **Insolvenzrisiko screenen:** § 15a InsO-Zeitpunkt bestimmen; Zahlungen nach Insolvenzreife inventarisieren.
-7. **Entlastung prüfen:** Beschlusstext und Aktenlage zum Zeitpunkt des Beschlusses analysieren.
-8. **Verjährung berechnen:** 5-Jahres-Frist ab konkreter Pflichtverletzung; Hemmungstatbestände prüfen.
-9. **D&O anzeigen:** Unverzügliche Anzeige bei Versicherer; Obliegenheitspflichten beachten.
-10. **Strategie festlegen:** Verteidigung (BJR + Entlastung + Verjährung) oder Aktivseite (Pflichtverletzung + Schaden + Kausalität).
-
-## Output-Template
-
-**Adressat:** Mandant / Kanzlei intern — **Tonfall:** sachlich-juristisch
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-```
-### Haftungsanalyse Geschäftsführer-Haftung § 43 GmbHG
-Gesellschaft: [FIRMA / HRB-NUMMER]
-Geschäftsführer: [NAME]
-Bearbeitungsstand: [DATUM]
-## Sachverhalt
-[Chronologische Kurzdarstellung der Pflichtverletzung]
-
-## Haftungsprüfung
-
-| Prüfungspunkt | Bewertung | Norm |
-|---|---|---|
-| Sorgfaltsmaßstab § 43 Abs. 1 GmbHG | [Maßstab beschrieben] | § 43 Abs. 1 GmbHG |
-| Business Judgement Rule | [greift / greift nicht] | § 93 Abs. 1 Satz 2 AktG analog |
-| Pflichtverletzung | [bejaht/verneint] | § 43 GmbHG |
-| Schaden | [X EUR / noch zu ermitteln] | § 249 BGB |
-| Kausalität | [bejaht/verneint] | — |
-| Entlastung § 46 Nr. 5 GmbHG | [Sperrwirkung ja/nein] | § 46 Nr. 5 GmbHG |
-| Verjährung § 43 Abs. 4 GmbHG | [läuft bis DATUM] | § 43 Abs. 4 GmbHG |
-| D&O-Deckung | [gedeckt/abgelehnt/offen] | D&O-Police |
-
-## Insolvenzrechtliche Haftung
-[§ 15a InsO: Zeitpunkt Insolvenzreife; Zahlungen nach Insolvenzreife]
-[§ 15b InsO: Erstattungspflicht quantifiziert]
-
-## Steuerliche und strafrechtliche Risiken
-[§ 69 AO, § 266a StGB — sofern einschlägig]
-
-## Empfehlung
-[Aktivseite: Klagefähigkeit bewerten | Verteidigung: Risikobewertung + Strategie]
-
-Fristnotiz: Verjährung läuft ab [DATUM DER PFLICHTVERLETZUNG] + 5 Jahre = [DATUM]
-```
-
-## Rote Schwellen
-
-- Insolvenzreife bekannt + Zahlungen fortgesetzt → § 15b InsO-Haftung; sofortige Mandatsanlage Insolvenzrecht
-- § 266 StGB (Untreue) im Raum → strafrechtliche Beratung vorab; Selbstbelastungsverbot beachten
-- D&O-Anzeige nicht fristgerecht → Obliegenheitsverletzung; Deckungsverlust möglich
-- Entlastung ohne Kenntnis der Pflichtverletzung → Sperrwirkung greift nicht; Klage zulässig
-
-## Quellen und Vertiefung
-
-- GmbHG §§ 43, 46, 50: https://www.gesetze-im-internet.de/gmbhg/__43.html
-- AktG § 93: https://www.gesetze-im-internet.de/aktg/__93.html
-- InsO § 15a (Insolvenzantragspflicht; Frist seit SanInsFoG mit Wirkung 01.01.2021: ohne Antrag 3 Wochen Zahlungsunfaehigkeit/6 Wochen Ueberschuldung — kein Automatismus, sondern Hoechstfrist): https://www.gesetze-im-internet.de/inso/__15a.html
-- InsO § 15b (rechtsformneutrales Zahlungsverbot bei Insolvenzreife, in Kraft seit 01.01.2021 durch SanInsFoG, BGBl. I 2020, 3256; ersetzt § 64 GmbHG a.F. und § 92 II AktG a.F.): https://www.gesetze-im-internet.de/inso/__15b.html
-- InsO §§ 17, 18, 19: https://www.gesetze-im-internet.de/inso/__17.html ; https://www.gesetze-im-internet.de/inso/__18.html ; https://www.gesetze-im-internet.de/inso/__19.html
-- AO § 69: https://www.gesetze-im-internet.de/ao_1977/__69.html
-- StGB §§ 14, 263, 266, 266a, 283 ff.: https://www.gesetze-im-internet.de/stgb/__14.html ; https://www.gesetze-im-internet.de/stgb/__266.html ; https://www.gesetze-im-internet.de/stgb/__266a.html
-- BGH, Urt. v. 21.04.1997 — II ZR 175/95 (ARAG/Garmenbeck; BGHZ 135, 244): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=21.04.1997&Aktenzeichen=II+ZR+175/95
-- Hinweis zur Anwendung: § 15a InsO i.d.F. SanInsFoG (BGBl. I 2020, 3256) — Antragspflicht aufgrund Pandemiefolgen wurde zeitweilig modifiziert (COVInsAG 2020/21), zwischenzeitlich ausgelaufen. Bei Altsachverhalten Stichtag prüfen.
-- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-
-## Übergabe an andere Skills
-
-- `gesellschaftsrecht:gesellschafterbeschluss` — Entlastungsbeschluss prüfen und anfechten
-- `gesellschaftsrecht:gesellschafterstreit-loesungsstrategie` — wenn Haftungsvorwurf Teil eines Gesellschafterkonflikts ist
-- `gesellschaftsrecht:mandat-triage-gesellschaftsrecht` — wenn Mandat neu aufgenommen wird
-
----
-
-## Skill: `gesellschafterbeschluss`
-
-_Erstellung, Prüfung und Anfechtung von Gesellschafterbeschluessen in GmbH (47 und 48 GmbHG) und AG (133 ff. AktG); Mehrheitserfordernisse, Beschlussfähigkeit, Formfragen, Protokollführung sowie Nichtigkeit (241 AktG analog) und Anfechtbarkeit (246 AktG analog). Laedt bei Mandaten zur Beschlussfas..._
-
-# Gesellschafterbeschluss – GmbH und AG
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gesellschafterbeschluss – GmbH und AG` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Fachkern: Gesellschafterbeschluss – GmbH und AG
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
-- **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Triage zu Beginn
-
-Vor der Bearbeitung folgende Fragen klären:
-
-1. **Rechtsform:** GmbH (§§ 47, 48 GmbHG), AG (§§ 121 ff., 133 ff. AktG) oder GmbH & Co. KG?
-2. **Beschlussgegenstand:** Was soll beschlossen werden (Satzungsänderung, Kapitalmaßnahme, GF-Bestellung, Gewinnverteilung)?
-3. **Ziel des Mandats:** Beschlussvorbereitung, Wirksamkeitsprüfung eines gefassten Beschlusses oder Anfechtungsklage?
-4. **Stimmrechte und Quorum:** Liegt der Gesellschaftsvertrag vor? Sonderregeln zu Mehrheiten?
-5. **Stimmverbote:** § 47 Abs. 4 GmbHG oder § 136 AktG einschlägig?
-6. **Anfechtungsfrist:** Wann wurde der Beschluss gefasst? (1-Monat-Frist analog § 246 Abs. 1 AktG läuft!)
-
-## Zentrale Normen
-
-§ 46 GmbHG (Zuständigkeitskatalog GV) — § 47 GmbHG (Abstimmung; Stimmrechtsausschluss Abs. 4) — § 48 GmbHG (Versammlung; Umlaufverfahren Abs. 2) — § 51 GmbHG (Einberufung; Frist 1 Woche) — § 53 GmbHG (Satzungsänderung; 3/4-Mehrheit; notarielle Beurkundung) — § 121 AktG (Einberufung HV) — § 133 AktG (Mehrheitsprinzip AG) — § 136 AktG (Stimmrechtsverbot AG) — § 241 AktG (Nichtigkeitsgründe; abschließend) — § 243 AktG (Anfechtbarkeit) — § 246 AktG (Anfechtungsklage; 1-Monat-Frist) — § 249 AktG (Nichtigkeitsklage)
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Prüfschema: Gesellschafterbeschluss
-
-| Schritt | Prüfungspunkt | Inhalt | Ergebnis |
-|---|---|---|---|
-| 1 | Einberufung | Ladungsform (GmbH: eingeschriebener Brief § 51; AG: § 121 AktG); Ladungsfrist (GmbH: 1 Woche; AG: 30 Tage § 123); Tagesordnung vollständig? | Einberufungsmangel → anfechtbar; Heilung möglich |
-| 2 | Beschlussfähigkeit | Quorum aus GV/Satzung; bei GmbH ohne Satzungsregelung: jede ordnungsgemäß einberufene GV beschlussfähig | Quorum-Mangel → Beschluss ungültig |
-| 3 | Stimmrechte ermitteln | GmbH: je 1 EUR = 1 Stimme (§ 47 Abs. 2); AG: je Aktie (§ 134 Abs. 1) | Stimmrechtsverteilung festgestellt |
-| 4 | Stimmrechtsausschluss | § 47 Abs. 4 GmbHG: Entlastung, Befreiung von Verbindlichkeit, Rechtsverfolgung; § 136 AktG analog | Stimmen stimmbefangener Gesellschafter nicht zählen |
-| 5 | Mehrheit berechnen | Einfache Mehrheit (§ 47 Abs. 1 GmbHG; § 133 Abs. 1 AktG); qualifizierte 3/4-Mehrheit bei Satzungsänderung (§ 53 Abs. 2 GmbHG; § 179 Abs. 2 AktG) | Mehrheit erreicht? |
-| 6 | Protokollierung | GmbH: Protokoll mit Abstimmungsergebnis; Satzungsänderung notariell beurkunden (§ 53 Abs. 2); AG: § 130 AktG notarielle Beurkundung | Formfehler → § 241 Nr. 2 AktG Nichtigkeit |
-| 7 | Anfechtbarkeit | Kausalität des Mangels für Beschlussergebnis (Relevanztheorie Quellenprüfung § 243 Rn. 8)? | Anfechtbar aber nicht nichtig |
-| 8 | Nichtigkeit | § 241 AktG analog: fehlende Form, Sittenwidrigkeit, zwingende Gesetzesvorschriften verletzt | Nichtig von Anfang an; jedermann kann einwenden |
-| 9 | Anfechtungsklage | Frist: 1 Monat ab Beschlussfassung analog § 246 Abs. 1 AktG; Klage gegen Gesellschaft; LG am Sitz | Fristnotiz anlegen! |
-| 10 | Heilung | § 242 AktG (Einberufungsmängel nach 3 Jahren); nicht bei § 241 Nr. 3 und 5 AktG | Heilung möglich → Abwarten sinnvoll? |
-
-## Schritt-für-Schritt-Workflow
-
-1. **Sachverhalt aufnehmen:** Gesellschaftsvertrag/Satzung lesen; Gesellschafterkreis und Stimmrechte ermitteln.
-2. **Einberufung prüfen:** Ladungsform, Ladungsfrist, Tagesordnung auf Vollständigkeit.
-3. **Beschlussfähigkeit feststellen:** Quorum aus GV/Satzung; alle Gesellschafter erschienen?
-4. **Stimmverbote screenen:** § 47 Abs. 4 GmbHG systematisch für jeden TOP durchgehen.
-5. **Mehrheit berechnen:** Gesamtstimmen (ohne stimmbefangene); Mehrheitserfordernis je Beschlussgegenstand.
-6. **Beschlusstext formulieren:** Präzise, vollständig, widerspruchsfrei; Abstimmungsergebnis als Zahl.
-7. **Protokoll vorbereiten:** TOP-Nummerierung, Beschlusstext, Abstimmungsergebnis, Unterschrift Versammlungsleiter; bei Satzungsänderung Notar beauftragen.
-8. **Anfechtbarkeit screenen:** Bei vorhandenen Mängeln Kausalität prüfen (Relevanztheorie).
-9. **Fristen notieren:** 1-Monat-Frist analog § 246 AktG sofort kalendarisch sichern.
-10. **Ausgabe:** Beschlussvorlage oder Anfechtungs-Memo je nach Mandatsinhalt.
-
-## Output-Template
-
-**Adressat:** Gesellschaft / Gesellschafter / Gericht — **Tonfall:** sachlich-juristisch / präzise
-
-### Beschlussvorlage
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
-```
-### Gesellschafterbeschluss
-[GESELLSCHAFTSNAME], [HRB-NUMMER]
-Gesellschafterversammlung vom [DATUM]
-## TOP [N]: [BEZEICHNUNG DES TAGESORDNUNGSPUNKTS]
-
-[Beschlusstext — präzise, vollständig]
-
-Abstimmungsergebnis:
-Ja-Stimmen: [N] ([PROZENT] %)
-Nein-Stimmen: [N] ([PROZENT] %)
-Enthaltungen: [N]
-Stimmbefangen: [NAME(N)] gem. § 47 Abs. 4 GmbHG wegen [GRUND]
-
-Der Beschluss ist [angenommen / abgelehnt].
-
-[ORT], den [DATUM]
-
-_________________________________
-[VERSAMMLUNGSLEITER]
-```
-
-### Anfechtungs-Memo
-
-```
-### Anfechtungs-Memo: Beschluss [GESELLSCHAFT] v. [DATUM]
-
-Beschlussgegenstand: [BESCHLUSSINHALT]
-
-Mängel:
-1. [MANGEL 1] — Norm: [§] — Kausalität: [ja/nein]
-2. [MANGEL 2] — Norm: [§] — Kausalität: [ja/nein]
-
-Anfechtungsklage:
-Frist: 1 Monat ab [DATUM] = [ABLAUFDATUM]
-Klage gegen: [GESELLSCHAFT] (§ 246 Abs. 2 AktG analog)
-Zuständiges Gericht: LG [ORT AM SITZ]
-
-Risikobewertung:
-[Anfechtungserfolg: hoch/mittel/gering — Begründung]
-
-Empfehlung:
-[Klage unverzüglich einreichen / weitere Sachverhaltsaufklärung / Abstehen]
-```
-
-## Rote Schwellen
-
-- Anfechtungsfrist 1 Monat analog § 246 Abs. 1 AktG — sofortige Fristnotiz nach Mandatsannahme
-- Fehlende notarielle Beurkundung bei Satzungsänderung → Nichtigkeit nach § 241 Nr. 2 AktG analog
-- Stimmrechtsausschluss übersehen → Anfechtbarkeit; Heilung nur möglich wenn kein Berechtigter klagt
-- Beschlussfähigkeit nicht festgestellt → gesamter Beschluss ungültig; Sitzung zu wiederholen
-
-## Quellen und Zitierweise
-
-- GmbHG §§ 46, 47, 48, 51, 53, 54
-- AktG §§ 121, 130, 133, 134, 136, 179, 241, 243, 246, 249
+- Paragraf 43a Abs. 2 BRAO (Verschwiegenheitspflicht)
+- Paragraf 43a Abs. 4 BRAO (Verbot widerstreitender Interessen)
+- Paragraf 203 Abs. 1 Nr. 3 StGB (Verletzung von Privatgeheimnissen)
+- Paragraf 50 BRAO (Handakten; Aufbewahrungspflicht)
+- Paragraf 1 ff. GwG (Geldwäscheprävention; Mandantenidentifizierung)
+- Paragraf 195, 199 BGB (Verjährung)
 
 Zitierweise nach `../../references/zitierweise.md`.
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
-## Übergabe an andere Skills
-
-- `gesellschaftsrecht:aufsichtsrat-protokoll` — Protokollierung des Beschlusses
-- `gesellschaftsrecht:geschaeftsfuehrer-haftung-43-gmbhg` — wenn Beschluss GF-Entlastung betrifft
-- `gesellschaftsrecht:gesellschafterstreit-loesungsstrategie` — wenn Beschluss Teil eines Gesellschafterkonflikts ist
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall und keine Interessenkonfliktprüfung.
 
 ---
-
 ## Audit-Hinweis (27.05.2026)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Status: NOT_FOUND — dejure.org findet zum Datum 10.02.2021 kein Urteil unter diesem Aktenzeichen; NZG 2021, 418 nicht verifizierbar.
-Maßnahme: Zitat entfernt. Kein Ersatz eingefügt; die gesetzliche Regelung (§ 48 Abs. 2 GmbHG sowie seit 2022 § 48 Abs. 1 S. 2 GmbHG) ist im Skill durch Normtexte abgedeckt.
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+---
+
+## Skill: `gesellschafterbeschluesse-textbausteine`
+
+_Wenn es um Gesellschafterbeschluesse: Schriftsatz-, Brief- und Memo-Bausteine in Gesellschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Gesellschafterbeschluesse: Schriftsatz-, Brief- und Memo-Bausteine
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gesellschafterbeschluesse: Schriftsatz-, Brief- und Memo-Bausteine` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
+- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
+- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Spezialwissen: Gesellschafterbeschluesse: Schriftsatz-, Brief- und Memo-Bausteine
+- **Normen-/Quellenanker:** AG, HRB, HRA.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Gesellschafterbeschluesse** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `rechtsabteilung-beirat-mit-vetorechten-in-der-gmbh`
+
+_Wenn es um Rechtsabteilung: Beirat mit Vetorechten in der GmbH in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Rechtsabteilung: Beirat mit Vetorechten in der GmbH
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsabteilung: Beirat mit Vetorechten in der GmbH` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
+- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
+- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Fachkern: Rechtsabteilung: Beirat mit Vetorechten in der GmbH
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
+- **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Spezialkern: Rechtsabteilung: Beirat mit Vetorechten in der GmbH
+
+- **Konkretes Problem:** Beiratsrechte werden zwischen Beratung, Zustimmung, Weisung und faktischer Geschäftsführung abgegrenzt.
+- **Norm-/Quellenanker:** GmbHG, AktG, MoPeG/BGB-Gesellschaftsrecht, HGB, UmwG, Registerrecht, Treuepflicht, Organhaftung und Beschlussmängelrecht.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
+
+## Norm- und Rechtsprechungsanker
+
+GmbHG Paragraf 45, 46, 52; Paragraf 242 BGB; Rechtsprechung zu Beiräten live prüfen
+
+## Sofortprüfung
+
+1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
+2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
+3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
+4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
+5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
+
+## Fachlicher Zuschnitt
+
+Beiratsrechte werden zwischen Beratung, Zustimmung, Weisung und faktischer Geschäftsführung abgegrenzt.
+
+## Output für die Rechtsabteilung
+
+- One-page legal memo mit Risikoampel und klarer Empfehlung.
+- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
+- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
+- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

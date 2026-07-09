@@ -1,25 +1,25 @@
-# Megaprompt: fachanwalt-it-recht
+# Vollprüfung: fachanwalt-it-recht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 137 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-it-recht`.
+Dieser Vollprüfung enthaelt top-8 von 137 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-it-recht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Einstieg, Triage und Routing für Fachanwalt IT-Recht: ordnet Rolle (Auftraggeber, Software-Hersteller, Cloud-Anbieter), …
-2. **mandat-triage-it-recht** — Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate mit Fristen-Sofort-Check: Anwendungsfall neues IT-Rechtsmandat …
-3. **fachanwalt-it-recht-orientierung** — Orientierung im IT-Recht für Mandate und Fachanwaltschaft nach FAO. Anwendungsfall Kanzlei will IT-Mandat beurteilen ode…
-4. **orientierung-mandat-fachanwaltschaft** — Orientierung im IT-Recht für Mandate und Fachanwaltschaft nach FAO: Anwendungsfall Kanzlei will IT-Mandat beurteilen ode…
-5. **orientierung-sonderfall-edge-case** — Orientierung: Sonderfall und Edge-Case-Prüfung: Orientierung: Sonderfall und Edge-Case-Prüfung.
-6. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für IT-, Datenschutz- und Telemedienrecht: Erfassung der Konstellation, Konflikt-…
-7. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
-8. **fachanwalt-it-recht-vertragsstrafe-pruefen** — Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Hoechstgrenzen prüfen. Anwendungsfall IT-Vertrag enthael…
+1. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt It Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näch…
+2. **mandat-triage-it-recht** — Wenn es um Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate mit Fristen-Sofort-Check in Fachanwalt It Recht geht…
+3. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung im IT-Recht für Mandate und Fachanwaltschaft nach FAO in Fachanwalt It Recht geht: prüft Frist, …
+4. **fachanwalt-it-recht-orientierung** — Wenn es um Fachanwalt für Informationstechnologierecht — Orientierung in Fachanwalt It Recht geht: prüft Frist, Form, Zu…
+5. **orientierung-sonderfall-edge-case** — Wenn es um Orientierung: Sonderfall und Edge-Case-Prüfung in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit,…
+6. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sof…
+7. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt It Recht geht: klärt Rolle, Ziel, Frist,…
+8. **dsv-meldung-lfd-sachsen-anhalt** — Wenn es um Reicht eine Meldung nach Art in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sof…
 
 ---
 
 ## Skill: `einstieg-routing`
 
-_Einstieg, Triage und Routing für Fachanwalt IT-Recht: ordnet Rolle (Auftraggeber, Software-Hersteller, Cloud-Anbieter), markiert Frist (Mängelfristen Software), wählt Norm (BGB §§ 631 ff. Software, GeschGehG, UrhG §§ 69a ff. Software) und Zuständigkeit (Zivilgerichte), leitet zum passenden Spezia..._
+_Wenn es um Einstieg und Routing in Fachanwalt It Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Einstieg und Routing
 
@@ -63,24 +63,25 @@ Dieser Einstieg routet **Fachanwalt It Recht** vom ersten Sachverhalt zu Rollen,
 
 ## Skill: `mandat-triage-it-recht`
 
-_Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate mit Fristen-Sofort-Check: Anwendungsfall neues IT-Rechtsmandat geht ein und muss schnell triagiert und dem richtigen..._
+_Wenn es um Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate mit Fristen-Sofort-Check in Fachanwalt It Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate mit Fristen-Sofort-Check
 
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Itr Open Source Mandat Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Fachanwalt It Recht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Arbeitsweg
 
@@ -235,7 +236,11 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Quellen
@@ -293,112 +298,9 @@ Bearbeiter: [NAME RA/RAin]
 
 ---
 
-## Skill: `fachanwalt-it-recht-orientierung`
-
-_Orientierung im IT-Recht für Mandate und Fachanwaltschaft nach FAO. Anwendungsfall Kanzlei will IT-Mandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung IT-Recht vor. Normen DSGVO BDSG TDDDG TKG NIS2UmsuCG BSIG DDG DSA DMA KI-VO 2024/1689 EVB-IT. Prüfraster Sachgebiet IT-Vertragsrecht Datenschutzrecht IT-Sicherheitsrecht NIS-2 KI-VO Cyber-Vorfall. Output Rechtsgebietsuebersicht mit Normenhierarchie verifizierbare Quellen und Routing zu Folge-Skills. Abgrenzung zu mandat-triage-it-recht und erstgespraech-mandatsannahme._
-
-# Fachanwalt für Informationstechnologierecht — Orientierung
-
-## FAO-Voraussetzungen
-
-- Lehrgang 120 Stunden + drei Klausuren.
-- 50 Fälle in den letzten drei Jahren, davon mindestens 25 IT-rechtliche und 15 streitige.
-
-## Wichtige Normen
-
-| Bereich | Norm |
-|---|---|
-| IT-Vertragsrecht | BGB §§ 305 ff. (AGB) §§ 631 ff. (Werkvertrag bei Softwareentwicklung) §§ 535 ff. (Mietrecht analog bei SaaS-Cloud-Modellen) |
-| Datenschutz | DSGVO BDSG TDDDG (Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz seit 14.05.2024 vormals TTDSG) |
-| Telekommunikation | TKG |
-| Digitale Dienste | DDG (Digitale-Dienste-Gesetz seit 14.05.2024 ersetzt TMG für Plattformbetreiber) |
-| Cybersicherheit | NIS2UmsuCG (in Kraft seit 06.12.2025) BSIG n.F. § 32 BSIG Meldepflichten |
-| Plattformregulierung | DSA (EU 2022/2065) DMA (EU 2022/1925) |
-| Kuenstliche Intelligenz | EU-KI-VO (EU 2024/1689) |
-| Urheberrecht | UrhG bei Software §§ 69a ff. UrhG |
-| Open Source | GPL MIT Apache LGPL etc. |
-| Patent | PatG bei computerimplementierten Erfindungen |
-
-## Typische Mandate
-
-- SaaS-Verträge Cloud-Verträge Software-Lizenz
-- Datenschutz-Audit Datenschutzfolgenabschätzung (siehe datenschutzrecht)
-- Open-Source-Compliance
-- IT-Sicherheit NIS2-Umsetzung
-- KI-Governance KI-VO (siehe ki-governance)
-- Plattformhaftung DSA Notice-and-Action
-- Sportradardienste Algorithmen
-- Eskalation bei Cyberangriff (Meldepflichten DSGVO Art. 33 / NIS2)
-
-## Fristen
-
-- **Datenpannenmeldung** DSGVO Art. 33 — 72 Stunden.
-- **NIS2-Meldepflicht** § 32 BSIG n.F. — 24 Stunden Frühwarnung 72 Stunden Folgemeldung Abschlussbericht binnen eines Monats.
-- **Vertragsverjährung** regelmäßig drei Jahre (§ 195 BGB).
-- **Open-Source-Lizenzverletzung** Verjährung drei Jahre.
-
-## Hauptgerichte
-
-- Landgericht Zivilkammern für IT-Sachen.
-- OLG.
-- BGH I. Zivilsenat oder III. Zivilsenat je nach Bezug.
-- Bundeskartellamt / Vergabekammer bei öffentlichen IT-Aufträgen.
-- BfDI und Landesdatenschutzbehörden.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Berufsverband
-
-- Davit Deutscher Anwaltverein IT-Recht.
-
-## Schnittstellen
-
-- **datenschutzrecht** für DSGVO-Pflichten.
-- **ki-governance** für KI-VO und AIA.
-- **gewerblicher-rechtsschutz** bei Markenrecht IT-Branding.
-- **vertragsrecht** bei SaaS-/Cloud-AGB-Prüfung.
-- **kanzlei-allgemein** Fristen Versand.
-
-## Aktuelle Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Triage zu Beginn
-
-1. Welches IT-Rechtsgebiet ist primär einschlägig?
-2. Liegt ein akuter Handlungsbedarf vor (Cyber-Vorfall, laufende Frist)?
-3. Welche anderen Plugins sind einzubeziehen? (datenschutzrecht / ki-governance / fachanwalt-strafrecht)
-4. Fachanwalt IT-Recht: FAO-Pflichtfächer (§ 14b FAO) alle abgedeckt?
-
-## Output-Template — Orientierungs-Übersicht
-
-**Adressat:** Mandant / Kanzlei intern — Tonfall: verständlich-erklärend
-
-```
-IT-Recht Orientierungs-Übersicht [DATUM]
-Sachgebiet: [BEZEICHNUNG]
-Primär einschlägig: [RECHTSGEBIET]
-Sekundär: [QUERVERWEISE]
-
-Wichtige Normen:
-- [NORM] — [KURZBESCHREIBUNG]
-
-Fristen im Blick:
-- [FRIST] bis [DATUM] — [BEZEICHNUNG]
-
-Anschlusskills: [LISTE WEITERFÜHRENDER SKILLS]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
 ## Skill: `orientierung-mandat-fachanwaltschaft`
 
-_Orientierung im IT-Recht für Mandate und Fachanwaltschaft nach FAO: Anwendungsfall Kanzlei will IT-Mandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung IT-Recht vor. Normen DS..._
+_Wenn es um Orientierung im IT-Recht für Mandate und Fachanwaltschaft nach FAO in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Orientierung im IT-Recht für Mandate und Fachanwaltschaft nach FAO
 
@@ -504,14 +406,125 @@ Anschlusskills: [LISTE WEITERFÜHRENDER SKILLS]
 ```
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+---
+
+## Skill: `fachanwalt-it-recht-orientierung`
+
+_Wenn es um Fachanwalt für Informationstechnologierecht — Orientierung in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Fachanwalt für Informationstechnologierecht — Orientierung
+
+## FAO-Voraussetzungen
+
+- Lehrgang 120 Stunden + drei Klausuren.
+- 50 Fälle in den letzten drei Jahren, davon mindestens 25 IT-rechtliche und 15 streitige.
+
+## Wichtige Normen
+
+| Bereich | Norm |
+|---|---|
+| IT-Vertragsrecht | BGB §§ 305 ff. (AGB) §§ 631 ff. (Werkvertrag bei Softwareentwicklung) §§ 535 ff. (Mietrecht analog bei SaaS-Cloud-Modellen) |
+| Datenschutz | DSGVO BDSG TDDDG (Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz seit 14.05.2024 vormals TTDSG) |
+| Telekommunikation | TKG |
+| Digitale Dienste | DDG (Digitale-Dienste-Gesetz seit 14.05.2024 ersetzt TMG für Plattformbetreiber) |
+| Cybersicherheit | NIS2UmsuCG (in Kraft seit 06.12.2025) BSIG n.F. § 32 BSIG Meldepflichten |
+| Plattformregulierung | DSA (EU 2022/2065) DMA (EU 2022/1925) |
+| Kuenstliche Intelligenz | EU-KI-VO (EU 2024/1689) |
+| Urheberrecht | UrhG bei Software §§ 69a ff. UrhG |
+| Open Source | GPL MIT Apache LGPL etc. |
+| Patent | PatG bei computerimplementierten Erfindungen |
+
+## Typische Mandate
+
+- SaaS-Verträge Cloud-Verträge Software-Lizenz
+- Datenschutz-Audit Datenschutzfolgenabschätzung (siehe datenschutzrecht)
+- Open-Source-Compliance
+- IT-Sicherheit NIS2-Umsetzung
+- KI-Governance KI-VO (siehe ki-governance)
+- Plattformhaftung DSA Notice-and-Action
+- Sportradardienste Algorithmen
+- Eskalation bei Cyberangriff (Meldepflichten DSGVO Art. 33 / NIS2)
+
+## Fristen
+
+- **Datenpannenmeldung** DSGVO Art. 33 — 72 Stunden.
+- **NIS2-Meldepflicht** § 32 BSIG n.F. — 24 Stunden Frühwarnung 72 Stunden Folgemeldung Abschlussbericht binnen eines Monats.
+- **Vertragsverjährung** regelmäßig drei Jahre (§ 195 BGB).
+- **Open-Source-Lizenzverletzung** Verjährung drei Jahre.
+
+## Hauptgerichte
+
+- Landgericht Zivilkammern für IT-Sachen.
+- OLG.
+- BGH I. Zivilsenat oder III. Zivilsenat je nach Bezug.
+- Bundeskartellamt / Vergabekammer bei öffentlichen IT-Aufträgen.
+- BfDI und Landesdatenschutzbehörden.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Berufsverband
+
+- Davit Deutscher Anwaltverein IT-Recht.
+
+## Schnittstellen
+
+- **datenschutzrecht** für DSGVO-Pflichten.
+- **ki-governance** für KI-VO und AIA.
+- **gewerblicher-rechtsschutz** bei Markenrecht IT-Branding.
+- **vertragsrecht** bei SaaS-/Cloud-AGB-Prüfung.
+- **kanzlei-allgemein** Fristen Versand.
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Triage zu Beginn
+
+1. Welches IT-Rechtsgebiet ist primär einschlägig?
+2. Liegt ein akuter Handlungsbedarf vor (Cyber-Vorfall, laufende Frist)?
+3. Welche anderen Plugins sind einzubeziehen? (datenschutzrecht / ki-governance / fachanwalt-strafrecht)
+4. Fachanwalt IT-Recht: FAO-Pflichtfächer (§ 14b FAO) alle abgedeckt?
+
+## Output-Template — Orientierungs-Übersicht
+
+**Adressat:** Mandant / Kanzlei intern — Tonfall: verständlich-erklärend
+
+```
+IT-Recht Orientierungs-Übersicht [DATUM]
+Sachgebiet: [BEZEICHNUNG]
+Primär einschlägig: [RECHTSGEBIET]
+Sekundär: [QUERVERWEISE]
+
+Wichtige Normen:
+- [NORM] — [KURZBESCHREIBUNG]
+
+Fristen im Blick:
+- [FRIST] bis [DATUM] — [BEZEICHNUNG]
+
+Anschlusskills: [LISTE WEITERFÜHRENDER SKILLS]
+```
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
 ## Skill: `orientierung-sonderfall-edge-case`
 
-_Orientierung: Sonderfall und Edge-Case-Prüfung: Orientierung: Sonderfall und Edge-Case-Prüfung._
+_Wenn es um Orientierung: Sonderfall und Edge-Case-Prüfung in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Orientierung: Sonderfall und Edge-Case-Prüfung
 
@@ -549,7 +562,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Skill: `erstgespraech-mandatsannahme`
 
-_Strukturierter Erstgespraechsleitfaden für IT-, Datenschutz- und Telemedienrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen: Strukturierter Erstgespraechsleit..._
+_Wenn es um Erstgespraech Mandatsannahme in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Strukturierter Erstgespraechsleitfaden für IT-, Datenschutz- und Telemedienrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
@@ -770,14 +783,18 @@ Nächste Schritte: [LISTE]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
 ## Skill: `erstpruefung-und-mandatsziel`
 
-_Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel._
+_Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt It Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -824,176 +841,125 @@ Frühe gerichtliche Eskalation (Klage, einstweilige Verfügung) bringt schnelle 
 
 ---
 
-## Skill: `fachanwalt-it-recht-vertragsstrafe-pruefen`
+## Skill: `dsv-meldung-lfd-sachsen-anhalt`
 
-_Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Hoechstgrenzen prüfen. Anwendungsfall IT-Vertrag enthaelt Vertragsstrafenklausel und es stellt sich die Frage ob sie wirksam vereinbart ist. Normen § 339 BGB Vertragsstrafe § 307 BGB AGB-Kontrolle Transparenzgebot § 343 BGB Herabsetzung § 348 HGB beiderseitiges Handelsgeschäft § 341 Abs. 3 BGB Vorbehalt. Prüfraster Klauselinhalt klar definierte Pflichtverletzung Hoechstgrenze Verschulden Individualvereinbarung Herabsetzungsrecht BGH-Linie. Output Vertragsstrafenprüfvermerk mit Wirksamkeitsbeurteilung Verhandlungsempfehlung und Anpassungsvorschlag. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr._
+_Wenn es um Reicht eine Meldung nach Art in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dsv Meldung Lfd Sachsen Anhalt; Arbeitsfeld: Fachanwalt It Recht._
 
-# Vertragsstrafe prüfen
-
-## Kaltstart-Rückfragen
-
-1. Steht die Vertragsstrafenklausel in AGB oder in einer Individualvereinbarung?
-2. Welche konkrete Pflicht (Liefertermin, Datenschutz, Geheimhaltung, Wettbewerbsverbot) soll abgesichert werden?
-3. Ist die Strafe pro Tag, pro Verstoß oder einmalig vereinbart? Existiert eine Höchstgrenze?
-4. Sind beide Vertragsparteien Kaufleute i.S.d. HGB?
-5. Wurde die Strafe bei Annahme der Hauptleistung ausdrücklich vorbehalten (§ 341 Abs. 3 BGB)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
-## Anspruchsgrundlagen
-
-- Vertragsstrafenversprechen § 339 BGB — fällig mit Verzug oder Verstoß bei verschuldeter Pflichtverletzung.
-- Bei Werkleistung Vorbehalt nötig § 341 Abs. 3 BGB sonst Verwirkung.
-- AGB-Kontrolle: Transparenz § 307 Abs. 1 Satz 2 BGB; unangemessene Benachteiligung § 307 Abs. 1 Satz 1 BGB.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Herabsetzungsmöglichkeit § 343 BGB nur außerhalb beiderseitigen Handelsgeschäftes § 348 HGB.
-- Anrechnung auf Schadensersatz § 340 Abs. 2 BGB bzw. § 341 Abs. 2 BGB.
-
-## Beweislast und Frist
-
-- Gläubiger trägt Beweislast für Pflichtverletzung und Verschulden des Schuldners; Verschulden wird bei Schuldnerpflichtverletzung nach § 280 Abs. 1 Satz 2 BGB vermutet.
-- Schuldner trägt Beweislast für unangemessene Höhe § 343 BGB.
-- Verjährung nach § 195 BGB drei Jahre ab Schluss des Jahres der Kenntnis.
-
-## Prüfschema
-
-```
-1. Klausel-Typ (AGB / Individualvereinbarung)
-2. Bestimmtheit — welche Pflicht? welche Hoehe?
-3. Transparenz § 307 Abs. 1 Satz 2 BGB
-4. Hoechstgrenze (in AGB zwingend)
-5. Verhaeltnis zum Schadensersatz § 340/341 Abs. 2 BGB
-6. Verschulden des Schuldners
-7. Vorbehalt bei Annahme § 341 Abs. 3 BGB pruefen
-8. Herabsetzungsantrag § 343 BGB bei Nicht-Handelsgeschaeft
-```
-
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Vertragsstrafe pruefen und geltend machen | Geltendmachungs-Schreiben; Template unten |
-| Variante A — Vertragsstrafe ueberschiessend | § 343 BGB-Herabsetzung pruefen; Risiko Rueckforderung |
-| Variante B — Mandant will Vertragsstrafe nicht ausloesen | Stillhaltevereinbarung; Vertragsanpassung statt Strafe |
-| Variante C — Wiederholte Pflichtverletzung | Mehrfache Vertragsstrafe oder Kuendigung erwaegen |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+# Reicht eine Meldung nach Art
 
 
-## Schreibvorlage Geltendmachung der Vertragsstrafe
+## Arbeitsweg
 
-```
-Sehr geehrte Damen und Herren,
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; DSGVO; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-namens und in Vollmacht unserer Mandantschaft machen wir die in
-Ziffer [X] des Vertrages vom [Datum] vereinbarte Vertragsstrafe geltend.
+**Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für den Datenschutz Sachsen-Anhalt (LfD ST) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Sachsen-Anhalt und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus DSG LSA Datenschutzgesetz Sachsen-Anhalt; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
-Ihre Pflichtverletzung besteht darin dass [konkrete Pflichtverletzung
-mit Datum und Beweisangebot].
+### Meldung Art. 33 DSGVO an die LfD ST
 
-Die vereinbarte Strafe betraegt [EUR Hoehe] und ist nach § 339 BGB mit
-Verzugsbeginn am [Datum] verwirkt.
+## Triage — kläre vor der Bearbeitung
 
-Wir haben uns die Vertragsstrafe bei Annahme der Hauptleistung am
-[Datum] ausdruecklich vorbehalten § 341 Abs. 3 BGB.
+1. Ist die LfD ST tatsächlich zuständig (Sitzland, Lead Authority Art. 56 DSGVO)?
+2. Liegt ein nicht-öffentlicher oder öffentlicher Verantwortlicher vor?
+3. Welcher Eingabeweg ist vorgegeben (Online-Formular versus Post versus E-Mail)?
+4. Welche Sonderregelung aus DSG LSA Datenschutzgesetz Sachsen-Anhalt ist zu beachten?
+5. Ist eine vorläufige Meldung sinnvoll und wann erfolgt die Nachmeldung?
+- Was will der Mandant wirklich erreichen? (akzeptierte Erstmeldung in 72 h; keine Rückfragen)
 
-Wir fordern Sie auf bis spaetestens [Datum zwei Wochen] EUR [Hoehe] auf
-unser Konto IBAN [...] zu zahlen.
+## Rechtsgrundlagen
 
-Weitergehende Schadensersatzanspruechen behalten wir uns vor § 340
-Abs. 2 BGB.
+- **Art. 33 DSGVO** Meldepflicht.
+- **Art. 55 DSGVO** Zuständigkeit der Aufsichtsbehörde.
+- **DSG LSA Datenschutzgesetz Sachsen-Anhalt** landesrechtliche Sondervorschriften für öffentliche Stellen.
+- **Art. 5 Abs. 2 DSGVO** Rechenschaftspflicht.
 
-Mit freundlichen Gruessen
-```
+## Aktuelle Rechtsprechung
 
---- vor Versand klaeren ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+Nicht aus Modellwissen; aktuelle Bußgeldpraxis der LfD ST vor Ausgabe verifizieren.
 
-## Übergabe
+## Zentrale Normen
 
-- Bei Zahlungsausfall: Übergabe an `forderungsmanagement-klagewerkstatt`.
-- Bei Herabsetzungsantrag des Schuldners: gesonderte Stellungnahme zur Angemessenheit § 343 BGB.
-- Verjährungsfrist im Aktenkalender notieren.
+Art. 33; Art. 55; Art. 5 Abs. 2 DSGVO; DSG LSA Datenschutzgesetz Sachsen-Anhalt.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+## Behördenstammdaten LfD ST
 
-## Zentrale Normen (Paragrafenkette)
-- § 339 BGB — Verwirkung der Vertragsstrafe bei Verschulden
-- § 340 BGB — Strafe statt Erfuellung
-- § 341 BGB — Strafe neben Erfuellung; Abs. 3 Vorbehalt bei Annahme
-- § 343 BGB — richterliche Herabsetzung (auszer § 348 HGB)
-- § 348 HGB — Ausschluss Herabsetzung bei beidseitigem Handelsgeschaeft
-- § 307 Abs. 1 Satz 2 BGB — Transparenzgebot AGB
-- § 309 Nr. 6 BGB — Klauselverbote ohne Wertungsspielraum (Vertragsstrafe im B2C-Bereich)
+- Name: Landesbeauftragter für den Datenschutz Sachsen-Anhalt
+- Anschrift: Leiterstraße 9; 39104 Magdeburg
+- Kontakt: poststelle@lfd.sachsen-anhalt.de; Telefon 0391 81803-0
+- Online-Meldeformular: datenschutz.sachsen-anhalt.de — Meldeformular Datenpanne
+- Sondernorm: DSG LSA Datenschutzgesetz Sachsen-Anhalt
+- Bundesland: Sachsen-Anhalt
 
-## Quellenregel
+Hinweis: Adressen und URLs werden vor Versendung über die offizielle Behördenseite verifiziert; sie können sich ändern.
 
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Triage zu Beginn
-1. Handelt es sich um AGB oder Individualvereinbarung (§ 305 Abs. 1 BGB)?
-2. Ist die strafbewehrte Pflicht hinreichend konkret beschrieben (Transparenzgebot)?
-3. Existiert eine Hoechtgrenze bei Tagessatz-Struktur?
-4. Wurden beide Parteien als Kaufleute im HGB-Sinne eingestuft (§ 348 HGB relevant)?
-5. Wurde der Vorbehalt bei Annahme der Hauptleistung erklaert (§ 341 Abs. 3 BGB)?
+## Berliner Struktur als Goldstandard
 
-## Output-Template — Geltendmachung Vertragsstrafe
-**Adressat:** Vertragspartner (Auftragnehmer / Schuldner) — Tonfall: sachlich-juristisch
-```
-[KANZLEI]
-[ADRESSE]
-[DATUM]
+Die Meldeformular-Vorlage der Berliner Beauftragten für Datenschutz und Informationsfreiheit deckt strukturell alle Pflichtangaben nach Art. 33 Abs. 3 DSGVO ab und wird als inhaltliche Prüfliste verwendet. Die Meldung gliedert sich in sechs Bloecke:
 
-[NAME MANDANT] ./. [GEGNER]
-[AKTENZEICHEN]
+**I. Wo ist die Datenpanne passiert?**
+- Verantwortliche Stelle (Unternehmen, Verein, Praxis, Behörde) — Name, Anschrift, Webseite, Branche.
+- Angaben zur meldenden Person — Name, Funktion, dienstliche E-Mail, Telefon.
 
-Betreff: Geltendmachung Vertragsstrafe gemaess § 339 BGB
+**II. Was ist passiert?**
+- Art der Datenpanne (Vertraulichkeit, Integritaet, Verfuegbarkeit; konkrete Kategorie).
+- Beschreibung — was ist passiert; welche Fehler oder Sicherheitsluecken; welche technischen Systeme und Dienste.
+- Auftragsverarbeiter beteiligt — falls ja Name und Anschrift.
+- Beginn und Dauer der Datenpanne; ggf. fruehestmoeglichen Zeitpunkt.
+- Datum der Kenntnisnahme (loest 72-Stunden-Frist aus).
+- Betroffene Datenarten — Namen; Adressen; E-Mail-Adressen; Standort; Geburtsdatum; Passwoerter; Personalausweisnummer; Pass; Steuernummer; Bankdaten; wirtschaftliche Verhältnisse; Straftaten; politische Meinungen; religioese Ueberzeugungen; Gewerkschaftszugehoerigkeit; Gesundheit; Sexualitaet; ethnische Herkunft; Biometrie; Identifikationsnummern; Fotos/Videos; unbekannt.
+- Art. 9 DSGVO-Daten ja/nein/nicht bekannt.
+- Kategorien betroffener Personen — Mitarbeiter; Nutzer; Kunden; Patienten; Politiker; Kinder/Minderjaehrige; Personen öffentlichen Lebens; andere.
+- Anzahl betroffener Personen (Obergrenze).
+- Anzahl betroffener Datensaetze.
+- Wahrscheinliche Folgen für Betroffene — Geheimnisoffenbarung; wirtschaftliche Nachteile; finanzieller Schaden; Bloss­stellung; Rufschaedigung; Verlust des Arbeitsplatzes; Existenzgefaehrdung; Lebensgefaehrdung; Diskriminierung; gesellschaftliche Nachteile; Identitaetsdiebstahl; Aufhebung Pseudonymisierung; andere.
 
-Sehr geehrte Damen und Herren,
+**III. Welche Gegenmassnahmen wurden ergriffen oder werden vorgeschlagen?**
+- Bereits eingeleitete und geplante Gegenmassnahmen zur Schadensminderung und zur kuenftigen Verhinderung.
+- Vorbestehende technische und organisatorische Maßnahmen sowie Begruendung, weswegen sie nicht ausgereicht haben.
+- Information der Betroffenen ja/nein; wie und wann; welche Empfehlungen; bei nein Begruendung zu Art. 34 DSGVO.
 
-wir vertreten [NAME MANDANT]. In der oben bezeichneten Sache machen wir
-die in Ziffer [X] des Vertrages vom [DATUM VERTRAG] vereinbarte
-Vertragsstrafe geltend.
+**IV. Sonstige Mitteilungen an die Aufsichtsbehoerde**
+- Andere Behörden eingeschaltet (mit Aktenzeichen).
+- Strafanzeige (Dienststelle, Aktenzeichen).
+- Sonstige Hinweise.
 
-Ihre Pflichtverletzung: [BESCHREIBUNG PFLICHTVERLETZUNG MIT DATUM UND ORT].
+**V. Dokumente**
+- Forensischer Untersuchungsbericht.
+- Auflistung der technischen und organisatorischen Maßnahmen.
+- Muster Benachrichtigungsschreiben Art. 34 DSGVO.
+- Schlüsselmaterial (PGP).
 
-Verwirkte Strafe: EUR [BETRAG] ([BERECHNUNGSGRUNDLAGE: z.B. 5 Werktage
-à EUR [TAGESSATZ]]).
+**VI. Abschluss**
+- Vorlaeufige Meldung ja/nein; bei vorläufiger Meldung Ergaenzung binnen 14 Tagen.
 
-Vorbehalt bei Annahme: Mit Annahme der Hauptleistung am [DATUM] haben
-wir uns die Vertragsstrafe ausdruecklich vorbehalten (§ 341 Abs. 3 BGB).
+Diese sechs Bloecke werden in jeder Behörden-spezifischen Meldung adressiert; die Reihenfolge kann je nach Formular variieren.
 
-Wir fordern Sie auf, bis zum [DATUM FRIST] EUR [BETRAG] auf IBAN [IBAN]
-zu ueberweisen.
+## Praxisformulierung — Einreichungsablauf
 
-Weitergehende Schadensersatzansprueche bleiben vorbehalten (§ 340 Abs. 2 BGB).
+1. Erstmeldung über das Online-Formular oder per E-Mail an die unten genannte Adresse.
+2. Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur (Block I bis VI).
+3. Anlagen als PDF (forensischer Bericht; TOM-Liste; Muster Benachrichtigung).
+4. Bei Bedarf vorläufige Meldung mit Hinweis auf Nachreichung binnen 14 Tagen.
+5. Eingangsbestätigung archivieren; Aktenzeichen in das interne Vorfallregister übernehmen.
 
-Mit freundlichen Gruessen
-[KANZLEI]
-```
+## Abgrenzung zu anderen Skills
 
+- `dsv-aufnahme-statusinformation` bildet die strukturierte Erstaufnahme; dieser Skill setzt darauf auf.
+- `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung ab; bei Bedarf zusätzlich ziehen.
+- `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
+- `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
-<!-- AUDIT 27.05.2026 bundle_055
-Halluzinations-Reparatur: BGH VII ZR 117/15 (NOT_FOUND) geloescht.
-Zusaetzlich: BGH VII ZR 165/14 (NOT_FOUND) ebenfalls geloescht (beide Entscheidungen
-nicht auf dejure.org nachweisbar). Verbleibende Zitate VII ZR 210/01 und VIII ZR 26/15
-sind verifiziert.
--->
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
-<!-- END ausformulierungspflicht (autogen) -->
+- `dsv-meldung-art-33-pflichtangaben` liefert die generische Pflichtinhalte-Vorlage.
+- `dsv-nachmeldung-aktualisierung-art-33-abs-4` deckt die Nachmeldung ab.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

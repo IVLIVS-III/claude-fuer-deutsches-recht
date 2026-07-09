@@ -1,3 +1,13 @@
+# v429.13.0 — Rechtsprechungsanker und Promptprofile bereinigt
+
+- Die Rechtsprechungsprofile für Werkstatt- und Schnellstart-Prompts wurden nachgeschärft: Arbeitszeugnis, Bank- und Kapitalmarktrecht, Datenbankrecht, Lobbyregister, Geldwäscheprävention, Cybersicherheit, Kartellrecht, Produktrecht, Sozialversicherungsstatus und Forderungsmanagement erhalten nun eigene Normen-, Beweislast-, Rechtsfolgen- und Rechtsprechungsanker statt zufälliger Nachbarprofile.
+- Arbeitszeugnis-Prompts verweisen nicht mehr auf Kündigungs- oder Befristungsrecht, sondern auf Zeugnisrecht mit GewO Paragraf 109, BGB Paragraf 630 sowie BAG-Linien zu Gesamtnote, Zeugnisklarheit, tabellarischer Bewertung, Verzicht und Vollstreckbarkeit.
+- Der pauschale Verwaltungsrechtsanker `BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)` wurde repo-weit entfernt, weil er als Füllanker in fachfremde Skills und Prompts geraten war.
+- Forderungsmanagement und GmbH-Gesellschafterhaftung wurden bei Trihotel und Bremer Vulkan berichtigt: Trihotel wird mit `BGH, Urteil vom 16.07.2007 - II ZR 3/04` geführt, Bremer Vulkan mit `BGH, Urteil vom 17.09.2001 - II ZR 178/99`.
+- Werkstatt-, Schnellstart- und Vollprüfungs-Prompts wurden neu erzeugt; Marketplace, Plugin-Manifeste, Skill-Übersichten, Asset-Index und Testakten-Übersichten wurden auf v429.13.0 synchronisiert.
+
+---
+
 # v429.12.0 — Rechtsprechungsanker und Fristenstand korrigiert
 
 - Der Technikregulierungsprüfer verwendet den Familienrechtsanker `1 BvR 2017/21` nicht mehr in falschem Zusammenhang. Dieser Anker ist nun korrekt im Familienrecht bei der Vaterschaftsanfechtung verortet; die Polizeidatenanalyse verweist auf `1 BvR 1547/19` und `1 BvR 2634/20`.

@@ -58,9 +58,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 35 Abs. 1 InsO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zahlungsunfähigkeit ist regelmäßig bei Liquiditätslücke von zehn Prozent anzunehmen.
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.
-- Insolvenzverwalter ficht Zahlung 4 Jahre vor Eröffnung an. - Paragraf 133 InsO - Paragraf 26 StaRUG - Paragraf 49 StaRUG - Paragraf 25 StaRUG - Paragraf 31 StaRUG - Paragraf 29 StaRUG - Paragraf 9 StaRUG
 - BGH 17.10.2017 IX ZR 65/16 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- Verifizierte Anker: BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen Paragraf 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: Paragraf 343 InsO Anerkennung
+- BGH IX ZR 72/20 vom 06.05.2021 — Aus der bloßen Zahlungsunfähigkeit allein kein Schluss auf Vorsatz iSd Paragraf 133 Abs. 1 InsO
+- BGH IX ZR 129/22 vom 18.04.2024 — Bestätigung der Neuausrichtung der Vorsatzanfechtung; konkrete Bedrohungslage und Erwartung dauerhafter Unterdeckung darzulegen; einfaches Bestreiten des außenstehenden
 
 ## 7. Antwortform
 

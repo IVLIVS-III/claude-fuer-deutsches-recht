@@ -1,34 +1,34 @@
-# Megaprompt: berichtspflichten-erlediger
+# Vollprüfung: berichtspflichten-erlediger
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-15 von 57 Skills des Plugins `berichtspflichten-erlediger`.
+Dieser Vollprüfung enthaelt top-15 von 57 Skills des Plugins `berichtspflichten-erlediger`.
 
 ## Inhaltsverzeichnis
 
-1. **stichprobe-und-befreiung-kleine-unternehmen** — Prüft bei Statistik- und Berichtspflichten, ob kleine/mittlere Unternehmen wegen Schwellen, Stichprobe, Bagatelle, einma…
-2. **berichtspflichten-register-und-fristenboard** — Zentrales Fristen- und Zuständigkeitsboard für wiederkehrende Unternehmensmeldungen: Statistik, Steuer, Sozialversicheru…
-3. **kaltstart-routing** — Einstieg für mittelständische Betriebe: Berichtspflichten, Statistikmeldungen, Portale, Fristen, Zuständigkeiten, Datenq…
-4. **csrd-esrs-lagebericht** — Nachhaltigkeitsberichterstattung: Anwendungsbereich, doppelte Wesentlichkeit, Datenpunkte, Lagebericht, Prüfung und mitt…
-5. **idev-estatistik-core** — Elektronische Statistikmeldungen über IDEV/eSTATISTIK.core: Zugang, Rollen, Importdateien, Plausibilitätsprüfung, Versan…
-6. **arbeitsunfall-dguv-audit-trail** — Arbeitsunfall/Berufskrankheit melden: Drei-Tage-Regel, Unfallanzeige, Betriebsrat, Fachkraft, Berufsgenossenschaft und D…
-7. **chemikalien-reach-csddd-vorschau-csrd** — Chemikalienrecht: Registrierung, Sicherheitsdatenblatt, CLP-Einstufung, Meldungen, nachgeschalteter Anwender und Stoffbe…
-8. **aussenhandel-intrastat-battg** — Intrastat/Außenhandelsstatistik: Eingänge/Versendungen, Schwellen, Warennummer, Ursprungsland, Lieferbedingung und Korre…
-9. **konjunktur-und-produktionsstatistik** — Produktions-, Monats-, Jahres- und Konjunkturstatistiken für produzierende Betriebe: Erzeugnisse, Mengen, Umsätze, Auftr…
-10. **bundesbank-awv-z4-z5** — Außenwirtschaftsmeldungen an die Bundesbank: Z4/Z5/Z10, Zahlungs- und Forderungsbestände, Schwellen, Fristen und Meldebe…
-11. **produktsicherheit-rueckruf-market** — Produktsicherheitsrecht: gefährliches Produkt, Rückruf, Safety Gate, Marktüberwachung, Händler-/Herstellerrolle und Doku…
-12. **umsatzsteuer-voranmeldung-elster** — USt-Voranmeldung als Berichtspflicht: Frist, Dauerfristverlängerung, Beleglogik, innergemeinschaftliche Lieferungen und …
-13. **transparenzregister-gwg-ubo** — Transparenzregister: wirtschaftlich Berechtigte, Meldefiktion, Änderungen, Unstimmigkeitsmeldung, Bußgeldrisiko und Konz…
-14. **behoerdenkommunikation** — Saubere Behördenkommunikation bei Berichtspflichten: Rückfrage, Fristverlängerung, Korrektur, Nichtzuständigkeit und Nac…
-15. **battg-batterieregister-mengen** — Batterierecht: Registrierung, Geräte-/Industriebatterien, Rücknahme, Mengenmeldung, neue EU-Batterieverordnung-Schnittst…
+1. **ki-einsatz-lohnsteuer** — Wenn es um digitale Werkzeuge zum Ausfüllen und Validieren nutzen in Berichtspflichten-Erlediger geht: ordnet Sachverhal…
+2. **ausland-tochter-emissionshandel-tehg** — Wenn es um Auslandstöchter und deutsche Berichtspflichten in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm,…
+3. **idev-estatistik-core** — Wenn es um IDEV und eSTATISTIK.core praktisch nutzen in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Bewe…
+4. **lucid-verpackg-maschinen-ce** — Wenn es um LUCID Registrierung und Datenmeldung in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislas…
+5. **verdienststatistik-verdstatg** — Wenn es um Verdienststatistik und Entgeltdaten in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast…
+6. **chemikalien-reach-csddd-vorschau-csrd** — Wenn es um REACH/CLP Bericht und Stoffdaten in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, G…
+7. **csrd-esrs-lagebericht** — Wenn es um CSRD/ESRS Nachhaltigkeitsbericht in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, G…
+8. **konjunktur-und-produktionsstatistik** — Wenn es um Konjunktur- und Produktionsstatistik in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislas…
+9. **stichprobe-und-befreiung-kleine-unternehmen** — Wenn es um Stichprobe, Schwelle und Entlastung kleiner Unternehmen in Berichtspflichten-Erlediger geht: rechnet Schwelle…
+10. **transparenzregister-gwg-ubo** — Wenn es um Transparenzregister und wirtschaftlich Berechtigte in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, N…
+11. **produktsicherheit-rueckruf-market** — Wenn es um Produktsicherheit und Marktüberwachung melden in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege…
+12. **handwerk-gefahrstoffe-asbest** — Wenn es um Handwerk: Asbest, Gefahrstoffe und Anzeigen in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, …
+13. **mutterschutz-gefaehrdungsbeurteilung** — Wenn es um Mutterschutz Gefährdungsbeurteilung und Meldung in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Bele…
+14. **bauwirtschaft-soka-behg** — Wenn es um Bauwirtschaft SOKA und Meldepflichten in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken…
+15. **maschinen-ce-konformitaetsakte** — Wenn es um Maschinen CE und technische Dokumentation in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lü…
 
 ---
 
-## Skill: `stichprobe-und-befreiung-kleine-unternehmen`
+## Skill: `ki-einsatz-lohnsteuer`
 
-_Prüft bei Statistik- und Berichtspflichten, ob kleine/mittlere Unternehmen wegen Schwellen, Stichprobe, Bagatelle, einmaliger Auswahl oder Härte entlastet werden können im Berichtspflichten._
+_Wenn es um digitale Werkzeuge zum Ausfüllen und Validieren nutzen in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Stichprobe, Schwelle und Entlastung kleiner Unternehmen
+# KI zum Ausfüllen und Validieren nutzen
 
 ## Arbeitsweg
 
@@ -40,13 +40,13 @@ _Prüft bei Statistik- und Berichtspflichten, ob kleine/mittlere Unternehmen weg
 
 ## Norm- und Quellenanker
 
-BStatG; jeweilige Statistikgesetze; KMU-Schwellen nach EU/Handelsrecht nur kontextbezogen; VwVfG Ermessen.
+DSGVO; Geschäftsgeheimnisse; KI-VO je nach System; Fachrecht.
 
 ## Red Flags
 
-- Schwellenwerte aus falschem Jahr
-- KMU-Begriff falsch übertragen
-- Ignorieren statt sauberer Rückfrage
+- Geheimdaten in unsichere KI
+- KI schätzt Zahlen
+- keine menschliche Freigabe
 
 ## Arbeitsstil
 
@@ -54,11 +54,11 @@ Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, 
 
 ---
 
-## Skill: `berichtspflichten-register-und-fristenboard`
+## Skill: `ausland-tochter-emissionshandel-tehg`
 
-_Zentrales Fristen- und Zuständigkeitsboard für wiederkehrende Unternehmensmeldungen: Statistik, Steuer, Sozialversicherung, Umwelt, Produkt, Lieferkette und Aufsicht im Berichtspflichten._
+_Wenn es um Auslandstöchter und deutsche Berichtspflichten in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Register und Fristenboard für Berichtspflichten
+# Auslandstöchter und deutsche Berichtspflichten
 
 ## Arbeitsweg
 
@@ -70,80 +70,13 @@ _Zentrales Fristen- und Zuständigkeitsboard für wiederkehrende Unternehmensmel
 
 ## Norm- und Quellenanker
 
-BStatG; AO/UStG/EStG; SGB IV; VerpackG; KrWG; DSGVO; interne Compliance-Dokumentation.
+AWV; HGB; LkSG/CSRD; Steuerrecht; BStatG.
 
 ## Red Flags
 
-- nur Outlook-Erinnerung ohne Vertreter
-- keine Portalpasswörter dokumentiert
-- Freigabe durch Geschäftsführung fehlt
-
-## Arbeitsstil
-
-Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
-
----
-
-## Skill: `kaltstart-routing`
-
-_Einstieg für mittelständische Betriebe: Berichtspflichten, Statistikmeldungen, Portale, Fristen, Zuständigkeiten, Datenquellen und Vermeidungs-/Vereinfachungsoptionen schnell sortieren._
-
-# Berichtspflichten: Kaltstart und Pflichtenscan
-
-## Aktenstart statt Formularstart
-
-Wenn zu **Kaltstart Routing** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Berichtspflichten Erlediger** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
-
-Starte dann mit einer knappen Rueckmeldung:
-
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
-
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
-
-## Norm- und Quellenanker
-
-BStatG § 15 Auskunftspflicht; Fachgesetze je Meldeart; VwVfG; OWiG/Bußgeldnormen; DSGVO; Geschäftsgeheimnisgesetz.
-
-## Red Flags
-
-- Frist läuft schon
-- Portalzugang liegt bei ausgeschiedenem Mitarbeiter
-- Daten werden geschätzt statt belegt
-- freiwillige Daten werden unnötig preisgegeben
-
-## Arbeitsstil
-
-Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
-
----
-
-## Skill: `csrd-esrs-lagebericht`
-
-_Nachhaltigkeitsberichterstattung: Anwendungsbereich, doppelte Wesentlichkeit, Datenpunkte, Lagebericht, Prüfung und mittelständische Lieferkettenschnittstelle im Berichtspflichten._
-
-# CSRD/ESRS Nachhaltigkeitsbericht
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: HGB § 325 Offenlegung 12 Monate, GwG-Risikoanalyse jährlich, LkSG-Bericht 4 Monate nach Geschäftsjahr, CSRD Berichtsjahre gestaffelt 2024 ff.
-- Tragende Normen verifizieren: HGB §§ 264, 289, 290, 315, AktG §§ 90, 91, 161 (Erklärung zur Unternehmensführung), DCGK, GwG § 6 Risikoanalyse / § 9 jährlich, LkSG §§ 3, 10, NIS2 Art. 23, CSRD-Umsetzung, DSGVO Art. 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht, CSRD-Nachhaltigkeitsbericht, GwG-Risikoanalyse, LkSG-Bericht, Compliance-Bericht, Aufsichtsratsbericht, Datenschutz-Tätigkeitsbericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-HGB/CSRD-Umsetzung live prüfen; ESRS; EU-Recht; Wirtschaftsprüferpraxis.
-
-## Red Flags
-
-- Kundenfragebogen als Gesetz missverstanden
-- Datenpunkte ohne Verantwortliche
-- Greenwashingrisiko
+- AWV vergessen
+- Tochterdaten ungeprüft
+- lokales Recht ignoriert
 
 ## Arbeitsstil
 
@@ -153,7 +86,7 @@ Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, 
 
 ## Skill: `idev-estatistik-core`
 
-_Elektronische Statistikmeldungen über IDEV/eSTATISTIK.core: Zugang, Rollen, Importdateien, Plausibilitätsprüfung, Versandnachweis und interne Ablage im Berichtspflichten._
+_Wenn es um IDEV und eSTATISTIK.core praktisch nutzen in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # IDEV und eSTATISTIK.core praktisch nutzen
 
@@ -182,11 +115,11 @@ Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, 
 
 ---
 
-## Skill: `arbeitsunfall-dguv-audit-trail`
+## Skill: `lucid-verpackg-maschinen-ce`
 
-_Arbeitsunfall/Berufskrankheit melden: Drei-Tage-Regel, Unfallanzeige, Betriebsrat, Fachkraft, Berufsgenossenschaft und Dokumentation im Berichtspflichten._
+_Wenn es um LUCID Registrierung und Datenmeldung in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Arbeitsunfallanzeige DGUV
+# LUCID Registrierung und Datenmeldung
 
 ## Arbeitsweg
 
@@ -198,38 +131,53 @@ _Arbeitsunfall/Berufskrankheit melden: Drei-Tage-Regel, Unfallanzeige, Betriebsr
 
 ## Norm- und Quellenanker
 
-SGB VII; DGUV-Vorgaben live prüfen; ArbSchG.
+VerpackG §§ 7, 9, 10; Stiftung Zentrale Stelle Verpackungsregister.
 
 ## Red Flags
 
-- Unfall vertuscht
-- Zeugen nicht dokumentiert
-- Arbeitsschutzmaßnahmen fehlen
+- Versandverpackung vergessen
+- Marktplatz sperrt Angebot
+- Mengen zwischen System und LUCID verschieden
 
 ## Arbeitsstil
 
 Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
 
-## Normen und Rechtsprechung
+---
 
-### Kuratierte Normen-Bibliothek
+## Skill: `verdienststatistik-verdstatg`
 
-- GG Art. 1, 3, 20 (Grundrechte, Rechtsstaat)
-- BGB §§ 133, 157, 242 (Auslegung, Treu und Glauben)
-- VwVfG §§ 28, 35, 48, 49 (Anhörung, Verwaltungsakt, Rücknahme/Widerruf)
-- VwGO §§ 42, 80, 113 (Anfechtungsklage, Eilrechtsschutz)
+_Wenn es um Verdienststatistik und Entgeltdaten in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-### Leitentscheidungen
+# Verdienststatistik und Entgeltdaten
 
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: HGB § 325 Offenlegung 12 Monate, GwG-Risikoanalyse jährlich, LkSG-Bericht 4 Monate nach Geschäftsjahr, CSRD Berichtsjahre gestaffelt 2024 ff.
+- Tragende Normen verifizieren: HGB §§ 264, 289, 290, 315, AktG §§ 90, 91, 161 (Erklärung zur Unternehmensführung), DCGK, GwG § 6 Risikoanalyse / § 9 jährlich, LkSG §§ 3, 10, NIS2 Art. 23, CSRD-Umsetzung, DSGVO Art. 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht, CSRD-Nachhaltigkeitsbericht, GwG-Risikoanalyse, LkSG-Bericht, Compliance-Bericht, Aufsichtsratsbericht, Datenschutz-Tätigkeitsbericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Norm- und Quellenanker
+
+VerdStatG und BStatG live prüfen; DSGVO; Entgeltabrechnungsdaten.
+
+## Red Flags
+
+- Bonus falsch zugeordnet
+- Teilzeit nicht sauber umgerechnet
+- Personendaten unnötig breit
+
+## Arbeitsstil
+
+Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
 
 ---
 
 ## Skill: `chemikalien-reach-csddd-vorschau-csrd`
 
-_Chemikalienrecht: Registrierung, Sicherheitsdatenblatt, CLP-Einstufung, Meldungen, nachgeschalteter Anwender und Stoffbeschränkungen im Berichtspflichten._
+_Wenn es um REACH/CLP Bericht und Stoffdaten in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # REACH/CLP Bericht und Stoffdaten
 
@@ -260,11 +208,11 @@ Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, 
 
 ---
 
-## Skill: `aussenhandel-intrastat-battg`
+## Skill: `csrd-esrs-lagebericht`
 
-_Intrastat/Außenhandelsstatistik: Eingänge/Versendungen, Schwellen, Warennummer, Ursprungsland, Lieferbedingung und Korrekturmeldung im Berichtspflichten._
+_Wenn es um CSRD/ESRS Nachhaltigkeitsbericht in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Außenhandel und Intrastat
+# CSRD/ESRS Nachhaltigkeitsbericht
 
 ## Arbeitsweg
 
@@ -276,13 +224,13 @@ _Intrastat/Außenhandelsstatistik: Eingänge/Versendungen, Schwellen, Warennumme
 
 ## Norm- und Quellenanker
 
-AHStatG; EU-Intrastat-Regeln; Warenverzeichnis; BStatG.
+HGB/CSRD-Umsetzung live prüfen; ESRS; EU-Recht; Wirtschaftsprüferpraxis.
 
 ## Red Flags
 
-- Dienstleistung statt Ware
-- Warennummer geraten
-- Schwelle nicht überwacht
+- Kundenfragebogen als Gesetz missverstanden
+- Datenpunkte ohne Verantwortliche
+- Greenwashingrisiko
 
 ## Arbeitsstil
 
@@ -292,7 +240,7 @@ Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, 
 
 ## Skill: `konjunktur-und-produktionsstatistik`
 
-_Produktions-, Monats-, Jahres- und Konjunkturstatistiken für produzierende Betriebe: Erzeugnisse, Mengen, Umsätze, Auftragseingang im Berichtspflichten._
+_Wenn es um Konjunktur- und Produktionsstatistik in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
 # Konjunktur- und Produktionsstatistik
 
@@ -322,11 +270,11 @@ Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, 
 
 ---
 
-## Skill: `bundesbank-awv-z4-z5`
+## Skill: `stichprobe-und-befreiung-kleine-unternehmen`
 
-_Außenwirtschaftsmeldungen an die Bundesbank: Z4/Z5/Z10, Zahlungs- und Forderungsbestände, Schwellen, Fristen und Meldebefreiungen im Berichtspflichten._
+_Wenn es um Stichprobe, Schwelle und Entlastung kleiner Unternehmen in Berichtspflichten-Erlediger geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
 
-# Bundesbank AWV Z4/Z5 Meldungen
+# Stichprobe, Schwelle und Entlastung kleiner Unternehmen
 
 ## Arbeitsweg
 
@@ -338,15 +286,45 @@ _Außenwirtschaftsmeldungen an die Bundesbank: Z4/Z5/Z10, Zahlungs- und Forderun
 
 ## Norm- und Quellenanker
 
-- AWG/AWV, besonders AWV §§ 66 ff. für Bestandsmeldungen und AWV § 67 für Zahlungsmeldungen; Formulare/Schwellen live bei der Bundesbank prüfen.
-- Bundesbank-AMS, Z4/Z5/Z5a/Z10-Systematik, XML-Umstellungen und Meldefristen live prüfen; Banküberweisung ersetzt keine Meldung.
-- Steuer, Geldwäsche, Sanktionen und Transfer Pricing nur als Parallelrisiken markieren, nicht mit AWV-Meldung vermischen.
+BStatG; jeweilige Statistikgesetze; KMU-Schwellen nach EU/Handelsrecht nur kontextbezogen; VwVfG Ermessen.
 
 ## Red Flags
 
-- Banküberweisung ersetzt Meldung nicht
-- Schwelle pro Monat falsch
-- Auslandsdarlehen vergessen
+- Schwellenwerte aus falschem Jahr
+- KMU-Begriff falsch übertragen
+- Ignorieren statt sauberer Rückfrage
+
+## Arbeitsstil
+
+Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
+
+---
+
+## Skill: `transparenzregister-gwg-ubo`
+
+_Wenn es um Transparenzregister und wirtschaftlich Berechtigte in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck._
+
+# Transparenzregister und wirtschaftlich Berechtigte
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: HGB § 325 Offenlegung 12 Monate, GwG-Risikoanalyse jährlich, LkSG-Bericht 4 Monate nach Geschäftsjahr, CSRD Berichtsjahre gestaffelt 2024 ff.
+- Tragende Normen verifizieren: HGB §§ 264, 289, 290, 315, AktG §§ 90, 91, 161 (Erklärung zur Unternehmensführung), DCGK, GwG § 6 Risikoanalyse / § 9 jährlich, LkSG §§ 3, 10, NIS2 Art. 23, CSRD-Umsetzung, DSGVO Art. 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht, CSRD-Nachhaltigkeitsbericht, GwG-Risikoanalyse, LkSG-Bericht, Compliance-Bericht, Aufsichtsratsbericht, Datenschutz-Tätigkeitsbericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Norm- und Quellenanker
+
+- GwG §§ 18 bis 26a: Transparenzregister, Angaben, Mitteilungspflichten, Einsicht, Unstimmigkeitsmeldung und Bußgeldrisiko.
+- GwG § 3 für wirtschaftlich Berechtigte; bei Stiftungen, Treuhand, KG/KGaA und mehrstufigen Beteiligungen besonders sorgfältig.
+- Transparenzregisterportal, Gebühren und BVA/BfJ-Praxis live prüfen; alte Meldefiktion nicht ungeprüft fortschreiben.
+
+## Red Flags
+
+- Treuhand nicht erkannt
+- KG-Kette unklar
+- Altmeldung veraltet
 
 ## Arbeitsstil
 
@@ -356,7 +334,7 @@ Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, 
 
 ## Skill: `produktsicherheit-rueckruf-market`
 
-_Produktsicherheitsrecht: gefährliches Produkt, Rückruf, Safety Gate, Marktüberwachung, Händler-/Herstellerrolle und Dokumentation im Berichtspflichten._
+_Wenn es um Produktsicherheit und Marktüberwachung melden in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
 # Produktsicherheit und Marktüberwachung melden
 
@@ -390,11 +368,11 @@ Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, 
 
 ---
 
-## Skill: `umsatzsteuer-voranmeldung-elster`
+## Skill: `handwerk-gefahrstoffe-asbest`
 
-_USt-Voranmeldung als Berichtspflicht: Frist, Dauerfristverlängerung, Beleglogik, innergemeinschaftliche Lieferungen und Korrektur im Berichtspflichten._
+_Wenn es um Handwerk: Asbest, Gefahrstoffe und Anzeigen in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Umsatzsteuer-Voranmeldung und ELSTER
+# Handwerk: Asbest, Gefahrstoffe und Anzeigen
 
 ## Arbeitsweg
 
@@ -406,15 +384,13 @@ _USt-Voranmeldung als Berichtspflicht: Frist, Dauerfristverlängerung, Beleglogi
 
 ## Norm- und Quellenanker
 
-- UStG §§ 13, 13a, 14, 15, 18 für Steuerentstehung, Steuerschuldner, Rechnung, Vorsteuer und Voranmeldung.
-- AO §§ 149, 150, 152, 153, 168 für Erklärung, Verspätung, Berichtigung und Steueranmeldung unter Vorbehalt.
-- UStDV, ELSTER-Hinweise und BMF-Schreiben nur aktuell verwenden; innergemeinschaftliche Meldungen mit ZM und OSS/IOSS abgleichen.
+GefStoffV; TRGS 519/521 live prüfen; ArbSchG.
 
 ## Red Flags
 
-- Beleg fehlt
-- ZM und UStVA widersprechen sich
-- Dauerfristverlängerung vergessen
+- Asbestverdacht ignoriert
+- Sachkundenachweis fehlt
+- Entsorgungsnachweis fehlt
 
 ## Arbeitsstil
 
@@ -422,11 +398,11 @@ Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, 
 
 ---
 
-## Skill: `transparenzregister-gwg-ubo`
+## Skill: `mutterschutz-gefaehrdungsbeurteilung`
 
-_Transparenzregister: wirtschaftlich Berechtigte, Meldefiktion, Änderungen, Unstimmigkeitsmeldung, Bußgeldrisiko und Konzernfälle im Berichtspflichten._
+_Wenn es um Mutterschutz Gefährdungsbeurteilung und Meldung in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Transparenzregister und wirtschaftlich Berechtigte
+# Mutterschutz Gefährdungsbeurteilung und Meldung
 
 ## Arbeitsweg
 
@@ -438,15 +414,13 @@ _Transparenzregister: wirtschaftlich Berechtigte, Meldefiktion, Änderungen, Uns
 
 ## Norm- und Quellenanker
 
-- GwG §§ 18 bis 26a: Transparenzregister, Angaben, Mitteilungspflichten, Einsicht, Unstimmigkeitsmeldung und Bußgeldrisiko.
-- GwG § 3 für wirtschaftlich Berechtigte; bei Stiftungen, Treuhand, KG/KGaA und mehrstufigen Beteiligungen besonders sorgfältig.
-- Transparenzregisterportal, Gebühren und BVA/BfJ-Praxis live prüfen; alte Meldefiktion nicht ungeprüft fortschreiben.
+MuSchG; ArbSchG; DSGVO.
 
 ## Red Flags
 
-- Treuhand nicht erkannt
-- KG-Kette unklar
-- Altmeldung veraltet
+- Gesundheitsdaten zu breit
+- Meldung vergessen
+- Beschäftigungsverbot vorschnell
 
 ## Arbeitsstil
 
@@ -454,11 +428,11 @@ Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, 
 
 ---
 
-## Skill: `behoerdenkommunikation`
+## Skill: `bauwirtschaft-soka-behg`
 
-_Saubere Behördenkommunikation bei Berichtspflichten: Rückfrage, Fristverlängerung, Korrektur, Nichtzuständigkeit und Nachweis im Berichtspflichten._
+_Wenn es um Bauwirtschaft SOKA und Meldepflichten in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
 
-# Behördenkommunikation und Fristverlängerung
+# Bauwirtschaft SOKA und Meldepflichten
 
 ## Arbeitsweg
 
@@ -470,19 +444,13 @@ _Saubere Behördenkommunikation bei Berichtspflichten: Rückfrage, Fristverläng
 
 ## Norm- und Quellenanker
 
-- VwVfG §§ 24, 25, 26, 28, 31, 32, 37, 39 für Amtsermittlung, Beratung, Anhörung, Frist, Wiedereinsetzung und Bescheidlogik.
-- BStatG bei statistischen Erhebungen: Auskunftspflicht, Geheimhaltung, Hilfsmerkmale und Sanktionen nur anhand des konkreten Erhebungsbescheids prüfen.
-- OWiG §§ 55, 56, 65 ff. nur, wenn die Behörde bereits bußgeldrechtlich anhört, verwarnt oder einen Bußgeldbescheid vorbereitet.
-- Fachrechtliche Spezialfrist schlägt allgemeine Höflichkeit: Portal, Rechtsbehelfsbelehrung, Nebenbestimmung und Erhebungsbogen wörtlich lesen.
+VTV/SOKA-BAU; AEntG; MiLoG; Bauarbeitsrecht live prüfen.
 
 ## Red Flags
 
-- zu informell
-- Schuld eingestanden ohne Prüfung
-- keine Zugangsbestätigung
-- Behörde ruft an, aber die Rechtsgrundlage bleibt unklar
-- Fristverlängerung wird informell zugesagt, aber nicht schriftlich bestätigt
-- Statistik- oder Meldedaten werden umfangreicher herausgegeben als verlangt
+- Betriebsabteilung falsch
+- Subunternehmerkette
+- Ausbaugewerk verkannt
 
 ## Arbeitsstil
 
@@ -490,11 +458,11 @@ Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, 
 
 ---
 
-## Skill: `battg-batterieregister-mengen`
+## Skill: `maschinen-ce-konformitaetsakte`
 
-_Batterierecht: Registrierung, Geräte-/Industriebatterien, Rücknahme, Mengenmeldung, neue EU-Batterieverordnung-Schnittstelle im Berichtspflichten._
+_Wenn es um Maschinen CE und technische Dokumentation in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Batterierecht und Mengenmeldung
+# Maschinen CE und technische Dokumentation
 
 ## Arbeitsweg
 
@@ -506,13 +474,13 @@ _Batterierecht: Registrierung, Geräte-/Industriebatterien, Rücknahme, Mengenme
 
 ## Norm- und Quellenanker
 
-BattG; EU-Batterieverordnung; Stiftung ear/UBA-Hinweise live prüfen.
+Maschinenverordnung/Maschinenrichtlinie; ProdSG; EU-Harmonisierungsrecht.
 
 ## Red Flags
 
-- Knopfzellen im Produkt vergessen
-- Auslandshersteller ohne Bevollmächtigten
-- EU-Reform nicht geprüft
+- Konformitätserklärung ohne Risikobeurteilung
+- wesentliche Veränderung übersehen
+- Normen veraltet
 
 ## Arbeitsstil
 
@@ -522,7 +490,7 @@ Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, 
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
